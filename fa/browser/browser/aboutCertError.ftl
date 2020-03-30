@@ -71,3 +71,4 @@ netTimeout-title = مهلت اتصال تمام شد
 proxyConnectFailure-title = کارگزار پیشکار از برقراری اتصال خودداری می‌کند.
 proxyResolveFailure-title = کارگزار پیشکار پیدا نشد
 unknownSocketType-title = جواب غیرمنتظره از کارگزار
+remoteXUL-title = XUL راه دور
