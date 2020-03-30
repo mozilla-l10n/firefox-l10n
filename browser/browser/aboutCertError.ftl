@@ -71,4 +71,5 @@ unknownProtocolFound-title = 인식할 수 없는 주소
 proxyConnectFailure-title = 프록시 서버가 연결을 거부함
 proxyResolveFailure-title = 프록시 서버를 찾을 수 없음
 nssFailure2-title = 보안 연결 실패
+cspBlocked-title = 콘텐츠 보안 정책에 의한 차단
 remoteXUL-title = 원격 XUL
