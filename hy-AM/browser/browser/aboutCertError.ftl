@@ -55,3 +55,15 @@ cert-error-details-hsts-label = HTTP խիստ փոխանցման անվտանգ�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Վկայագրի նպատակ.
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Չհաջողվեց կապ հաստատել
+deniedPortAccess-title = Այս հասցեն արգելափակված է
+generic-title = Վայ։
+netInterrupt-title = Կապը խզվեց
+netOffline-title = Անցանց եղանակ
+contentEncodingError-title = Բովանդակության Կոդավորման Սխալ
+unsafeContentType-title = Ոչ անվտանգ ֆայլի տեսակ
+netReset-title = Կապը խզվեց
+netTimeout-title = Կապի հաստատման ժամանակը սպառվեց
