@@ -12,3 +12,5 @@ blocklist-label-summary = { -brand-short-name } تشخیص داده است که 
 blocklist-soft-blocked = به منظور حفاظت از شما، به شدت توصیه می‌شود که این افزودنی‌ها را غیر فعال کنید و اقدام به راه‌اندازی مجدد نمایید.
 blocklist-more-information =
     .value = اطلاعات بیشتر
+blocklist-checkbox =
+    .label = غیرفعال کردن
