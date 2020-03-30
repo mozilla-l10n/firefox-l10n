@@ -60,6 +60,7 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = დაკავშირება ვერ მოხერხდა
 fileNotFound-title = ფაილი ვერ მოიძებნა
+generic-title = მოთხოვნის დასრულება ვერ ხერხდება
 netInterrupt-title = კავშირი გაწყდა
 netReset-title = კავშირი გაწყდა
 proxyConnectFailure-title = პროქსი სერვერმა კავშირი უარყო
