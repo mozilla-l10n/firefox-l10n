@@ -64,24 +64,24 @@ deniedPortAccess-title = Ko kundaharenda ndaikatúi eipuru
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.
 fileNotFound-title = Marandurenda ndojejuhúiva
-fileAccessDenied-title = Jeike kuatiaitépe noñemoneĩri
-generic-title = Ndi.
+fileAccessDenied-title = Marandurendápe jeike noñemoneĩri
+generic-title = Oops.
 captivePortal-title = Eñepyrũ tembiapo ñandutípe
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-malformedURI-title = Hmm. Ko kundaharape ha'ete ku ndoikóiva.
+malformedURI-title = Hmm. Ko kundaharape ndojehechaporãi.
 netInterrupt-title = Pe jeike ojejokóma
-notCached-title = Kuatia oikove'ỹmava
-netOffline-title = Jeikekatu'ỹre
+notCached-title = Kuatiaite ndoikovéima
+netOffline-title = Jeike'ỹ ayvu
 contentEncodingError-title = Tetepy mbopapapy jejavy
-unsafeContentType-title = Koichagua marandurenda hekotee'ỹva
+unsafeContentType-title = Peteĩchagua marandurenda hekorosã’ỹva
 netReset-title = Jeike oñepyrũjeýma
 netTimeout-title = Pe jeike ndoikovéima
 unknownProtocolFound-title = Pe kundaharape nahesakãi
 proxyConnectFailure-title = Mohendahavusu proxy ombotove jeike
 proxyResolveFailure-title = Ndaikatúi ojejuhu mohendahavusu proxy
 redirectLoop-title = Ko kuatiarogue ndoguerahajeýi hekoitépe
-unknownSocketType-title = Mbohovái eha'ãrõ'ỹva mohendahavusúgui
+unknownSocketType-title = Mbohovái eha'ãrõ’ỹva mohendahavusúgui
 nssFailure2-title = Jeikekatu jejavýva
 cspBlocked-title = Ojejoko hetepy rekorosãrã purureko rupi
 xfoBlocked-title = Ojokóma tapereko X-Frame-Options

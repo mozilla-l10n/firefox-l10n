@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Poravorãme jeike
-# This menuitem is only visible on Windows
-menu-menuitem-import = Ñe'ẽñemi jegueru...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Egueru ambue kundahára guive…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Omoĩporã:
 login-list-name-option = Téra  (A-Z)
 login-list-name-reverse-option = Téra (Z-A)
 login-list-breached-option = Ñanduti renda imarãmava
+about-logins-login-list-alerts-option = Kyhyjerã
 login-list-last-changed-option = Ñemoambue ipyahuvéva
 login-list-last-used-option = Ojepurúva ipahaitépe
 login-list-intro-title = Ndojejuhúi jeikeha
@@ -164,6 +163,15 @@ breach-alert-text = Umi ñe’ẽñemi oñembogua térã oñemonda ko ñanduti r
 breach-alert-link = Eñemomaranduve ko mba’evai rehegua.
 breach-alert-dismiss =
     .title = Emboty ko kyhyjeha
+about-logins-breach-alert-learn-more-link = Kuaave
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Ñe’ẽñemi ivaikuaáva
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Eho { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Kuaave
 
 ## Error Messages
 
