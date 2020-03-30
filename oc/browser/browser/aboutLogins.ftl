@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Dobrir lo menú
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importar los senhals…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar d’un autre navegador…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Triar per :
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
 login-list-breached-option = Pèrda de donadas de sites
+about-logins-login-list-alerts-option = Alèrtas
 login-list-last-changed-option = Darrièra modificacion
 login-list-last-used-option = Darrièra utilizacion
 login-list-intro-title = Cap d’identificant pas trobat
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Picatz vòstras informacions de connexion
 login-list-item-subtitle-missing-username = (Pas cap de nom d’utilizaire)
 about-logins-list-item-breach-icon =
     .title = Site amb contengut expausat al public
+about-logins-list-item-vulnerable-password-icon =
+    .title = Senhal vulnerable
 
 ## Introduction screen
 
@@ -160,10 +161,23 @@ confirm-discard-changes-dialog-confirm-button = Ignorar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Divulgacion de donadas d’un site web
 breach-alert-text = Los senhals d’aqueste site foguèron panats o divulgats dempuèi vòstra darrièra modificacion d‘informacions de connexion. Cambiatz vòstre senhal per protegir vòstre compte.
 breach-alert-link = Ne saber mai tocant aquesta pèrda de donadas.
 breach-alert-dismiss =
     .title = Tampar aquesta alèrta
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Accedir a { $hostname }
+about-logins-breach-alert-learn-more-link = Ne saber mai
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Senhal vulnerable
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Accedir a { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Ne saber mai
 
 ## Error Messages
 
