@@ -58,9 +58,28 @@ cert-error-details-cert-chain-label = Rangkaian sertifikat:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Tidak dapat tersambung
+deniedPortAccess-title = Penggunaan alamat ini dibatasi
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Kami kesulitan menemukan situsnya.
 fileNotFound-title = Berkas tidak ditemukan
 generic-title = Ups.
+captivePortal-title = Masuk ke jaringan
+netInterrupt-title = Sambungan terputus
+notCached-title = Dokumen Kedaluwarsa
+netOffline-title = Mode luring
 contentEncodingError-title = Kesalahan Pengodean Isi (Content Encoding)
 unsafeContentType-title = Jenis Berkas Tidak Aman
 netReset-title = Sambungan diputus
+netTimeout-title = Tenggang waktu tersambung habis
+proxyConnectFailure-title = Server proksi menolak sambungan
+proxyResolveFailure-title = Tidak dapat menemukan server proksi
 unknownSocketType-title = Jawaban yang tidak diharapkan dari server
+cspBlocked-title = Diblokir oleh Kebijakan Keamanan Konten
+xfoBlocked-title = Diblokir oleh Kebijakan X-Frame-Options
+clockSkewError-title = Jam komputer Anda salah
+networkProtocolError-title = Protokol Jaringan Bermasalah
+nssBadCert-title = Peringatan: Potensi Risiko Keamanan Menghadang
+nssBadCert-sts-title = Tidak Tersambung: Dugaan Masalah Keamanan
+certerror-mitm-title = Perangkat Lunak Menghalangi { -brand-short-name } untuk Tersambung dengan Aman ke Situs Ini
