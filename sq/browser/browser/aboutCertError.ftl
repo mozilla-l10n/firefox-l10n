@@ -58,7 +58,40 @@ cert-error-details-cert-chain-label = Varg dëshmish:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = S'arrin të lidhet
+deniedPortAccess-title = Kjo adresë është e ndaluar
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Po kemi probleme me gjetjen e atij sajti.
+fileNotFound-title = S'u gjet kartelë
+fileAccessDenied-title = Hyrja te kartela u mohua
+generic-title = Hëm.
+captivePortal-title = Hyni në rrjet
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. AJo adresë s’duket në rregull.
 netInterrupt-title = Lidhja u ndërpre
+notCached-title = Dokumenti Ka Skaduar
+netOffline-title = Mënyrë jo në linjë
+contentEncodingError-title = Gabim Kodimi Lënde
+unsafeContentType-title = Lloj Kartele Jo i Parrezik
 netReset-title = Lidhja u rivendos
+netTimeout-title = Lidhjes i mbaroi koha
+unknownProtocolFound-title = Adresa nuk u kuptua
 proxyConnectFailure-title = Shërbyesi ndërmjetës po hedh poshtë lidhjet
+proxyResolveFailure-title = S'arrihet të gjendet shërbyesi ndërmjetës
+redirectLoop-title = Faqja nuk është ridrejtuar si duhet
 unknownSocketType-title = Përgjigje e papritur prej shërbyesit
+nssFailure2-title = Dështoi Lidhja e Sigurt
+cspBlocked-title = Bllokuar nga Rregulla Sigurie Lënde
+xfoBlocked-title = Bllokuar nga Rregulla mbi X-Frame-Options
+corruptedContentError-title = Gabim nga Lëndë e Dëmtuar
+remoteXUL-title = XUL i Largët
+sslv3Used-title = S'arrin të Lidhet Në Mënyrë të Sigurt
+inadequateSecurityError-title = Lidhja juaj s'është e sigurt
+blockedByPolicy-title = Faqe e Bllokuar
+clockSkewError-title = Ora e kompjuterit tuaj është gabim
+networkProtocolError-title = Gabim Protokolli Rrjeti
+nssBadCert-title = Kujdes: Rrezik Potencial Sigurie Përpara
+nssBadCert-sts-title = Nuk U Lidh: Çështje Potenciale Sigurie
+certerror-mitm-title = Një software po i pengon { -brand-short-name }-it të Lidhet Në Mënyrë të Sigurt te Ky Sajt
