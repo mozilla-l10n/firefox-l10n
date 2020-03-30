@@ -92,4 +92,5 @@ inadequateSecurityError-title = La connexion n’est pas sécurisée
 blockedByPolicy-title = Page bloquée
 clockSkewError-title = L’heure de votre ordinateur est incorrecte
 nssBadCert-title = Attention : risque probable de sécurité
+nssBadCert-sts-title = Connexion bloquée : problème de sécurité potentiel
 certerror-mitm-title = Un logiciel empêche { -brand-short-name } de se connecter de façon sécurisée à ce site
