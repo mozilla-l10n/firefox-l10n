@@ -4,3 +4,7 @@
 
 blocklist-more-information =
     .value = Mear ynformaasje
+blocklist-blocked =
+    .label = Blokkearre
+blocklist-checkbox =
+    .label = Utskeakelje
