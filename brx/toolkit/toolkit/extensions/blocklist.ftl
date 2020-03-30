@@ -5,6 +5,9 @@
 blocklist-window =
     .title = Add-ons आ जेंना खालामनो हागौ
     .style = width: 45em; height: 30em
+blocklist-accept =
+    .label = { -brand-short-name } खौ फिन जागाय
+    .accesskey = R
 blocklist-label-summary = गाहायनि add-ons खौ दिदोम एबा रैखाथिनि थाखाय मोनथिनाय जायो होननानै { -brand-short-name } आ थि खालामबाय:
 blocklist-soft-and-hard = दिदोम एबा रैखाथि जेंनानि गोबां खैफोद गोनां add-ons खौ ब्लक खालामबाय। गुबुनआ खम खैफोदगोनां, नाथाय बेफोरखौ फुरायै लोरबां खालामनो फिन जागायनांगोन।
 blocklist-hard-blocked = बेफोर add-ons हा दिदोम एबा रैखाथि जेंनानि गोबां खैफोद दं आरो ब्लक खालामबाय, नाथाय बेफोरखौ फुरायै लोरबां खालामनो फिन जागायनांगोन।
