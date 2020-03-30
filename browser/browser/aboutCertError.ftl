@@ -55,3 +55,10 @@ cert-error-details-hsts-label = Segurança rigorosa de transporte HTTP (HSTS): {
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadeia de certificados:
+
+## Messages used for certificate error titles
+
+deniedPortAccess-title = Este endereço é restrito
+fileNotFound-title = Ficheiro não encontrado
+generic-title = Oops.
+netInterrupt-title = A ligação foi interrompida
