@@ -60,8 +60,15 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = Unable to connect
 deniedPortAccess-title = This address is restricted
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. We’re having trouble finding that site.
 fileNotFound-title = File not found
+fileAccessDenied-title = Access to the file was denied
 generic-title = Oops.
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. That address doesn’t look right.
 netInterrupt-title = The connection was interrupted
 notCached-title = Document Expired
 netOffline-title = Offline mode
@@ -73,4 +80,8 @@ proxyConnectFailure-title = The proxy server is refusing connections
 proxyResolveFailure-title = Unable to find the proxy server
 unknownSocketType-title = Unexpected response from server
 nssFailure2-title = Secure Connection Failed
+cspBlocked-title = Blocked by Content Security Policy
+corruptedContentError-title = Corrupted Content Error
 remoteXUL-title = Remote XUL
+sslv3Used-title = Unable to Connect Securely
+inadequateSecurityError-title = Your connection is not secure
