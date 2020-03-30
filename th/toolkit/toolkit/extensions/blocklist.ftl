@@ -5,3 +5,5 @@
 blocklist-label-summary = { -brand-short-name } ได้ตรวจสอบแล้วว่าส่วนเสริมดังกล่าวอาจจะสร้างปัญหาด้านเสถียรภาพและความปลอดภัย:
 blocklist-more-information =
     .value = ข้อมูลเพิ่มเติม
+blocklist-checkbox =
+    .label = ปิดใช้งาน
