@@ -89,3 +89,7 @@ remoteXUL-title = XUL راه دور
 sslv3Used-title = قادر به برقراری اتصال امن نمیباشد
 inadequateSecurityError-title = اتصال شما امن نیست
 blockedByPolicy-title = صفحهٔ مسدود شده
+clockSkewError-title = ساعت رایانه شما اشتباه است
+networkProtocolError-title = خطای پروتکل شبکه
+nssBadCert-title = هشدار: خطر امنیتی نهفته در پیش است
+nssBadCert-sts-title = متصل نشد: مشکل امنیتی بالقوه
