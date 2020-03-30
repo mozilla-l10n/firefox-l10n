@@ -58,11 +58,18 @@ cert-error-details-cert-chain-label = Sertifikatkjede:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Kan ikke koble til
 deniedPortAccess-title = Tilgang til denne adressen er begrenset
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Vi har problemer med å finne nettstedet.
 fileNotFound-title = Fil ikke funnet
 fileAccessDenied-title = Tilgang til filen ble nektet
 generic-title = Oops.
 captivePortal-title = Logg inn på nettverket
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Den adressen ser ikke riktig ut.
 netInterrupt-title = Tilkoblingen ble avbrutt
 notCached-title = Dokumentet er utgått på dato
 netOffline-title = Frakoblet modus
@@ -77,7 +84,14 @@ redirectLoop-title = Nettsiden videresender ikke ordentlig
 unknownSocketType-title = Uventet svar fra server
 nssFailure2-title = Sikker tilkobling mislyktes
 cspBlocked-title = Blokkert av sikkerhetspolicy
+xfoBlocked-title = Blokkert av X-Frame-Options-policy
 corruptedContentError-title = Ødelagt innhold
 remoteXUL-title = Ekstern XUL
 sslv3Used-title = Klarte ikke å koble til sikkert
 inadequateSecurityError-title = Tilkoblingen din er ikke sikker
+blockedByPolicy-title = Blokkert side
+clockSkewError-title = Klokken på datamaskinen din er feil
+networkProtocolError-title = Nettverksprotokollfeil
+nssBadCert-title = Advarsel: Potensiell sikkerhetsrisiko forut
+nssBadCert-sts-title = Koblet ikke til: Potensielt sikkerhetsproblem
+certerror-mitm-title = Programvare hindrer { -brand-short-name } fra sikker tilkobling til dette nettstedet
