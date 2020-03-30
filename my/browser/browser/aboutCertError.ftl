@@ -23,4 +23,8 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 ## Messages used for certificate error titles
 
+fileAccessDenied-title = ဖိုင်အသုံးပြုခြင်းကို တားမြစ်ထားသည်
 netOffline-title = ချိတ်ဆက်မဲ့ စနစ်
+nssFailure2-title = လုံခြုံသောချိတ်ဆက်မှု မအောင်မြင်ပါ
+sslv3Used-title = လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ
+inadequateSecurityError-title = ချိတ်ဆက်မှုသည် မလုံခြုံပါ
