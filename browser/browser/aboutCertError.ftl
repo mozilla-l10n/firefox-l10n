@@ -59,6 +59,7 @@ cert-error-details-cert-chain-label = Chuỗi chứng nhận:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Không thể kết nối
+deniedPortAccess-title = Địa chỉ này đã bị chặn
 fileNotFound-title = Không tìm thấy tập tin
 netInterrupt-title = Kết nối bị ngắt
 netOffline-title = Chế độ ngoại tuyến
