@@ -73,6 +73,9 @@ fileNotFound-title = Soubor nenalezen
 fileAccessDenied-title = Přístup k souboru byl odepřen
 generic-title = Nepodařilo se dokončit požadavek
 captivePortal-title = Přihlásit se do sítě
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm, tato adresa se nezdá být v pořádku.
 netInterrupt-title = Spojení bylo přerušeno
 notCached-title = Platnost dokumentu vypršela
 netOffline-title = Režim offline
@@ -90,7 +93,11 @@ cspBlocked-title = Zablokováno dle bezpečnostních pravidel obsahu
 xfoBlocked-title = Blokováno pravidlem X-Frame-Options
 corruptedContentError-title = Chyba v obsahu stránky
 remoteXUL-title = Vzdálené XUL
+sslv3Used-title = Nelze navázat zabezpečené spojení
 inadequateSecurityError-title = Vaše připojení není zabezpečené
 blockedByPolicy-title = Zablokovaná stránka
+clockSkewError-title = Hodiny ve vašem počítači jsou špatně nastavené
 networkProtocolError-title = Chyba síťového protokolu
+nssBadCert-title = Varování: možné bezpečnostní riziko
 nssBadCert-sts-title = Nepřipojeno: Možný bezpečnostní problém
+certerror-mitm-title = Software brání aplikaci { -brand-short-name } v navázání zabezpečeného spojení s témto webem
