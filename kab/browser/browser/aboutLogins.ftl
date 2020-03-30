@@ -166,6 +166,7 @@ breach-alert-text = Awalen uffiren n usmel-a ffɣen neɣ ttwakren deffir n ubedd
 breach-alert-link = Issin ugar ɣef trewla n yisefka-agi.
 breach-alert-dismiss =
     .title = Mdel ulɣu-agi
+about-logins-breach-alert-date = Tarewla-agi n yisefka teḍra-d deg { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Ddu ɣer { $hostname }
