@@ -55,3 +55,16 @@ cert-error-details-hsts-label = HTTP ਸਟਿਕ ਟਰਾਂਸਪੋਰਟ �
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP ਪਬਲਿਕ ਕੁੰਜੀ ਪਿੰਨਿੰਗ: { $hasHPKP }
 cert-error-details-cert-chain-label = ਸਰਟੀਫਿਕੇਟ ਚੇਨ:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ
+generic-title = ਓਹ ਹੋ!
+netOffline-title = ਆਫ਼-ਲਾਈਨ ਮੋਡ
+contentEncodingError-title = ਸਮਗੱਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ
+netReset-title = ਕੁਨੈਕਸ਼ਨ ਰੀ-ਸੈੱਟ ਕੀਤਾ ਗਿਆ
+netTimeout-title = ਕੁਨੈਕਸ਼ਨ ਟਾਈਮ-ਆਉਟ ਹੋ ਗਿਆ
+proxyConnectFailure-title = ਪਰਾਕਸੀ ਸਰਵਰ ਨੇ ਕੁਨੈਕਸ਼ਨ ਤੋਂ ਇਨਕਾਰ ਕਰ ਦਿੱਤਾ ਹੈ।
+proxyResolveFailure-title = ਪਰਾਕਸੀ ਸਰਵਰ ਲੱਭਣ ਲਈ ਅਸਮਰੱਥ ਹੈ
+unknownSocketType-title = ਸਰਵਰ ਤੋਂ ਗ਼ੈਰ-ਲੋੜੀਦਾ ਜਵਾਬ
+nssFailure2-title = ਸੁਰੱਖਿਅਤ ਕੁਨੈਕਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ
