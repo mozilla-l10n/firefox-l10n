@@ -84,3 +84,6 @@ remoteXUL-title = XUL anmeggag
 sslv3Used-title = Ur yezmir ara ad yeqqen s tɣellist
 inadequateSecurityError-title = Tuqqna-inek d taraɣelsant
 blockedByPolicy-title = Asebter iwḥel
+networkProtocolError-title = Tuccḍa deg uneggaf n uẓeṭṭa
+nssBadCert-title = Ɣur-k: izmer ad yili ugur n teɣlist
+nssBadCert-sts-title = Ur yeqqin ara: Yezmer ad yili ugur n teɣlist
