@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = ਸਰਟੀਫਿਕੇਟ ਚੇਨ:
 
 connectionFailure-title = ਕੁਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ
 deniedPortAccess-title = ਇਹ ਐਡਰੈੱਸ ਪਾਬੰਦੀਸ਼ੁਦਾ ਹੈ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = ਓਹ ਹੋ। ਸਾਨੂੰ ਉਹ ਸਾਈਟ ਲੱਭਣ ਲਈ ਸਮੱਸਿਆਵਾਂ ਆ ਰਹੀਆਂ ਹਨ।
 fileNotFound-title = ਫਾਈਲ ਨਹੀਂ ਲੱਭੀ
 fileAccessDenied-title = ਫਾਈਲ ਲਈ ਪਹੁੰਚ ਦੀ ਪਾਬੰਦੀ ਸੀ
 generic-title = ਓਹ ਹੋ!
 captivePortal-title = ਨੈੱਟਵਰਕ ਲਈ ਲਾਗਇਨ ਕਰੋ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = ਓਹ ਹੋ। ਉਹ ਸਿਰਨਾਵਾਂ ਠੀਕ ਨਹੀਂ ਜਾਪਦਾ ਹੈ।
 netInterrupt-title = ਕੁਨੈਕਸ਼ਨ ਰੋਕਿਆ ਗਿਆ
 notCached-title = ਡੌਕੂਮੈਂਟ ਦੀ ਮਿਆਦ ਪੁੱਗੀ
 netOffline-title = ਆਫ਼-ਲਾਈਨ ਮੋਡ
@@ -82,3 +88,4 @@ corruptedContentError-title = ਨਿਕਾਰਾ ਹੋਈ ਸਮੱਗਰੀ �
 remoteXUL-title = ਰਿਮੋਟ XUL
 sslv3Used-title = ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਕਨੈਕਟ ਕਰਨ ਲਈ ਅਸਮਰੱਥ
 inadequateSecurityError-title = ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ
+blockedByPolicy-title = ਪਾਬੰਦੀ ਲਗਾਇਆ ਸਫ਼ਾ
