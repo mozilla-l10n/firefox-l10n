@@ -5,3 +5,7 @@
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+
+## Messages used for certificate error titles
+
+notCached-title = Yent yêtz
