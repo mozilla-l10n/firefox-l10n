@@ -78,6 +78,7 @@ proxyConnectFailure-title = Máy chủ proxy từ chối kết nối
 proxyResolveFailure-title = Không tìm thấy máy chủ proxy
 redirectLoop-title = Trang này không chuyển hướng đúng cách
 unknownSocketType-title = Nhận được phản hồi lạ từ máy chủ
+nssFailure2-title = Không thể kết nối an toàn
 cspBlocked-title = Bị chặn bởi Chính sách bảo mật nội dung
 corruptedContentError-title = Lỗi nội dung không toàn vẹn
 remoteXUL-title = Remote XUL
