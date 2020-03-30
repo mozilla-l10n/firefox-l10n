@@ -55,3 +55,13 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Ακολουθία πιστοποιητικού:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Αδυναμία σύνδεσης
+deniedPortAccess-title = Αυτή η διεύθυνση είναι περιορισμένη
+fileNotFound-title = Το αρχείο δεν βρέθηκε
+netInterrupt-title = Η σύνδεση διακόπηκε
+proxyConnectFailure-title = Ο διαμεσολαβητής αρνείται συνδέσεις
+redirectLoop-title = Η σελίδα δεν ανακατευθύνει σωστά
+unknownSocketType-title = Απρόσμενη απάντηση από τον εξυπηρετητή
