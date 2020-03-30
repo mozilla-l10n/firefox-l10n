@@ -58,8 +58,35 @@ cert-error-details-cert-chain-label = Catena de certificatos:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Incapace de connecter se
+deniedPortAccess-title = Iste adresse es restricte
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Guai. Nos ha problemas a trovar iste sito.
+fileNotFound-title = File non trovate
+fileAccessDenied-title = Le accesso al file esseva negate
+generic-title = Oops.
+captivePortal-title = Authenticar se al rete
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Guai. Ille adresse non pare correcte.
+netInterrupt-title = Le connexion ha essite interrumpite
+notCached-title = Documento expirate
+contentEncodingError-title = Error de codification del contento
+unsafeContentType-title = Typo de file non secur
+netTimeout-title = Le connexion ha expirate
+unknownProtocolFound-title = Le adresse non ha essite comprendite
+proxyResolveFailure-title = Incapace de trovar le servitor proxy
 redirectLoop-title = Le pagina non redirige correctemente
+unknownSocketType-title = Responsa inexpectate del servitor
+nssFailure2-title = Connexion secur fallite
 cspBlocked-title = Blocate per le politica de securitate del contento
+corruptedContentError-title = Error de contento corrumpite
+remoteXUL-title = XUL remote
+sslv3Used-title = Incapace de connecter se securmente
+inadequateSecurityError-title = Tu connexion non es secur
 blockedByPolicy-title = Pagina blocate
 clockSkewError-title = Le horologio de tu computator es errate
 networkProtocolError-title = Error de protocollo de rete
+nssBadCert-title = Advertentia: Potential risco de securitate avante
+certerror-mitm-title = Un software impedi { -brand-short-name } de connecter se securmente a iste sito
