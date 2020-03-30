@@ -55,3 +55,24 @@ cert-error-details-hsts-label = Taɣellist n umesni ufrin HTTP: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Public Key Pinning HTTP:{ $hasHPKP }
 cert-error-details-cert-chain-label = Azrar n uselkin:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Igguma ad iqqen
+fileNotFound-title = Ulac afaylu
+fileAccessDenied-title = Anekcum ɣer ufaylu yegdel
+generic-title = Ihuh.
+captivePortal-title = Kcem ɣer uẓeṭṭa
+notCached-title = Isemli yemmut
+netOffline-title = Askar war tuqqna
+contentEncodingError-title = Tuccḍa n usettengel n ugbur
+unsafeContentType-title = Tawsit n ufaylu aranelkan
+unknownProtocolFound-title = Ur nessin ara tansa
+proxyConnectFailure-title = Aqeddac apṛuksi yugi tuqqniwin.
+proxyResolveFailure-title = Aqeddac apṛuksi ulac-it
+redirectLoop-title = Asebter ur iwehi ara akken iwata
+unknownSocketType-title = Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara
+nssFailure2-title = Tuqqna taɣelsant ur teddi ara
+cspBlocked-title = Tesweḥlit tsertit n tɣellist n ugbur
+remoteXUL-title = XUL anmeggag
+sslv3Used-title = Ur yezmir ara ad yeqqen s tɣellist
