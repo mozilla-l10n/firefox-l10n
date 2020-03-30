@@ -60,8 +60,16 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = Ude af stand til at oprette forbindelse
 deniedPortAccess-title = Adgang til denne adresse er underlagt begrænsninger
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Den side kan vi ikke finde…
 fileNotFound-title = Fil ikke fundet
+fileAccessDenied-title = Filen kunne ikke tilgås
 generic-title = Hovsa.
+captivePortal-title = Login til netværk
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Den adresse ser ikke rigtig ud.
 netInterrupt-title = Forbindelsen blev afbrudt
 notCached-title = Siden er udløbet
 netOffline-title = Offline-tilstand
@@ -69,8 +77,20 @@ contentEncodingError-title = Indholdskodningsfejl
 unsafeContentType-title = Usikker filtype
 netReset-title = Forbindelsen blev nulstillet
 netTimeout-title = Forbindelsens tidsfrist udløb
+unknownProtocolFound-title = Adressen kunne ikke forstås
 proxyConnectFailure-title = Proxyserveren afviser forbindelser
 proxyResolveFailure-title = Kunne ikke finde proxyserveren
+redirectLoop-title = Denne side viderestiller ikke forespørgslen korrekt
 unknownSocketType-title = Uventet svar fra server
 nssFailure2-title = Sikker forbindelse mislykkedes
+cspBlocked-title = Blokeret grundet indholdssikkerhedspolitik
+xfoBlocked-title = Blokeret af politik for X-Frame-Options
 remoteXUL-title = Remote XUL
+sslv3Used-title = Kan ikke oprette sikker forbindelse
+inadequateSecurityError-title = Din forbindelse er ikke sikker
+blockedByPolicy-title = Blokeret side
+clockSkewError-title = Uret i din computer er indstillet forkert
+networkProtocolError-title = Fejl i netværksprotokol
+nssBadCert-title = Advarsel: Mulig sikkerhedsrisiko
+nssBadCert-sts-title = Oprettede ikke forbindelse: Muligt sikkerhedsproblem
+certerror-mitm-title = Et program forhindrer { -brand-short-name } i at oprette en sikker forbindelse til dette websted.
