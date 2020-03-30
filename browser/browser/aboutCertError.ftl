@@ -58,9 +58,18 @@ cert-error-details-cert-chain-label = 인증 체인:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = 연결할 수 없음
+deniedPortAccess-title = 이 주소는 제한되어 있음
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = 해당 사이트를 찾는데 문제가 발생하였습니다.
 fileNotFound-title = 파일을 찾을 수 없음
+fileAccessDenied-title = 파일 접근이 거부됨
 generic-title = 이런.
 captivePortal-title = 네트워크에 로그인
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = 주소가 올바르지 않습니다.
 netInterrupt-title = 연결이 끊어짐
 notCached-title = 문서 만료
 netOffline-title = 오프라인 모드
@@ -71,14 +80,18 @@ netTimeout-title = 연결 시간 초과
 unknownProtocolFound-title = 인식할 수 없는 주소
 proxyConnectFailure-title = 프록시 서버가 연결을 거부함
 proxyResolveFailure-title = 프록시 서버를 찾을 수 없음
+redirectLoop-title = 페이지가 제대로 리디렉션되지 않음
+unknownSocketType-title = 서버에서 예기치 않은 응답
 nssFailure2-title = 보안 연결 실패
 cspBlocked-title = 콘텐츠 보안 정책에 의한 차단
 xfoBlocked-title = X-Frame-Options 정책에 의해 차단됨
 corruptedContentError-title = 손상된 콘텐츠 오류
 remoteXUL-title = 원격 XUL
+sslv3Used-title = 보안 연결을 할 수 없음
 inadequateSecurityError-title = 연결이 안전하지 않음
 blockedByPolicy-title = 차단된 페이지
 clockSkewError-title = 컴퓨터의 시각이 올바르지 않음
 networkProtocolError-title = 네트워크 프로토콜 오류
 nssBadCert-title = 경고: 보안 위험 가능성
+nssBadCert-sts-title = 연결되지 않음: 잠재적인 보안 문제
 certerror-mitm-title = { -brand-short-name }가 이 사이트에 안전하게 연결하는 것을 소프트웨어가 막고 있습니다.
