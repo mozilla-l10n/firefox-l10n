@@ -5,6 +5,7 @@
 blocklist-window =
     .title = 可能会造成问题的附加组件
     .style = width: 45em; height: 30em
+blocklist-label-summary = { -brand-short-name } 已确定下列附加组件存在安全性或稳定性问题：
 blocklist-more-information =
     .value = 详细了解
 blocklist-blocked =
