@@ -55,3 +55,18 @@ cert-error-details-hsts-label = HTTP સખત પરિવહન સુરક�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP સાર્વજનિક કી પિનિંગ: { $hasHPKP }
 cert-error-details-cert-chain-label = પ્રમાણપત્ર સાંકળ:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = જોડાવામાં અસમર્થ
+deniedPortAccess-title = આ સરનામું આરક્ષિત છે
+fileNotFound-title = ફાઈલ મળી નહિં
+generic-title = અરરર.
+netInterrupt-title = જોડાણ અટકાવી દેવાયું હતું
+netOffline-title = ઓફલાઈન સ્થિતિ
+contentEncodingError-title = સમાવિષ્ટ સંગ્રહપદ્ધતિ ભૂલ
+netReset-title = જોડાણ પુનઃસુયોજિત થયું હતું
+netTimeout-title = જોડાણ સમય સમાપ્ત થઈ ગયો
+proxyConnectFailure-title = પ્રોક્સી સર્વર જોડાણ તોડી રહ્યું છે
+proxyResolveFailure-title = પ્રોક્સી સર્વર શોધવામાં અસમર્થ
+unknownSocketType-title = સર્વરમાંથી અનિચ્છનિય પ્રત્યુત્તર
