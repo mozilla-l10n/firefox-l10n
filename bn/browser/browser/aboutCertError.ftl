@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = সার্টিফিকেট চে�
 
 connectionFailure-title = সংযোগ করতে ব্যর্থ
 deniedPortAccess-title = এই ঠিকানাটি সীমাবদ্ধ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = হুমম। আমরা সাইটটি ঠিক খুঁজে পাচ্ছি না।
 fileNotFound-title = ফাইল পাওয়া যায়নি
 fileAccessDenied-title = ফাইলে প্রবেশাধিকার প্রত্যাখ্যাত হয়েছে
 generic-title = ওহ্ হো!
 captivePortal-title = নেটওয়ার্কে লগইন করুন
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = হ্যাঁ। ঠিকানাটি টিক দেখাচ্ছে না।
 netInterrupt-title = সংযোগ বিঘ্নিত হয়েছে
 notCached-title = ডকুমেন্ট মেয়াদউত্তীর্ণ হয়েছে
 netOffline-title = অফলাইন মোড
