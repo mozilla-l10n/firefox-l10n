@@ -90,4 +90,7 @@ sslv3Used-title = Αδύνατη η ασφαλής σύνδεση
 inadequateSecurityError-title = Η σύνδεσή σας δεν είναι ασφαλής
 blockedByPolicy-title = Αποκλεισμένη σελίδα
 clockSkewError-title = Το ρολόι του υπολογιστή σας είναι λάθος
+networkProtocolError-title = Σφάλμα πρωτοκόλλου δικτύου
 nssBadCert-title = Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας
+nssBadCert-sts-title = Δεν έγινε σύνδεση: Πιθανό ζήτημα ασφαλείας
+certerror-mitm-title = Κάποιο λογισμικό εμποδίζει την ασφαλή σύνδεση του { -brand-short-name } με αυτή την ιστοσελίδα
