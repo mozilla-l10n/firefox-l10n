@@ -58,9 +58,16 @@ cert-error-details-cert-chain-label = زنجیره گواهی:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = قادر به برقراری اتصال نیست
 deniedPortAccess-title = این نشانی ممنوع است
 fileNotFound-title = پرونده پیدا نشد
+generic-title = متأسفیم.
 netInterrupt-title = اتصال مختل شد
 netOffline-title = حالت منفصل
+contentEncodingError-title = خطای کدگذاری محتوا
+unsafeContentType-title = نوع پروندهٔ ناامن
 netReset-title = اتصال قطع شد
+netTimeout-title = مهلت اتصال تمام شد
+proxyConnectFailure-title = کارگزار پیشکار از برقراری اتصال خودداری می‌کند.
+proxyResolveFailure-title = کارگزار پیشکار پیدا نشد
 unknownSocketType-title = جواب غیرمنتظره از کارگزار
