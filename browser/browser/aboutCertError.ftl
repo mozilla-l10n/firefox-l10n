@@ -58,5 +58,24 @@ cert-error-details-cert-chain-label = สายใบรับรอง:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = ไม่สามารถเชื่อมต่อ
+deniedPortAccess-title = ที่อยู่นี้ถูกจำกัด
+fileNotFound-title = ไม่พบไฟล์
+fileAccessDenied-title = การเข้าถึงไฟล์ถูกปฏิเสธ
+generic-title = อุปส์
+netInterrupt-title = การเชื่อมต่อถูกขัดจังหวะ
 notCached-title = เอกสารหมดอายุ
 netOffline-title = โหมดออฟไลน์
+contentEncodingError-title = ข้อผิดพลาดการเข้ารหัสเนื้อหา
+unsafeContentType-title = ชนิดไฟล์ที่ไม่ปลอดภัย
+netTimeout-title = การเชื่อมต่อหมดเวลา
+unknownProtocolFound-title = ไม่เข้าใจที่อยู่
+proxyConnectFailure-title = เซิร์ฟเวอร์พร็อกซีปฏิเสธการเชื่อมต่อ
+proxyResolveFailure-title = ไม่สามารถค้นหาเซิร์ฟเวอร์พร็อกซี
+redirectLoop-title = หน้าไม่ได้เปลี่ยนเส้นทางอย่างถูกต้อง
+unknownSocketType-title = การตอบสนองที่ไม่คาดคิดจากเซิร์ฟเวอร์
+nssFailure2-title = การเชื่อมต่อปลอดภัยล้มเหลว
+corruptedContentError-title = ข้อผิดพลาดเนื้อหาเสียหาย
+remoteXUL-title = XUL ระยะไกล
+sslv3Used-title = ไม่สามารถเชื่อมต่ออย่างปลอดภัย
+inadequateSecurityError-title = การเชื่อมต่อของคุณไม่ปลอดภัย
