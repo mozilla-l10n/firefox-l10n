@@ -70,3 +70,4 @@ proxyConnectFailure-title = La connexion a été refusée par le serveur proxy
 proxyResolveFailure-title = Le serveur proxy est introuvable
 unknownSocketType-title = Réponse inattendue du serveur
 nssFailure2-title = Échec de la connexion sécurisée
+remoteXUL-title = XUL distant
