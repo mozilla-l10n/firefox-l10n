@@ -64,6 +64,7 @@ deniedPortAccess-title = Ang address na ito ay pinagbabawalan
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Nagkakaproblema kami sa paghahanap ng site na iyon.
 fileNotFound-title = Hindi makita ang file
+fileAccessDenied-title = Pinigilan ang pag-access sa file
 generic-title = Oops.
 captivePortal-title = Mag log in sa network
 # "Hmm" is a sound made when considering or puzzling over something.
@@ -81,8 +82,15 @@ proxyConnectFailure-title = Ang proxy server ay tinatanggihan ang koneksyon
 proxyResolveFailure-title = Hindi mahanap ang proxy server
 redirectLoop-title = Ang pahina ay hindi nag didirekta ng maayos
 unknownSocketType-title = Hindi inaasahang tugon mula sa server
+nssFailure2-title = Bigo ang Secure Connection
+cspBlocked-title = Hinarang ng Content Security Policy
 corruptedContentError-title = Corrupted Content Error
 remoteXUL-title = Remote XUL
+sslv3Used-title = Hindi Makakonekta nang Ligtas
 inadequateSecurityError-title = Ang iyong koneksyon ay hindi ligtas
 blockedByPolicy-title = Naka-block na Pahina
 clockSkewError-title = Mali ang oras ng iyong computer
+networkProtocolError-title = Network Protocol Error
+nssBadCert-title = Babala: May Potential na Security Risk
+nssBadCert-sts-title = Hindi Nag-connect: Potential Security Issue
+certerror-mitm-title = May software na pumipigil sa { -brand-short-name } sa pag-connect nang ligtas sa site na ito
