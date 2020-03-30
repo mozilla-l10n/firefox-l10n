@@ -67,6 +67,9 @@ fileNotFound-title = الملف غير موجود
 fileAccessDenied-title = مُنِع الوصول للملف
 generic-title = عذرا.
 captivePortal-title = لِج إلى الشبكة
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = لا يبدو أن هذا العنوان صحيح.
 netInterrupt-title = قُوطِع الاتصال
 notCached-title = انتهت صلاحية المستند
 netOffline-title = وضع اللا اتصال
@@ -81,7 +84,14 @@ redirectLoop-title = لا تعيد الصفحة التوجيه بشكل سليم
 unknownSocketType-title = استجابة غير متوقعة من الخادوم
 nssFailure2-title = فشل الاتصال الآمن
 cspBlocked-title = حجبتها سياسة أمن المحتوى
+xfoBlocked-title = حجبتها سياسة X-Frame-Options
 corruptedContentError-title = خطأ محتوى فاسد
 remoteXUL-title = XUL بعيد
 sslv3Used-title = تعذّر الاتصال بأمان
 inadequateSecurityError-title = اتّصالك غير آمن
+blockedByPolicy-title = الصفحة محجوبة
+clockSkewError-title = ساعة الحاسوب خاطئة
+networkProtocolError-title = عُطل في بروتوكول الشبكة
+nssBadCert-title = تحذير: أمامك خطر أمني محتمل
+nssBadCert-sts-title = لم يجري الاتصال: مشكلة أمنية محتملة
+certerror-mitm-title = تمنع البرمجية { -brand-short-name } من الاتصال بهذا الموقع بطريقة آمنة
