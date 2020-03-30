@@ -60,6 +60,7 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 
 connectionFailure-title = No se puede conectar
 deniedPortAccess-title = Esta dirección está restringida
+fileNotFound-title = Archivo no encontrado
 generic-title = ¡Chin!
 netInterrupt-title = La conexión se interrumpió
 notCached-title = Documento expirado
@@ -74,4 +75,5 @@ proxyResolveFailure-title = No se puede encontrar el servidor proxy
 redirectLoop-title = La página no se está redireccionando apropiadamente
 unknownSocketType-title = Respuesta inesperada del servidor
 nssFailure2-title = Conexión segura fallida
+cspBlocked-title = Bloqueado por la Política de Seguridad de Contenido
 remoteXUL-title = XUL remoto
