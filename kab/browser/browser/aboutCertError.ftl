@@ -93,3 +93,4 @@ clockSkewError-title = Asarag n uselkim-inek ur teseḥa ara
 networkProtocolError-title = Tuccḍa deg uneggaf n uẓeṭṭa
 nssBadCert-title = Ɣur-k: izmer ad yili ugur n teɣlist
 nssBadCert-sts-title = Ur yeqqin ara: Yezmer ad yili ugur n teɣlist
+certerror-mitm-title = Aseɣẓan ad yinni i { -brand-short-name } ɣef tuqqna taɣelsant i usmel-a
