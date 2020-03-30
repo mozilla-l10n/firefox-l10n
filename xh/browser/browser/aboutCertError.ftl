@@ -16,6 +16,16 @@ cert-error-details-cert-chain-label = Ikhonkco lesatifikethi
 
 connectionFailure-title = Ayikwazi kudibanisa
 deniedPortAccess-title = Le dilesi inemida
+fileNotFound-title = Ifayile ayifumaneki
+generic-title = Oops.
+netInterrupt-title = Unxibelelwano luphazanyisiwe
+notCached-title = Uxwebhu luphelelwe
 netOffline-title = Imo engeyo yakusebenza
+contentEncodingError-title = Imposiso yekhowudi yomxholo
+unsafeContentType-title = Udidi lwefayile engakhuselekanga
 netReset-title = Umdibaniso uphinde wamiselwa
 netTimeout-title = Umdibaniso uphelelwe lixesha
+proxyConnectFailure-title = Iseva yommeli ayiluvumeli unxibelelwano
+proxyResolveFailure-title = Ayikwazi ukufumana iseva yommeli
+unknownSocketType-title = Impendulo engalindelekanga kwiseva
+remoteXUL-title = Susa i-XUL
