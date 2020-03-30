@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Kuatia mboajepyre rysýi:
 
 connectionFailure-title = Ndaikatúi eike
 deniedPortAccess-title = Ko kundaharenda ndaikatúi eipuru
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Oĩ apañuãi ejuhu hag̃ua ko tenda.
 fileNotFound-title = Marandurenda ndojejuhúiva
 fileAccessDenied-title = Jeike kuatiaitépe noñemoneĩri
 generic-title = Ndi.
 captivePortal-title = Eñepyrũ tembiapo ñandutípe
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Ko kundaharape ha'ete ku ndoikóiva.
 netInterrupt-title = Pe jeike ojejokóma
 notCached-title = Kuatia oikove'ỹmava
 netOffline-title = Jeikekatu'ỹre
@@ -82,3 +88,6 @@ corruptedContentError-title = Tetepy marãva jejavy
 remoteXUL-title = XUL okaygua
 sslv3Used-title = Ndaikatúi eikekatu
 inadequateSecurityError-title = Nde jeike ndahekokatúi
+blockedByPolicy-title = Kuatiarogue jokopyre
+clockSkewError-title = Aravopapaha mohendaha rehegua oĩvai
+nssBadCert-title = Jesarekorã: Imarãkuaáva tenondeve
