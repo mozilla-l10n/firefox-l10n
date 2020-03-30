@@ -59,7 +59,10 @@ cert-error-details-cert-chain-label = Certificate chain:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Повезивање није успело
+deniedPortAccess-title = Ова адреса је забрањена
 fileNotFound-title = Датотека није пронађена
+fileAccessDenied-title = Приступ датотеци је одбијен
+generic-title = Упс.
 netInterrupt-title = Веза је прекинута
 notCached-title = Документ је истекао
 netOffline-title = Рад ван мреже
@@ -67,6 +70,14 @@ contentEncodingError-title = Грешка у кодирању садржаја
 unsafeContentType-title = Небезбедна врста датотеке
 netReset-title = Веза је ресетована
 netTimeout-title = Веза је истекла
+unknownProtocolFound-title = Нејасна адреса
+proxyConnectFailure-title = Прокси сервер одбија везе
+proxyResolveFailure-title = Не могу да пронађем прокси сервер
+redirectLoop-title = Страница се не преусмерава исправно
 unknownSocketType-title = Неочекиван одговор од сервера
 nssFailure2-title = Безбедна веза није успостављена
+cspBlocked-title = Блокирано због полисе о безбедности садржаја
+corruptedContentError-title = Грешка оштећеног садржаја
 remoteXUL-title = Удаљени XUL
+sslv3Used-title = Не могу се повезати безбедно
+inadequateSecurityError-title = Веза није сугурна
