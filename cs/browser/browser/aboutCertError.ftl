@@ -72,6 +72,7 @@ dnsNotFound-title = Hmm, tuto stránku se nám nedaří najít.
 fileNotFound-title = Soubor nenalezen
 fileAccessDenied-title = Přístup k souboru byl odepřen
 generic-title = Nepodařilo se dokončit požadavek
+captivePortal-title = Přihlásit se do sítě
 netInterrupt-title = Spojení bylo přerušeno
 notCached-title = Platnost dokumentu vypršela
 netOffline-title = Režim offline
