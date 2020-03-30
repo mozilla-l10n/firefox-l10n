@@ -59,13 +59,19 @@ cert-error-details-cert-chain-label = Lanț de certificate:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nu se poate conecta
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Întâmpinăm dificultăți în găsirea acestui site.
 fileNotFound-title = Fișier negăsit
 fileAccessDenied-title = Accesul la fișier a fost refuzat
+generic-title = Ups.
 netInterrupt-title = Conexiunea a fost întreruptă
 notCached-title = Document expirat
+netOffline-title = Mod offline
 contentEncodingError-title = Eroare în codarea conținutului
 unsafeContentType-title = Tip de fișier nesigur
 netReset-title = Conexiunea a fost reinițializată
+netTimeout-title = Timpul de conectare a expirat
 unknownProtocolFound-title = Adresa nu a fost înțeleasă
 proxyConnectFailure-title = Serverul proxy refuză conexiuni
 proxyResolveFailure-title = Nu se poate găsi serverul proxy
@@ -77,3 +83,8 @@ corruptedContentError-title = Eroare cauzată de conținut corupt
 remoteXUL-title = XUL la distanță
 sslv3Used-title = Nu se poate conecta în mod securizat
 inadequateSecurityError-title = Conexiunea nu este securizată
+blockedByPolicy-title = Pagină blocată
+clockSkewError-title = Ceasul calculatorului indică o oră greșită
+networkProtocolError-title = Eroare legată de protocolul de rețea
+nssBadCert-title = Avertisment: Urmează un posibil risc de securitate
+nssBadCert-sts-title = Nu s-a realizat conectarea: Posibilă problemă de securitate
