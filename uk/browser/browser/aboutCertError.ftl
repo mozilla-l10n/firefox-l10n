@@ -55,3 +55,20 @@ cert-error-details-hsts-label = Примусове захищене з'єдна�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Прикріплення публічного ключа: { $hasHPKP }
 cert-error-details-cert-chain-label = Ланцюжок сертифіката:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Невдала спроба з’єднання
+deniedPortAccess-title = Звернення до даної адреси заборонено
+fileNotFound-title = Файл не знайдено
+generic-title = Помилка
+netInterrupt-title = З’єднання перервано
+netOffline-title = Автономний режим
+unsafeContentType-title = Небезпечний тип файла
+netReset-title = З’єднання скинуто
+netTimeout-title = Перевищено термін очікування з’єднання
+proxyConnectFailure-title = Проксі-сервер відмовляється приймати з’єднання
+proxyResolveFailure-title = Неможливо знайти проксі-сервер
+redirectLoop-title = Невірне перенаправлення на сторінці
+unknownSocketType-title = Невідома/невпізнана відповідь сервера
+nssFailure2-title = Не вдалось встановити безпечне з’єднання
