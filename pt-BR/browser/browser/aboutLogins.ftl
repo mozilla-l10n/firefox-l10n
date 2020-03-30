@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Abrir menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importar senhas…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar de outro navegador…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
 login-list-breached-option = Sites vazados
+about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Último uso
 login-list-intro-title = Nenhuma conta encontrada
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Informe as credenciais da sua conta
 login-list-item-subtitle-missing-username = (sem nome de usuário)
 about-logins-list-item-breach-icon =
     .title = Site vazado
+about-logins-list-item-vulnerable-password-icon =
+    .title = Senha vulnerável
 
 ## Introduction screen
 
@@ -160,10 +161,24 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Vazamento de site
 breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última vez que você atualizou seus detalhes de acesso. Mude a senha para proteger sua conta.
 breach-alert-link = Saiba mais sobre este vazamento.
 breach-alert-dismiss =
     .title = Fechar este alerta
+about-logins-breach-alert-date = Este vazamento ocorreu em { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ir para { $hostname }
+about-logins-breach-alert-learn-more-link = Saiba mais
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Senha vulnerável
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ir para { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Saiba mais
 
 ## Error Messages
 
