@@ -32,6 +32,7 @@ cert-error-details-cert-chain-label = Cadenna de certificati:
 
 connectionFailure-title = No riescio a conetime
 deniedPortAccess-title = L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa
+captivePortal-title = Intra inta ræ
 netInterrupt-title = Trasferimento di dæti scancellou
 notCached-title = Documento scheito
 netOffline-title = Mòddo feua linia
@@ -44,5 +45,7 @@ proxyResolveFailure-title = No treuvo o proxy
 redirectLoop-title = A pagina a no redireçionn-a ben
 unknownSocketType-title = Risposta sbaliâ da-o server
 nssFailure2-title = Conescion segua no riescia
+corruptedContentError-title = Erô de contegnuo andæto a mâ
 remoteXUL-title = XUL Remòtto
 sslv3Used-title = Inposcibile conetise in mòddo seguo
+inadequateSecurityError-title = A teu conescion a no l'é segua
