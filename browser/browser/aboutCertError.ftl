@@ -60,6 +60,9 @@ cert-error-details-cert-chain-label = Vottunarkeðja (certificate chain):
 
 connectionFailure-title = Get ekki tengst
 deniedPortAccess-title = Aðgangur að gátt er ekki leyfður
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Við eigum í einhverjum erfiðleikum með að finna þetta vefsvæði.
 fileNotFound-title = Skrá fannst ekki
 fileAccessDenied-title = Aðgangur að skránni ekki leyfður
 generic-title = Ææ.
