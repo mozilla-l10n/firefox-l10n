@@ -15,3 +15,18 @@ cert-error-untrusted-default = Die sertifikaat kom nie van 'n vertroude bron nie
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP streng oordragsekuriteit: { $hasHSTS }
 cert-error-details-cert-chain-label = Sertifikaaatketting:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Kan nie koppel nie
+deniedPortAccess-title = Hierdie adres het beperkings op
+fileNotFound-title = Lêer nie gevind nie
+generic-title = Oeps.
+netInterrupt-title = Die verbinding is onderbreek
+contentEncodingError-title = Inhoudenkoderingfout
+unsafeContentType-title = Onveilige lêersoort
+netReset-title = Die verbinding is teruggestel
+netTimeout-title = Die verbinding het uitgetel
+proxyConnectFailure-title = Die instaanbediener weier die verbindings
+proxyResolveFailure-title = Kon nie die instaanbediener vind nie
+unknownSocketType-title = Onverwagse respons vanaf bediener
