@@ -177,6 +177,7 @@ about-logins-breach-alert-learn-more-link = Dalše informacije
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Zranite hesło
+about-logins-vulnerable-alert-text = Tute hesło je so w datowej dźěrje druheho přžedewzaća roznjesło abo kradnyło. Hdyž swoje přizjewjenske daty znowa wužiwaće, so wšě waše konta riziku wustajeja. Zo byšće swoju wěstotu online polěpšił, změńće tute hesło.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = K { $hostname }
