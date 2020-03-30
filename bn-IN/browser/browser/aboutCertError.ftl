@@ -18,3 +18,13 @@ cert-error-details-hsts-label = HTTP ঢ্রর পরিচলন সুর�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP পাবলিক কি পিনিং: { $hasHPKP }
 cert-error-details-cert-chain-label = সার্টিফিকেট চেইন:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = সংযোগ করতে ব্যর্থ
+fileNotFound-title = ফাইল পাওয়া যায়নি
+netInterrupt-title = সংযোগ বিঘ্নিত হয়েছে
+netOffline-title = অফলাইন মোড
+netTimeout-title = সংযোগের সময়সীমা উত্তীর্ণ হয়েছে
+proxyConnectFailure-title = প্রক্সি সার্ভার সংযোগ প্রত্যাখ্যান করছে
+proxyResolveFailure-title = প্রক্সি সার্ভার পাওয়া যায়নি
