@@ -55,3 +55,17 @@ cert-error-details-hsts-label = Сигурен HTTP чрез ограничав�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Закотвен публичен ключ на HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Верига на сертификата:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Не може да бъде установена връзка
+deniedPortAccess-title = Този адрес е ограничен
+fileNotFound-title = Файлът не е намерен
+netInterrupt-title = Връзката беше прекъсната
+notCached-title = Документът е с изтекъл срок на валидност
+unsafeContentType-title = Опасен вид файл
+unknownProtocolFound-title = Адресът не е разпознат
+redirectLoop-title = Страницата не пренасочва правилно
+unknownSocketType-title = Неочакван отговор от сървъра
+remoteXUL-title = Отдалечен XUL
+sslv3Used-title = Невъзможно създаване на защитена връзка
