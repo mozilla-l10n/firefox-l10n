@@ -5,3 +5,10 @@
 blocklist-accept =
     .label = { -brand-short-name } شروع کریں
     .accesskey = ش
+blocklist-soft-blocked = آپ کی حفاظت کے ليے تجویز کيا جاتا ھے کی آڈ آن کو نا اہل بنانے کے ساتھ لازمی دوباره شروع کریں
+blocklist-more-information =
+    .value = مزید معلومات
+blocklist-blocked =
+    .label = بلاک کیا گیا
+blocklist-checkbox =
+    .label = نااہل
