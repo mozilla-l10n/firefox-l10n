@@ -55,3 +55,16 @@ cert-error-details-hsts-label = Diogelwch Trosglwyddo Llym HTTP: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Pinio Allwedd Cyhoeddus HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadwyn tystysgrif:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Methu cysylltu
+deniedPortAccess-title = Mae'r cyfeiriad wedi ei gyfyngu
+fileNotFound-title = Heb ganfod ffeil
+generic-title = Wps.
+netInterrupt-title = Cafodd y cysylltiad ei darfu
+netOffline-title = Modd all-lein
+contentEncodingError-title = Gwall Amgodio Cynnwys
+unsafeContentType-title = Math Anniogel o ffeil
+netReset-title = Cafodd y cysylltiad ei ailosod
+netTimeout-title = Mae cyfnod y cyswllt wedi dod i ben
