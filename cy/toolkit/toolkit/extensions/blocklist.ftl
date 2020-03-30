@@ -11,3 +11,5 @@ blocklist-more-information =
     .value = Rhagor o wybodaeth
 blocklist-blocked =
     .label = Rhwystrwyd
+blocklist-checkbox =
+    .label = Anablu
