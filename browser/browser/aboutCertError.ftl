@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Sèine an teisteanais:
 
 connectionFailure-title = Cha ghabh ceangal a dhèanamh ris
 deniedPortAccess-title = Tha an seòladh seo cuingichte
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hm, tha duilgheasan againn a’ faighinn sgeul air an làrach seo.
 fileNotFound-title = Cha deach am faidhle a lorg
 fileAccessDenied-title = Chaidh inntrigeadh dhan fhaidhle a dhiùltadh
 generic-title = Mo chreach!
 captivePortal-title = Clàraich a-steach dhan lìonra
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hm chan eil coltas ceart air an t-seòladh sin.
 netInterrupt-title = Bhris rudeigin a-steach air a' cheangal
 notCached-title = Dh'fhalbh an ùine air an sgrìobhainn
 netOffline-title = Am modh far loidhne
@@ -82,3 +88,9 @@ corruptedContentError-title = Mearachd air sgàth susbaint thruaillte
 remoteXUL-title = XUL cèin
 sslv3Used-title = Chan urrainn dhuinn ceangal tèarainte a dhèanamh
 inadequateSecurityError-title = Chan eil an ceangal agad tèarainte
+blockedByPolicy-title = Duilleag bhacte
+clockSkewError-title = Tha cleoc a’ choimpiutair agad cearr
+networkProtocolError-title = Mearachd pròtacal an lìonraidh
+nssBadCert-title = Rabhadh: Tha rud romhad a dh’fhaodadh a bhith ’na chunnart tèarainteachd
+nssBadCert-sts-title = Cha deach ceangal a dhèanamh: Rud a dh’fhaodadh a bhith ’na chunnart tèarainteachd
+certerror-mitm-title = Tha bathar-bog ann a tha a’ cumail { -brand-short-name } o bhith a’ dèanamh ceangal tèarainte ris an làrach seo
