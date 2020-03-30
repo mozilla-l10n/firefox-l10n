@@ -67,6 +67,9 @@ fileNotFound-title = Berkas tidak ditemukan
 fileAccessDenied-title = Akses terhadap berkas ditolak
 generic-title = Ups.
 captivePortal-title = Masuk ke jaringan
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Alamat tersebut tampaknya tidak benar.
 netInterrupt-title = Sambungan terputus
 notCached-title = Dokumen Kedaluwarsa
 netOffline-title = Mode luring
