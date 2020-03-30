@@ -61,6 +61,9 @@ connectionFailure-title = כישלון בהתחברות
 deniedPortAccess-title = כתובת זו מוגבלת
 fileNotFound-title = קובץ לא נמצא
 generic-title = שגיאה כללית
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = אבוי. הכתובת הזו לא נראית תקינה.
 netInterrupt-title = החיבור הופסק
 notCached-title = תוקף המסמך פג
 netOffline-title = מצב לא־מקוון
@@ -68,9 +71,11 @@ contentEncodingError-title = שגיאה בקידוד תוכן
 unsafeContentType-title = סוג קובץ מסוכן
 netReset-title = החיבור הופסק
 netTimeout-title = תם הזמן המוקצב לחיבור
+unknownProtocolFound-title = כתובת זו אינה מובנת
 proxyConnectFailure-title = השרת המתווך דחה את ההתחברות
 proxyResolveFailure-title = שרת מתווך לא נמצא
 redirectLoop-title = הדף מבצע העברה לא תקינה
 unknownSocketType-title = תגובה לא צפויה מהשרת
 cspBlocked-title = נחסם בהתאם למדיניות האבטחה של התוכן
+corruptedContentError-title = שגיאת תוכן פגום
 remoteXUL-title = XUL מרוחק
