@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Menu openen
-# This menuitem is only visible on Windows
-menu-menuitem-import = Wachtwoorden importeren…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importeren vanuit een andere browser…
 menu-menuitem-preferences =
@@ -164,6 +162,11 @@ breach-alert-text = Wachtwoorden uit deze website zijn gelekt of gestolen sinds 
 breach-alert-link = Meer info over dit datalek
 breach-alert-dismiss =
     .title = Deze waarschuwing sluiten
+about-logins-breach-alert-learn-more-link = Meer info
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-learn-more-link = Meer info
 
 ## Error Messages
 
