@@ -63,6 +63,7 @@ deniedPortAccess-title = Cette adresse est interdite
 fileNotFound-title = Fichier introuvable
 generic-title = La requête ne peut aboutir
 netInterrupt-title = La connexion a été interrompue
+notCached-title = Le document a expiré
 netOffline-title = Mode hors connexion
 unsafeContentType-title = Type de fichier non sûr
 netReset-title = La connexion a été réinitialisée
