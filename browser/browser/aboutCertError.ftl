@@ -58,9 +58,11 @@ cert-error-details-cert-chain-label = Certifikatowy rjeśaz:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Zwisk njejo móžny
 deniedPortAccess-title = Toś ta adresa jo wobgranicowana
 fileNotFound-title = Dataja njejo se namakała
 generic-title = Hopla.
+captivePortal-title = Se pla seśi pśizjawiś
 netInterrupt-title = Zwisk jo se pśetergnuł
 notCached-title = Dokument jo wótběgnuł
 netOffline-title = Offline-modus
@@ -68,6 +70,14 @@ contentEncodingError-title = Zmólka pśi koděrowanju wopśimjeśa
 unsafeContentType-title = Njewěsty datajowy typ
 netReset-title = Zwisk jo se slědk stajił
 netTimeout-title = Zwisk jo cas pśekšocył
+unknownProtocolFound-title = Adresa njejo se zrozměła
 proxyConnectFailure-title = Proksy-serwer wótpokazujo zwiski
+proxyResolveFailure-title = Njejo móžno, proksy-serwer namakaś
+redirectLoop-title = Bok pšawje njepósrědnja
 unknownSocketType-title = Njewótčakane wótegrono ze serwera
+nssFailure2-title = Wěsty zwisk njejo móžny
+cspBlocked-title = Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany
+corruptedContentError-title = Zmólka - wobškóźone wopśimjeśe
 remoteXUL-title = Daloki XUL
+sslv3Used-title = Wěsty zwisk njejo móžny
+inadequateSecurityError-title = Waš zwisk njejo wěsty
