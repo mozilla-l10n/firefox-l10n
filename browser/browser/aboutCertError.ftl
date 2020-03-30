@@ -86,3 +86,4 @@ corruptedContentError-title = Բովանդակությունը վնասված է
 remoteXUL-title = Հեռադիր XUL
 sslv3Used-title = Չհաջողվեց անվտանգ կապակցումը
 inadequateSecurityError-title = Կապակցումն անվտանգ չէ
+blockedByPolicy-title = Արգելափակված էջ
