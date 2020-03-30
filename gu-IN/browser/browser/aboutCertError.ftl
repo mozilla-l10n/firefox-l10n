@@ -89,3 +89,4 @@ remoteXUL-title = દૂરસ્થ XUL
 sslv3Used-title = સુરક્ષિત રીતે જોડાણ કરવામાં અસમર્થ
 inadequateSecurityError-title = તમારું જોડાણ સુરક્ષિત નથી
 blockedByPolicy-title = અવરોધિત પૃષ્ઠ
+clockSkewError-title = તમારાં કમ્પ્યુટરની ઘડિયાળ ખોટી છે
