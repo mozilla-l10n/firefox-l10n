@@ -45,3 +45,19 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifikat zənciri:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Əlaqə cəhdi uğursuz oldu
+deniedPortAccess-title = Təhlükəsizlik üçün bağlantı nöqtəsi bağlıdır
+netInterrupt-title = Məlumat ötürmə xətası
+notCached-title = Sənədin vaxtı çıxıb
+netOffline-title = Offline bağlantı səhvi
+contentEncodingError-title = Məzmun kodlama səhvi
+unsafeContentType-title = Etibarsız fayl növü
+netReset-title = Bağlantı kəsildi
+netTimeout-title = Şəbəkə gözləmə müddəti
+proxyConnectFailure-title = Proxy server bağlantını rədd etdi
+proxyResolveFailure-title = Proxy-server tapılmadı
+unknownSocketType-title = Şəbəkədən gələn cavab yanlışdır
+remoteXUL-title = Uzaq XUL
