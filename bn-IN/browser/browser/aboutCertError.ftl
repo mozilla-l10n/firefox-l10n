@@ -23,10 +23,16 @@ cert-error-details-cert-chain-label = সার্টিফিকেট চে�
 
 connectionFailure-title = সংযোগ করতে ব্যর্থ
 deniedPortAccess-title = নিরাপত্তাজনীত কারণে চিহ্নিত ঠিকানার উপর বিধি নিষেধ আরোপ করা হয়েছে
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = হুম। আমরা সাইটটি ঠিক খুঁজে পাচ্ছি না।
 fileNotFound-title = ফাইল পাওয়া যায়নি
 fileAccessDenied-title = ফাইলে অ্যাক্সেস বাতিল করা হয়েছে
 generic-title = ওহহ!
 captivePortal-title = নেটওয়ার্কে লগইন করুন
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = হ্যাঁ। ঠিকানাটি টিক দেখাচ্ছে না।
 netInterrupt-title = সংযোগ বিঘ্নিত হয়েছে
 notCached-title = নথির মেয়াদ উত্তীর্ণ হয়েছে
 netOffline-title = অফলাইন মোড
@@ -45,3 +51,8 @@ corruptedContentError-title = ক্ষতিগ্রস্ত তথ্য স
 remoteXUL-title = দূরবর্তী XUL
 sslv3Used-title = সুরক্ষিতভাবে কানেক্ট করতে অক্ষম
 inadequateSecurityError-title = তোমার কানেকশনটি নিরাপদ নয়
+blockedByPolicy-title = ব্লক করা পাতা
+clockSkewError-title = আপনার কম্পিউটারের সময় ভুল
+networkProtocolError-title = নেটওয়ার্ক প্রোটোকলের ত্রুটি
+nssBadCert-title = সতর্কতা: সম্ভাব্য নিরাপত্তা ঝুঁকি আছে
+nssBadCert-sts-title = সংযুক্ত ছিল না: সম্ভাব্য নিরাপত্তা সমস্যা
