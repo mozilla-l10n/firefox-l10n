@@ -55,3 +55,12 @@ cert-error-details-hsts-label = سياسة نقل HTTP الصارمة: { $hasHST
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = تثبيت مفتاح HTTP العام: { $hasHPKP }
 cert-error-details-cert-chain-label = سلسلة الشهادة:
+
+## Messages used for certificate error titles
+
+netInterrupt-title = قُوطِع الاتصال
+contentEncodingError-title = خطأ في ترميز المحتوى
+unsafeContentType-title = نوع ملف غير آمن
+netTimeout-title = انتهت مهلة الاتصال
+proxyResolveFailure-title = تعذر العثور على الخادوم الوسيط
+unknownSocketType-title = استجابة غير متوقعة من الخادوم
