@@ -67,6 +67,9 @@ fileNotFound-title = پرونده پیدا نشد
 fileAccessDenied-title = دسترسی به پرونده رد شد
 generic-title = متأسفیم.
 captivePortal-title = ورود به شبکه
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = آممم. آدرس به نظر درست نیست.
 netInterrupt-title = اتصال مختل شد
 notCached-title = پرونده منقضی شده
 netOffline-title = حالت منفصل
