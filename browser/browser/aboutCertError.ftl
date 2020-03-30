@@ -22,6 +22,8 @@ cert-error-details-cert-chain-label = Cadena del certificáu:
 
 ## Messages used for certificate error titles
 
+fileNotFound-title = Nun s'alcontró'l ficheru
+notCached-title = Documentu caducáu
 netOffline-title = Mou ensin conexón
 netReset-title = Reanicióse la conexón
 proxyConnectFailure-title = El sirvidor proxy ta refugando les conexones
