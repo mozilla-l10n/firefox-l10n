@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = مینیو کھولیں
-# This menuitem is only visible on Windows
-menu-menuitem-import = پاس ورڈ درآمد کریں…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = دوسرے براؤزر سے درآمد کریں…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = کے مطابق چھانٹیں:
 login-list-name-option = نام (A-Z)
 login-list-name-reverse-option = نام  (Z-A)
 login-list-breached-option = خلاف ورزی کرنے والی ویب سائٹیں
+about-logins-login-list-alerts-option = انتباہات
 login-list-last-changed-option = آخری بار ترمیم کردہ
 login-list-last-used-option = آخری استعمال
 login-list-intro-title = کوئی لاگ ان نہیں ملا
@@ -154,6 +153,14 @@ breach-alert-text = اس ویب سائٹ سے پاس ورڈز لیک یا چور
 breach-alert-link = اس خلاف ورزی کے بارے میں مزید معلومات حاصل کریں۔
 breach-alert-dismiss =
     .title = اس انتباہ کو بند کریں
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } پر جائیں
+about-logins-breach-alert-learn-more-link = مزید سیکھیں
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-learn-more-link = مزید سیکھیں
 
 ## Error Messages
 
