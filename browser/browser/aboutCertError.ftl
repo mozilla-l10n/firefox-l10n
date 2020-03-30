@@ -55,3 +55,11 @@ cert-error-details-hsts-label = HTTP কঠোৰ পৰিবহন নিৰ�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP পাব্লিক কী পিনিং: { $hasHPKP }
 cert-error-details-cert-chain-label = প্ৰমাণপত্ৰ শৃংখলা:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = সংযোগ কৰাত অক্ষম
+deniedPortAccess-title = এই ঠিকনা পৰিমিত
+netInterrupt-title = সংযোগ বিচ্ছিন্ন হৈছে
+netOffline-title = অফলাইন ধৰণ
+netTimeout-title = সংযোত স্থাপনৰ সময়ৰ বিৰতি হৈছে
