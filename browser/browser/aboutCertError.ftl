@@ -74,6 +74,7 @@ redirectLoop-title = Redirecionamento incorreto
 unknownSocketType-title = Resposta inesperada do servidor
 nssFailure2-title = Falha na conexão segura
 cspBlocked-title = Bloqueado pela política de segurança de conteúdo
+corruptedContentError-title = Erro de conteúdo corrompido
 remoteXUL-title = XUL remoto
 sslv3Used-title = Não foi possível conectar com segurança
 inadequateSecurityError-title = Sua conexão não é segura
