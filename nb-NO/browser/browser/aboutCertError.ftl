@@ -60,7 +60,9 @@ cert-error-details-cert-chain-label = Sertifikatkjede:
 
 deniedPortAccess-title = Tilgang til denne adressen er begrenset
 fileNotFound-title = Fil ikke funnet
+fileAccessDenied-title = Tilgang til filen ble nektet
 generic-title = Oops.
+captivePortal-title = Logg inn på nettverket
 netInterrupt-title = Tilkoblingen ble avbrutt
 notCached-title = Dokumentet er utgått på dato
 netOffline-title = Frakoblet modus
@@ -75,5 +77,7 @@ redirectLoop-title = Nettsiden videresender ikke ordentlig
 unknownSocketType-title = Uventet svar fra server
 nssFailure2-title = Sikker tilkobling mislyktes
 cspBlocked-title = Blokkert av sikkerhetspolicy
+corruptedContentError-title = Ødelagt innhold
 remoteXUL-title = Ekstern XUL
 sslv3Used-title = Klarte ikke å koble til sikkert
+inadequateSecurityError-title = Tilkoblingen din er ikke sikker
