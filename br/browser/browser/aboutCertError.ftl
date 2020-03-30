@@ -84,6 +84,7 @@ redirectLoop-title = Adheñchañ ar bajenn n'eo ket dereat
 unknownSocketType-title = Respont direizh
 nssFailure2-title = C'hwitadenn war ar c'hennaskañ diarvar
 cspBlocked-title = Harzet gant ur reolenn diogelroez a-fet endalc'hadoù
+xfoBlocked-title = Stanket gant politikerezh X-Frame-Options
 corruptedContentError-title = Fazi a-fet endalc'had bet kontronet
 remoteXUL-title = XUL a-bell
 sslv3Used-title = N'haller ket kennaskañ outi ent diarvar
