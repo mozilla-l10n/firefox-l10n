@@ -22,3 +22,16 @@ cert-error-code-prefix-link = ଭୁଲ କୋଡ଼: <a data-l10n-name="error-c
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = ଏଚଟିଟିପି ପବ୍ଲିକ କି ପିନିଙ୍ଗ { $hasHPKP }
 cert-error-details-cert-chain-label = ସାର୍ଟିଫିକେଟ ଚେନ
+
+## Messages used for certificate error titles
+
+deniedPortAccess-title = ଏହି ଠିକଣାଟି ପ୍ରତିବନ୍ଧିତ
+fileNotFound-title = ଫାଇଲ ମିଳୁନାହିଁ
+netOffline-title = ଅଫଲାଇନ ଅବସ୍ଥା
+contentEncodingError-title = ସୂଚୀ ସାଙ୍କେତିକରଣ ତ୍ରୁଟି
+unsafeContentType-title = ଅସୁରକ୍ଷିତ ଫାଇଲ ପ୍ରକାର
+netReset-title = ସଂଯୋଗ ପୁନର୍ବିନ୍ୟାସ ହୋଇଥିଲା
+netTimeout-title = ସଂଯୋଗ ସମୟ ସମାପ୍ତ ହୋଇଯାଇଛି
+proxyConnectFailure-title = ପ୍ରକ୍ସି ସର୍ଭର ସଂଯୋଗଗୁଡ଼ଡିକୁ ବାରଣ କରୁଛି
+proxyResolveFailure-title = ପ୍ରକ୍ସି ସର୍ଭରକୁ ଖୋଜିବାରେ ଅସମର୍ଥ
+unknownSocketType-title = ସର୍ଭରରୁ ଅପ୍ରତ୍ୟାଶିତ ଉତ୍ତର
