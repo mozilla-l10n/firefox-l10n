@@ -23,10 +23,16 @@ cert-error-details-cert-chain-label = प्रमाणपत्र चेन:
 
 connectionFailure-title = जडान गर्न असमर्थ
 deniedPortAccess-title = यो ठेगाना प्रतिबन्धित छ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = उम्म । त्यो साइट फेला पार्न हामीलाई समस्या भइरहेको छ ।
 fileNotFound-title = फाइल फेला परेन
 fileAccessDenied-title = फाइलमा पहुँच अस्वीकृत भयो
 generic-title = ओहो।
 captivePortal-title = सञ्जालमा लगइन गर्नुहोस्
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = उम्म । त्यो ठेगाना सही देखिँदैन ।
 netInterrupt-title = यो जडानमा अवरोध भएको छ
 notCached-title = कागजातको समयावधी समाप्त भयो
 netOffline-title = अफलाइन मोड
