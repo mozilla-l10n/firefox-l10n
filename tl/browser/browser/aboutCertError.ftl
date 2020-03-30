@@ -85,3 +85,4 @@ corruptedContentError-title = Corrupted Content Error
 remoteXUL-title = Remote XUL
 inadequateSecurityError-title = Ang iyong koneksyon ay hindi ligtas
 blockedByPolicy-title = Naka-block na Pahina
+clockSkewError-title = Mali ang oras ng iyong computer
