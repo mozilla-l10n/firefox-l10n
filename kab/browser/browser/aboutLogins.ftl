@@ -166,9 +166,18 @@ breach-alert-text = Awalen uffiren n usmel-a ffɣen neɣ ttwakren deffir n ubedd
 breach-alert-link = Issin ugar ɣef trewla n yisefka-agi.
 breach-alert-dismiss =
     .title = Mdel ulɣu-agi
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ddu ɣer { $hostname }
+about-logins-breach-alert-learn-more-link = Issin ugar
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Awal uffir ur iǧhid ara
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ddu ɣer { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Issin ugar
 
 ## Error Messages
 
