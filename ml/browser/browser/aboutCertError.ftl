@@ -28,10 +28,16 @@ cert-error-details-cert-chain-label = സർട്ടിഫിക്കറ്റ
 
 connectionFailure-title = കണക്ട്‌ ചെയ്യുവാന്‍ സാധിച്ചില്ല
 deniedPortAccess-title = ഈ വിലാസം നിരോധിക്കപ്പെട്ടതാണ്‌
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = ഹും. ആ സൈറ്റിനെ കണ്ടെത്തുന്നതിൽ ഞങ്ങൾക്ക് പ്രശ്നമുണ്ട്.
 fileNotFound-title = ഫയല്‍ കാണ്‍മാനില്ല
 fileAccessDenied-title = ഫയലിലേക്കുള്ള ആക്സസ്സ് നിരസിച്ചു
 generic-title = അയ്യോ!!
 captivePortal-title = നെറ്റ്‍വർക്കിൽ പ്രവേശിക്കുക
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = ഹും. ആ വിലാസം ശരിയാണെന്ന് തോന്നുന്നില്ല.
 netInterrupt-title = ഈ കണക്ഷന്‍ തടസ്സപ്പെട്ടിരിക്കുന്നു
 notCached-title = രേഖയുടെ കാലാവധി കഴിഞ്ഞിരിയ്ക്കുന്നു
 netOffline-title = ഓഫ്‌ലൈന്‍ മോഡ്‌
@@ -44,6 +50,7 @@ proxyConnectFailure-title = പ്രോക്സി സെര്‍വര്‍
 proxyResolveFailure-title = പ്രോക്സി സെര്‍വര്‍ കണ്ടെത്താനായില്ല
 redirectLoop-title = ഈ താള്‍ ശരിയായി റീഡയറക്ട്‌ ചെയുന്നില്ല
 unknownSocketType-title = സെര്‍വറില്‍ നിന്നും പ്രതീക്ഷിക്കാത്ത പ്രതികരണം
+nssFailure2-title = സുരക്ഷിതമായ കണക്ഷൻ പരാജയപ്പെട്ടു
 cspBlocked-title = ഉള്ളടക്കത്തിലുള്ള സുരക്ഷാ പോളിസി കാരണം തടഞ്ഞിരിയ്ക്കുന്നു
 corruptedContentError-title = തകരാറുള്ള ഉള്ളടക്കത്തില്‍ പിശക്
 remoteXUL-title = റിമോട്ട് XUL
