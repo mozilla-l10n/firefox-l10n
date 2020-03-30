@@ -89,3 +89,5 @@ remoteXUL-title = XUL remoto
 sslv3Used-title = No es posible conectar de manera segura
 inadequateSecurityError-title = Su conexión no es segura
 blockedByPolicy-title = Página bloqueada
+clockSkewError-title = La hora de su equipo es incorrecta
+nssBadCert-title = Advertencia: riesgo potencial de seguridad a continuación
