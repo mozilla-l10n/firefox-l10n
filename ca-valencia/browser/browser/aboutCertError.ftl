@@ -55,3 +55,43 @@ cert-error-details-hsts-label = Seguretat estricta de transport HTTP: { $hasHSTS
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixació de claus públiques HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificats:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = No s'ha pogut connectar
+deniedPortAccess-title = L'adreça està restringida
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Tenim problemes per trobar este lloc.
+fileNotFound-title = No s'ha trobat el fitxer
+fileAccessDenied-title = S'ha denegat l'accés al fitxer
+generic-title = Ups.
+captivePortal-title = Inicieu la sessió a la xarxa
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Esta adreça no pareix correcta.
+netInterrupt-title = S'ha interromput la connexió
+notCached-title = El document ha caducat
+netOffline-title = Mode fora de línia
+contentEncodingError-title = Error de codificació del contingut
+unsafeContentType-title = Tipus de fitxer insegur
+netReset-title = S'ha reiniciat la connexió
+netTimeout-title = S'ha esgotat el temps d'espera de la connexió
+unknownProtocolFound-title = No s'ha entés l'adreça
+proxyConnectFailure-title = El servidor intermediari està rebutjant les connexions
+proxyResolveFailure-title = No s'ha pogut trobar el servidor intermediari
+redirectLoop-title = La pàgina no està redirigint correctament
+unknownSocketType-title = Resposta inesperada del servidor
+nssFailure2-title = Ha fallat la connexió segura
+cspBlocked-title = Blocat per la política de seguretat del contingut
+xfoBlocked-title = Blocat per la política X-Frame-Options
+corruptedContentError-title = Error de contingut malmés
+remoteXUL-title = XUL remot
+sslv3Used-title = No s'ha pogut connectar de forma segura
+inadequateSecurityError-title = La connexió no és segura
+blockedByPolicy-title = Pàgina blocada
+clockSkewError-title = L'hora del vostre ordinador no és correcta
+networkProtocolError-title = Error del protocol de xarxa
+nssBadCert-title = Avís: Risc potencial de seguretat
+nssBadCert-sts-title = No s'ha connectat: Problema potencial de seguretat
+certerror-mitm-title = Hi ha programari que impedeix que el { -brand-short-name } es connecte de forma segura a este lloc
