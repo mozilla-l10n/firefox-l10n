@@ -59,6 +59,7 @@ cert-error-details-cert-chain-label = Azrar n uselkin:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Igguma ad iqqen
+deniedPortAccess-title = Tansa-a tegdel
 fileNotFound-title = Ulac afaylu
 fileAccessDenied-title = Anekcum ɣer ufaylu yegdel
 generic-title = Ihuh.
