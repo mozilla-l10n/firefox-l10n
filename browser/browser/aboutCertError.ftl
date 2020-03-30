@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Cadwyn tystysgrif:
 
 connectionFailure-title = Methu cysylltu
 deniedPortAccess-title = Mae'r cyfeiriad wedi ei gyfyngu
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Rydym yn cael trafferth canfod y wefan honno.
 fileNotFound-title = Heb ganfod ffeil
 fileAccessDenied-title = Mae mynediad i'r ffeil wedi ei wrthod
 generic-title = Wps.
 captivePortal-title = Mewngofnodi i'r rhwydwaith
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Dyw'r cyfeiriad yna ddim yn edrych yn iawn.
 netInterrupt-title = Cafodd y cysylltiad ei darfu
 notCached-title = Daeth y Ddogfen i Ben
 netOffline-title = Modd all-lein
@@ -82,3 +88,4 @@ corruptedContentError-title = Gwall Cynnwys Llygredig
 remoteXUL-title = XUL pell
 sslv3Used-title = Methu Cysylltu'n Ddiogel
 inadequateSecurityError-title = Nid yw eich cysylltiad yn ddiogel
+blockedByPolicy-title = Tudalen wedi'i Rhwystro
