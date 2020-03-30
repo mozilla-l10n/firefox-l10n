@@ -61,6 +61,7 @@ cert-error-details-cert-chain-label = ច្រវាក់​​វិញ្ញ
 connectionFailure-title = មិន​អាច​តភ្ជាប់
 deniedPortAccess-title = អាសយដ្ឋាន​នេះ​ត្រូវ​បាន​ដាក់កម្រិត
 fileNotFound-title = រក​មិន​ឃើញ​ឯកសារ
+generic-title = អ្ហុះ !
 netInterrupt-title = ការ​តភ្ជាប់​ត្រូវ​បាន​កាត់​ផ្តាច់
 notCached-title = ឯកសារ​បាន​ផុត​កំណត់
 netOffline-title = របៀប​ក្រៅ​បណ្ដាញ
