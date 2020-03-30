@@ -55,3 +55,30 @@ cert-error-details-hsts-label = HTTP Jikïl ruchajixik ruk'waxik: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Xjikib'äx ri ewan tzij kichin winäq: { $hasHPKP }
 cert-error-details-cert-chain-label = Rucholajil wujil:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Man tikirel ta nok
+deniedPortAccess-title = Re ochochib'äl re' q'aton rusamaj
+fileNotFound-title = Man xilitäj ta ri yakb'äl
+fileAccessDenied-title = Xq'at rutz'etik ri yakb'äl
+generic-title = Uy.
+captivePortal-title = Tok pa k'amab'ey
+netInterrupt-title = Xq'at ri okem
+notCached-title = Xk'is ruq'ijul ri wuj
+netOffline-title = Pa rub'eyal majun okem
+contentEncodingError-title = Sachoj pa rucholajil rupam
+unsafeContentType-title = Itzel ruwäch chi yakb'äl
+netReset-title = Tikirisan chik ri okem
+netTimeout-title = Xxik'o ruq'ijul ri okem
+unknownProtocolFound-title = Man nich'ob'otäj ta ri ochochib'äl
+proxyConnectFailure-title = Ri proxy ruk'u'x samaj tajin yerutzolij ri taq okem
+proxyResolveFailure-title = Man nilitäj ta ri proxi ruk'u'x samaj
+redirectLoop-title = Man ütz ta tajin niq'axan ri ruxaq k'amaya'l
+unknownSocketType-title = Man oyob'en ta re rutzijol tajin nuya' pe ri ruk'u'x samaj
+nssFailure2-title = Xq'ate' ri ütz okem
+cspBlocked-title = Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl
+corruptedContentError-title = Sachoj ruma itzel rupam
+remoteXUL-title = Näj XUL
+sslv3Used-title = Man tikirel ta ütz nok
+inadequateSecurityError-title = Itzel ri awokem
