@@ -84,6 +84,7 @@ redirectLoop-title = Asebter ur iwehi ara akken iwata
 unknownSocketType-title = Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara
 nssFailure2-title = Tuqqna taɣelsant ur teddi ara
 cspBlocked-title = Tesweḥlit tsertit n tɣellist n ugbur
+xfoBlocked-title = Tessewḥel-it tsertit X-Frame-Options
 corruptedContentError-title = Tuccḍa d-yekkan seg ugbur yerẓen
 remoteXUL-title = XUL anmeggag
 sslv3Used-title = Ur yezmir ara ad yeqqen s tɣellist
