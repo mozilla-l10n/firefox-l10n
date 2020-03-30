@@ -85,3 +85,4 @@ corruptedContentError-title = Erro de conteúdo corrompido
 remoteXUL-title = XUL remoto
 sslv3Used-title = Não foi possível conectar com segurança
 inadequateSecurityError-title = Sua conexão não é segura
+blockedByPolicy-title = Página bloqueada
