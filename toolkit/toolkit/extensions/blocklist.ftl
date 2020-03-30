@@ -8,6 +8,7 @@ blocklist-window =
 blocklist-accept =
     .label = أعِد تشغيل { -brand-short-name }
     .accesskey = ع
+blocklist-label-summary = { -brand-short-name } قرّر أن الإضافات التالية تسبب مشكلات أمنية أو مشكلات في الثبات:
 blocklist-more-information =
     .value = مزيد من المعلومات
 blocklist-blocked =
