@@ -58,3 +58,6 @@ cert-error-details-cert-chain-label = Nyoo me catibiket:
 
 connectionFailure-title = Pe romo kubo
 deniedPortAccess-title = Kanonge man kigengo woko
+fileNotFound-title = Pwal pe ononge
+netReset-title = Kitero kube odoco
+netTimeout-title = Kare me kube otum woko
