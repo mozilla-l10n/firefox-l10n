@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Цепочка сертификата:
 
 connectionFailure-title = Попытка соединения не удалась
 deniedPortAccess-title = Обращение к данному адресу заблокировано
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Хмм. Нам не удаётся найти этот сайт.
 fileNotFound-title = Файл не найден
 fileAccessDenied-title = В доступе к файлу отказано
 generic-title = Ой.
 captivePortal-title = Вход в сеть
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Хмм. Этот адрес не выглядит правильным.
 netInterrupt-title = Соединение было прервано
 notCached-title = Документ просрочен
 netOffline-title = Автономный режим
@@ -74,6 +80,7 @@ netTimeout-title = Время ожидания соединения истекл
 unknownProtocolFound-title = Неизвестный тип адреса
 proxyConnectFailure-title = Прокси-сервер отказывается принимать соединения
 proxyResolveFailure-title = Не удалось найти прокси-сервер
+redirectLoop-title = Циклическое перенаправление на странице
 unknownSocketType-title = Неизвестный/неопознанный ответ сервера
 nssFailure2-title = Ошибка при установлении защищённого соединения
 cspBlocked-title = Заблокировано политикой защиты содержимого
@@ -84,5 +91,7 @@ sslv3Used-title = Установка защищённого соединения
 inadequateSecurityError-title = Ваше соединение не защищено
 blockedByPolicy-title = Заблокированная страница
 clockSkewError-title = Часы вашего компьютера установлены неправильно
+networkProtocolError-title = Ошибка сетевого протокола
 nssBadCert-title = Предупреждение: Вероятная угроза безопасности
 nssBadCert-sts-title = Соединение не установлено: Вероятная угроза безопасности
+certerror-mitm-title = Программное обеспечение не даёт { -brand-short-name } безопасно подключиться к этому сайту
