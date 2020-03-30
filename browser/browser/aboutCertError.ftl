@@ -62,6 +62,7 @@ connectionFailure-title = Повезивање није успело
 fileNotFound-title = Датотека није пронађена
 netInterrupt-title = Веза је прекинута
 notCached-title = Документ је истекао
+netOffline-title = Рад ван мреже
 contentEncodingError-title = Грешка у кодирању садржаја
 unsafeContentType-title = Небезбедна врста датотеке
 netReset-title = Веза је ресетована
