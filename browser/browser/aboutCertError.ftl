@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Сертификаттар тізбегі:
 
 connectionFailure-title = Байланысты орнату сәтсіз аяқталды
 deniedPortAccess-title = Бұл портқа тыйым салынған
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Кешіріңіз, бұл сайтты таба алмадық.
 fileNotFound-title = Файл табылмады
 fileAccessDenied-title = Файлға қатынау құқығы жоқ
 generic-title = Қате.
 captivePortal-title = Желіге кіру
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Кешіріңіз, бұл адрес дұрыс адреске ұқсамайды.
 netInterrupt-title = Байланыс үзілген
 notCached-title = Құжат ескірген
 netOffline-title = Дербес жұмыс істеу режимі
@@ -78,7 +84,14 @@ redirectLoop-title = Парақтағы бағдарлау дұрыс емес
 unknownSocketType-title = Сервердің жауабы күтпеген түрде
 nssFailure2-title = Қорғалған байланысты орнату сәтсіз аяқталды
 cspBlocked-title = Құрамасының қауіпсіздік саясатымен блокталған
+xfoBlocked-title = X-Frame-Options саясатымен бұғаттаған
 corruptedContentError-title = Зақымдалған құрама қатесі
 remoteXUL-title = Қашықтағы XUL
 sslv3Used-title = Қауіпсіз түрде байланысу мүмкін емес
 inadequateSecurityError-title = Сіздің байланысыңыз қауіпсіз емес
+blockedByPolicy-title = Бұғатталған бет
+clockSkewError-title = Сіздің компьютеріңіздің сағаты қате
+networkProtocolError-title = Желілік хаттама қатесі
+nssBadCert-title = Назарыңызға: алдыңызда тәуекел бар сияқты
+nssBadCert-sts-title = Байланыс орнатылмады: мүмкін қауіпсіздік мәселесі
+certerror-mitm-title = Бағдарламалық қамтама { -brand-short-name } үшін бұл сайтқа қауіпсіз түрде байланысуға жол бермейді
