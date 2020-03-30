@@ -73,7 +73,7 @@ serviceworker-empty-suggestions-aboutdebugging = 다른 도메인의 Service Wor
 manifest-view-header = 앱 매니페스트
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = 여기서 검사하려면 웹 앱 매니페스트를 추가해야합니다. <a>더 알아보기</a>
+manifest-empty-intro = 여기서 검사하려면 웹 앱 매니페스트를 추가해야 합니다. <a>더 알아보기</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = 오류 및 경고
 # Header for the Identity section of Manifest inspection displayed in the application panel.
