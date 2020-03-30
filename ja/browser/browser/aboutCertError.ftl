@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = 証明書チェーン:
 
 connectionFailure-title = 正常に接続できませんでした
 deniedPortAccess-title = このアドレスへの接続は制限されています
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = アクセスしようとしているサイトを見つけられません。
 fileNotFound-title = ファイルが見つかりませんでした
 fileAccessDenied-title = ファイルへのアクセスが拒否されました
 generic-title = リクエストを正常に完了できませんでした
 captivePortal-title = ネットワークにログイン
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = アドレスが正しくないようです
 netInterrupt-title = 接続が中断されました
 notCached-title = ドキュメントが有効期限切れです
 netOffline-title = オフラインモードです
@@ -72,7 +78,10 @@ unsafeContentType-title = 安全でないファイルタイプ
 netReset-title = 接続がリセットされました
 netTimeout-title = 接続がタイムアウトしました
 unknownProtocolFound-title = アドレスのプロトコルが不明です
+proxyConnectFailure-title = プロキシーサーバーへの接続を拒否されました
+proxyResolveFailure-title = プロキシーサーバーが見つかりませんでした
 redirectLoop-title = ページの自動転送設定が正しくありません
+unknownSocketType-title = サーバーの応答が不正です
 nssFailure2-title = 安全な接続ができませんでした
 cspBlocked-title = コンテンツセキュリティポリシーによりブロックされました
 xfoBlocked-title = X-Frame-Options ポリシーによりブロックされました
