@@ -32,6 +32,9 @@ fileNotFound-title = ဖိုင် မတွေ့ရပါ
 fileAccessDenied-title = ဖိုင်အသုံးပြုခြင်းကို တားမြစ်ထားသည်
 generic-title = မဆောင်ရွက်နိုင်ခဲ့ပါ
 captivePortal-title = ကွန်ယက်သို့ ဝင်ရောက်ပါ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = ဟမ်။ ဒီလိပ်စာက မှန်ကန်မယ်မထင်ဘူး။
 netInterrupt-title = ချိတ်ဆက်မှု ပြတ်တောက်သွားခဲ့သည်
 notCached-title = စာတမ်းသည် ဆွဲယူရန် သတ်မှတ်ချိန် ကျော်လွန်သွားသည်
 netOffline-title = ချိတ်ဆက်မဲ့ စနစ်
@@ -50,3 +53,5 @@ corruptedContentError-title = အကြောင်းအရာ မစုံလ�
 remoteXUL-title = Remote XUL
 sslv3Used-title = လုံခြုံစိတ်ချစွာ မချိတ်ဆက်နိုင်ပါ
 inadequateSecurityError-title = ချိတ်ဆက်မှုသည် မလုံခြုံပါ
+nssBadCert-title = သတိပေးချက်: လုံခြုံရေးအန္တရာယ်
+nssBadCert-sts-title = လုံခြုံရေးပြဿနာကြောင့် မချိတ်ဆက်ခဲ့ပါ။
