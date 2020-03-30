@@ -59,9 +59,12 @@ cert-error-details-cert-chain-label = Liudijimų grandinė:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nepavyko užmegzti ryšio
+deniedPortAccess-title = Prieiga prie šio adreso apribota
 fileNotFound-title = Nerastas failas
 generic-title = Klaida
 netInterrupt-title = Ryšys buvo nutrauktas
+notCached-title = Dokumento galiojimas baigėsi
+netOffline-title = Dirbama neprisijungus prie tinklo
 contentEncodingError-title = Kodavimo klaida
 unsafeContentType-title = Nesaugus failo tipas
 netReset-title = Ryšys nutrūko
@@ -69,3 +72,4 @@ netTimeout-title = Baigėsi prisijungimui skirtas laikas
 proxyConnectFailure-title = Įgaliotasis serveris atmeta ryšį
 proxyResolveFailure-title = Nerastas įgaliotasis serveris
 unknownSocketType-title = Netikėtas serverio atsakas
+remoteXUL-title = XUL iš tinklo
