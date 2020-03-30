@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0
 
+blocklist-window =
+    .title = အတ်အွန်များကြောင့်ပြသာနာဖြစ်နေတာဖြစ်နိုင်သည်။
+    .style = width: 45em; height: 30em
 blocklist-accept =
     .label = R { -brand-short-name } ကိုပြန်စ
     .accesskey = R
