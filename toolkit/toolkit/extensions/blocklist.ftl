@@ -5,3 +5,5 @@
 blocklist-window =
     .title = მოდული შესაძლოა სახიფათო აღმოჩნდეს
     .style = width: 54em; height: 36em
+blocklist-checkbox =
+    .label = ამორთვა
