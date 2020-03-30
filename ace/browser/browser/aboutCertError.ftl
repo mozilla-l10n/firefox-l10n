@@ -12,4 +12,5 @@ cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 ## Messages used for certificate error titles
 
 fileNotFound-title = Beureukaih hana jiteumèë
+generic-title = Oops.
 unsafeContentType-title = Jeunèh Beureukaih Hana Aman
