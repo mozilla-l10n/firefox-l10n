@@ -34,6 +34,7 @@ netOffline-title = Nesaistes režīms
 contentEncodingError-title = Satura kodējuma kļūda
 unsafeContentType-title = Nedrošs faila tips
 netReset-title = Savienojums tika pārrauts
+netTimeout-title = Savienojumam iestājās noilgums
 proxyConnectFailure-title = Starpniekserveris (proxy) nepieņem savienojumus
 proxyResolveFailure-title = Nevar atrast starpniekserveri
 unknownSocketType-title = Negaidīta atbilde no servera
