@@ -5,6 +5,7 @@
 blocklist-window =
     .title = Dodaci mogu prouzročiti probleme
     .style = width: 45em; height: 30em
+blocklist-label-summary = { -brand-short-name } je otkrio da sljedeći dodaci znaju prouzročiti probleme sa stabilnošću i sigurnošću:
 blocklist-hard-blocked = Ovi dodaci predstavljaju visoki rizik za stabilnost i sigurnost, te su zbog toga blokirani. Međutim, ponovno pokretanje je nužno kako bi u potpunosti bili onemogućeni.
 blocklist-more-information =
     .value = Više informacija
