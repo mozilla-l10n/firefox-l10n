@@ -88,6 +88,7 @@ corruptedContentError-title = Villa skemmd gögn
 remoteXUL-title = Fjarlægt XUL
 sslv3Used-title = Get ekki tengst á öruggan hátt
 inadequateSecurityError-title = Tenging er ekki örugg
+blockedByPolicy-title = Lokuð síða
 clockSkewError-title = Klukkan í tölvunni þinni er vitlaus
 networkProtocolError-title = Villa í netsamskiptum
 nssBadCert-title = Viðvörun: Hugsanleg öryggisáhætta framundan
