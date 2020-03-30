@@ -64,6 +64,7 @@ fileNotFound-title = ਫਾਈਲ ਨਹੀਂ ਲੱਭੀ
 fileAccessDenied-title = ਫਾਈਲ ਲਈ ਪਹੁੰਚ ਦੀ ਪਾਬੰਦੀ ਸੀ
 generic-title = ਓਹ ਹੋ!
 captivePortal-title = ਨੈੱਟਵਰਕ ਲਈ ਲਾਗਇਨ ਕਰੋ
+netInterrupt-title = ਕੁਨੈਕਸ਼ਨ ਰੋਕਿਆ ਗਿਆ
 notCached-title = ਡੌਕੂਮੈਂਟ ਦੀ ਮਿਆਦ ਪੁੱਗੀ
 netOffline-title = ਆਫ਼-ਲਾਈਨ ਮੋਡ
 contentEncodingError-title = ਸਮਗੱਰੀ ਇੰਕੋਡਿੰਗ ਗਲਤੀ
