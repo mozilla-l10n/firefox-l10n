@@ -45,3 +45,10 @@ cert-error-details-hsts-label = HTTP Keselamatan Pengangkutan Rapi: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Penyematan Kunci Awam: { $hasHPKP }
 cert-error-details-cert-chain-label = Rantaian sijil:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = Fail tidak ditemui
+notCached-title = Dokumen Luput
+netTimeout-title = Sambungan telah tamat tempoh
+proxyResolveFailure-title = Tidak dapat menemui pelayan proksi
