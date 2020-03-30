@@ -55,3 +55,19 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certifikatowy rjeśaz:
+
+## Messages used for certificate error titles
+
+deniedPortAccess-title = Toś ta adresa jo wobgranicowana
+fileNotFound-title = Dataja njejo se namakała
+generic-title = Hopla.
+netInterrupt-title = Zwisk jo se pśetergnuł
+notCached-title = Dokument jo wótběgnuł
+netOffline-title = Offline-modus
+contentEncodingError-title = Zmólka pśi koděrowanju wopśimjeśa
+unsafeContentType-title = Njewěsty datajowy typ
+netReset-title = Zwisk jo se slědk stajił
+netTimeout-title = Zwisk jo cas pśekšocył
+proxyConnectFailure-title = Proksy-serwer wótpokazujo zwiski
+unknownSocketType-title = Njewótčakane wótegrono ze serwera
+remoteXUL-title = Daloki XUL
