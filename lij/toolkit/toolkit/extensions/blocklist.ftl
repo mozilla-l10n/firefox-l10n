@@ -14,5 +14,7 @@ blocklist-hard-blocked = Sti conponenti azonti gh'an un'erto reizeigo de caozâ 
 blocklist-soft-blocked = Pe-a teu proteçion l'é megio che ti arvi torna con sti conponenti azonti dizabilitæ.
 blocklist-more-information =
     .value = Ciù informaçioin
+blocklist-blocked =
+    .label = Blocòu
 blocklist-checkbox =
     .label = Dizabilita
