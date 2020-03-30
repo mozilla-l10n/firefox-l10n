@@ -90,4 +90,7 @@ sslv3Used-title = Ei voitu muodostaa suojattua yhteyttä
 inadequateSecurityError-title = Yhteys ei ole suojattu
 blockedByPolicy-title = Estetty sivu
 clockSkewError-title = Tietokoneen kello on väärässä ajassa
+networkProtocolError-title = Verkkoyhteyskäytännön virhe
 nssBadCert-title = Varoitus: mahdollinen tietoturvariski
+nssBadCert-sts-title = Ei yhdistetty: mahdollinen turvallisuusongelma
+certerror-mitm-title = Ohjelmisto estää { -brand-short-name }ia yhdistämästä turvallisesti tähän sivustoon
