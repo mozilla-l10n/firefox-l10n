@@ -89,3 +89,4 @@ remoteXUL-title = दूरस्थ XUL
 sslv3Used-title = सुरक्षित रूप से कनेक्ट करने में असमर्थ
 inadequateSecurityError-title = आपका कनेक्शन सुरक्षित नही हैं
 blockedByPolicy-title = ब्लॉक किया हुआ पृष्ट
+nssBadCert-title = खतरा: आगे संभावित सुरक्षा जोखिम है
