@@ -55,3 +55,21 @@ cert-error-details-hsts-label = Seguridad estricta de transporte HTTP: { $hasHST
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Pinning de clave pública HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificados:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = No se puede conectar
+deniedPortAccess-title = Esta dirección está restringida
+fileNotFound-title = Archivo no encontrado
+generic-title = Oops.
+netInterrupt-title = La conexión ha sido interrumpida
+netOffline-title = Modo sin conexión
+contentEncodingError-title = Error de codificación de contenido
+unsafeContentType-title = Tipo de archivo no seguro
+netReset-title = La conexión ha sido reiniciada
+netTimeout-title = La conexión ha caducado
+proxyConnectFailure-title = El servidor proxy está rechazando las conexiones
+proxyResolveFailure-title = No se puede encontrar el servidor proxy
+redirectLoop-title = La página no está redirigiendo adecuadamente
+unknownSocketType-title = Respuesta inesperada del servidor
+nssFailure2-title = Conexión segura fallida
