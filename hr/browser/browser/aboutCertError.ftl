@@ -55,3 +55,18 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Lanac certifikata:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Povezivanje nije moguće
+deniedPortAccess-title = Port je ograničen radi sigurnosnih razloga
+fileNotFound-title = Datoteka nije pronađena
+generic-title = Ups.
+netInterrupt-title = Podatkovni prijenos je prekinut
+netOffline-title = Izvanmrežni rad
+contentEncodingError-title = Greška kodiranja sadržaja
+unsafeContentType-title = Nesiguran tip datoteke
+netReset-title = Veza je prekinuta
+netTimeout-title = Vezi je isteklo vrijeme
+proxyConnectFailure-title = Proxy poslužitelj odbio vezu
+proxyResolveFailure-title = Proxy poslužitelj nije pronađen
