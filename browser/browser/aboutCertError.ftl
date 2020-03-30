@@ -59,8 +59,16 @@ cert-error-details-cert-chain-label = Certificate chain:
 ## Messages used for certificate error titles
 
 deniedPortAccess-title = Osoitteen käyttö on rajoitettu
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Sivua ei löydy.
 fileNotFound-title = Tiedostoa ei löytynyt
+fileAccessDenied-title = Tiedoston käyttö estettiin
 generic-title = Verkkopyyntöä ei kyetä toteuttamaan
+captivePortal-title = Kirjaudu verkkoon
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Tuo osoite ei näytä oikealta.
 netInterrupt-title = Tiedonsiirto keskeytyi
 notCached-title = Dokumentti on vanhentunut
 netOffline-title = Yhteydettömässä tilassa
@@ -74,5 +82,8 @@ redirectLoop-title = Sivusto ei uudelleenohjaudu asianmukaisesti
 unknownSocketType-title = Odottamaton vastaus palvelimelta
 nssFailure2-title = Suojatun yhteyden muodostaminen epäonnistui
 cspBlocked-title = Sisällön tietosuojakäytännön estämä
+corruptedContentError-title = Sisältö vioittunut -virhe
 remoteXUL-title = XUL-koodia etänä
 sslv3Used-title = Ei voitu muodostaa suojattua yhteyttä
+inadequateSecurityError-title = Yhteys ei ole suojattu
+blockedByPolicy-title = Estetty sivu
