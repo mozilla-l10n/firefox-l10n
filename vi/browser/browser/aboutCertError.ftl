@@ -61,7 +61,12 @@ cert-error-details-cert-chain-label = Chuỗi chứng nhận:
 connectionFailure-title = Không thể kết nối
 deniedPortAccess-title = Địa chỉ này đã bị chặn
 fileNotFound-title = Không tìm thấy tập tin
+fileAccessDenied-title = Truy cập tập tin bị từ chối
 generic-title = Lỗi.
+captivePortal-title = Đăng nhập vào mạng
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Địa chỉ không đúng.
 netInterrupt-title = Kết nối bị ngắt
 notCached-title = Tài liệu bị hết hạn
 netOffline-title = Chế độ ngoại tuyến
