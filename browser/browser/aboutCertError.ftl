@@ -89,6 +89,7 @@ remoteXUL-title = Remote-XUL
 sslv3Used-title = Keine sichere Verbindung möglich
 inadequateSecurityError-title = Diese Verbindung ist nicht sicher
 blockedByPolicy-title = Blockierte Seite
+networkProtocolError-title = Netzwerkprotokoll-Fehler
 nssBadCert-title = Warnung: Mögliches Sicherheitsrisiko erkannt
 nssBadCert-sts-title = Kein Verbindungsversuch unternommen: Mögliches Sicherheitsproblem
 certerror-mitm-title = Software hindert { -brand-short-name } am Aufbauen einer sicheren Verbindung mit dieser Website
