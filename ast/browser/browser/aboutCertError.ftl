@@ -22,10 +22,32 @@ cert-error-details-cert-chain-label = Cadena del certificáu:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Nun pue coneutase
+deniedPortAccess-title = Esta direición ta restrinxida
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Eh… Tenemos problemes p'alcontrar el sitiu.
 fileNotFound-title = Nun s'alcontró'l ficheru
+fileAccessDenied-title = Ñegose l'accesu al ficheru
+generic-title = Ups.
+captivePortal-title = Aniciu de sesión na rede
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Umm... La direición nun paez correuta.
+netInterrupt-title = Interrumpióse la conexón
 notCached-title = Documentu caducáu
 netOffline-title = Mou ensin conexón
+contentEncodingError-title = Fallu de codificación de conteníu
+unsafeContentType-title = Triba de ficheru insegura
 netReset-title = Reanicióse la conexón
+netTimeout-title = Escosó'l tiempu de conexón
+unknownProtocolFound-title = Nun s'entendió la direición
 proxyConnectFailure-title = El sirvidor proxy ta refugando les conexones
 proxyResolveFailure-title = Nun pue alcontrase'l sirvidor proxy
+redirectLoop-title = La páxina nun ta redirixendo de mou afayadizu
+unknownSocketType-title = Rempuesta inesperada del sirvidor
+nssFailure2-title = Falló la conexón segura
+cspBlocked-title = Bloquiáu pola política de seguranza de conteníu
 remoteXUL-title = XUL Remotu
+sslv3Used-title = Nun pue coneutase de mou seguru
+inadequateSecurityError-title = La to conexón nun ye segura
