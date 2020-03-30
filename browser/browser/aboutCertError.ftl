@@ -18,3 +18,9 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = प्रमाणपत्र चेन:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = फाइल फेला परेन
+netOffline-title = अफलाइन मोड
+unknownSocketType-title = सर्भरबाट अनपेक्षित प्रतिक्रिया
