@@ -55,3 +55,11 @@ cert-error-details-hsts-label = Securitate stricte de transporto HTTP: { $hasHST
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixation de clave public HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Catena de certificatos:
+
+## Messages used for certificate error titles
+
+redirectLoop-title = Le pagina non redirige correctemente
+cspBlocked-title = Blocate per le politica de securitate del contento
+blockedByPolicy-title = Pagina blocate
+clockSkewError-title = Le horologio de tu computator es errate
+networkProtocolError-title = Error de protocollo de rete
