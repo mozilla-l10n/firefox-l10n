@@ -86,6 +86,7 @@ nssFailure2-title = Beveiligde verbinding mislukt
 cspBlocked-title = Geblokkeerd door inhoudsbeveiligingsbeleid
 corruptedContentError-title = Beschadigde-inhoudsfout
 remoteXUL-title = Remote XUL
+sslv3Used-title = Kan geen beveiligde verbinding maken
 inadequateSecurityError-title = Uw verbinding is niet beveiligd
 blockedByPolicy-title = Geblokkeerde pagina
 clockSkewError-title = Uw computerklok geeft de verkeerde tijd aan
