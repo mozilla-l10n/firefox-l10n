@@ -35,6 +35,8 @@ deniedPortAccess-title = L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seg
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Ahime mi. Gh'emmo di problemi a trovâ sto scito.
+fileNotFound-title = Schedaio no trovou
+fileAccessDenied-title = Acesso a-o schedaio negou
 generic-title = Ahime mi!
 captivePortal-title = Intra inta ræ
 # "Hmm" is a sound made when considering or puzzling over something.
@@ -44,6 +46,7 @@ netInterrupt-title = Trasferimento di dæti scancellou
 notCached-title = Documento scheito
 netOffline-title = Mòddo feua linia
 contentEncodingError-title = Erô de còdifica do contegnuo
+unsafeContentType-title = Tipo de schedaio no seguo
 netReset-title = Conescion Scancelâ
 netTimeout-title = A ræ a no risponde
 unknownProtocolFound-title = Indirisso no interpretabile
@@ -52,10 +55,13 @@ proxyResolveFailure-title = No treuvo o proxy
 redirectLoop-title = A pagina a no redireçionn-a ben
 unknownSocketType-title = Risposta sbaliâ da-o server
 nssFailure2-title = Conescion segua no riescia
+cspBlocked-title = Blocòu da-i critei de seguessa di contegnui
 corruptedContentError-title = Erô de contegnuo andæto a mâ
 remoteXUL-title = XUL Remòtto
 sslv3Used-title = Inposcibile conetise in mòddo seguo
 inadequateSecurityError-title = A teu conescion a no l'é segua
+blockedByPolicy-title = Pagina blocâ
 clockSkewError-title = O releuio do computer o l'é erou
+networkProtocolError-title = Erô de protocòllo de ræ
 nssBadCert-title = Atençion: gh'é 'n reizego de seguessa potensiâ
 nssBadCert-sts-title = Conescion fermâ: reizego potensiâ de seguessa
