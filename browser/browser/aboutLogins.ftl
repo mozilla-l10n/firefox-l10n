@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Menüyü aç
-# This menuitem is only visible on Windows
-menu-menuitem-import = Parolaları içe aktar…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Başka bir tarayıcıdan içe aktar…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Sıralama:
 login-list-name-option = Ad (A-Z)
 login-list-name-reverse-option = Ad (Z-A)
 login-list-breached-option = Veri ihlaline uğrayan siteler
+about-logins-login-list-alerts-option = Uyarılar
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
 login-list-intro-title = Hiç hesap bulunamadı
@@ -160,10 +159,21 @@ confirm-discard-changes-dialog-confirm-button = Vazgeç
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Web Sitesi İhlali
 breach-alert-text = Giriş bilgilerinizi son güncellemenizden bu yana bu web sitesindeki parolalar sızdırılmış veya çalınmış. Hesabınızı korumak için parolanızı değiştirin.
 breach-alert-link = Bu ihlal hakkında daha fazla bilgi edinin.
 breach-alert-dismiss =
     .title = Bu uyarıyı kapat
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } sitesine git
+
+## Vulnerable Password notification
+
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } sitesine git
+about-logins-vulnerable-alert-learn-more-link = Daha fazla bilgi al
 
 ## Error Messages
 
