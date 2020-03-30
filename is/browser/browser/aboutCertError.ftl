@@ -64,6 +64,9 @@ fileNotFound-title = Skrá fannst ekki
 fileAccessDenied-title = Aðgangur að skránni ekki leyfður
 generic-title = Ææ.
 captivePortal-title = Innskráning á net
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Þessi slóð virðist ekki vera rétt.
 netInterrupt-title = Tenging slitnaði
 notCached-title = Skjal er útrunnið
 netOffline-title = Ónettengdur hamur
