@@ -80,5 +80,6 @@ sslv3Used-title = Tidak dapat Disambung dengan Selamat
 inadequateSecurityError-title = Sambungan internet anda tidak selamat
 blockedByPolicy-title = Halaman Disekat
 clockSkewError-title = Jam komputer anda salah
+networkProtocolError-title = Ralat Protokol Rangkaian
 nssBadCert-title = Amaran: Mungkin Ada Risiko Keselamatan
 nssBadCert-sts-title = Jangan Sambung: Potensi Isu Sekuriti
