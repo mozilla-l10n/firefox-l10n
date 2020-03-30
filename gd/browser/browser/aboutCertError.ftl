@@ -63,6 +63,7 @@ deniedPortAccess-title = Tha an seòladh seo cuingichte
 fileNotFound-title = Cha deach am faidhle a lorg
 generic-title = Mo chreach!
 netInterrupt-title = Bhris rudeigin a-steach air a' cheangal
+notCached-title = Dh'fhalbh an ùine air an sgrìobhainn
 netOffline-title = Am modh far loidhne
 contentEncodingError-title = Mearachd le còdachadh na susbaint
 unsafeContentType-title = Faidhle de sheòrsa neo-thèarainte
