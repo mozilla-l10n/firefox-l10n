@@ -63,6 +63,7 @@ deniedPortAccess-title = Este endereço é restrito
 fileNotFound-title = Ficheiro não encontrado
 generic-title = Oops.
 netInterrupt-title = A ligação foi interrompida
+notCached-title = Documento expirado
 contentEncodingError-title = Erro de codificação de conteúdo
 unsafeContentType-title = Tipo de ficheiro inseguro
 netReset-title = A ligação foi reposta
