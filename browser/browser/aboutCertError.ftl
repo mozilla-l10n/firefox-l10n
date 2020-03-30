@@ -85,6 +85,7 @@ unknownSocketType-title = Uventet svar fra server
 nssFailure2-title = Sikker forbindelse mislykkedes
 cspBlocked-title = Blokeret grundet indholdssikkerhedspolitik
 xfoBlocked-title = Blokeret af politik for X-Frame-Options
+corruptedContentError-title = Fejlbehæftet indhold
 remoteXUL-title = Remote XUL
 sslv3Used-title = Kan ikke oprette sikker forbindelse
 inadequateSecurityError-title = Din forbindelse er ikke sikker
