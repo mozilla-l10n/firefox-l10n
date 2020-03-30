@@ -19,6 +19,7 @@ deniedPortAccess-title = මෙම ලිපිනය වාරණය කර ඇ
 fileNotFound-title = ගොනුව හමු නොවුනි
 fileAccessDenied-title = ගොනුවට පිවිසීම වළක්වා ඇත
 generic-title = ඔහ්!
+captivePortal-title = ජාලයට පිවිසෙන්න
 netInterrupt-title = සම්බන්ධය බාධා සහිත විය
 notCached-title = ලේඛනය කල් ඉකුත්වී ඇත
 netOffline-title = නොබැඳි ආකාරය
