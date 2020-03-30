@@ -60,9 +60,16 @@ cert-error-details-cert-chain-label = Sertifikaadiahel:
 
 connectionFailure-title = Viga ühendumisel
 deniedPortAccess-title = See aadress on keelatud
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Meil on probleeme selle saidi leidmisel.
 fileNotFound-title = Faili ei leitud
 fileAccessDenied-title = Ligipääs failile keelati
 generic-title = Ups.
+captivePortal-title = Võrku sisenemine
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. See aadress ei tundu õige.
 netInterrupt-title = Ühendus katkes
 notCached-title = Dokument aegus
 netOffline-title = Võrguta režiim
@@ -81,3 +88,9 @@ corruptedContentError-title = Vigane sisu
 remoteXUL-title = Remote XUL
 sslv3Used-title = Turvaline ühendumine pole võimalik
 inadequateSecurityError-title = Ühendus pole turvaline
+blockedByPolicy-title = Blokitud leht
+clockSkewError-title = Sinu arvuti aeg on vale
+networkProtocolError-title = Võrguprotokolli viga
+nssBadCert-title = Hoiatus: ees on ootamas võimalik turvarisk
+nssBadCert-sts-title = Ühendust ei loodud: võimalik turvarisk
+certerror-mitm-title = Tarkvara takistab { -brand-short-name }il selle saidiga turvalise ühenduse loomist
