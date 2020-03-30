@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Відкрити меню
-# This menuitem is only visible on Windows
-menu-menuitem-import = Імпортувати паролі…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Імпорт даних з іншого браузера…
 menu-menuitem-preferences =
@@ -51,6 +49,7 @@ login-list-sort-label-text = Сортувати:
 login-list-name-option = Ім'я (A-Z)
 login-list-name-reverse-option = Назва (Z-A)
 login-list-breached-option = Зламані вебсайти
+about-logins-login-list-alerts-option = Попередження
 login-list-last-changed-option = Змінено
 login-list-last-used-option = Використано
 login-list-intro-title = Паролів не знайдено
@@ -62,6 +61,8 @@ login-list-item-subtitle-new-login = Введіть облікові дані
 login-list-item-subtitle-missing-username = (без імені користувача)
 about-logins-list-item-breach-icon =
     .title = Зламаний вебсайт
+about-logins-list-item-vulnerable-password-icon =
+    .title = Ненадійний пароль
 
 ## Introduction screen
 
@@ -161,10 +162,24 @@ confirm-discard-changes-dialog-confirm-button = Відхилити
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Витік даних із сайту
 breach-alert-text = З часу останнього оновлення облікових даних, з цього вебсайту було викрито або викрадено паролі. Змініть пароль, щоб захистити свій обліковий запис.
 breach-alert-link = Дізнатися більше про цей витік даних.
 breach-alert-dismiss =
     .title = Закрити це попередження
+about-logins-breach-alert-date = Витік даних відбувся { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Перейти до { $hostname }
+about-logins-breach-alert-learn-more-link = Докладніше
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Ненадійний пароль
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Перейти до { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Докладніше
 
 ## Error Messages
 
