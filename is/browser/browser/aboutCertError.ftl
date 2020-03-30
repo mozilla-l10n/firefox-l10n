@@ -89,5 +89,6 @@ remoteXUL-title = Fjarlægt XUL
 sslv3Used-title = Get ekki tengst á öruggan hátt
 inadequateSecurityError-title = Tenging er ekki örugg
 clockSkewError-title = Klukkan í tölvunni þinni er vitlaus
+networkProtocolError-title = Villa í netsamskiptum
 nssBadCert-title = Viðvörun: Hugsanleg öryggisáhætta framundan
 nssBadCert-sts-title = Tengdist ekki: Mögulegt öryggisvandamál
