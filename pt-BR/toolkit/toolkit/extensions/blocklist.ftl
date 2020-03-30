@@ -7,3 +7,7 @@ blocklist-accept =
     .accesskey = R
 blocklist-more-information =
     .value = Mais informações
+blocklist-blocked =
+    .label = Bloqueado
+blocklist-checkbox =
+    .label = Desativar
