@@ -84,6 +84,7 @@ redirectLoop-title = Ang pahina ay hindi nag didirekta ng maayos
 unknownSocketType-title = Hindi inaasahang tugon mula sa server
 nssFailure2-title = Bigo ang Secure Connection
 cspBlocked-title = Hinarang ng Content Security Policy
+xfoBlocked-title = Na-Block ng X-Frame_options Policy
 corruptedContentError-title = Corrupted Content Error
 remoteXUL-title = Remote XUL
 sslv3Used-title = Hindi Makakonekta nang Ligtas
