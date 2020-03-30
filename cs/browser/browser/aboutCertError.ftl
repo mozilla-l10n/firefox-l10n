@@ -66,6 +66,7 @@ cert-error-details-cert-chain-label = Řetězec certifikátů:
 
 connectionFailure-title = Chyba spojení
 fileNotFound-title = Soubor nenalezen
+fileAccessDenied-title = Přístup k souboru byl odepřen
 generic-title = Nepodařilo se dokončit požadavek
 netInterrupt-title = Spojení bylo přerušeno
 notCached-title = Platnost dokumentu vypršela
@@ -81,4 +82,6 @@ redirectLoop-title = Smyčka při přesměrování
 unknownSocketType-title = Neplatná odpověď serveru
 nssFailure2-title = Chyba zabezpečeného spojení
 cspBlocked-title = Zablokováno dle bezpečnostních pravidel obsahu
+corruptedContentError-title = Chyba v obsahu stránky
 remoteXUL-title = Vzdálené XUL
+inadequateSecurityError-title = Vaše připojení není zabezpečené
