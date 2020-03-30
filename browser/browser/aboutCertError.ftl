@@ -55,3 +55,19 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Pinnad offentlig HTTP nyckel: { $hasHPKP }
 cert-error-details-cert-chain-label = Certifikatkedja:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Anslutningen misslyckades
+deniedPortAccess-title = Adressen har säkerhetsrestriktioner
+fileNotFound-title = Filen kan inte hittas
+netInterrupt-title = Anslutningen avbröts
+notCached-title = Utgånget dokument
+netOffline-title = Nedkopplat läge
+contentEncodingError-title = Kodningsfel av innehållet
+unsafeContentType-title = Osäker filtyp
+netReset-title = Anslutningen avbröts
+netTimeout-title = Anslutningen avbröts
+proxyConnectFailure-title = Proxyservern avvisar anslutningen
+proxyResolveFailure-title = Kan inte hitta proxyservern
+unknownSocketType-title = Oväntat svar från servern
