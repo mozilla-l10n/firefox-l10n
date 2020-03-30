@@ -174,6 +174,7 @@ about-logins-breach-alert-learn-more-link = 详细了解
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = 弱密码
+about-logins-vulnerable-alert-text = 此密码曾在其他公司的数据外泄事件中流出或遭窃。若重复使用会让您所有的账号面临风险。为了提高您的在线安全性，请更改此密码。
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = 前往 { $hostname }
