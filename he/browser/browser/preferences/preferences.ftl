@@ -759,6 +759,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = חריגות…
     .accesskey = ר
+forms-breach-alerts =
+    .label = הצגת התרעות על ססמאות עבור אתרים שנפרצו
+    .accesskey = ס
 forms-breach-alerts-learn-more-link = מידע נוסף
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
