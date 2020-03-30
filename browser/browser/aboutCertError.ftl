@@ -21,6 +21,27 @@ cert-error-details-cert-chain-label = प्रमाणपत्र चेन:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = जडान गर्न असमर्थ
+deniedPortAccess-title = यो ठेगाना प्रतिबन्धित छ
 fileNotFound-title = फाइल फेला परेन
+fileAccessDenied-title = फाइलमा पहुँच अस्वीकृत भयो
+generic-title = ओहो।
+captivePortal-title = सञ्जालमा लगइन गर्नुहोस्
+netInterrupt-title = यो जडानमा अवरोध भएको छ
+notCached-title = कागजातको समयावधी समाप्त भयो
 netOffline-title = अफलाइन मोड
+contentEncodingError-title = सामग्री संकेतीकरण त्रुटी
+unsafeContentType-title = असुरक्षित फाइल प्रकार
+netReset-title = यो जडान रिसेट भएको थियो
+netTimeout-title = यो जडानको समय समाप्त भएको छ
+unknownProtocolFound-title = यो ठेगाना बुझिएन
+proxyConnectFailure-title = प्रोक्सी सर्भरले जडान हुन मानेको छैन
+proxyResolveFailure-title = प्रोक्सी सर्भरको खोजी गर्न असमर्थ भयो
+redirectLoop-title = पृष्ठ राम्रोसँग पुनः निर्देशित हुन सकिरहेको छैन
 unknownSocketType-title = सर्भरबाट अनपेक्षित प्रतिक्रिया
+nssFailure2-title = सुरक्षित जडान असफल भयो
+cspBlocked-title = सामग्री सुरक्षा नीति द्वारा अवरुद्ध
+corruptedContentError-title = दूषित सामग्री त्रुटि
+remoteXUL-title = Remote XUL
+sslv3Used-title = सुरक्षित जडान गर्न असमर्थ
+inadequateSecurityError-title = तपाईँको जडान सुरक्षित छैन
