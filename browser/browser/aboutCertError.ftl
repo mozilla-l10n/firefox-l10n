@@ -27,3 +27,4 @@ cert-error-details-cert-chain-label = സർട്ടിഫിക്കറ്റ
 ## Messages used for certificate error titles
 
 unsafeContentType-title = സുരക്ഷിതമല്ലാത്ത തരത്തിലുള്ള ഫയല്‍
+remoteXUL-title = റിമോട്ട് XUL
