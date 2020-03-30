@@ -47,10 +47,38 @@ cert-error-details-cert-chain-label = Cadea de certificados:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Non é posíbel conectarse
 deniedPortAccess-title = Este enderezo está restrinxido
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Estamos tendo problemas para atopar ese sitio.
+fileNotFound-title = Non se atopou o ficheiro
+fileAccessDenied-title = Denegouse o acceso ao ficheiro
+generic-title = Vaites.
+captivePortal-title = Identificarse na rede
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = O enderezo non parece correcto.
 netInterrupt-title = Interrompeuse a conexión
+notCached-title = O documento caducou
+netOffline-title = Modo sen conexión
 contentEncodingError-title = Erro de codificación do contido
 unsafeContentType-title = Tipo de ficheiro inseguro
 netReset-title = Reiniciouse a conexión
 netTimeout-title = A conexión esgotou o tempo
+unknownProtocolFound-title = Non se entendeu o enderezo
+proxyConnectFailure-title = O servidor proxy está a rexeitar as conexións
+proxyResolveFailure-title = Non é posíbel atopar o servidor proxy
+redirectLoop-title = A páxina non está a redirixir correctamente
 unknownSocketType-title = Resposta inesperada do servidor
+nssFailure2-title = Fallou a conexión segura
+cspBlocked-title = Bloqueado pola política de seguranza de contidos
+corruptedContentError-title = Erro de contido danado
+remoteXUL-title = XUL remoto
+sslv3Used-title = Non é posíbel conectarse de forma segura
+inadequateSecurityError-title = A súa conexión non é segura
+blockedByPolicy-title = Páxina bloqueada
+clockSkewError-title = A hora do seu computador é incorrecta
+networkProtocolError-title = Erro do protocolo de rede
+nssBadCert-title = Aviso: potencial risco de seguranza
+nssBadCert-sts-title = Conexión bloqueada: Potencial incidencia de seguranza
