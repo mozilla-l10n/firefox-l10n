@@ -59,6 +59,16 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 ## Messages used for certificate error titles
 
 connectionFailure-title = No se puede conectar
+deniedPortAccess-title = Esta dirección está restringida
+netInterrupt-title = La conexión se interrumpió
+netOffline-title = Modo sin conexión
 contentEncodingError-title = Error de codificación de contenido
 unsafeContentType-title = Tipo de archivo inseguro
+netReset-title = La conexión se reinició
 netTimeout-title = Se agotó el tiempo de espera
+proxyConnectFailure-title = El servidor proxy está rechazando las conexiones
+proxyResolveFailure-title = No se puede encontrar el servidor proxy
+redirectLoop-title = La página no se está redireccionando apropiadamente
+unknownSocketType-title = Respuesta inesperada del servidor
+nssFailure2-title = Conexión segura fallida
+remoteXUL-title = XUL remoto
