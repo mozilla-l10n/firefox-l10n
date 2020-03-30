@@ -8,3 +8,7 @@ blocklist-accept =
 blocklist-soft-blocked = உங்கள் பாதுகாப்பிற்கு, இந்த கூடுதல் இணைப்புகளை செயல்நீக்கி மறுதுவக்க பரிந்துரைக்கப்படுகிறது.
 blocklist-more-information =
     .value = மேலும் தகவலுக்கு
+blocklist-blocked =
+    .label = தடுக்கப்பட்டுள்ளது
+blocklist-checkbox =
+    .label = செயல்நீக்கு
