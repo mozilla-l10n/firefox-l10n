@@ -55,3 +55,36 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Atestila ĉeno:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Ne eblas konektiĝi
+deniedPortAccess-title = Aliro al tiu ĉi adreso estas limigata
+fileNotFound-title = Dosiero ne trovita
+fileAccessDenied-title = Rifuzita aliro al dosiero
+generic-title = Fuŝ’.
+captivePortal-title = Komenci seancon en tiu ĉi reto
+netInterrupt-title = La konekto estis ĉesigita
+notCached-title = Dokumento malaktuala
+netOffline-title = Malkonektita reĝimo
+contentEncodingError-title = Eraro de enkodigo de enhavo
+unsafeContentType-title = Nesekura tipo de dosiero
+netReset-title = La konekto estis haltigita
+netTimeout-title = Limtempo por konekto atingita
+unknownProtocolFound-title = La adreso ne estis komprenita
+proxyConnectFailure-title = La retperanto rifuzas konektojn
+proxyResolveFailure-title = Ne eblas trovi la retperanton
+redirectLoop-title = La paĝo ne redirektiĝas bone
+unknownSocketType-title = Neatendita respondo el servilo
+nssFailure2-title = Malsukcesa sekura konekto
+cspBlocked-title = Blokita de la sekureca politiko pri enhavo
+xfoBlocked-title = Blokita de politiko X-Frame-Options
+corruptedContentError-title = Eraro pro difektita enhavo
+remoteXUL-title = Fora XUL
+sslv3Used-title = Ne eblas sekure konektiĝi
+inadequateSecurityError-title = Via konekto ne estas sekura
+clockSkewError-title = La horloĝo de via komputilo estas malĝusta
+networkProtocolError-title = Eraro en reta protokolo
+nssBadCert-title = Averto: Ebla sekureca risko antaŭ vi
+nssBadCert-sts-title = Malsukcesa konekto: ebla sekureca problemo
+certerror-mitm-title = Programaro malpermesas al { -brand-short-name } sekure konekti tiun ĉi retejon
