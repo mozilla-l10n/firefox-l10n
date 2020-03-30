@@ -59,6 +59,7 @@ cert-error-details-cert-chain-label = Veriga digitalnih potrdil:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Povezava neuspešna
+deniedPortAccess-title = Ta naslov je omejen
 fileNotFound-title = Datoteke ni mogoče najti
 fileAccessDenied-title = Dostop do datoteke je bil zavrnjen
 generic-title = Ups.
@@ -72,10 +73,14 @@ netTimeout-title = Dovoljeni čas pretekel
 unknownProtocolFound-title = Naslova ni bilo mogoče razumeti
 proxyConnectFailure-title = Posrednik zavrača povezave
 proxyResolveFailure-title = Posrednika ni mogoče najti
+redirectLoop-title = Stran ne preusmerja pravilno
 unknownSocketType-title = Nepričakovan odgovor strežnika
 nssFailure2-title = Varna povezava ni uspela
 cspBlocked-title = Zavrnjeno zaradi varnostne politike vsebine
+xfoBlocked-title = Zavrnjeno po pravilniku X-Frame-Options
 corruptedContentError-title = Napaka zaradi pokvarjene vsebine
 remoteXUL-title = Oddaljeni XUL
 sslv3Used-title = Varna povezava ni mogoča
 inadequateSecurityError-title = Vaša povezava ni varna
+networkProtocolError-title = Napaka omrežnega protokola
+nssBadCert-title = Pozor: možno varnostno tveganje
