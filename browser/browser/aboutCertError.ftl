@@ -60,8 +60,13 @@ cert-error-details-cert-chain-label = Certifikačná reťaz:
 
 connectionFailure-title = Nedá sa pripojiť
 deniedPortAccess-title = Táto adresa je zakázaná
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm, túto stránku sa nám nepodarilo nájsť.
 fileNotFound-title = Súbor sa nenašiel
+fileAccessDenied-title = Prístup k súboru bol zamietnutý
 generic-title = Problém.
+captivePortal-title = Prihlásiť sa do siete
 netInterrupt-title = Pripojenie bolo prerušené
 notCached-title = Platnosť dokumentu vypršala
 netOffline-title = Režim offline
@@ -76,6 +81,14 @@ redirectLoop-title = Stránku sa nepodarilo správne presmerovať
 unknownSocketType-title = Neočakávaná odpoveď servera
 nssFailure2-title = Zabezpečené pripojenie zlyhalo
 cspBlocked-title = Blokované kvôli zásadám ochrany obsahu
+xfoBlocked-title = Blokované prostredníctvom X-Frame-Options
 corruptedContentError-title = Poškodený obsah stránky
 remoteXUL-title = Vzdialené XUL
 sslv3Used-title = Nie je možné sa pripojiť zabezpečene
+inadequateSecurityError-title = Vaše pripojenie nie je zabezpečené
+blockedByPolicy-title = Zablokovaná stránka
+clockSkewError-title = Hodiny vo vašom počítači sú zle nastavené
+networkProtocolError-title = Chyba sieťového protokolu
+nssBadCert-title = Varovanie: možné bezpečnostné riziko
+nssBadCert-sts-title = Nepripojené: možné bezpečnostné riziko
+certerror-mitm-title = { -brand-short-name } nemôže nadviazať zabezpečené pripojenie s touto stránkou
