@@ -60,6 +60,9 @@ cert-error-details-cert-chain-label = Azrar n uselkin:
 
 connectionFailure-title = Igguma ad iqqen
 deniedPortAccess-title = Tansa-a tegdel
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Nesɛa uguren akken ad naf asmel.
 fileNotFound-title = Ulac afaylu
 fileAccessDenied-title = Anekcum ɣer ufaylu yegdel
 generic-title = Ihuh.
@@ -72,6 +75,7 @@ notCached-title = Isemli yemmut
 netOffline-title = Askar war tuqqna
 contentEncodingError-title = Tuccḍa n usettengel n ugbur
 unsafeContentType-title = Tawsit n ufaylu aranelkan
+netReset-title = Tuqqna tettuwennez tikelt-nniḍen.
 netTimeout-title = Tanzagt n uraju tezri
 unknownProtocolFound-title = Ur nessin ara tansa
 proxyConnectFailure-title = Aqeddac apṛuksi yugi tuqqniwin.
@@ -80,6 +84,7 @@ redirectLoop-title = Asebter ur iwehi ara akken iwata
 unknownSocketType-title = Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara
 nssFailure2-title = Tuqqna taɣelsant ur teddi ara
 cspBlocked-title = Tesweḥlit tsertit n tɣellist n ugbur
+corruptedContentError-title = Tuccḍa d-yekkan seg ugbur yerẓen
 remoteXUL-title = XUL anmeggag
 sslv3Used-title = Ur yezmir ara ad yeqqen s tɣellist
 inadequateSecurityError-title = Tuqqna-inek d taraɣelsant
