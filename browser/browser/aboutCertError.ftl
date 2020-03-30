@@ -87,3 +87,7 @@ cspBlocked-title = Έχει φραγεί από την πολιτική προσ
 corruptedContentError-title = Σφάλμα κατεστραμμένου περιεχομένου
 remoteXUL-title = Απομακρυσμένο XUL
 sslv3Used-title = Αδύνατη η ασφαλής σύνδεση
+inadequateSecurityError-title = Η σύνδεσή σας δεν είναι ασφαλής
+blockedByPolicy-title = Αποκλεισμένη σελίδα
+clockSkewError-title = Το ρολόι του υπολογιστή σας είναι λάθος
+nssBadCert-title = Προειδοποίηση: Πιθανός κίνδυνος ασφαλείας
