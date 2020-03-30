@@ -58,6 +58,14 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Hindi makakonekta
+deniedPortAccess-title = Ang address na ito ay pinagbabawalan
+fileNotFound-title = Hindi makita ang file
+generic-title = Oops.
+captivePortal-title = Mag log in sa network
+netInterrupt-title = Nasagabal ang koneksyon
+notCached-title = Ang Dokumentong ito ay Expired
+netOffline-title = Naka-Offline
 unsafeContentType-title = Hindi ligtas na file type
 redirectLoop-title = Ang pahina ay hindi nag didirekta ng maayos
 corruptedContentError-title = Corrupted Content Error
