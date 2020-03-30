@@ -63,6 +63,7 @@ deniedPortAccess-title = यह पता प्रतिबंधित है
 fileNotFound-title = फाइल नहीं मिला
 fileAccessDenied-title = फ़ाइल तक पहुँच रद्द की गयी
 generic-title = ओफ्फ.
+captivePortal-title = नेटवर्क के लिए लॉग इन करें
 netInterrupt-title = कनेक्शन बाधित किया गया था
 notCached-title = दस्तावेज़ का समय समाप्त
 netOffline-title = Offline mode
