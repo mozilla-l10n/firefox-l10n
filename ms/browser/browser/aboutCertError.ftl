@@ -49,10 +49,35 @@ cert-error-details-cert-chain-label = Rantaian sijil:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Tidak dapat menyambung
+deniedPortAccess-title = Alamat ini dihadkan
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmmm. Kami menghadapi masalah untuk mencari laman ini.
 fileNotFound-title = Fail tidak ditemui
+fileAccessDenied-title = Akses kepada fail ditolak
+generic-title = Maaf.
+captivePortal-title = Log masuk ke rangkaian
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmmm. Alamat ini nampaknya tidak betul.
+netInterrupt-title = Sambungan terganggu
 notCached-title = Dokumen Luput
+netOffline-title = Mod luar talian
+contentEncodingError-title = Ralat Pengekodan Kandungan
+unsafeContentType-title = Jenis Fail Tidak Selamat
+netReset-title = Sambungan diset semula
 netTimeout-title = Sambungan telah tamat tempoh
 unknownProtocolFound-title = Alamat tidak difahami
+proxyConnectFailure-title = Pelayan proksi menolak sambungan
 proxyResolveFailure-title = Tidak dapat menemui pelayan proksi
+redirectLoop-title = Halaman tidak diarahkan semula dengan betul
+unknownSocketType-title = Respon tidak dijangka daripada pelayan
+nssFailure2-title = Gagal Disambung Dengan Selamat
 cspBlocked-title = Disekat oleh Polisi Keselamatan Kandungan
 corruptedContentError-title = Ralat Kandungan Rosak
+remoteXUL-title = XUL jauh
+sslv3Used-title = Tidak dapat Disambung dengan Selamat
+blockedByPolicy-title = Halaman Disekat
+clockSkewError-title = Jam komputer anda salah
+nssBadCert-title = Amaran: Mungkin Ada Risiko Keselamatan
+nssBadCert-sts-title = Jangan Sambung: Potensi Isu Sekuriti
