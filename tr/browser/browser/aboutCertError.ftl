@@ -55,3 +55,14 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Sertifika zinciri:
+
+## Messages used for certificate error titles
+
+deniedPortAccess-title = Bu adrese erişim kısıtlanmış
+fileNotFound-title = Dosya bulunamadı
+netInterrupt-title = Bağlantı kesildi
+netReset-title = Bağlantı sıfırlandı
+netTimeout-title = Bağlantı zaman aşımına uğradı
+proxyConnectFailure-title = Vekil sunucu bağlantı kabul etmiyor
+proxyResolveFailure-title = Vekil sunucu bulunamadı
+unknownSocketType-title = Sunucudan beklenmeyen yanıt
