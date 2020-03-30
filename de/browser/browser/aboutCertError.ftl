@@ -84,6 +84,7 @@ redirectLoop-title = Fehler: Umleitungsfehler
 unknownSocketType-title = Fehler: Unerwartete Antwort
 nssFailure2-title = Fehler: Gesicherte Verbindung fehlgeschlagen
 cspBlocked-title = Blockiert von der Inhaltsicherheitsrichtlinie (CSP)
+xfoBlocked-title = Blockiert durch X-Frame-Options-Richtlinie
 corruptedContentError-title = Fehler: Beschädigte Inhalte
 remoteXUL-title = Remote-XUL
 sslv3Used-title = Keine sichere Verbindung möglich
