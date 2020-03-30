@@ -7,3 +7,7 @@ blocklist-accept =
     .accesskey = S
 blocklist-more-information =
     .value = Meir informasjon
+blocklist-blocked =
+    .label = Blokkert
+blocklist-checkbox =
+    .label = Slå av
