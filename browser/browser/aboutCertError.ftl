@@ -33,6 +33,9 @@ cert-error-details-cert-chain-label = Cadenna de certificati:
 connectionFailure-title = No riescio a conetime
 deniedPortAccess-title = L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa
 captivePortal-title = Intra inta ræ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Oh belin. St'indirisso me pâ segge sbaliou.
 netInterrupt-title = Trasferimento di dæti scancellou
 notCached-title = Documento scheito
 netOffline-title = Mòddo feua linia
