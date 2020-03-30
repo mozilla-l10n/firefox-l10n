@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = მენიუს გახსნა
-# This menuitem is only visible on Windows
-menu-menuitem-import = პაროლების გადმოტანა...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = გადმოტანა სხვა ბრაუზერიდან…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = დალაგება:
 login-list-name-option = ანბანური
 login-list-name-reverse-option = ანბანური (Z-A)
 login-list-breached-option = მიტაცების მსხვერპლი საიტები
+about-logins-login-list-alerts-option = ცნობები
 login-list-last-changed-option = ბოლოს ჩასწორებული
 login-list-last-used-option = ბოლოს გამოყენებული
 login-list-intro-title = მონაცემები ვერ მოიძებნა
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = შეიყვანეთ თქვენ
 login-list-item-subtitle-missing-username = (მომხმარებლის სახელის გარეშე)
 about-logins-list-item-breach-icon =
     .title = იერიშმიტანილი საიტი
+about-logins-list-item-vulnerable-password-icon =
+    .title = დაუცველი პაროლი
 
 ## Introduction screen
 
@@ -160,10 +161,25 @@ confirm-discard-changes-dialog-confirm-button = გაუქმება
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = მიტაცება საიტიდან
 breach-alert-text = პაროლების მონაცემები გაიტაცეს ან გაჟონა ამ საიტიდან მას შემდეგ, რაც ბოლოს განაახლეთ თქვენი ანგარიშის ინფორმაცია. ანგარიშის უსაფრთხოებისთვის, შეცვალეთ თქვენი პაროლი.
 breach-alert-link = იხილეთ ვრცლად, ამ მიტაცების შესახებ.
 breach-alert-dismiss =
     .title = ამ ცნობის დახურვა
+about-logins-breach-alert-date = მიტაცების თარიღი { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = გადასვლა საიტზე { $hostname }
+about-logins-breach-alert-learn-more-link = იხილეთ ვრცლად
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = დაუცველი პაროლი
+about-logins-vulnerable-alert-text = ამ პაროლმა გაჟონა ან მოიპარეს სხვა კომპანიიდან მიტაცების შედეგად. მათი კვლავ გამოყენება, საფრთხის ქვეშ დააყენებს თქვენს ანგარიშებს. ინტერნეტში უსაფრთხოების გასაზრდელად, შეცვალეთ ეს პაროლი.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = გადასვლა საიტზე { $hostname }
+about-logins-vulnerable-alert-learn-more-link = იხილეთ ვრცლად
 
 ## Error Messages
 
