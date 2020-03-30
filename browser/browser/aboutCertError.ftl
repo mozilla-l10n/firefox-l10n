@@ -86,6 +86,7 @@ nssFailure2-title = Sambungan Aman Gagal
 cspBlocked-title = Diblokir oleh Kebijakan Keamanan Konten
 xfoBlocked-title = Diblokir oleh Kebijakan X-Frame-Options
 corruptedContentError-title = Galat Konten Rusak
+remoteXUL-title = XUL Jarak Jauh
 sslv3Used-title = Gagal Tersambung dengan Aman
 inadequateSecurityError-title = Sambungan Anda tidak aman
 blockedByPolicy-title = Laman Diblokir
