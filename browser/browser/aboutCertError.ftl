@@ -70,5 +70,6 @@ unsafeContentType-title = Nem biztonságos fájltípus
 netReset-title = A kapcsolat alaphelyzetbe állt
 netTimeout-title = A kapcsolat időtúllépés miatt megszakadt
 proxyConnectFailure-title = A proxykiszolgáló visszautasította a kapcsolatokat
+proxyResolveFailure-title = Nem található a proxykiszolgáló
 unknownSocketType-title = Váratlan válasz a kiszolgálótól
 remoteXUL-title = Távoli XUL
