@@ -68,3 +68,5 @@ contentEncodingError-title = Gwall Amgodio Cynnwys
 unsafeContentType-title = Math Anniogel o ffeil
 netReset-title = Cafodd y cysylltiad ei ailosod
 netTimeout-title = Mae cyfnod y cyswllt wedi dod i ben
+proxyConnectFailure-title = Mae'r gweinydd dirprwy yn gwrthod cysylltiadau
+proxyResolveFailure-title = Methu canfod y gweinydd dirprwyol
