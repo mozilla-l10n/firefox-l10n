@@ -65,6 +65,7 @@ generic-title = ক্ষমা কৰিব।
 netInterrupt-title = সংযোগ বিচ্ছিন্ন হৈছে
 notCached-title = দস্তাবেজৰ অৱসান ঘটিল
 netOffline-title = অফলাইন ধৰণ
+contentEncodingError-title = সমল এনক'ডিংত ত্ৰুটি
 unsafeContentType-title = অসুৰক্ষিত ফাইলৰ ধৰণ
 netReset-title = সংযোগ পুনৰ প্ৰতিষ্ঠা কৰা হৈছে
 netTimeout-title = সংযোত স্থাপনৰ সময়ৰ বিৰতি হৈছে
