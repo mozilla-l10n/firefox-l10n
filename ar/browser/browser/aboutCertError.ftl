@@ -58,9 +58,15 @@ cert-error-details-cert-chain-label = سلسلة الشهادة:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = تعذر الاتصال
+fileNotFound-title = الملف غير موجود
 netInterrupt-title = قُوطِع الاتصال
+notCached-title = انتهت صلاحية المستند
+netOffline-title = وضع اللا اتصال
 contentEncodingError-title = خطأ في ترميز المحتوى
 unsafeContentType-title = نوع ملف غير آمن
+netReset-title = صُفِّر الاتصال
 netTimeout-title = انتهت مهلة الاتصال
 proxyResolveFailure-title = تعذر العثور على الخادوم الوسيط
 unknownSocketType-title = استجابة غير متوقعة من الخادوم
+remoteXUL-title = XUL بعيد
