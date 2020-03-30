@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Öppna meny
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importera lösenord…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importera från en annan webbläsare…
 menu-menuitem-preferences =
@@ -164,6 +162,15 @@ breach-alert-text = Lösenord har läckt eller stulits från den här webbplatse
 breach-alert-link = Läs mer om detta intrång.
 breach-alert-dismiss =
     .title = Stäng denna varning
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Gå till { $hostname }
+
+## Vulnerable Password notification
+
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Gå till { $hostname }
 
 ## Error Messages
 
