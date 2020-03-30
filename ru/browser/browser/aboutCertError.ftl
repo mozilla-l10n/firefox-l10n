@@ -55,3 +55,18 @@ cert-error-details-hsts-label = Форсированное защищённое 
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Привязка открытого ключа HTTP (HPKP): { $hasHPKP }
 cert-error-details-cert-chain-label = Цепочка сертификата:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Попытка соединения не удалась
+fileNotFound-title = Файл не найден
+netInterrupt-title = Соединение было прервано
+netOffline-title = Автономный режим
+contentEncodingError-title = Ошибка в типе содержимого
+unsafeContentType-title = Небезопасный тип файла
+netReset-title = Соединение было сброшено
+netTimeout-title = Время ожидания соединения истекло
+proxyConnectFailure-title = Прокси-сервер отказывается принимать соединения
+proxyResolveFailure-title = Не удалось найти прокси-сервер
+unknownSocketType-title = Неизвестный/неопознанный ответ сервера
+nssFailure2-title = Ошибка при установлении защищённого соединения
