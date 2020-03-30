@@ -59,6 +59,10 @@ cert-error-details-cert-chain-label = سلسلة الشهادة:
 ## Messages used for certificate error titles
 
 connectionFailure-title = تعذر الاتصال
+deniedPortAccess-title = هذا العنوان غير مسموح به
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = ممم. نواجه مشكلة في إيجاد ذلك الموقع.
 fileNotFound-title = الملف غير موجود
 fileAccessDenied-title = مُنِع الوصول للملف
 generic-title = عذرا.
@@ -71,6 +75,7 @@ unsafeContentType-title = نوع ملف غير آمن
 netReset-title = صُفِّر الاتصال
 netTimeout-title = انتهت مهلة الاتصال
 unknownProtocolFound-title = لم يُفهم العنوان
+proxyConnectFailure-title = يرفض الخادوم الوسيط الاتصالات
 proxyResolveFailure-title = تعذر العثور على الخادوم الوسيط
 redirectLoop-title = لا تعيد الصفحة التوجيه بشكل سليم
 unknownSocketType-title = استجابة غير متوقعة من الخادوم
