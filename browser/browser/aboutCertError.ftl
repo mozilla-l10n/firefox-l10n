@@ -63,6 +63,7 @@ deniedPortAccess-title = Port je ograničen radi sigurnosnih razloga
 fileNotFound-title = Datoteka nije pronađena
 generic-title = Ups.
 netInterrupt-title = Podatkovni prijenos je prekinut
+notCached-title = Dokument je istekao
 netOffline-title = Izvanmrežni rad
 contentEncodingError-title = Greška kodiranja sadržaja
 unsafeContentType-title = Nesiguran tip datoteke
