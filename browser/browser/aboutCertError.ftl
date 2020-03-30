@@ -61,6 +61,7 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 connectionFailure-title = No se puede conectar
 deniedPortAccess-title = Esta dirección está restringida
 netInterrupt-title = La conexión se interrumpió
+notCached-title = Documento expirado
 netOffline-title = Modo sin conexión
 contentEncodingError-title = Error de codificación de contenido
 unsafeContentType-title = Tipo de archivo inseguro
