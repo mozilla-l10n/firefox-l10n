@@ -59,6 +59,8 @@ cert-error-details-cert-chain-label = Sertifikatkjede:
 ## Messages used for certificate error titles
 
 fileNotFound-title = Fann ikkje fila
+fileAccessDenied-title = Tilgang til fila vart nekta
+captivePortal-title = Logg inn på nettverket
 netInterrupt-title = Tilkoplinga vart broten
 notCached-title = Dokumentet er utgått på dato
 netOffline-title = Fråkopla modus
