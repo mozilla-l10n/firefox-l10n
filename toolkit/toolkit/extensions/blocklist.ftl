@@ -14,3 +14,5 @@ blocklist-hard-blocked = Эдгээр нэмэгдлүүд баталгаа бо
 blocklist-soft-blocked = Найдвартай ажиллагааны үүднээс, тэдгээр нэмэгдлүүдийг хорьж, хөтлөгчийг шинээр эхлүүлэх нь зүйтэй гэж зөвлөж байна.
 blocklist-more-information =
     .value = Нэмэлт мэдээлэл
+blocklist-blocked =
+    .label = Хоригдсон
