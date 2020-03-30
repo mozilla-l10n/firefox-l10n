@@ -48,6 +48,7 @@ cert-error-details-cert-chain-label = Rantaian sijil:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Tidak dapat menyambung
 fileNotFound-title = Fail tidak ditemui
 notCached-title = Dokumen Luput
 netTimeout-title = Sambungan telah tamat tempoh
