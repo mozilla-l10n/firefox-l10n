@@ -166,6 +166,10 @@ breach-alert-text = Umi ñe’ẽñemi oñembogua térã oñemonda ko ñanduti r
 breach-alert-link = Eñemomaranduve ko mba’evai rehegua.
 breach-alert-dismiss =
     .title = Emboty ko kyhyjeha
+about-logins-breach-alert-date = Ko jejapo’ỹ oiko { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Eho { $hostname }
 about-logins-breach-alert-learn-more-link = Kuaave
 
 ## Vulnerable Password notification
