@@ -60,15 +60,22 @@ cert-error-details-cert-chain-label = Veriga digitalnih potrdil:
 
 connectionFailure-title = Povezava neuspešna
 deniedPortAccess-title = Ta naslov je omejen
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm, pri iskanju te strani imamo težave.
 fileNotFound-title = Datoteke ni mogoče najti
 fileAccessDenied-title = Dostop do datoteke je bil zavrnjen
 generic-title = Ups.
 captivePortal-title = Prijavite se v omrežje
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm, ta naslov ni videti pravilen.
 netInterrupt-title = Povezava je bila prekinjena
 notCached-title = Dokument je potekel
 netOffline-title = Nepovezan način
 contentEncodingError-title = Napaka pri kodiranju vsebine
 unsafeContentType-title = Nevarna vrsta datoteke
+netReset-title = Povezava je bila ponastavljena
 netTimeout-title = Dovoljeni čas pretekel
 unknownProtocolFound-title = Naslova ni bilo mogoče razumeti
 proxyConnectFailure-title = Posrednik zavrača povezave
@@ -82,7 +89,9 @@ corruptedContentError-title = Napaka zaradi pokvarjene vsebine
 remoteXUL-title = Oddaljeni XUL
 sslv3Used-title = Varna povezava ni mogoča
 inadequateSecurityError-title = Vaša povezava ni varna
+blockedByPolicy-title = Zavrnjena stran
 clockSkewError-title = Nastavitev ure vašega računalnika je napačna
 networkProtocolError-title = Napaka omrežnega protokola
 nssBadCert-title = Pozor: možno varnostno tveganje
+nssBadCert-sts-title = Povezava ni bila vzpostavljena: morebitna varnostna težava
 certerror-mitm-title = Programska oprema { -brand-short-name }u preprečuje varno povezovanje s to stranjo
