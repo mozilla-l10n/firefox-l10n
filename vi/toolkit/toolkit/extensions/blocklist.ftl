@@ -14,3 +14,7 @@ blocklist-hard-blocked = Những tiện ích này có nguy cơ cao gây ra các 
 blocklist-soft-blocked = Để bảo vệ bạn, lời khuyên tốt nhất là bạn hãy vô hiệu hóa các tiện ích này và khởi động lại trình duyệt.
 blocklist-more-information =
     .value = Thông tin chi tiết
+blocklist-blocked =
+    .label = Đã bị chặn
+blocklist-checkbox =
+    .label = Vô hiệu hóa
