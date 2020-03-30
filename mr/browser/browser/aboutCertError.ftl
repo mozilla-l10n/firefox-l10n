@@ -28,10 +28,16 @@ cert-error-details-cert-chain-label = प्रमाणपत्र चैन:
 
 connectionFailure-title = जोडणी होऊ शकत नाही
 deniedPortAccess-title = हा पत्ता प्रतिबंधित आहे
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = हं. आम्हाला ते संकेतस्थळ शोधताना त्रास होत आहे.
 fileNotFound-title = फाइल सापडली नाही
 fileAccessDenied-title = फाइल वापर नाकारण्यात आला होता
 generic-title = ओह.
 captivePortal-title = नेटवर्कमध्ये लॉग इन करा
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = हं. तो पत्ता बरोबर वाटत नाही.
 netInterrupt-title = जोडणी मध्ये अडथळा
 notCached-title = दस्तऐवजची वेळसमाप्ति
 netOffline-title = ऑफलाइन पध्दती
@@ -50,3 +56,6 @@ corruptedContentError-title = दोषीत अंतर्भुत माह
 remoteXUL-title = रिमोट XUL
 sslv3Used-title = सुरक्षितपणे जोडणी करण्यात अक्षम
 inadequateSecurityError-title = आपली जोडणी सुरक्षीत नाही
+blockedByPolicy-title = अवरोधित पृष्ठ
+clockSkewError-title = आपले संगणक घड्याळ चुकीचे आहे
+nssBadCert-title = चेतावणी: पुढे संभाव्य सुरक्षा धोका आहे
