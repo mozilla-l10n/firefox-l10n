@@ -55,3 +55,26 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Certifikatowy rjećaz:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Zwisk móžny njeje
+deniedPortAccess-title = Tuta adresa je wobmjezowana
+fileAccessDenied-title = Přistup na dataju je so wotpokazał
+generic-title = Hopla.
+captivePortal-title = So pola syće přizjewić
+notCached-title = Dokument je njepłaćiwy
+netOffline-title = Offline-modus
+contentEncodingError-title = Zmylk při kodowanju wobsaha
+unsafeContentType-title = Njewěsty datajowy typ
+netTimeout-title = Zwisk je čas překročił
+proxyConnectFailure-title = Proksy-serwer zwiski wotpokazuje
+proxyResolveFailure-title = Njeje móžno, proksy-serwer namakać
+redirectLoop-title = Strona njesprawje posrědkuje
+unknownSocketType-title = Njewočakowana wotmołwa ze serwera
+nssFailure2-title = Wěsty zwisk móžny njeje
+cspBlocked-title = Přez wěstotne prawidła za wobsah zablokowany
+corruptedContentError-title = Zmylk - wobškodźeny wobsah
+remoteXUL-title = Zdaleny XUL
+sslv3Used-title = Wěsty zwisk móžny njeje
+inadequateSecurityError-title = Waš zwisk wěsty njeje
