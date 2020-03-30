@@ -60,10 +60,15 @@ cert-error-details-cert-chain-label = Sertifikatkjede:
 
 fileNotFound-title = Fann ikkje fila
 netInterrupt-title = Tilkoplinga vart broten
+notCached-title = Dokumentet er utgått på dato
 netOffline-title = Fråkopla modus
+contentEncodingError-title = Feil med teiknkoding
 unsafeContentType-title = Utrygg filtype
 netReset-title = Tilkoplinga vart broten
 netTimeout-title = Tilkoplinga fekk tidsavbrot
+unknownProtocolFound-title = Klarte ikkje å forstå adressa
 redirectLoop-title = Nettsida vidaresender ikkje skikkeleg
 unknownSocketType-title = Uventa svar frå tenar
 nssFailure2-title = Trygt samband feila
+cspBlocked-title = Blokkert av tryggingspraksis for innhald
+remoteXUL-title = Ekstern-XUL
