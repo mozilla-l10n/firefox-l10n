@@ -90,4 +90,6 @@ sslv3Used-title = No es posible conectar de manera segura
 inadequateSecurityError-title = Su conexión no es segura
 blockedByPolicy-title = Página bloqueada
 clockSkewError-title = La hora de su equipo es incorrecta
+networkProtocolError-title = Error de protocolo de red
 nssBadCert-title = Advertencia: riesgo potencial de seguridad a continuación
+nssBadCert-sts-title = No se ha conectado: Posible problema de seguridad
