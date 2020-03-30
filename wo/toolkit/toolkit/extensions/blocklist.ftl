@@ -5,6 +5,8 @@
 blocklist-accept =
     .label = Tambaliwaat { -brand-short-name }
     .accesskey = T
+blocklist-more-information =
+    .value = Xibaar yu gën bari
 blocklist-blocked =
     .label = Caŋ
 blocklist-checkbox =
