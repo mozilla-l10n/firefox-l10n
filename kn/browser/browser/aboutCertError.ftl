@@ -45,3 +45,4 @@ corruptedContentError-title = ವಿಷಯ ಹಾಳಾದ ದೋಷ
 remoteXUL-title = ದೂರಸ್ಥ XUL
 sslv3Used-title = ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಸಾಧ್ಯವಾಗಿಲ್ಲ
 inadequateSecurityError-title = ನಿಮ್ಮ ಸಂಪರ್ಕವು ಸುರಕ್ಷಿತವಾಗಿಲ್ಲ‍
+blockedByPolicy-title = ನಿರ್ಬಂಧಿಸಿದ ಪುಟ
