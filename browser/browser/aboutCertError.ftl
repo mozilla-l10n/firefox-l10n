@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Ланцужок сертыфіката:
 
 connectionFailure-title = Нельга злучыцца
 deniedPortAccess-title = Гэты адрас абмежаваны
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Хм. Ніяк не выходзіць знайсці гэты сайт.
 fileNotFound-title = Файл не знойдзены
 fileAccessDenied-title = Доступ да файла забаронены
 generic-title = Ух?!
 captivePortal-title = Злучыцца з сеткай
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Хм. Гэты адрас не выглядае сапраўдным.
 netInterrupt-title = Злучэнне перарвана
 notCached-title = Дакумент састарэў
 netOffline-title = Пазасеткавы рэжым
@@ -78,7 +84,13 @@ redirectLoop-title = Старонка няправільна перанакір�
 unknownSocketType-title = Нечаканы адказ сервера
 nssFailure2-title = Няўдача бяспечнага злучэння
 cspBlocked-title = Заблакавана палітыкай бяспекі змесціва
+xfoBlocked-title = Заблакавана палітыкай X-Frame-Options
 corruptedContentError-title = Памылка пашкоджанага змесціва
 remoteXUL-title = Аддалены XUL
 sslv3Used-title = Немагчыма злучыцца бяспечна
 inadequateSecurityError-title = Ваша злучэнне не бяспечнае
+blockedByPolicy-title = Заблакаваная старонка
+clockSkewError-title = Гадзіннік вашага камп'ютара ідзе няправільна
+networkProtocolError-title = Памылка сеткавага пратаколу
+nssBadCert-title = Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы
+nssBadCert-sts-title = Не злучаны: Патэнцыяльная праблема бяспекі
