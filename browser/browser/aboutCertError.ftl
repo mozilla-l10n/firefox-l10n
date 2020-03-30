@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = प्रमाणपत्र विव�
 
 connectionFailure-title = कनेक्ट करने में असमर्थ
 deniedPortAccess-title = यह पता प्रतिबंधित है
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = हम्म. हमें वह साइट को खोजने में परेशानी हो रही है.
 fileNotFound-title = फाइल नहीं मिला
 fileAccessDenied-title = फ़ाइल तक पहुँच रद्द की गयी
 generic-title = ओफ्फ.
 captivePortal-title = नेटवर्क के लिए लॉग इन करें
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = हम्म. वह पता सही नहीं लगता.
 netInterrupt-title = कनेक्शन बाधित किया गया था
 notCached-title = दस्तावेज़ का समय समाप्त
 netOffline-title = Offline mode
