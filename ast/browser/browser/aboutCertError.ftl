@@ -23,5 +23,7 @@ cert-error-details-cert-chain-label = Cadena del certificáu:
 ## Messages used for certificate error titles
 
 netOffline-title = Mou ensin conexón
+netReset-title = Reanicióse la conexón
 proxyConnectFailure-title = El sirvidor proxy ta refugando les conexones
 proxyResolveFailure-title = Nun pue alcontrase'l sirvidor proxy
+remoteXUL-title = XUL Remotu
