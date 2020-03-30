@@ -5,6 +5,9 @@
 wizard-macos-button-back =
     .label = عُد للخلف
     .accesskey = خ
+wizard-linux-button-back =
+    .label = إلى الخلف
+    .accesskey = خ
 wizard-win-button-back =
     .label = < للخلف
     .accesskey = خ
