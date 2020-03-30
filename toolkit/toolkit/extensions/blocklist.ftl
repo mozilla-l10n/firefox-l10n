@@ -14,5 +14,7 @@ blocklist-hard-blocked = Бұл қосымшалар тұрақтылық пен
 blocklist-soft-blocked = Сіздің қауіпсіздігіңіз үшін, осы қосымшаларды сөндіріп, бағдарламаны қайта қосу ұсынылады.
 blocklist-more-information =
     .value = Көбірек білу
+blocklist-blocked =
+    .label = Блокталған
 blocklist-checkbox =
     .label = Сөндіру
