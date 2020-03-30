@@ -16,3 +16,5 @@ blocklist-more-information =
     .value = Flere informationer
 blocklist-blocked =
     .label = Blokeret
+blocklist-checkbox =
+    .label = Deaktiver
