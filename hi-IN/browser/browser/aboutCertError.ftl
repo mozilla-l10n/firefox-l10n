@@ -55,3 +55,7 @@ cert-error-details-hsts-label = HTTP स्ट्रिक्ट परिवह
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP सार्वजनिक कुंजी पिनिंग: { $hasHPKP }
 cert-error-details-cert-chain-label = प्रमाणपत्र विवरण:
+
+## Messages used for certificate error titles
+
+netOffline-title = Offline mode
