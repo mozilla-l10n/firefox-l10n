@@ -60,7 +60,9 @@ cert-error-details-cert-chain-label = Veriga digitalnih potrdil:
 
 connectionFailure-title = Povezava neuspešna
 fileNotFound-title = Datoteke ni mogoče najti
+fileAccessDenied-title = Dostop do datoteke je bil zavrnjen
 generic-title = Ups.
+captivePortal-title = Prijavite se v omrežje
 netInterrupt-title = Povezava je bila prekinjena
 notCached-title = Dokument je potekel
 netOffline-title = Nepovezan način
@@ -75,3 +77,4 @@ nssFailure2-title = Varna povezava ni uspela
 cspBlocked-title = Zavrnjeno zaradi varnostne politike vsebine
 remoteXUL-title = Oddaljeni XUL
 sslv3Used-title = Varna povezava ni mogoča
+inadequateSecurityError-title = Vaša povezava ni varna
