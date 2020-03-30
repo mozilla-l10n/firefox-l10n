@@ -76,5 +76,6 @@ redirectLoop-title = Stránku sa nepodarilo správne presmerovať
 unknownSocketType-title = Neočakávaná odpoveď servera
 nssFailure2-title = Zabezpečené pripojenie zlyhalo
 cspBlocked-title = Blokované kvôli zásadám ochrany obsahu
+corruptedContentError-title = Poškodený obsah stránky
 remoteXUL-title = Vzdialené XUL
 sslv3Used-title = Nie je možné sa pripojiť zabezpečene
