@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = 메뉴 열기
-# This menuitem is only visible on Windows
-menu-menuitem-import = 비밀번호 가져오기…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = 다른 브라우저에서 가져오기…
 menu-menuitem-preferences =
@@ -49,6 +47,7 @@ login-list-sort-label-text = 정렬 방식:
 login-list-name-option = 이름 (A-Z)
 login-list-name-reverse-option = 이름 (Z-A)
 login-list-breached-option = 유출된 웹 사이트
+about-logins-login-list-alerts-option = 알림
 login-list-last-changed-option = 마지막 수정
 login-list-last-used-option = 마지막 사용
 login-list-intro-title = 로그인을 찾을 수 없음
@@ -60,6 +59,8 @@ login-list-item-subtitle-new-login = 로그인 자격 증명을 입력하세요
 login-list-item-subtitle-missing-username = (사용자 이름 없음)
 about-logins-list-item-breach-icon =
     .title = 유출된 웹 사이트
+about-logins-list-item-vulnerable-password-icon =
+    .title = 취약한 비밀번호
 
 ## Introduction screen
 
@@ -163,6 +164,13 @@ breach-alert-text = 마지막 로그인 정보를 업데이트 한 후 이 웹 �
 breach-alert-link = 이 유출에 대해 더 알아보기.
 breach-alert-dismiss =
     .title = 이 알림 닫기
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname }(으)로 이동
+about-logins-breach-alert-learn-more-link = 더 알아보기
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
