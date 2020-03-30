@@ -55,3 +55,20 @@ cert-error-details-hsts-label = HTTP 보안 강화 프로토콜: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP 공개 키 고정: { $hasHPKP }
 cert-error-details-cert-chain-label = 인증 체인:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = 파일을 찾을 수 없음
+generic-title = 이런.
+netInterrupt-title = 연결이 끊어짐
+notCached-title = 문서 만료
+netOffline-title = 오프라인 모드
+contentEncodingError-title = 콘텐츠 인코딩 오류
+unsafeContentType-title = 안전하지 않은 파일 유형
+netReset-title = 연결 초기화
+netTimeout-title = 연결 시간 초과
+unknownProtocolFound-title = 인식할 수 없는 주소
+proxyConnectFailure-title = 프록시 서버가 연결을 거부함
+proxyResolveFailure-title = 프록시 서버를 찾을 수 없음
+nssFailure2-title = 보안 연결 실패
+remoteXUL-title = 원격 XUL
