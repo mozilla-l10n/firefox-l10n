@@ -59,14 +59,34 @@ cert-error-details-cert-chain-label = Łańcuch certyfikatu:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Nie udało się nawiązać połączenia
+deniedPortAccess-title = Zastrzeżony adres
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Niestety, nie udało się odnaleźć tej strony
 fileNotFound-title = Nie odnaleziono pliku
 generic-title = Wystąpił błąd
+captivePortal-title = Logowanie do sieci
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Niestety, ten adres nie wygląda dobrze
+netInterrupt-title = Przerwane połączenie
 notCached-title = Dokument wygasł
 netOffline-title = Tryb offline
 contentEncodingError-title = Błąd kodowania zawartości
 unsafeContentType-title = Niebezpieczny typ pliku
+netReset-title = Przerwane połączenie
 netTimeout-title = Przekroczono limit czasu połączenia
+unknownProtocolFound-title = Nieznany protokół
 proxyConnectFailure-title = Serwer proxy odrzuca połączenia
+proxyResolveFailure-title = Nie odnaleziono serwera proxy
+redirectLoop-title = Pętla przekierowań
 unknownSocketType-title = Nieoczekiwana odpowiedź serwera
 nssFailure2-title = Nie udało się nawiązać bezpiecznego połączenia
+cspBlocked-title = Zablokowane przez politykę bezpieczeństwa treści
+corruptedContentError-title = Błąd: treść uszkodzona
 remoteXUL-title = Zdalna treść XUL
+sslv3Used-title = Nie udało się nawiązać bezpiecznego połączenia
+blockedByPolicy-title = Zablokowana strona
+networkProtocolError-title = Błąd protokołu sieciowego
+nssBadCert-title = Ostrzeżenie: potencjalne zagrożenie bezpieczeństwa
+certerror-mitm-title = Oprogramowanie uniemożliwia bezpieczne połączenie ze stroną
