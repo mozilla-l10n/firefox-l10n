@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Ouvrir le menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importer des mots de passe…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer depuis un autre navigateur…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Trier par :
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
 login-list-breached-option = Fuites de données de sites
+about-logins-login-list-alerts-option = Alertes
 login-list-last-changed-option = Dernière modification
 login-list-last-used-option = Dernière utilisation
 login-list-intro-title = Aucun identifiant trouvé
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Saisissez vos informations de connexion
 login-list-item-subtitle-missing-username = (aucun nom d’utilisateur)
 about-logins-list-item-breach-icon =
     .title = Site victime d’une fuite de données
+about-logins-list-item-vulnerable-password-icon =
+    .title = Mot de passe vulnérable
 
 ## Introduction screen
 
@@ -160,10 +161,25 @@ confirm-discard-changes-dialog-confirm-button = Ignorer
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Fuite de site web
 breach-alert-text = Les mots de passe de ce site ont été divulgués ou volés après la dernière modification de vos informations de connexion. Changez votre mot de passe pour protéger votre compte.
 breach-alert-link = En savoir plus sur cette fuite de données.
 breach-alert-dismiss =
     .title = Fermer cette alerte
+about-logins-breach-alert-date = Cette fuite de données s’est produite le { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Accéder à { $hostname }
+about-logins-breach-alert-learn-more-link = En savoir plus
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Mot de passe vulnérable
+about-logins-vulnerable-alert-text = Ce mot de passe a été divulgué ou volé lors d’une fuite de données d’une autre entreprise. La réutilisation des informations d’identification met tous vos comptes en danger. Pour améliorer votre sécurité en ligne, modifiez ce mot de passe.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Accéder à { $hostname }
+about-logins-vulnerable-alert-learn-more-link = En savoir plus
 
 ## Error Messages
 
