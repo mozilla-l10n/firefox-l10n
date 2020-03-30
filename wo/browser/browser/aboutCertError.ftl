@@ -10,6 +10,7 @@ deniedPortAccess-title = Màkkaan bi dañu ko tere
 fileNotFound-title = Dencukaay bu kenn gisul
 generic-title = Laaj bi mënul sotti.
 netInterrupt-title = Jokkoo bi taxaw na
+notCached-title = Jukki bi jeexal na
 netOffline-title = Anamu jokkoodiku
 contentEncodingError-title = Jumte ci suulaale ëmb gi
 unsafeContentType-title = Giri dencukaay yi wóoru ñu
