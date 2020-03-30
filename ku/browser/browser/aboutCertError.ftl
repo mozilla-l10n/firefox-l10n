@@ -11,3 +11,15 @@ cert-error-trust-signature-algorithm-disabled = Ji ber ku ev belgeya erêkirinê
 cert-error-trust-expired-issuer = Ji ber ku guhertoya wê derbasbûye, sertîfîka ne ewle ye.
 cert-error-trust-self-signed = Sertîfîka ne ewle ye ji ber ku bixwe hatiye îmzekirin.
 cert-error-untrusted-default = Çavkaniya sertîfîkayê ne ewle ye.
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Çewtî! Di Girêdanê de Kêmasî hene
+deniedPortAccess-title = Portê Ji Ber Sedemên Ewlekariyê Asteng Kir
+fileNotFound-title = Çewtî! Pel Nayê Dîtin
+generic-title = Ahhaaa.
+netInterrupt-title = Girêdan qut bû
+netTimeout-title = Çewtî! Demê Têrê Nekir
+proxyConnectFailure-title = Pêşkêşkara proksiyê girêdanan red dike
+proxyResolveFailure-title = Pêşkêşkara proksiyê nayê dîtin to find the proxy server
+unknownSocketType-title = Çewtî! Soket nayê zanîn
