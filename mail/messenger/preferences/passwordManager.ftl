@@ -68,3 +68,15 @@ remove-all-shown =
 remove-all-passwords-prompt = ნამდვილად გსურთ, ყველა პაროლის მოცილება?
 remove-all-passwords-title = ყველა პაროლის მოცილება
 no-master-password-prompt = ნამდვილად გსურთ თქვენი პაროლების გამოჩენა?
+
+## OS Authentication dialog
+
+# This message can be seen by trying to show or copy the passwords.
+password-os-auth-dialog-message = თქვენი ვინაობის დამოწმება, შენახულ მონაცემებთან წვდომისთვის.
+# This message can be seen by trying to show or copy the passwords.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+password-os-auth-dialog-message-macosx = შენახულ მონაცემებთან წვდომისთვის.
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }
