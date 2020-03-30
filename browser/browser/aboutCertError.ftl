@@ -88,6 +88,7 @@ xfoBlocked-title = Diblokir oleh Kebijakan X-Frame-Options
 corruptedContentError-title = Galat Konten Rusak
 sslv3Used-title = Gagal Tersambung dengan Aman
 inadequateSecurityError-title = Sambungan Anda tidak aman
+blockedByPolicy-title = Laman Diblokir
 clockSkewError-title = Jam komputer Anda salah
 networkProtocolError-title = Protokol Jaringan Bermasalah
 nssBadCert-title = Peringatan: Potensi Risiko Keamanan Menghadang
