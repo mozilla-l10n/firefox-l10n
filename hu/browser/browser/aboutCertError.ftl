@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = Tanúsítványlánc:
 
 connectionFailure-title = A kapcsolódás sikertelen
 deniedPortAccess-title = Ez a cím tiltva van
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm. Probléma az oldal megkeresésekor.
 fileNotFound-title = A fájl nem található
 fileAccessDenied-title = A fájl elérése megtagadva
 generic-title = Hoppá!
 captivePortal-title = Bejelentkezés a hálózatba
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. A cím nem tűnik helyesnek.
 netInterrupt-title = A kapcsolat megszakadt
 notCached-title = A dokumentum lejárt
 netOffline-title = Kapcsolat nélküli mód
@@ -77,7 +83,14 @@ proxyResolveFailure-title = Nem található a proxykiszolgáló
 redirectLoop-title = Az oldal nem megfelelően van átirányítva
 unknownSocketType-title = Váratlan válasz a kiszolgálótól
 nssFailure2-title = A biztonságos kapcsolat sikertelen
+cspBlocked-title = Blokkolva a tartalombiztonsági házirend szerint
 corruptedContentError-title = Sérült tartalom hiba
 remoteXUL-title = Távoli XUL
 sslv3Used-title = Nem lehet biztonságosan kapcsolódni
 inadequateSecurityError-title = A kapcsolat nem biztonságos
+blockedByPolicy-title = Blokkolt oldal
+clockSkewError-title = A számítógépe órája hibás
+networkProtocolError-title = Hálózati protokoll hiba
+nssBadCert-title = Figyelmeztetés: Lehetséges biztonsági kockázat következik
+nssBadCert-sts-title = Nem kapcsolódott: lehetséges biztonsági probléma
+certerror-mitm-title = Egy szoftver megakadályozza, hogy a { -brand-short-name } biztonságosan kapcsolódjon ehhez a webhelyhez
