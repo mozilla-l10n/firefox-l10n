@@ -55,3 +55,30 @@ cert-error-details-hsts-label = HTTP Tekorosãite Jegueraha Katu: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Ñe'ẽñemi Pavẽrovapeguáva Ñesa'ỹijo: { $hasHPKP }
 cert-error-details-cert-chain-label = Kuatia mboajepyre rysýi:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Ndaikatúi eike
+deniedPortAccess-title = Ko kundaharenda ndaikatúi eipuru
+fileNotFound-title = Marandurenda ndojejuhúiva
+fileAccessDenied-title = Jeike kuatiaitépe noñemoneĩri
+generic-title = Ndi.
+captivePortal-title = Eñepyrũ tembiapo ñandutípe
+netInterrupt-title = Pe jeike ojejokóma
+notCached-title = Kuatia oikove'ỹmava
+netOffline-title = Jeikekatu'ỹre
+contentEncodingError-title = Tetepy mbopapapy jejavy
+unsafeContentType-title = Koichagua marandurenda hekotee'ỹva
+netReset-title = Jeike oñepyrũjeýma
+netTimeout-title = Pe jeike ndoikovéima
+unknownProtocolFound-title = Pe kundaharape nahesakãi
+proxyConnectFailure-title = Mohendahavusu proxy ombotove jeike
+proxyResolveFailure-title = Ndaikatúi ojejuhu mohendahavusu proxy
+redirectLoop-title = Ko kuatiarogue ndoguerahajeýi hekoitépe
+unknownSocketType-title = Mbohovái eha'ãrõ'ỹva mohendahavusúgui
+nssFailure2-title = Jeikekatu jejavýva
+cspBlocked-title = Ojejoko hetepy rekorosãrã purureko rupi
+corruptedContentError-title = Tetepy marãva jejavy
+remoteXUL-title = XUL okaygua
+sslv3Used-title = Ndaikatúi eikekatu
+inadequateSecurityError-title = Nde jeike ndahekokatúi
