@@ -14,3 +14,7 @@ blocklist-hard-blocked = Diese Add-ons bergen ein hohes Sicherheits- oder Stabil
 blocklist-soft-blocked = Zu Ihrer eigenen Sicherheit wird dringend empfohlen, dass Sie diese Add-ons deaktivieren und &brandShortName;  neu starten
 blocklist-more-information =
     .value = Weitere Informationen
+blocklist-blocked =
+    .label = Blockiert
+blocklist-checkbox =
+    .label = Deaktiviert
