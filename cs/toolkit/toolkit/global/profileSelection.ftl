@@ -5,7 +5,13 @@
 profile-selection-window =
     .title = { -brand-short-name } - Výběr profilu uživatele
 profile-selection-button-accept =
-    .label = Spustit { -brand-short-name }
+    .label =
+        Spustit { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "acc") }
+            [feminine] { -brand-short-name(case: "acc") }
+            [neuter] { -brand-short-name(case: "acc") }
+           *[other] aplikaci { -brand-short-name }
+        }
 profile-selection-button-cancel =
     .label = Ukončit
 profile-selection-new-button =
