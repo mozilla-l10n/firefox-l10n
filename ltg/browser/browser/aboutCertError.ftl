@@ -88,3 +88,6 @@ corruptedContentError-title = Būjuota satura klaida
 remoteXUL-title = Attuolynuots XUL
 sslv3Used-title = Naizadeve drūsais pīsasliegt
 inadequateSecurityError-title = Savīnuojums nav drūss
+blockedByPolicy-title = Bloķeita lopa
+clockSkewError-title = Tova datora stundinīks ir napareizs
+nssBadCert-title = Breidynojums: Potencials drūšeibys risks
