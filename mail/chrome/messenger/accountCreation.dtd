@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (uzak dizinler)">
 <!ENTITY pop3Long.label                  "POP3 (postalar bilgisayarınızda saklanacak)">
 
+<!ENTITY manualConfigTable.summary       "Sunucu ayarları">
 <!ENTITY incoming.label                  "Gelen:">
 <!ENTITY incomingColumn.label            "Gelen">
 <!ENTITY outgoing.label                  "Giden:">
