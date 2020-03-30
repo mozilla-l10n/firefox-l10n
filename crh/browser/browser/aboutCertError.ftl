@@ -47,3 +47,42 @@ cert-error-details-hsts-label = HTTP Sıqı Naqliye Emniyeti: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Aleniy Anahtar Tüyremesi: { $hasHPKP }
 cert-error-details-cert-chain-label = Şeadetname zıncırı:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Bağlanılalmay
+deniedPortAccess-title = Bu adres sıñırlanğan
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Ya. O saytnı tapmaqta küçsünemiz.
+fileNotFound-title = Dosye tapılamadı
+fileAccessDenied-title = Dosyege irişim inkâr etildi
+generic-title = Ay!
+captivePortal-title = Şebekege içeri imzalan
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Ya. O adres doğru körünmey.
+netInterrupt-title = Bağlantı inqıtağa oğratıldı
+notCached-title = Vesiqa Eskirgen
+netOffline-title = Devre-tışı tarz
+contentEncodingError-title = Münderice Kodlandırma Hatası
+unsafeContentType-title = Ğayrı Emin Dosye Türü
+netReset-title = Bağlantı sıfırlandı
+netTimeout-title = Bağlantı zaman aşımına oğradı
+unknownProtocolFound-title = Adres añlaşılmadı
+proxyConnectFailure-title = Proksi sunucısı bağlantılarnı red ete
+proxyResolveFailure-title = Proksi sunucısı tapılalmay
+redirectLoop-title = Saifeniñ kene yönetmesi münasip degildir
+unknownSocketType-title = Sunucıdan beklenmegen cevap
+nssFailure2-title = Emniyetli Bağlantı Muvafaqiyetsiz
+cspBlocked-title = Muhteva Emniyeti Siyaseti Tarafından Bloklanğan
+corruptedContentError-title = İfsat Etilgen Muhteva Hatası
+remoteXUL-title = Uzaqtan XUL
+sslv3Used-title = Emniyetlice Bağlanılalmay
+inadequateSecurityError-title = Bağlantıñız emniyetli degildir
+blockedByPolicy-title = Bloklanğan Saife
+clockSkewError-title = Bilgisayar Saatıñız Yañlış
+networkProtocolError-title = Şebeke Protokolı Hatası
+nssBadCert-title = Tenbi: Potensial Emniyet Riski İleride
+nssBadCert-sts-title = Bağlanılmadı: Potensial Emniyet Meselesi
+certerror-mitm-title = Yazılım, { -brand-short-name } Uyğulamasınıñ Emin Olaraq Bu Saytqa Bağlanmasınıñ Aldını Ala
