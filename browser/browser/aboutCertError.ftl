@@ -55,3 +55,9 @@ cert-error-details-hsts-label = Seguridad de transporte HTTP estricta: { $hasHST
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fijar clave pública HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificado:
+
+## Messages used for certificate error titles
+
+contentEncodingError-title = Error de codificación de contenido
+unsafeContentType-title = Tipo de archivo inseguro
+netTimeout-title = Se agotó el tiempo de espera
