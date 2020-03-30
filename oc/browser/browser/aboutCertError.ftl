@@ -60,22 +60,38 @@ cert-error-details-cert-chain-label = Cadena de certificats :
 
 connectionFailure-title = Impossible de se connectar
 deniedPortAccess-title = Aquesta adreça es restrencha
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Umm. capitam pas a trobar aqueste site.
 fileNotFound-title = Fichièrs pas trobat
 fileAccessDenied-title = L'accès al fichièr es estat refusat
 generic-title = La requèsta pòt pas abotir
 captivePortal-title = Se connectar al ret
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Umm, aquesta adreça sembla pas valida.
 netInterrupt-title = La connexion es estada interrompuda
 notCached-title = Lo document a expirat
+netOffline-title = Mòde fòra connexion
 contentEncodingError-title = Error d'encodatge de contengut
 unsafeContentType-title = Tipe de fichièr pas segur
 netReset-title = La connexion es estada reïnicializada
 netTimeout-title = Relambi d'espèra passat
 unknownProtocolFound-title = La connexion es pas estada compresa
+proxyConnectFailure-title = Lo servidor mandatari refusa las connexions
+proxyResolveFailure-title = Impossible de trobar lo servidor mandatari
 redirectLoop-title = Redireccion de pagina incorrècta
 unknownSocketType-title = Responsa inesperada del servidor
 nssFailure2-title = La connexion segura a pas capitat
 cspBlocked-title = Blocat per una estrategia de seguretat de contengut
+xfoBlocked-title = Blocat per la politica X-Frame-Options
 corruptedContentError-title = Error deguda a un contengut corromput
 remoteXUL-title = XUL distant
 sslv3Used-title = Impossible d'establir una connexion securizada
 inadequateSecurityError-title = Vòstra connexion es pas segura
+blockedByPolicy-title = Pagina blocada
+clockSkewError-title = L’ora de l’ordenador es pas corrècta
+networkProtocolError-title = Error de protocòl ret
+nssBadCert-title = Atencion : risc probable de seguretat
+nssBadCert-sts-title = Connexion blocada : problèma potencial de seguretat
+certerror-mitm-title = Un logicial empacha { -brand-short-name } de se connectar de biais securizat a aqueste site
