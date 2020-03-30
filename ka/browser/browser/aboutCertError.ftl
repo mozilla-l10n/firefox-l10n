@@ -60,10 +60,15 @@ cert-error-details-cert-chain-label = Certificate chain:
 
 connectionFailure-title = დაკავშირება ვერ მოხერხდა
 fileNotFound-title = ფაილი ვერ მოიძებნა
+fileAccessDenied-title = ფაილზე წვდომა უარყოფილია.
 generic-title = მოთხოვნის დასრულება ვერ ხერხდება
 netInterrupt-title = კავშირი გაწყდა
+contentEncodingError-title = შეცდომა შიგთავსის კოდირებაში
 netReset-title = კავშირი გაწყდა
 proxyConnectFailure-title = პროქსი სერვერმა კავშირი უარყო
 proxyResolveFailure-title = პროქსი სერვერის პოვნა ვერ ხერხდება
 unknownSocketType-title = გაუთვალისწინებელი პასუხი სერვერიდან
 nssFailure2-title = უსაფრთხო დაკავშირება ვერ მოხერხდა
+corruptedContentError-title = დაზიანებული შიგთავსის შეცდომა
+remoteXUL-title = დისტანციური XUL
+sslv3Used-title = უსაფრთხო კავშირი ვერ ხერხდება
