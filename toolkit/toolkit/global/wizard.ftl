@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+wizard-macos-button-back =
+    .label = Quay lại
+    .accesskey = L
+wizard-linux-button-back =
+    .label = Quay lại
+    .accesskey = L
+wizard-win-button-back =
+    .label = < Quay lại
+    .accesskey = L
 wizard-macos-button-next =
     .label = Tiếp tục
     .accesskey = i
