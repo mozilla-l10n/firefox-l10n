@@ -55,3 +55,18 @@ cert-error-details-hsts-label = Seguretat estricta de transport HTTP: { $hasHSTS
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixació de claus públiques HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadena de certificats:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = No s'ha pogut connectar
+deniedPortAccess-title = L'adreça està restringida
+fileNotFound-title = No s'ha trobat el fitxer
+generic-title = Ups.
+netInterrupt-title = S'ha interromput la connexió
+netOffline-title = Mode fora de línia
+contentEncodingError-title = Error de codificació del contingut
+netReset-title = S'ha reiniciat la connexió
+netTimeout-title = S'ha esgotat el temps d'espera de la connexió
+proxyConnectFailure-title = El servidor intermediari està rebutjant les connexions
+proxyResolveFailure-title = No s'ha pogut trobar el servidor intermediari
+unknownSocketType-title = Resposta inesperada del servidor
