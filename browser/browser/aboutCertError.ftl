@@ -59,15 +59,26 @@ cert-error-details-cert-chain-label = Vottunarkeðja (certificate chain):
 ## Messages used for certificate error titles
 
 connectionFailure-title = Get ekki tengst
+deniedPortAccess-title = Aðgangur að gátt er ekki leyfður
 fileNotFound-title = Skrá fannst ekki
+fileAccessDenied-title = Aðgangur að skránni ekki leyfður
 generic-title = Ææ.
+captivePortal-title = Innskráning á net
 netInterrupt-title = Tenging slitnaði
 notCached-title = Skjal er útrunnið
 netOffline-title = Ónettengdur hamur
 contentEncodingError-title = Kóðunarvilla
 unsafeContentType-title = Óörugg skráartegund
 netReset-title = Tenging slitnaði
+netTimeout-title = Tengingin svaraði ekki tímanlega
+unknownProtocolFound-title = Óþekkt samskiptaregla
 proxyConnectFailure-title = Milliþjónn neitar tengingum
 proxyResolveFailure-title = Fann ekki milliþjónn
+redirectLoop-title = Síðan er ekki að endurbeina rétt
 unknownSocketType-title = Rangt svar frá netþjóni
+nssFailure2-title = Örugg tenging mistókst
+cspBlocked-title = Lokað á vegna öryggisreglu
+corruptedContentError-title = Villa skemmd gögn
 remoteXUL-title = Fjarlægt XUL
+sslv3Used-title = Get ekki tengst á öruggan hátt
+inadequateSecurityError-title = Tenging er ekki örugg
