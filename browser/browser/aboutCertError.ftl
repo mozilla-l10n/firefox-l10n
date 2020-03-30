@@ -64,3 +64,4 @@ fileNotFound-title = Không tìm thấy tập tin
 netInterrupt-title = Kết nối bị ngắt
 netOffline-title = Chế độ ngoại tuyến
 netReset-title = Kết nối bị khởi tạo lại
+proxyConnectFailure-title = Máy chủ proxy từ chối kết nối
