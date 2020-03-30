@@ -55,3 +55,18 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Tanúsítványlánc:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = A kapcsolódás sikertelen
+deniedPortAccess-title = Ez a cím tiltva van
+fileNotFound-title = A fájl nem található
+generic-title = Hoppá!
+netInterrupt-title = A kapcsolat megszakadt
+netOffline-title = Kapcsolat nélküli mód
+contentEncodingError-title = Tartalomkódolási hiba
+unsafeContentType-title = Nem biztonságos fájltípus
+netReset-title = A kapcsolat alaphelyzetbe állt
+netTimeout-title = A kapcsolat időtúllépés miatt megszakadt
+proxyConnectFailure-title = A proxykiszolgáló visszautasította a kapcsolatokat
+unknownSocketType-title = Váratlan válasz a kiszolgálótól
