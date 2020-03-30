@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Ldi umuɣ
-# This menuitem is only visible on Windows
-menu-menuitem-import = Kter awalen uffiren...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Kter seg iminig nniḍen…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
 login-list-name-reverse-option = Isem (Z-A)
 login-list-breached-option = Ismal web ittwakren
+about-logins-login-list-alerts-option = Ilɣa
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
 login-list-intro-title = Ulac inekcam yettwafen
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Sekcem inekcumen-ik n tuqqna
 login-list-item-subtitle-missing-username = (ulas isem n useqdac)
 about-logins-list-item-breach-icon =
     .title = Asmel i tḥuza trewla n yisefka
+about-logins-list-item-vulnerable-password-icon =
+    .title = Awal uffir ur iǧhid ara
 
 ## Introduction screen
 
@@ -160,10 +161,14 @@ confirm-discard-changes-dialog-confirm-button = Kkes
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Tarewla n yismal web
 breach-alert-text = Awalen uffiren n usmel-a ffɣen neɣ ttwakren deffir n ubeddel aneggaru n telɣut-ik n tuqqna. Beddel awal-ik uffir akken ad yettwamesten umiḍan-ik.
 breach-alert-link = Issin ugar ɣef trewla n yisefka-agi.
 breach-alert-dismiss =
     .title = Mdel ulɣu-agi
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 

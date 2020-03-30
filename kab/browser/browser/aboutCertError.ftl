@@ -59,7 +59,7 @@ cert-error-details-cert-chain-label = Azrar n uselkin:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Igguma ad iqqen
-deniedPortAccess-title = Tansa-a tegdel
+deniedPortAccess-title = Tansa-yagi tegdel
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm. Nesɛa uguren akken ad naf asmel.
@@ -75,19 +75,19 @@ notCached-title = Isemli yemmut
 netOffline-title = Askar war tuqqna
 contentEncodingError-title = Tuccḍa n usettengel n ugbur
 unsafeContentType-title = Tawsit n ufaylu aranelkan
-netReset-title = Tuqqna tettuwennez tikelt-nniḍen.
-netTimeout-title = Tanzagt n uraju tezri
+netReset-title = Tuqqna tettuwennez tikelt nniḍen.
+netTimeout-title = Tanzagt n uraǧu tezri
 unknownProtocolFound-title = Ur nessin ara tansa
 proxyConnectFailure-title = Aqeddac apṛuksi yugi tuqqniwin.
 proxyResolveFailure-title = Aqeddac apṛuksi ulac-it
-redirectLoop-title = Asebter ur iwehi ara akken iwata
+redirectLoop-title = Asebter ur yettuwelleh ara akken iwata
 unknownSocketType-title = Aqeddac yerra-d yir tiririt ur nettwaṛǧi ara
 nssFailure2-title = Tuqqna taɣelsant ur teddi ara
-cspBlocked-title = Tesweḥlit tsertit n tɣellist n ugbur
+cspBlocked-title = Tessewḥel-it tsertit n tɣellist n ugbur
 xfoBlocked-title = Tessewḥel-it tsertit X-Frame-Options
-corruptedContentError-title = Tuccḍa d-yekkan seg ugbur yerẓen
+corruptedContentError-title = Tuccḍa tekka-d seg ugbur ixesṛen
 remoteXUL-title = XUL anmeggag
-sslv3Used-title = Ur yezmir ara ad yeqqen s tɣellist
+sslv3Used-title = Ur yezmir ara ad yeqqen s wudem aɣelsan
 inadequateSecurityError-title = Tuqqna-inek d taraɣelsant
 blockedByPolicy-title = Asebter iwḥel
 clockSkewError-title = Asarag n uselkim-inek ur teseḥa ara
