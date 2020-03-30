@@ -55,3 +55,17 @@ cert-error-details-hsts-label = Фарсіраванае абароненае з
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Прывязка адкрытага ключа HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Ланцужок сертыфіката:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = Нельга злучыцца
+deniedPortAccess-title = Гэты адрас абмежаваны
+fileNotFound-title = Файл не знойдзены
+generic-title = Ух?!
+netInterrupt-title = Злучэнне перарвана
+netOffline-title = Пазасеткавы рэжым
+contentEncodingError-title = Памылка кадавання змесціва
+unsafeContentType-title = Небяспечны тып файла
+netReset-title = Злучэнне скінута
+redirectLoop-title = Старонка няправільна перанакіроўваецца
+nssFailure2-title = Няўдача бяспечнага злучэння
