@@ -58,3 +58,4 @@ corruptedContentError-title = Juumre Loowdi Jiibndi
 remoteXUL-title = XUL Poottiiɗo
 sslv3Used-title = Horiima Seŋaade e Kisal
 inadequateSecurityError-title = Ceŋagol maa hisaani
+blockedByPolicy-title = Hello Daaƴaango
