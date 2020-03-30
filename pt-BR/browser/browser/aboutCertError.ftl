@@ -55,3 +55,10 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixação de Chave Pública HTTP: { $hasHPKP }
 cert-error-details-cert-chain-label = Cadeia de certificados:
+
+## Messages used for certificate error titles
+
+fileNotFound-title = Arquivo não encontrado
+contentEncodingError-title = Erro na codificação do conteúdo
+unsafeContentType-title = Tipo de arquivo inseguro
+nssFailure2-title = Falha na conexão segura
