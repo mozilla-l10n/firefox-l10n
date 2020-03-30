@@ -60,9 +60,16 @@ cert-error-details-cert-chain-label = Certifikatowy rjeśaz:
 
 connectionFailure-title = Zwisk njejo móžny
 deniedPortAccess-title = Toś ta adresa jo wobgranicowana
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hm. Mamy problemy, to sedło namakaś.
 fileNotFound-title = Dataja njejo se namakała
+fileAccessDenied-title = Pśistup k dataji jo se wótpokazał
 generic-title = Hopla.
 captivePortal-title = Se pla seśi pśizjawiś
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hm. Zda se, až toś ta adresa njejo korektna.
 netInterrupt-title = Zwisk jo se pśetergnuł
 notCached-title = Dokument jo wótběgnuł
 netOffline-title = Offline-modus
@@ -77,7 +84,14 @@ redirectLoop-title = Bok pšawje njepósrědnja
 unknownSocketType-title = Njewótčakane wótegrono ze serwera
 nssFailure2-title = Wěsty zwisk njejo móžny
 cspBlocked-title = Pśez wěstotne pšawidła za wopśimjeśe zablokěrowany
+xfoBlocked-title = Pśez pšawidła X-Frame-Options zablokěrowane
 corruptedContentError-title = Zmólka - wobškóźone wopśimjeśe
 remoteXUL-title = Daloki XUL
 sslv3Used-title = Wěsty zwisk njejo móžny
 inadequateSecurityError-title = Waš zwisk njejo wěsty
+blockedByPolicy-title = Zablokěrowany bok
+clockSkewError-title = Zeger wašogo licadła wopak źo
+networkProtocolError-title = Zmólka seśowego protokola
+nssBadCert-title = Warnowanje: Potencielne wěstotne riziko prědku
+nssBadCert-sts-title = Njejo se zwězało: Potencielny wěstotny problem
+certerror-mitm-title = Software { -brand-short-name } wěste zwězowanje z toś tym sedłom zawoborujo
