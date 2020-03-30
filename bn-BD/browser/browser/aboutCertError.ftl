@@ -21,3 +21,19 @@ cert-error-details-hsts-label = HTTP কঠোর পরিবহন নির�
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP পাবলিক কী পিন: { $hasHPKP }
 cert-error-details-cert-chain-label = সার্টিফিকেট চেইন:
+
+## Messages used for certificate error titles
+
+connectionFailure-title = সংযোগ করতে ব্যর্থ
+deniedPortAccess-title = এই ঠিকানাটি সীমাবদ্ধ
+fileNotFound-title = ফাইল পাওয়া যায়নি
+generic-title = ওহ্ হো!
+netInterrupt-title = সংযোগ বিঘ্নিত হয়েছে
+netOffline-title = অফলাইন মোড
+unsafeContentType-title = অনিরাপদ শ্রেণীর ফাইল
+netReset-title = সংযোগ পুনঃনির্ধারণ করা হয়েছে
+netTimeout-title = সংযোগের সময়সীমা উত্তীর্ণ হয়েছে
+proxyConnectFailure-title = প্রক্সি সার্ভার সংযোগ প্রত্যাখ্যান করছে
+proxyResolveFailure-title = প্রক্সি সার্ভার পাওয়া যায়নি
+unknownSocketType-title = সার্ভার থেকে অপ্রত্যাশিত উত্তর
+remoteXUL-title = রিমোট XUL
