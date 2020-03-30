@@ -32,6 +32,10 @@ cert-error-details-cert-chain-label = Cadenna de certificati:
 
 connectionFailure-title = No riescio a conetime
 deniedPortAccess-title = L'acesso a-a pòrta o l'é dizabilitou pe raxoin de seguessa
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Ahime mi. Gh'emmo di problemi a trovâ sto scito.
+generic-title = Ahime mi!
 captivePortal-title = Intra inta ræ
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -52,3 +56,6 @@ corruptedContentError-title = Erô de contegnuo andæto a mâ
 remoteXUL-title = XUL Remòtto
 sslv3Used-title = Inposcibile conetise in mòddo seguo
 inadequateSecurityError-title = A teu conescion a no l'é segua
+clockSkewError-title = O releuio do computer o l'é erou
+nssBadCert-title = Atençion: gh'é 'n reizego de seguessa potensiâ
+nssBadCert-sts-title = Conescion fermâ: reizego potensiâ de seguessa
