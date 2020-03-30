@@ -71,3 +71,4 @@ netTimeout-title = Anslutningen avbröts
 proxyConnectFailure-title = Proxyservern avvisar anslutningen
 proxyResolveFailure-title = Kan inte hitta proxyservern
 unknownSocketType-title = Oväntat svar från servern
+remoteXUL-title = Extern XUL
