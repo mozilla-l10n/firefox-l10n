@@ -63,6 +63,7 @@ deniedPortAccess-title = L'adreça està restringida
 fileNotFound-title = No s'ha trobat el fitxer
 generic-title = Ups.
 netInterrupt-title = S'ha interromput la connexió
+notCached-title = El document ha caducat
 netOffline-title = Mode fora de línia
 contentEncodingError-title = Error de codificació del contingut
 unsafeContentType-title = Tipus de fitxer insegur
