@@ -10,3 +10,23 @@ cert-error-trust-untrusted-issuer = Il certificât nol è afidabil parcè che l'
 cert-error-trust-expired-issuer = Il certificât nol è afidabil parcè che il certificât dal emitent al è scjadût.
 cert-error-trust-self-signed = Il certificât nol è afidabil parcè che al è auto firmât.
 cert-error-untrusted-default = Il certificât nol ven di une risultive afidabile.
+
+## Messages used for certificate error titles
+
+connectionFailure-title = No si pues conetisi
+deniedPortAccess-title = Cheste direzion e je restrizude
+fileNotFound-title = File no cjatât
+generic-title = Orpo.
+netInterrupt-title = La conession e je stade interote
+notCached-title = Document scjadût
+netOffline-title = Mût fûr linie
+contentEncodingError-title = Erôr te codifiche dal contignût
+unsafeContentType-title = Gjenar di file no sigûr
+netReset-title = La conession e je stade reiniziade
+netTimeout-title = La conession e je lade fûr timp massim
+unknownProtocolFound-title = No ai capît la direzion
+proxyConnectFailure-title = Il servidôr proxy al refude lis conessions.
+proxyResolveFailure-title = No si pues cjatâ il servidôr proxy
+redirectLoop-title = Il re-indreçament di cheste pagjine nol funzione ben
+unknownSocketType-title = Rispueste dal servidôr no spietade
+remoteXUL-title = XUL remot
