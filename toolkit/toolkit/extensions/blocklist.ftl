@@ -14,3 +14,7 @@ blocklist-hard-blocked = このアドオンには安定性またはセキュリ�
 blocklist-soft-blocked = 安全のために、再起動してこのアドオンを無効化することが強く推奨されます。
 blocklist-more-information =
     .value = 詳細
+blocklist-blocked =
+    .label = ブロックしました
+blocklist-checkbox =
+    .label = 無効化する
