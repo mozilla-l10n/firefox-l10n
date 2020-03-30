@@ -48,6 +48,7 @@ login-list-sort-label-text = מיון לפי:
 login-list-name-option = שם (A-Z)
 login-list-name-reverse-option = שם (Z-A)
 login-list-breached-option = אתרים פרוצים
+about-logins-login-list-alerts-option = התרעות
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
 login-list-intro-title = לא נמצאו כניסות
