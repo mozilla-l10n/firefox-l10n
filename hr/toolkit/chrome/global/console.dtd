@@ -16,7 +16,7 @@
 <!ENTITY warnings.accesskey "U">
 <!ENTITY messages.label     "Poruke">
 <!ENTITY messages.accesskey "P">
-<!ENTITY clear.label        "Očisti">
+<!ENTITY clear.label        "Obriši">
 <!ENTITY clear.accesskey    "O">
 <!ENTITY codeEval.label     "Kȏd:">
 <!ENTITY codeEval.accesskey "o">

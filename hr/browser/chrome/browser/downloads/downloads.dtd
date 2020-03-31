@@ -35,9 +35,9 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Ukloni iz povijesti">
 <!ENTITY cmd.removeFromHistory.accesskey  "s">
-<!ENTITY cmd.clearList2.label             "Očisti ploču pregleda">
+<!ENTITY cmd.clearList2.label             "Obriši ploču pregleda">
 <!ENTITY cmd.clearList2.accesskey         "a">
-<!ENTITY cmd.clearDownloads.label         "Očisti preuzimanja">
+<!ENTITY cmd.clearDownloads.label         "Obriši preuzimanja">
 <!ENTITY cmd.clearDownloads.accesskey     "e">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
@@ -118,7 +118,7 @@
      -->
 <!ENTITY openDownloadsFolder.label        "Otvori mapu preuzimanja">
 
-<!ENTITY clearDownloadsButton.label       "Očisti preuzimanja">
+<!ENTITY clearDownloadsButton.label       "Obriši preuzimanja">
 <!ENTITY clearDownloadsButton.tooltip     "Briše dovršena, otkazana i neuspjela preuzimanja">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
