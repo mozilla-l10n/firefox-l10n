@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Abrir menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importar palavras-passe…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar de outro navegador…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
 login-list-breached-option = Sites invadidos
+about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Última utilização
 login-list-intro-title = Não foram encontradas credenciais
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Introduza as suas credenciais
 login-list-item-subtitle-missing-username = (sem nome de utilizador)
 about-logins-list-item-breach-icon =
     .title = Site invadido
+about-logins-list-item-vulnerable-password-icon =
+    .title = Palavra-passe vulnerável
 
 ## Introduction screen
 
@@ -160,10 +161,24 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Intrusão em site
 breach-alert-text = As palavras-passe deste site foram divulgadas ou roubadas desde a última vez que atualizou as suas credenciais. Altere a sua palavra-passe para proteger a sua conta.
 breach-alert-link = Saber mais acerca desta brecha.
 breach-alert-dismiss =
     .title = Fechar este alerta
+about-logins-breach-alert-date = Esta intrusão ocorreu a { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ir para { $hostname }
+about-logins-breach-alert-learn-more-link = Saber mais
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Palavra-passe vulnerável
+about-logins-vulnerable-alert-text = Esta palavra-passe foi divulgada ou roubada numa intrusão em dados de outra empresa. A reutilização de credenciais coloca todas as suas contas em risco. Para melhorar a sua segurança na Internet, altere esta palavra-passe.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ir para { $hostname }
 
 ## Error Messages
 
