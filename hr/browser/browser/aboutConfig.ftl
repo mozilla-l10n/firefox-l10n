@@ -59,6 +59,6 @@ about-config-pref-add-type-string = Znakovni niz
 ##   $value (String): The full value of the preference.
 
 about-config-pref-accessible-value-default =
-    .aria-label = { $value } (zadano)
+    .aria-label = { $value } (standardno)
 about-config-pref-accessible-value-custom =
     .aria-label = { $value } (prilagođeno)

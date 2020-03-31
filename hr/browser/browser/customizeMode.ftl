@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Vrati zadano
+    .label = Vrati standardne vrijednosti
 customize-mode-menu-and-toolbars-header = Povuci omiljene stavke u alatnu traku ili dodatni izbornik.
 customize-mode-overflow-list-title = Dodatni izbornik
 customize-mode-uidensity =
