@@ -9,7 +9,7 @@
 ## Default Developer Tools section
 
 # The heading
-options-select-default-tools-label = Zadani programerski alati
+options-select-default-tools-label = Standardni programerski alati
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * Nije podržano za trenutni cilj alatne trake
@@ -37,7 +37,7 @@ options-collapse-attrs-tooltip =
 
 ## "Default Color Unit" options for the Inspector
 
-options-default-color-unit-label = Zadana jedinica boje
+options-default-color-unit-label = Standardna jedinica boje
 options-default-color-unit-authored = Autor
 options-default-color-unit-hex = Hex
 options-default-color-unit-hsl = HSL(A)
@@ -81,7 +81,7 @@ options-sourceeditor-expandtab-tooltip =
 options-sourceeditor-expandtab-label = Uvlake sa razmakom
 options-sourceeditor-tabsize-label = Veličina tabulatora
 options-sourceeditor-keybinding-label = Tipkovnički prečaci
-options-sourceeditor-keybinding-default-label = Zadano
+options-sourceeditor-keybinding-default-label = Standardno
 
 ## Advanced section
 

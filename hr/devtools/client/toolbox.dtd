@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
-<!ENTITY options.defaultColorUnit.label "Zadana jedinica boje">
+<!ENTITY options.defaultColorUnit.label "Standardna jedinica boje">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.accesskey): This is the access
   -  key for a dropdown list that controls the default color unit used in the
@@ -99,7 +99,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
-<!ENTITY options.selectDefaultTools.label2    "Zadani programerski alati">
+<!ENTITY options.selectDefaultTools.label2    "Standardni programerski alati">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
@@ -191,4 +191,4 @@
 <!ENTITY options.sourceeditor.tabsize.accesskey         "V">
 <!ENTITY options.sourceeditor.keybinding.label          "Tipkovnički prečaci">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "K">
-<!ENTITY options.sourceeditor.keybinding.default.label  "Zadano">
+<!ENTITY options.sourceeditor.keybinding.default.label  "Standardno">

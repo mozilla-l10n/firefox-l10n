@@ -571,7 +571,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Traži u novoj kartici">
 <!ENTITY searchInNewTab.accesskey     "t">
-<!ENTITY searchSetAsDefault.label     "Podesi kao zadanu tražilicu">
+<!ENTITY searchSetAsDefault.label     "Postavi kao standardnu tražilicu">
 <!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY openLinkCmdInTab.label       "Otvori poveznicu u novoj kartici">
