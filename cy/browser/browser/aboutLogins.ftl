@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Agor dewislen
-# This menuitem is only visible on Windows
-menu-menuitem-import = Mewnforio Cyfrineiriau…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Mewnforio o Borwr Arall…
 menu-menuitem-preferences =
@@ -54,6 +52,7 @@ login-list-sort-label-text = Trefnu yn ôl
 login-list-name-option = Enw (A-Z)
 login-list-name-reverse-option = Enw (A-Z)
 login-list-breached-option = Gwefannau wedi Dioddef Tor-data
+about-logins-login-list-alerts-option = Rhybuddion
 login-list-last-changed-option = Newidiwyd Diwethaf
 login-list-last-used-option = Defnyddiwyd Diwethaf
 login-list-intro-title = Heb ganfod mewngofnodion
@@ -65,6 +64,8 @@ login-list-item-subtitle-new-login = Rhowch eich manylion mewngofnodi
 login-list-item-subtitle-missing-username = (dim enw defnyddwyr)
 about-logins-list-item-breach-icon =
     .title = Gwefan wedi dioddef tor-data
+about-logins-list-item-vulnerable-password-icon =
+    .title = Cyfrinair bregus
 
 ## Introduction screen
 
@@ -164,10 +165,25 @@ confirm-discard-changes-dialog-confirm-button = Dileu
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Tor-data Gwefan
 breach-alert-text = Cafodd cyfrineiriau eu ryddhau neu eu dwyn o'r wefan hon ers i chi ddiweddaru'ch manylion mewngofnodi ddiwethaf. Newid eich cyfrinair i ddiogelu eich cyfrif.
 breach-alert-link = Dysgu rhagor am y tor-data hwn.
 breach-alert-dismiss =
     .title = Diffodd y rhybudd
+about-logins-breach-alert-date = Digwyddodd y tor-data hwn ar { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Mynd i { $hostname }
+about-logins-breach-alert-learn-more-link = Dysgu rhagor
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Cyfrinair Bregus
+about-logins-vulnerable-alert-text = Cafodd y cyfrinair hwn ei ollwng neu ei ddwyn yn sgil tor-data cwmni arall. Mae ailddefnyddio manylion yn peryglu'ch holl gyfrifon. Er mwyn gwella'ch diogelwch ar-lein, newidiwch y cyfrinair hwn.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Mynd i { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Dysgu rhagor
 
 ## Error Messages
 
