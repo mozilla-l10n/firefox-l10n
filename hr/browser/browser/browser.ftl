@@ -150,7 +150,7 @@ urlbar-star-add-bookmark =
 page-action-add-to-urlbar =
     .label = Dodaj u adresnu traku
 page-action-manage-extension =
-    .label = Upravljanje dodatkom…
+    .label = Upravljaj proširenjem …
 page-action-remove-from-urlbar =
     .label = Ukloni iz adresne trake
 
