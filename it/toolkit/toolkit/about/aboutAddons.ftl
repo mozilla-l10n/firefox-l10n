@@ -166,6 +166,9 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Aggiornamenti disponibili
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Estensioni
+addon-category-plugin = Plugin
+addon-category-locale = Lingue
 
 ## These are global warnings
 
@@ -338,9 +341,9 @@ remove-addon-button = Rimuovi
 remove-addon-disabled-button = Impossibile rimuovere <a data-l10n-name="link">Perché?</a>
 disable-addon-button = Disattiva
 enable-addon-button = Attiva
+expand-addon-button = Altre opzioni
 extension-enable-addon-button-label =
     .aria-label = Attiva
-expand-addon-button = Altre opzioni
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Opzioni
@@ -425,8 +428,8 @@ updates-heading = Gestione aggiornamenti
 discover-heading = Personalizza { -brand-short-name }
 shortcuts-heading = Gestione scorciatoie da tastiera
 theme-heading-search-label = Trova altri temi
-default-heading-search-label = Trova altri componenti aggiuntivi
 extension-heading-search-label = Trova altre estensioni
+default-heading-search-label = Trova altri componenti aggiuntivi
 addons-heading-search-input =
     .placeholder = Cerca in addons.mozilla.org
 addon-page-options-button =
