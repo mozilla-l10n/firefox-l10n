@@ -36,11 +36,11 @@ cert-error-domain-mismatch-multiple = Web stranice dokazuju svoj identitet putem
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Web stranice dokazuju svoj identitet putem certifikata, koji su valjani samo za određeni vremenski period. Certifikat za { $hostname } je istekao { $not-after-local-time }.
+cert-error-expired-now = Web stranice dokazuju svoj identitet putem certifikata, koji vrijede samo određeno vrijeme. Certifikat za { $hostname } je istekao { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.
-cert-error-not-yet-valid-now = Web stranice dokazuju svoj identitet putem certifikata, koji su valjani samo za određeni vremenski period. Certifikat za { $hostname } će tek postati valjan { $not-before-local-time }.
+cert-error-not-yet-valid-now = Web stranice dokazuju svoj identitet putem certifikata, koji vrijede samo određeno vrijeme. Certifikat za { $hostname } vrijedit će tek od { $not-after-local-time }.
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Kȏd pogreške: <a data-l10n-name="error-code-link">{ $error }</a>
