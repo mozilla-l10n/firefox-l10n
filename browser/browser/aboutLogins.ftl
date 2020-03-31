@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Otvori izbornik
-# This menuitem is only visible on Windows
-menu-menuitem-import = Uvezi lozinke…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Uvoz iz drugog preglednika…
 menu-menuitem-preferences =
@@ -153,7 +151,7 @@ confirmation-dialog-cancel-button = Odustani
 confirmation-dialog-dismiss-button =
     .title = Odustani
 about-logins-confirm-remove-dialog-title = Ukloni ovu prijavu?
-confirm-delete-dialog-message = Ova radnja se neće moći poništiti.
+confirm-delete-dialog-message = Ova radnja je nepovratna.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
 confirm-discard-changes-dialog-title = Odbaci nespremljene izmjene?
 confirm-discard-changes-dialog-message = Sve nespremljene izmjene će biti izgubljene.
@@ -165,6 +163,9 @@ breach-alert-text = Lozinke su ukradene ili su procurile s ove stranice od kada 
 breach-alert-link = Saznaj više o ovom curenju podataka.
 breach-alert-dismiss =
     .title = Zatvori ovo upozorenje
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 

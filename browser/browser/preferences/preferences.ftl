@@ -829,7 +829,7 @@ history-remember-search-option =
     .label = Zapamti povijest traženja i formi
     .accesskey = f
 history-clear-on-close-option =
-    .label = Očisti povijest prilikom zatvaranja { -brand-short-name }a
+    .label = Obriši povijest prilikom zatvaranja { -brand-short-name }a
     .accesskey = z
 history-clear-on-close-settings =
     .label = Postavke…
@@ -1126,8 +1126,8 @@ space-alert-over-5gb-pref-button =
         }
 space-alert-over-5gb-message =
     { PLATFORM() ->
-        [windows] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. Možeš očistiti spremljene podatke u Mogućnosti > Privatnost i sigurnost > Kolačići i podaci stranica.
-       *[other] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. Možeš očistiti spremljene podatke u Postavke > Privatnost i sigurnost > Kolačići i podaci stranica.
+        [windows] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. Spremljene podatke možeš obrisati u Mogućnosti > Privatnost i sigurnost > Kolačići i podaci stranica.
+       *[other] { -brand-short-name }u ponestaje diskovnog prostora. Sadržaj web stranica se možda neće ispravno prikazati. premljene podatke možeš obrisati u Postavke > Privatnost i sigurnost > Kolačići i podaci stranica.
     }
 space-alert-under-5gb-ok-button =
     .label = U redu, razumijem
