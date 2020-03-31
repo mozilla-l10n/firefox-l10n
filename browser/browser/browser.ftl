@@ -108,7 +108,6 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tipkaj manje, nađi više: Traži { $engineName } direktno u tvojoj adresnoj traci.
-urlbar-search-tips-redirect = Započni tvoju pretragu ovdje za prikaz prijedloga od { $engineName } i tvoju povijest pregledavanja.
 urlbar-search-tips-redirect-2 = Započni tvoju pretragu u adresnoj traci da biste vidjeli prijedloge od { $engineName } i tvoju povijest pregledavanja.
 
 ##
@@ -179,7 +178,7 @@ search-one-offs-context-open-new-tab =
     .label = Traži u novoj kartici
     .accesskey = t
 search-one-offs-context-set-as-default =
-    .label = Podesi kao zadanu tražilicu
+    .label = Postavi kao standardnu tražilicu
     .accesskey = d
 search-one-offs-context-set-as-default-private =
     .label = Postavi standardnu pretragu za privatne prozore

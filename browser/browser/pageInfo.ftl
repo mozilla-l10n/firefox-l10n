@@ -149,7 +149,7 @@ media-select-folder = Odaberi mapu za spremanje slika
 media-unknown-not-cached =
     .value = Nepoznato (nije spremljeno u predmemoriju)
 permissions-use-default =
-    .label = Koristi standardne postavke
+    .label = Koristi standardne vrijednosti
 security-no-visits = Ne
 # This string is used to display the number of meta tags
 # in the General Tab
