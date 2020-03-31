@@ -118,10 +118,10 @@ about-logins-reveal-password-os-auth-dialog-message = Potvrdi svoj identitet za 
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = prikaži spremljenu lozinku
 # This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Potvrdite svoj identitet kako biste kopirali spremljenu lozinku.
+about-logins-copy-password-os-auth-dialog-message = Potvrdi svoj identitet za kopiranje spremljene prijave.
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
-about-logins-copy-password-os-auth-dialog-message-macosx = kopirajte spremljenu lozinku
+about-logins-copy-password-os-auth-dialog-message-macosx = kopiraj spremljenu lozinku
 
 ## Master Password notification
 
@@ -140,10 +140,10 @@ enable-password-sync-notification-message =
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
-            [windows] Posjetite { -sync-brand-short-name } mogućnosti
-           *[other] Posjetite { -sync-brand-short-name } mogućnosti
+            [windows] Posjeti { -sync-brand-short-name } mogućnosti
+           *[other] Posjeti { -sync-brand-short-name } postavke
         }
-    .accesskey = m
+    .accesskey = P
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Ne pitaj me ponovo
     .accesskey = N
@@ -153,10 +153,10 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Odustani
 confirmation-dialog-dismiss-button =
     .title = Odustani
-about-logins-confirm-remove-dialog-title = Ukloni ovu prijavu?
+about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja je nepovratna.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
-confirm-discard-changes-dialog-title = Odbaci nespremljene izmjene?
+confirm-discard-changes-dialog-title = Odbaciti nespremljene izmjene?
 confirm-discard-changes-dialog-message = Sve nespremljene izmjene će biti izgubljene.
 confirm-discard-changes-dialog-confirm-button = Odbaci
 
