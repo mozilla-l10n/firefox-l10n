@@ -301,7 +301,7 @@ launcher-process-status-unknown = Nepoznato stanje
 # $totalWindows (integer) - Number of total windows
 multi-process-windows = { $remoteWindows }/{ $totalWindows }
 multi-process-status-0 = Omogućio korisnik
-multi-process-status-1 = Omogućeno prema zadanim postavkama
+multi-process-status-1 = Standardno omogućeno
 multi-process-status-2 = Onemogućeno
 multi-process-status-4 = Deaktivirano od alata za pristupačnost
 multi-process-status-6 = Onemogućio nepodržani unos teksta
