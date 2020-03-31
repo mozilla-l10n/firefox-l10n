@@ -7,7 +7,7 @@
 
 newtab-page-title = Nova kartica
 newtab-settings-button =
-    .title = Prilagodite svoju početnu stranicu nove kartice
+    .title = Prilagodi stranicu za nove kartice
 
 ## Search box component.
 
@@ -184,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Uh! Skoro smo učitali ova
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne teme:
 newtab-pocket-more-recommendations = Više preporuka
-newtab-pocket-whats-pocket = Što je { -pocket-brand-name }?
 newtab-pocket-learn-more = Saznaj više
 newtab-pocket-cta-button = Nabavi { -pocket-brand-name }
 newtab-pocket-cta-text = Spremi priče koje ti se sviđaju u { -pocket-brand-name } i napuni si mozak vrhunskim štivom.

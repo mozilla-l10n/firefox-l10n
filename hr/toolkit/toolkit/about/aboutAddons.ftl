@@ -334,7 +334,7 @@ install-theme-button = Instaliraj motiv
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Upravljanje
-find-more-addons = Pronađite više dodataka
+find-more-addons = Pronađi daljnje dodatke
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -453,11 +453,11 @@ plugin-heading = Upravljanje priključcima
 dictionary-heading = Upravljanje rječnicima
 locale-heading = Upravljanje jezicima
 updates-heading = Upravljaj svojim ažuriranjima
-discover-heading = Prilagodite svoj { -brand-short-name }
+discover-heading = Prilagodi svoj { -brand-short-name }
 shortcuts-heading = Upravljanje prečacima dodataka
 theme-heading-search-label = Pronađi daljnje motive
-extension-heading-search-label = Pronađite više dodataka
-default-heading-search-label = Pronađite više dodataka
+extension-heading-search-label = Pronađi daljnja proširenja
+default-heading-search-label = Pronađi daljnje dodatke
 addons-heading-search-input =
     .placeholder = Pretraži addons.mozilla.org
 addon-page-options-button =
