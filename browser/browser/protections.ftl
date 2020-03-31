@@ -38,7 +38,7 @@ protection-report-content-title = Zaštite privatnosti
 etp-card-title = Poboljšana zaštita od praćenja
 etp-card-content = Programi za praćenje prate tvoje radnje prilikom pregledavanja interneta i služe za prikupljanje podataka o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe kao i druge zlonamjerne skripte.
 protection-report-etp-card-content-custom-not-blocking = Sve zaštite su trenutačno isključene. Upravljaj programima za praćenje koje želiš blokirati u { -brand-short-name } postavkama zaštite.
-protection-report-manage-protections = Upravljanje postavkama
+protection-report-manage-protections = Upravljaj postavkama
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Danas
@@ -65,7 +65,6 @@ lockwise-header-content = { -lockwise-brand-name } sigurno sprema tvoje lozinke 
 lockwise-header-content-logged-in = Spremaj i sinkroniziraj lozinke na svim svojim uređajima na siguran način.
 protection-report-view-logins-button = Prikaži prijave
     .title = Idi na spremljene prijave
-lockwise-no-logins-content = Instaliraj program <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> i ponesi svoje lozinke sa sobom.
 lockwise-mobile-app-title = Ponesi svoje lozinke sa sobom
 lockwise-no-logins-card-content = Koristi lozinke koje su spremljene u { -brand-short-name }u na bilo kojem uređaju.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> i <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -80,7 +79,7 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Uključi { -sync-brand-short-name } …
     .title = Prijeđi na postavke sinkronizacije
-manage-connected-devices = Upravljanje uređajima…
+manage-connected-devices = Upravljaj uređajima …
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =

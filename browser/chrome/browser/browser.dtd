@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Prijavljen kao">
-<!ENTITY fxa.menu.manageAccount.label "Upravljanje računom…">
+<!ENTITY fxa.menu.manageAccount.label "Upravljaj računom …">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; mogućnosti…">
 
 <!ENTITY pictureInPictureHideToggle.label "Sakrij prekidač za slika-u-sliku">
@@ -250,10 +250,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Otvori ploču sa zahtjevima lokacije">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Otvori ploču za automatsku reprodukciju">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Otvori ploču s informacijama o instaliranim dodacima">
-<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljanje dozvolama za izdvajanje platna">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Upravljaj dozvolama za izdvajanje platna">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvori ploču s informacijama lokalnog spremišta">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvori ploču s informacijama o spremljenim lozinkama">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje korištenjem priključaka">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljaj korištenjem priključaka">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Promijeni postavke primanja obavijesti od ove stranice">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Spremaj podatke u trajnom spremištu">
 

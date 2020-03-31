@@ -632,7 +632,7 @@ sync-disconnect =
 sync-sign-out =
     .label = Odjavi se …
     .accesskey = O
-sync-manage-account = Upravljanje računom
+sync-manage-account = Upravljaj računom
     .accesskey = u
 sync-signedin-unverified = { $email } nije potvrđen.
 sync-signedin-login-failure = Prijavi se za ponovno povezivanje s { $email }
@@ -877,10 +877,10 @@ sitedata-clear =
     .label = Obriši podatke…
     .accesskey = O
 sitedata-settings =
-    .label = Upravljanje podacima
+    .label = Upravljaj podacima …
     .accesskey = m
 sitedata-cookies-permissions =
-    .label = Upravljanje dozvolama…
+    .label = Upravljaj dozvolama …
     .accesskey = U
 
 ## Privacy Section - Address Bar
