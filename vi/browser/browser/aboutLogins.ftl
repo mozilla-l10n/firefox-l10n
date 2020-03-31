@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Mở menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Nhập mật khẩu…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Nhập dữ liệu từ trình duyệt khác…
 menu-menuitem-preferences =
@@ -49,6 +47,7 @@ login-list-sort-label-text = Sắp xếp theo:
 login-list-name-option = Tên (A-Z)
 login-list-name-reverse-option = Tên (Z-A)
 login-list-breached-option = Trang web đã bị rò rỉ
+about-logins-login-list-alerts-option = Cảnh báo
 login-list-last-changed-option = Sửa đổi lần cuối
 login-list-last-used-option = Sử dụng lần cuối
 login-list-intro-title = Không tìm thấy thông tin đăng nhập
@@ -60,6 +59,8 @@ login-list-item-subtitle-new-login = Nhập thông tin đăng nhập của bạn
 login-list-item-subtitle-missing-username = (không có tên người dùng)
 about-logins-list-item-breach-icon =
     .title = Trang web bị rò rỉ
+about-logins-list-item-vulnerable-password-icon =
+    .title = Mật khẩu dễ bị tấn công
 
 ## Introduction screen
 
@@ -159,10 +160,25 @@ confirm-discard-changes-dialog-confirm-button = Loại bỏ
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Vi phạm trang web
 breach-alert-text = Mật khẩu đã bị rò rỉ hoặc đánh cắp từ trang web này kể từ lần cuối bạn cập nhật chi tiết đăng nhập. Thay đổi mật khẩu của bạn để bảo vệ tài khoản của bạn.
 breach-alert-link = Tìm hiểu thêm về rò rỉ này.
 breach-alert-dismiss =
     .title = Đóng cảnh báo này
+about-logins-breach-alert-date = Vi phạm này xảy ra vào { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Đi đến { $hostname }
+about-logins-breach-alert-learn-more-link = Tìm hiểu thêm
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Mật khẩu dễ bị tấn công
+about-logins-vulnerable-alert-text = Mật khẩu này đã bị rò rỉ hoặc bị đánh cắp bởi một công ty vi phạm dữ liệu. Việc sử dụng lại thông tin đăng nhập sẽ khiến tất cả các tài khoản của bạn gặp rủi ro. Để cải thiện bảo mật trực tuyến, hãy thay đổi mật khẩu này.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Đi đến { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Tìm hiểu thêm
 
 ## Error Messages
 
