@@ -16,7 +16,7 @@ login-filter =
     .placeholder = Pretraži prijave
 create-login-button = Stvori novu prijavu
 fxaccounts-sign-in-text = Dohvati svoje lozinke na drugim uređajima
-fxaccounts-sign-in-button = Prijavite se u { -sync-brand-short-name }
+fxaccounts-sign-in-button = Prijavi se u { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Upravljaj računom
 
@@ -25,7 +25,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Otvori izbornik
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Uvoz iz drugog preglednika…
+about-logins-menu-menuitem-import-from-another-browser = Uvezi iz jednog drugog preglednika …
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mogućnosti
@@ -49,8 +49,9 @@ login-list-sort-label-text = Poredaj po:
 login-list-name-option = Naziv (A-Z)
 login-list-name-reverse-option = Naziv (Z-A)
 login-list-breached-option = Hakirane web stranice
-login-list-last-changed-option = Zadnje izmijenjeno
-login-list-last-used-option = Posljednji put korišteno
+about-logins-login-list-alerts-option = Upozorenja
+login-list-last-changed-option = Zadnja promjena
+login-list-last-used-option = Zadnja upotreba
 login-list-intro-title = Nema prijava
 login-list-intro-description = Kada spremite lozinku u { -brand-product-name }, pojavit će se ovdje.
 about-logins-login-list-empty-search-title = Nema prijava
