@@ -24,7 +24,7 @@
 <!ENTITY projectMenu_remove_accesskey "R">
 <!ENTITY projectMenu_showPrefs_label "Osobitosti">
 <!ENTITY projectMenu_showPrefs_accesskey "s">
-<!ENTITY projectMenu_manageComponents_label "Upravljanje dodatnim komponentama">
+<!ENTITY projectMenu_manageComponents_label "Upravljaj dodatnim komponentama">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
 <!ENTITY projectMenu_refreshTabs_label "Osvježi kartice">
 
@@ -109,7 +109,7 @@
 <!ENTITY prefs_editor_title "Uređivač">
 <!ENTITY prefs_general_title "Opće">
 <!ENTITY prefs_restore "Vrati standardne vrijednosti">
-<!ENTITY prefs_manage_components "Upravljanje dodatnim komponentama">
+<!ENTITY prefs_manage_components "Upravljaj dodatnim komponentama">
 <!ENTITY prefs_options_autoconnectruntime "Ponovo se poveži s prethodnim vremenom izvršavanja">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Povezuje se s prethodnim vremenom izvršavanja kad se pokrene WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Zapamti zadnji projekt">

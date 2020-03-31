@@ -8,7 +8,7 @@
 <!ENTITY checkForUpdates                                     "Provjeri za dopune…">
 <!ENTITY blockedPlugin.label                                 "Ovaj je priključak blokiran radi vaše sigurnosti.">
 <!ENTITY hidePluginBtn.label                                 "Sakrij priključak">
-<!ENTITY managePlugins                                       "Upravljanje priključcima…">
+<!ENTITY managePlugins                                       "Upravljaj priključcima …">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->

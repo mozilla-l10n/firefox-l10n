@@ -447,7 +447,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Prijavite se u Sync">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Prijavi se na &syncBrand.shortName.label; …">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Uključi &syncBrand.shortName.label; …">
-<!ENTITY appMenuRemoteTabs.managedevices.label "Upravljanje uređajima…">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Upravljaj uređajima …">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Prikaz trake sinkroniziranih kartica">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Sakrij okvir sinkroniziranih kartica">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Poveži dodatni uređaj">
@@ -475,7 +475,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Automatski sakrij u alatnoj traci">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
-<!ENTITY customizeMenu.manageExtension.label "Upravljanje dodatkom">
+<!ENTITY customizeMenu.manageExtension.label "Upravljaj proširenjem">
 <!ENTITY customizeMenu.manageExtension.accesskey "e">
 <!ENTITY customizeMenu.removeExtension.label "Ukloni dodatak">
 <!ENTITY customizeMenu.removeExtension.accesskey "U">
@@ -973,8 +973,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection4.label "Praćenje sadržaja">
 
-<!ENTITY contentBlocking.manageSettings2.label "Upravljanje postavkama za zaštitu">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+<!ENTITY contentBlocking.manageSettings2.label "Upravljaj postavkama zaštite">
+<!ENTITY contentBlocking.manageSettings2.accesskey "U">
 
 <!ENTITY contentBlocking.socialblock.label "Programi za praćenje s društvenih mreža">
 
@@ -1060,7 +1060,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Radnje na stranici">
 <!ENTITY pageAction.addToUrlbar.label "Dodaj u adresnu traku">
 <!ENTITY pageAction.removeFromUrlbar.label "Ukloni iz adresne trake">
-<!ENTITY pageAction.manageExtension.label "Upravljanje dodatkom…">
+<!ENTITY pageAction.manageExtension.label "Upravljaj proširenjem …">
 
 <!ENTITY sendToDevice.syncNotReady.label "Sinkronizacija uređaja…">
 
