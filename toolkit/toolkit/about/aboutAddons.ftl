@@ -240,11 +240,11 @@ extensions-updates-updating =
 extensions-updates-installed =
     .value = Vaši su dodaci ažurirani.
 extensions-updates-downloaded =
-    .value = Dopune za vaše dodatke su preuzete.
+    .value = Dopune za tvoje dodatke su preuzete.
 extensions-updates-restart =
     .label = Ponovo pokreni odmah za dovršetak instalacije
 extensions-updates-none-found =
-    .value = Nisu pronađene dopune
+    .value = Nema dopuna
 extensions-updates-manual-updates-found =
     .label = Prikaži dostupne dopune
 extensions-updates-update-selected =
@@ -252,7 +252,7 @@ extensions-updates-update-selected =
     .tooltiptext = Instaliraj dostupne dopune s ovog popisa
 addon-updates-updating = Ažuriranje dodataka
 addon-updates-installed = Vaši su dodaci ažurirani.
-addon-updates-none-found = Nisu pronađene dopune
+addon-updates-none-found = Nema dopuna
 addon-updates-manual-updates-found = Prikaži dostupne dopune
 
 ## Add-on install/debug strings for page options menu
