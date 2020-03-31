@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = Postavke za čišćenje povijesti
+    .title = Postavke za brisanje povijesti
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em
@@ -26,7 +26,7 @@ clear-data-settings-label = Kada je zatvoren, { -brand-short-name } bi automatsk
 ## Time range to clear: (Last Hour, Today, etc.)
 
 clear-time-duration-prefix =
-    .value = Vremeski opseg za čišćenje:{ " " }
+    .value = Vremenski raspon za brisanje:{ " " }
     .accesskey = o
 clear-time-duration-value-last-hour =
     .label = zadnji sat
@@ -75,7 +75,7 @@ sanitize-button-ok =
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
-    .label = Čišćenje
+    .label = Brisanje
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
@@ -83,4 +83,4 @@ sanitize-everything-warning = Obrisat će se sva povijest.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
-sanitize-selected-warning = Sve će odabrane stavke biti očišćene.
+sanitize-selected-warning = Obrisat će se sve će odabrane stavke.
