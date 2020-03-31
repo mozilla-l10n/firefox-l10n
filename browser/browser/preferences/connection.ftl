@@ -82,8 +82,8 @@ connection-dns-over-https-url-resolver = Koristi pružatelja usluge
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
-    .label = { $name } (zadano)
-    .tooltiptext = Koristi zadani URL za DNS preko HTTPS
+    .label = { $name } (standardno)
+    .tooltiptext = Koristi standardni URL za rješavanje DNS-a preko HTTPS-a
 connection-dns-over-https-url-custom =
     .label = Prilagođeno
     .accesskey = o

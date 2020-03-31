@@ -141,6 +141,6 @@ fonts-languages-fallback-name-other =
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
-    .label = Zadano ({ $name })
+    .label = Standardno ({ $name })
 fonts-label-default-unnamed =
-    .label = Zadano
+    .label = Standardno

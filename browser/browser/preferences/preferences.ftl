@@ -126,12 +126,12 @@ use-firefox-sync = Savjet: Ovo koristi odvojene profile. Koristi { -sync-brand-s
 get-started-not-logged-in = Prijavite se u { -sync-brand-short-name }…
 get-started-configured = Otvori { -sync-brand-short-name } postavke
 always-check-default =
-    .label = Uvijek provjeri je li { -brand-short-name } zadani preglednik
+    .label = Uvijek provjeri je li { -brand-short-name } standardni preglednik
     .accesskey = z
-is-default = { -brand-short-name } je trenutačno tvoj zadani preglednik
-is-not-default = { -brand-short-name } trenutačno nije tvoj zadani preglednik
+is-default = { -brand-short-name } je trenutačno tvoj standardni preglednik
+is-not-default = { -brand-short-name } trenutačno nije tvoj standardni preglednik
 set-as-my-default-browser =
-    .label = Postavi kao zadano…
+    .label = Postavi kao standardni …
     .accesskey = d
 startup-restore-previous-session =
     .label = Vrati prethodnu sesiju
@@ -196,7 +196,7 @@ containers-remove-cancel-button = Nemoj ukloniti ovaj kontejner
 
 language-and-appearance-header = Jezik i izgled
 fonts-and-colors-header = Fontovi i boje
-default-font = Zadani font
+default-font = Standardni font
     .accesskey = d
 default-font-size = Veličina
     .accesskey = V
@@ -396,7 +396,7 @@ performance-limit-content-process-blocked-desc = Izmjena broja procesa sadržaja
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
 performance-default-content-process-count =
-    .label = { $num } (zadano)
+    .label = { $num } (standardno)
 
 ## General Section - Browsing
 
@@ -447,12 +447,12 @@ home-new-windows-tabs-description2 = Odaberi što vidiš kad otvoriš svoju poč
 home-homepage-mode-label = Početna stranica i novi prozori
 home-newtabs-mode-label = Nove kartice
 home-restore-defaults =
-    .label = Vrati zadano
+    .label = Vrati standardne vrijednosti
     .accesskey = r
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
-    .label = Firefox početna (zadano)
+    .label = Početna Firefox stranica (standardno)
 home-mode-choice-custom =
     .label = Prilagođeni URL-ovi…
 home-mode-choice-blank =
@@ -524,9 +524,9 @@ search-bar-hidden =
     .label = Koristite adresnu traku za pretraživanje i navigaciju
 search-bar-shown =
     .label = Dodaj traku pretraživanja u alatnu traku
-search-engine-default-header = Zadana tražilica
+search-engine-default-header = Standardna tražilica
 search-engine-default-desc = Odaberi standardni preglednik koji će se koristiti u adresnoj traci i traci pretraživanja.
-search-engine-default-desc-2 = Ovo je zadana tražilica u adresnoj traci i traci za pretraživanje. Možeš je promijeniti u bilo koje vrijeme.
+search-engine-default-desc-2 = Ovo je standardna tražilica u adresnoj traci i traci za pretraživanje. Možeš je promijeniti u bilo koje vrijeme.
 search-engine-default-private-desc-2 = Odaberi jednu drugi standardnu tražilicu samo za Privatne prozore
 search-separate-default-engine =
     .label = Koristi ovu tražilicu u privatnim prozorima

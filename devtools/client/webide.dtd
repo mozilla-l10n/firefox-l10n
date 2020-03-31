@@ -108,7 +108,7 @@
 <!ENTITY prefs_title "Postavke">
 <!ENTITY prefs_editor_title "Uređivač">
 <!ENTITY prefs_general_title "Opće">
-<!ENTITY prefs_restore "Vrati zadano">
+<!ENTITY prefs_restore "Vrati standardne vrijednosti">
 <!ENTITY prefs_manage_components "Upravljanje dodatnim komponentama">
 <!ENTITY prefs_options_autoconnectruntime "Ponovo se poveži s prethodnim vremenom izvršavanja">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Povezuje se s prethodnim vremenom izvršavanja kad se pokrene WebIDE">
