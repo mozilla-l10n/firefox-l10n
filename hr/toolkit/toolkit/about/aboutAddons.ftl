@@ -270,10 +270,10 @@ manage-extensions-shortcuts =
     .label = Upravljaj tipkovničkim prečacima dodatka
     .accesskey = U
 # This is displayed in the page options menu
-addon-manage-extensions-shortcuts = Upravljanje tipkovničkim kraticama dodatka
+addon-manage-extensions-shortcuts = Upravljaj tipkovničkim prečacima dodatka
     .accesskey = U
 shortcuts-no-addons = Nemaš uključenih proširenja.
-shortcuts-no-commands = Sljedeći dodaci nemaju prečice:
+shortcuts-no-commands = Sljedeći dodaci nemaju prečace:
 shortcuts-input =
     .placeholder = Upišite prečac
 shortcuts-browserAction = Aktiviraj dodatak
@@ -282,14 +282,14 @@ shortcuts-sidebarAction = Prikaži/sakrij bočnu traku
 shortcuts-modifier-mac = Uključi Ctrl, Alt ili ⌘
 shortcuts-modifier-other = Uključi Ctrl ili Alt
 shortcuts-invalid = Nepodržana kombinacija
-shortcuts-letter = Upišite slovo
+shortcuts-letter = Upiši slovo
 shortcuts-system = Nije moguće izmijeniti { -brand-short-name } prečac
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Duplikat prečice
 # String displayed when a keyboard shortcut is already assigned to more than one add-on
 # Variables:
 #   $shortcut (string) - Shortcut string for the add-on
-shortcuts-duplicate-warning-message = { $shortcut } se koristi kao prečica u više od jednog slučaja. Duplikati prečice mogu uzrokovati neočekivano ponašanje.
+shortcuts-duplicate-warning-message = { $shortcut } se koristi kao prečac u više od jednog slučaja. Dupli prečaci mogu prouzročiti neočekivano ponašanje.
 # String displayed when a keyboard shortcut is already used by another add-on
 # Variables:
 #   $addon (string) - Name of the add-on
@@ -454,7 +454,7 @@ dictionary-heading = Upravljanje rječnicima
 locale-heading = Upravljanje jezicima
 updates-heading = Upravljaj svojim ažuriranjima
 discover-heading = Prilagodi svoj { -brand-short-name }
-shortcuts-heading = Upravljanje prečacima dodataka
+shortcuts-heading = Upravljaj prečacima dodataka
 theme-heading-search-label = Pronađi daljnje motive
 extension-heading-search-label = Pronađi daljnja proširenja
 default-heading-search-label = Pronađi daljnje dodatke
