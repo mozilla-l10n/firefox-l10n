@@ -166,10 +166,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Aggiornamenti disponibili
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Consigli
 addon-category-extension = Estensioni
+addon-category-theme = Temi
 addon-category-plugin = Plugin
 addon-category-dictionary = Dizionari
 addon-category-locale = Lingue
+addon-category-available-updates = Aggiornamenti disponibili
+addon-category-recent-updates = Aggiornamenti recenti
 
 ## These are global warnings
 
