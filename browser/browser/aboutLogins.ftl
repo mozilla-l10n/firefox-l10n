@@ -166,6 +166,7 @@ breach-alert-text = Los senhals d’aqueste site foguèron panats o divulgats de
 breach-alert-link = Ne saber mai tocant aquesta pèrda de donadas.
 breach-alert-dismiss =
     .title = Tampar aquesta alèrta
+about-logins-breach-alert-date = Aquesta divulgacion se passèt lo { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Accedir a { $hostname }
@@ -174,6 +175,7 @@ about-logins-breach-alert-learn-more-link = Ne saber mai
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Senhal vulnerable
+about-logins-vulnerable-alert-text = Aqueste senhal es estat divulgat o panat pendent una pèrda de donadas d’una autra entrepresa. Tornar utilizar aqueste senhal es perilhós per vòstres comptes. Per melhorar vòstra seguretat en linha, modificatz aqueste senhal.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Accedir a { $hostname }
