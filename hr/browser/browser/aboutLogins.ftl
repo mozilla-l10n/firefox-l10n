@@ -156,19 +156,30 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Ukloniti ovu prijavu?
 confirm-delete-dialog-message = Ova radnja je nepovratna.
 about-logins-confirm-remove-dialog-confirm-button = Ukloni
-confirm-discard-changes-dialog-title = Odbaciti nespremljene izmjene?
-confirm-discard-changes-dialog-message = Sve nespremljene izmjene će biti izgubljene.
+confirm-discard-changes-dialog-title = Odbaciti nespremljene promjene?
+confirm-discard-changes-dialog-message = Sve nespremljene promjene će se izgubiti.
 confirm-discard-changes-dialog-confirm-button = Odbaci
 
 ## Breach Alert notification
 
-breach-alert-text = Lozinke su ukradene ili su procurile s ove stranice od kada ste zadnji puta ažurirali svoje podatke za prijavu. Izmijenite svoju lozinku kako biste zaštitili svoj račun.
+about-logins-breach-alert-title = Hakirana web-stranica
+breach-alert-text = Lozinke su procurile ili su ukradene s ove web-stranice od kad si zadnji puta aktualizirao/la svoje podatke za prijavu. Promijeni svoju lozinku kako bi zaštitio/la svoj račun.
 breach-alert-link = Saznaj više o ovom curenju podataka.
 breach-alert-dismiss =
     .title = Zatvori ovo upozorenje
+about-logins-breach-alert-date = Curenje podataka dogodilo se { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Idi na { $hostname }
+about-logins-breach-alert-learn-more-link = Saznaj više
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Ranjiva lozinka
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Idi na { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Saznaj više
 
 ## Error Messages
 
