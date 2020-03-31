@@ -60,6 +60,8 @@ login-list-item-subtitle-new-login = Hesap bilgilerinizi girin
 login-list-item-subtitle-missing-username = (kullanıcı adı yok)
 about-logins-list-item-breach-icon =
     .title = Bu site ihlale uğramış
+about-logins-list-item-vulnerable-password-icon =
+    .title = Güvensiz parola
 
 ## Introduction screen
 
@@ -164,12 +166,16 @@ breach-alert-text = Giriş bilgilerinizi son güncellemenizden bu yana bu web si
 breach-alert-link = Bu ihlal hakkında daha fazla bilgi edinin.
 breach-alert-dismiss =
     .title = Bu uyarıyı kapat
+about-logins-breach-alert-date = Bu ihlal { DATETIME($date, day: "numeric", month: "long", year: "numeric") } tarihinde meydana geldi
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } sitesine git
+about-logins-breach-alert-learn-more-link = Daha fazla bilgi al
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Güvensiz Parola
+about-logins-vulnerable-alert-text = Bu parola, başka bir şirketin yaşadığı veri ihlali kapsamında sızdırılmış veya çalınmış. Aynı parolayı başka yerlerde kullanmak tüm hesaplarınızı tehlikeye atar. Güvenliğinizi artırmak için bu parolayı değiştirin.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } sitesine git
