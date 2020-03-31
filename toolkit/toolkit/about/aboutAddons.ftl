@@ -317,8 +317,8 @@ discopane-intro =
     sigurnost, perfomanse i funkcionalnost.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
-    Neki prijedlozi su personalizirani. Bazirani su na drugim dodacima koje
-    ste već instalirali, postavkama profila ili statistici korištenja.
+    Neki prijedlozi su specifični za tebe, jer se temelje na drugim već instaliranim
+    proširenjima, na postavkama profila ili na statistici korištenja.
 discopane-notice-learn-more = Saznaj više
 privacy-policy = Politika privatnosti
 # Refers to the author of an add-on, shown below the name of the add-on.
