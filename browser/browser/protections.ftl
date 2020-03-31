@@ -63,7 +63,6 @@ lockwise-header-content = O { -lockwise-brand-name } guarda as suas palavras-pas
 lockwise-header-content-logged-in = Guarde e sincronize em segurança as suas palavras-passe em todos os seus dispositivos.
 protection-report-view-logins-button = Ver credenciais
     .title = Ir para Credenciais guardadas
-lockwise-no-logins-content = Obtenha a aplicação <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para levar as suas palavras-passe para qualquer lugar.
 lockwise-mobile-app-title = Leve as suas palavras-passe para todo o lado
 lockwise-no-logins-card-content = Utilize as palavras-passe guardadas no { -brand-short-name } em qualquer dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -87,9 +86,9 @@ lockwise-connected-device-status =
     }
 monitor-title = Procurar por violações de dados
 monitor-link = Como funciona
-monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas intrusões.
-monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa violação de dados conhecida.
-monitor-sign-up = Registar para Alertas de violação
+monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma intrusão de dados conhecida e para obter alertas sobre novas intrusões.
+monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa intrusão de dados conhecida.
+monitor-sign-up = Registar para Alertas de intrusão
 auto-scan = Analisado hoje, de forma automática
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -104,8 +103,8 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] violação de dados conhecida que expôs a sua informação
-       *[other] violações de dados conhecidas que expuseram a sua informação
+        [one] intrusão de dados conhecida que expôs a sua informação
+       *[other] intrusões de dados conhecidas que expuseram a sua informação
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
@@ -121,8 +120,8 @@ full-report-link = Ver o relatório completo em <a data-l10n-name="monitor-inlin
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-        [one] As credenciais guardadas podem ser expostas numa violação de dados. Altere esta palavra-passe para uma melhor segurança on-line. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
-       *[other] As credenciais guardadas podem ser expostas numa violação de dados. Altere estas palavras-passe para uma melhor segurança on-line. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
+        [one] A credencial guardada pode ter sido exposta numa intrusão de dados. Altere esta palavra-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
+       *[other] As credenciais guardadas podem ter sido expostas numa intrusão de dados. Altere estas palavras-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
     }
 
 ## The title attribute is used to display the type of protection.
