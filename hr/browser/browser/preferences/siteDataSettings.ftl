@@ -6,7 +6,7 @@
 ## Settings
 
 site-data-settings-window =
-    .title = Upravljanje kolačićima i podacima web stranice
+    .title = Upravljaj kolačićima i podacima web-stranica
 site-data-settings-description = Sljedeće stranice spremaju kolačiće i podatke web stranice na tvom računalu. { -brand-short-name } čuva podatke s web stranica koje ih trajno spremaju, sve dok ih ne izbrišeš i briše podatke od stranica koje ne spremaju podatke trajno, ako je potrebno više prostora.
 site-data-search-textbox =
     .placeholder = Pretraži web stranice
