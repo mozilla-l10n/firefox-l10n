@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Адкрыць меню
-# This menuitem is only visible on Windows
-menu-menuitem-import = Імпартаваць паролі…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Імпартаваць з іншага браўзера…
 menu-menuitem-preferences =
@@ -51,6 +49,7 @@ login-list-sort-label-text = Парадкаванне:
 login-list-name-option = Назва (А-Я)
 login-list-name-reverse-option = Назва (Я-А)
 login-list-breached-option = Узламаныя сайты
+about-logins-login-list-alerts-option = Папярэджанні
 login-list-last-changed-option = Апошняе змяненне
 login-list-last-used-option = Апошняе выкарыстанне
 login-list-intro-title = Лагіны не знойдзены
@@ -165,6 +164,9 @@ breach-alert-text = З моманту апошняга абнаўлення да
 breach-alert-link = Даведацца больш пра гэту ўцечку.
 breach-alert-dismiss =
     .title = Закрыць гэта папярэджанне
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
