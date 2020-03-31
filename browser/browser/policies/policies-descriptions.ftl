@@ -83,7 +83,7 @@ policy-Proxy = Podesi proxy postavke.
 policy-RequestedLocales = Postavite popis traženih jezika za aplikaciju prema redosljedu preferencija.
 policy-SanitizeOnShutdown2 = Brisanje podataka pretraživanja prilikom gašenja.
 policy-SearchBar = Postavite zadanu lokaciju za traku za pretraživanje. Korisnik je i dalje može prilagoditi.
-policy-SearchEngines = Prilagodi postavke pretraživača. Ovo pravilo je dostupno samo u verziji proširene podrške (ESR).
+policy-SearchEngines = Prilagodi postavke tražilice. Ovo pravilo dostupno je samo u verziji proširene podrške (ESR).
 policy-SearchSuggestEnabled = Aktiviraj ili deaktiviraj prijedloge za pretraživanje.
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Instaliraj PKCS #11 module.
