@@ -29,15 +29,15 @@ create-profile-last-page-header =
         [macos] Zaključak
        *[other] Dovršavanje { create-profile-window.title }
     }
-profile-creation-intro = Ako stvorite nekoliko profila, možete ih razlikovati po njihovim imenima. Možete koristiti imena koja su zadana ovdje ili stvoriti svoja vlastita.
+profile-creation-intro = Ako stvoriš nekoliko profila, možeš ih razlikovati po njihovim imenima. Možeš koristiti imena koja su ovdje zadana ili stvoriti svoja vlastita.
 profile-prompt = Upiši ime novog profila:
     .accesskey = e
 profile-default-name =
-    .value = Zadani korisnik
+    .value = Standardni korisnik
 profile-directory-explanation = Vaše korisničke postavke, osobitosti i ostali korisnički podaciti biti će spremljeni u:
 create-profile-choose-folder =
     .label = Odaberi mapu...
     .accesskey = m
 create-profile-use-default =
-    .label = Koristi zadanu mapu
+    .label = Koristi standardnu mapu
     .accesskey = u

@@ -14,12 +14,12 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "Za početak izrade profile, kliknite Dalje.">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "Ako stvorite nekoliko profila, možete ih razlikovati po njihovim imenima. Možete koristiti imena koja su zadana ovdje ili stvoriti svoja vlastita.">
+<!ENTITY profileCreationIntro.text      "Ako stvoriš nekoliko profila, možeš ih razlikovati po njihovim imenima. Možeš koristiti imena koja su ovdje zadana ili stvoriti svoja vlastita.">
 <!ENTITY profilePrompt.label            "Upiši ime novog profila:">
 <!ENTITY profilePrompt.accesskey        "e">
 <!ENTITY profileDirectoryExplanation.text   "Vaše korisničke postavke, osobitosti i ostali korisnički podaciti biti će spremljeni u:">
-<!ENTITY profileDefaultName             "Zadani korisnik">
+<!ENTITY profileDefaultName             "Standardni korisnik">
 <!ENTITY button.choosefolder.label      "Odaberi mapu...">
 <!ENTITY button.choosefolder.accesskey  "m">
-<!ENTITY button.usedefault.label        "Koristi zadanu mapu">
+<!ENTITY button.usedefault.label        "Koristi standardnu mapu">
 <!ENTITY button.usedefault.accesskey    "u">

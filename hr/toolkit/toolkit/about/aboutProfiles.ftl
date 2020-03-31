@@ -16,7 +16,7 @@ profiles-flush-restart-button = Ponovo pokreni { -brand-short-name }
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Profil: { $name }
-profiles-is-default = Zadani profil
+profiles-is-default = Standardni profil
 profiles-rootdir = Korijenski direktorij
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
@@ -29,10 +29,10 @@ profiles-current-profile = Ovaj se profil trenutno koristi i ne može se obrisat
 profiles-in-use-profile = Ovaj profil upotrebljava druga aplikacija i ne može se izbrisati.
 profiles-rename = Preimenuj
 profiles-remove = Ukloni
-profiles-set-as-default = Postavi kao zadani profil
+profiles-set-as-default = Postavi kao standardni profil
 profiles-launch-profile = Pokreni profil u novom pregledniku
 profiles-cannot-set-as-default-title = Nije moguće postaviti standardnu vrijednost
-profiles-cannot-set-as-default-message = Zadani profil se ne može izmijeniti za { -brand-short-name }
+profiles-cannot-set-as-default-message = Standardni profil se ne može promijeniti za { -brand-short-name }.
 profiles-yes = da
 profiles-no = ne
 profiles-rename-profile-title = Preimenuj profil

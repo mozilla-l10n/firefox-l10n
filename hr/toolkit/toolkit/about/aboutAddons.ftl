@@ -87,8 +87,8 @@ detail-contributions-button = Doprinesite
 detail-update-type =
     .value = Automatske dopune
 detail-update-default =
-    .label = Zadano
-    .tooltiptext = Instaliraj dopune automatski samo ako je to zadana postavka
+    .label = Standardno
+    .tooltiptext = Instaliraj dopune automatski samo ako je to standardno postavljeno
 detail-update-automatic =
     .label = Uključeno
     .tooltiptext = Automatski instaliraj dopune
@@ -267,7 +267,7 @@ addon-open-about-debugging = Otklanjanje grešaka u dodacima
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
-    .label = Upravljanje tipkovničkim kraticama dodatka
+    .label = Upravljaj tipkovničkim prečacima dodatka
     .accesskey = U
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Upravljanje tipkovničkim kraticama dodatka
@@ -407,7 +407,7 @@ addon-detail-reviews-link =
 pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span> je uklonjen.
 pending-uninstall-undo-button = Vrati
 addon-detail-updates-label = Dozvoli automatska ažuriranja
-addon-detail-updates-radio-default = Zadano
+addon-detail-updates-radio-default = Standardno
 addon-detail-updates-radio-on = Uključeno
 addon-detail-updates-radio-off = Isključeno
 addon-detail-update-check-label = Provjeri dostupnost dopuna

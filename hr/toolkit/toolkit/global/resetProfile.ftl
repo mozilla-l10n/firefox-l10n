@@ -9,6 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = Započni ispočetka kako bi se popravili problemi i obnovila performansa.
 refresh-profile-description-details = Ovo će:
 refresh-profile-remove = Ukloniti tvoje dodatke i prilagodbe
-refresh-profile-restore = Vratiti postavke preglednika na standardne vrijednosti
+refresh-profile-restore = Vrati postavke preglednika na standardne vrijednosti
 refresh-profile = Podesi { -brand-short-name }
 refresh-profile-button = Osvježi { -brand-short-name } …
