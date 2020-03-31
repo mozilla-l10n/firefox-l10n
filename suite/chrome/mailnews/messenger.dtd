@@ -114,8 +114,8 @@
 <!ENTITY redoDefaultCmd.label "Refazer">
 
 <!-- View Menu -->
-<!ENTITY showMessengerToolbarCmd.label "Padrão">
-<!ENTITY showMessengerToolbarCmd.accesskey "a">
+<!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas de e-mai">
+<!ENTITY showMessengerToolbarCmd.accesskey "m">
 <!ENTITY showSearchToolbarCmd.label "Barra de pesquisa">
 <!ENTITY showSearchToolbarCmd.accesskey "a">
 <!ENTITY showTabsToolbarCmd.label "Barra de ferramentas de abas">

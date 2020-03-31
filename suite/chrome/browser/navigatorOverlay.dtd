@@ -16,6 +16,12 @@
 <!ENTITY closeOtherTabs.label "Fechar as outras abas">
 <!ENTITY closeOtherTabs.accesskey "o">
 
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Fechar abas à direita">
+<!ENTITY  closeTabsToTheEnd.accesskey "i">
+
 <!ENTITY uploadFile.label "Enviar arquivo">
 <!ENTITY uploadFile.accesskey "E">
 
