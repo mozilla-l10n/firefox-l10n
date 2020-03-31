@@ -333,7 +333,7 @@ install-extension-button = Dodaj u { -brand-product-name }
 install-theme-button = Instaliraj motiv
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
-manage-addon-button = Upravljanje
+manage-addon-button = Upravljaj
 find-more-addons = Pronađi daljnje dodatke
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
@@ -447,11 +447,11 @@ recommended-theme-1 = Osjećate li se kreativno? <a data-l10n-name="link">Izradi
 
 ## Page headings
 
-extension-heading = Upravljanje dodacima
+extension-heading = Upravljaj dodacima
 theme-heading = Upravljaj motivima
-plugin-heading = Upravljanje priključcima
-dictionary-heading = Upravljanje rječnicima
-locale-heading = Upravljanje jezicima
+plugin-heading = Upravljaj priključcima
+dictionary-heading = Upravljaj rječnicima
+locale-heading = Upravljaj jezicima
 updates-heading = Upravljaj svojim ažuriranjima
 discover-heading = Prilagodi svoj { -brand-short-name }
 shortcuts-heading = Upravljaj prečacima dodataka
