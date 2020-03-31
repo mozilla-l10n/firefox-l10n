@@ -176,6 +176,7 @@ about-logins-breach-alert-learn-more-link = Saznaj više
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ranjiva lozinka
+about-logins-vulnerable-alert-text = Ova je lozinka procurila ili je ukradena zbog curenja podataka druge tvrtke. Ponovna upotreba vjerodajnica riskira sve tvoje račune. Preporučujemo da promijeniš ovu lozinku.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Idi na { $hostname }
