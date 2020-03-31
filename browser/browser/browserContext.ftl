@@ -12,7 +12,7 @@ navbar-tooltip-instruction =
 ## Back
 
 main-context-menu-back =
-    .tooltiptext = Natrag za jednu stranicu
+    .tooltiptext = Idi jednu stranicu natrag
     .aria-label = Natrag
     .accesskey = N
 navbar-tooltip-back =
@@ -23,7 +23,7 @@ toolbar-button-back =
 ## Forward
 
 main-context-menu-forward =
-    .tooltiptext = Naprijed za jednu stranicu
+    .tooltiptext = Idi jednu stranicu naprijed
     .aria-label = Naprijed
     .accesskey = a
 navbar-tooltip-forward =
