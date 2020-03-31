@@ -86,9 +86,9 @@ lockwise-connected-device-status =
     }
 monitor-title = Procurar por violações de dados
 monitor-link = Como funciona
-monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma intrusão de dados conhecida e para obter alertas sobre novas intrusões.
-monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa intrusão de dados conhecida.
-monitor-sign-up = Registar para Alertas de intrusão
+monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma falha de segurança de dados conhecida e para obter alertas sobre novas falhas de segurança.
+monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa falha de segurança de dados conhecida.
+monitor-sign-up = Registar para Alertas de falhas de segurança
 auto-scan = Analisado hoje, de forma automática
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -103,8 +103,8 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] intrusão de dados conhecida que expôs a sua informação
-       *[other] intrusões de dados conhecidas que expuseram a sua informação
+        [one] Falha de segurança de dados conhecida que expôs a sua informação
+       *[other] Falhas de segurança de dados conhecidas que expuseram a sua informação
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
@@ -120,8 +120,8 @@ full-report-link = Ver o relatório completo em <a data-l10n-name="monitor-inlin
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-        [one] A credencial guardada pode ter sido exposta numa intrusão de dados. Altere esta palavra-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
-       *[other] As credenciais guardadas podem ter sido expostas numa intrusão de dados. Altere estas palavras-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
+        [one] A credencial guardada pode ter sido exposta numa falha de segurança de dados. Altere esta palavra-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
+       *[other] As credenciais guardadas podem ter sido expostas numa falha de segurança de dados. Altere estas palavras-passe para melhorar a sua segurança na Internet. <a data-l10n-name="lockwise-link">Ver credenciais guardadas</a>
     }
 
 ## The title attribute is used to display the type of protection.

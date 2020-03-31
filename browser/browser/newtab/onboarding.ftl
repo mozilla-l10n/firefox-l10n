@@ -80,7 +80,7 @@ onboarding-benefit-privacy-text = Tudo o que fazemos honra a nossa Promessa de D
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Leve os seus marcadores, palavras-passe, histórico e muito mais para qualquer lugar onde utilize o { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Seja notificado quando a sua informação pessoal estiver numa intrusão de dados conhecida.
+onboarding-benefit-monitor-text = Seja notificado quando a sua informação pessoal estiver numa falha de segurança de dados conhecida.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Faça a gestão de palavras-passe que estão protegidas e portáteis.
 
@@ -111,7 +111,7 @@ onboarding-data-sync-text2 = Sincronize os seus marcadores, palavras-passe e mai
 onboarding-data-sync-button2 = Iniciar sessão no { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Fique atento(a) às brechas de dados
 onboarding-firefox-monitor-text = O { -monitor-brand-name } monitoriza se o seu email aparecer numa brecha de dados e alerta-lhe se este aparecer numa nova brecha.
-onboarding-firefox-monitor-text2 = O { -monitor-brand-name } monitoriza se o seu e-mail apareceu numa intrusão de dados conhecida e avisa-o se este aparecer numa nova intrusão.
+onboarding-firefox-monitor-text2 = O { -monitor-brand-name } monitoriza se o seu e-mail apareceu numa falha de segurança de dados conhecida e avisa-o se este aparecer numa nova falha de segurança.
 onboarding-firefox-monitor-button = Registar-se para alertas
 onboarding-browse-privately-title = Navegue privadamente
 onboarding-browse-privately-text = A navegação privada limpa o seu histórico de pesquisa e de navegação para os manter em segredo de quem utiliza o seu computador.
