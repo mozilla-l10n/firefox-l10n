@@ -562,7 +562,7 @@ search-restore-default =
 search-remove-engine =
     .label = Ukloni
     .accesskey = U
-search-find-more-link = Pronađi još pretraživača
+search-find-more-link = Pronađi daljnje tražilice
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Postojeća ključna riječ
