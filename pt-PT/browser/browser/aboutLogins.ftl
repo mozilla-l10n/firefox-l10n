@@ -179,6 +179,7 @@ about-logins-vulnerable-alert-text = Esta palavra-passe foi divulgada ou roubada
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ir para { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Saber mais
 
 ## Error Messages
 
