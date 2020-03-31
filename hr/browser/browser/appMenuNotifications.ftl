@@ -3,12 +3,12 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 appmenu-update-available =
-    .label = Novo { -brand-shorter-name } ažuriranje je dostupno.
-    .buttonlabel = Preuzmi ažuriranje
+    .label = Dostupna je nova { -brand-shorter-name } verzija.
+    .buttonlabel = Preuzmi nadogradnju
     .buttonaccesskey = P
     .secondarybuttonlabel = Ne sada
     .secondarybuttonaccesskey = N
-appmenu-update-available-message = Ažurirajte { -brand-shorter-name } za brže i sigurnije iskustvo.
+appmenu-update-available-message = Aktualiziraj { -brand-shorter-name } za najnoviju brzinu i sigurnost.
 appmenu-update-manual =
     .label = { -brand-shorter-name } nije moguće aktualizirati na najnoviju verziju.
     .buttonlabel = Preuzmi { -brand-shorter-name }
