@@ -67,7 +67,7 @@ item-site-preferences =
 item-offline-apps =
     .label = Podaci izvanmrežnih stranica
     .accesskey = n
-sanitize-everything-undo-warning = Ovaj se potez neće moći poništiti.
+sanitize-everything-undo-warning = Ova radnja je nepovratna.
 window-close =
     .key = w
 sanitize-button-ok =
@@ -79,7 +79,7 @@ sanitize-button-clearing =
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
-sanitize-everything-warning = Sva će povijest biti očišćena.
+sanitize-everything-warning = Obrisat će se sva povijest.
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.
