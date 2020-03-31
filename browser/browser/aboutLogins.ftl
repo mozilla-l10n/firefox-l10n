@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Meni wócyniś
-# This menuitem is only visible on Windows
-menu-menuitem-import = Gronidła importěrowaś…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Z drugego wobglědowaka importěrowaś…
 menu-menuitem-preferences =
@@ -52,6 +50,7 @@ login-list-sort-label-text = Sortěrowaś pó:
 login-list-name-option = Mjenju (A-Z)
 login-list-name-reverse-option = Mě (A-Z)
 login-list-breached-option = Zranjone websedła
+about-logins-login-list-alerts-option = Warnowanja
 login-list-last-changed-option = Slědnej změnje
 login-list-last-used-option = Slědnem wužyśu
 login-list-intro-title = Žedne pśizjawjenja namakane
@@ -162,10 +161,23 @@ confirm-discard-changes-dialog-confirm-button = Zachyśiś
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Datowa źěra websedła
 breach-alert-text = Gronidła su se z toś togo websedła roznjasli abo kšadnuli, wót togo, až sćo zaktualizěrował swóje pśizjawjeńske daty slědny raz. Změńśo swójo gronidło, aby swójo konto šćitał.
 breach-alert-link = Zgóńśo wěcej wó toś tej źěrje
 breach-alert-dismiss =
     .title = Toś to warnowanje zacyniś
+about-logins-breach-alert-date = Toś ta datowa źěra jo nastała { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = K { $hostname }
+about-logins-breach-alert-learn-more-link = Dalšne informacije
+
+## Vulnerable Password notification
+
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = K { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Dalšne informacije
 
 ## Error Messages
 
