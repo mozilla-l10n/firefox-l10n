@@ -9,7 +9,7 @@
 
 crash-reports-title = Izvještaji rušenja
 submit-all-button-label = Pošalji sve
-delete-button-label = Očisti sve
+delete-button-label = Obriši sve
 delete-confirm-title = Jeste li sigurni?
 delete-unsubmitted-description = Ovo će obrisati sve neposlane izvještaje i oni više neće biti dostupni.
 delete-submitted-description = Ovime ćeš ukloniti popis poslanih izvještaja rušenja, ali nećeš obrisati poslane podatke. Ova radnja je nepovratna.
