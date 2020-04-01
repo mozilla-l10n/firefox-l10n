@@ -14,10 +14,17 @@
 <!ENTITY encryptionCert.message "Utilizar este certificado para encriptar e desencriptar mensagens enviadas para si:">
 
 <!ENTITY e2eTitle.label "Criptografia de ponta a ponta">
+<!ENTITY e2eIntro.description "Para enviar mensagens encriptadas ou assinadas digitalmente, tem de configurar uma tecnologia de encriptação, OpenPGP ou S/MIME.">
 <!ENTITY e2eLearnMore.label "Saber mais">
 
+<!ENTITY e2eEnc.description "Sem encriptação de ponta-a-ponta, os conteúdos das mensagens são facilmente expostos ao seu provedor de e-mail e à vigilância em massa.">
 
+<!ENTITY e2eTechPref.description "Tecnologia de encriptação preferida:">
 
+<!ENTITY doNotEncrypt.label "Não ativar a encriptação por predefinição">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Requerer encriptação por predefinição">
+<!ENTITY requireEncryptMessage.accesskey "u">
 <!ENTITY digitalSign.certificate.button "Selecionar...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Limpar">
