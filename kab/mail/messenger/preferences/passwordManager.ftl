@@ -18,6 +18,7 @@ column-heading-time-password-changed =
     .label = Abeddel aneggaru
 column-heading-times-used =
     .label = Amḍan n useqdec
+logins-description-all = Inekcam n yimefkiyen-a ttwaḥerzen deg uselkim-ik
 logins-description-filtered = Inekcam-a ddan d unadi-k:
 remove-all-passwords-prompt = Tebɣiḍ tukksa n wawalen uffiren i meṛṛa?
 remove-all-passwords-title = Kkes akk awalen uffiren
