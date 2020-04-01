@@ -126,6 +126,7 @@ cfr-whatsnew-searchbar-title = Tastezi mai puțin, găsești mai multe cu bara d
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Accesează site-urile pe care le utilizezi cel mai mult cu un singur clic în bara de adrese. Găsește lucrurile mai rapid cu rezultatele din { $searchEngineName } și din istoricul de navigare.
 cfr-whatsnew-searchbar-body-generic = Accesează site-urile pe care le utilizezi cel mai mult cu un singur clic în bara de adrese. Găsește lucrurile mai rapid cu rezultatele din istoricul de navigare.
+cfr-whatsnew-searchbar-body-topsites = Acum, trebuie doar să selectezi bara de adrese și o casetă se va extinde cu linkuri către site-urile tale de top.
 cfr-whatsnew-searchbar-icon-alt-text = Pictogramă lupă
 
 ## Picture-in-Picture
