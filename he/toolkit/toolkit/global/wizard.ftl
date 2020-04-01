@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 wizard-macos-button-back =
-    .label = חזור אחורה
+    .label = חזרה אחורה
     .accesskey = ח
 wizard-linux-button-back =
     .label = הקודם
