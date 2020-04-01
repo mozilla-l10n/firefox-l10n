@@ -29,4 +29,19 @@ policy-DisableFeedbackCommands = Desativar comandos para enviar comentários a p
 policy-DisableForgetButton = Impedir o acesso ao botão Esquecer.
 policy-DisableMasterPasswordCreation = Se verdadeiro, a palavra-passe mestra não pode ser criada.
 policy-DisableProfileImport = Desativar o comando do menu para importar dados de outra aplicação.
+policy-DisableSafeMode = Desativar a funcionalidade de reiniciar no Modo de segurança. Nota: o botão Shift para entrar no Modo de segurança apenas pode ser desativado no Windows utilizando Política de grupo.
+policy-DisableSecurityBypass = Impedir o utilizador de contornar certos avisos de segurança.
+policy-DisableTelemetry = Desativar a Telemetria.
+policy-DisplayMenuBar = Mostrar a Barra de menu por predefinição.
 policy-DNSOverHTTPS = Configurar DNS por HTTPS.
+policy-OfferToSaveLogins = Forçar a definição para permitir que { -brand-short-name } se ofereça para memorizar as credenciais e as palavras-passe guardadas. São aceites ambos os valores, "true" e "false".
+policy-PromptForDownloadLocation = Perguntar onde guardar os ficheiros ao transferir.
+policy-Proxy = Configurar as definições de proxy.
+policy-SanitizeOnShutdown2 = Limpar dados de navegação ao desligar.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Instalar os módulos PKCS #11.
+policy-SSLVersionMax = Definir a versão máxima de SSL.
+policy-SSLVersionMin = Definir a versão mínima de SSL.
+policy-SupportMenu = Adicionar um item de menu de apoio personalizado ao menu de ajuda.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Impedir que sites sejam visitados. Consulte a documentação para mais detalhes sobre o formato.
