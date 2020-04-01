@@ -140,6 +140,9 @@ onboarding-facebook-container-button = Aggiungi l’estensione
 onboarding-import-browser-settings-title = Importa segnalibri, password e altro ancora
 onboarding-import-browser-settings-text = Recupera facilmente i tuoi siti e le tue informazioni da Chrome e inizia subito a navigare.
 onboarding-import-browser-settings-button = Importa i dati da Chrome
+onboarding-personal-data-promise-title = Progettato per la privacy
++onboarding-personal-data-promise-text = { -brand-product-name } rispetta la tua privacy: raccogliamo meno dati, li proteggiamo e indichiamo chiaramente come li utilizziamo.
++onboarding-personal-data-promise-button = Scopri i dettagli del nostro impegno
 
 ## Message strings belonging to the Return to AMO flow
 
