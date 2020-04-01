@@ -17,6 +17,18 @@ composition-category-header = Tasuddest
 composition-attachments-header = Imeddayen
 composition-spelling-title = Taɣdira
 compose-html-style-title = Aɣanib HTML
+privacy-main-header = Tabaḍnit
+privacy-passwords-header = Awalen uffiren
+privacy-junk-header = Aspam
+privacy-data-collection-header = Alqaḍ d useqdec n yisefka
+privacy-security-header = Taɣellist
+privacy-scam-detection-title = Tifin n ukellex
+privacy-anti-virus-title = Amgal infafaden
+privacy-certificates-title = Iselkinen
+chat-pane-header = Adiwenni usrid
+chat-status-title = Addad
+chat-notifications-title = Ilɣuten
+chat-pane-styling-header = Afeṣṣel
 choose-messenger-language-description = Fren tutlayt yettwaseqdacen i uskan n wumuɣen, iznan, akked yilɣa seg { -brand-short-name }.
 manage-messenger-languages-button =
     .label = Fren wayeḍ...
@@ -27,6 +39,16 @@ update-pref-write-failure-title = Tuccḍa deg tira
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ur yezmir ara ad yessekles ismenyifen.Ur yezmir ad yaru deg ufaylu: { $path }
+update-setting-write-failure-title = Tuccḍa deg usekles n yismenyifen n uleqqem
+update-in-progress-title = Aleqqem itteddu
+update-in-progress-message = Tebɣiḍ { -brand-short-name } ad ikemmel aleqqem-a?
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Senqed timagit-ik akken ad ternuḍ awal uffir agejdan.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Rnu awal uffir agejdan
