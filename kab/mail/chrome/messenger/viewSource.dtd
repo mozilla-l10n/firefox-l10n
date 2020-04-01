@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
@@ -12,6 +14,7 @@
 <!ENTITY mainWindow.titlemodifierseparator " - ">
 <!ENTITY mainWindow.preface "Aɣbalu n: ">
 
+<!ENTITY editMenu.label "Ẓreg">
 <!ENTITY fileMenu.label "Afaylu">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Sekles asebter di...">
@@ -84,4 +87,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "N">
 <!ENTITY copyEmailCmd.label "Nɣel tansa imayl">
 <!ENTITY copyEmailCmd.accesskey "I">
-

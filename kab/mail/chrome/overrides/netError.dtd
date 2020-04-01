@@ -78,6 +78,9 @@
 <!ENTITY cspBlocked.title "Tesweḥl-it tsertit n tɣellist n ugbur.">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; yesewḥel asebter-agi seg usali s wudem-agi acku asebter yegber tasertit n tɣellist n ugbur i t-isweḥlen.</p>">
 
+<!ENTITY xfoBlocked.title "Tessewḥel-it tsertit X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-a deg usatal-a acku asebter ɣur-s tasertit X-Frame-Options ur t-yeǧǧan ara.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa  n ugbur ixesṛen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Agbur i tettaɛraḍeḍ ad tesekneḍ  ur yezmir ara ad d-iban acku tella tuccḍa n tuzna n isefka.</p><ul><li>Ma ulac aɣilifn nermes imawlan akken ad ẓren ugur-agi.</li></ul>">
 

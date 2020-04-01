@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Mail Content -->
 
+<!-- Mail Content -->
 <!ENTITY captionMailContent.label "Agbur n yimayl">
 
 <!ENTITY acceptRemoteContent.label "Sireg agbur anmeggag deg iznan">
@@ -10,8 +10,8 @@
 <!ENTITY remoteContentExceptions.label "Tisuraf...">
 <!ENTITY remoteContentExceptions.accesskey "s">
 <!ENTITY acceptRemoteContentInfo.label "Issin ugar ɣef wuguren n tbaḍnit n ugbur anmeggag">
-<!-- Web Content -->
 
+<!-- Web Content -->
 <!ENTITY captionWebContent.label "Agbur Web">
 
 <!ENTITY keepHistory.label "Cfu ɣef ismal web akked iseɣwan aniɣer rziɣ">
@@ -36,3 +36,6 @@
 <!ENTITY dntTrackingNotOkay.label2 "Ini i yismal akken ur yisfuɣulen ara">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Issin ugar ɣer Ur Yisfuɣul Ara">
+
+<!ENTITY doNotTrackCheck.label "Ad yazen tamuli “ur sfu$yul ara” γer ismal web akken ad gzun d akken ur tebγiḍ ara asfuγel">
+<!ENTITY doNotTrackLearnMore.label "Issin ugar">
