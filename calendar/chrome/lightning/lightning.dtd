@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "D">
 <!ENTITY lightning.menupopup.open.message.label       "Mesaj salvat…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Fișier cu calendar…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Șterge din calendar">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalii…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Afișează detaliile evenimentului">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Nu mai afișa aceste mesaje">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Calendar">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Mergi pe fila de calendar">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Mai mult">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Clic pentru a se afișa mai multe opțiuni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirmare">

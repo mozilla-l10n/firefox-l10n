@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Creează o sarcină nouă" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Sarcini" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Afișează sarcinile finalizate">
 
 <!ENTITY calendar.today.button.label          "Astăzi">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Afișează mementourile">
 <!ENTITY calendarproperties.cache3.label                   "Suport offline">
 <!ENTITY calendarproperties.enabled.label                  "Activează acest calendar">
+<!ENTITY calendarproperties.enabled2.label                 "Activează acest calendar">
 <!ENTITY calendarproperties.forceDisabled.label            "Nu s-a găsit furnizorul pentru acest calendar. Se întâmplă dacă ai dezactivat sau ai dezinstalat anumite suplimente.">
 <!ENTITY calendarproperties.unsubscribe.label              "Dezabonare">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "D">
