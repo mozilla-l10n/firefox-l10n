@@ -40,6 +40,14 @@ update-pref-write-failure-title = Tuccḍa deg tira
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ur yezmir ara ad yessekles ismenyifen.Ur yezmir ad yaru deg ufaylu: { $path }
 update-setting-write-failure-title = Tuccḍa deg usekles n yismenyifen n uleqqem
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } yemmuger-d tuccḍa ihi ur izmir ara ad isekles abeddel-a. Ẓer dakken abeddel n usmenyif-a n uleqqem, yesra tasiregt n tira deg ufaylu seddaw. Kečč neɣ anedbal n unagraw, tzemrem ahat ad tesseɣtim tuccḍa s umuddu n usenqed ummid n ufaylu-a i ugraw yiseqdacen.
+    
+    Ur yezmir ad yaru deg ufaylu: { $path }
 update-in-progress-title = Aleqqem itteddu
 update-in-progress-message = Tebɣiḍ { -brand-short-name } ad ikemmel aleqqem-a?
 
@@ -52,3 +60,5 @@ master-password-os-auth-dialog-message = Senqed timagit-ik akken ad ternuḍ awa
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 master-password-os-auth-dialog-message-macosx = Rnu awal uffir agejdan
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
