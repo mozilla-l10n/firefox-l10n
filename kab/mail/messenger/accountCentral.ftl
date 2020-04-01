@@ -10,6 +10,7 @@ release-notes =
     .title = Ɣef { -brand-full-name }
 email-description = { -brand-short-name } ad k-yeǧǧ ad teqqneḍ ɣer umiḍan i tesɛiḍ yakan, iwakken ad teɣreḍ imaylen-ik s wudem ilaqen, igerrzen deg usnas.
 filelink-description = { -brand-short-name } ad k-yeǧǧ ad d-tesbaduḍ amiḍan deg usigna ilaqen aseɣwen n yifuyla i usishel n tuzna n yimeddayen meqqren.
+addressbook-description = { -brand-short-name } ad k-yeǧǧ ad tessuddseḍ akk inermisen-ik deg yimedlis n tensa. Tzemreḍ daɣen ad teqqneḍ ɣer yimedlis n tensa anmeggag i umtawi n yinermisen-ik akk.
 feeds-description = { -brand-short-name } ad k-yeǧǧ ad teqqneḍ ɣer yisuddam RSS/Atom iwakken ad d-tawiḍ isallen d yileqman seg yal amḍiq.
 newsgroups-description = { -brand-short-name } ad k-yeǧǧ ad teqqneḍ ɣer yigrawen n yisallen akk i tebɣiḍ.
 import-title = Kter seg wahil-nniḍen
