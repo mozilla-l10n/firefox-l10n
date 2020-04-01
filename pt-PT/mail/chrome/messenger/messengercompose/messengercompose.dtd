@@ -267,6 +267,11 @@
 <!ENTITY subject.label "Assunto:">
 <!ENTITY toAddr2.label "Para">
 <!ENTITY ccAddr2.label "Cc">
+<!ENTITY bccAddr2.label "Bcc">
+<!ENTITY replyAddr2.label "Responder a">
+<!ENTITY newsgroupsAddr2.label "Grupo de notícias">
+<!ENTITY followupAddr2.label "No seguimento de">
+<!ENTITY subject2.label "Assunto">
 <!ENTITY subject.accesskey "A">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.

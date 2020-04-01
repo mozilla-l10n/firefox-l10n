@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Contacto do livro de endereços…">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Abrir">
+<!ENTITY openMenuCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "Abrir mensagem guardada...">
 <!ENTITY openMessageFileCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Guardar como">
@@ -973,3 +975,5 @@
 <!ENTITY openAddressBookDock.label      "Abrir livro de endereços">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Retroceder uma página">
+<!ENTITY browseForwardButton.tooltip "Avançar uma página">

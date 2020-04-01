@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "T">
 <!ENTITY  ssl.label                     "Proxy SSL:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "Proxy HTTPS:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "SOCKS:">
 <!ENTITY  socks.accesskey               "K">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -44,6 +46,8 @@
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "O proxy nunca é utilizado em ligações para localhost, 127.0.0.1 e :: 1.">
+<!ENTITY  proxyHttpSharing.label        "Utilizar também este proxy para HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Não solicitar autenticação se a palavra-passe estiver guardada">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Esta opção autentica-lhe silenciosamente em proxies quando tem credenciais guardadas para os mesmos. Será solicitado(a) se a autenticação falhar.">
