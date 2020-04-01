@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Odpri meni
-# This menuitem is only visible on Windows
-menu-menuitem-import = Uvozi gesla ...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Uvozi iz drugega brskalnika …
 menu-menuitem-preferences =
@@ -52,6 +50,7 @@ login-list-sort-label-text = Razvrsti po:
 login-list-name-option = Imenu (A–Ž)
 login-list-name-reverse-option = Imenu (Ž–A)
 login-list-breached-option = Ogrožene spletne strani
+about-logins-login-list-alerts-option = Opozorila
 login-list-last-changed-option = Času zadnje spremembe
 login-list-last-used-option = Času zadnje uporabe
 login-list-intro-title = Ni prijav
@@ -63,6 +62,8 @@ login-list-item-subtitle-new-login = Vnesite podatke za prijavo
 login-list-item-subtitle-missing-username = (ni uporabniškega imena)
 about-logins-list-item-breach-icon =
     .title = Ogrožena spletna stran
+about-logins-list-item-vulnerable-password-icon =
+    .title = Ranljivo geslo
 
 ## Introduction screen
 
@@ -153,10 +154,23 @@ confirm-discard-changes-dialog-confirm-button = Prezri
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Kraja podatkov spletne strani
 breach-alert-text = Gesla so bila ogrožena ali ukradena s te spletne strani, odkar ste nazadnje posodobili podatke za prijavo. Spremenite geslo, da zaščitite svoj račun.
 breach-alert-link = Več o tej kraji.
 breach-alert-dismiss =
     .title = Zapri to opozorilo
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Pojdi na { $hostname }
+about-logins-breach-alert-learn-more-link = Več o tem
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Ranljivo geslo
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Pojdi na { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Več o tem
 
 ## Error Messages
 
