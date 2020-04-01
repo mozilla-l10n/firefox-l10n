@@ -33,6 +33,9 @@ import-title = Kter seg wahil-nniḍen
 import-paragraph = { -brand-short-name } ad k-yeǧǧ ad tketreḍ iznan n tirawt, inekcam n yimedlis n tensiwin, ajerred n usuddem, ismenyafen, akked/neɣ imsizdigen seg wahilen-nniḍen n tirawt d yimawalen yettwassnen n yimedlis n tensiwin.
 import-label = Kter
     .aria-label = Kter isefka seg wahilen-nniḍen
+about-paragraph =
+    Thunderbird d amsaɣ agejdan n uɣbalu yeldin d anagraw  
+    usgit n yimayl d uwitay. Nebɣa ad yeqqim d aɣelsan daɣen ad igerrez ugar. Tawsa ad aɣ-tɛawen akken ad nessexdem isneflayen, ad nxelleṣ tamṣukt tanaddawt, ad nernu ad nennerni.
 about-paragraph-2 = <b> Thunderbird yemmug-d sɣur imseqdacen am kečč! Ma tḥemleḍ Thunderbird, ttxil xemmem ad d-tmuddeḍ tawsa. </b> Abrid yufraren iwakken ad tḍemneḍ tilin n Thunderbird d
 about-donation = Mudd tawsa
 explore-link = Snirem timahilin
