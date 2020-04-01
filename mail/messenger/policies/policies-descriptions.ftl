@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Blochează accesul la pagina about:support.
 policy-CaptivePortal = Activează sau dezactivează suportul pentru portale captive.
 policy-CertificatesDescription = Adaugă certificate sau folosește certificate încorporate.
 policy-Cookies = Permite sau refuză ca site-urile să seteze cookie-uri.
+policy-DisabledCiphers = Dezactivează cifrurile.
 policy-DefaultDownloadDirectory = Setează directorul implicit pentru descărcări.
 policy-DisableAppUpdate = Împiedică actualizările pentru { -brand-short-name }.
 policy-DisableDeveloperTools = Blochează accesul la uneltele pentru dezvoltatori.
