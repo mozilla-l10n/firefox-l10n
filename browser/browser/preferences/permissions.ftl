@@ -137,7 +137,7 @@ permissions-site-location-disable-desc = Tímto zakážete všem serverům, kter
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = Oprávnění virtuální reality
+    .title = Oprávnění pro virtuální realitu
     .style = { permissions-window.style }
 permissions-site-xr-desc = Následující servery požádaly o přístup k vašim zařízením pro virtuální realitu. Zde můžete určit, které servery mají nebo nemají povoleno tato zařízení používat. Můžete zde také zablokovat nové žádosti o přístup.
 permissions-site-xr-disable-label =
