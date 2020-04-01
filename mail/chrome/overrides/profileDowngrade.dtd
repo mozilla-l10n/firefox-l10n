@@ -10,6 +10,7 @@
  given Thunderbird channel". These terms are not synonymous.
 -->
 <!ENTITY window.title "Iniciou uma versão antiga do &brandProductName;">
+<!ENTITY window.style "width: 490px;">
 
 
 <!ENTITY window.moreinfo "Mais informação…">
