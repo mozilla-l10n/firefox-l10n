@@ -62,6 +62,8 @@ login-list-item-subtitle-new-login = Zapódajśo swóje pśizjawjeńske daty
 login-list-item-subtitle-missing-username = (žedno wužywaŕske mě)
 about-logins-list-item-breach-icon =
     .title = Zranjone websedło
+about-logins-list-item-vulnerable-password-icon =
+    .title = Napadojte gronidło
 
 ## Introduction screen
 
@@ -174,6 +176,7 @@ about-logins-breach-alert-learn-more-link = Dalšne informacije
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Napadojte gronidło
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = K { $hostname }
