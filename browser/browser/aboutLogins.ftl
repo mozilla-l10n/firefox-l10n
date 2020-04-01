@@ -49,6 +49,7 @@ login-list-sort-label-text = Sortează după:
 login-list-name-option = Nume (A-Z)
 login-list-name-reverse-option = Nume (Z-A)
 login-list-breached-option = Site-uri web a căror securitate a fost încălcată
+about-logins-login-list-alerts-option = Alerte
 login-list-last-changed-option = Ultima modificare
 login-list-last-used-option = Ultima utilizare
 login-list-intro-title = Nicio autentificare găsită
@@ -60,6 +61,8 @@ login-list-item-subtitle-new-login = Introdu datele tale de autentificare
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
     .title = Site web a cărui securitate a fost încălcată
+about-logins-list-item-vulnerable-password-icon =
+    .title = Parolă vulnerabilă
 
 ## Introduction screen
 
@@ -159,13 +162,25 @@ confirm-discard-changes-dialog-confirm-button = Înlătură
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Breșă de securitate pe site-ul web
 breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară detaliile de autentificare. Schimbă parola ca să îți protejezi contul.
 breach-alert-link = Află mai multe despre această încălcare a securității datelor.
 breach-alert-dismiss =
     .title = Închide această alertă
+about-logins-breach-alert-date = Această breșă a apărut la data de { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Mergi la { $hostname }
+about-logins-breach-alert-learn-more-link = Află mai multe
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Parolă vulnerabilă
+about-logins-vulnerable-alert-text = Această parolă a fost divulgată sau furată în cadrul unei breșe de date a unei alte companii. Reutilizarea datelor de autentificare îți pune toate conturile în pericol. Pentru a îmbunătăți securitatea online, schimbă această parolă.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Mergi la { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Află mai multe
 
 ## Error Messages
 
