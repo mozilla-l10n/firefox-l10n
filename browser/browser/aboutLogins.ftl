@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Iepenje menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Wachtwurden ymportearje…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ymportearje fan in oare browser út…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Sortearje op:
 login-list-name-option = Namme (A-Z)
 login-list-name-reverse-option = Namme (Z-A)
 login-list-breached-option = Websites mei datalekken
+about-logins-login-list-alerts-option = Warskôgingen
 login-list-last-changed-option = Lêst wizige
 login-list-last-used-option = Lêst brûkt
 login-list-intro-title = Gjin oanmeldingen fûn
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Fier jo oanmeldgegevens yn
 login-list-item-subtitle-missing-username = (gjin brûkersnamme)
 about-logins-list-item-breach-icon =
     .title = Troffen website
+about-logins-list-item-vulnerable-password-icon =
+    .title = Kwetsber wachtwurd
 
 ## Introduction screen
 
@@ -160,10 +161,25 @@ confirm-discard-changes-dialog-confirm-button = Ferwerpe
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Websitedatalek
 breach-alert-text = Wachtwurden út dizze website binne lekt of stellen sûnt jo foar it lêst jo oanmeldgegevens bywurke hawwe. Wizigje jo wachtwurd om jo account te beskermjen.
 breach-alert-link = Mear ynfo oer dit datalek
 breach-alert-dismiss =
     .title = Dizze warskôging slute
+about-logins-breach-alert-date = Dit lek is bard op { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Nei { $hostname }
+about-logins-breach-alert-learn-more-link = Mear ynfo
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Kwetsber wachtwurd
+about-logins-vulnerable-alert-text = Dit wachtwurd is lekt of stellen yn it datalek fan in oar bedriuw. It opnij brûken fan oanmeldgegevens bringt al jo accounts yn gefaar. Wizigje dit wachtwurd om jo online feilichheid te ferbetterjen.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Nei { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Mear ynfo
 
 ## Error Messages
 
