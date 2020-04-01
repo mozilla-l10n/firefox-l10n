@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Painel de anexos">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "n">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Selecionar tudo">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -259,6 +252,11 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 12em;">
 <!ENTITY fromAddr.label "De:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Outros tipos de campos de endereçamento">
+<!ENTITY fromAddr2.label "De">
 <!ENTITY fromAddr.accesskey "D">
 <!ENTITY toAddr.label "Para:">
 <!ENTITY ccAddr.label "Cc:">
@@ -267,6 +265,8 @@
 <!ENTITY newsgroupsAddr.label "Grupo de notícias:">
 <!ENTITY followupAddr.label "Reencaminhar-Para:">
 <!ENTITY subject.label "Assunto:">
+<!ENTITY toAddr2.label "Para">
+<!ENTITY ccAddr2.label "Cc">
 <!ENTITY subject.accesskey "A">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
@@ -278,7 +278,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Painel de anexos">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ocultar painel de anexos">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Inserir um ícone expressivo">
 <!ENTITY smiley1Cmd.label "Alegre">
 <!ENTITY smiley2Cmd.label "Triste">
