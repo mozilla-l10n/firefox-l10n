@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Deschide meniul
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importă parole…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importă din alt browser…
 menu-menuitem-preferences =
@@ -98,6 +96,30 @@ login-item-time-changed = Ultima modificare: { DATETIME($timeChanged, day: "nume
 login-item-time-created = Data creării: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ultima utilizare: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Verifică-ți identitatea pentru a edita datele de autentificare salvate.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Verifică-ți identitatea pentru a dezvălui parola salvată.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Verifică-ți identitatea pentru a copia parola salvată.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
+
 ## Master Password notification
 
 master-password-notification-message = Te rugăm să introduci parola principală ca să vezi datele de autentificare și parolele salvate
@@ -141,6 +163,9 @@ breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web d
 breach-alert-link = Află mai multe despre această încălcare a securității datelor.
 breach-alert-dismiss =
     .title = Închide această alertă
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 

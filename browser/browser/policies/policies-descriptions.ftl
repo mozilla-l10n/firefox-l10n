@@ -22,6 +22,7 @@ policy-Bookmarks = Creează marcaje în bara de marcaje, în meniul de marcaje s
 policy-CaptivePortal = Activează sau dezactivează suportul pentru portaluri captive.
 policy-CertificatesDescription = Adaugă certificate sau folosește certificate încorporate.
 policy-Cookies = Permite sau blochează setarea de cookie-uri de către site-urile web.
+policy-DisabledCiphers = Dezactivează cifrurile.
 policy-DefaultDownloadDirectory = Setează directorul implicit de descărcare.
 policy-DisableAppUpdate = Împiedică actualizarea browserului.
 policy-DisableBuiltinPDFViewer = Dezactivează PDF.js, vizualizatorul de fișiere PDF încorporat în { -brand-short-name }.
