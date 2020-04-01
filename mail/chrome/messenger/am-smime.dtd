@@ -12,6 +12,22 @@
 <!ENTITY alwaysEncryptMessage.label "Criptează întotdeauna (mesajul se trimite doar dacă toți destinatarii au certificate)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Folosește acest certificat pentru a cripta și decripta mesajele pe care le primesc:">
+
+<!ENTITY e2eTitle.label "Criptare end-to-end">
+<!ENTITY e2eIntro.description "Pentru a transmite mesaje criptate sau semnate digital, trebuie să configurezi o tehnologie de criptare, fie OpenPGP, fie S/MIME.">
+<!ENTITY e2eLearnMore.label "Află mai multe">
+
+<!ENTITY e2eEnc.description "Fără criptare end-to-end, conținutul mesajelor este ușor expus furnizorului de e-mail și supravegherii în masă.">
+<!ENTITY e2eeReqWarning.description "Dacă ai nevoie de criptare, pentru a trimite un mesaj, trebuie să ai cheia publică sau certificatul fiecărui destinatar.">
+
+<!ENTITY e2eSigning.description "O semnătură digitală permite destinatarilor să verifice că mesajul a fost trimis de tine și că nu i s-a modificat conținutul.">
+<!ENTITY e2eTechPref.description "Tehnologie de criptare preferată:">
+
+<!ENTITY doNotEncrypt.label "Nu activa implicit criptarea">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Impune implicit criptare">
+<!ENTITY requireEncryptMessage.accesskey "u">
+<!ENTITY encryptionCert2.message "Certificat personal de criptare:">
 <!ENTITY digitalSign.certificate.button "Selectează…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Curăță">
@@ -22,6 +38,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Semnătură digitală">
 <!ENTITY signMessage.label "Semnează digital mesajele (implicit)">
+<!ENTITY signMessage2.label "Adaugă-mi implicit semnătura digitală">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Folosește acest certificat pentru a semna digital mesajele pe care le trimit:">
 
@@ -31,7 +48,30 @@
 <!ENTITY manageDevices.label "Dispozitive de securitate">
 <!ENTITY manageDevices.accesskey "D">
 
+<!ENTITY signingCert2.message "Certificat personal pentru semnătură digitală:">
+
+<!ENTITY sendingDefaults.label "Setări implicite pentru trimiterea de mesaje">
+
+<!ENTITY technologyAutomatic.label "Selectare automată în baza cheilor sau certificatelor disponibile">
+
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Gestionează certificatele S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Dispozitive de securitate S/MIME">
+<!ENTITY manageDevices2.accesskey "y">
+
+<!ENTITY technologySMIME.label "Preferă S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferă OpenPGP">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Gestionează cheile OpenPGP">
+<!ENTITY manageKeys.accesskey "K">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Selectează certificatul">
 <!ENTITY certPicker.info  "Certificat:">
 <!ENTITY certPicker.detailsLabel "Detalii ale certificatului selectat:">
+
+<!ENTITY openpgpKey.message "Cheie personală pentru criptare și semnătură digitală:">
+<!ENTITY openpgpKey.button "Setează cheia personală…">
+<!ENTITY openpgpKey.accesskey "o">

@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (dosare la distanță)">
 <!ENTITY pop3Long.label                  "POP3 (păstrează mesajele pe calculator)">
 
+<!ENTITY manualConfigTable.summary       "Setări server">
 <!ENTITY incoming.label                  "Primire:">
 <!ENTITY incomingColumn.label            "Primire">
 <!ENTITY outgoing.label                  "Trimitere:">
