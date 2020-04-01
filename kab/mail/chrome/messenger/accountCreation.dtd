@@ -4,9 +4,12 @@
 
 <!ENTITY autoconfigWizard2.title         "Sbadu amiḍan n yimayl yellan">
 
+<!ENTITY emailWizard.title               "Sbadu amiḍan-ik.m n yimayl yellan">
+<!ENTITY emailWizard.caption             "Seqdec tansa-inek.m imayl tamirant">
 <!ENTITY name.label                      "Isem-ik:">
 <!ENTITY name.accesskey                  "I">
 <!ENTITY name.placeholder                "Aneggaru d amezwaru">
+<!ENTITY fullname.placeholder            "Isem-ik.m akkit">
 <!ENTITY name.text                       "Isem-ik, akken tettwalin wiyaḍ">
 <!ENTITY name.error                      "Ma ulac aɣilif, mudd-d isem-ik">
 <!ENTITY email.label                     "Tansa imayl">
@@ -15,6 +18,7 @@
 <!ENTITY email2.placeholder              "kečč@amedya.com">
 <!ENTITY email3.placeholder              "Tansa-inek imayl">
 <!ENTITY email.text                      "Tansa yinek imayl yellan">
+<!ENTITY email.error                     "Yir tansa n yimayl.">
 <!ENTITY password.label                  "Awal uffir:">
 <!ENTITY password.accesskey              "A">
 <!ENTITY password.placeholder            "Awal uffir">
@@ -33,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (ikaramen inmeggagen)">
 <!ENTITY pop3Long.label                  "POP3 (ḥrez imaylen ɣef uselkim-inek)">
 
+<!ENTITY manualConfigTable.summary       "Iɣewwaṛen n uqeddac">
 <!ENTITY incoming.label                  "Ad yekcem:">
 <!ENTITY incomingColumn.label            "Ad yekcem">
 <!ENTITY outgoing.label                  "Ad yeffeɣ:">
@@ -76,11 +81,14 @@
 <!ENTITY half-manual-test.accesskey      "k">
 <!ENTITY manual-edit.label               "Tawila n ufus">
 <!ENTITY manual-edit.accesskey           "f">
+<!ENTITY manual-config.label             "Sbadu s ufus…">
+<!ENTITY manual-config.accesskey         "F">
 <!ENTITY open-provisioner.label          "Awi tansa n yimayl tamaynut...">
 <!ENTITY open-provisioner.accesskey      "g">
 
 
 <!ENTITY get-help.label                  "Awi-d tallalt">
+<!ENTITY get-help.accesskey              "L">
 
 
 <!ENTITY warning.label                   "Ɣur-k!">

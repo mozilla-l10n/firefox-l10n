@@ -12,6 +12,11 @@
 <!ENTITY alwaysEncryptMessage.label "Yettawsra(ur yezmir ara ad yazen izen arama akk iɣewaḍen ɣur-sen iselkan)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Seqdec aselkin-agi akken i uwgelhen &amp; azmak n yeznan i d-remseḍ:">
+
+<!ENTITY e2eLearnMore.label "Issin ugar">
+
+
+
 <!ENTITY digitalSign.certificate.button "Fren...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Sfeḍ">
@@ -30,8 +35,15 @@
 <!ENTITY manageCerts2.accesskey "f">
 <!ENTITY manageDevices.label "Ibenkan n tɣellist">
 <!ENTITY manageDevices.accesskey "k">
-<!-- Strings for the cert picker dialog -->
 
+
+
+
+
+
+
+<!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Fren aselkin">
 <!ENTITY certPicker.info  "Aselkin:">
 <!ENTITY certPicker.detailsLabel "Talqayt n uselkin yettwafernen:">
+

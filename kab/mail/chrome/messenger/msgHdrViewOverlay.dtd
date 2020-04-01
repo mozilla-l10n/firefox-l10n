@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "ɣ">
 <!ENTITY otherActionsPrint1.label "Siggez…">
 <!ENTITY otherActionsPrint1.accesskey "S">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Sken di tazwara agalis n imeddayen">
 <!ENTITY startExpandedCmd.accesskey    "g">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Ldi">
 <!ENTITY openAttachmentCmd.accesskey    "L">
 <!ENTITY saveAsAttachmentCmd.label    "Sekles s yisem…">
@@ -94,8 +94,11 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "s">
 
 <!ENTITY openAttachment.tooltip "Ldi tasawit yernan">
-<!-- Attachment toolbar items -->
 
+<!ENTITY detachedAttachmentFolder.show.label        "Ldi akaram igebren afaylu">
+<!ENTITY detachedAttachmentFolder.showMac.label     "Sken-d di Finder">
+
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Sekles">
 <!ENTITY saveAttachmentButton1.tooltip     "Sekles afaylu i d-yeddan">
 <!ENTITY saveAllAttachmentsButton1.label   "Sekles akk">

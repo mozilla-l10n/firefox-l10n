@@ -19,6 +19,7 @@
 <!ENTITY paneAttachments.title    "Imeddayen">
 <!ENTITY panePrivacy.title        "Tabaḍnit">
 <!ENTITY paneSecurity.title       "Taɣellist">
+<!ENTITY panePrivacySecurity.title "Tudert tabaḍnit  &amp; Taɣellist">
 <!ENTITY paneLightning.title      "Awitay">
 <!ENTITY paneAdvanced.title       "Leqqayen">
 <!ENTITY paneAccount.title        "Imiḍanen">

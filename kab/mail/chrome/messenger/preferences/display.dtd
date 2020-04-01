@@ -21,12 +21,12 @@
 <!ENTITY quotedTextColor.accesskey        "n">
 <!ENTITY displayWidth.label               "Iznan n udris ačuṛan">
 <!ENTITY displayText.label                "Ticki teskaneḍ-d iznan n uḍris aččuran i yettwabedren:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Skeyn iẓuyaṛ am idlifen">
 <!ENTITY convertEmoticons.accesskey    "ẓ">
-<!-- labels -->
 
+<!-- labels -->
 <!ENTITY displayTagsText.label     "Tibzimin zemrent ad ttwasqedcent akken ad gent taggayin neɣ ad smizzewrent iznan-inek.">
 <!ENTITY newTagButton.label        "Amaynut…">
 <!ENTITY newTagButton.accesskey    "m">
@@ -34,8 +34,8 @@
 <!ENTITY editTagButton1.accesskey  "Ẓ">
 <!ENTITY removeTagButton.label     "Kkes">
 <!ENTITY removeTagButton.accesskey "K">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Tise&amp;fsiyin d tiɣmiyin">
 <!ENTITY defaultFont.label       "Tasefsit tamezwert:">
 <!ENTITY defaultFont.accesskey   "T">
@@ -45,10 +45,11 @@
 <!ENTITY fontOptions.label       "Talɣut leqqayen…">
 <!ENTITY colorButton.label       "Tiɣmiyin…">
 <!ENTITY colorButton.accesskey   "m">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Taɣuṛi">
 <!ENTITY display.caption                  "Sken">
+<!ENTITY displayName.label                "Isem yettwaseknen:">
 <!ENTITY showCondensedAddresses.label     "Sken kan isem iyemdanen yellan deg imedlis inu n tensa">
 <!ENTITY showCondensedAddresses.accesskey "S">
 

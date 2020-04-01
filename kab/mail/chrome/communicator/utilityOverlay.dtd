@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "Afaylu">
 <!ENTITY fileMenu.accesskey        "A">
@@ -35,6 +35,9 @@
 <!ENTITY preferencesCmd2.accesskey "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey     "s">
+
+<!ENTITY customizeCmd.label "Sagen">
+<!ENTITY customizeCmd.accesskey "t">
 
 <!ENTITY viewMenu.label          "Sken">
 <!ENTITY viewMenu.accesskey        "e">

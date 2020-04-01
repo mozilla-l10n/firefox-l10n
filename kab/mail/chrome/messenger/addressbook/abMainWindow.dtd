@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "K">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Fren tigejda ad-sekneḍ">
 <!ENTITY newContactButton.tooltip                       "Rnu anermis n imedlis n tensa">
 <!ENTITY newlistButton.tooltip                          "Rnu tabdart tamaynut">
 <!ENTITY editPropertiesButton.tooltip                   "Ẓreg aferdis ittwafernen">
@@ -173,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip                           "Azen izen imayl">
 <!ENTITY newIM.tooltip                                  "Azen izen askudan neɣ n uqesseṛ">
 <!ENTITY deleteButton2.tooltip                          "Kkes aferdis ifernen">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Imedlisen n tensa">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Isem neɣ Imayl">

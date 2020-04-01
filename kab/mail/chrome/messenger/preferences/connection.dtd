@@ -23,6 +23,7 @@
 <!ENTITY  http.accesskey                "A">
 <!ENTITY  ssl.label                     "Apṛuksi SSL:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "Apṛuksi HTTPS:">
 <!ENTITY  socks.label                   "Asenneftaɣ SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS L4">
@@ -40,6 +41,11 @@
 <!ENTITY  noproxyExplain.label          "Amedya: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Seqdec aqeddac-agi apṛuki i yal aneggaf">
 <!ENTITY  shareproxy.accesskey          "c">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label    "Tuqqniwin ɣer localhost, 127.0.0.1 ou ::1 urǧin ad ɛeddint s upṛuksi.">
+<!ENTITY  proxyHttpSharing.label        "Seqdec daɣen apṛuksi-a i HTTPS">
 <!ENTITY  autologinproxy.label          "Ur sutur ara asesteb ma yella awal uffir yettwakles">
 <!ENTITY  autologinproxy.accesskey      "r">
 <!ENTITY  autologinproxy.tooltip        "Aɣewwaṛ-a a k-isesteb s wudem awurman deg iqeddacen n apruksi, anda awal uffir yekles. Ticki asesteb ur yeddi ara, a k-d-nessuter awal uffir.">
@@ -47,12 +53,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "z">
 <!ENTITY  dnsOverHttps.label            "Rmed DNS s HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "b">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL i ferru n DNS s HTTPS">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Seqdec azalen n tazwara">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Seqdec URL amezwar i ferru n DNS s HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Udmawan">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Sekcem URL i tebɣiḍ i ferru n DNS s HTTPS">
