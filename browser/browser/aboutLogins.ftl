@@ -167,7 +167,7 @@ breach-alert-text = Lozinke su procurile ili su ukradene s ove web-stranice od k
 breach-alert-link = Saznaj više o ovom curenju podataka.
 breach-alert-dismiss =
     .title = Zatvori ovo upozorenje
-about-logins-breach-alert-date = Curenje podataka dogodilo se { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Curenje podataka dogodilo se { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Idi na { $hostname }
