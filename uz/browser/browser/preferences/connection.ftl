@@ -35,6 +35,9 @@ connection-proxy-http-share =
     .accesskey = s
 connection-proxy-ssl = SSL proksi
     .accesskey = L
+connection-proxy-http-sharing =
+    .label = Bu proksidan FTP va HTTPS uchun ham foydalaning
+    .accesskey = s
 connection-proxy-https = HTTPS Proksi
     .accesskey = H
 connection-proxy-ssl-port = Port
@@ -56,6 +59,8 @@ connection-proxy-socks5 =
 connection-proxy-noproxy = Proksi yo‘q
     .accesskey = y
 connection-proxy-noproxy-desc = Masalan: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Localhost, 127.0.0.1 va ::1 ga ulanish hech qachon proksi orqali amalga oshirilmagan.
 connection-proxy-autotype =
     .label = Proksini avtomatik sozlash havolasi
     .accesskey = a
@@ -72,3 +77,10 @@ connection-proxy-socks-remote-dns =
 connection-dns-over-https =
     .label = HTTPS orqali DNSni yoqish
     .accesskey = d
+connection-dns-over-https-url-resolver = Provayderdan foydalanish
+    .accesskey = P
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (Standart)
+    .tooltiptext = HTTPS orqali DNS dan foydalanish uchun standart URL manzildan foydalaning

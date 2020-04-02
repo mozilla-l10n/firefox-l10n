@@ -69,6 +69,7 @@ onboarding-sync-form-sub-header = { -sync-brand-name } bilan ishlashda davom eti
 onboarding-benefit-products-title = Foydali mahsulotlar
 onboarding-benefit-products-text = Barcha qurilmalarda maxfiyligingizni taʼminlovchi vositalar oilasidan foydalaning.
 onboarding-benefit-knowledge-title = Amaliy bilim
+onboarding-benefit-knowledge-text = Onlayn xavfsiz va hushyor boʻlish uchun kerakli bilimlarni oling.
 onboarding-benefit-privacy-title = Haqiqiy maxfiylik
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 
