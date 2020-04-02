@@ -72,6 +72,8 @@ onboarding-benefit-knowledge-title = Amaliy bilim
 onboarding-benefit-knowledge-text = Onlayn xavfsiz va hushyor boʻlish uchun kerakli bilimlarni oling.
 onboarding-benefit-privacy-title = Haqiqiy maxfiylik
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Himoyalangan va koʻchma parollarni boshqarish
 
 ## These strings belong to the individual onboarding messages.
 
@@ -88,6 +90,22 @@ onboarding-addons-title = Qo‘shimcha dasturlar
 onboarding-addons-text = { -brand-short-name } siz uchun yanada qattiqroq ishlashi uchun yana funksiyalar qo‘shing. Narxlarni solishtirish, ob-havoni tekshirish yoki turli mavzular o‘rnatish kabi imkoniyatini taqdim etadi.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery kabi kengaytmalar bilan internetda tezroq, oson va xavfsiz ishlash mumkin. U bilan asabga teguvchi reklamalarni bloklash mumkin.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Sinxronizatsiya
+onboarding-tracking-protection-title2 = Kuzatuvdan himoya
+onboarding-tracking-protection-button2 = U qanday ishlaydi
+onboarding-facebook-container-button = Kengaytmani qoʻshish
+onboarding-import-browser-settings-title = Xatxhoʻp va parol kabilarni import qilish
+onboarding-import-browser-settings-text = Chrome sozlamalari va u orqali kiritlgan saytlarni osongina import qiing.
+onboarding-import-browser-settings-button = Chrome maʼlumotlarini import qilish
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Yashang, { -brand-short-name } oʻrnatildi
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Endi esa <icon></icon><b>{ $addon-name }ni oʻrnatamiz.</b>
+return-to-amo-extension-button = Kengaytma qoʻshish
+return-to-amo-get-started-button = { -brand-short-name } bilan ishlashni boshlang
