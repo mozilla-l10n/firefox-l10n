@@ -453,6 +453,7 @@ search-bar-shown =
     .label = Asboblar paneliga qidiruv panelini qo‘shish
 search-engine-default-header = Standart qidiruv tizimi
 search-engine-default-desc = Manzil va qidiruv panelida foydalanish uchun asosiy qidiruv tizimini tanlang.
+search-engine-default-desc-2 = Bu manzil va qidiruv panelida chiqadigan standart qidiruv tizimi. Xohlagan vaqtingizda uni oʻzgartirishingiz mumkin.
 search-engine-default-private-desc-2 = Faqat Maxfiy oyanalarda ishlatiladigan boshqa standart qidiruv tizimini tanlang
 search-separate-default-engine =
     .label = Bu qidiruv tizimidan Maxfiy oyanalarda foydalanish

@@ -8,6 +8,13 @@ set-desktop-background-accept =
     .label = Orqa fon rasmini o‘rnatish
 open-desktop-prefs =
     .label = Ish stoli moslamalarini ochish
+set-background-preview-unavailable = Oldindan koʻrib boʻlmaydi
+# This refers to the wallpaper "spanning" multiple monitors when the
+# user has more than one. Only some of the entire image will be on
+# each monitor. This should ideally match the wording in Windows' own
+# Desktop Background settings page.
+set-background-span =
+    .label = Oraliq
 set-background-color = Rang:
 set-background-position = Joylashishi:
 set-background-tile =
