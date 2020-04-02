@@ -25,7 +25,7 @@
 
 <!ENTITY doNotEncrypt.label "Ez gaitu enkriptatzea era lehenetsian.">
 <!ENTITY doNotEncrypt.accesskey "E">
-<!ENTITY requireEncryptMessage.label "Eskatu enkriptatzea lehenetsita">
+<!ENTITY requireEncryptMessage.label "Eskatu enkriptatzea modu lehenetsian">
 <!ENTITY requireEncryptMessage.accesskey "l">
 <!ENTITY encryptionCert2.message "Enkriptatzeko ziurtagiri pertsonala:">
 <!ENTITY digitalSign.certificate.button "Hautatu…">
@@ -38,6 +38,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "G">
 <!ENTITY signingGroupTitle.label "Sinadura digitala">
 <!ENTITY signMessage.label "Sinatu mezuak digitalki (lehenetsita)">
+<!ENTITY signMessage2.label "Gehitu sinadura digitala modu lehenetsian">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Erabili ziurtagiri hau bidalitako mezuak digitalki sinatzeko:">
 
@@ -47,14 +48,30 @@
 <!ENTITY manageDevices.label "Segurtasun-gailuak">
 <!ENTITY manageDevices.accesskey "g">
 
+<!ENTITY signingCert2.message "Ziurtagiri pertsonala sinadura digitalerako:">
 
+<!ENTITY sendingDefaults.label "Ezarpen lehenetsiak mezuak bidaltzeko">
 
+<!ENTITY technologyAutomatic.label "Aukeratu automatikoki eskuragarri dauden giltza edo ziurtagirietan oinarrituta">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Kudeatu S/MIME ziurtagiriak">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "S/MIME segurtasun-gailuak">
+<!ENTITY manageDevices2.accesskey "g">
 
+<!ENTITY technologySMIME.label "Hobetsi S/MIME">
+<!ENTITY technologyOpenPGP.label "Hobetsi OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Kudeatu OpenPGP giltzak">
+<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Aukeratu ziurtagiria">
 <!ENTITY certPicker.info  "Ziurtagiria:">
 <!ENTITY certPicker.detailsLabel "Hautatutako ziurtagiriaren xehetasunak:">
 
+<!ENTITY openpgpKey.message "Giltza pertsonala enkriptatzeko eta digitalki sinatzeko">
+<!ENTITY openpgpKey.button "Ezarri giltza pertsonala…">
+<!ENTITY openpgpKey.accesskey "p">
