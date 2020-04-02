@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (urruneko karpetak)">
 <!ENTITY pop3Long.label                  "POP3 (mantendu posta zure ordenagailuan)">
 
+<!ENTITY manualConfigTable.summary       "Zerbitzariaren ezarpenak">
 <!ENTITY incoming.label                  "Sarrerakoa:">
 <!ENTITY incomingColumn.label            "Sarrerakoa">
 <!ENTITY outgoing.label                  "Irteerakoa:">

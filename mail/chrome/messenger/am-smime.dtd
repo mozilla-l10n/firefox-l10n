@@ -12,6 +12,15 @@
 <!ENTITY alwaysEncryptMessage.label "Beharrezkoa (ezin da mezua bidali hartzaile guztiek ziurtagirik izan ezean)">
 <!ENTITY alwaysEncryptMessage.accesskey "r">
 <!ENTITY encryptionCert.message "Erabili ziurtagiri hau jasotako mezuak zifratu eta deszifratzeko:">
+
+<!ENTITY e2eTitle.label "Muturretik muturrerako enkriptatzea">
+<!ENTITY e2eIntro.description "Enkriptatutako edo digitalki sinatutako mezuak bidali ahal izateko, enkriptatze teknologia bat nahiz OpenPGP edo  S/MIME konfiguratu behar duzu.">
+<!ENTITY e2eLearnMore.label "Argibide gehiago">
+
+<!ENTITY e2eEnc.description "Muturretik muturrerako enkriptatze gabe mezuen edukiak erraz bistaratzen ditu zure posta hornitzaileak eta zaintza masiboak.">
+<!ENTITY e2eeReqWarning.description "Enkriptatzea behar baduzu, mezuak bidali ahal izateko hartzaile bakoitzaren giltza publikoa edo ziurtagiria behar duzu.">
+
+
 <!ENTITY digitalSign.certificate.button "Hautatu…">
 <!ENTITY digitalSign.certificate.accesskey "H">
 <!ENTITY digitalSign.certificate_clear.button "Garbitu">
@@ -31,7 +40,14 @@
 <!ENTITY manageDevices.label "Segurtasun-gailuak">
 <!ENTITY manageDevices.accesskey "g">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Aukeratu ziurtagiria">
 <!ENTITY certPicker.info  "Ziurtagiria:">
 <!ENTITY certPicker.detailsLabel "Hautatutako ziurtagiriaren xehetasunak:">
+
