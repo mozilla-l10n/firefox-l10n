@@ -40,6 +40,8 @@ column-heading-time-last-used =
     .label = Última utilização
 column-heading-time-password-changed =
     .label = Última alteração
+column-heading-times-used =
+    .label = Número de vezes utilizado
 remove =
     .label = Remover
     .accesskey = R
@@ -56,6 +58,25 @@ hide-passwords =
     .label = Ocultar palavras-passe
     .accesskey = O
 logins-description-all = Estão guardadas no seu computador credenciais para os seguintes fornecedores
+logins-description-filtered = As seguintes credenciais correspondem à sua pesquisa:
+remove-all =
+    .label = Remover tudo
+    .accesskey = R
+remove-all-shown =
+    .label = Remover todas as mostradas
+    .accesskey = a
+remove-all-passwords-prompt = Tem a certeza que pretende remover todas as palavras-passe?
+remove-all-passwords-title = Remover todas as palavras-passe
+no-master-password-prompt = Tem a certeza que deseja mostrar as suas palavras-passe?
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to show or copy the passwords.
+password-os-auth-dialog-message = Confirme a sua identidade para revelar as palavras-passe guardadas.
+# This message can be seen by trying to show or copy the passwords.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+password-os-auth-dialog-message-macosx = revelar as palavras-passe guardadas
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }

@@ -81,6 +81,9 @@
 <!ENTITY cspBlocked.title "Bloqueado pela política de segurança de conteúdo">
 <!ENTITY cspBlocked.longDesc "<p>O &brandShortName; impediu o carregamento desta página deste modo, porque esta contém uma política de segurança de conteúdo que a desativou.</p>">
 
+<!ENTITY xfoBlocked.title "Bloqueado pela política X-Frame-Options">
+<!ENTITY xfoBlocked.longDesc "<p>O &brandShortName; impediu que esta página fosse carregada porque a página possui uma política X-Frame-Options que proíbe o seu carregamento neste contexto.</p>">
+
 <!ENTITY corruptedContentErrorv2.title "Erro de conteúdo corrompido">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>A página que está a tentar visualizar não pode ser apresentada porque foi detetado um erro na transmissão de dados.</p><ul><li>Por favor contacte os proprietários para os informar sobre este problema.</li></ul>">
 
