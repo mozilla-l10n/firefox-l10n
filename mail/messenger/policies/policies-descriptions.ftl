@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Blokeatu about:support orrirako sarbidea.
 policy-CaptivePortal = Gaitu edo desgaitu atari gatibuen euskarria.
 policy-CertificatesDescription = Ziurtagiriak gehitzea edo integratutako ziurtagiriak erabiltzea.
 policy-Cookies = Baimendu edo ukatu webguneei cookieak ezartzea.
+policy-DisabledCiphers = Desgaitu zifratzeak.
 policy-DefaultDownloadDirectory = Ezarri deskarga-direktorio lehenetsia.
 policy-DisableAppUpdate = Eragotzi { -brand-short-name }(r)i eguneratzea.
 policy-DisableDeveloperTools = Blokeatu garatzaile-tresnetarako sarbidea.
