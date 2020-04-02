@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "I">
 <!ENTITY lightning.menupopup.open.message.label       "Gordetako mezua…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "m">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Calendar fitxategia…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Ezabatu egutegitik">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Xehetasunak…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Erakutsi gertaeraren xehetasunak">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Ez erakutsi niri mezu hauek">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Egutegia">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Joan egutegi fitxara">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Gehiago">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Egin klik aukera gehiago erakusteko">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Birberretsi">

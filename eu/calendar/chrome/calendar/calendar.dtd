@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Sortu zeregin berria" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Zereginak" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Erakutsi osatutako zereginak">
 
 <!ENTITY calendar.today.button.label          "Gaur">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Partaidetza">
 <!ENTITY calendar.context.attendance.menu.accesskey             "P">
 <!ENTITY calendar.context.attendance.occurrence.label           "Agerpen hau">
-<!ENTITY calendar.context.attendance.all.label        "Agerpen guztiak" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Serie osoa">
 <!ENTITY calendar.context.attendance.send.label                 "Bidali orain jakinarazpena">
 <!ENTITY calendar.context.attendance.send.accesskey             "B">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Erakutsi gogorarazleak">
 <!ENTITY calendarproperties.cache3.label                   "Lineaz kanpoko laguntza">
 <!ENTITY calendarproperties.enabled.label                  "Aldatu egutegi hau:">
+<!ENTITY calendarproperties.enabled2.label                 "Gaitu egutegi hau">
 <!ENTITY calendarproperties.forceDisabled.label            "Egutegi honen hornitzailea ezin da aurkitu. Gehigarri jakin batzuk ezgaitu edo desinstalatu dituzulako izan daiteke.">
 <!ENTITY calendarproperties.unsubscribe.label              "Eten harpidetza">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "E">
