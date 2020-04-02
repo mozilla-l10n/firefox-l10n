@@ -155,6 +155,13 @@ cfr-whatsnew-permission-prompt-cta = Batafsil
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Himoyalarni koʻrish
+    .accesskey = k
+cfr-doorhanger-socialtracking-close-button = Yopish
+    .accesskey = Y
+cfr-doorhanger-socialtracking-dont-show-again = Shu kabi xabarlar boshqa menga chiqmasin
+    .accesskey = c
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } bu yerda sizni ijtimoiy tarmoq kuzatishgia imkon bermadi
 
 ## Enhanced Tracking Protection Milestones
 
