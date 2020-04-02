@@ -58,13 +58,15 @@ fingerprinter-tab-title = Dinoerien roudoù niverel
 fingerprinter-tab-content = An dinoerien roudoù niverel a zastum arventennoù ho merdeer hag hoc'h urzhiataer evit sevel un aelad diwar ho penn. En ur implij ar roudoù-se e c'hall heuliañ ac'hanoc'h war veur a lec'hienn. <a data-l10n-name="learn-more-link">Gouzout hiroc'h</a>
 cryptominer-tab-title = Kriptogleuzerien
 cryptominer-tab-content = Gant ar c'hriptogleuzerien e vez implijet gallout jediñ ho reizhiad evit kleuziañ arc'hant niverel. Skriptoù kriptogleuziañ a implij kalz ho patiri, a c'horreka hoc'h urzhiataer hag a lak ho fakturenn tredan da vezañ keroc'h. <a data-l10n-name="learn-more-link">Gouzout hiroc'h</a>
+protections-close-button =
+    .aria-label = Serriñ
+mobile-app-links = { -brand-product-name } Merdeer evit <a data-l10n-name="android-mobile-inline-link">Android</a> ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Na zisoñjit biken ken ur ger-tremen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } a zalc'h diogelet ho kerioù-tremen en ho merdeer.
 lockwise-header-content-logged-in = Kadavit ha goubredit ho kerioù-tremen etre ho holl drevnadoù en un doare diogel.
 protection-report-view-logins-button = Gwelout an titouroù kennaskañ
     .title = Monr d'an titouroù kennaskañ enrollet
-lockwise-no-logins-content = Tapit an arload <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> evit kas ho kerioù-tremen pep lec'h ganeoc'h.
 lockwise-mobile-app-title = Tapit ho kerioù-tremen ganeoc'h e pep lec'h
 lockwise-no-logins-card-content = Implijit ar gerioù-tremen enrollet e { -brand-short-name } war kement trevnad.
 lockwise-app-links = { -lockwise-brand-name } evit <a data-l10n-name="lockwise-android-inline-link">Android</a> hag <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
