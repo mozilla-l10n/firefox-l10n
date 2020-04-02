@@ -907,10 +907,10 @@ content-blocking-setting-standard =
     .label = Standard
     .accesskey = d
 content-blocking-setting-strict =
-    .label = Stricte
+    .label = Strict
     .accesskey = r
 content-blocking-setting-custom =
-    .label = Personnalisée
+    .label = Personnalisé
     .accesskey = P
 content-blocking-standard-desc = Équilibré entre protection et performances. Autorise quelques traqueurs pour que les sites web fonctionnent correctement.
 content-blocking-strict-description = Une protection renforcée, mais qui peut empêcher certains sites de fonctionner correctement.
@@ -926,10 +926,10 @@ enhanced-tracking-protection-setting-standard =
     .label = Standard
     .accesskey = d
 enhanced-tracking-protection-setting-strict =
-    .label = Strict
+    .label = Stricte
     .accesskey = r
 enhanced-tracking-protection-setting-custom =
-    .label = Personnalisé
+    .label = Personnalisée
     .accesskey = P
 
 ##
