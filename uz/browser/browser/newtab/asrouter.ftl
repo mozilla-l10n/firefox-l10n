@@ -12,7 +12,7 @@ cfr-doorhanger-pintab-heading = Sinab koʻring: Ichki oynani qistirish
 ##
 
 cfr-doorhanger-extension-sumo-link =
-    .tooltiptext = Men buni nega ko‘ryapman
+    .tooltiptext = Bu menga nega chiqyapti
 cfr-doorhanger-extension-cancel-button = Hozir emas
     .accesskey = e
 cfr-doorhanger-extension-ok-button = Hozir qoʻshish
@@ -80,6 +80,8 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
+cfr-protections-panel-header = Kuzatmasdan koʻrish
+cfr-protections-panel-body = Fayllaringizni asrang. Internetdagi faoliyatingizni kuzatuvchilardan { -brand-short-name } sizni himoya qiladi.
 cfr-protections-panel-link-text = Batafsil
 
 ## What's New toolbar button and panel
@@ -93,6 +95,7 @@ cfr-whatsnew-button =
 cfr-whatsnew-panel-header = Yangi xususiyatlar
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
+cfr-whatsnew-fx70-body = Oxirgi yangilanish "Kuzatuvdan himoya" funksiyasi imkoniyatlarini oshiradi va har bir sayt uchun xavfsiz parol yaratishni osonlashtiradi.
 cfr-whatsnew-tracking-protect-title = Oʻzingini kuzatuvchilardan himoyalang
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } onlayn faoliyatingizni kuzatadigan ijtimoiy va saytlararo kuzatuvchilarni bloklaydi.
 cfr-whatsnew-tracking-protect-link-text = Hisobotni koʻrish
@@ -116,6 +119,12 @@ cfr-whatsnew-lockwise-take-link-text = Ilovani yuklab olish
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Manzillar panelida kamroq yozib, koʻproq toping
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Koʻp kiriladigan saytlarga bitta harakat bilan manzil paneli orqali kiring. { $searchEngineName } va brauzer tarixi yordamida internetdan maʼlumotlarni tez topish mumkin.
+cfr-whatsnew-searchbar-body-generic = Koʻp kiriladigan saytlarga bitta harakat bilan manzil paneli orqali kiring. Brauzer tarixidagi qidiruv natijalari yordamida internetdan maʼlumotlarni tez topish mumkin.
+cfr-whatsnew-searchbar-body-topsites = Manzil panelini tanlasangiz, u yerda koʻp kirilgan saytlar havolasi chiqadi.
+cfr-whatsnew-searchbar-icon-alt-text = Lupa belgisi
 
 ## Picture-in-Picture
 
