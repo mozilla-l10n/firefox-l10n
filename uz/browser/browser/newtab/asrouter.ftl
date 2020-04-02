@@ -135,6 +135,8 @@ cfr-whatsnew-pip-cta = Batafsil
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Asabga tegadigan qalqib chiquvchi oynalar kamayadi
+cfr-whatsnew-permission-prompt-body = Endi { -brand-shorter-name } qalqib chiquvchi xabarlarni yuboruvchi saytlarni bloklaydi.
+cfr-whatsnew-permission-prompt-cta = Batafsil
 
 ## Fingerprinter Counter
 

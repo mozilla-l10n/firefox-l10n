@@ -14,9 +14,13 @@ select-all =
 menu-select-all =
     .label = Barchasini belgilash
     .accesskey = B
+close-dialog =
+    .key = w
 general-tab =
     .label = Umumiy
     .accesskey = G
+general-title =
+    .value = Sarlavha:
 general-url =
     .value = Manzil:
 general-type =
@@ -85,9 +89,15 @@ security-view-identity-domain =
     .value = Veb sayt:
 security-view-identity-verifier =
     .value = Tekshiruvchi:
+security-view-identity-validity =
+    .value = Muddati tugaydi:
 security-view-privacy =
     .value = Maxfiylik va tarix
 security-view-privacy-history-value = Bugun ushbu sahifaga tashrif buyurdimmi?
+security-view-privacy-sitedata-value = Bu sayt maʼlumotlarni kompyuterimga joylashtiryaptimi?
+security-view-privacy-clearsitedata =
+    .label = Cookie va sayt maʼlumotlarini tozalash
+    .accesskey = C
 security-view-privacy-passwords-value = Ushbu sahifa uchun parollarni saqladimmi?
 security-view-privacy-viewpasswords =
     .label = Saqlangan parollarni ko‘rish
@@ -103,6 +113,10 @@ help-button =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ha, cookie  va { $value } { $unit } sayti maʼlumotlari
+security-site-data-only = Ha, { $value } { $unit } sayti maʼlumotlari
+security-site-data-cookies-only = Ha, cookie fayllar
+security-site-data-no = Yoʻq
 image-size-unknown = Noma’lum
 not-set-verified-by = Ko‘rsatilmagan
 page-info-not-specified =
@@ -137,6 +151,47 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Standart foydalanish
 security-no-visits = Yo‘q
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 ta teg)
+           *[other] Meta ({ $tags } ta teg)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Yoʻq
+        [one] Ha, bir marta
+       *[other] Ha, { $visits } marta
+    }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } bayt)
+           *[other] { $kb } KB ({ $bytes } bayt)
+        }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } Rasm (animatsiyali, { $frames } ta freym)
+           *[other] { $type } Rasm (animatsiyali, { $frames } ta freym)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

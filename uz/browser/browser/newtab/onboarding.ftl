@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Boshlash
 onboarding-welcome-header = { -brand-short-name }ga xush kelibsiz
 onboarding-welcome-body = Endi brauzeringiz bor.<br/>{ -brand-product-name } bilan yaqindan tanishing.
 onboarding-welcome-learn-more = Yutuqlari haqida batafsil maʼlumot oling.
+onboarding-join-form-header = { -brand-product-name } hamjamiyatiga qoʻshiling
 onboarding-welcome-modal-get-body = Endi brauzeringiz bor.<br/>{ -brand-product-name }dan samarali foydalaning.
 onboarding-welcome-modal-supercharge-body = Maxfiyligingiz himoyasini “qayta quvvatlang”.
 onboarding-welcome-modal-privacy-body = Brauzeringiz bor. Endi unga maxfiylik himoyasini qoʻshamiz.
 onboarding-welcome-modal-family-learn-more = { -brand-product-name } mahsulotlari oilasi bilan tanishing.
 onboarding-welcome-form-header = Bu yerdan boshlang
-onboarding-join-form-header = { -brand-product-name } hamjamiyatiga qoʻshiling
 onboarding-join-form-body = Boshlash uchun e-mail manzilingizni kiriting.
 onboarding-join-form-email =
     .placeholder = E-pochta manzilingizni kiriting
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = { -brand-product-name }ni oʻzingiz bilan olib yuring
 onboarding-sync-welcome-content = Xatchoʻp, tarix, parol va boshqa turli sozlamalarni barcha qurilmalaringizga sinxronlang.
 onboarding-sync-welcome-learn-more-link = Firefox hisoblari haqida batafsil maʼlumot oling
-onboarding-sync-form-invalid-input = E-pochta manzilini xatosiz kiriting
-onboarding-sync-legal-notice = Davom etish orqali siz <a data-l10n-name="terms"> Xizmat koʻrsatish shartlari </a> va <a data-l10n-name="privacy"> Maxfiylik eslatmalari </a>ga rozilik bildirasiz.
 onboarding-sync-form-input =
     .placeholder = E-pochta
 onboarding-sync-form-continue-button = Davom etish
@@ -63,11 +61,14 @@ onboarding-sync-form-skip-login-button = Ushbu bosqichni oʻtkazib yuboring
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = E-pochtangizni kiriting
+onboarding-sync-form-sub-header = { -sync-brand-name } bilan ishlashda davom etish uchun
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
 onboarding-benefit-products-title = Foydali mahsulotlar
+onboarding-benefit-products-text = Barcha qurilmalarda maxfiyligingizni taʼminlovchi vositalar oilasidan foydalaning.
+onboarding-benefit-knowledge-title = Amaliy bilim
 onboarding-benefit-privacy-title = Haqiqiy maxfiylik
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 
