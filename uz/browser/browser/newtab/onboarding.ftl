@@ -101,8 +101,13 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery kabi kengaytmalar bilan internetda tezroq, oson va xavfsiz ishlash mumkin. U bilan asabga teguvchi reklamalarni bloklash mumkin.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinxronizatsiya
+onboarding-fxa-text = { -fxaccount-brand-name } uchun roʻyxatdan oʻting va xatchoʻp, parol va ochiq varaqlardan { -brand-short-name } orqali foydalaning.
 onboarding-tracking-protection-title2 = Kuzatuvdan himoya
+onboarding-tracking-protection-text2 = { -brand-short-name } syatlarning faoliyatingizni onlayn kuzatishlarini toʻxtatishda yordam beradi, internetda sizni kuzatuvchi reklamalar chiqishini qiyinlashtiradi.
 onboarding-tracking-protection-button2 = U qanday ishlaydi
+onboarding-data-sync-title = Har qanday joyda bir xil sozlamalardan foydalaning
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Xatchoʻp va parol kabilardan istalgan yerda { -brand-product-name } orqali foydalanish uchun sinxronizatsiyani boshlang.
 onboarding-facebook-container-button = Kengaytmani qoʻshish
 onboarding-import-browser-settings-title = Xatxhoʻp va parol kabilarni import qilish
 onboarding-import-browser-settings-text = Chrome sozlamalari va u orqali kiritlgan saytlarni osongina import qiing.
