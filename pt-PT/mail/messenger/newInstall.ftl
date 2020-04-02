@@ -6,3 +6,4 @@ connection-window =
     .title = Notícias Importantes
 continue-button =
     .label = Continuar
+main-text = Esta instalação do { -brand-short-name } tem um novo perfil. Ele não partilha dados de correio eletrónico, palavras-passe, preferências do utilizador e livros de endereços com outras instalações neste computador do { -brand-product-name } (incluindo o { -brand-product-name }, { -brand-product-name } Beta e { -brand-product-name } Daily).
