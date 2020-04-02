@@ -114,12 +114,28 @@ onboarding-firefox-monitor-text = { -monitor-brand-name } email manzilingizda ma
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } email manzilingizda maʼlumotlar sizishi mavjud yoki yoʻqligini nazorat qiladi, agar aniqlansa, sizga xabar beradi.
 onboarding-firefox-monitor-button = Bildirishnomalar uchun yozilish
 onboarding-browse-privately-title = Internet maxfiy ishlang
+onboarding-browse-privately-text = Maxfiy koʻrish rejimida kompyuteringizda ishlaydigan boshqa insonlardan qidiruv va brauzer tarixini sir saqlash uchun ular tozalab tashlanadi.
 onboarding-browse-privately-button = Maxfiy oynani ochish
 onboarding-firefox-send-title = Ulashilgan fayllaringizni maxfiy saqlang
+onboarding-firefox-send-text2 = { -send-brand-name } yordamida fayllaringizni yuklang. Ularni kuchli shifr va avtomatik muddati tugaydigan havola bilan ulashishingiz mumkin boʻladi.
 onboarding-firefox-send-button = { -send-brand-name }ni ishlatib koʻrish
 onboarding-mobile-phone-title = Telefoningizga { -brand-product-name }ni yuklab oling
+onboarding-mobile-phone-text = { -brand-product-name }ni iOS yoki Android uchun yuklab oling va maʼlumotlaringizni barcha qurilmalarga sinxronlang.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Mobil brauzerni yuklab olish
+onboarding-send-tabs-title = Varaqlarni osoniga oʻzingizga joʻnating
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Send Tabs funksiyasi yordamida sahifalarni barcha qurilmalaringizga osongina yuborish mumkin. Nusxa olish, joylash va brauzerdan chiqish shart boʻlmaydi.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Sahifalarni barcha qurilmalaringizga osongina yuboring. Nusxa olish va brauzerdan chiqish shart emas.
+onboarding-send-tabs-button = Varaqlarni yuborishni boshlang
+onboarding-pocket-anywhere-title = Istalgan joyda oʻqing va tinglang
 onboarding-pocket-anywhere-button = { -pocket-brand-name }ni ishlatib koʻrish
 onboarding-lockwise-passwords-title = Parollaringizdan istalgan yerda foydalaning
+onboarding-lockwise-passwords-button2 = Ilovani yuklab olish
 onboarding-facebook-container-button = Kengaytmani qoʻshish
 onboarding-import-browser-settings-title = Xatxhoʻp va parol kabilarni import qilish
 onboarding-import-browser-settings-text = Chrome sozlamalari va u orqali kiritlgan saytlarni osongina import qiing.
