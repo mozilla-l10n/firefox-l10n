@@ -453,6 +453,12 @@ search-bar-shown =
     .label = Asboblar paneliga qidiruv panelini qo‘shish
 search-engine-default-header = Standart qidiruv tizimi
 search-engine-default-desc = Manzil va qidiruv panelida foydalanish uchun asosiy qidiruv tizimini tanlang.
+search-engine-default-private-desc-2 = Faqat Maxfiy oyanalarda ishlatiladigan boshqa standart qidiruv tizimini tanlang
+search-separate-default-engine =
+    .label = Bu qidiruv tizimidan Maxfiy oyanalarda foydalanish
+    .accesskey = y
+search-suggestions-header = Qidiruv tavsiyalari
+search-suggestions-desc = Qidiruv tizimidan takliflar chiqadigan joydan takiflarni tanlang.
 search-suggestions-option =
     .label = Izlash uchun tavsiya berish
     .accesskey = t
@@ -466,6 +472,9 @@ search-show-suggestions-url-bar-option =
 # (appearing before).
 search-show-suggestions-above-history-option =
     .label = Manzil panelida brauzer tarixi bo‘yicha qidiruv tavsiyalari ko‘rsatilsin
+search-show-suggestions-private-windows =
+    .label = Qidiruv tavsiyalarini Maxfiy oynalarda koʻrsatish
+suggestions-addressbar-settings = Brauzer tarixi, xatchoʻp va varaqlar takliflari sozlamalrini oʻzgartirish
 search-suggestions-cant-show = Qidiruv tavsiyalari manzil qatorida ko‘rsatilmaydi, chunki { -brand-short-name } brauzerini tarixni eslab qolmaydigan qilib sozlagansiz.
 search-one-click-header = Bir bosishda izlash qidiruv tizimlari
 search-one-click-desc = Izlanadigan so‘zlarni manzil va qidiruv paneliga kiritganingizda  uning ostida paydo bo‘ladigan muqobil qidiruv tizimlarini tanlang.
@@ -652,6 +661,9 @@ forms-master-pw-change =
     .accesskey = u
 forms-master-pw-fips-title = Siz hozirda FIPS usulidasiz. FIPS boʻsh boʻlmagan master maxfiy soʻzni talab qiladi.
 forms-master-pw-fips-desc = Maxfiy soʻzni oʻzgartirib boʻlmadi
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 

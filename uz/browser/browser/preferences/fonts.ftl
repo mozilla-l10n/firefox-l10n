@@ -138,10 +138,9 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vetnamcha
 fonts-languages-fallback-name-other =
     .label = Boshqa (birga. Sharqiy Yevropacha)
-fonts-very-large-warning-title = Katta eng kichik shrift hajmi
-fonts-very-large-warning-message = Siz juda katta eng kichik shrift hajmi (24 pikseldan ko‘proq)ni tanladingiz. Bu qiyinlashtirib yuborishi mumkin yoki hozirgiga o‘xshagan ba’zi muhim moslash sahifalaridan foydalanib bo‘lmay qoladi.
-fonts-very-large-warning-accept = O‘zgarishlar saqlansin
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
     .label = Standart ({ $name })
+fonts-label-default-unnamed =
+    .label = Standart
