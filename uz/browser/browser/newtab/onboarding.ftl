@@ -71,7 +71,16 @@ onboarding-benefit-products-text = Barcha qurilmalarda maxfiyligingizni taʼminl
 onboarding-benefit-knowledge-title = Amaliy bilim
 onboarding-benefit-knowledge-text = Onlayn xavfsiz va hushyor boʻlish uchun kerakli bilimlarni oling.
 onboarding-benefit-privacy-title = Haqiqiy maxfiylik
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Shaxsiy maʼlumotlar haqidagi vaʼdamizda turamiz: Kam maʼlumot olamiz. Xavfsiz saqlaymiz. Hech qanday sir boʻlmaydi.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Xatchoʻp, parol va tarix kabilardan istalgan yerda { -brand-product-name } orqali foydalaning.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Shaxsiy maʼlumotlaringizda maʼlumot sizib chiqishi maʼlum boʻlganda  bildirishnoma olasiz.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Himoyalangan va koʻchma parollarni boshqarish
 
