@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Otvoriť ponuku
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importovať heslá…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importovať z iného prehliadača…
 menu-menuitem-preferences =
@@ -62,6 +60,8 @@ login-list-item-subtitle-new-login = Zadajte svoje prihlasovacie údaje
 login-list-item-subtitle-missing-username = (žiadne používateľské meno)
 about-logins-list-item-breach-icon =
     .title = Únik dát
+about-logins-list-item-vulnerable-password-icon =
+    .title = Zraniteľné heslo
 
 ## Introduction screen
 
@@ -161,10 +161,18 @@ confirm-discard-changes-dialog-confirm-button = Zahodiť
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Únik z webovej stránky
 breach-alert-text = Na tejto stránke prišlo od vašej poslednej zmeny prihlasovacích údajov k úniku dát. Za účelom ochrany vášho účtu vám odporúčame zmeniť si heslo.
 breach-alert-link = Ďalšie informácie o tomto úniku.
 breach-alert-dismiss =
     .title = Zavrieť toto upozornenie
+about-logins-breach-alert-date = K tomuto úniku došlo { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-learn-more-link = Ďalšie informácie
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Zraniteľné heslo
+about-logins-vulnerable-alert-learn-more-link = Ďalšie informácie
 
 ## Error Messages
 
