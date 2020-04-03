@@ -161,6 +161,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = বিদ্যমান হালনাগাদ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = সুপারিশসমূহ
 addon-category-extension = এক্সটেনশন
 addon-category-theme = থিম
 addon-category-plugin = প্লাগইন
