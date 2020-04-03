@@ -111,6 +111,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = উপলব্ধ আপডেইটসমূহ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-available-updates = উপলব্ধ আপডেইটসমূহ
 
 ## These are global warnings
 
