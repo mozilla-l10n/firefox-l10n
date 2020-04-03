@@ -116,6 +116,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Przistãpné aktualizacje
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Roszerzenia
+addon-category-plugin = Dodôwczi
+addon-category-dictionary = Słowôrze
+addon-category-locale = Jãzëczi
+addon-category-available-updates = Przistãpné aktualizacje
+addon-category-recent-updates = Slédné zaktualnienia
 
 ## These are global warnings
 
