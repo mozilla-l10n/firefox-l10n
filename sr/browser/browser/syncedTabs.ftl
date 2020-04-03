@@ -5,6 +5,7 @@
 synced-tabs-sidebar-title = Синхронизовани језичци
 synced-tabs-sidebar-noclients-subtitle = Желите да овде видите језичке са осталих уређаја?
 synced-tabs-sidebar-notsignedin = Пријавите се да видите листу језичака са других уређаја.
+synced-tabs-sidebar-intro = Погледајте списак језичака с ваших других уређаја
 synced-tabs-sidebar-unverified = Ваш налог мора бити потврђен.
 synced-tabs-sidebar-notabs = Нема отворених језичака
 synced-tabs-sidebar-openprefs = Отвори { -sync-brand-short-name } поставке
@@ -40,3 +41,4 @@ synced-tabs-context-sync-now =
     .label = Синхронизуј сада
     .accesskey = С
 fxa-sign-in = Пријави се на { -sync-brand-short-name }
+turn-on-sync = Укључите { -sync-brand-short-name }
