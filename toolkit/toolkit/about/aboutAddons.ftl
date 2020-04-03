@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Tilgjengelege oppdateringar
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Tilrådingar
 addon-category-extension = Utvidingar
 addon-category-theme = Tema
 addon-category-plugin = Programtillegg
