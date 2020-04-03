@@ -48,6 +48,9 @@ policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 policy-InstallAddonsPermission = Sireg asebeddi n yizegrar i kra n yismal web.
 policy-LocalFileLinks = Sireg ismal usdiden ad cudden ɣer yifuyla idiganen.
 policy-NetworkPrediction = Rmed neɣ sens tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
+policy-PromptForDownloadLocation = Suter anida ara ttwaskelsen yifuyla deg usider.
+policy-Proxy = Swel iɣewwaṛen n upṛuksi.
+policy-RequestedLocales = Sbadu tabdart n tutlayin yettwasutren i usnas akken i tesmenyafeḍ
 policy-SanitizeOnShutdown2 = Sfeḍ isefka n tunigin deg usexsi.
 policy-SearchEngines = Swel iɣewwaṛen n umsedday n unadi. Tasertit-a tella kan deg llqem Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
