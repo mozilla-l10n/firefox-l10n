@@ -166,6 +166,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = עדכונים זמינים
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = הרחבות
+addon-category-plugin = תוספים חיצוניים
+addon-category-dictionary = מילונים
+addon-category-locale = שפות
+addon-category-available-updates = עדכונים זמינים
+addon-category-recent-updates = עדכונים אחרונים
 
 ## These are global warnings
 
