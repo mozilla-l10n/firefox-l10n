@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Додати нову панель">
 <!ENTITY showTitlebar.label       "Показати панель заголовка">
 <!ENTITY extraDragSpace.label     "Додати місце для перетягування">
+<!ENTITY showTitlebar2.label      "Панель заголовка">
+<!ENTITY extraDragSpace2.label    "Місце для перетягування">
 <!ENTITY saveChanges.label        "Готово">
 <!ENTITY undoChanges.label        "Скасувати зміни">
