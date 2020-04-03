@@ -166,6 +166,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = 可用的更新
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = 擴充套件
+addon-category-plugin = 外掛程式
+addon-category-dictionary = 字典
+addon-category-locale = 語言套件
+addon-category-available-updates = 可用的更新
+addon-category-recent-updates = 最近的更新
 
 ## These are global warnings
 
