@@ -75,6 +75,7 @@ addon-restart-now =
 extensions-view-available-updates =
     .name = ອັບເດດທີ່ມີຢູ່
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-locale = ພາສາ
 
 ## These are global warnings
 
