@@ -29,6 +29,8 @@ certificate-viewer-id = 标识符
 certificate-viewer-key-exchange-group = 密钥交换组
 certificate-viewer-key-id = 密钥标识符
 certificate-viewer-key-size = 密钥大小
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = 公司注册地
 certificate-viewer-locality = 地市
 certificate-viewer-location = 地址
 certificate-viewer-logid = 日志标识符
