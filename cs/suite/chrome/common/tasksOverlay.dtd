@@ -5,6 +5,7 @@
 <!-- extracted from tasksOverlay.xul -->
 <!ENTITY minimizeWindowCmd.label "Minimalizovat">
 <!ENTITY minimizeWindowCmd.key "M">
+<!ENTITY zoomWindowCmd.label "Zvětšit okno">
 <!ENTITY navigatorCmd.label "Prohlížeč">
 <!ENTITY navigatorCmd.accesskey "P">
 <!ENTITY navigatorCmd.commandkey "1">
