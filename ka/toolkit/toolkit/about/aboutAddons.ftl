@@ -170,6 +170,9 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = ხელმისწვდომი განახლებები
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = გაფართოებები
+addon-category-available-updates = ხელმისწვდომი განახლებები
+addon-category-recent-updates = ბოლო განახლებები
 
 ## These are global warnings
 
