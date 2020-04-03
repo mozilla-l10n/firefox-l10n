@@ -141,6 +141,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = అందుబాటులోని నవీకరణలు
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-plugin = చొప్పింతలు
 addon-category-locale = భాషలు
 
 ## These are global warnings
