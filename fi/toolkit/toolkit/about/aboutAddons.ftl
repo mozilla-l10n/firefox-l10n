@@ -172,6 +172,7 @@ addon-category-theme = Teemat
 addon-category-plugin = Liitännäiset
 addon-category-dictionary = Oikoluvut
 addon-category-locale = Kielet
+addon-category-available-updates = Päivitykset
 addon-category-recent-updates = Tuoreet päivitykset
 
 ## These are global warnings
