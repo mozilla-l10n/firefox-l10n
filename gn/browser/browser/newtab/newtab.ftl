@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Ko ojejapóva ndaikatuvéima oñemboguevi.
 newtab-menu-section-tooltip =
     .title = Eike poravorãme
     .aria-label = Eike poravorãme
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Mboguete
+    .aria-label = Mboguete
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,10 +90,6 @@ newtab-menu-show-privacy-info = Ore pytyvõhára ha iñemigua
 
 newtab-privacy-modal-button-done = Oĩma
 newtab-privacy-modal-header = Ne ñemigua tuichamba’e.
-newtab-privacy-modal-paragraph =
-    Ome’ẽse avei tembiasakue oporombovy’áva, avei rohechauka marandu iporãva,
-    tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, nde kundaha mba’ekuaarã tekorosã
-     araka’eve ndohejái mbohasarã mba’eteéva { -brand-product-name } rehegua: ndorohechái ha ore pytyvõhára avei.
 newtab-privacy-modal-paragraph-2 =
     Ome’ẽse avei tembiasakue oporombovy’áva, avei rohechauka marandu iporãva,
     tetepy pytyvõhára poravopyre ohechajeypyre. Ani ejepy’apy, nde kundaha mba’ekuaarã tekorosã
@@ -187,7 +187,6 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Háke! Haimete ñamyanyh
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Ñe'ẽmbyrã Ojehayhuvéva:
 newtab-pocket-more-recommendations = Hetave je’eporã
-newtab-pocket-whats-pocket = ¿Mba’e kóva { -pocket-brand-name }?
 newtab-pocket-learn-more = Kuaave
 newtab-pocket-cta-button = Eguereko { -pocket-brand-name }
 newtab-pocket-cta-text = Eñongatu umi eipotáva tembiasakue { -pocket-brand-name }-pe ha emombarete ne akã ñemoñe’ẽ ha’evévape.
