@@ -162,6 +162,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Қолжетерлік жаңартулар
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Кеңейтулер
+addon-category-plugin = Плагиндер
+addon-category-dictionary = Сөздіктер
+addon-category-locale = Тілдер
+addon-category-available-updates = Қолжетерлік жаңартулар
+addon-category-recent-updates = Соңғы жаңартулар
 
 ## These are global warnings
 
