@@ -188,6 +188,7 @@ language-name-tlh = клингонски
 language-name-tn = банту
 language-name-to = тонга
 language-name-tr = турски
+language-name-trs = Дрики (Triqui)
 language-name-ts = цонга
 language-name-tt = татарски
 language-name-tw = тви
