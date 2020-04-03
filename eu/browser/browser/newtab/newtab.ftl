@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Ekintza hau ezin da desegin.
 newtab-menu-section-tooltip =
     .title = Ireki menua
     .aria-label = Ireki menua
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Kendu
+    .aria-label = Kendu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,10 +90,6 @@ newtab-menu-show-privacy-info = Gure babesleak eta zure pribatutasuna
 
 newtab-privacy-modal-button-done = Eginda
 newtab-privacy-modal-header = Zure pribatutasuna garrantzitsua da.
-newtab-privacy-modal-paragraph =
-    Harrapatuko zaituzten istorioak biltzeaz gain, hautatutako babesleek
-    hornitutako eta aurrez ikuskatutako eduki esanguratsua ere erakusten dizugu.
-    Zaude lasai, zure nabigatze-datuak inoiz ez dira zure { -brand-product-name }(e)tik irtengo — ez guk ez eta gure babesleek ez dute halakorik ikusten.
 newtab-privacy-modal-paragraph-2 =
     Harrapatuko zaituzten istorioak biltzeaz gain, hautatutako babesleek
     hornitutako eta aurrez ikuskatutako eduki esanguratsua ere erakusten dizugu.
@@ -187,7 +187,6 @@ newtab-discovery-empty-section-topstories-timed-out = Kontxo! Atal hau ia-ia kar
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Gai ezagunak:
 newtab-pocket-more-recommendations = Gomendio gehiago
-newtab-pocket-whats-pocket = Zer da { -pocket-brand-name }?
 newtab-pocket-learn-more = Argibide gehiago
 newtab-pocket-cta-button = Eskuratu { -pocket-brand-name }
 newtab-pocket-cta-text = Gorde gogoko dituzun istorioak { -pocket-brand-name }-en eta piztu zure gogoa irakurgai erakargarriekin.
