@@ -149,6 +149,7 @@ onboarding-import-browser-settings-text = Zachopśo ned - wzejśo swóje sedła 
 onboarding-import-browser-settings-button = Daty Chrome importěrowaś
 onboarding-personal-data-promise-title = Priwatny pó designje
 onboarding-personal-data-promise-text = { -brand-product-name } z wašymi datami z respektom wobchada, zběra mjenjej z nich, šćita je a groni jasnje, kak my je wužywamy.
+onboarding-personal-data-promise-button = Cytajśo našo zlubjenje
 
 ## Message strings belonging to the Return to AMO flow
 
