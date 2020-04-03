@@ -167,6 +167,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = De metre a jorn
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Extensions
+addon-category-plugin = Empeutons (Plugins)
+addon-category-dictionary = Diccionaris
+addon-category-locale = Lengas
+addon-category-available-updates = De metre a jorn
+addon-category-recent-updates = Mes a jorn
 
 ## These are global warnings
 
