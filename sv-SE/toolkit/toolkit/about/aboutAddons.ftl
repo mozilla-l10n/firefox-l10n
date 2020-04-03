@@ -162,6 +162,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Tillgängliga uppdateringar
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Rekommendationer
 addon-category-extension = Tillägg
 addon-category-theme = Teman
 addon-category-plugin = Insticksmoduler
