@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "Z">
 <!ENTITY removeSearchEngine.label         "Wotstronić">
 <!ENTITY removeSearchEngine.accesskey     "t">
+
+<!ENTITY minimizeToTray.label             "Hdyž &brandShortName; je miniměrowany, přesuńće jón do žłobika.">
+<!ENTITY minimizeToTray.accesskey         "m">
