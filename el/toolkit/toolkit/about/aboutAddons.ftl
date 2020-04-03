@@ -171,6 +171,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Διαθέσιμες ενημερώσεις
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Προτάσεις
 addon-category-extension = Επεκτάσεις
 addon-category-theme = Θέματα
 addon-category-plugin = Αρθρώματα
