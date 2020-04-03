@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Taq k'exoj e k'o
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Taq k'amal
 
 ## These are global warnings
 
