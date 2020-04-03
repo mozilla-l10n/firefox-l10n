@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Приватно прегледање)
        *[other] { $title } - { -brand-full-name } (Приватно прегледање)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Погледај информације сајта
 
@@ -69,6 +66,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Отвори панел са порукама
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Отвори панел за захтев локације
+urlbar-xr-notification-anchor =
+    .tooltiptext = Отворите панел дозвола за виртуелну стварност
 urlbar-storage-access-anchor =
     .tooltiptext = Отвори површ са дозволама за активности прегледања
 urlbar-translate-notification-anchor =
@@ -94,6 +93,11 @@ urlbar-addons-notification-anchor =
 urlbar-tip-help-icon =
     .title = Потражите помоћ
 urlbar-search-tips-confirm = Важи, разумем
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Савет:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -101,12 +105,17 @@ urlbar-search-tips-confirm = Важи, разумем
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Укуцајте мање, пронађите више: претражујте { $engineName } директно из ваше адресне траке.
-urlbar-search-tips-redirect = Започните ваше претраживање овде да бисте видели предлоге { $engineName }-а и вашег историјата.
+urlbar-search-tips-redirect-2 = Започните вашу претрагу у адресној траци да бисте видели { $engineName } предлоге и вашу историју прегледања.
+
+##
+
 
 ##
 
 urlbar-geolocation-blocked =
     .tooltiptext = Блокирали сте локацију за овај веб сајт.
+urlbar-xr-blocked =
+    .tooltiptext = Блокирали сте приступ уређајима за виртуелну стварност за ову страници.
 urlbar-web-notifications-blocked =
     .tooltiptext = Блокирали сте обавештења за овај веб сајт.
 urlbar-camera-blocked =
@@ -209,6 +218,7 @@ identity-clear-site-data =
     .label = Обриши колачиће и податке сајта…
 identity-connection-not-secure-security-view = Нисте безбедно повезани са овом страницом.
 identity-connection-verified = Безбедно сте повезани са овом страницом.
+identity-ev-owner-label = Сертификат издан за:
 identity-description-custom-root = Mozilla не препознаје издавача овог сертификата. Можда је додат из вашег оперативног система или од стране администратора. <label data-l10n-name="link">Сазнајте више</label>
 identity-remove-cert-exception =
     .label = Уклони изузетак

@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Забележи ову страницу
-    .accesskey = з
 main-context-menu-bookmark-add =
     .aria-label = Забележи ову страницу
     .accesskey = з
@@ -184,6 +181,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Обустави приказ преко целог екрана
     .accesskey = к
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Слика у слици
+    .accesskey = у
 main-context-menu-image-reload =
     .label = Учитај поново слике
     .accesskey = ч
@@ -250,6 +252,9 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = Прикажи позадинску слику
     .accesskey = з
+main-context-menu-generate-new-password =
+    .label = Користите генерисану лозинку…
+    .accesskey = г
 main-context-menu-keyword =
     .label = Додај кључну реч за ову претрагу…
     .accesskey = Д
