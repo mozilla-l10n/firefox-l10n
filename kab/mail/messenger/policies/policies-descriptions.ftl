@@ -29,6 +29,8 @@ policy-DisableFeedbackCommands = Ssens tiludna akken ad aɣ-d-tazneḍ tikti-ik 
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n yisefka.
 policy-DisableMasterPasswordCreation = Ma d tidet, awal uffir agejdan ur yezmir ara ad yettwarnu.
 policy-DisableProfileImport = Sens taladna n wumuɣ akken ad tketreḍ isefka seg usnas-nniḍen.
+policy-DisableSecurityBypass = Sewḥel aseqdec akken ur iɣelli ara deg kra n wuguren n tɣellist.
+policy-DisableSystemAddonUpdate = Sewḥel { -brand-short-name } ɣef usbeddi d uleqqem n yizegrar n unagraw.
 policy-DisableTelemetry = Sens tilisɣelt.
 policy-DisplayMenuBar = Sken-d afeggag n wumuɣ s wudem amezwer.
 policy-DNSOverHTTPS = Swel DNS s HTTPS.
@@ -47,7 +49,11 @@ policy-InstallAddonsPermission = Sireg asebeddi n yizegrar i kra n yismal web.
 policy-LocalFileLinks = Sireg ismal usdiden ad cudden ɣer yifuyla idiganen.
 policy-NetworkPrediction = Rmed neɣ sens tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
 policy-SanitizeOnShutdown2 = Sfeḍ isefka n tunigin deg usexsi.
+policy-SearchEngines = Swel iɣewwaṛen n umsedday n unadi. Tasertit-a tella kan deg llqem Extended Support Release (ESR).
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
 policy-SecurityDevices = Sebded izegrar n PKCS #11.
 policy-SSLVersionMax = Sbadu llqem afellay n SSL.
 policy-SSLVersionMin = Sbadu llqem adday n SSL.
+policy-SupportMenu = Rnu aferdis n wumuɣ n tallelt yugnen ɣer wumuɣ n uɛiwen.
+# “format” refers to the format used for the value of this policy.
+policy-WebsiteFilter = Sewḥel anekcum ɣer yismal web. Wali tasemlit i wugar n telqayt ɣef umasal.
