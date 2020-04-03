@@ -164,6 +164,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = ਸਿਫਾਰਸ਼
 addon-category-extension = ਇਕਸਟੈਨਸ਼ਨ
 addon-category-theme = ਥੀਮ
 addon-category-plugin = ਪਲੱਗਇਨ
