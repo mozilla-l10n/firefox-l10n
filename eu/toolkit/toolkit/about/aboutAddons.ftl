@@ -164,6 +164,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Hedapenak
 addon-category-plugin = Pluginak
+addon-category-dictionary = Hiztegiak
 addon-category-locale = Hizkuntzak
 addon-category-available-updates = Eguneraketak eskura
 addon-category-recent-updates = Azken eguneraketak
