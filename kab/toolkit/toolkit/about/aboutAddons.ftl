@@ -168,6 +168,7 @@ extensions-view-available-updates =
     .name = Ileqman yellan
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Isiɣzaf
+addon-category-theme = Isental
 addon-category-plugin = Izegrar
 addon-category-dictionary = Imawalen
 addon-category-locale = Tutlayin
