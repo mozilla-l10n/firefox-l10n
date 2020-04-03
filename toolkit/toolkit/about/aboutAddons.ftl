@@ -170,6 +170,7 @@ extensions-view-available-updates =
     .name = Даступныя абнаўленні
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Пашырэнні
+addon-category-plugin = Плагіны
 addon-category-dictionary = Слоўнікі
 addon-category-locale = Мовы
 addon-category-available-updates = Даступныя абнаўленні
