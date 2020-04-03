@@ -172,6 +172,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Доступні оновлення
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Розширення
+addon-category-plugin = Плагіни
+addon-category-dictionary = Словники
+addon-category-locale = Мови
+addon-category-available-updates = Доступні оновлення
+addon-category-recent-updates = Недавні оновлення
 
 ## These are global warnings
 
