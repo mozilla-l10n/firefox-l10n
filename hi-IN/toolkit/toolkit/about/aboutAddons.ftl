@@ -138,6 +138,7 @@ extensions-view-available-updates =
     .name = उपलब्ध अद्यतन
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = विस्तार
+addon-category-theme = विषयवस्तुएँ
 addon-category-plugin = प्लगइन
 addon-category-dictionary = शब्दकोश
 addon-category-locale = भाषाएँ
