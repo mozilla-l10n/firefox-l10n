@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Доступные обновления
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Рекомендации
 addon-category-extension = Расширения
 addon-category-plugin = Плагины
 addon-category-dictionary = Словари
