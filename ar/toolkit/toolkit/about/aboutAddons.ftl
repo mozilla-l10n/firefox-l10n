@@ -145,6 +145,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = التحديثات المتاحة
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = الامتدادات
+addon-category-plugin = الملحقات
+addon-category-dictionary = القواميس
+addon-category-locale = اللغات
+addon-category-available-updates = التحديثات المتاحة
+addon-category-recent-updates = التحديثات الأخيرة
 
 ## These are global warnings
 
