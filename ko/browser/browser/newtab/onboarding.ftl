@@ -21,12 +21,12 @@ onboarding-button-label-get-started = 시작하기
 onboarding-welcome-header = { -brand-short-name }를 사용해 주셔서 감사합니다.
 onboarding-welcome-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name }의 나머지를 만나 보세요.
 onboarding-welcome-learn-more = 장점 더 알아보기
+onboarding-join-form-header = { -brand-product-name }와 함께하기
 onboarding-welcome-modal-get-body = 이제 브라우저가 있습니다.<br/>{ -brand-product-name }를 최대한 활용해 보세요.
 onboarding-welcome-modal-supercharge-body = 개인 정보 보호를 강화하세요.
 onboarding-welcome-modal-privacy-body = 이제 브라우저가 있습니다. 개인 정보 보호 기능을 더 추가해 보세요.
 onboarding-welcome-modal-family-learn-more = { -brand-product-name } 제품군에 대해 알아보세요.
 onboarding-welcome-form-header = 여기서 시작
-onboarding-join-form-header = { -brand-product-name }와 함께하기
 onboarding-join-form-body = 시작하려면 이메일 주소를 입력하세요.
 onboarding-join-form-email =
     .placeholder = 이메일 입력
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = 확장 기능 추가
 onboarding-import-browser-settings-title = 북마크, 비밀번호 등을 가져오기
 onboarding-import-browser-settings-text = Chrome 사이트와 설정을 쉽게 가져올 수 있습니다.
 onboarding-import-browser-settings-button = Chrome 데이터 가져오기
+onboarding-personal-data-promise-title = 사생활 보호를 고려한 설계
+onboarding-personal-data-promise-text = { -brand-product-name }는 사용자의 데이터를 적게 사용하고 보호하며 사용하는 방법을 명확히 함으로써 사용자의 데이터를 존중합니다.
+onboarding-personal-data-promise-button = 우리의 약속을 읽으세요
 
 ## Message strings belonging to the Return to AMO flow
 
