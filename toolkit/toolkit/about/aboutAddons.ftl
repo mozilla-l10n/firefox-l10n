@@ -168,6 +168,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Nove posodobitve
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-plugin = Vtičniki
+addon-category-dictionary = Slovarji
+addon-category-available-updates = Nove posodobitve
+addon-category-recent-updates = Nedavne posodobitve
 
 ## These are global warnings
 
