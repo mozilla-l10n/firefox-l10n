@@ -167,9 +167,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Mevcut güncellemeler
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Öneriler
+addon-category-extension = Eklentiler
+addon-category-theme = Temalar
 addon-category-plugin = Yan uygulamalar
 addon-category-dictionary = Sözlükler
 addon-category-locale = Diller
+addon-category-available-updates = Mevcut güncellemeler
+addon-category-recent-updates = Yakın zamandaki güncellemeler
 
 ## These are global warnings
 
