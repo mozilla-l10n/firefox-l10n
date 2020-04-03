@@ -15,5 +15,6 @@
 <!ENTITY addNewToolbar.label      "Lisää uusi työkalupalkki">
 <!ENTITY showTitlebar.label       "Näytä otsikkopalkki">
 <!ENTITY extraDragSpace.label     "Lisää tyhjää tilaa vetämistä varten">
+<!ENTITY showTitlebar2.label      "Otsikkopalkki">
 <!ENTITY saveChanges.label        "Valmis">
 <!ENTITY undoChanges.label        "Peruuta muutokset">
