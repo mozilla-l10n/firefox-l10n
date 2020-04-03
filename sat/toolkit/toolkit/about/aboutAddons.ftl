@@ -111,6 +111,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = हा़लियाक् को ञामोक् आ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = पासनाव को
+addon-category-plugin = खोंजा आदेर को
+addon-category-dictionary = साबाद माने गादेल को
+addon-category-locale = पा़रसी को
+addon-category-available-updates = हा़लियाक् को ञामोक् आ
+addon-category-recent-updates = नितोक् हा़लियाक् को
 
 ## These are global warnings
 
