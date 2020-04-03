@@ -117,6 +117,7 @@ extensions-view-available-updates =
     .name = थानाय आपडेटफोर
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = बारायनायफोर
+addon-category-theme = थिम
 addon-category-plugin = प्लागिनफोर
 addon-category-dictionary = सोदोब बिहुंफोर
 addon-category-locale = रावफोर
