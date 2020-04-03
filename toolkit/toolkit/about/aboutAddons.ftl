@@ -162,6 +162,11 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Eguneraketak eskura
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Hedapenak
+addon-category-plugin = Pluginak
+addon-category-locale = Hizkuntzak
+addon-category-available-updates = Eguneraketak eskura
+addon-category-recent-updates = Azken eguneraketak
 
 ## These are global warnings
 
