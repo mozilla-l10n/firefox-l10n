@@ -167,9 +167,14 @@ breach-alert-link = Les mer om denne datalekkasjen.
 breach-alert-dismiss =
     .title = Lukk dette varselet
 about-logins-breach-alert-date = Denne datalekkasjen skjedde den { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Gå til { $hostname }
+about-logins-breach-alert-learn-more-link = Les mer
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Sårbart passord
 
 ## Error Messages
 
