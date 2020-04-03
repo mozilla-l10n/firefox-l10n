@@ -27,6 +27,13 @@ onboarding-welcome-body =
        *[other] aplikace { -brand-product-name }
     }.
 onboarding-welcome-learn-more = Další výhody.
+onboarding-join-form-header =
+    Používejte { -brand-product-name.gender ->
+        [masculine] { -brand-product-name(case: "acc") }
+        [feminine] { -brand-product-name(case: "acc") }
+        [neuter] { -brand-product-name(case: "acc") }
+       *[other] aplikaci { -brand-product-name }
+    }
 onboarding-welcome-modal-get-body =
     Prohlížeč teď už máte.<br/>Využijte { -brand-product-name.gender ->
         [masculine] { -brand-product-name(case: "acc") }
@@ -38,13 +45,6 @@ onboarding-welcome-modal-supercharge-body = Dopřejte si silnou ochranu soukrom�
 onboarding-welcome-modal-privacy-body = Prohlížeč už teď máte. Přidejme k němu ještě trochu ochrany soukromí.
 onboarding-welcome-modal-family-learn-more = Zjistěte více o celé rodině produktů { -brand-product-name }.
 onboarding-welcome-form-header = Začněme
-onboarding-join-form-header =
-    Používejte { -brand-product-name.gender ->
-        [masculine] { -brand-product-name(case: "acc") }
-        [feminine] { -brand-product-name(case: "acc") }
-        [neuter] { -brand-product-name(case: "acc") }
-       *[other] aplikaci { -brand-product-name }
-    }
 onboarding-join-form-body = Zde zadejte svou e-mailovou adresu.
 onboarding-join-form-email =
     .placeholder = Zadejte e-mail
@@ -207,6 +207,9 @@ onboarding-facebook-container-button = Nainstalovat rozšíření
 onboarding-import-browser-settings-title = Importujte své záložky, hesla a další data
 onboarding-import-browser-settings-text = Pojďme na to — přenos oblíbených stránek a nastavení z Chromu je velmi jednoduchý.
 onboarding-import-browser-settings-button = Import dat z prohlížeče Chrome
+onboarding-personal-data-promise-title = Soukromí už v návrhu
+onboarding-personal-data-promise-text = { -brand-product-name } chrání vaše soukromí, respektujte a chrání vaše data a jasně říká, jak je používáme.
+onboarding-personal-data-promise-button = Přečtěte si náš slib
 
 ## Message strings belonging to the Return to AMO flow
 
