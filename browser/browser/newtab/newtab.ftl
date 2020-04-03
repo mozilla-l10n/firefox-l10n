@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Essa ação não pode ser desfeita.
 newtab-menu-section-tooltip =
     .title = Abrir menu
     .aria-label = Abrir menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Remover
+    .aria-label = Remover
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -180,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Opa! Nós quase carregamos
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tópicos populares:
 newtab-pocket-more-recommendations = Mais recomendações
-newtab-pocket-whats-pocket = O que é { -pocket-brand-name }?
 newtab-pocket-learn-more = Saiba mais
 newtab-pocket-cta-button = Adicionar o { -pocket-brand-name }
 newtab-pocket-cta-text = Salve as histórias que você gosta no { -pocket-brand-name } e abasteça sua mente com leituras fascinantes.
