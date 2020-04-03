@@ -166,10 +166,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Aktualizacije
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Doporučenja
 addon-category-extension = Rozšěrjenja
+addon-category-theme = Drasty
 addon-category-plugin = Tykače
 addon-category-dictionary = Słowniki
 addon-category-locale = Rěče
+addon-category-available-updates = Aktualizacije
+addon-category-recent-updates = Nowe aktualizacije
 
 ## These are global warnings
 
