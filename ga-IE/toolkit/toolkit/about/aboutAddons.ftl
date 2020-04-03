@@ -132,6 +132,8 @@ addon-category-extension = Eisínteachtaí
 addon-category-plugin = Forlíontáin
 addon-category-dictionary = Foclóirí
 addon-category-locale = Teangacha
+addon-category-available-updates = Nuashonruithe Ar Fáil
+addon-category-recent-updates = Nuashonruithe Le Déanaí
 
 ## These are global warnings
 
