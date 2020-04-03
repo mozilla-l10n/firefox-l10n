@@ -55,3 +55,10 @@ update-in-progress-ok-button = &Opusti
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Nadaljuj
+
+## OS Authentication dialog
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Potrdite svojo identiteto za ustvarjanje glavnega gesla.
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
