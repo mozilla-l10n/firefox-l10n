@@ -164,6 +164,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Actualizări disponibile
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-dictionary = Dicționare
+addon-category-locale = Limbi
+addon-category-available-updates = Actualizări disponibile
+addon-category-recent-updates = Actualizări recente
 
 ## These are global warnings
 
