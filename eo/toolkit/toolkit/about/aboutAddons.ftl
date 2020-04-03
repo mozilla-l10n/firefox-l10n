@@ -164,6 +164,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Rekomendoj
 addon-category-extension = Etendaĵoj
+addon-category-theme = Etosoj
 addon-category-plugin = Kromprogramoj
 addon-category-dictionary = Vortaroj
 addon-category-locale = Lingvoj
