@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Prěnje kroki
 onboarding-welcome-header = Witajće k { -brand-short-name }
 onboarding-welcome-body = Maće wobhladowak.<br/>Zeznajće so ze zbytkom { -brand-product-name }.
 onboarding-welcome-learn-more = Dalše informacije wo lěpšinach.
+onboarding-join-form-header = Přidružće so k { -brand-product-name }
 onboarding-welcome-modal-get-body = Maće wobhladowak.<br/>Wućehńće najlěpše z { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Přećežće swój škit priwatnosće.
 onboarding-welcome-modal-privacy-body = Maće wobhladowak. Přidajmy wjace škita priwatnosće.
 onboarding-welcome-modal-family-learn-more = Zhońće wjace wo produktowej swójbje { -brand-product-name }.
 onboarding-welcome-form-header = Tu započeć
-onboarding-join-form-header = Přidružće so k { -brand-product-name }
 onboarding-join-form-body = Zapodajće swoju e-mejlowu adresu, zo byšće započał.
 onboarding-join-form-email =
     .placeholder = E-mejlowu adresu zapodać
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Wzmiće { -brand-product-name } sobu
 onboarding-sync-welcome-content = Wzmiće swoje zapołožki, historiju, hesła a druhe nastajenja na wšěch wašich gratach sobu.
 onboarding-sync-welcome-learn-more-link = Zhońće wjace wo Firefox Accounts
-onboarding-sync-form-invalid-input = Płaćiwa e-mejlowa adresa trěbna
-onboarding-sync-legal-notice = Hdyž pokročujeće, zwoliće do <a data-l10n-name="terms">Wužiwanske wuměnjenja</a> a <a data-l10n-name="privacy">Zdźělenka priwatnosće</a>.
 onboarding-sync-form-input =
     .placeholder = E-mejl
 onboarding-sync-form-continue-button = Pokročować
@@ -149,6 +147,8 @@ onboarding-facebook-container-button = Rozšěrjenje přidać
 onboarding-import-browser-settings-title = Waše zapołožki, hesła a wjace importować
 onboarding-import-browser-settings-text = Započńće hnydom - wzmiće swoje sydła Chrome a nastajenja sobu.
 onboarding-import-browser-settings-button = Daty Chrome importować
+onboarding-personal-data-promise-title = Priwatny po designje
+onboarding-personal-data-promise-button = Čitajće naše slubjenje
 
 ## Message strings belonging to the Return to AMO flow
 

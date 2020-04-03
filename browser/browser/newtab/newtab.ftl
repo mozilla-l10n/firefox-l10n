@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Tuta akcija njeda so cofnyć.
 newtab-menu-section-tooltip =
     .title = Meni wočinić
     .aria-label = Meni wočinić
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Wotstronić
+    .aria-label = Wotstronić
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Naši sponsorojo a waša priwatnosć
 
 newtab-privacy-modal-button-done = Dokónčene
 newtab-privacy-modal-header = Waša priwatnosć je wažna
-newtab-privacy-modal-paragraph =
-    Přidatnje k napowědanju putawych powědančkow, pokazujemy wam tež relewantny, 
-    jara přepruwowany wobsah wot wubranych sponsorow. Budźće zawěsćeny, waše přehladowanske 
-    daty wašu wosobinsku wersiju { -brand-product-name } ženje njewopušća ­­- njewidźimy je, a naši 
-    sponsorojo tež nic.
 newtab-privacy-modal-paragraph-2 =
     Přidatnje k napowědanju putawych powědančkow, pokazujemy wam tež relewantny, 
     jara přepruwowany wobsah wot wubranych sponsorow. Budźće zawěsćeny, <strong>waše přehladowanske 
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hopla! Smy tutón wotrězk
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Woblubowane temy:
 newtab-pocket-more-recommendations = Dalše doporučenja
-newtab-pocket-whats-pocket = Što je { -pocket-brand-name }?
 newtab-pocket-learn-more = Dalše informacije
 newtab-pocket-cta-button = { -pocket-brand-name } wobstarać
 newtab-pocket-cta-text = Składujće stawizny, kotrež so wam spodobuja, w { -pocket-brand-name } a žiwće swój duch z fascinowacymi čitančkami.
