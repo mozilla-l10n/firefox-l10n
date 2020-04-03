@@ -167,6 +167,11 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Elérhető frissítések
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-plugin = Bővítmények
+addon-category-dictionary = Szótárak
+addon-category-locale = Nyelvek
+addon-category-available-updates = Elérhető frissítések
+addon-category-recent-updates = Legutóbbi frissítések
 
 ## These are global warnings
 
