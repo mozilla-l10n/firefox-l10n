@@ -124,6 +124,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = ရရှိနိုင်သော အဆင့်မြင်တင်မှု
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = တိုးချဲ့ချက်များ
+addon-category-plugin = ပလပ်အင်
+addon-category-locale = ဘာသာ စကားများ
+addon-category-recent-updates = လက်ရှိ အသစ်
 
 ## These are global warnings
 
