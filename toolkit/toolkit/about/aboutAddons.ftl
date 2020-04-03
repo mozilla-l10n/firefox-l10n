@@ -162,6 +162,13 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Haveblaj ĝisdatigoj
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Rekomendoj
+addon-category-extension = Etendaĵoj
+addon-category-plugin = Kromprogramoj
+addon-category-dictionary = Vortaroj
+addon-category-locale = Lingvoj
+addon-category-available-updates = Haveblaj ĝisdatigoj
+addon-category-recent-updates = Ĵusaj ĝisdatigoj
 
 ## These are global warnings
 
