@@ -167,6 +167,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Galimi naujinimai
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Plėtiniai
+addon-category-plugin = Papildiniai
+addon-category-dictionary = Žodynai
+addon-category-locale = Kalbos
+addon-category-available-updates = Galimi naujinimai
+addon-category-recent-updates = Paskiausiai atnaujinti
 
 ## These are global warnings
 
