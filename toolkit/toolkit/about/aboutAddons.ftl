@@ -168,6 +168,7 @@ extensions-view-available-updates =
     .name = Päivitykset
     .tooltiptext = Saatavilla olevat päivitykset
 addon-category-extension = Laajennukset
+addon-category-theme = Teemat
 addon-category-plugin = Liitännäiset
 addon-category-dictionary = Oikoluvut
 addon-category-locale = Kielet
