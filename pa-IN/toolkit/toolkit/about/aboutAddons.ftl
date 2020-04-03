@@ -165,9 +165,11 @@ extensions-view-available-updates =
     .name = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = ਇਕਸਟੈਨਸ਼ਨ
+addon-category-theme = ਥੀਮ
 addon-category-plugin = ਪਲੱਗਇਨ
 addon-category-dictionary = ਡਿਕਸ਼ਨਰੀਆਂ
 addon-category-locale = ਭਾਸ਼ਾਵਾਂ
+addon-category-available-updates = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
 addon-category-recent-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
 
 ## These are global warnings
