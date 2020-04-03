@@ -174,6 +174,8 @@ extensions-view-available-updates =
 addon-category-extension = Επεκτάσεις
 addon-category-dictionary = Λεξικά
 addon-category-locale = Γλώσσες
+addon-category-available-updates = Διαθέσιμες ενημερώσεις
+addon-category-recent-updates = Πρόσφατες ενημερώσεις
 
 ## These are global warnings
 
