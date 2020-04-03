@@ -170,6 +170,7 @@ extensions-view-available-updates =
 addon-category-plugin = Phần bổ trợ
 addon-category-dictionary = Từ điển
 addon-category-locale = Ngôn ngữ
+addon-category-recent-updates = Cập nhật gần đây
 
 ## These are global warnings
 
