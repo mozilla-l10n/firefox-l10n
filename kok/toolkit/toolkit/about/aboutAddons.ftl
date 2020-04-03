@@ -111,6 +111,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = उपलब्ध अपडेट
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = { " " }विस्तार
+addon-category-plugin = प्लग इन
+addon-category-dictionary = शब्दकोष
+addon-category-locale = भासो
+addon-category-available-updates = उपलब्ध अपडेट
+addon-category-recent-updates = हालींचे अपडेट
 
 ## These are global warnings
 
