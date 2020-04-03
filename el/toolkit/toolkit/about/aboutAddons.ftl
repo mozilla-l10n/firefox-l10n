@@ -171,6 +171,9 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Διαθέσιμες ενημερώσεις
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Επεκτάσεις
+addon-category-dictionary = Λεξικά
+addon-category-locale = Γλώσσες
 
 ## These are global warnings
 
