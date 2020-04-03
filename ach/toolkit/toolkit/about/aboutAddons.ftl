@@ -152,6 +152,7 @@ extensions-view-available-updates =
     .name = Ngec manyen matye
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Kube pa tic a kompiuta
+addon-category-theme = Theme
 addon-category-plugin = Rwaki iyie
 addon-category-dictionary = Buk me gonyo nyukta
 addon-category-locale = Leb
