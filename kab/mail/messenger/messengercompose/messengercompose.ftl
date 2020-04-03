@@ -5,6 +5,8 @@
 
 # Addressing widget
 
+#   $type (String) - the type of the addressing row
+remove-address-row-type = Kkes urti { $type }
 pill-action-edit =
     .label = Ẓreg tansa
     .accesskey = r
