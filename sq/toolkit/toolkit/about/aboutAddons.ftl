@@ -165,6 +165,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Përditësime të Gatshme
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Rekomandime
+addon-category-extension = Zgjerime
+addon-category-theme = Tema
+addon-category-plugin = Shtojca
+addon-category-dictionary = Fjalorë
+addon-category-locale = Gjuhë
+addon-category-available-updates = Përditësime të Gatshme
+addon-category-recent-updates = Përditësime Së Fundi
 
 ## These are global warnings
 
