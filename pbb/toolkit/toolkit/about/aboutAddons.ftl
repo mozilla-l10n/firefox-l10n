@@ -122,6 +122,11 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Een ji'phsa's yu'pthẽhna
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Jxujuy txi'pnxisa
+addon-category-plugin = Plugins
+addon-category-dictionary = Yuwe tasx
+addon-category-locale = We'wenxisaa
+addon-category-available-updates = Een ji'phsa's yu'pthẽhna
 
 ## These are global warnings
 
