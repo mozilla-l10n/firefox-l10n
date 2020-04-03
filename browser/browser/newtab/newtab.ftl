@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = 이 작업은 취소할 수 없습니다.
 newtab-menu-section-tooltip =
     .title = 메뉴 열기
     .aria-label = 메뉴 열기
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = 삭제
+    .aria-label = 삭제
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -184,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = 이런! 이 섹션을 거�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = 인기 주제:
 newtab-pocket-more-recommendations = 더 많은 추천
-newtab-pocket-whats-pocket = { -pocket-brand-name }은 무엇인가요?
 newtab-pocket-learn-more = 더 알아보기
 newtab-pocket-cta-button = { -pocket-brand-name } 받기
 newtab-pocket-cta-text = 좋아하는 이야기를 { -pocket-brand-name }에 저장하고 재미있게 읽어 보세요.
