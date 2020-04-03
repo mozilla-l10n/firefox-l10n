@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Ileqman yellan
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Iwellihen
 addon-category-extension = Isiɣzaf
 addon-category-theme = Isental
 addon-category-plugin = Izegrar
