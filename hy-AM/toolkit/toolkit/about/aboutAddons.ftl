@@ -170,6 +170,7 @@ extensions-view-available-updates =
 addon-category-plugin = Բաղադրիչներ
 addon-category-dictionary = Բառարաններ
 addon-category-locale = Լեզուներ
+addon-category-available-updates = Առկա Թարմացումներ
 addon-category-recent-updates = Վերջին Թարմացումները
 
 ## These are global warnings
