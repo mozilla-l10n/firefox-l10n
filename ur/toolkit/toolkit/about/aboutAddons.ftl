@@ -152,6 +152,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = دستیاب تازہ کاریاں
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = سفارشات
 addon-category-extension = توسیعات
 addon-category-theme = خیالیے
 addon-category-plugin = پلگ ان
