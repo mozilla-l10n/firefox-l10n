@@ -192,9 +192,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Dostupné aktualizace
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Doporučení
 addon-category-extension = Rozšíření
+addon-category-theme = Motivy vzhledu
 addon-category-plugin = Zásuvné moduly
 addon-category-dictionary = Slovníky
+addon-category-locale = Jazyky
+addon-category-available-updates = Dostupné aktualizace
+addon-category-recent-updates = Aktualizováno
 
 ## These are global warnings
 
