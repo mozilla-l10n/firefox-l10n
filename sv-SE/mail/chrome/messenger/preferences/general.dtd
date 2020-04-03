@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "L">
 <!ENTITY removeSearchEngine.label         "Ta bort">
 <!ENTITY removeSearchEngine.accesskey     "T">
+
+<!ENTITY minimizeToTray.label             "När &brandShortName; minimeras, flytta den till aktivitetsfält">
+<!ENTITY minimizeToTray.accesskey         "m">
