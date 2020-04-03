@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Elérhető frissítések
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Javaslatok
 addon-category-extension = Kiegészítők
 addon-category-theme = Témák
 addon-category-plugin = Bővítmények
