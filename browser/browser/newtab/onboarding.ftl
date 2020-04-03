@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Prědne kšace
 onboarding-welcome-header = Witajśo k { -brand-short-name }
 onboarding-welcome-body = Maśo wobglědowak.<br/>Póznajśo zbytk { -brand-product-name }.
 onboarding-welcome-learn-more = Dalšne informacije wó lěpšynach.
+onboarding-join-form-header = Pśizamkniśo se k { -brand-product-name }
 onboarding-welcome-modal-get-body = Maśo wobglědowak.<br/>Wuwónoźćo nejlěpše z { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Pśeśěžćo swój šćit priwatnosći.
 onboarding-welcome-modal-privacy-body = Maśo wobglědowak. Pśidajmy wěcej šćita priwatnosći.
 onboarding-welcome-modal-family-learn-more = Zgóńśo wěcej wó produktowej swójźbje { -brand-product-name }.
 onboarding-welcome-form-header = How zachopiś
-onboarding-join-form-header = Pśizamkniśo se k { -brand-product-name }
 onboarding-join-form-body = Zapódajśo swóju e-mailowu adresu, aby zachopił.
 onboarding-join-form-email =
     .placeholder = E-mailowu adresu zapódaś
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Wzejśo { -brand-product-name } sobu
 onboarding-sync-welcome-content = Wzejśo swóje cytańske znamjenja, historiju, gronidła a druge nastajenja na wšych wašych rědach sobu.
 onboarding-sync-welcome-learn-more-link = Zgóńśo wěcej wó Firefox Accounts
-onboarding-sync-form-invalid-input = Płaśiwa e-mailowa adresa trěbna
-onboarding-sync-legal-notice = Gaž pókšacujośo, zwolijośo do <a data-l10n-name="terms">Wužywańske wuměnjenja</a> a <a data-l10n-name="privacy">Powěźeńka priwatnosći</a>.
 onboarding-sync-form-input =
     .placeholder = E-mail
 onboarding-sync-form-continue-button = Dalej
@@ -149,6 +147,8 @@ onboarding-facebook-container-button = Rozšyrjenje pśidaś
 onboarding-import-browser-settings-title = Waše cytańske znamjenja, ronidła a wěcej importěrowaś
 onboarding-import-browser-settings-text = Zachopśo ned - wzejśo swóje sedła Chrome a nastajenja sobu.
 onboarding-import-browser-settings-button = Daty Chrome importěrowaś
+onboarding-personal-data-promise-title = Priwatny pó designje
+onboarding-personal-data-promise-text = { -brand-product-name } z wašymi datami z respektom wobchada, zběra mjenjej z nich, šćita je a groni jasnje, kak my je wužywamy.
 
 ## Message strings belonging to the Return to AMO flow
 
