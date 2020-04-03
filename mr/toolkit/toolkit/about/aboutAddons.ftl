@@ -141,6 +141,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = उपलब्ध सुधारणा
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-dictionary = शब्दकोष
+addon-category-locale = भाषा
+addon-category-available-updates = उपलब्ध सुधारणा
+addon-category-recent-updates = नुकतीच सुधारणा
 
 ## These are global warnings
 
