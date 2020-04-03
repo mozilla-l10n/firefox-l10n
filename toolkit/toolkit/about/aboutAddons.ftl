@@ -134,6 +134,8 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Anovamientos disponibles
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Estensiones
+addon-category-locale = Llingües
 
 ## These are global warnings
 
