@@ -56,6 +56,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Maal-ala a Pannanarimaan
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-plugin = Anay
+addon-category-dictionary = Pagipatarusan
+addon-category-locale = Pagsasao
+addon-category-available-updates = Maal-ala a Pannanarimaan
 
 ## These are global warnings
 
