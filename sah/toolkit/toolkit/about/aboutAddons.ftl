@@ -111,6 +111,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Туттуллар кыахтаах саҥардыылар
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Кэҥэтиилэр
+addon-category-plugin = Плагииннар
+addon-category-dictionary = Тылдьыттар
+addon-category-locale = Тыллар
+addon-category-available-updates = Туттуллар кыахтаах саҥардыылар
+addon-category-recent-updates = Соторутааҥы саҥардыылар
 
 ## These are global warnings
 
