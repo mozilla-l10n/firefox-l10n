@@ -140,6 +140,8 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Kemaskini Tersedia
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-dictionary = Kamus
+addon-category-locale = Bahasa
 
 ## These are global warnings
 
