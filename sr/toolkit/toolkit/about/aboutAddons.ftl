@@ -164,6 +164,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Доступна ажурирања
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Препоруке
 addon-category-extension = Екстензије
 addon-category-theme = Теме
 addon-category-plugin = Прикључци
