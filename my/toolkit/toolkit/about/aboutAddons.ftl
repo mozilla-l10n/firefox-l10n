@@ -127,6 +127,7 @@ extensions-view-available-updates =
 addon-category-extension = တိုးချဲ့ချက်များ
 addon-category-plugin = ပလပ်အင်
 addon-category-locale = ဘာသာ စကားများ
+addon-category-available-updates = ရရှိနိုင်သော အဆင့်မြင်တင်မှု
 addon-category-recent-updates = လက်ရှိ အသစ်
 
 ## These are global warnings
