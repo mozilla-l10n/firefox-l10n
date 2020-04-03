@@ -160,6 +160,7 @@ extensions-view-available-updates =
     .name = Ùrachaidhean a tha ri am faighinn
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Leudachain
+addon-category-theme = Ùrlaran
 addon-category-plugin = Plugain
 addon-category-dictionary = Faclairean
 addon-category-locale = Cànain
