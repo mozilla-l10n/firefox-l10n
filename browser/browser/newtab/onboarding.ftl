@@ -148,6 +148,7 @@ onboarding-import-browser-settings-title = Importe seus favoritos, senhas e muit
 onboarding-import-browser-settings-text = Mergulhe direto - leve com facilidade seus sites e configurações do Chrome com você.
 onboarding-import-browser-settings-button = Importar dados do Chrome
 onboarding-personal-data-promise-title = Projetado para privacidade
+onboarding-personal-data-promise-text = A { -brand-product-name } trata seus dados com respeito: coletamos menos, protegemos e deixamos claro como os usamos.
 
 ## Message strings belonging to the Return to AMO flow
 
