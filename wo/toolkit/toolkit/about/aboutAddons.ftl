@@ -118,6 +118,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Yokk yi
 addon-category-plugin = Plugins
+addon-category-dictionary = Téere tekki baat
 addon-category-locale = Lammiñ yi
 addon-category-available-updates = Yeesal yi féex
 addon-category-recent-updates = Yeesal
