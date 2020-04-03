@@ -169,6 +169,7 @@ extensions-view-available-updates =
     .name = Nove posodobitve
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Razširitve
+addon-category-theme = Teme
 addon-category-plugin = Vtičniki
 addon-category-dictionary = Slovarji
 addon-category-locale = Jeziki
