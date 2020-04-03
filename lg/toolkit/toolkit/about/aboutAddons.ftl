@@ -111,6 +111,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Eby'okutuukanya ebiriwo
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Ebyongerebwako
+addon-category-plugin = Ebyongerwako
+addon-category-dictionary = Enkuluze
+addon-category-locale = Enimi
+addon-category-available-updates = Eby'okutuukanya ebiriwo
+addon-category-recent-updates = Ebituusa ebbipya
 
 ## These are global warnings
 
