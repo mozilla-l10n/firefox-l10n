@@ -146,6 +146,7 @@ extensions-view-available-updates =
     .name = Fáanlegar uppfærslur
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Viðbætur
+addon-category-theme = Þema
 addon-category-plugin = Tengiforrit
 addon-category-dictionary = Orðabækur
 addon-category-locale = Tungumál
