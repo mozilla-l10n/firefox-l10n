@@ -128,6 +128,11 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Kesɗitine Goodaaɗe
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Timmitte
+addon-category-plugin = Ceŋe
+addon-category-locale = Ɗemɗe
+addon-category-available-updates = Kesɗitine Goodaaɗe
+addon-category-recent-updates = Kesɗitine Cakkitiiɗe
 
 ## These are global warnings
 
