@@ -21,12 +21,12 @@ onboarding-button-label-get-started = 開始使用
 onboarding-welcome-header = 歡迎使用 { -brand-short-name }
 onboarding-welcome-body = 瀏覽器安裝完成。<br/>了解 { -brand-product-name } 的其他功能。
 onboarding-welcome-learn-more = 了解更多好處。
+onboarding-join-form-header = 加入 { -brand-product-name }
 onboarding-welcome-modal-get-body = 瀏覽器安裝完成。<br/>了解 { -brand-product-name } 的其他功能。
 onboarding-welcome-modal-supercharge-body = 加強對您的隱私保護。
 onboarding-welcome-modal-privacy-body = 瀏覽器安裝完成。現在讓我們加入更多隱私保護。
 onboarding-welcome-modal-family-learn-more = 了解 { -brand-product-name } 的系列產品。
 onboarding-welcome-form-header = 從這裡開始
-onboarding-join-form-header = 加入 { -brand-product-name }
 onboarding-join-form-body = 在此輸入您的電子郵件信箱，即可開始使用。
 onboarding-join-form-email =
     .placeholder = 輸入電子郵件信箱
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = { -brand-product-name } 隨身帶著走
 onboarding-sync-welcome-content = 在您的各種裝置上同步書籤、瀏覽紀錄、登入資訊及其他設定。
 onboarding-sync-welcome-learn-more-link = 了解 Firefox Accounts 的更多資訊
-onboarding-sync-form-invalid-input = 請輸入有效的電子郵件信箱
-onboarding-sync-legal-notice = 繼續使用，代表您同意我們的<a data-l10n-name="terms">使用條款</a>及<a data-l10n-name="privacy">隱私權公告</a>。
 onboarding-sync-form-input =
     .placeholder = 電子郵件
 onboarding-sync-form-continue-button = 繼續
@@ -149,6 +147,9 @@ onboarding-facebook-container-button = 安裝擴充套件
 onboarding-import-browser-settings-title = 匯入您的書籤、密碼與更多資料
 onboarding-import-browser-settings-text = 別猶豫—馬上把您的 Chrome 網站資料與設定匯入進來。
 onboarding-import-browser-settings-button = 匯入 Chrome 資料
+onboarding-personal-data-promise-title = 從設計就保護隱私
+onboarding-personal-data-promise-text = { -brand-product-name } 尊重您的資料，能少拿就少拿、盡力保護，並且明確說明我們會如何使用。
+onboarding-personal-data-promise-button = 閱讀我們的承諾
 
 ## Message strings belonging to the Return to AMO flow
 
