@@ -128,6 +128,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Dostupne nadogradnje
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Ekstenzije
+addon-category-plugin = Plugini
+addon-category-dictionary = Rječnici
+addon-category-locale = Jezici
 
 ## These are global warnings
 
