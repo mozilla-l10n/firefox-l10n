@@ -90,6 +90,11 @@ newtab-menu-show-privacy-info = Наши спонзори и ваша прива
 
 newtab-privacy-modal-button-done = Готово
 newtab-privacy-modal-header = Ваша приватност је битна.
+newtab-privacy-modal-paragraph-2 =
+    Поред дељења занимљивих прича, такође вам приказујемо релевантне,
+    пажљиво проверен садржаје одабраних спонзора. Будите сигурни, <strong>ваши подаци претраживања
+    никада не остављају вашу личну { -brand-product-name } копију</strong> — ми их не видимо,
+    као ни наши спонзори.
 newtab-privacy-modal-link = Сазнајте како ради приватност на новом језичку
 
 ##
