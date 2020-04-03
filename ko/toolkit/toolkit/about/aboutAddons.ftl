@@ -166,6 +166,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = 업데이트 가능 항목
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-theme = 테마
 addon-category-dictionary = 사전
 addon-category-available-updates = 업데이트 가능 항목
 
