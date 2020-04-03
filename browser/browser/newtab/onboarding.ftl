@@ -148,6 +148,8 @@ onboarding-import-browser-settings-title = Імпортуйте свої зак�
 onboarding-import-browser-settings-text = Швидке занурення — легко перенесіть свої сайти й налаштування з Chrome.
 onboarding-import-browser-settings-button = Імпорт даних Chrome
 onboarding-personal-data-promise-title = Розроблено для приватності
+onboarding-personal-data-promise-text = { -brand-product-name } ставиться до ваших даних з повагою, тому ми отримуємо їх якнайменше, захищаємо їх та чесно повідомляємо, як ми ними користуємося.
+onboarding-personal-data-promise-button = Прочитайте нашу Обіцянку
 
 ## Message strings belonging to the Return to AMO flow
 
