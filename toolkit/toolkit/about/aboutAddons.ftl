@@ -167,6 +167,8 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Առկա Թարմացումներ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-locale = Լեզուներ
+addon-category-recent-updates = Վերջին Թարմացումները
 
 ## These are global warnings
 
