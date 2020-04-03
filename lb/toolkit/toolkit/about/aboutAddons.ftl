@@ -13,6 +13,9 @@ detail-repository-value =
     .value = { detail-repository.label }
 detail-rating =
     .value = Bewäertung
+addon-category-extension = Erweiderungen
+addon-category-dictionary = Dictionnairen
+addon-category-locale = Sproochen
 
 ## These are global warnings
 
@@ -38,4 +41,22 @@ extensions-warning-update-security-container =
 
 
 ## Status messages displayed when updating add-ons
+
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
 
