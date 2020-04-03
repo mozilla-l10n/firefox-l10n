@@ -159,6 +159,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Ùrachaidhean a tha ri am faighinn
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Leudachain
+addon-category-plugin = Plugain
+addon-category-locale = Cànain
+addon-category-available-updates = Ùrachaidhean a tha ri am faighinn
 
 ## These are global warnings
 
