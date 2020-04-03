@@ -113,6 +113,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = ଅନୁଲଗ୍ନଗୁଡ଼ିକ
 addon-category-plugin = ପ୍ଲଗଇନଗୁଡ଼ିକ
+addon-category-dictionary = ଅଭିଧାନଗୁଡ଼ିକ
 addon-category-locale = ଭାଷା
 
 ## These are global warnings
