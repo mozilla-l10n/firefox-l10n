@@ -11,6 +11,7 @@ detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
     .value = { detail-repository.label }
+addon-category-extension = Өртгөтгөлүүд
 
 ## These are global warnings
 
