@@ -155,6 +155,8 @@ addon-category-extension = ضمیمه‌ها
 addon-category-plugin = افزونه‌ها
 addon-category-dictionary = واژه‌نامه‌ها
 addon-category-locale = زبان‌ها
+addon-category-available-updates = بروزرسانی‌های موجود
+addon-category-recent-updates = بروزرسانی‌های اخیر
 
 ## These are global warnings
 
