@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "Д">
 <!ENTITY removeSearchEngine.label         "Вилучити">
 <!ENTITY removeSearchEngine.accesskey     "в">
+
+<!ENTITY minimizeToTray.label             "Коли вікно з &brandShortName; згорнуте, перемістіть його в системний лоток">
+<!ENTITY minimizeToTray.accesskey         "з">
