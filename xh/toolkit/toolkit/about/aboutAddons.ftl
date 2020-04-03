@@ -128,6 +128,11 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Uhlaziyo olufumanekayo
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Izandiso
+addon-category-dictionary = Izichazi-magama
+addon-category-locale = Iilwimi
+addon-category-available-updates = Uhlaziyo olufumanekayo
+addon-category-recent-updates = Uhlaziyo lwakutshanje
 
 ## These are global warnings
 
