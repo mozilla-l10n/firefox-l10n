@@ -144,6 +144,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Agiornamenti disponibili
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-plugin = Plugin
 
 ## These are global warnings
 
