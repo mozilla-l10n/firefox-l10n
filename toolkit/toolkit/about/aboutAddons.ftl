@@ -166,6 +166,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Extensions
 addon-category-plugin = Connectors
+addon-category-dictionary = Diccionaris
 addon-category-locale = Llengües
 addon-category-available-updates = Actualitzacions disponibles
 addon-category-recent-updates = Actualitzacions recents
