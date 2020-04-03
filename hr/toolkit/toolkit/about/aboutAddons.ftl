@@ -169,6 +169,8 @@ addon-category-extension = Dodaci
 addon-category-plugin = Priključci
 addon-category-dictionary = Rječnici
 addon-category-locale = Jezici
+addon-category-available-updates = Dostupne dopune
+addon-category-recent-updates = Nedavne dopune
 
 ## These are global warnings
 
