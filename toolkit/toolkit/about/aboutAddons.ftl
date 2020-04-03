@@ -169,6 +169,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = À mettre à jour
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Extensions
+addon-category-plugin = Plugins
+addon-category-dictionary = Dictionnaires
+addon-category-locale = Langues
+addon-category-available-updates = À mettre à jour
+addon-category-recent-updates = Mis à jour
 
 ## These are global warnings
 
