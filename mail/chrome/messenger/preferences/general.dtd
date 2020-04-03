@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "Z">
 <!ENTITY removeSearchEngine.label         "Wótwónoźeś">
 <!ENTITY removeSearchEngine.accesskey     "t">
+
+<!ENTITY minimizeToTray.label             "Gaž &brandShortName; jo miniměrowany, pśesuńśo jen do žłobika.">
+<!ENTITY minimizeToTray.accesskey         "m">
