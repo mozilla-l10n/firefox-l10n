@@ -163,6 +163,7 @@ extensions-view-available-updates =
     .name = Hizivadurioù hegerz
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Askouezhioù
+addon-category-theme = Neuzioù
 addon-category-plugin = Enlugelladoù
 addon-category-dictionary = Geriadurioù
 addon-category-locale = Yezhoù
