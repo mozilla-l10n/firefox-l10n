@@ -29,6 +29,8 @@ certificate-viewer-id = Asulay
 certificate-viewer-key-exchange-group = Agraw n usemmeskel n tsura
 certificate-viewer-key-id = Asulay n tsarut
 certificate-viewer-key-size = Teɣzi n tsarut
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Tamnaḍt n usekles
 certificate-viewer-locality = Tamnaḍt
 certificate-viewer-location = Adig
 certificate-viewer-logid = Asulay n uɣmis

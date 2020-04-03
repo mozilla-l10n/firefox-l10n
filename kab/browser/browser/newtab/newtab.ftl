@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Tigawt-agi ur tettuɣal ara ar deffir.
 newtab-menu-section-tooltip =
     .title = Ldi umuɣ
     .aria-label = Ldi umuɣ
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Kkes
+    .aria-label = Kkes
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -180,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ihuh! Waqil tigezmi ur d-t
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Isental ittwasnen aṭas:
 newtab-pocket-more-recommendations = Ugar n iwellihen
-newtab-pocket-whats-pocket = D acu-t { -pocket-brand-name }?
 newtab-pocket-learn-more = Issin ugar
 newtab-pocket-cta-button = Awi-d { -pocket-brand-name }
 newtab-pocket-cta-text = Sekles tiqṣiḍin i tḥemmleḍ deg { -pocket-brand-name }, sedhu allaɣ-ik s tɣuri ifazen.

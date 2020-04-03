@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = Iminig yeqqnen ɣur-s lqem aqbuṛ { $
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Agalis n temseɣtayt tezmer ur tetteddu ara s yiminig yeqqnen. Ma ulac aɣilif, seqde Firefox { $runtimeVersion } ma teḥwaǧeḍ ad tesqedceḍ tamseqtayt s yiminig-a.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Lqem-a n Firefox ur izmir ara ad iseɣti Firefox i Android (68). Ad k-nwelleh ad tesbeddeḍ Firefox i Android Nightli deg tiliɣri-ik i usekyed. <a>Ugar n yisallen</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)

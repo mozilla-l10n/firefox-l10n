@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Bdu
 onboarding-welcome-header = Ansuf γer { -brand-short-name }
 onboarding-welcome-body = Tesɛiḍ iminig. <br/> Wali ayen id-yeqqimen seg { -brand-product-name }.
 onboarding-welcome-learn-more = Lmed ugar ɣef ayen yeɛnan ibaɣuren.
+onboarding-join-form-header = Kki { -brand-product-name }
 onboarding-welcome-modal-get-body = Tesɛiḍ iminig.<br/>Tura awi-d ayen tzemreḍ seg { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Snerni taɣellist n tbaḑnint-ik/im.
 onboarding-welcome-modal-privacy-body = Tesɛiḑ iminig. Yyaw ad nesnerni taɣellist n tbaḍnit.
 onboarding-welcome-modal-family-learn-more = Lmed ɣef twacult n yifarisen { -brand-product-name }.
 onboarding-welcome-form-header = Bdu dagi
-onboarding-join-form-header = Kki { -brand-product-name }
 onboarding-join-form-body = Sekcem tansa-inek imayl iwakken ad tebduḍ.
 onboarding-join-form-email =
     .placeholder = Sekcem imayl
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Rnu asiɣzef
 onboarding-import-browser-settings-title = Kter ticraḍ-ik n yisebtar, awalen-ik uffiren, d wayen-nniḍen
 onboarding-import-browser-settings-text = Err-d s wudem fessusen ismal-ik akked iɣewwaren-ik seg Chrome daɣen bdu tunigin tura kan.
 onboarding-import-browser-settings-button = Kter-d isefka si Chrome
+onboarding-personal-data-promise-title = D uslig s ufeṣṣel
+onboarding-personal-data-promise-text = { -brand-product-name } isesfar isefka-ik s uqadeṛ imi yettawi drus seg-sen,immestan-iten, daɣen isegzay-d amek iten-yesseqdac.
+onboarding-personal-data-promise-button = Ɣer lweɛd-nneɣ
 
 ## Message strings belonging to the Return to AMO flow
 
