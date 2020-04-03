@@ -129,6 +129,7 @@ extensions-view-available-updates =
     .name = Kesɗitine Goodaaɗe
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Timmitte
+addon-category-theme = Ciŋkooje
 addon-category-plugin = Ceŋe
 addon-category-dictionary = Caggitorɗe
 addon-category-locale = Ɗemɗe
