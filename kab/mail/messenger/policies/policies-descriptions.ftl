@@ -29,6 +29,7 @@ policy-DisableFeedbackCommands = Ssens tiludna akken ad aɣ-d-tazneḍ tikti-ik 
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n yisefka.
 policy-DisableMasterPasswordCreation = Ma d tidet, awal uffir agejdan ur yezmir ara ad yettwarnu.
 policy-DisableProfileImport = Sens taladna n wumuɣ akken ad tketreḍ isefka seg usnas-nniḍen.
+policy-DisableSafeMode = Sens tamahilt akken ad talseḍ asenker deg uskar aɣelsan. Tamawt: tasarut Shift i unekcum ɣer uskar aɣelsan tezmer kan ad yettwasens deg Windows s useqdec n tsertit n ugraw.
 policy-DisableSecurityBypass = Sewḥel aseqdec akken ur iɣelli ara deg kra n wuguren n tɣellist.
 policy-DisableSystemAddonUpdate = Sewḥel { -brand-short-name } ɣef usbeddi d uleqqem n yizegrar n unagraw.
 policy-DisableTelemetry = Sens tilisɣelt.
