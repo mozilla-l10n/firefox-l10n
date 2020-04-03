@@ -111,6 +111,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Dimpshafatšo tšeo di lego gona
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Dikoketšo
+addon-category-plugin = Ditsebišo-koketšo
+addon-category-dictionary = Dipukuntšu
+addon-category-locale = Maleme
+addon-category-available-updates = Dimpshafatšo tšeo di lego gona
+addon-category-recent-updates = Dimpshafatšo tša moragobjale
 
 ## These are global warnings
 
