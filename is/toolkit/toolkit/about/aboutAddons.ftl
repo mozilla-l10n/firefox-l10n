@@ -149,6 +149,8 @@ addon-category-extension = Viðbætur
 addon-category-plugin = Tengiforrit
 addon-category-dictionary = Orðabækur
 addon-category-locale = Tungumál
+addon-category-available-updates = Fáanlegar uppfærslur
+addon-category-recent-updates = Nýlegar uppfærslur
 
 ## These are global warnings
 
