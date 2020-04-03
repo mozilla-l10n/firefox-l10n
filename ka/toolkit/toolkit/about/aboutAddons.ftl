@@ -170,6 +170,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = ხელმისწვდომი განახლებები
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = შემოთავაზებები
 addon-category-extension = გაფართოებები
 addon-category-theme = თემები
 addon-category-plugin = მოდულები
