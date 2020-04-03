@@ -167,6 +167,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Preporuke
 addon-category-extension = Dodaci
+addon-category-theme = Motivi
 addon-category-plugin = Priključci
 addon-category-dictionary = Rječnici
 addon-category-locale = Jezici
