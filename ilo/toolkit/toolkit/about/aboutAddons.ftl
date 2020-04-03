@@ -60,6 +60,7 @@ addon-category-plugin = Anay
 addon-category-dictionary = Pagipatarusan
 addon-category-locale = Pagsasao
 addon-category-available-updates = Maal-ala a Pannanarimaan
+addon-category-recent-updates = Nabiit a Pannanarimaan
 
 ## These are global warnings
 
