@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Åpne meny
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importer passord…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer fra en annen nettleser…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Sorter etter:
 login-list-name-option = Navn (A-Å)
 login-list-name-reverse-option = Navn (Å-A)
 login-list-breached-option = Nettsteder med datalekkasjer
+about-logins-login-list-alerts-option = Varsler
 login-list-last-changed-option = Sist endret
 login-list-last-used-option = Sist brukt
 login-list-intro-title = Fant ingen innlogginger
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Skriv inn innloggingsinformasjon
 login-list-item-subtitle-missing-username = (uten brukernavn)
 about-logins-list-item-breach-icon =
     .title = Nettsted med datalekkasje
+about-logins-list-item-vulnerable-password-icon =
+    .title = Sårbart passord
 
 ## Introduction screen
 
@@ -164,6 +165,9 @@ breach-alert-text = Passord ble lekket eller stjålet fra dette nettstedet siden
 breach-alert-link = Les mer om denne datalekkasjen.
 breach-alert-dismiss =
     .title = Lukk dette varselet
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
