@@ -137,6 +137,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = বিদ্যমান হালনাগাদ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = এক্সটেনশন
+addon-category-plugin = প্লাগইন
+addon-category-dictionary = অভিধান সমূহ
+addon-category-locale = ভাষা
+addon-category-available-updates = বিদ্যমান হালনাগাদ
+addon-category-recent-updates = সাম্প্রতিক হালনাগাদ
 
 ## These are global warnings
 
