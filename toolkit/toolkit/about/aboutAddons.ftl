@@ -132,6 +132,7 @@ extensions-view-available-updates =
     .name = Достапни надградби
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Проширувања
+addon-category-theme = Теми
 addon-category-plugin = Приклучоци
 addon-category-dictionary = Речници
 addon-category-locale = Јазици
