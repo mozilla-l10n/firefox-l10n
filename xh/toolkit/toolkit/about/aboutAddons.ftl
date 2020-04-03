@@ -129,6 +129,7 @@ extensions-view-available-updates =
     .name = Uhlaziyo olufumanekayo
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Izandiso
+addon-category-plugin = Izifakelo
 addon-category-dictionary = Izichazi-magama
 addon-category-locale = Iilwimi
 addon-category-available-updates = Uhlaziyo olufumanekayo
