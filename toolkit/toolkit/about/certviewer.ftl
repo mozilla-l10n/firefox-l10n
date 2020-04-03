@@ -29,6 +29,8 @@ certificate-viewer-id = IDa
 certificate-viewer-key-exchange-group = Gako-trukaketa taldea
 certificate-viewer-key-id = Gakoaren IDa
 certificate-viewer-key-size = Gakoaren tamaina
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Sorlekua
 certificate-viewer-locality = Herria
 certificate-viewer-location = Kokalekua
 certificate-viewer-logid = Log IDa
