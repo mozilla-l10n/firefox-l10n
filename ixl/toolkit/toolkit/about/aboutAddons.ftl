@@ -22,6 +22,7 @@ cmd-preferences =
         }
 detail-version =
     .label = Tilax ivatz
+addon-category-locale = Yolb'al
 
 ## These are global warnings
 
