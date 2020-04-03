@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkommen til { -brand-short-name }
 onboarding-welcome-body = Du har nettleseren.<br/>Møt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Les mer om fordelene.
+onboarding-join-form-header = Vær med { -brand-product-name }
 onboarding-welcome-modal-get-body = Du har nettleseren.<br/>Få mest mulig ut av { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Forsterk personvernbeskyttelsen din.
 onboarding-welcome-modal-privacy-body = Du har nettleseren. La oss legge til mer personvernbeskyttelser.
 onboarding-welcome-modal-family-learn-more = Les mer om { -brand-product-name }-familien av produkter.
 onboarding-welcome-form-header = Start her
-onboarding-join-form-header = Vær med { -brand-product-name }
 onboarding-join-form-body = Skriv inn e-postadressen din for å komme i gang.
 onboarding-join-form-email =
     .placeholder = Skriv inn e-postadresse
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Ta med deg { -brand-product-name }
 onboarding-sync-welcome-content = Få dine bokmerker, historikk, passord, og andre innstillinger på alle enhetene dine.
 onboarding-sync-welcome-learn-more-link = Les mer om Firefox-konto
-onboarding-sync-form-invalid-input = Gyldig e-post er nødvendig
-onboarding-sync-legal-notice = Ved å fortsette, godtar du <a data-l10n-name="terms">Tjenestevilkår</a> og <a data-l10n-name="privacy">Personvernbestemmelser</a>.
 onboarding-sync-form-input =
     .placeholder = E-post
 onboarding-sync-form-continue-button = Fortsett
@@ -149,6 +147,7 @@ onboarding-facebook-container-button = Legg til utvidelsen
 onboarding-import-browser-settings-title = Importer dine bokmerker, passord og mer
 onboarding-import-browser-settings-text = Kom raskt i gang—ta enkelt med deg Chrome-nettsteder og -innstillinger.
 onboarding-import-browser-settings-button = Importer Chrome-data
+onboarding-personal-data-promise-button = Les løftet vårt
 
 ## Message strings belonging to the Return to AMO flow
 
