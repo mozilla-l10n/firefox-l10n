@@ -153,6 +153,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Kube pa tic a kompiuta
 addon-category-plugin = Rwaki iyie
+addon-category-dictionary = Buk me gonyo nyukta
 addon-category-locale = Leb
 
 ## These are global warnings
