@@ -8,6 +8,8 @@ detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
     .value = { detail-repository.label }
+addon-category-extension = Dikatoloso
+addon-category-locale = Dipuo
 
 ## These are global warnings
 
