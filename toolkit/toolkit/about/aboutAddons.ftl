@@ -123,6 +123,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = উপলব্ধ আপডেট
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-locale = ভাষা
 
 ## These are global warnings
 
