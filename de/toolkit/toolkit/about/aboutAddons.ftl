@@ -175,6 +175,8 @@ addon-category-extension = Erweiterungen
 addon-category-plugin = Plugins
 addon-category-dictionary = Wörterbücher
 addon-category-locale = Sprachen
+addon-category-available-updates = Verfügbare Updates
+addon-category-recent-updates = Zuletzt durchgeführte Updates
 
 ## These are global warnings
 
