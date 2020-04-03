@@ -3,6 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title = Isallen ixataren
-heading = Bedel ɣer umaɣnu { -brand-short-name }
+heading = Ibeddilen deg umaɣnu-k { -brand-short-name }
 changed-title = D acu i ibeddlen?
 options-title = D acu-tent textirin-iw?
