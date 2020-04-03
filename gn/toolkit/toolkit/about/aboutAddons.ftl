@@ -167,6 +167,7 @@ extensions-view-available-updates =
     .name = Ñembohekopyahu eipurukuaáva
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Mba'ejoapyrã
+addon-category-theme = Téma
 addon-category-plugin = Mba'ejoajurã
 addon-category-dictionary = Ñe'ẽryru
 addon-category-locale = Ñe'ẽita
