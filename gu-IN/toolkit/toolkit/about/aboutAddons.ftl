@@ -149,6 +149,8 @@ addon-category-extension = એક્સટેન્શન
 addon-category-plugin = પ્લગઇન
 addon-category-dictionary = શબ્દકોષો
 addon-category-locale = ભાષાઓ
+addon-category-available-updates = ઉપલબ્ધ સુધારાઓ
+addon-category-recent-updates = તાજેતરનાં સુધારાઓ
 
 ## These are global warnings
 
