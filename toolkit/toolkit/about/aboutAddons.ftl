@@ -146,6 +146,7 @@ extensions-view-available-updates =
     .name = Mövcud yeniləmələr
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Uzantılar
+addon-category-theme = Mövzular
 addon-category-plugin = Qoşmalar
 addon-category-dictionary = Lüğətlər
 addon-category-locale = Dillər
