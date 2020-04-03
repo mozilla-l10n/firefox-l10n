@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Versi Baru yang Tersedia
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Rekomendasi
 addon-category-extension = Ekstensi
 addon-category-theme = Tema
 addon-category-plugin = Plugin
