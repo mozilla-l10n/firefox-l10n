@@ -168,6 +168,7 @@ extensions-view-available-updates =
     .name = Taq k'exoj e k'o
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Taq k'amal
+addon-category-theme = Taq wachinel
 addon-category-plugin = Taq nak'ab'äl
 addon-category-dictionary = Taq soltzij
 addon-category-locale = Taq ch'ab'äl
