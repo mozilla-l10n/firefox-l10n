@@ -151,6 +151,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = بروزرسانی‌های موجود
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = ضمیمه‌ها
+addon-category-plugin = افزونه‌ها
+addon-category-dictionary = واژه‌نامه‌ها
+addon-category-locale = زبان‌ها
 
 ## These are global warnings
 
