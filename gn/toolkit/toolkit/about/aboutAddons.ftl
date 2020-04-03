@@ -166,6 +166,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Ñembohekopyahu eipurukuaáva
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Mba'ejoapyrã
+addon-category-plugin = Mba'ejoajurã
+addon-category-dictionary = Ñe'ẽryru
+addon-category-locale = Ñe'ẽita
+addon-category-available-updates = Ñembohekopyahu eipurukuaáva
+addon-category-recent-updates = Ñembohekopyahu ramovéva
 
 ## These are global warnings
 
