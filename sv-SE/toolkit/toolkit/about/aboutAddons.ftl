@@ -169,7 +169,7 @@ addon-category-plugin = Insticksmoduler
 addon-category-dictionary = Ordlistor
 addon-category-locale = Språk
 addon-category-available-updates = Tillgängliga uppdateringar
-addon-category-recent-updates = Nyligen uppdaterade
+addon-category-recent-updates = Senaste uppdateringar
 
 ## These are global warnings
 

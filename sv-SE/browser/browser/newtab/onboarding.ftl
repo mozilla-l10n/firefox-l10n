@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Kom igång
 onboarding-welcome-header = Välkommen till { -brand-short-name }
 onboarding-welcome-body = Du har webbläsaren.<br/>Möt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Läs mer om fördelarna.
+onboarding-join-form-header = Gå med i { -brand-product-name }
 onboarding-welcome-modal-get-body = Du har webbläsaren. <br/>Få ut det mesta av { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Superladda ditt integritetsskydd.
 onboarding-welcome-modal-privacy-body = Du har webbläsaren. Låt oss lägga till mer integritetsskydd.
 onboarding-welcome-modal-family-learn-more = Läs mer om { -brand-product-name } familj av produkter.
 onboarding-welcome-form-header = Börja här
-onboarding-join-form-header = Gå med i { -brand-product-name }
 onboarding-join-form-body = Ange din e-postadress för att komma igång.
 onboarding-join-form-email =
     .placeholder = Ange e-postadress
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Ta med dig { -brand-product-name }
 onboarding-sync-welcome-content = Få dina bokmärken, historik, lösenord och andra inställningar på alla dina enheter.
 onboarding-sync-welcome-learn-more-link = Lär dig mer om Firefox-konton
-onboarding-sync-form-invalid-input = Giltig e-postadress krävs
-onboarding-sync-legal-notice = Genom att fortsätta godkänner du <a data-l10n-name="terms">Användarvillkor</a> och <a data-l10n-name="privacy">Sekretesspolicy</a>.
 onboarding-sync-form-input =
     .placeholder = E-post
 onboarding-sync-form-continue-button = Fortsätt
@@ -149,6 +147,7 @@ onboarding-facebook-container-button = Lägg till tillägget
 onboarding-import-browser-settings-title = Importera dina bokmärken, lösenord och mer
 onboarding-import-browser-settings-text = Dyk direkt in—ta enkelt med dig dina webbplatser och inställningar från Chrome.
 onboarding-import-browser-settings-button = Importera Chrome-data
+onboarding-personal-data-promise-button = Läs vårt löfte
 
 ## Message strings belonging to the Return to AMO flow
 
