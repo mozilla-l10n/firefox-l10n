@@ -129,6 +129,7 @@ extensions-view-available-updates =
     .name = இருக்கும் புதுப்பித்தல்கள்
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = நீட்டிப்புகள்
+addon-category-theme = கருப்பொருள்கள்
 addon-category-plugin = செருகுநிரல்கள்
 addon-category-dictionary = அகராதிகள்
 addon-category-locale = மொழிகள்
