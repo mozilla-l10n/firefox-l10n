@@ -153,6 +153,13 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Faydalanışlı Yañartmalar
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Uzantılar
+addon-category-theme = Temalar
+addon-category-plugin = Plaginler
+addon-category-dictionary = Luğatlar
+addon-category-locale = Tiller
+addon-category-available-updates = Faydalanışlı Yañartmalar
+addon-category-recent-updates = Deminki Yañartmalar
 
 ## These are global warnings
 
