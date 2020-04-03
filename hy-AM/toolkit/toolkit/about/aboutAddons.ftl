@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Առկա Թարմացումներ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Խորհուրդներ
 addon-category-extension = Ընդլայնումներ
 addon-category-theme = Ոճեր
 addon-category-plugin = Բաղադրիչներ
