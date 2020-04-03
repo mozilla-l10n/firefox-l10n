@@ -164,6 +164,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Diweddariadau ar Gael
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Argymhellion
 addon-category-extension = Estyniadau
 addon-category-theme = Themâu
 addon-category-plugin = Ategion
