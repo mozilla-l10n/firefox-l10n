@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = Zwjazany wobhladowak ma staru wersiju 
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Polo pytanja zmylkow snano ze zwjazanym wobhladowakom njefunguje. Prošu wužiwajće Firefox { $runtimeVersion }, jeli dyrbiće pytanje zmylkow z tutym wobhladowakom.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Tuta wersija Firefox njemóže Firefox za Android (68) za zmylkami přepruwować. Poručamy, zo Firefox za Android Nightly na swojim telefonje za testowanje instalujeće. <a>Dalše podrobnosće</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
