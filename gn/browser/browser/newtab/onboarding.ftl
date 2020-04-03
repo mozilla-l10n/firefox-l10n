@@ -148,6 +148,7 @@ onboarding-import-browser-settings-title = Emba’egueru nde rechaukaha, ñe’�
 onboarding-import-browser-settings-text = Eikepaite — egueraha Chrome renda ha ñemboheko nendive.
 onboarding-import-browser-settings-button = Emba’egueru Chrome mba’ekuaarã
 onboarding-personal-data-promise-title = Iñemi moha’ãnga rupi
+onboarding-personal-data-promise-text = { -brand-product-name } oguereko imba’ekuaarãkuéra poyhúpe ojapyhy’ivévo, omo’ãvo ha mba’eichatépa roipuru.
 onboarding-personal-data-promise-button = Emoñe’ẽ rome’ẽkuaáva
 
 ## Message strings belonging to the Return to AMO flow
