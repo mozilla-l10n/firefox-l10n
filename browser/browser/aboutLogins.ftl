@@ -161,10 +161,12 @@ confirm-discard-changes-dialog-confirm-button = Forkast
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Nettsteds-datalekkasje
 breach-alert-text = Passord ble lekket eller stjålet fra dette nettstedet siden du sist oppdaterte dine innloggingsdetaljer. Endre passordet ditt for å beskytte kontoen din.
 breach-alert-link = Les mer om denne datalekkasjen.
 breach-alert-dismiss =
     .title = Lukk dette varselet
+about-logins-breach-alert-date = Denne datalekkasjen skjedde den { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 
 ## Vulnerable Password notification
 
