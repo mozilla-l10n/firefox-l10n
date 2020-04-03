@@ -41,3 +41,13 @@ policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur tṣekkreḍ-
 # English or translate them as verbs.
 policy-Extensions = Sebded, kkes neɣ sewḥel isiɣzaf. Asebeddi yettawi URLs neɣ iberdan d iɣewwaṛen. Iɣewwaṛen n tukksa d usewḥel ttawin asiɣzef IDs.
 policy-ExtensionSettings = Sefrek akk timeẓra n usbeddi n yisiɣzaf.
+policy-ExtensionUpdate = Rmed neɣ sens ileqman n usiɣzef s wudem awurman.
+policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
+policy-InstallAddonsPermission = Sireg asebeddi n yizegrar i kra n yismal web.
+policy-LocalFileLinks = Sireg ismal usdiden ad cudden ɣer yifuyla idiganen.
+policy-NetworkPrediction = Rmed neɣ sens tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
+policy-SanitizeOnShutdown2 = Sfeḍ isefka n tunigin deg usexsi.
+# For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
+policy-SecurityDevices = Sebded izegrar n PKCS #11.
+policy-SSLVersionMax = Sbadu llqem afellay n SSL.
+policy-SSLVersionMin = Sbadu llqem adday n SSL.
