@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "新增工具列">
 <!ENTITY showTitlebar.label       "顯示標題列">
 <!ENTITY extraDragSpace.label     "新增拖曳空間">
+<!ENTITY showTitlebar2.label      "標題列">
+<!ENTITY extraDragSpace2.label    "拖曳空間">
 <!ENTITY saveChanges.label        "完成">
 <!ENTITY undoChanges.label        "取消變更">
