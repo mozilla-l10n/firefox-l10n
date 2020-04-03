@@ -125,6 +125,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು
 addon-category-plugin = ಪ್ಲಗ್‌ಇನ್‌ಗಳು
+addon-category-dictionary = ಶಬ್ಧಕೋಶಗಳು
 addon-category-locale = ಭಾಷೆಗಳು
 addon-category-available-updates = ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು
 addon-category-recent-updates = ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು
