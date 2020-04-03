@@ -167,11 +167,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Dostępne aktualizacje
     .tooltiptext = Wyświetl dostępne aktualizacje
+addon-category-discover = Polecane
 addon-category-extension = Rozszerzenia
 addon-category-theme = Motywy
 addon-category-plugin = Wtyczki
 addon-category-dictionary = Słowniki
 addon-category-locale = Języki
+addon-category-available-updates = Dostępne aktualizacje
+addon-category-recent-updates = Ostatnie aktualizacje
 
 ## These are global warnings
 
