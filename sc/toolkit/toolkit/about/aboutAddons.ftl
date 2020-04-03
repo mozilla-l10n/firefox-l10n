@@ -10,6 +10,7 @@ detail-home-value =
     .value = { detail-home.label }
 detail-repository-value =
     .value = { detail-repository.label }
+addon-category-locale = Limba
 
 ## These are global warnings
 
@@ -35,4 +36,22 @@ extensions-warning-update-security-container =
 
 
 ## Status messages displayed when updating add-ons
+
+
+## Add-on install/debug strings for page options menu
+
+
+## Extension shortcut management
+
+
+## Recommended add-ons page
+
+
+## Add-on actions
+
+
+## Pending uninstall message bar
+
+
+## Page headings
 
