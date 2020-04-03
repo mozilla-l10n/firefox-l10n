@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Nid oes modd dadwneud hyn.
 newtab-menu-section-tooltip =
     .title = Agor y ddewislen
     .aria-label = Agor y ddewislen
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Tynnu
+    .aria-label = Tynnu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Ein noddwyr a'ch preifatrwydd
 
 newtab-privacy-modal-button-done = Gorffen
 newtab-privacy-modal-header = Mae eich preifatrwydd yn bwysig.
-newtab-privacy-modal-paragraph =
-    Yn ogystal â darparu straeon cyfareddol, rydyn ni hefyd yn dangos i chi gynnwys 
-    perthnasol wedi'i ddewis yn ofalus gan noddwyr dethol. Peidiwch â phoeni, 
-    nid yw eich data pori byth yn gadael eich copi personol o { -brand-product-name } - nid ydym 
-    yn ei weld, na'n noddwyr chwaith.
 newtab-privacy-modal-paragraph-2 =
     Yn ogystal â rhannu straeon cyfareddol, rydyn hefyd yn dangos i chi
     gynnwys perthnasol wedi'i ddewis yn ofalus gan noddwyr dethol. Peidiwch â phoeni,
@@ -190,7 +189,6 @@ newtab-discovery-empty-section-topstories-timed-out = Wps! Bron a lwytho'r adran
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Pynciau Poblogaidd:
 newtab-pocket-more-recommendations = Rhagor o Argymhellion
-newtab-pocket-whats-pocket = Beth yw { -pocket-brand-name }?
 newtab-pocket-learn-more = Dysgu rhagor
 newtab-pocket-cta-button = Defnyddio { -pocket-brand-name }
 newtab-pocket-cta-text = Cadw'r straeon rydych yn eu hoffi i { -pocket-brand-name } a bwydo'ch meddwl á deunydd diddorol.

@@ -29,6 +29,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grŵp Cyfnewid Allwedd
 certificate-viewer-key-id = ID Allwedd
 certificate-viewer-key-size = Maint Allwedd
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Ardal Corffori
 certificate-viewer-locality = Lleoliad
 certificate-viewer-location = Lleoliad
 certificate-viewer-logid = ID Cofnod
