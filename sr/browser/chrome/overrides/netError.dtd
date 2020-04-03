@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Повезивање није успело">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Ова адреса је забрањена">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Сервер није пронађен">
@@ -33,6 +35,7 @@
 ">
 
 <!ENTITY fileNotFound.title "Датотека није пронађена">
+
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Проверите подударање малих и великих слова и друге могуће грешке у куцању.</li>
@@ -41,6 +44,7 @@
 ">
 
 <!ENTITY fileAccessDenied.title "Приступ датотеци је одбијен">
+
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Можда је уклоњена, премештена или немате приступ датотеци.</li>
@@ -48,6 +52,7 @@
 ">
 
 <!ENTITY generic.title "Упс.">
+
 <!ENTITY generic.longDesc "
 <p>&brandShortName; из неког разлога не може да учита ову страницу.</p>
 ">
@@ -62,12 +67,15 @@
 <!ENTITY malformedURI.title1 "Хмм. Та адреса не изгледа исправно.">
 
 <!ENTITY netInterrupt.title "Веза је прекинута">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Документ је истекао">
+
 <!ENTITY notCached.longDesc "<p>Тражени документ није доступан у кешу програма &brandShortName;.</p><ul><li>Из предострожности, &brandShortName; не добавља документе аутоматски.</li><li>Притисните „Покушај поново“ да бисте поново добавили документ са веб сајта.</li></ul>">
 
 <!ENTITY netOffline.title "Рад ван мреже">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Притисните &quot;Пoкушај опет&quot; да бисте се пребацили на режим на мрежи и поново учитали страницу.</li>
@@ -75,6 +83,7 @@
 ">
 
 <!ENTITY contentEncodingError.title "Грешка у кодирању садржаја">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Oбратите се власницима веб сајта и обавестите их о овом проблему.</li>
@@ -82,6 +91,7 @@
 ">
 
 <!ENTITY unsafeContentType.title "Небезбедна врста датотеке">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Oбратите се власницима веб сајта и обавестите их о овом проблему.</li> 
@@ -89,12 +99,15 @@
 ">
 
 <!ENTITY netReset.title "Веза је ресетована">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Веза је истекла">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Нејасна адреса">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Можда ћете морати да инсталирате неки други програм како бисте отворили ову адресу.</li> 
@@ -102,6 +115,7 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "Прокси сервер одбија везе">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Проверите подешавања проксија.</li>
@@ -111,6 +125,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Не могу да пронађем прокси сервер">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Проверите подешавања проксија.</li>
@@ -121,6 +136,7 @@
 ">
 
 <!ENTITY redirectLoop.title "Страница се не преусмерава исправно">
+
 <!ENTITY redirectLoop.longDesc "
 <ul> 
   <li>Овај проблем понекад настаје ако искључите или одбијете прихватање
@@ -129,6 +145,7 @@
 ">
 
 <!ENTITY unknownSocketType.title "Неочекиван одговор од сервера">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Проверите да ли рачунар има инсталиран
@@ -138,6 +155,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Безбедна веза није успостављена">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Страница коју желите да прикажете не може бити приказана јер није могуће проверити аутентичност примљених података.</li>
@@ -147,6 +165,7 @@
 
 <!ENTITY certerror.longpagetitle2 "Упозорење: Потенцијални безбедносни ризик">
 <!ENTITY certerror.sts.longpagetitle  "Нисам се повезао: могући безбедносни проблем">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -185,10 +204,15 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Блокирано због полисе о безбедности садржаја">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин јер садржи полису о безбедности садржаја која то онемогућава.</p>">
 
+<!ENTITY xfoBlocked.title "Блокирано према X-Frame-Options политици">
+
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName; је спречио учитавање ове странице на овај начин јер садржи X-Frame-Options политику која то не дозвољава.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Грешка оштећеног садржаја">
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Страница коју желите да погледате не може бити приказана због грешке у преносу података.</p><ul><li>Обратите се власницима веб странице и обавестите их о проблему.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Прихвати ризик и настави">
@@ -197,9 +221,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Сазнајте више…">
 
 <!ENTITY remoteXUL.title "Удаљени XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Обавестите власнике веб сајта о овом проблему.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Не могу се повезати безбедно">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Додатне информације: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -210,6 +236,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Копирај текст у бележницу">
 
 <!ENTITY inadequateSecurityError.title "Веза није сугурна">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може да открије информације за које сте мислили да су сигурне. Администратор веб сајта ће морати да поправи сервер пре него што посетите овај сајт.</p><p>Код грешке: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -217,6 +244,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Блокиране странице">
 
 <!ENTITY certerror.mitm.title "Програм спречава &brandShortName; да се безбедно повеже на ову страницу">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> је највероватније безбедна веб страница, али није могуће успоставити безбедну везу са њом. Овај проблем узрокује програм <span class='mitm-name'/>, који се налази на вашем рачунару или на вашој мрежи.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ако ваш антивирус садржи функцију која скенира шифроване везе (често се назива “web scanning” или “https scanning”), можете онемогућити ту функцију. Ако то не успе, можете да уклоните и поново инсталирате антивирус.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ако сте у корпоративној мрежи, можете се обратити свом ИТ одељењу.">
@@ -224,6 +252,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ако вам <span class='mitm-name'/> страница није позната, ово може да представљата напад и не можете ништа учинити како бисте приступили тој страници.">
 
 <!ENTITY clockSkewError.title "Време на вашем рачунару је погрешно">
+
 <!ENTITY clockSkewError.longDesc "Ваш рачунар мисли да је <span id='wrongSystemTime_systemDate1'/>, што спречава &brandShortName; да се повеже безбедно. Да бисте посетили <span class='hostname'></span>, ажурирајте ваш сат на рачунару у вашим системским подешавањима на тренутан датум, време и временску зону и освежите <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ваше поставке безбедности можда проузрокују овај проблем. Да ли желите да вратите подразумеване поставке?">
@@ -234,4 +263,5 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "Омогући TLS 1.0 и 1.1">
 
 <!ENTITY networkProtocolError.title "Грешка мрежног протокола">
+
 <!ENTITY networkProtocolError.longDesc "<p>Страница коју желите да погледате не може бити приказана због грешке мрежног протокола.</p><ul><li>Обавестите власнике веб странице о овом проблему.</li></ul>">
