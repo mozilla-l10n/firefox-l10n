@@ -165,6 +165,7 @@ addon-category-plugin = Plugain
 addon-category-dictionary = Faclairean
 addon-category-locale = Cànain
 addon-category-available-updates = Ùrachaidhean a tha ri am faighinn
+addon-category-recent-updates = Ùrachaidhean a rinn thu o chionn goirid
 
 ## These are global warnings
 
