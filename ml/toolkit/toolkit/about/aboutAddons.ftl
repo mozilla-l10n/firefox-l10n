@@ -126,6 +126,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = ലഭ്യമായ പരിഷ്കരണങ്ങള്‍
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = എക്സ്റ്റെന്‍ഷനുകള്‍
+addon-category-plugin = പ്ലഗിനുകള്‍
+addon-category-dictionary = നിഘണ്ടുകള്‍
+addon-category-locale = ഭാഷകള്‍
 
 ## These are global warnings
 
