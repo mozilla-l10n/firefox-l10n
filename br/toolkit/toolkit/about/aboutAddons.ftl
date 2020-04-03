@@ -162,6 +162,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Hizivadurioù hegerz
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Askouezhioù
+addon-category-plugin = Enlugelladoù
+addon-category-dictionary = Geriadurioù
+addon-category-locale = Yezhoù
+addon-category-available-updates = Hizivadurioù hegerz
+addon-category-recent-updates = Hizivadurioù nevesañ
 
 ## These are global warnings
 
