@@ -28,3 +28,16 @@ policy-DisableDeveloperTools = Sewḥel anekcum ɣer yifecka n tneflit.
 policy-DisableFeedbackCommands = Ssens tiludna akken ad aɣ-d-tazneḍ tikti-ik seg wumuɣ n tallelt ( Azen-d tikti temleḍ-aɣ-d ismal ur nemɛin ara).
 policy-DisableForgetButton = Sewḥel anekcum ɣer tqeffalt n usfaḍ n yisefka.
 policy-DisableMasterPasswordCreation = Ma d tidet, awal uffir agejdan ur yezmir ara ad yettwarnu.
+policy-DisableProfileImport = Sens taladna n wumuɣ akken ad tketreḍ isefka seg usnas-nniḍen.
+policy-DisableTelemetry = Sens tilisɣelt.
+policy-DisplayMenuBar = Sken-d afeggag n wumuɣ s wudem amezwer.
+policy-DNSOverHTTPS = Swel DNS s HTTPS.
+policy-DontCheckDefaultClient = Sens asenqed amezwer i umsaɣ deg tnekra.
+policy-DownloadDirectory = Sbadu tṣekkreḍ akaram n usider.
+# “lock” means that the user won’t be able to change this setting
+policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur tṣekkreḍ-t ma tebɣiḍ.
+# A “locked” extension can’t be disabled or removed by the user. This policy
+# takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
+# English or translate them as verbs.
+policy-Extensions = Sebded, kkes neɣ sewḥel isiɣzaf. Asebeddi yettawi URLs neɣ iberdan d iɣewwaṛen. Iɣewwaṛen n tukksa d usewḥel ttawin asiɣzef IDs.
+policy-ExtensionSettings = Sefrek akk timeẓra n usbeddi n yisiɣzaf.
