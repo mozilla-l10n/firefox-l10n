@@ -167,6 +167,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Versi Baru yang Tersedia
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Ekstensi
+addon-category-plugin = Plugin
+addon-category-dictionary = Kamus
+addon-category-locale = Bahasa
+addon-category-available-updates = Versi Baru yang Tersedia
+addon-category-recent-updates = Versi Baru
 
 ## These are global warnings
 
