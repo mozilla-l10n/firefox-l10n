@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "Y">
 <!ENTITY removeSearchEngine.label         "Tynnu">
 <!ENTITY removeSearchEngine.accesskey     "T">
+
+<!ENTITY minimizeToTray.label             "Pan fydd &brandShortName; wedi ei leihau, ei symud i'r dror">
+<!ENTITY minimizeToTray.accesskey         "l">
