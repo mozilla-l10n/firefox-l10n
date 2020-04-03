@@ -173,6 +173,8 @@ addon-category-theme = Themas
 addon-category-plugin = Plugins
 addon-category-dictionary = Dictionarios
 addon-category-locale = Linguas
+addon-category-available-updates = Actualisationes disponibile
+addon-category-recent-updates = Actualisationes recente
 
 ## These are global warnings
 
