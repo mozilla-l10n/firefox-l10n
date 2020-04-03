@@ -123,6 +123,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Mavjud yangilanishlar
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Kengaytmalar
+addon-category-plugin = Plaginlar
+addon-category-dictionary = Lugʻatlar
+addon-category-locale = Tillar
+addon-category-available-updates = Mavjud yangilanishlar
+addon-category-recent-updates = Soʻnggi yangilanishlar
 
 ## These are global warnings
 
