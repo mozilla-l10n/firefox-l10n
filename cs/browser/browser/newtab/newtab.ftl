@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Tuto akci nelze vzít zpět.
 newtab-menu-section-tooltip =
     .title = Otevře nabídku
     .aria-label = Otevře nabídku
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Odstranit
+    .aria-label = Odstranit
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,13 +90,6 @@ newtab-menu-show-privacy-info = Naši sponzoři a vaše soukromí
 
 newtab-privacy-modal-button-done = Hotovo
 newtab-privacy-modal-header = Na vašem soukromí záleží.
-newtab-privacy-modal-paragraph =
-    Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných sponzorů. Nemusíte se ale bát, vaše údaje nikdy neopustí { -brand-product-name.gender ->
-        [masculine] váš { -brand-product-name(case: "acc") }
-        [feminine] vaši { -brand-product-name(case: "acc") }
-        [neuter] vaše { -brand-product-name(case: "acc") }
-       *[other] vaši aplikaci { -brand-product-name }
-    } - neodesílají se nám ani našim sponzorům.
 newtab-privacy-modal-paragraph-2 =
     Kromě zajímavých článků zobrazujeme také relevantní a prověřený obsah od vybraných sponzorů. Nemusíte se ale bát, <strong>vaše údaje nikdy neopustí { -brand-product-name.gender ->
         [masculine] váš { -brand-product-name(case: "acc") }
@@ -193,7 +190,6 @@ newtab-discovery-empty-section-topstories-timed-out = Jejda, při načítání o
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populární témata:
 newtab-pocket-more-recommendations = Další doporučení
-newtab-pocket-whats-pocket = Co je { -pocket-brand-name }?
 newtab-pocket-learn-more = Zjistit více
 newtab-pocket-cta-button = Získejte { -pocket-brand-name(case: "acc") }
 newtab-pocket-cta-text = Ukládejte si články do { -pocket-brand-name(case: "gen") } a užívejte si skvělé čtení.
