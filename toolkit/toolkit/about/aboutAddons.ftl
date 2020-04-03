@@ -145,6 +145,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Actualizacions disponibles
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Extensions
+addon-category-plugin = Plugins
+addon-category-dictionary = Diccionarios
+addon-category-locale = Luengas
+addon-category-available-updates = Actualizacions disponibles
+addon-category-recent-updates = Actualizacions recients
 
 ## These are global warnings
 
