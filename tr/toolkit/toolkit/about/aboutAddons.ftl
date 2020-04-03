@@ -167,6 +167,8 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Mevcut güncellemeler
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-plugin = Yan uygulamalar
+addon-category-locale = Diller
 
 ## These are global warnings
 
