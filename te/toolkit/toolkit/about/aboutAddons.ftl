@@ -141,6 +141,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = అందుబాటులోని నవీకరణలు
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = పొడగింతలు
 addon-category-plugin = చొప్పింతలు
 addon-category-dictionary = నిఘంటువులు
 addon-category-locale = భాషలు
