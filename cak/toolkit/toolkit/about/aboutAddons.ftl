@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Taq k'exoj e k'o
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Taq chilab'enïk
 addon-category-extension = Taq k'amal
 addon-category-theme = Taq wachinel
 addon-category-plugin = Taq nak'ab'äl
