@@ -6,3 +6,6 @@ about-policies-title = Tisertiyin n tkebbanit
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Urmid
 errors-tab = Tuccḍiwin
+documentation-tab = Tasemlit
+no-specified-policies-message = Ameẓlu n tsertiyin n tkebbanit yermed maca ulac tisertiyin yettwaremden.
+inactive-message = Ameẓlu n tsertiyin n tkebbanit ur yermid ara.
