@@ -111,6 +111,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Visasaisho Vinavyopatikana
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Izithasiselo
+addon-category-plugin = Programu-jalizi
+addon-category-dictionary = Kamusi
+addon-category-locale = Lugha
+addon-category-available-updates = Visasaisho Vinavyopatikana
+addon-category-recent-updates = Visasaisho vya hivi karibuni
 
 ## These are global warnings
 
