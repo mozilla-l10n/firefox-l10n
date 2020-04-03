@@ -162,6 +162,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Налични обновявания
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Разширения
+addon-category-plugin = Приставки
+addon-category-dictionary = Речници
+addon-category-locale = Езици
+addon-category-available-updates = Налични обновявания
+addon-category-recent-updates = Скорошни обновявания
 
 ## These are global warnings
 
