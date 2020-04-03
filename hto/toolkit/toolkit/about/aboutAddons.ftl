@@ -16,7 +16,10 @@ detail-repository-value =
     .value = { detail-repository.label }
 addon-restart-now =
     .label = Bíeri ábɨdo taɨne
+addon-category-extension = Árera
 addon-category-plugin = Plugins
+addon-category-dictionary = Úai íyano
+addon-category-locale = Úaido
 
 ## These are global warnings
 
