@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = 연결된 브라우저에는 이전 �
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = 디버거 패널이 연결된 브라우저와 작동하지 않을 수 있습니다. 이 브라우저에 디버거를 사용해야 하는 경우 Firefox { $runtimeVersion }를 사용하세요.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = 이 Firefox 버전은 Android 용 Firefox (68)를 디버깅 할 수 없습니다. 테스트를 위해 휴대폰에 Android Nightly 용 Firefox를 설치하는 것이 좋습니다. <a>추가 정보</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
