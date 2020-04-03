@@ -167,6 +167,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Ileqman yellan
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Isiɣzaf
+addon-category-plugin = Izegrar
+addon-category-dictionary = Imawalen
+addon-category-locale = Tutlayin
+addon-category-available-updates = Ileqman yellan
+addon-category-recent-updates = Ileqman n melmi kan
 
 ## These are global warnings
 
