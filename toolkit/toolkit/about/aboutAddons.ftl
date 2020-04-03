@@ -115,6 +115,8 @@ addon-category-extension = ଅନୁଲଗ୍ନଗୁଡ଼ିକ
 addon-category-plugin = ପ୍ଲଗଇନଗୁଡ଼ିକ
 addon-category-dictionary = ଅଭିଧାନଗୁଡ଼ିକ
 addon-category-locale = ଭାଷା
+addon-category-available-updates = ଉପଲବ୍ଧ ଅପଡେଟଗୁଡ଼ିକ
+addon-category-recent-updates = ନିକଟର ଅପଡେଟଗୁଡ଼ିକ
 
 ## These are global warnings
 
