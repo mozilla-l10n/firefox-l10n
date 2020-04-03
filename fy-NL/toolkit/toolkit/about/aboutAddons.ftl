@@ -172,6 +172,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Beskikbere fernijingen
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Utwreidingen
+addon-category-plugin = Ynstekkers
+addon-category-dictionary = Wurdboeken
+addon-category-locale = Talen
+addon-category-available-updates = Beskikbere fernijingen
+addon-category-recent-updates = Resinte fernijingen
 
 ## These are global warnings
 
