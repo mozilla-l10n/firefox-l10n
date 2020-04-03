@@ -167,6 +167,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Saadaolevad uuendused
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Soovitused
+addon-category-extension = Laiendused
+addon-category-theme = Teemad
+addon-category-plugin = Pluginad
+addon-category-dictionary = Sõnaraamatud
+addon-category-locale = Keeled
+addon-category-available-updates = Saadaolevad uuendused
+addon-category-recent-updates = Hiljutised uuendused
 
 ## These are global warnings
 
