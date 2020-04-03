@@ -181,6 +181,7 @@ addon-category-plugin = Plugins
 addon-category-dictionary = Ordbøger
 addon-category-locale = Sprog
 addon-category-available-updates = Tilgængelige opdateringer
+addon-category-recent-updates = Seneste opdateringer
 
 ## These are global warnings
 
