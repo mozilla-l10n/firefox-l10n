@@ -128,6 +128,8 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = இருக்கும் புதுப்பித்தல்கள்
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-available-updates = இருக்கும் புதுப்பித்தல்கள்
+addon-category-recent-updates = சமீபத்திய புதுப்பித்தல்கள்
 
 ## These are global warnings
 
