@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Ñepyrũ
 onboarding-welcome-header = Eg̃uahẽporãite { -brand-short-name }-pe
 onboarding-welcome-body = Eguerekóma kundaha.<br/>Eikuaa opamba’e { -brand-product-name } rehegua.
 onboarding-welcome-learn-more = Eikuaave mba’eporã rehegua.
+onboarding-join-form-header = Ejuaju { -brand-product-name } rehe
 onboarding-welcome-modal-get-body = Erekóma kundahára. <br/>Ko’ág̃a eipurukuaánte { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Emyanyhẽrasa ne ñemigua ñemo’ã.
 onboarding-welcome-modal-privacy-body = Erekóma kundahára. Ñamoĩvéta ñemigua ñemo’ã.
 onboarding-welcome-modal-family-learn-more = Eñemomaranduve apopyre pehẽnguére { -brand-product-name }.
 onboarding-welcome-form-header = Eñepyrũ ápe
-onboarding-join-form-header = Ejuaju { -brand-product-name } rehe
 onboarding-join-form-body = Eñepyrũ hag̃ua, ehai ne ñanduti veve kundaharape.
 onboarding-join-form-email =
     .placeholder = Ehai ñandutiveve kundaharape
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Egueraha { -brand-product-name } nendive
 onboarding-sync-welcome-content = Eike nde techaukaha, tembiasakue, ñe’ẽñemi ha ambueve ñemoĩporã opaite nde mba’e’okápe.
 onboarding-sync-welcome-learn-more-link = Eikuaave Firefox Accounts rehegua
-onboarding-sync-form-invalid-input = Eikotevẽ peteĩ ñanduti veve oikóva
-onboarding-sync-legal-notice = Ejapóva, emoneĩ ko'ã <a data-l10n-name="terms">Mba'epytyvõrã ñemboguata</a> ha <a data-l10n-name="privacy">Ñemigua purureko</a>.
 onboarding-sync-form-input =
     .placeholder = Ñandutiveve
 onboarding-sync-form-continue-button = Eku'ejey
@@ -149,6 +147,8 @@ onboarding-facebook-container-button = Embojuaju jepysokue
 onboarding-import-browser-settings-title = Emba’egueru nde rechaukaha, ñe’ẽñemi ha hetave
 onboarding-import-browser-settings-text = Eikepaite — egueraha Chrome renda ha ñemboheko nendive.
 onboarding-import-browser-settings-button = Emba’egueru Chrome mba’ekuaarã
+onboarding-personal-data-promise-title = Iñemi moha’ãnga rupi
+onboarding-personal-data-promise-button = Emoñe’ẽ rome’ẽkuaáva
 
 ## Message strings belonging to the Return to AMO flow
 
