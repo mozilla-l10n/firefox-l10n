@@ -167,6 +167,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Päivitykset
     .tooltiptext = Saatavilla olevat päivitykset
+addon-category-discover = Suositukset
 addon-category-extension = Laajennukset
 addon-category-theme = Teemat
 addon-category-plugin = Liitännäiset
