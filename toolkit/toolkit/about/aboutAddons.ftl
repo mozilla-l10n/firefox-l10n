@@ -123,6 +123,11 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು
+addon-category-plugin = ಪ್ಲಗ್‌ಇನ್‌ಗಳು
+addon-category-locale = ಭಾಷೆಗಳು
+addon-category-available-updates = ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು
+addon-category-recent-updates = ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು
 
 ## These are global warnings
 
