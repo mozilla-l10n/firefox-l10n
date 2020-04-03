@@ -168,8 +168,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Nove posodobitve
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Razširitve
 addon-category-plugin = Vtičniki
 addon-category-dictionary = Slovarji
+addon-category-locale = Jeziki
 addon-category-available-updates = Nove posodobitve
 addon-category-recent-updates = Nedavne posodobitve
 
