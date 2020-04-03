@@ -167,6 +167,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Tilgjengelige oppdateringer
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Utvidelser
+addon-category-plugin = Programtillegg
+addon-category-dictionary = Ordbøker
+addon-category-locale = Språk
+addon-category-available-updates = Tilgjengelige oppdateringer
+addon-category-recent-updates = Nylig oppdatert
 
 ## These are global warnings
 
