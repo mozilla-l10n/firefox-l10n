@@ -9,3 +9,6 @@ errors-tab = Tuccḍiwin
 documentation-tab = Tasemlit
 no-specified-policies-message = Ameẓlu n tsertiyin n tkebbanit yermed maca ulac tisertiyin yettwaremden.
 inactive-message = Ameẓlu n tsertiyin n tkebbanit ur yermid ara.
+policy-name = Isem n tsertit
+policy-value = Azal n tsertit
+policy-errors = Tucciwin n tsertit
