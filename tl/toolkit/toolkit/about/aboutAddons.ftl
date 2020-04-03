@@ -162,6 +162,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Mga Available na Update
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Mga Extension
 addon-category-plugin = Mga Plugin
 addon-category-dictionary = Mga Talasalitaan
 addon-category-locale = Mga Wika
