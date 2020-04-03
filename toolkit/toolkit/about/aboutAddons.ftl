@@ -130,6 +130,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Timmitte
 addon-category-plugin = Ceŋe
+addon-category-dictionary = Caggitorɗe
 addon-category-locale = Ɗemɗe
 addon-category-available-updates = Kesɗitine Goodaaɗe
 addon-category-recent-updates = Kesɗitine Cakkitiiɗe
