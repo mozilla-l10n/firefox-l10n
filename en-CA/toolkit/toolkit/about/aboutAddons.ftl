@@ -172,6 +172,9 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Available Updates
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-dictionary = Dictionaries
+addon-category-available-updates = Available Updates
+addon-category-recent-updates = Recent Updates
 
 ## These are global warnings
 
