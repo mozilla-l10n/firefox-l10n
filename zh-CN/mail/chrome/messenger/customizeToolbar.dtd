@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "添加新工具栏">
 <!ENTITY showTitlebar.label       "显示标题栏">
 <!ENTITY extraDragSpace.label     "添加拖拽区">
+<!ENTITY showTitlebar2.label      "标题栏">
+<!ENTITY extraDragSpace2.label    "窗口拖拽区">
 <!ENTITY saveChanges.label        "完成">
 <!ENTITY undoChanges.label        "撤销更改">
