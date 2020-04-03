@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Nowu symbolowu rědku pśidaś">
 <!ENTITY showTitlebar.label       "Titelowu rědku pokazaś">
 <!ENTITY extraDragSpace.label     "Śěgaty rum pśidaś">
+<!ENTITY showTitlebar2.label      "Titelowa rědka">
+<!ENTITY extraDragSpace2.label    "Śěgaty rum">
 <!ENTITY saveChanges.label        "Gótowo">
 <!ENTITY undoChanges.label        "Změny anulěrowaś">
