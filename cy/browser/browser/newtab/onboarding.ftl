@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Cychwyn Arni
 onboarding-welcome-header = Croeso i { -brand-short-name }
 onboarding-welcome-body = Mae'r porwr gyda chi. <br/> Dyma weddill { -brand-product-name }.
 onboarding-welcome-learn-more = Dysgu rhagor am y buddiannau.
+onboarding-join-form-header = Ymunwch â { -brand-product-name }
 onboarding-welcome-modal-get-body = Mae'r porwr gennych. <br/>Nawr, manteisiwch i'r eithaf ar { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Cryfhewch eich diogelwch preifatrwydd.
 onboarding-welcome-modal-privacy-body = Mae'r porwr gennych chi. Gadewch i ni ychwanegu mwy o ddiogelwch preifatrwydd.
 onboarding-welcome-modal-family-learn-more = Dysgu am deulu cynnyrch { -brand-product-name }.
 onboarding-welcome-form-header = Cychwynnwch Yma
-onboarding-join-form-header = Ymunwch â { -brand-product-name }
 onboarding-join-form-body = Rhowch eich cyfeiriad e-bost i ddechrau.
 onboarding-join-form-email =
     .placeholder = Rhowch e-bost
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Ychwanegu'r Estyniad
 onboarding-import-browser-settings-title = Mewnforio Eich Nodau Tudalen, Cyfrineiriau, a Mwy
 onboarding-import-browser-settings-text = Symud yn sydyn - mae'n hawdd dod â'ch gwefannau a'ch gosodiadau Chrome gyda chi.
 onboarding-import-browser-settings-button = Mewnforio Data Chrome
+onboarding-personal-data-promise-title = Preifat o Fwriad
+onboarding-personal-data-promise-text = Mae { -brand-product-name } yn trin eich data â pharch trwy gymryd llai ohono, ei ddiogelu a bod yn glir ynglŷn â sut rydyn ni'n ei ddefnyddio.
+onboarding-personal-data-promise-button = Darllenwch ein Addewid
 
 ## Message strings belonging to the Return to AMO flow
 

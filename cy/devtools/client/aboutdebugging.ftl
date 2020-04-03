@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = Mae gan y porwr cysylltiedig hen fersi
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Efallai na fydd panel y Dafygiwr yn gweithio gyda'r porwr cysylltiedig. Defnyddiwch Firefox { $runtimeVersion } os oes angen i chi ddefnyddio'r Dadfygiwr gyda'r porwr hwn.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Nid oes modd i'r fersiwn yma o Firefox ddadfygio Firefox ar gyfer Android (68). Rydym yn argymell gosod Firefox ar gyfer Android Nightly ar eich ffôn i'w brofi. <a> Rhagor o fanylion </a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
