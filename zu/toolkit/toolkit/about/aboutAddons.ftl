@@ -111,6 +111,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Ukuvuselela okukona
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-plugin = Ama-Plugin
+addon-category-locale = Izilimi
+addon-category-available-updates = Ukuvuselela okukona
+addon-category-recent-updates = Ukuvuselela kwamanje
 
 ## These are global warnings
 
