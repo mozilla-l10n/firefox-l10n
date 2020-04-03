@@ -116,6 +116,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = थानाय आपडेटफोर
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = बारायनायफोर
+addon-category-plugin = प्लागिनफोर
+addon-category-dictionary = सोदोब बिहुंफोर
+addon-category-locale = रावफोर
+addon-category-available-updates = थानाय आपडेटफोर
+addon-category-recent-updates = दानि आपडेट
 
 ## These are global warnings
 
