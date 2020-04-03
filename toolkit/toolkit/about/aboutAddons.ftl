@@ -128,6 +128,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Pieejamie atjauninājumi
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Papildinājumi
+addon-category-plugin = Spraudņi
+addon-category-dictionary = Vārdnīcas
+addon-category-locale = Valodas
+addon-category-available-updates = Pieejamie atjauninājumi
+addon-category-recent-updates = Nesenie atjauninājumi
 
 ## These are global warnings
 
