@@ -168,6 +168,7 @@ extensions-view-available-updates =
     .name = Actualizaciones disponibles
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Extensiones
+addon-category-theme = Temas
 addon-category-plugin = Plugins
 addon-category-dictionary = Diccionarios
 addon-category-locale = Idiomas
