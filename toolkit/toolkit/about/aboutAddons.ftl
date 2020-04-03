@@ -168,6 +168,7 @@ extensions-view-available-updates =
     .name = Versi Baru yang Tersedia
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Ekstensi
+addon-category-theme = Tema
 addon-category-plugin = Plugin
 addon-category-dictionary = Kamus
 addon-category-locale = Bahasa
