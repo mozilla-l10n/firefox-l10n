@@ -76,6 +76,7 @@ extensions-view-available-updates =
     .name = ອັບເດດທີ່ມີຢູ່
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = ສ່ວນຂະຫຍາຍ
+addon-category-theme = ຊຸດຕົກແຕ່ງ
 addon-category-plugin = ປັກອິນ
 addon-category-dictionary = ພົດຈະນານຸກົມ
 addon-category-locale = ພາສາ
