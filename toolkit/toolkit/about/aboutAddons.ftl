@@ -141,6 +141,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = उपलब्ध सुधारणा
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-theme = थीम
 addon-category-dictionary = शब्दकोष
 addon-category-locale = भाषा
 addon-category-available-updates = उपलब्ध सुधारणा
