@@ -168,6 +168,7 @@ extensions-view-available-updates =
     .name = Tilgjengelege oppdateringar
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Utvidingar
+addon-category-theme = Tema
 addon-category-plugin = Programtillegg
 addon-category-dictionary = Ordbøker
 addon-category-locale = Språk
