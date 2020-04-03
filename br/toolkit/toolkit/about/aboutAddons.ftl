@@ -162,6 +162,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Hizivadurioù hegerz
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Erbedadennoù
 addon-category-extension = Askouezhioù
 addon-category-theme = Neuzioù
 addon-category-plugin = Enlugelladoù
