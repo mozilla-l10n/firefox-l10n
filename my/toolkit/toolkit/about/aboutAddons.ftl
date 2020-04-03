@@ -126,6 +126,7 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = တိုးချဲ့ချက်များ
 addon-category-plugin = ပလပ်အင်
+addon-category-dictionary = အဘိဓာန်များ
 addon-category-locale = ဘာသာ စကားများ
 addon-category-available-updates = ရရှိနိုင်သော အဆင့်မြင်တင်မှု
 addon-category-recent-updates = လက်ရှိ အသစ်
