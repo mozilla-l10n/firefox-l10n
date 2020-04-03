@@ -167,9 +167,13 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Cập nhật có sẵn
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Đề xuất
+addon-category-extension = Tiện ích mở rộng
+addon-category-theme = Chủ đề
 addon-category-plugin = Phần bổ trợ
 addon-category-dictionary = Từ điển
 addon-category-locale = Ngôn ngữ
+addon-category-available-updates = Cập nhật có sẵn
 addon-category-recent-updates = Cập nhật gần đây
 
 ## These are global warnings
