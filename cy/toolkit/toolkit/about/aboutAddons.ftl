@@ -164,6 +164,8 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Diweddariadau ar Gael
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-available-updates = Diweddariadau ar Gael
+addon-category-recent-updates = Diweddariadau Diweddar
 
 ## These are global warnings
 
