@@ -167,9 +167,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = การอัปเดตที่มี
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = คำแนะนำ
 addon-category-extension = ส่วนขยาย
+addon-category-theme = ชุดตกแต่ง
+addon-category-plugin = ปลั๊กอิน
 addon-category-dictionary = พจนานุกรม
 addon-category-locale = ภาษา
+addon-category-available-updates = การอัปเดตที่มี
+addon-category-recent-updates = การอัปเดตล่าสุด
 
 ## These are global warnings
 
