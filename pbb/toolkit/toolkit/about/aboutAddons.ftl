@@ -127,6 +127,7 @@ addon-category-plugin = Plugins
 addon-category-dictionary = Yuwe tasx
 addon-category-locale = We'wenxisaa
 addon-category-available-updates = Een ji'phsa's yu'pthẽhna
+addon-category-recent-updates = Ãçxhtewe'sxa's yu'pthẽhna
 
 ## These are global warnings
 
