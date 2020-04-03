@@ -75,6 +75,7 @@ about-debugging-runtime-profile-button2 = Crea profilo prestazioni
 about-debugging-runtime-service-workers-not-compatible = La configurazione del browser non è compatibile con l’utilizzo dei service worker.  <a>Ulteriori informazioni</a>
 about-debugging-browser-version-too-old = Il browser connesso utilizza una versione obsoleta ({ $runtimeVersion }). La versione minima compatibile è ({ $minVersion }). Questa configurazione non è supportata e potrebbe impedire il corretto funzionamento degli strumenti di sviluppo. Aggiornare il browser connesso. <a>Risoluzione dei problemi</a>
 about-debugging-browser-version-too-old-67-debugger = Il pannello Debugger potrebbe non funzionare correttamente con il browser connesso. Utilizzare Firefox { $runtimeVersion } per gestire il Debugger con questo browser.
+about-debugging-browser-version-too-old-fennec = Non è possibile utilizzare questa versione di Firefox per eseguire il debug di Firefox per Android (68). Per effettuare test è consigliato installare Firefox per Android Nightly sul telefono. <a>Ulteriori informazioni</a>
 about-debugging-browser-version-too-recent = Il browser connesso ({ $runtimeVersion }, buildID { $runtimeID }) è più recente di quello in uso in { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Questa configurazione non è supportata e potrebbe impedire il corretto funzionamento degli strumenti di sviluppo. Aggiornare Firefox. <a>Risoluzione dei problemi</a>
 about-debugging-runtime-name = { $name } ({ $version })
 about-debugging-runtime-disconnect-button = Disconnetti
