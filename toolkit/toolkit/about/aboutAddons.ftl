@@ -128,6 +128,10 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Nuashonruithe Ar Fáil
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Eisínteachtaí
+addon-category-plugin = Forlíontáin
+addon-category-dictionary = Foclóirí
+addon-category-locale = Teangacha
 
 ## These are global warnings
 
