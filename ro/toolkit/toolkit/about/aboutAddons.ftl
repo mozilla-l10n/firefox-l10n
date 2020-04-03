@@ -164,6 +164,7 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Actualizări disponibile
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Recomandări
 addon-category-extension = Extensii
 addon-category-theme = Teme
 addon-category-plugin = Pluginuri
