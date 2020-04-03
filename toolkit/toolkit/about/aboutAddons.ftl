@@ -129,6 +129,7 @@ extensions-view-available-updates =
     .name = Pieejamie atjauninājumi
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Papildinājumi
+addon-category-theme = Tēmas
 addon-category-plugin = Spraudņi
 addon-category-dictionary = Vārdnīcas
 addon-category-locale = Valodas
