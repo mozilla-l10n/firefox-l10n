@@ -153,6 +153,7 @@ extensions-view-available-updates =
     .name = دستیاب تازہ کاریاں
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = توسیعات
+addon-category-theme = خیالیے
 addon-category-plugin = پلگ ان
 addon-category-dictionary = لغات
 addon-category-locale = زبانیں
