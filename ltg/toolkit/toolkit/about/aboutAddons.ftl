@@ -128,6 +128,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Pīejamī atjaunynuojumi
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Papyldynuojumi
+addon-category-plugin = Spraudni
+addon-category-dictionary = Vuordneicys
+addon-category-locale = Volūdys
+addon-category-available-updates = Pīejamī atjaunynuojumi
+addon-category-recent-updates = Nasenī atjaunynuojumi
 
 ## These are global warnings
 
