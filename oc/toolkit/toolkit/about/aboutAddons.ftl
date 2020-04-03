@@ -168,6 +168,7 @@ extensions-view-available-updates =
     .name = De metre a jorn
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Extensions
+addon-category-theme = Tèmas
 addon-category-plugin = Empeutons (Plugins)
 addon-category-dictionary = Diccionaris
 addon-category-locale = Lengas
