@@ -128,6 +128,12 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Beskikbare bywerkings
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Uitbreidings
+addon-category-plugin = Inproppe
+addon-category-dictionary = Woordeboeke
+addon-category-locale = Tale
+addon-category-available-updates = Beskikbare bywerkings
+addon-category-recent-updates = Onlangse bywerkings
 
 ## These are global warnings
 
