@@ -112,7 +112,9 @@ extensions-view-available-updates =
     .name = Rojankirinên Amade
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Pêvek
+addon-category-plugin = Pêvek
 addon-category-dictionary = Ferheng
+addon-category-locale = Zimên
 addon-category-available-updates = Rojankirinên Amade
 addon-category-recent-updates = Rojanekirin Nêz
 
