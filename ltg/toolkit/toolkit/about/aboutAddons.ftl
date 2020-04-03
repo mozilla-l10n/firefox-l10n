@@ -129,6 +129,7 @@ extensions-view-available-updates =
     .name = Pīejamī atjaunynuojumi
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Papyldynuojumi
+addon-category-theme = Temys
 addon-category-plugin = Spraudni
 addon-category-dictionary = Vuordneicys
 addon-category-locale = Volūdys
