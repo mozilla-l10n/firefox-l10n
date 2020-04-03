@@ -164,6 +164,11 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = ਇਕਸਟੈਨਸ਼ਨ
+addon-category-plugin = ਪਲੱਗਇਨ
+addon-category-dictionary = ਡਿਕਸ਼ਨਰੀਆਂ
+addon-category-locale = ਭਾਸ਼ਾਵਾਂ
+addon-category-recent-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
 
 ## These are global warnings
 
