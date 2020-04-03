@@ -176,6 +176,9 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Tilgængelige opdateringer
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-extension = Udvidelser
+addon-category-plugin = Plugins
+addon-category-dictionary = Ordbøger
 addon-category-locale = Sprog
 addon-category-available-updates = Tilgængelige opdateringer
 
