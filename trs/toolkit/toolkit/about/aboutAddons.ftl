@@ -162,6 +162,14 @@ extensions-view-recent-updates =
 extensions-view-available-updates =
     .name = Nej sa ga'ue nahuin nakà
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Nuguan' ganikò't
+addon-category-extension = Nej extensiûn
+addon-category-theme = Tema
+addon-category-plugin = Nej plugin
+addon-category-dictionary = Nej danj nuguan'an
+addon-category-locale = Nej nânj (nuguan')
+addon-category-available-updates = Nej sa ga'ue nahuin nakà
+addon-category-recent-updates = Nej sa hìaj nahuin nakà
 
 ## These are global warnings
 
