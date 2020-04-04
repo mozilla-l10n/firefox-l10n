@@ -29,6 +29,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = გასაღებთა მიმოცვლის ჯგუფი
 certificate-viewer-key-id = გასაღების ID
 certificate-viewer-key-size = გასაღების ზომა
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = რეგისტრ. ადგილი
 certificate-viewer-locality = ადგილსამყოფელი
 certificate-viewer-location = მდებარეობა
 certificate-viewer-logid = აღრიცხვის ID
