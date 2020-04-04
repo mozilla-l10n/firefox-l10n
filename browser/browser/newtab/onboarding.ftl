@@ -21,12 +21,12 @@ onboarding-button-label-get-started = დაწყება
 onboarding-welcome-header = მოგესალმებათ { -brand-short-name }
 onboarding-welcome-body = ბრაუზერი უკვე თქვენია.<br/>გაიცანით უკეთ { -brand-product-name }.
 onboarding-welcome-learn-more = იხილეთ, უპირატესობების შესახებ.
+onboarding-join-form-header = შეუერთდით { -brand-product-name }
 onboarding-welcome-modal-get-body = ბრაუზერი უკვე გაქვთ.<br/>ახლა კი იხილეთ, როგორ გამოიყენოთ უკეთ { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = გააძლიერეთ პირადულობის დაცვა.
 onboarding-welcome-modal-privacy-body = ბრაუზერი უკვე გაქვთ. ახლა კი გაუუმჯობესეთ პირადულობის უსაფრთხოება.
 onboarding-welcome-modal-family-learn-more = გაეცანით { -brand-product-name } პროდუქტების ოჯახს
 onboarding-welcome-form-header = დაიწყეთ აქედან
-onboarding-join-form-header = შეუერთდით { -brand-product-name }
 onboarding-join-form-body = შეიყვანეთ თქვენი ელფოსტა დასაწყებად.
 onboarding-join-form-email =
     .placeholder = ელფოსტის მითითება
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = გაფართოების და�
 onboarding-import-browser-settings-title = გადმოიტანეთ თქვენი სანიშნები, პაროლები და ა. შ.
 onboarding-import-browser-settings-text = დაიწყეთ ახლავე — მარტივად წამოიღეთ თქვენი საიტები და პარამეტრები Chrome-იდან.
 onboarding-import-browser-settings-button = Chrome-მონაცემების გადმოტანა
+onboarding-personal-data-promise-title = პირადულობისთვის შექმნილი
+onboarding-personal-data-promise-text = { -brand-product-name } თქვენს მონაცემებს ეპყრობა პატივისცემით, აღრიცხავს ნაკლებს, იცავს მას და ნათლად ხნის, როგორ იყენებს.
+onboarding-personal-data-promise-button = წაიკითხეთ ჩვენი პირობა
 
 ## Message strings belonging to the Return to AMO flow
 

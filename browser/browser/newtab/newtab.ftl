@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = ეს ქმედება შეუქც�
 newtab-menu-section-tooltip =
     .title = მენიუს გახსნა
     .aria-label = მენიუს გახსნა
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = მოცილება
+    .aria-label = მოცილება
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = ჩვენი დამფინანსე�
 
 newtab-privacy-modal-button-done = მზადაა
 newtab-privacy-modal-header = თქვენი პირადულობა უმნიშვნელოვანესია.
-newtab-privacy-modal-paragraph =
-    გარდა საინტერესო ამბებისა, ჩვენ ასევე გიჩვენებთ მნიშვნელოვან, ღირებულ
-    მასალას შერჩეული მხარდამჭერებისგან. შეგიძლიათ მშვიდად იყოთ, თქვენ მიერ ნანახ
-    მონაცემებს, მხოლოდ ინახავს თქვენი კუთვნილი { -brand-product-name }  — ვერც ჩვენ და ვერც
-    ჩვენი მხარდამჭერი კომპანიები ვერ იხილავს მათ.
 newtab-privacy-modal-paragraph-2 =
     გარდა საინტერესო ამბებისა, ჩვენ ასევე გიჩვენებთ მნიშვნელოვან, ღირებულ
     მასალას შერჩეული მხარდამჭერებისგან. შეგიძლიათ მშვიდად იყოთ, თქვენ მიერ ნანახ
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = ჰმ! თითქმი
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = მეტად გავრცელებული საკითხები:
 newtab-pocket-more-recommendations = მეტი შემოთავაზებები
-newtab-pocket-whats-pocket = რა არის { -pocket-brand-name }?
 newtab-pocket-learn-more = იხილეთ ვრცლად
 newtab-pocket-cta-button = გამოიყენეთ { -pocket-brand-name }
 newtab-pocket-cta-text = გადაინახეთ სასურველი შიგთავსი { -pocket-brand-name }-ში და მიეცით გონებას საკვები, შთამბეჭდავი საკითხავი მასალის სახით.
