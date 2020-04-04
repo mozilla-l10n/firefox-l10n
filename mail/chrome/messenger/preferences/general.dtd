@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "D">
 <!ENTITY removeSearchEngine.label         "Usuń">
 <!ENTITY removeSearchEngine.accesskey     "U">
+
+<!ENTITY minimizeToTray.label             "Minimalizuj program &brandShortName; do ikony w obszarze powiadomień">
+<!ENTITY minimizeToTray.accesskey         "M">
