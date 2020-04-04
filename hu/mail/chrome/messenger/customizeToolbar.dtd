@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Új eszköztár hozzáadása">
 <!ENTITY showTitlebar.label       "Címsor megjelenítése">
 <!ENTITY extraDragSpace.label     "Húzási terület hozzáadása">
+<!ENTITY showTitlebar2.label      "Címsor">
+<!ENTITY extraDragSpace2.label    "Húzási terület">
 <!ENTITY saveChanges.label        "Kész">
 <!ENTITY undoChanges.label        "Visszavonás">
