@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Comencia
 onboarding-welcome-header = Benvenite a { -brand-short-name }
 onboarding-welcome-body = Tu ha recipite le navigator.<br/>Obtene le resto de { -brand-product-name }.
 onboarding-welcome-learn-more = Saper plus re le beneficios.
+onboarding-join-form-header = Junge te a { -brand-product-name }
 onboarding-welcome-modal-get-body = Tu ha obtenite le navigator.<br/>Ora tira le maxime avantage de { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Maximisa le protection de tu vita private.
 onboarding-welcome-modal-privacy-body = Tu ha obtenite le navigator. Que nos augmenta ora le protection de tu vita private.
 onboarding-welcome-modal-family-learn-more = Lege plus sur le familia de productos de { -brand-product-name }.
 onboarding-welcome-form-header = Comencia ci
-onboarding-join-form-header = Junge te a { -brand-product-name }
 onboarding-join-form-body = Insere tu adresse de e-mail pro comenciar.
 onboarding-join-form-email =
     .placeholder = Insere email
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Adder le extension
 onboarding-import-browser-settings-title = Importa tu marcapaginas, contrasignos e multo plus
 onboarding-import-browser-settings-text = Facile a initiar: porta tu sitos e parametros de Chrome con te.
 onboarding-import-browser-settings-button = Importar datos de Chrome
+onboarding-personal-data-promise-title = Concipite pro le vita private
+onboarding-personal-data-promise-text = { -brand-product-name } tracta tu datos personal con respecto: collige minus datos, protege le datos colligite, e indica clarmente como los utilisa.
+onboarding-personal-data-promise-button = Lege nostre promissa
 
 ## Message strings belonging to the Return to AMO flow
 
