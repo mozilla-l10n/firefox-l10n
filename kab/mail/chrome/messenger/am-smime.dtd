@@ -18,7 +18,9 @@
 <!ENTITY e2eLearnMore.label "Issin ugar">
 
 
+<!ENTITY e2eTechPref.description "Tatiknulujit n awgelhen tebɣiḍ:">
 
+<!ENTITY requireEncryptMessage.label "Isra awgelhen s wudem amezwer">
 <!ENTITY digitalSign.certificate.button "Fren...">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Sfeḍ">
@@ -29,6 +31,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "e">
 <!ENTITY signingGroupTitle.label "Azmul umḍin">
 <!ENTITY signMessage.label "Zmel s wudem umḍin iznan (amezwer)">
+<!ENTITY signMessage2.label "Rnu azmul-inu umḍin s wudem amezwer">
 <!ENTITY signMessage.accesskey "Z">
 <!ENTITY signingCert.message "Seqdec aselkin-agi i uzmel s wudem umḍin n yeznan i d-remseḍ:">
 
@@ -39,8 +42,10 @@
 <!ENTITY manageDevices.accesskey "k">
 
 
+<!ENTITY sendingDefaults.label "Iɣewwaṛen imezwar i tuzzna n yeznan">
 
 
+<!ENTITY certificates2.label "S/MIME">
 
 
 
