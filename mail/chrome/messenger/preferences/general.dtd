@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "a">
 <!ENTITY removeSearchEngine.label         "Ukloni">
 <!ENTITY removeSearchEngine.accesskey     "U">
+
+<!ENTITY minimizeToTray.label             "Kada je &brandShortName; smanjen, premjesti ga u sistemsku traku">
+<!ENTITY minimizeToTray.accesskey         "m">
