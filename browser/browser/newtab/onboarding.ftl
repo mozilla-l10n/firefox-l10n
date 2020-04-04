@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Pierwsze kroki
 onboarding-welcome-header = Witamy w przeglądarce { -brand-short-name }
 onboarding-welcome-body = Masz już przeglądarkę.<br/>Poznaj resztę rodziny { -brand-product-name }.
 onboarding-welcome-learn-more = Więcej informacji o korzyściach.
+onboarding-join-form-header = Dołącz do { -brand-product-name }
 onboarding-welcome-modal-get-body = Masz już przeglądarkę.<br/>Teraz w pełni wykorzystaj rodzinę { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Wzmocnij ochronę swojej prywatności.
 onboarding-welcome-modal-privacy-body = Masz już przeglądarkę. Zwiększmy teraz ochronę prywatności.
 onboarding-welcome-modal-family-learn-more = Więcej informacji o rodzinie produktów { -brand-product-name }.
 onboarding-welcome-form-header = Zacznij tutaj
-onboarding-join-form-header = Dołącz do { -brand-product-name }
 onboarding-join-form-body = Wpisz swój adres e-mail, aby zacząć.
 onboarding-join-form-email =
     .placeholder = Wpisz adres e-mail
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Zabierz przeglądarkę { -brand-product-name } ze sobą
 onboarding-sync-welcome-content = Zakładki, historia, hasła i inne ustawienia mogą być dostępne i synchronizowane na wszystkich urządzeniach.
 onboarding-sync-welcome-learn-more-link = Więcej informacji o koncie Firefoksa
-onboarding-sync-form-invalid-input = Wymagany jest prawidłowy adres e-mail
-onboarding-sync-legal-notice = Kontynuując, wyrażasz zgodę na <a data-l10n-name="terms">warunki korzystania z usługi</a> i <a data-l10n-name="privacy">zasady ochrony prywatności</a>.
 onboarding-sync-form-input =
     .placeholder = Adres e-mail
 onboarding-sync-form-continue-button = Kontynuuj
@@ -149,6 +147,9 @@ onboarding-facebook-container-button = Dodaj rozszerzenie
 onboarding-import-browser-settings-title = Importuj swoje zakładki, hasła i nie tylko
 onboarding-import-browser-settings-text = Zacznij od razu — łatwo zabierz dane i ustawienia Chrome ze sobą.
 onboarding-import-browser-settings-button = Importuj dane z Chrome
+onboarding-personal-data-promise-title = Domyślnie prywatny
+onboarding-personal-data-promise-text = { -brand-product-name } szanuje Twoje dane, zbierając ich mniej, chroniąc je i jasno określając, jak ich używa.
+onboarding-personal-data-promise-button = Przeczytaj naszą obietnicę
 
 ## Message strings belonging to the Return to AMO flow
 

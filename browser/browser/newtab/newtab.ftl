@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Tej czynności nie można cofnąć.
 newtab-menu-section-tooltip =
     .title = Otwórz menu
     .aria-label = Otwórz menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Zamknij
+    .aria-label = Zamknij
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Nasi sponsorzy i Twoja prywatność
 
 newtab-privacy-modal-button-done = OK
 newtab-privacy-modal-header = Twoja prywatność jest ważna.
-newtab-privacy-modal-paragraph =
-    Oprócz ciekawych artykułów pokazujemy Ci również spersonalizowane,
-    zweryfikowane treści od wybranych sponsorów. Zachowaj pewność, że
-    Twoja historia przeglądania nigdy nie opuszcza Twojej własnej kopii
-    przeglądarki { -brand-product-name } — my jej nie widzimy, i nasi sponsorzy też nie.
 newtab-privacy-modal-paragraph-2 =
     Oprócz ciekawych artykułów pokazujemy Ci również spersonalizowane,
     zweryfikowane treści od wybranych sponsorów. Zachowaj pewność, że
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Prawie udało się wczyta�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularne treści:
 newtab-pocket-more-recommendations = Więcej polecanych
-newtab-pocket-whats-pocket = Czym jest { -pocket-brand-name }?
 newtab-pocket-learn-more = Więcej informacji
 newtab-pocket-cta-button = Pobierz { -pocket-brand-name }
 newtab-pocket-cta-text = Zachowuj artykuły w { -pocket-brand-name }, aby wrócić później do ich lektury.
