@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = O navegador ligado tem uma versão ant
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = O painel Depurador pode não funcionar com o navegador ligado. Por favor utilize o Firefox { $runtimeVersion } se precisar de utilizar o Depurador com este navegador.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Esta versão do Firefox não pode depurar o Firefox para Android (68). Nós recomendamos a instalação do Firefox Nightly para Android no seu telefone para fazer testes. <a>Mais detalhes</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
