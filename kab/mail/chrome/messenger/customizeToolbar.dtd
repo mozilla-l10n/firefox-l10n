@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Rnu afeggag n ifecka amaynut">
 <!ENTITY showTitlebar.label       "Sken afeggag n uzwel">
 <!ENTITY extraDragSpace.label     "">
+<!ENTITY showTitlebar2.label      "Afeggag n uzwel">
+<!ENTITY extraDragSpace2.label    "Zuɣer tallunt">
 <!ENTITY saveChanges.label        "Immed">
 <!ENTITY undoChanges.label        "Sefsex isniflen">
