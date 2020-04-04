@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "ხელსაწყოთა ახალი ზოლი">
 <!ENTITY showTitlebar.label       "სათაურის ზოლის ჩვენება">
 <!ENTITY extraDragSpace.label     "გადასაადგილებელი სივრცის დამატება">
+<!ENTITY showTitlebar2.label      "სათაურის ზოლი">
+<!ENTITY extraDragSpace2.label    "დამატებითი სივრცე ფანჯრის გადასაადგილებლად">
 <!ENTITY saveChanges.label        "მზადაა">
 <!ENTITY undoChanges.label        "ცვლილებების გაუქმება">
