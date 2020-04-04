@@ -148,6 +148,7 @@ onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senh
 onboarding-import-browser-settings-text = Emportatz aisidament vòstres sites e paramètres Chrome.
 onboarding-import-browser-settings-button = Importar las donadas de Chrome
 onboarding-personal-data-promise-title = Concebut per la confidencialitat
+onboarding-personal-data-promise-text = { -brand-product-name } tracta vòstras donadas amb respècte en ne prendre mes, en las protegir e en èsser clar a prepaus de lor utilizacion.
 
 ## Message strings belonging to the Return to AMO flow
 
