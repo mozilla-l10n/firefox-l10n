@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Dodaj novu alatnu traku">
 <!ENTITY showTitlebar.label       "Prikaži naslovnu traku">
 <!ENTITY extraDragSpace.label     "Dodaj prostor za povući">
+<!ENTITY showTitlebar2.label      "Naslovna traka">
+<!ENTITY extraDragSpace2.label    "Prostor za povlačenje">
 <!ENTITY saveChanges.label        "Gotovo">
 <!ENTITY undoChanges.label        "Vrati promjenu">
