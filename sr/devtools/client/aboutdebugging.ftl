@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = Повезани прегледач и
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = The Debugger panel may not work with the connected browser. Please use Firefox { $runtimeVersion } if you need to use the Debugger with this browser.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Ова Firefox верзија не може да уклања грешке за Firefox за Android (68). Препоручујемо вам да на телефон инсталирате Firefox за Android Nightly за тестирање. <a>Више детаља</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
@@ -305,6 +308,11 @@ about-debugging-main-process-name = Main Process
 # Displayed as description for the Main Process debug target in the Processes category.
 # Only for remote browsers, if `devtools.aboutdebugging.process-debugging` is true.
 about-debugging-main-process-description2 = Main Process for the target browser
+# Displayed instead of the Main Process debug target when the preference
+# `devtools.browsertoolbox.fission` is true.
+about-debugging-multiprocess-toolbox-name = Вишепроцесне алатке
+# Description for the Multiprocess Toolbox target.
+about-debugging-multiprocess-toolbox-description = Главни процес и процеси садржаја за циљани прегледач
 # Alt text used for the close icon of message component (warnings, errors and notifications).
 about-debugging-message-close-icon =
     .alt = Close message
