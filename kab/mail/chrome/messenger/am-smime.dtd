@@ -14,6 +14,7 @@
 <!ENTITY encryptionCert.message "Seqdec aselkin-agi akken i uwgelhen &amp; azmak n yeznan i d-remseḍ:">
 
 <!ENTITY e2eTitle.label "Awgelhen seg yixef ɣer wayeḍ">
+<!ENTITY e2eIntro.description "Akken ad tazneḍ iznan ittwawgelhen neɣ yettwazemlen s wudem umḍin, tesriḍ ad tsewleḍ tatiknulujit n awgelhen, OpenPGP neɣ S/MIME.">
 <!ENTITY e2eLearnMore.label "Issin ugar">
 
 
