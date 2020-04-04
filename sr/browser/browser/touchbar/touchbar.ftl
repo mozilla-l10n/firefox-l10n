@@ -9,6 +9,7 @@ forward = Напред
 reload = Поново учитај
 home = Почетна
 fullscreen = Цео екран
+touchbar-fullscreen-exit = Изађи из приказа преко целог екрана
 find = Нађи
 new-tab = Нови језичак
 add-bookmark = Додај забелешку
