@@ -42,3 +42,5 @@
 <!ENTITY addSearchEngine.accesskey        "A">
 <!ENTITY removeSearchEngine.label         "Rimuovi">
 <!ENTITY removeSearchEngine.accesskey     "v">
+
+<!ENTITY minimizeToTray.accesskey         "m">

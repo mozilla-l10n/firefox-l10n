@@ -15,5 +15,6 @@
 <!ENTITY addNewToolbar.label      "Aggiungi una nuova barra degli strumenti">
 <!ENTITY showTitlebar.label       "Mostra la barra del titolo">
 <!ENTITY extraDragSpace.label     "Aggiungere spazio di trascinamento">
+<!ENTITY showTitlebar2.label      "Barra del titolo">
 <!ENTITY saveChanges.label        "Fine">
 <!ENTITY undoChanges.label        "Annulla cambiamenti">
