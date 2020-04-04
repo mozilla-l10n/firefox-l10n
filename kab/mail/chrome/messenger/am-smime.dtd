@@ -46,8 +46,11 @@
 
 
 <!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Sefrek iselkan S/MIME">
+<!ENTITY manageDevices2.label "Ibenkan n tɣellist S/MIME">
 
 
+<!ENTITY manageKeys.label "Sefrek tisura OpenPGP">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Fren aselkin">
