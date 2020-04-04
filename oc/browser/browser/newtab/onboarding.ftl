@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Per començar
 onboarding-welcome-header = La benvenguda a { -brand-short-name }
 onboarding-welcome-body = Avètz ja lo navegador.<br/>Descobrissètz la rèsta de { -brand-product-name }.
 onboarding-welcome-learn-more = Mai d’informacion suls avantatges.
+onboarding-join-form-header = Rejonhètz { -brand-product-name }
 onboarding-welcome-modal-get-body = Avètz ja lo navegador.<br/>Ara aprofechatz de tot { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Maximalizatz vòstra proteccion privada.
 onboarding-welcome-modal-privacy-body = Avètz ja lo navegador. Ara ajustem mai de proteccion de la vida privada.
 onboarding-welcome-modal-family-learn-more = Ne saber mai sus la familha de produches { -brand-product-name }.
 onboarding-welcome-form-header = Començatz aquí
-onboarding-join-form-header = Rejonhètz { -brand-product-name }
 onboarding-join-form-body = Picatz vòstra adreça electronica per començar.
 onboarding-join-form-email =
     .placeholder = Picatz una adreça electronica
@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Apondre l’extension
 onboarding-import-browser-settings-title = Importatz vòstres marcapaginas, senhals, e encara mai
 onboarding-import-browser-settings-text = Emportatz aisidament vòstres sites e paramètres Chrome.
 onboarding-import-browser-settings-button = Importar las donadas de Chrome
+onboarding-personal-data-promise-title = Concebut per la confidencialitat
 
 ## Message strings belonging to the Return to AMO flow
 
