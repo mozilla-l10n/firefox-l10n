@@ -29,6 +29,8 @@ certificate-viewer-id = Identyfikator
 certificate-viewer-key-exchange-group = Grupa wymiany kluczy
 certificate-viewer-key-id = Identyfikator klucza
 certificate-viewer-key-size = Rozmiar klucza
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Region założenia
 certificate-viewer-locality = Region
 certificate-viewer-location = Położenie
 certificate-viewer-logid = Identyfikator dziennika
