@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY quota.dialogTitle.label    "ქვოტა სერვერზე">
-<!ENTITY quota.retrievingInfo.label "ქვოტის მონაცემთა წაკითხვა…">
+<!ENTITY quota.dialogTitle.label    "სერვერის ზღვარი">
+<!ENTITY quota.retrievingInfo.label "ზღვრის მონაცემთა მიღება…">
 <!ENTITY quota.typeColumn.label     "სახეობა">
 <!ENTITY quota.sizeColumn.label     "ზომა">

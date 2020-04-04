@@ -20,8 +20,8 @@
 <!-- Manage Account -->
 <!ENTITY manageAccount.label          "ანგარიშის მართვა">
 <!ENTITY manageAccount.accesskey      "M">
-<!ENTITY viewQuota.label              "ქვოტის ჩვენება">
-<!ENTITY viewQuota.accesskey          "V">
+<!ENTITY viewQuota.label              "ზღვრის ნახვა">
+<!ENTITY viewQuota.accesskey          "ნ">
 <!ENTITY changePassword.label         "პაროლის შეცვლა">
 <!ENTITY changePassword.accesskey     "C">
 <!ENTITY myRecoveryKey.label          "ჩემი აღდგენის კოდი">
