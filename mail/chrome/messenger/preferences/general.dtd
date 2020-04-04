@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "a">
 <!ENTITY removeSearchEngine.label         "Eltávolítás">
 <!ENTITY removeSearchEngine.accesskey     "E">
+
+<!ENTITY minimizeToTray.label             "Ha a &brandShortName; minimalizálva van, áthelyezés a tálcára">
+<!ENTITY minimizeToTray.accesskey         "m">
