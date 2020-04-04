@@ -9,4 +9,5 @@ label-more-information = Више информација: грешка { $bug }
 label-overrides = Поништавања корисничког агента
 text-disabled-in-about-config = Ова функција је онемогућена у about:config
 text-no-interventions = Не користи се никаква интервенција
+text-no-overrides = Не користе се поништавања корисничког агента
 text-title = about:compat

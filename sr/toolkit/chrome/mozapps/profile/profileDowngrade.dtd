@@ -9,6 +9,8 @@
  Firefox" and "version" is used to mean "the specific revision number of a
  given Firefox channel". These terms are not synonymous.
 -->
+<!ENTITY window.title "Покренули сте старију Firefox верзију">
+<!ENTITY window.style "width: 490px;">
 
 <!ENTITY window.nosync "Коришћење старије верзије Firefox-а може да оштети забелешке и историју прегледања који су већ сачувани у постојећем Firefox профилу. Да бисте заштитили своје информације, направите нови профил за ову инсталацију &brandShortName;.">
 <!ENTITY window.sync "Коришћење старије верзије Firefox-а може да оштети забелешке и историју прегледања који су већ сачувани у постојећем Firefox профилу. Да бисте заштитили своје информације, направите нови профил за инсталацију &brandShortName;. Увек се можете пријавити помоћу &syncBrand.fxAccount.label; да синхронизујете своје забелешке и историју прегледања међу профилима.">
