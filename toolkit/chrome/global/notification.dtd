@@ -8,6 +8,7 @@
 
 <!ENTITY learnMore "Сазнајте више…">
 
+<!ENTITY learnMoreNoEllipsis "Сазнајте више">
 
 <!ENTITY defaultButton.label "У реду!">
 <!ENTITY defaultButton.accesskey "У">

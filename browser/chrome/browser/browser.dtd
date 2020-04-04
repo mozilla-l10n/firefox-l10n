@@ -169,6 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.account.label "Налог">
 <!ENTITY fxa.menu.settings.label "Подешавања">
 <!ENTITY fxa.menu.accountSettings.label "Подешавања налога">
+<!ENTITY fxa.menu.manageAccount2.label "Управљајте налогом">
 <!ENTITY fxa.menu.signOut.label "Одјава…">
 <!ENTITY fxa.menu.setupSync.label "Поставите &syncBrand.shortName.label;…">
 
