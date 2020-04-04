@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Iste action es irreversibile.
 newtab-menu-section-tooltip =
     .title = Aperir le menu
     .aria-label = Aperir le menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Remover
+    .aria-label = Remover
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,7 +90,6 @@ newtab-menu-show-privacy-info = Nostre sponsores e tu vita private
 
 newtab-privacy-modal-button-done = Facite
 newtab-privacy-modal-header = Tu vita private es importante.
-newtab-privacy-modal-paragraph = In addition a servir te historias captivante, nos te monstra anque contento pertinente e ben curate ab sponsores seligite. Sia assecurate que tu datos de navigation non essera jammais divulgate ab tu copia personal de { -brand-product-name }: nos non los vide, ni nostre sponsores.
 newtab-privacy-modal-paragraph-2 = In addition a servir te historias captivante, nos te monstra anque contento pertinente e ben curate ab sponsores seligite. Sia assecurate que <strong>tu datos de navigation non essera jammais divulgate ab tu copia personal de { -brand-product-name }</strong>: nos non los vide, ni nostre sponsores.
 newtab-privacy-modal-link = Saper plus sur le respecto del vita private in le pagina de nove scheda
 
@@ -181,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Nos non ha potite car
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subjectos popular:
 newtab-pocket-more-recommendations = Altere recommendationes
-newtab-pocket-whats-pocket = Que es { -pocket-brand-name }?
 newtab-pocket-learn-more = Saper plus
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Salva le articulos que tu ama in { -pocket-brand-name }, e alimenta tu mente con lecturas fascinante.
