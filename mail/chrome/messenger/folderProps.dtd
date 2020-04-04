@@ -58,8 +58,8 @@
 <!ENTITY permissionsDesc.label                   "თქვენ გაქვთ შემდეგი უფლებები:">
 <!ENTITY folderType.label                        "საქაღალდის სახეობა:">
 
-<!ENTITY folderQuotaTab.label                    "ქვოტა">
-<!ENTITY folderQuotaRoot.label                   "ქვოტა:">
+<!ENTITY folderQuotaTab.label                    "ზღვარი">
+<!ENTITY folderQuotaRoot.label                   "ძირეულის ზღვარი:">
 <!ENTITY folderQuotaUsage.label                  "გამოყენება:">
 <!ENTITY folderQuotaStatus.label                 "სტატუსი:">
 
