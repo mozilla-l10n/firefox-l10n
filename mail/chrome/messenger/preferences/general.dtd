@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "ა">
 <!ENTITY removeSearchEngine.label         "მოცილება">
 <!ENTITY removeSearchEngine.accesskey     "ც">
+
+<!ENTITY minimizeToTray.label             "როცა &brandShortName; ჩაიკეცება, გადავიდეს სისტემის არეში">
+<!ENTITY minimizeToTray.accesskey         "ჩ">
