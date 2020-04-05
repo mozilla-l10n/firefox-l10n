@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Tämä toiminto on peruuttamaton.
 newtab-menu-section-tooltip =
     .title = Avaa valikko
     .aria-label = Avaa valikko
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Poista
+    .aria-label = Poista
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Tukijamme ja yksityisyytesi
 
 newtab-privacy-modal-button-done = Valmis
 newtab-privacy-modal-header = Yksityisyydelläsi on merkitystä.
-newtab-privacy-modal-paragraph =
-    Kiehtovien tarinoiden tarjoamisen lisäksi näytämme sinulle myös sinua kiinnostavaa, 
-    tarkastettua sisältöä valituilta sponsoreilta. Voit olla varma, että selaustietosi
-    pysyvät omassa { -brand-product-name }-kopiossasi – emme näe niitä eivätkä 
-    myöskään sponsorimme.
 newtab-privacy-modal-paragraph-2 =
     Kiehtovien tarinoiden tarjoamisen lisäksi näytämme sinulle myös kiinnostavaa,
     tarkastettua sisältöä valituilta sponsoreilta. Voit olla varma, että <strong>selaustietosi
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Tämä osio ladattii
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Suositut aiheet:
 newtab-pocket-more-recommendations = Lisää suosituksia
-newtab-pocket-whats-pocket = Mikä { -pocket-brand-name } on?
 newtab-pocket-learn-more = Lue lisää
 newtab-pocket-cta-button = Hanki { -pocket-brand-name }
 newtab-pocket-cta-text = Tallenna tykkäämäsi tekstit { -pocket-brand-name }iin ja ravitse mieltäsi kiinnostavilla teksteillä.
