@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "й">
 <!ENTITY removeSearchEngine.label         "Удалить">
 <!ENTITY removeSearchEngine.accesskey     "л">
+
+<!ENTITY minimizeToTray.label             "При сворачивании перемещать &brandShortName; в системный трей">
+<!ENTITY minimizeToTray.accesskey         "ч">
