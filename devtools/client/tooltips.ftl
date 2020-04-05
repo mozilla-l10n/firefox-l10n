@@ -25,6 +25,13 @@ inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> a pas c
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que es pas un contenidor flex, ni un contenidor grid o un contenidor multi-colomna.
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que es pas un element flex nimai grid.
 inactive-css-not-grid-item = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que es pas un element grid.
+inactive-css-not-grid-container = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que es pas un contenidor grid.
+inactive-css-not-flex-item = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que es pas un element flex.
+inactive-css-not-flex-container = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que es pas un contenidor flex.
+inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que es pas un element « inline » o element « table-cell ».
+inactive-css-property-because-of-display = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que sa proprietat « display » val <strong>{ $display }</strong>.
+inactive-css-not-display-block-on-floated = La valor <strong>display</strong> es estada modificada pel motor en <strong>block</strong> perque l’element es <strong>floated<strong>.
+inactive-css-property-is-impossible-to-override-in-visited = Es pas possible de subrecargar <strong>{ $property }</strong> a causa de la restriccion <strong>:visited</strong>.
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> a pas cap d’efèit sus aqueste element per çò que <strong>overflow:hidde</strong> es pas definit.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
