@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Dizze aksje kin net ûngedien makke wurde.
 newtab-menu-section-tooltip =
     .title = Menu iepenje
     .aria-label = Menu iepenje
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Fuortsmite
+    .aria-label = Fuortsmite
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Us sponsors en jo privacy
 
 newtab-privacy-modal-button-done = Dien
 newtab-privacy-modal-header = Jo privacy is wichtich.
-newtab-privacy-modal-paragraph =
-    Neist it fertellen fan boeiende ferhalen, toane wy jo ek relevante,
-    goed trochljochte ynhâld fan selektearre sponsors. Wês gerêst, jo navigaasjegegevens
-    ferlitte nea jo persoanlike eksimplaar fan { -brand-product-name } – wy krije se net te sjen,
-    en ús sponsors ek net.
 newtab-privacy-modal-paragraph-2 =
     Neist it fertellen fan boeiende ferhalen, toane wy jo ek relevante,
     goed trochljochte ynhâld fan selektearre sponsors. Wês gerêst, <strong>jo navigaasjegegevens
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oeps! Wy hiene dizze seksj
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populêre ûnderwerpen:
 newtab-pocket-more-recommendations = Mear oanrekommandaasjes
-newtab-pocket-whats-pocket = Wat is { -pocket-brand-name }?
 newtab-pocket-learn-more = Mear ynfo
 newtab-pocket-cta-button = { -pocket-brand-name } brûke
 newtab-pocket-cta-text = Bewarje de ferhalen dy't jo ynteressant fine yn { -pocket-brand-name }, en stimulearje jo tinzen mei boeiende lêsstof.
