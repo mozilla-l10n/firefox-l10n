@@ -56,13 +56,22 @@
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Sefrek iselkan S/MIME">
+<!ENTITY manageCerts3.accesskey "S">
 <!ENTITY manageDevices2.label "Ibenkan n tɣellist S/MIME">
+<!ENTITY manageDevices2.accesskey "n">
 
+<!ENTITY technologySMIME.label "Smenyef S/MIME">
+<!ENTITY technologyOpenPGP.label "Smenyef OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
 <!ENTITY manageKeys.label "Sefrek tisura OpenPGP">
+<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Fren aselkin">
 <!ENTITY certPicker.info  "Aselkin:">
 <!ENTITY certPicker.detailsLabel "Talqayt n uselkin yettwafernen:">
 
+<!ENTITY openpgpKey.message "Tasarut tudmawant i uwgelhen akked uzmul umḍin:">
+<!ENTITY openpgpKey.button "Sbadu tasarut tudmawant…">
+<!ENTITY openpgpKey.accesskey "o">
