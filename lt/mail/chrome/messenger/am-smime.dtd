@@ -37,6 +37,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "t">
 <!ENTITY signingGroupTitle.label "Skaitmeninis parašas">
 <!ENTITY signMessage.label "Išsiunčiamus laiškus pasirašyti skaitmeniškai">
+<!ENTITY signMessage2.label "Pagal nutylėjimą, pridėti mano skaitmeninį parašą">
 <!ENTITY signMessage.accesskey "s">
 <!ENTITY signingCert.message "Parašui naudoti šį asmeninį liudijimą:">
 
@@ -50,6 +51,7 @@
 
 <!ENTITY sendingDefaults.label "Numatytieji pranešimų siuntimo nustatymai">
 
+<!ENTITY technologyAutomatic.label "Parinkti automatiškai, atsižvelgiant į turimus raktus ir sertifikatus">
 
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Tvarkyti S/MIME liudijimus">
