@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Esta acción no se puede deshacer.
 newtab-menu-section-tooltip =
     .title = Abrir menú
     .aria-label = Abrir menú
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Eliminar
+    .aria-label = Eliminar
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,10 +90,6 @@ newtab-menu-show-privacy-info = Nuestros patrocinadores y tu privacidad
 
 newtab-privacy-modal-button-done = Hecho
 newtab-privacy-modal-header = Tu privacidad importa
-newtab-privacy-modal-paragraph =
-    Además de ofrecer historias cautivadoras, también te mostramos información relevante,
-    contenido altamente revisado de patrocinadores seleccionados. No te preocupes, la seguridad de los datos de su navegación
-     nunca dejan su copia personal de { -brand-product-name }: no la vemos y nuestros patrocinadores tampoco.
 newtab-privacy-modal-paragraph-2 = Además de ofrecer historias cautivadoras, te mostramos contenido relevante y muy revisado de patrocinadores seleccionados. No te preocupes, <strong>tus datos de navegación jamás dejan una copia personal de { -brand-product-name }</strong> — nosotros los vemos, y tampoco lo hacen nuestros patrocinadores.
 newtab-privacy-modal-link = Conoce cómo tu privacidad trabaja en la nueva pestaña
 
@@ -184,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Casi cargamos esta 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
 newtab-pocket-more-recommendations = Más recomendaciones
-newtab-pocket-whats-pocket = ¿Qué es { -pocket-brand-name }?
 newtab-pocket-learn-more = Saber más
 newtab-pocket-cta-button = Obtener { -pocket-brand-name }
 newtab-pocket-cta-text = Guarda las historias que quieras en { -pocket-brand-name } y llena tu mente con fascinantes lecturas.
