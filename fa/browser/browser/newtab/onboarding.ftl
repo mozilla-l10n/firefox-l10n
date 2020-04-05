@@ -12,7 +12,7 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
-onboarding-button-label-learn-more = بیشتر یاد بگیرید
+onboarding-button-label-learn-more = بیشتر بدانید
 onboarding-button-label-try-now = همین حالا امتحان کنید
 onboarding-button-label-get-started = شروع کنید
 
@@ -41,8 +41,6 @@ onboarding-cards-dismiss =
 onboarding-sync-welcome-header = { -brand-product-name } را همراه خود داشته باشید
 onboarding-sync-welcome-content = نشانک‌ها، تاریخچه، گذرواژه‌ها و تنظیمات دیگر خود را بر روی تمام دستگاه‌های خود همراه خود داشته باشید.
 onboarding-sync-welcome-learn-more-link = در مورد حساب‌های فایرفاکس بیشتر بدانید
-onboarding-sync-form-invalid-input = رایانامهٔ معتبر لازم است
-onboarding-sync-legal-notice = با ادامه دادن، شما <a data-l10n-name="terms">قوانین سرویس</a> و <a data-l10n-name="privacy">نکات حریم‌خصوصی</a> قبول می‌کنید.
 onboarding-sync-form-input =
     .placeholder = پست‌الکترونیکی
 onboarding-sync-form-continue-button = ادامه
