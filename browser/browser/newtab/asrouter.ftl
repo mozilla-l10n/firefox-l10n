@@ -126,6 +126,7 @@ cfr-whatsnew-searchbar-title = Адрестік жолақ көмегімен а
 #   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
 cfr-whatsnew-searchbar-body-enginename = Көбірек қолданатын сайттарға адрестік жолағында бір шертумен өтіңіз. Нәрселерді { $searchEngineName } және шолу тарихы нәтижелерімен тезірек табыңыз.
 cfr-whatsnew-searchbar-body-generic = Көбірек қолданатын сайттарға адрестік жолағында бір шертумен өтіңіз. Нәрселерді шолу тарихы іздеу нәтижелерімен тезірек табыңыз.
+cfr-whatsnew-searchbar-body-topsites = Енді адрестік жолағын таңдасаңыз, ол топ сайттарыңыз бар сілтемелермен кеңейеді.
 cfr-whatsnew-searchbar-icon-alt-text = Үлкейту әйнегі таңбашасы
 
 ## Picture-in-Picture

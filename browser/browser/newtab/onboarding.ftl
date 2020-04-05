@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Бастау
 onboarding-welcome-header = { -brand-short-name } өніміне қош келдіңіз
 onboarding-welcome-body = Браузеріңіз бар.<br/>{ -brand-product-name } қалған бөлігімен танысыңыз.
 onboarding-welcome-learn-more = Артықшылықтары туралы көбірек біліңіз.
+onboarding-join-form-header = { -brand-product-name } қоғамдастығына қосылыңыз
 onboarding-welcome-modal-get-body = Браузеріңіз бар.<br/>Енді { -brand-product-name } максималды мәнін алыңыз.
 onboarding-welcome-modal-supercharge-body = Құпиялылықты қорғаңыз.
 onboarding-welcome-modal-privacy-body = Браузеріңіз бар. Көбірек жекелік қорғанысты қосайық.
 onboarding-welcome-modal-family-learn-more = { -brand-product-name } өнімдер отбасы туралы көбірек біліңіз.
 onboarding-welcome-form-header = Осы жерден бастаңыз
-onboarding-join-form-header = { -brand-product-name } қоғамдастығына қосылыңыз
 onboarding-join-form-body = Бастау үшін, эл. пошта адресіңізді енгізіңіз.
 onboarding-join-form-email =
     .placeholder = Эл. поштаны енгізіңіз
@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Кеңейтуді қосу
 onboarding-import-browser-settings-title = Бетбелгілер, парольдерді және т.б. импорттау
 onboarding-import-browser-settings-text = Тікелей кірісу — Chrome сайттары және баптауларын оңай көшіріп алыңыз.
 onboarding-import-browser-settings-button = Chrome деректерін импорттау
+onboarding-personal-data-promise-title = Дизайн бойынша жеке
 
 ## Message strings belonging to the Return to AMO flow
 
