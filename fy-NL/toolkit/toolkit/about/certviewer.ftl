@@ -29,6 +29,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Kaaiútwikselingsgroep
 certificate-viewer-key-id = Kaai-ID
 certificate-viewer-key-size = Kaaigrutte
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Fêstigingsplak
 certificate-viewer-locality = Plak
 certificate-viewer-location = Lokaasje
 certificate-viewer-logid = Log-ID
