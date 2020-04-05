@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Nije arkbalke tafoegje">
 <!ENTITY showTitlebar.label       "Titelbalke toane">
 <!ENTITY extraDragSpace.label     "Romte slepe tafoegje">
+<!ENTITY showTitlebar2.label      "Titelbalke">
+<!ENTITY extraDragSpace2.label    "Sleepromte">
 <!ENTITY saveChanges.label        "Dien">
 <!ENTITY undoChanges.label        "Wizigingen ûngedien meitsje">
