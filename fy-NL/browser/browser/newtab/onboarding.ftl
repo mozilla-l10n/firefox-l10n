@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Begjinne
 onboarding-welcome-header = Wolkom by { -brand-short-name }
 onboarding-welcome-body = Jo hawwe de browser.<br/>Kom yn de kunde mei de rest fan { -brand-product-name }.
 onboarding-welcome-learn-more = Mear ynfo oer de foardielen.
+onboarding-join-form-header = Doch mei mei { -brand-product-name }
 onboarding-welcome-modal-get-body = Jo hawwe de browser.<br/>Helje no it measte út { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Fersterk de beskerming fan jo privacy.
 onboarding-welcome-modal-privacy-body = Jo hawwe de browser. Litte wy mear privacybeskerming tafoegje.
 onboarding-welcome-modal-family-learn-more = Lês mear oer de produktfamylje fan { -brand-product-name }.
 onboarding-welcome-form-header = Hjir begjinne
-onboarding-join-form-header = Doch mei mei { -brand-product-name }
 onboarding-join-form-body = Fier jo e-mailadres yn om te begjinnen.
 onboarding-join-form-email =
     .placeholder = Fier e-mailadres yn
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = De útwreiding tafoegje
 onboarding-import-browser-settings-title = Ymportearje jo blêdwizers, wachtwurden en mear
 onboarding-import-browser-settings-text = Dûk der daliks yn – nim ienfâldich jo Chrome-siden en -ynstellingen mei.
 onboarding-import-browser-settings-button = Chrome-gegevens ymportearje
+onboarding-personal-data-promise-title = Untwurpen foar privee
+onboarding-personal-data-promise-text = { -brand-product-name } behannelet jo gegevens mei respekt troch der minder te freegjen, se te beskermjen en dúdlik te wêzen oer hoe't wy se brûke.
+onboarding-personal-data-promise-button = Lês ús belofte
 
 ## Message strings belonging to the Return to AMO flow
 
