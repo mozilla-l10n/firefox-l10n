@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Abrir menú
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importar contraseñas...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar desde otro navegador...
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nombre (A-Z)
 login-list-name-reverse-option = Nombre (Z-A)
 login-list-breached-option = Sitios web vulnerados
+about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificación
 login-list-last-used-option = Último uso
 login-list-intro-title = No se encontraron inicios de sesión
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Escriba sus credenciales de inicio de sesi�
 login-list-item-subtitle-missing-username = (sin nombre de usuario)
 about-logins-list-item-breach-icon =
     .title = Sitio web vulnerado
+about-logins-list-item-vulnerable-password-icon =
+    .title = Contraseña vulnerable
 
 ## Introduction screen
 
@@ -160,10 +161,25 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Filtración de sitio web
 breach-alert-text = Las contraseñas fueron filtradas o robadas de este sitio web desde la última vez que actualizó sus datos de inicio de sesión. Cambie su contraseña para proteger su cuenta.
 breach-alert-link = Saber más sobre esta filtración.
 breach-alert-dismiss =
     .title = Cerrar esta alerta
+about-logins-breach-alert-date = Esta filtración ocurrió el { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ir a { $hostname }
+about-logins-breach-alert-learn-more-link = Saber más
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Contraseña vulnerable
+about-logins-vulnerable-alert-text = Está contraseña fue expuesta o robada en otra filtración de datos en otra compañía. Usar las mismas contraseñas pone a todas las cuentas en riesgo. Para mejorar su seguridad en línea, cambie esta contraseña.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ir a { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Saber más
 
 ## Error Messages
 
