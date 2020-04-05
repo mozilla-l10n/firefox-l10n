@@ -22,6 +22,11 @@ onboarding-welcome-header = به { -brand-short-name } خوش آمدید
 onboarding-welcome-body = شما مرورگر را به دست آوردید.<br/>سایر بخش‌های { -brand-product-name } را ببینید.
 onboarding-welcome-learn-more = در مورد مزایای آن بیشتر یاد بگیرید.
 onboarding-join-form-header = به { -brand-product-name } بپیوندید
+onboarding-welcome-modal-get-body = شما مرورگر را دارید<br/>حالا میتوانیداز { -brand-product-name } بیشترین بهره را ببرید.
+onboarding-welcome-modal-supercharge-body = محافظت از حریم شخصیتان را تقویت کنید.
+onboarding-welcome-modal-privacy-body = شما مرورگر را دارید. بیایید محافظت از حریم خصوصی را بیشتر کنیم.
+onboarding-welcome-modal-family-learn-more = درباره خانواده محصولات { -brand-product-name } بیاموزید.
+onboarding-welcome-form-header = از اینجا شروع کنید
 onboarding-join-form-body = برای شروع، آدرس ایمیل خود را وارد کنید.
 onboarding-join-form-email =
     .placeholder = ایمیل را وارد کنید
@@ -106,6 +111,9 @@ onboarding-mobile-phone-text = { -brand-product-name } را برای iOS یا An
 # browser.
 onboarding-mobile-phone-button = مرورگر همراه را دریافت کنید
 onboarding-send-tabs-title = بلافاصله زبانه‌ها را برای خود بفرستید
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = فرستادن زبانه‌ها، بلافاصله صفحه‌ها را بین دستگاه‌های مختلف شما بدون نیاز به ترک مرورگر یا اقدامی اضافه، به اشتراک می‌گذارد.
 onboarding-send-tabs-button = استفاده از فرستادن زبانه‌ها را آغاز کنید
 onboarding-pocket-anywhere-title = هرجایی بخوانید و بشنوید
 onboarding-pocket-anywhere-text2 = محتوای مورد علاقه خود را با اپ { -pocket-brand-name } به صورت آفلاین ذخیره کنید و هر زمان که برایتان مناسب بود آن را بخوانید، بشنوید یا تماشا کنید.
