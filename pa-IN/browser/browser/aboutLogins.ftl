@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = ਮੇਨੂ ਖੋਲ੍ਹੋ
-# This menuitem is only visible on Windows
-menu-menuitem-import = …ਪਾਸਵਰਡ ਦਰਾਮਦ ਕਰੋ
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = …ਹੋਰ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬਰਾਮਦ ਕਰੋ
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = ਲੜੀਬੱਧ:
 login-list-name-option = ਨਾਂ (A-Z)
 login-list-name-reverse-option = ਨਾਂ (Z-A)
 login-list-breached-option = ਸੰਨ੍ਹ ਲੱਗੀਆਂ ਵੈੱਬਸਾਈਟਾਂ
+about-logins-login-list-alerts-option = ਚੇਤਾਵਨੀ
 login-list-last-changed-option = ਆਖਰੀ ਵਾਰ ਸੋਧੇ
 login-list-last-used-option = ਆਖਰੀ ਵਾਰ ਵਰਤੇ
 login-list-intro-title = ਕੋਈ ਲਾਗਇਨ ਨਹੀਂ ਲੱਭਿਆ
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = ਆਪਣੀ ਲਾਗਇਨ ਸਨਦ ਦ�
 login-list-item-subtitle-missing-username = (ਕੋਈ ਵਰਤੋਂਕਾਰ ਨਾਂ ਨਹੀਂ ਹੈ)
 about-logins-list-item-breach-icon =
     .title = ਉਲੰਘਣ ਕਰਨ ਵਾਲੀ ਵੈੱਬਸਾਈਟ
+about-logins-list-item-vulnerable-password-icon =
+    .title = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ
 
 ## Introduction screen
 
@@ -160,10 +161,23 @@ confirm-discard-changes-dialog-confirm-button = ਖ਼ਾਰਜ ਕਰੋ
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ਵੈੱਬਸਾਈਟ ਦੀ ਉਲੰਘਣਾ
 breach-alert-text = ਤੁਹਾਡੇ ਵਲੋਂ ਆਪਣੇ ਲਾਗਇਨ ਵੇਰਵਿਆਂ ਨੂੰ ਆਖਰੀ ਵਾਰ ਅੱਪਡੇਟ ਕਰਨ ਦੇ ਬਾਅਦ ਇਸ ਵੈੱਬਸਾਈਟ ਤੋਂ ਪਾਸਵਰਡ ਲੀਕ ਹੋ ਗਏ ਜਾਂ ਚੋਰੀ ਕੀਤੇ ਗਏ ਸਨ। ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਲਈ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲੋ।
 breach-alert-link = ਇਸ ਸੰਨ੍ਹ ਲੱਗਣ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
 breach-alert-dismiss =
     .title = ਇਹ ਚੇਤਾਵਨੀ ਬੰਦ ਕਰੋ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } ਤੇ ਜਾਓ
+about-logins-breach-alert-learn-more-link = ਹੋਰ ਜਾਣੋ
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } ਤੇ ਜਾਓ
+about-logins-vulnerable-alert-learn-more-link = ਹੋਰ ਜਾਣੋ
 
 ## Error Messages
 
