@@ -96,7 +96,9 @@
 <!ENTITY openAttachment.tooltip "Ldi tasawit yernan">
 
 <!ENTITY detachedAttachmentFolder.show.label        "Ldi akaram igebren afaylu">
+<!ENTITY detachedAttachmentFolder.show.accesskey    "K">
 <!ENTITY detachedAttachmentFolder.showMac.label     "Sken-d di Finder">
+<!ENTITY detachedAttachmentFolder.showMac.accesskey "F">
 
 <!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Sekles">

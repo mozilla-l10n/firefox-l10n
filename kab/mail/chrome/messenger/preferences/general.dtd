@@ -38,4 +38,10 @@
 <!ENTITY browse.accesskey                 "Ḍ">
 
 <!ENTITY defaultSearchEngine.label        "Amsedday n unadi amezwer">
+<!ENTITY addSearchEngine.label            "Rnu seg ufaylu">
+<!ENTITY addSearchEngine.accesskey        "R">
 <!ENTITY removeSearchEngine.label         "Kkes">
+<!ENTITY removeSearchEngine.accesskey     "d">
+
+<!ENTITY minimizeToTray.label             "Ticki &brandShortName; yuder, awi-t ɣer ufeggag n wadda">
+<!ENTITY minimizeToTray.accesskey         "y">

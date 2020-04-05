@@ -15,6 +15,7 @@
 <!ENTITY mainWindow.preface "Aɣbalu n: ">
 
 <!ENTITY editMenu.label "Ẓreg">
+<!ENTITY editMenu.accesskey "E">
 <!ENTITY fileMenu.label "Afaylu">
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY savePageCmd.label "Sekles asebter di...">

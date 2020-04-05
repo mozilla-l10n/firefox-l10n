@@ -6,6 +6,8 @@
 
 <!ENTITY menu_securityEncryptRequire.label "Wgelhen izen-agi">
 
+<!ENTITY menu_securityDoNotEncrypt.label "Ur ttwegelhin ara">
+<!ENTITY menu_securityDoNotEncrypt.accesskey "o">
 
 <!-- not yet used
 <!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
@@ -18,10 +20,16 @@
 <!ENTITY menu_securitySign.label "Zmel s wudem umḍin izen-agi">
 <!ENTITY menu_securitySign.accesskey "z">
 
+<!ENTITY menu_securityAttachMyKey.label "Seddu tasarut-iw tazayazt">
+<!ENTITY menu_securityAttachMyKey.accesskey "A">
 
+<!ENTITY menu_securityTech.label "Tatiknulujit n uwgelhen">
+<!ENTITY menu_securityTech.accesskey "T">
 
 <!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
 <!ENTITY menu_techSMIME.label "S/MIME">
+<!ENTITY menu_techSMIME.accesskey "S">
 
 <!ENTITY menu_securityStatus.label "Wali talɣt n tɣellist">
 <!ENTITY menu_securityStatus.accesskey "l">

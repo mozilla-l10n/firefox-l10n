@@ -124,4 +124,6 @@
 <!ENTITY viewSecurityDevices.accesskey "e">
 
 <!ENTITY manageCertificates2.label "Sefrek iselkan…">
+<!ENTITY manageCertificates2.accesskey "S">
 <!ENTITY viewSecurityDevices2.label "Ibenkan n tɣellist…">
+<!ENTITY viewSecurityDevices2.accesskey "k">
