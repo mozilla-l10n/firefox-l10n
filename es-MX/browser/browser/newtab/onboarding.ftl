@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Comenzar
 onboarding-welcome-header = Bienvenido a { -brand-short-name }
 onboarding-welcome-body = Conseguiste el navegador.<br/>Conoce el resto de la familia { -brand-product-name }.
 onboarding-welcome-learn-more = Conoce más sobre los beneficios.
+onboarding-join-form-header = Únete a { -brand-product-name }
 onboarding-welcome-modal-get-body = Tienes el navegador.<br/>Ahora sácale el máximo provecho a { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Maximiza tu protección de privacidad.
 onboarding-welcome-modal-privacy-body = Tienes el navegador. Ahora agrega más protección de privacidad.
 onboarding-welcome-modal-family-learn-more = Conoce acerca de la familia de productos de { -brand-product-name }.
 onboarding-welcome-form-header = Comienza aquí
-onboarding-join-form-header = Únete a { -brand-product-name }
 onboarding-join-form-body = Ingresa tu correo para comenzar.
 onboarding-join-form-email =
     .placeholder = Ingresa tu correo
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Añadir la extensión
 onboarding-import-browser-settings-title = Importa tus marcadores, contraseñas y más
 onboarding-import-browser-settings-text = Sumérgete por completo — lleva fácilmente tus sitios y configuraciones de Chrome contigo.
 onboarding-import-browser-settings-button = Importar datos de Chrome
+onboarding-personal-data-promise-title = Privado por diseño
+onboarding-personal-data-promise-text = { -brand-product-name } trata tus datos con respeto recopilando menos, protegiéndolos e indicando claramente cómo los usamos.
+onboarding-personal-data-promise-button = Lee nuestra promesa
 
 ## Message strings belonging to the Return to AMO flow
 
