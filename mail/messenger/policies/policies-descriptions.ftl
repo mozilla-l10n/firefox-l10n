@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Blokuoti prieigą prie „about:support“ puslapio.
 policy-CaptivePortal = Įjungti arba išjungti pradinio tinklalapio palaikymą.
 policy-CertificatesDescription = Pridėti liudijimus, arba naudoti integruotus.
 policy-Cookies = Leisti ar drausti svetainėms įrašyti slapukus.
+policy-DisabledCiphers = Išjungti šifrus.
 policy-DefaultDownloadDirectory = Nustatyti numatytąjį atsiuntimų aplanką.
 policy-DisableAppUpdate = Neleisti atnaujinti „{ -brand-short-name }“.
 policy-DisableDeveloperTools = Blokuoti prieigą prie programuotojų priemonių.

@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (nuotoliniai aplankai)">
 <!ENTITY pop3Long.label                  "POP3 (paštas laikomas jūsų kompiuteryje)">
 
+<!ENTITY manualConfigTable.summary       "Serverio nuostatos">
 <!ENTITY incoming.label                  "Laiškų gavimo serveris:">
 <!ENTITY incomingColumn.label            "Gaunami">
 <!ENTITY outgoing.label                  "Laiškų siuntimo serveris:">
