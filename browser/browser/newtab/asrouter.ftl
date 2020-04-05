@@ -184,7 +184,7 @@ cfr-doorhanger-send-tab-ok-button = Experimente o Send Tab
 ## Firefox Send
 
 cfr-doorhanger-firefox-send-header = Partilhe este PDF com segurança
-cfr-doorhanger-firefox-send-body = Mantenha os seus documentos confidenciais seguros dos olhares indiscretos com encriptação ponta-a-ponta e uma ligação que desaparece quando terminar.
+cfr-doorhanger-firefox-send-body = Mantenha os seus documentos sensíveis seguros de olhares indiscretos com encriptação ponta-a-ponta e uma ligação que desaparece quando terminar.
 cfr-doorhanger-firefox-send-ok-button = Experimente o { -send-brand-name }
     .accesskey = t
 
