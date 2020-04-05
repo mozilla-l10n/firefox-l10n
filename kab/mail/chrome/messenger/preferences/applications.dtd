@@ -30,9 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Rnu ameẓlu n usekles n useɣwen n ufaylu amaynut">
 <!ENTITY removeCloudFileAccount.label     "Kkes">
 <!ENTITY removeCloudFileAccount.accesskey "K">
-<!ENTITY authRequired.description         "Tasiregt tettwasra akken ad twaliḍ iɣewwaṛen n umeẓlu-yagi n usekles.">
-<!ENTITY authRequired.button.label        "Sireg">
-<!ENTITY authRequired.button.accesskey    "g">
+<!ENTITY findCloudFileProviders.label     "Af-d ugar n yisaǧǧawen...">
 
 <!ENTITY enableCloudFileAccountOffer.label "Asumer n beṭṭu n ifuyla ugar n">
 <!ENTITY enableCloudFileAccountOffer.mb "MAṬ">
