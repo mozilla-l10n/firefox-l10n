@@ -17,6 +17,7 @@
 <!ENTITY e2eIntro.description "Norėdami siųsti užšifruotus ar skaitmeniškai pasirašytus pranešimus, turite sukonfigūruoti šifravimo technologiją - „OpenPGP“ arba „S/MIME“.">
 <!ENTITY e2eLearnMore.label "Sužinokite daugiau">
 
+<!ENTITY e2eEnc.description "Be „end-to-end“ šifravimo laiškų turinį gali lengvai pamatyti jūsų el. pašto paslaugų teikėjas ir globalūs informacijos stebėtojai.">
 <!ENTITY e2eeReqWarning.description "Kai reikalaujate šifravimo, siunčiant pranešimą privalote turėti kiekvieno gavėjo viešąjį raktą arba sertifikatą.">
 
 <!ENTITY e2eSigning.description "Skaitmeninis parašas leidžia gavėjams įsitikinti kad pranešimą išsiuntėte jūs ir kad jo turinys nebuvo pakeistas.">
