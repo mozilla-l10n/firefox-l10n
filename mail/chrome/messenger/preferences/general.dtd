@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "T">
 <!ENTITY removeSearchEngine.label         "Fuortsmite">
 <!ENTITY removeSearchEngine.accesskey     "u">
+
+<!ENTITY minimizeToTray.label             "Nei de systeembalke ferpleatse wannear &brandShortName; minimalisearre is">
+<!ENTITY minimizeToTray.accesskey         "m">
