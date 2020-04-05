@@ -12,6 +12,7 @@
 <!ENTITY window.title "Tsenkreḍ lqem aqbuṛ n &brandProductName;">
 <!ENTITY window.style "width: 490px;">
 
+<!ENTITY window.nosync2 "Lqem amaynut n &brandProductName; izmerad d-yeglu s yibeddilen deg umaɣnu-ik ayen ur yemṣadan ara akked lqem-ik aqbuṛ. Seqdec amaɣnu-a kan s lqem amaynut, neɣ rnu amaɣnu amaynut i usbeddi-an &brandShortName;. timerna n umaɣnu amaynut yesra asbadu n yimiḍanen-ik, iwitayen-ik akked izegra-in i tikkelt-nniḍen.">
 
 <!ENTITY window.moreinfo "Ugar n telɣut…">
 <!ENTITY window.create "Rnu amaɣnu amaynut">

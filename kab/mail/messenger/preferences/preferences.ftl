@@ -17,6 +17,7 @@ composition-category-header = Tasuddest
 composition-attachments-header = Imeddayen
 composition-spelling-title = Taɣdira
 compose-html-style-title = Aɣanib HTML
+composition-addressing-header = Tansiwin
 privacy-main-header = Tabaḍnit
 privacy-passwords-header = Awalen uffiren
 privacy-junk-header = Aspam
@@ -50,6 +51,10 @@ update-setting-write-failure-message =
     Ur yezmir ad yaru deg ufaylu: { $path }
 update-in-progress-title = Aleqqem itteddu
 update-in-progress-message = Tebɣiḍ { -brand-short-name } ad ikemmel aleqqem-a?
+update-in-progress-ok-button = &Anef
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Kemmel
 
 ## OS Authentication dialog
 
