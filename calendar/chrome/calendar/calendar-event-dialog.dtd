@@ -423,5 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "Atmesti">
 <!ENTITY summary.dialog.decline.tooltiptext     "Atmesti kvietimą">
 <!ENTITY summary.dialog.dontsend.label          "Atsakymo nesiųsti">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "Nesiųsdami pranešimo organizatoriui pakeiskite savo dalyvavimo būseną ir uždarykite šį langą">
 <!ENTITY summary.dialog.send.label              "Siųsti atsakymą">
 <!ENTITY summary.dialog.send.tooltiptext        "Išsiųsti atsakymą organizatoriui ir užverti langą">
