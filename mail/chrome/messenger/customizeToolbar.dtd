@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Nauja juosta">
 <!ENTITY showTitlebar.label       "Rodyti pavadinimo juostą">
 <!ENTITY extraDragSpace.label     "Pridėti „Drag Space“">
+<!ENTITY showTitlebar2.label      "Antraštės juosta">
+<!ENTITY extraDragSpace2.label    "Vieta tempti">
 <!ENTITY saveChanges.label        "Atlikta">
 <!ENTITY undoChanges.label        "Atšaukti pakeitimus">
