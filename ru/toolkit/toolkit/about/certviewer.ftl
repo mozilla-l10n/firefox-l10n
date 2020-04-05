@@ -29,6 +29,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Группа обмена ключами
 certificate-viewer-key-id = Идентификатор ключа
 certificate-viewer-key-size = Размер ключа
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Юридический адрес
 certificate-viewer-locality = Местонахождение
 certificate-viewer-location = Расположение
 certificate-viewer-logid = ID лога
@@ -48,8 +50,8 @@ certificate-viewer-qualifiers = Квалификаторы
 certificate-viewer-required = Обязательно
 certificate-viewer-unsupported = &lt;неподдерживается&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
-certificate-viewer-inc-state-province = Область/Край/Республика регистрации
-certificate-viewer-state-province = Область/Край/Республика
+certificate-viewer-inc-state-province = Область/Регион юридического лица
+certificate-viewer-state-province = Область/Регион
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Серийный номер
