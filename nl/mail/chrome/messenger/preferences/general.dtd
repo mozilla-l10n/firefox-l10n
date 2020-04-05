@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "Wanneer &brandShortName; start, de startpagina in het berichtgedeelte tonen">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Locatie:">
-<!ENTITY location1.accesskey              "L">
+<!ENTITY location1.accesskey               "L">
 <!ENTITY useDefault.label                 "Standaardinstelling herstellen">
 <!ENTITY useDefault.accesskey             "S">
 
@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "U">
 <!ENTITY removeSearchEngine.label         "Verwijderen">
 <!ENTITY removeSearchEngine.accesskey     "d">
+
+<!ENTITY minimizeToTray.label             "Naar de systeembalk verplaatsen wanneer &brandShortName; is geminimaliseerd">
+<!ENTITY minimizeToTray.accesskey         "m">
