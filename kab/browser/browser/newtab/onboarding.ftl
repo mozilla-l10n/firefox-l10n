@@ -120,7 +120,7 @@ onboarding-firefox-send-title = Ḍmen tabaḍnit n yifuyla-inek ittwabḍan
 onboarding-firefox-send-text2 = Sali ifuyla-ik ɣer { -send-brand-name } akken ad ten-tebḍuḍ s usettengel s ṭṭerf ɣer ṭṭerf s useɣwen ara yemmten s wudem awurman.
 onboarding-firefox-send-button = Ɛreḍ { -send-brand-name }
 onboarding-mobile-phone-title = Awi-d { -brand-product-name } ar tiliɣri-inek
-onboarding-mobile-phone-text = Sider { -brand-product-name } i iOS neɣ Android sakin mtawi isefka-ik gar yibenkan.
+onboarding-mobile-phone-text = Sader { -brand-product-name } i iOS neɣ Android sakin mtawi isefka-ik gar yibenkan.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Sali-d iminig aziraz

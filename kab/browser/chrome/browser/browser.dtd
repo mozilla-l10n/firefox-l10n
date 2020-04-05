@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Tangalt taɣbalut n usebter">
 <!ENTITY pageSourceCmd.accesskey "T">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Talɣut ɣef usebter">
 <!ENTITY pageInfoCmd.accesskey "T">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Amseγti n tneγruft">
 <!ENTITY ldbCmd.accesskey "L">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "U">
 <!ENTITY exitFullScreenCmd.label "Ffeɣ seg Agdil Ačaran">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Agdil Ačaran">
 <!ENTITY fullScreenCmd.accesskey "A">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Qqen i tikelt-nniḍen ɣer &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Senqed amiḍan-ik">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Semẓi">
 <!ENTITY fullScreenRestore.tooltip "Err-d">
@@ -175,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Iɣewwaṛen n umiḍan">
 <!ENTITY fxa.menu.manageAccount2.label "Sefrek amiḍan">
 <!ENTITY fxa.menu.signOut.label "Ffeɣ…">
-<!ENTITY fxa.menu.deviceSettings.label "Iɣewwaṛen n yibenk">
 <!ENTITY fxa.menu.setupSync.label "Swel &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Ticraḍ n yisebtar">
 <!ENTITY bookmarksMenu.accesskey "r">
-
 <!ENTITY bookmarkThisPageCmd.label "Creḍ asebter-a">
 <!ENTITY editThisBookmarkCmd.label "Ẓreg tacreḍṭ n usebter-a">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "M">
 <!ENTITY stopCmd.label                "Seḥbes">
 <!ENTITY stopCmd.accesskey            "Ḥ">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tansa">
 <!ENTITY printButton.label            "Siggez">
 <!ENTITY printButton.tooltip          "Siggez asebtar-a">
@@ -332,10 +326,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Rnu awal tasarut i unadi-a…">
 <!ENTITY keywordfield.accesskey       "w">
 
-<!ENTITY downloads.label              "isidar">
+<!ENTITY downloads.label              "Isadaren">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
-<!ENTITY libraryDownloads.label       "Isidar">
+<!ENTITY libraryDownloads.label       "Isadaren">
 <!ENTITY downloads.accesskey          "i">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -417,7 +411,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Err-d tiɣimit yezrin">
 
 <!ENTITY showAllHistoryCmd2.label "Sken akk azray">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Sken akk azray">
@@ -498,6 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Ugar">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Nadi neɣ sekcem tansa">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -597,7 +591,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-a kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Smiren akatar">
 <!ENTITY reloadFrameCmd.accesskey     "S">
@@ -631,6 +624,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
 <!ENTITY bookmarkThisFrameCmd.label      "Creḍ akatar-a">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
+
 <!ENTITY pageAction.copyLink.label    "Nɣel aseɣwen">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,11 +638,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
 <!ENTITY emailPageCmd.accesskey       "A">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sekles asebter di...">
 <!ENTITY savePageCmd.accesskey        "l">
-<!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Sekles akatar s yisem...">
 <!ENTITY saveFrameCmd.accesskey       "S">
@@ -752,20 +745,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Semɣer">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "m">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Semẓi">
 <!ENTITY fullZoomReduceCmd.accesskey    "S">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Amagnu">
 <!ENTITY fullZoomResetCmd.accesskey     "A">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -789,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Mdel">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "M">
 
@@ -815,7 +804,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Beddel taɣda n uḍris">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Nadi deg usebter-a…">
@@ -845,19 +833,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Tuqqna">
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
 <!ENTITY identity.connectionNotSecure "Tuqqna-a mačči d taɣelsant">
-
-<!ENTITY identity.connectionSecure3 "Taɣellist n tuqqna">
-<!ENTITY identity.connectionNotSecure2 "Tuqqna taraɣelsant">
-<!ENTITY identity.connectionNotSecureSecurityView "Aqli-k ur teqqineḍ ara s wudem aɣelsan ɣeṛ usmel-a.">
 <!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqli-k tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
-<!ENTITY identity.connectionVerified3 "Aqli-k teqqneḍ s wudem aɣelsan ɣeṛ usmel-a.">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
 <!ENTITY identity.insecureLoginForms2 "Isem n useqdac d wawal uffir i tesqedceḍ deg usmel-a zemren ad ttwakren.">
 <!ENTITY identity.customRoot "Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Aselkin yeffeɣ-d i:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
@@ -892,8 +873,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Sfeḍ inagan n tuqqna akked isefka n usme…">
 
 <!ENTITY identity.permissions "Tisirag">
-
-<!ENTITY identity.permissions3 "Tisirag">
 <!ENTITY identity.permissionsEmpty "Ur tefkiḍ ara kra n tsiregt i usmel-a.">
 <!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt-nniḍen asebter akken ad yemmed wayen i tbeddleḍ.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ldi ismenyifen n tsirag">

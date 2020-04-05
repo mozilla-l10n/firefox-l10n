@@ -4,18 +4,18 @@
 
 appmenu-update-available =
     .label = Illa lqem amaynut { -brand-shorter-name }
-    .buttonlabel = Sider lqem
+    .buttonlabel = Sader lqem
     .buttonaccesskey = D
     .secondarybuttonlabel = Mačči tura
     .secondarybuttonaccesskey = T
 appmenu-update-available-message = Leqqem { -brand-shorter-name } inek akken ad tesεu timahalin timaynutin di truradt akked tbaḍnit.
 appmenu-update-manual =
     .label = { -brand-shorter-name } ur izmir ara ad ilqem ɣer lqem aneggaru.
-    .buttonlabel = Sider { -brand-shorter-name }
+    .buttonlabel = Sader { -brand-shorter-name }
     .buttonaccesskey = D
     .secondarybuttonlabel = Mačči tura
     .secondarybuttonaccesskey = T
-appmenu-update-manual-message = Sider lqem aneggaru n { -brand-shorter-name } sakin ad k-nɛiwen ad t-tesbeddeḍ.
+appmenu-update-manual-message = Sader lqem aneggaru n { -brand-shorter-name } sakin ad k-nɛiwen ad t-tesbeddeḍ.
 appmenu-update-whats-new =
     .value = Wali amaynut.
 appmenu-update-unsupported =

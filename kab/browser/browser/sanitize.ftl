@@ -46,7 +46,7 @@ clear-time-duration-suffix =
 
 history-section-label = Azray
 item-history-and-downloads =
-    .label = Azray n tunigin d isidar
+    .label = Azray n tunigin d yisadaren
     .accesskey = A
 item-cookies =
     .label = Inagan n tuqqna

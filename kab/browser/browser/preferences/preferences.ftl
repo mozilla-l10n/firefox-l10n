@@ -233,13 +233,13 @@ translate-exceptions =
     .label = Tisuraf…
     .accesskey = r
 check-user-spelling =
-    .label = Senqed taɣdira-inu mi ara ttaruɣ
+    .label = Senqed tira-iw ticki ttaruɣ
     .accesskey = q
 
 ## General Section - Files and Applications
 
 files-and-applications-title = Ifuyla d isnasen
-download-header = Isidar
+download-header = Isadaren
 download-save-to =
     .label = Sekles ifuyla ɣer
     .accesskey = S
@@ -496,7 +496,7 @@ home-prefs-highlights-option-visited-pages =
 home-prefs-highlights-options-bookmarks =
     .label = Ticraḍ n isebtar
 home-prefs-highlights-option-most-recent-download =
-    .label = Isidar imaynuten
+    .label = Isadaren imaynuten
 home-prefs-highlights-option-saved-to-pocket =
     .label = Isebtar yettwaḥerzen ar { -pocket-brand-name }
 # For the "Snippets" feature traditionally on about:home.
@@ -1133,7 +1133,7 @@ space-alert-under-5gb-message = Amkan n udebṣi iteddu ad yaweḍ ar { -brand-s
 ## The following strings are used in the Download section of settings
 
 desktop-folder-name = Tanarit
-downloads-folder-name = Isidar
+downloads-folder-name = Isadaren
 choose-download-folder-title = Fren akaram i usnifel:
 # Variables:
 #   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
