@@ -179,6 +179,7 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Dalyvavimas">
 <!ENTITY calendar.context.attendance.menu.accesskey             "D">
 <!ENTITY calendar.context.attendance.occurrence.label           "Tik šiame įvykyje">
+<!ENTITY calendar.context.attendance.all2.label                 "Visas serija">
 <!ENTITY calendar.context.attendance.send.label                 "Siųsti pranešimą">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">
 <!ENTITY calendar.context.attendance.dontsend.label             "Priminimo nesiųsti">

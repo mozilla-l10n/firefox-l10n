@@ -48,3 +48,4 @@
 <!ENTITY network.authfail.description "Jūsų įvesti kredencialai buvo atmesti. Patikrinkite nustatymus.">
 
 <!ENTITY network.subscribe.single.description "Pasirinkite kalendorius, kuriuos norėtumėte prenumeruoti.">
+<!ENTITY network.subscribe.multiple.description "Čia siūlomi kelis kalendoriaus tipai. Pasirinkite kalendoriaus tipą ir tada pažymėkite kalendorius, kuriuos norėtumėte užsiprenumeruoti.">
