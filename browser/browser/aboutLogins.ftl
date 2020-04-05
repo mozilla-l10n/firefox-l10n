@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Мәзірді ашу
-# This menuitem is only visible on Windows
-menu-menuitem-import = Парольдерді импорттау…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Басқа браузерден импорттау…
 menu-menuitem-preferences =
@@ -49,6 +47,7 @@ login-list-sort-label-text = Бойынша сұрыптау:
 login-list-name-option = Аты (A-Z)
 login-list-name-reverse-option = Аты (A-Z)
 login-list-breached-option = Бұзылған веб-сайттар
+about-logins-login-list-alerts-option = Ескертулер
 login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
 login-list-intro-title = Логиндер табылмады
@@ -60,6 +59,8 @@ login-list-item-subtitle-new-login = Логин мәліметтерін енг�
 login-list-item-subtitle-missing-username = (пайдаланушы аты жоқ)
 about-logins-list-item-breach-icon =
     .title = Шабуылданған сайт
+about-logins-list-item-vulnerable-password-icon =
+    .title = Осал пароль
 
 ## Introduction screen
 
@@ -95,6 +96,30 @@ login-item-cancel-button = Бас тарту
 login-item-time-changed = Соңғы өзгертілген: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Жасалған: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Соңғы рет қолданылған: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Сақталған логинді түзету үшін өзіңізді растаңыз.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = сақталған логинді түзету
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Сақталған парольді қарау үшін өзіңізді растаңыз.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = сақталған парольді қарау
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Сақталған парольді көшіру үшін өзіңізді растаңыз.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = сақталған парольді көшіру
 
 ## Master Password notification
 
@@ -135,10 +160,23 @@ confirm-discard-changes-dialog-confirm-button = Тайдыру
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Веб-сайттың бұзылуы
 breach-alert-text = Логин ақпаратыңызды соңғы рет жаңартқаннан кейін бұл веб-сайттан парольдер алынған немесе ұрланған болатын. Тіркелгіңізді қорғау үшін, пароліңізді ауыстырыңыз.
 breach-alert-link = Бұл бұзушылық туралы көбірек біліңіз.
 breach-alert-dismiss =
     .title = Бұл ескертуді жабу
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } адресіне өту
+about-logins-breach-alert-learn-more-link = Көбірек білу
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Осал пароль
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } адресіне өту
+about-logins-vulnerable-alert-learn-more-link = Көбірек білу
 
 ## Error Messages
 
