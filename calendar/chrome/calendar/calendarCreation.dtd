@@ -40,7 +40,9 @@
 
 <!ENTITY calendartype.label "Kalendoriaus tipas:">
 <!ENTITY location.label "Vieta:">
+<!ENTITY location.placeholder "URL arba kalendoriaus serveris">
 
+<!ENTITY network.nocredentials.label "Šiai vietai nereikia prisijungimo duomenų">
 <!ENTITY network.loading.description "Palaukite, tuoj bus surasti jūsų kalendoriai.">
 <!ENTITY network.notfound.description "Nurodytoje vietoje nepavyko rasti kalendorių. Patikrinkite nustatymus.">
 <!ENTITY network.authfail.description "Jūsų įvesti kredencialai buvo atmesti. Patikrinkite nustatymus.">
