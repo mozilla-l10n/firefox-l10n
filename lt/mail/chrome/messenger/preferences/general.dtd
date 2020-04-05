@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "A">
 <!ENTITY removeSearchEngine.label         "Pašalinti">
 <!ENTITY removeSearchEngine.accesskey     "v">
+
+<!ENTITY minimizeToTray.label             "Kai „&brandShortName;“ sumažinamas iki minimumo, perkelti į dėklą">
+<!ENTITY minimizeToTray.accesskey         "m">
