@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Get Started
 onboarding-welcome-header = Welcome to { -brand-short-name }
 onboarding-welcome-body = You’ve got the browser.<br/>Meet the rest of { -brand-product-name }.
 onboarding-welcome-learn-more = Learn more about the benefits.
+onboarding-join-form-header = Join { -brand-product-name }
 onboarding-welcome-modal-get-body = You’ve got the browser.<br/>Now get the most out of { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Supercharge your privacy protection.
 onboarding-welcome-modal-privacy-body = You’ve got the browser. Let’s add more privacy protection.
 onboarding-welcome-modal-family-learn-more = Learn about the { -brand-product-name } family of products.
 onboarding-welcome-form-header = Start Here
-onboarding-join-form-header = Join { -brand-product-name }
 onboarding-join-form-body = Enter your email address to get started.
 onboarding-join-form-email =
     .placeholder = Enter email
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Take { -brand-product-name } with You
 onboarding-sync-welcome-content = Get your bookmarks, history, passwords and other settings on all your devices.
 onboarding-sync-welcome-learn-more-link = Learn more about Firefox Accounts
-onboarding-sync-form-invalid-input = Valid email required
-onboarding-sync-legal-notice = By proceeding, you agree to the <a data-l10n-name="terms">Terms of Service</a> and <a data-l10n-name="privacy">Privacy Notice</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Continue
@@ -149,6 +147,9 @@ onboarding-facebook-container-button = Add the Extension
 onboarding-import-browser-settings-title = Import Your Bookmarks, Passwords, and More
 onboarding-import-browser-settings-text = Dive right in—easily bring your Chrome sites and settings with you.
 onboarding-import-browser-settings-button = Import Chrome Data
+onboarding-personal-data-promise-title = Private by Design
+onboarding-personal-data-promise-text = { -brand-product-name } treats your data with respect by taking less of it, protecting it, and being clear about how we use it.
+onboarding-personal-data-promise-button = Read our Promise
 
 ## Message strings belonging to the Return to AMO flow
 
