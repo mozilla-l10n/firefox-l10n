@@ -17,7 +17,7 @@ certificate-viewer-cipher-suite = Набор шифров
 certificate-viewer-common-name = Общее имя
 certificate-viewer-email-address = Адрес электронной почты
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
-certificate-viewer-inc-country = Страна регистрации
+certificate-viewer-inc-country = Страна юридического лица
 certificate-viewer-country = Страна
 certificate-viewer-curve = Кривая
 certificate-viewer-distribution-point = Адрес распространения
@@ -30,7 +30,7 @@ certificate-viewer-key-exchange-group = Группа обмена ключами
 certificate-viewer-key-id = Идентификатор ключа
 certificate-viewer-key-size = Размер ключа
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
-certificate-viewer-inc-locality = Юридический адрес
+certificate-viewer-inc-locality = Населённый пункт юридического лица
 certificate-viewer-locality = Населённый пункт
 certificate-viewer-location = Расположение
 certificate-viewer-logid = ID лога
