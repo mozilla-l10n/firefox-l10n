@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Открыть меню
-# This menuitem is only visible on Windows
-menu-menuitem-import = Импортировать пароли…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Импорт из другого браузера…
 menu-menuitem-preferences =
@@ -51,6 +49,7 @@ login-list-sort-label-text = Сортировать:
 login-list-name-option = По имени (А-Я)
 login-list-name-reverse-option = По имени (Я-А)
 login-list-breached-option = Взломанные сайты
+about-logins-login-list-alerts-option = Уведомления
 login-list-last-changed-option = По последнему изменению
 login-list-last-used-option = По последнему использованию
 login-list-intro-title = Логины не найдены
@@ -62,6 +61,8 @@ login-list-item-subtitle-new-login = Введите свои учётные да
 login-list-item-subtitle-missing-username = (нет имени пользователя)
 about-logins-list-item-breach-icon =
     .title = Атакованный сайт
+about-logins-list-item-vulnerable-password-icon =
+    .title = Уязвимый пароль
 
 ## Introduction screen
 
@@ -161,10 +162,25 @@ confirm-discard-changes-dialog-confirm-button = Отменить
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Утечка на сайте
 breach-alert-text = С момента последнего обновления данных для входа, с этого сайта произошла утечка или кража паролей. Измените ваш пароль, чтобы защитить свой аккаунт.
 breach-alert-link = Узнать больше об этой утечке.
 breach-alert-dismiss =
     .title = Закрыть это уведомление
+about-logins-breach-alert-date = Эта утечка случилась { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Перейти на { $hostname }
+about-logins-breach-alert-learn-more-link = Подробнее
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Уязвимый пароль
+about-logins-vulnerable-alert-text = Этот пароль стал известен или был украден в результате утечки данных из другой компании. Его повторное использование подвергает риску все ваши учётные записи. Чтобы повысить свою безопасность в Интернете, измените этот пароль.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Перейти на { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Подробнее
 
 ## Error Messages
 
