@@ -364,6 +364,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Rodyti priminimus">
 <!ENTITY calendarproperties.cache3.label                   "Gali būti naudojamas neprisijungus">
 <!ENTITY calendarproperties.enabled.label                  "Naudoti šį kalendorių">
+<!ENTITY calendarproperties.enabled2.label                 "Įgalinti šį kalendorių">
 <!ENTITY calendarproperties.forceDisabled.label            "Prieigos prie šio kalendoriaus teiktuvas nerastas. Tai gali nutikti, jei esate išjungę ar pašalinę kai kuriuos priedus.">
 <!ENTITY calendarproperties.unsubscribe.label              "Atsisakyti prenumeratos">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "A">

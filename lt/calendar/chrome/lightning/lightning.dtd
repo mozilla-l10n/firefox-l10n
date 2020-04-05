@@ -69,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Pašalinti iš kalendoriaus">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Išsamiau…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Rodyti išsamesnę įvykio informaciją">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Šių pranešimų daugiau nerodyti">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Kalendorius">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Atverti kalendoriaus kortelę">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Daugiau">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Rodyti daugiau parinkčių">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Pakartotinai patvirtinti">
