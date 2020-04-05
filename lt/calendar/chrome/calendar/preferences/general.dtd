@@ -43,6 +43,8 @@
      translation of that section name (calendar.upcoming.button.label). Also,
      it should be upper case (as a proper name) if the target language permits.
   -->
+<!ENTITY pref.soondays2.label "Skyriuje „Netrukus“ rodyti:">
+<!ENTITY pref.soondays2.accesskey "N">
 
 <!ENTITY pref.accessibility.label "Pritaikymas neįgaliesiems" >
 <!ENTITY pref.systemcolors.label "Optimizuoti spalvas turintiems regėjimo negalią" >
