@@ -36,3 +36,5 @@ serviceworker-worker-status = ਸਥਿਤੀ
 serviceworker-worker-status-running = ਚੱਲ ਰਿਹਾ ਹੈ
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = ਪਛਾਣ
+# Header for the Icon section of Manifest inspection displayed in the application panel.
+manifest-item-icons = ਆਈਕਨ
