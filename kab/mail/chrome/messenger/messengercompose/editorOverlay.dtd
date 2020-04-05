@@ -306,6 +306,7 @@
 <!ENTITY anchorToolbarCmd.tooltip "Ger tamdeyt tamaynut neɣ ẓreg timeẓliyin n temdeyt yettwafernen">
 <!ENTITY TextColorButton.tooltip "Fren ini i weḍris">
 <!ENTITY BackgroundColorButton.tooltip "Fren ini i ugilal">
+<!ENTITY throbber.tooltip2 "Ddu ɣer usebter agejdan &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Fren ini n usebruṛeq n uḍris">
 
 <!-- Editor toolbar -->

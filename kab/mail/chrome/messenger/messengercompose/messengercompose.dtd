@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Agalis n yifuyla yeddan">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "f">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "f">
 <!ENTITY selectAllCmd.label "Fren Imaṛṛa">
 <!ENTITY selectAllCmd.accesskey "I">
@@ -259,6 +252,11 @@
     Subject: rows. It should be larger than the largest Header label  -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Si:">
+<!--LOCALIZATION NOTE headersSpaces.style is for aligning  the From:, To: and
+    Subject: rows. It should be larger than the largest Header label  -->
+<!ENTITY headersSpace2.style "width: 8em;">
+<!ENTITY extraRecipients.tooltip "Anawen-nniḍen n wurtan n tansiwin">
+<!ENTITY fromAddr2.label "Seg">
 <!ENTITY fromAddr.accesskey "S">
 <!ENTITY toAddr.label "I:">
 <!ENTITY ccAddr.label "Anɣ.I:">
@@ -267,6 +265,13 @@
 <!ENTITY newsgroupsAddr.label "Agraw n isalen:">
 <!ENTITY followupAddr.label "Seḍfer-I:">
 <!ENTITY subject.label "Asentel:">
+<!ENTITY toAddr2.label "I">
+<!ENTITY ccAddr2.label "Anɣ.I">
+<!ENTITY bccAddr2.label "Anɣ.Uff.I">
+<!ENTITY replyAddr2.label "Err-i">
+<!ENTITY newsgroupsAddr2.label "Agraw n yisallen">
+<!ENTITY followupAddr2.label "Seḍfer-I">
+<!ENTITY subject2.label "Asentel">
 <!ENTITY subject.accesskey "A">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
@@ -278,7 +283,7 @@
 <!ENTITY attachmentBucketHeader.tooltip "Agalis n yifuyla yeddan">
 <!ENTITY attachmentBucketCloseButton.tooltip "Ffer agalis n yifuyla yeddan">
 
-<!-- Format Toolbar, imported from editorAppShell.xul -->
+<!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Ger udem n ucmumeḥ">
 <!ENTITY smiley1Cmd.label "Acmumeḥ">
 <!ENTITY smiley2Cmd.label "Yekres anyir">

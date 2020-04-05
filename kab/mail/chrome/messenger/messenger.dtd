@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "z">
 <!ENTITY  newContactCmd.label "Anermis n imedlis n tensa…">
 <!ENTITY  newContactCmd.accesskey "n">
+<!ENTITY openMenuCmd.label "Ldi">
+<!ENTITY openMenuCmd.accesskey "L">
 <!ENTITY openMessageFileCmd.label "Ldi izen ikelsen…">
 <!ENTITY openMessageFileCmd.accesskey "L">
 <!ENTITY saveAsMenu.label "Sekles s yisem">
@@ -586,6 +588,7 @@
 <!ENTITY fileButton.tooltip "Err iznan yettwafernen ɣer ufaylu">
 <!ENTITY archiveButton.tooltip "Ḥrez iznan yettwafernen">
 <!ENTITY openConversationButton.tooltip "Sken adiwenni n yizen yettwafernen">
+<!ENTITY openMsgConversationButton.tooltip "Sken adiwenni n yizen yettwafernen">
 <!ENTITY nextButton.tooltip "Ddu ɣer yizen ur nettwaɣri ara i d-iteddun">
 <!ENTITY nextMsgButton.tooltip "Ddu ɣer yizen d-iteddun ur nettwaɣri ara">
 <!ENTITY previousButton.tooltip "Ddu ɣer yizen n deffir ur nettwaɣri ara">
@@ -604,6 +607,7 @@
 <!ENTITY tagButton.tooltip "Rnu tabzimt i yiznan">
 <!ENTITY compactButton.tooltip "Kkes iznan ittwaksen seg ukaram ifernen">
 <!ENTITY appmenuButton1.tooltip "Sken umuɣ n &brandShortName;">
+<!ENTITY addonsButton.tooltip "Sefrek izegrar-ik">
 
 <!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Welleḥ deg umnaḍ">
@@ -704,6 +708,7 @@
 <!ENTITY saveAsVirtualFolderMenu.label "Kles anadi deg ukaram…">
 
 <!-- Thread Pane -->
+<!ENTITY selectColumn.label "Fren iznan">
 <!ENTITY threadColumn.label "Akala afessas">
 <!ENTITY fromColumn.label "Si">
 <!ENTITY recipientColumn.label "Anermas">
@@ -727,6 +732,7 @@
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Fren tigejda ad-sekneḍ">
+<!ENTITY selectColumn.tooltip "Fren/kkes afran n yiznan">
 <!ENTITY threadColumn2.tooltip "Sken asqerdec n yizen">
 <!ENTITY fromColumn2.tooltip "Asmizzwer s Si">
 <!ENTITY recipientColumn2.tooltip "Asmizzwer s unarmas">
@@ -967,3 +973,7 @@
 <!ENTITY dockOptions.label              "Iɣewwaṛen n tignit n usnas…">
 <!ENTITY writeNewMessageDock.label      "Aru izen amaynut">
 <!ENTITY openAddressBookDock.label      "Ldi imedlis n tansa">
+
+<!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Uɣal s yiwen n usebter">
+<!ENTITY browseForwardButton.tooltip "Aẓ s yiwen usebter">
