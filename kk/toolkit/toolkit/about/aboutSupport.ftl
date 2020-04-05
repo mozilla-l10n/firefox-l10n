@@ -89,6 +89,8 @@ graphics-crash-guards-title = Қулаудан қорғаныс сөндірге
 graphics-workarounds-title = Арнайы қолдау
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Терезелерді басқару хаттамасы
+# Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
+graphics-desktop-environment = Жұмыс үстелі ортасы
 place-database-title = Орналасулар дерекқоры
 place-database-integrity = Бүтіндігі
 place-database-verify-integrity = Бүтіндігін тексеру

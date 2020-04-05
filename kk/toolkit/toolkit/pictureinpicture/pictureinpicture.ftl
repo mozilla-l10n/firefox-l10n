@@ -11,3 +11,7 @@ pictureinpicture-mute =
     .aria-label = Дыбысын сөндіру
 pictureinpicture-unmute =
     .aria-label = Даусын қосу
+pictureinpicture-unpip =
+    .aria-label = Қайта бетке жіберу
+pictureinpicture-close =
+    .aria-label = Жабу
