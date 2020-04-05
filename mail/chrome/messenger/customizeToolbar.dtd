@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Add New Toolbar">
 <!ENTITY showTitlebar.label       "Show Title Bar">
 <!ENTITY extraDragSpace.label     "Add Drag Space">
+<!ENTITY showTitlebar2.label      "Title Bar">
+<!ENTITY extraDragSpace2.label    "Drag Space">
 <!ENTITY saveChanges.label        "Done">
 <!ENTITY undoChanges.label        "Undo Changes">
