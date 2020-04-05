@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Beginnen
 onboarding-welcome-header = Welkom bij { -brand-short-name }
 onboarding-welcome-body = U hebt de browser.<br/>Maak kennis met de rest van { -brand-product-name }.
 onboarding-welcome-learn-more = Meer info over de voordelen.
+onboarding-join-form-header = Doe mee met { -brand-product-name }
 onboarding-welcome-modal-get-body = U hebt de browser.<br/>Haal nu het meeste uit { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Versterk de bescherming van uw privacy.
 onboarding-welcome-modal-privacy-body = U hebt de browser. Laten we meer privacybescherming toevoegen.
 onboarding-welcome-modal-family-learn-more = Lees meer over de productfamilie van { -brand-product-name }.
 onboarding-welcome-form-header = Hier beginnen
-onboarding-join-form-header = Doe mee met { -brand-product-name }
 onboarding-join-form-body = Voer uw e-mailadres in om te beginnen.
 onboarding-join-form-email =
     .placeholder = Voer e-mailadres in
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Neem { -brand-product-name } met u mee
 onboarding-sync-welcome-content = Bereik uw bladwijzers, geschiedenis, wachtwoorden en andere instellingen op al uw apparaten.
 onboarding-sync-welcome-learn-more-link = Meer info over Firefox Accounts
-onboarding-sync-form-invalid-input = Geldig e-mailadres vereist
-onboarding-sync-legal-notice = Door verder te gaan, gaat u akkoord met de <a data-l10n-name="terms">Servicevoorwaarden</a> en <a data-l10n-name="privacy">Privacyverklaring</a>.
 onboarding-sync-form-input =
     .placeholder = E-mailadres
 onboarding-sync-form-continue-button = Doorgaan
@@ -149,6 +147,9 @@ onboarding-facebook-container-button = De extensie toevoegen
 onboarding-import-browser-settings-title = Importeer uw bladwijzers, wachtwoorden en meer
 onboarding-import-browser-settings-text = Duik er meteen in – neem eenvoudig uw Chrome-websites en -instellingen mee.
 onboarding-import-browser-settings-button = Chrome-gegevens importeren
+onboarding-personal-data-promise-title = Ontworpen voor privé
+onboarding-personal-data-promise-text = { -brand-product-name } behandelt uw gegevens met respect door er minder te vragen, ze te beschermen en duidelijk te zijn over hoe we ze gebruiken.
+onboarding-personal-data-promise-button = Lees onze belofte
 
 ## Message strings belonging to the Return to AMO flow
 
