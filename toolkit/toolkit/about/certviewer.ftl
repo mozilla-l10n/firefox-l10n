@@ -31,7 +31,7 @@ certificate-viewer-key-id = Идентификатор ключа
 certificate-viewer-key-size = Размер ключа
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-locality = Юридический адрес
-certificate-viewer-locality = Местонахождение
+certificate-viewer-locality = Населённый пункт
 certificate-viewer-location = Расположение
 certificate-viewer-logid = ID лога
 certificate-viewer-method = Метод
