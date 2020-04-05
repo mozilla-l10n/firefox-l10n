@@ -130,6 +130,7 @@ cfr-whatsnew-pip-cta = بیشتر بدانید
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = پنجره‌های بازشو مزاحم کمتر
 cfr-whatsnew-permission-prompt-cta = بیشتر بدانید
 
 ## Fingerprinter Counter
@@ -151,6 +152,7 @@ cfr-doorhanger-sync-logins-ok-button = روشن کردن { -sync-brand-short-nam
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = این را در حال حرکت بخوانید
 cfr-doorhanger-send-tab-recipe-header = این دستورالعمل را به آشپزخانه ببرید
 cfr-doorhanger-send-tab-ok-button = ارسال زبانه را امتحان کنید
     .accesskey = T
