@@ -22,7 +22,7 @@ sync-disconnect-cancel =
 ## on the state of the checkboxes.
 
 sync-disconnect-confirm-disconnect-delete =
-    .label = 연글 끊고 삭제
+    .label = 연결 끊고 삭제
     .accesskey = D
 sync-disconnect-confirm-disconnect =
     .label = 연결 끊기
