@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Kom i gang
 onboarding-welcome-header = Velkomen til { -brand-short-name }
 onboarding-welcome-body = Du har nettlesaren.<br/>Møt resten av { -brand-product-name }.
 onboarding-welcome-learn-more = Les meir om fordelane.
+onboarding-join-form-header = Ver med { -brand-product-name } på ferda
 onboarding-welcome-modal-get-body = Du har nettlesaren.<br/>Få mest mogleg ut av { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Forsterk personvernsikringa di.
 onboarding-welcome-modal-privacy-body = Du har nettlesaren. La oss leggje til meir personvernsikring.
 onboarding-welcome-modal-family-learn-more = Les meir om produktfamilien til { -brand-product-name }.
 onboarding-welcome-form-header = Start her
-onboarding-join-form-header = Ver med { -brand-product-name } på ferda
 onboarding-join-form-body = Skriv inn e-postadressa di for å kome i gang.
 onboarding-join-form-email =
     .placeholder = Skriv inn e-postadresse
@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Legg til utvidinga
 onboarding-import-browser-settings-title = Importer bokmerka dine, passord og meir
 onboarding-import-browser-settings-text = Kom raskt i gang—ta enkelt med deg Chrome-nettstadar og -innstillingar.
 onboarding-import-browser-settings-button = Importer Chrome-data
+onboarding-personal-data-promise-button = Les løftet vårt
 
 ## Message strings belonging to the Return to AMO flow
 
