@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Bắt đầu
 onboarding-welcome-header = Chào mừng đến với { -brand-short-name }
 onboarding-welcome-body = Bạn đã có trình duyệt.<br/>Xem phần còn lại của { -brand-product-name }.
 onboarding-welcome-learn-more = Tìm hiểu thêm về các tiện ích.
+onboarding-join-form-header = Kết nối { -brand-product-name }
 onboarding-welcome-modal-get-body = Bạn đã có trình duyệt.<br/>Bây giờ hãy tận dụng tối đa { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Bảo vệ quyền riêng tư của bạn.
 onboarding-welcome-modal-privacy-body = Bạn đã có trình duyệt. Hãy để thêm bảo vệ quyền riêng tư.
 onboarding-welcome-modal-family-learn-more = Tìm hiểu về sản phẩm của gia đình { -brand-product-name }
 onboarding-welcome-form-header = Bắt đầu ở đây
-onboarding-join-form-header = Kết nối { -brand-product-name }
 onboarding-join-form-body = Nhập địa chỉ thư điện tử của bạn để bắt đầu.
 onboarding-join-form-email =
     .placeholder = Nhập thư điện tử
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Mang { -brand-product-name } theo bạn
 onboarding-sync-welcome-content = Đồng bộ các dấu trang, lịch sử, mật khẩu và các cài đặt khác lên tất cả các thiết bị của bạn.
 onboarding-sync-welcome-learn-more-link = Tìm hiểu thêm về Tài khoản Firefox
-onboarding-sync-form-invalid-input = Yêu cầu email hợp lệ
-onboarding-sync-legal-notice = Bằng cách tiếp tục, bạn đồng ý với <a data-l10n-name="terms">Điều khoản dịch vụ</a> và <a data-l10n-name="privacy">Thông báo bảo mật</a>.
 onboarding-sync-form-input =
     .placeholder = Email
 onboarding-sync-form-continue-button = Tiếp tục
@@ -149,6 +147,9 @@ onboarding-facebook-container-button = Thêm phần mở rộng
 onboarding-import-browser-settings-title = Nhập dấu trang, mật khẩu và hơn thế nữa
 onboarding-import-browser-settings-text = Dễ dàng nhập các trang web và cài đặt Chrome.
 onboarding-import-browser-settings-button = Nhập dữ liệu từ Chrome
+onboarding-personal-data-promise-title = Được thiết kế xung quanh sự riêng tư
+onboarding-personal-data-promise-text = { -brand-product-name } xử lí dữ liệu của bạn một cách tôn trọng bằng cách lấy ít dữ liệu hơn, bảo vệ dữ liệu và hiểu rõ về cách chúng tôi sử dụng dữ liệu đó.
+onboarding-personal-data-promise-button = Đọc tuyên ngôn của chúng tôi
 
 ## Message strings belonging to the Return to AMO flow
 
