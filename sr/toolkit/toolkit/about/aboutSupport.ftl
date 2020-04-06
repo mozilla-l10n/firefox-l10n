@@ -27,6 +27,9 @@ features-title = { -brand-short-name } могућности
 features-name = Назив
 features-version = Издање
 features-id = ID
+processes-title = Удаљени процеси
+processes-type = Тип
+processes-count = Број
 app-basics-title = Основе апликације
 app-basics-name = Назив
 app-basics-version = Издање
@@ -36,11 +39,13 @@ app-basics-update-channel = Канал за ажурирање
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] Ажурирај директоријум
-       *[other] Ажурирај фасциклу
+        [linux] Директоријум за ажурирања
+       *[other] Фасцикла за ажурирања
     }
 app-basics-update-history = Историја ажурирања
 app-basics-show-update-history = Прикажи историјат ажурирања
+# Represents the path to the binary used to start the application.
+app-basics-binary = Бинарна апликација
 app-basics-profile-dir =
     { PLATFORM() ->
         [linux] Фасцикла профила
@@ -54,6 +59,7 @@ app-basics-memory-use = Меморија
 app-basics-performance = Перформансе
 app-basics-service-workers = Регистровани Service Workers
 app-basics-profiles = Профили
+app-basics-launcher-process-status = Покретачки процес
 app-basics-multi-process-support = Вишепроцесорски прозори
 app-basics-enterprise-policies = Полисе предузећа
 app-basics-key-mozilla = Кључ Mozilla сервиса за локацију
@@ -136,6 +142,19 @@ intl-locales-default = Подразумевани локал
 intl-os-title = Оперативни систем
 intl-os-prefs-system-locales = Локали система
 intl-regional-prefs = Регионалне поставке
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
