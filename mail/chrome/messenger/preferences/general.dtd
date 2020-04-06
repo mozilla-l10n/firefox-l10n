@@ -43,4 +43,5 @@
 <!ENTITY removeSearchEngine.label         "Rimuovi">
 <!ENTITY removeSearchEngine.accesskey     "v">
 
+<!ENTITY minimizeToTray.label             "Quando &brandShortName; è ridotto a icona, spostalo nell’area di notifica">
 <!ENTITY minimizeToTray.accesskey         "m">
