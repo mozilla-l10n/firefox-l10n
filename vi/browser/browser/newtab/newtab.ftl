@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Thao tác này không thể hoàn tác đư�
 newtab-menu-section-tooltip =
     .title = Mở bảng chọn
     .aria-label = Mở bảng chọn
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Gỡ bỏ
+    .aria-label = Gỡ bỏ
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Nhà tài trợ của chúng tôi và sự riên
 
 newtab-privacy-modal-button-done = Xong
 newtab-privacy-modal-header = Vấn đề riêng tư của bạn.
-newtab-privacy-modal-paragraph =
-    Ngoài việc tận hưởng những câu chuyện hấp dẫn, chúng tôi cũng cho bạn thấy nội dung
-    có liên quan, được đánh giá cao từ các nhà tài trợ chọn lọc. Hãy yên tâm, dữ liệu duyệt web
-    của bạn không bao giờ để lại bản sao { -brand-product-name } cá nhân của bạn — chúng tôi không thể nhìn
-    thấy nó và các nhà tài trợ của chúng tôi cũng không thể.
 newtab-privacy-modal-paragraph-2 =
     Ngoài việc tận hưởng những câu chuyện hấp dẫn, chúng tôi cũng cho bạn thấy có liên quan,
     nội dung được đánh giá cao từ các nhà tài trợ chọn lọc. Hãy yên tâm, <strong>dữ liệu duyệt của bạn
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Rất tiếc! Chúng tôi 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Các chủ đề phổ biến:
 newtab-pocket-more-recommendations = Nhiều khuyến nghị hơn
-newtab-pocket-whats-pocket = { -pocket-brand-name } là gì?
 newtab-pocket-learn-more = Tìm hiểu thêm
 newtab-pocket-cta-button = Nhận { -pocket-brand-name }
 newtab-pocket-cta-text = Lưu những câu chuyện bạn yêu thích trong { -pocket-brand-name } và vui vẻ khi đọc chúng.
