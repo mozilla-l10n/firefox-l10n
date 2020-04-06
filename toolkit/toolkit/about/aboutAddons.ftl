@@ -352,9 +352,15 @@ addon-options-button =
 
 report-addon-button = Пријави
 remove-addon-button = Уклони
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Не може се уклонити. <a data-l10n-name="link">Зашто?</a>
 disable-addon-button = Онемогући
 enable-addon-button = Омогући
 expand-addon-button = Више опција
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Омогући
 preferences-addon-button =
     { PLATFORM() ->
         [windows] Подешавања
@@ -418,6 +424,11 @@ install-update-button = Ажурирај
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Дозвољено у приватним прозорима
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Дозвољено у приватним прозорима
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Када је дозвољено, проширење ће имати приступ вашим активностима на мрежи у приватном прегледавању. <a data-l10n-name="learn-more">Сазнај више</a>
 addon-detail-private-browsing-allow = Дозволи
 addon-detail-private-browsing-disallow = Не дозволи
@@ -426,6 +437,11 @@ addon-detail-private-browsing-disallow = Не дозволи
 addon-badge-recommended =
     .title = Препоручено
     .alt = Препоручено
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } препоручује само проширења која задовољавају наше стандарде сигурности и перформанси
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Доступна ажурирања
 recent-updates-heading = Недавна ажурирања
 release-notes-loading = Учитава се...
@@ -444,10 +460,12 @@ theme-heading = Управљајте вашим темама
 plugin-heading = Управљајте вашим прикључцима
 dictionary-heading = Управљајте вашим речницима
 locale-heading = Управљајте вашим језицима
+updates-heading = Управљајте вашим ажурирањима
 discover-heading = Персонализујте ваш { -brand-short-name }
 shortcuts-heading = Управљај пречицама екстензија
 theme-heading-search-label = Нађите више тема
 extension-heading-search-label = Нађите више екстензија
+default-heading-search-label = Пронађите још додатака
 addons-heading-search-input =
     .placeholder = Претражи сајт addons.mozilla.org
 addon-page-options-button =
