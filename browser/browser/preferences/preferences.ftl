@@ -753,6 +753,9 @@ forms-master-pw-change =
 forms-master-pw-fips-title = شما هم‌اکنون در حالت FIPS هستید. در این حالت لازم است گذرواژهٔ اصلی خالی نباشد.
 forms-master-pw-fips-desc = تغییر گذرواژه شکست خورد
 
+## OS Authentication dialog
+
+
 ## Privacy Section - History
 
 history-header = تاریخچه
@@ -884,6 +887,7 @@ content-blocking-all-cookies = همه کوکی‌ها
 content-blocking-all-windows-trackers = ردیاب‌های شناخته شده در تمام پنجره‌ها
 content-blocking-all-third-party-cookies = تمام کوکی‌های متفرقه
 content-blocking-cryptominers = استخراج کننده‌های رمزارزها
+content-blocking-fingerprinters = برداشت کنندگان اثر انگشت
 content-blocking-warning-title = هوشیار باشید!
 content-blocking-learn-how = بیشتر بدانید
 content-blocking-warning-learn-how = بیشتر بدانید
