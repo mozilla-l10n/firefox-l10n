@@ -140,7 +140,7 @@ media-capabilities-enumerate = 데이터베이스 열거
 
 ##
 
-intl-title = 국제화 & 현지화
+intl-title = 국제화 및 현지화
 intl-app-title = 응용 프로그램 설정
 intl-locales-requested = 요청된 언어
 intl-locales-available = 사용 가능한 언어
