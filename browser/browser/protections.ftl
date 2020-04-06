@@ -42,17 +42,16 @@ lockwise-header-content = { -lockwise-brand-name } گذرواژه‌های شم�
 lockwise-header-content-logged-in = ذخیره امن گذرواژه‌ها و همگام‌سازی با تمام دستگاه های شما.
 protection-report-view-logins-button = نمایش ورودها
     .title = به ورودهای ذخیره شده برو
-lockwise-no-logins-content = برای دسترسی به گذرواژه‌هایتان در هر جایی <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> را دریافت کنید.
+# This string is displayed after a large numeral that indicates the total number
+# of email addresses being monitored. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+lockwise-passwords-stored =
+    { $count ->
+        [one] گذرواژه به شکل امن ذخیره شد  <a data-l10n-name="lockwise-how-it-works"> این چگونه کار می‌کند</a>
+       *[other] گذرواژه‌ها به شکل امن ذخیره شدند  <a data-l10n-name="lockwise-how-it-works"> این چگونه کار می‌کند</a>
+    }
 turn-on-sync = روشن کردن { -sync-brand-short-name }…
     .title = به تنظیمات همگام‌سازی برو
-manage-devices = مدیریت دستگاه‌ها
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] در حال همگام‌سازی با { $count } دستگاه دیگر
-       *[other] در حال همگام‌سازی با { $count } دستگاه دیگر
-    }
 monitor-title = مواضب نشت اطلاعات باشید
 monitor-link = چگونه کار می‌کند
 
