@@ -16,5 +16,6 @@
 <!ENTITY showTitlebar.label       "Mostra la barra del titolo">
 <!ENTITY extraDragSpace.label     "Aggiungere spazio di trascinamento">
 <!ENTITY showTitlebar2.label      "Barra del titolo">
+<!ENTITY extraDragSpace2.label    "Spazio di trascinamento">
 <!ENTITY saveChanges.label        "Fine">
 <!ENTITY undoChanges.label        "Annulla cambiamenti">
