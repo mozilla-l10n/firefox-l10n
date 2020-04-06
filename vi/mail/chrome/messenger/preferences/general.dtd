@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "A">
 <!ENTITY removeSearchEngine.label         "Xóa">
 <!ENTITY removeSearchEngine.accesskey     "v">
+
+<!ENTITY minimizeToTray.label             "Khi &brandShortName; đã thu nhỏ, di chuyển nó vào khay">
+<!ENTITY minimizeToTray.accesskey         "m">
