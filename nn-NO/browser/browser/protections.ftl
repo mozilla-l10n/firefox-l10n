@@ -52,6 +52,8 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina di for å lage ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på forskjellige nettstadar. <a data-l10n-name="learn-more-link">Les meir</a>
 cryptominer-tab-title = Kryptominarar
 cryptominer-tab-content = Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga. <a data-l10n-name="learn-more-link">Les meir</a>
+protections-close-button =
+    .aria-label = Lat att
 mobile-app-title = Blokker annonsesporfølgjarar på fleire einingar
 mobile-app-card-content = Bruk mobilnettlesaren med innebygd vern mot annonsesporing.
 mobile-app-links = { -brand-product-name } Nettlesar for <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -61,7 +63,6 @@ lockwise-header-content = { -lockwise-brand-name } lagrar passorda dine sikkert 
 lockwise-header-content-logged-in = Lagre passorda dine sikkert og synkroniser dei med alle eniningane dine.
 protection-report-view-logins-button = Vis innloggingar
     .title = Gå til lagra innloggingar
-lockwise-no-logins-content = Få appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> for å ta passorda dine med overalt.
 lockwise-mobile-app-title = Ta med deg passorda dine overalt
 lockwise-no-logins-card-content = Bruk passord som er lagra i { -brand-short-name } på kva som helst eining.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
