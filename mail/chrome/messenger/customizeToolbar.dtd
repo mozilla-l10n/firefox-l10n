@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Thêm thanh công cụ mới">
 <!ENTITY showTitlebar.label       "Hiển thị thanh tiêu đề">
 <!ENTITY extraDragSpace.label     "Thêm không gian kéo">
+<!ENTITY showTitlebar2.label      "Thanh tiêu đề">
+<!ENTITY extraDragSpace2.label    "Kéo khoảng trắng">
 <!ENTITY saveChanges.label        "Xong">
 <!ENTITY undoChanges.label        "Hoàn tác các thay đổi">
