@@ -41,6 +41,11 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = Anar a la pagina de telecargament
     .accesskey = A
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Suprimir lo fichièr
+downloads-cmd-remove-file-panel =
+    .aria-label = Suprimir lo fichièr
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
