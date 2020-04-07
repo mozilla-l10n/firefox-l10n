@@ -44,3 +44,7 @@ downloads-cmd-retry-panel =
 downloads-cmd-unblock =
     .label = อนุญาตการดาวน์โหลด
     .accesskey = ต
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = ไม่มีการดาวน์โหลด
