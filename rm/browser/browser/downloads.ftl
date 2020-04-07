@@ -120,6 +120,9 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detagls davart la telechargiada
+downloads-clear-downloads-button =
+    .label = Svidar la glista da telechargiadas
+    .tooltiptext = Stizza tut las telechargiadas cumplettadas, interruttas u sbagliadas da la glista da telechargiadas
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
