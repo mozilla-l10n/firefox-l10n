@@ -6,9 +6,18 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = بارگیری‌ها
+downloads-panel =
+    .aria-label = بارگیری‌ها
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-resume =
     .label = ازسرگیری
     .accesskey = س
@@ -80,12 +89,39 @@ downloads-cmd-choose-open =
     .tooltiptext = بازکردن یا حذف پرونده
 downloads-cmd-choose-open-panel =
     .aria-label = بازکردن یا حذف پرونده
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = نمایش اطلاعات بیشتر
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = بازکردن پرونده
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = بارگیری مجدد
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = لغو بارگیری
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = نمایش همهٔ دریافت‌ها
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = دریافت جزئیات
 downloads-clear-downloads-button =
     .label = پاک کردن دریافتی ها
     .tooltiptext = دانلودهای کامل شده و صرف نظر شده و شکست خورده را پاک میکند
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = هیچ دانلودی پیدا نشد.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = دریافت‌هایی برای این جلسه وجود ندارد.
