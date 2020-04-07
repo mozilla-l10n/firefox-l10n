@@ -58,11 +58,35 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Downloads wiskje
     .accesskey = D
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Downloaden tastean
+    .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Bestân fuortsmite
 downloads-cmd-remove-file-panel =
     .aria-label = Bestân fuortsmite
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Bestân fuortsmite of downloaden tastean
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Bestân fuortsmite of downloaden tastean
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Bestân iepenje of fuortsmite
+downloads-cmd-choose-open-panel =
+    .aria-label = Bestân iepenje of fuortsmite
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Alle downloads toane
+    .accesskey = d
 downloads-clear-downloads-button =
     .label = Downloads wiskje
     .tooltiptext = Wisket foltôge, annulearre en mislearre downloads
