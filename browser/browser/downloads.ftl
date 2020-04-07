@@ -45,9 +45,29 @@ downloads-cmd-retry =
     .tooltiptext = Reintentar
 downloads-cmd-retry-panel =
     .aria-label = Reintentar
+downloads-cmd-go-to-download-page =
+    .label = Ir a la página de la descarga
+    .accesskey = I
+downloads-cmd-copy-download-link =
+    .label = Copiar enlace de descarga
+    .accesskey = l
 downloads-cmd-remove-from-history =
     .label = Borrar del historial
     .accesskey = e
+downloads-cmd-clear-downloads =
+    .label = Limpiar las descargas
+    .accesskey = d
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Eliminar archivo
+downloads-cmd-remove-file-panel =
+    .aria-label = Eliminar archivo
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Mostrar todas las descargas
+    .accesskey = s
 downloads-clear-downloads-button =
     .label = Eliminar descargas
     .tooltiptext = Limpieza completa, descargas canceladas y fallidas
