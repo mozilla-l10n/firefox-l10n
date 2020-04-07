@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Ditaollo
+downloads-panel =
+    .aria-label = Ditaollo
 
 ##
 
@@ -47,3 +51,22 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Kopiša lomaganyo ya go laolla
     .accesskey = l
+downloads-cmd-remove-from-history =
+    .label = Tloša historing
+    .accesskey = o
+downloads-cmd-clear-downloads =
+    .label = Tloša ditaollo
+    .accesskey = d
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Laetša ditaollo tšohle
+    .accesskey = L
+downloads-clear-downloads-button =
+    .label = Tloša ditaollo
+    .tooltiptext = Go tloša go phethilwe, ditaollo tše khansetšwego le tše paletšwego
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Ga go na ditaollo.
