@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Descaregamenti
+downloads-panel =
+    .aria-label = Descaregamenti
 
 ##
 
@@ -41,9 +45,29 @@ downloads-cmd-show-description =
             [macos] Fanni vedde into Finder
            *[other] Arvi cartella
         }
+downloads-cmd-retry =
+    .tooltiptext = Preuva torna
+downloads-cmd-retry-panel =
+    .aria-label = Preuva torna
 downloads-cmd-go-to-download-page =
     .label = Vanni a-a pagina de descaregamento
     .accesskey = g
 downloads-cmd-copy-download-link =
     .label = Còpia o colegamento do descaregamento
     .accesskey = c
+downloads-cmd-remove-from-history =
+    .label = Scancella da-a stöia
+    .accesskey = n
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Fanni vedde tutti i descaregamenti
+    .accesskey = v
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = No gh'é di descaregamenti.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Nisciun descaregamento pe sta sescion.
