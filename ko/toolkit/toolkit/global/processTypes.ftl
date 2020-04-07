@@ -24,3 +24,5 @@ process-type-webisolated = 격리된 웹 콘텐츠
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = 소켓
