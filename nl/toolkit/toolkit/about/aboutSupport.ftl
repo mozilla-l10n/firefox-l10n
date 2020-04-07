@@ -294,6 +294,7 @@ startup-cache-title = Opstartbuffer
 startup-cache-disk-cache-path = Pad naar schijfbuffer
 startup-cache-ignore-disk-cache = Schijfbuffer negeren
 startup-cache-found-disk-cache-on-init = Schijfbuffer bij Init gevonden
+startup-cache-wrote-to-disk-cache = Naar schijfbuffer geschreven
 launcher-process-status-0 = Ingeschakeld
 launcher-process-status-1 = Uitgeschakeld vanwege fout
 launcher-process-status-2 = Geforceerd uitgeschakeld
