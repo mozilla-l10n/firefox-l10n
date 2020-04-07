@@ -15,6 +15,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Жалғастыру
     .accesskey = Ж
+downloads-cmd-cancel =
+    .tooltiptext = Бас тарту
+downloads-cmd-cancel-panel =
+    .aria-label = Бас тарту
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Файл орналасқан буманы ашу
@@ -44,9 +48,41 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = Жүктемелер парағына өту
     .accesskey = Ж
+downloads-cmd-copy-download-link =
+    .label = Жүктеу сілтемесін көшіріп алу
+    .accesskey = к
+downloads-cmd-remove-from-history =
+    .label = Тарихтен өшіру
+    .accesskey = Т
+downloads-cmd-clear-list =
+    .label = Алдын-ала қарау панелін тазарту
+    .accesskey = з
 downloads-cmd-clear-downloads =
     .label = Жүктемелерді тазарту
     .accesskey = д
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Жүктемені рұқсат ету
+    .accesskey = а
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Файлды өшіру
+downloads-cmd-remove-file-panel =
+    .aria-label = Файлды өшіру
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Файлды өшіру немесе жүктемені рұқсат ету
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Файлды өшіру немесе жүктемені рұқсат ету
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Файлды ашу немесе өшіру
+downloads-cmd-choose-open-panel =
+    .aria-label = Файлды ашу немесе өшіру
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
