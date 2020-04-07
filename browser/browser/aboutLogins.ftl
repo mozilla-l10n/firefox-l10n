@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = Meer info
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Kwetsbaar wachtwoord
-about-logins-vulnerable-alert-text = Dit wachtwoord is gelekt of gestolen in het datalek van een ander bedrijf. Het opnieuw gebruiken van aanmeldgegevens brengt al uw accounts in gevaar. Wijzig dit wachtwoord om uw online veiligheid te verbeteren.
+about-logins-vulnerable-alert-text2 = Dit wachtwoord is gebruikt op een andere account, die waarschijnlijk door een datalek is getroffen. Het hergebruiken van aanmeldgegevens brengt al uw accounts in gevaar. Wijzig dit wachtwoord.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Naar { $hostname }
