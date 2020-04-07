@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Unduhan
+downloads-panel =
+    .aria-label = Unduhan
 
 ##
 
@@ -94,3 +98,10 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Bersihkan Unduhan
     .tooltiptext = Bersihkan semua unduhan yang selesai, dibatalkan, atau gagal
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Tidak ada unduhan.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Tidak ada unduhan untuk sesi ini.
