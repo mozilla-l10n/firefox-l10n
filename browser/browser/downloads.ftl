@@ -56,3 +56,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Salin Tautan Unduhan
     .accesskey = T
+downloads-cmd-remove-from-history =
+    .label = Hapus dari Riwayat
+    .accesskey = H
+downloads-cmd-clear-downloads =
+    .label = Bersihkan Unduhan
+    .accesskey = U
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Tampilkan Semua Unduhan
+    .accesskey = U
+downloads-clear-downloads-button =
+    .label = Bersihkan Unduhan
+    .tooltiptext = Bersihkan semua unduhan yang selesai, dibatalkan, atau gagal
