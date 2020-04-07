@@ -48,3 +48,18 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = اذهب إلى صفحة التنزيل
     .accesskey = ذ
+downloads-cmd-remove-from-history =
+    .label = احذف من التأريخ
+    .accesskey = ح
+downloads-cmd-clear-downloads =
+    .label = امسح التنزيلات
+    .accesskey = س
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = أظهر كل التنزيلات
+    .accesskey = ك
+downloads-clear-downloads-button =
+    .label = امسح التنزيلات
+    .tooltiptext = امسح التنزيلات المكتملة و غير المكتملة و الملغاة
