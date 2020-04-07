@@ -18,3 +18,12 @@ downloads-cmd-retry =
     .tooltiptext = পুনরায় চেষ্টা করুন
 downloads-cmd-retry-panel =
     .aria-label = পুনরায় চেষ্টা করুন
+downloads-cmd-remove-from-history =
+    .label = তালিকা থেকে অপসারণ e
+    .accesskey = e
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = সমস্ত ডাউনলোড প্রদর্শন করুন S
+    .accesskey = S
