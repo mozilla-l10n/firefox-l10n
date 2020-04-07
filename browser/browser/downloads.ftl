@@ -15,6 +15,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Reprèn
     .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = Cancel·la
+downloads-cmd-cancel-panel =
+    .aria-label = Cancel·la
 downloads-cmd-retry =
     .tooltiptext = Reintenta
 downloads-cmd-retry-panel =
@@ -22,9 +26,30 @@ downloads-cmd-retry-panel =
 downloads-cmd-copy-download-link =
     .label = Copia l'enllaç de la baixada
     .accesskey = l
+downloads-cmd-clear-list =
+    .label = Buida la subfinestra de previsualització
+    .accesskey = B
 downloads-cmd-clear-downloads =
     .label = Buida la llista de baixades
     .accesskey = B
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Permet la baixada
+    .accesskey = P
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Elimina el fitxer o permet la baixada
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Elimina el fitxer o permet la baixada
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Obre o elimina el fitxer
+downloads-cmd-choose-open-panel =
+    .aria-label = Obre o elimina el fitxer
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
