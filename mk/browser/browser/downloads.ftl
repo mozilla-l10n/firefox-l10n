@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Покажи во Finder
            *[other] Отвори ја папката со преземања
         }
+downloads-cmd-show-downloads =
+    .label = Прикажи папка за преземања
 downloads-cmd-retry =
     .tooltiptext = Пробај пак
 downloads-cmd-retry-panel =
@@ -109,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Прикажи ги сите преземања
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Детали за преземање
 downloads-clear-downloads-button =
     .label = Исчисти ги преземањата
     .tooltiptext = Ги чисти списокот од завшени, откажани и неуспешни преземања
