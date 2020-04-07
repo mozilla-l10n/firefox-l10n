@@ -57,6 +57,11 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = 清除下载记录
     .accesskey = D
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = 移除文件
+downloads-cmd-remove-file-panel =
+    .aria-label = 移除文件
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
