@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = බාගත කිරීම්
+downloads-panel =
+    .aria-label = බාගත කිරීම්
 
 ##
 
@@ -60,3 +64,7 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = බාගතකිරීම් පිරිසිදු කරන්න
     .tooltiptext = සම්පූර්ණ, අවලංගු කළ හා අසාර්ථක බාගැනීම් පිරිසිදු කරයි
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = බාගැනීම් නොමැත.
