@@ -62,6 +62,9 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = 다운로드 링크 복사
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = 기록에서 삭제
+    .accesskey = e
 downloads-cmd-clear-list =
     .label = 미리보기 패널 비우기
     .accesskey = a
@@ -99,6 +102,10 @@ downloads-show-more-information =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = 파일 열기
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = 다운로드 다시 시도
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
@@ -113,6 +120,9 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = 다운로드 상세
+downloads-clear-downloads-button =
+    .label = 다운로드 항목 지우기
+    .tooltiptext = 완료, 취소 및 실패한 다운로드 항목 지우기
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
