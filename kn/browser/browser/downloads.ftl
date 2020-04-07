@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] ಹುಡುಕುಗಾರನಲ್ಲಿ ತೋರಿಸು
            *[other] ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ
         }
+downloads-cmd-show-downloads =
+    .label = ಡೌನ್‌ಲೋಡ್‌ ಕಡತಕೋಶವನ್ನು ತೋರಿಸು
 downloads-cmd-retry =
     .tooltiptext = ಮರಳಿ ಪ್ರಯತ್ನಿಸು
 downloads-cmd-retry-panel =
@@ -84,10 +86,18 @@ downloads-cmd-choose-open =
     .tooltiptext = ತೆರೆ ಅಥವಾ ಕಡತ ತೆಗೆ
 downloads-cmd-choose-open-panel =
     .aria-label = ತೆರೆ ಅಥವಾ ಕಡತ ತೆಗೆ
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = ಹೆಚ್ಚಿನ ಮಾಹಿತಿಯನ್ನು ತೋರಿಸು
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
     .value = ಕಡತವನ್ನು ತೆರೆ
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = ಡೌನ್‌ಲೋಡ್ ಮರುಪ್ರಯತ್ನಿಸು
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
@@ -98,6 +108,10 @@ downloads-cancel-download =
 downloads-history =
     .label = ಎಲ್ಲಾ ಇಳಿಕೆಗಳನ್ನು ತೋರಿಸು
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = ಡೌನ್‌ಲೋಡ್ ವಿವರಗಳು
 downloads-clear-downloads-button =
     .label = ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು
     .tooltiptext = ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ
