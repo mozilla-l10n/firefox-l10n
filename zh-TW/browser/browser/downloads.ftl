@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = 暫停
     .accesskey = P
@@ -45,16 +50,24 @@ downloads-cmd-show-description =
             [macos] 在 Finder 中顯示
            *[other] 開啟所在資料夾
         }
+downloads-cmd-show-downloads =
+    .label = 顯示下載資料夾
 downloads-cmd-retry =
     .tooltiptext = 重試
 downloads-cmd-retry-panel =
     .aria-label = 重試
+downloads-cmd-go-to-download-page =
+    .label = 前往下載頁面
+    .accesskey = G
 downloads-cmd-copy-download-link =
     .label = 複製下載鏈結
     .accesskey = l
 downloads-cmd-remove-from-history =
     .label = 自下載記錄移除
     .accesskey = e
+downloads-cmd-clear-list =
+    .label = 清除預覽窗格
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = 清空下載清單
     .accesskey = D
@@ -81,12 +94,32 @@ downloads-cmd-choose-open =
     .tooltiptext = 開啟或移除檔案
 downloads-cmd-choose-open-panel =
     .aria-label = 開啟或移除檔案
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = 顯示更多資訊
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = 開啟檔案
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = 重試下載
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = 取消下載
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = 顯示所有下載
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = 下載項目詳情
 downloads-clear-downloads-button =
     .label = 清空下載清單
     .tooltiptext = 清除失敗、已取消、已完成的下載項目
