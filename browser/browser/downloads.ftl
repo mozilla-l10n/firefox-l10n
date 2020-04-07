@@ -12,6 +12,9 @@
 downloads-cmd-pause =
     .label = หยุดชั่วคราว
     .accesskey = ห
+downloads-cmd-resume =
+    .label = ทำต่อ
+    .accesskey = ท
 downloads-cmd-cancel =
     .tooltiptext = ยกเลิก
 downloads-cmd-cancel-panel =
@@ -37,3 +40,7 @@ downloads-cmd-retry =
     .tooltiptext = ลองใหม่
 downloads-cmd-retry-panel =
     .aria-label = ลองใหม่
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = อนุญาตการดาวน์โหลด
+    .accesskey = ต
