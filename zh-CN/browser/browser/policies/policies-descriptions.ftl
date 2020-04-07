@@ -66,6 +66,14 @@ policy-HardwareAcceleration = 若为 false，将会关闭硬件加速。
 policy-Homepage = 设置主页，可选择锁定。
 policy-InstallAddonsPermission = 允许特定网站安装附加组件。
 policy-LegacyProfiles = 禁用要求每个安装实例有不同用户配置文件的功能
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = 启用默认旧有 SameSite cookie 行为设置。
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 对指定的网站恢复旧有 SameSite cookie 行为。
+
+##
+
 policy-LocalFileLinks = 允许特定网站链接到本地文件。
 policy-NetworkPrediction = 启用或禁用网络预测（DNS 预读取）功能。
 policy-NewTabPage = 启用或禁用“新标签页”页面。
