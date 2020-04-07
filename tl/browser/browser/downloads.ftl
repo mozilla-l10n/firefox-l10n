@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Mga Download
+downloads-panel =
+    .aria-label = Mga Download
 
 ##
 
@@ -15,6 +19,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Ipagpatuloy
     .accesskey = I
+downloads-cmd-cancel =
+    .tooltiptext = Kanselahin
+downloads-cmd-cancel-panel =
+    .aria-label = Kanselahin
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Buksan ang Folder na Kinalalagyan
@@ -50,3 +58,7 @@ downloads-cmd-copy-download-link =
 downloads-cmd-clear-downloads =
     .label = Clear Downloads
     .accesskey = D
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Magbukas ng File
