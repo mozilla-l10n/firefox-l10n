@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Descărcări
+downloads-panel =
+    .aria-label = Descărcări
 
 ##
 
@@ -24,6 +28,23 @@ downloads-cmd-show =
     .label = Deschide dosarul conținător
     .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-mac =
+    .label = Afișează în Finder
+    .tooltiptext = { downloads-cmd-show-mac.label }
+    .accesskey = F
+downloads-cmd-show-panel =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Afișează în Finder
+           *[other] Deschide dosarul conținător
+        }
+downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Afișează în Finder
+           *[other] Deschide dosarul conținător
+        }
 downloads-cmd-retry =
     .tooltiptext = Reîncearcă
 downloads-cmd-retry-panel =
@@ -66,9 +87,36 @@ downloads-cmd-choose-open =
     .tooltiptext = Deschide sau elimină fișierul
 downloads-cmd-choose-open-panel =
     .aria-label = Deschide sau elimină fișierul
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Afișează mai multe informații
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Deschide fișierul
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Reîncearcă descărcarea
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Anulează descărcarea
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Afișează toate descărcările
     .accesskey = s
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detalii privind descărcarea
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Nu există descărcări.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Nicio descărcare pentru această sesiune.
