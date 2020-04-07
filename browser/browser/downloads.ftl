@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] បង្ហាញ​នៅ​ក្នុង​កម្មវិធី​រក
            *[other] បើក​ថត​ដែល​ផ្ទុក
         }
+downloads-cmd-show-downloads =
+    .label = បង្ហាញថតទាញយក
 downloads-cmd-retry =
     .tooltiptext = ព្យាយាម​ម្តង​ទៀត
 downloads-cmd-retry-panel =
@@ -109,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = បង្ហាញ​ការ​ទាញ​យក​ទាំងអស់
     .accesskey = ញ
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = ព័ត៌មាន​លម្អិត​ការទាញយក
 downloads-clear-downloads-button =
     .label = សម្អាត​ការ​ទាញ​យក
     .tooltiptext = សម្អាត​ការ​ទាញ​យក​ដែល​បាន​បញ្ចប់​ទាំងស្រុង ដែល​បាន​បោះបង់ និង​ដែល​បាន​បរាជ័យ
