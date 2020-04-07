@@ -47,3 +47,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = ಇಳಿಕೆಯ ಕೊಂಡಿಯನ್ನು ಪ್ರತಿ ಮಾಡು
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = ಇತಿಹಾಸದಿಂದ ತೆಗೆದುಹಾಕು
+    .accesskey = e
+downloads-cmd-clear-downloads =
+    .label = ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು
+    .accesskey = D
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = ಎಲ್ಲಾ ಇಳಿಕೆಗಳನ್ನು ತೋರಿಸು
+    .accesskey = S
+downloads-clear-downloads-button =
+    .label = ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು
+    .tooltiptext = ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ
