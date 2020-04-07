@@ -57,6 +57,29 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = សម្អាត​ការ​ទាញ​យក
     .accesskey = ទ
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = អនុញ្ញាត​ឲ្យ​ទាញយក
+    .accesskey = o
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = លុប​ឯកសារ​ចេញ
+downloads-cmd-remove-file-panel =
+    .aria-label = លុប​ឯកសារ​ចេញ
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = លុប​ឯកសារ ឬ អនុញ្ញាត​ឲ្យ​ទាញយក
+downloads-cmd-choose-unblock-panel =
+    .aria-label = លុប​ឯកសារ ឬ អនុញ្ញាត​ឲ្យ​ទាញយក
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = បើក ឬ លុប​ឯកសារ
+downloads-cmd-choose-open-panel =
+    .aria-label = បើក ឬ លុប​ឯកសារ
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
