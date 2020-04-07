@@ -18,10 +18,21 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 70ch
+downloads-cmd-pause =
+    .label = Ընդմիջել
+    .accesskey = P
+downloads-cmd-resume =
+    .label = Շարունակել
+    .accesskey = R
 downloads-cmd-cancel =
     .tooltiptext = Չեղարկել
 downloads-cmd-cancel-panel =
     .aria-label = Չեղարկել
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show =
+    .label = Բացել թղթապանակը
+    .tooltiptext = { downloads-cmd-show.label }
+    .accesskey = F
 # This message is only displayed on macOS devices
 downloads-cmd-show-mac =
     .label = Ցուցադրել Finder-ում
@@ -99,6 +110,12 @@ downloads-retry-download =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Չեղարկել ներբեռնումը
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Ցուցադրել բոլոր ներբեռնումները
+    .accesskey = S
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
