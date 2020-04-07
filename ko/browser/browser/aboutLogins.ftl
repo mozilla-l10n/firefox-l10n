@@ -174,7 +174,7 @@ about-logins-breach-alert-learn-more-link = 더 알아보기
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = 취약한 비밀번호
-about-logins-vulnerable-alert-text = 이 비밀번호는 다른 회사의 데이터 유출로 인해 유출되거나 도난당했습니다. 자격 증명을 재사용하면 사용자의 모든 계정이 위험에 노출됩니다. 온라인 보안을 향상시키려면 이 비밀번호를 변경하세요.
+about-logins-vulnerable-alert-text2 = 이 비밀번호는 데이터 유출 가능성이 있는 다른 계정에서 사용되었습니다. 자격 증명을 재사용하면 모든 계정이 위험에 노출됩니다. 이 비밀번호를 변경하세요.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname }(으)로 이동
