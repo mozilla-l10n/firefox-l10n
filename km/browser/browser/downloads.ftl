@@ -51,9 +51,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = ចម្លង​តំណ​ទាញ​យក
     .accesskey = ច
+downloads-cmd-remove-from-history =
+    .label = យក​ចេញពី​ប្រវត្តិ
+    .accesskey = យ
+downloads-cmd-clear-downloads =
+    .label = សម្អាត​ការ​ទាញ​យក
+    .accesskey = ទ
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = បង្ហាញ​ការ​ទាញ​យក​ទាំងអស់
     .accesskey = ញ
+downloads-clear-downloads-button =
+    .label = សម្អាត​ការ​ទាញ​យក
+    .tooltiptext = សម្អាត​ការ​ទាញ​យក​ដែល​បាន​បញ្ចប់​ទាំងស្រុង ដែល​បាន​បោះបង់ និង​ដែល​បាន​បរាជ័យ
