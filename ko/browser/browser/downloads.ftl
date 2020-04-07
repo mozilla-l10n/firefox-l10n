@@ -85,6 +85,18 @@ downloads-cmd-choose-open =
     .tooltiptext = 열거나 파일 삭제
 downloads-cmd-choose-open-panel =
     .aria-label = 열거나 파일 삭제
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = 정보 더 보기
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = 파일 열기
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = 다운로드 취소
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
