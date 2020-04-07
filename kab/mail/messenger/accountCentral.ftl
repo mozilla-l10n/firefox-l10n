@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Ansuf ɣer { -brand-full-name }
+account-settings = Iɣewwaṛen n umiḍan
+#   $accounts (Number) - the number of configured accounts
 setup-title = Fren iferdisen ara yemtawin
 about-title = Ɣef { -brand-full-name }
 resources-title = Tiɣbula
@@ -42,3 +44,10 @@ explore-link = Snirem timahilin
 support-link = Tallelt
 involved-link = Ttekki
 developer-link = Tasemlit n uneflay
+read = Ɣer iznan
+compose = Aru izen amaynut
+search = Nadi iznan
+filter = Sefrek imsizdigen n yizen
+nntp-subscription = Sefrek amulteɣ n ugraw n yisallen
+rss-subscription = Sefrek amulteɣ n usuddem
+e2e = Awgelhen seg yixef ɣer wayeḍ
