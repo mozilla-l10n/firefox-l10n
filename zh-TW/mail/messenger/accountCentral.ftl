@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = 歡迎使用 { -brand-full-name }
+account-settings = 帳號設定
+#   $accounts (Number) - the number of configured accounts
 setup-title = 選擇要設定哪些帳號
 about-title = 關於 { -brand-full-name }
 resources-title = 資源
@@ -40,3 +42,10 @@ explore-link = 探索功能
 support-link = 技術支援
 involved-link = 參與我們
 developer-link = 技術文件
+read = 讀取郵件
+compose = 發新郵件
+search = 搜尋訊息
+filter = 管理篩選條件
+nntp-subscription = 管理新聞群組訂閱狀況
+rss-subscription = 管理資訊來源訂閱項目
+e2e = 端到端加密
