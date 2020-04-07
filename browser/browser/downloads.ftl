@@ -58,11 +58,29 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Počisti prenose
     .accesskey = S
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Dovoli prenos
+    .accesskey = D
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Odstrani datoteko
 downloads-cmd-remove-file-panel =
     .aria-label = Odstrani datoteko
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Odstrani datoteko ali dovoli prenos
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Odstrani datoteko ali dovoli prenos
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Odpri ali odstrani datoteko
+downloads-cmd-choose-open-panel =
+    .aria-label = Odpri ali odstrani datoteko
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
