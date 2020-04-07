@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Endirmələr
+downloads-panel =
+    .aria-label = Endirmələr
 
 ##
 
@@ -86,3 +90,10 @@ downloads-cmd-choose-open-panel =
 downloads-history =
     .label = Bütün endirmələri göstər
     .accesskey = s
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Endirmə yoxdur.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Bu sessiya üçün endirmələr yoxdur.
