@@ -143,12 +143,10 @@ was trying to connect. -->
 <!ENTITY certerror.expiredCert.secondPara2 "Vjerojatno je certifikat web stranice istekao, što sprečava &brandShortName; da se sigurno poveže. Ukoliko posjetiš ovu web stranicu, napadači mogu pokušati ukrasti informacije kao što su tvoje lozinke, e-poruke ili podatke kreditne kartice.">
 <!ENTITY certerror.expiredCert.sts.secondPara "Vjerojatno je certifikat web stranice istekao, što sprečava &brandShortName; da se sigurno poveže.">
 
-<!ENTITY certerror.whatCanYouDoAboutItTitle "Što možete učiniti?">
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Što možeš učiniti po tom pitanju?">
 
-<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "
-<p>Problem je najvjerojatnije povezan s web stranicom i ne možete ništa učiniti da biste ga riješili.</p>
-<p>Ukoliko se nalazite u korporativnoj mreži ili koristite antivirusni program, za pomoć možete kontaktirati timove za podršku. O problemu možete obavijestiti i administratora web stranice.</p>
-">
+<!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.</p>
+<p>Ukoliko se nalaziš u korporativnoj mreži ili koristiš antivirusni program, za pomoć možeš kontaktirati timove za podršku. O problemu možeš obavijestiti i administratora web stranice.</p>">
 
 <!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
 <p>Sat tvog računala je postavljen na <span id='wrongSystemTime_systemDate2'/>. Provjeri da li je tvoje računalo postavljeno na ispravan datum, vrijeme i vremensku zonu u postavkama sustava i onda osvježi <span class='hostname'/>.</p>
