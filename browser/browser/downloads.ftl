@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = डाउनलोड
+downloads-panel =
+    .aria-label = डाउनलोड
 
 ##
 
@@ -47,9 +51,22 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = डाउनलोड किए कड़ी क नकल  करू
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = इतिहास सँ हटाउ (e)
+    .accesskey = e
+downloads-cmd-clear-downloads =
+    .label = डाउनलोड खोजू (D)
+    .accesskey = D
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = सभटा डाउनलोड देखाउ (S)
     .accesskey = S
+downloads-clear-downloads-button =
+    .label = डाउनलोड खोजू
+    .tooltiptext = संपन्न, रद्द, आओर विफल डाउनलोड केँ हटाएल
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = ओतए कोनो डाउनलोडक लेल नहि अछि.
