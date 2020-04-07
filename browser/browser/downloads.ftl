@@ -60,10 +60,21 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = බාගත කිරීම් සබැඳිය පිටපත් කරන්න
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = ඉතිහාසයෙන් ඉවත් කරන්න
+    .accesskey = e
+downloads-cmd-clear-downloads =
+    .label = බාගතකිරීම් පිරිසිදු කරන්න
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = සියලු බාගැණීම්
     .accesskey = o
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = ගොනුව ඉවත් කරන්න
+downloads-cmd-remove-file-panel =
+    .aria-label = ගොනුව ඉවත් කරන්න
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
