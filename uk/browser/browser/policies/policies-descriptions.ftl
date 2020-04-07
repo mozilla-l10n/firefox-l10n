@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Значення false вимикає апарат
 policy-Homepage = Встановити і за бажанням заблокувати домівку.
 policy-InstallAddonsPermission = Дозволити певним вебсайтам встановлювати додатки.
 policy-LegacyProfiles = Вимкнути функцію, що застосовує окремий профіль для кожного встановлення
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Увімкнути застаріле налаштування поведінки SameSite для куків.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Повертати застарілу поведінку SameSite для куків на вказаних сайтах.
+
+##
+
 policy-LocalFileLinks = Дозволити певним вебсайтам посилання на локальні файли.
 policy-NetworkPrediction = Увімкнути чи вимкнути прогнозування мережі (завчасне отримання DNS).
 policy-NewTabPage = Увімкнути чи вимкнути сторінку нової вкладки.
