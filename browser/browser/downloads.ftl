@@ -71,6 +71,10 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Smazat stahování
     .accesskey = S
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Povolit stažení
+    .accesskey = o
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Odstranit soubor
