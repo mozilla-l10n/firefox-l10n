@@ -6,9 +6,18 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = ডাউনলোড
+downloads-panel =
+    .aria-label = ডাউনলোড
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = বিরতি
     .accesskey = P
@@ -41,6 +50,8 @@ downloads-cmd-show-description =
             [macos] ফাইন্ডারে প্রদর্শন F
            *[other] ধারণকারী ফোল্ডার খুলুন
         }
+downloads-cmd-show-downloads =
+    .label = ডাউনলোড ফোল্ডার দেখাও
 downloads-cmd-retry =
     .tooltiptext = পুনরায় চেষ্টা করুন
 downloads-cmd-retry-panel =
@@ -48,12 +59,18 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = ডাউনলোড পাতা যাও
     .accesskey = G
+downloads-cmd-copy-download-link =
+    .label = ডাউনলোড লিঙ্ক অনুলিপি
+    .accesskey = L
 downloads-cmd-remove-from-history =
     .label = তালিকা থেকে অপসারণ e
     .accesskey = e
 downloads-cmd-clear-list =
     .label = প্রাকপদর্শন প্যানেল পরিষ্কার করুন
     .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = ডাউনলোড অপসারণ
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ডাউনলোড অনুমোদন
@@ -77,9 +94,39 @@ downloads-cmd-choose-open =
     .tooltiptext = ফাইলটি খুলুন বা মুছে ফেলুন
 downloads-cmd-choose-open-panel =
     .aria-label = ফাইলটি খুলুন বা মুছে ফেলুন
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = আরও তথ্য প্রদর্শন করো
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = ফাইল খুলুন
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = পুনরায় ডাউনলোড করুন
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = ডাউনলোড বাতিল করুন
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = সমস্ত ডাউনলোড প্রদর্শন করুন S
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = বিস্তারিত ডাউনলোড করুন
+downloads-clear-downloads-button =
+    .label = ডাউনলোড অপসারণ
+    .tooltiptext = সম্পন্ন,বাতিলকৃত এবং ব্যর্থ ডাউনলোডগুলো মুছুন
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = কোন ডাউনলোড নেই।
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = এই সেশনের জন্য কোন ডাউনলোড নেই।
