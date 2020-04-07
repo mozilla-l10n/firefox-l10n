@@ -47,3 +47,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = ഡൌണ്‍ലോഡ് കണ്ണി പകര്‍ത്തുക
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = പട്ടികയില്‍ നിന്നു നീക്കം ചെയ്യുക
+    .accesskey = ക
+downloads-cmd-clear-downloads =
+    .label = ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക
+    .accesskey = ക
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = എല്ലാ ഡൌണ്‍ലോഡുകളും കാണിയ്ക്കുകക
+    .accesskey = ക
+downloads-clear-downloads-button =
+    .label = ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക
+    .tooltiptext = പൂര്‍ത്തിയാക്കിയ, റദ്ദാക്കിയ, പരാജയപ്പെട്ട ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുന്നു
