@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Ma ur yelli d ameɣtu, sens tasɣiwelt n warrum.
 policy-Homepage = Sbadu akked sewḥel ma tebɣiḍ asebter agejdan.
 policy-InstallAddonsPermission = Sireg asebded n izegrar di kra n ismal web.
 policy-LegacyProfiles = Sens tamahilt i ihettmen aseqdec n umaɣnu yemgaraden i yal asebeddi.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Sermed iɣewwaren n tikli tuzwirt n yinagan n tuqqna n SameSite aqdim.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Uɣal ɣer tikli taqdimt n SameSite i yinigan n tuqqna deg yismal i d-yettunefken.
+
+##
+
 policy-LocalFileLinks = Sireg ismal usdiden i useqdec n yiseɣqan ɣer yifuyla idiganen.
 policy-NetworkPrediction = Ad yeǧǧ neɣ ad yegdel tifin n yiẓeḍwa (taɣuri tuzwirt DNS)
 policy-NewTabPage = Ad yermed neɣ ad yessens asebter agejdan n yiccer amaynut.
