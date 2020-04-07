@@ -35,7 +35,7 @@ features-debugger-desc = JavaScript-ის მძლავრი გამმა
 features-network-title = ქსელი
 features-network-desc = თვალი ადევნეთ დაკავშირების მოთხოვნებს, რომელთაც შეუძლია შეანელოს ან შეზღუდოს საიტთან წვდომა. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = საცავების მართვა
-features-storage-desc = დაამატეთ, შეცვალეთ ან გააუქმეთ კეში, ფუნთუშები, ბაზები და სეანსის მონაცემები. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-desc = დაამატეთ, შეცვალეთ ან გააუქმეთ დროებითი ფაილები, ფუნთუშები, ბაზები და სეანსის მონაცემები. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = თავსებადი იერსახე
 features-responsive-desc = გამოცადეთ საიტები ვირტუალურ მოწყობილობებზე, თქვენს ბრაუზერშივე. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = იერსახის შესწორება

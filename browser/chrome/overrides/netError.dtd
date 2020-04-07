@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "დაკავშირება ვერ მოხერხდა">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "ეს მისამართი შეზღუდულია უსაფრთხოების მიზნით">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "გვერდი ვერ მოიძებნა">
@@ -33,12 +35,14 @@
 ">
 
 <!ENTITY fileNotFound.title "ფაილი ვერ მოიძებნა">
+
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>შეამოწმეთ ფაილის სახელი მთავრულების გათვალისწინებით ან სხვა შეცდომებზე.</li> 
 <li>შეამოწმეთ, ხომ არაა ფაილი გადატანილი, გადარქმეული ან წაშლილი.</li> 
 </ul>">
 
 <!ENTITY fileAccessDenied.title "ფაილზე წვდომა უარყოფილია.">
+
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>ის შესაძლოა წაშლილიყო, გადატანილიყო ან ფაილის უფლებები წვდომას არ უშვებს.</li>
@@ -46,6 +50,7 @@
 ">
 
 <!ENTITY generic.title "მოთხოვნის დასრულება ვერ ხერხდება">
+
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ვერ ახერხებს ამ გვერდის ჩატვირთვას გაურკვეველი მიზეზით.</p>
 ">
@@ -62,12 +67,15 @@
 <!ENTITY malformedURI.title1 "ჰმ. ეს მისამართი არ ჰგავს ნამდვილს.">
 
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "შიგთავსი ვადაგასულია">
-<!ENTITY notCached.longDesc "<p>მოთხოვნილი შიგთავსი არაა ხელმისაწვდომი ადგილობრივად, სადაც მას &brandShortName; კავშირგარეშედ ინახავს.</p><ul><li>უსაფრთხოების მიზნით, &brandShortName; დაუკითხავად არ ითხოვს ხოლმე საიტიდან მნიშვნელოვანი მასალის ხელახლა ჩამოტვირთვას.</li><li>ჩამოტვირთვის ხელმეორედ მოთხოვნისთვის, დააწკაპეთ ღილაკზე „სცადეთ ხელახლა“.</li></ul>">
+
+<!ENTITY notCached.longDesc "<p>მოთხოვნილი შიგთავსი არაა ხელმისაწვდომი ადგილობრივად, სადაც მას &brandShortName; დროებით ინახავს.</p><ul><li>უსაფრთხოების მიზნით, &brandShortName; დაუკითხავად არ ითხოვს ხოლმე საიტიდან მნიშვნელოვანი მასალის ხელახლა ჩამოტვირთვას.</li><li>ჩამოტვირთვის ხელმეორედ მოთხოვნისთვის, დააწკაპეთ ღილაკზე „სცადეთ ხელახლა“.</li></ul>">
 
 <!ENTITY netOffline.title "კავშირგარეშე რეჟიმი">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>დააწექით „სცადეთ ხელახლა“ ღილაკს ინტერნეტში გასასვლელად და გვერდის ხელახლა გასახსნელად.</li>
@@ -75,6 +83,7 @@
 ">
 
 <!ENTITY contentEncodingError.title "შეცდომა შიგთავსის კოდირებაში">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>გთხოვთ, დაუკავშირდეთ ვებსაიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li>
@@ -82,6 +91,7 @@
 ">
 
 <!ENTITY unsafeContentType.title "სახიფათი სახის ფაილი">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li>
@@ -89,12 +99,15 @@
 ">
 
 <!ENTITY netReset.title "კავშირი გაწყდა">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "კავშირის დრო ამოიწურა">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "მისამართი გაუგებარია">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>ამ მისამართის გასახსნელად, შესაძლოა სხვა პროგრამის დაყენება იყოს საჭირო.</li>
@@ -102,6 +115,7 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "პროქსი სერვერმა კავშირი უარყო">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>გადაამოწმეთ პროქსის პარამეტრები და დარწმუნდით მათ მართებულობაში.</li>
@@ -111,6 +125,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "პროქსი სერვერის პოვნა ვერ ხერხდება">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>გადაამოწმეთ პროქსის პარამეტრები და დარწმუნდით მათ მართებულობაში.</li>
@@ -121,6 +136,7 @@
 ">
 
 <!ENTITY redirectLoop.title "გვერდი არამართებულად გადამისამართდა">
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>ამ ხარვეზს, ზოგჯერ იწვევს ფუნთუშების გამორთვა ან
@@ -129,6 +145,7 @@
 ">
 
 <!ENTITY unknownSocketType.title "გაუთვალისწინებელი პასუხი სერვერიდან">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>შეამოწმეთ და დარწმუნდით რომ თქვენს სისტემაში პირადი უსაფრთხოების მმართველი
@@ -138,6 +155,7 @@
 ">
 
 <!ENTITY nssFailure2.title "უსაფრთხო დაკავშირება ვერ მოხერხდა">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ შეუძლებელია, რადგან მიღებული მონაცემების ნამდვილობის დადასტურება ვერ ხერხდება.</li>
@@ -147,6 +165,7 @@
 
 <!ENTITY certerror.longpagetitle2 "ფრთხილად: სახიფათოა">
 <!ENTITY certerror.sts.longpagetitle  "ვერ დაუკავშირდა: სავარაუდოდ უსაფრთხოების ხარვეზის გამო">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -185,12 +204,15 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "შეზღუდულია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ზღუდავს ამ გვერდს, ვინაიდან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
 <!ENTITY xfoBlocked.title "ზღუდავს დებულება X-Frame-Options">
+
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ზღუდავს ამ გვერდის მოცემული გზით ჩატვირთვას, ვინაიდან მისი დებულება X-Frame-Options კრძალავს ამას.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "დაზიანებული შიგთავსის შეცდომა">
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ, ვერ ხერხდება, მონაცემთა გადაცემისას აღმოჩენილი შეცდომის გამო.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ, ამ ხარვეზის შესახებ.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "საფრთხის გაცნობიერება და გაგრძელება">
@@ -199,9 +221,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "ვრცლად…">
 
 <!ENTITY remoteXUL.title "დისტანციური XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>გთხოვთ, დაუკავშირდეთ ვებსაიტის მფლობელებს და მოახსენოთ ამ ხარვეზის შესახებ.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "უსაფრთხო კავშირი ვერ ხერხდება">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "დამატებითი ინფორმაცია: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -212,6 +236,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "ტექსტის ასლის აღება">
 
 <!ENTITY inadequateSecurityError.title "კავშირი დაუცველია">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> იყენებს უსაფრთხოების ისეთ საშუალებას, რომელიც მოძველებული და დაუცველია. შემტევმა შესაძლოა მარტივად მიიღოს იმ მონაცემებზე წვდომა, რომლებიც დაცულად მიგაჩნიათ. საიტზე შესვლამდე, აუცილებელია მისმა ხელმძღვანელობამ ეს ხარვეზი აღმოფხვრას.</p><p>შეცდომის კოდი: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -219,6 +244,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "გვერდი შეზღუდულია">
 
 <!ENTITY certerror.mitm.title "პროგრამის მიერ შეზღუდვის გამო, &brandShortName; ვერ ახერხებს საიტთან უსაფრთხოდ დაკავშირებას">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> წესით უსაფრთხო საიტი უნდა იყოს, თუმცა დაცული კავშირის დამყარება ვერ ხერხდება. ამას გამომწვევია <span class='mitm-name'/>, რომელიც ან თქვენი კომპიუტერის პროგრამაა, ან თქვენი ქსელის.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "თუ თქვენს ანტივირუსს გააჩნია დაშიფრული კავშირების შემოწმების შესაძლებლობა (უმეტესად აღნიშნავენ დასახელებით „web scanning“ ან „https scanning“), შეგიძლია მისი გამორთვა სცადოთ. თუ ეს არ უშველის, სცადეთ ანტივირუსის სრულად ამოშლა და ხელახლა დაყენება.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "თუ დაწესებულების ქსელით სარგებლობთ, დაუკავშირდით ქსელის მართვის განყოფილებას.">
@@ -226,6 +252,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "თუ არ გეცნობათ <span class='mitm-name'/>, მაშინ შეიძლება თავდასხმას ჰქონდეს ადგილი და ვერ შეძლებთ საიტთან წვდომას.">
 
 <!ENTITY clockSkewError.title "საათი თქვენს კომპიუტერზე არეულია">
+
 <!ENTITY clockSkewError.longDesc "თქვენი კომპიუტერი მიიჩნევს, რომ არის <span id='wrongSystemTime_systemDate1'/>, რის გამოც &brandShortName; ვერ ახერხებს უსაფრთხოდ დაუკავშირდეს საიტს. იმისთვის რომ მოინახულოთ <span class='hostname'></span>, გაასწორეთ თქვენი კომპიუტერის სისტემის პარამეტრებიდან დრო, თარიღი და სასაათე სარტყელი, შემდეგ კი ხელახლა გახსენით <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "შესაძლოა ამის მიზეზს, თქვენ მიერ მითითებული, ქსელის უსაფრთხოების პარამეტრები წარმოადგენდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?">
@@ -236,4 +263,5 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "ჩაირთოს TLS 1.0 და 1.1">
 
 <!ENTITY networkProtocolError.title "ქსელის ოქმის შეცდომა">
+
 <!ENTITY networkProtocolError.longDesc "<p>გვერდი რომლის მონახულებასაც ცდილობთ ვერ გამოჩნდება, ვინაიდან ქსელის ოქმში აღმოჩენილია შეცდომა.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li></ul>">
