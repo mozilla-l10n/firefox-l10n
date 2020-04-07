@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Isadaren
+downloads-panel =
+    .aria-label = Isadaren
 
 ##
 
@@ -46,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Sken-d di Finder
            *[other] Ldi akaram igebren afaylu
         }
+downloads-cmd-show-downloads =
+    .label = Sken-d akaram n yisadaren
 downloads-cmd-retry =
     .tooltiptext = Ɛreḍ i tikelt-nniḍen
 downloads-cmd-retry-panel =
@@ -104,7 +110,23 @@ downloads-retry-download =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Sefsex azdam
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Sken akkw yIsadaren
+    .accesskey = w
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Talqayt n usider
+downloads-clear-downloads-button =
+    .label = Sfeḍ isadaren
+    .tooltiptext = Sfeḍ isadaren immden, ifesxen neɣ wid ur neddi ara
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Ulac isadaren.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Ulac yisadaren deg tɣimit-a.
