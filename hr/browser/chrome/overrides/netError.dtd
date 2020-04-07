@@ -148,14 +148,10 @@ was trying to connect. -->
 <!ENTITY certerror.unknownIssuer.whatCanYouDoAboutIt "<p>Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.</p>
 <p>Ukoliko se nalaziš u korporativnoj mreži ili koristiš antivirusni program, za pomoć možeš kontaktirati timove za podršku. O problemu možeš obavijestiti i administratora web stranice.</p>">
 
-<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "
-<p>Sat tvog računala je postavljen na <span id='wrongSystemTime_systemDate2'/>. Provjeri da li je tvoje računalo postavljeno na ispravan datum, vrijeme i vremensku zonu u postavkama sustava i onda osvježi <span class='hostname'/>.</p>
-<p>Ukoliko je tvoj sat već postavljen na ispravno vrijeme, web stranica je vjerojatno pogrešno konfigurirana i ne možeš ništa učiniti kako bi se riješio ovaj problem. Možeš obavijestiti administratora web stranice o ovom problemu.</p>
-">
+<!ENTITY certerror.expiredCert.whatCanYouDoAboutIt2 "<p>Sat tvog računala postavljen je na <span id='wrongSystemTime_systemDate2'/>. Provjeri datum, vrijeme i vremensku zonu u postavkama sustava i onda osvježi <span class='hostname'/>.</p>
+<p>Ukoliko je tvoj sat već postavljen na ispravno vrijeme, web-stranica je vjerojatno pogrešno konfigurirana i ne možeš ništa učiniti kako bi se riješio ovaj problem. Možeš obavijestiti administratora web-stranice o ovom problemu.</p>">
 
-<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "
-<p>Problem je najvjerojatnije povezan s web stranicom i ne možete ništa učiniti da biste ga riješili. Možete obavijestiti administratora web stranice o ovom problemu.</p>
-">
+<!ENTITY certerror.badCertDomain.whatCanYouDoAboutIt "<p>Problem se najvjerojatnije nalazi u web-stranici i ne možeš ništa učiniti, kako bi se problem riješio.. Možeš obavijestiti administratora web-stranice o ovom problemu.</p>">
 
 <!ENTITY sharedLongDesc "<ul> <li>Ova je stranica privremeno nedostupna ili prezauzeta. Pokušaj ponovo za nekoliko trenutaka.</li> <li>Ako ne možeš učitati niti jednu stranicu, provjeri mrežne postavke tvog računala.</li> <li>Ako je tvoje računalo ili mreža zaštićena vatrozidom ili proxyem, provjeri ima li &brandShortName; dozvolu pristupiti Internetu.</li> </ul>">
 
@@ -205,7 +201,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ukoliko tvoj antivirusni program uključuje mogućnost skeniranja sigurnih veza (koje se često zove “web skeniranje” ili “https skeniranje”), možeš isključiti ovu mogućnost. Ukoliko to ne riješi problem, možeš ukloniti i ponovo instalirati antivirusni program.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ukoliko se nalazite u korporativnoj mreži, možete kontaktirati svoj IT odjel.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne biste trebali nastaviti na tu stranicu.">
-<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ukoliko vam <span class='mitm-name'/> nije poznata, ovo bi možda mogao biti napad i ne možete ništa učiniti kako biste pristupili stranici.">
+<!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ukoliko ne poznaš <span class='mitm-name'/>, ovo bi možda mogao biti napad i ne možeš ništa učiniti kako bi pristupio/la stranici.">
 
 <!ENTITY clockSkewError.title "Sat na računalu je pogrešan">
 
