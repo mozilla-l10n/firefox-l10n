@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Dayandır
     .accesskey = y
@@ -45,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Finderdə göstər
            *[other] Yerləşdiyi Qovluğu Aç
         }
+downloads-cmd-show-downloads =
+    .label = Endirmələr Qovluğunu Göstər
 downloads-cmd-retry =
     .tooltiptext = Təkrar yoxla
 downloads-cmd-retry-panel =
@@ -61,6 +68,9 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-list =
     .label = Ön baxış panelini təmizlə
     .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = Endirmələri Təmizlə
+    .accesskey = t
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Endirməyə icazə ver
@@ -106,6 +116,13 @@ downloads-cancel-download =
 downloads-history =
     .label = Bütün endirmələri göstər
     .accesskey = s
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Endirmə Məlumatları
+downloads-clear-downloads-button =
+    .label = Endirmələri Təmizlə
+    .tooltiptext = Tamamlanan, ləğv edilən və uğursuz olan endirmələr təmizləyir
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
