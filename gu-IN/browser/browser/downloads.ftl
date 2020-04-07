@@ -47,6 +47,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = ડાઉનલોડ કડીની નકલ કરો
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = ઇતિહાસમાંથી દૂર કરો
+    .accesskey = e
+downloads-cmd-clear-downloads =
+    .label = ડાઉનલોડને સાફ કરો
+    .accesskey = D
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = બધા ડાઉનલોડને બતાવો
+    .accesskey = S
 downloads-clear-downloads-button =
     .label = ડાઉનલોડ સાફ કરો
     .tooltiptext = પૂર્ણ થયેલ, રદ થયેલ અને નિષ્ફળ થયેલ ડાઉનલોડને સાફ કરે છે
