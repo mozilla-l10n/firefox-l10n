@@ -15,6 +15,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = पुन्हा सुरू करा
     .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = रद्द करा
+downloads-cmd-cancel-panel =
+    .aria-label = रद्द करा
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = समाविष्टीत फोल्डर उघडा
@@ -50,9 +54,35 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = इतिहासातून काढून टाका
     .accesskey = e
+downloads-cmd-clear-list =
+    .label = पूर्वावलोकन फलक साफ करा
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = डाउनलोड्स नष्ट करा
     .accesskey = D
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = डाउनलोडची परवानगी द्या
+    .accesskey = o
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = फाइल हटवा
+downloads-cmd-remove-file-panel =
+    .aria-label = फाइल हटवा
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = फाइल हटवा किंवा डाउनलोडची परवानगी द्या
+downloads-cmd-choose-unblock-panel =
+    .aria-label = फाइल हटवा किंवा डाउनलोडची परवानगी द्या
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = फाइल उघडा किंवा हटवा
+downloads-cmd-choose-open-panel =
+    .aria-label = फाइल उघडा किंवा हटवा
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
