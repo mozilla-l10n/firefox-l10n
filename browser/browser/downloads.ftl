@@ -51,9 +51,38 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Kopiera filhämtningslänk
     .accesskey = K
+downloads-cmd-remove-from-history =
+    .label = Ta bort från historik
+    .accesskey = T
+downloads-cmd-clear-list =
+    .label = Rensa förhandsgranskningsruta
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Rensa hämtningar
     .accesskey = h
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Tillåt hämtning
+    .accesskey = m
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Ta bort fil
+downloads-cmd-remove-file-panel =
+    .aria-label = Ta bort fil
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Ta bort fil eller tillåt hämtning
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Ta bort fil eller tillåt hämtning
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Öppna eller ta bort fil
+downloads-cmd-choose-open-panel =
+    .aria-label = Öppna eller ta bort fil
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
