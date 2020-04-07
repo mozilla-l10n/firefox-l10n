@@ -47,6 +47,8 @@ downloads-cmd-show-description =
             [macos] نمایش در یابنده
            *[other] باز کردن پوشهٔ محتوی پرونده
         }
+downloads-cmd-show-downloads =
+    .label = باز کردن پوشه بارگیری‌ها
 downloads-cmd-retry =
     .tooltiptext = کوشش دوباره
 downloads-cmd-retry-panel =
