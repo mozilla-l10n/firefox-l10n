@@ -45,3 +45,7 @@ downloads-cmd-show-description =
             [macos] Vis i Finder
            *[other] Åbn hentningsmappe
         }
+downloads-cmd-retry =
+    .tooltiptext = Prøv igen
+downloads-cmd-retry-panel =
+    .aria-label = Prøv igen
