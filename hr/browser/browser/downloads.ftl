@@ -52,6 +52,10 @@ downloads-cmd-show-description =
         }
 downloads-cmd-show-downloads =
     .label = Prikaži mapu preuzimanja
+downloads-cmd-retry =
+    .tooltiptext = Pokušaj ponovo
+downloads-cmd-retry-panel =
+    .aria-label = Pokušaj ponovo
 downloads-cmd-go-to-download-page =
     .label = Idi na stranicu preuzimanja
     .accesskey = I
@@ -61,6 +65,12 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Ukloni iz povijesti
     .accesskey = s
+downloads-cmd-clear-list =
+    .label = Obriši ploču pregleda
+    .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = Obriši preuzimanja
+    .accesskey = e
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Dozvoli preuzimanje
@@ -110,6 +120,9 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalji preuzimanja
+downloads-clear-downloads-button =
+    .label = Obriši preuzimanja
+    .tooltiptext = Briše dovršena, otkazana i neuspjela preuzimanja
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
