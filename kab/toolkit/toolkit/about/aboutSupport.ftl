@@ -291,6 +291,7 @@ startup-cache-title = Tanekkra tuffirt
 startup-cache-disk-cache-path = Abrid n uḍbsi n tuffra
 startup-cache-ignore-disk-cache = Eǧǧ aḍebsi n tuffra
 startup-cache-found-disk-cache-on-init = Aḍebsi n tuffra yettwaf deg Init
+startup-cache-wrote-to-disk-cache = Aru deg uḍebsi n tuffra
 launcher-process-status-0 = Irmed
 launcher-process-status-1 = Yensa ɣef sebba n tuccḍa
 launcher-process-status-2 = Arurmid s tedusi
