@@ -13,9 +13,17 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Pausa
     .accesskey = P
+downloads-cmd-resume =
+    .label = Reprendre
+    .accesskey = R
 downloads-cmd-cancel =
     .tooltiptext = Anullar
 downloads-cmd-cancel-panel =
@@ -42,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Dobrir dins lo Finder
            *[other] Dobrir lo repertòri que conten lo fichièr
         }
+downloads-cmd-show-downloads =
+    .label = Mostrar lo dossièr dels telecargaments
 downloads-cmd-retry =
     .tooltiptext = Tornar ensajar
 downloads-cmd-retry-panel =
@@ -49,9 +59,18 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = Anar a la pagina de telecargament
     .accesskey = A
+downloads-cmd-copy-download-link =
+    .label = Copiar l'adreça d'origina del telecargament
+    .accesskey = C
+downloads-cmd-remove-from-history =
+    .label = Levar de la lista
+    .accesskey = e
 downloads-cmd-clear-list =
     .label = Escafar lo panèl d'apercebut
     .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = Escafar los telecargaments
+    .accesskey = E
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Autorizar los telecargaments
