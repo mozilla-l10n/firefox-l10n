@@ -9,7 +9,7 @@ sync-disconnect-heading = ამასთან, გნებავთ წაი
 sync-disconnect-remove-sync-caption = { -sync-brand-name(case: "gen") } მონაცემების წაშლა
 sync-disconnect-remove-sync-data = სანიშნები, ისტორია, პაროლები და ა. შ.
 sync-disconnect-remove-other-caption = სხვა პირადი მონაცემების წაშლა
-sync-disconnect-remove-other-data = ფუნთუშები, კეში, საიტების კავშირგარეშე მონაცემები და ა. შ.
+sync-disconnect-remove-other-data = ფუნთუშები, დროებითი ფაილები, საიტების კავშირგარეშე მონაცემები და ა. შ.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = ითიშება...
 sync-disconnect-cancel =
