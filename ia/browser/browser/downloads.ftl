@@ -59,12 +59,18 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = Ir al pagina de discargamento
     .accesskey = G
+downloads-cmd-copy-download-link =
+    .label = Copiar le ligamine de discargamento
+    .accesskey = L
 downloads-cmd-remove-from-history =
     .label = Remover del chronologia
     .accesskey = e
 downloads-cmd-clear-list =
     .label = Vacuar le pannello de vista preliminar
     .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = Vacuar discargamentos
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permitter le discargamento
@@ -114,6 +120,9 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalios del discargamento
+downloads-clear-downloads-button =
+    .label = Vacuar discargamentos
+    .tooltiptext = Vacua le lista de discargamentos complete, cancellate e fallite
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
