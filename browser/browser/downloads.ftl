@@ -89,6 +89,18 @@ downloads-cmd-choose-open =
     .tooltiptext = ගොනු විවෘත හෝ ඉවත් කරන්න
 downloads-cmd-choose-open-panel =
     .aria-label = ගොනු විවෘත හෝ ඉවත් කරන්න
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = ගොනුව විවෘත කරන්න
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = බාගත කිරීම නැවත උත්සාහ කරන්න
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = බාගත කිරීම අවලංගු කරන්න
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
