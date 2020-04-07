@@ -47,9 +47,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Dèan lethbhreac dhen cheangal luchdaidh
     .accesskey = l
+downloads-cmd-remove-from-history =
+    .label = Thoir air falbh on eachdraidh
+    .accesskey = e
+downloads-cmd-clear-downloads =
+    .label = Falamhaich na chaidh a luchdadh a-nuas
+    .accesskey = d
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Seall gach rud a chaidh a luchdadh a-nuas
     .accesskey = S
+downloads-clear-downloads-button =
+    .label = Falamhaich na chaidh a luchdadh a-nuas
+    .tooltiptext = Falamhaichidh seo na chaidh a luchdadh a-nuas, a' gabhail a-steach feadhainn a sguireadh dhiubh no a dh'fhàillig
