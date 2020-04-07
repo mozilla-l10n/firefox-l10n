@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Avaa Finderissa
            *[other] Avaa tallennuskansio
         }
+downloads-cmd-show-downloads =
+    .label = Näytä latauskansio
 downloads-cmd-retry =
     .tooltiptext = Yritä uudestaan
 downloads-cmd-retry-panel =
@@ -58,20 +60,61 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Poista historiasta
     .accesskey = h
+downloads-cmd-clear-list =
+    .label = Tyhjennä esikatselupaneeli
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Tyhjennä latauslista
     .accesskey = a
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Salli lataus
+    .accesskey = S
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Poista tiedosto
 downloads-cmd-remove-file-panel =
     .aria-label = Poista tiedosto
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Poista tiedosto tai salli lataus
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Poista tiedosto tai salli lataus
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Avaa tai poista tiedosto
+downloads-cmd-choose-open-panel =
+    .aria-label = Avaa tai poista tiedosto
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Näytä lisätietoja
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Avaa tiedosto
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Yritä ladata uudestaan
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Peruuta lataus
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Näytä kaikki lataukset
     .accesskey = N
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Latauksen yksityiskohdat
 downloads-clear-downloads-button =
     .label = Tyhjennä latauslista
     .tooltiptext = Poistaa listalta valmistuneet, peruutetut ja epäonnistuneet lataukset
