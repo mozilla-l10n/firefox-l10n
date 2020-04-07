@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "새 도구 모음 추가">
 <!ENTITY showTitlebar.label       "제목 표시줄 표시">
 <!ENTITY extraDragSpace.label     "드래그 영역 추가">
+<!ENTITY showTitlebar2.label      "제목 표시 줄">
+<!ENTITY extraDragSpace2.label    "드래그 공간">
 <!ENTITY saveChanges.label        "완료">
 <!ENTITY undoChanges.label        "변경사항 취소">
