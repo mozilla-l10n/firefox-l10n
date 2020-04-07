@@ -58,6 +58,13 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Scancella da-a stöia
     .accesskey = n
+downloads-cmd-clear-list =
+    .label = Scancella Panello Anteprimma
+    .accesskey = a
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Permetti descaregamento
+    .accesskey = o
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
