@@ -15,11 +15,32 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Kemmel
     .accesskey = l
+downloads-cmd-cancel =
+    .tooltiptext = Sefsex
+downloads-cmd-cancel-panel =
+    .aria-label = Sefsex
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Ldi akaram igebren afaylu
     .tooltiptext = { downloads-cmd-show.label }
     .accesskey = L
+# This message is only displayed on macOS devices
+downloads-cmd-show-mac =
+    .label = Sken-d di Finder
+    .tooltiptext = { downloads-cmd-show-mac.label }
+    .accesskey = F
+downloads-cmd-show-panel =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Sken-d di Finder
+           *[other] Ldi akaram igebren afaylu
+        }
+downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Sken-d di Finder
+           *[other] Ldi akaram igebren afaylu
+        }
 downloads-cmd-remove-from-history =
     .label = Kkes seg umazray
     .accesskey = K
@@ -49,3 +70,19 @@ downloads-cmd-choose-open =
     .tooltiptext = Ldi neɣ kkes afaylu
 downloads-cmd-choose-open-panel =
     .aria-label = Ldi neɣ kkes afaylu
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Sken ugar n telɣut
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Ldi afaylu
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Sefsex azdam
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Talqayt n usider
