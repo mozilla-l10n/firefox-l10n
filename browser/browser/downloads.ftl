@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Паказаць у шукальніку
            *[other] Адкрыць змяшчальную папку
         }
+downloads-cmd-show-downloads =
+    .label = Паказаць папку сцягванняў
 downloads-cmd-retry =
     .tooltiptext = Паўтарыць
 downloads-cmd-retry-panel =
@@ -109,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Паказаць усе сцягванні
     .accesskey = у
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Падрабязнасці сцягвання
 downloads-clear-downloads-button =
     .label = Ачысціць сцягванні
     .tooltiptext = Ачысціць скончаныя, скасованыя і няўдачныя сцягванні
@@ -116,3 +122,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Няма сцягванняў.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Няма сцягванняў у гэтым сеансе.
