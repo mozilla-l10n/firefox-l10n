@@ -15,6 +15,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Nastavi
     .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = Otkaži
+downloads-cmd-cancel-panel =
+    .aria-label = Otkaži
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Otvori direktorij u kojem se nalazi
@@ -44,12 +48,41 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = Idi na stranicu za preuzimanje
     .accesskey = G
+downloads-cmd-copy-download-link =
+    .label = Kopiraj link za preuzimanje
+    .accesskey = l
 downloads-cmd-remove-from-history =
     .label = Ukloni iz historije
     .accesskey = e
+downloads-cmd-clear-list =
+    .label = Očisti panel za pregled
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Obriši preuzimanja
     .accesskey = p
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Dozvoli preuzimanje
+    .accesskey = o
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Ukloni fajl
+downloads-cmd-remove-file-panel =
+    .aria-label = Ukloni fajl
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Ukloni fajl ili dozvoli preuzimanje
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Ukloni fajl ili dozvoli preuzimanje
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Otvori ili ukloni fajl
+downloads-cmd-choose-open-panel =
+    .aria-label = Otvori ili ukloni fajl
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
