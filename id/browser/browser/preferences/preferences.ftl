@@ -1074,7 +1074,7 @@ security-block-uncommon-software =
 ## Privacy Section - Certificates
 
 certs-header = Sertifikat
-certs-personal-label = Saat peladen meminta sertifikat pribadi Anda
+certs-personal-label = Saat server meminta sertifikat pribadi Anda
 certs-select-auto-option =
     .label = Pilih satu secara otomatis
     .accesskey = s
@@ -1082,7 +1082,7 @@ certs-select-ask-option =
     .label = Tanyakan setiap saat
     .accesskey = T
 certs-enable-ocsp =
-    .label = Kueri peladen penjawab OCSP untuk mengonfirmasikan validitas sertifikat
+    .label = Kueri server penjawab OCSP untuk mengonfirmasikan validitas sertifikat
     .accesskey = v
 certs-view =
     .label = Tampilkan Sertifikat…
