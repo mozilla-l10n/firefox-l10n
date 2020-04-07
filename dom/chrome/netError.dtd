@@ -74,7 +74,7 @@
 </ul>">
 
 <!ENTITY securityOverride.linkText "Ili možete dodati iznimku…">
-<!ENTITY securityOverride.warningContent "<p>Ne biste trebali dodavati iznimke ako koristite vezu prema Internetu kojoj ne vjerujete u potpunosti ili ako niste ranije viđali upozorenje za ovaj poslužitelj.</p> <p>Ako ipak želite dodati iznimku za ovu stranicu, to možete učiniti u naprednim postavkama enkripcije.</p>">
+<!ENTITY securityOverride.warningContent "<p>Nemoj dodavati iznimke ako koristiš internetsku vezu kojoj ne vjeruješ u potpunosti ili ako nisi ranije viđao/la upozorenje za ovaj poslužitelj.</p> <p>Ako ipak želiš dodati iznimku za ovu stranicu, to možeš učiniti u naprednim postavkama šifriranja.</p>">
 
 <!ENTITY cspBlocked.title "Blokirala sigurnosna politika sadržaja">
 <!ENTITY cspBlocked.longDesc "<p>Preglednik je zaustavio učitavanje ove stranice na ovaj način jer stranica ima sigurnosnu politiku sadržaja koja to zabranjuje.</p>">
