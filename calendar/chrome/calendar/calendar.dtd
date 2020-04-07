@@ -50,7 +50,7 @@
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "კატეგორიებით დალაგება">
 <!ENTITY calendar.unifinder.tree.location.label            "მისამართი">
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "მდებარეობის მიხედვით დალაგება">
-<!ENTITY calendar.unifinder.tree.status.label              "სტატუსი">
+<!ENTITY calendar.unifinder.tree.status.label              "მდგომარეობა">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "მდგომარეობის მიხედვით დალაგება">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "კალენდრის სახელი">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "კალენდრის სახელით დალაგება">
