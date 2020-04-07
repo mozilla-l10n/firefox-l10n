@@ -50,6 +50,8 @@ downloads-cmd-show-description =
             [macos] দূরবীক্ষন যন্ত্রে প্রদর্শন
            *[other] ধারণকারী ফোল্ডার খুলুন
         }
+downloads-cmd-show-downloads =
+    .label = ডাউনলোড ফোল্ডার দেখান
 downloads-cmd-retry =
     .tooltiptext = পুনরায় প্রচেষ্টা
 downloads-cmd-retry-panel =
@@ -114,6 +116,10 @@ downloads-cancel-download =
 downloads-history =
     .label = সকল ডাউনলোড দেখাও
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = ডাউনলোডের বিবরণ
 downloads-clear-downloads-button =
     .label = ডাউনলোড পরিষ্কার করুন
     .tooltiptext = সকল ডাউনলোড মুছে ফেলা হোক
