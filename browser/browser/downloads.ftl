@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Descargas
+downloads-panel =
+    .aria-label = Descargas
 
 ##
 
@@ -71,3 +75,7 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Eliminar descargas
     .tooltiptext = Limpieza completa, descargas canceladas y fallidas
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = No hay más descargas.
