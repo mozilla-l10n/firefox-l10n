@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Taq qasanïk
+downloads-panel =
+    .aria-label = Taq qasanïk
 
 ##
 
@@ -41,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Tik'ut pe pan ilonel
            *[other] Tijaq ri yaksamaj k'o rupam
         }
+downloads-cmd-show-downloads =
+    .label = Tik'ut pe Kiyakwuj taq Qasanïk
 downloads-cmd-retry =
     .tooltiptext = Titojtob'ëx chik
 downloads-cmd-retry-panel =
@@ -83,12 +89,39 @@ downloads-cmd-choose-open =
     .tooltiptext = Tijaq o telesäx el ri yakb'äl
 downloads-cmd-choose-open-panel =
     .aria-label = Tijaq o telesäx el ri yakb'äl
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Kek'ut pe ch'aqa' chik rutzijol
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Tijaq yakb'äl
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Titojtob'ëx chik qasanïk
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Tiq'at qasanïk
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Kekut pe ronojel ri qasan
     .accesskey = K
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Rub'anikil Qasanïk
 downloads-clear-downloads-button =
     .label = Kejosq'ïx taq Qasanïk
     .tooltiptext = Tijosq'ïx ronojel, q'aton chuqa' man ütz ta taq qasanïk
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Majun chik qasan
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Majun ruqasanik re molojri'ïl re'.
