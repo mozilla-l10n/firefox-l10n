@@ -111,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Mostrar todas las descargas
     .accesskey = M
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detalles de la descarga
 downloads-clear-downloads-button =
     .label = Limpiar descargas
     .tooltiptext = Limpia descargas completas, canceladas y fallidas
