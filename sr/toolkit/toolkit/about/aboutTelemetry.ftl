@@ -21,6 +21,7 @@ about-telemetry-more-information = Тражите више података?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox документација података</a> садржи водиче о томе како радити са нашим алатима за податке.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox документација телеметрије клијента</a> укључује дефиниције концепта, API документацију и референце података.
 about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Командна табла телеметрије</a> вам дозвољава да визуелно прикажете податке које Mozilla прима путем телеметрије.
+about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Речник узорака пружа детаље и описе за узорке прикупљене телеметријом.</a>
 about-telemetry-show-in-Firefox-json-viewer = Отвори у JSON приказивачу
 about-telemetry-home-section = Почетна
 about-telemetry-general-data-section = Општи подаци
@@ -57,6 +58,17 @@ about-telemetry-upload-type =
         [enabled] омогућено
        *[disabled] онемогућено
     }
+# Example Output: 1 sample, average = 0, sum = 0
+# Variables:
+#   $sampleCount (Integer): amount of histogram samples
+#   $prettyAverage (Integer): average of histogram samples
+#   $sum (Integer): sum of histogram samples
+about-telemetry-histogram-stats =
+    { $sampleCount ->
+        [one] { $sampleCount } узорак, просек = { $prettyAverage }, збир = { $sum }
+        [few] { $sampleCount } узорка, просек = { $prettyAverage }, збир = { $sum }
+       *[other] { $sampleCount } узорака, просек = { $prettyAverage }, збир = { $sum }
+    }
 # Variables:
 #   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
 about-telemetry-page-subtitle = Ова страница ће приказати информације о перфомансама, хардверу, потрошњи и прилагођењу које је прикупила телеметрија. Ове информације ће бити послате { $telemetryServerOwner }-и да би се побољшао { -brand-full-name }.
@@ -66,6 +78,7 @@ about-telemetry-settings-explanation = Телеметрија сакупља { a
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Сваки део информације је послат у комплету у “<a data-l10n-name="ping-link">пингове</a>”. Ви гледате у { $name }, { $timestamp } пинг.
 about-telemetry-ping-details-current = Сваки део информације је послат у комплету у “<a data-l10n-name="ping-link">пингове</a>”. Ви гледате у тренутно пинг.
+about-telemetry-data-details-current = Сваки делић података се шаље у пакетима под називом"<a data-l10n-name="ping-link">пинг</a>“. Ви гледате тренутне податке.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -128,7 +141,12 @@ about-telemetry-category-header = категорија
 about-telemetry-method-header = метода
 about-telemetry-object-header = објекат
 about-telemetry-extra-header = додатно
+about-telemetry-origin-section = Origin Telemetry
+about-telemetry-origin-origin = извор
 about-telemetry-origin-count = број
+# Variables:
+#   $telemetryServerOwner (String): the value of the toolkit.telemetry.server_owner preference. Typically "Mozilla"
+about-telemetry-origins-explanation = <a data-l10n-name="origin-doc-link">Firefox Origin Telemetry</a> кодира податке пре слања тако да { $telemetryServerOwner } може пребројати ствари, али не може знати да ли неки { -brand-product-name } доприноси том броју. (<a data-l10n-name="prio-blog-link">сазнајте више</a>)
 # Variables:
 #  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
 about-telemetry-process = { $process } процес
