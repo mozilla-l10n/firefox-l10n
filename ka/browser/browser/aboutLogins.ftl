@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = იხილეთ ვრცლა�
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = დაუცველი პაროლი
-about-logins-vulnerable-alert-text = ამ პაროლმა გაჟონა ან მოიპარეს სხვა კომპანიიდან მიტაცების შედეგად. მათი კვლავ გამოყენება, საფრთხის ქვეშ დააყენებს თქვენს ანგარიშებს. ინტერნეტში უსაფრთხოების გასაზრდელად, შეცვალეთ ეს პაროლი.
+about-logins-vulnerable-alert-text2 = ეს პაროლი გამოყენებული იყო სხვა ანგარიშზე, რომელიც მიტაცებულ მონაცემებშია მოხვედრილი. იმავე პაროლის სხვაგან გამოყენება, საფრთხის ქვეშ აყენებს ყველა თქვენს ანგარიშს. შეცვალეთ აღნიშნული პაროლი.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = გადასვლა საიტზე { $hostname }
