@@ -31,7 +31,7 @@ clear-site-data-cookies-info = გასუფთავების შედე
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = კეშირებული ვებშიგთავსი ({ $amount } { $unit })
+    .label = დროებითი ვებშიგთავსი ({ $amount } { $unit })
     .accesskey = ვ
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
@@ -39,7 +39,7 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = კეშირებული ვებშიგთავსი
+    .label = დროებითი ვებშიგთავსი
     .accesskey = ვ
 clear-site-data-cache-info = ვებსაიტები საჭიროებს სურათების და მონაცემების განსაახლებლად
 clear-site-data-cancel =
