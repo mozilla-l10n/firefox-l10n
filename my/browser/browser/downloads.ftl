@@ -109,6 +109,10 @@ downloads-cancel-download =
 downloads-history =
     .label = ဆွဲယူထားသည့်ဖိုင်အားလုံးကို ပြပါ
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = ဆွဲယူထားသည့်ဖိုင်အသေးစိတ်
 downloads-clear-downloads-button =
     .label = ဆွဲယူထားသည့်ဖိုင်များကို ရှင်းလင်းပါ
     .tooltiptext = ဆွဲယူပြီးသောဖိုင်များ၊ မဆွဲယူတော့သောဖိုင်များနှင့် ဆွဲယူမှုမအောင်မြင်သောဖိုင်များကို ရှင်းလင်းပါ
@@ -116,3 +120,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ဆွဲယူထားသည့်ဖိုင်များ မရှိပါ။
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = လောလောဆယ် ဒေါင်းထားသော ဖိုင်များ မရှိ
