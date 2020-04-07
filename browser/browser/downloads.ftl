@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Показати у Finder
            *[other] Відкрити теку з файлом
         }
+downloads-cmd-show-downloads =
+    .label = Показати теку завантажень
 downloads-cmd-retry =
     .tooltiptext = Повторити
 downloads-cmd-retry-panel =
@@ -55,9 +57,52 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Копіювати адресу завантаження
     .accesskey = п
+downloads-cmd-clear-list =
+    .label = Очистити панель перегляду
+    .accesskey = ч
+downloads-cmd-clear-downloads =
+    .label = Очистити завантаження
+    .accesskey = ч
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Дозволити завантаження
+    .accesskey = о
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Вилучити файл
+downloads-cmd-remove-file-panel =
+    .aria-label = Вилучити файл
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Видалити файл або Дозволити завантаження
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Видалити файл або Дозволити завантаження
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Відкрити або Видалити файл
+downloads-cmd-choose-open-panel =
+    .aria-label = Відкрити або Видалити файл
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Показати всі завантаження
     .accesskey = в
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Завантажити подробиці
+downloads-clear-downloads-button =
+    .label = Очистити завантаження
+    .tooltiptext = Очистити завершені, скасовані та невдалі завантаження
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Завантажень немає.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Немає завантажень в цьому сеансі.
