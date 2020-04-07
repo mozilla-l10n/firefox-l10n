@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = { -brand-full-name }를 사용해 주셔서 감사합니다.
+account-settings = 계정 설정
+#   $accounts (Number) - the number of configured accounts
 setup-title = 설정할 항목 선택
 about-title = { -brand-full-name } 정보
 resources-title = 자원
@@ -40,3 +42,10 @@ explore-link = 기능 살펴보기
 support-link = 지원
 involved-link = 참여하기
 developer-link = 개발자 문서
+read = 메시지 읽기
+compose = 새 메시지 작성
+search = 메시지 검색
+filter = 메시지 필터 관리
+nntp-subscription = 뉴스 그룹 구독 관리
+rss-subscription = 피드 구독 관리
+e2e = 종단간 암호화
