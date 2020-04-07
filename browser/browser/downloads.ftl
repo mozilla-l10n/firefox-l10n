@@ -18,6 +18,12 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 70ch
+downloads-cmd-pause =
+    .label = Jeda
+    .accesskey = J
+downloads-cmd-resume =
+    .label = Sambung
+    .accesskey = m
 downloads-cmd-cancel =
     .tooltiptext = Batal
 downloads-cmd-cancel-panel =
@@ -65,6 +71,10 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Buang Muat turun
     .accesskey = B
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Izinkan Muat turun
+    .accesskey = a
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Alih keluar Fail
