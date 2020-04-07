@@ -57,6 +57,12 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = 清除下载记录
     .accesskey = D
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = 显示全部下载项
+    .accesskey = S
 downloads-clear-downloads-button =
     .label = 清除下载项
     .tooltiptext = 清除已完成、已取消及失败的下载项
