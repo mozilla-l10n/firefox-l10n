@@ -166,7 +166,7 @@ breach-alert-text = Lösenord har läckt eller stulits från den här webbplatse
 breach-alert-link = Läs mer om detta intrång.
 breach-alert-dismiss =
     .title = Stäng denna varning
-about-logins-breach-alert-date = Denna intrång inträffade den { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Detta intrång inträffade den { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Gå till { $hostname }
@@ -175,7 +175,6 @@ about-logins-breach-alert-learn-more-link = Läs mer
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Sårbart lösenord
-about-logins-vulnerable-alert-text = Det här lösenordet har läckte ut eller stulits i ett annat företags dataintrång. Återanvända uppgifter riskerar alla dina konton. Ändra det här lösenordet för att förbättra din online-säkerhet.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Gå till { $hostname }
