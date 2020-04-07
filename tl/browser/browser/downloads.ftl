@@ -110,10 +110,23 @@ downloads-retry-download =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Itigil ang Download
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Ipakita ang Lahat ng mga Download
+    .accesskey = S
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalye ng mga Download
+downloads-clear-downloads-button =
+    .label = Burahin ang mga Download
+    .tooltiptext = Hawiin ang mga nacompleto, nakansela at nabigong mga download
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Walang mga download.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Walang mga donwload para sa session na ito.
