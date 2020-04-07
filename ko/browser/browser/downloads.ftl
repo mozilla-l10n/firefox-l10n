@@ -55,6 +55,11 @@ downloads-cmd-copy-download-link =
 downloads-cmd-clear-downloads =
     .label = 다운로드 항목 지우기
     .accesskey = D
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = 파일 없애기
+downloads-cmd-remove-file-panel =
+    .aria-label = 파일 없애기
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -65,3 +70,6 @@ downloads-history =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = 다운로드 항목이 없습니다.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = 이 세션에는 다운로드 항목이 없습니다.
