@@ -9,6 +9,9 @@
 
 ##
 
+downloads-cmd-pause =
+    .label = Pauză
+    .accesskey = P
 downloads-cmd-resume =
     .label = Continuă
     .accesskey = R
