@@ -87,6 +87,22 @@ downloads-cmd-choose-open =
     .tooltiptext = បើក ឬ លុប​ឯកសារ
 downloads-cmd-choose-open-panel =
     .aria-label = បើក ឬ លុប​ឯកសារ
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = បង្ហាញ​ព័ត៌មាន​បន្ថែមទៀត
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = បើក​ឯកសារ
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = ព្យាយាម​ទាញយក​ម្ដងទៀត
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = បោះបង់​ការទាញយក
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
