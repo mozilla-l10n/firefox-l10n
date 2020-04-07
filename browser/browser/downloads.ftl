@@ -122,3 +122,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = कुनै डाउनलोडहरू छैन।
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = यस सत्रमा केहि पनि डाउनलोड भएन।
