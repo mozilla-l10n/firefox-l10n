@@ -4,6 +4,8 @@
 
 <!-- extracted from am-advanced.xul -->
 
+<!-- extracted from am-advanced.xhtml -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Pengaturan Server Pengirim (SMTP)">
 
@@ -18,7 +20,7 @@
 <!ENTITY smtpListSetDefault.label "Setel Baku">
 <!ENTITY smtpListSetDefault.accesskey "d">
 
-<!ENTITY serverDetails.label "Detail peladen yang dipilih:">
+<!ENTITY serverDetails.label "Detail server yang dipilih:">
 <!ENTITY serverDescription.label "Keterangan: ">
 <!ENTITY serverName.label "Nama Server: ">
 <!ENTITY serverPort.label "Port: ">
