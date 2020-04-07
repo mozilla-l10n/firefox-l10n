@@ -50,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Показать в Finder
            *[other] Открыть папку с файлом
         }
+downloads-cmd-show-downloads =
+    .label = Открыть папку Загрузки
 downloads-cmd-retry =
     .tooltiptext = Повторить
 downloads-cmd-retry-panel =
