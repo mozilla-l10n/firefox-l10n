@@ -13,10 +13,56 @@ downloads-panel =
 
 ##
 
+downloads-cmd-pause =
+    .label = तिंगू
+    .accesskey = P
+downloads-cmd-resume =
+    .label = दोहड़ा एहोब
+    .accesskey = R
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show =
+    .label = मेनागाक् पोटोम झिज मे
+    .tooltiptext = { downloads-cmd-show.label }
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-mac =
+    .label = ञामयिच् रे उदुग
+    .tooltiptext = { downloads-cmd-show-mac.label }
+    .accesskey = F
+downloads-cmd-show-panel =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] ञामयिच् रे उदुग
+           *[other] मेनागाक् पोटोम झिज मे
+        }
+downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] ञामयिच् रे उदुग
+           *[other] मेनागाक् पोटोम झिज मे
+        }
 downloads-cmd-retry =
     .tooltiptext = दोहड़ा कुरुमुटु
 downloads-cmd-retry-panel =
     .aria-label = दोहड़ा कुरुमुटु
+downloads-cmd-go-to-download-page =
+    .label = आ़तुर आंड़गो साहटा रे चालाक् मे
+    .accesskey = G
+downloads-cmd-copy-download-link =
+    .label = आ़तुर आंड़गो खोंजा नोकोल मे
+    .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = हितल खोन ओचोक् .
+    .accesskey = e
+downloads-cmd-clear-downloads =
+    .label = आटुर आंड़गो को फारचाये मे .
+    .accesskey = D
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = जोतो आ़तुर आंड़गो को उदुग मे .
+    .accesskey = S
 downloads-clear-downloads-button =
     .label = आ़तुर आंड़गो को फा़रचा
     .tooltiptext = फा़रचा पुरा़व एना ,आ़तुर आंड़गो को बा़डरा आर डिगा़व एना .
