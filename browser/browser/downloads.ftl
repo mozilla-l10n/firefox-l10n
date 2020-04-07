@@ -42,9 +42,17 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Kopírovať adresu súboru
     .accesskey = K
+downloads-cmd-remove-from-history =
+    .label = Odstrániť z histórie
+    .accesskey = h
 downloads-cmd-clear-downloads =
     .label = Vymazať zoznam prevzatých súborov
     .accesskey = m
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Odstrániť súbor
+downloads-cmd-remove-file-panel =
+    .aria-label = Odstrániť súbor
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
