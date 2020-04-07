@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = डाउनलोड‌
+downloads-panel =
+    .aria-label = डाउनलोड‌
 
 ##
 
@@ -41,6 +45,8 @@ downloads-cmd-show-description =
             [macos] फाइंडर में दिखाएँ
            *[other] संग्राहक फोल्डर खोलें
         }
+downloads-cmd-show-downloads =
+    .label = डाउनलोड फ़ोल्डर दिखाएं
 downloads-cmd-retry =
     .tooltiptext = फिर कोशिश‌ करें
 downloads-cmd-retry-panel =
@@ -83,12 +89,39 @@ downloads-cmd-choose-open =
     .tooltiptext = फाइल खोले या हटायें
 downloads-cmd-choose-open-panel =
     .aria-label = फाइल खोले या हटायें
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = अधिक सूचना दिखाएँ
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = फ़ाइल खोलें
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = डाउनलोड का पुनः प्रयास करें
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = डाउनलोड को रद्द करें
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = सभी डाउनलोड्स दिखाएँ‌‌
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = विवरण डाउनलोड करें
 downloads-clear-downloads-button =
     .label = ‌डाउनलोड्स साफ़ करें
     .tooltiptext = संपन्न, रद्द, और विफल डाउनलोड को हटाया
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = कोई डाउनलोड्स नहीं है.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = इस सत्र के लिए कोई डाउनलोड नहीं.
