@@ -50,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Montri en dosierserĉilo
            *[other] Malfermi entenantan dosierujon
         }
+downloads-cmd-show-downloads =
+    .label = Montri dosierujon por elŝutoj
 downloads-cmd-retry =
     .tooltiptext = Klopodi denove
 downloads-cmd-retry-panel =
@@ -114,6 +116,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Montri ĉiujn elŝutojn
     .accesskey = M
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detaloj de elŝuto
 downloads-clear-downloads-button =
     .label = Viŝi elŝutojn
     .tooltiptext = Viŝi finintajn, nuligitajn kaj malsukcesajn elŝutojn
