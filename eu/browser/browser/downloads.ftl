@@ -6,9 +6,18 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Deskargak
+downloads-panel =
+    .aria-label = Deskargak
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Pausatu
     .accesskey = P
@@ -41,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Erakutsi Finder-en
            *[other] Ireki dagoen karpeta
         }
+downloads-cmd-show-downloads =
+    .label = Erakutsi deskargen karpeta
 downloads-cmd-retry =
     .tooltiptext = Saiatu berriro
 downloads-cmd-retry-panel =
@@ -83,12 +94,39 @@ downloads-cmd-choose-open =
     .tooltiptext = Ireki edo kendu fitxategia
 downloads-cmd-choose-open-panel =
     .aria-label = Ireki edo kendu fitxategia
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Erakutsi informazio gehiago
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Ireki fitxategia
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Saiatu berriro deskarga
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Utzi deskarga
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Erakutsi deskarga guztiak
     .accesskey = s
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Deskargaren xehetasunak
 downloads-clear-downloads-button =
     .label = Garbitu deskargak
     .tooltiptext = Burututako, utzitako eta huts egindako deskargak garbitzen ditu
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Ez dago deskargarik.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Deskargarik ez saio honetarako.
