@@ -57,3 +57,6 @@ downloads-cmd-copy-download-link =
 downloads-history =
     .label = සියළු බාගත කිරීම් පෙන්වන්න
     .accesskey = S
+downloads-clear-downloads-button =
+    .label = බාගතකිරීම් පිරිසිදු කරන්න
+    .tooltiptext = සම්පූර්ණ, අවලංගු කළ හා අසාර්ථක බාගැනීම් පිරිසිදු කරයි
