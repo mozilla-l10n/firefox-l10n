@@ -66,6 +66,14 @@ policy-HardwareAcceleration = 若為 false，就會關閉硬體加速。
 policy-Homepage = 設定或鎖定首頁。
 policy-InstallAddonsPermission = 允許某些網站安裝附加元件。
 policy-LegacyProfiles = 停用「於每一套安裝使用不同設定檔」的功能
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = 開啟預設傳統 SameSite cookie 行為設定。
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 對指定的網站恢復傳統 SameSite cookie 行為。
+
+##
+
 policy-LocalFileLinks = 允許特定網站鏈結到本機檔案。
 policy-NetworkPrediction = 開啟或關閉網路預測（DNS 預讀）功能。
 policy-NewTabPage = 啟用或停用「新分頁」頁面。
