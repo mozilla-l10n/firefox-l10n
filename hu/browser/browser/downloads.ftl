@@ -6,9 +6,18 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Letöltések
+downloads-panel =
+    .aria-label = Letöltések
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Szünet
     .accesskey = S
@@ -41,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Megjelenítés a Finderben
            *[other] Tartalmazó mappa megnyitása
         }
+downloads-cmd-show-downloads =
+    .label = Letöltési mappa megjelenítése
 downloads-cmd-retry =
     .tooltiptext = Újra
 downloads-cmd-retry-panel =
@@ -83,12 +94,39 @@ downloads-cmd-choose-open =
     .tooltiptext = Megnyitás vagy fájl eltávolítása
 downloads-cmd-choose-open-panel =
     .aria-label = Megnyitás vagy fájl eltávolítása
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Több információ megjelenítése
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Fájl megnyitása
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Letöltés újrapróbálása
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Letöltés megszakítása
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Minden letöltés megjelenítése
     .accesskey = M
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Letöltés részletei
 downloads-clear-downloads-button =
     .label = Letöltések törlése
     .tooltiptext = Törli a befejezett, megszakított és meghiúsult letöltéseket
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Nincsenek letöltések.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Nincs letöltés ebben a munkamenetben.
