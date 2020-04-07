@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Paruodeit Finder
            *[other] Attaiseit mapi
         }
+downloads-cmd-show-downloads =
+    .label = Ruodeit lejupīluožu mapi
 downloads-cmd-retry =
     .tooltiptext = Atkuortuot
 downloads-cmd-retry-panel =
@@ -87,12 +89,32 @@ downloads-cmd-choose-open =
     .tooltiptext = Attaiseit voi aizvuokt failu
 downloads-cmd-choose-open-panel =
     .aria-label = Attaiseit voi aizvuokt failu
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Ruodeit papyldus informaceju
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Attaiseit failu
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Retry Download
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Atceļt lejupīluodi
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Ruodeit vysys lejupīluodes
     .accesskey = s
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Lejupīluodes informaceja
 downloads-clear-downloads-button =
     .label = Nūteireit lejupīluodes
     .tooltiptext = Nūteira pabeigtuos, atcaltuos i naveiksmeiguos lejupīluodes
