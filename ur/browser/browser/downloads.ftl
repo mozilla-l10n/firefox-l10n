@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = توقف کریں
     .accesskey = ت
@@ -104,6 +109,10 @@ downloads-cancel-download =
 downloads-history =
     .label = تمام ڈاؤن لوڈ دکھائیں
     .accesskey = ت
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = تفصیلات ڈاؤن لوڈ کریں
 downloads-clear-downloads-button =
     .label = ڈاؤن لوڈ خالی کریں
     .tooltiptext = مکمل، منسوخ شدہ اور ناکام ڈاؤن لوڈ کریں ہٹاتا ہے
