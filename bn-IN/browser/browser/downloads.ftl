@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = থামান
     .accesskey = P
@@ -87,6 +92,22 @@ downloads-cmd-choose-open =
     .tooltiptext = ফাইলটি খুলুন বা মুছে ফেলুন
 downloads-cmd-choose-open-panel =
     .aria-label = ফাইলটি খুলুন বা মুছে ফেলুন
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = অধিক তথ্য দেখান
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = ফাইল খুলুন
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = আবার ডাউনলোডের চেষ্টা করুন
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = ডাউনলোড বাতিল করুন
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
