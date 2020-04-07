@@ -40,7 +40,7 @@
 
 <!ENTITY calendartype.label "Jenis Kalender:">
 <!ENTITY location.label "Lokasi:">
-<!ENTITY location.placeholder "URL atau nama hos dari peladen kalender">
+<!ENTITY location.placeholder "URL atau nama host dari server kalender">
 
 <!ENTITY network.loading.description "Mohon tunggu sembari menemukan kalender.">
 <!ENTITY network.notfound.description "Kalender tidak ditemukan di lokasi ini. Mohon periksa pengaturan Anda.">
