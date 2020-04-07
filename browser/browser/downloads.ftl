@@ -62,6 +62,29 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Bersihkan Unduhan
     .accesskey = U
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Izinkan Unduhan
+    .accesskey = I
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Hapus Berkas
+downloads-cmd-remove-file-panel =
+    .aria-label = Hapus Berkas
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Hapus Berkas atau Izinkan Unduhan
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Hapus Berkas atau Izinkan Unduhan
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Buka atau Hapus Berkas
+downloads-cmd-choose-open-panel =
+    .aria-label = Buka atau Hapus Berkas
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
