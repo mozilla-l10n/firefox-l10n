@@ -13,12 +13,21 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = थाद' हो
     .accesskey = P
 downloads-cmd-resume =
     .label = फिन जागाय
     .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = नेवसिगार
+downloads-cmd-cancel-panel =
+    .aria-label = नेवसिगार
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = फल्डार थानायखौ खेव
@@ -57,6 +66,15 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = डाउनल'डफोरखौ खोमोर
     .accesskey = D
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = फाइलखौ बोखार
+downloads-cmd-remove-file-panel =
+    .aria-label = फाइलखौ बोखार
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = फाइलखौ खेव
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -66,3 +84,10 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = डाउनल'डफोरखौ खोमोर
     .tooltiptext = डाउनल'डनि फुरा जानाय, बातिल जानाय आरो फेलें जानायखौ खोमोरो
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = जेबो डाउनल'ड गैया।
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = बे जथुम्मानि थाखाय जेबो डाउनल'ड गैया।
