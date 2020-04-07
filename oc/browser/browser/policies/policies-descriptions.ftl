@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Se fals, desactiva l’acceleracion materiala.
 policy-Homepage = Definís la pagina d’acuèlh e prepausa de la verrolhar.
 policy-InstallAddonsPermission = Autoriza certans sites web d'installar d'extensions.
 policy-LegacyProfiles = Desactivar la foncionalitat que fòrça l’utilizacion d’un perfil distint per cada installacion.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Activar lo paramètre per defaut del compòrtament dels cookies SameSite.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Bascular lo compòrtament per defaut SameSite dels cookies dels sites especificats.
+
+##
+
 policy-LocalFileLinks = Autorizar los sites web a utilizar los ligams locals.
 policy-NetworkPrediction = Activar o desactivar la prediccion ret (resolucion DNS anticipada).
 policy-NewTabPage = Activar o desactivar la pagina d’onglet novèl.
