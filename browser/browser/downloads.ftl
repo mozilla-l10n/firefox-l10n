@@ -50,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Tampilkan di Finder
            *[other] Buka Foldernya
         }
+downloads-cmd-show-downloads =
+    .label = Tampilkan Folder Unduhan
 downloads-cmd-retry =
     .tooltiptext = Coba Lagi
 downloads-cmd-retry-panel =
@@ -63,6 +65,9 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Hapus dari Riwayat
     .accesskey = H
+downloads-cmd-clear-list =
+    .label = Bersihkan Panel Pratinjau
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Bersihkan Unduhan
     .accesskey = U
@@ -89,6 +94,10 @@ downloads-cmd-choose-open =
     .tooltiptext = Buka atau Hapus Berkas
 downloads-cmd-choose-open-panel =
     .aria-label = Buka atau Hapus Berkas
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Buka Berkas
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
