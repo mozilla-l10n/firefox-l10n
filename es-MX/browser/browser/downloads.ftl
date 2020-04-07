@@ -114,6 +114,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Mostrar todas las descargas
     .accesskey = s
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detalles de Descarga
 downloads-clear-downloads-button =
     .label = Eliminar descargas
     .tooltiptext = Limpieza completa, descargas canceladas y fallidas
@@ -121,3 +125,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = No hay más descargas.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = No hay descargas para esta sesión.
