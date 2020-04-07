@@ -290,6 +290,7 @@ sandbox-proc-type-data-decoder = Mba’ekuaarã papapy'o
 startup-cache-title = Kache ñepyrũgua
 startup-cache-disk-cache-path = Disco Kache Rape
 startup-cache-ignore-disk-cache = Ehejarei Disco Kache
+startup-cache-found-disk-cache-on-init = Ojejuhu disco kache Init-pe
 launcher-process-status-0 = Jurujapyre
 launcher-process-status-1 = Ojepe'apyre ojavy rupi
 launcher-process-status-2 = Mbaretépe jepe’apyre
