@@ -71,6 +71,20 @@ downloads-cmd-remove-file =
     .tooltiptext = Datei löschen
 downloads-cmd-remove-file-panel =
     .aria-label = Datei löschen
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Datei löschen oder Download erlauben
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Datei löschen oder Download erlauben
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Datei öffnen oder löschen
+downloads-cmd-choose-open-panel =
+    .aria-label = Datei öffnen oder löschen
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
