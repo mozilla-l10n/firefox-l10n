@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = Ne saber mai
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Senhal vulnerable
-about-logins-vulnerable-alert-text = Aqueste senhal es estat divulgat o panat pendent una pèrda de donadas d’una autra entrepresa. Tornar utilizar aqueste senhal es perilhós per vòstres comptes. Per melhorar vòstra seguretat en linha, modificatz aqueste senhal.
+about-logins-vulnerable-alert-text2 = Aqueste senhal foguèt ja utilizat per un autre compte que coneguèt una divulgacion. Lo tornar utilizar met en perilh vòstre compte. Cambiatz aqueste senhal.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Accedir a { $hostname }
