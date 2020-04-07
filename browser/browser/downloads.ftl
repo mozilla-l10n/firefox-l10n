@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = ទាញ​យក
+downloads-panel =
+    .aria-label = ទាញ​យក
 
 ##
 
@@ -89,3 +93,10 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = សម្អាត​ការ​ទាញ​យក
     .tooltiptext = សម្អាត​ការ​ទាញ​យក​ដែល​បាន​បញ្ចប់​ទាំងស្រុង ដែល​បាន​បោះបង់ និង​ដែល​បាន​បរាជ័យ
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = មិន​មាន​ការ​ទាញ​យក​ទេ ។
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = គ្មាន​ការ​ទាញ​យក​សម្រាប់​សម័យ​នេះ​ទេ។
