@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = ಇಳಿಕೆಗಳು
+downloads-panel =
+    .aria-label = ಇಳಿಕೆಗಳು
 
 ##
 
@@ -15,6 +19,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = ಮರಳಿ ಆರಂಭಿಸು
     .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = ರದ್ದು ಮಾಡು
+downloads-cmd-cancel-panel =
+    .aria-label = ರದ್ದು ಮಾಡು
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ
@@ -76,6 +84,14 @@ downloads-cmd-choose-open =
     .tooltiptext = ತೆರೆ ಅಥವಾ ಕಡತ ತೆಗೆ
 downloads-cmd-choose-open-panel =
     .aria-label = ತೆರೆ ಅಥವಾ ಕಡತ ತೆಗೆ
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = ಕಡತವನ್ನು ತೆರೆ
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = ಡೌನ್‌ಲೋಡ್‌ ರದ್ದುಗೊಳಿಸು
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -85,3 +101,10 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು
     .tooltiptext = ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = ಯಾವುದೆ ಇಳಿಕೆಗಳಿಲ್ಲ.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = ಈ ಅಧಿವೇಶನಕ್ಕಾಗಿ ಯಾವುದೆ ಡೌನ್‌ಲೋಡ್‌ಗಳಿಲ್ಲ.
