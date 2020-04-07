@@ -66,6 +66,13 @@ policy-HardwareAcceleration = Jolic njewěrno, hardwarowe póspěšenje znjemó�
 policy-Homepage = Startowy bok nastajiś a na žycenje zastajiś.
 policy-InstallAddonsPermission = Wěstym websedłam dowóliś, dodanki instalěrowaś.
 policy-LegacyProfiles = Funkciju znjemóžniś, kótaraž separatny profil za kuždu instalaciju wunuźijo
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Standardne zestarjone nastajenje za zaźaržanje cookiejowego atributa SameSite zmóžniś.
+
+##
+
 policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkazaś.
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
 policy-NewTabPage = Bok nowego rejtarka zmóžniś abo znjemóžniś.
