@@ -9,6 +9,16 @@
 
 ##
 
+downloads-cmd-pause =
+    .label = Pausar
+    .accesskey = P
+downloads-cmd-resume =
+    .label = Retomar
+    .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = Cancelar
+downloads-cmd-cancel-panel =
+    .aria-label = Cancelar
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Abrir pasta de destino
@@ -31,6 +41,25 @@ downloads-cmd-show-description =
             [macos] Mostrar no Finder
            *[other] Abrir pasta de destino
         }
+downloads-cmd-retry =
+    .tooltiptext = Voltar a tentar
+downloads-cmd-retry-panel =
+    .aria-label = Voltar a tentar
 downloads-cmd-remove-from-history =
     .label = Remover do histórico
     .accesskey = e
+downloads-cmd-clear-list =
+    .label = Limpar o painel de pré-visualização
+    .accesskey = a
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Remover ficheiro
+downloads-cmd-remove-file-panel =
+    .aria-label = Remover ficheiro
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Abrir ou remover ficheiro
+downloads-cmd-choose-open-panel =
+    .aria-label = Abrir ou remover ficheiro
