@@ -486,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "تلاش کریں یا پتہ داخل کریں">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "توسیعات:">
+<!ENTITY urlbar.extension.label       "ایکسٹینشن:">
 <!ENTITY urlbar.switchToTab.label     "ٹیب پر سوئچ کریں:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
@@ -1004,26 +1004,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.header.message "آپکا نیا ٹیب تبدیل کردیا گیا ہے۔">
 <!ENTITY newTabControlled.keepButton.label "تبدیلیاں برقرار رکھیں">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
-<!ENTITY newTabControlled.disableButton.label "توسیعات نا اہل بنائیں">
+<!ENTITY newTabControlled.disableButton.label "ایکسٹینشن غیرفعال بنائیں">
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 
 <!ENTITY homepageControlled.header.message "آپکا ابتدائی صفحہ تبدیل کردیا گیا ہے۔">
 <!ENTITY homepageControlled.keepButton.label "تبدیلیاں برقرار رکھیں">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
-<!ENTITY homepageControlled.disableButton.label "توسیعات نا اہل بنائیں">
+<!ENTITY homepageControlled.disableButton.label "ایکسٹینشن غیرفعال بنائیں">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
 <!ENTITY tabHideControlled.header.message "اپنے پوشیدہ ٹیبز تک رسائی حاصل کریں">
 <!ENTITY tabHideControlled.keepButton.label "ٹیبس کو مخفی رکھیں">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
-<!ENTITY tabHideControlled.disableButton.label "توسیعات نا اہل بنائیں">
+<!ENTITY tabHideControlled.disableButton.label "ایکسٹینشن غیرفعال بنائیں">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
 
 <!ENTITY pageActionButton.tooltip "صفحہ اعمال">
 <!ENTITY pageAction.addToUrlbar.label "ایڈریس بار میں شامل کرے">
 <!ENTITY pageAction.removeFromUrlbar.label "ایڈریس بار سے ہٹائے">
-<!ENTITY pageAction.manageExtension.label "توسیعات… منظم کریں">
+<!ENTITY pageAction.manageExtension.label "ایکسٹینشن… منظم کریں">
 
 <!ENTITY sendToDevice.syncNotReady.label "آلات کی ہمہ وقت سازی کر رہے ہے…">
 

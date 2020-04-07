@@ -12,7 +12,7 @@ process-type-privilegedabout = امتیاز شدہ کے بارے میں
 # process used to run privileged mozilla pages,
 # such as accounts.firefox.com
 process-type-privilegedmozilla = امتیاز شدہ Mozilla مواد
-process-type-extension = توسیعات
+process-type-extension = ایکسٹینشن
 # process used to open file:// URLs
 process-type-file = مقامی فائل
 # process used to isolate webpages that requested special
