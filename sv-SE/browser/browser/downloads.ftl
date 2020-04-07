@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Pausa
     .accesskey = P
@@ -45,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Visa i Finder
            *[other] Öppna mapp
         }
+downloads-cmd-show-downloads =
+    .label = Visa mapp för hämtade filer
 downloads-cmd-retry =
     .tooltiptext = Försök igen
 downloads-cmd-retry-panel =
@@ -95,6 +102,10 @@ downloads-show-more-information =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Öppna fil
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Försök hämta igen
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
@@ -105,6 +116,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Visa alla hämtningar
     .accesskey = V
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Nedladdningsdetaljer
 downloads-clear-downloads-button =
     .label = Rensa hämtningar
     .tooltiptext = Rensar bort slutförda, avbrutna och misslyckade hämtningar
