@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = Issin ugar
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Awal uffir ur iǧhid ara
-about-logins-vulnerable-alert-text = Awal-agi uffir yeffeɣ neɣ yettwaker deg trewla n yisefka n tkebbanit-nniḍen. Aseqdec n telɣut n usulu ad yerr akk imiḍanen deg ugur. Akken ad tesnerniḍ taɣellist-ik srid , snifel awal uffir-agi.
+about-logins-vulnerable-alert-text2 = Awal-agi uffir yettwaseqdec deg umiḍan-nniḍen ayagi yezmer ad d-yeglu s trewla n yisefka. Aɛiwed n useqdec n yinekcamen n tuqqna ad yerr akk imiḍanen-inek deg wugur. Beddel awal-agi uffir.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ddu ɣer { $hostname }
