@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Отвори мени
-# This menuitem is only visible on Windows
-menu-menuitem-import = Увези лозинке...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Увези из другог прегледача…
 menu-menuitem-preferences =
@@ -49,7 +47,9 @@ login-list-count =
     }
 login-list-sort-label-text = Поређај по:
 login-list-name-option = Назив (А-Ш)
+login-list-name-reverse-option = Име (А-Ш)
 login-list-breached-option = Веб странице на којима долази до цурења података
+about-logins-login-list-alerts-option = Упозорења
 login-list-last-changed-option = Последња измена
 login-list-last-used-option = Последњи пут коришћено
 login-list-intro-title = Нема пронађених пријава
@@ -61,6 +61,8 @@ login-list-item-subtitle-new-login = Унесите своје податке з
 login-list-item-subtitle-missing-username = (без корисничког имена)
 about-logins-list-item-breach-icon =
     .title = Веб страница на којој долази до цурења података
+about-logins-list-item-vulnerable-password-icon =
+    .title = Рањива лозинка
 
 ## Introduction screen
 
@@ -75,6 +77,7 @@ about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-l
 
 login-item-new-login-title = Направи нову пријаву
 login-item-edit-button = Уреди
+about-logins-login-item-remove-button = Уклони
 login-item-origin-label = Адреса веб странице
 login-item-origin =
     .placeholder = https://www.example.com
@@ -84,6 +87,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Копирај
 login-item-copied-username-button-text = Копирано!
 login-item-password-label = Лозинка
+login-item-password-reveal-checkbox =
+    .aria-label = Прикажи лозинку
 login-item-copy-password-button-text = Копирај
 login-item-copied-password-button-text = Копирано!
 login-item-save-changes-button = Сачувај промене
@@ -95,6 +100,7 @@ login-item-time-used = Последњи пут коришћено: { DATETIME($t
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -142,6 +148,9 @@ breach-alert-text = Лозинке на овој веб страници су у
 breach-alert-link = Сазнајте више о овом проблему
 breach-alert-dismiss =
     .title = Затворите ово упозорење
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 

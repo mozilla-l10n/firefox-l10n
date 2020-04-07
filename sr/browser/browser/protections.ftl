@@ -29,6 +29,7 @@ graph-today = Данас
 social-tab-title = Пратиоци с друштвених мрежа
 tracker-tab-title = Садржај који прати
 lockwise-title = Немојте поново заборавити лозинку
+lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } безбедно чува ваше лозинке у вашем прегледачу.
 lockwise-header-content-logged-in = Безбедно чувајте и синхронизујте ваше лозинке на свим вашим уређајима.
 turn-on-sync = Укључите { -sync-brand-short-name }…
