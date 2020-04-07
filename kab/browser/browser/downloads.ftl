@@ -41,6 +41,10 @@ downloads-cmd-show-description =
             [macos] Sken-d di Finder
            *[other] Ldi akaram igebren afaylu
         }
+downloads-cmd-retry =
+    .tooltiptext = Ɛreḍ i tikelt-nniḍen
+downloads-cmd-retry-panel =
+    .aria-label = Ɛreḍ i tikelt-nniḍen
 downloads-cmd-go-to-download-page =
     .label = Ddu ɣer usebter n usider
     .accesskey = z
@@ -50,6 +54,9 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Kkes seg umazray
     .accesskey = K
+downloads-cmd-clear-list =
+    .label = Sfeḍ agalis n teskant
+    .accesskey = g
 downloads-cmd-clear-downloads =
     .label = Sfeḍ izedman
     .accesskey = z
@@ -84,6 +91,10 @@ downloads-show-more-information =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Ldi afaylu
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Ɛreḍ i tikelt-nniḍen azdam
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
