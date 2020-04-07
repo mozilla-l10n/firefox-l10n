@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] શોધકર્તામાં બતાવો
            *[other] સમાવતા ફોલ્ડરને ખોલો
         }
+downloads-cmd-show-downloads =
+    .label = ડાઉનલોડ ફોલ્ડર બતાવો
 downloads-cmd-retry =
     .tooltiptext = ફરી પ્રયત્ન કરો
 downloads-cmd-retry-panel =
@@ -109,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = બધા ડાઉનલોડને બતાવો
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = વિગતો ડાઉનલોડ કરો
 downloads-clear-downloads-button =
     .label = ડાઉનલોડ સાફ કરો
     .tooltiptext = પૂર્ણ થયેલ, રદ થયેલ અને નિષ્ફળ થયેલ ડાઉનલોડને સાફ કરે છે
@@ -116,3 +122,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ત્યાં ડાઉનલોડ નથી.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = આ સત્ર માટે કોઈ ડાઉનલોડ્સ નથી.
