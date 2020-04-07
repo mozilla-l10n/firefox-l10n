@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Os gau, diffodd cyflymu caledwedd.
 policy-Homepage = Gosod ac o ddewis cloi'r dudalen cartref.
 policy-InstallAddonsPermission = Caniatáu i rai gwefannau i osod ychwanegion
 policy-LegacyProfiles = Analluoga'r nodwedd gan orfodi proffil ar wahân ar gyfer pob gosodiad
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Galluogi'r gosodiad rhagosodedig ymddygiadol cwci SameSite blaenorol.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Dychwelyd at ymddygiad blaenorol SameSite ar gyfer cwcis ar wefannau penodol.
+
+##
+
 policy-LocalFileLinks = Caniatáu i wefannau penodol gysylltu i ffeiliau lleol.
 policy-NetworkPrediction = Galluogi neu analluoga rhagfynegiad rhwydwaith (rhagosod ymlaen DNS).
 policy-NewTabPage = Galluogi neu analluogi tudalen Tab Newydd.

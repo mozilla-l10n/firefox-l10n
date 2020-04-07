@@ -179,7 +179,7 @@ about-logins-breach-alert-learn-more-link = Dysgu rhagor
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Cyfrinair Bregus
-about-logins-vulnerable-alert-text = Cafodd y cyfrinair hwn ei ollwng neu ei ddwyn yn sgil tor-data cwmni arall. Mae ailddefnyddio manylion yn peryglu'ch holl gyfrifon. Er mwyn gwella'ch diogelwch ar-lein, newidiwch y cyfrinair hwn.
+about-logins-vulnerable-alert-text2 = Defnyddiwyd y cyfrinair hwn ar gyfrif arall a oedd sy'n debygol o fod wedi bod mewn tor-data. Mae ailddefnyddio manylion yn peryglu'ch holl gyfrifon. Newid y cyfrinair hwn.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mynd i { $hostname }
