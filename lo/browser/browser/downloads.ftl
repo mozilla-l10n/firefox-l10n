@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] ສະແດງໃນ Finder
            *[other] ເປີດໂຟນເດີທີ່ບັນຈຸ
         }
+downloads-cmd-show-downloads =
+    .label = ສະແດງໂຟນເດີດາວໂຫລດ
 downloads-cmd-retry =
     .tooltiptext = ລອງໃຫມ່ອີກຄັ້ງ
 downloads-cmd-retry-panel =
@@ -87,12 +89,32 @@ downloads-cmd-choose-open =
     .tooltiptext = ເປີດໄຟລ ຫລື ລົບໄຟລ
 downloads-cmd-choose-open-panel =
     .aria-label = ເປີດໄຟລ ຫລື ລົບໄຟລ
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = ສະແດງຂໍ້ມູນເພີ່ມເຕີມ
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = ເປີດໄຟລ໌
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = ລອງດາວໂຫຼດໃໝ່
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = ຍົກເລີກການດາວໂຫລດ
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = ສະແດງການດາວໂຫລດທັງຫມົດ
     .accesskey = S​
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = ລາຍລະອຽດການດາວໂຫລດ
 downloads-clear-downloads-button =
     .label = ລ້າງການດາວໂຫລດ
     .tooltiptext = ລ້າງການດາວໂຫລດທີ່ສຳເລັດແລ້ວ, ທີ່ຖືກຍົກເລີກ ແລະ ການດາວໂຫລດທີ່ລົ້ມເຫລວ.
@@ -100,3 +122,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ບໍ່ມີການດາວໂຫລດ
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = ບໍ່ມີການດາວໂຫລດໃນເຊສຊັນນີ້.
