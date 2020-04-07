@@ -100,7 +100,14 @@ downloads-retry-download =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Cancelar download
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detalhes do download
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Nenhum download.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Nenhum download nessa sessão.
