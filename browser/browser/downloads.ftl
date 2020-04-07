@@ -43,3 +43,12 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Kopiraj poveznicu preuzimanja
     .accesskey = K
+downloads-cmd-remove-from-history =
+    .label = Ukloni iz povijesti
+    .accesskey = s
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Prikaži sva preuzimanja
+    .accesskey = s
