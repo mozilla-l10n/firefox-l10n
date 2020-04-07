@@ -92,6 +92,8 @@ about-telemetry-no-search-results-all = Жао нам је! Нема резул�
 about-telemetry-no-data-to-display = Жао нам је! Тренутно нема доступних података у “{ $sectionName }”
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = тренутни пинг
+# used as a tooltip for the “current” ping title in the sidebar
+about-telemetry-current-data-sidebar = тренутни подаци
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = све
 # button label to copy the histogram
@@ -126,3 +128,7 @@ about-telemetry-category-header = категорија
 about-telemetry-method-header = метода
 about-telemetry-object-header = објекат
 about-telemetry-extra-header = додатно
+about-telemetry-origin-count = број
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = { $process } процес

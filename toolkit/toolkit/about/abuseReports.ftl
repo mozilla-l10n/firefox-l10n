@@ -33,4 +33,6 @@ abuse-report-messagebar-action-cancel = Откажи
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
+abuse-report-deceptive-reason = Претвара се да је нешто што није
+abuse-report-unwanted-example = Пример: апликација је инсталирала проширење без моје дозволе
 abuse-report-other-reason = Нешто друго
