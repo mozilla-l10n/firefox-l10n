@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "A">
 <!ENTITY removeSearchEngine.label         "삭제">
 <!ENTITY removeSearchEngine.accesskey     "v">
+
+<!ENTITY minimizeToTray.label             "&brandShortName;가 최소화되면 트레이로 이동">
+<!ENTITY minimizeToTray.accesskey         "m">
