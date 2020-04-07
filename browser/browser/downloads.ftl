@@ -12,6 +12,10 @@
 downloads-cmd-pause =
     .label = Oedi
     .accesskey = O
+downloads-cmd-cancel =
+    .tooltiptext = Diddymu
+downloads-cmd-cancel-panel =
+    .aria-label = Diddymu
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Agor Ffolder Cynnwys
@@ -47,9 +51,35 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Tynnu o'r Hanes
     .accesskey = y
+downloads-cmd-clear-list =
+    .label = Clirio'r Panel Rhagolwg
+    .accesskey = r
 downloads-cmd-clear-downloads =
     .label = Clirio Llwythi
     .accesskey = L
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Caniatáu Llwytho i Lawr
+    .accesskey = a
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Tynnu Ffeil
+downloads-cmd-remove-file-panel =
+    .aria-label = Tynnu Ffeil
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Tynnu Ffeil neu Ganiatáu Llwytho i Lawr
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Tynnu Ffeil neu Ganiatáu Llwytho i Lawr
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Agor neu Dynnu'r Ffeil
+downloads-cmd-choose-open-panel =
+    .aria-label = Agor neu Dynnu'r Ffeil
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
