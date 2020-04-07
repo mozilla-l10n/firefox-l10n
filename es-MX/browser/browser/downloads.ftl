@@ -50,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Mostrar en Finder
            *[other] Abrir carpeta contenedora
         }
+downloads-cmd-show-downloads =
+    .label = Mostrar carpeta de descargas
 downloads-cmd-retry =
     .tooltiptext = Reintentar
 downloads-cmd-retry-panel =
