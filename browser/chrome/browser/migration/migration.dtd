@@ -10,7 +10,7 @@
 <!ENTITY importFromIE.accesskey "M">
 <!ENTITY importFromEdge.label "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey "E">
-<!ENTITY importFromEdgeLegacy.label "Microsoft Edge (legacy)">
+<!ENTITY importFromEdgeLegacy.label "Microsoft Edge Legacy">
 <!ENTITY importFromEdgeLegacy.accesskey "o">
 <!ENTITY importFromEdgeBeta.label "Microsoft Edge Beta">
 <!ENTITY importFromEdgeBeta.accesskey "B">
