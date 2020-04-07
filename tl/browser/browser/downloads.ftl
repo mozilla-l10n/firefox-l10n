@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Ipakita Sa Finder
            *[other] Buksan ang Folder na Kinalalagyan
         }
+downloads-cmd-show-downloads =
+    .label = Ipakita ang Folder ng Mga Download
 downloads-cmd-retry =
     .tooltiptext = Subukan muli
 downloads-cmd-retry-panel =
@@ -103,3 +105,10 @@ downloads-retry-download =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Itigil ang Download
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detalye ng mga Download
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Walang mga donwload para sa session na ito.
