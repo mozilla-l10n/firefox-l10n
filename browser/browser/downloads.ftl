@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Filhämtningar
+downloads-panel =
+    .aria-label = Filhämtningar
 
 ##
 
@@ -92,3 +96,10 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = Rensa hämtningar
     .tooltiptext = Rensar bort slutförda, avbrutna och misslyckade hämtningar
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Det finns inga hämtningar.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Inga nedladdningar för denna session.
