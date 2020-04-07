@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Finder ਵਿੱਚ ਵੇਖੋ
            *[other] ਰੱਖਣ ਵਾਲੇ ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ
         }
+downloads-cmd-show-downloads =
+    .label = ਡਾਊਨਲੋਡ ਫੋਲਡਰ ਵੇਖਾਓ
 downloads-cmd-retry =
     .tooltiptext = ਮੁੜ-ਕੋਸ਼ਿਸ਼
 downloads-cmd-retry-panel =
@@ -109,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = ਸਭ ਡਾਊਨਲੋਡ ਨੂੰ ਵੇਖੋ
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = ਡਾਊਨਲੋਡ ਦੇ ਵੇਰਵੇ
 downloads-clear-downloads-button =
     .label = ਡਾਊਨਲੋਡ ਨੂੰ ਸਾਫ਼ ਕਰੋ
     .tooltiptext = ਪੂਰੇ ਹੋਏ, ਰੱਦ ਕੀਤੇ ਅਤੇ ਫੇਲ੍ਹ ਹੋਏ ਡਾਊਨਲੋਡ ਸਾਫ਼ ਕਰੋ
@@ -116,3 +122,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ਕੋਈ ਡਾਊਨਲੋਡ ਨਹੀਂ ਹੈ।
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = ਇਸ ਸ਼ੈਸ਼ਨ ਲਈ ਕੋਈ ਡਾਊਨਲੋਡ ਨਹੀ ਹੈ।
