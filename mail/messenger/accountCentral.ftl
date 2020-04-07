@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Wolkom by { -brand-full-name }
+account-settings = Accountynstellingen
+#   $accounts (Number) - the number of configured accounts
 setup-title = Kies wat jo ynstelle wolle
 about-title = Oer { -brand-full-name }
 resources-title = Boarnen
@@ -40,3 +42,10 @@ explore-link = Funksjes ferkenne
 support-link = Stipe
 involved-link = Meiwurkje
 developer-link = Dokumintaasje foar ûntwikkelers
+read = Berjochten lêze
+compose = Nij berjocht opstelle
+search = Berjochten sykje
+filter = Berjochtefilters beheare
+nntp-subscription = Nijsgroepabonneminten beheare
+rss-subscription = Feedabonneminten beheare
+e2e = End-to-end-fersifering
