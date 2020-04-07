@@ -6,9 +6,18 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Snuù
+downloads-panel =
+    .aria-label = Snuù
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Kunchatu
     .accesskey = P
