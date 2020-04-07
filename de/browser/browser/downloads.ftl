@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Pause
     .accesskey = P
@@ -66,6 +71,10 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Liste leeren
     .accesskey = L
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Zugriff erlauben
+    .accesskey = a
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Datei löschen
