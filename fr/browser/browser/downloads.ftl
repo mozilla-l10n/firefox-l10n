@@ -28,6 +28,23 @@ downloads-cmd-show =
     .label = Ouvrir le dossier contenant le fichier
     .tooltiptext = { downloads-cmd-show.label }
     .accesskey = r
+# This message is only displayed on macOS devices
+downloads-cmd-show-mac =
+    .label = Afficher dans le Finder
+    .tooltiptext = { downloads-cmd-show-mac.label }
+    .accesskey = F
+downloads-cmd-show-panel =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Afficher dans le Finder
+           *[other] Ouvrir le dossier contenant le fichier
+        }
+downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Afficher dans le Finder
+           *[other] Ouvrir le dossier contenant le fichier
+        }
 downloads-cmd-retry =
     .tooltiptext = Réessayer
 downloads-cmd-retry-panel =
@@ -41,6 +58,9 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Retirer de l’historique
     .accesskey = e
+downloads-cmd-clear-list =
+    .label = Vider le panneau d’aperçu
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Vider la liste des téléchargements
     .accesskey = V
@@ -89,6 +109,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Afficher tous les téléchargements
     .accesskey = i
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Détails du téléchargement
 downloads-clear-downloads-button =
     .label = Vider la liste des téléchargements
     .tooltiptext = Vider la liste des téléchargements terminés, annulés et qui ont échoué
