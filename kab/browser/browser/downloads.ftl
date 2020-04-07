@@ -41,6 +41,12 @@ downloads-cmd-show-description =
             [macos] Sken-d di Finder
            *[other] Ldi akaram igebren afaylu
         }
+downloads-cmd-go-to-download-page =
+    .label = Ddu ɣer usebter n usider
+    .accesskey = z
+downloads-cmd-copy-download-link =
+    .label = Nɣel tansa taɣbalut n usider
+    .accesskey = n
 downloads-cmd-remove-from-history =
     .label = Kkes seg umazray
     .accesskey = K
