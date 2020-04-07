@@ -48,12 +48,41 @@ downloads-cmd-retry-panel =
 downloads-cmd-go-to-download-page =
     .label = اذهب إلى صفحة التنزيل
     .accesskey = ذ
+downloads-cmd-copy-download-link =
+    .label = انسخ رابط التنزيل
+    .accesskey = ر
 downloads-cmd-remove-from-history =
     .label = احذف من التأريخ
     .accesskey = ح
+downloads-cmd-clear-list =
+    .label = امسح لوحة المعاينة
+    .accesskey = م
 downloads-cmd-clear-downloads =
     .label = امسح التنزيلات
     .accesskey = س
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = اسمح بالتنزيل
+    .accesskey = س
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = أزل الملف
+downloads-cmd-remove-file-panel =
+    .aria-label = أزل الملف
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = أزل الملف أو اسمح بالتنزيل
+downloads-cmd-choose-unblock-panel =
+    .aria-label = أزل الملف أو اسمح بالتنزيل
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = افتح أو احذف الملف
+downloads-cmd-choose-open-panel =
+    .aria-label = افتح أو احذف الملف
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
