@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Japúramo, eipe’a hardware mbopya’eha.
 policy-Homepage = Emopyenda ha ejoko ejaposẽramo kuatiarogue ñepyrũha.
 policy-InstallAddonsPermission = Emoneĩ ndahetái ñanduti rendápe omboguejývo moimbaha.
 policy-LegacyProfiles = Eipe’a tembiapoite omoĩva mba’ete mombyryguáva emohendakuévo
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Embojuruja ñemboheko ijypykuéva reko SameSite kookie guerekopyre.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ejevy SameSite reko guerekopyréva kookie peg̃uarã tenda ha’etévape.
+
+##
+
 policy-LocalFileLinks = Emoneĩ ñanduti renda moha’eñopyrépe ojuajúvo marandurenda pypeguáva.
 policy-NetworkPrediction = Embojuruja térã eipe’a ñanduti kuaapy (DNS oheka mboyve).
 policy-NewTabPage = Emyandy ha embogue kuatiarogue Tendayke Pyahu.
