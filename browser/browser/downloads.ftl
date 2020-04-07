@@ -12,3 +12,9 @@
 downloads-cmd-pause =
     .label = నిలిపివుంచు
     .accesskey = P
+downloads-cmd-clear-downloads =
+    .label = దింపుకోళ్ళను శుభ్రంచేయి
+    .accesskey = D
+downloads-clear-downloads-button =
+    .label = దింపుకోళ్ళను శుభ్రంచేయి
+    .tooltiptext = పూర్తయిన, రద్దుచేసిన మరియు విఫలమైన దింపుకోళ్ళను తుడిచివేస్తుంది
