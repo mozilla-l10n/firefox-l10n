@@ -47,3 +47,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = ڈاؤن لوڈ ربط نقل کریں
     .accesskey = ر
+downloads-cmd-remove-from-history =
+    .label = سابقات سے ہٹائیں
+    .accesskey = ہ
+downloads-cmd-clear-downloads =
+    .label = ڈاؤن لوڈ خالی کریں
+    .accesskey = ڈ
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = تمام ڈاؤن لوڈ دکھائیں
+    .accesskey = ت
+downloads-clear-downloads-button =
+    .label = ڈاؤن لوڈ خالی کریں
+    .tooltiptext = مکمل، منسوخ شدہ اور ناکام ڈاؤن لوڈ کریں ہٹاتا ہے
