@@ -13,6 +13,9 @@ downloads-panel =
 
 ##
 
+downloads-cmd-pause =
+    .label = Premor
+    .accesskey = o
 downloads-cmd-resume =
     .label = Nadaljuj
     .accesskey = N
@@ -42,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Prikaži v Finderju
            *[other] Odpri vsebujočo mapo
         }
+downloads-cmd-show-downloads =
+    .label = Prikaži mapo s prenosi
 downloads-cmd-retry =
     .tooltiptext = Poskusi znova
 downloads-cmd-retry-panel =
@@ -106,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Prikaži vse prenose
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Podrobnosti o prenosu
 downloads-clear-downloads-button =
     .label = Počisti prenose
     .tooltiptext = Počisti dokončane, preklicane in spodletele prenose
