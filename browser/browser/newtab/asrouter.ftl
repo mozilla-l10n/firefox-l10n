@@ -191,7 +191,7 @@ cfr-doorhanger-firefox-send-ok-button = Ensajatz { -send-brand-name }
 ## Social Tracking Protection
 
 cfr-doorhanger-socialtracking-ok-button = Veire las proteccions
-    .accesskey = p
+    .accesskey = V
 cfr-doorhanger-socialtracking-close-button = Tampar
     .accesskey = T
 cfr-doorhanger-socialtracking-dont-show-again = Me mostrar pas mai de messatges coma aqueste
