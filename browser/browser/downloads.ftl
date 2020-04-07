@@ -31,3 +31,6 @@ downloads-cmd-show-description =
             [macos] Mostrar no Finder
            *[other] Abrir pasta de destino
         }
+downloads-cmd-remove-from-history =
+    .label = Remover do histórico
+    .accesskey = e
