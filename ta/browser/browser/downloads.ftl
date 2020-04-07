@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = பதிவிறக்கங்கள்
+downloads-panel =
+    .aria-label = பதிவிறக்கங்கள்
 
 ##
 
@@ -83,12 +87,39 @@ downloads-cmd-choose-open =
     .tooltiptext = கோப்பை நீக்கு அல்லது திற
 downloads-cmd-choose-open-panel =
     .aria-label = கோப்பை நீக்கு அல்லது திற
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = கூடுதல் தகவலைக் காட்டு
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = கோப்பைத் திற
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = பதிவிறக்கத்தை மீட்டெடு
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = பதிவிறக்கத்தை ரத்து செய்
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = அனைத்து பதிவிறக்கங்களையும் காண்பி
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = விவரங்களைப் பதிவிறக்கு
 downloads-clear-downloads-button =
     .label = பதிவிறக்கங்களை அழி
     .tooltiptext = முடிந்துவிட்ட, ரத்து செய்த மற்றும் தோல்வியடைந்த பதிவிறக்கங்களை அழிக்கும்
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = பதிவிறக்கங்கள் எதுவும் இல்லை.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = இந்த அமர்விற்கான பதிவிறக்கங்கள் ஏதும் இல்லை.
