@@ -5,6 +5,18 @@
 abuse-report-title-extension = Пријави ово проширење продавцу { -vendor-short-name }
 abuse-report-title-theme = Пријави ову тему продавцу { -vendor-short-name }
 abuse-report-subtitle = У чему је проблем?
+# Variables:
+#   $author-name (string) - Name of the add-on author
+abuse-report-addon-authored-by = од <a data-l10n-name="author-name">{ $author-name }</a>
+abuse-report-learnmore =
+    Нисте сигурни шта да изаберете?
+    <a data-l10n-name="learnmore-link">Сазнајте више о пријављивању проширења и тема</a>
+abuse-report-submit-description = Опишите проблем (није обавезно)
+abuse-report-textarea =
+    .placeholder = Лакше нам је да решимо проблем ако знамо детаље. Опишите шта сте доживели. Хвала вам што нам помажете да одржимо веб здравим.
+abuse-report-submit-note =
+    Напомена: не уносите личне податке (као што су име, е-адреса, број телефона, физичка адреса).
+    { -vendor-short-name } води сталну евидденцију ових извештаја.
 
 ## Panel buttons.
 
