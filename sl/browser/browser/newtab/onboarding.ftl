@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Začni
 onboarding-welcome-header = Dobrodošli v { -brand-short-name }
 onboarding-welcome-body = Brskalnik že imate.<br/>Spoznajte še ostale storitve { -brand-product-name }.
 onboarding-welcome-learn-more = Spoznajte prednosti.
+onboarding-join-form-header = Pridružite se { -brand-product-name }u
 onboarding-welcome-modal-get-body = Brskalnik že imate.<br/>Zdaj pa kar najbolje izkoristite { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Dvignite svojo zaščito zasebnosti.
 onboarding-welcome-modal-privacy-body = Brskalnik že imate. Dodajmo še zaščito zasebnosti.
 onboarding-welcome-modal-family-learn-more = Spoznajte družino izdelkov { -brand-product-name }.
 onboarding-welcome-form-header = Začnite tukaj
-onboarding-join-form-header = Pridružite se { -brand-product-name }u
 onboarding-join-form-body = Za začetek vnesite e-poštni naslov.
 onboarding-join-form-email =
     .placeholder = Vnesite e-poštni naslov
@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Dodaj razširitev
 onboarding-import-browser-settings-title = Uvozite svoje zaznamke, gesla in drugo
 onboarding-import-browser-settings-text = Ne izgubljajte časa – prinesite strani in nastavitve iz Chroma s seboj.
 onboarding-import-browser-settings-button = Uvozi podatke iz Chroma
+onboarding-personal-data-promise-button = Preberite našo obljubo
 
 ## Message strings belonging to the Return to AMO flow
 
