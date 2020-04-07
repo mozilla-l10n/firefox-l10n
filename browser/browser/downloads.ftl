@@ -57,6 +57,29 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Clear Downloads
     .accesskey = D
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Allow Download
+    .accesskey = o
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Remove File
+downloads-cmd-remove-file-panel =
+    .aria-label = Remove File
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Remove File or Allow Download
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Remove File or Allow Download
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Open or Remove File
+downloads-cmd-choose-open-panel =
+    .aria-label = Open or Remove File
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -70,3 +93,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = There are no downloads.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = No downloads for this session.
