@@ -18,3 +18,8 @@ downloads-cmd-show =
     .label = Abrir pasta
     .tooltiptext = { downloads-cmd-show.label }
     .accesskey = r
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Remover arquivo
+downloads-cmd-remove-file-panel =
+    .aria-label = Remover arquivo
