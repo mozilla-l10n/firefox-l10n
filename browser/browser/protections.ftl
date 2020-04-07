@@ -63,9 +63,8 @@ lockwise-header-content = { -lockwise-brand-name } ապահով պահպանու
 lockwise-header-content-logged-in = Ապահով պահեք և համաժամացրեք ձեր գաղտնաբառերը ձեր բոլոր սարքերում:
 protection-report-view-logins-button = Դիտել մուտքերը
     .title = Անցնել պահված մուտքերին
-lockwise-no-logins-content = Ձեռք բերեք <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ծրագիրը՝ ձեր գաղտնաբառերը ամենուր վերցնելու համար:
 lockwise-mobile-app-title = Վերցրեք ձեր գաղտնաբառերը ամենուր
-lockwise-no-logins-card-content = Useանկացած սարքում օգտագործեք { -brand-short-name }-ով պահված գաղտնաբառերը:
+lockwise-no-logins-card-content = Ցանկացած սարքում օգտագործեք { -brand-short-name }-ով պահված գաղտնաբառերը:
 lockwise-app-links = { -lockwise-brand-name }-ը <a data-l10n-name="lockwise-android-inline-link">Android</a>-ի և <a data-l10n-name="lockwise-ios-inline-link">iOS</a>-ի համար
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
