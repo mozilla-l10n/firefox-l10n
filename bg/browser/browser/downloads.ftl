@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Пауза
     .accesskey = П
@@ -45,9 +50,27 @@ downloads-cmd-show-description =
             [macos] Показване във Finder
            *[other] Отваряне на съдържащата папка
         }
+downloads-cmd-show-downloads =
+    .label = Отваряне на папка Изтегляния
+downloads-cmd-retry =
+    .tooltiptext = Повторен опит
+downloads-cmd-retry-panel =
+    .aria-label = Повторен опит
+downloads-cmd-go-to-download-page =
+    .label = Отваряне на целевата страница
+    .accesskey = О
+downloads-cmd-copy-download-link =
+    .label = Копиране на препратка за изтегляне
+    .accesskey = К
 downloads-cmd-remove-from-history =
     .label = Премахване от списъка
     .accesskey = П
+downloads-cmd-clear-list =
+    .label = Изчистване на списъка
+    .accesskey = п
+downloads-cmd-clear-downloads =
+    .label = Почистване на списъка
+    .accesskey = п
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Разрешаване на изтеглянето
@@ -71,9 +94,39 @@ downloads-cmd-choose-open =
     .tooltiptext = Отваряне или премахване на файл
 downloads-cmd-choose-open-panel =
     .aria-label = Отваряне или премахване на файл
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Повече информация
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Отваряне
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Повторен опит за изтегляне
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Прекъсване
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Показване на всички изтегляния
     .accesskey = в
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Подробности за изтеглянето
+downloads-clear-downloads-button =
+    .label = Почистване на списъка
+    .tooltiptext = Премахва завършили, отменени и неуспешни изтегляния от списъка
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Списъкът с изтегляния е празен.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = За момента няма изтеглени файлове.
