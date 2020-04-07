@@ -24,6 +24,49 @@ downloads-cmd-show =
     .label = Peldanka ku tê de ye veke
     .tooltiptext = { downloads-cmd-show.label }
     .accesskey = P
+# This message is only displayed on macOS devices
+downloads-cmd-show-mac =
+    .label = Di Finderê de nîşan bide
+    .tooltiptext = { downloads-cmd-show-mac.label }
+    .accesskey = F
+downloads-cmd-show-panel =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Di Finderê de nîşan bide
+           *[other] Peldanka ku tê de ye veke
+        }
+downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Di Finderê de nîşan bide
+           *[other] Peldanka ku tê de ye veke
+        }
+downloads-cmd-retry =
+    .tooltiptext = Dîsa biceribîne
+downloads-cmd-retry-panel =
+    .aria-label = Dîsa biceribîne
+downloads-cmd-go-to-download-page =
+    .label = Here rûpela jêbarkirinê
+    .accesskey = H
 downloads-cmd-copy-download-link =
     .label = Girêdana Daxistinê Ji Ber Bigire
     .accesskey = G
+downloads-cmd-remove-from-history =
+    .label = Ji Raboriyê rake
+    .accesskey = r
+downloads-cmd-clear-downloads =
+    .label = Jêbarkiriyan paqij bike
+    .accesskey = J
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Hemû jêbarkiriyan nîşan bide
+    .accesskey = n
+downloads-clear-downloads-button =
+    .label = Jêbarkiriyan paqij bike
+    .tooltiptext = Jêbarkirinên qediyayî, betalkirî û neserkeftî paqij dike
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Jêbarkirin tune ye.
