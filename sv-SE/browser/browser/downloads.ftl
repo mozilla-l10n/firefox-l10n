@@ -87,6 +87,18 @@ downloads-cmd-choose-open =
     .tooltiptext = Öppna eller ta bort fil
 downloads-cmd-choose-open-panel =
     .aria-label = Öppna eller ta bort fil
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Visa mer information
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Öppna fil
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Avbryt hämtning
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
