@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Yeb yi
+downloads-panel =
+    .aria-label = Yeb yi
 
 ##
 
