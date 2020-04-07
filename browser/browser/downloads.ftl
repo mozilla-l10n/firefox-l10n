@@ -70,3 +70,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = কোনো ডাউনল'ড নাই।
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = এই অধিবেশনৰ বাবে কোনো ডাউনল'ড নাই।
