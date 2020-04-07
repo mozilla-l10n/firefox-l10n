@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Ներբեռնումներ
+downloads-panel =
+    .aria-label = Ներբեռնումներ
 
 ##
 
@@ -30,6 +34,8 @@ downloads-cmd-show-description =
             [macos] Ցուցադրել Finder-ում
            *[other] Բացել թղթապանակը
         }
+downloads-cmd-show-downloads =
+    .label = Ցուցադրել Ներբեռնումների թղթապանակը
 downloads-cmd-retry =
     .tooltiptext = Կրկնել
 downloads-cmd-retry-panel =
@@ -72,6 +78,33 @@ downloads-cmd-choose-open =
     .tooltiptext = Բացել կամ հեռացնել ֆայլը
 downloads-cmd-choose-open-panel =
     .aria-label = Բացել կամ հեռացնել ֆայլը
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Ցուցադրել լր. տեղեկություն
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Բացել Ֆայլ
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Կրկնել ներբեռնումը
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Չեղարկել ներբեռնումը
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Ներբեռնմանի մանրամասները
 downloads-clear-downloads-button =
     .label = Մաքրել ներբեռնումները
     .tooltiptext = Հեռացնում է ավարտված, չեղարկված և ձախողված ներբեռնումները
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Չկան ներբեռնումներ։
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Չկան ներբեռնումներ այս աշխատաշրջանում:
