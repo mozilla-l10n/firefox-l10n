@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Zumandey
+downloads-panel =
+    .aria-label = Zumandey
 
 ##
 
@@ -47,3 +51,12 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Zumandi doboo berandi
     .accesskey = d
+downloads-cmd-remove-from-history =
+    .label = Kaa taarikoo ra
+    .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = Zumandey tuusu
+    .accesskey = d
+downloads-clear-downloads-button =
+    .label = Zumandey tuusu
+    .tooltiptext = Zumandey kaŋ timme, naŋandi nda hasara tuusu
