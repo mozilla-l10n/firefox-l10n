@@ -15,6 +15,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = پھر جاری کریں
     .accesskey = پ
+downloads-cmd-cancel =
+    .tooltiptext = منسوخ کریں
+downloads-cmd-cancel-panel =
+    .aria-label = منسوخ کریں
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = حامل پوشہ کھولیں
@@ -50,9 +54,28 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = سابقات سے ہٹائیں
     .accesskey = ہ
+downloads-cmd-clear-list =
+    .label = صاف پیش نظارہ پینل
+    .accesskey = ف
 downloads-cmd-clear-downloads =
     .label = ڈاؤن لوڈ خالی کریں
     .accesskey = ڈ
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = اجازت دیں ڈاؤن لوڈ کرنے کی
+    .accesskey = ز
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = مسل ہٹائیں
+downloads-cmd-remove-file-panel =
+    .aria-label = مسل ہٹائیں
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = کھولیں یا مسل ہٹائیں
+downloads-cmd-choose-open-panel =
+    .aria-label = کھولیں یا مسل ہٹائیں
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
