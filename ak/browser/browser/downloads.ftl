@@ -47,3 +47,9 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Fa Link a wɔde yɛ Ntwe
     .accesskey = L
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Kyerɛ Atweatwe Nyinaa
+    .accesskey = K
