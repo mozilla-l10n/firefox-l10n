@@ -65,6 +65,12 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Dure' riña gaché nun'
     .accesskey = e
+downloads-cmd-clear-list =
+    .label = Nagi'iaj nìñu' riña ni'io'
+    .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = Gùyun' nej sa naduni'
+    .accesskey = D
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Gani' naduninj ma
