@@ -98,12 +98,24 @@ downloads-cmd-choose-open-panel =
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Buka Berkas
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Coba Unduh Lagi
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Batalkan Unduhan
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Tampilkan Semua Unduhan
     .accesskey = U
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Detail Unduhan
 downloads-clear-downloads-button =
     .label = Bersihkan Unduhan
     .tooltiptext = Bersihkan semua unduhan yang selesai, dibatalkan, atau gagal
