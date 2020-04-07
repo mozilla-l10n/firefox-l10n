@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Witajśo k { -brand-full-name }
+account-settings = Kontowe nastajenja
+#   $accounts (Number) - the number of configured accounts
 setup-title = Wubjeŕśo, což ma se konfigurěrowaś
 about-title = Wó { -brand-full-name }
 resources-title = Resurse
@@ -40,3 +42,10 @@ explore-link = Funkcije wuslěźiś
 support-link = Pomoc
 involved-link = Cyńśo sobu
 developer-link = Wuwijarska dokumentacija
+read = Powěsći cytaś
+compose = Nowu powěsć pisaś
+search = Powěsći pytaś
+filter = Powěsćowe filtry zastojaś
+nntp-subscription = Abonementy diskusijnych kupkow zastojaś
+rss-subscription = Kanalowe abonomenty zastojaś
+e2e = Koděrowanje wót kóńca do kóńca
