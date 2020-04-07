@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "메시지 저장…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "캘린더 파일…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "C">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "캘린더에서 삭제">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "상세…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "이벤트 상세 보기">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "이 메시지 보여주지 않기">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "달력">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "캘린더 탭으로 이동">
 <!ENTITY lightning.imipbar.btnMore.label                                    "더 보기">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "더 많은 옵션을 보려면 클릭">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "재확인">
