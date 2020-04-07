@@ -80,6 +80,13 @@ downloads-cmd-remove-file =
     .tooltiptext = مسل ہٹائیں
 downloads-cmd-remove-file-panel =
     .aria-label = مسل ہٹائیں
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = مسل ہٹائیں یا ڈاؤن لوڈ اجازت دیں
+downloads-cmd-choose-unblock-panel =
+    .aria-label = مسل ہٹائیں یا ڈاؤن لوڈ اجازت دیں
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
