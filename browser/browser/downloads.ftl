@@ -53,6 +53,25 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക
     .accesskey = ക
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = ഫയല്‍ നീക്കം ചെയ്യുക
+downloads-cmd-remove-file-panel =
+    .aria-label = ഫയല്‍ നീക്കം ചെയ്യുക
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = ഫയല്‍ നീക്കം ചെയ്യുക അല്ലെങ്കില്‍ ഡൗണ്‍ലോഡ് അനുവദിക്കുക
+downloads-cmd-choose-unblock-panel =
+    .aria-label = ഫയല്‍ നീക്കം ചെയ്യുക അല്ലെങ്കില്‍ ഡൗണ്‍ലോഡ് അനുവദിക്കുക
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = ഫയല്‍ തുറക്കുകയോ നീക്കം ചെയ്യുകയോ ചെയ്യുക
+downloads-cmd-choose-open-panel =
+    .aria-label = ഫയല്‍ തുറക്കുകയോ നീക്കം ചെയ്യുകയോ ചെയ്യുക
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
