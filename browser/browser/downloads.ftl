@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = डाउनलोडहरू
+downloads-panel =
+    .aria-label = डाउनलोडहरू
 
 ##
 
@@ -41,6 +45,8 @@ downloads-cmd-show-description =
             [macos] फाइन्डरमा देखाउनुहोस्
            *[other] समाविष्ट भएको फोल्डर खोल्नुहोस्
         }
+downloads-cmd-show-downloads =
+    .label = डाउनलोड फोल्डर देखाउनुहोस्
 downloads-cmd-retry =
     .tooltiptext = पुनः प्रयास गर्नुहोस्
 downloads-cmd-retry-panel =
@@ -83,12 +89,36 @@ downloads-cmd-choose-open =
     .tooltiptext = फाइल खोल्नुहोस् अथवा हटाउनुहोस्
 downloads-cmd-choose-open-panel =
     .aria-label = फाइल खोल्नुहोस् अथवा हटाउनुहोस्
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = थप जानकारी देखाउनुहोस्
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = फाइल खोल्नुहोस्
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = डाउनलोड गर्न पुनःप्रयास गर्नुहोस्
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = डाउनलोड रद्द गर्नुहोस्
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = सबै डाउनलोड देखाउनुहोस्
     .accesskey = S
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = डाउनलेाडको विवरणहरू
 downloads-clear-downloads-button =
     .label = डाउनलेाडहरू खाली गर्नुहोस्
     .tooltiptext = सबै सकिएका, रद्ध गरिएका र विफल भएका डाउनलोडहरू मेटाउनुहोस्
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = कुनै डाउनलोडहरू छैन।
