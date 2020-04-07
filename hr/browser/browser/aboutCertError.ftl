@@ -93,5 +93,5 @@ blockedByPolicy-title = Blokirana stranica
 clockSkewError-title = Vrijeme na tvom računalu je krivo
 networkProtocolError-title = Greška mrežnog protokola
 nssBadCert-title = Upozorenje: potencijalni sigurnosni rizik
-nssBadCert-sts-title = Nije se spojio: potencijalni sigurnosni problem
+nssBadCert-sts-title = Neuspjelo povezivanje: potencijalni sigurnosni problem
 certerror-mitm-title = Program spriječava { -brand-short-name } da se sigurno poveže s ovom stranicom

@@ -44,7 +44,7 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
-onboarding-fullpage-welcome-subheader = Počnimo s istraživanjem svega što možete učiniti.
+onboarding-fullpage-welcome-subheader = Počnimo s istraživanjem svega što možeš učiniti.
 onboarding-fullpage-form-email =
     .placeholder = Tvoja e-adresa …
 
