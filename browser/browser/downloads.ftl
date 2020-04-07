@@ -57,17 +57,31 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Αντιγραφή συνδέσμου λήψης
     .accesskey = δ
+downloads-cmd-remove-from-history =
+    .label = Αφαίρεση από το ιστορικό
+    .accesskey = ι
 downloads-cmd-clear-list =
     .label = Απαλοιφή πλαισίου προεπισκόπησης
     .accesskey = κ
 downloads-cmd-clear-downloads =
     .label = Εκκαθάριση λήψεων
     .accesskey = θ
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Αποδοχή λήψης
+    .accesskey = α
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Διαγραφή αρχείου
 downloads-cmd-remove-file-panel =
     .aria-label = Διαγραφή αρχείου
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Διαγραφή αρχείου ή αποδοχή λήψης
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Διαγραφή αρχείου ή αποδοχή λήψης
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
@@ -91,6 +105,12 @@ downloads-retry-download =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Ακύρωση λήψης
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Προβολή όλων των λήψεων
+    .accesskey = Π
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
