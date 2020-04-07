@@ -45,6 +45,8 @@ downloads-cmd-show-description =
             [macos] கண்டுபிடிப்பானில் காண்பி
            *[other] கோப்பகத்திலிருந்து திற
         }
+downloads-cmd-show-downloads =
+    .label = பதிவிறக்க கோப்புறையைக் காண்பி
 downloads-cmd-retry =
     .tooltiptext = மறுமுயற்சி
 downloads-cmd-retry-panel =
