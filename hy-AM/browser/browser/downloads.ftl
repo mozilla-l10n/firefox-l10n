@@ -13,3 +13,6 @@ downloads-cmd-retry =
     .tooltiptext = Կրկնել
 downloads-cmd-retry-panel =
     .aria-label = Կրկնել
+downloads-cmd-remove-from-history =
+    .label = Ջնջել Պատմությունից
+    .accesskey = ն
