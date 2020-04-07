@@ -66,6 +66,14 @@ policy-HardwareAcceleration = False 값이면 하드웨어 가속 기능을 끕�
 policy-Homepage = 홈페이지를 설정하고 선택적으로 잠급니다.
 policy-InstallAddonsPermission = 특정 웹 사이트가 부가 기능을 설치할 수 있게 허용합니다.
 policy-LegacyProfiles = 각 설치별로 다른 프로필 사용을 강제하는 기능을 사용 안 합니다.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = 기본 레거시 SameSite 쿠키 동작 설정을 사용합니다.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = 지정된 사이트의 쿠키에 대해 레거시 SameSite 동작으로 되돌립니다.
+
+##
+
 policy-LocalFileLinks = 특정 웹 사이트가 로컬 파일을 링크하도록 허용합니다.
 policy-NetworkPrediction = 네트워크 예측(DNS 프리페칭)을 사용하거나 사용하지 않게 합니다.
 policy-NewTabPage = 새 탭 페이지를 사용하거나 사용하지 않게 합니다.
