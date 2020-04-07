@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Trang tải xuống
+downloads-panel =
+    .aria-label = Trang tải xuống
 
 ##
 
@@ -15,6 +19,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Tiếp tục
     .accesskey = T
+downloads-cmd-cancel =
+    .tooltiptext = Hủy bỏ
+downloads-cmd-cancel-panel =
+    .aria-label = Hủy bỏ
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Mở thư mục chứa
@@ -37,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Hiển thị trong Finder
            *[other] Mở thư mục chứa
         }
+downloads-cmd-show-downloads =
+    .label = Mở thư mục tải xuống
 downloads-cmd-retry =
     .tooltiptext = Thử lại
 downloads-cmd-retry-panel =
@@ -63,3 +73,15 @@ downloads-cmd-choose-open =
     .tooltiptext = Mở hoặc xóa tập tin
 downloads-cmd-choose-open-panel =
     .aria-label = Mở hoặc xóa tập tin
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Hiện thêm thông tin
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Mở tập tin
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Thử tải lại
