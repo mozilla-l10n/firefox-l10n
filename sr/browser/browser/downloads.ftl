@@ -23,6 +23,30 @@ downloads-cmd-cancel =
     .tooltiptext = Откажи
 downloads-cmd-cancel-panel =
     .aria-label = Откажи
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show =
+    .label = Отвори фасциклу са преузетим садржајем
+    .tooltiptext = { downloads-cmd-show.label }
+    .accesskey = П
+# This message is only displayed on macOS devices
+downloads-cmd-show-mac =
+    .label = Прикажи у Finder-у
+    .tooltiptext = { downloads-cmd-show-mac.label }
+    .accesskey = П
+downloads-cmd-show-panel =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Прикажи у Finder-у
+           *[other] Отвори фасциклу са преузетим садржајем
+        }
+downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Прикажи у Finder-у
+           *[other] Отвори фасциклу са преузетим садржајем
+        }
+downloads-cmd-show-downloads =
+    .label = Прикажи фасциклу преузимања
 downloads-cmd-retry =
     .tooltiptext = Покушај поново
 downloads-cmd-retry-panel =
@@ -87,6 +111,10 @@ downloads-cancel-download =
 downloads-history =
     .label = Прикажи сва преузимања
     .accesskey = П
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Детаљи преузимања
 downloads-clear-downloads-button =
     .label = Обриши преузимања
     .tooltiptext = Брише завршена, отказана и неуспела преузимања
@@ -94,3 +122,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Нема преузимања.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Нема преузимања у току ове сесије.
