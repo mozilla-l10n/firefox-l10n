@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Croeso i { -brand-full-name }
+account-settings = Gosodiadau Cyfrif
+#   $accounts (Number) - the number of configured accounts
 setup-title = Dewis Beth i'w Osod
 about-title = Ynghylch { -brand-full-name }
 resources-title = Adnoddau
@@ -40,3 +42,10 @@ explore-link = Edrych ar y Nodweddion
 support-link = Cefnogaeth
 involved-link = Ymunwch â ni!
 developer-link = Dogfennaeth Datblygwr
+read = Darllen negeseuon
+compose = Ysgrifennu neges newydd
+search = Chwilio drwy'r Negeseuon
+filter = Rheoli hidlau negeseuon
+nntp-subscription = Rheoli tanysgrifiadau grwpiau newyddion
+rss-subscription = Rheoli tanysgrifiadau llif
+e2e = Amgryptio Pen-i-Ben
