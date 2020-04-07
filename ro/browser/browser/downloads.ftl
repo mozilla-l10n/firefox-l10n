@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Pauză
     .accesskey = P
@@ -45,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Afișează în Finder
            *[other] Deschide dosarul conținător
         }
+downloads-cmd-show-downloads =
+    .label = Afișează dosarul cu descărcări
 downloads-cmd-retry =
     .tooltiptext = Reîncearcă
 downloads-cmd-retry-panel =
@@ -113,6 +120,9 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalii privind descărcarea
+downloads-clear-downloads-button =
+    .label = Șterge descărcările
+    .tooltiptext = Șterge descărcările finalizate, anulate și eșuate
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
