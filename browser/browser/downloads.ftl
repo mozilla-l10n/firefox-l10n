@@ -51,6 +51,9 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = ଆହରଣ ସଂଯୋଗିକୀକୁ ନକଲ କରନ୍ତୁ
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = ପୁରୁଣା ତଥ୍ୟରୁ ବାହାର କରନ୍ତୁ
+    .accesskey = e
 downloads-cmd-clear-downloads =
     .label = ଆହରଣଗୁଡ଼ିକୁ ସଫା କରନ୍ତୁ
     .accesskey = D
@@ -60,6 +63,9 @@ downloads-cmd-clear-downloads =
 downloads-history =
     .label = ସମସ୍ତ ଆହରଣଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ
     .accesskey = S
+downloads-clear-downloads-button =
+    .label = ଆହରଣଗୁଡ଼ିକୁ ସଫାକରନ୍ତୁ
+    .tooltiptext = ସଫା କରାସରିଛି, ବାତିଲ ହୋଇଛି ଏବଂ ଆହରଣ ବିଫଳ ହୋଇଛି
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
