@@ -4,6 +4,7 @@
 
 about-telemetry-ping-data-source = Извор података пинга:
 about-telemetry-show-current-ping-data = Подаци тренутног пинга
+about-telemetry-show-current-data = Тренутни подаци
 about-telemetry-show-archived-ping-data = Архивирани подаци пинга
 about-telemetry-show-subsession-data = Прикажи податке сесије
 about-telemetry-choose-ping = Изабери пинг:
@@ -15,6 +16,7 @@ about-telemetry-option-group-older = Старије
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Подаци телеметрије
+about-telemetry-current-store = Тренутна продавница:
 about-telemetry-more-information = Тражите више података?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox документација података</a> садржи водиче о томе како радити са нашим алатима за податке.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox документација телеметрије клијента</a> укључује дефиниције концепта, API документацију и референце података.
