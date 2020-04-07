@@ -301,6 +301,7 @@ startup-cache-title = Startowy pufrowak
 startup-cache-disk-cache-path = Šćežka tačeloweho pufrowaka
 startup-cache-ignore-disk-cache = Tačelowy pufrowak ignorować
 startup-cache-found-disk-cache-on-init = Tačelowy pufrowak je so namakał při inicializowanju
+startup-cache-wrote-to-disk-cache = Je so do tačeloweho pufrowaka napisało
 launcher-process-status-0 = Zmóžnjeny
 launcher-process-status-1 = Zmylka dla znjemóžnjeny
 launcher-process-status-2 = Namócnje znjemóžnjeny
