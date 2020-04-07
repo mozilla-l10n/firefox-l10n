@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Pellgargadurioù
+downloads-panel =
+    .aria-label = Pellgargadurioù
 
 ##
 
@@ -41,6 +45,8 @@ downloads-cmd-show-description =
             [macos] Diskouez e-barzh Finder
            *[other] Digeriñ an teuliad a endalc'h ar restr
         }
+downloads-cmd-show-downloads =
+    .label = Diskouez teuliad ar pellgargadurioù
 downloads-cmd-retry =
     .tooltiptext = Klask en-dro
 downloads-cmd-retry-panel =
@@ -83,12 +89,39 @@ downloads-cmd-choose-open =
     .tooltiptext = Digeriñ pe dilemel ar restr
 downloads-cmd-choose-open-panel =
     .aria-label = Digeriñ pe dilemel ar restr
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Diskouez muioc'h a ditouroù
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Digeriñ ar restr
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = Adklask ar bellgargañ
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = Nullañ ar bellgargañ
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Diskouez an holl bellgargadurioù
     .accesskey = k
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Munudoù ar bellgargardenn
 downloads-clear-downloads-button =
     .label = Skarzhañ roll ar pellgargadurioù
     .tooltiptext = Skarzhet eo bet ar pellgargadurioù peurechu, nullet ha c'hwitet
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = N'eus pellgargadur ebet.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Pellgargadur ebet evit an estez-mañ.
