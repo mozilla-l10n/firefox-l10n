@@ -15,6 +15,10 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Fortsett
     .accesskey = F
+downloads-cmd-cancel =
+    .tooltiptext = Avbryt
+downloads-cmd-cancel-panel =
+    .aria-label = Avbryt
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show =
     .label = Åpne mappen med filen
@@ -50,14 +54,35 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Fjern fra historikk
     .accesskey = e
+downloads-cmd-clear-list =
+    .label = Rens forhåndsvisningspanel
+    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Fjern nedlastinger
+    .accesskey = e
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Tillat nedlasting
     .accesskey = e
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Fjern fil
 downloads-cmd-remove-file-panel =
     .aria-label = Fjern fil
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Slett fil eller tillat nedlasting
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Slett fil eller tillat nedlasting
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Åpne eller slett fil
+downloads-cmd-choose-open-panel =
+    .aria-label = Åpne eller slett fil
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
