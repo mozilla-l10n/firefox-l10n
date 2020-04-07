@@ -51,3 +51,9 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = බාගත කිරීම් සබැඳිය පිටපත් කරන්න
     .accesskey = L
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = සියළු බාගත කිරීම් පෙන්වන්න
+    .accesskey = S
