@@ -28,28 +28,11 @@ downloads-cmd-cancel =
     .tooltiptext = Avbryt
 downloads-cmd-cancel-panel =
     .aria-label = Avbryt
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Öppna mapp
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = m
 # This message is only displayed on macOS devices
 downloads-cmd-show-mac =
     .label = Visa i Finder
     .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
-downloads-cmd-show-panel =
-    .aria-label =
-        { PLATFORM() ->
-            [macos] Visa i Finder
-           *[other] Öppna mapp
-        }
-downloads-cmd-show-description =
-    .value =
-        { PLATFORM() ->
-            [macos] Visa i Finder
-           *[other] Öppna mapp
-        }
 downloads-cmd-show-downloads =
     .label = Visa mapp för hämtade filer
 downloads-cmd-retry =
@@ -65,9 +48,6 @@ downloads-cmd-copy-download-link =
 downloads-cmd-remove-from-history =
     .label = Ta bort från historik
     .accesskey = T
-downloads-cmd-clear-list =
-    .label = Rensa förhandsgranskningsruta
-    .accesskey = a
 downloads-cmd-clear-downloads =
     .label = Rensa hämtningar
     .accesskey = h
