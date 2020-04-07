@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = නවතන්න
     .accesskey = P
@@ -55,6 +60,24 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = බාගත කිරීම් සබැඳිය පිටපත් කරන්න
     .accesskey = L
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = සියලු බාගැණීම්
+    .accesskey = o
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = ගොනු ඉවත් කරන්න හෝ බාගැණීම් අනුමත කරන්න
+downloads-cmd-choose-unblock-panel =
+    .aria-label = ගොනු ඉවත් කරන්න හෝ බාගැණීම් අනුමත කරන්න
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = ගොනු විවෘත හෝ ඉවත් කරන්න
+downloads-cmd-choose-open-panel =
+    .aria-label = ගොනු විවෘත හෝ ඉවත් කරන්න
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
