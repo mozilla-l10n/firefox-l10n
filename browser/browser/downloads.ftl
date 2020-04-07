@@ -44,3 +44,18 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Copïo Dolen Llwytho i Lawr
     .accesskey = C
+downloads-cmd-remove-from-history =
+    .label = Tynnu o'r Hanes
+    .accesskey = y
+downloads-cmd-clear-downloads =
+    .label = Clirio Llwythi
+    .accesskey = L
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Dangos Pob Llwyth
+    .accesskey = D
+downloads-clear-downloads-button =
+    .label = Clirio'r Llwythi
+    .tooltiptext = Yn clirio llwythi cwblhawyd, dilëwyd a methwyd
