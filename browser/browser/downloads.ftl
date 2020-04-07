@@ -55,6 +55,34 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Копирај врска за преземање
     .accesskey = и
+downloads-cmd-remove-from-history =
+    .label = Избриши од историја
+    .accesskey = б
+downloads-cmd-clear-downloads =
+    .label = Исчисти ги преземањата
+    .accesskey = п
+# This command is shown in the context menu when downloads are blocked.
+downloads-cmd-unblock =
+    .label = Дозволи преземање
+    .accesskey = л
+# This is the tooltip of the action button shown when malware is blocked.
+downloads-cmd-remove-file =
+    .tooltiptext = Отстрани датотека
+downloads-cmd-remove-file-panel =
+    .aria-label = Отстрани датотека
+# This is the tooltip of the action button shown when potentially unwanted
+# downloads are blocked. This opens a dialog where the user can choose
+# whether to unblock or remove the download. Removing is the default option.
+downloads-cmd-choose-unblock =
+    .tooltiptext = Отстрани датотекиа или Дозволи преземање
+downloads-cmd-choose-unblock-panel =
+    .aria-label = Отстрани датотекиа или Дозволи преземање
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = Прикажи ги сите преземања
+    .accesskey = S
 downloads-clear-downloads-button =
     .label = Исчисти ги преземањата
     .tooltiptext = Ги чисти списокот од завшени, откажани и неуспешни преземања
