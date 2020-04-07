@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = ڈاؤن لوڈ
+downloads-panel =
+    .aria-label = ڈاؤن لوڈ
 
 ##
 
@@ -41,6 +45,8 @@ downloads-cmd-show-description =
             [macos] ڈھونڈ کار میں دکھائیں
            *[other] حامل پوشہ کھولیں
         }
+downloads-cmd-show-downloads =
+    .label = ڈاؤن لوڈ پوشہ دکھائیں
 downloads-cmd-retry =
     .tooltiptext = پھر کوشش کریں
 downloads-cmd-retry-panel =
@@ -76,6 +82,22 @@ downloads-cmd-choose-open =
     .tooltiptext = کھولیں یا مسل ہٹائیں
 downloads-cmd-choose-open-panel =
     .aria-label = کھولیں یا مسل ہٹائیں
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = مزید معلومات دکھائیں
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = مسل کھولیں
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = ڈاؤن لوڈ کی پھر کوشش کریں
+# Displayed when hovering a download which is able to be cancelled by users,
+# indicates that it's possible to cancel and stop the download.
+downloads-cancel-download =
+    .value = ڈاؤن لوڈ منسوخ کریں
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -85,3 +107,10 @@ downloads-history =
 downloads-clear-downloads-button =
     .label = ڈاؤن لوڈ خالی کریں
     .tooltiptext = مکمل، منسوخ شدہ اور ناکام ڈاؤن لوڈ کریں ہٹاتا ہے
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = کوئی ڈاؤن لوڈ نہیں ہیں۔
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = اس سیشن کے لیئے کوئی ڈاؤن لوڈ نہیں۔
