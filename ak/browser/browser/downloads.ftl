@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Atweatwe
+downloads-panel =
+    .aria-label = Atweatwe
 
 ##
 
@@ -47,9 +51,22 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Fa Link a wɔde yɛ Ntwe
     .accesskey = L
+downloads-cmd-remove-from-history =
+    .label = Yi Firi Abakɔsɛm mu
+    .accesskey = Y
+downloads-cmd-clear-downloads =
+    .label = Pepa Ntwe
+    .accesskey = N
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Kyerɛ Atweatwe Nyinaa
     .accesskey = K
+downloads-clear-downloads-button =
+    .label = Pepa Ntwe
+    .tooltiptext = Ewie apepa, atwa na egyae ntwe mu
+# This string is shown when there are no items in the Downloads view, when it
+# is displayed inside a browser tab.
+downloads-list-empty =
+    .value = Atwe biara nni hɔ.
