@@ -18,6 +18,9 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 70ch
+downloads-cmd-pause =
+    .label = مکث
+    .accesskey = P
 downloads-cmd-resume =
     .label = ازسرگیری
     .accesskey = س
