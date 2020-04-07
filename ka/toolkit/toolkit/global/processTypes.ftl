@@ -5,7 +5,7 @@
 process-type-web = ვებშიგთავსი
 # process used to run privileged pages,
 # such as about:home
-process-type-privileged = უპირატესად შიგთავსი
+process-type-privileged = უპირატესი შიგთავსი
 # process used to run privileged about pages,
 # such as about:home
 process-type-privilegedabout = უპირატესად შესახებ-გვერდები
