@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = Conocer más
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Contraseña vulnerable
-about-logins-vulnerable-alert-text = Esta contraseña se filtró o fue robada en la violación de datos de otra empresa. Reutilizar las credenciales pone en riesgo todas sus cuentas. Para mejorar su seguridad en línea, cambie esta contraseña.
+about-logins-vulnerable-alert-text2 = Esta contraseña se usó para otra cuenta que probablemente sufrió una violación de datos. Reutilizar credenciales pone en riesgo todas sus cuentas. Cambie esta contraseña.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Vaya a { $hostname }
