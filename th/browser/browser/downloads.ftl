@@ -16,6 +16,11 @@ downloads-cmd-cancel =
     .tooltiptext = ยกเลิก
 downloads-cmd-cancel-panel =
     .aria-label = ยกเลิก
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show =
+    .label = เปิดโฟลเดอร์ที่บรรจุ
+    .tooltiptext = { downloads-cmd-show.label }
+    .accesskey = ฟ
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
