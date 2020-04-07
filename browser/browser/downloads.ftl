@@ -110,6 +110,12 @@ downloads-retry-download =
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ביטול הורדה
+# This string is shown at the bottom of the Downloads Panel when all the
+# downloads fit in the available space, or when there are no downloads in
+# the panel at all.
+downloads-history =
+    .label = הצגת כל ההורדות
+    .accesskey = ה
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
