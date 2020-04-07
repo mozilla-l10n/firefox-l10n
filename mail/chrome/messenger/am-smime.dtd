@@ -12,6 +12,13 @@
 <!ENTITY alwaysEncryptMessage.label "암호화 사용함 (개인 인증서 필요)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "다음 개인 인증서 사용:">
+
+<!ENTITY e2eTitle.label "종단간 암호화">
+<!ENTITY e2eIntro.description "암호화되거나 디지털 서명 된 메시지를 보내려면 OpenPGP 또는 S/MIME과 같은 암호화 기술을 구성해야 합니다.">
+<!ENTITY e2eLearnMore.label "더 알아보기">
+
+
+
 <!ENTITY digitalSign.certificate.button "선택…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "제거">
@@ -31,7 +38,14 @@
 <!ENTITY manageDevices.label "보안 장치 관리">
 <!ENTITY manageDevices.accesskey "y">
 
+
+
+
+
+
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "인증서 선택">
 <!ENTITY certPicker.info  "인증서:">
 <!ENTITY certPicker.detailsLabel "선택한 인증서 상세 정보:">
+
