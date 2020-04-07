@@ -13,6 +13,10 @@ downloads-panel =
 
 ##
 
+downloads-cmd-cancel =
+    .tooltiptext = Bateuë
+downloads-cmd-cancel-panel =
+    .aria-label = Bateuë
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Böh Beureukaih
