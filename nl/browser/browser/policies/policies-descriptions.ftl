@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Wanneer false, hardwareversnelling uitschakelen.
 policy-Homepage = De startpagina instellen en optioneel vergrendelen.
 policy-InstallAddonsPermission = Toestaan dat bepaalde websites add-ons installeren.
 policy-LegacyProfiles = Functie om een afzonderlijk profiel voor elke installatie af te dwingen uitschakelen
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Standaardinstelling voor verouderd SameSite-cookiegedrag inschakelen.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Op specifieke websites terugkeren naar verouderd SameSite-gedrag voor cookies.
+
+##
+
 policy-LocalFileLinks = Specifieke websites toestaan te koppelen naar lokale bestanden.
 policy-NetworkPrediction = ‘Network prediction’ (DNS prefetching) inschakelen of uitschakelen.
 policy-NewTabPage = De nieuw-tabbladpagina inschakelen of uitschakelen.
