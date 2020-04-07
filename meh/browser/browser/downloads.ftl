@@ -13,12 +13,25 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Siankuiñɨ
     .accesskey = P
 downloads-cmd-resume =
     .label = Kajie´e tuku
     .accesskey = R
+downloads-cmd-cancel =
+    .tooltiptext = Nkuvi-ka
+downloads-cmd-cancel-panel =
+    .aria-label = Nkuvi-ka
+downloads-cmd-retry =
+    .tooltiptext = Nasá´á tuku
+downloads-cmd-retry-panel =
+    .aria-label = Nasá´á tuku
 downloads-cmd-copy-download-link =
     .label = Tɨɨn enlace nxinuu
     .accesskey = L
