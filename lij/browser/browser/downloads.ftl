@@ -13,6 +13,11 @@ downloads-panel =
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Pösa
     .accesskey = P
@@ -63,6 +68,9 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-list =
     .label = Scancella Panello Anteprimma
     .accesskey = a
+downloads-cmd-clear-downloads =
+    .label = Scancella elenco descaregamenti
+    .accesskey = n
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Permetti descaregamento
@@ -89,6 +97,9 @@ downloads-history =
 # that we are showing the details of a single download.
 downloads-details =
     .title = Detalli do descaregamento
+downloads-clear-downloads-button =
+    .label = Scancella elenco descaregamenti
+    .tooltiptext = Scancella da l'elenco i descaregamenti conpletæ, anulæ ò no ariescii
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
