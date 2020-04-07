@@ -25,3 +25,7 @@ downloads-cmd-choose-open =
     .tooltiptext = Peuhah atawa Böh Beureukaih
 downloads-cmd-choose-open-panel =
     .aria-label = Peuhah atawa Böh Beureukaih
+# Displayed when hovering a complete download, indicates that it's possible to
+# open the file using an app available in the system.
+downloads-open-file =
+    .value = Peuhah Beureukaih
