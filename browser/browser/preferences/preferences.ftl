@@ -767,6 +767,7 @@ forms-master-pw-fips-desc = Грешка приликом промене лоз�
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -1020,6 +1021,7 @@ permissions-a11y-privacy-link = Сазнајте више
 collection-header = { -brand-short-name } сакупљање и коришћење података
 collection-description = Трудимо се да вам пружимо избор и да сакупљамо само оно што нам је потребно да градимо и побољшамо { -brand-short-name } за све. Увек ћемо питати за дозволу пре примања личних података.
 collection-privacy-notice = Обавештење о приватности
+collection-health-report-telemetry-disabled-link = Сазнајте више
 collection-health-report =
     .label = Дозволи { -brand-short-name }-у да шаље техничке и интерактивне податке { -vendor-short-name }-и
     .accesskey = р
