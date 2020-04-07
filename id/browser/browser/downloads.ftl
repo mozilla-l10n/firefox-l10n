@@ -94,6 +94,10 @@ downloads-cmd-choose-open =
     .tooltiptext = Buka atau Hapus Berkas
 downloads-cmd-choose-open-panel =
     .aria-label = Buka atau Hapus Berkas
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Tampilkan informasi lebih lanjut
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
