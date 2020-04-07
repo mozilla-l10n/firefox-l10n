@@ -68,3 +68,15 @@ remove-all-shown =
 remove-all-passwords-prompt = 비밀번호를 모두 삭제하시겠습니까?
 remove-all-passwords-title = 모든 비밀번호 삭제
 no-master-password-prompt = 정말 암호를 보이게 하시겠습니까?
+
+## OS Authentication dialog
+
+# This message can be seen by trying to show or copy the passwords.
+password-os-auth-dialog-message = 저장된 비밀번호를 보려면 자격 증명을 검증하세요.
+# This message can be seen by trying to show or copy the passwords.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+password-os-auth-dialog-message-macosx = 저장된 비밀번호 표시
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }
