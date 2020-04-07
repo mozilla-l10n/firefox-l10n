@@ -77,6 +77,17 @@ downloads-cmd-choose-unblock =
     .tooltiptext = Отстрани датотекиа или Дозволи преземање
 downloads-cmd-choose-unblock-panel =
     .aria-label = Отстрани датотекиа или Дозволи преземање
+# This is the tooltip of the action button shown when uncommon downloads are
+# blocked.This opens a dialog where the user can choose whether to open the
+# file or remove the download. Opening is the default option.
+downloads-cmd-choose-open =
+    .tooltiptext = Отвори или Избриши датотека
+downloads-cmd-choose-open-panel =
+    .aria-label = Отвори или Избриши датотека
+# Displayed when hovering a blocked download, indicates that it's possible to
+# show more information for user to take the next action.
+downloads-show-more-information =
+    .value = Прикажи повеќе информации
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
@@ -90,3 +101,6 @@ downloads-clear-downloads-button =
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Нема преземања.
+# This string is shown when there are no items in the Downloads Panel.
+downloads-panel-empty =
+    .value = Нема преземања во текот на оваа сесија.
