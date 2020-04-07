@@ -287,6 +287,7 @@ sandbox-proc-type-content = agbur
 sandbox-proc-type-file = agbur n ufaylu
 sandbox-proc-type-media-plugin = asiɣzef n wallen n teywalt
 sandbox-proc-type-data-decoder = akestengal n yisefka
+startup-cache-title = Tanekkra tuffir
 launcher-process-status-0 = Irmed
 launcher-process-status-1 = Yensa ɣef sebba n tuccḍa
 launcher-process-status-2 = Arurmid s tedusi
