@@ -9,6 +9,11 @@
 <!ENTITY  closeTab.accesskey         "L">
 <!ENTITY  closeOtherTabs.label   "Lukk andre faner">
 <!ENTITY  closeOtherTabs.accesskey         "L">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label "Lukk faner til høyre">
+<!ENTITY  closeTabsToTheEnd.accesskey "h">
 <!ENTITY  reloadAllTabs.label    "Oppdater alle faner">
 <!ENTITY  reloadAllTabs.accesskey         "d">
 <!ENTITY  reloadTab.label        "Oppdater fane">
