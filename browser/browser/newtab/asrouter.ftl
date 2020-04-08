@@ -78,7 +78,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 
 ## Protections panel
 
-cfr-protections-panel-header = Бақыламай шолыңыз
+cfr-protections-panel-header = Бақылаусыз шолу
 cfr-protections-panel-body = Деректеріңізді тек өзіңіз үшін қалдырыңыз. { -brand-short-name } желіде сіздің соңыңыздан еретін ең кең тараған трекерлердің көбінен қорғайды.
 cfr-protections-panel-link-text = Көбірек білу
 
