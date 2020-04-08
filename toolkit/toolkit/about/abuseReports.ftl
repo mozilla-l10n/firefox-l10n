@@ -15,7 +15,9 @@ abuse-report-subtitle = Qual es lo problèma ?
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = per <a data-l10n-name="author-name">{ $author-name }</a>
-abuse-report-learnmore = Sabètz pas que problèma causir ?<a data-l10n-name="learnmore-link">Ne saber mai a prepaus del senhalament d'extensions e tèmas</a>
+abuse-report-learnmore =
+    Sabètz pas quin problèma causir ?
+    <a data-l10n-name="learnmore-link">Ne saber mai a prepaus del senhalament d'extensions e tèmas</a>
 abuse-report-submit-description = Descrivètz lo problèma (opcional)
 abuse-report-textarea =
     .placeholder = Es mai aisit de resòlvre un problèma s'avèm de detalhs. Descrivètz çò que vos arriba. Mercé de nos ajudar a gardar lo Web sanitós.
