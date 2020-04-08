@@ -11,7 +11,7 @@ screenshots-save-page-button = Captura tota la pagina
 screenshots-download-button = Telecargar
 screenshots-download-button-tooltip = Telecargar la captura
 screenshots-copy-button = Copiar
-screenshots-copy-button-tooltip = Copiar lo tèxte dins lo quichapapièrs
+screenshots-copy-button-tooltip = Copiar la captura d’ecran dins lo quichapapièrs
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
