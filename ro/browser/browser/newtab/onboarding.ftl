@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Începe
 onboarding-welcome-header = Bine ai venit la { -brand-short-name }
 onboarding-welcome-body = Ai browserul. <br/>Vezi și ce altceva mai oferă { -brand-product-name }.
 onboarding-welcome-learn-more = Află mai multe despre beneficii.
+onboarding-join-form-header = Alătură-te { -brand-product-name }
 onboarding-welcome-modal-get-body = Ai browserul. <br/>Acum poți beneficia la maxim de { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Protecția confidențialității la cote maxime.
 onboarding-welcome-modal-privacy-body = Ai browserul. Să adăugăm un plus de protecție a vieții private.
 onboarding-welcome-modal-family-learn-more = Află despre familia de produse { -brand-product-name }.
 onboarding-welcome-form-header = Începe de aici
-onboarding-join-form-header = Alătură-te { -brand-product-name }
 onboarding-join-form-body = Introdu adresa de e-mail ca să începi.
 onboarding-join-form-email =
     .placeholder = Introdu adresa de e-mail.
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Adaugă extensia
 onboarding-import-browser-settings-title = Import de marcaje, parole și multe altele
 onboarding-import-browser-settings-text = Intră direct—iei ușor cu tine site-urile și setările din Chrome.
 onboarding-import-browser-settings-button = Import de date din Chrome
+onboarding-personal-data-promise-title = Privat din proiectare
+onboarding-personal-data-promise-text = { -brand-product-name } îți tratează datele cu respect, colectându-le într-o mai mică măsură, protejându-le și declarând clar cum sunt le folosim.
+onboarding-personal-data-promise-button = Citește-ne Promisiunea
 
 ## Message strings belonging to the Return to AMO flow
 
