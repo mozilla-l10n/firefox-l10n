@@ -31,3 +31,7 @@ explore-link = Explorar recursos
 support-link = Suporte
 involved-link = Envolva-se
 developer-link = Documentação do desenvolvedor
+search = Pesquisar mensagens
+filter = Gerenciar filtros de mensagens
+nntp-subscription = Gerenciar inscrições em grupos de notícias
+e2e = Criptografia de ponta a ponta
