@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Adicionar nova barra de ferramentas">
 <!ENTITY showTitlebar.label       "Mostrar barra de título">
 <!ENTITY extraDragSpace.label     "Adicionar espaço para onde arrastar">
+<!ENTITY showTitlebar2.label      "Barra de titulo">
+<!ENTITY extraDragSpace2.label    "Borda de janela">
 <!ENTITY saveChanges.label        "Concluído">
 <!ENTITY undoChanges.label        "Desfazer alterações">
