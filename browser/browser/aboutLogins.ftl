@@ -177,7 +177,7 @@ about-logins-breach-alert-learn-more-link = Dalšne informacije
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Napadojte gronidło
-about-logins-vulnerable-alert-text = Toś to gronidło jo se roznosyło abo kšadnuło w datowej źěrje drugego pśedewześa. Gaž swóje pśizjawjeńske daty znowego wužywaśo, se wšykne waše konta rizikoju wustajaju. Aby swóju wěstotu online pólěpšył, změńśo toś to gronidło.
+about-logins-vulnerable-alert-text2 = Toś tp gronidło jo se wužyło pśez druge konto, kótarež jo nejskerjej było w datowej źěrje. Pśez wóspjetowane wužywanje pśizjawjeńskich datow se wšykne waše konta rizikoju wustajaju. Změńśo toś to gronidło.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = K { $hostname }

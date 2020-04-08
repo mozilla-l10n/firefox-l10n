@@ -70,6 +70,7 @@ policy-LegacyProfiles = Funkciju znjemóžniś, kótaraž separatny profil za ku
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Standardne zestarjone nastajenje za zaźaržanje cookiejowego atributa SameSite zmóžniś.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjone zaźaržanje atributa SameSite za cookieje na wěstych sedłach wužywaś
 
 ##
 
