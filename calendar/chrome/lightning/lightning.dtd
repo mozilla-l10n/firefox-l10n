@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "А">
 <!ENTITY lightning.menupopup.open.message.label       "Сақталған хабарлама…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "л">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Күнтізбе файлы…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "К">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Күнтізбеден өшіру">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Көбірек білу…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Оқиға ақпаратын көрсету">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Бұл хабарларламаларды маған көрсетпеу">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Күнтізбе">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Күнтізбе бетіне ауысу">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Көбірек">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Көбірек опцияларды көрсету үшін шертіңіз">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Қайта растау">
