@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Adaugă o nouă bară de unelte">
 <!ENTITY showTitlebar.label       "Afișează bara de titlu">
 <!ENTITY extraDragSpace.label     "Adaugă spațiu de tragere">
+<!ENTITY showTitlebar2.label      "Bară de titlu">
+<!ENTITY extraDragSpace2.label    "Spațiu de tragere">
 <!ENTITY saveChanges.label        "Terminat">
 <!ENTITY undoChanges.label        "Anulează schimbările">
