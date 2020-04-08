@@ -31,7 +31,7 @@
 <!ENTITY enableStartPage.label            "A Levelező indításakor a Levelező kezdőoldala töltődik be az üzenetek helyére">
 <!ENTITY enableStartPage.accesskey        "k">
 <!ENTITY location.label                   "Hely:">
-<!ENTITY location.accesskey               "H">
+<!ENTITY location.accesskey               "e">
 <!ENTITY useDefault.label                 "Alaphelyzet">
 <!ENTITY useDefault.accesskey             "A">
 <!ENTITY rememberLastMsg.label            "Az utolsó kijelölés megjegyzése">
