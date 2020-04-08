@@ -33,6 +33,18 @@ downloads-cmd-show-mac =
     .label = Visa i Finder
     .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-panel =
+    .aria-label =
+        { PLATFORM() ->
+            [macos] Visa i Finder
+           *[other] Öppna objektets mapp
+        }
+downloads-cmd-show-description =
+    .value =
+        { PLATFORM() ->
+            [macos] Visa i Finder
+           *[other] Öppna objektets mapp
+        }
 downloads-cmd-show-downloads =
     .label = Visa mapp för hämtade filer
 downloads-cmd-retry =
