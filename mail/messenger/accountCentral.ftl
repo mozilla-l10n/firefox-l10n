@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Üdvözli a { -brand-full-name }
+account-settings = Postafiók beállításai
+#   $accounts (Number) - the number of configured accounts
 setup-title = Válassza ki, mit szeretne beállítani
 about-title = A { -brand-full-name } névjegye
 resources-title = Erőforrások
@@ -40,3 +42,10 @@ explore-link = Funkciók felfedezése
 support-link = Támogatás
 involved-link = Csatlakozzon
 developer-link = Fejlesztői dokumentáció
+read = Üzenetek olvasása
+compose = Új üzenet írása
+search = Üzenetek keresése
+filter = Üzenetszűrők kezelése
+nntp-subscription = Hírcsoport-feliratkozások kezelése
+rss-subscription = Hírcsatorna-feliratkozások kezelése
+e2e = Végpontok közötti titkosítás
