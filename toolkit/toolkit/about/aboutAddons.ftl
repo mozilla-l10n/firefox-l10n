@@ -286,6 +286,7 @@ shortcuts-no-commands = Le seguenti estensioni non hanno scorciatoie da tastiera
 shortcuts-input =
     .placeholder = Inserisci una scorciatoia
 shortcuts-browserAction = Attiva estensione
+shortcuts-browserAction2 = Attiva pulsante nella barra degli strumenti
 shortcuts-pageAction = Attiva azione pagina
 shortcuts-sidebarAction = Attiva/disattiva barra laterale
 shortcuts-modifier-mac = Includi Ctrl, Alt o ⌘
