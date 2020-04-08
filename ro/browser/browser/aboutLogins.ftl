@@ -176,7 +176,7 @@ about-logins-breach-alert-learn-more-link = Află mai multe
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Parolă vulnerabilă
-about-logins-vulnerable-alert-text = Această parolă a fost divulgată sau furată în cadrul unei breșe de date a unei alte companii. Reutilizarea datelor de autentificare îți pune toate conturile în pericol. Pentru a îmbunătăți securitatea online, schimbă această parolă.
+about-logins-vulnerable-alert-text2 = Această parolă a fost folosită pentru un alt cont care a fost implicat, cel mai probabil, într-o breșă de date. Refolosirea datelor de autentificare îți va pune contul în pericol. Schimbă această parolă.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mergi la { $hostname }

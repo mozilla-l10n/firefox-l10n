@@ -29,6 +29,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grup de schimb de chei
 certificate-viewer-key-id = ID cheie
 certificate-viewer-key-size = Mărime cheie
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Sediu social
 certificate-viewer-locality = Localitate
 certificate-viewer-location = Loc
 certificate-viewer-logid = ID de jurnal

@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Dacă este dezactivat, oprește accelerarea hardwa
 policy-Homepage = Setează și, opțional, blochează pagina de start.
 policy-InstallAddonsPermission = Permite anumitor site-uri web să instaleze suplimente.
 policy-LegacyProfiles = Dezactivează funcționalitatea care forțează crearea unui profil separat pentru fiecare versiune instalată.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Activează setarea implicită pentru comportamentul cookie-urilor SameSite moștenite.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revenire la comportamentul moștenit al atributului SameSite pentru cookie-uri de pe site-urile specificate.
+
+##
+
 policy-LocalFileLinks = Permite anumitor site-uri web să se lege la fișiere locale.
 policy-NetworkPrediction = Activează sau dezactivează predicția de rețea (prelectură DNS).
 policy-NewTabPage = Activează sau dezactivează pagina Filă nouă.
