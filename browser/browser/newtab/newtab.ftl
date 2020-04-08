@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Această acțiune este ireversibilă.
 newtab-menu-section-tooltip =
     .title = Deschide meniul
     .aria-label = Deschide meniul
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Elimină
+    .aria-label = Elimină
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,7 +90,6 @@ newtab-menu-show-privacy-info = Sponsorii noștri și confidențialitatea ta
 
 newtab-privacy-modal-button-done = Terminat
 newtab-privacy-modal-header = Confidențialitatea ta contează.
-newtab-privacy-modal-paragraph = În plus față de afișarea unor articole captivante, îți arătăm și conținuturi relevante foarte bine cotate de la sponsori selectați. Fii fără grijă, datele tale de navigare nu pleacă niciodată din exemplarul tău personal de { -brand-product-name } — nici noi nu le vedem, nici sponsorii noștri.
 newtab-privacy-modal-paragraph-2 = În plus față de afișarea unor articole captivante, îți arătăm și conținuturi relevante foarte bine cotate de la sponsori selectați. Fii fără grijă, <strong>datele tale de navigare nu pleacă niciodată din exemplarul tău personal de { -brand-product-name }</strong> — nici noi nu le vedem, nici sponsorii noștri.
 newtab-privacy-modal-link = Află cum funcționează confidențialitatea în fila nouă
 
@@ -181,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Aproape că am încă
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Subiecte populare:
 newtab-pocket-more-recommendations = Mai multe recomandări
-newtab-pocket-whats-pocket = Ce este { -pocket-brand-name }?
 newtab-pocket-learn-more = Află mai multe
 newtab-pocket-cta-button = Obține { -pocket-brand-name }
 newtab-pocket-cta-text = Salvează în { -pocket-brand-name } articolele care ți-au plăcut și hrănește-ți mintea cu lecturi fascinante.
