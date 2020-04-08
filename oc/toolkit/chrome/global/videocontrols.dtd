@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Cap de vidèo que lo format o lo tipe MIME es pas gerit es pas estada trobada.">
 <!ENTITY error.generic "La lectura de la vidèo es estada arrestada a causa d'una error desconeguda.">
 
-<!ENTITY status.pictureInPicture "Aqueste vidèo es en lectura en mòde Vidèo incrustada">
+<!ENTITY status.pictureInPicture "Aquesta vidèo es en lectura en mòde Vidèo incrustada">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
