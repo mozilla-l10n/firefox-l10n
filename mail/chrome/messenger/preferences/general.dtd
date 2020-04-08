@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "A">
 <!ENTITY removeSearchEngine.label         "Elimină">
 <!ENTITY removeSearchEngine.accesskey     "v">
+
+<!ENTITY minimizeToTray.label             "Când &brandShortName; este minimalizat, mută-l în bara de sistem">
+<!ENTITY minimizeToTray.accesskey         "m">

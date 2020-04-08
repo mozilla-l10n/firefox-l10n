@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Bine ai venit la { -brand-full-name }
+account-settings = Setări cont
+#   $accounts (Number) - the number of configured accounts
 setup-title = Alege ce să setezi
 about-title = Despre { -brand-full-name }
 resources-title = Resurse
@@ -40,3 +42,10 @@ explore-link = Explorează funcționalitățile
 support-link = Asistență
 involved-link = Implică-te
 developer-link = Documentația dezvoltatorului
+read = Citește mesajele
+compose = Scrie un mesaj nou
+search = Caută în mesaje
+filter = Gestionează filtrele de mesaje
+nntp-subscription = Gestionează abonamentele la grupurile de știri
+rss-subscription = Gestionează abonamentele la fluxuri
+e2e = Criptare end-to-end
