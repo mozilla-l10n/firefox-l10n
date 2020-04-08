@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Tunigin Tusligt)
        *[other] { $title } - { -brand-full-name } (Tunigin Tusligt)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Sken talɣut n usmel
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Aru cwiṭ, af-d ugar : nadi s { $engineName } srid seg ufeggag n tensa.
-urlbar-search-tips-redirect = Bdu anadi-ik dagi akken ad tsekneḍ isumar seg { $engineName } daɣen seg umuzruy-ik n tunigin.
 urlbar-search-tips-redirect-2 = Bdu anadi-ik deg ufeggag n tansiwin i wakken ad tsekneḍ isumar seg { $engineName } daɣen seg umuzruy-ik n tunigin.
+
+##
+
 
 ##
 
@@ -206,7 +205,7 @@ identity-connection-internal = Wa d asebter { -brand-short-name } aɣelsan.
 identity-connection-file = Asebter-a yettwakles deg uselkim-inek.
 identity-extension-page = Asebter-a yuli-d seg usiɣzef.
 identity-active-blocked = { -brand-short-name } issewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.
-identity-custom-root = Tuqqna tettwasntem sɣur amazan n uselkin ur tessin ara Mozilla.
+identity-custom-root = Tuqqna tettwasentem sɣur amazan n uselkin ur yessin ara Mozilla.
 identity-passive-loaded = Kra n yiḥricen deg usebter-a mačči d iɣelsanen (am tugniwin).
 identity-active-loaded = Tessenseḍ ammesten deg usebter-a.
 identity-weak-encryption = Asebter-a isseqdac awgelhen fessusen.
