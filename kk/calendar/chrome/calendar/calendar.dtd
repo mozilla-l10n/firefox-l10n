@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Жаңа тапсырманы жасау" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Тапсырмалар" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Аяқталған тапсырмаларды көрсету">
 
 <!ENTITY calendar.today.button.label          "Бүгін">
@@ -178,8 +179,6 @@
 <!ENTITY calendar.context.attendance.menu.label                 "Қатысу">
 <!ENTITY calendar.context.attendance.menu.accesskey             "т">
 <!ENTITY calendar.context.attendance.occurrence.label           "Бұл қайталануы">
-<!ENTITY calendar.context.attendance.all.label        "Бүкіл кездерін" >
-
 <!ENTITY calendar.context.attendance.all2.label                 "Оқиғалардың барлық қайталанулары">
 <!ENTITY calendar.context.attendance.send.label                 "Ескертуді қазір жіберу">
 <!ENTITY calendar.context.attendance.send.accesskey             "ж">
@@ -366,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Еске салуларды көрсету">
 <!ENTITY calendarproperties.cache3.label                   "Желіден тыс қолдау">
 <!ENTITY calendarproperties.enabled.label                  "Бұл күнтізбені іске қосу">
+<!ENTITY calendarproperties.enabled2.label                 "Бұл күнтізбені іске қосу">
 <!ENTITY calendarproperties.forceDisabled.label            "Бұл күнтізбенің ұсынушысын табу мүмкін емес. Бұл кейбір қосымшалар сөндірілген немесе өшірілген кезде болуы мүмкін.">
 <!ENTITY calendarproperties.unsubscribe.label              "Жазылудан бас тарту">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "б">
