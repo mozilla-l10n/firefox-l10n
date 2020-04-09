@@ -284,6 +284,7 @@ shortcuts-no-commands = 下列扩展没有快捷键：
 shortcuts-input =
     .placeholder = 输入一个快捷键
 shortcuts-browserAction = 激活扩展
+shortcuts-browserAction2 = 激活工具栏按钮
 shortcuts-pageAction = 激活页面动作
 shortcuts-sidebarAction = 切换侧栏
 shortcuts-modifier-mac = 包括 Ctrl、Alt 或 ⌘
