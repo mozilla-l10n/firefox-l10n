@@ -161,12 +161,12 @@ confirm-discard-changes-dialog-confirm-button = Baztertu
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Webgunearen haustura
+about-logins-breach-alert-title = Webgune-urratzea
 breach-alert-text = Zure saio-hasierako datuak eguneratu zenituen azken alditik pasahitzak jakitera eman edo lapurtu egin dira webgune honetatik. Aldatu pasahitza zure kontua babesteko.
 breach-alert-link = Segurtasun-urratze honi buruzko argibide gehiago.
 breach-alert-dismiss =
     .title = Itxi abisu hau
-about-logins-breach-alert-date = Haustura data honetan gertatu zen { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Datu-urratzea data honetan gertatu zen { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Joan { $hostname } ostalarira
@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = Argibide gehiago
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Pasahitz ahula
-about-logins-vulnerable-alert-text = Pasahitz hau publiko egin da edo lapurtu egin da beste enpresa bati egindako datu haustura batean. Kredentzialak berrerabiltzea zure kontu guztiak arriskuan jartzen ditu. Zure segurtasuna hobetzeko, aldatu pasahitz hau.
+about-logins-vulnerable-alert-text2 = Pasahitz hau datu-urratze batean eragindako beste kontu batean erabili da, Kredentzialak berrerabiltzeak zure kontu guztiak arriskuan jartzen ditu. Aldatu pasahitz hau.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Joan { $hostname } ostalarira

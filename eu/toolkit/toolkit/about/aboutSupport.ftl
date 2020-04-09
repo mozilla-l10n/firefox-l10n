@@ -315,6 +315,7 @@ touch-enabled = ukipen bidezko sarrera gaituta
 drag-enabled = korritze-barra arrastatzea gaituta
 keyboard-enabled = teklatua gaituta
 autoscroll-enabled = autoscroll gaituta
+zooming-enabled = Atximur-zoom leuna gaituta
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
