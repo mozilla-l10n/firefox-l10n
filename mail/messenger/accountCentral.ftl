@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Tervetuloa { -brand-full-name }iin
+account-settings = Tilin asetukset
+#   $accounts (Number) - the number of configured accounts
 setup-title = Valitse mitä asennetaan
 about-title = Tietoja { -brand-full-name }ista
 resources-title = Resurssit
@@ -40,3 +42,7 @@ explore-link = Tutustu ominaisuuksiin
 support-link = Tuki
 involved-link = Tule mukaan
 developer-link = Kehittäjien dokumentaatio
+filter = Hallitse viestisuodattimia
+nntp-subscription = Hallitse keskusteluryhmien tilauksia
+rss-subscription = Hallitse syötetilauksia
+e2e = Päästä päähän -salaus
