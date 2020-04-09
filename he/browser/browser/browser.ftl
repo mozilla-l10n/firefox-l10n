@@ -153,6 +153,8 @@ page-action-manage-extension =
     .label = ניהול הרחבה…
 page-action-remove-from-urlbar =
     .label = הסרה משורת הכתובת
+page-action-remove-extension =
+    .label = הסרת הרחבה
 
 ## Auto-hide Context Menu
 
