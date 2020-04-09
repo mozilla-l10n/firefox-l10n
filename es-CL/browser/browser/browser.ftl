@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (navegación privada)
        *[other] { $title } - { -brand-full-name } (navegación privada)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Ver información del sitio
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Escribe menos, encuentra más: Busca con { $engineName } directo desde tu barra de direcciones.
-urlbar-search-tips-redirect = Empieza tu búsqueda aquí para ver sugerencias sacadas de { $engineName } y de tu historial de navegación.
 urlbar-search-tips-redirect-2 = Empieza tu búsqueda en la barra de direcciones para ver sugerencias sacadas de { $engineName } y de tu historial de navegación.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Gestionar extensión…
 page-action-remove-from-urlbar =
     .label = Eliminar de la barra de direcciones
+page-action-remove-extension =
+    .label = Eliminar extensión
 
 ## Auto-hide Context Menu
 
@@ -222,7 +223,7 @@ identity-connection-verified = Está conectado de forma segura a este sitio.
 identity-ev-owner-label = Certificado emitido para:
 identity-description-custom-root = Mozilla no reconoce al emisor de este certificado. Puede haber sido agregado desde tu sistema operativo o por un administrador. <label data-l10n-name="link">Aprender más</label>
 identity-remove-cert-exception =
-    .label = Remover excepción
+    .label = Eliminar excepción
     .accesskey = R
 identity-description-insecure = Tu conexión a este sitio no es privada. La información que envíes puede ser vista por otros (por ejemplo: contraseñas, mensajes, tarjetas de crédito, etc.).
 identity-description-insecure-login-forms = La información de conexión que ingreses en este sitio no va segura y puede verse comprometida.
