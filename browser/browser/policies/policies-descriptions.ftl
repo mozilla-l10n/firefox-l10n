@@ -69,6 +69,7 @@ policy-LegacyProfiles = Desgaitu instalazio bakoitzerako profil bereiziak behart
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Gaitu lehenetsitako SameSite cookie portaera zaharraren ezarpena.
 policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Leheneratu SameSite portaera zaharrera zehaztutako guneetako cookientzat.
 
 ##
