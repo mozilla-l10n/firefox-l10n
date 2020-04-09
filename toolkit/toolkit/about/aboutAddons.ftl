@@ -282,6 +282,7 @@ shortcuts-no-commands = Ondorengo hedapenek ez dute lasterbiderik:
 shortcuts-input =
     .placeholder = Idatzi lasterbidea
 shortcuts-browserAction = Gaitu hedapena
+shortcuts-browserAction2 = Aktibatu tresna-barrako botoia
 shortcuts-pageAction = Gaitu orri-ekintza
 shortcuts-sidebarAction = Txandakatu alboko barra
 shortcuts-modifier-mac = Kontuan hartu Ktrl, Alt edo ⌘

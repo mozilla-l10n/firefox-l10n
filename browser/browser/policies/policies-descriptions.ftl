@@ -66,6 +66,13 @@ policy-HardwareAcceleration = Ez badago ezarrita, hardware-azelerazioa desgaituk
 policy-Homepage = Hasiera-orria ezarri eta ezarpen bidez aldatzea.
 policy-InstallAddonsPermission = Baimendu zenbait webgunek gehigarriak instalatzea.
 policy-LegacyProfiles = Desgaitu instalazio bakoitzerako profil bereiziak behartzen dituen eginbidea
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Leheneratu SameSite portaera zaharrera zehaztutako guneetako cookientzat.
+
+##
+
 policy-LocalFileLinks = Baimendu gune zehatzei fitxategi lokalen loturak egitea.
 policy-NetworkPrediction = Gaitu edo desgaitu sarearen iragarpena (DNS aurre-eskuratzea).
 policy-NewTabPage = Gaitu edo desgaitu fitxa berriaren orria.
