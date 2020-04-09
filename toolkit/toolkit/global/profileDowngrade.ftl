@@ -10,8 +10,4 @@ profiledowngrade-window-create =
 profiledowngrade-sync = L’utilizzo di una versione più vecchia di { -brand-product-name } può danneggiare segnalibri e cronologia di navigazione già salvati in un profilo esistente di { -brand-product-name }. Per proteggere queste informazioni, creare un nuovo profilo per questa installazione di { -brand-short-name }. È possibile utilizzare un { -fxaccount-brand-name } per sincronizzare segnalibri e cronologia di navigazione tra profili diversi.
 profiledowngrade-nosync = L’utilizzo di una versione più vecchia di { -brand-product-name } può danneggiare segnalibri e cronologia di navigazione già salvati in un profilo esistente di { -brand-product-name }. Per proteggere queste informazioni, creare un nuovo profilo per questa installazione di { -brand-short-name }.
 profiledowngrade-quit =
-    .label =
-        { PLATFORM() ->
-            [windows] Esci
-           *[other] Esci
-        }
+    .label = Esci
