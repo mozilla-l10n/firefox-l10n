@@ -160,7 +160,7 @@ intl-regional-prefs = Cài đặt khu vực
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
 remote-debugging-title = Gỡ lỗi từ xa (Giao thức Chromium)
-remote-debugging-accepting-connections = Đang cho phép kết nối
+remote-debugging-accepting-connections = Cho phép kết nối
 remote-debugging-url = URL
 
 ##
@@ -267,6 +267,11 @@ sandbox-proc-type-content = nội dung
 sandbox-proc-type-file = nội dung tập tin
 sandbox-proc-type-media-plugin = phần bổ trợ phương tiện
 sandbox-proc-type-data-decoder = bộ giải mã dữ liệu
+startup-cache-title = Bộ nhớ đệm khởi động
+startup-cache-disk-cache-path = Đường dẫn bộ nhớ đệm trên đĩa
+startup-cache-ignore-disk-cache = Bỏ qua bộ nhớ đệm trên đĩa
+startup-cache-found-disk-cache-on-init = Tìm thấy bộ nhớ đệm trên đĩa khi khởi tạo
+startup-cache-wrote-to-disk-cache = Ghi vào bộ nhớ đệm trên đĩa
 launcher-process-status-0 = Đã bật
 launcher-process-status-1 = Vô hiệu hóa do thất bại
 launcher-process-status-2 = Bắt buộc vô hiệu hóa

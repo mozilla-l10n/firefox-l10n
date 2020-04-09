@@ -174,7 +174,7 @@ about-logins-breach-alert-learn-more-link = Tìm hiểu thêm
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Mật khẩu dễ bị tấn công
-about-logins-vulnerable-alert-text = Mật khẩu này đã bị rò rỉ hoặc bị đánh cắp bởi một công ty vi phạm dữ liệu. Việc sử dụng lại thông tin đăng nhập sẽ khiến tất cả các tài khoản của bạn gặp rủi ro. Để cải thiện bảo mật trực tuyến, hãy thay đổi mật khẩu này.
+about-logins-vulnerable-alert-text2 = Mật khẩu này đã được sử dụng trên một tài khoản khác có khả năng bị rò rỉ dữ liệu. Việc sử dụng lại thông tin đăng nhập sẽ khiến tất cả các tài khoản của bạn gặp rủi ro. Thay đổi mật khẩu này.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Đi đến { $hostname }
