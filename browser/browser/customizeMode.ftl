@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = ស្ដារ​លំនាំ​ដើម
+customize-mode-menu-and-toolbars-header = អូសធាតុដែលអ្នកចូលចិត្តទៅក្នុងរបារឧបករណ៍ឬម៉ឺនុយលើសចំណុះ។
 customize-mode-overflow-list-title = ម៉ឺនុយ Overflow
 customize-mode-uidensity =
     .label = ដង់ស៊ីតេ
