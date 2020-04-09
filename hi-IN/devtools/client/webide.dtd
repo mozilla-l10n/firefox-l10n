@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "एप्प खोलें">
+
 <!ENTITY runtimeButton_label "रनटाइम चुनें">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -101,7 +102,7 @@
 
 <!-- Addons -->
 <!ENTITY addons_title "अतिरिक्त घटक">
-<!ENTITY addons_aboutaddons "सहयुक्तियाँ प्रबंधन खोलें">
+<!ENTITY addons_aboutaddons "ऐड-ऑन्स प्रबंधन खोलें">
 
 <!-- Prefs -->
 <!ENTITY prefs_title "वरीयता">
@@ -118,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "रनटाइम जानकारी">
-<!ENTITY runtimedetails_adbIsRoot "ADB रूट है: ">
-<!ENTITY runtimedetails_summonADBRoot "रूट डिवाइस">
-<!ENTITY runtimedetails_ADBRootWarning "(खुला बूटलोडर चाहिए)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "अप्रतिबंधित DevTools अधिकार:">
-<!ENTITY runtimedetails_requestPrivileges "उच्चतर अधिकार निवेदित करें">
-<!ENTITY runtimedetails_privilegesWarning "(युक्ति रिबूट करेगा. रूट पहुँच चाहिए.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "बुलियन">
