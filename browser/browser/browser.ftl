@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Priwatny modus)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Priwatny modus)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Priwatny modus)
        *[other] { $title } - { -brand-full-name } (Priwatny modus)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Sedłowe informacije se woglědaś
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Pišćo mjenjej, namakajśo wěcej: Pytajśo z { $engineName } direktnje ze swójogo adresowego póla.
-urlbar-search-tips-redirect = Zachopśo swójo pytanje how, aby naraźenja wót { $engineName } a ze swójeje pśeglědowańskeje historije wiźeł.
 urlbar-search-tips-redirect-2 = Zachopśo swójo pytanje w adresowem pólu, aby naraźenja wót { $engineName } a ze swójeje pśeglědowańskeje historije wiźeł.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = Rozšyrjenje zastojaś…
 page-action-remove-from-urlbar =
     .label = Z adresowego póla wótwónoźeś
+page-action-remove-extension =
+    .label = Rozšyrjenje wótwónoźeś
 
 ## Auto-hide Context Menu
 
