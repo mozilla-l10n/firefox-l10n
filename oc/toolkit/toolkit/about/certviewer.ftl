@@ -29,6 +29,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Grop d’escambi de claus
 certificate-viewer-key-id = ID de la clau
 certificate-viewer-key-size = Talha de clau
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Sèti social
 certificate-viewer-locality = Localitat
 certificate-viewer-location = Emplaçament
 certificate-viewer-logid = ID de jornal

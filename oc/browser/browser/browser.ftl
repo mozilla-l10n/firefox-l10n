@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navegacion privada)
        *[other] { $title } - { -brand-full-name } (Navegacion privada)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Afichar las informacions sul site internet
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Escrivètz mens, trobatz mai : cercatz amb { $engineName } dirèctament de la barra d’adreça.
-urlbar-search-tips-redirect = Començatz vòstra recèrca aquí per far veire las suggestions de { $engineName } e de vòstre istoric.
 urlbar-search-tips-redirect-2 = Començatz vòstra recèrca dins la barra d’adreça per mostrar las suggestions de { $engineName } e de vòstre istoric de navegacion.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Gerir l’extension…
 page-action-remove-from-urlbar =
     .label = Levar de la barra d'adreça
+page-action-remove-extension =
+    .label = Suprimir l’extension
 
 ## Auto-hide Context Menu
 
@@ -177,10 +178,10 @@ search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar los paramètres de recèrca
 search-one-offs-context-open-new-tab =
     .label = Recercar dins un onglet novèl
-    .accesskey = T
+    .accesskey = R
 search-one-offs-context-set-as-default =
     .label = Causir coma motor de cerca per defaut
-    .accesskey = D
+    .accesskey = C
 search-one-offs-context-set-as-default-private =
     .label = Definir coma motor de recèrca per defaut en navegacion privada
     .accesskey = p
