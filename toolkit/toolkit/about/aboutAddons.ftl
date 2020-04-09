@@ -292,6 +292,7 @@ shortcuts-no-commands = De folgjende útwreidingen hawwe gjin fluchtoetsen:
 shortcuts-input =
     .placeholder = Typ in fluchtoets
 shortcuts-browserAction = Utwreiding aktivearje
+shortcuts-browserAction2 = Arkbalkeknop aktivearje
 shortcuts-pageAction = Side-aksje aktivearje
 shortcuts-sidebarAction = De sydbalke yn-/útskeakelje
 shortcuts-modifier-mac = Druk ek op Ctrl, Alt of ⌘
