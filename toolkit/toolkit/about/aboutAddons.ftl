@@ -286,6 +286,7 @@ shortcuts-no-commands = להרחבות הבאות אין קיצורי דרך:
 shortcuts-input =
     .placeholder = נא להקליד קיצור דרך
 shortcuts-browserAction = הפעלת הרחבה
+shortcuts-browserAction2 = הפעלת הכפתור בסרגל הכלים
 shortcuts-pageAction = הפעלת פעולת דף
 shortcuts-sidebarAction = הצגה/הסתרה של סרגל הצד
 shortcuts-modifier-mac = יש לכלול Ctrl, ‏Alt או ⌘
