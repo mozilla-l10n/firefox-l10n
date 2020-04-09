@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Buka menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Impor Sandi…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Impor dari Peramban Lain…
 menu-menuitem-preferences =
@@ -163,6 +161,20 @@ breach-alert-text = Kata sandi telah bocor atau dicuri dari situs Web ini sejak 
 breach-alert-link = Pelajari selengkapnya tentang pembobolan ini.
 breach-alert-dismiss =
     .title = Tutup peringatan ini
+about-logins-breach-alert-date = Pembobolan ini terjadi pada { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Buka { $hostname }
+about-logins-breach-alert-learn-more-link = Pelajari lebih lanjut
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Kata Sandi Rentan
+about-logins-vulnerable-alert-text2 = Kata sandi ini telah digunakan pada akun lain yang kemungkinan besar telah diketahui dalam peristiwa pembobolan data. Penggunaan ulang kredensial akan membahayakan semua akun anda. Ubah kata sandi ini.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Buka { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Pelajari lebih lanjut
 
 ## Error Messages
 
