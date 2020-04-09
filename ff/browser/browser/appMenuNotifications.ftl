@@ -26,3 +26,9 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = W
 appmenu-update-restart-message = Ɓaawo kurtinal jaawngal, { -brand-shorter-name } maa artir tabbe maa e kenotɗe udditiiɗe fof ɗe ngonaa e mbayka Peeragol cuuringol.
 appmenu-addon-post-install-message = Yiil ɓeyditte maa e dobaade <image data-l10n-name='addon-install-icon'></image> nder dosol <image data-l10n-name='addon-menu-icon'></image> ngol.
+appmenu-new-tab-controlled =
+    .label = Tabbere maa Hesere wayliima.
+    .buttonlabel = Mooftu Bayle
+    .buttonaccesskey = K
+    .secondarybuttonlabel = Daaƴ Timmitol
+    .secondarybuttonaccesskey = D
