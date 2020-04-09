@@ -286,6 +286,7 @@ shortcuts-no-commands = Slědowace rozšěrjenja tastowe skrótšenki nimaja:
 shortcuts-input =
     .placeholder = Zapodajće tastowu skrótšenku
 shortcuts-browserAction = Rozšěrjenje aktiwizować
+shortcuts-browserAction2 = Tłóčatko symboloweje lajsty aktiwizować
 shortcuts-pageAction = Akciju strony aktiwizować
 shortcuts-sidebarAction = Bóčnicu přepinać
 shortcuts-modifier-mac = Strg, Alt abo ⌘ zapřijeć

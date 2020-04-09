@@ -325,6 +325,7 @@ touch-enabled = zapodaće přez podótknjenje zmóžnjene
 drag-enabled = ćahanje suwanskeje lajsty zmóžnjene
 keyboard-enabled = tastatura zmóžnjena
 autoscroll-enabled = awtomatiske kulenje zmóžnjene
+zooming-enabled = łahodne šćipate skalowanje zmóžnjene
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
