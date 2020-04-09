@@ -153,6 +153,8 @@ page-action-manage-extension =
     .label = Sefrek aseɣzef…
 page-action-remove-from-urlbar =
     .label = Kkes seg ufeggag n tansa
+page-action-remove-extension =
+    .label = Kkes asiɣzef
 
 ## Auto-hide Context Menu
 

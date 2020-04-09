@@ -287,6 +287,7 @@ shortcuts-no-commands = Isiɣzaf id-iteddun ur sɛin ara inegzumen:
 shortcuts-input =
     .placeholder = Sekcem anegzum
 shortcuts-browserAction = Rmed isiɣzaf
+shortcuts-browserAction2 = Rmed taqeffalt n ufeggag n yifecka
 shortcuts-pageAction = Rmed tigawt n usebter
 shortcuts-sidebarAction = Sken/Fer agalis adisan
 shortcuts-modifier-mac = Seddu Ctrl, Alt, neɣ ⌘

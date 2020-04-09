@@ -315,6 +315,7 @@ touch-enabled = anekcum amennalan irmed
 drag-enabled = Adrurem nufeggag yettwarmed
 keyboard-enabled = anasiw yermed
 autoscroll-enabled = Adrurem awurman yermed
+zooming-enabled = smooth pinch-zoom yermed
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
