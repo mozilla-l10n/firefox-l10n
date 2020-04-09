@@ -292,6 +292,7 @@ shortcuts-no-commands = Такі розширення не мають комбі
 shortcuts-input =
     .placeholder = Введіть комбінацію клавіш
 shortcuts-browserAction = Активувати розширення
+shortcuts-browserAction2 = Активувати кнопку панелі
 shortcuts-pageAction = Активувати дію сторінки
 shortcuts-sidebarAction = Перемкнути бічну панель
 shortcuts-modifier-mac = Додайте Ctrl, Alt, або ⌘

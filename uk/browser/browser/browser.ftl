@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Приватний перегляд)
        *[other] { $title } - { -brand-full-name } (Приватний перегляд)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Перегляд інформації про сайт
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Вводьте менше, знаходьте більше: Шукайте з { $engineName } прямо з панелі адреси.
-urlbar-search-tips-redirect = Розпочніть свій пошук звідси, щоб побачити пропозиції від { $engineName } та вашої історії перегляду.
 urlbar-search-tips-redirect-2 = Розпочніть пошук з адресного рядка, щоб побачити пропозиції від { $engineName } та історії перегляду.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Керувати розширенням…
 page-action-remove-from-urlbar =
     .label = Вилучити з панелі адреси
+page-action-remove-extension =
+    .label = Вилучити розширення
 
 ## Auto-hide Context Menu
 

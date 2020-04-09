@@ -323,6 +323,7 @@ touch-enabled = сенсорне введення увімкнено
 drag-enabled = перетягування смуги прокручування увімкнено
 keyboard-enabled = клавіатура увімкнена
 autoscroll-enabled = авто-прокручування увімкнено
+zooming-enabled = smooth pinch-zoom увімкнено
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
