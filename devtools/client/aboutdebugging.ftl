@@ -91,7 +91,7 @@ about-debugging-setup-connect-heading = Connectar un periferic
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
 # Explanatory text displayed in the Setup page when USB debugging is disabled
-about-debugging-setup-usb-disabled = L’activacion lançar lo telecargament e l’apondon dels compausants pel besbugatge USB Android per { -brand-shorter-name }.
+about-debugging-setup-usb-disabled = L’activacion lançarà lo telecargament e l’apondon dels compausants pel besbugatge USB Android per { -brand-shorter-name }.
 # Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
 # Clicking on it will download components needed to debug USB Devices remotely.
 about-debugging-setup-usb-enable-button = Activar los periferics USB
