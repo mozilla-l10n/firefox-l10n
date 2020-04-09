@@ -7,3 +7,9 @@ profiledowngrade-window =
     .style = width: 490px
 profiledowngrade-window-create =
     .label = ایک نئی پروفائل بنائیں
+profiledowngrade-quit =
+    .label =
+        { PLATFORM() ->
+            [windows] باہر نکلیں
+           *[other] باہر نکلیں
+        }
