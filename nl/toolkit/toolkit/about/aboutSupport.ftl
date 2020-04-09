@@ -318,6 +318,7 @@ touch-enabled = aanraakinvoer ingeschakeld
 drag-enabled = slepen via scrollbalk ingeschakeld
 keyboard-enabled = toetsenbord ingeschakeld
 autoscroll-enabled = automatisch scrollen ingeschakeld
+zooming-enabled = soepele knijp-zoom ingeschakeld
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
