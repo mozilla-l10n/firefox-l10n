@@ -289,6 +289,7 @@ shortcuts-no-commands = Les extensions suivantes ne disposent pas de raccourcis�
 shortcuts-input =
     .placeholder = Saisissez un raccourci
 shortcuts-browserAction = Activer l’extension
+shortcuts-browserAction2 = Activer le bouton de la barre d’outils
 shortcuts-pageAction = Activer l’action de la page
 shortcuts-sidebarAction = Afficher/Masquer le panneau latéral
 shortcuts-modifier-mac = Inclure Ctrl, Alt ou ⌘
