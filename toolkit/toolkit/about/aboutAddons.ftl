@@ -296,6 +296,7 @@ shortcuts-no-commands = De volgende extensies hebben geen sneltoetsen:
 shortcuts-input =
     .placeholder = Typ een sneltoets
 shortcuts-browserAction = Extensie activeren
+shortcuts-browserAction2 = Werkbalkknop activeren
 shortcuts-pageAction = Pagina-actie activeren
 shortcuts-sidebarAction = De zijbalk in-/uitschakelen
 shortcuts-modifier-mac = Druk ook op Ctrl, Alt of ⌘
