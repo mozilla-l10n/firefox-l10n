@@ -259,6 +259,8 @@ was trying to connect. -->
 <!ENTITY prefReset.label "Επαναφορά προεπιλεγμένων ρυθμίσεων">
 
 <!ENTITY enableTls10.longDesc "Αυτή η ιστοσελίδα ενδέχεται να μην υποστηρίζει το πρωτόκολλο TLS 1.2, το οποίο είναι η παλαιότερη έκδοση που υποστηρίζεται από το &brandShortName;. Η ενεργοποίηση του TLS 1.0 και του TLS 1.1 ίσως επιτρέψει αυτή τη σύνδεση.">
+<!ENTITY enableTls10.note "Τα TLS 1.0 και TLS 1.1 θα απενεργοποιηθούν οριστικά σε μια μελλοντική έκδοση.">
+<!ENTITY enableTls10.label "Ενεργοποίηση TLS 1.0 και 1.1">
 
 <!ENTITY networkProtocolError.title "Σφάλμα πρωτοκόλλου δικτύου">
 
