@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Kode Sumber Laman">
 <!ENTITY pageSourceCmd.accesskey "S">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informasi Laman">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Pengawukutu Tata Letak">
 <!ENTITY ldbCmd.accesskey "T">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Keluar dari Mode Layar Penuh">
 <!ENTITY exitFullScreenCmd.accesskey "K">
+
 <!ENTITY fullScreenCmd.label "Layar Penuh">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Sambungkan ulang ke &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifikasikan Akun Anda">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minikan">
 <!ENTITY fullScreenRestore.tooltip "Kembalikan">
@@ -175,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Pengaturan Akun">
 <!ENTITY fxa.menu.manageAccount2.label "Kelola Akun">
 <!ENTITY fxa.menu.signOut.label "Keluar…">
-<!ENTITY fxa.menu.deviceSettings.label "Pengaturan Perangkat">
 <!ENTITY fxa.menu.setupSync.label "Siapkan &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Markah">
 <!ENTITY bookmarksMenu.accesskey "M">
-
 <!ENTITY bookmarkThisPageCmd.label "Markahi Laman ini">
 <!ENTITY editThisBookmarkCmd.label "Edit Markah Ini">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "U">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Pindah ke alamat di Bilah Lokasi">
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
@@ -294,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
+
 
 <!ENTITY searchItem.title             "Cari">
 
@@ -417,7 +412,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Pulihkan Sesi Sebelumnya">
 
 <!ENTITY showAllHistoryCmd2.label "Tampilkan Semua Riwayat">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tampilkan Semua Riwayat">
@@ -472,7 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Pasangkan ke Menu Luapan">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Letakkan di Menu Luapan">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Lepaskan dari Menu Luapan">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
@@ -498,6 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Lebih banyak">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -597,7 +592,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Hanya Tampilkan Bingkai yang Ini">
 <!ENTITY showOnlyThisFrameCmd.accesskey "n">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Muatkan Bingkai Lagi">
 <!ENTITY reloadFrameCmd.accesskey     "t">
@@ -631,6 +625,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Markahi Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
+
 <!ENTITY pageAction.copyLink.label    "Salin Tautan">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,11 +639,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Surelkan Tautan…">
 <!ENTITY emailPageCmd.accesskey       "K">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">
 <!ENTITY savePageCmd.accesskey        "S">
-<!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Simpan Bingkai dengan Nama…">
 <!ENTITY saveFrameCmd.accesskey       "g">
@@ -752,20 +746,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Perbesar">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "b">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Perkecil">
 <!ENTITY fullZoomReduceCmd.accesskey    "k">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Normal">
 <!ENTITY fullZoomResetCmd.accesskey     "N">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -789,7 +780,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Tutup">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "u">
 
@@ -815,7 +805,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "A">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Ubah Arah Teks">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "T">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cari di Laman Ini…">
@@ -845,19 +834,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Sambungan">
 <!ENTITY identity.connectionSecure "Sambungan Aman">
 <!ENTITY identity.connectionNotSecure "Sambungan Tidak Aman">
-
-<!ENTITY identity.connectionSecure3 "Sambungan aman">
-<!ENTITY identity.connectionNotSecure2 "Sambungan tidak aman">
-<!ENTITY identity.connectionNotSecureSecurityView "Anda tidak terhubung dengan aman ke situs ini.">
 <!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
 <!ENTITY identity.connectionVerified2 "Anda tersambung secara aman ke situs ini, dimiliki oleh:">
-<!ENTITY identity.connectionVerified3 "Anda terhubung dengan aman ke situs ini.">
 <!ENTITY identity.connectionInternal "Ini adalah laman &brandShortName; aman.">
 <!ENTITY identity.extensionPage "Laman ini dimuat dari ekstensi.">
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 <!ENTITY identity.customRoot "Koneksi diverifikasi oleh penerbit sertifikat yang tidak dikenali oleh Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Sertifikat diterbitkan untuk:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; telah memblokir bagian dari laman ini yang tidak aman.">
@@ -892,8 +874,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Hapus Kuki dan Data Situs…">
 
 <!ENTITY identity.permissions "Hak Akses">
-
-<!ENTITY identity.permissions3 "Izin">
 <!ENTITY identity.permissionsEmpty "Anda belum memberikan izin khusus apa pun untuk situs ini. ">
 <!ENTITY identity.permissionsReloadHint "Anda mungkin perlu memuat ulang laman untuk menerapkan perubahan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Buka Preferensi Izin">
