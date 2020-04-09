@@ -286,6 +286,7 @@ shortcuts-no-commands = Slědujuce rozšyrjenja njamaju  tastowe skrotconki:
 shortcuts-input =
     .placeholder = Zapódajśo tastowu skrotconku
 shortcuts-browserAction = Rozšyrjenje aktiwěrowaś
+shortcuts-browserAction2 = Tłocašk symboloweje rědki aktiwěrowaś
 shortcuts-pageAction = Akciju boka aktiwěrowaś
 shortcuts-sidebarAction = Bocnicu pśešaltowaś
 shortcuts-modifier-mac = Strg, Alt abo ⌘ zapśimjeś
