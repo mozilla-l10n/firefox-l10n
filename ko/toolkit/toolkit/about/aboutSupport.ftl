@@ -292,9 +292,10 @@ async-pan-zoom = 비동기 팬 및 확대/축소
 apz-none = 없음
 wheel-enabled = 휠 입력 활성화됨
 touch-enabled = 터치 입력 활성화됨
-drag-enabled = 스크롤바 끌기 활성화됨
+drag-enabled = 스크롤 막대 끌기 활성화됨
 keyboard-enabled = 키보드 활성화됨
 autoscroll-enabled = 자동 스크롤 활성화됨
+zooming-enabled = 부드러운 핀치 확대/축소 활성화됨
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

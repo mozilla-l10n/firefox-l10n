@@ -286,6 +286,7 @@ shortcuts-no-commands = 다음 확장 기능에는 단축키가 없습니다:
 shortcuts-input =
     .placeholder = 단축키 입력
 shortcuts-browserAction = 확장 기능 활성화
+shortcuts-browserAction2 = 도구 모음 버튼 활성화
 shortcuts-pageAction = 페이지 작업 활성화
 shortcuts-sidebarAction = 탐색창 표시/숨기기
 shortcuts-modifier-mac = Ctrl, Alt 또는 ⌘ 포함
