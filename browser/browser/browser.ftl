@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (사생활 보호 모드)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (사생활 보호 모드)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (사생활 보호 모드)
        *[other] { $title } - { -brand-full-name } (사생활 보호 모드)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = 사이트 정보 보기
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = 적게 입력, 많이 찾기: 주소 표시줄에서 바로 { $engineName } 검색어로 검색해 보세요.
-urlbar-search-tips-redirect = { $engineName }의 제안과 방문 기록을 보려면 여기에서 검색을 시작하세요.
 urlbar-search-tips-redirect-2 = 주소 표시줄에서 검색을 시작하여 { $engineName }의 제안 및 방문 기록을 확인하세요.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = 확장 기능 관리…
 page-action-remove-from-urlbar =
     .label = 주소 표시줄에서 제거
+page-action-remove-extension =
+    .label = 확장 기능 제거
 
 ## Auto-hide Context Menu
 
