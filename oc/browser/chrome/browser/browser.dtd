@@ -289,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
+
 <!ENTITY searchItem.title             "Recercar">
 
 <!-- Toolbar items -->
@@ -630,7 +631,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Enregistrar dins Pocket">
-<!ENTITY saveToPocketCmd.label        "Salvar pagina dins Pocket">
+<!ENTITY saveToPocketCmd.label        "Salvar la pagina dins Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "l">
 <!ENTITY saveLinkToPocketCmd.label    "Salvar ligam dins Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "d">
