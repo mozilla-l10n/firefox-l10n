@@ -47,6 +47,7 @@ login-list-sort-label-text = Urutkan berdasarkan:
 login-list-name-option = Nama (A-Z)
 login-list-name-reverse-option = Nama (Z-A)
 login-list-breached-option = Situs Web yang Dibobol
+about-logins-login-list-alerts-option = Peringatan
 login-list-last-changed-option = Terakhir Diubah
 login-list-last-used-option = Terakhir Digunakan
 login-list-intro-title = Tidak ada info masuk ditemukan
@@ -58,6 +59,8 @@ login-list-item-subtitle-new-login = Masukkan kredensial info masuk Anda
 login-list-item-subtitle-missing-username = (tidak ada nama pengguna)
 about-logins-list-item-breach-icon =
     .title = Situs web yang dibobol
+about-logins-list-item-vulnerable-password-icon =
+    .title = Kata sandi rentan
 
 ## Introduction screen
 
