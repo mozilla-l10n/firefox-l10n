@@ -29,3 +29,15 @@ appmenu-addon-private-browsing-installed =
     .buttonaccesskey = O
 appmenu-addon-post-install-message = పొడిగింతల నిర్వహణకై <image data-l10n-name='addon-menu-icon'></image> మెనూ లోని <image data-l10n-name='addon-install-icon'></image> మీద నొక్కండి.
 appmenu-addon-private-browsing-learn-more = పొడగింతల అమరికలను ఎలా నిర్వహించుకోవాలో తెలుసుకోండి
+appmenu-new-tab-controlled =
+    .label = మీ కొత్త ట్యాబు మారిపోయింది.
+    .buttonlabel = మార్పులను ఉండనివ్వు
+    .buttonaccesskey = K
+    .secondarybuttonlabel = పొడగింతను అనేతనం చేయి
+    .secondarybuttonaccesskey = D
+appmenu-homepage-controlled =
+    .label = మీ ముంగిలి పుట మారింది.
+    .buttonlabel = మార్పులను ఉండనివ్వు
+    .buttonaccesskey = K
+    .secondarybuttonlabel = పొడగింతను అచేతనం చేయి
+    .secondarybuttonaccesskey = D
