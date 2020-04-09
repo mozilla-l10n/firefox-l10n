@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Si faux, désactive l’accélération matérielle
 policy-Homepage = Définir la page d’accueil et permettre de la verrouiller.
 policy-InstallAddonsPermission = Autoriser certains sites web à installer des extensions.
 policy-LegacyProfiles = Désactiver la fonctionnalité qui impose l’utilisation d’un profil distinct pour chaque installation.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Activer par défaut le paramètre de comportement traditionnel SameSite pour les cookies.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revenir au comportement traditionnel SameSite pour les cookies sur certains sites spécifiques.
+
+##
+
 policy-LocalFileLinks = Autoriser des sites précis à utiliser des liens vers des fichiers locaux.
 policy-NetworkPrediction = Permettre ou interdire la prédiction réseau (prélecture DNS).
 policy-NewTabPage = Activer ou désactiver la page de nouvel onglet.
