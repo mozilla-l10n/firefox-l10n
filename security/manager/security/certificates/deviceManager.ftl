@@ -96,5 +96,5 @@ load-module-help-empty-module-name =
 load-module-help-root-certs-module-name =
     .value = « Root Certs » es reservat e pòt pas èsser utilizat coma nom de modul.
 add-module-failure = Impossible d'apondre lo modul
-del-module-warning = Sètz segur que volètz suprimir aqueste modul de seguretat?
+del-module-warning = Volètz vertadièrament suprimir aqueste modul de seguretat ?
 del-module-error = Impossible de suprimir lo modul

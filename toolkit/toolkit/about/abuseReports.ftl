@@ -74,7 +74,7 @@ abuse-report-broken-reason-extension = Fonciona pas, còpa los sites web, o alen
 abuse-report-broken-reason-theme = Fonciona pas o còpa l’afichatge del navegador
 abuse-report-broken-reason-extension-v2 = Fonciona pas, còpa los sites web, o alentís { -brand-product-name }
 abuse-report-broken-reason-theme-v2 = fonciona pas o còpa l’afichatge del navegador
-abuse-report-broken-example = Exemple : las foncionalitats son lentas, malaisidas d’utilizar o foncionan pas ; unas partidas dels sites Web se cargan pas o an una aparéncia inabituala.
+abuse-report-broken-example = Exemple : las foncionalitats son lentas, malaisidas d’utilizar o foncionan pas ; d’unas partidas dels sites Web se cargan pas o an una aparéncia inabituala.
 abuse-report-broken-suggestions-extension =
     Sembla qu'avètz identificar un bug. En mai de sometre un rapòrt aquí, lo melhor biais
     per resòlvre un problèma de foncionalitat es de contactar lo desvolopaire de l'extension.
