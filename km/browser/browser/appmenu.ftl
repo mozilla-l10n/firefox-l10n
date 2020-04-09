@@ -6,6 +6,13 @@
 ## App Menu
 
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = ពង្រីក
+appmenuitem-zoom-reduce =
+    .label = បង្រួម
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

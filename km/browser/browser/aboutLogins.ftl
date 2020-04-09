@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = បើក​ម៉ឺនុយ
-# This menuitem is only visible on Windows
-menu-menuitem-import = នាំចូល​ពាក្យ​សម្ងាត់...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ជម្រើស
@@ -45,6 +43,7 @@ login-list-count =
     }
 login-list-sort-label-text = តម្រៀបតាម៖
 login-list-name-option = ឈ្មោះ (A-Z)
+login-list-name-reverse-option = ឈ្មោះ (Z-A)
 login-list-breached-option = គេហទំព័រ​ដែល​បំពាន
 login-list-last-changed-option = បាន​កែប្រែ​ចុងក្រោយ
 login-list-last-used-option = បាន​ប្រើប្រាស់​ចុងក្រោយ
@@ -71,18 +70,18 @@ about-logins-intro-instruction-help = ចូល​មើល <a data-l10n-name="h
 
 login-item-new-login-title = បង្កើត​ការចូល​ថ្មី
 login-item-edit-button = កែសម្រួល
-login-item-delete-button = លុប
+about-logins-login-item-remove-button = លុប​ចេញ
 login-item-origin-label = អាសយដ្ឋាន​គេហទំព័រ
 login-item-origin =
     .placeholder = https://www.example.com
 login-item-username-label = ឈ្មោះ​អ្នក​ប្រើប្រាស់
+about-logins-login-item-username =
+    .placeholder = (គ្មាន​ឈ្មោះ​អ្នក​ប្រើប្រាស់)
 login-item-copy-username-button-text = ចម្លង
 login-item-copied-username-button-text = បាន​ចម្លង!
 login-item-password-label = ពាក្យ​សម្ងាត់
-login-item-password-reveal-checkbox-show =
-    .title = បង្ហាញ​ពាក្យ​សម្ងាត់
-login-item-password-reveal-checkbox-hide =
-    .title = លាក់​ពាក្យ​សម្ងាត់
+login-item-password-reveal-checkbox =
+    .aria-label = បង្ហាញ​ពាក្យសម្ងាត់
 login-item-copy-password-button-text = ចម្លង
 login-item-copied-password-button-text = បាន​ចម្លង!
 login-item-save-changes-button = រក្សាទុក​ការផ្លាស់ប្ដូរ
@@ -91,6 +90,14 @@ login-item-cancel-button = បោះបង់
 login-item-time-changed = បាន​កែប្រែ​ចុងក្រោយ៖ { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = បាន​បង្កើត៖ { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = បាន​ប្រើប្រាស់​ចុងក្រោយ៖ { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -113,7 +120,9 @@ enable-password-sync-preferences-button =
            *[other] ចូល​ទៅ​កាន់​ចំណូលចិត្ត { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = លុប​ការចូល​នេះ?
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = កុំ​សួរ​ខ្ញុំ​ម្ដងទៀត
+    .accesskey = ក
 
 ## Dialogs
 
@@ -121,7 +130,6 @@ confirmation-dialog-cancel-button = បោះបង់
 confirmation-dialog-dismiss-button =
     .title = បោះបង់
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
-confirm-delete-dialog-confirm-button = លុប
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
 confirm-discard-changes-dialog-message = ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក​ទាំងអស់​នឹង​បាត់។
 confirm-discard-changes-dialog-confirm-button = បោះបង់
@@ -132,6 +140,9 @@ breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវប
 breach-alert-link = ស្វែងយល់​បន្ថែម​អំពី​​ការបំពាន​នេះ។
 breach-alert-dismiss =
     .title = បិទ​ការជូនដំណឹង​នេះ
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
