@@ -298,6 +298,7 @@ touch-enabled = 触摸输入已启用
 drag-enabled = 滚动条拖动已启用
 keyboard-enabled = 键盘已启用
 autoscroll-enabled = 自动滚动已启用
+zooming-enabled = 已启用平滑捏合缩放
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

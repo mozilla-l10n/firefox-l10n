@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } （隐私浏览）
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } （隐私浏览）
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - （隐私浏览）
        *[other] { $title } - { -brand-full-name } （隐私浏览）
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = 查看网站信息
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = 输入寥寥，搜遍万千：在地址栏就能用 { $engineName } 搜索。
-urlbar-search-tips-redirect = 在这里搜索，可以看到 { $engineName } 提供的建议，还有您的相关浏览历史。
 urlbar-search-tips-redirect-2 = 在地址栏搜索，可以看到 { $engineName } 提供的建议，还有您的相关浏览历史。
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = 管理扩展…
 page-action-remove-from-urlbar =
     .label = 从地址栏移除
+page-action-remove-extension =
+    .label = 移除扩展
 
 ## Auto-hide Context Menu
 
