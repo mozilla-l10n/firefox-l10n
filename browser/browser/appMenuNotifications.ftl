@@ -29,3 +29,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = យល់​ហើយ
     .buttonaccesskey = O
 appmenu-addon-post-install-message = គ្រប់គ្រងកម្មវិធីបន្ថែមរបស់អ្នកដោយចុច <image data-l10n-name='addon-install-icon'></image> ក្នុងម៉ឺនុយ <image data-l10n-name='addon-menu-icon'></image>។
+appmenu-addon-post-install-incognito-checkbox =
+    .label = អនុញ្ញាតឱ្យផ្នែកបន្ថែមនេះដំណើរការនៅក្នុងវីនដូឯកជន
+    .accesskey = ក
+appmenu-addon-private-browsing-learn-more = ស្វែងយល់ពីវិធីគ្រប់គ្រងការកំណត់ផ្នែកបន្ថែម

@@ -25,3 +25,10 @@ about-private-browsing =
 about-private-browsing-not-private = បច្ចុប្បន្ន​អ្នក​មិន​នៅ​ក្នុង​បង្អួច​ឯកជន​ទេ។
 content-blocking-title = ទប់ស្កាត់​មាតិកា
 content-blocking-description = គេហទំព័រ​ខ្លះ​ប្រើ​កម្មវិធី​តាមដាន​ដែល​អាច​ត្រួតពិនិត្យ​មើល​សកម្មភាព​របស់​អ្នក​នៅ​លើ​អ៊ីនធឺណិត។ នៅក្នុង​ផ្ទាំង​ឯកជន ការទប់ស្កាត់​ខ្លឹមសារ { -brand-short-name } ទប់ស្កាត់​កម្មវិធី​តាមដាន​ជា​ច្រើន​ដែល​អាច​ប្រមូល​ព័ត៌មាន​អំពី​​ការ​ប្រព្រឹត្តិ​នៃ​ការ​រក​មើល​របស់​អ្នកដោយស្វ័យប្រវត្តិ។
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } គឺជាម៉ាស៊ីនស្វែងរកលំនាំដើមរបស់អ្នកនៅក្នុងវីនដូឯកជន
+about-private-browsing-search-banner-close-button =
+    .aria-label = បិទ

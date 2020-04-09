@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = ចំណាំ​ទំព័រ​នេះ
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = ចំណាំ​ទំព័រ​នេះ
     .accesskey = m
@@ -106,6 +103,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = រក្សាទុក​តំណជា...
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = រក្សាទុកតំណទៅ { -pocket-brand-name }
+    .accesskey = ទ
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
