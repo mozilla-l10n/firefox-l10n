@@ -287,6 +287,7 @@ shortcuts-no-commands = Følgende utvidelser har ikke snarveier:
 shortcuts-input =
     .placeholder = Skriver inn en snarvei
 shortcuts-browserAction = Aktiver utvidelse
+shortcuts-browserAction2 = Aktiver verktøylinjeknapp
 shortcuts-pageAction = Aktiver sidehandling
 shortcuts-sidebarAction = Vis/skjul sidestolpe
 shortcuts-modifier-mac = Inkluder Ctrl, Alt eller ⌘
