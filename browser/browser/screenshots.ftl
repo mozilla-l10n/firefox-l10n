@@ -4,7 +4,7 @@
 
 screenshots-context-menu = 스크린샷 찍기
 screenshots-my-shots-button = 내 스크린샷
-screenshots-instructions = 드래그하거나 클릭해 영역을 선택하세요. ESC를 누르면 취소됩니다.
+screenshots-instructions = 드래그하거나 클릭해 영역을 선택하세요. ESC 키를 누르면 취소됩니다.
 screenshots-cancel-button = 취소
 screenshots-save-visible-button = 보이는 내용 저장
 screenshots-save-page-button = 전체 페이지 저장
