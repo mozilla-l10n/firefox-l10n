@@ -29,3 +29,15 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিকাছে, বুঝতে পেরেছি
     .buttonaccesskey = O
 appmenu-addon-post-install-message = আপনার অ্যাড-অন পরিচালনা করতে <image data-l10n-name='addon-install-icon'></image> মেনুতে <image data-l10n-name='addon-menu-icon'></image> ক্লিক করুন।
+appmenu-homepage-controlled =
+    .label = আপনার নীড় পাতা পরিবর্তিত হয়েছে।
+    .buttonlabel = পরিবর্তনগুলো রাখো
+    .buttonaccesskey = K
+    .secondarybuttonlabel = এক্সটেনশনটি নিষ্ক্রিয় করুন
+    .secondarybuttonaccesskey = D
+appmenu-tab-hide-controlled =
+    .label = আপনার লুকানো ট্যাবে প্রবেশ করুন
+    .buttonlabel = ট্যাবগুলো লুকানো রাখুন
+    .buttonaccesskey = K
+    .secondarybuttonlabel = এক্সটেনশনটি নিষ্ক্রিয় করুন
+    .secondarybuttonaccesskey = D
