@@ -300,6 +300,7 @@ touch-enabled = input touch attivo
 drag-enabled = trascinamento barre di scorrimento attivo
 keyboard-enabled = tastiera attiva
 autoscroll-enabled = scorrimento automatico attivo
+zooming-enabled = smooth pinch-zoom attivo
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
