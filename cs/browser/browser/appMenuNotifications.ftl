@@ -89,3 +89,15 @@ appmenu-addon-private-browsing-message =
        *[other] aplikace { -brand-shorter-name }
     } vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.
 appmenu-addon-private-browsing-learn-more = Jak na nastavení rozšíření
+appmenu-homepage-controlled =
+    .label = Vaše domovská stránka byla změněna.
+    .buttonlabel = Zachovat změny
+    .buttonaccesskey = Z
+    .secondarybuttonlabel = Zakázat rozšíření
+    .secondarybuttonaccesskey = k
+appmenu-tab-hide-controlled =
+    .label = Přistupovat k vašim skrytým panelům
+    .buttonlabel = Ponechat panely skryté
+    .buttonaccesskey = P
+    .secondarybuttonlabel = Zakázat rozšíření
+    .secondarybuttonaccesskey = Z
