@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Priveesneupe)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Priveesneupe)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Priveesneupe)
        *[other] { $title } - { -brand-full-name } (Priveesneupe)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Website-ynformaasje werjaan
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Type minder, fyn mear: Sykje nei { $engineName } streekrjocht fan jo adresbalke út.
-urlbar-search-tips-redirect = Start hjir jo sykopdracht om syksuggestjes fan { $engineName } en jo sykskiednis te sjen.
 urlbar-search-tips-redirect-2 = Begjin yn de adresbalke mei sykjen om suggestjes fan { $engineName } en jo browserskiednis te sjen.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = Utwreiding beheare…
 page-action-remove-from-urlbar =
     .label = Fuortsmite fan adresbalke
+page-action-remove-extension =
+    .label = Utwreiding fuortsmite
 
 ## Auto-hide Context Menu
 

@@ -318,6 +318,7 @@ touch-enabled = oanraakynfier ynskeakele
 drag-enabled = sleep fia skowbalke ynskeakele
 keyboard-enabled = toetseboerd ynskeakele
 autoscroll-enabled = automatysk skowe ynskeakele
+zooming-enabled = soepele knyp-zoom ynskeakele
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
