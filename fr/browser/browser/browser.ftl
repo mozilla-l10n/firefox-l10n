@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Navigation privée)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Navigation privée)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navigation privée)
        *[other] { $title } - { -brand-full-name } (Navigation privée)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Afficher les informations du site
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Écrivez moins, trouvez plus : recherchez avec { $engineName } directement depuis la barre d’adresse.
-urlbar-search-tips-redirect = Commencez votre recherche ici pour afficher des suggestions depuis { $engineName } et depuis votre historique de navigation.
 urlbar-search-tips-redirect-2 = Commencez votre recherche dans la barre d’adresse pour afficher des suggestions depuis { $engineName } et depuis votre historique de navigation.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = Gérer l’extension…
 page-action-remove-from-urlbar =
     .label = Retirer de la barre d’adresse
+page-action-remove-extension =
+    .label = Supprimer l’extension
 
 ## Auto-hide Context Menu
 
