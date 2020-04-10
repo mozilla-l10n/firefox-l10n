@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Ez a művelet nem vonható vissza.
 newtab-menu-section-tooltip =
     .title = Menü megnyitása
     .aria-label = Menü megnyitása
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Eltávolítás
+    .aria-label = Eltávolítás
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
 
 newtab-privacy-modal-button-done = Kész
 newtab-privacy-modal-header = Számít az Ön adatvédelme.
-newtab-privacy-modal-paragraph =
-    A magával ragadó történetek mellett, kiválasztott szponzoraink releváns,
-    válogatott tartalmait is megjelenítjük. Biztos lehet benne, hogy a böngészési adatai
-    sosem hagyják el az Ön { -brand-product-name } példányát – mi nem látjuk azokat,
-    és a szponzoraink sem.
 newtab-privacy-modal-paragraph-2 =
     A magával ragadó történetek mellett, kiválasztott szponzoraink releváns,
     válogatott tartalmait is megjelenítjük. Biztos lehet benne, hogy <strong>a böngészési adatai
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hoppá! Majdnem betöltöt
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Népszerű témák:
 newtab-pocket-more-recommendations = További javaslatok
-newtab-pocket-whats-pocket = Mi a { -pocket-brand-name }?
 newtab-pocket-learn-more = További tudnivalók
 newtab-pocket-cta-button = { -pocket-brand-name } beszerzése
 newtab-pocket-cta-text = Mentse az Ön által kedvelt történeteket a { -pocket-brand-name }be, és töltse fel elméjét lebilincselő olvasnivalókkal.
