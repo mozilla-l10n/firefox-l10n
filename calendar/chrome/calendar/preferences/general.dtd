@@ -16,7 +16,7 @@
 
 <!ENTITY pref.timezones.caption "Časovni pas">
 <!ENTITY pref.timezones.label "Izberite najbližje mesto v svojem časovnem pasu:">
-<!ENTITY pref.timezones.accesskey "z">
+<!ENTITY pref.timezones.accesskey "s">
 
 <!ENTITY pref.defaults.label "Privzete vrednosti za nove predmete">
 <!ENTITY pref.events.label "Dogodki">
