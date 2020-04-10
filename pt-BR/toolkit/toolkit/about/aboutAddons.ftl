@@ -292,6 +292,7 @@ shortcuts-no-commands = As seguintes extensões não têm atalhos de teclado:
 shortcuts-input =
     .placeholder = Digite um atalho
 shortcuts-browserAction = Ativar extensão
+shortcuts-browserAction2 = Ativar botão na barra de ferramentas
 shortcuts-pageAction = Ativar ação de página
 shortcuts-sidebarAction = Exibir/ocultar o painel lateral
 shortcuts-modifier-mac = Incluir Ctrl, Alt ou ⌘
