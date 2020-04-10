@@ -57,6 +57,8 @@ manifest-item-identity = شناخت
 manifest-item-presentation = پيشکاری
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = آئیکن
+# Text displayed when the manifest has been successfully loaded
+manifest-loaded-ok = منشور لوڈ ہو گیا
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox DevTools نقص
