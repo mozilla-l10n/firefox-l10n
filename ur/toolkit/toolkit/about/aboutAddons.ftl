@@ -363,7 +363,11 @@ recommended-themes-heading = تجویز شدہ تھیمز
 
 extension-heading = اپنی ایکسٹینشنز منظم کریں
 theme-heading = اپنی تھیمز منظم کریں
+plugin-heading = اپنی پلگانز منظم کریں
+dictionary-heading = اپنی لغت کو منظم کریں
+locale-heading = اپنی زبان کو منظم کریں
 updates-heading = اپنی تازہ کاریوں کو منظم کریں
+theme-heading-search-label = مزید تھیمز تلاش کریں
 extension-heading-search-label = مزید ایکسٹینشنز تلاش کریں
 default-heading-search-label = مزید ایڈ-اون کے تلاش کریں
 addons-heading-search-input =

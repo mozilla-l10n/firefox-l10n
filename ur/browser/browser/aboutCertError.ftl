@@ -91,3 +91,4 @@ inadequateSecurityError-title = آپکا کنکشن ناقابل بھروسا ہ
 blockedByPolicy-title = بلاک شدہ صفحہ
 clockSkewError-title = آپ کے کمپیوٹر کی گھڑی غلط ہے
 networkProtocolError-title = نیٹ ورک پروٹوکول کی خرابی
+nssBadCert-title = انتباہ: اآگے ممکنہ سیکیورٹی کا خطرہ او سکتا ہے
