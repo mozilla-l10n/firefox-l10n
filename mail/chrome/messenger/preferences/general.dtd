@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "L">
 <!ENTITY removeSearchEngine.label         "Poista">
 <!ENTITY removeSearchEngine.accesskey     "p">
+
+<!ENTITY minimizeToTray.label             "Kun &brandShortName; on pienennetty, piilota se">
+<!ENTITY minimizeToTray.accesskey         "p">
