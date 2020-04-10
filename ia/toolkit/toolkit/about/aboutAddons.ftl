@@ -287,6 +287,7 @@ shortcuts-no-commands = Le sequente extensiones non ha claves accelerator:
 shortcuts-input =
     .placeholder = Insere un accesso directe
 shortcuts-browserAction = Activar extension
+shortcuts-browserAction2 = Activar le button del barra de utensiles
 shortcuts-pageAction = Activar le action del pagina
 shortcuts-sidebarAction = Monstrar/celar le barra lateral
 shortcuts-modifier-mac = Includer Ctrl, Alt, o ⌘
