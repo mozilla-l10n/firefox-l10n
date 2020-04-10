@@ -287,6 +287,11 @@ sandbox-proc-type-content = innehåll
 sandbox-proc-type-file = filinnehåll
 sandbox-proc-type-media-plugin = insticksmodul media
 sandbox-proc-type-data-decoder = dataavkodare
+startup-cache-title = Startcache
+startup-cache-disk-cache-path = Sökväg diskcache
+startup-cache-ignore-disk-cache = Ignorera diskcache
+startup-cache-found-disk-cache-on-init = Hittade diskcache på Init
+startup-cache-wrote-to-disk-cache = Skrev till diskcache
 launcher-process-status-0 = Aktiverad
 launcher-process-status-1 = Inaktiverad på grund av fel
 launcher-process-status-2 = Inaktiverad med tvång
@@ -310,6 +315,7 @@ touch-enabled = tryckinmatning aktiverad
 drag-enabled = rullningslist är dragaktiverad
 keyboard-enabled = tangentbord aktiverad
 autoscroll-enabled = autoscroll aktiverad
+zooming-enabled = mjuk pinch-zoom aktiverad
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
