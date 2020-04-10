@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = تصدیق نامہ سلسلہ:
 
 connectionFailure-title = جڑنے میں ناکامیاب
 deniedPortAccess-title = یہ پتہ رسٹرکٹڈ ہے
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = ہمم۔ ہمیں وہ سائٹ ڈھونڈنے میں دشواری ہو رہی ہے۔
 fileNotFound-title = مسل نہیں ملی
 fileAccessDenied-title = مسل تک رسائی مسترد کردی گئی ہے
 generic-title = اف
 captivePortal-title = نیٹ ورک میں لاگ ان کریں
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = ہمم۔ یہ پتہ صحیح نہیں لگ رہا
 netInterrupt-title = کنکشن خراب ہو گیا
 notCached-title = دستاویز زائدالمدت
 netOffline-title = آف لائن موڈ

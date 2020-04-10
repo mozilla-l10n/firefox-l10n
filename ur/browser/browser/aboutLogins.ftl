@@ -149,6 +149,7 @@ confirm-discard-changes-dialog-confirm-button = رد کريں
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = ویب سائٹ کی خلاف ورزی
 breach-alert-text = اس ویب سائٹ سے پاس ورڈز لیک یا چوری ہوگئے تھے جب سے آپ نے لاگ ان کی تفصیلات کو آخری بار اپ ڈیٹ کیا تھا۔ اپنے اکاؤنٹ کی حفاظت کے لئے اپنا پاس ورڈ تبدیل کریں۔
 breach-alert-link = اس خلاف ورزی کے بارے میں مزید معلومات حاصل کریں۔
 breach-alert-dismiss =
@@ -160,6 +161,9 @@ about-logins-breach-alert-learn-more-link = مزید سیکھیں
 
 ## Vulnerable Password notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } پر جائیں
 about-logins-vulnerable-alert-learn-more-link = مزید سیکھیں
 
 ## Error Messages

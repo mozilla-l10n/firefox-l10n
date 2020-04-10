@@ -150,6 +150,8 @@ page-action-manage-extension =
     .label = ایکسٹینشن… منظم کریں
 page-action-remove-from-urlbar =
     .label = ایڈریس بار سے ہٹائے
+page-action-remove-extension =
+    .label = ایکسٹینشن ہٹائیں
 
 ## Auto-hide Context Menu
 
