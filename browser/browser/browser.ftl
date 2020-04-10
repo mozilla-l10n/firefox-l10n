@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Duyệt web riêng tư)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Duyệt web riêng tư)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Duyệt web riêng tư)
        *[other] { $title } - { -brand-full-name } (Duyệt web riêng tư)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Xem thông tin trang
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Nhập ít hơn, tìm thêm: Tìm kiếm { $engineName } ngay từ thanh địa chỉ của bạn.
-urlbar-search-tips-redirect = Bắt đầu tìm kiếm của bạn ở đây để xem các đề xuất từ { $engineName } và lịch sử duyệt web của bạn.
 urlbar-search-tips-redirect-2 = Bắt đầu tìm kiếm của bạn trong thanh địa chỉ để xem các đề xuất từ { $engineName } và lịch sử duyệt web của bạn.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = Quản lý tiện ích mở rộng…
 page-action-remove-from-urlbar =
     .label = Xóa khỏi thanh địa chỉ
+page-action-remove-extension =
+    .label = Xóa tiện ích mở rộng
 
 ## Auto-hide Context Menu
 
