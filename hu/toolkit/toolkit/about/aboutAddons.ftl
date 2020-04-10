@@ -287,6 +287,7 @@ shortcuts-no-commands = A következő kiegészítők nem rendelkeznek gyorsbille
 shortcuts-input =
     .placeholder = Írjon be egy gyorsbillentyűt
 shortcuts-browserAction = Kiegészítő aktiválása
+shortcuts-browserAction2 = Eszköztárgomb aktiválása
 shortcuts-pageAction = Lapművelet aktiválása
 shortcuts-sidebarAction = Oldalsáv be/ki
 shortcuts-modifier-mac = Ctrl, Alt vagy ⌘ gombot tartalmaz
