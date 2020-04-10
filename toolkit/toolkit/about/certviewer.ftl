@@ -29,6 +29,8 @@ certificate-viewer-id = Azonosító
 certificate-viewer-key-exchange-group = Kulcscsere csoport
 certificate-viewer-key-id = Kulcsazonosító
 certificate-viewer-key-size = Kulcsméret
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Bejegyzés helyszíne
 certificate-viewer-locality = Helység
 certificate-viewer-location = Hely
 certificate-viewer-logid = Naplóazonosító

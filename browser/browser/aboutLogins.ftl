@@ -175,6 +175,7 @@ about-logins-breach-alert-learn-more-link = További tudnivalók
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Sebezhető jelszó
+about-logins-vulnerable-alert-text2 = Ezt a jelszót egy másik fiókhoz használták, amely valószínűleg adatsértésben volt érintett. A hitelesítő adatok újbóli felhasználása veszélyezteti az összes fiókját. Cserélje le ezt a jelszót.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ugrás ide: { $hostname }
