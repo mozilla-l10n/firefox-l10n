@@ -66,6 +66,14 @@ policy-HardwareAcceleration = If false, turn off hardware acceleration.
 policy-Homepage = Set and optionally lock the homepage.
 policy-InstallAddonsPermission = Allow certain web sites to install add-ons.
 policy-LegacyProfiles = Disable the feature enforcing a separate profile for each installation
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Enable default legacy SameSite cookie behaviour setting.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Revert to legacy SameSite behaviour for cookies on specified sites.
+
+##
+
 policy-LocalFileLinks = Allow specific web sites to link to local files.
 policy-NetworkPrediction = Enable or disable network prediction (DNS prefetching).
 policy-NewTabPage = Enable or disable the New Tab page.
