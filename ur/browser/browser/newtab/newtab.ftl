@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = یہ عمل کلعدم نہیں ہو سکتا
 newtab-menu-section-tooltip =
     .title = مینیو کھولیں
     .aria-label = مینیو کھولیں
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = ہٹائیں
+    .aria-label = ہٹائیں
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = اس سائٹ کی تدوین کریں
@@ -165,7 +169,6 @@ newtab-discovery-empty-section-topstories-timed-out = افوہ! ہم نے اس �
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = مشہور مضامین:
 newtab-pocket-more-recommendations = اور زیادہ سفارشات
-newtab-pocket-whats-pocket = { -pocket-brand-name } کیا ہے؟
 newtab-pocket-learn-more = مزید سیکھیں
 newtab-pocket-cta-button = { -pocket-brand-name } حاصل کریں
 

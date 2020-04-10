@@ -13,3 +13,5 @@ pictureinpicture-unmute =
     .aria-label = انمیوٹ
 pictureinpicture-unpip =
     .aria-label = ٹیب پر واپس بھیجیں
+pictureinpicture-close =
+    .aria-label = بند کریں
