@@ -9,7 +9,7 @@ sync-disconnect-heading = Bạn có muốn xóa dữ liệu trình duyệt trên
 sync-disconnect-remove-sync-caption = Xóa dữ liệu { -sync-brand-name }
 sync-disconnect-remove-sync-data = Dấu trang, lịch sử, mật khẩu, v.v.
 sync-disconnect-remove-other-caption = Xóa các dữ liệu riêng tư khác
-sync-disconnect-remove-other-data = Cookie, cache, dữ liệu ngoại tuyến, v.v.
+sync-disconnect-remove-other-data = Cookie, bộ nhớ đệm, dữ liệu ngoại tuyến, v.v.
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Đang ngắt kết nối...
 sync-disconnect-cancel =

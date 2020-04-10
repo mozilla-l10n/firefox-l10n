@@ -37,7 +37,7 @@ clear-time-duration-value-last-4-hours =
 clear-time-duration-value-today =
     .label = Hôm nay
 clear-time-duration-value-everything =
-    .label = Mọi thứ
+    .label = Mọi lúc
 clear-time-duration-suffix =
     .value = { "" }
 
