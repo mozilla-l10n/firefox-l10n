@@ -287,6 +287,7 @@ shortcuts-no-commands = Te rozszerzenia nie mają skrótów:
 shortcuts-input =
     .placeholder = Wprowadź skrót
 shortcuts-browserAction = Włącz rozszerzenie
+shortcuts-browserAction2 = Włącz przycisk na pasku narzędzi
 shortcuts-pageAction = Włącz działanie na stronie
 shortcuts-sidebarAction = Przełącz panel boczny
 shortcuts-modifier-mac = Uwzględnij Ctrl, Alt lub ⌘
