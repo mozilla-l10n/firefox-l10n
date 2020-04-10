@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Kezdő lépések
 onboarding-welcome-header = Üdvözli a { -brand-short-name }
 onboarding-welcome-body = Megvan a böngészője.<br/>Ismerkedjen meg a { -brand-product-name } család többi tagjával.
 onboarding-welcome-learn-more = További tudnivalók az előnyökről.
+onboarding-join-form-header = Csatlakozzon a { -brand-product-name }hoz
 onboarding-welcome-modal-get-body = Megvan a böngészője.<br/>Most pedig hozza ki a legtöbbet a { -brand-product-name }ból.
 onboarding-welcome-modal-supercharge-body = Turbózza fel a személyes adatvédelmét.
 onboarding-welcome-modal-privacy-body = Megvan a böngészője. Most adjunk hozzá még több adatvédelmet.
 onboarding-welcome-modal-family-learn-more = Tudjon meg többet a { -brand-product-name } termékcsaládról.
 onboarding-welcome-form-header = Kezdje itt
-onboarding-join-form-header = Csatlakozzon a { -brand-product-name }hoz
 onboarding-join-form-body = Kezdésként adja meg az e-mail címét.
 onboarding-join-form-email =
     .placeholder = Adja meg az e-mail címét
@@ -147,6 +147,7 @@ onboarding-facebook-container-button = A kiegészítő hozzáadása
 onboarding-import-browser-settings-title = Importálja könyvjelzőit, jelszavait és egyebeit
 onboarding-import-browser-settings-text = Merüljön bele azonnal – hozza magával a Chrome webhelyeit és beállításait.
 onboarding-import-browser-settings-button = Chrome adatok importálása
+onboarding-personal-data-promise-title = Tervezett adatvédelem
 
 ## Message strings belonging to the Return to AMO flow
 
