@@ -287,6 +287,7 @@ shortcuts-no-commands = Các tiện ích mở rộng sau không có phím tắt:
 shortcuts-input =
     .placeholder = Nhập một phím tắt
 shortcuts-browserAction = Kích hoạt tiện ích mở rộng
+shortcuts-browserAction2 = Kích hoạt nút thanh công cụ
 shortcuts-pageAction = Kích hoạt hành động trang
 shortcuts-sidebarAction = Chuyển đến thanh lề
 shortcuts-modifier-mac = Bao gồmCtrl, Alt, hoặc ⌘
