@@ -30,7 +30,7 @@ about-telemetry-session-info-section = 使用階段資訊
 about-telemetry-scalar-section = Scalars
 about-telemetry-keyed-scalar-section = Keyed Scalars
 about-telemetry-histograms-section = 柱狀圖
-about-telemetry-keyed-histogram-section = Keyed Histograms
+about-telemetry-keyed-histogram-section = 分類柱狀圖
 about-telemetry-events-section = 事件
 about-telemetry-simple-measurements-section = 簡易測量
 about-telemetry-slow-sql-section = 慢速的 SQL 陳述句
@@ -39,7 +39,7 @@ about-telemetry-captured-stacks-section = 捕捉到的堆疊
 about-telemetry-late-writes-section = 慢速寫入
 about-telemetry-raw-payload-section = 原始酬載
 about-telemetry-raw = 原始 JSON
-about-telemetry-full-sql-warning = 注意: 已啟用慢速 SQL 除錯。完整的 SQL 字串將會在下面顯示，但將不會被送出給 Telemetry。
+about-telemetry-full-sql-warning = 註: 已開啟慢速 SQL 除錯。將在下面顯示完整 SQL 字串，但不會送出到 Telemetry。
 about-telemetry-fetch-stack-symbols = 取得堆疊的函數名稱
 about-telemetry-hide-stack-symbols = 顯示原始堆疊資料
 # Selects the correct release version
