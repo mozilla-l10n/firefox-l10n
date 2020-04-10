@@ -96,7 +96,7 @@ cfr-whatsnew-panel-header = Yangi xususiyatlar
 cfr-whatsnew-release-notes-link-text = Reliz qaydlarini oʻqish
 cfr-whatsnew-fx70-title = { -brand-short-name } endi xavfsizligingiz uchun yanada qattiqroq kurashadi
 cfr-whatsnew-fx70-body = Oxirgi yangilanish "Kuzatuvdan himoya" funksiyasi imkoniyatlarini oshiradi va har bir sayt uchun xavfsiz parol yaratishni osonlashtiradi.
-cfr-whatsnew-tracking-protect-title = Oʻzingini kuzatuvchilardan himoyalang
+cfr-whatsnew-tracking-protect-title = Oʻzingizni kuzatuvchilardan himoyalang
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } onlayn faoliyatingizni kuzatadigan ijtimoiy va saytlararo kuzatuvchilarni bloklaydi.
 cfr-whatsnew-tracking-protect-link-text = Hisobotni koʻrish
 # This string is displayed before a large numeral that indicates the total
@@ -110,7 +110,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } sanasidan
 cfr-whatsnew-tracking-blocked-link-text = Hisobotni koʻrish
 cfr-whatsnew-lockwise-backup-title = Parollarning zaxira nusxasini saqlang
-cfr-whatsnew-lockwise-backup-body = Endi ishonchli parol yaratish mumkin. Undan istalgan joyda foydalanishmumkin.
+cfr-whatsnew-lockwise-backup-body = Endi ishonchli parol yaratish mumkin. Undan istalgan joyda foydalanish mumkin.
 cfr-whatsnew-lockwise-backup-link-text = Zaxiralashni yoqish
 cfr-whatsnew-lockwise-take-title = Parolni oʻzingiz bilan olib yuring
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } mobil ilovasi istalgan joydan zaxiralangan parol yordamida xavfsiz foydalanish imkonini beradi.
@@ -140,9 +140,23 @@ cfr-whatsnew-permission-prompt-cta = Batafsil
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Raqamli imzolarni yigʻuvchi bloklandi
+       *[other] Raqamli imzolarni yigʻuvchilar bloklandi
+    }
+cfr-whatsnew-fingerprinter-counter-body = Reklama profilingizni tuzish amallari va qurilmangiz haqidagi maʼlumotlarni bildirmasdan toʻplovchi raqamli imzo toʻplovchilarni  { -brand-shorter-name } bloklaydi.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Raqamli imzo toʻplovchilar
+cfr-whatsnew-fingerprinter-counter-body-alt = Reklama profilingizni tuzish amallari va qurilmangiz haqidagi maʼlumotlarni bildirmasdan toʻplovchi raqamli imzo toʻplovchilarni  { -brand-shorter-name } bloklay oladi.
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Bu xatchoʻpni telefoningizga oʻtkazing
+cfr-doorhanger-sync-bookmarks-body = Xatchoʻp, parol va tarix kabilardan istalgan yerda { -brand-product-name } orqali foydalaning.
 
 ## Login Sync
 
