@@ -125,6 +125,10 @@ about-debugging-setup-usb-status-updating = Probíhá aktualizace…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Zapněte nabídku vývojáře na vašem zařízení s Android.
 # USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Povolte ladění přes USB v nabídce pro vývojáře Androidu.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Povolte ladění přes USB ve Firefoxu pro Android.
+# USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Připojte zařízení s Androidem k vašemu počítači.
 # Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
 # The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
