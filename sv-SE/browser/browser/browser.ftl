@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (privat surfning)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (privat surfning)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Privat surfning)
        *[other] { $title } - { -brand-full-name } (Privat surfning)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Visa webbplatsinformation
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Skriv mindre, hitta mer: Sök med { $engineName } direkt från ditt adressfält.
-urlbar-search-tips-redirect = Starta din sökning här för att se förslag från { $engineName } och din webbhistorik.
 urlbar-search-tips-redirect-2 = Starta din sökning i adressfältet för att se förslag från { $engineName } och din surfhistorik.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = Hantera tillägg…
 page-action-remove-from-urlbar =
     .label = Ta bort från adressfältet
+page-action-remove-extension =
+    .label = Ta bort tillägg
 
 ## Auto-hide Context Menu
 
