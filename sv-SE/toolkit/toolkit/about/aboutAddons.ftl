@@ -282,6 +282,7 @@ shortcuts-no-commands = Följande tillägg har inte genvägar:
 shortcuts-input =
     .placeholder = Skapa en genväg
 shortcuts-browserAction = Aktivera tillägg
+shortcuts-browserAction2 = Aktivera verktygsfältets knapp
 shortcuts-pageAction = Aktivera sidans åtgärd
 shortcuts-sidebarAction = Visa sidofält
 shortcuts-modifier-mac = Inkludera Ctrl, Alt eller ⌘
