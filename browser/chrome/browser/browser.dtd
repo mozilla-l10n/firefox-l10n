@@ -101,7 +101,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.label "Informasi Laman">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY ldbCmd.label "Pengawukutu Tata Letak">
+<!ENTITY ldbCmd.label "Debugger Tata Letak">
 <!ENTITY ldbCmd.accesskey "T">
 <!ENTITY mirrorTabCmd.label "Cerminkan Tab">
 <!ENTITY mirrorTabCmd.accesskey "C">

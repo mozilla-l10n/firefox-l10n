@@ -225,8 +225,8 @@ menu-preferences =
            *[other] g
         }
 menu-tools-layout-debugger =
-    .label = Pengawukutu Tata Letak
-    .accesskey = T
+    .label = Debugger Tata Letak
+    .accesskey = D
 
 ## Window Menu
 
