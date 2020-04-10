@@ -31,3 +31,5 @@ push-end-point-result = <strong>Սեղմել վերջնակէտ.</strong> { $nam
 # This term is used as a button label (verb, not noun).
 update-button = Թարմացնել
 unregister-button = Չգրանցուած
+unregister-error = Հնարաւոր չէ չը գրանցել այս ծառայութեան աշխատողին:
+waiting = Սպասում…
