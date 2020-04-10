@@ -17,8 +17,14 @@
 <!ENTITY availableTabs "Հասանելի հեռաւոր ներդիրները.">
 <!ENTITY availableProcesses "Հասանելի հեռաւոր ընթացքը.">
 <!ENTITY connectionError "Սխալ.">
+<!ENTITY errorTimeout "Սխալ. կապի դադարեցում։">
+<!ENTITY errorRefused "Սխալ. կապակցումը մերժուել է։">
+<!ENTITY errorUnexpected "Անսպասելի սխալ։">
 
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+<!ENTITY remoteHelp "Firefox-ի Մշակողի գործիքները կարող են վրիպազերծել հեռակայ սարքերը (Firefox-ը Android-ի համար և Firefox OS)։ Համոզուեք, որ միացրել եք «Հեռակա վրիպազերծում» ընտրանքը հեռակայ սարքում։ Տես աւելին">
+<!ENTITY remoteDocumentation "փաստաթղթաւորում">
+<!ENTITY remoteHelpSuffix ".">
 
