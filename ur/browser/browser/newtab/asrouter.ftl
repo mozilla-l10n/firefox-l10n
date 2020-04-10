@@ -121,6 +121,7 @@ cfr-whatsnew-lockwise-take-link-text = اپلیکیشن حاصل کریں
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = ایڈریس بار کے ساتھ کم ٹائپ کریں ،  مزید ڈھونڈیں
+cfr-whatsnew-searchbar-body-topsites = اب ، صرف پتے والی بار منتخب کریں ، اور ایک خانہ آپ کی سرفہرست سائٹوں کے ربط کے ساتھ پھیل جائے گا۔
 cfr-whatsnew-searchbar-icon-alt-text = میگنفائنگ گلاس آئکن
 
 ## Picture-in-Picture

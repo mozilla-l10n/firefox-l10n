@@ -45,6 +45,7 @@ policy-DisplayBookmarksToolbar = بک مارک ٹولبار طے شدہ طور �
 policy-DisplayMenuBar = مینوبار طے شدہ طور پر ظاہر کریں۔
 policy-DNSOverHTTPS = HTTPS پرDNS ترتیب کریں۔
 policy-DontCheckDefaultBrowser = ابتدائی طور پر طے شدہ براؤزر کے لئے چیک کرنے کو غیر فعال کریں۔
+policy-DownloadDirectory = ڈاؤن لوڈ ڈائریکٹری کو سیٹ اور لاک کریں۔
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = مواد روکنے کو فعال یا غیر فعال کر اور اس کے بعد اختیاری طور پر اس کو بند کردیں۔
 # A “locked” extension can’t be disabled or removed by the user. This policy
@@ -60,6 +61,12 @@ policy-HardwareAcceleration = غلط ہونے کی صورت میں ہارڈوی�
 policy-Homepage = ابتدائی صفحہ سیٹ کریں اور اختیاری طور پر تالا بندی کرِں۔
 policy-InstallAddonsPermission = چند ویب سائٹص کو اظافہ جات کی تنسیب کاری کی اجازت دیں۔
 policy-LegacyProfiles = ہر انسٹالیشن کے لئے ایک علیحدہ پروفائل نافذ کرنے والی خصوصیت کو غیر فعال کریں۔
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-LocalFileLinks = مخصوص ویب سائٹوں کو مقامی فائلوں سے لنک کرنے کی اجازت دیں۔
 policy-NetworkPrediction = نیٹ ورک کی پیش گوئی کو فعال یا غیر فعال کریں (DNS پہلے لانا)
 policy-NewTabPage = نیا ٹیب صفحہ فعال یا غیر فعال بانیے ۔

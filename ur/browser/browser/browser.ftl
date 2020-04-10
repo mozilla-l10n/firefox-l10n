@@ -133,6 +133,8 @@ urlbar-canvas-blocked =
     .tooltiptext = آپنے اس ویب سائٹ کے لئے کینوس کوائف ماحصل بلاک کر دی ہیں۔
 urlbar-midi-blocked =
     .tooltiptext = آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔
+urlbar-install-blocked =
+    .tooltiptext = آپ نے اس ویب سائٹ کیلئے ایڈ آنا کو انسٹالیشن کو بلاک کیا ہوا ہے۔
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
