@@ -51,7 +51,7 @@ sentence. -->
 <!ENTITY messageStyleTheme.label           "Tema:">
 <!ENTITY messageStyleTheme.accesskey       "T">
 <!ENTITY messageStyleThunderbirdTheme.label "Thunderbird">
-<!ENTITY messageStyleBubblesTheme.label    "Mehurčki">
+<!ENTITY messageStyleBubblesTheme.label    "Oblački">
 <!ENTITY messageStyleDarkTheme.label       "Temno">
 <!ENTITY messageStylePaperSheetsTheme.label "Listi papirja">
 <!ENTITY messageStyleSimpleTheme.label     "Preprosto">
