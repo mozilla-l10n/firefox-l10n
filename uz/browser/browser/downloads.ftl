@@ -116,13 +116,17 @@ downloads-cancel-download =
 downloads-history =
     .label = Barcha yuklanmalarni koʻrsatish
     .accesskey = k
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Yuklanma haqida maʼlumot
 downloads-clear-downloads-button =
-    .label = Yuklab olishlarni tozalash
+    .label = Yuklanmalarni tozalash
     .tooltiptext = Tozalash tugadi, yuklab olishlar bekor qilindi va muvaffaqiyatsiz yakunlandi
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
-    .value = Yuklab olishlar yoʻq.
+    .value = Yuklanmalar yoʻq.
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
-    .value = Ushbu seans uchun yuklab olishlar yo‘q.
+    .value = Ushbu seans uchun yuklanmalar yoʻq.

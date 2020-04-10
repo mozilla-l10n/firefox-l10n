@@ -5,9 +5,9 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
-newtab-page-title = Yangi ichki oyna
+newtab-page-title = Yangi varaq
 newtab-settings-button =
-    .title = Yangi ichki oyna sahifasini sozlash
+    .title = Yangi varaq sahifasini sozlash
 
 ## Search box component.
 
@@ -26,21 +26,21 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = Qidiruv tizimini qoʻshish
 newtab-topsites-add-topsites-header = Yangi ommabop sayt
 newtab-topsites-edit-topsites-header = Ommabop saytni tahrirlash
-newtab-topsites-title-label = Sarlavha
+newtab-topsites-title-label = Nomi
 newtab-topsites-title-input =
     .placeholder = Nomini kiriting
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL manzilini kiriting
 newtab-topsites-url-validation = URL manzilini bexato kiriting
-newtab-topsites-image-url-label = URL rasmi
+newtab-topsites-image-url-label = Rasmning URL manzili
 newtab-topsites-use-image-link = Boshqa rasmdan foydalaning…
 newtab-topsites-image-validation = Rasm yuklanmadi. Boshqa URL manzildan foydalaning.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
 newtab-topsites-cancel-button = Bekor qilish
-newtab-topsites-delete-history-button = Tarixdan o‘chirish
+newtab-topsites-delete-history-button = Tarixdan oʻchirish
 newtab-topsites-save-button = Saqlash
 newtab-topsites-preview-button = Koʻrib chiqish
 newtab-topsites-add-button = Qoʻshish
@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Bu amalni ortga qaytarib boʻlmaydi.
 newtab-menu-section-tooltip =
     .title = Menyuni ochish
     .aria-label = Menyuni ochish
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Olib tashlash
+    .aria-label = Olib tashlash
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -76,19 +80,19 @@ newtab-menu-open-new-private-window = Yangi maxfiy oynada ochish
 newtab-menu-dismiss = Rad etish
 newtab-menu-pin = Yopishtirish
 newtab-menu-unpin = Ajratish
-newtab-menu-delete-history = Tarixdan o‘chirish
+newtab-menu-delete-history = Tarixdan oʻchirish
 newtab-menu-save-to-pocket = { -pocket-brand-name } xizmatiga saqlash
-newtab-menu-delete-pocket = { -pocket-brand-name } xizmatidan o‘chirish
-newtab-menu-archive-pocket = { -pocket-brand-name } orqali arxivlash
+newtab-menu-delete-pocket = { -pocket-brand-name } xizmatidan oʻchirish
+newtab-menu-archive-pocket = { -pocket-brand-name } xizmatiga arxivlash
 newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Tayyor
-newtab-privacy-modal-header = Maxfiyligingiz shaxsiy hayotingizga tegishli.
+newtab-privacy-modal-header = Maxfiyligingiz juda muhim.
 newtab-privacy-modal-link = Yangi ichki oynada maxfiylik qanday boʻlishi haqida batafsil maʼlumot oling
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Xatcho‘pni olib tashlash
@@ -175,7 +179,6 @@ newtab-discovery-empty-section-topstories-timed-out = Obbo! Biz deyarli bu qismn
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Mashhur mavzular:
 newtab-pocket-more-recommendations = Yana tavsiyalar
-newtab-pocket-how-it-works = U qanday ishlaydi
 newtab-pocket-cta-button = { -pocket-brand-name }ni yuklab olish
 newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmatiga saqlab qoʻying va maroqli oʻqib, tafakkuringizni rivojlantiring
 
