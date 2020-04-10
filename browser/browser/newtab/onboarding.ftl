@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Први кораци
 onboarding-welcome-header = Добродошли у { -brand-short-name }
 onboarding-welcome-body = Имате прегледач. <br/>Упознајте и остатак { -brand-product-name } екипе.
 onboarding-welcome-learn-more = Сазнајте више о предностима.
+onboarding-join-form-header = Придружи се пројекту { -brand-product-name }
 onboarding-welcome-modal-get-body = Имате прегледач.<br/>А сада искористите максимум из { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Појачајте заштиту приватности.
 onboarding-welcome-modal-privacy-body = Инсталација прегледача је завршена. Додајмо сада још више заштите приватности.
 onboarding-welcome-modal-family-learn-more = Сазнајте више о { -brand-product-name } породици производа.
 onboarding-welcome-form-header = Почните овде
-onboarding-join-form-header = Придружи се пројекту { -brand-product-name }
 onboarding-join-form-body = Унесите своју е-адресу да бисте започели.
 onboarding-join-form-email =
     .placeholder = Унесите е-адресу
@@ -127,7 +127,7 @@ onboarding-mobile-phone-button = Преузмите мобилни прегле�
 onboarding-send-tabs-title = Пошаљите себи отворене језичке
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
-onboarding-send-tabs-text = Шаљите картице са једног уређаја на други - без копирања и лепљења или напуштања прегледача.
+onboarding-send-tabs-text = Шаљите језичке са једног уређаја на други - без копирања и лепљења или напуштања прегледача.
 onboarding-send-tabs-button = Почните да користите слање језичака
 onboarding-pocket-anywhere-title = Читајте и слушајте било где
 onboarding-pocket-anywhere-text2 = Сачувајте ваш омиљени садржај офлајн уз помоћ { -pocket-brand-name } апликације и читајте, слушајте и гледајте кад год вам то одговара.
