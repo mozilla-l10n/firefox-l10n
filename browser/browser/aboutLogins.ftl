@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = Daha fazla bilgi al
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Güvensiz Parola
-about-logins-vulnerable-alert-text = Bu parola, başka bir şirketin yaşadığı veri ihlali kapsamında sızdırılmış veya çalınmış. Aynı parolayı başka yerlerde kullanmak tüm hesaplarınızı tehlikeye atar. Güvenliğinizi artırmak için bu parolayı değiştirin.
+about-logins-vulnerable-alert-text2 = Bu parolayı veri ihlaline uğramış olan başka bir hesapta da kullanmışsınız. Aynı parola farklı yerlerde kullanmak tüm hesaplarınızı risk altına sokar. Bu parolayı değiştirin.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } sitesine git

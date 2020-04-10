@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Gizli Gezinti)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Gizli Gezinti)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Gizli Gezinti)
        *[other] { $title } - { -brand-full-name } (Gizli Gezinti)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Site bilgilerini göster
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Daha az yazın, daha çok bulun: Adres çubuğunuzdan { $engineName } ile arama yapın.
-urlbar-search-tips-redirect = { $engineName } ve gezinti geçmişinizden gelen önerileri görmek için arama yapmaya başlayın.
 urlbar-search-tips-redirect-2 = { $engineName } ve gezinti geçmişinizden gelen önerileri görmek için adres çubuğunda arama yapmaya başlayın.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = Eklentiyi yönet…
 page-action-remove-from-urlbar =
     .label = Adres çubuğundan kaldır
+page-action-remove-extension =
+    .label = Eklentiyi kaldır
 
 ## Auto-hide Context Menu
 
