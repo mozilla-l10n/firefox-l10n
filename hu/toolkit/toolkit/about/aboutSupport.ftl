@@ -315,6 +315,7 @@ touch-enabled = érintőbemenet engedélyezve
 drag-enabled = gördítősáv húzása engedélyezve
 keyboard-enabled = billentyűzet engedélyezve
 autoscroll-enabled = automatikus görgetés engedélyezve
+zooming-enabled = sima csípéssel történő nagyítás engedélyezve
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
