@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Privát böngészés)
        *[other] { $title } - { -brand-full-name } (Privát böngészés)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Oldal adatainak megjelenítése
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Gépeljen kevesebbet, találjon többet: { $engineName } keresés közvetlenül a címsorból.
-urlbar-search-tips-redirect = Kezdje a keresést itt, és lássa a { $engineName } javaslatait, valamint a böngészési előzményeit.
 urlbar-search-tips-redirect-2 = Kezdjen keresni a címsorban, és lássa a { $engineName } javaslatait, valamint a böngészési előzményeit.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Kiegészítő kezelése…
 page-action-remove-from-urlbar =
     .label = Eltávolítás a címsávból
+page-action-remove-extension =
+    .label = Kiegészítő eltávolítása
 
 ## Auto-hide Context Menu
 

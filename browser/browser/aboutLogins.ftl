@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Menü megnyitása
-# This menuitem is only visible on Windows
-menu-menuitem-import = Jelszavak importálása…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importálás egy másik böngészőből…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Rendezés:
 login-list-name-option = Név (A-Z)
 login-list-name-reverse-option = Név (Z-A)
 login-list-breached-option = Feltört weboldalak
+about-logins-login-list-alerts-option = Riasztások
 login-list-last-changed-option = Legutóbbi módosítás
 login-list-last-used-option = Legutóbbi használat
 login-list-intro-title = Nincsenek bejelentkezések
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Adja meg a bejelentkezési adatait
 login-list-item-subtitle-missing-username = (nincs felhasználónév)
 about-logins-list-item-breach-icon =
     .title = Adatsértésben érintett weboldal
+about-logins-list-item-vulnerable-password-icon =
+    .title = Sebezhető jelszó
 
 ## Introduction screen
 
@@ -160,10 +161,24 @@ confirm-discard-changes-dialog-confirm-button = Elvetés
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Weboldalon történt adatsértés
 breach-alert-text = A jelszavai kiszivárogtak vagy ellopták őket a weboldalról a bejelentkezési adatai legutóbbi frissítése óta. A fiókja védelme érdekében cserélje le jelszavát.
 breach-alert-link = Tudjon meg többet erről az adatsértésről.
 breach-alert-dismiss =
     .title = Figyelmeztetés bezárása
+about-logins-breach-alert-date = Ez az adatsértés ekkor történt: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Ugrás ide: { $hostname }
+about-logins-breach-alert-learn-more-link = További tudnivalók
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Sebezhető jelszó
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Ugrás ide: { $hostname }
+about-logins-vulnerable-alert-learn-more-link = További tudnivalók
 
 ## Error Messages
 
