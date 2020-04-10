@@ -287,6 +287,7 @@ shortcuts-no-commands = Aşağıdaki eklentilerin kısayolları yok:
 shortcuts-input =
     .placeholder = Bir kısayol girin
 shortcuts-browserAction = Eklentiyi etkinleştir
+shortcuts-browserAction2 = Araç çubuğu düğmesini etkinleştir
 shortcuts-pageAction = Sayfa eylemini etkinleştir
 shortcuts-sidebarAction = Kenar çubuğunu aç/kapat
 shortcuts-modifier-mac = Ctrl, Alt veya ⌘ kullanmalısınız
