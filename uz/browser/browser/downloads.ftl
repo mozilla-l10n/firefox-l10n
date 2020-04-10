@@ -7,12 +7,17 @@
 ## the Downloads Panel.
 
 downloads-window =
-    .title = Yuklab olishlar
+    .title = Yuklanmalar
 downloads-panel =
-    .aria-label = Yuklab olishlar
+    .aria-label = Yuklanmalar
 
 ##
 
+# The style attribute has the width of the Downloads Panel expressed using
+# a CSS unit. The longest labels that should fit are usually those of 
+# in-progress and blocked downloads.
+downloads-panel-list =
+    .style = width: 70ch
 downloads-cmd-pause =
     .label = Pauza
     .accesskey = P
@@ -45,6 +50,8 @@ downloads-cmd-show-description =
             [macos] Izlagichda koʻrsatish
            *[other] Saqlangan jildni ochish
         }
+downloads-cmd-show-downloads =
+    .label = Yuklanmalar jildini ochish
 downloads-cmd-retry =
     .tooltiptext = Qayta urinish
 downloads-cmd-retry-panel =
@@ -59,10 +66,10 @@ downloads-cmd-remove-from-history =
     .label = Tarixdan oʻchirish
     .accesskey = o
 downloads-cmd-clear-list =
-    .label = Oldindan ko‘rish panelini tozalash
+    .label = Oldindan koʻrish panelini tozalash
     .accesskey = O
 downloads-cmd-clear-downloads =
-    .label = Yuklab olishlarni tozalash
+    .label = Yuklanmalarni tozalash
     .accesskey = Y
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
@@ -70,16 +77,16 @@ downloads-cmd-unblock =
     .accesskey = r
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
-    .tooltiptext = Faylni o‘chirish
+    .tooltiptext = Faylni oʻchirish
 downloads-cmd-remove-file-panel =
-    .aria-label = Faylni o‘chirish
+    .aria-label = Faylni oʻchirish
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
-    .tooltiptext = Faylni o‘chirish yoki yuklab olishga ruxsat berish
+    .tooltiptext = Faylni oʻchirish yoki yuklab olishga ruxsat berish
 downloads-cmd-choose-unblock-panel =
-    .aria-label = Faylni o‘chirish yoki yuklab olishga ruxsat berish
+    .aria-label = Faylni oʻchirish yoki yuklab olishga ruxsat berish
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
@@ -90,7 +97,7 @@ downloads-cmd-choose-open-panel =
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
-    .value = Ko‘proq ma’lumotlarni ko‘rsatish
+    .value = Batafsil maʼlumotni koʻrsatish
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
@@ -98,7 +105,7 @@ downloads-open-file =
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
-    .value = Yuklab olishga yana urinib ko‘rish
+    .value = Yuklab olish uchun yana urinish
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
@@ -107,7 +114,7 @@ downloads-cancel-download =
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
-    .label = Barcha yuklab olishlarni ko‘rsatish
+    .label = Barcha yuklanmalarni koʻrsatish
     .accesskey = k
 downloads-clear-downloads-button =
     .label = Yuklab olishlarni tozalash

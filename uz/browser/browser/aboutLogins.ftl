@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Menyuni ochish
-# This menuitem is only visible on Windows
-menu-menuitem-import = Parollarni import qilish…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Boshqa brauzerdan import qilish
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Saralash:
 login-list-name-option = Nomi boʻyicha (A-Z)
 login-list-name-reverse-option = Nomi boʻyicha (Z-A)
 login-list-breached-option = Buzilgan saytlar
+about-logins-login-list-alerts-option = Ogohlantirishlar
 login-list-last-changed-option = Oxirgi oʻzgartirish boʻyicha
 login-list-last-used-option = Oxirgi foydalanish boʻyicha
 login-list-intro-title = Hech qanday login topilmadi
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Hisobingiz maʼlumotlarini kiriting
 login-list-item-subtitle-missing-username = (foydalanuvchi nomi yoʻq)
 about-logins-list-item-breach-icon =
     .title = Hujum qilingan sayt
+about-logins-list-item-vulnerable-password-icon =
+    .title = Juda kuchsiz parol
 
 ## Introduction screen
 
@@ -96,6 +97,30 @@ login-item-cancel-button = Bekor qilish
 login-item-time-changed = Oxirgi marta oʻzgartirilgan: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Yaratilgan: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Oxirgi marta foydalanilgan: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Saqlangan loginni tahrirlash uchun shaxsingizni tasdiqlang.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = saqlangan loginni tahrirlash
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Saqlangan parolni koʻrsatish uchun shaxsingizni tasdiqlang.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = saqlangan parolni koʻrsatish
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Saqlangan paroldan nusxa olish uchun shaxsingizni tasdiqlang.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = saqlangan paroldan nusxa olish
 
 ## Master Password notification
 
@@ -136,10 +161,25 @@ confirm-discard-changes-dialog-confirm-button = Rad etish
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Saytda “ maʼlumotlar sizishi”
 breach-alert-text = Login maʼlumotlari oxirgi marta yangilangandan keyin shu saytdan parollar olingan yoki oʻgʻirlangan. Hisobingizni himoya qilish uchun parolingizni oʻzgartiring.
 breach-alert-link = Maʼlumotlarning sizib chiqishi haqida batafsil.
 breach-alert-dismiss =
     .title = Bildirishnomani yopish
+about-logins-breach-alert-date = Maʼlumotlar sizishi yuz bergan vaqt: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } saytiga oʻtish
+about-logins-breach-alert-learn-more-link = Batafsil
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Juda kuchsiz parol
+about-logins-vulnerable-alert-text2 = Bu parol maʼlumotlar sizishi yuz bergan boshqa hisobda ishlatilgan. Undan yana foydalansangiz, shaxsiy maʼlumotlaringiz xavf ostida qolishi mumkin. Parolni oʻzgartiring.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } saytini ochish
+about-logins-vulnerable-alert-learn-more-link = Batafsil
 
 ## Error Messages
 
