@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Tindakan ini tidak bisa diurungkan.
 newtab-menu-section-tooltip =
     .title = Buka menu
     .aria-label = Buka menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Hapus
+    .aria-label = Hapus
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,7 +90,6 @@ newtab-menu-show-privacy-info = Sponsor kami & privasi Anda
 
 newtab-privacy-modal-button-done = Selesai
 newtab-privacy-modal-header = Privasi Anda penting.
-newtab-privacy-modal-paragraph = Selain menampilkan berbagai kisah menawan, kami juga menampilkan konten yang relevan, yang telah diperiksa dari sponsor tertentu, untuk Anda. Yakinlah, data penjelajahan Anda tidak pernah meninggalkan { -brand-product-name } Anda — kami dan sponsor kami tidak melihatnya.
 newtab-privacy-modal-paragraph-2 = Selain menampilkan berbagai kisah menawan, kami juga menampilkan konten yang relevan, yang telah diperiksa dari sponsor tertentu, untuk Anda. Yakinlah, <strong>data penjelajahan Anda tidak pernah meninggalkan { -brand-product-name } Anda</strong> — kami dan sponsor kami tidak melihatnya.
 newtab-privacy-modal-link = Pelajari cara privasi bekerja di tab baru
 
@@ -181,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Kami belum selesai me
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Topik Populer:
 newtab-pocket-more-recommendations = Rekomendasi Lainnya
-newtab-pocket-whats-pocket = Apa itu { -pocket-brand-name }?
 newtab-pocket-learn-more = Pelajari lebih lanjut
 newtab-pocket-cta-button = Dapatkan { -pocket-brand-name }
 newtab-pocket-cta-text = Simpan cerita yang anda sukai di { -pocket-brand-name }, dan dapatkan bacaan menarik untuk Anda.

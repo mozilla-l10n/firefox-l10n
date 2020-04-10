@@ -50,6 +50,8 @@ fingerprinter-tab-title = Pelacak Sidik
 fingerprinter-tab-content = Pelacak sidik mengumpulkan pengaturan dari browser dan komputer Anda untuk membuat profil tentang Anda. Dengan menggunakan pelacak sidik digital ini, mereka dapat melacak Anda di berbagai situs web. <a data-l10n-name="learn-more-link">Pelajari lebih lanjut</a>
 cryptominer-tab-title = Penambang Kripto
 cryptominer-tab-content = Penambang kripto menggunakan daya komputasi pada sistem Anda untuk menambang uang digital. Skrip penambangan kripto menguras baterai Anda, membuat Komputer anda lambat dan dapat menambah tagihan listrik Anda. <a data-l10n-name="learn-more-link">Pelajari lebih lanjut</a>
+protections-close-button =
+    .aria-label = Tutup
 mobile-app-title = Blokir pelacak iklan di lebih banyak perangkat
 mobile-app-card-content = Gunakan peramban seluler dengan perlindungan bawaan terhadap pelacakan iklan.
 mobile-app-links = Peramban { -brand-product-name } untuk <a data-l10n-name="android-mobile-inline-link">Android</a> dan <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -59,7 +61,6 @@ lockwise-header-content = { -lockwise-brand-name } menyimpan sandi di peramban A
 lockwise-header-content-logged-in = Simpan dan sinkronkan sandi dengan aman ke semua perangkat Anda.
 protection-report-view-logins-button = Lihat Info masuk
     .title = Buka Info masuk
-lockwise-no-logins-content = Dapatkan aplikasi <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> untuk membawa kata sandi Anda ke mana-mana.
 lockwise-mobile-app-title = Bawa kata sandi Anda ke mana saja
 lockwise-no-logins-card-content = Gunakan kata sandi yang disimpan dalam { -brand-short-name } di semua perangkat.
 lockwise-app-links = { -lockwise-brand-name } untuk <a data-l10n-name="lockwise-android-inline-link">Android</a> dan <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
