@@ -66,6 +66,14 @@ policy-HardwareAcceleration = false ise donanım ivmelenmesini kapat.
 policy-Homepage = Giriş sayfasını ayarla ve isteğe bağlı olarak kilitle.
 policy-InstallAddonsPermission = Belirli websitelerinin eklenti yüklemesine izin ver.
 policy-LegacyProfiles = Her kurulum için ayrı bir profil oluşturmayı zorunlu tutan özelliği devre dışı bırak
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Varsayılan eski SameSite çerez davranışı ayarını etkinleştir.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Belirtilen sitelerdeki çerezler için eski SameSite davranışına geri dön.
+
+##
+
 policy-LocalFileLinks = Belirli web sitelerinin yerel dosyalara bağlantı vermesine izin ver.
 policy-NetworkPrediction = Ağ tahminini (DNS prefetching) aç veya kapat.
 policy-NewTabPage = Yeni Sekme sayfasını etkinleştir veya devre dışı bırak.
