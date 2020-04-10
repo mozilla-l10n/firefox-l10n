@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Mode Penjelajahan Pribadi)
        *[other] { $title } - { -brand-full-name } (Mode Penjelajahan Pribadi)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Tampilkan informasi situs
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Ketik lebih sedikit, temukan lebih banyak: Pencarian { $engineName } langsung dari bilah alamat Anda.
-urlbar-search-tips-redirect = Mulai pencarian Anda di sini untuk melihat saran dari { $engineName } dan riwayat penjelajahan Anda.
 urlbar-search-tips-redirect-2 = Mulai pencarian Anda di bilah alat untuk melihat saran dari { $engineName } dan riwayat penjelajahan Anda.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Kelola Ekstensi…
 page-action-remove-from-urlbar =
     .label = Singkirkan dari Bilah Alamat
+page-action-remove-extension =
+    .label = Hapus Ekstensi
 
 ## Auto-hide Context Menu
 
