@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Dobrodošli v { -brand-full-name }
+account-settings = Nastavitve računa
+#   $accounts (Number) - the number of configured accounts
 setup-title = Izberite, kaj nastaviti
 about-title = O { -brand-full-name }u
 resources-title = Viri
@@ -10,6 +12,12 @@ release-notes =
     .title = O { -brand-full-name }u
 email-label = E-pošta
     .aria-label = Poveži z obstoječim e-poštnim računom
+calendar-label = Koledar
+    .aria-label = Ustvari nov koledar
+chat-label = Klepet
+    .aria-label = Poveži račun za klepet
+addressbook-label = Imenik
+    .aria-label = Ustvari nov imenik
 about-paragraph = Thunderbird je vodilni odprtokodni odjemalec za e-pošto in koledar, ki deluje v več okoljih ter je brezplačen tako za poslovno kot za osebno uporabo. Želimo, da ostane varen in postane še boljši. Donacija nam bo omogočala najeti razvijalce, plačati stroške infrastrukture in nadaljevati izboljševanje.
 explore-link = Raziščite možnosti
 support-link = Podpora
