@@ -148,6 +148,8 @@ onboarding-import-browser-settings-title = Importálja könyvjelzőit, jelszavai
 onboarding-import-browser-settings-text = Merüljön bele azonnal – hozza magával a Chrome webhelyeit és beállításait.
 onboarding-import-browser-settings-button = Chrome adatok importálása
 onboarding-personal-data-promise-title = Tervezett adatvédelem
+onboarding-personal-data-promise-text = A { -brand-product-name } tiszteletben tartja az adatait azáltal, hogy kevesebbet gyűjt be, megvédi azokat, és világosan közli, hogy hogyan használjuk fel.
+onboarding-personal-data-promise-button = Olvassa el az ígéretünket
 
 ## Message strings belonging to the Return to AMO flow
 

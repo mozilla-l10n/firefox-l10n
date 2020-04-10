@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Ha hamis, akkor kikapcsolja a hardveres gyorsítá
 policy-Homepage = A kezdőlap beállítása, és választható módon, annak zárolása.
 policy-InstallAddonsPermission = Bizonyos weboldalak telepíthetnek kiegészítőket.
 policy-LegacyProfiles = A funkció letiltása, amely kikényszeríti, hogy minden telepítés külön profilt használjon
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Az alapértelmezett, örökölt SameSite süti viselkedési beállítás engedélyezése.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = A sütik örökölt SameSite viselkedésének visszaállítása a megadott oldalaknál.
+
+##
+
 policy-LocalFileLinks = Lehetővé teszi, hogy bizonyos webhelyek helyi fájlokra hivatkozzanak.
 policy-NetworkPrediction = Hálózati előrejelzés engedélyezése vagy letiltása (DNS előhívás).
 policy-NewTabPage = Az Új lap oldal engedélyezése vagy letiltása.
