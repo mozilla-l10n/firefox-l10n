@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Om inaktiv, stäng av hårdvaruacceleration.
 policy-Homepage = Ställ in och eventuellt lås startsidan.
 policy-InstallAddonsPermission = Tillåt vissa webbplatser att installera tillägg.
 policy-LegacyProfiles = Inaktivera funktionen som framtvingar en separat profil för varje installation
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Aktivera standardinställningen för föråldrat SameSite-kakbeteende.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Återgå till föråldrat SameSite-kakbeteende på specifika webbplatser.
+
+##
+
 policy-LocalFileLinks = Tillåt specifika webbplatser att länka till lokala filer.
 policy-NetworkPrediction = Aktivera eller inaktivera nätverksprediktning (DNS-prefetch).
 policy-NewTabPage = Aktivera eller inaktivera sidan Ny flik.
