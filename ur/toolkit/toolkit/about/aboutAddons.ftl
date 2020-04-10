@@ -102,6 +102,9 @@ detail-private-required-label = نجی ونڈوز تک رسائی کی ضرور�
 detail-private-browsing-on =
     .label = اجازت دیں
     .tooltiptext = نجی براؤزنگ میں فاعال بنایں
+detail-private-browsing-off =
+    .label = اجازت مت دیں
+    .tooltiptext = نجی براؤزنگ میں غیر فعال کریں
 detail-home =
     .label = ابتدائی صفحہ
 detail-home-value =
@@ -264,6 +267,7 @@ addon-open-about-debugging = ایڈز آن ازالہ کرے
 shortcuts-no-addons = آپ کے پاس کوئی ایکسٹینشن فعال نہیں ہے۔
 shortcuts-no-commands = مندرجہ ذیل ایکسٹینشنز میں شارٹ کٹس نہیں ہیں۔
 shortcuts-browserAction = ایکسٹینشن فاعال کریں
+shortcuts-browserAction2 = ٹول بار کے بٹن کو فعال بنائیں
 shortcuts-modifier-other = Ctrl یا Alt شامل کریں
 shortcuts-invalid = ناجائز مجموعہ
 shortcuts-letter = ایک خط ٹائپ کریں
@@ -279,10 +283,15 @@ go-back-button =
 
 discopane-notice-learn-more = مزید سیکھیں
 privacy-policy = رازداری پالیسی
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = صارفین: { $dailyUsers }
 install-theme-button = تھیم انسٹال کریں
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = بندوبست کریں
+find-more-addons = مزید ایڈ-اونز تلاش کریں
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -331,6 +340,7 @@ addon-detail-rating-label = شرح کاری
 ## Pending uninstall message bar
 
 pending-uninstall-undo-button = کالعدم کریں
+addon-detail-updates-label = خودکار تازہ کاریوں کی اجازت دیں
 addon-detail-updates-radio-default = طے شدہ
 addon-detail-updates-radio-on = آن کریں
 addon-detail-updates-radio-off = بند کریں
@@ -346,9 +356,16 @@ addon-badge-recommended =
 available-updates-heading = دستیاب تازہ کاریاں
 recent-updates-heading = حالیہ تازہ کاریاں
 release-notes-loading = لوڈ ہو رہا ہے…
+recommended-extensions-heading = تجویز شدہ ایکسٹنشن
+recommended-themes-heading = تجویز شدہ تھیمز
 
 ## Page headings
 
+extension-heading = اپنی ایکسٹینشنز منظم کریں
+theme-heading = اپنی تھیمز منظم کریں
+updates-heading = اپنی تازہ کاریوں کو منظم کریں
+extension-heading-search-label = مزید ایکسٹینشنز تلاش کریں
+default-heading-search-label = مزید ایڈ-اون کے تلاش کریں
 addons-heading-search-input =
     .placeholder = addons.mozilla.org تلاش کریں
 addon-page-options-button =
