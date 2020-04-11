@@ -707,6 +707,8 @@ forms-master-pw-fips-desc = پاس ورڈ تبدیلی ناکام
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = ماسٹر پاس ورڈ بنانے کے لئے اپنی شناخت کی تصدیق کریں۔
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
@@ -716,6 +718,17 @@ master-password-os-auth-dialog-caption = { -brand-full-name }
 ## Privacy Section - History
 
 history-header = سابقات
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name }
+    .accesskey = 	w
 history-remember-option-all =
     .label = سابقات یاد رکھے
 history-remember-option-never =
@@ -912,6 +925,9 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = استثنیات…
     .accesskey = E
+permissions-a11y-privacy-checkbox =
+    .label = قابل رسائی خدمات کو اپنے براؤزر تک رسائی سے روکیں
+    .accesskey = a
 permissions-a11y-privacy-link = مزید سیکھیں
 
 ## Privacy Section - Data Collection

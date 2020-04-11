@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "عناصر چیک کریں">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY inspectA11YContextMenu.label     "رسائی کی خصوصیات کا معائنہ کریں">
+<!ENTITY inspectA11YContextMenu.label     "قابل رسائی کی خصوصیات کا معائنہ کریں">
 
 <!ENTITY fileMenu.label         "مسل">
 <!ENTITY fileMenu.accesskey       "F">
