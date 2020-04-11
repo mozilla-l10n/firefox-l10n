@@ -289,6 +289,7 @@ shortcuts-no-commands = Los siguientes complementos no tienen atajos de teclado:
 shortcuts-input =
     .placeholder = Escriba un atajo
 shortcuts-browserAction = Activar el complemento
+shortcuts-browserAction2 = Activar botón de barra de herramientas
 shortcuts-pageAction = Activar Acción de la página
 shortcuts-sidebarAction = Alternar la barra lateral
 shortcuts-modifier-mac = Incluir Ctrl, Alt o ⌘
