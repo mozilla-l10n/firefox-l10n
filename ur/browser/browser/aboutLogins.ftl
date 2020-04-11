@@ -60,6 +60,8 @@ login-list-item-subtitle-new-login = لاگ ان کی سندیں درج کریں
 login-list-item-subtitle-missing-username = (صارف نام کا نہیں)
 about-logins-list-item-breach-icon =
     .title = خلاف ورزی کرنے والی ویب سائٹیں
+about-logins-list-item-vulnerable-password-icon =
+    .title = کمزور پاسورڈ
 
 ## Introduction screen
 
@@ -161,6 +163,7 @@ about-logins-breach-alert-learn-more-link = مزید سیکھیں
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = کمزور پاسورڈ
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = { $hostname } پر جائیں
