@@ -35,7 +35,7 @@ features-debugger-desc = 프레임워크를 지원하는 강력한 JavaScript �
 features-network-title = 네트워크
 features-network-desc = 웹 사이트를 느리게하거나 방해하는 네트워크 요청을 모니터링하세요. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = 저장소
-features-storage-desc = 캐시, 쿠키, 데이터베이스 및 세션 데이터를 추가, 수정 그리고 제거합니다. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-storage-desc = 캐시, 쿠키, 데이터베이스 및 세션 데이터를 추가, 수정 및 제거합니다. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = 반응형 디자인 모드
 features-responsive-desc = 브라우저의 에뮬레이터된 기기에서 사이트를 테스트하세요. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = 시각적 편집 기능
