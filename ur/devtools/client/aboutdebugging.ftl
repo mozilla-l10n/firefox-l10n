@@ -87,6 +87,9 @@ about-debugging-setup-usb-status-updating = تازہ کاری کر رہا ہے�
 about-debugging-setup-usb-step-enable-dev-menu2 = اپنے Android آلہ پر ڈیولپر مینو کو فعال بنائیں۔
 # USB section step by step guide
 about-debugging-setup-usb-step-plug-device = Android آلہ کو اپنے کمپیوٹر سے مربوط کریں۔
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = نیٹ ورک کا مقام
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = شامل کریں
