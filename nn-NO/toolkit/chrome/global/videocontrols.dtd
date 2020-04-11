@@ -38,7 +38,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "Ingen video med eit støtta format eller MIME-type funne.">
 <!ENTITY error.generic "Videoavspeling avbroten på grunn av ukjend feil.">
 
-<!ENTITY status.pictureInPicture "Denne videoen vert spela av i Picture-in-Picture-modus.">
+<!ENTITY status.pictureInPicture "Denne videoen vert spela av i bilde-i-bilde modus.">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
