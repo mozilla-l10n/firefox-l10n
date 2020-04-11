@@ -761,6 +761,9 @@ history-clear-button =
 sitedata-header = کوکیز اور سائٹ کے کواِئف
 sitedata-total-size-calculating = سائٹ کے ڈیٹا اور کیشے کے ماپ کا حساب لگا رہے ہیں…
 sitedata-learn-more = مزید سیکھیں
+sitedata-delete-on-close =
+    .label = { -brand-short-name } بند ہونے پر سائٹ کاڈیٹااور کوکیز حذف کریں
+    .accesskey = c
 sitedata-allow-cookies-option =
     .label = کوکیز اور سائٹ کا ڈیٹا قبول کریں
     .accesskey = A
@@ -809,6 +812,7 @@ addressbar-suggestions-settings = تلاش کے انجن کی تجاویز کے 
 ## Privacy Section - Content Blocking
 
 content-blocking-header = مواد روکنا
+content-blocking-enhanced-tracking-protection = بہتر سراغ کاری تحفظ
 content-blocking-learn-more = مزید سیکھیں
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
@@ -841,8 +845,10 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = تحفظ اور کارکردگی کیلئے متوازن۔ صفحات عام طور پر لوڈ ہوں گے۔
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
+content-blocking-cross-site-tracking-cookies = کراس-سائٹ ٹریکنگ کوکیز
 content-blocking-social-media-trackers = سوشل میڈیا ٹریکرز
 content-blocking-all-cookies = تمام کوکیز
+content-blocking-unvisited-cookies = نا دیکھی گئی سائٹس کی کوکیز
 content-blocking-all-windows-trackers = تمام ونڈوز میں معلوم شدہ ٹریکرز
 content-blocking-all-third-party-cookies = تمام تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
@@ -881,6 +887,9 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = مستثنیات کو منظم کریں…
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
