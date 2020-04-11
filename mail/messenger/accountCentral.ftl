@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Witamy w programie { -brand-full-name }
+account-settings = Ustawienia konta
+#   $accounts (Number) - the number of configured accounts
 setup-title = Wybierz, co skonfigurować
 about-title = O programie { -brand-full-name }
 resources-title = Więcej informacji
