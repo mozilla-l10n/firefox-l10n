@@ -176,7 +176,7 @@ about-logins-breach-alert-learn-more-link = Więcej informacji
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Potencjalnie niebezpieczne hasło
-about-logins-vulnerable-alert-text = To hasło wyciekło lub zostało wykradzione z innej firmy. Używanie tych samych danych logowania na różnych witrynach naraża wszystkie konta użytkownika na ryzyko. Aby zwiększyć swoje bezpieczeństwo w Internecie, zmień to hasło.
+about-logins-vulnerable-alert-text2 = To hasło jest używane na innym koncie, które prawdopodobnie znalazło się w bazie wykradzionych haseł. Używanie tych samych danych logowania na różnych witrynach naraża wszystkie konta użytkownika na ryzyko. Zmień to hasło.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Otwórz witrynę { $hostname }
