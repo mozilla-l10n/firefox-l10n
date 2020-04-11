@@ -54,17 +54,16 @@ protections-close-button =
     .aria-label = 닫기
 mobile-app-title = 더 많은 기기에서 광고 추적기 차단
 mobile-app-card-content = 광고 추적에 대한 보호 기능이 내장된 모바일 브라우저를 사용하세요.
-mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> 및 <a data-l10n-name="ios-mobile-inline-link">iOS</a> 용 { -brand-product-name } 브라우저
+mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> 및 <a data-l10n-name="ios-mobile-inline-link">iOS</a>용 { -brand-product-name } 브라우저
 lockwise-title = 비밀번호를 다시 잊지 마세요
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name }은 비밀번호를 브라우저에 안전하게 저장합니다.
 lockwise-header-content-logged-in = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
 protection-report-view-logins-button = 로그인 보기
     .title = 저장된 로그인으로 이동
-lockwise-no-logins-content = <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> 앱을 통해 어디서나 비밀번호를 사용하세요.
 lockwise-mobile-app-title = 어디에서나 비밀번호를 사용하세요
 lockwise-no-logins-card-content = 모든 기기에서 { -brand-short-name }에 저장된 비밀번호를 사용하세요.
-lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 및 <a data-l10n-name="lockwise-ios-inline-link">iOS</a> 용 { -lockwise-brand-name }
+lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 및 <a data-l10n-name="lockwise-ios-inline-link">iOS</a>용 { -lockwise-brand-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
