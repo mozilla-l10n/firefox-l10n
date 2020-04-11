@@ -37,6 +37,16 @@ menu-menuitem-iphone-app = iPhone və iPad üçün { -lockwise-brand-short-name 
 
 ## Login List
 
+login-list =
+    .aria-label = Axtarış sorğusuna uyğun hesablar
+login-list-count =
+    { $count ->
+        [one] { $count } hesab
+       *[other] { $count } hesab
+    }
+login-list-sort-label-text = Sırala:
+login-list-name-option = Ad (A-Z)
+login-list-name-reverse-option = Ad (Z-A)
 
 ## Introduction screen
 
