@@ -287,6 +287,7 @@ shortcuts-no-commands = Seuraavilla laajennuksilla ei ole pikanäppäimiä:
 shortcuts-input =
     .placeholder = Kirjoita näppäinyhdistelmä
 shortcuts-browserAction = Aktivoi laajennus
+shortcuts-browserAction2 = Aktivoi työkalupalkin painike
 shortcuts-pageAction = Aktivoi sivutoiminto
 shortcuts-sidebarAction = Näytä/piilota sivupaneeli
 shortcuts-modifier-mac = Paina Ctrl-, Alt- tai ⌘-näppäintä
