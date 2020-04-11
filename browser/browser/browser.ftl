@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Zasebno brskanje)
        *[other] { $title } - { -brand-full-name } (Zasebno brskanje)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Poglejte podatke o strani
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tipkajte manj, najdite več: Iščite z iskalnikom { $engineName } iz vrstice z naslovom.
-urlbar-search-tips-redirect = Začnite z iskanjem ter spremljajte predloge iskalnika { $engineName } in zgodovine vašega brskanja.
 urlbar-search-tips-redirect-2 = Začnite z iskanjem v naslovni vrstici ter spremljajte predloge iskalnika { $engineName } in zgodovine vašega brskanja.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Upravljaj razširitev ...
 page-action-remove-from-urlbar =
     .label = Odstrani iz naslovne vrstice
+page-action-remove-extension =
+    .label = Odstrani razširitev
 
 ## Auto-hide Context Menu
 

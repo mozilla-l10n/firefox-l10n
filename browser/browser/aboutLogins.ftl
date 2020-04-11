@@ -168,6 +168,7 @@ breach-alert-text = Gesla so bila ogrožena ali ukradena s te spletne strani, od
 breach-alert-link = Več o tej kraji.
 breach-alert-dismiss =
     .title = Zapri to opozorilo
+about-logins-breach-alert-date = Do kraje podatkov je prišlo dne { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Pojdi na { $hostname }
