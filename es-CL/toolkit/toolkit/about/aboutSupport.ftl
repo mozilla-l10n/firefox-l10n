@@ -291,6 +291,10 @@ sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = complemento de medios
 sandbox-proc-type-data-decoder = decodificador de datos
 startup-cache-title = Caché de inicio
+startup-cache-disk-cache-path = Ubicación de la caché en disco
+startup-cache-ignore-disk-cache = Ignorar caché en disco
+startup-cache-found-disk-cache-on-init = Se encontró caché en disco en Init
+startup-cache-wrote-to-disk-cache = Se escribió a la caché en disco
 launcher-process-status-0 = Activado
 launcher-process-status-1 = Desactivado por fallo
 launcher-process-status-2 = Desactivado forzosamente
@@ -314,6 +318,7 @@ touch-enabled = entrada táctil activada
 drag-enabled = arrastre de barra de desplazamiento activado
 keyboard-enabled = teclado activado
 autoscroll-enabled = desplazamiento automático activado
+zooming-enabled = aumento con pellizco suave habilitado
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
