@@ -57,35 +57,93 @@ about-logins-login-list-empty-search-description = Axtarışınıza uyğun nəti
 login-list-item-title-new-login = Yeni hesab
 login-list-item-subtitle-new-login = Daxil olma məlumatlarınızı daxil edin
 login-list-item-subtitle-missing-username = (istifadəçi adı yoxdur)
+about-logins-list-item-vulnerable-password-icon =
+    .title = Təhlükəyə açıq parol
 
 ## Introduction screen
 
 
 ## Login
 
+login-item-new-login-title = Yeni hesab yarat
+login-item-edit-button = Düzəlt
+about-logins-login-item-remove-button = Sil
+login-item-origin-label = Sayt ünvanı
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = İstifadəçi adı
+about-logins-login-item-username =
+    .placeholder = (istifadəçi adı yoxdur)
+login-item-copy-username-button-text = Köçür
+login-item-copied-username-button-text = Köçürüldü!
+login-item-password-label = Parol
+login-item-password-reveal-checkbox =
+    .aria-label = Parolu göstər
+login-item-copy-password-button-text = Köçür
+login-item-copied-password-button-text = Köçürüldü!
+login-item-save-changes-button = Dəyişiklikləri yadda saxla
+login-item-save-new-button = Saxla
+login-item-cancel-button = Ləğv et
+login-item-time-changed = Son dəyişiklik: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Yaradılıb: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Son işlədilmə: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Saxlanılmış hesabı düzəltmək üçün kimliyinizi təsdiqləyin.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = saxlanılmış hesabı düzəlt
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Saxlanılmış parolu görmək üçün kimliyinizi təsdiqləyin.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = saxlanılmış parolu göstər
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Saxlanılmış parolu köçürmək üçün kimliyinizi təsdiqləyin.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = saxlanılmış parolu köçür
 
 ## Master Password notification
 
+master-password-notification-message = Saxlanılmış hesab və parolları görmək üçün lütfən ana parolunuzu daxil edin
+master-password-reload-button =
+    .label = Daxil ol
+    .accesskey = l
 
 ## Password Sync notification
 
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Ləğv et
+confirmation-dialog-dismiss-button =
+    .title = Ləğv et
+about-logins-confirm-remove-dialog-title = Bu hesab silinsin?
+confirm-delete-dialog-message = Bu əməliyyat geri qaytrıla bilməz.
+about-logins-confirm-remove-dialog-confirm-button = Sil
+confirm-discard-changes-dialog-title = Saxlanılmamış dəyişikliklər ləğv edilsin?
+confirm-discard-changes-dialog-message = Bütün saxlanılmamış dəyişikliklər itiriləcək.
+confirm-discard-changes-dialog-confirm-button = Ləğv et
 
 ## Breach Alert notification
 
+breach-alert-dismiss =
+    .title = Bu xəbərdarlığı qapat
+about-logins-breach-alert-learn-more-link = Ətraflı öyrən
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Təhlükəyə açıq parol
+about-logins-vulnerable-alert-learn-more-link = Ətraflı öyrən
 
 ## Error Messages
 
