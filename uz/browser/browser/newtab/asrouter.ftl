@@ -163,9 +163,15 @@ cfr-doorhanger-sync-bookmarks-body = Xatchoʻp, parol va tarix kabilardan istalg
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-ok-button = Varaqlarni yuborishni sinang
+    .accesskey = V
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Bu PDF faylni xavfsiz ulashish
+cfr-doorhanger-firefox-send-body = Kuchli shifrlash va foydalangandan keyin yoʻqoladigan havoladan foydalanib, shaxsiy maʼlumotlaringizni begona koʻzlardan asrang.
+cfr-doorhanger-firefox-send-ok-button = { -send-brand-name }ni ishlatib koʻring
+    .accesskey = t
 
 ## Social Tracking Protection
 
