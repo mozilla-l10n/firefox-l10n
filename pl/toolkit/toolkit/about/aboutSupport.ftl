@@ -324,6 +324,7 @@ touch-enabled = dotyk
 drag-enabled = pasek przewijania
 keyboard-enabled = klawiatura
 autoscroll-enabled = automatyczne przewijanie
+zooming-enabled = płynne powiększanie gestem
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
