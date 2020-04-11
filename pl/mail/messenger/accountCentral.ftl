@@ -5,7 +5,11 @@
 account-central-title = Witamy w programie { -brand-full-name }
 account-settings = Ustawienia konta
 #   $accounts (Number) - the number of configured accounts
-setup-title = Wybierz, co skonfigurować
+setup-title =
+    { $accounts ->
+        [0] Wybierz, co skonfigurować
+       *[other] Skonfiguruj następne konto
+    }
 about-title = O programie { -brand-full-name }
 resources-title = Więcej informacji
 release-notes =
@@ -42,3 +46,10 @@ explore-link = Odkrywaj możliwości
 support-link = Pomoc
 involved-link = Dołącz do nas
 developer-link = Dokumentacja dla programistów
+read = Przeczytaj wiadomości
+compose = Napisz nową wiadomość
+search = Wyszukaj wiadomości
+filter = Zarządzaj filtrami wiadomości
+nntp-subscription = Subskrybuj grupę dyskusyjną
+rss-subscription = Subskrybuj aktualności
+e2e = Szyfrowanie „end-to-end”
