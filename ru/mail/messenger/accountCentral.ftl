@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Добро пожаловать в { -brand-full-name }
+account-settings = Параметры учётной записи
+#   $accounts (Number) - the number of configured accounts
 setup-title = Выберите, что нужно настроить
 about-title = О { -brand-full-name }
 resources-title = Ресурсы
@@ -20,8 +22,10 @@ addressbook-label = Адресная книга
     .aria-label = Создать новую адресную книгу
 feeds-label = Ленты новостей
     .aria-label = Подписаться на ленты новостей
+feeds-description = { -brand-short-name } позволяет вам подключаться к лентам новостей RSS/Atom для получения новостей и обновлений отовсюду сразу.
 newsgroups-label = Группы новостей
     .aria-label = Подключиться к группе новостей
+newsgroups-description = { -brand-short-name } позволяет вам подключаться ко всем нужным группам новостей.
 import-title = Импорт из другой программы
 import-paragraph = { -brand-short-name } может импортировать почтовые сообщения, содержимое адресных книг, подписки на ленты новостей, настройки и/или фильтры из других почтовых программ и распространённых форматов адресных книг.
 import-label = Импорт
@@ -33,3 +37,10 @@ explore-link = Узнать о возможностях
 support-link = Поддержка
 involved-link = Принять участие
 developer-link = Документация для разработчиков
+read = Чтение сообщений
+compose = Создание новых сообщений
+search = Поиск сообщений
+filter = Управление фильтрами сообщений
+nntp-subscription = Управление подписками на группы новостей
+rss-subscription = Управление подписками на ленты новостей
+e2e = Сквозное шифрование
