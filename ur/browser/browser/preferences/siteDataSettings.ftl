@@ -47,3 +47,4 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ہٹائیں
 site-data-removing-header = کوکیز اور سائٹ کوائف ہٹا رہے ہیں
+site-data-removing-table = درج ذیل ویب سائٹوں کیلئے کوکیز اور سائٹ کا ڈیٹا ختم کردیا جائے گا

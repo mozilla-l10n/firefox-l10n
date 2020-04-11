@@ -771,6 +771,9 @@ sitedata-clear =
 sitedata-settings =
     .label = کوائف… منظم کریں
     .accesskey = M
+sitedata-cookies-permissions =
+    .label = اجازتوں کو منظم کریں…
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
@@ -820,6 +823,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-standard-desc = تحفظ اور کارکردگی کیلئے متوازن۔ صفحات عام طور پر لوڈ ہوں گے۔
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
 content-blocking-social-media-trackers = سوشل میڈیا ٹریکرز
 content-blocking-all-cookies = تمام کوکیز

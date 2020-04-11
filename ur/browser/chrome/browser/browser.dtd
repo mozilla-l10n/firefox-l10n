@@ -283,6 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "سابقات دکھائیں">
 
+
 <!ENTITY searchItem.title             "تلاش">
 
 <!-- Toolbar items -->
@@ -435,6 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "اپنے ٹیب کو دوسرے آلات سے یہاں سے دیکھنا پسند کریں گے؟">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "ہمہ وقت ساز ترجیحات کھولیں">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ٹیبیں کی فہرست دیکھنے کے لئے اپنے دیگر آلات سے سائن ان کریں۔">
+<!ENTITY appMenuRemoteTabs.welcome.label "دیگر آلات سے ٹیبیں کی فہرست دیکھنیں۔">
 <!ENTITY appMenuRemoteTabs.unverified.label "آپ کے اکائونٹ کو توژیکاری کی ظرورت ہے۔">
 <!ENTITY appMenuRemoteTabs.signin.label "ہم سازی کے لئے سائن ان کریں">
 <!ENTITY appMenuRemoteTabs.signintosync.label "&syncBrand.shortName.label;… میں سائن ان کریں">
@@ -881,6 +883,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "اگر آپ کو پریشانی ہو رہی ہے تو تحفظات کو بند کردیں:">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "فارم">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "ادائیگیاں">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "تبصرہ">
@@ -943,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookiesView.label "کوکیز اور سائٹ کے کواِئف">
 
 
+<!ENTITY contentBlocking.manageSettings2.label "تحفظ کی سیٹنگز کو منظم کریں">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "سوشل میڈیا ٹریکرز">
