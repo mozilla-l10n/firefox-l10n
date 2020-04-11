@@ -219,6 +219,7 @@ gpu-device-id = آلہ ID
 gpu-subsys-id = سبسیس کی شناخت
 gpu-drivers = ڈرائیور
 gpu-ram = RAM
+gpu-driver-vendor = ڈرائیور فروش
 gpu-driver-version = ڈرائیور ورژن
 gpu-driver-date = ڈرائیور تاریخ
 gpu-active = متحرک
@@ -264,6 +265,9 @@ effective-content-sandbox-level = مؤثر مواد عمل سینڈبکس سطح
 sandbox-proc-type-content = مواد
 sandbox-proc-type-file = مسل کے مشمول
 sandbox-proc-type-media-plugin = میڈیا پلگ ان
+startup-cache-disk-cache-path = ڈسک کیشے کا راستہ
+startup-cache-ignore-disk-cache = ڈسک کیشے کو نظرانداز کریں
+startup-cache-wrote-to-disk-cache = ڈسک کیشے پر لکھ دیا
 launcher-process-status-0 = فعال
 launcher-process-status-unknown = نامعلوم اسٹیٹس
 # Variables
