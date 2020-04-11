@@ -20,6 +20,8 @@ open-location = تلاش کریں یا پتہ درج کریں
 share = شیئر کریں
 close-window = ونڈو بند کریں
 open-sidebar = بغلی بار
+# This string describes shortcuts for search.
+search-popover = تیز راہ تلاش کریں
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = میں تلاش کریں:

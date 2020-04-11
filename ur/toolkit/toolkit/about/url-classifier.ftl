@@ -5,6 +5,7 @@
 url-classifier-title = URL Classifier معلومات
 url-classifier-search-title = تلاش کریں
 url-classifier-search-result-title = نتائج
+url-classifier-search-result-uri = URI: { $uri }
 url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = غلط یو آر ایل
 url-classifier-search-error-no-features = خصوصیات منتخب نہیں کی گئیں
