@@ -32,8 +32,8 @@ menu-menuitem-preferences =
        *[other] 설정
     }
 about-logins-menu-menuitem-help = 도움말
-menu-menuitem-android-app = Android 용 { -lockwise-brand-short-name }
-menu-menuitem-iphone-app = iPhone과 iPad 용 { -lockwise-brand-short-name }
+menu-menuitem-android-app = Android용 { -lockwise-brand-short-name }
+menu-menuitem-iphone-app = iPhone과 iPad용 { -lockwise-brand-short-name }
 
 ## Login List
 

@@ -120,7 +120,7 @@ onboarding-firefox-send-title = 공유 파일 보호
 onboarding-firefox-send-text2 = 파일을 { -send-brand-name }에 업로드하여 종단 간 암호화와 자동으로 만료되는 링크로 공유하세요.
 onboarding-firefox-send-button = { -send-brand-name }를 사용해보세요
 onboarding-mobile-phone-title = 휴대폰에서 { -brand-product-name } 받기
-onboarding-mobile-phone-text = iOS 또는 Android 용 { -brand-product-name }를 다운로드하고 기기간에 데이터를 동기화합니다.
+onboarding-mobile-phone-text = iOS 또는 Android용 { -brand-product-name }를 다운로드하고 기기간에 데이터를 동기화합니다.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = 모바일 브라우저 다운로드
