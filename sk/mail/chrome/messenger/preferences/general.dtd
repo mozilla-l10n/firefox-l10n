@@ -42,3 +42,5 @@
 <!ENTITY addSearchEngine.accesskey        "r">
 <!ENTITY removeSearchEngine.label         "Odstrániť">
 <!ENTITY removeSearchEngine.accesskey     "i">
+
+<!ENTITY minimizeToTray.accesskey         "m">

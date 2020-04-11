@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (vzdialené priečinky)">
 <!ENTITY pop3Long.label                  "POP3 (uchováva poštu na disku počítača)">
 
+<!ENTITY manualConfigTable.summary       "Nastavenia servera">
 <!ENTITY incoming.label                  "Prijímanie:">
 <!ENTITY incomingColumn.label            "Prijímanie">
 <!ENTITY outgoing.label                  "Odosielanie:">
