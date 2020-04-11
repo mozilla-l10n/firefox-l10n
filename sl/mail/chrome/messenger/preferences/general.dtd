@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "D">
 <!ENTITY removeSearchEngine.label         "Odstrani">
 <!ENTITY removeSearchEngine.accesskey     "s">
+
+<!ENTITY minimizeToTray.label             "Ob pomanjšanju premakni &brandShortName; v pladenj opravilne vrstice">
+<!ENTITY minimizeToTray.accesskey         "m">
