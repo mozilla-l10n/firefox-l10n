@@ -47,6 +47,16 @@ login-list-count =
 login-list-sort-label-text = Sırala:
 login-list-name-option = Ad (A-Z)
 login-list-name-reverse-option = Ad (Z-A)
+about-logins-login-list-alerts-option = Xəbərdarlıqlar
+login-list-last-changed-option = Son Dəyişiklik
+login-list-last-used-option = Son istifadə edilmə
+login-list-intro-title = Heç bir daxil olma tapılmadı
+login-list-intro-description = Parolu { -brand-product-name } tətbiqində saxladığınızda burada göstəriləcək.
+about-logins-login-list-empty-search-title = Heç bir daxil olma tapılmadı
+about-logins-login-list-empty-search-description = Axtarışınıza uyğun nəticə yoxdur.
+login-list-item-title-new-login = Yeni hesab
+login-list-item-subtitle-new-login = Daxil olma məlumatlarınızı daxil edin
+login-list-item-subtitle-missing-username = (istifadəçi adı yoxdur)
 
 ## Introduction screen
 
