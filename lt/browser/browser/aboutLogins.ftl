@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Atverti meniu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importuoti slaptažodžius…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importuoti iš kitos naršyklės…
 menu-menuitem-preferences =
@@ -51,6 +49,7 @@ login-list-sort-label-text = Rikiuoti pagal:
 login-list-name-option = Pavadinimas (A-Z)
 login-list-name-reverse-option = Pavadinimas (Z-A)
 login-list-breached-option = Pažeistos svetainės
+about-logins-login-list-alerts-option = Įspėjimai
 login-list-last-changed-option = Atnaujinimo laikas
 login-list-last-used-option = Paskiausias naudojimo laikas
 login-list-intro-title = Prisijungimų nerasta
@@ -62,6 +61,8 @@ login-list-item-subtitle-new-login = Įveskite prisijungimo duomenis
 login-list-item-subtitle-missing-username = (nėra naudotojo vardo)
 about-logins-list-item-breach-icon =
     .title = Pažeista svetainė
+about-logins-list-item-vulnerable-password-icon =
+    .title = Pažeidžiami slaptažodžiai
 
 ## Introduction screen
 
@@ -106,6 +107,13 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Norėdami redaguoti įrašytą prisijungimą, patvirtinkite savo tapatybę.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = redaguoti įrašytą prisijungimą
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Norėdami pamatyti įrašytą slaptažodį, patvirtinkite savo tapatybę.
 
 ## Master Password notification
 
@@ -150,6 +158,9 @@ breach-alert-text = Po jūsų paskutinio prisijungimo duomenų atnaujinimo, iš 
 breach-alert-link = Sužinokite apie šį pažeidimą daugiau.
 breach-alert-dismiss =
     .title = Užverti šį perspėjimą
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
