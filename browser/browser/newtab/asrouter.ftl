@@ -30,6 +30,9 @@ cfr-doorhanger-extension-author = { $name } દ્વારા
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ભલામણ
+cfr-doorhanger-extension-notification2 = ભલામણ
+    .tooltiptext = ભલામણ કરેલ એક્સેટેંશન
+    .a11y-announcement = ભલામણ કરેલ એક્સેટેંશન ઉપલબ્ધ છે
 
 ## Add-on statistics
 ## These strings are used to display the total number of
