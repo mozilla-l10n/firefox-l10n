@@ -292,6 +292,11 @@ sandbox-proc-type-content = turinys
 sandbox-proc-type-file = failo turinys
 sandbox-proc-type-media-plugin = medijos įskiepis
 sandbox-proc-type-data-decoder = duomenų iškoduotuvas
+startup-cache-title = Paleisties podėlis
+startup-cache-disk-cache-path = Disko podėlio kelias
+startup-cache-ignore-disk-cache = Ignoruoti disko podėlį
+startup-cache-found-disk-cache-on-init = Rastas disko podėlis įkėlimo metu
+startup-cache-wrote-to-disk-cache = Įrašyta į disko podėlį
 launcher-process-status-0 = Įjungta
 launcher-process-status-1 = Išjungta dėl gedimo
 launcher-process-status-2 = Išjungta priverstinai
@@ -315,6 +320,7 @@ touch-enabled = įjungta įvestis lietimu
 drag-enabled = slankjuostės tempimas įjungtas
 keyboard-enabled = klaviatūra įjungta
 autoscroll-enabled = automatinis slinkimas įjungtas
+zooming-enabled = įjungtas tolygus artinimas suimant
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
