@@ -149,6 +149,7 @@ cfr-whatsnew-fingerprinter-counter-header =
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } بہت سے فنگر پرنٹوں کو روکتا ہے جو آپ کی اشتہاری پروفائل بنانے کے لیے چپکے سے آپ کے آلے اور اعمال کے بارے میں معلومات اکٹھا کرتے ہیں۔
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = فنگر پرنٹرز
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } بہت سے فنگر پرنٹوں کو روکتا ہے جو آپ کی اشتہاری پروفائل بنانے کے لیے چپکے سے آپ کے آلے اور اعمال کے بارے میں معلومات اکٹھا کرتے ہیں۔
 
 ## Bookmark Sync
 

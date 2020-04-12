@@ -12,6 +12,7 @@ heading = اپنے  { -brand-short-name } پروفائل میں تبدیلیاں
 changed-title = تبدیل کیا ہے
 options-title = میرے اختیارات کیا ہیں؟
 resources = ماخذ
+support-link = پروفائل مینیجر کا استعمال کرتے ہوئے- سپورٹ مضامین
 sync-header = سائن ان کریں یا { -fxaccount-brand-name } تخلیق کریں
 sync-label = اپنی ای میل داخل کریں
 sync-input =

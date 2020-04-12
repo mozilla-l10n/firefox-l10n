@@ -780,6 +780,8 @@ sitedata-option-block-cross-site-trackers =
     .label = کراس-سائٹ ٹریکر
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = کراس سائٹ اور سماجی میڈیا ٹریکرز
+sitedata-option-block-unvisited =
+    .label = نا دیکھی گئی ویب سائٹس کی کوکیز
 sitedata-option-block-all-third-party =
     .label = تمام تیسری تنظیم کے کوکیز (ویب سائٹس کے ٹوٹنے کا سبب بن سکتی ہے)
 sitedata-option-block-all =
@@ -826,6 +828,7 @@ content-blocking-setting-custom =
     .label = مخصوص
     .accesskey = C
 content-blocking-custom-desc = چنیں کیا بلاک کرنا ہے
+content-blocking-private-trackers = صرف نجی ونڈوز میں معلوم شدہ ٹریکرز
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -862,6 +865,9 @@ content-blocking-reload-tabs-button =
     .accesskey = R
 content-blocking-trackers-label =
     .label = ٹریکرس
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = مواد کی ٹریکنگ
     .accesskey = T
 content-blocking-tracking-protection-option-all-windows =
     .label = تمام ونڈو میں
@@ -915,6 +921,9 @@ permissions-notification-settings =
     .label = سیٹنگز…
     .accesskey = t
 permissions-notification-link = مزید سیکھیں
+permissions-block-autoplay-media2 =
+    .label = ویب سائٹس کو خود بخود آواز چلانے  سے روکیں
+    .accesskey = B
 permissions-block-autoplay-media-exceptions =
     .label = استثنیات…
     .accesskey = E
