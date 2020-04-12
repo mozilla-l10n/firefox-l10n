@@ -154,7 +154,7 @@ page-action-manage-extension =
 page-action-remove-from-urlbar =
     .label = Remover del barra de adresse
 page-action-remove-extension =
-    .label = Remover le extention
+    .label = Remover le extension
 
 ## Auto-hide Context Menu
 
