@@ -159,6 +159,7 @@ breach-alert-text = اس ویب سائٹ سے پاس ورڈز لیک یا چور
 breach-alert-link = اس خلاف ورزی کے بارے میں مزید معلومات حاصل کریں۔
 breach-alert-dismiss =
     .title = اس انتباہ کو بند کریں
+about-logins-breach-alert-date = یہخلافورزی { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ہوئی ہے
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } پر جائیں
