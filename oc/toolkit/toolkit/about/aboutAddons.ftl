@@ -287,6 +287,7 @@ shortcuts-no-commands = Las extensions seguentas an pas d’acorchi :
 shortcuts-input =
     .placeholder = Picatz un acorchi
 shortcuts-browserAction = Activar l’extension
+shortcuts-browserAction2 = Activar lo boton de la barra d’aisinas
 shortcuts-pageAction = Activar l'accion de la pagina
 shortcuts-sidebarAction = Mostrar/Amagar la barra laterala
 shortcuts-modifier-mac = Inclure Ctrl, Alt o ⌘
