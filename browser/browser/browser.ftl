@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Գաղտնի Դիտարկում)
        *[other] { $title } - { -brand-full-name } (Գաղտնի Դիտարկում)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկությունը
 
@@ -107,9 +104,11 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
-urlbar-search-tips-onboard = Մուտքագրեք քիչ, գտեք շատ. որոնեք { $engineName }-ը անմիջապես հասցեի գոտուց:
-urlbar-search-tips-redirect = Սկսեք ձեր որոնումը այստեղ՝ տեսնելու ամար { $engineName }-ի առաջարկները և դիտարկումների ձեր պատմությունը:
+urlbar-search-tips-onboard = Մուտքագրեք քիչ, գտեք շատ. որոնեք { $engineName }-ում անմիջապես հասցեի գոտուց:
 urlbar-search-tips-redirect-2 = Սկսեք ձեր որոնումը այստեղ՝ տեսնելու ամար { $engineName }-ի առաջարկները և դիտարկումների ձեր պատմությունը:
+
+##
+
 
 ##
 
