@@ -27,4 +27,6 @@ inactive-css-not-grid-or-flex-container = <strong>{ $property }</ strong> کا �
 ## an icon. When this icon is hovered this message is displayed to explain how
 ## the problem can be solved.
 
+inactive-css-not-grid-or-flex-item-fix = شامل کرنے کی کوشش کریں <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> or <strong>display:inline-flex</strong>. { learn-more }
+inactive-css-not-inline-or-tablecell-fix = شامل کرنے کی کوشش کریں<strong>display:inline</strong> or <strong>display:table-cell</strong>. { learn-more }
 inactive-text-overflow-when-no-overflow-fix = <strong> overflow:hidden </ strong> شامل کرنے کی کوشش کریں۔ { learn-more }

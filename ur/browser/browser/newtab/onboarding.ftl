@@ -100,8 +100,11 @@ onboarding-fxa-title = ہمہ وقت سازی
 onboarding-tracking-protection-title2 = سراغ کاری سے تحفظ
 onboarding-tracking-protection-button2 = یہ کس طرح کام کرتا ہے
 onboarding-data-sync-title = اپنی ترتیبات اپنے ساتھ رکھیں
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = جہاں بھی آپ { -brand-product-name } استعمال کرتے ہیں ہر جگہ اپنے بُک مارکس ، پاس ورڈز اور  مزید چیزوں کو سنک کریں ۔
 onboarding-data-sync-button2 = { -sync-brand-short-name } میں  سائن ان کریں
 onboarding-firefox-monitor-title = ڈیٹا کی خلاف ورزیوں پر الرٹ رہیں
+onboarding-firefox-monitor-text = { -monitor-brand-name } مونیٹر کرتا ہے آپ کا ای میل ڈیٹا کی خلاف ورزی ظاہر ہوئی ہے اور اگر آپ کی ای میل میں کوئی نئی خلاف ورزی ہوتی ہے تو آپ کو متنبہ کردیتا ہے۔
 onboarding-firefox-monitor-button = الرٹس کے لئے سائن اپ کریں
 onboarding-browse-privately-title = رازداری سے براؤز کریں
 onboarding-browse-privately-text = نجی براؤزنگ آپ کے کمپیوٹر کو استعمال کرنے والے ہر شخص سے خفیہ رکھنے کے لیے آپ کی تلاش اور براؤزنگ کی سابقات کو صاف کردیتی ہے۔

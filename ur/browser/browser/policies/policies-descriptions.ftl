@@ -75,8 +75,10 @@ policy-NoDefaultBookmarks = { -brand-short-name } کے ساتھ آئے ہوئے 
 policy-OverrideFirstRunPage = پہلےچلنے والے صفحے کو اوور رائڈ کریں۔ اگر آپ پہلے چلنے والے صفحے کو غیر فعال کرنا چاہتے ہیں تو اس پالیسی کو خالی پر مقرر کریں۔
 policy-PasswordManagerEnabled = پاس ورڈ مینیجر میں پاس ورڈز محفوظ کرنے کو فعال بنائیں۔
 policy-PopupBlocking = کچھ ویب سائٹوں کو بطور ڈیفالٹ پاپ اپ ظاہر کرنے کی اجازت دیں۔
+policy-Preferences = ترجیحات کے سب سیٹ کی قدر کو سیٹ اور لاک کریں۔
 policy-PromptForDownloadLocation = فائلیں ڈاؤن لوڈ کرتے وقت کہاں محفوظ کریں ؟ کا پوچھیں
 policy-Proxy = پراکسی ترتیبات ترتیب کریں۔
+policy-RequestedLocales = درخواست کے لئے درخواست کردہ زبانوں  کی فہرست کو ترجیح کے مطابق ترتیب دیں۔
 policy-SanitizeOnShutdown2 = بند کرنے پر تمام نیویگیشن ڈیٹا صاف کریں۔
 policy-SearchSuggestEnabled = تلاش تجاویز کو فعال یا غیر فعال کریں۔
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
