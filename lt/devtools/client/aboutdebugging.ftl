@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = Prijungto įrenginio darinio laida ({ 
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Derintuvės polangis gali neveikti su prijungto įrenginio naršykle. Naudokite „Firefox“ { $runtimeVersion }, jeigu turite naudoti derintuvę su šia įrenginio naršykle.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Ši „Firefox“ laida negali būti naudojama „Firefox“ (68), skirtos „Android“, derinimui. Testavimui rekomenduojame savo telefone įdiegti „Firefox for Android Nightly“. <a>Daugiau informacijos</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)

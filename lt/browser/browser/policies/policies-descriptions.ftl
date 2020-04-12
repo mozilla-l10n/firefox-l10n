@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Jei „false“, išjungti aparatinį spartinimą.
 policy-Homepage = Nustatyti ir papildomai užrakinti pradžios tinklalapį.
 policy-InstallAddonsPermission = Leisti kai kurioms svetainėms diegti priedus.
 policy-LegacyProfiles = Išjungti reikalavimą turėti atskirą profilį kiekvienai įdiegčiai
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Įjungti numatytąją pasenusią „SameSite“ slapukų elgesio nuostatą.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Grįžti prie pasenusios „SameSite“ slapukų elgsenos nurodytose svetainėse.
+
+##
+
 policy-LocalFileLinks = Leisti konkrečioms svetainėms susieti vietinius failus.
 policy-NetworkPrediction = Įjungti arba išjungti tinklo nuspėjimą (parengtinis DNS įkėlimas).
 policy-NewTabPage = Įjungti arba išjungti naujos kortelės puslapį.
