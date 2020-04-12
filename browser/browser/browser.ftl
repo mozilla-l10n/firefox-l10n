@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (ખાનગી બ્રાઉઝીંગ)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (ખાનગી બ્રાઉઝીંગ)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (ખાનગી બ્રાઉઝીંગ)
        *[other] { $title } - { -brand-full-name } (ખાનગી બ્રાઉઝીંગ)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = સાઇટની માહિતી જુઓ
 
@@ -107,6 +88,8 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = સ્થાયી સંગ્રહમાં ડેટા સંગ્રહ કરો
 urlbar-addons-notification-anchor =
     .tooltiptext = ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો
+urlbar-tip-help-icon =
+    .title = મદદ મેળવો
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -114,7 +97,9 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = ઓછ ટાઇપ કરો, વધુ શોધો: { $engineName } તમારા સરનામાં બારમાંથી જ શોધો.
-urlbar-search-tips-redirect = { $engineName } માંથી અને તમારા બ્રાઉઝિંગ ઇતિહાસમાંથી સૂચનો જોવા માટે અહીં તમારી શોધ શરૂ કરો.
+
+##
+
 
 ##
 
@@ -167,6 +152,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = આ સમયે, આની સાથે શોધો:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
