@@ -913,6 +913,7 @@
 <!ENTITY CopyEmailAddress.label "คัดลอกที่อยู่อีเมล">
 <!ENTITY CopyEmailAddress.accesskey "ค">
 <!ENTITY CopyNameAndEmailAddress.label "คัดลอกชื่อและที่อยู่อีเมล">
+<!ENTITY CopyNameAndEmailAddress.accesskey "ช">
 <!ENTITY CopyNewsgroupName.label "คัดลอกชื่อกลุ่มข่าว">
 <!ENTITY CopyNewsgroupName.accesskey "ค">
 <!ENTITY CopyNewsgroupURL.label "คัดลอก URL กลุ่มข่าว">
