@@ -318,6 +318,7 @@ touch-enabled = entrata tactile activate
 drag-enabled = traction de barra de rolamento activate
 keyboard-enabled = claviero activate
 autoscroll-enabled = auto-rolamento activate
+zooming-enabled = zoom suave con gesto de pincia activate
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
