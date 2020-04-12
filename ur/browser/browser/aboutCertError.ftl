@@ -94,3 +94,4 @@ clockSkewError-title = آپ کے کمپیوٹر کی گھڑی غلط ہے
 networkProtocolError-title = نیٹ ورک پروٹوکول کی خرابی
 nssBadCert-title = انتباہ: اآگے ممکنہ سیکیورٹی کا خطرہ او سکتا ہے
 nssBadCert-sts-title = رابطہ قائم نہیں ھوا: امکانی حفاظتی مسئلہ
+certerror-mitm-title = سافٹ ویئر { -brand-short-name } کو سائٹ  سے منسلک ہونے سے محفوظ طریقے سے روک رہا ہے
