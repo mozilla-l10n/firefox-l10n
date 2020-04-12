@@ -114,6 +114,14 @@ about-logins-edit-login-os-auth-dialog-message = Norėdami redaguoti įrašytą 
 about-logins-edit-login-os-auth-dialog-message-macosx = redaguoti įrašytą prisijungimą
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Norėdami pamatyti įrašytą slaptažodį, patvirtinkite savo tapatybę.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = parodyti įrašytą slaptažodį
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Norėdami nukopijuoti įrašytą slaptažodį, patvirtinkite savo tapatybę.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = nukopijuoti įrašytą slaptažodį
 
 ## Master Password notification
 
@@ -154,13 +162,24 @@ confirm-discard-changes-dialog-confirm-button = Atsisakyti
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Svetainės pažeidimas
 breach-alert-text = Po jūsų paskutinio prisijungimo duomenų atnaujinimo, iš šios svetainės nutekėjo arba buvo pavogti slaptažodžiai. Pasikeiskite slaptažodį, kad apsaugotumėte savo paskyrą.
 breach-alert-link = Sužinokite apie šį pažeidimą daugiau.
 breach-alert-dismiss =
     .title = Užverti šį perspėjimą
+about-logins-breach-alert-date = Šis pažeidimas įvyko { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Eiti į { $hostname }
+about-logins-breach-alert-learn-more-link = Sužinoti daugiau
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Pažeidžiamas slaptažodis
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Eiti į { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Sužinoti daugiau
 
 ## Error Messages
 
