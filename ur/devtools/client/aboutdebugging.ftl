@@ -150,6 +150,8 @@ about-debugging-debug-target-list-empty = ابھی تک کچھ نہیں
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = معائنہ کریں
+# Text displayed when trying to install a temporary extension in the "This Firefox" page.
+about-debugging-tmp-extension-install-error = عارضی ایڈ اون انسٹالیشن  کے دوران ایک خامی تھی۔
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = دوبارہ لوڈ کریں

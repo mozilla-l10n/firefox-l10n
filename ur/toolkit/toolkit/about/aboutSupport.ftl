@@ -143,6 +143,7 @@ intl-regional-prefs = علاقائی ترجیحات
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = بعدیدی ڈیبگنگ (کرومیم پروٹوکول)
 remote-debugging-accepting-connections = روابط قبول کرہا  ھے
 remote-debugging-url = URL
 
