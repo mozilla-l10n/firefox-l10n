@@ -269,6 +269,8 @@ startup-cache-disk-cache-path = ڈسک کیشے کا راستہ
 startup-cache-ignore-disk-cache = ڈسک کیشے کو نظرانداز کریں
 startup-cache-wrote-to-disk-cache = ڈسک کیشے پر لکھ دیا
 launcher-process-status-0 = فعال
+launcher-process-status-1 = ناکامی کی وجہ سے غیرفعال ہے
+launcher-process-status-2 = زبردستی نغیرفعال
 launcher-process-status-unknown = نامعلوم اسٹیٹس
 # Variables
 # $remoteWindows (integer) - Number of remote windows
