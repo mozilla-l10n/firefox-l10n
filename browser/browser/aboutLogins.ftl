@@ -176,6 +176,7 @@ about-logins-breach-alert-learn-more-link = Sužinoti daugiau
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Pažeidžiamas slaptažodis
+about-logins-vulnerable-alert-text2 = Šis slaptažodis buvo panaudotas su kita paskyra, kuri galimai pateko tarp nutekėjusių duomenų. Naudodami tuos pačius slaptažodžius, rizikuojate visų savo paskyrų saugumu. Pasikeiskite šį slaptažodį.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Eiti į { $hostname }
