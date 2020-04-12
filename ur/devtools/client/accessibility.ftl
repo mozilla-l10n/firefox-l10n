@@ -28,7 +28,9 @@ accessibility-text-label-issue-embed = ایمبیڈڈ مواد پر لیبل ل�
 accessibility-text-label-issue-figure = اختیاری عنوانات والے اعداد و شمار پر لیبل لگا ہونا چاہئے۔ <a> مزید جانیں </a>
 accessibility-text-label-issue-form = عنوانات کا لیبل لگا ہونا ضروری ہے۔ <a> مزید جانیں </a>
 accessibility-text-label-issue-form-visible = فارم عناصر کے پاس مرئی ٹیکسٹ لیبل ہونا چاہئے۔ <a> مزید جانیں </a>
+accessibility-text-label-issue-frame = <code> فریم </code> عناصر کو لیبل لگا ہونا ضروری ہے۔ <a> مزید سیکھیں </a>
 accessibility-text-label-issue-heading = عنوانات کا لیبل لگا ہونا ضروری ہے۔ <a> مزید جانیں </a>
+accessibility-text-label-issue-toolbar = جب ایک سے زیادہ ٹول بار ہو تو ٹول بار کو لیبل لگانا ضروری ہے۔<a>مزید سیکھیں</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has a keyboard accessibility

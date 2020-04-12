@@ -161,6 +161,17 @@ security-visits-number =
         [one] ہاں، ایک مرتبہ
        *[other] ہاں { $visits } مرتبہ
     }
+# This string is used to display the type and number
+# of frames of a animated image
+# Variables:
+#   $type (string) - The type of a animated image
+#   $frames (number) - The number of frames in an animated image
+media-animated-image-type =
+    .value =
+        { $frames ->
+            [one] { $type } تصویری (متحرک ،{ $frames } فریم)
+           *[other] { $type } تصویری (متحرک ،{ $frames } فریم)
+        }
 # This string is used to display the type of
 # an image
 # Variables:

@@ -31,6 +31,7 @@ policy-DisableFeedbackCommands = مدد مینو سے رائے بھیجنے کے
 policy-DisableFirefoxAccounts = سنک سمیت { -fxaccount-brand-name } پر مبنی خدمات کو غیر فعال بناٴیں۔
 # Firefox Screenshots is the name of the feature, and should not be translated.
 policy-DisableFirefoxScreenshots = Firefox کے اسکرین شاٹ خصوصیت کو غیر فعال کریں۔
+policy-DisableFirefoxStudies = { -brand-short-name } کو مطالعے  چلانے والے سے کو روکیں۔
 policy-DisableForgetButton = فارگیٹ بٹن تک رسائی کو روکیں۔
 policy-DisableFormHistory = تلاش اور فارم کی سابقات یاد نا رکھیں۔
 policy-DisableMasterPasswordCreation = اگر سچ ہے تو، ایک ماسٹر پاس ورڈ بنائی نہی جا سکتی۔

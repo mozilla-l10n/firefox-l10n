@@ -168,6 +168,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "اکاؤنٹ کی سیٹنگز">
 <!ENTITY fxa.menu.manageAccount2.label "اکاؤنٹ بندوبست کریں">
 <!ENTITY fxa.menu.signOut.label "سائن آؤٹ…">
+<!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label;… سیٹ اپ کریں">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -889,6 +890,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.header "اگر آپ کو پریشانی ہو رہی ہے تو تحفظات کو بند کردیں:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "لاگ ان قطئے">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "فارم">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "ادائیگیاں">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "تبصرہ">
@@ -943,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.trackingProtection3.label "ٹریکرس">
 
+<!ENTITY contentBlocking.manageSettings.label "مواد کے روکنےکو منظم کریں">
 <!ENTITY contentBlocking.manageSettings.accesskey "M">
 
 <!ENTITY contentBlocking.trackersView.label "ٹریکرس">

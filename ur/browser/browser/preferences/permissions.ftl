@@ -67,6 +67,9 @@ permissions-exceptions-content-blocking-window =
     .title = استثنیات - مواد روکنا
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = آپنے مواد روکنا غیر فعال کر دی ہے  ان ویبسیٹس کے لئے۔
+permissions-exceptions-etp-window =
+    .title = بہتر ٹریکنگ سے حفاظت کے لئے استثنا
+    .style = { permissions-window.style }
 permissions-exceptions-etp-desc = آپ نے ان ویب سائٹوں پر تحفظات بند کردیئے ہیں۔
 
 ## Exceptions - Cookies
