@@ -287,6 +287,7 @@ shortcuts-no-commands = Šie priedai neturi sparčiųjų klavišų komandų:
 shortcuts-input =
     .placeholder = Surinkite klavišų kombinaciją
 shortcuts-browserAction = Įjungti priedą
+shortcuts-browserAction2 = Aktyvuoti priemonių juostos mygtuką
 shortcuts-pageAction = Įjungti veiksmą tinklalapyje
 shortcuts-sidebarAction = Rodyti / slėpti šoninį polangį
 shortcuts-modifier-mac = Įtraukti Ctrl, Alt arba ⌘
