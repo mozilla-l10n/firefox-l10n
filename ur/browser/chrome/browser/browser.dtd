@@ -983,6 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate5.label "عارضی طور پر روکنا بند کریں">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "اس سائٹ کیلئے روکنا شروع کریں">
 <!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "صفحہ پھر لوڈ کریں">
 <!ENTITY trackingProtection.reload2.accesskey "R">
