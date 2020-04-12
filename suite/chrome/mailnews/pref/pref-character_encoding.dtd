@@ -6,7 +6,7 @@
 <!ENTITY messageDisplay.caption          "Meldingsvisning">
 <!ENTITY viewFallbackCharset2.label      "Reserve-tekstkoding:">
 <!ENTITY viewFallbackCharset2.accesskey  "e">
-<!ENTITY viewFallbackCharset.desc        "(Brukt for legacy-innhold som kke oppgir noen tegnkoding.)">
+<!ENTITY viewFallbackCharset.desc        "(Brukt for legacy-innhold som ikke oppgir noen tegnkoding.)">
 
 <!ENTITY composingMessages.caption       "Meldingsskriving">
 <!ENTITY useMIME.label                   "Bruk 'quoted printable' MIME-koding for meldinger som har 8-bit tegn. La være tom for å sende meldingen som den er.">
