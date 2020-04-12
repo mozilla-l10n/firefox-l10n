@@ -67,6 +67,8 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = اپنے محفوظ شدہ لاگ ان ڈھونڈ رہے ہیں؟ { -sync-brand-short-name } مرتب کریں۔
 about-logins-login-intro-heading-logged-in = کوئی ہمہ وقت ساز  لاگ ان نہیں ملا۔
+login-intro-description = اگر آپ نے اپنے لاگ انز { -brand-product-name } کو کسی دوسرے آلے پر محفوظ کیاہوا ہے تو، انہیں یہاں حاصل کرنے کا طریقہ یوں ہے:
+login-intro-instruction-fxa = وہ آلہ جہاں آپ کے لاگ انز محفوظ ہیں ان پر اپنا { -fxaccount-brand-name } بنائیں یا سائن ان کریں
 about-logins-intro-import = اگر آپ کے لاگ انز کسی دوسرے براؤزر میں محفوظ ہیں تو ، آپ <a data-l10n-name="import-link"> ان کو { -lockwise-brand-short-name }</a> میں درآمد کرسکتے ہیں
 
 ## Login
