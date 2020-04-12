@@ -16,7 +16,7 @@
 
 <!ENTITY pref.timezones.caption "Fuseau horaire">
 <!ENTITY pref.timezones.label "Choisissez la ville la plus proche dans votre fuseau horaire :">
-<!ENTITY pref.timezones.accesskey "C">
+<!ENTITY pref.timezones.accesskey "u">
 
 <!ENTITY pref.defaults.label "Valeurs par défaut pour les nouveaux éléments">
 <!ENTITY pref.events.label "Évènements">
