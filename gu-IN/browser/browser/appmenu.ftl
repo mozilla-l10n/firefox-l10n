@@ -5,6 +5,16 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = ગોપનીયતા સુરક્ષા
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = તમારી ગોપનીયતા અહેવાલ પર જાઓ
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = મોટું કરો
+appmenuitem-zoom-reduce =
+    .label = નાનુ કરો
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
