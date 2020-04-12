@@ -33,7 +33,7 @@ newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Picar o pegar una URL
 newtab-topsites-url-validation = Una URLvalida es requesida
-newtab-topsites-image-url-label = URL d'imatge personalizat
+newtab-topsites-image-url-label = URL de l'imatge personalizat
 newtab-topsites-use-image-link = Utilizar un imatge personalizat…
 newtab-topsites-image-validation = L’imatge a pas capitat de se cargar. Ensajatz una URL diferenta.
 
