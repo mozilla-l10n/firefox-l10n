@@ -871,6 +871,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsPreferences.tooltip "اجازت ترجیحات کھولیں">
 
 
+<!ENTITY protections.etpOFF.header "ٹریکنگ سے بہتر تحفظ اس سائٹ کے لیئے بند ہے">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
 <!ENTITY protections.settings.label "تحفظ کی سیٹنگز">
@@ -947,6 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "کوکیز">
 <!ENTITY contentBlocking.cookiesView.label "کوکیز اور سائٹ کے کواِئف">
 
+<!ENTITY contentBlocking.trackingProtection4.label "مواد کی  ٹریکنگ">
 
 <!ENTITY contentBlocking.manageSettings2.label "تحفظ کی سیٹنگز کو منظم کریں">
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
@@ -974,10 +976,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "اس سائٹ کیلئے روکنا بند کریں">
 <!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "عارضی طور پر روکنا بند کریں">
 <!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
 <!ENTITY trackingProtection.block6.accesskey "T">
 <!ENTITY trackingProtection.reload2.label "صفحہ پھر لوڈ کریں">

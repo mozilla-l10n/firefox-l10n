@@ -848,11 +848,13 @@ enhanced-tracking-protection-setting-custom =
 
 content-blocking-etp-standard-desc = تحفظ اور کارکردگی کیلئے متوازن۔ صفحات عام طور پر لوڈ ہوں گے۔
 content-blocking-etp-custom-desc = منتخب کریں کہ کون سے ٹریکرز اور اسکرپٹ کو مسدود کرنا ہے۔
+content-blocking-private-windows = نجی ونڈوز میں مواد  کی  ٹریکنگ
 content-blocking-cross-site-tracking-cookies = کراس-سائٹ ٹریکنگ کوکیز
 content-blocking-social-media-trackers = سوشل میڈیا ٹریکرز
 content-blocking-all-cookies = تمام کوکیز
 content-blocking-unvisited-cookies = نا دیکھی گئی سائٹس کی کوکیز
 content-blocking-all-windows-trackers = تمام ونڈوز میں معلوم شدہ ٹریکرز
+content-blocking-all-windows-tracking-content = تمام ونڈوز میں مواد کی  ٹریکنگ
 content-blocking-all-third-party-cookies = تمام تیسری تنظیم کے کوکیز
 content-blocking-cryptominers = کریپٹومینر
 content-blocking-fingerprinters = فنگر پرنٹرز
