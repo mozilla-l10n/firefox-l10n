@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Legg til utvidinga
 onboarding-import-browser-settings-title = Importer bokmerka dine, passord og meir
 onboarding-import-browser-settings-text = Kom raskt i gang—ta enkelt med deg Chrome-nettstadar og -innstillingar.
 onboarding-import-browser-settings-button = Importer Chrome-data
+onboarding-personal-data-promise-title = Designa for personvern
 onboarding-personal-data-promise-button = Les løftet vårt
 
 ## Message strings belonging to the Return to AMO flow
