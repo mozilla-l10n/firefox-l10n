@@ -61,6 +61,8 @@ manifest-item-identity = شناخت
 manifest-item-presentation = پيشکاری
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = آئیکن
+# Text displayed while we are loading the manifest file
+manifest-loading = منشور لوڈ ہو رہا ہے…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = منشور لوڈ ہو گیا
 # Text displayed as an error when there has been a Firefox DevTools error while
@@ -75,6 +77,10 @@ manifest-icon-purpose = مقصد:  <code>{ $purpose }</code>
 # manifest.
 manifest-icon-img =
     .alt = آئکن
+# Text displayed as the title attribute for <img> tags showing the icons in the
+# manifest. `$sizes` is a user-dependent string that has been parsed as a
+# space-separated list of `<width>x<height>` sizes or the keyword `any`.
+manifest-icon-img-title = سائز کے ساتھ آئیکن : { $sizes }
 # Text displayed as the title attribute for <img> tags showing the icons in the
 # manifest, in case there's no icon size specified by the user
 manifest-icon-img-title-no-sizes = غیر متعینہ سائز کا آئیکن
