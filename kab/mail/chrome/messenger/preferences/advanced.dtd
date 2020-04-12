@@ -42,7 +42,7 @@
 
 <!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Tilisɣelt">
-<!ENTITY telemetryDesc.label             "Ad yebḍu isefka n timellit, aseqdec, arrum d usugenn n umsaq-inek n tirawt akked &vendorShortName; akken aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
+<!ENTITY telemetryDesc.label             "Bḍu isefka n tmellit, n useqdec, n warrum d waggan n yifecka yeɛnan amsaɣ-inek n yimayl s &vendorShortName; akken ad aɣ-talleḍ ad nerr &brandShortName; ifaz">
 <!ENTITY enableTelemetry.label           "Rmed tilisɣelt">
 <!ENTITY enableTelemetry.accesskey       "l">
 <!ENTITY telemetryLearnMore.label        "Issin ugar">
