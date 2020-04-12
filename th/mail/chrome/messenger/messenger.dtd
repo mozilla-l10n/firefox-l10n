@@ -469,7 +469,9 @@
 <!ENTITY addons.label "ส่วนเสริม">
 <!ENTITY addons.accesskey "ว">
 <!ENTITY addonPrefs.label "ตัวเลือกส่วนเสริม">
+<!ENTITY addonPrefs.accesskey "ต">
 <!ENTITY addonPrefsUnix.label "ค่ากำหนดส่วนเสริม">
+<!ENTITY addonPrefsUnix.accesskey "ค">
 <!ENTITY addonNoPrefs.label "ไม่พบการตั้งค่าส่วนเสริม">
 <!ENTITY activitymanager.label "ตัวจัดการกิจกรรม">
 <!ENTITY activitymanager.accesskey "ก">
@@ -512,13 +514,17 @@
 <!ENTITY devtoolsMenu.label "เครื่องมือนักพัฒนา">
 <!ENTITY devtoolsMenu.accesskey "พ">
 <!ENTITY devToolboxCmd.label "กล่องเครื่องมือนักพัฒนา">
+<!ENTITY devToolboxCmd.accesskey "ก">
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY debugAddonsCmd.label "ดีบั๊กส่วนเสริม">
+<!ENTITY debugAddonsCmd.accesskey "ส">
 <!ENTITY tabsDebugCmd.label "ตัวดีบั๊กเฟรมเนื้อหา">
+<!ENTITY tabsDebugCmd.accesskey "น">
 <!ENTITY errorConsoleCmd.label "คอนโซลข้อผิดพลาด">
 <!ENTITY errorConsoleCmd.accesskey "ข">
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "กระดานทดลอง">
+<!ENTITY scratchpadCmd.accesskey "ร">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
@@ -649,6 +655,7 @@
 <!ENTITY folderContextMarkAllFoldersRead.label "ทำเครื่องหมายโฟลเดอร์ทั้งหมดว่าอ่านแล้ว">
 <!ENTITY folderContextPauseAllUpdates.label "หยุดการอัปเดตทั้งหมดชั่วคราว">
 <!ENTITY folderContextPauseUpdates.label "หยุดการอัปเดตชั่วคราว">
+<!ENTITY folderContextPauseUpdates.accesskey "ห">
 <!ENTITY folderContextOpenInNewWindow.label "เปิดในหน้าต่างใหม่">
 <!ENTITY folderContextOpenInNewWindow.accesskey "ป">
 <!ENTITY folderContextOpenNewTab.label "เปิดในแท็บใหม่">
@@ -765,6 +772,7 @@
 <!ENTITY contextEditMsgAsNew.accesskey "ก">
 <!ENTITY contextEditDraftMsg.label "แก้ไขข้อความฉบับร่าง">
 <!ENTITY contextEditTemplate.label "แก้ไขแม่แบบ">
+<!ENTITY contextEditTemplate.accesskey "ม">
 <!ENTITY contextArchive.label "เก็บถาวร">
 <!ENTITY contextArchive.accesskey "ก">
 <!ENTITY contextReplySender.label "ตอบกลับถึงผู้ส่งเท่านั้น">
@@ -778,8 +786,11 @@
 <!ENTITY contextForward.label "ส่งต่อ">
 <!ENTITY contextForward.accesskey "ง">
 <!ENTITY contextForwardAsMenu.label "ส่งต่อเป็น">
+<!ENTITY contextForwardAsMenu.accesskey "ต">
 <!ENTITY contextForwardAsInline.label "อินไลน์">
+<!ENTITY contextForwardAsInline.accesskey "อ">
 <!ENTITY contextForwardAsAttachmentItem.label "ไฟล์แนบ">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "ฟ">
 <!ENTITY contextMultiForwardAsAttachment.label "ส่งต่อเป็นไฟล์แนบ">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "เ">
 <!ENTITY contextMoveMsgMenu.label "ย้ายไปยัง">
@@ -787,9 +798,12 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.label "ล่าสุด">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "ล">
 <!ENTITY contextMoveCopyMsgFavoritesMenu.label "รายการโปรด">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "ร">
 <!ENTITY contextCopyMsgMenu.label "คัดลอกไปยัง">
 <!ENTITY contextCopyMsgMenu.accesskey "ค">
 <!ENTITY contextKillThreadMenu.label "เพิกเฉยหัวข้อ">
+<!ENTITY contextKillSubthreadMenu.accesskey "ย">
+<!ENTITY contextKillThreadMenu.accesskey "ว">
 <!ENTITY contextKillSubthreadMenu.label "เพิกเฉยหัวข้อย่อย">
 <!ENTITY contextWatchThreadMenu.label "เฝ้าดูหัวข้อ">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
