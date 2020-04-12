@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Lag ny oppgåve" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Oppgåver" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Vis fullførte oppgåver">
 
 <!ENTITY calendar.today.button.label          "I dag">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Vis alarmar">
 <!ENTITY calendarproperties.cache3.label                   "Fråkopla støtte">
 <!ENTITY calendarproperties.enabled.label                  "Slå på denne kalenderen">
+<!ENTITY calendarproperties.enabled2.label                 "Aktiver denne kalenderen">
 <!ENTITY calendarproperties.forceDisabled.label            "Fann ikkje tilbydaren av denne kalenderen. Dette skjer ofte om du har slått av eller avinstallert enkelte utvidingar.">
 <!ENTITY calendarproperties.unsubscribe.label              "Stopp abonnement">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "S">
