@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Pradėti
 onboarding-welcome-header = Sveiki, čia „{ -brand-short-name }“
 onboarding-welcome-body = Naršyklę jau turite.<br/>Dabar susipažinkite su likusia „{ -brand-product-name }“ šeima.
 onboarding-welcome-learn-more = Sužinokite apie privalumus daugiau.
+onboarding-join-form-header = Prisijungti prie „{ -brand-product-name }“
 onboarding-welcome-modal-get-body = Naršyklę jau turite.<br/>Dabar išnaudokite visas „{ -brand-product-name }“ galimybes.
 onboarding-welcome-modal-supercharge-body = Pagerinkite savo privatumo apsaugą.
 onboarding-welcome-modal-privacy-body = Naršyklę jau turite. Pridėkime daugiau privatumo apsaugos.
 onboarding-welcome-modal-family-learn-more = Susipažinkite su „{ -brand-product-name }“ produktų grupe.
 onboarding-welcome-form-header = Pradėkite čia
-onboarding-join-form-header = Prisijungti prie „{ -brand-product-name }“
 onboarding-join-form-body = Įveskite savo el. pašto adresą.
 onboarding-join-form-email =
     .placeholder = Įveskite el. paštą
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Pasiimkite „{ -brand-product-name }“ su savimi
 onboarding-sync-welcome-content = Turėkite savo adresyną, žurnalą, slaptažodžius ir kitas nuostatas visuose savo įrenginiuose.
 onboarding-sync-welcome-learn-more-link = Sužinokite apie „Firefox“ paskyras daugiau
-onboarding-sync-form-invalid-input = Reikalingas galiojantis el. pašto adresas
-onboarding-sync-legal-notice = Tęsdami sutinkate su <a data-l10n-name="terms">paslaugos teikimo nuostatais</a> ir <a data-l10n-name="privacy">Privatumo pranešimu</a>.
 onboarding-sync-form-input =
     .placeholder = El. paštas
 onboarding-sync-form-continue-button = Tęsti
@@ -149,6 +147,7 @@ onboarding-facebook-container-button = Pridėti priedą
 onboarding-import-browser-settings-title = Importuokite savo adresyną, slaptažodžius, ir dar daugiau
 onboarding-import-browser-settings-text = Nerkite pirmyn – lengvai perkelkite savo svetaines ir nuostatas iš „Chrome“.
 onboarding-import-browser-settings-button = Importuoti duomenis iš „Chrome“
+onboarding-personal-data-promise-text = „{ -brand-product-name }“ gerbia jūsų duomenis. Jų renkama mažiau, jie apsaugomi, ir aiškiai nurodoma, kam jie naudojami.
 
 ## Message strings belonging to the Return to AMO flow
 

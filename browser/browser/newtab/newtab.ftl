@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Atlikus šį veiksmą, jo atšaukti neįmanom
 newtab-menu-section-tooltip =
     .title = Atverti meniu
     .aria-label = Atverti meniu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Pašalinti
+    .aria-label = Pašalinti
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Mūsų rėmėjai ir jūsų privatumas
 
 newtab-privacy-modal-button-done = Gerai
 newtab-privacy-modal-header = Jūsų privatumas yra svarbus.
-newtab-privacy-modal-paragraph =
-    Mes ne tik pateikiame įtraukiančias istorijas, bet ir rodome susijusį,
-    gerai vertinamą turinį iš atrinktų rėmėjų. Būkite ramūs – jūsų naršymo
-    duomenys niekada neiškeliauja už jūsų asmeninės „{ -brand-product-name }“ ribų – mes jų nematome,
-    kaip ir nemato mūsų rėmėjai.
 newtab-privacy-modal-paragraph-2 =
     Mes ne tik pateikiame įtraukiančias istorijas, bet ir rodome susijusį,
     gerai vertinamą turinį iš atrinktų rėmėjų. Būkite ramūs – <strong>jūsų naršymo
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oi! Mes beveik įkėlėme 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populiarios temos:
 newtab-pocket-more-recommendations = Daugiau rekomendacijų
-newtab-pocket-whats-pocket = Kas yra „{ -pocket-brand-name }“?
 newtab-pocket-learn-more = Sužinoti daugiau
 newtab-pocket-cta-button = Gauti „{ -pocket-brand-name }“
 newtab-pocket-cta-text = Išsaugokite patinkančius straipsnius į „{ -pocket-brand-name }“, bei sužadinkite savo mintis stulbinančiomis istorijomis.
