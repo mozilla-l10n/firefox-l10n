@@ -278,6 +278,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.canvasBlocked.tooltip            "آپنے اس ویب سائٹ کے لئے کینوس کوائف ماحصل بلاک کر دی ہیں۔">
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "آپنے اس ویب سائٹ کو Adobe Flash plugin استعمال کرنے سے بلاک کر دیا ہیں۔">
 <!ENTITY urlbar.midiBlocked.tooltip              "آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔">
+<!ENTITY urlbar.installBlocked.tooltip           "آپ نے اس ویب سائٹ کیلئے ایڈ آن کی انسٹالیشن کو روکا  ہوا ہے۔">
 
 <!ENTITY urlbar.permissionsGranted.tooltip       "آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔">
 
