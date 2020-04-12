@@ -827,6 +827,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = مخصوص
     .accesskey = C
+content-blocking-strict-description = مضبوط تحفظ ، کچھ سائٹس کے ٹوٹنے کا سبب بن سکتا ہے۔
 content-blocking-custom-desc = چنیں کیا بلاک کرنا ہے
 content-blocking-private-trackers = صرف نجی ونڈوز میں معلوم شدہ ٹریکرز
 
