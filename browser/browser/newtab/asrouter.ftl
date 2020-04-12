@@ -80,6 +80,19 @@ cfr-whatsnew-button =
     .label = નવું શું છે
     .tooltiptext = નવું શું છે
 cfr-whatsnew-panel-header = નવું શું છે
+cfr-whatsnew-tracking-protect-title = પોતાને ટ્રેકર્સથી બચાવો
+cfr-whatsnew-tracking-protect-link-text = તમારો અહેવાલ જુઓ
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] ટ્રેકર્સ અવરોધિત
+       *[other] ટ્રેકર્સ અવરોધિત
+    }
+cfr-whatsnew-tracking-blocked-link-text = અહેવાલ જુઓ
+cfr-whatsnew-lockwise-backup-title = તમારા પાસવર્ડ્સનો બેક અપ લો
+cfr-whatsnew-lockwise-backup-link-text = બેકઅપ ચાલુ કરો
 
 ## Search Bar
 
