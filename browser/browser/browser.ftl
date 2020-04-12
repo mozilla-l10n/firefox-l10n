@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Privat nettlesing)
        *[other] { $title } - { -brand-full-name } (Privat nettlesing)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Vis sideinfo
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tast mindre, finn meir: Søk med { $engineName } rett frå adresselinja.
-urlbar-search-tips-redirect = Start søket ditt her for å sjå forslag frå { $engineName } og frå nettlesarshistorikken din.
 urlbar-search-tips-redirect-2 = Start søket ditt i adressefeltet for å sjå forslag frå { $engineName } og nettleserhistorikken din.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Handter utviding…
 page-action-remove-from-urlbar =
     .label = Fjern fra adresselinja
+page-action-remove-extension =
+    .label = Fjern utviding
 
 ## Auto-hide Context Menu
 
