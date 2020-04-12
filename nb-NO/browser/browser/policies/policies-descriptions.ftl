@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Hvis deaktivert, slå av maskinvareakselerasjon.
 policy-Homepage = Sett og eventuelt lås startsiden.
 policy-InstallAddonsPermission = Tillat visse nettsteder å installere utvidelser.
 policy-LegacyProfiles = Slå av funksjonen som påtvinger en egen profil for hver installasjon
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Slå på standard innstilling for foreldet SameSite-oppførsel for infokapsler.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til foreldet SameSite-oppførsel for infokapsler på spesifiserte nettsteder.
+
+##
+
 policy-LocalFileLinks = Tillat at bestemte nettsteder kobler til lokale filer.
 policy-NetworkPrediction = Aktiver eller deaktiver nettverkspredikering (DNS-prefetch).
 policy-NewTabPage = Slå på eller av ny fane-siden.
