@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 profiledowngrade-window =
-    .title = آپ نے { -brand-product-name } کا پرانا ورژن لانچ کیا ہے
+    .title = آپ نے { -brand-product-name }کا پرانا ورژن لانچ کیا ہے
     .style = width: 490px
 profiledowngrade-window-create =
     .label = ایک نئی پروفائل بنائیں
