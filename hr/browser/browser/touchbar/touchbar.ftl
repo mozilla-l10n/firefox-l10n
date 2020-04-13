@@ -16,7 +16,7 @@ add-bookmark = Dodaj zabilješku
 open-bookmarks-sidebar = Otvori okno zabilješki
 reader-view = Prikaz za čitanje
 # Meant to match the string displayed in an empty URL bar.
-open-location = Pretražite ili upišite adresu
+open-location = Pretraži ili upiši adresu
 share = Dijeli
 close-window = Zatvori prozor
 open-sidebar = Bočne trake
