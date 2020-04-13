@@ -27,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
   .title = Åbn menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importer adgangskoder…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importer fra en anden browser…
 menu-menuitem-preferences =
@@ -53,6 +51,7 @@ login-list-sort-label-text = Sorter efter:
 login-list-name-option = Navn (A-Z)
 login-list-name-reverse-option = Navn (Z-A)
 login-list-breached-option = Websteder med datalæk
+about-logins-login-list-alerts-option = Advarsler
 login-list-last-changed-option = Senest ændret
 login-list-last-used-option = Senest brugt
 login-list-intro-title = Ingen logins fundet
@@ -64,6 +63,9 @@ login-list-item-subtitle-new-login = Indtast login-oplysninger
 login-list-item-subtitle-missing-username = (intet brugernavn)
 about-logins-list-item-breach-icon =
   .title = Websted med datalæk
+
+about-logins-list-item-vulnerable-password-icon =
+  .title = Usikker adgansgkode
 
 ## Introduction screen
 
@@ -169,10 +171,26 @@ confirm-discard-changes-dialog-confirm-button = Annuller
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Websted med datalæk
 breach-alert-text = Adgangskoder er blevet lækket eller stjålet fra dette websted, siden du senest opdaterede dine login-oplysninger. Skift din adgangskode for at beskytte din konto.
 breach-alert-link = Læs mere om denne datalæk.
 breach-alert-dismiss = 
     .title = Luk denne advarsel
+
+about-logins-breach-alert-date = Datalækket fandt sted { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Gå til { $hostname }
+about-logins-breach-alert-learn-more-link = Læs mere
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Usikker adgangskode
+about-logins-vulnerable-alert-text2 = Adgangskoden er blevet brugt til en anden konto, der sandynligvis har været med i en datalæk. Det kan bringe dine konti i fare at genbruge brugerneavne og adgangskoder. Skift denne adgangskode.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Gå til { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Læs mere
 
 ## Error Messages
 
