@@ -8,7 +8,7 @@ about-performance-title = 작업 관리자
 ## Column headers
 
 column-name = 이름
-column-type = 형식
+column-type = 유형
 column-energy-impact = 에너지 영향
 column-memory = 메모리
 
