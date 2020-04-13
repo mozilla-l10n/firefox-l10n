@@ -2,16 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-synced-tabs-sidebar-title = Sinxronlangan ichki oynalar
-synced-tabs-sidebar-noclients-subtitle = Bu yerdagi ichki oynalarni boshqa qurilmalarda ko‘rishni xohlaysizmi?
-synced-tabs-sidebar-notsignedin = Boshqa qurilmalardagi ichki oynalar ro‘yxatini ko‘rish uchun Firefox hisobiga kiring.
+synced-tabs-sidebar-title = Sinxronlangan varaqlar
+synced-tabs-sidebar-noclients-subtitle = Bu yerdagi varaqlarni boshqa qurilmalarda koʻrishni xohlaysizmi?
+synced-tabs-sidebar-notsignedin = Boshqa qurilmalardagi varaqlar roʻyxatini koʻrish uchun Firefox hisobiga kiring.
+synced-tabs-sidebar-intro = Boshqa qurilmalaringizdagi varaqlar roʻyxatini koʻring
 synced-tabs-sidebar-unverified = Hisobingiz tasdiqlanishi kerak.
-synced-tabs-sidebar-notabs = Ochiq ichki oynalar yo‘q
+synced-tabs-sidebar-notabs = Ochiq varaqlar yoʻq
 synced-tabs-sidebar-openprefs = { -sync-brand-short-name } parametrlarini ochish
-synced-tabs-sidebar-tabsnotsyncing = Boshqa qurilmalaridagi ichki oynalar ro‘yxatini ko‘rish uchun ichki oynalarni sinxronlashni yoqing.
+synced-tabs-sidebar-tabsnotsyncing = Boshqa qurilmalaridagi varaqlar roʻyxatini koʻrish uchun varaqlarni sinxronlashni yoqing.
 synced-tabs-sidebar-connect-another-device = Boshqa qurilmani ulash
 synced-tabs-sidebar-search =
-    .placeholder = Sinxronlangan oynalarni qidirish
+    .placeholder = Sinxronlangan varaqlarni qidirish
 synced-tabs-context-open =
     .label = Ochish
     .accesskey = O

@@ -90,7 +90,7 @@ newtab-menu-show-privacy-info = Bizning homiylarimiz va sizning maxfiyligingiz
 
 newtab-privacy-modal-button-done = Tayyor
 newtab-privacy-modal-header = Maxfiyligingiz juda muhim.
-newtab-privacy-modal-link = Yangi ichki oynada maxfiylik qanday boʻlishi haqida batafsil maʼlumot oling
+newtab-privacy-modal-link = Yangi varaqda maxfiylik qanday boʻlishi haqida batafsil maʼlumot oling
 
 ##
 
@@ -127,6 +127,10 @@ newtab-label-removed-bookmark = Xatchoʻp olib tashlandi
 newtab-label-recommended = Trendda
 newtab-label-saved = { -pocket-brand-name } xizmatiga saqlandi
 newtab-label-download = Yuklab olindi
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Reklama huquqi asosida
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -179,6 +183,7 @@ newtab-discovery-empty-section-topstories-timed-out = Obbo! Biz deyarli bu qismn
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Mashhur mavzular:
 newtab-pocket-more-recommendations = Yana tavsiyalar
+newtab-pocket-learn-more = Batafsil
 newtab-pocket-cta-button = { -pocket-brand-name }ni yuklab olish
 newtab-pocket-cta-text = Sizga yoqqan maqolalarni { -pocket-brand-name } xizmatiga saqlab qoʻying va maroqli oʻqib, tafakkuringizni rivojlantiring
 

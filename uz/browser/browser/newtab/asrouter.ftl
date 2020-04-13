@@ -157,14 +157,19 @@ cfr-whatsnew-fingerprinter-counter-body-alt = Reklama profilingizni tuzish amall
 
 cfr-doorhanger-sync-bookmarks-header = Bu xatchoʻpni telefoningizga oʻtkazing
 cfr-doorhanger-sync-bookmarks-body = Xatchoʻp, parol va tarix kabilardan istalgan yerda { -brand-product-name } orqali foydalaning.
+cfr-doorhanger-sync-bookmarks-ok-button = { -sync-brand-short-name }ni yoqish
+    .accesskey = y
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Parolingizni boshqa hech qachon yoddan chiqarmang
+cfr-doorhanger-sync-logins-body = Parollaringizni ishonchli saqlang va barcha qurilmalaringizga sinxronlang.
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Yoʻl-yoʻlakay oʻqing
 cfr-doorhanger-send-tab-recipe-header = Bu retseptdan oshxonada foydalaning
+cfr-doorhanger-send-tab-body = Varaqlarni yuborish orqali havolalarni osongina telefoningizga va boshqa qurilmalaringiz ulashish va har qanday joydan { -brand-product-name } hisobiga kirib foydalanish imkoniga ega boʻlasiz.
 cfr-doorhanger-send-tab-ok-button = Varaqlarni yuborishni sinang
     .accesskey = V
 

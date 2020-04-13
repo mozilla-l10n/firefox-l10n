@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Kengaytmani qoʻshish
 onboarding-import-browser-settings-title = Xatxhoʻp va parol kabilarni import qilish
 onboarding-import-browser-settings-text = Chrome sozlamalari va u orqali kiritlgan saytlarni osongina import qiing.
 onboarding-import-browser-settings-button = Chrome maʼlumotlarini import qilish
+onboarding-personal-data-promise-button = Vaʼdamizni oʻqing
 
 ## Message strings belonging to the Return to AMO flow
 
