@@ -175,6 +175,7 @@ about-logins-breach-alert-learn-more-link = Les meir
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Sårbart passord
+about-logins-vulnerable-alert-text2 = Dette passordet har blitt brukt på ein annen konto som sannsynlegvis var i ein datalekkasje. Å bruke oppattt legitimasjon er ein risiko på alle kontoane dine. Endre passordet.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Gå til { $hostname }
