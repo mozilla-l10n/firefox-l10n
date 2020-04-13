@@ -14,7 +14,7 @@
 <!ENTITY deniedPortAccess.longDesc "<p>Zatražena adresa ima definiran ulaz (npr. <q>mozilla.org:80</q> za ulaz 80 na mozilla.org) koji se inače koristi za <em>druge</em> radnje, a ne pretraživanje. Pretraživač je prekinuo zahtjev za tvoje zaštite i sigurnosti.</p>">
 
 <!ENTITY dnsNotFound.title "Adresa nije pronađena">
-<!ENTITY dnsNotFound.longDesc "<p>Preglednik nije pronašao poslužitelja za danu adresu.</p><ul><li>Jeste li napravili grešku prilikom upisa adrese? (npr. <q><strong>ww</strong>.mozilla.org</q> umjesto <q><strong>www</strong>mozilla.org</q>)</li><li>Jeste li sigurni da ova domena postoji? Možda joj je istekla registracija.</li><li>Ne možete pregledati i druge stranice? Provjerite mrežne postavke i postavke DNS poslužitelja.</li><li>Je li vaše računalo zaštićeno vatrozidom ili proxyem? Neispravne postavke mogu onemoućiti pretraživanje.</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<p>Preglednik nije pronašao poslužitelja za navedenu adresu.</p><ul><li>Je li adresa krivo upisana? (npr. <q><strong>ww</strong>.mozilla.org</q> umjesto <q><strong>www</strong>mozilla.org</q>)</li><li>Je li ova domena stvarno postoji? Možda joj je istekla registracija.</li><li>Ne možeš pregledati druge stranice? Provjeri mrežne postavke i postavke DNS poslužitelja.</li><li>Je li tvoje računalo zaštićeno vatrozidom ili proxyem? Neispravne postavke mogu onemogućiti pregledavanje.</li></ul>">
 
 <!ENTITY fileNotFound.title "Datoteka nije pronađena">
 <!ENTITY fileNotFound.longDesc "<ul><li>Možda je uklonjena, premještena ili joj je ime promijenjeno?</li><li>Postoji li pravopisna ili nekakva tipografska greška?</li><li>Imate li dovoljna prava za pristup traženoj datoteci?</li></ul>">
@@ -59,7 +59,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Preglednik je postavljen da koristi proxy poslužitelj, ali ga nije moguće naći.</p><ul><li>Jesu li proxy postavke ispravne? Provjeri postavke i pokušaj ponovo.</li><li>Je li računalo povezano na aktivnu mrežu?</li><li>Ako još uvijek imaš problema, obrati se administratoru mreže ili pružatelju internet usluge.</li></ul>">
 
 <!ENTITY redirectLoop.title "Petlja preusmjeravanja">
-<!ENTITY redirectLoop.longDesc "<p>Preglednik je odustao od dohvaćanja zatražene stranice. Stranica preusmjerava zahtjev na takav način da on nikada ne može biti ispunjen.</p><ul><li>Jeste li onemogućili ili blokirali kolačiće za ovu stranicu?</li><li><em>OPASKA</em>: Ako prihvaćanje kolačića stranice ne riješi problem, vrlo je vjerojatno problem s konfiguracijom poslužitelja, a ne vašeg računala.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Preglednik je odustao od dohvaćanja zatražene stranice. Stranica preusmjerava zahtjev na takav način, da on nikada ne može biti ispunjen.</p><ul><li>Jesu li kolačići za ovu stranicu deaktivirani ili blokirani?</li><li><em>OPASKA</em>: Ako prihvaćanje kolačića stranice ne riješi problem, vrlo vjerojatno se radi o probleu s konfiguracijom poslužitelja, a ne tvog računala.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Neispravan odgovor">
 <!ENTITY unknownSocketType.longDesc "<p>Stranica je na mreži zahtjev odgovorila na neočekivani način, te stoga pretraživač ne može nastaviti.</p>">
@@ -88,7 +88,7 @@
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Vaša veza nije sigurna">
+<!ENTITY inadequateSecurityError.title "Tvoja veza nije sigurna">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti poslužitelj prije nego možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
