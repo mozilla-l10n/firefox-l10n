@@ -20,7 +20,7 @@
 
 <!ENTITY  chooseHandlerMac.label      "Odaberi...">
 <!ENTITY  chooseHandlerMac.accesskey  "O">
-<!ENTITY  chooseHandler.label         "Pretraži...">
+<!ENTITY  chooseHandler.label         "Pregledaj …">
 <!ENTITY  chooseHandler.accesskey     "P">
 
 <!ENTITY  unknownPromptText.label     "Želite li spremiti ovu datoteku?">

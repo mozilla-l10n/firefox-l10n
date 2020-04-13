@@ -50,7 +50,7 @@ load-device-filename =
     .value = Naziv datoteke modula
     .accesskey = d
 load-device-browse =
-    .label = Pretraži...
+    .label = Pregledaj …
     .accesskey = P
 
 ## Token Manager

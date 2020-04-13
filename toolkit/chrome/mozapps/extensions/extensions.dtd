@@ -67,7 +67,7 @@
 
 <!ENTITY addon.createdBy.label                "Od ">
 
-<!ENTITY settings.path.button.label           "Pretraži…">
+<!ENTITY settings.path.button.label           "Pregledaj …">
 
 <!-- addon actions -->
 <!ENTITY setting.learnmore "Saznaj više …">
