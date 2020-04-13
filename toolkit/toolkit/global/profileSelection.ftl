@@ -20,7 +20,7 @@ profile-selection-delete-button =
 
 ## Messages used in the profile manager
 
-profile-manager-description = { -brand-short-name } sprema informacije o vašim postavkama, osobitostima i ostale korisničke stavke u vaš korisnički profil.
+profile-manager-description = { -brand-short-name } sprema informacije o tvojim postavkama, osobitostima i ostale korisničke stavke u tvoj korisnički profil.
 profile-manager-work-offline =
     .label = Izvanmrežni rad
     .accesskey = I

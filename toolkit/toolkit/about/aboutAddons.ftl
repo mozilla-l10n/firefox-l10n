@@ -106,7 +106,7 @@ detail-private-disallowed-description2 = Ovaj dodatak se ne pokreće tijekom pri
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Zahtjeva pristup u privatnim prozorima
 detail-private-required-description = Ovaj dodatak ima pristup tvojoj aktivnosti dok si u privatnom pretraživanju. <label data-l10n-name="detail-private-browsing-learn-more">Saznaj više</label>
-detail-private-required-description2 = Ovo proširenje ima pristup vašim internetskim aktivnostima tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
+detail-private-required-description2 = Ovo proširenje ima pristup tvojim internetskim aktivnostima tijekom privatnog pregledavanja. <a data-l10n-name="learn-more">Saznaj više</a>
 detail-private-browsing-on =
     .label = Dozvoli
     .tooltiptext = Omogući u privatnom pretraživanju
@@ -246,7 +246,7 @@ addon-updates-reset-updates-to-manual = Postavi ručno ažuriranje za sve dodatk
 extensions-updates-updating =
     .value = Ažuriranje dodataka
 extensions-updates-installed =
-    .value = Vaši su dodaci ažurirani.
+    .value = Tvoji su dodaci aktualizirani.
 extensions-updates-downloaded =
     .value = Dopune za tvoje dodatke su preuzete.
 extensions-updates-restart =
@@ -259,7 +259,7 @@ extensions-updates-update-selected =
     .label = Instaliraj dopune
     .tooltiptext = Instaliraj dostupne dopune s ovog popisa
 addon-updates-updating = Ažuriranje dodataka
-addon-updates-installed = Vaši su dodaci ažurirani.
+addon-updates-installed = Tvoji su dodaci aktualizirani.
 addon-updates-none-found = Nema dopuna
 addon-updates-manual-updates-found = Prikaži dostupne dopune
 
