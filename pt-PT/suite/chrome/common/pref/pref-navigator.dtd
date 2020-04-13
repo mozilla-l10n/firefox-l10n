@@ -28,7 +28,7 @@
 <!ENTITY restoreTabs.label              "Restaurar">
 <!ENTITY restoreTabs.accesskey          "s">
 <!ENTITY restoreTabsAtATime.label       "separador(es) de uma vez">
-<!ENTITY restoreDeferred.label          "Apenas restaurar separadores quando eu precisar deles">
+<!ENTITY restoreDeferred.label          "Apenas restaurar separadores quando eu precisar dos mesmos">
 <!ENTITY restoreDeferred.accesskey      "o">
 
 <!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-lhe para este grupo de páginas:">
