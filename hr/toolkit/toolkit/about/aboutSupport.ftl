@@ -74,7 +74,7 @@ modified-key-prefs-title = Važne izmijenjene postavke
 modified-prefs-name = Naziv
 modified-prefs-value = Vrijednost
 user-js-title = user.js osobitosti
-user-js-description = Vaš profil sadrži <a data-l10n-name="user-js-link">user.js datoteku</a>, koja uključuje osobitosti koje nije stvorio { -brand-short-name }.
+user-js-description = Tvoj profil sadrži <a data-l10n-name="user-js-link">user.js datoteku</a>, koja uključuje osobitosti koje nije stvorio { -brand-short-name }.
 locked-key-prefs-title = Važne zaključane postavke
 locked-prefs-name = Naziv
 locked-prefs-value = Vrijednost
@@ -211,7 +211,7 @@ text-copied = Tekst kopiran u međuspremnik
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Blokirano zbog verzije upravljačkog programa grafičke kartice.
-blocked-gfx-card = Blokirano za vašu grafičku karticu zbog neriješenih problema s upravljačkim programom.
+blocked-gfx-card = Blokirano za tvoju grafičku karticu zbog neriješenih problema s upravljačkim programom.
 blocked-os-version = Blokirano za verziju tvog operacijskog sustava.
 blocked-mismatched-version = Blokiran zbog nepodudaranja verzije upravljačkog programa tvoje grafičke kartice između registra i DLL-a.
 # Variables
