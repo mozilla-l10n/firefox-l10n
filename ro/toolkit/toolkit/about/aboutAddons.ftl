@@ -284,6 +284,7 @@ shortcuts-no-commands = Următoarele extensii nu au comenzi rapide:
 shortcuts-input =
     .placeholder = Tastează o comandă rapidă
 shortcuts-browserAction = Activează extensia
+shortcuts-browserAction2 = Activează butonul pentru bara de unelte
 shortcuts-pageAction = Activează acțiunea pe pagină
 shortcuts-sidebarAction = Comută bara laterală
 shortcuts-modifier-mac = Include Ctrl, Alt sau ⌘

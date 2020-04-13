@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Navigare privată)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Navigare privată)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navigare privată)
        *[other] { $title } - { -brand-full-name } (Navigare privată)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Vezi informații despre site
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Scrii mai puțin, găsești mai multe: caută cu { $engineName } direct în bara de adrese.
-urlbar-search-tips-redirect = Începe căutarea aici ca să vezi sugestii de la { $engineName } și din istoricul de navigare.
 urlbar-search-tips-redirect-2 = Începe căutarea în bara de adrese ca să vezi sugestii de la { $engineName } și din istoricul tău de navigare.
+
+##
+
 
 ##
 
@@ -170,6 +153,8 @@ page-action-manage-extension =
     .label = Gestionează extensia…
 page-action-remove-from-urlbar =
     .label = Elimină din bara de adresă
+page-action-remove-extension =
+    .label = Elimină extensia
 
 ## Auto-hide Context Menu
 
