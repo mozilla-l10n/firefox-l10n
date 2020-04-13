@@ -159,6 +159,10 @@ onboarding-import-browser-settings-title = Importér dine bogmærker, adgangskod
 onboarding-import-browser-settings-text = Kom nemt i gang - og tag dine indstillinger fra Chrome med dig
 onboarding-import-browser-settings-button = Importér data fra Chrome
 
+onboarding-personal-data-promise-title = Beskytter dit privatliv
+onboarding-personal-data-promise-text = { -brand-product-name } behandler dine data med respekt ved at gemme mindre, beskytte det og ved at være åbne om, hvordan vi bruger dem.
+onboarding-personal-data-promise-button = Læs vores løfte
+
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Fremragende, du har { -brand-short-name }

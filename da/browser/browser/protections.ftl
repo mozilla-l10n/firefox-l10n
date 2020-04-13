@@ -57,6 +57,9 @@ fingerprinter-tab-content = Fingerprinters indsamler indstillinger fra din brows
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers bruger din computers ressourcer til at udvinde digital valuta. Cryptomining-scripts gør din computer langsommere og får den til at bruge mere strøm, og de kan dermed dræne dit batteri. <a data-l10n-name="learn-more-link">Læs mere</a>
 
+protections-close-button =
+  .aria-label = Luk
+
 mobile-app-title = Bloker sporing fra reklamer på alle enheder
 mobile-app-card-content = Brug mobil-browseren med indbygget beskyttelse mod sporing fra reklamer.
 mobile-app-links = { -brand-product-name }-browser til <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -67,7 +70,6 @@ lockwise-header-content = { -lockwise-brand-name } gemmer dine adgangskoder i di
 lockwise-header-content-logged-in = Gem og synkroniser dine adgangskoder på alle dine enheder.
 protection-report-view-logins-button = Vis logins
     .title = Gå til gemte logins
-lockwise-no-logins-content = Hent <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app'en for at tage dine adgangskoder med overalt.
 
 lockwise-mobile-app-title = Tag dine adgangskoder med overalt
 lockwise-no-logins-card-content = Brug adgangskoder gemt i { -brand-short-name } på enhver enhed.

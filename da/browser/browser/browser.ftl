@@ -108,7 +108,6 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tast mindre, find mere: Søg med { $engineName } direkte i adressefeltet.
-urlbar-search-tips-redirect = Start din søgning her for at få forslag fra { $engineName } og din browserhistorik.
 
 urlbar-search-tips-redirect-2 = Start din søgning i adressefeltet for at få forslag fra { $engineName } og din browserhistorik.
 
@@ -155,6 +154,9 @@ page-action-manage-extension =
     .label = Håndter udvidelse…
 page-action-remove-from-urlbar =
     .label = Fjern fra adressefeltet
+
+page-action-remove-extension =
+    .label = Fjern udvidelse
 
 ## Auto-hide Context Menu
 

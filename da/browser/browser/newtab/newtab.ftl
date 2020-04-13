@@ -60,6 +60,11 @@ newtab-menu-section-tooltip =
     .title = Åbn menu
     .aria-label = Åbn menu
 
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Fjern
+    .aria-label = Fjern
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -194,7 +199,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hov. Det lykkedes ikke at 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populære emner:
 newtab-pocket-more-recommendations = Flere anbefalinger
-newtab-pocket-whats-pocket = Hvad er { -pocket-brand-name }?
 newtab-pocket-learn-more = Læs mere
 newtab-pocket-cta-button = Hent { -pocket-brand-name }
 newtab-pocket-cta-text = Gem dine yndlingshistorier i { -pocket-brand-name } og hav dem altid ved hånden.

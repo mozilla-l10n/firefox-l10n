@@ -41,6 +41,8 @@ policy-DisableAppUpdate = Deaktiver opdatering af browseren.
 
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, den indbyggede PDF-viser i { -brand-short-name }.
 
+policy-DisableDefaultBrowserAgent = Forhindr standard browser-agenten fra at foretage handlinger. Fungerer kun på Windows; andre platforme har ikke agenten.
+
 policy-DisableDeveloperTools = Bloker adgang til Udviklerværktøj.
 
 policy-DisableFeedbackCommands = Deaktiver kommandoer til at indsende feedback fra menuen Hjælp (Indsend feedback og Anmeld vildledende websted).
@@ -112,6 +114,12 @@ policy-Homepage = Indstil og lås eventuelt startsiden.
 policy-InstallAddonsPermission = Tillad bestemte websteder at installere tilføjelser.
 
 policy-LegacyProfiles = Deaktiver funktionen, der gennemtvinger at hver installation har en separat profil.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Aktiver standard-indstilling for forældet SameSite-opførsel. 
+
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbage til forældet SameSite-opførsel for cookies på bestemte websteder.
 
 policy-LocalFileLinks = Tillad specifikke websteder at linke til lokale filer.
 
