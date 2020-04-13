@@ -335,6 +335,7 @@ touch-enabled = mewnbwn cyffwrdd wedi ei alluogi
 drag-enabled = wedi galluogu llusgo bar sgrolio
 keyboard-enabled = bysellfwrdd wedi ei anlluogi
 autoscroll-enabled = galluogwyd awtosgrolio
+zooming-enabled = pinsio chwyddo llyfn wedi'i alluogi
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

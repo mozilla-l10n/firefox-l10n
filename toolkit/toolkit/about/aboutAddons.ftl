@@ -284,6 +284,7 @@ shortcuts-no-commands = Nid oes gan yr estyniadau canlynol lwybrau byr:
 shortcuts-input =
     .placeholder = Teipiwch llwybr byr
 shortcuts-browserAction = Cychwyn estyniad
+shortcuts-browserAction2 = Cychwyn botwm bar offer
 shortcuts-pageAction = Cychwyn gweithred tudalen
 shortcuts-sidebarAction = Toglo'r bar ochr
 shortcuts-modifier-mac = Cynnwys Ctrl, Alt, neu ⌘
