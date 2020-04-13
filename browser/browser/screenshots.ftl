@@ -18,18 +18,18 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Poveznica je kopirana
-screenshots-notification-link-copied-details = Poveznica do vaše snimke je kopirana u međuspremnik. Pristinite { screenshots-meta-key }-V da ju zalijepite.
+screenshots-notification-link-copied-details = Poveznica do tvoje snimke kopirana je u međuspremnik. Zalijepi je pomoću { screenshots-meta-key }-V.
 screenshots-notification-image-copied-title = Snimka kopirana
-screenshots-notification-image-copied-details = Vaša snimka je kopirana u međuspremnik. Pritisnite { screenshots-meta-key }-V da ju zalijepite.
+screenshots-notification-image-copied-details = Tvoja je snimka kopirana u međuspremnik. Zalijepi je pomoću { screenshots-meta-key }-V.
 screenshots-request-error-title = Ne radi.
 screenshots-request-error-details = Oprosti! Nismo uspjeli spremiti tvoju snimku. Pokušaj ponovo kasnije.
-screenshots-connection-error-title = Ne možemo se spojiti s vašim snimkama.
+screenshots-connection-error-title = Ne možemo se spojiti s tvojim snimkama.
 screenshots-connection-error-details = Provjeri internet vezu. Ako si uspješno povezan/a s internetom, možda postoji privremeni problem s uslugama { -screenshots-brand-name }.
 screenshots-login-error-details = Nismo uspjeli spremiti tvoju snimku, jer postoji problem s { -screenshots-brand-name } uslugom. Pokušaj ponovo kasnije.
 screenshots-unshootable-page-error-title = Ovu stranicu ne možemo snimiti.
 screenshots-unshootable-page-error-details = Ovo nije standardna Web stranica stoga ju ne možete snimiti.
 screenshots-self-screenshot-error-title = Ne možete snimiti { -screenshots-brand-name } stranicu!
-screenshots-empty-selection-error-title = Vaš odabir je premalen
+screenshots-empty-selection-error-title = Tvoj odabir je premalen
 screenshots-private-window-error-title = { -screenshots-brand-name } je deaktivirano u modusu privatnog pregledavanja
 screenshots-private-window-error-details = Žao nam je na neugodnosti. Radimo na ovoj mogućnosti za buduća izdanja.
 screenshots-generic-error-title = Uf! { -screenshots-brand-name } se zbrkao.

@@ -148,7 +148,7 @@ onboarding-import-browser-settings-title = Uvezi svoje zabilješke, lozinke i jo
 onboarding-import-browser-settings-text = Uronite — jednostavno prenesite svoje Chrome stranice i postavke.
 onboarding-import-browser-settings-button = Uvoz podataka iz Chromea
 onboarding-personal-data-promise-title = Privatno po dizajnu
-onboarding-personal-data-promise-text = { -brand-product-name } postupa s vašim podaci s poštovanjem na način da traži samo najosnovnije podatke, štiti ih i jasno objašnjava na koji način ih koristi.
+onboarding-personal-data-promise-text = { -brand-product-name } poštuje tvoje podatke – traži samo najosnovnije podatke, štiti ih i jasno objašnjava na koji način ih koristi.
 onboarding-personal-data-promise-button = Pročitajte naše obećanje
 
 ## Message strings belonging to the Return to AMO flow
