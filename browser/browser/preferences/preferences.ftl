@@ -250,7 +250,7 @@ download-choose-folder =
     .label =
         { PLATFORM() ->
             [macos] Odaberi …
-           *[other] Pretraži …
+           *[other] Pregledaj …
         }
     .accesskey =
         { PLATFORM() ->
@@ -356,7 +356,7 @@ update-application-use-service =
     .label = Koristi pozadinski servis za instalaciju dopuna
     .accesskey = K
 update-enable-search-update =
-    .label = Automatski ažuriraj pretraživače
+    .label = Automatski aktualiziraj tražilice
     .accesskey = e
 update-pref-write-failure-title = Greška prilikom zapisivanja
 # Variables:
@@ -421,7 +421,7 @@ browsing-picture-in-picture-toggle-enabled =
     .accesskey = O
 browsing-picture-in-picture-learn-more = Saznaj više
 browsing-cfr-recommendations =
-    .label = Preporučuj dodatke dok pretražujem
+    .label = Preporuči dodatke tijekom pregledavanja
     .accesskey = r
 browsing-cfr-features =
     .label = Preporuči mogućnosti tijekom pregledavanja
@@ -545,15 +545,15 @@ search-show-suggestions-url-bar-option =
 # "ahead" refers to location (appearing most proximate to), not time
 # (appearing before).
 search-show-suggestions-above-history-option =
-    .label = U adresnoj traci prikaži prijedloge za pretraživanje ispred povijesti pregledavanja
+    .label = U adresnoj traci prikaži prijedloge za pretraživanje prije povijesti pregledavanja
 search-show-suggestions-private-windows =
-    .label = Prikaži prijedloge za pretraživanje u Privatnom pretraživanju
+    .label = Prikaži prijedloge za pretraživanje u privatnim prozorima
 suggestions-addressbar-settings = Promijeni postavke za povijest pregledavanja, zabilješke i prijedloge za kartice
-search-suggestions-cant-show = Sugestije pretraživanja neće biti prikazane u lokacijskoj traci jer ste podesili { -brand-short-name } da ne pamti povijest.
-search-one-click-header = Pretraživači na jedan klik
-search-one-click-desc = Odaberi alternativne pretraživače koji će se pojaviti ispod adresne trake i trake pretraživanja kad započneš upisivati pojmove.
+search-suggestions-cant-show = Prijedlozi pretraživanja neće biti prikazani u lokacijskoj traci, jer je { -brand-short-name } podešen, da ne pamti povijest.
+search-one-click-header = Tražilice jednim klikom
+search-one-click-desc = Odaberi alternativne tražilice, koje će se pojaviti ispod adresne trake i trake pretraživanja kad počneš upisivati pojmove.
 search-choose-engine-column =
-    .label = Pretraživač
+    .label = Tražilica
 search-choose-keyword-column =
     .label = Ključna riječ
 search-restore-default =
@@ -818,7 +818,7 @@ history-remember-option-never =
 history-remember-option-custom =
     .label = koristiti prilagođene postavke za povijest
 history-remember-description = { -brand-short-name } će zapamtiti tvoju povijest pregledavanja, preuzimanja, obrazaca i pretraživanja.
-history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pretraživanje, te neće pamtiti povijest pretraživanja.
+history-dontremember-description = { -brand-short-name } će koristiti iste postavke kao i za privatno pregledavanje, te neće pamtiti povijest pregledavanja.
 history-private-browsing-permanent =
     .label = Uvijek koristi privatno pregledavanje
     .accesskey = v
