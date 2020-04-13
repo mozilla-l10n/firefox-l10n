@@ -74,3 +74,18 @@ config-integer =
 config-boolean =
     .label = Բուլեան
     .accesskey = Բ
+config-default = լռելեյայն
+config-modified = փոփոխուած
+config-locked = փակուած
+config-property-string = ծրագրատող
+config-property-int = ամբողջ
+config-property-bool = բուլեան
+config-new-prompt = Մուտքագրեք նախապատուութեան անուանումը
+config-nan-title = Անվաւեր արժէք
+config-nan-text = Ձեր մուտքագրած գրաշարը թիւ չէ:
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-new-title = Նոր { $type } արժէք
+# Variables:
+#   $type (String): type of value (boolean, integer or string)
+config-modify-title = Մուտքագրէք { $type } արժէքը
