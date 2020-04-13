@@ -92,6 +92,6 @@ inadequateSecurityError-title = Ваше з'єднання незахищене
 blockedByPolicy-title = Заблокована сторінка
 clockSkewError-title = Годинник вашого комп'ютера налаштовано неправильно
 networkProtocolError-title = Помилка мережевого протоколу
-nssBadCert-title = Попередження: Попереду ймовірна загроза безпеки
+nssBadCert-title = Попередження: Попереду ймовірна загроза безпеці
 nssBadCert-sts-title = З'єднання не встановлено: Ймовірна загроза безпеці
 certerror-mitm-title = Програмне забезпечення не дозволяє { -brand-short-name } безпечно з'єднатися з цим сайтом

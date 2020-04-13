@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Невдала спроба з’єднання">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Звернення до даної адреси заборонено">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Сервер не знайдено">
@@ -33,6 +35,7 @@
 ">
 
 <!ENTITY fileNotFound.title "Файл не знайдено">
+
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Перевірте правильність назви файлу, відповідність регістру та відсутність інших помилок.</li>
@@ -41,6 +44,7 @@
 ">
 
 <!ENTITY fileAccessDenied.title "Доступ до файлу було заборонено">
+
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Він міг бути вилучений, переміщений, або дозволи файлу забороняють доступ.</li>
@@ -48,6 +52,7 @@
 ">
 
 <!ENTITY generic.title "Помилка">
+
 <!ENTITY generic.longDesc "
 <p>&brandShortName; не може завантажити цю сторінку з невизначеної причини.</p>
 ">
@@ -64,12 +69,15 @@
 <!ENTITY malformedURI.title1 "Гмм. Схоже, ця адреса неправильна.">
 
 <!ENTITY netInterrupt.title "З’єднання перервано">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Документ застарів">
+
 <!ENTITY notCached.longDesc "<p>Вказаний документ більше недоступний у кеші &brandShortName;.</p><ul><li>З міркувань безпеки, &brandShortName; не перезавантажує чутливі документи автоматично.</li><li>Клацніть «Спробувати знову» щоб перезавантажити документ з сайта.</li></ul>">
 
 <!ENTITY netOffline.title "Автономний режим">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Натисніть «Спробувати знову» щоб перемкнутись в онлайновий режим і перезавантажити сторінку.</li>
@@ -77,6 +85,7 @@
 ">
 
 <!ENTITY contentEncodingError.title "Помилка кодування вмісту">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Будь ласка, зв'яжіться з власниками вебсайту і повідомте їх про цю проблему.</li>
@@ -84,6 +93,7 @@
 ">
 
 <!ENTITY unsafeContentType.title "Небезпечний тип файла">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Будь ласка, зв'яжіться з власниками вебсайту і повідомте їх про цю проблему.</li>
@@ -91,12 +101,15 @@
 ">
 
 <!ENTITY netReset.title "З’єднання скинуто">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Перевищено термін очікування з’єднання">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Незрозуміла адреса">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Для відкриття цієї адреси вам, можливо, доведеться встановити стороннє програмне забезпечення.</li>
@@ -104,6 +117,7 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "Проксі-сервер відмовляється приймати з’єднання">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Перевірте налаштування проксі-сервера і переконайтеся, що вони правильні.</li>
@@ -113,6 +127,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Неможливо знайти проксі-сервер">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Перевірте правильність встановлених налаштувань проксі-сервера.</li>
@@ -123,6 +138,7 @@
 ">
 
 <!ENTITY redirectLoop.title "Невірне перенаправлення на сторінці">
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Ця проблема може виникати при вимиканні або забороні прийняття
@@ -131,6 +147,7 @@
 ">
 
 <!ENTITY unknownSocketType.title "Невідома/невпізнана відповідь сервера">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Переконайтеся, що у вашій системі встановлено Менеджер особистого
@@ -140,6 +157,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Не вдалось встановити безпечне з’єднання">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Сторінка, яку ви намагаєтесь переглянути, не може бути показана, тому що неможливо перевірити достовірність отриманих даних.</li>
@@ -147,8 +165,9 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle2 "Попередження: Попереду ймовірна загроза безпеки">
-<!ENTITY certerror.sts.longpagetitle  "З'єднання не встановлено: Потенційна загроза безпеки">
+<!ENTITY certerror.longpagetitle2 "Попередження: Попереду ймовірна загроза безпеці">
+<!ENTITY certerror.sts.longpagetitle  "З'єднання не встановлено: Потенційна загроза безпеці">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -187,12 +206,15 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Заблоковано політикою безпеки вмісту">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці бути завантаженою таким чином, через те що її політика безпеки вмісту не дозволяє зробити це.</p>">
 
 <!ENTITY xfoBlocked.title "Блокується політикою X-Frame-Options">
+
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; не дозволив цій сторінці завантажитись таким чином, тому що вона має політику X-Frame-Options, що забороняє це.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Помилка пошкодженого вмісту">
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Сторінка, яку ви намагаєтесь переглянути, не може бути показана через те, що було виявлено помилку в передачі даних.</p><ul><li>Будь ласка, зв'яжіться з власниками вебсайту та повідомте їх про цю проблему.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Погодитись на ризик і продовжити">
@@ -201,19 +223,22 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Докладніше…">
 
 <!ENTITY remoteXUL.title "Віддалений XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Будь ласка, зв’яжіться з власниками сайта та поінформуйте їх про цю проблему.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Неможливо безпечно з’єднатися">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Додаткова інформація: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY certerror.pagetitle2  "Попередження: Попереду ймовірна загроза безпеки">
-<!ENTITY certerror.sts.pagetitle  "З'єднання не встановлено: Потенційна загроза безпеки">
+<!ENTITY certerror.pagetitle2  "Попередження: Попереду ймовірна загроза безпеці">
+<!ENTITY certerror.sts.pagetitle  "З'єднання не встановлено: Потенційна загроза безпеці">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> має політику безпеки, що називається HTTP Strict Transport Security (HSTS), і це означає, що &brandShortName; може перейти сюди лише з використанням захищеного з'єднання. Ви не можете додати виняток для відвідування цього сайту.">
 <!ENTITY certerror.copyToClipboard.label "Копіювати текст у буфер обміну">
 
 <!ENTITY inadequateSecurityError.title "Ваше з'єднання незахищене">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> використовує застарілу і вразливу до атак технологію безпеки. Нападник може з легкістю викрити інформацію, яка, на вашу думку, знаходиться в безпеці. Адміністратору сайту доведеться спочатку виправити це на сервері перш, ніж ви зможете відвідати сайт.</p><p>Код помилки: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -221,6 +246,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Заблокована сторінка">
 
 <!ENTITY certerror.mitm.title "Програмне забезпечення не дозволяє &brandShortName; безпечно з'єднатися з цим сайтом">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span>, найімовірніше, є безпечним сайтом, але захищене з'єднання не вдалося встановити. Ця проблема спричинена <span class='mitm-name'/> - програмним забезпеченням на вашому комп'ютері чи у вашій мережі.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Якщо ваше антивірусне програмне забезпечення має функцію сканування зашифрованих з'єднань (веб-сканер чи https-сканер), ви можете вимкнути її. Якщо це не спрацює, ви можете спробувати перевстановити антивірусне програмне забезпечення.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Якщо ви знаходитесь в корпоративній мережі, зв'яжіться зі своїм адміністратором.">
@@ -228,6 +254,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Якщо ви не знайомі з <span class='mitm-name'/>, в такому разі це могла бути атака і ви нічого не зможете зробити, щоб отримати доступ до цього сайту.">
 
 <!ENTITY clockSkewError.title "Годинник вашого комп'ютера налаштовано неправильно">
+
 <!ENTITY clockSkewError.longDesc "Ваш комп'ютер вважає, що це <span id='wrongSystemTime_systemDate1'/>, тому &brandShortName; не може встановити захищене з'єднання. Для відвідання <span class='hostname'></span>, оновіть системні налаштування дати, часу та часового поясу, після чого оновіть <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Схоже, що це можуть спричиняти ваші налаштування безпеки мережі. Чи хочете ви, щоб були відновлені типові налаштування?">
@@ -238,4 +265,5 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "Увімкнути TLS 1.0 і 1.1">
 
 <!ENTITY networkProtocolError.title "Помилка мережевого протоколу">
+
 <!ENTITY networkProtocolError.longDesc "<p>Неможливо відобразити сторінку, яку ви намагаєтесь переглянути, тому що виявлено помилку мережевого протоколу.</p><ul><li>Зв'яжіться з власниками вебсайту, щоб повідомити їх про цю проблему.</li></ul>">
