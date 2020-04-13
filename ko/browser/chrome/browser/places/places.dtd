@@ -58,7 +58,7 @@
 <!ENTITY cmd.properties.label      "속성">
 <!ENTITY cmd.properties.accesskey  "i">
 
-<!ENTITY cmd.sortby_name.label              "이름으로 정렬">
+<!ENTITY cmd.sortby_name.label              "이름순 정렬">
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
@@ -95,13 +95,13 @@
 
 <!ENTITY view.label               "보기">
 <!ENTITY view.accesskey           "w">
-<!ENTITY byDate.label             "날짜 순서로">
+<!ENTITY byDate.label             "날짜순">
 <!ENTITY byDate.accesskey         "D">
-<!ENTITY bySite.label             "사이트 순서로">
+<!ENTITY bySite.label             "사이트순">
 <!ENTITY bySite.accesskey         "S">
-<!ENTITY byMostVisited.label      "자주 방문한 순서로">
+<!ENTITY byMostVisited.label      "자주 방문순">
 <!ENTITY byMostVisited.accesskey  "V">
-<!ENTITY byLastVisited.label      "마지막 방문한 순서로">
+<!ENTITY byLastVisited.label      "마지막 방문순">
 <!ENTITY byLastVisited.accesskey  "L">
-<!ENTITY byDayAndSite.label       "날짜 및 사이트 순서로">
+<!ENTITY byDayAndSite.label       "날짜 및 사이트순">
 <!ENTITY byDayAndSite.accesskey   "t">
