@@ -286,6 +286,7 @@ shortcuts-no-commands = Ko’ã jepysokue ndoguerekói jeike pya’eha:
 shortcuts-input =
     .placeholder = Ehai peteĩ mbopya'eha
 shortcuts-browserAction = Emyandy jepysokue
+shortcuts-browserAction2 = Emyandy votõ tembipuru renda
 shortcuts-pageAction = Emyandy kuatiarogue ñemongu’e
 shortcuts-sidebarAction = Embojopyru tenda yke
 shortcuts-modifier-mac = Emoinge Ctrl, Alt o ⌘

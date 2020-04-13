@@ -315,6 +315,7 @@ touch-enabled = jeikeha jepokóva jurujapyre
 drag-enabled = embosyryry oku'éva renda myendypyre
 keyboard-enabled = tairenda myandypyre
 autoscroll-enabled = ñemongu'e ijeheguíva ijurujáma
+zooming-enabled = zoom ñepichã’i myandypyre
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
