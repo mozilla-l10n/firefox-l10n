@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Privatno pregledavanje)
        *[other] { $title } - { -brand-full-name } (Privatno pregledavanje)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Prikaži informacije o stranici
 
@@ -94,7 +91,7 @@ urlbar-persistent-storage-notification-anchor =
 urlbar-addons-notification-anchor =
     .tooltiptext = Otvori ploču s informacijama o instaliranim dodacima
 urlbar-tip-help-icon =
-    .title = Potražite pomoć
+    .title = Potraži pomoć
 urlbar-search-tips-confirm = U redu, razumijem
 # Read out before Urlbar Tip text content so screenreader users know the
 # subsequent text is a tip offered by the browser. It should end in a colon or
@@ -109,6 +106,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tipkaj manje, nađi više: Traži { $engineName } direktno u tvojoj adresnoj traci.
 urlbar-search-tips-redirect-2 = Započni tvoju pretragu u adresnoj traci da biste vidjeli prijedloge od { $engineName } i tvoju povijest pregledavanja.
+
+##
+
 
 ##
 
