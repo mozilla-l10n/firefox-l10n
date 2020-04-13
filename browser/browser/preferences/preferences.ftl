@@ -600,7 +600,7 @@ containers-remove-button =
 
 sync-signedout-caption = Ponesi svoj web sa sobom
 sync-signedout-description = Sinkroniziraj tvoje zabilješke, povijest, kartice, lozinke, dodatke i postavke na sve svoje uređaje.
-sync-signedout-account-title = Povežite se sa { -fxaccount-brand-name }
+sync-signedout-account-title = Poveži se sa { -fxaccount-brand-name }
 sync-signedout-account-create = Nemate račun? Započnite
     .accesskey = r
 sync-signedout-account-signin =
