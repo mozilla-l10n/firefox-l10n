@@ -12,6 +12,10 @@
 <!ENTITY alwaysEncryptMessage.label "Påkravd (alle mottakarar må ha sertifikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "P">
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet til å kryptera og dekryptera meldingar sendt til deg:">
+
+
+
+
 <!ENTITY digitalSign.certificate.button "Vel…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Tøm">
@@ -31,7 +35,17 @@
 <!ENTITY manageDevices.label "Tryggingseiningar">
 <!ENTITY manageDevices.accesskey "T">
 
+
+
+
+
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Vel sertifikat">
 <!ENTITY certPicker.info  "Sertifikat:">
 <!ENTITY certPicker.detailsLabel "Detaljar om valt sertifikat:">
+
+<!ENTITY openpgpKey.button "Still inn personleg nøkkel…">
+<!ENTITY openpgpKey.accesskey "o">
