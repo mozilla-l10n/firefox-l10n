@@ -163,6 +163,8 @@ cfr-doorhanger-sync-bookmarks-body = Xatchoʻp, parol va tarix kabilardan istalg
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Yoʻl-yoʻlakay oʻqing
+cfr-doorhanger-send-tab-recipe-header = Bu retseptdan oshxonada foydalaning
 cfr-doorhanger-send-tab-ok-button = Varaqlarni yuborishni sinang
     .accesskey = V
 
