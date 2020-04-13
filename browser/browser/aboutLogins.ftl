@@ -43,7 +43,7 @@ login-list-count =
     { $count ->
        *[other] { $count }회 로그인
     }
-login-list-sort-label-text = 정렬 방식:
+login-list-sort-label-text = 정렬 기준:
 login-list-name-option = 이름 (A-Z)
 login-list-name-reverse-option = 이름 (Z-A)
 login-list-breached-option = 유출된 웹 사이트
