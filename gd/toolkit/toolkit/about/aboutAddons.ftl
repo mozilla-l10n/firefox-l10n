@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Stàlaich tuilleadan o fhaidhle…
     .accesskey = i
 help-button = Taic nan tuilleadan
+sidebar-help-button-title =
+    .title = Taic nan tuilleadan
 preferences =
     { PLATFORM() ->
         [windows] Roghainnean { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Innealan airson a h-uile tuilleadan
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Roghainnean { -brand-short-name }
+           *[other] Roghainnean { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Bha leudachain ann nach b’ urrainn dhuinn dearbhadh
 show-all-extensions-button =
@@ -163,6 +171,8 @@ addon-category-extension = Leudachain
 addon-category-extension-title =
     .title = Leudachain
 addon-category-theme = Ùrlaran
+addon-category-theme-title =
+    .title = Ùrlaran
 addon-category-plugin = Plugain
 addon-category-plugin-title =
     .title = Plugain
@@ -309,6 +319,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Seall nas lugha
 go-back-button =
     .tooltiptext = Air ais
+header-back-button =
+    .title = Air ais
 
 ## Recommended add-ons page
 
