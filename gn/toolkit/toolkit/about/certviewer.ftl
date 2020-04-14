@@ -97,3 +97,12 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (juajuha)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Guerahauka
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Ne mboajepyre
+certificate-viewer-tab-people = Yvypóra
+certificate-viewer-tab-servers = Mohendahavusu
+certificate-viewer-tab-ca = Moakãhára
