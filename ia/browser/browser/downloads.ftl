@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Cancellar
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Aperir le dossier que lo contine
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = d
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Monstrar in Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Monstrar in Finder
+           *[other] Aperir le dossier que lo contine
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
