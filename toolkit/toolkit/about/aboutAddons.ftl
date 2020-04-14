@@ -147,11 +147,23 @@ extensions-view-available-updates =
     .name = පවතින යාවත්කාලීන
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = දිගුකිරීම්
+addon-category-extension-title =
+    .title = දිගුකිරීම්
 addon-category-plugin = ප්ලගීන
+addon-category-plugin-title =
+    .title = ප්ලගීන
 addon-category-dictionary = ශබ්දකෝෂයන්
+addon-category-dictionary-title =
+    .title = ශබ්දකෝෂයන්
 addon-category-locale = භාෂාවන්
+addon-category-locale-title =
+    .title = භාෂාවන්
 addon-category-available-updates = පවතින යාවත්කාලීන
+addon-category-available-updates-title =
+    .title = පවතින යාවත්කාලීන
 addon-category-recent-updates = මෑතකාලීන යාවත්කාලීන
+addon-category-recent-updates-title =
+    .title = මෑතකාලීන යාවත්කාලීන
 
 ## These are global warnings
 
