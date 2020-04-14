@@ -184,14 +184,26 @@ addon-category-discover = Oanrekommandaasjes
 addon-category-discover-title =
     .title = Oanrekommandaasjes
 addon-category-extension = Utwreidingen
+addon-category-extension-title =
+    .title = Utwreidingen
 addon-category-theme = Tema's
 addon-category-theme-title =
     .title = Tema's
 addon-category-plugin = Ynstekkers
+addon-category-plugin-title =
+    .title = Ynstekkers
 addon-category-dictionary = Wurdboeken
+addon-category-dictionary-title =
+    .title = Wurdboeken
 addon-category-locale = Talen
+addon-category-locale-title =
+    .title = Talen
 addon-category-available-updates = Beskikbere fernijingen
+addon-category-available-updates-title =
+    .title = Beskikbere fernijingen
 addon-category-recent-updates = Resinte fernijingen
+addon-category-recent-updates-title =
+    .title = Resinte fernijingen
 
 ## These are global warnings
 
