@@ -11,3 +11,6 @@ all-tabs-menu-new-user-context =
     .label = Nueva pestaña contenedora
 all-tabs-menu-hidden-tabs =
     .label = Pestañas ocultas
+all-tabs-menu-manage-user-context =
+    .label = Gestionar contenedores
+    .accesskey = O
