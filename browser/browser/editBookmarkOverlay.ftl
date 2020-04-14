@@ -5,6 +5,9 @@
 bookmark-overlay-name =
     .value = Navn:
     .accesskey = N
+bookmark-overlay-location =
+    .value = Adresse:
+    .accesskey = A
 bookmark-overlay-folder =
     .value = Mappe:
 bookmark-overlay-choose =
@@ -25,3 +28,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Vis alle mærkater
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Skjul
+bookmark-overlay-keyword =
+    .value = Genvej:
+    .accesskey = G
