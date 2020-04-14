@@ -166,12 +166,22 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = ਸਿਫਾਰਸ਼
 addon-category-extension = ਇਕਸਟੈਨਸ਼ਨ
+addon-category-extension-title =
+    .title = ਇਕਸਟੈਨਸ਼ਨ
 addon-category-theme = ਥੀਮ
 addon-category-plugin = ਪਲੱਗਇਨ
+addon-category-plugin-title =
+    .title = ਪਲੱਗਇਨ
 addon-category-dictionary = ਡਿਕਸ਼ਨਰੀਆਂ
+addon-category-dictionary-title =
+    .title = ਡਿਕਸ਼ਨਰੀਆਂ
 addon-category-locale = ਭਾਸ਼ਾਵਾਂ
+addon-category-locale-title =
+    .title = ਭਾਸ਼ਾਵਾਂ
 addon-category-available-updates = ਅੱਪਡੇਟ ਮੌਜੂਦ ਹਨ
 addon-category-recent-updates = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
+addon-category-recent-updates-title =
+    .title = ਤਾਜ਼ਾ ਅੱਪਡੇਟ
 
 ## These are global warnings
 
