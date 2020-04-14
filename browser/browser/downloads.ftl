@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = বাতিল
 downloads-cmd-cancel-panel =
     .aria-label = বাতিল
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = ধারণকারী ফোল্ডার খুলুন
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = দূরবীক্ষন যন্ত্রে প্রদর্শন
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] দূরবীক্ষন যন্ত্রে প্রদর্শন
+           *[other] ধারণকারী ফোল্ডার খুলুন
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
