@@ -275,6 +275,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostra meno
 go-back-button =
     .tooltiptext = Vanni inderê
+header-back-button =
+    .title = Vanni inderê
 
 ## Recommended add-ons page
 
