@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Tiyak ri tz'aqat rik'in ri yakb'äl…
     .accesskey = T
 help-button = Kitob'al Tz'aqat
+sidebar-help-button-title =
+    .title = Kitob'al Tz'aqat
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Taq Cha'oj
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Taq kisamajib'al konojel ri taq tz'aqat
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Taq Cha'oj
+           *[other] { -brand-short-name } Taq Ajowab'äl
+        }
 show-unsigned-extensions-button =
     .label = Jujun taq k'amal man tikirel ta yenik'öx
 show-all-extensions-button =
@@ -168,6 +176,8 @@ extensions-view-available-updates =
     .name = Taq k'exoj e k'o
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Taq chilab'enïk
+addon-category-discover-title =
+    .title = Taq chilab'enïk
 addon-category-extension = Taq k'amal
 addon-category-extension-title =
     .title = Taq k'amal
@@ -324,6 +334,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Tik'ut pe Jub'a'
 go-back-button =
     .tooltiptext = Titzolin
+header-back-button =
+    .title = Titzolin
 
 ## Recommended add-ons page
 
