@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Undo Close Tab
+all-tabs-menu-new-user-context =
+    .label = New Container Tab
