@@ -7,6 +7,8 @@ detail-home-value =
 detail-repository-value =
     .value = { detail-repository.label }
 addon-category-plugin = செருகல்கள்
+addon-category-plugin-title =
+    .title = செருகல்கள்
 
 ## These are global warnings
 
