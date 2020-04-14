@@ -4,3 +4,6 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Poništi zatvaranje kartice
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Pretraži kartice
