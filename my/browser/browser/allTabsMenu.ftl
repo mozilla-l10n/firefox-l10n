@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ
+all-tabs-menu-new-user-context =
+    .label = ကွန်တိန်နာတပ်ဗ်အသစ်
