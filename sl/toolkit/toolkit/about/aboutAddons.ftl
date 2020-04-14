@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Namesti dodatek iz datoteke …
     .accesskey = I
 help-button = Podpora za dodatke
+sidebar-help-button-title =
+    .title = Podpora za dodatke
 preferences =
     { PLATFORM() ->
         [windows] Možnosti { -brand-short-name }a
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Orodja za vse dodatke
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Možnosti { -brand-short-name }a
+           *[other] Nastavitve { -brand-short-name }a
+        }
 show-unsigned-extensions-button =
     .label = Nekaterih razširitev ni bilo mogoče potrditi
 show-all-extensions-button =
@@ -171,6 +179,8 @@ extensions-view-available-updates =
 addon-category-discover = Priporočila
 addon-category-extension = Razširitve
 addon-category-theme = Teme
+addon-category-theme-title =
+    .title = Teme
 addon-category-plugin = Vtičniki
 addon-category-plugin-title =
     .title = Vtičniki
