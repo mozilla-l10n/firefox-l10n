@@ -6,3 +6,6 @@ all-tabs-menu-undo-close-tab =
     .label = برگردان زبانه بسته شده
 all-tabs-menu-new-user-context =
     .label = زبانه حامل جدید
+all-tabs-menu-manage-user-context =
+    .label = مدیریت کانتینرها
+    .accesskey = O
