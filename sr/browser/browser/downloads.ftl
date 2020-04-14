@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Откажи
 downloads-cmd-cancel-panel =
     .aria-label = Откажи
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Отвори фасциклу са преузетим садржајем
+    .accesskey = П
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Прикажи у Finder-у
+    .accesskey = П
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Прикажи у Finder-у
+           *[other] Отвори фасциклу са преузетим садржајем
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
