@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Hætta við
 downloads-cmd-cancel-panel =
     .aria-label = Hætta við
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Opna möppu
+    .accesskey = m
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Sýna í Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Sýna í Finder
+           *[other] Opna möppu
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
