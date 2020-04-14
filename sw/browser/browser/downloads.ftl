@@ -20,15 +20,9 @@ downloads-cmd-resume =
     .label = Rejea
     .accesskey = R
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Fungua Kabrasha Iliyo na
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = I
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Onyesha Katila Kipataji
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = K
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
