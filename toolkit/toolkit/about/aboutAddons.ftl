@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Zainstaluj dodatek z pliku…
     .accesskey = Z
 help-button = Wsparcie dla dodatków
+sidebar-help-button-title =
+    .title = Wsparcie dla dodatków
 preferences =
     { PLATFORM() ->
         [windows] Opcje programu
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Narzędzia dla wszystkich dodatków
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opcje programu
+           *[other] Preferencje programu
+        }
 show-unsigned-extensions-button =
     .label = Niektóre rozszerzenia nie mogły zostać zweryfikowane
 show-all-extensions-button =
@@ -168,13 +176,19 @@ extensions-view-available-updates =
     .name = Dostępne aktualizacje
     .tooltiptext = Wyświetl dostępne aktualizacje
 addon-category-discover = Polecane
+addon-category-discover-title =
+    .title = Polecane
 addon-category-extension = Rozszerzenia
 addon-category-theme = Motywy
 addon-category-plugin = Wtyczki
 addon-category-dictionary = Słowniki
 addon-category-locale = Języki
 addon-category-available-updates = Dostępne aktualizacje
+addon-category-available-updates-title =
+    .title = Dostępne aktualizacje
 addon-category-recent-updates = Ostatnie aktualizacje
+addon-category-recent-updates-title =
+    .title = Ostatnie aktualizacje
 
 ## These are global warnings
 
@@ -314,6 +328,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mniej
 go-back-button =
     .tooltiptext = Wstecz
+header-back-button =
+    .title = Wstecz
 
 ## Recommended add-ons page
 
