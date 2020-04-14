@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Atšaukti kortelės užvėrimą
+all-tabs-menu-new-user-context =
+    .label = Nauja sudėtinė kortelė
