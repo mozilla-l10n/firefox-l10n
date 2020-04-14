@@ -133,7 +133,11 @@ addon-category-plugin = Forlíontáin
 addon-category-dictionary = Foclóirí
 addon-category-locale = Teangacha
 addon-category-available-updates = Nuashonruithe Ar Fáil
+addon-category-available-updates-title =
+    .title = Nuashonruithe Ar Fáil
 addon-category-recent-updates = Nuashonruithe Le Déanaí
+addon-category-recent-updates-title =
+    .title = Nuashonruithe Le Déanaí
 
 ## These are global warnings
 
