@@ -11,3 +11,6 @@ all-tabs-menu-new-user-context =
     .label = Iccer amagbar amaynut
 all-tabs-menu-hidden-tabs =
     .label = Iccaren ifren
+all-tabs-menu-manage-user-context =
+    .label = Sefrek imagbaren
+    .accesskey = O
