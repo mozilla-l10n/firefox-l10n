@@ -15,5 +15,6 @@
 <!ENTITY addNewToolbar.label      "เพิ่มแถบเครื่องมือใหม่">
 <!ENTITY showTitlebar.label       "แสดงแถบชื่อเรื่อง">
 <!ENTITY extraDragSpace.label     "เพิ่มพื้นที่ลาก">
+<!ENTITY showTitlebar2.label      "แถบชื่อเรื่อง">
 <!ENTITY saveChanges.label        "เสร็จสิ้น">
 <!ENTITY undoChanges.label        "เลิกทำการเปลี่ยนแปลง">
