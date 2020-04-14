@@ -69,6 +69,8 @@ addon-category-available-updates = Maal-ala a Pannanarimaan
 addon-category-available-updates-title =
     .title = Maal-ala a Pannanarimaan
 addon-category-recent-updates = Nabiit a Pannanarimaan
+addon-category-recent-updates-title =
+    .title = Nabiit a Pannanarimaan
 
 ## These are global warnings
 
