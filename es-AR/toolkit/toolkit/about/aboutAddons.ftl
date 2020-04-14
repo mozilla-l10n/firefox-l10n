@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalar complemento desde archivo…
     .accesskey = I
 help-button = Ayuda sobre complementos
+sidebar-help-button-title =
+    .title = Ayuda sobre complementos
 preferences =
     { PLATFORM() ->
         [windows] Opciones de { -brand-short-name }
@@ -176,6 +178,8 @@ extensions-view-available-updates =
     .name = Actualizaciones disponibles
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recomendaciones
+addon-category-discover-title =
+    .title = Recomendaciones
 addon-category-extension = Extensiones
 addon-category-theme = Temas
 addon-category-theme-title =
@@ -327,6 +331,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
+header-back-button =
+    .title = Retroceder
 
 ## Recommended add-ons page
 
