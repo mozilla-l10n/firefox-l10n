@@ -160,11 +160,19 @@ extensions-view-available-updates =
     .name = Ùrachaidhean a tha ri am faighinn
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Leudachain
+addon-category-extension-title =
+    .title = Leudachain
 addon-category-theme = Ùrlaran
 addon-category-plugin = Plugain
+addon-category-plugin-title =
+    .title = Plugain
 addon-category-dictionary = Faclairean
 addon-category-locale = Cànain
+addon-category-locale-title =
+    .title = Cànain
 addon-category-available-updates = Ùrachaidhean a tha ri am faighinn
+addon-category-available-updates-title =
+    .title = Ùrachaidhean a tha ri am faighinn
 addon-category-recent-updates = Ùrachaidhean a rinn thu o chionn goirid
 
 ## These are global warnings
