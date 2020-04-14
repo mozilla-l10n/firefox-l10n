@@ -4,5 +4,10 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Vrati zatvoreni tab
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Pretraži tabove
 all-tabs-menu-new-user-context =
     .label = Novi Container tab
+all-tabs-menu-hidden-tabs =
+    .label = Skriveni tabovi
