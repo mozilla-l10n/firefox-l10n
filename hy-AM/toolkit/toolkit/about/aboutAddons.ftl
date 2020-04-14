@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Տեղակայեք հավելումը Ֆայլից...
     .accesskey = Տ
 help-button = Լրացուցիչ աջակցություն
+sidebar-help-button-title =
+    .title = Լրացուցիչ աջակցություն
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Ընտրանքներ
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Գործիքներ բոլոր հավելումների համար
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Ընտրանքներ
+           *[other] { -brand-short-name } Նախընտրություններ
+        }
 show-unsigned-extensions-button =
     .label = Որոշ ընդլայնումներ չեն կարող ստուգվել:
 show-all-extensions-button =
@@ -168,6 +176,8 @@ extensions-view-available-updates =
     .name = Առկա Թարմացումներ
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Խորհուրդներ
+addon-category-discover-title =
+    .title = Խորհուրդներ
 addon-category-extension = Ընդլայնումներ
 addon-category-extension-title =
     .title = Ընդլայնումներ
@@ -326,6 +336,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Ավելի քիչ
 go-back-button =
     .tooltiptext = Գնալ ետ
+header-back-button =
+    .title = Գնալ ետ
 
 ## Recommended add-ons page
 
