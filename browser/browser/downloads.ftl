@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = Չեղարկել
 downloads-cmd-cancel-panel =
     .aria-label = Չեղարկել
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Բացել թղթապանակը
+    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
