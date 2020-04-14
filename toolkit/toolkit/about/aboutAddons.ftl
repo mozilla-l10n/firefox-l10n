@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installar in supplement a basa dad ina datoteca…
     .accesskey = I
 help-button = Agid cun supplements
+sidebar-help-button-title =
+    .title = Agid cun supplements
 preferences =
     { PLATFORM() ->
         [windows] Preferenzas da { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Utensils per tut ils supplements
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Preferenzas da { -brand-short-name }
+           *[other] Preferenzas da { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Impussibel da verifitgar tschertas extensiuns
 show-all-extensions-button =
@@ -173,6 +181,8 @@ extensions-view-available-updates =
     .name = Actualisaziuns disponiblas
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recumandaziuns
+addon-category-discover-title =
+    .title = Recumandaziuns
 addon-category-extension = Extensiuns
 addon-category-extension-title =
     .title = Extensiuns
@@ -331,6 +341,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mussar damain
 go-back-button =
     .tooltiptext = Turnar
+header-back-button =
+    .title = Turnar
 
 ## Recommended add-ons page
 
