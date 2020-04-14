@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalatu gehigarria fitxategitik…
     .accesskey = I
 help-button = Gehigarrien laguntza
+sidebar-help-button-title =
+    .title = Gehigarrien laguntza
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } aukerak
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Tresnak gehigarri guztientzat
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } aukerak
+           *[other] { -brand-short-name } hobespenak
+        }
 show-unsigned-extensions-button =
     .label = Zenbait gehigarri ezin izan dira egiaztatu
 show-all-extensions-button =
@@ -163,10 +171,14 @@ extensions-view-available-updates =
     .name = Eguneraketak eskura
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Gomendioak
+addon-category-discover-title =
+    .title = Gomendioak
 addon-category-extension = Hedapenak
 addon-category-extension-title =
     .title = Hedapenak
 addon-category-theme = Itxurak
+addon-category-theme-title =
+    .title = Itxurak
 addon-category-plugin = Pluginak
 addon-category-plugin-title =
     .title = Pluginak
@@ -318,6 +330,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Erakutsi gutxiago
 go-back-button =
     .tooltiptext = Joan atzera
+header-back-button =
+    .title = Joan atzera
 
 ## Recommended add-ons page
 
