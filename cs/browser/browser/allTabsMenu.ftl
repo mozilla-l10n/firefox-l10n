@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Obnovit zavřený panel
+all-tabs-menu-new-user-context =
+    .label = Nový kontejnerový panel
