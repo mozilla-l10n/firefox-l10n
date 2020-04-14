@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = रद्द करें
 downloads-cmd-cancel-panel =
     .aria-label = रद्द करें
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = संग्राहक फोल्डर खोलें
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = F
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = फाइंडर में दिखाएँ
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
