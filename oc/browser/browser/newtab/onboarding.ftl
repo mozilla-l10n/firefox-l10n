@@ -124,7 +124,7 @@ onboarding-mobile-phone-text = Telecargatz { -brand-product-name } per iOS o And
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Telecargar lo navegador mobil
-onboarding-send-tabs-title = Enivatz-vos d’onglets
+onboarding-send-tabs-title = Enviatz-vos d’onglets
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = Enviatz d‘onglets parteja sul pic las paginas entre vòstres periferics sens aver de copiar, pegar o quitar lo navegador.

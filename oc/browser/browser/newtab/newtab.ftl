@@ -191,5 +191,5 @@ newtab-pocket-cta-text = Enregistratz vòstres articles preferits dins { -pocket
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
-newtab-error-fallback-info = Ops, una error s’es producha en cargar aqueste contengut.
+newtab-error-fallback-info = Ops, una error s’es producha en cargant aqueste contengut.
 newtab-error-fallback-refresh-link = Actualizatz la pagina per tornar ensajar.
