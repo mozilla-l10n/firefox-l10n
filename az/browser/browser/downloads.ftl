@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Yerləşdiyi Qovluğu Aç
     .accesskey = Q
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Finderdə göstər
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Finderdə göstər
+           *[other] Yerləşdiyi Qovluğu Aç
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
