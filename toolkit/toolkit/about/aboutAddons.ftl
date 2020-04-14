@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = ફાઇલમાંથી ઍડ-ઓનને સ્થાપિત કરો…
     .accesskey = I
 help-button = ઍડ-ઓન્સ આધાર
+sidebar-help-button-title =
+    .title = ઍડ-ઓન્સ આધાર
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } વિકલ્પો
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = બધા ઍડ-ઓન માટે સાધનો
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } વિકલ્પો
+           *[other] { -brand-short-name } પસંદગીઓ
+        }
 show-unsigned-extensions-button =
     .label = કેટલાક એક્સ્ટેન્શન્સની ચકાસણી કરી શકાઈ નથી
 show-all-extensions-button =
