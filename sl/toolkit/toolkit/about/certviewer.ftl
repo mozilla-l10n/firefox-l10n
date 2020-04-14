@@ -95,3 +95,9 @@ certificate-viewer-download-pem = PEM (potrdilo)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (veriga)
     .download = { $fileName }-veriga.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Vaša digitalna potrdila
+certificate-viewer-tab-servers = Strežniki
+certificate-viewer-tab-ca = Overitelji
