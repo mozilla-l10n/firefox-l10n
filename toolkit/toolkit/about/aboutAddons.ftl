@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = დამატების დაყენება ფაილის მეშვეობით…
     .accesskey = ფ
 help-button = დამატებების მხარდაჭერა
+sidebar-help-button-title =
+    .title = დამატებების მხარდაჭერა
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } პარამეტრები
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = ხელსაწყოები ყველა დამატებისთვის
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } პარამეტრები
+           *[other] { -brand-short-name } პარამეტრები
+        }
 show-unsigned-extensions-button =
     .label = ზოგიერთი გაფართოება ვერ გადამოწმდა
 show-all-extensions-button =
@@ -173,9 +181,17 @@ extensions-view-available-updates =
 addon-category-discover = შემოთავაზებები
 addon-category-extension = გაფართოებები
 addon-category-theme = თემები
+addon-category-theme-title =
+    .title = თემები
 addon-category-plugin = მოდულები
+addon-category-plugin-title =
+    .title = მოდულები
 addon-category-dictionary = ლექსიკონები
+addon-category-dictionary-title =
+    .title = ლექსიკონები
 addon-category-locale = ენები
+addon-category-locale-title =
+    .title = ენები
 addon-category-available-updates = ხელმისწვდომი განახლებები
 addon-category-recent-updates = ბოლო განახლებები
 
