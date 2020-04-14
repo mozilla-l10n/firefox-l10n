@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = टॅब बंद करणे पूर्ववत् करा
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = टॅब शोधा
 all-tabs-menu-new-user-context =
     .label = नवीन कंटेनर टॅब
+all-tabs-menu-hidden-tabs =
+    .label = लपवलेले टॅब्स
+all-tabs-menu-manage-user-context =
+    .label = कंटेनर व्यवस्थापित करा
+    .accesskey = O
