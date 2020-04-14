@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Sefsex amdal n yiccer.
+all-tabs-menu-new-user-context =
+    .label = Iccer amagbar amaynut
 all-tabs-menu-hidden-tabs =
     .label = Iccaren ifren
