@@ -168,12 +168,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = 推薦項目
 addon-category-extension = 擴充套件
+addon-category-extension-title =
+    .title = 擴充套件
 addon-category-theme = 佈景主題
 addon-category-plugin = 外掛程式
+addon-category-plugin-title =
+    .title = 外掛程式
 addon-category-dictionary = 字典
+addon-category-dictionary-title =
+    .title = 字典
 addon-category-locale = 語言套件
+addon-category-locale-title =
+    .title = 語言套件
 addon-category-available-updates = 可用的更新
+addon-category-available-updates-title =
+    .title = 可用的更新
 addon-category-recent-updates = 最近的更新
+addon-category-recent-updates-title =
+    .title = 最近的更新
 
 ## These are global warnings
 
