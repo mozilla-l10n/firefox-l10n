@@ -11,3 +11,6 @@ all-tabs-menu-new-user-context =
     .label = নতুন কন্টেইনার ট্যাব
 all-tabs-menu-hidden-tabs =
     .label = লুকাইত ট্যাব
+all-tabs-menu-manage-user-context =
+    .label = কন্টেইনার ব্যবস্থাপনা করুন
+    .accesskey = O
