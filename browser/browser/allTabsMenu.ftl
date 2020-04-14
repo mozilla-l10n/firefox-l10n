@@ -11,3 +11,6 @@ all-tabs-menu-new-user-context =
     .label = Ny innehållsflik
 all-tabs-menu-hidden-tabs =
     .label = Dolda flikar
+all-tabs-menu-manage-user-context =
+    .label = Hantera behållare
+    .accesskey = b
