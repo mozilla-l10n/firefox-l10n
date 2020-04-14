@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Εγκατάσταση πρόσθετου από αρχείο…
     .accesskey = γ
 help-button = Υποστήριξη προσθέτων
+sidebar-help-button-title =
+    .title = Υποστήριξη προσθέτων
 preferences =
     { PLATFORM() ->
         [windows] Επιλογές { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Εργαλεία για όλα τα πρόσθετα
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Επιλογές { -brand-short-name }
+           *[other] Προτιμήσεις { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Δεν ήταν δυνατή η επαλήθευση ορισμένων πρόσθετων
 show-all-extensions-button =
@@ -172,6 +180,8 @@ extensions-view-available-updates =
     .name = Διαθέσιμες ενημερώσεις
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Προτάσεις
+addon-category-discover-title =
+    .title = Προτάσεις
 addon-category-extension = Επεκτάσεις
 addon-category-extension-title =
     .title = Επεκτάσεις
@@ -330,6 +340,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Εμφάνιση λιγότερων
 go-back-button =
     .tooltiptext = Επιστροφή
+header-back-button =
+    .title = Επιστροφή
 
 ## Recommended add-ons page
 
