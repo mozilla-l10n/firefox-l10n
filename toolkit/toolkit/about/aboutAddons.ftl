@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Pasang Add-ons Dari Fail…
     .accesskey = I
 help-button = Sokongan Add-ons
+sidebar-help-button-title =
+    .title = Sokongan Add-ons
 preferences =
     { PLATFORM() ->
         [windows] Pilihan { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Alatan untuk semua add-on
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Pilihan { -brand-short-name }
+           *[other] Keutamaan { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Beberapa ekstensi tidak dapat disahkan
 show-all-extensions-button =
@@ -141,12 +149,22 @@ extensions-view-available-updates =
     .name = Kemaskini Tersedia
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Ekstensi
+addon-category-extension-title =
+    .title = Ekstensi
 addon-category-theme = Tema
+addon-category-theme-title =
+    .title = Tema
 addon-category-plugin = Plugin
+addon-category-plugin-title =
+    .title = Plugin
 addon-category-dictionary = Kamus
 addon-category-locale = Bahasa
 addon-category-available-updates = Kemaskini Tersedia
+addon-category-available-updates-title =
+    .title = Kemaskini Tersedia
 addon-category-recent-updates = Kemaskini Terkini
+addon-category-recent-updates-title =
+    .title = Kemaskini Terkini
 
 ## These are global warnings
 
