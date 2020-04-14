@@ -154,7 +154,7 @@ warn-on-open-many-tabs =
     .label = Vos avisar quand dobrir d'onglets multiples pòt alentir { -brand-short-name }
     .accesskey = d
 switch-links-to-new-tabs =
-    .label = En dobrir un ligam dins un onglet novèl, i anar sul pic
+    .label = En dobrissent un ligam dins un onglet novèl, i anar sul pic
     .accesskey = d
 show-tabs-in-taskbar =
     .label = Afichar los apercebuts d'onglets dins la barra dels prètzfaits de Windows
@@ -233,7 +233,7 @@ translate-exceptions =
     .label = Excepcions…
     .accesskey = x
 check-user-spelling =
-    .label = Verificar l'ortografia en picar
+    .label = Verificar l'ortografia en picant
     .accesskey = t
 
 ## General Section - Files and Applications
@@ -359,7 +359,7 @@ update-pref-write-failure-title = Fracàs d’escritura
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Enregistrament impossible de las preferéncias. Impossible d’escriure dins lo fichièr : { $path }
-update-setting-write-failure-title = Error en enregistrar las preferéncias de mesas a jorn
+update-setting-write-failure-title = Error en enregistrant las preferéncias de mesas a jorn
 # Variables:
 #   $path (String) - Path to the configuration file
 # The newlines between the main text and the line containing the path is
@@ -388,7 +388,7 @@ performance-allow-hw-accel =
     .accesskey = n
 performance-limit-content-process-option = Limita del procediment del contengut
     .accesskey = L
-performance-limit-content-process-enabled-desc = De procediments de contengut suplementaris pòdon melhorar las performanças en utiliazar d'onglets multiples, pasmens aquò utiliza mai de memòria.
+performance-limit-content-process-enabled-desc = De procediments de contengut suplementaris pòdon melhorar las performanças en utilizant d'onglets multiples, pasmens aquò utiliza mai de memòria.
 performance-limit-content-process-blocked-desc = Modificar lo nombre de procediments de contenguts es possible sonque amb la version multiprocediment de { -brand-short-name }. <a data-l10n-name="learn-more">Aprendre a verificar se de multiprocediments son activats</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -411,7 +411,7 @@ browsing-use-cursor-navigation =
     .label = Utilizar totjorn las tòcas de navegacion per se desplaçar a l'interior d'una pagina
     .accesskey = t
 browsing-search-on-start-typing =
-    .label = Començar la recèrca en picar lo tèxte
+    .label = Començar la recèrca en picant lo tèxte
     .accesskey = x
 browsing-picture-in-picture-toggle-enabled =
     .label = Activar lo contraròtle per l’incrustacion vidèo
@@ -844,7 +844,7 @@ sitedata-total-size-calculating = Calcul del pès de las donadas dels sites e de
 sitedata-total-size = Los cookies, lo cache e las donadas dels sites utilizan actualament { $value } { $unit } d’espaci disc.
 sitedata-learn-more = Ne saber mai
 sitedata-delete-on-close =
-    .label = Suprimir los cookies e donadas de sites en tampar { -brand-short-name }
+    .label = Suprimir los cookies e donadas de sites en tampant { -brand-short-name }
     .accesskey = c
 sitedata-delete-on-close-private-browsing = En mòde de navegacion privada permanent, los cookies e las donadas de sites son totjorn escafats a la tampadura de { -brand-short-name }.
 sitedata-allow-cookies-option =
