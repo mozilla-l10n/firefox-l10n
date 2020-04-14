@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Mégse
 downloads-cmd-cancel-panel =
     .aria-label = Mégse
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Tartalmazó mappa megnyitása
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = m
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Megjelenítés a Finderben
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
