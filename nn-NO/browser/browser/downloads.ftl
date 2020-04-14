@@ -28,10 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Avbryt
 downloads-cmd-cancel-panel =
     .aria-label = Avbryt
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Opne innhaldsmappe
+    .accesskey = O
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Vis i Finder
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Vis i Finder
+           *[other] Opne innhaldsmappe
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
