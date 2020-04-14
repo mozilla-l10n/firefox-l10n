@@ -283,6 +283,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Sýna minna
 go-back-button =
     .tooltiptext = Til baka
+header-back-button =
+    .title = Til baka
 
 ## Recommended add-ons page
 
