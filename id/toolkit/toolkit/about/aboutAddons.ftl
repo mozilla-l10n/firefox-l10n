@@ -169,12 +169,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Rekomendasi
 addon-category-extension = Ekstensi
+addon-category-extension-title =
+    .title = Ekstensi
 addon-category-theme = Tema
 addon-category-plugin = Plugin
+addon-category-plugin-title =
+    .title = Plugin
 addon-category-dictionary = Kamus
+addon-category-dictionary-title =
+    .title = Kamus
 addon-category-locale = Bahasa
+addon-category-locale-title =
+    .title = Bahasa
 addon-category-available-updates = Versi Baru yang Tersedia
+addon-category-available-updates-title =
+    .title = Versi Baru yang Tersedia
 addon-category-recent-updates = Versi Baru
+addon-category-recent-updates-title =
+    .title = Versi Baru
 
 ## These are global warnings
 
