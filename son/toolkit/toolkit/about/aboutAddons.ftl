@@ -125,11 +125,23 @@ extensions-view-available-updates =
     .name = Taagandiri barantey
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Dobuyaney
+addon-category-extension-title =
+    .title = Dobuyaney
 addon-category-plugin = Sukarey
+addon-category-plugin-title =
+    .title = Sukarey
 addon-category-dictionary = Kamasey
+addon-category-dictionary-title =
+    .title = Kamasey
 addon-category-locale = Šenney
+addon-category-locale-title =
+    .title = Šenney
 addon-category-available-updates = Taagandiri barantey
+addon-category-available-updates-title =
+    .title = Taagandiri barantey
 addon-category-recent-updates = Taagandiri kokorantey
+addon-category-recent-updates-title =
+    .title = Taagandiri kokorantey
 
 ## These are global warnings
 
