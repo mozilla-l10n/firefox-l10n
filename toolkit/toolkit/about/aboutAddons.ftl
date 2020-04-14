@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Ynstallearje add-on út bestân…
     .accesskey = Y
 help-button = Add-on-stipe
+sidebar-help-button-title =
+    .title = Add-on-stipe
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name }-opsjes
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Ark foar alle add-ons
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name }-opsjes
+           *[other] { -brand-short-name }-foarkarren
+        }
 show-unsigned-extensions-button =
     .label = Guon útwreidingen koene net ferifiearre wurde
 show-all-extensions-button =
@@ -173,8 +181,12 @@ extensions-view-available-updates =
     .name = Beskikbere fernijingen
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Oanrekommandaasjes
+addon-category-discover-title =
+    .title = Oanrekommandaasjes
 addon-category-extension = Utwreidingen
 addon-category-theme = Tema's
+addon-category-theme-title =
+    .title = Tema's
 addon-category-plugin = Ynstekkers
 addon-category-dictionary = Wurdboeken
 addon-category-locale = Talen
@@ -317,6 +329,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Minder toane
 go-back-button =
     .tooltiptext = Tebekgean
+header-back-button =
+    .title = Tebekgean
 
 ## Recommended add-ons page
 
