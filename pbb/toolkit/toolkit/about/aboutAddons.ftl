@@ -138,6 +138,8 @@ addon-category-available-updates = Een ji'phsa's yu'pthẽhna
 addon-category-available-updates-title =
     .title = Een ji'phsa's yu'pthẽhna
 addon-category-recent-updates = Ãçxhtewe'sxa's yu'pthẽhna
+addon-category-recent-updates-title =
+    .title = Ãçxhtewe'sxa's yu'pthẽhna
 
 ## These are global warnings
 
