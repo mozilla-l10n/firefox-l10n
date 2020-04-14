@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalar extra a partir de ficheiro…
     .accesskey = I
 help-button = Apoio dos extras
+sidebar-help-button-title =
+    .title = Apoio dos extras
 preferences =
     { PLATFORM() ->
         [windows] Opções do { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Ferramentas para todos os extras
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opções do { -brand-short-name }
+           *[other] Preferências do { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Algumas extensões não foram verificadas
 show-all-extensions-button =
@@ -170,8 +178,12 @@ extensions-view-available-updates =
     .name = Atualizações disponíveis
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recomendações
+addon-category-discover-title =
+    .title = Recomendações
 addon-category-extension = Extensões
 addon-category-theme = Temas
+addon-category-theme-title =
+    .title = Temas
 addon-category-plugin = Plugins
 addon-category-dictionary = Dicionários
 addon-category-locale = Idiomas
@@ -314,6 +326,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Retroceder
+header-back-button =
+    .title = Retroceder
 
 ## Recommended add-ons page
 
