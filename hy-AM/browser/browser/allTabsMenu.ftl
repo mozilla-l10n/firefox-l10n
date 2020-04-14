@@ -6,3 +6,5 @@ all-tabs-menu-undo-close-tab =
     .label = Հետարկել փակված ներդիրը
 all-tabs-menu-new-user-context =
     .label = Նոր Պարունակ ներդիր
+all-tabs-menu-hidden-tabs =
+    .label = Թաքնված ներդիրներ
