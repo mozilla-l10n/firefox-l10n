@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+bookmark-overlay-name =
+    .value = Naziv:
+    .accesskey = N
 bookmark-overlay-location =
     .value = Lokacija:
     .accesskey = L
