@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instal·la un complement des d'un fitxer…
     .accesskey = I
 help-button = Assistència per als complements
+sidebar-help-button-title =
+    .title = Assistència per als complements
 preferences =
     { PLATFORM() ->
         [windows] Opcions del { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Eines per a tots els complements
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opcions del { -brand-short-name }
+           *[other] Preferències del { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = No s'han pogut verificar algunes extensions
 show-all-extensions-button =
@@ -165,10 +173,14 @@ extensions-view-available-updates =
     .name = Actualitzacions disponibles
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recomanacions
+addon-category-discover-title =
+    .title = Recomanacions
 addon-category-extension = Extensions
 addon-category-extension-title =
     .title = Extensions
 addon-category-theme = Temes
+addon-category-theme-title =
+    .title = Temes
 addon-category-plugin = Connectors
 addon-category-plugin-title =
     .title = Connectors
@@ -321,6 +333,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostra'n menys
 go-back-button =
     .tooltiptext = Vés enrere
+header-back-button =
+    .title = Vés enrere
 
 ## Recommended add-ons page
 
