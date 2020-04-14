@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Бас тарту
 downloads-cmd-cancel-panel =
     .aria-label = Бас тарту
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Файл орналасқан буманы ашу
+    .accesskey = а
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Finder ішінен көрсету
+    .accesskey = ш
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Finder ішінен көрсету
+           *[other] Файл орналасқан буманы ашу
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
