@@ -6,3 +6,5 @@ all-tabs-menu-undo-close-tab =
     .label = Deshacer el cierre de la última pestaña
 all-tabs-menu-new-user-context =
     .label = Nueva pestaña contenedora
+all-tabs-menu-hidden-tabs =
+    .label = Pestañas ocultas
