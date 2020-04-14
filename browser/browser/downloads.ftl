@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = Ləğv et
 downloads-cmd-cancel-panel =
     .aria-label = Ləğv et
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Yerləşdiyi Qovluğu Aç
+    .accesskey = Q
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
