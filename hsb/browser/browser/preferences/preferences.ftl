@@ -959,6 +959,7 @@ content-blocking-warning-title = Kedźbu!
 content-blocking-warning-description = Blokowanje wobsaha móže zawinować, zo někotre websydła hižo njefunguja. Je lochko, blokowanje za sydła znjemóžnić, kotrymž dowěrjeće.
 content-blocking-learn-how = Zhońće kak
 content-blocking-etp-warning-description = Blokowanje přesćěhowakow móhło funkcionalnosć někotrych websydłow wobwliwować. Začitajće stronu z přesćěhowakami znowa, zo byšće wšón wobsah začitał.
+content-blocking-and-isolating-etp-warning-description = Blokowanje přesćěhowakow a izolowanje placko móhłoj funkcionalnosć někotrych websydłow wobwliwować. Začitajće stronu z přesćěhowakami znowa, zo byšće wšón wobsah začitał.
 content-blocking-warning-learn-how = Zhońće kak
 content-blocking-reload-description = Dyrbiće swoje rajtarki znowa začitać, zo byšće tute změny nałožił.
 content-blocking-reload-tabs-button =
