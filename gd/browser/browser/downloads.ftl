@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Sguir dheth
 downloads-cmd-cancel-panel =
     .aria-label = Sguir dheth
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Fosgail am pasgan far a bheil e
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = F
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Seall san lorgair
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = S
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
