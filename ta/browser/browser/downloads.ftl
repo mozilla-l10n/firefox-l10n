@@ -28,15 +28,9 @@ downloads-cmd-cancel =
     .tooltiptext = ரத்து
 downloads-cmd-cancel-panel =
     .aria-label = ரத்து
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = கோப்பகத்திலிருந்து திற
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = கண்டுபிடிப்பானில் காண்பி
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = க
 downloads-cmd-show-panel =
     .aria-label =
