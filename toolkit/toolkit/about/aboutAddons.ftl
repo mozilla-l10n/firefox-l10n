@@ -29,6 +29,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = सर्व ॲड-ऑन्स् करीता साधने
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } पर्याय
+           *[other] { -brand-short-name } पसंती
+        }
 show-unsigned-extensions-button =
     .label = काही एक्सटेंशन पडताळले जाऊ शकले नाहीत
 show-all-extensions-button =
@@ -265,6 +271,8 @@ shortcuts-letter = एक अक्षर टाइप करा
 shortcuts-card-collapse-button = कमी दर्शवा
 go-back-button =
     .tooltiptext = मागे जा
+header-back-button =
+    .title = मागे जा
 
 ## Recommended add-ons page
 
