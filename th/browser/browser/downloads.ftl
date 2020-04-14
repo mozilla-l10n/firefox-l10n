@@ -28,10 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = ยกเลิก
 downloads-cmd-cancel-panel =
     .aria-label = ยกเลิก
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = เปิดโฟลเดอร์ที่บรรจุ
+    .accesskey = ฟ
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = แสดงใน Finder
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] แสดงใน Finder
+           *[other] เปิดโฟลเดอร์ที่บรรจุ
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
