@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Mở thư mục chứa
     .accesskey = m
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Hiển thị trong Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Hiển thị trong Finder
+           *[other] Mở thư mục chứa
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
