@@ -120,7 +120,11 @@ addon-category-dictionary-title =
     .title = Ferheng
 addon-category-locale = Zimên
 addon-category-available-updates = Rojankirinên Amade
+addon-category-available-updates-title =
+    .title = Rojankirinên Amade
 addon-category-recent-updates = Rojanekirin Nêz
+addon-category-recent-updates-title =
+    .title = Rojanekirin Nêz
 
 ## These are global warnings
 
