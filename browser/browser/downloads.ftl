@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = বাতিল
 downloads-cmd-cancel-panel =
     .aria-label = বাতিল
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = ধারণকারী ফোল্ডার খুলুন
+    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
