@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = İptal
 downloads-cmd-cancel-panel =
     .aria-label = İptal
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Bulunduğu klasörü aç
+    .accesskey = d
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Finder’da göster
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Finder’da göster
+           *[other] Bulunduğu klasörü aç
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
