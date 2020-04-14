@@ -120,6 +120,8 @@ addon-category-extension = बारायनायफोर
 addon-category-extension-title =
     .title = बारायनायफोर
 addon-category-theme = थिम
+addon-category-theme-title =
+    .title = थिम
 addon-category-plugin = प्लागिनफोर
 addon-category-plugin-title =
     .title = प्लागिनफोर
@@ -237,6 +239,8 @@ addon-install-from-file-filter-name = Add-ons
 shortcuts-card-collapse-button = इसेल' दिन्थि
 go-back-button =
     .tooltiptext = थांफिन
+header-back-button =
+    .title = थांफिन
 
 ## Recommended add-ons page
 
