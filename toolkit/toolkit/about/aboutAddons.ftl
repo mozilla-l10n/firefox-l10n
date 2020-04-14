@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Kiegészítő telepítése fájlból…
     .accesskey = f
 help-button = Kiegészítő támogatás
+sidebar-help-button-title =
+    .title = Kiegészítő támogatás
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } beállítások
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Eszközök minden kiegészítőhöz
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } beállítások
+           *[other] { -brand-short-name } beállítások
+        }
 show-unsigned-extensions-button =
     .label = Néhány kiegészítő nem ellenőrizhető
 show-all-extensions-button =
@@ -169,7 +177,11 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Javaslatok
 addon-category-extension = Kiegészítők
+addon-category-extension-title =
+    .title = Kiegészítők
 addon-category-theme = Témák
+addon-category-theme-title =
+    .title = Témák
 addon-category-plugin = Bővítmények
 addon-category-plugin-title =
     .title = Bővítmények
@@ -323,6 +335,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Kevesebb megjelenítése
 go-back-button =
     .tooltiptext = Ugrás vissza
+header-back-button =
+    .title = Ugrás vissza
 
 ## Recommended add-ons page
 
