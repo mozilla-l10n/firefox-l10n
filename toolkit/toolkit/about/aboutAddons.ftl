@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Asenna lisäosa tiedostosta…
     .accesskey = A
 help-button = Lisäosien tuki
+sidebar-help-button-title =
+    .title = Lisäosien tuki
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name }-asetukset
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Työkaluja kaikille lisäosille
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name }-asetukset
+           *[other] { -brand-short-name }-asetukset
+        }
 show-unsigned-extensions-button =
     .label = Joitain laajennuksia ei voitu varmentaa
 show-all-extensions-button =
@@ -168,6 +176,8 @@ extensions-view-available-updates =
     .name = Päivitykset
     .tooltiptext = Saatavilla olevat päivitykset
 addon-category-discover = Suositukset
+addon-category-discover-title =
+    .title = Suositukset
 addon-category-extension = Laajennukset
 addon-category-extension-title =
     .title = Laajennukset
@@ -327,6 +337,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Näytä vähemmän
 go-back-button =
     .tooltiptext = Takaisin
+header-back-button =
+    .title = Takaisin
 
 ## Recommended add-ons page
 
