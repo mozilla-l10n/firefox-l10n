@@ -151,7 +151,11 @@ addon-category-plugin = Tengiforrit
 addon-category-dictionary = Orðabækur
 addon-category-locale = Tungumál
 addon-category-available-updates = Fáanlegar uppfærslur
+addon-category-available-updates-title =
+    .title = Fáanlegar uppfærslur
 addon-category-recent-updates = Nýlegar uppfærslur
+addon-category-recent-updates-title =
+    .title = Nýlegar uppfærslur
 
 ## These are global warnings
 
