@@ -37,7 +37,7 @@ features-network-desc = Detectar las cridas ret que pòdon alentir o blocar vòs
 features-storage-title = Emmagazinatge
 features-storage-desc = Apondètz, modificatz e escafatz l’escondador, los cookies, las bancas de donadas o donadas de session. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Vista adaptativa
-features-responsive-desc = Testatz vòstres sites en simular diferents periferics dirèctament de vòstre navegador. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-responsive-desc = Testatz vòstres sites en simulant diferents periferics dirèctament de vòstre navegador. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Edicion visuala
 features-visual-editing-desc = Reglatz las animacions, l’alinhament e las marges de manièra fina. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Performanças
