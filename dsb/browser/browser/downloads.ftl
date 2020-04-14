@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Pśetergnuś
 downloads-cmd-cancel-panel =
     .aria-label = Pśetergnuś
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Celowy zarědnik wócyniś
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = C
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = W programje Finder pokazaś
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
