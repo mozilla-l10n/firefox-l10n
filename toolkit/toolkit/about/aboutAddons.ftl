@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Pasang Pengaya dari Berkas…
     .accesskey = B
 help-button = Dukungan Pengaya
+sidebar-help-button-title =
+    .title = Dukungan Pengaya
 preferences =
     { PLATFORM() ->
         [windows] Opsi { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Alat untuk semua pengaya
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opsi { -brand-short-name }
+           *[other] Preferensi { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Beberapa ekstensi tidak dapat diverifikasi
 show-all-extensions-button =
