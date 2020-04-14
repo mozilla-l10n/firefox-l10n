@@ -1,0 +1,18 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+bookmark-overlay-name =
+    .value = שם:
+    .accesskey = ש
+bookmark-overlay-location =
+    .value = כתובת:
+    .accesskey = כ
+bookmark-overlay-folder =
+    .value = תיקייה:
+bookmark-overlay-tags =
+    .value = תגיות:
+    .accesskey = ג
+bookmark-overlay-keyword =
+    .value = מילת מפתח:
+    .accesskey = מ
