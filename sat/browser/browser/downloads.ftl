@@ -19,6 +19,20 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = दोहड़ा एहोब
     .accesskey = R
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = मेनागाक् पोटोम झिज मे
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = ञामयिच् रे उदुग
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ञामयिच् रे उदुग
+           *[other] मेनागाक् पोटोम झिज मे
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
