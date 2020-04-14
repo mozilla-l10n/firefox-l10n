@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Скасаваць
 downloads-cmd-cancel-panel =
     .aria-label = Скасаваць
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Адкрыць змяшчальную папку
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = А
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Паказаць у шукальніку
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = ш
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
