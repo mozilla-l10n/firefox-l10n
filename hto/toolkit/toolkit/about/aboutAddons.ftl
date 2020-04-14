@@ -17,9 +17,15 @@ detail-repository-value =
 addon-restart-now =
     .label = Bíeri ábɨdo taɨne
 addon-category-extension = Árera
+addon-category-extension-title =
+    .title = Árera
 addon-category-plugin = Plugins
 addon-category-dictionary = Úai íyano
+addon-category-dictionary-title =
+    .title = Úai íyano
 addon-category-locale = Úaido
+addon-category-locale-title =
+    .title = Úaido
 
 ## These are global warnings
 
