@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Nuligi
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Malfermi entenantan dosierujon
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = E
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Montri en dosierserĉilo
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = M
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Montri en dosierserĉilo
+           *[other] Malfermi entenantan dosierujon
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
