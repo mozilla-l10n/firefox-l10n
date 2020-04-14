@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Anullar la tampadura de l'onglet
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Cercar pels onglets
 all-tabs-menu-new-user-context =
     .label = Onglet contèxtual novèl
+all-tabs-menu-hidden-tabs =
+    .label = Onglets amagats
+all-tabs-menu-manage-user-context =
+    .label = Gerir los contenidors
+    .accesskey = o
