@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Urungkan Menutup Tab
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Cari Tab
 all-tabs-menu-new-user-context =
     .label = Tab Kontainer Baru
 all-tabs-menu-hidden-tabs =
