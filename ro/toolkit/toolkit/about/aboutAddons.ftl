@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalează un supliment dintr-un fișier…
     .accesskey = I
 help-button = Suport pentru suplimente
+sidebar-help-button-title =
+    .title = Suport pentru suplimente
 preferences =
     { PLATFORM() ->
         [windows] Opțiuni { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Instrumente pentru toate suplimentele
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opțiuni { -brand-short-name }
+           *[other] Preferințe { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Unele extensii nu au putut fi verificate
 show-all-extensions-button =
@@ -169,6 +177,8 @@ addon-category-discover-title =
     .title = Recomandări
 addon-category-extension = Extensii
 addon-category-theme = Teme
+addon-category-theme-title =
+    .title = Teme
 addon-category-plugin = Pluginuri
 addon-category-dictionary = Dicționare
 addon-category-locale = Limbi
