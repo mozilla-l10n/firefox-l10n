@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Įdiegti priedą iš failo…
     .accesskey = d
 help-button = Priedų pagalba
+sidebar-help-button-title =
+    .title = Priedų pagalba
 preferences =
     { PLATFORM() ->
         [windows] „{ -brand-short-name }“ nuostatos
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Visiems priedams taikomos priemonės
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] „{ -brand-short-name }“ nuostatos
+           *[other] „{ -brand-short-name }“ nuostatos
+        }
 show-unsigned-extensions-button =
     .label = Kai kurių plėtinių patikrinti nepavyko
 show-all-extensions-button =
@@ -168,10 +176,14 @@ extensions-view-available-updates =
     .name = Galimi naujinimai
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Rekomendacijos
+addon-category-discover-title =
+    .title = Rekomendacijos
 addon-category-extension = Plėtiniai
 addon-category-extension-title =
     .title = Plėtiniai
 addon-category-theme = Grafiniai apvalkalai
+addon-category-theme-title =
+    .title = Grafiniai apvalkalai
 addon-category-plugin = Papildiniai
 addon-category-plugin-title =
     .title = Papildiniai
@@ -326,6 +338,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Rodyti mažiau
 go-back-button =
     .tooltiptext = Eiti atgal
+header-back-button =
+    .title = Eiti atgal
 
 ## Recommended add-ons page
 
