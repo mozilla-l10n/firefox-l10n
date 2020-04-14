@@ -166,7 +166,11 @@ addon-category-locale = زبان‌ها
 addon-category-locale-title =
     .title = زبان‌ها
 addon-category-available-updates = بروزرسانی‌های موجود
+addon-category-available-updates-title =
+    .title = بروزرسانی‌های موجود
 addon-category-recent-updates = بروزرسانی‌های اخیر
+addon-category-recent-updates-title =
+    .title = بروزرسانی‌های اخیر
 
 ## These are global warnings
 
