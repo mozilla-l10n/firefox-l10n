@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Cancel·la
 downloads-cmd-cancel-panel =
     .aria-label = Cancel·la
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Obre la carpeta on es troba
+    .accesskey = b
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Mostra-ho en el Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostra-ho en el Finder
+           *[other] Obre la carpeta on es troba
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
