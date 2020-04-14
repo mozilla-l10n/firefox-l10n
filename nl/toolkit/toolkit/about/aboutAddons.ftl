@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Add-on installeren via bestand…
     .accesskey = s
 help-button = Add-on-ondersteuning
+sidebar-help-button-title =
+    .title = Add-on-ondersteuning
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name }-opties
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Hulpmiddelen voor alle add-ons
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name }-opties
+           *[other] { -brand-short-name }-voorkeuren
+        }
 show-unsigned-extensions-button =
     .label = Sommige extensies konden niet worden geverifieerd
 show-all-extensions-button =
@@ -181,6 +189,8 @@ addon-category-extension = Extensies
 addon-category-extension-title =
     .title = Extensies
 addon-category-theme = Thema’s
+addon-category-theme-title =
+    .title = Thema’s
 addon-category-plugin = Plug-ins
 addon-category-plugin-title =
     .title = Plug-ins
@@ -333,6 +343,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Minder tonen
 go-back-button =
     .tooltiptext = Teruggaan
+header-back-button =
+    .title = Teruggaan
 
 ## Recommended add-ons page
 
