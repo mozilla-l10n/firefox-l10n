@@ -24,15 +24,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Encaboxar
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Abrir carpeta contenedora
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = c
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Amosar en Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Amosar en Finder
+           *[other] Abrir carpeta contenedora
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
