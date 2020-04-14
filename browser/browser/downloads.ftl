@@ -19,6 +19,20 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = অব্যাহত ৰাখক
     .accesskey = R
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = অন্তৰ্ভুক্ত কৰা ফোল্ডাৰ খোলক
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = সন্ধানকাৰীত দেখুৱাওক
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] সন্ধানকাৰীত দেখুৱাওক
+           *[other] অন্তৰ্ভুক্ত কৰা ফোল্ডাৰ খোলক
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
