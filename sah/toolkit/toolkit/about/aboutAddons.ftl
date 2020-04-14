@@ -112,11 +112,23 @@ extensions-view-available-updates =
     .name = Туттуллар кыахтаах саҥардыылар
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Кэҥэтиилэр
+addon-category-extension-title =
+    .title = Кэҥэтиилэр
 addon-category-plugin = Плагииннар
+addon-category-plugin-title =
+    .title = Плагииннар
 addon-category-dictionary = Тылдьыттар
+addon-category-dictionary-title =
+    .title = Тылдьыттар
 addon-category-locale = Тыллар
+addon-category-locale-title =
+    .title = Тыллар
 addon-category-available-updates = Туттуллар кыахтаах саҥардыылар
+addon-category-available-updates-title =
+    .title = Туттуллар кыахтаах саҥардыылар
 addon-category-recent-updates = Соторутааҥы саҥардыылар
+addon-category-recent-updates-title =
+    .title = Соторутааҥы саҥардыылар
 
 ## These are global warnings
 
