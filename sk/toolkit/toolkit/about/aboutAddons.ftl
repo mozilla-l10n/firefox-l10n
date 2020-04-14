@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Nainštalovať doplnok zo súboru…
     .accesskey = N
 help-button = Podpora doplnkov
+sidebar-help-button-title =
+    .title = Podpora doplnkov
 preferences =
     { PLATFORM() ->
         [windows] Možnosti aplikácie
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Nástroje pre všetky doplnky
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Možnosti aplikácie
+           *[other] Možnosti aplikácie
+        }
 show-unsigned-extensions-button =
     .label = Niektoré rozšírenia nemohli byť overené
 show-all-extensions-button =
@@ -173,10 +181,14 @@ extensions-view-available-updates =
     .name = Dostupné aktualizácie
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Odporúčania
+addon-category-discover-title =
+    .title = Odporúčania
 addon-category-extension = Rozšírenia
 addon-category-extension-title =
     .title = Rozšírenia
 addon-category-theme = Témy vzhľadu
+addon-category-theme-title =
+    .title = Témy vzhľadu
 addon-category-plugin = Zásuvné moduly
 addon-category-plugin-title =
     .title = Zásuvné moduly
@@ -330,6 +342,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Zobraziť menej
 go-back-button =
     .tooltiptext = Späť
+header-back-button =
+    .title = Späť
 
 ## Recommended add-ons page
 
