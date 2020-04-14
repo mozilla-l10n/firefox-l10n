@@ -29,15 +29,9 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Annuler
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Ouvrir le dossier contenant le fichier
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = r
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Afficher dans le Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
