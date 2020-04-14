@@ -336,6 +336,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Hiện ít hơn
 go-back-button =
     .tooltiptext = Quay lại
+header-back-button =
+    .title = Quay lại
 
 ## Recommended add-ons page
 
