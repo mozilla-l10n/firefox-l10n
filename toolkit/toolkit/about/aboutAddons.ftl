@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installer utvidelse fra fil …
     .accesskey = I
 help-button = Brukerstøtte for utvidelser
+sidebar-help-button-title =
+    .title = Brukerstøtte for utvidelser
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name }-innstillinger
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Verktøy for alle utvidelser
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name }-innstillinger
+           *[other] { -brand-short-name }-innstillinger
+        }
 show-unsigned-extensions-button =
     .label = Noen utvidelser kunne ikke bli kontrollert
 show-all-extensions-button =
@@ -168,10 +176,14 @@ extensions-view-available-updates =
     .name = Tilgjengelige oppdateringer
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Anbefalinger
+addon-category-discover-title =
+    .title = Anbefalinger
 addon-category-extension = Utvidelser
 addon-category-extension-title =
     .title = Utvidelser
 addon-category-theme = Temaer
+addon-category-theme-title =
+    .title = Temaer
 addon-category-plugin = Programtillegg
 addon-category-plugin-title =
     .title = Programtillegg
@@ -324,6 +336,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
+header-back-button =
+    .title = Gå tilbake
 
 ## Recommended add-ons page
 
