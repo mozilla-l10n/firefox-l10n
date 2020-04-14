@@ -97,3 +97,13 @@ certificate-viewer-download-pem = PEM（证书）
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM（证书链）
     .download = { $fileName }-chain.pem
+certificate-viewer-export = 导出
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = 您的证书
+certificate-viewer-tab-people = 个人
+certificate-viewer-tab-servers = 服务器
+certificate-viewer-tab-ca = 证书机构
+certificate-viewer-tab-unkonwn = 未知
