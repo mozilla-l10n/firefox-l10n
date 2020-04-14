@@ -132,7 +132,11 @@ addon-category-plugin = പ്ലഗിനുകള്‍
 addon-category-dictionary = നിഘണ്ടുകള്‍
 addon-category-locale = ഭാഷകള്‍
 addon-category-available-updates = ലഭ്യമായ പരിഷ്കരണങ്ങള്‍
+addon-category-available-updates-title =
+    .title = ലഭ്യമായ പരിഷ്കരണങ്ങള്‍
 addon-category-recent-updates = ഏറ്റവും പുതിയ പരിഷ്കരണങ്ങള്‍
+addon-category-recent-updates-title =
+    .title = ഏറ്റവും പുതിയ പരിഷ്കരണങ്ങള്‍
 
 ## These are global warnings
 
