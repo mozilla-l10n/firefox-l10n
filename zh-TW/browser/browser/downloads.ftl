@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = 取消
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = 開啟所在資料夾
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = 在 Finder 中顯示
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] 在 Finder 中顯示
+           *[other] 開啟所在資料夾
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
