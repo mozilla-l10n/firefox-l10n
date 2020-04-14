@@ -112,11 +112,23 @@ extensions-view-available-updates =
     .name = Visasaisho Vinavyopatikana
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Izithasiselo
+addon-category-extension-title =
+    .title = Izithasiselo
 addon-category-plugin = Programu-jalizi
+addon-category-plugin-title =
+    .title = Programu-jalizi
 addon-category-dictionary = Kamusi
+addon-category-dictionary-title =
+    .title = Kamusi
 addon-category-locale = Lugha
+addon-category-locale-title =
+    .title = Lugha
 addon-category-available-updates = Visasaisho Vinavyopatikana
+addon-category-available-updates-title =
+    .title = Visasaisho Vinavyopatikana
 addon-category-recent-updates = Visasaisho vya hivi karibuni
+addon-category-recent-updates-title =
+    .title = Visasaisho vya hivi karibuni
 
 ## These are global warnings
 
