@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Zrušit
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Otevřít složku
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = l
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Zobrazit ve Finderu
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Zobrazit ve Finderu
+           *[other] Otevřít složku
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
