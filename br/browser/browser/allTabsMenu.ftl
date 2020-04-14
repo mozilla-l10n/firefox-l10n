@@ -11,3 +11,6 @@ all-tabs-menu-new-user-context =
     .label = Ivinell endalc'her nevez
 all-tabs-menu-hidden-tabs =
     .label = Ivinell kuzh
+all-tabs-menu-manage-user-context =
+    .label = Merañ an endalc'herioù
+    .accesskey = e
