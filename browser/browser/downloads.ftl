@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Ləğv et
 downloads-cmd-cancel-panel =
     .aria-label = Ləğv et
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Yerləşdiyi Qovluğu Aç
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = Q
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Finderdə göstər
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
