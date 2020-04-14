@@ -198,7 +198,11 @@ addon-category-locale = Sprachen
 addon-category-locale-title =
     .title = Sprachen
 addon-category-available-updates = Verfügbare Updates
+addon-category-available-updates-title =
+    .title = Verfügbare Updates
 addon-category-recent-updates = Zuletzt durchgeführte Updates
+addon-category-recent-updates-title =
+    .title = Zuletzt durchgeführte Updates
 
 ## These are global warnings
 
