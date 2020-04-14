@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = ایڈ اون مسل سے تنصیب کریں...
     .accesskey = ت
 help-button = ایڈ اون ہمایت کردہ
+sidebar-help-button-title =
+    .title = ایڈ اون ہمایت کردہ
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } اختیارات
