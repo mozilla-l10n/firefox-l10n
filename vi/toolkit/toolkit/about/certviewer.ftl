@@ -28,6 +28,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Nhóm trao đổi khóa
 certificate-viewer-key-id = ID khóa
 certificate-viewer-key-size = Kích thước khóa
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Địa phương hợp nhất
 certificate-viewer-locality = Thành phố
 certificate-viewer-location = Địa chỉ
 certificate-viewer-logid = ID bản ghi
@@ -94,3 +96,13 @@ certificate-viewer-download-pem = PEM (chứng chỉ)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Xuất
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Chứng chỉ của Bạn
+certificate-viewer-tab-people = Mọi người
+certificate-viewer-tab-servers = Máy chủ
+certificate-viewer-tab-ca = Nhà thẩm định
+certificate-viewer-tab-unkonwn = Không rõ
