@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = Mégse
 downloads-cmd-cancel-panel =
     .aria-label = Mégse
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Megjelenítés a Finderben
+    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
