@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Sefsex
 downloads-cmd-cancel-panel =
     .aria-label = Sefsex
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Ldi akaram igebren afaylu
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = L
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Sken-d di Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
