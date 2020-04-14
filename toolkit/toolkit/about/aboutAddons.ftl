@@ -346,7 +346,7 @@ shortcuts-card-collapse-button = Minder tonen
 go-back-button =
     .tooltiptext = Teruggaan
 header-back-button =
-    .title = Teruggaan
+    .title = Terug
 
 ## Recommended add-ons page
 
