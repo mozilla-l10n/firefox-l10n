@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = 閉じたタブを元に戻す
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = タブを検索
 all-tabs-menu-new-user-context =
     .label = 新しいコンテナータブ
+all-tabs-menu-hidden-tabs =
+    .label = 隠しタブ
+all-tabs-menu-manage-user-context =
+    .label = コンテナーを管理
+    .accesskey = O
