@@ -13,6 +13,12 @@ preferences =
         [windows] { -brand-short-name } Kaji
        *[other] { -brand-short-name } Preferencias
     }
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Kaji
+           *[other] { -brand-short-name } Preferencias
+        }
 cmd-preferences =
     .label =
         { PLATFORM() ->
