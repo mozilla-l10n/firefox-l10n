@@ -177,9 +177,15 @@ addon-category-extension = Extensions
 addon-category-theme = Themes
 addon-category-plugin = Plugins
 addon-category-dictionary = Dictionaries
+addon-category-dictionary-title =
+    .title = Dictionaries
 addon-category-locale = Languages
 addon-category-available-updates = Available Updates
+addon-category-available-updates-title =
+    .title = Available Updates
 addon-category-recent-updates = Recent Updates
+addon-category-recent-updates-title =
+    .title = Recent Updates
 
 ## These are global warnings
 
