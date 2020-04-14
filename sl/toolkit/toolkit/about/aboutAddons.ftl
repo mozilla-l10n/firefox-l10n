@@ -172,10 +172,18 @@ addon-category-discover = Priporočila
 addon-category-extension = Razširitve
 addon-category-theme = Teme
 addon-category-plugin = Vtičniki
+addon-category-plugin-title =
+    .title = Vtičniki
 addon-category-dictionary = Slovarji
+addon-category-dictionary-title =
+    .title = Slovarji
 addon-category-locale = Jeziki
 addon-category-available-updates = Nove posodobitve
+addon-category-available-updates-title =
+    .title = Nove posodobitve
 addon-category-recent-updates = Nedavne posodobitve
+addon-category-recent-updates-title =
+    .title = Nedavne posodobitve
 
 ## These are global warnings
 
