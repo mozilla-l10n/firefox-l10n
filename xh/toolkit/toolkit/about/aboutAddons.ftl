@@ -129,11 +129,21 @@ extensions-view-available-updates =
     .name = Uhlaziyo olufumanekayo
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Izandiso
+addon-category-extension-title =
+    .title = Izandiso
 addon-category-plugin = Izifakelo
 addon-category-dictionary = Izichazi-magama
+addon-category-dictionary-title =
+    .title = Izichazi-magama
 addon-category-locale = Iilwimi
+addon-category-locale-title =
+    .title = Iilwimi
 addon-category-available-updates = Uhlaziyo olufumanekayo
+addon-category-available-updates-title =
+    .title = Uhlaziyo olufumanekayo
 addon-category-recent-updates = Uhlaziyo lwakutshanje
+addon-category-recent-updates-title =
+    .title = Uhlaziyo lwakutshanje
 
 ## These are global warnings
 
