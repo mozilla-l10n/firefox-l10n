@@ -177,8 +177,12 @@ addon-category-dictionary = Բառարաններ
 addon-category-dictionary-title =
     .title = Բառարաններ
 addon-category-locale = Լեզուներ
+addon-category-locale-title =
+    .title = Լեզուներ
 addon-category-available-updates = Առկա Թարմացումներ
 addon-category-recent-updates = Վերջին Թարմացումները
+addon-category-recent-updates-title =
+    .title = Վերջին Թարմացումները
 
 ## These are global warnings
 
