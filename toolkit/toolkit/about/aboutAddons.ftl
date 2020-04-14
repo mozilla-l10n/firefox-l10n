@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = ติดตั้งส่วนเสริมจากไฟล์…
     .accesskey = ง
 help-button = การสนับสนุนของส่วนเสริม
+sidebar-help-button-title =
+    .title = การสนับสนุนของส่วนเสริม
 preferences =
     { PLATFORM() ->
         [windows] ตัวเลือก { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = เครื่องมือสำหรับส่วนเสริมทั้งหมด
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] ตัวเลือก { -brand-short-name }
+           *[other] ค่ากำหนด { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = ไม่สามารถยืนยันส่วนขยายบางตัว
 show-all-extensions-button =
@@ -168,13 +176,23 @@ extensions-view-available-updates =
     .name = การอัปเดตที่มี
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = คำแนะนำ
+addon-category-discover-title =
+    .title = คำแนะนำ
 addon-category-extension = ส่วนขยาย
 addon-category-theme = ชุดตกแต่ง
+addon-category-theme-title =
+    .title = ชุดตกแต่ง
 addon-category-plugin = ปลั๊กอิน
+addon-category-plugin-title =
+    .title = ปลั๊กอิน
 addon-category-dictionary = พจนานุกรม
 addon-category-locale = ภาษา
 addon-category-available-updates = การอัปเดตที่มี
+addon-category-available-updates-title =
+    .title = การอัปเดตที่มี
 addon-category-recent-updates = การอัปเดตล่าสุด
+addon-category-recent-updates-title =
+    .title = การอัปเดตล่าสุด
 
 ## These are global warnings
 
@@ -311,6 +329,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = แสดงน้อยลง
 go-back-button =
     .tooltiptext = ย้อนกลับ
+header-back-button =
+    .title = ย้อนกลับ
 
 ## Recommended add-ons page
 
