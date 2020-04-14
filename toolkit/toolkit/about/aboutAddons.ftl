@@ -149,9 +149,15 @@ addon-category-extension = Uzantılar
 addon-category-theme = Mövzular
 addon-category-plugin = Qoşmalar
 addon-category-dictionary = Lüğətlər
+addon-category-dictionary-title =
+    .title = Lüğətlər
 addon-category-locale = Dillər
 addon-category-available-updates = Mövcud yeniləmələr
+addon-category-available-updates-title =
+    .title = Mövcud yeniləmələr
 addon-category-recent-updates = Yaxın vaxtlardakı yeniləmələr
+addon-category-recent-updates-title =
+    .title = Yaxın vaxtlardakı yeniləmələr
 
 ## These are global warnings
 
