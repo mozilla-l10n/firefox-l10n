@@ -132,6 +132,8 @@ addon-category-extension = Ekstenzije
 addon-category-extension-title =
     .title = Ekstenzije
 addon-category-theme = Teme
+addon-category-theme-title =
+    .title = Teme
 addon-category-plugin = Plugini
 addon-category-plugin-title =
     .title = Plugini
@@ -142,7 +144,11 @@ addon-category-locale = Jezici
 addon-category-locale-title =
     .title = Jezici
 addon-category-available-updates = Dostupne nadogradnje
+addon-category-available-updates-title =
+    .title = Dostupne nadogradnje
 addon-category-recent-updates = Nedavne nadogradnje
+addon-category-recent-updates-title =
+    .title = Nedavne nadogradnje
 
 ## These are global warnings
 
