@@ -97,3 +97,13 @@ certificate-viewer-download-pem = PEM (인증서)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (체인)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = 내보내기
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = 개인 인증서
+certificate-viewer-tab-people = 다른 사람
+certificate-viewer-tab-servers = 서버
+certificate-viewer-tab-ca = 인증 기관
+certificate-viewer-tab-unkonwn = 알 수 없음
