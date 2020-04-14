@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Obnoviť zatvorenú kartu
+all-tabs-menu-new-user-context =
+    .label = Nová kontajnerová karta
