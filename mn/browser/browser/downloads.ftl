@@ -16,9 +16,8 @@ downloads-cmd-resume =
     .label = Үргэлжлүүлж тат
     .accesskey = ж
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Агуулж буй санг нээ
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = А
 downloads-cmd-copy-download-link =
     .label = Татаж авах холбоосыг сануул
