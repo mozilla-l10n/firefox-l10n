@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Juki
 downloads-cmd-cancel-panel =
     .aria-label = Juki
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Yab boc matye
+    .accesskey = b
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Nyut iye Lanong
+    .accesskey = L
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Nyut iye Lanong
+           *[other] Yab boc matye
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
