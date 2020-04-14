@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = Avbryt
 downloads-cmd-cancel-panel =
     .aria-label = Avbryt
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Öppna objektets mapp
+    .accesskey = m
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
