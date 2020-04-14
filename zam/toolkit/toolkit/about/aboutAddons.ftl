@@ -25,7 +25,11 @@ detail-repository-value =
 addon-restart-now =
     .label = Bí~rè là kíy nál
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-locale = Ta más dedizh dediz Firefox
+addon-category-locale-title =
+    .title = Ta más dedizh dediz Firefox
 
 ## These are global warnings
 
