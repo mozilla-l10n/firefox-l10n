@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Kumoa välilehden sulkeminen
+all-tabs-menu-hidden-tabs =
+    .label = Piilotetut välilehdet
