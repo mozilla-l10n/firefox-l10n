@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Desfés el tancament de la pestanya
+all-tabs-menu-new-user-context =
+    .label = Pestanya de contenidor nova
