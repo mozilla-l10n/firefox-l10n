@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = გაუქმება
 downloads-cmd-cancel-panel =
     .aria-label = გაუქმება
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = შემცველი საქაღალდის გახსნა
+    .accesskey = ს
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Finder-ში ჩვენება
+    .accesskey = ჩ
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Finder-ში ჩვენება
+           *[other] შემცველი საქაღალდის გახსნა
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
