@@ -97,3 +97,13 @@ certificate-viewer-download-pem = PEM (tystysgrif)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadwyn)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Allforio
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Eich Tystysgrifau
+certificate-viewer-tab-people = Pobl
+certificate-viewer-tab-servers = Gweinyddion
+certificate-viewer-tab-ca = Awdurdodau
+certificate-viewer-tab-unkonwn = Anhysbys
