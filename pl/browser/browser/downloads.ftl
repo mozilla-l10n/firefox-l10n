@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Anuluj
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Otwórz folder nadrzędny
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = f
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Pokaż w Finderze
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Pokaż w Finderze
+           *[other] Otwórz folder nadrzędny
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
