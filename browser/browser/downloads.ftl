@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Annuleren
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Bijbehorende map openen
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = m
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Tonen in Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Tonen in Finder
+           *[other] Bijbehorende map openen
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
