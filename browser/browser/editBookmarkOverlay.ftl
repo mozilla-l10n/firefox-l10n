@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+bookmark-overlay-name =
+    .value = Enw:
+    .accesskey = E
 bookmark-overlay-location =
     .value = Lleoliad:
     .accesskey = L
@@ -11,6 +14,9 @@ bookmark-overlay-folders-expander =
     .tooltiptext = Dangos pob ffolder nod tudalen
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Cuddio
+bookmark-overlay-new-folder-button =
+    .label = Ffolder Newydd
+    .accesskey = N
 bookmark-overlay-tags =
     .value = Tagiau:
     .accesskey = T
