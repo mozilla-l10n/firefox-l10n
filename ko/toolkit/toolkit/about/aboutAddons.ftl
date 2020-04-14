@@ -35,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = 부가 기능 도구
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } 설정
+           *[other] { -brand-short-name } 설정
+        }
 show-unsigned-extensions-button =
     .label = 몇몇 확장 기능은 확인을 할 수 없음
 show-all-extensions-button =
@@ -169,6 +175,8 @@ extensions-view-available-updates =
     .name = 업데이트 가능 항목
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = 추천
+addon-category-discover-title =
+    .title = 추천
 addon-category-extension = 확장 기능
 addon-category-extension-title =
     .title = 확장 기능
@@ -188,6 +196,8 @@ addon-category-available-updates = 업데이트 가능 항목
 addon-category-available-updates-title =
     .title = 업데이트 가능 항목
 addon-category-recent-updates = 최근 업데이트
+addon-category-recent-updates-title =
+    .title = 최근 업데이트
 
 ## These are global warnings
 
@@ -325,6 +335,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = 간략히 보기
 go-back-button =
     .tooltiptext = 뒤로 가기
+header-back-button =
+    .title = 뒤로 가기
 
 ## Recommended add-ons page
 
