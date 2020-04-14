@@ -4,3 +4,10 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Atsaukt cilnes aiztaiseišonu
+all-tabs-menu-new-user-context =
+    .label = Jauna cilņu skreine
+all-tabs-menu-hidden-tabs =
+    .label = Apslāptōs cilnes
+all-tabs-menu-manage-user-context =
+    .label = Porvaļdēt skreines
+    .accesskey = O
