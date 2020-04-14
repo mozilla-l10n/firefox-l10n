@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Установить дополнение из файла…
     .accesskey = а
 help-button = Поддержка дополнений
+sidebar-help-button-title =
+    .title = Поддержка дополнений
 preferences =
     { PLATFORM() ->
         [windows] Настройки { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Инструменты для всех дополнений
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Настройки { -brand-short-name }
+           *[other] Настройки { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Некоторые расширения не могут быть проверены
 show-all-extensions-button =
@@ -168,6 +176,8 @@ extensions-view-available-updates =
     .name = Доступные обновления
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Рекомендации
+addon-category-discover-title =
+    .title = Рекомендации
 addon-category-extension = Расширения
 addon-category-extension-title =
     .title = Расширения
