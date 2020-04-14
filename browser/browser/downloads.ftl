@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Չեղարկել
 downloads-cmd-cancel-panel =
     .aria-label = Չեղարկել
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Բացել թղթապանակը
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = F
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Ցուցադրել Finder-ում
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
