@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = باز کردن پوشهٔ محتوی پرونده
     .accesskey = پ
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = نمایش در یابنده
+    .accesskey = ی
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] نمایش در یابنده
+           *[other] باز کردن پوشهٔ محتوی پرونده
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
