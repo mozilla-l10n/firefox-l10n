@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalar complemento desde archivo…
     .accesskey = I
 help-button = Soporte para complementos
+sidebar-help-button-title =
+    .title = Soporte para complementos
 preferences =
     { PLATFORM() ->
         [windows] Opciones de { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Herramientas para todos los complementos
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opciones de { -brand-short-name }
+           *[other] Preferencias de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Algunas extensiones no pueden ser verificadas
 show-all-extensions-button =
@@ -326,6 +334,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Regresar
+header-back-button =
+    .title = Regresar
 
 ## Recommended add-ons page
 
