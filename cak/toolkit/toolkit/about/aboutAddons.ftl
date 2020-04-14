@@ -171,10 +171,20 @@ addon-category-discover = Taq chilab'enïk
 addon-category-extension = Taq k'amal
 addon-category-theme = Taq wachinel
 addon-category-plugin = Taq nak'ab'äl
+addon-category-plugin-title =
+    .title = Taq nak'ab'äl
 addon-category-dictionary = Taq soltzij
+addon-category-dictionary-title =
+    .title = Taq soltzij
 addon-category-locale = Taq ch'ab'äl
+addon-category-locale-title =
+    .title = Taq ch'ab'äl
 addon-category-available-updates = Taq k'exoj e k'o
+addon-category-available-updates-title =
+    .title = Taq k'exoj e k'o
 addon-category-recent-updates = K'ak'a' taq k'exoj
+addon-category-recent-updates-title =
+    .title = K'ak'a' taq k'exoj
 
 ## These are global warnings
 
