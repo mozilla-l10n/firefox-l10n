@@ -35,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = تمام ایڈ اون کے لیے ٹول
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } اختیارات
+           *[other] { -brand-short-name } ترجیحات
+        }
 show-unsigned-extensions-button =
     .label = کچھ ایکسٹِنشنز کی تصدیق نہیں ہو سکی
 show-all-extensions-button =
