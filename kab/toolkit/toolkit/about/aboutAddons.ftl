@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Sebded azegrir seg ufaylu…
     .accesskey = S
 help-button = Tallelt izegrar
+sidebar-help-button-title =
+    .title = Tallelt izegrar
 preferences =
     { PLATFORM() ->
         [windows] Iɣewwaren n { -brand-short-name }
