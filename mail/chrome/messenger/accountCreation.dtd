@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (โฟลเดอร์ระยะไกล)">
 <!ENTITY pop3Long.label                  "POP3 (เก็บจดหมายไว้ในคอมพิวเตอร์ของคุณ)">
 
+<!ENTITY manualConfigTable.summary       "การตั้งค่าเซิร์ฟเวอร์">
 <!ENTITY incoming.label                  "ขาเข้า:">
 <!ENTITY incomingColumn.label            "ขาเข้า">
 <!ENTITY outgoing.label                  "ขาออก:">
