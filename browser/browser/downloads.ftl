@@ -24,15 +24,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = റദ്ദാക്കുക
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = ഫോള്‍ഡറില്‍ കാണിയ്ക്കുക
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ഫോള്‍ഡറില്‍ കാണിയ്ക്കുക
+           *[other] ഇതടങ്ങുന്ന ഫോള്‍ഡര്‍ തുറക്കുക
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
