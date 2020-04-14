@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Отваряне на затворен раздел
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Търсене на раздели
 all-tabs-menu-new-user-context =
     .label = Нов изолиран раздел
 all-tabs-menu-hidden-tabs =
