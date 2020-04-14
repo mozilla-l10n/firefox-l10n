@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Desegin fitxa ixtea
+all-tabs-menu-new-user-context =
+    .label = Edukiontzi-fitxa berria
