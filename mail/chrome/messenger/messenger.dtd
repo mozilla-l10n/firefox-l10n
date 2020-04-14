@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "搜索消息…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "全局搜索…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "搜索地址…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
