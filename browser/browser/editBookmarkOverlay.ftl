@@ -7,3 +7,6 @@ bookmark-overlay-location =
     .accesskey = L
 bookmark-overlay-folder =
     .value = సంచయం:
+bookmark-overlay-new-folder-button =
+    .label = కొత్త సంచయం
+    .accesskey = o
