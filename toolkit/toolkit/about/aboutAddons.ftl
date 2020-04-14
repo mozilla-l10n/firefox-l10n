@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Cài đặt tiện ích từ tập tin…
     .accesskey = I
 help-button = Hỗ trợ tiện ích
+sidebar-help-button-title =
+    .title = Hỗ trợ tiện ích
 preferences =
     { PLATFORM() ->
         [windows] Tùy chọn { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Công cụ cho tất cả tiện ích
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Tùy chọn { -brand-short-name }
+           *[other] Tùy chỉnh { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Không thể xác thực một số tiện ích
 show-all-extensions-button =
@@ -168,8 +176,14 @@ extensions-view-available-updates =
     .name = Cập nhật có sẵn
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Đề xuất
+addon-category-discover-title =
+    .title = Đề xuất
 addon-category-extension = Tiện ích mở rộng
+addon-category-extension-title =
+    .title = Tiện ích mở rộng
 addon-category-theme = Chủ đề
+addon-category-theme-title =
+    .title = Chủ đề
 addon-category-plugin = Phần bổ trợ
 addon-category-plugin-title =
     .title = Phần bổ trợ
@@ -180,6 +194,8 @@ addon-category-locale = Ngôn ngữ
 addon-category-locale-title =
     .title = Ngôn ngữ
 addon-category-available-updates = Cập nhật có sẵn
+addon-category-available-updates-title =
+    .title = Cập nhật có sẵn
 addon-category-recent-updates = Cập nhật gần đây
 addon-category-recent-updates-title =
     .title = Cập nhật gần đây
