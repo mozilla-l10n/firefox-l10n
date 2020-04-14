@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = બંધ કરેલ ટૅબને ફરીથી શરૂ કરો
+all-tabs-menu-new-user-context =
+    .label = નવી કન્ટેઈનર ટૅબ
