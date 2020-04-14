@@ -177,6 +177,8 @@ extensions-view-available-updates =
     .name = Nove posodobitve
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Priporočila
+addon-category-discover-title =
+    .title = Priporočila
 addon-category-extension = Razširitve
 addon-category-theme = Teme
 addon-category-theme-title =
@@ -333,6 +335,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Prikaži manj
 go-back-button =
     .tooltiptext = Nazaj
+header-back-button =
+    .title = Nazaj
 
 ## Recommended add-ons page
 
