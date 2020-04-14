@@ -145,12 +145,22 @@ extensions-view-available-updates =
     .name = Agiornamenti disponibili
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Estenscioin
+addon-category-extension-title =
+    .title = Estenscioin
 addon-category-theme = Temi
 addon-category-plugin = Plugin
 addon-category-dictionary = Diçionai
+addon-category-dictionary-title =
+    .title = Diçionai
 addon-category-locale = Lengoe
+addon-category-locale-title =
+    .title = Lengoe
 addon-category-available-updates = Agiornamenti disponibili
+addon-category-available-updates-title =
+    .title = Agiornamenti disponibili
 addon-category-recent-updates = Urtimi agiornamenti
+addon-category-recent-updates-title =
+    .title = Urtimi agiornamenti
 
 ## These are global warnings
 
