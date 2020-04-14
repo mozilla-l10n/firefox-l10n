@@ -80,7 +80,7 @@ certificate-viewer-embedded-scts = SCT usliɣ
 certificate-viewer-crl-endpoints = Agazen n tagara CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
-certificate-viewer-download = Sider
+certificate-viewer-download = Sader
 # This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
 # Variables:
 #   $boolean (String) - true/false value for the specific field
@@ -97,3 +97,13 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Kter
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Iselkinen-ik(im)
+certificate-viewer-tab-people = Medden
+certificate-viewer-tab-servers = Iqeddacen
+certificate-viewer-tab-ca = Iduba
+certificate-viewer-tab-unkonwn = Arussin
