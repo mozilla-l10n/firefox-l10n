@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instal·la un complement des d'un fitxer…
     .accesskey = I
 help-button = Assistència per als complements
+sidebar-help-button-title =
+    .title = Assistència per als complements
 preferences =
     { PLATFORM() ->
         [windows] Opcions del { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Eines per a tots els complements
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opcions del { -brand-short-name }
+           *[other] Preferències del { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = No s'han pogut verificar algunes extensions
 show-all-extensions-button =
@@ -165,13 +173,29 @@ extensions-view-available-updates =
     .name = Actualitzacions disponibles
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recomanacions
+addon-category-discover-title =
+    .title = Recomanacions
 addon-category-extension = Extensions
+addon-category-extension-title =
+    .title = Extensions
 addon-category-theme = Temes
+addon-category-theme-title =
+    .title = Temes
 addon-category-plugin = Connectors
+addon-category-plugin-title =
+    .title = Connectors
 addon-category-dictionary = Diccionaris
+addon-category-dictionary-title =
+    .title = Diccionaris
 addon-category-locale = Llengües
+addon-category-locale-title =
+    .title = Llengües
 addon-category-available-updates = Actualitzacions disponibles
+addon-category-available-updates-title =
+    .title = Actualitzacions disponibles
 addon-category-recent-updates = Actualitzacions recents
+addon-category-recent-updates-title =
+    .title = Actualitzacions recents
 
 ## These are global warnings
 
@@ -309,6 +333,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostra'n menys
 go-back-button =
     .tooltiptext = Vés arrere
+header-back-button =
+    .title = Vés arrere
 
 ## Recommended add-ons page
 
