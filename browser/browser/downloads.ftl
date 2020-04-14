@@ -24,15 +24,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Kanselleer
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Open houervouer
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = v
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Wys in 'Finder'
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Wys in 'Finder'
+           *[other] Open houervouer
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
