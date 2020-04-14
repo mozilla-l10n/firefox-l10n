@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = დახურული ჩანართის დაბრუნება
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = ჩანართების ძიება
 all-tabs-menu-new-user-context =
     .label = ახალი სათავსი ჩანართი
 all-tabs-menu-hidden-tabs =
