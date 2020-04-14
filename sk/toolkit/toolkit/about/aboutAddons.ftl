@@ -174,12 +174,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Odporúčania
 addon-category-extension = Rozšírenia
+addon-category-extension-title =
+    .title = Rozšírenia
 addon-category-theme = Témy vzhľadu
 addon-category-plugin = Zásuvné moduly
+addon-category-plugin-title =
+    .title = Zásuvné moduly
 addon-category-dictionary = Slovníky
+addon-category-dictionary-title =
+    .title = Slovníky
 addon-category-locale = Jazyky
+addon-category-locale-title =
+    .title = Jazyky
 addon-category-available-updates = Dostupné aktualizácie
+addon-category-available-updates-title =
+    .title = Dostupné aktualizácie
 addon-category-recent-updates = Nedávno aktualizované
+addon-category-recent-updates-title =
+    .title = Nedávno aktualizované
 
 ## These are global warnings
 
