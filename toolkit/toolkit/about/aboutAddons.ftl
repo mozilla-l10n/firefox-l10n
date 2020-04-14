@@ -331,6 +331,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = 显示更少
 go-back-button =
     .tooltiptext = 返回
+header-back-button =
+    .title = 返回
 
 ## Recommended add-ons page
 
