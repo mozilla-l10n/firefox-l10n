@@ -1,0 +1,33 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+bookmark-overlay-name =
+    .value = नाव:
+    .accesskey = न
+bookmark-overlay-location =
+    .value = थळ:
+    .accesskey = थ
+bookmark-overlay-folder =
+    .value = फोल्डर :
+bookmark-overlay-choose =
+    .label = निवडात...
+bookmark-overlay-folders-expander =
+    .tooltiptext = सगळे पुस्तखूणों  फोल्डर  दाखयात
+    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
+    .tooltiptextup = लिपयात
+bookmark-overlay-new-folder-button =
+    .label = नवो फोल्डर
+    .accesskey = o
+bookmark-overlay-tags =
+    .value = टॅग्ज:
+    .accesskey = ट
+bookmark-overlay-tags-empty-description =
+    .placeholder = टॅग स्वल्पविरामान वेगळे करात
+bookmark-overlay-tags-expander =
+    .tooltiptext = सगळे टॅग दाखयात
+    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
+    .tooltiptextup = लिपयात
+bookmark-overlay-keyword =
+    .value = कळशब्द:
+    .accesskey = क
