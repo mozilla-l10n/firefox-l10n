@@ -171,10 +171,20 @@ addon-category-discover = Javaslatok
 addon-category-extension = Kiegészítők
 addon-category-theme = Témák
 addon-category-plugin = Bővítmények
+addon-category-plugin-title =
+    .title = Bővítmények
 addon-category-dictionary = Szótárak
+addon-category-dictionary-title =
+    .title = Szótárak
 addon-category-locale = Nyelvek
+addon-category-locale-title =
+    .title = Nyelvek
 addon-category-available-updates = Elérhető frissítések
+addon-category-available-updates-title =
+    .title = Elérhető frissítések
 addon-category-recent-updates = Legutóbbi frissítések
+addon-category-recent-updates-title =
+    .title = Legutóbbi frissítések
 
 ## These are global warnings
 
