@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Dosyeden Eklenti Qur…
     .accesskey = Q
 help-button = Eklentiler Destegi
+sidebar-help-button-title =
+    .title = Eklentiler Destegi
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Seçenekleri
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Episi eklentiler içün aletler
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Seçenekleri
+           *[other] { -brand-short-name } Tercihleri
+        }
 show-unsigned-extensions-button =
     .label = Bazı uzantılar doğrulanamadı
 show-all-extensions-button =
@@ -154,12 +162,26 @@ extensions-view-available-updates =
     .name = Faydalanışlı Yañartmalar
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Uzantılar
+addon-category-extension-title =
+    .title = Uzantılar
 addon-category-theme = Temalar
+addon-category-theme-title =
+    .title = Temalar
 addon-category-plugin = Plaginler
+addon-category-plugin-title =
+    .title = Plaginler
 addon-category-dictionary = Luğatlar
+addon-category-dictionary-title =
+    .title = Luğatlar
 addon-category-locale = Tiller
+addon-category-locale-title =
+    .title = Tiller
 addon-category-available-updates = Faydalanışlı Yañartmalar
+addon-category-available-updates-title =
+    .title = Faydalanışlı Yañartmalar
 addon-category-recent-updates = Deminki Yañartmalar
+addon-category-recent-updates-title =
+    .title = Deminki Yañartmalar
 
 ## These are global warnings
 
@@ -287,6 +309,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Daha Az Köster
 go-back-button =
     .tooltiptext = Keri bar
+header-back-button =
+    .title = Keri bar
 
 ## Recommended add-ons page
 
