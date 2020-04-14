@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Staliañ askouezhioù diouzh ar restr...
     .accesskey = i
 help-button = Skor an askouezhioù
+sidebar-help-button-title =
+    .title = Skor an askouezhioù
 preferences =
     { PLATFORM() ->
         [windows] Dibarzhioù { -brand-short-name }
