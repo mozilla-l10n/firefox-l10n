@@ -174,7 +174,11 @@ addon-category-plugin = Plugins
 addon-category-dictionary = Diccionarios
 addon-category-locale = Idiomas
 addon-category-available-updates = Actualizaciones disponibles
+addon-category-available-updates-title =
+    .title = Actualizaciones disponibles
 addon-category-recent-updates = Actualizaciones recientes
+addon-category-recent-updates-title =
+    .title = Actualizaciones recientes
 
 ## These are global warnings
 
