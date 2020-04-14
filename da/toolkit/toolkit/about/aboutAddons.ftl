@@ -206,6 +206,8 @@ addon-category-available-updates = Tilgængelige opdateringer
 addon-category-available-updates-title =
     .title = Tilgængelige opdateringer
 addon-category-recent-updates = Seneste opdateringer
+addon-category-recent-updates-title =
+    .title = Seneste opdateringer
 
 ## These are global warnings
 
