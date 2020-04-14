@@ -189,7 +189,11 @@ addon-category-locale = Iaith
 addon-category-locale-title =
     .title = Iaith
 addon-category-available-updates = Diweddariadau ar Gael
+addon-category-available-updates-title =
+    .title = Diweddariadau ar Gael
 addon-category-recent-updates = Diweddariadau Diweddar
+addon-category-recent-updates-title =
+    .title = Diweddariadau Diweddar
 
 ## These are global warnings
 
