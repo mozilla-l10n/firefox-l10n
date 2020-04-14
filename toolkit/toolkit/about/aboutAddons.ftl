@@ -283,6 +283,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = ઓછું બતાવો
 go-back-button =
     .tooltiptext = પાછળ જાવ
+header-back-button =
+    .title = પાછળ જાવ
 
 ## Recommended add-ons page
 
