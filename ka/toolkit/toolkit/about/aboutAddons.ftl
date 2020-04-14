@@ -179,6 +179,8 @@ extensions-view-available-updates =
     .name = ხელმისწვდომი განახლებები
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = შემოთავაზებები
+addon-category-discover-title =
+    .title = შემოთავაზებები
 addon-category-extension = გაფართოებები
 addon-category-extension-title =
     .title = გაფართოებები
@@ -336,6 +338,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = ნაკლების ჩვენება
 go-back-button =
     .tooltiptext = უკან გადასვლა
+header-back-button =
+    .title = უკან გადასვლა
 
 ## Recommended add-ons page
 
