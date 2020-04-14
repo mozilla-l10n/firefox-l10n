@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Interrumper
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Mussar l'ordinatur che cuntegna la datoteca
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = o
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Mussar en il finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = f
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mussar en il finder
+           *[other] Mussar l'ordinatur che cuntegna la datoteca
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
