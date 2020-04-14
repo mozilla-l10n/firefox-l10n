@@ -33,6 +33,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Herramientas para todos los complementos
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opciones de { -brand-short-name }
+           *[other] Preferencias de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Algunos complementos no pudieron ser verificados
 show-all-extensions-button =
@@ -172,11 +178,17 @@ extensions-view-available-updates =
 addon-category-discover = Recomendaciones
 addon-category-extension = Extensiones
 addon-category-theme = Temas
+addon-category-theme-title =
+    .title = Temas
 addon-category-plugin = Plugins
 addon-category-dictionary = Diccionarios
 addon-category-locale = Idiomas
 addon-category-available-updates = Actualizaciones disponibles
+addon-category-available-updates-title =
+    .title = Actualizaciones disponibles
 addon-category-recent-updates = Actualizaciones recientes
+addon-category-recent-updates-title =
+    .title = Actualizaciones recientes
 
 ## These are global warnings
 
