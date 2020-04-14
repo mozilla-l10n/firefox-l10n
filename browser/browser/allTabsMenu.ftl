@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Αναίρεση κλεισίματος καρτέλας
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Αναζήτηση καρτελών
 all-tabs-menu-new-user-context =
     .label = Νέα καρτέλα εντός περιβάλλοντος
 all-tabs-menu-hidden-tabs =
