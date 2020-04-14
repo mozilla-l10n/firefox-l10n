@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = ফাইল থেকে অ্যাড-অন ইনস্টল… I
     .accesskey = I
 help-button = অ্যাড-অন সহযোগীতা
+sidebar-help-button-title =
+    .title = অ্যাড-অন সহযোগীতা
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } অপশন
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = সব অ্যাড-অন এর জন্য টুল
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } অপশন
+           *[other] { -brand-short-name } পছন্দসমূহ
+        }
 show-unsigned-extensions-button =
     .label = কিছু এক্সটেনশন ভ্যারিফাই করা হয়নি
 show-all-extensions-button =
@@ -318,6 +326,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = কম দেখাও
 go-back-button =
     .tooltiptext = ফিরে যাও
+header-back-button =
+    .title = ফিরে যাও
 
 ## Recommended add-ons page
 
