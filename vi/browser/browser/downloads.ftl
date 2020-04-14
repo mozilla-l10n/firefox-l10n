@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Hủy bỏ
 downloads-cmd-cancel-panel =
     .aria-label = Hủy bỏ
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Mở thư mục chứa
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = m
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Hiển thị trong Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
