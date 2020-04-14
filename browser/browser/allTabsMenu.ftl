@@ -6,3 +6,5 @@ all-tabs-menu-undo-close-tab =
     .label = बंद टैब वापस लें
 all-tabs-menu-new-user-context =
     .label = नया पात्र टैब
+all-tabs-menu-hidden-tabs =
+    .label = गुप्त टैब
