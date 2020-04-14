@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Cancelar
 downloads-cmd-cancel-panel =
     .aria-label = Cancelar
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Abrir carpeta contenedora
+    .accesskey = A
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Mostrar en Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostrar en Finder
+           *[other] Abrir carpeta contenedora
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
