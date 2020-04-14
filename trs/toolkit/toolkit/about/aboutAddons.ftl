@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Ga'nïnj Komplemênto asij riña archibô…
     .accesskey = I
 help-button = Nej sa hua doj riña sopôrte
+sidebar-help-button-title =
+    .title = Nej sa hua doj riña sopôrte
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Sa huaa
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Rasuun gini'ñanj daran' nej komplemênto
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Sa huaa
+           *[other] { -brand-short-name } Sa arâj sun yitïnjt
+        }
 show-unsigned-extensions-button =
     .label = Nu ga'ue nana'in da'aj nej extensiôn
 show-all-extensions-button =
@@ -163,13 +171,29 @@ extensions-view-available-updates =
     .name = Nej sa ga'ue nahuin nakà
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Nuguan' ganikò't
+addon-category-discover-title =
+    .title = Nuguan' ganikò't
 addon-category-extension = Nej extensiûn
+addon-category-extension-title =
+    .title = Nej extensiûn
 addon-category-theme = Tema
+addon-category-theme-title =
+    .title = Tema
 addon-category-plugin = Nej plugin
+addon-category-plugin-title =
+    .title = Nej plugin
 addon-category-dictionary = Nej danj nuguan'an
+addon-category-dictionary-title =
+    .title = Nej danj nuguan'an
 addon-category-locale = Nej nânj (nuguan')
+addon-category-locale-title =
+    .title = Nej nânj (nuguan')
 addon-category-available-updates = Nej sa ga'ue nahuin nakà
+addon-category-available-updates-title =
+    .title = Nej sa ga'ue nahuin nakà
 addon-category-recent-updates = Nej sa hìaj nahuin nakà
+addon-category-recent-updates-title =
+    .title = Nej sa hìaj nahuin nakà
 
 ## These are global warnings
 
@@ -306,6 +330,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Nadigân Dòj
 go-back-button =
     .tooltiptext = Nanikàj rukù
+header-back-button =
+    .title = Nanikàj rukù
 
 ## Recommended add-ons page
 
