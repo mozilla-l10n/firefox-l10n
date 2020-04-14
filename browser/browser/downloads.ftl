@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = انصراف
 downloads-cmd-cancel-panel =
     .aria-label = انصراف
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = باز کردن پوشهٔ محتوی پرونده
+    .accesskey = پ
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
