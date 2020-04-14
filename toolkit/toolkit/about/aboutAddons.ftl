@@ -29,6 +29,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = అన్ని పొడిగింతలు కొరకు సాధనములు
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } ఎంపికలు
+           *[other] { -brand-short-name } అభిరుచులు
+        }
 show-unsigned-extensions-button =
     .label = కొన్ని పొడగింతలను తనిఖీ చేయలేకపోయాం
 show-all-extensions-button =
@@ -142,6 +148,8 @@ extensions-view-available-updates =
     .name = అందుబాటులోని నవీకరణలు
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = పొడగింతలు
+addon-category-extension-title =
+    .title = పొడగింతలు
 addon-category-theme = అలంకారాలు
 addon-category-plugin = చొప్పింతలు
 addon-category-dictionary = నిఘంటువులు
@@ -258,6 +266,8 @@ addon-open-about-debugging = పొడిగింతలను డీబగ్ �
 shortcuts-card-collapse-button = తక్కువ చూపించు
 go-back-button =
     .tooltiptext = వెనుకకు వెళ్ళు
+header-back-button =
+    .title = వెనుకకు వెళ్ళు
 
 ## Recommended add-ons page
 
