@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installar additivo ab un file…
     .accesskey = I
 help-button = Assistentia del additivos
+sidebar-help-button-title =
+    .title = Assistentia del additivos
 preferences =
     { PLATFORM() ->
         [windows] Optiones de { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Instrumentos pro tote le additivos
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Optiones de { -brand-short-name }
+           *[other] Preferentias de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Alcun extensiones non poteva esser verificate
 show-all-extensions-button =
@@ -168,11 +176,23 @@ extensions-view-available-updates =
     .name = Actualisationes disponibile
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recommendationes
+addon-category-discover-title =
+    .title = Recommendationes
 addon-category-extension = Extensiones
+addon-category-extension-title =
+    .title = Extensiones
 addon-category-theme = Themas
+addon-category-theme-title =
+    .title = Themas
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-dictionary = Dictionarios
+addon-category-dictionary-title =
+    .title = Dictionarios
 addon-category-locale = Linguas
+addon-category-locale-title =
+    .title = Linguas
 addon-category-available-updates = Actualisationes disponibile
 addon-category-available-updates-title =
     .title = Actualisationes disponibile
