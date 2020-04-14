@@ -123,10 +123,20 @@ extensions-view-available-updates =
     .name = Een ji'phsa's yu'pthẽhna
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Jxujuy txi'pnxisa
+addon-category-extension-title =
+    .title = Jxujuy txi'pnxisa
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-dictionary = Yuwe tasx
+addon-category-dictionary-title =
+    .title = Yuwe tasx
 addon-category-locale = We'wenxisaa
+addon-category-locale-title =
+    .title = We'wenxisaa
 addon-category-available-updates = Een ji'phsa's yu'pthẽhna
+addon-category-available-updates-title =
+    .title = Een ji'phsa's yu'pthẽhna
 addon-category-recent-updates = Ãçxhtewe'sxa's yu'pthẽhna
 
 ## These are global warnings
