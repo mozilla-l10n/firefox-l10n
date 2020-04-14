@@ -23,16 +23,6 @@ downloads-cmd-cancel =
     .tooltiptext = បោះបង់
 downloads-cmd-cancel-panel =
     .aria-label = បោះបង់
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = បើក​ថត​ដែល​ផ្ទុក
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = ថ
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = បង្ហាញ​នៅ​ក្នុង​កម្មវិធី​រក
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = ប
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
