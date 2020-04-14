@@ -337,6 +337,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Monstrar minus
 go-back-button =
     .tooltiptext = Retornar
+header-back-button =
+    .title = Retornar
 
 ## Recommended add-ons page
 
