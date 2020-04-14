@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Angre attlating av fane
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Søk i faner
 all-tabs-menu-new-user-context =
     .label = Ny innhaldsfane
 all-tabs-menu-hidden-tabs =
