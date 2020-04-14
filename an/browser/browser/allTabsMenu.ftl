@@ -6,3 +6,5 @@ all-tabs-menu-undo-close-tab =
     .label = Desfer a zarradura d'a zaguera pestanya
 all-tabs-menu-new-user-context =
     .label = Nueva pestanya de contenedor
+all-tabs-menu-hidden-tabs =
+    .label = Pestanyas amagadas
