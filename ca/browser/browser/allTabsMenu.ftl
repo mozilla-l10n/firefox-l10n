@@ -4,5 +4,11 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Desfés el tancament de la pestanya
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Cerca pestanyes
 all-tabs-menu-new-user-context =
     .label = Pestanya de contenidor nova
+all-tabs-menu-manage-user-context =
+    .label = Gestiona els contenidors
+    .accesskey = o
