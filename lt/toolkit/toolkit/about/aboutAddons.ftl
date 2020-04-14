@@ -169,12 +169,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Rekomendacijos
 addon-category-extension = Plėtiniai
+addon-category-extension-title =
+    .title = Plėtiniai
 addon-category-theme = Grafiniai apvalkalai
 addon-category-plugin = Papildiniai
+addon-category-plugin-title =
+    .title = Papildiniai
 addon-category-dictionary = Žodynai
+addon-category-dictionary-title =
+    .title = Žodynai
 addon-category-locale = Kalbos
+addon-category-locale-title =
+    .title = Kalbos
 addon-category-available-updates = Galimi naujinimai
+addon-category-available-updates-title =
+    .title = Galimi naujinimai
 addon-category-recent-updates = Paskiausiai atnaujinti
+addon-category-recent-updates-title =
+    .title = Paskiausiai atnaujinti
 
 ## These are global warnings
 
