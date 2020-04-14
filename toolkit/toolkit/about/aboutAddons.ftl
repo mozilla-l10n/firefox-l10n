@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installer tillegg frå ei fil…
     .accesskey = I
 help-button = Brukarstøtte for tillegg
+sidebar-help-button-title =
+    .title = Brukarstøtte for tillegg
 preferences =
     { PLATFORM() ->
         [windows] Innstillingar for { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Verktøy for alle tillegg
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Innstillingar for { -brand-short-name }
+           *[other] Innstillingar for { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Nokre utvidingar kunne ikkje stadfestast
 show-all-extensions-button =
@@ -170,6 +178,8 @@ extensions-view-available-updates =
 addon-category-discover = Tilrådingar
 addon-category-extension = Utvidingar
 addon-category-theme = Tema
+addon-category-theme-title =
+    .title = Tema
 addon-category-plugin = Programtillegg
 addon-category-dictionary = Ordbøker
 addon-category-locale = Språk
