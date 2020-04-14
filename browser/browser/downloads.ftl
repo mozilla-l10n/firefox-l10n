@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Odustani
 downloads-cmd-cancel-panel =
     .aria-label = Odustani
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Otvori direktorij preuzimanja
+    .accesskey = t
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Prikaži u Finderu
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Prikaži u Finderu
+           *[other] Otvori direktorij preuzimanja
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
