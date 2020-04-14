@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installar un modul dins d’un fichièr…
     .accesskey = I
 help-button = Assisténcia dels moduls
+sidebar-help-button-title =
+    .title = Assisténcia dels moduls
 preferences =
     { PLATFORM() ->
         [windows] Opcions { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Aisinas per totes los moduls
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opcions { -brand-short-name }
+           *[other] Preferéncias { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Unas extensions an pas pogut èsser verificadas
 show-all-extensions-button =
@@ -168,6 +176,8 @@ extensions-view-available-updates =
     .name = De metre a jorn
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recomandacions
+addon-category-discover-title =
+    .title = Recomandacions
 addon-category-extension = Extensions
 addon-category-extension-title =
     .title = Extensions
@@ -325,6 +335,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Ne veire mens
 go-back-button =
     .tooltiptext = Tornar
+header-back-button =
+    .title = Tornar
 
 ## Recommended add-ons page
 
