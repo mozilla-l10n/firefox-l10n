@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Qapatılan vərəqləri geri al
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Vərəqlərdə Axtar
 all-tabs-menu-new-user-context =
     .label = Yeni Konteyner Vərəqi
+all-tabs-menu-hidden-tabs =
+    .label = Gizli Vərəqlər
+all-tabs-menu-manage-user-context =
+    .label = Konteynerləri idarə et
+    .accesskey = O
