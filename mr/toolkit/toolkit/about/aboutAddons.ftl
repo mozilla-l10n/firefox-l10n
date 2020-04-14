@@ -145,9 +145,17 @@ addon-category-extension = एक्सटेंशन
 addon-category-theme = थीम
 addon-category-plugin = प्लगईन
 addon-category-dictionary = शब्दकोष
+addon-category-dictionary-title =
+    .title = शब्दकोष
 addon-category-locale = भाषा
+addon-category-locale-title =
+    .title = भाषा
 addon-category-available-updates = उपलब्ध सुधारणा
+addon-category-available-updates-title =
+    .title = उपलब्ध सुधारणा
 addon-category-recent-updates = नुकतीच सुधारणा
+addon-category-recent-updates-title =
+    .title = नुकतीच सुधारणा
 
 ## These are global warnings
 
