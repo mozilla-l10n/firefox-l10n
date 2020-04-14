@@ -160,6 +160,8 @@ extensions-view-available-updates =
     .name = بروزرسانی‌های موجود
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = توصیه‌ها
+addon-category-discover-title =
+    .title = توصیه‌ها
 addon-category-extension = ضمیمه‌ها
 addon-category-extension-title =
     .title = ضمیمه‌ها
@@ -306,6 +308,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = نمایش کمتر
 go-back-button =
     .tooltiptext = برگشتن
+header-back-button =
+    .title = برگشتن
 
 ## Recommended add-ons page
 
