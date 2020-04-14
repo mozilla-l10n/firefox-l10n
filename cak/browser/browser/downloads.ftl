@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Tiq'at
 downloads-cmd-cancel-panel =
     .aria-label = Tiq'at
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Tijaq ri yaksamaj k'o rupam
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = T
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Tik'ut pe pan ilonel
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = i
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
