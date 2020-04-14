@@ -4,6 +4,8 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Urungkan Menutup Tab
+all-tabs-menu-new-user-context =
+    .label = Tab Kontainer Baru
 all-tabs-menu-hidden-tabs =
     .label = Tab Tersembunyi
 all-tabs-menu-manage-user-context =
