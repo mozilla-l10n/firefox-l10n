@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instaloni Shtesë Prej Kartele…
     .accesskey = I
 help-button = Asistencë Shtesash
+sidebar-help-button-title =
+    .title = Asistencë Shtesash
 preferences =
     { PLATFORM() ->
         [windows] Mundësi { -brand-short-name }-i
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Mjete për krejt shtesat
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Mundësi { -brand-short-name }-i
+           *[other] Parapëlqime { -brand-short-name }-i
+        }
 show-unsigned-extensions-button =
     .label = Disa nga shtesat nuk u verifikuan dot
 show-all-extensions-button =
@@ -166,13 +174,29 @@ extensions-view-available-updates =
     .name = Përditësime të Gatshme
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Rekomandime
+addon-category-discover-title =
+    .title = Rekomandime
 addon-category-extension = Zgjerime
+addon-category-extension-title =
+    .title = Zgjerime
 addon-category-theme = Tema
+addon-category-theme-title =
+    .title = Tema
 addon-category-plugin = Shtojca
+addon-category-plugin-title =
+    .title = Shtojca
 addon-category-dictionary = Fjalorë
+addon-category-dictionary-title =
+    .title = Fjalorë
 addon-category-locale = Gjuhë
+addon-category-locale-title =
+    .title = Gjuhë
 addon-category-available-updates = Përditësime të Gatshme
+addon-category-available-updates-title =
+    .title = Përditësime të Gatshme
 addon-category-recent-updates = Përditësime Së Fundi
+addon-category-recent-updates-title =
+    .title = Përditësime Së Fundi
 
 ## These are global warnings
 
@@ -310,6 +334,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Shfaq Më Pak
 go-back-button =
     .tooltiptext = Kthehuni mbrapsht
+header-back-button =
+    .title = Kthehuni mbrapsht
 
 ## Recommended add-ons page
 
