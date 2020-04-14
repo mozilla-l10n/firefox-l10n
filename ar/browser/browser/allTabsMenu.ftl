@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = أعِد فتح اللسان
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = ابحث في الألسنة
 all-tabs-menu-new-user-context =
     .label = لسان حاوٍ جديد
+all-tabs-menu-hidden-tabs =
+    .label = الألسنة المخفية
+all-tabs-menu-manage-user-context =
+    .label = أدِر الحاويات
+    .accesskey = ح
