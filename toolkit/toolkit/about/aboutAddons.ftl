@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalar un complemento dende un fichero…
     .accesskey = I
 help-button = Asistencia d'os complementos
+sidebar-help-button-title =
+    .title = Asistencia d'os complementos
 preferences =
     { PLATFORM() ->
         [windows] Opcions de { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Ainas ta totz os complementos
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opcions de { -brand-short-name }
+           *[other] Preferencias de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = No s'ha puesto verificar bellas extensions
 show-all-extensions-button =
@@ -149,6 +157,8 @@ addon-category-extension = Extensions
 addon-category-extension-title =
     .title = Extensions
 addon-category-theme = Temas
+addon-category-theme-title =
+    .title = Temas
 addon-category-plugin = Plugins
 addon-category-plugin-title =
     .title = Plugins
