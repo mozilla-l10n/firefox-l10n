@@ -10,3 +10,5 @@ bookmark-overlay-location =
     .accesskey = L
 bookmark-overlay-folder =
     .value = Folder:
+bookmark-overlay-choose =
+    .label = Mamili…
