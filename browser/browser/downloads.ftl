@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Abrir pasta
     .accesskey = r
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Mostrar no Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostrar no Finder
+           *[other] Abrir pasta
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
