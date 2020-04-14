@@ -6,3 +6,6 @@ all-tabs-menu-undo-close-tab =
     .label = Annuler la fermeture de l’onglet
 all-tabs-menu-new-user-context =
     .label = Nouvel onglet contextuel
+all-tabs-menu-manage-user-context =
+    .label = Gérer les contextes
+    .accesskey = o
