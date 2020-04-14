@@ -159,10 +159,20 @@ addon-category-discover = سفارشات
 addon-category-extension = ایکسٹینشن
 addon-category-theme = خیالیے
 addon-category-plugin = پلگ ان
+addon-category-plugin-title =
+    .title = پلگ ان
 addon-category-dictionary = لغات
+addon-category-dictionary-title =
+    .title = لغات
 addon-category-locale = زبانیں
+addon-category-locale-title =
+    .title = زبانیں
 addon-category-available-updates = دستیاب تازہ کاریاں
+addon-category-available-updates-title =
+    .title = دستیاب تازہ کاریاں
 addon-category-recent-updates = حالیہ تازہ کاریاں
+addon-category-recent-updates-title =
+    .title = حالیہ تازہ کاریاں
 
 ## These are global warnings
 
