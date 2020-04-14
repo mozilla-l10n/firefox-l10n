@@ -168,12 +168,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Je’eporã
 addon-category-extension = Mba'ejoapyrã
+addon-category-extension-title =
+    .title = Mba'ejoapyrã
 addon-category-theme = Téma
 addon-category-plugin = Mba'ejoajurã
+addon-category-plugin-title =
+    .title = Mba'ejoajurã
 addon-category-dictionary = Ñe'ẽryru
+addon-category-dictionary-title =
+    .title = Ñe'ẽryru
 addon-category-locale = Ñe'ẽita
+addon-category-locale-title =
+    .title = Ñe'ẽita
 addon-category-available-updates = Ñembohekopyahu eipurukuaáva
+addon-category-available-updates-title =
+    .title = Ñembohekopyahu eipurukuaáva
 addon-category-recent-updates = Ñembohekopyahu ramovéva
+addon-category-recent-updates-title =
+    .title = Ñembohekopyahu ramovéva
 
 ## These are global warnings
 
