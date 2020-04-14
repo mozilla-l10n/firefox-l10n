@@ -10,3 +10,6 @@ bookmark-overlay-location =
     .accesskey = d
 bookmark-overlay-folder =
     .value = Mappe:
+bookmark-overlay-new-folder-button =
+    .label = Ny mappe
+    .accesskey = N
