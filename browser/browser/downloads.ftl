@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Anulla
 downloads-cmd-cancel-panel =
     .aria-label = Anulla
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Arvi cartella
+    .accesskey = c
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Fanni vedde into Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Fanni vedde into Finder
+           *[other] Arvi cartella
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
