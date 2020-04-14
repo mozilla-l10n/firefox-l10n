@@ -2,9 +2,14 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+bookmark-overlay-name =
+    .value = Nombre:
+    .accesskey = N
 bookmark-overlay-location =
     .value = Dirección:
     .accesskey = c
+bookmark-overlay-folder =
+    .value = Carpeta:
 bookmark-overlay-choose =
     .label = Elegir…
 bookmark-overlay-folders-expander =
