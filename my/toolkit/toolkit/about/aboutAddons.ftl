@@ -125,11 +125,19 @@ extensions-view-available-updates =
     .name = ရရှိနိုင်သော အဆင့်မြင်တင်မှု
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = တိုးချဲ့ချက်များ
+addon-category-extension-title =
+    .title = တိုးချဲ့ချက်များ
 addon-category-plugin = ပလပ်အင်
+addon-category-plugin-title =
+    .title = ပလပ်အင်
 addon-category-dictionary = အဘိဓာန်များ
 addon-category-locale = ဘာသာ စကားများ
+addon-category-locale-title =
+    .title = ဘာသာ စကားများ
 addon-category-available-updates = ရရှိနိုင်သော အဆင့်မြင်တင်မှု
 addon-category-recent-updates = လက်ရှိ အသစ်
+addon-category-recent-updates-title =
+    .title = လက်ရှိ အသစ်
 
 ## These are global warnings
 
