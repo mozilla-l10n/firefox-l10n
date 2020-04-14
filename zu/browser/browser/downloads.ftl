@@ -20,15 +20,19 @@ downloads-cmd-resume =
     .label = Qala futhi
     .accesskey = Q
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Vula Equkethe I-iFolda
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Bonisa kwisitholi
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = k
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Bonisa kwisitholi
+           *[other] Vula Equkethe I-iFolda
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
