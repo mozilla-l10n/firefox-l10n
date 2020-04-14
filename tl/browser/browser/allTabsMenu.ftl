@@ -7,6 +7,10 @@ all-tabs-menu-undo-close-tab =
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Hanapin sa mga tab
+all-tabs-menu-new-user-context =
+    .label = Bagong Container Tab
+all-tabs-menu-hidden-tabs =
+    .label = Mga Nakatagong Tab
 all-tabs-menu-manage-user-context =
     .label = Manage Containers
     .accesskey = O
