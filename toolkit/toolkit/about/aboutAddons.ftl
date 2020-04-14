@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalar complemento desde o ficheiro…
     .accesskey = I
 help-button = Asistencia dos módulos
+sidebar-help-button-title =
+    .title = Asistencia dos módulos
 preferences =
     { PLATFORM() ->
         [windows] Opcións de { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Ferramentas para todos os complementos
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opcións de { -brand-short-name }
+           *[other] Preferencias de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Non foi posíbel comprobar algunhas extensións
 show-all-extensions-button =
