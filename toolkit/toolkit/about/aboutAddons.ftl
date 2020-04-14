@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Инсталиране на добавка от файл…
     .accesskey = И
 help-button = Поддръжка
+sidebar-help-button-title =
+    .title = Поддръжка
 preferences =
     { PLATFORM() ->
         [windows] Настройки на { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Инструменти за всички добавки
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Настройки на { -brand-short-name }
+           *[other] Настройки на { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Някои разширения не можаха да бъдат проверени
 show-all-extensions-button =
@@ -165,6 +173,8 @@ extensions-view-available-updates =
 addon-category-discover = Препоръки
 addon-category-extension = Разширения
 addon-category-theme = Теми
+addon-category-theme-title =
+    .title = Теми
 addon-category-plugin = Приставки
 addon-category-dictionary = Речници
 addon-category-locale = Езици
@@ -301,6 +311,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = По-малко
 go-back-button =
     .tooltiptext = Назад
+header-back-button =
+    .title = Назад
 
 ## Recommended add-ons page
 
