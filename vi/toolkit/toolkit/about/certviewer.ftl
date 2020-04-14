@@ -101,7 +101,7 @@ certificate-viewer-export = Xuất
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
-certificate-viewer-tab-mine = Chứng chỉ của Bạn
+certificate-viewer-tab-mine = Chứng nhận của bạn
 certificate-viewer-tab-people = Mọi người
 certificate-viewer-tab-servers = Máy chủ
 certificate-viewer-tab-ca = Nhà thẩm định
