@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Buksang Muli ang Isinarang Tab
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Hanapin sa mga tab
 all-tabs-menu-manage-user-context =
     .label = Manage Containers
     .accesskey = O
