@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = বন্ধ করা ট্যাব পুনরায় খুলুন
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = ট্যাব অনুসন্ধান করুন
 all-tabs-menu-new-user-context =
     .label = নতুন কন্টেইনার ট্যাব
 all-tabs-menu-hidden-tabs =
