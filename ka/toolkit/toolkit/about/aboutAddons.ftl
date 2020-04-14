@@ -180,6 +180,8 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = შემოთავაზებები
 addon-category-extension = გაფართოებები
+addon-category-extension-title =
+    .title = გაფართოებები
 addon-category-theme = თემები
 addon-category-theme-title =
     .title = თემები
@@ -193,7 +195,11 @@ addon-category-locale = ენები
 addon-category-locale-title =
     .title = ენები
 addon-category-available-updates = ხელმისწვდომი განახლებები
+addon-category-available-updates-title =
+    .title = ხელმისწვდომი განახლებები
 addon-category-recent-updates = ბოლო განახლებები
+addon-category-recent-updates-title =
+    .title = ბოლო განახლებები
 
 ## These are global warnings
 
