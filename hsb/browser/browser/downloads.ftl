@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Přetorhnyć
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Wobsahowacy rjadowak wočinić
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = b
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = W programje Finder pokazać
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] W programje Finder pokazać
+           *[other] Wobsahowacy rjadowak wočinić
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
