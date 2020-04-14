@@ -181,14 +181,24 @@ addon-category-discover = Рэкамендацыі
 addon-category-discover-title =
     .title = Рэкамендацыі
 addon-category-extension = Пашырэнні
+addon-category-extension-title =
+    .title = Пашырэнні
 addon-category-theme = Тэмы
 addon-category-theme-title =
     .title = Тэмы
 addon-category-plugin = Плагіны
 addon-category-dictionary = Слоўнікі
+addon-category-dictionary-title =
+    .title = Слоўнікі
 addon-category-locale = Мовы
+addon-category-locale-title =
+    .title = Мовы
 addon-category-available-updates = Даступныя абнаўленні
+addon-category-available-updates-title =
+    .title = Даступныя абнаўленні
 addon-category-recent-updates = Нядаўнія абнаўленні
+addon-category-recent-updates-title =
+    .title = Нядаўнія абнаўленні
 
 ## These are global warnings
 
