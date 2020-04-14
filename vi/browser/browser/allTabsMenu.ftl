@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Mở lại thẻ vừa đóng
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Tìm kiếm thẻ
 all-tabs-menu-new-user-context =
     .label = Thẻ ngăn chứa mới
+all-tabs-menu-hidden-tabs =
+    .label = Thẻ đã ẩn
+all-tabs-menu-manage-user-context =
+    .label = Quản lý Ngăn chứa
+    .accesskey = O
