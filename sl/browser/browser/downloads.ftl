@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Prekliči
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Odpri vsebujočo mapo
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = V
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Prikaži v Finderju
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Prikaži v Finderju
+           *[other] Odpri vsebujočo mapo
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
