@@ -49,7 +49,7 @@ policy-DisableTelemetry = Desactiva la telemetria.
 policy-DisplayBookmarksToolbar = Aficha la barra personala per defaut.
 policy-DisplayMenuBar = Aficha la barra de menús per defaut.
 policy-DNSOverHTTPS = Permet de configurar lo DNS over HTTPS.
-policy-DontCheckDefaultBrowser = Desactiva la verificacion del navegador per defaut en aviar.
+policy-DontCheckDefaultBrowser = Desactiva la verificacion del navegador per defaut en aviant.
 policy-DownloadDirectory = Definir e verrolhar lo dossièr de telecargament.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activa o desactiva lo blocatge del contengut e permet de clavar aqueste causida.
