@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = टॅब बंद करणे पूर्ववत् करा
+all-tabs-menu-new-user-context =
+    .label = नवीन कंटेनर टॅब
