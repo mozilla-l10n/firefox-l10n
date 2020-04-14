@@ -169,12 +169,22 @@ extensions-view-available-updates =
     .tooltiptext = Saatavilla olevat päivitykset
 addon-category-discover = Suositukset
 addon-category-extension = Laajennukset
+addon-category-extension-title =
+    .title = Laajennukset
 addon-category-theme = Teemat
 addon-category-plugin = Liitännäiset
+addon-category-plugin-title =
+    .title = Liitännäiset
 addon-category-dictionary = Oikoluvut
+addon-category-dictionary-title =
+    .title = Oikoluvut
 addon-category-locale = Kielet
+addon-category-locale-title =
+    .title = Kielet
 addon-category-available-updates = Päivitykset
 addon-category-recent-updates = Tuoreet päivitykset
+addon-category-recent-updates-title =
+    .title = Tuoreet päivitykset
 
 ## These are global warnings
 
