@@ -7,6 +7,8 @@ detail-home-value =
 detail-repository-value =
     .value = { detail-repository.label }
 addon-category-extension = Tichumanisi
+addon-category-extension-title =
+    .title = Tichumanisi
 
 ## These are global warnings
 
