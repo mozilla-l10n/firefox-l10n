@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Скасувати
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Відкрити теку з файлом
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = т
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Показати у Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Показати у Finder
+           *[other] Відкрити теку з файлом
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
