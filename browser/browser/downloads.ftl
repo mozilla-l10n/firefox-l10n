@@ -23,6 +23,20 @@ downloads-cmd-cancel =
     .tooltiptext = Rhoxisa
 downloads-cmd-cancel-panel =
     .aria-label = Rhoxisa
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Vula ifolda enento
+    .accesskey = f
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Bonisa KwiSifumanisi
+    .accesskey = S
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Bonisa KwiSifumanisi
+           *[other] Vula ifolda enento
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
