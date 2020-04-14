@@ -129,12 +129,24 @@ extensions-view-available-updates =
     .name = Pieejamie atjauninājumi
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Papildinājumi
+addon-category-extension-title =
+    .title = Papildinājumi
 addon-category-theme = Tēmas
 addon-category-plugin = Spraudņi
+addon-category-plugin-title =
+    .title = Spraudņi
 addon-category-dictionary = Vārdnīcas
+addon-category-dictionary-title =
+    .title = Vārdnīcas
 addon-category-locale = Valodas
+addon-category-locale-title =
+    .title = Valodas
 addon-category-available-updates = Pieejamie atjauninājumi
+addon-category-available-updates-title =
+    .title = Pieejamie atjauninājumi
 addon-category-recent-updates = Nesenie atjauninājumi
+addon-category-recent-updates-title =
+    .title = Nesenie atjauninājumi
 
 ## These are global warnings
 
