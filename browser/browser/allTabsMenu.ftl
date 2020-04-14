@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Anulla særa feuggio
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Çerca inte schede
 all-tabs-menu-new-user-context =
     .label = Neuvo feuggio contenitô
 all-tabs-menu-hidden-tabs =
