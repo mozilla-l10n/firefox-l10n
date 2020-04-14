@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installer un module depuis un fichier…
     .accesskey = I
 help-button = Assistance des modules
+sidebar-help-button-title =
+    .title = Assistance des modules
 preferences =
     { PLATFORM() ->
         [windows] Options de { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Outils pour tous les modules
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Options de { -brand-short-name }
+           *[other] Préférences de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Certaines extensions n’ont pas pu être vérifiées
 show-all-extensions-button =
