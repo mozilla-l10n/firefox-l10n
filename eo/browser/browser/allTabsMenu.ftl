@@ -9,3 +9,6 @@ all-tabs-menu-search-tabs =
     .label = Serĉi langetojn
 all-tabs-menu-new-user-context =
     .label = Nova inga langeto
+all-tabs-menu-manage-user-context =
+    .label = Administri ingojn
+    .accesskey = i
