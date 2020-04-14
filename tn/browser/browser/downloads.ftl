@@ -19,10 +19,20 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Simolola gape
     .accesskey = S
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Bula e e Nang Setsholadifaele
+    .accesskey = S
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Bontsha mo Sebatling
     .accesskey = S
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Bontsha mo Sebatling
+           *[other] Bula e e Nang Setsholadifaele
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
