@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക
+all-tabs-menu-new-user-context =
+    .label = പുതിയ കണ്ടെയ്നർ ടാബ്
