@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = התקנת תוספת מקובץ…
     .accesskey = ה
 help-button = תמיכה בתוספות
+sidebar-help-button-title =
+    .title = תמיכה בתוספות
 preferences =
     { PLATFORM() ->
         [windows] אפשרויות של { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = כלים עבור כל התוספות
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] אפשרויות של { -brand-short-name }
+           *[other] העדפות של { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = אין אפשרות לאמת חלק מההרחבות
 show-all-extensions-button =
@@ -167,10 +175,14 @@ extensions-view-available-updates =
     .name = עדכונים זמינים
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = המלצות
+addon-category-discover-title =
+    .title = המלצות
 addon-category-extension = הרחבות
 addon-category-extension-title =
     .title = הרחבות
 addon-category-theme = ערכות נושא
+addon-category-theme-title =
+    .title = ערכות נושא
 addon-category-plugin = תוספים חיצוניים
 addon-category-plugin-title =
     .title = תוספים חיצוניים
@@ -324,6 +336,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = הצגת פחות
 go-back-button =
     .tooltiptext = חזרה אחורה
+header-back-button =
+    .title = חזרה אחורה
 
 ## Recommended add-ons page
 
