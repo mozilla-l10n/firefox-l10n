@@ -58,11 +58,23 @@ extensions-view-available-updates =
     .name = Inzornaments disponibii
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Estensions
+addon-category-extension-title =
+    .title = Estensions
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-dictionary = Dizionaris
+addon-category-dictionary-title =
+    .title = Dizionaris
 addon-category-locale = Lenghis
+addon-category-locale-title =
+    .title = Lenghis
 addon-category-available-updates = Inzornaments disponibii
+addon-category-available-updates-title =
+    .title = Inzornaments disponibii
 addon-category-recent-updates = Ultins inzornaments
+addon-category-recent-updates-title =
+    .title = Ultins inzornaments
 
 ## These are global warnings
 
