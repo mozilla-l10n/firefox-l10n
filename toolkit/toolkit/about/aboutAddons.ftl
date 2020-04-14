@@ -129,12 +129,22 @@ extensions-view-available-updates =
     .name = Kesɗitine Goodaaɗe
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Timmitte
+addon-category-extension-title =
+    .title = Timmitte
 addon-category-theme = Ciŋkooje
 addon-category-plugin = Ceŋe
+addon-category-plugin-title =
+    .title = Ceŋe
 addon-category-dictionary = Caggitorɗe
 addon-category-locale = Ɗemɗe
+addon-category-locale-title =
+    .title = Ɗemɗe
 addon-category-available-updates = Kesɗitine Goodaaɗe
+addon-category-available-updates-title =
+    .title = Kesɗitine Goodaaɗe
 addon-category-recent-updates = Kesɗitine Cakkitiiɗe
+addon-category-recent-updates-title =
+    .title = Kesɗitine Cakkitiiɗe
 
 ## These are global warnings
 
