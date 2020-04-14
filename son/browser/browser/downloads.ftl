@@ -23,6 +23,20 @@ downloads-cmd-cancel =
     .tooltiptext = Naŋ
 downloads-cmd-cancel-panel =
     .aria-label = Naŋ
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Feeri foolo kaŋ goo nda
+    .accesskey = f
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Cebe Finder ra
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Cebe Finder ra
+           *[other] Feeri foolo kaŋ goo nda
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
