@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Pesquisar mensagens…">
 <!ENTITY searchMailCmd.accesskey "P">
 <!ENTITY searchMailCmd.key "F">
+<!ENTITY glodaSearchCmd.label "Pesquisa global…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Pesquisar catálogo…">
 <!ENTITY searchAddressesCmd.accesskey "e">
 
