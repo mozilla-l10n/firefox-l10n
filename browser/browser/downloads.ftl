@@ -29,15 +29,9 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Ακύρωση
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Άνοιγμα φακέλου λήψης
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = φ
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Προβολή στο Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = ρ
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
