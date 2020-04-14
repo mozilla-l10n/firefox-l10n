@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = ඇඩෝන ගොනුවෙන් ස්ථාපනය කරන්න…
     .accesskey = I
 help-button = ඇඩෝන සහාය
+sidebar-help-button-title =
+    .title = ඇඩෝන සහාය
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } විකල්ප
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = සියළු ඇඩෝන සඳහා මෙවලම්
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } විකල්ප
+           *[other] { -brand-short-name } අභිප්‍රේත
+        }
 show-unsigned-extensions-button =
     .label = ඇතැම් දිගු තහවුරු කළ නොහැක
 show-all-extensions-button =
