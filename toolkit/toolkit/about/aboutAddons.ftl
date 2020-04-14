@@ -33,6 +33,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Herramientas para todos los complementos
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opciones de { -brand-short-name }
+           *[other] Preferencias de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Algunas extensiones no han podido ser verificadas
 show-all-extensions-button =
