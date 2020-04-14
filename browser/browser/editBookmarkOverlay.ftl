@@ -5,10 +5,17 @@
 bookmark-overlay-name =
     .value = Ad:
     .accesskey = A
+bookmark-overlay-location =
+    .value = Ünvan:
+    .accesskey = v
 bookmark-overlay-folder =
     .value = Qovluq:
 bookmark-overlay-choose =
     .label = Seçin…
+bookmark-overlay-folders-expander =
+    .tooltiptext = Bütün əlfəcin qovluqlarını göstər
+    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
+    .tooltiptextup = Gizləyir
 bookmark-overlay-new-folder-button =
     .label = Yeni qovluq
     .accesskey = q
