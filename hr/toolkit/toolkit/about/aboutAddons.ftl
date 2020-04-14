@@ -188,7 +188,11 @@ addon-category-locale = Jezici
 addon-category-locale-title =
     .title = Jezici
 addon-category-available-updates = Dostupne dopune
+addon-category-available-updates-title =
+    .title = Dostupne dopune
 addon-category-recent-updates = Nedavne dopune
+addon-category-recent-updates-title =
+    .title = Nedavne dopune
 
 ## These are global warnings
 
