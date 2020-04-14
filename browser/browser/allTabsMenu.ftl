@@ -4,3 +4,8 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Reabrir aba
+all-tabs-menu-new-user-context =
+    .label = Nova aba contêiner
+all-tabs-menu-manage-user-context =
+    .label = Gerenciar contêineres
+    .accesskey = O
