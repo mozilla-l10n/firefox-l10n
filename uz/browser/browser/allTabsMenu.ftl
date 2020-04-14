@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Yopilgan ichki oynani qaytarish
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Ichki oynalarni izlash
 all-tabs-menu-new-user-context =
     .label = Yangi Konteyner ichki oynasi
 all-tabs-menu-hidden-tabs =
