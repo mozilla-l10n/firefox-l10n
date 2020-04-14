@@ -8,3 +8,6 @@ all-tabs-menu-new-user-context =
     .label = नया पात्र टैब
 all-tabs-menu-hidden-tabs =
     .label = गुप्त टैब
+all-tabs-menu-manage-user-context =
+    .label = कंटेनर को प्रबंधित करें
+    .accesskey = O
