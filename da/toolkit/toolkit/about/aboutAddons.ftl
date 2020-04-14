@@ -33,6 +33,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Indstillinger for alle tilføjelser
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Indstillinger for { -brand-short-name }
+           *[other] Indstillinger for { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Nogle udvidelser kunne ikke bekræftes
 show-all-extensions-button =
@@ -182,7 +188,11 @@ addon-category-theme = Temaer
 addon-category-plugin = Plugins
 addon-category-dictionary = Ordbøger
 addon-category-locale = Sprog
+addon-category-locale-title =
+    .title = Sprog
 addon-category-available-updates = Tilgængelige opdateringer
+addon-category-available-updates-title =
+    .title = Tilgængelige opdateringer
 addon-category-recent-updates = Seneste opdateringer
 
 ## These are global warnings
