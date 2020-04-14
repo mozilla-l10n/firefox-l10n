@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Gosod Ychwanegyn o Ffeil…
     .accesskey = G
 help-button = Cefnogaeth Ychwanegion
+sidebar-help-button-title =
+    .title = Cefnogaeth Ychwanegion
 preferences =
     { PLATFORM() ->
         [windows] Dewisiadau { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Offer ar gyfer pob ychwanegyn
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Dewisiadau { -brand-short-name }
+           *[other] Dewisiadau { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Nid oedd modd dilysu rhai estyniadau
 show-all-extensions-button =
@@ -165,6 +173,8 @@ extensions-view-available-updates =
     .name = Diweddariadau ar Gael
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Argymhellion
+addon-category-discover-title =
+    .title = Argymhellion
 addon-category-extension = Estyniadau
 addon-category-extension-title =
     .title = Estyniadau
@@ -322,6 +332,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Dangos Llai
 go-back-button =
     .tooltiptext = Mynd nôl
+header-back-button =
+    .title = Mynd nôl
 
 ## Recommended add-ons page
 
