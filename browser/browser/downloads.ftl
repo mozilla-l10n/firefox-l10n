@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Zrušiť
 downloads-cmd-cancel-panel =
     .aria-label = Zrušiť
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Otvoriť priečinok so súborom
+    .accesskey = b
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Zobraziť vo Finderi
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Zobraziť vo Finderi
+           *[other] Otvoriť priečinok so súborom
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
