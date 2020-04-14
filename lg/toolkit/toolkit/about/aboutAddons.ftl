@@ -112,11 +112,23 @@ extensions-view-available-updates =
     .name = Eby'okutuukanya ebiriwo
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Ebyongerebwako
+addon-category-extension-title =
+    .title = Ebyongerebwako
 addon-category-plugin = Ebyongerwako
+addon-category-plugin-title =
+    .title = Ebyongerwako
 addon-category-dictionary = Enkuluze
+addon-category-dictionary-title =
+    .title = Enkuluze
 addon-category-locale = Enimi
+addon-category-locale-title =
+    .title = Enimi
 addon-category-available-updates = Eby'okutuukanya ebiriwo
+addon-category-available-updates-title =
+    .title = Eby'okutuukanya ebiriwo
 addon-category-recent-updates = Ebituusa ebbipya
+addon-category-recent-updates-title =
+    .title = Ebituusa ebbipya
 
 ## These are global warnings
 
