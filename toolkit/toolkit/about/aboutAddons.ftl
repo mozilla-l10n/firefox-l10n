@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalar de um arquivo…
     .accesskey = I
 help-button = Suporte para extensões
+sidebar-help-button-title =
+    .title = Suporte para extensões
 preferences =
     { PLATFORM() ->
         [windows] Opções do { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Ferramentas para todas as extensões
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opções do { -brand-short-name }
+           *[other] Preferências do { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Algumas extensões não puderam ser verificadas
 show-all-extensions-button =
@@ -173,6 +181,8 @@ extensions-view-available-updates =
     .name = Atualizações disponíveis
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recomendações
+addon-category-discover-title =
+    .title = Recomendações
 addon-category-extension = Extensões
 addon-category-theme = Temas
 addon-category-plugin = Plugins
@@ -318,6 +328,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mostrar menos
 go-back-button =
     .tooltiptext = Voltar
+header-back-button =
+    .title = Voltar
 
 ## Recommended add-ons page
 
