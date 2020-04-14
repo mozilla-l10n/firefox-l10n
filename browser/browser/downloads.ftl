@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Öppna objektets mapp
     .accesskey = m
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Visa i Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Visa i Finder
+           *[other] Öppna objektets mapp
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
