@@ -157,7 +157,11 @@ addon-category-plugin = Rwaki iyie
 addon-category-dictionary = Buk me gonyo nyukta
 addon-category-locale = Leb
 addon-category-available-updates = Ngec manyen matye
+addon-category-available-updates-title =
+    .title = Ngec manyen matye
 addon-category-recent-updates = Ngec manyen ma cokki
+addon-category-recent-updates-title =
+    .title = Ngec manyen ma cokki
 
 ## These are global warnings
 
