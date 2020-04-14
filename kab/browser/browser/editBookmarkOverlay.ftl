@@ -28,3 +28,6 @@ bookmark-overlay-tags-expander =
     .tooltiptext = Sken akk tibzimin
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Ffer
+bookmark-overlay-keyword =
+    .value = Awal n tsarutt:
+    .accesskey = s
