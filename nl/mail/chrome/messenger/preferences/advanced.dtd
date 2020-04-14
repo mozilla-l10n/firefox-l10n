@@ -9,7 +9,7 @@
 <!ENTITY itemCertificates.label  "Certificaten">
 
 <!-- General Settings -->
-<!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexer activeren">
+<!ENTITY enableGlodaSearch.label       "Globaal zoeken en indexeren activeren">
 <!ENTITY enableGlodaSearch.accesskey   "G">
 <!ENTITY dateTimeFormatting.label      "Datum- en tijdopmaak">
 <!ENTITY languageSelector.label        "Taal">
@@ -58,7 +58,7 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
-<!ENTITY updateApp2.label                 "&brandShortName;-updates">
+<!ENTITY updateApp2.label                "&brandShortName;-updates">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
@@ -118,10 +118,11 @@
 <!ENTITY enableOCSP.label                "OCSP-responderservers vragen om de huidige geldigheid van certificaten te bevestigen">
 <!ENTITY enableOCSP.accesskey            "v">
 
-<!ENTITY manageCertificates.label       "Certificaten beheren">
-<!ENTITY manageCertificates.accesskey   "C">
-<!ENTITY viewSecurityDevices.label      "Beveiligingsapparaten">
-<!ENTITY viewSecurityDevices.accesskey  "B">
+<!ENTITY manageCertificates.label "Certificaten beheren">
+<!ENTITY manageCertificates.accesskey "C">
+<!ENTITY viewSecurityDevices.label "Beveiligingsapparaten">
+<!ENTITY viewSecurityDevices.accesskey "B">
+
 <!ENTITY manageCertificates2.label "Certificaten beheren…">
 <!ENTITY manageCertificates2.accesskey "C">
 <!ENTITY viewSecurityDevices2.label "Beveiligingsapparaten…">
