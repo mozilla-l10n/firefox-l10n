@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Paigalda lisa failist…
     .accesskey = P
 help-button = Lisade kasutajatugi
+sidebar-help-button-title =
+    .title = Lisade kasutajatugi
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name }i sätted
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Tööriistad kõigile lisadele
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name }i sätted
+           *[other] { -brand-short-name }i eelistused
+        }
 show-unsigned-extensions-button =
     .label = Mõnda laiendust polnud võimalik verifitseerida
 show-all-extensions-button =
@@ -168,13 +176,29 @@ extensions-view-available-updates =
     .name = Saadaolevad uuendused
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Soovitused
+addon-category-discover-title =
+    .title = Soovitused
 addon-category-extension = Laiendused
+addon-category-extension-title =
+    .title = Laiendused
 addon-category-theme = Teemad
+addon-category-theme-title =
+    .title = Teemad
 addon-category-plugin = Pluginad
+addon-category-plugin-title =
+    .title = Pluginad
 addon-category-dictionary = Sõnaraamatud
+addon-category-dictionary-title =
+    .title = Sõnaraamatud
 addon-category-locale = Keeled
+addon-category-locale-title =
+    .title = Keeled
 addon-category-available-updates = Saadaolevad uuendused
+addon-category-available-updates-title =
+    .title = Saadaolevad uuendused
 addon-category-recent-updates = Hiljutised uuendused
+addon-category-recent-updates-title =
+    .title = Hiljutised uuendused
 
 ## These are global warnings
 
@@ -312,6 +336,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Näita vähem
 go-back-button =
     .tooltiptext = Mine tagasi
+header-back-button =
+    .title = Mine tagasi
 
 ## Recommended add-ons page
 
