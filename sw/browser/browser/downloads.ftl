@@ -23,6 +23,16 @@ downloads-cmd-resume =
 downloads-cmd-show-menuitem =
     .label = Fungua Kabrasha Iliyo na
     .accesskey = I
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Onyesha Katila Kipataji
+    .accesskey = K
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Onyesha Katila Kipataji
+           *[other] Fungua Kabrasha Iliyo na
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
