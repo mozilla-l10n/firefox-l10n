@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = మూసిన ట్యాబుని తిరిగి తెరువు
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = ట్యాబులలో వెతకండి
 all-tabs-menu-new-user-context =
     .label = కొత్త కంటైనర్ ట్యాబు
 all-tabs-menu-hidden-tabs =
