@@ -11,6 +11,8 @@ detail-home-value =
 detail-repository-value =
     .value = { detail-repository.label }
 addon-category-locale = Limba
+addon-category-locale-title =
+    .title = Limba
 
 ## These are global warnings
 
