@@ -169,12 +169,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Iwellihen
 addon-category-extension = Isiɣzaf
+addon-category-extension-title =
+    .title = Isiɣzaf
 addon-category-theme = Isental
 addon-category-plugin = Izegrar
+addon-category-plugin-title =
+    .title = Izegrar
 addon-category-dictionary = Imawalen
+addon-category-dictionary-title =
+    .title = Imawalen
 addon-category-locale = Tutlayin
+addon-category-locale-title =
+    .title = Tutlayin
 addon-category-available-updates = Ileqman yellan
+addon-category-available-updates-title =
+    .title = Ileqman yellan
 addon-category-recent-updates = Ileqman n melmi kan
+addon-category-recent-updates-title =
+    .title = Ileqman n melmi kan
 
 ## These are global warnings
 
