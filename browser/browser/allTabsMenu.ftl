@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Angre lukking av fane
+all-tabs-menu-new-user-context =
+    .label = Ny innholdsfane
