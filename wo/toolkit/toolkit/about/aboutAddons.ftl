@@ -117,11 +117,21 @@ extensions-view-available-updates =
     .name = Yeesal yi féex
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Yokk yi
+addon-category-extension-title =
+    .title = Yokk yi
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-dictionary = Téere tekki baat
 addon-category-locale = Lammiñ yi
+addon-category-locale-title =
+    .title = Lammiñ yi
 addon-category-available-updates = Yeesal yi féex
+addon-category-available-updates-title =
+    .title = Yeesal yi féex
 addon-category-recent-updates = Yeesal
+addon-category-recent-updates-title =
+    .title = Yeesal
 
 ## These are global warnings
 
