@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Install Add-on From File…
     .accesskey = I
 help-button = Add-ons Support
+sidebar-help-button-title =
+    .title = Add-ons Support
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Options
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Tools for all add-ons
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Options
+           *[other] { -brand-short-name } Preferences
+        }
 show-unsigned-extensions-button =
     .label = Some extensions could not be verified
 show-all-extensions-button =
@@ -173,6 +181,8 @@ extensions-view-available-updates =
     .name = Available Updates
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recommendations
+addon-category-discover-title =
+    .title = Recommendations
 addon-category-extension = Extensions
 addon-category-extension-title =
     .title = Extensions
@@ -331,6 +341,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Show Less
 go-back-button =
     .tooltiptext = Go back
+header-back-button =
+    .title = Go back
 
 ## Recommended add-ons page
 
