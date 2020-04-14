@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Բացել թղթապանակը
     .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Ցուցադրել Finder-ում
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ցուցադրել Finder-ում
+           *[other] Բացել թղթապանակը
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
