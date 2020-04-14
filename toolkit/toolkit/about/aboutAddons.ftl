@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = 파일에서 부가 기능 설치…
     .accesskey = I
 help-button = 부가 기능 지원
+sidebar-help-button-title =
+    .title = 부가 기능 지원
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } 설정
@@ -171,6 +173,8 @@ addon-category-extension = 확장 기능
 addon-category-extension-title =
     .title = 확장 기능
 addon-category-theme = 테마
+addon-category-theme-title =
+    .title = 테마
 addon-category-plugin = 플러그인
 addon-category-plugin-title =
     .title = 플러그인
