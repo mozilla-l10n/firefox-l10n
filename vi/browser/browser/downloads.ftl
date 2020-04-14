@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = Hủy bỏ
 downloads-cmd-cancel-panel =
     .aria-label = Hủy bỏ
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Mở thư mục chứa
+    .accesskey = m
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
