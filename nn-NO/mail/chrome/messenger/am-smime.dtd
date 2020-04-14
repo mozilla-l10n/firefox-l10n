@@ -41,6 +41,7 @@
 
 
 <!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Handter OpenPGP-nøklar">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Vel sertifikat">
