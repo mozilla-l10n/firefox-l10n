@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Ouvrir le dossier contenant le fichier
     .accesskey = r
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Afficher dans le Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Afficher dans le Finder
+           *[other] Ouvrir le dossier contenant le fichier
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
