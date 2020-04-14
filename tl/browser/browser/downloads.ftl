@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Kanselahin
 downloads-cmd-cancel-panel =
     .aria-label = Kanselahin
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Buksan ang Folder na Kinalalagyan
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Ipakita Sa Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ipakita Sa Finder
+           *[other] Buksan ang Folder na Kinalalagyan
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
