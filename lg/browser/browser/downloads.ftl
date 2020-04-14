@@ -16,15 +16,19 @@ downloads-cmd-resume =
     .label = Biddemu ate
     .accesskey = B
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Ggulawo Ebirimu Etterekero
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = E
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Laga mu Kizuula
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = K
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Laga mu Kizuula
+           *[other] Ggulawo Ebirimu Etterekero
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
