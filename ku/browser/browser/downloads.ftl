@@ -20,15 +20,9 @@ downloads-cmd-resume =
     .label = Dubare bike
     .accesskey = D
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Peldanka ku tê de ye veke
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = P
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Di Finderê de nîşan bide
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
