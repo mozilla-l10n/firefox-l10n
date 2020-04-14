@@ -9,7 +9,11 @@ detail-home-value =
 detail-repository-value =
     .value = { detail-repository.label }
 addon-category-extension = Dikatoloso
+addon-category-extension-title =
+    .title = Dikatoloso
 addon-category-locale = Dipuo
+addon-category-locale-title =
+    .title = Dipuo
 
 ## These are global warnings
 
