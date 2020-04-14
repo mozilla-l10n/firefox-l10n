@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Fayldan əlavə qur...
     .accesskey = I
 help-button = Əlavə Dəstəyi
+sidebar-help-button-title =
+    .title = Əlavə Dəstəyi
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Seçimləri
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Bütün əlavələr üçün alətlər
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Seçimləri
+           *[other] { -brand-short-name } Nizamlamaları
+        }
 show-unsigned-extensions-button =
     .label = Bəzi uzantılar təsdiqlənə bilmirlər
 show-all-extensions-button =
@@ -147,6 +155,8 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Uzantılar
 addon-category-theme = Mövzular
+addon-category-theme-title =
+    .title = Mövzular
 addon-category-plugin = Qoşmalar
 addon-category-dictionary = Lüğətlər
 addon-category-dictionary-title =
@@ -285,6 +295,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Daha az göstər
 go-back-button =
     .tooltiptext = Geri get
+header-back-button =
+    .title = Geri get
 
 ## Recommended add-ons page
 
