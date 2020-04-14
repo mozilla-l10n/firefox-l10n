@@ -174,6 +174,8 @@ extensions-view-available-updates =
     .name = Dostupne dopune
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Preporuke
+addon-category-discover-title =
+    .title = Preporuke
 addon-category-extension = Dodaci
 addon-category-extension-title =
     .title = Dodaci
@@ -331,6 +333,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Prikaži manje
 go-back-button =
     .tooltiptext = Idi natrag
+header-back-button =
+    .title = Idi natrag
 
 ## Recommended add-ons page
 
