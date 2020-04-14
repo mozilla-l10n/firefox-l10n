@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Файлдан қосымшаны орнату…
     .accesskey = Ф
 help-button = Қосымшаларды қолдау
+sidebar-help-button-title =
+    .title = Қосымшаларды қолдау
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } опциялары
