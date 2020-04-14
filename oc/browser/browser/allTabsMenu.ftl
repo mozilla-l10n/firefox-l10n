@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Anullar la tampadura de l'onglet
+all-tabs-menu-new-user-context =
+    .label = Onglet contèxtual novèl
