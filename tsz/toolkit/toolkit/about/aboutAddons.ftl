@@ -9,6 +9,8 @@ detail-home-value =
 detail-repository-value =
     .value = { detail-repository.label }
 addon-category-locale = Uantakua
+addon-category-locale-title =
+    .title = Uantakua
 
 ## These are global warnings
 
