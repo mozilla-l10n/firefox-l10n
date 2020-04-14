@@ -1077,7 +1077,7 @@ security-block-uncommon-software =
 
 ## Privacy Section - Certificates
 
-certs-header = Chứng chỉ
+certs-header = Chứng nhận
 certs-personal-label = Khi một máy chủ yêu cầu chứng thực cá nhân của bạn
 certs-select-auto-option =
     .label = Tự động chọn một cái
@@ -1089,7 +1089,7 @@ certs-enable-ocsp =
     .label = Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng chỉ
     .accesskey = Q
 certs-view =
-    .label = Xem chứng chỉ…
+    .label = Xem chứng nhận…
     .accesskey = C
 certs-devices =
     .label = Thiết bị bảo mật…
