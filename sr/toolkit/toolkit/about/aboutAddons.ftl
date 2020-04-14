@@ -179,10 +179,20 @@ addon-category-theme = Теме
 addon-category-theme-title =
     .title = Теме
 addon-category-plugin = Прикључци
+addon-category-plugin-title =
+    .title = Прикључци
 addon-category-dictionary = Речници
+addon-category-dictionary-title =
+    .title = Речници
 addon-category-locale = Језици
+addon-category-locale-title =
+    .title = Језици
 addon-category-available-updates = Доступна ажурирања
+addon-category-available-updates-title =
+    .title = Доступна ажурирања
 addon-category-recent-updates = Недавна ажурирања
+addon-category-recent-updates-title =
+    .title = Недавна ажурирања
 
 ## These are global warnings
 
