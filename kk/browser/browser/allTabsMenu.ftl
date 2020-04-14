@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Жабылған бетті қайтару
+all-tabs-menu-new-user-context =
+    .label = Жаңа контейнерлік бет
