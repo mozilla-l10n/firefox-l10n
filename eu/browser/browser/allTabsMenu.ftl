@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Desegin fitxa ixtea
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Bilatu fitxak
 all-tabs-menu-new-user-context =
     .label = Edukiontzi-fitxa berria
+all-tabs-menu-hidden-tabs =
+    .label = Ezkutatutako fitxak
+all-tabs-menu-manage-user-context =
+    .label = Kudeatu edukiontziak
+    .accesskey = o
