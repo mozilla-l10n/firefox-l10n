@@ -190,6 +190,8 @@ addon-category-available-updates = Tillgängliga uppdateringar
 addon-category-available-updates-title =
     .title = Tillgängliga uppdateringar
 addon-category-recent-updates = Senaste uppdateringar
+addon-category-recent-updates-title =
+    .title = Senaste uppdateringar
 
 ## These are global warnings
 
