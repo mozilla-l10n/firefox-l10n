@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Afturkalla loka flipa
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Leita í flipum
 all-tabs-menu-new-user-context =
     .label = Nýr hópaflipi
 all-tabs-menu-hidden-tabs =
