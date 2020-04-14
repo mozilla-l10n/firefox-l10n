@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installera tillägg från fil…
     .accesskey = I
 help-button = Support för tillägg
+sidebar-help-button-title =
+    .title = Support för tillägg
 preferences =
     { PLATFORM() ->
         [windows] Inställningar för { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Verktyg för alla tillägg
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Inställningar för { -brand-short-name }
+           *[other] Inställningar för { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Vissa utökningar kunde inte verifieras
 show-all-extensions-button =
@@ -165,6 +173,8 @@ extensions-view-available-updates =
 addon-category-discover = Rekommendationer
 addon-category-extension = Tillägg
 addon-category-theme = Teman
+addon-category-theme-title =
+    .title = Teman
 addon-category-plugin = Insticksmoduler
 addon-category-dictionary = Ordlistor
 addon-category-locale = Språk
@@ -308,6 +318,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Visa mindre
 go-back-button =
     .tooltiptext = Gå tillbaka
+header-back-button =
+    .title = Gå tillbaka
 
 ## Recommended add-ons page
 
