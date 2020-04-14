@@ -334,6 +334,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Vis mindre
 go-back-button =
     .tooltiptext = Gå tilbake
+header-back-button =
+    .title = Gå tilbake
 
 ## Recommended add-ons page
 
