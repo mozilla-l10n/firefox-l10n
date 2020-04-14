@@ -164,12 +164,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Erbedadennoù
 addon-category-extension = Askouezhioù
+addon-category-extension-title =
+    .title = Askouezhioù
 addon-category-theme = Neuzioù
 addon-category-plugin = Enlugelladoù
+addon-category-plugin-title =
+    .title = Enlugelladoù
 addon-category-dictionary = Geriadurioù
+addon-category-dictionary-title =
+    .title = Geriadurioù
 addon-category-locale = Yezhoù
+addon-category-locale-title =
+    .title = Yezhoù
 addon-category-available-updates = Hizivadurioù hegerz
+addon-category-available-updates-title =
+    .title = Hizivadurioù hegerz
 addon-category-recent-updates = Hizivadurioù nevesañ
+addon-category-recent-updates-title =
+    .title = Hizivadurioù nevesañ
 
 ## These are global warnings
 
