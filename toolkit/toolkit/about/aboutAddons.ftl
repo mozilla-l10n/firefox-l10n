@@ -145,9 +145,15 @@ addon-category-extension = పొడగింతలు
 addon-category-theme = అలంకారాలు
 addon-category-plugin = చొప్పింతలు
 addon-category-dictionary = నిఘంటువులు
+addon-category-dictionary-title =
+    .title = నిఘంటువులు
 addon-category-locale = భాషలు
 addon-category-available-updates = అందుబాటులోని నవీకరణలు
+addon-category-available-updates-title =
+    .title = అందుబాటులోని నవీకరణలు
 addon-category-recent-updates = ఇటీవలి నవీకరణలు
+addon-category-recent-updates-title =
+    .title = ఇటీవలి నవీకరణలు
 
 ## These are global warnings
 
