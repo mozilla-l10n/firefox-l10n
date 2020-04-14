@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Bekor qilish
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Saqlangan jildni ochish
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = j
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Izlagichda koʻrsatish
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = I
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Izlagichda koʻrsatish
+           *[other] Saqlangan jildni ochish
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
