@@ -172,14 +172,26 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Препоръки
 addon-category-extension = Разширения
+addon-category-extension-title =
+    .title = Разширения
 addon-category-theme = Теми
 addon-category-theme-title =
     .title = Теми
 addon-category-plugin = Приставки
+addon-category-plugin-title =
+    .title = Приставки
 addon-category-dictionary = Речници
+addon-category-dictionary-title =
+    .title = Речници
 addon-category-locale = Езици
+addon-category-locale-title =
+    .title = Езици
 addon-category-available-updates = Налични обновявания
+addon-category-available-updates-title =
+    .title = Налични обновявания
 addon-category-recent-updates = Скорошни обновявания
+addon-category-recent-updates-title =
+    .title = Скорошни обновявания
 
 ## These are global warnings
 
