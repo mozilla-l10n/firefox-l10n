@@ -31,11 +31,11 @@ downloads-cmd-cancel-panel =
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = 開啟所在資料夾
-    .accesskey = F
+    .accesskey = f
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = 在 Finder 中顯示
-    .accesskey = F
+    .accesskey = f
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
