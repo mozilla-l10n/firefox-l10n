@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Dizober Serriñ an ivinell
+all-tabs-menu-new-user-context =
+    .label = Ivinell endalc'her nevez
