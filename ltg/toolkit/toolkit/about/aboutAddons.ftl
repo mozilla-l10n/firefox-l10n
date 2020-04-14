@@ -129,12 +129,24 @@ extensions-view-available-updates =
     .name = Pīejamī atjaunynuojumi
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Papyldynuojumi
+addon-category-extension-title =
+    .title = Papyldynuojumi
 addon-category-theme = Temys
 addon-category-plugin = Spraudni
+addon-category-plugin-title =
+    .title = Spraudni
 addon-category-dictionary = Vuordneicys
+addon-category-dictionary-title =
+    .title = Vuordneicys
 addon-category-locale = Volūdys
+addon-category-locale-title =
+    .title = Volūdys
 addon-category-available-updates = Pīejamī atjaunynuojumi
+addon-category-available-updates-title =
+    .title = Pīejamī atjaunynuojumi
 addon-category-recent-updates = Nasenī atjaunynuojumi
+addon-category-recent-updates-title =
+    .title = Nasenī atjaunynuojumi
 
 ## These are global warnings
 
