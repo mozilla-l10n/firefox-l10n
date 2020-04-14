@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "f">
 <!ENTITY removeSearchEngine.label         "Kendu">
 <!ENTITY removeSearchEngine.accesskey     "K">
+
+<!ENTITY minimizeToTray.label             "&brandShortName; txikitzen denean, mugitu erretilura">
+<!ENTITY minimizeToTray.accesskey         "t">

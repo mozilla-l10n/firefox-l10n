@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Ongi etorri { -brand-full-name }(e)ra
+account-settings = Kontu-ezarpenak
+#   $accounts (Number) - the number of configured accounts
 setup-title = Aukeratu zer konfiguratu
 about-title = { -brand-full-name }(r)i buruz
 resources-title = Baliabideak
@@ -22,6 +24,14 @@ filelink-label = Filelink
 filelink-description = { -brand-short-name } filelink hodeiko kontua konfiguratzen uzten dizu eranskin handiak modu errazean bidaltzeko.
 addressbook-label = Helbide-liburua
     .aria-label = Sortu Helbide-liburu berria
+addressbook-description = { -brand-short-name } zure kontaktu guztiak helbide liburuan antolatzen dizkizu. Urrutiko helbide liburu batera ere konekta zintezke zure kontaktu guztiak sinkronizatuta mantentzeko.
+feeds-label = Jarioak
+    .aria-label = Jarioetara konektatu
+feeds-description = { -brand-short-name } RSS/Atom jarioetara konektatzen zaitu berriak eta inguru guztiko eguneratzeak jasotzeko.
+newsgroups-label = Berri-taldeak
+    .aria-label = Berri-taldeetara konektatu
+newsgroups-description = { -brand-short-name } nahi duzun berri-taldeetara konektatzen zaitu.
+import-title = Inportatu beste programa batetik…
 about-donation = egin dohaintza
 explore-link = Eginbideak esploratu
 support-link = Laguntza
