@@ -136,7 +136,11 @@ addon-category-dictionary-title =
     .title = அகராதிகள்
 addon-category-locale = மொழிகள்
 addon-category-available-updates = இருக்கும் புதுப்பித்தல்கள்
+addon-category-available-updates-title =
+    .title = இருக்கும் புதுப்பித்தல்கள்
 addon-category-recent-updates = சமீபத்திய புதுப்பித்தல்கள்
+addon-category-recent-updates-title =
+    .title = சமீபத்திய புதுப்பித்தல்கள்
 
 ## These are global warnings
 
