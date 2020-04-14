@@ -20,7 +20,6 @@ downloads-cmd-resume =
     .label = Kongera gutangira
     .accesskey = g
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Gufungura Ububiko Burimo
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = B
