@@ -182,6 +182,8 @@ extensions-view-available-updates =
     .name = Доступна ажурирања
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Препоруке
+addon-category-discover-title =
+    .title = Препоруке
 addon-category-extension = Екстензије
 addon-category-extension-title =
     .title = Екстензије
@@ -341,6 +343,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Прикажи мање
 go-back-button =
     .tooltiptext = Иди назад
+header-back-button =
+    .title = Иди назад
 
 ## Recommended add-ons page
 
