@@ -181,9 +181,17 @@ addon-category-theme-title =
     .title = Teme
 addon-category-plugin = Pluginuri
 addon-category-dictionary = Dicționare
+addon-category-dictionary-title =
+    .title = Dicționare
 addon-category-locale = Limbi
+addon-category-locale-title =
+    .title = Limbi
 addon-category-available-updates = Actualizări disponibile
+addon-category-available-updates-title =
+    .title = Actualizări disponibile
 addon-category-recent-updates = Actualizări recente
+addon-category-recent-updates-title =
+    .title = Actualizări recente
 
 ## These are global warnings
 
