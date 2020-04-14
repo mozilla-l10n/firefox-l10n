@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = ধারণকারী ফোল্ডার খুলুন
     .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = ফাইন্ডারে প্রদর্শন F
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ফাইন্ডারে প্রদর্শন F
+           *[other] ধারণকারী ফোল্ডার খুলুন
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
