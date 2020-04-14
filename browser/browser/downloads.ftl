@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Cancelar
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Abrir o cartafol contedor
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = f
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Amosar no Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Amosar no Finder
+           *[other] Abrir o cartafol contedor
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
