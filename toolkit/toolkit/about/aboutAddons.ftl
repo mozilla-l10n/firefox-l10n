@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instalovat doplněk ze souboru…
     .accesskey = I
 help-button = Nápověda
+sidebar-help-button-title =
+    .title = Nápověda
 preferences =
     { PLATFORM() ->
         [windows] Možnosti
@@ -38,6 +40,17 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Nástroje doplňků
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Možnosti
+           *[other] Předvolby
+        } { -brand-short-name.gender ->
+            [masculine] { -brand-short-name(case: "gen") }
+            [feminine] { -brand-short-name(case: "gen") }
+            [neuter] { -brand-short-name(case: "gen") }
+           *[other] aplikace
+        }
 show-unsigned-extensions-button =
     .label = Některá rozšíření nemohla být ověřena
 show-all-extensions-button =
@@ -193,10 +206,14 @@ extensions-view-available-updates =
     .name = Dostupné aktualizace
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Doporučení
+addon-category-discover-title =
+    .title = Doporučení
 addon-category-extension = Rozšíření
 addon-category-extension-title =
     .title = Rozšíření
 addon-category-theme = Motivy vzhledu
+addon-category-theme-title =
+    .title = Motivy vzhledu
 addon-category-plugin = Zásuvné moduly
 addon-category-plugin-title =
     .title = Zásuvné moduly
@@ -204,8 +221,14 @@ addon-category-dictionary = Slovníky
 addon-category-dictionary-title =
     .title = Slovníky
 addon-category-locale = Jazyky
+addon-category-locale-title =
+    .title = Jazyky
 addon-category-available-updates = Dostupné aktualizace
+addon-category-available-updates-title =
+    .title = Dostupné aktualizace
 addon-category-recent-updates = Aktualizováno
+addon-category-recent-updates-title =
+    .title = Aktualizováno
 
 ## These are global warnings
 
@@ -350,6 +373,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Zobrazit méně
 go-back-button =
     .tooltiptext = Zpátky
+header-back-button =
+    .title = Zpátky
 
 ## Recommended add-ons page
 
