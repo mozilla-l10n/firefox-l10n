@@ -1,0 +1,19 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+bookmark-overlay-location =
+    .value = Hely:
+    .accesskey = H
+bookmark-overlay-folder =
+    .value = Mappa:
+bookmark-overlay-folders-expander =
+    .tooltiptext = Minden könyvjelzőmappa megjelenítése
+    .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
+    .tooltiptextup = Elrejtés
+bookmark-overlay-tags-empty-description =
+    .placeholder = A címkéket vesszővel válassza el.
+bookmark-overlay-tags-expander =
+    .tooltiptext = Minden címke megjelenítése
+    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
+    .tooltiptextup = Elrejtés
