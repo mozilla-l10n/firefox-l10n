@@ -164,12 +164,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Ұсыныстар
 addon-category-extension = Кеңейтулер
+addon-category-extension-title =
+    .title = Кеңейтулер
 addon-category-theme = Темалар
 addon-category-plugin = Плагиндер
+addon-category-plugin-title =
+    .title = Плагиндер
 addon-category-dictionary = Сөздіктер
+addon-category-dictionary-title =
+    .title = Сөздіктер
 addon-category-locale = Тілдер
+addon-category-locale-title =
+    .title = Тілдер
 addon-category-available-updates = Қолжетерлік жаңартулар
+addon-category-available-updates-title =
+    .title = Қолжетерлік жаңартулар
 addon-category-recent-updates = Соңғы жаңартулар
+addon-category-recent-updates-title =
+    .title = Соңғы жаңартулар
 
 ## These are global warnings
 
