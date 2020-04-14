@@ -164,7 +164,11 @@ extensions-view-available-updates =
     .name = دستیاب تازہ کاریاں
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = سفارشات
+addon-category-discover-title =
+    .title = سفارشات
 addon-category-extension = ایکسٹینشن
+addon-category-extension-title =
+    .title = ایکسٹینشن
 addon-category-theme = خیالیے
 addon-category-plugin = پلگ ان
 addon-category-plugin-title =
@@ -296,6 +300,8 @@ shortcuts-exists = پہلے ہی { $addon } کے استعمال میں ہے
 shortcuts-card-collapse-button = کم دکھائیں
 go-back-button =
     .tooltiptext = واپس جائیں
+header-back-button =
+    .title = واپس جائیں
 
 ## Recommended add-ons page
 
