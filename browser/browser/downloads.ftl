@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Anuloje
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Hap Dosjen Përkatëse
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = D
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Shfaqe Në Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = S
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Shfaqe Në Finder
+           *[other] Hap Dosjen Përkatëse
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
