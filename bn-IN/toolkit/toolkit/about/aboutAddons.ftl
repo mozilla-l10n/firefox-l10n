@@ -124,11 +124,21 @@ extensions-view-available-updates =
     .name = উপলব্ধ আপডেট
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = অতিরিক্ত সামগ্রী
+addon-category-extension-title =
+    .title = অতিরিক্ত সামগ্রী
 addon-category-plugin = প্লাগ-ইন
+addon-category-plugin-title =
+    .title = প্লাগ-ইন
 addon-category-dictionary = অভিধান
+addon-category-dictionary-title =
+    .title = অভিধান
 addon-category-locale = ভাষা
 addon-category-available-updates = উপলব্ধ আপডেট
+addon-category-available-updates-title =
+    .title = উপলব্ধ আপডেট
 addon-category-recent-updates = সর্বশেষ আপডেট
+addon-category-recent-updates-title =
+    .title = সর্বশেষ আপডেট
 
 ## These are global warnings
 
