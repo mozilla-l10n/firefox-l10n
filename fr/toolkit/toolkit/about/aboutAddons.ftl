@@ -171,12 +171,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Recommandations
 addon-category-extension = Extensions
+addon-category-extension-title =
+    .title = Extensions
 addon-category-theme = Thèmes
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-dictionary = Dictionnaires
+addon-category-dictionary-title =
+    .title = Dictionnaires
 addon-category-locale = Langues
+addon-category-locale-title =
+    .title = Langues
 addon-category-available-updates = À mettre à jour
+addon-category-available-updates-title =
+    .title = À mettre à jour
 addon-category-recent-updates = Mis à jour
+addon-category-recent-updates-title =
+    .title = Mis à jour
 
 ## These are global warnings
 
