@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Nullañ
 downloads-cmd-cancel-panel =
     .aria-label = Nullañ
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Digeriñ an teuliad a endalc'h ar restr
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = D
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Diskouez e-barzh Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
