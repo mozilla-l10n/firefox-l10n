@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Neo-dhèan dùnadh an taba
+all-tabs-menu-new-user-context =
+    .label = Taba soithich ùr
