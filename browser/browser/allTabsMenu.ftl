@@ -6,3 +6,5 @@ all-tabs-menu-undo-close-tab =
     .label = ਬੰਦ ਕੀਤੀ ਟੈਬ ਨੂੰ ਵਾਪਸ ਖੋਲ੍ਹੋ
 all-tabs-menu-new-user-context =
     .label = ਨਵੀਂ ਕਨਟੇਨਰ ਟੈਬ
+all-tabs-menu-hidden-tabs =
+    .label = ਟੈਬਾਂ ਲੁਕਾਓ
