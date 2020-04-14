@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Anulla særa feuggio
+all-tabs-menu-new-user-context =
+    .label = Neuvo feuggio contenitô
