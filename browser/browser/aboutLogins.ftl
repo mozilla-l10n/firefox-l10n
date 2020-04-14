@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = เปิดเมนู
-# This menuitem is only visible on Windows
-menu-menuitem-import = นำเข้ารหัสผ่าน…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = นำเข้าจากเบราว์เซอร์อื่น…
 menu-menuitem-preferences =
@@ -163,6 +161,10 @@ breach-alert-text = รหัสผ่านถูกรั่วไหลหร
 breach-alert-link = เรียนรู้เพิ่มเติมเกี่ยวกับการรั่วไหลนี้
 breach-alert-dismiss =
     .title = ปิดการแจ้งเตือนนี้
+about-logins-breach-alert-learn-more-link = เรียนรู้เพิ่มเติม
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
