@@ -176,6 +176,8 @@ extensions-view-available-updates =
     .name = Versi Baru yang Tersedia
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Rekomendasi
+addon-category-discover-title =
+    .title = Rekomendasi
 addon-category-extension = Ekstensi
 addon-category-extension-title =
     .title = Ekstensi
@@ -333,6 +335,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Lebih Sedikit
 go-back-button =
     .tooltiptext = Mundur
+header-back-button =
+    .title = Mundur
 
 ## Recommended add-ons page
 
