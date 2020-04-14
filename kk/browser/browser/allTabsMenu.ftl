@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Жабылған бетті қайтару
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Беттерден іздеу
 all-tabs-menu-new-user-context =
     .label = Жаңа контейнерлік бет
+all-tabs-menu-hidden-tabs =
+    .label = Жасырын беттер
+all-tabs-menu-manage-user-context =
+    .label = Контейнерлерді басқару
+    .accesskey = о
