@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Setja inn viðbót frá skrá…
     .accesskey = i
 help-button = Viðbótastuðningur
+sidebar-help-button-title =
+    .title = Viðbótastuðningur
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Valmynd
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Verkfæri fyrir allar viðbætur
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Valmynd
+           *[other] { -brand-short-name } Valkostir
+        }
 show-unsigned-extensions-button =
     .label = Ekki tókst að staðfesta sumar viðbætur
 show-all-extensions-button =
