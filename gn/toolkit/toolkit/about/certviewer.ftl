@@ -106,3 +106,4 @@ certificate-viewer-tab-mine = Ne mboajepyre
 certificate-viewer-tab-people = Yvypóra
 certificate-viewer-tab-servers = Mohendahavusu
 certificate-viewer-tab-ca = Moakãhára
+certificate-viewer-tab-unkonwn = Ojekuaa’ỹva
