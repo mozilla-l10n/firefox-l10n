@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = फ़ाइल से सहयुक्ति संस्थापित करें…
     .accesskey = I
 help-button = ऐड-ऑन समर्थन
+sidebar-help-button-title =
+    .title = ऐड-ऑन समर्थन
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } विकल्प
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = सभी सहयुक्तियों के लिए औज़ार
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } विकल्प
+           *[other] { -brand-short-name } प्राथमिकताएं
+        }
 show-unsigned-extensions-button =
     .label = कुछ विस्तार सत्यापित नही किया जा सका
 show-all-extensions-button =
@@ -277,6 +285,8 @@ shortcuts-invalid = अमान्य संयोजन
 shortcuts-letter = एक अक्षर लिखें
 go-back-button =
     .tooltiptext = वापस जाएँ
+header-back-button =
+    .title = वापस जाएँ
 
 ## Recommended add-ons page
 
