@@ -23,6 +23,16 @@ downloads-cmd-resume =
 downloads-cmd-show-menuitem =
     .label = Peldanka ku tê de ye veke
     .accesskey = P
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Di Finderê de nîşan bide
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Di Finderê de nîşan bide
+           *[other] Peldanka ku tê de ye veke
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
