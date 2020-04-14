@@ -9,6 +9,12 @@ preferences =
         [windows] { -brand-short-name } Unka'te
        *[other] { -brand-short-name } Uve' ni chit asa'
     }
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Unka'te
+           *[other] { -brand-short-name } Uve' ni chit asa'
+        }
 cmd-preferences =
     .label =
         { PLATFORM() ->
