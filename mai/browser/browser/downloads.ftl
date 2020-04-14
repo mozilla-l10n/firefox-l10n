@@ -19,6 +19,20 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = फेर बहाल  करू
     .accesskey = R
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = संग्राहक फोल्डर खोलू
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = फाइंडरमे देखाउ (F)
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] फाइंडरमे देखाउ (F)
+           *[other] संग्राहक फोल्डर खोलू
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
