@@ -9,3 +9,5 @@ all-tabs-menu-search-tabs =
     .label = Sök flikar
 all-tabs-menu-new-user-context =
     .label = Ny innehållsflik
+all-tabs-menu-hidden-tabs =
+    .label = Dolda flikar
