@@ -167,9 +167,17 @@ addon-category-extension = Mga Extension
 addon-category-theme = Mga tema
 addon-category-plugin = Mga Plugin
 addon-category-dictionary = Mga Talasalitaan
+addon-category-dictionary-title =
+    .title = Mga Talasalitaan
 addon-category-locale = Mga Wika
+addon-category-locale-title =
+    .title = Mga Wika
 addon-category-available-updates = Mga Available na Update
+addon-category-available-updates-title =
+    .title = Mga Available na Update
 addon-category-recent-updates = Mga Bagong Updates
+addon-category-recent-updates-title =
+    .title = Mga Bagong Updates
 
 ## These are global warnings
 
