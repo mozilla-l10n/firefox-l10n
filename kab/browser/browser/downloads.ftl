@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Ldi akaram igebren afaylu
     .accesskey = L
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Sken-d di Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Sken-d di Finder
+           *[other] Ldi akaram igebren afaylu
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
