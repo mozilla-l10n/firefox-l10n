@@ -125,11 +125,23 @@ extensions-view-available-updates =
     .name = មាន​បច្ចុប្បន្នភាព
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = ផ្នែក​បន្ថែម
+addon-category-extension-title =
+    .title = ផ្នែក​បន្ថែម
 addon-category-plugin = កម្មវិធី​ជំនួយ
+addon-category-plugin-title =
+    .title = កម្មវិធី​ជំនួយ
 addon-category-dictionary = វចនានុក្រម
+addon-category-dictionary-title =
+    .title = វចនានុក្រម
 addon-category-locale = ភាសា
+addon-category-locale-title =
+    .title = ភាសា
 addon-category-available-updates = មាន​បច្ចុប្បន្នភាព
+addon-category-available-updates-title =
+    .title = មាន​បច្ចុប្បន្នភាព
 addon-category-recent-updates = បច្ចុប្បន្នភាព​ថ្មី​ៗ
+addon-category-recent-updates-title =
+    .title = បច្ចុប្បន្នភាព​ថ្មី​ៗ
 
 ## These are global warnings
 
