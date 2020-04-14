@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = 从文件安装附加组件…
     .accesskey = I
 help-button = 附加组件帮助
+sidebar-help-button-title =
+    .title = 附加组件帮助
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } 选项
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = 用于所有附加组件的工具
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } 选项
+           *[other] { -brand-short-name } 首选项
+        }
 show-unsigned-extensions-button =
     .label = 一些扩展未通过验证
 show-all-extensions-button =
@@ -169,6 +177,8 @@ addon-category-extension = 扩展
 addon-category-extension-title =
     .title = 扩展
 addon-category-theme = 主题
+addon-category-theme-title =
+    .title = 主题
 addon-category-plugin = 插件
 addon-category-plugin-title =
     .title = 插件
