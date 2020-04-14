@@ -20,6 +20,7 @@
 
 
 <!ENTITY menu_techPGP.label "OpenPGP">
+<!ENTITY menu_techPGP.accesskey "O">
 
 <!ENTITY menu_securityStatus.label "Vis tryggingsinfo">
 <!ENTITY menu_securityStatus.accesskey "V">
