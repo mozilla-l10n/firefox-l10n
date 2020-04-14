@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = नेवसिगार
 downloads-cmd-cancel-panel =
     .aria-label = नेवसिगार
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = फल्डार थानायखौ खेव
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = नागिरना दिहुनग्राआव दिन्थि
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] नागिरना दिहुनग्राआव दिन्थि
+           *[other] फल्डार थानायखौ खेव
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
