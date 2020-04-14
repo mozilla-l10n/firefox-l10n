@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Heja
 downloads-cmd-cancel-panel =
     .aria-label = Heja
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Ñongatuha Ryrúpe Jeike
+    .accesskey = Ñ
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Ehechauka Finder-pe
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ehechauka Finder-pe
+           *[other] Ñongatuha Ryrúpe Jeike
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
