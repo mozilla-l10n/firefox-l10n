@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Chwilio Negeseuon…">
 <!ENTITY searchMailCmd.accesskey "N">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Chwilio Eang…">
+<!ENTITY glodaSearchCmd.accesskey "C">
 <!ENTITY searchAddressesCmd.label "Chwilio Cyfeiriadau…">
 <!ENTITY searchAddressesCmd.accesskey "y">
 
