@@ -2,9 +2,17 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+bookmark-overlay-folder =
+    .value = โฟลเดอร์:
 bookmark-overlay-choose =
     .label = เลือก…
 bookmark-overlay-folders-expander =
     .tooltiptext = แสดงโฟลเดอร์ที่คั่นหน้าทั้งหมด
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
+    .tooltiptextup = ซ่อน
+bookmark-overlay-tags-empty-description =
+    .placeholder = แบ่งป้ายกำกับด้วยจุลภาค
+bookmark-overlay-tags-expander =
+    .tooltiptext = แสดงป้ายกำกับทั้งหมด
+    .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = ซ่อน
