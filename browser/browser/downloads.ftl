@@ -19,16 +19,6 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Thoma gape
     .accesskey = T
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Bula foltara ya go swara
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = f
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Laetša go sehwetši
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = s
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
