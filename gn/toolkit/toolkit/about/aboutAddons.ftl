@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Emohenda moĩmbaha marandurenda guive…
     .accesskey = I
 help-button = Moimbaha jokoha
+sidebar-help-button-title =
+    .title = Moimbaha jokoha
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Poravopyrã
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Tembipuru opaite moimbahápe g̃uarã
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } Poravopyrã
+           *[other] { -brand-short-name } Jerohoryvéva
+        }
 show-unsigned-extensions-button =
     .label = Heta pukukue ndaikatúi kuri ojehechajey
 show-all-extensions-button =
@@ -167,6 +175,8 @@ extensions-view-available-updates =
     .name = Ñembohekopyahu eipurukuaáva
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Je’eporã
+addon-category-discover-title =
+    .title = Je’eporã
 addon-category-extension = Mba'ejoapyrã
 addon-category-extension-title =
     .title = Mba'ejoapyrã
@@ -324,6 +334,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Ehechauka'ive
 go-back-button =
     .tooltiptext = Guevijey
+header-back-button =
+    .title = Guevijey
 
 ## Recommended add-ons page
 
