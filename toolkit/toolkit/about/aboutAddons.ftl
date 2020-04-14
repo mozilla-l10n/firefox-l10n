@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installer tilføjelse fra fil…
     .accesskey = I
 help-button = Hjælp til tilføjelser
+sidebar-help-button-title =
+    .title = Hjælp til tilføjelser
 preferences =
     { PLATFORM() ->
         [windows] Indstillinger for { -brand-short-name }
@@ -183,8 +185,12 @@ extensions-view-available-updates =
     .name = Tilgængelige opdateringer
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Anbefalinger
+addon-category-discover-title =
+    .title = Anbefalinger
 addon-category-extension = Udvidelser
 addon-category-theme = Temaer
+addon-category-theme-title =
+    .title = Temaer
 addon-category-plugin = Plugins
 addon-category-dictionary = Ordbøger
 addon-category-locale = Sprog
@@ -330,6 +336,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Vis færre
 go-back-button =
     .tooltiptext = Gå tilbage
+header-back-button =
+    .title = Gå tilbage
 
 ## Recommended add-ons page
 
