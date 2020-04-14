@@ -164,12 +164,22 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Gomendioak
 addon-category-extension = Hedapenak
+addon-category-extension-title =
+    .title = Hedapenak
 addon-category-theme = Itxurak
 addon-category-plugin = Pluginak
+addon-category-plugin-title =
+    .title = Pluginak
 addon-category-dictionary = Hiztegiak
 addon-category-locale = Hizkuntzak
+addon-category-locale-title =
+    .title = Hizkuntzak
 addon-category-available-updates = Eguneraketak eskura
+addon-category-available-updates-title =
+    .title = Eguneraketak eskura
 addon-category-recent-updates = Azken eguneraketak
+addon-category-recent-updates-title =
+    .title = Azken eguneraketak
 
 ## These are global warnings
 
