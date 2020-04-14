@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = ألغِ
 downloads-cmd-cancel-panel =
     .aria-label = ألغِ
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = افتح المجلد المحتوي
+    .accesskey = م
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = اعرض في فايندر
+    .accesskey = ف
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] اعرض في فايندر
+           *[other] افتح المجلد المحتوي
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
