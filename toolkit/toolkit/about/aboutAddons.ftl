@@ -116,6 +116,8 @@ addon-category-plugin = প্লাগিনসমূহ
 addon-category-dictionary = অভিধানসমূহ
 addon-category-locale = ভাষাসমূহ
 addon-category-available-updates = উপলব্ধ আপডেইটসমূহ
+addon-category-available-updates-title =
+    .title = উপলব্ধ আপডেইটসমূহ
 addon-category-recent-updates = শেহতীয়া আপডেইটসমূহ
 
 ## These are global warnings
