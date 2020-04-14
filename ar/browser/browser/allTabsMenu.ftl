@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = أعِد فتح اللسان
+all-tabs-menu-new-user-context =
+    .label = لسان حاوٍ جديد
