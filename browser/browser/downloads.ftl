@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Прекъсване
 downloads-cmd-cancel-panel =
     .aria-label = Прекъсване
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Отваряне на съдържащата папка
+    .accesskey = п
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Показване във Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Показване във Finder
+           *[other] Отваряне на съдържащата папка
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
