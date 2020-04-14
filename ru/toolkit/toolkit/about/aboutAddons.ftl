@@ -182,6 +182,8 @@ addon-category-extension = Расширения
 addon-category-extension-title =
     .title = Расширения
 addon-category-theme = Темы
+addon-category-theme-title =
+    .title = Темы
 addon-category-plugin = Плагины
 addon-category-plugin-title =
     .title = Плагины
@@ -335,6 +337,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Показать меньше
 go-back-button =
     .tooltiptext = Вернуться назад
+header-back-button =
+    .title = Вернуться назад
 
 ## Recommended add-ons page
 
