@@ -186,6 +186,8 @@ addon-category-available-updates = Ùrachaidhean a tha ri am faighinn
 addon-category-available-updates-title =
     .title = Ùrachaidhean a tha ri am faighinn
 addon-category-recent-updates = Ùrachaidhean a rinn thu o chionn goirid
+addon-category-recent-updates-title =
+    .title = Ùrachaidhean a rinn thu o chionn goirid
 
 ## These are global warnings
 
