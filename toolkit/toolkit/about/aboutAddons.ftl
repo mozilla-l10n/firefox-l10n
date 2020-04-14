@@ -335,6 +335,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Afișează mai puțin
 go-back-button =
     .tooltiptext = Înapoi
+header-back-button =
+    .title = Înapoi
 
 ## Recommended add-ons page
 
