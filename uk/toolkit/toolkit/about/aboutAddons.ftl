@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Встановити додаток з файлу…
     .accesskey = В
 help-button = Підтримка додатків
+sidebar-help-button-title =
+    .title = Підтримка додатків
 preferences =
     { PLATFORM() ->
         [windows] Налаштування { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Інструменти для всіх додатків
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Налаштування { -brand-short-name }
+           *[other] Налаштування { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Деякі розширення не можуть бути перевірені
 show-all-extensions-button =
@@ -173,6 +181,8 @@ extensions-view-available-updates =
     .name = Доступні оновлення
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Рекомендації
+addon-category-discover-title =
+    .title = Рекомендації
 addon-category-extension = Розширення
 addon-category-extension-title =
     .title = Розширення
@@ -331,6 +341,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Показати менше
 go-back-button =
     .tooltiptext = Повернутись назад
+header-back-button =
+    .title = Повернутись назад
 
 ## Recommended add-ons page
 
