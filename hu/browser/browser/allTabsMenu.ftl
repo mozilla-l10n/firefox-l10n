@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Lapbezárás visszavonása
+all-tabs-menu-new-user-context =
+    .label = Új konténerlap
