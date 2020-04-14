@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = Sefsex
 downloads-cmd-cancel-panel =
     .aria-label = Sefsex
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Ldi akaram igebren afaylu
+    .accesskey = L
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
