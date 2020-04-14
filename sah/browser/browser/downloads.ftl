@@ -19,16 +19,6 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Хаттаан
     .accesskey = Х
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Билэлээх паапканы арый
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = л
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Finder-гэ көрдөр
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = к
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
