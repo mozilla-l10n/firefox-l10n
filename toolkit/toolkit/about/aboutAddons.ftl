@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Инсталирај додатак из датотеке…
     .accesskey = И
 help-button = Подршка за додатке
+sidebar-help-button-title =
+    .title = Подршка за додатке
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } опције
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Алатке за све додатке
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] { -brand-short-name } опције
+           *[other] { -brand-short-name } поставке
+        }
 show-unsigned-extensions-button =
     .label = Неке екстензије нису могле бити потврђене
 show-all-extensions-button =
