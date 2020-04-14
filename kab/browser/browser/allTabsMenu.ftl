@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Sefsex amdal n yiccer.
+all-tabs-menu-hidden-tabs =
+    .label = Iccaren ifren
