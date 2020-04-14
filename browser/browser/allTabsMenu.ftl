@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = 恢复关闭的标签页
+all-tabs-menu-hidden-tabs =
+    .label = 隐藏标签页
