@@ -112,11 +112,23 @@ extensions-view-available-updates =
     .name = دستیاب اپڈیٹس
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = وسعت
+addon-category-extension-title =
+    .title = وسعت
 addon-category-plugin = پلگ ان
+addon-category-plugin-title =
+    .title = پلگ ان
 addon-category-dictionary = لغات
+addon-category-dictionary-title =
+    .title = لغات
 addon-category-locale = زبان
+addon-category-locale-title =
+    .title = زبان
 addon-category-available-updates = دستیاب اپڈیٹس
+addon-category-available-updates-title =
+    .title = دستیاب اپڈیٹس
 addon-category-recent-updates = حالئك اپڈیٹس
+addon-category-recent-updates-title =
+    .title = حالئك اپڈیٹس
 
 ## These are global warnings
 
