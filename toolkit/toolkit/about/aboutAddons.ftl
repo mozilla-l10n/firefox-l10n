@@ -168,12 +168,24 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = המלצות
 addon-category-extension = הרחבות
+addon-category-extension-title =
+    .title = הרחבות
 addon-category-theme = ערכות נושא
 addon-category-plugin = תוספים חיצוניים
+addon-category-plugin-title =
+    .title = תוספים חיצוניים
 addon-category-dictionary = מילונים
+addon-category-dictionary-title =
+    .title = מילונים
 addon-category-locale = שפות
+addon-category-locale-title =
+    .title = שפות
 addon-category-available-updates = עדכונים זמינים
+addon-category-available-updates-title =
+    .title = עדכונים זמינים
 addon-category-recent-updates = עדכונים אחרונים
+addon-category-recent-updates-title =
+    .title = עדכונים אחרונים
 
 ## These are global warnings
 
