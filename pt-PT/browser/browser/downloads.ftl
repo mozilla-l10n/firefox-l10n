@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Cancelar
 downloads-cmd-cancel-panel =
     .aria-label = Cancelar
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Abrir pasta de destino
+    .accesskey = p
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Mostrar no Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Mostrar no Finder
+           *[other] Abrir pasta de destino
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
