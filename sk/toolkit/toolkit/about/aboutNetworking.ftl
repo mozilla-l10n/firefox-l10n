@@ -9,6 +9,7 @@ ok = OK
 http = HTTP
 sockets = Sockety
 dns = DNS
+dnssuffix = Prípona DNS
 websockets = WebSockety
 refresh = Obnoviť
 auto-refresh = Automaticky obnoviť každé 3 sekundy
@@ -19,11 +20,13 @@ about-networking-title = O spojeniach
 about-networking-http = HTTP
 about-networking-sockets = Sockety
 about-networking-dns = DNS
+about-networking-dns-suffix = Prípona DNS
 about-networking-websockets = WebSockety
 about-networking-refresh = Obnoviť
 about-networking-auto-refresh = Automaticky obnoviť každé 3 sekundy
 about-networking-hostname = Názov servera
 about-networking-port = Port
+about-networking-http-version = Verzia HTTP
 ssl = SSL
 active = Aktívny
 idle = Nečinný
@@ -115,6 +118,10 @@ about-networking-networkid-id = ID siete
 
 ## Link is intended as "network link"
 
+networkid-isUp = Spojenie je aktívne
+networkid-statusKnown = Stav spojenia nie je známy
+about-networking-networkid-is-up = Spojenie je aktívne
+about-networking-networkid-status-known = Stav spojenia je známy
 
 ##
 

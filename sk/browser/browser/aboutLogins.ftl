@@ -49,6 +49,7 @@ login-list-sort-label-text = Zoradiť podľa:
 login-list-name-option = názvu (A-Z)
 login-list-name-reverse-option = názvu (Z-A)
 login-list-breached-option = Stránky, na ktorých došlo k úniku dát
+about-logins-login-list-alerts-option = Upozornenia
 login-list-last-changed-option = poslednej úpravy
 login-list-last-used-option = posledného použitia
 login-list-intro-title = Nenašli sa žiadne prihlasovacie údaje
@@ -167,11 +168,18 @@ breach-alert-link = Ďalšie informácie o tomto úniku.
 breach-alert-dismiss =
     .title = Zavrieť toto upozornenie
 about-logins-breach-alert-date = K tomuto úniku došlo { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Prejsť na { $hostname }
 about-logins-breach-alert-learn-more-link = Ďalšie informácie
 
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Zraniteľné heslo
+about-logins-vulnerable-alert-text2 = Toto heslo bolo použité na inom účte, ktorý bol pravdepodobne súčasťou úniku dát. Opakované používanie hesiel ohrozuje všetky vaše účty. Zmeňte toto heslo.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Prejsť na { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Ďalšie informácie
 
 ## Error Messages

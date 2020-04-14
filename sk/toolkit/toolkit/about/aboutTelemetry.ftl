@@ -128,4 +128,9 @@ about-telemetry-category-header = kategória
 about-telemetry-method-header = metóda
 about-telemetry-object-header = objekt
 about-telemetry-extra-header = extra
+about-telemetry-origin-section = Origin telemetria
+about-telemetry-origin-origin = origin
 about-telemetry-origin-count = počet
+# Variables:
+#  $process (String): type of process in subsection headers ( e.g. "content", "parent" )
+about-telemetry-process = typ procesu: { $process }
