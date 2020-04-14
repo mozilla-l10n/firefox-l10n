@@ -8,3 +8,6 @@ all-tabs-menu-new-user-context =
     .label = புதிய கொள்கலன் கீற்று
 all-tabs-menu-hidden-tabs =
     .label = மறைக்கப்பட்ட கீற்றுகள்
+all-tabs-menu-manage-user-context =
+    .label = கலன்களை நிர்வகி
+    .accesskey = O
