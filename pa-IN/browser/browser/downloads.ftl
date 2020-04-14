@@ -28,15 +28,9 @@ downloads-cmd-cancel =
     .tooltiptext = ਰੱਦ ਕਰੋ
 downloads-cmd-cancel-panel =
     .aria-label = ਰੱਦ ਕਰੋ
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = ਰੱਖਣ ਵਾਲੇ ਫੋਲਡਰ ਨੂੰ ਖੋਲ੍ਹੋ
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Finder ਵਿੱਚ ਵੇਖੋ
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
