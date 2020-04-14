@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installa componente aggiuntivo da file…
     .accesskey = I
 help-button = Supporto componenti aggiuntivi
+sidebar-help-button-title =
+    .title = Supporto componenti aggiuntivi
 preferences =
     { PLATFORM() ->
         [windows] Opzioni di { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Strumenti per tutti i componenti aggiuntivi
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Opzioni di { -brand-short-name }
+           *[other] Preferenze di { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Non è stato possibile verificare alcune estensioni
 show-all-extensions-button =
@@ -167,13 +175,21 @@ extensions-view-available-updates =
     .name = Aggiornamenti disponibili
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Consigli
+addon-category-discover-title =
+    .title = Consigli
 addon-category-extension = Estensioni
 addon-category-theme = Temi
+addon-category-theme-title =
+    .title = Temi
 addon-category-plugin = Plugin
 addon-category-dictionary = Dizionari
 addon-category-locale = Lingue
 addon-category-available-updates = Aggiornamenti disponibili
+addon-category-available-updates-title =
+    .title = Aggiornamenti disponibili
 addon-category-recent-updates = Aggiornamenti recenti
+addon-category-recent-updates-title =
+    .title = Aggiornamenti recenti
 
 ## These are global warnings
 
@@ -305,6 +321,8 @@ shortcuts-card-expand-button = Visualizza altre { $numberToShow }
 shortcuts-card-collapse-button = Mostra meno scorciatoie
 go-back-button =
     .tooltiptext = Torna indietro
+header-back-button =
+    .title = Torna indietro
 
 ## Recommended add-ons page
 
