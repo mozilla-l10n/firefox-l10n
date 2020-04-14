@@ -28,6 +28,10 @@ downloads-cmd-cancel =
     .tooltiptext = Avbryt
 downloads-cmd-cancel-panel =
     .aria-label = Avbryt
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Vis i Finder
+    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
