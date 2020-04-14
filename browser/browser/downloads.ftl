@@ -24,15 +24,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Òprzestóń
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Òtemkni zamikający w se katalog
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = t
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Wëskrzëni w Finderze
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = W
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Wëskrzëni w Finderze
+           *[other] Òtemkni zamikający w se katalog
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
