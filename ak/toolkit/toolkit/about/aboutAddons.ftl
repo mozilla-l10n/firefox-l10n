@@ -112,11 +112,23 @@ extensions-view-available-updates =
     .name = Ntoso a wɔaba
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Ntrɛw
+addon-category-extension-title =
+    .title = Ntrɛw
 addon-category-plugin = Mplagin
+addon-category-plugin-title =
+    .title = Mplagin
 addon-category-dictionary = Nsɛmfuasekyerɛ
+addon-category-dictionary-title =
+    .title = Nsɛmfuasekyerɛ
 addon-category-locale = Akasa
+addon-category-locale-title =
+    .title = Akasa
 addon-category-available-updates = Ntoso a wɔaba
+addon-category-available-updates-title =
+    .title = Ntoso a wɔaba
 addon-category-recent-updates = Ntoso a nsa aka no ndansa yi
+addon-category-recent-updates-title =
+    .title = Ntoso a nsa aka no ndansa yi
 
 ## These are global warnings
 
