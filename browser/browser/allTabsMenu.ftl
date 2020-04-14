@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Αναίρεση κλεισίματος καρτέλας
+all-tabs-menu-new-user-context =
+    .label = Νέα καρτέλα εντός περιβάλλοντος
