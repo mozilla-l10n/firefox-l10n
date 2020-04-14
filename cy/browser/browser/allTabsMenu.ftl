@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Dadwneud Cau'r Tab
+all-tabs-menu-new-user-context =
+    .label = Tab Cynhwysydd Newydd
