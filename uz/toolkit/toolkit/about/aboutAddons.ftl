@@ -124,11 +124,23 @@ extensions-view-available-updates =
     .name = Mavjud yangilanishlar
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Kengaytmalar
+addon-category-extension-title =
+    .title = Kengaytmalar
 addon-category-plugin = Plaginlar
+addon-category-plugin-title =
+    .title = Plaginlar
 addon-category-dictionary = Lugʻatlar
+addon-category-dictionary-title =
+    .title = Lugʻatlar
 addon-category-locale = Tillar
+addon-category-locale-title =
+    .title = Tillar
 addon-category-available-updates = Mavjud yangilanishlar
+addon-category-available-updates-title =
+    .title = Mavjud yangilanishlar
 addon-category-recent-updates = Soʻnggi yangilanishlar
+addon-category-recent-updates-title =
+    .title = Soʻnggi yangilanishlar
 
 ## These are global warnings
 
