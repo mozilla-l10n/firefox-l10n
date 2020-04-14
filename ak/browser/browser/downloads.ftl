@@ -19,16 +19,6 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Toa so
     .accesskey = s
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Bue Folda a ɛwɔ Mu
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = F
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Kyerɛ wɔ hwehwɛfo mu
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = h
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
