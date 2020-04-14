@@ -124,14 +124,24 @@ extensions-view-available-updates =
     .name = ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು
+addon-category-extension-title =
+    .title = ಎಕ್ಸ್‍ಟೆನ್ಶನ್‌ಗಳು
 addon-category-theme = ಥೀಮ್‌ಗಳು
 addon-category-plugin = ಪ್ಲಗ್‌ಇನ್‌ಗಳು
+addon-category-plugin-title =
+    .title = ಪ್ಲಗ್‌ಇನ್‌ಗಳು
 addon-category-dictionary = ಶಬ್ಧಕೋಶಗಳು
 addon-category-dictionary-title =
     .title = ಶಬ್ಧಕೋಶಗಳು
 addon-category-locale = ಭಾಷೆಗಳು
+addon-category-locale-title =
+    .title = ಭಾಷೆಗಳು
 addon-category-available-updates = ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು
+addon-category-available-updates-title =
+    .title = ಲಭ್ಯವಿರುವ ಅಪ್‌ಡೇಟ್‌ಗಳು
 addon-category-recent-updates = ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು
+addon-category-recent-updates-title =
+    .title = ಇತ್ತೀಚಿನ ಅಪ್‌ಡೇಟ್‌ಗಳು
 
 ## These are global warnings
 
