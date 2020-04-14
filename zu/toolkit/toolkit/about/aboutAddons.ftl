@@ -113,10 +113,18 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = Izandiso
 addon-category-plugin = Ama-Plugin
+addon-category-plugin-title =
+    .title = Ama-Plugin
 addon-category-dictionary = Izichazamazwi
 addon-category-locale = Izilimi
+addon-category-locale-title =
+    .title = Izilimi
 addon-category-available-updates = Ukuvuselela okukona
+addon-category-available-updates-title =
+    .title = Ukuvuselela okukona
 addon-category-recent-updates = Ukuvuselela kwamanje
+addon-category-recent-updates-title =
+    .title = Ukuvuselela kwamanje
 
 ## These are global warnings
 
