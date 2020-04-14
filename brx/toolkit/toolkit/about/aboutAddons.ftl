@@ -117,12 +117,24 @@ extensions-view-available-updates =
     .name = थानाय आपडेटफोर
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-extension = बारायनायफोर
+addon-category-extension-title =
+    .title = बारायनायफोर
 addon-category-theme = थिम
 addon-category-plugin = प्लागिनफोर
+addon-category-plugin-title =
+    .title = प्लागिनफोर
 addon-category-dictionary = सोदोब बिहुंफोर
+addon-category-dictionary-title =
+    .title = सोदोब बिहुंफोर
 addon-category-locale = रावफोर
+addon-category-locale-title =
+    .title = रावफोर
 addon-category-available-updates = थानाय आपडेटफोर
+addon-category-available-updates-title =
+    .title = थानाय आपडेटफोर
 addon-category-recent-updates = दानि आपडेट
+addon-category-recent-updates-title =
+    .title = दानि आपडेट
 
 ## These are global warnings
 
