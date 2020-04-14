@@ -4,5 +4,10 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Dizober Serriñ an ivinell
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Klask ivinelloù
 all-tabs-menu-new-user-context =
     .label = Ivinell endalc'her nevez
+all-tabs-menu-hidden-tabs =
+    .label = Ivinell kuzh
