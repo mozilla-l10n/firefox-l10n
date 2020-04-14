@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Batalkan
 downloads-cmd-cancel-panel =
     .aria-label = Batalkan
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Buka Foldernya
+    .accesskey = F
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Tampilkan di Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Tampilkan di Finder
+           *[other] Buka Foldernya
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
