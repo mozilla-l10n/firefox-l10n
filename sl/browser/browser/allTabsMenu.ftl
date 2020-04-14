@@ -4,3 +4,5 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Ponovno odpri zavihek
+all-tabs-menu-new-user-context =
+    .label = Nov vsebniški zavihek
