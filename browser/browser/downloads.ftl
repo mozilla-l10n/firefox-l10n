@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Anullar
 downloads-cmd-cancel-panel =
     .aria-label = Anullar
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Dobrir lo repertòri que conten lo fichièr
+    .accesskey = f
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Dobrir dins lo Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Dobrir dins lo Finder
+           *[other] Dobrir lo repertòri que conten lo fichièr
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
