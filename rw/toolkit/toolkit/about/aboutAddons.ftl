@@ -12,7 +12,11 @@ detail-home-value =
 detail-repository-value =
     .value = { detail-repository.label }
 addon-category-extension = Imigereka
+addon-category-extension-title =
+    .title = Imigereka
 addon-category-locale = Indimi
+addon-category-locale-title =
+    .title = Indimi
 
 ## These are global warnings
 
