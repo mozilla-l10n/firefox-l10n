@@ -28,16 +28,6 @@ downloads-cmd-cancel =
     .tooltiptext = Atcelt
 downloads-cmd-cancel-panel =
     .aria-label = Atcelt
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = Atvērt mapi
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = m
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = Parādīt Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
