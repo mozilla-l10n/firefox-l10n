@@ -181,14 +181,26 @@ addon-category-discover = Recomendações
 addon-category-discover-title =
     .title = Recomendações
 addon-category-extension = Extensões
+addon-category-extension-title =
+    .title = Extensões
 addon-category-theme = Temas
 addon-category-theme-title =
     .title = Temas
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-dictionary = Dicionários
+addon-category-dictionary-title =
+    .title = Dicionários
 addon-category-locale = Idiomas
+addon-category-locale-title =
+    .title = Idiomas
 addon-category-available-updates = Atualizações disponíveis
+addon-category-available-updates-title =
+    .title = Atualizações disponíveis
 addon-category-recent-updates = Atualizações recentes
+addon-category-recent-updates-title =
+    .title = Atualizações recentes
 
 ## These are global warnings
 
