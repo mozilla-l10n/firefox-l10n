@@ -785,7 +785,7 @@ forms-master-pw-fips-desc = Le cambio de contrasigno ha fallite
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Verifica tu identitate pro crear un Contrasigno principal.
+master-password-os-auth-dialog-message = Verifica tu identitate pro crear un contrasigno maestro.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These

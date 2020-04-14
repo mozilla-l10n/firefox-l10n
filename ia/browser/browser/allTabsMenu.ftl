@@ -3,10 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 all-tabs-menu-undo-close-tab =
-    .label = Reaperir le ultime scheda claudite
+    .label = Reaperir scheda claudite
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = Recercar in le schedas
+    .label = Cercar in schedas
 all-tabs-menu-new-user-context =
     .label = Nove scheda contextual
 all-tabs-menu-hidden-tabs =
