@@ -4,5 +4,11 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Deshacer el cierre de la última pestaña
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Buscar pestañas
 all-tabs-menu-new-user-context =
     .label = Nueva pestaña contenedora
+all-tabs-menu-manage-user-context =
+    .label = Gestionar contenedores
+    .accesskey = O
