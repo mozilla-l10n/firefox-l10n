@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Powěsće pytać…">
 <!ENTITY searchMailCmd.accesskey "o">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Globalne pytanje…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Adresy pytać…">
 <!ENTITY searchAddressesCmd.accesskey "A">
 
