@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Չեղարկել
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Բացեք պարունակող թղթապանակը
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Ցուցադրել Որոնիչ֊ում
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ցուցադրել Որոնիչ֊ում
+           *[other] Բացեք պարունակող թղթապանակը
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
