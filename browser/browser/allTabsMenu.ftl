@@ -4,5 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Ljepblêd slute ûngedien meitsje
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Ljepblêden trochsykje
 all-tabs-menu-new-user-context =
     .label = Nij kontenerljepblêd
+all-tabs-menu-hidden-tabs =
+    .label = Ferstoppe ljepblêden
+all-tabs-menu-manage-user-context =
+    .label = Konteners beheare
+    .accesskey = K
