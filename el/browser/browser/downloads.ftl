@@ -32,6 +32,16 @@ downloads-cmd-cancel-panel =
 downloads-cmd-show-menuitem =
     .label = Άνοιγμα φακέλου λήψης
     .accesskey = φ
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Προβολή στο Finder
+    .accesskey = ρ
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Προβολή στο Finder
+           *[other] Άνοιγμα φακέλου λήψης
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
