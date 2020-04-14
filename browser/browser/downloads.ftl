@@ -24,15 +24,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Откажи
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Отвори ја папката со преземања
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = о
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Покажи во Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = о
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Покажи во Finder
+           *[other] Отвори ја папката со преземања
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
