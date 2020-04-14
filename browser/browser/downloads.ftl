@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = එපා
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = අඩංගු ෆෝල්ඩරය විවෘත කරන්න
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Show In Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Show In Finder
+           *[other] අඩංගු ෆෝල්ඩරය විවෘත කරන්න
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
