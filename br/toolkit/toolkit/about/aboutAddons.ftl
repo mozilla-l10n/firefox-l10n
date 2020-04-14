@@ -33,6 +33,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Ostilhoù evit an holl askouezhioù
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Dibarzhioù { -brand-short-name }
+           *[other] Gwellvezioù { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = N'haller ket gwiriekaat lod eus an askouezhioù
 show-all-extensions-button =
@@ -167,6 +173,8 @@ addon-category-extension = Askouezhioù
 addon-category-extension-title =
     .title = Askouezhioù
 addon-category-theme = Neuzioù
+addon-category-theme-title =
+    .title = Neuzioù
 addon-category-plugin = Enlugelladoù
 addon-category-plugin-title =
     .title = Enlugelladoù
@@ -316,6 +324,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Diskouez nebeutoc'h
 go-back-button =
     .tooltiptext = Distreiñ
+header-back-button =
+    .title = Distreiñ
 
 ## Recommended add-ons page
 
