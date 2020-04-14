@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Dodank z dataje instalěrowaś…
     .accesskey = D
 help-button = Pomoc za dodanki
+sidebar-help-button-title =
+    .title = Pomoc za dodanki
 preferences =
     { PLATFORM() ->
         [windows] Nastajenja { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Rědy za wšykne dodanki
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Nastajenja { -brand-short-name }
+           *[other] Nastajenja { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Někotare rozšyrjenja njejsu dali se wobkšuśiś
 show-all-extensions-button =
@@ -167,10 +175,14 @@ extensions-view-available-updates =
     .name = Aktualizacije
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Dopórucenja
+addon-category-discover-title =
+    .title = Dopórucenja
 addon-category-extension = Rozšyrjenja
 addon-category-extension-title =
     .title = Rozšyrjenja
 addon-category-theme = Drastwy
+addon-category-theme-title =
+    .title = Drastwy
 addon-category-plugin = Tykace
 addon-category-plugin-title =
     .title = Tykace
@@ -181,7 +193,11 @@ addon-category-locale = Rěcy
 addon-category-locale-title =
     .title = Rěcy
 addon-category-available-updates = Aktualizacije
+addon-category-available-updates-title =
+    .title = Aktualizacije
 addon-category-recent-updates = Nowe aktualizacije
+addon-category-recent-updates-title =
+    .title = Nowe aktualizacije
 
 ## These are global warnings
 
@@ -322,6 +338,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Mjenjej pokazaś
 go-back-button =
     .tooltiptext = Slědk
+header-back-button =
+    .title = Slědk
 
 ## Recommended add-ons page
 
