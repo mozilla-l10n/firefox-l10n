@@ -337,6 +337,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = En montrer moins
 go-back-button =
     .tooltiptext = Retour
+header-back-button =
+    .title = Retour
 
 ## Recommended add-ons page
 
