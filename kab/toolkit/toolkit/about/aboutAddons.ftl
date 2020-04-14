@@ -33,6 +33,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Ifecka i yizegrar imaṛṛa
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Iɣewwaren n { -brand-short-name }
+           *[other] Ismenyifen n { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Kra n iseɣzaf ur ţwasenqeden ara
 show-all-extensions-button =
@@ -168,6 +174,8 @@ extensions-view-available-updates =
     .name = Ileqman yellan
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Iwellihen
+addon-category-discover-title =
+    .title = Iwellihen
 addon-category-extension = Isiɣzaf
 addon-category-extension-title =
     .title = Isiɣzaf
@@ -325,6 +333,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Sken qel
 go-back-button =
     .tooltiptext = Uɣal ɣer deffir
+header-back-button =
+    .title = Uɣal ɣer deffir
 
 ## Recommended add-ons page
 
