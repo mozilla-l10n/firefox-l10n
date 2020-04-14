@@ -24,15 +24,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = မလုပ်ဆောင်တော့ပါ
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = ဖိုင်ရှိသည့်နေရာကို ဖွင့်ရန်
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] ရှာဖွေကိရိယာတွင် ဖေါ်ပြပါ
+           *[other] ဖိုင်ရှိသည့်နေရာကို ဖွင့်ရန်
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
