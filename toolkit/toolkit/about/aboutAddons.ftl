@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = نصب افزودنی از یک پرونده…
     .accesskey = ن
 help-button = پشتیبانی افزونه
+sidebar-help-button-title =
+    .title = پشتیبانی افزونه
 preferences =
     { PLATFORM() ->
         [windows] گزینه ها{ -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = ابزارهای مخصوص همهٔ افزودنی‌ها
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] گزینه ها{ -brand-short-name }
+           *[other] ترجیحات{ -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = برخی از توسعه‌ها را نمی‌توان تایید کرد
 show-all-extensions-button =
@@ -156,6 +164,8 @@ addon-category-extension = ضمیمه‌ها
 addon-category-extension-title =
     .title = ضمیمه‌ها
 addon-category-theme = زمینه‌ها
+addon-category-theme-title =
+    .title = زمینه‌ها
 addon-category-plugin = افزونه‌ها
 addon-category-plugin-title =
     .title = افزونه‌ها
