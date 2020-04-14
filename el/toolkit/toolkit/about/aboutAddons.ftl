@@ -178,7 +178,11 @@ addon-category-plugin = Αρθρώματα
 addon-category-dictionary = Λεξικά
 addon-category-locale = Γλώσσες
 addon-category-available-updates = Διαθέσιμες ενημερώσεις
+addon-category-available-updates-title =
+    .title = Διαθέσιμες ενημερώσεις
 addon-category-recent-updates = Πρόσφατες ενημερώσεις
+addon-category-recent-updates-title =
+    .title = Πρόσφατες ενημερώσεις
 
 ## These are global warnings
 
