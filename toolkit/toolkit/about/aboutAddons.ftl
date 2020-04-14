@@ -175,6 +175,8 @@ addon-category-dictionary = Từ điển
 addon-category-locale = Ngôn ngữ
 addon-category-available-updates = Cập nhật có sẵn
 addon-category-recent-updates = Cập nhật gần đây
+addon-category-recent-updates-title =
+    .title = Cập nhật gần đây
 
 ## These are global warnings
 
