@@ -28,6 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Atsisakyti
 downloads-cmd-cancel-panel =
     .aria-label = Atsisakyti
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Atverti aplanką
+    .accesskey = v
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Parodyti programoje „Finder“
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Parodyti programoje „Finder“
+           *[other] Atverti aplanką
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
