@@ -14,8 +14,14 @@ detail-repository-value =
 detail-rating =
     .value = Bewäertung
 addon-category-extension = Erweiderungen
+addon-category-extension-title =
+    .title = Erweiderungen
 addon-category-dictionary = Dictionnairen
+addon-category-dictionary-title =
+    .title = Dictionnairen
 addon-category-locale = Sproochen
+addon-category-locale-title =
+    .title = Sproochen
 
 ## These are global warnings
 
