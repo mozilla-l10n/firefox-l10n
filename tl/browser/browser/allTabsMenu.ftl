@@ -4,3 +4,6 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Buksang Muli ang Isinarang Tab
+all-tabs-menu-manage-user-context =
+    .label = Manage Containers
+    .accesskey = O
