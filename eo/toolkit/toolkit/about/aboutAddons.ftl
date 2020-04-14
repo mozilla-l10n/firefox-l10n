@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Instali aldonaĵon el dosiero…
     .accesskey = I
 help-button = Helpo pri aldonaĵoj
+sidebar-help-button-title =
+    .title = Helpo pri aldonaĵoj
 preferences =
     { PLATFORM() ->
         [windows] Elektebloj de { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Iloj por ĉiuj aldonaĵoj
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Elektebloj de { -brand-short-name }
+           *[other] Preferoj de { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Montri etendaĵojn kiuj ne povis esti kontrolitaj
 show-all-extensions-button =
@@ -163,13 +171,27 @@ extensions-view-available-updates =
     .name = Haveblaj ĝisdatigoj
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Rekomendoj
+addon-category-discover-title =
+    .title = Rekomendoj
 addon-category-extension = Etendaĵoj
+addon-category-extension-title =
+    .title = Etendaĵoj
 addon-category-theme = Etosoj
 addon-category-plugin = Kromprogramoj
+addon-category-plugin-title =
+    .title = Kromprogramoj
 addon-category-dictionary = Vortaroj
+addon-category-dictionary-title =
+    .title = Vortaroj
 addon-category-locale = Lingvoj
+addon-category-locale-title =
+    .title = Lingvoj
 addon-category-available-updates = Haveblaj ĝisdatigoj
+addon-category-available-updates-title =
+    .title = Haveblaj ĝisdatigoj
 addon-category-recent-updates = Ĵusaj ĝisdatigoj
+addon-category-recent-updates-title =
+    .title = Ĵusaj ĝisdatigoj
 
 ## These are global warnings
 
@@ -307,6 +329,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Montri malpli
 go-back-button =
     .tooltiptext = Iri reen
+header-back-button =
+    .title = Iri reen
 
 ## Recommended add-ons page
 
