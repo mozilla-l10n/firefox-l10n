@@ -23,16 +23,6 @@ downloads-cmd-cancel =
     .tooltiptext = ರದ್ದು ಮಾಡು
 downloads-cmd-cancel-panel =
     .aria-label = ರದ್ದು ಮಾಡು
-# This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
-    .label = ಹೊಂದಿರುವ ಕಡತಕೋಶವನ್ನು ತೆರೆ
-    .tooltiptext = { downloads-cmd-show.label }
-    .accesskey = F
-# This message is only displayed on macOS devices
-downloads-cmd-show-mac =
-    .label = ಹುಡುಕುಗಾರನಲ್ಲಿ ತೋರಿಸು
-    .tooltiptext = { downloads-cmd-show-mac.label }
-    .accesskey = F
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
