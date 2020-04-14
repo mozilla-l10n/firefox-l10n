@@ -151,7 +151,11 @@ addon-category-plugin = પ્લગઇન
 addon-category-dictionary = શબ્દકોષો
 addon-category-locale = ભાષાઓ
 addon-category-available-updates = ઉપલબ્ધ સુધારાઓ
+addon-category-available-updates-title =
+    .title = ઉપલબ્ધ સુધારાઓ
 addon-category-recent-updates = તાજેતરનાં સુધારાઓ
+addon-category-recent-updates-title =
+    .title = તાજેતરનાં સુધારાઓ
 
 ## These are global warnings
 
