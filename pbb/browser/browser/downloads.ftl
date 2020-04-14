@@ -20,15 +20,19 @@ downloads-cmd-resume =
     .label = Takhna
     .accesskey = T
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Phaden eç jxawnxi's txih jiptepa thegya
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = P
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Ta'sxna na's Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Ta'sxna na's Finder
+           *[other] Phaden eç jxawnxi's txih jiptepa thegya
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
