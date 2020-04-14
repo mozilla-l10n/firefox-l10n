@@ -28,10 +28,20 @@ downloads-cmd-cancel =
     .tooltiptext = Renunță
 downloads-cmd-cancel-panel =
     .aria-label = Renunță
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Deschide dosarul conținător
+    .accesskey = F
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Afișează în Finder
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Afișează în Finder
+           *[other] Deschide dosarul conținător
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
