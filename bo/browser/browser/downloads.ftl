@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = ཕྱིར་འཐེན
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = འཇུག་སའི་ཡིག་སྣོད་ཁ་ཕྱེ
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Show In Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Show In Finder
+           *[other] འཇུག་སའི་ཡིག་སྣོད་ཁ་ཕྱེ
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
