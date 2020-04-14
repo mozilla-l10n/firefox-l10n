@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = रद्द करा
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = समाविष्टीत फोल्डर उघडा
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = F
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = फाइंडरमध्ये दाखवा
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] फाइंडरमध्ये दाखवा
+           *[other] समाविष्टीत फोल्डर उघडा
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
