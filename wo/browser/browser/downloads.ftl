@@ -23,6 +23,20 @@ downloads-cmd-cancel =
     .tooltiptext = Neenal
 downloads-cmd-cancel-panel =
     .aria-label = Neenal
+# This message is only displayed on Windows and Linux devices
+downloads-cmd-show-menuitem =
+    .label = Ubbi wayndare bi ëmb dencukaay bi
+    .accesskey = w
+# This message is only displayed on macOS devices
+downloads-cmd-show-menuitem-mac =
+    .label = Wone ci biir Finder
+    .accesskey = F
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Wone ci biir Finder
+           *[other] Ubbi wayndare bi ëmb dencukaay bi
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
