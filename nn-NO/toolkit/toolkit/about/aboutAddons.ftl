@@ -177,14 +177,26 @@ extensions-view-available-updates =
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Tilrådingar
 addon-category-extension = Utvidingar
+addon-category-extension-title =
+    .title = Utvidingar
 addon-category-theme = Tema
 addon-category-theme-title =
     .title = Tema
 addon-category-plugin = Programtillegg
+addon-category-plugin-title =
+    .title = Programtillegg
 addon-category-dictionary = Ordbøker
+addon-category-dictionary-title =
+    .title = Ordbøker
 addon-category-locale = Språk
+addon-category-locale-title =
+    .title = Språk
 addon-category-available-updates = Tilgjengelege oppdateringar
+addon-category-available-updates-title =
+    .title = Tilgjengelege oppdateringar
 addon-category-recent-updates = Nyleg oppdatert
+addon-category-recent-updates-title =
+    .title = Nyleg oppdatert
 
 ## These are global warnings
 
