@@ -215,6 +215,8 @@ cfr-doorhanger-milestone-ok-button = Wali akk
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Rnu awal uffir aɣelsan s wudem fessusen
+cfr-whatsnew-lockwise-icon-alt = Tignit { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
