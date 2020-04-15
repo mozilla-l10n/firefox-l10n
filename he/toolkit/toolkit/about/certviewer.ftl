@@ -51,6 +51,8 @@ certificate-viewer-business-category = קטגוריית עסקים
 certificate-viewer-public-key-info = מידע מפתח ציבורי
 certificate-viewer-miscellaneous = שונות
 certificate-viewer-fingerprints = טביעות אצבע
+certificate-viewer-certificate-policies = מדיניות של אישור
+certificate-viewer-crl-endpoints = נקודות קצה של CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = הורדה
@@ -66,3 +68,16 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = הרחבה זו סומנה כקריטית, כלומר לקוחות חייבים לדחות את האישור אם הם לא מבינים אותו.
+certificate-viewer-export = ייצוא
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = האישורים שלך
+certificate-viewer-tab-people = אנשים
+certificate-viewer-tab-servers = שרתים
+certificate-viewer-tab-ca = רשויות
+certificate-viewer-tab-unkonwn = לא ידוע
