@@ -2,9 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = פתיחה
+    .accesskey = פ
+places-open-tab =
+    .label = פתיחה בלשונית חדשה
+    .accesskey = ל
+places-open-all-in-tabs =
+    .label = פתיחת הכל בלשוניות
+    .accesskey = פ
+places-open-window =
+    .label = פתיחה בחלון חדש
+    .accesskey = ח
 places-open-private-window =
     .label = פתיחה בחלון פרטי חדש
     .accesskey = פ
+places-new-bookmark =
+    .label = סימנייה חדשה…
+    .accesskey = ס
+places-new-folder-contextmenu =
+    .label = תיקייה חדשה…
+    .accesskey = ת
+places-new-folder =
+    .label = תיקייה חדשה…
+    .accesskey = ח
 places-new-separator =
     .label = קו מפריד חדש
     .accesskey = ק
@@ -30,6 +51,12 @@ places-history-search =
     .placeholder = חיפוש בהיסטוריה
 places-bookmarks-search =
     .placeholder = חיפוש בסימניות
+places-delete-domain-data =
+    .label = לשכוח מאתר זה
+    .accesskey = ש
+places-sortby-name =
+    .label = מיון לפי שם
+    .accesskey = מ
 places-properties =
     .label = מאפיינים
     .accesskey = מ
