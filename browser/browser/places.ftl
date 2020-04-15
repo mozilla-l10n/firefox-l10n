@@ -2,6 +2,30 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = Άνοιγμα
+    .accesskey = ν
+places-open-tab =
+    .label = Άνοιγμα σε νέα καρτέλα
+    .accesskey = κ
+places-open-all-in-tabs =
+    .label = Άνοιγμα όλων σε καρτέλες
+    .accesskey = ν
+places-open-window =
+    .label = Άνοιγμα σε νέο παράθυρο
+    .accesskey = π
+places-new-bookmark =
+    .label = Νέος σελιδοδείκτης...
+    .accesskey = σ
+places-new-folder-contextmenu =
+    .label = Νέος φάκελος...
+    .accesskey = φ
+places-new-folder =
+    .label = Νέος φάκελος...
+    .accesskey = Φ
+places-new-separator =
+    .label = Νέο διαχωριστικό
+    .accesskey = χ
 places-view =
     .label = Προβολή
     .accesskey = β
@@ -17,3 +41,9 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Κατά ημερομηνία και σελίδα
     .accesskey = μ
+places-sortby-name =
+    .label = Ταξινόμηση κατά όνομα
+    .accesskey = ι
+places-properties =
+    .label = Ιδιότητες
+    .accesskey = δ
