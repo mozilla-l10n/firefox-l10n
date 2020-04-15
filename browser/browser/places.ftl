@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = 열기
+    .accesskey = O
 places-open-tab =
     .label = 새 탭에 열기
     .accesskey = w
@@ -28,6 +31,9 @@ places-view =
     .accesskey = w
 places-bookmarks-search =
     .placeholder = 북마크 검색
+places-delete-domain-data =
+    .label = 이 사이트 기억 안 함
+    .accesskey = F
 places-properties =
     .label = 속성
     .accesskey = i
