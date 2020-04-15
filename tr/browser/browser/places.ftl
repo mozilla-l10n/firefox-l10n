@@ -5,6 +5,9 @@
 places-open =
     .label = Aç
     .accesskey = A
+places-open-tab =
+    .label = Yeni sekmede aç
+    .accesskey = e
 places-open-all-in-tabs =
     .label = Tümünü sekmelerde aç
     .accesskey = m
