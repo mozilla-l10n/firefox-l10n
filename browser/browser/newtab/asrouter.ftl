@@ -222,3 +222,6 @@ cfr-whatsnew-passwords-icon-alt = 취약한 비밀번호 키 아이콘
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = 화면 속 화면을 전체 화면에서 보세요
+cfr-whatsnew-pip-fullscreen-body = 동영상을 떠 있는 창에 띄웠을때, 해당 창을 더블 클릭해서 전체 화면으로 전환할 수 있습니다.
+cfr-whatsnew-pip-fullscreen-icon-alt = 화면 속 화면 아이콘
