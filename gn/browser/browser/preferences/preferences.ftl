@@ -939,6 +939,7 @@ content-blocking-etp-strict-desc = Ñemo’ãve, hákatu ikatu ndahetái tenda t
 content-blocking-etp-custom-desc = Eiporavo mba’ete tapykuehoha ha scripts ejokose.
 content-blocking-private-windows = Tetepy rapykueho ovetã ñemíme
 content-blocking-cross-site-tracking-cookies = Kookie rapykuehoha hendaitáva
+content-blocking-cross-site-tracking-cookies-plus-isolate = Kookie rapykueho tendápe ha eipe’a kookie hembyva
 content-blocking-social-media-trackers = Ava ñandutieta rapykuehoha
 content-blocking-all-cookies = Opavavete kookie
 content-blocking-unvisited-cookies = Kookie eike’ỹ hague
