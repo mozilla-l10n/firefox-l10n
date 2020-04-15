@@ -51,6 +51,7 @@ policy-DNSOverHTTPS = Configura DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Disattiva il controllo del browser predefinito all’avvio.
 policy-DownloadDirectory = Imposta la cartella per i download e impedisci ulteriori modifiche.
 policy-EnableTrackingProtection = Attiva o disattiva il blocco contenuti ed eventualmente impedisci modifiche all’opzione.
+policy-EncryptedMediaExtensions = Attiva o disattiva Encrypted Media Extensions ed eventualmente impedisci modifiche all’opzione.
 policy-Extensions = Installa, disinstalla o blocca estensioni. L’opzione per installare richiede URL o percorsi come parametri. L’opzione per disinstallare o bloccare richiede gli ID delle estensioni.
 policy-ExtensionSettings = Gestisci tutti gli aspetti connessi all’installazione di estensioni.
 policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle estensioni.
