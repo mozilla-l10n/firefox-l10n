@@ -1,0 +1,55 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this file,
+# You can obtain one at http://mozilla.org/MPL/2.0/.
+
+places-open =
+    .label = খোলক
+    .accesskey = O
+places-open-tab =
+    .label = এটা নতুন টেবত খোলক
+    .accesskey = w
+places-open-all-in-tabs =
+    .label = সকলোক টেবত খোলক
+    .accesskey = O
+places-open-window =
+    .label = এটা নতুন উইন্ডোত খোলক
+    .accesskey = N
+places-new-bookmark =
+    .label = নতুন পত্ৰচিহ্ন…
+    .accesskey = B
+places-new-folder-contextmenu =
+    .label = নতুন ফোল্ডাৰ…
+    .accesskey = F
+places-new-folder =
+    .label = নতুন ফোল্ডাৰ…
+    .accesskey = o
+places-new-separator =
+    .label = নতুন বিভাজক
+    .accesskey = S
+places-view =
+    .label = দৰ্শন কৰক
+    .accesskey = w
+places-by-date =
+    .label = তাৰিখৰে
+    .accesskey = D
+places-by-site =
+    .label = ছাইটৰে
+    .accesskey = S
+places-by-most-visited =
+    .label = সৰ্বাধিক ভ্ৰমণ কৰা
+    .accesskey = V
+places-by-last-visited =
+    .label = শেহতীয়াভাৱে ভ্ৰমণ কৰা
+    .accesskey = L
+places-by-day-and-site =
+    .label = তাৰিখ আৰু ছাইটৰে
+    .accesskey = t
+places-delete-domain-data =
+    .label = এই ছাইটৰ বিষয়ে পাহৰি যাওক
+    .accesskey = F
+places-sortby-name =
+    .label = নামেৰে সজাঁওক
+    .accesskey = r
+places-properties =
+    .label = বৈশিষ্ট্যসমূহ
+    .accesskey = i
