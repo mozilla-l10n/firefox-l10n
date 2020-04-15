@@ -22,6 +22,7 @@ policy-Bookmarks = Luo kirjanmerkkejä kirjanmerkkipalkkiin, Kirjanmerkit-valikk
 policy-CaptivePortal = Ota käyttöön tai poista käytöstä vahtiportaalien tuki.
 policy-CertificatesDescription = Lisää varmenteita tai käytä sisäänrakennettuja varmenteita.
 policy-Cookies = Salli tai estä, että sivustot asettavat evästeitä.
+policy-DisabledCiphers = Poista salausalgoritmeja käytöstä.
 policy-DefaultDownloadDirectory = Aseta oletuslatauskansio.
 policy-DisableAppUpdate = Estä selainta päivittymästä.
 policy-DisableBuiltinPDFViewer = Poista käytöstä PDF.js, { -brand-short-name }in sisäänrakennettu PDF-katselin.
@@ -64,6 +65,12 @@ policy-HardwareAcceleration = Jos epätosi, poista laitteistokiihdytys käytöst
 policy-Homepage = Aseta ja valinnaisesti lukitse aloitussivu.
 policy-InstallAddonsPermission = Salli tiettyjen sivustojen asentaa lisäosia.
 policy-LegacyProfiles = Poista käytöstä ominaisuus, joka pakottaa erillisen profiilin kullekin asennukselle
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-LocalFileLinks = Salli tiettyjen sivustojen linkittää paikallisiin tiedostoihin.
 policy-NetworkPrediction = Ota käyttöön tai poista käytöstä verkkoennakointi (DNS-esihaku).
 policy-NewTabPage = Ota käyttöön tai poista käytöstä Uusi välilehti -sivu
