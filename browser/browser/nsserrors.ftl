@@ -15,7 +15,7 @@ psmerr-ssl2-disabled = ไม่สามารถเชื่อมต่ออ
 psmerr-hostreusedissuerandserial =
     คุณได้รับใบรับรองที่ไม่ถูกต้อง โปรดติดต่อผู้ดูแลเซิร์ฟเวอร์หรือส่งอีเมลหาผู้ที่เกี่ยวข้องโดบแนบข้อมูลดังกล่าวไปด้วย:
     
-    ใบรับรองของคุณมีเลขอนุกรมที่เหมือนกับใบรับรองอื่นที่ออกมาแล้ว โปรดรับใบรับรองใหม่ที่มีเลขอนุกรมไม่ซ้ำ (Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.)
+    ใบรับรองของคุณมีเลขอนุกรมที่เหมือนกับใบรับรองอื่นที่ออกมาแล้ว โปรดรับใบรับรองใหม่ที่มีเลขอนุกรมไม่ซ้ำ
 ssl-error-export-only-server = ไม่สามารถสื่อสารอย่างปลอดภัย อีกฝั่งไม่รองรับการเข้ารหัสระดับสูง
 ssl-error-us-only-server = ไม่สามารถสื่อสารอย่างปลอดภัย อีกฝั่งต้องการการเข้ารหัสระดับสูงซึ่งไม่รองรับ
 ssl-error-no-cypher-overlap = ไม่สามารถสื่อสารอย่างปลอดภัยกับอีกฝั่ง: ไม่มีอัลกอริทึมการเข้ารหัสร่วมกัน
@@ -281,10 +281,10 @@ sec-error-ocsp-unknown-response-status = เซิร์ฟเวอร์ OCSP 
 sec-error-ocsp-unknown-cert = เซิร์ฟเวอร์ OCSP ไม่มีสถานะสำหรับใบรับรอง
 sec-error-ocsp-not-enabled = คุณต้องเปิดใช้งาน OCSP ก่อนจะทำการดำเนินการนี้
 sec-error-ocsp-no-default-responder = คุณต้องตั้งตัวตอบกลับเริ่มต้น OCSP ก่อนดำเนินการนี้
-sec-error-ocsp-malformed-response = The response from the OCSP server was corrupted or improperly formed.
-sec-error-ocsp-unauthorized-response = The signer of the OCSP response is not authorized to give status for this certificate.
-sec-error-ocsp-future-response = The OCSP response is not yet valid (contains a date in the future).
-sec-error-ocsp-old-response = The OCSP response contains out-of-date information.
+sec-error-ocsp-malformed-response = การตอบกลับจากเซิร์ฟเวอร์ OCSP เสียหายหรือมีรูปแบบที่ไม่ถูกต้อง
+sec-error-ocsp-unauthorized-response = ผู้ลงลายเซ็นของการตอบกลับ OCSP ไม่ได้รับอนุญาตให้ระบุสถานะสำหรับใบรับรองนี้
+sec-error-ocsp-future-response = การตอบกลับ OCSP ยังไม่ถูกต้อง (มีวันในอนาคต)
+sec-error-ocsp-old-response = การตอบกลับ OCSP มีข้อมูลที่ล้าสมัย
 sec-error-digest-not-found = The CMS or PKCS #7 Digest was not found in signed message.
 sec-error-unsupported-message-type = The CMS or PKCS #7 Message type is unsupported.
 sec-error-module-stuck = PKCS #11 module could not be removed because it is still in use.
