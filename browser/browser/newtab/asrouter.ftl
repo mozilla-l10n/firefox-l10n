@@ -204,3 +204,18 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = 모두 보기
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = 안전한 비밀번호를 쉽게 생성
+cfr-whatsnew-lockwise-body = 모든 계정에 대해 고유하고 안전한 비밀번호를 생각하기는 어렵습니다. 비밀번호를 만들때 { -brand-shorter-name }에서 생성된 안전한 비밀번호를 사용하려면 비밀번호 필드를 선택하세요.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } 아이콘
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
