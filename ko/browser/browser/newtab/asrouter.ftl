@@ -216,6 +216,9 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } 아이콘
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = 취약한 비밀번호에 대한 알림 받기
+cfr-whatsnew-passwords-body = 해커는 사람들이 동일한 비밀번호를 재사용한다는 것을 알고 있습니다. 여러 사이트에서 동일한 비밀번호를 사용하고, 해당 사이트들 중 하나에서 데이터가 유출된 경우, { -lockwise-brand-short-name }에 해당 사이트들의 비밀번호를 변경하라는 알림이 표시됩니다.
+cfr-whatsnew-passwords-icon-alt = 취약한 비밀번호 키 아이콘
 
 ## Picture-in-Picture fullscreen message
 
