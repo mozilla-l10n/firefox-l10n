@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = Buksan
+    .accesskey = O
+places-open-tab =
+    .label = Buksan sa Bagong Tab
+    .accesskey = w
+places-open-all-in-tabs =
+    .label = Buksan Lahat sa mga Tab
+    .accesskey = O
 places-open-window =
     .label = Buksan sa Bagong Window
     .accesskey = n
@@ -17,6 +26,9 @@ places-new-folder-contextmenu =
 places-new-folder =
     .label = Bagong Folder...
     .accesskey = o
+places-new-separator =
+    .label = Bagong Separator
+    .accesskey = S
 places-view =
     .label = I-view
     .accesskey = w
