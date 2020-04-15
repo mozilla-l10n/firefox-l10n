@@ -228,10 +228,14 @@ cfr-doorhanger-milestone-ok-button = Дивитись все
 
 cfr-whatsnew-lockwise-header = Легко створюйте безпечні паролі
 cfr-whatsnew-lockwise-body = Складно вигадати унікальні, безпечні паролі для кожного облікового запису. Створюючи пароль, виберіть поле пароля, щоб скористатися захищеним, згенерованим паролем від { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Піктограма { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Отримуйте попередження про вразливі паролі
+cfr-whatsnew-passwords-body = Хакери знають, що люди користуються однаковими паролями до різних облікових записів. Якщо ви користуєтеся  однаковими паролями на кількох сайтах і з одного з цих сайтів було викрадено дані користувачів, ви побачите сповіщення у { -lockwise-brand-short-name } з порадою змінити свій пароль на цих сайтах.
+cfr-whatsnew-passwords-icon-alt = Піктограма ключа для вразливого пароля
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Увімкніть повноекранний режим зображення в зображенні
