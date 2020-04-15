@@ -341,6 +341,7 @@ shortcuts-no-commands = Následující rozšíření nemají žádné klávesov�
 shortcuts-input =
     .placeholder = Zadejte klávesovou zkratku
 shortcuts-browserAction = Povolit rozšíření
+shortcuts-browserAction2 = Přidat tlačítko na lištu
 shortcuts-pageAction = Povolit akci stránky
 shortcuts-sidebarAction = Přepnout zobrazení postranního panelu
 shortcuts-modifier-mac = Zahrnout Ctrl, Alt nebo ⌘

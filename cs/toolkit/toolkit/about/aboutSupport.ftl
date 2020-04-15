@@ -303,6 +303,11 @@ sandbox-proc-type-content = obsah
 sandbox-proc-type-file = obsah souboru
 sandbox-proc-type-media-plugin = zásuvný modul médií
 sandbox-proc-type-data-decoder = dekodér dat
+startup-cache-title = Mezipaměť spouštění
+startup-cache-disk-cache-path = Cesta k mezipaměti na disku
+startup-cache-ignore-disk-cache = Ignorovat mezipaměť na disku
+startup-cache-found-disk-cache-on-init = Mezipaměť na disku během inicializace nalezena
+startup-cache-wrote-to-disk-cache = Zapsáno do mezipaměti na disku
 launcher-process-status-0 = Povoleno
 launcher-process-status-1 = Zakázáno kvůli chybě
 launcher-process-status-2 = Násilně zakázáno
@@ -326,6 +331,7 @@ touch-enabled = dotykový vstup povolen
 drag-enabled = táhnutí posuvníkem povoleno
 keyboard-enabled = klávesnice povolena
 autoscroll-enabled = automatické posunování povoleno
+zooming-enabled = plynulé gesto pro přiblížení zapnuto
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
