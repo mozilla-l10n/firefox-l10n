@@ -5,3 +5,6 @@
 places-by-date =
     .label = Pe dæta
     .accesskey = d
+places-properties =
+    .label = Propietæ
+    .accesskey = i
