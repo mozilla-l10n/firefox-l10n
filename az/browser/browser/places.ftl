@@ -2,9 +2,24 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = Aç
+    .accesskey = A
+places-open-tab =
+    .label = Yeni Vərəqdə Aç
+    .accesskey = Y
+places-open-all-in-tabs =
+    .label = Hamısını Vərəqlərdə Aç
+    .accesskey = A
+places-open-window =
+    .label = Yeni Pəncərədə Aç
+    .accesskey = Y
 places-new-folder-contextmenu =
     .label = Yeni qovluq…
     .accesskey = S
+places-new-folder =
+    .label = Yeni qovluq…
+    .accesskey = q
 places-new-separator =
     .label = Yeni mötərizə
     .accesskey = Y
@@ -17,6 +32,9 @@ places-by-date =
 places-by-site =
     .label = Sayt
     .accesskey = S
+places-by-most-visited =
+    .label = Ən çox baxılanlar
+    .accesskey = Ə
 places-by-last-visited =
     .label = Son baxılanlar
     .accesskey = S
@@ -29,3 +47,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Ada görə sırala
     .accesskey = k
+places-properties =
+    .label = Xüsusiyyətlər
+    .accesskey = s
