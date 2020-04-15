@@ -232,7 +232,10 @@ cfr-whatsnew-lockwise-icon-alt = Symbol { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Dóstańcé warnowanja wo zranitych hesłach
+cfr-whatsnew-passwords-icon-alt = Symbol zranitych hesłow
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Połnu wobrazowku wobraz-we-wobrazu wužiwać
 cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
