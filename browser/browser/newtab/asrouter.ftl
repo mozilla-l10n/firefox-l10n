@@ -227,6 +227,7 @@ cfr-whatsnew-lockwise-icon-alt = icòna { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Obtenètz d’alertas al subjècte dels senhals vulnerables
+cfr-whatsnew-passwords-body = Los piratas sabon que lo monde tòrnan utilizar los meteisses senhals. S’avètz utilizat lo meteis senhal sus mantun sites e qu’un d’aqueles sites a agut una divulgacion de donadas, veiretz una alèrta de { -lockwise-brand-short-name } per vos dire de cambiar vòstre senhal sus aqueles sites.
 cfr-whatsnew-passwords-icon-alt = icòna d’una clau pas fisabla
 
 ## Picture-in-Picture fullscreen message
