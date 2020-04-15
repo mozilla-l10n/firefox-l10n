@@ -204,3 +204,22 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = 查看全部
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = 轻松生成高强度密码
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } 图标
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = 当发现密码不安全时收到警报
+cfr-whatsnew-passwords-icon-alt = 不安全密码钥匙图标
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = 画中画快速切换全屏
+cfr-whatsnew-pip-fullscreen-body = 当您将视频弹出到浮窗时，双击该窗口即可全屏显示。
+cfr-whatsnew-pip-fullscreen-icon-alt = 画中画图标
