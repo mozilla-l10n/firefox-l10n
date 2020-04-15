@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open-private-window =
+    .label = פתיחה בחלון פרטי חדש
+    .accesskey = פ
 places-new-separator =
     .label = קו מפריד חדש
     .accesskey = ק
@@ -23,6 +26,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = לפי תאריך ואתר
     .accesskey = ל
+places-history-search =
+    .placeholder = חיפוש בהיסטוריה
+places-bookmarks-search =
+    .placeholder = חיפוש בסימניות
 places-properties =
     .label = מאפיינים
     .accesskey = מ
