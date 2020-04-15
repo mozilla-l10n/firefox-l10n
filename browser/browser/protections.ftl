@@ -45,7 +45,7 @@ social-tab-contant = 소셜 네트워크는 다른 웹 사이트에 추적기를
 cookie-tab-title = 교차 사이트 추적 쿠키
 cookie-tab-content = 이러한 쿠키는 사용자가 온라인에서 수행하는 작업에 대한 데이터를 수집하기 위해 사이트 간에 사용자를 따라 다닙니다. 광고사나 분석 회사와 같은 제3자가 설정합니다. 교차 사이트 추적 쿠키를 차단하면 따라다니는 광고 수가 줄어듭니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 tracker-tab-title = 추적 콘텐츠
-tracker-tab-description = 웹 사이트에서 외부 광고, 동영상 및 기타 추적 코드가 포함된 콘텐츠를 로드 할 수 있습니다. 추적 콘텐츠를 차단하면 사이트를 더 빨리 로드 할 수 있지만 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
+tracker-tab-description = 웹 사이트에서 외부 광고, 동영상 및 기타 추적 코드가 포함된 콘텐츠를 로드할 수 있습니다. 추적 콘텐츠를 차단하면 사이트를 더 빨리 로드할 수 있지만 일부 버튼, 양식 및 로그인 필드가 작동하지 않을 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 fingerprinter-tab-title = 핑거프린터
 fingerprinter-tab-content = 핑거프린터는 브라우저와 컴퓨터에서 설정을 수집하여 사용자의 프로필을 만듭니다. 이 디지털 지문을 사용하여 여러 웹 사이트에서 사용자를 추적할 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 cryptominer-tab-title = 크립토마이너
