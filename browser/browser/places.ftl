@@ -5,8 +5,14 @@
 places-open =
     .label = Abrir
     .accesskey = r
+places-open-tab =
+    .label = Abrir em uma nova aba
+    .accesskey = b
 places-open-all-in-tabs =
     .label = Abrir tudo em abas
+    .accesskey = A
+places-open-window =
+    .label = Abrir em uma nova janela
     .accesskey = A
 places-new-bookmark =
     .label = Novo favorito…
