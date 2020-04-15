@@ -207,3 +207,23 @@ cfr-doorhanger-cryptominers-description = Le respect de votre vie privée est im
 cfr-doorhanger-milestone-heading = { -brand-short-name } a bloqué plus de <b>{ $blockedCount }</b> traqueurs depuis { $date }.
 cfr-doorhanger-milestone-ok-button = Tout afficher
     .accesskey = T
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Créez facilement des mots de passe sûrs
+cfr-whatsnew-lockwise-body = Il n’est pas toujours facile de penser à des mots de passe uniques et sûrs pour chaque compte. Lors de la création d’un mot de passe, sélectionnez le champ de mot de passe pour utiliser un mot de passe sécurisé, généré à partir de { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Icône de { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Recevez des alertes sur les mots de passe vulnérables
+cfr-whatsnew-passwords-body = Les pirates savent que les gens réutilisent les mêmes mots de passe. Si vous avez utilisé le même mot de passe sur plusieurs sites et que l’un de ces sites a été victime d’une fuite de données, vous verrez une alerte dans { -lockwise-brand-short-name } vous invitant à modifier votre mot de passe sur ces sites.
+cfr-whatsnew-passwords-icon-alt = Icône de clé de mot de passe vulnérable
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-body = Lorsque vous avez placé une vidéo dans une fenêtre flottante, vous pouvez maintenant double-cliquer sur celle-ci pour passer en plein écran.
+cfr-whatsnew-pip-fullscreen-icon-alt = Icône d’incrustation vidéo
