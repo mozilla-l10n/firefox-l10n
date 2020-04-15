@@ -5,6 +5,15 @@
 places-open =
     .label = 打开
     .accesskey = O
+places-open-tab =
+    .label = 新建标签页打开
+    .accesskey = w
+places-open-all-in-tabs =
+    .label = 全部打开
+    .accesskey = O
+places-open-window =
+    .label = 新建窗口打开
+    .accesskey = N
 places-open-private-window =
     .label = 新建隐私窗口打开
     .accesskey = P
