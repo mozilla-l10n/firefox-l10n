@@ -107,10 +107,10 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } 이후
 cfr-whatsnew-tracking-blocked-link-text = 보고서 보기
 cfr-whatsnew-lockwise-backup-title = 비밀번호 백업
-cfr-whatsnew-lockwise-backup-body = 이제 로그인하는 곳 어디에서나 접근 할 수 있는 안전한 비밀번호를 생성하세요.
+cfr-whatsnew-lockwise-backup-body = 이제 로그인하는 곳 어디에서나 접근할 수 있는 안전한 비밀번호를 생성하세요.
 cfr-whatsnew-lockwise-backup-link-text = 백업 켜기
 cfr-whatsnew-lockwise-take-title = 비밀번호를 가지고 다니세요
-cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 모바일 앱을 사용하면 어디서든 백업된 비밀번호에 안전하게 접근 할 수 있습니다.
+cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } 모바일 앱을 사용하면 어디서든 백업된 비밀번호에 안전하게 접근할 수 있습니다.
 cfr-whatsnew-lockwise-take-link-text = 앱 받기
 
 ## Search Bar
