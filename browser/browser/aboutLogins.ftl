@@ -149,6 +149,7 @@ confirm-discard-changes-dialog-confirm-button = Verwerfen
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Datenleck einer Website
 breach-alert-text = Passwörter dieser Website wurden veröffentlicht oder gestohlen, seit Sie Ihre Zugangsdaten zuletzt aktualisiert haben. Ändern Sie Ihr Passwort, um Ihr Konto zu schützen.
 breach-alert-link = Weitere Informationen über dieses Datenleck
 breach-alert-dismiss =
