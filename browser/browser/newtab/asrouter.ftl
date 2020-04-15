@@ -233,4 +233,5 @@ cfr-whatsnew-passwords-icon-alt = icòna d’una clau pas fisabla
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Passar la vidèo incrustada en plen ecran
+cfr-whatsnew-pip-fullscreen-body = Quand plaçatz una vidèo dins una fenèstra bandejanta, podètz ara doble-clicar dessús per la passar en plen ecran.
 cfr-whatsnew-pip-fullscreen-icon-alt = icòna vidèos incrustada

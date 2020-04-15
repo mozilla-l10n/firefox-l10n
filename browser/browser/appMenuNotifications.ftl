@@ -35,7 +35,7 @@ appmenu-update-restart-message = Aprèp una pichoneta reaviada, { -brand-shorter
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Comprés
     .buttonaccesskey = C
-appmenu-addon-post-install-message = Gerir los moduls en clicar <image data-l10n-name='addon-install-icon'></image> pel <image data-l10n-name='addon-menu-icon'></image> menú.
+appmenu-addon-post-install-message = Gerir los moduls en clicant <image data-l10n-name='addon-install-icon'></image> sul menú <image data-l10n-name='addon-menu-icon'></image>.
 appmenu-addon-post-install-incognito-checkbox =
     .label = Autorizar aquesta extension en navegacion privada
     .accesskey = A
