@@ -227,4 +227,5 @@ cfr-whatsnew-passwords-icon-alt = Ñe’ẽñemi mba’eñemi ivaikuaáva ra’�
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Ejapyhy peteĩva ta’ãnga mba’erechaha tuichaháicha
+cfr-whatsnew-pip-fullscreen-body = Osẽvo ta’ãngamýi ovetã ho’ytávape, ág̃a ikatu eikutujo’a ovetãme ehasa hag̃ua mba’erechaha tuichávape.
 cfr-whatsnew-pip-fullscreen-icon-alt = Peteĩva ta’ãnga ra’ãnga’i
