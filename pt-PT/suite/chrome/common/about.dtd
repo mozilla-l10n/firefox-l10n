@@ -13,7 +13,7 @@
      your locale needs a space between words, add it at the end of this
      entity. -->
 <!ENTITY about.credits.beforeLink     "Veja uma lista de ">
-<!ENTITY about.credits.linkTitle      "contribuidores">
+<!ENTITY about.credits.linkTitle      "colaboradores">
 <!-- LOCALIZATION NOTE (about.credits.afterLink): note that there is no space
      between the linked about.credits.linkTitle phrase and this phrase, so if
      your locale needs a space between words, add it at the start of this
