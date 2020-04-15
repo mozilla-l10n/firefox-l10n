@@ -57,3 +57,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Leemtir Innde
     .accesskey = r
+places-properties =
+    .label = Keeroraaɗi
+    .accesskey = a
