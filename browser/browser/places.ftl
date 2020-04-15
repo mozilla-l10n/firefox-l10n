@@ -2,9 +2,33 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = Dobrir
+    .accesskey = D
+places-open-tab =
+    .label = Dobrir dins un onglet novèl
+    .accesskey = o
 places-open-all-in-tabs =
     .label = Tot dobrir dins d'onglets
     .accesskey = o
+places-open-window =
+    .label = Dobrir dins una fenèstra novèla
+    .accesskey = f
+places-open-private-window =
+    .label = Dobrir lo ligam dins una novèla fenèstra privada
+    .accesskey = p
+places-new-bookmark =
+    .label = Marcapagina novèl…
+    .accesskey = M
+places-new-folder-contextmenu =
+    .label = Repertòri novèl…
+    .accesskey = R
+places-new-folder =
+    .label = Repertòri novèl…
+    .accesskey = R
+places-new-separator =
+    .label = Separador novèl
+    .accesskey = S
 places-view =
     .label = Visualizar
     .accesskey = z
@@ -23,6 +47,10 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Per data e site
     .accesskey = t
+places-history-search =
+    .placeholder = Cercar dins l’istoric
+places-bookmarks-search =
+    .placeholder = Cercar dins los marcapaginas
 places-delete-domain-data =
     .label = Doblidar aqueste site
     .accesskey = D
