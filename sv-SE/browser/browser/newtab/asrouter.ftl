@@ -222,6 +222,7 @@ cfr-doorhanger-milestone-ok-button = Visa alla
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Skapa säkra lösenord enkelt
+cfr-whatsnew-lockwise-body = Det kan vara svårt att komma på ett unikt och säkert lösenord för varje konto. När du skapar ett lösenord välj fältet för att använda ett säkert genererat lösenord från { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ikon
 
 ## Vulnerable Passwords message
