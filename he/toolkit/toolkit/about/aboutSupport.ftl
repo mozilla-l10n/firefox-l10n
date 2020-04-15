@@ -147,6 +147,7 @@ intl-regional-prefs = העדפות אזוריות
 ##
 ## See also https://firefox-source-docs.mozilla.org/remote/
 
+remote-debugging-title = ניפוי שגיאות מרחוק (פרוטוקול Chromium)
 remote-debugging-url = כתובת
 
 ##
