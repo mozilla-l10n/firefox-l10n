@@ -5,6 +5,12 @@
 places-open =
     .label = Bula
     .accesskey = B
+places-open-window =
+    .label = Bula mo Window e Ntšhwa
+    .accesskey = N
+places-open-private-window =
+    .label = Bula mo Window ya Poraefete e Ntšhwa
+    .accesskey = P
 places-new-bookmark =
     .label = Letshwaotsebe le Lentšhwa…
     .accesskey = L
