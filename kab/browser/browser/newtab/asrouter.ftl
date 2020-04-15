@@ -209,3 +209,17 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Wali akk
     .accesskey = W
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Awi agdil aččuran n tugna-deg-tugna
+cfr-whatsnew-pip-fullscreen-icon-alt = Tignit n tugna-deg-tugna
