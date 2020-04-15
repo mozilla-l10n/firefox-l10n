@@ -204,3 +204,24 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = 檢視全部
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = 輕鬆產生安全的密碼
+cfr-whatsnew-lockwise-body = 要幫每個帳號都想到獨特而安全的密碼並不簡單。註冊帳號時，只要點擊密碼欄位，{ -brand-shorter-name } 就可以自動為您產生安全的密碼。
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } 圖示
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = 當發現密碼不安全時收到警報通知
+cfr-whatsnew-passwords-body = 駭客知道人們會重複使用相同密碼。若您在多個網站重複使用同一組密碼，當任一個網站發生資料外洩時，就會收到 { -lockwise-brand-short-name } 的警報，提醒您要更改這些網站的密碼。
+cfr-whatsnew-passwords-icon-alt = 不安全的密碼鑰匙圖示
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = 從子母畫面放大成全螢幕
+cfr-whatsnew-pip-fullscreen-body = 當您將影片縮到子母畫面中播放時，只要雙擊該視窗就能用全螢幕播放。
+cfr-whatsnew-pip-fullscreen-icon-alt = 子母畫面圖示
