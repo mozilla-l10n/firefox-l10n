@@ -9,7 +9,7 @@ enable-inspect-element-message = 개발자 도구의 검사기로 HTML과 CSS를
 enable-about-debugging-message = Firefox 개발자 도구로 WebExtensions이나 웹 Worker, Service Worker 등을 개발하고 디버깅하세요.
 enable-key-shortcut-message = 개발자 도구 바로가기를 활성화했습니다. 만약 실수인 경우, 이 탭을 닫을 수 있습니다.
 enable-menu-message = 검사기와 디버거 같은 도구로 웹 사이트의 HTML, CSS와 JavaScript를 완벽하게 처리하세요.
-enable-common-message = Firefox 개발자 도구는 브라우저를 보다 강력하게 제어 할 수 있도록 기본적으로 비활성화되어 있습니다.
+enable-common-message = Firefox 개발자 도구는 브라우저를 보다 강력하게 제어할 수 있도록 기본적으로 비활성화되어 있습니다.
 enable-learn-more-link = 개발자 도구에 대하여 더 알아보기
 enable-enable-button = 개발자 도구 활성화
 enable-close-button = 이 탭 닫기
@@ -21,7 +21,7 @@ newsletter-email-placeholder =
 newsletter-privacy-label = 전 Mozilla에서 제 정보를 이 <a data-l10n-name="privacy-policy">개인 정보 정책</a>에 나와있는 대로 다뤄도 괜찮습니다.
 newsletter-subscribe-button = 구독
 newsletter-thanks-title = 고맙습니다!
-newsletter-thanks-message = 만약 이전에 Mozilla 관련 뉴스 레터 구독을 확인하지 않았다면 그렇게해야 할 수 있습니다. 받은 편지함이나 스팸 필터에서 이메일을 확인하세요.
+newsletter-thanks-message = 만약 이전에 Mozilla 관련 뉴스 레터 구독을 확인하지 않았다면 그렇게 해야 할 수 있습니다. 받은 편지함이나 스팸 필터에서 이메일을 확인하세요.
 footer-title = Firefox 개발자 버전
 footer-message = 더 좋은 개발자 도구를 찾고 계신가요? 개발자와 현대적인 워크플로우를 위해 특별히 제작된 Firefox 브라우저를 확인해보세요.
 footer-learn-more-link = 더 알아보기

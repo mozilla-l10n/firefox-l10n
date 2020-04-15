@@ -178,7 +178,7 @@ about-debugging-runtime-service-workers-not-compatible = 브라우저 구성이 
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = 연결된 브라우저에는 이전 버전 ({ $runtimeVersion })이 있습니다. 지원되는 최소 버전은 ({ $minVersion }) 입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패 할 수 있습니다. 연결된 브라우저를 업데이트하세요. <a>문제 해결</a>
+about-debugging-browser-version-too-old = 연결된 브라우저에는 이전 버전 ({ $runtimeVersion })이 있습니다. 지원되는 최소 버전은 ({ $minVersion }) 입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패할 수 있습니다. 연결된 브라우저를 업데이트하세요. <a>문제 해결</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
@@ -195,7 +195,7 @@ about-debugging-browser-version-too-old-fennec = 이 Firefox 버전은 Android�
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = 연결된 브라우저가 { -brand-shorter-name } ({ $localVersion }, buildID { $localID })보다 최근 버전({ $runtimeVersion }, buildID { $runtimeID })입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패 할 수 있습니다. Firefox를 업데이트하세요. <a>문제 해결</a>
+about-debugging-browser-version-too-recent = 연결된 브라우저가 { -brand-shorter-name } ({ $localVersion }, buildID { $localID })보다 최근 버전({ $runtimeVersion }, buildID { $runtimeID })입니다. 이것은 지원되지 않는 설정이며 DevTools가 실패할 수 있습니다. Firefox를 업데이트하세요. <a>문제 해결</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
