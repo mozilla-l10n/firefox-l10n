@@ -2,6 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this file,
 # You can obtain one at http://mozilla.org/MPL/2.0/.
 
+places-open =
+    .label = Buka
+    .accesskey = k
+places-open-tab =
+    .label = Buka dalam Tab Baru
+    .accesskey = u
+places-open-all-in-tabs =
+    .label = Buka Semua dalam Tab
+    .accesskey = k
 places-open-window =
     .label = Buka dalam Tetingkap Baru
     .accesskey = B
@@ -20,9 +29,18 @@ places-new-folder =
 places-new-separator =
     .label = Pemisah Baru
     .accesskey = S
+places-view =
+    .label = Papar
+    .accesskey = a
 places-by-date =
     .label = Mengikut Tarikh
     .accesskey = T
+places-by-site =
+    .label = Mengikut Laman
+    .accesskey = i
+places-by-most-visited =
+    .label = Mengikut Paling Dilawati
+    .accesskey = k
 places-by-last-visited =
     .label = Mengikut Terakhir Dilawati
     .accesskey = L
@@ -33,6 +51,9 @@ places-history-search =
     .placeholder = Sejarah carian
 places-bookmarks-search =
     .placeholder = Cari tandabuku
+places-delete-domain-data =
+    .label = Lupakan Laman Ini
+    .accesskey = L
 places-sortby-name =
     .label = Susun Mengikut Nama
     .accesskey = n
