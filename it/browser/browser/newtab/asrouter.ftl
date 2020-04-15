@@ -216,3 +216,23 @@ cfr-protections-panel-link-text = Ulteriori informazioni
 cfr-doorhanger-milestone-heading = { -brand-short-name } ha bloccato oltre <b>{ $blockedCount }</b> elementi traccianti dal { $date }.
 cfr-doorhanger-milestone-ok-button = Visualizza tutto
   .accesskey = V
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Crea password sicure in modo semplice
+cfr-whatsnew-lockwise-body = Trovare una password unica e sicura per ogni account è complicato. Quando hai bisogno di una nuova password, seleziona l'opzione nel campo della password per utilizzare una password sicura, generata automaticamente da { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Icona di { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Ricevi un avviso in caso di password vulnerabili
+cfr-whatsnew-passwords-body = Gli hacker sanno che molte persone riutilizzano le stesse password. Se utilizzi la stessa password in siti diversi, e uno di questi siti viene coinvolto in una violazione di dati, vedrai un avviso in { -lockwise-brand-short-name } per sostituire la password in tutti i siti coinvolti.
+cfr-whatsnew-passwords-icon-alt = Icona di una chiave per password vulnerabile
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Usa picture-in-picture a schermo intero
+cfr-whatsnew-pip-fullscreen-body = Dopo aver trasferito il video in una finestra separata, ora puoi fare doppio clic sulla finestra per visualizzarla a schermo intero.
+cfr-whatsnew-pip-fullscreen-icon-alt = Icona di picture-in-picture
