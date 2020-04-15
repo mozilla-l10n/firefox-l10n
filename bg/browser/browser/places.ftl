@@ -5,6 +5,12 @@
 places-open =
     .label = Отваряне
     .accesskey = О
+places-open-tab =
+    .label = Отваряне в раздел
+    .accesskey = д
+places-open-all-in-tabs =
+    .label = Отваряне на всички в раздели
+    .accesskey = в
 places-new-bookmark =
     .label = Нова отметка…
     .accesskey = о
