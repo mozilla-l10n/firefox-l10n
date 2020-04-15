@@ -184,3 +184,18 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = צפייה בהכל
     .accesskey = צ
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = יצירת ססמאות מאובטחות בקלות
+cfr-whatsnew-lockwise-icon-alt = סמל { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = סמל תמונה בתוך תמונה
