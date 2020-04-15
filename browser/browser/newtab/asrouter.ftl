@@ -221,3 +221,18 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Wšě pokazać
     .accesskey = k
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Wěste hesła lochko wutworić
+cfr-whatsnew-lockwise-icon-alt = Symbol { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
