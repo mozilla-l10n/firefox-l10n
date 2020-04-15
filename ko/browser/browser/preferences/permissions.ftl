@@ -129,17 +129,17 @@ permissions-site-notification-disable-desc = 위 목록에 포함되지 않은 �
 permissions-site-location-window =
     .title = 설정 - 위치 정보 권한
     .style = { permissions-window.style }
-permissions-site-location-desc = 다음 웹 사이트에서 사용자 위치에 대한 접근을 요청했습니다. 사용자 위치에 접근 할 수 있는 웹 사이트를 지정할 수 있습니다. 사용자 위치에 대한 접근을 요청하는 새 요청을 차단할 수도 있습니다.
+permissions-site-location-desc = 다음 웹 사이트에서 사용자 위치에 대한 접근을 요청했습니다. 사용자 위치에 접근할 수 있는 웹 사이트를 지정할 수 있습니다. 사용자 위치에 대한 접근을 요청하는 새 요청을 차단할 수도 있습니다.
 permissions-site-location-disable-label =
     .label = 새 사용자 위치 접근 요청을 차단
-permissions-site-location-disable-desc = 위 목록에 없는 사이트는 사용자 위치에 접근 할 수 없게 됩니다. 사용자 위치에 대한 접근을 차단하면 웹 사이트의 일부 기능이 작동하지 않을 수 있습니다.
+permissions-site-location-disable-desc = 위 목록에 없는 사이트는 사용자 위치에 접근할 수 없게 됩니다. 사용자 위치에 대한 접근을 차단하면 웹 사이트의 일부 기능이 작동하지 않을 수 있습니다.
 
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
     .title = 설정 - 가상 현실 권한
     .style = { permissions-window.style }
-permissions-site-xr-desc = 다음 웹 사이트에서 가상 현실 기기에 대한 접근을 요청했습니다. 가상 현실 기기에 접근 할 수 있는 웹 사이트를 지정할 수 있습니다. 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단할 수도 있습니다.
+permissions-site-xr-desc = 다음 웹 사이트에서 가상 현실 기기에 대한 접근을 요청했습니다. 가상 현실 기기에 접근할 수 있는 웹 사이트를 지정할 수 있습니다. 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단할 수도 있습니다.
 permissions-site-xr-disable-label =
     .label = 가상 현실 기기에 접근하도록 요청하는 새 요청을 차단
 permissions-site-xr-disable-desc = 이렇게 하면 위에 나열되지 않은 웹 사이트가 가상 현실 기기에 대한 접근 권한을 요청하지 못하게됩니다. 가상 현실 기기에 대한 접근을 차단하면 일부 웹 사이트 기능이 손상될 수 있습니다.
