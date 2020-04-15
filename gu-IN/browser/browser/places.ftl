@@ -5,6 +5,9 @@
 places-open =
     .label = ખોલો
     .accesskey = O
+places-open-tab =
+    .label = નવી ટૅબમાં ખોલો
+    .accesskey = w
 places-open-window =
     .label = નવી વિન્ડોમાં ખોલો
     .accesskey = N
