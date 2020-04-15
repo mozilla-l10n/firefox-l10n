@@ -228,3 +228,4 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-Symbol
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-icon-alt = Bild-im-Bild-Symbol
