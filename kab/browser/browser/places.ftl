@@ -5,6 +5,9 @@
 places-open =
     .label = Ldi
     .accesskey = L
+places-open-tab =
+    .label = Ldi ɣef iccer amaynut
+    .accesskey = c
 places-open-all-in-tabs =
     .label = Ldi merra ɣef yIccaren
     .accesskey = m
