@@ -318,6 +318,7 @@ touch-enabled = entrée tactile activée
 drag-enabled = faire glisser les barres de défilement
 keyboard-enabled = clavier activé
 autoscroll-enabled = défilement automatique activé
+zooming-enabled = zoom fluide par pincement activé
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
