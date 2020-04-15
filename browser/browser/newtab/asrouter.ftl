@@ -227,7 +227,9 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ikon
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Få varningar om sårbara lösenord
+cfr-whatsnew-passwords-icon-alt = Sårbart lösenordsnyckel ikon
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Ta bild-i-bild helskärm
 cfr-whatsnew-pip-fullscreen-icon-alt = Bild-i-bild ikon
