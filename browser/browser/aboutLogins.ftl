@@ -153,6 +153,10 @@ breach-alert-text = Passwörter dieser Website wurden veröffentlicht oder gesto
 breach-alert-link = Weitere Informationen über dieses Datenleck
 breach-alert-dismiss =
     .title = Alarm schließen
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } aufrufen
+about-logins-breach-alert-learn-more-link = Weitere Informationen
 
 ## Vulnerable Password notification
 
