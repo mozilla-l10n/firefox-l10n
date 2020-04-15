@@ -210,3 +210,20 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Hechapa
     .accesskey = H
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Emoheñói ñe’ẽñemi hekorosãva
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ra’ãnga’i
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Og̃uahẽta kyhyjerã ñe’ẽñemi ivaikuaávare
+cfr-whatsnew-passwords-icon-alt = Ñe’ẽñemi mba’eñemi ivaikuaáva ra’ãnga’i
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Ejapyhy peteĩva ta’ãnga mba’erechaha tuichaháicha
