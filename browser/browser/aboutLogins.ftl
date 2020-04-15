@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Avaa valikko
-# This menuitem is only visible on Windows
-menu-menuitem-import = Tuo salasanoja…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Tuo toisesta selaimesta…
 menu-menuitem-preferences = Asetukset
@@ -46,6 +44,7 @@ login-list-sort-label-text = Järjestys:
 login-list-name-option = Nimi (A–Ö)
 login-list-name-reverse-option = Nimi (Ö–A)
 login-list-breached-option = Tietovuodon kokeneet sivustot
+about-logins-login-list-alerts-option = Hälytykset
 login-list-last-changed-option = Viimeksi muokattu
 login-list-last-used-option = Viimeksi käytetty
 login-list-intro-title = Kirjautumistietoja ei löytynyt
@@ -102,11 +101,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Vahvista henkilöllisyytesi muokataksesi tallennettuja tietoja.
+# This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = muokata tallennettua kirjautumistietoa
 # This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Vahvista henkilöllisyytesi nähdäksesi tallennetun salasanan.
+# This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = paljastaa tallennetun salasanan
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Vahvista henkilöllisyytesi kopioidaksesi tallennetun salasanan.
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopioida tallennetun salasanan
@@ -150,6 +155,9 @@ breach-alert-text = Salasanat vuotivat tai niitä varastettiin tältä sivustolt
 breach-alert-link = Lue lisää tästä vuodosta.
 breach-alert-dismiss =
     .title = Sulje tämä hälytys
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
