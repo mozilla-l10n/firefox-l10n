@@ -290,6 +290,7 @@
 <!ENTITY searchMailCmd.accesskey "d">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY glodaSearchCmd.label "Anadi amatu...">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Nadi tansiwin…">
 <!ENTITY searchAddressesCmd.accesskey "d">
 
