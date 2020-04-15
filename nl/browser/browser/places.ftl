@@ -57,3 +57,6 @@ places-delete-domain-data =
 places-sortby-name =
     .label = Sorteren op naam
     .accesskey = S
+places-properties =
+    .label = Eigenschappen
+    .accesskey = E
