@@ -235,3 +235,24 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Gweld y Cyfan
     .accesskey = G
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Crëwch gyfrineiriau diogel yn hawdd
+cfr-whatsnew-lockwise-body = Mae'n anodd meddwl am gyfrineiriau unigryw, diogel ar gyfer pob cyfrif. Wrth greu cyfrinair, dewiswch y maes cyfrinair i ddefnyddio cyfrinair diogel wedi'i gynhyrchu gan { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Eicon { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Derbyn rhybuddion am gyfrineiriau bregus
+cfr-whatsnew-passwords-body = Mae hacwyr yn gwybod bod pobl yn ailddefnyddio'r un cyfrineiriau. Os gwnaethoch chi ddefnyddio'r un cyfrinair ar sawl gwefan, a bod un o'r gwefannau hynny wedi bod yn rhan o dor-data, fe welwch rybudd yn { -lockwise-brand-short-name } i newid eich cyfrinair ar y gwefannau hynny.
+cfr-whatsnew-passwords-icon-alt = Eicon allwedd cyfrinair bregus
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Cymerwch llun-mewn-llun sgrin lawn
+cfr-whatsnew-pip-fullscreen-body = Pan fyddwch yn gosod fideo i mewn i ffenestr sy'n arnofio, gallwch nawr glicio ddwywaith ar y ffenestr honno i droi'n sgrin lawn.
+cfr-whatsnew-pip-fullscreen-icon-alt = Eicon llun mewn llun
