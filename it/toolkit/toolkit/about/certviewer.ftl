@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Autorità di certificazione
 certificate-viewer-cipher-suite = Suite di cifratura
 certificate-viewer-common-name = Nome comune
 certificate-viewer-email-address = Indirizzo email
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Certificato per { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Paese di costituzione
 certificate-viewer-country = Paese
