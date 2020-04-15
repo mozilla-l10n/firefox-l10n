@@ -5,3 +5,6 @@
 places-new-folder-contextmenu =
     .label = ថត​ថ្មី...
     .accesskey = F
+places-sortby-name =
+    .label = តម្រៀប​តាម​ឈ្មោះ
+    .accesskey = r
