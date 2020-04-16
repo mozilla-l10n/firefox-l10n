@@ -114,6 +114,7 @@ cfr-whatsnew-lockwise-take-link-text = Ni'i App
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tee mati'i, nani'i kue'e jii barra direcciones
+cfr-whatsnew-searchbar-icon-alt-text = Ícono de lupa
 
 ## Picture-in-Picture
 
@@ -141,14 +142,20 @@ cfr-whatsnew-fingerprinter-counter-header-alt = Huellas dactilares
 
 cfr-doorhanger-sync-bookmarks-header = Ni'i a ta'an ini noo'o nuu ka̱a̱ móvil
 cfr-doorhanger-sync-bookmarks-body = Kuiso ji noo'o a ta´an ini noo'o, contraseñas, historial je kue´ka, ntaka nuu kajie´enu sesión { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Habilitar { -sync-brand-short-name }
+    .accesskey = T
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Nskuitanu íchika contraseña
 cfr-doorhanger-sync-logins-body = Chuva'a va'a contraseñas je koo nuu ntaka da ka̱a̱ kumi noo'o.
+cfr-doorhanger-sync-logins-ok-button = Activar { -sync-brand-short-name }...
+    .accesskey = A
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Ka'vi kua vaji
+cfr-doorhanger-send-tab-recipe-header = Kua'a ji receta nu cocina
 cfr-doorhanger-send-tab-ok-button = Ni´í Send Tab
     .accesskey = N
 
