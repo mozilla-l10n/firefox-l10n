@@ -216,10 +216,12 @@ cfr-doorhanger-milestone-ok-button = Wali akk
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Rnu awal uffir aɣelsan s wudem fessusen
+cfr-whatsnew-lockwise-body = Ur  fessus ara yal tikket ad txemmemeḍ ɣer wawalen uffiren isufen, iɣelsanen i yal amiḍan. Deg tmerna n wawal uffir, fren urti n wawal uffir akken ad tesqedceḍ awal uffir aɣelsan, ara d-yessirew { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Tignit { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Awi ilɣa ɣef wawalen uffiren fessusen i truẓi
 
 ## Picture-in-Picture fullscreen message
 
