@@ -228,7 +228,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tetiñu kua´a ka̱a̱ natava / micrófono ji sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tetiñu kua´a micrófono ji sitio">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Tetiñu kua´a ventana a xiin pantalla ji sitio">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Síne panel tu´un chu´un">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
 
 
