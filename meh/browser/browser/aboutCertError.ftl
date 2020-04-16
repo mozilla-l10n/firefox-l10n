@@ -58,5 +58,37 @@ cert-error-details-cert-chain-label = Cadena de certificado:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Ntu nkuvi kivɨ
+deniedPortAccess-title = Nuu ya´a íyo restringida
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Ntu kuvi nani'i nuu.
+fileNotFound-title = Ntu nkuvi nani'i archivo
+fileAccessDenied-title = Ntu kuvi síne archivo
 generic-title = Oops.
+captivePortal-title = Kajie'e sesión nuu red
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Dirección ntu tuvi vatu.
+netInterrupt-title = Ntu nkuvi sá´á conexión
+notCached-title = Documento expirado
+netOffline-title = Modo ntu conexión
+contentEncodingError-title = Error codificación contenido
+unsafeContentType-title = Tipo archivo ntu túvi va´a
+netReset-title = Nnakajie´e tuku conexión
+netTimeout-title = Nnɨ´ɨ tiempo netu
+unknownProtocolFound-title = Ntu kuka'nuni nuu ya´a
+proxyConnectFailure-title = Ka̱a̱ servidor proxy tavá daa conexiones
+proxyResolveFailure-title = Ntu nkuvi nani'í servidor proxy
+redirectLoop-title = Ntu sá´á vatu redirección página ya´a
+unknownSocketType-title = Ntu nnaka´a vatu servidor
+nssFailure2-title = Ntu nkuvi sá´á conexión vatu
+cspBlocked-title = Yɨ´ɨ yu´u jiee Política de Seguridad de Contenido
+xfoBlocked-title = Yɨ´ɨ yu´u jiee política X-Frame-Options
+corruptedContentError-title = Error jiee contenido ntívɨ
+remoteXUL-title = XUL jíká
+sslv3Used-title = Ntu kuvi kivɨ va´a ya´a
+inadequateSecurityError-title = Conexión noo'o ntu túvi vatu
 blockedByPolicy-title = Página Nasɨ
+clockSkewError-title = Ka̱a̱ taji hora ka̱a̱ tee nɨnuu ntu vatu
+networkProtocolError-title = Ntivɨ protocolo de red
