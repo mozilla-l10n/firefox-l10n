@@ -92,3 +92,6 @@ inadequateSecurityError-title = Conexión noo'o ntu túvi vatu
 blockedByPolicy-title = Página Nasɨ
 clockSkewError-title = Ka̱a̱ taji hora ka̱a̱ tee nɨnuu ntu vatu
 networkProtocolError-title = Ntivɨ protocolo de red
+nssBadCert-title = Advertencia: Riesgo potencial de seguridad a continuación
+nssBadCert-sts-title = Ntu nkivɨ: Sanan íyo tixi seguridad
+certerror-mitm-title = Iyo software sa´a { -brand-short-name } ntu kuvi kivɨ nuu sitio

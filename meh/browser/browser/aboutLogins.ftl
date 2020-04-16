@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Síne menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Taji da contraseñas...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Kaji
@@ -94,6 +92,17 @@ login-item-time-changed = Nuu nɨ'ɨ nsama: { DATETIME($timeChanged, day: "numer
 login-item-time-created = Nsá'á: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Nuu nɨ'ɨ a nsá´á: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Kune'ya identidad noo'o jee natee nuu kajie'e sesión nchuva'a.
+
 ## Master Password notification
 
 master-password-notification-message = Kuamani ini noo´o je, chu´un contraseña kuña´nu saa kutuvi da nuu kajie´e sesión nchuva´a ji contraseñas
@@ -137,6 +146,9 @@ breach-alert-text = Ntava yu´uda contraseñas a xiin nsakui´inada nuu web ya´
 breach-alert-link = Ka´vi kue´eka jiee filtración.
 breach-alert-dismiss =
     .title = Kasɨ tu´un
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 

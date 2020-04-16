@@ -4,20 +4,25 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = ¡Kaka nuu ntu jinio!
+about-config-warning-text = De sama nke'i sana nko vatu jee nsatiñu va'a ka̱a̱ ya´a. Nejika kakanu de jininu a sa'anu.
 about-config-warning-checkbox = ¡Katu´un tuku íchika!
 about-config-warning-button = Kuka´nu inini jiee riesgo
+about-config2-title = Ke'i avanzados
 about-config-search-input =
     .placeholder = Nánuku
 
 ## These strings appear on the warning you see when first visiting about:config.
 
+about-config-intro-warning-title = Kaka ji precaución
 about-config-intro-warning-text = Sama preferencias ke´i kuvi xitivɨ a xiin seguridad { -brand-short-name }.
+about-config-intro-warning-checkbox = Kachi de kuvini kivɨni nuu da preferencias ya'a
 about-config-intro-warning-button = Kuka´nu inini jiee riesgo je kaka
 
 ##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = De sama preferencias ya´a kuvi xitivɨ a xiin seguridad { -brand-short-name }.
+about-config-page-title = Preferencias avanzadas
 about-config-search-input1 =
     .placeholder = Sivɨ nánuku
 about-config-show-all = Kune´yá kuaiyo
