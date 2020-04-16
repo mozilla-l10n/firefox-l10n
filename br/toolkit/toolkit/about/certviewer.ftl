@@ -53,7 +53,12 @@ certificate-viewer-public-key-info = Titouroù an alc'hwez foran
 certificate-viewer-miscellaneous = A bep seurt
 certificate-viewer-fingerprints = Roudoù biz
 certificate-viewer-basic-constraints = Rediennoù diazez
+certificate-viewer-key-usages = Implijoù an alc'hwez
+certificate-viewer-extended-key-usages = Implijoù astennet an alc'hwez
+certificate-viewer-authority-key-id = ID alc'hwez an aotrouniezh
+certificate-viewer-authority-info-aia = Titouroù diwar-benn an aotrouniezh (AIA)
 certificate-viewer-certificate-policies = Politikerezhioù an testeni
+certificate-viewer-embedded-scts = SCTs ebarzhet
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Pellgargañ
@@ -69,6 +74,15 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem-chain = PEM (chadenn)
+    .download = { $fileName }-chain.pem
+certificate-viewer-export = Ezporzhiañ
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Ho testenioù
+certificate-viewer-tab-people = Tud
+certificate-viewer-tab-servers = Servijerioù
+certificate-viewer-tab-ca = Aotrouniezhoù
+certificate-viewer-tab-unkonwn = Dianav
