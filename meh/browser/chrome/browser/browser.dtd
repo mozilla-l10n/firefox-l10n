@@ -232,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Síne panel tu´un chu´un">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tetiñu traducción página">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
 
 

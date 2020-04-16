@@ -36,7 +36,7 @@ cert-error-domain-mismatch-multiple = Da nuu web íyo vatu jiee da certificados.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
-cert-error-expired-now = Da nuu web íyo vatu jiee da certificados, da ya´a íyo vatu ntu kue´e kivɨ . Certificado { $hostname } nnɨ ´ɨ  { $not-after-local-time }.
+cert-error-expired-now = Da nuu web íyo vatu jiee da certificados, da ya´a íyo vatu ntu kue´e kivɨ. Certificado { $hostname } nnɨ ´ɨ  { $not-after-local-time }.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-before-local-time (Date) - Certificate is not valid before this time.

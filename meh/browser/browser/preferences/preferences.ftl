@@ -31,6 +31,7 @@ search-input-box =
             [windows] Nani´i nuu opciones
            *[other] Nani´i nuu  configuraciones
         }
+managed-notice = Vetiñunu tetiñu ka̱a̱ nánuku.
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -167,6 +168,9 @@ download-always-ask-where =
     .label = Ntaka ichi katu´un nuu´u nenu chuva´aní da archivos
     .accesskey = N
 applications-header = Da ka̱a̱
+applications-action-column =
+    .label = Acción
+    .accesskey = A
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = archivo { $extension }
@@ -182,6 +186,7 @@ applications-use-app-default =
     .label = Ni´i { $app-name } (predeterminado)
 applications-use-other =
     .label = Ni´i inka...
+applications-select-helper = Kaji iin ka̱a̱ auxiliar
 applications-always-ask =
     .label = Ntaka ichi katu´un
 # Variables:
