@@ -222,8 +222,11 @@ cfr-whatsnew-lockwise-icon-alt = Tignit { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Awi ilɣa ɣef wawalen uffiren fessusen i truẓi
+cfr-whatsnew-passwords-body = Imakaren imsenselkamen zran dakken imdanen ttɛawaden aseqdec n kra kan n wawalen uffiren.  Ma yella tsqedceḍ yiwen wawal uffir deg watas n yesmal web, u yella yiwen ger yesmal-agi tella-d degs trewla n yisefka, ad twaliḍ alɣu deg { -lockwise-brand-short-name } akken ad tesnifleḍ awal-ik uffir deg yesmal-nni.
+cfr-whatsnew-passwords-icon-alt = Tignit n tsarut n wawal uffir fessusen i truẓi
 
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Awi agdil aččuran n tugna-deg-tugna
+cfr-whatsnew-pip-fullscreen-body = Ticki ara terreḍ tavidyut deg usfaylu ufig, Tzemreḍ tura ad tsiteḍ snat n tikkal ɣef usfaylu-nni akken ad tɛeddiḍ ɣer ugdil aččuran.
 cfr-whatsnew-pip-fullscreen-icon-alt = Tignit n tugna-deg-tugna
