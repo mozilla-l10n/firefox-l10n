@@ -122,6 +122,7 @@ cfr-whatsnew-pip-cta = Ka´vi kue´eka
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Sna ventanas nava je sta'an noo'o
 cfr-whatsnew-permission-prompt-cta = Ka´vi kue´eka
 
 ## Fingerprinter Counter
@@ -178,6 +179,7 @@ cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } icon
 
 ## Vulnerable Passwords message
 

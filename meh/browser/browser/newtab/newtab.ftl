@@ -56,6 +56,10 @@ newtab-confirm-delete-history-p2 = Ya´a nkuvi tanɨ.
 newtab-menu-section-tooltip =
     .title = Síne menu
     .aria-label = Síne menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Xita
+    .aria-label = Xita
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -173,7 +177,7 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Ups! Nkuni mati´i kuvi 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tu'un vii:
 newtab-pocket-more-recommendations = Kue´eka a kuvi ni´inu
-newtab-pocket-whats-pocket = Nakuvi { -pocket-brand-name }?
+newtab-pocket-learn-more = Ka´vi kue´eka
 newtab-pocket-cta-button = Taji { -pocket-brand-name }
 newtab-pocket-cta-text = Chuva'a da tu'un jiniñu'unu { -pocket-brand-name } je chu'un mikinu ji tu'un ka'vi vii.
 

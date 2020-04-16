@@ -46,6 +46,7 @@ category-privacy =
 pane-sync-title2 = { -sync-brand-short-name }
 category-sync2 =
     .tooltiptext = { pane-sync-title2 }
+help-button-label = Soporte { -brand-short-name }
 focus-search =
     .key = f
 close-button =
@@ -235,6 +236,9 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-search-on-start-typing =
+    .label = Nánuku tu'un sa kajie'enu teenu
+    .accesskey = x
 browsing-picture-in-picture-learn-more = Ka´vi kue´eka
 browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 
@@ -255,6 +259,9 @@ home-new-windows-tabs-header = Ventanas jíía ji pestañas
 
 home-homepage-mode-label = Página nuu kajie´e ji ventanas jíía
 home-newtabs-mode-label = Da pestaña jíía
+home-restore-defaults =
+    .label = Natee tuku predeterminados
+    .accesskey = R
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
 home-mode-choice-default =
@@ -288,7 +295,15 @@ home-prefs-search-header =
 home-prefs-topsites-header =
     .label = Da sitio vii
 home-prefs-topsites-description = Da nuu ni´inu kue´e
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = A kachi { $provider }
 home-prefs-recommended-by-learn-more = Naja satiñu
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Artículos íyo patrocinado
+home-prefs-highlights-header =
+    .label = Destacados
 home-prefs-highlights-option-visited-pages =
     .label = Páginas nnkivɨnu
 home-prefs-highlights-options-bookmarks =
@@ -318,6 +333,9 @@ search-bar-hidden =
 search-bar-shown =
     .label = Tee barra nánuku nuu barra da ka̱a̱
 search-engine-default-header = Ka̱a̱ nánuku kua vaji
+search-suggestions-header = Nánuku sugerencias
+search-suggestions-desc = Kaji naja tuvi da sugerencias nuu ka̱a̱ nánuku.
+search-one-click-header = Da nánuku ji iin clic
 search-choose-engine-column =
     .label = Ka̱a̱ nánuku
 search-choose-keyword-column =
@@ -412,16 +430,30 @@ prefs-sync-now =
 ## The list of things currently syncing.
 
 sync-currently-syncing-bookmarks = A ta´a ini noo´o
+sync-currently-syncing-history = Historial
 sync-currently-syncing-tabs = Síne pestañas
 sync-currently-syncing-logins-passwords = Da nuu kajie´e sesión ji contraseñas
 sync-currently-syncing-addresses = Da nuu
+sync-currently-syncing-creditcards = Da tutu crédito
 sync-currently-syncing-addons = Ka̱a̱ chunta´an
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Da nuu kaji
+       *[other] Preferencias
+    }
 sync-change-options =
     .label = Sama
     .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Kaji ne´i kuvi saa sincronizar
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Chuva'a nsama
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Nakasɨ sesión…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = A ta´a ini noo´o
     .accesskey = m
@@ -444,6 +476,10 @@ sync-engine-addresses =
     .label = Da nuu
     .tooltiptext = Da nuu ve´i nchuva´anu (ntu xini escritorio)
     .accesskey = e
+sync-engine-creditcards =
+    .label = Da tutu crédito
+    .tooltiptext = Sivɨ, tuni ji kivɨ nɨ'ɨ (ntu xini nuu escritorio)
+    .accesskey = C
 sync-engine-addons =
     .label = Ka̱a̱ chunta´an
     .tooltiptext = Ka̱a̱ chunta´an Firefox escritorio
@@ -492,6 +528,9 @@ forms-master-pw-change =
     .label = Sama...
     .accesskey = m
 forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
