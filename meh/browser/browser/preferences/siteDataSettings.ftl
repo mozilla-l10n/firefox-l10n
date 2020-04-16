@@ -5,6 +5,9 @@
 
 ## Settings
 
+site-data-settings-window =
+    .title = Tetiñu cookies ji datos nuu ya'a
+site-data-settings-description = Da nuu web ya'a chuva'a cookies ji datos nuu ya'a nuu ka̱a̱ noo'o. { -brand-short-name } kumi da datos da nuu web kumi a chuva'a kue'e kivɨ nee xinanuma, xina datos da nuu ntu kumi chuva'a kue'e kivɨ.
 site-data-search-textbox =
     .placeholder = Nánuku sitios
     .accesskey = N
