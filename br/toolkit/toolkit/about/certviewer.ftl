@@ -43,6 +43,7 @@ certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
 certificate-viewer-serial-number = Niverenn steudad
 certificate-viewer-signature-algorithm = Algoritm sinañ
+certificate-viewer-timestamp = Merk amzer
 certificate-viewer-value = Talvoudegezh
 certificate-viewer-version = Handelv
 certificate-viewer-business-category = Rummad business
@@ -67,4 +68,7 @@ certificate-viewer-boolean =
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+
+## Labels for tabs displayed in stand-alone about:certificate page
 
