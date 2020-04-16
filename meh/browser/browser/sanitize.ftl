@@ -7,6 +7,12 @@ sanitize-prefs-style =
 dialog-title =
     .title = Xinó a nnánukunu ntañu´u…
     .style = width: 34em
+# When "Time range to clear" is set to "Everything", this message is used for the
+# title instead of dialog-title.
+dialog-title-everything =
+    .title = Sna daa sɨ´ɨ nsá´ánu
+    .style = width: 34em
+clear-data-settings-label = De nnakasɨ { -brand-short-name } nejika sno kuaiyo
 
 ## clear-time-duration-prefix is followed by a dropdown list, with
 ## values localized using clear-time-duration-value-* messages.

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+synced-tabs-sidebar-title = Pestañas sincronizadas
 synced-tabs-sidebar-noclients-subtitle = ¿Kuvinu kune´yanu da pestañas inka dispositvos nuu ya´a?
 synced-tabs-sidebar-notsignedin = Kajie´e sesión saa kune´yanu iin lista da pestañas da inka dispositivos.
 synced-tabs-sidebar-unverified = Cuenta noo´o nejika koo verificada.
@@ -31,4 +32,7 @@ synced-tabs-context-open-all-in-tabs =
 synced-tabs-context-manage-devices =
     .label = Tetiñu da ka̱a̱
     .accesskey = k
+synced-tabs-context-sync-now =
+    .label = Sincronizar ntañu´u
+    .accesskey = S
 fxa-sign-in = Kajie´e sesión ji { -sync-brand-short-name }

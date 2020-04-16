@@ -5,3 +5,5 @@
 fxa-toolbar-sync-syncing =
     .label = Sincronizando...
 sync-disconnect-dialog-title = ¿Kene { -sync-brand-short-name }?
+fxa-disconnect-dialog-title = ¿Kene { -brand-product-name }?
+sync-disconnect-dialog-button = Kene
