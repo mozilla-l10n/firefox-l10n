@@ -28,7 +28,10 @@ cryptominer-tab-title = Criptomineros
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Kune'ya credenciales
     .title = Kɨ'ɨo nuu kajie´e sesión nchuva´a
-lockwise-no-logins-content = Ni´i app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> saa kuminu contraseñas ntaka nuu.
+lockwise-mobile-app-title = Kua´a ji contraseña noo´o ntaka nuu
+lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> ji <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+turn-on-sync = Activar { -sync-brand-short-name }...
+    .title = Kua'a nuu preferencias sincronización
 manage-connected-devices = …Tetiñu da ka̱a̱…
 monitor-link = Naja satiñu
 

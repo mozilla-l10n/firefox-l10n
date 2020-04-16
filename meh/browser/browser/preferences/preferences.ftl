@@ -484,6 +484,14 @@ sync-engine-addons =
     .label = Ka̱a̱ chunta´an
     .tooltiptext = Ka̱a̱ chunta´an Firefox escritorio
     .accesskey = K
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Nuu kaji
+           *[other] Preferencias
+        }
+    .tooltiptext = Nuu ke'i ntaka, privacidad ji seguridad nsamanu
+    .accesskey = S
 
 ## The device name controls.
 
@@ -520,6 +528,9 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Excepciones…
     .accesskey = x
+forms-generate-passwords =
+    .label = Kachi je sa'a contraseñas nakui
+    .accesskey = u
 forms-breach-alerts-learn-more-link = Ka´vi kue´eka
 forms-saved-logins =
     .label = Nuu kajie´e sesión nchuva´a
@@ -531,6 +542,12 @@ forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Sá´á iin contraseña maestra
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -546,6 +563,8 @@ history-header = Sɨ´ɨ
 #   - As a stand-alone message, for example "Firefox history settings:".
 history-remember-label = { -brand-short-name }
     .accesskey = w
+history-remember-option-all =
+    .label = Nasku'u historial
 history-remember-option-never =
     .label = Nchuva´a historial
 history-clear-on-close-settings =
