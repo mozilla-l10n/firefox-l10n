@@ -213,3 +213,20 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Näytä kaikki
     .accesskey = N
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Luo turvallisia salasanoja helposti
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-kuvake
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Vastaanota hälytyksiä vaarantuneista salasanoista
+cfr-whatsnew-passwords-icon-alt = Vaarantuneen salasanan avainkuvake
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = Kuva kuvassa -kuvake
