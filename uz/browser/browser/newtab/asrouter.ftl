@@ -216,6 +216,9 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } yorligʻi
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Buzish mumkin boʻlgan parollar haqida ogohlantirishlar oling
+cfr-whatsnew-passwords-body = Odamlarning bir xil paroldan foydalanishini xakkerlar biladi. Turli saytlarda bir xil paroldan foydalanib kelgan boʻlsangiz va ulardan birida maʼlumotlar sizishi yuz bersa, { -lockwise-brand-short-name }da shu saytlar uchun parolni oʻzgartirish haqidagi ogohlantirishlarni koʻrasiz.
+cfr-whatsnew-passwords-icon-alt = Kuchsiz parol haqidagi yorliq
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Rasm ichida rasm funksiyasini butun ekranga olish
