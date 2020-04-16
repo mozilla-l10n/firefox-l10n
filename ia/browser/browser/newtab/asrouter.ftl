@@ -208,3 +208,21 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vider toto
     .accesskey = t
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Crea facilemente contrasignos secur
+cfr-whatsnew-lockwise-icon-alt = Icone de { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Recipe un aviso in caso de contrasigno vulnerabile
+cfr-whatsnew-passwords-icon-alt = Icone de un clave de contrasigno vulnerabile
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Usar pictura-in-pictura a schermo plen
+cfr-whatsnew-pip-fullscreen-icon-alt = Icone de pictura-in-pictura
