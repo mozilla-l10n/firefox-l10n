@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Пошук листів…">
 <!ENTITY searchMailCmd.accesskey "П">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Глобальний пошук…">
+<!ENTITY glodaSearchCmd.accesskey "Г">
 <!ENTITY searchAddressesCmd.label "Пошук адрес…">
 <!ENTITY searchAddressesCmd.accesskey "а">
 
