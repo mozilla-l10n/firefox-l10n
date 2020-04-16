@@ -42,7 +42,10 @@
      it should be upper case (as a proper name) if the target language permits.
   -->
 <!ENTITY pref.soondays2.label "ส่วน กำลังมาถึง แสดง:">
+<!ENTITY pref.soondays2.accesskey "ก">
 
 <!ENTITY pref.accessibility.label "การช่วยการเข้าถึง" >
+<!ENTITY pref.systemcolors.label "ปรับสีให้เหมาะสมสำหรับการช่วยการเข้าถึง" >
+<!ENTITY pref.systemcolors.accesskey "ส">
 
 <!ENTITY pref.eventsandtasks.label "เหตุการณ์และงาน" >
