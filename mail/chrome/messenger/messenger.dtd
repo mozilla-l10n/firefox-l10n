@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Pretraži poruke…">
 <!ENTITY searchMailCmd.accesskey "e">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Globalno pretraživanje…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Pretraži adrese…">
 <!ENTITY searchAddressesCmd.accesskey "s">
 

@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Dobro došli u { -brand-full-name }
+account-settings = Postavke računa
+#   $accounts (Number) - the number of configured accounts
 setup-title = Odaberi što želiš postaviti
 about-title = O { -brand-full-name }u
 resources-title = Resursi
@@ -40,3 +42,10 @@ explore-link = Istraži funkcije
 support-link = Podrška
 involved-link = Uključi se
 developer-link = Dokumentacija programera
+read = Pročitane poruke
+compose = Piši novu poruku
+search = Pretraži poruke
+filter = Upravljanje filterima za poruke
+nntp-subscription = Upravljanje pretplatama na interesne grupe
+rss-subscription = Upravljanje pretplatama na kanale
+e2e = Potpuno šifriranje od pošiljatelja do primatelja
