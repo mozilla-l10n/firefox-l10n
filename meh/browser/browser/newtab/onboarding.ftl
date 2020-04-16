@@ -106,6 +106,7 @@ onboarding-pocket-anywhere-title = Ka´vi je teso´o ntaka nuu
 onboarding-pocket-anywhere-button = Nasá´á tuku { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Kua´a ji contraseña noo´o ntaka nuu
 onboarding-lockwise-passwords-button2 = Ni'i App
+onboarding-lockwise-strong-passwords-title = Sa'a je chuva'a contraseñas nakui
 onboarding-lockwise-strong-passwords-button = Tetiñu nuu kajie´e sesión
 onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
 onboarding-facebook-container-button = Tee extensión
