@@ -189,18 +189,33 @@ cfr-doorhanger-socialtracking-close-button = Yopish
 cfr-doorhanger-socialtracking-dont-show-again = Shu kabi xabarlar boshqa menga chiqmasin
     .accesskey = c
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } bu yerda sizni ijtimoiy tarmoq kuzatishgia imkon bermadi
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } bu sahifadagi kriptomaynerni blokladi
+cfr-doorhanger-cryptominers-description = Maxfiyligingiz juda muhim. { -brand-short-name } endi raqamli valyutalarni qoʻlga kiritish uchun tizimingiz quvvatini hisoblaydigan kriptomaynerlarni bloklaydi.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+       *[other] { -brand-short-name } <b>{ $blockedCount }</b>dan ortiq kuzatuvchilarni { $date } sanasidan beri blokladi!
+    }
+cfr-doorhanger-milestone-ok-button = Barchasini koʻrish
+    .accesskey = k
 
 ## What’s New Panel Content for Firefox 76
 
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Xavfsiz parollarni osongina yarating
+cfr-whatsnew-lockwise-body = Har bir hisob uchun takrorlanmaydigan va xavfsiz parol oʻylab topish qiyin. Parol yaratish vaqtida xavfsiz va { -brand-shorter-name } yaratgan paroldan foydalanish uchun parol maydonini belgilang.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } yorligʻi
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Buzish mumkin boʻlgan parollar haqida ogohlantirishlar oling
 
 ## Picture-in-Picture fullscreen message
 
