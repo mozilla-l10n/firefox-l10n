@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Kajie´e
 onboarding-welcome-header = Kusɨɨ inidáni nkantanu { -brand-short-name }
 onboarding-welcome-body = Nnani´inu ka̱a̱ nánuku.<br/>kuní kuaíyo da ka̱a̱{ -brand-product-name }.
 onboarding-welcome-learn-more = Ka´vi kue´eka jiee a va´a ya´a.
+onboarding-join-form-header = Náyonika { -brand-product-name }
 onboarding-welcome-modal-get-body = Kuminu ka̱a̱ nánuku.<br/>Tava kuaiyo a sá´á ka̱a̱{ -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Sá´á ka´nu a kumi noo´o yɨɨ yu´u.
 onboarding-welcome-modal-privacy-body = A kuminu ka̱a̱ nánuku. Vitan tee kue´e a kumi noo yu´u.
 onboarding-welcome-modal-family-learn-more = Kuni jie´e da inka ka̱a̱ { -brand-product-name }.
 onboarding-welcome-form-header = Kajie´e ya´a
-onboarding-join-form-header = Náyonika { -brand-product-name }
 onboarding-join-form-body = Chu´un correo noo´o saa kajie´e.
 onboarding-join-form-email =
     .placeholder = Chu´un correo
@@ -96,6 +96,7 @@ onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
 onboarding-browse-privately-title = Nánuku yu´u
 onboarding-browse-privately-button = Síne iin ventana yu´u
 onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
+onboarding-mobile-phone-title = Ni'i { -brand-product-name } nuu télefono
 onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín Android je saa sincronizar datos ji inka ka̱a̱.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.

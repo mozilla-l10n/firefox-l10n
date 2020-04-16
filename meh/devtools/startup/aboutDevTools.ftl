@@ -13,8 +13,12 @@ enable-common-message = Da ka̱a̱ desarrollador íyo na'va sa kuvi tetiñu va'a
 enable-learn-more-link = Kuni kue'e jiee da ka̱a̱ desarrollador.
 enable-enable-button = Tee ka̱a̱ desarrollador
 enable-close-button = Nakasɨ pestaña ya'a
+welcome-title = Kusɨɨ inidáni nkantanu nuu ka̱a̱ desarrollador Firefox!
+newsletter-title = Tu'un va'a Mozilla Developer
+newsletter-message = Kuni tu'un desarrollo, trucos ji kue'eka a kuvi chu'un ichí nuu correo noo'o.
 newsletter-email-placeholder =
     .placeholder = Email
+newsletter-privacy-label = Kuka'nu inini a Mozilla tetiñu nuu información nuu'u kachi nuu <a data-l10n-name="privacy-policy"> Tutu xitu Privacidad</a>.
 newsletter-subscribe-button = Chu'un sivɨn
 newsletter-thanks-title = ¡Kuta'vini!
 footer-title = Firefox Developer Edition
