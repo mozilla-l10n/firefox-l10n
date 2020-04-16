@@ -315,6 +315,7 @@ touch-enabled = entrada tactila activada
 drag-enabled = limpada de barra de desfilament activada
 keyboard-enabled = clavièr activat
 autoscroll-enabled = desfialament automatic activat
+zooming-enabled = zoom doç al det activat
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

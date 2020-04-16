@@ -222,6 +222,7 @@ cfr-doorhanger-milestone-ok-button = O mostrar tot
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Creatz de senhals segurs facilament
+cfr-whatsnew-lockwise-body = Es complicat de pensar a un senhal unic e segur per cada compte. Pendent la creacion d’un senhal, seleccionatz lo camp de senhal per utilizar un senhal segur generat amb { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = icòna { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
