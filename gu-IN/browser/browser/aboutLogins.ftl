@@ -44,7 +44,9 @@ login-list-count =
     }
 login-list-sort-label-text = આનાથી સૉર્ટ કરો:
 login-list-name-option = નામ (A-Z)
+login-list-name-reverse-option = નામ (Z-A)
 login-list-breached-option = ભંગ કરેલી વેબસાઇટ્સ
+about-logins-login-list-alerts-option = ચેતવણીઓ
 login-list-last-changed-option = છેલ્લે સુધારેલ
 login-list-last-used-option = છેલ્લે વપરાયેલ
 login-list-intro-title = કોઈપણ લોગિન્સ મળ્યાં નથી
@@ -56,6 +58,8 @@ login-list-item-subtitle-new-login = તમારા લોગિન્સ ઓ�
 login-list-item-subtitle-missing-username = (વપરાશકર્તા નામ નથી)
 about-logins-list-item-breach-icon =
     .title = ભંગ વેબસાઇટ
+about-logins-list-item-vulnerable-password-icon =
+    .title = સંવેદનશીલ પાસવર્ડ
 
 ## Introduction screen
 
@@ -80,6 +84,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = નકલ
 login-item-copied-username-button-text = નકલ કરેલ!
 login-item-password-label = પાસવર્ડ
+login-item-password-reveal-checkbox =
+    .aria-label = પાસવર્ડ બતાવો
 login-item-copy-password-button-text = નકલ
 login-item-copied-password-button-text = નકલ કરેલ!
 login-item-save-changes-button = ફેરફારો સાચવો
@@ -96,6 +102,12 @@ login-item-time-used = છેલ્લે વપરાયેલ: { DATETIME($tim
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = સાચવેલા પાસવર્ડને જાહેર કરો
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = સાચવેલા પાસવર્ડની નકલ કરો
 
 ## Master Password notification
 
@@ -123,6 +135,8 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = આ લોગિન ને દૂર કરીએ?
 confirm-delete-dialog-message = આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.
 about-logins-confirm-remove-dialog-confirm-button = દૂર કરો
+confirm-discard-changes-dialog-title = વણસાચવેલા ફેરફારોને કાઢી નાખો?
+confirm-discard-changes-dialog-message = બધા વણસાચવેલા ફેરફારો ખોવાઈ જશે.
 confirm-discard-changes-dialog-confirm-button = કાઢી નાખો
 
 ## Breach Alert notification
