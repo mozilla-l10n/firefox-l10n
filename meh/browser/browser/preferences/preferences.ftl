@@ -187,6 +187,8 @@ applications-use-app-default =
 applications-use-other =
     .label = Ni´i inka...
 applications-select-helper = Kaji iin ka̱a̱ auxiliar
+applications-manage-app =
+    .label = Detalles ka̱a̱...
 applications-always-ask =
     .label = Ntaka ichi katu´un
 # Variables:
@@ -229,6 +231,13 @@ applications-use-other-label =
 play-drm-content-learn-more = Ka´vi kue´eka
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
 update-application-allow-description = Kuvini a { -brand-short-name }
+update-application-manual =
+    .label = Nnánukunu actualizaciones (no recomendado)
+    .accesskey = N
+update-pref-write-failure-title = Error tee
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Ntu nkuvi chuva'a preferencia. Ntu nkuvi tee archivo: { $path }
 update-in-progress-message = ¿A kuvinu { -brand-short-name } kaka ji a naxi´ñá?
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
