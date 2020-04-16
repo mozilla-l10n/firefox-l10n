@@ -97,6 +97,9 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Asiɣzef-agi yettwacreḍ d uzɣin, ayagi yebɣa ad d-yini dakken ilaq imsaɣen ad agin aselkin ma yella ur tegzin ara.
 certificate-viewer-export = Kter
     .download = { $fileName }.pem
 
