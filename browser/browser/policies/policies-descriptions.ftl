@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Nếu không đúng, hãy tắt chế độ tăng 
 policy-Homepage = Đặt và tùy chọn khóa trang chủ.
 policy-InstallAddonsPermission = Cho phép một số trang web cài đặt tiện ích.
 policy-LegacyProfiles = Vô hiệu hóa tính năng thực thi một cấu hình riêng cho mỗi cài đặt
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Bật cài đặt hành vi cookie SameSite cũ mặc định.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Hoàn nguyên hành vi SameSite cũ cho cookie trên các trang web được chỉ định.
+
+##
+
 policy-LocalFileLinks = Cho phép các trang web cụ thể để liên kết đến các tập tin cục bộ.
 policy-NetworkPrediction = Kích hoạt hoặc vô hiệu hóa dự đoán mạng (tìm nạp trước DNS).
 policy-NewTabPage = Kích hoạt hoặc vô hiệu hóa trang Thẻ mới.
