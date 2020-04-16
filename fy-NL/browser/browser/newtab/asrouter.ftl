@@ -215,3 +215,24 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Alles besjen
     .accesskey = A
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Meitsje ienfâldich feilige wachtwurden
+cfr-whatsnew-lockwise-body = It is swier om foar elke account unike, feilige wachtwurden te betinken. Selektearje by it meitsjen fan in wachtwurd it wachtwurdfjild om in feilich, oanmakke wachtwurd fan { -brand-shorter-name } te brûken.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-piktogram
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Untfang meldingen oer kwetsbere wachtwurden
+cfr-whatsnew-passwords-body = Hackers witte dat minsken deselde wachtwurden opnij brûke. As jo itselde wachtwurd op meardere websites brûkt hawwe en ien fan dy websites troffen is troch in datalek, dan sjogge jo in melding yn { -lockwise-brand-short-name } om jo wachtwurd op dy websites te wizigjen.
+cfr-whatsnew-passwords-icon-alt = Kaaipiktogram foar kwetsber wachtwurd
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Meitsje picture-in-picture skermfullend
+cfr-whatsnew-pip-fullscreen-body = Wannear't jo in fideo yn in swevend skerm pleatse, kinne jo dêr no op dûbelklikke om it skermfullend te meitsjen.
+cfr-whatsnew-pip-fullscreen-icon-alt = Piktogram Picture-in-Picture
