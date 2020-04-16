@@ -27,6 +27,10 @@
 <!ENTITY pref.defalarm4todos.accesskey "ร">
 <!ENTITY pref.alarm.on "เปิด">
 <!ENTITY pref.alarm.off "ปิด">
+<!ENTITY pref.defalarmlen4events.label "เวลาเริ่มต้นที่การเตือนความจำถูกตั้งค่าก่อนเหตุการณ์:">
+<!ENTITY pref.defalarmlen4events.accesskey "เ">
+<!ENTITY pref.defalarmlen4todos.label "เวลาเริ่มต้นที่การเตือนความจำถูกตั้งค่าก่อนงาน:">
+<!ENTITY pref.defalarmlen4todos.accesskey "อ">
 
 <!ENTITY pref.defaultsnoozelength.label "ความยาวการเลื่อนเริ่มต้น:" >
 <!ENTITY pref.defaultsnoozelength.accesskey "ค">

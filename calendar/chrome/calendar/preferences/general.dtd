@@ -8,7 +8,9 @@
   -->
 
 <!ENTITY pref.mainbox.label "การตั้งค่าทั่วไป" >
+
 <!ENTITY pref.dateformat.label "รูปแบบข้อความวันที่:" >
+<!ENTITY pref.dateformat.accesskey "ว">
 <!ENTITY pref.dateformat.long "ยาว" >
 <!ENTITY pref.dateformat.short "สั้น"  >
 
@@ -23,11 +25,15 @@
 <!ENTITY pref.default_event_length.label "ความยาวเริ่มต้น:" >
 <!ENTITY pref.default_event_length.accesskey "ค">
 
+
 <!ENTITY pref.default_task_none.label "ไม่มี">
 <!ENTITY pref.default_task_start_of_day.label "เริ่มต้นของวัน">
 <!ENTITY pref.default_task_end_of_day.label "สิ้นสุดของวัน">
 <!ENTITY pref.default_task_tomorrow.label "พรุ่งนี้">
 <!ENTITY pref.default_task_next_week.label "สัปดาห์ถัดไป">
+<!ENTITY pref.default_task_offset_current.label "สัมพันธ์กับเวลาปัจจุบัน">
+<!ENTITY pref.default_task_offset_start.label "สัมพันธ์กับเวลาเริ่มต้น">
+<!ENTITY pref.default_task_offset_next_hour.label "สัมพันธ์กับชั่วโมงถัดไป">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "บานหน้าต่างวันนี้">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
@@ -35,6 +41,7 @@
      translation of that section name (calendar.upcoming.button.label). Also,
      it should be upper case (as a proper name) if the target language permits.
   -->
+<!ENTITY pref.soondays2.label "ส่วน กำลังมาถึง แสดง:">
 
 <!ENTITY pref.accessibility.label "การช่วยการเข้าถึง" >
 
