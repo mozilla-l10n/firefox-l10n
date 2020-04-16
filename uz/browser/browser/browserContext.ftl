@@ -5,7 +5,7 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Tarixni ko‘rish uchun pastga suring
+            [macos] Tarixni koʻrish uchun pastga suring
            *[other] Tarixni ko‘rish uchun o‘ng tugmani bosing yoking pastga suring
         }
 
@@ -23,7 +23,7 @@ toolbar-button-back =
 ## Forward
 
 main-context-menu-forward =
-    .tooltiptext = Bir sahifa oldinga o‘tish
+    .tooltiptext = Bir sahifa oldinga oʻtish
     .aria-label = Oldinga
     .accesskey = F
 navbar-tooltip-forward =
@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Sahifani xatcho‘plarga qo‘shish
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = Sahifani xatcho‘plarga qo‘shish
     .accesskey = m
@@ -104,7 +101,7 @@ main-context-menu-bookmark-this-link =
     .label = Havolani xatcho‘plarga qo‘shish
     .accesskey = H
 main-context-menu-save-link =
-    .label = Linkni saqlash…
+    .label = Havolani saqlash…
     .accesskey = k
 main-context-menu-save-link-to-pocket =
     .label = Havolani { -pocket-brand-name } xizmatiga saqlash
@@ -115,7 +112,7 @@ main-context-menu-save-link-to-pocket =
 ## are mutually exclusive.
 
 main-context-menu-copy-email =
-    .label = E-pochta manzilidan nusxa olish
+    .label = Email manzilidan nusxa olish
     .accesskey = E
 main-context-menu-copy-link =
     .label = Havoladan nusxa olish
@@ -137,7 +134,7 @@ main-context-menu-media-pause =
 ##
 
 main-context-menu-media-mute =
-    .label = Tovushni o‘chirish
+    .label = Tovushni oʻchirish
     .accesskey = o
 main-context-menu-media-unmute =
     .label = Tovushni yoqish
@@ -149,7 +146,7 @@ main-context-menu-media-play-speed-slow =
     .label = Sekin (0.5×)
     .accesskey = S
 main-context-menu-media-play-speed-normal =
-    .label = Me’yorda
+    .label = Meʼyorda
     .accesskey = N
 main-context-menu-media-play-speed-fast =
     .label = Tez (1.25×)
@@ -170,7 +167,7 @@ main-context-menu-media-loop =
 ## because the two context-menu items are mutually exclusive.
 
 main-context-menu-media-show-controls =
-    .label = Boshqaruvlarni ko‘rsatish
+    .label = Boshqaruvlarni koʻrsatish
     .accesskey = B
 main-context-menu-media-hide-controls =
     .label = Boshqaruvlarni yashirish
@@ -182,7 +179,7 @@ main-context-menu-media-video-fullscreen =
     .label = Butun ekran
     .accesskey = B
 main-context-menu-media-video-leave-fullscreen =
-    .label = Butun ekran’dan chiqish
+    .label = Butun ekrandan chiqish
     .accesskey = u
 # This is used when right-clicking on a video in the
 # content area when the Picture-in-Picture feature is enabled.
@@ -196,7 +193,7 @@ main-context-menu-image-view =
     .label = Rasmni ko‘rish
     .accesskey = i
 main-context-menu-video-view =
-    .label = Videoni ko‘rish
+    .label = Videoni koʻrish
     .accesskey = i
 main-context-menu-image-copy =
     .label = Rasmdan nusxa olish
@@ -220,10 +217,10 @@ main-context-menu-image-set-as-background =
     .label = Ish stoli orqa foni sifatida o‘rnatish
     .accesskey = s
 main-context-menu-image-info =
-    .label = Rasm ma’lumotini ko‘rish
+    .label = Rasm maʼlumotini koʻrish
     .accesskey = t
 main-context-menu-image-desc =
-    .label = Ta’rifini ko‘rish
+    .label = Taʼrifini koʻrish
     .accesskey = T
 main-context-menu-video-save-as =
     .label = Videoni saqlash…
@@ -235,70 +232,73 @@ main-context-menu-video-image-save-as =
     .label = Olingan rasmni saqlash
     .accesskey = s
 main-context-menu-video-email =
-    .label = Videoni e-pochtadan jo‘natish
+    .label = Videoni emaildan joʻnatish
     .accesskey = o
 main-context-menu-audio-email =
-    .label = Audioni e-pochtadan jo‘natish…
+    .label = Audioni emaildan joʻnatish…
     .accesskey = A
 main-context-menu-plugin-play =
-    .label = Ushbu plaginni faollashtirish
+    .label = Bu plaginni faollashtirish
     .accesskey = f
 main-context-menu-plugin-hide =
-    .label = Ushbu plaginni yashirish
+    .label = Bu plaginni yashirish
     .accesskey = y
 main-context-menu-save-to-pocket =
     .label = Sahifani { -pocket-brand-name } xizmatiga saqlash
     .accesskey = k
 main-context-menu-send-to-device =
-    .label = Sahifani qurilmaga uzatish
+    .label = Sahifani qurilmaga joʻnatish
     .accesskey = q
 main-context-menu-view-background-image =
-    .label = Orqa fon rasmini ko‘rish
+    .label = Orqa fon rasmini koʻrish
     .accesskey = r
+main-context-menu-generate-new-password =
+    .label = Yaratilgan paroldan foydalanish
+    .accesskey = Y
 main-context-menu-keyword =
-    .label = Ushbu qidiruv uchun kalit so‘zni qo‘shish…
+    .label = Ushbu qidiruv uchun kalit soʻzni qoʻshish…
     .accesskey = k
 main-context-menu-link-send-to-device =
     .label = Havolani qurilmaga uzatish
     .accesskey = q
 main-context-menu-frame =
-    .label = Ushbu kadr
-    .accesskey = h
+    .label = Bu freym
+    .accesskey = B
 main-context-menu-frame-show-this =
-    .label = Faqat ushbu ramkani ko‘rsatish
+    .label = Faqat shu freymni koʻrsatish
     .accesskey = s
 main-context-menu-frame-open-tab =
-    .label = Kadrni yangi ichki oynada ochish
+    .label = Freymni yangi varaqda ochish
     .accesskey = i
 main-context-menu-frame-open-window =
-    .label = Kadrni yangi oynada ochish
+    .label = Freymni yangi oynada ochish
     .accesskey = o
 main-context-menu-frame-reload =
-    .label = Kadrni qayta yuklash
+    .label = Freymni qayta yuklash
     .accesskey = q
 main-context-menu-frame-bookmark =
-    .label = Kadrni xatcho‘plarga qo‘shish
+    .label = Freymni xatchoʻplarga qoʻshish
     .accesskey = h
 main-context-menu-frame-save-as =
-    .label = Kadr sifatida saqlash
-    .accesskey = K
+    .label = Freym sifatida saqlash
+    .accesskey = F
 main-context-menu-frame-print =
-    .label = Kadrni chop qilish…
+    .label = Freymni chop qilish…
     .accesskey = c
 main-context-menu-frame-view-source =
-    .label = Kadr manbasini ko‘rish
+    .label = Freym manbasi
     .accesskey = k
 main-context-menu-frame-view-info =
-    .label = Kadr ma’lumotini ko‘rsatish
+    .label = Freym haqida maʼlumot
     .accesskey = s
 main-context-menu-view-selection-source =
-    .label = Belgilanganning manbasini ko‘rish
+    .label = Tanlangan fragment manba kodi
     .accesskey = e
 main-context-menu-view-page-source =
-    .label = Sahifa manbasini ko‘rish
+    .label = Sahifa manba kodi
     .accesskey = k
 main-context-menu-view-page-info =
-    .label = Rasm ma’lumotini ko‘rish
+    .label = Sahifa haqida maʼlumot
     .accesskey = l
 main-context-menu-bidi-switch-text =
     .label = Matn yo‘nalishini almashtirish
