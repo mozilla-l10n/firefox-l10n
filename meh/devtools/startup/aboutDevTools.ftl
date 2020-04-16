@@ -21,11 +21,22 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Kuka'nu inini a Mozilla tetiñu nuu información nuu'u kachi nuu <a data-l10n-name="privacy-policy"> Tutu xitu Privacidad</a>.
 newsletter-subscribe-button = Chu'un sivɨn
 newsletter-thanks-title = ¡Kuta'vini!
+newsletter-thanks-message = De ntu nkachinu chu'un sivɨnu nuu tu'un Mozilla, sana nejika sa'anuma. Kune'ya nuu kanta correo noo'o a xíín spam jee nánukunu correo da nuu'u.
 footer-title = Firefox Developer Edition
 footer-learn-more-link = Ka´vi kue´eka
 features-learn-more = Ka´vi kue´eka
 features-inspector-title = Inspector
 features-console-title = Consola
 features-network-title = Red
+features-storage-title = Nuu chuva´a
+features-responsive-title = Kua diseño responsivo
+features-visual-editing-title = Tee visual
+features-visual-editing-desc = Ke'i animaciones je alineamiento. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Naja satiñu
 features-memory-title = Memoria
+features-memory-desc = Nani'i nuu too memoria je sa'a ka̱a̱ koo luli je ñama. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = Ntu nkuvi sa'a suscripción ({ $errorDescription }).
+newsletter-error-unknown = Nkene iin error ntu netudani.
+newsletter-error-timeout = Nnɨ'ɨ tiempo a jikan suscripción.
