@@ -3,6 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Jiee ka̱a̱ ñɨvɨ sa'a software
+enable-title = Tee da ka̱a̱ Firefox Developer
+enable-inspect-element-title = Tee da ka̱a̱ desarrollador Firefox sa ni'i Inspeccionar elemento
+enable-inspect-element-message = Kune'ya jee tee HTML ji CSS nuu inpector ka̱a̱ desarrollador.
 enable-close-button = Nakasɨ pestaña ya'a
 newsletter-email-placeholder =
     .placeholder = Email
