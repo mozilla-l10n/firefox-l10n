@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Boshqa brauzerdan import qilish
 appmenuitem-protection-report-title = Maxfiylik himoyalari
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Maxfiylik haqidagi hisobotga kirish
@@ -21,4 +19,4 @@ appmenuitem-zoom-reduce =
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
-    .label = Hozir sinxronlash
+    .label = Sinxronlash
