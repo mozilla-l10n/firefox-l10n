@@ -7,6 +7,7 @@
 cert-error-intro = { $hostname } yaroqsiz xavfsizlik sertifikatidan foydalanmoqda.
 cert-error-mitm-intro = Saytlar haqiqiyligi maxsus sertifikat taqdim etuvchi markazlar tomonidan tadiqlanadi.
 cert-error-mitm-mozilla = { -brand-short-name } Mozilla deb nomlangan notijorat tashkilot tomonidan qoʻllab-quvvatlanadi. U oʻzining sertifikat berish markazlari sertifikatlarini saqlovchi ochiq omboriga ega. Bu omborxona sertifikat berish markazlarini foydalanuvchilarning xavfsizligini taʼminlashda yordam beradi.
+cert-error-trust-unknown-issuer-intro = Kimdir saytni qalbakilashtirganga oʻxshaydi, shuning uchun davom ettirmaganingiz maʼqul.
 cert-error-trust-cert-invalid = Sertifikat ishonchli emas, chunki u yaroqsiz CA sertifikat tomonidan berilgan.
 cert-error-trust-untrusted-issuer = Sertifikat ishonchli emas, chunki sertifikatni beruvchi ishonchli emas.
 cert-error-trust-signature-algorithm-disabled = Ushbu sertifikat ishonchli emas, chunki  xavfsiz bo‘lmagan algoritmdan foydalanib yozilgan imzo bo‘lganligi uchun o‘chirib qo‘yilgan.
