@@ -79,7 +79,7 @@
 <!ENTITY half-manual-test.label          "Afprøv konfigurationen">
 <!ENTITY half-manual-test.accesskey      "ø">
 <!ENTITY manual-edit.label               "Manuel konfiguration">
-<!ENTITY manual-edit.accesskey           "M">
+<!ENTITY manual-edit.accesskey           "K">
 <!ENTITY manual-config.label             "Manuel opsætning…">
 <!ENTITY manual-config.accesskey         "M">
 <!ENTITY open-provisioner.label          "Få en ny mailadresse…">
