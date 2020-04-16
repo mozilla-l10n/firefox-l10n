@@ -216,7 +216,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Síne panel jiniñu´u ubicación">
 <!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Sine panel reproducción automática">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Síne panel da mensajes chu´un nachisó-kúmani">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Tetiñu permiso extración canvas">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Síne panel mensajes nchuva´a ntu íyo conexión">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Síne panel da mensajes da contraseñas nchuva´a">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tetiñu naja ni´i plugins">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Sama de kene notificaciones sitio">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Chuva´a datos kino kue´e kivɨ">
 
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Síne panel auntenticación web">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Síne panel permisos actividad navegación">
 
 
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
