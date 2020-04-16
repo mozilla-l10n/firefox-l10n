@@ -100,8 +100,13 @@ certificate-viewer-download-pem-chain = PEM (ланцюжок сертифіка
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Це розширення було позначене критичним, тобто клієнти повинні відхилити сертифікат, якщо вони його не розуміють.
+certificate-viewer-export = Експорт
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Ваші сертифікати
 certificate-viewer-tab-people = Люди
+certificate-viewer-tab-servers = Сервери
+certificate-viewer-tab-ca = Центри сертифікації
 certificate-viewer-tab-unkonwn = Невідомо
