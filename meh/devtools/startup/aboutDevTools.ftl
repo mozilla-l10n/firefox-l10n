@@ -27,8 +27,11 @@ footer-learn-more-link = Ka´vi kue´eka
 features-learn-more = Ka´vi kue´eka
 features-inspector-title = Inspector
 features-console-title = Consola
+features-debugger-title = Depurador
+features-debugger-desc = Depurador JavaScript ji soporte nuu framework noo'o. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Red
 features-storage-title = Nuu chuva´a
+features-storage-desc = Tee, sama je xita caché, cookies, bases de datos ji datos sesión. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Kua diseño responsivo
 features-visual-editing-title = Tee visual
 features-visual-editing-desc = Ke'i animaciones je alineamiento. <a data-l10n-name="learn-more">{ features-learn-more }</a>
