@@ -9,6 +9,7 @@ forward = Ichi nuu
 reload = Nachu'un tuku
 home = Nuu kajie´e
 fullscreen = Pantalla ka'nu
+touchbar-fullscreen-exit = Kene nuu pantalla ka'nu
 find = Nánuku
 new-tab = Sukua jíía
 add-bookmark = Tee a ta´a ini noo´o
@@ -23,6 +24,10 @@ search-search-in = Nánuku:
 ## Various categories of shortcuts for search.
 
 search-bookmarks = A ta´a ini noo´o
+search-history = Historial
+search-opentabs = Pestañas nune
+search-tags = Etiquetas
+search-titles = Títulos
 
 ##
 
