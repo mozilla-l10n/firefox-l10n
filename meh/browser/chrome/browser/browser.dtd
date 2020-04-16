@@ -226,6 +226,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Síne panel auntenticación web">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Síne panel permisos actividad navegación">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tetiñu kua´a ka̱a̱ natava / micrófono ji sitio">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tetiñu kua´a micrófono ji sitio">
 
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
 
