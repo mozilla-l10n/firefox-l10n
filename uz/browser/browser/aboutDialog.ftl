@@ -13,14 +13,14 @@ update-updateButton =
     .accesskey = R
 update-checkingForUpdates = Yangilanishlar uchun tekshirish...
 update-downloading = <img data-l10n-name="icon"/>Yangilanish yuklab olinmoqda —<label data-l10n-name="download-status"/>
-update-applying = Yangilanish qo‘llanmoqda…
+update-applying = Yangilanish qoʻllanilmoqda…
 update-failed = Yangilab bo‘lmadi.<label data-l10n-name="failed-link">So‘nggi versiyani yuklab olish</label>
-update-failed-main = Yangilab bo‘lmadi.<a data-l10n-name="failed-link-main">So‘nggi versiyani yuklab olish</a>
-update-adminDisabled = Yangilanishlar tizimingiz administratori tomonidan o‘chirib qo‘yilgan
+update-failed-main = Yangilanmadi.<a data-l10n-name="failed-link-main">Soʻnggi versiyani yuklab olish</a>
+update-adminDisabled = Yangilanishlar tizimingiz administratori tomonidan oʻchirib qoʻyilgan
 update-noUpdatesFound = { -brand-short-name } yangilangan
 update-otherInstanceHandlingUpdates = { -brand-short-name } boshqa manbadan yangilanadi
 update-manual = Yangilanishlar mavjud:<label data-l10n-name="manual-link"/>
-update-unsupported = Siz keyingi yangilanishlarni ushbu tizimda bajara olmaysiz. <label data-l10n-name="unsupported-link">Ko‘proq o‘rganish</label>
+update-unsupported = Siz keyingi yangilanishlarni ushbu tizimda bajara olmaysiz. <label data-l10n-name="unsupported-link">Batafsil</label>
 update-restarting = Qayta ishga tushirilmoqda…
 channel-description = Siz hozirda <label data-l10n-name="current-channel"></label> yangilash kanalidasiz.
 warningDesc-version = { -brand-short-name } sinovdagi versiya, shuning uchun yaxshi ishlamasligi mumkin.

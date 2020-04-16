@@ -5,7 +5,7 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } yaroqsiz xavfsizlik sertifikatidan foydalanmoqda.
-cert-error-mitm-intro = Saytlar haqiqiyligini sertifikat beradigan markazlar bergan sertifikatlar yordamida tasdiqlaydi.
+cert-error-mitm-intro = Saytlar haqiqiyligi maxsus sertifikat taqdim etuvchi markazlar tomonidan tadiqlanadi.
 cert-error-mitm-mozilla = { -brand-short-name } Mozilla deb nomlangan notijorat tashkilot tomonidan qoʻllab-quvvatlanadi. U oʻzining sertifikat berish markazlari sertifikatlarini saqlovchi ochiq omboriga ega. Bu omborxona sertifikat berish markazlarini foydalanuvchilarning xavfsizligini taʼminlashda yordam beradi.
 cert-error-trust-cert-invalid = Sertifikat ishonchli emas, chunki u yaroqsiz CA sertifikat tomonidan berilgan.
 cert-error-trust-untrusted-issuer = Sertifikat ishonchli emas, chunki sertifikatni beruvchi ishonchli emas.
@@ -29,10 +29,16 @@ cert-error-details-cert-chain-label = Sertifikat zanjiri:
 
 connectionFailure-title = Ulana olmadi
 deniedPortAccess-title = Bu manzil cheklangan
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Bu sayt topilmadi.
 fileNotFound-title = Fayl topilmadi
 fileAccessDenied-title = Fayldan foydalanishga ruxsat berilmadi
 generic-title = Obbo.
-captivePortal-title = Tarmoqda ro‘yxatdan o‘ting
+captivePortal-title = Tarmoqqa kirish
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Manzil xato kiritilganga oʻxshayapti
 netInterrupt-title = Aloqa uzilib qoldi
 notCached-title = Hujjat mavjud emas
 netOffline-title = Oflayn usuli
@@ -47,7 +53,14 @@ redirectLoop-title = Sahifa to‘g‘ri yo‘naltirilmagan
 unknownSocketType-title = Serverdan kutilmagan javob
 nssFailure2-title = Xavfsiz ulanib bo‘lmadi
 cspBlocked-title = Kontent xavfsizlik nazorati tomonidan bloklangan
+xfoBlocked-title = X-Frame-Options siyosati bloklagan
 corruptedContentError-title = Buzilgan kontent xatosi
 remoteXUL-title = Masofadagi XUL
 sslv3Used-title = Xavfsiz ulanish amalga oshmadi
 inadequateSecurityError-title = Ulanish xavfsiz emas
+blockedByPolicy-title = Bloklangan sahifa
+clockSkewError-title = Kompyuteringiz soati notoʻgʻri
+networkProtocolError-title = Tarmoq protokolida xatolik bor
+nssBadCert-title = Diqqat: xavfsizlikka tahdid ehtimoli mavjud
+nssBadCert-sts-title = Ulanmadi: xavfsizlikka tahdid ehtimoli mavjud
+certerror-mitm-title = Dasturiy taʼminot { -brand-short-name }ga bu saytga xavfsiz ulanish uchun ruxsat bermayapti
