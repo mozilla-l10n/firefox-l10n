@@ -581,15 +581,22 @@ history-clear-button =
 
 sitedata-header = Cookies ji datos nuu ya´a
 sitedata-learn-more = Ka´vi jiee ya´a
+sitedata-disallow-cookies-option =
+    .label = Kasɨ da cookies ji datos nuu ya'a
+    .accesskey = B
 sitedata-clear =
     .label = Sá´á noo datos
     .accesskey = S
 sitedata-settings =
     .label = Tetiñu datos...
     .accesskey = T
+sitedata-cookies-permissions =
+    .label = Tetiñu da permisos
+    .accesskey = p
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Barra da nuu
 addressbar-locbar-history-option =
     .label = Sɨ´ɨ nnánukunu
     .accesskey = H
@@ -715,6 +722,7 @@ permissions-a11y-privacy-link = Ka´vi kue´eka
 collection-privacy-notice = Tu´un xitu a nejika kumio
 collection-health-report-telemetry-disabled-link = Ka´vi kue´eka
 collection-health-report-link = Ka´vi kue´eka
+collection-studies-link = Kune'ya da estudio { -brand-short-name }
 addon-recommendations-link = Ka´vi kue´eka
 collection-backlogged-crash-reports-link = Ka´vi kue´eka
 
@@ -729,6 +737,9 @@ security-enable-safe-browsing-link = Ka´vi kue´eka
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-select-ask-option =
+    .label = Kakama ntaka ichí
+    .accesskey = A
 certs-view =
     .label = Kune´ya certificados…
     .accesskey = C

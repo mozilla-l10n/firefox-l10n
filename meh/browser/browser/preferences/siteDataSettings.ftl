@@ -50,3 +50,4 @@ site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Xita
 site-data-removing-header = Xina cookies ji datos sitio
+site-data-removing-table = Da cookies ji datos da nuu web naa
