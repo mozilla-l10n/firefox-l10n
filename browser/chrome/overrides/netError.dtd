@@ -165,8 +165,8 @@
 </ul>
 ">
 
-<!ENTITY certerror.longpagetitle2 "Попередження: Попереду ймовірна загроза безпеці">
-<!ENTITY certerror.sts.longpagetitle  "З'єднання не встановлено: Потенційна загроза безпеці">
+<!ENTITY certerror.longpagetitle2 "Обережно: Попереду ймовірна загроза безпеки">
+<!ENTITY certerror.sts.longpagetitle  "З'єднання не встановлено: Ймовірна загроза безпеки">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -232,8 +232,8 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Додаткова інформація: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY certerror.pagetitle2  "Попередження: Попереду ймовірна загроза безпеці">
-<!ENTITY certerror.sts.pagetitle  "З'єднання не встановлено: Потенційна загроза безпеці">
+<!ENTITY certerror.pagetitle2  "Обережно: Попереду ймовірна загроза безпеки">
+<!ENTITY certerror.sts.pagetitle  "З'єднання не встановлено: Ймовірна загроза безпеки">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> має політику безпеки, що називається HTTP Strict Transport Security (HSTS), і це означає, що &brandShortName; може перейти сюди лише з використанням захищеного з'єднання. Ви не можете додати виняток для відвідування цього сайту.">
 <!ENTITY certerror.copyToClipboard.label "Копіювати текст у буфер обміну">
 
