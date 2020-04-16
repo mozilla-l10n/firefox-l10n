@@ -168,6 +168,12 @@ about-logins-breach-alert-learn-more-link = Kuni kueka
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Contraseña vulnerable
+about-logins-vulnerable-alert-text2 = Contraseña a ni'ima inka nuu jee sana iyo iin violación datos. De ni'i tuku ya'a sana koo tixi. Sama contraseña ya'a.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Kɨ'ɨ { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Ka´vi kue´eka
 
 ## Error Messages
 
