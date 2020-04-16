@@ -56,6 +56,8 @@ login-list-item-subtitle-new-login = Anna kirjautumistietosi
 login-list-item-subtitle-missing-username = (ei käyttäjätunnusta)
 about-logins-list-item-breach-icon =
     .title = Tietovuodon kokenut sivusto
+about-logins-list-item-vulnerable-password-icon =
+    .title = Vaarantunut salasana
 
 ## Introduction screen
 
@@ -151,13 +153,25 @@ confirm-discard-changes-dialog-confirm-button = Hylkää
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Sivuston tietovuoto
 breach-alert-text = Salasanat vuotivat tai niitä varastettiin tältä sivustolta sen jälkeen, kun olet viimeksi päivittänyt kirjautumistietosi. Suojaa tilisi vaihtamalla salasanasi.
 breach-alert-link = Lue lisää tästä vuodosta.
 breach-alert-dismiss =
     .title = Sulje tämä hälytys
+about-logins-breach-alert-date = Tämä vuoto tapahtui { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Siirry sivustolle { $hostname }
+about-logins-breach-alert-learn-more-link = Lue lisää
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Vaarantunut salasana
+about-logins-vulnerable-alert-text2 = Tätä salasanaa on käytetty toisella tilillä, jonka tiedot todennäköisesti vuosivat. Samojen kirjautumistietojen myös muualla käyttäminen vaarantaa kaikki tilisi. Vaihda tämä salasana.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Siirry sivustolle { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Lue lisää
 
 ## Error Messages
 
