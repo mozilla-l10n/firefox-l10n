@@ -535,6 +535,9 @@ forms-breach-alerts-learn-more-link = Ka´vi kue´eka
 forms-saved-logins =
     .label = Nuu kajie´e sesión nchuva´a
     .accesskey = L
+forms-master-pw-use =
+    .label = Ni´i contraseña maestra
+    .accesskey = m
 forms-master-pw-change =
     .label = Sama...
     .accesskey = m
@@ -634,6 +637,7 @@ content-blocking-all-cookies = Kuaiyo da cookies
 content-blocking-all-third-party-cookies = Kuaiyo Cookies da inka
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
+content-blocking-warning-title = ¡Atención!
 content-blocking-learn-how = Kuni naja?
 content-blocking-warning-learn-how = Kutu´va naja
 content-blocking-reload-description = Nejika nakajie´e tuku da pestañas saa kino da nsama.
@@ -653,6 +657,8 @@ content-blocking-tracking-protection-change-block-list = Sama lista nasɨ
 content-blocking-cookies-label =
     .label = Cookies
     .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Kue'eka tu'un
 # Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
 content-blocking-cryptominers-label =
     .label = Criptomineros
@@ -668,6 +674,7 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Permissions
 
+permissions-header = Permisos
 permissions-location = Nuu iñɨnu
 permissions-location-settings =
     .label = Ke´i...
