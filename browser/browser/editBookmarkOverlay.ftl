@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 bookmark-overlay-name =
-    .value = Ім’я:
-    .accesskey = І
+    .value = Назва:
+    .accesskey = з
 bookmark-overlay-location =
     .value = Адреса:
     .accesskey = А
