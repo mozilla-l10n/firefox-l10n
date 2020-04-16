@@ -161,7 +161,7 @@ confirm-discard-changes-dialog-confirm-button = Rad etish
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = Saytda “ maʼlumotlar sizishi”
+about-logins-breach-alert-title = Saytda “maʼlumotlar sizishi”
 breach-alert-text = Login maʼlumotlari oxirgi marta yangilangandan keyin shu saytdan parollar olingan yoki oʻgʻirlangan. Hisobingizni himoya qilish uchun parolingizni oʻzgartiring.
 breach-alert-link = Maʼlumotlarning sizib chiqishi haqida batafsil.
 breach-alert-dismiss =
@@ -169,7 +169,7 @@ breach-alert-dismiss =
 about-logins-breach-alert-date = Maʼlumotlar sizishi yuz bergan vaqt: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
-about-logins-breach-alert-link = { $hostname } saytiga oʻtish
+about-logins-breach-alert-link = { $hostname } saytini ochish
 about-logins-breach-alert-learn-more-link = Batafsil
 
 ## Vulnerable Password notification
