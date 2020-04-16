@@ -29,6 +29,7 @@ features-learn-more = Ka´vi kue´eka
 features-inspector-title = Inspector
 features-inspector-desc = Kune'ya je sa'a nasɨ código saa sa'anu plantillas koo ji nivel pixeles. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Consola
+features-console-desc = Kunta tixi CSS, JavaScript, seguridad ji red. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Depurador
 features-debugger-desc = Depurador JavaScript ji soporte nuu framework noo'o. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Red
@@ -48,3 +49,6 @@ features-memory-desc = Nani'i nuu too memoria je sa'a ka̱a̱ koo luli je ñama.
 newsletter-error-common = Ntu nkuvi sa'a suscripción ({ $errorDescription }).
 newsletter-error-unknown = Nkene iin error ntu netudani.
 newsletter-error-timeout = Nnɨ'ɨ tiempo a jikan suscripción.
+# Variables:
+#   $shortcut (String) - The keyboard shortcut used for the tool
+welcome-message = ¡Nteenu vatu da ka̱a̱ desarrollador! Sa kajie'e, kune'ya menú desarrollador web a xíín síne da ka̱a̱ ji { $shortcut }.

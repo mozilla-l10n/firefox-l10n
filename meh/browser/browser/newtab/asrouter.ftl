@@ -107,8 +107,13 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Nee { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Kune´ya reporte
 cfr-whatsnew-lockwise-backup-title = Chuva´a contraseñas noo´o
+cfr-whatsnew-lockwise-backup-link-text = Tee copias seguridad
 cfr-whatsnew-lockwise-take-title = Kuiso da contraseña ji noo´o
 cfr-whatsnew-lockwise-take-link-text = Ni'i App
+
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Tee mati'i, nani'i kue'e jii barra direcciones
 
 ## Picture-in-Picture
 
@@ -167,3 +172,15 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } nnakasɨ  iin cripto
 
 cfr-doorhanger-milestone-ok-button = Kune´ya kuaíyo
     .accesskey = K
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+

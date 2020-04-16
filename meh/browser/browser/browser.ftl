@@ -153,6 +153,8 @@ page-action-manage-extension =
     .label = Tetiñu da extensión...
 page-action-remove-from-urlbar =
     .label = Xinama barra da nuu
+page-action-remove-extension =
+    .label = Xina extensión
 
 ## Auto-hide Context Menu
 
