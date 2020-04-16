@@ -24,6 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Síne menu
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Nake'ema ji inka ka̱a̱ nánuku
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Kaji
@@ -45,6 +47,7 @@ login-list-sort-label-text = Naka̱ji:
 login-list-name-option = Sivɨ (A-Z)
 login-list-name-reverse-option = Sivɨ (Z-A)
 login-list-breached-option = Nuu Web ntu vatu
+about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Nuu nɨ'ɨ a nsama
 login-list-last-used-option = Nni´i nuu nɨ´ɨ
 login-list-intro-title = Ntu nani´i nuu kajie´e sesión
@@ -56,6 +59,8 @@ login-list-item-subtitle-new-login = Chu´un credenciales noo´o a kajie´e sesi
 login-list-item-subtitle-missing-username = (Na íyo sivɨ ñɨvɨ)
 about-logins-list-item-breach-icon =
     .title = Nuu Web ntu vatu
+about-logins-list-item-vulnerable-password-icon =
+    .title = Contraseña vulnerable
 
 ## Introduction screen
 

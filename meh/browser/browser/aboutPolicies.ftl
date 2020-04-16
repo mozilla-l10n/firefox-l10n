@@ -7,13 +7,8 @@ about-policies-title = Tutu nichi Empresariales
 active-policies-tab = Activas
 errors-tab = Errores
 documentation-tab = Tutu
+no-specified-policies-message = Servicio políticas empresariales íyo activo je ntu íyo políticas habilitadas.
+inactive-message = Servicio políticas empresariales ntu íyo activo.
 policy-name = Sivɨ política
 policy-value = Naja íyo ya´vi política
 policy-errors = Errores de la política
-# 'gpo-machine-only' policies are related to the Group Policy features
-# on Windows. Please use the same terminology that is used on Windows
-# to describe Group Policy.
-# These policies can only be set at the computer-level settings, while
-# the other policies can also be set at the user-level.
-gpo-machine-only =
-    .title = Saa ni´i iin tu´un Política Grupo, política ya´a iyo nuu ka̱a̱ noo´o.
