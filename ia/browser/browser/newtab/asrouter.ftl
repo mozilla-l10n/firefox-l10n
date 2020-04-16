@@ -215,14 +215,17 @@ cfr-doorhanger-milestone-ok-button = Vider toto
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Crea facilemente contrasignos secur
+cfr-whatsnew-lockwise-body = Trovar un contrasigno unic e secur pro cata conto es difficile. Quando tu besonia de un nove contrasigno, selige le option pertinente pro usar un contrasigno secur, generate automaticamente per { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Icone de { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Recipe un aviso in caso de contrasigno vulnerabile
+cfr-whatsnew-passwords-body = Le piratas informatic sape que plure personas reusa le mesme contrasignos. Si tu usa le mesme contrasigno in sitos differente e uno de iste sitos es implicate in un violation de datos, tu videra un aviso in { -lockwise-brand-short-name } pro supplantar le contrasigno in tote le sitos implicate.
 cfr-whatsnew-passwords-icon-alt = Icone de un clave de contrasigno vulnerabile
 
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Usar pictura-in-pictura a schermo plen
+cfr-whatsnew-pip-fullscreen-body = Quando tu transfereva un video in un fenestra flottante, tu pote duple-cliccar supra illo pro lo render a schermo plen.
 cfr-whatsnew-pip-fullscreen-icon-alt = Icone de pictura-in-pictura
