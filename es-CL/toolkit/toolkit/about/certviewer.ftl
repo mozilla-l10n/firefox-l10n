@@ -97,3 +97,13 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Exportar
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Tus certificados
+certificate-viewer-tab-people = Personas
+certificate-viewer-tab-servers = Servidores
+certificate-viewer-tab-ca = Autoridades
+certificate-viewer-tab-unkonwn = Desconocido

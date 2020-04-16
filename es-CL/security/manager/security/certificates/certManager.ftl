@@ -5,7 +5,7 @@
 certmgr-title =
     .title = Administrador de Certificado
 certmgr-tab-mine =
-    .label = Sus certificados
+    .label = Tus certificados
 certmgr-tab-people =
     .label = Personas
 certmgr-tab-servers =
@@ -149,9 +149,9 @@ edit-trust-ca = El certificado "{ $certName }" representa a una Autoridad de Cer
 ## For Deleting Certificates
 
 delete-user-cert-title =
-    .title = Eliminar sus certificados
+    .title = Eliminar tus certificados
 delete-user-cert-confirm = ¿Está seguro que desea eliminar estos certificados?
-delete-user-cert-impact = Si elimina uno de sus propios certificados, no podrá utilizarlo para identificarse a sí mismo.
+delete-user-cert-impact = Si eliminas uno de tus propios certificados, no podrás utilizarlo para identificarte a ti mismo.
 delete-ssl-cert-title =
     .title = Eliminar excepciones de certificados de servidor
 delete-ssl-cert-confirm = ¿Está seguro que desea eliminar estas excepciones de servidor?
