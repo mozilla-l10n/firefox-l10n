@@ -41,6 +41,7 @@ same accesskey but will never be visible at the same time. -->
 
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
+<!ENTITY  allTabsMenu.searchTabs.label       "Nánuku pestañas">
 
 <!ENTITY tabCmd.label "Sukua jíía">
 <!ENTITY tabCmd.accesskey "T">
@@ -54,10 +55,12 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Ke'i página…">
 <!ENTITY printSetupCmd.accesskey "p">
+<!ENTITY printPreviewCmd.label "Vista previa">
 <!ENTITY printPreviewCmd.accesskey "l">
 <!ENTITY printCmd.label "Nátava…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Nake'ema ji inka ka̱a̱ nánuku">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 
@@ -66,9 +69,11 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "Barra de Menú">
 <!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Barra nuu jika">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Navegación">
 <!ENTITY personalbarCmd.label "A ta´a ini noo´o">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
@@ -77,7 +82,6 @@ this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "A ta´a ini noo´o">
 
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -87,35 +91,42 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageSourceCmd.SafariCommandKey "u">
 
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.accesskey "L">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Kajie'e pantalla ka´nu">
 <!ENTITY enterFullScreenCmd.accesskey "P">
+<!ENTITY exitFullScreenCmd.label "Kene nuu pantalla ka'nu">
 <!ENTITY exitFullScreenCmd.accesskey "p">
 
+<!ENTITY fullScreenCmd.label "Pantalla ka'nu">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Xituvi kuaiyo da pestañas">
 <!ENTITY showAllTabsCmd.accesskey "t">
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
+<!ENTITY fxaSignIn.label "Kajie'e sesión ji &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Síne preferencias &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Nakɨvu tuku nuu &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Verifica tu cuenta">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Nasa´a luli">
 <!ENTITY fullScreenRestore.tooltip "Natee">
 <!ENTITY fullScreenClose.tooltip "Kasɨ">
+<!ENTITY fullScreenAutohide.label "Chiyu´u da barra ka̱a̱">
 <!ENTITY fullScreenAutohide.accesskey "O">
+<!ENTITY fullScreenExit.label "Kene nuu pantalla ka'nu">
 <!ENTITY fullScreenExit.accesskey "c">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Kua'a Firefox ji noo'o">
+<!ENTITY fxa.signin.description.label "Kivɨ marcadores, historial, contraseñas je kue´eka ke´i nuu kuaiyo ka̱a̱.">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
@@ -124,6 +135,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.signedInAs.label "Yɨ´ɨ kua">
+<!ENTITY fxa.menu.manageAccount.label "Tetiñu cuenta...">
 
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
@@ -172,7 +185,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "A ta´a ini noo´o">
 <!ENTITY bookmarksMenu.accesskey "M">
-
 <!ENTITY bookmarkThisPageCmd.label "Tee página ya´a nuu a ta´an ini noo´o">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
@@ -193,14 +205,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Siankuiñi">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY printButton.label            "Nátava">
 <!ENTITY printButton.tooltip          "Natava página ya´a">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Kune´ya tu´un sitio">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Síne panel da mensajes">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Síne panel jiniñu´u ubicación">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Sine panel reproducción automática">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Síne panel da mensajes chu´un nachisó-kúmani">
 
 
 
@@ -210,6 +225,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kutuvi sɨ´ɨ">
+
 
 <!ENTITY searchItem.title             "Nánuku">
 
@@ -260,6 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Ventana jíía">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -314,7 +331,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Nate tuku sesión yata">
 
 <!ENTITY showAllHistoryCmd2.label "Tuvi kuaiyo sɨ´ɨ">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Tuvi kuaiyo sɨ´ɨ">
@@ -443,7 +459,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "e">
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.accesskey "e">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Nachu'un tuku marco">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -476,7 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "G">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.accesskey       "G">
 <!ENTITY printFrameCmd.accesskey      "p">
@@ -548,19 +562,16 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.accesskey    "R">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Niko kua íyó">
 <!ENTITY fullZoomResetCmd.accesskey     "I">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -579,7 +590,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Nakasɨ">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -598,7 +608,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "d">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "o">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.accesskey "B">
@@ -621,8 +630,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      This is the header of the security subview in the Site Identity panel. -->
 
 
-
-
 <!-- Strings for connection state warnings. -->
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -632,7 +639,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.learnMore "Ka´vi kue´eka">
 
 <!ENTITY identity.removeCertException.accesskey "E">
-
 
 
 

@@ -88,6 +88,7 @@ separate-profile-mode =
 get-started-not-logged-in = Kajie´e sesión { -sync-brand-short-name }
 get-started-configured = Síne da preferencias de { -sync-brand-short-name }
 is-default = { -brand-short-name } kuvi ka̱a̱ nánuku xinañu'u
+is-not-default = { -brand-short-name } ntu kuvi ka̱a̱ nánuku xinañu'u
 set-as-my-default-browser =
     .label = Sá´á kua vají
     .accesskey = S
