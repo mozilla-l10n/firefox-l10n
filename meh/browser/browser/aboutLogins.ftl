@@ -102,6 +102,19 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Kune'ya identidad noo'o jee natee nuu kajie'e sesión nchuva'a.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = Natee nuu kajie'e sesión nchuva'a
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Kune'ya identidad noo'o saa kutuvi contraseña nchuva'a.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = Xituvi contraseña nchuva'a
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Kune'ya identidad noo'o jee tɨɨ contraseña nchuva'a.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = Tɨɨ contraseña nchuva'a
 
 ## Master Password notification
 
@@ -142,10 +155,16 @@ confirm-discard-changes-dialog-confirm-button = Xita
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Filtración nuu web
 breach-alert-text = Ntava yu´uda contraseñas a xiin nsakui´inada nuu web ya´a nuu nɨ ´ɨ ichi nnaxi´ñanu datos nuu kajie´e sesión. Sama contraseña noo´o saa kuvi koo va´a cuenta.
 breach-alert-link = Ka´vi kue´eka jiee filtración.
 breach-alert-dismiss =
     .title = Kasɨ tu´un
+about-logins-breach-alert-date = Filtración nkajie'e { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Kɨ'ɨ { $hostname }
+about-logins-breach-alert-learn-more-link = Kuni kueka
 
 ## Vulnerable Password notification
 
