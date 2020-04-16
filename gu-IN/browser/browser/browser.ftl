@@ -90,6 +90,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો
 urlbar-tip-help-icon =
     .title = મદદ મેળવો
+urlbar-search-tips-confirm = ઠીક છે, સમજાઇ ગયું
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = ટિપ્પણી:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.

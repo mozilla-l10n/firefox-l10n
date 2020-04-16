@@ -144,9 +144,18 @@ confirm-discard-changes-dialog-confirm-button = કાઢી નાખો
 breach-alert-link = આ ઉલ્લંઘન વિશે વધુ જાણો.
 breach-alert-dismiss =
     .title = આ ચેતવણી બંધ કરો
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } પર જાઓ
+about-logins-breach-alert-learn-more-link = વધુ જાણો
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = સંવેદનશીલ પાસવર્ડ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } પર જાઓ
+about-logins-vulnerable-alert-learn-more-link = વધુ જાણો
 
 ## Error Messages
 
