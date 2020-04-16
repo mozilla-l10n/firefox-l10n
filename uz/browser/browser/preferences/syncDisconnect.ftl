@@ -5,6 +5,8 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } uzilsinmi?
     .style = width: 36em; min-height: 35em;
+sync-disconnect-remove-sync-caption = { -sync-brand-name } maʼlumotlarini olib tashlash
+sync-disconnect-remove-sync-data = Xatchoʻplar, tarix, parollar va boshqalar
 
 ## Disconnect confirm Button
 ##
