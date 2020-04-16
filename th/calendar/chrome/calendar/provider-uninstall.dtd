@@ -8,3 +8,5 @@
 <!ENTITY providerUninstall.cancel.label                    "เก็บส่วนเสริม">
 <!ENTITY providerUninstall.cancel.accesskey                "ก">
 <!ENTITY providerUninstall.preName.label                   "คุณได้ขอถอนการติดตั้งหรือปิดใช้งาน:">
+<!ENTITY providerUninstall.postName.label                  "การดำเนินการนี้จะส่งผลให้ปฏิทินด้านล่างถูกปิดใช้งาน">
+<!ENTITY providerUninstall.reinstallNote.label             "แต่หากคุณกำลังวางแผนติดตั้งผู้ให้บริการนี้ใหม่ คุณสามารถเลือกเลิกบอกรับปฏิทินของผู้ให้บริการนี้ได้">
