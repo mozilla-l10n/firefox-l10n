@@ -11,10 +11,15 @@
 ## in the documentation section in about:policies.
 
 policy-AppUpdateURL = Ilovani yangilash uchun boshqa havolani o‘rnatadi.
+policy-DisableProfileImport = Boshqa brauzerdan import qilish uchun menyu buyruqlarini faolsizlantiradi.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-Proxy = Proksi sozlamalarini sozlash
-policy-SanitizeOnShutdown = O‘chirish vaqtida barcha navigatsiya ma’lumotlarini tozalash.
 policy-SearchBar = Qidiruv panelining joriy joylashuvini tayinlaydi. Foydalanuvchida uni sozlash huquqi qolaveradi.
 policy-SearchEngines = Qidiruv tizimi sozlamalarini sozlaydi. Bu siyosat faqat "Uzaytirilgan ko‘mak relizi" (ESR) versiyasida mavjud.
-# “format” refers to the format used for the value of this policy. See also:
-# https://github.com/mozilla/policy-templates/blob/master/README.md#websitefilter-machine-only
+# “format” refers to the format used for the value of this policy.
 policy-WebsiteFilter = Kiriladigan saytlarni bloklaydi. Format haqida batafsil ma’lumot olish uchun qo‘llanmani o‘qib chiqing.

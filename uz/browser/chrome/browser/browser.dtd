@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Sahifa manbasi">
 <!ENTITY pageSourceCmd.accesskey "a">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Sahifa haqida ma’lumot">
 <!ENTITY pageInfoCmd.accesskey "u">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Maket sozlagich">
 <!ENTITY ldbCmd.accesskey "L">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "B">
 <!ENTITY exitFullScreenCmd.label "Butun ekran rejimidan chiqish">
 <!ENTITY exitFullScreenCmd.accesskey "B">
+
 <!ENTITY fullScreenCmd.label "Butun ekran">
 <!ENTITY fullScreenCmd.accesskey "B">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label;ga qayta ulanish">
 <!ENTITY fxaUnverified.label "Hisobingizni tasdiqlang">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Yig‘ish">
 <!ENTITY fullScreenRestore.tooltip "Tiklash">
@@ -150,15 +146,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Sinxronlashdan oldin hisobingizni tasdiqlashingiz lozim.">
 <!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; sozlamalarini ochish">
 
-<!ENTITY pictureInPictureHideToggle.label "Rasm ichida rasm rejimini yashirish">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Kirilgan hisob nomi:">
 <!ENTITY fxa.menu.manageAccount.label "Hisobni boshqarish">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; sozlamalari">
+
+<!ENTITY pictureInPictureHideToggle.label "Rasm ichida rasm rejimini yashirish">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -170,12 +166,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "&brandProductName; hisobiga kirish">
 <!ENTITY fxa.menu.turnOnSync.label "&syncBrand.shortName.label;ni yoqish">
 <!ENTITY fxa.menu.firefoxServices.label "&brandProductName; xizmatlari">
-
 <!ENTITY fxa.menu.account.label "Hisob">
 <!ENTITY fxa.menu.settings.label "Sozlamalar">
 <!ENTITY fxa.menu.accountSettings.label "Hisob sozlamalari">
 <!ENTITY fxa.menu.signOut.label "Chiqish…">
-<!ENTITY fxa.menu.deviceSettings.label "Qurilma sozlamalari">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label;ni sozlash…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +213,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Xatcho‘plar">
 <!ENTITY bookmarksMenu.accesskey "X">
-
 <!ENTITY bookmarkThisPageCmd.label "Sahifani xatcho‘plarga qo‘shish">
 <!ENTITY editThisBookmarkCmd.label "Ushbu xatcho‘pni o‘zgartirish">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -245,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "To‘xtatish">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Manzil panelidagi manzilga o‘tish">
 <!ENTITY printButton.label            "Chop qilish">
 <!ENTITY printButton.tooltip          "Ushbu sahifani chop qilish">
@@ -276,8 +270,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM dasturidan foydalanishni boshqarish">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-panelni ochish">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Bu saytga qoʻshimcha maxsus ruxsat bergansiz.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Bu sayt uchun kamerani bloklab qo‘ygansiz.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bu sayt uchun mikrofonni bloklab qo‘ygansiz.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bu sayt uchun ekranni ulashishni bloklab qo‘ygansiz.">
@@ -291,8 +283,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sayt uchun MIDI ruxsatini blokladingiz.">
 <!ENTITY urlbar.installBlocked.tooltip           "Bu saytdan qoʻshimcha dastur oʻrnatishni bloklagansiz.">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Bu saytga qoʻshimcha maxsus ruxsat bergansiz.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixni ko‘rsatish">
+
 
 <!ENTITY searchItem.title             "Qidiruv">
 
@@ -357,6 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "i">
 <!ENTITY manageUserContext.label          "Konteynerlarni boshqarish">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Yangi oyna">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -416,7 +412,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Oldingi seansni tiklash">
 
 <!ENTITY showAllHistoryCmd2.label "Barcha tarixni ko‘rsatish">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Barcha tarixni ko‘rsatish">
@@ -497,6 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Yana">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Izlang yoki manzilni kiriting">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -568,12 +564,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Izlash:">
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Bu safar, quyidagi bilan izlang:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +576,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "S">
 
 <!ENTITY openLinkCmdInTab.label       "Havolani yangi ichki oynada ochish">
+
 <!ENTITY openLinkCmdInTab.accesskey   "i">
 <!ENTITY openLinkCmd.label            "Havolani yangi oynada ochish">
 <!ENTITY openLinkCmd.accesskey        "o">
@@ -634,6 +625,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "H">
 <!ENTITY bookmarkThisFrameCmd.label      "Kadrni xatcho‘plarga qo‘shish">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
+
 <!ENTITY pageAction.copyLink.label    "Havoladan nusxa olish">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -647,9 +639,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Havolani e-pochtadan jo‘natish">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Sahifani saqlash…">
 <!ENTITY savePageCmd.accesskey        "s">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Kadr sifatida saqlash">
@@ -754,20 +746,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Kattalashtirish">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "l">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Kichiklashtirish">
 <!ENTITY fullZoomReduceCmd.accesskey    "K">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Tiklash">
 <!ENTITY fullZoomResetCmd.accesskey     "T">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -791,7 +780,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Yopish">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Y">
 
@@ -819,7 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "a">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Ushbu sahifadan topish">
+<!ENTITY findOnCmd.label     "Sahifadan topish">
 <!ENTITY findOnCmd.accesskey "t">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Yana topish">
@@ -846,19 +834,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Ulanish">
 <!ENTITY identity.connectionSecure "Xavfsiz ulanish">
 <!ENTITY identity.connectionNotSecure "Ulanish – xavfsiz emas">
-
-<!ENTITY identity.connectionSecure3 "Xavfsiz ulanish">
-<!ENTITY identity.connectionNotSecure2 "Ishonchsiz ulanish">
-<!ENTITY identity.connectionNotSecureSecurityView "Bu saytga ishonchsiz aloqa bilan ulangansiz.">
 <!ENTITY identity.connectionFile "Bu sahifa kompyuteringizda saqlangan.">
 <!ENTITY identity.connectionVerified2 "Siz bu saytga xavfsiz ulandingiz, sayt egasi:">
-<!ENTITY identity.connectionVerified3 "Bu saytga ishonchli aloqa bilan ulangansiz.">
 <!ENTITY identity.connectionInternal "Bu ishonchli &brandShortName; sahifasi.">
 <!ENTITY identity.extensionPage "Bu sahifa kengaytmadan yuklandi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sahifaga kiritilgan ma’lumotlar o‘g‘irlanishi mumkin.">
 <!ENTITY identity.customRoot "Aloqa Mozilla tomonidan tasdiqlanmagan sertifikat beruvchi tomonidan tasdiqlangan.">
-
-<!ENTITY identity.evOwnerLabel2 "Sertifikat beruvchi:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ushbu sahifaning xavfli bo‘lgan qismlarini blokladi.">
@@ -893,8 +874,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Kuki va sayt ma’lumotlarini tozalash">
 
 <!ENTITY identity.permissions "Ruxsat">
-
-<!ENTITY identity.permissions3 "Ruxsatlar">
 <!ENTITY identity.permissionsEmpty "Bu saytga hech qanday maxsus ruxsat bermagansiz.">
 <!ENTITY identity.permissionsReloadHint "O‘zgarishlar amalga oshishi uchun sahifani yangilashingiz kerak.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ruxsat parametrlarini ochish">
@@ -940,12 +919,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Nima uchun?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Bloklasangiz, ayrim saytlaridagi elementlar ishlamasligi mumkin. Kuzatuvchilar ayrim tugma, shakl va login maydonchalarisiz sizni kuzata olmaydi.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Himoyani oʻchirsangiz, bu saytdagi barcha kuzatuvchilar sizni kuzata oladi. Bundan ayrim saytlarning funksiyalarini yaxshilashda ham foydalanish mumkin.">
-<!ENTITY protections.socialMediaTrackers.label "Ijtimoiy tarmoq kuzatuvchilari">
-<!ENTITY protections.crossSiteTrackingCookies.label "Saytlararo kuzatuvchi kukilar">
-<!ENTITY protections.trackingContent.label "Kuzatuvchi kontent">
-<!ENTITY protections.fingerprinters.label "Raqamli imzo yigʻuvchilar">
-<!ENTITY protections.cryptominers.label "Kriptomaynerlar">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Bu saytdagi barcha kuzatuvchilar yuklandi, chunki siz himoyani oʻchirib qoʻygansiz.">
 <!ENTITY protections.noTrackersFound.description "Bu sahifada &brandShortName;ga maʼlum boʻlgan hech qanday kuzatuvchi yuklanmadi.">
 
@@ -968,7 +941,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; tizimiga kirish…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Hozir sinxronlash">
 <!ENTITY syncSyncNowItemSyncing.label "Sinxronlanmoqda…">
 <!ENTITY syncSyncNowItem.accesskey    "s">
@@ -1006,8 +978,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "M">
 
 <!ENTITY contentBlocking.socialblock.label "Ijtimoiy tarmoq kuzatuvchilari">
-
-<!ENTITY contentBlocking.cookies2.label "Saytlararo kuzatuvchi kukilar">
 
 <!ENTITY contentBlocking.cryptominers.label "Kriptomaynerlar">
 <!ENTITY contentBlocking.cryptominersView.label "Kriptomaynerlar">
