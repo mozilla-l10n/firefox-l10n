@@ -43,16 +43,13 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Maxfiy koʻrish)
        *[other] { $title } - { -brand-full-name } (Maxfiy koʻrish)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Sayt maʼlumotini koʻrish
 
 ## Tooltips for images appearing in the address bar
 
 urlbar-services-notification-anchor =
-    .tooltiptext = Xabarni oʻrnatish panelini ochish
+    .tooltiptext = Oʻrnatish haqidagi xabar panelini ochish
 urlbar-web-notification-anchor =
     .tooltiptext = Saytdan bildirishnoma olish imkoniyatini oʻzgartirish
 urlbar-midi-notification-anchor =
@@ -62,13 +59,13 @@ urlbar-eme-notification-anchor =
 urlbar-web-authn-anchor =
     .tooltiptext = Internetda tasdiqdan oʻtish panelini ochish
 urlbar-canvas-notification-anchor =
-    .tooltiptext = Canvas ichidagi ma’lumotlarga ruxsatni boshqarish
+    .tooltiptext = Canvas ichidagi maʼlumotlarga ruxsatni boshqarish
 urlbar-web-rtc-share-microphone-notification-anchor =
-    .tooltiptext = Mikrofonni sayt bilan bo‘lishishni boshqarish
+    .tooltiptext = Mikrofonni sayt bilan boʻlishishni boshqarish
 urlbar-default-notification-anchor =
     .tooltiptext = Xabar panelini ochish
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = Joylashuvni so‘rash panelini ochish
+    .tooltiptext = Joylashuvni soʻrash panelini ochish
 urlbar-xr-notification-anchor =
     .tooltiptext = Virtual reallikka ruxsat berish panelini ochish
 urlbar-storage-access-anchor =
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Kamroq yozib, koʻproq toping: manzillar panelidan { $engineName } orqali qidiring.
-urlbar-search-tips-redirect = { $engineName } tavsiyalari va brauzer tarixini koʻrish uchun qidiruvni shu yerdan boshlang.
 urlbar-search-tips-redirect-2 = { $engineName } tavsiyalari va brauzer tarixini koʻrish uchun qidiruvni manzillar panelidan boshlang.
+
+##
+
 
 ##
 
@@ -176,7 +175,7 @@ search-one-offs-change-settings-button =
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qidiruv sozlamalarini oʻzgartirish
 search-one-offs-context-open-new-tab =
-    .label = Yangi ichki oynadan qidirish
+    .label = Yangi varaqdan qidirish
     .accesskey = i
 search-one-offs-context-set-as-default =
     .label = Asosiy qidiruv tizimi sifatida oʻrnatish
