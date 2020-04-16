@@ -23,19 +23,24 @@ newsletter-subscribe-button = Chu'un sivɨn
 newsletter-thanks-title = ¡Kuta'vini!
 newsletter-thanks-message = De ntu nkachinu chu'un sivɨnu nuu tu'un Mozilla, sana nejika sa'anuma. Kune'ya nuu kanta correo noo'o a xíín spam jee nánukunu correo da nuu'u.
 footer-title = Firefox Developer Edition
+footer-message = ¿Nánukunu iin ka̱a̱ desarrollador ma va'a? Kune'ya ka̱a̱ nánuku Firefox nsa'ada da desarrolladores ji nuu satiñu nasɨ.
 footer-learn-more-link = Ka´vi kue´eka
 features-learn-more = Ka´vi kue´eka
 features-inspector-title = Inspector
+features-inspector-desc = Kune'ya je sa'a nasɨ código saa sa'anu plantillas koo ji nivel pixeles. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Consola
 features-debugger-title = Depurador
 features-debugger-desc = Depurador JavaScript ji soporte nuu framework noo'o. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-network-title = Red
+features-network-desc = Kune'ya da pedidos red a kuvi nakasɨ a xíín a sa'a kue nuu web noo'o. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Nuu chuva´a
 features-storage-desc = Tee, sama je xita caché, cookies, bases de datos ji datos sesión. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-responsive-title = Kua diseño responsivo
+features-responsive-desc = Sa'a pruebas sitios web nuu dispositivos íyo emulado nuu navagador. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Tee visual
 features-visual-editing-desc = Ke'i animaciones je alineamiento. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-performance-title = Naja satiñu
+features-performance-desc = Xita a jiasɨ botella, sa'a ñama da procesos jee va'a da componentes. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memoria
 features-memory-desc = Nani'i nuu too memoria je sa'a ka̱a̱ koo luli je ñama. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
