@@ -210,3 +210,24 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Xem tất cả
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Dễ dàng tạo mật khẩu an toàn
+cfr-whatsnew-lockwise-body = Thật khó để nghĩ về mật khẩu độc đáo, an toàn cho mọi tài khoản. Khi tạo mật khẩu, chọn trường mật khẩu để sử dụng mật khẩu được tạo an toàn từ { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Biểu tượng { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Nhận thông báo về mật khẩu dễ bị tấn công
+cfr-whatsnew-passwords-body = Tin tặc biết mọi người sử dụng lại cùng một mật khẩu. Nếu bạn đã sử dụng cùng một mật khẩu trên nhiều trang web và một trong những trang web đó đã bị rò rỉ dữ liệu, bạn sẽ thấy một cảnh báo trong { -lockwise-brand-short-name } để thay đổi mật khẩu của bạn trên các trang web đó.
+cfr-whatsnew-passwords-icon-alt = Biểu tượng khóa mật khẩu dễ bị tổn thương
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Làm cho hình trong hình toàn màn hình
+cfr-whatsnew-pip-fullscreen-body = Khi bạn bật video vào một cửa sổ nổi, bây giờ bạn có thể nhấp đúp vào cửa sổ đó để vào chế độ toàn màn hình.
+cfr-whatsnew-pip-fullscreen-icon-alt = Biểu tượng hình trong hình
