@@ -59,7 +59,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ta foydalanuvchi
        *[other] { $total } ta foydalanuvchi
     }
-cfr-doorhanger-pintab-description = Koʻp kirilgan saytlarga osongina kiring. Saytlarni ochiq ichki oynalarda saqlang (qayta ishga tushirganda ham).
+cfr-doorhanger-pintab-description = Koʻp kirilgan saytlarga osongina kiring. Saytlarni ochiq varaqlarda saqlang (qayta ishga tushirganda ham).
 
 ## These messages are steps on how to use the feature and are shown together.
 
@@ -191,4 +191,16 @@ cfr-doorhanger-socialtracking-dont-show-again = Shu kabi xabarlar boshqa menga c
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } bu yerda sizni ijtimoiy tarmoq kuzatishgia imkon bermadi
 
 ## Enhanced Tracking Protection Milestones
+
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
 
