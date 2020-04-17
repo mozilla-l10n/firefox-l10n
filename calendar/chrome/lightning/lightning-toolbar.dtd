@@ -43,6 +43,7 @@
 <!ENTITY lightning.toolbar.month.accesskey           "ด">
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
+<!ENTITY lightning.toolbar.appmenuButton.label       "เมนูแอป">
 <!ENTITY lightning.toolbar.appmenuButton1.tooltip    "แสดงเมนู &brandShortName;">
 <!ENTITY lightning.toolbar.calendarmenu.label        "บานหน้าต่างปฏิทิน">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "บ">
