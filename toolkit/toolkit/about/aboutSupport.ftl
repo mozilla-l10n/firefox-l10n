@@ -286,6 +286,11 @@ sandbox-proc-type-content = sisältö
 sandbox-proc-type-file = tiedostojen sisältö
 sandbox-proc-type-media-plugin = medialiitännäinen
 sandbox-proc-type-data-decoder = datan purkaja
+startup-cache-title = Käynnistyksen välimuisti
+startup-cache-disk-cache-path = Levyvälimuistin polku
+startup-cache-ignore-disk-cache = Ohita levyvälimuisti
+startup-cache-found-disk-cache-on-init = Levyvälimuisti löytyi alustuksessa
+startup-cache-wrote-to-disk-cache = Kirjoitettiin levyvälimuistiin
 launcher-process-status-0 = Käytössä
 launcher-process-status-1 = Ei käytössä johtuen viasta
 launcher-process-status-2 = Poistettu käytöstä pakottaen
@@ -309,6 +314,7 @@ touch-enabled = kosketusliittymä käytössä
 drag-enabled = vierityspalkin vastus käytössä
 keyboard-enabled = näppäimistö käytössä
 autoscroll-enabled = automaattivieritys käytössä
+zooming-enabled = portaaton nipistyszoomaus käytössä
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
