@@ -13,3 +13,6 @@
 <!ENTITY fieldMapImport.down.label "Mover in basso">
 <!ENTITY fieldMapImport.down.accesskey "b">
 <!ENTITY fieldMapImport.fieldListTitle "Campos del libro de adresses">
+<!ENTITY fieldMapImport.dataTitle "Datos a importar">
+<!ENTITY fieldMapImport.skipFirstRecord.label "Le prime registration contine le nomine de campos">
+<!ENTITY fieldMapImport.skipFirstRecord.accessKey "P">

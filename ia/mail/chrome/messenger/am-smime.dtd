@@ -22,6 +22,7 @@
 <!ENTITY doNotEncrypt.accesskey "N">
 <!ENTITY requireEncryptMessage.label "Exiger le cryptographia per defecto">
 <!ENTITY requireEncryptMessage.accesskey "d">
+<!ENTITY encryptionCert2.message "Certificato personal pro le cryptographia:">
 <!ENTITY digitalSign.certificate.button "Seliger…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Rader">
@@ -32,6 +33,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "a">
 <!ENTITY signingGroupTitle.label "Firma digital">
 <!ENTITY signMessage.label "Adjunger un signatura digital (predefinite)">
+<!ENTITY signMessage2.label "Adder mi firma digital per defecto">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Usar iste certificato pro signar digitalmente le messages que tu invia:">
 
