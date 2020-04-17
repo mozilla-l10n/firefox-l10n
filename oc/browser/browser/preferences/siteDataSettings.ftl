@@ -39,10 +39,10 @@ site-storage-persistent =
     .value = { site-storage-usage.value } (permanent)
 site-data-remove-all =
     .label = Suprimir tot
-    .accesskey = e
+    .accesskey = t
 site-data-remove-shown =
     .label = Suprimir tot çò afichat
-    .accesskey = e
+    .accesskey = a
 
 ## Removing
 
