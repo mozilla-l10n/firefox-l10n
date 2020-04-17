@@ -41,10 +41,16 @@
 <!ENTITY manageDevices.label "Dispositivos de securitate">
 <!ENTITY manageDevices.accesskey "c">
 
+<!ENTITY signingCert2.message "Certificato personal pro firma digital:">
 
+<!ENTITY sendingDefaults.label "Parametros predefinite pro inviar messages">
 
 
 <!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Gerer certificatos S/MIME">
+<!ENTITY manageCerts3.accesskey "G">
+<!ENTITY manageDevices2.label "Dispositivos de securitate S/MIME">
+<!ENTITY manageDevices2.accesskey "s">
 
 <!ENTITY technologySMIME.label "Preferer S/MIME">
 <!ENTITY technologyOpenPGP.label "Preferer OpenPGP">
@@ -58,3 +64,6 @@
 <!ENTITY certPicker.info  "Certificato:">
 <!ENTITY certPicker.detailsLabel "Detalios de certificato seligite:">
 
+<!ENTITY openpgpKey.message "Clave personal pro cryptographia e firma digital:">
+<!ENTITY openpgpKey.button "Definir le clave personal…">
+<!ENTITY openpgpKey.accesskey "o">
