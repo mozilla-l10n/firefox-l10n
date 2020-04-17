@@ -154,6 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Chu´un inka ka̱a̱…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
+<!ENTITY fxa.menu.signin.label "Kajie'e sesión &brandProductName;">
 <!ENTITY fxa.menu.account.label "Cuenta">
 <!ENTITY fxa.menu.settings.label "Ke´i">
 <!ENTITY fxa.menu.signOut.label "Kasɨ sesión…">
@@ -243,8 +244,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Síne panel tu´un chu´un">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Tetiñu traducción página">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tetiñu naja ni´i software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Síne panel MIDI">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Ka̱a̱ natava nasɨ nuu sitio web ya´a.">
 
 
 
