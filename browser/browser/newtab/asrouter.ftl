@@ -226,6 +226,7 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-ikon
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Få varsel om sårbare passord
 
 ## Picture-in-Picture fullscreen message
 
