@@ -590,6 +590,12 @@ history-remember-option-never =
 history-private-browsing-permanent =
     .label = Ntaka ichí ni'i nánuku yu'u
     .accesskey = p
+history-remember-browser-option =
+    .label = Naku'u historial nnánuku ji nxinuu
+    .accesskey = h
+history-remember-search-option =
+    .label = Naku´u nnánuku ji formularios.
+    .accesskey = f
 history-clear-on-close-settings =
     .label = Nake´i
     .accesskey = t
@@ -698,6 +704,9 @@ content-blocking-fingerprinters-label =
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Tetiñu da excepciones
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
@@ -763,6 +772,9 @@ certs-select-ask-option =
 certs-view =
     .label = Kune´ya certificados…
     .accesskey = C
+certs-devices =
+    .label = Ka̱a̱ seguridad...
+    .accesskey = D
 space-alert-learn-more-button =
     .label = Ka´vi kue´eka
     .accesskey = K
