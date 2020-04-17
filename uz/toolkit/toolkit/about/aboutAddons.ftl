@@ -117,15 +117,24 @@ disabled-unsigned-heading =
 disabled-unsigned-description = Quyidagi qo‘shimcha dasturlar { -brand-short-name } brauzerida foydalanish uchun tasdiqdan o‘tmagan. Siz <label data-l10n-name="find-addons">almashtiriladiganlarini topishingiz</label> yoki dasturchidan ularni tasdiqlashini so‘rashingiz mumkin.
 disabled-unsigned-learn-more = Onlayn xavfsizligingizni ta’minlash uchun qilayotgan harakatlarimiz haqida batafsil ma’lumot oling.
 disabled-unsigned-devinfo = Dasturchilar qo‘shimcha dasturlarini bizning qo‘llanmamizni o‘qib, tasdiqdan o‘tkazishga <label data-l10n-name="learn-more">qiziqishadi</label>.
+extensions-view-discopane =
+    .name = Tavsiyalar
+    .tooltiptext = { extensions-view-discopane.name }
 extensions-view-recent-updates =
     .name = Soʻnggi yangilanishlar
     .tooltiptext = { extensions-view-recent-updates.name }
 extensions-view-available-updates =
     .name = Mavjud yangilanishlar
     .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = Tavsiyalar
+addon-category-discover-title =
+    .title = Tavsiyalar
 addon-category-extension = Kengaytmalar
 addon-category-extension-title =
     .title = Kengaytmalar
+addon-category-theme = Mavzular
+addon-category-theme-title =
+    .title = Mavzular
 addon-category-plugin = Plaginlar
 addon-category-plugin-title =
     .title = Plaginlar
@@ -245,6 +254,10 @@ addon-open-about-debugging = Qo‘shimcha dasturlarni tuzatish
 
 ## Recommended add-ons page
 
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations =
+    Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
+    kengaytmalar, profil sozlamalari va foydalanish statistikasi asosida tavsiya etiladi.
 
 ## Add-on actions
 

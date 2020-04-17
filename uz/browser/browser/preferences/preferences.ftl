@@ -355,6 +355,10 @@ browsing-search-on-start-typing =
     .label = Yozishni boshlaganimda, matn izlansin
     .accesskey = n
 browsing-picture-in-picture-learn-more = Batafsil
+browsing-cfr-recommendations =
+    .label = Koʻrish vaqtida kengaytmalarni tavsiya qilish
+    .accesskey = t
+browsing-cfr-recommendations-learn-more = Batafsil
 
 ## General Section - Proxy
 
@@ -608,7 +612,7 @@ sync-engine-creditcards =
     .tooltiptext = Nomi, raqami va amal qilish muddati (faqat kompyuterda)
     .accesskey = K
 sync-engine-addons =
-    .label = Qo‘shimcha dasturlar
+    .label = Qoʻshimcha dasturlar
     .tooltiptext = Kompyuter uchun Firefox kengaytma va mavzulari
     .accesskey = Q
 sync-engine-prefs =
@@ -791,6 +795,9 @@ collection-health-report =
     .label = { -vendor-short-name }ga texnik va interaktiv ma’lumotlarni yuborish uchun { -brand-short-name }ga ruxsat berish
     .accesskey = l
 collection-health-report-link = Batafsil ma’lumot
+addon-recommendations =
+    .label = { -brand-short-name }ga moslashtirilgan kengaytmalarni tavsiya qilishga ruxsat berish
+addon-recommendations-link = Batafsil
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan

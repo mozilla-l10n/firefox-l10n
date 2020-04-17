@@ -62,7 +62,7 @@ options-sourceeditor-autoclosebrackets-label = Qavslarni avtomatik yopish
 options-sourceeditor-expandtab-tooltip =
     .title = Ichki oyna belgisi o‘rniga bo‘sh joylardan foydalanish
 options-sourceeditor-expandtab-label = Bo‘sh joylardan foydalanib xat boshidan boshlash
-options-sourceeditor-tabsize-label = Ichki oyna hajmi
+options-sourceeditor-tabsize-label = Varaq hajmi
 options-sourceeditor-keybinding-label = Tugmalar birikmasi
 options-sourceeditor-keybinding-default-label = Standart
 
@@ -88,9 +88,6 @@ options-enable-service-workers-http-tooltip =
     .title = Asboblar paneli bo‘lgan barcha ichki oynalar uchun HTTP ustida service workers ta’minotni yoqib qo‘yadi.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Faqat joriy seans, sahifani qayta yuklaydi
-
-##
-
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Gecko platformasi ma’lumotlarini koʻrsatish
