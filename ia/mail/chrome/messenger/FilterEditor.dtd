@@ -34,9 +34,16 @@
 <!ENTITY copyMessage.label "Copiar le message a">
 <!ENTITY forwardTo.label "Inviar le message ultra a">
 <!ENTITY replyWithTemplate.label "Responder con modello">
+<!ENTITY markMessageRead.label "Marcar como legite">
+<!ENTITY markMessageUnread.label "Marcar como non legite">
 <!ENTITY setJunkScore.label "Mitter stato indesirate a">
+<!ENTITY deleteMessage.label "Deler message">
+<!ENTITY ignoreThread.label "Ignorar argumento">
+<!ENTITY ignoreSubthread.label "Ignorar sub-argumento">
 <!ENTITY stopExecution.label "Stoppar le execution del filtro">
 
+<!ENTITY addAction.tooltip "Adder un nove action">
+<!ENTITY removeAction.tooltip "Remover iste action">
 
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
@@ -44,3 +51,5 @@
      are truncated in the widgets.
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">
