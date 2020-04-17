@@ -315,6 +315,7 @@ touch-enabled = tøtsj-input slått på
 drag-enabled = drag og slepp av rullelinje påslått
 keyboard-enabled = tastatur aktivert
 autoscroll-enabled = autorulling slått på
+zooming-enabled = glatt pinch-zoom aktivert
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

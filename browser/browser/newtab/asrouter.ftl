@@ -220,6 +220,8 @@ cfr-doorhanger-milestone-ok-button = Vis alle
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Lag enkelt trygge passord
+cfr-whatsnew-lockwise-body = Det er vanskeleg å kome på unike, trygge passord for kvar konto. Når du lagar eit passord, vel du passordfeltet for å bruke eit trygt, generert passord frå { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-ikon
 
 ## Vulnerable Passwords message
