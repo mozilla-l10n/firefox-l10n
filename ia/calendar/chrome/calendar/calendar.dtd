@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Crear un nove activitate" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Activitates" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Monstrar activitates completate">
 
 <!ENTITY calendar.today.button.label          "Hodie">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Monstrar mementos">
 <!ENTITY calendarproperties.cache3.label                   "Supporto non in linea">
 <!ENTITY calendarproperties.enabled.label                  "Activar iste agenda">
+<!ENTITY calendarproperties.enabled2.label                 "Activar iste agenda">
 <!ENTITY calendarproperties.forceDisabled.label            "Impossibile trovar le gestor de iste agenda. Isto eveni sovente quando tu ha disactivate o disinstallate certe additivos.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancellar le inscription">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "C">
