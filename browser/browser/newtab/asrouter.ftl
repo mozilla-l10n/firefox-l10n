@@ -214,3 +214,24 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Cree fácilmente contraseñas seguras
+cfr-whatsnew-lockwise-body = Es difícil pensar en contraseñas únicas y seguras para cada cuenta. Al crear una contraseña, seleccione el campo de contraseña para usar una contraseña segura y generada por { -brand-short-name }.
+cfr-whatsnew-lockwise-icon-alt = Icono { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Reciba alertas sobre contraseñas vulnerables
+cfr-whatsnew-passwords-body = Los piratas informáticos saben que las personas reutilizan las mismas contraseñas. Si usó la misma contraseña en varios sitios, y uno de esos sitios tuvo una violación de datos, a a ver un alerta en { -lockwise-brand-short-name } para cambiar su contraseña en esos sitios.
+cfr-whatsnew-passwords-icon-alt = Icono de contraseña vulnerable
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Llevar el picture-in-picture a pantalla completa
+cfr-whatsnew-pip-fullscreen-body = Cuando lleva un video a una ventana flotante, puede hacer doble clic en esa ventana para llevarlo a pantalla completa.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
