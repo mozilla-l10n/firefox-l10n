@@ -13,6 +13,7 @@ touchbar-fullscreen-exit = Kene nuu pantalla ka'nu
 find = Nánuku
 new-tab = Sukua jíía
 add-bookmark = Tee a ta´a ini noo´o
+reader-view = Vista ka'vi
 # Meant to match the string displayed in an empty URL bar.
 open-location = Nánuku a xíín chu´un iin nuu
 share = Kua´a ya´a
