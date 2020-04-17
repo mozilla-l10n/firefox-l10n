@@ -49,3 +49,5 @@
 <!ENTITY pref.systemcolors.accesskey "ส">
 
 <!ENTITY pref.eventsandtasks.label "เหตุการณ์และงาน" >
+<!ENTITY pref.editInTab.label "แก้ไขเหตุการณ์และงานในแท็บแทนในหน้าต่างโต้ตอบ" >
+<!ENTITY pref.editInTab.accesskey "ท">
