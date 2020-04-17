@@ -68,6 +68,8 @@ policy-LegacyProfiles = Poista käytöstä ominaisuus, joka pakottaa erillisen p
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Käytä oletuksena SameSite-evästeiden vanhaa toimintaa.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Palaa vanhaan SameSite-toimintaan tiettyjen sivustojen evästeiden osalta.
 
 ##
 

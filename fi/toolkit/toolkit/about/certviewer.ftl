@@ -29,6 +29,8 @@ certificate-viewer-id = Tunniste
 certificate-viewer-key-exchange-group = Avainvaihtoryhmä
 certificate-viewer-key-id = Avaimen tunniste
 certificate-viewer-key-size = Avaimen koko
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Perustuspaikka
 certificate-viewer-locality = Sijainti
 certificate-viewer-location = Sijainti
 certificate-viewer-logid = Lokin tunnus
@@ -95,3 +97,6 @@ certificate-viewer-download-pem = PEM (varmenne)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (varmenneketju)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
