@@ -12,6 +12,16 @@
 <!ENTITY alwaysEncryptMessage.label "Obligatori (permitte inviar solmente si tote le destinatarios ha certificatos)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Usa iste certificato pro cryptar e decryptar messages inviate a te:">
+
+<!ENTITY e2eLearnMore.label "Saper plus">
+
+
+<!ENTITY e2eTechPref.description "Technologia de cryptographia preferite:">
+
+<!ENTITY doNotEncrypt.label "Non activar le cryptographia per defecto">
+<!ENTITY doNotEncrypt.accesskey "N">
+<!ENTITY requireEncryptMessage.label "Exiger le cryptographia per defecto">
+<!ENTITY requireEncryptMessage.accesskey "d">
 <!ENTITY digitalSign.certificate.button "Seliger…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Rader">
@@ -31,7 +41,19 @@
 <!ENTITY manageDevices.label "Dispositivos de securitate">
 <!ENTITY manageDevices.accesskey "c">
 
+
+
+
+
+<!ENTITY technologySMIME.label "Preferer S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferer OpenPGP">
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Gerer claves OpenPGP">
+<!ENTITY manageKeys.accesskey "C">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seliger certificato">
 <!ENTITY certPicker.info  "Certificato:">
 <!ENTITY certPicker.detailsLabel "Detalios de certificato seligite:">
+
