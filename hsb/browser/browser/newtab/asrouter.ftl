@@ -228,6 +228,7 @@ cfr-doorhanger-milestone-ok-button = Wšě pokazać
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Wěste hesła lochko wutworić
+cfr-whatsnew-lockwise-body = Je ćežko na to myslić, jónkróćne, wěste hesła za kóžde konto wužiwać. Hdyž hesło wutworjeće, wubjerće hesłowe polo, zo byšće wěste, spłodźene hesło z { -brand-shorter-name } wužiwał.
 cfr-whatsnew-lockwise-icon-alt = Symbol { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
