@@ -16,6 +16,7 @@
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Nánuku yu´u)">
 
 <!ENTITY appmenu.tooltip                     "Síne menu">
+<!ENTITY navbarOverflow.label                "Kue'eka ka̱a̱...">
 
 <!-- Tab context menu -->
 
@@ -38,7 +39,9 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  undoCloseTab.label                 "Tanɨ nakasɨ nuu nɨ'ɨ pestaña">
 <!ENTITY  undoCloseTab.accesskey             "h">
+<!ENTITY  hiddenTabs.label                   "Pestañas yu'u">
 
+<!ENTITY  listAllTabs.label      "Kutuvi kuaiyo pestañas">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
 <!ENTITY  allTabsMenu.searchTabs.label       "Nánuku pestañas">
@@ -63,6 +66,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY importFromAnotherBrowserCmd.label "Nake'ema ji inka ka̱a̱ nánuku">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
+<!ENTITY taskManagerCmd.label "Tetiñu da tareas">
 
 <!ENTITY goOfflineCmd.label "Satiñu nko conexión">
 <!ENTITY goOfflineCmd.accesskey "k">
