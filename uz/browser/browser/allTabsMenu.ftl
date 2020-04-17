@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 all-tabs-menu-undo-close-tab =
-    .label = Yopilgan ichki oynani qaytarish
+    .label = Yopilgan varaqni qaytarish
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = Ichki oynalarni izlash
+    .label = Varaqlardan izlash
 all-tabs-menu-new-user-context =
-    .label = Yangi Konteyner ichki oynasi
+    .label = Yangi Konteyner varagʻi
 all-tabs-menu-hidden-tabs =
-    .label = Yashirilgan ichki oynalar
+    .label = Yashirilgan varaqlar
 all-tabs-menu-manage-user-context =
     .label = Konteynerlarni boshqarish
     .accesskey = O

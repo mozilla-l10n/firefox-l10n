@@ -25,12 +25,12 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Ichki oynani qistirish">
+<!ENTITY  pinTab.label                       "Varaqni qistirish">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "q">
-<!ENTITY  unpinTab.label                     "Qistirilgan ichki oynani olib tashlash">
+<!ENTITY  unpinTab.label                     "Qistirilgan varaqni olib tashlash">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -39,7 +39,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "q">
 <!ENTITY  sendLinkToDevice.label             "Havolani qurilmaga uzatish">
 <!ENTITY  sendLinkToDevice.accesskey         "q">
-<!ENTITY  undoCloseTab.label                 "Yopilgan ichki oynani qaytarish">
+<!ENTITY  undoCloseTab.label                 "Yopilgan varaqni qaytarish">
 <!ENTITY  undoCloseTab.accesskey             "q">
 <!ENTITY  hiddenTabs.label                   "Yashirilgan ichki oynalar">
 
@@ -174,7 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.sendTab.description "Ichki oynani hisobingizdan kirilgan boshqa qurilmaga yuboring.">
+<!ENTITY fxa.service.sendTab.description "Varaqni hisobingizdan kirilgan boshqa qurilmaga yuboring.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
