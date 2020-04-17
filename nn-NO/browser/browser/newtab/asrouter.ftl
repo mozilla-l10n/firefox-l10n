@@ -228,7 +228,7 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-ikon
 
 cfr-whatsnew-passwords-header = Få varsel om sårbare passord
 cfr-whatsnew-passwords-body = Hackarar veit at folk brukar dei same passorda på nytt. Dersom du brukar det same passordet på fleire nettstadar, og ein av desse nettstadane er i ein datalekkasje, vil du sjå eit varsel i { -lockwise-brand-short-name } om å endre passordet ditt på desse nettstadane.
-cfr-whatsnew-passwords-icon-alt = Sårbart passordnøkkel-ikon
+cfr-whatsnew-passwords-icon-alt = Sårbart passord, nøkkelikon
 
 ## Picture-in-Picture fullscreen message
 
