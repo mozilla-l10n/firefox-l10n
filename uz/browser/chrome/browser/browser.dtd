@@ -637,7 +637,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "Pocket roʻyxatini koʻrish">
 
-<!ENTITY emailPageCmd.label           "Havolani e-pochtadan jo‘natish">
+<!ENTITY emailPageCmd.label           "Havolani emaildan joʻnatish">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Sahifani saqlash…">
 <!ENTITY savePageCmd.accesskey        "s">
@@ -656,11 +656,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "V">
 <!ENTITY saveAudioCmd.label           "Audioni saqlash…">
 <!ENTITY saveAudioCmd.accesskey       "o">
-<!ENTITY emailImageCmd.label          "Rasmni e-pochtadan jo‘natish…">
+<!ENTITY emailImageCmd.label          "Rasmni emaildan joʻnatish…">
 <!ENTITY emailImageCmd.accesskey      "m">
-<!ENTITY emailVideoCmd.label          "Videoni e-pochtadan jo‘natish">
+<!ENTITY emailVideoCmd.label          "Videoni emaildan joʻnatish">
 <!ENTITY emailVideoCmd.accesskey      "o">
-<!ENTITY emailAudioCmd.label          "Audioni e-pochtadan jo‘natish…">
+<!ENTITY emailAudioCmd.label          "Audioni emaildan joʻnatish…">
 <!ENTITY emailAudioCmd.accesskey      "A">
 <!ENTITY playPluginCmd.label          "Ushbu plaginni faollashtirish">
 <!ENTITY playPluginCmd.accesskey      "f">
