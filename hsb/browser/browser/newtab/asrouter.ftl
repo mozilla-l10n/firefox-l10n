@@ -239,4 +239,5 @@ cfr-whatsnew-passwords-icon-alt = Symbol zranitych hesłow
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Połnu wobrazowku wobraz-we-wobrazu wužiwać
+cfr-whatsnew-pip-fullscreen-body = Hdyž widejo do znošowaceho so wokna tykaće, móžeće dwójce na te wokno kliknyć, zo byšće jo w połnej wobrazowce wobhladał.
 cfr-whatsnew-pip-fullscreen-icon-alt = Symbol wobraz-we-wobrazu
