@@ -1038,7 +1038,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateUnsupported.panelUI.label "Keyingi yangilanishlarni amalga oshira olmaysiz">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName;ni yangilash uchun uni qayta ishga tushiring">
 
-<!ENTITY newTabControlled.header.message "Yangi ichki oyna o‘zgardi.">
+<!ENTITY newTabControlled.header.message "Yangi varaq oʻzgardi.">
 <!ENTITY newTabControlled.keepButton.label "O‘zgarishlarni saqlash">
 <!ENTITY newTabControlled.keepButton.accesskey "K">
 <!ENTITY newTabControlled.disableButton.label "Kengaytmani o‘chirib qo‘yish">
@@ -1052,8 +1052,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Kengaytmani o‘chirish">
 <!ENTITY homepageControlled.disableButton.accesskey "D">
 
-<!ENTITY tabHideControlled.header.message "Yashirin ichki oynalarga kirish">
-<!ENTITY tabHideControlled.keepButton.label "Ichki oynalarni yashirish">
+<!ENTITY tabHideControlled.header.message "Yashirin varaqlarga kirish">
+<!ENTITY tabHideControlled.keepButton.label "Varaqlarni yashirish">
 <!ENTITY tabHideControlled.keepButton.accesskey "K">
 <!ENTITY tabHideControlled.disableButton.label "Kengaytmani o‘chirish">
 <!ENTITY tabHideControlled.disableButton.accesskey "D">
