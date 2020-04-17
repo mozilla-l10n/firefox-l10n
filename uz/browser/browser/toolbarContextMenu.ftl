@@ -3,19 +3,19 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-reload-selected-tab =
-    .label = Tanlangan ichki oynani yangilash
+    .label = Tanlangan varaqni yangilash
     .accesskey = y
 toolbar-context-menu-reload-selected-tabs =
-    .label = Tanlangan ichki oynalarni yangilash
+    .label = Tanlangan varaqlarni yangilash
     .accesskey = y
 toolbar-context-menu-bookmark-selected-tab =
     .label = Tanlangan varaqni xatchoʻpga qoʻshish
     .accesskey = q
 toolbar-context-menu-bookmark-selected-tabs =
-    .label = Tanlangan ichki oynalarni xatchoʻpga qoʻshish
+    .label = Tanlangan varaqlarni xatchoʻpga qoʻshish
     .accesskey = t
 toolbar-context-menu-select-all-tabs =
-    .label = Barcha ichki oynalarni tanlash
+    .label = Barcha varaqlarni tanlash
     .accesskey = l
 toolbar-context-menu-undo-close-tab =
     .label = Yopilgan varaqni qaytarish
