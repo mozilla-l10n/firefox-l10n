@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+abuse-report-learnmore =
+    Qaysi muammoni tanlashni bilamayapsizmi?
+    <a data-l10n-name="learnmore-link">Kengaytma va mavzular ustidan shikoyat qilish haqida batafsil</a>
 
 ## Panel buttons.
 

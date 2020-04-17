@@ -254,6 +254,16 @@ addon-open-about-debugging = Qo‘shimcha dasturlarni tuzatish
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Kengaytmalar va mavzular brauzeringiz uchun ilovalarga oʻxshaydi.
+    Ular parollaringizni himoya qiladi, videolarni yuklab oladi, chegirmalarni topadi,
+    asabbuzar reklamalarni bloklaydi, brauzer koʻrinishini oʻzgartiradi.
+    Bunday kichik dasturiy taʼminotlarni begona dasturchilar ishlab chiqadi.
+    Bu yerdan mutlaq xavfsizligingiz, samaradorlik va funksionallik uchun { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">tavsiya etiladigan</a> kengaytma
+    va mavzular toʻplamini topish mumkin.
 # Notice to make user aware that the recommendations are personalized.
 discopane-notice-recommendations =
     Ayrim tavsiyalar aynan siz uchun moslashtirilgan. Ular siz oʻrnatgan boshqa 
@@ -264,8 +274,11 @@ discopane-notice-recommendations =
 
 ## Pending uninstall message bar
 
+recommended-themes-heading = Tavsiya etilgan mavzular
 
 ## Page headings
 
+theme-heading = Mavzularni boshqarish
+theme-heading-search-label = Yana mavzu topish
 addon-page-options-button =
     .title = Barcha qoʻshimcha dasturlar uchun asboblar
