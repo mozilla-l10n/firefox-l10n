@@ -225,5 +225,6 @@ cfr-whatsnew-passwords-icon-alt = Icône de clé de mot de passe vulnérable
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Passez du petit au grand écran
 cfr-whatsnew-pip-fullscreen-body = Lorsque vous avez placé une vidéo dans une fenêtre flottante, vous pouvez maintenant double-cliquer sur celle-ci pour passer en plein écran.
 cfr-whatsnew-pip-fullscreen-icon-alt = Icône d’incrustation vidéo
