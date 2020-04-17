@@ -31,6 +31,8 @@ policy-CertificatesDescription = 証明書を追加、または組み込みの�
 
 policy-Cookies = Cookie の保存をウェブサイトに許可または拒否します。
 
+policy-DisabledCiphers = 暗号を無効にします。
+
 policy-DefaultDownloadDirectory = デフォルトダウンロードディレクトリーを設定します。
 
 policy-DisableAppUpdate = { -brand-short-name } の更新を禁止します。
