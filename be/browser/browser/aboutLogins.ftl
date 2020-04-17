@@ -167,6 +167,10 @@ breach-alert-dismiss =
 
 ## Vulnerable Password notification
 
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Перайсці да { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Падрабязней
 
 ## Error Messages
 
