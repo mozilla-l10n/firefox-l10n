@@ -198,4 +198,5 @@ cfr-whatsnew-lockwise-icon-alt = סמל { -lockwise-brand-short-name }
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = העברת מצב תמונה בתוך תמונה למסך מלא
 cfr-whatsnew-pip-fullscreen-icon-alt = סמל תמונה בתוך תמונה

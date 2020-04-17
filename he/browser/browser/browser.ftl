@@ -218,6 +218,7 @@ identity-permissions-reload-hint = יתכן שיהיה עליך לרענן את 
 identity-permissions-empty = לא סופקו לאתר זה הרשאות מיוחדות.
 identity-clear-site-data =
     .label = ניקוי עוגיות ונתוני אתרים…
+identity-connection-not-secure-security-view = החיבור לאתר זה אינו מאובטח.
 identity-connection-verified = התחברת לאתר זה באופן מאובטח.
 identity-ev-owner-label = האישור הונפק עבור:
 identity-description-custom-root = ‏Mozilla אינה מזהה את מנפיק האישורים הזה. ייתכן שהוא נוסף ממערכת ההפעלה שלך או על־ידי מנהל מערכת. <label data-l10n-name="link">מידע נוסף</label>
