@@ -113,27 +113,27 @@ startup-restore-warn-on-quit =
     .label = Brauzerdan chiqishda sizni ogohlantiradi
 disable-extension =
     .label = Kengaytmani oʻchirib qoʻyish
-tabs-group-header = Ichki oynalar
+tabs-group-header = Varaqlar
 ctrl-tab-recently-used-order =
-    .label = Ctrl+Tab yordamida ichki oynalarga so‘nggi foydalanish tartibida o‘tish mumkin
+    .label = Ctrl+Tab yordamida varaqlarga soʻnggi foydalanish tartibida oʻtish mumkin
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Havolalarni ichki oynada ochish
+    .label = Havolalarni yangi oynalarning varaqlarida ochish
     .accesskey = w
 warn-on-close-multiple-tabs =
-    .label = Bir nechta ichki oynalar yopilayotganda ogohlantirilsin
+    .label = Bir nechta varaqlar yopilayotganda ogohlantirilsin
     .accesskey = m
 warn-on-open-many-tabs =
-    .label = { -brand-short-name }ni sekinlashtirishi mumkin bo‘lgan bir necha ichki oynalar ochilayotganda ogohlantirilsin
+    .label = { -brand-short-name }ni sekinlashtirishi mumkin bo‘lgan bir necha varaqlar ochilayotganda ogohlantirilsin
     .accesskey = o
 switch-links-to-new-tabs =
-    .label = Havola yangi ichki oynada ochilganda, tezda unga o‘tilsin
+    .label = Havola yangi varaqda ochilganda, tezda unga oʻtilsin
     .accesskey = h
 show-tabs-in-taskbar =
-    .label = Ichki oynalarni oldindan ko‘rishni vazifalar panelida ko‘rsatish
+    .label = Varaqlarning umumiy koʻrinishini vazifalar panelida koʻrsatish
     .accesskey = v
 browser-containers-enabled =
-    .label = Konteyner ichki oynalarni yoqib qo‘yish
+    .label = Konteyner varaqlarini yoqib qoʻyish
     .accesskey = y
 browser-containers-learn-more = Batafsil ma’lumot
 browser-containers-settings =
@@ -147,8 +147,8 @@ containers-disable-alert-desc =
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] Konteynerda { $tabCount } ta ichki oynani yopish
-       *[other] Konteynerda { $tabCount } ta ichki oynani yopish
+        [one] Konteynerda { $tabCount } ta varaqni yopish
+       *[other] Konteynerda { $tabCount } ta varaqni yopish
     }
 containers-disable-alert-cancel-button = Yoniq qoldirish
 containers-remove-alert-title = Bu konteyner olib tashlansinmi?
@@ -329,7 +329,7 @@ performance-allow-hw-accel =
     .accesskey = k
 performance-limit-content-process-option = Kontent jarayoni cheklovi
     .accesskey = c
-performance-limit-content-process-enabled-desc = Bir nechta ichki oynalardan foydalanilganda qo‘shimcha kontent jarayoni samaradorlikni oshiradi, ammo ko‘proq xotiradan foydalanadi.
+performance-limit-content-process-enabled-desc = Bir nechta varaqlardan foydalanilganda qoʻshimcha kontent jarayoni samaradorlikni oshiradi, ammo koʻproq xotiradan foydalanadi.
 performance-limit-content-process-blocked-desc = Kontent jarayoni miqdorini o‘zgartirish faqatgina { -brand-short-name } multijarayonlari bilan mavjud.  <a data-l10n-name="learn-more">Multijarayonlar yoqilganda tekshirish usuli</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -367,13 +367,13 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Yangi oyna va ichki oynalar
-home-new-windows-tabs-description2 = Bosh sahifa, yangi oyna va ichki oynalarni ochganda nima ko‘rinishi kerakligini tanlang.
+home-new-windows-tabs-header = Yangi oyna va varaqlar
+home-new-windows-tabs-description2 = Bosh sahifa, yangi oyna va varaqlarni ochganda nima koʻrinishi kerakligini tanlang.
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Bosh sahifa va yangi oynalar
-home-newtabs-mode-label = Yangi ichki oynalar
+home-newtabs-mode-label = Yangi varaqlar
 home-restore-defaults =
     .label = Asliga tiklash
     .accesskey = t
@@ -507,7 +507,7 @@ containers-back-button =
             [windows] Parametrlarga qaytish
            *[other] Parametrlarga qaytish
         }
-containers-header = Ichki oynalar konteyneri
+containers-header = Konteynerdagi varaqlar
 containers-add-button =
     .label = Yangi konteyner qo‘shish
     .accesskey = q
@@ -592,7 +592,7 @@ sync-engine-history =
     .label = Tarix
     .accesskey = T
 sync-engine-tabs =
-    .label = Ochiq ichki oynalar
+    .label = Ochiq varaqlar
     .tooltiptext = Barcha sinxronlangan qurilmalardagi ochiq ichki oynalar ro‘yxati
     .accesskey = O
 sync-engine-logins =
@@ -726,7 +726,7 @@ addressbar-locbar-bookmarks-option =
     .label = Xatcho‘plar
     .accesskey = X
 addressbar-locbar-openpage-option =
-    .label = Ichki oynalarni ochish
+    .label = Varaqlarni ochish
     .accesskey = o
 addressbar-suggestions-settings = Qidiruv tizimi tavsiyalari uchun sozlamalarni o‘zgartirish
 

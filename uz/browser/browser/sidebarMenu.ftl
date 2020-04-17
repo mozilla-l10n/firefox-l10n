@@ -7,6 +7,6 @@ sidebar-menu-bookmarks =
 sidebar-menu-history =
     .label = Tarix
 sidebar-menu-synced-tabs =
-    .label = Sinxronlangan ichki oynalar
+    .label = Sinxronlangan varaqlar
 sidebar-menu-close =
     .label = Yon panelni yopish
