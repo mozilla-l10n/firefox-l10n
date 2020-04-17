@@ -26,6 +26,8 @@
 <!ENTITY contextArchive.accesskey "A">
 <!ENTITY contextPeriodic.accesskey "e">
 
+<!ENTITY filterActionDesc.label "Developpar iste actiones:">
+<!ENTITY filterActionDesc.accesskey "D">
 
 
 <!-- New Style Filter Rule Actions -->
