@@ -105,4 +105,5 @@ certificate-viewer-export = Eksporter
 certificate-viewer-tab-mine = Dine sertifikat
 certificate-viewer-tab-people = Personar
 certificate-viewer-tab-servers = Serverar
+certificate-viewer-tab-ca = Utskrivarar
 certificate-viewer-tab-unkonwn = Ukjent
