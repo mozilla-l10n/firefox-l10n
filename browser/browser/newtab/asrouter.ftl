@@ -214,3 +214,18 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vis alle
     .accesskey = s
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-ikon
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Ta bilde-i-bilde fullskjerm
+cfr-whatsnew-pip-fullscreen-icon-alt = Bilde-i-bilde ikon
