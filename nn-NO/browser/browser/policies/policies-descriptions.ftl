@@ -70,6 +70,7 @@ policy-LegacyProfiles = Slå av funksjonen som tvingar fram ein eigen profil for
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Slå på standard innstilling for forelda SameSite-oppførsel for infokapslar.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Gå tilbake til forelda SameSite-oppførsel for infokapslar på spesifiserte nettstadar.
 
 ##
 
