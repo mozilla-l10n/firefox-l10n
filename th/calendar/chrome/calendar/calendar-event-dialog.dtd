@@ -190,8 +190,10 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "ใช้ข้อเสนอ">
 <!ENTITY counter.button.proposal.accesskey                "ช">
+<!ENTITY counter.button.proposal.tooltip2                 "ช่องเหตุการณ์จะถูกเติมโดยใช้ค่าจากการโต้แย้ง โดยจะแจ้งเตือนให้ผู้เข้าร่วมทั้งหมดทราบในภายหลังไม่ว่าจะบันทึกโดยมีหรือไม่มีการเปลี่ยนแปลงเพิ่มเติม">
 <!ENTITY counter.button.original.label                    "ใช้ข้อมูลดั้งเดิม">
 <!ENTITY counter.button.original.accesskey                "ช">
+<!ENTITY counter.button.original.tooltip2                 "ช่องจะถูกตั้งเป็นค่าจากเหตุการณ์ดั้งเดิมจากเมื่อก่อนที่จะมีการสร้างการโต้แย้ง">
 
 <!-- Main page -->
 <!ENTITY event.title.textbox.label                        "ชื่อเรื่อง:" >
@@ -421,5 +423,6 @@
 <!ENTITY summary.dialog.decline.label           "ปฏิเสธ">
 <!ENTITY summary.dialog.decline.tooltiptext     "ปฏิเสธคำเชิญ">
 <!ENTITY summary.dialog.dontsend.label          "ไม่ส่งการตอบสนอง">
+<!ENTITY summary.dialog.dontsend.tooltiptext    "เปลี่ยนสถานะการเข้าร่วมโดยไม่ส่งการตอบกลับไปยังผู้จัดแล้วปิดหน้าต่าง">
 <!ENTITY summary.dialog.send.label              "ส่งการตอบสนองตอนนี้">
 <!ENTITY summary.dialog.send.tooltiptext        "ส่งการตอบสนองไปยังผู้จัดแล้วปิดหน้าต่าง">
