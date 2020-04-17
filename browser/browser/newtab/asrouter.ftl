@@ -233,4 +233,5 @@ cfr-whatsnew-passwords-icon-alt = Sårbart passord, nøkkelikon
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Ta bilde-i-bilde fullskjerm
+cfr-whatsnew-pip-fullscreen-body = Når du sprett ein video inn i eit flytande vindauge, kan du no dobbelklikke på det vindauget for å gå i fullskjerm.
 cfr-whatsnew-pip-fullscreen-icon-alt = Bilde-i-bilde ikon
