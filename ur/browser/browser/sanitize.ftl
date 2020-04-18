@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sanitize-prefs =
-    .title = سابقات صاف کرنے کی ترتیبات
+    .title = سابقات صاف کرنے کی سیٹنگز
     .style = width: 34em
 sanitize-prefs-style =
     .style = width: 17em

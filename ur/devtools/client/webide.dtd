@@ -136,7 +136,7 @@
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "آلہ سیٹنگز">
-<!ENTITY devicesetting_search "تلاش کی ترتیبات">
+<!ENTITY devicesetting_search "تلاش کی سیٹنگز">
 <!ENTITY devicesetting_newname "نیا سیٹگ کا نام">
 <!ENTITY devicesetting_newtext "سیٹنگ قدر">
 <!ENTITY devicesetting_addnew "نئی سیٹ کے لئے اضافہ کریں">

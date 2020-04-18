@@ -15,15 +15,15 @@ graph-week-summary-private-window = اس ہفتے ٹریکرز{ -brand-short-nam
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
 protection-report-header-details-standard = تحفظ کی سطح <b> معیاری</ b> پر سیٹ کی گئی ہے
-    .title = رازداری کی ترتیبات میں جائیں
+    .title = رازداری کی سیٹنگز میں جائیں
 protection-report-header-details-strict = تحفظ کی سطح <b> سخت </ b> پر سیٹ کی گئی ہے
-    .title = رازداری ترتیبات  میں چایں
+    .title = رازداری سیٹنگز  میں چایں
 protection-report-header-details-custom = تحفظ کی سطح <b> ‏مخصوص </ b> پر سیٹ کی گئی ہے
-    .title = رازداری کی ترتیبات پر جائیں
+    .title = رازداری کی سیٹنگز پر جائیں
 protection-report-page-title = رازداری سے تحفظ
 protection-report-content-title = رازداری سے تحفظ
 etp-card-title = توسيعى سراغ کاری تحفظ
-protection-report-manage-protections = ترتیبات بندرست کریں
+protection-report-manage-protections = سیٹنگز بندرست کریں
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = آج

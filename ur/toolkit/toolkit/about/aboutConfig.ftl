@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = اس سے آپ کے وارنٹی کی خلاف ورزی ہوسکتی ہے!
-config-about-warning-text = اعلی ترتیبات میں تبدیلی سے ایپلی کیشن کی پائیداری، حفاظت اور کارکردگی پر برا اثر پڑ سکتا ہے۔ اگر آپ ان تبدیلیوں کے اثرات سے آگاہ ہیں تو اسے جاری رکھیں۔
+config-about-warning-text = اعلی سیٹنگز میں تبدیلی سے ایپلی کیشن کی پائیداری، حفاظت اور کارکردگی پر برا اثر پڑ سکتا ہے۔ اگر آپ ان تبدیلیوں کے اثرات سے آگاہ ہیں تو اسے جاری رکھیں۔
 config-about-warning-button =
     .label = میں یہ خطرہ! قبول کرتا ہوں
 config-about-warning-checkbox =

@@ -50,7 +50,7 @@ onboarding-fullpage-form-email =
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }کو  اپنے ساتھ جائے
-onboarding-sync-welcome-content = اپنے تمام آلات پر اپنی نشانیاں ، سابقات ، پاس ورڈ اور دیگر ترتیبات حاصل کریں۔
+onboarding-sync-welcome-content = اپنے تمام آلات پر اپنی نشانیاں ، سابقات ، پاس ورڈ اور دیگر سیٹنگز حاصل کریں۔
 onboarding-sync-welcome-learn-more-link = Firefox اکاؤنٹس کے بارے میں مزید سیکھیں
 onboarding-sync-form-input =
     .placeholder = ای میل
@@ -100,7 +100,7 @@ onboarding-ghostery-text = Ghostery کے طرہ ایکسٹینشن کے ساتھ
 onboarding-fxa-title = ہمہ وقت سازی
 onboarding-tracking-protection-title2 = سراغ کاری سے تحفظ
 onboarding-tracking-protection-button2 = یہ کس طرح کام کرتا ہے
-onboarding-data-sync-title = اپنی ترتیبات اپنے ساتھ رکھیں
+onboarding-data-sync-title = اپنی سیٹنگز اپنے ساتھ رکھیں
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = جہاں بھی آپ { -brand-product-name } استعمال کرتے ہیں ہر جگہ اپنے بُک مارکس ، پاس ورڈز اور  مزید چیزوں کو سنک کریں ۔
 onboarding-data-sync-button2 = { -sync-brand-short-name } میں  سائن ان کریں

@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = کنکشن ترتیبات
+    .title = کنکشن سیٹنگز
     .style =
         { PLATFORM() ->
             [macos] width: 44em
@@ -18,13 +18,13 @@ connection-proxy-option-no =
     .label = کوئی پراکسی نہیں
     .accesskey = y
 connection-proxy-option-system =
-    .label = نظام کی پراکسی ترتیبات استعمال کریں
+    .label = نظام کی پراکسی سیٹنگز استعمال کریں
     .accesskey = U
 connection-proxy-option-auto =
-    .label = اس نیٹورک کے لیے پراکسی ترتیبات خود کھوج کریں
+    .label = اس نیٹورک کے لیے پراکسی سیٹنگز خود کھوج کریں
     .accesskey = w
 connection-proxy-option-manual =
-    .label = من متابک پراکسی ترتیبات
+    .label = من متابک پراکسی سیٹنگز
     .accesskey = M
 connection-proxy-http = HTTP پراکسی
     .accesskey = x

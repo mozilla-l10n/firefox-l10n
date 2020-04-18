@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "اگر آپ متعدد پروفائل بناتے ہیں تو آپ پروفائل ناموں کے ذریعے ان میں فرق کر سکتے ہیں۔ آپ یہاں مہیا کیا گیا نام استعمال کرسکتے ہیں یا اپنا کوئی نام استعمال کرسکتے ہیں۔">
 <!ENTITY profilePrompt.label            "نیا پروفائل نام داخل کریں:">
 <!ENTITY profilePrompt.accesskey        "د">
-<!ENTITY profileDirectoryExplanation.text   "آپ کی ترتیبات، ترجیحات اور دیگر متعلقہ کوائف اس جگح محفوظ ہوں گی:">
+<!ENTITY profileDirectoryExplanation.text   "آپ کی سیٹنگز، ترجیحات اور دیگر متعلقہ کوائف اس جگح محفوظ ہوں گی:">
 <!ENTITY profileDefaultName             "طے شدہ صارف">
 <!ENTITY button.choosefolder.label      "پوشہ انتخاب کریں…">
 <!ENTITY button.choosefolder.accesskey  "ا">

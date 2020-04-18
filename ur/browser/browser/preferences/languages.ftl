@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window =
-    .title = ویب صفحہ زبان ترتیبات
+    .title = ویب صفحہ زبان سیٹنگز
     .style = width: 40em
 languages-close-key =
     .key = w
-languages-description = بعض اوقات ویب صفہ ایک سے زیادہ زبانوں میں دستیاب ہوتے ہیں۔ ویب صفحوں نمائش کرنے کے لیے، زبانوں کی ترجیحی ترتیب انتخاب کریں۔
+languages-description = بعض اوقات ویب صفہ ایک سے زیادہ زبانوں میں دستیاب ہوتے ہیں۔ ویب صفحوں نمائش کرنے کے لیے، زبانوں کی ترجیحی سیٹنگ انتخاب کریں۔
 languages-customize-spoof-english =
     .label = درجہ افزوں رازداری کے لیے ویب صفحات کے انگریزی ورژن کی درخواست کریں
 languages-customize-moveup =
@@ -39,9 +39,9 @@ languages-code-format =
 languages-active-code-format =
     .value = { languages-code-format.label }
 browser-languages-window =
-    .title = { -brand-short-name } زبان ترتیبات
+    .title = { -brand-short-name } زبان سیٹنگز
     .style = width: 40em
-browser-languages-description = { -brand-short-name } آپ کی پہلی زبان طے شدہ طور پر ظاہر کرے گا اور اگر ضروری ہو تو وہ ظاہر ترتیب میں متبادل زبانوں کو ظاہر کرے گا۔
+browser-languages-description = { -brand-short-name } آپ کی پہلی زبان طے شدہ طور پر ظاہر کرے گا اور اگر ضروری ہو تو وہ ظاہر سیٹنگ میں متبادل زبانوں کو ظاہر کرے گا۔
 browser-languages-search = مزید زبانوں کے لئے تلاش کریں...
 browser-languages-searching =
     .label = زبانوں کے لئے تلاش کر رہا ہے...

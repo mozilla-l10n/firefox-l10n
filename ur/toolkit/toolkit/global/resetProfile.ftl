@@ -9,6 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = تازہ شروع کریں تاکہ مسائل پیوست کریں اور سرانجام دہی بحال کریں
 refresh-profile-description-details = یہ:
 refresh-profile-remove = اپنے ایڈ اون اور تخصیص کاری ہٹائیں
-refresh-profile-restore = اپنے براؤزر کی ترتیبات کو طےشدہ پہ بحال کریں
+refresh-profile-restore = اپنے براؤزر کی سیٹنگز کو طےشدہ پہ بحال کریں
 refresh-profile = { -brand-short-name } کی صفائی کریں
 refresh-profile-button = { -brand-short-name } تازہ کریں…

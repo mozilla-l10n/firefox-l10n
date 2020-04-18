@@ -110,13 +110,13 @@ permissions-exceptions-autoplay-media-desc2 = آپ اس بات کی وضاحت �
 ## Site Permissions - Autoplay
 
 permissions-site-autoplay-window =
-    .title = ترتیبات - آٹو پلے
+    .title = سیٹنگز - آٹو پلے
     .style = { permissions-window.style }
 
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
-    .title = ترتیبات - نوٹیفکیشن اجازات
+    .title = سیٹنگز - نوٹیفکیشن اجازات
     .style = { permissions-window.style }
 permissions-site-notification-desc = مندرجہ ذیل ویب سائٹ نے آپ کو اطلاعات بھیجنیں کی درخواست کی ہے۔ آپ اس بات کی وظاحت کر سکتے ہے کہ کون سے ویب سائٹ آپکو اطلاعات بھیجنیں کی اجازت رخھتے ہے۔ آپ اطلاعات کی اجازت دینے کا مطالبہ کرتی نئی درخواست کو روک بھی سکتے ہے۔
 permissions-site-notification-disable-label =
@@ -126,7 +126,7 @@ permissions-site-notification-disable-desc = یہ کسی بھی ویب سائٹ 
 ## Site Permissions - Location
 
 permissions-site-location-window =
-    .title = ترتیبات- محل وقوع اجازت
+    .title = سیٹنگز- محل وقوع اجازت
     .style = { permissions-window.style }
 permissions-site-location-desc = مندرجہ ذیل ویب سائٹ نے آپکے موجودہ مقام کے رسائی کی درخواست کی ہے۔ آپ اس بات کی وظاحت کر سکتے ہے کہ کون سے ویب سائٹ آپکے موجودہ مقام کے رسائی کی اجازت رخھتے ہے۔ آپ اپنے موجودہ مقام کے رسائی کی اجازت دینے کا مطالبہ کرتی نئی درخواست کو روک بھی سکتے ہے۔
 permissions-site-location-disable-label =
@@ -136,7 +136,7 @@ permissions-site-location-disable-desc = یہ کسی بھی ویب سائٹ کو
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = ترتیبات - ورچوئل رئیلٹی اجازت
+    .title = سیٹنگز - ورچوئل رئیلٹی اجازت
     .style = { permissions-window.style }
 permissions-site-xr-disable-label =
     .label = اپنی ورچوئل رئیلٹی ڈیوائسز تک رسائی کے لیے نئی درخواستوں کو مسدود کریں
@@ -144,7 +144,7 @@ permissions-site-xr-disable-label =
 ## Site Permissions - Camera
 
 permissions-site-camera-window =
-    .title = ترتیبات- کیمرہ اجازتیں
+    .title = سیٹنگز- کیمرہ اجازتیں
     .style = { permissions-window.style }
 permissions-site-camera-desc = مندرجہ ذیل ویب سائٹ نے آپکے کیمرے کے رسائی کی درخواست کی ہے۔ آپ اس بات کی وظاحت کر سکتے ہے کہ کون سے ویب سائٹ آپکے کیمرے کے رسائی کی اجازت رخھتے ہے۔ آپ اپنے کیمرے کے رسائی کی اجازت دینے کا مطالبہ کرتی نئی درخواست کو روک بھی سکتے ہے۔
 permissions-site-camera-disable-label =
@@ -154,7 +154,7 @@ permissions-site-camera-disable-desc = یہ کسی بھی ویب سائٹ کو �
 ## Site Permissions - Microphone
 
 permissions-site-microphone-window =
-    .title = ترتیبات - مائکروفون کی اجازت
+    .title = سیٹنگز - مائکروفون کی اجازت
     .style = { permissions-window.style }
 permissions-site-microphone-desc = مندرجہ ذیل ویب سائٹ نے آپکے مائیکروفون کے رسائی کی درخواست کی ہے۔ آپ اس بات کی وظاحت کر سکتے ہے کہ کون سے ویب سائٹ آپکے مائیکروفون کے رسائی کی اجازت رخھتے ہے۔ آپ اپنے مائیکروفون کے رسائی کی اجازت دینے کا مطالبہ کرتی نئی درخواست کو روک بھی سکتے ہے۔
 permissions-site-microphone-disable-label =

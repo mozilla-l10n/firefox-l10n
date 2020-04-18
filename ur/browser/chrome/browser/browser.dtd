@@ -142,21 +142,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 <!ENTITY fxa.unverified.callout.label "اپنی ای میل کی پڑتال کریں">
-<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; ترتیبات… کھولیں">
+<!ENTITY fxa.unverified.button.label "&syncBrand.shortName.label; سیٹنگز… کھولیں">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "کے طور پر سائن ان">
 <!ENTITY fxa.menu.manageAccount.label "اکاؤنٹ… بندوبست کریں">
-<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; ترتیبات…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; سیٹنگز…">
 
 <!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
-<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; ترتیبات">
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; سیٹنگز">
 <!ENTITY fxa.menu.connectAnotherDevice2.label "ایک اور آلہ جوڑیں…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "کنٹینرز کو منظم کریں">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "نیا ونڈوں">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -564,8 +565,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "تلاش ترتیبات تبدیل کریں">
-<!ENTITY changeSearchSettings.tooltip "تلاش کی ترتیبات تبدیل کریں">
+<!ENTITY changeSearchSettings.button  "تلاش سیٹنگز تبدیل کریں">
+<!ENTITY changeSearchSettings.tooltip "تلاش کی سیٹنگز تبدیل کریں">
 
 <!ENTITY searchInNewTab.label         "نئے ٹیب میں تلاش کرے">
 <!ENTITY searchInNewTab.accesskey     "T">

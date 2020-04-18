@@ -336,9 +336,9 @@ update-in-progress-cancel-button = &جاری رکھیں
 
 performance-title = کارکردگی
 performance-use-recommended-settings-checkbox =
-    .label = تجویز کردہ کارکردگی کی ترتیبات استعمال کریں
+    .label = تجویز کردہ کارکردگی کی سیٹنگز استعمال کریں
     .accesskey = U
-performance-use-recommended-settings-desc = یہ ترتیبات آپ کے کمپیوٹر کے ہارڈ ویئر اور آپریٹنگ سسٹم کے مطابق ہیں۔
+performance-use-recommended-settings-desc = یہ سیٹنگز آپ کے کمپیوٹر کے ہارڈ ویئر اور آپریٹنگ سسٹم کے مطابق ہیں۔
 performance-settings-learn-more = مزید سیکھیں
 performance-allow-hw-accel =
     .label = جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں
@@ -382,7 +382,7 @@ browsing-cfr-recommendations-learn-more = مزید سیکھیں
 
 ## General Section - Proxy
 
-network-settings-title = نیٹ ورک ترتیبات
+network-settings-title = نیٹ ورک سیٹنگز
 network-proxy-connection-learn-more = مزید سیکھیں
 network-proxy-connection-settings =
     .label = سیٹنگز…
@@ -586,7 +586,7 @@ sync-remove-account =
 sync-sign-in =
     .label = سائن ان کریں
     .accesskey = g
-sync-signedin-settings-header = ہمہ وقت ساز ترتیبات
+sync-signedin-settings-header = ہمہ وقت ساز سیٹنگز
 sync-signedin-settings-desc = { -brand-short-name } کا استعمال کرتے ہوئے اپنے آلات پر کیا سنکرونائز کرنا ہے اس کا انتخاب کریں۔
 
 ## Sync section - enabling or disabling sync.
@@ -734,9 +734,9 @@ history-remember-option-all =
 history-remember-option-never =
     .label = کبھی سابقات نہ یاد رکھے
 history-remember-option-custom =
-    .label = سابقات کے لیے مخصوص ترتیبات استعمال کریں
+    .label = سابقات کے لیے مخصوص سیٹنگز استعمال کریں
 history-remember-description = { -brand-short-name } آپکی برائوزنگ ڈائونلوڈ اور تلاش سابقات یاد رکھے گا۔
-history-dontremember-description = { -brand-short-name } نجی براؤزنگ کی ترتیبات استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔
+history-dontremember-description = { -brand-short-name } نجی براؤزنگ کی سیٹنگز استعمال کرے گا، اور آپ کے براوز کرتے وقت کوئی سابقات نہیں یاد رکھے گا۔
 history-private-browsing-permanent =
     .label = ہمیشہ نجی براوزنگ موڈ استعمال کریں
     .accesskey = p
