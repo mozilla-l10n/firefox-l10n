@@ -18,7 +18,7 @@ newsletter-title = Boletín de Mozilla Developer
 newsletter-message = Obtén noticias de desarrollo, trucos y recursos enviados directamente a tu bandeja de entrada.
 newsletter-email-placeholder =
     .placeholder = Correo electrónico
-newsletter-privacy-label = Estoy de acuerdo con que Mozilla maneje mi información para explican en su <a data-l10n-name="privacy-policy">Política de Privacidad</a>.
+newsletter-privacy-label = Estoy de acuerdo con que Mozilla maneje mi información la cual explica en su <a data-l10n-name="privacy-policy">Política de Privacidad</a>.
 newsletter-subscribe-button = Suscribir
 newsletter-thanks-title = ¡Gracias!
 newsletter-thanks-message = Si no has confirmado previamente una suscripción a un boletín relacionado a Mozilla, puede que tengas que hacerlo. Por favor, revisa tu bandeja de entrada o filtro de spam en busca de un email de nosotros.

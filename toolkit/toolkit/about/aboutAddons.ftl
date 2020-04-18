@@ -311,6 +311,7 @@ shortcuts-no-commands = Las siguientes extensiones no tienen atajos:
 shortcuts-input =
     .placeholder = Escribe un atajo
 shortcuts-browserAction = Activar extensión
+shortcuts-browserAction2 = Activar botón de la barra de herramientas
 shortcuts-pageAction = Activar acción de página
 shortcuts-sidebarAction = Alternar la barra lateral
 shortcuts-modifier-mac = Incluir Ctrl, Alt o ⌘
