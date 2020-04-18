@@ -215,3 +215,21 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = ყველას ნახვა
     .accesskey = ნ
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = მარტივად შექმენით უსაფრთხო პაროლები
+cfr-whatsnew-lockwise-body = რთულია მოიფიქროთ განსხვავებული, დაცული პაროლი თითოეული ანგარიშისთვის. პაროლის შექმნისას, შესაბამისი ველის არჩევით შეძლებთ მიიღოთ უსაფრთხო პაროლი, რომელსაც თავად შეგიდგენთ { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ხატულა
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = მიიღეთ ცნობები დაუცველ პაროლებზე
+cfr-whatsnew-passwords-body = ჰაკერებმა იციან, რომ ადამიანები იყენებენ ერთსა და იმავე პაროლებს. თუ თქვენ იყენებთ ერთ პაროლს რამდენიმე საიტზე და ერთ-ერთი მათგანი მაინც გახდება მონაცემების მიტაცების მსხვერპლი, { -lockwise-brand-short-name } გაცნობებთ რომ საჭირო იქნება ყველა ამ საიტზე პაროლის შეცვლა.
+cfr-whatsnew-passwords-icon-alt = დაუცველი პაროლის ხატულა
+
+## Picture-in-Picture fullscreen message
+
