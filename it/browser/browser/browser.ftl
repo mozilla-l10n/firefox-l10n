@@ -247,6 +247,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Riduci a icona
+browser-window-maximize-button =
+  .tooltiptext = Ingrandisci
 browser-window-restore-button =
     .tooltiptext = Ripristina
 browser-window-close-button =
