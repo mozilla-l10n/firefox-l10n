@@ -97,3 +97,16 @@ certificate-viewer-download-pem = PEM (сертификат)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (цепочка сертификатов)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Это расширение помечено как критическое, что означает, что клиенты должны отклонить сертификат, если они его не понимают.
+certificate-viewer-export = Экспортировать
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Ваши сертификаты
+certificate-viewer-tab-people = Люди
+certificate-viewer-tab-servers = Серверы
+certificate-viewer-tab-ca = Центры сертификации
+certificate-viewer-tab-unkonwn = Неизвестно
