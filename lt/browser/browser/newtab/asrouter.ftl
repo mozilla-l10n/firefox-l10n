@@ -238,3 +238,4 @@ cfr-whatsnew-passwords-icon-alt = Pažeidžiamo slaptažodžio rakto piktograma
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-icon-alt = Vaizdo vaizde piktograma
