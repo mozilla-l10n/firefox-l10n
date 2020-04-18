@@ -241,3 +241,5 @@ cfr-whatsnew-passwords-icon-alt = Ikona potencjalnie niebezpiecznego hasła
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Przełącz obraz w obrazie na pełny ekran
+cfr-whatsnew-pip-fullscreen-body = Po wyciągnięciu wideo do ruchomego okienka można teraz kliknąć je podwójnie, aby włączyć tryb pełnoekranowy.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikona obrazu w obrazie
