@@ -222,6 +222,7 @@ cfr-doorhanger-milestone-ok-button = Visa alla
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Skapa säkra lösenord enkelt
+cfr-whatsnew-lockwise-body = Det är svårt att tänka ut unika, säkra lösenord för varje konto. När du skapar ett lösenord väljer du lösenordsfältet för att använda ett säkert, genererat lösenord från { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ikon
 
 ## Vulnerable Passwords message
@@ -233,3 +234,4 @@ cfr-whatsnew-passwords-icon-alt = Ikon för sårbar lösenordsnyckel
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Ta bild-i-bild helskärm
+cfr-whatsnew-pip-fullscreen-body = När du placerar en video i ett flytande fönster kan du nu dubbelklicka på det fönstret för att gå till helskärm.
