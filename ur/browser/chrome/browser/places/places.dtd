@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "چ">
 <!ENTITY view.unsorted.label            "ناچھانٹا ہوا">
 <!ENTITY view.unsorted.accesskey        "ن">
-<!ENTITY view.sortAscending.label       "ا > ے چھانٹی ترتیب">
+<!ENTITY view.sortAscending.label       "ا > ے چھانٹی سیٹنگ">
 <!ENTITY view.sortAscending.accesskey   "ا">
-<!ENTITY view.sortDescending.label      "ے > ا چھانٹی ترتیب">
+<!ENTITY view.sortDescending.label      "ے > ا چھانٹی سیٹنگ">
 <!ENTITY view.sortDescending.accesskey  "ے">
 
 <!ENTITY importBookmarksFromHTML.label     "HTML سے بک مارک درآمد کریں ...">
@@ -69,9 +69,6 @@
 <!ENTITY cmd.context_new_folder.accesskey  "پ">
 <!ENTITY cmd.new_separator.label           "نیا جداکار">
 <!ENTITY cmd.new_separator.accesskey       "ج">
-
-<!ENTITY cmd.reloadLivebookmark.label      "لایو بک مارک پھر لوڈ کریں">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "پ">
 
 <!ENTITY col.name.label          "نام">
 <!ENTITY col.tags.label          "ٹیگ">

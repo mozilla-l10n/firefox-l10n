@@ -28,9 +28,9 @@
 <!ENTITY copyCmd.label       "نقل کریں">  
 <!ENTITY copyCmd.accesskey   "ن"> 
 <!ENTITY copyCmd.commandkey  "C"> 
-<!ENTITY sortFirst.label     "پہلا > آخری، چھانٹ ترتیب">
+<!ENTITY sortFirst.label     "پہلا > آخری، چھانٹ سیٹنگ">
 <!ENTITY sortFirst.accesskey "پ">
-<!ENTITY sortLast.label      "آخری > پہلا چھانٹ ترتیب">
+<!ENTITY sortLast.label      "آخری > پہلا چھانٹ سیٹنگ">
 <!ENTITY sortLast.accesskey  "خ">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
