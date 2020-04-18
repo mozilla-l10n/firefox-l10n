@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Жекелік шолу режимі)
        *[other] { $title } - { -brand-full-name } (Жекелік шолу режимі)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Сайт ақпаратын қарау
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Азырақ теріп, көбірек табыңыз: { $engineName } қызметінен тура адрестік жолақтан іздеңіз.
-urlbar-search-tips-redirect = { $engineName } және шолу тарихы ұсыныстарын көру үшін, іздеуді осында бастаңыз.
 urlbar-search-tips-redirect-2 = { $engineName } және шолу тарихы ұсыныстарын көру үшін, іздеуді адрестік жолағында бастаңыз.
+
+##
+
 
 ##
 
@@ -154,6 +153,8 @@ page-action-manage-extension =
     .label = Кеңейтуді басқару…
 page-action-remove-from-urlbar =
     .label = Адрес жолағынан алып тастау
+page-action-remove-extension =
+    .label = Кеңейтуді өшіру
 
 ## Auto-hide Context Menu
 
