@@ -581,7 +581,7 @@
 <!ENTITY newMsgButton.tooltip "Skribi novan mesaĝon">
 <!ENTITY replyButton.tooltip "Respondi al la mesaĝo">
 <!ENTITY replyAllButton.tooltip "Respondi al la sendinto kaj al ĉiuj ricevontojn">
-<!ENTITY replyListButton.tooltip "Reply to mailing list">
+<!ENTITY replyListButton.tooltip "Respondi al dissendolisto">
 <!ENTITY forwardButton.tooltip "Forward selected message">
 <!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
 <!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
