@@ -97,3 +97,16 @@ certificate-viewer-download-pem = PEM (სერტიფიკატი)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ჯაჭვი)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = ეს გაფართოება მიჩნეულია გადამწვეტად, რაც ნიშნავს, რომ კლიენტებმა უნდა უარყონ სერტიფიკატი, თუ მათთვის გაუგებარია.
+certificate-viewer-export = ცალკე შენახვა
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = თქვენი სერტიფიკატები
+certificate-viewer-tab-people = ხალხი
+certificate-viewer-tab-servers = სერვერები
+certificate-viewer-tab-ca = გამომცემები
+certificate-viewer-tab-unkonwn = უცნობი
