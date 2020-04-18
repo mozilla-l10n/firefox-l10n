@@ -585,8 +585,8 @@
 <!ENTITY forwardButton.tooltip "Plusendi elektitan mesaĝon">
 <!ENTITY forwardAsInline.tooltip "Plusendi elektitan mesaĝon kiel enhavon de mesaĝo">
 <!ENTITY forwardAsAttachment.tooltip "Plusendi elektitan mesaĝon kiel kunsendaĵon">
-<!ENTITY fileButton.tooltip "File selected message">
-<!ENTITY archiveButton.tooltip "Archive selected messages">
+<!ENTITY fileButton.tooltip "Klasifiki elektitan mesaĝon">
+<!ENTITY archiveButton.tooltip "Arĥivigi elektitajn mesaĝojn">
 <!ENTITY openConversationButton.tooltip "Show conversation of selected message">
 <!ENTITY nextButton.tooltip "Move to the next unread message">
 <!ENTITY nextMsgButton.tooltip "Move to the next message">
