@@ -235,3 +235,4 @@ cfr-whatsnew-passwords-icon-alt = Ikon för sårbar lösenordsnyckel
 
 cfr-whatsnew-pip-fullscreen-header = Ta bild-i-bild helskärm
 cfr-whatsnew-pip-fullscreen-body = När du placerar en video i ett flytande fönster kan du nu dubbelklicka på det fönstret för att gå till helskärm.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikon för bild-i-bild
