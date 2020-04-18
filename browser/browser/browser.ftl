@@ -248,8 +248,18 @@ identity-more-info-link-text =
 browser-window-minimize-button =
     .tooltiptext = Riduci a icona
 browser-window-maximize-button =
-  .tooltiptext = Ingrandisci
+    .tooltiptext = Ingrandisci
 browser-window-restore-button =
     .tooltiptext = Ripristina
 browser-window-close-button =
     .tooltiptext = Chiudi
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Fotocamera da condividere:
+    .accesskey = F
+popup-select-microphone =
+    .value = Microfono da condividere:
+    .accesskey = M
+popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
