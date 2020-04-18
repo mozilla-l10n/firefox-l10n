@@ -222,3 +222,22 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Wyświetl wszystkie
     .accesskey = W
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Z łatwością generuj bezpieczne hasła
+cfr-whatsnew-lockwise-body = Wymyślenie unikalnego, bezpiecznego hasła dla każdego konta nie jest łatwe. Podczas wpisywania nowego hasła kliknij pole hasła, aby użyć bezpiecznego, automatycznie wygenerowanego hasła od przeglądarki { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Ikona { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Otrzymuj powiadomienia o potencjalnie niebezpiecznych hasłach
+cfr-whatsnew-passwords-body = Hakerzy wiedzą, że niejedna osoba używa tego samego hasła na wielu stronach. Jeśli tak robisz i jedna z tych stron była ofiarą wycieku danych, to zobaczysz powiadomienie w { -lockwise-brand-short-name }, aby zmienić na nich swoje hasła.
+cfr-whatsnew-passwords-icon-alt = Ikona potencjalnie niebezpiecznego hasła
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Przełącz obraz w obrazie na pełny ekran
