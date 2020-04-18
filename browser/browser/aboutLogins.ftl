@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = باز کردن منو
-# This menuitem is only visible on Windows
-menu-menuitem-import = وارد کردن گذرواژه‌ها...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = وارد کردن از یک مرورگر دیگر…
 menu-menuitem-preferences =
@@ -97,6 +95,17 @@ login-item-time-changed = آخرین تغییر: { DATETIME($timeChanged, day: "
 login-item-time-created = تاریخ ایجاد: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = آخرین استفاده: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = کپی رمز عبور ذخیره شده
+
 ## Master Password notification
 
 master-password-notification-message = برای دیدن نام‌های کاربری و گذرواژه‌ها، گذرواژهٔ اصلی خود را وارد کنید
@@ -140,6 +149,11 @@ breach-alert-text = از آخرین باری که اطلاعات ورود خود
 breach-alert-link = در مورد این رخنه بیشتر بدانید.
 breach-alert-dismiss =
     .title = این هشدار را ببندید
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = رمز عبور آسیب پذیر
+about-logins-vulnerable-alert-learn-more-link = بیشتر یاد بگیرید
 
 ## Error Messages
 
