@@ -153,6 +153,9 @@ about-debugging-runtime-processes =
 # target runtime is incompatible with service workers. "Learn more" points to MDN.
 # https://developer.mozilla.org/en-US/docs/Tools/about%3Adebugging#Service_workers_not_compatible
 about-debugging-runtime-service-workers-not-compatible = Konfigurácia vášho prehliadača nie je kompatibilná so službou Service Workers. <a>Ďalšie informácie</a>
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Táto verzia Firefoxu nemôže ladiť Firefox pre Android (68). Odporúčame vám nainštalovať Firefox pre Android Nightly. <a>Viac podrobností</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"

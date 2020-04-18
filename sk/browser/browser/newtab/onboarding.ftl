@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Začíname
 onboarding-welcome-header = Víta vás { -brand-short-name }
 onboarding-welcome-body = Prehliadač už máte.<br/>Spoznajte ešte zvyšok aplikácie { -brand-product-name }.
 onboarding-welcome-learn-more = Ďalšie výhody.
+onboarding-join-form-header = Prihláste sa do aplikácie { -brand-product-name }
 onboarding-welcome-modal-get-body = Prehliadač už máte.<br/>Využite { -brand-product-name } naplno.
 onboarding-welcome-modal-supercharge-body = Silná ochrana súkromia.
 onboarding-welcome-modal-privacy-body = Prehliadač už máte. Pridajme k nemu ešte ochranu súkromia.
 onboarding-welcome-modal-family-learn-more = Zistite viac o celej rodine produktov { -brand-product-name }.
 onboarding-welcome-form-header = Začať
-onboarding-join-form-header = Prihláste sa do aplikácie { -brand-product-name }
 onboarding-join-form-body = Začnite uvedením svojej e-mailovej adresy.
 onboarding-join-form-email =
     .placeholder = Zadajte e-mailovú adresu
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Pridať rozšírenie
 onboarding-import-browser-settings-title = Importujte svoje záložky, heslá a ďalšie údaje
 onboarding-import-browser-settings-text = Poďme na to - jednoduchý prenos obľúbených stránok a nastavení z Chromu.
 onboarding-import-browser-settings-button = Import údajov z prehliadača Chrome
+onboarding-personal-data-promise-title = Súkromie už v návrhu
+onboarding-personal-data-promise-text = { -brand-product-name } chráni vaše súkromie, rešpektuje a chráni vaše údaje a jasne hovorí, ako ich používa.
+onboarding-personal-data-promise-button = Prečítajte si náš sľub
 
 ## Message strings belonging to the Return to AMO flow
 

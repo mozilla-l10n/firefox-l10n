@@ -316,6 +316,7 @@ shortcuts-no-commands = Nasledujúce rozšírenia nemajú skratky:
 shortcuts-input =
     .placeholder = Zadajte klávesovú skratku
 shortcuts-browserAction = Aktivovať rozšírenie
+shortcuts-browserAction2 = Pridať tlačidlo na panel nástrojov
 shortcuts-pageAction = Aktivovať akciu stránky
 shortcuts-sidebarAction = Prepnúť zobrazenie bočného panela
 shortcuts-modifier-mac = Nezabudnite vložiť aj Ctrl, Alt alebo ⌘

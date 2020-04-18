@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Túto akciu nie je možné vrátiť späť.
 newtab-menu-section-tooltip =
     .title = Otvorí ponuku
     .aria-label = Otvorí ponuku
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Odstrániť
+    .aria-label = Odstrániť
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,7 +90,6 @@ newtab-menu-show-privacy-info = Naši sponzori a vaše súkromie
 
 newtab-privacy-modal-button-done = Hotovo
 newtab-privacy-modal-header = Na vašom súkromí záleží.
-newtab-privacy-modal-paragraph = Okrem zaujímavých článkov vám taktiež zobrazujeme relevantný a preverený obsah od vybraných sponzorov. Nemusíte sa báť, vaše údaje nikdy neopustia { -brand-product-name } - neodosielajú sa nám ani našim sponzorom.
 newtab-privacy-modal-paragraph-2 = Okrem zaujímavých článkov vám taktiež zobrazujeme relevantný a preverený obsah od vybraných sponzorov. Nemusíte sa báť, <strong>vaše údaje nikdy neopustia { -brand-product-name }</strong> - neodosielajú sa nám ani našim sponzorom.
 newtab-privacy-modal-link = Ďalšie informácie o tom, ako funguje súkromie na stránke novej karty
 
@@ -181,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Hups! Túto sekciu sa nepo
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populárne témy:
 newtab-pocket-more-recommendations = Ďalšie odporúčania
-newtab-pocket-whats-pocket = Čo je { -pocket-brand-name }?
 newtab-pocket-learn-more = Ďalšie informácie
 newtab-pocket-cta-button = Získajte { -pocket-brand-name }
 newtab-pocket-cta-text = Ukladajte si články do služby { -pocket-brand-name } a užívajte si skvelé čítanie.
