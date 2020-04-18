@@ -233,3 +233,6 @@ cfr-whatsnew-passwords-icon-alt = დაუცველი პაროლის
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = გაშალეთ ეკრანი-ეკრანი სრულ ეკრანზე
+cfr-whatsnew-pip-fullscreen-body = როცა ვიდეო ამოხტება ცალკე ფანჯარაში, მასზე ორჯერ დაწკაპებით შეძლებთ მთელ ეკრანზე გაშალოთ.
+cfr-whatsnew-pip-fullscreen-icon-alt = ეკრანი-ეკრანში ხატულა
