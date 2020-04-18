@@ -587,15 +587,16 @@
 <!ENTITY forwardAsAttachment.tooltip "Plusendi elektitan mesaĝon kiel kunsendaĵon">
 <!ENTITY fileButton.tooltip "Klasifiki elektitan mesaĝon">
 <!ENTITY archiveButton.tooltip "Arĥivigi elektitajn mesaĝojn">
-<!ENTITY openConversationButton.tooltip "Show conversation of selected message">
-<!ENTITY nextButton.tooltip "Move to the next unread message">
-<!ENTITY nextMsgButton.tooltip "Move to the next message">
-<!ENTITY previousButton.tooltip "Move to the previous unread message">
-<!ENTITY previousMsgButton.tooltip "Move to the previous message">
-<!ENTITY goForwardButton.tooltip "Go forward one message">
-<!ENTITY goBackButton.tooltip "Go back one message">
-<!ENTITY deleteButton.tooltip "Delete selected message or folder">
-<!ENTITY undeleteButton.tooltip "Undelete selected message">
+<!ENTITY openConversationButton.tooltip "Montri fadenon de elektita mesaĝo">
+<!ENTITY openMsgConversationButton.tooltip "Montri fadenon de elektita mesaĝo">
+<!ENTITY nextButton.tooltip "Iri al la sekva nelegita mesaĝo">
+<!ENTITY nextMsgButton.tooltip "Iri al la sekva mesaĝo">
+<!ENTITY previousButton.tooltip "Iri al la antaŭa nelegita mesaĝo">
+<!ENTITY previousMsgButton.tooltip "Iri al la antaŭa mesaĝo">
+<!ENTITY goForwardButton.tooltip "Iri malantaŭen je unu mesaĝo">
+<!ENTITY goBackButton.tooltip "Iri antaŭen je unu mesaĝo">
+<!ENTITY deleteButton.tooltip "Forigi elektitan mesaĝ(uj)on">
+<!ENTITY undeleteButton.tooltip "Malforigi elektitan mesaĝon">
 <!ENTITY markButton.tooltip "Mark messages">
 <!ENTITY printButton.tooltip "Print this message">
 <!ENTITY stopButton.tooltip "Stop the current transfer">
