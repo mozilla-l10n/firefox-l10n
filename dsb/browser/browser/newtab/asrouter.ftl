@@ -221,3 +221,22 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Wšykne pokazaś
     .accesskey = k
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Wěste gronidła lažko napóraś
+cfr-whatsnew-lockwise-body = Jo śěžko na to mysliś, jadnorazowe, wěste gronidła za kužde konto wužywaś. Gaž gronidło napórajośo, wubjeŕśo gronidkowe pólo, aby wěste, napórane gronidło z { -brand-shorter-name } wužywał.
+cfr-whatsnew-lockwise-icon-alt = Symbol { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Dostańśo warnowanja wó zranliwych gronidłach
+cfr-whatsnew-passwords-body = Hackery wěźe, až luźe te samske gronidła wužywaju. Jolic sćo wužył to samske gronidło na někotarych sedłach, a jadno z tych sedłow jo było w datowej źěrje, buźośo warnowanje w { -lockwise-brand-short-name } wiźeś, až maśo swójo gronidło na tych sedłach změniś.
+cfr-whatsnew-passwords-icon-alt = Symbol kluca zranliwego gronidła
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Połnu wobrazowku wobraz-we-wobrazu wužywaś
