@@ -238,4 +238,6 @@ cfr-whatsnew-passwords-icon-alt = Pažeidžiamo slaptažodžio rakto piktograma
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Žiūrėkite vaizdą vaizde visame ekrane
+cfr-whatsnew-pip-fullscreen-body = Kai perkeliate vaizdo įrašą į atskirą langą, galite spustelėti dukart ant jo, kad pereitumėte į viso ekrano veikseną.
 cfr-whatsnew-pip-fullscreen-icon-alt = Vaizdo vaizde piktograma
