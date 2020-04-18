@@ -220,3 +220,21 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Rodyti viską
     .accesskey = R
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Lengvai susikurkite saugius slaptažodžius
+cfr-whatsnew-lockwise-body = Sugalvoti unikalų ir saugų slaptažodį kiekvienai paskyrai yra sudėtinga. Kurdami slaptažodį, pasirinkite slaptažodžio lauką norėdami naudoti saugų, sugeneruotą slaptažodį iš „{ -brand-shorter-name }“.
+cfr-whatsnew-lockwise-icon-alt = „{ -lockwise-brand-short-name }“ piktograma
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Gaukite pranešimus apie pažeidžiamus slaptažodžius
+cfr-whatsnew-passwords-body = Programišiai žino, kad žmonės mėgsta naudoti tuos pačius slaptažodžius. Jei tą patį slaptažodį naudojote keliose svetainėse, ir vienos iš jų duomenys nutekėjo, per „{ -lockwise-brand-short-name }“ pamatysite įspėjimą pasikeisti slaptažodį tose svetainėse.
+cfr-whatsnew-passwords-icon-alt = Pažeidžiamo slaptažodžio rakto piktograma
+
+## Picture-in-Picture fullscreen message
+
