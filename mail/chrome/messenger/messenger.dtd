@@ -597,8 +597,8 @@
 <!ENTITY goBackButton.tooltip "Iri antaŭen je unu mesaĝo">
 <!ENTITY deleteButton.tooltip "Forigi elektitan mesaĝ(uj)on">
 <!ENTITY undeleteButton.tooltip "Malforigi elektitan mesaĝon">
-<!ENTITY markButton.tooltip "Mark messages">
-<!ENTITY printButton.tooltip "Print this message">
+<!ENTITY markButton.tooltip "Marki mesaĝojn">
+<!ENTITY printButton.tooltip "Presi mesaĝon">
 <!ENTITY stopButton.tooltip "Stop the current transfer">
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
