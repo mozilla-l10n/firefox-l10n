@@ -958,6 +958,7 @@ content-blocking-warning-title = Dėmesio!
 content-blocking-warning-description = Blokuojant turinį gali sutrikti kai kurių svetainių veikimas. Blokavimą galima lengvai išjungti patikimose svetainėse.
 content-blocking-learn-how = Sužinoti kaip
 content-blocking-etp-warning-description = Stebėjimo elementų blokavimas gali sutrikdyti kai kurių svetainių veikimą. Norėdami įkelti visą turinį, tinklalapį su stebėjimo elementais įkelkite iš naujo.
+content-blocking-and-isolating-etp-warning-description = Stebėjimo elementų blokavimas ir slapukų izoliavimas gali sutrikdyti kai kurių svetainių veikimą. Norėdami įkelti visą turinį, tinklalapį su stebėjimo elementais įkelkite iš naujo.
 content-blocking-warning-learn-how = Sužinoti kaip
 content-blocking-reload-description = Norėdami pritaikyti šiuos pakeitimus, turėsite įkelti savo korteles iš naujo.
 content-blocking-reload-tabs-button =
