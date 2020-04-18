@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Пачаць
 onboarding-welcome-header = Вітаем у { -brand-short-name }
 onboarding-welcome-body = У вас ёсць браўзер. <br/>Пазнаёмцеся з астатнімі { -brand-product-name }.
 onboarding-welcome-learn-more = Даведацца больш аб перавагах.
+onboarding-join-form-header = Далучыцца да { -brand-product-name }
 onboarding-welcome-modal-get-body = У вас ёсць браўзер. <br/>Цяпер атрымайце максімум ад { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Дапоўніце вашу абарону прыватнасці.
 onboarding-welcome-modal-privacy-body = У вас ёсць браўзер. Дадамо дадатковую ахову прыватнасці.
 onboarding-welcome-modal-family-learn-more = Даведайцеся пра сямейства прадуктаў { -brand-product-name }.
 onboarding-welcome-form-header = Пачніце тут
-onboarding-join-form-header = Далучыцца да { -brand-product-name }
 onboarding-join-form-body = Увядзіце ваш адрас эл.пошты для пачатку працы.
 onboarding-join-form-email =
     .placeholder = Увядзіце адрас эл.пошты
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Дадаць пашырэнне
 onboarding-import-browser-settings-title = Імпартуйце свае закладкі, паролі і шмат іншага
 onboarding-import-browser-settings-text = Углыбіцеся адразу — лёгка перанясіце свае сайты і налады з Chrome.
 onboarding-import-browser-settings-button = Імпартаваць дадзеныя з Chrome
+onboarding-personal-data-promise-title = Створаны для прыватнасці
+onboarding-personal-data-promise-text = { -brand-product-name } ставіцца да вашых дадзеных з павагай, збіраючы іх менш, ахоўваючы іх і ясна акрэсліваючы, як мы іх выкарыстоўваем.
+onboarding-personal-data-promise-button = Прачытаць наша абяцанне
 
 ## Message strings belonging to the Return to AMO flow
 
