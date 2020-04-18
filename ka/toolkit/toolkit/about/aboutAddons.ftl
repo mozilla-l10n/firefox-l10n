@@ -314,6 +314,7 @@ shortcuts-no-commands = სწრაფი ღილაკები არ ა�
 shortcuts-input =
     .placeholder = სწრაფი ღილაკის აკრეფა
 shortcuts-browserAction = გაფართოების ამოქმედება
+shortcuts-browserAction2 = ხელსაწყოთა ზოლზე ღილაკის ამოქმედება
 shortcuts-pageAction = გვერდზე მოქმედების ჩართვა
 shortcuts-sidebarAction = გვერდითა ზოლის გამოჩენა/დამალვა
 shortcuts-modifier-mac = გამოყენებული იყოს Ctrl, Alt, ან ⌘
