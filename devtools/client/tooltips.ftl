@@ -48,3 +48,4 @@ inactive-css-not-inline-or-tablecell-fix = Skúste pridať <strong>display:inlin
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Skúste pridať <strong>display:inline-block</strong> alebo <strong>display:block</strong>. { learn-more }
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Skúste pridať <strong>display:inline-block</strong>. { learn-more }
 inactive-css-not-display-block-on-floated-fix = Skúste odstrániť <strong>float</strong> alebo pridať <strong>display:block</strong>. { learn-more }
+inactive-text-overflow-when-no-overflow-fix = Skúste pridať <strong>overflow:hidden</strong>. { learn-more }
