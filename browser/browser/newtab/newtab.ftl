@@ -45,7 +45,7 @@ newtab-topsites-save-button = Saglabāt
 newtab-topsites-preview-button = Priekšskatījums
 newtab-topsites-add-button = Pievienot
 
-## Top Sites - Delete history confirmation dialog. 
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Vai tiešām vēlaties dzēst visas šīs lapas versijas no jūsu vēstures?
 # "This action" refers to deleting a page from history.
@@ -80,12 +80,20 @@ newtab-menu-delete-history = Dzēst no vēstures
 newtab-menu-save-to-pocket = Saglabāt { -pocket-brand-name }
 newtab-menu-delete-pocket = Dzēst no { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivēt { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Gatavs
+newtab-privacy-modal-header = Jūsu privātumam ir nozīme.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Noņemt grāmatzīmi
 # Bookmark is a verb here.
 newtab-menu-bookmark = Saglabāt
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Kopēt lejupielādes saiti
@@ -113,7 +121,7 @@ newtab-label-recommended = Populāri
 newtab-label-saved = Saglabāts { -pocket-brand-name }
 newtab-label-download = Lejupielādēts
 
-## Section Menu: These strings are displayed in the section context menu and are 
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Aizvākt sadaļu
@@ -126,6 +134,9 @@ newtab-section-menu-add-search-engine = Pievienot meklētāju
 newtab-section-menu-move-up = Pārvietot augšup
 newtab-section-menu-move-down = Pārvietot lejup
 newtab-section-menu-privacy-notice = Privātuma politika
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -143,12 +154,14 @@ newtab-empty-section-highlights = Sāciet pārlūkošanu un mēs šeit parādīs
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Viss ir apskatīts! Atnāciet atpakaļ nedaudz vēlāk, lai redzētu populāros stāstus no { $provider }. Nevarat sagaidīt? Izvēlieties kādu no tēmām jau tagad.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populārās tēmas:
 newtab-pocket-more-recommendations = Vairāk ieteikumu
-newtab-pocket-how-it-works = Kā tas strādā
 newtab-pocket-cta-button = Izmēģiniet { -pocket-brand-name }
 newtab-pocket-cta-text = Saglabājiet interesantus stāstus { -pocket-brand-name } un barojiet savu prātu ar interesantu lasāmvielu.
 
