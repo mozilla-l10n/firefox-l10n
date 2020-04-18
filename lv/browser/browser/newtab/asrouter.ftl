@@ -2,7 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
+## These messages are used as headings in the recommendation doorhanger
+
 cfr-doorhanger-extension-heading = Ieteicams paplašinājums
+
+##
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kāpēc es šo redzu
 cfr-doorhanger-extension-cancel-button = Ne tagad
@@ -43,3 +49,76 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } lietotāji
        *[other] { $total } lietotāju
     }
+
+## These messages are steps on how to use the feature and are shown together.
+
+
+## Firefox Accounts Message
+
+
+## Protections panel
+
+
+## What's New toolbar button and panel
+
+cfr-whatsnew-button =
+    .label = Kas jauns?
+    .tooltiptext = Kas jauns?
+cfr-whatsnew-panel-header = Kas jauns?
+cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [zero] Bloķēts izsekotājs
+        [one] Bloķēti izsekotāji
+       *[other] Bloķēti izsekotāji
+    }
+cfr-whatsnew-tracking-blocked-link-text = Aplūkot ziņojumu
+cfr-whatsnew-lockwise-backup-title = Dublējiet savas paroles
+cfr-whatsnew-lockwise-backup-body = Tagad ģenerējiet drošas paroles, kurām varat piekļūt visur, kur pierakstāties.
+cfr-whatsnew-lockwise-backup-link-text = Ieslēdziet dublēšanu
+cfr-whatsnew-lockwise-take-title = Paņemiet paroles sev līdz
+
+## Search Bar
+
+
+## Picture-in-Picture
+
+
+## Permission Prompt
+
+
+## Fingerprinter Counter
+
+
+## Bookmark Sync
+
+
+## Login Sync
+
+
+## Send Tab
+
+
+## Firefox Send
+
+
+## Social Tracking Protection
+
+
+## Enhanced Tracking Protection Milestones
+
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+

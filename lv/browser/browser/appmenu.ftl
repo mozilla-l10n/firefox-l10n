@@ -5,6 +5,10 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Privātuma aizsardzība
+
+## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
