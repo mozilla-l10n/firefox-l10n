@@ -582,9 +582,9 @@
 <!ENTITY replyButton.tooltip "Respondi al la mesaĝo">
 <!ENTITY replyAllButton.tooltip "Respondi al la sendinto kaj al ĉiuj ricevontojn">
 <!ENTITY replyListButton.tooltip "Respondi al dissendolisto">
-<!ENTITY forwardButton.tooltip "Forward selected message">
-<!ENTITY forwardAsInline.tooltip "Forward selected message as inline text">
-<!ENTITY forwardAsAttachment.tooltip "Forward selected message as an attachment">
+<!ENTITY forwardButton.tooltip "Plusendi elektitan mesaĝon">
+<!ENTITY forwardAsInline.tooltip "Plusendi elektitan mesaĝon kiel enhavon de mesaĝo">
+<!ENTITY forwardAsAttachment.tooltip "Plusendi elektitan mesaĝon kiel kunsendaĵon">
 <!ENTITY fileButton.tooltip "File selected message">
 <!ENTITY archiveButton.tooltip "Archive selected messages">
 <!ENTITY openConversationButton.tooltip "Show conversation of selected message">
