@@ -193,3 +193,16 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } نے اس صفحے �
 
 cfr-doorhanger-milestone-ok-button = تمام دیکھیں
     .accesskey = س
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = پکچر-ان-پکچر آئیکن
