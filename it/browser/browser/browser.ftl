@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navigazione anonima)
        *[other] { $title } - { -brand-full-name } (Navigazione anonima)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Visualizza informazioni sul sito
 
@@ -106,6 +103,9 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Scrivi di meno e trova più risultati: cerca con { $engineName } direttamente dalla barra degli indirizzi.
 urlbar-search-tips-redirect-2 = Inizia le tue ricerche dalla barra degli indirizzi per visualizzare suggerimenti da { $engineName } e dalla cronologia di navigazione.
+
+##
+
 
 ##
 
@@ -242,3 +242,12 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Ulteriori informazioni
+
+## Window controls
+
+browser-window-minimize-button =
+    .tooltiptext = Riduci a icona
+browser-window-restore-button =
+    .tooltiptext = Ripristina
+browser-window-close-button =
+    .tooltiptext = Chiudi
