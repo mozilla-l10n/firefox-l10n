@@ -582,29 +582,29 @@
 <!ENTITY replyButton.tooltip "Respondi al la mesaĝo">
 <!ENTITY replyAllButton.tooltip "Respondi al la sendinto kaj al ĉiuj ricevontojn">
 <!ENTITY replyListButton.tooltip "Respondi al dissendolisto">
-<!ENTITY forwardButton.tooltip "Plusendi elektitan mesaĝon">
-<!ENTITY forwardAsInline.tooltip "Plusendi elektitan mesaĝon kiel enhavon de mesaĝo">
-<!ENTITY forwardAsAttachment.tooltip "Plusendi elektitan mesaĝon kiel kunsendaĵon">
-<!ENTITY fileButton.tooltip "Klasifiki elektitan mesaĝon">
-<!ENTITY archiveButton.tooltip "Arĥivigi elektitajn mesaĝojn">
-<!ENTITY openConversationButton.tooltip "Montri fadenon de elektita mesaĝo">
-<!ENTITY openMsgConversationButton.tooltip "Montri fadenon de elektita mesaĝo">
+<!ENTITY forwardButton.tooltip "Plusendi la elektitan mesaĝon">
+<!ENTITY forwardAsInline.tooltip "Plusendi la elektitan mesaĝon kiel enhavon de mesaĝo">
+<!ENTITY forwardAsAttachment.tooltip "Plusendi la elektitan mesaĝon kiel kunsendaĵon">
+<!ENTITY fileButton.tooltip "Klasifiki la elektitan mesaĝon">
+<!ENTITY archiveButton.tooltip "Arĥivigi la elektitan mesaĝon">
+<!ENTITY openConversationButton.tooltip "Montri fadenon de la elektita mesaĝo">
+<!ENTITY openMsgConversationButton.tooltip "Montri fadenon de la elektita mesaĝo">
 <!ENTITY nextButton.tooltip "Iri al la sekva nelegita mesaĝo">
 <!ENTITY nextMsgButton.tooltip "Iri al la sekva mesaĝo">
 <!ENTITY previousButton.tooltip "Iri al la antaŭa nelegita mesaĝo">
 <!ENTITY previousMsgButton.tooltip "Iri al la antaŭa mesaĝo">
 <!ENTITY goForwardButton.tooltip "Iri malantaŭen je unu mesaĝo">
 <!ENTITY goBackButton.tooltip "Iri antaŭen je unu mesaĝo">
-<!ENTITY deleteButton.tooltip "Forigi elektitan mesaĝ(uj)on">
-<!ENTITY undeleteButton.tooltip "Malforigi elektitan mesaĝon">
-<!ENTITY markButton.tooltip "Marki mesaĝojn">
+<!ENTITY deleteButton.tooltip "Forigi la elektitan mesaĝ(uj)on">
+<!ENTITY undeleteButton.tooltip "Malforigi la elektitan mesaĝon">
+<!ENTITY markButton.tooltip "Marki mesaĝon">
 <!ENTITY printButton.tooltip "Presi mesaĝon">
 <!ENTITY stopButton.tooltip "Ĉesigi la nunan transsendon">
-<!ENTITY junkButton.tooltip "Mark the selected messages as junk">
-<!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
-<!ENTITY addressBookButton.tooltip "Go to the address book">
-<!ENTITY chatButton.tooltip "Show the Chat tab">
-<!ENTITY tagButton.tooltip "Tag messages">
+<!ENTITY junkButton.tooltip "Marki la elektitan mesaĝon kiel nedeziratan">
+<!ENTITY notJunkButton.tooltip "Marki la elektitan mesaĝon kiel deziratan">
+<!ENTITY addressBookButton.tooltip "Montri adresaron">
+<!ENTITY chatButton.tooltip "Montri tujmesaĝilon">
+<!ENTITY tagButton.tooltip "Marki mesaĝon per etikedo">
 <!ENTITY compactButton.tooltip "Remove deleted messages from selected folder">
 <!ENTITY appmenuButton1.tooltip "Display the &brandShortName; Menu">
 
