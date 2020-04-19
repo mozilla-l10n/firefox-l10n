@@ -95,3 +95,11 @@ certificate-viewer-download-pem = PEM (сертыфікат)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ланцужок)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Вашы сертыфікаты
+certificate-viewer-tab-people = Асобы
+certificate-viewer-tab-servers = Серверы
+certificate-viewer-tab-ca = Установы
+certificate-viewer-tab-unkonwn = Невядома
