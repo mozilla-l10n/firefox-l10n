@@ -233,6 +233,11 @@ cfr-whatsnew-lockwise-icon-alt = Значок { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Атрымлівайце папярэджанні аб уразлівых паролях
+cfr-whatsnew-passwords-body = Хакеры ведаюць, што людзі паўторна выкарыстоўваюць адны і тыя ж паролі. Калі вы выкарыстоўвалі аднолькавы пароль на некалькіх сайтах, і адзін з гэтых сайтаў стаў часткай уцечкі звестак, вы ўбачыце папярэджанне ў { -lockwise-brand-short-name } з парадай змяніць свой пароль на гэтых сайтах.
+cfr-whatsnew-passwords-icon-alt = Значок «ключ уразлівага пароля»
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Зрабіце поўнаэкраннай выяву ў выяве
+cfr-whatsnew-pip-fullscreen-body = Па з'яўленні відэа ў выплыўным акне вы можаце двойчы пстрыкнуць па гэтым акне, каб перайсці ў поўны экран.
+cfr-whatsnew-pip-fullscreen-icon-alt = Значок «выява ў выяве»
