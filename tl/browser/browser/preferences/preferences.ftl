@@ -186,8 +186,8 @@ containers-remove-alert-msg =
         [one] Kapag tinanggal mo ngayon ang Container na ito, may { $count } container tab na isasara. Sigurado ka bang gusto mong tanggalin ang Container na ito?
        *[other] Kapag tinanggal mo ngayon ang Container na ito, may { $count } container tab na isasara. Sigurado ka bang gusto mong tanggalin ang Container na ito?
     }
-containers-remove-ok-button = Alisin ang Lalagyan na Ito
-containers-remove-cancel-button = Huwag alisin ang Lalagyan na ito
+containers-remove-ok-button = Alisin ang Container na Ito
+containers-remove-cancel-button = Huwag alisin ang Container na ito
 
 ## General Section - Language & Appearance
 
