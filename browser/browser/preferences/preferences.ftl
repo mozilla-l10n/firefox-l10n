@@ -1126,8 +1126,8 @@ space-alert-over-5gb-message =
        *[other] { -brand-short-name }ilta loppuu kohta levytila. Sivustojen sisällöt eivät ehkä näy oikein. Voit tyhjentää sivustotiedot avaamalla Asetukset > Tietosuoja ja turvallisuus > Evästeet ja sivustotiedot.
     }
 space-alert-under-5gb-ok-button =
-    .label = OK, selvä
-    .accesskey = K
+    .label = Selvä
+    .accesskey = S
 space-alert-under-5gb-message = { -brand-short-name }ilta loppuu kohta levytila. Sivustojen sisällöt eivät ehkä näy oikein. Voit lukea levyn käytön optimoimisesta selaamisen sujuvoittamiseksi painamalla ”Lue lisää”.
 
 ## The following strings are used in the Download section of settings
