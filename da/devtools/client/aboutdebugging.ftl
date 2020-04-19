@@ -231,6 +231,10 @@ about-debugging-browser-version-too-old = Den forbundne browser har en gammel ve
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Debugger-panelet virker muligvis ikke med den forbundne browser. Anvend Firefox { $runtimeVersion }, hvis du skal bruge debuggeren med denne browser.
 
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Denne version af Firefox kan ikke bruges tli at debugge Firefox til Android (68). Vi anbefaler, at du installerer Firefox Nightly til Android for at kunne teste. < a>Læs mere</a>
+
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
