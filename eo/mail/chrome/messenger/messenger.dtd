@@ -654,12 +654,12 @@
 <!ENTITY folderContextGetMessages.accesskey "R">
 <!ENTITY folderContextMarkAllFoldersRead.label "Marki ĉiujn mesaĝujojn kiel legitajn">
 <!ENTITY folderContextPauseAllUpdates.label "Paŭzigi ĉiujn aktualigojn">
-<!ENTITY folderContextPauseUpdates.label "Pause Updates">
-<!ENTITY folderContextPauseUpdates.accesskey "U">
-<!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
-<!ENTITY folderContextOpenInNewWindow.accesskey "O">
-<!ENTITY folderContextOpenNewTab.label "Open in New Tab">
-<!ENTITY folderContextOpenNewTab.accesskey "T">
+<!ENTITY folderContextPauseUpdates.label "Paŭzigi aktualigojn">
+<!ENTITY folderContextPauseUpdates.accesskey "P">
+<!ENTITY folderContextOpenInNewWindow.label "Malfermi en nova fenestro">
+<!ENTITY folderContextOpenInNewWindow.accesskey "f">
+<!ENTITY folderContextOpenNewTab.label "Malfermi en nova langeto">
+<!ENTITY folderContextOpenNewTab.accesskey "l">
 <!ENTITY folderContextNew.label "New Subfolder…">
 <!ENTITY folderContextNew.accesskey "N">
 <!ENTITY folderContextRename.label "Rename">
