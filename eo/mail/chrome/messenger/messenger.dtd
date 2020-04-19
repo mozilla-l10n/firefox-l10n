@@ -624,16 +624,16 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignori averton por tiu ĉi mesaĝo">
 <!ENTITY phishingOptionIgnore.accesskey "I">
-<!ENTITY phishingOptionSettings.label "Redakti agordojn pri averti pri trompoj…">
-<!ENTITY phishingOptionSettings.accesskey "d">
-<!ENTITY phishingOptionSettingsUnix.label "Edit scam detection preferences…">
-<!ENTITY phishingOptionSettingsUnix.accesskey "d">
+<!ENTITY phishingOptionSettings.label "Redakti agordojn pri kontraŭtrompaj avertoj…">
+<!ENTITY phishingOptionSettings.accesskey "R">
+<!ENTITY phishingOptionSettingsUnix.label "Redakti preferojn pri kontraŭtrompaj avertoj…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "R">
 
 <!-- AppMenu Popup -->
-<!ENTITY appmenuNewMsgCmd.label "New Message">
-<!ENTITY appmenuNewContactCmd.label "Address Book Contact…">
-<!ENTITY appmenuEditMenu.label "Edit">
-<!ENTITY appmenuToolbarLayout.label "Toolbar Layout…">
+<!ENTITY appmenuNewMsgCmd.label "Nova mesaĝo">
+<!ENTITY appmenuNewContactCmd.label "Aldoni kontakton al adresaro…">
+<!ENTITY appmenuEditMenu.label "Redakti">
+<!ENTITY appmenuToolbarLayout.label "Aranĝi ilarstrion…">
 <!ENTITY appmenuSelectThread.label "Select Thread">
 <!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
 
