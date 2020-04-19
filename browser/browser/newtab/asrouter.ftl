@@ -236,3 +236,23 @@ cfr-doorhanger-milestone-heading =
   }
 cfr-doorhanger-milestone-ok-button = Vis alle
   .accesskey = V
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Opret nemt sikre adgangskoder
+cfr-whatsnew-lockwise-body = Det er svært at finde på unikke og sikre adgangskoder til alle dine konti. Vælg feltet adgangskode, når du opretter en ny adgangskode. Så opretter { -brand-shorter-name } en sikker adgangskode til dig.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-ikon
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Få advarsler om usikre adgangskoder
+cfr-whatsnew-passwords-body = Hackere ved, at folk genbruger deres adgangskoder. Hvis du har den samme adgangskode på flere forskellige websteder, så viser { -lockwise-brand-short-name } dig en advarsel og beder dig om at ændre din adgangskode på disse websteder.
+cfr-whatsnew-passwords-icon-alt = Ikon for usikker adgangskode
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Brug billede-i-billede i fuld skærm
+cfr-whatsnew-pip-fullscreen-body = Når du får vist en video i et flydende vindue kan du nu dobbeltklikke på vinduet for at få det vist i fuld skærm.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikon for billede-i-billede

@@ -320,6 +320,7 @@ shortcuts-no-commands = Følgende udvidelser han ingen genveje:
 shortcuts-input =
     .placeholder = Indtast en genvej.
 shortcuts-browserAction = Aktiver udvidelse
+shortcuts-browserAction2 = Aktiver knap på værktøjslinjen
 shortcuts-pageAction = Aktiver sidehandling
 shortcuts-sidebarAction = Vis/skjul sidepanelet
 shortcuts-modifier-mac = Inkluder Ctrl, Alt eller ⌘
