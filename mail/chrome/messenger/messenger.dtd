@@ -675,20 +675,21 @@
 <!ENTITY folderContextSendUnsentMessages.label "Sendi sendotajn mesaĝojn">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Malaboni">
+<!ENTITY folderContextUnsubscribe.accesskey "M">
 <!ENTITY folderContextMarkNewsgroupRead.label "Marki grupon kiel legitan">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "M">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
 <!ENTITY folderContextMarkMailFolderRead.label "Marki mesaĝujon kiel legitan">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "M">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "Abonfluoj…">
-<!ENTITY folderContextSubscribe.accesskey "A">
+<!ENTITY folderContextSubscribe.accesskey "b">
 <!ENTITY folderContextSearchForMessages.label "Serĉi mesaĝojn…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
 <!ENTITY folderContextProperties2.label "Atributoj">
 <!ENTITY folderContextProperties2.accesskey "A">
-<!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
-<!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings2.label "Settings">
-<!ENTITY folderContextSettings2.accesskey "e">
+<!ENTITY folderContextFavoriteFolder.label "Ŝatata mesaĝujo">
+<!ENTITY folderContextFavoriteFolder.accesskey "t">
+<!ENTITY folderContextSettings2.label "Agordoj">
+<!ENTITY folderContextSettings2.accesskey "j">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Name or Email contains:">
