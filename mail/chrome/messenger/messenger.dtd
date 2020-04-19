@@ -634,20 +634,20 @@
 <!ENTITY appmenuNewContactCmd.label "Aldoni kontakton al adresaro…">
 <!ENTITY appmenuEditMenu.label "Redakti">
 <!ENTITY appmenuToolbarLayout.label "Aranĝi ilarstrion…">
-<!ENTITY appmenuSelectThread.label "Select Thread">
-<!ENTITY appmenuSelectFlagged.label "Select Starred Messages">
+<!ENTITY appmenuSelectThread.label "Elekti fadenon">
+<!ENTITY appmenuSelectFlagged.label "Elekti markitajn per steleto">
 
 <!-- Tags Menu Popup -->
-<!ENTITY addNewTag.label "New Tag…">
+<!ENTITY addNewTag.label "Nova etikedo…">
 <!ENTITY addNewTag.accesskey "N">
-<!ENTITY manageTags.label "Manage Tags…">
-<!ENTITY manageTags.accesskey "M">
+<!ENTITY manageTags.label "Administri etikedojn…">
+<!ENTITY manageTags.accesskey "A">
 
 <!-- Folder Pane -->
-<!ENTITY folderNameColumn.label "Name">
-<!ENTITY folderUnreadColumn.label "Unread">
-<!ENTITY folderTotalColumn.label "Total">
-<!ENTITY folderSizeColumn.label "Size">
+<!ENTITY folderNameColumn.label "Nomo">
+<!ENTITY folderUnreadColumn.label "Nelegitaj">
+<!ENTITY folderTotalColumn.label "Tute">
+<!ENTITY folderSizeColumn.label "Grando">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Get Messages">
