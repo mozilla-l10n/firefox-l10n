@@ -660,19 +660,19 @@
 <!ENTITY folderContextOpenInNewWindow.accesskey "f">
 <!ENTITY folderContextOpenNewTab.label "Malfermi en nova langeto">
 <!ENTITY folderContextOpenNewTab.accesskey "l">
-<!ENTITY folderContextNew.label "New Subfolder…">
-<!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextRename.label "Rename">
-<!ENTITY folderContextRename.accesskey "R">
-<!ENTITY folderContextRemove.label "Delete">
-<!ENTITY folderContextRemove.accesskey "D">
-<!ENTITY folderContextCompact.label "Compact">
-<!ENTITY folderContextCompact.accesskey "C">
-<!ENTITY folderContextEmptyTrash.label "Empty Trash">
-<!ENTITY folderContextEmptyTrash.accesskey "y">
-<!ENTITY folderContextEmptyJunk.label "Empty Junk">
-<!ENTITY folderContextEmptyJunk.accesskey "J">
-<!ENTITY folderContextSendUnsentMessages.label "Send Unsent Messages">
+<!ENTITY folderContextNew.label "Nova submesaĝujo…">
+<!ENTITY folderContextNew.accesskey "u">
+<!ENTITY folderContextRename.label "Renomi">
+<!ENTITY folderContextRename.accesskey "n">
+<!ENTITY folderContextRemove.label "Forigi">
+<!ENTITY folderContextRemove.accesskey "F">
+<!ENTITY folderContextCompact.label "Reorganizi">
+<!ENTITY folderContextCompact.accesskey "o">
+<!ENTITY folderContextEmptyTrash.label "Malplenigi rubujon">
+<!ENTITY folderContextEmptyTrash.accesskey "M">
+<!ENTITY folderContextEmptyJunk.label "Malplenigi trudmesaĝujon">
+<!ENTITY folderContextEmptyJunk.accesskey "M">
+<!ENTITY folderContextSendUnsentMessages.label "Sendi sendotajn mesaĝojn">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
 <!ENTITY folderContextUnsubscribe.label "Unsubscribe">
 <!ENTITY folderContextUnsubscribe.accesskey "U">
