@@ -295,6 +295,7 @@ touch-enabled = cảm ứng đã bật
 drag-enabled = thanh cuộn kéo đã bật
 keyboard-enabled = bàn phím đã bật
 autoscroll-enabled = tự động cuộn đã bật
+zooming-enabled = pinch-zoom mượt được kích hoạt
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
