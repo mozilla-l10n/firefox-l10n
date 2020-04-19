@@ -237,6 +237,10 @@ cfr-whatsnew-lockwise-icon-alt = Ikona { -lockwise-brand-short-name }
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Prejemajte opozorila o ranljivih geslih
+cfr-whatsnew-passwords-body = Hekerji vedo, da ljudje vedno znova uporabljajo ista gesla. Če ste uporabili isto geslo na več straneh in je na eni od teh strani prišlo do kraje podatkov, vas bo { -lockwise-brand-short-name } opozoril, da spremenite geslo na teh straneh.
+cfr-whatsnew-passwords-icon-alt = Ikona ranljivega gesla
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-body = Ko predvajate video v plavajočem oknu, lahko zdaj dvokliknete to okno za ogled v celozaslonskem načinu.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike v sliki

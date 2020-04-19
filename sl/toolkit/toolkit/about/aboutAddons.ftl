@@ -312,6 +312,7 @@ shortcuts-no-commands = Naslednje razširitve nimajo dodeljenih bližnjic:
 shortcuts-input =
     .placeholder = Vnesite bližnjico
 shortcuts-browserAction = Aktiviraj razširitev
+shortcuts-browserAction2 = Aktiviraj gumb orodne vrstice
 shortcuts-pageAction = Aktiviraj dejanje strani
 shortcuts-sidebarAction = Preklopi stransko vrstico
 shortcuts-modifier-mac = Vključi Ctrl, Alt ali ⌘
