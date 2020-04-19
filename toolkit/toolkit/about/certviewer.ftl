@@ -106,7 +106,7 @@ certificate-viewer-export = Eksporter
 ## Labels for tabs displayed in stand-alone about:certificate page
 
 certificate-viewer-tab-mine = Dine certifikater
-certificate-viewer-tab-people = Mennesker
+certificate-viewer-tab-people = Personer
 certificate-viewer-tab-servers = Servere
 certificate-viewer-tab-ca = Autoriteter
 certificate-viewer-tab-unkonwn = Ukendt
