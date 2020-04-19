@@ -618,12 +618,12 @@
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
 <!ENTITY editRemoteContentSettings.label "Redakti agordojn pri fora enhavo…">
 <!ENTITY editRemoteContentSettings.accesskey "R">
-<!ENTITY editRemoteContentSettingsUnix.label "Edit remote content preferences…">
-<!ENTITY editRemoteContentSettingsUnix.accesskey "E">
+<!ENTITY editRemoteContentSettingsUnix.label "Redakti preferojn pri fora enhavo…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "R">
 
 <!-- Phishing Button Popup -->
-<!ENTITY phishingOptionIgnore.label "Ignore warning for this message">
-<!ENTITY phishingOptionIgnore.accesskey "n">
+<!ENTITY phishingOptionIgnore.label "Ignori averton por tiu ĉi mesaĝo">
+<!ENTITY phishingOptionIgnore.accesskey "I">
 <!ENTITY phishingOptionSettings.label "Edit scam detection options…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Edit scam detection preferences…">
