@@ -669,23 +669,22 @@
 <!ENTITY folderContextCompact.label "Reorganizi">
 <!ENTITY folderContextCompact.accesskey "o">
 <!ENTITY folderContextEmptyTrash.label "Malplenigi rubujon">
-<!ENTITY folderContextEmptyTrash.accesskey "M">
+<!ENTITY folderContextEmptyTrash.accesskey "i">
 <!ENTITY folderContextEmptyJunk.label "Malplenigi trudmesaĝujon">
-<!ENTITY folderContextEmptyJunk.accesskey "M">
+<!ENTITY folderContextEmptyJunk.accesskey "i">
 <!ENTITY folderContextSendUnsentMessages.label "Sendi sendotajn mesaĝojn">
 <!ENTITY folderContextSendUnsentMessages.accesskey "d">
-<!ENTITY folderContextUnsubscribe.label "Unsubscribe">
-<!ENTITY folderContextUnsubscribe.accesskey "U">
-<!ENTITY folderContextMarkNewsgroupRead.label "Mark Newsgroup Read">
-<!ENTITY folderContextMarkNewsgroupRead.accesskey "k">
-<!ENTITY folderContextMarkMailFolderRead.label "Mark Folder Read">
-<!ENTITY folderContextMarkMailFolderRead.accesskey "k">
-<!ENTITY folderContextSubscribe.label "Subscribe…">
-<!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchForMessages.label "Search Messages…">
+<!ENTITY folderContextUnsubscribe.label "Malaboni">
+<!ENTITY folderContextMarkNewsgroupRead.label "Marki grupon kiel legitan">
+<!ENTITY folderContextMarkNewsgroupRead.accesskey "M">
+<!ENTITY folderContextMarkMailFolderRead.label "Marki mesaĝujon kiel legitan">
+<!ENTITY folderContextMarkMailFolderRead.accesskey "M">
+<!ENTITY folderContextSubscribe.label "Abonfluoj…">
+<!ENTITY folderContextSubscribe.accesskey "A">
+<!ENTITY folderContextSearchForMessages.label "Serĉi mesaĝojn…">
 <!ENTITY folderContextSearchForMessages.accesskey "S">
-<!ENTITY folderContextProperties2.label "Properties">
-<!ENTITY folderContextProperties2.accesskey "P">
+<!ENTITY folderContextProperties2.label "Atributoj">
+<!ENTITY folderContextProperties2.accesskey "A">
 <!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!ENTITY folderContextSettings2.label "Settings">
