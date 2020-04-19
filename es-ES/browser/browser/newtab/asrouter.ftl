@@ -210,3 +210,18 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Ver todo
     .accesskey = V
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Cree fácilmente contraseñas seguras
+cfr-whatsnew-lockwise-body = Es difícil pensar en contraseñas únicas y seguras para cada cuenta. Al crear una contraseña, seleccione el campo de contraseña para usar una contraseña segura y generada por { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Icono de { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
