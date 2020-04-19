@@ -80,7 +80,7 @@ when there are no windows but Firefox is still running. -->
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY navbar.accessibleLabel "Navegacion">
-<!ENTITY personalbarCmd.label "Barra de personala">
+<!ENTITY personalbarCmd.label "Barra personala">
 <!ENTITY personalbarCmd.accesskey "B">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
@@ -353,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Gerir los contenidors">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
