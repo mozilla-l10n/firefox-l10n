@@ -41,7 +41,7 @@ policy-DisableAppUpdate = Deaktiver opdatering af browseren.
 
 policy-DisableBuiltinPDFViewer = Deaktiver PDF.js, den indbyggede PDF-viser i { -brand-short-name }.
 
-policy-DisableDefaultBrowserAgent = Forhindr standard browser-agenten fra at foretage handlinger. Fungerer kun på Windows; andre platforme har ikke agenten.
+policy-DisableDefaultBrowserAgent = Tillad ikke at standard browser-agenten foretager handlinger. Fungerer kun på Windows; andre platforme har ikke agenten.
 
 policy-DisableDeveloperTools = Bloker adgang til Udviklerværktøj.
 

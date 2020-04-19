@@ -29,15 +29,19 @@ downloads-cmd-cancel =
 downloads-cmd-cancel-panel =
     .aria-label = Annuller
 # This message is only displayed on Windows and Linux devices
-downloads-cmd-show =
+downloads-cmd-show-menuitem =
     .label = Åbn hentningsmappe
-    .tooltiptext = { downloads-cmd-show.label }
     .accesskey = h
 # This message is only displayed on macOS devices
-downloads-cmd-show-mac =
+downloads-cmd-show-menuitem-mac =
     .label = Vis i Finder
-    .tooltiptext = { downloads-cmd-show-mac.label }
     .accesskey = V
+downloads-cmd-show-button =
+    .tooltiptext =
+        { PLATFORM() ->
+            [macos] Vis i Finder
+           *[other] Åbn hentningsmappe
+        }
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
