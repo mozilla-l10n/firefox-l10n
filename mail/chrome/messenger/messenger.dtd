@@ -599,7 +599,7 @@
 <!ENTITY undeleteButton.tooltip "Malforigi elektitan mesaĝon">
 <!ENTITY markButton.tooltip "Marki mesaĝojn">
 <!ENTITY printButton.tooltip "Presi mesaĝon">
-<!ENTITY stopButton.tooltip "Stop the current transfer">
+<!ENTITY stopButton.tooltip "Ĉesigi la nunan transsendon">
 <!ENTITY junkButton.tooltip "Mark the selected messages as junk">
 <!ENTITY notJunkButton.tooltip "Mark the selected messages as not junk">
 <!ENTITY addressBookButton.tooltip "Go to the address book">
