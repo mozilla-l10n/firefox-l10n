@@ -41,6 +41,8 @@ about-debugging-sidebar-item-connect-button-connection-failed = رابطہ نا�
 # Text displayed in connection warning on sidebar item of the runtime when connecting to
 # the runtime is taking too much time.
 about-debugging-sidebar-item-connect-button-connection-not-responding = کنکشن ابھی باقی ہے ، ہدف شدہ براؤزر پر موجود پیغامات کی پڑتال کریں
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = کنکشن کا وقت ختم ہو گیا
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = جڈے ہوئے ہے
@@ -140,6 +142,10 @@ about-debugging-runtime-name = { $name } { $version }
 about-debugging-runtime-disconnect-button = منقطع کریں
 # Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
 about-debugging-profiler-dialog-title2 = پروفائلر
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = غائب کریں/ وسیع کریں
 
 # Debug Targets strings
 
@@ -150,6 +156,9 @@ about-debugging-debug-target-list-empty = ابھی تک کچھ نہیں
 # button will open a DevTools toolbox that will allow inspecting the target.
 # A target can be an addon, a tab, a worker...
 about-debugging-debug-target-inspect-button = معائنہ کریں
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = عارضی ایڈ اون… شامل کریں
 # Text displayed when trying to install a temporary extension in the "This Firefox" page.
 about-debugging-tmp-extension-install-error = عارضی ایڈ اون انسٹالیشن  کے دوران ایک خامی تھی۔
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
@@ -177,6 +186,8 @@ about-debugging-extension-location =
 about-debugging-worker-action-push = دھکیلیں
 # This string is displayed as a label of the button that starts a service worker.
 about-debugging-worker-action-start = شروع کریں
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = ریجسٹریشن ختم کریں
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = چل رہا ہے
@@ -205,5 +216,7 @@ about-debugging-message-close-icon =
     .alt = پیغام بند کریں
 # Label text used for the error details of message component.
 about-debugging-message-details-label-error = نقص کی تفصیلات
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = انتباہ کی تفصیلات
 # Label text used for default state of details of message component.
 about-debugging-message-details-label = تفصیلات
