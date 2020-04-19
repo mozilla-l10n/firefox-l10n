@@ -699,9 +699,9 @@
 <!ENTITY glodaSearchBar.placeholder "Serĉi mesaĝojn…">
 
 <!-- Quick Search Menu Bar -->
-<!ENTITY searchSubjectMenu.label "Subject">
-<!ENTITY searchFromMenu.label "From">
-<!ENTITY searchSubjectOrFromMenu.label "Subject or From">
+<!ENTITY searchSubjectMenu.label "Temo">
+<!ENTITY searchFromMenu.label "Sendinto">
+<!ENTITY searchSubjectOrFromMenu.label "Temo aŭ sendinto">
 <!ENTITY searchRecipient.label "To or Cc">
 <!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
 <!ENTITY searchMessageBody.label "Entire Message">
