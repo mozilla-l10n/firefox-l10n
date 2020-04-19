@@ -24,8 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Buksan ang menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Mag-import ng mga Password...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Mag-import mula sa Ibang Browser…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Mga Kagustuhan
@@ -48,6 +48,7 @@ login-list-sort-label-text = Pagsunud-sunurin ayon sa:
 login-list-name-option = Pangalan (A-Z)
 login-list-name-reverse-option = Pangalan (Z-A)
 login-list-breached-option = Mga Nakompromisong Website
+about-logins-login-list-alerts-option = Mga Alerto
 login-list-last-changed-option = Huling Binago
 login-list-last-used-option = Huling Ginamit
 login-list-intro-title = Walang natagpuang mga login
@@ -84,10 +85,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopyahin
 login-item-copied-username-button-text = Nakopya na!
 login-item-password-label = Password
-login-item-password-reveal-checkbox-show =
-    .title = Ipakita ang password
-login-item-password-reveal-checkbox-hide =
-    .title = Itago ang password
 login-item-password-reveal-checkbox =
     .aria-label = Ipakita ang password
 login-item-copy-password-button-text = Kopyahin
@@ -98,6 +95,24 @@ login-item-cancel-button = Ikansela
 login-item-time-changed = Huling binago: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Ginawa: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Huling ginamit: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = i-edit ang naka-save na login
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = ipakita ang naka-save na password
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = kopyahin ang naka-save na password
 
 ## Master Password notification
 
@@ -138,10 +153,24 @@ confirm-discard-changes-dialog-confirm-button = Balewalain
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Website Breach
 breach-alert-text = May mga passwords na nabunyag o ninakaw mula sa website na ito mula noong huli kang nag-update sa ang iyong mga detalye sa pag-login.Baguhin ang iyong password upang maprotektahan ang iyong account.
 breach-alert-link = Matuto ng higit pa tungkol sa paglabag na ito.
 breach-alert-dismiss =
     .title = Isara ang alerto na ito
+about-logins-breach-alert-date = Naganap ang breach na ito noong { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Pumunta sa { $hostname }
+about-logins-breach-alert-learn-more-link = Alamin
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-text2 = Ang password na ito ay nagamit na sa ibang account na malamang ay nasangkot na sa isang data breach. Malalagay sa panganib ang mga account mo kapag ginamit muli ang mga credential. Baguhin ang password na ito.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Pumunta sa { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Alamin
 
 ## Error Messages
 
