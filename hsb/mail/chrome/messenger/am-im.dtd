@@ -11,6 +11,6 @@
 <!ENTITY account.alias                 "Alias:">
 <!ENTITY account.newMailNotification   "Wo nowej e-mejlu informować">
 <!ENTITY account.autojoin              "Awtomatisce zastupjene kanale:">
-<!ENTITY account.proxySettings.caption "Proksy-nastajenja:">
+<!ENTITY account.proxySettings.caption "Proksynastajenja:">
 <!ENTITY account.proxySettings.change.label     "Změnić…">
 <!ENTITY account.proxySettings.change.accessKey "Z">

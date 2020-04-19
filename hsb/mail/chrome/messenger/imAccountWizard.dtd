@@ -23,7 +23,7 @@
 <!ENTITY accountAliasGroupbox.caption "Lokalny alias">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "To zwobrazni so we wašich konwersacijach jenož potom, hdyž komunikujeće, zdalone kontakty njebudu to widźeć.">
-<!ENTITY accountProxySettings.caption "Proksy-nastajenja">
+<!ENTITY accountProxySettings.caption "Proksynastajenja">
 <!ENTITY accountProxySettings.change.label     "Změnić…">
 <!ENTITY accountProxySettings.change.accessKey "Z">
 
