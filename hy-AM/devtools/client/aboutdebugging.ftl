@@ -85,7 +85,7 @@ about-debugging-setup-intro = Կարգավորեք կապի եղանակը, որ
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
 about-debugging-setup-this-firefox = Օգտագործել <a>{ about-debugging-this-firefox-runtime-name }</a> ներդիրները վրիպազերծելու, ընդլայնումներ և ծառայության աշխատողներին { -brand-shorter-name }-ի այս տարբերակի համար։
 # Explanatory text in the Setup page about what the 'This Firefox' page is for
-about-debugging-setup-this-firefox2 = Օգտագործել <a>{ about-debugging-this-firefox-runtime-name }</a> վրիպազերծելու ընդլաայնոմները և ծառայության աշխատողներին { -brand-shorter-name }-ի այս տարբերակի համար։
+about-debugging-setup-this-firefox2 = Օգտագործել <a>{ about-debugging-this-firefox-runtime-name }</a> վրիպազերծելու ընդլայնումները և ծառայության աշխատողներին { -brand-shorter-name }-ի այս տարբերակի համար։
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Միացրեք սարք
 # USB section of the Setup page
