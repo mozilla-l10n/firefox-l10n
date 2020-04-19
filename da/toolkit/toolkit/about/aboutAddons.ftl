@@ -26,6 +26,8 @@ install-addon-from-file =
     .label = Installer tilføjelse fra fil…
     .accesskey = I
 help-button = Hjælp til tilføjelser
+sidebar-help-button-title =
+    .title = Hjælp til tilføjelser
 preferences =
     { PLATFORM() ->
         [windows] Indstillinger for { -brand-short-name }
@@ -33,6 +35,12 @@ preferences =
     }
 tools-menu =
     .tooltiptext = Indstillinger for alle tilføjelser
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Indstillinger for { -brand-short-name }
+           *[other] Indstillinger for { -brand-short-name }
+        }
 show-unsigned-extensions-button =
     .label = Nogle udvidelser kunne ikke bekræftes
 show-all-extensions-button =
@@ -177,13 +185,29 @@ extensions-view-available-updates =
     .name = Tilgængelige opdateringer
     .tooltiptext = { extensions-view-available-updates.name }
 addon-category-discover = Anbefalinger
+addon-category-discover-title =
+    .title = Anbefalinger
 addon-category-extension = Udvidelser
+addon-category-extension-title =
+    .title = Udvidelser
 addon-category-theme = Temaer
+addon-category-theme-title =
+    .title = Temaer
 addon-category-plugin = Plugins
+addon-category-plugin-title =
+    .title = Plugins
 addon-category-dictionary = Ordbøger
+addon-category-dictionary-title =
+    .title = Ordbøger
 addon-category-locale = Sprog
+addon-category-locale-title =
+    .title = Sprog
 addon-category-available-updates = Tilgængelige opdateringer
+addon-category-available-updates-title =
+    .title = Tilgængelige opdateringer
 addon-category-recent-updates = Seneste opdateringer
+addon-category-recent-updates-title =
+    .title = Seneste opdateringer
 
 ## These are global warnings
 
@@ -320,6 +344,8 @@ shortcuts-card-expand-button =
 shortcuts-card-collapse-button = Vis færre
 go-back-button =
     .tooltiptext = Gå tilbage
+header-back-button =
+    .title = Gå tilbage
 
 ## Recommended add-ons page
 

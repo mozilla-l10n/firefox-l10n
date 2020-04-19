@@ -65,7 +65,7 @@ about-logins-list-item-breach-icon =
   .title = Websted med datalæk
 
 about-logins-list-item-vulnerable-password-icon =
-  .title = Usikker adgansgkode
+  .title = Usikker adgangskode
 
 ## Introduction screen
 
@@ -186,7 +186,7 @@ about-logins-breach-alert-learn-more-link = Læs mere
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Usikker adgangskode
-about-logins-vulnerable-alert-text2 = Adgangskoden er blevet brugt til en anden konto, der sandynligvis har været med i en datalæk. Det kan bringe dine konti i fare at genbruge brugerneavne og adgangskoder. Skift denne adgangskode.
+about-logins-vulnerable-alert-text2 = Adgangskoden er blevet brugt til en anden konto, der sandynligvis har været med i en datalæk. Det kan bringe dine konti i fare at genbruge brugernavne og adgangskoder. Skift denne adgangskode.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Gå til { $hostname }
