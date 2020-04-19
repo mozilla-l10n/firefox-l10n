@@ -220,3 +220,19 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Пабачыць усе
     .accesskey = ы
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Лёгка стварайце надзейныя паролі
+cfr-whatsnew-lockwise-body = Цяжка прыдумваць унікальныя і надзейныя паролі для кожнага ўліковага запісу. Пры стварэнні пароля выберыце поле пароля, каб выкарыстаць надзейны згенераваны пароль ад { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Значок { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Атрымлівайце папярэджанні аб уразлівых паролях
+
+## Picture-in-Picture fullscreen message
+
