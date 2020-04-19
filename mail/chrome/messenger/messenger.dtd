@@ -624,7 +624,7 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignori averton por tiu ĉi mesaĝo">
 <!ENTITY phishingOptionIgnore.accesskey "I">
-<!ENTITY phishingOptionSettings.label "Edit scam detection options…">
+<!ENTITY phishingOptionSettings.label "Redakti agordojn pri averti pri trompoj…">
 <!ENTITY phishingOptionSettings.accesskey "d">
 <!ENTITY phishingOptionSettingsUnix.label "Edit scam detection preferences…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
