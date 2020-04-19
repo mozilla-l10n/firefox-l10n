@@ -47,6 +47,8 @@ options-stylesheet-autocompletion-label = CSS-ի ինքնալրացում
 
 ## Screenshot section
 
+# The heading
+options-screenshot-label = Էկրանի հանույթի պահվածք
 
 ## Editor section
 
@@ -61,6 +63,8 @@ options-sourceeditor-keybinding-default-label = Լռելյայն
 
 # The heading
 options-context-advanced-settings = Լրացուցիչ կարգավորումներ
+# The label for the checkbox that toggles the HTTP cache on or off
+options-disable-http-cache-label = Անջատել HTTP պահոցը (երբ գործիքատուփը բաց է)
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = Անջատել JavaScript-­ը *
 options-disable-javascript-tooltip =
