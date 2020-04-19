@@ -692,11 +692,11 @@
 <!ENTITY folderContextSettings2.accesskey "j">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Name or Email contains:">
+<!ENTITY SearchNameOrEmail.label "Nomo aŭ retletero enhavas:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 
 <!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.placeholder "Search messages…">
+<!ENTITY glodaSearchBar.placeholder "Serĉi mesaĝojn…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subject">
