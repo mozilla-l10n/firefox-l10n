@@ -300,6 +300,7 @@ sandbox-proc-type-content = vsebina
 sandbox-proc-type-file = vsebina datoteke
 sandbox-proc-type-media-plugin = večpredstavni vtičnik
 sandbox-proc-type-data-decoder = podatkovni dekodirnik
+startup-cache-disk-cache-path = Pot predpomnilnika diska
 launcher-process-status-0 = Omogočeno
 launcher-process-status-1 = Onemogočeno zaradi napake
 launcher-process-status-2 = Prisilno onemogočeno
