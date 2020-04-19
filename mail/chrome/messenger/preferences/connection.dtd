@@ -9,13 +9,13 @@
 <!ENTITY  proxyTitle.label              "Proksy za přistup k internetej konfigurować">
 <!ENTITY  noProxyTypeRadio.label        "Žadyn proksy">
 <!ENTITY  noProxyTypeRadio.accesskey    "a">
-<!ENTITY  systemTypeRadio.label         "Systemowe proksy-nastajenja wužiwać">
+<!ENTITY  systemTypeRadio.label         "Systemowe proksynastajenja wužiwać">
 <!ENTITY  systemTypeRadio.accesskey     "S">
 <!ENTITY  WPADTypeRadio.label           "Nastajenja proksy za tutu syć awtomatisce wotkryć">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Manuelna konfiguracija proksy:">
+<!ENTITY  manualTypeRadio.label         "Manuelna proksykonfiguracija:">
 <!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "URL awtomatiskeje konfiguracije proksy:">
+<!ENTITY  autoTypeRadio.label           "URL awtomatiskeje proksykonfiguracije:">
 <!ENTITY  autoTypeRadio.accesskey       "L">
 <!ENTITY  reload.label                  "Znowa začitać">
 <!ENTITY  reload.accesskey              "Z">
@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Žadyn proksy za:">
 <!ENTITY  noproxy.accesskey             "d">
 <!ENTITY  noproxyExplain.label          "Přikład: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Tutón proksyserwer za wšě protokole wužiwać">
+<!ENTITY  shareproxy.accesskey          "u">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Zwiski z localhost, 127.0.0.1 a ::1 ženje přez proksy njeńdu.">
-<!ENTITY  shareproxy.label              "Tutón proksy-serwer za wšě protokole wužiwać">
-<!ENTITY  shareproxy.accesskey          "u">
 <!ENTITY  proxyHttpSharing.label        "Tež tutón proksy za HTTPS wužiwać">
 <!ENTITY  proxyHttpSharing.accesskey    "k">
 <!ENTITY  autologinproxy.label          "Za awtentifikaciju so njeprašeć, jeli hesło je składowane">

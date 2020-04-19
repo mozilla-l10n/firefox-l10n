@@ -55,11 +55,11 @@
 <!ENTITY unknownProtocolFound.title "Adresa njebu zrozumjena">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Je móžno, zo dyrbiće druhu softwaru instalować, zo byšće tutu adresu wočinił.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Proksy-serwer zwiski wotpokazuje">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Přepruwujće proksy-nastajenja, zo byšće zawěsćił, zo su korektne.</li> <li>Stajće so ze swojim syćowym administratorom do zwiska, zo byšće zawěsćił, za proksy-serwer dźěła.</li> </ul>">
+<!ENTITY proxyConnectFailure.title "Proksyserwer zwiski wotpokazuje">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Přepruwujće proksynastajenja, zo byšće zawěsćił, zo su korektne.</li> <li>Stajće so ze swojim syćowym administratorom do zwiska, zo byšće zawěsćił, za proksyserwer dźěła.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Proksy-serwer njeda so namakać">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Přepruwujće proksy-nastajenja, zo byšće zawěsćił, zo su korektne.</li> <li>Přepruwujće hač waš ličak ma fungowacy syćowy zwisk.</li> <li>Jeli waš ličak abo waša syć so přez wohnjowu murju abo proksy škita, zawěsćće, zo &brandShortName; smě z webom zwjazać.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "Proksyserwer njeda so namakać">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Přepruwujće proksynastajenja, zo byšće zawěsćił, zo su korektne.</li> <li>Přepruwujće hač waš ličak ma fungowacy syćowy zwisk.</li> <li>Jeli waš ličak abo waša syć so přez wohnjowu murju abo proksy škita, zawěsćće, zo &brandShortName; smě z webom zwjazać.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Strona so porjadnje dale njesposrědkuje">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Tutón problem so druhdy zawinuje, hdyž so placki znjemóžnjeja abo wotpokazuja.</li> </ul>">
