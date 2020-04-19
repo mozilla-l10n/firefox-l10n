@@ -193,7 +193,7 @@ cfr-doorhanger-socialtracking-dont-show-again = Ur d-skanay ara iznan am wi tikk
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } yessewḥel aẓeṭṭa inmetti akken ad k-yeḍfeṛ dagi
 cfr-doorhanger-socialtracking-description = Aqadeṛ n tudert-ik tabaḍnit yeɛna-aɣ. { -brand-short-name } yesseḥal akka tura ineḍfaṛen n yiẓeḍwa inmettiyen yettwassnen, ayen yettarran talast i tnecta n yisefka i zemren ad d-leqḍen armud-ik srid.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } yessewḥel aneḍfaṛ n udsil umḍin ɣef usebter-a.
-cfr-doorhanger-fingerprinters-description = Aqadeṛ n tbaḍnit-ik teɛna-aɣ. { -brand-short-name } yesseḥal akka tura ineḍfaṛen n udsil umḍin, i d-ileqḍen talɣut tasuft yettwassnen ɣef yibenk-ik akken ad k-yeḍfeṛ.
+cfr-doorhanger-fingerprinters-description = Aqader n tbaḍnit-ik teɛna-aɣ. { -brand-short-name } yessewḥal akka tura ineḍfaren n udsilen umḍinen, i d-ileqḍen talɣut tasuft yettwassnen ɣef yibenk-ik akken ad k-yeḍfer.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } yessewḥel akriptuminer ɣef usebter-a.
 cfr-doorhanger-cryptominers-description = Aqadeṛ n tudert-ik tusligt d ayen meqqren. { -brand-short-name } yessewḥal akka tura ikriptumniren i yesseqdacen tazmert n usiḍen n unagraw-ik n wammud akken ad d-kksen tadrimt tumḍint.
 
