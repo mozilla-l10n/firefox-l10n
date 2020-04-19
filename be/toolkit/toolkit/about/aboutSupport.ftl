@@ -298,6 +298,8 @@ sandbox-proc-type-data-decoder = дэкодар даных
 startup-cache-title = Кэш запуску
 startup-cache-disk-cache-path = Шлях да дыскавага кэшу
 startup-cache-ignore-disk-cache = Ігнараваць дыскавы кэш
+startup-cache-found-disk-cache-on-init = Знойдзены дыскавы кэш пры ініцыялізацыі
+startup-cache-wrote-to-disk-cache = Запісаны ў дыскавы кэш
 launcher-process-status-0 = Уключана
 launcher-process-status-1 = Адключана з-за збою
 launcher-process-status-2 = Прымусова адключана
@@ -321,6 +323,7 @@ touch-enabled = пальцавы увод ўключаны
 drag-enabled = захоп стужкі прагорткі ўключаны
 keyboard-enabled = клавіятура ўключана
 autoscroll-enabled = аўтапракрутка ўключана
+zooming-enabled = уключана плаўнае маштабаванне жэстам
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
