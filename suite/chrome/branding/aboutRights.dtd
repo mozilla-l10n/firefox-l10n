@@ -58,10 +58,12 @@
 <!ENTITY rights.addons-b "&brandShortName; bo brez nastavljanja predlagal dodatke na strani view.discover.label; in bo preverjal prisotnost posodobitev v rednih intervalih. Če želite onemogočiti te funkcije, da bi se izognili sporočanju o nameščenih dodatkih na strežniku, sledite tem korakom:">
 <!ENTITY rights.addons-term1 "Odprite nastavitve programa">
 <!ENTITY rights.addons-term2 "Izberite pano &smart.label; v kategoriji &advance.label;">
+<!ENTITY rights.addons-term3 "Počistite izbiro pred &quot;&autoAddOnsUpdates.label;&quot; in &quot;&enablePersonalized.label;&quot;">
 <!ENTITY rights.addons-term4 "Storitve dodatkov so zdaj onemogočene">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Varno brskanje:">
+<!ENTITY rights.safebrowsing-b "Možnosti Varno brskanje ni priporočljivo onemogočati, ker lahko zaradi tega zaidete na nevarne strani. Če želite možnost v celoti onemogočiti, sledite tem korakom:">
 <!ENTITY rights.safebrowsing-term1 "Odprite nastavitve programa">
 <!ENTITY rights.safebrowsing-term3 "Počistite možnosti &quot;&blockAttackSites.label;&quot; in &quot;&blockWebForgeries.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Varno brskanje je tako onemogočeno">
