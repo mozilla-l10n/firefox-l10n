@@ -233,7 +233,7 @@ about-debugging-browser-version-too-old-67-debugger = Debugger-panelet virker mu
 
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
-about-debugging-browser-version-too-old-fennec = Denne version af Firefox kan ikke bruges tli at debugge Firefox til Android (68). Vi anbefaler, at du installerer Firefox Nightly til Android for at kunne teste. < a>Læs mere</a>
+about-debugging-browser-version-too-old-fennec = Denne version af Firefox kan ikke bruges til at debugge Firefox til Android (68). Vi anbefaler, at du installerer Firefox Nightly til Android for at kunne teste. < a>Læs mere</a>
 
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/en-US/docs/Tools/WebIDE/Troubleshooting
