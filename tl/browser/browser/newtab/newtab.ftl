@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Ang aksyon na ito ay hindi na mababawi.
 newtab-menu-section-tooltip =
     .title = Buksan ang menu
     .aria-label = Buksan ang menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Tanggalin
+    .aria-label = Tanggalin
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Ang aming mga suki at iyong privacy
 
 newtab-privacy-modal-button-done = Tapos na
 newtab-privacy-modal-header = Mahalaga ang iyong privacy.
-newtab-privacy-modal-paragraph =
-    Bukod sa paghahatid ng magagandang kwento, nagpapakita rin kami ng mga 
-    nilalamang inirerekomenda ng piling mga suki. Sinisiguro namin na ang iyong
-    browsing data ay hindi lumalabas mula sa kopya mo ng { -brand-product-name } —
-    hindi namin ito makikita, pati ang mga suki namin.
 newtab-privacy-modal-paragraph-2 =
     Bukod sa paghahatid ng magagandang kwento, nagpapakita rin kami ng mga 
     nilalamang inirerekomenda ng piling mga suki. Sinisiguro namin na <strong>ang iyong
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Halos na-load na yung
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Tanyag na mga paksa:
 newtab-pocket-more-recommendations = Karagdagang Rekomendasyon
-newtab-pocket-whats-pocket = Ano ang { -pocket-brand-name }?
 newtab-pocket-learn-more = Alamin
 newtab-pocket-cta-button = Kunin ang { -pocket-brand-name }
 newtab-pocket-cta-text = I-save sa { -pocket-brand-name } ang mga kwentong iyong nagustuhan, at palawigin ang iyong pagiisip sa mga nakabibighaning babasahin.

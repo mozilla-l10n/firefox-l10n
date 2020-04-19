@@ -780,6 +780,10 @@ forms-master-pw-change =
 forms-master-pw-fips-title = Kasalukuyang nasa FIPS mode ka.  Nangangailangan ang FIPS ng isang may laman na Master Password.
 forms-master-pw-fips-desc = Nabigo ang Pagpalit ng Password
 
+## OS Authentication dialog
+
+master-password-os-auth-dialog-caption = { -brand-full-name }
+
 ## Privacy Section - History
 
 history-header = Kasaysayan

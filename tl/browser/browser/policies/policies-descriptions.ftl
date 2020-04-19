@@ -21,6 +21,7 @@ policy-Bookmarks = Gumawa ng mga bookmark sa Bookmark toolbar, Bookmark menu, o 
 policy-CaptivePortal = I-enable o i-disable ang captive portal support.
 policy-CertificatesDescription = Magdagdag ng mga certificate o gumamit ng built-in na mga certificate.
 policy-Cookies = Payagan o pagbawalan ang mga website na maglagay ng mga cookie.
+policy-DisabledCiphers = I-disable ang mga cipher.
 policy-DefaultDownloadDirectory = I-set ang default download directory.
 policy-DisableAppUpdate = Pigilan ang browser mula sa pag-update.
 policy-DisableBuiltinPDFViewer = I-disable ang PDF.js, ang built-in na PDF viewer sa { -brand-short-name }.
@@ -63,6 +64,12 @@ policy-HardwareAcceleration = Kung false, isara ang hardware acceleration.
 policy-Homepage = I-set at i-lock (optional) ang homepage.
 policy-InstallAddonsPermission = Payagan ang ilang mga website na magkabit ng mga add-on.
 policy-LegacyProfiles = I-disable ang feature na nagpapatupad ng hiwalay na profile sa bawat installation
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-LocalFileLinks = Payagan ang ilang mga website na mag-link sa mga local file.
 policy-NetworkPrediction = I-enable o i-disable ang network prediction (DNS prefetching).
 policy-NewTabPage = I-enable o i-disable ang New Tab page.
@@ -72,7 +79,6 @@ policy-OfferToSaveLoginsDefault = Itakda ang default value sa pagpahintulot sa {
 policy-OverrideFirstRunPage = I-override ang first run page. Itakda ang polisiyang ito sa blangko kung gusto mong i-disable ang first run page.
 policy-OverridePostUpdatePage = Patungan ang nilalaman ng pahinang "Ano ang Bago" matapos mag-update. Itakda ang polisiyang ito sa blangko kung gusto mong huwag paganahin ang post-update page.
 policy-PasswordManagerEnabled = I-enable ang pag-save ng mga password sa password manager.
-policy-Permissions = I-configure ang mga pahintulot para sa camera, mikropono, lokasyon at abiso.
 policy-Permissions2 = I-configure ang mga pahintulot para sa camera, mikropono, lokasyon, abiso, at autoplay.
 policy-PopupBlocking = Payagan ang mga piling website para magpakita ng popup by default.
 policy-Preferences = I-set at i-lock ang value para sa mga kagustuhan na napili

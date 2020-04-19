@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Magsimula
 onboarding-welcome-header = Maligayang pagdating sa { -brand-short-name }
 onboarding-welcome-body = Nakuha mo na ang browser.<br/>Kilalanin ang iba pang miyembro ng { -brand-product-name }.
 onboarding-welcome-learn-more = Alamin ang mga benepisyo.
+onboarding-join-form-header = Sumama sa { -brand-product-name }
 onboarding-welcome-modal-get-body = Nakuha mo na ang browser.<br/>Ngayon, sulitin mo naman ang { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Itodo natin ang proteksyon mo sa privacy.
 onboarding-welcome-modal-privacy-body = Nakuha mo na ang browser. Dagdagan naman natin ngayon ang iyong privacy protection.
 onboarding-welcome-modal-family-learn-more = Alamin ang tungkol sa mga produktong saklaw ng { -brand-product-name }.
 onboarding-welcome-form-header = Magsimula Rito
-onboarding-join-form-header = Sumama sa { -brand-product-name }
 onboarding-join-form-body = Ipasok ang iyong email address para magsimula.
 onboarding-join-form-email =
     .placeholder = Ipasok ang email
@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Idagdag ang Extension
 onboarding-import-browser-settings-title = I-import ang iyong mga Bookmark, Password, at iba pa
 onboarding-import-browser-settings-text = Sumabak agad — madali mong dalhin kasama mo ang iyong mga site at setting sa Chrome.
 onboarding-import-browser-settings-button = i-Import ang Chrome Data
+onboarding-personal-data-promise-button = Basahin ang aming Pangako
 
 ## Message strings belonging to the Return to AMO flow
 

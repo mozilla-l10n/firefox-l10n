@@ -119,6 +119,10 @@ cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Mag-type nang mas kaunti at maghanap nang mas marami sa address bar
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Puntahan ang mga site na pinakamadalas mong gamitin sa pamamagitan ng isang click sa address bar. Maghanap nang mas mabilis gamit ang mga resulta mula sa { $searchEngineName } at iyong browsing history.
+cfr-whatsnew-searchbar-body-topsites = Ngayon, piliin lang ang address bar, at may magpapakitang box na may mga link sa mga top site mo.
 cfr-whatsnew-searchbar-icon-alt-text = Magnifying glass icon
 
 ## Picture-in-Picture
@@ -203,3 +207,22 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Tingnan Lahat
     .accesskey = T
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-body = Mahirap mag-isip ng kakaiba't ligtas na password sa bawat account. Kapag gumagawa ng password, piliin ang password field para gumamit ng ligtas na nabuong password mula sa { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Icon ng { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Tumanggap ng mga alerto tungkol sa mga mahihinang password
+cfr-whatsnew-passwords-body = Alam ng mga hacker na inuulit-ulit lang ang mga password na ginagamit ng mga tao. Kung ginamit mo ang kaparehong password sa iba't-ibang mga site, at isa sa mga iyon ay natagpuan sa isang data breach, makakakita ka ng alerto sa { -lockwise-brand-short-name } para baguhin ang password sa site na iyon.
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = I-fullscreen ang picture-in-picture
+cfr-whatsnew-pip-fullscreen-body = Kapag pinanood mo ang isang video sa floating window, pwede mo na itong i-double-click para gawing fullscreen.
+cfr-whatsnew-pip-fullscreen-icon-alt = Picture-in-picture icon
