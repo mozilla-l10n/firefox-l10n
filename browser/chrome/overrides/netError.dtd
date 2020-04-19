@@ -91,7 +91,7 @@
 
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Přepruwujće proksynastajenja, zo by so zawěsćiło, zo su korektne.</li> <li>Pruwujće, hač waš ličak ma fungowacy syćowy zwisk.</li> <li>Jeli waš ličak abo syć so z wohnjowej murju abo proksy škita, zawěsćće, zo &brandShortName; smě na Web přistup měć.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Strona njesprawje posrědkuje">
+<!ENTITY redirectLoop.title "Strona njeprawje posrědkuje">
 
 <!ENTITY redirectLoop.longDesc "<ul> <li>Tutón problem so druhdy přeze znjemóžnjenje abo wotpokazowanje plackow zawinuje.</li> </ul>">
 
