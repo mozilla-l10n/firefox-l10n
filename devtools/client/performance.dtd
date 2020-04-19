@@ -42,7 +42,7 @@
 <!ENTITY performanceUI.toolbar.memory-calltree "Բաշխումներ">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Ցուցադրումներ, որտեղ ձայնագրության ընթացքում հիշողություն է հատկացվել։">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Այրել JS աղյուսակը">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ցույց է տալիս JavaScript֊ի կանչի զանգը ձայնագրության ընթացքում։">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Ցոյց է տալիս JavaScript֊ի կանչի զանգը ձայնագրութեան ընթացքում։">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Հատկացումների հրային աղյուսակ">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
