@@ -313,6 +313,7 @@ shortcuts-no-commands = Наступныя пашырэнні не маюць с
 shortcuts-input =
     .placeholder = Увядзіце спалучэнне клавіш
 shortcuts-browserAction = Актываваць пашырэнне
+shortcuts-browserAction2 = Актываваць кнопку на паліцы прылад
 shortcuts-pageAction = Актываваць дзеянні старонкі
 shortcuts-sidebarAction = Паказаць/схаваць бакавую панэль
 shortcuts-modifier-mac = Улучыце Ctrl, Alt або ⌘
