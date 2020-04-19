@@ -22,6 +22,8 @@ certificate-viewer-country = Bansa
 certificate-viewer-curve = Curve
 certificate-viewer-distribution-point = Distribution Point
 certificate-viewer-dns-name = DNS Name
+certificate-viewer-ip-address = IP Address
+certificate-viewer-other-name = Ibang Pangalan
 certificate-viewer-exponent = Exponent
 certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Key Exchange Group
@@ -44,6 +46,7 @@ certificate-viewer-purposes = Mga Hangarin
 certificate-viewer-qualifier = Qualifier
 certificate-viewer-qualifiers = Mga Qualifier
 certificate-viewer-required = Kinakailangan
+certificate-viewer-unsupported = &lt;hindi suportado&gt;
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-state-province = Estado/Lalawigan kung saan Na-Incorporate
 certificate-viewer-state-province = Estado/Lalawigan
@@ -92,3 +95,6 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
