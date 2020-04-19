@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 connection-window =
-    .title = Nastajenja zwiskow
+    .title = Zwiskowe nastajenja
     .style =
         { PLATFORM() ->
             [macos] width: 44em
