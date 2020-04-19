@@ -615,9 +615,9 @@
 
 <!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Montri foran enhavon en tiu ĉi mesaĝo">
-<!ENTITY remoteContentOptionsAllowForMsg.accesskey "S">
-<!ENTITY editRemoteContentSettings.label "Edit remote content options…">
-<!ENTITY editRemoteContentSettings.accesskey "E">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "M">
+<!ENTITY editRemoteContentSettings.label "Redakti agordojn pri fora enhavo…">
+<!ENTITY editRemoteContentSettings.accesskey "R">
 <!ENTITY editRemoteContentSettingsUnix.label "Edit remote content preferences…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "E">
 
