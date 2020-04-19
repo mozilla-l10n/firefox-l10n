@@ -96,7 +96,7 @@ cfr-whatsnew-panel-header = Amaynut
 cfr-whatsnew-release-notes-link-text = Ɣer tizmilin n lqem.
 cfr-whatsnew-fx70-title = { -brand-short-name } yettnaḍaḥ tura ugar ɣef tudert-ik tabaḍnit
 cfr-whatsnew-fx70-body = Lqem aneggaru yesnerna tamahilt n ummesten mgal aḍfaṛ daɣen urǧin yella yessifses am akka, timerna n wawalen uffiren iɣelsanen i yal asmel.
-cfr-whatsnew-tracking-protect-title = Mmesten iman-ik seg yineḍfaṛen.
+cfr-whatsnew-tracking-protect-title = Mmesten iman-ik seg yineḍfaren.
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } yessewḥal ddeqs n yineḍfaren inmettiyen akked igrismal yettwassnen i yeṭṭafaṛen ayen i txeddmeḍ srid.
 cfr-whatsnew-tracking-protect-link-text = Wali aneqqis-ik
 # This string is displayed before a large numeral that indicates the total
