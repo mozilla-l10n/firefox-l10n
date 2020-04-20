@@ -705,7 +705,7 @@
 <!ENTITY searchRecipient.label "Ricevonto aŭ kaŝkopio">
 <!ENTITY searchSubjectOrRecipientMenu.label "Temo, ricevonto aŭ kaŝkopio">
 <!ENTITY searchMessageBody.label "Tuta mesaĝo">
-<!ENTITY saveAsVirtualFolderMenu.label "Save Search as a Folder…">
+<!ENTITY saveAsVirtualFolderMenu.label "Konservi serĉon kiel mesaĝujon…">
 
 <!-- Thread Pane -->
 <!ENTITY selectColumn.label "Elekti mesaĝojn">
@@ -748,7 +748,7 @@
 <!ENTITY unreadColumn2.tooltip "Nombro da ĉiuj nelegitaj mesaĝoj en fadeno">
 <!ENTITY totalColumn2.tooltip "Nombro da ĉiuj mesaĝoj en fadeno">
 <!ENTITY readColumn2.tooltip "Ordigi laŭ stato: nelegita/legita">
-<!ENTITY receivedColumn2.tooltip "Sort by date received">
+<!ENTITY receivedColumn2.tooltip "Ordigi laŭ dato de ricevo">
 <!ENTITY starredColumn2.tooltip "Sort by star">
 <!ENTITY locationColumn2.tooltip "Sort by location">
 <!ENTITY idColumn2.tooltip "Sort by order received">
