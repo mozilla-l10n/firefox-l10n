@@ -84,6 +84,7 @@ redirectLoop-title = Síðan er ekki að endurbeina rétt
 unknownSocketType-title = Rangt svar frá netþjóni
 nssFailure2-title = Örugg tenging mistókst
 cspBlocked-title = Lokað á vegna öryggisreglu
+xfoBlocked-title = Lokað fyrir X-Frame-Options regluna
 corruptedContentError-title = Villa skemmd gögn
 remoteXUL-title = Fjarlægt XUL
 sslv3Used-title = Get ekki tengst á öruggan hátt
