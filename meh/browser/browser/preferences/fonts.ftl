@@ -9,6 +9,8 @@ fonts-window-close =
 
 ## Font groups by language
 
+fonts-langgroup-header = Fuentes para
+    .accesskey = F
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =

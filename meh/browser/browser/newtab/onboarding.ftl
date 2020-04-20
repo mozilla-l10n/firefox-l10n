@@ -139,6 +139,7 @@ onboarding-facebook-container-button = Tee extensión
 onboarding-import-browser-settings-title = Nake'en marcadores, contraseñas ji kue'eka
 onboarding-import-browser-settings-button = Sá´á importar datos Chrome
 onboarding-personal-data-promise-title = Privado por diseño
+onboarding-personal-data-promise-text = { -brand-product-name } kumi datos noo'o je nake'en mati'i, chuva'a je kachi naja ni'idani da ya'a.
 onboarding-personal-data-promise-button = Ka'vi promesa da nuu'u
 
 ## Message strings belonging to the Return to AMO flow

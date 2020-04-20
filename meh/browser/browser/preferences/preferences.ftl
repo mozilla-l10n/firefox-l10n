@@ -142,9 +142,18 @@ choose-button =
     .accesskey = S
 choose-browser-language-description = Kaji tu´un kutuvi nuu menús, mensajes je notificaciones { -brand-short-name }.
 confirm-browser-language-change-button = Tee je nakajie´e
+translate-web-pages =
+    .label = Traducir contenido web
+    .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Traducciones nsá'á <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepciones…
     .accesskey = X
+check-user-spelling =
+    .label = Kune'ya ortografía ntaka teenu
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -168,6 +177,7 @@ download-always-ask-where =
     .label = Ntaka ichi katu´un nuu´u nenu chuva´aní da archivos
     .accesskey = N
 applications-header = Da ka̱a̱
+applications-description = Kaji naja { -brand-short-name } tetiñu da archivos xinuu nuu web a xíín da inka ka̱a̱ ni'inu ntaka nánukunu.
 applications-action-column =
     .label = Acción
     .accesskey = A
