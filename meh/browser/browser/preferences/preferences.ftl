@@ -178,6 +178,11 @@ download-always-ask-where =
     .accesskey = N
 applications-header = Da ka̱a̱
 applications-description = Kaji naja { -brand-short-name } tetiñu da archivos xinuu nuu web a xíín da inka ka̱a̱ ni'inu ntaka nánukunu.
+applications-filter =
+    .placeholder = Nánuku tipos archivos a xíín aplicaciones
+applications-type-column =
+    .label = Tipo de contenido
+    .accesskey = T
 applications-action-column =
     .label = Acción
     .accesskey = A
@@ -201,6 +206,7 @@ applications-manage-app =
     .label = Detalles ka̱a̱...
 applications-always-ask =
     .label = Ntaka ichi katu´un
+applications-type-pdf = Formato de Documento Portátil (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
@@ -216,6 +222,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Ni´i { $plugin-name } (nuu { -brand-short-name })
+applications-preview-inapp =
+    .label = Kune'ya nakja kino  { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -238,8 +246,17 @@ applications-use-other-label =
 
 ##
 
+drm-content-header = Tu'un DRM (Digital Rights Management - Tetiñu da Derechos Digitales)
+play-drm-content =
+    .label = Reproducir contenido controlado por DRM
+    .accesskey = P
 play-drm-content-learn-more = Ka´vi kue´eka
+update-application-title = { -brand-short-name } actualizaciones
+update-application-description = Kino { -brand-short-name } actualizado saa kuvi satiñu va'a, koo estabilidad ji seguridad.
 update-application-version = Versión { $version } <a data-l10n-name="learn-more"> Nakuvi a jíía íyo</a>
+update-history =
+    .label = Tuvi kuaiyo historial actualizaciones...
+    .accesskey = p
 update-application-allow-description = Kuvini a { -brand-short-name }
 update-application-manual =
     .label = Nnánukunu actualizaciones (no recomendado)
