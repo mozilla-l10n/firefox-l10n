@@ -194,7 +194,11 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } icon
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Nake'e alertas ji contraseñas vulnerables
+cfr-whatsnew-passwords-icon-alt = Ícono de contraseña vulnerable
 
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Kuiso picture-in-picture nuu pantalla ka'nu
+cfr-whatsnew-pip-fullscreen-body = Saa jisonu iin video nuu iin ventana flotante, kuvi kakanu je sá'ánu clic nuu ventana je kuisonuma nuu pantalla ka'nu.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ícono de picture-in-picture
