@@ -784,7 +784,6 @@
 <!ENTITY contextReplyList.label "Respondi al listo">
 <!ENTITY contextReplyList.accesskey "s">
 <!ENTITY contextForward.label "Plusendi">
-<!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsMenu.label "Plusendi kiel">
 <!ENTITY contextForwardAsMenu.accesskey "u">
 <!ENTITY contextForwardAsInline.label "enhavon de mesaĝo">
@@ -812,11 +811,11 @@
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "O">
 <!ENTITY contextSaveAs.label "Konservi kiel…">
-<!ENTITY contextSaveAs.accesskey "S">
-<!ENTITY contextPrint.label "Print…">
+<!ENTITY contextSaveAs.accesskey "v">
+<!ENTITY contextPrint.label "Presi…">
 <!ENTITY contextPrint.accesskey "P">
-<!ENTITY contextPrintPreview.label "Print Preview">
-<!ENTITY contextPrintPreview.accesskey "v">
+<!ENTITY contextPrintPreview.label "Antaŭvidi presadon">
+<!ENTITY contextPrintPreview.accesskey "d">
 
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
