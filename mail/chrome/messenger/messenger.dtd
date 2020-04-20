@@ -711,18 +711,18 @@
 <!ENTITY selectColumn.label "Elekti mesaĝojn">
 <!ENTITY threadColumn.label "Fadeno">
 <!ENTITY fromColumn.label "Sendinto">
-<!ENTITY recipientColumn.label "Recipient">
-<!ENTITY correspondentColumn.label "Correspondents">
-<!ENTITY subjectColumn.label "Subject">
-<!ENTITY dateColumn.label "Date">
-<!ENTITY priorityColumn.label "Priority">
-<!ENTITY tagsColumn.label "Tag">
-<!ENTITY accountColumn.label "Account">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Size">
-<!ENTITY junkStatusColumn.label "Junk Status">
-<!ENTITY unreadColumn.label "Unread">
-<!ENTITY totalColumn.label "Total">
+<!ENTITY recipientColumn.label "Ricevonto">
+<!ENTITY correspondentColumn.label "Koresponduloj">
+<!ENTITY subjectColumn.label "Temo">
+<!ENTITY dateColumn.label "Dato">
+<!ENTITY priorityColumn.label "Prioritato">
+<!ENTITY tagsColumn.label "Etikedo">
+<!ENTITY accountColumn.label "Konto">
+<!ENTITY statusColumn.label "Stato">
+<!ENTITY sizeColumn.label "Grando">
+<!ENTITY junkStatusColumn.label "Stato de trudmesaĝo">
+<!ENTITY unreadColumn.label "Nelegita">
+<!ENTITY totalColumn.label "Tute">
 <!ENTITY readColumn.label "Read">
 <!ENTITY receivedColumn.label "Received">
 <!ENTITY starredColumn.label "Starred">
