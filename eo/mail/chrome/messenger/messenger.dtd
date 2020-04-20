@@ -734,20 +734,20 @@
 <!ENTITY columnChooser2.tooltip "Elekti kolumnojn por vidigi">
 <!ENTITY selectColumn.tooltip "Baskuli elekti ĉiujn mesaĝojn">
 <!ENTITY threadColumn2.tooltip "Ordigi mesaĝojn en fadenoj">
-<!ENTITY fromColumn2.tooltip "Sort by from">
-<!ENTITY recipientColumn2.tooltip "Sort by recipient">
-<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
-<!ENTITY subjectColumn2.tooltip "Sort by subject">
-<!ENTITY dateColumn2.tooltip "Sort by date">
-<!ENTITY priorityColumn2.tooltip "Sort by priority">
-<!ENTITY tagsColumn2.tooltip "Sort by tags">
-<!ENTITY accountColumn2.tooltip "Sort by account">
-<!ENTITY statusColumn2.tooltip "Sort by status">
-<!ENTITY sizeColumn2.tooltip "Sort by size">
-<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
-<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
-<!ENTITY readColumn2.tooltip "Sort by read">
+<!ENTITY fromColumn2.tooltip "Ordigi laŭ nomo de sendinto">
+<!ENTITY recipientColumn2.tooltip "Ordigi laŭ nomo de ricevonto">
+<!ENTITY correspondentColumn2.tooltip "Ordigi laŭ nomoj de koresponduloj">
+<!ENTITY subjectColumn2.tooltip "Ordigi laŭ temo">
+<!ENTITY dateColumn2.tooltip "Ordigi laŭ dato">
+<!ENTITY priorityColumn2.tooltip "Ordigi laŭ prioritato">
+<!ENTITY tagsColumn2.tooltip "Ordigi laŭ etikedoj">
+<!ENTITY accountColumn2.tooltip "Ordigi laŭ konto">
+<!ENTITY statusColumn2.tooltip "Ordigi laŭ stato">
+<!ENTITY sizeColumn2.tooltip "Ordigi laŭ grando">
+<!ENTITY junkStatusColumn2.tooltip "Ordigi laŭ stato de trudmesaĝo">
+<!ENTITY unreadColumn2.tooltip "Nombro da ĉiuj nelegitaj mesaĝoj en fadeno">
+<!ENTITY totalColumn2.tooltip "Nombro da ĉiuj mesaĝoj en fadeno">
+<!ENTITY readColumn2.tooltip "Ordigi laŭ nombro da nelegitaj mesaĝoj">
 <!ENTITY receivedColumn2.tooltip "Sort by date received">
 <!ENTITY starredColumn2.tooltip "Sort by star">
 <!ENTITY locationColumn2.tooltip "Sort by location">
