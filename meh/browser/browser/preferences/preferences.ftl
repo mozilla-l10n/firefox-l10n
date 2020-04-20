@@ -632,6 +632,7 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = Sama...
     .accesskey = m
+forms-master-pw-fips-title = Ntañu'u yɨ'ɨnu ji FIPS. FIPS jiniñu'u iin contraseña maestra ntu vacia.
 forms-master-pw-fips-desc = Error saa kuvinu sama contraseña
 
 ## OS Authentication dialog
@@ -661,6 +662,8 @@ history-remember-option-all =
     .label = Nasku'u historial
 history-remember-option-never =
     .label = Nchuva´a historial
+history-remember-option-custom =
+    .label = Ni'i configuraciones personalizadas nuu historial
 history-private-browsing-permanent =
     .label = Ntaka ichí ni'i nánuku yu'u
     .accesskey = p
@@ -670,6 +673,9 @@ history-remember-browser-option =
 history-remember-search-option =
     .label = Naku´u nnánuku ji formularios.
     .accesskey = f
+history-clear-on-close-option =
+    .label = Xina historial saa nakasɨnɨ { -brand-short-name }
+    .accesskey = B
 history-clear-on-close-settings =
     .label = Nake´i
     .accesskey = t
@@ -680,7 +686,15 @@ history-clear-button =
 ## Privacy Section - Site Data
 
 sitedata-header = Cookies ji datos nuu ya´a
+sitedata-total-size-calculating = Chunku'va ka'nu datos nuu ji caché…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Da cookies, datos sitio ji caché nchuva'a ni'i ntañu'u iin { $value } { $unit } espacio nuu disco.
 sitedata-learn-more = Ka´vi jiee ya´a
+sitedata-delete-on-close =
+    .label = Xina cookies ji datos sitio sa nakasɨ { -brand-short-name }
+    .accesskey = c
 sitedata-disallow-cookies-option =
     .label = Kasɨ da cookies ji datos nuu ya'a
     .accesskey = B
