@@ -177,7 +177,7 @@ main-context-menu-media-hide-controls =
 
 main-context-menu-media-video-fullscreen =
     .label = Ecran complet
-    .accesskey = p
+    .accesskey = c
 main-context-menu-media-video-leave-fullscreen =
     .label = Sortir del mòde ecran complet
     .accesskey = c
