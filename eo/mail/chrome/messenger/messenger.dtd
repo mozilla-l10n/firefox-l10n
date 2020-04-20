@@ -928,7 +928,7 @@
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
-<!ENTITY saveLinkAsCmd.label "Save Link As…">
+<!ENTITY saveLinkAsCmd.label "Konservi ligitan dosieron kiel…">
 <!ENTITY saveLinkAsCmd.accesskey "k">
 <!ENTITY saveImageAsCmd.label "Save Image As…">
 <!ENTITY saveImageAsCmd.accesskey "v">
