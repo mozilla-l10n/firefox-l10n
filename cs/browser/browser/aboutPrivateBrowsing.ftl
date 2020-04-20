@@ -6,7 +6,7 @@ about-private-browsing-learn-more = Zjistit více o <a data-l10n-name="learn-mor
 about-private-browsing-info-visited = navštívené stránky
 privatebrowsingpage-open-private-window-label = Otevřít anonymní okno
     .accesskey = a
-about-private-browsing-info-notsaved = Při použití anonymního okna { -brand-short-name } <strong>neukládá</strong>:
+about-private-browsing-info-notsaved = Z anonymních oken { -brand-short-name } <strong>neukládá</strong>:
 about-private-browsing-search-placeholder = Vyhledat na webu
 about-private-browsing-info-bookmarks = záložky
 about-private-browsing-info-title = Jste v anonymním okně
@@ -22,7 +22,7 @@ tracking-protection-start-tour = Jak to funguje
 about-private-browsing-note = Ani s funkcí anonymního prohlížení <strong>ale nebudete na internetu zcela neviditelní.</strong> Váš zaměstnavatel nebo poskytovatel připojení k internetu mohou stále zjistit, které stránky navštěvujete.
 about-private-browsing =
     .title = Vyhledat na webu
-about-private-browsing-not-private = Aktuálně nepracujete s anonymním oknem.
+about-private-browsing-not-private = Nyní nejste v anonymním okně.
 content-blocking-title = Blokování obsahu
 content-blocking-description = Některé webové stránky používají prvky, které vás mohou sledovat napříč internetem. V anonymním prohlížení { -brand-short-name } zablokuje mnohé sledovací prvky, které o vás sbírají informace.
 about-private-browsing-info-description =
