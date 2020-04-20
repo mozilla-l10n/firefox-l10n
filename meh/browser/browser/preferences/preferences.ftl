@@ -264,17 +264,27 @@ update-application-check-choose =
 update-application-manual =
     .label = Nnánukunu actualizaciones (no recomendado)
     .accesskey = N
+update-application-warning-cross-user-setting = A nke'i ya'a koo nuu ntaka da cuentas Windows ji perfiles { -brand-short-name } ni'i a nchu'un { -brand-short-name }.
+update-application-use-service =
+    .label = Ni'i servicio ji a uvi plano sa chu'un da actualizaciones
+    .accesskey = s
 update-pref-write-failure-title = Error tee
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Ntu nkuvi chuva'a preferencia. Ntu nkuvi tee archivo: { $path }
+update-in-progress-title = Actualización en curso
 update-in-progress-message = ¿A kuvinu { -brand-short-name } kaka ji a naxi´ñá?
+update-in-progress-ok-button = &Xita
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Kɨ´ɨ
 
 ## General Section - Performance
 
+performance-title = Naja satiñu
+performance-use-recommended-settings-checkbox =
+    .label = Ni'i da ke'i rendimiento recomendadas
+    .accesskey = U
 performance-settings-learn-more = Ka´vi jiee ya´a
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
