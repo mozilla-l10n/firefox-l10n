@@ -749,7 +749,7 @@
 <!ENTITY totalColumn2.tooltip "Nombro da ĉiuj mesaĝoj en fadeno">
 <!ENTITY readColumn2.tooltip "Ordigi laŭ stato: nelegita/legita">
 <!ENTITY receivedColumn2.tooltip "Ordigi laŭ dato de ricevo">
-<!ENTITY starredColumn2.tooltip "Sort by star">
+<!ENTITY starredColumn2.tooltip "Ordigi laŭ marko per steleto">
 <!ENTITY locationColumn2.tooltip "Sort by location">
 <!ENTITY idColumn2.tooltip "Sort by order received">
 <!ENTITY attachmentColumn2.tooltip "Sort by attachments">
