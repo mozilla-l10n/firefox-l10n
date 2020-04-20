@@ -898,20 +898,20 @@
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
-<!ENTITY AddToAddressBook.label "Add to Address Book…">
-<!ENTITY AddToAddressBook.accesskey "B">
-<!ENTITY AddDirectlyToAddressBook.label "Add to Address Book">
-<!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact1.label "Edit Contact">
-<!ENTITY EditContact1.accesskey "E">
-<!ENTITY ViewContact.label "View Contact">
+<!ENTITY AddToAddressBook.label "Aldoni al adresaro…">
+<!ENTITY AddToAddressBook.accesskey "A">
+<!ENTITY AddDirectlyToAddressBook.label "Aldoni al adresaro">
+<!ENTITY AddDirectlyToAddressBook.accesskey "A">
+<!ENTITY EditContact1.label "Redakti kontakton">
+<!ENTITY EditContact1.accesskey "R">
+<!ENTITY ViewContact.label "Vidigi kontakton">
 <!ENTITY ViewContact.accesskey "V">
-<!ENTITY SubscribeToNewsgroup.label "Subscribe to Newsgroup">
-<!ENTITY SubscribeToNewsgroup.accesskey "N">
-<!ENTITY SendMessageTo.label "Compose Message To">
-<!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyEmailAddress.label "Copy Email Address">
-<!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY SubscribeToNewsgroup.label "Aboni al novaĵgrupo">
+<!ENTITY SubscribeToNewsgroup.accesskey "n">
+<!ENTITY SendMessageTo.label "Skribi mesaĝon al">
+<!ENTITY SendMessageTo.accesskey "S">
+<!ENTITY CopyEmailAddress.label "Kopii retpoŝtan adreson">
+<!ENTITY CopyEmailAddress.accesskey "K">
 <!ENTITY CopyNameAndEmailAddress.label "Copy Name and Email Address">
 <!ENTITY CopyNameAndEmailAddress.accesskey "N">
 <!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
