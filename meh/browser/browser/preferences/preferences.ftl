@@ -695,9 +695,18 @@ sitedata-learn-more = Ka´vi jiee ya´a
 sitedata-delete-on-close =
     .label = Xina cookies ji datos sitio sa nakasɨ { -brand-short-name }
     .accesskey = c
+sitedata-allow-cookies-option =
+    .label = Kuvi kino cookies ji datos nuu ya´a
+    .accesskey = A
 sitedata-disallow-cookies-option =
     .label = Kasɨ da cookies ji datos nuu ya'a
     .accesskey = B
+sitedata-option-block-unvisited =
+    .label = Cookies nuu web ntu nne'ya
+sitedata-option-block-all-third-party =
+    .label = Kuaiyo da cookies inka nuu (kuvi tava tixin nuu da web)
+sitedata-option-block-all =
+    .label = Kuaiyo da cookies (kuvi tava errores nuu da web)
 sitedata-clear =
     .label = Sá´á noo datos
     .accesskey = S
@@ -711,6 +720,7 @@ sitedata-cookies-permissions =
 ## Privacy Section - Address Bar
 
 addressbar-header = Barra da nuu
+addressbar-suggest = Saa ni'inu barra nuu, sugerir
 addressbar-locbar-history-option =
     .label = Sɨ´ɨ nnánukunu
     .accesskey = H
@@ -720,6 +730,7 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Síne pestañaS
     .accesskey = O
+addressbar-suggestions-settings = Sama preferencias nuu sugerencias ka̱a̱ nánuku
 
 ## Privacy Section - Content Blocking
 
@@ -755,6 +766,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-all-cookies = Kuaiyo da cookies
+content-blocking-unvisited-cookies = Cookies nuu web ntu nne'ya
 content-blocking-all-third-party-cookies = Kuaiyo Cookies da inka
 content-blocking-cryptominers = Criptomineros
 content-blocking-fingerprinters = Huellas dactilares
