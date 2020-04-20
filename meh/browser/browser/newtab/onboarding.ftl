@@ -104,6 +104,7 @@ onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincroniza marcadores, contraseñas ji kue'e ntaka nuu ni'inu { -brand-product-name }.
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
+onboarding-firefox-monitor-text = { -monitor-brand-name } kune'ya de correo noo'o kene nuu iin filtración datos a xíín kene nuu iin filtración jíía.
 onboarding-browse-privately-title = Nánuku yu´u
 onboarding-browse-privately-button = Síne iin ventana yu´u
 onboarding-firefox-send-button = Nasá´á tuku { -send-brand-name }
