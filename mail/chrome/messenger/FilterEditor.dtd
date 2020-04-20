@@ -25,9 +25,8 @@
 <!ENTITY contextAfterCls.label "post filtri trudmesaĝojn">
 <!ENTITY contextOutgoing.label "post sendi">
 <!ENTITY contextOutgoing.accesskey "s">
-<!ENTITY contextArchive.label "arĥivigi">
+<!ENTITY contextArchive.label "arĥivi">
 <!ENTITY contextArchive.accesskey "a">
-
 
 <!ENTITY filterActionDesc.label "kaj plenumi:">
 <!ENTITY filterActionDesc.accesskey "k">

@@ -543,7 +543,7 @@
 <!ENTITY replyListButton.label "Resp. al listo">
 <!ENTITY forwardButton.label "Plusendi">
 <!ENTITY fileButton.label "Klasifiki">
-<!ENTITY archiveButton.label "Arĥivigi">
+<!ENTITY archiveButton.label "Arĥivi">
 <!ENTITY openConversationButton.label "Interparolado">
 <!ENTITY nextButton.label "Sekva">
 <!ENTITY nextButtonToolbarItem.label "Sekva nelegita">
@@ -586,7 +586,7 @@
 <!ENTITY forwardAsInline.tooltip "Plusendi la elektitan mesaĝon kiel enhavon de mesaĝo">
 <!ENTITY forwardAsAttachment.tooltip "Plusendi la elektitan mesaĝon kiel kunsendaĵon">
 <!ENTITY fileButton.tooltip "Klasifiki la elektitan mesaĝon">
-<!ENTITY archiveButton.tooltip "Arĥivigi la elektitan mesaĝon">
+<!ENTITY archiveButton.tooltip "Arĥivi la elektitan mesaĝon">
 <!ENTITY openConversationButton.tooltip "Montri fadenon de la elektita mesaĝo">
 <!ENTITY openMsgConversationButton.tooltip "Montri fadenon de la elektita mesaĝo">
 <!ENTITY nextButton.tooltip "Iri al la sekva nelegita mesaĝo">
@@ -767,33 +767,33 @@
 <!ENTITY contextOpenConversation.label "Malfermi fadenon en nova langeto">
 <!ENTITY contextOpenConversation.accesskey "d">
 <!ENTITY contextOpenContainingFolder.label "Malfermi mesaĝon en enhavanta mesaĝujo">
-<!ENTITY contextOpenContainingFolder.accesskey "M">
+<!ENTITY contextOpenContainingFolder.accesskey "h">
 <!ENTITY contextEditMsgAsNew.label "Redakti kiel novan mesaĝon">
 <!ENTITY contextEditMsgAsNew.accesskey "e">
 <!ENTITY contextEditDraftMsg.label "Redakti malneton">
 <!ENTITY contextEditTemplate.label "Redakti ŝablonon">
 <!ENTITY contextEditTemplate.accesskey "b">
-<!ENTITY contextArchive.label "Archive">
-<!ENTITY contextArchive.accesskey "h">
-<!ENTITY contextReplySender.label "Reply to Sender Only">
+<!ENTITY contextArchive.label "Arĥivi">
+<!ENTITY contextArchive.accesskey "A">
+<!ENTITY contextReplySender.label "Respondi nur al sendinto">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup2.label "Followup to Newsgroup">
-<!ENTITY contextReplyNewsgroup2.accesskey "u">
-<!ENTITY contextReplyAll.label "Reply to All">
-<!ENTITY contextReplyAll.accesskey "A">
-<!ENTITY contextReplyList.label "Reply to List">
-<!ENTITY contextReplyList.accesskey "L">
-<!ENTITY contextForward.label "Forward">
-<!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsMenu.label "Forward As">
-<!ENTITY contextForwardAsMenu.accesskey "o">
-<!ENTITY contextForwardAsInline.label "Inline">
-<!ENTITY contextForwardAsInline.accesskey "I">
-<!ENTITY contextForwardAsAttachmentItem.label "Attachment">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "A">
-<!ENTITY contextMultiForwardAsAttachment.label "Forward as Attachments">
-<!ENTITY contextMultiForwardAsAttachment.accesskey "o">
-<!ENTITY contextMoveMsgMenu.label "Move To">
+<!ENTITY contextReplyNewsgroup2.label "Respondi al novaĵgrupo">
+<!ENTITY contextReplyNewsgroup2.accesskey "n">
+<!ENTITY contextReplyAll.label "Respondi al ĉiuj">
+<!ENTITY contextReplyAll.accesskey "j">
+<!ENTITY contextReplyList.label "Respondi al listo">
+<!ENTITY contextReplyList.accesskey "s">
+<!ENTITY contextForward.label "Plusendi">
+<!ENTITY contextForward.accesskey "P">
+<!ENTITY contextForwardAsMenu.label "Plusendi kiel">
+<!ENTITY contextForwardAsMenu.accesskey "u">
+<!ENTITY contextForwardAsInline.label "enhavon de mesaĝo">
+<!ENTITY contextForwardAsInline.accesskey "e">
+<!ENTITY contextForwardAsAttachmentItem.label "kunsendaĵon">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "k">
+<!ENTITY contextMultiForwardAsAttachment.label "Plusendi kiel kunsendaĵojn">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "u">
+<!ENTITY contextMoveMsgMenu.label "Movi al">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
