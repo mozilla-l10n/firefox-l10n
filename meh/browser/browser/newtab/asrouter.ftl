@@ -114,6 +114,10 @@ cfr-whatsnew-lockwise-take-link-text = Ni'i App
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tee mati'i, nani'i kue'e jii barra direcciones
+# Variables:
+#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
+cfr-whatsnew-searchbar-body-enginename = Kivɨ da nuu web ji iin clic. Nani'i ñama da nantiñu ji da nani'i { $searchEngineName } ji historial nnánukunu.
+cfr-whatsnew-searchbar-body-generic = Kivɨ da nuu web ji iin clic. Nani'i ñama da nantiñu ji da nani'i  ji historial nnánukunu.
 cfr-whatsnew-searchbar-icon-alt-text = Ícono de lupa
 
 ## Picture-in-Picture
