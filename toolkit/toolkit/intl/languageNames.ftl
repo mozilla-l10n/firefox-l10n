@@ -188,6 +188,7 @@ language-name-tlh = Klingónska
 language-name-tn = Tsvana
 language-name-to = Tonga
 language-name-tr = Tyrkneska
+language-name-trs = Triqui
 language-name-ts = Tonganska
 language-name-tt = Tatarska
 language-name-tw = Tví

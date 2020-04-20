@@ -26,3 +26,5 @@ about-private-browsing-not-private = Þú ert ekki í huliðsglugga.
 content-blocking-title = Blokkun efnis
 content-blocking-description = Sum vefsvæði nota rekjara sem geta rakið allan feril þinn á internetinu. Í huliðsgluggum sér Efnisblokkun { -brand-short-name } til þess að blokka sjálfkrafa marga rekjara sem geta safnað upplýsingum um vafravenjur þínar.
 about-private-browsing-info-description = { -brand-short-name } hreinsar leitar- og vafraferilinn þinn þegar þú lokar forritinu eða lokar öllum einkaflipum og gluggum. Þó að þetta sé ekki nafnlaust gagnvart vefsíðum eða þjónustuveitu þinni, gerir það auðveldara að halda því sem þú gerir á netinu hulið gagnvart einkaaðilum sem nota þessa tölvu.
+about-private-browsing-search-banner-close-button =
+    .aria-label = Loka
