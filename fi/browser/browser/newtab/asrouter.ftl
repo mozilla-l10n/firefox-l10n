@@ -226,7 +226,6 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-kuvake
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Vastaanota hälytyksiä vaarantuneista salasanoista
-cfr-whatsnew-passwords-body = Pahantahtoiset hakkerit tietävät, että ihmiset käyttävät samoja salasanoja eri palveluissa. Jos käytit samaa salasanaa useilla sivustoilla, ja jokin näistä sivustoista joutuu tietomurron kohteeksi, { -lockwise-brand-short-name } näyttää sinulle hälytyksen ja pyytää vaihtamaan salasanasi kyseisellä sivustolla.
 cfr-whatsnew-passwords-icon-alt = Vaarantuneen salasanan avainkuvake
 
 ## Picture-in-Picture fullscreen message
