@@ -197,7 +197,7 @@ about-logins-breach-alert-learn-more-link = Zjistit více
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Zranitelné heslo
-about-logins-vulnerable-alert-text2 = Toto heslo bylo použito u jiného účtu, který byl pravděpodobně součástí úniku dat. Opakované používání hesel ohrožuje všechny vaše účty. Změňte prosím toto heslo.
+about-logins-vulnerable-alert-text2 = Toto heslo jste použili u jiného účtu, který byl pravděpodobně součástí úniku dat. Opakované používání hesel ohrožuje všechny vaše účty. Změňte prosím toto heslo.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Přejít na { $hostname }
