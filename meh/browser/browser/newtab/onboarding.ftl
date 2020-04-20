@@ -118,12 +118,21 @@ onboarding-mobile-phone-text = Xinuun { -brand-product-name } nuu iOS a xíín A
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Xinuun ka̱a̱ nánuku nuu celular
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Chu'un ichí pestañas ñama nuu ntaka ka̱a̱ ntu nejika tɨɨ, tee a xíín kenenu nuu ka̱a̱ nánuku.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Chu'un ichí pestañas ñama nuu ntaka ka̱a̱ ntu nejika tɨɨ, tee a xíín kenenu nuu ka̱a̱ nánuku.
 onboarding-send-tabs-button = Kajie´e ni´i Send Tabs
 onboarding-pocket-anywhere-title = Ka´vi je teso´o ntaka nuu
+onboarding-pocket-anywhere-text2 = Chuva'a tu'un kuvinu koo de ntu íyo conexión jí { -pocket-brand-name }. Ka'vi, teso'o je kune'ya a kuninu, ntaka ichí kuvinu.
 onboarding-pocket-anywhere-button = Nasá´á tuku { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Kua´a ji contraseña noo´o ntaka nuu
+onboarding-lockwise-passwords-text2 = Chuva'a contraseñas je kivɨ ñama nuu cuenta noo'o ji { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Ni'i App
 onboarding-lockwise-strong-passwords-title = Sa'a je chuva'a contraseñas nakui
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } sá'á contraseñas nakui je chuva'ama ntu'un iin nuu.
 onboarding-lockwise-strong-passwords-button = Tetiñu nuu kajie´e sesión
 onboarding-facebook-container-title = Tee xi´ñe nuu Facebook
 onboarding-facebook-container-button = Tee extensión
