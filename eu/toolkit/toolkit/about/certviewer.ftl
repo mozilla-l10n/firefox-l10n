@@ -97,3 +97,13 @@ certificate-viewer-download-pem = PEM (ziurtagiria)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (katea)
     .download = { $fileName }-katea.pem
+certificate-viewer-export = Esportatu
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Zure ziurtagiriak
+certificate-viewer-tab-people = Norbanakoak
+certificate-viewer-tab-servers = Zerbitzariak
+certificate-viewer-tab-ca = Autoritateak
+certificate-viewer-tab-unkonwn = Ezezaguna
