@@ -97,3 +97,16 @@ certificate-viewer-download-pem = PEM (tanúsítvány)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lánc)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Ez a kiegészítő kritikusként lett megjelölve, ami azt jelenti, hogy a klienseknek el kell utasítaniuk a tanúsítványt, ha nem értik azt.
+certificate-viewer-export = Exportálás
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Saját tanúsítványok
+certificate-viewer-tab-people = Emberek
+certificate-viewer-tab-servers = Kiszolgálók
+certificate-viewer-tab-ca = Hitelesítésszolgáltatók
+certificate-viewer-tab-unkonwn = Ismeretlen
