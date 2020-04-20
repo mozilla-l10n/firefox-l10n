@@ -921,7 +921,6 @@
 <!ENTITY CreateFilterFrom.label "Krei filtrilon uzante…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Raporti trompan retleteron">
-<!ENTITY reportPhishingURL.accesskey "R">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Aldoni vortarojn…">
@@ -929,17 +928,13 @@
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Konservi ligitan dosieron kiel…">
-<!ENTITY saveLinkAsCmd.accesskey "k">
-<!ENTITY saveImageAsCmd.label "Save Image As…">
-<!ENTITY saveImageAsCmd.accesskey "v">
-<!ENTITY copyLinkCmd.label "Copy Link Location">
-<!ENTITY copyImageAllCmd.label "Copy Image">
-<!ENTITY copyImageAllCmd.accesskey "I">
-<!ENTITY copyEmailCmd.label "Copy Email Address">
-<!ENTITY copyEmailCmd.accesskey "E">
-<!ENTITY stopCmd.label "Stop">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY reloadCmd.label "Reload">
+<!ENTITY saveImageAsCmd.label "Konservi bildon kiel…">
+<!ENTITY copyLinkCmd.label "Kopii adreson de ligilo">
+<!ENTITY copyImageAllCmd.label "Kopii bildon">
+<!ENTITY copyEmailCmd.label "Kopii retpoŝtan adreson">
+<!ENTITY stopCmd.label "Haltigi">
+<!ENTITY stopCmd.accesskey "H">
+<!ENTITY reloadCmd.label "Reŝargi">
 <!ENTITY reloadCmd.accesskey "R">
 <!ENTITY openInBrowser.label "Open In Browser">
 <!ENTITY openInBrowser.accesskey "O">
