@@ -951,6 +951,7 @@ content-blocking-warning-title = Argi!
 content-blocking-warning-description = Edukia blokeatzeak zenbait webgune haustea eragin lezake. Erraza da konfiantzazko guneetarako blokeoa desgaitzea.
 content-blocking-learn-how = Ikasi nola
 content-blocking-etp-warning-description = Jarraipen-elementuak blokeatuz gero, zenbait gunetako eginbideak kaltetu litezke. Eduki guztiak kargatzeko, berritu jarraipen-elementuak dituen orria.
+content-blocking-and-isolating-etp-warning-description = Jarraipen-elementuak blokeatuz eta cookieak bakartuz gero, zenbait gunetako eginbideak kaltetu litezke. Eduki guztiak kargatzeko, berritu jarraipen-elementuak dituen orria.
 content-blocking-warning-learn-how = Ikasi nola
 content-blocking-reload-description = Zure fitxak berritu beharko dituzu aldaketa hauek eragina izan dezaten.
 content-blocking-reload-tabs-button =
