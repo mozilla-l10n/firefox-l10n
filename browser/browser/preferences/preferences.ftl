@@ -677,7 +677,7 @@ search-show-suggestions-url-bar-option =
 search-show-suggestions-above-history-option =
     .label = Našeptávat vyhledávání v adresním řádku nad stránkami z historie prohlížení
 search-show-suggestions-private-windows =
-    .label = Našeptávat vyhledávání také v anonymním prohlížení
+    .label = Našeptávat vyhledávání také v anonymních oknech
 suggestions-addressbar-settings = Nastavit našeptávání z historie prohlížení, záložek a otevřených panelů
 search-suggestions-cant-show =
     Návrhy vyhledávání se nebudou adresním řádku zobrazovat, protože jste { -brand-short-name.gender ->
