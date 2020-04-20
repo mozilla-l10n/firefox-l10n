@@ -197,3 +197,4 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } icon
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Kuiso picture-in-picture nuu pantalla ka'nu
