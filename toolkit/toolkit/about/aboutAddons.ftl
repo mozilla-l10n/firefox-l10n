@@ -15,7 +15,7 @@ loading-label =
 list-empty-installed =
     .value = Žádný doplněk tohoto typu není nainstalován
 list-empty-available-updates =
-    .value = Nebyly nalezeny žádné aktualizace
+    .value = Nenalezeny žádné aktualizace
 list-empty-recent-updates =
     .value = Žádný doplněk nebyl aktualizován
 list-empty-find-updates =
@@ -308,7 +308,7 @@ extensions-updates-downloaded =
 extensions-updates-restart =
     .label = Restartovat pro dokončení instalace
 extensions-updates-none-found =
-    .value = Nebyly nalezeny žádné aktualizace
+    .value = Nenalezeny žádné aktualizace
 extensions-updates-manual-updates-found =
     .label = Zobrazit dostupné aktualizace
 extensions-updates-update-selected =
@@ -316,7 +316,7 @@ extensions-updates-update-selected =
     .tooltiptext = Nainstaluje vybrané aktualizace
 addon-updates-updating = Probíhá aktualizace doplňků
 addon-updates-installed = Doplňky byly aktualizovány.
-addon-updates-none-found = Nebyly nalezeny žádné aktualizace
+addon-updates-none-found = Nenalezeny žádné aktualizace
 addon-updates-manual-updates-found = Zobrazit dostupné aktualizace
 
 ## Add-on install/debug strings for page options menu
