@@ -921,10 +921,10 @@
 <!ENTITY CreateFilterFrom.label "Krei filtrilon uzante…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Raporti trompan retleteron">
-<!ENTITY reportPhishingURL.accesskey "o">
+<!ENTITY reportPhishingURL.accesskey "R">
 
 <!-- Spell checker context menu items -->
-<!ENTITY spellAddDictionaries.label "Add Dictionaries…">
+<!ENTITY spellAddDictionaries.label "Aldoni vortarojn…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
