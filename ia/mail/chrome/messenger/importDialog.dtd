@@ -10,14 +10,33 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+<!ENTITY importDialog.windowTitle "Importar">
+<!ENTITY importAll.label          "Importar toto">
+<!ENTITY importAll.accesskey      "t">
+<!ENTITY importMail.label         "Email">
+<!ENTITY importMail.accesskey     "E">
 <!ENTITY importFeeds.label        "Fluxos subscribite">
 <!ENTITY importFeeds.accesskey    "x">
+<!ENTITY importAddressbook.label  "Libros de adresses">
+<!ENTITY importAddressbook.accesskey "a">
+<!ENTITY importSettings.label     "Parametros">
+<!ENTITY importSettings.accesskey "P">
+<!ENTITY importFilters.label      "Filtros">
+<!ENTITY importFilters.accesskey  "F">
 
+<!ENTITY  window.width            "40em">
+<!ENTITY  window.macWidth         "45em">
 
 
 <!ENTITY importDescription1.label "Iste assistente importa in &brandShortName; le messages de posta, entratas de adressario, fluxos subscribite, preferentias e/o filtros ab altere programmas de posta e formatos commun de adressario.">
 
+<!ENTITY acctName.label           "Nomine:">
+<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY forward.label            "Sequente &gt;">
+<!ENTITY finish.label             "Finir">
+<!ENTITY cancel.label             "Cancellar">
 
 
+<!ENTITY title.label              "Titulo">
+<!ENTITY processing.label         "Importation…">

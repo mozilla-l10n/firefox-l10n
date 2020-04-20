@@ -2,12 +2,23 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY windowTitle.label            "Assistente de chat">
 
+<!ENTITY accountProtocolField.label   "Rete:">
 
+<!ENTITY accountUsernameTitle.label   "Nomine de usator">
+<!ENTITY accountUsernameDuplicate.label "Iste conto es jam configurate!">
 
+<!ENTITY accountPasswordTitle.label   "Contrasigno">
+<!ENTITY accountPasswordInfo.label    "Per favor insere tu contrasigno in le cassa infra.">
+<!ENTITY accountPasswordField.label   "Contrasigno:">
 <!ENTITY accountPasswordManager.label "Le contrasigno inserite hic essera immagazinate in le gestor de contrasignos. Lassa iste quadro vacue si tu vole que le contrasigno te es demandate a cata connexion.">
 
+<!ENTITY accountAdvancedTitle.label   "Optiones avantiate">
+<!ENTITY accountAdvanced.newMailNotification.label   "Notificar nove emails">
+<!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountProxySettings.caption "Parametros de proxy">
 <!ENTITY accountProxySettings.change.label     "Cambiar…">
 <!ENTITY accountProxySettings.change.accessKey "C">
 
+<!ENTITY accountSummaryTitle.label   "Summario">
