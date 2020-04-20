@@ -795,21 +795,23 @@
 <!ENTITY contextMultiForwardAsAttachment.accesskey "u">
 <!ENTITY contextMoveMsgMenu.label "Movi al">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
-<!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
-<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "R">
-<!ENTITY contextCopyMsgMenu.label "Copy To">
-<!ENTITY contextCopyMsgMenu.accesskey "C">
-<!ENTITY contextKillThreadMenu.label "Ignore Thread">
-<!ENTITY contextKillSubthreadMenu.accesskey "b">
+<!ENTITY contextMoveCopyMsgRecentMenu.label "Ĵusaj">
+<!ENTITY contextMoveCopyMsgRecentMenu.accesskey "s">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.label "Ŝatataj">
+<!ENTITY contextMoveCopyMsgFavoritesMenu.accesskey "t">
+<!ENTITY contextCopyMsgMenu.label "Kopii al">
+<!ENTITY contextCopyMsgMenu.accesskey "K">
+<!ENTITY contextKillThreadMenu.label "ignori fadenon">
+<!ENTITY contextKillSubthreadMenu.accesskey "g">
 <!ENTITY contextKillThreadMenu.accesskey "I">
-<!ENTITY contextKillSubthreadMenu.label "Ignore Subthread">
-<!ENTITY contextWatchThreadMenu.label "Watch Thread">
+<!ENTITY contextKillSubthreadMenu.label "ignori subfadenon">
+<!ENTITY contextWatchThreadMenu.label "Observi fadenon">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
-<!ENTITY contextWatchThreadMenu.accesskey "">
-<!ENTITY contextSaveAs.label "Save As…">
+<!ENTITY contextWatchThreadMenu.accesskey "O">
+<!ENTITY contextSaveAs.label "Konservi kiel…">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Print…">
 <!ENTITY contextPrint.accesskey "P">
