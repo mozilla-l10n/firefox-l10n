@@ -24,3 +24,5 @@ process-type-webisolated = Ločena spletna vsebina
 # process used to communicate with the GPU for
 # graphics acceleration
 process-type-gpu = GPE
+# process used to perform network operations
+process-type-socket = Vtičnica
