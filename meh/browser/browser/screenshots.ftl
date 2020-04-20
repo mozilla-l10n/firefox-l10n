@@ -17,3 +17,5 @@ screenshots-meta-key =
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Ntɨɨ enlace
+screenshots-request-error-title = Fuera de orden.
+screenshots-generic-error-title = ¡Ey! { -screenshots-brand-name } jiko xini.

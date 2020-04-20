@@ -36,3 +36,4 @@ synced-tabs-context-sync-now =
     .label = Sincronizar ntañu´u
     .accesskey = S
 fxa-sign-in = Kajie´e sesión ji { -sync-brand-short-name }
+turn-on-sync = Activar { -sync-brand-short-name }
