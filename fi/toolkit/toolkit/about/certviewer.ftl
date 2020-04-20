@@ -97,6 +97,12 @@ certificate-viewer-download-pem = PEM (varmenne)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (varmenneketju)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = Vie
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-people = Ihmiset
+certificate-viewer-tab-servers = Palvelimet
+certificate-viewer-tab-ca = Varmentajat
+certificate-viewer-tab-unkonwn = Tuntematon
