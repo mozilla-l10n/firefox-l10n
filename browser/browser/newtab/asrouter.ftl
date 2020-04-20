@@ -209,3 +209,22 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Ikusi guztiak
     .accesskey = I
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Sortu erraz pasahitz seguruak
+cfr-whatsnew-lockwise-body = Zaila da kontu bakoitzerako pasahitz seguru eta bakarrak erabiltzea. Pasahitz bat sortzean, hautatu pasahitz eremua { -brand-shorter-name }(e)k sortutako pasahitz segurua erabiltzeko.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ikonoa
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Jaso babesik gabeko pasahitzei buruzko abisuak
+cfr-whatsnew-passwords-body = Hackerrek badakite jendeak pasahitz berdinak berrerabiltzen dituztela. Hainbat gunetan pasahitz berdina erabili eta gune horietakoren bat datu-urratze batean balego, abisua ikusiko duzu { -lockwise-brand-short-name }(e)n gune horietako zure pasahitza alda dezazun.
+cfr-whatsnew-passwords-icon-alt = Babesik gabeko pasahitzaren giltzaren ikonoa
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Bideoa beste batean pantaila osoan ikusteko aukera
