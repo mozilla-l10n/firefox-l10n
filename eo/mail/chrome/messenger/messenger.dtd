@@ -554,7 +554,7 @@
 <!ENTITY previousButtonToolbarItem.label "Antaŭa nelegita">
 <!ENTITY previousMsgButton.label "Antaŭa">
 <!ENTITY backButton1.label "Reen">
-<!ENTITY goForwardButton1.label "Sekven">
+<!ENTITY goForwardButton1.label "Pluen">
 <!ENTITY deleteItem.title "Forigi">
 <!ENTITY deleteButton.label "Forigi">
 <!ENTITY undeleteButton.label "Malforigi">
@@ -595,7 +595,7 @@
 <!ENTITY nextMsgButton.tooltip "Iri al la sekva mesaĝo">
 <!ENTITY previousButton.tooltip "Iri al la antaŭa nelegita mesaĝo">
 <!ENTITY previousMsgButton.tooltip "Iri al la antaŭa mesaĝo">
-<!ENTITY goForwardButton.tooltip "Iri sekven je unu mesaĝo">
+<!ENTITY goForwardButton.tooltip "Iri pluen je unu mesaĝo">
 <!ENTITY goBackButton.tooltip "Iri reen je unu mesaĝo">
 <!ENTITY deleteButton.tooltip "Forigi la elektitan mesaĝ(uj)on">
 <!ENTITY undeleteButton.tooltip "Malforigi la elektitan mesaĝon">
@@ -978,4 +978,4 @@
 
 <!-- Content tab Navigation buttons -->
 <!ENTITY browseBackButton.tooltip    "Iri reen je unu paĝo">
-<!ENTITY browseForwardButton.tooltip "Iri sekven je unu paĝo">
+<!ENTITY browseForwardButton.tooltip "Iri pluen je unu paĝo">
