@@ -414,6 +414,16 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = Xituvi sugerencias nánuku nuu da a kene nuu barra nuu
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Xituvi sugerencias nánuku nuu da nnánukunu nuu da a kene nuu barra nuu
+search-show-suggestions-private-windows =
+    .label = Xituvi sugerencias nánuku nuu da ventana yu'u
+suggestions-addressbar-settings = Sama preferencias nuu historial nnánuku, marcadores ji sugerencias pestañas
 search-one-click-header = Da nánuku ji iin clic
 search-choose-engine-column =
     .label = Ka̱a̱ nánuku
@@ -497,6 +507,8 @@ sync-signedin-settings-header = Ke'i Sync
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Sincronización: ACTIVADA
+prefs-syncing-off = Sincronización: DESACTIVADA
 prefs-sync-setup =
     .label = Ke´i { -sync-brand-short-name }…
     .accesskey = S
