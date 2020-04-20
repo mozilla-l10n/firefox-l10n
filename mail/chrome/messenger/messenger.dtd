@@ -767,10 +767,12 @@
 <!ENTITY contextOpenConversation.label "Malfermi fadenon en nova langeto">
 <!ENTITY contextOpenConversation.accesskey "d">
 <!ENTITY contextOpenContainingFolder.label "Malfermi mesaĝon en enhavanta mesaĝujo">
-<!ENTITY contextOpenContainingFolder.accesskey "n">
-<!ENTITY contextEditMsgAsNew.label "Edit As New Message">
-<!ENTITY contextEditMsgAsNew.accesskey "E">
-<!ENTITY contextEditDraftMsg.label "Edit Draft Message">
+<!ENTITY contextOpenContainingFolder.accesskey "M">
+<!ENTITY contextEditMsgAsNew.label "Redakti kiel novan mesaĝon">
+<!ENTITY contextEditMsgAsNew.accesskey "e">
+<!ENTITY contextEditDraftMsg.label "Redakti malneton">
+<!ENTITY contextEditTemplate.label "Redakti ŝablonon">
+<!ENTITY contextEditTemplate.accesskey "b">
 <!ENTITY contextArchive.label "Archive">
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Reply to Sender Only">
