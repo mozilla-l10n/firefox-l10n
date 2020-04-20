@@ -320,6 +320,7 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Ventanas jíía ji pestañas
+home-new-windows-tabs-description2 = Kaji naku kuvinu kune'yanu sa sinenu página xinañu'u, a jíía ventana ji pestaña jíía.
 
 ## Home Section - Home Page Customization
 
@@ -356,6 +357,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = Tu´un xinañu´u página Firefox
+home-prefs-content-description = Kaji contenido kuvinu kutuvi nuu pantalla xinañu'u Firefox.
 home-prefs-search-header =
     .label = Nánuku web
 home-prefs-topsites-header =
