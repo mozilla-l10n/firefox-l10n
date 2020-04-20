@@ -733,7 +733,7 @@
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Elekti kolumnojn por vidigi">
 <!ENTITY selectColumn.tooltip "Baskuli elekti ĉiujn mesaĝojn">
-<!ENTITY threadColumn2.tooltip "Display message threads">
+<!ENTITY threadColumn2.tooltip "Ordigi mesaĝojn en fadenoj">
 <!ENTITY fromColumn2.tooltip "Sort by from">
 <!ENTITY recipientColumn2.tooltip "Sort by recipient">
 <!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
