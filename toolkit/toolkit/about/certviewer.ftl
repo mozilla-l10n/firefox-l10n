@@ -97,6 +97,9 @@ certificate-viewer-download-pem = PEM (ziurtagiria)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (katea)
     .download = { $fileName }-katea.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Hedapen hau kritiko gisa markatu da, hau da, bezeroek ziurtagiria ulertzen ez badute, baztertu egin behar dute.
 certificate-viewer-export = Esportatu
     .download = { $fileName }.pem
 
