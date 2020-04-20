@@ -71,6 +71,12 @@ onboarding-benefit-products-text = Xinɨ'ɨ a kumani ji iin familia ka̱a̱ kumi
 onboarding-benefit-knowledge-title = Tu´un tu´va íyo tiñu
 onboarding-benefit-knowledge-text = Kuní kuaíyo kumani kuninu je koo va´anu saa nánuku.
 onboarding-benefit-privacy-title = A kumi noo´o maná
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = Kuaíyo a sá'ádani kumi promesa datos personales: Tɨɨ mati'i. Kumi yu'u. Jee nko secretos.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Kuiso ji noo'o a ta´an ini noo'o, contraseñas, historial je kue´ka, ntaka nuu ni'inu { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
@@ -88,8 +94,11 @@ onboarding-private-browsing-title = Nánuku yu´u
 onboarding-screenshots-title = Tutu nnátava
 onboarding-addons-title = Ka̱a̱ chunta´an
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Kaka ñama, nito je yu'u ji ka̱a̱ chunta'an kua Ghostery taji kuvi nakasɨnɨ da tutu xiko.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
-onboarding-fxa-title = Sync
+onboarding-fxa-title = Sincronizar
+onboarding-fxa-text = Chu'un sivɨnɨ je ni'i iin { -fxaccount-brand-name } sá'á sincronizar marcadores, contraseñas ji pestañas nune nuu ni'inu { -brand-short-name }.
+onboarding-tracking-protection-title2 = Protección antirrastreo
 onboarding-tracking-protection-button2 = Naja satiñu
 onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
