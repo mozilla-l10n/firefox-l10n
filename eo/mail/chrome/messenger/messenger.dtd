@@ -702,14 +702,15 @@
 <!ENTITY searchSubjectMenu.label "Temo">
 <!ENTITY searchFromMenu.label "Sendinto">
 <!ENTITY searchSubjectOrFromMenu.label "Temo aŭ sendinto">
-<!ENTITY searchRecipient.label "To or Cc">
-<!ENTITY searchSubjectOrRecipientMenu.label "Subject, To or Cc">
-<!ENTITY searchMessageBody.label "Entire Message">
+<!ENTITY searchRecipient.label "Ricevonto aŭ kaŝkopio">
+<!ENTITY searchSubjectOrRecipientMenu.label "Temo, ricevonto aŭ kaŝkopio">
+<!ENTITY searchMessageBody.label "Tuta mesaĝo">
 <!ENTITY saveAsVirtualFolderMenu.label "Save Search as a Folder…">
 
 <!-- Thread Pane -->
-<!ENTITY threadColumn.label "Thread">
-<!ENTITY fromColumn.label "From">
+<!ENTITY selectColumn.label "Elekti mesaĝojn">
+<!ENTITY threadColumn.label "Fadeno">
+<!ENTITY fromColumn.label "Sendinto">
 <!ENTITY recipientColumn.label "Recipient">
 <!ENTITY correspondentColumn.label "Correspondents">
 <!ENTITY subjectColumn.label "Subject">
