@@ -957,19 +957,21 @@
 <!ENTITY zoomWindow.label "Pligrandigo">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac2.label       "Preferences">
+<!ENTITY preferencesCmdMac2.label       "Preferoj">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
-<!ENTITY servicesMenuMac.label          "Services">
-<!ENTITY hideThisAppCmdMac.label        "Hide &brandShortName;">
+<!ENTITY servicesMenuMac.label          "Servoj">
+<!ENTITY hideThisAppCmdMac.label        "Kaŝi &brandShortName;">
 <!ENTITY hideThisAppCmdMac.commandkey   "H">
 <!ENTITY hideThisAppCmdMac.modifiers    "accel">
-<!ENTITY hideOtherAppsCmdMac.label      "Hide Others">
+<!ENTITY hideOtherAppsCmdMac.label      "Kaŝi aliajn">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
-<!ENTITY showAllAppsCmdMac.label        "Show All">
+<!ENTITY showAllAppsCmdMac.label        "Montri ĉiujn">
 
 <!-- Mac OS X Dock Icon pop-up menu -->
-<!ENTITY dockOptions.label              "App Icon Options…">
+<!ENTITY dockOptions.label              "Agordoj pri emblemo de aplikaĵo…">
+<!ENTITY writeNewMessageDock.label      "Nova mesaĝo">
+<!ENTITY openAddressBookDock.label      "Adresaro">
 
 <!-- Content tab Navigation buttons -->
