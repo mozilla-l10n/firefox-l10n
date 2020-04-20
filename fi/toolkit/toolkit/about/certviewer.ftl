@@ -97,11 +97,15 @@ certificate-viewer-download-pem = PEM (varmenne)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (varmenneketju)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Tämä laajennus on merkitty kriittiseksi; se tarkoittaa, että asiakasohjelmien on hylättävä varmenne, jos ne eivät ymmärrä sitä.
 certificate-viewer-export = Vie
     .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Omat varmenteet
 certificate-viewer-tab-people = Ihmiset
 certificate-viewer-tab-servers = Palvelimet
 certificate-viewer-tab-ca = Varmentajat
