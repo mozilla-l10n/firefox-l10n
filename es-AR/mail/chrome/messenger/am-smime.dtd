@@ -57,11 +57,21 @@
 <!ENTITY certificates2.label "S/MIME">
 <!ENTITY manageCerts3.label "Gestionar certificados S/MIME">
 <!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Dispositivos de seguridad S / MIME">
+<!ENTITY manageDevices2.accesskey "y">
 
+<!ENTITY technologySMIME.label "Preferir S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferir OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Administrar claves OpenPGP">
+<!ENTITY manageKeys.accesskey "K">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Seleccionar certificado">
 <!ENTITY certPicker.info  "Certificado:">
 <!ENTITY certPicker.detailsLabel "Detalles del certificado seleccionado:">
 
+<!ENTITY openpgpKey.message "Clave personal para cifrado y firma digital:">
+<!ENTITY openpgpKey.button "Establecer clave personal…">
+<!ENTITY openpgpKey.accesskey "o">
