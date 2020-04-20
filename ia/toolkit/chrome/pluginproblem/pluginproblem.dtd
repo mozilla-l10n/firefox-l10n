@@ -15,7 +15,7 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Recargar le pagina">
-<!ENTITY reloadPlugin.post                                   " retentar.">
+<!ENTITY reloadPlugin.post                                   "pro retentar.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Inviar le reporto de collapso">
 <!ENTITY report.submitting                                   "Invio del reporto…">
