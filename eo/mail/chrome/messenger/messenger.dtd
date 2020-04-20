@@ -595,8 +595,8 @@
 <!ENTITY nextMsgButton.tooltip "Iri al la sekva mesaĝo">
 <!ENTITY previousButton.tooltip "Iri al la antaŭa nelegita mesaĝo">
 <!ENTITY previousMsgButton.tooltip "Iri al la antaŭa mesaĝo">
-<!ENTITY goForwardButton.tooltip "Iri malantaŭen je unu mesaĝo">
-<!ENTITY goBackButton.tooltip "Iri antaŭen je unu mesaĝo">
+<!ENTITY goForwardButton.tooltip "Iri sekven je unu mesaĝo">
+<!ENTITY goBackButton.tooltip "Iri reen je unu mesaĝo">
 <!ENTITY deleteButton.tooltip "Forigi la elektitan mesaĝ(uj)on">
 <!ENTITY undeleteButton.tooltip "Malforigi la elektitan mesaĝon">
 <!ENTITY markButton.tooltip "Marki mesaĝon">
@@ -977,3 +977,5 @@
 <!ENTITY openAddressBookDock.label      "Adresaro">
 
 <!-- Content tab Navigation buttons -->
+<!ENTITY browseBackButton.tooltip    "Iri reen je unu paĝo">
+<!ENTITY browseForwardButton.tooltip "Iri sekven je unu paĝo">
