@@ -44,6 +44,12 @@ monitor-link = Naja satiñu
 ##   $count (Number) - Number of specific trackers
 ##   $percentage (Number) - Percentage this type of tracker contributes to the whole graph
 
+bar-tooltip-fingerprinter =
+    .title = Huellas dactilares
+    .aria-label =
+        { $count ->
+           *[other] { $count } identificador ({ $percentage } %)
+        }
 bar-tooltip-cryptominer =
     .title = Criptomineros
     .aria-label =

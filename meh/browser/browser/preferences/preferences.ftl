@@ -862,10 +862,17 @@ collection-backlogged-crash-reports-link = Ka´vi kue´eka
 
 security-header = Kumiji noo´o
 security-enable-safe-browsing-link = Ka´vi kue´eka
+security-block-downloads =
+    .label = Kasɨ nxinuu ntu vatu
+    .accesskey = D
+security-block-uncommon-software =
+    .label = Kachi de íyo software ntu nnika je ntu íyo ntaka ichi
+    .accesskey = C
 
 ## Privacy Section - Certificates
 
 certs-header = Certificados
+certs-personal-label = Sa íyo iin servidor jikan certificado personal
 certs-select-ask-option =
     .label = Kakama ntaka ichí
     .accesskey = A
