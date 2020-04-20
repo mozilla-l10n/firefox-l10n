@@ -293,10 +293,19 @@ performance-default-content-process-count =
 
 ## General Section - Browsing
 
+browsing-use-cursor-navigation =
+    .label = Ni'in ntaka ichí teclas cursor sa nánuku ini da paáginas
+    .accesskey = c
 browsing-search-on-start-typing =
     .label = Nánuku tu'un sa kajie'enu teenu
     .accesskey = x
 browsing-picture-in-picture-learn-more = Ka´vi kue´eka
+browsing-cfr-recommendations =
+    .label = Kachi da ka̱a̱ chunta'an sa jikanu
+    .accesskey = R
+browsing-cfr-features =
+    .label = Kachi da funciones sa jikanu
+    .accesskey = R
 browsing-cfr-recommendations-learn-more = Ka´vi kue´eka
 
 ## General Section - Proxy
@@ -361,6 +370,7 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Artículos íyo patrocinado
 home-prefs-highlights-header =
     .label = Destacados
+home-prefs-highlights-description = Kue'e nuu web nchuva'anu jee nkivɨnɨ
 home-prefs-highlights-option-visited-pages =
     .label = Páginas nnkivɨnu
 home-prefs-highlights-options-bookmarks =
