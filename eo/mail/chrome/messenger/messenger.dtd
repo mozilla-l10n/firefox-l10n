@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Serĉi mesaĝojn…">
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Serĉi…">
+<!ENTITY glodaSearchCmd.accesskey "S">
 <!ENTITY searchAddressesCmd.label "Serĉi kontaktojn…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -551,7 +553,7 @@
 <!ENTITY previousButton.label "Antaŭa">
 <!ENTITY previousButtonToolbarItem.label "Antaŭa nelegita">
 <!ENTITY previousMsgButton.label "Antaŭa">
-<!ENTITY backButton1.label "Antaŭen">
+<!ENTITY backButton1.label "Reen">
 <!ENTITY goForwardButton1.label "Sekven">
 <!ENTITY deleteItem.title "Forigi">
 <!ENTITY deleteButton.label "Forigi">
