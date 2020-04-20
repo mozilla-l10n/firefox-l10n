@@ -921,6 +921,7 @@
 <!ENTITY CreateFilterFrom.label "Krei filtrilon uzante…">
 <!ENTITY CreateFilterFrom.accesskey "f">
 <!ENTITY reportPhishingURL.label "Raporti trompan retleteron">
+<!ENTITY reportPhishingURL.accesskey "t">
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Aldoni vortarojn…">
@@ -928,27 +929,32 @@
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Konservi ligitan dosieron kiel…">
+<!ENTITY saveLinkAsCmd.accesskey "d">
 <!ENTITY saveImageAsCmd.label "Konservi bildon kiel…">
+<!ENTITY saveImageAsCmd.accesskey "o">
 <!ENTITY copyLinkCmd.label "Kopii adreson de ligilo">
+<!ENTITY copyLinkCmd.accesskey "l">
 <!ENTITY copyImageAllCmd.label "Kopii bildon">
+<!ENTITY copyImageAllCmd.accesskey "b">
 <!ENTITY copyEmailCmd.label "Kopii retpoŝtan adreson">
+<!ENTITY copyEmailCmd.accesskey "p">
 <!ENTITY stopCmd.label "Haltigi">
 <!ENTITY stopCmd.accesskey "H">
 <!ENTITY reloadCmd.label "Reŝargi">
 <!ENTITY reloadCmd.accesskey "R">
-<!ENTITY openInBrowser.label "Open In Browser">
-<!ENTITY openInBrowser.accesskey "O">
-<!ENTITY openLinkInBrowser.label "Open Link In Browser">
-<!ENTITY openLinkInBrowser.accesskey "O">
+<!ENTITY openInBrowser.label "Malfermi en retumilo">
+<!ENTITY openInBrowser.accesskey "M">
+<!ENTITY openLinkInBrowser.label "Malfermi ligilon en retumilo">
+<!ENTITY openLinkInBrowser.accesskey "M">
 
 <!-- Statusbar -->
-<!ENTITY statusText.label "Done">
+<!ENTITY statusText.label "Farita">
 
 <!-- Mac OS X Window Menu -->
-<!ENTITY minimizeWindow.label "Minimize">
+<!ENTITY minimizeWindow.label "Plejetigi">
 <!ENTITY minimizeWindow.key "m">
-<!ENTITY bringAllToFront.label "Bring All to Front">
-<!ENTITY zoomWindow.label "Zoom">
+<!ENTITY bringAllToFront.label "Malfonigi ĉiujn">
+<!ENTITY zoomWindow.label "Pligrandigo">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Preferences">
