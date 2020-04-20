@@ -300,7 +300,11 @@ sandbox-proc-type-content = vsebina
 sandbox-proc-type-file = vsebina datoteke
 sandbox-proc-type-media-plugin = večpredstavni vtičnik
 sandbox-proc-type-data-decoder = podatkovni dekodirnik
+startup-cache-title = Predpomnilnik zagona
 startup-cache-disk-cache-path = Pot predpomnilnika diska
+startup-cache-ignore-disk-cache = Prezri predpomnilnik diska
+startup-cache-found-disk-cache-on-init = Najden predpomnilnik diska ob inicializaciji
+startup-cache-wrote-to-disk-cache = Zapisano v predpomnilnik diska
 launcher-process-status-0 = Omogočeno
 launcher-process-status-1 = Onemogočeno zaradi napake
 launcher-process-status-2 = Prisilno onemogočeno
@@ -324,6 +328,7 @@ touch-enabled = vnos na dotik omogočen
 drag-enabled = vlečenje drsnika omogočeno
 keyboard-enabled = tipkovnica omogočena
 autoscroll-enabled = samodrsenje omogočeno
+zooming-enabled = omogočeno gladko povečanje s približevanjem prstov
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

@@ -232,6 +232,7 @@ cfr-doorhanger-milestone-ok-button = Prikaži vse
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Enostavno ustvarite varna gesla
+cfr-whatsnew-lockwise-body = Težko si je za vsak račun izmisliti edinstveno in varno geslo. Ob nastavljanju gesla lahko izberete polje za geslo, da { -brand-shorter-name } sestavi varno geslo za vas.
 cfr-whatsnew-lockwise-icon-alt = Ikona { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
@@ -242,5 +243,6 @@ cfr-whatsnew-passwords-icon-alt = Ikona ranljivega gesla
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Popeljite sliko v sliki v celozaslonski način
 cfr-whatsnew-pip-fullscreen-body = Ko predvajate video v plavajočem oknu, lahko zdaj dvokliknete to okno za ogled v celozaslonskem načinu.
 cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike v sliki

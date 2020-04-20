@@ -177,6 +177,7 @@ about-logins-breach-alert-learn-more-link = Več o tem
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ranljivo geslo
+about-logins-vulnerable-alert-text2 = To geslo uporablja tudi drug račun, ki je bil verjetno izpostavljen v kraji podatkov. Uporaba enakih poverilnic na več mestih ogroža vse vaše račune. Spremenite to geslo.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Pojdi na { $hostname }
