@@ -213,3 +213,24 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Összes megjelenítése
     .accesskey = m
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Hozzon létre könnyedén biztonságos jelszavakat
+cfr-whatsnew-lockwise-body = Nehéz minden fiókhoz egyedi, biztonságos jelszót kitalálni. Jelszó létrehozásakor válassza ki a jelszómezőt, hogy biztonságos, generált jelszót használjon a { -brand-shorter-name }ból.
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ikon
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Kapjon figyelmeztetéseket a sebezhető jelszavakról
+cfr-whatsnew-passwords-body = A hackerek tudják, hogy az emberek többször is ugyanazt a jelszót használják. Ha ugyanazt a jelszót használta több webhelyen, és az egyik ilyen weboldalon adatsértés történt, akkor a { -lockwise-brand-short-name } figyelmeztetést jelenít meg a jelszó megváltoztatásához ezeken a webhelyeken.
+cfr-whatsnew-passwords-icon-alt = Sebezhető jelszó kulcs ikonja
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Tegye teljes képernyőre a kép a képben funkciót
+cfr-whatsnew-pip-fullscreen-body = Ha egy videót lebegő ablakba tesz, akkor most már dupla kattintással teljes képernyőjűvé teheti az ablakot.
+cfr-whatsnew-pip-fullscreen-icon-alt = Kép a képben ikon
