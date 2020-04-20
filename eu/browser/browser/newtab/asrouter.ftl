@@ -228,3 +228,5 @@ cfr-whatsnew-passwords-icon-alt = Babesik gabeko pasahitzaren giltzaren ikonoa
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Bideoa beste batean pantaila osoan ikusteko aukera
+cfr-whatsnew-pip-fullscreen-body = Bideo bat leiho mugikor batera eramatean, orain klik bikoitzarekin pantaila osora ere eraman dezakezu.
+cfr-whatsnew-pip-fullscreen-icon-alt = Bideoa beste bideo batean eginbideko ikonoa
