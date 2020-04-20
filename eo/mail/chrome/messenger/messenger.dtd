@@ -912,15 +912,15 @@
 <!ENTITY SendMessageTo.accesskey "S">
 <!ENTITY CopyEmailAddress.label "Kopii retpoŝtan adreson">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CopyNameAndEmailAddress.label "Copy Name and Email Address">
-<!ENTITY CopyNameAndEmailAddress.accesskey "N">
-<!ENTITY CopyNewsgroupName.label "Copy Newsgroup Name">
-<!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY CopyNewsgroupURL.label "Copy Newsgroup URL">
-<!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY CreateFilterFrom.label "Create Filter From…">
-<!ENTITY CreateFilterFrom.accesskey "F">
-<!ENTITY reportPhishingURL.label "Report Email Scam">
+<!ENTITY CopyNameAndEmailAddress.label "Kopii nomon kaj retpoŝtan adreson">
+<!ENTITY CopyNameAndEmailAddress.accesskey "o">
+<!ENTITY CopyNewsgroupName.label "Kopii nomon de novaĵgrupo">
+<!ENTITY CopyNewsgroupName.accesskey "K">
+<!ENTITY CopyNewsgroupURL.label "Kopii ligilon de novaĵgrupo">
+<!ENTITY CopyNewsgroupURL.accesskey "l">
+<!ENTITY CreateFilterFrom.label "Krei filtrilon uzante…">
+<!ENTITY CreateFilterFrom.accesskey "f">
+<!ENTITY reportPhishingURL.label "Raporti trompan retleteron">
 <!ENTITY reportPhishingURL.accesskey "o">
 
 <!-- Spell checker context menu items -->
