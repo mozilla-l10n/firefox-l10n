@@ -32,6 +32,7 @@
 
 
 <!-- New Style Filter Rule Actions -->
+<!ENTITY moveMessage.label "Mover le message a">
 <!ENTITY copyMessage.label "Copiar le message a">
 <!ENTITY forwardTo.label "Inviar le message ultra a">
 <!ENTITY replyWithTemplate.label "Responder con modello">
