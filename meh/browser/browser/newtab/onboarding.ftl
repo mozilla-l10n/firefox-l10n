@@ -101,6 +101,8 @@ onboarding-fxa-text = Chu'un sivɨnɨ je ni'i iin { -fxaccount-brand-name } sá'
 onboarding-tracking-protection-title2 = Protección antirrastreo
 onboarding-tracking-protection-button2 = Naja satiñu
 onboarding-data-sync-title = Kuiso a nke´ínu jíí noo´o
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Sincroniza marcadores, contraseñas ji kue'e ntaka nuu ni'inu { -brand-product-name }.
 onboarding-data-sync-button2 = Kajie´e sesión { -sync-brand-short-name }
 onboarding-browse-privately-title = Nánuku yu´u
 onboarding-browse-privately-button = Síne iin ventana yu´u
