@@ -97,6 +97,9 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (juajuha)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Ko jepysokue oñemongurusúma ivaikuaávaramo, he’iséva puruhára omboykeva’erã mboajepyre noikumbýiramo.
 certificate-viewer-export = Guerahauka
     .download = { $fileName }.pem
 
