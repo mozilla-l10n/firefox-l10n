@@ -2,12 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!--
-# Reviewer(s):
-#
-# Tomer Cohen <tomer.mozilla@tomercohen.com>
-#
--->
 <!ENTITY  pref.editing.title        "הגדרות דף חדש">
 
 <!ENTITY  authorName.label          "מחבר:">
@@ -25,7 +19,7 @@
 <!ENTITY linkText.accesskey         "L">
 <!ENTITY activeLinkText.label       "טקסט של קישור פעיל">
 <!ENTITY activeLinkText.accesskey   "A">
-<!ENTITY visitedLinkText.label      "טקסט של קישור שביקרו בו">
+<!ENTITY visitedLinkText.label      "טקסט של קישור שביקרת בו">
 <!ENTITY visitedLinkText.accesskey  "V">
 <!ENTITY background.label           "רקע:">
 <!ENTITY background.accesskey       "B">
@@ -35,5 +29,3 @@
 <!ENTITY backgroundImage.accesskey  "m">
 <!ENTITY chooseFile.label           "בחר קובץ...">
 <!ENTITY chooseFile.accesskey       "o">
-
-

@@ -24,7 +24,7 @@
 <!ENTITY  underlineLinks.label            "קו מתחת לקישורים">
 <!ENTITY  underlineLinks.accesskey        "ת">
 <!ENTITY  links                           "צבעי קישורים">
-<!ENTITY  linkColor.label                 "קישורים בהם טרם ביקרת:">
-<!ENTITY  linkColor.accesskey             "ט">
-<!ENTITY  visitedLinkColor.label          "קישורים בהם ביקרת:">
+<!ENTITY  linkColor.label                 "קישורים שלא ביקרת בהם:">
+<!ENTITY  linkColor.accesskey             "ל">
+<!ENTITY  visitedLinkColor.label          "קישורים שביקרת בהם:">
 <!ENTITY  visitedLinkColor.accesskey      "ב">

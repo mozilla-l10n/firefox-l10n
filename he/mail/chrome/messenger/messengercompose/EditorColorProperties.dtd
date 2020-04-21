@@ -18,7 +18,7 @@
 <!ENTITY linkText.accessKey "l">
 <!ENTITY activeLinkText.label "טקסט של קישור פעיל">
 <!ENTITY activeLinkText.accessKey "פ">
-<!ENTITY visitedLinkText.label "טקסט של קישור שביקרו בו">
+<!ENTITY visitedLinkText.label "טקסט של קישור שביקרת בו">
 <!ENTITY visitedLinkText.accessKey "V">
 <!ENTITY background.label "רקע:">
 <!ENTITY background.accessKey "ר">
