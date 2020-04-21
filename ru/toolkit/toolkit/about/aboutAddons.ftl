@@ -311,6 +311,7 @@ shortcuts-no-commands = У следующих расширений нет гор
 shortcuts-input =
     .placeholder = Введите горячую клавишу
 shortcuts-browserAction = Активировать расширение
+shortcuts-browserAction2 = Активировать кнопку панели инструментов
 shortcuts-pageAction = Активировать действие на странице
 shortcuts-sidebarAction = Показать/скрыть боковую панель
 shortcuts-modifier-mac = Добавьте Ctrl, Alt или ⌘
