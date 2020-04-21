@@ -160,6 +160,7 @@ confirm-discard-changes-dialog-confirm-button = Hapus Perubahan
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Pembobolan Situs Web
 breach-alert-text = Kata sandi telah bocor atau dicuri dari situs Web ini sejak terakhir Anda memperbarui rincian info masuk Anda. Ubah kata sandi Anda untuk melindungi akun Anda.
 breach-alert-link = Pelajari selengkapnya tentang pembobolan ini.
 breach-alert-dismiss =
