@@ -53,5 +53,5 @@
 <!ENTITY dayAgeInterval.label            "Dagen">
 <!ENTITY weekAgeInterval.label           "Wiken">
 <!ENTITY monthAgeInterval.label          "Moannen">
-<!ENTITY yearAgeInterval.label           "Jierren">
+<!ENTITY yearAgeInterval.label           "jier">
 <!ENTITY ageAutosyncAfter.label          "">
