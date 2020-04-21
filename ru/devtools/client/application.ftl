@@ -76,6 +76,8 @@ manifest-view-header = Манифест приложения
 manifest-empty-intro = Вам необходимо добавить манифест веб-приложения, чтобы исследовать его здесь. <a>Подробнее</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Ошибки и предупреждения
+# Header for the Identity section of Manifest inspection displayed in the application panel.
+manifest-item-identity = Идентификатор
 # Header for the Presentation section of Manifest inspection displayed in the application panel.
 manifest-item-presentation = Презентация
 # Header for the Icon section of Manifest inspection displayed in the application panel.
