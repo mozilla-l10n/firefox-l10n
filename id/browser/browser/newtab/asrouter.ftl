@@ -208,3 +208,16 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Lihat Semua
     .accesskey = L
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Mudahnya membuat kata sandi aman
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
