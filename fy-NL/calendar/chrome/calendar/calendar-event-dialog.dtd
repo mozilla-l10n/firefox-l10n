@@ -190,7 +190,7 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Foarstel tapasse">
 <!ENTITY counter.button.proposal.accesskey                "p">
-<!ENTITY counter.button.proposal.tooltip2                 "Barrenfjilden sille folle wurde mei de wearden fan it tsjinfoarstel, allinnich bewarjen mei of sûnder ekstra wizigingen sil in melding nei de dielnimmers stjoere">
+<!ENTITY counter.button.proposal.tooltip2                 "Barrensfjilden sille folle wurde mei de wearden fan it tsjinfoarstel, allinnich bewarjen mei of sûnder ekstra wizigingen sil in melding nei de dielnimmers stjoere">
 <!ENTITY counter.button.original.label                    "Orizjinele gegevens tapasse">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "De fjilden sille ynsteld wurde nei de wearden fan it orizjinele barren, foardat it tsjinfoarstel makke wie">
@@ -249,9 +249,9 @@
 <!ENTITY event.reminder.5minutes.before.label             "5 minuten dêrfoar" >
 <!ENTITY event.reminder.15minutes.before.label            "15 minuten dêrfoar" >
 <!ENTITY event.reminder.30minutes.before.label            "30 minuten dêrfoar" >
-<!ENTITY event.reminder.1hour.before.label                "1 oere dêrfoar" >
-<!ENTITY event.reminder.2hours.before.label               "2 oeren dêrfoar" >
-<!ENTITY event.reminder.12hours.before.label              "12 oeren dêrfoar" >
+<!ENTITY event.reminder.1hour.before.label                "1 oer dêrfoar" >
+<!ENTITY event.reminder.2hours.before.label               "2 oer dêrfoar" >
+<!ENTITY event.reminder.12hours.before.label              "12 oer dêrfoar" >
 <!ENTITY event.reminder.1day.before.label                 "1 dei dêrfoar" >
 <!ENTITY event.reminder.2days.before.label                "2 dagen dêrfoar" >
 <!ENTITY event.reminder.1week.before.label                "1 wike dêrfoar" >
@@ -407,11 +407,6 @@
 <!ENTITY read.only.location.label        "Lokaasje:">
 <!ENTITY read.only.category.label        "Kategory:">
 <!ENTITY read.only.organizer.label       "Organisator:">
-<!ENTITY read.only.reply.label           "Antwurd:">
-<!ENTITY read.only.accept.label          "Ik sil oanwêzich wêze">
-<!ENTITY read.only.decline.label         "Ik sil net oanwêzich wêze">
-<!ENTITY read.only.tentative.label       "Ik kin mooglik oanwêzich wêze">
-<!ENTITY read.only.needs.action.label    "Ik sil letter befêstigje">
 <!ENTITY read.only.reminder.label        "Omtinken:">
 <!ENTITY read.only.attachments.label     "Bylagen:">
 <!ENTITY read.only.attendees.label       "Dielnimmers">
