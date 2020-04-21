@@ -217,11 +217,13 @@ cfr-doorhanger-milestone-ok-button = Hechapa
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Emoheñói ñe’ẽñemi hekorosãva
+cfr-whatsnew-lockwise-body = Hasy erekóvo ñe’ẽñemi ha’ete ha hekorosãva peteĩteĩva mba’etépe g̃uarã. Emoheñóivo ñe’ẽñemi, eiporavo ñe’ẽñemi kora eipuru hag̃ua ñe’ẽñemi hekorosãva ha omoheñóiva { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ra’ãnga’i
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Og̃uahẽta kyhyjerã ñe’ẽñemi ivaikuaávare
+cfr-whatsnew-passwords-body = Umi mba’evaiapoha oikuaa oipurujeyha iñe’ẽñemi. Oipurúrõ pe iñe’ẽñemi heta tendápe, ha peteĩva umi tenda imba’ekuaarã oñembyai ohecháta kyhyjerã { -lockwise-brand-short-name }-pe omoambue hag̃ua iñe’ẽñemi umi tendápe.
 cfr-whatsnew-passwords-icon-alt = Ñe’ẽñemi mba’eñemi ivaikuaáva ra’ãnga’i
 
 ## Picture-in-Picture fullscreen message
