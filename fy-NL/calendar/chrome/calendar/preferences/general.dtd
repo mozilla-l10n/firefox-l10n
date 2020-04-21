@@ -35,7 +35,7 @@
 <!ENTITY pref.default_task_next_week.label "Folgjende wike">
 <!ENTITY pref.default_task_offset_current.label "Relatyf oan aktuele tiid">
 <!ENTITY pref.default_task_offset_start.label "Relatyf oan begjin">
-<!ENTITY pref.default_task_offset_next_hour.label "Relatyf oan folgjende oere">
+<!ENTITY pref.default_task_offset_next_hour.label "Relatyf oan folgjende oer">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Finster Hjoed">
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
