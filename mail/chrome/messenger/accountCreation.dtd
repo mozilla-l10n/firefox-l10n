@@ -31,6 +31,7 @@
 <!ENTITY protocol.label "Protocolo:">
 <!ENTITY imapLong.label "IMAP (carpetas remotas)">
 <!ENTITY pop3Long.label "POP3 (conservar correo en su equipo)">
+<!ENTITY manualConfigTable.summary "Configuración del servidor">
 <!ENTITY incoming.label "Entrante:">
 <!ENTITY incomingColumn.label "Entrante">
 <!ENTITY outgoing.label "Saliente:">

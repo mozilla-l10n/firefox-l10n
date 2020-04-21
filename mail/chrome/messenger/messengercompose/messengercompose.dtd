@@ -84,7 +84,7 @@
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Panel de adjuntos">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "j">
-<!ENTITY toggleAttachmentPaneCmd.key "m">
+<!ENTITY toggleAttachmentPaneCmd.key "M">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
 <!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY selectAllCmd.key "A">
