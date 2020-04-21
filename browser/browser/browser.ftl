@@ -250,7 +250,7 @@ browser-window-minimize-button =
 browser-window-maximize-button =
     .tooltiptext = Ingrandisci
 browser-window-restore-down-button =
-    .tooltiptext = Ripristina in basso
+    .tooltiptext = Ripristina giù
 browser-window-close-button =
     .tooltiptext = Chiudi
 
