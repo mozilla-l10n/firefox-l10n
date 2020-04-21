@@ -60,6 +60,8 @@ login-list-item-subtitle-new-login = Zugangsdaten eingeben
 login-list-item-subtitle-missing-username = (kein Benutzername)
 about-logins-list-item-breach-icon =
     .title = Website mit Datenleck
+about-logins-list-item-vulnerable-password-icon =
+    .title = Gefährdetes Passwort
 
 ## Introduction screen
 
