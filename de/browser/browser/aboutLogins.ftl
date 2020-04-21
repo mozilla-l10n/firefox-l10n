@@ -48,6 +48,7 @@ login-list-sort-label-text = Sortieren nach:
 login-list-name-option = Name (A-Z)
 login-list-name-reverse-option = Name (Z-A)
 login-list-breached-option = Websites mit Datenlecks
+about-logins-login-list-alerts-option = Warnungen
 login-list-last-changed-option = Zuletzt geändert
 login-list-last-used-option = Zuletzt verwendet
 login-list-intro-title = Keine Zugangsdaten gefunden
@@ -154,6 +155,7 @@ breach-alert-text = Passwörter dieser Website wurden veröffentlicht oder gesto
 breach-alert-link = Weitere Informationen über dieses Datenleck
 breach-alert-dismiss =
     .title = Alarm schließen
+about-logins-breach-alert-date = Das Datenleck wurde am { DATETIME($date, day: "numeric", month: "long", year: "numeric") } registriert.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } aufrufen
