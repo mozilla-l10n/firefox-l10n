@@ -9,7 +9,7 @@ update-checkForUpdatesButton =
     .label = Check for updates
     .accesskey = C
 update-updateButton =
-    .label = Restart to update { -brand-shorter-name }
+    .label = Restart to Update { -brand-shorter-name }
     .accesskey = R
 update-checkingForUpdates = Checking for updates…
 update-downloading = <img data-l10n-name="icon"/>Downloading update — <label data-l10n-name="download-status"/>
@@ -30,8 +30,6 @@ helpus = Want to help? <label data-l10n-name="helpus-donateLink">Make a donation
 bottomLinks-license = Licensing Information
 bottomLinks-rights = End-User Rights
 bottomLinks-privacy = Privacy Policy
-aboutDialog-architecture-sixtyFourBit = 64-bit
-aboutDialog-architecture-thirtyTwoBit = 32-bit
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
