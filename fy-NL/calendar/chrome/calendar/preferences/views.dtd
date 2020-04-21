@@ -27,7 +27,7 @@
 <!ENTITY pref.calendar.view.dayend.accesskey "i">
 <!ENTITY pref.calendar.view.visiblehours.label "Toane:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "n">
-<!ENTITY pref.calendar.view.visiblehoursend.label "oeren it oersjoch">
+<!ENTITY pref.calendar.view.visiblehoursend.label "oer it oersjoch">
 
 <!ENTITY pref.numberofweeks.label "Standert oantal wiken (foargeande wiken mei belutsen):">
 <!ENTITY pref.numberofweeks.accesskey "S">
