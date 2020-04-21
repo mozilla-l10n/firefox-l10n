@@ -12,7 +12,7 @@
 <!ENTITY newsgroups.label "Grupos de notícias">
 <!ENTITY feeds.label "Fontes">
 
-<!ENTITY unsetDefault.tooltip "Não pode cancelar a seleção do &brandShortName; como aplicação predefinida no &brandShortName;. Para tornar outra aplicação a predefinida tem de utilizar o diálogo de 'Definir como predefinido'.">
+<!ENTITY unsetDefault.tooltip "Não pode cancelar a seleção do &brandShortName; como aplicação predefinida no &brandShortName;. Para definir outra aplicação como predefinida tem de utilizar a janela 'Definir como predefinido'.">
 
 <!ENTITY checkOnStartup.label "Realizar sempre esta verificação ao iniciar o &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "a">
