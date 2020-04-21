@@ -292,8 +292,11 @@ sandbox-proc-type-content = контент
 sandbox-proc-type-file = содержимое файла
 sandbox-proc-type-media-plugin = медиаплагин
 sandbox-proc-type-data-decoder = декодер данных
+startup-cache-title = Кэш запуска
 startup-cache-disk-cache-path = Путь к дисковому кешу
 startup-cache-ignore-disk-cache = Игнорировать дисковый кэш
+startup-cache-found-disk-cache-on-init = При инициализации обнаружен дисковый кэш
+startup-cache-wrote-to-disk-cache = Записано в дисковый кэш
 launcher-process-status-0 = Включён
 launcher-process-status-1 = Отключён из-за сбоя
 launcher-process-status-2 = Принудительно отключён
@@ -313,10 +316,11 @@ multi-process-status-unknown = Статус неизвестнен
 async-pan-zoom = Асинхронное панорамирование/зум
 apz-none = нет
 wheel-enabled = включён ввод колесиком
-touch-enabled = включён сенсорный ввод
-drag-enabled = включено перетаскивание полосы прокрутки
+touch-enabled = сенсорный ввод включён
+drag-enabled = перетаскивание полосы прокрутки включено
 keyboard-enabled = клавиатура включена
 autoscroll-enabled = автопрокрутка включена
+zooming-enabled = плавное масштабирование жестами включено
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
