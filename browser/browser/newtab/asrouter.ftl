@@ -223,13 +223,17 @@ cfr-doorhanger-milestone-ok-button = Посмотреть всё
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Легко создавайте надёжные пароли
+cfr-whatsnew-lockwise-body = Придумать уникальные, безопасные пароли для каждого аккаунта — непростая задача. При создании пароля, нажмите на поле ввода пароля, чтобы использовать безопасный, сгенерированный пароль от { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Значок { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Получайте оповещения об уязвимых паролях
+cfr-whatsnew-passwords-body = Хакеры знают, что люди повторно используют одни и те же пароли. Если вы использовали одинаковый пароль на нескольких веб-сайтах, и на одном из них произошла утечка данных, вы получите предупреждение от { -lockwise-brand-short-name }, чтобы вы смогли сменить пароль на остальных сайтах.
 cfr-whatsnew-passwords-icon-alt = Значок «Ключ уязвимого пароля»
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Просматривайте картинку в картинке в полноэкранном режиме
+cfr-whatsnew-pip-fullscreen-body = Теперь, когда вы выносите видео в плавающее окно, вы можете дважды щёлкнуть по этому окну и перейти в полноэкранный режим.
 cfr-whatsnew-pip-fullscreen-icon-alt = Значок «Картинка в картинке»

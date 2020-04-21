@@ -176,7 +176,7 @@ about-logins-breach-alert-learn-more-link = Подробнее
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Уязвимый пароль
-about-logins-vulnerable-alert-text = Этот пароль стал известен или был украден в результате утечки данных из другой компании. Его повторное использование подвергает риску все ваши учётные записи. Чтобы повысить свою безопасность в Интернете, измените этот пароль.
+about-logins-vulnerable-alert-text2 = Этот пароль был использован в другом аккаунте, который, вероятно, подвергся утечке данных. Дальнейшее использование этих учетных данных ставит все ваши аккаунты под угрозу. Смените этот пароль.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Перейти на { $hostname }

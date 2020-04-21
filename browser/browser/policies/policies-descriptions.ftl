@@ -66,6 +66,14 @@ policy-HardwareAcceleration = Отключает аппаратное ускор
 policy-Homepage = Устанавливает домашнюю страницу и, по желанию, блокирует её смену.
 policy-InstallAddonsPermission = Разрешает некоторым веб-сайтам устанавливать дополнения.
 policy-LegacyProfiles = Отключает функцию для принудительного создания отдельного профиля для каждой установки
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Использовать настройку устаревшего поведения куки SameSite по умолчанию.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Переключиться на устаревшее поведение SameSite для кук на выбранных сайтах.
+
+##
+
 policy-LocalFileLinks = Разрешает определённым веб-сайтам ссылаться на локальные файлы.
 policy-NetworkPrediction = Включает или отключает прогнозирование сети (предварительная выборка DNS).
 policy-NewTabPage = Включает или отключает страницу новой вкладки.
