@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Laiškų paieška…">
 <!ENTITY searchMailCmd.accesskey "L">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Globali paieška…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Adresų paieška…">
 <!ENTITY searchAddressesCmd.accesskey "d">
 
