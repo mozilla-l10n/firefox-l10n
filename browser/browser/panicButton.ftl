@@ -15,9 +15,9 @@ panic-main-timeframe-desc = Ferjit:
 panic-button-5min =
     .label = Lêste fiif minuten
 panic-button-2hr =
-    .label = Lêste twa oeren
+    .label = Lêste twa oer
 panic-button-day =
-    .label = Lêste 24 oeren
+    .label = Lêste 24 oer
 
 ## These strings are combined to form a complete sentence starting with
 ## panic-button-action-desc. For example: "Proceeding will: Delete Recent Cookies".
