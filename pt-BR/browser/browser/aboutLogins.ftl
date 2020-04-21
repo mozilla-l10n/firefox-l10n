@@ -162,7 +162,7 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Vazamento de site
-breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última vez que você atualizou seus detalhes de acesso. Mude a senha para proteger sua conta.
+breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última vez que você atualizou suas credenciais de acesso. Mude a senha para proteger sua conta.
 breach-alert-link = Saiba mais sobre este vazamento.
 breach-alert-dismiss =
     .title = Fechar este alerta
@@ -175,7 +175,7 @@ about-logins-breach-alert-learn-more-link = Saiba mais
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Senha vulnerável
-about-logins-vulnerable-alert-text2 = Esta senha foi usada em outra conta que provavelmente estava em um vazamento de dados. Reaproveitar credenciais coloca todas as suas contas em risco. Mude esta senha.
+about-logins-vulnerable-alert-text2 = Esta senha foi usada em outra conta de um site onde houve vazamento de dados. Reaproveitar credenciais coloca todas as suas contas em risco. Mude esta senha.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Ir para { $hostname }
