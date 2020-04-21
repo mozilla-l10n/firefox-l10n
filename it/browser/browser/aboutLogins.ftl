@@ -165,7 +165,7 @@ breach-alert-text = Dall’ultima volta in cui hai aggiornato queste credenziali
 breach-alert-link = Ulteriori informazioni su questa violazione.
 breach-alert-dismiss =
     .title = Chiudi questo avviso
-about-logins-breach-alert-date = Questa violazione si è verificata il { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+about-logins-breach-alert-date = Questa violazione si è verificata il giorno { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Apri { $hostname }
