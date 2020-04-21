@@ -249,8 +249,8 @@ browser-window-minimize-button =
     .tooltiptext = Riduci a icona
 browser-window-maximize-button =
     .tooltiptext = Ingrandisci
-browser-window-restore-button =
-    .tooltiptext = Ripristina
+browser-window-restore-down-button =
+    .tooltiptext = Ripristina in basso
 browser-window-close-button =
     .tooltiptext = Chiudi
 
