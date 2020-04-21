@@ -248,7 +248,7 @@
 <!ENTITY priority.level.high                "Heech">
 <!ENTITY priority.level.high.accesskey      "H">
 
-<!ENTITY calendar.context.postpone.1hour.label      "1 oere">
+<!ENTITY calendar.context.postpone.1hour.label      "1 oer">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "o">
 <!ENTITY calendar.context.postpone.1day.label       "1 dei">
 <!ENTITY calendar.context.postpone.1day.accesskey   "d">
@@ -337,8 +337,8 @@
 <!ENTITY calendar.alarm.snooze.15minutes.label      "15 minuten" >
 <!ENTITY calendar.alarm.snooze.30minutes.label      "30 minuten" >
 <!ENTITY calendar.alarm.snooze.45minutes.label      "45 minuten" >
-<!ENTITY calendar.alarm.snooze.1hour.label          "1 oere" >
-<!ENTITY calendar.alarm.snooze.2hours.label         "2 oeren" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 oer" >
+<!ENTITY calendar.alarm.snooze.2hours.label         "2 oer" >
 <!ENTITY calendar.alarm.snooze.1day.label           "1 dei" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
