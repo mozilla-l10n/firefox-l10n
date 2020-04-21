@@ -472,20 +472,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Levar del menú de desbordament">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.removeFromToolbar.label "Levar de la barra d'aisinas">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "L">
 <!ENTITY customizeMenu.addMoreItems.label "Apondre mai d'elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!ENTITY customizeMenu.autoHideDownloadsButton.label "Amagar automaticament dins la barra d’aisinas">
 <!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
 <!ENTITY customizeMenu.manageExtension.label "Gerir l’extension">
-<!ENTITY customizeMenu.manageExtension.accesskey "e">
+<!ENTITY customizeMenu.manageExtension.accesskey "G">
 <!ENTITY customizeMenu.removeExtension.label "Suprimir l’extension">
-<!ENTITY customizeMenu.removeExtension.accesskey "s">
+<!ENTITY customizeMenu.removeExtension.accesskey "S">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
 <!ENTITY customizeMenu.reportExtension.label "Senhalar l’extension">
-<!ENTITY customizeMenu.reportExtension.accesskey "o">
+<!ENTITY customizeMenu.reportExtension.accesskey "n">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
