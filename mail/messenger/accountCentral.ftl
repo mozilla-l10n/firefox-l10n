@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Sveiki, čia „{ -brand-full-name }“
+account-settings = Paskyros nuostatos
+#   $accounts (Number) - the number of configured accounts
 setup-title = Pasirinkite ką norite nustatyti
 about-title = Apie „{ -brand-full-name }“
 resources-title = Ištekliai
@@ -40,3 +42,10 @@ explore-link = Savybės
 support-link = Palaikymas
 involved-link = Įsitraukite
 developer-link = Dokumentacija kūrėjams
+read = Skaityti laiškus
+compose = Rašyti naują laišką
+search = Laiškų paieška
+filter = Laiškų filtrai
+nntp-subscription = Naujienų grupių prenumerata
+rss-subscription = Sklaidos kanalų prenumerata
+e2e = „End-to-End“ šifravimas
