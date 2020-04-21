@@ -3,9 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 set-desktop-background-window =
-    .title = Definir lo fons del burèu
+    .title = Definicion del fons d’ecran
 set-desktop-background-accept =
-    .label = Definir lo fons del burèu
+    .label = Definir lo fons d’ecran
 open-desktop-prefs =
     .label = Dobrir las preferéncias del burèu
 set-background-preview-unavailable = Apercebut indisponible
@@ -20,7 +20,7 @@ set-background-position = Posicion :
 set-background-tile =
     .label = Mosaïca
 set-background-center =
-    .label = Centrat
+    .label = Centrar
 set-background-stretch =
     .label = Estirar
 set-background-fill =
