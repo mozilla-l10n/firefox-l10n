@@ -60,6 +60,8 @@ login-list-item-subtitle-new-login = נא להזין את פרטי הכניסה 
 login-list-item-subtitle-missing-username = (אין שם משתמש)
 about-logins-list-item-breach-icon =
     .title = אתר פרוץ
+about-logins-list-item-vulnerable-password-icon =
+    .title = ססמה פגיעה
 
 ## Introduction screen
 
@@ -89,6 +91,9 @@ login-item-copied-password-button-text = הועתק!
 login-item-save-changes-button = שמירת שינויים
 login-item-save-new-button = שמירה
 login-item-cancel-button = ביטול
+login-item-time-changed = שינוי אחרון: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = תאריך יצירה: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = שימוש אחרון: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -148,6 +153,8 @@ about-logins-breach-alert-learn-more-link = מידע נוסף
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = ססמה פגיעה
+about-logins-vulnerable-alert-text2 = ססמה זו משמשת חשבון אחר שנחשף ככל הנראה בדליפת נתונים. שימוש חוזר בפרטים אלו עלול לשים בסכנה את כל החשבונות שלך. רצוי לשנות את ססמה זו.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = מעבר אל { $hostname }
