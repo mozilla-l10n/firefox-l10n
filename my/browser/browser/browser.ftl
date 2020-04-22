@@ -207,4 +207,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = ကင်မရာကို မျှဝေအသုံးပြုမည်
+    .accesskey = C
+popup-select-microphone =
+    .value = မိုက္ကရိုဖုန်းကို မျှဝေအသုံးပြုမည်
+    .accesskey = M
 popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မြင်ရသော ဝင်းဒိုးအားလုံး မျှဝေပေးမည်။
