@@ -13,3 +13,8 @@ elevation-finished-background-page =
     Varnostna posodobitev za { -brand-short-name } je bila prenesena
     in je na voljo za namestitev.
 elevation-finished-background = Posodobitev:
+elevation-more-elevated =
+    Ta posodobitev zahteva skrbniška dovoljenja. Posodobitev bo
+    nameščena, ko se { -brand-short-name } naslednjič zažene. { -brand-short-name }
+    lahko ponovno zaženete zdaj, nadaljujete z delom in ga ponovno zaženete
+    pozneje ali zavrnete to posodobitev.
