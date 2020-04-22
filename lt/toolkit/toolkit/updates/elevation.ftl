@@ -7,4 +7,5 @@ elevation-update-wizard =
     .title = Programinės įrangos atnaujinimas
 elevation-details-link-label =
     .value = Išsamiau
+elevation-finished-page = Naujinimas paruoštas diegimui
 elevation-finished-background = Naujinimas:
