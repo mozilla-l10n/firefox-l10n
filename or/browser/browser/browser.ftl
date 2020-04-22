@@ -174,3 +174,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = ସହଭାଗ କରିବା ପାଇଁ ମାଇକ୍ରୋଫୋନ:
     .accesskey = M
+popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।
