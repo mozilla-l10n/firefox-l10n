@@ -183,6 +183,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Nciphisa
+browser-window-close-button =
+    .tooltiptext = Vala
 
 ## WebRTC Pop-up notifications
 
