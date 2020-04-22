@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = b
 identity-more-info-link-text =
     .label = További tudnivalók
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Megosztandó kamera:
+    .accesskey = k
+popup-select-microphone =
+    .value = Megosztandó mikrofon:
+    .accesskey = M
+popup-all-windows-shared = A képernyő minden látható ablaka meg lesz osztva.
