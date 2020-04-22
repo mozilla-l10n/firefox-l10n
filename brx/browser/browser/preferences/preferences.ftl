@@ -203,7 +203,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 play-drm-content-learn-more = गोबां सोलों
 update-application-title = { -brand-short-name } नि आपडेटफोर
@@ -417,6 +417,9 @@ sync-fxa-privacy-notice = गुमुरथि मिथिसारहोन�
 ## Privacy Section - Logins and Passwords
 
 logins-header = लगिनफोर आरो पासवर्डफोर
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = लगिनफोर आरो पासवर्डफोर
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-exceptions =
     .label = Exceptions…
     .accesskey = x
@@ -432,6 +435,9 @@ forms-master-pw-change =
     .accesskey = म
 forms-master-pw-fips-title = नोंथाङा दासान्दि FIPS म'डआव दं। FIPS नो मोनसे लांदां-नङै मास्टार पासवार्ड नांगौ।
 forms-master-pw-fips-desc = पासवर्ड सोलायनाया फेलें जाबाय
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
@@ -519,7 +525,7 @@ enhanced-tracking-protection-setting-custom =
     .label = कास्टम
     .accesskey = C
 
-
+##
 
 content-blocking-tracking-protection-option-all-windows =
     .label = गासै उइन्ड'स आव
