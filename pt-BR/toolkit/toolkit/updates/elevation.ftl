@@ -7,5 +7,11 @@ elevation-update-wizard =
     .title = Atualização do aplicativo
 elevation-details-link-label =
     .value = Detalhes
+elevation-error-manual =
+    Você pode atualizar manualmente o { -brand-short-name } visitando este link
+    e baixando a versão mais recente:
 elevation-finished-page = Pronto para instalar
+elevation-finished-background-page =
+    Uma atualização de segurança e estabilidade do { -brand-short-name } foi
+    baixada e está pronta para ser instalada.
 elevation-finished-background = Atualização:
