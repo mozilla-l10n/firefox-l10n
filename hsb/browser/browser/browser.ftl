@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Miniměrować
+browser-window-maximize-button =
+    .tooltiptext = Maksiměrować
 browser-window-close-button =
     .tooltiptext = Začinić
 
