@@ -245,3 +245,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = 자세한 정보
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = 공유할 카메라:
+    .accesskey = C
+popup-select-microphone =
+    .value = 공유할 마이크:
+    .accesskey = M
