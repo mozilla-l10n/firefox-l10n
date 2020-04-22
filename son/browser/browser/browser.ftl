@@ -178,6 +178,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Kaccandi
 
 ## WebRTC Pop-up notifications
 
