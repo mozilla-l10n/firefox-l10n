@@ -254,3 +254,7 @@ identity-more-info-link-text =
 popup-select-camera =
     .value = Kamera som vert delt:
     .accesskey = K
+popup-select-microphone =
+    .value = Mikrofon som vert delt:
+    .accesskey = M
+popup-all-windows-shared = Alle synlege vindauge på skjermen vil bli delte.
