@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Navegación privada)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Navegación privada)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navegación privada)
        *[other] { $title } - { -brand-full-name } (Navegación privada)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Amostrar a información d'o puesto
 
@@ -118,7 +99,9 @@ urlbar-tip-help-icon =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Escribe menos pa trobar mas cosas: Fe busquedas con { $engineName } dreitament dende la barra d'adrezas.
-urlbar-search-tips-redirect = Empecipia la tuya busqueda pa veyer las sucherencias de { $engineName } y lo tuyo historial de busqueda.
+
+##
+
 
 ##
 
@@ -242,3 +225,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = v
 identity-more-info-link-text =
     .label = Mas información
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Camara ta compartir:
+    .accesskey = C
+popup-select-microphone =
+    .value = Microfono ta compartir:
+    .accesskey = M
+popup-all-windows-shared = Se compartirán todas as finestras visibles en a suya pantalla.
