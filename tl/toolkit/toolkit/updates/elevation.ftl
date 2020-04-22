@@ -7,3 +7,11 @@ elevation-update-wizard =
     .title = Update ng Software
 elevation-details-link-label =
     .value = Mga detalye
+elevation-finished-background-page =
+    Ang update para sa seguridad at stabilidad ng { -brand-short-name } ay
+    nadownload na at handa nang i-install.
+elevation-more-elevated =
+    Ang update na ito ay nangangailangan ng mga pribilehiyo ng tagapangasiwa. Ang update ay
+    ay iinstall sa sunod na panahon na tatakbo ang { -brand-short-name }. Maari kang mag-restart sa
+    { -brand-short-name } ngayon, magpatuloy sa pagtrabaho at mag-restart mamaya o tanggihan ang
+    update na ito.
