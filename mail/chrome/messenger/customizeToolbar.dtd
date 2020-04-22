@@ -11,7 +11,7 @@
 <!ENTITY text.label               "Tekst">
 <!ENTITY iconsBesideText.label    "Ikon ved sida av teksten">
 <!ENTITY useSmallIcons.label      "Bruk små ikon">
-<!ENTITY restoreDefaultSet.label  "Bygg oppatt standardinnstilling">
+<!ENTITY restoreDefaultSet.label  "Bruk standardsett">
 <!ENTITY addNewToolbar.label      "Legg til ei ny verktøylinje">
 <!ENTITY showTitlebar.label       "Vis tittellinje">
 <!ENTITY extraDragSpace.label     "Legg til dra-og-slepp-område">
