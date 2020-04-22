@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = Maranduve
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Ta'angamýi hetápe guarãva:
+    .accesskey = C
+popup-select-microphone =
+    .value = Ñe'ẽatãha hetápe g̃uarãva:
+    .accesskey = M
+popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba'erechahápe.
