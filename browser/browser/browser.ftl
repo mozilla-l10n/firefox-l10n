@@ -246,6 +246,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Malplejgrandigi
+browser-window-close-button =
+    .tooltiptext = Fermi
 
 ## WebRTC Pop-up notifications
 
