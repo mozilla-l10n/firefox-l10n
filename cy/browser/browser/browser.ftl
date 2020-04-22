@@ -248,6 +248,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Lleihau
+browser-window-close-button =
+    .tooltiptext = Cau
 
 ## WebRTC Pop-up notifications
 
