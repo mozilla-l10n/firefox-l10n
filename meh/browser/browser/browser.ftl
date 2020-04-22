@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Nasa´a luli
+browser-window-close-button =
+    .tooltiptext = Kasɨ
 
 ## WebRTC Pop-up notifications
 
