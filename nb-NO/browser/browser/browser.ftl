@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = Minimer
 browser-window-maximize-button =
     .tooltiptext = Maksimer
+browser-window-restore-down-button =
+    .tooltiptext = Gjenopprett ned
 browser-window-close-button =
     .tooltiptext = Lukk
 
