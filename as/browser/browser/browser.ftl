@@ -181,3 +181,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = অংশীদাৰী কৰিবলে মাইক্ৰফোন:
     .accesskey = M
+popup-all-windows-shared = আপোনাৰ পৰ্দাত থকা সকলো দৃশ্যমান উইন্ডোক অংশীদাৰী কৰা হব।
