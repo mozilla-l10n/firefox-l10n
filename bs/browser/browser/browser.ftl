@@ -202,3 +202,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon za podijeliti:
     .accesskey = M
+popup-all-windows-shared = Svi vidljivi prozori na vašem ekranu će biti podijeljeni.
