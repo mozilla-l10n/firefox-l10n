@@ -238,3 +238,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Garasun' kamara 'ngà:
+    .accesskey = C
+popup-select-microphone =
+    .value = Garasun' mikrôfono 'ngà:
+    .accesskey = M
+popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun nugua'ān ne'.
