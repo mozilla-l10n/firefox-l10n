@@ -9,6 +9,7 @@ elevation-details-link-label =
     .value = Detail
 elevation-error-manual = Anda dapat memperbarui { -brand-short-name } sendiri dengan mengunjungi tautan ini dan mengunduh versi terbaru:
 elevation-finished-page = Pemutakhiran Siap Dipasang
+elevation-finished-background-page = Pemutakhiran keamanan dan stabilitas untuk { -brand-short-name } telah diunduh dan siap untuk dipasang.
 elevation-finished-background = Pemutakhiran:
 elevation-more-elevated =
     Pemutakhiran ini membutuhkan izin administrator. Pemutakhiran akan
