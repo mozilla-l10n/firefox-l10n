@@ -743,6 +743,9 @@ privacy-header = ਬਰਾਊਜ਼ਰ ਪਰਦੇਦਾਰੀ
 ## Privacy Section - Logins and Passwords
 
 logins-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ਲਾਗਇਨ ਤੇ ਪਾਸਵਰਡ
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਾਗਇਨ ਅਤੇ ਪਾਸਵਰਡ ਸੰਭਾਲਣ ਲਈ ਪੁੱਛੋ
