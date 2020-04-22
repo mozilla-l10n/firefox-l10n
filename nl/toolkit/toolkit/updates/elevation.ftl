@@ -7,4 +7,11 @@ elevation-update-wizard =
     .title = Software-update
 elevation-details-link-label =
     .value = Details
+elevation-error-manual =
+    U kunt { -brand-short-name } handmatig bijwerken door deze koppeling te
+    bezoeken en de nieuwste versie te downloaden:
+elevation-finished-page = Update gereed voor installatie
+elevation-finished-background-page =
+    Er is een beveiligings- en stabiliteitsupdate voor { -brand-short-name }
+    gedownload en gereed voor installatie.
 elevation-finished-background = Update:
