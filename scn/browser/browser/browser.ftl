@@ -212,3 +212,4 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-all-windows-shared = Tutti i finestri visìbbili sunnu pi cullabburazziuni.
