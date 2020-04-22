@@ -643,6 +643,9 @@ privacy-header = Privacidade do navegador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Identificacións e contrasinais
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Identificacións e contrasinais
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Preguntar se gardar identificacións e contrasinais de acceso nos sitios web
     .accesskey = r
@@ -660,6 +663,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = Está en modo FIPS, que require un contrasinal principal que non estea baleiro.
 forms-master-pw-fips-desc = Erro ao modificar o contrasinal
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
