@@ -92,6 +92,8 @@ search-one-offs-change-settings-button =
 
 browser-window-minimize-button =
     .tooltiptext = Biçûk Bike
+browser-window-close-button =
+    .tooltiptext = Bigire
 
 ## WebRTC Pop-up notifications
 
