@@ -255,3 +255,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = میکروفون جهت به‌اشتراک‌گذاری:
     .accesskey = م
+popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده می‌کنید به اشتراک گذاشته می‌شود.
