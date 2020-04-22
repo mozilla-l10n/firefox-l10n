@@ -10,6 +10,7 @@ elevation-details-link-label =
 elevation-error-manual = Podètz metre { -brand-short-name } a jorn manualament en seguissent aqueste ligam e en telecargant la darrièra version :
 elevation-finished-page = Mesa a jorn prèsta a s'installar
 elevation-finished-background-page = S'es telecargada una mesa a jorn de seguretat e d'estabilitat per { -brand-short-name }. Es prèsta a èsser installada.
+elevation-finished-background = Mesa a jorn :
 elevation-more-elevated =
     Aquesta mesa a jorn fa mestièr dels privilègis administrator. La mesa a jorn
     serà installada a l'aviada venenta de { -brand-short-name }.
