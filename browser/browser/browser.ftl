@@ -257,3 +257,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = გასაზიარებელი მიკროფონი:
     .accesskey = მ
+popup-all-windows-shared = ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.
