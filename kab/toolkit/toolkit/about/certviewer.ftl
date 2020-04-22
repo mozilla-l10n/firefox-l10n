@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Adabu n uselken
 certificate-viewer-cipher-suite = Asartu n uwgelhen
 certificate-viewer-common-name = ISem amagnu
 certificate-viewer-email-address = Tansa imayl
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Aselkin i { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Tamurt n usekles
 certificate-viewer-country = Tamurt
