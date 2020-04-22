@@ -23,6 +23,11 @@ update-manual = نوێکردنەوە بەردەستە لە <label data-l10n-name
 update-restarting = پێکردنەوە…
 channel-description = تۆ ئێستا لە نوێکردنەوەی <label data-l10n-name="current-channel"></label> ئەم کەناڵەی.
 warningDesc-version = { -brand-short-name } تاقیکارییە و لەوانەیە جێگیر نەبێت.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> بریتیە لە <label data-l10n-name="community-exp-creditsLink"> کۆمەڵگەییەکی جیهانی </label>کار دەکەن بەیەکەوە بۆ ئەوەی وێب کراوە، گشتی بەردەست بێت بۆ هەموو.
+helpus = دەتەوێت یارمەتیدەر بیت؟ <label data-l10n-name="helpus-donateLink"> ببەخشە </label> یان <label data-l10n-name="helpus-getInvolvedLink"> بەشدار بە</label>
+bottomLinks-license = زانیارییەکانی ڕێگەپێدان
+bottomLinks-rights = مافی بەکارهێنەر
+bottomLinks-privacy = ڕێوشوێنی تایبەتێتی
 # Example of resulting string: 66.0.1 (64-bit)
 # Variables:
 #   $version (String): version of Firefox, e.g. 66.0.1
