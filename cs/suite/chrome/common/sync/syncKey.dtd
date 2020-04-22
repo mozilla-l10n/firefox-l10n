@@ -13,6 +13,6 @@
 <!ENTITY syncKey.keepItSafe4.description  " pokud je ztracen. Klíč bude potřeba použít kdykoliv ke službě &syncBrand.fullName.label; připojíte nový počítač nebo zařízení.">
 <!ENTITY syncKey.findOutMore1.label       "Zjistěte více o službě &syncBrand.fullName.label; a ochraně soukromí na ">
 <!ENTITY syncKey.findOutMore2.label       ".">
-<!ENTITY syncKey.footer1.label            "Podmínky užití služby &syncBrand.fullName.label; jsou dostupné na ">
+<!ENTITY syncKey.footer1.label            "Podmínky poskytování služby &syncBrand.fullName.label; jsou dostupné na">
 <!ENTITY syncKey.footer2.label            ". Zásady ochrany osobních údajů jsou dostupné na ">
 <!ENTITY syncKey.footer3.label            ".">
