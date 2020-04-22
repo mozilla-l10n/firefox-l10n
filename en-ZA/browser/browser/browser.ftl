@@ -156,3 +156,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microphone to share:
     .accesskey = M
+popup-all-windows-shared = All visible windows on your screen will be shared.
