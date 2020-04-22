@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = 최소화
+browser-window-maximize-button =
+    .tooltiptext = 최대화
+browser-window-restore-down-button =
+    .tooltiptext = 이전 크기로 복원
 browser-window-close-button =
     .tooltiptext = 닫기
 
