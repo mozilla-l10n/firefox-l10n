@@ -251,6 +251,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Câmara a partilhar:
+    .accesskey = C
 popup-select-microphone =
     .value = Microfone a partilhar:
     .accesskey = M
