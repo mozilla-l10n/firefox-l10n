@@ -560,6 +560,9 @@ privacy-header = Browser Privacy
 ## Privacy Section - Logins and Passwords
 
 logins-header = ནང་འཇུག་དང་གསང་གྲངས
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ནང་འཇུག་དང་གསང་གྲངས
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = དྲ་ཚིགས་གི་ནང་འཇུག་དང་གསང་གྲངས་ཉར་ཚགས་བྱེད་དགོས་མིན་འདྲི་དགོས་པ།
     .accesskey = r
@@ -575,6 +578,9 @@ forms-master-pw-use =
 forms-master-pw-change =
     .label = གསང་གྲངས་ཨ་མ་བརྗེ་བ…
     .accesskey = M
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
