@@ -248,6 +248,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Semẓi
+browser-window-close-button =
+    .tooltiptext = Mdel
 
 ## WebRTC Pop-up notifications
 
