@@ -10,4 +10,9 @@ elevation-details-link-label =
 elevation-error-manual =
     Se puede actualizar { -brand-short-name } manualmente visitando este enlace
     y descargando la última versión:
+elevation-finished-page = Actualización lista para instalar
+elevation-finished-background-page =
+    Se ha descargado una actualización de seguridad y estabilidad
+    para { -brand-short-name } y está lista para ser instalada.
 elevation-finished-background = Actualización:
+elevation-more-elevated = Esta actualización requiere privilegios de administrador. La actualización se instalará la próxima vez que se inicie { -brand-short-name }. Puede reiniciar { -brand-short-name } ahora, continuar trabajando y reiniciar más tarde, o declinar esta actualización.
