@@ -255,3 +255,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Am micreofon a thèid a cho-roinneadh:
     .accesskey = m
+popup-all-windows-shared = Thèid gach uinneag a tha ri fhaicinn air an sgrìn agad a cho-roinneadh.
