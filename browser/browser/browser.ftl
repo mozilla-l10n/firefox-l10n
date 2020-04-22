@@ -221,6 +221,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = Særa
 
 ## WebRTC Pop-up notifications
 
