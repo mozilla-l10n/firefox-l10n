@@ -7,4 +7,5 @@ elevation-update-wizard =
     .title = साफ्टवेयर अद्यतन
 elevation-details-link-label =
     .value = विवरण
+elevation-finished-page = अद्यतन संस्थापन क लेल तैआर
 elevation-finished-background = अद्यतन  करू :
