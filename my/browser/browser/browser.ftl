@@ -206,6 +206,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ချုံ့ပါ
+browser-window-close-button =
+    .tooltiptext = ပိတ်ပါ
 
 ## WebRTC Pop-up notifications
 
