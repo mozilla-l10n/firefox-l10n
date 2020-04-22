@@ -98,3 +98,4 @@ identity-learn-more =
 
 ## WebRTC Pop-up notifications
 
+popup-all-windows-shared = Mandum windows nyang deuh bak layeu droen keuneuk jibulong.
