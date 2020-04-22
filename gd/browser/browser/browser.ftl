@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Brabhsadh prìobhaideach)
        *[other] { $title } - { -brand-full-name } (Brabhsadh prìobhaideach)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Seall fiosrachadh na làraich-lìn
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Nas lugha de sgrìobhadh: Dèan lorg le { $engineName } o bhàr an t-seòlaidh fhèin.
-urlbar-search-tips-redirect = Tòisich air lorg an-seo ’s chì thu molaidhean o { $engineName } agus on eachdraidh bhrabhsaidh agad.
 urlbar-search-tips-redirect-2 = Dèan lorg ann am bàr an t-seòlaidh ’s chì thu molaidhean o { $engineName } agus on eachdraidh bhrabhsaidh agad.
+
+##
+
 
 ##
 
@@ -244,3 +243,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = u
 identity-more-info-link-text =
     .label = Barrachd fiosrachaidh
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
