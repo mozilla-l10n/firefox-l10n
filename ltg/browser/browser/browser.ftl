@@ -216,6 +216,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimizeit
+browser-window-close-button =
+    .tooltiptext = Aiztaiseit
 
 ## WebRTC Pop-up notifications
 
