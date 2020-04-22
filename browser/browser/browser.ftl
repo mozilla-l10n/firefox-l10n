@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navegació privada)
        *[other] { $title } - { -brand-full-name } (Navegació privada)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
-urlbar-search-tips-redirect = Comenceu la vostra cerca aquí per veure suggeriments de { $engineName } i del vostre historial de navegació.
 urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
+
+##
+
 
 ##
 
@@ -244,3 +243,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = v
 identity-more-info-link-text =
     .label = Més informació
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
