@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Eipe’a kundahára jehechajey ijypykuéva oñe
 policy-DownloadDirectory = Emoha’eño ha ejoko marandurenda mboguejerã.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Embojuruja térã eipe’a tetepy jejoko ha ejoko ejaposérõnte.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Emyandy térã embogue Jepysokue papapypyréva ha, ejaposéramo, ejoko.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
