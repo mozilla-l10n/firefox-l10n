@@ -248,6 +248,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Smanji
+browser-window-close-button =
+    .tooltiptext = Zatvori
 
 ## WebRTC Pop-up notifications
 
