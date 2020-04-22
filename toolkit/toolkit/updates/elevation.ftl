@@ -9,4 +9,7 @@ elevation-details-link-label =
     .value = Détails
 elevation-error-manual = Vous pouvez mettre { -brand-short-name } à jour manuellement en suivant ce lien et en téléchargeant la dernière version :
 elevation-finished-page = Mise à jour prête à être installée
+elevation-finished-background-page =
+    Une mise à jour de sécurité et de stabilité pour { -brand-short-name } a été
+    téléchargée et est prête à être installée.
 elevation-finished-background = Mise à jour :
