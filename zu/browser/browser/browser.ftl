@@ -85,3 +85,9 @@ full-screen-exit =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Ikhamera yokwaba:
+    .accesskey = I
+popup-select-microphone =
+    .value = Imakhrofoni yokwaba:
+    .accesskey = I
