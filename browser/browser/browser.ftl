@@ -245,3 +245,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = e
 identity-more-info-link-text =
     .label = Daha fazla bilgi
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Paylaşılacak kamera:
+    .accesskey = k
+popup-select-microphone =
+    .value = Paylaşılacak mikrofon:
+    .accesskey = m
