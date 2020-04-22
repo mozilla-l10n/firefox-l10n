@@ -214,6 +214,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimizar
+browser-window-close-button =
+    .tooltiptext = Pechar
 
 ## WebRTC Pop-up notifications
 
