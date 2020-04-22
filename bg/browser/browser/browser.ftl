@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Поверително разглеждане)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Поверително разглеждане)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Поверително разглеждане)
        *[other] { $title } - { -brand-full-name } (Поверително разглеждане)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Показване на информация за уеб страницата
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Въвеждайте малко, намирайте много: търсете с { $engineName } направо от адресната лента.
-urlbar-search-tips-redirect = Започнете търсене оттук, за да видите предложения от { $engineName } и историята на разглеждане.
 urlbar-search-tips-redirect-2 = Започнете търсене от адресната лента, за да видите предложения от { $engineName } и историята на разглеждане.
+
+##
+
 
 ##
 
@@ -260,3 +243,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = В
 identity-more-info-link-text =
     .label = Повече информация
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
