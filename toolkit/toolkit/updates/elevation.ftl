@@ -7,4 +7,6 @@ elevation-update-wizard =
     .title = Mesa a jorn del logicial
 elevation-details-link-label =
     .value = Detalhs
+elevation-error-manual = Podètz metre { -brand-short-name } a jorn manualament en seguissent aqueste ligam e en telecargant la darrièra version :
 elevation-finished-page = Mesa a jorn prèsta a s'installar
+elevation-finished-background-page = S'es telecargada una mesa a jorn de seguretat e d'estabilitat per { -brand-short-name }. Es prèsta a èsser installada.
