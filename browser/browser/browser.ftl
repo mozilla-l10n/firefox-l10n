@@ -224,3 +224,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = વધારે જાણકારી
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = વહેંચવા માટે કૅમેરા:
+    .accesskey = C
+popup-select-microphone =
+    .value = વહેંચવા માટે માઇક્રોફોન:
+    .accesskey = M
+popup-all-windows-shared = તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.
