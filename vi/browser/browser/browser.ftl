@@ -251,4 +251,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Chia sẻ camera:
+    .accesskey = C
+popup-select-microphone =
+    .value = Chia sẻ micro:
+    .accesskey = M
 popup-all-windows-shared = Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.
