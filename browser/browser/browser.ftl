@@ -257,3 +257,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Meicroffon i'w rannu:
     .accesskey = M
+popup-all-windows-shared = Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.
