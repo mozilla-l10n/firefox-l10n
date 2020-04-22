@@ -7,6 +7,7 @@ elevation-update-wizard =
     .title = 软件更新
 elevation-details-link-label =
     .value = 详细信息
+elevation-error-manual = 您可以访问此链接手动下载和更新最新版本的 { -brand-short-name }：
 elevation-finished-page = 更新已可安装
 elevation-finished-background-page = 已下载一个 { -brand-short-name } 的安全、稳定性更新，现在就可以安装。
 elevation-finished-background = 更新：
