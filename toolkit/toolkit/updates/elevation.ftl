@@ -6,3 +6,4 @@
 elevation-details-link-label =
     .value = Detalii
 elevation-finished-background = Actualizare:
+elevation-more-elevated = Această actualizare necesită privilegii de administrator. Actualizarea va fi instalată data viitoare când va porni { -brand-short-name }. Poți reporni { -brand-short-name } acum, poți continua lucrul și să repornești mai târziu, sau poți refuza această actualizare.
