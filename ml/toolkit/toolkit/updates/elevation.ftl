@@ -3,4 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # This is temporary until bug 1521632 is fixed
 
+elevation-update-wizard =
+    .title = സോഫ്റ്റ്‌വെയര്‍  അപ്ഡേറ്റ്‌
+elevation-details-link-label =
+    .value = വിവരങ്ങള്‍
 elevation-finished-page = ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനുള്ള പരിഷ്കരണം തയ്യാറാണു്
+elevation-finished-background = പരിഷ്കരണങ്ങള്‍
