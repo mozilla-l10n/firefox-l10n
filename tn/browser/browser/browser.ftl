@@ -135,6 +135,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Ngotla
+browser-window-close-button =
+    .tooltiptext = Tswala
 
 ## WebRTC Pop-up notifications
 
