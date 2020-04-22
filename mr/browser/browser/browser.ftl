@@ -224,6 +224,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = छोटे करा
 
 ## WebRTC Pop-up notifications
 
