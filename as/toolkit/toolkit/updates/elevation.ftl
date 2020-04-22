@@ -7,5 +7,7 @@ elevation-update-wizard =
     .title = চফ্টৱেৰৰ আপডেইট
 elevation-details-link-label =
     .value = বিৱৰণ
+elevation-error-manual = আপুনি { -brand-short-name } ক নিজেই আপডেইট কৰিব পাৰে এই সংযোগ দৰ্শন কৰি আৰু শেহতীয়া সংস্কৰণ ডাউনল'ড কৰি:
 elevation-finished-page = আপডেইট ইনস্টলৰ কাৰণে প্ৰস্তুত
+elevation-finished-background-page = { -brand-short-name } ৰ কাৰণে এটা সুৰক্ষা আৰু স্থিৰতাৰ আপডেইট ডাউনল'ড কৰা হৈছে আৰু ইনস্টলৰ কাৰণে সাজু।
 elevation-finished-background = আপডেইট:
