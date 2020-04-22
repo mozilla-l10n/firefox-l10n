@@ -494,6 +494,9 @@ privacy-header = Blaaier Privaatheid
 ## Privacy Section - Logins and Passwords
 
 logins-header = Aanmeldings en Wagwoorde
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Aanmeldings en Wagwoorde
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Vra om aanmeldings en wagwoorde vir webwerwe te stoor
@@ -516,6 +519,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = U is tans in FIPS-modus. FIPS vereis 'n nieleë meesterwagwoord.
 forms-master-pw-fips-desc = Kon nie wagwoord verander nie
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
