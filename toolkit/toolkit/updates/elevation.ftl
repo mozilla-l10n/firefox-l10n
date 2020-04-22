@@ -7,4 +7,5 @@ elevation-update-wizard =
     .title = Kisɗitainal Topirde
 elevation-details-link-label =
     .value = Cariiɗe
+elevation-finished-page = Kesɗitinal Hebiima Aafeede
 elevation-finished-background = Hesɗitin:
