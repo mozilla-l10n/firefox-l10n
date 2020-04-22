@@ -248,6 +248,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = Isara
 
 ## WebRTC Pop-up notifications
 
