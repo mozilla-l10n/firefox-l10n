@@ -761,6 +761,9 @@ privacy-header = خصوصية المتصفح
 ## Privacy Section - Logins and Passwords
 
 logins-header = جلسات الولوج وكلمات السر
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = جلسات الولوج وكلمات السر
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = اطلب مني حفظ كلمات سر و بيانات ولوج مواقع الوِب
@@ -790,6 +793,9 @@ forms-master-pw-change =
     .accesskey = ر
 forms-master-pw-fips-title = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر غير فارغة.
 forms-master-pw-fips-desc = فشل تغيير كلمة السر
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
