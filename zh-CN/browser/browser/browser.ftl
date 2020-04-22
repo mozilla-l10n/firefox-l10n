@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = 最小化
+browser-window-maximize-button =
+    .tooltiptext = 最大化
 browser-window-close-button =
     .tooltiptext = 关闭
 
