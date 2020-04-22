@@ -249,3 +249,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Dividota filmilo:
+    .accesskey = f
+popup-select-microphone =
+    .value = Dividota mikrofono:
+    .accesskey = m
+popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.
