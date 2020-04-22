@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Shfletim Privat)
        *[other] { $title } - { -brand-full-name } (Shfletim Privat)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Shihni të dhëna sajti
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Shtypni më pak, gjeni më shumë: Kërkoni me { $engineName } drejt e nga shtylla juaj e adresave.
-urlbar-search-tips-redirect = Fillojeni kërkimin tuaj këtu që të shihni sugjerime nga { $engineName } dhe nga historiku juaj i shfletimit.
 urlbar-search-tips-redirect-2 = Filloni kërkimin tuaj te shtylla e adresave që të shihni sugjerime nga { $engineName } dhe nga historiku juaj i shfletimit.
+
+##
+
 
 ##
 
@@ -244,3 +243,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Më Tepër të Dhëna
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
