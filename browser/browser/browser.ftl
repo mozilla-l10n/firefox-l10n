@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = Згорнути
 browser-window-maximize-button =
     .tooltiptext = Розгорнути
+browser-window-restore-down-button =
+    .tooltiptext = Відновити вниз
 browser-window-close-button =
     .tooltiptext = Закрити
 
