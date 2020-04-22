@@ -222,3 +222,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Myndavél til að deila:
+    .accesskey = y
+popup-select-microphone =
+    .value = Hljóðnemi til að deila:
+    .accesskey = m
+popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
