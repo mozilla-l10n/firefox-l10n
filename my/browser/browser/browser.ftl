@@ -207,3 +207,4 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မြင်ရသော ဝင်းဒိုးအားလုံး မျှဝေပေးမည်။
