@@ -200,3 +200,4 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන සියළු කවුළු බෙදාගැනෙනු ඇත.
