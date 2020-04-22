@@ -232,6 +232,10 @@ translate-attribution = Tasuqilt sɣuṛ <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Tisuraf…
     .accesskey = r
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Seqdec iɣewwaṛen n unagraw-ik n wammud i “{ $localeName }” akken  ad tmesleḍ izmaz, akuden, imḍanen, d yiktazalen.
 check-user-spelling =
     .label = Senqed tira-iw ticki ttaruɣ
     .accesskey = q
