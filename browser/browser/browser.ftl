@@ -224,3 +224,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Fòtocamera da condividde:
+    .accesskey = F
+popup-select-microphone =
+    .value = Micròfono da condividde:
+    .accesskey = M
