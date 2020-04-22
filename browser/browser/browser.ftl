@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = Mai multe informații
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Camera spre partajare:
+    .accesskey = C
+popup-select-microphone =
+    .value = Microfonul spre partajare:
+    .accesskey = M
+popup-all-windows-shared = Toate ferestrele vizibile pe ecran vor fi partajate.
