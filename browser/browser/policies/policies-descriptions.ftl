@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettleser ved oppst
 policy-DownloadDirectory = Angi og lås netlastingskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innholdsblokkering med mulighet til å låse valget.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Aktiver eller deaktiver Encrypted Media Extension med mulighet til å låse valget.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
