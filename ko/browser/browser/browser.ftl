@@ -257,3 +257,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = 공유할 마이크:
     .accesskey = M
+popup-all-windows-shared = 화면에 표시되어 있는 모든 창을 공유합니다.
