@@ -191,6 +191,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ചെറുതാക്കുക
+browser-window-close-button =
+    .tooltiptext = അടയ്ക്കുക
 
 ## WebRTC Pop-up notifications
 
