@@ -246,6 +246,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimitza
+browser-window-close-button =
+    .tooltiptext = Tanca
 
 ## WebRTC Pop-up notifications
 
