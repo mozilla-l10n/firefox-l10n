@@ -248,6 +248,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimalisearje
 browser-window-close-button =
     .tooltiptext = Slute
 
