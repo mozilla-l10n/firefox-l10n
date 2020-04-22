@@ -269,3 +269,12 @@ identity-enable-mixed-content-blocking =
     .accesskey = P
 identity-more-info-link-text =
     .label = Více informací
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-microphone =
+    .value = Sdílet mikrofon:
+    .accesskey = m
