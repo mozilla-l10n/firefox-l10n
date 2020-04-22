@@ -254,4 +254,7 @@ identity-more-info-link-text =
 popup-select-camera =
     .value = Uporabi kamero:
     .accesskey = K
+popup-select-microphone =
+    .value = Uporabi mikrofon:
+    .accesskey = M
 popup-all-windows-shared = Vsa vidna okna na vašem zaslonu bodo v skupni rabi.
