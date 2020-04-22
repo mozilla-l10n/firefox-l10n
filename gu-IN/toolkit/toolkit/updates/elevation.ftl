@@ -8,3 +8,6 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = વિગતો
 elevation-error-manual = તમે આ કડી પર ક્લિક કરીને અને તાજેતરની આવૃત્તિ ડાઉનલોડ કરીને { -brand-short-name } ને સુધારી શકો છો:
+elevation-finished-page = સુધારો સ્થાપન કરવા માટે તૈયાર છે
+elevation-finished-background-page = { -brand-short-name } માટે સુરક્ષા અને સુગમતા સુધારો ડાઉનલોડ થઈ ગયેલ છે અને તે સ્થાપિત થવા માટે તૈયાર છે.
+elevation-finished-background = સુધારો:
