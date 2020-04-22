@@ -576,7 +576,7 @@ sync-sign-in =
     .label = Seŋao
     .accesskey = g
 sync-signedin-settings-header = Yahdin teelte
-sync-signedin-settings-desc = Suɓo ko pot-ɗaa yahdinde nder masiŋon maa kuutortookon { -brand-short-name }.
+sync-signedin-settings-desc = Suɓo ko pot-ɗaa yahdinde nder kaɓirɗi maa kuutortookon { -brand-short-name }.
 
 ## Sync section - enabling or disabling sync.
 
@@ -649,6 +649,7 @@ logins-header = Ceŋorɗe & Pinle
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = Ceŋorɗe & Pinle
     .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Laaɓndo mbele a hisnat baccooje e pinle lowe
     .accesskey = r
@@ -869,8 +870,8 @@ certs-view =
     .label = Yiy Seedamfaaji…
     .accesskey = C
 certs-devices =
-    .label = Masiŋon Kisal…
-    .accesskey = D
+    .label = kaɓirɗi Kisal…
+    .accesskey = k
 space-alert-learn-more-button =
     .label = Jokku taro
     .accesskey = L

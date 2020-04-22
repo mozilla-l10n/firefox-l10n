@@ -74,11 +74,11 @@
 <!ENTITY projectPanel_myProjects "Eɓɓaande am">
 <!ENTITY projectPanel_runtimeApps "Jaabnirɗe Sahaa dogdu">
 <!ENTITY projectPanel_tabs "Tabbe">
-<!ENTITY runtimePanel_usb "Masiŋon USB">
-<!ENTITY runtimePanel_wifi "Masiŋon Wi-Fi">
+<!ENTITY runtimePanel_usb "kaɓirɗi USB">
+<!ENTITY runtimePanel_wifi "kaɓirɗi Wi-Fi">
 <!ENTITY runtimePanel_other "Goɗɗe">
 <!ENTITY runtimePanel_nousbdevice "A horiima yiyde masiŋel maa?">
-<!ENTITY runtimePanel_refreshDevices_label "Hesɗitin masiŋon">
+<!ENTITY runtimePanel_refreshDevices_label "Hesɗitin kaɓirɗi">
 
 <!-- Lense -->
 <!ENTITY details_valid_header "ina moƴƴi">
