@@ -742,6 +742,9 @@ privacy-header = Поверителност на четеца
 ## Privacy Section - Logins and Passwords
 
 logins-header = Регистрации и пароли
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Регистрации и пароли
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Питане при запазване имена и пароли за вход в страниците
@@ -771,6 +774,9 @@ forms-master-pw-change =
     .accesskey = л
 forms-master-pw-fips-title = В момента е активен режим FIPS. Той изисква попълнена главна парола.
 forms-master-pw-fips-desc = Грешка при промяна на паролата
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
