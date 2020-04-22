@@ -665,6 +665,9 @@ privacy-header = Prìobhaideachd a’ bhrabhsair
 ## Privacy Section - Logins and Passwords
 
 logins-header = Clàraidhean a-steach ⁊ faclan-faire
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Clàraidhean a-steach ⁊ faclan-faire
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Faighnich an dèid clàraidhean a-steach is faclan-faire làraichean-lìn a shàbhaladh
     .accesskey = r
@@ -682,6 +685,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = Tha thu ann am modh FIPS an-dràsta. Feumaidh FIPS prìomh fhacal-faire nach eil falamh.
 forms-master-pw-fips-desc = Dh'fhàillig atharrachadh an fhacail-fhaire
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
