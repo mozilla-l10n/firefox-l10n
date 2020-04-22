@@ -84,6 +84,8 @@ full-screen-exit =
 
 browser-window-minimize-button =
     .tooltiptext = Yɛ-ketewa
+browser-window-close-button =
+    .tooltiptext = To-mu
 
 ## WebRTC Pop-up notifications
 
