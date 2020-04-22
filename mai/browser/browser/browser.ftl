@@ -148,3 +148,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = साझा करब लेल कैमरा (C):
+    .accesskey = C
+popup-select-microphone =
+    .value = साझा करबाक लेल माइक्रोफोन (M):
+    .accesskey = M
