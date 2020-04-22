@@ -251,4 +251,7 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-microphone =
+    .value = Mga mikropono na pwedeng ibahagi:
+    .accesskey = M
 popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabahagi.
