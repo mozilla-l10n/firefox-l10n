@@ -184,4 +184,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Cámara pa compartir:
+    .accesskey = C
+popup-select-microphone =
+    .value = Micrófonu pa compartir:
+    .accesskey = M
 popup-all-windows-shared = Van compartise toles ventanes visibles na to pantalla.
