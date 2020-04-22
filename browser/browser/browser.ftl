@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Privat browsing)
        *[other] { $title } - { -brand-full-name } (Privat browsing)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Vis information om websted
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tast mindre, find mere: Søg med { $engineName } direkte i adressefeltet.
-
 urlbar-search-tips-redirect-2 = Start din søgning i adressefeltet for at få forslag fra { $engineName } og din browserhistorik.
+
+##
+
 
 ##
 
@@ -154,7 +153,6 @@ page-action-manage-extension =
     .label = Håndter udvidelse…
 page-action-remove-from-urlbar =
     .label = Fjern fra adressefeltet
-
 page-action-remove-extension =
     .label = Fjern udvidelse
 
@@ -247,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Mere information
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Kamera til deling:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikrofon til deling:
+    .accesskey = M
+popup-all-windows-shared = Alle synlige vinduer på din skærm vil blive delt.
