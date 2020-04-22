@@ -85,3 +85,9 @@ full-screen-exit =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Kamera kushiriki:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikrofoni kushiriki:
+    .accesskey = M
