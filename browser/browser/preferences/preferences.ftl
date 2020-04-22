@@ -723,6 +723,9 @@ privacy-header = Veebilehitseja privaatsus
 ## Privacy Section - Logins and Passwords
 
 logins-header = Kasutajatunnused ja paroolid
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Kasutajatunnused ja paroolid
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Küsitakse saitide kasutajatunnuste meelespidamise nõusolekut
     .accesskey = i
@@ -750,6 +753,9 @@ forms-master-pw-change =
     .accesskey = p
 forms-master-pw-fips-title = Sa oled FIPS-režiimis. See eeldab, et sinu ülemparool ei oleks tühi.
 forms-master-pw-fips-desc = Parooli muutmine nurjus
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
