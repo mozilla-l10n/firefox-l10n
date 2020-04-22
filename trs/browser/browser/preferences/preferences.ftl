@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Sa ma DRM (Digital Rights Management - Sa Dugumin)
 play-drm-content =
@@ -734,6 +734,9 @@ privacy-header = Daj da'ui navegador gi'iaj sunj
 ## Privacy Section - Logins and Passwords
 
 logins-header = Gayi'ìt gatut ni Da'nga' huìi
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Gayi'ìt gatut ni Da'nga' huìi
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Da'ui nachi' na'ān si na'ninj sa'aj sa gayi'i nī da'nga' huìi guenda nej sitio na
@@ -763,6 +766,9 @@ forms-master-pw-change =
     .accesskey = N
 forms-master-pw-fips-title = Akuan’ nïn nī nunt ngà modô FIPS. FIPS nī ni’ñan ‘ngō Da’nga’ Huì a’nïn’ïn.
 forms-master-pw-fips-desc = Nu ga’ue nādunaj Da’nga’ Huìi
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
@@ -903,7 +909,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Nagi'iaj
     .accesskey = C
 
-
+##
 
 content-blocking-etp-standard-desc = Nda hue'ê chre huaj da' gi'iaj sunj ni naran rayi'ît. Nej pâjina ni nayi'nïn riña man dàj rû' 'iaj yitïn.
 content-blocking-etp-strict-desc = Nùkuaj doj naran rayi'ît, sani ga'ue si gi'iaj sun hue'ê da'aj sîtio asi sa màn riñanj.
