@@ -248,6 +248,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = 최소화
+browser-window-close-button =
+    .tooltiptext = 닫기
 
 ## WebRTC Pop-up notifications
 
