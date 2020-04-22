@@ -209,3 +209,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = పంచుకోవాల్సిన కేమెరా:
+    .accesskey = C
+popup-select-microphone =
+    .value = పంచుకోవాల్సిన మైక్రోఫోన్:
+    .accesskey = M
+popup-all-windows-shared = మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.
