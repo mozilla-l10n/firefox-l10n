@@ -199,6 +199,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = හකුළන්න
+browser-window-close-button =
+    .tooltiptext = වසන්න
 
 ## WebRTC Pop-up notifications
 
