@@ -736,6 +736,9 @@ privacy-header = ความเป็นส่วนตัวเบราว์
 ## Privacy Section - Logins and Passwords
 
 logins-header = การเข้าสู่ระบบและรหัสผ่าน
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = การเข้าสู่ระบบและรหัสผ่าน
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = ถามเพื่อบันทึกการเข้าสู่ระบบและรหัสผ่านสำหรับเว็บไซต์
