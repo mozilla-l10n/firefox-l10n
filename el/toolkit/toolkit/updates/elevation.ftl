@@ -5,7 +5,10 @@
 
 elevation-update-wizard =
     .title = Ενημέρωση λογισμικού
+elevation-details-link-label =
+    .value = Λεπτομέρειες
 elevation-error-manual =
     Μπορείτε να ενημερώσετε τον { -brand-short-name } χειροκίνητα . Επισκεφτείτε αυτόν το δεσμό
     για να λάβετε την τελευταία έκδοση:
 elevation-finished-page = Η ενημέρωση είναι έτοιμη για εγκατάσταση
+elevation-finished-background = Ενημέρωση:
