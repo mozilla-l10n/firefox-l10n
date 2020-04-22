@@ -245,6 +245,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Bihanaat
+browser-window-close-button =
+    .tooltiptext = Serriñ
 
 ## WebRTC Pop-up notifications
 
