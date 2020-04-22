@@ -219,4 +219,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Izavielīs kameru:
+    .accesskey = k
+popup-select-microphone =
+    .value = Izavielīs mikrofonu:
+    .accesskey = m
 popup-all-windows-shared = All visible windows on your screen will be shared.
