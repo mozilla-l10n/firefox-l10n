@@ -226,6 +226,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Kiçilt
+browser-window-close-button =
+    .tooltiptext = Qapat
 
 ## WebRTC Pop-up notifications
 
