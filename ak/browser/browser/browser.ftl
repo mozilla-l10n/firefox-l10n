@@ -85,3 +85,9 @@ full-screen-exit =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Mfonin-fidie a wo pɛ sɛ wo kyɛ:
+    .accesskey = f
+popup-select-microphone =
+    .value = Kasamu a wo pɛ sɛ wo kyɛ:
+    .accesskey = K
