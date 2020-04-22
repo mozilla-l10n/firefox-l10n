@@ -563,6 +563,9 @@ privacy-header = ബ്രൗസർ സ്വകാര്യത
 ## Privacy Section - Logins and Passwords
 
 logins-header = ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ഉപയോക്തൃനാമങ്ങളും രഹസ്യവാക്കുകളും
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-exceptions =
     .label = ഒഴിവാക്കേണ്ടവ…
     .accesskey = x
@@ -577,6 +580,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = താങ്കള്‍ ഇപ്പോള്‍ FIPS മോഡിലാണ്‌. FIPS ന്‌ ഒരു പ്രധാന പാസ്‌വേര്‍ഡ് ആവശ്യമാണ്‌
 forms-master-pw-fips-desc = പാസ്‌വേര്‍ഡ് മാറ്റം പരാജയപ്പെട്ടിരിക്കുന്നു
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
