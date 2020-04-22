@@ -197,6 +197,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = बन्द गर्नुहोस्
 
 ## WebRTC Pop-up notifications
 
