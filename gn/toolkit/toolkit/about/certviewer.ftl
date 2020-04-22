@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Ñemboajeha moakãhára
 certificate-viewer-cipher-suite = Suite ipapapýva
 certificate-viewer-common-name = Téra tapia
 certificate-viewer-email-address = Ñanduti veve kundaharape
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Mboajepyre { $firstCertName } peg̃uarã
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Tetã
 certificate-viewer-country = Tetã
