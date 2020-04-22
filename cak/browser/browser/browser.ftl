@@ -246,6 +246,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Ch'utinarisaxïk
+browser-window-close-button =
+    .tooltiptext = Titz'apïx
 
 ## WebRTC Pop-up notifications
 
