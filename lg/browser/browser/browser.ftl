@@ -82,6 +82,8 @@ full-screen-exit =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Funza
 
 ## WebRTC Pop-up notifications
 
