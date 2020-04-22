@@ -216,6 +216,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Asğariyleştir
+browser-window-close-button =
+    .tooltiptext = Qapat
 
 ## WebRTC Pop-up notifications
 
