@@ -216,3 +216,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = பகிர வேண்டிய படக்கருவி:
+    .accesskey = C
+popup-select-microphone =
+    .value = பகிர வேண்டிய ஒலிவாங்கி:
+    .accesskey = M
+popup-all-windows-shared = திரையில் பார்வையிலுள்ள அனைத்து சாளரங்களும் பகிரப்படும்.
