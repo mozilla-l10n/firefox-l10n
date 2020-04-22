@@ -257,3 +257,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Бөлісу үшін микрофон:
     .accesskey = м
+popup-all-windows-shared = Экраныңыздаға барлық көрінетін терезелермен бөлісетін боласыз.
