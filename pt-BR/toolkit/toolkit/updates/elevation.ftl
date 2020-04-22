@@ -7,4 +7,5 @@ elevation-update-wizard =
     .title = Atualização do aplicativo
 elevation-details-link-label =
     .value = Detalhes
+elevation-finished-page = Pronto para instalar
 elevation-finished-background = Atualização:
