@@ -7,6 +7,7 @@ elevation-update-wizard =
     .title = সফটওয়্যার হালনাগাদ
 elevation-details-link-label =
     .value = বিস্তারিত
+elevation-error-manual = উল্লেখিত লিঙ্ক থেকে আপনি নিজেই { -brand-short-name } এর সর্বশেষ সংস্করণ ডাউনলোড করে ইনস্টল করতে পারেন:
 elevation-finished-page = হালনাগাদ ইনস্টল করার জন্য প্রস্তুত
 elevation-finished-background-page = { -brand-short-name } এর জন্য একটি স্থায়ীত্ব ও নিরাপত্তা সংক্রান্ত হালনাগাদ ডাউনলোড করা হয়েছে এবং এটি ইনস্টলের জন্য প্রস্তুত।
 elevation-finished-background = হালনাগাদ:
