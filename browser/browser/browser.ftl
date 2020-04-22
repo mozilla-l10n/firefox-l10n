@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Navegaçion priva)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Navegaçion priva)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navegaçion priva)
        *[other] { $title } - { -brand-full-name } (Navegaçion priva)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Fanni vedde informaçioin in sciô scito
 
@@ -114,7 +95,9 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Scrivi de meno, treuva de ciù: Çerca { $engineName } inta teu bara di indirissi.
-urlbar-search-tips-redirect = Iniçia a çercâ chi pe vedde i conseggi da { $engineName } e da stöia da navegaçion.
+
+##
+
 
 ##
 
@@ -235,3 +218,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Ciù informaçioin
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
