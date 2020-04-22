@@ -216,6 +216,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Kan piny
 browser-window-close-button =
     .tooltiptext = Lor
 
