@@ -752,6 +752,9 @@ privacy-header = Richinanem Okik'amaya'l
 ## Privacy Section - Logins and Passwords
 
 logins-header = Kitikirisanïk Molojri'ïl & Ewan taq Tzij
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Kitikirisanïk Molojri'ïl & Ewan taq Tzij
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Tik'utüx chi rij ri kiyakik kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq ajk'amaya'l
