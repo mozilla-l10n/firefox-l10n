@@ -11,4 +11,7 @@ elevation-error-manual =
     හස්තීයව මෙම පුරුක වෙත්න් නවතම වෙළුම බාගත කරගැනීමේන්ඔබට { -brand-short-name }
     යාවත්කාල කිරීම් කල හැක :
 elevation-finished-page = යාවත් කිරීම ස්ථාපනයට සූදානම්
+elevation-finished-background-page =
+    { -brand-short-name } සඳහා ආරක්‍ෂණ සහ ස්ථායි යාවත් කිරිම ලබාගෙන
+    එය ස්ථාපනය සඳහා සූදානම්.
 elevation-finished-background = යාවත්කාල කිරීම:
