@@ -752,6 +752,9 @@ privacy-header = Nettleserpersonvern
 ## Privacy Section - Logins and Passwords
 
 logins-header = Innlogginger og passord
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Innlogginger og passord
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Spør om å lagre brukernavn og passord for nettsteder
