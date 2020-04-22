@@ -5,5 +5,8 @@
 
 elevation-update-wizard =
     .title = პროგრამის განახლება
+elevation-error-manual =
+    { -brand-short-name } შეგიძლიათ ხელით განაახლოთ თუ მოინახულებთ
+    ამ ბმას და გადმოტვირთავთ ბოლო ვერსიას:
 elevation-finished-page = განახლება მზადაა ჩასადგმელად
 elevation-finished-background = განახლება:
