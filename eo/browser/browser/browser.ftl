@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Privata retumo)
        *[other] { $title } - { -brand-full-name } (Privata retumo)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Vidi informon de la retejo
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tajpu malpli, trovi pli: serĉi per { $engineName } rekte el via adresa strio.
-urlbar-search-tips-redirect = Komencu vian serĉon ĉi tie por vidi sugestojn el { $engineName } kaj el via retuma historio.
 urlbar-search-tips-redirect-2 = Komencu vian serĉon en la adresa strio por vidi sugestojn el { $engineName } kaj el via retuma historio.
+
+##
+
 
 ##
 
@@ -244,3 +243,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Pli da informo
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
