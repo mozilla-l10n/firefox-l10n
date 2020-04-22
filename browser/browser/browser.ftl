@@ -245,3 +245,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = G
 identity-more-info-link-text =
     .label = Rhagor o Wybodaeth
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Camera i'w rannu:
+    .accesskey = C
+popup-select-microphone =
+    .value = Meicroffon i'w rannu:
+    .accesskey = M
