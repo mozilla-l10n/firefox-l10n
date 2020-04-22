@@ -248,6 +248,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimaliseren
+browser-window-close-button =
+    .tooltiptext = Sluiten
 
 ## WebRTC Pop-up notifications
 
