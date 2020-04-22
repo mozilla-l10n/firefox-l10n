@@ -608,6 +608,9 @@ privacy-header = ဘရောင်ဇာ ကိုယ်ရေးကာကွ�
 ## Privacy Section - Logins and Passwords
 
 logins-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = အကောင့်ဝင်ရောက်မှုနှင့်စကားဝှက်များ
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = ဆိုက်များအတွက် ဝင်ရောက်မှုများနှင့် စကားဝှက်များကို မှတ်ရန် မေးပါ
     .accesskey = r
@@ -625,6 +628,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = လတ်တလော FIPS အသွင်အတွင်း ရှိသည်။ FIPSသည် ‌ဗလာမဖြစ်သော ပင်မစကားဝှက်တစ်ခု လိုအပ်နေသည်။
 forms-master-pw-fips-desc = စကားဝှက်ပြောင်းလဲမှု မအောင်မြင်ပါ
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
