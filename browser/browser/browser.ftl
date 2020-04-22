@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = O
 identity-more-info-link-text =
     .label = Lisätietoja
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Jaettava kamera:
+    .accesskey = k
+popup-select-microphone =
+    .value = Jaettava mikrofoni:
+    .accesskey = m
+popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
