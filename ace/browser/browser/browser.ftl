@@ -95,6 +95,10 @@ identity-learn-more =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Peuubit
+browser-window-close-button =
+    .tooltiptext = Tôp
 
 ## WebRTC Pop-up notifications
 
