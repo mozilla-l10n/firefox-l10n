@@ -23,9 +23,6 @@ browser-main-window-content-title-default =
         [macos] { $title }
        *[other] { $title } - { -brand-full-name }
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Bíe íyano ráfue ákata
 
@@ -42,6 +39,9 @@ urlbar-translated-notification-anchor =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
 
 
 ##
@@ -76,3 +76,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = R
 identity-more-info-link-text =
     .label = Jamano ráfue
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Jóreño óra fekáyena:
+    .accesskey = J
+popup-select-microphone =
+    .value = Fekayena úriraiya:
+    .accesskey = F
