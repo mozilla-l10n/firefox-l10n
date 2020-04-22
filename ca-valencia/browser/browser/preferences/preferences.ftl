@@ -316,7 +316,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = Contingut DRM (Digital Rights Management, Gestió de drets digitals)
 play-drm-content =
@@ -734,6 +734,9 @@ privacy-header = Privadesa del navegador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Inicis de sessió i contrasenyes
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Inicis de sessió i contrasenyes
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Demana si vull guardar les dades d'inici de sessió i contrasenyes dels llocs web
@@ -763,6 +766,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = Vos trobeu en mode FIPS. El FIPS requereix una contrasenya mestra no buida.
 forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
@@ -903,7 +909,7 @@ enhanced-tracking-protection-setting-custom =
     .label = Personalitzada
     .accesskey = P
 
-
+##
 
 content-blocking-etp-standard-desc = Equilibri entre protecció i rendiment. Les pàgines es carregaran amb normalitat.
 content-blocking-etp-strict-desc = Més protecció, però pot fer que alguns llocs o algun contingut no funcionen correctament.
