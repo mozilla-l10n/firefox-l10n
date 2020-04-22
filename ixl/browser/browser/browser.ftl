@@ -145,6 +145,8 @@ identity-learn-more =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = Jupa
 
 ## WebRTC Pop-up notifications
 
