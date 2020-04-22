@@ -275,6 +275,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Sdílet kameru:
+    .accesskey = k
 popup-select-microphone =
     .value = Sdílet mikrofon:
     .accesskey = m
+popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obrazovce.
