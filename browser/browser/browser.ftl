@@ -249,4 +249,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Μοιραστείτε την κάμερα:
+    .accesskey = Ψ
+popup-select-microphone =
+    .value = Μοιραστείτε το μικρόφωνο:
+    .accesskey = Μ
 popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.
