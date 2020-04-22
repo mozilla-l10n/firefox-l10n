@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 customize-mode-restore-defaults =
-    .label = Still tilbake til standard
+    .label = Bruk standardinnstillingar
 customize-mode-menu-and-toolbars-header = Dra favorittobjekta dine til verktøylinja eller overflytsmenyen.
 customize-mode-overflow-list-title = Overflytsmeny
 customize-mode-uidensity =
