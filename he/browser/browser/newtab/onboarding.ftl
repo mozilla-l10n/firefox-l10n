@@ -21,11 +21,11 @@ onboarding-button-label-get-started = תחילת עבודה
 onboarding-welcome-header = ברוכים הבאים אל { -brand-short-name }
 onboarding-welcome-body = הדפדפן כבר בידיך.<br/>עכשיו נציג את שאר { -brand-product-name }.
 onboarding-welcome-learn-more = מידע נוסף על היתרונות.
+onboarding-join-form-header = הצטרפות אל { -brand-product-name }
 onboarding-welcome-modal-get-body = הדפדפן כבר בידיך.<br/>עכשיו הזמן להפיק את המירב מ־{ -brand-product-name }.
 onboarding-welcome-modal-privacy-body = יש לך דפדפן. עכשיו נוסיף קצת חיזוקי פרטיות.
 onboarding-welcome-modal-family-learn-more = מידע נוסף על משפחת מוצרי { -brand-product-name }.
 onboarding-welcome-form-header = תחילת עבודה
-onboarding-join-form-header = הצטרפות אל { -brand-product-name }
 onboarding-join-form-body = נא להכניס את כתובת הדוא״ל שלך כדי להתחיל.
 onboarding-join-form-email =
     .placeholder = נא להכניס דוא״ל
@@ -70,6 +70,7 @@ onboarding-benefit-knowledge-title = ידע מעשי
 onboarding-benefit-privacy-title = פרטיות אמיתית
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = קבלת התרעה כאשר המידע האישי שלך נחשף בדליפת נתונים ידועה.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 
 ## These strings belong to the individual onboarding messages.
