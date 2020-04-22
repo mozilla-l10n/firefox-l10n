@@ -739,6 +739,9 @@ privacy-header = Դիտարկիչի գաղտնիութիւն
 ## Privacy Section - Logins and Passwords
 
 logins-header = Մուտքանուններ եւ Գաղտնաբառեր
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Մուտքանուններ եւ Գաղտնաբառեր
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Հարցնել եւ պահպանել մուտքագրումները եւ գաղտնաբառերը կայքերի համար
@@ -768,6 +771,9 @@ forms-master-pw-change =
     .accesskey = Հ
 forms-master-pw-fips-title = Դուք այժմ աւգտագործում էք FIPS եղանակը: FIPS-ը պահանջում է Հիմնական Գաղտնաբառի աւգտագործում:
 forms-master-pw-fips-desc = Գաղտնաբառի Փոփոխութիւնը Չյաջողուեց
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
