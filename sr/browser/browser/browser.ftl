@@ -246,6 +246,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Умањи
+browser-window-close-button =
+    .tooltiptext = Затвори
 
 ## WebRTC Pop-up notifications
 
