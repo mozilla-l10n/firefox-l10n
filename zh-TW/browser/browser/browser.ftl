@@ -248,6 +248,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = 關閉
 
 ## WebRTC Pop-up notifications
 
