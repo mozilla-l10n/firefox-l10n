@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Lleihau
+browser-window-maximize-button =
+    .tooltiptext = Mwyhau
+browser-window-restore-down-button =
+    .tooltiptext = Adfer i Lawr
 browser-window-close-button =
     .tooltiptext = Cau
 

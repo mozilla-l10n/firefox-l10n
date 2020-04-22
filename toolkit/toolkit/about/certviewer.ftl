@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Awdurdod Tystysgrif
 certificate-viewer-cipher-suite = Casgliad Seiffr
 certificate-viewer-common-name = Enw Cyffredin
 certificate-viewer-email-address = Cyfeiriad E-bost
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Tystysgrif ar gyfer { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Gwlad Corfforedig
 certificate-viewer-country = Gwlad

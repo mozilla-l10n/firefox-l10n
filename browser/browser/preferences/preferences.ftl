@@ -244,6 +244,10 @@ translate-attribution = Cyfieithiadau gan <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eithriadau…
     .accesskey = i
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Defnyddiwch osodiadau eich system weithredu ar gyfer “{ $localeName }” i fformatio dyddiadau, amseroedd, rhifau a mesuriadau.
 check-user-spelling =
     .label = Gwirio'r sillafu wrth deipio
     .accesskey = G
