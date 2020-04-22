@@ -7,4 +7,11 @@ elevation-update-wizard =
     .title = Anovamientu de software
 elevation-details-link-label =
     .value = Detalles
+elevation-error-manual =
+    Pues anovar { -brand-short-name } a mano visitando esti enllaz
+    y baxando la versión cabera:
+elevation-finished-page = Anovamientu tresnáu pa instalase
+elevation-finished-background-page =
+    Baxóse un anovamientu de seguranza y estabilidá pa { -brand-short-name }
+                                               y ta tresnáu pa instalase.
 elevation-finished-background = Anovamientu:
