@@ -78,7 +78,7 @@ restart-later = הפעלה מחדש מאוחר יותר
 
 # This string is shown to notify the user that their home page
 # is being controlled by an extension.
-extension-controlled-homepage-override = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת על דף הבית שלך.
+extension-controlled-homepage-override = ההרחבה <img data-l10n-name="icon"/> { $name } שולטת על דף הבית שלך.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
 extension-controlled-new-tab-url = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת על דף הלשונית החדשה שלך.
