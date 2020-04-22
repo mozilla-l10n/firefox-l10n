@@ -249,4 +249,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = กล้องที่แบ่งปัน:
+    .accesskey = ก
+popup-select-microphone =
+    .value = ไมโครโฟนที่แบ่งปัน:
+    .accesskey = ม
 popup-all-windows-shared = หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน
