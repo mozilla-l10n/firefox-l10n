@@ -230,6 +230,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimeeri
+browser-window-close-button =
+    .tooltiptext = Sulge
 
 ## WebRTC Pop-up notifications
 
