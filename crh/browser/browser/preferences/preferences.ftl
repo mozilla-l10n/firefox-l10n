@@ -656,6 +656,9 @@ privacy-header = Kezici Hususiyatı
 ## Privacy Section - Logins and Passwords
 
 logins-header = İçeri İmzalanmalar ve Sır-sözler
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = İçeri İmzalanmalar ve Sır-sözler
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Ağ-saytları içün içeri-imzalanışlar ve sır-sözlerni saqlamağa sora
     .accesskey = A
@@ -673,6 +676,9 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-title = Al-azırda FIPS tarzındasıñız. FIPS, boş olmağan bir Usta Sır-sözni kerektire.
 forms-master-pw-fips-desc = Sır-sözni Deñiştirüv Oñmadı
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
