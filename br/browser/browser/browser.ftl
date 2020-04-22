@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Merdeiñ prevez)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Merdeiñ prevez)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Merdeiñ prevez)
        *[other] { $title } - { -brand-full-name } (Merdeiñ prevez)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Gwelout titouroù al lec'hienn
 
@@ -124,7 +105,9 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Skrivit nebeutoc'h, kavit muioc'h: Klaskit war { $engineName } adalek ho parrenn chomlec'h.
-urlbar-search-tips-redirect = Krogit gant ar c'hlask amañ evit gwelout alioù eus { $engineName } hag ho roll istor merdeiñ.
+
+##
+
 
 ##
 
@@ -259,3 +242,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = G
 identity-more-info-link-text =
     .label = Muioc'h a stlennoù
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Webkam da rannañ :
+    .accesskey = W
+popup-select-microphone =
+    .value = Mikrofon da rannañ :
+    .accesskey = M
+popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
