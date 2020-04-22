@@ -187,3 +187,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Jindezaahaya kaŋ ka žemna:
     .accesskey = m
+popup-all-windows-shared = Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.
