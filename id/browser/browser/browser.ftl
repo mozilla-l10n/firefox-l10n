@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minikan
+browser-window-maximize-button =
+    .tooltiptext = Besarkan
 browser-window-close-button =
     .tooltiptext = Tutup
 

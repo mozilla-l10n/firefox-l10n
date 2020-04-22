@@ -215,9 +215,13 @@ cfr-doorhanger-milestone-ok-button = Lihat Semua
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Mudahnya membuat kata sandi aman
+cfr-whatsnew-lockwise-body = Sulit untuk memikirkan kata sandi unik dan aman untuk setiap akun. Saat membuat kata sandi, pilih bidang kata sandi untuk menggunakan kata sandi aman yang dibuat dari { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Ikon { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Dapatkan peringatan tentang kata sandi yang rentan
+cfr-whatsnew-passwords-body = Peretas tahu orang menggunakan kembali kata sandi yang sama. Jika Anda menggunakan kata sandi yang sama di beberapa situs, dan salah satu situs tersebut melanggar data, Anda akan melihat peringat di { -lockwise-brand-short-name } untuk mengubah kata sandi di situs-situs tersebut.
 
 ## Picture-in-Picture fullscreen message
 
