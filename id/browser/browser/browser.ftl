@@ -245,3 +245,10 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Informasi Lebih Lanjut
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
