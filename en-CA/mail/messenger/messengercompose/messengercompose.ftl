@@ -15,6 +15,21 @@ address-input-type =
         [one] { $type } input field with one address
        *[other] { $type } input field with { $count } addresses
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } with one address, use left arrow key to focus on it.
+       *[other] { $type } with { $count } addresses, use left arrow key to focus on them.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: press Enter to edit, Delete to remove.
+       *[other] { $email }, 1 of { $count }: press Enter to edit, Delete to remove.
+    }
 pill-action-edit =
     .label = Edit Address
     .accesskey = e
