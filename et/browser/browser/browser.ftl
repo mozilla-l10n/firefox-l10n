@@ -233,3 +233,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Jagatav kaamera:
+    .accesskey = J
+popup-select-microphone =
+    .value = Jagatav mikrofon:
+    .accesskey = m
+popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
