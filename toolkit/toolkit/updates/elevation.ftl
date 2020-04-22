@@ -11,3 +11,8 @@ elevation-error-manual = Ti pos era actualisar manualmain { -brand-short-name }.
 elevation-finished-page = L'actualisaziun è pronta per l'installaziun
 elevation-finished-background-page = In'actualisaziun relevanta per la segirezza e la stabilitad da { -brand-short-name } è vegnida telechargiada ed è pronta per l'installaziun.
 elevation-finished-background = Actualisaziun:
+elevation-more-elevated =
+    Questa actualisaziun pretenda dretgs d'administratur. L'actualisaziun vegn
+    installada la proxima giada che { -brand-short-name } vegn avià. Ti pos ussa reaviar
+    { -brand-short-name }, cuntinuar cun la lavur e reaviar pli tard u refusar questa
+    actualisaziun.
