@@ -230,3 +230,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Micròfono da condividde:
     .accesskey = M
+popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi.
