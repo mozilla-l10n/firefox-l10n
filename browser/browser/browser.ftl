@@ -213,6 +213,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = குறைத்தல்
 
 ## WebRTC Pop-up notifications
 
