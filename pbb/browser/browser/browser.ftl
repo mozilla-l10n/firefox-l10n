@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Paçte kẽsejna)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Paçte kẽsejna)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Paçte kẽsejna)
        *[other] { $title } - { -brand-full-name } (Paçte kẽsejna)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Thegna pta'sxnxitxi ayte
 
@@ -86,6 +67,9 @@ urlbar-web-rtc-share-devices-notification-anchor =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
 
 
 ##
@@ -156,3 +140,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = n
 identity-more-info-link-text =
     .label = Jweiçxaa pta'sxna
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = & kapnasa's katxuhdena:
+    .accesskey = C
+popup-select-microphone =
+    .value = Çxaçxa kapthuse'sa's katxuhdena:
+    .accesskey = Ç
+popup-all-windows-shared = Vxitx le'çxkwe vxiasa çehk thegnxisate ya' katxuden.
