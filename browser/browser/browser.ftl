@@ -249,3 +249,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = An camara a thèid a cho-roinneadh:
+    .accesskey = c
+popup-select-microphone =
+    .value = Am micreofon a thèid a cho-roinneadh:
+    .accesskey = m
