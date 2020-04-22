@@ -756,6 +756,9 @@ privacy-header = Naršyklės privatumas
 ## Privacy Section - Logins and Passwords
 
 logins-header = Prisijungimai ir slaptažodžiai
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Prisijungimai ir slaptažodžiai
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Klausti, ar norite įrašyti svetainių prisijungimus ir slaptažodžius
