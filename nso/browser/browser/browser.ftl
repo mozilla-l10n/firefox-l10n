@@ -85,3 +85,9 @@ full-screen-exit =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Khamera ya go abelana:
+    .accesskey = K
+popup-select-microphone =
+    .value = Maekrofounu wa go abelana:
+    .accesskey = M
