@@ -193,3 +193,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = ಹಂಚಬೇಕಿರುವ ಕ್ಯಾಮೆರಾ:
+    .accesskey = C
+popup-select-microphone =
+    .value = ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:
+    .accesskey = M
