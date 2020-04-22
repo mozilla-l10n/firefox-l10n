@@ -184,3 +184,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Ikhamera yokubolekisana:
+    .accesskey = I
+popup-select-microphone =
+    .value = Imayikhrofowuni yokubolekisana:
+    .accesskey = I
