@@ -220,6 +220,10 @@ translate-attribution = 번역:  <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = 예외…
     .accesskey = x
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = 날짜, 시간, 숫자 및 측정 형식을 지정하려면 “{ $localeName }”에 대한 운영 체제 설정을 사용하세요.
 check-user-spelling =
     .label = 입력할 때 맞춤법 검사
     .accesskey = t
