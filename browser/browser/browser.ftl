@@ -257,3 +257,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Доступ до мікрофону:
     .accesskey = м
+popup-all-windows-shared = Надасться доступ до всіх видимих вікон на вашому екрані.
