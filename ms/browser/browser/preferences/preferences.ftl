@@ -627,6 +627,9 @@ privacy-header = Privasi Pelayar
 ## Privacy Section - Logins and Passwords
 
 logins-header = Log masuk & Kata laluan
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Log masuk & Kata laluan
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Tanya untuk simpan log masuk dan kata laluan laman web
     .accesskey = l
@@ -644,6 +647,9 @@ forms-master-pw-change =
     .accesskey = T
 forms-master-pw-fips-title = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata laluan Induk bukan-kosong.
 forms-master-pw-fips-desc = Kata laluan Gagal Ditukar
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
