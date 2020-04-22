@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimer
+browser-window-close-button =
+    .tooltiptext = Lat att
 
 ## WebRTC Pop-up notifications
 
