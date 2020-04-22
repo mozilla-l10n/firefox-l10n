@@ -203,20 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Farver…
     .accesskey = F
-
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
-
 preferences-default-zoom = Standard-zoom
     .accesskey = z
-
 preferences-default-zoom-value =
     .label = { $percentage }%
-
 preferences-zoom-text-only =
     .label = Zoom kun tekst
     .accesskey = t
-
 language-header = Sprog
 choose-language-description = Vælg dit foretrukne sprog at få vist sider i
 choose-button =
@@ -575,22 +570,19 @@ search-keyword-warning-bookmark = Du har valgt en genvej som bruges af et bogmæ
 ## Containers Section
 
 containers-back-link = « Gå tilbage
-
 containers-back-button =
     .aria-label =
-      { PLATFORM() ->
-          [windows] Gå tilbage til indstillinger
-         *[other] Gå tilbage til indstillinger
-      }
+        { PLATFORM() ->
+            [windows] Gå tilbage til indstillinger
+           *[other] Gå tilbage til indstillinger
+        }
 containers-header = Kontekst-faneblade
 containers-add-button =
     .label = Tilføj ny kontekst
     .accesskey = T
-
 containers-new-tab-check =
     .label = Vælg en kontekst for hvert nyt faneblad
     .accesskey = V
-
 containers-preferences-button =
     .label = Indstillinger
 containers-remove-button =
@@ -607,15 +599,12 @@ sync-signedout-description = Synkroniser dine bogmærker, historik, faneblade, a
 sync-signedout-account-title = Opret forbindelse med en { -fxaccount-brand-name }
 sync-signedout-account-create = Har du ingen konto? Opret én her
     .accesskey = O
-
 sync-signedout-account-signin =
     .label = Log ind…
     .accesskey = i
-
 sync-signedout-account-signin2 =
     .label = Log ind på { -sync-brand-short-name }…
     .accesskey = i
-
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -763,6 +752,9 @@ privacy-header = Beskyttelse af privatliv
 ## Privacy Section - Logins and Passwords
 
 logins-header = Logins og adgangskoder
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Logins og adgangskoder
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Spørg om at gemme logins og adgangskoder til websteder
     .accesskey = l
@@ -795,7 +787,6 @@ forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Bekræft din identitet for at oprette en hovedadgangskode.
-
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
