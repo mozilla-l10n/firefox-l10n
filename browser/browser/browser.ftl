@@ -217,3 +217,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Izvēlies kameru:
+    .accesskey = k
+popup-select-microphone =
+    .value = Izvēlies mikrofonu:
+    .accesskey = m
+popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
