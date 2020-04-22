@@ -179,7 +179,7 @@ containers-remove-cancel-button = 이 컨테이너 삭제하지 않음
 
 ## General Section - Language & Appearance
 
-language-and-appearance-header = 언어와 표현
+language-and-appearance-header = 언어와 모양
 fonts-and-colors-header = 글꼴과 색상
 default-font = 기본 글꼴
     .accesskey = D
