@@ -7,4 +7,11 @@ elevation-update-wizard =
     .title = Оновлення програмного забезпечення
 elevation-details-link-label =
     .value = Подробиці
+elevation-error-manual =
+    Ви можете оновити { -brand-short-name } вручну, перейшовши за наступним посиланням
+    і завантаживши його останню версію:
+elevation-finished-page = Оновлення готове до встановлення
+elevation-finished-background-page =
+    Було завантажено оновлення безпеки та стабільності { -brand-short-name }.
+    Воно готове до встановлення.
 elevation-finished-background = Оновлення:
