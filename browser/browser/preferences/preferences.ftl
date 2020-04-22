@@ -646,6 +646,9 @@ privacy-header = Suturo Wanngorde
 ## Privacy Section - Logins and Passwords
 
 logins-header = Ceŋorɗe & Pinle
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Ceŋorɗe & Pinle
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Laaɓndo mbele a hisnat baccooje e pinle lowe
     .accesskey = r
@@ -663,6 +666,9 @@ forms-master-pw-change =
     .accesskey = B
 forms-master-pw-fips-title = Ngon-ɗaa ɗoo ko e mbayka FIPS. Mbayka FIPS ena naamnii Finnde Baabaare nde ɓolɗaani.
 forms-master-pw-fips-desc = Baylugol Finnde Woorii
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
