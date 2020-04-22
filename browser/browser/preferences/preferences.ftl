@@ -752,6 +752,9 @@ privacy-header = Selaimen tietosuoja
 ## Privacy Section - Logins and Passwords
 
 logins-header = Käyttäjätunnukset ja salasanat
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Käyttäjätunnukset ja salasanat
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ehdota sivustojen käyttäjätunnusten ja salasanojen tallentamista
