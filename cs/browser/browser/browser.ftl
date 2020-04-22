@@ -274,6 +274,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimalizovat
+browser-window-maximize-button =
+    .tooltiptext = Maximalizovat
 browser-window-close-button =
     .tooltiptext = Zavřít
 
