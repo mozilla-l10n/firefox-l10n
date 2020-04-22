@@ -639,6 +639,9 @@ privacy-header = Privacidá del restolador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Usuarios y contraseñes
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Usuarios y contraseñes
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Entrugar pa guardar contraseñes y anicios de sesión de sitios web
     .accesskey = E
@@ -656,6 +659,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = Nesti intre tas en mou FIPS. FIPS requier una contraseña maestra non erma.
 forms-master-pw-fips-desc = Fallu al camudar la contraseña
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
