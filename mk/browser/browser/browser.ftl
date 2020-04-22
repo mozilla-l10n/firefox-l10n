@@ -165,3 +165,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Камера што се споделува:
+    .accesskey = П
+popup-select-microphone =
+    .value = Микрофон што се споделува:
+    .accesskey = м
