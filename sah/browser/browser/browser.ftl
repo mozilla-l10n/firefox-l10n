@@ -90,6 +90,8 @@ full-screen-exit =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Кыччат
 
 ## WebRTC Pop-up notifications
 
