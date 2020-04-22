@@ -743,6 +743,9 @@ privacy-header = Απόρρητο προγράμματος περιήγησης
 ## Privacy Section - Logins and Passwords
 
 logins-header = Συνδέσεις & κωδικοί πρόσβασης
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Συνδέσεις & κωδικοί πρόσβασης
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Ερώτηση για αποθήκευση συνδέσεων και κωδικών πρόσβασης για ιστοσελίδες
