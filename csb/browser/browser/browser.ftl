@@ -84,6 +84,10 @@ bookmark-panel-done-button =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimalizëjë
+browser-window-close-button =
+    .tooltiptext = Zamkni
 
 ## WebRTC Pop-up notifications
 
