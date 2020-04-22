@@ -138,3 +138,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Sekapa-ditshwantsho se se ka abiwang:
+    .accesskey = S
+popup-select-microphone =
+    .value = Sekapamodumo se se ka abelanwang:
+    .accesskey = S
+popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.
