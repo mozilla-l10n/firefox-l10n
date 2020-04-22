@@ -752,6 +752,9 @@ privacy-header = Tabaḍnit n iminig
 ## Privacy Section - Logins and Passwords
 
 logins-header = Inekcam & wawalen uffiren
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Inekcam & wawalen uffiren
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Suter akken ad teskelseḍ inekcam d wawalen uffiren i yismal web
