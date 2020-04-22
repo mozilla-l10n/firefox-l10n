@@ -227,3 +227,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = शेअर करण्याजोगी कॅमेरा:
+    .accesskey = C
+popup-select-microphone =
+    .value = शेअर करण्याजोगी माइक्रोफोन:
+    .accesskey = M
