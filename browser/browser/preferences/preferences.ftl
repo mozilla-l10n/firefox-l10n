@@ -228,6 +228,10 @@ translate-attribution = 翻译由 <img data-l10n-name="logo"/> 提供
 translate-exceptions =
     .label = 例外…
     .accesskey = x
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = 根据您操作系统的“{ $localeName }”首选项设置日期、时间、数字格式和单位制。
 check-user-spelling =
     .label = 在您输入时检查拼写
     .accesskey = t
