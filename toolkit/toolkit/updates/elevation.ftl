@@ -8,4 +8,6 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = 詳細
 elevation-error-manual = このリンクを開いて最新バージョンをダウンロードすれば、手動で { -brand-short-name } を更新できます:
+elevation-finished-page = 更新をインストールする準備ができました
+elevation-finished-background-page = { -brand-short-name } のセキュリティと安定性に関する更新がダウンロードされ、インストールする準備ができました。
 elevation-finished-background = 更新:
