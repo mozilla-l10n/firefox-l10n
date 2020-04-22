@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Hususiy Kezinüv)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Hususiy Kezinüv)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Hususiy Kezinüv)
        *[other] { $title } - { -brand-full-name } (Hususiy Kezinüv)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Sayt malümatını kör
 
@@ -114,7 +95,9 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Daa az tuşla, daa çoq tap: { $engineName } üzerinde doğrudan adres çubuğıñızdan qıdırıñız.
-urlbar-search-tips-redirect = { $engineName } ve kezinüv keçmişiñizge esaslı telqinlerni körmek içün qıdırmañıznı mında başlañız.
+
+##
+
 
 ##
 
@@ -230,3 +213,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = l
 identity-more-info-link-text =
     .label = Daa Çoq Malümat
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Üleşilecek kamera:
+    .accesskey = k
+popup-select-microphone =
+    .value = Üleşilecek mikrofon:
+    .accesskey = m
+popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ episi üleşilecek.
