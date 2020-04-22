@@ -649,6 +649,9 @@ privacy-header = Səyahər Məxfiliyi
 ## Privacy Section - Logins and Passwords
 
 logins-header = Hesablar və Parollar
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Hesablar və Parollar
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Daxil olma və parolları saxlamaq üçün soruş
     .accesskey = r
@@ -666,6 +669,9 @@ forms-master-pw-change =
     .accesskey = d
 forms-master-pw-fips-title = Hazırda FIPS rejimindəsiniz. FIPS rejimi üçün ana parol lazımdır.
 forms-master-pw-fips-desc = Parolu dəyişdirmək mümkün olmadı.
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
