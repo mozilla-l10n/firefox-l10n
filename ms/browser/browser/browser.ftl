@@ -220,3 +220,4 @@ identity-more-info-link-text =
 popup-select-microphone =
     .value = Mikrofon untuk dikongsi:
     .accesskey = M
+popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.
