@@ -147,6 +147,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimise
 
 ## WebRTC Pop-up notifications
 
