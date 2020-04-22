@@ -97,6 +97,8 @@ bookmark-panel =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = Kasi
 
 ## WebRTC Pop-up notifications
 
