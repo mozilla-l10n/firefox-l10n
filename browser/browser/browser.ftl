@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
        *[other] { $title } - { -brand-full-name } (ব্যক্তিগত ব্রাউজিং ব্যবস্থা)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = সাইটের তথ্য দেখুন
 
@@ -114,7 +95,9 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = কম টাইপ করুন, আরো খুঁজুন: { $engineName } অনুসন্ধান করুন আপনার ঠিকানা বারের ডান দিক থেকে।
-urlbar-search-tips-redirect = { $engineName } থেকে পরামর্শ ও ব্রাইজিং-র পূর্ববর্তী তথ্য দেখতে আপনার অনুসন্ধান শুরু করুন।
+
+##
+
 
 ##
 
@@ -230,3 +213,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = অধিক বিবরণ
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
