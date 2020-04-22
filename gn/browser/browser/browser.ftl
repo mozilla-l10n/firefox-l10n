@@ -248,6 +248,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Momichĩ
+browser-window-close-button =
+    .tooltiptext = Mboty
 
 ## WebRTC Pop-up notifications
 
