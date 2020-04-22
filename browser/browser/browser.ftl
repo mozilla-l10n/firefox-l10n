@@ -24,9 +24,6 @@ browser-main-window-content-title-default =
        *[other] { $title } - { -brand-full-name }
     }
 
-##
-
-
 ## Tooltips for images appearing in the address bar
 
 
@@ -34,6 +31,9 @@ browser-main-window-content-title-default =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
 
 
 ##
@@ -52,4 +52,12 @@ browser-main-window-content-title-default =
 
 
 ## Identity Panel
+
+
+## Window controls
+
+browser-window-minimize-button =
+    .tooltiptext = Nciphisa
+
+## WebRTC Pop-up notifications
 
