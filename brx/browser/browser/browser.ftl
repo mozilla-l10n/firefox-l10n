@@ -166,6 +166,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = मिनिमाइज खालाम
+browser-window-close-button =
+    .tooltiptext = बन्द खालाम
 
 ## WebRTC Pop-up notifications
 
