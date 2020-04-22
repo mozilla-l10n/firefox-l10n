@@ -217,6 +217,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Kamera untuk dikongsi:
+    .accesskey = K
 popup-select-microphone =
     .value = Mikrofon untuk dikongsi:
     .accesskey = M
