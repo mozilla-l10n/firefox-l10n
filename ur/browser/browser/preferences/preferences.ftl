@@ -681,6 +681,9 @@ privacy-header = براؤزر رازداری
 ## Privacy Section - Logins and Passwords
 
 logins-header = لاگ ان & پاس ورڈ
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = لاگ ان & پاس ورڈ
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = ویب سائٹس کے لئے لاگ ان اور پاس ورڈ کو محفوظ کرنے کے لئے پوچھیں
