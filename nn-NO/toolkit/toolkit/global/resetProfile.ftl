@@ -9,6 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = Start på ny frisk for å rette problem og få tilbake normal yting.
 refresh-profile-description-details = Dette vil:
 refresh-profile-remove = Fjerne tillegg og tilpassingar
-refresh-profile-restore = Bygg oppatt nettlesarinnstillingane til standardverdiar
+refresh-profile-restore = Bruk standardverdiar i nettlesarinnstillingane
 refresh-profile = Gje { -brand-short-name } ei overhaling
 refresh-profile-button = Tilbakestill { -brand-short-name }…

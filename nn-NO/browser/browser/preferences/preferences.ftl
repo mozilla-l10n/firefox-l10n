@@ -448,7 +448,7 @@ home-new-windows-tabs-description2 = Vel kva du vil sjå når du opnar startsida
 home-homepage-mode-label = Startside og nye vindauge
 home-newtabs-mode-label = Nye faner
 home-restore-defaults =
-    .label = Bruk standard
+    .label = Bruk standardinnstillingar
     .accesskey = r
 # "Firefox" should be treated as a brand and kept in English,
 # while "Home" and "(Default)" can be localized.
