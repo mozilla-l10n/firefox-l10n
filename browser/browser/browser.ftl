@@ -248,6 +248,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Küçült
+browser-window-close-button =
+    .tooltiptext = Kapat
 
 ## WebRTC Pop-up notifications
 
