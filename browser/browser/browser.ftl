@@ -219,6 +219,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minnka
+browser-window-close-button =
+    .tooltiptext = Loka
 
 ## WebRTC Pop-up notifications
 
