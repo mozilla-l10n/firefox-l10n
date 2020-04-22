@@ -11,3 +11,8 @@ elevation-error-manual = Varat pašrocīgi atjaunināt { -brand-short-name }, do
 elevation-finished-page = Atjauninājumi ir gatavi uzstādīšanai
 elevation-finished-background-page = { -brand-short-name } drošības atjauninājums ir lejupielādēts un gatavs instalēšanai.
 elevation-finished-background = Atjauninājums:
+elevation-more-elevated =
+    Šim atjauninājumam ir nepieciešamas administratora tiesības . Atjauninājums tiks
+    instalēts nākamo reizi palaižot { -brand-short-name }. Jūs varat pārstartēt
+    { -brand-short-name } tagad, vai arī turpināt darbu un pārstartēt vēlāk, vai
+    atteikties no šī atjauninājuma.
