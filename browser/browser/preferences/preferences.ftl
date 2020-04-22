@@ -752,6 +752,9 @@ privacy-header = Confidencialitat del navegador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Identificants e senhals
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Identificants e senhals
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Demandar per salvar los identificants e senhals dels sites
