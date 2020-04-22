@@ -97,6 +97,10 @@ identity-disable-mixed-content-blocking =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = ल्हान करात
+browser-window-close-button =
+    .tooltiptext = बंद
 
 ## WebRTC Pop-up notifications
 
