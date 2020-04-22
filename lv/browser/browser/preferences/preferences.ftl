@@ -647,6 +647,9 @@ privacy-header = Pārlūka privātums
 ## Privacy Section - Logins and Passwords
 
 logins-header = Lietotājvārdi un paroles
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Lietotājvārdi un paroles
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Lūgt, lai saglabātu lietotājvārdu un paroles vietnēm
     .accesskey = r
@@ -664,6 +667,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = Šobrīd jūs esat FIPS režīmā. FIPS nepieļauj tukšu galveno paroli.
 forms-master-pw-fips-desc = Paroles maiņa neizdevās
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
