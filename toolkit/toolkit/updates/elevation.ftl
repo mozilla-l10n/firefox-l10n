@@ -11,3 +11,8 @@ elevation-error-manual = Puedes actualizar { -brand-short-name } manualmente vis
 elevation-finished-page = Actualización lista para instalar
 elevation-finished-background-page = Se ha descargado una actualización de seguridad y estabilidad para { -brand-short-name } y está lista para ser instalada.
 elevation-finished-background = Actualización:
+elevation-more-elevated =
+    Esta actualización requiere privilegios de administrador. La actualización será
+    instalada la próxima vez que se inicie { -brand-short-name } . Puede reiniciar
+    { -brand-short-name } ahora, continuar trabajando y reiniciar después o rechazar esta
+    actualización.
