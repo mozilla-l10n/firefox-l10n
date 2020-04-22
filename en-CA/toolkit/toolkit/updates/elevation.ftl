@@ -7,4 +7,5 @@ elevation-update-wizard =
     .title = Software Update
 elevation-details-link-label =
     .value = Details
+elevation-finished-page = Update Ready to Install
 elevation-finished-background = Update:
