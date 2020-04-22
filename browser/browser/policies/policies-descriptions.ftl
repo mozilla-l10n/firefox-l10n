@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = 시작할 때 기본 브라우저 확인을 사
 policy-DownloadDirectory = 다운로드 디렉터리를 설정하고 잠급니다.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 콘텐츠 차단을 사용하거나 사용하지 않게 하고 선택적으로 잠급니다.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = 암호화된 미디어 확장 기능을 사용하거나 사용하지 않게 하고 선택적으로 잠급니다.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
