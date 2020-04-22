@@ -147,6 +147,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = न्यूनतम करू
+browser-window-close-button =
+    .tooltiptext = बन्न करू
 
 ## WebRTC Pop-up notifications
 
