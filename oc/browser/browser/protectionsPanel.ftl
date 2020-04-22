@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = S'es produch una error en enviant lo rapòrt. Se vos plai, ensajatz de nòu mai tard.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Lo site es petaçat ? Enviatz un rapòrt
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Estricte
+    .label = Estricte
+protections-popup-footer-protection-label-custom = Personalizat
+    .label = Personalizat
+protections-popup-footer-protection-label-standard = Estandard
+    .label = Estandard
