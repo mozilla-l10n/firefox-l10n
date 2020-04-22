@@ -744,6 +744,9 @@ privacy-header = Դիտարկիչի գաղտնիություն
 ## Privacy Section - Logins and Passwords
 
 logins-header = Մուտքանուններ և Գաղտնաբառեր
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Մուտքանուններ և Գաղտնաբառեր
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Հարցնել և պահպանել մուտքագրումները և գաղտնաբառրը կայքերի համար
