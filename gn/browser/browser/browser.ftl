@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Momichĩ
+browser-window-maximize-button =
+    .tooltiptext = Mbotuicha
+browser-window-restore-down-button =
+    .tooltiptext = Embojevyjey Yvýgotyo
 browser-window-close-button =
     .tooltiptext = Mboty
 
