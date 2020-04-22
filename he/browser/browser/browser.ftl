@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = מזעור
+browser-window-restore-down-button =
+    .tooltiptext = שחזור כלפי מטה
 browser-window-close-button =
     .tooltiptext = סגירה
 
