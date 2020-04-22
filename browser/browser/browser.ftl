@@ -246,6 +246,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Ελαχιστοποίηση
+browser-window-close-button =
+    .tooltiptext = Κλείσιμο
 
 ## WebRTC Pop-up notifications
 
