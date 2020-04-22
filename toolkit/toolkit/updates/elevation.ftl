@@ -8,4 +8,6 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = Нарийн мэдээлэл
 elevation-error-manual = Та { -brand-short-name }-г гар аргаар энэ холбоосд зорчиж сүүлийн хувилбарыг татаж авч шинэчилж болно:
+elevation-finished-page = Шинэчлэл суугдахад бэлэн
+elevation-finished-background-page = { -brand-short-name }-н баталгаа болон найдварын шинэчлэл татаж авагдсан бөгөөд суулгахад бэлэн боллоо.
 elevation-finished-background = Шинэчлэл:
