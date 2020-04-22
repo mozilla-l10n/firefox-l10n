@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Hiba történt a jelentés beküldésekor. Próbálja újra később.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = A webhely javítva lett? Jelentés küldése
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Szigorú
+    .label = Szigorú
+protections-popup-footer-protection-label-custom = Egyéni
+    .label = Egyéni
+protections-popup-footer-protection-label-standard = Szokásos
+    .label = Szokásos

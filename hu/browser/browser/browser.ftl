@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Kis méret
+browser-window-maximize-button =
+    .tooltiptext = Maximalizálás
 browser-window-close-button =
     .tooltiptext = Bezárás
 
