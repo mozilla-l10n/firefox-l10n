@@ -736,6 +736,9 @@ privacy-header = Privasi Peramban
 ## Privacy Section - Logins and Passwords
 
 logins-header = Info Masuk & Sandi
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Info Masuk & Sandi
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Minta untuk menyimpan info masuk dan kata sandi untuk situs web
