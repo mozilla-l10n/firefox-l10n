@@ -249,3 +249,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Kamerë për ndarje me të tjerët:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikrofon për ndarje me të tjerët:
+    .accesskey = M
+popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.
