@@ -93,3 +93,9 @@ search-one-offs-change-settings-button =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Kameraya parvekirinê:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mîkrofona parvekirinê:
+    .accesskey = M
