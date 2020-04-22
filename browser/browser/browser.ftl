@@ -246,6 +246,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = ย่อ
 browser-window-close-button =
     .tooltiptext = ปิด
 
