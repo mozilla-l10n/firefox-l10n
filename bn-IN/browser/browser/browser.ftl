@@ -216,6 +216,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = আড়াল করুন
+browser-window-close-button =
+    .tooltiptext = বন্ধ
 
 ## WebRTC Pop-up notifications
 
