@@ -11,3 +11,4 @@ elevation-error-manual = このリンクを開いて最新バージョンをダ�
 elevation-finished-page = 更新をインストールする準備ができました
 elevation-finished-background-page = { -brand-short-name } のセキュリティと安定性に関する更新がダウンロードされ、インストールする準備ができました。
 elevation-finished-background = 更新:
+elevation-more-elevated = この更新は管理者権限が必要です。更新は次の { -brand-short-name } 起動時にインストールされます。{ -brand-short-name } を今すぐ再起動するか、作業を続けてから後で再起動、またはこの更新を拒否できます。
