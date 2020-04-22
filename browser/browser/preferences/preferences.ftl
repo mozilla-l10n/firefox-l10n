@@ -653,6 +653,9 @@ privacy-header = બ્રાઉઝર ગોપનીયતા
 ## Privacy Section - Logins and Passwords
 
 logins-header = લૉગ-ઇન્સ અને પાસવર્ડ્સ
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = લૉગ-ઇન્સ અને પાસવર્ડ્સ
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = વેબસાઇટ્સ માટે લૉગિન અને પાસવર્ડ્સ સાચવવા માટે પૂછો
     .accesskey = r
@@ -670,6 +673,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = તમે હાલમાં FIPS સ્થિતિમાં છો. FIPS માટે ખાલી-નહિં એવો મુખ્ય પાસવર્ડ જરૂરી છે.
 forms-master-pw-fips-desc = પાસવર્ડ બદલવાનું નિષ્ફળ
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
