@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Modus privat)
        *[other] { $title } - { -brand-full-name } (Modus privat)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Mussar infurmaziuns davart la pagina
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tippar main e chattar dapli: Tschertga cun { $engineName } directamain en la trav d'adressas.
-urlbar-search-tips-redirect = Cumenza qua tia tschertga per laschar mussar propostas da { $engineName } e propostas ord tia cronologia.
 urlbar-search-tips-redirect-2 = Cumenza tia tschertga en la trav d'adressas per laschar mussar propostas da { $engineName } e propostas ord tia cronologia.
+
+##
+
 
 ##
 
@@ -244,3 +243,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Mussar detagls
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Camera per cundivider:
+    .accesskey = C
+popup-select-microphone =
+    .value = Microfon per cundivider:
+    .accesskey = M
+popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundivididas.
