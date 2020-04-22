@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Er is een fout opgetreden bij het verzenden van het rapport. Probeer het later nog eens.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Website gerepareerd? Verzend rapport
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Streng
+    .label = Streng
+protections-popup-footer-protection-label-custom = Aangepast
+    .label = Aangepast
+protections-popup-footer-protection-label-standard = Standaard
+    .label = Standaard
