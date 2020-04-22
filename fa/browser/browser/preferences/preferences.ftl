@@ -727,6 +727,9 @@ privacy-header = حریم خصوصی مرورگر
 ## Privacy Section - Logins and Passwords
 
 logins-header = ورودها و گذرواژه‌ها
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ورودها و گذرواژه‌ها
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = در مورد ذخیره کردن نام‌کاربری و گذرواژه‌ها برای پایگاه‌ها سوال کن
