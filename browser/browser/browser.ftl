@@ -184,3 +184,4 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-all-windows-shared = Van compartise toles ventanes visibles na to pantalla.
