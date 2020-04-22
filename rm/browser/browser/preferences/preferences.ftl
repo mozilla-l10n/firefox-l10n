@@ -752,6 +752,9 @@ privacy-header = Protecziun da datas
 ## Privacy Section - Logins and Passwords
 
 logins-header = Infurmaziuns d'annunzia & pleds-clav
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Infurmaziuns d'annunzia & pleds-clav
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Dumandar da memorisar las infurmaziuns d'annunzia ed ils pleds-clav per paginas d'internet
