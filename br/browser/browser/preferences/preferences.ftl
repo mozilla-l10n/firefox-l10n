@@ -764,6 +764,9 @@ privacy-header = Prevezted ar merdeer
 ## Privacy Section - Logins and Passwords
 
 logins-header = Titouroù kennaskañ
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Titouroù kennaskañ
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Goulenn enrollañ an titouroù kennaskañ evit al lec'hiennoù
@@ -793,6 +796,9 @@ forms-master-pw-change =
     .accesskey = K
 forms-master-pw-fips-title = E mod FIPS emaoc'h bremañ. Azgoulenn a ra FIPS ur ger-tremen mestr bet roet.
 forms-master-pw-fips-desc = Fazi en ur gemmañ ar ger-tremen
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
