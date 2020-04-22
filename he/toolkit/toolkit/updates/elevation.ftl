@@ -7,6 +7,9 @@ elevation-update-wizard =
     .title = עדכוני תוכנה
 elevation-details-link-label =
     .value = פרטים
+elevation-error-manual =
+    ביכולתך לעדכן את { -brand-short-name } ידנית על־ידי ביקור בקישור זה
+    והורדת הגרסה האחרונה:
 elevation-finished-page = עדכון מוכן להתקנה
 elevation-finished-background-page = עדכון אבטחה ויציבות עבור { -brand-short-name } הורד ומוכן להתקנה.
 elevation-finished-background = עדכון:
