@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navigatzione privada)
        *[other] { $title } - { -brand-full-name } (Navigatzione privada)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Visualiza informatziones de su situ
 
@@ -64,6 +61,9 @@ urlbar-translated-notification-anchor =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
 
 
 ##
@@ -109,3 +109,13 @@ bookmark-panel-done-button =
 
 identity-learn-more =
     .value = Nde chèrgio ischire de prus
+
+## Window controls
+
+browser-window-minimize-button =
+    .tooltiptext = Impicòchia
+browser-window-close-button =
+    .tooltiptext = Serra
+
+## WebRTC Pop-up notifications
+
