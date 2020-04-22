@@ -199,3 +199,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = ಹಂಚಲು ಮೈಕ್ರೊಫೋನ್:
     .accesskey = M
+popup-all-windows-shared = ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ ಎಲ್ಲಾ ಗೋಚರಿಸುವ ಕಿಟಕಿಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲಾಗುತ್ತದೆ.
