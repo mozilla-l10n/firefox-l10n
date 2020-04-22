@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Navegación privada)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Navegación privada)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Navegación privada)
        *[other] { $title } - { -brand-full-name } (Navegación privada)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Ver a información do sitio
 
@@ -112,7 +93,9 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Escriba menos e atope máis: Busque con { $engineName } directamente dende súa barra de enderezos.
-urlbar-search-tips-redirect = Comece aquí a súa busca e vexa as suxestións de { $engineName } e o seu historial de navegación.
+
+##
+
 
 ##
 
@@ -228,3 +211,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = e
 identity-more-info-link-text =
     .label = Máis información
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
