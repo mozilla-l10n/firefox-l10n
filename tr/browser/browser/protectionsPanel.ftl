@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Rapor gönderilirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Site düzeldi mi? Bize bildirin
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Sıkı
+    .label = Sıkı
+protections-popup-footer-protection-label-custom = Özel
+    .label = Özel
+protections-popup-footer-protection-label-standard = Standart
+    .label = Standart
