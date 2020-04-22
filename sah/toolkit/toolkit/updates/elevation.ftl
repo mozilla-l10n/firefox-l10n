@@ -7,5 +7,7 @@ elevation-update-wizard =
     .title = Бырагыраамманы саҥардыы
 elevation-details-link-label =
     .value = Сиһилии
+elevation-error-manual = { -brand-short-name } кэнники саҥардыытын бэйэҥ  хачайдаан ылан туруоруоххун сөп:
 elevation-finished-page = Саҥардыы туруорарга бэлэм
+elevation-finished-background-page = { -brand-short-name } көмүскэлигэр уонна бигэ туруктаах буоларыгар аналлаах саҥардыы хачайданна уонна туруорарга бэлэм.
 elevation-finished-background = Саҥардыы:
