@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Gachenu hùì'
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Gachenu hùì'
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Gachenu hùì'
        *[other] { $title } - { -brand-full-name } (Gachenu hùì'
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Si nuguan' sitio na
 
@@ -116,7 +97,9 @@ urlbar-tip-help-icon =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Ninaj gachrut. nikò narit: Nana'ui' 'ngà { $engineName } asij riña dukuán direksiôn.
-urlbar-search-tips-redirect = Gayi'ì nana'uit asij ñuna daj ni'iaj sa ruguñu'unj { $engineName } nī riña gaché nut.
+
+##
+
 
 ##
 
@@ -249,3 +232,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = Doj nuguan' a'min rayi'î nan
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
