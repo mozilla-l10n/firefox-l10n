@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Pelayaran Peribadi)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Pelayaran Peribadi)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Pelayaran Peribadi)
        *[other] { $title } - { -brand-full-name } (Pelayaran Peribadi)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Papar maklumat laman
 
@@ -112,7 +93,9 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Taip sedikit, cari selanjutnya: Carian { $engineName } dari bar alamat anda.
-urlbar-search-tips-redirect = Mulakan carian anda di sini untuk melihat cadangan daripada { $engineName } dan sejarah pelayaran anda.
+
+##
+
 
 ##
 
@@ -228,3 +211,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = D
 identity-more-info-link-text =
     .label = Maklumat Lanjut
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
