@@ -90,6 +90,8 @@ search-one-offs-change-settings-button =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Biçûk Bike
 
 ## WebRTC Pop-up notifications
 
