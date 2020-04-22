@@ -190,3 +190,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Imayikhrofowuni yokubolekisana:
     .accesskey = I
+popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
