@@ -251,4 +251,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Kamera untuk dibagikan:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikrofon untuk dibagikan:
+    .accesskey = M
 popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan dibagikan.
