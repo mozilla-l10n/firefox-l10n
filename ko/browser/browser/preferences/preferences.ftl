@@ -736,6 +736,9 @@ privacy-header = 브라우저 개인정보
 ## Privacy Section - Logins and Passwords
 
 logins-header = 로그인과 비밀번호
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = 로그인과 비밀번호
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = 웹 사이트의 로그인과 비밀번호를 기억할지 묻기
