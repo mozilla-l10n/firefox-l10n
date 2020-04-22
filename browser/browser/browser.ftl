@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = 更多信息
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = 共享的摄像头：
+    .accesskey = C
+popup-select-microphone =
+    .value = 共享的麦克风：
+    .accesskey = M
+popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享。
