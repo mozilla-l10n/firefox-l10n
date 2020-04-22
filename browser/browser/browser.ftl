@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Private Browsing)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Private Browsing)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Private Browsing)
        *[other] { $title } - { -brand-full-name } (Private Browsing)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = View site information
 
@@ -86,6 +67,9 @@ urlbar-web-rtc-share-devices-notification-anchor =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
 
 
 ##
@@ -160,3 +144,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = More Information
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Camera to share:
+    .accesskey = C
+popup-select-microphone =
+    .value = Microphone to share:
+    .accesskey = M
