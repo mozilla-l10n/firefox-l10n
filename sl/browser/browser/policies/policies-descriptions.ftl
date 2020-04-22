@@ -69,6 +69,8 @@ policy-LegacyProfiles = Onemogoči možnost ustvarjanja ločenega profila za vsa
 
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
+policy-LegacySameSiteCookieBehaviorEnabled = Omogoči privzeto zastarelo nastavitev vedenja piškotkov SameSite.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Ponastavi zastarelo vedenje piškotkov SameSite na določenih straneh.
 
 ##
 
