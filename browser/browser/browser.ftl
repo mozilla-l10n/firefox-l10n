@@ -167,6 +167,8 @@ identity-disable-mixed-content-blocking =
 
 browser-window-minimize-button =
     .tooltiptext = କ୍ଷୁଦ୍ରତମନ
+browser-window-close-button =
+    .tooltiptext = ବନ୍ଦକରନ୍ତୁ
 
 ## WebRTC Pop-up notifications
 
