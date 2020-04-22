@@ -248,6 +248,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Txikitu
+browser-window-close-button =
+    .tooltiptext = Itxi
 
 ## WebRTC Pop-up notifications
 
