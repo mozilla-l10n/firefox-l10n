@@ -85,3 +85,9 @@ full-screen-exit =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Kkamera y'okugabana
+    .accesskey = K
+popup-select-microphone =
+    .value = Akazindaalo k'okugabana/Omuzindaalo gw'okugabana
+    .accesskey = A
