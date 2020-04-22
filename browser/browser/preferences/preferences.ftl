@@ -665,6 +665,9 @@ privacy-header = Friðhelgi vafra
 ## Privacy Section - Logins and Passwords
 
 logins-header = Innskráning og lykilorð
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Innskráning og lykilorð
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Biðja um að vista innskráningar og lykilorð fyrir vefsíður
@@ -686,6 +689,9 @@ forms-master-pw-change =
     .accesskey = B
 forms-master-pw-fips-title = Þú ert núna í FIPS ham. FIPS má ekki hafa tómt aðallykilorð.
 forms-master-pw-fips-desc = Gat ekki breytt lykilorði
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
