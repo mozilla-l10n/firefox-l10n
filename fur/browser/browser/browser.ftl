@@ -90,6 +90,10 @@ full-screen-exit =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Ridûs a icone
+browser-window-close-button =
+    .tooltiptext = Siere
 
 ## WebRTC Pop-up notifications
 
