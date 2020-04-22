@@ -9,5 +9,6 @@ elevation-details-link-label =
     .value = Podrobnosće
 elevation-error-manual = Móžeće { -brand-short-name } manuelnje aktualizować, hdyž tutón wotkaz wopytujeće a najnowšu wersiju sćahujeće:
 elevation-finished-page = Aktualizacija hotowa za instalaciju
+elevation-finished-background-page = Aktualizacija wěstoty a stabilnosće za { -brand-short-name } je so sćahnyła a móže so nětko instalować.
 elevation-finished-background = Aktualizacija:
 elevation-more-elevated = Tuta aktualizacija sej administratorowe priwilegije wužaduje. Aktualizacija budźe so přichodny raz instalować, hdyž so { -brand-short-name } startuje. Móžeće { -brand-short-name } nětko znowa startować, dale dźěłać a pozdźišo znowa startować abo tutu aktualizaciju wotpokazać.
