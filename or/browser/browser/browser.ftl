@@ -168,3 +168,9 @@ identity-disable-mixed-content-blocking =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = ସହଭାଗ କରିବା ପାଇଁ କ୍ୟାମେରା:
+    .accesskey = C
+popup-select-microphone =
+    .value = ସହଭାଗ କରିବା ପାଇଁ ମାଇକ୍ରୋଫୋନ:
+    .accesskey = M
