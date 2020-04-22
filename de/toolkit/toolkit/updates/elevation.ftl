@@ -7,4 +7,11 @@ elevation-update-wizard =
     .title = Software-Update
 elevation-details-link-label =
     .value = Details
+elevation-error-manual =
+    Sie können { -brand-short-name } auch manuell aktualisieren. Besuchen Sie dazu den folgenden Link und
+    laden die aktuelle Version herunter:
+elevation-finished-page = Update bereit zur Installation
+elevation-finished-background-page =
+    Ein Sicherheits- und Stabilitäts-Update für { -brand-short-name } wurde heruntergeladen
+    und ist bereit zur Installation.
 elevation-finished-background = Update:
