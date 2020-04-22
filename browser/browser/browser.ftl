@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (निजी ब्राउज़िंग)
        *[other] { $title } - { -brand-full-name } (निजी ब्राउज़िंग)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = साइट की जानकारी देखें
 
@@ -106,8 +103,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = कम टाइप करें, अधिक खोजें: सीधे अपने पता पट्टी { $engineName } खोजें.
-urlbar-search-tips-redirect = { $engineName } और अपने ब्राउज़िंग इतिहास से सुझाव देखने के लिए अपनी खोज यहां प्रारंभ करें.
 urlbar-search-tips-redirect-2 = { $engineName } और अपने ब्राउज़िंग इतिहास से सुझाव देखने के लिए अपनी खोज पता पट्टी में प्रारंभ करें।
+
+##
+
 
 ##
 
@@ -238,3 +237,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = स
 identity-more-info-link-text =
     .label = अधिक सूचना
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
