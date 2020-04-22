@@ -274,6 +274,8 @@ locale-enabled-heading = Activóse
 
 ## Pending uninstall message bar
 
+recommended-extensions-heading = Estensiones aconseyaes
+recommended-themes-heading = Estilos aconseyaos
 
 ## Page headings
 
