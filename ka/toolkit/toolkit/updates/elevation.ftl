@@ -9,4 +9,7 @@ elevation-error-manual =
     { -brand-short-name } შეგიძლიათ ხელით განაახლოთ თუ მოინახულებთ
     ამ ბმას და გადმოტვირთავთ ბოლო ვერსიას:
 elevation-finished-page = განახლება მზადაა ჩასადგმელად
+elevation-finished-background-page =
+    { -brand-short-name } უსაფრთხოებისა და მდგრადობის განახლებები ჩამოიტვირთა
+    და მზადაა ჩასადგმელად.
 elevation-finished-background = განახლება:
