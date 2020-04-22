@@ -2,6 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-settings = Hesap Ayarları
+#   $accounts (Number) - the number of configured accounts
 setup-title = Nelerin ayarlanacağını seçin
 about-title = { -brand-full-name } hakkında
 resources-title = Kaynaklar
@@ -22,3 +24,9 @@ explore-link = Özellikleri keşfedin
 support-link = Destek
 involved-link = Bize katılın
 developer-link = Geliştirici Belgeleri
+read = İletileri oku
+compose = Yeni ileti yaz
+search = İletilerde ara
+filter = İleti süzgeçlerini yönet
+nntp-subscription = Haber grubu aboneliklerini yönet
+e2e = Uçtan uca şifreleme

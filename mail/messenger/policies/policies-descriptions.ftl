@@ -21,6 +21,7 @@ policy-BlockAboutSupport = about:support sayfasına erişimi engelle.
 policy-CaptivePortal = Kısıtlama portali desteğini aç veya kapat.
 policy-CertificatesDescription = Sertifika ekle veya yerleşik sertifikaları kullan.
 policy-Cookies = Web sitelerinin çerez yerleştirmesine izin ver veya engelle.
+policy-DisabledCiphers = Şifrelemeleri devre dışı bırak.
 policy-DefaultDownloadDirectory = Varsayılan indirme klasörünü ayarla.
 policy-DisableAppUpdate = { -brand-short-name } uygulamasının güncellenmesini engelle.
 policy-DisableDeveloperTools = Geliştirici araçlarına erişimi engelle.
