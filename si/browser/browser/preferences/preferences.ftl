@@ -541,6 +541,9 @@ privacy-header = ගවේශන පුද්ගලිකත්වය
 ## Privacy Section - Logins and Passwords
 
 logins-header = පිවිසුම් සහ මුරපද
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = පිවිසුම් සහ මුරපද
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-exceptions =
     .label = හැරදැමීම්...
     .accesskey = x
@@ -555,6 +558,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = You are currently in FIPS mode. FIPS requires a non-empty Master Password.
 forms-master-pw-fips-desc = රහස්පදය වෙනස් කිරීම අසාර්තකයි
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
