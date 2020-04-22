@@ -683,6 +683,9 @@ privacy-header = ब्राऊजर गोपनीयता
 ## Privacy Section - Logins and Passwords
 
 logins-header = लॉगिन आणि पासवर्ड
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = लॉगिन आणि पासवर्ड
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = संकेतस्थळासाठी लॉगिन आणि पासवर्ड साठवण्यासाठी विचारा
     .accesskey = r
@@ -704,6 +707,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = आपण सध्या एफआयपीएस् (FIPS) स्थितीमध्ये आहात. एफआयपीएस् (FIPS) साठी रिकामे मुख्य पासवर्ड चालणार नाही.
 forms-master-pw-fips-desc = पासवर्ड बदल अयशस्वी
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
