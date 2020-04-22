@@ -7,6 +7,7 @@ elevation-update-wizard =
     .title = Pemutakhiran Perangkat Lunak
 elevation-details-link-label =
     .value = Detail
+elevation-error-manual = Anda dapat memperbarui { -brand-short-name } sendiri dengan mengunjungi tautan ini dan mengunduh versi terbaru:
 elevation-finished-page = Pemutakhiran Siap Dipasang
 elevation-finished-background = Pemutakhiran:
 elevation-more-elevated =
