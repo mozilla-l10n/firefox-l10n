@@ -209,4 +209,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖
+    .accesskey = C
+popup-select-microphone =
+    .value = មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖
+    .accesskey = M
 popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។
