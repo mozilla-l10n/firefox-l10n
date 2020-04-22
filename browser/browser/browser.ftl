@@ -179,6 +179,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimeer
+browser-window-close-button =
+    .tooltiptext = Sluit
 
 ## WebRTC Pop-up notifications
 
