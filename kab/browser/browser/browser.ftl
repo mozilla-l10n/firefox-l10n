@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = R
 identity-more-info-link-text =
     .label = Ugar n telɣut
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Takamiṛat i beṭṭu:
+    .accesskey = K
+popup-select-microphone =
+    .value = Asawaḍ i beṭṭu:
+    .accesskey = S
+popup-all-windows-shared = Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.
