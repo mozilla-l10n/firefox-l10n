@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Sens asenqed amezwer i yiminig deg tnekra.
 policy-DownloadDirectory = Ad yesbadu daɣen ad iṣekkeṛ akaram n usider.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Rmed neɣ sens asewḥel n ugbur u sekker-it ma tebɣiḍ.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Rmed neɣ sens isiɣzaf n wallalen n teywalt yettwawgelhen rnu sekkeṛ-it ma tebɣiḍ.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
