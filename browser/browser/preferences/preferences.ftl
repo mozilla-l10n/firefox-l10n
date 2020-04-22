@@ -752,6 +752,9 @@ privacy-header = Navegación privada
 ## Privacy Section - Logins and Passwords
 
 logins-header = Inicios de sesión y contraseñas
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Inicios de sesión y contraseñas
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Preguntar para guardar inicios de sesión y contraseñas para los sitios web
