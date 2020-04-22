@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Jeunajah Rahsia)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Jeunajah Rahsia)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -60,9 +44,6 @@ browser-main-window-content-title-private =
        *[other] { $title } - { -brand-full-name } (Jeunajah Rahsia)
     }
 
-##
-
-
 ## Tooltips for images appearing in the address bar
 
 
@@ -70,6 +51,9 @@ browser-main-window-content-title-private =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
 
 
 ##
@@ -108,3 +92,9 @@ bookmark-panel =
 identity-connection-file = Ônmiëng nyoë teukeubah lam komputer droëneuh.
 identity-learn-more =
     .value = Meurunoë Lom
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
