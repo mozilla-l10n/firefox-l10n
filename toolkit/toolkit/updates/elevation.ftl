@@ -5,3 +5,6 @@
 
 elevation-details-link-label =
     .value = Детаљи
+elevation-error-manual =
+    Програм { -brand-short-name } можете да надоградите ручно, посећивањем ове
+    везе и преузимањем најновијег издања:
