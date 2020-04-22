@@ -612,6 +612,9 @@ privacy-header = Nánuku yu´u
 ## Privacy Section - Logins and Passwords
 
 logins-header = Nuu kajie´e sesión ji contraseñas
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Nuu kajie´e sesión ji contraseñas
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Katu´un de chuva´a nuu kajie´e sesión ji contraseñas nuu da web
