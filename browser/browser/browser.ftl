@@ -249,3 +249,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = دوربین جهت به‌اشتراک‌گذاری:
+    .accesskey = د
+popup-select-microphone =
+    .value = میکروفون جهت به‌اشتراک‌گذاری:
+    .accesskey = م
