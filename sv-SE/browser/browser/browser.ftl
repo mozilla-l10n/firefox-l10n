@@ -245,3 +245,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = Mer information
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Kamera att dela:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikrofon att dela:
+    .accesskey = M
