@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (खासगी ब्रावजींग)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (खासगी ब्रावजींग)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -60,9 +44,6 @@ browser-main-window-content-title-private =
        *[other] { $title } - { -brand-full-name } (खासगी ब्रावजींग)
     }
 
-##
-
-
 ## Tooltips for images appearing in the address bar
 
 
@@ -70,6 +51,9 @@ browser-main-window-content-title-private =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+
+##
 
 
 ##
@@ -110,3 +94,16 @@ search-one-offs-change-settings-button =
 identity-disable-mixed-content-blocking =
     .label = आतापुरती सुरक्षा अक्षम करात
     .accesskey = D
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = वाटून घेवपाक कॅमेरा:
+    .accesskey = C
+popup-select-microphone =
+    .value = वाटून घेवपाक मायक्रोफोन:
+    .accesskey = M
+popup-all-windows-shared = तुमच्या पड्ड्यावयले सगळे दिसपी विंडोज वाटून घेतले वतले.
