@@ -756,6 +756,9 @@ privacy-header = Confidențialitate în browser
 ## Privacy Section - Logins and Passwords
 
 logins-header = Autentificări și parole
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Autentificări și parole
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Solicită salvarea autentificărilor și parolelor pentru site-urile web
