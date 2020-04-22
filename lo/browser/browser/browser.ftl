@@ -159,6 +159,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = ຫຍໍ້ໃຫ້ນ້ອຍລົງ
 browser-window-close-button =
     .tooltiptext = ປິດ
 
