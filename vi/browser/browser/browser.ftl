@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Thu nhỏ
+browser-window-close-button =
+    .tooltiptext = Đóng
 
 ## WebRTC Pop-up notifications
 
