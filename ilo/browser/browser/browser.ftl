@@ -79,6 +79,8 @@ full-screen-autohide =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimize
 
 ## WebRTC Pop-up notifications
 
