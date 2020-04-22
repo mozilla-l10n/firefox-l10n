@@ -192,3 +192,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = പങ്കിടുവാനുള്ള ക്യാമറ:
+    .accesskey = മ
+popup-select-microphone =
+    .value = പങ്കിടുവാനുള്ള മൈക്രോഫോണ്‍:
+    .accesskey = ഫ
