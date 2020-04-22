@@ -8,4 +8,5 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = Detaljar
 elevation-finished-page = Oppdatering klar for innstallering
+elevation-finished-background-page = Ei tryggings- og stabilitetsoppdatering for { -brand-short-name } er lasta ned og klar for installering.
 elevation-finished-background = Oppdatering:
