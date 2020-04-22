@@ -7,5 +7,8 @@ elevation-update-wizard =
     .title = Programma-fernijing
 elevation-details-link-label =
     .value = Details
+elevation-error-manual =
+    Jo kinne { -brand-short-name } mei de hân bywurkje troch dizze keppeling te
+    probearjen en de lêste ferzje yn te laden:
 elevation-finished-page = Fernijing klear foar ynstallaasje
 elevation-finished-background = Fernijing:
