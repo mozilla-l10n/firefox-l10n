@@ -5,4 +5,5 @@
 
 elevation-update-wizard =
     .title = პროგრამის განახლება
+elevation-finished-page = განახლება მზადაა ჩასადგმელად
 elevation-finished-background = განახლება:
