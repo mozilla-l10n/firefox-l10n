@@ -181,6 +181,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = Zarrar
 
 ## WebRTC Pop-up notifications
 
