@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Ιδιωτική περιήγηση)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Ιδιωτική περιήγηση)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Ιδιωτική Περιήγηση)
        *[other] { $title } - { -brand-full-name } (Ιδιωτική Περιήγηση)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Πληροφορίες ιστοσελίδας
 
@@ -124,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Πληκτρολογήστε λιγότερα, βρείτε περισσότερα: Αναζητήστε μέσω { $engineName } κατευθείαν από τη γραμμή διευθύνσεων.
-urlbar-search-tips-redirect = Ξεκινήστε την αναζήτησή σας εδώ για να δείτε προτάσεις από το { $engineName } και το ιστορικό περιήγησής σας.
 urlbar-search-tips-redirect-2 = Ξεκινήστε την αναζήτησή σας στη γραμμή διευθύνσεων για να δείτε προτάσεις από το { $engineName } και το ιστορικό περιήγησής σας.
+
+##
+
 
 ##
 
@@ -260,3 +243,10 @@ identity-enable-mixed-content-blocking =
     .accesskey = Ε
 identity-more-info-link-text =
     .label = Περισσότερες πληροφορίες
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.
