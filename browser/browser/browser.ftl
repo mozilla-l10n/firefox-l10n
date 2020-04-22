@@ -243,3 +243,13 @@ identity-enable-mixed-content-blocking =
     .accesskey = Մ
 identity-more-info-link-text =
     .label = Մանրամասն
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-microphone =
+    .value = Մուտք խոսափողին.
+    .accesskey = Մ
+popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:
