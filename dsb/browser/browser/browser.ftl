@@ -257,3 +257,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Mikrofon, kótaryž ma se gromaźe wužywaś:
     .accesskey = M
+popup-all-windows-shared = Wšykne widobne wokna na wašej wobrazowce budu se źěliś.
