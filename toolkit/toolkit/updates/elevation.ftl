@@ -8,4 +8,6 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = বিস্তারিত
 elevation-finished-page = হালনাগাদ ইনস্টল করার জন্য প্রস্তুত
+elevation-finished-background-page = { -brand-short-name } এর জন্য একটি স্থায়ীত্ব ও নিরাপত্তা সংক্রান্ত হালনাগাদ ডাউনলোড করা হয়েছে এবং এটি ইনস্টলের জন্য প্রস্তুত।
 elevation-finished-background = হালনাগাদ:
+elevation-more-elevated = এই হালনাগাদের জন্য আপনার অ্যাডমিনিস্ট্রেটর অধিকার প্রয়োজন হবে। এই হালনাগাদ { -brand-short-name } পরবর্তীতে শুরুর সময়ে ইন্সটল হবে। আপনি এখন { -brand-short-name } রিস্টার্ট করতে পারেন, কাজ চালিয়ে যেতে এবং পরে রিস্টার্ট করতে পারেন, অথবা হালনাগাদ উপেক্ষা করতে পারেন।
