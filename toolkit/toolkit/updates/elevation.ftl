@@ -7,3 +7,5 @@ elevation-update-wizard =
     .title = ತಂತ್ರಾಂಶ ನವೀಕರಣ
 elevation-details-link-label =
     .value = ವಿವರಗಳು
+elevation-finished-page = ಅನುಸ್ಥಾಪಿಸಲು ಅಪ್‌ಡೇಟ್ ಸಿದ್ಧಗೊಂಡಿದೆ
+elevation-finished-background = ಅಪ್‌ಡೇಟ್:
