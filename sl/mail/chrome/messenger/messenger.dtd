@@ -290,6 +290,7 @@
 <!ENTITY searchMailCmd.accesskey "s">
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY glodaSearchCmd.label "Splošno iskanje …">
+<!ENTITY glodaSearchCmd.accesskey "S">
 <!ENTITY searchAddressesCmd.label "Išči po naslovih …">
 <!ENTITY searchAddressesCmd.accesskey "n">
 
