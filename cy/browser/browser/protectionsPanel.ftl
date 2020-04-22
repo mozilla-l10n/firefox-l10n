@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Bu gwall wrth anfon yr adroddiad. Rhowch gynnig arall arni'n hwyrach.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Gwefan wedi'i thrwsio? Anfon adroddiad
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Llym
+    .label = Llym
+protections-popup-footer-protection-label-custom = Cyfaddas
+    .label = Cyfaddas
+protections-popup-footer-protection-label-standard = Safonol
+    .label = Safonol

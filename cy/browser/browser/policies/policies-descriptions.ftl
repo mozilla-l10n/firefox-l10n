@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Analluogi gwirio am y porwr rhagosodedig wrth g
 policy-DownloadDirectory = Gosod a chloi'r cyfeiriadur llwytho i lawr.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Galluogi neu analluogi Rhwystro Cynnwys ac o ddewis ei gloi.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Galluogi neu Analluogi Estyniadau Cyfryngau Amgryptiedig ac o ddewis eu cloi.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
