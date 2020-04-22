@@ -8,3 +8,4 @@ elevation-update-wizard =
 elevation-error-manual =
     Μπορείτε να ενημερώσετε τον { -brand-short-name } χειροκίνητα . Επισκεφτείτε αυτόν το δεσμό
     για να λάβετε την τελευταία έκδοση:
+elevation-finished-page = Η ενημέρωση είναι έτοιμη για εγκατάσταση
