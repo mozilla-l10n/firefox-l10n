@@ -752,6 +752,9 @@ privacy-header = Browserprivacy
 ## Privacy Section - Logins and Passwords
 
 logins-header = Oanmeldingen & Wachtwurden
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Oanmeldingen & Wachtwurden
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Freegje om oanmeldingen en wachtwurden foar websites te ûnthâlden
