@@ -9,4 +9,5 @@ elevation-details-link-label =
     .value = Kitekit
 elevation-error-manual = Dikarî { -brand-short-name } 'ê bi destan rojane bikî. Guhertoya nûtirîn ji vê girêdanê dikarî daxî::
 elevation-finished-page = Rojanekirin ji bo Sazbûnê Amade ye
+elevation-finished-background-page = Rojanekirina saxlemiyê ji bo { -brand-short-name } hat daxistin û ji bo sazkirinê amade ye.
 elevation-finished-background = Rojanekirin:
