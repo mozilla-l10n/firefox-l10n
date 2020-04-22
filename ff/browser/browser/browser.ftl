@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Peeragol Suturo)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Peeragol Suturo)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Peeragol Suturo)
        *[other] { $title } - { -brand-full-name } (Peeragol Suturo)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Yiy humpito lowre ndee
 
@@ -112,7 +93,9 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tappu seeɗa, yiytu ko heewi: Yiylo { $engineName } e palal ñiiɓirde maa.
-urlbar-search-tips-redirect = Fuɗɗo njiilaw maa ɗoo ngam yiyde baggine ummoraade e { $engineName } kam e aslol banngogol maa.
+
+##
+
 
 ##
 
@@ -228,3 +211,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = H
 identity-more-info-link-text =
     .label = Ɓeydu Humpito
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Kameraa lollinteeɗo:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikkoroo lollinteeɗo:
+    .accesskey = M
+popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
