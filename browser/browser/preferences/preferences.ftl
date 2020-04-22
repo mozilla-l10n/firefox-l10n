@@ -648,6 +648,9 @@ privacy-header = ব্রাউজার গোপনীয়তা
 ## Privacy Section - Logins and Passwords
 
 logins-header = লগইন এবং পাসওয়ার্ড
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = লগইন এবং পাসওয়ার্ড
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = ওয়েবসাইটে লগইন ও পাসওয়ার্ড সংরক্ষণে জিজ্ঞাসা কর
     .accesskey = r
@@ -665,6 +668,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = আপনি বর্তমানে FIPS মোড ব্যবহার করছেন। FIPS-এর ক্ষেত্রে মাস্টার পাসওয়ার্ড ফাঁকা রাখা যাবে না।
 forms-master-pw-fips-desc = পাসওয়ার্ড পরিবর্তন করতে ব্যর্থ
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
