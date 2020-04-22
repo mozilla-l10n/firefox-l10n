@@ -219,3 +219,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Lamak cal me anywaka:
+    .accesskey = L
+popup-select-microphone =
+    .value = Mikropon me anywaka:
+    .accesskey = M
+popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
