@@ -760,6 +760,9 @@ privacy-header = Priwatnosć wobhladowaka
 ## Privacy Section - Logins and Passwords
 
 logins-header = Přizjewjenja a hesła
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Přizjewjenja a hesła
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Prašeć so, hač so maja přizjewjenja a hesła składować
