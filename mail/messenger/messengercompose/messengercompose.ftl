@@ -14,6 +14,20 @@ address-input-type =
         [0] 空白的 { $type } 輸入欄位
        *[other] 有 { $count } 個地址的 { $type } 輸入欄位
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+       *[other] { $type } 有 { $count } 個地址，使用鍵盤左方向鍵移動到該項目。
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: 按 Enter 編輯、按 Delete 刪除。
+       *[other] { $email }，第 1 筆，共 { $count } 筆: 按 Enter 編輯、按 Delete 刪除。
+    }
 pill-action-edit =
     .label = 編輯地址
     .accesskey = e
