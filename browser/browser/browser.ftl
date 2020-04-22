@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Skrči
+browser-window-maximize-button =
+    .tooltiptext = Povečaj
 browser-window-close-button =
     .tooltiptext = Zapri
 
