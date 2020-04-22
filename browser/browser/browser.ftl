@@ -227,6 +227,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = ન્યૂનતમ બનાવો
+browser-window-close-button =
+    .tooltiptext = બંધ કરો
 
 ## WebRTC Pop-up notifications
 
