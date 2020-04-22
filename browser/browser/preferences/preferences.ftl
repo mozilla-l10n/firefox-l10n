@@ -220,6 +220,10 @@ translate-attribution = 翻譯服務由 <img data-l10n-name="logo"/> 提供
 translate-exceptions =
     .label = 例外網站…
     .accesskey = x
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = 使用您作業系統的「{ $localeName }」語系來顯示日期、時間、數字、單位。
 check-user-spelling =
     .label = 打字時即時檢查拼字
     .accesskey = t

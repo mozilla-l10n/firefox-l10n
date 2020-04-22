@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = 憑證機構
 certificate-viewer-cipher-suite = 加密套件組
 certificate-viewer-common-name = 一般名稱
 certificate-viewer-email-address = 電子郵件地址
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = { $firstCertName } 的憑證
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = 註冊國家
 certificate-viewer-country = 國家
