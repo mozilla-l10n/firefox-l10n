@@ -235,6 +235,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Nagi'iaj lij
 
 ## WebRTC Pop-up notifications
 
