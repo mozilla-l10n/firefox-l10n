@@ -657,6 +657,9 @@ privacy-header = Mung pa layeny
 ## Privacy Section - Logins and Passwords
 
 logins-header = Donyo iyie ki mung me donyo
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Donyo iyie ki mung me donyo
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Peny me gwoko donyo iyie ki mung me donyo pi kakube
@@ -676,6 +679,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = Kombedi itye i kit me FIPS. FIPS mito Ladit me mung me donyo ma peke nono.
 forms-master-pw-fips-desc = Loko mung me donyo Pe olare
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
