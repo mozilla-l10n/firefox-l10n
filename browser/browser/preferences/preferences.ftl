@@ -752,6 +752,9 @@ privacy-header = Browser-Datenschutz
 ## Privacy Section - Logins and Passwords
 
 logins-header = Zugangsdaten & Passwörter
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Zugangsdaten & Passwörter
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Fragen, ob Zugangsdaten und Passwörter für Websites gespeichert werden sollen
