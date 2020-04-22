@@ -13,3 +13,8 @@ elevation-error-manual =
 elevation-finished-page = עדכון מוכן להתקנה
 elevation-finished-background-page = עדכון אבטחה ויציבות עבור { -brand-short-name } הורד ומוכן להתקנה.
 elevation-finished-background = עדכון:
+elevation-more-elevated =
+    עדכון זה דורש הרשאות מנהל. העדכון
+                                               יותקן בפעם הבאה ש־{ -brand-short-name } יופעל. ניתן להפעיל מחדש
+                                               את { -brand-short-name } כעת, להמשיך בעבודה ולהפעיל מחדש מאוחר יותר, או לסרב
+                                               לעדכון זה.
