@@ -8,4 +8,5 @@ elevation-update-wizard =
 elevation-details-link-label =
     .value = Detalji
 elevation-finished-page = Dopuna sprema za instalaciju
+elevation-finished-background-page = Dopuna s pobojšanjima za sigurnost i stabilnost za { -brand-short-name } je preuzeta i može se instalirati.
 elevation-finished-background = Dopuna:
