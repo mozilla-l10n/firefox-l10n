@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = Į
 identity-more-info-link-text =
     .label = Daugiau informacijos
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Kamera, kurią leisite pasiekti:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikrofonas, kurį leisite pasiekti:
+    .accesskey = M
+popup-all-windows-shared = Bus leidžiama matyti visus jūsų ekrane matomus langus.
