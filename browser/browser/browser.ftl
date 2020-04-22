@@ -245,3 +245,10 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Mai d’informacions
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.
