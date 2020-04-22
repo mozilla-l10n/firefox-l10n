@@ -216,6 +216,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-close-button =
+    .tooltiptext = Lor
 
 ## WebRTC Pop-up notifications
 
