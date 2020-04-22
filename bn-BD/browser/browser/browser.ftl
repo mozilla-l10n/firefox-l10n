@@ -219,3 +219,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = যেসকল ক্যামেরা শেয়ার করা হবে: C
+    .accesskey = C
+popup-select-microphone =
+    .value = যেসকল মাইক্রোফোন শেয়ার করা হবে: M
+    .accesskey = M
