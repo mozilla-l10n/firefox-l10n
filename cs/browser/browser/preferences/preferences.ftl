@@ -892,7 +892,7 @@ sync-device-name-save =
 sync-connect-another-device = Připojit další zařízení
 sync-manage-devices = Správa zařízení
 sync-fxa-begin-pairing = Připojit zařízení
-sync-tos-link = Podmínky služby
+sync-tos-link = Podmínky poskytování služby
 sync-fxa-privacy-notice = Zásady ochrany osobních údajů
 
 ## Privacy Section
