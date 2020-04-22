@@ -202,20 +202,15 @@ advanced-fonts =
 colors-settings =
     .label = Colori…
     .accesskey = r
-
 # Zoom is a noun, and the message is used as header for a group of options
 preferences-zoom-header = Zoom
-
 preferences-default-zoom = Ingrandimento predefinito
     .accesskey = n
-
 preferences-default-zoom-value =
     .label = { $percentage }%
-
 preferences-zoom-text-only =
     .label = Ingrandisci solo il testo
     .accesskey = t
-
 language-header = Lingua
 choose-language-description = Scegli la lingua in cui visualizzare le pagine web
 choose-button =
@@ -236,12 +231,10 @@ translate-attribution = Traduzioni a cura di <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eccezioni…
     .accesskey = z
-
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-   .label = Utilizza le impostazioni del sistema operativo per “{ $localeName }” per formattare date, orari, numeri e unità di misura.
-
+    .label = Utilizza le impostazioni del sistema operativo per “{ $localeName }” per formattare date, orari, numeri e unità di misura.
 check-user-spelling =
     .label = Controllo ortografico durante la digitazione
     .accesskey = C
@@ -372,7 +365,7 @@ update-pref-write-failure-message = Errore durante il salvataggio della preferen
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-
+    
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
@@ -576,10 +569,10 @@ search-keyword-warning-bookmark = La parola chiave scelta è già utilizzata da 
 containers-back-link = « Torna indietro
 containers-back-button =
     .aria-label =
-      { PLATFORM() ->
-          [windows] Torna alle opzioni
-         *[other] Torna alle preferenze
-      }
+        { PLATFORM() ->
+            [windows] Torna alle opzioni
+           *[other] Torna alle preferenze
+        }
 containers-header = Schede contenitore
 containers-add-button =
     .label = Aggiungi nuovo contenitore
@@ -756,6 +749,9 @@ privacy-header = Privacy del browser
 ## Privacy Section - Logins and Passwords
 
 logins-header = Credenziali e password
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Credenziali e password
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Chiedi se salvare le credenziali di accesso ai siti web
     .accesskey = C
@@ -788,7 +784,6 @@ forms-master-pw-fips-desc = La password non è stata cambiata
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verificare la propria identità per creare una password principale.
-
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
