@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = A
 identity-more-info-link-text =
     .label = Plus d’informations
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Caméra à partager :
+    .accesskey = C
+popup-select-microphone =
+    .value = Microphone à partager :
+    .accesskey = M
+popup-all-windows-shared = L’ensemble des fenêtres visibles sur votre écran seront partagées.
