@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Məxfi Səyahət)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Məxfi Səyahət)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Məxfi Səyahət)
        *[other] { $title } - { -brand-full-name } (Məxfi Səyahət)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = Sayt məlumatlarını gör
 
@@ -116,7 +97,9 @@ urlbar-tip-help-icon =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Daha az yazın, daha çox tapın: Birbaşa ünvan sətrinizdən { $engineName } ilə axtarış edin.
-urlbar-search-tips-redirect = { $engineName } və səyahət keçmişinizdən gələn təklifləri görmək üçün axtarışınıza buradan başlayın.
+
+##
+
 
 ##
 
@@ -238,3 +221,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = k
 identity-more-info-link-text =
     .label = Daha çox məlumat
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
