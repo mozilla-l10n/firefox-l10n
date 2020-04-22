@@ -752,6 +752,9 @@ privacy-header = Privadesa del navegador
 ## Privacy Section - Logins and Passwords
 
 logins-header = Inicis de sessió i contrasenyes
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Inicis de sessió i contrasenyes
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Demana si vull desar les dades d'inici de sessió i contrasenyes dels llocs web
@@ -781,6 +784,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = Us trobeu en mode FIPS. El FIPS requereix una contrasenya mestra no buida.
 forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
