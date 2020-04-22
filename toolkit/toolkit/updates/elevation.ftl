@@ -15,3 +15,8 @@ elevation-finished-background-page =
     Er is een beveiligings- en stabiliteitsupdate voor { -brand-short-name }
     gedownload en gereed voor installatie.
 elevation-finished-background = Update:
+elevation-more-elevated =
+    Deze update vereist beheerdersbevoegdheden. De update zal de volgende
+    keer dat { -brand-short-name } start worden geïnstalleerd. U kunt
+    { -brand-short-name } nu herstarten, doorgaan met werken en later herstarten, of deze
+    update weigeren.
