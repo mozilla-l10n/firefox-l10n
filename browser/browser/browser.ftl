@@ -200,3 +200,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = क्यामेरलाई बाँड्ने:
+    .accesskey = C
+popup-select-microphone =
+    .value = साझेदारी गर्नुपर्ने माइक्रोफोन:
+    .accesskey = M
+popup-all-windows-shared = तपाईँको स्क्रिन मा सबै देखिने सञ्झ्यालहरू साझेदारी गरिनेछ।
