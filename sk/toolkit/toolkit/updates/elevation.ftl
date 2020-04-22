@@ -5,4 +5,8 @@
 
 elevation-update-wizard =
     .title = Aktualizácia softvéru
+elevation-finished-page = Aktualizácia pripravená na inštaláciu
+elevation-finished-background-page =
+    { -brand-short-name } práve dokončil preberanie bezpečnostnej a stabilizačnej
+    aktualizácie, ktorá je teraz pripravená na inštaláciu.
 elevation-finished-background = Aktualizácia:
