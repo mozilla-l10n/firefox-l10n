@@ -288,7 +288,7 @@ applications-use-app-default-label =
 applications-use-other-label =
     .value = { applications-use-other.label }
 
-
+##
 
 drm-content-header = డిజిటల్ హక్కుల నిర్వహణ (DRM) విషయం
 play-drm-content =
@@ -648,6 +648,9 @@ privacy-header = విహరిణి గోప్యత
 ## Privacy Section - Logins and Passwords
 
 logins-header = ప్రవేశాలు & సంకేతపదాలు
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = ప్రవేశాలు & సంకేతపదాలు
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = సైట్ల ప్రవేశాలూ, సంకేతపదాలు భద్రపరచుకోడానికి అడుగు
@@ -667,6 +670,9 @@ forms-master-pw-change =
     .accesskey = M
 forms-master-pw-fips-title = మీరు ప్రస్తుతం FIPS రీతిలో ఉన్నారు. FIPS కు ఒక ఖాళీ-కాని ముఖ్య సంకేతపదం అవసరము.
 forms-master-pw-fips-desc = సంకేతపదం మార్పు విఫలమైంది
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
@@ -786,7 +792,7 @@ enhanced-tracking-protection-setting-custom =
     .label = అభిమతం
     .accesskey = C
 
-
+##
 
 content-blocking-all-cookies = అన్ని కుకీలు
 content-blocking-all-windows-trackers = తెలిసిన ట్రాకర్లు, అన్ని కిటికీల్లోనూ
