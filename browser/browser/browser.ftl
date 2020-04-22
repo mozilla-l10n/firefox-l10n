@@ -208,6 +208,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = చిన్నదిచేయు
+browser-window-close-button =
+    .tooltiptext = మూసివేయి
 
 ## WebRTC Pop-up notifications
 
