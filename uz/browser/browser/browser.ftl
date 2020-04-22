@@ -243,3 +243,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = H
 identity-more-info-link-text =
     .label = Ko‘proq ma’lumot
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Bo‘lishiladigan kamera:
+    .accesskey = k
+popup-select-microphone =
+    .value = Bo‘lishish uchun mikrofon:
+    .accesskey = m
+popup-all-windows-shared = Ekraningizdagi barcha ko‘rinadigan oynalar bo‘lishiladi.
