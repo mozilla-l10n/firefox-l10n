@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (ব্যক্তিগত ব্ৰাউছিং)
        *[other] { $title } - { -brand-full-name } (ব্যক্তিগত ব্ৰাউছিং)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = ছাইটৰ তথ্য চাওক
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = কমকৈ টাইপ কৰক, বেছিকৈ বিচাৰক: আপোনাৰ ঠিকনা দণ্ডিকাৰে পৰা { $engineName } সন্ধান কৰক।
-urlbar-search-tips-redirect = { $engineName }-ৰ পৰামৰ্শৱলী আৰু আপোনাৰ ব্ৰাউজিং ইতিহাস চাবলৈ ইয়াত আপোনাৰ সন্ধান আৰম্ভ কৰক।
 urlbar-search-tips-redirect-2 = { $engineName }-ৰ পৰামৰ্শৱলী আৰু আপোনাৰ ব্ৰাউজিং ইতিহাস চাবলৈ ঠিকনা দণ্ডিকাত আপোনাৰ সন্ধান আৰম্ভ কৰক।
+
+##
+
 
 ##
 
@@ -170,3 +169,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = অধিক তথ্য
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
