@@ -245,3 +245,11 @@ identity-enable-mixed-content-blocking =
     .accesskey = h
 identity-more-info-link-text =
     .label = Kue´eka tu´un
+
+## Window controls
+
+browser-window-minimize-button =
+    .tooltiptext = Nasa´a luli
+
+## WebRTC Pop-up notifications
+
