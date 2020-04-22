@@ -3,5 +3,9 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 # This is temporary until bug 1521632 is fixed
 
+elevation-update-wizard =
+    .title = চফ্টৱেৰৰ আপডেইট
 elevation-details-link-label =
     .value = বিৱৰণ
+elevation-finished-page = আপডেইট ইনস্টলৰ কাৰণে প্ৰস্তুত
+elevation-finished-background = আপডেইট:
