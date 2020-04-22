@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = 啟動時不檢查是否為預設瀏覽器。
 policy-DownloadDirectory = 設定並鎖定下載資料夾。
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = 開啟或關閉內容封鎖功能，並可選擇鎖定該功能。
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = 開啟或關閉加密媒體擴充功能，並可選擇鎖定該功能。
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
