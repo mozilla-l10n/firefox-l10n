@@ -169,3 +169,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = शेयार खालामनो केमेरा:
+    .accesskey = C
+popup-select-microphone =
+    .value = शेयार खालामनो माइक्र'फन:
+    .accesskey = M
+popup-all-windows-shared = नोंथांनि स्क्रिननि गासै नुथाव उइन्ड'खौ शेयार खालामगोन।
