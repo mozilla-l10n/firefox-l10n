@@ -752,6 +752,9 @@ privacy-header = Tarayıcı gizliliği
 ## Privacy Section - Logins and Passwords
 
 logins-header = Hesaplar ve parolalar
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Hesaplar ve parolalar
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Sitelerdeki kullanıcı adı ve parolalarımı kaydetmeyi öner
