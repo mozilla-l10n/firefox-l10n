@@ -252,3 +252,6 @@ identity-more-info-link-text =
 popup-select-camera =
     .value = Kamera za dijeljenje:
     .accesskey = K
+popup-select-microphone =
+    .value = Mikrofon za dijeljenje:
+    .accesskey = M
