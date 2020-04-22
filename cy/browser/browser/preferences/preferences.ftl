@@ -768,6 +768,9 @@ privacy-header = Preifatrwydd y Porwr
 ## Privacy Section - Logins and Passwords
 
 logins-header = Mewngofnodion a Chyfrineiriau
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Mewngofnodion a Chyfrineiriau
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Gofyn i gadw mewngofnodion a chyfrineiriau ar gyfer gwefannau
