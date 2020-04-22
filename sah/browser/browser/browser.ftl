@@ -93,3 +93,9 @@ full-screen-exit =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Каамераны холбооһун:
+    .accesskey = К
+popup-select-microphone =
+    .value = Микрофону холбооһун:
+    .accesskey = М
