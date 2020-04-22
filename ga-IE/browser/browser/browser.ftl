@@ -198,3 +198,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Ceamara le comhroinnt:
+    .accesskey = C
+popup-select-microphone =
+    .value = Micreafón le comhroinnt:
+    .accesskey = M
+popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáileáin.
