@@ -93,6 +93,14 @@ info-monitored-emails =
         [one] כתובת דוא״ל במעקב
        *[other] כתובות דוא״ל במעקב
     }
+# This string is displayed after a large numeral that indicates the total number
+# of known data breaches. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-known-breaches-found =
+    { $count ->
+        [one] דליפת נתונים מוכרת חשפה מידע עליך
+       *[other] דליפות נתונים מוכרות חשפו מידע עליך
+    }
 full-report-link = הצגת הדוח המלא ב־<a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.
