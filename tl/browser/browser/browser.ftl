@@ -245,3 +245,10 @@ identity-enable-mixed-content-blocking =
     .accesskey = E
 identity-more-info-link-text =
     .label = Karagdagang Impormasyon
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabahagi.
