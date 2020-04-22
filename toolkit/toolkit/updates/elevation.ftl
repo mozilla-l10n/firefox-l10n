@@ -5,3 +5,6 @@
 
 elevation-update-wizard =
     .title = ਸਾਫਟਵੇਅਰ ਅੱਪਡੇਟ
+elevation-error-manual = ਤੁਸੀਂ { -brand-short-name } ਨੂੰ ਖੁਦ ਇਹ ਲਿੰਕ ਖੋਲ੍ਹ ਕੇ ਕਰ ਸਕਦੇ ਹੋ ਅਤੇ ਨਵਾਂ ਵਰਜਨ ਡਾਊਨਲੋਡ ਕਰ ਸਕਦੇ ਹੋ:
+elevation-finished-page = ਅੱਪਡੇਟ ਇੰਸਟਾਲ ਹੋਣ ਲਈ ਤਿਆਰ ਹੈ
+elevation-finished-background = ਅੱਪਡੇਟ:
