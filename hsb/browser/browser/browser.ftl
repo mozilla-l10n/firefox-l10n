@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = Miniměrować
 browser-window-maximize-button =
     .tooltiptext = Maksiměrować
+browser-window-restore-down-button =
+    .tooltiptext = Pomjeńšić
 browser-window-close-button =
     .tooltiptext = Začinić
 
