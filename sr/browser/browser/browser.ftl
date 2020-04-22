@@ -243,3 +243,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = О
 identity-more-info-link-text =
     .label = Више информација
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Камера за дељење:
+    .accesskey = К
+popup-select-microphone =
+    .value = Микрофон за дељење:
+    .accesskey = М
+popup-all-windows-shared = Сви видљиви прозори на екрану ће бити подељени.
