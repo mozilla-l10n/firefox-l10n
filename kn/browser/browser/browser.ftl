@@ -190,6 +190,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = ಕುಗ್ಗಿಸು
 
 ## WebRTC Pop-up notifications
 
