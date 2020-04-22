@@ -84,6 +84,8 @@ bookmark-panel-done-button =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Wàññi
 
 ## WebRTC Pop-up notifications
 
