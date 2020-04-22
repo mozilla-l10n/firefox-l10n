@@ -195,6 +195,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Íoslaghdaigh
+browser-window-close-button =
+    .tooltiptext = Dún
 
 ## WebRTC Pop-up notifications
 
