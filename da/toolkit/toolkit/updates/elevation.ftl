@@ -15,3 +15,9 @@ elevation-finished-background-page =
     En sikkerheds- og stabilitetsopdatering til { -brand-short-name } er blevet
     hentet og er klar til at blive installeret.
 elevation-finished-background = Opdatering:
+elevation-more-elevated =
+    Denne opdatering kræver administratorrettigheder. Opdateringen vil blive installeret
+    næste gang { -brand-short-name } startes. Du
+    kan genstarte
+    { -brand-short-name } nu, fortsætte med at arbejde og genstarte senere, eller du kan afvise denne
+    opdatering.
