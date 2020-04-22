@@ -245,3 +245,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = פ
 identity-more-info-link-text =
     .label = מידע נוסף
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = מצלמה לשיתוף:
+    .accesskey = צ
+popup-select-microphone =
+    .value = מיקרופון לשיתוף:
+    .accesskey = מ
