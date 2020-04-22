@@ -154,3 +154,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = साझा करबाक लेल माइक्रोफोन (M):
     .accesskey = M
+popup-all-windows-shared = अहाँक स्क्रीन पर सभ दृश्य विंडो साझा कएल जाएत.
