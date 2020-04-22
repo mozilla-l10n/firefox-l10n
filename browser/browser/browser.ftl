@@ -82,6 +82,8 @@ full-screen-exit =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Nyenyefatša
 
 ## WebRTC Pop-up notifications
 
