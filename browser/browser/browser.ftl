@@ -245,3 +245,15 @@ identity-enable-mixed-content-blocking =
     .accesskey = რ
 identity-more-info-link-text =
     .label = ვრცლად
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = გასაზიარებელი კამერა:
+    .accesskey = კ
+popup-select-microphone =
+    .value = გასაზიარებელი მიკროფონი:
+    .accesskey = მ
