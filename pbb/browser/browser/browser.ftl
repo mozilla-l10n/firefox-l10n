@@ -143,6 +143,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Le'çxkwe vxitjxa
+browser-window-close-button =
+    .tooltiptext = Apnah
 
 ## WebRTC Pop-up notifications
 
