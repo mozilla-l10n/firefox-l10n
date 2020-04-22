@@ -214,6 +214,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Taggu
+browser-window-close-button =
+    .tooltiptext = Uddu
 
 ## WebRTC Pop-up notifications
 
