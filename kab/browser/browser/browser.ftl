@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Semẓi
+browser-window-maximize-button =
+    .tooltiptext = Semɣeṛ
+browser-window-restore-down-button =
+    .tooltiptext = Err-d
 browser-window-close-button =
     .tooltiptext = Mdel
 
