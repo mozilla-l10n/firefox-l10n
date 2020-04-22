@@ -657,6 +657,9 @@ privacy-header = Privacy do navegatô
 ## Privacy Section - Logins and Passwords
 
 logins-header = Login e Poule segrete
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Login e Poule segrete
+    .searchkeywords = { -lockwise-brand-short-name }
 forms-ask-to-save-logins =
     .label = Domanda se sarvâ acessi e poule segrete pe-i sciti
     .accesskey = r
@@ -674,6 +677,9 @@ forms-master-pw-change =
     .accesskey = C
 forms-master-pw-fips-title = Òua t'ê into mòddo FIPS. A-o FIPS serve 'na paròlla segreta prinçipâ che a no segge veua.
 forms-master-pw-fips-desc = Cangio de paròlla segreta no riescio
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
