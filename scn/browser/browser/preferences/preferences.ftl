@@ -748,6 +748,9 @@ privacy-header = Privatizza navigaturi
 ## Privacy Section - Logins and Passwords
 
 logins-header = Accessi e chiavi
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Accessi e chiavi
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Spija di sarbari l'accessi e i chiavi pî siti
@@ -777,6 +780,9 @@ forms-master-pw-change =
     .accesskey = m
 forms-master-pw-fips-title = Accamora sì 'n mudalità FIPS. FIPS abbisogna di na chiavi mastra mpustata.
 forms-master-pw-fips-desc = U canciamentu dâ chiavi sfallìu
+
+## OS Authentication dialog
+
 
 ## Privacy Section - History
 
