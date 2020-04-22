@@ -81,22 +81,22 @@ restart-later = הפעלה מחדש מאוחר יותר
 extension-controlled-homepage-override = ההרחבה <img data-l10n-name="icon"/> { $name } שולטת על דף הבית שלך.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת על דף הלשונית החדשה שלך.
+extension-controlled-new-tab-url = ההרחבה <img data-l10n-name="icon"/> { $name } שולטת על דף הלשונית החדשה שלך.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
-extension-controlled-web-notifications = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת על הגדרה זו.
+extension-controlled-web-notifications = ההרחבה <img data-l10n-name="icon"/> { $name } שולטת על הגדרה זו.
 # This string is shown to notify the user that the default search engine
 # is being controlled by an extension.
-extension-controlled-default-search = הרחבה בשם <img data-l10n-name="icon"/> { $name } הגדירה את מנוע החיפוש ברירת המחדל שלך.
+extension-controlled-default-search = ההרחבה <img data-l10n-name="icon"/> { $name } הגדירה את מנוע החיפוש ברירת המחדל שלך.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = הרחבה בשם <img data-l10n-name="icon"/> { $name } דורשת שימוש במגירת לשוניות.
+extension-controlled-privacy-containers = ההרחבה <img data-l10n-name="icon"/> { $name } דורשת שימוש במגירת לשוניות.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
-extension-controlled-websites-content-blocking-all-trackers = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת על הגדרה זו.
+extension-controlled-websites-content-blocking-all-trackers = ההרחבה <img data-l10n-name="icon"/> { $name } שולטת על הגדרה זו.
 # This string is shown to notify the user that their proxy configuration preferences
 # are being controlled by an extension.
-extension-controlled-proxy-config = הרחבה בשם <img data-l10n-name="icon"/> { $name } שולטת באופן החיבור של { -brand-short-name } לאינטרנט.
+extension-controlled-proxy-config = ההרחבה <img data-l10n-name="icon"/> { $name } שולטת באופן החיבור של { -brand-short-name } לאינטרנט.
 # This string is shown after the user disables an extension to notify the user
 # how to enable an extension that they disabled.
 #
