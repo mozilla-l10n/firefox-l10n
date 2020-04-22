@@ -7,4 +7,6 @@ elevation-update-wizard =
     .title = Actualització de programari
 elevation-details-link-label =
     .value = Detalls
+elevation-finished-page = L'actualització està preparada per poder instal·lar-la
+elevation-finished-background-page = S'ha baixat una actualització de seguretat i estabilitat del { -brand-short-name } i està preparada per poder instal·lar-la.
 elevation-finished-background = Actualització:
