@@ -9,4 +9,5 @@ elevation-details-link-label =
     .value = Imininingwane
 elevation-error-manual = Ungavuselela i-{ -brand-short-name } ngokuzenzela ngokuvakashela lesi sixhumanisi futhi ngokulayisha ungenise unguquko yamanje:
 elevation-finished-page = Ukulungiswa Sekulungele Ukufakelwa
+elevation-finished-background-page = Ukuvuselela kokuvikeleka kanye nokumisa kahle kwe-{ -brand-short-name } sekulayishwe kwangeniswa futhi sekulungelwe ukufakwa.
 elevation-finished-background = Ukulungiswa:
