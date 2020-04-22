@@ -171,3 +171,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = Микрофон што се споделува:
     .accesskey = м
+popup-all-windows-shared = Сите видливи прозорци на вашиот екран ќе бидат споделени.
