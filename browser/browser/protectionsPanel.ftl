@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Bei der Übermittlung des Berichts ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Website funktioniert? Bericht senden
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Streng
+    .label = Streng
+protections-popup-footer-protection-label-custom = Benutzerdefiniert
+    .label = Benutzerdefiniert
+protections-popup-footer-protection-label-standard = Standard
+    .label = Standard
