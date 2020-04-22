@@ -245,3 +245,16 @@ identity-enable-mixed-content-blocking =
     .accesskey = G
 identity-more-info-link-text =
     .label = Informazio gehiago
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+popup-select-camera =
+    .value = Partekatzeko kamera:
+    .accesskey = k
+popup-select-microphone =
+    .value = Partekatzeko mikrofonoa:
+    .accesskey = m
+popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.
