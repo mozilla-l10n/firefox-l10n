@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (การเรียกดูแบบส่วนตัว)
        *[other] { $title } - { -brand-full-name } (การเรียกดูแบบส่วนตัว)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = ดูข้อมูลไซต์
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = พิมพ์น้อยลง ค้นหามากขึ้น: ค้นหา { $engineName } โดยตรงจากแถบที่อยู่ของคุณ
-urlbar-search-tips-redirect = เริ่มการค้นหาของคุณที่นี่เพื่อดูข้อเสนอแนะจาก { $engineName } และประวัติการเรียกดูของคุณ
 urlbar-search-tips-redirect-2 = เริ่มการค้นหาของคุณในแถบที่อยู่เพื่อดูข้อเสนอแนะจาก { $engineName } และประวัติการเรียกดูของคุณ
+
+##
+
 
 ##
 
@@ -244,3 +243,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = ป
 identity-more-info-link-text =
     .label = ข้อมูลเพิ่มเติม
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
