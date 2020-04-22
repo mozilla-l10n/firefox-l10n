@@ -197,6 +197,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = सानो गर्नुहोस्
 browser-window-close-button =
     .tooltiptext = बन्द गर्नुहोस्
 
