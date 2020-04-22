@@ -17,22 +17,6 @@ browser-main-window-title =
         [private] { -brand-full-name } (Axh kuxh la xaan axh stuul)
        *[default] { -brand-full-name }
     }
-# This is the default window title in case there is a content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Example Title - Mozilla Firefox"
-# "private" - "Example Title - Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-#   $title (String) - Content title string.
-browser-main-window-content-title =
-    { $mode ->
-        [private] { $title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
-       *[default] { $title } - { -brand-full-name }
-    }
 
 ## This is the default window title in case there is content
 ## title to be displayed.
@@ -59,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (Axh kuxh la xaan axh stuul)
        *[other] { $title } - { -brand-full-name } (Axh kuxh la xaan axh stuul)
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = La saji kam yol at sti' tu tatinb'ale'
 
@@ -118,6 +99,9 @@ urlbar-tip-help-icon =
 
 ##
 
+
+##
+
 urlbar-geolocation-blocked =
     .tooltiptext = Kat amajlu ivatz u atinb'ale' uve' at kat axh tu web vaa'.
 urlbar-web-notifications-blocked =
@@ -158,3 +142,9 @@ bookmark-panel =
 
 identity-learn-more =
     .value = Ootzi ka'te
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
