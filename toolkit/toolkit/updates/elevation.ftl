@@ -7,4 +7,5 @@ elevation-update-wizard =
     .title = सॉफ्टवेअर अद्ययावत
 elevation-details-link-label =
     .value = तपशील
+elevation-finished-page = अद्ययावत आधिपासूनच प्रतिष्ठापीत आहे
 elevation-finished-background = अद्ययावत :
