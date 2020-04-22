@@ -7,5 +7,7 @@ elevation-update-wizard =
     .title = Okuzza Obugya Enteekateeka Z'ebyuma Bikalimagezi
 elevation-details-link-label =
     .value = Obulambulukufu
+elevation-error-manual = Osobola okutuukaganya { -brand-short-name } ggwe kennyini nga okyalila akagatta kanoera tikkula ekika ekipya:
 elevation-finished-page = Akatukaganya Katuse Okutteekamu
+elevation-finished-background-page = Eby'okuzza obuggya by'ebyokwerinda n'obutebenkevu bwa { -brand-short-name } biwanuddwa era birindilirwa kuteekebwako.
 elevation-finished-background = Akatuukaganya:
