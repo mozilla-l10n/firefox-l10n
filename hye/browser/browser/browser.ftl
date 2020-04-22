@@ -189,4 +189,7 @@ bookmark-panel =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Փոխանակման տեսախցիկ։
+    .accesskey = C
 popup-all-windows-shared = Ձեր էկրանին բոլոր տեսանելի պատուհանները համաւգտագործուելու են
