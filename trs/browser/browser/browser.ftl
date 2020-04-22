@@ -237,6 +237,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Nagi'iaj lij
+browser-window-close-button =
+    .tooltiptext = Narán
 
 ## WebRTC Pop-up notifications
 
