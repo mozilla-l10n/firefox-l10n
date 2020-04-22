@@ -750,6 +750,9 @@ privacy-header = Browser Privacy
 ## Privacy Section - Logins and Passwords
 
 logins-header = Mga Login at mga Password
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Mga Login at mga Password
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Magtanong kung dapat mag-save ng mga login at password sa mga website
