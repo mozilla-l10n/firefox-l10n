@@ -6,3 +6,8 @@
 elevation-update-wizard =
     .title = Ohjelmistopäivitys
 elevation-finished-page = Päivitys on valmis asennettavaksi
+elevation-more-elevated =
+    Tämä päivitys vaatii järjestelmänvalvojan oikeudet. Päivitys asennetaan,
+    kun { -brand-short-name } käynnistetään uudelleen. Voit käynnistää
+    { -brand-short-name }in uudelleen nyt, jatkaa { -brand-short-name }in käyttöä ja
+    käynnistää sen uudelleen myöhemmin tai hylätä tämän päivityksen.
