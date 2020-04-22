@@ -249,6 +249,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Մուտք տեսախցիկին.
+    .accesskey = C
 popup-select-microphone =
     .value = Մուտք խոսափողին.
     .accesskey = Մ
