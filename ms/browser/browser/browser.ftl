@@ -217,3 +217,6 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-microphone =
+    .value = Mikrofon untuk dikongsi:
+    .accesskey = M
