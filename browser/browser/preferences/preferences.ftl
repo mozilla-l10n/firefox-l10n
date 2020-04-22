@@ -752,6 +752,9 @@ privacy-header = Браузер жекелігі
 ## Privacy Section - Logins and Passwords
 
 logins-header = Логиндер және парольдер
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Логиндер және парольдер
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Веб-сайттар үшін логиндер мен парольдерді сақтауды сұрау
