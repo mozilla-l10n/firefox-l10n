@@ -198,3 +198,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = പങ്കിടുവാനുള്ള മൈക്രോഫോണ്‍:
     .accesskey = ഫ
+popup-all-windows-shared = സ്ക്രീനില്‍ ദൃശ്യമായ എല്ലാ ജാലകങ്ങളും പങ്കിടുന്നു.
