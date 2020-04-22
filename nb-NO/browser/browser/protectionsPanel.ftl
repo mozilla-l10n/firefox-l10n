@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = En feil oppstod ved innsending av rapporten. Prøv igjen senere.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Nettstedet fikset? Send rapport
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Streng
+    .label = Streng
+protections-popup-footer-protection-label-custom = Tilpasset
+    .label = Tilpasset
+protections-popup-footer-protection-label-standard = Standard
+    .label = Standard
