@@ -752,6 +752,9 @@ privacy-header = Kundahára Ñemigua
 ## Privacy Section - Logins and Passwords
 
 logins-header = Tembiapo ñepyrũ ha ñe’ẽñemi
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Tembiapo ñepyrũ ha ñe’ẽñemi
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Eporandu eñongatu hag̃ua tembiapo ñepyrũ ha ñe’ẽñemi ñandutípe
