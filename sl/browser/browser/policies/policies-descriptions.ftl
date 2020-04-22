@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Onemogoči preverjanje privzetega brskalnika ob
 policy-DownloadDirectory = Nastavi in zakleni mapo za prenose.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Omogoči ali onemogoči zavračanje vsebine ter ga po potrebi zakleni.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Omogoči ali onemogoči Encrypted Media Extensions ter jih po potrebi zakleni.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.

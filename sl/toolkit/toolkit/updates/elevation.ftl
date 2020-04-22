@@ -7,7 +7,9 @@ elevation-update-wizard =
     .title = Posodobitev programske opreme
 elevation-details-link-label =
     .value = Podrobnosti
-elevation-error-manual = Program lahko posodobite ročno, če obiščete naslednjo povezavo in prenesete najnovejšo različico:
+elevation-error-manual =
+    { -brand-short-name } lahko posodobite ročno, če obiščete naslednjo povezavo
+    in prenesete najnovejšo različico:
 elevation-finished-page = Posodobitev je na voljo
 elevation-finished-background-page =
     Varnostna posodobitev za { -brand-short-name } je bila prenesena
