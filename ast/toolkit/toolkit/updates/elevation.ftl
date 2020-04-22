@@ -15,3 +15,8 @@ elevation-finished-background-page =
     Baxóse un anovamientu de seguranza y estabilidá pa { -brand-short-name }
                                                y ta tresnáu pa instalase.
 elevation-finished-background = Anovamientu:
+elevation-more-elevated =
+    Esti anovamientu rique de privilexos d'alministrador. L'anovamientu va
+    instalase la próxima vegada qu'anicies { -brand-short-name }. Pues reaniciar
+    { -brand-short-name } agora, siguir trabajando y reaniciar dempués o refugar esti
+    anovamientu.
