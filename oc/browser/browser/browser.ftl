@@ -251,4 +251,10 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Camèra de partejar :
+    .accesskey = C
+popup-select-microphone =
+    .value = Microfòn de partejar :
+    .accesskey = M
 popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.
