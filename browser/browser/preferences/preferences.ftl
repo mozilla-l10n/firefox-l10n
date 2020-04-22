@@ -752,6 +752,9 @@ privacy-header = Privatësi Shfletuesi
 ## Privacy Section - Logins and Passwords
 
 logins-header = Kredenciale Hyrjesh dhe Fjalëkalime
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Kredenciale Hyrjesh dhe Fjalëkalime
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = Pyet të ruhen apo jo kredenciale hyrjesh dhe fjalëkalime për sajte
