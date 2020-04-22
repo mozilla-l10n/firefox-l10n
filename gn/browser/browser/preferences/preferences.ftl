@@ -232,6 +232,10 @@ translate-attribution = Ñe'ẽasaha <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Oĩ'ỹva…
     .accesskey = ĩ
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Eipuru ñemboheko nde apopyvusu oku’éva pegua “{ $localeName }” emonandi hag̃ua ára, aravo, papapy ha ha’ãha.
 check-user-spelling =
     .label = Haingatu jehaikuévo jehechajey
     .accesskey = t
