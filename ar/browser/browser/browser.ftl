@@ -247,3 +247,9 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = الكمرة التي ستُشارك:
+    .accesskey = م
+popup-select-microphone =
+    .value = الميكروفون الذي سيُشارك:
+    .accesskey = ك
