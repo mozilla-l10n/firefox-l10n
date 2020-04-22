@@ -96,4 +96,10 @@ identity-disable-mixed-content-blocking =
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = हाटिञ ला़गित् कैमरा:
+    .accesskey = C
+popup-select-microphone =
+    .value = हा़टिञ ला़गित् माइक्रोपन:
+    .accesskey = M
 popup-all-windows-shared = आमाक्  स्क्रिंन रे जोतो ञेलोगाक् विंडो हा़टिञोक् आ .
