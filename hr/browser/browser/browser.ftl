@@ -246,6 +246,8 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Smanji
 
 ## WebRTC Pop-up notifications
 
