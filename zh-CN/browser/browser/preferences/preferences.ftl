@@ -744,6 +744,9 @@ privacy-header = 浏览器隐私
 ## Privacy Section - Logins and Passwords
 
 logins-header = 登录信息与密码
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = 登录信息与密码
+    .searchkeywords = { -lockwise-brand-short-name }
 # Checkbox to control whether UI is shown to users to save or fill logins/passwords.
 forms-ask-to-save-logins =
     .label = 向您询问是否保存网站的登录名和密码
