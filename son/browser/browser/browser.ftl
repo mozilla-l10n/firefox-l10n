@@ -180,6 +180,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Kaccandi
+browser-window-close-button =
+    .tooltiptext = Daabu
 
 ## WebRTC Pop-up notifications
 
