@@ -209,6 +209,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Arriduci
+browser-window-close-button =
+    .tooltiptext = Chiuji
 
 ## WebRTC Pop-up notifications
 
