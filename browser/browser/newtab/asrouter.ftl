@@ -195,6 +195,8 @@ cfr-whatsnew-lockwise-icon-alt = סמל { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = קבלת התרעות על ססמאות פגיעות
+cfr-whatsnew-passwords-icon-alt = סמל מפתח ססמה פגיעה
 
 ## Picture-in-Picture fullscreen message
 
