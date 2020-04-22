@@ -216,6 +216,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = ཆུང་ཤོས་སྒྱུར
+browser-window-close-button =
+    .tooltiptext = ཁ་རྒྱག
 
 ## WebRTC Pop-up notifications
 
