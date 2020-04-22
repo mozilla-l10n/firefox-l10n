@@ -43,9 +43,6 @@ browser-main-window-content-title-private =
         [macos] { $title } - (مرور ناشناس)‏
        *[other] { $title } - { -brand-full-name } (مرور ناشناس)‏
     }
-
-##
-
 urlbar-identity-button =
     .aria-label = نمایش اطلاعات سایت
 
@@ -108,8 +105,10 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = کمتر تایپ کنید، بیشتر پیدا کنید: تنها از طریق نوار آدرس با { $engineName } جست‌وجو کنید.
-urlbar-search-tips-redirect = جست‌وجوی خود را از اینجا آغاز کنید تا پیشنهادهایی از { $engineName } و تاریخچهٔ مرور خود را هم ببینید.
 urlbar-search-tips-redirect-2 = جست‌وجوی خود را در نوار آدرس تایپ کنید تا پیشنهادهایی از { $engineName } و تاریخچهٔ مرور خود ببینید.
+
+##
+
 
 ##
 
@@ -244,3 +243,9 @@ identity-enable-mixed-content-blocking =
     .accesskey = ف
 identity-more-info-link-text =
     .label = اطلاعات بیشتر
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
