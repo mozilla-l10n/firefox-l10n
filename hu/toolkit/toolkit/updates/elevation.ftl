@@ -7,4 +7,6 @@ elevation-update-wizard =
     .title = Szoftverfrissítés
 elevation-details-link-label =
     .value = Részletek
+elevation-finished-page = A frissítés készen áll a telepítésre
+elevation-finished-background-page = A { -brand-short-name } biztonsági és stabilitási frissítése letöltődött, és telepítésre kész.
 elevation-finished-background = Frissítés:
