@@ -209,3 +209,4 @@ identity-more-info-link-text =
 
 ## WebRTC Pop-up notifications
 
+popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។
