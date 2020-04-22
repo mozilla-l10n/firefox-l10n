@@ -246,6 +246,10 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Lughdaich
+browser-window-close-button =
+    .tooltiptext = Dùin
 
 ## WebRTC Pop-up notifications
 
