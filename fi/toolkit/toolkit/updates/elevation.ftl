@@ -11,6 +11,9 @@ elevation-error-manual =
     { -brand-short-name } voidaan päivittää käsin lataamalla ja
     asentamalla ohjelman uusin versio osoitteesta:
 elevation-finished-page = Päivitys on valmis asennettavaksi
+elevation-finished-background-page =
+    Sovelluksen { -brand-short-name } turvallisuus- ja vakauspäivitys on
+    ladattu, ja se on valmis asennettavaksi.
 elevation-finished-background = Päivitys:
 elevation-more-elevated =
     Tämä päivitys vaatii järjestelmänvalvojan oikeudet. Päivitys asennetaan,
