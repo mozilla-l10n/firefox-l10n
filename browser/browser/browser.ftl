@@ -233,3 +233,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = शेअर करण्याजोगी माइक्रोफोन:
     .accesskey = M
+popup-all-windows-shared = पडद्यावरील सर्व दृष्यास्पद पटलांना शेअर केले जाईल.
