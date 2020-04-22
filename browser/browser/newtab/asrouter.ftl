@@ -209,3 +209,22 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Tümünü göster
     .accesskey = T
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Kolayca güvenli parolalar oluşturun
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } simgesi
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Güvensiz parolalar hakkında uyarılar alın
+cfr-whatsnew-passwords-icon-alt = Güvensiz parola anahtar simgesi
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Görüntü içinde görüntüyü tam ekrana taşıyın
+cfr-whatsnew-pip-fullscreen-body = Görüntü içinde görüntü modunda açtığınız videolara çift tıklayarak onları tam ekran yapabilirsiniz.
+cfr-whatsnew-pip-fullscreen-icon-alt = Görüntü içinde görüntü simgesi

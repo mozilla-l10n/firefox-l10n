@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Küçült
+browser-window-maximize-button =
+    .tooltiptext = Ekranı kapla
+browser-window-restore-down-button =
+    .tooltiptext = Geri küçült
 browser-window-close-button =
     .tooltiptext = Kapat
 

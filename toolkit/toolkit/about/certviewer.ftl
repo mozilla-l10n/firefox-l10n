@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Sertifika makamı
 certificate-viewer-cipher-suite = Şifre paketi
 certificate-viewer-common-name = Yaygın ad
 certificate-viewer-email-address = E-posta adresi
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = { $firstCertName } Sertifikası
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Kuruluş ülkesi
 certificate-viewer-country = Ülke
@@ -95,3 +98,16 @@ certificate-viewer-download-pem = PEM (sertifika)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (zincir)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Bu eklenti kritik olarak işaretlenmiş. Yani istemciler sertifikayı anlamadılarsa sertifikayı reddetmeleri gerekir.
+certificate-viewer-export = Dışa aktar
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Sertifikalarınız
+certificate-viewer-tab-people = Kişiler
+certificate-viewer-tab-servers = Sunucular
+certificate-viewer-tab-ca = Makamlar
+certificate-viewer-tab-unkonwn = Bilinmeyen
