@@ -252,3 +252,4 @@ popup-select-camera =
 popup-select-microphone =
     .value = যেসকল মাইক্রোফোন শেয়ার করা হবে: M
     .accesskey = M
+popup-all-windows-shared = আপনার স্ক্রিনের সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।
