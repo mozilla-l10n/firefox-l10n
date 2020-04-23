@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Kërkoni Te Mesazhet…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Kërkim Global…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Kërkoni te Adresat…">
 <!ENTITY searchAddressesCmd.accesskey "A">
 

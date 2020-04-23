@@ -23,6 +23,13 @@ address-input-type-aria-label =
         [one] { $type } me një adresë, përdorni tastin shigjetë. majtas që të fokusi të kalohet në të
        *[other] { $type } me { $count } adresa, përdorni tastin shigjetë majtas që të fokusi të kalohet në to.
     }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: shtypni tastin Enter që ta përpunoni, tastin Delete që të hiqet.
+       *[other] { $email }: 1 nga { $count }: shtypni tastin Enter që ta përpunoni, tastin Delete që të hiqet.
+    }
 pill-action-edit =
     .label = Përpunoni Adresë
     .accesskey = P
