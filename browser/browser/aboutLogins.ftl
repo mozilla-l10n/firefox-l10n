@@ -47,7 +47,7 @@ login-list-count =
 login-list-sort-label-text = מיון לפי:
 login-list-name-option = שם (A-Z)
 login-list-name-reverse-option = שם (Z-A)
-login-list-breached-option = אתרים פרוצים
+login-list-breached-option = אתרים שנפרצו
 about-logins-login-list-alerts-option = התרעות
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
@@ -59,7 +59,7 @@ login-list-item-title-new-login = כניסה חדשה
 login-list-item-subtitle-new-login = נא להזין את פרטי הכניסה שלך
 login-list-item-subtitle-missing-username = (אין שם משתמש)
 about-logins-list-item-breach-icon =
-    .title = אתר פרוץ
+    .title = אתר שנפרץ
 about-logins-list-item-vulnerable-password-icon =
     .title = ססמה פגיעה
 
