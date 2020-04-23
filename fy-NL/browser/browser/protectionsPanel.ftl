@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Der is in flater bard by it ferstjoeren fan it rapport. Probearje it letter nochris.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Website reparearre? Ferstjoer rapport
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Strang
+    .label = Strang
+protections-popup-footer-protection-label-custom = Oanpast
+    .label = Oanpast
+protections-popup-footer-protection-label-standard = Standert
+    .label = Standert
