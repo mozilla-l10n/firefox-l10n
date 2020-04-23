@@ -15,6 +15,14 @@ address-input-type =
         [one] Campo de entrada { $type } com um endereço
        *[other] Campo de entrada{ $type } com { $count } endereços
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } com um endereço, use a tecla de seta para esquerda para colocar o foco nele.
+       *[other] { $type } com { $count } endereços, use a tecla de seta para esquerda para colocar o foco neles.
+    }
 pill-action-edit =
     .label = Editar endereço
     .accesskey = e
