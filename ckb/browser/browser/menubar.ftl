@@ -210,9 +210,65 @@ menu-tools-web-developer =
 menu-tools-page-source =
     .label = سەرچاوەی پەڕە
     .accesskey = o
+menu-tools-page-info =
+    .label = زانیاری پەڕە
+    .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] هەڵبژاردنەکان
+           *[other] هەڵبژاردەکان
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = نەخشەی هەڵەدۆزی
+    .accesskey = L
 
 ## Window Menu
 
+menu-window-menu =
+    .label = پەنجەرە
+menu-window-bring-all-to-front =
+    .label = هەمووی بهێنە پێشەوە
 
 ## Help Menu
 
+menu-help =
+    .label = یارمەتی
+    .accesskey = H
+menu-help-product =
+    .label = { -brand-shorter-name } یارمەتی
+    .accesskey = H
+menu-help-show-tour =
+    .label = { -brand-shorter-name } گەشت
+    .accesskey = o
+menu-help-import-from-another-browser =
+    .label = هێنان لە وێبگەڕی ترەوە...
+    .accesskey = I
+menu-help-keyboard-shortcuts =
+    .label = قەدبڕەکانی تەختەکلیل
+    .accesskey = K
+menu-help-troubleshooting-info =
+    .label = زانیاری گەڕان بۆ کیشەکان
+    .accesskey = T
+menu-help-feedback-page =
+    .label = ڕەخنەوپێشنیار بنێرە...
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = دووبارە پێکردنەوە بە پێوەکراوی ناچالاکەوە...
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = دووبارە پێکردنەوە بە پێوەکراوی چالاکەوە...
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = ڕاپۆرتکردنی ماڵپەڕی گومڕاکەر
+    .accesskey = D
+menu-help-not-deceptive =
+    .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
+    .accesskey = d
