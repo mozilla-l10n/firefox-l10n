@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimalisearje
+browser-window-maximize-button =
+    .tooltiptext = Maksimalisearje
+browser-window-restore-down-button =
+    .tooltiptext = Omleech opnij ynstelle
 browser-window-close-button =
     .tooltiptext = Slute
 

@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Kontrole op standertbrowser by opstarten útske
 policy-DownloadDirectory = De downloadmap ynstelle en beskoattelje.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ynhâldsblokkearring ynskeakelje of útskeakelje en opsjoneel beskoattelje.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Fersifere media-útwreidingen yn- of útskeakelje en opsjoneel beskoattelje.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
