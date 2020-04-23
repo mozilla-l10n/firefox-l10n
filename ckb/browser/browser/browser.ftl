@@ -68,8 +68,20 @@ urlbar-storage-access-anchor =
     .tooltiptext = پانێڵی ڕێگەپێدانی چالاکی گەڕان بکەرەوە
 urlbar-translate-notification-anchor =
     .tooltiptext = ئەم پەڕەیە وەربگێڕە
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = ڕێکخستنی بڵاوکردنەوەی پەنجەرەکان و شاشەکەت بۆ ئەم ماڵپەڕە
 urlbar-indexed-db-notification-anchor =
     .tooltiptext = پانێڵی پەیامی بیگەی دەرهێڵ بکەرەوە
+urlbar-password-notification-anchor =
+    .tooltiptext = پانێڵی پەیامی پاشەکەوتی وشەی تێپەڕ بکەرەوە
+urlbar-translated-notification-anchor =
+    .tooltiptext = ڕێکخستنی وەرگێڕانی پەڕە
+urlbar-plugins-notification-anchor =
+    .tooltiptext = ڕێکخستنی ئەو پێوەکراوانەی لە کاردان
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = ڕێکخستنی بڵاوکردنەوەی کامێرا و مایکرۆفۆن لەگەڵ ئەم ماڵپەڕە
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = پانێڵی لێدانی خۆکار بکەرەوە
 urlbar-tip-help-icon =
     .title = یارمەتی بەدەستبهێنە
 urlbar-search-tips-confirm = باشە، تێگەشتم
@@ -90,6 +102,26 @@ urlbar-tip-icon-description =
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = تۆ زانیاری شوێنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.
+urlbar-xr-blocked =
+    .tooltiptext = تۆ چوونەناوی ڕاستی گریمانەییت بۆ ئەم ماڵپەڕە بلۆک کرد.
+urlbar-web-notifications-blocked =
+    .tooltiptext = تۆ ئاگانامەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.
+urlbar-camera-blocked =
+    .tooltiptext = تۆ کامێراکەت بۆ ئەم ماڵپەڕە بلۆک کرد.
+urlbar-microphone-blocked =
+    .tooltiptext = تۆ مایکرۆفۆنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.
+urlbar-screen-blocked =
+    .tooltiptext = تۆ بڵاوکردنەوەی کامێرات بۆ ئەم ماڵپەڕە بلۆک کرد.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = ئەم دڵخوازە دەستکاریبکە ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = ئەم پەڕە دڵخواز بکە { $shortcut }
 
 ## Page Action Context Menu
 
