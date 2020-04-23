@@ -47,42 +47,115 @@ newtab-topsites-add-button = زیادکردن
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = تۆ دڵنیای کە هەموو شتێکی ئەم پەڕەیە بسڕیتەوە لە مێژووی کار؟
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = ئەم کارە پاشگەزبوونەوەی نیە.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = پێڕست بکەرەوە
+    .aria-label = پێڕست بکەرەوە
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = بیسڕەوە
+    .aria-label = بیسڕەوە
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = پێڕست بکەرەوە
+    .aria-label = کردنەوەی پێکهاتەی پێڕست بۆ { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = ئەم ماڵپەڕە دەستکاری بکە
+    .aria-label = ئەم ماڵپەڕە دەستکاری بکە
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = دەستکاریکردن
+newtab-menu-open-new-window = لە پەنجەرەیەکی نوێ بیکەرەوە
+newtab-menu-open-new-private-window = لە پەنجەرەیەکی نویی تایبەت بیکەرەوە
+newtab-menu-dismiss = پشتگوێخستن
+newtab-menu-pin = هەڵواسین
+newtab-menu-unpin = لابردن
+newtab-menu-delete-history = سڕینەوە لە مێژووی کار
+newtab-menu-save-to-pocket = پاشەکەوتکردن لە { -pocket-brand-name }
+newtab-menu-delete-pocket = سڕینەوە لە { -pocket-brand-name }
+newtab-menu-archive-pocket = ئەرشیف کردن لە { -pocket-brand-name }
+newtab-menu-show-privacy-info = سپۆنسەرەکانمان و تایبەتێتی تۆ
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = تەواو
+newtab-privacy-modal-header = تایبەتێتی تۆ گرنگە
+newtab-privacy-modal-link = فێربە چۆن تایبەتێتی کاردەکات لە بازدەرێکی نوێ
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = دڵخواز بسڕەوە
+# Bookmark is a verb here.
+newtab-menu-bookmark = دڵخواز
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = بەستەری داگرتن لەبەربگرەوە
+newtab-menu-go-to-download-page = بڕۆ بۆ پەڕەی داگرتن
+newtab-menu-remove-download = سڕینەوە لە مێژووی کار
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] کردنەوەی لە بوخچەدا
+       *[other] بوخچەی لەخۆگری بکەرەوە
+    }
+newtab-menu-open-file = پەڕگە بکەرەوە
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = سەردانیکراو
+newtab-label-bookmarked = دڵخوازکراو
+newtab-label-removed-bookmark = دڵخواز سڕایەوە
+newtab-label-recommended = باوە
+newtab-label-saved = پاشەکەوتکردن لە { -pocket-brand-name }
+newtab-label-download = داگیراو
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · سپۆنسەرکراو
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = بەش بسڕەوە
+newtab-section-menu-collapse-section = داخستنەوەی بەش
+newtab-section-menu-expand-section = فراوانکردنی بەش
+newtab-section-menu-manage-section = ڕێکخستنی بەش
+newtab-section-menu-manage-webext = ڕێکخستنی پێوەکراو
+newtab-section-menu-add-topsite = ماڵپەڕی سەرەکی زیادبکە
+newtab-section-menu-add-search-engine = بزوێنەری گەڕان زیادبکە
+newtab-section-menu-move-up = بیبە سەرەوە
+newtab-section-menu-move-down = بیبە خوارەوە
+newtab-section-menu-privacy-notice = تێبینی لەسەر تایبەتێتی
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = داخستنەوەی بەش
+newtab-section-expand-section-label =
+    .aria-label = فراوانکردنی بەش
 
 ## Section Headers.
 
+newtab-section-header-topsites = ماڵپەڕە سەرەکییەکان
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
