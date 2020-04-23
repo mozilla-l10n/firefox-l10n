@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Mayroong isang mali na pagpapadala ng ulat. Subukang muli mamaya.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Ayos na ang site? Magpadala ng ulat
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Strikto
+    .label = Strikto
+protections-popup-footer-protection-label-custom = Pasadya
+    .label = Pasadya
+protections-popup-footer-protection-label-standard = Standard
+    .label = Standard
