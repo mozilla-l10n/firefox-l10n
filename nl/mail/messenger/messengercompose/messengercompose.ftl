@@ -15,6 +15,21 @@ address-input-type =
         [one] Invoerveld { $type } met een adres
        *[other] Invoerveld { $type } met { $count } adressen
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } met een adres, gebruik de linkerpijltoets om de focus erop te zetten.
+       *[other] { $type } met { $count } adressen, gebruik de linkerpijltoets om de focus erop te zetten.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: druk Enter om te bewerken, Delete om te verwijderen.
+       *[other] { $email }, 1 van { $count }: druk Enter om te bewerken, Delete om te verwijderen.
+    }
 pill-action-edit =
     .label = Adres bewerken
     .accesskey = d
