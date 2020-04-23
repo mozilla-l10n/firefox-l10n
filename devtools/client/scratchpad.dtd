@@ -90,7 +90,7 @@
 <!ENTITY display.accesskey            "D">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "예쁘게 보기">
+<!ENTITY pprint.label                 "예쁜 출력">
 <!ENTITY pprint.key                   "p">
 <!ENTITY pprint.accesskey             "P">
 
