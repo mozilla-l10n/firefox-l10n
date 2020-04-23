@@ -153,6 +153,8 @@ page-action-manage-extension =
     .label = Administroni Zgjerime…
 page-action-remove-from-urlbar =
     .label = Hiqe nga Shtyllë Adresash
+page-action-remove-extension =
+    .label = Hiqe Zgjerimin
 
 ## Auto-hide Context Menu
 
@@ -248,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimizojeni
+browser-window-maximize-button =
+    .tooltiptext = Maksimizoje
+browser-window-restore-down-button =
+    .tooltiptext = Riktheje Poshtë
 browser-window-close-button =
     .tooltiptext = Mbylleni
 
