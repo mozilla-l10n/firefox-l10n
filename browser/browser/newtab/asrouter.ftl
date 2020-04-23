@@ -209,3 +209,22 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Shihini Krejt
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Krijoni me lehtësi fjalëkalime të sigurt
+cfr-whatsnew-lockwise-body = Është e vështirë të mendohen fjalëkalime unikë, të sigurt, për çdo llogari. Kur krijohet një fjalëkalim, përzgjidhni fushën e fjalëkalimit për të përdorur një fjalëkalim të sigurt, të prodhuar nga { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Ikonë { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+cfr-whatsnew-passwords-header = Merrni sinjalizime rreth fjalëkalimesh të cenueshëm
+cfr-whatsnew-passwords-body = Hacker-ët e dinë që njerësit përdorin të njëjtët fjalëkalime. Nëse përdorni të njëjtin fjalëkalim në shumë sajte, dhe një nga këta sajte është parë në një cenim të dhënash, do të shihni një sinjalizim te { -lockwise-brand-short-name } për të ndryshuar fjalëkalimin tuaj në këto sajte.
+cfr-whatsnew-passwords-icon-alt = Ikonë dry fjalëkalimi të cenueshëm
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-header = Bëni foto-në-foto sa krejt ekrani
