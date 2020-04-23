@@ -221,11 +221,13 @@ cfr-doorhanger-milestone-ok-button = Näytä kaikki
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Luo turvallisia salasanoja helposti
+cfr-whatsnew-lockwise-body = Yksilöllisen ja turvallisen salasanan miettiminen jokaiselle eri tilille on haastavaa. Kun luot salasanaa, valitse salasanakenttä käyttääksesi { -brand-shorter-name }in luomaa turvallista salasanaa.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-kuvake
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Vastaanota hälytyksiä vaarantuneista salasanoista
+cfr-whatsnew-passwords-body = Pahantahtoiset hakkerit tietävät, että ihmiset käyttävät samoja salasanoja eri palveluissa. Jos käytit samaa salasanaa useilla sivustoilla, ja jokin näistä sivustoista joutuu tietomurron kohteeksi, { -lockwise-brand-short-name } näyttää sinulle hälytyksen ja pyytää vaihtamaan salasanasi kyseisellä sivustolla.
 cfr-whatsnew-passwords-icon-alt = Vaarantuneen salasanan avainkuvake
 
 ## Picture-in-Picture fullscreen message
