@@ -23,6 +23,13 @@ address-input-type-aria-label =
         [one] { $type } com um endereço, use a tecla de seta para esquerda para colocar o foco nele.
        *[other] { $type } com { $count } endereços, use a tecla de seta para esquerda para colocar o foco neles.
     }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: tecle Enter para editar, Del para remover.
+       *[other] { $email }, 1 de { $count }: tecle Enter para editar, Del para remover.
+    }
 pill-action-edit =
     .label = Editar endereço
     .accesskey = e
