@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = Minimaliseren
 browser-window-maximize-button =
     .tooltiptext = Maximaliseren
+browser-window-restore-down-button =
+    .tooltiptext = Omlaag herstellen
 browser-window-close-button =
     .tooltiptext = Sluiten
 
@@ -259,8 +261,8 @@ browser-window-close-button =
 
 popup-select-camera =
     .value = Te delen camera:
-    .accesskey = c
+    .accesskey = C
 popup-select-microphone =
     .value = Te delen microfoon:
-    .accesskey = m
+    .accesskey = M
 popup-all-windows-shared = Alle zichtbare vensters op uw scherm worden gedeeld.
