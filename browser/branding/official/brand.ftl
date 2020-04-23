@@ -13,11 +13,35 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-shorter-name = Firefox
--brand-short-name = Firefox
+-brand-shorter-name =
+    { $case ->
+        [elative] Firefoxista
+        [genetive] Firefoxin
+        [illative] Firefoxiin
+       *[nominative] Firefox
+    }
+-brand-short-name =
+    { $case ->
+        [elative] Firefoxista
+        [genetive] Firefoxin
+        [illative] Firefoxiin
+       *[nominative] Firefox
+    }
 -brand-full-name = Mozilla Firefox
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
--brand-product-name = Firefox
--vendor-short-name = Mozilla
+-brand-product-name =
+    { $case ->
+        [elative] Firefoxista
+        [genetive] Firefoxin
+        [illative] Firefoxiin
+       *[nominative] Firefox
+    }
+-vendor-short-name =
+    { $case ->
+        [allative] Mozillalle
+        [elative] Mozillasta
+        [genetive] Mozillan
+       *[nominative] Mozilla
+    }
 trademarkInfo = Firefox ja Firefoxin logo ovat Mozilla-säätiön tavaramerkkejä.
