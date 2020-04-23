@@ -97,3 +97,9 @@ certificate-viewer-download-pem = PEM (certifikat)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lanac)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-people = Osobe
+certificate-viewer-tab-servers = Poslužitelji
+certificate-viewer-tab-unkonwn = Nepoznato
