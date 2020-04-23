@@ -31,6 +31,7 @@ app-basics-title = Informazioni di base
 app-basics-name = Nome
 app-basics-version = Versione
 app-basics-build-id = ID build
+app-basics-distribution-id = ID distribuzione
 app-basics-update-channel = Canale di aggiornamento
 app-basics-update-dir = Cartella aggiornamento
 app-basics-update-history = Cronologia aggiornamenti
