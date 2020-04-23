@@ -238,6 +238,10 @@ translate-attribution = Pśełožki wót <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wuwześa…
     .accesskey = W
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Nastajenja wašogo źěłowego systema za „{ $localeName }“ wužywaś, aby se datumy, case, licby a měry formatěrowali.
 check-user-spelling =
     .label = Pśi pisanju pšawopis kontrolěrowaś
     .accesskey = P

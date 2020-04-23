@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Kontrolu za standardnym wobglědowakom pśi sta
 policy-DownloadDirectory = Nastajśo a zastajśo ześěgnjeński zarědnik.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Blokěrowanje wopśimjeśa zmóžniś abo znjemóžniś a jo na žycenje zastajiś.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Encrypted Media Extension zmóžniś abo znjemóžniś a jo na žycenje zastajiś.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
