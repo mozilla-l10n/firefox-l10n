@@ -48,6 +48,26 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = پانێڵی پەیامی دامەزراندن بکەرەوە
+urlbar-web-notification-anchor =
+    .tooltiptext = دیاریبکە چ کاتێک دەتەوێت ئاگانامەت بۆ بێت لەڕێگەی ماڵپەڕەوە
+urlbar-midi-notification-anchor =
+    .tooltiptext = پانێڵێ MIDI بکەرەوە
+urlbar-eme-notification-anchor =
+    .tooltiptext = ڕێکخستنی بەکارهێنانی نەرمەکاڵای DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = پانێڵی ڕێگەپێدانی وێب بکەرەوە
+urlbar-translate-notification-anchor =
+    .tooltiptext = ئەم پەڕەیە وەربگێڕە
+urlbar-tip-help-icon =
+    .title = یارمەتی بەدەستبهێنە
+urlbar-search-tips-confirm = باشە، تێگەشتم
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = زانیاری:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -63,18 +83,60 @@ urlbar-identity-button =
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = زیادی بکە بۆ توڵی ناونیشان
+page-action-manage-extension =
+    .label = ڕێکخستنی پێوەکراو...
+page-action-remove-from-urlbar =
+    .label = سڕینەوە لە توڵی ناونیشان
+page-action-remove-extension =
+    .label = سڕینەوەی پێوەکراو
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = شاردنەوەی توڵامراز
+    .accesskey = H
+full-screen-exit =
+    .label = لە دۆخی پڕاوپڕی شاشە دەرچۆ
+    .accesskey = F
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = لەم کاتەدا، بگەڕێ لەگەڵ:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = گۆڕینی ڕێکخستنەکانی گەڕان
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = گۆڕینی ڕێکخستنەکانی گەڕان
+search-one-offs-context-open-new-tab =
+    .label = گەڕان لە بازدەری نوێ
+    .accesskey = T
+search-one-offs-context-set-as-default =
+    .label = بیکە بە گەڕۆکی سەرەکی
+    .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = بزوێنەری سەرەکی گەڕان دابنێ بۆ پەنجەرەی تایبەت
+    .accesskey = P
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت
+    .accesskey = S
+bookmark-panel-done-button =
+    .label = تەواو
 
 ## Identity Panel
 
+identity-connection-not-secure = پەیوەندی پارێزراو نیە
+identity-connection-secure = پەیوەندی پارێزراوە
+identity-connection-internal = ئەمە پەڕەیەکی پارێزراوە { -brand-short-name }.
+identity-connection-file = ئەم پەڕەیە پاشەکەوتکراوە لە ناو کۆمپیوتەرەکەت.
+identity-extension-page = ئەم پەڕەیە بارکراوە لە پێوەکراوێکەوە.
 
 ## Window controls
 
