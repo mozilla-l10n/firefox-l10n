@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Autoritet Dëshmish
 certificate-viewer-cipher-suite = Suitë Shifrimi
 certificate-viewer-common-name = Emër i Rëndomtë
 certificate-viewer-email-address = Adresë Email
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Dëshmi për { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Vend Regjistrimi
 certificate-viewer-country = Vend
@@ -91,3 +94,16 @@ certificate-viewer-download-pem = PEM (dëshmi)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (zinxhir)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Këtij zgjerimi i është vënë shenjë si kritik, që do të thotë se klientët duhet ta hedhin tej dëshminë, nëse nuk e kuptojnë.
+certificate-viewer-export = Eksporto
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Dëshmitë Tuaja
+certificate-viewer-tab-people = Persona
+certificate-viewer-tab-servers = Shërbyes
+certificate-viewer-tab-ca = Autoritete
+certificate-viewer-tab-unkonwn = E panjohur

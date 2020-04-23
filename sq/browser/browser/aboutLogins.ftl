@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Hape menunë
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importoni Fjalëkalime…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importoni nga Tjetër Shfletues…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Renditi sipas:
 login-list-name-option = Emrash (A-Z)
 login-list-name-reverse-option = Emrash (Z-A)
 login-list-breached-option = Sajte të Cenuar
+about-logins-login-list-alerts-option = Sinjalizime
 login-list-last-changed-option = Ndryshuar Së Fundi
 login-list-last-used-option = Përdorur Së Fundi
 login-list-intro-title = S’u gjetën kredenciale hyrjesh
@@ -61,6 +60,8 @@ login-list-item-subtitle-new-login = Jepni kredencialet tuaja të hyrjes
 login-list-item-subtitle-missing-username = (pa emër përdoruesi)
 about-logins-list-item-breach-icon =
     .title = Sajt i cenuar
+about-logins-list-item-vulnerable-password-icon =
+    .title = Fjalëkalim i cenueshëm
 
 ## Introduction screen
 
@@ -160,10 +161,25 @@ confirm-discard-changes-dialog-confirm-button = Hidhe tej
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Cenim Sajti
 breach-alert-text = Që nga hera e fundit që përditësuat hollësi të kredencialeve tuaja të hyrjeve, te ky sajt ka patur rrjedhje ose vjedhje fjalëkalimesh. Që të mbroni llogarinë tuaj, ndryshoni fjalëkalimin tuaj për të.
 breach-alert-link = Mësoni më tepër mbi këtë cenim.
 breach-alert-dismiss =
     .title = Mbylle këtë sinjalizim
+about-logins-breach-alert-date = Ky cenim ndodhi më { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Kalo te { $hostname }
+about-logins-breach-alert-learn-more-link = Mësoni më tepër
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Fjalëkalim i Cenueshëm
+about-logins-vulnerable-alert-text2 = Ky fjalëkalim është përdorur në një tjetër llogari, që ka gjasa të jetë përfshirë në një cenim të dhënash. Ripërdorimi i kredencialeve i vë në rrezik krejt llogaritë tuaja. Ndryshojeni këtë fjalëkalim.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Kalo te { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Mësoni më tepër
 
 ## Error Messages
 
