@@ -147,12 +147,6 @@ ctrl-tab-recently-used-order =
 open-new-link-as-tabs =
     .label = פתיחת קישורים בלשוניות במקום בחלונות חדשים
     .accesskey = ח
-warn-on-close-multiple-tabs =
-    .label = הזהרה בעת סגירת מספר לשוניות
-    .accesskey = ז
-warn-on-open-many-tabs =
-    .label = הזהרה בעת פתיחה של מספר לשוניות שעשויה להאט את { -brand-short-name }
-    .accesskey = פ
 switch-links-to-new-tabs =
     .label = מעבר מיידי בפתיחה של קישור בלשונית חדשה
     .accesskey = מ
@@ -1025,9 +1019,6 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = חריגות…
     .accesskey = ר
-permissions-addon-install-warning =
-    .label = הזהרה כאשר אתרים מנסים להתקין תוספות
-    .accesskey = ה
 permissions-addon-exceptions =
     .label = חריגות…
     .accesskey = ח
@@ -1074,9 +1065,6 @@ security-enable-safe-browsing-link = מידע נוסף
 security-block-downloads =
     .label = חסימת הורדות מסוכנות
     .accesskey = ה
-security-block-uncommon-software =
-    .label = הזהרה על תוכנות לא נפוצות ותכנות לא רצויות
-    .accesskey = ת
 
 ## Privacy Section - Certificates
 
