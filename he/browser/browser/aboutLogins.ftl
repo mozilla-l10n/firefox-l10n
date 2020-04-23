@@ -144,6 +144,7 @@ confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו
 ## Breach Alert notification
 
 breach-alert-text = ססמאות הודלפו או נגנבו מאתר זה מאז שעדכנת לאחרונה את פרטי הכניסה שלך. יש לשנות את הססמה שלך כדי להגן על חשבונך.
+breach-alert-link = מידע נוסף על דליפה זו.
 breach-alert-dismiss =
     .title = סגירת התראה זו
 # Variables:
