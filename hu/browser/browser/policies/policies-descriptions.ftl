@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Az alapértelmezett böngésző ellenőrzés ki
 policy-DownloadDirectory = A letöltési könyvtár beállítása és zárolása.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = A Tartalomblokkolás engedélyezése vagy letiltása, és válaszható módon, annak zárolása.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = A Titkosított médiakiterjesztések engedélyezése vagy letiltása, és válaszható módon, annak zárolása.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.

@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = Kis méret
 browser-window-maximize-button =
     .tooltiptext = Maximalizálás
+browser-window-restore-down-button =
+    .tooltiptext = Előző méret
 browser-window-close-button =
     .tooltiptext = Bezárás
 
