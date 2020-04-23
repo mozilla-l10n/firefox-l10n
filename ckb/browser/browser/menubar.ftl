@@ -94,22 +94,122 @@ menu-view-synced-tabs-sidebar =
 menu-view-full-zoom =
     .label = زووم
     .accesskey = Z
+menu-view-full-zoom-enlarge =
+    .label = هێنانەپێش
+    .accesskey = I
+menu-view-full-zoom-reduce =
+    .label = ڕۆچوونی
+    .accesskey = O
+menu-view-full-zoom-actual-size =
+    .label = قەبارەی ڕاستی
+    .accesskey = A
+menu-view-full-zoom-toggle =
+    .label = تەنها دەقەکان زووم بکە
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = شێوازی پەڕە
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = بێ شێواز
+    .accesskey = n
+menu-view-page-basic-style =
+    .label = شێوازی پەڕەی ئاسایی
+    .accesskey = B
+menu-view-charset =
+    .label = کۆدکردنی دەق
+    .accesskey = c
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = بیکە پڕاوپڕی شاشە
+    .accesskey = F
+menu-view-exit-full-screen =
+    .label = لە پڕاوپڕی شاشە دەرچۆ
+    .accesskey = F
+menu-view-full-screen =
+    .label = پڕاوپڕ
+    .accesskey = F
 
 ##
 
+menu-view-show-all-tabs =
+    .label = هەموو بازدەرەکان پیشان بدە
+    .accesskey = A
+menu-view-bidi-switch-page-direction =
+    .label = ئاڕاستەی پەڕە بگۆڕە
+    .accesskey = D
 
 ## History Menu
 
+menu-history =
+    .label = مێژوو
+    .accesskey = s
+menu-history-show-all-history =
+    .label = هەموو مێژووی کار پیشان بدە
+menu-history-clear-recent-history =
+    .label = دووا مێژووی بەکارهێنان بسڕەوە...
+menu-history-synced-tabs =
+    .label = هاوکاتگەری بازدەرەکان
+menu-history-restore-last-session =
+    .label = دانیشتنی پێشوو بهێنەوە
+menu-history-hidden-tabs =
+    .label = بازدەری شاراوە
+menu-history-undo-menu =
+    .label = دووا بازدەری داخراو
+menu-history-undo-window-menu =
+    .label = دووا پەنجەرەی داخراو
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = دڵخوازەکان
+    .accesskey = B
+menu-bookmarks-show-all =
+    .label = هەموو دڵخوازەکان پیشان بدە
+menu-bookmark-this-page =
+    .label = ئەم پەرەیە دڵخواز بکە
+menu-bookmark-edit =
+    .label = ئەم دڵخوازە دەستکاریبکە
+menu-bookmarks-all-tabs =
+    .label = هەموو بازدەرەکان دڵخواز بکە...
+menu-bookmarks-toolbar =
+    .label = توڵامرازی دڵخوازەکان
+menu-bookmarks-other =
+    .label = دڵخوازی تر
+menu-bookmarks-mobile =
+    .label = دڵخوازەکانی مۆبایل
 
 ## Tools Menu
 
+menu-tools =
+    .label = ئامرازەکان
+    .accesskey = T
+menu-tools-downloads =
+    .label = داگرتنەکان
+    .accesskey = D
+menu-tools-addons =
+    .label = پێوەکراوەکان
+    .accesskey = A
+menu-tools-fxa-sign-in =
+    .label = بچۆژوورەوە بۆ { -brand-product-name }...
+    .accesskey = g
+menu-tools-turn-on-sync =
+    .label = کارپێکردنی { -sync-brand-short-name }…
+    .accesskey = n
+menu-tools-sync-now =
+    .label = هاوکاتگەری بکە ئێستا
+    .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = دووبارە ببەستەوە بۆ { -brand-product-name }…
+    .accesskey = R
+menu-tools-web-developer =
+    .label = گەشەپێدەری وێب
+    .accesskey = W
+menu-tools-page-source =
+    .label = سەرچاوەی پەڕە
+    .accesskey = o
 
 ## Window Menu
 
