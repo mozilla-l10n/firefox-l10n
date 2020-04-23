@@ -156,16 +156,39 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = ماڵپەڕە سەرەکییەکان
+newtab-section-header-highlights = نیشانەکردن
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = پێشنیازکراوە لە لایەن { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = دەست بکە بە گەڕان، ئێمەش چەن بابەتێک باشت پیشان دەدەین، ڤیدیۆ، چەند پەرەیەکی تر کە پێشتر سەردانت کردووە یان دڵخوازت کردووە.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = هەموویت ئەنجام دا. کاتێکی تر وەرەوە بۆ چیرۆکی زیاتر لە { $provider }وە. ناتوانیت چاوەڕی بکەیت؟ بابەتێکی بەناوبانگ هەڵبژێرە بۆ ئەوەی چیرۆکی نایاب بدۆزیتەوە لە هەموو وێب.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = هەموویت ئەنجام دا!
+newtab-discovery-empty-section-topstories-content = جارێکی تر بگەرێوە بۆ چیرۆکی تر
+newtab-discovery-empty-section-topstories-try-again-button = دووبارە هەوڵ بدەرەوە
+newtab-discovery-empty-section-topstories-loading = باردەکرێت...
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = ئوپس! وا هەموو بەشەکە باردەکەین، بەڵام بە تەواوی نا.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = بابەتی بەناوبانگ:
+newtab-pocket-more-recommendations = پێشنیازکراوی زیاتر
+newtab-pocket-learn-more = زیاتر بزانە
+newtab-pocket-cta-button = بەدەستهێنانی { -pocket-brand-name }
+newtab-pocket-cta-text = چیرۆکە دڵخوازەکانت پاشەکەوت بکە لە { -pocket-brand-name }، مێشکت پڕ بکە لە خوێندنەوەی دڵڕفێن.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = ئوپس! هەڵەیەک ڕوویدا لە کاتی بارکردنی ئەم ناوەڕۆکە.
+newtab-error-fallback-refresh-link = پەڕە نوێبکەرەوە بۆ هەوڵدانێکی تر.
