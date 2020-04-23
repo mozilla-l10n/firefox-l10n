@@ -147,6 +147,7 @@ breach-alert-text = ססמאות הודלפו או נגנבו מאתר זה מא
 breach-alert-link = מידע נוסף על דליפה זו.
 breach-alert-dismiss =
     .title = סגירת התראה זו
+about-logins-breach-alert-date = דליפה זו אירעה ב־{ DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = מעבר אל { $hostname }

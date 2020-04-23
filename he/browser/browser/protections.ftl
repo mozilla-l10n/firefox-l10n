@@ -103,7 +103,23 @@ info-known-breaches-found =
         [one] דליפת נתונים מוכרת חשפה מידע עליך
        *[other] דליפות נתונים מוכרות חשפו מידע עליך
     }
+# This string is displayed after a large numeral that indicates the total number
+# of exposed passwords. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+info-exposed-passwords-found =
+    { $count ->
+        [one] ססמה אחת נחשפה בכל הדליפות
+       *[other] ססמאות נחשפו בכל הדליפות
+    }
 full-report-link = הצגת הדוח המלא ב־<a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+# This string is displayed after a large numeral that indicates the total number
+# of saved logins which may have been exposed. Don’t add $count to
+# your localization, because it would result in the number showing twice.
+password-warning =
+    { $count ->
+        [one] יתכן שכניסה שמורה אחת נחשפה בדליפת נתונים. מומלץ לשנות את הססמה הזאת לטובת אבטחה מקוונת טובה יותר. <a data-l10n-name="lockwise-link"> הצגת כניסות שמורות</a>
+       *[other] יתכן שכניסות שמורות נחשפו בדליפת נתונים. מומלץ לשנות את הססמאות האלו לטובת אבטחה מקוונת טובה יותר. <a data-l10n-name="lockwise-link"> הצגת כניסות שמורות</a>
+    }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
