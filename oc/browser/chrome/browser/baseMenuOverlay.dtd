@@ -29,7 +29,7 @@
 <!ENTITY helpSafeMode.stop.label       "Reaviar, moduls activats…">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY helpTroubleshootingInfo.label      "Entresenhas de depanatge">
+<!ENTITY helpTroubleshootingInfo.label      "Informacions de depanatge">
 <!ENTITY helpTroubleshootingInfo.accesskey  "d">
 
 <!ENTITY helpFeedbackPage.label      "Balhar vòstre vejaire…">
