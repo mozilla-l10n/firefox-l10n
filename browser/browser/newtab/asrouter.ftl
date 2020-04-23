@@ -228,3 +228,5 @@ cfr-whatsnew-passwords-icon-alt = Ikonë dry fjalëkalimi të cenueshëm
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Bëni foto-në-foto sa krejt ekrani
+cfr-whatsnew-pip-fullscreen-body = Kur hapni një video brenda një dritareje pezull, tani mundeni të dyklikoni mbi atë dritare për ta kaluar sa krejt ekrani.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikonë foto-në foto
