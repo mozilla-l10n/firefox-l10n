@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "S">
 <!ENTITY removeSearchEngine.label         "Hiqe">
 <!ENTITY removeSearchEngine.accesskey     "q">
+
+<!ENTITY minimizeToTray.label             "Kur minimizohet &brandShortName;-i, shpjere te shtylla">
+<!ENTITY minimizeToTray.accesskey         "m">

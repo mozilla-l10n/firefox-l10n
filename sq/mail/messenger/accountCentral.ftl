@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 account-central-title = Mirë se vini te { -brand-full-name }
+account-settings = Rregullime Llogarie
+#   $accounts (Number) - the number of configured accounts
 setup-title = Zgjidhni Ç’të Ujdiset
 about-title = Rreth { -brand-full-name }-it
 resources-title = Burime
@@ -40,3 +42,10 @@ explore-link = Eksploroni Veçori
 support-link = Asistencë
 involved-link = Përfshihuni
 developer-link = Dokumentim Për Zhvilluesit
+read = Lexoni mesazhe
+compose = Shkruani një mesazh të ri
+search = Kërkoni në mesazhe
+filter = Administroni filtra mesazhesh
+nntp-subscription = Administroni pajtime në grupe lajmesh
+rss-subscription = Administroni pajtime në prurje
+e2e = Fshehtëzim Skaj-Më-Skaj
