@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Došlo je do greške prilikom slanja izvještaja. Pokušaj ponovo kasnije.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Stranica je ispravljena? Pošaljite izvještaj
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Strogo
+    .label = Strogo
+protections-popup-footer-protection-label-custom = Prilagođeno
+    .label = Prilagođeno
+protections-popup-footer-protection-label-standard = Standardno
+    .label = Standardno

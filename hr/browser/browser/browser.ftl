@@ -105,7 +105,7 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tipkaj manje, nađi više: Traži { $engineName } direktno u tvojoj adresnoj traci.
-urlbar-search-tips-redirect-2 = Započni tvoju pretragu u adresnoj traci da biste vidjeli prijedloge od { $engineName } i tvoju povijest pregledavanja.
+urlbar-search-tips-redirect-2 = Započni pretragu u adresnoj traci za prikaz prijedloga od { $engineName } i tvoju povijest pregledavanja.
 
 ##
 
@@ -153,6 +153,8 @@ page-action-manage-extension =
     .label = Upravljaj proširenjem …
 page-action-remove-from-urlbar =
     .label = Ukloni iz adresne trake
+page-action-remove-extension =
+    .label = Ukloni porširenje
 
 ## Auto-hide Context Menu
 
@@ -248,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Smanji
+browser-window-maximize-button =
+    .tooltiptext = Proširi
 browser-window-close-button =
     .tooltiptext = Zatvori
 
