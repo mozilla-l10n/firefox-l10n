@@ -29,3 +29,9 @@ restore-page-close-button =
 
 welcome-back-tab-title = سەرکەوتوو بوو!
 welcome-back-page-title = سەرکەوتوو بوو!
+welcome-back-page-info = { -brand-short-name } ئێستا ئامادەیە بۆ ڕۆشتن.
+welcome-back-restore-button =
+    .label = با بڕۆین!
+    .accesskey = L
+welcome-back-restore-all-label = هەموو پەنجەرە و بازدەرەکان بهێنەوە
+welcome-back-restore-some-label = تەنها ئەوە بهێنەوە کە خۆت دەتەوێت
