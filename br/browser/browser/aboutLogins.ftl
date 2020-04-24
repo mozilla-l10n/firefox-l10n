@@ -164,10 +164,12 @@ confirm-discard-changes-dialog-confirm-button = Dilezel
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Fuadur el lec'hienn
 breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech ziwezhañ m'ho peus hizivaet ho titouroù kennaskañ. Cheñchit ho ker-tremen evit gwareziñ ho kont.
 breach-alert-link = Gouzout hiroc'h a-zivout ar frailh.
 breach-alert-dismiss =
     .title = Serriñ ar galv-diwall-mañ.
+about-logins-breach-alert-date = C'hoarvezet eo bet ar fuadur d'ar { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Mont da { $hostname }
@@ -176,6 +178,7 @@ about-logins-breach-alert-learn-more-link = Gouzout hiroc'h
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ger-tremen bresk
+about-logins-vulnerable-alert-text2 = Ar ger-tremen-mañ a zo bet implijet en ur gont-all ha marteze eo bet lakaet en arvar abalamour d'ur fuadur roadennoù. Implijout en-dro an titouroù-se a lak holl kontoù ac'hanoc'h en arvar. Cheñchit ar ger-tremen-mañ.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Mont da { $hostname }
