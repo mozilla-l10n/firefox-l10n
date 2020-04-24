@@ -15,11 +15,19 @@ about-config-search-input =
 
 about-config-intro-warning-title = Pozōr!
 about-config-intro-warning-text = Skuli zmiany zaawansowanych nasztalowań może sie pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
-about-config-intro-warning-checkbox = Dej mi znać ô ôtwiyraniu tyj zaawansowanyj kōnfiguracyje.
-about-config-intro-warning-button = Akceptuja te ryzyko. Dalij.
+about-config-intro-warning-checkbox = Dej mi znać ô ôtwiyraniu tyj zaawansowanyj kōnfiguracyje
+about-config-intro-warning-button = Akceptuja te ryzyko. Dalij
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Zmiana tyj kōnfiguracyje może pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+about-config-page-title = Zaawansowano kōnfiguracyjo
+about-config-search-input1 =
+    .placeholder = Szukej po mianie kōnfiguracyji
+about-config-show-all = Pokoż wszyskie
+about-config-pref-add = Przidej
+about-config-pref-toggle = Przełōncz
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
