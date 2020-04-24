@@ -4,6 +4,12 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Tukej żyjōm drachy!
+about-config-warning-text = Skuli zmiany tych nasztalowań mogōm sie pokozać problymy ze stabilnościōm, bezpieczyństwym a wydajnościōm tyj aplikacyje. Dziołej dalij ino jak wiysz, co robisz.
+about-config-warning-checkbox = Durch mie tym szteruj!
+about-config-warning-button = Akceptuja te ryzyko
+about-config2-title = Zaawansowane nasztalowania
+about-config-search-input =
+    .placeholder = Szukej
 
 ## These strings appear on the warning you see when first visiting about:config.
 
