@@ -31,6 +31,7 @@ about-config-pref-toggle = Przełōncz
 about-config-pref-edit = Edytuj
 about-config-pref-save = Spamiyntej
 about-config-pref-reset = Wynuluj
+about-config-pref-delete = Skasuj
 about-config-pref-add-button =
     .title = Przidej
 about-config-pref-toggle-button =
@@ -41,10 +42,14 @@ about-config-pref-save-button =
     .title = Spamiyntej
 about-config-pref-reset-button =
     .title = Wynuluj
+about-config-pref-delete-button =
+    .title = Skasuj
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Logiczno wartość
 about-config-pref-add-type-number = Liczba
+about-config-pref-add-type-string = Lyńcuch
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
