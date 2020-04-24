@@ -19,5 +19,19 @@
 <!ENTITY spellAddToDictionary.accesskey "ف">
 <!ENTITY spellUndoAddToDictionary.label "بیکە ناو فەرهەنگ بگەڕێنەوە">
 <!ENTITY spellUndoAddToDictionary.accesskey "پ">
+<!ENTITY spellCheckToggle.label "چێکردنی ڕێنووس">
+<!ENTITY spellCheckToggle.accesskey "چ">
+<!ENTITY spellNoSuggestions.label "(پێشنیازی ڕێنووس نیە)">
+<!ENTITY spellDictionaries.label "زمانەکان">
+<!ENTITY spellDictionaries.accesskey "ز">
 
+<!ENTITY searchTextBox.clear.label "پاککردنەوە">
 
+<!ENTITY fillLoginMenu.label          "چوونەژورەوە پڕبکەرەوە">
+<!ENTITY fillLoginMenu.accesskey      "ن">
+<!ENTITY fillPasswordMenu.label       "وشەی تێپەڕبوون پڕبکەرەوە">
+<!ENTITY fillPasswordMenu.accesskey   "و">
+<!ENTITY fillUsernameMenu.label       "ناوی بەکارهێنەر بنووسە">
+<!ENTITY fillUsernameMenu.accesskey   "ب">
+<!ENTITY noLoginSuggestions.label     "(پێشنیازی چوونەژوورەوە نیە)">
+<!ENTITY viewSavedLogins.label        "چوونەژوورەوە پاشەکەوت نەکراو پیشان بدە">
