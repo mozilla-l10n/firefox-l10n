@@ -68,6 +68,21 @@ onboarding-sync-form-sub-header = بۆ بەردەوامبوون بۆ { -sync-bra
 
 onboarding-benefit-products-title = بەرهەمی بەسود
 onboarding-benefit-products-text = ئیشەکانت ئەنجام بدە لەگەڵ چەن ئامرازێکی بەسود کە ڕێزی تایبەتیت دەگرێت لەسەر هەموو ئامێرەکانت.
+onboarding-benefit-knowledge-title = زانیاریی کردارەکی
+onboarding-benefit-knowledge-text = هەموو شتێک فێربە بۆ ئەوەی بتوانی بە پارێزراوی و زیرەکانە بمێنیتەوە لەسەرهێڵ.
+onboarding-benefit-privacy-title = تایبەتێتی ڕاستەقینە
+# "Personal Data Promise" is a concept that should be translated consistently
+# across the product. It refers to a concept shown elsewhere to the user: "The
+# Firefox Personal Data Promise is the way we honor your data in everything we
+# make and do. We take less data. We keep it safe. And we make sure that we are
+# transparent about how we use it."
+onboarding-benefit-privacy-text = هەموو شتێک کە دەیکەین بۆ پاراستنی پەیمانەکەمانە دەربارەی زانیاریی تاکەکەسی: کەم ببە. بە پارێزراوی بیهێڵەوە. نهێنی نیە.
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = هەموو دڵخوازەکانت، وشەی تێپەڕبوون، مێژوو، هەروەها هەمووی لە هەر شوێنێک بەکاریدێنی بۆ { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = ئاگاداربکرێیتەوە کاتێک زانیارییە کەسیەکانت لە شوێنیک کە تووشی دزەپێکردنی زانیارییەکانی دەبێتەوە.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = بەڕێوەبردنی ئەو وشەی تێپەڕبوونانەی کە پارێزراون و لەگەڵ خۆتن.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -76,6 +91,12 @@ onboarding-benefit-products-text = ئیشەکانت ئەنجام بدە لەگە
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = گەڕانی تایبەتیی
+onboarding-private-browsing-text = خۆت بگەڕی. گەڕانی تایبەت لەگەڵ بلۆککردنی ناوەڕؤک کە بریتییە لە بلۆک کردنی ئەو ماڵپەڕانەی کە بەدوات دەکەون لەسەر هەموو وێب.
+onboarding-screenshots-title = وێنەی ڕووپەر
+onboarding-addons-title = پێوەکراوەکان
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = هاوکاتگەری
 
 ## Message strings belonging to the Return to AMO flow
 
