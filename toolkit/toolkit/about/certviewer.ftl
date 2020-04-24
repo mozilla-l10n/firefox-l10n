@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Cơ quan cấp chứng chỉ
 certificate-viewer-cipher-suite = Bộ mật mã
 certificate-viewer-common-name = Tên gọi chung
 certificate-viewer-email-address = Địa chỉ email
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Chứng nhận cho { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Quốc gia hợp nhất
 certificate-viewer-country = Quốc gia

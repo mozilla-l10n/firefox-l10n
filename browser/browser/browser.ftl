@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Thu nhỏ
+browser-window-maximize-button =
+    .tooltiptext = Cực đại hoá
+browser-window-restore-down-button =
+    .tooltiptext = Khôi phục kích thước
 browser-window-close-button =
     .tooltiptext = Đóng
 
