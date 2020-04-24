@@ -95,6 +95,8 @@ onboarding-private-browsing-title = گەڕانی تایبەتیی
 onboarding-private-browsing-text = خۆت بگەڕی. گەڕانی تایبەت لەگەڵ بلۆککردنی ناوەڕؤک کە بریتییە لە بلۆک کردنی ئەو ماڵپەڕانەی کە بەدوات دەکەون لەسەر هەموو وێب.
 onboarding-screenshots-title = وێنەی ڕووپەر
 onboarding-addons-title = پێوەکراوەکان
+onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = خێراتر بگەڕێ، زیرەکانە تر، یان پارێزراو تر بەهۆی پێوەکراوی وەک Ghostery، کە دەتپارێزێت لە پروپاگەندە و ڕێکلامی بێزارکەر.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = هاوکاتگەری
 onboarding-fxa-text = هەژمار درووستبکە بۆ { -fxaccount-brand-name } و هەموو دڵخوازەکان، وشەی تێپەڕبوون و بازدەرە کراوەکان هاوکاتگەری پێبکە لەو شوێنەوەی بەکاری دێنی { -brand-short-name }.
@@ -108,6 +110,7 @@ onboarding-firefox-monitor-title = ئاگاداری دزەپێکردنی زان�
 onboarding-firefox-monitor-text = { -monitor-brand-name } چاودێری ئەوە دەکات کاتێک پۆستی ئەلیکترۆنیت لە شوێنێک دزەی پێدەکرێت و بڵاودەبێتەوە، ئاگادارت دەکاتەوە ئەگەر لەهەر شوێنیكی تر دەرکەوێ.
 onboarding-firefox-monitor-button = خۆت تۆمار بکە بۆ ئاگادارییەکان
 onboarding-browse-privately-title = بە تایبەتی بگەڕێ
+onboarding-browse-privately-text = گەڕانی تایبەت هەموو گەڕانەکان و مێژووی کارەکان پاکدەکاتەوە بۆ ئەوەی هیچ کەسێک دووای تۆ نەزانێت تۆ چیت کردۆتەوە.
 onboarding-browse-privately-button = لە پەنجەرەیەکی تایبەت بیکەرەوە
 onboarding-firefox-send-title = هەموو زانیارییە بڵاوکراوەکانت بە تایبەتی بهێڵەوە
 onboarding-firefox-send-text2 = پەڕگەکانت باربکە بۆ { -send-brand-name } بۆ ئەوەی بڵاویان بکەیتەوە بە پارێزراوی و بەستەری کاتی کە خۆکارانە بەسەردەچێت.
@@ -121,9 +124,30 @@ onboarding-send-tabs-title = بەزووی بازدەرەکانت بنێرە بۆ
 # "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
 # tab's context menu.
 onboarding-send-tabs-text = ناردنی بازدەری یەکسەر پەڕەکانت ڕاستەوخۆ بڵاودەکاتەوە لە نێوان هەموو ئامێرەکانت بێ ئەوەی کرداری لەبەرگرتنەوە، لکاندن، یان وێبگەڕ بەجێبهێلێت.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = بڵاوکردنەوەی پەڕەکانت لە نێوان ئامێرەکانت بێ ئەوەی پێویست بکات کرداری لەبەرگرتنەوە، لکاندن یان جێهێشتنی وێبگەر بکەی.
+onboarding-send-tabs-button = دەستبکە بە بەکارهێنانی نێرەری بازدەر
+onboarding-pocket-anywhere-title = بخوێنەوە و گوێبیست بە لەهەر شوێنێک
+onboarding-pocket-anywhere-button = { -pocket-brand-name } تاقیبکەرەوە
+onboarding-lockwise-passwords-title = وشەی تێپەڕەکەت لەگەڵ خۆت بەرە بۆ هەموو شوێنێک
+onboarding-lockwise-passwords-button2 = داوانامە بەدەست بهێنە
+onboarding-lockwise-strong-passwords-title = دروستکردنی وشەی تێپەڕبونی بەهێز و هەڵگرتنیان.
+onboarding-lockwise-strong-passwords-button = بەڕێوەبردنی چوونەژوورەوەکانت
+onboarding-facebook-container-title = سنور دابنێ لەگەڵ فەیسبووک
+onboarding-facebook-container-button = پێوەکراو زیاد بکە
+onboarding-import-browser-settings-title = دڵخوازەکان، وشەی تێپەڕبوونەکانت و شتی تر هاوردە بکە
+onboarding-import-browser-settings-button = زانیاری کرۆم بهێنە
+onboarding-personal-data-promise-title = تایبەت بە شێوەکاری
 onboarding-personal-data-promise-button = پەیمانەکەی ئێمە بخوێنەوە
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = زۆر باشە ، ئێستا تۆ { -brand-short-name } بەدەستهێنا.
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = ئێستا <icon></icon><b>{ $addon-name }.</b> بەدەستبێنە.
 return-to-amo-extension-button = پێوەکراو زیاد بکە
 return-to-amo-get-started-button = دەست پێبکە لەگەڵ { -brand-short-name }
