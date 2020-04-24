@@ -91,11 +91,32 @@ main-context-menu-open-link-new-tab =
 main-context-menu-open-link-container-tab =
     .label = بەستەر لە بازدەری لەخۆگری نوێ بکەرەوە
     .accesskey = b
+main-context-menu-open-link-new-window =
+    .label = لە پەنجەرەیەکی نوێ بیکەرەوە
+    .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = لە پەنجەرەیەکی نویی تایبەت بیکەرەوە
+    .accesskey = p
+main-context-menu-bookmark-this-link =
+    .label = ئەم پەرەیە دڵخواز بکە
+    .accesskey = L
+main-context-menu-save-link =
+    .label = بەستەر پاشەکەوت بکە وەک...
+    .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = پاشەکەوتی بەستەر لە { -pocket-brand-name }
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = لەبەرگرتنەوەی پۆستی ئەلکترۆنی
+    .accesskey = A
+main-context-menu-copy-link =
+    .label = شوێنی بەستەر لەبەر بگرەوە
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -103,6 +124,12 @@ main-context-menu-open-link-container-tab =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = لێدان
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = وچان
+    .accesskey = P
 
 ##
 
