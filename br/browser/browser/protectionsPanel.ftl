@@ -13,3 +13,5 @@ protections-popup-footer-protection-label-strict = Strizh
     .label = Strizh
 protections-popup-footer-protection-label-custom = Personelaet
     .label = Personelaet
+protections-popup-footer-protection-label-standard = Skoueriek
+    .label = Skoueriek
