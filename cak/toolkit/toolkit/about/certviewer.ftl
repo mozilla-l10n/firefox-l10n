@@ -95,3 +95,11 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Taq Ruwujil Ab'i'
+certificate-viewer-tab-people = Winaqi'
+certificate-viewer-tab-servers = Taq ruk'u'x samaj
+certificate-viewer-tab-ca = K'amöl taq b'ey
+certificate-viewer-tab-unkonwn = Man etaman ta ruwäch
