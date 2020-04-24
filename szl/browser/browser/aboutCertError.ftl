@@ -58,6 +58,7 @@ cert-error-details-cert-chain-label = Lyńcuch certyfikatu:
 
 ## Messages used for certificate error titles
 
+connectionFailure-title = Niy idzie sie połōnczyć
 deniedPortAccess-title = Zaszperowano adresa
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -69,3 +70,11 @@ captivePortal-title = Logowanie do neca
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Hmm. Ta adresa niy wyglōndo na dobro.
+netInterrupt-title = Połōnczynie przerwane
+notCached-title = Dokumynt sie przedowniōł
+netOffline-title = Tryb offline
+contentEncodingError-title = Feler kodowanio zawartości
+unsafeContentType-title = Niybezpieczny typ zbioru
+netReset-title = Połōnczynie zresetowane
+netTimeout-title = Przestōmpiōny czas połōnczynio
+unknownProtocolFound-title = Niyspokopiōno adresa
