@@ -5,3 +5,11 @@
 protections-panel-sendreportview-error = C'hoarvezet ez eus bet ur fazi en ur gas an danevell. Klaskit adarre diwezhatoc'h mar plij.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Lec'hienn ratreet ? Kasit an danevell
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Strizh
+    .label = Strizh
+protections-popup-footer-protection-label-custom = Personelaet
+    .label = Personelaet
