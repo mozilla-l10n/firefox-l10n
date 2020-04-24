@@ -109,6 +109,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Gwiriit ho identelezh a-benn cheñch an anaouder enrollet.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = cheñch an anaouder enrollet
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Gwiriit ho identelezh a-benn diskouez ar ger-tremen enrollet.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = diskouez ar ger-tremen enrollet
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Gwiriit ho identelezh a-benn eilañ ar ger-tremen enrollet.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = eilañ ar ger-tremen enrollet
 
 ## Master Password notification
 
@@ -153,9 +168,18 @@ breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech z
 breach-alert-link = Gouzout hiroc'h a-zivout ar frailh.
 breach-alert-dismiss =
     .title = Serriñ ar galv-diwall-mañ.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Mont da { $hostname }
+about-logins-breach-alert-learn-more-link = Gouzout hiroc'h
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Ger-tremen bresk
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Mont da { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Gouzout hiroc'h
 
 ## Error Messages
 
