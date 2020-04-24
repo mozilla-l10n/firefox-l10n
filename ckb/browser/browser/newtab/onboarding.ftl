@@ -94,6 +94,7 @@ onboarding-benefit-lockwise-text = بەڕێوەبردنی ئەو وشەی تێپ
 onboarding-private-browsing-title = گەڕانی تایبەتیی
 onboarding-private-browsing-text = خۆت بگەڕی. گەڕانی تایبەت لەگەڵ بلۆککردنی ناوەڕؤک کە بریتییە لە بلۆک کردنی ئەو ماڵپەڕانەی کە بەدوات دەکەون لەسەر هەموو وێب.
 onboarding-screenshots-title = وێنەی ڕووپەر
+onboarding-screenshots-text = گرتن، پاشەکوتکردن و بڵاوکردنەوە وێنەی ڕووپەرەکەت - بێ ئەوەی { -brand-short-name } بەجێبهێڵیت. دەتوانی شوێنێکی تایبەت لە شاشەکەت یان هەموو پەڕەکانی وێنە بگریت. پاشان پاشەکەوتی بکەیت بۆ ئەوەی بە ئاسانی دەستت پێی بگات.
 onboarding-addons-title = پێوەکراوەکان
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = خێراتر بگەڕێ، زیرەکانە تر، یان پارێزراو تر بەهۆی پێوەکراوی وەک Ghostery، کە دەتپارێزێت لە پروپاگەندە و ڕێکلامی بێزارکەر.
