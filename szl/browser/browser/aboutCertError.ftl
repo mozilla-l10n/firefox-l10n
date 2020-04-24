@@ -55,3 +55,11 @@ cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
 cert-error-details-cert-chain-label = Lyńcuch certyfikatu:
+
+## Messages used for certificate error titles
+
+deniedPortAccess-title = Zaszperowano adresa
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm, mōmy problym znojś ta strōna.
+fileNotFound-title = Niy znodlimy zbioru
