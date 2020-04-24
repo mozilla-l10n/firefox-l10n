@@ -86,11 +86,6 @@ newtab-menu-show-privacy-info = Οι χορηγοί μας & το απόρρητ
 
 newtab-privacy-modal-button-done = Τέλος
 newtab-privacy-modal-header = Το απόρρητό σας έχει σημασία.
-newtab-privacy-modal-paragraph =
-    Εκτός από την παράδοση μαγευτικών ιστοριών, σας εμφανίζουμε σχετικό,
-    υψηλής ποιότητας περιεχόμενο από επιλεγμένους χορηγούς. Μην ανησυχείτε, τα δεδομένα
-    περιήγησής σας δεν φεύγουν ποτέ από το προσωπικό σας αντίγραφο του { -brand-product-name } — δεν τα βλέπουμε ούτε εμείς, ούτε
-    οι χορηγοί μας.
 newtab-privacy-modal-paragraph-2 =
     Εκτός από την παράδοση μαγευτικών ιστοριών, σας εμφανίζουμε σχετικό,
     υψηλής ποιότητας περιεχόμενο από επιλεγμένους χορηγούς. Μην ανησυχείτε, <strong>τα δεδομένα
@@ -165,7 +160,7 @@ newtab-section-header-topsites = Κορυφαίες ιστοσελίδες
 newtab-section-header-highlights = Κορυφαίες στιγμές
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = Προτεινόμενο από τον πάροχο { $provider }
+newtab-section-header-pocket = Προτάσεις του { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
@@ -189,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ωχ! Αυτή η ενότ
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Δημοφιλή θέματα:
 newtab-pocket-more-recommendations = Περισσότερες προτάσεις
-newtab-pocket-whats-pocket = Τι είναι το { -pocket-brand-name };
 newtab-pocket-learn-more = Μάθετε περισσότερα
 newtab-pocket-cta-button = Αποκτήστε το { -pocket-brand-name }
 newtab-pocket-cta-text = Αποθηκεύστε τις ιστορίες που αγαπάτε στο { -pocket-brand-name } και τροφοδοτήστε το μυαλό σας με εκπληκτικά κείμενα.

@@ -483,7 +483,7 @@ home-prefs-topsites-description = Οι ιστοσελίδες που επισκ�
 # Variables:
 #  $provider (String): Name of the corresponding content provider, e.g "Pocket".
 home-prefs-recommended-by-header =
-    .label = Προτεινόμενο από τον πάροχο { $provider }
+    .label = Προτάσεις του { $provider }
 home-prefs-recommended-by-description = Εξαιρετικό περιεχόμενο από το διαδίκτυο, εξατομικευμένο για εσάς
 home-prefs-recommended-by-learn-more = Πώς λειτουργεί
 home-prefs-recommended-by-option-sponsored-stories =
