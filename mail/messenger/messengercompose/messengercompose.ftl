@@ -15,6 +15,21 @@ address-input-type =
         [one] Champ { $type } avec une adresse
        *[other] Champ { $type } avec { $count } adresses
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } avec une adresse, utilisez la touche flèche gauche pour la sélectionner.
+       *[other] { $type } avec { $count } adresses, utilisez la touche flèche gauche pour les sélectionner.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email } : appuyez sur Entrée pour modifier, ou Supprimer pour retirer.
+       *[other] { $email }, 1 sur { $count } : appuyez sur Entrée pour modifier, ou Supprimer pour retirer.
+    }
 pill-action-edit =
     .label = Modifier l’adresse
     .accesskey = M
