@@ -55,9 +55,19 @@ login-list-last-used-option = Ôstatnio użyte
 login-list-intro-title = Niy szło znojś żodnych danych logowanio
 login-list-intro-description = Jak spamiyntosz hasło we aplikacyji { -brand-product-name }, to ône sie sam pokoże.
 about-logins-login-list-empty-search-title = Niy szło znojś żodnych danych logowanio
+about-logins-login-list-empty-search-description = Wyszukowaniu niy ôdpowiadajōm żodne dane logowanio.
+login-list-item-title-new-login = Nowe dane logowanio
+login-list-item-subtitle-new-login = Wkludź dane logowanio
+login-list-item-subtitle-missing-username = (bez miana ôd używocza)
+about-logins-list-item-breach-icon =
+    .title = Serwer, co z niego wyciykły hasła
+about-logins-list-item-vulnerable-password-icon =
+    .title = Niybezpieczne hasło
 
 ## Introduction screen
 
+login-intro-heading = Szukosz swojich spamiyntanych danych logowanio? Nastaluj { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Niy szło znojś żodnych danych logowanio.
 
 ## Login
 
