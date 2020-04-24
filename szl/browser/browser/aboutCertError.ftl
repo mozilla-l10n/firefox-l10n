@@ -63,3 +63,9 @@ deniedPortAccess-title = Zaszperowano adresa
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Hmm, mōmy problym znojś ta strōna.
 fileNotFound-title = Niy znodlimy zbioru
+fileAccessDenied-title = Dostymp do pliku ôstoł ôdciepniynty
+generic-title = Ups.
+captivePortal-title = Logowanie do neca
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. Ta adresa niy wyglōndo na dobro.
