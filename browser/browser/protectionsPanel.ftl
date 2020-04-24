@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Có lỗi khi gửi báo cáo. Vui lòng thử lại sau.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Trang web có bình thường không? Hãy gửi báo cáo
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Nghiêm ngặt
+    .label = Nghiêm ngặt
+protections-popup-footer-protection-label-custom = Tùy chọn
+    .label = Tùy chọn
+protections-popup-footer-protection-label-standard = Tiêu chuẩn
+    .label = Tiêu chuẩn
