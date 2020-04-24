@@ -8,6 +8,8 @@
 ### They're just meant to be fun and whimsical, with references to some geeky
 ### but well-known robots in movies and books. Be creative with translations!
 
+# Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
+page-title = گۆرت! کلاتو بارادانیکتۆ!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
 error-title-text = بەخێربێن مرۆڤەکان!
 # TV: Battlestar Galactica (2004 series). From the opening text.
