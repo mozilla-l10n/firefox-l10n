@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Безбедност поруке">
-<!ENTITY subject.plaintextWarning "Имајте на уму, наслови електронских порука се никада не шифрују.">
+<!ENTITY subject.plaintextWarning "Имајте на уму, теме електронских порука се никада не шифрују.">
 <!ENTITY status.heading "Садржај ваше поруке ће бити послат на следећи начин:">
 <!ENTITY status.signed "Дигитално потписан:">
 <!ENTITY status.encrypted "Шифрован:">
