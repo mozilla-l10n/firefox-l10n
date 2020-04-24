@@ -133,10 +133,89 @@ main-context-menu-media-pause =
 
 ##
 
+main-context-menu-media-mute =
+    .label = بێدەنگردن
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = دەنگ پێدان
+    .accesskey = m
+main-context-menu-media-play-speed =
+    .label = خێرای لێدەر
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = خاو (٠.٥%)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = ئاسایی
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = خێرا (*١.٢٥)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = خێراتر (١.٥*)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = زۆر خێرا (٢*)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = خول
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = دەستپێگەشتن پیشان بدە
+    .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = دەستپێگەشتن بشارەوە
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = پڕاوپڕ
+    .accesskey = F
+main-context-menu-media-video-leave-fullscreen =
+    .label = لە پڕاوپڕی شاشە دەرچۆ
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = وێنە-لەناو-وێنە
+    .accesskey = u
+main-context-menu-image-reload =
+    .label = بارکردنەوەی وێنە
+    .accesskey = R
+main-context-menu-image-view =
+    .label = وێنە پیشان دە
+    .accesskey = I
+main-context-menu-video-view =
+    .label = ڤیدیۆ پیشان بدە
+    .accesskey = i
+main-context-menu-image-copy =
+    .label = وێنە لەبەرگرەوە
+    .accesskey = y
+main-context-menu-image-copy-location =
+    .label = شوێنی بەستەر لەبەر بگرەوە
+    .accesskey = o
+main-context-menu-video-copy-location =
+    .label = شوێنی ڤیدیۆ لەبەربگرەوە
+    .accesskey = o
+main-context-menu-audio-copy-location =
+    .label = شوێنی دەنگە لەبەربگرەوە
+    .accesskey = o
+main-context-menu-image-save-as =
+    .label = وێنە پاشەکەوت بکە وەک...
+    .accesskey = v
+main-context-menu-image-email =
+    .label = ناردنی وێنە...
+    .accesskey = g
+main-context-menu-image-set-as-background =
+    .label = بیخە سەر پاشبنەمای ڕوومێزەکەت...
+    .accesskey = S
+main-context-menu-image-info =
+    .label = زانیاری وێنە پیشان بدە
+    .accesskey = f
