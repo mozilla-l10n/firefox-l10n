@@ -45,12 +45,41 @@ login-list-count =
        *[other] { $count } چوونەژوورەوەکان
     }
 login-list-sort-label-text = ڕێکی بەپێی:
+login-list-name-option = ناو(A-Z)
+login-list-name-reverse-option = ناو (Z-A)
+login-list-breached-option = ماڵپەڕی پێشێلکراو
+about-logins-login-list-alerts-option = ئاگادارییەکان
+login-list-last-changed-option = دووا دەستکاری
+login-list-last-used-option = دووا بەکارهێنان
+login-list-intro-title = هیچ چوونەناوێک نیە
+login-list-intro-description = کاتێک وشەی تێپەڕ پاشەکەوت دەکەی لە { -brand-product-name }، لێرە دەردەکەوێت.
+about-logins-login-list-empty-search-title = هیچ چوونەناوێک نیە
+about-logins-login-list-empty-search-description = هیچ ئەنجامێک بۆ ئەو گەڕانەی تۆ نیە
+login-list-item-title-new-login = چوونەژوورەوەی نوێ
+login-list-item-subtitle-new-login = زانیاری چوونەژوور بنووسە
+login-list-item-subtitle-missing-username = (بێ نازناو)
+about-logins-list-item-breach-icon =
+    .title = ماڵپەڕی پێشێلکراو
+about-logins-list-item-vulnerable-password-icon =
+    .title = وشەی تێپەڕ ئاسانە
 
 ## Introduction screen
 
+login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
+about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
+about-logins-intro-instruction-help = سەردانی <a data-l10n-name="help-link">{ -lockwise-brand-short-name } پشتگیری</a> بکە بۆ زانیاری زیاتر
 
 ## Login
 
+login-item-new-login-title = چوونەژوورەوە دروست بکە
+login-item-edit-button = دەستکاریکردن
+about-logins-login-item-remove-button = بیسڕەوە
+login-item-origin-label = ناونیشانی ماڵپەڕ
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = ناوی بەکارهێنەر
+about-logins-login-item-username =
+    .placeholder = (بێ نازناو)
 
 ## OS Authentication dialog
 
