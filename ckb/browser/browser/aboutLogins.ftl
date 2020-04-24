@@ -112,12 +112,24 @@ about-logins-reveal-password-os-auth-dialog-message = خۆت بناسێنە بۆ
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕە هەڵگیراوەکانت لەبەربگریتەوە.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
 
 ## Master Password notification
 
+master-password-notification-message = وشەی تێپەڕبوونی سەرەکی لێبدە بۆ ئەوەی بتوانی چوونەژوورەوە و وشەی تێپەڕەکان ببینی.
+master-password-reload-button =
+    .label = بچۆژوورەوە
+    .accesskey = L
 
 ## Password Sync notification
 
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = جارێکی تر ئەم پرسیارە مەکەرەوە
+    .accesskey = D
 
 ## Dialogs
 
@@ -127,9 +139,20 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
+confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
+confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
+confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = دزەپێکردنی ماڵپەڕ
+breach-alert-link = زیاتر بزانە دەربارەی ئەم دزەپێکردنە
+breach-alert-dismiss =
+    .title = ئەم ئاگادارییە دابخە
+about-logins-breach-alert-date = ئەم دزەپێکردنەوە دۆزراوەتەوە لە { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = بڕۆ بۆ { $hostname }
 about-logins-breach-alert-learn-more-link = زیاتر بزانە
 
 ## Vulnerable Password notification
@@ -142,3 +165,5 @@ about-logins-vulnerable-alert-learn-more-link = زیاتر بزانە
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = هەڵەیەک ڕوویدا لە کاتی پاشەکەوتکردنی ئەم وشەی تێپەڕبوونە
