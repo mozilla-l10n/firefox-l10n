@@ -24,8 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Digeriñ al lañser
-# This menuitem is only visible on Windows
-menu-menuitem-import = Enporzhiañ ar gerioù-tremen...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Enporzhiañ eus ur merdeer all...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Dibarzhioù
@@ -51,6 +51,7 @@ login-list-sort-label-text = Rummañ dre:
 login-list-name-option = Anv (A-Z)
 login-list-name-reverse-option = Anv (Z-A)
 login-list-breached-option = Baradurioù lec'hiennoù
+about-logins-login-list-alerts-option = Kemennoù diwall
 login-list-last-changed-option = Kemmet da ziwezhañ
 login-list-last-used-option = Arveret da ziwezhañ
 login-list-intro-title = Titour kennaskañ ebet kavet
@@ -62,6 +63,8 @@ login-list-item-subtitle-new-login = Enankit ho titouroù kennaskañ
 login-list-item-subtitle-missing-username = (anv arveriad ebet)
 about-logins-list-item-breach-icon =
     .title = Lec'hienn frailhet
+about-logins-list-item-vulnerable-password-icon =
+    .title = Ger-tremen bresk
 
 ## Introduction screen
 
@@ -87,10 +90,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Eilañ
 login-item-copied-username-button-text = Eilet!
 login-item-password-label = Ger-tremen
-login-item-password-reveal-checkbox-show =
-    .title = Diskouez ar ger-tremen
-login-item-password-reveal-checkbox-hide =
-    .title = Kuzhat ar ger-tremen
 login-item-password-reveal-checkbox =
     .aria-label = Diskouez ar ger-tremen
 login-item-copy-password-button-text = Eilañ
@@ -101,6 +100,15 @@ login-item-cancel-button = Nullañ
 login-item-time-changed = Kemmet da ziwezhañ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Krouet: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Implijet da ziwezhañ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -145,6 +153,9 @@ breach-alert-text = Gerioù-tremen a zo bet diskuilhet pe laeret abaoe ar wech z
 breach-alert-link = Gouzout hiroc'h a-zivout ar frailh.
 breach-alert-dismiss =
     .title = Serriñ ar galv-diwall-mañ.
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
