@@ -5,6 +5,13 @@
 
 ## Messages used for certificate error titles
 
+fileNotFound-title = پەڕگە نەدۆزرایەوە
+fileAccessDenied-title = چوونەناوی پەڕگە ڕەتکرایەوە
+generic-title = ئوپس.
+captivePortal-title = بچۆ ناو ڕایەڵە
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = ئهممم. ئەو ناونیشانە بە ڕاست ناچێت.
 netInterrupt-title = پەیوەندی جیگیر نیە
 notCached-title = بەڵگەنامە بەسەرچووە
 netOffline-title = دۆخی دەرهێڵ
