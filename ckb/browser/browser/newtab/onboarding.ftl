@@ -97,6 +97,33 @@ onboarding-screenshots-title = وێنەی ڕووپەر
 onboarding-addons-title = پێوەکراوەکان
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = هاوکاتگەری
+onboarding-fxa-text = هەژمار درووستبکە بۆ { -fxaccount-brand-name } و هەموو دڵخوازەکان، وشەی تێپەڕبوون و بازدەرە کراوەکان هاوکاتگەری پێبکە لەو شوێنەوەی بەکاری دێنی { -brand-short-name }.
+onboarding-tracking-protection-title2 = پارێزگاری دژی چاودێریکردن
+onboarding-tracking-protection-button2 = چۆن کار دەکات
+onboarding-data-sync-title = هەموو ڕێکخستنەکان لەگەڵ خۆت ببە
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = دڵخوازەکان، وشەی تێپەڕبوون هاوکاتگەری پێبکە و هەموو ئەو شوێنانەی کە { -brand-product-name } بەکاردێنیت.
+onboarding-data-sync-button2 = بچۆ ژوورەوە بۆ { -sync-brand-short-name }
+onboarding-firefox-monitor-title = ئاگاداری دزەپێکردنی زانیاری ببە
+onboarding-firefox-monitor-text = { -monitor-brand-name } چاودێری ئەوە دەکات کاتێک پۆستی ئەلیکترۆنیت لە شوێنێک دزەی پێدەکرێت و بڵاودەبێتەوە، ئاگادارت دەکاتەوە ئەگەر لەهەر شوێنیكی تر دەرکەوێ.
+onboarding-firefox-monitor-button = خۆت تۆمار بکە بۆ ئاگادارییەکان
+onboarding-browse-privately-title = بە تایبەتی بگەڕێ
+onboarding-browse-privately-button = لە پەنجەرەیەکی تایبەت بیکەرەوە
+onboarding-firefox-send-title = هەموو زانیارییە بڵاوکراوەکانت بە تایبەتی بهێڵەوە
+onboarding-firefox-send-text2 = پەڕگەکانت باربکە بۆ { -send-brand-name } بۆ ئەوەی بڵاویان بکەیتەوە بە پارێزراوی و بەستەری کاتی کە خۆکارانە بەسەردەچێت.
+onboarding-firefox-send-button = { -send-brand-name } تاقیبکەرەوە
+onboarding-mobile-phone-title = { -brand-product-name } بەدەستبهێنە لەسەر تەلەفۆنەکەت
+onboarding-mobile-phone-text = { -brand-product-name } دابگرە بۆ iOS یان ئەندرۆید و هەموو زانیارییەکانت هاوکاتگەری پێبکە لەگەڵ هەموو ئامێرەکان.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = وێبگەڕی مۆبایل دابگرە
+onboarding-send-tabs-title = بەزووی بازدەرەکانت بنێرە بۆ خۆت
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = ناردنی بازدەری یەکسەر پەڕەکانت ڕاستەوخۆ بڵاودەکاتەوە لە نێوان هەموو ئامێرەکانت بێ ئەوەی کرداری لەبەرگرتنەوە، لکاندن، یان وێبگەڕ بەجێبهێلێت.
+onboarding-personal-data-promise-button = پەیمانەکەی ئێمە بخوێنەوە
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-extension-button = پێوەکراو زیاد بکە
+return-to-amo-get-started-button = دەست پێبکە لەگەڵ { -brand-short-name }
