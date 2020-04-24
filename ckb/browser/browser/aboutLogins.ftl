@@ -80,14 +80,38 @@ login-item-origin =
 login-item-username-label = ناوی بەکارهێنەر
 about-logins-login-item-username =
     .placeholder = (بێ نازناو)
+login-item-copy-username-button-text = لەبەرگرتنەوە
+login-item-copied-username-button-text = لەبەرگیرا!
+login-item-password-label = وشەی تێپەڕبوون
+login-item-password-reveal-checkbox =
+    .aria-label = وشەی تێپەڕبوون پیشان بدە
+login-item-copy-password-button-text = لەبەرگرتنەوە
+login-item-copied-password-button-text = لەبەرگیرا!
+login-item-save-changes-button = گۆڕانکارییەکان هەڵگرە
+login-item-save-new-button = پاشەکەوتکردن
+login-item-cancel-button = پاشگەزبوونەوە
+login-item-time-changed = دوواجار دەستکاریکراوە:{ DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = دروستکراوە:{ DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = دوواجار بەکاربراوە:{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی دەستکاری چوونەژوورە هەڵگیراوەکانت بکەیت.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕە هەڵگیراوەکانت ببینیت.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
 
 ## Master Password notification
 
@@ -97,12 +121,24 @@ about-logins-login-item-username =
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = پاشگەزبوونەوە
+confirmation-dialog-dismiss-button =
+    .title = پاشگەزبوونەوە
+about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
+confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
+about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
 
 ## Breach Alert notification
 
+about-logins-breach-alert-learn-more-link = زیاتر بزانە
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = وشەی تێپەڕ ئاسانە
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = بڕۆ بۆ { $hostname }
+about-logins-vulnerable-alert-learn-more-link = زیاتر بزانە
 
 ## Error Messages
 
