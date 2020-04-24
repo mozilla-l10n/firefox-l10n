@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "г">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Површ за прилоге">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "а">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Изабери све">
 <!ENTITY selectAllCmd.accesskey "з">
@@ -279,7 +272,7 @@
 <!ENTITY newsgroupsAddr2.label "Интересна група">
 <!ENTITY followupAddr2.label "Настави на">
 <!ENTITY subject2.label "Тема">
-<!ENTITY subject.accesskey "Н">
+<!ENTITY subject.accesskey "м">
 <!-- LOCALIZATION NOTE (attachments.accesskey) This access key character should
      be taken from the strings of attachmentCount in composeMsgs.properties.
      Please ensure that this access key is unique: Do not duplicate any other

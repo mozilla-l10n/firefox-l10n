@@ -252,7 +252,7 @@
      subject for the string.
      -->
 <!ENTITY quickFilterBar.textFilter.subject.label
-         "Теми">
+         "Тема">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textFilter.body.label):
      The button label that toggles whether the text filter searches the message
