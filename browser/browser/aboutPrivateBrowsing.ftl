@@ -25,7 +25,7 @@ about-private-browsing =
 about-private-browsing-not-private = Trenutačno nisi u privatnom prozoru.
 content-blocking-title = Blokiranje sadržaja
 content-blocking-description = Neke web stranice koriste skripte za praćenje koje nadgledaju tvoju aktivnost diljem Interneta. U privatnom načinu, { -brand-short-name } blokiranje sadržaja automatski blokira mnoge skripte za praćenje koje bi mogle prikupljati informacije o tvom pregledavanju.
-about-private-browsing-info-description = { -brand-short-name } čisti tvoju kronologiju pretraživanja i pregledavanja kad izađeš iz aplikacije ili kad zatvoriš sve kartice i prozore privatnog pregledavanja. Ovo te ne čini anonimnim prema web stranicama ili tvom pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržiš privatnim ono što radiš na internetu od ostalih osoba koje koriste ovo računalo.
+about-private-browsing-info-description = { -brand-short-name } čisti tvoju povijest pretraživanja i pregledavanja kad izađeš iz aplikacije ili kad zatvoriš sve kartice i prozore privatnog pregledavanja. Ovo te ne čini anonimnim prema web-stranicama ili tvom pružatelju internet usluga, ali znatno smanjuje mogućnost praćenja i olakšava da zadržiš privatnim ono što radiš na internetu od ostalih osoba koje koriste ovo računalo.
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
