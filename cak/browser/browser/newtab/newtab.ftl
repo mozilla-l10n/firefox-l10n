@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Man yatikïr ta najäl re b'anïk re'.
 newtab-menu-section-tooltip =
     .title = Tijaq k'utüy samaj
     .aria-label = Tijaq k'utüy samaj
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Tiyuj
+    .aria-label = Tiyuj
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,10 +90,6 @@ newtab-menu-show-privacy-info = Ri e qato'onela' & ri kichinanem
 
 newtab-privacy-modal-button-done = Xk'is
 newtab-privacy-modal-header = K'o rejqalem ri kichinanem.
-newtab-privacy-modal-paragraph =
-    Man xa xe ta jeb'ël taq b'anob'äl yeqak'üt, chuqa' yeqak'üt nïm taq etamab'äl.
-    nik'on ri rupam kuma ri yeto'on qichin. Man kamayon, ri rujikomal rutzij awokem pa k'amaya'l
-     majub'ey nuya' kan jun ruwachib'al { -brand-product-name } — man niqatz'ët ta, nita ri yojto'o qichin.
 newtab-privacy-modal-paragraph-2 =
     Man xa xe ta jeb'ël taq b'anob'äl yeqak'üt, chuqa' yeqak'üt nïm taq etamab'äl.
     nik'on ri rupam kuma ri yeto'on qichin. Man kamayon, <strong>ri rujikomal rutzij awokem pa k'amaya'l
@@ -187,7 +187,6 @@ newtab-discovery-empty-section-topstories-timed-out = ¡Uy! B'ama nisamajïx re 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Nima'q taq Na'oj:
 newtab-pocket-more-recommendations = Ch'aqa' chik taq Chilab'enïk
-newtab-pocket-whats-pocket = ¿Achike ri { -pocket-brand-name }?
 newtab-pocket-learn-more = Tetamäx ch'aqa' chik
 newtab-pocket-cta-button = Tik'ul { -pocket-brand-name }
 newtab-pocket-cta-text = Ke'ayaka' ri taq b'anob'äl ye'awajo' pa { -pocket-brand-name }, chuqa' taya' ruchuq'a' ajolom kik'in jeb'ël taq sik'inïk.

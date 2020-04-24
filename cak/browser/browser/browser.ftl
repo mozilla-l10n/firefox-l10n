@@ -153,6 +153,8 @@ page-action-manage-extension =
     .label = Tinuk'samajïx K'amal…
 page-action-remove-from-urlbar =
     .label = Tiyuj el chupam ri Kikajtz'ik Ochoch
+page-action-remove-extension =
+    .label = Tiyuj K'amal
 
 ## Auto-hide Context Menu
 
@@ -248,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Ch'utinarisaxïk
+browser-window-maximize-button =
+    .tooltiptext = Tinimirisäx
 browser-window-close-button =
     .tooltiptext = Titz'apïx
 

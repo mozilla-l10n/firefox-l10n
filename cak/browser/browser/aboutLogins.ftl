@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Tijaq k'utsamaj
-# This menuitem is only visible on Windows
-menu-menuitem-import = Kejik' Ewan taq Tzij...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Tijik' pa Jun Chik Okik'amaya'l…
 menu-menuitem-preferences =
@@ -50,6 +48,7 @@ login-list-sort-label-text = Tichol chi:
 login-list-name-option = B'i'aj (A-Y)
 login-list-name-reverse-option = B'i'aj (Z-A)
 login-list-breached-option = Tz'ilan Ajk'amaya'l taq K'amaya'l
+about-logins-login-list-alerts-option = Retal taq k'ayewal
 login-list-last-changed-option = Ruk'isib'äl Jaloj
 login-list-last-used-option = Ruk'isib'äl Rokisaxik
 login-list-intro-title = Majun tikirib'äl molojri'ïl xilitäj
@@ -160,10 +159,16 @@ confirm-discard-changes-dialog-confirm-button = Tich'aqïx
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Rutz'ilanem Ajk'amaya'l Ruxaq
 breach-alert-text = Xechayüx o xe'eleq'äx ri ewan taq tzij pa re ajk'amaya'l ruxaq re' toq xek'ex ri taq rutzij rutikirib'al molojri'ïl ri ruk'isib'äl q'ij. Tajala' ri ewan atzij richin nachajij ri rub'i' ataqoya'l.
 breach-alert-link = Tawetamaj mas chi rij re tz'ilanem.
 breach-alert-dismiss =
     .title = Titz'apïx re rutzijol k'ayewal re'
+about-logins-breach-alert-learn-more-link = Tetamäx ch'aqa' chik
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-learn-more-link = Tetamäx ch'aqa' chik
 
 ## Error Messages
 
