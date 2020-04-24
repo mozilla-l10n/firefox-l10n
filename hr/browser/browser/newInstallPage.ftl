@@ -23,6 +23,6 @@ sync-label = Upiši svoju e-adresu
 sync-input =
     .placeholder = E-pošta
 sync-button = Nastavi
-sync-terms = Ukoliko nastavite, slažete se s <a data-l10n-name="terms">Uvjetima pružanja usluge</a> i <a data-l10n-name="privacy">Politikom privatnosti</a>.
+sync-terms = Ukoliko nastaviš, slažeš se s <a data-l10n-name="terms">Uvjetima pružanja usluge</a> i <a data-l10n-name="privacy">Politikom privatnosti</a>.
 sync-first = Prvi put koristite { -sync-brand-name }? Trebat ćete se prijaviti na svaku Firefox instalaciju kako biste sinkronizirali svoje podatke.
 sync-learn = Saznaj više

@@ -5,8 +5,8 @@
 navbar-tooltip-instruction =
     .value =
         { PLATFORM() ->
-            [macos] Pull down to show history
-           *[other] Za prikaz povijesti pritisnite desnu tipku miša, ili pritisnite lijevu i povucite prema dolje
+            [macos] Povuci dolje za prikaz povijesti
+           *[other] Za prikaz povijesti pritisni desnu tipku miša ili povuci prema dolje
         }
 
 ## Back
