@@ -27,5 +27,10 @@ content-blocking-title = بلۆککردنی ناوەڕۆک
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } بزوێنەری سەرەکیتە لە پەنجەرەی تایبەت
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] بۆ هەڵبژاردنی بزوێنەری تر بچۆ بۆ <a data-l10n-name="link-options"هەڵبژاردەکان</a>
+       *[other] بۆ هەڵبژاردنی بزوێنەری تر بچۆ بۆ <a data-l10n-name="link-options">هەڵبژاردنەکان</a>
+    }
 about-private-browsing-search-banner-close-button =
     .aria-label = داخستن
