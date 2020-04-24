@@ -28,9 +28,23 @@ about-config-search-input1 =
 about-config-show-all = Pokoż wszyskie
 about-config-pref-add = Przidej
 about-config-pref-toggle = Przełōncz
+about-config-pref-edit = Edytuj
+about-config-pref-save = Spamiyntej
+about-config-pref-reset = Wynuluj
+about-config-pref-add-button =
+    .title = Przidej
+about-config-pref-toggle-button =
+    .title = Przełōncz
+about-config-pref-edit-button =
+    .title = Edytuj
+about-config-pref-save-button =
+    .title = Spamiyntej
+about-config-pref-reset-button =
+    .title = Wynuluj
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-number = Liczba
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -39,3 +53,7 @@ about-config-pref-toggle = Przełōncz
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value }(bazowo)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value }(bazowo)
