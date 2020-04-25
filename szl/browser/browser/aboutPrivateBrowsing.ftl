@@ -25,3 +25,16 @@ about-private-browsing =
 about-private-browsing-not-private = Niy ma żeś teroz we prywatnym ôknie.
 content-blocking-title = Szperowanie zawartości
 content-blocking-description = Niykere strōny używajōm cichtowanio, bez co mogōm filować na twoja aktywność w internecie. We prywatnych ôknach { -brand-short-name } szperowanie zawartości autōmatycznie szperuje moc elymyntōw, co zbiyrajōm informacyje ô twojim przeglōndaniu.
+about-private-browsing-info-description = { -brand-short-name } pucuje historyjo zeszukowanio i przeglōndanio, jak wyłōnczysz aplikacyjo abo jak zawrzisz wszyskie prywatne karty i ôkna. Skuli tego niy ma żeś anonimowy do strōn ani dostowcōw necowych usug. Snadnij ale możesz skryć swoja aktywność w internecie przed inkszymi, co używajōm tego kōmputra.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } to je twōj bazowy motōr zeszukōnku we prywatnych ôknach.
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Inkszy motōr zeszukōnku idzie ôbrać w <a data-l10n-name="link-options">ôpcyjach</a>
+       *[other] Inkszy motōr zeszukōnku idzie ôbrać we <a data-l10n-name="link-options">preferyncyjach</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Zawrzij
