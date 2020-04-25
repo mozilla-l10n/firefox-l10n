@@ -235,6 +235,10 @@ translate-attribution = Vertimą teikia <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Išimtys…
     .accesskey = š
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Naudoti jūsų operacinės sistemos nuostatas, skirtas „{ $localeName }“, formatuojant datas, laikus, skaičius, ir matavimus.
 check-user-spelling =
     .label = Tikrinti rašybą renkant tekstą
     .accesskey = k
