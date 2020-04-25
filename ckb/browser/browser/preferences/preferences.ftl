@@ -315,12 +315,51 @@ sync-signedin-settings-desc = ئەوە هەڵبژێرە کە دەتەوێ هاو
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = هاوکاتگەری: کارایە
+prefs-syncing-off = هاوکاتگەری: کارانیە
+prefs-sync-setup =
+    .label = دروستکردن { -sync-brand-short-name }…
+    .accesskey = S
+prefs-sync-now =
+    .labelnotsyncing = هاوکاتگەری بکە ئێستا
+    .accesskeynotsyncing = N
+    .labelsyncing = هاوکاتگەری دەکات…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = تۆ ئێستا ئەم بڕگانە هاوکاتگەری پێدەکەیت:
+sync-currently-syncing-bookmarks = دڵخوازەکان
+sync-currently-syncing-history = مێژوو
+sync-currently-syncing-tabs = بازدەر بکەرەوە
+sync-currently-syncing-logins-passwords = چوونەژوورەوە و وشەی تێپەڕەکان
+sync-currently-syncing-addresses = ناونیشانەکان
+sync-currently-syncing-creditcards = کارتی پڕکردنەوەی بانکی
+sync-currently-syncing-addons = پێوەکراوەکان
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] هەڵبژاردەکان
+       *[other] هەڵبژاردنەکان
+    }
+sync-change-options =
+    .label = گۆڕین...
+    .accesskey = C
 
 ## The "Choose what to sync" dialog.
 
+sync-engine-bookmarks =
+    .label = دڵخوازەکان
+    .accesskey = m
+sync-engine-history =
+    .label = مێژوو
+    .accesskey = r
+sync-engine-tabs =
+    .label = بازدەر بکەرەوە
+    .tooltiptext = لیستەی ئەوانەی کە ئێستا لە هەموو ئامێرەکان کراوەتەوە
+    .accesskey = t
+sync-engine-logins =
+    .label = چوونەژوورەوەکان
+    .tooltiptext = ناوی بەکارهێنەر و وشەی تێپەڕبووەکان کە پاشەکەوت کراون
+    .accesskey = L
 
 ## The device name controls.
 
