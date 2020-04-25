@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = افتح القائمة
-# This menuitem is only visible on Windows
-menu-menuitem-import = استورِد كلمات السر…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = استورِد من متصفح آخر…
 menu-menuitem-preferences =
@@ -54,6 +52,7 @@ login-list-sort-label-text = افرز حسب:
 login-list-name-option = الاسم (ا-ي)
 login-list-name-reverse-option = الاسم (ي-ا)
 login-list-breached-option = المواقع المسرّبة بياناتها
+about-logins-login-list-alerts-option = التنبيهات
 login-list-last-changed-option = آخر تعديل
 login-list-last-used-option = آخر استخدام
 login-list-intro-title = لا جلسات ولوج
@@ -168,6 +167,17 @@ breach-alert-text = تسرّبت كلمات السر (أو سُرقت) من هذ
 breach-alert-link = اعرف المزيد عن تسرّب البيانات هذا.
 breach-alert-dismiss =
     .title = أغلِق هذا التنبيه
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = انتقل إلى { $hostname }
+about-logins-breach-alert-learn-more-link = اطّلع على المزيد
+
+## Vulnerable Password notification
+
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = انتقل إلى { $hostname }
+about-logins-vulnerable-alert-learn-more-link = اطّلع على المزيد
 
 ## Error Messages
 

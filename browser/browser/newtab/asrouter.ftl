@@ -235,3 +235,19 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = اعرض الكل
     .accesskey = ع
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = اصنع كلمات سر آمنة بسهولة
+cfr-whatsnew-lockwise-body = من الصعب بمكان التفكير بكلمة سر آمنة وفريدة لكلّ حساب من حساباتك. في المرة القادمة حين تختار كلمة سر، انقر حقل كلمة السر لاستعمال كلمة سر آمنة ولّدها { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = أيقونة { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = أيقونة الڤديو المعترِض
