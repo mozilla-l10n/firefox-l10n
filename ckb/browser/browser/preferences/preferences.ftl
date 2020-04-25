@@ -508,19 +508,113 @@ content-blocking-learn-more = زیاتر بزانە
 content-blocking-setting-standard =
     .label = ستاندارد
     .accesskey = d
+content-blocking-setting-strict =
+    .label = پتەو
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = دڵخواز
+    .accesskey = C
+content-blocking-custom-desc = هەڵبژێرە چیت دەوێ بلۆکی بکەیت.
+content-blocking-third-party-cookies = شەکرۆکەی چاودێری لایەنی سێهەم
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = ستاندارد
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = پتەو
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = خوازراو
+    .accesskey = C
 
 ##
 
+content-blocking-all-cookies = هەموو شەکرۆکەکان
+content-blocking-unvisited-cookies = شەکرۆکە لەو ماڵپەڕانەی کە سەردانت نەکردوون
+content-blocking-all-windows-trackers = چاودێریکەرانی ناسراو لە هەموو پەنجەرەکان
+content-blocking-all-windows-tracking-content = چاودێریکردنی ناوەڕۆک لە هەموو پەنجەرەکان
+content-blocking-all-third-party-cookies = هەموو شەکرۆکەکانی لایەنی سێهەم
+content-blocking-fingerprinters = پەنجە مۆرەکان
+content-blocking-warning-title = ئاگاداربە!
+content-blocking-learn-how = بزانە چۆن
+content-blocking-warning-learn-how = بزانە چۆن
+content-blocking-reload-tabs-button =
+    .label = هەموو بازدەرەکان باربکەرەوە
+    .accesskey = R
+content-blocking-trackers-label =
+    .label = چاودێریکەر
+    .accesskey = T
+content-blocking-tracking-content-label =
+    .label = چاودێریکردنی ناوەڕۆک
+    .accesskey = T
+content-blocking-tracking-protection-option-all-windows =
+    .label = لە هەموو پەنجەرەکان
+    .accesskey = A
+content-blocking-option-private =
+    .label = تەنها لە پەنجەرەی تایبەت
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = لیستەی بلۆک بگۆڕە
+content-blocking-cookies-label =
+    .label = شەکرۆکە
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = زانیاری زیاتر
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = پەنجە مۆرەکان
+    .accesskey = F
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = بەڕێوەبردنی هەڵاوێردەکان...
+    .accesskey = x
 
 ## Privacy Section - Permissions
 
+permissions-header = ڕێگەپێدانەکان
+permissions-location = شوێن
+permissions-location-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = t
+permissions-xr = ڕاستی گریمانەیی
+permissions-xr-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = t
+permissions-camera = کامێرا
+permissions-camera-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = t
+permissions-microphone = مایکرۆفۆن
+permissions-microphone-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = t
+permissions-notification = ئاگانامەکان
+permissions-notification-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = t
+permissions-notification-link = زیاتر بزانە
+permissions-notification-pause =
+    .label = ئاگاانامەکان بوەستێنە تاوەکوو { -brand-short-name } پێدەکرێتەوە
+    .accesskey = n
+permissions-block-autoplay-media-exceptions =
+    .label = هەڵاوێردی...
+    .accesskey = E
+permissions-autoplay = خۆپێکردن
+permissions-autoplay-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = t
+permissions-block-popups =
+    .label = دەرچوننی لە ناکاوی پەنجەرە بلۆک بکە
+    .accesskey = B
+permissions-block-popups-exceptions =
+    .label = هەڵاوێردی...
+    .accesskey = E
 
 ## Privacy Section - Data Collection
 
