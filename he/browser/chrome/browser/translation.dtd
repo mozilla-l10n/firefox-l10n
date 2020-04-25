@@ -9,10 +9,10 @@
   -  In en-US it looks like this:
   -    This page is in [detected language] Translate this page?
   -  "detected language" here is a language name coming from the
-  -  global/languageNames.properties file; for some locales it may not be in
+  -  toolkit/intl/languageNames.ftl file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-<!ENTITY translation.thisPageIsIn.label         "דף זה בשפות אחרות">
+<!ENTITY translation.thisPageIsIn.label         "דף זה מוצג בשפה">
 <!ENTITY translation.translateThisPage.label    "האם לתרגם את דף זה?">
 <!ENTITY translation.translate.button           "תרגום">
 <!ENTITY translation.notNow.button              "לא כעת">
@@ -27,7 +27,7 @@
   -  In en-US it looks like this:
   -    This page has been translated from [from language] to [to language]
   -  "from language" and "to language" here are language names coming from the
-  -  global/languageNames.properties file; for some locales they may not be in
+  -  toolkit/intl/languageNames.ftl file; for some locales they may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence.
   -
@@ -53,7 +53,7 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "לעולם לא לתרגם את אתר זה">
-<!ENTITY translation.options.neverForSite.accesskey "ל">
+<!ENTITY translation.options.neverForSite.accesskey "א">
 <!ENTITY translation.options.preferences.label  "העדפות תרגום">
 <!ENTITY translation.options.preferences.accesskey "ע">
 
@@ -62,7 +62,7 @@
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
-<!ENTITY translation.options.attribution.beforeLogo "תרגום של">
+<!ENTITY translation.options.attribution.beforeLogo "התרגומים מאת">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
