@@ -4,9 +4,9 @@
 
 aboutDialog-title =
     .title =
-        { -brand-full-name.has-cases ->
-            [yes] Tietoja { -brand-full-name(case: "elative") }
-           *[no] Tietoja: { -brand-full-name }
+        { -brand-full-name.case-status ->
+            [with-cases] Tietoja { -brand-full-name(case: "elative") }
+           *[no-cases] Tietoja: { -brand-full-name }
         }
 releaseNotes-link = Mitä uutta
 update-checkForUpdatesButton =
@@ -29,7 +29,7 @@ update-restarting = Käynnistetään uudestaan…
 channel-description = Ohjelman päivitykset ovat tyyppiä <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } on kokeellinen versio ja voi olla epävakaa.
 community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> on <label data-l10n-name="community-exp-creditsLink">kansainvälinen yhteisö</label>, joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa Internetiä.
-community-2 = Tämän ohjelman on kehittänyt <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">kansainvälinen yhteisö</label>, joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa internetiä.
+community-2 = { -brand-short-name(case: "genitive") } on kehittänyt <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, <label data-l10n-name="community-creditsLink">kansainvälinen yhteisö</label>, joka pyrkii kehittämään avointa, julkista ja kaikkien käytettävissä olevaa internetiä.
 helpus = Haluatko auttaa? <label data-l10n-name="helpus-donateLink">Tee lahjoitus</label> tai <label data-l10n-name="helpus-getInvolvedLink">liity joukkoon!</label>
 bottomLinks-license = Lisenssitiedot
 bottomLinks-rights = Loppukäyttäjän oikeudet

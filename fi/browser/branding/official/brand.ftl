@@ -49,9 +49,10 @@
     .case-status = with-cases
 -vendor-short-name =
     { $case ->
+       *[nominative] Mozilla
         [allative] Mozillalle
         [elative] Mozillasta
         [genetive] Mozillan
-       *[nominative] Mozilla
     }
+    .case-status = with-cases
 trademarkInfo = Firefox ja Firefoxin logo ovat Mozilla-säätiön tavaramerkkejä.
