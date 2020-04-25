@@ -289,6 +289,29 @@ update-in-progress-title = نوێکاریی لە کاردایە
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = وێنەی تاکەکەسی دیاریبکە
+sync-disconnect =
+    .label = دەرهێڵ بە
+    .accesskey = D
+sync-sign-out =
+    .label = بچۆ دەرەوە
+    .accesskey = g
+sync-manage-account = ڕێکخستنی هەژمار
+    .accesskey = o
+sync-signedin-unverified = { $email } نەسەلمێندراوە
+sync-signedin-login-failure = هەوڵ بدە دووبارە { $email } ببەستەوە
+sync-resend-verification =
+    .label = دڵنیابونەوە بنێرەوە
+    .accesskey = d
+sync-remove-account =
+    .label = هەژمار بسڕەوە
+    .accesskey = R
+sync-sign-in =
+    .label = بچۆژوورەوە
+    .accesskey = g
+sync-signedin-settings-header = ڕێکخستنی هاوکاتگەری
+sync-signedin-settings-desc = ئەوە هەڵبژێرە کە دەتەوێ هاوکاتگەری پێبکرێت بە هۆی { -brand-short-name }
 
 ## Sync section - enabling or disabling sync.
 
