@@ -27,7 +27,13 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY stats.activitySeeking "(بردنە پێش)">
 <!ENTITY stats.volume "پلەی دەنگ">
 <!ENTITY stats.framesDecoded "چوارچیوە بەکۆدکراوە">
+<!ENTITY stats.framesPresented "چوارچێوەی پیشاندراو">
+<!ENTITY stats.framesPainted "چوارچێوەی کێشراو">
 
+<!ENTITY error.aborted "بارکردنی ڤیدیۆ وەستا">
+<!ENTITY error.network "پێکردنەوەی ڤیدیۆ وەستا بەهۆی کێشەی ڕایەڵەوە.">
+<!ENTITY error.decode "ناتوانرێت ڤیدیۆ لێبدرێت چونکە پەڕگەکەی تێکشکاوە.">
+<!ENTITY error.srcNotSupported "جۆری ڤیدیۆکە یان جۆری MIME پشتگیری ناکرێت.">
 
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
