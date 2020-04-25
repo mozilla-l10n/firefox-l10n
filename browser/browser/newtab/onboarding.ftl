@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Başlayalım
 onboarding-welcome-header = { -brand-short-name } tarayıcısına hoş geldiniz
 onboarding-welcome-body = Tarayıcınız hazır. Ama { -brand-product-name } yalnızca bir tarayıcı değil.
 onboarding-welcome-learn-more = Avantajlar hakkında daha fazla bilgi alın.
+onboarding-join-form-header = { -brand-product-name }’a katılın
 onboarding-welcome-modal-get-body = Tarayıcınız hazır. Ama { -brand-product-name } yalnızca bir tarayıcı değil.
 onboarding-welcome-modal-supercharge-body = Gizlilik korumanızı güçlendirin.
 onboarding-welcome-modal-privacy-body = Tarayıcınız hazır. Şimdi biraz daha gizlilik koruması ekleyelim.
 onboarding-welcome-modal-family-learn-more = { -brand-product-name } ürün ailesi hakkında bilgi alın.
 onboarding-welcome-form-header = Buradan başlayın
-onboarding-join-form-header = { -brand-product-name }’a katılın
 onboarding-join-form-body = Başlamak için e-posta adresinizi yazın.
 onboarding-join-form-email =
     .placeholder = E-postanızı yazın
@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Eklentiyi yükle
 onboarding-import-browser-settings-title = Yer imlerinizi, parolalarınızı ve daha fazlasını içe aktarın
 onboarding-import-browser-settings-text = Hemen başlayın: Chrome'daki sitelerinizi ve ayarlarınızı taşıyın.
 onboarding-import-browser-settings-button = Chrome verilerini içe aktar
+onboarding-personal-data-promise-button = Sözümüzü okuyun
 
 ## Message strings belonging to the Return to AMO flow
 
