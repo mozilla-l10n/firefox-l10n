@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Liudijimų įstaiga
 certificate-viewer-cipher-suite = Šifrų rinkinys
 certificate-viewer-common-name = Bendrasis vardas
 certificate-viewer-email-address = El. pašto adresas
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = „{ $firstCertName }“ liudijimas
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Registravimo šalis
 certificate-viewer-country = Šalis
