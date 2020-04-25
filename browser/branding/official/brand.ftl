@@ -15,28 +15,38 @@
 
 -brand-shorter-name =
     { $case ->
+       *[nominative] Firefox
         [elative] Firefoxista
         [genetive] Firefoxin
         [illative] Firefoxiin
-       *[nominative] Firefox
     }
+    .case-status = with-cases
 -brand-short-name =
     { $case ->
+       *[nominative] Firefox
         [elative] Firefoxista
         [genetive] Firefoxin
         [illative] Firefoxiin
-       *[nominative] Firefox
     }
--brand-full-name = Mozilla Firefox
+    .case-status = with-cases
+-brand-full-name =
+    { $case ->
+       *[nominative] Mozilla Firefox
+        [elative] Mozilla Firefoxista
+        [genetive] Mozilla Firefoxin
+        [illative] Mozilla Firefoxiin
+    }
+    .case-status = with-cases
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name =
     { $case ->
+       *[nominative] Firefox
         [elative] Firefoxista
         [genetive] Firefoxin
         [illative] Firefoxiin
-       *[nominative] Firefox
     }
+    .case-status = with-cases
 -vendor-short-name =
     { $case ->
         [allative] Mozillalle

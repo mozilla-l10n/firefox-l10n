@@ -3,7 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = Tietoja: { -brand-full-name }
+    .title =
+        { -brand-full-name.has-cases ->
+            [yes] Tietoja { -brand-full-name(case: "elative") }
+           *[no] Tietoja: { -brand-full-name }
+        }
 releaseNotes-link = Mitä uutta
 update-checkForUpdatesButton =
     .label = Hae päivityksiä
