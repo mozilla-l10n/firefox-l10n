@@ -30,6 +30,8 @@ certificate-viewer-exponent = Diskouezher
 certificate-viewer-id = ID
 certificate-viewer-key-id = ID an alc'hwez
 certificate-viewer-key-size = Ment an alc'hwez
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Sez sokial
 certificate-viewer-locality = Kêr
 certificate-viewer-location = Lec'hiadur
 certificate-viewer-method = Hentenn
@@ -45,6 +47,8 @@ certificate-viewer-public-value = Talvoudegezh foran
 certificate-viewer-purposes = Palioù
 certificate-viewer-required = Rediet
 certificate-viewer-unsupported = &lt;diembreget&gt;
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-state-province = Bro/Rannvro an enrolladur
 certificate-viewer-state-province = Stad/Rannvro
 certificate-viewer-sha-1 = SHA-1
 certificate-viewer-sha-256 = SHA-256
@@ -54,14 +58,17 @@ certificate-viewer-timestamp = Merk amzer
 certificate-viewer-value = Talvoudegezh
 certificate-viewer-version = Handelv
 certificate-viewer-business-category = Rummad business
+certificate-viewer-subject-name = Anv an danvez
 certificate-viewer-issuer-name = Anv ar skigner
 certificate-viewer-validity = Talvoudegezh
+certificate-viewer-subject-alt-names = Anvioù all an danvez
 certificate-viewer-public-key-info = Titouroù an alc'hwez foran
 certificate-viewer-miscellaneous = A bep seurt
 certificate-viewer-fingerprints = Roudoù biz
 certificate-viewer-basic-constraints = Rediennoù diazez
 certificate-viewer-key-usages = Implijoù an alc'hwez
 certificate-viewer-extended-key-usages = Implijoù astennet an alc'hwez
+certificate-viewer-subject-key-id = ID alc'hwez an danvez
 certificate-viewer-authority-key-id = ID alc'hwez an aotrouniezh
 certificate-viewer-authority-info-aia = Titouroù diwar-benn an aotrouniezh (AIA)
 certificate-viewer-certificate-policies = Politikerezhioù an testeni
@@ -81,6 +88,8 @@ certificate-viewer-boolean =
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (testeni)
+    .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chadenn)
     .download = { $fileName }-chain.pem
 certificate-viewer-export = Ezporzhiañ
