@@ -16,10 +16,17 @@ certificate-viewer-certificate-authority = Aotrouniezh testeniañ
 certificate-viewer-cipher-suite = Hedad sifroù
 certificate-viewer-common-name = Anv boutin
 certificate-viewer-email-address = Chomlec'h postel
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Testeni evit { $firstCertName }
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Bro an enrolladur
 certificate-viewer-country = Bro
+certificate-viewer-curve = Krommenn
 certificate-viewer-dns-name = Anv DNS
 certificate-viewer-ip-address = Chomlec'h IP
 certificate-viewer-other-name = Anv all
+certificate-viewer-exponent = Diskouezher
 certificate-viewer-id = ID
 certificate-viewer-key-id = ID an alc'hwez
 certificate-viewer-key-size = Ment an alc'hwez
