@@ -16,6 +16,23 @@ address-input-type =
         [few] Pole „{ $type }” z { $count } adresami
        *[many] Pole „{ $type }” z { $count } adresami
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] Pole „{ $type }” z jednym adresem, użyj strzałki w lewo, aby go aktywować.
+        [few] Pole „{ $type }” z { $count } adresami, użyj strzałki w lewo, aby je aktywować.
+       *[many] Pole „{ $type }” z { $count } adresami, użyj strzałki w lewo, aby je aktywować.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: naciśnij Enter, aby edytować, Delete, aby usunąć.
+        [few] { $email }, 1 z { $count }: naciśnij Enter, aby edytować, Delete, aby usunąć.
+       *[many] { $email }, 1 z { $count }: naciśnij Enter, aby edytować, Delete, aby usunąć.
+    }
 pill-action-edit =
     .label = Edytuj adres
     .accesskey = E
