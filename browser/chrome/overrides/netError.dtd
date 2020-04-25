@@ -70,13 +70,13 @@
 <!ENTITY contentEncodingError.title "Greška kodiranja sadržaja">
 
 <!ENTITY contentEncodingError.longDesc "<ul>
-  <li>Kontaktiraj vlasnike stranice i obavijesti ih o ovom problemu.</li>
+  <li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "Nesiguran tip datoteke">
 
 <!ENTITY unsafeContentType.longDesc "<ul>
-  <li>Kontaktiraj vlasnike stranice i obavijesti ih o ovom problemu.</li>
+  <li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li>
 </ul>">
 
 <!ENTITY netReset.title "Veza je prekinuta">
@@ -126,8 +126,8 @@
 <!ENTITY nssFailure2.title "Neuspjeh otvaranja sigurne veze">
 
 <!ENTITY nssFailure2.longDesc2 "<ul>
-  <li>Nije moguće prikazati stranicu koju pokušavaš otvoriti, jer nije moguće provjeriti autentičnost primljenih podataka.</li>
-  <li>Kontaktiraj vlasnike stranice i obavijesti ih o ovom problemu.</li>
+  <li>Stranicu koju pokušavaš vidjeti nije moguće prikazati, jer nije moguće provjeriti autentičnost primljenih podataka.</li>
+  <li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li>
 </ul>">
 
 <!ENTITY certerror.longpagetitle2 "Upozorenje: potencijalni sigurnosni rizik">
@@ -165,7 +165,7 @@ was trying to connect. -->
 
 <!ENTITY corruptedContentErrorv2.title "Greška oštećenog sadržaja">
 
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Nije moguće prikazati stranicu koju pokušavaš otvoriti zbog greške u prijenosu podataka.</p><ul><li>Obavijesti vlasnike web-stranice o ovom problemu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Prihvati rizik i nastavi">
 
@@ -174,7 +174,7 @@ was trying to connect. -->
 
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Uspostava sigurne veze nije uspjela">
 
@@ -216,4 +216,4 @@ was trying to connect. -->
 
 <!ENTITY networkProtocolError.title "Greška mrežnog protokola">
 
-<!ENTITY networkProtocolError.longDesc "<p>Nije moguće prikazati stranicu koju pokušavaš otvoriti zbog greške u prijenosu podataka.</p><ul><li>Obavijesti vlasnike web-stranice o ovom problemu.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u mrežnom protokolu.</p><ul><li>Obavijesti vlasnike stranica o ovom problemu.</li></ul>">
