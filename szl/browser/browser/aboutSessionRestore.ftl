@@ -29,3 +29,11 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
+welcome-back-tab-title = Sukces!
+welcome-back-page-title = Sukces!
+welcome-back-page-info = Aplikacyjo { -brand-short-name } je gotowo do używanio.
+welcome-back-restore-button =
+    .label = Lecymy!
+    .accesskey = L
+welcome-back-restore-all-label = Wrōć wszyskie ôkna i karty
+welcome-back-restore-some-label = Wrōć ino te, co chcesz
