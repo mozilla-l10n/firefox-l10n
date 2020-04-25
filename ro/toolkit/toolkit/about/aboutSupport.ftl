@@ -259,13 +259,13 @@ webgl2-renderer = Renderul driverului WebGL 2
 webgl2-version = Versiunea driverului WebGL 2
 webgl2-driver-extensions = Extensiile driverului WebGL 2
 webgl2-extensions = Extensii WebGL 2
-blocklisted-bug = Pe lista de blocări din cauza problemelor cunoscute
+blocklisted-bug = Pe lista de blocări din cauza unor probleme cunoscute
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
-unknown-failure = Pe lista de blocări; codu de eroare { $failureCode }
+unknown-failure = Pus pe lista de blocări; cod de eroare { $failureCode }
 d3d11layers-crash-guard = Compozitor D3D11
 d3d11video-crash-guard = Decodor video D3D11
 d3d9video-crash-buard = Decodor video D3D9
