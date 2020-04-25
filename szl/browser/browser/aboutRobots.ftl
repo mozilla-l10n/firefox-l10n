@@ -20,3 +20,10 @@ error-long-desc1 = Robot niy śmiy skrziwdzić człowieka, ani dopuścić do jeg
 error-long-desc2 = Roboty widziały rzeczy, w kere wy, ludzie, byście ani niy uwierzili.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Roboty to twoje plastikowe kamraty, z kerymi szpas je być.
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Roboty majōm wyglancowane, metalowe zadki, kerych niy zdo sie gryzać.
+# TV: Battlestar Galactica (2004 series). From the opening text.
+error-trailer-desc-text = I majōm plan.
+# Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
+error-try-again = Sprōbuj jeszcze roz
+    .label2 = Niy prziciskej zaś tego knefla.
