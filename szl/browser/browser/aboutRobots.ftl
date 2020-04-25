@@ -14,3 +14,9 @@ page-title = Gort! Klaatu barada nikto!
 error-title-text = Witejcie, ludzie!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Przibylimy do wos w pokoju i z dobrōm wolōm.
+# Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
+error-long-desc1 = Robot niy śmiy skrziwdzić człowieka, ani dopuścić do jego krziwdy skuli chybiynio dziołanio.
+# Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
+error-long-desc2 = Roboty widziały rzeczy, w kere wy, ludzie, byście ani niy uwierzili.
+# Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
+error-long-desc3 = Roboty to twoje plastikowe kamraty, z kerymi szpas je być.
