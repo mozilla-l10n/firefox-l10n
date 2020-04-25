@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Wystąpił błąd podczas wysyłania zgłoszenia. Proszę spróbować ponownie później.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Naprawiło to stronę? Wyślij zgłoszenie
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Ścisła
+    .label = Ścisła
+protections-popup-footer-protection-label-custom = Własna
+    .label = Własna
+protections-popup-footer-protection-label-standard = Standardowa
+    .label = Standardowa

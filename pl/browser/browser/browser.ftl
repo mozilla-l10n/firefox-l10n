@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimalizuj
+browser-window-maximize-button =
+    .tooltiptext = Maksymalizuj
+browser-window-restore-down-button =
+    .tooltiptext = Przywróć w dół
 browser-window-close-button =
     .tooltiptext = Zamknij
 
