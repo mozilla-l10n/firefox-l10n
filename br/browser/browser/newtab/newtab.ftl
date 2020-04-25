@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Ne c'haller ket dizober ar gwezh-mañ.
 newtab-menu-section-tooltip =
     .title = Digeriñ al lañser
     .aria-label = Digeriñ al lañser
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Dilemel
+    .aria-label = Dilemel
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,7 +90,6 @@ newtab-menu-show-privacy-info = Hor c'hevelerien hag ho puhez prevez
 
 newtab-privacy-modal-button-done = Graet
 newtab-privacy-modal-header = Pouezus eo ho puhez prevez
-newtab-privacy-modal-paragraph = Kinnig a reomp deoc'h istorioù dedennus, met ivez danvezioù dibabet gant aked eus hor c'hevelerien. Bezit dinec'het: morse ne vo kaset ho roadennoù merdeiñ e diavaez ho eilenn hiniennel { -brand-product-name } — ne welont ket anezho hag hor c'hevelerien kennebeut.
 newtab-privacy-modal-paragraph-2 = Kinnig a reomp deoc'h istorioù dedennus, met ivez danvezioù dibabet gant aked eus hor c'hevelerien. Bezit dinec'het: <strong>morse ne vo kaset ho roadennoù merdeiñ e diavaez ho eilenn hiniennel { -brand-product-name }</strong> — ne welont ket anezho hag hor c'hevelerien kennebeut.
 newtab-privacy-modal-link = Deskit penaos ec'h a en-dro ar prevezded war an ivinell nevez
 
@@ -181,7 +184,6 @@ newtab-discovery-empty-section-topstories-timed-out = Chaous! N'eo ket bet karge
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Danvezioù brudet:
 newtab-pocket-more-recommendations = Erbedadennoù ouzhpenn
-newtab-pocket-whats-pocket = Petra eo { -pocket-brand-name }?
 newtab-pocket-learn-more = Gouzout hiroc'h
 newtab-pocket-cta-button = Staliañ { -pocket-brand-name }
 newtab-pocket-cta-text = Enrollit pennadoù a-zoare e { -pocket-brand-name } ha magit ho spered gant lennadennoù boemus.
