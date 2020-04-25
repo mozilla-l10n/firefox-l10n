@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = لا يمكن التراجع عن هذا ال
 newtab-menu-section-tooltip =
     .title = افتح القائمة
     .aria-label = افتح القائمة
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = أزِل
+    .aria-label = أزِل
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -174,7 +178,6 @@ newtab-discovery-empty-section-topstories-timed-out = آخ. أوشكنا على 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = المواضيع الشائعة:
 newtab-pocket-more-recommendations = مقترحات أخرى
-newtab-pocket-whats-pocket = ما يكون { -pocket-brand-name }؟
 newtab-pocket-learn-more = اطّلع على المزيد
 newtab-pocket-cta-button = نزِّل { -pocket-brand-name }
 newtab-pocket-cta-text = احفظ القصص التي تحبّها في { -pocket-brand-name }، وزوّد عقلك بمقالات رائعة.

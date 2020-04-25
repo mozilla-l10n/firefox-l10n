@@ -151,6 +151,8 @@ page-action-manage-extension =
     .label = أدِر الامتدادات…
 page-action-remove-from-urlbar =
     .label = أزل من شريط العناوين
+page-action-remove-extension =
+    .label = أزِل الامتداد
 
 ## Auto-hide Context Menu
 
@@ -246,6 +248,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = صغّر
+browser-window-maximize-button =
+    .tooltiptext = كبِّر
 browser-window-close-button =
     .tooltiptext = أغلق
 
