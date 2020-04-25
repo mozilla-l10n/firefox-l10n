@@ -332,7 +332,7 @@ play-drm-content =
     .label = Toista DRM-suojattua sisältöä
     .accesskey = D
 play-drm-content-learn-more = Lue lisää
-update-application-title = Selaimen päivitykset
+update-application-title = { -brand-short-name }in päivitykset
 update-application-description = Pidä { -brand-short-name } ajan tasalla parhaan suorituskyvyn, vakauden ja turvallisuuden vuoksi.
 update-application-version = Versio { $version } <a data-l10n-name="learn-more">Mitä uutta</a>
 update-history =
