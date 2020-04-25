@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Suskleisti
+browser-window-maximize-button =
+    .tooltiptext = Išdidinti
+browser-window-restore-down-button =
+    .tooltiptext = Sumažinti
 browser-window-close-button =
     .tooltiptext = Užverti
 
