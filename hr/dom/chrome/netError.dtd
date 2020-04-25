@@ -50,7 +50,7 @@
 <!ENTITY netTimeout.longDesc "<p>Zatražena stranica nije odgovorila na zahtjev te je pretraživač prestao čekati odgovor.</p><ul><li>Možda je poslužitelj opterećen velikom količinom zahtjeva ili je privremeno ostao bez napajanja? Pokušaj ponovo kasnije.</li><li>Možeš li pregledati ostale stranice? Provjeri mrežnu vezu računala.</li><li>Je li tvoje računalo ili mreža zaštićena vatrozidom ili proxyem? Neispravne postavke mogu prouzročiti probleme prilikom pregledavanja weba.</li><li>Ukoliko još uvijek imaš probleme, obrati se administratoru mreže ili pružatelju internet usluge.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Nepoznat protokol">
-<!ENTITY unknownProtocolFound.longDesc "<p>Adresa definira protkol (npr. <q>xyz://</q>) kojeg pretraživač ne poznaje ili se ne može povezati sa zatraženom stranicom.</p><ul><li>Pokušavate li pristupiti multimedijskim ili drugim netekstualnim uslugama? Provjerite ima li stranica dodatnih zahtjeva.</li><li>Neki protokoli zahtijevaju program ili priključke treće strane, kako bi ih pretraživač mogao prepoznati.</li></ul>">
+<!ENTITY unknownProtocolFound.longDesc "<p>Adresa definira protkol (npr. <q>xyz://</q>) kojeg pretraživač ne poznaje ili se ne može povezati sa zatraženom stranicom.</p><ul><li>Pokušavaš li pristupiti multimedijskim ili drugim netekstualnim uslugama? Provjeri ima li stranica dodatnih zahtjeva.</li><li>Neki protokoli zahtijevaju program ili priključke treće strane, kako bi ih pretraživač mogao prepoznati.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbija povezivanje">
 <!ENTITY proxyConnectFailure.longDesc "<p>Preglednik je postavljen da koristi proxy poslužitelj, ali proxy poslužitelj odbija povezivanje.</p><ul><li>Jesu li proxy postavke ispravne? Provjeri postavke i pokušaj ponovo.</li><li>Dozvoljava li proxy usluga povezivanje iz ove mreže?</li><li>Ukoliko još uvijek imaš problema, obrati se administratoru mreže ili pružatelju internet usluge.</li></ul>">
@@ -65,7 +65,7 @@
 <!ENTITY unknownSocketType.longDesc "<p>Stranica je na mreži zahtjev odgovorila na neočekivani način, te stoga pretraživač ne može nastaviti.</p>">
 
 <!ENTITY nssFailure2.title "Sigurna veza nije uspjela">
-<!ENTITY nssFailure2.longDesc2 "<p>Stranica koju pokušavate vidjeti ne može se prikazati jer autentičnost primljenih podataka ne može biti provjerena.</p><ul><li>Molim, obavijestite vlasnika stranica o ovom problemu.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<p>Stranica koju pokušavaš vidjeti ne može se prikazati, jer se autentičnost primljenih podataka ne može provjeriti.</p><ul><li>Obavijesti vlasnike stranica o ovom problemu.</li></ul>">
 
 <!ENTITY nssBadCert.title "Sigurna veza nije uspjela">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -83,7 +83,7 @@
 <!ENTITY xfoBlocked.longDesc "<p>Preglednik je spriječio učitavanje ove stranice u ovom kontekstu jer ona sadrži X-Frame-Options pravilo koje to ne dopušta.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Greška neispravnog sadržaja">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Stranica koju pokušavaš vidjeti ne može se prikazati zbog greške u prijenosu podataka.</p><ul><li>Obavijesti vlasnike stranica o ovom problemu.</li></ul>">
 
 <!ENTITY remoteXUL.title "Udaljeni XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul></p>">
@@ -96,4 +96,4 @@
 <!ENTITY blockedByPolicy.title "Blokirana stranica">
 
 <!ENTITY networkProtocolError.title "Greška mrežnog protokola">
-<!ENTITY networkProtocolError.longDesc "<p>Stranicu kojoj pokušavate pristupiti nije moguće prikazati zbog greške u mrežnom protokolu.</p><ul><li>Obavijestite vlasnike web stranice o ovom problemu.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Stranica koju pokušavaš vidjeti ne može se prikazati zbog greške u mrežnom protokolu.</p><ul><li>Obavijesti vlasnike stranica o ovom problemu.</li></ul>">
