@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-private-browsing-learn-more = Przewiydz sie wiyncyj ô <a data-l10n-name="learn-more">prywatnym przeglōndaniu</a>.
-about-private-browsing-info-visited = nawiedzōne strōny
+about-private-browsing-info-visited = nawiydzōne strōny
 privatebrowsingpage-open-private-window-label = Ôdewrzij prywatne ôkno
     .accesskey = P
 about-private-browsing-info-notsaved = Jak przeglōndosz co w prywatnym ôknie, { -brand-short-name }<strong>niy spamiyntuje</strong>:
