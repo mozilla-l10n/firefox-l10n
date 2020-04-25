@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-account-central-title = Bienvenido a { -brand-short-name }
+account-central-title = Bienvenido a { -brand-full-name }
 account-settings = Configuraciones de la cuenta
 #   $accounts (Number) - the number of configured accounts
 setup-title =
