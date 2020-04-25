@@ -17,7 +17,7 @@
     { $case ->
        *[nominative] Firefox
         [elative] Firefoxista
-        [genetive] Firefoxin
+        [genitive] Firefoxin
         [illative] Firefoxiin
     }
     .case-status = with-cases
@@ -25,7 +25,7 @@
     { $case ->
        *[nominative] Firefox
         [elative] Firefoxista
-        [genetive] Firefoxin
+        [genitive] Firefoxin
         [illative] Firefoxiin
     }
     .case-status = with-cases
@@ -33,7 +33,7 @@
     { $case ->
        *[nominative] Mozilla Firefox
         [elative] Mozilla Firefoxista
-        [genetive] Mozilla Firefoxin
+        [genitive] Mozilla Firefoxin
         [illative] Mozilla Firefoxiin
     }
     .case-status = with-cases
@@ -43,7 +43,7 @@
     { $case ->
        *[nominative] Firefox
         [elative] Firefoxista
-        [genetive] Firefoxin
+        [genitive] Firefoxin
         [illative] Firefoxiin
     }
     .case-status = with-cases
@@ -52,7 +52,7 @@
        *[nominative] Mozilla
         [allative] Mozillalle
         [elative] Mozillasta
-        [genetive] Mozillan
+        [genitive] Mozillan
     }
     .case-status = with-cases
 trademarkInfo = Firefox ja Firefoxin logo ovat Mozilla-säätiön tavaramerkkejä.

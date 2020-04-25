@@ -241,10 +241,18 @@ menu-help =
     .label = Ohje
     .accesskey = O
 menu-help-product =
-    .label = Ohjelman ohje
-    .accesskey = O
+    .label =
+        { -brand-shorter-name.case-status ->
+            [with-cases] { -brand-shorter-name(case: "genitive") } ohje
+           *[no-cases] Ohjelman ohje
+        }
+    .accesskey = o
 menu-help-show-tour =
-    .label = Ohjelman esittely
+    .label =
+        { -brand-shorter-name.case-status ->
+            [with-cases] { -brand-shorter-name(case: "genitive") } esittely
+           *[no-cases] Ohjelman esittely
+        }
     .accesskey = e
 menu-help-import-from-another-browser =
     .label = Tuo toisesta selaimesta…
