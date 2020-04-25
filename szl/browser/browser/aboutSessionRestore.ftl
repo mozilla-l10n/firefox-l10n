@@ -37,3 +37,4 @@ welcome-back-restore-button =
     .accesskey = L
 welcome-back-restore-all-label = Wrōć wszyskie ôkna i karty
 welcome-back-restore-some-label = Wrōć ino te, co chcesz
+welcome-back-page-info-link = Twoje przidowki i włosne nasztalowania sōm skasowane, a przeglōndarka je wrōcono do bazowych nasztalowań. Jak durch mosz problym, <a data-l10n-name="link-more">przewiydz sie, co jeszcze idzie zrobić.</a>
