@@ -97,6 +97,8 @@ detail-update-automatic =
 detail-update-manual =
     .label = ناکارا
     .tooltiptext = دانەمەزراندنی خۆکارانەی نوێکاری
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = لە پەنجەرەیەکی تایبەت بیکەرەوە
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = ڕێگەپێنەدراوە لە پەنجەرەی تایبەت
@@ -334,3 +336,14 @@ release-notes-loading = باردەکرێت...
 
 ## Page headings
 
+locale-heading = بەڕێوەبردنی زمانەکان
+updates-heading = بەڕێوەبردنی نوێکارییەکان
+discover-heading = چاککردن بەدڵی خۆت { -brand-short-name }
+shortcuts-heading = بەڕێوەبردنی قەدبڕەکانی پێوەکراوە
+theme-heading-search-label = ڕووکاری زیاتر ببینە
+extension-heading-search-label = پێوەکراوی زیاتر بدۆزەوە
+default-heading-search-label = پێوەکراوی زیاتر بدۆزەوە
+addons-heading-search-input =
+    .placeholder = بگەڕێ لە addons.mozilla.org
+addon-page-options-button =
+    .title = ئامراز بۆ هەموو پێوەکراوەکان
