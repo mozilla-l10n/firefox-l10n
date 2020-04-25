@@ -108,16 +108,109 @@ detail-private-browsing-on =
 detail-private-browsing-off =
     .label = ڕێگە مەدە
     .tooltiptext = ناچالاک کردنی لە گەڕانی تایبەت
+detail-home =
+    .label = پەڕەی سەرەکی
+detail-home-value =
+    .value = { detail-home.label }
+detail-repository =
+    .label = پەڕەی تایبەتی پێوەکراو
+detail-repository-value =
+    .value = { detail-repository.label }
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] هەڵبژاردەکان
+           *[other] هەڵبژاردنەکان
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] هەڵبژاردەکانی ئەم پێوەکراوە بگۆڕە
+           *[other] هەڵبژاردنەکانی ئەم پێوە کراوە بگۆڕە
+        }
+detail-rating =
+    .value = پلەبەندی
+addon-restart-now =
+    .label = ئێستا پێبکەرەوە...
+disabled-unsigned-heading =
+    .value = هەندێک لە پێوەکراوەکان ناچالاکە
+extensions-view-discopane =
+    .name = پێشنیازکراوەکان
+    .tooltiptext = { extensions-view-discopane.name }
+extensions-view-recent-updates =
+    .name = دووا نوێکاری
+    .tooltiptext = { extensions-view-recent-updates.name }
+extensions-view-available-updates =
+    .name = نوێکاری بەردەست
+    .tooltiptext = { extensions-view-available-updates.name }
+addon-category-discover = پێشنیازکراوەکان
+addon-category-discover-title =
+    .title = پێشنیازکراوەکان
+addon-category-extension = پێوەکراوەکان
+addon-category-extension-title =
+    .title = پێوەکراوەکان
+addon-category-theme = ڕووکار
+addon-category-theme-title =
+    .title = ڕووکار
+addon-category-plugin = پێوەکراوەکان
+addon-category-plugin-title =
+    .title = پێوەکراوەکان
+addon-category-dictionary = فەرهەنگ
+addon-category-dictionary-title =
+    .title = فەرهەنگ
+addon-category-locale = زمانەکان
+addon-category-locale-title =
+    .title = زمانەکان
+addon-category-available-updates = نوێکاری بەردەست
+addon-category-available-updates-title =
+    .title = نوێکاری بەردەست
+addon-category-recent-updates = دووا نوێکاری
+addon-category-recent-updates-title =
+    .title = دووا نوێکاری
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = چالاک
+    .tooltiptext = چێکی گونجاندنی پێوەکراو چالاک بکە
+extensions-warning-update-security-enable =
+    .label = چالاک
+    .tooltiptext = چێکردنی پاراستنی نوێکاری پێوەکراو چالاک بکە
+extensions-warning-safe-mode = هەموو پیوەکراوەکان ناچالاک کران بە هۆی دۆخی پارێزراوی (safe).
+extensions-warning-check-compatibility-button = چالاک
+    .title = چێکردنی گونجاندنی پێوکراو چالاک بکە
+extensions-warning-update-security-button = چالاک
+    .title = چێکردنی پاراستنی نوێکاری پیوەکراو چالاک بکە
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = چێکردنی نوێکردنەوە
+    .accesskey = C
+extensions-updates-view-updates =
+    .label = دووا نوێکاری پیشان بدە
+    .accesskey = V
+addon-updates-check-for-updates = چێکردنی نوێکردنەوە
+    .accesskey = C
+addon-updates-view-updates = دووا نوێکاری پیشان بدە
+    .accesskey = V
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = نوێکردنەوەی پێوەکراوەکان خۆکارانەیە
+    .accesskey = A
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
@@ -137,6 +230,17 @@ detail-private-browsing-off =
 
 ## Recommended add-ons page
 
+discopane-notice-learn-more = زیاتر بزانە
+privacy-policy = ڕێوشوێنی تایبەتێتی
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = لە لایەن <a data-l10n-name="author">{ $author }</a>
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = بەکارهێنەران: { $dailyUsers }
+install-extension-button = زیادی بکە { -brand-product-name }
 
 ## Add-on actions
 
