@@ -112,9 +112,106 @@ containers-remove-cancel-button = ئەم لەخۆگرە مەسڕەوە
 
 language-and-appearance-header = زمانەکان و ڕووکارەکان
 fonts-and-colors-header = جۆرەپیت و ڕەنگەکان
+default-font = جۆرەپیتی سەرەکی
+    .accesskey = D
+default-font-size = قەبارە
+    .accesskey = S
+advanced-fonts =
+    .label = پێشکەوتوو...
+    .accesskey = A
+colors-settings =
+    .label = ڕەنگەکان...
+    .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = زووم
+preferences-default-zoom = زوومی بنەڕەت
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = تەنها دەقەکان زووم بکە
+    .accesskey = t
+language-header = زمان
+choose-language-description = زمانی بنەڕەتی هەڵبژێرە بۆ پیشاندانی پەڕەکان
+choose-button =
+    .label = دیاریبکە...
+    .accesskey = o
+manage-browser-languages-button =
+    .label = جێگرەوە دابنێ...
+    .accesskey = I
+confirm-browser-language-change-description = { -brand-short-name } پێبکەرەوە بۆ جێبەجێکردنی گۆڕانکارییەکان
+confirm-browser-language-change-button = جێبەجێیبکە و پێبکەرەوە
+translate-web-pages =
+    .label = وەرگێڕانی ناوەڕۆکی وێب
+    .accesskey = T
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = وەرگێردراوە لە لایەن <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = هەڵاوێردی...
+    .accesskey = x
 
 ## General Section - Files and Applications
 
+files-and-applications-title = پەڕگەکان و داوانامەکان
+download-header = داگرتنەکان
+download-save-to =
+    .label = پەڕگە پاشەکەوت بکە لە
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] هەڵبژێرە...
+           *[other] بگەڕێ...
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] e
+           *[other] o
+        }
+download-always-ask-where =
+    .label = هەموو کات بپرسە لەکوێ پاشەکەوتی بکە
+    .accesskey = A
+applications-header = داوانامەکان
+applications-filter =
+    .placeholder = بگەڕێ بۆ جۆری پەڕگە یان داوانامەکان
+applications-type-column =
+    .label = جۆری ناوەڕۆک
+    .accesskey = T
+applications-action-column =
+    .label = کردار
+    .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = { $extension } پەڕگە
+applications-action-save =
+    .label = پەڕگە پاشەکەوت بکە
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = { $app-name } بەکاربێنە
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = { $app-name } بەکاربێنە (بنەڕەتی)
+applications-use-other =
+    .label = هیتر بەکاربێنە...
+applications-select-helper = داوانامەی یارمەتیدەر هەڵبژێرە
+applications-manage-app =
+    .label = وردەکارییەکانی داوانامەکان...
+applications-always-ask =
+    .label = هەموو کات پرسیار بکە
+# Variables:
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+# Variables:
+#   $type-description (String) - Description of the type (e.g "Portable Document Format")
+#   $type (String) - the MIME type (e.g application/binary)
+applications-type-description-with-type = { $type-description } ({ $type })
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending } ({ $type })
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
