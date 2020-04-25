@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Caută mesaje…">
 <!ENTITY searchMailCmd.accesskey "m">
 <!ENTITY searchMailCmd.key "F">
+<!ENTITY glodaSearchCmd.label "Căutare globală…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Caută adrese…">
 <!ENTITY searchAddressesCmd.accesskey "s">
 
