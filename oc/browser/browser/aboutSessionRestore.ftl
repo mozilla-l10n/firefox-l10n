@@ -34,7 +34,7 @@ welcome-back-page-title = Succès !
 welcome-back-page-info = { -brand-short-name } es prèst.
 welcome-back-restore-button =
     .label = Ane !
-    .accesskey = L
+    .accesskey = A
 welcome-back-restore-all-label = Restablir totas las fenèstras e totes los onglets
 welcome-back-restore-some-label = Causir çò que vòli restablir
 welcome-back-page-info-link = Vòstres moduls complementaris e personalizacions son estats suprimits e los paramètres de navegacion son estats restaurats als per defaut. S'aquò n'a pas resolgut vòstre problèma, <a data-l10n-name="link-more">obténer mai d'informacion sus las autras possibilitats.</a>
