@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = Klaida pateikiant pranešimą. Prašome pabandyti vėliau.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Svetainė sutvarkyta? Praneškite
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Griežta
+    .label = Griežta
+protections-popup-footer-protection-label-custom = Kita
+    .label = Kita
+protections-popup-footer-protection-label-standard = Įprastinė
+    .label = Įprastinė
