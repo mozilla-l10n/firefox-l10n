@@ -241,12 +241,96 @@ created-by-author = لە لایەن <a data-l10n-name="author">{ $author }</a>
 #   $dailyUsers (number) - The number of daily users.
 user-count = بەکارهێنەران: { $dailyUsers }
 install-extension-button = زیادی بکە { -brand-product-name }
+install-theme-button = ڕووکار دامەزرێنە
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = ڕێکخستن
+find-more-addons = پێوەکراوی زیاتر بدۆزەوە
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = کرداری زیاتر
 
 ## Add-on actions
 
+report-addon-button = ڕاپۆرت
+remove-addon-button = سڕینەوە
+disable-addon-button = ناچالاک
+enable-addon-button = چالاک
+expand-addon-button = کرداری زیاتر
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = چالاک
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] هەڵبژاردەکان
+       *[other] هەڵبژاردنەکان
+    }
+details-addon-button = وردەکاری
+release-notes-addon-button = تێبینییەکانی بڵاوکراوە
+permissions-addon-button = ڕێگەپێدانەکان
+addons-enabled-heading = چالاکە
+addons-disabled-heading = ناچالاکە
+extension-enabled-heading = چالاکە
+extension-disabled-heading = ناچالاکە
+theme-enabled-heading = چالاکە
+theme-disabled-heading = ناچالاکە
+plugin-enabled-heading = چالاکە
+plugin-disabled-heading = ناچالاکە
+dictionary-enabled-heading = چالاکە
+dictionary-disabled-heading = ناچالاکە
+locale-enabled-heading = چالاکە
+locale-disabled-heading = ناچالاکە
+ask-to-activate-button = پرسیار بۆ چالاککردن
+always-activate-button = هەموو کات چالاک
+never-activate-button = بەهیچ جۆرێک چالاک نەبێت
+addon-detail-author-label = نووسەر
+addon-detail-version-label = وەشان
+addon-detail-last-updated-label = دووا نوێکردنەوە
+addon-detail-homepage-label = پەڕەی سەرەکی
+addon-detail-rating-label = پلەبەندی
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (ناچالاکە)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } پێداچوونەوە
+       *[other] { $numberOfReviews } پێداچوونەوەکان
+    }
 
 ## Pending uninstall message bar
 
+pending-uninstall-undo-button = گەڕانەوە
+addon-detail-updates-label = نوێکردنەوەی خۆکار ڕێگەبدە
+addon-detail-updates-radio-default = بنەڕەت
+addon-detail-updates-radio-on = کارا
+addon-detail-updates-radio-off = ناکارا
+addon-detail-update-check-label = چێکردنی نوێکردنەوە
+install-update-button = نوێکاری
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = ڕێگەپێدراوە لە پەنجەرەی تایبەت
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-allow = ڕێگەبدە
+addon-detail-private-browsing-disallow = ڕێگە مەدە
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = پێشنیارکراو
+    .alt = پێشنیارکراو
+available-updates-heading = نوێکاری بەردەست
+recent-updates-heading = دووا نوێکاری
+release-notes-loading = باردەکرێت...
 
 ## Page headings
 
