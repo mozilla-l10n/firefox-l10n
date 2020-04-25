@@ -16,6 +16,23 @@ address-input-type =
         [few] { $type } câmp de introdus date cu { $count } adrese
        *[other] { $type } câmp de introdus date cu { $count } de adrese
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } cu o adresă, folosește tasta cu săgeată la stânga pentru selecție.
+        [few] { $type } cu { $count } adrese, folosește tasta cu săgeată la stânga pentru selecție.
+       *[other] { $type } cu { $count } de adrese, folosește tasta cu săgeată la stânga pentru selecție.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: apasă Enter pentru editare, Delete pentru eliminare.
+        [few] { $email }, 1 din { $count }: apasă Enter pentru editare, Delete pentru eliminare.
+       *[other] { $email }, 1 din { $count }: apasă Enter pentru editare, Delete pentru eliminare.
+    }
 pill-action-edit =
     .label = Editează adresa
     .accesskey = e
