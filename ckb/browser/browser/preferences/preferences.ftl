@@ -31,9 +31,37 @@ search-input-box =
             [windows] بیدۆزەرەوە لە هەڵبژاردەکان
            *[other] بیدۆزرەوە لە هەڵبژاردنەکان
         }
+managed-notice = وێبگەڕەکەت بەڕێوەدەبرێت لەلایەن کۆمپانیاکەتەوە.
+pane-general-title = گشتی
+category-general =
+    .tooltiptext = { pane-general-title }
+pane-home-title = ماڵەوە
+category-home =
+    .tooltiptext = { pane-home-title }
+pane-search-title = گەڕان
+category-search =
+    .tooltiptext = { pane-search-title }
+pane-privacy-title = تایبەتی و پاراستن
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
+help-button-label = { -brand-short-name } پشتگیری
+addons-button-label = پێوەکراوەکان & ڕووکارەکان
+focus-search =
+    .key = f
+close-button =
+    .aria-label = داخستن
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = { -brand-short-name } پێویستە پێبکەیتەوە بۆ ئەوەی ئەم تایبەتمەندییە چالاک بێ.
+feature-disable-requires-restart = { -brand-short-name } پێویستە پێبکەیتەوە بۆ ئەم تایبەتمەندییە ناچالاک بێ.
+should-restart-title = پێکردنەوە { -brand-short-name }
+should-restart-ok = ئێستا { -brand-short-name } پێبکەرەوە
+cancel-no-restart-button = پاشگەزبوونەوە
+restart-later = دوواتر پێبکەوە
 
 ## Extension Control Notifications
 ##
@@ -45,15 +73,45 @@ search-input-box =
 ## Variables:
 ##   $name (String): name of the extension
 
+# This string is shown to notify the user that their home page
+# is being controlled by an extension.
+extension-controlled-homepage-override = پێوەکراوێک،  <img data-l10n-name="icon"/> { $name }, ماڵپەڕەکەت بەڕێوەدەبات.
 
 ## Preferences UI Search Results
 
+search-results-header = گەڕانی ئەنجامەکان
 
 ## General Section
 
+startup-header = دەستپێکردن
+set-as-my-default-browser =
+    .label = بیکە بنەڕەتی...
+    .accesskey = D
+startup-restore-previous-session =
+    .label = دانیشتنی پێشوو بهێنەوە
+    .accesskey = s
+startup-restore-warn-on-quit =
+    .label = ئاگادارت بکاتەوە کاتێک وێبگەڕ دادەخرێت
+disable-extension =
+    .label = پێوەکراو ناچالاک بکە
+tabs-group-header = بازدەرەکان
+browser-containers-enabled =
+    .label = بازدەری لەخۆگری چالاک بکە
+    .accesskey = n
+browser-containers-learn-more = زیاتر بزانە
+browser-containers-settings =
+    .label = ڕێکخستنەکان
+    .accesskey = i
+containers-disable-alert-title = هەموو بازدەرەکانی لەخۆگر دادەخەیت؟
+containers-disable-alert-cancel-button = بە چالاکی بیهێڵەوە
+containers-remove-alert-title = ئەم لەخۆگرە بسڕەوە؟
+containers-remove-ok-button = ئەم لەخۆگرە بسڕەوە
+containers-remove-cancel-button = ئەم لەخۆگرە مەسڕەوە
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = زمانەکان و ڕووکارەکان
+fonts-and-colors-header = جۆرەپیت و ڕەنگەکان
 
 ## General Section - Files and Applications
 
