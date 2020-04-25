@@ -217,9 +217,41 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 ## selected label element based on the string from
 ## the selected menu item.
 
+applications-use-plugin-in-label =
+    .value = { applications-use-plugin-in.label }
+applications-action-save-label =
+    .value = { applications-action-save.label }
+applications-use-app-label =
+    .value = { applications-use-app.label }
+applications-preview-inapp-label =
+    .value = { applications-preview-inapp.label }
+applications-always-ask-label =
+    .value = { applications-always-ask.label }
+applications-use-app-default-label =
+    .value = { applications-use-app-default.label }
+applications-use-other-label =
+    .value = { applications-use-other.label }
 
 ##
 
+play-drm-content-learn-more = زیاتر بزانە
+update-application-title = نوێکارییەکانی { -brand-short-name }
+update-application-description = { -brand-short-name } بەنوێکراوی بهێڵەوە، بۆ باشترین ئەرک، جێگیری، و پاراستن.
+update-application-version = وەشانی { $version } <a data-l10n-name="learn-more">چی نوێ هەیە</a>
+update-history =
+    .label = مێژووی نوێکاری پیشان بدە
+    .accesskey = p
+update-application-allow-description = ڕێگەبدە { -brand-short-name } کە
+update-application-auto =
+    .label = خۆکارانە نوێکاری دامەزرێنە (پیشنیارکراوە)
+    .accesskey = A
+update-application-check-choose =
+    .label = بگەڕێ بۆ نوێکردنەوە بەڵام ڕێگە بدە کە خۆم هەڵیبژێرم کەی دابمەزرێت
+    .accesskey = C
+update-application-manual =
+    .label = هیچ کاتێک چێکی نوێکاری مەکە (پێشنیارکراو نیە)
+    .accesskey = N
+update-in-progress-title = نوێکاریی لە کاردایە
 
 ## General Section - Performance
 
