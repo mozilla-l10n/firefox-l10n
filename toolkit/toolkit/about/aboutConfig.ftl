@@ -10,7 +10,7 @@ config-window =
 # This text should be attention grabbing and playful
 config-about-warning-title =
     .value = Ovo bi moglo poništiti tvoju garanciju!
-config-about-warning-text = Mijenjanje ovih naprednih postavki može biti štetno za stabilnost, sigurnost i učinak ovog programa. Nastavite samo ako znate što radite.
+config-about-warning-text = Mijenjanje ovih naprednih postavki može biti štetno za stabilnost, sigurnost i učinak ovog programa. Nastavi samo ako znaš što radiš.
 config-about-warning-button =
     .label = Prihvaćam rizik!
 config-about-warning-checkbox =
