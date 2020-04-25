@@ -360,33 +360,154 @@ sync-engine-logins =
     .label = چوونەژوورەوەکان
     .tooltiptext = ناوی بەکارهێنەر و وشەی تێپەڕبووەکان کە پاشەکەوت کراون
     .accesskey = L
+sync-engine-logins-passwords =
+    .label = چوونەژوورەوە و وشەی تێپەڕەکان
+    .tooltiptext = چوونەژوورەوە و وشەی تێپەڕەکان کە پاشەکەوت کراون
+    .accesskey = L
+sync-engine-addresses =
+    .label = ناونیشانەکان
+    .tooltiptext = نانونیشانی پۆست کە پاشەکەوتت کردووە (تەنها ڕوومێز)
+    .accesskey = e
 
 ## The device name controls.
 
+sync-device-name-header = ناوی ئامێر
+sync-device-name-change =
+    .label = ناوی ئامێر بگۆڕە...
+    .accesskey = h
+sync-device-name-cancel =
+    .label = پاشگەزبوونەوە
+    .accesskey = n
+sync-device-name-save =
+    .label = پاشەکەوتکردن
+    .accesskey = v
+sync-connect-another-device = پەیوەندی بکە بە ئامێرێکی تر
+sync-manage-devices = بەڕێوەبردنی ئامێرەکان
+sync-fxa-begin-pairing = ئامێرێک پیک ببەستەوە
+sync-tos-link = مەرجەکانی بەکارهێنان
+sync-fxa-privacy-notice = تێبینی تایبەتێتی
 
 ## Privacy Section
 
+privacy-header = تایبەتێتی وێبگەڕ
 
 ## Privacy Section - Forms
 
 
 ## Privacy Section - Logins and Passwords
 
+logins-header = چوونەژوورەوە و وشەی تێپەڕەکان
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = چوونەژوورەوە و وشەی تێپەڕەکان
+    .searchkeywords = { -lockwise-brand-short-name }
+forms-exceptions =
+    .label = هەڵاوێردی...
+    .accesskey = x
+forms-breach-alerts-learn-more-link = زیاتر بزانە
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = پڕکردنەوەی خۆکاری چوونەژوور و وشە تێپەڕەکان
+    .accesskey = i
+forms-saved-logins =
+    .label = چوونەژوورەوە پاشەکەوتکراوەکان...
+    .accesskey = L
+forms-master-pw-use =
+    .label = بەکارهێنانی وشەی تێپەڕی سەرەکی
+    .accesskey = U
+forms-master-pw-change =
+    .label = وشەی تێپەڕبوونی سەرەکی بگۆڕە...
+    .accesskey = M
+forms-master-pw-fips-title = تۆ ئێستا لە دۆخی FIPS دایت. FIPS پێویستە وشەی تێپەڕی سەرەکی بەتاڵ نەبێت.
+forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سەرکەوتوو نەبوو
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕی سەرەکی درووست بکەیت.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = وشەی تێپەڕبوونی سەرەکی درووست بکە
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
+history-header = مێژوو
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } هەڵئەسێت
+    .accesskey = w
+history-remember-option-all =
+    .label = مێژووی کار لەبیربێ
+history-remember-option-never =
+    .label = هەرگیز مێژووی کارەکانم مەهێڵەوە لە بیر
+history-remember-option-custom =
+    .label = ڕێکخستنی تایبەت بەکاربێنە بۆ مێژووی کار
+history-clear-on-close-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = t
+history-clear-button =
+    .label = پاککردنەوەی مێژوو...
+    .accesskey = s
 
 ## Privacy Section - Site Data
 
+sitedata-header = شەکرۆکە و زانیاری ماڵپەڕ
+sitedata-total-size-calculating = ژماردنی زانیاری ماڵپەڕ و قەبارەی شەکرۆکە...
+sitedata-learn-more = زیاتر بزانە
+sitedata-allow-cookies-option =
+    .label = شەکرۆکە و زانیاری ماڵپەڕ ڕێگە پێبدە
+    .accesskey = A
+sitedata-disallow-cookies-option =
+    .label = شەکرۆکە و زانیاری ماڵپەڕ ڕێگەمەدە
+    .accesskey = B
+sitedata-option-block-trackers =
+    .label = چاودێریکەری لایەنی سێهەم
+sitedata-option-block-cross-site-trackers =
+    .label = چاودێریکەری ناو ماڵپەڕ
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = چاودێریکەری ناو ماڵپەڕ و تۆڕی کۆمەڵایەتی
+sitedata-clear =
+    .label = زانیارییەکان بسڕەوە...
+    .accesskey = l
+sitedata-settings =
+    .label = بەڕێوەبردنی زانیارییەکان...
+    .accesskey = M
+sitedata-cookies-permissions =
+    .label = بەڕیوەبردنی ڕێگەپێدانەکان...
+    .accesskey = P
 
 ## Privacy Section - Address Bar
 
+addressbar-header = توڵی ناونیشان
+addressbar-locbar-history-option =
+    .label = مێژووی وێبگەڕی
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = دڵخوازەکان
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = بازدەر بکەرەوە
+    .accesskey = O
+addressbar-suggestions-settings = هەڵبژاردنەکان بگۆڕە بۆ پێشنیارەکانی بزوێنەری گەڕان
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = بلۆککردنی ناوەڕۆک
+content-blocking-learn-more = زیاتر بزانە
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = ستاندارد
+    .accesskey = d
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
