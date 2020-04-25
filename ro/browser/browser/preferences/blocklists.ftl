@@ -5,7 +5,6 @@
 blocklist-window =
     .title = Liste de blocări
     .style = width: 55em
-blocklist-desc = Poți alege care listă o va folosi { -brand-short-name } pentru a bloca elementele web care îți pot urmări activitatea de navigare.
 blocklist-description = Alege lista pe care { -brand-short-name } o folosește pentru a bloca elementele de urmărire online. Listele sunt furnizate de <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
@@ -25,11 +24,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Protecție de bază Disconnect.me (Recomandat).
-blocklist-item-moz-std-desc = Permite unele elemente de urmărire astfel încât site-urile web să funcționeze corespunzător.
-blocklist-item-moz-full-name = Protecție strictă Disconnect.me.
-blocklist-item-moz-full-desc = Blochează elementele de urmărire cunoscute. Este posibil ca unele site-uri web să nu funcționeze corespunzător.
 blocklist-item-moz-std-listName = Listă de blocare de nivel 1 (Recomandată).
 blocklist-item-moz-std-description = Permite unele elemente de urmărire pentru compatibilitate crescută cu site-urile web.
-blocklist-item-moz-full-listName = Listă de blocare de nivel 2.
+blocklist-item-moz-full-listName = Listă de blocare de nivelul 2.
 blocklist-item-moz-full-description = Blochează toate elementele de urmărire depistate. Unele site-uri web sau conținuturi s-ar putea încărca necorespunzător.
