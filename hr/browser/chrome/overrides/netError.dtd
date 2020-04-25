@@ -216,4 +216,4 @@ was trying to connect. -->
 
 <!ENTITY networkProtocolError.title "Greška mrežnog protokola">
 
-<!ENTITY networkProtocolError.longDesc "<p>Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u mrežnom protokolu.</p><ul><li>Obavijesti vlasnike stranica o ovom problemu.</li></ul>">
+<!ENTITY networkProtocolError.longDesc "<p>Stranicu koju pokušavaš vidjeti nije moguće prikazati zbog greške u mrežnom protokolu.</p><ul><li>Kontaktiraj vlasnike web-stranice i obavijesti ih o ovom problemu.</li></ul>">
