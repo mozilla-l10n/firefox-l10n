@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Свернуть
+browser-window-maximize-button =
+    .tooltiptext = Развернуть
+browser-window-restore-down-button =
+    .tooltiptext = Свернуть в окно
 browser-window-close-button =
     .tooltiptext = Закрыть
 

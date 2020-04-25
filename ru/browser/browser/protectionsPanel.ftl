@@ -5,3 +5,13 @@
 protections-panel-sendreportview-error = При отправке сообщения произошла ошибка. Пожалуйста, повторите попытку позже.
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Сайт был исправлен? Отправьте сообщение
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+protections-popup-footer-protection-label-strict = Строгая
+    .label = Строгая
+protections-popup-footer-protection-label-custom = Персональная
+    .label = Персональная
+protections-popup-footer-protection-label-standard = Стандартная
+    .label = Стандартная
