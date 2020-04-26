@@ -162,7 +162,7 @@ full-screen-autohide =
     .label = Skryj poski z noczyniami
     .accesskey = S
 full-screen-exit =
-    .label = Wylyź z trybu pōłnego ekranu
+    .label = Wylyź z trybu cołkigo ekranu
     .accesskey = W
 
 ## Search Engine selection buttons (one-offs)
