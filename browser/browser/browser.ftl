@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Pienennä ikkuna
+browser-window-maximize-button =
+    .tooltiptext = Suurenna
 browser-window-close-button =
     .tooltiptext = Sulje
 
