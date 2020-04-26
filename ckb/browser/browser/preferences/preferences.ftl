@@ -482,7 +482,7 @@ sitedata-settings =
     .label = بەڕێوەبردنی زانیارییەکان...
     .accesskey = M
 sitedata-cookies-permissions =
-    .label = بەڕیوەبردنی ڕێگەپێدانەکان...
+    .label = بەڕێوەبردنی ڕێگەپێدانەکان...
     .accesskey = P
 
 ## Privacy Section - Address Bar
@@ -615,18 +615,46 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = هەڵاوێردی...
     .accesskey = E
+permissions-addon-exceptions =
+    .label = هەڵاوێردی...
+    .accesskey = E
+permissions-a11y-privacy-link = زیاتر بزانە
 
 ## Privacy Section - Data Collection
 
+collection-privacy-notice = تێبینی لەسەر تایبەتێتی
+collection-health-report-telemetry-disabled-link = زیاتر بزانە
+collection-health-report-link = زیاتر بزانە
+addon-recommendations-link = زیاتر بزانە
+collection-backlogged-crash-reports-link = زیاتر بزانە
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = پاراستن
+security-enable-safe-browsing-link = زیاتر بزانە
 
 ## Privacy Section - Certificates
 
+certs-header = بڕوانامە
+certs-select-ask-option =
+    .label = هەموو کات پرسیارت لی دەکات
+    .accesskey = A
+space-alert-learn-more-button =
+    .label = زیاتر بزانە
+    .accesskey = L
+space-alert-under-5gb-ok-button =
+    .label = باشە، تێگەشتم
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
+desktop-folder-name = ڕوومێز
+downloads-folder-name = داگرتنەکان
+choose-download-folder-title = بوخچەی داگرتنەکان هەڵبژێرە:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = پەڕگەکان بکە { $service-name }
