@@ -124,6 +124,8 @@ urlbar-microphone-blocked =
     .tooltiptext = Dostymp tyj strōny do mikrofōnu je zaszperowany.
 urlbar-screen-blocked =
     .tooltiptext = Udostympnianie ôd tyj strōny twojigo ekranu je zaszperowane.
+urlbar-persistent-storage-blocked =
+    .tooltiptext = Chrōniynie ôd tyj strōny danych we pamiyńci trwałyj je zaszperowane.
 
 ## Page Action Context Menu
 

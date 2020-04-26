@@ -176,6 +176,18 @@ about-logins-breach-alert-learn-more-link = Wiyncyj informacyji
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Niybezpieczne hasło
+about-logins-vulnerable-alert-text2 = To hasło było użyte na inkszym kōńcie, co mogło być ujawniōne we wyciyku. Używanie tych danych logowanio może niy być bezpieczne. Zmiyń to hasło.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Idź do { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Wiyncyj informacyji
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Dane logowanio na { $loginTitle } ze takim mianym używocza już istniyjōm. <a data-l10n-name="duplicate-link">Pokozać dane, co już istniyjōm?</a>
+# This is a generic error message.
+about-logins-error-message-default = Doszło do feleru przi prōbie spamiyntanio tego hasła.
