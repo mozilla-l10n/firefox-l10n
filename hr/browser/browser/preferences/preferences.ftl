@@ -568,8 +568,8 @@ search-find-more-link = Pronađi daljnje tražilice
 search-keyword-warning-title = Postojeća ključna riječ
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = Odabrao/la si ključnu riječ koju trenutačno koristi "{ $name }". Odaberi jednu drugu.
-search-keyword-warning-bookmark = Odabrao/la si ključnu riječ koju koristi zabilješka. Odaberi jednu drugu.
+search-keyword-warning-engine = Odabrana je ključna riječ koju trenutačno koristi "{ $name }". Odaberi jednu drugu.
+search-keyword-warning-bookmark = Odabrana je ključna riječ koju koristi zabilješka. Odaberi jednu drugu.
 
 ## Containers Section
 

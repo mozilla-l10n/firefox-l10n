@@ -68,7 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = Tražiš svoje spremljene prijave? Postavi { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Nema sinkroniziranih prijava.
-login-intro-description = Ako si svoje prijave spremio/la na { -brand-product-name } na jednom drugom uređaju, evo kako ih možeš preuzeti ovamo:
+login-intro-description = Ako svoje prijave imaš spremljene na { -brand-product-name } na jednom drugom uređaju, evo kako ih možeš preuzeti ovamo:
 login-intro-instruction-fxa = Otvori račun ili se prijavi na svoj { -fxaccount-brand-name }, na uređaju gdje su tvoje prijave spremljene
 login-intro-instruction-fxa-settings = Provjeri, je li odabran potvrdni okvir prijave u { -sync-brand-short-name } postavkama
 about-logins-intro-instruction-help = Posjeti <a data-l10n-name="help-link">{ -lockwise-brand-short-name } podršku</a> za dodatnu pomoć
@@ -163,7 +163,7 @@ confirm-discard-changes-dialog-confirm-button = Odbaci
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Hakirana web-stranica
-breach-alert-text = Lozinke su procurile ili su ukradene s ove web-stranice od kad si zadnji puta aktualizirao/la svoje podatke za prijavu. Promijeni svoju lozinku kako bi zaštitio/la svoj račun.
+breach-alert-text = Lozinke su procurile ili su ukradene s ove web-stranice od zadnjeg aktualiziranja tvojih podataka za prijavu. Za zaštitu svog računa, promijeni lozinku.
 breach-alert-link = Saznaj više o ovom curenju podataka.
 breach-alert-dismiss =
     .title = Zatvori ovo upozorenje
@@ -176,7 +176,6 @@ about-logins-breach-alert-learn-more-link = Saznaj više
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ranjiva lozinka
-about-logins-vulnerable-alert-text = Ova je lozinka procurila ili je ukradena zbog curenja podataka druge tvrtke. Ponovna upotreba vjerodajnica riskira sve tvoje račune. Preporučujemo da promijeniš ovu lozinku.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Idi na { $hostname }
