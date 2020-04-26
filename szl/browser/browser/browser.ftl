@@ -215,6 +215,21 @@ identity-insecure-login-forms = Dane logowanio wkludzōne na tyj strōnie mogōm
 identity-permissions =
     .value = Zgody
 identity-permissions-reload-hint = Może bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
+identity-permissions-empty = Ta strōna niy dostała ôd ciebie żodnych nadbytnich zgodōw.
+identity-clear-site-data =
+    .label = Wypucuj cookies i dane strōn…
+identity-connection-not-secure-security-view = Połōnczynie z tōm strōnōm niy ma zebezpieczōne.
+identity-connection-verified = Połōnczynie z tōm strōnōm je zabezpieczōne.
+identity-ev-owner-label = Certyfikat je wystawiony do:
+identity-description-custom-root = Mozilla niy poznowo tego wydowcy certyfikatu. Mōg być przidany z twojigo ôperacyjnego systymu abo ôd administratora. <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
+identity-remove-cert-exception =
+    .label = Wyciep wyjōntek
+    .accesskey = W
+identity-description-insecure = Twoje połōnczynie z tōm strōnōm niy ma prywatne. Informacyje (bez przikłod hasła, wiadōmości, nōmery płatowych kart), kere wkludzosz, mogōm być dostympne do inkszych.
+identity-description-insecure-login-forms = Dane logowanio, kere wkludzosz na tyj strōnie, niy sōm zabezpieczōne i mogōm być wyzdradzōne.
+identity-description-weak-cipher-intro = Twoje połōnczynie z tōm strōnōm używo niyherskigo szifrowanio i niy ma prywatne.
+identity-description-weak-cipher-risk = Inksze ludzie mogōm ôboczyć twoje informacyje abo zmiynić dziołanie tyj strōny.
+identity-description-active-blocked = Aplikacyjo { -brand-short-name } zaszperowała niyzabezpieczōne kōnski tyj strōny. <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
 
 ## Window controls
 

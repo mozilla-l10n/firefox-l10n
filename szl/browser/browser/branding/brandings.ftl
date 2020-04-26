@@ -20,9 +20,39 @@
         [voc] Facebook Containerze
     }
     .gender = masculine
--lockwise-brand-name = Firefox Lockwise
--lockwise-brand-short-name = Lockwise
--monitor-brand-name = Firefox Monitor
+-lockwise-brand-name =
+    { $case ->
+       *[nom] Firefox Lockwise
+        [gen] Firefox Lockwise'a
+        [dat] Firefox Lockwise'owi
+        [acc] Firefox Lockwise
+        [loc] Firefox Lockwise'ie
+        [ins] Firefox Lockwise'ym
+        [voc] Firefox Locwise'ie
+    }
+    .gender = masculine
+-lockwise-brand-short-name =
+    { $case ->
+       *[nom] Lockwise
+        [gen] Lockwise'a
+        [dat] Lockwise'owi
+        [acc] Lockwise
+        [loc] Lockwise'ie
+        [ins] Lockwise'ym
+        [voc] Locwise'ie
+    }
+    .gender = masculine
+-monitor-brand-name =
+    { $case ->
+       *[nom] Firefox Mōnitōr
+        [gen] Firefox Mōnitora
+        [dat] Firefox Mōnitorowi
+        [acc] Firefox Mōnitōr
+        [loc] Firefox Mōnitorze
+        [ins] Firefox Mōnitorym
+        [voc] Firefox Mōnitorze
+    }
+    .gender = masculine
 -monitor-brand-short-name = Monitor
 -pocket-brand-name = Pocket
 -send-brand-name = Firefox Send
