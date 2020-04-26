@@ -78,13 +78,13 @@ abuse-report-broken-reason-extension-v2 = Ne radi, slama web-stranice ili uspora
 abuse-report-broken-reason-theme-v2 = Ne radi ili slama prikaz preglednika
 abuse-report-broken-example = Primjer: Funkcije su spore, teško ih je koristiti ili ne rade, dijelovi web stranica se ne mogu učitati ili čudno izgledaju
 abuse-report-broken-suggestions-extension =
-    Čini se da si našao/la grešku. Pored slanja prijave ovdje, najbolji način
-    za rješavanje funkcionalnih problema je, da kontaktiraš programera proširenja.
-    Podatke o programeru potraži na <a data-l10n-name="support-link">web stranici dodatka</a>.
+    Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
+    rješavanje funkcionalnih problema je, da kontaktiraš programera proširenja.
+    Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
 abuse-report-broken-suggestions-theme =
-    Čini se da si našao/la grešku. Pored slanja prijave ovdje, najbolji način
-    za rješavanje funkcionalnih problema je, da kontaktiraš programera motiva.
-    Podatke o programeru potraži na <a data-l10n-name="support-link">web stranici dodatka</a>.
+    Čini se da se radi o grešci. Pored slanja prijave ovdje, najbolji način za
+    rješavanje funkcionalnih problema je, da kontaktiraš programera motiva.
+    Podatke o programeru potraži na <a data-l10n-name="support-link">web-stranici dodatka</a>.
 abuse-report-policy-reason = Sadržaj mržnje, nasilja ili ilegalni
 abuse-report-policy-reason-v2 = Sadrži mržnju, nasilan ili ilegalan sadržaj
 abuse-report-policy-suggestions =
