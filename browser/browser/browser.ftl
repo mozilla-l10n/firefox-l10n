@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = Reduire
 browser-window-maximize-button =
     .tooltiptext = Maximizar
+browser-window-restore-down-button =
+    .tooltiptext = Restaurar
 browser-window-close-button =
     .tooltiptext = Tampar
 
