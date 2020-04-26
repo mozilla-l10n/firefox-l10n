@@ -48,6 +48,14 @@ urlbar-identity-button =
 
 ## Tooltips for images appearing in the address bar
 
+urlbar-services-notification-anchor =
+    .tooltiptext = Ôdewrzij panel z informacyjōm ô instalacyji
+urlbar-web-notification-anchor =
+    .tooltiptext = Zmiyń, jeźli mosz dostować powiadōmiynia z tyj strōny.
+urlbar-midi-notification-anchor =
+    .tooltiptext = Ôdewrzij panel MIDI
+urlbar-eme-notification-anchor =
+    .tooltiptext = Regiyruj używaniym software'u DRM
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
