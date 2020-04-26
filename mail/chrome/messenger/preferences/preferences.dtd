@@ -19,7 +19,7 @@
 <!ENTITY paneAttachments.title    "Прилози">
 <!ENTITY panePrivacy.title        "Приватност">
 <!ENTITY paneSecurity.title       "Безбедност">
-<!ENTITY panePrivacySecurity.title "Приватност и сигурност">
+<!ENTITY panePrivacySecurity.title "Приватност и безбедност">
 <!ENTITY paneLightning.title      "Календар">
 <!ENTITY paneAdvanced.title       "Напредно">
 <!ENTITY paneAccount.title        "Налози">
