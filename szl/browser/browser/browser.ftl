@@ -58,6 +58,10 @@ urlbar-eme-notification-anchor =
     .tooltiptext = Regiyruj używaniym software'u DRM
 urlbar-web-authn-anchor =
     .tooltiptext = Ôdewrzij panel necowyj autyntyzacyji
+urlbar-canvas-notification-anchor =
+    .tooltiptext = Regiyruj zgodami na ekstrakcyjo canvas
+urlbar-web-rtc-share-microphone-notification-anchor =
+    .tooltiptext = Regiyruj udostympnianiym mikrofōnu z tōm strōnōm.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
