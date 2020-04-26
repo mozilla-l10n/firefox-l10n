@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Inaktivera kontrollen av förvald webbläsare v
 policy-DownloadDirectory = Ange och lås nedladdningskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivera eller inaktivera Innehållsblockering med möjlighet att låsa valet.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Aktivera eller inaktivera krypterade medieutökningar och lås den eventuellt.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
