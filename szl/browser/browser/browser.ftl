@@ -248,6 +248,21 @@ identity-more-info-link-text =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Minimalizuj
+browser-window-maximize-button =
+    .tooltiptext = Maksymalizuj
+browser-window-restore-down-button =
+    .tooltiptext = Wrōć w dōł
+browser-window-close-button =
+    .tooltiptext = Zawrzij
 
 ## WebRTC Pop-up notifications
 
+popup-select-camera =
+    .value = Kamera do udostympniynio:
+    .accesskey = K
+popup-select-microphone =
+    .value = Mikrofōn do udostympniynio
+    .accesskey = M
+popup-all-windows-shared = Wszyskie ôdkna widoczne na ekranie bydōm udostympniōne.
