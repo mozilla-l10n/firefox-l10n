@@ -126,9 +126,35 @@ urlbar-screen-blocked =
     .tooltiptext = Udostympnianie ôd tyj strōny twojigo ekranu je zaszperowane.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Chrōniynie ôd tyj strōny danych we pamiyńci trwałyj je zaszperowane.
+urlbar-popup-blocked =
+    .tooltiptext = Wyskakujōnce ôkna na tyj strōnie sōm zaszperowane.
+urlbar-autoplay-media-blocked =
+    .tooltiptext = Autōmatyczne puszczanie mydiōw z klangiym na tyj strōnie je zaszperowane.
+urlbar-canvas-blocked =
+    .tooltiptext = Ekstrakcyjo danych canva na tyj strōnie je zaszperowano.
+urlbar-midi-blocked =
+    .tooltiptext = Dostymp tyj strōny do maszin MIDI je zaszperowany.
+urlbar-install-blocked =
+    .tooltiptext = Instalacyjo przidowek na tyj strōnie je zaszperowano.
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Edytuj ta zokłodka ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Przidej ta strōna do zokłodek ({ $shortcut })
 
 ## Page Action Context Menu
 
+page-action-add-to-urlbar =
+    .label = Przidej do poska adresy
+page-action-manage-extension =
+    .label = Regiyruj rozszyrzyniym…
+page-action-remove-from-urlbar =
+    .label = Wyciep z poska adresy
+page-action-remove-extension =
+    .label = Wyciep rozszyrzynie
 
 ## Auto-hide Context Menu
 
