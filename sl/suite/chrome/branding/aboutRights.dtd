@@ -55,7 +55,7 @@
 
 <!-- add-on related points for branded builds -->
 <!ENTITY rights.addons-a "storitve dodatkov:">
-<!ENTITY rights.addons-b "&brandShortName; bo brez nastavljanja predlagal dodatke na strani view.discover.label; in bo preverjal prisotnost posodobitev v rednih intervalih. Če želite onemogočiti te funkcije, da bi se izognili sporočanju o nameščenih dodatkih na strežniku, sledite tem korakom:">
+<!ENTITY rights.addons-b "&brandShortName; bo brez nastavljanja predlagal dodatke na strani &view.discover.label; in bo preverjal prisotnost posodobitev v rednih intervalih. Če želite onemogočiti te funkcije, da bi se izognili sporočanju o nameščenih dodatkih na strežniku, sledite tem korakom:">
 <!ENTITY rights.addons-term1 "Odprite nastavitve programa">
 <!ENTITY rights.addons-term2 "Izberite pano &smart.label; v kategoriji &advance.label;">
 <!ENTITY rights.addons-term3 "Počistite izbiro pred &quot;&autoAddOnsUpdates.label;&quot; in &quot;&enablePersonalized.label;&quot;">
