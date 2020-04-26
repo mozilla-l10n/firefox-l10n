@@ -65,7 +65,7 @@ urlbar-web-rtc-share-microphone-notification-anchor =
 urlbar-default-notification-anchor =
     .tooltiptext = Ôdewrzij panel powiadōmiyń
 urlbar-geolocation-notification-anchor =
-    .tooltiptext = Ôdewrzij panel fantowanio ô położynie
+    .tooltiptext = Ôdewrzij panel fantowanio ô twōj plac.
 urlbar-xr-notification-anchor =
     .tooltiptext = Ôdewrzij panel ze zgodami ôd wirtualnyj rzeczywistości
 urlbar-storage-access-anchor =
@@ -105,12 +105,25 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Mynij pisz, wiyncyj znojduj: szukej z { $engineName } drek z poska adresy.
+urlbar-search-tips-redirect-2 = Zacznij szukać na posku adresy, coby ôboczyć podpowiedzi z wyszukowarki { $engineName } i z historyje twojigo przeglōndanio.
 
 ##
 
 
 ##
 
+urlbar-geolocation-blocked =
+    .tooltiptext = Udostympnianie tyj strōnie informacyji ô twojim placu je zaszperowane.
+urlbar-xr-blocked =
+    .tooltiptext = Dostymp tyj strōny do masziny wirtualnyj rzeczywistości je zaszperowany.
+urlbar-web-notifications-blocked =
+    .tooltiptext = Powiadōmiynia z tyj strōny sōm zaszperowane.
+urlbar-camera-blocked =
+    .tooltiptext = Dostymp tyj strōny do kamery je zaszperowany.
+urlbar-microphone-blocked =
+    .tooltiptext = Dostymp tyj strōny do mikrofōnu je zaszperowany.
+urlbar-screen-blocked =
+    .tooltiptext = Udostympnianie ôd tyj strōny twojigo ekranu je zaszperowane.
 
 ## Page Action Context Menu
 

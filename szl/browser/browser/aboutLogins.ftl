@@ -137,15 +137,45 @@ enable-password-sync-notification-message =
         [windows] Chcesz swoje hasła wszyńdzie kaj używosz aplikacyje { -brand-product-name }? Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen") } i ôznocz ôpcyjo „Dane logowanio”.
        *[other] Chcesz swoje hasła wszyńdzie kaj używosz aplikacyje { -brand-product-name }? Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen") } i ôznocz ôpcyjo „Dane logowanio”.
     }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ôtwōrz ôpcyje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
+           *[other] Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen", capitalization: "lower") }
+        }
+    .accesskey = O
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Niy pytej wiyncyj
+    .accesskey = N
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Pociep
+confirmation-dialog-dismiss-button =
+    .title = Pociep
+about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
+confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
+about-logins-confirm-remove-dialog-confirm-button = Skasuj
+confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
+confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
+confirm-discard-changes-dialog-confirm-button = Ôdciep
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Wyciek haseł ze strōny
+breach-alert-text = Ôd twojigo ôstatnigo logowanio hasła na tyj strōnie były ukradziōne abo wyciykły. Umiyń swoje hasło, żeby zabezpieczyć swoje kōnto.
+breach-alert-link = Wiyncyj ô tym wyciyku.
+breach-alert-dismiss =
+    .title = Zawrzij to powiadōmiynie
+about-logins-breach-alert-date = Do wyciyku doszło { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Idź do { $hostname }
+about-logins-breach-alert-learn-more-link = Wiyncyj informacyji
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Niybezpieczne hasło
 
 ## Error Messages
 
