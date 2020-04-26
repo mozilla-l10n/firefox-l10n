@@ -56,6 +56,8 @@ urlbar-midi-notification-anchor =
     .tooltiptext = Ôdewrzij panel MIDI
 urlbar-eme-notification-anchor =
     .tooltiptext = Regiyruj używaniym software'u DRM
+urlbar-web-authn-anchor =
+    .tooltiptext = Ôdewrzij panel necowyj autyntyzacyji
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
