@@ -62,6 +62,16 @@ urlbar-canvas-notification-anchor =
     .tooltiptext = Regiyruj zgodami na ekstrakcyjo canvas
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = Regiyruj udostympnianiym mikrofōnu z tōm strōnōm.
+urlbar-default-notification-anchor =
+    .tooltiptext = Ôdewrzij panel powiadōmiyń
+urlbar-geolocation-notification-anchor =
+    .tooltiptext = Ôdewrzij panel fantowanio ô położynie
+urlbar-xr-notification-anchor =
+    .tooltiptext = Ôdewrzij panel ze zgodami ôd wirtualnyj rzeczywistości
+urlbar-storage-access-anchor =
+    .tooltiptext = Ôdewrzij panel dostympu do informacyji ô twojim przeglōndaniu
+urlbar-translate-notification-anchor =
+    .tooltiptext = Przekłodej ta strōna
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
