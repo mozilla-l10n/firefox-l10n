@@ -72,20 +72,63 @@ login-intro-description = Jeźli dane logowanio do aplikacyje { -brand-product-n
 login-intro-instruction-fxa = Zaregistruj abo zaloguj sie do { -fxaccount-brand-name } na maszinie, co na nij sōm spamiyntane dane logowanio
 login-intro-instruction-fxa-settings = Wejzdrzij, żeby ôpcyjo „dane logowanio” była zaznaczōno we sztelōnkach aplikacyje { -sync-brand-short-name }
 about-logins-intro-instruction-help = Nawiydź <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Sparcie</a> po wiyncyj pōmocy
+about-logins-intro-import = Jak twoje dane logowanio sōm spamiyntane we inkszyj przeglōndarce, to możesz <a data-l10n-name="import-link">importować je do usugi { -lockwise-brand-short-name }</a>
 
 ## Login
 
+login-item-new-login-title = Nowe dane logowanio
+login-item-edit-button = Edytuj
+about-logins-login-item-remove-button = Skasuj
+login-item-origin-label = Adresa ôd serwera
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = Miano ôd używocza
+about-logins-login-item-username =
+    .placeholder = (bez miana ôd używocza)
+login-item-copy-username-button-text = Kopiuj
+login-item-copied-username-button-text = Skopiowano
+login-item-password-label = Hasło
+login-item-password-reveal-checkbox =
+    .aria-label = Pokoż hasło
+login-item-copy-password-button-text = Kopiuj
+login-item-copied-password-button-text = Skopiowano
+login-item-save-changes-button = Spamiyntej umiany
+login-item-save-new-button = Spamiyntej
+login-item-cancel-button = Pociep
+login-item-time-changed = Ôstatnio modyfikacyjo { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = Stworzōne { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = Ôstatnie użycie { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Zweryfikuj swoja tożsamość, żeby edytować spamiyntane dane logowanio.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = edytować spamiyntane dane logowanio
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Zweryfikuj swoja tożsamość, żeby ôbejzdrzeć spamiyntane hasło.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = ôbejzdrzeć spamiyntane hasło
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Zweryfikuj swoja tożsamość, żeby skopiować spamiyntane hasło.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = skopiować spamiyntane hasło
 
 ## Master Password notification
 
+master-password-notification-message = Wkludź swoje głōwne hasło, żeby ôbejzdrzeć spamiyntane loginy i hasła
+master-password-reload-button =
+    .label = Wloguj
+    .accesskey = l
 
 ## Password Sync notification
 

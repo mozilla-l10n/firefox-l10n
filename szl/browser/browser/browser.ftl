@@ -72,6 +72,14 @@ urlbar-storage-access-anchor =
     .tooltiptext = Ôdewrzij panel dostympu do informacyji ô twojim przeglōndaniu
 urlbar-translate-notification-anchor =
     .tooltiptext = Przekłodej ta strōna
+urlbar-web-rtc-share-screen-notification-anchor =
+    .tooltiptext = Regiyruj udostympnianiym tyj strōnie twojich ôkiyn abo ekranu
+urlbar-indexed-db-notification-anchor =
+    .tooltiptext = Ôdewrzij panel powiadōmiyń ô chowaniu danych offline
+urlbar-password-notification-anchor =
+    .tooltiptext = Ôdewrzij panel powiadōmiyń spamiyntywanio hasła
+urlbar-translated-notification-anchor =
+    .tooltiptext = Regiyruj przekłodaniym strōny
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
