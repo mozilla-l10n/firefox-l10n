@@ -232,6 +232,10 @@ translate-attribution = Översättningar av <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Undantag…
     .accesskey = U
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Använd dina operativsysteminställningar för “{ $localeName }” för att formatera datum, tider, siffror och mätningar.
 check-user-spelling =
     .label = Kontrollera stavning medan du skriver
     .accesskey = k
