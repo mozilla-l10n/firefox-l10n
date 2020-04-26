@@ -86,12 +86,25 @@ urlbar-web-rtc-share-devices-notification-anchor =
     .tooltiptext = Regiyruj udostympnianiym tyj strōnie twojij kamery i/abo mikrofōnu
 urlbar-autoplay-notification-anchor =
     .tooltiptext = Ôdewrzij panel autōmatycznego puszczanio
+urlbar-persistent-storage-notification-anchor =
+    .tooltiptext = Chrōniynie danych we pamiyńci trwałyj.
+urlbar-addons-notification-anchor =
+    .tooltiptext = Ôdewrzij panel powiadōmiyń instalacyje rozszyrzyń
+urlbar-tip-help-icon =
+    .title = Pōmoc
+urlbar-search-tips-confirm = Rozumia
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Dorada:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = Mynij pisz, wiyncyj znojduj: szukej z { $engineName } drek z poska adresy.
 
 ##
 

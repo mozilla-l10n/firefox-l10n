@@ -132,6 +132,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Chcesz swoje hasła wszyńdzie kaj używosz aplikacyje { -brand-product-name }? Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen") } i ôznocz ôpcyjo „Dane logowanio”.
+       *[other] Chcesz swoje hasła wszyńdzie kaj używosz aplikacyje { -brand-product-name }? Ôtwōrz preferyncyje { -sync-brand-short-name(case: "gen") } i ôznocz ôpcyjo „Dane logowanio”.
+    }
 
 ## Dialogs
 
