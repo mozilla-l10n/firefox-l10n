@@ -16,3 +16,6 @@ crashed-request-report-title = Zgłoś ta karta.
 crashed-send-report = Posyłej autōmatyczne zgłoszynia awaryji, coby my mogli rozwiōnzować takie problymy.
 crashed-comment =
     .placeholder = Przidane kōmyntorze (kōmyntorze sōm publicznie dostympne)
+crashed-include-URL = Dej URLs strōn ôtwartych, jak sie pokozała awaryjo { -brand-short-name }.
+crashed-email-placeholder = Wkludź sam swoja adresa email
+crashed-email-me = Dej mi znać emailym, jak bydzie wiyncyj informacyji
