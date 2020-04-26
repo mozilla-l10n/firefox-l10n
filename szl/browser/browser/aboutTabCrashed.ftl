@@ -19,3 +19,6 @@ crashed-comment =
 crashed-include-URL = Dej URLs strōn ôtwartych, jak sie pokozała awaryjo { -brand-short-name }.
 crashed-email-placeholder = Wkludź sam swoja adresa email
 crashed-email-me = Dej mi znać emailym, jak bydzie wiyncyj informacyji
+crashed-report-sent = Zgłoszynie awaryje już je posłane. Dziynkujymy za pōmoc w polepszaniu { -brand-short-name }!
+crashed-request-auto-submit-title = Zgłoszynie kart ze zadku.
+crashed-auto-submit-checkbox = Zaktualizuj nasztalowania, coby autōmatycznie zgłoszać, jak { -brand-short-name } mo awaryjo.
