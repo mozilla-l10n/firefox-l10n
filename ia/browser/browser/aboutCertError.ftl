@@ -59,13 +59,13 @@ cert-error-details-cert-chain-label = Catena de certificatos:
 ## Messages used for certificate error titles
 
 connectionFailure-title = Incapace de connecter se
-deniedPortAccess-title = Iste adresse es restricte
+deniedPortAccess-title = Iste adresse es restringite
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
-dnsNotFound-title = Guai. Nos ha problemas a trovar iste sito.
+dnsNotFound-title = Hmm. Nos ha problemas a trovar iste sito.
 fileNotFound-title = File non trovate
-fileAccessDenied-title = Le accesso al file esseva negate
-generic-title = Oops.
+fileAccessDenied-title = Le accesso al file ha essite refusate
+generic-title = Ups.
 captivePortal-title = Authenticar se al rete
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
@@ -92,6 +92,6 @@ inadequateSecurityError-title = Tu connexion non es secur
 blockedByPolicy-title = Pagina blocate
 clockSkewError-title = Le horologio de tu computator es errate
 networkProtocolError-title = Error de protocollo de rete
-nssBadCert-title = Advertentia: Potential risco de securitate avante
+nssBadCert-title = Attention: Risco potential de securitate
 nssBadCert-sts-title = Non connectite: possibile problema de securitate
-certerror-mitm-title = Un software impedi { -brand-short-name } de connecter se securmente a iste sito
+certerror-mitm-title = Un programma impedi que { -brand-short-name } se connecte de maniera secur a iste sito
