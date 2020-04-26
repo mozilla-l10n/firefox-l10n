@@ -15,6 +15,21 @@ address-input-type =
         [one] { $type }-syöttökenttä ja yksi osoite
        *[other] { $type }-syöttökenttä ja { $count } osoitetta
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } ja yksi osoite, valitse se vasemmalla nuolinäppäimellä.
+       *[other] { $type } ja { $count } osoitetta, valitse ne vasemmalla nuolinäppäimellä.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: muokkaa painamalla Enter, poista painamalla Delete.
+       *[other] { $email }, 1/{ $count }: muokkaa painamalla Enter, poista painamalla Delete.
+    }
 pill-action-edit =
     .label = Muokkaa osoitetta
     .accesskey = M
