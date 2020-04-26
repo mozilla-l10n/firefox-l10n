@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Certifikatutfärdare
 certificate-viewer-cipher-suite = Chiffersvit
 certificate-viewer-common-name = Vanligt namn
 certificate-viewer-email-address = E-postadress
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Certifikat för { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Företagets hemland
 certificate-viewer-country = Land

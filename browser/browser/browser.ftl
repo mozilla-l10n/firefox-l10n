@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimera
+browser-window-maximize-button =
+    .tooltiptext = Maximera
 browser-window-close-button =
     .tooltiptext = Stäng
 
