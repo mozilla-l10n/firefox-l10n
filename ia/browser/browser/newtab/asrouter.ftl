@@ -226,6 +226,6 @@ cfr-whatsnew-passwords-icon-alt = Icone de un clave de contrasigno vulnerabile
 
 ## Picture-in-Picture fullscreen message
 
-cfr-whatsnew-pip-fullscreen-header = Usar pictura-in-pictura a schermo plen
-cfr-whatsnew-pip-fullscreen-body = Quando tu transfereva un video in un fenestra flottante, tu pote duple-cliccar supra illo pro lo render a schermo plen.
-cfr-whatsnew-pip-fullscreen-icon-alt = Icone de pictura-in-pictura
+cfr-whatsnew-pip-fullscreen-header = Mitter imagine-in-imagine a plen schermo
+cfr-whatsnew-pip-fullscreen-body = Quando tu mitte un video in un fenestra flottante, tu pote ora duple-cliccar sur illo pro passar al plen schermo.
+cfr-whatsnew-pip-fullscreen-icon-alt = Icone imagine-in-imagine
