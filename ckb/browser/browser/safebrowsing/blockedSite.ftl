@@ -9,6 +9,7 @@ safeb-blocked-harmful-page-title = ئەم ماڵپەڕەی کە دێت لەوا�
 safeb-palm-accept-label = بڕۆ دواوە
 safeb-palm-see-details-label = وردەکاری ببینە
 safeb-blocked-phishing-page-error-desc-override = <span data-l10n-name='sitename'>{ $sitename }</span> ئەم ماڵپەڕە <a data-l10n-name='error_desc_link'>ڕاپۆرت کراوە کە فێڵاوییە</a>. دەتوانیت <a data-l10n-name='report_detection'>کێشەکە ڕاپۆرت بکەی</a> یان <a data-l10n-name='ignore_warning_link'>کێشەکە پشتگوێبخەی</a> بڕۆی بۆ ماڵپەڕە ناپارێزراوەکە.
+safeb-blocked-unwanted-page-error-desc-no-override = <span data-l10n-name='sitename'>{ $sitename }</span>ئەم ماڵپەڕە <a data-l10n-name='error_desc_link'>ڕاپۆرت کراوە کە نەرمەواڵەی ئازاربەخشی تێدایە</a>.
 safeb-palm-notdeceptive =
     .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
     .accesskey = d
