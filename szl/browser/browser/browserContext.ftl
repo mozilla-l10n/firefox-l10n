@@ -63,15 +63,15 @@ toolbar-button-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = Przidej strōna do zokłodek
+    .aria-label = Przidej ta strōna do zokłodek
     .accesskey = z
-    .tooltiptext = Przidej strōna do zokłodek
+    .tooltiptext = Przidej ta strōna do zokłodek
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = Przidej strōna do zokłodek
+    .aria-label = Przidej ta strōna do zokłodek
     .accesskey = z
-    .tooltiptext = Przidej strōna do zokłodek ({ $shortcut })
+    .tooltiptext = Przidej ta strōna do zokłodek ({ $shortcut })
 main-context-menu-bookmark-change =
     .aria-label = Edytuj ta zokłodka
     .accesskey = z
@@ -94,11 +94,26 @@ main-context-menu-open-link-new-window =
 main-context-menu-open-link-new-private-window =
     .label = Ôdewrzij link w nowym prywatnym ôknie
     .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = Przidej tyn link do zokłodek
+    .accesskey = L
+main-context-menu-save-link =
+    .label = Spamiyntej link za…
+    .accesskey = s
+main-context-menu-save-link-to-pocket =
+    .label = Spamiyntej link do { -pocket-brand-name }
+    .accesskey = i
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Kopiuj adresa email
+    .accesskey = A
+main-context-menu-copy-link =
+    .label = Kopiuj adresa ôd linka
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -106,13 +121,57 @@ main-context-menu-open-link-new-private-window =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Puść
+    .accesskey = P
+main-context-menu-media-pause =
+    .label = Pauza
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Wyłōncz klang
+    .accesskey = B
+main-context-menu-media-unmute =
+    .label = Załōncz klang
+    .accesskey = Z
+main-context-menu-media-play-speed =
+    .label = Gibkość puszczanio
+    .accesskey = G
+main-context-menu-media-play-speed-slow =
+    .label = Pōmału (0.5×)
+    .accesskey = P
+main-context-menu-media-play-speed-normal =
+    .label = Normalnie
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Gibko (1.25×)
+    .accesskey = G
+main-context-menu-media-play-speed-faster =
+    .label = Gibcyj (1.5×)
+    .accesskey = i
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Absurdalno (2×)
+    .accesskey = A
+main-context-menu-media-loop =
+    .label = Pyntla
+    .accesskey = P
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Pokoż kōntrolery
+    .accesskey = p
+main-context-menu-media-hide-controls =
+    .label = Skryj kōntrolery
+    .accesskey = K
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Cołki ekran
+    .accesskey = C
