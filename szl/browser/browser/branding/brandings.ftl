@@ -54,6 +54,26 @@
     }
     .gender = masculine
 -monitor-brand-short-name = Monitor
--pocket-brand-name = Pocket
--send-brand-name = Firefox Send
+-pocket-brand-name =
+    { $case ->
+       *[nom] Pocket
+        [gen] Pocketa
+        [dat] Pocketowi
+        [acc] Pocket
+        [loc] Pockecie
+        [ins] Pocketym
+        [voc] Pockecie
+    }
+    .gender = masculine
+-send-brand-name =
+    { $case ->
+       *[nom] Firefox Send
+        [gen] Firefox Senda
+        [dat] Firefox Sendowi
+        [acc] Firefox Send
+        [loc] Firefox Sendzie
+        [ins] Firefox Sendym
+        [voc] Firefox Sendzie
+    }
+    .gender = masculine
 -screenshots-brand-name = Firefox Screenshots

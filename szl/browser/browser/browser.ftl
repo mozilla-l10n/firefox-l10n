@@ -230,6 +230,21 @@ identity-description-insecure-login-forms = Dane logowanio, kere wkludzosz na ty
 identity-description-weak-cipher-intro = Twoje połōnczynie z tōm strōnōm używo niyherskigo szifrowanio i niy ma prywatne.
 identity-description-weak-cipher-risk = Inksze ludzie mogōm ôboczyć twoje informacyje abo zmiynić dziołanie tyj strōny.
 identity-description-active-blocked = Aplikacyjo { -brand-short-name } zaszperowała niyzabezpieczōne kōnski tyj strōny. <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
+identity-description-passive-loaded = Twoje połōnczynie niy ma prywatne. Na informacyje, kere wkludzosz na strōnie, może zaglōndać fto inkszy.
+identity-description-passive-loaded-insecure = Ta strōna mo jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
+identity-description-passive-loaded-mixed = Chocioż aplikacyjo { -brand-short-name } zaszperowała trocha zawartości, na strōnie durch je jako niyzabezpieczōno zawartość (bez przikłod ôbrozki). <label data-l10n-name="link">Przewiydz sie wiyncyj</label>
+identity-description-active-loaded = Strōna mo jako niyzabezpieczōno zawartość (bez przikłod skrypty), a twoje połōnczynie niy ma prywatne.
+identity-description-active-loaded-insecure = Na informacyje (bez przikłod hasła, wiadōmości, nōmery płatowych kart), kere wkludzosz na tyj strōnie, może zaglōndać fto inkszy.
+identity-learn-more =
+    .value = Przewiydz sie wiyncyj
+identity-disable-mixed-content-blocking =
+    .label = Wyłōncz ôchrōna na teroz
+    .accesskey = W
+identity-enable-mixed-content-blocking =
+    .label = Załōncz ôchrōna
+    .accesskey = Z
+identity-more-info-link-text =
+    .label = Wiyncyj informacyji
 
 ## Window controls
 
