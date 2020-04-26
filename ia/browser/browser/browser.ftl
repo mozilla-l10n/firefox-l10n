@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimisar
+browser-window-maximize-button =
+    .tooltiptext = Maximisar
+browser-window-restore-down-button =
+    .tooltiptext = Restaurar
 browser-window-close-button =
     .tooltiptext = Clauder
 
