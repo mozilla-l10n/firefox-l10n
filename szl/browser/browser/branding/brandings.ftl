@@ -9,7 +9,17 @@
 ## - Transliterated.
 ## - Translated.
 
--facebook-container-brand-name = Facebook Container
+-facebook-container-brand-name =
+    { $case ->
+       *[nom] Facebook Container
+        [gen] Facebook Containera
+        [dat] Facebook Containerowi
+        [acc] Facebook Container
+        [loc] Facebook Containerze
+        [ins] Facebook Containerym
+        [voc] Facebook Containerze
+    }
+    .gender = masculine
 -lockwise-brand-name = Firefox Lockwise
 -lockwise-brand-short-name = Lockwise
 -monitor-brand-name = Firefox Monitor

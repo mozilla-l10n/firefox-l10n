@@ -211,6 +211,10 @@ identity-custom-root = Połōnczynie je zweryfikowane ôd wystowcy certyfikatu, 
 identity-passive-loaded = Kōnski tyj strōny sōm niyzabezpieczōne (bez przikłod ôbrozki).
 identity-active-loaded = Ôchrōna na tyj strōnie je wyłōnczōno ôd ciebie.
 identity-weak-encryption = Ta strōna używo niyherskigo szifrowanio.
+identity-insecure-login-forms = Dane logowanio wkludzōne na tyj strōnie mogōm być wyzdradzōne.
+identity-permissions =
+    .value = Zgody
+identity-permissions-reload-hint = Może bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.
 
 ## Window controls
 
