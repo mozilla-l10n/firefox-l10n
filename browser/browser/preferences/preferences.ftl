@@ -232,6 +232,10 @@ translate-attribution = Traduccions per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Utilizar los paramètres de vòstre sistèma operatiu en « { $localeName } » per formatar las datas, las oras, los nombres e las mesuras.
 check-user-spelling =
     .label = Verificar l'ortografia en picant
     .accesskey = t
