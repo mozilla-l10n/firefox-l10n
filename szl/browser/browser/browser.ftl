@@ -158,15 +158,57 @@ page-action-remove-extension =
 
 ## Auto-hide Context Menu
 
+full-screen-autohide =
+    .label = Skryj poski z noczyniami
+    .accesskey = S
+full-screen-exit =
+    .label = Wylyź z trybu pōłnego ekranu
+    .accesskey = W
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Teroz poszukej z:
+# This string won't wrap, so if the translated string is longer,
+# consider translating it as if it said only "Search Settings".
+search-one-offs-change-settings-button =
+    .label = Zmiana nasztalowań szukanio
+search-one-offs-change-settings-compact-button =
+    .tooltiptext = Zmiyń nasztalowania szukanio
+search-one-offs-context-open-new-tab =
+    .label = Szukej w nowyj karcie
+    .accesskey = S
+search-one-offs-context-set-as-default =
+    .label = Nasztaluj za bazowo wyszukowarka
+    .accesskey = N
+search-one-offs-context-set-as-default-private =
+    .label = Nasztaluj za bazowo wyszukowarka do prywatnych ôkiyn
+    .accesskey = P
 
 ## Bookmark Panel
 
+bookmark-panel-show-editor-checkbox =
+    .label = Pokoż edytōr przi spamiyntywaniu
+    .accesskey = E
+bookmark-panel-done-button =
+    .label = Fertich
+# Width of the bookmark panel.
+# Should be large enough to fully display the Done and
+# Cancel/Remove Bookmark buttons.
+bookmark-panel =
+    .style = min-width: 23em
 
 ## Identity Panel
 
+identity-connection-not-secure = Połōnczynie niy ma zabezpieczōne
+identity-connection-secure = Połōnczynie je zabezpieczōne
+identity-connection-internal = To je zabezpieczōno strōna aplikacyje { -brand-short-name }.
+identity-connection-file = Ta strōna je schrōniōno na twojim kōmputrze.
+identity-extension-page = Ta strōna je zaladowano z rozszyrzynio.
+identity-active-blocked = Aplikacyjo { -brand-short-name } zaszperowała niyzabezpieczōne kōnski strōny.
+identity-custom-root = Połōnczynie je zweryfikowane ôd wystowcy certyfikatu, kerego Mozilla niy poznowo.
+identity-passive-loaded = Kōnski tyj strōny sōm niyzabezpieczōne (bez przikłod ôbrozki).
 
 ## Window controls
 
