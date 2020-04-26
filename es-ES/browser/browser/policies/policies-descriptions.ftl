@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Desactivar la comprobación de navegador predet
 policy-DownloadDirectory = Establecer y bloquear el directorio de descargas predeterminado.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activar o desactivar el bloqueo de contenido y bloquearlo opcionalmente.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Activar o desactivar extensiones de medios cifrados y, opcionalmente, bloquearlos.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
