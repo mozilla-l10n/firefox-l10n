@@ -80,6 +80,12 @@ urlbar-password-notification-anchor =
     .tooltiptext = Ôdewrzij panel powiadōmiyń spamiyntywanio hasła
 urlbar-translated-notification-anchor =
     .tooltiptext = Regiyruj przekłodaniym strōny
+urlbar-plugins-notification-anchor =
+    .tooltiptext = Regiyruj używaniym rozszyrzyń
+urlbar-web-rtc-share-devices-notification-anchor =
+    .tooltiptext = Regiyruj udostympnianiym tyj strōnie twojij kamery i/abo mikrofōnu
+urlbar-autoplay-notification-anchor =
+    .tooltiptext = Ôdewrzij panel autōmatycznego puszczanio
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
