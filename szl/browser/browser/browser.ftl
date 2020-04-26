@@ -209,6 +209,8 @@ identity-extension-page = Ta strōna je zaladowano z rozszyrzynio.
 identity-active-blocked = Aplikacyjo { -brand-short-name } zaszperowała niyzabezpieczōne kōnski strōny.
 identity-custom-root = Połōnczynie je zweryfikowane ôd wystowcy certyfikatu, kerego Mozilla niy poznowo.
 identity-passive-loaded = Kōnski tyj strōny sōm niyzabezpieczōne (bez przikłod ôbrozki).
+identity-active-loaded = Ôchrōna na tyj strōnie je wyłōnczōno ôd ciebie.
+identity-weak-encryption = Ta strōna używo niyherskigo szifrowanio.
 
 ## Window controls
 
