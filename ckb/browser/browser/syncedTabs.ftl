@@ -8,3 +8,4 @@ synced-tabs-sidebar-notsignedin = بچۆژوورەوە بۆ بینینی لیس�
 synced-tabs-sidebar-intro = لیستەی بازدەرەکان پیشان بدە لە ئامێرەکانی ترەوە.
 synced-tabs-sidebar-unverified = پێویستە هەژمارەکەت بسەلمێندرێت.
 synced-tabs-sidebar-notabs = بازدەری کراوە نیە
+synced-tabs-sidebar-openprefs = هەڵبژاردنەکانی { -sync-brand-short-name } بکەرەوە
