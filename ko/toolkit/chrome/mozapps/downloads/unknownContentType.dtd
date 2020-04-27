@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "다시 묻지 않음">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "파일 유형:">
+<!ENTITY  whichIs.label              "파일 형식:">
 
 <!ENTITY  chooseHandlerMac.label      "선택하기…">
 <!ENTITY  chooseHandlerMac.accesskey  "C">
