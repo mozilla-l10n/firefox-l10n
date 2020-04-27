@@ -817,27 +817,64 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.securityView.label "ئاسایشی ماڵپەڕ">
 
 <!ENTITY identity.connection "پەیوەندیگرتن">
+<!ENTITY identity.connectionSecure "پەیوەندیگرتنی پارێزراو">
+<!ENTITY identity.connectionNotSecure "پەیوەندی پارێزراو نیە">
+<!ENTITY identity.connectionFile "ئەم پەڕەیە پاشەکەوتکراوە لە ناو کۆمپیوتەرەکەت.">
+<!ENTITY identity.connectionVerified2 "تۆ بە پارێزراوی بەستراوی بەم ماڵپەڕەوە، کە تایبەتە بە:">
+<!ENTITY identity.connectionInternal "ئەم پەڕەیە &brandShortName; پارێزراوە.">
+<!ENTITY identity.extensionPage "ئەم پەڕەیە بارکراوە لە پێوەکراوێکەوە.">
+<!ENTITY identity.insecureLoginForms2 "چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.">
+<!ENTITY identity.customRoot "پەیوەندی سەلمێنراوە لە لایەنێکەوە کە نەناسراوە لە لایەن مۆزیللاوە.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&brandShortName; چەند بەشێکی ئەم پەڕەی بلۆک کردووە چونکە پارێزراو نیە.">
+<!ENTITY identity.passiveLoaded "بەشێک لەم پەڕەیە پارێزراو نیە (وەک وێنەکان).">
+<!ENTITY identity.activeLoaded "تۆ پارێزگاریت ناچالاک کرد بۆ ئەم پەڕەیە.">
+<!ENTITY identity.weakEncryption "ئەم پەڕە شێوازی پارێزگاری لاواز بەکاردێنێت.">
 
 <!-- Strings for connection state warnings in the subview. -->
 
+<!ENTITY identity.enableMixedContentBlocking.label "پارێزگاری چالاک بکە">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.label "پارێزگاری ناچالاک بکە لە ئێستادا">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
+<!ENTITY identity.learnMore "زیاتر بزانە">
 
+<!ENTITY identity.removeCertException.label "سڕینەوەی هەڵاوێردی">
+<!ENTITY identity.removeCertException.accesskey "R">
 
+<!ENTITY identity.moreInfoLinkText2 "زانیاری زیاتر">
 
+<!ENTITY identity.clearSiteData "شەکرۆکە و زانیاری ماڵپەڕ پاکبکەرەوە...">
 
+<!ENTITY identity.permissions "ڕێگەپێدانەکان">
+<!ENTITY identity.permissionsEmpty "هیچ دەسەڵاتێکی تایبەتت نەداوە بەم پەڕەیە.">
+<!ENTITY identity.permissionsReloadHint "لەوانیە پێویست بێت پەڕەکە نوێبکەیتەوە بۆ جێبەجێکردنی گۆڕانکارییەکان.">
+<!ENTITY identity.permissionsPreferences.tooltip "هەڵبژاردنەکانی ڕێگەپێدان بکەرەوە">
+<!ENTITY identity.contentBlockingPreferences.tooltip "هەڵبژاردنەکانی بلۆککردنی ناوەڕۆک بکەرەوە">
 
 
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.settings.label "ڕێکخستنەکانی پارێزگاری">
+<!ENTITY protections.showreport.label "ڕاپۆرت پیشان بدە">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "ماڵپەڕ کار ناکات؟">
+<!ENTITY protections.siteNotWorkingView.title "ماڵپەڕ کار ناکات؟">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "پارێزگاری بکوژێنەوە ئەگەر کێشەت هەیە لەگەڵ:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "بواری چوونەژوورەوە">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "فۆرمەکان">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "پارەدان">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "لێدوانەکان">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "ڤیدیۆکان">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "ڕاپۆرت بنێرە">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -845,9 +882,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "بلۆککراوە">
+<!ENTITY protections.notBlocking2.label "ڕێگەپێدراوە">
+<!ENTITY protections.notFound.label "هیچ نەدۆزرایەوە">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "بۆچی؟">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
