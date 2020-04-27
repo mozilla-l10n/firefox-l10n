@@ -4,3 +4,14 @@
 
 customize-mode-restore-defaults =
     .label = Wrōć bazowe nasztalowania
+customize-mode-menu-and-toolbars-header = Przeciōngej swoje ulubiōne elymynty na posek z noczyniami abo do rozszyrzanego menu.
+customize-mode-overflow-list-title = Rozszyrzane menu
+customize-mode-uidensity =
+    .label = Gynstość
+customize-mode-done =
+    .label = Fertich
+customize-mode-lwthemes-menu-manage =
+    .label = Regiyruj
+    .accesskey = R
+customize-mode-toolbars =
+    .label = Poski z noczyniami
