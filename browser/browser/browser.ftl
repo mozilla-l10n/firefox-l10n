@@ -252,6 +252,8 @@ browser-window-minimize-button =
     .tooltiptext = ჩაკეცვა
 browser-window-maximize-button =
     .tooltiptext = გაშლა
+browser-window-restore-down-button =
+    .tooltiptext = შემცირება
 browser-window-close-button =
     .tooltiptext = დახურვა
 
