@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "연결할 수 없음">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "이 주소는 제한되어 있음">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "서버를 찾을 수 없음">
@@ -33,12 +35,14 @@
 ">
 
 <!ENTITY fileNotFound.title "파일을 찾을 수 없음">
+
 <!ENTITY fileNotFound.longDesc "<ul>
   <li>파일 이름의 대소문자를 비롯한 오타가 없는지 확인해 보세요.</li>
   <li>이동되었거나, 이름이 변경되었거나, 삭제된 파일을 보려고 하는 것은 아닌지 확인해 보세요.</li>
 </ul>">
 
 <!ENTITY fileAccessDenied.title "파일 접근이 거부됨">
+
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>삭제, 이동 또는 권한이 없어서 접근할 수 없습니다.</li>
@@ -46,6 +50,7 @@
 ">
 
 <!ENTITY generic.title "이런.">
+
 <!ENTITY generic.longDesc "
 <p>&brandShortName;가 어떠한 이유로 인하여 이 페이지를 읽을 수 없습니다.</p>
 ">
@@ -62,12 +67,15 @@
 <!ENTITY malformedURI.title1 "주소가 올바르지 않습니다.">
 
 <!ENTITY netInterrupt.title "연결이 끊어짐">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "문서 만료">
+
 <!ENTITY notCached.longDesc "<p>요청하신 문서는 &brandShortName; 캐시에서 사용할 수 없습니다.</p><ul><li>보안 예방책으로 &brandShortName;는 자동으로 민감한 문서를 다시 요청하지 않습니다.</li><li>웹 사이트에서 문서를 다시 요청하려면 다시 시도를 누르세요.</li></ul>">
 
 <!ENTITY netOffline.title "오프라인 모드">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>온라인 모드로 전환하고 페이지를 다시 로드하려면 &quot;다시 시도&quot;를 누르세요.</li>
@@ -75,13 +83,15 @@
 ">
 
 <!ENTITY contentEncodingError.title "콘텐츠 인코딩 오류">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li>
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "안전하지 않은 파일 유형">
+<!ENTITY unsafeContentType.title "안전하지 않은 파일 형식">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li>
@@ -89,12 +99,15 @@
 ">
 
 <!ENTITY netReset.title "연결 초기화">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "연결 시간 초과">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "인식할 수 없는 주소">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>이 주소를 열기 위해서는 다른 프로그램을 설치할 필요가 있습니다.</li>
@@ -102,12 +115,14 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "프록시 서버가 연결을 거부함">
+
 <!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>프록시 설정이 올바로 되어있는지 확인해 보세요.</li>
   <li>프록시 서버가 확실히 작동 중인지 네트워크 관리자에게 문의하세요.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "프록시 서버를 찾을 수 없음">
+
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>프록시 설정이 올바로 되어있는지 확인해 보세요.</li>
   <li>사용자 컴퓨터가 활성화된 네트워크 연결을 사용하는지 확인해 보세요.</li>
@@ -116,6 +131,7 @@
 </ul>">
 
 <!ENTITY redirectLoop.title "페이지가 제대로 리디렉션되지 않음">
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>이 문제는 드물게 해당 사이트에서 요구하는 쿠키를 차단하여 발생할 수
@@ -124,6 +140,7 @@
 ">
 
 <!ENTITY unknownSocketType.title "서버에서 예기치 않은 응답">
+
 <!ENTITY unknownSocketType.longDesc "<ul>
   <li>시스템에 개인 보안 관리자가 설치 되어 있는지 확인해 보세요.</li>
 
@@ -131,6 +148,7 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "보안 연결 실패">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>받은 데이터의 신뢰성을 확인할 수 없으므로 보시려는 페이지를 표시할 수 없습니다.</li>
@@ -140,6 +158,7 @@
 
 <!ENTITY certerror.longpagetitle2 "경고: 보안 위험 가능성">
 <!ENTITY certerror.sts.longpagetitle  "연결되지 않음: 잠재적인 보안 문제">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -170,12 +189,15 @@ was trying to connect. -->
 </ul>">
 
 <!ENTITY cspBlocked.title "콘텐츠 보안 정책에 의한 차단">
+
 <!ENTITY cspBlocked.longDesc "<p>이 페이지는 콘텐츠 보안 정책에서 허락하지 않는 방법으로 로딩되어 &brandShortName;가 차단했습니다.</p>">
 
 <!ENTITY xfoBlocked.title "X-Frame-Options 정책에 의해 차단됨">
+
 <!ENTITY xfoBlocked.longDesc "<p>페이지에 허용하지 않는 X-Frame-Options 정책이 있으므로 &brandShortName;가 이 컨텍스트에서 이 페이지를 로드하지 못했습니다.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "손상된 콘텐츠 오류">
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>데이터 전송에 오류가 발생하여 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "위험을 감수하고 계속">
@@ -184,9 +206,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "더 알아보기…">
 
 <!ENTITY remoteXUL.title "원격 XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "보안 연결을 할 수 없음">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "고급 정보: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -197,6 +221,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "클립보드에 텍스트 복사">
 
 <!ENTITY inadequateSecurityError.title "연결이 안전하지 않음">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>이 오래되어서 공격에 안전하지 않은 보안 기술을 사용하고 있습니다. 사용자가 안전하다고 여길 수 있는 정보를 공격자가 쉽게 탈취할 수 있습니다. 사용자가 사이트에 방문하기 위해서는 웹 사이트 관리자가 서버를 고쳐야 합니다.</p><p>오류 코드: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -204,6 +229,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "차단된 페이지">
 
 <!ENTITY certerror.mitm.title "&brandShortName;가 이 사이트에 안전하게 연결하는 것을 소프트웨어가 막고 있습니다.">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span>은 안전한 사이트로 보이지만 보안 연결을 설정할 수 없습니다. 이 문제는 소프트웨어나 네트워크 문제인 <span class='mitm-name'/>로 인해 발생합니다.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "사용하고 있는 바이러스 백신 프로그램이 암호화된 연결을 스캔하는 기능(“웹 스캔”이나 “https 스캔”)을 가지고 있다면 이 기능을 꺼볼 수 있습니다. 그래도 동작하지 않으면 바이러스 백신 프로그램을 삭제하고 재설치 해볼 수 있습니다.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "회사 망을 사용하고 있다면 IT 부서에 문의하세요.">
@@ -211,6 +237,7 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "<span class='mitm-name'/>에 익숙하지 않다면 이것은 공격일 수 있고 사이트에 접근할 수 있는 방법이 없습니다.">
 
 <!ENTITY clockSkewError.title "컴퓨터의 시각이 올바르지 않음">
+
 <!ENTITY clockSkewError.longDesc "컴퓨터의 시계가 <span id='wrongSystemTime_systemDate1'/>으로 설정되어 있어서 &brandShortName;가 안전하게 연결을 할 수 없습니다. <span class='hostname'></span> 방문을 위해서는 컴퓨터의 시계를 올바른 날짜, 시간 및 시간대로 설정하시고 난 후, <span class='hostname'></span>를 다시 로드하세요.">
 
 <!ENTITY prefReset.longDesc "네트워크 보안 설정이 원인일 수 있습니다. 기본 설정으로 복원하시겠습니까?">
@@ -221,4 +248,5 @@ was trying to connect. -->
 <!ENTITY enableTls10.label "TLS 1.0 및 1.1 활성화">
 
 <!ENTITY networkProtocolError.title "네트워크 프로토콜 오류">
+
 <!ENTITY networkProtocolError.longDesc "<p>네트워크 프로토콜에 오류가 감지되어 페이지를 표시할 수 없습니다.</p><ul><li>웹 사이트 관리자에게 연락하여 이 문제를 알려주실 수 있습니다.</li></ul>">
