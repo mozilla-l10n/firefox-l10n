@@ -824,7 +824,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionInternal "ئەم پەڕەیە &brandShortName; پارێزراوە.">
 <!ENTITY identity.extensionPage "ئەم پەڕەیە بارکراوە لە پێوەکراوێکەوە.">
 <!ENTITY identity.insecureLoginForms2 "چوونەژوورەوەکان لە م پەڕەیە لەوانەیە دزەبکات.">
-<!ENTITY identity.customRoot "پەیوەندی سەلمێنراوە لە لایەنێکەوە کە نەناسراوە لە لایەن مۆزیللاوە.">
+<!ENTITY identity.customRoot "پەیوەندی سەلمێنراوە لە لایەنێکەوە کە نەناسراوە لە لایەن مۆزیلاوە.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; چەند بەشێکی ئەم پەڕەی بلۆک کردووە چونکە پارێزراو نیە.">
@@ -953,32 +953,80 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.title "ماڵپەڕێکی لەکارکەوتوو ڕاپۆرت بکە">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "زیاتر بزانە">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "بەستەر">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "چی کێشەیەکت هەیە؟ (دڵخوازییە)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "دڵخوازییە: کێشەکە باس بکە">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "ڕاپۆرت بنێرە">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "پاشگەزبوونەوە">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "بلۆک بۆ ئەم ماڵپەڕە بکوژێنەوە">
+<!ENTITY trackingProtection.unblock5.accesskey "T">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "بەشێوەیییەکی کاتیی بلۆککردن بکوژێنەوە">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "T">
+<!ENTITY trackingProtection.block6.label "بلۆک بۆ ئەم ماڵپەڕە کارا بکە">
+<!ENTITY trackingProtection.block6.accesskey "T">
+<!ENTITY trackingProtection.reload2.label "بارکردنەوەی پەڕە">
+<!ENTITY trackingProtection.reload2.accesskey "R">
 
+<!ENTITY pluginNotification.showAll.label "هەمووی پیشان بدە">
+<!ENTITY pluginNotification.showAll.accesskey "S">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+<!ENTITY pluginNotification.width "23em">
+
+<!ENTITY uiTour.infoPanel.close "داخستن">
+
+<!ENTITY panicButton.thankyou.msg1                "نوێترین مێژووی کارت پاککرایەوە.">
+<!ENTITY panicButton.thankyou.msg2                "گەڕانێکی پارێزراو!">
+<!ENTITY panicButton.thankyou.buttonlabel         "سوپاس!">
+
+<!ENTITY emeLearnMoreContextMenu.label            "زیاتر بزانە دەربارەی DRM...">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY updateAvailable.panelUI.label "نوێکاری &brandShorterName; دابگرە">
+<!ENTITY updateManual.panelUI.label "ڕوونووسێکی نوێ دابگرە لە &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "ناتوانیت نوێکاری زیاتر ئەنجام بدەیت">
+<!ENTITY updateRestart.panelUI.label2 "پێبکەرەوە بۆ نوێکردنەوە &brandShorterName;">
+
+<!ENTITY newTabControlled.header.message "بازدەری نوێ گۆڕا.">
+<!ENTITY newTabControlled.keepButton.label "گۆڕانکارییەکان بهێڵەوە">
+<!ENTITY newTabControlled.keepButton.accesskey "K">
+<!ENTITY newTabControlled.disableButton.label "پێوەکراو ناچالاک بکە">
+<!ENTITY newTabControlled.disableButton.accesskey "D">
 
 
+<!ENTITY homepageControlled.header.message "پەڕەی سەرەکیت گۆڕانکاری بەسەرهات.">
+<!ENTITY homepageControlled.keepButton.label "گۆڕانکارییەکان بهێڵەوە">
+<!ENTITY homepageControlled.keepButton.accesskey "K">
+<!ENTITY homepageControlled.disableButton.label "پێوەکراو ناچالاک بکە">
+<!ENTITY homepageControlled.disableButton.accesskey "D">
 
+<!ENTITY tabHideControlled.header.message "بچۆناو بازدەرە شاراوەکانەوە">
+<!ENTITY tabHideControlled.keepButton.label "بازدەرەکان بەشاراوەیی بهێڵەوە">
+<!ENTITY tabHideControlled.keepButton.accesskey "K">
+<!ENTITY tabHideControlled.disableButton.label "پێوەکراو ناچالاک بکە">
+<!ENTITY tabHideControlled.disableButton.accesskey "D">
 
+<!ENTITY pageActionButton.tooltip "کردارەکانی پەڕە">
+<!ENTITY pageAction.addToUrlbar.label "زیادی بکە بۆ توڵی ناونیشان">
+<!ENTITY pageAction.removeFromUrlbar.label "سڕینەوە لە توڵی ناونیشان">
+<!ENTITY pageAction.manageExtension.label "بەڕێوەبردنی پێوەکراو...">
 
+<!ENTITY sendToDevice.syncNotReady.label "هاوکاتگەریکردنی ئامێرەکان...">
 
+<!ENTITY pageAction.shareUrl.label "بڵاوکردنەوە">
+<!ENTITY pageAction.shareMore.label "زیاتر...">
 
-
-
-
-
-
+<!ENTITY libraryButton.tooltip "مێژووی کار، دڵخوازراو پاشەکەوتکراو، و زیاتر پیشان بدە">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

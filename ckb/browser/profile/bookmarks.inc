@@ -19,7 +19,7 @@
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
-#define firefox_heading مۆزیللا فایەرفۆکس
+#define firefox_heading مۆزیلا فایەرفۆکس
 
 # LOCALIZATION NOTE (firefox_help):
 # link title for https://www.mozilla.org/en-US/firefox/help/
@@ -47,11 +47,11 @@
 
 # LOCALIZATION NOTE (bugzilla):
 # Nightly builds only, link title for https://bugzilla.mozilla.org/
-#define bugzilla شوێنکەوتەی کەلێنی مۆزیللا
+#define bugzilla شوێنکەوتەی کەلێنی مۆزیلا
 
 # LOCALIZATION NOTE (mdn):
 # Nightly builds only, link title for https://developer.mozilla.org/
-#define mdn ڕایەڵەی گەشەپێدەرانی مۆزیللا
+#define mdn ڕایەڵەی گەشەپێدەرانی مۆزیلا
 
 # LOCALIZATION NOTE (nightly_tester_tools):
 # Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
@@ -67,6 +67,6 @@
 
 # LOCALIZATION NOTE (planet):
 # Nightly builds only, link title for https://planet.mozilla.org/
-#define planet هەسارەی مۆزیللا
+#define planet هەسارەی مۆزیلا
 
 #unfilter emptyLines

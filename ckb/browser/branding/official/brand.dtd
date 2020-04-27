@@ -4,10 +4,10 @@
 
 <!ENTITY  brandShorterName      "فایەرفۆکس">
 <!ENTITY  brandShortName        "فایەرفۆکس">
-<!ENTITY  brandFullName         "مۆزیللا فایەرفۆکس">
+<!ENTITY  brandFullName         "مۆزیلا فایەرفۆکس">
 <!-- LOCALIZATION NOTE (brandProductName):
    This brand name can be used in messages where the product name needs to
    remain unchanged across different versions (Nightly, Beta, etc.). -->
 <!ENTITY  brandProductName      "فایەرفۆکس">
-<!ENTITY  vendorShortName       "مۆزیللا">
-<!ENTITY  trademarkInfo.part1   "فایەرفۆکس و وێنۆچکەکانی هێمای بازرگانی دامەزراوەی مۆزیللان">
+<!ENTITY  vendorShortName       "مۆزیلا">
+<!ENTITY  trademarkInfo.part1   "فایەرفۆکس و وێنۆچکەکانی هێمای بازرگانی دامەزراوەی مۆزیلان">

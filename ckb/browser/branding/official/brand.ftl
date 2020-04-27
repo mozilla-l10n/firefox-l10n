@@ -15,9 +15,9 @@
 
 -brand-shorter-name = فایەرفۆکس
 -brand-short-name = فایەرفۆکس
--brand-full-name = مۆزیللا فایەرفۆکس
+-brand-full-name = مۆزیلا فایەرفۆکس
 # This brand name can be used in messages where the product name needs to
 # remain unchanged across different versions (Nightly, Beta, etc.).
 -brand-product-name = فایەرفۆکس
--vendor-short-name = مۆزیللا
-trademarkInfo = فایەرفۆکس و وێنۆچکەکانی هێمای بازرگانی دامەزراوەی مۆزیللان
+-vendor-short-name = مۆزیلا
+trademarkInfo = فایەرفۆکس و وێنۆچکەکانی هێمای بازرگانی دامەزراوەی مۆزیلان
