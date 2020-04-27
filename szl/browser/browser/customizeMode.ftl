@@ -39,3 +39,5 @@ customize-mode-uidensity-menu-compact =
 customize-mode-lwthemes-menu-get-more =
     .label = Dostōń wiyncyj motywōw
     .accesskey = D
+customize-mode-lwthemes-my-themes =
+    .value = Moje motywy
