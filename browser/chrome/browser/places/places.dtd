@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "정렬 안 함">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "내림차순">
+<!ENTITY view.sortAscending.label       "내림차순 (A > Z)">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "오름차순">
+<!ENTITY view.sortDescending.label      "오름차순 (Z > A)">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "HTML에서 북마크 가져오기…">
