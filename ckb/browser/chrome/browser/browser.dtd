@@ -252,19 +252,53 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "پانێڵی پەیامی بیرگەی دەرهێڵ بکەرەوە">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "پانێڵی پەیامی پاشەکەوتی وشەی تێپەڕ بکەرەوە">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ڕێکخستنی ئەو پێوەکراوانەی لە کاردان">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "دیاریبکە چ کاتێک دەتەوێت ئاگانامەت بۆ بێت لەڕێگەی ماڵپەڕەوە">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "پاشەکەوتکردنی زانیاری لە بیرگەی هەمیشەیی">
+
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "پانێڵی ڕێگەپێدانی وێب بکەرەوە">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "پانێڵی ڕێگەپێدانی چالاکی گەڕان بکەرەوە">
+
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ڕێکخستنی بڵاوکردنەوەی کامێرا و مایکرۆفۆن لەگەڵ ئەم ماڵپەڕە">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ڕێکخستنی بڵاوکردنەوەی مایکرۆفۆنەکەت لەگەڵ ئەم ماڵپەڕە">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ڕێکخستنی بڵاوکردنەوەی پەنجەرەکان و شاشەکەت لەگەڵ ئەم ماڵپەڕە">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "پانێڵی پەیامی دامەزراندن بکەرەوە">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ئەم پەڕەیە وەربگێڕە">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "ڕێکخستنی وەرگێڕانی پەڕە">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "ڕێکخستنی بەکارهێنانی نەرمەکاڵای DRM">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "پانێڵێ MIDI بکەرەوە">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "تۆ کامێراکەت بۆ ئەم ماڵپەڕە بلۆک کرد.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "تۆ مایکرۆفۆنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.">
+<!ENTITY urlbar.screenBlocked.tooltip            "تۆ ئەم ماڵپەڕەت بلۆککردووە لە بڵاوکردنەوەی وێنەی شاشەکەت.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "تۆ زانیاری شوێنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "تۆ ئاگانامەکانت بۆ ئەم ماڵپەڕە بلۆک کرد.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "تۆ بیرگەی هەمیشەییت بۆ ئەم ماڵپەڕە بلۆک کردووە.">
 
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "پیشاندانی مێژوو">
 
 
-
-
-
-
+<!ENTITY searchItem.title             "گەڕان">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "ماڵەوە">
+<!ENTITY homeButton.defaultPage.tooltip "پەڕەی سەرەکی &brandShortName;">
 
+<!ENTITY bookmarksButton.label          "دڵخوازەکان">
+<!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "دڵخوازەکان">
+<!ENTITY bookmarksMenuButton2.label         "پێڕستی دڵخوازەکان">
+<!ENTITY bookmarksMenuButton.other.label    "دڵخوازی تر">
+<!ENTITY bookmarksMenuButton.mobile.label   "دڵخوازەکانی مۆبایل">
+<!ENTITY viewBookmarksSidebar2.label        "لاتەنیشتی دڵخوازەکان ببینە">
+<!ENTITY hideBookmarksSidebar.label         "لاتەنیشتی دڵخوازەکان بشارەوە">
+<!ENTITY viewBookmarksToolbar.label         "توڵامرازی دڵخوازەکان ببینە">
+<!ENTITY hideBookmarksToolbar.label         "توڵامرازی دڵخوازەکان بشارەوە">
+<!ENTITY searchBookmarks.label              "گەڕان لە دڵخوازەکان">
+<!ENTITY bookmarkingTools.label             "ئامرازەکانی دڵخوازکردن">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
