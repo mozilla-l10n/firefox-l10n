@@ -9,6 +9,7 @@ forward = Avant
 reload = Actualitza
 home = Inici
 fullscreen = Pantalla completa
+touchbar-fullscreen-exit = Ix de la pantalla completa
 find = Cerca
 new-tab = Pestanya nova
 add-bookmark = Afig a les adreces d'interés
@@ -33,5 +34,5 @@ search-opentabs = Pestanyes obertes
 search-tags = Etiquetes
 search-titles = Títols
 
-
+##
 

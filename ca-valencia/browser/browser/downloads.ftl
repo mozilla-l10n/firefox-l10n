@@ -30,7 +30,7 @@ downloads-cmd-cancel-panel =
     .aria-label = Cancel·la
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
-    .label = Obre la carpeta on es troba
+    .label = Obri la carpeta on es troba
     .accesskey = b
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =

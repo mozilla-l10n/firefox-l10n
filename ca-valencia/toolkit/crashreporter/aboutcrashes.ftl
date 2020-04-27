@@ -2,7 +2,13 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = Informes de fallada
+submit-all-button-label = Envia-ho tot
 delete-button-label = Esborra-ho tot
 delete-confirm-title = N'esteu segur?
 delete-unsubmitted-description = Se suprimiran tots els informes de fallada pendents d'enviar i és una acció que no pot desfer-se.

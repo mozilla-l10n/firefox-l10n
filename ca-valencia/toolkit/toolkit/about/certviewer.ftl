@@ -15,6 +15,7 @@ certificate-viewer-algorithm = Algorisme
 certificate-viewer-certificate-authority = Entitat certificadora
 certificate-viewer-cipher-suite = Entorn de xifratge
 certificate-viewer-common-name = Nom comú
+certificate-viewer-email-address = Adreça electrònica
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = País (empresa)
 certificate-viewer-country = País
@@ -55,6 +56,23 @@ certificate-viewer-timestamp = Marca horària
 certificate-viewer-value = Valor
 certificate-viewer-version = Versió
 certificate-viewer-business-category = Categoria empresarial
+certificate-viewer-subject-name = Nom del subjecte
+certificate-viewer-issuer-name = Nom de l'emissor
+certificate-viewer-validity = Validesa
+certificate-viewer-subject-alt-names = Noms alternatius del subjecte
+certificate-viewer-public-key-info = Informació sobre la clau pública
+certificate-viewer-miscellaneous = Altres
+certificate-viewer-fingerprints = Empremtes digitals
+certificate-viewer-basic-constraints = Restriccions bàsiques
+certificate-viewer-key-usages = Usos de la clau
+certificate-viewer-extended-key-usages = Usos de la clau ampliats
+certificate-viewer-ocsp-stapling = Marca horària OCSP
+certificate-viewer-subject-key-id = Identificador de la clau del subjecte
+certificate-viewer-authority-key-id = Identificador de la clau de l'entitat certificadora
+certificate-viewer-authority-info-aia = Informació de l'entitat certificadora (AIA)
+certificate-viewer-certificate-policies = Polítiques de certificats
+certificate-viewer-embedded-scts = SCT incrustats
+certificate-viewer-crl-endpoints = Punts finals CRL
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Baixa
@@ -66,3 +84,11 @@ certificate-viewer-boolean =
         [true] Sí
        *[false] No
     }
+
+## Variables:
+##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+certificate-viewer-download-pem = PEM (cert)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (cadena)
+    .download = { $fileName }-chain.pem

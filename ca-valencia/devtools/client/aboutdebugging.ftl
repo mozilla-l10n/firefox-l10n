@@ -14,6 +14,11 @@
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = Configuració
+# Text displayed in the about:debugging sidebar when USB devices discovery is enabled.
+about-debugging-sidebar-usb-enabled = USB activat
+# Text displayed in the about:debugging sidebar when USB devices discovery is disabled
+# (for instance because the mandatory ADB extension is not installed).
+about-debugging-sidebar-usb-disabled = USB desactivat
 # Connection status (connected) for runtime items in the sidebar
 aboutdebugging-sidebar-runtime-connection-status-connected = Connectat
 # Connection status (disconnected) for runtime items in the sidebar
@@ -27,6 +32,8 @@ about-debugging-sidebar-item-connect-button = Connecta
 about-debugging-sidebar-item-connect-button-connecting = S'està connectant…
 # Text displayed in buttons found in sidebar items when the connection failed.
 about-debugging-sidebar-item-connect-button-connection-failed = La connexió ha fallat
+# Text displayed as connection error in sidebar item when the connection has timed out.
+about-debugging-sidebar-item-connect-button-connection-timeout = S'ha esgotat el temps d'espera de la connexió
 # Temporary text displayed in sidebar items representing remote runtimes after
 # successfully connecting to them. Temporary UI, do not localize.
 about-debugging-sidebar-item-connected-label = Connectat
@@ -44,6 +51,9 @@ about-debugging-sidebar-runtime-item-name =
 # locations).
 about-debugging-sidebar-runtime-item-name-no-device =
     .title = { $displayName }
+# Text to show in the footer of the sidebar that links to a help page
+# (currently: https://developer.mozilla.org/docs/Tools/about:debugging)
+about-debugging-sidebar-support = Assistència per a la depuració
 # Text to show as the ALT attribute of a help icon that accompanies the help about
 # debugging link in the footer of the sidebar
 about-debugging-sidebar-support-icon =
@@ -56,18 +66,46 @@ about-debugging-refresh-usb-devices-button = Actualitza els dispositius
 
 # Title of the Setup page.
 about-debugging-setup-title = Configuració
+# Title of the heading Connect section of the Setup page.
+about-debugging-setup-connect-heading = Connecteu un dispositiu
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Si activeu esta opció, es baixaran i s'afegiran els components necessaris de depuració USB de l'Android en el { -brand-shorter-name }.
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Activa els dispositius USB
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Desactiva els dispositius USB
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = S'està actualitzant…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Activat
+about-debugging-setup-usb-status-disabled = Desactivat
 about-debugging-setup-usb-status-updating = S'està actualitzant…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Activeu el menú «Opcions per a desenvolupadors» en el dispositiu Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug2 = Activeu la «Depuració USB» en el menú «Opcions per a desenvolupadors» de l'Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Activeu la depuració USB en el Firefox en el dispositiu Android.
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Connecteu el dispositiu Android a l'ordinador.
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = Teniu problemes per connectar-vos al dispositiu USB? <a>Resolució de problemes</a>
 # Network section of the Setup page
 about-debugging-setup-network =
     .title = Ubicació de xarxa
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Teniu problemes per connectar-vos mitjançant la ubicació de xarxa? <a>Resolució de problemes</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Afig
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Encara no s'ha afegit cap ubicació de xarxa.
 # Text of a button displayed next to existing network locations in the Connect page.
 # Clicking on it removes the network location from the list.
 about-debugging-network-locations-remove-button = Elimina

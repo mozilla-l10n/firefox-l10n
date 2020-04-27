@@ -203,6 +203,15 @@ advanced-fonts =
 colors-settings =
     .label = Colors…
     .accesskey = C
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zoom
+preferences-default-zoom = Zoom per defecte
+    .accesskey = Z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Amplia només el text
+    .accesskey = t
 language-header = Llengua
 choose-language-description = Trieu la llengua en què es mostraran preferentment les pàgines
 choose-button =
@@ -561,10 +570,19 @@ search-keyword-warning-bookmark = Heu triat una paraula clau que ja utilitza una
 ## Containers Section
 
 containers-back-link = « Torna
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Torna a les opcions
+           *[other] Torna a les preferències
+        }
 containers-header = Pestanyes de contenidor
 containers-add-button =
     .label = Afig un contenidor nou
     .accesskey = A
+containers-new-tab-check =
+    .label = Selecciona un contenidor per a cada pestanya nova
+    .accesskey = S
 containers-preferences-button =
     .label = Preferències
 containers-remove-button =
@@ -974,6 +992,10 @@ permissions-location = Ubicació
 permissions-location-settings =
     .label = Paràmetres…
     .accesskey = t
+permissions-xr = Realitat virtual
+permissions-xr-settings =
+    .label = Paràmetres…
+    .accesskey = t
 permissions-camera = Càmera
 permissions-camera-settings =
     .label = Paràmetres…
@@ -1022,6 +1044,8 @@ permissions-a11y-privacy-link = Més informació
 collection-header = Ús i recollida de dades i del { -brand-short-name }
 collection-description = Ens esforcem per oferir-vos opcions i recollir només allò que necessitem per proporcionar i millorar el { -brand-short-name } per a tothom. Sempre demanem permís abans de rebre informació personal.
 collection-privacy-notice = Avís de privadesa
+collection-health-report-telemetry-disabled = Ja no permeteu a { -vendor-short-name } capturar dades tècniques i d'interacció. Totes les dades antigues se suprimiran d'ací a 30 dies.
+collection-health-report-telemetry-disabled-link = Més informació
 collection-health-report =
     .label = Permet que el { -brand-short-name } envie dades tècniques i d'interacció a { -vendor-short-name }
     .accesskey = r

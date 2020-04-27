@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!-- addon actions -->
+
 <!ENTITY cmd.enableAddon.label                "Habilita">
 <!ENTITY cmd.enableAddon.accesskey            "H">
 <!ENTITY cmd.disableAddon.label               "Inhabilita">
@@ -28,8 +28,8 @@
 <!ENTITY cmd.hideReleaseNotes.label           "Amaga les notes de la versió">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amaga les notes de la versió d'esta actualització">
 <!ENTITY cmd.findReplacement.label            "Cerca un substitut">
-
 <!-- download/install progress -->
+
 <!ENTITY progress.cancel.tooltip              "Cancel·la">
 
 <!ENTITY addon.details.label                  "Més">
@@ -68,6 +68,4 @@
 <!ENTITY addon.createdBy.label                "Per ">
 
 <!ENTITY settings.path.button.label           "Navega…">
-
-<!-- addon actions -->
 <!ENTITY setting.learnmore "Més informació…">

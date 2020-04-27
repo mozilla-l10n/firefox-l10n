@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = Cerca els inicis de sessió
 create-login-button = Crea un inici de sessió
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Icona de web de { $title }
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-button = Inicia la sessió al { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -31,6 +26,8 @@ menu =
     .title = Obri el menú
 # This menuitem is only visible on Windows
 menu-menuitem-import = Importa contrasenyes…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Importa des d'un altre navegador…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -51,6 +48,7 @@ login-list-count =
     }
 login-list-sort-label-text = Ordena per:
 login-list-name-option = Nom (A-Z)
+login-list-name-reverse-option = Nom (Z-A)
 login-list-breached-option = Llocs web amb filtracions de dades
 login-list-last-changed-option = Darrera modificació
 login-list-last-used-option = Darrer ús
@@ -61,9 +59,6 @@ about-logins-login-list-empty-search-description = No hi ha cap resultat que coi
 login-list-item-title-new-login = Inici de sessió nou
 login-list-item-subtitle-new-login = Introduïu les credencials d'inici de sessió
 login-list-item-subtitle-missing-username = (cap nom d'usuari)
-about-logins-list-item-warning-icon =
-    .alt = Icona d'avís
-    .title = Lloc web amb filtració de dades
 about-logins-list-item-breach-icon =
     .title = Lloc web amb filtració de dades
 
@@ -74,14 +69,13 @@ about-logins-login-intro-heading-logged-in = No s'ha trobat cap inici de sessió
 login-intro-description = Si heu guardat els vostres inicis de sessió en el { -brand-product-name } des d'un altre dispositiu, esta és la manera de tindre-los també ací:
 login-intro-instruction-fxa = Creeu un { -fxaccount-brand-name } o inicieu-hi la sessió des del dispositiu on teniu guardats els vostres inicis de sessió
 login-intro-instruction-fxa-settings = Assegureu-vos que heu seleccionat la casella de selecció Inicis de sessió en els paràmetres del { -sync-brand-short-name }
-about-logins-intro-instruction-help = Visiteu l'<a data-l10n-name="help-link">assisència del { -lockwise-brand-short-name }</a> per obtindre més ajuda
+about-logins-intro-instruction-help = Visiteu l'<a data-l10n-name="help-link">assistència del { -lockwise-brand-short-name }</a> per obtindre més ajuda
 about-logins-intro-import = Si els vostres inicis de sessió estan guardats en un altre navegador, podeu <a data-l10n-name="import-link">importar-los al { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Crea un inici de sessió
 login-item-edit-button = Edita
-login-item-delete-button = Suprimeix
 about-logins-login-item-remove-button = Elimina
 login-item-origin-label = Adreça del lloc web
 login-item-origin =
@@ -92,10 +86,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copia
 login-item-copied-username-button-text = S'ha copiat
 login-item-password-label = Contrasenya
-login-item-password-reveal-checkbox-show =
-    .title = Mostra la contrasenya
-login-item-password-reveal-checkbox-hide =
-    .title = Amaga la contrasenya
+login-item-password-reveal-checkbox =
+    .aria-label = Mostra la contrasenya
 login-item-copy-password-button-text = Copia
 login-item-copied-password-button-text = S'ha copiat
 login-item-save-changes-button = Guarda els canvis
@@ -126,7 +118,6 @@ enable-password-sync-preferences-button =
            *[other] Vés a les Preferències del { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Voleu suprimir este inici de sessió?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = No m'ho tornes a demanar
     .accesskey = N
@@ -138,7 +129,6 @@ confirmation-dialog-dismiss-button =
     .title = Cancel·la
 about-logins-confirm-remove-dialog-title = Voleu eliminar este inici de sessió?
 confirm-delete-dialog-message = Esta acció no es pot desfer.
-confirm-delete-dialog-confirm-button = Suprimeix
 about-logins-confirm-remove-dialog-confirm-button = Elimina
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no guardats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgeu guardat.
@@ -153,11 +143,6 @@ breach-alert-dismiss =
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Ja existeix una entrada per a { $loginTitle } amb este nom d'usuari.
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

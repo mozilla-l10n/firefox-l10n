@@ -19,7 +19,7 @@ profile-creation-explanation-3 = Si sou l'única persona que utilitza esta còpi
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Per començar a crear el vostre perfil, feu clic a Continua.
-       *[other] Per començar a crear el vostre perfil, feu clic a Avant.
+       *[other] Per començar a crear el vostre perfil, feu clic a Endavant.
     }
 
 ## Second wizard page

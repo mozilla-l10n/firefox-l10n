@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 wizard-macos-button-back =
-    .label = Vés enrere
+    .label = Vés arrere
     .accesskey = e
 wizard-linux-button-back =
     .label = Arrere
@@ -16,10 +16,10 @@ wizard-macos-button-next =
     .accesskey = C
 wizard-linux-button-next =
     .label = Avant
-    .accesskey = t
+    .accesskey = v
 wizard-win-button-next =
     .label = Avant >
-    .accesskey = t
+    .accesskey = v
 wizard-macos-button-finish =
     .label = Fet
 wizard-linux-button-finish =

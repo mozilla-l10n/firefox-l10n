@@ -18,6 +18,10 @@ graph-total-tracker-summary =
         [one] S'ha blocat <b>{ $count }</b> element de seguiment des del { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] S'han blocat <b>{ $count }</b> elements de seguiment des del { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+# Text displayed instead of the graph when in Private Mode
+graph-private-window = En les finestres privades, el { -brand-short-name } segueix blocant els elements de seguiment, però no conserva cap registre d'allò que bloca.
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Elements de seguiments que el { -brand-short-name } ha blocat esta setmana
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -48,6 +52,9 @@ fingerprinter-tab-title = Generadors d'empremtes digitals
 fingerprinter-tab-content = Els generadors d'empremtes digitals recopilen els paràmetres del vostre navegador per a crear un perfil vostre. A partir d'esta empremta digital, vos poden fer el seguiment entre els diferents llocs web. <a data-l10n-name="learn-more-link">Més informació</a>
 cryptominer-tab-title = Miners de criptomonedes
 cryptominer-tab-content = Els miners de criptomonedes utilitzen la potència de càlcul del vostre ordinador per a la mineria de diners digitals. Els scripts de mineria de criptomonedes consumeixen la bateria, alenteixen l'ordinador i poden augmentar la vostra factura d'electricitat. <a data-l10n-name="learn-more-link">Més informació</a>
+mobile-app-title = Bloqueu els elements de seguiment de publicitat en més dispositius
+mobile-app-card-content = Utilitzeu el navegador mòbil amb protecció integrada contra els anuncis que vos fan seguiment.
+mobile-app-links = Navegador { -brand-product-name } per a l'<a data-l10n-name="android-mobile-inline-link">Android</a> i l'<a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = No oblideu mai més cap contrasenya
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes de forma segura en el vostre navegador.
@@ -55,6 +62,9 @@ lockwise-header-content-logged-in = Guardeu i sincronitzeu les contrasenyes de f
 protection-report-view-logins-button = Mostra els inicis de sessió
     .title = Vés als inicis de sessió guardats
 lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
+lockwise-mobile-app-title = Accediu a les vostres contrasenyes des de qualsevol lloc
+lockwise-no-logins-card-content = Utilitzeu en qualsevol dispositiu les contrasenyes guardades en el { -brand-short-name }.
+lockwise-app-links = { -lockwise-brand-name } per a l'<a data-l10n-name="lockwise-android-inline-link">Android</a> i l'<a data-l10n-name="lockwise-ios-inline-link">iOS</a>
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -65,15 +75,14 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Activa el { -sync-brand-short-name }…
     .title = Vés a les preferències de sincronització
-manage-devices = Gestiona els dispositius
+manage-connected-devices = Gestiona els dispositius…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
+lockwise-connected-device-status =
     { $count ->
-        [one] S'està sincronitzant amb { $count } altre dispositiu.
-       *[other] S'està sincronitzant amb { $count } altres dispositius.
+        [one] Connectat a { $count } dispositiu
+       *[other] Connectat a { $count } dispositius
     }
-lockwise-sync-not-syncing-devices = No se sincronitza amb altres dispositius
 monitor-title = Tingueu controlades les filtracions de dades
 monitor-link = Com funciona
 monitor-header-content-no-account = Visiteu el { -monitor-brand-name } per veure si hi ha alguna filtració de dades coneguda que vos haja afectat i obteniu alertes de noves filtracions.

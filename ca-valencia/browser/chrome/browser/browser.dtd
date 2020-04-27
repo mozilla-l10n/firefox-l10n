@@ -150,9 +150,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.callout.label "Comproveu el correu">
 <!ENTITY fxa.unverified.description.label "Heu de verificar el vostre compte abans de poder sincronitzar.">
 <!ENTITY fxa.unverified.button.label "Obri els paràmetres del &syncBrand.shortName.label;…">
-
-<!ENTITY pictureInPictureHideToggle.label "Amaga el botó d'Imatge sobre imatge">
-<!ENTITY pictureInPictureHideToggle.accesskey "m">
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -160,6 +157,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Sessió iniciada com a">
 <!ENTITY fxa.menu.manageAccount.label "Gestiona el compte…">
 <!ENTITY fxa.menu.syncSettings.label "Paràmetres del &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "Amaga el botó d'Imatge sobre imatge">
+<!ENTITY pictureInPictureHideToggle.accesskey "m">
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
@@ -171,10 +171,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signin.label "Inicia la sessió al &brandProductName;">
 <!ENTITY fxa.menu.turnOnSync.label "Activa el &syncBrand.shortName.label;">
 <!ENTITY fxa.menu.firefoxServices.label "Serveis del &brandProductName;">
-
 <!ENTITY fxa.menu.account.label "Compte">
 <!ENTITY fxa.menu.settings.label "Paràmetres">
 <!ENTITY fxa.menu.accountSettings.label "Paràmetres del compte">
+<!ENTITY fxa.menu.manageAccount2.label "Gestiona el compte">
 <!ENTITY fxa.menu.signOut.label "Tanca la sessió…">
 <!ENTITY fxa.menu.deviceSettings.label "Paràmetres del dispositiu">
 <!ENTITY fxa.menu.setupSync.label "Configura el &syncBrand.shortName.label;…">
@@ -245,6 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "z">
 <!ENTITY stopCmd.label                "Atura">
 <!ENTITY stopCmd.accesskey            "A">
+
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Vés a l'adreça de la barra d'ubicació">
 <!ENTITY printButton.label            "Imprimeix">
@@ -277,8 +278,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gestiona l'ús de programari de DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Obri la subfinestra MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Heu donat permisos addicionals a este lloc web.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Heu blocat la càmera per a este lloc web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Heu blocat el micròfon per a este lloc web.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Heu blocat la compartició de la pantalla en este lloc web.">
@@ -291,6 +290,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Heu blocat l'ús del connector Adobe Flash en este lloc web.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Heu blocat l'accés MIDI per a este lloc web.">
 <!ENTITY urlbar.installBlocked.tooltip           "Heu blocat la instal·lació de complements per a este lloc web.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Heu donat permisos addicionals a este lloc web.">
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
@@ -569,15 +570,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      them when the user has not typed any keyword. -->
 
 <!ENTITY searchWithHeader.label       "Cerca amb:">
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
-<!ENTITY searchWithDesc.label         "Esta vegada, cerca amb:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-
 <!ENTITY changeSearchSettings.button  "Canvia els paràmetres de cerca">
 <!ENTITY changeSearchSettings.tooltip "Canvia els paràmetres de cerca">
 
@@ -587,6 +582,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Obri l'enllaç en una pestanya nova">
+
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Obri l'enllaç en una finestra nova">
 <!ENTITY openLinkCmd.accesskey        "f">
@@ -602,6 +598,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostra només este marc">
 <!ENTITY showOnlyThisFrameCmd.accesskey "M">
+
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Actualitza el marc">
 <!ENTITY reloadFrameCmd.accesskey     "z">
@@ -652,6 +649,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "Anomena i guarda la pàgina…">
 <!ENTITY savePageCmd.accesskey        "g">
 <!ENTITY savePageCmd.accesskey2       "d">
+<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Anomena i guarda el marc…">
 <!ENTITY saveFrameCmd.accesskey       "m">
@@ -753,7 +751,7 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label       "Augmenta">
+<!ENTITY fullZoomEnlargeCmd.label       "Amplia">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -773,7 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Augmenta el text només">
+<!ENTITY fullZoomToggleCmd.label        "Amplia només el text">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
 
 <!ENTITY fullZoom.label                 "Mida de la pàgina">
@@ -819,6 +817,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Canvia la direcció del text">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "v">
+
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Cerca en esta pàgina…">
@@ -942,12 +941,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Per què?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Si els bloqueu, alguns llocs web podrien funcionar de forma inesperada. Sense els elements de seguiment, és possible alguns botons, formularis o camps d'inici de sessió no funcionen.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Si desactiveu les proteccions, permetreu tots els elements de seguiment d'este lloc. També pot millorar la funcionalitat del lloc web.">
-<!ENTITY protections.socialMediaTrackers.label "Elements de seguiment de xarxes socials">
-<!ENTITY protections.crossSiteTrackingCookies.label "Galetes de seguiment entre llocs">
-<!ENTITY protections.trackingContent.label "Contingut que fa seguiment">
-<!ENTITY protections.fingerprinters.label "Generadors d'empremtes digitals">
-<!ENTITY protections.cryptominers.label "Miners de criptomonedes">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "S'han carregat tots els elements de seguiment d'este lloc perquè les proteccions estan desactivades.">
 <!ENTITY protections.noTrackersFound.description "No s'ha detectat cap element de seguiment conegut pel &brandShortName; en esta pàgina.">
 
@@ -970,7 +963,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncSignIn.label             "Inicia la sessió al &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-
 <!ENTITY syncSyncNowItem.label        "Sincronitza ara">
 <!ENTITY syncSyncNowItemSyncing.label "S'està sincronitzant…">
 <!ENTITY syncSyncNowItem.accesskey    "S">
@@ -1008,8 +1000,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.manageSettings2.accesskey "G">
 
 <!ENTITY contentBlocking.socialblock.label "Elements de seguiment de xarxes socials">
-
-<!ENTITY contentBlocking.cookies2.label "Galetes de seguiment entre llocs">
 
 <!ENTITY contentBlocking.cryptominers.label "Miners de criptomonedes">
 <!ENTITY contentBlocking.cryptominersView.label "Miners de criptomonedes">

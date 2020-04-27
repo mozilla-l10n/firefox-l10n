@@ -66,6 +66,8 @@ urlbar-default-notification-anchor =
     .tooltiptext = Obri la subfinestra del missatge
 urlbar-geolocation-notification-anchor =
     .tooltiptext = Obri la subfinestra de la sol·licitud d'ubicació
+urlbar-xr-notification-anchor =
+    .tooltiptext = Obri el tauler de permisos de realitat virtual
 urlbar-storage-access-anchor =
     .tooltiptext = Obri la subfinestra de permisos d'activitat de navegació
 urlbar-translate-notification-anchor =
@@ -90,6 +92,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Obri la subfinestra del missatge d'instal·lació del complement
 urlbar-tip-help-icon =
     .title = Obteniu ajuda
+urlbar-search-tips-confirm = D'acord
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Consell:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -97,6 +105,7 @@ urlbar-tip-help-icon =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
+urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
 
 ##
 
@@ -105,6 +114,8 @@ urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engine
 
 urlbar-geolocation-blocked =
     .tooltiptext = Heu blocat la informació d'ubicació per a este lloc web.
+urlbar-xr-blocked =
+    .tooltiptext = Heu blocat l'accés a dispositius de realitat virtual per a este lloc web.
 urlbar-web-notifications-blocked =
     .tooltiptext = Heu blocat les notificacions per a este lloc web.
 urlbar-camera-blocked =
