@@ -250,6 +250,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ჩაკეცვა
+browser-window-maximize-button =
+    .tooltiptext = გაშლა
 browser-window-close-button =
     .tooltiptext = დახურვა
 
