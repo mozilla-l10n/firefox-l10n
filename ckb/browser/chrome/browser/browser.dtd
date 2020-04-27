@@ -337,24 +337,93 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectA11YContextMenu.label     "تایبەتمەندی بەدەستگەیشتنی بەدواداچوون">
 
 <!ENTITY fileMenu.label         "پەڕگە">
+<!ENTITY fileMenu.accesskey       "F">
 
+<!ENTITY newUserContext.label             "بازدەری لەخۆگری نوێ">
+<!ENTITY newUserContext.accesskey         "B">
+<!ENTITY manageUserContext.label          "ڕێکخستنی لەخۆگرەکان">
+<!ENTITY manageUserContext.accesskey      "O">
 
+<!ENTITY newNavigatorCmd.label        "پەنجەرەی نوێ">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "پەنجەرەی تایبەتی نوێ">
+<!ENTITY newPrivateWindow.accesskey "w">
 
+<!ENTITY editMenu.label         "دەستکاریکردن">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "گەڕانەوە">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "U">
+<!ENTITY redoCmd.label            "پێـشتر">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "R">
+<!ENTITY cutCmd.label           "بڕین">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "t">
+<!ENTITY copyCmd.label            "لەبەرگرتنەوە">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "C">
+<!ENTITY pasteCmd.label           "لکاندن">
+<!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "P">
+<!ENTITY deleteCmd.label          "سڕینەوە">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "D">
+<!ENTITY selectAllCmd.label         "هەمووی دیاریبکە">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "A">
+<!ENTITY preferencesCmd2.label       "هەڵبژاردەکان">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmdUnix.label       "هەڵبژاردنەکان">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "چوونەژوورەوە و وشەی تێپەڕەکان">
 
+<!ENTITY clearRecentHistory.label               "دووا مێژووی بەکارهێنان بسڕەوە...">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
+<!ENTITY viewMenu.label         "پیشاندان">
+<!ENTITY viewMenu.accesskey       "V">
+<!ENTITY viewToolbarsMenu.label       "توڵامراز">
+<!ENTITY viewToolbarsMenu.accesskey     "T">
+<!ENTITY viewSidebarMenu.label "لاتەنیشت">
+<!ENTITY viewSidebarMenu.accesskey "e">
 
+<!ENTITY viewCustomizeToolbar.label       "دڵخوازکردن…">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY overflowCustomizeToolbar.label       "دڵخوازکردنی توڵامراز...">
+<!ENTITY overflowCustomizeToolbar.accesskey   "C">
 
+<!ENTITY historyMenu.label "مێژوو">
+<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyUndoMenu.label "دووا بازدەری داخراو">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "دووا پەنجەرەی داخراو">
+<!ENTITY historyRestoreLastSession.label "دانیشتنی پێشوو بهێنەوە">
 
+<!ENTITY showAllHistoryCmd2.label "هەموو مێژووی کار پیشان بدە">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuHistory.showAll.label "هەموو مێژووی کار پیشان بدە">
+<!ENTITY appMenuHistory.clearRecent.label "دووا مێژووی بەکارهێنان بسڕەوە...">
+<!ENTITY appMenuHistory.restoreSession.label "دانیشتنی پێشوو بهێنەوە">
+<!ENTITY appMenuHistory.viewSidebar.label "لاتەنیشتی مێژوو پیشانبدە">
+<!ENTITY appMenuHistory.hideSidebar.label "لاتەنیشتی مێژوو بشارەوە">
+<!ENTITY appMenuHistory.recentHistory.label "دووا مێژووی کار">
+<!ENTITY appMenuHelp.label "یارمەتی">
 
+<!ENTITY appMenuRemoteTabs.label "بازدەرە هاوکاتییەکان">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!ENTITY appMenuRemoteTabs.notabs.label "بازدەری کراوە نیە">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "زیاتر ببینە">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "بازدەری زیاتر لەم ئامێرەوە پیشان بدە">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "هەمووی پیشان بدە">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
