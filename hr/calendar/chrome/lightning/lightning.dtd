@@ -105,7 +105,7 @@
 <!ENTITY lightning.acctCentral.newCalendar.label "Napravi novi kalendar">
 
 <!-- today-pane-specific -->
-<!ENTITY todaypane.showMinimonth.label "Prikaži Mini-mjesec">
+<!ENTITY todaypane.showMinimonth.label "Prikaži mini mjesec">
 <!ENTITY todaypane.showMinimonth.accesskey "M">
 <!ENTITY todaypane.showMiniday.label "Prikaži Mini-dan">
 <!ENTITY todaypane.showMiniday.accesskey  "d">
