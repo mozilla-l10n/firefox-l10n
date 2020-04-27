@@ -235,6 +235,10 @@ translate-attribution = Пераклад <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Выключэнні…
     .accesskey = ч
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Выкарыстоўваць налады аперацыйнай сістэмы для “{ $localeName }” для фармату дат, часу, лічбаў і адзінак вымярэння.
 check-user-spelling =
     .label = Правяраць арфаграфію ў час набору
     .accesskey = н
