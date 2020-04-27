@@ -299,20 +299,44 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "توڵامرازی دڵخوازەکان بشارەوە">
 <!ENTITY searchBookmarks.label              "گەڕان لە دڵخوازەکان">
 <!ENTITY bookmarkingTools.label             "ئامرازەکانی دڵخوازکردن">
+<!ENTITY addBookmarksMenu.label             "پێڕستی دڵخوازەکان زیادبکە بۆ توڵامراز">
+<!ENTITY removeBookmarksMenu.label          "پێڕستی دڵخوازەکان بسڕەوە لە توڵامراز">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "مێژوو">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
+<!ENTITY toolsMenu.label              "ئامرازەکان">
+<!ENTITY toolsMenu.accesskey          "T">
 
+<!ENTITY keywordfield.label           "کلیلە وشە زیادبکە بۆ ئەم گەڕانە...">
+<!ENTITY keywordfield.accesskey       "K">
 
+<!ENTITY downloads.label              "داگرتنەکان">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "داگرتنەکان">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "پێوەکراوەکان">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "گەشەپێدەری وێب">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
+<!ENTITY inspectContextMenu.label     "بەدواداچوونی توخم">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
+<!ENTITY inspectA11YContextMenu.label     "تایبەتمەندی بەدەستگەیشتنی بەدواداچوون">
 
+<!ENTITY fileMenu.label         "پەڕگە">
 
 
 
