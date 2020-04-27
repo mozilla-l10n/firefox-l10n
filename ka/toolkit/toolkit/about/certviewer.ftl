@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = სერტიფიკატის 
 certificate-viewer-cipher-suite = შიფრის ნაკრები
 certificate-viewer-common-name = საერთო სახელი
 certificate-viewer-email-address = ელფოსტის მისამართი
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = სერტიფიკატი { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = წარმ. ქვეყანა
 certificate-viewer-country = ქვეყანა
