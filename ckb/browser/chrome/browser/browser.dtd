@@ -893,25 +893,66 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "بازدەرەکانی وێبگەڕ">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "بازدەرە هاوکاتگەرییەکان">
+
+<!ENTITY syncedTabs.sidebar.label              "بازدەرە هاوکاتگەرییەکان">
+
+<!ENTITY syncBrand.shortName.label    "هاوکاتگەری">
+
+<!ENTITY syncSignIn.label             "بچۆژوورەوە بۆ &syncBrand.shortName.label;...">
+<!ENTITY syncSignIn.accesskey         "Y">
+<!ENTITY syncSyncNowItem.label        "هاوکاتگەری بکە ئێستا">
+<!ENTITY syncSyncNowItemSyncing.label "هاوکاتگەری دەکرێت...">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "پەیوەندی بکەرەوە بە &syncBrand.shortName.label;...">
+<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncToolbarButton.label      "هاوکاتگەری">
+
+<!ENTITY customizeMode.autoHideDownloadsButton.label "شاردنەوەی خۆکار">
+
+<!ENTITY getUserMedia.selectCamera.label "کامێرا بۆ بڵاوکردنەوە">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "مایکرۆفۆن بۆ بڵاوکردنەوە">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "دەنگ لە بازدەرەوە بڵاودەکرێتەوە.">
+<!ENTITY getUserMedia.allWindowsShared.message "هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.">
+
+<!ENTITY contentBlocking.title "بلۆککردنی ناوەڕۆک">
+<!ENTITY contentBlocking.detected "ناوەڕۆکێک دۆزرایەوە کە دەتوانرێت بلۆک بکرێت لەم ماڵپەڕە.">
+<!ENTITY contentBlocking.notDetected "هیچ ناوەڕۆکێک دۆزرایەوە کە بتوانرێت بلۆک بکرێت لەم ماڵپەڕە.">
+
+<!ENTITY contentBlocking.trackingProtection3.label "چاودێریکەر">
+
+<!ENTITY contentBlocking.manageSettings.label "بەڕێوەبردنی بلۆککردنی ناوەڕۆک">
+<!ENTITY contentBlocking.manageSettings.accesskey "M">
+
+<!ENTITY contentBlocking.trackersView.label "چاودێریکەر">
+<!ENTITY contentBlocking.trackersView.strictInfo.label "بۆ بلۆک کردنی هەموو چاودێریکردنێک، ئەوا بلۆککردنی ناوەڕۆک بکە بە “پتەو”.">
+
+<!ENTITY contentBlocking.cookies.label "شەکرۆکە">
+<!ENTITY contentBlocking.cookiesView.label "شەکرۆکە و زانیاری ماڵپەڕ">
+
+<!ENTITY contentBlocking.trackingProtection4.label "چاودێریکردنی ناوەڕۆک">
+
+<!ENTITY contentBlocking.manageSettings2.label "بەڕێوەبردنی ڕێکخستنەکانی پارێزگاری">
+<!ENTITY contentBlocking.manageSettings2.accesskey "M">
+
+<!ENTITY contentBlocking.socialblock.label "چاودێریکردنی تۆڕی کۆمەڵایەتی">
 
 
+<!ENTITY contentBlocking.fingerprinters.label "پەنجە مۆرەکان">
+<!ENTITY contentBlocking.fingerprintersView.label "پەنجە مۆرەکان">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "کێشە بنێرە">
+<!ENTITY contentBlocking.breakageReportView.label "کێشە بنێرە">
+<!ENTITY contentBlocking.breakageReportView.learnMore "زیاتر بزانە">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY contentBlocking.breakageReportView.title "ماڵپەڕێکی لەکارکەوتوو ڕاپۆرت بکە">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "زیاتر بزانە">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "بەستەر">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
