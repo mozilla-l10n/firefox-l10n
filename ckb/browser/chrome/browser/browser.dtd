@@ -208,13 +208,50 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC  بۆ بەدەستهێنانەوەی جڵەوگیری.">
 <!ENTITY pointerlockWarning.generic.label "ئەم بەڵگەنامەیە جڵەوگیری دیاریکەرەکەت دەکات. پەنجە بنێ بە ESC بۆ بەدەستهێنانەوەی جڵەوگیری.">
 
+<!ENTITY closeWindow.label "پەنجەرە دابخە">
+<!ENTITY closeWindow.accesskey "d">
 
+<!ENTITY bookmarksMenu.label "دڵخوازەکان">
+<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarkThisPageCmd.label "ئەم پەرەیە دڵخواز بکە">
+<!ENTITY editThisBookmarkCmd.label "ئەم دڵخوازە دەستکاریبکە">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!ENTITY addCurPagesCmd.label "هەموو بازدەرەکان دڵخواز بکە...">
 
+<!ENTITY showAllBookmarks2.label "هەموو دڵخوازەکان پیشان بدە">
+<!ENTITY recentBookmarks.label "دووا دڵخوازکراو">
+<!ENTITY otherBookmarksCmd.label "دڵخوازی تر">
+<!ENTITY mobileBookmarksCmd.label "دڵخوازەکانی مۆبایل">
+<!ENTITY bookmarksToolbarChevron.tooltip "دڵخوازی زیاتر پیشان بدە">
 
+<!ENTITY backCmd.label                "دواوە">
+<!ENTITY backCmd.accesskey            "B">
+<!ENTITY backButton.tooltip           "یەک پەڕە بچۆ دواوە">
+<!ENTITY forwardCmd.label             "پێشەوە">
+<!ENTITY forwardCmd.accesskey         "F">
+<!ENTITY forwardButton.tooltip        "یەک پەڕە بچۆ پێشتر">
+<!ENTITY backForwardButtonMenu.tooltip "کرتەی ڕاست یان ڕایکێشە خوارەوە بۆ بینینی مێژووی کار">
+<!ENTITY backForwardButtonMenuMac.tooltip "ڕایکێشە خوارەوە بۆ پیشاندانی مێژووی کار">
+<!ENTITY reloadCmd.label              "بارکردنەوە">
+<!ENTITY reloadCmd.accesskey          "R">
+<!ENTITY stopCmd.label                "بوەستە">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.macCommandKey        ".">
 
+<!ENTITY goEndCap.tooltip             "بڕۆ بۆ ناونیشان لە توڵی شوێن">
+<!ENTITY printButton.label            "چاپکردن">
+<!ENTITY printButton.tooltip          "ئەم پەڕەیە چاپبکە">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "زانیاری مالپەڕ پیشان بدە">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "پانێڵی پەیامەکان بکەرەوە">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "پانێڵی داواکاری شوێن بکەرەوە">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "پانێڵی لێدانی خۆکار بکەرەوە">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "پانێڵی پەیامی دامەزراندنی پێوەکراو بکەرەوە">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "پانێڵی پەیامی بیرگەی دەرهێڵ بکەرەوە">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "پانێڵی پەیامی پاشەکەوتی وشەی تێپەڕ بکەرەوە">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ڕێکخستنی ئەو پێوەکراوانەی لە کاردان">
 
 
 
