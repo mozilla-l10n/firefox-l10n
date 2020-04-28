@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = רשות אישורים
 certificate-viewer-cipher-suite = ערכת צפנים
 certificate-viewer-common-name = שם נפוץ
 certificate-viewer-email-address = כתובת דוא״ל
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = אישור אבטחה עבור { $firstCertName }
 certificate-viewer-country = מדינה
 certificate-viewer-distribution-point = נקודת הפצה
 certificate-viewer-dns-name = שם DNS
