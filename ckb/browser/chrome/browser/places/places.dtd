@@ -22,14 +22,60 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "ڕێکنەخراوە">
 <!ENTITY view.unsorted.accesskey        "U">
+<!ENTITY view.sortAscending.label       "ڕێکخستن بە شێوەی A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "ڕێکخستن بە شێوەی Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
 
+<!ENTITY importBookmarksFromHTML.label     "هێنانی دڵخوازەکان لە پەڕگەی HTML...">
+<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY exportBookmarksToHTML.label       "ناردنی دڵخوازەکان بۆ پەڕگەی HTML...">
+<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY importOtherBrowser.label          "هێنان لە وێبگەڕی ترەوە...">
+<!ENTITY importOtherBrowser.accesskey      "A">
 
+<!ENTITY cmd.backup.label               "پاڵپشتی...">
+<!ENTITY cmd.backup.accesskey           "B">
+<!ENTITY cmd.restore2.label             "هێنانەوە">
+<!ENTITY cmd.restore2.accesskey         "R">
+<!ENTITY cmd.restoreFromFile.label      "پەڕگە هەڵبژێرە...">
+<!ENTITY cmd.restoreFromFile.accesskey  "C">
 
+<!ENTITY cmd.deleteDomainData.label     "دەربارەی ئەم ماڵپەڕە لە بیربکە">
+<!ENTITY cmd.deleteDomainData.accesskey "F">
 
+<!ENTITY cmd.open.label                  "کردنەوە">
+<!ENTITY cmd.open.accesskey              "O">
+<!ENTITY cmd.open_window.label           "لە پەنجەرەیەکی نوێ بیکەرەوە">
+<!ENTITY cmd.open_window.accesskey       "N">
+<!ENTITY cmd.open_private_window.label     "لە پەنجەرەیەکی نویی تایبەت بیکەرەوە">
+<!ENTITY cmd.open_private_window.accesskey "P">
+<!ENTITY cmd.open_tab.label              "کردنەوەی لە بازدەری نوێ">
+<!ENTITY cmd.open_tab.accesskey          "w">
+<!ENTITY cmd.open_all_in_tabs.label      "هەمووی لە ناو بازدەرەکان بکەرەوە">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
+<!ENTITY cmd.properties.label      "تایبەتمەندی">
+<!ENTITY cmd.properties.accesskey  "i">
 
+<!ENTITY cmd.sortby_name.label              "بەپێی ناو">
+<!ENTITY cmd.sortby_name.accesskey          "S">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
 
+<!ENTITY cmd.new_bookmark.label            "دڵخوازی نوێ...">
+<!ENTITY cmd.new_bookmark.accesskey        "B">
+<!ENTITY cmd.new_folder.label              "بوخچەی نوێ...">
+<!ENTITY cmd.new_folder.accesskey          "o">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "جیاکەرەوەی نوێ">
+<!ENTITY cmd.new_separator.accesskey       "S">
 
+<!ENTITY col.name.label          "ناو">
+<!ENTITY col.tags.label          "تاگەکان">
+<!ENTITY col.url.label           "شوێن">
+<!ENTITY col.mostrecentvisit.label "دوواترین سەردانکراو">
+<!ENTITY col.visitcount.label    "ژمارەی سەردانیکردن">
+<!ENTITY col.dateadded.label     "زیادکرا">
 
 
 
