@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = การกระทำนี้ไม่ส
 newtab-menu-section-tooltip =
     .title = เปิดเมนู
     .aria-label = เปิดเมนู
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = เอาออก
+    .aria-label = เอาออก
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = สปอนเซอร์ของเราแ
 
 newtab-privacy-modal-button-done = เสร็จสิ้น
 newtab-privacy-modal-header = ความเป็นส่วนตัวของคุณสำคัญ
-newtab-privacy-modal-paragraph =
-    นอกเหนือจากการนำเสนอเรื่องราวที่น่าสนใจ เรายังแสดงให้คุณเห็นเนื้อหาที่เกี่ยวข้อง
-    ซึ่งได้รับการตรวจสอบอย่างละเอียดจากผู้สนับสนุนที่ได้รับการคัดเลือก ทำให้คุณมั่นใจ
-    ได้ว่าข้อมูลการเรียกดูของคุณจะไม่ทิ้งสำเนาส่วนตัวของ { -brand-product-name } ของคุณซึ่งเราและ
-    สปอนเซอร์ของเราจะไม่เห็น
 newtab-privacy-modal-paragraph-2 =
     นอกเหนือจากการนำเสนอเรื่องราวที่น่าสนใจ เรายังแสดงให้คุณเห็นเนื้อหาที่เกี่ยวข้อง
     ซึ่งได้รับการตรวจสอบอย่างละเอียดจากผู้สนับสนุนที่ได้รับการคัดเลือก ทำให้คุณมั่นใจ
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = อุ๊ปส์! เร
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = หัวข้อยอดนิยม:
 newtab-pocket-more-recommendations = คำแนะนำเพิ่มเติม
-newtab-pocket-whats-pocket = { -pocket-brand-name } คืออะไร?
 newtab-pocket-learn-more = เรียนรู้เพิ่มเติม
 newtab-pocket-cta-button = รับ { -pocket-brand-name }
 newtab-pocket-cta-text = บันทึกเรื่องราวที่คุณรักลงใน { -pocket-brand-name } และเติมเต็มสมองของคุณด้วยบทความที่น่าหลงใหล

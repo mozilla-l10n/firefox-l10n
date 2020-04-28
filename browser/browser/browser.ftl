@@ -206,6 +206,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ย่อ
+browser-window-maximize-button =
+    .tooltiptext = ขยาย
 browser-window-close-button =
     .tooltiptext = ปิด
 
