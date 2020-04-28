@@ -134,15 +134,71 @@ menu-view-full-screen =
 menu-view-show-all-tabs =
     .label = Pokoż wszyskie karty
     .accesskey = W
+menu-view-bidi-switch-page-direction =
+    .label = Zmiyn kerunek strōny
+    .accesskey = k
 
 ## History Menu
 
+menu-history =
+    .label = Historyjo
+    .accesskey = s
+menu-history-show-all-history =
+    .label = Pokoż cołko historyjo
+menu-history-clear-recent-history =
+    .label = Wypucuj niydowno historyjo…
+menu-history-synced-tabs =
+    .label = Synchrōnizowane karty
+menu-history-hidden-tabs =
+    .label = Skryte karty
+menu-history-undo-menu =
+    .label = Niydowno zawarte karty
+menu-history-undo-window-menu =
+    .label = Niydowno zawarte ôkna
 
 ## Bookmarks Menu
 
+menu-bookmarks-menu =
+    .label = Zokłodki
+    .accesskey = Z
+menu-bookmarks-show-all =
+    .label = Pokoż wszyskie zokłodki
+menu-bookmark-this-page =
+    .label = Przidej ta strōna do zokłodek
+menu-bookmark-edit =
+    .label = Edytuj ta zokłodka
+menu-bookmarks-all-tabs =
+    .label = Przidej wszyskie karty do zokłodek…
+menu-bookmarks-toolbar =
+    .label = Posek z zokłodkami
+menu-bookmarks-other =
+    .label = Inksze zokłodki
+menu-bookmarks-mobile =
+    .label = Zokłodki z mobilnioka
 
 ## Tools Menu
 
+menu-tools =
+    .label = Noczynia
+    .accesskey = n
+menu-tools-downloads =
+    .label = Pobiyranie
+    .accesskey = P
+menu-tools-addons =
+    .label = Rozszyrzynia
+    .accesskey = R
+menu-tools-fxa-sign-in =
+    .label = Zaloguj sie do aplikacyje { -brand-product-name }…
+    .accesskey = l
+menu-tools-turn-on-sync =
+    .label = Załōncz { -sync-brand-short-name }…
+    .accesskey = n
+menu-tools-sync-now =
+    .label = Synchrōnizuj
+    .accesskey = S
+menu-tools-fxa-re-auth =
+    .label = Połōncz sie zaś z aplikacyjōm { -brand-product-name }…
+    .accesskey = a
 
 ## Window Menu
 
