@@ -1,0 +1,39 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "کتێبخانە">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "ڕێکخستنەوە">
+<!ENTITY organize.accesskey    "O">
+<!ENTITY organize.tooltip      "ڕێککردنەوەی دڵخوازەکانت">
+
+<!ENTITY file.close.label               "داخستن">
+<!ENTITY file.close.accesskey           "C">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "پیشاندان">
+<!ENTITY views.accesskey                "V">
+<!ENTITY views.tooltip                  "بینین بگۆڕە">
+<!ENTITY view.columns.label             "ستوونەکان پیشان بدە">
+<!ENTITY view.columns.accesskey         "C">
+<!ENTITY view.sort.label                "ڕێکخستن بە پێی">
+<!ENTITY view.sort.accesskey            "S">
+<!ENTITY view.unsorted.label            "ڕێکنەخراوە">
+<!ENTITY view.unsorted.accesskey        "U">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
