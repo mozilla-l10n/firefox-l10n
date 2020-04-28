@@ -60,10 +60,16 @@ cert-error-details-cert-chain-label = ច្រវាក់​​វិញ្ញ
 
 connectionFailure-title = មិន​អាច​តភ្ជាប់
 deniedPortAccess-title = អាសយដ្ឋាន​នេះ​ត្រូវ​បាន​ដាក់កម្រិត
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = ហឹម។ យើងកំពុងមានបញ្ហាក្នុងការរក​គេហទំព័រ​នោះ។
 fileNotFound-title = រក​មិន​ឃើញ​ឯកសារ
 fileAccessDenied-title = ការ​ចូល​ប្រើប្រាស់​ឯកសារ​ត្រូវបាន​បដិសេធ
 generic-title = អ្ហុះ !
 captivePortal-title = ចូល​បណ្ដាញ
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = ហឹម។ អាសយដ្ឋាននោះមើលទៅមិនត្រឹមត្រូវ​ទេ។
 netInterrupt-title = ការ​តភ្ជាប់​ត្រូវ​បាន​កាត់​ផ្តាច់
 notCached-title = ឯកសារ​បាន​ផុត​កំណត់
 netOffline-title = របៀប​ក្រៅ​បណ្ដាញ
@@ -82,3 +88,7 @@ corruptedContentError-title = កំហុស​មាតិកា​ដែល�
 remoteXUL-title = XUL ពី​ចម្ងាយ
 sslv3Used-title = មិន​អាច​តភ្ជាប់​ដោយ​សុវត្ថិភាព​ឡើយ
 inadequateSecurityError-title = ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​
+blockedByPolicy-title = ទំព័រត្រូវបានទប់ស្កាត់
+clockSkewError-title = នាឡិកាកុំព្យូទ័ររបស់អ្នកមិនត្រឹមត្រូវ
+networkProtocolError-title = បញ្ហា​​ពិធីការ​បណ្ដាញ
+nssBadCert-title = ប្រុងប្រយ័ត្ន៖ មានហានិភ័យសុវត្ថិភាពដែលអាច​នឹង​កើត​មាន
