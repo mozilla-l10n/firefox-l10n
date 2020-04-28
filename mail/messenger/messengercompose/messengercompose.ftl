@@ -15,6 +15,21 @@ address-input-type =
         [one] { $type } sarrera eremuak helbide bat dauka
        *[other] { $type } sarrera eremuak { $count } helbide ditu
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] { $type } helbide batekin, erabili ezker gezia fokua bertan jartzeko.
+       *[other] { $type } { $count } helbidekin, erabili ezker gezia fokua beraiengan jartzeko.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: sakatu Sartu editatzeko, Ezabatu kentzeko.
+       *[other] { $email } 1 { $count }-tik:  sakatu Sartu editatzeko, Ezabatu kentzeko.
+    }
 pill-action-edit =
     .label = Editatu helbidea
     .accesskey = E
