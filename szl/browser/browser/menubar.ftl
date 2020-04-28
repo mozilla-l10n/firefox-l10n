@@ -31,12 +31,54 @@ menu-file-close =
 menu-file-close-window =
     .label = Zawrzij okno
     .accesskey = j
+menu-file-save-page =
+    .label = Spamiyntej strōna za…
+    .accesskey = a
+menu-file-email-link =
+    .label = Poślij link emailym…
+    .accesskey = E
+menu-file-print-setup =
+    .label = Nasztalowania strōny
+    .accesskey = y
+menu-file-print-preview =
+    .label = Podlōnd durku
+    .accesskey = d
+menu-file-print =
+    .label = Durkuj…
+    .accesskey = D
+menu-file-import-from-another-browser =
+    .label = Importuj z inkszyj przeglōndarki
+    .accesskey = I
+menu-file-go-offline =
+    .label = Rōb offline
+    .accesskey = f
 
 ## Edit Menu
 
+menu-edit =
+    .label = Edytuj
+    .accesskey = E
+menu-edit-find-on =
+    .label = Znojdź na tyj strōnie…
+    .accesskey = Z
+menu-edit-find-again =
+    .label = Znojdź zaś
+    .accesskey = n
+menu-edit-bidi-switch-text-direction =
+    .label = Przełōncz kerunek tekstu
+    .accesskey = t
 
 ## View Menu
 
+menu-view =
+    .label = Pokoż
+    .accesskey = P
+menu-view-toolbars-menu =
+    .label = Poski z noczyniami
+    .accesskey = P
+menu-view-customize-toolbar =
+    .label = Przipasuj…
+    .accesskey = u
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
