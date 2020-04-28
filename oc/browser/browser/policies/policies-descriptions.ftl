@@ -25,7 +25,7 @@ policy-Cookies = Permet o defend als sites de definir de cookies.
 policy-DisabledCiphers = Desactivar los chiframents.
 policy-DefaultDownloadDirectory = Definir lo dossièr de telecargament per defaut
 policy-DisableAppUpdate = Empacha lo navigador de se metre a jorn.
-policy-DisableBuiltinPDFViewer = Desactiva PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.
+policy-DisableBuiltinPDFViewer = Desactivar PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.
 policy-DisableDefaultBrowserAgent = Empachar l’agent navegador per defaut de realizar d’accions. S’aplica pas que per Windows ; las autras plataformas an pas aquel agent.
 policy-DisableDeveloperTools = Blòca l’accès a las aisinas de desvolopament.
 policy-DisableFeedbackCommands = Desactiva las comandas que permeton de mandar de comentaris dins lo menú d’ajuda (Donar vòstre vejaire e senhalar un site enganaire)
@@ -85,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Definir la valor per defaut de { -brand-short-
 policy-OverrideFirstRunPage = Remplaçar la pagina de primièr lançament. Daissatz aquesta règla voida per desactivar la pagina de primièr lançament.
 policy-OverridePostUpdatePage = Contrarotlar la pagina « Qué de nòu » aprèp una mesa a jorn. Daissatz aquesta règla voida per desactivar la pagina aprèp mesa a jorn.
 policy-PasswordManagerEnabled = Activar lo salvament dels senhals al gestionari de senhals.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desactivar o configurar PDF.js, lo visionador integrat de PDF dins { -brand-short-name }.
 policy-Permissions2 = Configurar las autorizacions per la camèra, lo microfòn, la localizacion, las notificacions e la lectura automatica.
 policy-PopupBlocking = Autoriza unes sites web a mostrar de fenèstras surgentas per defaut.
 policy-Preferences = Definir e verrolhar la valor d’un jos-ensemble de preferéncias.
