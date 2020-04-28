@@ -52,6 +52,8 @@ policy-DontCheckDefaultBrowser = השבתת בדיקת דפדפן ברירת ה�
 policy-DownloadDirectory = הגדרה ונעילה של תיקיית ההורדה.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = הפעלה או השבתה של חסימת תוכן עם אפשרות לנעול את הבחירה.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = הפעלה או השבתה של Encrypted Media Extensions עם אפשרות לנעול את הבחירה.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -65,6 +67,12 @@ policy-HardwareAcceleration = כיבוי האצת חומרה אם מוגדר כ�
 policy-Homepage = הגדרה ונעילה כרשות של דף הבית.
 policy-InstallAddonsPermission = לאפשר לאתרים מסוימים להתקין תוספות.
 policy-LegacyProfiles = השבתת התכונה האוכפת פרופיל נפרד לכל התקנה
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-LocalFileLinks = לאפשר לאתרים מסויימים לקשר לקבצים מקומיים.
 policy-NetworkPrediction = הפעלה או השבתה של חיזוי רשתי (אחזור מוקדם באמצעות DNS).
 policy-NewTabPage = הפעלה או השבתה של דף הלשונית החדשה.
