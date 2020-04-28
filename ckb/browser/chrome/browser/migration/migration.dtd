@@ -45,5 +45,10 @@
 <!ENTITY migrating.title                "هـێنانەوە...">
 <!ENTITY migrating.label                "ئەم بڕگانە ئێستا هاوردەکران...">
 
+<!ENTITY selectProfile.title            "پرۆفایل دیاریبکە">
+<!ENTITY selectProfile.label            "ئەم پرۆفایلانە بەردەستن بۆ ئەوەی هاوردەبکەیت لێیانەوە:">
 
+<!ENTITY done.title                     "هاوردەکردن تەواو بوو">
+<!ENTITY done.label                     "ئەم بڕگانەی خوارەوە بەسەرکەووتووی هاوردەکرا:">
 
+<!ENTITY closeSourceBrowser.label       "تکایە دڵنیابەرەوە کە وێبگەڕی هەڵبژێردراو داخراوە پێش بەردەوام بوون.">
