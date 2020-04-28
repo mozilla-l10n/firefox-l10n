@@ -31,6 +31,7 @@ app-basics-title = Tembipuru'i ñemboheko ypy
 app-basics-name = Téra
 app-basics-version = Peteĩchagua
 app-basics-build-id = ID jejapo
+app-basics-distribution-id = Ñemyasãi ID
 app-basics-update-channel = Ñembohekopyahu mbohapeha
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
