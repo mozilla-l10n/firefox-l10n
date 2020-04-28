@@ -9,7 +9,6 @@ ok = OK
 http = HTTP
 sockets = Socket
 dns = DNS
-dnssuffix = Suffisso DNS
 websockets = WebSocket
 refresh = Aggiorna
 auto-refresh = Aggiorna automaticamente ogni 3 secondi
@@ -69,8 +68,6 @@ rcwn-avg-long = Media lunga
 rcwn-std-dev-long = Deviazione standard lunga
 rcwn-cache-slow = Conteggio cache lenta
 rcwn-cache-not-slow = Conteggio cache non lenta
-networkid = Network ID
-networkid-id = Network ID
 about-networking-ssl = SSL
 about-networking-active = Attivo
 about-networking-idle = Inattivo
@@ -118,10 +115,7 @@ about-networking-networkid-id = Network ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Il collegamento è attivo
-networkid-statusKnown = Lo stato del collegamento è noto
 about-networking-networkid-is-up = Il collegamento è attivo
 about-networking-networkid-status-known = Lo stato del collegamento è noto
 
 ##
-

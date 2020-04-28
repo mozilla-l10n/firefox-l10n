@@ -124,10 +124,6 @@ cfr-whatsnew-lockwise-take-link-text = Ottieni l’app
 
 cfr-whatsnew-searchbar-title = Scrivi di meno e trova più risultati con la barra degli indirizzi
 cfr-whatsnew-searchbar-body-topsites = Selezionando la barra degli indirizzi apparirà un elenco di link ai tuoi siti principali.
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Accedi ai siti che utilizzi più spesso con un solo clic nella barra degli indirizzi. Trova ciò che ti serve più rapidamente con risultati di ricerca da { $searchEngineName } e dalla tua cronologia di navigazione.
-cfr-whatsnew-searchbar-body-generic = Accedi ai siti che utilizzi più spesso con un solo clic nella barra degli indirizzi. Trova ciò che ti serve più rapidamente con risultati di ricerca dalla tua cronologia di navigazione.
 cfr-whatsnew-searchbar-icon-alt-text = Icona lente d’ingrandimento
 
 ## Picture-in-Picture
