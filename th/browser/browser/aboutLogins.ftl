@@ -58,6 +58,8 @@ login-list-item-subtitle-new-login = ป้อนข้อมูลรับร�
 login-list-item-subtitle-missing-username = (ไม่มีชื่อผู้ใช้)
 about-logins-list-item-breach-icon =
     .title = เว็บไซต์ที่มีการรั่วไหล
+about-logins-list-item-vulnerable-password-icon =
+    .title = รหัสผ่านที่อ่อนแอ
 
 ## Introduction screen
 
@@ -157,11 +159,22 @@ confirm-discard-changes-dialog-confirm-button = ละทิ้ง
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = การรั่วไหลของเว็บไซต์
 breach-alert-text = รหัสผ่านถูกรั่วไหลหรือถูกขโมยจากเว็บไซต์นี้ตั้งแต่คุณอัปเดตรายละเอียดการเข้าสู่ระบบครั้งล่าสุด เปลี่ยนรหัสผ่านของคุณเพื่อปกป้องบัญชีของคุณ
+about-logins-breach-alert-date = การรั่วไหลนี้เกิดขึ้นเมื่อ { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = ไปยัง { $hostname }
 about-logins-breach-alert-learn-more-link = เรียนรู้เพิ่มเติม
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = รหัสผ่านที่อ่อนแอ
+about-logins-vulnerable-alert-text2 = รหัสผ่านนี้ถูกใช้ในบัญชีอื่นที่เป็นไปได้ว่ามีการรั่วไหลของข้อมูล การใช้ข้อมูลประจำตัวซ้ำจะทำให้บัญชีทั้งหมดของคุณมีความเสี่ยง โปรดเปลี่ยนรหัสผ่านนี้
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = ไปยัง { $hostname }
+about-logins-vulnerable-alert-learn-more-link = เรียนรู้เพิ่มเติม
 
 ## Error Messages
 
