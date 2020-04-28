@@ -110,13 +110,20 @@ downloads-retry-download =
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
-    .value = Pociep pobieranie
+    .value = Pociep pobiyranie
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
-    .label = Pokoż wszyskie pobrania
+    .label = Pokoż wszyskie pobiyrania
     .accesskey = P
+# This string is shown at the top of the Download Details Panel, to indicate
+# that we are showing the details of a single download.
+downloads-details =
+    .title = Ôsobliwości pobiyranio
+downloads-clear-downloads-button =
+    .label = Wypucuj lista pobranych zbiorōw
+    .tooltiptext = Pucuje skōńczōne, pociepane i niypodarzōne pobiyrania
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
