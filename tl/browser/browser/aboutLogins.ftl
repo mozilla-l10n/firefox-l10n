@@ -60,6 +60,8 @@ login-list-item-subtitle-new-login = Ipasok ang iyong mga login credential
 login-list-item-subtitle-missing-username = (walang username)
 about-logins-list-item-breach-icon =
     .title = Breached website
+about-logins-list-item-vulnerable-password-icon =
+    .title = Vulnerable password
 
 ## Introduction screen
 
@@ -166,6 +168,7 @@ about-logins-breach-alert-learn-more-link = Alamin
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Vulnerable Password
 about-logins-vulnerable-alert-text2 = Ang password na ito ay nagamit na sa ibang account na malamang ay nasangkot na sa isang data breach. Malalagay sa panganib ang mga account mo kapag ginamit muli ang mga credential. Baguhin ang password na ito.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Idagdag ang Extension
 onboarding-import-browser-settings-title = I-import ang iyong mga Bookmark, Password, at iba pa
 onboarding-import-browser-settings-text = Sumabak agad — madali mong dalhin kasama mo ang iyong mga site at setting sa Chrome.
 onboarding-import-browser-settings-button = i-Import ang Chrome Data
+onboarding-personal-data-promise-text = Binibigyang-respeto ng { -brand-product-name } ang iyong data sa pamamagitan ng pagkuha lang ng talagang kailangan, pagprotekta rito, at sa pagiging malinaw kung paano namin ito gagamitin.
 onboarding-personal-data-promise-button = Basahin ang aming Pangako
 
 ## Message strings belonging to the Return to AMO flow

@@ -286,6 +286,11 @@ sandbox-proc-type-content = nilalaman
 sandbox-proc-type-file = nilalaman ng file
 sandbox-proc-type-media-plugin = plugin ng media
 sandbox-proc-type-data-decoder = data decoder
+startup-cache-title = Startup Cache
+startup-cache-disk-cache-path = Disk Cache Path
+startup-cache-ignore-disk-cache = Ignore Disk Cache
+startup-cache-found-disk-cache-on-init = Found Disk Cache on Init
+startup-cache-wrote-to-disk-cache = Wrote to Disk Cache
 launcher-process-status-0 = Naka-enable
 launcher-process-status-1 = Na-disable dahil sa pagkasira
 launcher-process-status-2 = Sapilitang na-disable
@@ -309,6 +314,7 @@ touch-enabled = naka-enable ang touch input
 drag-enabled = naka-enable ang scrollbar drag
 keyboard-enabled = naka-enable ang keyboard
 autoscroll-enabled = pinagana ang autoscroll
+zooming-enabled = smooth pinch-zoom enabled
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference

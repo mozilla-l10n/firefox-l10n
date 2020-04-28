@@ -250,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = i-Minimize
+browser-window-maximize-button =
+    .tooltiptext = Palakihin
+browser-window-restore-down-button =
+    .tooltiptext = Restore Down
 browser-window-close-button =
     .tooltiptext = Isara
 
