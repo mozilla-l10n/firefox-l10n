@@ -10,3 +10,4 @@
 title = Ważne nowiny
 heading = Zmiany w tym profilu aplikacyji { -brand-short-name }
 changed-title = Co sie zmiyniyło?
+changed-desc-profiles = Ta instalacyjo aplikacyje { -brand-short-name } mo nowy profil. Profil to je paket zbiorōw, w kerym Firefox spamiyntuje informacyje (bez przikłod zokłodki, hasła abo twoje nasztalowania).
