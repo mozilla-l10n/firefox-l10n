@@ -85,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Indica le valor predefinite pro permitter a { 
 policy-OverrideFirstRunPage = Supplantar le pagina del lanceamento initial.
 policy-OverridePostUpdatePage = Supplantar le pagina de “Novas” post-actualisation. Defini iste criterio a blanc si tu desira disactivar le pagina de post-actualisation.
 policy-PasswordManagerEnabled = Activar salvamento de contrasignos al gestor de contrasignos.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Disactivar o configurar PDF.js, le visor de PDF integrate in { -brand-short-name }.
 policy-Permissions2 = Configurar le permissiones pro camera, microphono, position, notificationes e autoreproduction.
 policy-PopupBlocking = Permitter a certe sitos web de monstrar fenestras emergente per predefinition.
 policy-Preferences = Defini e bloca le valor de un sub-ensemble de preferentias.
