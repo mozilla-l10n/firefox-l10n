@@ -199,9 +199,45 @@ menu-tools-sync-now =
 menu-tools-fxa-re-auth =
     .label = Połōncz sie zaś z aplikacyjōm { -brand-product-name }…
     .accesskey = a
+menu-tools-page-source =
+    .label = Zdrzōdło strōny
+    .accesskey = o
+menu-tools-page-info =
+    .label = Informacyje ô strōnie
+    .accesskey = I
+menu-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Ôpcyje
+           *[other] Preferyncyje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] n
+        }
+menu-tools-layout-debugger =
+    .label = Debuger rozłożynio
+    .accesskey = b
 
 ## Window Menu
 
+menu-window-menu =
+    .label = Ôkno
+menu-window-bring-all-to-front =
+    .label = Przeniyś wszysko do przodku
 
 ## Help Menu
 
+menu-help =
+    .label = Pōmoc
+    .accesskey = P
+menu-help-product =
+    .label = Pōmoc aplikacyje { -brand-shorter-name }
+    .accesskey = P
+menu-help-show-tour =
+    .label = Ôkludziny po aplikacyji { -brand-shorter-name }
+    .accesskey = o
+menu-help-import-from-another-browser =
+    .label = Importuj z inkszyj przeglōndarki…
+    .accesskey = I
