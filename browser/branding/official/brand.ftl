@@ -16,6 +16,7 @@
 -brand-shorter-name =
     { $case ->
        *[nominative] Firefox
+        [ablative] Firefoxilta
         [elative] Firefoxista
         [genitive] Firefoxin
         [illative] Firefoxiin
@@ -24,6 +25,7 @@
 -brand-short-name =
     { $case ->
        *[nominative] Firefox
+        [ablative] Firefoxilta
         [elative] Firefoxista
         [genitive] Firefoxin
         [illative] Firefoxiin
@@ -32,6 +34,7 @@
 -brand-full-name =
     { $case ->
        *[nominative] Mozilla Firefox
+        [ablative] Mozilla Firefoxilta
         [elative] Mozilla Firefoxista
         [genitive] Mozilla Firefoxin
         [illative] Mozilla Firefoxiin
@@ -42,6 +45,7 @@
 -brand-product-name =
     { $case ->
        *[nominative] Firefox
+        [ablative] Firefoxilta
         [elative] Firefoxista
         [genitive] Firefoxin
         [illative] Firefoxiin
