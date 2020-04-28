@@ -45,6 +45,7 @@ app-basics-title = Stručně o aplikaci
 app-basics-name = Název
 app-basics-version = Verze
 app-basics-build-id = ID sestavení
+app-basics-distribution-id = ID distribuce
 app-basics-update-channel = Kanál aktualizací
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
