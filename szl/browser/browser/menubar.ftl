@@ -79,13 +79,61 @@ menu-view-toolbars-menu =
 menu-view-customize-toolbar =
     .label = Przipasuj…
     .accesskey = u
+menu-view-sidebar =
+    .label = Lajsta na rancie
+    .accesskey = l
+menu-view-bookmarks =
+    .label = Zokłodki
+menu-view-history-button =
+    .label = Historyjo
+menu-view-synced-tabs-sidebar =
+    .label = Synchronizowane karty
+menu-view-full-zoom =
+    .label = Zwiynkszanie
+    .accesskey = z
+menu-view-full-zoom-enlarge =
+    .label = Zwiynkszej
+    .accesskey = Z
+menu-view-full-zoom-reduce =
+    .label = Zmyńszej
+    .accesskey = m
+menu-view-full-zoom-actual-size =
+    .label = Prawo srogość
+    .accesskey = s
+menu-view-full-zoom-toggle =
+    .label = Zwiynkszej ino tekst
+    .accesskey = T
+menu-view-page-style-menu =
+    .label = Styl strōny
+    .accesskey = y
+menu-view-page-style-no-style =
+    .label = Bez stylu
+    .accesskey = e
+menu-view-page-basic-style =
+    .label = Bazowy styl
+    .accesskey = B
+menu-view-charset =
+    .label = Kodowanie stylu
+    .accesskey = k
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
+menu-view-enter-full-screen =
+    .label = Wlyź do trybu cołkigo ekranu
+    .accesskey = e
+menu-view-exit-full-screen =
+    .label = Wylyź z trybu cołkigo ekranu
+    .accesskey = e
+menu-view-full-screen =
+    .label = Cołki ekran
+    .accesskey = C
 
 ##
 
+menu-view-show-all-tabs =
+    .label = Pokoż wszyskie karty
+    .accesskey = W
 
 ## History Menu
 
