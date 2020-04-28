@@ -34,6 +34,7 @@ app-basics-title = 應用程式一般資訊
 app-basics-name = 名稱
 app-basics-version = 版本
 app-basics-build-id = Build ID
+app-basics-distribution-id = 發行 ID
 app-basics-update-channel = 更新頻道
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
