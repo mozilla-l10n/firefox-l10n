@@ -86,6 +86,7 @@ lockwise-connected-device-status =
 monitor-link = איך זה עובד
 monitor-header-content-no-account = ניתן לבדוק את { -monitor-brand-name } כדי לראות אם היית חלק מדליפת נתונים מוכרת, ולקבל התרעות לגבי דליפות חדשות.
 monitor-header-content-signed-in = { -monitor-brand-name } מזהיר אותך אם המידע שלך נחשף בדליפת נתונים מוכרת.
+monitor-sign-up = הרשמה להתראות על דליפות
 auto-scan = נסרק באופן אוטומטי היום
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
