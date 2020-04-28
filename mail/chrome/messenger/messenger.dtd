@@ -236,7 +236,7 @@
 <!ENTITY threadsWithUnreadCmd.accesskey "I">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Irakurri gabeak dituzten ikusitako hariak">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "I">
-<!ENTITY ignoredThreadsCmd.label "Ezkikusitako utzitako hariak">
+<!ENTITY ignoredThreadsCmd.label "Ezikusitako hariak">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
 
 <!ENTITY headersMenu.label "Goiburuak">
