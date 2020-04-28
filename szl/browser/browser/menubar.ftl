@@ -241,3 +241,26 @@ menu-help-show-tour =
 menu-help-import-from-another-browser =
     .label = Importuj z inkszyj przeglōndarki…
     .accesskey = I
+menu-help-keyboard-shortcuts =
+    .label = Skrōty tastatury
+    .accesskey = T
+menu-help-troubleshooting-info =
+    .label = Ô rozwiōnzowaniu problymōw
+    .accesskey = b
+menu-help-feedback-page =
+    .label = Poślij ôpinijo
+    .accesskey = S
+menu-help-safe-mode-without-addons =
+    .label = Resztartuj z wyłōnczōnymi rozszyrzyniami…
+    .accesskey = R
+menu-help-safe-mode-with-addons =
+    .label = Resztartuj ze załōnczōnymi roszyrzyniami
+    .accesskey = R
+# Label of the Help menu item. Either this or
+# menu-help-notdeceptive is shown.
+menu-help-report-deceptive-site =
+    .label = Zgłoś cygańsko strōna…
+    .accesskey = Z
+menu-help-not-deceptive =
+    .label = To niy ma cygańsko strōna…
+    .accesskey = c
