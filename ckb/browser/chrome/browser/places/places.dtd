@@ -76,10 +76,32 @@
 <!ENTITY col.mostrecentvisit.label "دوواترین سەردانکراو">
 <!ENTITY col.visitcount.label    "ژمارەی سەردانیکردن">
 <!ENTITY col.dateadded.label     "زیادکرا">
+<!ENTITY col.lastmodified.label  "دووا دەستکاریکراو">
 
+<!ENTITY historySearch.placeholder  "گەڕان لە ناو مێژووی کاردا">
+<!ENTITY bookmarksSearch.placeholder  "گەڕان لە دڵخوازەکان">
 
+<!ENTITY cmd.find.key  "f">
 
+<!ENTITY maintenance.label      "هێنان و پاڵپشتی (باکئەپ)">
+<!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "هێنانی پاڵپشتیکردنی دڵخوازەکانت (باکئەپ)">
 
+<!ENTITY backButton.tooltip  "بڕۆ دواوە">
 
+<!ENTITY forwardButton.tooltip  "بڕۆ پێشەوە">
 
+<!ENTITY detailsPane.selectAnItemText.description "بڕگەیەک هەڵبژێرە بۆ پیشاندان و دەستکاریکردنی تایبەتمەندییەکانی">
 
+<!ENTITY view.label               "پیشاندان">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "بە پێی ڕۆژ">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "بەپێی ماڵپەڕ">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "بەپێی زۆرترین سەردانکراو">
+<!ENTITY byMostVisited.accesskey  "V">
+<!ENTITY byLastVisited.label      "بەپێی دووا سەردانیکراو">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "بەپێی ڕۆژ و ماڵپەڕ">
+<!ENTITY byDayAndSite.accesskey   "t">
