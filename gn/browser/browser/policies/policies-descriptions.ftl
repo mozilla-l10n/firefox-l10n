@@ -85,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Emopyenda tepykue ypyguáva omoneĩ hag̃ua { 
 policy-OverrideFirstRunPage = Emboyke kuatiarogue tembiapo ñepyrũguáva. Emboaje ko purureko mba’eve’ỹre eipe’aséramo kuatiarogue tembiapo ñepyrũguáva.
 policy-OverridePostUpdatePage = Emboyke kuatiarogue “Mba’epyahu” embohekopyahu rire. Emboaje ko purureko mba’eve’ỹre eipe’aséramo kuatiarogue embohekopyahu rire.
 policy-PasswordManagerEnabled = Embojuruja ñe’ẽñemi ñongatu ñe’ẽñemi ñangarekohápe.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Eipe’a térã emboheko PDF.js, PDF jehechaha oĩva { -brand-short-name } ryepýpe.
 policy-Permissions2 = Emboheko ñemoneĩ ta’anganohẽha, ñe’ẽatãha, tendaite, marandu’í ha ñembohetápe g̃uarã.
 policy-PopupBlocking = Emoneĩ ndahetái ñanduti rendápe ohechaukávo ovetã iñapysẽva ijypykue rupi.
 policy-Preferences = Emboheko ha ejoko tepykue jeguerohoryvéva aty’ípe g̃uarã.
