@@ -46,7 +46,7 @@ login-list-count =
 login-list-sort-label-text = เรียงลำดับตาม:
 login-list-name-option = ชื่อตามตัวอักษร
 login-list-name-reverse-option = ชื่อ (Z-A)
-login-list-breached-option = เว็บไซต์ที่มีการรั่วไหล
+about-logins-login-list-alerts-option = การแจ้งเตือน
 login-list-last-changed-option = วันที่เปลี่ยนแปลงล่าสุด
 login-list-last-used-option = วันที่ใช้ครั้งล่าสุด
 login-list-intro-title = ไม่พบการเข้าสู่ระบบ
@@ -158,9 +158,6 @@ confirm-discard-changes-dialog-confirm-button = ละทิ้ง
 ## Breach Alert notification
 
 breach-alert-text = รหัสผ่านถูกรั่วไหลหรือถูกขโมยจากเว็บไซต์นี้ตั้งแต่คุณอัปเดตรายละเอียดการเข้าสู่ระบบครั้งล่าสุด เปลี่ยนรหัสผ่านของคุณเพื่อปกป้องบัญชีของคุณ
-breach-alert-link = เรียนรู้เพิ่มเติมเกี่ยวกับการรั่วไหลนี้
-breach-alert-dismiss =
-    .title = ปิดการแจ้งเตือนนี้
 about-logins-breach-alert-learn-more-link = เรียนรู้เพิ่มเติม
 
 ## Vulnerable Password notification
