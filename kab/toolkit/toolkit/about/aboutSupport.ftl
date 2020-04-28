@@ -31,6 +31,7 @@ app-basics-title = Iɣewwaṛen izaduren n usnas
 app-basics-name = Isem
 app-basics-version = Lqem
 app-basics-build-id = Asulay n usefsu
+app-basics-distribution-id = Tussa ID
 app-basics-update-channel = Abadu n uleqqem
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
