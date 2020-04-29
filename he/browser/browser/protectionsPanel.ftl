@@ -18,6 +18,11 @@ protections-popup-footer-protection-label-standard = רגיל
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = מידע נוסף על הגנת מעקב מתקדמת
+protections-panel-etp-on-header = הגנת מעקב מתקדמת פעילה עבור אתר זה
+protections-panel-etp-off-header = הגנת מעקב מתקדמת כבויה עבור אתר זה
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = האתר לא עובד?
 # The heading/title of the sub-panel view
