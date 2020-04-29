@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Deaktiver sjekk om standard-nettlesar ved oppst
 policy-DownloadDirectory = Spesifiser og lås netlastingskatalogen.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiver eller deaktiver innhaldsblokkering med moglegheit til å låse valet.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Aktiver eller deaktiver Encrypted Media Extension med høve til å låse valet.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -83,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Spesifiser standardverdien for å tillate { -b
 policy-OverrideFirstRunPage = Erstatt sida som vert vist ved første oppstart. La policyen vere tom, viss sida ved første oppstart skal deaktiverast.
 policy-OverridePostUpdatePage = Byt ut «Kva er nytt»-sida som vert vist etter ei oppdatering. La policyen stå tom viss sida etter ei oppdatering skal deaktiverast.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordhandteraren.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Deaktiver eller konfigurer PDF.js, det innebygde PDF-visingsprogrammet i { -brand-short-name }.
 policy-Permissions2 = Konfigurer løyve for kamera, mikrofon, plassering, varsel og auto-avspeling.
 policy-PopupBlocking = Tillat at visse nettstadar skal kunne vise sprettoppvindauge som standard.
 policy-Preferences = Still inn og lås verdien for ei delmengde av innstillingar.
