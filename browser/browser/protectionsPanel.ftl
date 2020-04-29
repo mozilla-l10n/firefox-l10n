@@ -23,10 +23,16 @@ protections-panel-etp-more-info =
     .aria-label = Más información sobre la protección contra rastreo mejorada
 protections-panel-etp-on-header = La protección contra rastreo mejorada está habilitada para este sitio
 protections-panel-etp-off-header = La protección contra rastreo mejorada está deshabilitada para este sitio
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ¿El sitio no funciona?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ¿El sitio no funciona?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = ¿Por qué?
 protections-panel-not-blocking-why-etp-on-tooltip = Bloquearlos puede interferir con elementos en algunos sitios. Sin rastreadores, algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
 protections-panel-not-blocking-why-etp-off-tooltip = Todos los rastreadores en este sitio se han cargado porque las protecciones están desactivadas.
 
@@ -60,6 +66,10 @@ protections-panel-showreport-label = Mostrar informe
 protections-panel-site-not-working-view-header = Desactive las protecciones si tiene problemas con:
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Campos de inicio de sesión
+protections-panel-site-not-working-view-issue-list-forms = Formularios
+protections-panel-site-not-working-view-issue-list-payments = Pagos
+protections-panel-site-not-working-view-issue-list-comments = Comentarios
+protections-panel-site-not-working-view-issue-list-videos = Vídeos
 protections-panel-site-not-working-view-send-report = Enviar un informe
 
 ##
