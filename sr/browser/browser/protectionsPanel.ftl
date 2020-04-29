@@ -27,10 +27,13 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Зашто?
+protections-panel-not-blocking-why-etp-on-tooltip = Блокирање ових ставки може узроковати да елементи на одређеним веб страницама постану неисправни. Неки тастери, обрасци и поља за пријаву можда неће правилно радити без програма за праћење.
+protections-panel-not-blocking-why-etp-off-tooltip = Сви програми за праћење на овој веб страници су учитани јер је заштита приватности искључена.
 
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name } није уочио познате пратиоце на овој страници.
+protections-panel-content-blocking-tracking-protection = Садржаји који прате
 protections-panel-content-blocking-socialblock = Пратиоци с друштвених мрежа
 protections-panel-content-blocking-cryptominers-label = Крипто-рудари
 protections-panel-content-blocking-fingerprinters-label = Хватачи отиска
@@ -48,6 +51,7 @@ protections-panel-not-found-label = Нису уочени
 ##
 
 protections-panel-settings-label = Подешавања заштите
+protections-panel-showreport-label = Прикажи извештај
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
@@ -64,9 +68,23 @@ protections-panel-site-not-working-view-send-report = Пошаљите изве�
 
 ##
 
+protections-panel-cross-site-tracking-cookies = Ови колачићи вас прате с једне странице на другу ради прикупљања података о ономе шта радите на мрежи. Основале су их треће стране, попут оглашивача и аналитичких компанија.
+protections-panel-cryptominers = Рудари криптовалута користе енергију вашег рачунара за ископавање дигиталне валуте. На тај начин троше енергију рачунара, успоравају перформансе система и повећавају ваш рачун за струју.
+protections-panel-fingerprinters = Идентификатори отисака прстију прикупљају подешавања вашег прегледача и рачунара како би створили ваш профил. Помоћу овог дигиталног отиска прста вас могу пратити преко различитих веб страница.
+protections-panel-tracking-content = Веб странице могу учитавати вањске огласе, видео записе и други садржај који садржи код за праћење. Блокирање садржаја за праћење може убрзати учитавање страница, али неки тастери, обрасци и поља за пријаву можда неће радити исправно.
+protections-panel-social-media-trackers = Друштвене мреже постављају софтвер за праћење на друге веб странице како би пратили шта радите, читате или гледате на мрежи. То друштвеним мрежама омогућава да о вама сазна много више од онога што делите на својим профилима.
+protections-panel-content-blocking-manage-settings =
+    .label = Управљајте подешавањима заштите
+    .accesskey = М
+protections-panel-content-blocking-breakage-report-view =
+    .title = Пријавите неисправан сајт
+protections-panel-content-blocking-breakage-report-view-description = Блокирање неких софтвера за праћење може изазвати проблеме на појединим веб страницама. Пријављивањем оваквих проблема можете помоћи { -brand-short-name } да пружи боље искуство свима. Слање повратних података шаље Mozilla-и адресу веб странице и податке о прегледачу. <label data-l10n-name="learn-more">Сазнајте више</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Опционално: опишите проблем
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Опционално: опишите проблем
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Откажи
 protections-panel-content-blocking-breakage-report-view-send-report =
