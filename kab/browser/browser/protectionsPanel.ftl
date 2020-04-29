@@ -52,6 +52,7 @@ protections-panel-content-blocking-fingerprinters-label = Idsilen umḍinen
 
 protections-panel-blocking-label = Iwḥel
 protections-panel-not-blocking-label = Ittusireg
+protections-panel-not-found-label = Ur ittwaf ara
 
 ##
 
@@ -63,6 +64,8 @@ protections-panel-showreport-label = Sken aneqqis
 
 # The header of the list
 protections-panel-site-not-working-view-header = Sen ammesten ma tesɛiḍ uguren d:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Urtiyen n unekcum
 protections-panel-site-not-working-view-issue-list-forms = Tiferkiyin
 protections-panel-site-not-working-view-issue-list-payments = Asellek
 protections-panel-site-not-working-view-issue-list-comments = Iwenniten
@@ -76,6 +79,12 @@ protections-panel-cryptominers = Ikripṭuminaren seqdacen tazmert n usiḍen n 
 protections-panel-fingerprinters = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ.
 protections-panel-tracking-content = Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara.
 protections-panel-social-media-trackers = Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti.
+protections-panel-content-blocking-manage-settings =
+    .label = Sefrek iɣewwaṛen n tɣellist
+    .accesskey = S
+protections-panel-content-blocking-breakage-report-view =
+    .title = Cegger asmel yerẓen
+protections-panel-content-blocking-breakage-report-view-description = Asewḥel n kra n ineḍfaṛen izmer ad d-yawi uguren deg kra n ismal. Mi ara ad aɣ-tazneḍ uguren, ad d-fkeḍ tallelt akken ad yili { -brand-short-name } igerrez i yal yiwen.  aya ad yazen URL d  talɣut ɣef iɣewwaṛen , iminig-inek ɣer Mozilla.) <label data-l10n-name="learn-more">Issin ugar</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
