@@ -16,6 +16,8 @@
 
 ##
 
+protections-panel-content-blocking-cryptominers-label = Rafmynt grafarar
+protections-panel-content-blocking-fingerprinters-label = Fingraför
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
