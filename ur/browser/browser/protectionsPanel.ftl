@@ -23,6 +23,9 @@ protections-panel-site-not-working = سائٹ کام نہیں کررہی ہے؟
 ##
 
 protections-panel-content-blocking-tracking-protection = مواد کی  ٹریکنگ
+protections-panel-content-blocking-socialblock = سوشل میڈیا ٹریکرز
+protections-panel-content-blocking-cryptominers-label = کریپٹومینر
+protections-panel-content-blocking-fingerprinters-label = فنگر پرنٹرز
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -36,6 +39,7 @@ protections-panel-not-found-label = کچھ بھی نہیں ملا
 
 ##
 
+protections-panel-settings-label = تحفظ کی سیٹنگز
 protections-panel-showreport-label = رپورٹ دکھائیں
 
 ## In the Site Not Working? view, we suggest turning off protections if
