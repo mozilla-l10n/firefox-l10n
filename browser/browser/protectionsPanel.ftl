@@ -36,3 +36,7 @@
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = අවලංගු කරන්න
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = වාර්තාව යවන්න
