@@ -24,9 +24,16 @@ protections-panel-etp-off-header = La protección contra rastreo mejorada está 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-etp-on-tooltip = Bloquearlos puede interferir con elementos en algunos sitios. Sin rastreadores, algunos botones, formularios y campos de inicio de sesión podrían no funcionar.
+protections-panel-not-blocking-why-etp-off-tooltip = Todos los rastreadores en este sitio se han cargado porque las protecciones están desactivadas.
 
 ##
 
+protections-panel-no-trackers-found = No se detectaron rastreadores conocidos por { -brand-short-name } en esta página.
+protections-panel-content-blocking-tracking-protection = Contenido de rastreo
+protections-panel-content-blocking-socialblock = Rastreadores de redes sociales
+protections-panel-content-blocking-cryptominers-label = Criptomineros
+protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -37,13 +44,27 @@ protections-panel-etp-off-header = La protección contra rastreo mejorada está 
 
 ##
 
+protections-panel-settings-label = Ajustes de protección
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Desactive las protecciones si tiene problemas con:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Campos de inicio de sesión
+protections-panel-site-not-working-view-send-report = Enviar un informe
 
 ##
 
 protections-panel-cross-site-tracking-cookies = Estas cookies le siguen de página en página para recopilar información sobre su vida en línea. Suelen ser las agencias de publicidad y de analítica las que las configuran.
+protections-panel-cryptominers = Los criptomineros utilizan la potencia informática de su sistema para obtener dinero digital. Los scripts de criptominería agotan la batería de su ordenador, lo ralentizan y pueden aumentar su factura de electricidad.
+protections-panel-fingerprinters = Los detectores de huellas digitales recolectan la configuración de su navegador y su ordenador para crear un perfil de usted. Usando este detector de huella digital pueden seguirle a través de diferentes sitios web.
 protections-panel-tracking-content = Los sitios web pueden cargar anuncios externos, videos y otro tipo de contenido gracias a un código de rastreo. Si bloquea el contenido de rastreo, los sitios se cargarán más rápido, pero puede que algunos botones y formularios dejen de funcionar.
 protections-panel-social-media-trackers = Las redes sociales colocan rastreadores en otros sitios web para saber qué hace, ve y mira en línea. Ese rastreo les permite saber mucho más de lo que comparte en sus perfiles de las redes sociales.
+protections-panel-content-blocking-breakage-report-view =
+    .title = Informar de problemas con un sitio
+protections-panel-content-blocking-breakage-report-view-description = Si bloquea ciertos rastreadores, puede que algunos sitios dejen de funcionar. Si nos informa de estos problemas, nos ayudará a mejorar { -brand-short-name }. Al enviar este informe, Mozilla recibirá una URL e información sobre la configuración de su navegador. <label data-l10n-name="learn-more">Saber más</label>
+protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: describa el problema
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Opcional: describa el problema
