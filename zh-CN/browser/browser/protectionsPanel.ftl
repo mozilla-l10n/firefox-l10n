@@ -43,3 +43,10 @@ protections-panel-not-blocking-why-etp-off-tooltip = 隐私保护处于关闭状
 
 ##
 
+protections-panel-content-blocking-breakage-report-view-collection-url = 网址
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = 网址
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = 取消
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = 发送反馈
