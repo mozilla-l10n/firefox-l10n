@@ -50,3 +50,5 @@ protections-panel-fingerprinters = Ang mga fingerprinter ay nangongolekta ng mga
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Magpasa ng Report
