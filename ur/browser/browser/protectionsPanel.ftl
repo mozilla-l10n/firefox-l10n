@@ -51,6 +51,8 @@ protections-panel-showreport-label = رپورٹ دکھائیں
 
 # The header of the list
 protections-panel-site-not-working-view-header = اگر آپ کو پریشانی ہو رہی ہے تو تحفظات کو بند کردیں:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = لاگ ان قطئے
 protections-panel-site-not-working-view-issue-list-forms = فارم
 protections-panel-site-not-working-view-issue-list-payments = ادائیگیاں
 protections-panel-site-not-working-view-issue-list-comments = تبصرہ
