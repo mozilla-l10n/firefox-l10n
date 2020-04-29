@@ -12,6 +12,11 @@ protections-panel-sitefixedsendreport-label = সাইট ঠিক হয়ে�
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = উন্নত ট্র্যাকিং সুরক্ষা সম্পর্কে আরও তথ্য
+protections-panel-etp-on-header = উন্নত ট্র্যাকিং সুরক্ষা এই সাইটের জন্য চালু আছে
+protections-panel-etp-off-header = উন্নত ট্র্যাকিং সুরক্ষা এই সাইটের জন্য বন্ধ আছে
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = সাইট কাজ করছে না?
 # The heading/title of the sub-panel view
@@ -29,6 +34,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = সুরক্ষা ব�
 
 protections-panel-no-trackers-found = { -brand-short-name } এর জানা কোন ট্র্যাকার এই পাতায় সনাক্ত করা যায়নি।
 protections-panel-content-blocking-tracking-protection = ট্র্যাকিং কন্টেন্ট
+protections-panel-content-blocking-socialblock = সোশ্যাল মিডিয়া ট্র্যাকার
 protections-panel-content-blocking-cryptominers-label = ক্রিপ্টোমাইনার
 protections-panel-content-blocking-fingerprinters-label = ফিঙ্গারপ্রিন্টার
 
@@ -45,6 +51,7 @@ protections-panel-not-found-label = কিছুই সনাক্ত করা
 ##
 
 protections-panel-settings-label = সুরক্ষা সেটিং
+protections-panel-showreport-label = রিপোর্ট দেখান
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
