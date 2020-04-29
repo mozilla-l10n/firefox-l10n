@@ -18,13 +18,29 @@ protections-popup-footer-protection-label-standard = 표준
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = 향상된 추적 방지 기능에 대한 추가 정보
+protections-panel-etp-on-header = 이 사이트에 향상된 추적 방지 기능이 켜져 있습니다
+protections-panel-etp-off-header = 이 사이트에 향상된 추적 방지 기능이 꺼져 있습니다
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = 사이트가 작동하지 않습니까?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = 사이트가 작동하지 않습니까?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-etp-off-tooltip = 보호 기능이 꺼져 있어 이 사이트의 모든 추적기가 로드되었습니다.
 
 ##
 
+protections-panel-no-trackers-found = 이 페이지에서 { -brand-short-name }에 알려진 추적기가 탐지되지 않았습니다.
+protections-panel-content-blocking-tracking-protection = 추적 콘텐츠
+protections-panel-content-blocking-socialblock = 소셜 미디어 추적기
+protections-panel-content-blocking-cryptominers-label = 크립토마이너
+protections-panel-content-blocking-fingerprinters-label = 핑거프린터
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -32,16 +48,38 @@ protections-popup-footer-protection-label-standard = 표준
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = 차단됨
+protections-panel-not-blocking-label = 허용됨
+protections-panel-not-found-label = 감지되지 않음
 
 ##
 
+protections-panel-settings-label = 보호 설정
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = 다음과 관련된 문제가 있는 경우 보호 기능을 끕니다:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = 로그인 필드
+protections-panel-site-not-working-view-issue-list-payments = 결제
+protections-panel-site-not-working-view-issue-list-comments = 댓글
+protections-panel-site-not-working-view-issue-list-videos = 동영상
+protections-panel-site-not-working-view-send-report = 보고서 보내기
 
 ##
 
+protections-panel-cross-site-tracking-cookies = 이러한 쿠키는 사용자가 온라인에서 수행하는 작업에 대한 데이터를 수집하기 위해 사이트 간에 사용자를 따라갑니다. 광고사나 분석 회사와 같은 제3자가 설정합니다.
+protections-panel-cryptominers = 크립토마이너는 디지털 화폐를 채굴하기 위해 시스템의 연산 능력을 사용합니다. 암호 해독 스크립트는 배터리를 소모하고 컴퓨터 속도를 저하시키며 에너지 요금을 증가시킬 수 있습니다.
+protections-panel-fingerprinters = 핑거프린터는 브라우저와 컴퓨터에서 설정을 수집하여 사용자의 프로필을 만듭니다. 이 디지털 지문을 사용하여 여러 웹 사이트에서 사용자를 추적할 수 있습니다.
+protections-panel-social-media-trackers = 소셜 네트워크는 다른 웹 사이트에 추적기를 배치하여 온라인에서 한 일이나 본 것, 재생한 것을 추적합니다. 이를 통해 소셜 미디어 회사들은 소셜 미디어 프로필에서 공유하는 것 이상의 자세한 정보를 얻을 수 있습니다.
+protections-panel-content-blocking-manage-settings =
+    .label = 보호 설정 관리
+    .accesskey = M
+protections-panel-content-blocking-breakage-report-view =
+    .title = 깨진 사이트 신고
+protections-panel-content-blocking-breakage-report-view-description = 특정 추적기를 차단하면 일부 웹 사이트에서 문제가 발생할 수 있습니다. 이러한 문제를 보고하면 모든 사람에게 더 나은 { -brand-short-name }를 제공하는데 도움이 됩니다. 이 보고서를 보내면 URL과 브라우저 설정에 대한 정보가 Mozilla로 전송됩니다. <label data-l10n-name="learn-more">더 알아보기</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
