@@ -12,6 +12,11 @@ protections-panel-sitefixedsendreport-label = साइट ठीक हो ग�
 
 ##
 
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = साइट काम नहीं कर रही?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = साइट काम नहीं कर रही?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
@@ -31,18 +36,28 @@ protections-panel-content-blocking-fingerprinters-label = फिंगरप्�
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = अवरोधित
+protections-panel-not-blocking-label = अनुमति प्राप्त
 
 ##
 
+protections-panel-settings-label = सुरक्षा सेटिंग
+protections-panel-showreport-label = रिपोर्ट दिखाएं
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+protections-panel-site-not-working-view-issue-list-forms = फ़ॉर्म
+protections-panel-site-not-working-view-issue-list-payments = भुगतान
 protections-panel-site-not-working-view-issue-list-comments = टिप्पणियाँ
 protections-panel-site-not-working-view-issue-list-videos = वीडियो
+protections-panel-site-not-working-view-send-report = एक रिपोर्ट भेजें
 
 ##
 
+protections-panel-content-blocking-manage-settings =
+    .label = सुरक्षा सेटिंग प्रबंधित करें
+    .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = क्षतिग्रस्त साइट की रिपोर्ट करें
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
