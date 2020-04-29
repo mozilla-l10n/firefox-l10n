@@ -15,6 +15,8 @@ protections-panel-sitefixedsendreport-label = ไซต์ถูกซ่อม�
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = รายละเอียดเพิ่มเติมเกี่ยวกับการป้องกันการติดตามที่มากขึ้น
+protections-panel-etp-on-header = การป้องกันการติดตามที่มากขึ้นถูก เปิด สำหรับไซต์นี้
+protections-panel-etp-off-header = การป้องกันการติดตามที่มากขึ้นถูก ปิด สำหรับไซต์นี้
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ไซต์ไม่ทำงาน?
 # The heading/title of the sub-panel view
