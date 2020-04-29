@@ -21,6 +21,8 @@ protections-popup-footer-protection-label-standard = Standard
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Weitere Informationen zum verbesserten Schutz vor Aktivitätenverfolgung
+protections-panel-etp-on-header = Verbesserter Schutz vor Aktivitätenverfolgung ist für diese Website AKTIVIERT
+protections-panel-etp-off-header = Verbesserter Schutz vor Aktivitätenverfolgung ist für diese Website DEAKTIVIERT
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Funktioniert die Website nicht richtig?
 # The heading/title of the sub-panel view
