@@ -33,6 +33,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Babesa desgaituta dagoenez,
 ##
 
 protections-panel-no-trackers-found = { -brand-short-name }(r)i ezagunak zaizkion jarraipen-elementurik ez da aurkitu orri honetan.
+protections-panel-content-blocking-tracking-protection = Edukiaren jarraipena
 protections-panel-content-blocking-socialblock = Sare sozialetako jarraipen-elementuak
 protections-panel-content-blocking-cryptominers-label = Kriptomeatzariak
 protections-panel-content-blocking-fingerprinters-label = Hatz-marka bidezko jarraipena
@@ -72,6 +73,9 @@ protections-panel-cryptominers = Kriptomeatzariek zure sistemaren konputazio-aha
 protections-panel-fingerprinters = Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete.
 protections-panel-tracking-content = Webguneek kanpoko iragarkiak, bideoak eta jarraipen-kodea izan lezaketen bestelako edukiak karga ditzakete. Edukiaren jarraipena blokeatzeak guneak azkarrago kargatzen lagun dezake baina zenbait botoi, inprimaki eta saio-hasierako eremu ez ibiltzea eragin lezake.
 protections-panel-social-media-trackers = Egiten eta ikusten duzunaren jarraipena egin ahal izateko, jarraipen-elementuak ipintzen dituzte sare sozialek beste webguneetan. Honen bitartez sare sozialetako enpresek zuri buruz dagoeneko dakitena baino gehiago jakin dezakete.
+protections-panel-content-blocking-manage-settings =
+    .label = Kudeatu babesaren ezarpenak
+    .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Eman hondatutako gunearen berri
 protections-panel-content-blocking-breakage-report-view-description = Edukia blokeatzeak arazoak sor ditzake zenbait webgunerekin. Arazoen berri ematen duzunean, { -brand-short-name } guztiontzat hobetzen laguntzen duzu. Honekin batera URL bat eta zure nabigatzaile-ezarpenei buruzko informazioa bidaliko da Mozillara. <label data-l10n-name="learn-more">Argibide gehiago</label>
