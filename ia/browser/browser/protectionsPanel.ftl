@@ -42,6 +42,7 @@ protections-panel-no-trackers-found = Nulle traciator cognoscite per { -brand-sh
 protections-panel-content-blocking-tracking-protection = Contento de traciamento
 protections-panel-content-blocking-socialblock = Traciatores de retes social
 protections-panel-content-blocking-cryptominers-label = Cryptominatores
+protections-panel-content-blocking-fingerprinters-label = Dactylogrammatores
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -49,17 +50,48 @@ protections-panel-content-blocking-cryptominers-label = Cryptominatores
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Blocate
+protections-panel-not-blocking-label = Permittite
+protections-panel-not-found-label = Nulle detection
 
 ##
 
+protections-panel-settings-label = Parametros de protection
+protections-panel-showreport-label = Monstrar le reporto
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Disactiva protectiones si tu ha problemas con:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Campos de credentiales
+protections-panel-site-not-working-view-issue-list-forms = Formularios
+protections-panel-site-not-working-view-issue-list-payments = Pagamentos
+protections-panel-site-not-working-view-issue-list-comments = Commentos
+protections-panel-site-not-working-view-issue-list-videos = Videos
+protections-panel-site-not-working-view-send-report = Inviar un reporto
 
 ##
 
 protections-panel-cross-site-tracking-cookies = Iste cookies te seque de sito a sito pro colliger datos sur lo que tu face in linea. Illos es deponite per tertios como companias de publicitate e de analyse de datos.
 protections-panel-cryptominers = Cryptominatores usa le potentia de calculo de tu systema pro excavar moneta digital. Scripts de cryptominage exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.
+protections-panel-fingerprinters = Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web.
 protections-panel-tracking-content = Sitos web pote cargar annuncios externe, videos e altere contento con codice de traciamento. Blocar contento de traciamento pote adjutar sitos a cargar se plus rapidemente, ma alcun buttones, formularios e campos de aperir session pote non functionar.
 protections-panel-social-media-trackers = Le retes social placia traciatores sur altere sitos web pro sequer lo que tu face, vide e reguarda in linea. Isto permitte al companias de rete social de saper plus sur te, ultra lo que tu comparti sur tu profilos de rete social.
+protections-panel-content-blocking-manage-settings =
+    .label = Gerer parametros de protection
+    .accesskey = t
+protections-panel-content-blocking-breakage-report-view =
+    .title = Reportar sito rupte
+protections-panel-content-blocking-breakage-report-view-description = Blocar certe traciatores pote causar problemas con alcun sitos web. Reportar iste problemas adjuta a meliorar { -brand-short-name } pro totes. Le invio de iste reporto transmittera a Mozilla un URL e informationes sur le configuration de tu navigator. <label data-l10n-name="learn-more">Saper plus</label>
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Optional: describe le problema
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Optional: describe le problema
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Cancellar
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Inviar le reporto
