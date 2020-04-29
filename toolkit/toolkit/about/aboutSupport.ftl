@@ -34,6 +34,7 @@ app-basics-title = Applikaasjebasis
 app-basics-name = Namme
 app-basics-version = Ferzje
 app-basics-build-id = Build-ID
+app-basics-distribution-id = Distribúsje-ID
 app-basics-update-channel = Fernijingskanaal
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
