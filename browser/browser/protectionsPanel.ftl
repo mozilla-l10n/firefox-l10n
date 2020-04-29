@@ -15,3 +15,78 @@ protections-popup-footer-protection-label-custom = Власний
     .label = Власний
 protections-popup-footer-protection-label-standard = Звичайний
     .label = Звичайний
+
+##
+
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Більше інформації про розширений захист від стеження
+protections-panel-etp-on-header = Розширений захист від стеження для цього сайту увімкнено
+protections-panel-etp-off-header = Розширений захист від стеження для цього сайту вимкнено
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Не працює сайт?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Не працює сайт?
+
+## The "Allowed" header also includes a "Why?" link that, when hovered, shows
+## a tooltip explaining why these items were not blocked in the page.
+
+protections-panel-not-blocking-why-label = Чому?
+protections-panel-not-blocking-why-etp-off-tooltip = Всі елементи стеження на цьому сайті були завантажені, тому що захист вимкнено.
+
+##
+
+protections-panel-no-trackers-found = { -brand-short-name } не виявив відомих елементів стеження на цій сторінці.
+protections-panel-content-blocking-tracking-protection = Вміст стеження
+protections-panel-content-blocking-socialblock = Стеження соціальних мереж
+protections-panel-content-blocking-cryptominers-label = Криптомайнери
+protections-panel-content-blocking-fingerprinters-label = Зчитування відбитку браузера
+
+## In the protections panel, Content Blocking category items are in three sections:
+##   "Blocked" for categories being blocked in the current page,
+##   "Allowed" for categories detected but not blocked in the current page, and
+##   "None Detected" for categories not detected in the current page.
+##   These strings are used in the header labels of each of these sections.
+
+protections-panel-blocking-label = Заблоковано
+protections-panel-not-blocking-label = Дозволено
+protections-panel-not-found-label = Не виявлено
+
+##
+
+protections-panel-settings-label = Налаштування захисту
+protections-panel-showreport-label = Показати звіт
+
+## In the Site Not Working? view, we suggest turning off protections if
+## the user is experiencing issues with any of a variety of functionality.
+
+# The header of the list
+protections-panel-site-not-working-view-header = Вимкніть захист, якщо у вас виникли проблеми з:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Полями для входу
+protections-panel-site-not-working-view-issue-list-forms = Формами
+protections-panel-site-not-working-view-issue-list-payments = Платежами
+protections-panel-site-not-working-view-issue-list-comments = Коментарями
+protections-panel-site-not-working-view-issue-list-videos = Відео
+protections-panel-site-not-working-view-send-report = Надіслати звіт
+
+##
+
+protections-panel-cross-site-tracking-cookies = Ці куки переслідують вас від одного сайту до іншого, з метою збирання даних про вашу діяльність онлайн. Вони встановлюються сторонніми рекламними й аналітичними компаніями.
+protections-panel-cryptominers = Криптомайнери використовують ресурси вашої системи для створення цифрових грошей. Криптомайнингові скрипти споживають заряд вашого акумулятора, сповільнюють роботу комп'ютера, а також можуть збільшити ваші витрати на електроенергію.
+protections-panel-content-blocking-manage-settings =
+    .label = Керувати налаштуваннями захисту
+    .accesskey = К
+protections-panel-content-blocking-breakage-report-view =
+    .title = Повідомити про пошкоджений сайт
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Необов’язково: Опишіть проблему
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Необов’язково: Опишіть проблему
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Скасувати
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Надіслати звіт
