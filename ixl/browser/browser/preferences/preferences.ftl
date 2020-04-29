@@ -211,6 +211,9 @@ sync-device-name-save =
 
 forms-breach-alerts-learn-more-link = Ootzi ka'te
 
+## OS Authentication dialog
+
+
 ## Privacy Section - History
 
 
@@ -254,6 +257,7 @@ permissions-a11y-privacy-link = Ootzi ka'te
 
 ## Privacy Section - Data Collection
 
+collection-health-report-telemetry-disabled-link = Ootzi ka'te
 collection-health-report-link = Ootzi ka'te
 addon-recommendations-link = Ootzi ka'te
 collection-backlogged-crash-reports-link = Ootzi ka'te

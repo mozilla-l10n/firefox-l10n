@@ -45,9 +45,6 @@ newtab-topsites-save-button = Kola
 newtab-topsites-preview-button = Il B'axa
 newtab-topsites-add-button = Aq'o'ke'
 
-## Top Sites - Delete history confirmation dialog. 
-
-
 ## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Yol chit see uva' tuk asojsa el jununil unq'a vee' tu u'uje' vaa' tu vee' chukeltu ve't'e?
@@ -89,19 +86,14 @@ newtab-menu-show-privacy-info = Unq'a xa'ole'  ve ni aq'on kulochb'al as tuk  va
 
 newtab-privacy-modal-button-done = Tzojpisamal
 newtab-privacy-modal-header = Meresteel va tiichajile' sqe.
-newtab-privacy-modal-paragraph = Achav' chit unq'a tzaq'ite' ve txa'el chit ti b'anil  vee ni taltzi'el .  As jank'al unq'a vee na pichu ye'xhibi'l otzin  tetz.
 newtab-privacy-modal-link = Chusa' kam la olb'i  a xo'nit  unq'a kame tetz unq'a xo'le'.
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Sojsa u taq'il u aq'one'.
 # Bookmark is a verb here.
 newtab-menu-bookmark = K'uchb'al tetz
-
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
-## it is a noun. As in, "Copy the link that belongs to this downloaded item".
-
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
@@ -131,10 +123,6 @@ newtab-label-removed-bookmark = Sojsamal ve't el unq'a texhlale'
 newtab-label-recommended = Achite' ni b'anb'el cheel.
 newtab-label-saved = Kat kulpu kan  tu{ -pocket-brand-name }
 newtab-label-download = Kat eq'ol kutzan.
-
-## Section Menu: These strings are displayed in the section context menu and are 
-## meant as a call to action for the given section.
-
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -187,7 +175,7 @@ newtab-discovery-empty-section-topstories-timed-out = ups! b'iit kuxh ye' kat ol
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Unq'a txumb'al uva' pal chit talpe':
 newtab-pocket-more-recommendations = Ka'taj txumb'al
-newtab-pocket-how-it-works = Kam ni tulb'e taq'onve'
+newtab-pocket-learn-more = Ootzi ka'te
 newtab-pocket-cta-button = La k'ul u { -pocket-brand-name }
 newtab-pocket-cta-text = Kol unq'a vee' chukeltu ve't tu { -pocket-brand-name } as aq' chit te va txumb'ale' ti' asik'let unq'a vee' achveb'al chitu'.
 

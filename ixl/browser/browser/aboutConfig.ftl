@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
-about-config-warning-title = Atinb'al uva' ye' ootzimal!
-about-config-warning-text = Asoj la jalpu tu chit ib'anil naale' as la iyansa tatine', as ye'xh kam oora koj kuxh la aq'onvu ve'te'. La ib'ane' asoj jik chit naalo'l stej kam taq'onve'.
+about-config-warning-title = Ataj yatz'onaal tzitza'!
+about-config-warning-text = Asoj la jalpu tu chit ib'a'nil naale' as la iyansa tatine', as ye'xh kam oora koj kuxh la aq'onvu ve'te'. La ib'ane' asoj jik chit naalo'k stej kam taq'onve'.
 about-config-warning-checkbox = Nachonsa svej unpajte, b'an b'a'nil!
 about-config-warning-button = Ta'le'n ve'te' asoj la yani
 about-config2-title = Nim ib'anax ve't tuche'
@@ -18,9 +18,11 @@ about-config-intro-warning-text = Asoj la jalpu ib'anil u aq'one' naale' as la i
 about-config-intro-warning-checkbox = La alax  svej tul uva' la ok in tu  joltu aq'on.
 about-config-intro-warning-button = Kam  kuxh valexh tuk' a paleb'e tane tan la yak'eb'axh.
 
+##
 
-
-about-config-page-title = Aq'on ve ti talche'.
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Asoj la jalpu kam chit b'anelik ta'n la ib'ane' uva' ye'xhkam la aq'onvu ti jikil { -brand-short-name }
+about-config-page-title = U vee' ni chit asa' uve' nim talchu ve'te'
 about-config-search-input1 =
     .placeholder = Ib'ii unq'a vee' uve' palchit achukata'
 about-config-show-all = K'uch kaajayil

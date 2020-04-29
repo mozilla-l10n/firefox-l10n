@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Taq'ob'al uva' la lochoni
 cfr-doorhanger-feature-heading = Lochb'al aq'on uva' la chit txakoni
 cfr-doorhanger-pintab-heading = Qil kuxh u vaa': Lak'ku' u texhlale'
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kam q'ii ni kuxh vil uk vaa'
@@ -105,6 +105,20 @@ cfr-whatsnew-lockwise-take-title = Eq'o chit unq'a kach'ub' eetze' see'
 cfr-whatsnew-lockwise-take-body = U aplicación tu va molob'ale' { -lockwise-brand-short-name } ni tuche' uva' la ok axh tulaj ivatz unq'a kach'ub' tetze' tulaj kam kuxh atinb'al.
 cfr-whatsnew-lockwise-take-link-text = K'ul u aplicación
 
+## Search Bar
+
+
+## Picture-in-Picture
+
+cfr-whatsnew-pip-cta = Ootzi ka'te
+
+## Permission Prompt
+
+cfr-whatsnew-permission-prompt-cta = Ootzi ka'te
+
+## Fingerprinter Counter
+
+
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Aq'ku' u texhlale' vaa' tu va molob'ale'
@@ -146,3 +160,18 @@ cfr-doorhanger-fingerprinters-heading = { -brand-short-name } Kat ijup uma'l ilo
 cfr-doorhanger-fingerprinters-description = Tii chit talchu unq'a eetze' sqej. { -brand-short-name } as cheel ve'te' maj ivatz unq'a ilol tetz vi' q'ab'e', uva' ni molon unq'a yole' as uva' ni exhlan va molob'ale' aq'al tootzile'.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } Kat imaj ivatz uma'l u criptominero tu u u'uja'
 cfr-doorhanger-cryptominers-description = Tii chil talchu unq'a eetze' sqej. { -brand-short-name } cheel maj ivatz unq'a criptominero, uva' ni b'anb'e u ch'ich'a' aq'al uva' la taq'el tzan k'uchb'al vatz puuaj.
+
+## Enhanced Tracking Protection Milestones
+
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+

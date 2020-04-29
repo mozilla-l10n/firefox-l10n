@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Jaj u tachul tatine'
-# This menuitem is only visible on Windows
-menu-menuitem-import = Eq'oeltzan unq'a texhla uve' axh kuxh ootzin tetz…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Unka'te
@@ -46,7 +44,6 @@ login-list-count =
     }
 login-list-sort-label-text = Nuk'el ta'n:
 login-list-name-option = B'ii (A-Z)
-login-list-breached-option = Unq'a tantib'al unq'a web uva' jit b'an tatine'
 login-list-last-changed-option = Itzojpeb'al ve't ib'anax tuche'
 login-list-last-used-option = A'e' a'nnal kuxh ib'anb'ele'
 login-list-intro-title = Ye'laj xe'teb'al aq'on ati
@@ -90,6 +87,14 @@ login-item-time-changed = Imoxtel ve't ib'anax tuche': { DATETIME($timeChanged, 
 login-item-time-created = B'anel ta'n: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Imoxtel ib'anb'ele':{ DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+
 ## Master Password notification
 
 master-password-notification-message = B'an b'a'nil, aq'ku' u eexhlale' uve' axh kuxh ootzin tetz aq'al uva' la eele' kat xe'tisaml kat aq'on x-a'n as unq'a exhlale' uve' kolel kan s-a'n unpajte
@@ -125,9 +130,11 @@ confirm-discard-changes-dialog-confirm-button = Eesa kan
 ## Breach Alert notification
 
 breach-alert-text = Jank'al chit unq'a texhlal kach'up tetze' kat elq'al tzitza' tu web  tul uva' kat ab'an tuch va b'iie' tul kat xe't axh aq'onvo. Jalpu u texhlal kach'ub' tetze' uva' axh kuxh ootzin tetz, aq'al uva' ye' la elq'ali.
-breach-alert-link = Tzitza' la ootzi kat unka't txumb'al ti va'lexhe' kat b'anchi.
-breach-alert-dismiss =
-    .title = Jup u va'le'xhe' uve' ni k'uch tib' savatz
+about-logins-breach-alert-learn-more-link = Ootzi ka'te
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-learn-more-link = Ootzi ka'te
 
 ## Error Messages
 
