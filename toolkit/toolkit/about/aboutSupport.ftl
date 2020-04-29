@@ -31,6 +31,7 @@ app-basics-title = Sylfaeni Rhaglen
 app-basics-name = Enw
 app-basics-version = Fersiwn
 app-basics-build-id = Cyfeirnod Adeiladu
+app-basics-distribution-id = ID Dosbarthu
 app-basics-update-channel = Sianel Diweddaru
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
