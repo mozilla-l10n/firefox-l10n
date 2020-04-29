@@ -4,7 +4,7 @@
 
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-intro = { $hostname } b'anb'e uma'l texhlal uva' ye'xh kam kach'umal.
+cert-error-intro = { $hostname } b'anb'e uma'l texhlal uva' ye'xh kam ato'k ti txa'k
 cert-error-mitm-intro = Unq'a tatinb'al u web ni ni k'uch unq'a tatine' ta' unq'a tu'aale' uve' aq'el eltzan ta'n unq'a ib'ooq'ole'.
 cert-error-mitm-mozilla = { -brand-short-name } ile' ilel isuuchil ta'n unq'a aq'onvile' uve' Mozilla jit puuaj ni tx'akpu sti' as jank'al chit unq'a kame' uve' ni molpu stuul as ataj chit tu'aal (CA) uva' jajlu kan kuxhtu'. Unq'a vee' molel uve' jajlu kan kuxhtu' ni lochone' ti' unq'a ilol tetze' aq'al uva' at chit tu'aal la ib'ane'.
 cert-error-mitm-connection = { -brand-short-name } b'anb'e u molb'al tetze' Mozilla CA aq'al uva' la ilaxi uva' b'a'n kuxh tatine'. a'e' la b'anb'e ti' unq'a tu'aal unq'a ch'ich'e uve' ni b'anb'ele'. Ech sti'e', asoj la b'ane' uva' ni majon ivatz u u'aale' uve' ate'l tzan ta'n u CA as ye'xh kam at kan tu molb'al taq'on u Mozilla CA a' la alon uva' ye'xh kam b'a'n taq'onve' la ib'ane'.
@@ -32,7 +32,7 @@ cert-error-domain-mismatch-single = Unq'a atinb'ala' vaa' ni chit tootzi moj at 
 cert-error-domain-mismatch-single-nolink = Unq'a atinb'ala' vaa' ni chit tootzi moj at tu'aal { -brand-short-name } ye' kuxh ak'ujb'a' ak'u'l ti'  uve' ni b'anb'en uma'l u'aal uva' jit b'a'n te u { $hostname }. U tu'aale' uve' at itxa'k vatz kuxh u { $alt-name }.
 # Variables:
 # $subject-alt-names (String) - Alternate domain names for which the cert is valid.
-cert-error-domain-mismatch-multiple = Jank'al chit unq'a web ni chit tootzi kam b'an ta'n tuk' unq'a tu'aale'. { -brand-short-name } ye' ni k'ujb'a' ik'u'l ti' unq'a vaa' tan ye'l tu'aal at ti jikil te u { $hostname }. U tu'aale' a' kuxh b'a'n kat vatz unq'a b'ii ila': { $subject-alt-names }
+cert-error-domain-mismatch-multiple = Jank'al chit unq'a web ni chit tootzi kam b'an ta'n tuk' unq'a tu'aale' { -brand-short-name } ye' ni k'ujb'a' ik'u'l ti' unq'a vaa' tan ye'l tu'aal at ti jikil te u { $hostname } u tu'aale' a' kuxh b'a'n kat vatz unq'a b'ii ila': { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 # $not-after-local-time (Date) - Certificate is not valid after this time.
@@ -94,3 +94,4 @@ clockSkewError-title = Yannal tilpu u tachb'al ch'ich'e' tu aaq'onb'ale'
 networkProtocolError-title = Kat yan teq'ol ti jikil
 nssBadCert-title = Aq'je' avi': Tul uma'l u va'lexh la kam savatz
 nssBadCert-sts-title = Ye'xh kam kat uch toke', kamal a'e' jik tatine'
+certerror-mitm-title = Uma'l u Software ni majon ivatz u  { -brand-short-name } jik chit ok axh tu atinb'ale' vaa'
