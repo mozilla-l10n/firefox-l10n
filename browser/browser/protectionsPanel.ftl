@@ -21,7 +21,7 @@ protections-popup-footer-protection-label-standard = 標準
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = 關於加強型追蹤保護功能的更多資訊
-protections-panel-etp-on-header = 已開啟針對此網站的加強型追蹤保護功能
+protections-panel-etp-on-header = 已開啟針對此網站的追蹤保護功能。
 protections-panel-etp-off-header = 已關閉針對此網站的加強型追蹤保護功能
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = 網站無法正常運作嗎？
@@ -50,8 +50,8 @@ protections-panel-content-blocking-fingerprinters-label = 數位指紋追蹤程�
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
-protections-panel-blocking-label = 已封鎖
-protections-panel-not-blocking-label = 已允許
+protections-panel-blocking-label = 封鎖
+protections-panel-not-blocking-label = 允許
 protections-panel-not-found-label = 未偵測到
 
 ##
@@ -84,7 +84,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = 回報網站問題
-protections-panel-content-blocking-breakage-report-view-description = 封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 { -brand-short-name } 變得更好。將會回報網址與您的瀏覽器相關設定給 Mozilla。 <label data-l10n-name="learn-more">了解更多</label>
+protections-panel-content-blocking-breakage-report-view-description = 封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 { -brand-short-name } 變得更好。將會回報網址與您的瀏覽器相關設定給 Mozilla。<label data-l10n-name="learn-more">了解更多</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = 網址
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = 網址
@@ -94,4 +94,4 @@ protections-panel-content-blocking-breakage-report-view-collection-comments-labe
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = 取消
 protections-panel-content-blocking-breakage-report-view-send-report =
-    .label = 傳送回報
+    .label = 傳送報告
