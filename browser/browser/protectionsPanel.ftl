@@ -15,3 +15,31 @@ protections-popup-footer-protection-label-custom = 自定义
     .label = 自定义
 protections-popup-footer-protection-label-standard = 标准
     .label = 标准
+
+##
+
+
+## The "Allowed" header also includes a "Why?" link that, when hovered, shows
+## a tooltip explaining why these items were not blocked in the page.
+
+protections-panel-not-blocking-why-etp-off-tooltip = 隐私保护处于关闭状态，已载入此网站的所有跟踪器。
+
+##
+
+
+## In the protections panel, Content Blocking category items are in three sections:
+##   "Blocked" for categories being blocked in the current page,
+##   "Allowed" for categories detected but not blocked in the current page, and
+##   "None Detected" for categories not detected in the current page.
+##   These strings are used in the header labels of each of these sections.
+
+
+##
+
+
+## In the Site Not Working? view, we suggest turning off protections if
+## the user is experiencing issues with any of a variety of functionality.
+
+
+##
+
