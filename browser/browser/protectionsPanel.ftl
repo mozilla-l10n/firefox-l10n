@@ -15,3 +15,35 @@ protections-popup-footer-protection-label-custom = Personalizado
     .label = Personalizado
 protections-popup-footer-protection-label-standard = Padrão
     .label = Padrão
+
+##
+
+
+## The "Allowed" header also includes a "Why?" link that, when hovered, shows
+## a tooltip explaining why these items were not blocked in the page.
+
+
+##
+
+
+## In the protections panel, Content Blocking category items are in three sections:
+##   "Blocked" for categories being blocked in the current page,
+##   "Allowed" for categories detected but not blocked in the current page, and
+##   "None Detected" for categories not detected in the current page.
+##   These strings are used in the header labels of each of these sections.
+
+
+##
+
+
+## In the Site Not Working? view, we suggest turning off protections if
+## the user is experiencing issues with any of a variety of functionality.
+
+
+##
+
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Cancelar
