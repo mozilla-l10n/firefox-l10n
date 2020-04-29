@@ -85,6 +85,11 @@ protections-panel-content-blocking-manage-settings =
 protections-panel-content-blocking-breakage-report-view =
     .title = Signaler des problèmes avec ce site
 protections-panel-content-blocking-breakage-report-view-description = Le blocage de certains traqueurs peut occasionner des problèmes sur des sites web. En signalant ces problèmes, vous contribuez à rendre { -brand-short-name } meilleur pour tout le monde. L’envoi du rapport communiquera une URL ainsi que des informations sur les préférences de votre navigateur à Mozilla. <label data-l10n-name="learn-more">En savoir plus</label>
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
 protections-panel-content-blocking-breakage-report-view-collection-comments = Facultatif : décrivez le problème
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
     .aria-label = Facultatif : décrivez le problème
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Annuler
