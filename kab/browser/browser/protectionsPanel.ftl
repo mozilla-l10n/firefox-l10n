@@ -32,11 +32,14 @@ protections-panel-site-not-working-view =
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Ayɣer?
 
 ##
 
 protections-panel-no-trackers-found = Ulac ineḍfaren i yessen { -brand-short-name } ittwafen deg usebter-a.
 protections-panel-content-blocking-tracking-protection = Agbur n uḍfaṛ
+protections-panel-content-blocking-socialblock = Ineḍfaṛen n iẓeḍwa imettanen
+protections-panel-content-blocking-fingerprinters-label = Idsilen umḍinen
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -44,9 +47,12 @@ protections-panel-content-blocking-tracking-protection = Agbur n uḍfaṛ
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Iwḥel
+protections-panel-not-blocking-label = Ittusireg
 
 ##
 
+protections-panel-settings-label = Iɣewwaṛen n tɣellist
 protections-panel-showreport-label = Sken aneqqis
 
 ## In the Site Not Working? view, we suggest turning off protections if
@@ -55,6 +61,10 @@ protections-panel-showreport-label = Sken aneqqis
 # The header of the list
 protections-panel-site-not-working-view-header = Sen ammesten ma tesɛiḍ uguren d:
 protections-panel-site-not-working-view-issue-list-forms = Tiferkiyin
+protections-panel-site-not-working-view-issue-list-payments = Asellek
+protections-panel-site-not-working-view-issue-list-comments = Iwenniten
+protections-panel-site-not-working-view-issue-list-videos = Tividyutin
+protections-panel-site-not-working-view-send-report = Azen aneqqis
 
 ##
 
