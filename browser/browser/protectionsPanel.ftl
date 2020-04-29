@@ -76,6 +76,8 @@ protections-panel-social-media-trackers = আপনি যা করেন, য�
 protections-panel-content-blocking-manage-settings =
     .label = সুরক্ষা সেটিংস পরিচালনা করুন
     .accesskey = M
+protections-panel-content-blocking-breakage-report-view =
+    .title = একটি অচল সাইট রিপোর্ট করুন
 protections-panel-content-blocking-breakage-report-view-description = নির্দিষ্ট কিছু ট্র্যাকার ব্লক করলে কিছু ওয়েবসাইটে সমস্যা হতে পারে। এই সমস্যা রিপোর্ট করা { -brand-short-name } কে সবার জন্য আরও ভাল করতে সহায়তা করে। এই রিপোর্ট পাঠানোর মাধ্যমে একটি URL এবং Mozilla তে আপনার ব্রাউজার সেটিংস সম্পর্কিত তথ্য প্রেরণ করবে। <label data-l10n-name="learn-more">আরও জানুন</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
