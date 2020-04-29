@@ -28,11 +28,15 @@ protections-panel-site-not-working-view =
 
 protections-panel-not-blocking-why-label = De ce?
 protections-panel-not-blocking-why-etp-on-tooltip = Blocarea acestora poate împiedica funcționarea elementelor anumitor site-uri web. Fără elementele de urmărire, este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
+protections-panel-not-blocking-why-etp-off-tooltip = Toate elementele de urmărire de pe acest site au fost încărcate deoarece ai protecțiile dezactivate.
 
 ##
 
+protections-panel-no-trackers-found = Nu s-a depistat niciun element de urmărire cunoscut de { -brand-short-name } pe această pagină.
 protections-panel-content-blocking-tracking-protection = Conținut de urmărire
 protections-panel-content-blocking-socialblock = Elemente de urmărire ale rețelelor sociale
+protections-panel-content-blocking-cryptominers-label = Criptomineri
+protections-panel-content-blocking-fingerprinters-label = Generatoare de amprente digitale
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -42,10 +46,12 @@ protections-panel-content-blocking-socialblock = Elemente de urmărire ale rețe
 
 protections-panel-blocking-label = Blocate
 protections-panel-not-blocking-label = Permise
+protections-panel-not-found-label = Nedepistate deloc
 
 ##
 
 protections-panel-settings-label = Setări pentru protecție
+protections-panel-showreport-label = Afișează raportul
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
@@ -64,7 +70,14 @@ protections-panel-site-not-working-view-send-report = Trimite un raport
 
 protections-panel-cross-site-tracking-cookies = Aceste cookie-uri te urmăresc de pe un site pe altul pentru a colecta date despre ceea ce faci online. Acestea sunt setate de terțe părți precum agenții de publicitate și companiile de analiză.
 protections-panel-cryptominers = Criptomomerii folosesc puterea de calcul a sistemului tău pentru a mina bani digitali. Scripturile de criptominare îți scurg bateria, încetinesc calculatorul și îți pot crește factura la energie.
+protections-panel-fingerprinters = Generatoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Cu această amprentă digitală, te pot urmări pe diferite site-uri web.
+protections-panel-tracking-content = Site-urile web pot încărca reclame externe, videoclipuri și alte conținuturi ce conțin coduri de urmărire. Blocarea conținutului de urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze.
 protections-panel-social-media-trackers = Rețelele sociale plasează elemente de urmărire pe alte site-uri web pentru a urmări ceea ce faci, vezi și urmărești online. Acest lucru permite companiilor rețelelor sociale să afle mai multe despre tine, dincolo de ceea ce împărtășești pe profilurile rețelelor sociale.
+protections-panel-content-blocking-manage-settings =
+    .label = Gestionează setările pentru protecție
+    .accesskey = M
+protections-panel-content-blocking-breakage-report-view =
+    .title = Raportează un site nefuncțional
 protections-panel-content-blocking-breakage-report-view-description = Blocarea anumitor elemente de urmărire poate produce probleme pe unele site-uri web. Raportarea acestor problemele ajută la îmbunătățirea { -brand-short-name } pentru toți. Trimițând la Mozilla acest raport vei trimite un URL și informații despre setările browserului. <label data-l10n-name="learn-more">Află mai multe</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL-ul
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
