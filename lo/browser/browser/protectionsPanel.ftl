@@ -38,3 +38,5 @@ protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = ຍົກເລີກ
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = ສົ່ງລາຍງານ
