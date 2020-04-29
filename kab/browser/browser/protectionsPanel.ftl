@@ -33,12 +33,15 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Ayɣer?
+protections-panel-not-blocking-why-etp-on-tooltip = Asewḥel n yiferdisen-a izmer ad yeglu s yir tiddin n kra n yismal web. Mebla ineḍfaṛen-a, kra n tqeffalin, tifelwiyin, d wurtan n yinekcam zemren ur teddun ara.
+protections-panel-not-blocking-why-etp-off-tooltip = Meṛṛa ineḍfaṛen ɣef usmel-a ulin-d acku ammesten yensa.
 
 ##
 
 protections-panel-no-trackers-found = Ulac ineḍfaren i yessen { -brand-short-name } ittwafen deg usebter-a.
 protections-panel-content-blocking-tracking-protection = Agbur n uḍfaṛ
 protections-panel-content-blocking-socialblock = Ineḍfaṛen n iẓeḍwa imettanen
+protections-panel-content-blocking-cryptominers-label = Ikripṭuminaren
 protections-panel-content-blocking-fingerprinters-label = Idsilen umḍinen
 
 ## In the protections panel, Content Blocking category items are in three sections:
@@ -70,6 +73,9 @@ protections-panel-site-not-working-view-send-report = Azen aneqqis
 
 protections-panel-cross-site-tracking-cookies = Inagan-a n tuqqna ad k-ḍfṛen seg usmel ɣer wayeḍ akken ad d-leqḍen isefka fell-ak srid. Seddayen-ten-id wid ixeddmen adellel akked tkebbaniyin n tesleḍt.
 protections-panel-cryptominers = Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd.
+protections-panel-fingerprinters = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ.
+protections-panel-tracking-content = Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara.
+protections-panel-social-media-trackers = Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti.
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
