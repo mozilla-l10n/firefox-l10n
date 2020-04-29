@@ -18,6 +18,8 @@ protections-popup-footer-protection-label-standard = Standard
 
 ##
 
+protections-panel-etp-on-header = Förbättrat spårningsskydd är PÅ för den här webbplatsen
+protections-panel-etp-off-header = Förbättrat spårningsskydd är AV för den här webbplatsen
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Fungerar inte webbplatsen?
 # The heading/title of the sub-panel view
@@ -28,11 +30,16 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = Varför?
+protections-panel-not-blocking-why-etp-on-tooltip = Blockering av dessa kan förstöra delar av vissa webbplatser. Utan spårare fungerar kanske inte vissa knappar, formulär och inloggningsfält.
+protections-panel-not-blocking-why-etp-off-tooltip = Alla spårare på denna webbplats har laddats eftersom skyddet är avstängt.
 
 ##
 
+protections-panel-no-trackers-found = Inga kända spårare för { -brand-short-name } upptäcktes på den här sidan.
 protections-panel-content-blocking-tracking-protection = Spårningsinnehåll
 protections-panel-content-blocking-socialblock = Sociala media-spårare
+protections-panel-content-blocking-cryptominers-label = Kryptogrävare
+protections-panel-content-blocking-fingerprinters-label = Fingeravtrycksspårare
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -65,12 +72,23 @@ protections-panel-site-not-working-view-send-report = Skicka in en rapport
 ##
 
 protections-panel-cross-site-tracking-cookies = Dessa kakor följer dig från sida till sida för att samla in data om vad du gör online. De anges av tredje part som annonsörer och analysföretag.
+protections-panel-cryptominers = Kryptogrävare använder ditt systems datakraft för att utvinna digitala pengar. Kryptogrävar-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen.
+protections-panel-fingerprinters = Fingeravtrycksspårare samlar inställningar från din webbläsare och dator för att skapa en profil av dig. Med det här digitala fingeravtrycket kan de spåra dig på olika webbplatser.
 protections-panel-tracking-content = Webbplatser kan ladda externa annonser, videor och annat innehåll som innehåller spårningskod. Blockering av spårningsinnehåll kan hjälpa webbplatser att ladda snabbare, men vissa knappar, formulär och inloggningsfält kanske inte fungerar.
+protections-panel-social-media-trackers = Sociala nätverk placerar spårare på andra webbplatser för att följa vad du gör, ser och tittar på online. Detta gör att sociala medieföretag kan lära sig mer om dig utöver vad du delar i dina sociala medieprofiler.
 protections-panel-content-blocking-manage-settings =
     .label = Hantera skyddsinställningar
     .accesskey = H
 protections-panel-content-blocking-breakage-report-view =
     .title = Rapportera en trasig webbplats
+protections-panel-content-blocking-breakage-report-view-description = Blockering av vissa spårare kan orsaka problem med vissa webbplatser. Att rapportera dessa problem hjälper till att göra { -brand-short-name } bättre för alla. Genom att skicka in den här rapporten skickas en URL och information om dina webbläsarinställningar till Mozilla. <label data-l10n-name="learn-more">Läs mer</label>
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
 protections-panel-content-blocking-breakage-report-view-collection-comments = Valfritt: Beskriv problemet
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
     .aria-label = Valfritt: Beskriv problemet
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Avbryt
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Skicka rapport
