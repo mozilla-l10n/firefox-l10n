@@ -93,3 +93,5 @@ protections-panel-content-blocking-breakage-report-view-collection-comments-labe
     .aria-label = Facultatif : décrivez le problème
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Annuler
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Envoyer le rapport
