@@ -87,3 +87,5 @@ protections-panel-content-blocking-breakage-report-view-collection-comments-labe
     .aria-label = ਚੋਣਵਾਂ: ਸਮੱਸਿਆ ਬਾਰੇ ਵਰਣਨ ਕਰੋ
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = ਰੱਦ ਕਰੋ
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = ਰਿਪੋਰਟ ਭੇਜੋ
