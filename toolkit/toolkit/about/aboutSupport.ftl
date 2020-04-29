@@ -31,6 +31,7 @@ app-basics-title = Programinfo
 app-basics-name = Namn
 app-basics-version = Versjon
 app-basics-build-id = Bygg-ID
+app-basics-distribution-id = Distribusjons-ID
 app-basics-update-channel = Oppdateringskanal
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
