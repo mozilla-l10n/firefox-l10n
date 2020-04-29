@@ -25,10 +25,12 @@ protections-panel-site-not-working-view =
 
 protections-panel-not-blocking-why-label = Nù huin saj?
 protections-panel-not-blocking-why-etp-on-tooltip = Ga'ue gahui a'nan' huā da'āj nej sa 'na' riña sîtio sisī naránt riña man. Huā da'āj nej butûn, formulârio nī riña gayi'ìt sesiûn si gi'iaj sun hue'ê sisī nitāj nej sa naga'nāj a hua.
+protections-panel-not-blocking-why-etp-off-tooltip = Gatûj daran’ chre sa naga’nāj a riña sitiô nan dadin’ huā na’àj sa dugumîn.
 
 ##
 
 protections-panel-no-trackers-found = Nitāj nej sa naga'nāj ni'în' guendâ{ -brand-short-name } nari'ij riña pajinâ nan.
+protections-panel-content-blocking-tracking-protection = Sa nikò' dàj hua sa màn riñanj
 protections-panel-content-blocking-socialblock = Nej sa naga'nāj nej rêd sosiâl
 protections-panel-content-blocking-cryptominers-label = Kriptominêro
 protections-panel-content-blocking-fingerprinters-label = Nej da'nga ra'a
@@ -66,7 +68,11 @@ protections-panel-site-not-working-view-send-report = Ga'nïnj 'ngo infôrme
 protections-panel-cross-site-tracking-cookies = Nikò' nej kokî nan danè' huin huājt da' gini'in sa 'iát nga aché nunt. Nej sa a'nïn a'ngô da'āj guìi huin, daj rû' sí du'uèj e asi nej ssí nadigi'ñû sa 'iaj guìi.
 protections-panel-cryptominers = Sa nùkuaj 'iaj sun si agâ't arâj sun nej kriptominêro da' girī nej si san'ānj dijitâl. Dunahuij hìo nej si scripts kriptominerîa si pilât, nagi'iaj na si aga't nī yakàn numâ ñanj ña'aan riñat.
 protections-panel-fingerprinters = Nakāj nej da'nga' dijîtal sa huā riña aché nunt nī riña si aga't da' girij 'ngō si perfît. Ga'ue naga'nāj nej si sò' ahuin man'an riña sitiô huājt ngà da'nga' digitâl nan.
+protections-panel-tracking-content = Huā da'àj nej sîtio nī ga'ue nadiganj nej anûnsio, sa ni'io' nī a'ngô nej sa ga'ue nikāj sa naga'nāj a. Ga'ue nayi'nïn hìo doj nej sîtio si naránt riña nej sa naga'nāj a, sanī huā da'āj nej butûn, formulario asi riña gayi'ìt sesiûn sī ga'ue gi'iaj sunj.
 protections-panel-social-media-trackers = A'nïn nej rêd sosiâl nej sa naga'nāj a riña a'ngô da'āj ne sîtio da' gini'in nùj hùin si 'iát, ni'iājt nī ni'înt riña lînia. Huê nan a'nïnj da' gini'in nej sa si'iaj rêd sosiâl sa 'iát nga aché nunt riña a'ngô ña se rêd sosiâl huin.
+protections-panel-content-blocking-manage-settings =
+    .label = Ganikāj ñu'ūnj dàj nadunāt riña sa dugumî sò'
+    .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Natà' sna'ānj dàj hua 'ngō sitiô gire'e
 protections-panel-content-blocking-breakage-report-view-description = Ga'ue ga'uì' yi'ì da'āj nej sa naga'nāj naránt riña da'āj nej sîtio. Sisī natà' sna'ānjt nej sa huā nan nī rugûñu'ūnjt riña { -brand-short-name } da' gā hue'ej riña darûn'. Na'nïnj nuguan' ga'nïnt naj 'ngō URL nī 'ngō nuguan' dàj nadunā sa huā riña aché nunt si'iaj Mozilla. <label data-l10n-name="learn-more">Gahuin chrūn doj</label>
