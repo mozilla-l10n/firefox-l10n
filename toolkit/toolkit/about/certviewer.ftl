@@ -23,6 +23,7 @@ certificate-viewer-tab-title = Chứng nhận cho { $firstCertName }
 certificate-viewer-inc-country = Quốc gia hợp nhất
 certificate-viewer-country = Quốc gia
 certificate-viewer-curve = Đường cong
+certificate-viewer-distribution-point = Điểm phát hành
 certificate-viewer-dns-name = Tên DNS
 certificate-viewer-ip-address = Địa chỉ IP
 certificate-viewer-other-name = Tên khác
