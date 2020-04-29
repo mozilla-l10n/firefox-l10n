@@ -60,3 +60,18 @@ cert-error-details-cert-chain-label = Imolq'it tib' u tu'aale':
 
 connectionFailure-title = Ye'xh kam ni tuch taq'onve'
 deniedPortAccess-title = U atinb'ale' vaa' as jupel kan ivatz
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+dnsNotFound-title = Hmm.  Ye' la uch kulejat u atinb'ale'
+fileNotFound-title = Aq'on uva' ye' kat lejpi
+fileAccessDenied-title = Kat majpu ivatz u aq'one' savatz aq'al uva' la eele'
+generic-title = Uy.
+captivePortal-title = La xe'tisa aq'on tu atinb'ale' vaa'
+# "Hmm" is a sound made when considering or puzzling over something.
+# You don't have to include it in your translation if your language does not have a written word like this.
+malformedURI-title = Hmm. U atinb'ale' kat aaq'ku' jit jik iku'e'
+netInterrupt-title = U vee' nasa' kat aaq'onve' kat majpiy ivatz
+notCached-title = Palyu itxakonsal u u'uje'
+netOffline-title = La kuxh aq'onvu axh kuxh ye'l axh ato'k axh
+contentEncodingError-title = Kat sotz taq'ax texhlal u u'uje'
+unsafeContentType-title = Ye'l u aq'one' vaa' b'a'n koj tatine'
