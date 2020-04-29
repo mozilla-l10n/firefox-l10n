@@ -63,6 +63,13 @@ protections-panel-site-not-working-view-send-report = Pošaljite izvještaj
 
 protections-panel-content-blocking-breakage-report-view =
     .title = Prijavi neispravnu web stranicu
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
 protections-panel-content-blocking-breakage-report-view-collection-comments = Neobavezno: opišite problem
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
     .aria-label = Neobavezno: opišite problem
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Otkaži
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Pošalji izvještaj
