@@ -32,6 +32,7 @@ protections-panel-site-not-working-view =
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Waarom?
 protections-panel-not-blocking-why-etp-on-tooltip = Door deze te blokkeren werken elementen van sommige websites mogelijk niet. Zonder trackers werken sommige knoppen, formulieren en aanmeldvelden mogelijk niet.
 protections-panel-not-blocking-why-etp-off-tooltip = Alle trackers op deze website zijn geladen omdat beschermingen zijn uitgeschakeld.
 
@@ -65,6 +66,11 @@ protections-panel-showreport-label = Rapport tonen
 protections-panel-site-not-working-view-header = Schakel beschermingen uit als u problemen hebt met:
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Aanmeldvelden
+protections-panel-site-not-working-view-issue-list-forms = Formulieren
+protections-panel-site-not-working-view-issue-list-payments = Betalingen
+protections-panel-site-not-working-view-issue-list-comments = Opmerkingen
+protections-panel-site-not-working-view-issue-list-videos = Video’s
+protections-panel-site-not-working-view-send-report = Rapport verzenden
 
 ##
 
@@ -78,6 +84,7 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = B
 protections-panel-content-blocking-breakage-report-view =
     .title = Niet-werkende website melden
+protections-panel-content-blocking-breakage-report-view-description = Het blokkeren van bepaalde trackers kan problemen met bepaalde websites veroorzaken. Door deze problemen te melden, helpt u { -brand-short-name } voor iedereen te verbeteren. Als u dit rapport verzendt, wordt zowel een URL als informatie over uw browserinstellingen naar Mozilla verzonden. <label data-l10n-name="learn-more">Meer info</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
