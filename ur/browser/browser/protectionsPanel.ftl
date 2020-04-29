@@ -15,10 +15,14 @@ protections-panel-sitefixedsendreport-label = سائٹ ٹھیک ہو گی؟ رپ
 protections-panel-etp-off-header = ٹریکنگ سے بہتر تحفظ اس سائٹ کے لیئے بند ہے
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = سائٹ کام نہیں کررہی ہے؟
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = سائٹ کام نہیں کررہا ہے؟
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = کیوں؟
 
 ##
 
@@ -47,6 +51,11 @@ protections-panel-showreport-label = رپورٹ دکھائیں
 
 # The header of the list
 protections-panel-site-not-working-view-header = اگر آپ کو پریشانی ہو رہی ہے تو تحفظات کو بند کردیں:
+protections-panel-site-not-working-view-issue-list-forms = فارم
+protections-panel-site-not-working-view-issue-list-payments = ادائیگیاں
+protections-panel-site-not-working-view-issue-list-comments = تبصرہ
+protections-panel-site-not-working-view-issue-list-videos = ویڈیوز
+protections-panel-site-not-working-view-send-report = ایک رپورٹ ارسال کریں
 
 ##
 
