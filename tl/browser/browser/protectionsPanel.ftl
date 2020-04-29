@@ -23,10 +23,16 @@ protections-panel-etp-more-info =
     .aria-label = Karagdagang impormasyon tungkol sa Enhanced Tracking Protection
 protections-panel-etp-on-header = Nakabukas ang Enhanced Tracking Protection para sa site na ito
 protections-panel-etp-off-header = Sarado ang Enhanced Tracking Protection para sa site na ito
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Hindi gumagana ang site?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Hindi Gumagana ang Site?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Bakit?
 protections-panel-not-blocking-why-etp-on-tooltip = Maaaring masira ang ilang parte ng ilang website kapag hinarang ang mga ito. Kapag walang mga tracker, may mga button, form, at login field na maaaring hindi gumana.
 protections-panel-not-blocking-why-etp-off-tooltip = Lahat ng mga tracker sa site na ito ay nag-load dahil nakasara ang mga protection.
 
@@ -34,6 +40,8 @@ protections-panel-not-blocking-why-etp-off-tooltip = Lahat ng mga tracker sa sit
 
 protections-panel-no-trackers-found = Walang mga tracker na kilala ng { -brand-short-name } na natuklasan sa pahinang ito.
 protections-panel-content-blocking-tracking-protection = Mga Tracking Content
+protections-panel-content-blocking-socialblock = Mga Social Media Tracker
+protections-panel-content-blocking-cryptominers-label = Mga Cryptominer
 protections-panel-content-blocking-fingerprinters-label = Mga fingerprinter
 
 ## In the protections panel, Content Blocking category items are in three sections:
@@ -60,6 +68,7 @@ protections-panel-site-not-working-view-header = Isara ang mga proteksyon kung n
 protections-panel-site-not-working-view-issue-list-login-fields = Mga login field
 protections-panel-site-not-working-view-issue-list-forms = Mga form
 protections-panel-site-not-working-view-issue-list-payments = Mga kabayaran
+protections-panel-site-not-working-view-issue-list-comments = Mga komento
 protections-panel-site-not-working-view-issue-list-videos = Mga video
 protections-panel-site-not-working-view-send-report = Magpadala ng report
 
