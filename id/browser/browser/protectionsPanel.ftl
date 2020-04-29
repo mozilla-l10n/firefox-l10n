@@ -17,10 +17,16 @@ protections-panel-etp-more-info =
     .aria-label = Informasi lebih lanjut tentang Perlindungan Pelacakan yang Ditingkatkan
 protections-panel-etp-on-header = Perlindungan Pelacakan yang Ditingkatkan AKTIF untuk situs ini
 protections-panel-etp-off-header = Perlindungan Pelacakan yang Ditingkatkan NONAKTIF untuk situs ini
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = Situs tidak berfungsi?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = Situs Tidak Berfungsi?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Mengapa?
 protections-panel-not-blocking-why-etp-on-tooltip = Memblokir yang berikut dapat merusak elemen pada beberapa situs web. Tanpa pelacak, beberapa tombol, formulir, dan bidang info masuk mungkin tidak berfungsi.
 protections-panel-not-blocking-why-etp-off-tooltip = Semua pelacak di situs ini telah dimuat karena perlindungan dinonaktifkan.
 
@@ -28,6 +34,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Semua pelacak di situs ini 
 
 protections-panel-no-trackers-found = Tidak ada pelacak yang dikenali { -brand-short-name } terdeteksi di laman ini.
 protections-panel-content-blocking-tracking-protection = Pelacakan Konten
+protections-panel-content-blocking-socialblock = Pelacak Media Sosial
 protections-panel-content-blocking-cryptominers-label = Penambang Kripto
 protections-panel-content-blocking-fingerprinters-label = Pelacak Sidik
 
@@ -37,15 +44,25 @@ protections-panel-content-blocking-fingerprinters-label = Pelacak Sidik
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Diblokir
 
 ##
 
+protections-panel-settings-label = Setelan Perlindungan
+protections-panel-showreport-label = Tampilkan Laporan
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Nonaktifkan perlindungan jika Anda memiliki masalah dengan:
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Bidang info masuk
+protections-panel-site-not-working-view-issue-list-forms = Formulir
+protections-panel-site-not-working-view-issue-list-payments = Pembayaran
+protections-panel-site-not-working-view-issue-list-comments = Komentar
+protections-panel-site-not-working-view-issue-list-videos = Video
+protections-panel-site-not-working-view-send-report = Kirim laporan
 
 ##
 
@@ -59,3 +76,14 @@ protections-panel-content-blocking-manage-settings =
     .accesskey = K
 protections-panel-content-blocking-breakage-report-view =
     .title = Laporkan Situs yang Rusak
+protections-panel-content-blocking-breakage-report-view-description = Pemblokiran pelacak tertentu bisa menyebabkan beberapa situs web tidak berfungsi dengan baik. Saat Anda melaporkan masalahnya, Anda membantu agar { -brand-short-name } menjadi lebih baik bagi semua orang. Pengiriman laporan ini akan mengirimkan URL serta informasi tentang pengaturan peramban Anda ke Mozilla. <label data-l10n-name="learn-more">Pelajari lebih lanjut</label>
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Opsional: Jelaskan masalahnya
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Opsional: Jelaskan masalahnya
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Batal
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Kirim Laporan
