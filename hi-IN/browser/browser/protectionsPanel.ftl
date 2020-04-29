@@ -16,9 +16,14 @@ protections-panel-sitefixedsendreport-label = साइट ठीक हो ग�
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = क्यों?
 
 ##
 
+protections-panel-content-blocking-tracking-protection = ट्रैकिंग सामग्री
+protections-panel-content-blocking-socialblock = सोशल मीडिया ट्रैकर
+protections-panel-content-blocking-cryptominers-label = क्रिप्टोमाइनर
+protections-panel-content-blocking-fingerprinters-label = फिंगरप्रिंटर
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -33,12 +38,19 @@ protections-panel-sitefixedsendreport-label = साइट ठीक हो ग�
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+protections-panel-site-not-working-view-issue-list-comments = टिप्पणियाँ
+protections-panel-site-not-working-view-issue-list-videos = वीडियो
 
 ##
 
+protections-panel-content-blocking-breakage-report-view =
+    .title = क्षतिग्रस्त साइट की रिपोर्ट करें
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = वैकल्पिक: समस्या का वर्णन करें
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = वैकल्पिक: समस्या का वर्णन करें
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = रद्द करें
 protections-panel-content-blocking-breakage-report-view-send-report =
