@@ -75,3 +75,6 @@ notCached-title = Palyu itxakonsal u u'uje'
 netOffline-title = La kuxh aq'onvu axh kuxh ye'l axh ato'k axh
 contentEncodingError-title = Kat sotz taq'ax texhlal u u'uje'
 unsafeContentType-title = Ye'l u aq'one' vaa' b'a'n koj tatine'
+netReset-title = Kat xe'tiy taq'onvu unpajte
+netTimeout-title = Kat iya'sal taq'onve'
+unknownProtocolFound-title = U atinb'ale' uve' kat aaq'ku' ye'xh kam b'a'n koj

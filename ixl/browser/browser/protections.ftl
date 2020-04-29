@@ -5,6 +5,8 @@
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Cheel
+protections-close-button =
+    .aria-label = Jupa
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Il ixe'teb'al u aq'one'
     .title = Il ixe'teb'al u aq'one' ve kolel kan.
