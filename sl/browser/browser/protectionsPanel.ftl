@@ -43,3 +43,10 @@ protections-panel-not-blocking-why-etp-on-tooltip = Zavračanje te vsebine lahko
 
 ##
 
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Prekliči
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Pošlji poročilo
