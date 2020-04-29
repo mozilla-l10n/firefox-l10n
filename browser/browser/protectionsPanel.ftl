@@ -18,6 +18,9 @@ protections-popup-footer-protection-label-standard = Standard
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Mer information om Förbättrat spårningsskydd
 protections-panel-etp-on-header = Förbättrat spårningsskydd är PÅ för den här webbplatsen
 protections-panel-etp-off-header = Förbättrat spårningsskydd är AV för den här webbplatsen
 # The link to be clicked to open the sub-panel view
