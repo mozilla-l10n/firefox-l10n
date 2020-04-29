@@ -23,14 +23,17 @@
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = हेंथा होबाय
 
 ##
 
+protections-panel-showreport-label = रिपर्ट खौ दिन्थि
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
 protections-panel-site-not-working-view-issue-list-forms = फर्मफोर
+protections-panel-site-not-working-view-issue-list-videos = भिडिअफोर
 
 ##
 
