@@ -86,7 +86,7 @@ policy-OverrideFirstRunPage = Erstatt siden som vises ved første oppstart. La p
 policy-OverridePostUpdatePage = Bytt ut «Hva er nytt»-siden som blir vist etter en oppdatering. La policyen stå tom hvis sida etter oppdatering skal deaktiveres.
 policy-PasswordManagerEnabled = Slå på lagring av passord til passordbehandleren.
 # PDF.js and PDF should not be translated
-policy-PDFjs = Deaktiver eller konfigurere PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }.
+policy-PDFjs = Deaktiver eller konfigurer PDF.js, det innebygde PDF-visningsprogrammet i { -brand-short-name }.
 policy-Permissions2 = Konfigurer tillatelser for kamera, mikrofon, plassering og auto-avspilling.
 policy-PopupBlocking = Tillat at visse nettsteder skal kunne vise sprettoppvinduer som standard.
 policy-Preferences = Still inn og lås verdien for en undergruppe av innstillingene.
