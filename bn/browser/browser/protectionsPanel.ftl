@@ -12,6 +12,8 @@ protections-panel-sitefixedsendreport-label = সাইট ঠিক হয়ে�
 
 ##
 
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = সাইট কাজ করছে না?
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = সাইট কাজ করছে না?
@@ -19,6 +21,7 @@ protections-panel-site-not-working-view =
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = কেন?
 protections-panel-not-blocking-why-etp-on-tooltip = এগুলি ব্লক করা হলে কিছু ওয়েবসাইটের উপাদান বিগড়ে দিতে পারে। ট্র্যাকার ছাড়া, কিছু বোতাম, ফরম এবং লগইন ক্ষেত্র কাজ নাও করতে পারে।
 protections-panel-not-blocking-why-etp-off-tooltip = সুরক্ষা বন্ধ করার কারণে এই সাইটে সমস্ত ট্র্যাকার লোড করা হয়েছে।
 
@@ -35,6 +38,9 @@ protections-panel-content-blocking-fingerprinters-label = ফিঙ্গার�
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = ব্লক করা হয়েছে
+protections-panel-not-blocking-label = অনুমোদিত
+protections-panel-not-found-label = কিছুই সনাক্ত করা হয়নি
 
 ##
 
@@ -45,6 +51,13 @@ protections-panel-settings-label = সুরক্ষা সেটিং
 
 # The header of the list
 protections-panel-site-not-working-view-header = যদি এতে আপনার সমস্যা হয় তবে সুরক্ষা বন্ধ করুন:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = লগইন ক্ষেত্র
+protections-panel-site-not-working-view-issue-list-forms = ফর্মসমূহ
+protections-panel-site-not-working-view-issue-list-payments = পেমেন্ট
+protections-panel-site-not-working-view-issue-list-comments = মন্তব্যসমূহ
+protections-panel-site-not-working-view-issue-list-videos = ভিডিওগুলো
+protections-panel-site-not-working-view-send-report = একটি রিপোর্ট পাঠান
 
 ##
 
@@ -56,9 +69,13 @@ protections-panel-social-media-trackers = আপনি যা করেন, য�
 protections-panel-content-blocking-manage-settings =
     .label = সুরক্ষা সেটিংস পরিচালনা করুন
     .accesskey = M
+protections-panel-content-blocking-breakage-report-view-description = নির্দিষ্ট কিছু ট্র্যাকার ব্লক করলে কিছু ওয়েবসাইটে সমস্যা হতে পারে। এই সমস্যা রিপোর্ট করা { -brand-short-name } কে সবার জন্য আরও ভাল করতে সহায়তা করে। এই রিপোর্ট পাঠানোর মাধ্যমে একটি URL এবং Mozilla তে আপনার ব্রাউজার সেটিংস সম্পর্কিত তথ্য প্রেরণ করবে। <label data-l10n-name="learn-more">আরও জানুন</label>
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = ঐচ্ছিক: সমস্যাটি বর্ণনা করুন
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = ঐচ্ছিক: সমস্যাটি বর্ণনা করুন
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = বাতিল
 protections-panel-content-blocking-breakage-report-view-send-report =
