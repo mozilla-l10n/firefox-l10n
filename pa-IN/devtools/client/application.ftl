@@ -38,3 +38,7 @@ serviceworker-worker-status-running = ਚੱਲ ਰਿਹਾ ਹੈ
 manifest-item-identity = ਪਛਾਣ
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = ਆਈਕਨ
+# Text displayed as the alt attribute for <img> tags showing the icons in the
+# manifest.
+manifest-icon-img =
+    .alt = ਆਈਕਨ
