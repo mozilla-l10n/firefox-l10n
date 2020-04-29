@@ -18,6 +18,9 @@ protections-popup-footer-protection-label-standard = Estándar
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Más información sobre la protección contra rastreo mejorada
 protections-panel-etp-on-header = La protección contra rastreo mejorada está habilitada para este sitio
 protections-panel-etp-off-header = La protección contra rastreo mejorada está deshabilitada para este sitio
 
@@ -41,10 +44,14 @@ protections-panel-content-blocking-fingerprinters-label = Fingerprinters
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Bloqueado
+protections-panel-not-blocking-label = Permitido
+protections-panel-not-found-label = Ninguno detectado
 
 ##
 
 protections-panel-settings-label = Ajustes de protección
+protections-panel-showreport-label = Mostrar informe
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
@@ -62,9 +69,19 @@ protections-panel-cryptominers = Los criptomineros utilizan la potencia informá
 protections-panel-fingerprinters = Los detectores de huellas digitales recolectan la configuración de su navegador y su ordenador para crear un perfil de usted. Usando este detector de huella digital pueden seguirle a través de diferentes sitios web.
 protections-panel-tracking-content = Los sitios web pueden cargar anuncios externos, videos y otro tipo de contenido gracias a un código de rastreo. Si bloquea el contenido de rastreo, los sitios se cargarán más rápido, pero puede que algunos botones y formularios dejen de funcionar.
 protections-panel-social-media-trackers = Las redes sociales colocan rastreadores en otros sitios web para saber qué hace, ve y mira en línea. Ese rastreo les permite saber mucho más de lo que comparte en sus perfiles de las redes sociales.
+protections-panel-content-blocking-manage-settings =
+    .label = Gestionar los ajustes de protección
+    .accesskey = M
 protections-panel-content-blocking-breakage-report-view =
     .title = Informar de problemas con un sitio
 protections-panel-content-blocking-breakage-report-view-description = Si bloquea ciertos rastreadores, puede que algunos sitios dejen de funcionar. Si nos informa de estos problemas, nos ayudará a mejorar { -brand-short-name }. Al enviar este informe, Mozilla recibirá una URL e información sobre la configuración de su navegador. <label data-l10n-name="learn-more">Saber más</label>
+protections-panel-content-blocking-breakage-report-view-collection-url = URL
+protections-panel-content-blocking-breakage-report-view-collection-url-label =
+    .aria-label = URL
 protections-panel-content-blocking-breakage-report-view-collection-comments = Opcional: describa el problema
 protections-panel-content-blocking-breakage-report-view-collection-comments-label =
     .aria-label = Opcional: describa el problema
+protections-panel-content-blocking-breakage-report-view-cancel =
+    .label = Cancelar
+protections-panel-content-blocking-breakage-report-view-send-report =
+    .label = Enviar reporte
