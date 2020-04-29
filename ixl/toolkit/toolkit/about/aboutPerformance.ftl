@@ -31,3 +31,5 @@ size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Jup u ilb'al tetze'

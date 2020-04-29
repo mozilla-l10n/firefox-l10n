@@ -2,8 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-pictureinpicture-player-title = Vatzib'al
-pictureinpicture-pause =
-    .aria-label = Tanb'a'
-pictureinpicture-close =
-    .aria-label = Jupa
+close-tab =
+    .label = Jup u ilb'al tetze'
+    .accesskey = c
+close-tabs =
+    .label = Jup unq'a ilb'al tetze'
+    .accesskey = S
