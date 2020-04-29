@@ -46,6 +46,7 @@ protections-panel-content-blocking-fingerprinters-label = Pelacak Sidik
 
 protections-panel-blocking-label = Diblokir
 protections-panel-not-blocking-label = Diizinkan
+protections-panel-not-found-label = Tidak Terdeteksi
 
 ##
 
