@@ -1,0 +1,127 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "هەڵە لە بارکردنی پەڕگە">
+<!ENTITY retry.label "دووبارە هەوڵ بدەرەوە">
+<!ENTITY returnToPreviousPage.label "بڕۆ دواوە">
+<!ENTITY returnToPreviousPage1.label "بڕۆ دواوە (پێشنیارکراوە)">
+<!ENTITY advanced2.label "پێشکەوتوو...">
+<!ENTITY viewCertificate.label "بڕوانامە پیشان بدە">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "نەتوانرا پەیوەندی بکا">
+
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "ئەم ناونیشانە ڕێپێدراو نیە">
+
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.pageTitle "ڕاژە نەدۆزرایەوە">
+<!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "هممم. ئێمە ناتوانین ئەو ماڵپەڕە بدۆزینەوە.">
+<!ENTITY dnsNotFound.longDesc1 "<strong>ئەگەر ناونیشانەکە ڕاستبێت، دەتوانیت شتی تر تاقی بکەیتەوە وەک:</strong>
+<ul>
+  <li>کاتێکی تر هەوڵبدەرەوە.</li>
+ · <li>دڵنیابەرەوە لە هێلێ ئینتەرنێتەکەت.</li>¶
+  <li>ئەگەر پەیوەندیت هەیە لە پشتی ئاگرەدیوارەوە, چێکی ئەوەبکە کە  &brandShortName; دەسەڵاتی هەیە  بچیتە ناو ئینتەرنێت.</li>
+</ul>">
+
+<!ENTITY fileNotFound.title "پەڕگە نەدۆزرایەوە">
+
+
+<!ENTITY fileAccessDenied.title "چوونەناوی پەڕگە ڕەتکرایەوە">
+
+
+<!ENTITY generic.title "ئوپس.">
+
+<!ENTITY generic.longDesc "<p>&brandShortName; ناتوانێت پەڕگە باربکات لەبەر چەند هۆکارێک.</p>">
+
+<!ENTITY captivePortal.title "بچۆ ناو ڕایەڵە">
+<!ENTITY captivePortal.longDesc2 "<p>پێویستە پێش ئەوە بچیتە ژوورەوە بۆ ئەوەی بتوانی دەستت بگات بە ئینتەرنێت.</p>">
+
+<!ENTITY openPortalLoginPage.label2 "پەڕەی چوونەناوی ڕایەڵە بکەرەوە">
+
+<!ENTITY malformedURI.pageTitle "بەستەر نەگونجاوە">
+<!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "ئهممم. ئەو ناونیشانە بە ڕاست ناچێت.">
+
+<!ENTITY netInterrupt.title "پەیوەندی جیگیر نیە">
+
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "بەڵگەنامە بەسەرچووە">
+
+
+<!ENTITY netOffline.title "دۆخی دەرهێڵ">
+
+
+<!ENTITY contentEncodingError.title "هەڵەی کۆدکردنی ناوەڕۆک">
+
+
+<!ENTITY unsafeContentType.title "جۆری پەڕگە پارێزراو نیە">
+
+
+<!ENTITY netReset.title "پەیوەندی نوێکرایەوە">
+
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "پەیوەندی بەسەرچوو">
+
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "ناونیشان تێی ناگەین">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Localization note (certerror.introPara2) - The text content of the span tag
+will be replaced at runtime with the name of the server to which the user
+was trying to connect. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+
+
+
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
+
+
+
+
+
+
