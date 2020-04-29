@@ -26,6 +26,8 @@ protections-panel-not-blocking-why-etp-off-tooltip = 隐私保护处于关闭状
 
 ##
 
+protections-panel-content-blocking-cryptominers-label = 加密货币挖矿程序
+protections-panel-content-blocking-fingerprinters-label = 数字指纹跟踪程序
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
