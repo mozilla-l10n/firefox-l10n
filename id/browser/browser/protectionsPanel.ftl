@@ -45,6 +45,7 @@ protections-panel-content-blocking-fingerprinters-label = Pelacak Sidik
 ##   These strings are used in the header labels of each of these sections.
 
 protections-panel-blocking-label = Diblokir
+protections-panel-not-blocking-label = Diizinkan
 
 ##
 
