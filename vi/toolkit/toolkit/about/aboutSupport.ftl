@@ -31,6 +31,7 @@ app-basics-title = Cơ bản về ứng dụng
 app-basics-name = Tên
 app-basics-version = Phiên bản
 app-basics-build-id = ID bản dựng
+app-basics-distribution-id = ID phát hành
 app-basics-update-channel = Kênh cập nhật
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
