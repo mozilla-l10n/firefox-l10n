@@ -41,6 +41,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Korumalar kapalı olduğu i
 protections-panel-content-blocking-tracking-protection = Takip amaçlı içerikler
 protections-panel-content-blocking-socialblock = Sosyal medya takipçileri
 protections-panel-content-blocking-cryptominers-label = Kripto madencileri
+protections-panel-content-blocking-fingerprinters-label = Parmak izi toplayıcılar
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
