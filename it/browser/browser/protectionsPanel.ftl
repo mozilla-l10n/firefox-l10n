@@ -8,11 +8,11 @@ protections-panel-sitefixedsendreport-label = Problema risolto? Invia una segnal
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
-protections-popup-footer-protection-label-strict = Strict
-    .label = Restrittivo
-protections-popup-footer-protection-label-custom = Custom
+protections-popup-footer-protection-label-strict = Restrittiva
+    .label = Restrittiva
+protections-popup-footer-protection-label-custom = Personalizzata
     .label = Personalizzata
-protections-popup-footer-protection-label-standard = Standard
+protections-popup-footer-protection-label-standard = Normale
     .label = Normale
 
 ##
