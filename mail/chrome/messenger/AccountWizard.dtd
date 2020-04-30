@@ -11,7 +11,7 @@
 
 <!ENTITY accountSetupInfo2.label "Pentru a putea primi mesaje, trebuie să adaugi un cont.">
 <!ENTITY accountTypeTitle.label "Configurare de cont nou">
-<!ENTITY accountTypeDesc2.label "Acest asistent va colecta informațiile necesare configurării unui cont. Dacă nu cunoști informațiile necesare, te rugăm să contactezi administratorul de sistem sau furnizorul de servicii internet.">
+<!ENTITY accountTypeDesc2.label "Asistentul va colecta informațiile necesare configurării unui cont. Dacă nu știi informațiile necesare, contactează administratorul de sistem sau furnizorul de servicii internet.">
 <!ENTITY accountTypeDirections.label "Selectează tipul de cont pe care vrei să îl configurezi:">
 <!ENTITY accountTypeMail.label "Cont de e-mail">
 <!ENTITY accountTypeMail.accesskey "m">
