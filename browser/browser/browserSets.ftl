@@ -5,7 +5,7 @@
 window-minimize-command =
     .label = Minimizează
 window-zoom-command =
-    .label = Zoom
+    .label = Focalizare
 window-new-shortcut =
     .key = N
 window-minimize-shortcut =
