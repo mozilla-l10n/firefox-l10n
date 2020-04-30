@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from EdReplace.xul -->
+<!-- extracted from EdReplace.xhtml -->
 
 <!ENTITY replaceDialog.title "Caută și înlocuiește">
 <!ENTITY findField.label "Caută text:">
 <!ENTITY findField.accesskey "a">
 <!ENTITY replaceField.label "Înlocuiește cu:">
 <!ENTITY replaceField.accesskey "n">
-<!ENTITY caseSensitiveCheckbox.label "Corelează litere mari și mici">
+<!ENTITY caseSensitiveCheckbox.label "Sensibil la litere mari și mici">
 <!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Încadrare de jur-împrejur">
 <!ENTITY wrapCheckbox.accesskey "p">
