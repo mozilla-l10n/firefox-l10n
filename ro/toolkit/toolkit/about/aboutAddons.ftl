@@ -298,7 +298,7 @@ addon-open-about-debugging = Depanează suplimente
 ## Extension shortcut management
 
 manage-extensions-shortcuts =
-    .label = Gestionează comenzile rapide ale extensiilor
+    .label = Gestionează comenzile rapide pentru extensii
     .accesskey = S
 # This is displayed in the page options menu
 addon-manage-extensions-shortcuts = Gestionează comenzile rapide ale extensiilor

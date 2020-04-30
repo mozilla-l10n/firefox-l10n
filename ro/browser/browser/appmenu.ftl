@@ -5,11 +5,9 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Importă din alt browser…
-appmenuitem-protection-report-title = Protecții privind intimitatea
+appmenuitem-protection-report-title = Protecții pentru confidențialitate
 appmenuitem-protection-report-tooltip =
-    .tooltiptext = Mergi la raportul de intimitate
+    .tooltiptext = Mergi la raportul de protecție a vieții private
 
 ## Zoom Controls
 

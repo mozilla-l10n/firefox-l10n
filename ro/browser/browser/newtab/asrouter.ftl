@@ -96,7 +96,7 @@ cfr-whatsnew-button =
     .tooltiptext = Ce este nou
 cfr-whatsnew-panel-header = Ce este nou
 cfr-whatsnew-release-notes-link-text = Citește notele privind versiunea
-cfr-whatsnew-fx70-title = { -brand-short-name } acum luptă și mai mult pentru intimitatea ta
+cfr-whatsnew-fx70-title = { -brand-short-name } acum luptă și mai mult pentru protecția vieții tale private
 cfr-whatsnew-fx70-body = Ultima actualizare sporește funcția de Protecție împotriva urmării și face mai ușoară ca niciodată crearea de parole securizate pentru fiecare site.
 cfr-whatsnew-tracking-protect-title = Protejează-te împotriva elementelor de urmărire
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blochează multe elemente frecvente de urmărire ale rețelelor socializare și între site-uri care îți urmăresc acțiunile online.
@@ -122,10 +122,6 @@ cfr-whatsnew-lockwise-take-link-text = Obține aplicația
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tastezi mai puțin, găsești mai multe cu bara de adrese
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Accesează site-urile pe care le utilizezi cel mai mult cu un singur clic în bara de adrese. Găsește lucrurile mai rapid cu rezultatele din { $searchEngineName } și din istoricul de navigare.
-cfr-whatsnew-searchbar-body-generic = Accesează site-urile pe care le utilizezi cel mai mult cu un singur clic în bara de adrese. Găsește lucrurile mai rapid cu rezultatele din istoricul de navigare.
 cfr-whatsnew-searchbar-body-topsites = Acum, trebuie doar să selectezi bara de adrese și o casetă se va extinde cu linkuri către site-urile tale de top.
 cfr-whatsnew-searchbar-icon-alt-text = Pictogramă lupă
 
@@ -214,3 +210,15 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Afișează tot
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
