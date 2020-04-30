@@ -51,6 +51,9 @@ restart-later = Xamtel la xe'tisal
 
 get-started-not-logged-in = chupoke{ -sync-brand-short-name }
 browser-containers-learn-more = Ootzi ka'te
+browser-containers-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
 containers-disable-alert-cancel-button = JAJELKAN KUXHTU
 
 ## General Section - Language & Appearance
@@ -131,8 +134,8 @@ browsing-cfr-recommendations-learn-more = Ootzi ka'te
 
 network-proxy-connection-learn-more = Ootzi ka'te
 network-proxy-connection-settings =
-    .label = ib'anax tuche'
-    .accesskey = b
+    .label = Ib'anax tuche'…
+    .accesskey = I
 
 ## Home Section
 
@@ -216,10 +219,16 @@ forms-breach-alerts-learn-more-link = Ootzi ka'te
 
 ## Privacy Section - History
 
+history-clear-on-close-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
 
 ## Privacy Section - Site Data
 
 sitedata-learn-more = Ootzi ka'te
+sitedata-cookies-permissions =
+    .label = Tilpu unq'a aq'b'al okeb'al…
+    .accesskey = T
 
 ## Privacy Section - Address Bar
 
@@ -252,7 +261,26 @@ content-blocking-cookies-label =
 
 ## Privacy Section - Permissions
 
+permissions-header = Aq'b'al okeb'al
+permissions-location-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
+permissions-xr-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
+permissions-camera-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
+permissions-microphone-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
+permissions-notification-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
 permissions-notification-link = Ootzi ka'te
+permissions-autoplay-settings =
+    .label = Ib'anax tuche'…
+    .accesskey = I
 permissions-a11y-privacy-link = Ootzi ka'te
 
 ## Privacy Section - Data Collection

@@ -53,21 +53,18 @@ include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbar.accessibleLabel "Aq'ol texhlal">
 
-
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
-
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
 
-
- <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenClose.tooltip "Jupa">
 
@@ -77,17 +74,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
 
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
-     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.manageAccount.label "La eel isuuchil u atinb'ale'…">
+<!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Ib'anax tuche'…">
+
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
+<!ENTITY fxa.menu.syncSettings2.label "&syncBrand.shortName.label; Ib'anax tuche'">
 
-
+<!ENTITY fxa.menu.settings.label "Ib'anax tuche'">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -129,6 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+
 <!ENTITY searchItem.title             "Chuka">
 
 <!-- Toolbar items -->
@@ -158,6 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 
 
+
 <!ENTITY editMenu.label         "B'an tuche'">
 <!ENTITY editMenu.accesskey       "E">
 <!ENTITY copyCmd.label            "Eesa ivatz">
@@ -176,7 +178,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-
 
 
 <!ENTITY appMenuHelp.label "Lochb'al">
@@ -211,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+
 
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 
@@ -265,22 +267,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 
 
 
+
+
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Jup u U'uje' Eche' uva'…">
+<!-- alternate for content area context menu -->
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
@@ -313,13 +312,10 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 
@@ -328,7 +324,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY closeCmd.label                 "Jupa">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -353,11 +348,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
 <!ENTITY editBookmark.panel.width                    "23em">
+<!ENTITY editBookmark.done.label                     "Tzojpiya">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
-
-
 
 
 <!-- Strings for connection state warnings. -->
@@ -369,7 +363,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
+<!ENTITY identity.permissions "Aq'b'al okeb'al">
 
 
 <!-- LOCALIZATION NOTE:
@@ -404,7 +398,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-
 <!ENTITY syncToolbarButton.label      "Sync">
 
 
@@ -414,7 +407,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY contentBlocking.cookies.label "Cookies">
-
 
 
 
@@ -443,6 +435,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Jupa">
 

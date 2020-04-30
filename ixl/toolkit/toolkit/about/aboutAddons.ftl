@@ -75,6 +75,7 @@ preferences-addon-button =
         [windows] Unka'te
        *[other] Uve' ni chit asa'
     }
+permissions-addon-button = Aq'b'al okeb'al
 addon-detail-version-label = Tilax ivatz
 
 ## Pending uninstall message bar
