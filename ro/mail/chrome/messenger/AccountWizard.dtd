@@ -27,7 +27,7 @@
 <!ENTITY identityDesc.label "Fiecare cont are propria identitate, adică datele prin care te identifici față de ceilalți care primesc mesaje de la tine.">
 
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
-<!ENTITY fullnameDesc.label "Introdu numele care să apară în câmpul &quot;De la&quot; din mesajele pe care le trimiți">
+<!ENTITY fullnameDesc.label "Introdu numele care să apară în câmpul &quot;De la&quot; în mesajele pe care le trimiți">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"

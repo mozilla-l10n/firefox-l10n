@@ -67,7 +67,7 @@ remove-all-shown =
     .accesskey = A
 remove-all-passwords-prompt = Sigur dorești să elimini toate parolele?
 remove-all-passwords-title = Elimină toate parolele
-no-master-password-prompt = Sigur dorești să afișezi parolele?
+no-master-password-prompt = Sigur vrei să afișezi parolele?
 
 ## OS Authentication dialog
 
