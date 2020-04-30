@@ -25,7 +25,7 @@
 <!ENTITY checkSpellingCmd2.key "o">
 
 <!-- Insert menu items -->
-<!ENTITY insertMenu.label "Inserează">
+<!ENTITY insertMenu.label "Inserare">
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Link…">
 <!ENTITY insertLinkCmd2.accesskey "L">
@@ -316,8 +316,8 @@
 <!ENTITY boldToolbarCmd.tooltip "Aldin">
 <!ENTITY italicToolbarCmd.tooltip "Cursiv">
 <!ENTITY underlineToolbarCmd.tooltip "Subliniat">
-<!ENTITY bulletListToolbarCmd.tooltip "Aplică sau elimină listă cu buline">
-<!ENTITY numberListToolbarCmd.tooltip "Aplică sau elimină listă numerotată">
+<!ENTITY bulletListToolbarCmd.tooltip "Introdu sau elimină o listă cu buline">
+<!ENTITY numberListToolbarCmd.tooltip "Introdu sau elimină o listă numerotată">
 <!ENTITY outdentToolbarCmd.tooltip "Micșorează indentarea textului (mută la stânga)">
 <!ENTITY indentToolbarCmd.tooltip "Mărește indentarea textului (mută la dreapta)">
 <!ENTITY AlignPopupButton.tooltip "Alege alinierea textului">
