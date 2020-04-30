@@ -8,7 +8,7 @@
 findbar-next =
     .tooltiptext = Mergi la apariția următoare a textului
 findbar-previous =
-    .tooltiptext = Caută apariția anterioară a textului
+    .tooltiptext = Mergi la apariția anterioară a textului
 findbar-find-button-close =
     .tooltiptext = Închide bara de căutare
 findbar-highlight-all2 =

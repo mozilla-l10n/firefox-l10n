@@ -32,5 +32,5 @@
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "G">
-<!ENTITY findPreviousCmd.label     "Mergi la anterior">
+<!ENTITY findPreviousCmd.label     "Mergi la rezultatul anterior">
 <!ENTITY findPreviousCmd.accesskey "n">
