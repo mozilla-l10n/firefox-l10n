@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Redactare și adrese">
 <!ENTITY addressingGroupTitle.label "Adrese">
 <!ENTITY addressingText.label      "La căutarea adreselor:">
@@ -19,9 +21,11 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Redactare">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
-<!ENTITY useHtml.label                        "Redactează mesajele în format HTML">
+<!ENTITY useHtml.label                        "Compune mesajele în format HTML">
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Citează automat mesajul original în răspunsuri">
 <!ENTITY autoQuote.accesskey                  "u">
