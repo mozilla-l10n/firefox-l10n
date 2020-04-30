@@ -6,5 +6,5 @@
 ## View Menu
 
 menu-view-charset =
-    .label = Codare de text
+    .label = Codare text
     .accesskey = c
