@@ -178,7 +178,7 @@
 
 <!ENTITY calendar.context.attendance.menu.label                 "Participare">
 <!ENTITY calendar.context.attendance.menu.accesskey             "P">
-<!ENTITY calendar.context.attendance.occurrence.label           "Această ocurență">
+<!ENTITY calendar.context.attendance.occurrence.label           "Această apariție">
 <!ENTITY calendar.context.attendance.all2.label                 "Serii complete">
 <!ENTITY calendar.context.attendance.send.label                 "Trimite o notificare acum">
 <!ENTITY calendar.context.attendance.send.accesskey             "S">

@@ -29,7 +29,7 @@
 <!ENTITY buttons.create.label "Creează calendar">
 <!ENTITY buttons.create.accesskey "r">
 
-<!ENTITY buttons.find.label "Găsește calendare">
+<!ENTITY buttons.find.label "Caută calendare">
 <!ENTITY buttons.find.accesskey "G">
 
 <!ENTITY buttons.back.label "Înapoi">
