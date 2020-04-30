@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "Ai ales să deschizi:">
 <!ENTITY  from.label                  "De la:">
-<!ENTITY  actionQuestion.label        "Ce ar trebui &brandShortName; să facă cu acest fișier?">
+<!ENTITY  actionQuestion.label        "Ce să facă &brandShortName; cu acest fișier?">
 
 <!ENTITY  openWith.label              "Deschide cu">
 <!ENTITY  openWith.accesskey          "O">
