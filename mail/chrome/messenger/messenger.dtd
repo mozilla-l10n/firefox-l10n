@@ -626,9 +626,9 @@
 <!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Ignoră avertismentul pentru acest mesaj">
 <!ENTITY phishingOptionIgnore.accesskey "n">
-<!ENTITY phishingOptionSettings.label "Editează opțiunile de detectare a înșelăciunii prin e-mail…">
+<!ENTITY phishingOptionSettings.label "Editează opțiunile de detectare a tentativelor de înșelăciune prin e-mail…">
 <!ENTITY phishingOptionSettings.accesskey "d">
-<!ENTITY phishingOptionSettingsUnix.label "Editează preferințele pentru detectarea înșelăciunii prin e-mail…">
+<!ENTITY phishingOptionSettingsUnix.label "Editează preferințele pentru detectarea tentativelor de înșelăciune prin e-mail…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "d">
 
 <!-- AppMenu Popup -->
