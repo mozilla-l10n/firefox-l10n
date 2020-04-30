@@ -18,7 +18,7 @@ findbar-highlight-all2 =
             [macos] I
            *[other] I
         }
-    .tooltiptext = Istakni sva ponavljanja fraze
+    .tooltiptext = Istakni sva ponavljanja traženog izraza
 findbar-case-sensitive =
     .label = Razlikovanje velikih i malih slova
     .accesskey = j
