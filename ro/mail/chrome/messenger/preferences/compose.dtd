@@ -26,7 +26,7 @@
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Culoare fundal:">
 <!ENTITY bgColor.accesskey                    "C">
-<!ENTITY restoreHTMLDefaults.label            "Restaurează valorile implicite">
+<!ENTITY restoreHTMLDefaults.label            "Revenire la valorile implicite">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 <!ENTITY defaultToParagraph.label             "Folosește implicit formatarea „Paragraf” în loc de „Corp text”">
 <!ENTITY defaultToParagraph.accesskey         "P">
