@@ -222,3 +222,7 @@ popup-select-microphone =
     .value = Microfono da condividere:
     .accesskey = M
 popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
+
+## DevTools F12 popup
+
+enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
