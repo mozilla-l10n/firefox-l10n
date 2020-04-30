@@ -88,15 +88,8 @@
 <!ENTITY reorderAttachmentsCmd.label "Rearanjează atașamentele…">
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
-<!ENTITY toggleAttachmentPaneCmd.label "Panoul atașamentelor">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
+<!ENTITY toggleAttachmentPaneCmd.label "Panou de atașamente">
 <!ENTITY toggleAttachmentPaneCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Selectează tot">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -287,8 +280,8 @@
      buttons, or labels (message headers, contacts side bar, attachment reminder
      bar). -->
 <!ENTITY attachments.accesskey "A">
-<!ENTITY attachmentBucketHeader.tooltip "Panoul atașamentelor">
-<!ENTITY attachmentBucketCloseButton.tooltip "Ascunde panoul atașamentelor">
+<!ENTITY attachmentBucketHeader.tooltip "Panou de atașamente">
+<!ENTITY attachmentBucketCloseButton.tooltip "Ascunde panoul de atașamente">
 
 <!-- Format Toolbar, imported from editorAppShell.xhtml -->
 <!ENTITY SmileButton.tooltip "Inserează un chip zâmbitor">

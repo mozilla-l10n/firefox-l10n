@@ -17,7 +17,7 @@
 <!ENTITY menu_securityEncryptRequire2.label "Necesită criptare">
 <!ENTITY menu_securityEncryptRequire.accesskey "C">
 
-<!ENTITY menu_securitySign.label "Semnează digital acest mesaj">
+<!ENTITY menu_securitySign.label "Semnează digital mesajul">
 <!ENTITY menu_securitySign.accesskey "m">
 
 <!ENTITY menu_securityAttachMyKey.label "Atașează cheia mea publică">

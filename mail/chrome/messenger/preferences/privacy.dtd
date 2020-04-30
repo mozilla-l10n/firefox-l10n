@@ -5,7 +5,7 @@
 <!-- Mail Content -->
 <!ENTITY captionMailContent.label "Conținutul mesajelor">
 
-<!ENTITY acceptRemoteContent.label "Permite conținutul de la distanță în mesaje">
+<!ENTITY acceptRemoteContent.label "Permite conținuturi de la distanță în mesaje">
 <!ENTITY acceptRemoteContent.accesskey "m">
 <!ENTITY remoteContentExceptions.label "Excepții…">
 <!ENTITY remoteContentExceptions.accesskey "x">
@@ -14,7 +14,7 @@
 <!-- Web Content -->
 <!ENTITY captionWebContent.label "Conținut web">
 
-<!ENTITY keepHistory.label "Reține site-urile și linkurile pe care le-am vizitat">
+<!ENTITY keepHistory.label "Reține site-urile și linkurile vizitate">
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Acceptă cookie-uri de la site-uri">
 <!ENTITY acceptCookies.accesskey "c">
@@ -26,14 +26,14 @@
 <!ENTITY keepUntil.label "Păstrează-le până când:">
 <!ENTITY keepUntil.accesskey "K">
 <!ENTITY expire.label "expiră">
-<!ENTITY close.label "închid &brandShortName;">
+<!ENTITY close.label "Închid &brandShortName;">
 <!ENTITY askEachTime.label "întreabă de fiecare dată">
 <!ENTITY cookieExceptions.label "Excepții…">
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Afișează cookie-urile…">
 <!ENTITY showCookies.accesskey "S">
 
-<!ENTITY dntTrackingNotOkay.label2 "Informează site-urile web că nu vreau să fiu urmărit">
+<!ENTITY dntTrackingNotOkay.label2 "Informează site-urile că nu vreau să fiu urmărit(ă)">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
 <!ENTITY doNotTrackInfo.label "Află mai multe despre Nu mă urmări">
 

@@ -4,7 +4,7 @@
 
 <!ENTITY  generalTab.label            "General">
 
-<!ENTITY  startupAction.label         "Când &brandShortName; pornește:">
+<!ENTITY  startupAction.label         "La deschiderea &brandShortName;:">
 <!ENTITY  startupAction.accesskey     "p">
 <!ENTITY  startupOffline.label        "Păstrează-mi conturile de chat deconectate">
 <!ENTITY  startupConnectAuto.label    "Conectează-mă automat la conturile de chat">
@@ -15,7 +15,7 @@ displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-<!ENTITY  reportIdleAfter.label         "Permite contactelor să știe când sunt inactiv după">
+<!ENTITY  reportIdleAfter.label         "Permite contactelor să știe când sunt inactiv(ă) după">
 <!ENTITY  reportIdleAfter.accesskey     "P">
 <!ENTITY  idleTime                      "minute de inactivitate">
 
@@ -25,13 +25,13 @@ sentence. -->
 <!ENTITY  sendTyping.label              "Trimite notificări de tastare în conversații">
 <!ENTITY  sendTyping.accesskey          "t">
 
-<!ENTITY  chatNotifications.label             "Când mesajele direcționate spre tine ajung:">
+<!ENTITY  chatNotifications.label             "La sosirea mesajelor care îți sunt adresate:">
 <!ENTITY  desktopChatNotifications.label      "Afișează o notificare:">
 <!ENTITY  desktopChatNotifications.accesskey  "c">
 <!ENTITY  completeNotification.label          "cu numele expeditorului și previzualizarea mesajului">
 <!ENTITY  buddyInfoOnly.label                 "doar cu numele expeditorului">
 <!ENTITY  dummyNotification.label             "fără nicio informație">
-<!ENTITY  getAttention.label                  "Pâlpâie elementul de pe bara de activități">
+<!ENTITY  getAttention.label                  "Pâlpâie în bara de activități">
 <!ENTITY  getAttention.accesskey              "I">
 <!ENTITY  getAttentionMac.label               "Animează pictograma de andocare">
 <!ENTITY  getAttentionMac.accesskey           "o">
@@ -39,14 +39,14 @@ sentence. -->
 <!ENTITY  chatSound.label                     "Redă un sunet">
 <!ENTITY  play.label                          "Redă">
 <!ENTITY  play.accesskey                      "R">
-<!ENTITY  systemSound.label                   "Sunetul de sistem implicit pentru mesaj nou">
+<!ENTITY  systemSound.label                   "Sunet de sistem implicit pentru mesaje noi">
 <!ENTITY  systemSound.accesskey               "S">
 <!ENTITY  customsound.label                   "Folosește următorul fișier de sunet">
 <!ENTITY  customsound.accesskey               "U">
 <!ENTITY  browse.label                        "Răsfoiește…">
 <!ENTITY  browse.accesskey                    "f">
 
-<!ENTITY messageStyleTab.title             "Stilurile mesajului">
+<!ENTITY messageStyleTab.title             "Stiluri de mesaje">
 <!ENTITY messageStylePreview.label         "Previzualizare:">
 <!ENTITY messageStyleTheme.label           "Temă:">
 <!ENTITY messageStyleTheme.accesskey       "T">

@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE askSendFormat.dtd UI for dialog that asks the user, which format to use for sending a message -->
 <!ENTITY windowTitle.label "Întrebare e-mail HTML">
 
-<!ENTITY recipient.label "O parte dintre destinatari nu sunt marcați ca fiind capabili de a primi e-mailuri HTML.">
+<!ENTITY recipient.label "O parte dintre destinatari nu sunt marcați ca putând să primească mesaje HTML.">
 
 <!ENTITY question.label "Vrei să convertești mesajul în format text sau să îl trimiți în format HTML?">
 
