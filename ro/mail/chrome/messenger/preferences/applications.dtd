@@ -30,11 +30,7 @@
 <!ENTITY addCloudFileAccount.description  "Adaugă un serviciu nou de stocare Filelink">
 <!ENTITY removeCloudFileAccount.label     "Elimină">
 <!ENTITY removeCloudFileAccount.accesskey "r">
-<!ENTITY authRequired.description         "Autorizația ta este necesară pentru a vedea setările pentru acest serviciu de stocare.">
-<!ENTITY authRequired.button.label        "Autorizați">
-<!ENTITY authRequired.button.accesskey    "A">
-
-<!ENTITY findCloudFileProviders.label     "Găsește mai mulți furnizori…">
+<!ENTITY findCloudFileProviders.label     "Caută mai mulți furnizori…">
 
 <!ENTITY enableCloudFileAccountOffer.label "Oferă partajarea fișierelor mai mari decât">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
