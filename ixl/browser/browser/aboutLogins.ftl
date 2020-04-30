@@ -2,12 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-about-logins-page-title = Ixe't aq'on as iku' texhla uva' axh kuxh ootzin tetz
+about-logins-page-title = Ixe't aq'on as Iku' texhla uva' axh kuxh ootzin tetz
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Eq'on chit u texhlal kach'ub'  tetze'  see' katil  kuxhtu'
-login-app-promo-subtitle = Eq'o ku'tzan u aplicación as oy kuxhtu' { -lockwise-brand-name }
+login-app-promo-title = Eq'on chit kach'ub' jajb'al tetze' katilaj kuxhtu'
+login-app-promo-subtitle = Eq'o ku'tzan u aplicación as oy kuxhtu'{ -lockwise-brand-name }
 login-app-promo-android =
     .alt = Eq'oku'tzan tu Google Play
 login-app-promo-apple =
@@ -24,6 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Jaj u tachul tatine'
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Eq'o ku'tzan tu uma'l jajb'al tetz u aq'one'
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Unka'te
@@ -44,6 +46,8 @@ login-list-count =
     }
 login-list-sort-label-text = Nuk'el ta'n:
 login-list-name-option = B'ii (A-Z)
+login-list-name-reverse-option = B'ii (Z-A)
+about-logins-login-list-alerts-option = Aqb'al nachb'al
 login-list-last-changed-option = Itzojpeb'al ve't ib'anax tuche'
 login-list-last-used-option = A'e' a'nnal kuxh ib'anb'ele'
 login-list-intro-title = Ye'laj xe'teb'al aq'on ati
@@ -55,6 +59,8 @@ login-list-item-subtitle-new-login = A'qku' unq'a texhlale' ti' axe't aq'onvoj
 login-list-item-subtitle-missing-username = (Ye'l ib'ii u b'anb'en tetze')
 about-logins-list-item-breach-icon =
     .title = Atinb'al uva' kat kuxh okeb'eli
+about-logins-list-item-vulnerable-password-icon =
+    .title = Aq'b'al texhla uva' la lejpi
 
 ## Introduction screen
 
