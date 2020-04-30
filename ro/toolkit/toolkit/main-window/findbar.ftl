@@ -6,9 +6,9 @@
 ### This file contains the entities needed to use the Find Bar.
 
 findbar-next =
-    .tooltiptext = Găsește apariția următoare a textului
+    .tooltiptext = Mergi la apariția următoare a textului
 findbar-previous =
-    .tooltiptext = Găsește apariția anterioară a textului
+    .tooltiptext = Caută apariția anterioară a textului
 findbar-find-button-close =
     .tooltiptext = Închide bara de căutare
 findbar-highlight-all2 =

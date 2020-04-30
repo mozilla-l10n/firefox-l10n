@@ -360,7 +360,7 @@ install-theme-button = Instalează tema
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Gestionează
-find-more-addons = Găsește mai multe suplimente
+find-more-addons = Caută mai multe suplimente
 # This is a label for the button to open the "more options" menu, it is only
 # used for screen readers.
 addon-options-button =
@@ -481,8 +481,8 @@ locale-heading = Gestionează limbile
 updates-heading = Gestionează-ți actualizările
 discover-heading = Personalizează { -brand-short-name }
 shortcuts-heading = Gestionează comenzile rapide ale extensiilor
-theme-heading-search-label = Găsește mai multe teme
-extension-heading-search-label = Găsește mai multe extensii
+theme-heading-search-label = Caută mai multe teme
+extension-heading-search-label = Caută mai multe extensii
 default-heading-search-label = Caută mai multe suplimente
 addons-heading-search-input =
     .placeholder = Caută pe addons.mozilla.org
