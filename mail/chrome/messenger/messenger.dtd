@@ -53,7 +53,7 @@
 <!ENTITY saveAsFileCmd.key "S">
 <!ENTITY saveAsTemplateCmd.label "Șablon">
 <!ENTITY saveAsTemplateCmd.accesskey "l">
-<!ENTITY getNewMsgForCmd.label "Obține mesajele noi pentru">
+<!ENTITY getNewMsgForCmd.label "Descarcă mesajele noi pentru">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Toate conturile">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
@@ -82,9 +82,9 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd2.label "Setări pentru lucrul offline">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
-<!ENTITY downloadSelectedCmd.label "Obține mesajele selectate">
+<!ENTITY downloadSelectedCmd.label "Descarcă mesajele selectate">
 <!ENTITY downloadSelectedCmd.accesskey "l">
-<!ENTITY downloadStarredCmd.label "Obține mesajele cu steluță">
+<!ENTITY downloadStarredCmd.label "Descarcă mesajele cu steluță">
 <!ENTITY downloadStarredCmd.accesskey "A">
 <!ENTITY printCmd.label "Tipărește…">
 <!ENTITY printCmd.accesskey "p">
@@ -475,7 +475,7 @@
 <!ENTITY addonPrefsUnix.label "Preferințe suplimente">
 <!ENTITY addonPrefsUnix.accesskey "P">
 <!ENTITY addonNoPrefs.label "Nu au fost găsite setările de supliment.">
-<!ENTITY activitymanager.label "Manager de activitate">
+<!ENTITY activitymanager.label "Manager de activități">
 <!ENTITY activitymanager.accesskey "a">
 <!ENTITY imAccountsStatus.label "Stare chat">
 <!ENTITY imAccountsStatus.accesskey "S">
@@ -538,7 +538,7 @@
 <!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
-<!ENTITY getMsgButton1.label "Obține mesajele">
+<!ENTITY getMsgButton1.label "Descarcă mesajele">
 <!ENTITY newMsgButton.label "Scrie">
 <!ENTITY replyButton.label "Răspunde">
 <!ENTITY replyAllButton.label "Răspunde tuturor">
@@ -642,7 +642,7 @@
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Etichetă nouă…">
 <!ENTITY addNewTag.accesskey "n">
-<!ENTITY manageTags.label "Gestionează etichete…">
+<!ENTITY manageTags.label "Gestionează etichetele…">
 <!ENTITY manageTags.accesskey "M">
 
 <!-- Folder Pane -->
@@ -652,7 +652,7 @@
 <!ENTITY folderSizeColumn.label "Mărime">
 
 <!-- Folder Pane Context Menu -->
-<!ENTITY folderContextGetMessages.label "Obține mesajele">
+<!ENTITY folderContextGetMessages.label "Descarcă mesajele">
 <!ENTITY folderContextGetMessages.accesskey "A">
 <!ENTITY folderContextMarkAllFoldersRead.label "Marchează toate dosarele ca fiind citite">
 <!ENTITY folderContextPauseAllUpdates.label "Pune pe pauză toate actualizările">
