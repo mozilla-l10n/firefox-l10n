@@ -43,7 +43,7 @@ features-visual-editing-desc = Reglează la cel mai mic detaliu animațiile, ali
 features-performance-title = Performanță
 features-performance-desc = Elimină problemele de performanță, eficientizează procesele și optimizează resursele. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-memory-title = Memorie
-features-memory-desc = Găsește scurgerile de memorie și fă-ți aplicația mai rapidă. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-memory-desc = Identifică pierderile de memorie și fă-ți aplicația mai rapidă. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 # Variables:
 #   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
 newsletter-error-common = A eșuat solicitarea de abonare ({ $errorDescription }).
