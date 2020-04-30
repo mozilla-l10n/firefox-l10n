@@ -174,7 +174,7 @@
 <!ENTITY dsnMenu.accesskey "N">
 <!ENTITY deliveryFormatMenu.label "Format de trimitere">
 <!ENTITY deliveryFormatMenu.accesskey "F">
-<!ENTITY autoFormatCmd.label "Autodetecție">
+<!ENTITY autoFormatCmd.label "Detectare automată">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Doar text">
 <!ENTITY plainTextFormatCmd.accesskey "x">

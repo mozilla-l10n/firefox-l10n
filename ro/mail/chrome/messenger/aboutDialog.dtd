@@ -39,7 +39,7 @@
 
 <!ENTITY helpus.start               "Vrei să ajuți? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
-<!ENTITY helpus.donateLink          "Fă o donație">
+<!ENTITY helpus.donateLink          "Donează">
 <!ENTITY helpus.middle              " sau ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to https://www.thunderbird.net/get-involved/. -->
 <!ENTITY helpus.getInvolvedLink     "implică-te!">
