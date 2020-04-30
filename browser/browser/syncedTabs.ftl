@@ -40,5 +40,5 @@ synced-tabs-context-manage-devices =
 synced-tabs-context-sync-now =
     .label = Sinkroniziraj sada
     .accesskey = S
-fxa-sign-in = Prijavite se u { -sync-brand-short-name }
+fxa-sign-in = Prijavi se na { -sync-brand-short-name }
 turn-on-sync = Uključi { -sync-brand-short-name }

@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
 
-<!ENTITY fxaSignIn.label "Prijavite se u &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Prijavi se na &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Otvori &syncBrand.shortName.label; postavke">
 <!ENTITY fxaSignInError.label "Ponovno povezivanje na &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Potvrdi tvoj račun">
@@ -353,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "d">
 <!ENTITY manageUserContext.label          "Upravljaj kontejnerima">
 <!ENTITY manageUserContext.accesskey      "s">
+
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -445,7 +446,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavi se za prikaz kartica s tvojih ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Pogledaj popis kartica s tvojih ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tvoj račun mora biti potvrđen.">
-<!ENTITY appMenuRemoteTabs.signin.label "Prijavite se u Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Prijavi se na sinkornizaciju">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Prijavi se na &syncBrand.shortName.label; …">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "Uključi &syncBrand.shortName.label; …">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Upravljaj uređajima …">
@@ -939,7 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Prijavite se u &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Prijavi se na &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinkroniziraj sada">
 <!ENTITY syncSyncNowItemSyncing.label "Sinkroniziranje…">
@@ -987,7 +988,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Prijavi problem">
 <!ENTITY contentBlocking.breakageReportView.label "Prijavi probleme">
-<!ENTITY contentBlocking.breakageReportView2.description "Blokiranje sadržaja može uzrokovati probleme s nekim web stranicama. Kada prijavite probleme, pomoći ćete unaprijediti &brandShortName; za sve korisnike. (Poslati ćete URL stranice, kao i informacije o postavkama preglednika Mozilli.)">
+<!ENTITY contentBlocking.breakageReportView2.description "Blokiranje sadržaja može uzrokovati probleme s nekim web stranicama. Tvojom prijavom problema, pomažeš unaprijediti &brandShortName; za sve korisnike. (Mozilli će se poslati URL stranice, kao i podaci o postavkama preglednika.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Saznaj više">
 
 <!ENTITY contentBlocking.breakageReportView.title "Prijavi neispravnu web stranicu">
@@ -1023,6 +1024,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Zatvori">
 
