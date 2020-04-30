@@ -83,7 +83,7 @@
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Setări…">
 <!ENTITY showSettings.accesskey        "S">
-<!ENTITY proxiesConfigure.label        "Configurează modul în care &brandShortName; se conectează la internet">
+<!ENTITY proxiesConfigure.label        "Configurează cum se conectează &brandShortName; la Internet">
 <!ENTITY connectionsInfo.caption       "Conexiune">
 <!ENTITY offlineInfo.caption           "Offline">
 <!ENTITY offlineInfo.label             "Configurează setările pentru modul offline">
@@ -91,7 +91,7 @@
 <!ENTITY showOffline.accesskey         "O">
 
 <!ENTITY Diskspace                       "Spațiu pe disc">
-<!ENTITY offlineCompactFolders.label     "Compactează toate dosarele pentru a salva peste">
+<!ENTITY offlineCompactFolders.label     "Compactează toate dosarele și salvează peste">
 <!ENTITY offlineCompactFolders.accesskey "C">
 <!ENTITY offlineCompactFoldersMB.label   "MB în total">
 
