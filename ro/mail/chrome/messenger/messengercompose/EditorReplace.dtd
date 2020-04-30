@@ -15,7 +15,7 @@
 <!ENTITY wrapCheckbox.accesskey "p">
 <!ENTITY backwardsCheckbox.label "Caută înapoi">
 <!ENTITY backwardsCheckbox.accesskey "a">
-<!ENTITY findNextButton.label "Caută următorul">
+<!ENTITY findNextButton.label "Mergi la rezultatul următor">
 <!ENTITY findNextButton.accesskey "G">
 <!ENTITY replaceButton.label "Înlocuiește">
 <!ENTITY replaceButton.accesskey "o">
