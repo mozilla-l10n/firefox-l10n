@@ -375,7 +375,7 @@
 <!ENTITY event.freebusy.suggest.slot            "Sugerează interval orar:">
 <!ENTITY event.freebusy.button.next.slot        "Intervalul următor">
 <!ENTITY event.freebusy.button.previous.slot    "Interval anterior">
-<!ENTITY event.freebusy.zoom                    "Zoom:">
+<!ENTITY event.freebusy.zoom                    "Focalizare:">
 <!ENTITY event.freebusy.legend.free             "Liber" >
 <!ENTITY event.freebusy.legend.busy             "Ocupat" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Provizoriu" >
