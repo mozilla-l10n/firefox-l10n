@@ -568,8 +568,8 @@ search-find-more-link = Procurar mais mecanismos de pesquisa
 search-keyword-warning-title = Atalho duplicado
 # Variables:
 #   $name (String) - Name of a search engine.
-search-keyword-warning-engine = A palavra-chave escolhida já é usada por “{ $name }”. Selecione outra.
-search-keyword-warning-bookmark = A palavra-chave escolhida já é usada por um favorito. Selecione outra.
+search-keyword-warning-engine = Este atalho já está sendo usado para o “{ $name }”. Escolha outro.
+search-keyword-warning-bookmark = Este atalho já está sendo usado em um favorito. Escolha outro.
 
 ## Containers Section
 

@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Código-fonte da página">
 <!ENTITY pageSourceCmd.accesskey "f">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Informações da página">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Depurador de layout">
 <!ENTITY ldbCmd.accesskey "L">
@@ -127,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Reconectar ao &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verificar sua conta">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizar">
 <!ENTITY fullScreenRestore.tooltip "Restaurar">
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Favoritos">
 <!ENTITY bookmarksMenu.accesskey "v">
-
 <!ENTITY bookmarkThisPageCmd.label "Adicionar página aos favoritos">
 <!ENTITY editThisBookmarkCmd.label "Editar este favorito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,7 +238,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.accesskey            "P">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Abrir a página">
@@ -296,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
 
+
 <!ENTITY searchItem.title             "Pesquisar">
 
 <!-- Toolbar items -->
@@ -330,7 +324,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Ferramentas">
 <!ENTITY toolsMenu.accesskey          "F">
 
-<!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
+<!ENTITY keywordfield.label           "Adicionar um atalho para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "r">
 
 <!ENTITY downloads.label              "Downloads">
@@ -359,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.label          "Gerenciar contêineres">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Nova janela">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "j">
@@ -418,7 +413,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
@@ -599,7 +593,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "Mostrar só este frame">
 <!ENTITY showOnlyThisFrameCmd.accesskey "x">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Recarregar frame">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -651,7 +644,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "v">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Salvar frame como…">
 <!ENTITY saveFrameCmd.accesskey       "l">
@@ -755,20 +747,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Ampliar">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "A">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Reduzir">
 <!ENTITY fullZoomReduceCmd.accesskey    "R">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Redefinir">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -792,7 +781,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Fechar">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "F">
 
@@ -818,7 +806,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "e">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Alterar direção do texto">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "A">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Procurar nesta página…">
@@ -848,19 +835,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Conexão">
 <!ENTITY identity.connectionSecure "Conexão segura">
 <!ENTITY identity.connectionNotSecure "Conexão não é segura">
-
-<!ENTITY identity.connectionSecure3 "Conexão segura">
-<!ENTITY identity.connectionNotSecure2 "Conexão insegura">
-<!ENTITY identity.connectionNotSecureSecurityView "Você não está conectado com segurança a este site.">
 <!ENTITY identity.connectionFile "Esta página está armazenada no seu computador.">
 <!ENTITY identity.connectionVerified2 "Você está conectado com segurança a este site, administrado por:">
-<!ENTITY identity.connectionVerified3 "Você está conectado com segurança a este site.">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
 <!ENTITY identity.extensionPage "Esta página é carregada a partir de uma extensão.">
 <!ENTITY identity.insecureLoginForms2 "As contas de acesso inseridas nesta página podem ser comprometidas.">
 <!ENTITY identity.customRoot "Conexão homologada por uma entidade certificadora que não é reconhecida pela Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Certificado emitido para:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "O &brandShortName; bloqueou partes não seguras desta página.">
@@ -895,8 +875,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Limpar os cookies e dados do site…">
 
 <!ENTITY identity.permissions "Permissões">
-
-<!ENTITY identity.permissions3 "Permissões">
 <!ENTITY identity.permissionsEmpty "Você não concedeu permissões especiais a este site.">
 <!ENTITY identity.permissionsReloadHint "Pode ser necessário recarregar a página para que as alterações sejam aplicadas.">
 <!ENTITY identity.permissionsPreferences.tooltip "Abrir preferências de permissões">
@@ -1046,6 +1024,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Fechar">
 
