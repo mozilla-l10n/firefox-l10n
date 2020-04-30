@@ -29,7 +29,7 @@
 <!ENTITY helpSafeMode.stop.label       "Repornește cu suplimentele activate">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY helpTroubleshootingInfo.label      "Informații de depanare">
+<!ENTITY helpTroubleshootingInfo.label      "Informații pentru depanare">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "Trimite feedback…">

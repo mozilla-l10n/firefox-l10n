@@ -10,5 +10,5 @@ refresh-profile-description = Începe un profil proaspăt pentru a remedia probl
 refresh-profile-description-details = Acest lucru:
 refresh-profile-remove = Va elimina suplimentele și personalizările tale
 refresh-profile-restore = Va restabili setările browserului la valorile implicite
-refresh-profile = Oferă-i lui { -brand-short-name } o revigorare
+refresh-profile = Revigorează { -brand-short-name }
 refresh-profile-button = Reîmprospătează { -brand-short-name }…
