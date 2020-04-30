@@ -70,11 +70,13 @@ login-intro-description = Kat ikol unq'a xe'tisab' aq'one' tu { -brand-product-n
 login-intro-instruction-fxa = Axh la b'anon moj la uch axe't tzitza' { -fxaccount-brand-name } tu vach'ich'e' uve' kolel kat kan ixe't aq'on s-a'n
 login-intro-instruction-fxa-settings = Il chit ti jikil ti' atxaat kan unq'a texhlale' tu vee' uve' ni b'anax kat tuche' { -sync-brand-short-name }
 about-logins-intro-instruction-help = La saji<a data-l10n-name="help-link">{ -lockwise-brand-short-name } lochb'al tetz </a> aq'al uva' la lej ka't lochb'al
+about-logins-intro-import = Asoj kolel kan ixe't unq'a aaq'one' tu uma't chukb'al tetz, la ib'ane' <a data-l10n-name="import-link"> la eeq'o kutzan tzitza' { -lockwise-brand-short-name }</a>
 
 ## Login
 
 login-item-new-login-title = Xe't'sa uma't ak' ixe't aq'on
 login-item-edit-button = B'an tuche'
+about-logins-login-item-remove-button = Sojsa
 login-item-origin-label = Tatinb'al web
 login-item-origin =
     .placeholder = https://www.example.com
@@ -84,6 +86,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Eesa ivatz
 login-item-copied-username-button-text = Eesamal ve't ivatz
 login-item-password-label = Texhlal kach'ub' tetz uva' axh kuxh ootzin tetz
+login-item-password-reveal-checkbox =
+    .aria-label = K'uch u texhlal kach'ub' tetze'
 login-item-copy-password-button-text = Eesa ivatz
 login-item-copied-password-button-text = Eesamal ve't ivatz
 login-item-save-changes-button = K'ol unq'a vee' b'anel tu ve't a'n
@@ -95,11 +99,27 @@ login-item-time-used = Imoxtel ib'anb'ele':{ DATETIME($timeUsed, day: "numeric",
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Pich'u kam tatine' aq'al uva' la b'an tuch axe't aq'onvoj uve' kolel s-a'n.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = B'an tuch axe't aq'onvoj uve' kolel kam s-a'n
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Pich'u tatine' aq'al uva' la ik'uch u kach'ub' tetze' uve' kolel kan s-a'n
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = K'uch u kach'ub' tetze' uve' kolel kan s-a'n
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Pich'u u tatine' aq'al uva' la eesa ivatz u kachub' tetze' uve' kolel kan s-a'n
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub' tetze' uve' kolel kan s-a'n
 
 ## Master Password notification
 
@@ -122,12 +142,16 @@ enable-password-sync-preferences-button =
            *[other] Ila' ab'iste chit nasa' { -sync-brand-short-name }
         }
     .accesskey = I
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Ye'xh kam la ch'otil unpajte
+    .accesskey = Y
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Ya'sakan
 confirmation-dialog-dismiss-button =
     .title = Ya'sakan
+about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' tzitza'?
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
 confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
