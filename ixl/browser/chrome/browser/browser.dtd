@@ -66,6 +66,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY fullScreenMinimize.tooltip "Ch'oob'isamal">
 <!ENTITY fullScreenClose.tooltip "Jupa">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
@@ -117,6 +118,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY stopCmd.label                "Maja">
 
 <!ENTITY printButton.label            "Tel ch'u'l vatz u'uj">
 
@@ -148,8 +150,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.accesskey          "T">
 
 
+<!ENTITY downloads.label              "Eq'omal ku'tzan">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Eq'omal ku'tzan">
 <!ENTITY addons.label                 "Tz'ajsab' tetz">
 
 

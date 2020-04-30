@@ -5,10 +5,13 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
+<!ENTITY retry.label "Kapu unpajte">
 
 <!-- Specific error messages -->
 
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
 
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
@@ -18,7 +21,11 @@
 
 
 
+
+
+
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+
 
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
@@ -26,9 +33,22 @@
 
 
 
+
+
+
+
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+
+
+
+
+
+
 
 
 
@@ -49,15 +69,25 @@ was trying to connect. -->
 
 
 
+
+
+
 <!ENTITY errorReporting.learnMore "Ootzi ka'te…">
+
+
 
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
 
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+
+
+
 
 
 

@@ -16,6 +16,7 @@ abuse-report-cancel-button = Ya'sakan
 
 ## Message bars actions.
 
+abuse-report-messagebar-action-retry = B'an unpajte
 abuse-report-messagebar-action-cancel = Ya'sakan
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)

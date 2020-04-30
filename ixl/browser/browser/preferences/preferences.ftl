@@ -65,7 +65,7 @@ confirm-browser-language-change-button = B'anb'e as a xe'tisa
 
 ## General Section - Files and Applications
 
-download-header = Omal kutzan kam
+download-header = Eq'omal ku'tzan
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } kolb'al aaq'on
@@ -305,3 +305,4 @@ space-alert-learn-more-button =
 
 ## The following strings are used in the Download section of settings
 
+downloads-folder-name = Eq'omal ku'tzan

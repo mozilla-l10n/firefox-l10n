@@ -6,6 +6,10 @@
 ## The title and aria-label attributes are used by screen readers to describe
 ## the Downloads Panel.
 
+downloads-window =
+    .title = Eq'omal ku'tzan
+downloads-panel =
+    .aria-label = Eq'omal ku'tzan
 
 ##
 
@@ -24,3 +28,7 @@ downloads-cmd-cancel =
     .tooltiptext = Ya'sakan
 downloads-cmd-cancel-panel =
     .aria-label = Ya'sakan
+downloads-cmd-retry =
+    .tooltiptext = B'an unpajte
+downloads-cmd-retry-panel =
+    .aria-label = B'an unpajte

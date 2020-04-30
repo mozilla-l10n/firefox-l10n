@@ -21,10 +21,10 @@ onboarding-button-label-get-started = Xe'ten
 onboarding-welcome-header = B'a'n oole' tu { -brand-short-name }
 onboarding-welcome-body = At ve't u xaansab' tetze' saxe'. <br/> ootzi ve't ka'te ti' u { -brand-product-name }.
 onboarding-welcome-learn-more = La ootzi kam chit ka't kam la taq' see.
+onboarding-join-form-header = Oken xo'l u { -brand-product-name }
 onboarding-welcome-modal-get-body = Atve't  u ch'iche'  ta qab', oksa ve't ni txaak.
 onboarding-welcome-modal-supercharge-body = Ooksa iyak'il  unq'a vee ve etzchitu'
 onboarding-welcome-form-header = Xe'ten tzitza
-onboarding-join-form-header = Oken xo'l u { -brand-product-name }
 onboarding-join-form-body = Aq'al uva' la xe't axh, aq'ku' va correo electrónico.
 onboarding-join-form-email =
     .placeholder = Aq'ku' va correo
@@ -36,13 +36,14 @@ onboarding-cards-dismiss =
     .title = Ya'sakan
     .aria-label = Ya'sakan
 
+## Welcome full page string
+
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = La eeq'o  { -brand-product-name } see'
 onboarding-sync-welcome-content = Oken tulaj unq'a aq'b'al texhlale', unq'a vee' chukeltu ve't s-a'n, unq'a kachub' tetze' as ka'taj kam b'anel ve't kan tulaj unq'a ach'ich'e'.
 onboarding-sync-welcome-learn-more-link = La ootzi ka'te' ti' u Firefox Accounts
-onboarding-sync-form-invalid-input = A' chit ni tale' uva' a' chit va correo electrónico la aaq'ku'
-onboarding-sync-legal-notice = Tul uva' la xe't axh, b'a'n kuxh see ti' unq'a vaa' <a data-l10n-name="terms">Kam chit teq'ole'</a> as <a data-l10n-name="privacy">Kam chit yol ti' nimab' tetz</a>.
 onboarding-sync-form-input =
     .placeholder = Va correo electrónico
 onboarding-sync-form-continue-button = Yakeb'en
@@ -90,7 +91,7 @@ onboarding-fxa-title = u Sync
 onboarding-tracking-protection-button2 = Kam ib'anb'ele'
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
-onboarding-mobile-phone-button = Oku'tzan  Mobile Browser
+onboarding-mobile-phone-button = Oku'tzan Mobile Browser
 onboarding-pocket-anywhere-title = Sikle as la ab'i tikat kuxhtu.
 
 ## Message strings belonging to the Return to AMO flow

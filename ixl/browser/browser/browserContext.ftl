@@ -24,6 +24,9 @@ toolbar-button-reload =
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = Maja
+    .accesskey = M
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 

@@ -50,3 +50,5 @@ about-debugging-worker-action-start = Ixe'teb'al
 # Displayed for service workers in runtime pages that are currently running (service
 # worker instance is active).
 about-debugging-worker-status-running = Ile' ni taq'onvu ve'te'
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Majel

@@ -105,6 +105,10 @@ identity-learn-more =
 
 ## Window controls
 
+browser-window-minimize-button =
+    .tooltiptext = Ch'oob'isamal
+browser-window-maximize-button =
+    .tooltiptext = Nimb'isamal
 browser-window-close-button =
     .tooltiptext = Jupa
 

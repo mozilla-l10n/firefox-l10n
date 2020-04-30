@@ -2,6 +2,10 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+window-minimize-command =
+    .label = Ch'oob'isamal
+window-minimize-shortcut =
+    .key = M
 close-shortcut =
     .key = W
 # This shortcut is used in two contexts:
@@ -36,12 +40,21 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+# If in keyboard layouts popular for your locale you need to use the shift key
+# to access the original shortcuts, the following shortcuts can be used.
+# Otherwise their values should remain empty.
+full-zoom-reduce-shortcut-alt =
+    .key = { "" }
 full-zoom-enlarge-shortcut =
     .key = +
 full-zoom-enlarge-shortcut-alt =
     .key = =
+full-zoom-enlarge-shortcut-alt2 =
+    .key = { "" }
 full-zoom-reset-shortcut =
     .key = 0
+full-zoom-reset-shortcut-alt =
+    .key = { "" }
 
 ##
 
