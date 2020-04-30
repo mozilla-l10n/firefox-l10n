@@ -551,11 +551,11 @@ search-show-suggestions-private-windows =
 suggestions-addressbar-settings = Alterar preferências de sugestões de histórico de navegação, favoritos e abas
 search-suggestions-cant-show = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
 search-one-click-header = Mecanismos de pesquisa em um clique
-search-one-click-desc = Escolha os mecanismos de pesquisa alternativos que aparecem abaixo da barra de endereços e da barra de pesquisa quando você começa a digitar uma palavra-chave.
+search-one-click-desc = Escolha os mecanismos de pesquisa alternativos que aparecem abaixo da barra de endereços e da barra de pesquisa quando você começa a digitar um atalho.
 search-choose-engine-column =
     .label = Mecanismo de pesquisa
 search-choose-keyword-column =
-    .label = Palavra-chave
+    .label = Atalho
 search-restore-default =
     .label = Restaurar mecanismos de pesquisa padrão
     .accesskey = p
@@ -565,7 +565,7 @@ search-remove-engine =
 search-find-more-link = Procurar mais mecanismos de pesquisa
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
-search-keyword-warning-title = Palavra-chave duplicada
+search-keyword-warning-title = Atalho duplicado
 # Variables:
 #   $name (String) - Name of a search engine.
 search-keyword-warning-engine = A palavra-chave escolhida já é usada por “{ $name }”. Selecione outra.
