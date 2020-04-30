@@ -562,7 +562,7 @@ search-restore-default =
 search-remove-engine =
     .label = Elimină
     .accesskey = R
-search-find-more-link = Găsește mai multe motoare de căutare
+search-find-more-link = Caută mai multe motoare de căutare
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Cuvânt cheie duplicat
