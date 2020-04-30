@@ -16,7 +16,7 @@ login-filter =
     .placeholder = Caută autentificări
 create-login-button = Creează o autentificare nouă
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
-fxaccounts-sign-in-button = Autentifică-te în { -sync-brand-short-name }
+fxaccounts-sign-in-button = Autentificare în { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Gestionează contul
 
@@ -48,7 +48,6 @@ login-list-count =
 login-list-sort-label-text = Sortează după:
 login-list-name-option = Nume (A-Z)
 login-list-name-reverse-option = Nume (Z-A)
-login-list-breached-option = Site-uri web a căror securitate a fost încălcată
 about-logins-login-list-alerts-option = Alerte
 login-list-last-changed-option = Ultima modificare
 login-list-last-used-option = Ultima utilizare
@@ -164,9 +163,6 @@ confirm-discard-changes-dialog-confirm-button = Înlătură
 
 about-logins-breach-alert-title = Breșă de securitate pe site-ul web
 breach-alert-text = Parolele au fost divulgate sau furate de pe acest site web după ce ți-ai actualizat ultima oară detaliile de autentificare. Schimbă parola ca să îți protejezi contul.
-breach-alert-link = Află mai multe despre această încălcare a securității datelor.
-breach-alert-dismiss =
-    .title = Închide această alertă
 about-logins-breach-alert-date = Această breșă a apărut la data de { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
