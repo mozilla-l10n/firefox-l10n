@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = ¿Sitio arreglado? Enviar reporte
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Estricta
+    .label = Estricta
+protections-popup-footer-protection-label-custom = Personalizada
+    .label = Personalizada
+protections-popup-footer-protection-label-standard = Estándar
+    .label = Estándar
 
 ##
 
