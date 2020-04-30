@@ -30,7 +30,7 @@
 
 <!ENTITY play.label                       "Redă">
 <!ENTITY play.accesskey                   "R">
-<!ENTITY systemsound.label                "Sunetul de sistem implicit pentru mesaj nou">
+<!ENTITY systemsound.label                "Sunet de sistem implicit pentru mesaje noi">
 <!ENTITY systemsound.accesskey            "S">
 <!ENTITY customsound.label                "Folosește următorul fișier de sunet">
 <!ENTITY customsound.accesskey            "U">
