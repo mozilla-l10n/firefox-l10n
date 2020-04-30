@@ -442,7 +442,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Želiš li ovdje vidjeti tvoje kartice s drugih uređaja?">
-<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvori Sync postavke">
+<!ENTITY appMenuRemoteTabs.opensyncprefs.label "Otvori postavke sinkronizacije">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prijavi se za prikaz kartica s tvojih ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Pogledaj popis kartica s tvojih ostalih uređaja.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Tvoj račun mora biti potvrđen.">
@@ -938,7 +938,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Sinkronizirane kartice">
 
-<!ENTITY syncBrand.shortName.label    "Sync">
+<!ENTITY syncBrand.shortName.label    "Sinkronizacija">
 
 <!ENTITY syncSignIn.label             "Prijavi se na &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
@@ -947,7 +947,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "Ponovno povezivanje na &syncBrand.shortName.label;a…">
 <!ENTITY syncReAuthItem.accesskey     "v">
-<!ENTITY syncToolbarButton.label      "Sync">
+<!ENTITY syncToolbarButton.label      "Sinkronizacija">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Automatski sakrij">
 
