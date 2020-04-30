@@ -12,3 +12,4 @@
 #define MOZ_LANGPACK_CONTRIBUTORS <em:contributor>Softcatalà</em:contributor>
 
 #unfilter emptyLines
+
