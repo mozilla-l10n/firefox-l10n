@@ -22,7 +22,7 @@
 <!ENTITY success.title.before "Salut ">
 <!ENTITY success.title.after ", sunt disponibile următoarele adrese de e-mail:">
 <!ENTITY success.tip "(Poți căuta și pseudonime sau orice alt termen pentru a găsi mai multe e-mailuri)">
-<!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; poate să îți ofere un cont nou de e-mail. Completează numele și prenumele sau orice alte cuvinte dorești în câmpul de mai sus pentru a începe.">
+<!ENTITY partnership.description "În parteneriat cu diverși furnizori, &brandShortName; îți poate oferi un cont nou de e-mail. Pentru a începe, completează numele și prenumele sau orice alte cuvinte vrei în câmpul de mai sus.">
 <!ENTITY existing.header "Ai deja o adresă pe care vrei să o folosești?">
 <!ENTITY tinyheader.title "Ai o adresă?">
 <!ENTITY tinyheader.existing "Sări peste și folosește adresa mea de e-mail">
