@@ -153,17 +153,28 @@ confirmation-dialog-dismiss-button =
     .title = Ya'sakan
 about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' tzitza'?
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
+about-logins-confirm-remove-dialog-confirm-button = Sojsa
 confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
 confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
 confirm-discard-changes-dialog-confirm-button = Eesa kan
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Itxaap unq'a atinb'ale' tu web
 breach-alert-text = Jank'al chit unq'a texhlal kach'up tetze' kat elq'al tzitza' tu web  tul uva' kat ab'an tuch va b'iie' tul kat xe't axh aq'onvo. Jalpu u texhlal kach'ub' tetze' uva' axh kuxh ootzin tetz, aq'al uva' ye' la elq'ali.
+about-logins-breach-alert-date = A' unq'a itxaap u web kat pal tzitza' { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = La b'en axh tu { $hostname }
 about-logins-breach-alert-learn-more-link = Ootzi ka'te
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = La lejpu u kach'ub' tetze'
+about-logins-vulnerable-alert-text2 = Kat b'anb'el u kachub' tetze', kamal at uxhchil kat lejon. Asoj la lejpi ni yansa unq'a aaq'one'. Jalpu u kachub' tetze'.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = La b'en axh tu { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Ootzi ka'te
 
 ## Error Messages
