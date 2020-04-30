@@ -36,7 +36,7 @@ features-network-title = Rețea
 features-network-desc = Monitorizează cererile de rețea care îți pot încetini sau bloca site-ul. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Stocare
 features-storage-desc = Adaugă, modifică și elimină cache-ul, cookie-urile, bazele de date și datele sesiunii. <a data-l10n-name="learn-more">{ features-learn-more }</a>
-features-responsive-title = Mod de design adaptiv
+features-responsive-title = Vizualizare adaptivă
 features-responsive-desc = Testează site-uri pe dispozitive emulate în browserul tău. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-visual-editing-title = Editare vizuală
 features-visual-editing-desc = Reglează la cel mai mic detaliu animațiile, aliniamentul și paddingul. <a data-l10n-name="learn-more">{ features-learn-more }</a>
