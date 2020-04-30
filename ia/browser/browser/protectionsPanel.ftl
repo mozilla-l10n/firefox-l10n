@@ -52,7 +52,7 @@ protections-panel-content-blocking-fingerprinters-label = Dactylogrammatores
 
 protections-panel-blocking-label = Blocate
 protections-panel-not-blocking-label = Permittite
-protections-panel-not-found-label = Nulle detection
+protections-panel-not-found-label = Necun detegite
 
 ##
 

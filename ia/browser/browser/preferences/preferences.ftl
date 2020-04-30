@@ -235,7 +235,7 @@ translate-exceptions =
 # Variables: 
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Usar parametros del systema operative pro le formato de datas, tempores, numeros e mensuras in “{ $localeName }”
+    .label = Usar le parametros “{ $localeName }” de tu systema operative pro formatar datas, horas, numeros e mesuras.
 check-user-spelling =
     .label = Verificar le orthographia durante que tu scribe
     .accesskey = t
