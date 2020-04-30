@@ -65,7 +65,7 @@ remove-all =
 remove-all-shown =
     .label = Elimină-le pe toate cele afișate
     .accesskey = A
-remove-all-passwords-prompt = Sigur dorești să elimini toate parolele?
+remove-all-passwords-prompt = Sigur vrei să elimini toate parolele?
 remove-all-passwords-title = Elimină toate parolele
 no-master-password-prompt = Sigur vrei să afișezi parolele?
 
