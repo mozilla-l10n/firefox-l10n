@@ -80,7 +80,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Đảo ngược biểu đồ Flame">
-<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Đảo ngược biểu đồ Flame hiển thị các đường dẫn lệnh gọi được định hình bắt đầu từ các khung nhỏ nhất và mở rộng ra các khung cũ hơn.">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Đảo ngược biểu đồ flame hiển thị các đường dẫn lệnh gọi được định hình bắt đầu từ các khung nhỏ nhất và mở rộng ra các khung cũ hơn.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
