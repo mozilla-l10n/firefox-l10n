@@ -32,3 +32,7 @@ downloads-cmd-retry =
     .tooltiptext = B'an unpajte
 downloads-cmd-retry-panel =
     .aria-label = B'an unpajte
+# Displayed when hovering a download which is able to be retried by users,
+# indicates that it's possible to download this file again.
+downloads-retry-download =
+    .value = B'an unpajte ti' teq'ol ku'tzan
