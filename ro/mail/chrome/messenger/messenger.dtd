@@ -956,7 +956,7 @@
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în prim-plan">
-<!ENTITY zoomWindow.label "Lupă">
+<!ENTITY zoomWindow.label "Focalizare">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Preferințe">

@@ -222,7 +222,7 @@
 <!ENTITY minimizeWindow.key "M">
 <!ENTITY minimizeWindow.label "Minimizează">
 <!ENTITY bringAllToFront.label "Adu-le pe toate în prim-plan">
-<!ENTITY zoomWindow.label "Lupă">
+<!ENTITY zoomWindow.label "Focalizare">
 <!ENTITY windowMenu.label "Fereastră">
 
 <!-- Mail Toolbar -->
