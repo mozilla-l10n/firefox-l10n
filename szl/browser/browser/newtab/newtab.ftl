@@ -82,9 +82,14 @@ newtab-menu-pin = Przipnij
 newtab-menu-unpin = Ôdepnij
 newtab-menu-delete-history = Skasuj z historyje
 newtab-menu-save-to-pocket = Spamiyntej do { -pocket-brand-name }
+newtab-menu-delete-pocket = Skasuj ze { -pocket-brand-name }
+newtab-menu-archive-pocket = Archiwizuj we { -pocket-brand-name }
+newtab-menu-show-privacy-info = Nasze spōnsory a twoja prywatność
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
+newtab-privacy-modal-button-done = Fertich
+newtab-privacy-modal-header = Twoja prywatność je ważno.
 
 ##
 
