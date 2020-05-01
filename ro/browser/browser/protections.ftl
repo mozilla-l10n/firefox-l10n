@@ -91,8 +91,8 @@ lockwise-connected-device-status =
 monitor-title = Fii atent(ă) la breșe de date
 monitor-link = Cum funcționează
 monitor-header-content-no-account = Verifică { -monitor-brand-name } și vezi dacă ai fost implicat(ă) într-o breșă de date cunoscută și pentru a obține alerte despre breșele noi.
-monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă informațiile tale apar într-o încălcare cunoscută a securității datelor.
-monitor-sign-up = Înregistrează-te pentru alerte de breșe de date
+monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă datele tale apar într-o breșă de date cunoscută.
+monitor-sign-up = Înregistrează-te pentru alerte despre breșe de date
 auto-scan = Scanat automat astăzi
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -108,9 +108,9 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] încălcare cunoscută a securității datelor ți-a expus informațiile
-        [few] încălcări cunoscute ale securității datelor ți-au expus informațiile
-       *[other] de încălcări cunoscute ale securității datelor ți-au expus informațiile
+        [one] breșă cunoscută de date ți-a expus informațiile
+        [few] breșe cunoscute de date ți-au expus informațiile
+       *[other] de breșe cunoscute de date ți-au expus informațiile
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
@@ -127,9 +127,9 @@ full-report-link = Vezi raportul complet pe <a data-l10n-name="monitor-inline-li
 # your localization, because it would result in the number showing twice.
 password-warning =
     { $count ->
-        [one] set de date de autentificare salvat este posibil să fi fost expus într-o încălcare a securității datelor. Schimbă această parolă pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
-        [few] seturi de date de autentificare salvate este posibil să fi fost expuse într-o încălcare a securității datelor. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
-       *[other] de seturi de date de autentificare salvate este posibil să fi fost expuse într-o încălcare a securității datelor. Schimbă aceste parole pentru o mai bună securitate online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
+        [one] set de date de autentificare salvat este posibil să fi fost expus într-o breșă de date. Schimbă această parolă pentru o securitate mai bună online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
+        [few] seturi de date de autentificare salvate este posibil să fi fost expuse într-o breșă de date. Schimbă aceste parole pentru o securitate mai bună online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
+       *[other] de seturi de date de autentificare salvate este posibil să fi fost expuse într-o breșă de date. Schimbă aceste parole pentru o securitate mai bună online. <a data-l10n-name="lockwise-link">Vezi datele de autentificare salvate</a>
     }
 
 ## The title attribute is used to display the type of protection.
