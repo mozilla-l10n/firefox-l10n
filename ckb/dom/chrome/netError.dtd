@@ -1,0 +1,48 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY loadError.label "هەڵە لە بارکردنی پەڕە">
+<!ENTITY retry.label "دووبارە هەوڵ بدەرەوە">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "نەتوانرا پەیوەندی بکا">
+
+
+<!ENTITY dnsNotFound.title "ناونیشان نەدۆزرایەوە">
+
+<!ENTITY fileNotFound.title "پەڕگە نەدۆزرایەوە">
+
+<!ENTITY fileAccessDenied.title "چوونەناوی پەڕگە ڕەتکرایەوە">
+
+<!ENTITY generic.title "ناتوانرێت داواکاری تەواو بکرێت">
+
+<!ENTITY malformedURI.title "ناونیشان ڕاست نیە">
+
+<!ENTITY netInterrupt.title "گواستنەوەی زانیارییەکان بچڕا">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY inadequateSecurityError.title "پەیوەندی پارێزراو نیە">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+
+<!ENTITY blockedByPolicy.title "پەڕەی بلۆککراو">
+
