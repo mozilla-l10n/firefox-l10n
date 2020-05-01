@@ -186,7 +186,10 @@ newtab-pocket-read-more = Popularne tymaty:
 newtab-pocket-more-recommendations = Wiyncyj rekōmyndowanych
 newtab-pocket-learn-more = Przewiydz sie wiyncyj
 newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
+newtab-pocket-cta-text = Spamiyntuj we { -pocket-brand-name(case: "loc") } teksty, co ci pasujōm, coby durch mieć co ciekawego do poczytanio.
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
 
+newtab-error-fallback-info = Cosik sie niy podarziło przi wczytowaniu tyj zawartości.
+newtab-error-fallback-refresh-link = Ôdświyż strōna, coby sprōbować jeszcze roz.
