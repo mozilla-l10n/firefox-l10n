@@ -137,10 +137,6 @@ cfr-whatsnew-lockwise-take-link-text = نزّل التطبيق
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = مع شريط العنوان، قلّل الكتابة وخُذ نتائج أكثر
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = ادخل أكثر المواقع التي تستعمل بنقرة واحدة في شريط العنوان. جِد ما تريد بأخذ النتائج من { $searchEngineName } ومن تأريخ التصفح.
-cfr-whatsnew-searchbar-body-generic = ادخل أكثر المواقع التي تستعمل بنقرة واحدة في شريط العنوان. جِد ما تريد من نتائج بحث من تأريخ التصفح.
 cfr-whatsnew-searchbar-body-topsites = ما عليك الآن إلا نقر شريط العنوان وسترى مربّعا فيه روابط تنقلك إلى أكثر المواقع زيارة.
 cfr-whatsnew-searchbar-icon-alt-text = أيقونة المكبّرة
 
@@ -247,6 +243,7 @@ cfr-whatsnew-lockwise-icon-alt = أيقونة { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-body = يعرف المخترقون أن الناس تُعيد استعمال كلمات السر نفسها. فإن استعملت نفس كلمة السر في أكثر من موقع، وتسرّبت بيانات إحداها، فسترى في { -lockwise-brand-short-name } تنبيهًا لتغيير كلمة السر في تلك المواقع التي تستعمل نفس الكلمة.
 
 ## Picture-in-Picture fullscreen message
 

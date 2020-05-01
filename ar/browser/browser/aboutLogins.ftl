@@ -51,7 +51,6 @@ login-list-count =
 login-list-sort-label-text = افرز حسب:
 login-list-name-option = الاسم (ا-ي)
 login-list-name-reverse-option = الاسم (ي-ا)
-login-list-breached-option = المواقع المسرّبة بياناتها
 about-logins-login-list-alerts-option = التنبيهات
 login-list-last-changed-option = آخر تعديل
 login-list-last-used-option = آخر استخدام
@@ -163,10 +162,9 @@ confirm-discard-changes-dialog-confirm-button = أهمِل
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = تسرّبت بيانات موقع
 breach-alert-text = تسرّبت كلمات السر (أو سُرقت) من هذا الموقع مذ حدّثت بيانات ولوجك فيه. غيّر كلمة السر لتحمي حسابك من الاختراق.
-breach-alert-link = اعرف المزيد عن تسرّب البيانات هذا.
-breach-alert-dismiss =
-    .title = أغلِق هذا التنبيه
+about-logins-breach-alert-date = حدث هذا التسرّب بتاريخ { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = انتقل إلى { $hostname }
@@ -174,6 +172,7 @@ about-logins-breach-alert-learn-more-link = اطّلع على المزيد
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-text2 = استعملت كلمة السر هذه في حساب آخر قد يكون تسرّب مع تسرّب بيانات أحد المواقع. بإعادة استعمال هذه المعلومات للولوج أنت تضع حساباتك كلها في خطر. غيّر كلمة السر.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = انتقل إلى { $hostname }
