@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Onko sivusto korjattu? Lähetä ra
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Tiukka
+    .label = Tiukka
+protections-popup-footer-protection-label-custom = Oma
+    .label = Oma
+protections-popup-footer-protection-label-standard = Tavallinen
+    .label = Tavallinen
 
 ##
 

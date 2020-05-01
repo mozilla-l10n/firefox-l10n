@@ -34,6 +34,7 @@ app-basics-title = Ohjelman perustiedot
 app-basics-name = Nimi
 app-basics-version = Versio
 app-basics-build-id = Koosteen tunniste
+app-basics-distribution-id = Jakelutunnus
 app-basics-update-channel = Päivityskanava
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
