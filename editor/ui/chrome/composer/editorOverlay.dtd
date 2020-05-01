@@ -5,7 +5,7 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY saveCmd.key "s">
+<!ENTITY saveCmd.key "S">
 
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Lipește fără formatare">
@@ -19,9 +19,9 @@
 <!ENTITY findBarCmd.label "Caută…">
 <!ENTITY findReplaceCmd.label "Caută și înlocuiește…">
 <!ENTITY enableInlineSpellChecker.label "Corectare ortografică în timpul scrierii">
-<!ENTITY enableInlineSpellChecker.accesskey "s">
+<!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "Verifică ortografia…">
-<!ENTITY checkSpellingCmd2.accesskey "V">
+<!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "o">
 
 <!-- Insert menu items -->
@@ -35,7 +35,7 @@
 <!ENTITY insertImageCmd.label "Imagine…">
 <!ENTITY insertImageCmd.accesskey "I">
 <!ENTITY insertHLineCmd.label "Linie orizontală">
-<!ENTITY insertHLineCmd.accesskey "L">
+<!ENTITY insertHLineCmd.accesskey "o">
 <!ENTITY insertTableCmd.label "Tabel…">
 <!ENTITY insertTableCmd.accesskey "T">
 <!ENTITY insertHTMLCmd.label "HTML…">
@@ -44,11 +44,11 @@
 <!ENTITY insertMathCmd.accesskey "M">
 <!ENTITY insertCharsCmd.label "Caractere și simboluri…">
 <!ENTITY insertCharsCmd.accesskey "C">
-<!ENTITY insertBreakAllCmd.label "Întrerupere sub imagine(i)">
+<!ENTITY insertBreakAllCmd.label "Întrerupe sub imagine(i)">
 <!ENTITY insertBreakAllCmd.accesskey "n">
 
 <!-- Used just in context popup. -->
-<!ENTITY createLinkCmd.label "Creează linkul…">
+<!ENTITY createLinkCmd.label "Creează un link…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "Editează linkul într-o fereastră nouă de Composer">
 <!ENTITY editLinkCmd.accesskey "t">
@@ -60,7 +60,7 @@
 <!ENTITY fontVarWidth.label "Lățime variabilă">
 <!ENTITY fontVarWidth.accesskey "L">
 <!ENTITY fontFixedWidth.label "Lățime fixă">
-<!ENTITY fontFixedWidth.accesskey "L">
+<!ENTITY fontFixedWidth.accesskey "x">
 <!ENTITY fontFixedWidth.key "T">
 <!ENTITY fontHelvetica.label "Helvetica, Arial">
 <!ENTITY fontHelvetica.accesskey "l">
@@ -72,7 +72,7 @@
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Alege o dimensiune pentru font">
 <!ENTITY decreaseFontSize.label "Mai mică">
-<!ENTITY decreaseFontSize.accesskey "M">
+<!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "&lt;">
 <!ENTITY decrementFontSize.key2 ","> <!-- < is above this key on many keyboards -->
 <!ENTITY increaseFontSize.label "Mai mare">
