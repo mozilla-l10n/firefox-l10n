@@ -88,11 +88,11 @@ lockwise-connected-device-status =
         [few] Conectat la { $count } dispozitive
        *[other] Conectat la { $count } de dispozitive
     }
-monitor-title = Stai cu ochii pe încălcările securității datelor
+monitor-title = Fii atent(ă) la breșe de date
 monitor-link = Cum funcționează
-monitor-header-content-no-account = Verifică { -monitor-brand-name } pentru a vedea dacă faci parte dintr-o încălcare cunoscută a securității datelor și pentru a obține alerte despre încălcările noi.
+monitor-header-content-no-account = Verifică { -monitor-brand-name } și vezi dacă ai fost implicat(ă) într-o breșă de date cunoscută și pentru a obține alerte despre breșele noi.
 monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă informațiile tale apar într-o încălcare cunoscută a securității datelor.
-monitor-sign-up = Înregistrează-te pentru alerte privind încălcările securității datelor
+monitor-sign-up = Înregistrează-te pentru alerte de breșe de date
 auto-scan = Scanat automat astăzi
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
@@ -117,9 +117,9 @@ info-known-breaches-found =
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] parolă expusă în toate încălcările securității datelor
-        [few] parole expuse în toate încălcările securității datelor
-       *[other] de parole expuse în toate încălcările securității datelor
+        [one] parolă expusă în toate breșele de date
+        [few] parole expuse în toate breșele de date
+       *[other] de parole expuse în toate breșele de date
     }
 full-report-link = Vezi raportul complet pe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
