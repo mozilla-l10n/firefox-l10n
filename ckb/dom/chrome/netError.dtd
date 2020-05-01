@@ -39,6 +39,7 @@
 
 
 
+<!ENTITY remoteXUL.title "دوور XUL">
 
 <!ENTITY inadequateSecurityError.title "پەیوەندی پارێزراو نیە">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
@@ -46,3 +47,4 @@
 
 <!ENTITY blockedByPolicy.title "پەڕەی بلۆککراو">
 
+<!ENTITY networkProtocolError.title "هەڵەی پرۆتۆکۆڵی ڕایەڵە">
