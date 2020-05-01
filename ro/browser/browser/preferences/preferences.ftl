@@ -770,7 +770,7 @@ forms-generate-passwords =
     .label = Sugerează și generează parole puternice
     .accesskey = u
 forms-breach-alerts =
-    .label = Afișează alerte despre parole pentru site-urile web a căror securitate a fost încălcată
+    .label = Afișează alerte despre parole pentru site-uri web cu breșe de securitate
     .accesskey = b
 forms-breach-alerts-learn-more-link = Află mai multe
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.

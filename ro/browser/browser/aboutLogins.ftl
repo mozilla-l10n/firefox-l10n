@@ -59,7 +59,7 @@ login-list-item-title-new-login = Date de autentificare noi
 login-list-item-subtitle-new-login = Introdu datele tale de autentificare
 login-list-item-subtitle-missing-username = (niciun nume de utilizator)
 about-logins-list-item-breach-icon =
-    .title = Site web a cărui securitate a fost încălcată
+    .title = Site web cu breșă(e) de securitate
 about-logins-list-item-vulnerable-password-icon =
     .title = Parolă vulnerabilă
 
