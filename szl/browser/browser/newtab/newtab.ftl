@@ -160,17 +160,32 @@ newtab-section-header-topsites = Topowe strōny
 newtab-section-header-highlights = Szumne
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
-newtab-section-header-pocket = Rekōmandowane ôd { $provider }
+newtab-section-header-pocket = Rekōmyndowane ôd { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Zacznij przeglōndać internet, a my pokożymy ci sam szumne artikle, filmy a inksze strōny niydowno nawiedzōne abo przidane do zokłodek.
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = To tela. Wejrzij sam niyskorzij za nowymi artiklami ôd { $provider }. Niy umisz sie doczkać? Ôbier popularny tymat, coby znojś inkszo ciekawo zawartość z cołkigo neca.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = Wszysko poczytane!
+newtab-discovery-empty-section-topstories-content = Wejrzij sam niyskorzij za nowościami.
+newtab-discovery-empty-section-topstories-try-again-button = Sprōbuj jeszcze roz
+newtab-discovery-empty-section-topstories-loading = Ladowanie…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Niy podarziło sie blank zaladować tyj sekcyji.
 
 ## Pocket Content Section.
 
+# This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
+newtab-pocket-read-more = Popularne tymaty:
+newtab-pocket-more-recommendations = Wiyncyj rekōmyndowanych
+newtab-pocket-learn-more = Przewiydz sie wiyncyj
+newtab-pocket-cta-button = Dostōń ze { -pocket-brand-name(case: "gen") }
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.
