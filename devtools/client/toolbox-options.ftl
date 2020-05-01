@@ -58,7 +58,7 @@ options-stylesheet-autocompletion-tooltip =
 # The heading
 options-screenshot-label = Comportamentul capturilor de ecran
 # Label for the checkbox that toggles screenshot to clipboard feature
-options-screenshot-clipboard-label = Realizează captură de ecran în clipboard
+options-screenshot-clipboard-label = Captură de ecran în clipboard
 options-screenshot-clipboard-tooltip =
     .title = Salvează capturile de ecran direct în clipboard
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
@@ -113,11 +113,6 @@ options-source-maps-tooltip =
     .title = Dacă activezi opțiunea, sursele vor fi cartate în unelte.
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Doar sesiunea actuală, reîncarcă pagina
-
-##
-
-# The heading for the Debugger section
-options-debugger-label = Depanator
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = Afișează datele platformei Gecko

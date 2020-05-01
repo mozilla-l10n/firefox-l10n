@@ -2,7 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-screenshots-context-menu = Realizează o captură de ecran
+screenshots-context-menu = Fă o captură de ecran
 screenshots-my-shots-button = Capturile mele
 screenshots-instructions = Trage sau dă clic pe pagină pentru a selecta o regiune. Apasă ESC pentru a renunța.
 screenshots-cancel-button = Renunță
