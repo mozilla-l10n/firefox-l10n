@@ -235,6 +235,10 @@ translate-attribution = Traduceri de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepții…
     .accesskey = x
+# Variables: 
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Folosește setările sistemului de operare în „{ $localeName }” pentru formatul datelor, orelor, numerelor și unități de măsură.
 check-user-spelling =
     .label = Verifică ortografia pe măsură ce tastez
     .accesskey = t
@@ -870,6 +874,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Elemente de urmărire între site-uri
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Elemente de urmărire ale rețelelor sociale și între site-uri
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Elemente de urmărire între site-uri și de rețele sociale și izolează restul cookie-urilor
 sitedata-option-block-unvisited =
     .label = Cookie-uri de pe site-uri web nevizitate
 sitedata-option-block-all-third-party =
@@ -946,6 +952,7 @@ content-blocking-etp-strict-desc = O protecție mai puternică, dar poate provoc
 content-blocking-etp-custom-desc = Alege ce elemente de urmărire și scripturi să blochezi.
 content-blocking-private-windows = Conținut de urmărire în ferestre private
 content-blocking-cross-site-tracking-cookies = Cookie-uri de urmărire între site-uri
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookie-uri de urmărire între site-uri și izolează restul cookie-urilor
 content-blocking-social-media-trackers = Elemente de urmărire ale rețelelor sociale
 content-blocking-all-cookies = Toate cookie-urile
 content-blocking-unvisited-cookies = Cookie-uri de la site-uri nevizitate
@@ -958,6 +965,7 @@ content-blocking-warning-title = Atenție!
 content-blocking-warning-description = Blocarea conținutului poate împiedica funcționarea unor site-uri web. Deblocarea se poare realiza ușor pentru site-urile în care ai încredere.
 content-blocking-learn-how = Află cum
 content-blocking-etp-warning-description = Blocarea elementelor de urmărire poate afecta funcționalitatea unor site-uri. Reîncarcă o pagină cu elemente de urmărire pentru a încărca tot conținutul.
+content-blocking-and-isolating-etp-warning-description = Blocarea elementelor de urmărire și izolarea cookie-urilor pot afecta funcționalitatea unor site-uri. Reîmprospătează pagina cu elementele de urmărire ca să încarci tot conținutul.
 content-blocking-warning-learn-how = Află cum
 content-blocking-reload-description = Va trebui să reîncarci filele pentru aplicarea acestor modificări.
 content-blocking-reload-tabs-button =

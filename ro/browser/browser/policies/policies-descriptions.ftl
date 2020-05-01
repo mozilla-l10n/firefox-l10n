@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Dezactivează verificarea de browser implicit l
 policy-DownloadDirectory = Setează și blochează directorul de descărcare.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Activează sau dezactivează blocarea conținutului și, opțional, blochează opțiunea.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Activează sau dezactivează extensiile media criptate și, opțional, poți bloca opțiunea.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -83,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Setează valoarea implicită ca să permiți {
 policy-OverrideFirstRunPage = Anulează pagina de întâmpinare la prima utilizare. Lasă politica goală dacă vrei să dezactivezi pagina de întâmpinare la prima utilizare.
 policy-OverridePostUpdatePage = Anulează pagina „Noutăți” după actualizare. Lasă politica goală dacă vrei să dezactivezi pagina post-actualizare.
 policy-PasswordManagerEnabled = Activează salvarea parolelor în managerul de parole.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Dezactivează sau configurează PDF.js, lectorul PDF încorporat în { -brand-short-name }.
 policy-Permissions2 = Configurează permisiunile pentru cameră, microfon, locație, notificări și redare automată.
 policy-PopupBlocking = Permite anumitor site-uri web să afișeze implicit ferestre pop-up.
 policy-Preferences = Setează și blochează valoarea pentru un subset de preferințe.
