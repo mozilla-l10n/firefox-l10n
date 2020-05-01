@@ -6,7 +6,7 @@
 <!ENTITY wizard.label             "Creează un calendar nou" >
 <!ENTITY wizard.description       "Localizează calendarul" >
 
-<!ENTITY initialpage.description    "Calendarul poate fi stocat pe calculator sau pe un server pentru a-l accesa de la distanță sau pentru a-l partaja cu prietenii sau colegii." >
+<!ENTITY initialpage.description    "Calendarul poate fi stocat pe calculator sau pe un server pentru acces de la distanță sau partajare cu prietenii sau colegii." >
 <!ENTITY initialpage.computer.label  "Pe calculatorul meu">
 <!ENTITY initialpage.network.label  "În rețea">
 
@@ -44,8 +44,8 @@
 
 <!ENTITY network.nocredentials.label "Această locație nu necesită date de autentificare">
 <!ENTITY network.loading.description "Te rugăm să aștepți cât timp sunt detectate calendarele.">
-<!ENTITY network.notfound.description "Nu s-au găsit calendare la această locație. Te rugăm să îți verifici setările.">
+<!ENTITY network.notfound.description "Nu s-au găsit calendare la această adresă. Te rugăm să îți verifici setările.">
 <!ENTITY network.authfail.description "Datele de autentificare introduse nu au fost acceptate. Te rugăm să îți verifici setările.">
 
-<!ENTITY network.subscribe.single.description "Te rugăm să selectezi calendarele la care vrei să te abonezi.">
-<!ENTITY network.subscribe.multiple.description "Pentru această locație sunt disponibile mai multe calendare. Te rugăm să selectezi tipul calendarului, apoi marchează calendarele la care vrei să te abonezi.">
+<!ENTITY network.subscribe.single.description "Alege calendarele la care vrei să te abonezi.">
+<!ENTITY network.subscribe.multiple.description "Pentru această adresă sunt disponibile mai multe calendare. Alege tipul calendarului, apoi marchează calendarele la care vrei să te abonezi.">
