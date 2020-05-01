@@ -90,23 +90,40 @@ newtab-menu-show-privacy-info = Nasze spōnsory a twoja prywatność
 
 newtab-privacy-modal-button-done = Fertich
 newtab-privacy-modal-header = Twoja prywatność je ważno.
+newtab-privacy-modal-paragraph-2 = Krōm ciekawych ôzprowek pokazujymy ci tyż napasowane, sprawdzōne treści ôd ôbranych spōnsorōw. Możesz wierzić, iże <strong>dane twojigo przeglōndanio żodyn roz niy ôpuszczajōm twojij włosnyj kopije aplikacyje { -brand-product-name }</strong> — ani my, ani nasze spōnsory ich niy widzōm.
+newtab-privacy-modal-link = Przewiydz sie wiyncyj ô prywatności na strōnie nowyj karty
 
 ##
 
+# Bookmark is a noun in this case, "Remove bookmark".
+newtab-menu-remove-bookmark = Wyciep zokłodka
+# Bookmark is a verb here.
+newtab-menu-bookmark = Zokłodka
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+newtab-menu-copy-download-link = Kopiuj link pobiyranio
+newtab-menu-go-to-download-page = Idź do strōny pobiyranio
+newtab-menu-remove-download = Wyciep z historyje
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
 ## system for each operating system.
 
+newtab-menu-show-file =
+    { PLATFORM() ->
+        [macos] Pokoż we Finderze
+       *[other] Ôdewrzij katalog
+    }
+newtab-menu-open-file = Ôdewrzij zbiōr
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
 ## the page is bookmarked, or is currently open on another device.
 
+newtab-label-visited = Nawiydzōne
+newtab-label-bookmarked = W zokłodkach
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
