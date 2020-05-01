@@ -26,18 +26,62 @@ newtab-search-box-search-the-web-input =
 newtab-topsites-add-search-engine-header = Przidej wyszukowarka
 newtab-topsites-add-topsites-header = Nowo topowo strōna
 newtab-topsites-edit-topsites-header = Edytuj topowo strōna
+newtab-topsites-title-label = Tytuł
+newtab-topsites-title-input =
+    .placeholder = Wkludź tytuł
+newtab-topsites-url-label = URL
+newtab-topsites-url-input =
+    .placeholder = Wpisz abo wraź adresa URL
+newtab-topsites-url-validation = Potrzebno je dobro adresa URL
+newtab-topsites-image-url-label = Adresa URL ôd włosnego ôbrozka
+newtab-topsites-use-image-link = Użyj włosnego ôbrozka…
+newtab-topsites-image-validation = Niy podarziło sie zaladować ôbrozka. Sprōbuj inkszyj adresy URL.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
 
+newtab-topsites-cancel-button = Pociep
+newtab-topsites-delete-history-button = Skasuj z historyje
+newtab-topsites-save-button = Spamiyntej
+newtab-topsites-preview-button = Podglōnd
+newtab-topsites-add-button = Przidej
 
 ## Top Sites - Delete history confirmation dialog.
 
+newtab-confirm-delete-history-p1 = Na zicher skasować wszyskie wystōmpiynia tyj strōny z twojij historyje?
+# "This action" refers to deleting a page from history.
+newtab-confirm-delete-history-p2 = Tyj akcyje niy idzie cofnōńć.
 
 ## Context Menu - Action Tooltips.
 
+# General tooltip for context menus.
+newtab-menu-section-tooltip =
+    .title = Ôdewrzij myni
+    .aria-label = Ôdewrzij myni
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Skasuj
+    .aria-label = Skasuj
+# This tooltip is for the context menu of Pocket cards or Topsites
+# Variables:
+#  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
+newtab-menu-content-tooltip =
+    .title = Ôdewrzij myni
+    .aria-label = Ôdewrzij kōntekstowe myni do { $title }
+# Tooltip on an empty topsite box to open the New Top Site dialog.
+newtab-menu-topsites-placeholder-tooltip =
+    .title = Edytuj ta strōna
+    .aria-label = Edytuj ta strōna
 
 ## Context Menu: These strings are displayed in a context menu and are meant as a call to action for a given page.
 
+newtab-menu-edit-topsites = Edytuj
+newtab-menu-open-new-window = Ôdewrzij w nowym ôknie
+newtab-menu-open-new-private-window = Ôdewrzij w nowym prywatnym ôknie
+newtab-menu-dismiss = Ôdkoż
+newtab-menu-pin = Przipnij
+newtab-menu-unpin = Ôdepnij
+newtab-menu-delete-history = Skasuj z historyje
+newtab-menu-save-to-pocket = Spamiyntej do { -pocket-brand-name }
 
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
