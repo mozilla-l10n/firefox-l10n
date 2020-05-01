@@ -114,10 +114,10 @@
 
 <!ENTITY completionTitle.label "Felicitări!">
 <!ENTITY completionText.label "Te rugăm să verifici ca datele de mai jos să fie corecte.">
-<!ENTITY serverTypePrefix.label "Tipul serverului de primire:">
-<!ENTITY serverNamePrefix.label "Denumirea serverului de primire:">
-<!ENTITY smtpServerNamePrefix.label "Denumirea serverului de trimitere (SMTP):">
-<!ENTITY newsServerNamePrefix.label "Denumirea serverului de grupuri de discuții (NNTP):">
+<!ENTITY serverTypePrefix.label "Tip server de primire:">
+<!ENTITY serverNamePrefix.label "Denumire server de primire:">
+<!ENTITY smtpServerNamePrefix.label "Denumire server de trimitere (SMTP):">
+<!ENTITY newsServerNamePrefix.label "Denumire server de grupuri de discuții (NNTP):">
 <!ENTITY downloadOnLogin.label "Descarcă mesajele acum">
 <!ENTITY downloadOnLogin.accesskey "D">
 <!ENTITY deferStorageDesc.label "Nu bifa această căsuță pentru a stoca mesajele contului în directorul său. Aceasta va face ca acest cont să apară pe nivelul cel mai de sus. În caz contrar, mesajele vor fi în căsuța poștală globală din dosarele locale.">
