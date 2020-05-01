@@ -153,7 +153,7 @@ newtab-section-expand-section-label =
 
 ## Section Headers.
 
-newtab-section-header-topsites = Da ta´a ini nuu
+newtab-section-header-topsites = Da ta'an ini nuu
 newtab-section-header-highlights = Destacados
 # Variables:
 #  $provider (String): Name of the corresponding content provider.
