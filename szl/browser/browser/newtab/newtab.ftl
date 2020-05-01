@@ -157,9 +157,14 @@ newtab-section-expand-section-label =
 ## Section Headers.
 
 newtab-section-header-topsites = Topowe strōny
+newtab-section-header-highlights = Szumne
+# Variables:
+#  $provider (String): Name of the corresponding content provider.
+newtab-section-header-pocket = Rekōmandowane ôd { $provider }
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+newtab-empty-section-highlights = Zacznij przeglōndać internet, a my pokożymy ci sam szumne artikle, filmy a inksze strōny niydowno nawiedzōne abo przidane do zokłodek.
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
