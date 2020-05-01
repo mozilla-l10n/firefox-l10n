@@ -124,16 +124,39 @@ newtab-menu-open-file = Ôdewrzij zbiōr
 
 newtab-label-visited = Nawiydzōne
 newtab-label-bookmarked = W zokłodkach
+newtab-label-removed-bookmark = Zokłodka je wyciepano
+newtab-label-recommended = Popularne
+newtab-label-saved = Spamiyntane do { -pocket-brand-name(case: "gen") }
+newtab-label-download = Pobrane
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Spōnsorowane
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
+newtab-section-menu-remove-section = Wyciep sekcyjo
+newtab-section-menu-collapse-section = Swijej sekcyjo
+newtab-section-menu-expand-section = Rozszyrzej sekcyjo
+newtab-section-menu-manage-section = Regiyruj sekcyjōm
+newtab-section-menu-manage-webext = Regiyruj rozszyrzyniym
+newtab-section-menu-add-topsite = Przidej do topowych strōn
+newtab-section-menu-add-search-engine = Przidej wyszukowarka
+newtab-section-menu-move-up = Posuń na wiyrch
+newtab-section-menu-move-down = Posuń na spodek
+newtab-section-menu-privacy-notice = Ô prywatności
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Swijej sekcyjo
+newtab-section-expand-section-label =
+    .aria-label = Rozszyrzej sekcyjo
 
 ## Section Headers.
 
+newtab-section-header-topsites = Topowe strōny
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
