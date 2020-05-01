@@ -921,7 +921,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Персональная
     .accesskey = а
-content-blocking-standard-desc = Обеспечивает наилучший баланс защиты и производительности. Разрешает некоторые трекеры для корректной работы веб-сайтов.
+content-blocking-standard-desc = Баланс защиты и производительности. Разрешает некоторые трекеры для корректной работы веб-сайтов.
 content-blocking-strict-description = Усиленная защита может вызывать проблемы с некоторыми веб-сайтами.
 content-blocking-custom-desc = Выберите, что блокировать.
 content-blocking-private-trackers = Все известные трекеры в приватных окнах
@@ -943,7 +943,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
-content-blocking-etp-standard-desc = Обеспечивает наилучший баланс защиты и производительности. Страницы будут загружаться нормально.
+content-blocking-etp-standard-desc = Баланс защиты и производительности. Страницы будут загружаться нормально.
 content-blocking-etp-strict-desc = Усиленная защита может вызывать проблемы с некоторыми веб-сайтами и их содержимым.
 content-blocking-etp-custom-desc = Выберите, какие трекеры и скрипты необходимо блокировать.
 content-blocking-private-windows = Отслеживающее содержимое в приватных окнах
