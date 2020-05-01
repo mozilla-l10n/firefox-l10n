@@ -43,7 +43,7 @@
 <!ENTITY outgoing.label                  "Trimitere:">
 <!ENTITY outgoingColumn.label            "Trimitere">
 <!ENTITY username.label                  "Nume de utilizator:">
-<!ENTITY hostname.label                  "Denumirea serverului gazdă">
+<!ENTITY hostname.label                  "Denumire server-gazdă">
 <!ENTITY port.label                      "Port">
 <!ENTITY ssl.label                       "SSL">
 <!ENTITY serverRow.label                 "Server:">
