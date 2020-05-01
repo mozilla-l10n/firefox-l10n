@@ -370,6 +370,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Ntu nune pestañas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Xituvi kue'eka">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Xituvi kue'eka sukua nuu ka̱a̱ ya'a">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Kune´yá kuaiyo">
@@ -405,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Kue'eka">
 
 <!ENTITY openCmd.commandkey           "l">
 
@@ -667,6 +670,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.removeCertException.accesskey "E">
 
+<!ENTITY identity.moreInfoLinkText2 "Kue'eka tu'un">
 
 
 
@@ -765,6 +769,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+
 <!ENTITY uiTour.infoPanel.close "Nakasɨ">
 
 
@@ -784,7 +789,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY pageAction.shareMore.label "Kue'eka…">
 
+<!ENTITY libraryButton.tooltip "Kune'ya historial, a ta'an ini noo'o je kue'eka">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also

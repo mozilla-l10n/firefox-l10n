@@ -6,6 +6,7 @@ sync-disconnect-dialog =
     .title = ¿Kene { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
 sync-disconnect-remove-sync-caption = Xita datos { -sync-brand-name }
+sync-disconnect-remove-sync-data = A ta'an ini noo'o, historial, contraseñas, etc.
 sync-disconnect-remove-other-caption = Xina inka datos privados
 sync-disconnect-remove-other-data = Cookies, caché, datos sitio ntu conexión, etc.
 # Shown while the disconnect is in progress

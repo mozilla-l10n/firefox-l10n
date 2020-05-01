@@ -12,6 +12,11 @@ protections-panel-sitefixedsendreport-label = ¿A nnuvi nuu ya'a? Chu'un ichí r
 
 ##
 
+# The link to be clicked to open the sub-panel view
+protections-panel-site-not-working = ¿Ntu íyo tiñu sitio?
+# The heading/title of the sub-panel view
+protections-panel-site-not-working-view =
+    .title = ¿Ntu íyo tiñu sitio?
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
