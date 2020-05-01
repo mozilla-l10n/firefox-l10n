@@ -18,12 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> elemento tracciante bloccato dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> elementi traccianti bloccati dal { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
-
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } continua a bloccare gli elementi traccianti in navigazione anonima, ma non viene conservato un registro di ciò che è stato bloccato.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Elementi traccianti bloccati da { -brand-short-name } questa settimana
-
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -55,7 +53,10 @@ fingerprinter-tab-content = I fingerprinter raccolgono informazioni sulle impost
 cryptominer-tab-title = Cryptominer
 cryptominer-tab-content = I cryptominer utilizzano le risorse del sistema per effettuare il “mining” di valute digitali. Questi script consumano la batteria, rallentano il computer e possono aumentare il costo della bolletta elettrica. <a data-l10n-name="learn-more-link">Ulteriori informazioni</a>
 protections-close-button =
-  .aria-label = Chiudi
+    .aria-label = Chiudi
+protections-close-button2 =
+    .aria-label = Chiudi
+    .title = Chiudi
 mobile-app-title = Blocca le pubblicità traccianti su tutti i tuoi dispositivi
 mobile-app-card-content = Utilizza il browser <em>mobile</em> con protezione integrata contro le pubblicità traccianti.
 mobile-app-links = Browser { -brand-product-name } per <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -68,7 +69,6 @@ protection-report-view-logins-button = Visualizza credenziali
 lockwise-mobile-app-title = Porta le tue password sempre con te
 lockwise-no-logins-card-content = Utilizza le password salvate in { -brand-short-name } su qualsiasi dispositivo.
 lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
