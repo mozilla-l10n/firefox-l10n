@@ -63,13 +63,13 @@ toolbar-button-page-save =
 ## Simple menu items
 
 main-context-menu-bookmark-add =
-    .aria-label = ئەم پەرەیە دڵخواز بکە
+    .aria-label = ئەم پەڕەیە دڵخواز بکە
     .accesskey = m
-    .tooltiptext = ئەم پەرەیە دڵخواز بکە
+    .tooltiptext = ئەم پەڕەیە دڵخواز بکە
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 main-context-menu-bookmark-add-with-shortcut =
-    .aria-label = ئەم پەرەیە دڵخواز بکە
+    .aria-label = ئەم پەڕەیە دڵخواز بکە
     .accesskey = m
     .tooltiptext = ئەم پەرەیە دڵخواز بکە { $shortcut }
 main-context-menu-bookmark-change =
