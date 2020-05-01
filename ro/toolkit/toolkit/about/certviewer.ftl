@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Autoritate de certificare
 certificate-viewer-cipher-suite = Suită de cifru
 certificate-viewer-common-name = Denumire comună
 certificate-viewer-email-address = Adresă de e-mail
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Certificat pentru { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Țara firmei
 certificate-viewer-country = Țară
@@ -97,3 +100,16 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lanț)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Această extensie a fost marcată drept critică, iar clienții trebuie să respingă certificatul dacă nu îl înțeleg.
+certificate-viewer-export = Exportă
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Certificatele tale
+certificate-viewer-tab-people = Persoane
+certificate-viewer-tab-servers = Servere
+certificate-viewer-tab-ca = Autorități
+certificate-viewer-tab-unkonwn = Necunoscut
