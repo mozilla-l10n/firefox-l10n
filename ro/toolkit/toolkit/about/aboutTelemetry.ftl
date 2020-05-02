@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-telemetry-ping-data-source = Sursa datelor de ping:
-about-telemetry-show-current-ping-data = Date curente de ping
-about-telemetry-show-current-data = Date curente
+about-telemetry-show-current-ping-data = Date actuale de ping
+about-telemetry-show-current-data = Date actuale
 about-telemetry-show-archived-ping-data = Date arhivate de ping
 about-telemetry-show-subsession-data = Afișează datele despre subsesiune
 about-telemetry-choose-ping = Alege ping:
@@ -16,7 +16,7 @@ about-telemetry-option-group-older = Mai vechi
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-page-title = Date de telemetrie
-about-telemetry-current-store = Magazin curent:
+about-telemetry-current-store = Magazin actual:
 about-telemetry-more-information = Cauți mai multe informații?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Documentația de date Firefox</a> conține ghiduri despre cum să lucrezi cu uneltele noastre de date.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Documentația privind clientul de telemetrie Firefox</a> include definiții de concepte, documentație API și referințe de date.
@@ -78,7 +78,7 @@ about-telemetry-settings-explanation = Telemetria colectează { about-telemetry-
 #   $timeStamp (String): ping localized timestamp, e.g. “2017/07/08 10:40:46”
 about-telemetry-ping-details = Fiecare bucată de informație este trimisă ca fiind împachetată în „<a data-l10n-name="ping-link">pinguri</a>”. Acum te uiți la pingul { $name }, { $timestamp }.
 about-telemetry-ping-details-current = Fiecare bucată de informație este trimisă ca fiind împachetată în „<a data-l10n-name="ping-link">pinguri</a>”. Acum te uiți la pingul actual.
-about-telemetry-data-details-current = Fiecare informație este trimisă în pachete în „<a data-l10n-name="ping-link">pinguri</a>”. Acum vezi datele curente.
+about-telemetry-data-details-current = Fiecare informație este trimisă în pachete în „<a data-l10n-name="ping-link">pinguri</a>”. Acum vezi datele actuale.
 # string used as a placeholder for the search field
 # More info about it can be found here:
 # https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/data/main-ping.html
@@ -106,7 +106,7 @@ about-telemetry-no-data-to-display = Ne pare rău! În prezent nu sunt date disp
 # used as a tooltip for the “current” ping title in the sidebar
 about-telemetry-current-ping-sidebar = ping actual
 # used as a tooltip for the “current” ping title in the sidebar
-about-telemetry-current-data-sidebar = date curente
+about-telemetry-current-data-sidebar = date actuale
 # used in the “Ping Type” select
 about-telemetry-telemetry-ping-type-all = toate
 # button label to copy the histogram
