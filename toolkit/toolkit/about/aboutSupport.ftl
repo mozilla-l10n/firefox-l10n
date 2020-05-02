@@ -31,6 +31,7 @@ app-basics-title = Pagrindinės programos savybės
 app-basics-name = Pavadinimas
 app-basics-version = Laida
 app-basics-build-id = Versijos ID
+app-basics-distribution-id = Distribucijos ID
 app-basics-update-channel = Atnaujinimų kanalas
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
