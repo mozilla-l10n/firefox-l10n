@@ -125,6 +125,20 @@ onboarding-mobile-phone-text = Pobier { -brand-product-name } na iOS abo Android
 # browser.
 onboarding-mobile-phone-button = Pobier mobilniokowo przeglōndarka
 onboarding-send-tabs-title = Posyłej se karty na inksze masziny
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text = Posyłanie kart po migu udostympnio strōny miyndzy twojimi maszinami, tak co niy musisz kopiować, wrażać, ani wyłazić ze przeglōndarki.
+# "Send Tabs" refers to "Send Tab to Device" feature that appears when opening a
+# tab's context menu.
+onboarding-send-tabs-text2 = Snadnie udostympniej strōny miyndzy maszinami: bez kopiowanio linkōw abo wyłażynio ze przeglōndarki.
+onboarding-send-tabs-button = Napocznij posyłać karty
+onboarding-pocket-anywhere-title = Czytej i słuchej, kaj chcesz
+onboarding-pocket-anywhere-text2 = Spamiyntuj offline swoje ulubiōne rzeczy z aplikacyjōm { -pocket-brand-name }, coby czytać, słuchać abo ôglōndać, kej ci bydzie snadnie.
+onboarding-pocket-anywhere-button = Sprōbuj { -pocket-brand-name(case: "acc") }
+onboarding-lockwise-passwords-title = Miyj swoje hasła zawdy przi siebie
+onboarding-lockwise-passwords-text2 = Trzimej swoje hasła zabezpieczōne i snadnie loguj sie na swoje kōnta ze { -lockwise-brand-name(case: "ins") }.
+onboarding-lockwise-passwords-button2 = Pobier aplikacyjo
+onboarding-lockwise-strong-passwords-title = Rychtuj i schraniej siylne hasła
 
 ## Message strings belonging to the Return to AMO flow
 
