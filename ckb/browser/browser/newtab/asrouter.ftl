@@ -21,7 +21,13 @@ cfr-doorhanger-pintab-ok-button = ئەم بازدەرە جێگیر بکە
     .accesskey = P
 cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنەکانی پێشنیارکراو
     .accesskey = M
+cfr-doorhanger-extension-never-show-recommendation = ئەم پێشنیارکراوەم پیشان مەدە
+    .accesskey = S
 cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
+# This string is used on a new line below the add-on name
+# Variables:
+#   $name (String) - Add-on author name
+cfr-doorhanger-extension-author = لە لایەن { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = پێشنیارکراو
@@ -48,6 +54,8 @@ cfr-doorhanger-extension-total-users =
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>کرتەی ڕاست</b> بکە لەسەر ئەو بازدەرەی کە جـێگیری دەکەیت.
+cfr-doorhanger-pintab-step2 = <b>جێگیرکردنی بازدەر</b> هەڵبژێرە لە پێڕستەوە.
 cfr-doorhanger-pintab-animation-pause = وچان
 cfr-doorhanger-pintab-animation-resume = بەردەوامبوونەوە
 
