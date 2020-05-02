@@ -37,7 +37,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendPageToDevice.label             "Trimite pagina unui dispozitiv">
 <!ENTITY  sendPageToDevice.accesskey         "n">
-<!ENTITY  sendLinkToDevice.label             "Trimite linkul unui dispozitiv">
+<!ENTITY  sendLinkToDevice.label             "Trimite linkul către un dispozitiv">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
 <!ENTITY  undoCloseTab.label                 "Anulează închiderea filei">
 <!ENTITY  undoCloseTab.accesskey             "U">
