@@ -22,6 +22,11 @@ onboarding-welcome-header = { -brand-short-name } wito
 onboarding-welcome-body = Mosz już przeglōndarka. <br/>Poznej inksze aplikacyje z familije { -brand-product-name }.
 onboarding-welcome-learn-more = Przewiydz sie wiyncyj ô profitach.
 onboarding-join-form-header = Prziwstōń do { -brand-product-name }
+onboarding-welcome-modal-get-body = Mosz już przeglōndarka. <br/>Używej na fol aplikacyje { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Fōndnij se dobro ôchrōna prywatności.
+onboarding-welcome-modal-privacy-body = Mosz już przeglōndarka. Powiynksz ôchrōna swojij prywatności.
+onboarding-welcome-modal-family-learn-more = Przewiydz sie ô familije produktōw { -brand-product-name }.
+onboarding-welcome-form-header = Napocznij tukej
 
 ## Welcome full page string
 
