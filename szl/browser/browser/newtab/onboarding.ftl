@@ -160,3 +160,4 @@ return-to-amo-sub-header = Super, mosz już przeglōndarka { -brand-short-name }
 #   $addon-name (String) - Name of the add-on
 return-to-amo-addon-header = Teroz pobier przidowka <icon></icon><b>{ $addon-name }.</b>
 return-to-amo-extension-button = Przidej rozszyrzynie
+return-to-amo-get-started-button = Jako zacznōńć z aplikacyjōm { -brand-short-name }
