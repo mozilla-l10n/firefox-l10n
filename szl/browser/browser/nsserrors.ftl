@@ -17,3 +17,5 @@ psmerr-hostreusedissuerandserial =
     
     Twōj certyfikat mo taki sōm nōmer seryje jak inkszy certyfikat, co je wystawiōny ôd wystowcy certyfikatōw. Trza dostać nowy certyfikat, co bydzie mieć unikatowy nōmer seryje.
 ssl-error-export-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer niy ôbsuguje szyfrowanio wysokigo poziōmu.
+ssl-error-us-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer potrzebuje szyfrowanio wysokigo poziōmu, co niy ma ôbsugiwane.
+ssl-error-no-cypher-overlap = Niy idzie sie bezpiecznie kōmunikować: chybio spōlnych algorytmōw szyfrowanio.
