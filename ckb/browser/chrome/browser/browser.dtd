@@ -620,7 +620,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pocketButton.tooltiptext     "پاشەکەوتی بکە لە Pocket">
 <!ENTITY saveToPocketCmd.label        "پاشەکەوتی بکە لە Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
-<!ENTITY saveLinkToPocketCmd.label    "بەستەر پاشەکەوت بکە لە pocket">
+<!ENTITY saveLinkToPocketCmd.label    "بەستەر پاشەکەوت بکە لە Pocket">
 <!ENTITY saveLinkToPocketCmd.accesskey "o">
 <!ENTITY pocketMenuitem.label         "لیستەی Pocket پیشان بدە">
 
@@ -982,6 +982,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "23em">
+
 
 <!ENTITY uiTour.infoPanel.close "داخستن">
 
