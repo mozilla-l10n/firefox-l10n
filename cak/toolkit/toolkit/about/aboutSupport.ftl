@@ -31,6 +31,7 @@ app-basics-title = Ri najowäx richin runuk'ulem ri chokoy
 app-basics-name = B'i'aj
 app-basics-version = Ruwäch
 app-basics-build-id = Nimaläj rub'i' molïk
+app-basics-distribution-id = Jachonïk ID
 app-basics-update-channel = Rub'ey taq k'exoj ruwäch
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
