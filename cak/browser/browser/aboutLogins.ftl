@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = Tichol chi:
 login-list-name-option = B'i'aj (A-Y)
 login-list-name-reverse-option = B'i'aj (Z-A)
-login-list-breached-option = Tz'ilan Ajk'amaya'l taq K'amaya'l
 about-logins-login-list-alerts-option = Retal taq k'ayewal
 login-list-last-changed-option = Ruk'isib'äl Jaloj
 login-list-last-used-option = Ruk'isib'äl Rokisaxik
@@ -60,6 +59,8 @@ login-list-item-subtitle-new-login = Ke'atz'ib'aj ri taq retamab'al rutikirib'al
 login-list-item-subtitle-missing-username = (majun rub'i' okisanel)
 about-logins-list-item-breach-icon =
     .title = Tz'ilan Ajk'amaya'l taq Ruxaq
+about-logins-list-item-vulnerable-password-icon =
+    .title = Tz'ilanel ewan tzij
 
 ## Introduction screen
 
@@ -161,13 +162,15 @@ confirm-discard-changes-dialog-confirm-button = Tich'aqïx
 
 about-logins-breach-alert-title = Rutz'ilanem Ajk'amaya'l Ruxaq
 breach-alert-text = Xechayüx o xe'eleq'äx ri ewan taq tzij pa re ajk'amaya'l ruxaq re' toq xek'ex ri taq rutzij rutikirib'al molojri'ïl ri ruk'isib'äl q'ij. Tajala' ri ewan atzij richin nachajij ri rub'i' ataqoya'l.
-breach-alert-link = Tawetamaj mas chi rij re tz'ilanem.
-breach-alert-dismiss =
-    .title = Titz'apïx re rutzijol k'ayewal re'
+about-logins-breach-alert-date = Re tz'ilanem re' xk'ulwachitäj pa { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Tib'e pa { $hostname }
 about-logins-breach-alert-learn-more-link = Tetamäx ch'aqa' chik
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Tz'ilanel Ewan Tzij
 about-logins-vulnerable-alert-learn-more-link = Tetamäx ch'aqa' chik
 
 ## Error Messages
