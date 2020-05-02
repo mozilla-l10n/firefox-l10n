@@ -101,6 +101,9 @@ onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Przeglōndej gibcyj, szprytnij a bezpiecznij skuli rozszyrzyń takich jak Ghostery, co szperujōm szterujōnce reklamy.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Synchrōnizacyjo
+onboarding-fxa-text = Zaregistruj sie na { -fxaccount-brand-name(case: "loc") } i synchrōnizuj zakłodki, hasła i ôtwarte karty wszyńdzie, kaj używosz aplikacyje { -brand-short-name }.
+onboarding-tracking-protection-title2 = Ôchrōna ôd cichtowanio
+onboarding-tracking-protection-button2 = Jak to funguje
 
 ## Message strings belonging to the Return to AMO flow
 
