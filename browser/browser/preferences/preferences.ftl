@@ -238,7 +238,7 @@ translate-exceptions =
 # Variables: 
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Использовать настройки «{ $localeName }» вашей операционной системы для форматирования даты, времени, чисел и единиц измерения.
+    .label = Использовать настройки «{ $localeName }» вашей операционной системы для форматирования даты, времени, чисел и единиц измерения
 check-user-spelling =
     .label = Проверять орфографию при наборе текста
     .accesskey = в
