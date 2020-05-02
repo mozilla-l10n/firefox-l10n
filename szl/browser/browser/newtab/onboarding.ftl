@@ -94,6 +94,10 @@ onboarding-benefit-lockwise-text = Regiyruj hasłami, co sōm bezpieczne i zawdy
 onboarding-private-browsing-title = Prywatne przeglōndanie
 onboarding-private-browsing-text = Przeglōndej ino do siebie. Prywatne przeglōndanie ze szperowaniym zawartości szperuje elymynty, co filujōm za tobōm w internecie.
 onboarding-screenshots-title = Ôbrozy ekranu
+onboarding-screenshots-text = Rōb, spamiyntuj i udostympniej ôbrazy ekranu - bez wyłażynio z aplikacyje { -brand-short-name }. Ôbier cołko przeglōndano strōna abo jaki jij kōnsek, zrōb ś nich ôbroz, a potym go spamiyntej, coby snadnie go dostać abo udostympnić.
+onboarding-addons-title = Rozszyrzynia
+onboarding-addons-text = Przidej wiyncyj fōnkcyji, coby { -brand-short-name } robiōł jeszcze lepij. Porōwnowanie cyn, badanie pogody, a pokazowanie swojij osobowości bez włosne motywy.
+onboarding-ghostery-title = Ghostery
 
 ## Message strings belonging to the Return to AMO flow
 
