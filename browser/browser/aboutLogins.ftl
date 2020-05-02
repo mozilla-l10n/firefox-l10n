@@ -68,7 +68,7 @@ about-logins-list-item-vulnerable-password-icon =
 login-intro-heading = Îți cauți datele de autentificare salvate? Configurează { -sync-brand-short-name }.
 about-logins-login-intro-heading-logged-in = Nu am găsit date de autentificare sincronizate.
 login-intro-description = Dacă ți-ai salvat datele de autentificare în { -brand-product-name } pe un alt dispozitiv, iată cum le poți aduce aici:
-login-intro-instruction-fxa = Creează un cont sau autentifică-te în { -fxaccount-brand-name } pe dispozitivul pe care ai salvat datele de autentificare
+login-intro-instruction-fxa = Creează un cont sau conectează-te în { -fxaccount-brand-name } de pe dispozitivul pe care ai salvat datele de autentificare
 login-intro-instruction-fxa-settings = Asigură-te că ai bifat caseta de selectare Date de autentificare în Setările { -sync-brand-short-name }
 about-logins-intro-instruction-help = Intră pe <a data-l10n-name="help-link">asistență { -lockwise-brand-short-name }</a> pentru ajutor suplimentar
 about-logins-intro-import = Dacă datele tale de autentificare sunt salvate în alt browser, le poți <a data-l10n-name="import-link">importa în{ -lockwise-brand-short-name }</a>

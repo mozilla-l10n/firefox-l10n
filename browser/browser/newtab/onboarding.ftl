@@ -36,7 +36,7 @@ onboarding-join-form-continue = Continuă
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Ai deja un cont?
 # Text for link to submit the sign in form
-onboarding-join-form-signin = Autentificare
+onboarding-join-form-signin = Conectare
 onboarding-start-browsing-button-label = Începe să navighezi
 onboarding-cards-dismiss =
     .title = Înlătură
@@ -108,7 +108,7 @@ onboarding-tracking-protection-button2 = Cum funcționează
 onboarding-data-sync-title = Ia-ți cu tine setările
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = Sincronizează-ți marcajele, parolele și multe altele oriunde folosești { -brand-product-name }.
-onboarding-data-sync-button2 = Autentificare în { -sync-brand-short-name }
+onboarding-data-sync-button2 = Conectare în { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Rămâi la curent cu breșele de date
 onboarding-firefox-monitor-text = { -monitor-brand-name } monitorizează dacă adresa ta de e-mail a apărut într-o breșă de date și te alertează dacă apare într-o breșă nouă.
 onboarding-firefox-monitor-text2 = { -monitor-brand-name } monitorizează dacă adresa ta de e-mail a apărut într-o breșă de date cunoscută și te alertează dacă apare într-o breșă nouă.
