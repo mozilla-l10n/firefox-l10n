@@ -61,10 +61,16 @@ onboarding-sync-form-skip-login-button = Przeskocz tyn krok
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Wkludź swoja adresa email
+onboarding-sync-form-sub-header = i używej { -sync-brand-name(case: "gen") }
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Przidajne produkty
+onboarding-benefit-products-text = Używej noczyniōw, co majōm w zocy twoja prywatność na wszyskich maszinach.
+onboarding-benefit-knowledge-title = Praktyczne informacyje
+onboarding-benefit-knowledge-text = Przewiydz sie wszysko, co trza wiedzieć ô mōndrym i bezpiecznym używaniu internetu.
+onboarding-benefit-privacy-title = Prawo prywatność
 
 ## These strings belong to the individual onboarding messages.
 
