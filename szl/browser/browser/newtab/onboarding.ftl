@@ -116,6 +116,15 @@ onboarding-firefox-monitor-button = Dej se posyłać powiadōmiynia
 onboarding-browse-privately-title = Przeglōndej prywatnie
 onboarding-browse-privately-text = Prywatne przeglōndanie pucuje twoja historyjo szukanio i przeglōndanio, coby niy poznali jij inksi, co używajōm tego kōmputra.
 onboarding-browse-privately-button = Ôdewrzij prywatne ôkno
+onboarding-firefox-send-title = Bezpiecznie udostympniej swoje zbiory
+onboarding-firefox-send-text2 = Zaladuj swoje zbiory do { -send-brand-name(case: "gen") }, coby je udostympniać z szyfrowaniym end-to-end i linkiym, co sie autōmatycznie przedownio.
+onboarding-firefox-send-button = Sprōbuj { -send-brand-name(case: "gen") }
+onboarding-mobile-phone-title = Pobier aplikacyjo { -brand-product-name } na telefōn
+onboarding-mobile-phone-text = Pobier { -brand-product-name } na iOS abo Androida i synchrōnizuj dane miyndzy maszinami.
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Pobier mobilniokowo przeglōndarka
+onboarding-send-tabs-title = Posyłej se karty na inksze masziny
 
 ## Message strings belonging to the Return to AMO flow
 
