@@ -26,7 +26,12 @@ onboarding-welcome-modal-get-body = Mosz już przeglōndarka. <br/>Używej na fo
 onboarding-welcome-modal-supercharge-body = Fōndnij se dobro ôchrōna prywatności.
 onboarding-welcome-modal-privacy-body = Mosz już przeglōndarka. Powiynksz ôchrōna swojij prywatności.
 onboarding-welcome-modal-family-learn-more = Przewiydz sie ô familije produktōw { -brand-product-name }.
-onboarding-welcome-form-header = Napocznij tukej
+onboarding-welcome-form-header = Napocznij
+onboarding-join-form-body = Wkludź swoja adresa email, coby zacznōńć.
+onboarding-join-form-email =
+    .placeholder = Wkludź adresa email
+onboarding-join-form-email-error = Potrzebno je dobro adresa email
+onboarding-join-form-legal = Jak pudziesz dalij, to dowosz zgoda na <a data-l10n-name="terms">warunki używanio</a> a <a data-l10n-name="privacy">prawidła ôchrōny prywatności</a>.
 
 ## Welcome full page string
 
