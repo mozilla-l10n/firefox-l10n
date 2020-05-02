@@ -12,7 +12,7 @@ findbar-previous =
 findbar-find-button-close =
     .tooltiptext = Închide bara de căutare
 findbar-highlight-all2 =
-    .label = Evidențiază toate
+    .label = Evidențiază-le pe toate
     .accesskey =
         { PLATFORM() ->
             [macos] l
