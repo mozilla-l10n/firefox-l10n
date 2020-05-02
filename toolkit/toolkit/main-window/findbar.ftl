@@ -20,7 +20,7 @@ findbar-highlight-all2 =
         }
     .tooltiptext = Evidențiază toate aparițiile textului
 findbar-case-sensitive =
-    .label = Corelează literele mari și mici
+    .label = Ține cont de majuscule și minuscule
     .accesskey = c
     .tooltiptext = Căutare cu respectarea scrierii cu litere mari și mici
 findbar-match-diacritics =
