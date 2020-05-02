@@ -98,6 +98,9 @@ onboarding-screenshots-text = Rōb, spamiyntuj i udostympniej ôbrazy ekranu - b
 onboarding-addons-title = Rozszyrzynia
 onboarding-addons-text = Przidej wiyncyj fōnkcyji, coby { -brand-short-name } robiōł jeszcze lepij. Porōwnowanie cyn, badanie pogody, a pokazowanie swojij osobowości bez włosne motywy.
 onboarding-ghostery-title = Ghostery
+onboarding-ghostery-text = Przeglōndej gibcyj, szprytnij a bezpiecznij skuli rozszyrzyń takich jak Ghostery, co szperujōm szterujōnce reklamy.
+# Note: "Sync" in this case is a generic verb, as in "to synchronize"
+onboarding-fxa-title = Synchrōnizacyjo
 
 ## Message strings belonging to the Return to AMO flow
 
