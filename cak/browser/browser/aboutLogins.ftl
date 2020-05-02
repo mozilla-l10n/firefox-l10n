@@ -171,6 +171,10 @@ about-logins-breach-alert-learn-more-link = Tetamäx ch'aqa' chik
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Tz'ilanel Ewan Tzij
+about-logins-vulnerable-alert-text2 = Re ewan tzij re' okisan pa jun chik rub'i' taqoya'l, ri xuk'ulwachij tz'ilanem. We ye'okisäx chik ri taq wujil xkekitz'ila' ronojel ri rub'i' taqoya'l. Tajala' re ewan tzij re'.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Tib'e pa { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Tetamäx ch'aqa' chik
 
 ## Error Messages

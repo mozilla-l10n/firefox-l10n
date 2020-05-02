@@ -125,10 +125,6 @@ cfr-whatsnew-lockwise-take-link-text = Tak'ulu' ri chokoy
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Katz'ib'an jub'a', tawila' k'ïy rik'in ri rukajtz'ik ochochib'äl
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Katok pa ri taq ruxaq junelïk ye'atz'ët rik'in xa jun pitz'oj pa ri rukajtz'ik ochochib'äl. Aninäq ke'awila' ri taq wachib'äl rik'in ri rilon ri { $searchEngineName } chuqa' ri runatab'al awokem pa k'amaya'l.
-cfr-whatsnew-searchbar-body-generic = Katok pa ri taq ruxaq junelïk ye'atz'ët rik'in xa jun pitz'oj pa ri rukajtz'ik ochochib'äl. Aninäq ke'awila' ri taq wachib'äl rik'in ri rilon ri runatab'al awokem pa k'amaya'l.
 cfr-whatsnew-searchbar-body-topsites = Wakami xa xe tacha' ri rukajtz'ik ochochib'äl richin nirik'itäj jun kajtz'ik rik'in riruximik kik'in nima'q taq ruxaq.
 cfr-whatsnew-searchbar-icon-alt-text = Ruwachib'al tzub'äl
 
@@ -221,10 +217,16 @@ cfr-doorhanger-milestone-ok-button = Titzet Ronojel
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Ke'atz'uku' aninäq jikïl ewan taq tzij
+cfr-whatsnew-lockwise-body = K'ayew nich'ob' xa jun chuqa' jikïl ewan kitzij jujun rub'i' taqoya'l. Toq nitz'uk jun ewan tzij, tacha' ri ruk'ojlem ewan tzij richin nokisäx jun jikïl ewan tzij tz'ukun ruma { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } wachib'äl
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Tak'ulu' rutzijol kik'ayewal tz'ilanel ewan taq tzij
+cfr-whatsnew-passwords-body = Ri ajjak ketaman chi ri winaqi' yekokisaj chik jub'ey ri ewan tzij. We xawokisaj jun ewan tzij pa jalajöj taq ruxaq k'amaya'l chuqa' we jun chi ke ri ruxaq k'amaya'l ri' nitz'iläx ri taq rutzij, xtatz'ët jun rutzijol k'ayewal pa { -lockwise-brand-short-name } richin najäl ri ewan atzij pa ri ruxaq k'amaya'l ri'.
+cfr-whatsnew-passwords-icon-alt = Ruwachib'al tz'ilanel ewan tzij
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Tik'wäx ri picture-in-picture pa tz'aqät ruwäch
