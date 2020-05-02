@@ -139,6 +139,24 @@ onboarding-lockwise-passwords-title = Miyj swoje hasła zawdy przi siebie
 onboarding-lockwise-passwords-text2 = Trzimej swoje hasła zabezpieczōne i snadnie loguj sie na swoje kōnta ze { -lockwise-brand-name(case: "ins") }.
 onboarding-lockwise-passwords-button2 = Pobier aplikacyjo
 onboarding-lockwise-strong-passwords-title = Rychtuj i schraniej siylne hasła
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } leko rychtuje siylne hasła i spamiyntuje je wszyskie w jednym placu.
+onboarding-lockwise-strong-passwords-button = Regiyruj swojimi hasłami
+onboarding-facebook-container-title = Stowiej granice do Facebooka
+onboarding-facebook-container-text2 = { -facebook-container-brand-name } trzimie twōj profil ôsobno ôd wszyskigo inkszego, tak coby Facebook mioł ciynżyj nacylować cie reklamami.
+onboarding-facebook-container-button = Przidej rozszyrzynie
+onboarding-import-browser-settings-title = Importuj swoje zokłodki, hasła i inksze dane
+onboarding-import-browser-settings-text = Snadnie zebier strōny i nasztalowania ze Chrome ze sobōm.
+onboarding-import-browser-settings-button = Importuj dane ze Chrome
+onboarding-personal-data-promise-title = Bazowo prywatny
+onboarding-personal-data-promise-text = { -brand-product-name } mo w zocy twoje dane: mynij ich zbiyro, chrōni je, i ofyn dowo znać, jak sōm używane.
+onboarding-personal-data-promise-button = Poczytej, co ôbiecujymy
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-sub-header = Super, mosz już przeglōndarka { -brand-short-name }
+# <icon></icon> will be replaced with the icon belonging to the extension
+#
+# Variables:
+#   $addon-name (String) - Name of the add-on
+return-to-amo-addon-header = Teroz pobier przidowka <icon></icon><b>{ $addon-name }.</b>
+return-to-amo-extension-button = Przidej rozszyrzynie
