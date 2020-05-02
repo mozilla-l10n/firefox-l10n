@@ -147,6 +147,7 @@ onboarding-facebook-container-button = Pridėti priedą
 onboarding-import-browser-settings-title = Importuokite savo adresyną, slaptažodžius, ir dar daugiau
 onboarding-import-browser-settings-text = Nerkite pirmyn – lengvai perkelkite savo svetaines ir nuostatas iš „Chrome“.
 onboarding-import-browser-settings-button = Importuoti duomenis iš „Chrome“
+onboarding-personal-data-promise-title = Privatumas – numatytas
 onboarding-personal-data-promise-text = „{ -brand-product-name }“ gerbia jūsų duomenis. Jų renkama mažiau, jie apsaugomi, ir aiškiai nurodoma, kam jie naudojami.
 onboarding-personal-data-promise-button = Perskaitykite mūsų pažadą
 
