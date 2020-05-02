@@ -105,6 +105,17 @@ onboarding-fxa-text = Zaregistruj sie na { -fxaccount-brand-name(case: "loc") } 
 onboarding-tracking-protection-title2 = Ôchrōna ôd śledzynio
 onboarding-tracking-protection-text2 = { -brand-short-name } pōmogo zastawić strōny i reklamy, coby niy śledziyły twojigo przeglōndanio.
 onboarding-tracking-protection-button2 = Jak to funguje
+onboarding-data-sync-title = Miyj swoje nasztalowania wszyńdzie ze sobōm
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Synchrōnizuj swoje zokłodki, hasła i inksze wszyńdzie tam, kaj używosz aplikacyje { -brand-product-name }.
+onboarding-data-sync-button2 = Wloguj sie do { -sync-brand-short-name(case: "gen") }
+onboarding-firefox-monitor-title = Dej pozōr na wycieki danych
+onboarding-firefox-monitor-text = { -monitor-brand-name } bado, jeźli twoja adresa email pokozała sie przi jakim wycieku danych i dowo znać, jak pokoże sie w nowych.
+onboarding-firefox-monitor-text2 = { -monitor-brand-name } bado, jeźli twoja adresa email pokozała sie we wiadōmym wycieku danych i dowo znać, jak pokoże sie w nowych.
+onboarding-firefox-monitor-button = Dej se posyłać powiadōmiynia
+onboarding-browse-privately-title = Przeglōndej prywatnie
+onboarding-browse-privately-text = Prywatne przeglōndanie pucuje twoja historyjo szukanio i przeglōndanio, coby niy poznali jij inksi, co używajōm tego kōmputra.
+onboarding-browse-privately-button = Ôdewrzij prywatne ôkno
 
 ## Message strings belonging to the Return to AMO flow
 
