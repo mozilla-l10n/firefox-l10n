@@ -32,15 +32,35 @@ onboarding-join-form-email =
     .placeholder = Wkludź adresa email
 onboarding-join-form-email-error = Potrzebno je dobro adresa email
 onboarding-join-form-legal = Jak pudziesz dalij, to dowosz zgoda na <a data-l10n-name="terms">warunki używanio</a> a <a data-l10n-name="privacy">prawidła ôchrōny prywatności</a>.
+onboarding-join-form-continue = Dalij
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Mosz już kōnto?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Wloguj
+onboarding-start-browsing-button-label = Zacznij przeglōndać internet
+onboarding-cards-dismiss =
+    .title = Ôdkoż
+    .aria-label = Ôdkoż
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Dej se pokozać wszysko, co idzie zrobić.
+onboarding-fullpage-form-email =
+    .placeholder = Twoja adresa email…
 
 ## Firefox Sync modal dialog strings.
 
+onboarding-sync-welcome-header = Weź aplikacyjo { -brand-product-name } ze sobōm
+onboarding-sync-welcome-content = Miyj swoje zokłodki, historyjo, hasła i inksze nasztalowania na wszyskich swojich maszinach.
+onboarding-sync-welcome-learn-more-link = Przewiydz sie wiyncyj ô kōntach Firefox
+onboarding-sync-form-input =
+    .placeholder = Email
+onboarding-sync-form-continue-button = Dalij
+onboarding-sync-form-skip-login-button = Przeskocz tyn krok
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
+onboarding-sync-form-header = Wkludź swoja adresa email
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
