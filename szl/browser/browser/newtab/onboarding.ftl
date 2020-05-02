@@ -80,6 +80,9 @@ onboarding-benefit-privacy-text = Wszysko, co robiymy, ôbstowo przi naszyj ôbi
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Bier swoje zokłodki, historyjo, hasła i inksze wszyńdzie, kaj ino używosz aplikacyje { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Dostowej powiadōmiynia, jak twoje dane pokożōm sie we wiadōmym wycieku danych.
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Regiyruj hasłami, co sōm bezpieczne i zawdy tam, kaj ich potrzebujesz.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -88,6 +91,9 @@ onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 ## Each message also has an associated button for the user to try the feature.
 ## The string for the button is found above, in the UI strings section
 
+onboarding-private-browsing-title = Prywatne przeglōndanie
+onboarding-private-browsing-text = Przeglōndej ino do siebie. Prywatne przeglōndanie ze szperowaniym zawartości szperuje elymynty, co filujōm za tobōm w internecie.
+onboarding-screenshots-title = Ôbrozy ekranu
 
 ## Message strings belonging to the Return to AMO flow
 
