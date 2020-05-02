@@ -22,10 +22,10 @@ update-otherInstanceHandlingUpdates = { -brand-short-name } este actualizat de o
 update-manual = Actualizări disponibile la <label data-l10n-name="manual-link"/>
 update-unsupported = Nu poți efectua actualizări suplimentare pe acest sistem. <label data-l10n-name="unsupported-link">Află mai multe</label>
 update-restarting = Se repornește…
-channel-description = Folosești în prezent <label data-l10n-name="current-channel"></label> drept canal de actualizare.{ " " }
+channel-description = Acum folosești canalul de actualizare <label data-l10n-name="current-channel"></label>.
 warningDesc-version = { -brand-short-name } este experimental și poate fi instabil.
-community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> este o <label data-l10n-name="community-exp-creditsLink">comunitate globală</label> care lucrează împreună pentru a păstra webul deschis, public și accesibil tuturor.
-community-2 = { -brand-short-name } este conceput de <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, o <label data-l10n-name="community-creditsLink">comunitate globală</label> care lucrează împreună pentru a păstra webul deschis, public și accesibil tuturor.
+community-exp = <label data-l10n-name="community-exp-mozillaLink">{ -vendor-short-name }</label> este o <label data-l10n-name="community-exp-creditsLink">comunitate globală</label> care lucrează pentru a păstra webul deschis, public și accesibil tuturor.
+community-2 = { -brand-short-name } este conceput de <label data-l10n-name="community-mozillaLink">{ -vendor-short-name }</label>, o <label data-l10n-name="community-creditsLink">comunitate globală</label> care lucrează pentru a păstra webul deschis, public și accesibil tuturor.
 helpus = Vrei să ajuți? <label data-l10n-name="helpus-donateLink">Fă o donație</label> sau <label data-l10n-name="helpus-getInvolvedLink">implică-te!</label>
 bottomLinks-license = Informații privind licențierea
 bottomLinks-rights = Drepturile utilizatorului final
