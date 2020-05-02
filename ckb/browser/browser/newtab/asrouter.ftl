@@ -10,6 +10,12 @@ cfr-doorhanger-feature-heading = تایبەتمەندی پێشنیازکراو
 
 ##
 
+cfr-doorhanger-extension-cancel-button = ئێستا نا
+    .accesskey = N
+cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-extension-notification = پێشنیارکراو
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -18,15 +24,25 @@ cfr-doorhanger-feature-heading = تایبەتمەندی پێشنیازکراو
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-animation-pause = وچان
+cfr-doorhanger-pintab-animation-resume = بەردەوامبوونەوە
 
 ## Firefox Accounts Message
 
 
 ## Protections panel
 
+cfr-protections-panel-link-text = زیاتر بزانە
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = تایبەتمەندی نوێ:
+cfr-whatsnew-button =
+    .label = چی نوێ هەیە
+    .tooltiptext = چی نوێ هەیە
+cfr-whatsnew-panel-header = چی نوێ هەیە
 
 ## Search Bar
 
