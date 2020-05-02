@@ -19,7 +19,7 @@
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName;-ի աւգնութիւն">
 <!ENTITY productHelp2.accesskey   "H">
-<!ENTITY helpMac.commandkey       "՞">
+<!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Ստեղնաշարի պիտակներ">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
