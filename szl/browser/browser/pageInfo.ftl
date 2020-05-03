@@ -150,3 +150,26 @@ media-unknown-not-cached =
     .value = Niypoznane (niy ma we podrynczyj pamiyńci)
 permissions-use-default =
     .label = Używej bazowych
+security-no-visits = Niy
+# This string is used to display the number of meta tags
+# in the General Tab
+# Variables:
+#   $tags (number) - The number of meta tags
+general-meta-tags =
+    .value =
+        { $tags ->
+            [one] Meta (1 tag)
+            [few] Meta (2 tagi)
+           *[many] Meta ({ $tags } tagōw)
+        }
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Niy
+        [one] Ja, roz
+        [few] Ja, { $visits } razy
+       *[many] Ja, { $visits } razy
+    }
