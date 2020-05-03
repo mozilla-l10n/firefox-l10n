@@ -7,6 +7,7 @@ about-logins-page-title = Ceŋorɗe e pinle
 # "Google Play" and "App Store" are both branding and should not be translated
 
 login-app-promo-title = Nawor ceŋorɗe e pinle maa kala nokku.
+login-app-promo-subtitle = Heɓ jaaɓnirgal ngal yoɓetaake { -lockwise-brand-name }
 login-app-promo-android =
     .alt = Heɓ ɗum e Google Play
 login-app-promo-apple =
@@ -23,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Uddit cuɓirgol
-# This menuitem is only visible on Windows
-menu-menuitem-import = Jiggo Pinle…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Jiggo Keɓe iwde e Wanngorde Woɗnde…
 menu-menuitem-preferences =
@@ -48,7 +47,7 @@ login-list-count =
 login-list-sort-label-text = Laworo:
 login-list-name-option = Innde (A-Z)
 login-list-name-reverse-option = Innde (A-Z)
-login-list-breached-option = Ciygol keɓe lowe
+about-logins-login-list-alerts-option = Jeertine
 login-list-last-changed-option = Waylo sakkitto
 login-list-last-used-option = Kuutarogol cakkitiingol.
 login-list-intro-title = Alaa ceŋorɗe njiytaa
@@ -80,6 +79,9 @@ about-logins-login-list-empty-search-description = Hay njeñtudi wootiri tolnond
 
 
 ## Breach Alert notification
+
+
+## Vulnerable Password notification
 
 
 ## Error Messages
