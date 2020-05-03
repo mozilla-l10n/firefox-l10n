@@ -147,10 +147,12 @@ cfr-whatsnew-fingerprinter-counter-header =
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокира много скриптове събиращи цифрови отпечатъци, които тайно събират информация за вашето устройство и действия за създаване на рекламен профил от вас.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Снемане на цифров отпечатък
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } спира скриптове, снемащи цифров отпечаък, които тайно събират информация за вашето устройство и действия за създаване ваш рекламен профил.
 
 ## Bookmark Sync
 
 cfr-doorhanger-sync-bookmarks-header = Вземете тази отметка на телефона си
+cfr-doorhanger-sync-bookmarks-body = Вземете своите отметки, пароли, история и всичко друго навсякъде, където сте вписани в/във { -brand-product-name }.
 cfr-doorhanger-sync-bookmarks-ok-button = Включване на { -sync-brand-short-name }
     .accesskey = В
 
