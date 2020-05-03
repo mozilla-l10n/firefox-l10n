@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (mapper på serveren)">
 <!ENTITY pop3Long.label                  "POP3 (e-post lagres på datamaskinen din)">
 
+<!ENTITY manualConfigTable.summary       "Serverinnstillinger">
 <!ENTITY incoming.label                  "Innkommende:">
 <!ENTITY incomingColumn.label            "Innkommende">
 <!ENTITY outgoing.label                  "Utgående:">
