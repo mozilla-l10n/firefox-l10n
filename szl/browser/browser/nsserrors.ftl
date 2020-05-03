@@ -39,3 +39,5 @@ ssl-error-fortezza-pqg = Niy idzie połōnczyć: partner SSL je we inkszyj dōmy
 ssl-error-unknown-cipher-suite = Poproszōny je niypoznany paket szyfrōw SSL.
 ssl-error-no-ciphers-supported = W tym programie niy ma ôbecnych i załōnczōnych żodnych paketōw szyfrōw.
 ssl-error-bad-block-padding = SSL dostoł rekord ze źle wypołniōnym blokiym.
+ssl-error-rx-record-too-long = SSL dostoł rekord, co mo wiynkszo dugość jak maksymalno przizwolono.
+ssl-error-tx-record-too-long = SSL prōbowoł posłać rekord, co mo wiynkszo dugość jak maksymalno przizwolono.
