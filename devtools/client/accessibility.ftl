@@ -5,9 +5,16 @@
 
 ### These strings are used inside the Accessibility panel.
 
+accessibility-learn-more = Научете повече
+accessibility-text-label-header = Текстови етикети и имена
+accessibility-keyboard-header = Клавиатура
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
+accessibility-warning =
+    .alt = Предупреждение
+accessibility-fail =
+    .alt = Грешка
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section
 ## that describe that currently selected accessible object has an accessibility issue
