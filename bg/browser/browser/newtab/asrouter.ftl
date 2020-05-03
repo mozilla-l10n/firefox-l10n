@@ -96,6 +96,9 @@ cfr-whatsnew-panel-header = Какво е новото
 cfr-whatsnew-release-notes-link-text = Прочетете бележките към изданието
 cfr-whatsnew-fx70-title = { -brand-short-name } вече се бори по-отдадено за вашата поверителност
 cfr-whatsnew-tracking-protect-title = Защитете се от проследяване
+cfr-whatsnew-tracking-protect-body =
+    { -brand-short-name } блокира много социални мрежи и уебсайтове, 
+    които ви проследяват онлайн.
 cfr-whatsnew-tracking-protect-link-text = Вижте отчета
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
@@ -108,6 +111,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = От { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Преглед на отчета
 cfr-whatsnew-lockwise-backup-title = Архивирайте паролите си
+cfr-whatsnew-lockwise-backup-body = Сега генерирайте защитени пароли, до които можете да имате достъп от всички устройства, където сте вписани.
 cfr-whatsnew-lockwise-backup-link-text = Включете записването на резервни копия
 cfr-whatsnew-lockwise-take-title = Вземете паролите си със себе си
 cfr-whatsnew-lockwise-take-body = Мобилното приложение { -lockwise-brand-short-name } ви позволява сигурен достъп до вашите архивирани пароли навсякъде.
@@ -140,6 +144,7 @@ cfr-whatsnew-fingerprinter-counter-header =
         [one] Спряно снемане на цифров отпечатък
        *[other] Спряно снемане на цифров отпечатък
     }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокира много скриптове събиращи цифрови отпечатъци, които тайно събират информация за вашето устройство и действия за създаване на рекламен профил от вас.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Снемане на цифров отпечатък
 
@@ -175,10 +180,25 @@ cfr-doorhanger-socialtracking-close-button = Затваряне
     .accesskey = з
 cfr-doorhanger-socialtracking-dont-show-again = Да не се показват подобни съобщения отново
     .accesskey = д
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } спря социална мрежа да ви следи тук
 cfr-doorhanger-socialtracking-description = Поверителността ви е от значение. { -brand-short-name } вече спира проследяванията от разпространените социални мрежи, ограничавайки събираните данни за действията ви в мрежата.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } блокира скрипт събиращ цифров отпечатък на тази страница
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } блокира скрипт добиващ виртуални пари на тази страница
 cfr-doorhanger-cryptominers-description = Вашата поверителност е от значение. { -brand-short-name } вече блокира скриптове, които използват изчислителната мощност на системата ви за извличане на криптовалути.
 
 ## Enhanced Tracking Protection Milestones
 
 cfr-doorhanger-milestone-ok-button = Показване на всички
     .accesskey = С
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+

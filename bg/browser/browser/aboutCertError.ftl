@@ -84,6 +84,7 @@ redirectLoop-title = Страницата не пренасочва правил
 unknownSocketType-title = Неочакван отговор от сървъра
 nssFailure2-title = Неуспешно установяване на шифрована връзка
 cspBlocked-title = Блокирано от Content Security Policy
+xfoBlocked-title = Блокирано от политиката за X-Frame-Options
 corruptedContentError-title = Грешка поради развалено съдържание
 remoteXUL-title = Отдалечен XUL
 sslv3Used-title = Невъзможно създаване на защитена връзка

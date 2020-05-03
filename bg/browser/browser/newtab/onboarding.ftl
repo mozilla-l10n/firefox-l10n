@@ -21,11 +21,12 @@ onboarding-button-label-get-started = Въведение
 onboarding-welcome-header = Добре дошли във { -brand-short-name }
 onboarding-welcome-body = Разполагате с четеца.<br/>Запознайте се с останалото от { -brand-product-name }
 onboarding-welcome-learn-more = Научете повече за ползите.
+onboarding-join-form-header = Присъединете се към { -brand-product-name }
 onboarding-welcome-modal-get-body = Разполагате с четеца.<br/>Сега се възползвайте максимално от { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Презаредете защитата на поверителността си.
 onboarding-welcome-modal-privacy-body = Разполагате с четеца. Нека подобрим поверителността.
 onboarding-welcome-modal-family-learn-more = Научете повече за семейството от продукти на { -brand-product-name }.
 onboarding-welcome-form-header = Започнете оттук
-onboarding-join-form-header = Присъединете се към { -brand-product-name }
 onboarding-join-form-body = За начало въведете адреса на своята ел. поща.
 onboarding-join-form-email =
     .placeholder = Въведете електронен адрес
@@ -75,9 +76,11 @@ onboarding-benefit-privacy-title = Истинска поверителност
 # transparent about how we use it."
 onboarding-benefit-privacy-text = Всичко, което правим зачита нашето обещание за личните данни: Взимаме по-малко, Пазим го зорко. Без тайни.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Вземете вашите отметки, пароли, история и всичко друго навсякъде, където използвате { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
 onboarding-benefit-monitor-text = Бъдете информирани, когато личните ви данни са изтекли неправомерно в интернет.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Управлявайте пароли, които са защитени и преносими.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -98,6 +101,7 @@ onboarding-ghostery-text = Разглеждайте по-бързо, по-удо
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Регистрирайте { -fxaccount-brand-name } и синхронизирайте отметки, пароли и отворени раздели навсякъде където използвате { -brand-short-name }.
 onboarding-tracking-protection-title2 = Защита от проследяване
+onboarding-tracking-protection-text2 = { -brand-short-name } помага да спрете уебсайтовете да ви следят онлайн, като затруднява и рекламите да ви досаждат в мрежата.
 onboarding-tracking-protection-button2 = Как работи
 onboarding-data-sync-title = Вземете своите настройки със себе си
 # "Sync" is short for synchronize.
