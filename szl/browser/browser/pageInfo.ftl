@@ -89,6 +89,23 @@ security-view-identity-domain =
     .value = Strōna:
 security-view-identity-verifier =
     .value = Zweryfikowano ôd:
+security-view-identity-validity =
+    .value = Przedownio sie:
+security-view-privacy =
+    .value = Prywatność i historyjo
+security-view-privacy-history-value = Była ta strōna już nawiydzōno ôdy mie?
+security-view-privacy-sitedata-value = Schrōnio ta strōna jakie informacyje na mojim kōmputrze?
+security-view-privacy-clearsitedata =
+    .label = Wypucuj cookies i dane strōn
+    .accesskey = W
+security-view-privacy-passwords-value = Mōm spamiyntane jakie hasła do tyj strōny?
+security-view-privacy-viewpasswords =
+    .label = Pokoż spamiyntane hasła
+    .accesskey = s
+security-view-technical =
+    .value = Techniczne detajle
+help-button =
+    .label = Pōmoc
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
@@ -96,3 +113,5 @@ security-view-identity-verifier =
 ##   $value (number) - Amount of data being stored
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
+security-site-data-cookies = Ja, cookies a { $value }{ $unit } danych strōn
+security-site-data-only = Ja, { $value }{ $unit } danych strōn
