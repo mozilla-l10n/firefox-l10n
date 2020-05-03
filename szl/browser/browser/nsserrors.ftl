@@ -23,3 +23,5 @@ ssl-error-no-certificate = Niy idzie znojś certyfikatu abo klucza potrzebnego d
 ssl-error-bad-client = Serwer dostoł ôd klijynta złe dane.
 ssl-error-bad-server = Serwer dostoł ôd serwera złe dane.
 ssl-error-unsupported-certificate-type = Tyn typ certyfikatu niy ma ôbsugowany.
+ssl-error-wrong-certificate = Niy podarziła sie autyntyzacyjo klijynta: prywatny klucz we bazie kluczy niy sztimuje z publicznym kluczym we bazie certyfikatōw.
+ssl-error-post-warning = Niypoznany kod felera SSL.
