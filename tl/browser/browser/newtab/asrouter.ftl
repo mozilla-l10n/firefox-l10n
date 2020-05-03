@@ -119,10 +119,6 @@ cfr-whatsnew-lockwise-take-link-text = Kunin ang app
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Mag-type nang mas kaunti at maghanap nang mas marami sa address bar
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Puntahan ang mga site na pinakamadalas mong gamitin sa pamamagitan ng isang click sa address bar. Maghanap nang mas mabilis gamit ang mga resulta mula sa { $searchEngineName } at iyong browsing history.
-cfr-whatsnew-searchbar-body-generic = Puntahan ang mga site na pinakamadalas mong gamitin sa pamamagitan ng isang click sa address bar. Maghanap nang mas mabilis gamit ang mga resulta mula sa iyong browsing history.
 cfr-whatsnew-searchbar-body-topsites = Ngayon, piliin lang ang address bar, at may magpapakitang box na may mga link sa mga top site mo.
 cfr-whatsnew-searchbar-icon-alt-text = Magnifying glass icon
 
@@ -130,7 +126,7 @@ cfr-whatsnew-searchbar-icon-alt-text = Magnifying glass icon
 
 cfr-whatsnew-pip-header = Manood ng mga video habang ikaw ay nagba-browse
 cfr-whatsnew-pip-body = Binubuksan ng Picture-in-picture ang video sa lumulutang na window para maaari kang manood habang abala sa ibang mga tab.
-cfr-whatsnew-pip-cta = Alamain pa
+cfr-whatsnew-pip-cta = Alamin
 
 ## Permission Prompt
 
