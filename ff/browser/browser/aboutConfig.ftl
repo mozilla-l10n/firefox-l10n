@@ -18,9 +18,33 @@ about-config-intro-warning-button = Jaɓ tanaa oo njokkaa
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Baylugol ɗee cuɓoraaɗe ina waawi jogaade baɗte { -brand-short-name } e kattanɗe walla kisal.
+about-config-page-title = Cuɓoraaɗe ceeɓtore
+about-config-search-input1 =
+    .placeholder = Yiylo innde cuɓoraaɗe
+about-config-show-all = Hollu Fof
+about-config-pref-add = Ɓeydu
+about-config-pref-toggle = Toggilo
+about-config-pref-edit = Taƴto
+about-config-pref-save = Danndu
+about-config-pref-reset = Firlit
+about-config-pref-delete = Momtu
+about-config-pref-add-button =
+    .title = Ɓeydu
+about-config-pref-toggle-button =
+    .title = Toggilo
+about-config-pref-edit-button =
+    .title = Taƴto
+about-config-pref-save-button =
+    .title = Danndu
+about-config-pref-reset-button =
+    .title = Firlit
+about-config-pref-delete-button =
+    .title = Momtu
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-number = Tonngoode
+about-config-pref-add-type-string = Ɓoggol
 
 ## Preferences with a non-default value are differentiated visually, and at the
 ## same time the state is made accessible to screen readers using an aria-label
@@ -29,3 +53,5 @@ about-config-caution-text = Baylugol ɗee cuɓoraaɗe ina waawi jogaade baɗte {
 ## Variables:
 ##   $value (String): The full value of the preference.
 
+about-config-pref-accessible-value-default =
+    .aria-label = { $value } (woowaande)
