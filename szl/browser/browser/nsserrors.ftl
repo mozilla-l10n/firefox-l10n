@@ -19,3 +19,7 @@ psmerr-hostreusedissuerandserial =
 ssl-error-export-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer niy ôbsuguje szyfrowanio wysokigo poziōmu.
 ssl-error-us-only-server = Niy idzie sie bezpiecznie kōmunikować. Serwer potrzebuje szyfrowanio wysokigo poziōmu, co niy ma ôbsugiwane.
 ssl-error-no-cypher-overlap = Niy idzie sie bezpiecznie kōmunikować: chybio spōlnych algorytmōw szyfrowanio.
+ssl-error-no-certificate = Niy idzie znojś certyfikatu abo klucza potrzebnego do autyntyzacyje.
+ssl-error-bad-client = Serwer dostoł ôd klijynta złe dane.
+ssl-error-bad-server = Serwer dostoł ôd serwera złe dane.
+ssl-error-unsupported-certificate-type = Tyn typ certyfikatu niy ma ôbsugowany.
