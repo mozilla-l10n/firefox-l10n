@@ -9,3 +9,6 @@ refresh-profile-dialog-button =
 refresh-profile-description = بە نوێبوونەوە دەست پێبکە بۆ چاک کردنی کێشەکان و ھێنانەوەی کار جێبەجێکردنی.
 refresh-profile-description-details = ئەمە:
 refresh-profile-remove = پێوەکراو لەگەڵ خوازراوەکانت بسڕەوە
+refresh-profile-restore = گێڕانەوەی ڕێکخستنەکانی وێبگەڕ بۆ باری بنەڕەتی
+refresh-profile = باشتر کردن ببەخشە بە { -brand-short-name }
+refresh-profile-button = نوێکردنەوە { -brand-short-name }...
