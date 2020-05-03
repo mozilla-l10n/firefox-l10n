@@ -167,6 +167,8 @@ cfr-doorhanger-sync-logins-ok-button = Включване на { -sync-brand-sho
 
 cfr-doorhanger-send-tab-header = Прочетете това в движение
 cfr-doorhanger-send-tab-recipe-header = Вземете тази рецепта в кухнята
+cfr-doorhanger-send-tab-ok-button = Опитайте Send Tab
+    .accesskey = п
 
 ## Firefox Send
 

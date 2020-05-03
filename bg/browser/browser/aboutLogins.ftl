@@ -162,6 +162,7 @@ confirm-discard-changes-dialog-confirm-button = Отхвърляне
 
 about-logins-breach-alert-title = Пробив в страница
 breach-alert-text = Паролите са изтекли или откраднати от този уебсайт, откакто последно сте обновили данните си за вход. Променете паролата си, за да защитите сметката си.
+about-logins-breach-alert-date = Пробивът е станал на { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = Отидете на { $hostname }
