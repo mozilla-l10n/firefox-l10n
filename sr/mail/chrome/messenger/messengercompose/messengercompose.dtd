@@ -266,8 +266,8 @@
 <!ENTITY followupAddr.label "Праћење-за:">
 <!ENTITY subject.label "Наслов:">
 <!ENTITY toAddr2.label "За">
-<!ENTITY ccAddr2.label "Cc">
-<!ENTITY bccAddr2.label "Bcc">
+<!ENTITY ccAddr2.label "Коп">
+<!ENTITY bccAddr2.label "сКоп">
 <!ENTITY replyAddr2.label "Одговори на">
 <!ENTITY newsgroupsAddr2.label "Интересна група">
 <!ENTITY followupAddr2.label "Настави на">
