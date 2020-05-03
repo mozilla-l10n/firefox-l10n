@@ -59,6 +59,8 @@ login-list-item-subtitle-new-login = Въведете данните за вхо
 login-list-item-subtitle-missing-username = (без потребителско име)
 about-logins-list-item-breach-icon =
     .title = Взломена страница
+about-logins-list-item-vulnerable-password-icon =
+    .title = Уязвима парола
 
 ## Introduction screen
 
@@ -105,10 +107,19 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Потвърдете самоличността си, за да редактирате запазените данни за вход.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = промени данни за вход
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Потвърдете самоличността си, за да разкриете запазената парола.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = разкрие запазена парола
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Потвърдете самоличността си, за да копирате запазената парола.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = копира запазена парола
 
 ## Master Password notification
 
@@ -149,6 +160,7 @@ confirm-discard-changes-dialog-confirm-button = Отхвърляне
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Пробив в страница
 breach-alert-text = Паролите са изтекли или откраднати от този уебсайт, откакто последно сте обновили данните си за вход. Променете паролата си, за да защитите сметката си.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -158,6 +170,9 @@ about-logins-breach-alert-learn-more-link = Научете повече
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Уязвима парола
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Към { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Научете повече
 
 ## Error Messages
