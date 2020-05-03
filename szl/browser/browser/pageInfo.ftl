@@ -173,3 +173,14 @@ security-visits-number =
         [few] Ja, { $visits } razy
        *[many] Ja, { $visits } razy
     }
+# This string is used to display the size of a media file
+# Variables:
+#   $kb (number) - The size of an image in Kilobytes
+#   $bytes (number) - The size of an image in Bytes
+properties-general-size =
+    .value =
+        { $bytes ->
+            [one] { $kb } KB ({ $bytes } bajt)
+            [few] { $kb } KB ({ $bytes } bajty)
+           *[many] { $kb } KB ({ $bytes } bajtōw)
+        }
