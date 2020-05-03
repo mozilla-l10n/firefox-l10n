@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-checkbox = Seknam kadi, tiiɗno!
 about-config-warning-button = Mi jaɓii jeemaade!
 about-config2-title = Teelte lugge
 about-config-search-input =
@@ -10,9 +11,13 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Yahru seese
+about-config-intro-warning-checkbox = Jeertinam so mi etiima yettaade ɗee cuɓoraaɗe
+about-config-intro-warning-button = Jaɓ tanaa oo njokkaa
 
+##
 
-
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = Baylugol ɗee cuɓoraaɗe ina waawi jogaade baɗte { -brand-short-name } e kattanɗe walla kisal.
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
