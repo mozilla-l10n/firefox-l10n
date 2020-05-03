@@ -14,7 +14,7 @@
 <!ENTITY lowPriorityCmd.label "Malalta">
 <!ENTITY normalPriorityCmd.label "Meza">
 <!ENTITY highPriorityCmd.label "Alta">
-<!ENTITY highestPriorityCmd.label "Plej malalta">
+<!ENTITY highestPriorityCmd.label "Plej alta">
 
 <!ENTITY contextDesc.label "Apliki filtrilon dum:">
 <!ENTITY contextIncomingMail.label "elŝuti retpoŝton:">
