@@ -415,6 +415,11 @@ install-update-button = Обновяване
 # badge is the private browsing icon included next to the extension's name.
 addon-badge-private-browsing-allowed =
     .title = Разрешено в поверителни прозорци
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Разрешено в поверителни прозорци
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
 addon-detail-private-browsing-help = Когато е разрешено, разширението ще има достъп до дейностите ви, докато разглеждате поверително. <a data-l10n-name="learn-more">Научете повече</a>
 addon-detail-private-browsing-allow = Разрешаване
 addon-detail-private-browsing-disallow = Забраняване
@@ -423,6 +428,11 @@ addon-detail-private-browsing-disallow = Забраняване
 addon-badge-recommended =
     .title = Препоръчано
     .alt = Препоръчано
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name } препоръчва само разширения, които отговарят на нашите стандарти за сигурност и производителност
+    .aria-label = { addon-badge-recommended2.title }
 available-updates-heading = Налични обновявания
 recent-updates-heading = Последни обновявания
 release-notes-loading = Зареждане…
@@ -430,6 +440,9 @@ release-notes-error = За съжаление, зареждането на бе�
 addon-permissions-empty = Разширението не изисква никакви права
 recommended-extensions-heading = Препоръчани разширения
 recommended-themes-heading = Препоръчани теми
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Чувствате се креативни? <a data-l10n-name="link"> Създайте своя собствена тема с Firefox Color.</a>
 
 ## Page headings
 
@@ -442,6 +455,7 @@ discover-heading = Персонализирайте вашия { -brand-short-na
 shortcuts-heading = Управление на клавишните комбинации на разширението
 theme-heading-search-label = Още теми
 extension-heading-search-label = Още разширения
+default-heading-search-label = Намерете още добавки
 addons-heading-search-input =
     .placeholder = търсене в addons.mozilla.org
 addon-page-options-button =
