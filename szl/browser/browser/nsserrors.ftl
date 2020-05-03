@@ -35,3 +35,7 @@ ssl-error-bad-cert-alert = Partner SSL niy poradzi zweryfikować twojigo certyfi
 ssl-error-revoked-cert-alert = Partner SSL ôdciepoł twōj certyfikat choby niypłatny.
 ssl-error-expired-cert-alert = Partner SSL ôdciepoł twōj certyfikat choby przedowniōny.
 ssl-error-ssl-disabled = Niy idzie sie połōnczyć: SSL je zastawiōne.
+ssl-error-fortezza-pqg = Niy idzie połōnczyć: partner SSL je we inkszyj dōmynie FORTEZZA
+ssl-error-unknown-cipher-suite = Poproszōny je niypoznany paket szyfrōw SSL.
+ssl-error-no-ciphers-supported = W tym programie niy ma ôbecnych i załōnczōnych żodnych paketōw szyfrōw.
+ssl-error-bad-block-padding = SSL dostoł rekord ze źle wypołniōnym blokiym.
