@@ -450,6 +450,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signintosync.label "Se pla &syncBrand.shortName.label; pśizjawiś…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; zmóžniś…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rědy rědowaś…">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Bocnicu synchronizěrowanych rejtarikow pokazaś">
 <!ENTITY appMenuRemoteTabs.hidesidebar.label "Bocnicu synchronizěrowanych rejtarikow schowaś">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Drugi rěd zwězaś">
 
