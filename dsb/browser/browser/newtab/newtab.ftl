@@ -5,9 +5,9 @@
 
 ### Firefox Home / New Tab strings for about:home / about:newtab.
 
-newtab-page-title = Nowy rejtark
+newtab-page-title = Nowy rejtarik
 newtab-settings-button =
-    .title = Bok wašogo nowego rejtarka pśiměriś
+    .title = Bok wašogo nowego rejtarika pśiměriś
 
 ## Search box component.
 
@@ -95,7 +95,7 @@ newtab-privacy-modal-paragraph-2 =
     wjelgin pśeglědane wopśimjeśe wót wubranych sponsorow. Buźćo wěsty, <strong>waše pśeglědowańske 
     daty wašu wósobinsku wersiju { -brand-product-name } nigda njespušća</strong> ­­- njewiźimy je, a naše 
     sponsory teke nic.
-newtab-privacy-modal-link = Zgóńśo, kak priwatnosć w nowem rejtarku funkcioněrujo
+newtab-privacy-modal-link = Zgóńśo, kak priwatnosć w nowem rejtariku funkcioněrujo
 
 ##
 

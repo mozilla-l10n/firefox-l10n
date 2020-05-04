@@ -81,7 +81,7 @@ restart-later = Pózdźej znowego startowaś
 extension-controlled-homepage-override = Rozšyrjenje <img data-l10n-name="icon"/> { $name } waš startowy bok wóźi.
 # This string is shown to notify the user that their new tab page
 # is being controlled by an extension.
-extension-controlled-new-tab-url = Rozšyrjenje <img data-l10n-name="icon"/> { $name } waš bok nowego rejtarka wóźi.
+extension-controlled-new-tab-url = Rozšyrjenje <img data-l10n-name="icon"/> { $name } waš bok nowego rejtarika wóźi.
 # This string is shown to notify the user that their notifications permission
 # is being controlled by an extension.
 extension-controlled-web-notifications = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, toś to nastajenje wóźi.
@@ -90,7 +90,7 @@ extension-controlled-web-notifications = Rozšyrjenje, <img data-l10n-name="icon
 extension-controlled-default-search = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, jo wašu standardnu pytnicu nastajiło.
 # This string is shown to notify the user that Container Tabs
 # are being enabled by an extension.
-extension-controlled-privacy-containers = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, se kontejnerowe rejtarki pomina.
+extension-controlled-privacy-containers = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, se kontejnerowe rejtariki pomina.
 # This string is shown to notify the user that their content blocking "All Detected Trackers"
 # preferences are being controlled by an extension.
 extension-controlled-websites-content-blocking-all-trackers = Rozšyrjenje, <img data-l10n-name="icon"/> { $name }, toś to nastajenje kontrolěrujo.
@@ -140,27 +140,27 @@ startup-restore-warn-on-quit =
     .label = Warnowaś, gaž se wobglědowak kóńcy
 disable-extension =
     .label = Rozšyrjenje znjemóžniś
-tabs-group-header = Rejtarki
+tabs-group-header = Rejtariki
 ctrl-tab-recently-used-order =
-    .label = Strg+Tab pśejźo rejtarki pó tuchylu póstajonem pórěźe
+    .label = Strg+Tab pśejźo rejtariki pó tuchylu póstajonem pórěźe
     .accesskey = T
 open-new-link-as-tabs =
-    .label = Wótkaze w rejtarkach město nowych woknow wócyniś
+    .label = Wótkaze w rejtarikach město nowych woknow wócyniś
     .accesskey = r
 warn-on-close-multiple-tabs =
-    .label = Warnowaś, gaž někotare rejtarki se zacynjaju
+    .label = Warnowaś, gaž někotare rejtariki se zacynjaju
     .accesskey = W
 warn-on-open-many-tabs =
-    .label = Warnowaś, gaby wócynjanje někotarych rejtarkow mógło { -brand-short-name } spomałšyś
+    .label = Warnowaś, gaby wócynjanje někotarych rejtarikow mógło { -brand-short-name } spomałšyś
     .accesskey = k
 switch-links-to-new-tabs =
-    .label = Ned k rejtarkoju  pśejś, w kótaremž se wótkaz wócynja
+    .label = Ned k rejtarikoju  pśejś, w kótaremž se wótkaz wócynja
     .accesskey = N
 show-tabs-in-taskbar =
-    .label = Rejtarkowe pśeglědy we Windowsowej nadawkowej rědce pokazaś
+    .label = Rejtarikowe pśeglědy we Windowsowej nadawkowej rědce pokazaś
     .accesskey = R
 browser-containers-enabled =
-    .label = Kontejnerowe rejtarki zmóžniś
+    .label = Kontejnerowe rejtariki zmóžniś
     .accesskey = m
 browser-containers-learn-more = Dalšne informacije
 browser-containers-settings =
