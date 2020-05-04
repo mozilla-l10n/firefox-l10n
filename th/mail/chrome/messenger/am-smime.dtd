@@ -12,6 +12,11 @@
 <!ENTITY alwaysEncryptMessage.label "ต้องเข้ารหัส (จะไม่สามารถส่งข้อความได้เว้นแต่ผู้รับทั้งหมดจะมีใบรับรอง)">
 <!ENTITY alwaysEncryptMessage.accesskey "ต">
 <!ENTITY encryptionCert.message "ใช้ใบรับรองนี้เพื่อเข้าและถอดรหัสข้อความที่ถูกส่งถึงคุณ:">
+
+<!ENTITY e2eLearnMore.label "เรียนรู้เพิ่มเติม">
+
+
+
 <!ENTITY digitalSign.certificate.button "เลือก…">
 <!ENTITY digitalSign.certificate.accesskey "ล">
 <!ENTITY digitalSign.certificate_clear.button "ล้าง">
@@ -31,7 +36,16 @@
 <!ENTITY manageDevices.label "อุปกรณ์ความปลอดภัย">
 <!ENTITY manageDevices.accesskey "ภ">
 
+
+
+
+
+
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "จัดการกุญแจ OpenPGP">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "เลือกใบรับรอง">
 <!ENTITY certPicker.info  "ใบรับรอง:">
 <!ENTITY certPicker.detailsLabel "รายละเอียดของใบรับรองที่เลือก:">
+
