@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Žrědłowy tekst boka">
 <!ENTITY pageSourceCmd.accesskey "t">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Info wó boku">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout Debugger">
 <!ENTITY ldbCmd.accesskey "L">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Połnu wobrazowku spušćiś">
 <!ENTITY exitFullScreenCmd.accesskey "P">
+
 <!ENTITY fullScreenCmd.label "Połna wobrazowka">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Z &syncBrand.shortName.label; znowego zwězaś">
 <!ENTITY fxaUnverified.label "Wašo konto wobkšuśiś">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Miniměrowaś">
 <!ENTITY fullScreenRestore.tooltip "Wótnowiś">
@@ -175,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Kontowe nastajenja">
 <!ENTITY fxa.menu.manageAccount2.label "Konto zastojaś">
 <!ENTITY fxa.menu.signOut.label "Wótzjawiś…">
-<!ENTITY fxa.menu.deviceSettings.label "Rědowe nastajenja">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; konfigurěrowaś…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Cytańske znamjenja">
 <!ENTITY bookmarksMenu.accesskey "C">
-
 <!ENTITY bookmarkThisPageCmd.label "Toś ten bok ako cytańske znamje składowaś">
 <!ENTITY editThisBookmarkCmd.label "Toś to cytańske znamje wobźěłaś">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,40 +238,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "Z">
 <!ENTITY stopCmd.label                "Stoj">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "K adresy w adresowem pólu">
 <!ENTITY printButton.label            "Śišćaś">
 <!ENTITY printButton.tooltip          "Toś ten bok śišćaś">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Sedłowe informacije se woglědaś">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobcerk powěsćow wócyniś">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobcerk městnowego napšašowanja wócyniś">
-<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Wobcerk za awtomatiske wótgraśe wócyniś">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Wobceŕk powěsćow wócyniś">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Wobceŕk městnowego napšašowanja wócyniś">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Wobceŕk za awtomatiske wótgraśe wócyniś">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Wobcerk powěźeńki dodankoweje instalacije wócyniś">
 <!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Pšawo za ekstrahěrowanje canvas zastojaś">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wobcerk powěźeńki składowanja offline wócyniś">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Wobcerk powěźeńki składowanja gronidła wócyniś">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Wobceŕk powěźeńki składowanja offline wócyniś">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Wobceŕk powěźeńki składowanja gronidła wócyniś">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Wužywanje tykacow zastojaś">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Změńśo, lěc móžośo powěźeńki wót sedła dostaś">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Daty w trajnem składowaku składowaś">
 
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Wobglědowak se zdaloka wóźi">
-<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobcerk webawtentifikacije wócyniś">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Wobceŕk webawtentifikacije wócyniś">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Dialog za pšawa pśeglědowańskeje aktiwity wócyniś">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Źělenje wašeje kamery a/abo wašogo mikrofona ze sedłom zastojaś">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Źělenje wašogo mikrofona ze sedłom zastojaś">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Źělenje wašych woknow abo wašeje wobrazowki ze sedłom zastojaś">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Wobcerk instalaciskeje powěźeńki wócyniś">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Wobceŕk instalaciskeje powěźeńki wócyniś">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Toś ten bok pśełožowaś">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Pśełožowanje boka zastojaś">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Wužywanje softwary DRM zastojaś">
-<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobcerk wócyniś">
-
-<!ENTITY urlbar.permissionsGranted.tooltip       "Sćo pśizwólił toś tomu websedłoju pśidatne pšawa.">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-wobceŕk wócyniś">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Sćo swóju kameru za toś to websedło zablokěrował.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Sćo swój mikrofon za toś to websedło zablokěrował.">
@@ -292,8 +284,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Sćo blokěrował pśistup k MIDI za toś to websedło.">
 <!ENTITY urlbar.installBlocked.tooltip           "Sćo blokěrował instalěrowanje dodankow za toś to websedło.">
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Sćo pśizwólił toś tomu websedłoju pśidatne pšawa.">
+
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Historiju pokazaś">
+
 
 <!ENTITY searchItem.title             "Pytaś">
 
@@ -358,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Kontejnery zastojaś">
 <!ENTITY manageUserContext.accesskey      "K">
+
 <!ENTITY newNavigatorCmd.label        "Nowe wokno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -417,7 +413,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Pjerwjejšne pósejźenje wótnowiś">
 
 <!ENTITY showAllHistoryCmd2.label "Wšu historiju pokazaś">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Wšu historiju pokazaś">
@@ -498,6 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Wěcej">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Pytaś abo adresu zapódaś">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -597,7 +593,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
 <!ENTITY showOnlyThisFrameCmd.accesskey "J">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Wobłuk znowego zacytaś">
 <!ENTITY reloadFrameCmd.accesskey     "z">
@@ -631,6 +626,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Toś ten wobłuk ako cytańske znamje skladowaś">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "b">
+
 <!ENTITY pageAction.copyLink.label    "Wótkaz kopěrowaś">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,11 +640,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "Wótkaz e-mailowaś…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "Bok składowaś ako…">
 <!ENTITY savePageCmd.accesskey        "B">
-<!ENTITY savePageCmd.accesskey2       "s">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "s">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Wobłuk składowaś ako…">
 <!ENTITY saveFrameCmd.accesskey       "b">
@@ -752,20 +747,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Pówětšyś">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pómjeńšyś">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Slědk stajiś">
 <!ENTITY fullZoomResetCmd.accesskey     "l">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -789,7 +781,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Zacyniś">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "Z">
 
@@ -815,7 +806,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "b">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Směr teksta pśešaltowaś">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Na toś tom boku pytaś…">
@@ -845,19 +835,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Zwisk">
 <!ENTITY identity.connectionSecure "Wěsty zwisk">
 <!ENTITY identity.connectionNotSecure "Zwisk njejo wěsty">
-
-<!ENTITY identity.connectionSecure3 "Zwisk jo wěsty">
-<!ENTITY identity.connectionNotSecure2 "Zwisk njejo wěsty">
-<!ENTITY identity.connectionNotSecureSecurityView "Njejsćo wěsće zwězany z toś tym sedłom.">
 <!ENTITY identity.connectionFile "Toś ten bok jo se na wašom licadle składł.">
 <!ENTITY identity.connectionVerified2 "Sćo z toś tym sedłom wěsće zwězany, kótaregož wobsejźaŕ jo:">
-<!ENTITY identity.connectionVerified3 "Sćo wěsće zwězany z toś tym sedłom.">
 <!ENTITY identity.connectionInternal "To jo wěsty bok &brandShortName;.">
 <!ENTITY identity.extensionPage "Toś ten bok jo se z rozšyrjenja zacytał.">
 <!ENTITY identity.insecureLoginForms2 "Pśizjawjenja, kótarež zapódawaju se na toś tom boku, by mógli wobgrozone byś.">
 <!ENTITY identity.customRoot "Zwisk jo se pśeglědował pśez certifikatowego wudawarja, kótaryž njejo pśipóznaty wót Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Certifikat wudany na:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; jo źěle toś togo boka blokěrował, kótarež njejsu wěste.">
@@ -892,8 +875,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Cookieje a sedłowe daty wulašowaś…">
 
 <!ENTITY identity.permissions "Pšawa">
-
-<!ENTITY identity.permissions3 "Pšawa">
 <!ENTITY identity.permissionsEmpty "Njejsćo toś tomu sedłoju wósebne pšawa pśizwólił.">
 <!ENTITY identity.permissionsReloadHint "Musyśo snaź bok znowego zacytaś, aby se změny wustatkowali.">
 <!ENTITY identity.permissionsPreferences.tooltip "Nastajenja pšawow wócyniś">
@@ -1043,6 +1024,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Zacyniś">
 
