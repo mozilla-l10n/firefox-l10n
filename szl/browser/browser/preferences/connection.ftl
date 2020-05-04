@@ -1,0 +1,69 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+connection-window =
+    .title = Nasztalowania połōnczynio
+    .style =
+        { PLATFORM() ->
+            [macos] width: 44em
+           *[other] width: 49em
+        }
+connection-close-key =
+    .key = w
+connection-disable-extension =
+    .label = Wyłōncz rozszyrzynie
+connection-proxy-configure = Nastow proxy serwera do dostympu do interneta
+connection-proxy-option-no =
+    .label = Bez serwera proxy
+    .accesskey = y
+connection-proxy-option-system =
+    .label = Używej systymowych nasztalowań serwerōw proxy
+    .accesskey = U
+connection-proxy-option-auto =
+    .label = Autōmatyczne znojdywanie nasztalowań serwerōw proxy do tego neca
+    .accesskey = w
+connection-proxy-option-manual =
+    .label = Rynczno kōnfiguracyjo serwerōw proxy
+    .accesskey = R
+connection-proxy-http = HTTP Proxy
+    .accesskey = x
+connection-proxy-http-port = Port
+    .accesskey = P
+connection-proxy-http-share =
+    .label = Używej tego serwera proxy do wszyskich protokołōw
+    .accesskey = s
+connection-proxy-ssl = SSL Proxy
+    .accesskey = L
+connection-proxy-http-sharing =
+    .label = Używej tego serwera proxy tyż do FTP a HTTPS
+    .accesskey = s
+connection-proxy-https = HTTPS Proxy
+    .accesskey = H
+connection-proxy-ssl-port = Port
+    .accesskey = o
+connection-proxy-ftp = FTP Proxy
+    .accesskey = F
+connection-proxy-ftp-port = Port
+    .accesskey = r
+connection-proxy-socks = SOCKS Host
+    .accesskey = C
+connection-proxy-socks-port = Port
+    .accesskey = t
+connection-proxy-socks4 =
+    .label = SOCKS v4
+    .accesskey = K
+connection-proxy-socks5 =
+    .label = SOCKS v5
+    .accesskey = v
+connection-proxy-noproxy = Niy używej proxy do:
+    .accesskey = N
+connection-proxy-noproxy-desc = Bez przikłod: .mozilla.org, .net.nz, 192.168.1.0/24
+# Do not translate localhost, 127.0.0.1 and ::1.
+connection-proxy-noproxy-localhost-desc = Połōncznynia ze localhost, 127.0.0.1 i ::1 żodyn roz niy używajōm serwera proxy.
+connection-proxy-autotype =
+    .label = Adresa URL autōmatycznyj kōnfiguracyje proxy
+    .accesskey = A
+connection-proxy-reload =
+    .label = Przeladuj
+    .accesskey = z
