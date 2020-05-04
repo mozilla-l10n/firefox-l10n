@@ -23,5 +23,6 @@ sync-label = Wkludź swoja adresa email
 sync-input =
     .placeholder = Email
 sync-button = Dalij
+sync-terms = Jak pudziesz dalij, to dowosz zgoda na <a data-l10n-name="terms">warunki używanio</a> a <a data-l10n-name="privacy">prawidła ôchrōny prywatności</a>.
 sync-first = Piyrszy roz używosz { -sync-brand-name }? Bydzie trza sie zalogować we kożdyj instalacyje aplikacyji Firefox, coby synchrōnizować dane.
 sync-learn = Przewiydz sie wiyncyj
