@@ -64,11 +64,11 @@
 <!ENTITY markAsReadDelay.accesskey        "z">
 <!ENTITY secondsLabel.label               "sekundow">
 <!ENTITY openMsgIn.label                  "Powěsći wócyniś w:">
-<!ENTITY openMsgInNewTab.label            "nowem rejtarku">
+<!ENTITY openMsgInNewTab.label            "nowem rejtariku">
 <!ENTITY openMsgInNewTab.accesskey        "r">
 <!ENTITY reuseExpRadio0.label             "nowem powěsćowem woknje">
 <!ENTITY reuseExpRadio0.accesskey         "n">
 <!ENTITY reuseExpRadio1.label             "eksistěrujucem powěsćowem woknje">
 <!ENTITY reuseExpRadio1.accesskey         "e">
-<!ENTITY closeMsgOnMoveOrDelete.label     "Powěsćowe wokno/Powěsćowy rejtark pśi pśesuwanju abo lašowanju zacyniś">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Powěsćowe wokno/Powěsćowy rejtarik pśi pśesuwanju abo lašowanju zacyniś">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "P">
