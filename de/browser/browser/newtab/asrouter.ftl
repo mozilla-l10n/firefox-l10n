@@ -125,10 +125,6 @@ cfr-whatsnew-lockwise-take-link-text = Hol dir die App
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Weniger Tippen und mehr Finden mit der Adressleiste
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Rufe deine meistbesuchten Websites mit einem Klick in die Adressleiste auf. Werde schneller fündig mit Suchergebnissen von { $searchEngineName } und deiner Browser-Chronik.
-cfr-whatsnew-searchbar-body-generic = Rufe deine meistbesuchten Websites mit einem Klick in die Adressleiste auf. Werde schneller fündig mit Vorschlägen aus deiner Browser-Chronik.
 cfr-whatsnew-searchbar-body-topsites = Klicken Sie einfach in die Adressleiste, um ein Auswahlmenü mit Ihren „Wichtigen Seiten“ anzuzeigen.
 cfr-whatsnew-searchbar-icon-alt-text = Lupensymbol
 
@@ -221,6 +217,7 @@ cfr-doorhanger-milestone-ok-button = Alle anzeigen
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Sichere Passwörter ganz einfach erstellen
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-Symbol
 
 ## Vulnerable Passwords message
