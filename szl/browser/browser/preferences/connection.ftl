@@ -67,3 +67,21 @@ connection-proxy-autotype =
 connection-proxy-reload =
     .label = Przeladuj
     .accesskey = z
+connection-proxy-socks-remote-dns =
+    .label = Proxy DNS przi używaniu SOCKS v5
+    .accesskey = D
+connection-dns-over-https =
+    .label = Załōncz DNS over HTTPS
+    .accesskey = a
+connection-dns-over-https-url-resolver = Dostowca
+    .accesskey = D
+# Variables:
+#   $name (String) - Display name or URL for the DNS over HTTPS provider
+connection-dns-over-https-url-item-default =
+    .label = { $name } (bazowy)
+    .tooltiptext = Używej bazowego URL do rozwiōnzowanio DNS over HTTPS
+connection-dns-over-https-url-custom =
+    .label = Włosno
+    .accesskey = W
+    .tooltiptext = Wkludź preferowano adresa URL do rozwiōnzowanio DNS over HTTPS
+connection-dns-over-https-custom-label = Włosno
