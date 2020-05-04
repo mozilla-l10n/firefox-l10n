@@ -166,20 +166,20 @@ browser-containers-learn-more = Dalšne informacije
 browser-containers-settings =
     .label = Nastajenja…
     .accesskey = s
-containers-disable-alert-title = Wše kontejnerowe rejtarki zacyniś?
+containers-disable-alert-title = Wše kontejnerowe rejtariki zacyniś?
 containers-disable-alert-desc =
     { $tabCount ->
-        [one] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowy rejtark zacynijo. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
-        [two] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowej rejtarka zacynijotej. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
-        [few] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowe rejtarki zacyniju. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
-       *[other] Jolic znjemóžnjaśo něnto kontejnerowe rejtarki, se { $tabCount } kontejnerowych rejtarkow zacynijo. Cośo kontejnerowe rejtarki napšawdu znjemóžniś?
+        [one] Jolic znjemóžnjaśo něnto kontejnerowe rejtariki, se { $tabCount } kontejnerowy rejtarik zacynijo. Cośo kontejnerowe rejtariki napšawdu znjemóžniś?
+        [two] Jolic znjemóžnjaśo něnto kontejnerowe rejtariki, se { $tabCount } kontejnerowej rejtarika zacynijotej. Cośo kontejnerowe rejtariki napšawdu znjemóžniś?
+        [few] Jolic znjemóžnjaśo něnto kontejnerowe rejtariki, se { $tabCount } kontejnerowe rejtariki zacyniju. Cośo kontejnerowe rejtariki napšawdu znjemóžniś?
+       *[other] Jolic znjemóžnjaśo něnto kontejnerowe rejtariki, se { $tabCount } kontejnerowych rejtarikow zacynijo. Cośo kontejnerowe rejtariki napšawdu znjemóžniś?
     }
 containers-disable-alert-ok-button =
     { $tabCount ->
-        [one] { $tabCount } kontejnerowy rejtark zacyniś
-        [two] { $tabCount } kontejnerowej rejtarka zacyniś
-        [few] { $tabCount } kontejnerowe rejtarki zacyniś
-       *[other] { $tabCount } kontejnerowych rejtarkow zacyniś
+        [one] { $tabCount } kontejnerowy rejtarik zacyniś
+        [two] { $tabCount } kontejnerowej rejtarika zacyniś
+        [few] { $tabCount } kontejnerowe rejtariki zacyniś
+       *[other] { $tabCount } kontejnerowych rejtarikow zacyniś
     }
 containers-disable-alert-cancel-button = Zmóžnjone wóstajiś
 containers-remove-alert-title = Toś ten kontejner wótwónoźeś?
@@ -187,10 +187,10 @@ containers-remove-alert-title = Toś ten kontejner wótwónoźeś?
 #   $count (Number) - Number of tabs that will be closed.
 containers-remove-alert-msg =
     { $count ->
-        [one] Jolic wotwónoźijośo toś ten kontejner něnto, se { $count } kontejnerowy rejtark zacynijo. Cosó toś ten kontejner napšawdu wótwónoźeś?
-        [two] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowej rejtarka zacynijotej. Cosó toś ten kontejner napšawdu wótwónoźeś?
-        [few] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowe rejtarki zacyniju. Cosó toś ten kontejner napšawdu wótwónoźeś?
-       *[other] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowych rejtarkow zacynijo. Cosó toś ten kontejner napšawdu wótwónoźeś?
+        [one] Jolic wotwónoźijośo toś ten kontejner něnto, se { $count } kontejnerowy rejtarik zacynijo. Cosó toś ten kontejner napšawdu wótwónoźeś?
+        [two] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowej rejtarika zacynijotej. Cosó toś ten kontejner napšawdu wótwónoźeś?
+        [few] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowe rejtariki zacyniju. Cosó toś ten kontejner napšawdu wótwónoźeś?
+       *[other] Jolic něnto wotwónoźijośo toś ten kontejner, se { $count } kontejnerowych rejtarikow zacynijo. Cosó toś ten kontejner napšawdu wótwónoźeś?
     }
 containers-remove-ok-button = Toś ten kontejner wótwónoźeś
 containers-remove-cancel-button = Toś ten kontejner njewótwónoźeś
@@ -398,7 +398,7 @@ performance-allow-hw-accel =
     .accesskey = H
 performance-limit-content-process-option = Limit wopśimjeśowego procesa
     .accesskey = L
-performance-limit-content-process-enabled-desc = Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.
+performance-limit-content-process-enabled-desc = Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtariki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.
 performance-limit-content-process-blocked-desc = Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym { -brand-short-name } změniś. <a data-l10n-name="learn-more">Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona</a>
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -446,13 +446,13 @@ network-proxy-connection-settings =
 
 ## Home Section
 
-home-new-windows-tabs-header = Nowe wokna a rejtarki
-home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój startowy bok, nowe wokna a nowe rejtarki wócynjaśo.
+home-new-windows-tabs-header = Nowe wokna a rejtariki
+home-new-windows-tabs-description2 = Wubjeŕśo, což cośo wiźeś, gaž swój startowy bok, nowe wokna a nowe rejtariki wócynjaśo.
 
 ## Home Section - Home Page Customization
 
 home-homepage-mode-label = Startowy bok a nowe wokna
-home-newtabs-mode-label = Nowe rejtarki
+home-newtabs-mode-label = Nowe rejtariki
 home-restore-defaults =
     .label = Standard wótnowiś
     .accesskey = S
@@ -556,7 +556,7 @@ search-show-suggestions-above-history-option =
     .label = Pytańske naraźenja pśed pśeglědowańskeju historiju we wuslědkach adresowego póla pokazaś
 search-show-suggestions-private-windows =
     .label = Pytańske naraźenja w priwatnych woknach pokazaś
-suggestions-addressbar-settings = Wubjeŕśo nastajenja za pśeglědowańsku historiju, cytańske znamjenja a rejtarkowe naraźenja
+suggestions-addressbar-settings = Wubjeŕśo nastajenja za pśeglědowańsku historiju, cytańske znamjenja a rejtarikowe naraźenja
 search-suggestions-cant-show = Pytańske naraźenja njebudu se we wuslědkach adresowego póla pokazaś, dokulaž sćo { -brand-short-name } tak konfigurěrował, až njespomnjejo se nigda historiju.
 search-one-click-header = Pytnice z jadnym kliknjenim
 search-one-click-desc = Wubjeŕśo alternatiwne pytnice, kótarež se pód adresowym pólom a pytańskim pólom pokazuju, gaž klucowe słowo zapódawaśo.
@@ -588,12 +588,12 @@ containers-back-button =
             [windows] Slědk k nastajenjam
            *[other] Slědk k nastajenjam
         }
-containers-header = Kontejnerowe rejtarki
+containers-header = Kontejnerowe rejtariki
 containers-add-button =
     .label = Nowy kontejner pśidaś
     .accesskey = k
 containers-new-tab-check =
-    .label = Kontejner za kuždy nowy rejtark wubraś
+    .label = Kontejner za kuždy nowy rejtarik wubraś
     .accesskey = K
 containers-preferences-button =
     .label = Nastajenja
@@ -607,7 +607,7 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Wzejśo swój web sobu
-sync-signedout-description = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+sync-signedout-description = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 sync-signedout-account-title = Zwězaś z: { -fxaccount-brand-name }
 sync-signedout-account-create = Njamaśo konto? Zachopśo
     .accesskey = k
@@ -663,7 +663,7 @@ prefs-syncing-off = Synchronizacija: WUŠALTOWANA
 prefs-sync-setup =
     .label = { -sync-brand-short-name } konfigurěrowaś
     .accesskey = k
-prefs-sync-offer-setup-label = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
+prefs-sync-offer-setup-label = Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtariki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.
 prefs-sync-now =
     .labelnotsyncing = Něnto synchronizěrowaś
     .accesskeynotsyncing = N
