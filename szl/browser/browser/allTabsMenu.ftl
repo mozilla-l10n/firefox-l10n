@@ -7,5 +7,10 @@ all-tabs-menu-undo-close-tab =
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Szukej po kartach
+all-tabs-menu-new-user-context =
+    .label = Nowo kōntynerowo karta
 all-tabs-menu-hidden-tabs =
     .label = Skryte karty
+all-tabs-menu-manage-user-context =
+    .label = Regiyruj kōntynerami
+    .accesskey = k
