@@ -10,4 +10,4 @@ sync-disconnect-dialog-title = Deconectezi { -sync-brand-short-name }
 sync-disconnect-dialog-body = { -brand-product-name } va opri sincronizarea cu contul tău, dar nu va șterge niciuna din datele de navigare de pe acest dispozitiv.
 fxa-disconnect-dialog-title = Deconectezi { -brand-product-name }?
 fxa-disconnect-dialog-body = { -brand-product-name } se va deconecta de la contul tău, dar nu va șterge niciuna din datele de navigare de pe acest dispozitiv.
-sync-disconnect-dialog-button = Deconectează-te
+sync-disconnect-dialog-button = Deconectare

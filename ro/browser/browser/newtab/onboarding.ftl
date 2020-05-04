@@ -36,7 +36,7 @@ onboarding-join-form-continue = Continuă
 # This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
 onboarding-join-form-signin-label = Ai deja un cont?
 # Text for link to submit the sign in form
-onboarding-join-form-signin = Conectare
+onboarding-join-form-signin = Autentificare
 onboarding-start-browsing-button-label = Începe să navighezi
 onboarding-cards-dismiss =
     .title = Înlătură
