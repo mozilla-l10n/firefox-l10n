@@ -90,11 +90,11 @@ options-context-advanced-settings = Rozšyrjone nastajenja
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP-Cache znjemóžniś (gaž rědy su wócynjone)
 options-disable-http-cache-tooltip =
-    .title = Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtarki znjemóžnijo, kótarež maju rědy wócynjone. Service workers njejsu pśez toś te nastajenje pótrjefjone.
+    .title = Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtariki znjemóžnijo, kótarež maju rědy wócynjone. Service workers njejsu pśez toś te nastajenje pótrjefjone.
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = JavaScript znjemóžniś *
 options-disable-javascript-tooltip =
-    .title = Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtark. Jolic rejtark abo rědy se zacyniju, ga toś to nastajenje se zabydnjo.
+    .title = Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtarik. Jolic rejtarik abo rědy se zacyniju, ga toś to nastajenje se zabydnjo.
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = Rědowe kašćiki pytanja zmólkow pówjercha wobglědowaka a dodankow zmóžniś
 options-enable-chrome-tooltip =
@@ -106,7 +106,7 @@ options-enable-remote-tooltip =
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Service worker pśez HTTP zmóžniś (gaž rědy su wócynjone)
 options-enable-service-workers-http-tooltip =
-    .title = Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtarki wužywaś, za kótarež rědy su wócynjone.
+    .title = Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtariki wužywaś, za kótarež rědy su wócynjone.
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = Žrědłowe kórty zmóžniś
 options-source-maps-tooltip =

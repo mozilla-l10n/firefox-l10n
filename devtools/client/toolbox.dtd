@@ -82,19 +82,19 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "JavaScript znjemóžniś *">
-<!ENTITY options.disableJavaScript.tooltip   "Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtark. Jolic rejtark abo rědy se zacyniju, ga toś to nastajenje se zabydnjo.">
+<!ENTITY options.disableJavaScript.tooltip   "Zmóžnjenje toś togo nastajenja znjemóžnijo JavaScript za aktualny rejtarik. Jolic rejtarik abo rědy se zacyniju, ga toś to nastajenje se zabydnjo.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 <!ENTITY options.disableHTTPCache.label     "HTTP-Cache znjemóžniś (gaž rědy su wócynjone)">
-<!ENTITY options.disableHTTPCache.tooltip   "Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtarki znjemóžnijo, kótarež maju rědy wócynjone. Service workers njejsu pśez toś te nastajenje pótrjefjone.">
+<!ENTITY options.disableHTTPCache.tooltip   "Gaž se toś to nastajenje zmóžnja, se HTTP-cache za wšykne rejtariki znjemóžnijo, kótarež maju rědy wócynjone. Service workers njejsu pśez toś te nastajenje pótrjefjone.">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 <!ENTITY options.enableServiceWorkersHTTP.label     "Service worker pśez HTTP zmóžniś (gaž rědy su wócynjone)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtarki wužywaś, za kótarež rědy su wócynjone.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Toś to nastajenje zmóžnijo service workers pśez HTTP za wšykne rejtariki wužywaś, za kótarež rědy su wócynjone.">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
