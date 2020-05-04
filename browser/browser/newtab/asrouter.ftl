@@ -218,10 +218,12 @@ cfr-doorhanger-milestone-ok-button = Alle anzeigen
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Sichere Passwörter ganz einfach erstellen
+cfr-whatsnew-lockwise-body = Es ist schwierig, sich für jedes Benutzerkonto im Internet ein neues und sicheres Passwort auszudenken. Wenn du in Zukunft ein neues Passwort eingeben sollst, wähle das Eingabefeld für das Passwort, um ein sicheres Passwort durch { -brand-shorter-name } erstellen zu lassen.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-Symbol
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Warnungen für gefährdete Passwörter erhalten
 
 ## Picture-in-Picture fullscreen message
 
