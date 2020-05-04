@@ -46,3 +46,27 @@ containers-color-toolbar =
     .label = Choby posek z noczyniami
 containers-icon-fence =
     .label = Płot
+containers-icon-fingerprint =
+    .label = Ôdcisk palca
+containers-icon-briefcase =
+    .label = Aktyntasza
+# String represents a money sign but currently uses a dollar sign
+# so don't change to local currency. See Bug 1291672.
+containers-icon-dollar =
+    .label = Symbol dolara
+containers-icon-circle =
+    .label = Kropka
+containers-icon-vacation =
+    .label = Feryje
+containers-icon-gift =
+    .label = Geszynk
+containers-icon-food =
+    .label = Jodło
+containers-icon-fruit =
+    .label = Ôwoc
+containers-icon-pet =
+    .label = Gadzina
+containers-icon-tree =
+    .label = Strōm
+containers-icon-chill =
+    .label = Relaks
