@@ -11,7 +11,7 @@ home = Startowy bok
 fullscreen = Połna wobrazowka
 touchbar-fullscreen-exit = Połnu wobrazowku spušćiś
 find = Pytaś
-new-tab = Nowy rejtark
+new-tab = Nowy rejtarik
 add-bookmark = Cytańske znamje pśidaś
 open-bookmarks-sidebar = Bocnicu cytańskich znamjenjow wócyniś
 reader-view = Cytański naglěd
@@ -30,7 +30,7 @@ search-search-in = Pytaś w:
 
 search-bookmarks = Cytańske znamjenja
 search-history = Historija
-search-opentabs = Wócynjone rejtarki
+search-opentabs = Wócynjone rejtariki
 search-tags = Wobznamjenja
 search-titles = Titele
 
