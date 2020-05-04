@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "s">
 <!ENTITY projectMenu_manageComponents_label "Ekstrakomponenty zastojaś">
 <!ENTITY projectMenu_manageComponents_accesskey "E">
-<!ENTITY projectMenu_refreshTabs_label "Rejtarki aktualizěrowaś">
+<!ENTITY projectMenu_refreshTabs_label "Rejtariki aktualizěrowaś">
 
 <!ENTITY runtimeMenu_label "Běžny cas">
 <!ENTITY runtimeMenu_accesskey "B">
@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "R">
 <!ENTITY runtimeMenu_showSettings_label "Rědowe nastajenja">
 <!ENTITY runtimeMenu_showSettings_accesskey "n">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Wugbaśe">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "u">
 
@@ -54,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "S">
 
 <!ENTITY projectButton_label "Nałoženje wócyniś">
+
 <!ENTITY runtimeButton_label "Běžny cas wubraś">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -73,11 +73,10 @@
 
 <!ENTITY projectPanel_myProjects "Móje projekty">
 <!ENTITY projectPanel_runtimeApps "Nałoženja běžnego casa">
-<!ENTITY projectPanel_tabs "Rejtarki">
+<!ENTITY projectPanel_tabs "Rejtariki">
 <!ENTITY runtimePanel_usb "USB-rědy">
 <!ENTITY runtimePanel_wifi "WLAN-rědy">
 <!ENTITY runtimePanel_other "Druge">
-<!ENTITY runtimePanel_noadbhelper "ADB Helper instalěrowaś">
 <!ENTITY runtimePanel_nousbdevice "Njamóžośo swój rěd wiźeś?">
 <!ENTITY runtimePanel_refreshDevices_label "Rědy aktualizěrowaś">
 
@@ -120,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informacije běžnego casa">
-<!ENTITY runtimedetails_adbIsRoot "ADB jo kórjeń: ">
-<!ENTITY runtimedetails_summonADBRoot "kórjenjowy rěd">
-<!ENTITY runtimedetails_ADBRootWarning "(trjeba njezastajony startowy program)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Njewobgranicowane priwilegije wuwijarskich rědow: ">
-<!ENTITY runtimedetails_requestPrivileges "wó wuše priwilegije pšosyś">
-<!ENTITY runtimedetails_privilegesWarning "(Buźo rěd znowego startowaś. Trjeba administratorowy pśistup.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
