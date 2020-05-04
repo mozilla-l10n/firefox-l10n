@@ -7,6 +7,6 @@ sidebar-menu-bookmarks =
 sidebar-menu-history =
     .label = Historija
 sidebar-menu-synced-tabs =
-    .label = Synchronizěrowane rejtarki
+    .label = Synchronizěrowane rejtariki
 sidebar-menu-close =
     .label = Bócnicu zacyniś
