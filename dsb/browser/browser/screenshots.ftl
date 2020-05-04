@@ -4,9 +4,9 @@
 
 screenshots-context-menu = Foto wobrazowki gótowaś
 screenshots-my-shots-button = Móje fota wobrazowki
-screenshots-instructions = Śěgniśo abo klikniśo na bok, aby wobcerk wubrał. Tłocćo na ESC, aby pśetergnuł.
+screenshots-instructions = Śěgniśo abo klikniśo na bok, aby wobceŕk wubrał. Tłocćo na ESC, aby pśetergnuł.
 screenshots-cancel-button = Pśetergnuś
-screenshots-save-visible-button = Widobny wobcerk składowaś
+screenshots-save-visible-button = Widobny wobceŕk składowaś
 screenshots-save-page-button = Ceły bok składowaś
 screenshots-download-button = Ześěgnuś
 screenshots-download-button-tooltip = Foto wobrazowki ześěgnuś

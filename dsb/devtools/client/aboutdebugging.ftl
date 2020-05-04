@@ -294,7 +294,7 @@ about-debugging-worker-status-stopped = Zastajony
 about-debugging-worker-status-registering = Registrěrujo se
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
-    .label = Wobcerk
+    .label = Wobceŕk
 # Displayed for service workers in runtime pages, to label the push service endpoint (url)
 # of a worker
 about-debugging-worker-push-service =
