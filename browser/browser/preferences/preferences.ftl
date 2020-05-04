@@ -283,6 +283,15 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Usa { $app-name } (predefinito)
+
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Usa applicazione predefinita di macOS
+            [windows] Usa applicazione predefinita di Windows
+           *[other] Usa applicazione predefinita del sistema
+        }
+
 applications-use-other =
     .label = Usa altro…
 applications-select-helper = Scelta applicazione
@@ -308,6 +317,8 @@ applications-use-plugin-in =
     .label = Usa { $plugin-name } (in { -brand-short-name })
 applications-preview-inapp =
     .label = Anteprima in { -brand-short-name }
+applications-open-inapp =
+    .label = Apri in { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -321,13 +332,17 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
-
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
+    
 ##
 
 drm-content-header = Contenuti con DRM (Digital Rights Management)
@@ -365,7 +380,7 @@ update-pref-write-failure-message = Errore durante il salvataggio della preferen
 update-setting-write-failure-title = Errore durante il salvataggio delle preferenze
 update-setting-write-failure-message =
     Si è verificato un errore e questa modifica non è stata salvata. Per aggiornare le preferenze è necessario avere i permessi di scrittura sul file indicato in seguito. Dovrebbe essere possibile correggere il problema assegnando al gruppo Utenti il pieno controllo di questo file.
-    
+
     Impossibile scrivere il file: { $path }
 update-in-progress-title = Aggiornamento in corso
 update-in-progress-message = Consentire a { -brand-short-name } di completare l’aggiornamento?
