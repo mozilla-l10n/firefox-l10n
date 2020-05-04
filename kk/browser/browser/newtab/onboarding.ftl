@@ -148,6 +148,7 @@ onboarding-import-browser-settings-title = Бетбелгілер, пароль�
 onboarding-import-browser-settings-text = Тікелей кірісу — Chrome сайттары және баптауларын оңай көшіріп алыңыз.
 onboarding-import-browser-settings-button = Chrome деректерін импорттау
 onboarding-personal-data-promise-title = Дизайн бойынша жеке
+onboarding-personal-data-promise-button = Біздің уәдемізді оқу
 
 ## Message strings belonging to the Return to AMO flow
 
