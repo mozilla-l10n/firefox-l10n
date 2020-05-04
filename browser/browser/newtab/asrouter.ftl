@@ -7,7 +7,7 @@
 
 cfr-doorhanger-extension-heading = Dopórucone rozšyrjenje
 cfr-doorhanger-feature-heading = Dopórucona funkcija
-cfr-doorhanger-pintab-heading = Wopytajśo to: Rejtark pśipěś
+cfr-doorhanger-pintab-heading = Wopytajśo to: Rejtarik pśipěś
 
 ##
 
@@ -17,7 +17,7 @@ cfr-doorhanger-extension-cancel-button = Nic něnto
     .accesskey = N
 cfr-doorhanger-extension-ok-button = Něnto pśidaś
     .accesskey = d
-cfr-doorhanger-pintab-ok-button = Toś ten rejtark pśipěś
+cfr-doorhanger-pintab-ok-button = Toś ten rejtarik pśipěś
     .accesskey = T
 cfr-doorhanger-extension-manage-settings-button = Dopóruceńske nastajenja zastojaś
     .accesskey = D
@@ -63,13 +63,13 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } wužywarje
        *[other] { $total } wužywarjow
     }
-cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejwěcej wužywane sedła. Źaržćo sedła w rejtarku wócynjone (samo gaž znowego startujośo)
+cfr-doorhanger-pintab-description = Mějśo lažki pśistup k swójim nejwěcej wužywane sedła. Źaržćo sedła w rejtariku wócynjone (samo gaž znowego startujośo)
 
 ## These messages are steps on how to use the feature and are shown together.
 
-cfr-doorhanger-pintab-step1 = <b>Klikniśo z pšaweju tastu</b> na rejtark, kótaryž cośo pśipěś.
-cfr-doorhanger-pintab-step2 = Wubjeŕśo <b>Rejtark pśipěś</b> z menija.
-cfr-doorhanger-pintab-step3 = Jolic sedło ma aktualizaciju, buźośo módry dypk na swójom pśipětem rejtarku wiźeś.
+cfr-doorhanger-pintab-step1 = <b>Klikniśo z pšaweju tastu</b> na rejtarik, kótaryž cośo pśipěś.
+cfr-doorhanger-pintab-step2 = Wubjeŕśo <b>Rejtarik pśipěś</b> z menija.
+cfr-doorhanger-pintab-step3 = Jolic sedło ma aktualizaciju, buźośo módry dypk na swójom pśipětem rejtariku wiźeś.
 cfr-doorhanger-pintab-animation-pause = Pawza
 cfr-doorhanger-pintab-animation-resume = Pókšacowaś
 
@@ -127,17 +127,13 @@ cfr-whatsnew-lockwise-take-link-text = Wobstarajśo se nałoženje
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Pišćo mjenjej a namakajśo wěcej z adresowym pólom
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Wobstarajśo se sedła, kótarež nejcesćej wužywaśo, z jadnym kliknjenim. Namakajśo wěcy malsnjej z wuslědkami z { $searchEngineName } a ze swójeje pśeglědowańskeje historije.
-cfr-whatsnew-searchbar-body-generic = Wobstarajśo se sedła, kótarež nejcesćej wužywaśo, z jadnym kliknjenim. Namakajśo wěcy malsnjej z pytańskimi wuslědkami ze swójeje pśeglědowańskeje historije.
 cfr-whatsnew-searchbar-body-topsites = Wubjeŕśo něnto jadnorje adresowe pólo a  kašćik z wótkazami na waše nejlubše sedła se wócynijo.
 cfr-whatsnew-searchbar-icon-alt-text = Lupowy symbol
 
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Woglědajśo se wideo, mjaztym až pśeglědujośo
-cfr-whatsnew-pip-body = Funkcija Wobraz-we-wobrazu wideo w znošujucem se woknje pokazujo, aby se wy jo mógał woglědaś, gaž w drugich rejtarkach źěłaśo.
+cfr-whatsnew-pip-body = Funkcija Wobraz-we-wobrazu wideo w znošujucem se woknje pokazujo, aby se wy jo mógał woglědaś, gaž w drugich rejtarikach źěłaśo.
 cfr-whatsnew-pip-cta = Dalšne informacije
 
 ## Permission Prompt

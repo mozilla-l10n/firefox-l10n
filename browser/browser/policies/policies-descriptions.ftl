@@ -78,7 +78,7 @@ policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Zestarjone zaźaržanj
 
 policy-LocalFileLinks = Wěstym websedłam dowóliś, na lokalne dataje wótkazaś.
 policy-NetworkPrediction = Seśowe pśedzacytanje (DNS-pśedzacytanje) zmóžniś abo znjemóžniś.
-policy-NewTabPage = Bok nowego rejtarka zmóžniś abo znjemóžniś.
+policy-NewTabPage = Bok nowego rejtarika zmóžniś abo znjemóžniś.
 policy-NoDefaultBookmarks = Napóranje standardnych cytańskich znamjenjow { -brand-short-name } znjemóžniś, a inteligentnych cytańskich znamjenjow (nejcesćej woglědane, tuchylne wobznamjenja). Glědajśo: Toś to pšawidło se jano wustatkujo, gaž jo pśed prědnym startom profila wužywaśo.
 policy-OfferToSaveLogins = Nastajenje wunuźiś, kótarež { -brand-short-name } zmóžnja, se skłaźone pśizjawjenja a gronidłaa spomnjeś. Ako true tak teke false se akceptěrujotej.
 policy-OfferToSaveLoginsDefault = Stajśo standardnu gódnotu, kótaraž { -brand-short-name } zmóžnja, se skłaźone pśizjawjenja a gronidłaa spomnjeś. Ako true tak teke false se akceptěrujotej.

@@ -28,4 +28,4 @@ panic-button-day =
 panic-button-action-desc = Gaž pókšacujośo:
 panic-button-delete-cookies = wulašuju se nejnowše <strong>cookieje</strong>
 panic-button-delete-history = wulašujo se nejnowša <strong>historija</strong>
-panic-button-delete-tabs-and-windows = zacynïju se <strong>rejtarki</strong> a <strong>wokna</strong>
+panic-button-delete-tabs-and-windows = zacynïju se <strong>rejtariki</strong> a <strong>wokna</strong>
