@@ -87,5 +87,5 @@ connection-dns-over-https-url-item-default =
 connection-dns-over-https-url-custom =
     .label = ਕਸਟਮ
     .accesskey = C
-    .tooltiptext = HTTS ਉੱਤੇ DNS ਹੱਲ਼ ਕਰਨ ਲਈ ਆਪਣਾ ਤਰਜੀਹੀ URL ਦਰਜ ਕਰੋ
+    .tooltiptext = HTTS ਉੱਤੇ DNS ਹੱਲ਼ ਕਰਨ ਲਈ ਆਪਣਾ ਤਰਜੀਹੀ URL ਦਿਓ
 connection-dns-over-https-custom-label = ਪਸੰਦੀਦਾ
