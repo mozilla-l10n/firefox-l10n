@@ -95,3 +95,12 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+certificate-viewer-export = ส่งออก
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = ใบรับรองของคุณ
+certificate-viewer-tab-people = ผู้คน
+certificate-viewer-tab-servers = เซิร์ฟเวอร์
+certificate-viewer-tab-unkonwn = ไม่ทราบ
