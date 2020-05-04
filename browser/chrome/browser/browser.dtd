@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
-<!ENTITY fxa.service.sendTab.description "Sćelśo rejtark ned na rěd, pla kótaregož sćo pśizjawjony.">
+<!ENTITY fxa.service.sendTab.description "Sćelśo rejtarik ned na rěd, pla kótaregož sćo pśizjawjony.">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -218,7 +218,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editThisBookmarkCmd.label "Toś to cytańske znamje wobźěłaś">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
-<!ENTITY addCurPagesCmd.label "Wšykne rejtarki ako cytańske znamjenja…">
+<!ENTITY addCurPagesCmd.label "Wšykne rejtariki ako cytańske znamjenja…">
 
 <!ENTITY showAllBookmarks2.label "Wše cytańske znamjenja pokazaś">
 <!ENTITY recentBookmarks.label "Tuchylu ako cytańske znamje składowane">
@@ -349,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Dataja">
 <!ENTITY fileMenu.accesskey       "D">
 
-<!ENTITY newUserContext.label             "Nowy kontejnerowy rejtark">
+<!ENTITY newUserContext.label             "Nowy kontejnerowy rejtarik">
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Kontejnery zastojaś">
 <!ENTITY manageUserContext.accesskey      "K">
@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY historyMenu.label "Historija">
 <!ENTITY historyMenu.accesskey "H">
-<!ENTITY historyUndoMenu.label "Rowno zacynjone rejtarki">
+<!ENTITY historyUndoMenu.label "Rowno zacynjone rejtariki">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Rowno zacynjone wokna">
 <!ENTITY historyRestoreLastSession.label "Pjerwjejšne pósejźenje wótnowiś">
@@ -423,25 +423,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.recentHistory.label "Nejnowša historija">
 <!ENTITY appMenuHelp.label "Pomoc">
 
-<!ENTITY appMenuRemoteTabs.label "Synchronizěrowane rejtarki">
+<!ENTITY appMenuRemoteTabs.label "Synchronizěrowane rejtariki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
-<!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtarki">
+<!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtariki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Wěcej pokazaś">
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "Dalšne rejtarki z toś togo rěda pokazaś">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Dalšne rejtariki z toś togo rěda pokazaś">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Wšykno pokazaś">
-<!ENTITY appMenuRemoteTabs.showAll.tooltip "Wše rejtarki z toś togo rěda pokazaś">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Wše rejtariki z toś togo rěda pokazaś">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizěrowanje rejtarikow zašaltowaś, aby se lisćina rejtarikow z drugich rědow pokazała.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtariki z drugich rědow wiźeś?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronizěrowańske nastajenja wócyniś">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
 <!ENTITY appMenuRemoteTabs.welcome.label "Woglědajśo se lisćinu rejtarkow ze swójich rědow.">
