@@ -25,12 +25,12 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Rejtark pśipěś">
+<!ENTITY  pinTab.label                       "Rejtarik pśipěś">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "R">
-<!ENTITY  unpinTab.label                     "Rejtark wótpěś">
+<!ENTITY  unpinTab.label                     "Rejtarik wótpěś">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
@@ -39,16 +39,16 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "B">
 <!ENTITY  sendLinkToDevice.label             "Wótkaz na rěd pósłaś">
 <!ENTITY  sendLinkToDevice.accesskey         "W">
-<!ENTITY  undoCloseTab.label                 "Zacynjony rejtark wótnowiś">
+<!ENTITY  undoCloseTab.label                 "Zacynjony rejtarik wótnowiś">
 <!ENTITY  undoCloseTab.accesskey             "c">
-<!ENTITY  hiddenTabs.label                   "Schowane rejtarki">
+<!ENTITY  hiddenTabs.label                   "Schowane rejtariki">
 
-<!ENTITY  listAllTabs.label      "Wšykne rejtarki nalicyś">
+<!ENTITY  listAllTabs.label      "Wšykne rejtariki nalicyś">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
 in "Search through tabs". -->
-<!ENTITY  allTabsMenu.searchTabs.label       "Rejtarki pśepytaś">
+<!ENTITY  allTabsMenu.searchTabs.label       "Rejtariki pśepytaś">
 
-<!ENTITY tabCmd.label "Nowy rejtark">
+<!ENTITY tabCmd.label "Nowy rejtarik">
 <!ENTITY tabCmd.accesskey "r">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
@@ -103,7 +103,7 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout Debugger">
 <!ENTITY ldbCmd.accesskey "L">
-<!ENTITY mirrorTabCmd.label "Glědałkowy rejtark">
+<!ENTITY mirrorTabCmd.label "Glědałkowy rejtarik">
 <!ENTITY mirrorTabCmd.accesskey "G">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -115,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "Połna wobrazowka">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Wšykne rejtarki pokazaś">
+<!ENTITY showAllTabsCmd.label "Wšykne rejtariki pokazaś">
 <!ENTITY showAllTabsCmd.accesskey "W">
 <!ENTITY toggleReaderMode.key "R">
 <!ENTITY toggleReaderMode.win.keycode "VK_F9">
