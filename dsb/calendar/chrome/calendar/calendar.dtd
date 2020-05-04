@@ -173,7 +173,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "K">
 <!ENTITY calendar.context.pasteevent.label            "Zasajźiś">
 <!ENTITY calendar.context.pasteevent.accesskey        "Z">
-<!ENTITY calendar.context.button.label                "Źinsnajšny wobcerk">
+<!ENTITY calendar.context.button.label                "Źinsnajšny wobceŕk">
 <!ENTITY calendar.context.button.accesskey            "i">
 
 <!ENTITY calendar.context.attendance.menu.label                 "Wobźělenje">
@@ -385,7 +385,7 @@
 <!ENTITY calendar.print.window.title "Kalender śišćaś">
 <!ENTITY calendar.print.title.label "Titel:">
 <!ENTITY calendar.print.layout.label "Wugótowanje:">
-<!ENTITY calendar.print.range.label "Śišćański wobcerk">
+<!ENTITY calendar.print.range.label "Śišćański wobceŕk">
 <!ENTITY calendar.print.currentView2.label "Aktualny pśeglěd">
 <!ENTITY calendar.print.selectedEventsAndTasks.label "Wubrane tšojenja/nadawki">
 <!ENTITY calendar.print.tasks.label "Nadawki">
