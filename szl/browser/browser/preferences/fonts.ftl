@@ -81,9 +81,32 @@ fonts-default-sans-serif =
     .label = Bezszeryfowy
 fonts-proportional-size = Srogość
     .accesskey = S
+fonts-serif = Szeryfowy
+    .accesskey = z
+fonts-sans-serif = Bezszeryfowy
+    .accesskey = z
+fonts-monospace = Ôbstōno szyrokość
+    .accesskey = O
+fonts-monospace-size = Srogość:
+    .accesskey = g
+fonts-minsize = Minimalno srogość fōnta
+    .accesskey = o
+fonts-minsize-none =
+    .label = Żodyn
+fonts-allow-own =
+    .label = Przizwolej, coby strōny używały włosnych fōntōw, a niy tych sam ôbranych
+    .accesskey = P
 
 ## Text Encodings
 ##
 ## Translate the encoding names as adjectives for an encoding, not as the name
 ## of the language.
 
+fonts-languages-fallback-header = Kodowanie tekstu do downych zawartości
+fonts-languages-fallback-desc = Te kodowanie tekstu je używane do downych zawartości, co niy dowajōm włosnego kodowanio.
+fonts-languages-fallback-label = Rezerwowe kodowanie tekstu
+    .accesskey = T
+fonts-languages-fallback-name-auto =
+    .label = Bazowe do aktualnyj godki
+fonts-languages-fallback-name-arabic =
+    .label = arabske
