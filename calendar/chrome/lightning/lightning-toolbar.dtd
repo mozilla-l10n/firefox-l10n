@@ -17,22 +17,22 @@
 <!ENTITY lightning.toolbar.gototoday.tooltip "K źinsajšnemu">
 <!ENTITY lightning.toolbar.print.label "Śišćaś">
 <!ENTITY lightning.toolbar.print.tooltip "Tšojenja abo nadawki śišćaś">
-<!-- Mode Toolbar -->
 
+<!-- Mode Toolbar -->
 <!ENTITY lightning.toolbar.calendar.label     "Kalender">
-<!ENTITY lightning.toolbar.calendar.tooltip   "Ku kalenderowemu rejtarkoju pśešaltowaś">
+<!ENTITY lightning.toolbar.calendar.tooltip   "Ku kalenderowemu rejtarikoju pśešaltowaś">
 <!ENTITY lightning.toolbar.calendar.accesskey "K">
 <!ENTITY lightning.toolbar.task.label         "Nadawki">
-<!ENTITY lightning.toolbar.task.tooltip       "K nadawkowemu rejtarkoju pśešaltowaś">
+<!ENTITY lightning.toolbar.task.tooltip       "K nadawkowemu rejtarikoju pśešaltowaś">
 <!ENTITY lightning.toolbar.task.accesskey     "N">
-<!-- Toolbar write button -->
 
+<!-- Toolbar write button -->
 <!ENTITY lightning.toolbar.newevent.label     "Tšojenje">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Nowe tšojenje napóraś">
 <!ENTITY lightning.toolbar.newtask.label      "Nadawk">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Nowy nadawk napóraś">
-<!-- Calendar and Task Mode Toolbar -->
 
+<!-- Calendar and Task Mode Toolbar -->
 <!ENTITY lightning.toolbar.day.label                 "Źeń">
 <!ENTITY lightning.toolbar.day.accesskey             "e">
 <!ENTITY lightning.toolbar.week.label                "Tyźeń">
