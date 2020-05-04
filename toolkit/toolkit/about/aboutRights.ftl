@@ -16,7 +16,7 @@ rights-webservices-header = Informaciske websłužby { -brand-full-name }
 rights-webservices = { -brand-full-name } wužywa informaciske websłužby ("słužby"), aby někotare funkcije k dispoziciji stajił, kótarež su myslone za wužywanje z toś teju binarneju wersiju { -brand-short-name } pód dołojce wopisanymi wuměnjenjami. Jolic njocośo jadnu z toś tych słužbow abo někotare z nich wužywaś, abo slědujuce wuměnjenja su njeakceptěrujobne, móžośo funkciju słužbow znjemóžniś. Instrukcije, kak wěsta funkcija słužby dajo se znjemóžniś, namakajośo <a data-l10n-name="mozilla-disable-service-link">how</a>. Druge funkcije a słužby daju se w nastajenjach nałoženja znjemóžniś.
 rights-safebrowsing = <strong>Wěste pśeglědowanje: </strong>Njepśiraźijo se funkciju wěstego pśeglědowanja znjemóžniś, dokulaž to móžo k tomu wjasć, až dostanjośo se do njewěstych sedłow. Jolic cośo toś tu funkciju dopołnje znjemóžniś, wuwjaźćo slědujuce kšace:
 rights-safebrowsing-term-1 = Wócyńśo nastajenja nałoženja
-rights-safebrowsing-term-2 = Wubjeŕśo rejtark Wěstota
+rights-safebrowsing-term-2 = Wubjeŕśo rejtarik Wěstota
 rights-safebrowsing-term-3 = Nastajenje za "{ enableSafeBrowsing-label }" znjemóžniś
 enableSafeBrowsing-label = Tšašne a wobšudnikojske wopśimjeśe blokěrowaś
 rights-safebrowsing-term-4 = Wěste pśeglědowanje jo něnto znjemóžnjone

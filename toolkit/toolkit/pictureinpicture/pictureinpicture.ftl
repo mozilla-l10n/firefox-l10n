@@ -12,6 +12,6 @@ pictureinpicture-mute =
 pictureinpicture-unmute =
     .aria-label = Ze zukom
 pictureinpicture-unpip =
-    .aria-label = K rejtarkoju slědk pósłaś
+    .aria-label = K rejtarikoju slědk pósłaś
 pictureinpicture-close =
     .aria-label = Zacyniś
