@@ -14,12 +14,6 @@ about-service-workers-warning-no-service-workers = Žedne "service workers" zreg
 # Variables:
 #   $originTitle: original title
 origin-title = Póchad: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = Nałožeński ID { $appId } { -brand-short-name } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -27,7 +21,7 @@ app-title = Nałožeński ID { $appId } { -brand-short-name } - InBrowserElement
 ##  $name: the name of scope, active cache, waiting cache and the push end point.
 ##  $url: the url of script specification and current worker.
 
-scope = <strong>Wobcerk:</strong> { $name }
+scope = <strong>Wobceŕk:</strong> { $name }
 script-spec = <strong>Skriptowa specifikacija:</strong> <a data-l10n-name="link">{ $url }</a>
 current-worker-url = <strong>URL za aktualny "worker":</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Mě aktiwnego cacha:</strong> { $name }
