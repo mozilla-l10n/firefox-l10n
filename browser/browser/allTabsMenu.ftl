@@ -3,14 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 all-tabs-menu-undo-close-tab =
-    .label = Zacynjony rejtark wótnowiś
+    .label = Zacynjony rejtarik wótnowiś
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
-    .label = Rejtarki pśepytaś
+    .label = Rejtariki pśepytaś
 all-tabs-menu-new-user-context =
-    .label = Nowy kontejnerowy rejtark
+    .label = Nowy kontejnerowy rejtarik
 all-tabs-menu-hidden-tabs =
-    .label = Schowane rejtarki
+    .label = Schowane rejtariki
 all-tabs-menu-manage-user-context =
     .label = Kontejnery zastojaś
     .accesskey = K
