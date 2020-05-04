@@ -224,7 +224,11 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }-Symbol
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Warnungen für gefährdete Passwörter erhalten
+cfr-whatsnew-passwords-body = Hacker wissen, dass Menschen Passwörter auf verschiedenen Seiten wiederverwenden. Falls du das gleiche Passwort auf mehreren Seiten verwendest und eine dieser Seiten von einem Datenleck betroffen ist, erhältst du eine Warnung in { -lockwise-brand-short-name }, die Passwörter für diese Websites zu ändern.
+cfr-whatsnew-passwords-icon-alt = Symbol für gefährdetes Passwort
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Vom Bild-im-Bild-Modus zum Vollbild wechseln
+cfr-whatsnew-pip-fullscreen-body = Nachdem du ein Video in ein schwebendes Bild-im-Bild-Fenster umgewandelt hast, kannst du auch jederzeit per Doppelklick auf das Video in den Vollbild-Modus wechseln.
 cfr-whatsnew-pip-fullscreen-icon-alt = Bild-im-Bild-Symbol
