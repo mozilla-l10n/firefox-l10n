@@ -443,15 +443,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtariki z drugich rědow wiźeś?">
 <!ENTITY appMenuRemoteTabs.opensyncprefs.label "Synchronizěrowańske nastajenja wócyniś">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
-<!ENTITY appMenuRemoteTabs.welcome.label "Woglědajśo se lisćinu rejtarkow ze swójich rědow.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarikow ze swójich drugich rědow woglědał.">
+<!ENTITY appMenuRemoteTabs.welcome.label "Woglědajśo se lisćinu rejtarikow ze swójich rědow.">
 <!ENTITY appMenuRemoteTabs.unverified.label "Wašo konto musy se wobkšuśiś.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pla Sync pśizjawiś">
 <!ENTITY appMenuRemoteTabs.signintosync.label "Se pla &syncBrand.shortName.label; pśizjawiś…">
 <!ENTITY appMenuRemoteTabs.turnonsync.label "&syncBrand.shortName.label; zmóžniś…">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Rědy rědowaś…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Bocnicu synchronizěrowanych rejtarkow pokazaś">
-<!ENTITY appMenuRemoteTabs.hidesidebar.label "Bocnicu synchronizěrowanych rejtarkow schowaś">
+<!ENTITY appMenuRemoteTabs.hidesidebar.label "Bocnicu synchronizěrowanych rejtarikow schowaś">
 <!ENTITY appMenuRemoteTabs.connectdevice.label "Drugi rěd zwězaś">
 
 <!ENTITY appMenuRecentHighlights.label "Aktualne wjerški">
@@ -498,7 +497,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Rozšyrjenje:">
-<!ENTITY urlbar.switchToTab.label     "K rejtarkoju pśejś:">
+<!ENTITY urlbar.switchToTab.label     "K rejtarikoju pśejś:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
@@ -571,12 +570,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.button  "Pytańske nastajenja">
 <!ENTITY changeSearchSettings.tooltip "Pytańske nastajenja změniś">
 
-<!ENTITY searchInNewTab.label         "W nowem rejtarku pytaś">
+<!ENTITY searchInNewTab.label         "W nowem rejtariku pytaś">
 <!ENTITY searchInNewTab.accesskey     "r">
 <!ENTITY searchSetAsDefault.label     "Ako standardnu pytnicu nastajiś">
 <!ENTITY searchSetAsDefault.accesskey "d">
 
-<!ENTITY openLinkCmdInTab.label       "Wótkaz w nowem rejtarku wócyniś">
+<!ENTITY openLinkCmdInTab.label       "Wótkaz w nowem rejtariku wócyniś">
 
 <!ENTITY openLinkCmdInTab.accesskey   "r">
 <!ENTITY openLinkCmd.label            "Wótkaz w nowem woknje wócyniś">
@@ -585,11 +584,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "r">
 <!ENTITY openLinkCmdInCurrent.label     "Wótkaz wócyniś">
 <!ENTITY openLinkCmdInCurrent.accesskey "c">
-<!ENTITY openFrameCmdInTab.label      "Wobłuk w nowem rejtarku wócyniś">
+<!ENTITY openFrameCmdInTab.label      "Wobłuk w nowem rejtariku wócyniś">
 <!ENTITY openFrameCmdInTab.accesskey  "b">
 <!ENTITY openFrameCmd.label           "Wobłuk w nowem woknje wócyniś">
 <!ENTITY openFrameCmd.accesskey       "c">
-<!ENTITY openLinkCmdInContainerTab.label "Wótkaz w nowem kontejnerowem rejtarku wócyniś">
+<!ENTITY openLinkCmdInContainerTab.label "Wótkaz w nowem kontejnerowem rejtariku wócyniś">
 <!ENTITY openLinkCmdInContainerTab.accesskey "t">
 <!ENTITY showOnlyThisFrameCmd.label     "Jano w toś tom wobłuku pokazaś">
 <!ENTITY showOnlyThisFrameCmd.accesskey "J">
@@ -931,12 +930,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Rejtarki wobglědowaka">
+<!ENTITY tabsToolbar.label "Rejtariki wobglědowaka">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu3.label     "Synchronizěrowane rejtarki">
+<!ENTITY syncTabsMenu3.label     "Synchronizěrowane rejtariki">
 
-<!ENTITY syncedTabs.sidebar.label              "Synchronizěrowane rejtarki">
+<!ENTITY syncedTabs.sidebar.label              "Synchronizěrowane rejtariki">
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
@@ -955,7 +954,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofon, kótaryž ma se gromaźe wužywaś:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "Awdio z rejtarka buźo se źěliś.">
+<!ENTITY getUserMedia.audioCapture.label "Awdio z rejtarika buźo se źěliś.">
 <!ENTITY getUserMedia.allWindowsShared.message "Wšykne widobne wokna na wašej wobrazowce budu se źěliś.">
 
 <!ENTITY contentBlocking.title "Blokěrowanje wopśimjeśa">
@@ -1040,7 +1039,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateUnsupported.panelUI.label "Njamóžośo dalšne aktualizacije pśewjasć">
 <!ENTITY updateRestart.panelUI.label2 "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 
-<!ENTITY newTabControlled.header.message "Waš nowy rejtark jo se změnił.">
+<!ENTITY newTabControlled.header.message "Waš nowy rejtarik jo se změnił.">
 <!ENTITY newTabControlled.keepButton.label "Změny wobchowaś">
 <!ENTITY newTabControlled.keepButton.accesskey "Z">
 <!ENTITY newTabControlled.disableButton.label "Rozšyrjenje znjemóžniś">
@@ -1054,8 +1053,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.label "Rozšyrjenje znjemóžniś">
 <!ENTITY homepageControlled.disableButton.accesskey "R">
 
-<!ENTITY tabHideControlled.header.message "Pśistup k wašym schowanym rejtarkam">
-<!ENTITY tabHideControlled.keepButton.label "Rejtarki schowane wobchowaś">
+<!ENTITY tabHideControlled.header.message "Pśistup k wašym schowanym rejtarikam">
+<!ENTITY tabHideControlled.keepButton.label "Rejtariki schowane wobchowaś">
 <!ENTITY tabHideControlled.keepButton.accesskey "R">
 <!ENTITY tabHideControlled.disableButton.label "Rozšyrjenje znjemóžniś">
 <!ENTITY tabHideControlled.disableButton.accesskey "z">
