@@ -25,5 +25,5 @@ sync-disconnect-confirm-disconnect-delete =
     .label = Deconectează și șterge
     .accesskey = D
 sync-disconnect-confirm-disconnect =
-    .label = Deconectează-te doar
+    .label = Doar deconectare
     .accesskey = D

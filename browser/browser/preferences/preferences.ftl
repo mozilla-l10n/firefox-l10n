@@ -631,10 +631,10 @@ sync-mobile-promo = Descarcă Firefox pentru <img data-l10n-name="android-icon"/
 sync-profile-picture =
     .tooltiptext = Schimbă fotografia de profil
 sync-disconnect =
-    .label = Deconectează-te…
+    .label = Deconectare…
     .accesskey = D
 sync-sign-out =
-    .label = Deconectează-te…
+    .label = Deconectare…
     .accesskey = g
 sync-manage-account = Gestionează contul
     .accesskey = o
@@ -687,11 +687,11 @@ sync-change-options =
 ## The "Choose what to sync" dialog.
 
 sync-choose-what-to-sync-dialog =
-    .title = Alege ce să se sincronizeze
+    .title = Alege ce vrei să sincronizezi
     .style = width: 36em; min-height: 35em;
     .buttonlabelaccept = Salvează modificările
     .buttonaccesskeyaccept = S
-    .buttonlabelextra2 = Deconectează-te…
+    .buttonlabelextra2 = Deconectare…
     .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = Marcaje

@@ -202,7 +202,7 @@ about-debugging-browser-version-too-recent = Browserul conectat este mai recent 
 about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
-about-debugging-runtime-disconnect-button = Deconectează-te
+about-debugging-runtime-disconnect-button = Deconectare
 # Text of the connection prompt button displayed in Runtime pages, when the preference
 # "devtools.debugger.prompt-connection" is false on the target runtime.
 about-debugging-connection-prompt-enable-button = Activează mesajul de conexiune
