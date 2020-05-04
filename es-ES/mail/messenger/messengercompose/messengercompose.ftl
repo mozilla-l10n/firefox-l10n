@@ -15,6 +15,20 @@ address-input-type = { $count ->
     *[other] Campo de entrada { $type } con { $count } direcciones
 }
 
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label = { $count ->
+    [0]     { $type }
+    [one]   { $type } con una dirección, use la tecla de la flecha izquierda para situarse en ella.
+    *[other] { $type } con { $count } direcciones, use la tecla de la flecha izquierda para situarse en ellas.
+}
+
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label = { $count ->
+    [one]   { $email }: pulse Enter para editarla, Borrar para eliminarla.
+    *[other] { $email }, 1 de { $count }: pulse Enter para editar, Borrar para eliminar.
+}
 
 pill-action-edit =
     .label = Editar dirección
