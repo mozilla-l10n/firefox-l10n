@@ -8,11 +8,11 @@
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Zarědnik…">
 <!ENTITY newFolderCmd.accesskey "Z">
-<!ENTITY closeTabCmd2.label "Rejtark zacyniś">
+<!ENTITY closeTabCmd2.label "Rejtarik zacyniś">
 <!ENTITY closeTabCmd2.accesskey "R">
-<!ENTITY closeOtherTabsCmd2.label "Druge rejtarki zacyniś">
+<!ENTITY closeOtherTabsCmd2.label "Druge rejtariki zacyniś">
 <!ENTITY closeOtherTabsCmd2.accesskey "D">
-<!ENTITY recentlyClosedTabsCmd.label "Pśed krotkem zacynjone rejtarki">
+<!ENTITY recentlyClosedTabsCmd.label "Pśed krotkim zacynjone rejtariki">
 <!ENTITY recentlyClosedTabsCmd.accesskey "P">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
@@ -331,7 +331,7 @@
 <!ENTITY prevStarredMsgCmd.accesskey "g">
 <!ENTITY folderMenu.label "Zarědnik">
 <!ENTITY folderMenu.accesskey "Z">
-<!ENTITY goRecentlyClosedTabs.label "Pśed krotkim zacynjone rejtarki">
+<!ENTITY goRecentlyClosedTabs.label "Pśed krotkim zacynjone rejtariki">
 <!ENTITY goRecentlyClosedTabs.accesskey "k">
 <!ENTITY startPageCmd.label "E-mailowy startowy bok">
 <!ENTITY startPageCmd.accesskey "E">
@@ -605,7 +605,7 @@
 <!ENTITY junkButton.tooltip "Wubrane powěsći ako cajk markěrowaś">
 <!ENTITY notJunkButton.tooltip "Wubrane powěsći ako njecajk markěrowaś">
 <!ENTITY addressBookButton.tooltip "K adresnikoju">
-<!ENTITY chatButton.tooltip "Chatowy rejtark pokazaś">
+<!ENTITY chatButton.tooltip "Chatowy rejtarik pokazaś">
 <!ENTITY tagButton.tooltip "Powěsći wóznamjeniś">
 <!ENTITY compactButton.tooltip "Wulašowane powěsći z wubranego zarědnika wótpóraś">
 <!ENTITY appmenuButton1.tooltip "Meni &brandShortName; zwobrazniś">
@@ -660,7 +660,7 @@
 <!ENTITY folderContextPauseUpdates.accesskey "A">
 <!ENTITY folderContextOpenInNewWindow.label "W nowem woknje wócyniś">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
-<!ENTITY folderContextOpenNewTab.label "W nowem rejtarku wócyniś">
+<!ENTITY folderContextOpenNewTab.label "W nowem rejtariku wócyniś">
 <!ENTITY folderContextOpenNewTab.accesskey "r">
 <!ENTITY folderContextNew.label "Nowy pódzarědnik…">
 <!ENTITY folderContextNew.accesskey "N">
@@ -764,7 +764,7 @@
      cutCmd.accessKey which is defined in textcontext.dtd from toolkit. Right
      now, both menu items can't be visible at the same time, but should someone
      enable copy/paste of message, this key would probably need to be changed. -->
-<!ENTITY contextOpenNewTab.label "Powěsć w nowem rejtarku wócyniś">
+<!ENTITY contextOpenNewTab.label "Powěsć w nowem rejtariku wócyniś">
 <!ENTITY contextOpenNewTab.accesskey "r">
 <!ENTITY contextOpenConversation.label "Powěsć w konwersaciji wócyniś">
 <!ENTITY contextOpenConversation.accesskey "k">
