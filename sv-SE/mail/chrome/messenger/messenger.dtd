@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Mottagen ordning">
 <!ENTITY attachmentColumn.label "Bilagor">
 
+<!ENTITY deleteColumn.label "Ta bort">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Välj kolumner att visa">
 <!ENTITY selectColumn.tooltip "Växla välj alla meddelanden">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Sortera efter plats">
 <!ENTITY idColumn2.tooltip "Sortera efter ordning mottaget">
 <!ENTITY attachmentColumn2.tooltip "Sortera efter bilagor">
+
+<!ENTITY deleteColumn.tooltip "Ta bort ett meddelande">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nytt meddelande från mall">
