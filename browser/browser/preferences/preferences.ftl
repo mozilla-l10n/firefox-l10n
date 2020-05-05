@@ -220,7 +220,7 @@ translate-attribution = 번역:  <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = 예외…
     .accesskey = x
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = 날짜, 시간, 숫자 및 측정 단위 형식에 “{ $localeName }”에 대한 운영 체제 설정을 사용
@@ -272,6 +272,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } 사용(기본값)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] macOS 기본 응용 프로그램 사용
+            [windows] Windows 기본 응용 프로그램 사용
+           *[other] 시스템 기본 응용 프로그램 사용
+        }
 applications-use-other =
     .label = 다른 프로그램 사용…
 applications-select-helper = 도우미 응용 프로그램 선택
