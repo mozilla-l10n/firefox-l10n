@@ -61,15 +61,28 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } użytkowniki
        *[many] { $total } użytkownikōw
     }
+cfr-doorhanger-pintab-description = Snadny dostymp do strōn, co ich nojwiyncyj używosz: karty ś nimi sōm durch ôtwarte (tyż przi resztartowaniu).
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = Prziciś <b>prawym prziciskiym</b> na karta, kero chcesz przipnōnć.
+cfr-doorhanger-pintab-step2 = Ôbier <b>Przipnij karta</b> w myni.
+cfr-doorhanger-pintab-step3 = Jak strōna mo jako aktualizacyjo, to na przipniyntyj karcie pokoże sie modro kropka.
+cfr-doorhanger-pintab-animation-pause = Pauza
+cfr-doorhanger-pintab-animation-resume = Rōb zaś
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Miyj swoje zokłodki wszyńdzie zsynchrōnizowane.
+cfr-doorhanger-bookmark-fxa-body = Terozki już żodyn roz niy ôstaniesz bez tyj zokłodki na swojich maszinach. Napocznij używać { -fxaccount-brand-name(case: "gen") }.
+cfr-doorhanger-bookmark-fxa-link-text = Synchrōnizuj swoje zokłodki…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Knefel zawiyranio
+    .title = Zawrzij
 
 ## Protections panel
 
+cfr-protections-panel-header = Przeglōndej tak, coby żodyn na ciebie niy filowoł
 
 ## What's New toolbar button and panel
 
