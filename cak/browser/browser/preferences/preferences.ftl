@@ -974,6 +974,7 @@ content-blocking-warning-title = ¡Tak'axäx!
 content-blocking-warning-description = Ri ruq'atik rupam nitikïr nub'än chi jujun ajk'amaya'l ruxaq man ütz ta yesamäj. Man k'ayew ta richin nachüp ri kiq'atik ruxaq k'amaya'l akuqub'an ak'u'x chi kij.
 content-blocking-learn-how = Tetamäx achike rub'eyal
 content-blocking-etp-warning-description = Ri kiq'atik taq ojqanela' rik'in jub'a' nutz'ila' rub'eyal yesamäj jujun taq ruxaq. Tasamajij chik jun ruxaq rik'in ojqanela' richin nasamajib'ej ronojel ri rupam.
+content-blocking-and-isolating-etp-warning-description = Rik'in yeq'at taq ojqanela' chuqa' yejech'üx ri taq kuki rik'in jub'a' nutz'ila' rub'eyal yesamäj jujun taq ruxaq. Tasamajij chik jun ruxaq rik'in ojqanela' richin nasamajib'ej ronojel ri rupam.
 content-blocking-warning-learn-how = Tetamäx achike rub'eyal
 content-blocking-reload-description = K'o chi ye'asamajib'ej chik ri taq ruwi' richin ye'awokisaj re taq jaloj re'.
 content-blocking-reload-tabs-button =
