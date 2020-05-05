@@ -54,6 +54,9 @@ cryptominer-tab-title = Mineurs de cryptomonnaies
 cryptominer-tab-content = Les mineurs de cryptomonnaies utilisent la puissance de calcul de votre système pour « extraire » de l’argent numérique. Les scripts de cryptominage déchargent votre batterie, ralentissent votre ordinateur et peuvent augmenter votre facture énergétique. <a data-l10n-name="learn-more-link">En savoir plus</a>
 protections-close-button =
     .aria-label = Fermer
+protections-close-button2 =
+    .aria-label = Fermer
+    .title = Fermer
 mobile-app-title = Bloquez les traqueurs publicitaires sur plusieurs appareils
 mobile-app-card-content = Utilisez le navigateur mobile avec une protection intégrée contre le pistage publicitaire.
 mobile-app-links = Navigateur { -brand-product-name } pour <a data-l10n-name="android-mobile-inline-link">Android</a> et <a data-l10n-name="ios-mobile-inline-link">iOS</a>
