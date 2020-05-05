@@ -54,7 +54,6 @@ lockwise-header-content = { -lockwise-brand-name } sarba 'n sicurizza i to chiav
 lockwise-header-content-logged-in = Sarba i to chiavi 'n manera sicura e sincrunìzzali cu tutti i to dispusitivi.
 protection-report-view-logins-button = Vidi cridinziali
     .title = Vai nnê Cridinziali sarbati
-lockwise-no-logins-content = Nzita l'app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pi purtàriti i to chiavi unn'è-è.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -65,15 +64,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Attiva { -sync-brand-short-name }…
     .title = Vai nnê prifirenzi di sincrunizzazziuni
-manage-devices = Gistisci dispusitivi
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Staju sincrunizzannu cu { $count } autru dispusitivu
-       *[other] Staju sincrunizzannu cu { $count } autri dispusitivi
-    }
-lockwise-sync-not-syncing-devices = Nun staju sincrunizzannu cu autri dispusitivi
 manage-connected-devices = Gistisci dispusitivi…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
