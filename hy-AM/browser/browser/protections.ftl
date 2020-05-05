@@ -54,6 +54,9 @@ cryptominer-tab-title = Ծպտյալ արժույթներ
 cryptominer-tab-content = Կրիպտոարժույթները օգտագործում են ձեր համակարգի հաշվարկային ուժը թվային փողը հանելու համար։ Ծպտյալ արժեքների գրվածքները սպառում են ձեր մարտկոցը, դանդաղեցնում ձեր համակարգիչը և կարող են մեծացնել ձեր էներգիայի հաշիվը։ <a data-l10n-name="learn-more-link"> Իմանալ ավելին</a>
 protections-close-button =
     .aria-label = Փակել
+protections-close-button2 =
+    .aria-label = Փակել
+    .title = Փակել
 mobile-app-title = Արգելափակել գովազդի հետքերը ավելի շատ սարքերում
 mobile-app-card-content = Օգտագործեք բջջային զննարկիչը ներկառուցված պաշտպանությամբ `գովազդի հետևման դեմ:
 mobile-app-links = { -brand-product-name } զննարկիչը <a data-l10n-name="android-mobile-inline-link">Android</a>-ի և <a data-l10n-name="ios-mobile-inline-link">iOS</a>-ի համար
