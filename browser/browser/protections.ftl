@@ -54,6 +54,9 @@ cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan los recursos de tu sistema para minar dinero digital. Los scripts de criptominería te agotan la batería, ralentizan la computadora y pueden provocar que el recibo de la luz llegue más caro. <a data-l10n-name="learn-more-link">Más información</a>
 protections-close-button =
     .aria-label = Cerrar
+protections-close-button2 =
+    .aria-label = Cerrar
+    .title = Cerrar
 mobile-app-title = Bloquear los rastreadores de anuncios en más dispositivos
 mobile-app-card-content = Usa el navegador móvil con protección integrada contra el rastreo de anuncios.
 mobile-app-links = El navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> y <a data-l10n-name="ios-mobile-inline-link">iOS</a>
