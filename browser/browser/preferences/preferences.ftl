@@ -220,7 +220,7 @@ translate-attribution = 翻譯服務由 <img data-l10n-name="logo"/> 提供
 translate-exceptions =
     .label = 例外網站…
     .accesskey = x
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = 使用您作業系統的「{ $localeName }」語系來顯示日期、時間、數字、單位。
@@ -272,6 +272,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = 使用 { $app-name } 開啟（預設）
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] 使用 macOS 預設應用程式
+            [windows] 使用 Windows 預設應用程式
+           *[other] 使用系統預設應用程式
+        }
 applications-use-other =
     .label = 使用其他程式…
 applications-select-helper = 選取對應程式
@@ -297,6 +304,8 @@ applications-use-plugin-in =
     .label = 使用 { $plugin-name } (在 { -brand-short-name } 開啟)
 applications-preview-inapp =
     .label = 在 { -brand-short-name } 中預覽
+applications-open-inapp =
+    .label = 用 { -brand-short-name } 開啟
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -310,12 +319,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
