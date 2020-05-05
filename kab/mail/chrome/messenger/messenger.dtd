@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Taladna tettwarmes">
 <!ENTITY attachmentColumn.label "Ticeqqufin yeddan">
 
+<!ENTITY deleteColumn.label "Kkes">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Fren tigejda ad-sekneḍ">
 <!ENTITY selectColumn.tooltip "Fren/kkes afran n yiznan">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Asmizzwer s wadig">
 <!ENTITY idColumn2.tooltip "Asmizzwer s wazemz n urmas">
 <!ENTITY attachmentColumn2.tooltip "Asmizzer s tceqqufin yeddan">
+
+<!ENTITY deleteColumn.tooltip "Kkes izen">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Izen amaynut sγur tneγruft">
