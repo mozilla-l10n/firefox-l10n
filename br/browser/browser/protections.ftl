@@ -60,6 +60,9 @@ cryptominer-tab-title = Kriptogleuzerien
 cryptominer-tab-content = Gant ar c'hriptogleuzerien e vez implijet gallout jediñ ho reizhiad evit kleuziañ arc'hant niverel. Skriptoù kriptogleuziañ a implij kalz ho patiri, a c'horreka hoc'h urzhiataer hag a lak ho fakturenn tredan da vezañ keroc'h. <a data-l10n-name="learn-more-link">Gouzout hiroc'h</a>
 protections-close-button =
     .aria-label = Serriñ
+protections-close-button2 =
+    .aria-label = Serriñ
+    .title = Serriñ
 mobile-app-title = Stankañ an heulierien bruderezh war meur a ardivink
 mobile-app-links = { -brand-product-name } Merdeer evit <a data-l10n-name="android-mobile-inline-link">Android</a> ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Na zisoñjit biken ken ur ger-tremen
