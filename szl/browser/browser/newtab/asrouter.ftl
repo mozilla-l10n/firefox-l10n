@@ -151,15 +151,25 @@ cfr-whatsnew-fingerprinter-counter-header =
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } szperuje moc elymyntōw, co rychtujōm ôdciski przeglōndarki: po kryjōmu zbiyrajōm informacyje ô twojij maszinie i akcyjach, coby stworzić twōj reklamowy profil.
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Szperowanie ôdciska ôd przeglōndarki
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } poradzi zaszperować rychtowanie ôdciska twojij przeglōndarki (zbiyranie po kryjōmu informacyji ô twojij maszinie i akcyjach, coby stworzić twōj reklamowy profil).
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Przeniyś ta zokłodka na swōj telefōn
+cfr-doorhanger-sync-bookmarks-body = Bier swoje zokłodki, historyjo, hasła i inksze wszyńdzie, kaj ino sie wlogujesz do aplikacyji { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Załōncz { -sync-brand-short-name }
+    .accesskey = Z
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Już żodyn roz niy strać hasła
+cfr-doorhanger-sync-logins-body = Bezpiecznie schranio i synchrōnizuje hasła na wszyskich twojich maszinach.
+cfr-doorhanger-sync-logins-ok-button = Załōncz { -sync-brand-short-name }
+    .accesskey = Z
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Poczytej to w drōdze
 
 ## Firefox Send
 
