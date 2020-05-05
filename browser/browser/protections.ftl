@@ -56,6 +56,9 @@ cryptominer-tab-title = Criptomineri
 cryptominer-tab-content = Criptomomerii folosesc puterea de calcul a sistemului tău pentru a mina bani digitali. Scripturile de criptominare îți golesc bateria, îți încetinesc calculatorul și îți pot crește factura la energie. <a data-l10n-name="learn-more-link">Află mai multe</a>
 protections-close-button =
     .aria-label = Închide
+protections-close-button2 =
+    .aria-label = Închide
+    .title = Închide
 mobile-app-title = Blochează elementele de urmărire din reclame pe mai multe dispozitive
 mobile-app-card-content = Folosește browserul pentru dispozitive mobile cu protecție integrată împotriva elementelor de urmărire din reclame.
 mobile-app-links = { -brand-product-name } Browser pentru <a data-l10n-name="android-mobile-inline-link">Android</a> și <a data-l10n-name="ios-mobile-inline-link">iOS</a>
