@@ -31,6 +31,14 @@ cfr-doorhanger-extension-author = baɗɗo { $name }
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Wasiya
+cfr-doorhanger-extension-notification2 = Wasiya
+    .tooltiptext = Wagginoore timmitere
+    .a11y-announcement = Wagginoore timmitere ina heɓoo
+# This is a notification displayed in the address bar.
+# When clicked it opens a panel with a message for the user.
+cfr-doorhanger-feature-notification = Wagginoore
+    .tooltiptext = Wagginoore fannu
+    .a11y-announcement = Wagginoore fannu ina heɓoo
 
 ## Add-on statistics
 ## These strings are used to display the total number of
@@ -51,6 +59,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } kuutoro
        *[other] { $total } huutorɓe
     }
+cfr-doorhanger-pintab-description = Yetto no weeɓiri e lowe maa ɓurɗe huutoreede. Waɗ lowe ɗee gudditiiɗe e tabbere (hay nde puɗɗitto-ɗaa).
 
 ## These messages are steps on how to use the feature and are shown together.
 
