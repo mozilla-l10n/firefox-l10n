@@ -100,6 +100,9 @@ cfr-whatsnew-tracking-blocked-title =
        *[other] Rewindotooɓe daaƴaaɓe
     }
 cfr-whatsnew-tracking-blocked-subtitle = Gila { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Yiy jaŋtol
+cfr-whatsnew-lockwise-backup-title = Danndu pinle maa
+cfr-whatsnew-lockwise-take-title = Nawor pinle maa
 
 ## Search Bar
 
