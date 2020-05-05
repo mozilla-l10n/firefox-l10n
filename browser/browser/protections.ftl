@@ -63,7 +63,6 @@ lockwise-header-content = { -lockwise-brand-name } conserve de manière sécuris
 lockwise-header-content-logged-in = Enregistrez et synchronisez vos mots de passe sur tous vos appareils en toute sécurité.
 protection-report-view-logins-button = Afficher les identifiants
     .title = Ouvrir les identifiants enregistrés
-lockwise-no-logins-content = Installez l’application <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> pour avoir vos mots de passe toujours avec vous.
 lockwise-mobile-app-title = Emportez vos mots de passe partout
 lockwise-no-logins-card-content = Utilisez les mots de passe enregistrés dans { -brand-short-name } sur n’importe quel appareil.
 lockwise-app-links = { -lockwise-brand-name } pour <a data-l10n-name="lockwise-android-inline-link">Android</a> et <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
