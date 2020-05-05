@@ -152,12 +152,15 @@ cfr-doorhanger-socialtracking-dont-show-again = Hoto hollam ɓatakuuji mbaaɗi n
 
 ## Enhanced Tracking Protection Milestones
 
+cfr-doorhanger-milestone-ok-button = Yiy fof
+    .accesskey = Y
 
 ## What’s New Panel Content for Firefox 76
 
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Sos pinle kisɗe no weeɓiri
 
 ## Vulnerable Passwords message
 
