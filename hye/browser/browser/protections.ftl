@@ -54,7 +54,6 @@ lockwise-header-content = { -lockwise-brand-name } ապահով պահպանու
 lockwise-header-content-logged-in = Ապահով պահեք եւ համաժամացրեք Ձեր գաղտնաբառերը Ձեր բոլոր սարքերում:
 protection-report-view-logins-button = Դիտել մուտքերը
     .title = Անցնել պահուած մուտքերին
-lockwise-no-logins-content = Ձեռք բերէք <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ծրագիրը՝ Ձեր գաղտնաբառերը ամենուր վերցնելու համար:
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
