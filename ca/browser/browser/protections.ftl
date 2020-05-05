@@ -61,7 +61,6 @@ lockwise-header-content = { -lockwise-brand-name } emmagatzema les contrasenyes 
 lockwise-header-content-logged-in = Deseu i sincronitzeu les contrasenyes de forma segura en tots els vostres dispositius.
 protection-report-view-logins-button = Mostra els inicis de sessió
     .title = Vés als inicis de sessió desats
-lockwise-no-logins-content = Instal·leu l'aplicació <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> per accedir a les vostres contrasenyes des de qualsevol lloc.
 lockwise-mobile-app-title = Accediu a les vostres contrasenyes des de qualsevol lloc
 lockwise-no-logins-card-content = Utilitzeu en qualsevol dispositiu les contrasenyes desades en el { -brand-short-name }.
 lockwise-app-links = { -lockwise-brand-name } per a l'<a data-l10n-name="lockwise-android-inline-link">Android</a> i l'<a data-l10n-name="lockwise-ios-inline-link">iOS</a>
