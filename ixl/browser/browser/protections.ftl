@@ -7,6 +7,9 @@
 graph-today = Cheel
 protections-close-button =
     .aria-label = Jupa
+protections-close-button2 =
+    .aria-label = Jupa
+    .title = Jupa
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Il ixe'teb'al u aq'one'
     .title = Il ixe'teb'al u aq'one' ve kolel kan.
