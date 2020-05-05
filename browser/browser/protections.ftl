@@ -21,12 +21,6 @@ graph-total-tracker-summary =
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
-protection-header-details-standard = Kaitsetasemeks on määratud <b>Tavaline</b>
-protection-header-details-strict = Kaitsetasemeks on määratud <b>Range</b>
-protection-header-details-custom = Kaitsetasemeks on määratud <b>Kohandatud</b>
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
 protection-report-header-details-standard = Kaitsetasemeks on määratud <b>Tavaline</b>
     .title = Ava privaatsuse sätted
 protection-report-header-details-strict = Kaitsetasemeks on määratud <b>Range</b>
@@ -56,10 +50,8 @@ lockwise-title = Lõpp paroolide unustamisele
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } salvestab paroolid turvaliselt sinu brauseris.
 lockwise-header-content-logged-in = Salvesta ja sünkroniseeri oma paroolid turvaliselt kõigisse oma seadmetesse.
-about-logins-view-logins-button = Vaata kasutajakontosid
 protection-report-view-logins-button = Vaata kasutajakontosid
     .title = Ava salvestatud kasutajakontod
-lockwise-no-logins-content = Oma paroolide kõikjale kaasa võtmiseks hangi äpp <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -70,15 +62,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Lülita { -sync-brand-short-name } sisse…
     .title = Ava sünkroniseerimise sätted
-manage-devices = Halda seadmeid
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] parool on sünkroniseeritud ühte teise seadmesse
-       *[other] parooli on sünkroniseeritud { $count } teise seadmesse
-    }
-lockwise-sync-not-syncing-devices = Sünkroniseerimist teistesse seadmetesse ei toimu
 monitor-title = Hoia end kursis andmeleketega
 monitor-link = Kuidas see töötab?
 monitor-header-content-no-account = Kontrolli { -monitor-brand-name }i, et näha, kas sinu andmed leiduvad mõnes teadaolevas andmelekkes ja saa hoiatusi uute lekete kohta.
@@ -118,10 +101,6 @@ password-warning =
         [one] salvestatud kasutajakonto andmed võivad olla lekkinud. Parema turvalisuse nimel muuda selle konto parool. <a data-l10n-name="lockwise-link">Vaata salvestatud kasutajakontosid</a>
        *[other] salvestatud kasutajakonto andmed võivad olla lekkinud. Parema turvalisuse nimel muuda nende kontode paroolid. <a data-l10n-name="lockwise-link">Vaata salvestatud kasutajakontosid</a>
     }
-# This is the title attribute describing the graph report's link to about:settings#privacy
-go-to-privacy-settings = Ava privaatsuse sätted
-# This is the title attribute describing the Lockwise card's link to about:logins
-go-to-saved-logins = Vaata salvestatud kasutajakontosid
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
