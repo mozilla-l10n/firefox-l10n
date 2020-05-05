@@ -311,6 +311,7 @@ shortcuts-no-commands = Re taq k'amal re' majun ruq'a' rokem pitz'b'äl:
 shortcuts-input =
     .placeholder = Tatz'ib'aj jun chojokem
 shortcuts-browserAction = Titzij k'amal
+shortcuts-browserAction2 = Titzij rupitz'b'al rukajtz'ik samajib'äl
 shortcuts-pageAction = Titzij rub'anoj ruxaq
 shortcuts-sidebarAction = Tik'exlöx ri ajxikin kajtz'ik
 shortcuts-modifier-mac = Titz'aqatisäx Ctrl, Alt o ⌘
