@@ -52,6 +52,9 @@ cryptominer-tab-title = Penambang Kripto
 cryptominer-tab-content = Penambang kripto menggunakan daya komputasi pada sistem Anda untuk menambang uang digital. Skrip penambangan kripto menguras baterai Anda, membuat Komputer anda lambat dan dapat menambah tagihan listrik Anda. <a data-l10n-name="learn-more-link">Pelajari lebih lanjut</a>
 protections-close-button =
     .aria-label = Tutup
+protections-close-button2 =
+    .aria-label = Tutup
+    .title = Tutup
 mobile-app-title = Blokir pelacak iklan di lebih banyak perangkat
 mobile-app-card-content = Gunakan peramban seluler dengan perlindungan bawaan terhadap pelacakan iklan.
 mobile-app-links = Peramban { -brand-product-name } untuk <a data-l10n-name="android-mobile-inline-link">Android</a> dan <a data-l10n-name="ios-mobile-inline-link">iOS</a>
