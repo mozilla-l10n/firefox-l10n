@@ -21,3 +21,5 @@ sync-label = Naatnu iimeel maa
 sync-input =
     .placeholder = Iimeel
 sync-button = Jokku
+sync-first = Kuutorogol gadanol { -sync-brand-name }? Maa soklu seŋaade e kala aafgol Firefox ngam jokkondirde kabaruuji maa.
+sync-learn = Ɓeydu humpito
