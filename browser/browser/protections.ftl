@@ -54,6 +54,9 @@ cryptominer-tab-title = Kryptogrävare
 cryptominer-tab-content = Kryptogrävare använder ditt systems datakraft för att utvinna digitala pengar. Kryptogrävar-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen. <a data-l10n-name="learn-more-link">Läs mer</a>
 protections-close-button =
     .aria-label = Stäng
+protections-close-button2 =
+    .aria-label = Stäng
+    .title = Stäng
 mobile-app-title = Blockera annonsspårare på fler enheter
 mobile-app-card-content = Använd den mobila webbläsaren med inbyggt skydd mot annonsspårning.
 mobile-app-links = { -brand-product-name } webbläsare för <a data-l10n-name="android-mobile-inline-link">Android</a> och <a data-l10n-name="ios-mobile-inline-link">iOS</a>
