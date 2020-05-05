@@ -76,6 +76,8 @@ cfr-doorhanger-bookmark-fxa-link-text = Jokkondir maantore jooni…
 
 ## Protections panel
 
+cfr-protections-panel-header = Wanngo tawo a rewindaaka
+cfr-protections-panel-body = Mooftan hoore maa keɓe maa. { -brand-short-name } ina reen maa e ko heewi e rewindotooɓe ɓurɓe wooweede rewooɓe e maa e ceŋogol.
 
 ## What's New toolbar button and panel
 
