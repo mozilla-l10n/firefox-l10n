@@ -56,6 +56,9 @@ cryptominer-tab-title = Майнеры крыптавалют
 cryptominer-tab-content = Майнеры крыптавалют выкарыстоўваюць вылічальную магутнасць вашай сістэмы, каб здабываць лічбавыя грошы. Скрыпты для здабычы крыптавалют разраджаюць вашу батарэю, запавольваюць працу камп'ютара і могуць павялічыць ваш выдаткі на электраэнергію. <a data-l10n-name="learn-more-link">Даведацца больш</a>
 protections-close-button =
     .aria-label = Закрыць
+protections-close-button2 =
+    .aria-label = Закрыць
+    .title = Закрыць
 mobile-app-title = Блакуйце рэкламныя трэкеры на некалькіх прыладах
 mobile-app-card-content = Выкарыстоўвайце мабільны браўзер з убудаванай аховай ад рэкламнага сачэння.
 mobile-app-links = { -brand-product-name } Браўзер для <a data-l10n-name="android-mobile-inline-link">Android</a> і <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -65,7 +68,6 @@ lockwise-header-content = { -lockwise-brand-name } надзейна захоўв
 lockwise-header-content-logged-in = Бяспечна захоўвайце і сінхранізуйце паролі на ўсіх сваіх прыладах.
 protection-report-view-logins-button = Прагляд лагінаў
     .title = Перайсці да захаваных лагінаў
-lockwise-no-logins-content = Атрымайце праграму <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, каб трымаць свае паролі заўжды пры сабе.
 lockwise-mobile-app-title = Вазьміце свае паролі ўсюды
 lockwise-no-logins-card-content = Выкарыстоўвайце паролі, захаваныя ў { -brand-short-name }, на любой прыладзе.
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> і <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
