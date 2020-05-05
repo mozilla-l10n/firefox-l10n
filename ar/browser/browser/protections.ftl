@@ -61,7 +61,6 @@ lockwise-header-content = يخزّن { -lockwise-brand-name } كلمات الس�
 lockwise-header-content-logged-in = خزّن كلمات السر وزامنها على مختلف الأجهزة لديك.
 protection-report-view-logins-button = اعرض جلسات الولوج
     .title = انتقل إلى جلسات الولوج
-lockwise-no-logins-content = نزّل تطبيق <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> لتأخذ معك كلمات السر أينما ذهبت.
 lockwise-mobile-app-title = خُذ معك كلمات السر أينما ذهبت
 lockwise-no-logins-card-content = استعمل كلمات السر المحفوظة في { -brand-short-name } على أي جهاز.
 turn-on-sync = فعّل { -sync-brand-short-name }…
