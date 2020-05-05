@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Varmenteen myöntäjä
 certificate-viewer-cipher-suite = Salaaja
 certificate-viewer-common-name = Yleinen nimi
 certificate-viewer-email-address = Sähköpostiosoite
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Varmenne { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Perustusmaa
 certificate-viewer-country = Maa
