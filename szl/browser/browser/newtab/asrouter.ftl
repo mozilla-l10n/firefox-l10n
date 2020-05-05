@@ -170,12 +170,29 @@ cfr-doorhanger-sync-logins-ok-button = Załōncz { -sync-brand-short-name }
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Poczytej to w drōdze
+cfr-doorhanger-send-tab-recipe-header = Weź se tyn recept do kuchnie
+cfr-doorhanger-send-tab-body = Posyłanie kart snadnie udostympni tyn link na telefōn abo kaj ino sie wlogujesz do aplikacyje { -brand-product-name }.
+cfr-doorhanger-send-tab-ok-button = Sprōbuj: Poślij karta
+    .accesskey = P
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Bezpiecznie udostympnij tyn PDF
+cfr-doorhanger-firefox-send-body = Chrōń swoje ôsobiste dokumynty ôd wrazidlatych ôczōw dziynki szyfrowaniu end-to-end i linkowi, co sie traci po użyciu.
+cfr-doorhanger-firefox-send-ok-button = Sprōbuj: { -send-brand-name }
+    .accesskey = S
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Pokoż zabezpieczynia
+    .accesskey = P
+cfr-doorhanger-socialtracking-close-button = Zawrzij
+    .accesskey = Z
+cfr-doorhanger-socialtracking-dont-show-again = Niy pokozuj mi już takich wiadōmości
+    .accesskey = N
+cfr-doorhanger-socialtracking-heading = { -brand-short-name } niy doł śledzić ci sam społecznościowym serwisōm.
+cfr-doorhanger-socialtracking-description = Mōmy w zocy twoja prywatność. Teroz { -brand-short-name } szperuje popularne śledzōnce elymynty ôd społecznościowych serwisōw i ukrōco to, wiela danych śmiōm zbiyrać ô ciebie i twojich akcyjach w necu.
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } zaszperowoł rychtowanie ôdciska twojij przeglōndarki na tyj strōnie
 
 ## Enhanced Tracking Protection Milestones
 
