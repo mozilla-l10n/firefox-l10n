@@ -54,6 +54,9 @@ cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Umi criptominero oipurúva nde apopyvusu rembipurupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oipurupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy. <a data-l10n-name="learn-more-link">Kuaave</a>
 protections-close-button =
     .aria-label = Mboty
+protections-close-button2 =
+    .aria-label = Mboty
+    .title = Mboty
 mobile-app-title = Ejoko ñemurã rapykuehoha hetave mba’e’okápe
 mobile-app-card-content = Eipuru kundahára oku’éva ñemo’ã ijeheguáva ndive ñemurã rapykuehoha rovake.
 mobile-app-links = Pe kundahára { -brand-product-name } <a data-l10n-name="android-mobile-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -63,7 +66,6 @@ lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikund
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
 protection-report-view-logins-button = Ehecha tembiapo ñepyrũ
     .title = Eho jeikeha ñongatupyrépe
-lockwise-no-logins-content = Eguereko pe tembipuru’i <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> egueraha hag̃ua ne ñe’ẽñemi opa hendápe.
 lockwise-mobile-app-title = Egueraha ne ñe’ẽñemi opa hendápe
 lockwise-no-logins-card-content = Eipuru ñe’ẽñemi eñongatupyre { -brand-short-name } oimeraẽva mba’e’okápe.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
