@@ -89,6 +89,17 @@ cfr-whatsnew-button =
     .label = Ko Hesɗi
     .tooltiptext = Ko Hesɗi
 cfr-whatsnew-panel-header = Ko Hesɗi
+cfr-whatsnew-tracking-protect-title = Reen hoore maa e rewindotooɓe
+cfr-whatsnew-tracking-protect-link-text = Yiy jaŋtol maa
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Rewindotooɓe daaƴaaɓe
+       *[other] Rewindotooɓe daaƴaaɓe
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Gila { DATETIME($earliestDate, month: "long", year: "numeric") }
 
 ## Search Bar
 
