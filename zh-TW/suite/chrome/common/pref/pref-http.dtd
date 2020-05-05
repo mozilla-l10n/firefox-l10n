@@ -20,3 +20,10 @@
 <!ENTITY prefLightningShow.label             "通知已安裝 Lightning">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "警告: 關閉這些設定可能會造成網站或服務無法正常使用。">
+<!ENTITY prefFirefoxStrict.label             "標示為 Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "I">
+<!ENTITY prefFirefoxNone.label               "標示為 SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefFirefoxCompat2.label            "標示為 SeaMonkey 並與 Firefox 相容">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "警告: 變更此設定可能會造成網站或服務無法正常使用。">

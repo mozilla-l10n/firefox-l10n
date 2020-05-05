@@ -21,6 +21,8 @@
 <!ENTITY showHideTooltips.label                 "顯示提示文字">
 <!ENTITY showHideTooltips.accesskey             "T">
 
+<!ENTITY showHideGrippies.accesskey             "G">
+
 <!ENTITY pref.locales.title                     "使用者介面語言">
 <!ENTITY selectLocale.label                     "選擇要顯示於對話框、選單、工具列，與按鈕上文字的語言:">
 
