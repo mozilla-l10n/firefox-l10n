@@ -21,12 +21,11 @@
 <!ENTITY showHideTooltips.label                 "Mostrar ayudas">
 <!ENTITY showHideTooltips.accesskey             "t">
 
+<!ENTITY showHideGrippies.label                 "Ocultar barra de herramientas Grippies">
+<!ENTITY showHideGrippies.accesskey             "G">
+
 <!ENTITY pref.locales.title                     "Idioma de la interfaz de usuario">
 <!ENTITY selectLocale.label                     "Elija el idioma para el texto que aparece en las cajas de diálogos, menús, barras de herramientas y botones:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Los cambios en las preferencias de idioma tendrán efecto cuando reinicie &brandShortName;.">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties
