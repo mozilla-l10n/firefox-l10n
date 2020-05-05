@@ -54,7 +54,6 @@ lockwise-header-content = { -lockwise-brand-name } na'nïn sà' hue'ej nej da'ng
 lockwise-header-content-logged-in = Nachra sà' ni nagi'iaj guña nej da'nga' huì nikajt riña daran nej si aga't.
 protection-report-view-logins-button = Ni’iā riña gayì’ìt sesiûn
     .title = Guīj riña na’nïn sà’t riña gayì’ìt sesiûn
-lockwise-no-logins-content = Nadunïnj aplikasiûn <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> da' ganikajt nej si da'nga' huìt gan'anjt danè' garan' ruhuât.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -65,15 +64,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = Na'nïn riña{ -sync-brand-short-name }...
     .title = Guij riña nej si preferencia sa nagi'iaj guñant
-manage-devices = Nikaj ñu'unj dàj gi'iaj sun nej aga'a
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] Nagi'iaj guña { $count } ngà a'ngô aga'a
-       *[other] Nagi'iaj guña { $count } ngà a'ngô nej aga'a
-    }
-lockwise-sync-not-syncing-devices = Nu ga'ue nagi'iaj nuguàn’anj ngà a'ngô nej aga'a
 monitor-title = Sasà' ni'iajt sisi nadunâ nej si sa hua riña nej dâto
 monitor-link = Dàj 'iaj sunj
 monitor-header-content-no-account = Nātsij ni'iajt { -monitor-brand-name } da' gini'înt sisī gi'iaj yi'ì nej si si datôt nī ga'ue nahuin ra'at nej nuguan' natà' snan'anj sisī ruhuâ nej si gi'iaj yi'ì ñû nej si.
