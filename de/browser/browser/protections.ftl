@@ -54,6 +54,9 @@ cryptominer-tab-title = Heimliche Digitalwährungsberechner (Krypto-Miner)
 cryptominer-tab-content = Heimliche Digitalwährungsberechner (Krypto-Miner) verwenden die Rechenleistung Ihres Computers, um digitales Geld zu erzeugen. Dabei wird die Batterie schnell entladen, der Computer verlangsamt und die Energierechnung erhöht. <a data-l10n-name="learn-more-link">Weitere Informationen</a>
 protections-close-button =
     .aria-label = Schließen
+protections-close-button2 =
+    .aria-label = Schließen
+    .title = Schließen
 mobile-app-title = Blockieren Sie Werbe-Tracker auf mehreren Geräten
 mobile-app-card-content = Verwenden Sie den mobilen Browser mit eingebautem Schutz vor Werbe-Tracking.
 mobile-app-links = { -brand-product-name }-Browser für <a data-l10n-name="android-mobile-inline-link">Android</a> und <a data-l10n-name="ios-mobile-inline-link">iOS</a>
