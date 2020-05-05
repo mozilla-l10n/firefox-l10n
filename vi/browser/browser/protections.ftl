@@ -52,6 +52,9 @@ cryptominer-tab-title = Tiền điện tử
 cryptominer-tab-content = Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 protections-close-button =
     .aria-label = Đóng
+protections-close-button2 =
+    .aria-label = Đóng
+    .title = Đóng
 mobile-app-title = Chặn trình theo dõi quảng cáo trên nhiều thiết bị hơn
 mobile-app-card-content = Sử dụng trình duyệt di động có bảo vệ tích hợp chống theo dõi quảng cáo.
 mobile-app-links = Trình duyệt { -brand-product-name } dành cho <a data-l10n-name="android-mobile-inline-link">Android</a> và <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -61,7 +64,6 @@ lockwise-header-content = { -lockwise-brand-name } lưu trữ an toàn mật kh�
 lockwise-header-content-logged-in = Lưu trữ an toàn và đồng bộ hóa mật khẩu của bạn với tất cả các thiết bị của bạn.
 protection-report-view-logins-button = Xem thông tin đăng nhập
     .title = Đi đến Thông tin đăng nhập đã lưu
-lockwise-no-logins-content = Tải ứng dụng <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> để mang mật khẩu của bạn đi khắp mọi nơi.
 lockwise-mobile-app-title = Mang mật khẩu của bạn đi khắp mọi nơi
 lockwise-no-logins-card-content = Sử dụng mật khẩu được lưu trong { -brand-short-name } trên bất kỳ thiết bị nào.
 lockwise-app-links = { -lockwise-brand-name } dành cho <a data-l10n-name="lockwise-android-inline-link">Android</a> và <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
