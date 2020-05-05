@@ -58,6 +58,9 @@ cryptominer-tab-title = Kriptorudarji
 cryptominer-tab-content = Kriptorudarji izrabljajo zmogljivost vašega računalnika za rudarjenje digitalnega denarja. Rudarski skripti vam praznijo baterijo, upočasnjujejo računalnik in zasolijo račun za elektriko. <a data-l10n-name="learn-more-link">Več o tem</a>
 protections-close-button =
     .aria-label = Zapri
+protections-close-button2 =
+    .aria-label = Zapri
+    .title = Zapri
 mobile-app-title = Zavrnite sledilce oglasov na več napravah
 mobile-app-card-content = Uporabljajte mobilni brskalnik z vgrajeno zaščito pred sledilci oglasov.
 mobile-app-links = Brskalnik { -brand-product-name } za <a data-l10n-name="android-mobile-inline-link">Android</a> in <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -67,7 +70,6 @@ lockwise-header-content = { -lockwise-brand-name } varno hrani vaša gesla v brs
 lockwise-header-content-logged-in = Varno hranite in sinhronizirajte svoja gesla na vseh napravah.
 protection-report-view-logins-button = Ogled prijav
     .title = Pojdi na shranjene prijave
-lockwise-no-logins-content = Prenesite aplikacijo <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> in vzemite gesla s seboj.
 lockwise-mobile-app-title = Vzemite gesla s seboj
 lockwise-no-logins-card-content = Uporabljajte gesla, shranjena v { -brand-short-name }, na katerikoli napravi.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> in <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
