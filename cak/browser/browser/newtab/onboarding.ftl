@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Titikirisäx
 onboarding-welcome-header = Ütz apetik pa { -brand-short-name }
 onboarding-welcome-body = K'o awik'in ri okik'amaya'l.<br/>Tawetamaj ri ch'aqa' chik taq { -brand-product-name }.
 onboarding-welcome-learn-more = Tawetamaj ch'aqa' chik pa ruwi' ri taq rutzil.
+onboarding-join-form-header = Tatunu' awi' rik'in { -brand-product-name }
 onboarding-welcome-modal-get-body = K'o chik awik'in ri okik'amaya'l.<br/>Tawetamaj ütz rusamajixik { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Taya' ralal ri ruchajixik awichinanem.
 onboarding-welcome-modal-privacy-body = K'o chik awik'in ri okik'amaya'l. Tatz'aqatisaj ch'aqa' chik ta ruchajixik ichinanem.
 onboarding-welcome-modal-family-learn-more = Tawetamaj chi rij ri { -brand-product-name } ach'alal taq tikojil.
 onboarding-welcome-form-header = Wawe' Tatikirisaj
-onboarding-join-form-header = Tatunu' awi' rik'in { -brand-product-name }
 onboarding-join-form-body = Richin natikirisaj, tatz'ib'aj ri rochochib'al ataqoya'l.
 onboarding-join-form-email =
     .placeholder = Titz'ib'äx taqoya'l
@@ -53,8 +53,6 @@ onboarding-fullpage-form-email =
 onboarding-sync-welcome-header = Tak'waj ri { -brand-product-name } Awik'in
 onboarding-sync-welcome-content = Ke'ak'waj ri taq yaketal, natab'äl, ewan taq tzij chuqa' ch'aqa' chik taq nuk'ulem pa ronojel taq awokisaxel.
 onboarding-sync-welcome-learn-more-link = Tawetamaj ch'aqa' chik pa ruwi' ri Firefox Taqoya'l
-onboarding-sync-form-invalid-input = Najowäx ütz chi taqoya'l
-onboarding-sync-legal-notice = Toq nasamajij qa, nawojqaj ri <a data-l10n-name="terms">Kojqanem Samaj</a> chuqa' <a data-l10n-name="privacy">Ichinan Na'oj</a>.
 onboarding-sync-form-input =
     .placeholder = Taqoya'l
 onboarding-sync-form-continue-button = Titikïr chik el
@@ -149,6 +147,9 @@ onboarding-facebook-container-button = Titz'aqatisäx ri K'amal
 onboarding-import-browser-settings-title = Ke'ajik'a' ri taq Ayaketal, Ewan taq Atzij Chuqa' Ch'aqa' chik
 onboarding-import-browser-settings-text = Tanima' awi'—anin ke'ak'waj awik'in ri taq ruxaq chuqa' taq anuk'ulem richin Chrome.
 onboarding-import-browser-settings-button = Ke'ajik'a' Taq Atzij Richin Chrome
+onboarding-personal-data-promise-title = Ichinan ruma Wachib'enïk
+onboarding-personal-data-promise-text = { -brand-product-name } yerukamelaj ri taq atzij rik'in jub'a' ok numöl, yeruchajij chuqa' nub'ij achike rub'eyal ye'okisäx.
+onboarding-personal-data-promise-button = Tasik'ij ri Ruya'ik Qatzij
 
 ## Message strings belonging to the Return to AMO flow
 

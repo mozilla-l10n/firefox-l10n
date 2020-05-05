@@ -230,4 +230,5 @@ cfr-whatsnew-passwords-icon-alt = Ruwachib'al tz'ilanel ewan tzij
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Tik'wäx ri picture-in-picture pa tz'aqät ruwäch
+cfr-whatsnew-pip-fullscreen-body = Toq nak'waj jun silowäch pa jun xik'anel tzuwäch, yatikïr chik naya' ka'i' pitz'oj pa ruwi' ri tzuwäch richin nitz'aqatisäx rutzub'al.
 cfr-whatsnew-pip-fullscreen-icon-alt = Ruwachib'al Picture-in-picture
