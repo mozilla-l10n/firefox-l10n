@@ -54,6 +54,9 @@ cryptominer-tab-title = Kriptobányászok
 cryptominer-tab-content = A kriptobányászok az Ön rendszerének erőforrásait használják digitális pénzek bányászatához. A kriptobányászok lemerítik az akkumulátort, lelassítják a számítógépét és növelhetik a villanyszámláját. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 protections-close-button =
     .aria-label = Bezárás
+protections-close-button2 =
+    .aria-label = Bezárás
+    .title = Bezárás
 mobile-app-title = Blokkolja a hirdetéskövetőket több eszközön
 mobile-app-card-content = Használja a beépített hirdetéskövetés elleni védelemmel ellátott mobilböngészőt.
 mobile-app-links = { -brand-product-name } Böngésző <a data-l10n-name="android-mobile-inline-link">Androidra</a> és <a data-l10n-name="ios-mobile-inline-link">iOS-re</a>
@@ -63,7 +66,6 @@ lockwise-header-content = A { -lockwise-brand-name } biztonságosan tárolja a j
 lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
 protection-report-view-logins-button = Bejelentkezések megtekintése
     .title = Ugrás a mentett bejelentkezésekhez
-lockwise-no-logins-content = Szerezze be a <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> alkalmazást, hogy bárhová elvigye a jelszavait.
 lockwise-mobile-app-title = Vigye magával a jelszavait bárhová
 lockwise-no-logins-card-content = Használja a { -brand-short-name }ban mentett jelszavait bármely eszközön.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Androidra</a> és <a data-l10n-name="lockwise-ios-inline-link">iOS-re</a>
