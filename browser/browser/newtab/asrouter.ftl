@@ -114,9 +114,12 @@ cfr-whatsnew-searchbar-title = Tappu seeɗa, yiytu ko heese e palal ñiiɓirde
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Yeeɓ widewooji saanga nde mbanngoto-ɗaa
+cfr-whatsnew-pip-cta = Ɓeydu humpito
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-cta = Ɓeydu humpito
 
 ## Fingerprinter Counter
 
