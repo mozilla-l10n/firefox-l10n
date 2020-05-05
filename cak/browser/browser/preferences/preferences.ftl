@@ -232,6 +232,10 @@ translate-attribution = Tzalq'oman ruma <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Taq man relik ta…
     .accesskey = e
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Tawokisaj ri runuk'ulem aq'inoj richin “{ $localeName }” richin nib'an kik'ojlem q'ijul, ramaj, ajilab'äl chuqa' etab'äl.
 check-user-spelling =
     .label = Tinik'öx ri nutz'ib'anik toq yitz'ib'an
     .accesskey = n
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Tokisäx { $app-name } (ruk'amon wi pe)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Tokisäx ri ruchokoy macOS k'o wi
+            [windows] Tokisäx ri ruchokoy Windows k'o wi
+           *[other] Tokisäx ri ruchokoy q'inoj k'o wi
+        }
 applications-use-other =
     .label = Tokisäx jun chik…
 applications-select-helper = Tacha' jun achib'il chi chokoy
@@ -305,6 +316,8 @@ applications-use-plugin-in =
     .label = Tokisäx { $plugin-name } (pa { -brand-short-name })
 applications-preview-inapp =
     .label = Titz'etb'ëx pa { -brand-short-name }
+applications-open-inapp =
+    .label = Tijaq pa { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -318,12 +331,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -866,6 +883,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Kojqanela' xoch'in taq ruxaq
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Kojqanela' taq ruxaq chuqa' aj winäq k'amab'ey
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Kojqanela' xoch'in taq ruxaq chuqa' winaqil taq k'amab'ey, chuqa' kijech'unik ri ch'aqa' chik taq kuki
 sitedata-option-block-unvisited =
     .label = Taq kuki man etz'eton ta ajkamaya'l taq ruxaq
 sitedata-option-block-all-third-party =
@@ -942,6 +961,7 @@ content-blocking-etp-strict-desc = Nïm chajinem, xa xe chi nub'än chi jujun ta
 content-blocking-etp-custom-desc = Ke'acha' achike taq ojqanela' chuqa' kiskrip taq komando nawajo' ye'aq'ät
 content-blocking-private-windows = Kichajinik taq rupam pan Ichinan taq Tzuwäch
 content-blocking-cross-site-tracking-cookies = kikuki kojqanik xoch'in taq ruxaq
+content-blocking-cross-site-tracking-cookies-plus-isolate = Taq kikuki kojqanem xoch'in taq ruxaq chuqa' kijech'unik ri ch'aqa' chik taq kuki
 content-blocking-social-media-trackers = Kojqanem aj winäq k'amab'ey
 content-blocking-all-cookies = Ronojel taq kuki
 content-blocking-unvisited-cookies = Taq kikuki ruxaq k'amaya'l man e tz'eton ta

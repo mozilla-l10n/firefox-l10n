@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Tichup ri tojtob'äl okik'amaya'l k'o wi pa rut
 policy-DownloadDirectory = Tijikib'äx chuqa' tiq'at ri kimolwuj qasanïk.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Titzij o tichup ri Kiq'atik Rupam chuqa' ticha' toq niq'at.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Yetzij o yechup taq kik'amal Ewan Kisik'ixik taq Tob'äl chuqa' tikirel yeq'at kichin.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -66,6 +68,14 @@ policy-HardwareAcceleration = We man qitzij ta, tichup ranin ch'akulkem.
 policy-Homepage = Tiya' chuqa' ütz niq'at ri tikirib'äl ruxaq.
 policy-InstallAddonsPermission = Tiya' q'ij chi ke jujun taq ajk'amaya'l ruxaq yekiyäk taq tz'aqat.
 policy-LegacyProfiles = Tichup ri samaj nub'än chi nijach jun ruwäch b'i'aj kichin jujun yakoj
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Titzij ri runuk'ulem k'o wi richin ri rub'anikil SameSite kuki.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Titzolin rik'in ri rub'anikil SameSite kichin taq kuki pa jikïl taq ruxaq.
+
+##
+
 policy-LocalFileLinks = Tiya' q'ij chi ri ajk'amaya'l ruxaq tikixima' ki' kik'in ri aj wawe' taq yakb'äl.
 policy-NetworkPrediction = Titzij o tichup ri nutz'et k'amab'ey (DNS nab'ey rukanoxik).
 policy-NewTabPage = Titzij o tichup ri ruxaq K'ak'a' Ruwi'.
@@ -75,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Tijikib'äx ri retal k'o wi richin niya' q'ij 
 policy-OverrideFirstRunPage = Tiyuj ri nab'ey ruxaq rub'anikil. Tiya' pa säq re na'ojil re' we nawajo' nachüp ri nab'ey ruxaq rub'anik.
 policy-OverridePostUpdatePage = Nayüj ri ruxaq "K'ak'a' taq tzijol" chi rij ri k'exoj. Tiya' pa säq re na'ojil re' we nawajo' nachüp re ruxaq chi rij ri k'exoj.
 policy-PasswordManagerEnabled = Titzij keyak ewan taq tzij pa ri kinuk'samajixik ewan taq tzij.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Tichup o tib'an runuk'ulem PDF.js, ri tz'etöy PDF pa { -brand-short-name }.
 policy-Permissions2 = Tib'an kinuk'ulem ya'oj taq q'ij kichin elesäy wachib'äl, q'asäy ch'ab'äl, k'ojlib'äl, taq rutzijol chuqa' ruyonil nitzij.
 policy-PopupBlocking = Tiya' q'ij chi jujun taq ajk'amaya'l ruxaq kekik'utu' elenel taq tzuwäch achi'el e k'o wi.
 policy-Preferences = Tajikib'a' chuqa' taq'ata' ri rejqalem jun rachmolaj ajowanïk.
