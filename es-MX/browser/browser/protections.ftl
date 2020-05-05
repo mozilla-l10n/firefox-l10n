@@ -63,7 +63,6 @@ lockwise-header-content = { -lockwise-brand-name } guarda de manera segura tus c
 lockwise-header-content-logged-in = Almacena y sincroniza tus contraseñas en todos tus dispositivos.
 protection-report-view-logins-button = Ver credenciales
     .title = Ir a los inicios de sesión guardados
-lockwise-no-logins-content = Obtén la app <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para tener tus contraseñas en cualquier lugar.
 lockwise-mobile-app-title = Lleva tus contraseñas a todos lados
 lockwise-no-logins-card-content = Usa contraseñas guardadas en { -brand-short-name } en cualquier dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> y <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
