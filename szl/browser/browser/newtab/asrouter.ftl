@@ -223,6 +223,11 @@ cfr-whatsnew-lockwise-icon-alt = Ikōna { -lockwise-brand-short-name(case: "gen"
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Dostowej powiadōmiynia ô niyherskich hasłach
+cfr-whatsnew-passwords-body = Hakry znajōm, iże ludzie porzōnd używajōm jednego hasła na roztōmajtych strōnach. Jak tak robisz, a z jednyj takij strōny wycieknōm dane, { -lockwise-brand-short-name } do ci znać, coby zmiynić hasło na tych strōnach.
+cfr-whatsnew-passwords-icon-alt = Ikōna niyherskigo hasła
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Dej ôbroz w ôbrazie na cołki ekran
+cfr-whatsnew-pip-fullscreen-body = Jak film je puszczōny w ruchōmym ôknie, kliknij na niego dwa razy, coby go dać na cołki ekran.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikōna ôbrazu w ôbrazie
