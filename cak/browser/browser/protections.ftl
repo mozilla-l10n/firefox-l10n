@@ -54,6 +54,9 @@ cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Ri ajkriptom nikokisaj ruchuq'a' ruq'inoj akematz'ib' richin rub'anik kematz'ib'il pwäq. Ri taq skrip ye'okisäx chi kipam, nikokisaj ri awateriya', eqal nikib'än chi re ri akematz'ib' chuqa' nikijotob'a' rajil ruwujil asaqil. <a data-l10n-name="learn-more-link">Tetamäx ch'aqa' chik</a>
 protections-close-button =
     .aria-label = Titz'apïx
+protections-close-button2 =
+    .aria-label = Titz'apïx
+    .title = Titz'apïx
 mobile-app-title = Keq'at ri rojqanela' eltzijol pa ch'aqa' okisab'äl
 mobile-app-card-content = Tokisäx ri oyonib'äl okik'amaya'l rik'in ri kemon chajinïk chuwäch ri retal eltzijol.
 mobile-app-links = { -brand-product-name } Okik'amaya'l richin <a data-l10n-name="android-mobile-inline-link">Android</a> chuqa' <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -63,7 +66,6 @@ lockwise-header-content = { -lockwise-brand-name } ütz ke'ayaka' ri ewan taq at
 lockwise-header-content-logged-in = Ütz ke'ayaka' ri ewan taq atzij chuqa' ake'axima' pa ronojel awokisab'al.
 protection-report-view-logins-button = Titzet Tikirib'äl Molojri'ïl
     .title = Keb'etz'et Yakon taq Tikirib'äl Molojri'ïl
-lockwise-no-logins-content = Tak'ulu' ri <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> chokoy richin xab'akuchi' ye'ak'waj ri ewan taq atzij.
 lockwise-mobile-app-title = Xab'akuchi' ke'ak'waj ri ewan taq atzij
 lockwise-no-logins-card-content = Tawokisaj ewan taq tzij eyakon pa { -brand-short-name } pa xab'achike okisab'äl.
 lockwise-app-links = { -lockwise-brand-name } richin <a data-l10n-name="lockwise-android-inline-link">Android</a> chuqa' <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
