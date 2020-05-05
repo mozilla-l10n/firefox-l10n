@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "获取账户信息">
 <!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextMarkAllFoldersRead.label "标记所有收件箱为已读">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "在新窗口打开邮件">
 <!ENTITY folderContextOpenNewWindow.accesskey "W">
 <!ENTITY folderContextOpenNewTab.label "在新标签页中打开">

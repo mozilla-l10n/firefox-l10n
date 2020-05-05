@@ -21,6 +21,8 @@
 <!ENTITY showHideTooltips.label                 "显示工具提示">
 <!ENTITY showHideTooltips.accesskey             "T">
 
+<!ENTITY showHideGrippies.accesskey             "G">
+
 <!ENTITY pref.locales.title                     "用户界面语言">
 <!ENTITY selectLocale.label                     "为对话框，菜单，工具栏和按钮标签中出现的文字选择语言:">
 
