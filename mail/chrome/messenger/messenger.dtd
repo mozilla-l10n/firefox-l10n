@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Order Received">
 <!ENTITY attachmentColumn.label "Attachments">
 
+<!ENTITY deleteColumn.label "Delete">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Select columns to display">
 <!ENTITY selectColumn.tooltip "Toggle select all messages">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Sort by location">
 <!ENTITY idColumn2.tooltip "Sort by order received">
 <!ENTITY attachmentColumn2.tooltip "Sort by attachments">
+
+<!ENTITY deleteColumn.tooltip "Delete a message">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "New Message from Template">
