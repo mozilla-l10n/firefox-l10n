@@ -217,9 +217,12 @@ cfr-doorhanger-milestone-ok-button = Pokoż wszyskie
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Snadnie rychtuj bezpieczne hasła
+cfr-whatsnew-lockwise-body = Niy ma leko ôbmyślić unikatowe, bezpieczne hasło do kożdego kōnta. Przi rychtowaniu hasła kliknij na pole hasła, coby użyć bezpiecznego hasła wygenerowanego ôd { -brand-shorter-name(case: "gen") }.
+cfr-whatsnew-lockwise-icon-alt = Ikōna { -lockwise-brand-short-name(case: "gen") }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Dostowej powiadōmiynia ô niyherskich hasłach
 
 ## Picture-in-Picture fullscreen message
 
