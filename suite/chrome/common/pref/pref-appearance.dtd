@@ -21,6 +21,7 @@
 <!ENTITY showHideTooltips.label                 "显示工具提示">
 <!ENTITY showHideTooltips.accesskey             "T">
 
+<!ENTITY showHideGrippies.label                 "隐藏工具栏折叠条">
 <!ENTITY showHideGrippies.accesskey             "G">
 
 <!ENTITY pref.locales.title                     "用户界面语言">

@@ -23,6 +23,7 @@
 <!ENTITY prefFirefoxStrict.label             "标识为 Firefox">
 <!ENTITY prefFirefoxStrict.accesskey         "I">
 <!ENTITY prefFirefoxNone.label               "标识为 SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
 <!ENTITY prefFirefoxCompat2.label            "标识为 SeaMonkey 并与 Firefox 兼容">
 <!ENTITY prefFirefoxCompat2.accesskey        "F">
 <!ENTITY prefCompatWarning2.desc             "警告：更改此项设置可能导致网站或服务不能正常工作。">
