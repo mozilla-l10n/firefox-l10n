@@ -244,7 +244,7 @@ translate-attribution = Cyfieithiadau gan <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Eithriadau…
     .accesskey = i
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Defnyddiwch osodiadau eich system weithredu ar gyfer “{ $localeName }” i fformatio dyddiadau, amseroedd, rhifau a mesuriadau.
@@ -296,6 +296,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Defnyddio { $app-name } (rhagosodiad)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Defnyddiwch raglen ragosodedig macOS
+            [windows] Defnyddiwch raglen ragosodedig Windows
+           *[other] Defnyddiwch raglen ragosodedig y system
+        }
 applications-use-other =
     .label = Defnyddio arall…
 applications-select-helper = Dewis Rhaglen Gynorthwyol
@@ -321,6 +328,8 @@ applications-use-plugin-in =
     .label = Defnyddio { $plugin-name } (yn { -brand-short-name })
 applications-preview-inapp =
     .label = Rhagolwg yn { -brand-short-name }
+applications-open-inapp =
+    .label = Agorwch yn { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -334,12 +343,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
