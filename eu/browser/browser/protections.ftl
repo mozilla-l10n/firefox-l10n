@@ -54,6 +54,9 @@ cryptominer-tab-title = Kriptomeatzariak
 cryptominer-tab-content = Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 protections-close-button =
     .aria-label = Itxi
+protections-close-button2 =
+    .aria-label = Itxi
+    .title = Itxi
 mobile-app-title = Blokeatu publizitatearen jarraipen-elementuak gailu gehiagotan
 mobile-app-card-content = Erabili mugikorreko nabigatzailea publizitatearen jarraipen-elementuen babesarekin
 mobile-app-links = { -brand-product-name } nabigatzailea <a data-l10n-name="android-mobile-inline-link">Android</a> eta <a data-l10n-name="ios-mobile-inline-link">iOS</a> plataformetarako
@@ -63,7 +66,6 @@ lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatza
 lockwise-header-content-logged-in = Gorde eta sinkronizatu zure pasahitzak modu seguruan zure gailu guztietara.
 protection-report-view-logins-button = Ikusi saio-hasierak
     .title = Joan gordetako saio-hasieretara
-lockwise-no-logins-content = Eskuratu <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> aplikazioa zure pasahitzak edonora eramateko.
 lockwise-mobile-app-title = Eraman pasahitzak alboan
 lockwise-no-logins-card-content = Erabili { -brand-short-name }(e)n gordetako pasahitzak edozein gailutan.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>erako { -lockwise-brand-name }
