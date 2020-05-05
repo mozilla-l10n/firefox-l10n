@@ -52,6 +52,9 @@ cryptominer-tab-title = Криптомайнерлер
 cryptominer-tab-content = Криптомайнерлер жүйеңіздің есептеу қуатын цифрлық валютаны алу үшін қолданады. Криптомайнерлік скрипттер батареяны отырғызып, компьютерді тежейді және қуат шығындарын көбейтеді. <a data-l10n-name="learn-more-link">Көбірек білу</a>
 protections-close-button =
     .aria-label = Жабу
+protections-close-button2 =
+    .aria-label = Жабу
+    .title = Жабу
 mobile-app-title = Көбірек құрылғылар арасында жарнама трекерлерін бұғаттаңыз
 mobile-app-card-content = Құрамында жарнамалық трекерлерден қорғанысы бар мобильді браузерді қолданыңыз.
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> және <a data-l10n-name="ios-mobile-inline-link">iOS</a> үшін { -brand-product-name } браузері.
