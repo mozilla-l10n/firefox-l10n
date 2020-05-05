@@ -63,7 +63,6 @@ lockwise-header-content = { -lockwise-brand-name } lagrar dina lösenord på ett
 lockwise-header-content-logged-in = Lagra och synkronisera dina lösenord på ett säkert sätt mellan alla dina enheter.
 protection-report-view-logins-button = Visa inloggningar
     .title = Gå till sparade inloggningar
-lockwise-no-logins-content = Hämta appen <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> för att komma åt dina lösenord överallt.
 lockwise-mobile-app-title = Ta med dina lösenord överallt
 lockwise-no-logins-card-content = Använd lösenord som är sparade i { -brand-short-name } på vilken enhet som helst.
 lockwise-app-links = { -lockwise-brand-name } för <a data-l10n-name="lockwise-android-inline-link">Android</a> och <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
