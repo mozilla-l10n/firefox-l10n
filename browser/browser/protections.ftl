@@ -22,7 +22,6 @@ protection-report-view-logins-button = लॉगिन पहा
     .title = जतन लॉगिन वर जा
 turn-on-sync = { -sync-brand-short-name } चालू करा…
     .title = सिंक प्राधान्यतावर जा
-manage-devices = उपकरणे व्यवस्थापित करा
 monitor-title = माहिती उल्लंघनावर लक्ष ठेवा.
 monitor-link = हे कसे कार्य करते
 auto-scan = आज स्वयंचलितपणे स्कॅन केले
