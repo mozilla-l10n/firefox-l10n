@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Порядок отримання">
 <!ENTITY attachmentColumn.label "Вкладення">
 
+<!ENTITY deleteColumn.label "Видалити">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Вибрати стовпчики для показу">
 <!ENTITY selectColumn.tooltip "Увімкніть, щоб вибрати всі повідомлення">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Сортувати за розташуванням">
 <!ENTITY idColumn2.tooltip "Сортувати в порядку отримання">
 <!ENTITY attachmentColumn2.tooltip "Сортувати за вкладеннями">
+
+<!ENTITY deleteColumn.tooltip "Видалити повідомлення">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Створити повідомлення з шаблону">
