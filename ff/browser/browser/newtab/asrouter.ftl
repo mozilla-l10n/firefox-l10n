@@ -78,9 +78,17 @@ cfr-doorhanger-bookmark-fxa-link-text = Jokkondir maantore jooni…
 
 cfr-protections-panel-header = Wanngo tawo a rewindaaka
 cfr-protections-panel-body = Mooftan hoore maa keɓe maa. { -brand-short-name } ina reen maa e ko heewi e rewindotooɓe ɓurɓe wooweede rewooɓe e maa e ceŋogol.
+cfr-protections-panel-link-text = Ɓeydu humpito
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Fannuji kesi:
+cfr-whatsnew-button =
+    .label = Ko Hesɗi
+    .tooltiptext = Ko Hesɗi
+cfr-whatsnew-panel-header = Ko Hesɗi
 
 ## Search Bar
 
