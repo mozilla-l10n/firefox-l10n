@@ -98,7 +98,7 @@ options-disable-javascript-tooltip =
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = 브라우저 크롬 및 부가 기능 디버깅 도구상자 사용
 options-enable-chrome-tooltip =
-    .title = 이 옵션을 켜면 브라우저 컨텍스트에서 (도구 > 웹 개발 도구 > 브라우저 도구상자로 불러낸) 여러가지 개발자 도구를 사용하고 부가 기능 관리자에서 부가 기능을 디버깅 할 수 있습니다.
+    .title = 이 옵션을 켜면 브라우저 컨텍스트에서 (도구 > 웹 개발자 > 브라우저 도구상자로 불러낸) 여러가지 개발자 도구를 사용하고 부가 기능 관리자에서 부가 기능을 디버깅 할 수 있습니다.
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = 원격 디버깅 사용
 options-enable-remote-tooltip =
