@@ -129,9 +129,11 @@ cfr-whatsnew-permission-prompt-cta = Ɓeydu humpito
 
 ## Login Sync
 
+cfr-doorhanger-sync-logins-header = Hoto majjin finnde maa kadi abadaa.
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = Tar ɗum e yahdu
 
 ## Firefox Send
 
