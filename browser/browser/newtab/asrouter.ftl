@@ -119,10 +119,6 @@ cfr-whatsnew-lockwise-take-link-text = Uygulamayı indir
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Adres çubuğuna daha az yazın, daha çok bulun
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Adres çubuğuna tek bir tıklamayla en çok kullandığınız sitelere ulaşın. { $searchEngineName } sonuçları ve gezinti geçmişinizden gelen sonuçlar bir arada.
-cfr-whatsnew-searchbar-body-generic = Adres çubuğuna tek bir tıklamayla en çok kullandığınız sitelere ulaşın. Gezinti geçmişinizden gelen sonuçlarla aradığınız daha hızlı bulun.
 cfr-whatsnew-searchbar-body-topsites = Şimdi adres çubuğunu seçin. Sık kullandığınız bağlantıları gösteren bir kutu açılacak.
 cfr-whatsnew-searchbar-icon-alt-text = Büyüteç simgesi
 
@@ -216,11 +212,13 @@ cfr-doorhanger-milestone-ok-button = Tümünü göster
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Kolayca güvenli parolalar oluşturun
+cfr-whatsnew-lockwise-body = Her hesap için benzersiz ve güvenli parolalar düşünmek zordur. Parola alanını seçerek { -brand-shorter-name } ile güvenli parolalar oluşturabilirsiniz.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } simgesi
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Güvensiz parolalar hakkında uyarılar alın
+cfr-whatsnew-passwords-body = Hacker’lar insanların aynı parolaları farklı yerlerde kullandığını biliyor. Aynı parolayı birden çok sitede kullandıysanız ve bu sitelerden birinin verileri ele geçirildiyse { -lockwise-brand-short-name } ilgili sitelerdeki parolalarınızı değiştirmeniz için sizi uyaracak.
 cfr-whatsnew-passwords-icon-alt = Güvensiz parola anahtar simgesi
 
 ## Picture-in-Picture fullscreen message

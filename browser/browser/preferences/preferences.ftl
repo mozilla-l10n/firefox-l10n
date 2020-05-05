@@ -232,6 +232,10 @@ translate-attribution = Çeviriler: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = İstisnalar…
     .accesskey = s
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Tarihleri, saatleri, sayıları ve ölçüleri biçimlendirmek için “{ $localeName }” işletim sistemi ayarlarımı kullan
 check-user-spelling =
     .label = Yazarken yazım denetimi yap
     .accesskey = t
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } kullanılsın (varsayılan)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Varsayılan macOS uygulamasını kullan
+            [windows] Varsayılan Windows uygulamasını kullan
+           *[other] Varsayılan sistem uygulamasını kullan
+        }
 applications-use-other =
     .label = Başkasını kullan…
 applications-select-helper = Yardımcı uygulamayı seçin

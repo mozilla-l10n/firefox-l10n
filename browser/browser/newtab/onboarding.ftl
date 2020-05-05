@@ -147,6 +147,8 @@ onboarding-facebook-container-button = Eklentiyi yükle
 onboarding-import-browser-settings-title = Yer imlerinizi, parolalarınızı ve daha fazlasını içe aktarın
 onboarding-import-browser-settings-text = Hemen başlayın: Chrome'daki sitelerinizi ve ayarlarınızı taşıyın.
 onboarding-import-browser-settings-button = Chrome verilerini içe aktar
+onboarding-personal-data-promise-title = Özünde gizlilik var
+onboarding-personal-data-promise-text = { -brand-product-name } daha az veri toplayarak, verilerinizi koruyarak ve onları nasıl kullandığımızı açıkça belirterek verilerinize saygı gösteriyor.
 onboarding-personal-data-promise-button = Sözümüzü okuyun
 
 ## Message strings belonging to the Return to AMO flow
