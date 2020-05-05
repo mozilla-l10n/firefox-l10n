@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = SSL Taqonel Taqöy Ruwujil B'i'aj
 certificate-viewer-cipher-suite = Molaj taq man Etaman ta:
 certificate-viewer-common-name = Relik Rub'i'
 certificate-viewer-email-address = Rochochib'al Taqoya'l
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Ruwujil { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Amaq'
 certificate-viewer-country = Amaq'
@@ -29,6 +32,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = Rujalwachinik Ruxe'el Tzij Molaj:
 certificate-viewer-key-id = ID ewan tzij
 certificate-viewer-key-size = Runimilem Ewan
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Inc. K'ojlib'äl
 certificate-viewer-locality = Tinamital
 certificate-viewer-location = K'ojlib'äl
 certificate-viewer-logid = Tz'ib'anïk ID
@@ -95,6 +100,9 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (cadena)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Re k'amal re' xya' retal achi'el chi k'ayew rik'in, ri nuq'ajuj chi ri ruwinaq k'o chi nikixutuj ri wujil we man niq'ax ta pa kiwi'.
 certificate-viewer-export = Tik'wäx el
     .download = { $fileName }.pem
 
