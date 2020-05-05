@@ -54,7 +54,6 @@ lockwise-header-content = { -lockwise-brand-name } নিরাপদভাব�
 lockwise-header-content-logged-in = নিরাপদভাবে আপনার সকল ডিভাইসে আপনার পাসওয়ার্ড সংরক্ষণ করুন এবং সিঙ্ক করুন।
 protection-report-view-logins-button = লগইন সমূহ দেখুন
     .title = সংরক্ষিত লগইন এ যান
-lockwise-no-logins-content = আপনার পাসওয়ার্ডগুলি যে কোনও স্থানে নেওয়ার জন্য <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> অ্যাপ্লিকেশন ডাউনলোড করুন।
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -65,15 +64,6 @@ lockwise-passwords-stored =
     }
 turn-on-sync = { -sync-brand-short-name } চালু করুন...
     .title = সিঙ্ক পছন্দগুলোতে যান
-manage-devices = ডিভাইস ব্যবস্থাপনা
-# Variables:
-#   $count (Number) - Number of devices connected with sync.
-lockwise-sync-status =
-    { $count ->
-        [one] { $count } অন্য ডিভাইসে সিঙ্ক হচ্ছে
-       *[other] { $count } অন্য ডিভাইসগুলোতে সিঙ্ক হচ্ছে
-    }
-lockwise-sync-not-syncing-devices = অন্যান্য ডিভাইসে সিঙ্ক হচ্ছে না
 manage-connected-devices = ডিভাইস ব্যবস্থাপনা…
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
