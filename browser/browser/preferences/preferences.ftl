@@ -238,7 +238,7 @@ translate-attribution = Přełožki wot <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wuwzaća…
     .accesskey = u
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Nastajenja wašeho dźěłoweho systema za „{ $localeName }“ wužiwać, zo bychu so datumy, časy, ličby a měry formatowali.
@@ -290,6 +290,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } wužiwać (standard)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Standardne nałoženje macOS wužiwać
+            [windows] Standardne nałoženje Windows wužiwać
+           *[other] Standardne nałoženje systema wužiwać
+        }
 applications-use-other =
     .label = Druhu wužiwać…
 applications-select-helper = Pomocne nałoženje wubrać
@@ -315,6 +322,8 @@ applications-use-plugin-in =
     .label = { $plugin-name } wužiwać (w { -brand-short-name })
 applications-preview-inapp =
     .label = Přehlad w { -brand-short-name }
+applications-open-inapp =
+    .label = W { -brand-short-name } wočinić
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -328,12 +337,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
