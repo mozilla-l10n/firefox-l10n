@@ -54,6 +54,9 @@ cryptominer-tab-title = კრიპტოვალუტის გამომ�
 cryptominer-tab-content = კრიპტოვალუტის გამომმუშავებლები სარგებლობს თქვენი სისტემის გამოთვლის სიმძლავრით ციფრული ფულის მოსაპოვებლად. ამგვარი კოდები ასუსტებს ბატარეას, ანელებს კომპიუტერს და ზრდის დენის დანახარჯს. <a data-l10n-name="learn-more-link">ვრცლად</a>
 protections-close-button =
     .aria-label = დახურვა
+protections-close-button2 =
+    .aria-label = დახურვა
+    .title = დახურვა
 mobile-app-title = შეზღუდეთ სარეკლამო მეთვალყურეები მეტ მოწყობილობაზე
 mobile-app-card-content = გამოიყენეთ მობილური ბრაუზერი ჩაშენებული დაცვით, სარეკლამო მეთვალყურეებისგან.
 mobile-app-links = { -brand-product-name } ბრაუზერი <a data-l10n-name="android-mobile-inline-link">Android-სა</a> და <a data-l10n-name="ios-mobile-inline-link">iOS-ზე</a>
@@ -63,7 +66,6 @@ lockwise-header-content = { -lockwise-brand-name } უსაფრთხოდ �
 lockwise-header-content-logged-in = პაროლების უსაფრთხო შენახვა და გაზიარება ყველა თქვენს მოწყობილობაზე.
 protection-report-view-logins-button = ანგარიშების ნახვა
     .title = ანგარიშის შენახულ მონაცემებზე გადასვლა
-lockwise-no-logins-content = გადმოწერეთ აპლიკაცია <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> პაროლების თან წასაღებად.
 lockwise-mobile-app-title = თან წაიყოლეთ პაროლები ყველგან
 lockwise-no-logins-card-content = თქვენს პაროლებს შეინახავს { -brand-short-name } ნებისმიერ მოწყობილობაზე.
 lockwise-app-links = { -lockwise-brand-name }<a data-l10n-name="lockwise-android-inline-link">Android-სა</a> და <a data-l10n-name="lockwise-ios-inline-link">iOS-ზე</a>
