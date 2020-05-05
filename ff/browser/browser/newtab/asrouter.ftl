@@ -137,9 +137,18 @@ cfr-doorhanger-send-tab-header = Tar ɗum e yahdu
 
 ## Firefox Send
 
+cfr-doorhanger-firefox-send-header = Lollin oo PDF e kisal
+cfr-doorhanger-firefox-send-ok-button = Eto { -send-brand-name }
+    .accesskey = E
 
 ## Social Tracking Protection
 
+cfr-doorhanger-socialtracking-ok-button = Yiy ndeenkaaji ɗii
+    .accesskey = N
+cfr-doorhanger-socialtracking-close-button = Uddu
+    .accesskey = U
+cfr-doorhanger-socialtracking-dont-show-again = Hoto hollam ɓatakuuji mbaaɗi nii goɗngol
+    .accesskey = H
 
 ## Enhanced Tracking Protection Milestones
 
