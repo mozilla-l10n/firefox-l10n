@@ -58,6 +58,9 @@ cryptominer-tab-title = Kryptokopaki
 cryptominer-tab-content = Kryptokopaki liceńske wugbaśe wašogo systema wužywaju, aby digitalne pjenjeze dobyli. Kryptokopańske skripty wašu bateriju proznje, wašo licadło spómałšuju a mógu wašu pśetrjebu energije pówušyś. <a data-l10n-name="learn-more-link">Dalšne informacije</a>
 protections-close-button =
     .aria-label = Zacyniś
+protections-close-button2 =
+    .aria-label = Zacyniś
+    .title = Zacyniś
 mobile-app-title = Wabjeńske pśeslědowaki pśez dalšne rěy blokěrowaś
 mobile-app-card-content = Mobilny wobglědowak ze zatwarjonym šćitom pśeśiwo wabjeńskemu slědowanjeju wužywaś
 mobile-app-links = Wobglědowak { -brand-product-name } za <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -67,7 +70,6 @@ lockwise-header-content = { -lockwise-brand-name } waše gronidła we wašom wob
 lockwise-header-content-logged-in = Składujśo a synchronizěrujśo gronidła za wšykne waše rědy.
 protection-report-view-logins-button = Pśizjawjenja pokazaś
     .title = K skłaźonym pśizjawjenjam
-lockwise-no-logins-content = Wobstarajśo se nałoženje <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }, aby swóje gronidła wšuźi sobu wzeł.
 lockwise-mobile-app-title = Wzejśo swóje gronidła wšuźi sobu
 lockwise-no-logins-card-content = Wužywajśo gronidła, kótarež sćo składł w { -brand-short-name }, na kuždem rěźe.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link"></a>
