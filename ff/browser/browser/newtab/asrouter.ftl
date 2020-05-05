@@ -63,9 +63,16 @@ cfr-doorhanger-pintab-description = Yetto no weeɓiri e lowe maa ɓurɗe huutore
 
 ## These messages are steps on how to use the feature and are shown together.
 
+cfr-doorhanger-pintab-step1 = <b>Dobo-ñaamo</b>e tabbere njiɗɗaa ñippude ndee.
+cfr-doorhanger-pintab-step2 = Suɓo <b>ñippu tabbere</b>nder dosol ngol.
+cfr-doorhanger-pintab-step3 = SO lowre ndee dañii hesɗitinere maa yiy toɓɓel bulawel e tabbere maa ñippaande ndee.
+cfr-doorhanger-pintab-animation-pause = Sabbo
+cfr-doorhanger-pintab-animation-resume = Fuɗɗito
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = Jokkondir maantore maa kala nokku.
+cfr-doorhanger-bookmark-fxa-link-text = Jokkondir maantore jooni…
 
 ## Protections panel
 
