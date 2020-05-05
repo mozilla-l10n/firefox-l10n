@@ -54,6 +54,9 @@ cryptominer-tab-title = Criptomineradores
 cryptominer-tab-content = Criptomineradores usam o poder computacional do seu sistema para minerar moedas digitais. Scripts de criptomineração drenam sua bateria, fazem seu computador ficar mais lento e podem aumentar sua conta de energia elétrica. <a data-l10n-name="learn-more-link">Saiba mais</a>
 protections-close-button =
     .aria-label = Fechar
+protections-close-button2 =
+    .aria-label = Fechar
+    .title = Fechar
 mobile-app-title = Bloqueie rastreadores de anúncios em mais dispositivos
 mobile-app-card-content = Use o navegador móvel com proteção integrada contra rastreamento de anúncios.
 mobile-app-links = Navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -63,7 +66,6 @@ lockwise-header-content = O { -lockwise-brand-name } armazena com segurança sua
 lockwise-header-content-logged-in = Armazene e sincronize suas senhas com segurança em todos os seus dispositivos.
 protection-report-view-logins-button = Ver contas de acesso
     .title = Ir para contas salvas
-lockwise-no-logins-content = Instale o aplicativo <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> para ter suas senhas em qualquer lugar.
 lockwise-mobile-app-title = Tenha suas senhas em qualquer lugar
 lockwise-no-logins-card-content = Use as senhas salvas em { -brand-short-name } em qualquer dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
