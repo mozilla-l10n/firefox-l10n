@@ -56,6 +56,9 @@ cryptominer-tab-title = Kriptovaliutų kasėjai
 cryptominer-tab-content = Kriptovaliutų kasėjai naudoja jūsų kompiuterio resursus, kad iškastų skaitmeninių pinigų. Šis procesas eikvoja jūsų bateriją, lėtina kompiuterio veikimą, ir gali padidinti sąskaitą už elektrą. <a data-l10n-name="learn-more-link">Sužinoti daugiau</a>
 protections-close-button =
     .aria-label = Užverti
+protections-close-button2 =
+    .aria-label = Užverti
+    .title = Užverti
 mobile-app-title = Blokuokite reklaminius elementus ir kituose įrenginiuose
 mobile-app-card-content = Naudokite mobiliąją naršyklę su integruota apsauga nuo reklaminių stebėjimo elementų.
 mobile-app-links = „{ -brand-product-name }“ naršyklė, skirta <a data-l10n-name="android-mobile-inline-link">„Android“</a> ir <a data-l10n-name="ios-mobile-inline-link">„iOS“</a>
