@@ -112,6 +112,12 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Ôd { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Pokoż raport
+cfr-whatsnew-lockwise-backup-title = Rōb ibryczne kopije haseł
+cfr-whatsnew-lockwise-backup-body = Rychtuj bezpieczne hasła dostympne wszyńdzie, kaj sie wlogujesz.
+cfr-whatsnew-lockwise-backup-link-text = Załōncz kopiowanie na ibrich
+cfr-whatsnew-lockwise-take-title = Miyj swoje hasła przi siebie
+cfr-whatsnew-lockwise-take-body = Mobilno aplikacyjo { -lockwise-brand-short-name } dowo ci wszyńdzie bezpieczny dostymp do twojich haseł spamiyntanych w ibrycznych kopijach.
+cfr-whatsnew-lockwise-take-link-text = Pobier aplikacyjo
 
 ## Search Bar
 
