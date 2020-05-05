@@ -54,6 +54,9 @@ cryptominer-tab-title = Mga cryptominer
 cryptominer-tab-content = Ginagamit ng mga cryptominer ang computing power ng sistema mo para kumita ng digital na pera. Ang mga cryptomining script ay nakakaubos ng baterya mo, nagpapabagal sa computer, at pwedeng dumagdag sa bayarin mo sa kuryente. <a data-l10n-name="learn-more-link">Alamin</a>
 protections-close-button =
     .aria-label = Isara
+protections-close-button2 =
+    .aria-label = Isara
+    .title = Isara
 lockwise-title = Huwag nang muling makalimot ng password
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = Ligtas na iniimbak ng { -lockwise-brand-name } ang mga password mo sa iyong browser.
