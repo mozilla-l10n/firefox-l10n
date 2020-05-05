@@ -121,12 +121,19 @@ cfr-whatsnew-lockwise-take-link-text = Pobier aplikacyjo
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = Mynij pisz, wiyncyj znojduj - skuli poska z adresōm
+cfr-whatsnew-searchbar-body-topsites = Kliknij ino na posek z adresōm, coby ôboczyć linki do strōn, co je porzōnd ôdwiydzosz.
+cfr-whatsnew-searchbar-icon-alt-text = Ikōna lupy
 
 ## Picture-in-Picture
 
+cfr-whatsnew-pip-header = Zaglōndej na filmy przi przeglōndaniu neca
+cfr-whatsnew-pip-body = Funkcyjo ôbroz we ôbrazie pokazuje film we ruchōmym ôkiynku, skuli czego idzie ôglōndać film przi robocie na inkszych kartach.
+cfr-whatsnew-pip-cta = Przewiydz sie wiyncyj
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = Mynij wyskakujōncych ôkiyn
 
 ## Fingerprinter Counter
 
