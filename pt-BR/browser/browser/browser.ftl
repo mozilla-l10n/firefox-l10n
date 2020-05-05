@@ -225,4 +225,4 @@ popup-all-windows-shared = Todas as janelas visíveis na sua tela serão compart
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Para usar o atalho F12, primeiro abra as ferramentas de desenvolvimento através do menu Web Developer.
+enable-devtools-popup-description = Para usar o atalho F12, primeiro abra as ferramentas de desenvolvimento através do menu Desenvolvimento web.

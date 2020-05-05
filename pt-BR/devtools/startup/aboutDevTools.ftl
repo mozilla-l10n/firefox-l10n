@@ -51,4 +51,4 @@ newsletter-error-unknown = Ocorreu um erro não previsto.
 newsletter-error-timeout = Expirou o tempo de solicitação de inscrição.
 # Variables:
 #   $shortcut (String) - The keyboard shortcut used for the tool
-welcome-message = Você ativou com sucesso as ferramentas de desenvolvimento! Para começar, explore o menu do Web Developer ou abra as ferramentas com { $shortcut }.
+welcome-message = Você ativou com sucesso as ferramentas de desenvolvimento! Para começar, explore o menu Desenvolvimento web, ou abra as ferramentas com { $shortcut }.
