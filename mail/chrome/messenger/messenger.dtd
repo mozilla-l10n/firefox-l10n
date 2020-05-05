@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "收件順序">
 <!ENTITY attachmentColumn.label "附件">
 
+<!ENTITY deleteColumn.label "刪除">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "選擇要顯示的欄位">
 <!ENTITY selectColumn.tooltip "切換選擇所有訊息">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "依照位置">
 <!ENTITY idColumn2.tooltip "依照接收順序排序">
 <!ENTITY attachmentColumn2.tooltip "依照附件排序">
+
+<!ENTITY deleteColumn.tooltip "刪除訊息">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "使用範本撰寫新訊息">
