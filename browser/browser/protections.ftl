@@ -65,7 +65,6 @@ lockwise-header-content = { -lockwise-brand-name } надёжно хранит �
 lockwise-header-content-logged-in = Надёжно храните и синхронизируйте свои пароли со всеми вашими устройствами.
 protection-report-view-logins-button = Просмотр логинов
     .title = Перейти к сохранённым логинам
-lockwise-no-logins-content = Загрузите приложение <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>, чтобы держать свои пароли всегда с собой.
 lockwise-mobile-app-title = Возьмите свои пароли с собой
 lockwise-no-logins-card-content = Используйте пароли, сохранённые в { -brand-short-name }, на любом устройстве.
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
