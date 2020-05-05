@@ -20,3 +20,6 @@
 <!ENTITY prefLightningShow.label             "Visa Lightning-installationen">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "VARNING: att stänga av dessa inställningar kan leda till att webbplatser eller tjänster inte fungerar korrekt.">
+<!ENTITY prefFirefoxStrict.label             "Identifiera som Firefox">
+<!ENTITY prefFirefoxNone.label               "Identifiera som SeaMonkey">
+<!ENTITY prefFirefoxCompat2.label            "Identifiera som SeaMonkey och annonsera Firefox kompatibilitet">
