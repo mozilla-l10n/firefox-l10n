@@ -134,9 +134,23 @@ cfr-whatsnew-pip-cta = Przewiydz sie wiyncyj
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Mynij wyskakujōncych ôkiyn
+cfr-whatsnew-permission-prompt-body = Teroz { -brand-shorter-name } niy dowo strōnōm posyłać ci wyskakujōncych powiadōmiyń.
+cfr-whatsnew-permission-prompt-cta = Przewiydz sie wiyncyj
 
 ## Fingerprinter Counter
 
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $fingerprinterCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-fingerprinter-counter-header =
+    { $fingerprinterCount ->
+        [one] Zaszperowane chytanie ôdciska
+        [few] Zaszperowane chytanie ôdciska
+       *[many] Zaszperowane chytanie ôdciska
+    }
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } szperuje moc elymyntōw, co rychtujōm ôdciski przeglōndarki: po kryjōmu zbiyrajōm informacyje ô twojij maszinie i akcyjach, coby stworzić twōj reklamowy profil.
+# Message variation when fingerprinters count is less than 10
+cfr-whatsnew-fingerprinter-counter-header-alt = Szperowanie ôdciska ôd przeglōndarki
 
 ## Bookmark Sync
 
