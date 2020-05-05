@@ -61,7 +61,6 @@ lockwise-header-content = { -lockwise-brand-name } ਤੁਹਾਡੇ ਬਰਾ�
 lockwise-header-content-logged-in = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ‘ਚ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ ਅਤੇ ਸਿੰਕ ਕਰੋ।
 protection-report-view-logins-button = ਲਾਗਇਨ ਵੇਖੋ
     .title = ਸੰਭਾਲੇ ਲਾਗਇਨਾਂ ਉੱਤੇ ਜਾਓ
-lockwise-no-logins-content = ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਹਰ ਲਾਂ ਲੈ ਕੇ ਜਾਣ ਲਈ <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> ਐਪ ਲਵੋ।
 lockwise-mobile-app-title = ਆਪਣੇ ਪਾਸਵਰਡ ਹਰ ਥਾਂ ਲੈ ਜਾਓ
 lockwise-no-logins-card-content = { -brand-short-name } ਵਿੱਚ ਸੰਭਾਲੇ ਪਾਸਵਰਡ ਕਿਸੇ ਵੀ ਡਿਵਾਈਸ ਉੱਤੇ ਵਰਤੋਂ।
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">ਐਂਡਰਾਈਂਡ</a> ਅਤੇ <a data-l10n-name="lockwise-ios-inline-link">iOS</a> ਲਈ { -lockwise-brand-name }
