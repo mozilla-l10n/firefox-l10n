@@ -31,6 +31,7 @@ app-basics-title = Uygulama temelleri
 app-basics-name = Adı
 app-basics-version = Sürüm
 app-basics-build-id = Yapı numarası
+app-basics-distribution-id = Dağıtım kimliği
 app-basics-update-channel = Güncelleme kanalı
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
