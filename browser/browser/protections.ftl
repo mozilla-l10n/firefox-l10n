@@ -58,6 +58,9 @@ cryptominer-tab-title = Kryptokopanje
 cryptominer-tab-content = Kryptokopanje ličenski wukon wašeho systema wužiwa, zo by digitalne pjenjezy dobyło. Kryptokopanske skripty wašu bateriju prózdnja, waš ličak spomaleja a móža wašu přetrjebu energije powyšić. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 protections-close-button =
     .aria-label = Začinić
+protections-close-button2 =
+    .aria-label = Začinić
+    .title = Začinić
 mobile-app-title = Wabjenske přesćěhowaki přez dalše graty blokować
 mobile-app-card-content = Mobilny wobhladowak ze zatwarjenym škitom přećiwo wabjenskemu slědowanju wužiwać
 mobile-app-links = Wobhladowak { -brand-product-name } za <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -67,7 +70,6 @@ lockwise-header-content = { -lockwise-brand-name } waše hesła we wašim wobhla
 lockwise-header-content-logged-in = Składujće a synchronizujće hesła za wšě waše graty.
 protection-report-view-logins-button = Přizjewjenja pokazać
     .title = K składowanym přizjewjenjam
-lockwise-no-logins-content = Wobstarajće sej nałoženje <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }, zo byšće swoje hesła wšudźe sobu wzał.
 lockwise-mobile-app-title = Wzmiće swoje hesła wšudźe sobu
 lockwise-no-logins-card-content = Wužiwajće hesła, kotrež sće w { -brand-short-name } składował, na kóždym graće.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link"></a>
