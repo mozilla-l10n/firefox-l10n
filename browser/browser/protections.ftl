@@ -63,7 +63,6 @@ lockwise-header-content = { -lockwise-brand-name } slaat uw wachtwoorden veilig 
 lockwise-header-content-logged-in = Bewaar en synchroniseer uw wachtwoorden veilig op al uw apparaten.
 protection-report-view-logins-button = Aanmeldingen weergeven
     .title = Naar opgeslagen aanmeldingen
-lockwise-no-logins-content = Download de <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a>-app om uw wachtwoorden overal mee naartoe te nemen.
 lockwise-mobile-app-title = Neem uw wachtwoorden overal mee naartoe
 lockwise-no-logins-card-content = Gebruik in { -brand-short-name } opgeslagen wachtwoorden op elk apparaat.
 lockwise-app-links = { -lockwise-brand-name } voor <a data-l10n-name="lockwise-android-inline-link">Android</a> en <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
