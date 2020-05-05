@@ -20,3 +20,10 @@
 <!ENTITY prefLightningShow.label             "Anunciar instalación de Lightning">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "ADVERTENCIA: deshabilitar estas opciones puede hacer que sitios web o servicios no funcionen correctamente.">
+<!ENTITY prefFirefoxStrict.label             "Identificar como Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "I">
+<!ENTITY prefFirefoxNone.label               "Identificar como SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefFirefoxCompat2.label            "Identifcar como SeaMonkey y anunciar la compatibilidad de Firefox">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "ADVERTENCIA: deshabilitar estas opciones puede hacer que sitios web o servicios no funcionen correctamente.">
