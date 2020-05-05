@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "메시지 찾기…">
 <!ENTITY searchMailCmd.accesskey "M">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "전체 검색…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "주소록 찾기…">
 <!ENTITY searchAddressesCmd.accesskey "S">
 

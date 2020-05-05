@@ -14,6 +14,20 @@ address-input-type =
         [0] { $type } 입력 필드 비우기
        *[other] { $count }개 주소의 { $type } 입력 필드
     }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+       *[other] { $count } 개 주소의 { $type } 형식을 사용하려면 왼쪽 화살표 키를 사용하십시오.
+    }
+#   $email (String) - the email address
+#   $count (Number) - the number of address pills currently present in the addressing row
+pill-aria-label =
+    { $count ->
+        [one] { $email }: 수정하려면 엔터를, 지우려면 삭제를 누르세요.
+       *[other] { $email }, { $count } 개 중 1: 수정하려면 엔터를, 지우려면 삭제를 누르세요.
+    }
 pill-action-edit =
     .label = 주소 수정
     .accesskey = e
