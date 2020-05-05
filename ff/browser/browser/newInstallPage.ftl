@@ -10,3 +10,4 @@
 title = Kabaruuji teeŋtuɗi
 heading = Bayle e { -brand-short-name } heftinirde maa
 changed-title = Hol ko waylii?
+changed-desc-profiles = Ngol aafgol { -brand-short-name } ina jogii heftinirde hesere. Heftinirde ko denndaagal piile ɗo Firefox danndata kabaruuji baaɗi no maantore, pinle, e cuɓoraaɗe kuutoro.
