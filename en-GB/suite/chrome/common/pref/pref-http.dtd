@@ -20,3 +20,10 @@
 <!ENTITY prefLightningShow.label             "Advertise Lightning installation">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "WARNING: disabling these settings may result in web sites or services not working properly.">
+<!ENTITY prefFirefoxStrict.label             "Identify as Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "I">
+<!ENTITY prefFirefoxNone.label               "Identify as SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefFirefoxCompat2.label            "Identify as SeaMonkey and advertise Firefox compatibility">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "WARNING: changing this setting may result in web sites or services not working properly.">
