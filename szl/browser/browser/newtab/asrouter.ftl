@@ -83,9 +83,35 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = Przeglōndej tak, coby żodyn na ciebie niy filowoł
+cfr-protections-panel-body = Trzimej swoje dane ino do sia. { -brand-short-name } brōni cie ôd mocki śledzōncych elemyntōw, co filujōm na ciebie, jak żeś je w internecie.
+cfr-protections-panel-link-text = Przewiydz sie wiyncyj
 
 ## What's New toolbar button and panel
 
+# This string is used by screen readers to offer a text based alternative for
+# the notification icon
+cfr-badge-reader-label-newfeature = Nowo funkcyjo:
+cfr-whatsnew-button =
+    .label = Co je nowego
+    .tooltiptext = Co je nowego
+cfr-whatsnew-panel-header = Co je nowego
+cfr-whatsnew-release-notes-link-text = Poczytej informacyje ô wydaniu
+cfr-whatsnew-fx70-title = { -brand-short-name } teroz wiyncyj sie bije ô twoja prywatność
+cfr-whatsnew-fx70-body = Nojnowszo aktualizacyjo polepszo funkcyjo ôchrōny ôd śledzynio. Skuli nij rychtowanie bezpiecznych haseł do kożdyj strōny je snadniyjsze jak kej ino.
+cfr-whatsnew-tracking-protect-title = Ôbrōń sie ôd śledzōncych elymyntōw
+cfr-whatsnew-tracking-protect-body = { -brand-short-name } szperuje moc popularnych śledzōncych elymyntōw ze społecznościowych serwisōw, co filujōm na twoja aktywność w internecie.
+cfr-whatsnew-tracking-protect-link-text = Pokoż raport
+# This string is displayed before a large numeral that indicates the total
+# number of tracking elements blocked. Don’t add $blockedCount to your
+# localization, because it would result in the number showing twice.
+cfr-whatsnew-tracking-blocked-title =
+    { $blockedCount ->
+        [one] Zaszperowany śledzōncy elemynt
+        [few] Zaszperowane śledzōnce elemynty
+       *[many] Zaszperowanych śledzōncych elemyntōw
+    }
+cfr-whatsnew-tracking-blocked-subtitle = Ôd { DATETIME($earliestDate, month: "long", year: "numeric") }
+cfr-whatsnew-tracking-blocked-link-text = Pokoż raport
 
 ## Search Bar
 
