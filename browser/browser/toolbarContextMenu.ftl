@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 toolbar-context-menu-reload-selected-tab =
-    .label = Абнавіць вылучаную картку
+    .label = Абнавіць выбраную картку
     .accesskey = к
 toolbar-context-menu-reload-selected-tabs =
     .label = Абнавіць выбраныя карткі
