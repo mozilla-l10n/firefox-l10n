@@ -193,15 +193,30 @@ cfr-doorhanger-socialtracking-dont-show-again = Niy pokozuj mi już takich wiad�
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } niy doł śledzić ci sam społecznościowym serwisōm.
 cfr-doorhanger-socialtracking-description = Mōmy w zocy twoja prywatność. Teroz { -brand-short-name } szperuje popularne śledzōnce elymynty ôd społecznościowych serwisōw i ukrōco to, wiela danych śmiōm zbiyrać ô ciebie i twojich akcyjach w necu.
 cfr-doorhanger-fingerprinters-heading = { -brand-short-name } zaszperowoł rychtowanie ôdciska twojij przeglōndarki na tyj strōnie
+cfr-doorhanger-fingerprinters-description = Mōmy w zocy twoja prywatność. Teroz { -brand-short-name } szperuje rychtowanie ôdciska twojij przeglōndarki, kerego idzie użyć do zidentyfikowanio abo śledzynio cie.
+cfr-doorhanger-cryptominers-heading = { -brand-short-name } zaszperowoł kryptominera na tyj strōnie
+cfr-doorhanger-cryptominers-description = Mōmy w zocy twoja prywatność. Teroz { -brand-short-name } szperuje kryptominery, co używajōm siyły ôd twojigo kōmputra, coby fedrować cyfrowe piniōndze.
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōncy elymynt ôd { $date }!
+        [few] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōnce elymynty ôd { $date }!
+       *[many] { -brand-short-name } zaszperowoł wiyncyj jak <b>{ $blockedCount }</b>śledzōncych elymyntōw ôd { $date }!
+    }
+cfr-doorhanger-milestone-ok-button = Pokoż wszyskie
+    .accesskey = P
 
 ## What’s New Panel Content for Firefox 76
 
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Snadnie rychtuj bezpieczne hasła
 
 ## Vulnerable Passwords message
 
