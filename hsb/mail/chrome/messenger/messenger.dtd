@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Porjad přijeća">
 <!ENTITY attachmentColumn.label "Přiwěški">
 
+<!ENTITY deleteColumn.label "Zhašeć">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Wubjerće špałty, kotrež maja so zwobraznić">
 <!ENTITY selectColumn.tooltip "Wuběranje wšěch powěsćow přepinać">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Po adresy sortěrować">
 <!ENTITY idColumn2.tooltip "Po porjedźe přijimanja sortěrować">
 <!ENTITY attachmentColumn2.tooltip "Po přiwěškach sortěrować">
+
+<!ENTITY deleteColumn.tooltip "Powěsć zhašeć">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nowa powěsć z předłohi">
