@@ -52,6 +52,9 @@ cryptominer-tab-title = 加密貨幣採礦程式
 cryptominer-tab-content = 加密貨幣採礦程式會使用您電腦的運算能力來對數位貨幣「採礦」，消耗您的電腦電力、拖慢系統效能、增加電費支出。<a data-l10n-name="learn-more-link">了解更多</a>
 protections-close-button =
     .aria-label = 關閉
+protections-close-button2 =
+    .aria-label = 關閉
+    .title = 關閉
 mobile-app-title = 在更多裝置上也能封鎖廣告追蹤器
 mobile-app-card-content = 使用內建廣告追蹤保護的行動瀏覽器
 mobile-app-links = { -brand-product-name } 瀏覽器 <a data-l10n-name="android-mobile-inline-link">Android</a> 版與 <a data-l10n-name="ios-mobile-inline-link">iOS</a> 版
@@ -61,7 +64,6 @@ lockwise-header-content = { -lockwise-brand-name } 會安全地在您的瀏覽�
 lockwise-header-content-logged-in = 安全地儲存密碼，並同步到您的所有裝置中。
 protection-report-view-logins-button = 檢視登入資訊
     .title = 前往已存登入資訊
-lockwise-no-logins-content = 下載 <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> App，把密碼隨身帶著走。
 lockwise-mobile-app-title = 密碼隨身帶著走
 lockwise-no-logins-card-content = 在任何裝置上使用儲存到 { -brand-short-name } 的密碼。
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 與 <a data-l10n-name="lockwise-ios-inline-link">iOS</a> 版的 { -lockwise-brand-name }
