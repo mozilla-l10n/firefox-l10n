@@ -54,6 +54,9 @@ cryptominer-tab-title = Kryptominere
 cryptominer-tab-content = Kryptominere bruker systemets datakraft for å utvinne digitale penger. Kryptomineringsskript tapper batteriet, gjør datamaskinen tregere og kan øke strømregningen. <a data-l10n-name="learn-more-link">Les mer</a>
 protections-close-button =
     .aria-label = Lukk
+protections-close-button2 =
+    .aria-label = Lukk
+    .title = Lukk
 mobile-app-title = Blokker annonsesporere på flere enheter
 mobile-app-card-content = Bruk mobilnettleseren med innebygd beskyttelse mot annonsesporing.
 mobile-app-links = { -brand-product-name } Nettleser for <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
