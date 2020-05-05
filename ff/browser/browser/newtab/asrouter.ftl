@@ -164,6 +164,7 @@ cfr-whatsnew-lockwise-header = Sos pinle kisɗe no weeɓiri
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Heɓ jeertine baɗte pinle jaafɗe
 
 ## Picture-in-Picture fullscreen message
 
