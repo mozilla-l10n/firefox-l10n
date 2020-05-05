@@ -54,6 +54,9 @@ cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill. <a data-l10n-name="learn-more-link">Learn more</a>
 protections-close-button =
     .aria-label = Close
+protections-close-button2 =
+    .aria-label = Close
+    .title = Close
 mobile-app-title = Block ad trackers across more devices
 mobile-app-card-content = Use the mobile browser with built-in protection against ad tracking.
 mobile-app-links = { -brand-product-name } Browser for <a data-l10n-name="android-mobile-inline-link">Android</a> and <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -63,7 +66,6 @@ lockwise-header-content = { -lockwise-brand-name } securely stores your password
 lockwise-header-content-logged-in = Securely store and synchronise your passwords to all your devices.
 protection-report-view-logins-button = View Logins
     .title = Go to Saved Logins
-lockwise-no-logins-content = Get the <a data-l10n-name="lockwise-inline-link">{ -lockwise-brand-name }</a> app to take your passwords everywhere.
 lockwise-mobile-app-title = Take your passwords everywhere
 lockwise-no-logins-card-content = Use passwords saved in { -brand-short-name } on any device.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
