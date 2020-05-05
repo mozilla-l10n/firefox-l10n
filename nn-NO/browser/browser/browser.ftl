@@ -2,47 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (Privat nettlesing)
-       *[default] { -brand-full-name }
-    }
-
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (Privat nettlesing)
-       *[other] { $title } - { -brand-full-name } (Privat nettlesing)
-    }
 urlbar-identity-button =
     .aria-label = Vis sideinfo
 
@@ -106,9 +65,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tast mindre, finn meir: Søk med { $engineName } rett frå adresselinja.
 urlbar-search-tips-redirect-2 = Start søket ditt i adressefeltet for å sjå forslag frå { $engineName } og nettleserhistorikken din.
-
-##
-
 
 ##
 
@@ -266,3 +222,7 @@ popup-select-microphone =
     .value = Mikrofon som vert delt:
     .accesskey = M
 popup-all-windows-shared = Alle synlege vindauge på skjermen vil bli delte.
+
+## DevTools F12 popup
+
+enable-devtools-popup-description = For å bruke F12-snarvegen, må du først opne DevTools via menyen for Nettsideutvikling
