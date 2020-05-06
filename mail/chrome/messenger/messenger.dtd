@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "받은 순서">
 <!ENTITY attachmentColumn.label "첨부">
 
+<!ENTITY deleteColumn.label "삭제">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "표시할 항목 선택">
 <!ENTITY selectColumn.tooltip "모든 메시지 선택 토글">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "주소로 정렬">
 <!ENTITY idColumn2.tooltip "받은 순서로 정렬">
 <!ENTITY attachmentColumn2.tooltip "첨부 파일로 정렬">
+
+<!ENTITY deleteColumn.tooltip "메시지 지우기">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "서식 파일에서 새 메시지">
