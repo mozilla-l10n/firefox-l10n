@@ -18,3 +18,6 @@ editmenu-paste =
 editmenu-delete =
     .label = Xita
     .accesskey = D
+editmenu-select-all =
+    .label = Kaji kuaiyo
+    .accesskey = s

@@ -7,5 +7,7 @@ about-telemetry-option-group-today = Ki̱vɨ̱ vitá
 about-telemetry-previous-ping = <<
 about-telemetry-next-ping = >>
 about-telemetry-show-in-Firefox-json-viewer = Síne nuu JSON
+# used in the “Ping Type” select
+about-telemetry-telemetry-ping-type-all = kuaiyo
 # button label to copy the histogram
 about-telemetry-histogram-copy = Tɨɨn
