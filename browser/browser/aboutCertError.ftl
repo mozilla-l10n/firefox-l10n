@@ -41,6 +41,9 @@ cert-error-expired-now = Lowe geese ndallinirta keɓtinirɗe mum en ko e seedant
 # $not-before-local-time (Date) - Certificate is not valid before this time.
 cert-error-not-yet-valid-now = Lowe geese ndallinirta keɓtinirɗe mum en ko e seedamfaagu, moƴƴuɗi e tuma ganndaaɗo. Seedamfaagu ngam { $hostname } moƴƴoytaa haa { $not-before-local-time }.
 # Variables:
+# $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix-link = Kod juumre: <a data-l10n-name="error-code-link">{ $error }</a>
+# Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Lowe geese ndallinirta keɓtinirɗe mum en ko seedanteeje ɗe hoolaaɓe seedamafaagu ndokkata ɗum en. Ko ɓuri heewde e banngorɗe nattii hoolaade seedamfeeji ɗi GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign ndokkirta. { $hostname } ina huutoroo seedamfaagu ummiingu e ɓee hoolaaɓe ndeen noon innitol lowre ndee waawataa dallineede.
 cert-error-symantec-distrust-admin = Aɗa waawi humpit-de jiiloowo lowre ndee saɗeende ndee.
@@ -89,3 +92,4 @@ clockSkewError-title = Montoor ordinateer maa goongɗaani
 networkProtocolError-title = Juumre jaɓɓitorde geese
 nssBadCert-title = Jeertino: Soomi tanaa kisal yeeso
 nssBadCert-sts-title = Hoto seŋo: soomi saɗeende kisal
+certerror-mitm-title = Topirde ndee haɗii { -brand-short-name } ceŋaade e kisal e ndee lowre
