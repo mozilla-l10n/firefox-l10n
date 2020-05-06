@@ -20,7 +20,11 @@ cert-error-trust-symantec = Seedanteeji ɗi GeoTrust,RapidSSL, Symantec, Thawte,
 cert-error-untrusted-default = Seedamfaagu nguu ummaaki e iwdi koolaandi.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-domain-mismatch = Lowe geese ina ndallina keɓtinirɗe mum en e seedanteeji. { -brand-short-name } hoolaaki nde lowre sabu nde huutortoo ko seedamfaagu ngu moƴƴaani ngam { $hostname }.
+cert-error-domain-mismatch = Lowe geese ndallinirta keɓtinirɗe mum enko  e seedanteeji. { -brand-short-name } hoolaaki nde lowre sabu nde huutortoo ko seedamfaagu ngu moƴƴaani ngam { $hostname }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $alt-name (String) - Alternate domain name for which the cert is valid.
+cert-error-domain-mismatch-single = Lowe geese ndallinirta keɓtinirɗe mum en ko e seedanteeji. { -brand-short-name } hoolaaki ndee lowre sabu nde huutortoo ko seedamfaagu ngu moƴƴaani ngam { $hostname }. Seedamfaagu nguu moƴƴi tan ko e r <a data-l10n-name="domain-mismatch-link">{ $alt-name }</a>.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Lowe geese ndallinirta keɓtinirɗe mum en ko seedanteeje ɗe hoolaaɓe seedamafaagu ndokkata ɗum en. Ko ɓuri heewde e banngorɗe nattii hoolaade seedamfeeji ɗi GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign ndokkirta. { $hostname } ina huutoroo seedamfaagu ummiingu e ɓee hoolaaɓe ndeen noon innitol lowre ndee waawataa dallineede.
