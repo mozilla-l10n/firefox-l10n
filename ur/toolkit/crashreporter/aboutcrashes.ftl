@@ -2,10 +2,15 @@
 # License, v- 2-0- If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla-org/MPL/2-0/-
 
+
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
 crash-reports-title = تباہی رپورٹ کریں
-clear-all-reports-label = تمام رپورٹیں کو ہٹائیں
+submit-all-button-label = سب جمع کروائیں
+delete-button-label = تمام صاف کریں
 delete-confirm-title = کیا آپ پُریقین ہیں؟
-delete-confirm-description = یے تمام رپورٹیں کو حذف کز دے گی اور اسے کلعدم نہی کیا جا سکتا۔
 crashes-unsubmitted-label = غیر جمع شدہ تباہ رپورٹیں
 id-heading = رپورٹ شناخت
 date-crashed-heading = تاریخ تباہ ہوگئی
