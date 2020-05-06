@@ -232,7 +232,7 @@ translate-attribution = Traductions fournies par <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Exceptions…
     .accesskey = x
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Utiliser les paramètres de votre système d’exploitation en « { $localeName } » pour formater les dates, les heures, les nombres et les mesures.
@@ -284,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Utiliser { $app-name } (par défaut)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Utiliser l’application par défaut de macOS
+            [windows] Utiliser l’application par défaut de Windows
+           *[other] Utiliser l’application par défaut du système
+        }
 applications-use-other =
     .label = Autre…
 applications-select-helper = Choisir une application externe
@@ -309,6 +316,8 @@ applications-use-plugin-in =
     .label = Utiliser { $plugin-name } (dans { -brand-short-name })
 applications-preview-inapp =
     .label = Aperçu dans { -brand-short-name }
+applications-open-inapp =
+    .label = Ouvrir dans { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -322,12 +331,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
