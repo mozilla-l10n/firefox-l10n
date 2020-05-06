@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hent meldinger for konto">
 <!ENTITY folderContextGetMessages.accesskey "m">
+<!ENTITY folderContextMarkAllFoldersRead.label "Merk alle mapper som lest">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "Åpne i nytt e-postvindu">
 <!ENTITY folderContextOpenNewWindow.accesskey "Å">
 <!ENTITY folderContextOpenNewTab.label "Åpne i ny fane">
