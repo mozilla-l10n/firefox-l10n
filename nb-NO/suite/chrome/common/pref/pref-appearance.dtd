@@ -21,12 +21,11 @@
 <!ENTITY showHideTooltips.label                 "Vis verktøytips">
 <!ENTITY showHideTooltips.accesskey             "V">
 
+<!ENTITY showHideGrippies.label                 "Skjul foldelinjen for verktøylinjen">
+<!ENTITY showHideGrippies.accesskey             "f">
+
 <!ENTITY pref.locales.title                     "Programspråk">
 <!ENTITY selectLocale.label                     "Velg hvilket språk du ønsker skal brukes i dialogbokser, menyer, verktøylinjer og knappetekster:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Valg av språk vil ikke bli gjeldende før du starter &brandShortName; på nytt.">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties
