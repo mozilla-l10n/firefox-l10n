@@ -16,6 +16,7 @@ cert-error-trust-untrusted-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu b
 cert-error-trust-signature-algorithm-disabled = Seedamfaagu nguu hoolaaka sabu ngu siiforaa ko huutoraade algoritmol daaƴangol sabu nol hisaani.
 cert-error-trust-expired-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu bayyinɗo oo yawtii happo.
 cert-error-trust-self-signed = Seedamfaagu nguu hoolaaka sabu ko siifnde hoore mayre.
+cert-error-trust-symantec = Seedanteeji ɗi GeoTrust,RapidSSL, Symantec, Thawte, e VeriSign ndokkirta ɗii nattii jaggireede koolniiɗe sabu ɓee hoolaaɓe seedamfaagu ndonkii rewde e golle kisal e ko ɓenni.
 cert-error-untrusted-default = Seedamfaagu nguu ummaaki e iwdi koolaandi.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
