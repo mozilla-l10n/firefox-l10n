@@ -275,6 +275,8 @@ applications-use-plugin-in =
     .label = { $plugin-name } کو ({ -brand-short-name }) میں استعمال کریں
 applications-preview-inapp =
     .label = { -brand-short-name } میں پیش نظارہ  کریں
+applications-open-inapp =
+    .label = { -brand-short-name } میں  کھولیں
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -288,12 +290,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -622,6 +628,13 @@ sync-change-options =
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = سنک کرنے کا طریقہ منتخب کریں
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = تبدیلیاں  محفوظ  کریں
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = منقطع کریں…
+    .buttonaccesskeyextra2 = D
 sync-engine-bookmarks =
     .label = بک مارک
     .accesskey = m
@@ -635,6 +648,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = لاگانز
     .tooltiptext = صارف کا نام اور پاسورڈ حو آپ نے نحفوظ کیئے
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = لاگ ان اور پاس ورڈ
+    .tooltiptext = صارف کے نام اور پاسورڈ جو آپ  نے محفوظ کیے
     .accesskey = L
 sync-engine-creditcards =
     .label = کریڈٹ کارڈز
@@ -695,6 +712,10 @@ forms-generate-passwords =
     .label = تجویز کریں اور مضبوط پاس ورڈ تیار کریں
     .accesskey = u
 forms-breach-alerts-learn-more-link = مزید سیکھیں
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = خودبخود فل ہونے والے لاگ انز اور پاس ورڈز
+    .accesskey = i
 forms-saved-logins =
     .label = محفوظ شدہ لاگ ان…
     .accesskey = L

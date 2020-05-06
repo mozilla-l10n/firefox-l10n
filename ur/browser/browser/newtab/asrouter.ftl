@@ -199,9 +199,13 @@ cfr-doorhanger-milestone-ok-button = تمام دیکھیں
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = آسانی سے محفوظ پاس ورڈ بنائیں
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name }  آئیکن
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = کمزور پاس ورڈ کے بارے میں انتباہات حاصل کریں
+cfr-whatsnew-passwords-icon-alt = کمزور پاس ورڈ کی کلیدی آئکن
 
 ## Picture-in-Picture fullscreen message
 
