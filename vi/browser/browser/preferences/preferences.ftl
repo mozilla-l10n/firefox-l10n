@@ -220,7 +220,7 @@ translate-attribution = Dịch bởi <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ngoại lệ...
     .accesskey = N
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Sử dụng các cài đặt hệ điều hành của bạn cho nhóm “{ $localeName }” để định dạng ngày, giờ, số và số đo.
@@ -272,6 +272,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Dùng { $app-name } (mặc định)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Sử dụng ứng dụng mặc định macOS
+            [windows] Sử dụng ứng dụng mặc định Windows
+           *[other] Sử dụng ứng dụng mặc định hệ thống
+        }
 applications-use-other =
     .label = Dùng chương trình khác…
 applications-select-helper = Chọn ứng dụng trợ giúp
@@ -297,6 +304,8 @@ applications-use-plugin-in =
     .label = Dùng { $plugin-name } (trong { -brand-short-name })
 applications-preview-inapp =
     .label = Xem trước trong { -brand-short-name }
+applications-open-inapp =
+    .label = Mở bằng { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -310,12 +319,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
