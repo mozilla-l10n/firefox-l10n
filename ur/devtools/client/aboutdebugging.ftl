@@ -179,6 +179,10 @@ about-debugging-extension-uuid =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = موجودہ مقام
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = ایکسٹینشن ID
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Notes, this relates to the "Push" API, which is normally not localized so it is
