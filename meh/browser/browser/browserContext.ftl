@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Tee página ya´a nuu a ta´an ini noo´o
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = Tee página ya´a nuu a ta´an ini noo´o
     .accesskey = m
@@ -262,7 +259,7 @@ main-context-menu-keyword =
     .label = Tee iin tu´un clave nuu nánuku ya´a...
     .accesskey = p
 main-context-menu-link-send-to-device =
-    .label = Chu´un ichi enlace nuu ka̱a̱-nu
+    .label = Chu´un íchi enlace nuu ka̱a̱-nu
     .accesskey = d
 main-context-menu-frame =
     .label = Marco ya´a

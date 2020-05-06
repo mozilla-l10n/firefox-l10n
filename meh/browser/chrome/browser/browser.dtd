@@ -35,7 +35,7 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "D">
 <!ENTITY  sendPageToDevice.label             "Chu´un ichi página nuu ka̱a">
 <!ENTITY  sendPageToDevice.accesskey         "d">
-<!ENTITY  sendLinkToDevice.label             "Chu´un ichi enlace nuu ka̱a̱">
+<!ENTITY  sendLinkToDevice.label             "Chu´un íchi enlace nuu ka̱a̱">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
 <!ENTITY  undoCloseTab.label                 "Tanɨ nakasɨ nuu nɨ'ɨ pestaña">
 <!ENTITY  undoCloseTab.accesskey             "h">
@@ -329,6 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.label          "Xita">
 <!ENTITY deleteCmd.key            "D">
 <!ENTITY deleteCmd.accesskey        "l">
+<!ENTITY selectAllCmd.label         "Kaji kuaiyo">
 <!ENTITY selectAllCmd.key         "A">
 <!ENTITY selectAllCmd.accesskey       "t">
 <!ENTITY preferencesCmd2.label       "Kaji">

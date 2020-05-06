@@ -6,7 +6,7 @@ about-private-browsing-learn-more = Ka'vi kue'e jiee <a data-l10n-name="learn-mo
 about-private-browsing-info-visited = páginas nne´yánu
 privatebrowsingpage-open-private-window-label = Síne iin ventana yu´u
     .accesskey = y
-about-private-browsing-info-notsaved = Saa nanukunu nuu iin ventana yu´u, { -brand-short-name }<strong>Nchuva´a</strong>:
+about-private-browsing-info-notsaved = Sa nánukunu nuu iin ventana yu´u, { -brand-short-name }<strong>Nchuva´a</strong>:
 about-private-browsing-search-placeholder = Nánuku nuu Web
 about-private-browsing-info-bookmarks = A ta´a ini noo´o
 about-private-browsing-info-title = Síne iin ventana yu'u
