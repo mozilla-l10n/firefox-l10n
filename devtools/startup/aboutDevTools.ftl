@@ -4,6 +4,7 @@
 
 head-title = Baɗte kuutorɗe topayɓe
 enable-title = Hurmin Kuutorɗe topaɓe Firefox
+enable-key-shortcut-message = A hurminii sodorde kuutorɗe topayɓe. So ɗuum wonaa juumre, aɗa waawi uddude ndee tabbere.
 enable-learn-more-link = Ɓeydu humpito baɗte kuutorɗe topayɓe
 enable-enable-button = Hurmin kuutorɗe topayɓe
 enable-close-button = Uddu ndee Tabbere
@@ -17,6 +18,7 @@ newsletter-thanks-message = So a suwaa tawo teeŋtinde lulnagol e ɓataake habri
 footer-title = Taƴtorde topotooɗo Firefox
 footer-learn-more-link = Ɓeydu humpito
 features-learn-more = Ɓeydu humpito
+features-debugger-title = Momtirgel ella
 features-network-title = Laylaytol
 features-storage-title = Mooftirde
 features-visual-editing-title = Taƴtogol Jiytol
