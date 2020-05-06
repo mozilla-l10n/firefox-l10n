@@ -13,14 +13,17 @@
 <!ENTITY prefEnableHTTP11.label              "Utiliser HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "1">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "H">
-<!ENTITY prefEnablePipelining.label          "Activer le pipelining">
-<!ENTITY prefEnablePipelining.accesskey      "c">
-<!ENTITY prefEnablePipeliningProxy.accesskey "v">
 <!ENTITY prefPara                            "Les connexions HTTP peuvent être ajustées en utilisant ces options pour améliorer la performance ou la compatibilité. Certains proxies, par exemple, nécessitent HTTP/1.0 (voir les notes de version pour les détails).">
-<!ENTITY prefPipeWarning                     "Avertissement : le pipelining est une fonctionnalité expérimentale, conçue pour améliorer les performances du chargement des pages, qui n’est pas encore très bien supportée par certains serveurs web et proxies.">
 <!ENTITY prefUseragent.label                 "Chaîne d’agent utilisateur">
 <!ENTITY prefFirefoxCompat.label             "Mentionner la compatibilité avec Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
 <!ENTITY prefLightningShow.label             "Annoncer l’installation de Lightning">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "AVERTISSEMENT : désactiver ces paramètres peut empêcher certains services ou sites web de fonctionner correctement.">
+<!ENTITY prefFirefoxStrict.label             "S’identifier en tant que Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "i">
+<!ENTITY prefFirefoxNone.label               "S’identifier en tant que SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefFirefoxCompat2.label            "S’identifier en tant que SeaMonkey et mentionner sa compatibilité avec Firefox">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "AVERTISSEMENT : la modification de ce paramètre peut empêcher certains services ou sites web de fonctionner correctement.">

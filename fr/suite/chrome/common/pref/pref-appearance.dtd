@@ -21,12 +21,11 @@
 <!ENTITY showHideTooltips.label                 "Afficher les infobulles">
 <!ENTITY showHideTooltips.accesskey             "b">
 
+<!ENTITY showHideGrippies.label                 "Masquer les points d’ancrage des barres d’outils">
+<!ENTITY showHideGrippies.accesskey             "g">
+
 <!ENTITY pref.locales.title                     "Langue de l’interface utilisateur">
 <!ENTITY selectLocale.label                     "Sélectionner la langue pour le texte qui apparaît dans les boîtes de dialogue, les menus, les barres d’outils et les boutons :">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Les préférences de langue prendront effet lors du redémarrage de &brandShortName;.">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties
