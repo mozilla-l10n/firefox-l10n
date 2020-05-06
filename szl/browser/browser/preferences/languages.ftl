@@ -19,3 +19,23 @@ languages-customize-remove =
     .accesskey = W
 languages-customize-select-language =
     .placeholder = Ôbier godka do przidanio…
+languages-customize-add =
+    .label = Przidej
+    .accesskey = P
+# The pattern used to generate strings presented to the user in the
+# locale selection list.
+#
+# Example:
+#   Icelandic [is]
+#   Spanish (Chile) [es-CL]
+#
+# Variables:
+#   $locale (String) - A name of the locale (for example: "Icelandic", "Spanish (Chile)")
+#   $code (String) - Locale code of the locale (for example: "is", "es-CL")
+languages-code-format =
+    .label = { $locale } [{ $code }]
+languages-active-code-format =
+    .value = { languages-code-format.label }
+browser-languages-window =
+    .title = Nasztalowania godki aplikacyje { -brand-short-name }
+    .style = width: 40em
