@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Ordre de réception">
 <!ENTITY attachmentColumn.label "Pièces jointes">
 
+<!ENTITY deleteColumn.label "Supprimer">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Choisir les colonnes à afficher">
 <!ENTITY selectColumn.tooltip "Sélectionner/désélectionner tous les messages">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Trier par adresse">
 <!ENTITY idColumn2.tooltip "Trier par ordre de réception">
 <!ENTITY attachmentColumn2.tooltip "Trier par pièces jointes">
+
+<!ENTITY deleteColumn.tooltip "Supprimer un message">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nouveau message depuis un modèle">
