@@ -8,6 +8,9 @@ cert-error-intro = { $hostname } huutortoo ko seedamfaagu kisal ngu moƴƴaani..
 cert-error-mitm-intro = Lowe geese ndallinirta keɓtinirɗe mum en ko seedanteeje ɗe hoolaaɓe seedamafaagu ndokkata ɗum en.
 cert-error-mitm-mozilla = Ko fedde Mozilla, nde yiylaaki dañal, yiiloore faawru mbaawka seedanteeje (CA) udditiindu, wammbi { -brand-short-name }. Faawru CA ina wallita gaddaade mbele mbaawkaaji seedamfaaguuji ina ndewa golle moƴƴe ko faati e kisal huutorɓe.
 cert-error-trust-unknown-issuer-intro = Won baawɗo etaade wujjude heɓtinirde lowre ndee etee a fotaani jokkude.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+cert-error-trust-unknown-issuer = Lowe geese ndallinirta keɓtinirɗe mum en ko e seedanteeji. { -brand-short-name } hoolaaki { $hostname } sabu dokkoowo seedamfaagu makko oo anndaaka, seedamfaagu nguu ko siifngu hoore mum, walla sarworde ndee neldaani seedanteeji hakundeeji moƴƴi.
 cert-error-trust-cert-invalid = Seedamfaagu nguu hoolaaka sabu bayyino ngu ko kohowo seedamfaaje mo moƴƴaani.
 cert-error-trust-untrusted-issuer = Seedamfaagu nguu hoolaaka sabu seedamfaagu bayyinɗo oo hoolaaka.
 cert-error-trust-signature-algorithm-disabled = Seedamfaagu nguu hoolaaka sabu ngu siiforaa ko huutoraade algoritmol daaƴangol sabu nol hisaani.
