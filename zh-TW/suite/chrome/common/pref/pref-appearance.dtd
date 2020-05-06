@@ -21,6 +21,7 @@
 <!ENTITY showHideTooltips.label                 "顯示提示文字">
 <!ENTITY showHideTooltips.accesskey             "T">
 
+<!ENTITY showHideGrippies.label                 "隱藏工具列摺疊棒">
 <!ENTITY showHideGrippies.accesskey             "G">
 
 <!ENTITY pref.locales.title                     "使用者介面語言">
