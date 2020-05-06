@@ -34,6 +34,14 @@ cert-error-domain-mismatch-single-nolink = Lowe geese ndallinirta keɓtinirɗe m
 cert-error-domain-mismatch-multiple = Lowe geese ndallinirta keɓtinirɗe mum en ko e seedanteeji. { -brand-short-name } hoolaaki ndee lowre sabu nde huutortoo ko seedamfaagu ngu moƴƴaani ngam { $hostname }. Seedamfaagu nguu moƴƴi tan ko e ɗee inle: { $subject-alt-names }
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
+# $not-after-local-time (Date) - Certificate is not valid after this time.
+cert-error-expired-now = Lowe geese ndallinirta keɓtinirɗe mum en ko e seedanteeje, moƴƴuɗi e tuma ganndaaɗo. Seedamfaagu ngam { $hostname } nguu suytii e { $not-after-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
+# $not-before-local-time (Date) - Certificate is not valid before this time.
+cert-error-not-yet-valid-now = Lowe geese ndallinirta keɓtinirɗe mum en ko e seedamfaagu, moƴƴuɗi e tuma ganndaaɗo. Seedamfaagu ngam { $hostname } moƴƴoytaa haa { $not-before-local-time }.
+# Variables:
+# $hostname (String) - Hostname of the website with cert error.
 cert-error-symantec-distrust-description = Lowe geese ndallinirta keɓtinirɗe mum en ko seedanteeje ɗe hoolaaɓe seedamafaagu ndokkata ɗum en. Ko ɓuri heewde e banngorɗe nattii hoolaade seedamfeeji ɗi GeoTrust, RapidSSL, Symantec, Thawte, e VeriSign ndokkirta. { $hostname } ina huutoroo seedamfaagu ummiingu e ɓee hoolaaɓe ndeen noon innitol lowre ndee waawataa dallineede.
 cert-error-symantec-distrust-admin = Aɗa waawi humpit-de jiiloowo lowre ndee saɗeende ndee.
 # Variables:
