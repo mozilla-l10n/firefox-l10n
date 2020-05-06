@@ -20,6 +20,7 @@ footer-learn-more-link = Ɓeydu humpito
 features-learn-more = Ɓeydu humpito
 features-debugger-title = Momtirgel ella
 features-network-title = Laylaytol
+features-network-desc = Ɗow ɗaɓɓitanɗe laylaytol baawɗe leeltin walla daaƴde lowre maa.  <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Mooftirde
 features-visual-editing-title = Taƴtogol Jiytol
 features-performance-title = Jaawgol golle
