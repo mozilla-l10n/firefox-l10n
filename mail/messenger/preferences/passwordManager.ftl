@@ -78,3 +78,5 @@ password-os-auth-dialog-message = Потврдите свој идентитет
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = откриј сачуване лозинке
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }
