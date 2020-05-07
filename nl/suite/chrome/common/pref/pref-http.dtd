@@ -25,3 +25,4 @@
 <!ENTITY prefFirefoxNone.label               "Als SeaMonkey identificeren">
 <!ENTITY prefFirefoxNone.accesskey           "M">
 <!ENTITY prefFirefoxCompat2.accesskey        "c">
+<!ENTITY prefCompatWarning2.desc             "WAARSCHUWING: het wijzigen van deze instelling kan ertoe leiden dat websites of services niet goed werken.">
