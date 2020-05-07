@@ -25,9 +25,11 @@ protections-panel-etp-off-header = Ndeenka Dewindol Ƴellitaaka ko ko ñifaa nga
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
 
+protections-panel-not-blocking-why-label = Hol sabaabu?
 
 ##
 
+protections-panel-content-blocking-tracking-protection = Dewindagol Loowdi
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -35,13 +37,20 @@ protections-panel-etp-off-header = Ndeenka Dewindol Ƴellitaaka ko ko ñifaa nga
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Faddaama
+protections-panel-not-blocking-label = Yamiraama
 
 ##
 
+protections-panel-settings-label = Teelte Ndeenka
+protections-panel-showreport-label = Hollu jaŋtol
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Ñif ndeenkaaji so aɗa jogii caɗeele e:
+protections-panel-site-not-working-view-issue-list-comments = Jowe
 
 ##
 
