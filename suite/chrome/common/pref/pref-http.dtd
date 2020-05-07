@@ -20,3 +20,5 @@
 <!ENTITY prefLightningShow.label             "Lightning-installatie bekendmaken">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "WAARSCHUWING: het uitschakelen van deze instellingen kan ertoe leiden dat websites of services niet goed werken.">
+<!ENTITY prefFirefoxStrict.label             "Als Firefox identificeren">
+<!ENTITY prefFirefoxStrict.accesskey         "I">
