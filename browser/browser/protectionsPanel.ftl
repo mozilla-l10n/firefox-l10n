@@ -2,10 +2,15 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+protections-panel-sendreportview-error = Ina waɗnoo juumre neldugol jaŋtol ngol. Tiiɗno eto kadi yeeso.
+# A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
+protections-panel-sitefixedsendreport-label = Lowre ndee feewnaama? Neldu jaŋtol
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Ƴagguɗo
+    .label = Ƴagguɗo
 
 ##
 
