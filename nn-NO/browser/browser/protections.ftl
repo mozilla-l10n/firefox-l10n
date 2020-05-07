@@ -87,7 +87,7 @@ lockwise-connected-device-status =
         [one] Kopla til { $count } eining
        *[other] Kopla til { $count } einingar
     }
-monitor-title = Sjå opp for på datalekkasjer.
+monitor-title = Sjå opp for datalekkasjer.
 monitor-link = Korleis det verkar
 monitor-header-content-no-account = SJekk { -monitor-brand-name } for å sjå om du har vore ein del av ein datalekkasje, og få varsel om nye datalekkasjar.
 monitor-header-content-signed-in = { -monitor-brand-name } åtvarar deg om informasjonen din har dukka opp i ein kjend datalekkasje.
