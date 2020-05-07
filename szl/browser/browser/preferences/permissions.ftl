@@ -119,12 +119,26 @@ permissions-site-autoplay-desc = Możesz sam regiyrować, kere strōny majōm by
 permissions-site-notification-window =
     .title = Zgoda na powiadōmiynia - nasztalowania
     .style = { permissions-window.style }
+permissions-site-notification-desc = Te strōny poprosiyły ô zgoda na posyłanie ci powiadōmiyń. Możesz pedzieć, kerym strōnōm na to prziwolosz. Możesz tyż zaszperować nowe prośby ô ta zgoda.
+permissions-site-notification-disable-label =
+    .label = Szperuj nowe prośby ô zgoda na posyłanie powiadōmiyń
+permissions-site-notification-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na posyłanie pōwiadōmiyń. Przi zaszperowanych powiadōmiyniach niykere funkcyje strōn mogōm niy fungować dobrze.
 
 ## Site Permissions - Location
 
+permissions-site-location-window =
+    .title = Zgoda na informowanie ô placu - nasztalowania
+    .style = { permissions-window.style }
+permissions-site-location-desc = Te strōny poprosiyły ô zgoda na informowanie ich ô tym, kaj żeś je. Możesz pedzieć, kerym strōnōm na to prziwolosz. Możesz tyż zaszperować nowe prośby ô ta zgoda.
+permissions-site-location-disable-label =
+    .label = Szperuj nowe prośby ô zgoda na informowanie ô twojim placu
+permissions-site-location-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na informowanie ich ô tym, kaj żeś je. Przi zaszperowanym dostympie do informacyji ô twojim placu niykere funkcyje strōn mogōm niy fungować dobrze.
 
 ## Site Permissions - Virtual Reality
 
+permissions-site-xr-window =
+    .title = Zgoda Wirtualnyj Ryalności - nasztalowania
+    .style = { permissions-window.style }
 
 ## Site Permissions - Camera
 
