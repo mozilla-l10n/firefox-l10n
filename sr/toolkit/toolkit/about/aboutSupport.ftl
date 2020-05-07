@@ -324,6 +324,7 @@ touch-enabled = унос додира омогућен
 drag-enabled = превлачење клизача омогућено
 keyboard-enabled = тастатура омогућена
 autoscroll-enabled = аутоматско скроловање омогућено
+zooming-enabled = smooth pinch-zoom омогућен
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
