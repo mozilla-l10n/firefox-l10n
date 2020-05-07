@@ -20,7 +20,7 @@ styleeditor-media-rules = @media pravila
 styleeditor-editor-textbox =
     .data-placeholder = Upišite CSS ovdje.
 styleeditor-no-stylesheet = Ova stranica nema stilove.
-styleeditor-no-stylesheet-tip = Želite li možda <a data-l10n-name="append-new-stylesheet">dodati novi stil</a>?
+styleeditor-no-stylesheet-tip = Možda želiš <a data-l10n-name="append-new-stylesheet">dodati novi stil</a>?
 styleeditor-open-link-new-tab =
     .label = Ottvori poveznicu u novoj kartici
 styleeditor-copy-url =

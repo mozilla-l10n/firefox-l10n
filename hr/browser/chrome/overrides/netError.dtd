@@ -45,7 +45,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ovu stranicu nije moguće učitati.</p>">
 
 <!ENTITY captivePortal.title "Prijava na mrežu">
-<!ENTITY captivePortal.longDesc2 "<p>Morate se prijaviti na ovu mreži želite li koristiti internet.</p>">
+<!ENTITY captivePortal.longDesc2 "<p>Za upotrebu interneta, moraš se najprije prijaviti na ovu mreži.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Otvaranje stranice prijave na mrežu">
 
