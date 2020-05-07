@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = ไซต์ถูกซ่อม�
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = เข้มงวด
+    .label = เข้มงวด
+protections-popup-footer-protection-label-custom = กำหนดเอง
+    .label = กำหนดเอง
+protections-popup-footer-protection-label-standard = มาตรฐาน
+    .label = มาตรฐาน
 
 ##
 
