@@ -25,6 +25,19 @@ graph-week-summary-private-window = Rewindotooɓe { -brand-short-name } ndaaƴaa
 protection-report-page-title = Ndeenkaaji Suturo
 protection-report-content-title = Ndeenkaaji Suturo
 etp-card-title = Ndeenka Dewindol Ƴellitiika
+protection-report-manage-protections = Toppito Teelte
+# This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
+# capitalization for this string should match the output for your locale.
+graph-today = Hannde
+tracker-tab-title = Dewindagol Loowdi
+protections-close-button =
+    .aria-label = Uddu
+protections-close-button2 =
+    .aria-label = Uddu
+    .title = Uddu
+mobile-app-title = Daaƴ rewindotooɓe ɓaŋŋine e masiŋon keewkon
+lockwise-title = Hoto majjin finnde maa kadi abadaa
+lockwise-title-logged-in = { -lockwise-brand-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
