@@ -40,7 +40,7 @@ devmgr-button-disable-fips =
 
 load-device =
     .title = Učitaj PKCS#11 upravljački program uređaja
-load-device-info = Upišite informacije za modul kojeg želite dodati.
+load-device-info = Upiši podatke modula koji želiš dodati.
 load-device-modname =
     .value = Naziv modula
     .accesskey = M
