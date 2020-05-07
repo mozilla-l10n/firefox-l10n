@@ -208,6 +208,8 @@ browser-window-minimize-button =
     .tooltiptext = Txikitu
 browser-window-maximize-button =
     .tooltiptext = Maximizatu
+browser-window-restore-down-button =
+    .tooltiptext = Leheneratu txikira
 browser-window-close-button =
     .tooltiptext = Itxi
 
