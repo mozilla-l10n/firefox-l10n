@@ -8,7 +8,7 @@ restore-page-tab-title = जथुम्माखौ लाबोफिन
 restore-page-error-title = निमाहा हो. जों नोंथांनि पेजफोरखैा लाबोफिन नाया‌‍व जेंना मोनगासिनो ।
 restore-page-problem-desc = जो नोंथांनि सिगांनि ब़़जिं सेस'नखाै लाबोफिनायाव जेंना मोनगासिनो | ‍‍‌‌‌‌‌‌‌‌‌
 restore-page-try-this = नोंथांनि सेस'नखाै (Session) दासिमबो लाबोफिननो हायाखै ? माबालाबा मोनसे टेबयाबो (A TAB) जेंनाखाै आोंखारहोयो |
-restore-page-hide-tabs = आवगयनि टेबफोरखौ दोनखोमा
+restore-page-hide-tabs = आवग्यनि टेबफोरखौ दोनखोमा
 restore-page-show-tabs = आवगयनि टेबफोरखौ नाय
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
@@ -29,7 +29,7 @@ restore-page-close-button =
 
 ## The following strings are used in about:welcomeback
 
-welcome-back-tab-title = जाफुंसारनाय!
+welcome-back-tab-title = जाफुंसारबाय!
 welcome-back-page-title = जाफुंसारनाय!
 welcome-back-page-info = { -brand-short-name } आ थांनो थियारि
 welcome-back-restore-button =

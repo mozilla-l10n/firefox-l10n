@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = ल'गइनफोर नागिर
 create-login-button = गोदान ल'गइन खुलि
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } नि फेबआइकोन
 fxaccounts-sign-in-text = नोंनि पासवर्दखौ गुबुन डिभाइस आव लाबो
 fxaccounts-sign-in-button = { -sync-brand-short-name } आव साइन-इन खालाम
 fxaccounts-avatar-button =
@@ -29,8 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = मेनु बेखेव
-# This menuitem is only visible on Windows
-menu-menuitem-import = पासवर्डफोरखौ लाबो...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = गुबुन मोनसे ब्राउजार निफ्राय लाबो...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] उफ्रा
@@ -51,7 +46,8 @@ login-list-count =
     }
 login-list-sort-label-text = बासिदों
 login-list-name-option = मुं (A-Z)
-login-list-breached-option = वेवसाइथफोरनि गाजि् जानाय
+login-list-name-reverse-option = मुं (Z-A)
+about-logins-login-list-alerts-option = सांग्रां फोर
 login-list-last-changed-option = जोबथि सोलायनाय
 login-list-last-used-option = जोबथि बाहायनाय
 login-list-intro-title = लगइन फोर गैया
@@ -60,9 +56,6 @@ about-logins-login-list-empty-search-title = लगइन फोर गैया
 about-logins-login-list-empty-search-description = नोथाङा नागिरनाय बादि जेबो गैया
 login-list-item-title-new-login = गोदान लगइन
 login-list-item-subtitle-missing-username = (बाहायग्रा मुं गया)
-about-logins-list-item-warning-icon =
-    .alt = साबदान होनाय आइकन
-    .title = गाजि् जानाय वेवसाइथ
 about-logins-list-item-breach-icon =
     .title = गाजि् जानाय वेवसाइथ
 
@@ -75,7 +68,6 @@ about-logins-intro-instruction-help = मदद होगा्  <a data-l10n-na
 
 login-item-new-login-title = गोदान ल'गइन खुलि
 login-item-edit-button = सुजुनाय
-login-item-delete-button = खोमोर
 about-logins-login-item-remove-button = बोखार
 login-item-origin-label = वेबसाइट थं
 login-item-origin =
@@ -86,10 +78,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = कपि खालाम
 login-item-copied-username-button-text = कपि खालामबाय!
 login-item-password-label = पासवर्डखौ
-login-item-password-reveal-checkbox-show =
-    .title = पासवर्डखौ दिन्थि
-login-item-password-reveal-checkbox-hide =
-    .title = पासवोर्ड दोनखोमा
+login-item-password-reveal-checkbox =
+    .aria-label = पासवर्डखौ दिन्थि
 login-item-copy-password-button-text = कपि खालाम
 login-item-copied-password-button-text = कपि खालामबाय!
 login-item-save-changes-button = सोलायनायफोर थिना दोन
@@ -98,6 +88,15 @@ login-item-cancel-button = नेवसि
 login-item-time-changed = जोबथा सोलायनाय सम: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = सोरजिनाय सम: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = जोबथा बाहायनाय: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -108,7 +107,6 @@ master-password-reload-button =
 
 ## Password Sync notification
 
-confirm-delete-dialog-title = बे ल'गइनखौ बोखारनो?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = आंनाव आरोबाव दासोंसै
     .accesskey = द
@@ -120,7 +118,6 @@ confirmation-dialog-dismiss-button =
     .title = नेवसि
 about-logins-confirm-remove-dialog-title = बे ल'गइनखौ बोखारनो?
 confirm-delete-dialog-message = बे हाबाखौ मावनो हायै खालामनो हाया।
-confirm-delete-dialog-confirm-button = खोमोर
 about-logins-confirm-remove-dialog-confirm-button = बोखार
 confirm-discard-changes-dialog-title = थिनानै देनै सोलायनाफोरखौ बोखार
 confirm-discard-changes-dialog-message = गासिबो थिनानै दोनै सोलायनायफोरा गोमागोन
@@ -129,17 +126,14 @@ confirm-discard-changes-dialog-confirm-button = नागार
 ## Breach Alert notification
 
 breach-alert-text = नाोंनि लक इन दिथेनगजों लास्थ आवदेथ खालामनायाव बे साइथनिफा्य फासवादखौ खावबाय. नोंनि एखावनखौ रैखा खालामनो थाखाय फासवादखौ सोलाइ
-breach-alert-link = बे वेवसाइरथ गाजि्जानायफोरनि सोमोनदै गोबां सोलों
-breach-alert-dismiss =
-    .title = बे सांग्रांथिखौ बन्द खालाम
+about-logins-breach-alert-learn-more-link = गोबां सोलों
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-learn-more-link = गोबां सोलों
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = बे { $loginTitle } इउजार नेमजों सोगा्या दंखायो
 # This is an error message that appears when a user attempts to save
 # a new login that is identical to an existing saved login.
 # Variables:

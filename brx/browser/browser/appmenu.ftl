@@ -9,6 +9,13 @@ appmenuitem-protection-report-title = गुमुरथि रैखाथि
 appmenuitem-protection-report-tooltip =
     .tooltiptext = नोंथांनि गुमुरथिनि फोरमान बिलाइआव थां
 
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = गेदेरै जुम खालाम
+appmenuitem-zoom-reduce =
+    .label = फिसायै जुम खालाम
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
