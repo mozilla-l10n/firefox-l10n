@@ -11,9 +11,16 @@ protections-panel-sitefixedsendreport-label = Lowre ndee feewnaama? Neldu jaŋto
 
 protections-popup-footer-protection-label-strict = Ƴagguɗo
     .label = Ƴagguɗo
+protections-popup-footer-protection-label-standard = Gaadanteejo
+    .label = Gaadanteejo
 
 ##
 
+# The text a screen reader speaks when focused on the info button.
+protections-panel-etp-more-info =
+    .aria-label = Humpito heewngo baɗte Deenka Dewindol Ƴellitaaka
+protections-panel-etp-on-header = Ndeenka Dewindol Ƴellitaaka ko ko huɓɓaa ngam ndee lowre
+protections-panel-etp-off-header = Ndeenka Dewindol Ƴellitaaka ko ko ñifaa ngam ndee lowre
 
 ## The "Allowed" header also includes a "Why?" link that, when hovered, shows
 ## a tooltip explaining why these items were not blocked in the page.
