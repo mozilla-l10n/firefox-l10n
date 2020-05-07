@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Receber mensagens desta conta">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextMarkAllFoldersRead.label "Marcar todas as pastas como lidas">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "Abrir em nova janela">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
