@@ -26,3 +26,4 @@
 <!ENTITY prefFirefoxNone.accesskey           "M">
 <!ENTITY prefFirefoxCompat2.label            "Identificar como SeaMonkey e anunciar compatibilidade com o Firefox">
 <!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "AVISO: Alterar esta configuração pode resultar em sites ou serviços não funcionarem corretamente.">

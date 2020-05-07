@@ -9,7 +9,7 @@
 <!ENTITY preserveThreading.label          "Manter tópicos agrupados ao ordenar mensagens">
 <!ENTITY preserveThreading.accesskey      "p">
 <!ENTITY loadInBackground.label           "Mudar para novas abas quando forem abertas">
-<!ENTITY loadInBackground.accesskey       "u">
+<!ENTITY loadInBackground.accesskey       "M">
 <!ENTITY mailBiffOnNewWindow.label        "Somente obter novos e-mails após abrir email &amp; grupos de notícias">
 <!ENTITY mailBiffOnNewWindow.accesskey    "o">
 
