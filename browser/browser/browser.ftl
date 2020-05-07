@@ -223,3 +223,4 @@ popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatu
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Web garapena' menutik.
