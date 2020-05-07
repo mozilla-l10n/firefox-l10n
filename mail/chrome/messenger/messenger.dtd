@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Volgorde van ontvangst">
 <!ENTITY attachmentColumn.label "Bijlagen">
 
+<!ENTITY deleteColumn.label "Verwijderen">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Weer te geven kolommen selecteren">
 <!ENTITY selectColumn.tooltip "Alle berichten selecteren/deselecteren">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Sorteren op locatie">
 <!ENTITY idColumn2.tooltip "Sorteren op volgorde van ontvangst">
 <!ENTITY attachmentColumn2.tooltip "Sorteren op bijlagen">
+
+<!ENTITY deleteColumn.tooltip "Een bericht verwijderen">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nieuw bericht op basis van sjabloon">
