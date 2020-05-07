@@ -137,11 +137,29 @@ permissions-site-location-disable-desc = Skuli tego strōny, co ich niy ma na wy
 ## Site Permissions - Virtual Reality
 
 permissions-site-xr-window =
-    .title = Zgoda Wirtualnyj Ryalności - nasztalowania
+    .title = Zgoda na Wirtualno Ryalność - nasztalowania
     .style = { permissions-window.style }
+permissions-site-xr-desc = Te strōny poprosiyły ô zgoda na dostymp do twoich maszin z wirtualnōm ryalnościōm. Możesz pedzieć, kerym strōnōm na to prziwolosz. Możesz tyż zaszperować nowe prośby ô ta zgoda.
+permissions-site-xr-disable-label =
+    .label = Szperuj nowe prośby ô zgoda na dostymp do maszin z wirtualnōm ryalnościōm
+permissions-site-xr-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na dostymp do twojich maszin z wirtualnōm ryalnościōm. Przi zaszperowanym dostympie do tych maszin niykere funkcyje strōn mogōm niy fungować dobrze.
 
 ## Site Permissions - Camera
 
+permissions-site-camera-window =
+    .title = Zgoda na kamera - nasztalowania
+    .style = { permissions-window.style }
+permissions-site-camera-desc = Te strōny poprosiyły ô zgoda na dostymp do twojij kamery. Możesz pedzieć, kerym strōnōm na to prziwolosz. Możesz tyż zaszperować nowe prośby ô ta zgoda.
+permissions-site-camera-disable-label =
+    .label = Szperuj nowe prośby ô zgoda na dostymp do twojij kamery
+permissions-site-camera-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na dostymp do twojij kamery. Przi zaszperowanym dostympie do kamery niykere funkcyje strōn mogōm niy fungować dobrze.
 
 ## Site Permissions - Microphone
 
+permissions-site-microphone-window =
+    .title = Zgoda na mikrofōn - nasztalowania
+    .style = { permissions-window.style }
+permissions-site-microphone-desc = Te strōny poprosiyły ô zgoda na dostymp do twojigo mikrofōnu. Możesz pedzieć, kerym strōnōm na to prziwolosz. Możesz tyż zaszperować nowe prośby ô ta zgoda.
+permissions-site-microphone-disable-label =
+    .label = Szperuj nowe prośby ô zgoda na dostymp do twojigo mikrofōnu
+permissions-site-microphone-disable-desc = Skuli tego strōny, co ich niy ma na wykazie, niy bydōm mogły prosić ô zgoda na dostymp do twojigo mikrofōnu. Przi zaszperowanym dostympie do mikrofōnu niykere funkcyje strōn mogōm niy fungować dobrze.
