@@ -284,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } gebruiken (standaard)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Standaardtoepassing in macOS gebruiken
+            [windows] Standaardtoepassing in Windows gebruiken
+           *[other] Standaard systeemtoepassing gebruiken
+        }
 applications-use-other =
     .label = Andere gebruiken…
 applications-select-helper = Hulptoepassing selecteren
