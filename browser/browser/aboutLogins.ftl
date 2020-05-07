@@ -47,7 +47,7 @@ login-list-count =
 login-list-sort-label-text = مرتب کردن بر اساس:
 login-list-name-option = نام (A-Z)
 login-list-name-reverse-option = نام (A-Z)
-login-list-breached-option = پایگاه اینترنتی رخنه شده
+about-logins-login-list-alerts-option = هشدارها
 login-list-last-changed-option = آخرین تغییر
 login-list-last-used-option = آخرین استفاده
 login-list-intro-title = هیچ اطلاعات ورودی پیدا نشد
@@ -59,6 +59,8 @@ login-list-item-subtitle-new-login = اطلاعات ورود خود را وار�
 login-list-item-subtitle-missing-username = (بدون نام‌کاربری)
 about-logins-list-item-breach-icon =
     .title = وب‌سایت هک شده
+about-logins-list-item-vulnerable-password-icon =
+    .title = رمز عبور آسیب پذیر
 
 ## Introduction screen
 
@@ -97,11 +99,14 @@ login-item-time-used = آخرین استفاده: { DATETIME($timeUsed, day: "nu
 
 ## OS Authentication dialog
 
+about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 ## The macOS strings are preceded by the operating system with "Firefox is trying to "
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = برای ویرایش ورود‌های ذخیره شده هویت خود را تایید کنید.
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = کپی رمز عبور ذخیره شده
@@ -146,9 +151,6 @@ confirm-discard-changes-dialog-confirm-button = نادیده گرفتن
 ## Breach Alert notification
 
 breach-alert-text = از آخرین باری که اطلاعات ورود خود را تغییر داده‌اید، گذرواژه‌های مربوط به این وب‌سایت سرقت یا به بیرون درز کرده است. گذرواژه خود را تغییر دهید تا در خطر نباشید.
-breach-alert-link = در مورد این رخنه بیشتر بدانید.
-breach-alert-dismiss =
-    .title = این هشدار را ببندید
 
 ## Vulnerable Password notification
 
