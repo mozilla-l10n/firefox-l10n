@@ -51,12 +51,19 @@ protections-panel-showreport-label = Hollu jaŋtol
 # The header of the list
 protections-panel-site-not-working-view-header = Ñif ndeenkaaji so aɗa jogii caɗeele e:
 protections-panel-site-not-working-view-issue-list-comments = Jowe
+protections-panel-site-not-working-view-send-report = Neldu jaŋtol
 
 ##
 
+protections-panel-content-blocking-manage-settings =
+    .label = Toppito teelte ndeenka
+    .accesskey = T
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL
+protections-panel-content-blocking-breakage-report-view-collection-comments = Waɗɗaaki: Sifo caɗeele ɗee
+protections-panel-content-blocking-breakage-report-view-collection-comments-label =
+    .aria-label = Waɗɗaaki: Sifo caɗeele ɗee
 protections-panel-content-blocking-breakage-report-view-cancel =
     .label = Haaytu
 protections-panel-content-blocking-breakage-report-view-send-report =
