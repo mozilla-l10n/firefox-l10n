@@ -38,6 +38,12 @@ protections-close-button2 =
 mobile-app-title = Daaƴ rewindotooɓe ɓaŋŋine e masiŋon keewkon
 lockwise-title = Hoto majjin finnde maa kadi abadaa
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-mobile-app-title = Nawor ceŋorɗe e pinle maa kala nokku.
+lockwise-no-logins-card-content = Huutoro pinle danndaaɗe nder { -brand-short-name } e kaɓirgol baawngol won'de fof.
+lockwise-app-links = { -lockwise-brand-name } ngam a data-l10n-name="lockwise-android-inline-link">Android</a> e  <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+manage-connected-devices = Toppito kaɓirɗe…
+monitor-title = Yuurnito ciigol keɓe
+monitor-link = Hol no gollortoo
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
