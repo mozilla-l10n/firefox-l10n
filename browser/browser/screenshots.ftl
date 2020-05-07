@@ -32,5 +32,5 @@ screenshots-self-screenshot-error-title = Negalite padaryti „{ -screenshots-br
 screenshots-empty-selection-error-title = Jūsų pasirinkimas yra per mažas
 screenshots-private-window-error-title = „{ -screenshots-brand-name }“ privačiajame naršyme neveikia
 screenshots-private-window-error-details = Atsiprašome už nepatogumą. Mes dirbame prie šio funkcionalumo vėlesnėms versijoms.
-screenshots-generic-error-title = Vau! „{ -screenshots-brand-name }“ sugedo.
+screenshots-generic-error-title = Oi! „{ -screenshots-brand-name }“ sugedo.
 screenshots-generic-error-details = Mes nesame tikri, kas ką tik nutiko. Norite pabandyti dar kartą arba nufotografuoti kitą tinklalapį?
