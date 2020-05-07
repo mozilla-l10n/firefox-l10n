@@ -2,6 +2,13 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Localized string used as the dialog window title (a new behavior locked
+# behind the "extensions.abuseReport.openDialog" preference).
+# "Report" is a noun in this case, "Report for AddonName".
+#
+# Variables:
+#   $addon-name (string) - Name of the add-on being reported
+abuse-report-dialog-title = Пријава за { $addon-name }
 abuse-report-title-extension = Пријави ово проширење продавцу { -vendor-short-name }
 abuse-report-title-theme = Пријави ову тему продавцу { -vendor-short-name }
 abuse-report-subtitle = У чему је проблем?
@@ -52,10 +59,13 @@ abuse-report-messagebar-action-cancel = Откажи
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = Оштећује мој рачунар и податке
+abuse-report-damage-reason-v2 = Оштетило је мој рачунар или угрозило моје податке
 abuse-report-damage-example = Пример: убризгани злонамерни програм тј. malware или украдени подаци
 abuse-report-spam-reason = Ствара нежељену пошту тј. spam или рекламе
+abuse-report-spam-reason-v2 = Садржи нежељен садржај или убацује непожељне рекламе
 abuse-report-spam-example = Пример: умеће рекламе на веб странице
 abuse-report-settings-reason = Променио је мој претраживач, почетну страницу или нови језичак без обавештења или моје дозволе
+abuse-report-settings-reason-v2 = Променило је мој претраживач, почетну страницу или нови језичак без обавештења или мог допуштења
 abuse-report-settings-suggestions = Пре пријављивања проширења можете покушати да промените подешавања:
 abuse-report-settings-suggestions-search = Промените подразумеване поставке претраге
 abuse-report-settings-suggestions-homepage = Промените почетну страницу и нови језичак
