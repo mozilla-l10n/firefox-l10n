@@ -47,9 +47,9 @@ profiles-delete-profile-title = Obriši profil
 # Variables:
 #   $dir (String) - Path to be displayed
 profiles-delete-profile-confirm =
-    Brisanje profile će ukloniti profil s liste dostupnih profila i neće se moći vratiti.
-    Možete odabrati i brisanje podataka profila, uključujući vaše postavke, certifikate i ostale korisničke podatke. Ova će opcija obrisati mapu "{ $dir }" i neće se moći vratiti.
-    Želite li obrisati datoteke profila?
+    Brisanje profila uklonit će profil s popisa dostupnih profila i neće se moći vratiti.
+    Možeš odabrati i brisanje podataka profila, uključujući tvoje postavke, certifikate i ostale korisničke podatke. Ova će opcija obrisati mapu „{ $dir }” i neće se moći vratiti.
+    Želiš li obrisati datoteke profila?
 profiles-delete-files = Obriši datoteke
 profiles-dont-delete-files = Nemoj obrisati datoteke
 profiles-delete-profile-failed-title = Greška
