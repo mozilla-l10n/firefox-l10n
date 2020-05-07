@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = ผู้ออกใบรับร�
 certificate-viewer-cipher-suite = ชุดการเข้ารหัส
 certificate-viewer-common-name = ชื่อทั่วไป
 certificate-viewer-email-address = ที่อยู่อีเมล
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = ใบรับรองสำหรับ { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = ประเทศที่จดทะเบียน
 certificate-viewer-country = ประเทศ
@@ -29,6 +32,8 @@ certificate-viewer-id = ID
 certificate-viewer-key-exchange-group = กลุ่มการแลกเปลี่ยนคีย์
 certificate-viewer-key-id = ID คีย์
 certificate-viewer-key-size = ขนาดคีย์
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = สถานที่ที่ก่อตั้ง
 certificate-viewer-locality = สถานที่
 certificate-viewer-location = ตำแหน่งที่ตั้ง
 certificate-viewer-logid = ID รายการบันทึก
@@ -103,4 +108,5 @@ certificate-viewer-export = ส่งออก
 certificate-viewer-tab-mine = ใบรับรองของคุณ
 certificate-viewer-tab-people = ผู้คน
 certificate-viewer-tab-servers = เซิร์ฟเวอร์
+certificate-viewer-tab-ca = หน่วยงาน
 certificate-viewer-tab-unkonwn = ไม่ทราบ
