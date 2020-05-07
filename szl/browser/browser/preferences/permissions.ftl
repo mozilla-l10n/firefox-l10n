@@ -77,28 +77,48 @@ permissions-exceptions-etp-desc = Ôchrōna na tych strōnach je wyłōnczōno.
 permissions-exceptions-cookie-window =
     .title = Cookies i dane strōn - wyjōntki
     .style = { permissions-window.style }
-permissions-exceptions-cookie-desc = Możesz pedzieć, kere strōny śmiōm abo niy śmiōm używać cookies i danych strōn. Wkludź akuratno adresa strōny, na keryj chcesz tym reskiyrować, a potym kliknij: Szperuj, Przizwōl na ta sesyjo abo Przizwōl.
+permissions-exceptions-cookie-desc = Możesz pedzieć, kere strōny śmiōm abo niy śmiōm używać cookies i danych strōn. Wkludź akuratno adresa strōny, na keryj chcesz tym regiyrować, a potym kliknij: Szperuj, Przizwōl na ta sesyjo abo Przizwōl.
 
 ## Exceptions - Pop-ups
 
 permissions-exceptions-popup-window =
     .title = Strōny ze zgodōm na wyskakujōnce ôkna
     .style = { permissions-window.style }
+permissions-exceptions-popup-desc = Możesz pedzieć, kere strōny śmiōm ôtwiyrać wyskakujōnce ôkna. Wkludź akuratno adresa strōny, keryj chcesz na to przizwolić, a potym kliknij: Przizwōl.
 
 ## Exceptions - Saved Logins
 
+permissions-exceptions-saved-logins-window =
+    .title = Spamiyntane dane logowanio - wyjōntki
+    .style = { permissions-window.style }
+permissions-exceptions-saved-logins-desc = Dane logowanio do tych strōn niy bydōm spamiyntowane
 
 ## Exceptions - Add-ons
 
+permissions-exceptions-addons-window =
+    .title = Strōny ze zgodōm na insztalowanie rozszyrzyń
+    .style = { permissions-window.style }
+permissions-exceptions-addons-desc = Możesz pedzieć, kere strōny śmiōm insztalować rozszyrzynia. Wkludź akuratno adresa strōny, keryj chcesz na to przizwolić, a potym kliknij: Przizwōl.
 
 ## Exceptions - Autoplay Media
 
+permissions-exceptions-autoplay-media-window2 =
+    .title = Autopuszczanie - wyjōntki
+    .style = { permissions-window.style }
+permissions-exceptions-autoplay-media-desc2 = Możesz pedzieć, kere strōny śmiōm abo niy śmiōm autōmatycznie puszczać mydyjōw z klangiym. Wkludź akuratno adresa strōny, na keryj chcesz tym regiyrować, a potym kliknij: Szperuj abo Przizwōl.
 
 ## Site Permissions - Autoplay
 
+permissions-site-autoplay-window =
+    .title = Autopuszczanie - nasztalowania
+    .style = { permissions-window.style }
+permissions-site-autoplay-desc = Możesz sam regiyrować, kere strōny majōm być za wyjōntki ôd twojich nasztalowań autōmatycznego puszczanio mydyjōw.
 
 ## Site Permissions - Notifications
 
+permissions-site-notification-window =
+    .title = Zgoda na powiadōmiynia - nasztalowania
+    .style = { permissions-window.style }
 
 ## Site Permissions - Location
 
