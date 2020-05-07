@@ -150,7 +150,7 @@ edit-trust-ca = Certifikat „{ $certName }” predstavlja certifikacijsko tijel
 
 delete-user-cert-title =
     .title = Izbriši svoje certifikate
-delete-user-cert-confirm = Jeste li sigurni da želite obrisati ove certifikate?
+delete-user-cert-confirm = Stvarno želiš obrisati ove certifikate?
 delete-user-cert-impact = Ako obrišete jedan od vlastitih certifikata, više ga nećete moći koristiti za identifikaciju.
 delete-ssl-cert-title =
     .title = Obriši iznimku certifikata poslužitelja
@@ -162,7 +162,7 @@ delete-ca-cert-confirm = Zatražio/la si brisanje ovih CA certifikata. Za ugrađ
 delete-ca-cert-impact = Ako izbrišeš ili poništiš povjerenje za certifikat certifikacijskog tijela, ovaj program više neće vjerovati certifikatima koje izdaje to certifikacijsko tijelo.
 delete-email-cert-title =
     .title = Obriši certifikate e-pošte
-delete-email-cert-confirm = Jeste li sigurni da želite obrisati certifikate e-pošte ovih ljudi?
+delete-email-cert-confirm = Stvarno želiš obrisati certifikate e-pošte ovih ljudi?
 delete-email-cert-impact = Ako obrišete certifikat e-pošte određene osobe, više neće moći toj osobi slati kriptirane e-poruke.
 # Used for semi-uniquely representing a cert.
 #
