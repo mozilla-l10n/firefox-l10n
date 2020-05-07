@@ -4,7 +4,7 @@
 
 crashed-title = Izvjestitelj rušenja kartica
 crashed-close-tab-button = Zatvori karticu
-crashed-restore-tab-button = Vrati ovu karticu
+crashed-restore-tab-button = Obnovi ovu karticu
 crashed-restore-all-button = Vrati sve prisilno zatvorene kartice
 crashed-header = Ups. Kartica je prisilno prekinula s radom.
 crashed-offer-help = Možemo pomoći!
@@ -21,4 +21,4 @@ crashed-email-placeholder = Ovdje upiši svoju e-adresu
 crashed-email-me = Pošalji mi obavijest elektroničkom poštom kada bude dostupno više informacija
 crashed-report-sent = Izvještaj rušenja već je poslan. Hvala ti što pomažeš unaprijediti { -brand-short-name }!
 crashed-request-auto-submit-title = Prijavi pozadinske kartice
-crashed-auto-submit-checkbox = Ažurirajte postavke kako biste automatski slali izvještaje o rušenju kada se { -brand-short-name } sruši.
+crashed-auto-submit-checkbox = Aktualiziraj postavke kako bi se izvještaji o rušenju automatski slali kad se { -brand-short-name } sruši.
