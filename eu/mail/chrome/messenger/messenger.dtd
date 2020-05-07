@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Jasotako ordena">
 <!ENTITY attachmentColumn.label "Eranskinak">
 
+<!ENTITY deleteColumn.label "Ezabatu">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Hautatu bistaratzeko zutabeak">
 <!ENTITY selectColumn.tooltip "Txandakatu aukeratutako mezu guztiak">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Ordenatu kokalekuaren arabera">
 <!ENTITY idColumn2.tooltip "Ordenatu jasotako ordenaren arabera">
 <!ENTITY attachmentColumn2.tooltip "Ordenatu eranskinen arabera">
+
+<!ENTITY deleteColumn.tooltip "Ezabatu mezua">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Mezu berria txantiloitik">
