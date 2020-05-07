@@ -40,7 +40,7 @@ abuse-report-submit-button = Pošalji
 
 abuse-report-messagebar-aborted = Prijava za <span data-l10n-name="addon-name">{ $addon-name }</span> je otkazana.
 abuse-report-messagebar-submitting = Slanje prijave za <span data-l10n-name="addon-name">{ $addon-name }</span>.
-abuse-report-messagebar-submitted = Hvala vam što ste poslali prijavu. Želite li ukloniti <span data-l10n-name="addon-name">{ $addon-name }</span>?
+abuse-report-messagebar-submitted = Zahvaljujemo na prijavi. Želiš li ukloniti <span data-l10n-name="addon-name">{ $addon-name }</span>?
 abuse-report-messagebar-submitted-noremove = Hvala vam što ste poslali prijavu.
 abuse-report-messagebar-removed-extension = Hvala vam što ste poslali prijavu. Uklonili ste dodatak <span data-l10n-name="addon-name">{ $addon-name }</span>.
 abuse-report-messagebar-removed-theme = Hvala vam što ste poslali prijavu. Uklonili ste motiv <span data-l10n-name="addon-name">{ $addon-name }</span>.
