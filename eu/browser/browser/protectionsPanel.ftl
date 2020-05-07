@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Gunea konponduta dago? Bidali txos
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Zorrotza
+    .label = Zorrotza
+protections-popup-footer-protection-label-custom = Pertsonalizatua
+    .label = Pertsonalizatua
+protections-popup-footer-protection-label-standard = Oinarrizkoa
+    .label = Oinarrizkoa
 
 ##
 
