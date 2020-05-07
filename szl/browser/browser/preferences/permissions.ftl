@@ -35,18 +35,55 @@ permissions-button-ok =
     .label = Spamiyntej zmiany
     .accesskey = S
 permissions-autoplay-menu = Bazowe do wszyskich strōn:
+permissions-searchbox =
+    .placeholder = Szukej
+permissions-capabilities-autoplay-allow =
+    .label = Zgoda na klang i video
+permissions-capabilities-autoplay-block =
+    .label = Szperuj klang
+permissions-capabilities-autoplay-blockall =
+    .label = Szperuj klang i video
+permissions-capabilities-allow =
+    .label = Przizwōl
+permissions-capabilities-block =
+    .label = Szperuj
+permissions-capabilities-prompt =
+    .label = Zawdy sie pytej
+permissions-capabilities-listitem-allow =
+    .value = Przizwōl
+permissions-capabilities-listitem-block =
+    .value = Szperuj
+permissions-capabilities-listitem-allow-session =
+    .value = Przizwōl na ta sesyjo
 
 ## Invalid Hostname Dialog
 
+permissions-invalid-uri-title = Wkludzōne miano serwera je złe
+permissions-invalid-uri-label = Wkludź dobre miano serwera
 
 ## Exceptions - Tracking Protection
 
+permissions-exceptions-content-blocking-window =
+    .title = Szperowanie zawartości - wyjōntki
+    .style = { permissions-window.style }
+permissions-exceptions-content-blocking-desc = Szperowanie zawartości na tych strōnach je wyłōnczōne.
+permissions-exceptions-etp-window =
+    .title = Rozszyrzōno ôchrōna ôd śledzynio - wyjōntki
+    .style = { permissions-window.style }
+permissions-exceptions-etp-desc = Ôchrōna na tych strōnach je wyłōnczōno.
 
 ## Exceptions - Cookies
 
+permissions-exceptions-cookie-window =
+    .title = Cookies i dane strōn - wyjōntki
+    .style = { permissions-window.style }
+permissions-exceptions-cookie-desc = Możesz pedzieć, kere strōny śmiōm abo niy śmiōm używać cookies i danych strōn. Wkludź akuratno adresa strōny, na keryj chcesz tym reskiyrować, a potym kliknij: Szperuj, Przizwōl na ta sesyjo abo Przizwōl.
 
 ## Exceptions - Pop-ups
 
+permissions-exceptions-popup-window =
+    .title = Strōny ze zgodōm na wyskakujōnce ôkna
+    .style = { permissions-window.style }
 
 ## Exceptions - Saved Logins
 
