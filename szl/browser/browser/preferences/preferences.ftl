@@ -34,9 +34,37 @@ search-input-box =
             [windows] Znojdź we ôpcyjach
            *[other] Znojdź we preferyncyjach
         }
+managed-notice = Tōm przeglōndarkōm regiyruje twoja ôrganizacyjo.
+pane-general-title = Ôgōlne
+category-general =
+    .tooltiptext = { pane-general-title }
+pane-home-title = Dōmowo strōna
+category-home =
+    .tooltiptext = { pane-home-title }
+pane-search-title = Szukej
+category-search =
+    .tooltiptext = { pane-search-title }
+pane-privacy-title = Prywatność i bezpieczyństwo
+category-privacy =
+    .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
+help-button-label = { -brand-short-name } - spōmōżka
+addons-button-label = Rozszyrzynia i motywy
+focus-search =
+    .key = f
+close-button =
+    .aria-label = Zawrzij
 
 ## Browser Restart Dialog
 
+feature-enable-requires-restart = Trza zresztartować aplikacyjo { -brand-short-name }, coby załōnczyć ta fukcyjo.
+feature-disable-requires-restart = Trza zresztartować aplikacyjo { -brand-short-name }, coby wyłōnczyć ta fukcyjo.
+should-restart-title = Resztatuj aplikacyjo { -brand-short-name }
+should-restart-ok = Resztatuj aplikacyjo { -brand-short-name } teroz
+cancel-no-restart-button = Pociep
+restart-later = Resztartuj niyskorzij
 
 ## Extension Control Notifications
 ##
