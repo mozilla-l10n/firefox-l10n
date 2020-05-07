@@ -66,14 +66,20 @@ policy-HardwareAcceleration = Ukoliko je netočno, isključuje hardversko ubrzan
 policy-Homepage = Postavi i opcionalno zaključaj početnu stranicu.
 policy-InstallAddonsPermission = Dozvoli određenim web stranicama instalirati dodatke.
 policy-LegacyProfiles = Onemogućuje značajku koja nameće zaseban profil za svaku instalaciju
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-LocalFileLinks = Omogućite određenim web stranicama poveznice na lokalne datoteke.
 policy-NetworkPrediction = Aktiviraj ili deaktiviraj predviđanje mreže (DNS prefetching).
 policy-NewTabPage = Aktiviraj ili deaktiviraj stranicu Nova kartica.
 policy-NoDefaultBookmarks = Onemogući izradu standardnih zabilješki koje dolaze s { -brand-short-name }om i pametnih zabilješki (Najposjećenije, Nedavne oznake). Napomena: ovo pravilo djeluje samo, ako se koristi prije prvog pokretanja profila.
 policy-OfferToSaveLogins = Prisili postavku, tako da { -brand-short-name } smije ponudi pamćenje prijava i lozinki. Prihvaćaju se vrijednosti točno i netočno.
 policy-OfferToSaveLoginsDefault = Postavi standardnu vrijednost, kako bi { -brand-short-name } ponudio pamtiti spremljene prijave i lozinke. Prihvaćaju se vrijednosti za točno i netočno.
-policy-OverrideFirstRunPage = Poništite postavke početne stranice. Postavite ovo pravilo na prazno ukoliko želite onemogućiti početnu stranicu.
-policy-OverridePostUpdatePage = Poništite "Što je novo" stranicu nakon ažuriranja. Postavite ovo pravilo na prazno ukoliko želite onemogućiti stranicu nakon ažuriranja.
+policy-OverrideFirstRunPage = Poništi postavke početne stranice. Postavi ovo pravilo na prazno, ako želiš onemogućiti početnu stranicu.
+policy-OverridePostUpdatePage = Poništi stranicu „Što je novo” nakon aktualiziranja. Postavi ovo pravilo na prazno, ako želiš deaktivirati stranicu nakon aktualiziranja.
 policy-PasswordManagerEnabled = Aktiviraj spremanje lozinki u upravljaču lozinki.
 policy-Permissions2 = Podesi dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
 policy-PopupBlocking = Omogućite određenim web stranicama prikazivanje skočnih prozora.
