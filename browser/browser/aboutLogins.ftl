@@ -107,6 +107,9 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = برای ویرایش ورود‌های ذخیره شده هویت خود را تایید کنید.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = ویرایش ورودهای ذخیره شده
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = کپی رمز عبور ذخیره شده
@@ -151,10 +154,17 @@ confirm-discard-changes-dialog-confirm-button = نادیده گرفتن
 ## Breach Alert notification
 
 breach-alert-text = از آخرین باری که اطلاعات ورود خود را تغییر داده‌اید، گذرواژه‌های مربوط به این وب‌سایت سرقت یا به بیرون درز کرده است. گذرواژه خود را تغییر دهید تا در خطر نباشید.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = برو به { $hostname }
+about-logins-breach-alert-learn-more-link = بیشتر بدانید
 
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = رمز عبور آسیب پذیر
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = برو به { $hostname }
 about-logins-vulnerable-alert-learn-more-link = بیشتر یاد بگیرید
 
 ## Error Messages
