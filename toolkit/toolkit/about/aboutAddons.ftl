@@ -317,6 +317,7 @@ shortcuts-no-commands = Следећа проширења немају преч�
 shortcuts-input =
     .placeholder = Унесите пречицу
 shortcuts-browserAction = Активирај екстензију
+shortcuts-browserAction2 = Активирајте тастер на траци са алатима
 shortcuts-pageAction = Активирајте радњу странице
 shortcuts-sidebarAction = Мењајте бочну траку
 shortcuts-modifier-mac = Укључите Ctrl, Alt, или ⌘

@@ -34,6 +34,7 @@ app-basics-title = Основе апликације
 app-basics-name = Назив
 app-basics-version = Издање
 app-basics-build-id = ID издања
+app-basics-distribution-id = ID дистрибуције
 app-basics-update-channel = Канал за ажурирање
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -295,6 +296,11 @@ sandbox-proc-type-content = садржај
 sandbox-proc-type-file = садржај дадотеке
 sandbox-proc-type-media-plugin = медија прикључак
 sandbox-proc-type-data-decoder = декодер података
+startup-cache-title = Кеш покретања
+startup-cache-disk-cache-path = Путања до дисковног кеша
+startup-cache-ignore-disk-cache = Игноришите дисковни кеш
+startup-cache-found-disk-cache-on-init = Дисковни кеш пронађен током иницијализације
+startup-cache-wrote-to-disk-cache = Записано у дисковни кеш
 launcher-process-status-0 = Омогућено
 launcher-process-status-1 = Онемогућено због грешке
 launcher-process-status-2 = Онемогућен силом
