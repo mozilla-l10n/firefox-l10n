@@ -52,11 +52,14 @@ fingerprinter-tab-title = ਫਿੰਗਰਪਰਿੰਟਰ
 fingerprinter-tab-content = ਫਿੰਗਰਪਰਿੰਟਰ ਤੁਹਾਡੇ ਬਾਰੇ ਪਰੋਫਾਈਲ ਬਣਾਉਣ ਲਈ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਅਤੇ ਕੰਪਿਊਟਰ ਤੋਂ ਸੈਟਿੰਗਾਂ ਇਕੱਤਰ ਕਰਦੇ ਹਨ। ਇਹ ਡਿਜ਼ਿਟਲ ਫਿੰਗਰਪਰਿੰਟ ਵਰਤ ਕੇ ਉਹ ਤੁਹਾਨੂੰ ਵੱਖੋ-ਵੱਖ ਵੈੱਬਸਾਈਟਾਂ ਦੁਆਲੇ ਟਰੈਕ ਕਰ ਸਕਦੇ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਸਿੱਖੋ</a>
 cryptominer-tab-title = ਕ੍ਰਿਪਟੋਮਾਈਨਰ
 cryptominer-tab-content = ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਡਿਜ਼ਿਟਲ ਧਨ ਦੀ ਟਕਸਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਦੀ ਊਰਜਾ ਨੂੰ ਗੁਪਤ ਰੂਪ ਵਿੱਚ ਵਰਤਦੇ ਹਨ। ਕ੍ਰਿਪਟੋਮਾਈਨਰ ਸਕ੍ਰਿਪਟ ਤੁਹਾਡੀ ਬੈਟਰੀ ਖਪਾਉਂਦੀਆਂ ਹਨ, ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਨੂੰ ਹੌਲੀ ਕਰਦੀਆਂ ਹਨ ਅਤੇ ਤੁਹਾਡੇ ਬਿਜਲੀ ਦੇ ਬਿੱਲ ‘ਚ ਵੀ ਵਾਧਾ ਕਰ ਸਕਦੀਆਂ ਹਨ। <a data-l10n-name="learn-more-link">ਹੋਰ ਜਾਣੋ</a>
+protections-close-button =
+    .aria-label = ਬੰਦ ਕਰੋ
 mobile-app-title = ਹੋਰ ਡਿਵਾਈਸਾਂ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਟਰੈਕਰਾਂ ਉੱਤੇ ਪਾਬੰਦੀ ਲਾਓ
 mobile-app-card-content = ਇਸ਼ਤਿਹਾਰੀ ਟਰੈਕਰਾਂ ਦੇ ਵਿਰੁਧ ਸੁਰੱਖਿਆ ਦੇ ਸਮੇਤ ਮੋਬਾਈਲ ਬਰਾਊਜ਼ਰ ਵਰਤੋਂ।
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">ਐਂਡਰਾਈਡ</a> ਅਤੇ <a data-l10n-name="ios-mobile-inline-link">iOS</a> ਲਈ { -brand-product-name } ਬਰਾਊਜ਼ਰ
 lockwise-title = ਮੁੜ ਕੇ ਪਾਸਵਰਡ ਕਦੇ ਵੀ ਨਾ ਭੁੱਲੋ
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = ਪਾਸਵਰਡ ਇੰਤਜ਼ਾਮ
 lockwise-header-content = { -lockwise-brand-name } ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ‘ਚ ਤੁਹਾਡੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲਦਾ ਹੈ।
 lockwise-header-content-logged-in = ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ‘ਚ ਆਪਣੇ ਪਾਸਵਰਡਾਂ ਨੂੰ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ ਅਤੇ ਸਿੰਕ ਕਰੋ।
 protection-report-view-logins-button = ਲਾਗਇਨ ਵੇਖੋ
@@ -72,6 +75,7 @@ lockwise-passwords-stored =
         [one] ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ <a data-l10n-name="lockwise-how-it-works">ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ</a>
        *[other] ਪਾਸਵਰਡ ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਸੰਭਾਲੋ <a data-l10n-name="lockwise-how-it-works">ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ</a>
     }
+lockwise-how-it-works-link = ਇਹ ਕਿਵੇਂ ਕੰਮ ਕਰਦਾ ਹੈ
 turn-on-sync = { -sync-brand-short-name } ਚਾਲੂ ਕਰੋ…
     .title = ਸਿੰਕ ਪਸੰਦਾਂ ‘ਤੇ ਜਾਓ
 manage-connected-devices = ਡਿਵਾਈਸਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ…

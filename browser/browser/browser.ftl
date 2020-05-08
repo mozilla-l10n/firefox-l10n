@@ -2,47 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
-       *[default] { -brand-full-name }
-    }
-
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
-       *[other] { $title } - { -brand-full-name } (ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ)
-    }
 urlbar-identity-button =
     .aria-label = ਸਾਈਟ ਦੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵੇਖੋ
 
@@ -109,9 +68,6 @@ urlbar-search-tips-redirect-2 = { $engineName } ਅਤੇ ਆਪਣੇ ਬਰਾ
 
 ##
 
-
-##
-
 urlbar-geolocation-blocked =
     .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਟਿਕਾਣਾ ਜਾਣਕਾਰੀ ਵਾਸਤੇ ਪਾਬੰਦੀ ਲਗਾਈ ਹੈ।
 urlbar-xr-blocked =
@@ -153,6 +109,8 @@ page-action-manage-extension =
     .label = …ਇਕਸਟੈਨਸ਼ਨਾਂ ਦਾ ਬੰਦੋਬਸਤ ਕਰੋ
 page-action-remove-from-urlbar =
     .label = ਐਡਰੈੱਸ ਪੱਟੀ ਤੋਂ ਹਟਾਓ
+page-action-remove-extension =
+    .label = ਇਕਸਟੈਨਸ਼ਨ ਹਟਾਓ
 
 ## Auto-hide Context Menu
 
@@ -248,6 +206,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ਘੱਟੋ-ਘੱਟ
+browser-window-maximize-button =
+    .tooltiptext = ਵੱਡਾ ਕਰੋ
 browser-window-close-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
 
@@ -260,3 +220,6 @@ popup-select-microphone =
     .value = ਸਾਂਝਾ ਕਰਨ ਲਈ ਮਾਈਕਰੋਫੋਨ:
     .accesskey = M
 popup-all-windows-shared = ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿਖਾਈ ਦਿੰਦੀਆਂ ਵਿੰਡੋਜ਼ ਨੂੰ ਸਾਂਝਾ ਕੀਤਾ ਕੀਤਾ ਜਾਵੇਗਾ।
+
+## DevTools F12 popup
+

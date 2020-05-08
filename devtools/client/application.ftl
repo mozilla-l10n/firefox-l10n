@@ -34,6 +34,8 @@ serviceworker-worker-status = ਸਥਿਤੀ
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = ਚੱਲ ਰਿਹਾ ਹੈ
+# Service Worker status. A stopped service worker is registered but not currently active.
+serviceworker-worker-status-stopped = ਰੁਕਿਆ
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = ਪਛਾਣ
 # Header for the Icon section of Manifest inspection displayed in the application panel.
