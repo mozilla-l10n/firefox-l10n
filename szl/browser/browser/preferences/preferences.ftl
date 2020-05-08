@@ -234,9 +234,55 @@ translate-attribution = Przekłady ôd <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjōntki…
     .accesskey = W
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Formatuj data, czasy, nōmery i miary podug nasztalowań do godki: “{ $localeName }” z twojigo ôperacyjnego systymu.
 
 ## General Section - Files and Applications
 
+files-and-applications-title = Zbiory i aplikacyje
+download-header = Pobrania
+download-save-to =
+    .label = Spamiyntuj zbiory do
+    .accesskey = v
+download-choose-folder =
+    .label =
+        { PLATFORM() ->
+            [macos] Ôbier…
+           *[other] Przeglōndej…
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [macos] o
+           *[other] e
+        }
+download-always-ask-where =
+    .label = Zawdy sie pytej, kaj spamiyntować zbiory
+    .accesskey = Z
+applications-header = Aplikacyje
+applications-description = Ôbier, jako { -brand-short-name } mo ôbsugować zbiory pobiyrane z neca abo aplikacyje, co ich używosz przi przeglōndaniu.
+applications-filter =
+    .placeholder = Szukej typu zbioru abo aplikacyje
+applications-type-column =
+    .label = Typ zawartości
+    .accesskey = T
+applications-action-column =
+    .label = Akcyjo
+    .accesskey = A
+# Variables:
+#   $extension (String) - file extension (e.g .TXT)
+applications-file-ending = Zbiōr { $extension }
+applications-action-save =
+    .label = Spamiyntej zbiōr
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app =
+    .label = Użyj aplikacyje { $app-name }
+# Variables:
+#   $app-name (String) - Name of an application (e.g Adobe Acrobat)
+applications-use-app-default =
+    .label = Użyj aplikacyje { $app-name } (bazowyj)
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
