@@ -64,10 +64,15 @@ mobile-app-card-content = Використовуйте мобільний бра
 mobile-app-links = Браузер { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> та <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ніколи більше не забувайте пароль
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Керування паролями
 lockwise-header-content = { -lockwise-brand-name } безпечно зберігає ваші паролі в браузері.
 lockwise-header-content-logged-in = Безпечно зберігайте й синхронізуйте свої паролі на всіх пристроях.
 protection-report-view-logins-button = Перегляд записів
     .title = Перейти до збережених паролів
+protection-report-save-passwords-button = Зберігати паролі
+    .title = Зберігати паролі в { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Керувати паролями
+    .title = Керувати паролями в { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Отримайте свої паролі всюди
 lockwise-no-logins-card-content = Використовуйте паролі, що збережені в { -brand-short-name }, на будь-якому пристрої.
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> та <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -80,6 +85,25 @@ lockwise-passwords-stored =
         [few] Паролі надійно збережено <a data-l10n-name="lockwise-how-it-works">Як це працює</a>
        *[many] Паролів надійно збережено <a data-l10n-name="lockwise-how-it-works">Як це працює</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 пароль, ймовірно, викрито внаслідок витоку даних.
+        [few] { $count } паролі, ймовірно, викрито внаслідок витоку даних.
+       *[many] { $count } паролів, ймовірно, викрито внаслідок витоку даних.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Надійно зберігається 1 пароль.
+        [few] Надійно зберігається { $count } паролі.
+       *[many] Надійно зберігаються { $count } паролів.
+    }
+lockwise-how-it-works-link = Як це працює
 turn-on-sync = Увімкнути { -sync-brand-short-name(case: "acc") }
     .title = Перейти до налаштувань синхронізації
 manage-connected-devices = Керувати пристроями…
