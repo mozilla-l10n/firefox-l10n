@@ -366,7 +366,7 @@
 <!ENTITY event.recurrence.forever.label                 "Ulac azemz n tagara" >
 <!ENTITY event.recurrence.repeat.for.label              "Snulfu" >
 <!ENTITY event.recurrence.appointments.label            "Ttiɛad" >
-<!ENTITY event.repeat.until.label                       "Lles ar ma" >
+<!ENTITY event.repeat.until.label                       "Ales alamma" >
 <!ENTITY event.recurrence.preview.label                 "Taskant">
 
 <!-- Attendees dialog -->
