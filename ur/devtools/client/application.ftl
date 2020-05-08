@@ -16,6 +16,11 @@
 serviceworker-list-header = خدمت کارکنان
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = ریجسٹریشن ختم کریں
+# Text for the debug link displayed for an already started Service Worker. Clicking on the
+# link opens a new devtools toolbox for this service worker. The title attribute is only
+# displayed when the link is disabled.
+serviceworker-worker-debug = ٹھیک کریں
+    .title = فعال خدت کارکنان کو ٹھیک کیا جا سکتا ہے
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = آغاز
@@ -65,6 +70,9 @@ manifest-item-icons = آئیکن
 manifest-loading = منشور لوڈ ہو رہا ہے…
 # Text displayed when the manifest has been successfully loaded
 manifest-loaded-ok = منشور لوڈ ہو گیا
+# Text displayed as a caption when there has been an error while trying to
+# load the manifest
+manifest-loaded-error = ااس مشور کو لوڈ  کرنے میں ایک نقص تھا
 # Text displayed as an error when there has been a Firefox DevTools error while
 # trying to load the manifest
 manifest-loaded-devtools-error = Firefox DevTools نقص
@@ -92,6 +100,10 @@ sidebar-item-manifest = منشور
 sidebar-item-service-workers = خدمت کارکنان
     .alt = خدمت کارکنان آئیکن
     .title = خدمت کارکنان
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = انتباہ آئیکن
+    .title = انتباہ
 # Text for the ALT and TITLE attributes of the error icon
 icon-error =
     .alt = خرابی کا آئیکن
