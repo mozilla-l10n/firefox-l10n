@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = 將本頁加入書籤
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = 將本頁加入書籤
     .accesskey = m
@@ -317,3 +314,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = 了解 DRM 的更多資訊…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = 有新功能推出時通知我
