@@ -62,10 +62,15 @@ mobile-app-card-content = Brûk de mobile browser mei ynboude beskerming tsjin a
 mobile-app-links = { -brand-product-name } Browser foar <a data-l10n-name="android-mobile-inline-link">Android</a> en <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ferjit nea mear in wachtwurd
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Wachtwurdbehear
 lockwise-header-content = { -lockwise-brand-name } bewarret jo wachtwurden feilich yn jo browser.
 lockwise-header-content-logged-in = Bewarje en syngronisearje jo wachtwurden feilich op al jo apparaten.
 protection-report-view-logins-button = Oanmeldingen werjaan
     .title = Nei bewarre oanmeldingen
+protection-report-save-passwords-button = Wachtwurden bewarje
+    .title = Wachtwurden bewarje yn { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Wachtwurden beheare
+    .title = Wachtwurden beheare yn { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Nim jo wachtwurden oeral mei hinne
 lockwise-no-logins-card-content = Brûk yn { -brand-short-name } bewarre wachtwurden op elk apparaat.
 lockwise-app-links = { -lockwise-brand-name } foar <a data-l10n-name="lockwise-android-inline-link">Android</a> en <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +82,7 @@ lockwise-passwords-stored =
         [one] wachtwurd feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it wurket</a>
        *[other] wachtwurden feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it wurket</a>
     }
+lockwise-how-it-works-link = Hoe't it wurket
 turn-on-sync = { -sync-brand-short-name } ynskeakelje…
     .title = Nei syngronisaasjefoarkarren
 manage-connected-devices = Apparaten beheare…
