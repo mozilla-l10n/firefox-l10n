@@ -100,7 +100,7 @@ lockwise-scanned-text-breached-logins =
 lockwise-scanned-text-no-breached-logins =
     { $count ->
         [one] Надійно зберігається 1 пароль.
-        [few] Надійно зберігається { $count } паролі.
+        [few] Надійно зберігаються { $count } паролі.
        *[many] Надійно зберігаються { $count } паролів.
     }
 lockwise-how-it-works-link = Як це працює
