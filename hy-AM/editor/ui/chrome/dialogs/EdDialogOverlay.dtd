@@ -14,4 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Ընտրել հարաբերական և բացարձակ URL-ների միջև։ Սա փոխելու համար նախ պետք է պահպանեք էջը։">
 
 <!-- Shared by Link and Image dialogs -->
+<!ENTITY LinkURLEditField2.label "Նշեք վեբ էջի տեղադրությունը, տեղային ֆայլը կամ ընտրեք անվանարկված խարիսխ կամ գլխագիր՝ ցանկից">
 <!ENTITY LinkURLEditField2.accessKey "w">

@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (հեռակա թղթապանակներ)">
 <!ENTITY pop3Long.label                  "POP3 (նամակները կպահվեն համակարգչում)">
 
+<!ENTITY manualConfigTable.summary       "Սպասարկիչի կարգավորումներ">
 <!ENTITY incoming.label                  "Մուտքային.">
 <!ENTITY incomingColumn.label            "Մտից">
 <!ENTITY outgoing.label                  "Ելքային.">
