@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Érkezési sorrend">
 <!ENTITY attachmentColumn.label "Mellékletek">
 
+<!ENTITY deleteColumn.label "Törlés">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Jelölje ki a megjelenítendő oszlopokat">
 <!ENTITY selectColumn.tooltip "Összes üzenet kiválasztása be/ki">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Rendezés hely szerint">
 <!ENTITY idColumn2.tooltip "Rendezés beérkezés szerint">
 <!ENTITY attachmentColumn2.tooltip "Rendezés mellékletek szerint">
+
+<!ENTITY deleteColumn.tooltip "Üzenet törlése">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Új üzenet sablonból">
