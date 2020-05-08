@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window =
-    .title = 웹페이지 언어 설정
+    .title = 웹 페이지 언어 설정
     .style = width: 40em
 languages-close-key =
     .key = w
