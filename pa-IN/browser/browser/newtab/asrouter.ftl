@@ -125,10 +125,6 @@ cfr-whatsnew-lockwise-take-link-text = ਐਪ ਲਵੋ
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = ਘੱਟ ਟਾਈਪ ਕਰੋ, ਐਡਰੈਸ ਬਾਰ ਨਾਲ ਹੋਰ ਲੱਭੋ
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = ਉਨ੍ਹਾਂ ਸਾਈਟਾਂ ਤੇ ਜਾਓ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਐਡਰੈਸ ਬਾਰ ਤੇ ਇਕ ਕਲਿੱਕ ਨਾਲ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤੋਂ ਕਰਦੇ ਹੋ। { $searchEngineName } ਅਤੇ ਆਪਣੇ ਬਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਤੋਂ ਖੋਜ ਨਤੀਜਿਆਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ।
-cfr-whatsnew-searchbar-body-generic = ਉਨ੍ਹਾਂ ਸਾਈਟਾਂ ਤੇ ਜਾਓ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਸੀਂ ਐਡਰੈਸ ਬਾਰ ਤੇ ਇਕ ਕਲਿੱਕ ਨਾਲ ਸਭ ਤੋਂ ਵੱਧ ਵਰਤੋਂ ਕਰਦੇ ਹੋ। ਆਪਣੇ ਬਰਾਉਜ਼ਿੰਗ ਇਤਿਹਾਸ ਤੋਂ ਖੋਜ ਨਤੀਜਿਆਂ ਨਾਲ ਚੀਜ਼ਾਂ ਨੂੰ ਤੇਜ਼ੀ ਨਾਲ ਲੱਭੋ।
 cfr-whatsnew-searchbar-body-topsites = ਹੁਣ ਸਿਰਫ਼ ਸਿਰਨਾਵਾਂ ਪੱਟੀ ਚੁਣੋ ਅਤੇ ਡੱਬਾ ਤੁਹਾਡੀਆਂ ਸਿਖਰਲੀਆਂ ਸਾਈਟਾਂ ਦੇ ਲਿੰਕਾਂ ਨਾਲ ਭਰ ਜਾਵੇਗਾ।
 cfr-whatsnew-searchbar-icon-alt-text = ਵੱਡਦਰਸ਼ੀ ਸ਼ੀਸ਼ਾ ਆਈਕਾਨ
 
@@ -214,3 +210,18 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = ਅਸਾਨੀ ਨਾਲ ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਬਣਾਓ
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ਆਈਕਨ
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਆਈਕਾਨ
