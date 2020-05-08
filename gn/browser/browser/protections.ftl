@@ -82,6 +82,13 @@ lockwise-passwords-stored =
         [one] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
        *[other] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 ñe’ẽñemi oikekuaákuri peteĩ mba’ekuaarã ñembyaípe.
+       *[other] { $count } ñe’ẽñemi oikekuaákuri peteĩ mba’ekuaarã ñembyaípe.
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:

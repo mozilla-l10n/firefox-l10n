@@ -284,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } jeporu (ijypykue)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Eipuru tembipuru’i macOS ijypykuéva
+            [windows] Eipuru tembipuru’i Windows ijypykuéva
+           *[other] Eipuru tembipuru’i apopyvusugua ijypykuéva
+        }
 applications-use-other =
     .label = Ambuéva jepuru…
 applications-select-helper = Eiporavo tembipuru'i pytyvõrãva
