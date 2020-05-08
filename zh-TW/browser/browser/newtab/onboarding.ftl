@@ -104,7 +104,7 @@ onboarding-fxa-title = 同步
 onboarding-fxa-text = 註冊 { -fxaccount-brand-name } 後，即可在任何使用 { -brand-short-name } 的地方同步您的書籤、密碼、開啟的分頁。
 onboarding-tracking-protection-title2 = 保護您不受追蹤
 onboarding-tracking-protection-text2 = { -brand-short-name } 可幫助防止網站在線上追蹤，讓廣告更難追著你。
-onboarding-tracking-protection-button2 = 運作原理
+onboarding-tracking-protection-button2 = 原理是什麼
 onboarding-data-sync-title = 把設定隨身帶著走
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = 在任何使用 { -brand-product-name } 的地方同步書籤、密碼等資料。
