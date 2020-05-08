@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Ek aanvaar die risiko!
 config-about-warning-checkbox =
     .label = Wys volgende keer weer hierdie waarskuwing
+
 config-search-prefs =
     .value = Soek:
     .accesskey = o
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopieer
     .accesskey = K
+
 config-copy-name =
     .label = Kopieer naam
     .accesskey = n
+
 config-copy-value =
     .label = Kopieer waarde
     .accesskey = w
+
 config-modify =
     .label = Wysig
     .accesskey = W
+
 config-toggle =
     .label = Swik
     .accesskey = S
+
 config-reset =
     .label = Stel terug
     .accesskey = r
+
 config-new =
     .label = Nuwe
     .accesskey = w
+
 config-string =
     .label = String
     .accesskey = S
+
 config-integer =
     .label = Heelgetal
     .accesskey = H
+
 config-boolean =
     .label = Boolese
     .accesskey = B
+
 config-default = verstek
 config-modified = gewysig
 config-locked = vasgesluit
+
 config-property-string = string
 config-property-int = heelgetal
 config-property-bool = boolese
+
 config-new-prompt = Tik die voorkeurnaam in
+
 config-nan-title = Ongeldige waarde
 config-nan-text = Die teks wat u ingetik het, is nie 'n getal nie.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nuwe { $type }-waarde
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Tik { $type }-waarde

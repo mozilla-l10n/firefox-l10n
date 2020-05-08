@@ -4,7 +4,9 @@
 
 about-config-warning-checkbox = Irriteer my weer, asseblief!
 about-config-warning-button = Ek aanvaar die risiko
+
 about-config2-title = Gevorderde opstellings
+
 about-config-search-input =
     .placeholder = Soek
 
@@ -18,10 +20,12 @@ about-config-intro-warning-button = Aanvaar die risiko en gaan voort
 about-config-search-input1 =
     .placeholder = Soek voorkeurnaam
 about-config-show-all = Wys alles
+
 about-config-pref-toggle = Wissel
 about-config-pref-edit = Wysig
 about-config-pref-save = Stoor
 about-config-pref-delete = Skrap
+
 about-config-pref-toggle-button =
     .title = Wissel
 about-config-pref-edit-button =

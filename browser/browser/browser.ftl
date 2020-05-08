@@ -2,22 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (Private blaaiery)
-       *[default] { -brand-full-name }
-    }
-
 ## This is the default window title in case there is content
 ## title to be displayed.
 ##
@@ -33,16 +17,7 @@ browser-main-window-title =
 ## Variables
 ##   $title (String) - Content title string.
 
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (Private blaaiery)
-       *[other] { $title } - { -brand-full-name } (Private blaaiery)
-    }
+
 urlbar-identity-button =
     .aria-label = Wys werfinligting
 
@@ -98,10 +73,12 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -127,6 +104,7 @@ search-one-offs-change-settings-button =
     .label = Verander soekinstellings
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Verander soekinstellings
+
 search-one-offs-context-open-new-tab =
     .label = Soek in nuwe oortjie
     .accesskey = t
@@ -191,3 +169,6 @@ popup-select-microphone =
     .value = Mikrofoon om te deel:
     .accesskey = M
 popup-all-windows-shared = Alle sigbare vensters op die skerm sal gedeel word.
+
+## DevTools F12 popup
+

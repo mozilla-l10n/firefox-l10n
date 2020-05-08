@@ -48,6 +48,7 @@ import =
 close-button =
     .label = Sluit
     .accesskey = S
+
 show-passwords =
     .label = Wys wagwoorde
     .accesskey = w

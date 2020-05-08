@@ -73,7 +73,6 @@ newtab-discovery-empty-section-topstories-try-again-button = Probeer Weer
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Gewilde Onderwerpe:
 newtab-pocket-more-recommendations = Meer Aanbevelings
-newtab-pocket-whats-pocket = Wat is { -pocket-brand-name }?
 newtab-pocket-cta-button = Kry { -pocket-brand-name }
 
 ## Error Fallback Content.

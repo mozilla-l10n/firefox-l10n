@@ -4,33 +4,39 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Blokkeer
     .accesskey = B
+
 permissions-session =
     .label = Laat toe vir sessie
     .accesskey = s
+
 permissions-allow =
     .label = Laat toe
     .accesskey = L
+
 permissions-status =
     .label = Status
+
 permissions-button-cancel =
     .label = Kanselleer
     .accesskey = K
+
 permissions-button-ok =
     .label = Stoor veranderinge
     .accesskey = S
+
 permissions-capabilities-allow =
     .label = Laat toe
 permissions-capabilities-block =
     .label = Blokkeer
+
 permissions-capabilities-listitem-allow =
     .value = Laat toe
 permissions-capabilities-listitem-block =
     .value = Blokkeer
-permissions-capabilities-listitem-allow-first-party =
-    .value = Laat slegs die eerste party toe
 permissions-capabilities-listitem-allow-session =
     .value = Laat toe vir sessie
 
@@ -40,10 +46,6 @@ permissions-invalid-uri-title = Ongeldige gasheernaam ingetik
 permissions-invalid-uri-label = Tik 'n geldige gasheernaam in
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = Uitsonderings - Volgbeskerming
-    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -65,11 +67,15 @@ permissions-exceptions-addons-desc = U kan spesifiseer watter webwerwe toegelaat
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

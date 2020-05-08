@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Die gedeeltelike bywerking kon nie toegepas word nie. &brandShortName; sal weer probeer deur 'n volledige bywerking af te laai.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan nie bepaal of daar 'n bywerking is nie. Kontroleer of jy die jongste weergawe van &brandShortName; het by:">
-
+                                           
 <!ENTITY  finishedPage.title              "Bywerking gereed om geïnstalleer te word">
 <!ENTITY  finishedPage.text               "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Die bywerking sal geïnstalleer word wanneer &brandShortName; weer begin. U kan &brandShortName; nou herbegin, of voortgaan om te werk, en later herbegin.">
 <!ENTITY  finishedBackground.moreElevated "Dié bywerking vereis administrateursregte. Die bywerking sal geïnstalleer word die volgende keer wat &brandShortName; begin. Herbegin &brandShortName; gerus nou, werk verder en herbegin later, of weier dié bywerking.">
 
-<!ENTITY  update.details.label            "Besonderhede">
-<!ENTITY  update.installedOn.label        "Geïnstalleer op:">
-<!ENTITY  update.status.label             "Status:">

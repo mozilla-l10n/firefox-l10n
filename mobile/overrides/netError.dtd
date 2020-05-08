@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Kan nie die bladsy laai nie">
 <!ENTITY retry.label "Probeer weer">
+
 <!-- Specific error messages -->
 
 
@@ -80,6 +81,7 @@
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
 
 <!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
@@ -99,3 +101,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

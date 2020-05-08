@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = r
     .secondarybuttonlabel = Nie nou nie
     .secondarybuttonaccesskey = N
+    

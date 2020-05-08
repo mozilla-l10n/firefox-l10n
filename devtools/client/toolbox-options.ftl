@@ -36,5 +36,3 @@ options-sourceeditor-keybinding-default-label = Verstek
 
 ##
 
-# The heading for the Debugger section
-options-debugger-label = Ontfouter

@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Kan nie beveilig koppel nie omdat die SSL-protokol gedeaktiveer is.
 psmerr-ssl2-disabled = Kan nie beveilig koppel nie omdat die werf 'n ouer, onveilige weergawe van die SSL-protokol gebruik.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     U het 'n ongeldige sertifikaat ontvang.  Kontak die bedieneradministrateur of e-poskorrespondent en gee aan hulle die volgende inligting:
     
     U sertifikaat het dieselfde reeksnommer as 'n ander sertifikaat wat deur die sertifikaatowerheid uitgereik is.  Kry 'n nuwe sertifikaat wat 'n unieke reeksnommer het.
+
 ssl-error-export-only-server = Kon nie beveilig kommunikeer nie. Eweknie werk nie met hoëgraadse enkripsie nie.
 ssl-error-us-only-server = Kon nie beveilig kommunikeer nie. Eweknie vereis hoëgraadse enkripsie, wat nie hier werk nie.
 ssl-error-no-cypher-overlap = Kan nie beveilig met eweknie kommunikeer nie: geen gemene enkripsiealgoritme(s) nie.
