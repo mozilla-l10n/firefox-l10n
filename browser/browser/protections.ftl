@@ -60,6 +60,7 @@ mobile-app-card-content = 광고 추적에 대한 보호 기능이 내장된 모
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> 및 <a data-l10n-name="ios-mobile-inline-link">iOS</a>용 { -brand-product-name } 브라우저
 lockwise-title = 비밀번호를 다시 잊지 마세요
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = 비밀번호 관리
 lockwise-header-content = { -lockwise-brand-name }은 비밀번호를 브라우저에 안전하게 저장합니다.
 lockwise-header-content-logged-in = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
 protection-report-view-logins-button = 로그인 보기
@@ -77,6 +78,20 @@ lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a
 lockwise-passwords-stored =
     { $count ->
        *[other] 비밀번호가 안전하게 저장됨 <a data-l10n-name="lockwise-how-it-works">작동원리</a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+       *[other] 데이터 유출에 { $count }개의 비밀번호가 노출되었을 수 있습니다.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+       *[other] 비밀번호가 안전하게 저장되고 있습니다.
     }
 lockwise-how-it-works-link = 작동 방식
 turn-on-sync = { -sync-brand-short-name } 켜기…
