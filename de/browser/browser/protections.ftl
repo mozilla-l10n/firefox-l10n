@@ -66,6 +66,10 @@ lockwise-header-content = { -lockwise-brand-name } speichert Passwörter sicher 
 lockwise-header-content-logged-in = Speichern Sie Passwörter sicher und synchronisieren Sie diese mit allen Ihren Geräten.
 protection-report-view-logins-button = Zugangsdaten anzeigen
     .title = Gespeicherte Zugangsdaten öffnen
+protection-report-save-passwords-button = Passwörter speichern
+    .title = Passwörter in { -lockwise-brand-short-name } speichern
+protection-report-manage-passwords-button = Passwörter verwalten
+    .title = Passwörter in { -lockwise-brand-short-name } verwalten
 lockwise-mobile-app-title = Nehmen Sie Ihre Passwörter überall mit
 lockwise-no-logins-card-content = Verwenden Sie in { -brand-short-name } gespeicherte Passwörter auf jedem Gerät.
 lockwise-app-links = { -lockwise-brand-name } für <a data-l10n-name="lockwise-android-inline-link">Android</a> und <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +81,7 @@ lockwise-passwords-stored =
         [one] Passwort sicher gespeichert <a data-l10n-name="lockwise-how-it-works">Wie es funktioniert</a>
        *[other] Passwörter sicher gespeichert <a data-l10n-name="lockwise-how-it-works">Wie es funktioniert</a>
     }
+lockwise-how-it-works-link = Wie es funktioniert
 turn-on-sync = { -sync-brand-short-name } aktivieren…
     .title = Sync-Einstellungen öffnen
 manage-connected-devices = Geräte verwalten…
