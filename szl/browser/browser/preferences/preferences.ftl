@@ -117,6 +117,21 @@ search-results-help-link = Potrzebujesz pōmocy? Nawiydź <a data-l10n-name="url
 
 ## General Section
 
+startup-header = Sztartowanie
+# { -brand-short-name } will be 'Firefox Developer Edition',
+# since this setting is only exposed in Firefox Developer Edition
+separate-profile-mode =
+    .label = Przizwōl, coby { -brand-short-name } i Firefox fungowały w jednym czasie
+get-started-not-logged-in = Wloguj sie do { -sync-brand-short-name(case: "gen") }…
+get-started-configured = Ôdewrzij nasztalowania { -sync-brand-short-name(case: "gen") }
+always-check-default =
+    .label = Zawdy badej, jeźli { -brand-short-name } to je twoja bazowo przeglōndarka
+    .accesskey = y
+is-default = { -brand-short-name } to je twoja bazowa przeglōndarka
+is-not-default = { -brand-short-name } to niy ma twoja bazowo przeglōndarka
+set-as-my-default-browser =
+    .label = Nasztaluj za bazowo…
+    .accesskey = B
 
 ## General Section - Language & Appearance
 
