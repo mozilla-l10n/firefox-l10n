@@ -81,6 +81,23 @@ lockwise-passwords-stored =
         [one] ססמאות מאוחסנות באופן מאובטח <a data-l10n-name="lockwise-how-it-works">איך זה עובד</a>
        *[other] ססמאות מאוחסנות באופן מאובטח <a data-l10n-name="lockwise-how-it-works">איך זה עובד</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] יתכן שססמה אחת נחשפה בדליפת נתונים.
+       *[other] יתכן ש־{ $count } ססמאות נחשפו בדליפת נתונים.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] ססמה אחת מאוחסנת בצורה מאובטחת.
+       *[other] הססמאות שלך מאוחסנות בצורה מאובטחת.
+    }
+lockwise-how-it-works-link = איך זה עובד
 turn-on-sync = הפעלת { -sync-brand-short-name }…
     .title = מעבר להעדפות סנכרון
 manage-connected-devices = ניהול מכשירים…
