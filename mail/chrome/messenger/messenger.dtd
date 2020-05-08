@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Pórěd dostaśa">
 <!ENTITY attachmentColumn.label "Pśidanki">
 
+<!ENTITY deleteColumn.label "Lašowaś">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Wubjeŕśo słupy, kótarež maju se zwobrazniś">
 <!ENTITY selectColumn.tooltip "Wuběranje wšych powěsćow pśešaltowaś">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Pó adresy sortěrowaś">
 <!ENTITY idColumn2.tooltip "Pó pórěźe dostawanja sortěrowaś">
 <!ENTITY attachmentColumn2.tooltip "Pó pśidankach sortěrowaś">
+
+<!ENTITY deleteColumn.tooltip "Powěsć lašowaś">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nowa powěsć z pśedłogi">
