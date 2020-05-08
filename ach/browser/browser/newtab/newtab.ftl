@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Pe ki twero gonyo tic man.
 newtab-menu-section-tooltip =
     .title = Yab jami ayera
     .aria-label = Yab jami ayera
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Kwany
+    .aria-label = Kwany
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -172,7 +176,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oops! Manok kono onongo wa
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Lok macuk gi lamal:
-newtab-pocket-whats-pocket = Ngo ma obedo { -pocket-brand-name }?
 newtab-pocket-cta-button = Nong { -pocket-brand-name }
 newtab-pocket-cta-text = Gwok lok ma imaro ii { -pocket-brand-name }, ka i pik wii ki jami me akwana ma mako wii.
 
