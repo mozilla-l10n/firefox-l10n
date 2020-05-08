@@ -66,10 +66,15 @@ mobile-app-card-content = Mobilny wobglědowak ze zatwarjonym šćitom pśeśiwo
 mobile-app-links = Wobglědowak { -brand-product-name } za <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Njezabywajśo nigda wěcej gronidło
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Zastojanje gronidłow
 lockwise-header-content = { -lockwise-brand-name } waše gronidła we wašom wobglědowaku wěsće składujo.
 lockwise-header-content-logged-in = Składujśo a synchronizěrujśo gronidła za wšykne waše rědy.
 protection-report-view-logins-button = Pśizjawjenja pokazaś
     .title = K skłaźonym pśizjawjenjam
+protection-report-save-passwords-button = Gronidła składowaś
+    .title = Gronidła w { -lockwise-brand-short-name } składowaś
+protection-report-manage-passwords-button = Gronidła zastojaś
+    .title = Gronidła w { -lockwise-brand-short-name } zastojaś
 lockwise-mobile-app-title = Wzejśo swóje gronidła wšuźi sobu
 lockwise-no-logins-card-content = Wužywajśo gronidła, kótarež sćo składł w { -brand-short-name }, na kuždem rěźe.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link"></a>
@@ -83,6 +88,27 @@ lockwise-passwords-stored =
         [few] Wěsće skłaźone gronidła <a data-l10n-name="lockwise-how-it-works">Kak to funkcioněrujo</a>
        *[other] Wěsće skłaźone gronidła <a data-l10n-name="lockwise-how-it-works">Kak to funkcioněrujo</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] { $count } gronidło jo se datowej źěrje wustajiło.
+        [two] { $count } gronidle stej se datowej źěrje wustajiłej.
+        [few] { $count } gronidła su se datowej źěrje wustajili.
+       *[other] { $count } gronidłow jo se datowej źěrje wustajiło.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] { $count } gronidło jo se wěsće składło.
+        [two] { $count } gronidle stej se wěsće składłej.
+        [few] { $count } gronidła su se wěsće składli.
+       *[other] { $count } gronidła jo se wěsće składło.
+    }
+lockwise-how-it-works-link = Kak funkcioněrujo
 turn-on-sync = { -sync-brand-short-name } zmóžniś
     .title = K synchronizěrowańskim nastajenjam
 manage-connected-devices = Rědy rědowaś…
