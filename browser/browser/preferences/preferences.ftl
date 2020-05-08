@@ -247,7 +247,7 @@ download-choose-folder =
            *[other] o
         }
 download-always-ask-where =
-    .label = 파일 저장 위치 항상 묻기
+    .label = 파일을 저장할 위치를 항상 묻기
     .accesskey = A
 applications-header = 응용 프로그램
 applications-description = { -brand-short-name }가 웹에서 다운로드한 파일이나 탐색하는 동안에 사용하는 응용 프로그램을 처리하는 방법을 선택하세요.
