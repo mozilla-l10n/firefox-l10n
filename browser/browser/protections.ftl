@@ -62,10 +62,15 @@ mobile-app-card-content = Utilizza il browser <em>mobile</em> con protezione int
 mobile-app-links = Browser { -brand-product-name } per <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Non dimenticare più le tue password
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Gestione password
 lockwise-header-content = { -lockwise-brand-name } salva le tue password in modo sicuro direttamente nel browser.
 lockwise-header-content-logged-in = Salva le password in modo sicuro e sincronizzale su tutti i tuoi dispositivi.
 protection-report-view-logins-button = Visualizza credenziali
     .title = Vai alle credenziali salvate
+protection-report-save-passwords-button = Salva password
+    .title = Salva password in { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Gestisci password
+    .title = Gestisci password in { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Porta le tue password sempre con te
 lockwise-no-logins-card-content = Utilizza le password salvate in { -brand-short-name } su qualsiasi dispositivo.
 lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -73,6 +78,23 @@ lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-an
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 lockwise-passwords-stored = Password salvate in modo sicuro <a data-l10n-name="lockwise-how-it-works">Come funziona</a>
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 password potrebbe essere stata esposta in una violazione di dati.
+       *[other] { $count } password potrebbero essere state esposte in una violazione di dati.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+  { $count ->
+      [one] 1 password salvata in modo sicuro.
+     *[other] Le tue password sono salvate in modo sicuro.
+  }
+lockwise-how-it-works-link = Come funziona
 turn-on-sync = Attiva { -sync-brand-short-name }…
     .title = Apri le impostazioni di sincronizzazione
 manage-connected-devices = Gestisci dispositivi…
