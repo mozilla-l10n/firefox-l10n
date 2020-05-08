@@ -365,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Ցուցադրել հիշեցումները">
 <!ENTITY calendarproperties.cache3.label                   "Անցանց աջակցություն">
 <!ENTITY calendarproperties.enabled.label                  "Փոխել այս օրացույցը">
+<!ENTITY calendarproperties.enabled2.label                 "Միացնել այս օրացույցը">
 <!ENTITY calendarproperties.forceDisabled.label            "Այս օրացույցի համար մատակարատ չի գտնվել։ Սա պատահում է, եթե Դուք անջատել կամ ապատեղակայել Եք որոշ հավելվածներ։">
 <!ENTITY calendarproperties.unsubscribe.label              "Ապաբաժանորդագրվել">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "U">
