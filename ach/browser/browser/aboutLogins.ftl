@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Yab jami ayera
-# This menuitem is only visible on Windows
-menu-menuitem-import = Kel Mung me donyo…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ter
@@ -70,10 +68,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Loki
 login-item-copied-username-button-text = Kiloko!
 login-item-password-label = Mung me donyo
-login-item-password-reveal-checkbox-show =
-    .title = Nyut mung me donyo
-login-item-password-reveal-checkbox-hide =
-    .title = Kan mung me donyo
 login-item-password-reveal-checkbox =
     .aria-label = Nyut mung me donyo
 login-item-copy-password-button-text = Loki
@@ -84,6 +78,15 @@ login-item-cancel-button = Juki
 login-item-time-changed = Yub me agiki: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Kicweyo: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Tic me agiki: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -109,8 +112,17 @@ confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny w
 
 ## Breach Alert notification
 
-breach-alert-dismiss =
-    .title = Lor ngec man
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Cit i { $hostname }
+about-logins-breach-alert-learn-more-link = Nong ngec mapol
+
+## Vulnerable Password notification
+
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Cit i { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Nong ngec mapol
 
 ## Error Messages
 
