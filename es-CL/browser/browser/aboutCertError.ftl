@@ -6,12 +6,12 @@
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } usa un certificado de seguridad inválido.
 cert-error-mitm-intro = Los sitios web proveen su identidad a través de certificados, los que son emitidos por autoridades certificadoras.
-cert-error-mitm-mozilla = { -brand-short-name } es respaldado por la organización sin fines de lucro Mozilla, la cual administra un almacén de autoridades certificadoras (CA) completamente abierta. El almacén de CA ayuda a asegurar que las autoridades certificadoras sigan las mejores prácticas para la seguridad del usuario.
-cert-error-mitm-connection = { -brand-short-name } usa la tienda CA de Mozilla para verificar que la conexión es segura, en lugar de los certificados suministrados por el sistema operativo del usuario. por ello, si un programa antivirus o una red está interceptando una conexión con un certificado de seguridad emitido por una CA que no está en la tienda de CA de Mozilla, la conexión es considerada como insegura.
-cert-error-trust-unknown-issuer-intro = Alguien podría estar intentando imitar el sitio y tu no debieras continuar.
+cert-error-mitm-mozilla = { -brand-short-name } es respaldado por la organización sin fines de lucro Mozilla, la cual administra un almacén de autoridades certificadoras (CA) completamente abierto. El almacén de CA ayuda a asegurar que las autoridades certificadoras sigan las mejores prácticas para la seguridad del usuario.
+cert-error-mitm-connection = { -brand-short-name } usa el almacén de CA de Mozilla para verificar que la conexión es segura, en lugar de los certificados suministrados por el sistema operativo del usuario. Por ello, si un programa antivirus o una red está interceptando una conexión con un certificado de seguridad emitido por una CA que no está en el almacén de CA de Mozilla, la conexión es considerada como insegura.
+cert-error-trust-unknown-issuer-intro = Alguien podría estar intentando suplantar el sitio y no deberías continuar.
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = Los sitios web prueban su identidad a través de certificados. { -brand-short-name } no confía en { $hostname } porque el emisor del certificado es desconocido, el certificado fue autofirmado, o el servidor no está enviando los certificados intermedios adecuados.
+cert-error-trust-unknown-issuer = Los sitios web prueban su identidad a través de certificados. { -brand-short-name } no confía en { $hostname } porque el emisor del certificado es desconocido, el certificado es autofirmado, o el servidor no está enviando los certificados intermedios adecuados.
 cert-error-trust-cert-invalid = No se confía en el certificado porque fue emitido por un certificado CA no válido.
 cert-error-trust-untrusted-issuer = No se confía en el certificado porque no se confía en el certificado emisor.
 cert-error-trust-signature-algorithm-disabled = No se confía en el certificado porque fue firmado usando un algoritmo de firma que fue desactivado por no ser seguro.
