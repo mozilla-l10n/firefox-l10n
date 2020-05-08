@@ -48,7 +48,6 @@ login-list-count =
 login-list-sort-label-text = Поређај по:
 login-list-name-option = Назив (А-Ш)
 login-list-name-reverse-option = Име (А-Ш)
-login-list-breached-option = Веб странице на којима долази до цурења података
 about-logins-login-list-alerts-option = Упозорења
 login-list-last-changed-option = Последња измена
 login-list-last-used-option = Последњи пут коришћено
@@ -72,6 +71,7 @@ login-intro-description = Уколико сте пријаве сачували 
 login-intro-instruction-fxa = Направите или се пријавите на ваш { -fxaccount-brand-name } налог, на уређају где су ваше пријаве сачуване
 login-intro-instruction-fxa-settings = Уверите се да сте штиклирали „Пријаве“ { -sync-brand-short-name } подешавањима
 about-logins-intro-instruction-help = Посетите <a data-l10n-name="help-link">страницу подршке за { -lockwise-brand-short-name }</a>
+about-logins-intro-import = Ако су ваше пријаве сачуване у другом прегледачу, можете да их <a data-l10n-name="import-link">увезете у { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -106,6 +106,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Потврдите ваш идентитет да уредите сачувану пријаву.
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = уредите сачувану пријаву
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = Потврдите ваш идентитет да откријете сачувану лозинку.
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = откријте сачувану лозинку
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Потврдите ваш идентитет да копирате сачувану лозинку.
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = копирајте сачувану лозинку
 
 ## Master Password notification
 
@@ -137,17 +152,22 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
+about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња је неопозива.
+about-logins-confirm-remove-dialog-confirm-button = Уклони
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Страница која цури податке
 breach-alert-text = Лозинке на овој веб страници су украдене или јавно објављене од последњег пута када сте ажурирали податке за пријаву. Промените лозинку да бисте заштитили свој налог.
-breach-alert-link = Сазнајте више о овом проблему
-breach-alert-dismiss =
-    .title = Затворите ово упозорење
+about-logins-breach-alert-date = Ово цурење података се десило { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Идите на { $hostname }
+about-logins-breach-alert-learn-more-link = Сазнајте више
 
 ## Vulnerable Password notification
 
