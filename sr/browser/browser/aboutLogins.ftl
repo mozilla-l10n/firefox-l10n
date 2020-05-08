@@ -171,6 +171,12 @@ about-logins-breach-alert-learn-more-link = Сазнајте више
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Рањива лозинка
+about-logins-vulnerable-alert-text2 = Ова се лозинка већ користи за налог вероватно угрожен цурењем података. Поновна употреба акредитива доводи у ризик све ваше налоге. Промените ову лозинку.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Идите на { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Сазнајте више
 
 ## Error Messages
 
