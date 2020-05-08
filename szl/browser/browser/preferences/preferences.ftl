@@ -132,6 +132,46 @@ is-not-default = { -brand-short-name } to niy ma twoja bazowo przeglōndarka
 set-as-my-default-browser =
     .label = Nasztaluj za bazowo…
     .accesskey = B
+startup-restore-previous-session =
+    .label = Wrōć ôstatnio sesyjo
+    .accesskey = s
+startup-restore-warn-on-quit =
+    .label = Dej znać przi wyłażyniu z przeglōndarki
+disable-extension =
+    .label = Wyłōncz rozszyrzynie
+tabs-group-header = Karty
+ctrl-tab-recently-used-order =
+    .label = Skrōt Ctrl+Tab przełōnczo karty we raji ôd ôstatnio używanych
+    .accesskey = T
+open-new-link-as-tabs =
+    .label = Ôtwiyrej linki w kartach, a niy we nowych ôknach
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = Dej znać przi zawiyraniu mocki kart
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = Dej znać, jak ôtwarcie mocki kart może spōmalić { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = Jak ôtwiyrosz link w nowyj karcie, to zaroz sie na nia przełōncz
+    .accesskey = k
+show-tabs-in-taskbar =
+    .label = Pokazuj podglōnd kart na posku zadań Windows
+    .accesskey = o
+browser-containers-enabled =
+    .label = Załōncz kōntynerowo karta
+    .accesskey = n
+browser-containers-learn-more = Przewiydz sie wiyncyj
+browser-containers-settings =
+    .label = Nasztalowania…
+    .accesskey = i
+containers-disable-alert-title = Zawrzić wszyskie kōntynerowe karty?
+containers-disable-alert-desc =
+    { $tabCount ->
+        [one] Jak teroz zastawisz kōntynerowe karty, { $tabCount } tako karta sie zawrze. Na zicher chcesz zastawić kōntynerowe karty?
+        [few] Jak teroz zastawisz kōntynerowe karty, { $tabCount } takie karty sie zawrzōm. Na zicher chcesz zastawić kōntynerowe karty?
+       *[many] Jak teroz zastawisz kōntynerowe karty, { $tabCount } takich kart sie zawrze. Na zicher chcesz zastawić kōntynerowe karty?
+    }
 
 ## General Section - Language & Appearance
 
