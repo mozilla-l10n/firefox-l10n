@@ -62,10 +62,15 @@ mobile-app-card-content = Seqdec iminig aziraz s ummesten usliɣ mgal aḍfaṛ 
 mobile-app-links = Iminig { -brand-product-name }  i <a data-l10n-name="android-mobile-inline-link">Android</a> akked <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ur sṛuḥuy ara awalen-ik uffiren
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Asefrek n wawal uffir
 lockwise-header-content = { -lockwise-brand-name } iseklas awalen uffiren-ik deg iminig-ik s wudem aɣelsan.
 lockwise-header-content-logged-in = Sekles daɣen mtawi awalen-ik uffiren ɣef yibenkan-ik meṛṛa s wudem aɣelsan.
 protection-report-view-logins-button = Sken-d tuqniwin
     .title = Ddu ɣer inekcumen yettwakelse
+protection-report-save-passwords-button = Sekles awalen uffiren
+    .title = Sekles awalen uffiren deg { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Sefrek awalen uffiren
+    .title = Sefrek awalen uffiren deg { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Awi awalen uffiren anda teddiḍ
 lockwise-no-logins-card-content = Seqdec awalen uffiren yettwaskelsen deg  { -brand-short-name } deg yal ibenk.
 lockwise-app-links = { -lockwise-brand-name } i <a data-l10n-name="lockwise-android-inline-link">Android</a> akked <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +82,16 @@ lockwise-passwords-stored =
         [one] Awal uffir yettwakles s wudem aɣelsan <a data-l10n-name="lockwise-how-it-works"> Amek iteddu</a>
        *[other] Awalen uffiren ttwakelsen s wudem aɣelsan <a data-l10n-name="lockwise-how-it-works"> Amek iteddu</a>
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 awal-ik uffir yettwakles s wudem aɣelsan.
+       *[other] Awalen-ik uffiren ttwakelsen s wudem aɣelsan.
+    }
+lockwise-how-it-works-link = Amek itteddu
 turn-on-sync = Rmed { -sync-brand-short-name }...
     .title = Ldi ismenyifen n umtawi
 manage-connected-devices = Sefrek ibenkan…
