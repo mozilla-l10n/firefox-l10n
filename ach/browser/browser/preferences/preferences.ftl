@@ -591,6 +591,9 @@ prefs-sync-setup =
 sync-currently-syncing-bookmarks = Alamabuk
 sync-currently-syncing-history = Gin mukato
 sync-currently-syncing-addons = Med-ikome
+sync-change-options =
+    .label = Loki...
+    .accesskey = L
 
 ## The "Choose what to sync" dialog.
 
@@ -682,6 +685,7 @@ forms-master-pw-fips-desc = Loko mung me donyo Pe olare
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -815,6 +819,9 @@ permissions-location = Kabedo
 permissions-location-settings =
     .label = Ter…
     .accesskey = t
+permissions-xr-settings =
+    .label = Ter…
+    .accesskey = e
 permissions-camera = Lamak cal
 permissions-camera-settings =
     .label = Ter…
