@@ -22,7 +22,6 @@ address-input-type-aria-label =
     { $count ->
         [0] { $type }
         [one] { $type } з однією адресою. Використовуйте кнопку стрілки вліво для фокусування.
-        [few] { $type } з { $count } адресами. Використовуйте кнопку стрілки вліво для фокусування.
        *[other] { $type } з { $count } адресами. Використовуйте кнопку стрілки вліво для фокусування.
     }
 #   $email (String) - the email address
@@ -30,7 +29,6 @@ address-input-type-aria-label =
 pill-aria-label =
     { $count ->
         [one] { $email }: натисніть Enter для редагування, видалення, Delete для вилучення.
-        [few] { $email }, 1 з { $count }:  натисніть Enter для редагування, видалення, Delete для вилучення.
        *[other] { $email }, 1 з { $count }:  натисніть Enter для редагування, видалення, Delete для вилучення.
     }
 pill-action-edit =
