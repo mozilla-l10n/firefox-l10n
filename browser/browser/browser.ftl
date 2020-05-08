@@ -222,3 +222,7 @@ popup-select-microphone =
     .value = Mikrofon, kótaryž ma se gromaźe wužywaś:
     .accesskey = M
 popup-all-windows-shared = Wšykne widobne wokna na wašej wobrazowce budu se źěliś.
+
+## DevTools F12 popup
+
+enable-devtools-popup-description = Aby tastu F12 wužywał, wócyńśo nejpjerwjej DevTools pśez meni Webwuwijaŕ.
