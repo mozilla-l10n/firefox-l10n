@@ -82,6 +82,13 @@ lockwise-passwords-stored =
         [one] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
        *[other] Passord lagret sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 passord kan ha blitt eksponert i en datalekkasje.
+       *[other] { $count } passord kan ha blitt eksponert i en datalekkasje.
+    }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
