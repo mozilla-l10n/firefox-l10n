@@ -62,10 +62,15 @@ mobile-app-card-content = Használja a beépített hirdetéskövetés elleni vé
 mobile-app-links = { -brand-product-name } Böngésző <a data-l10n-name="android-mobile-inline-link">Androidra</a> és <a data-l10n-name="ios-mobile-inline-link">iOS-re</a>
 lockwise-title = Ne felejtsen el egyetlen jelszót sem
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Jelszókezelés
 lockwise-header-content = A { -lockwise-brand-name } biztonságosan tárolja a jelszavait a böngészőjében.
 lockwise-header-content-logged-in = Tárolja biztonságosan, és szinkronizálja a jelszavait az összes eszközén.
 protection-report-view-logins-button = Bejelentkezések megtekintése
     .title = Ugrás a mentett bejelentkezésekhez
+protection-report-save-passwords-button = Jelszavak mentése
+    .title = Jelszavak mentése ezzel: { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Jelszavak kezelése
+    .title = Jelszavak kezelése ezzel: { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Vigye magával a jelszavait bárhová
 lockwise-no-logins-card-content = Használja a { -brand-short-name }ban mentett jelszavait bármely eszközön.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Androidra</a> és <a data-l10n-name="lockwise-ios-inline-link">iOS-re</a>
@@ -77,6 +82,23 @@ lockwise-passwords-stored =
         [one] Jelszó biztonságosan tárolva <a data-l10n-name="lockwise-how-it-works">Hogyan működik</a>
        *[other] Jelszavak biztonságosan tárolva <a data-l10n-name="lockwise-how-it-works">Hogyan működik</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 jelszó adatsértésben lehet érintett.
+       *[other] { $count } jelszó adatsértésben lehet érintett.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 jelszó biztonságosan tárolva.
+       *[other] Jelszavait biztonságosan tárolja.
+    }
+lockwise-how-it-works-link = Hogyan működik
 turn-on-sync = { -sync-brand-short-name } bekapcsolása…
     .title = Ugrás a szinkronizálási beállításokhoz
 manage-connected-devices = Eszközök kezelése…
