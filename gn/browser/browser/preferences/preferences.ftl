@@ -309,6 +309,8 @@ applications-use-plugin-in =
     .label = { $plugin-name } jepuru ({ -brand-short-name }-pe)
 applications-preview-inapp =
     .label = { -brand-short-name }-pe jehecha'ypy
+applications-open-inapp =
+    .label = Ijurujáva { -brand-short-name }-pe
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
