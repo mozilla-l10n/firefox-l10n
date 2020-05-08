@@ -172,9 +172,68 @@ containers-disable-alert-desc =
         [few] Jak teroz zastawisz kōntynerowe karty, { $tabCount } takie karty sie zawrzōm. Na zicher chcesz zastawić kōntynerowe karty?
        *[many] Jak teroz zastawisz kōntynerowe karty, { $tabCount } takich kart sie zawrze. Na zicher chcesz zastawić kōntynerowe karty?
     }
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] Zawrzij { $tabCount } kōntynerowo karta
+        [few] Zawrzij { $tabCount } kōntynerowe karty
+       *[many] Zawrzij { $tabCount } kōntynerowych kart
+    }
+containers-disable-alert-cancel-button = Ôstow załōnczōne
+containers-remove-alert-title = Wyciepać tyn kōntyner?
+# Variables:
+#   $count (Number) - Number of tabs that will be closed.
+containers-remove-alert-msg =
+    { $count ->
+        [one] Jak teroz wyciepniesz tyn kōntyner, { $count } kōntynerowo karta sie zawrze. Na zicher chcesz wyciepać tyn kōntyner?
+        [few] Jak teroz wyciepniesz tyn kōntyner, { $count } kōntynerowe karty sie zawrzōm. Na zicher chcesz wyciepać tyn kōntyner?
+       *[many] Jak teroz wyciepniesz tyn kōntyner, { $count } kōntynerowych kart sie zawrze. Na zicher chcesz wyciepać tyn kōntyner?
+    }
+containers-remove-ok-button = Wyciep tyn kōntyner
+containers-remove-cancel-button = Niy wyciepuj tego kōntynera
 
 ## General Section - Language & Appearance
 
+language-and-appearance-header = Godki i wyglōnd
+fonts-and-colors-header = Fonty i farby
+default-font = Bazowy fōnt
+    .accesskey = B
+default-font-size = Srogość
+    .accesskey = S
+advanced-fonts =
+    .label = Rozszyrzōne…
+    .accesskey = R
+colors-settings =
+    .label = Farby…
+    .accesskey = F
+# Zoom is a noun, and the message is used as header for a group of options
+preferences-zoom-header = Zwiynkszanie
+preferences-default-zoom = Bazowe zwiynkszynie
+    .accesskey = z
+preferences-default-zoom-value =
+    .label = { $percentage }%
+preferences-zoom-text-only =
+    .label = Zwiynkszej ino tekst
+    .accesskey = t
+language-header = Godka
+choose-language-description = Ôbier godka do pokazowanio strōn
+choose-button =
+    .label = Ôbier…
+    .accesskey = o
+choose-browser-language-description = Ôbier godka do pokazowanio myni, wiadōmości i powiadōmiyń z aplikacyje { -brand-short-name }.
+manage-browser-languages-button =
+    .label = Ôbier alternatywne…
+    .accesskey = l
+confirm-browser-language-change-description = Zresztartuj  aplikacyjo { -brand-short-name }, coby wkludzić te zmiany
+confirm-browser-language-change-button = Wkludź i resztartuj
+translate-web-pages =
+    .label = Przekłodanie strōn
+    .accesskey = P
+# The <img> element is replaced by the logo of the provider
+# used to provide machine translations for web pages.
+translate-attribution = Przekłady ôd <img data-l10n-name="logo"/>
+translate-exceptions =
+    .label = Wyjōntki…
+    .accesskey = W
 
 ## General Section - Files and Applications
 
