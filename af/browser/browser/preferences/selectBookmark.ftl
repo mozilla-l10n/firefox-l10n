@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = As tuisblad
     .style = width: 32em;
+
 select-bookmark-desc = Kies 'n boekmerk om te gebruik as u tuisblad. As u 'n vouer kies, sal die boekmerke in daardie vouer geopen word in oortjies.

@@ -10,6 +10,7 @@
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hoekom sien ek die
+
 cfr-doorhanger-extension-cancel-button = Nie nou nie
     .accesskey = N
 
@@ -29,6 +30,8 @@ cfr-doorhanger-extension-cancel-button = Nie nou nie
 
 ## What's New toolbar button and panel
 
+
+## Search Bar
 
 ## Picture-in-Picture
 
@@ -55,4 +58,12 @@ cfr-doorhanger-extension-cancel-button = Nie nou nie
 
 
 ## Enhanced Tracking Protection Milestones
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
 

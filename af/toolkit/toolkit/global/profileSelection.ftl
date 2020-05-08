@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Kies gebruikerprofiel
+
 profile-selection-button-accept =
     .label = Laat loop { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Afsluit
+
 profile-selection-new-button =
     .label = Skep profiel…
     .accesskey = S
+
 profile-selection-rename-button =
     .label = Hernoem profiel…
     .accesskey = H
+
 profile-selection-delete-button =
     .label = Skrap profiel…
     .accesskey = S
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } stoor inligting oor u opstelling, voorkeure, en ander gebruikeritems in u gebruikerprofiel.
+
 profile-manager-work-offline =
     .label = Werk vanlyn
     .accesskey = e
+
 profile-manager-use-selected =
     .label = Gebruik die gekose profiel sonder om te vra by aanvang
     .accesskey = s

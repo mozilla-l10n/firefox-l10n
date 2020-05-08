@@ -4,142 +4,171 @@
 
 certmgr-title =
     .title = Sertifikaatbestuurder
+
 certmgr-tab-mine =
     .label = U sertifikate
+
 certmgr-tab-people =
     .label = Mense
+
 certmgr-tab-servers =
     .label = Bedieners
+
 certmgr-tab-ca =
     .label = Owerhede
+
 certmgr-detail-general-tab-title =
     .label = Algemeen
     .accesskey = A
+
 certmgr-detail-pretty-print-tab-title =
     .label = Besonderhede
     .accesskey = B
+
 certmgr-pending-label =
     .value = Verifieer tans sertifikaat…
-certmgr-subject-info-label =
-    .value = Uitgereik aan
-certmgr-issuer-info-label =
-    .value = Uitgereik deur
-certmgr-period-of-validity-label =
-    .value = Geldige periode
-certmgr-fingerprints-label =
-    .value = Vingerafdrukke
+
 certmgr-subject-label = Uitgereik aan
+
 certmgr-issuer-label = Uitgereik deur
+
 certmgr-period-of-validity = Geldige periode
+
 certmgr-fingerprints = Vingerafdrukke
+
 certmgr-cert-detail =
     .title = Sertifikaatbesonderhede
     .buttonlabelaccept = Sluit
     .buttonaccesskeyaccept = S
-certmgr-cert-detail-cn =
-    .value = Gebruiklike naam (CN)
-certmgr-cert-detail-o =
-    .value = Organisasie (O)
-certmgr-cert-detail-ou =
-    .value = Organisasie-eenheid (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Reeksnommer
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA-256-vingerafdruk
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1-vingerafdruk
+
 certmgr-cert-detail-commonname = Gebruiklike naam (CN)
+
 certmgr-cert-detail-org = Organisasie (O)
+
 certmgr-cert-detail-orgunit = Organisasie-eenheid (OU)
+
 certmgr-cert-detail-serial-number = Reeksnommer
+
 certmgr-cert-detail-sha-256-fingerprint = SHA-256-vingerafdruk
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1-vingerafdruk
+
 certmgr-edit-ca-cert =
     .title = Redigeer SO-sertifikaatvertroueopstelling
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Redigeer vertroueopstelling:
+
 certmgr-edit-cert-trust-ssl =
     .label = Hierdie sertifikaat kan webwerwe identifiseer.
+
 certmgr-edit-cert-trust-email =
     .label = Hierdie sertifikaat kan e-posgebruikers identifiseer.
+
 certmgr-delete-cert =
     .title = Skrap sertifikaat
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Naam van sertifikaat
+
 certmgr-cert-server =
     .label = Bediener
+
 certmgr-override-lifetime =
     .label = Lewensduur
+
 certmgr-token-name =
     .label = Sekuriteitstoestel
+
 certmgr-begins-on = Begin op
+
 certmgr-begins-label =
     .label = Begin op
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Verval op
+
 certmgr-expires-label =
     .label = Verval op
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = E-posadres
+
 certmgr-serial =
     .label = Reeksnommer
+
 certmgr-view =
     .label = Bekyk…
     .accesskey = B
+
 certmgr-edit =
     .label = Redigeer vertroue…
     .accesskey = R
+
 certmgr-export =
     .label = Uitvoer…
     .accesskey = i
+
 certmgr-delete =
     .label = Skrap…
     .accesskey = S
+
 certmgr-delete-builtin =
     .label = Skrap of wantrou…
     .accesskey = S
+
 certmgr-backup =
     .label = Rugsteun…
     .accesskey = R
+
 certmgr-backup-all =
     .label = Rugsteun alles…
     .accesskey = s
+
 certmgr-restore =
     .label = Invoer…
     .accesskey = n
+
 certmgr-details =
     .value = Sertifikaatvelde
     .accesskey = v
+
 certmgr-fields =
     .value = Veldwaarde
     .accesskey = V
+
 certmgr-hierarchy =
     .value = Sertifikaathiërargie
     .accesskey = h
+
 certmgr-add-exception =
     .label = Voeg uitsondering by…
     .accesskey = u
+
 exception-mgr =
     .title = Voeg sekuriteituitsondering by
+
 exception-mgr-extra-button =
     .label = Bevestig sekuriteituitsondering
     .accesskey = B
+
 exception-mgr-supplemental-warning = Legitieme banke, winkels en ander publieke werwe sal u nie vra om dit te doen nie.
+
 exception-mgr-cert-location-url =
     .value = Ligging:
+
 exception-mgr-cert-location-download =
     .label = Kry sertifikaat
     .accesskey = S
+
 exception-mgr-cert-status-view-cert =
     .label = Bekyk…
     .accesskey = B
+
 exception-mgr-permanent =
     .label = Stoor hierdie uitsondering permanent
     .accesskey = S
+
 pk11-bad-password = Die wagwoord wat ingetik is, is verkeerd.
 pkcs12-decode-err = Kon nie die lêer dekodeer nie.  Dit is óf nie in PKCS #12-formaat nie, óf gekorrumpeer, óf die wagwoord wat ingetik is, is nie korrek nie.
 pkcs12-unknown-err-restore = Kon om onbekende redes nie die PKCS #12-lêer terugkopieer nie.
@@ -172,18 +201,24 @@ delete-user-cert-title =
     .title = Skrap u sertifikate
 delete-user-cert-confirm = Wil u definitief hierdie sertifikate skrap?
 delete-user-cert-impact = As u een van u eie sertifikate skrap, kan u dit nie meer gebruik om uself te identifiseer nie.
+
+
 delete-ssl-cert-title =
     .title = Skrap bedienersertifikaat-uitsonderings
 delete-ssl-cert-confirm = Wil u definitief hierdie bedieneruitsonderings skrap?
 delete-ssl-cert-impact = Indien u 'n bedieneruitsondering skrap, sal dit die gewone sekuriteitstoetse vir daardie bediener teruglaai en vereis dat dit 'n geldige sertifikaat gebruik.
+
 delete-ca-cert-title =
     .title = Skrap of wantrou nie meer SO-sertifikate
 delete-ca-cert-confirm = U het versoek dat hierdie SO-sertifikate geskrap word. Vir ingeboude sertifikate sal alle vertroue verwyder word, wat dieselfde uitwerking het. Wil u definitief skrap of wantrou?
 delete-ca-cert-impact = As jy 'n sertifikaatowerheid- (SO) sertifikaat skrap of wantrou, sal hierdie toepassing nie meer enige sertifikate vertrou wat deur daardie SO uitgereik word nie.
+
+
 delete-email-cert-title =
     .title = Skrap e-possertifikate
 delete-email-cert-confirm = Wil u definitief hierdie persone se e-possertifikate skrap?
 delete-email-cert-impact = Indien u 'n persoon e-possertifikaat skrap, sal u nie meer geënkripteerde e-pos aan daardie mense kan stuur nie.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -199,21 +234,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Sertifikaatkyker: “{ $certName }”
+
 not-present =
     .value = <Nie deel van sertifikaat nie>
+
 # Cert verification
 cert-verified = Hierdie sertifikaat is vir die volgende gebruike gestaaf:
+
 # Add usage
 verify-ssl-client =
     .value = SSL-kliëntsertifikaat
+
 verify-ssl-server =
     .value = SSL-bedienersertifikaat
+
 verify-ssl-ca =
     .value = SSL-sertifikaatowerheid
+
 verify-email-signer =
     .value = E-posondertekenaar-sertifikaat
+
 verify-email-recip =
     .value = E-posontvanger-sertifikaat
+
 # Cert verification
 cert-not-verified-cert-revoked = Die sertifikaat kon nie gestaaf word nie omdat dit opgehef is.
 cert-not-verified-cert-expired = Die sertifikaat kon nie gestaaf word nie omdat dit verval het.

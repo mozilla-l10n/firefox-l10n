@@ -4,6 +4,7 @@
 
 containers-name-text =
     .placeholder = Tik 'n konteksnaam
+
 containers-color-blue =
     .label = Blou
 containers-color-turquoise =
@@ -20,6 +21,7 @@ containers-color-pink =
     .label = Pienk
 containers-color-purple =
     .label = Pers
+
 containers-icon-fingerprint =
     .label = Vingerafdruk
 containers-icon-briefcase =

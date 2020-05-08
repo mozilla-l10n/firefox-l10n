@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Vind die volgende voorkoms van die frase
 findbar-previous =
     .tooltiptext = Vind die vorige voorkoms van die frase
+
 findbar-find-button-close =
     .tooltiptext = Sluit soekbalk
-findbar-highlight-all =
-    .label = Verlig almal
-    .accesskey = a
-    .tooltiptext = Verlig alle voorkomste van die frase
+
 findbar-case-sensitive =
     .label = Kassensitief
     .accesskey = s
     .tooltiptext = Soek met in inagneming van hoof- en kleinletters
+
 findbar-entire-word =
     .label = Hele woorde
     .accesskey = w

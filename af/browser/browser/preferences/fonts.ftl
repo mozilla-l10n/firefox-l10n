@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonte
+
 fonts-window-close =
     .key = w
 
@@ -75,8 +76,10 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
+
 fonts-minsize-none =
     .label = Geen
+
 fonts-allow-own =
     .label = Laat bladsye toe om hul eie fonte te kies in plaas van die keuses hierbo
     .accesskey = L
@@ -88,6 +91,7 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Teksenkodering vir ou inhoud
 fonts-languages-fallback-desc = Dié teksenkodering word gebruik vir ou inhoud wat nié 'n enkodering verklaar nie.
+
 fonts-languages-fallback-name-auto =
     .label = Verstek vir huidige lokaliteitinstelling
 fonts-languages-fallback-name-arabic =
@@ -120,9 +124,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Viëtnamees
 fonts-languages-fallback-name-other =
     .label = Ander (insluitend Wes-Europees)
-fonts-very-large-warning-title = Groot minimumgrootte vir teks
-fonts-very-large-warning-message = Die teks se minimumgrootte wat u gekies het, is baie groot (meer as 24 beeldpunte). Dit sal dit dalk moeilik of onmoontlik maak om sekere belangrike bladsye met instellings te gebruik, soos hierdie een.
-fonts-very-large-warning-accept = Hou my veranderinge in elk geval
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

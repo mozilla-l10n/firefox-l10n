@@ -8,7 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Belangrike nuus
+
 resources = Hulpbronne:
+
 sync-input =
     .placeholder = E-pos
 sync-button = Gaan voort

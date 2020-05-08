@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Hulp"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct2.label      "Aangaande &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName;-hulp">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "H">
 <!ENTITY helpSafeMode.stop.label       "Herbegin met byvoegings geaktiveer">
 <!ENTITY helpSafeMode.stop.accesskey   "r">
-
-<!ENTITY healthReport2.label      "&brandShorterName;-gesondheidsverslag">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Inligting vir probleemoplossing">
 <!ENTITY helpTroubleshootingInfo.accesskey  "p">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Wys alle">
+

@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Ontdoen sluit van oortjie
+
 all-tabs-menu-new-user-context =
     .label = Nuwe konteksoortjie
+

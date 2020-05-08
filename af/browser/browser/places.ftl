@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Open in nuwe private venster
     .accesskey = p
+
 places-new-bookmark =
     .label = Nuwe boekmerk…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nuwe skeier
     .accesskey = s
+
 places-view =
     .label = Bekyk
     .accesskey = k
@@ -47,6 +49,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Volgens datum en werf
     .accesskey = a
+
 places-delete-domain-data =
     .label = Vergeet van hierdie werf
     .accesskey = V

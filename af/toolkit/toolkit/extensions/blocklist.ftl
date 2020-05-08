@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Herbegin { -brand-short-name }
     .accesskey = H
+
 blocklist-label-summary = { -brand-short-name } het bepaal dat die volgende byvoegings daarvoor bekend is dat dit stabiliteit- of sekuriteitsprobleme het:
 blocklist-soft-and-hard = Die byvoegings met 'n hoë risiko van stabiliteit- of sekuriteitprobleme is geblokkeer. Die ander het 'n laer risiko, maar daar word aanbeveel dat u hebegin, met hulle gedeaktiveer.
 blocklist-hard-blocked = Hierdie byvoegings dra 'n hoë risiko van stabiliteit- of sekuriteitprobleme, en is geblokkeer, maar u moet nog herbegin om dit volledig te deaktiveer.
 blocklist-soft-blocked = Vir u beskerming word dit ernstig aanbeveel dat u weer begin, met hierdie byvoegings gedeaktiveer.
 blocklist-more-information =
     .value = Meer inligting
+
 blocklist-blocked =
     .label = Geblokkeer
 blocklist-checkbox =

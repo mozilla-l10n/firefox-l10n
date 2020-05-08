@@ -19,6 +19,7 @@ open-location = Soek of tik adres in
 share = Deel
 close-window = Sluit venster
 open-sidebar = Kantstawe
+
 # This string describes shortcuts for search.
 search-popover = Soek kortpaaie
 # Describes searches limited to a specific scope

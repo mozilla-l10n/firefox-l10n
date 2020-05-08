@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Bladsylaaifout">
 <!ENTITY retry.label "Probeer weer">
+
 <!-- Specific error messages -->
 
 
@@ -86,3 +87,4 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> gebruik verouderde sekuriteittegnologie en is kwesbaar vir aanvalle. 'n Aanvaller kan maklik inligting bekom wat mens sou dink veilig was. Die webwerfadministrateur sal die bediener eers moet regmaak voordat die werf besoek kan word.</p><p>Foutkode: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
