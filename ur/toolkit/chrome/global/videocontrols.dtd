@@ -15,6 +15,7 @@
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "پکچر-ان-پکچر">
 
 <!ENTITY stats.media "میڈیا">
 <!ENTITY stats.size "سائز">
@@ -36,6 +37,7 @@ the Picture-in-Picture video toggle button when the mouse is hovering it. -->
 <!ENTITY error.noSource2 "معاونت شدہ وضع اور MIME قسم کی کوئی وڈیو نہیں ملی۔">
 <!ENTITY error.generic "وڈیو پلے بیک نامعلوم نقص کی وجی سے ساقط کر دیا گیا۔">
 
+<!ENTITY status.pictureInPicture "یہ ویڈیو پکچر ان پکچر موڈ میں چل رہی ہے۔">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
