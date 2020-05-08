@@ -97,6 +97,18 @@ lockwise-scanned-text-breached-logins =
         [few] { $count } hesła su so datowej dźěrje wustajili.
        *[other] { $count } hesłow je so datowej dźěrje wustajiło.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] { $count } hesło je so wěsće składowało.
+        [two] { $count } hesle stej so wěsće składowałoj.
+        [few] { $count } hesła su so wěsće składowali.
+       *[other] { $count } hesłow je so wěsće składowało.
+    }
+lockwise-how-it-works-link = Kak funguje
 turn-on-sync = { -sync-brand-short-name } zmóžnić
     .title = K synchronizowanskim nastajenjam
 manage-connected-devices = Graty rjadować…
