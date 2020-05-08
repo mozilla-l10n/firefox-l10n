@@ -28,8 +28,8 @@ address-input-type-aria-label =
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
     { $count ->
-        [one] { $email }: натисніть Enter для редагування, видалення, Delete для вилучення.
-       *[other] { $email }, 1 з { $count }:  натисніть Enter для редагування, видалення, Delete для вилучення.
+        [one] { $email }: натисніть Enter для редагування, Delete для вилучення.
+       *[other] { $email }, 1 з { $count }: натисніть Enter для редагування, Delete для вилучення.
     }
 pill-action-edit =
     .label = Змінити адресу
