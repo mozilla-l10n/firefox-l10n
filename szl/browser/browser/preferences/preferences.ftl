@@ -358,6 +358,12 @@ update-application-allow-description = Przizwōl aplikacyji { -brand-short-name 
 update-application-auto =
     .label = Autōmatycznie insztalować aktualizacyje (rykōmyndowane)
     .accesskey = A
+update-application-check-choose =
+    .label = Szukać za aktualizacyjami, ale pytać cie, jeźli je zainsztalujesz
+    .accesskey = S
+update-application-manual =
+    .label = Żodyn roz niy szukać za aktualizacyjami (niyrykōmyndowane)
+    .accesskey = N
 
 ## General Section - Performance
 
