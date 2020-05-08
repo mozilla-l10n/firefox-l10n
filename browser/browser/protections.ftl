@@ -60,10 +60,15 @@ mobile-app-card-content = 使用内置广告跟踪保护的移动浏览器。
 mobile-app-links = { -brand-product-name } 浏览器 <a data-l10n-name="android-mobile-inline-link">Android</a> 与 <a data-l10n-name="ios-mobile-inline-link">iOS</a> 版
 lockwise-title = 密码不怕再忘
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = 密码管理
 lockwise-header-content = { -lockwise-brand-name } 能将您的密码安全地存储在浏览器中。
 lockwise-header-content-logged-in = 安全地存储密码，并同步到您的所有设备中。
 protection-report-view-logins-button = 查看登录信息
     .title = 前往已存登录信息
+protection-report-save-passwords-button = 保存密码
+    .title = 将密码保存到 { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = 管理密码
+    .title = 用 { -lockwise-brand-short-name } 管理密码
 lockwise-mobile-app-title = 密码随身带着走
 lockwise-no-logins-card-content = 在所有设备上使用 { -brand-short-name } 中存放的密码。
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 与 <a data-l10n-name="lockwise-ios-inline-link">iOS</a> 版 { -lockwise-brand-name }
@@ -74,6 +79,21 @@ lockwise-passwords-stored =
     { $count ->
        *[other] 密码正安全存放 <a data-l10n-name="lockwise-how-it-works">工作原理</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+       *[other] 有 { $count } 个密码可能在数据外泄事件中泄露。
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+       *[other] 您的 { $count } 个密码皆已安全存放。
+    }
+lockwise-how-it-works-link = 工作原理
 turn-on-sync = 开启{ -sync-brand-short-name }…
     .title = 前往“同步”首选项
 manage-connected-devices = 管理设备…
