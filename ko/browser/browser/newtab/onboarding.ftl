@@ -104,7 +104,7 @@ onboarding-fxa-title = Sync
 onboarding-fxa-text = { -fxaccount-brand-name }에 가입해 { -brand-short-name }를 사용하는 모든 곳에서 북마크, 비밀번호, 열린 탭들을 동기화하세요.
 onboarding-tracking-protection-title2 = 추적으로부터의 보호
 onboarding-tracking-protection-text2 = { -brand-short-name }는 웹 사이트가 온라인에서 사용자를 추적하는 것을 막아, 광고가 웹에서 사용자를 따라 다니는 것을 어렵게 만듭니다.
-onboarding-tracking-protection-button2 = 작동 원리
+onboarding-tracking-protection-button2 = 작동 방식
 onboarding-data-sync-title = 설정을 항상 유지하기
 # "Sync" is short for synchronize.
 onboarding-data-sync-text2 = { -brand-product-name }를 사용하는 모든 곳에서 북마크, 비밀번호 등을 동기화하세요.

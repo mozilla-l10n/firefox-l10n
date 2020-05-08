@@ -64,6 +64,10 @@ lockwise-header-content = { -lockwise-brand-name }은 비밀번호를 브라우�
 lockwise-header-content-logged-in = 비밀번호를 모든 기기에 안전하게 저장하고 동기화합니다.
 protection-report-view-logins-button = 로그인 보기
     .title = 저장된 로그인으로 이동
+protection-report-save-passwords-button = 비밀번호 저장
+    .title = { -lockwise-brand-short-name }에 비밀번호 저장
+protection-report-manage-passwords-button = 비밀번호 관리
+    .title = { -lockwise-brand-short-name }에서 비밀번호 관리
 lockwise-mobile-app-title = 어디에서나 비밀번호를 사용하세요
 lockwise-no-logins-card-content = 모든 기기에서 { -brand-short-name }에 저장된 비밀번호를 사용하세요.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> 및 <a data-l10n-name="lockwise-ios-inline-link">iOS</a>용 { -lockwise-brand-name }
@@ -74,6 +78,7 @@ lockwise-passwords-stored =
     { $count ->
        *[other] 비밀번호가 안전하게 저장됨 <a data-l10n-name="lockwise-how-it-works">작동원리</a>
     }
+lockwise-how-it-works-link = 작동 방식
 turn-on-sync = { -sync-brand-short-name } 켜기…
     .title = Sync 설정으로 가기
 manage-connected-devices = 기기 관리…
@@ -84,7 +89,7 @@ lockwise-connected-device-status =
        *[other] { $count } 기기에 연결됨
     }
 monitor-title = 데이터 유출에 주의하세요
-monitor-link = 작동 원리
+monitor-link = 작동 방식
 monitor-header-content-no-account = { -monitor-brand-name }를 확인하여 사용자가 알려진 데이터 유출 사건의 피해자인지 확인하고 새로운 유출에 대한 알림을 받습니다.
 monitor-header-content-signed-in = 알려진 데이터 유출 사건에 사용의 정보가 있으면 { -monitor-brand-name }가 경고합니다.
 monitor-sign-up = 유출 알림 가입하기
