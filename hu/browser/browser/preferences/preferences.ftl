@@ -232,7 +232,7 @@ translate-attribution = Fordítás: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Kivételek…
     .accesskey = K
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Az operációs rendszer beállításainak használata a(z) „{ $localeName }” területi beállításhoz a dátumok, idők, számok és mértékegységek beállításához.
@@ -284,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } használata (alapértelmezett)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Használja a macOS alapértelmezett alkalmazását
+            [windows] Használja a Windows alapértelmezett alkalmazását
+           *[other] Használja a rendszer alapértelmezett alkalmazását
+        }
 applications-use-other =
     .label = Másik használata…
 applications-select-helper = Segédalkalmazás kiválasztása
@@ -309,6 +316,8 @@ applications-use-plugin-in =
     .label = { $plugin-name } használata ({ -brand-short-name } böngészőben)
 applications-preview-inapp =
     .label = Előnézet a { -brand-short-name } böngészőben
+applications-open-inapp =
+    .label = Megnyitás a { -brand-short-name }ban
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -322,12 +331,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
