@@ -61,10 +61,15 @@ mobile-app-card-content = ניתן להשתמש בדפדפן הנייד עם ה�
 mobile-app-links = דפדפן { -brand-product-name } עבור <a data-l10n-name="android-mobile-inline-link">Android</a> ו־<a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = אף ססמה לא תלך עוד לאיבוד
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = ניהול ססמאות
 lockwise-header-content = { -lockwise-brand-name } מאחסן באופן מאובטח את הססמאות שלך בדפדפן.
 lockwise-header-content-logged-in = אחסון וסנכרון הססמאות שלך באופן מאובטח לכל המכשירים שלך.
 protection-report-view-logins-button = הצגת כניסות
     .title = מעבר לכניסות השמורות
+protection-report-save-passwords-button = שמירת ססמאות
+    .title = שמירת ססמאות ב־{ -lockwise-brand-short-name }
+protection-report-manage-passwords-button = ניהול ססמאות
+    .title = ניהול ססמאות ב־{ -lockwise-brand-short-name }
 lockwise-mobile-app-title = לקחת את הססמאות שלך לכל מקום
 lockwise-no-logins-card-content = ניתן להשתמש בססמאות השמורות ב־{ -brand-short-name } בכל מכשיר.
 lockwise-app-links = { -lockwise-brand-name } עבור <a data-l10n-name="lockwise-android-inline-link">Android</a> ו־<a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -89,7 +94,7 @@ lockwise-connected-device-status =
 monitor-link = איך זה עובד
 monitor-header-content-no-account = ניתן לבדוק את { -monitor-brand-name } כדי לראות אם היית חלק מדליפת נתונים מוכרת, ולקבל התרעות לגבי דליפות חדשות.
 monitor-header-content-signed-in = { -monitor-brand-name } מזהיר אותך אם המידע שלך נחשף בדליפת נתונים מוכרת.
-monitor-sign-up = הרשמה להתראות על דליפות
+monitor-sign-up = הרשמה להתרעות על דליפות
 auto-scan = נסרק באופן אוטומטי היום
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
