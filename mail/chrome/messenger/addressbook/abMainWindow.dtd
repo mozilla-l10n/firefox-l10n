@@ -164,6 +164,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "D">
 
 <!-- Address Book Toolbar Tooltips -->
+<!ENTITY columnChooser.tooltip                          "Նշեք, թե որ սյուները պետք է ցուցադրվեն">
 <!ENTITY newContactButton.tooltip                       "Ստեղծել նոր հասցե">
 <!ENTITY newlistButton.tooltip                          "Ստեղծել նոր ցանկ">
 <!ENTITY editPropertiesButton.tooltip                   "Խմբագրել ընտրվածը">

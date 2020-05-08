@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Ավելացնել Նոր Գործիքագոտի">
 <!ENTITY showTitlebar.label       "Ցուցադրել վերնագրի տողը">
 <!ENTITY extraDragSpace.label     "Ավելացնել Drag Space">
+<!ENTITY showTitlebar2.label      "Անվանագոտի">
+<!ENTITY extraDragSpace2.label    "Քաշել բացատ">
 <!ENTITY saveChanges.label        "Պատրաստ է">
 <!ENTITY undoChanges.label        "Հետադարձել Փոփոխությունները">
