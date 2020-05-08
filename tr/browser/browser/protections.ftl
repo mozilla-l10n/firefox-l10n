@@ -62,10 +62,15 @@ mobile-app-card-content = Reklam takipçilerine karşı dahili korumaya sahip mo
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> ve <a data-l10n-name="ios-mobile-inline-link">iOS</a> için { -brand-product-name } Browser
 lockwise-title = Bir daha hiçbir parolayı unutmayın
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Parola yönetimi
 lockwise-header-content = { -lockwise-brand-name } parolalarınızı tarayınızda güvenle saklar.
 lockwise-header-content-logged-in = Parolalarınızı güvenle saklayın ve tüm cihazlarınızla senkronize edin.
 protection-report-view-logins-button = Hesapları göster
     .title = Kayıtlı hesaplara git
+protection-report-save-passwords-button = Parolaları kaydet
+    .title = Parolaları { -lockwise-brand-short-name } ile kaydet
+protection-report-manage-passwords-button = Parolaları yönet
+    .title = Parolaları { -lockwise-brand-short-name } ile yönet
 lockwise-mobile-app-title = Parolalarınızı yanınızda taşıyın
 lockwise-no-logins-card-content = { -brand-short-name } tarayıcınızda kaydettiğiniz parolaları tüm cihazlarınızda kullanın.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> ve <a data-l10n-name="lockwise-ios-inline-link">iOS</a> için { -lockwise-brand-name }
@@ -77,6 +82,23 @@ lockwise-passwords-stored =
         [one] parola güvenli şekilde depolanıyor <a data-l10n-name="lockwise-how-it-works">Nasıl çalışır?</a>
        *[other] parola güvenli şekilde depolanıyor <a data-l10n-name="lockwise-how-it-works">Nasıl çalışır?</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 parolanız bir veri ihlali kapsamında ele geçirilmiş olabilir.
+       *[other] { $count } parolanız bir veri ihlali kapsamında ele geçirilmiş olabilir.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 parolanız güvenle saklanıyor.
+       *[other] Parolalarınız güvenle saklanıyor.
+    }
+lockwise-how-it-works-link = Nasıl çalışıyor?
 turn-on-sync = { -sync-brand-short-name }’i etkinleştir…
     .title = Eşitleme tercihlerine git
 manage-connected-devices = Cihazları yönet…
