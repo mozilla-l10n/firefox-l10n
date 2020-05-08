@@ -62,10 +62,15 @@ mobile-app-card-content = Eipuru kundahára oku’éva ñemo’ã ijeheguáva nd
 mobile-app-links = Pe kundahára { -brand-product-name } <a data-l10n-name="android-mobile-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Ñe’ẽñemi ñeñangareko
 lockwise-header-content = { -lockwise-brand-name } ombyaty iñe’ẽñemi ikundahápe tekorosãme.
 lockwise-header-content-logged-in = Embyaty ha embojuehe ne ñe’ẽñemi opaite ne mba’e’okápe tekorosãme.
 protection-report-view-logins-button = Ehecha tembiapo ñepyrũ
     .title = Eho jeikeha ñongatupyrépe
+protection-report-save-passwords-button = Eñongatu Ñe'ẽñemi
+    .title = Eñongatu Ñe'ẽñemi { -lockwise-brand-short-name }-pe
+protection-report-manage-passwords-button = Eñangareko Ñe’ẽñemíre
+    .title = Eñangareko Ñe’ẽñemíre { -lockwise-brand-short-name }-pe
 lockwise-mobile-app-title = Egueraha ne ñe’ẽñemi opa hendápe
 lockwise-no-logins-card-content = Eipuru ñe’ẽñemi eñongatupyre { -brand-short-name } oimeraẽva mba’e’okápe.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +82,7 @@ lockwise-passwords-stored =
         [one] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
        *[other] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
     }
+lockwise-how-it-works-link = Mba’éicha omba’apo
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
 manage-connected-devices = Mba'e'oka ñangarekoha…
