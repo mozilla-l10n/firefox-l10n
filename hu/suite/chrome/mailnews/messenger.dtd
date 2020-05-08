@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Üzenetek letöltése a postafiókból">
 <!ENTITY folderContextGetMessages.accesskey "z">
+<!ENTITY folderContextMarkAllFoldersRead.label "Összes mappa jelölése olvasottként">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "Megnyitása új levelezőablakban">
 <!ENTITY folderContextOpenNewWindow.accesskey "l">
 <!ENTITY folderContextOpenNewTab.label "Megnyitás új lapon">
