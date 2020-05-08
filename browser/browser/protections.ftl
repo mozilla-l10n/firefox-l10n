@@ -66,10 +66,15 @@ mobile-app-card-content = Mobilny wobhladowak ze zatwarjenym škitom přećiwo w
 mobile-app-links = Wobhladowak { -brand-product-name } za <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Njezabywajće ženje wjace hesło
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Rjadowanje hesłow
 lockwise-header-content = { -lockwise-brand-name } waše hesła we wašim wobhladowaku wěsće składuje.
 lockwise-header-content-logged-in = Składujće a synchronizujće hesła za wšě waše graty.
 protection-report-view-logins-button = Přizjewjenja pokazać
     .title = K składowanym přizjewjenjam
+protection-report-save-passwords-button = Hesła składować
+    .title = Hesła w { -lockwise-brand-short-name } składować
+protection-report-manage-passwords-button = Hesła rjadować
+    .title = Hesła w { -lockwise-brand-short-name } rjadować
 lockwise-mobile-app-title = Wzmiće swoje hesła wšudźe sobu
 lockwise-no-logins-card-content = Wužiwajće hesła, kotrež sće w { -brand-short-name } składował, na kóždym graće.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link"></a>
@@ -82,6 +87,15 @@ lockwise-passwords-stored =
         [two] Wěsće składowanej hesle <a data-l10n-name="lockwise-how-it-works">Kak to funguje</a>
         [few] Wěsće składowane hesła <a data-l10n-name="lockwise-how-it-works">Kak to funguje</a>
        *[other] Wěsće składowanych hesłow <a data-l10n-name="lockwise-how-it-works">Kak to funguje</a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] { $count } hesło je so datowej dźěrje wustajiło.
+        [two] { $count } hesle stej so datowej dźěrje wustajiłoj.
+        [few] { $count } hesła su so datowej dźěrje wustajili.
+       *[other] { $count } hesłow je so datowej dźěrje wustajiło.
     }
 turn-on-sync = { -sync-brand-short-name } zmóžnić
     .title = K synchronizowanskim nastajenjam
