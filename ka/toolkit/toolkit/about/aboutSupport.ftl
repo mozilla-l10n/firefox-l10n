@@ -31,6 +31,7 @@ app-basics-title = პროგრამის ძირითადი მო�
 app-basics-name = სახელი
 app-basics-version = ვერსია
 app-basics-build-id = ანაწყობის ID
+app-basics-distribution-id = განაწილების ID
 app-basics-update-channel = განახლების არხი
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
