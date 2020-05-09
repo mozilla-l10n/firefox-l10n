@@ -232,6 +232,10 @@ translate-attribution = Itzulpenak: <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Salbuespenak…
     .accesskey = S
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Erabili zure sitema eragilearen "{ $localeName }" hizkuntzaren ezarpenak datak, orduak, zenbakiak eta neurriak formateatzeko.
 check-user-spelling =
     .label = Egiaztatu ortografia idatzi ahala
     .accesskey = z
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } erabili (lehenetsia)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Erabili macOS aplikazio lehenetsia
+            [windows] Erabili Windows aplikazio lehenetsia
+           *[other] Erabili sistemaren aplikazio lehenetsia
+        }
 applications-use-other =
     .label = Beste bat…
 applications-select-helper = Hautatu laguntza-aplikazioa
