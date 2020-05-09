@@ -564,6 +564,7 @@ search-show-suggestions-above-history-option =
     .label = Pokazuj dorady szukanio wyżyj jak historyjo przeglōndanio we wynikach poska z adresōm
 search-show-suggestions-private-windows =
     .label = Pokazuj dorady szukanio we prywatnych ôknach
+suggestions-addressbar-settings = Zmiyń nasztalowania doradōw ze przeglōndanio, zokłodek i kart.
 
 ## Containers Section
 
