@@ -87,9 +87,11 @@
 
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "Nepoznati protokol">
+<!ENTITY unknownProtocolFound.title "Nepoznata vrsta adrese">
 
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Možda ćete trebali instalirati drugi program da biste mogli otvoriti ovu adresu.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul>
+  <li>Možda je potrebno instalirati jedan drugi program za otvaranje ove adrese.</li>
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy poslužitelj odbio vezu">
 
