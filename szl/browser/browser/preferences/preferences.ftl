@@ -615,12 +615,39 @@ containers-remove-button =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-caption = Bier swōj nec ze sobōm
+sync-signedout-description = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i preferyncyje na wszyskich swojich maszinach.
+sync-signedout-account-title = Połōncz sie ze { -fxaccount-brand-name(case: "ins") }
+sync-signedout-account-create = Niy mosz kōnta? Tōż zacznij
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = Wloguj sie…
+    .accesskey = l
+sync-signedout-account-signin2 =
+    .label = Wloguj sie do { -sync-brand-short-name(case: "gen") }…
+    .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = Pobier Firefox na <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">Androida</a> abo <img data-l10n-name="ios-icon"/><a data-l10n-name="ios-link">iOS</a> i synchrōnizuj swoje dane z mobilnōm maszinōm.
 
 ## Sync Section - Signed in
 
 
 ## Firefox Account - Signed in
 
+sync-profile-picture =
+    .tooltiptext = Zmiyń profilowy ôbrozek
+sync-disconnect =
+    .label = Rozłōncz…
+    .accesskey = R
+sync-sign-out =
+    .label = Wyloguj sie…
+    .accesskey = g
 
 ## Sync section - enabling or disabling sync.
 
