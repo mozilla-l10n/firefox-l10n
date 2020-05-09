@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "წერილების მიღება ანგარიშისთვის">
 <!ENTITY folderContextGetMessages.accesskey "მ">
+<!ENTITY folderContextMarkAllFoldersRead.label "ყველა საქაღალდის წაკითხულად მონიშვნა">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "მ">
 <!ENTITY folderContextOpenNewWindow.label "გახსნა ახალ ფანჯარაში">
 <!ENTITY folderContextOpenNewWindow.accesskey "ფ">
 <!ENTITY folderContextOpenNewTab.label "გახსნა ახალ ჩანართიზე">

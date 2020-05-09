@@ -20,3 +20,4 @@
 <!ENTITY prefLightningShow.label             "Lightning დაყენების შესახებ ცნობება">
 <!ENTITY prefLightningShow.accesskey         "ნ">
 <!ENTITY prefCompatWarning                   "გაფრთხილება: ამ პარამეტრების გამორთვის შედეგად, შესაძლოა საიტებმა ან მომსახურებებმა გამართულად ვერ იმუშაოს.">
+<!ENTITY prefCompatWarning2.desc             "გაფრთხილება: ამ პარამეტრების შეცვლის შედეგად, შესაძლოა საიტებმა ან მომსახურებებმა გამართულად ვერ იმუშაოს.">
