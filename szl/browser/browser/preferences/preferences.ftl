@@ -578,9 +578,35 @@ search-restore-default =
 search-remove-engine =
     .label = Skasuj
     .accesskey = S
+search-find-more-link = Znojdź wiyncyj wyszukowarek
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = Stuplowane kluczowe słowo
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = Ôbranego kluczowego słowa używo teroz “{ $name }”. Ôbier jakie inksze.
+search-keyword-warning-bookmark = Ôbranego kluczowego słowa używo teroz zokłodka. Ôbier jakie inksze.
 
 ## Containers Section
 
+containers-back-link = « Nazod
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Nazod do Ôpcyjōw
+           *[other] Nazod do Preferyncyjōw
+        }
+containers-header = Kōntynerowe karty
+containers-add-button =
+    .label = Przidej nowy kōntyner
+    .accesskey = P
+containers-new-tab-check =
+    .label = Ôbier kōntyner do kożdyj nowyj karty
+    .accesskey = O
+containers-preferences-button =
+    .label = Preferyncyje
+containers-remove-button =
+    .label = Skasuj
 
 ## Sync Section - Signed out
 
@@ -588,6 +614,7 @@ search-remove-engine =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = Bier swōj nec ze sobōm
 
 ## Sync Section - Signed in
 
