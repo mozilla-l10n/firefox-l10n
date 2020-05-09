@@ -648,15 +648,69 @@ sync-disconnect =
 sync-sign-out =
     .label = Wyloguj sie…
     .accesskey = g
+sync-manage-account = Regiyruj kōntym
+    .accesskey = r
+sync-signedin-unverified = Kōnto { $email } niy ma zweryfikowane.
+sync-signedin-login-failure = Wloguj sie, coby zaś połōnczyć kōnto { $email }
+sync-resend-verification =
+    .label = Poślij zaś weryfikacyjo
+    .accesskey = z
+sync-remove-account =
+    .label = Skasuj kōnto
+    .accesskey = S
+sync-sign-in =
+    .label = Wloguj sie
+    .accesskey = l
+sync-signedin-settings-header = Synchrōnizacyjo nasztalowań
+sync-signedin-settings-desc = Ôbier, co synchrōnizować na twojich maszinach z aplikacyjōm { -brand-short-name }
 
 ## Sync section - enabling or disabling sync.
 
+prefs-syncing-on = Synchrōnizowanie załōnczōne
+prefs-syncing-off = Synchrōnizowanie wyłōnczōne
+prefs-sync-setup =
+    .label = Sztaluj { -sync-brand-short-name(case: "acc") }…
+    .accesskey = S
+prefs-sync-offer-setup-label = Synchrōnizuj swoje zokłodki, historyjo, karty, hasła, rozszyrzynia i preferyncyje na wszyskich swojich maszinach.
+prefs-sync-now =
+    .labelnotsyncing = Synchrōnizuj teroz
+    .accesskeynotsyncing = T
+    .labelsyncing = Synchrōnizuja…
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-heading = Mosz załōnczōno synchrōnizacyjo tego:
+sync-currently-syncing-bookmarks = Zokłodki
+sync-currently-syncing-history = Historyjo
+sync-currently-syncing-tabs = Ôtwarte karty
+sync-currently-syncing-logins-passwords = Dane logowanio i hasła
+sync-currently-syncing-addresses = Adresy
+sync-currently-syncing-creditcards = Kredytowe karty
+sync-currently-syncing-addons = Rozszyrzynia
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Ôpcyje
+       *[other] Preferyncyje
+    }
+sync-change-options =
+    .label = Zmiyń…
+    .accesskey = Z
 
 ## The "Choose what to sync" dialog.
 
+sync-choose-what-to-sync-dialog =
+    .title = Ôbier, co synchrōnizować
+    .style = width: 36em; min-height: 35em;
+    .buttonlabelaccept = Spamiyntej zmiany
+    .buttonaccesskeyaccept = S
+    .buttonlabelextra2 = Rozłōncz…
+    .buttonaccesskeyextra2 = R
+sync-engine-bookmarks =
+    .label = Zokłodki
+    .accesskey = k
+sync-engine-history =
+    .label = Historyjo
+    .accesskey = r
 
 ## The device name controls.
 
