@@ -7,3 +7,5 @@ profiledowngrade-window =
     .style = width: 490px;
 profiledowngrade-window-create =
     .label = Sos Heftinirde Hesere
+profiledowngrade-sync = Kuutorogol yamre ɓurnde hiiɗɗude { -brand-product-name }ina waawi bonnude maantore maa e aslol banngogol maa danndaaɗi kisa e { -brand-product-name } heftinirde woodnde. Ngam reende kabaruuji maa, sos heftinirde hesere ngam ngol aafgol { -brand-short-name }. Aɗa waawi seŋoraade daañaa { -fxaccount-brand-name } ngam yahdinde maantore maa e aslol banngogol maa hakkunde keftinirɗe.
+profiledowngrade-nosync = Kuutorogol yamre ɓurnde hiiɗɗude { -brand-product-name } ina waawi bonnude maantore maa e aslol banngogol maa danndaaɗi kisa e { -brand-product-name } heftinirde woodnde. Ngam reende kabaruuji maa, sos heftinirde hesere ngam ngol aafgol { -brand-short-name }.
