@@ -62,10 +62,15 @@ mobile-app-card-content = Usar el navegador móvil con protección integrada con
 mobile-app-links = Navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android </a> y <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nunca más olvide una contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Gestión de contraseñas
 lockwise-header-content = { -lockwise-brand-name } almacena sus contraseñas en su navegador de manera segura.
 lockwise-header-content-logged-in = Almacene y sincronice sus contraseñas en todos sus dispositivos de manera segura.
 protection-report-view-logins-button = Ver inicios de sesión
     .title = Ir a inicios de sesión guardados
+protection-report-save-passwords-button = Guardar contraseñas
+    .title = Guardar contraseñas en { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Administrar contraseñas
+    .title = Administrar contraseñas en { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Lleve sus contraseñas a todas partes
 lockwise-no-logins-card-content = Use contraseñas guardadas en { -brand-short-name } en cualquier dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> y <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +82,23 @@ lockwise-passwords-stored =
         [one] Contraseña almacenadas de forma segura <a data-l10n-name="lockwise-how-it-works"> Cómo funciona</a>
        *[other] Contraseñas almacenadas de forma segura <a data-l10n-name="lockwise-how-it-works"> Cómo funciona</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 contraseña podría haber sido expuestaen una violación de datos.
+       *[other] Las contraseñas de { $count } pueden haber estado expuestas en una violación de datos.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 contraseña almacenada de forma segura.
+       *[other] Sus contraseñas se almacenan de forma segura.
+    }
+lockwise-how-it-works-link = Cómo funciona
 turn-on-sync = Habilitar { -sync-brand-short-name }...
     .title = Vaya a preferencias de sync
 manage-connected-devices = Administrar dispositivos...
