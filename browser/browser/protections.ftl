@@ -82,6 +82,22 @@ lockwise-passwords-stored =
         [one] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
        *[other] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Pasahitz bat datu-urratze batean agerian utzi da agian.
+       *[other] { $count } pasahitz datu-urratze batean agerian utzi dira agian.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Pasahitza modu seguruan gorde da.
+       *[other] Zure pasahitzak modu seguruan gorde dira.
+    }
 lockwise-how-it-works-link = Nola dabilen
 turn-on-sync = Aktibatu { -sync-brand-short-name }…
     .title = Joan sinkronizatzeko hobespenetara
