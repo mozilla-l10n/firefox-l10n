@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "მიღების რიგი">
 <!ENTITY attachmentColumn.label "დანართები">
 
+<!ENTITY deleteColumn.label "წაშლა">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "სვეტების შერჩევა საჩვენებლად">
 <!ENTITY selectColumn.tooltip "ყველას მონიშვნა ან გაუქმება">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "მდებარეობის მიხედვით">
 <!ENTITY idColumn2.tooltip "მიღების თანმიმდევრობით">
 <!ENTITY attachmentColumn2.tooltip "დანართების მიხედვით">
+
+<!ENTITY deleteColumn.tooltip "წერილის წაშლა">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "ახალი შეტყობინება ნიმუშიდან">
