@@ -122,6 +122,7 @@ startup-header = Sztartowanie
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Przizwōl, coby { -brand-short-name } i Firefox fungowały w jednym czasie
+use-firefox-sync = Dorada: Byd€m użyte ôsobnie profile. { -sync-brand-short-name } poradzi udostympniać dane miyndzy nimi.
 get-started-not-logged-in = Wloguj sie do { -sync-brand-short-name(case: "gen") }…
 get-started-configured = Ôdewrzij nasztalowania { -sync-brand-short-name(case: "gen") }
 always-check-default =
@@ -364,6 +365,26 @@ update-application-check-choose =
 update-application-manual =
     .label = Żodyn roz niy szukać za aktualizacyjami (niyrykōmyndowane)
     .accesskey = N
+update-application-warning-cross-user-setting = Te nasztalowanie bydzie wkludzōne na wszyskich kōntach Windows i profilach aplikacyje { -brand-short-name }, co używajōm tyj aplikacyje.
+update-application-use-service =
+    .label = Używej usugi, co funguje na zadku, coby zainsztalować aktualizacyje
+    .accesskey = z
+update-enable-search-update =
+    .label = Autōmatycznie aktualizuj wyszukowarki
+    .accesskey = e
+update-pref-write-failure-title = Feler przi zapisowaniu
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Niy idzie spamiyntać preferyncyje. Niy idzie zapisać do zbioru: { $path }
+update-setting-write-failure-title = Feler przi spamiyntywaniu preferyncyji aktualizacyji
+# Variables:
+#   $path (String) - Path to the configuration file
+# The newlines between the main text and the line containing the path is
+# intentional so the path is easier to identify.
+update-setting-write-failure-message =
+    { -brand-short-name } trefiōł na feler i niy spamiyntoł tyj zmiany. Nasztalowanie tyj prefyryncyji aktualizacyji potrzebuje zgody na zapisowanie do zbioru sam niżyj. Abo ty, abo administatōr systymu możno poradzicie rozwiōnzać tyn feler, jak docie pōłno kōntrola nad tym zbiorym grupie "Użytkowniki". 
+    
+    Niy szło zapisać do zbioru: { $path }
 
 ## General Section - Performance
 
