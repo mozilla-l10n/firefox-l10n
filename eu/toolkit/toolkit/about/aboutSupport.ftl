@@ -31,6 +31,7 @@ app-basics-title = Aplikazioaren oinarrizko konfigurazioa
 app-basics-name = Izena
 app-basics-version = Bertsioa
 app-basics-build-id = Eraikitze IDa
+app-basics-distribution-id = Banaketaren IDa
 app-basics-update-channel = Eguneraketa-kanala
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.

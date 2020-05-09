@@ -62,10 +62,15 @@ mobile-app-card-content = Erabili mugikorreko nabigatzailea publizitatearen jarr
 mobile-app-links = { -brand-product-name } nabigatzailea <a data-l10n-name="android-mobile-inline-link">Android</a> eta <a data-l10n-name="ios-mobile-inline-link">iOS</a> plataformetarako
 lockwise-title = Ez ahaztu sekula pasahitzik berriro
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Pasahitzen kudeaketa
 lockwise-header-content = { -lockwise-brand-name }(e)k zure pasahitzak nabigatzailean gordetzen ditu modu seguruan.
 lockwise-header-content-logged-in = Gorde eta sinkronizatu zure pasahitzak modu seguruan zure gailu guztietara.
 protection-report-view-logins-button = Ikusi saio-hasierak
     .title = Joan gordetako saio-hasieretara
+protection-report-save-passwords-button = Gorde pasahitzak
+    .title = Gorde pasahitzak { -lockwise-brand-short-name }(e)n
+protection-report-manage-passwords-button = Kudeatu pasahitzak
+    .title = Kudeatu pasahitzak { -lockwise-brand-short-name }(e)n
 lockwise-mobile-app-title = Eraman pasahitzak alboan
 lockwise-no-logins-card-content = Erabili { -brand-short-name }(e)n gordetako pasahitzak edozein gailutan.
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> and <a data-l10n-name="lockwise-ios-inline-link">iOS</a>erako { -lockwise-brand-name }
@@ -77,6 +82,7 @@ lockwise-passwords-stored =
         [one] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
        *[other] Pasahitz modu seguruan gordeta <a data-l10n-name="lockwise-how-it-works">Nola dabilen</a>
     }
+lockwise-how-it-works-link = Nola dabilen
 turn-on-sync = Aktibatu { -sync-brand-short-name }…
     .title = Joan sinkronizatzeko hobespenetara
 manage-connected-devices = Kudeatu gailuak…

@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Ziurtagiri-autoritatea
 certificate-viewer-cipher-suite = Zifratze-suitea
 certificate-viewer-common-name = Ohiko izena
 certificate-viewer-email-address = Helbide elektronikoa
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = { $firstCertName }(r)ako ziurtagiria
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Sozietate anonimoaren herrialdea
 certificate-viewer-country = Herrialdea
