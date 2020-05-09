@@ -385,9 +385,24 @@ update-setting-write-failure-message =
     { -brand-short-name } trefiōł na feler i niy spamiyntoł tyj zmiany. Nasztalowanie tyj prefyryncyji aktualizacyji potrzebuje zgody na zapisowanie do zbioru sam niżyj. Abo ty, abo administatōr systymu możno poradzicie rozwiōnzać tyn feler, jak docie pōłno kōntrola nad tym zbiorym grupie "Użytkowniki". 
     
     Niy szło zapisać do zbioru: { $path }
+update-in-progress-title = Aktualizuja...
+update-in-progress-message = Mo { -brand-short-name } dalij aktualizować?
+update-in-progress-ok-button = &Pociep
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Idź dalij
 
 ## General Section - Performance
 
+performance-title = Sprowność
+performance-use-recommended-settings-checkbox =
+    .label = Używej rykōmyndowanych nasztalowań sprowności
+    .accesskey = U
+performance-use-recommended-settings-desc = Te nasztalowania sōm zrychtowane podug hardwaru i ôperacyjnego systymu ôd twojigo kōmputra.
+performance-settings-learn-more = Przewiydz sie wiyncyj
+performance-allow-hw-accel =
+    .label = Używej hardwarowyj akceleracyje, jak je dostympno
+    .accesskey = r
 
 ## General Section - Browsing
 
