@@ -21,6 +21,9 @@
 <!ENTITY showHideTooltips.label                 "მინიშნებების ჩვენება">
 <!ENTITY showHideTooltips.accesskey             "T">
 
+<!ENTITY showHideGrippies.label                 "ხელსაწყოთა ზოლზე მოსაჭიდებლების დამალვა">
+<!ENTITY showHideGrippies.accesskey             "ჭ">
+
 <!ENTITY pref.locales.title                     "პროგრამის სამუშაო ენა">
 <!ENTITY selectLocale.label                     "შეარჩიეთ სასურველი ენა პროგრამის მენიუების, ფანჯრების, ხელსაწყოთა ზოლებისა და ღილაკებისთვის:">
 
