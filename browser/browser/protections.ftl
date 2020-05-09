@@ -77,6 +77,7 @@ lockwise-passwords-stored =
         [one] Senhal gardat de forma segura <a data-l10n-name="lockwise-how-it-works">Cossí fonciona</a>
        *[other] Senhals gardats de forma segura <a data-l10n-name="lockwise-how-it-works">Cossí fonciona</a>
     }
+lockwise-how-it-works-link = Cossí fonciona
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Anar a las preferéncias
 manage-connected-devices = Gerir los periferics…
