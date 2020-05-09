@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Desgaitu abioan nabigatzaile lehenetsia egiazta
 policy-DownloadDirectory = Ezarri eta blokeatu deskarga-direktorioa.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Gaitu edo desgaitu edukia blokeatzea eta blokeatu ezarpen hau.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Gaitu edo desgaitu Encrypted Media Extensions eta aukeran blokeatu ezarpen hau.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -83,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Ezarri balio lehenetsia { -brand-short-name }(
 policy-OverrideFirstRunPage = Gainidatzi lehen abioko orria. Utzi zurian politika hau lehen abioko orria desgaitu nahi baduzu.
 policy-OverridePostUpdatePage = Gainidatzi eguneraketen ondoko "Nobedadeak" orria. Utzi politika hau zurian eguneraketen ondoko orria desgaitu nahi baduzu.
 policy-PasswordManagerEnabled = Gaitu pasahitzak pasahitz-kudeatzailean gordetzea.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desgaitu edo konfiguratu PDF.js, { -brand-short-name }(r)en integratutako PDF ikustailea.
 policy-Permissions2 = Konfiguratu kamera, mikrofonoa, kokapena, jakinarazpenak eta erreprodukzio automatikoa erabiltzeko baimenak.
 policy-PopupBlocking = Baimendu zenbait webguneri lehenespenez popup leihoak bistaratzea.
 policy-Preferences = Ezarri eta blokeatu hobespen-azpimultzo baten balioak.
