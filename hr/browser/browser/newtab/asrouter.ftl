@@ -221,10 +221,16 @@ cfr-doorhanger-milestone-ok-button = Vidi sve
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Stvaraj sigurne lozinke na jednostavan način
+cfr-whatsnew-lockwise-body = Teško je smisliti jedinstvene, sigurne lozinke za svaki račun. Prilikom stvaranja lozinke, odaberite polje za lozinku kako biste koristili sigurnu, od strane { -brand-shorter-name } generiranu lozinku.
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ikona
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Dobijajte upozorenja o ranjivim zaporkama
+cfr-whatsnew-passwords-body = Hakeri znaju da ljudi ponovno koriste iste lozinke. Ukoliko ste koristili istu lozinku na različitim stranicama, i jednoj od tih stranica ukradu podatke, vidjet ćete obavijest u { -lockwise-brand-short-name } da biste trebali izmijeniti svoju lozinku na stranicama koje ju koriste.
+cfr-whatsnew-passwords-icon-alt = Ikona ranjive lozinke
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Prebacite sliku-u-slici na puni zaslon
+cfr-whatsnew-pip-fullscreen-body = Kada prebacite video u mali plutajući prozor, sada možete dvostrukim klikom povećati taj video na cijeli zaslon.
