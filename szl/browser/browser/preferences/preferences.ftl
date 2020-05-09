@@ -547,6 +547,23 @@ search-engine-default-private-desc-2 = Ôbier inkszo bazowo wyszukowarka ekstra 
 search-separate-default-engine =
     .label = Używej tyj wyszukowarki w prywatnych ôknach
     .accesskey = U
+search-suggestions-header = Dorady szukanio
+search-suggestions-desc = Ôbier, jak pokazujōm sie dorady z wyszukowarkōw
+search-suggestions-option =
+    .label = Pokazuj dorady szukanio
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = Pokazuj dorady szukanio we wynikach poska z adresōm
+    .accesskey = I
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = Pokazuj dorady szukanio wyżyj jak historyjo przeglōndanio we wynikach poska z adresōm
+search-show-suggestions-private-windows =
+    .label = Pokazuj dorady szukanio we prywatnych ôknach
 
 ## Containers Section
 
