@@ -235,6 +235,10 @@ translate-attribution = Preveli <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Iznimke…
     .accesskey = e
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Koristi postavke operativnog sustava za “{ $localeName }” za oblikovanje datuma, vremena, brojeva i mjera.
 check-user-spelling =
     .label = Provjeravanje pravopisa tijekom pisanja
     .accesskey = v
@@ -283,6 +287,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Koristi { $app-name } (uobičajeno)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Koristi macOS zadanu aplikaciju
+            [windows] Koristi Windows zadanu aplikaciju
+           *[other] Koristi zadanu aplikaciju sustava
+        }
 applications-use-other =
     .label = Koristi drugi…
 applications-select-helper = Odaberi pomoćnu aplikaciju
@@ -308,6 +319,8 @@ applications-use-plugin-in =
     .label = Koristi { $plugin-name } (u { -brand-short-name })
 applications-preview-inapp =
     .label = Pogled u { -brand-short-name }
+applications-open-inapp =
+    .label = Otvori u { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -321,12 +334,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -870,6 +887,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Programi za praćenje među različitim web lokacijama
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Programi za praćenje među različitim web lokacijama i društvenim mrežama
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Pratitelji između više stranica i medijski pratitelji, te izoliranje preostalih kolačića
 sitedata-option-block-unvisited =
     .label = Kolačići sa stranica koje niste posjetili
 sitedata-option-block-all-third-party =
