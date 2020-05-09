@@ -930,7 +930,7 @@ content-blocking-standard-desc = 平衡保护与性能。允许部分跟踪器�
 content-blocking-strict-description = 更强的保护，可能导致某些网站异常。
 content-blocking-custom-desc = 选择要拦截的内容。
 content-blocking-private-trackers = 仅在隐私窗口中拦截已知的跟踪器
-content-blocking-third-party-cookies = 第三方跟踪型 Cookie
+content-blocking-third-party-cookies = 第三方跟踪性 Cookie
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
@@ -952,8 +952,8 @@ content-blocking-etp-standard-desc = 平衡保护和性能。页面将正常加�
 content-blocking-etp-strict-desc = 更强大的保护，但可能导致某些网站异常。
 content-blocking-etp-custom-desc = 选择要拦截的跟踪器和脚本。
 content-blocking-private-windows = 隐私窗口中的跟踪性内容
-content-blocking-cross-site-tracking-cookies = 跨网站跟踪型 Cookie
-content-blocking-cross-site-tracking-cookies-plus-isolate = 跨网站跟踪型 Cookie，并隔离其余的 Cookie
+content-blocking-cross-site-tracking-cookies = 跨网站跟踪性 Cookie
+content-blocking-cross-site-tracking-cookies-plus-isolate = 跨网站跟踪性 Cookie，并隔离其余的 Cookie
 content-blocking-social-media-trackers = 社交媒体跟踪器
 content-blocking-all-cookies = 所有 Cookie
 content-blocking-unvisited-cookies = 未访问网站的 Cookie
