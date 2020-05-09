@@ -565,6 +565,19 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Pokazuj dorady szukanio we prywatnych ôknach
 suggestions-addressbar-settings = Zmiyń nasztalowania doradōw ze przeglōndanio, zokłodek i kart.
+search-suggestions-cant-show = Dorady szukanio niy bydōm sie pokazować we posku z adresōm, bo mosz nasztalowane, coby { -brand-short-name } niy spamiyntowoł historyji.
+search-one-click-header = Wyszukowarki z jednym klikniyńciym
+search-one-click-desc = Ôbier alternatywne wyszukowarki pokazowane pod poskiym z adresōm i poskiym szukanio, jak zaczynosz wkludzać kluczowe słowo.
+search-choose-engine-column =
+    .label = Wyszukowarka
+search-choose-keyword-column =
+    .label = Kluczowe słowo
+search-restore-default =
+    .label = Wrōć bazowe wyszukowarki
+    .accesskey = W
+search-remove-engine =
+    .label = Skasuj
+    .accesskey = S
 
 ## Containers Section
 
