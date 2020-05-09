@@ -454,12 +454,50 @@ network-proxy-connection-settings =
 ## Home Section
 
 home-new-windows-tabs-header = Nowe ôkna i karty
+home-new-windows-tabs-description2 = Ôbier, co chcesz widzieć przi ôtwiyraniu swojij dōmowyj strōny, nowych ôkiyn abo kart.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = Dōmowo strōna i nowe ôkna
+home-newtabs-mode-label = Nowe karty
+home-restore-defaults =
+    .label = Wrōć bazowe
+    .accesskey = W
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = Dōmowo strōna Firefoxa (bazowe)
+home-mode-choice-custom =
+    .label = Włosne adresy…
+home-mode-choice-blank =
+    .label = Prōżno strōna
+home-homepage-custom-url =
+    .placeholder = Wraź adresa URL…
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] Użyj aktualnyj strōny
+            [one] Użyj aktualnyj strōny
+            [few] Użyj aktualnych strōn
+           *[many] Użyj aktualnych strōn
+        }
+    .accesskey = a
+choose-bookmark =
+    .label = Użyj zokłodki…
+    .accesskey = Z
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = Zawartość dōmowyj strōny Firefoxa
+home-prefs-content-description = Ôbier, co chcesz mieć na dōmowyj strōnie Firefoxa.
+home-prefs-search-header =
+    .label = Szukanie w necu
+home-prefs-topsites-header =
+    .label = Topowe strōny
 
 ## Search Section
 
