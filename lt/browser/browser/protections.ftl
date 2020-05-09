@@ -69,6 +69,10 @@ lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slapta�
 lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
 protection-report-view-logins-button = Peržiūrėti prisijungimus
     .title = Eiti į įrašytus prisijungimus
+protection-report-save-passwords-button = Laikyti slaptažodžius
+    .title = Laikyti slaptažodžius su „{ -lockwise-brand-short-name }“
+protection-report-manage-passwords-button = Tvarkyti slaptažodžius
+    .title = Tvarkyti slaptažodžius su „{ -lockwise-brand-short-name }“
 lockwise-mobile-app-title = Turėkite savo slaptažodžius visur
 lockwise-no-logins-card-content = Slaptažodžius, esančius „{ -brand-short-name }“, galite naudoti bet kuriame įrenginyje.
 lockwise-app-links = „{ -lockwise-brand-name }“, skirta „<a data-l10n-name="lockwise-android-inline-link">„Android“</a> ir <a data-l10n-name="lockwise-ios-inline-link">„iOS“</a>
