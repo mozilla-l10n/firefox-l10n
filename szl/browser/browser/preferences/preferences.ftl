@@ -711,12 +711,60 @@ sync-engine-bookmarks =
 sync-engine-history =
     .label = Historyjo
     .accesskey = r
+sync-engine-tabs =
+    .label = Ôtwarte karty
+    .tooltiptext = Wykoz tego, co je ôtwarte na wszyskich maszinach
+    .accesskey = t
+sync-engine-logins =
+    .label = Dane logowanio
+    .tooltiptext = Spamiyntane miana użytkownika i hasła
+    .accesskey = L
+sync-engine-logins-passwords =
+    .label = Dane logowanio i hasła
+    .tooltiptext = Spamiyntane miana użytkownika i hasła
+    .accesskey = L
+sync-engine-addresses =
+    .label = Adresy
+    .tooltiptext = Spamiyntane emailowe adresy (ino na kōmputrze)
+    .accesskey = e
+sync-engine-creditcards =
+    .label = Kredytowe karty
+    .tooltiptext = Miana, nōmery i daty przedowniynio (ino na kōmputrze)
+    .accesskey = K
+sync-engine-addons =
+    .label = Rozszyrzynia
+    .tooltiptext = Rozszyrzynia i motywy do Firefoxa na kōmputer
+    .accesskey = R
+sync-engine-prefs =
+    .label =
+        { PLATFORM() ->
+            [windows] Ôpcyje
+           *[other] Preferyncyje
+        }
+    .tooltiptext = Spamiyntane nasztalowania: ôgōlne, prywatności, bezpieczyństwa
+    .accesskey = s
 
 ## The device name controls.
 
+sync-device-name-header = Miano masziny
+sync-device-name-change =
+    .label = Zmiyń miano masziny…
+    .accesskey = m
+sync-device-name-cancel =
+    .label = Pociep
+    .accesskey = i
+sync-device-name-save =
+    .label = Spamiyntej
+    .accesskey = p
+sync-connect-another-device = Połōncz inkszo maszina
+sync-manage-devices = Regiyruj maszinami
+sync-fxa-begin-pairing = Skupluj maszina
+sync-tos-link = Warunki usugi
+sync-fxa-privacy-notice = Ô prywatności
 
 ## Privacy Section
 
+privacy-header = Prywatność przeglōndarki
 
 ## Privacy Section - Forms
 
