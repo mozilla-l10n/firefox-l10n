@@ -509,9 +509,40 @@ home-prefs-recommended-by-option-sponsored-stories =
     .label = Spōnsorowane nowiny
 home-prefs-highlights-header =
     .label = Szumne
+home-prefs-highlights-description = Wybōr ze spamiyntanych i nawiydzōnych strōn
+home-prefs-highlights-option-visited-pages =
+    .label = Nawiedzōne strōny
+home-prefs-highlights-options-bookmarks =
+    .label = Zokłodki
+home-prefs-highlights-option-most-recent-download =
+    .label = Niydowno pobrane
+home-prefs-highlights-option-saved-to-pocket =
+    .label = Strōny spamiyntane w { -pocket-brand-name(case: "loc") }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = Krōtkie informacyje
+home-prefs-snippets-description = Nowiny ôd: { -vendor-short-name }, { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } wiersz
+            [few] { $num } wiersze
+           *[many] { $num } wierszōw
+        }
 
 ## Search Section
 
+search-bar-header = Posek szukanio
+search-bar-hidden =
+    .label = Używej poska adresy do szukanio i nawigacyje
+search-bar-shown =
+    .label = Przidej posek szukanio do poska z noczyniami
+search-engine-default-header = Bazowo wyszukowarka
+search-engine-default-desc = Ôbier bazowo wyszukowarka do szukanio z poska adresy abo z poska szukanio.
+search-engine-default-desc-2 = To je bazowo wyszukowarka do szukanio z poska adresy abo z poska szukanio. Idzie jōm zmiyniać, kej chcesz.
 
 ## Containers Section
 
