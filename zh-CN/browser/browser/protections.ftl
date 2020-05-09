@@ -42,7 +42,7 @@ graph-today = 今日
 graph-legend-description = 此图展示了本周各类型跟踪器的总拦截数。
 social-tab-title = 社交媒体跟踪器
 social-tab-contant = 社交网站会在众多网站上安插跟踪器。除了您在社交网站上分享、发言外，它们还监视您在其他地方看些什么、做些什么。<a data-l10n-name="learn-more-link">详细了解</a>
-cookie-tab-title = 跨网站跟踪型 Cookie
+cookie-tab-title = 跨网站跟踪性 Cookie
 cookie-tab-content = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。<a data-l10n-name="learn-more-link">详细了解</a>
 tracker-tab-title = 跟踪性内容
 tracker-tab-description = 网站可能会载入包含跟踪代码的外部广告、视频等内容。拦截跟踪性内容可以让网站加载更快，但某些按钮、表单、登录框可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
@@ -153,10 +153,10 @@ bar-tooltip-social =
            *[other] { $count } 个社交媒体跟踪器（{ $percentage }%）
         }
 bar-tooltip-cookie =
-    .title = 跨网站跟踪型 Cookie
+    .title = 跨网站跟踪性 Cookie
     .aria-label =
         { $count ->
-           *[other] { $count } 个跨网站跟踪型 Cookie（{ $percentage }%）
+           *[other] { $count } 个跨网站跟踪性 Cookie（{ $percentage }%）
         }
 bar-tooltip-tracker =
     .title = 跟踪性内容

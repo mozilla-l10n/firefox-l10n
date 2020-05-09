@@ -92,7 +92,7 @@ onboarding-benefit-lockwise-text = 小巧便携又固若金汤，轻松管理网
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = 隐私浏览
-onboarding-private-browsing-text = 上网拒绝跟踪。配有内容拦截功能的隐私浏览模式，帮您拦截在网上窥探行踪的跟踪器。
+onboarding-private-browsing-text = 上网要自由自在。配有内容拦截功能的隐私浏览模式，帮您拦截在网上窥探您的跟踪器。
 onboarding-screenshots-title = 屏幕截图
 onboarding-screenshots-text = 截取、保存、分享截图，在 { -brand-short-name } 里点几下就能搞定。全网页截图还是只截取选区任你选择。截图完成后，可以获取截图链接，分享更方便。
 onboarding-addons-title = 附加组件

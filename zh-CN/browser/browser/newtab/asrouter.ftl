@@ -79,7 +79,7 @@ cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
 ## Protections panel
 
 cfr-protections-panel-header = 自由上网，拒绝跟踪
-cfr-protections-panel-body = 保护好自己的数据。{ -brand-short-name } 保护您免受众多常见跟踪器对您在线活动的窥视。
+cfr-protections-panel-body = 你的数据只要由你掌握。{ -brand-short-name } 保护您免受众多常见跟踪器对您在线活动的窥视。
 cfr-protections-panel-link-text = 详细了解
 
 ## What's New toolbar button and panel
