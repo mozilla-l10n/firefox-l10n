@@ -403,9 +403,27 @@ performance-settings-learn-more = Przewiydz sie wiyncyj
 performance-allow-hw-accel =
     .label = Używej hardwarowyj akceleracyje, jak je dostympno
     .accesskey = r
+performance-limit-content-process-option = Limit procesōw zawartości
+    .accesskey = L
+performance-limit-content-process-enabled-desc = Wiyncyj procesōw zawartości może polepszyć sprowność przi używaniu mocki kart, ale tyż potrzebuje wiyncyj pamiyńci.
+performance-limit-content-process-blocked-desc = Zmiana wielości procesōw zawartości je możliwo ino z usugōm multiprocess aplikacyje { -brand-short-name }. <a data-l10n-name="learn-more">Przewiydz sie, jak badnōnć, jeźli multiprocess je załōnczōny</a>
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (bazowo)
 
 ## General Section - Browsing
 
+browsing-title = Przeglōndanie
+browsing-use-autoscroll =
+    .label = Używej autōmatycznego przesuwanio
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = Używej miynkigo przesuwanio
+    .accesskey = m
+browsing-use-onscreen-keyboard =
+    .label = Jak trza, pokazuj tastatura do tykanio
+    .accesskey = t
 
 ## General Section - Proxy
 
