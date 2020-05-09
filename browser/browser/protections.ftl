@@ -62,10 +62,15 @@ mobile-app-card-content = Bruk mobilnettlesaren med innebygd vern mot annonsespo
 mobile-app-links = { -brand-product-name } Nettlesar for <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Glæym aldri eit passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Passordhandtering
 lockwise-header-content = { -lockwise-brand-name } lagrar passorda dine sikkert i nettlesaren din.
 lockwise-header-content-logged-in = Lagre passorda dine sikkert og synkroniser dei med alle eniningane dine.
 protection-report-view-logins-button = Vis innloggingar
     .title = Gå til lagra innloggingar
+protection-report-save-passwords-button = Lagre passord
+    .title = Lagre passord i { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Handtere passord
+    .title = Handtere passord i { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Ta med deg passorda dine overalt
 lockwise-no-logins-card-content = Bruk passord som er lagra i { -brand-short-name } på kva som helst eining.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +82,23 @@ lockwise-passwords-stored =
         [one] Passord lagra sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
        *[other] Passord lagra sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 passord kan ha blitt eksponert i ein datalekkasje.
+       *[other] { $count } passord kan ha blitt eksponerte i ein datalekkasje.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 passord trygt lagra.
+       *[other] Passorda dine blir lagra trygt.
+    }
+lockwise-how-it-works-link = Korleis det fungerer
 turn-on-sync = Slå på { -sync-brand-short-name }…
     .title = Gå til innstillinger for sync
 manage-connected-devices = Handter einingar…
