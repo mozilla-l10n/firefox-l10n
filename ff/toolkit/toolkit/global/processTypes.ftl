@@ -13,3 +13,16 @@ process-type-privilegedabout = Towaandi baɗte
 # such as accounts.firefox.com
 process-type-privilegedmozilla = Loowdi Mozilla Towaandi
 process-type-extension = Timmitere
+# process used to open file:// URLs
+process-type-file = Fiilde Nokkuure
+# process used to isolate webpages that requested special
+# permission to allocate large amounts of memory
+process-type-weblargeallocation = Taƴnal Mawngal
+# process used to isolate a webpage from other web pages
+# to improve security
+process-type-webisolated = Loowdi Geese Njoñaandi
+# process used to communicate with the GPU for
+# graphics acceleration
+process-type-gpu = GPU
+# process used to perform network operations
+process-type-socket = seŋirde
