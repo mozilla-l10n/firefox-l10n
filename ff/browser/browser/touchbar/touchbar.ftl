@@ -13,9 +13,26 @@ touchbar-fullscreen-exit = Yaltu Njaajeendi Yaynirde
 find = Yiytu
 new-tab = Tabbere hesere
 add-bookmark = Ɓeydu Maantore
+open-bookmarks-sidebar = Uddit Palal Sawndo Maantore
+reader-view = Jiytol Tarorde
+# Meant to match the string displayed in an empty URL bar.
+open-location = Yiylo walla naatnu ñiiɓirde
+share = Lollin
+close-window = Uddu Henorde
+open-sidebar = Pale sawndo
+# This string describes shortcuts for search.
+search-popover = Yiylo codorɗe
+# Describes searches limited to a specific scope
+# (e.g. searching only in history).
+search-search-in = Yiylo nder:
 
 ## Various categories of shortcuts for search.
 
+search-bookmarks = Maantore
+search-history = Aslol
+search-opentabs = Uddit Tabbe
+search-tags = Tage
+search-titles = Tiitooɗe
 
 ##
 
