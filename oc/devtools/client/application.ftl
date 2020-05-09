@@ -56,7 +56,7 @@ serviceworker-worker-status-stopped = Arrestat
 serviceworker-worker-status-registering = Inscripcion
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
-serviceworker-empty-intro = Vos cal inscriure un Service Worker per inspectar aquò aquí. <a>Ne saber mai</a>
+serviceworker-empty-intro = Vos cal inscriure un Service Worker per examinar aquò aquí. <a>Ne saber mai</a>
 # Text displayed when there are no Service Workers to display for the current page,
 # introducing hints to debug Service Worker issues.
 serviceworker-empty-suggestions = Se la pagina actuala deu conténer un service worker, vaquí çò que podètz ensajar
@@ -68,12 +68,12 @@ serviceworker-empty-suggestions-console = Recercar las error dins la consòla. <
 serviceworker-empty-suggestions-debugger = Percórrer lo registre de las inscripcions service workers a la recèrca d’excepcions. <a>Dobrir lo deugador</a>
 # Suggestion to go to about:debugging in order to see Service Workers for all domains.
 # Clicking on the link will open about:debugging in a new tab.
-serviceworker-empty-suggestions-aboutdebugging = Inspectar los service workers dels autres domenis. <a>Dobrir about:debugging</a>
+serviceworker-empty-suggestions-aboutdebugging = Examinar los service workers dels autres domenis. <a>Dobrir about:debugging</a>
 # Header for the Manifest page when we have an actual manifest
 manifest-view-header = Manifest d’aplicacion
 # Header for the Manifest page when there's no manifest to inspect
 # The link will open https://developer.mozilla.org/en-US/docs/Web/Manifest
-manifest-empty-intro = Vos cal apondre un manifèst d’aplicacion web per l’inspectar aquí. <a>Ne saber mai</a>
+manifest-empty-intro = Vos cal apondre un manifèst d’aplicacion web per l’examinar aquí. <a>Ne saber mai</a>
 # Header for the Errors and Warnings section of Manifest inspection displayed in the application panel.
 manifest-item-warnings = Errors e avises
 # Header for the Identity section of Manifest inspection displayed in the application panel.

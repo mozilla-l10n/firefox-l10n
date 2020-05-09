@@ -27,7 +27,7 @@ footer-message = Cercatz mai que d’aisinas de desvolopament ? Descobrissètz
 footer-learn-more-link = Ne saber mai
 features-learn-more = Ne saber mai
 features-inspector-title = Inspector
-features-inspector-desc = Inspectatz e afinatz vòstre còdi per obténer una compaginacion precisa al pixèl prèp. <a data-l10n-name="learn-more">{ features-learn-more }</a>
+features-inspector-desc = Examinatz e afinatz vòstre còdi per obténer una mesa en pagina precisa al pixèl prèp. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-console-title = Consòla
 features-console-desc = Identificar los problèmas de CSS, JavaScript, de seguretat ou de ret. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Desbugador
