@@ -268,6 +268,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = ใช้ { $app-name } (ค่าเริ่มต้น)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] ใช้ macOS เป็นแอปเริ่มต้น
+            [windows] ใช้ Windows เป็นแอปเริ่มต้น
+           *[other] ใช้แอปของระบบเป็นแอปเริ่มต้น
+        }
 applications-use-other =
     .label = ใช้ตัวอื่น…
 applications-select-helper = เลือกแอปพลิเคชันตัวช่วย
@@ -293,6 +300,8 @@ applications-use-plugin-in =
     .label = ใช้ { $plugin-name } (ใน { -brand-short-name })
 applications-preview-inapp =
     .label = แสดงตัวอย่างใน { -brand-short-name }
+applications-open-inapp =
+    .label = เปิดใน { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -306,12 +315,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
