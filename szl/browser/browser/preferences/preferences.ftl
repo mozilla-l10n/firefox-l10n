@@ -498,6 +498,17 @@ home-prefs-search-header =
     .label = Szukanie w necu
 home-prefs-topsites-header =
     .label = Topowe strōny
+home-prefs-topsites-description = Strōny, co je nojczyńścij nawiydzosz
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = Rykōmyndowane ôd { $provider }
+home-prefs-recommended-by-description = Super zawartość z cołkigo internetu zebrano ekstra do ciebie
+home-prefs-recommended-by-learn-more = Jak to funguje
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = Spōnsorowane nowiny
+home-prefs-highlights-header =
+    .label = Szumne
 
 ## Search Section
 
