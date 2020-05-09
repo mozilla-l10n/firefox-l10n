@@ -505,6 +505,7 @@
 <!ENTITY folderContextGetMessages.label "Hämta meddelanden för detta konto">
 <!ENTITY folderContextGetMessages.accesskey "H">
 <!ENTITY folderContextMarkAllFoldersRead.label "Märk alla mappar som lästa">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "a">
 <!ENTITY folderContextOpenNewWindow.label "Öppna i nytt e-postklientfönster">
 <!ENTITY folderContextOpenNewWindow.accesskey "Ö">
 <!ENTITY folderContextOpenNewTab.label "Öppna i ny flik">
