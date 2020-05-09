@@ -60,12 +60,12 @@
 <!ENTITY cellNoWrap.label                 "Não encapsular">
 <!ENTITY cellAlignTop.label               "Topo">
 <!ENTITY cellAlignMiddle.label            "Meio">
-<!ENTITY cellAlignBottom.label            "Fundo">
+<!ENTITY cellAlignBottom.label            "Fim">
 <!ENTITY cellAlignJustify.label           "Justificar">
 <!ENTITY cellInheritColor.label           "(Mostrar cor da tabela através)">
 <!ENTITY cellUseCheckboxHelp.label        "Utilizar caixas de verificação para determinar as propriedades a aplicar a todas as células selecionadas">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Tamanho">
 <!ENTITY pixels.label                     "pixeis">
 <!ENTITY backgroundColor.label            "Cor de fundo:">

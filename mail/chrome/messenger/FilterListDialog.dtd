@@ -20,7 +20,7 @@
 <!ENTITY reorderUpButton.accesskey "c">
 <!ENTITY reorderDownButton.label "Mover para baixo">
 <!ENTITY reorderDownButton.accesskey "b">
-<!ENTITY reorderBottomButton "Mover para a base">
+<!ENTITY reorderBottomButton "Mover para o fim">
 <!ENTITY reorderBottomButton.accessKey "M">
 <!ENTITY reorderBottomButton.toolTip "Arranjar filtro para que seja executado depois de todos os outros">
 <!ENTITY filterHeader.label "Os filtros ativos são executados automaticamente pela ordem mostrada abaixo.">
@@ -36,6 +36,5 @@
 <!ENTITY folderPickerPrefix.accesskey "c">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "u">
-<!ENTITY closeCmd.key "W"> 
+<!ENTITY closeCmd.key "W">
 <!ENTITY searchBox.emptyText "Pesquisar filtros por nome…">
-

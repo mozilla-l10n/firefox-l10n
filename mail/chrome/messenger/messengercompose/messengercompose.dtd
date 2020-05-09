@@ -115,7 +115,7 @@
 <!ENTITY moveAttachmentUpPanelBtn.label "Mover para cima">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Mover junto">
 <!ENTITY moveAttachmentDownPanelBtn.label "Mover para baixo">
-<!ENTITY moveAttachmentBottomPanelBtn.label "Mover para o fundo">
+<!ENTITY moveAttachmentBottomPanelBtn.label "Mover para o fim">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
