@@ -64,6 +64,7 @@ mobile-app-card-content = Naudokite mobiliąją naršyklę su integruota apsauga
 mobile-app-links = „{ -brand-product-name }“ naršyklė, skirta <a data-l10n-name="android-mobile-inline-link">„Android“</a> ir <a data-l10n-name="ios-mobile-inline-link">„iOS“</a>
 lockwise-title = Daugiau nepamirškite nė vieno slaptažodžio
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Slaptažodžių tvarkymas
 lockwise-header-content = „{ -lockwise-brand-name }“ saugiai įrašo slaptažodžius į jūsų naršyklę.
 lockwise-header-content-logged-in = Saugiai laikykite ir sinchronizuokite slaptažodžius tarp visų savo įrenginių.
 protection-report-view-logins-button = Peržiūrėti prisijungimus
@@ -80,6 +81,25 @@ lockwise-passwords-stored =
         [few] slaptažodžiai įrašyti saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
        *[other] slaptažodžių įrašyti saugiai <a data-l10n-name="lockwise-how-it-works">Kaip tai veikia</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 slaptažodis galėjo patekti tarp nutekėjusių duomenų.
+        [few] { $count } slaptažodžiai galėjo patekti tarp nutekėjusių duomenų.
+       *[other] { $count } slaptažodžių galėjo patekti tarp nutekėjusių duomenų.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 saugiai laikomas slaptažodis.
+        [few] Jūsų slaptažodžiai laikomi saugiai.
+       *[other] Jūsų slaptažodžiai laikomi saugiai.
+    }
+lockwise-how-it-works-link = Kaip tai veikia
 turn-on-sync = Įjungti „{ -sync-brand-short-name }“…
     .title = Eiti į sinchronizavimo nuostatas
 manage-connected-devices = Tvarkyti įrenginius…

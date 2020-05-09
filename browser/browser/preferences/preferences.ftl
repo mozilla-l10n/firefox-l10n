@@ -235,7 +235,7 @@ translate-attribution = Vertimą teikia <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Išimtys…
     .accesskey = š
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Naudoti jūsų operacinės sistemos nuostatas, skirtas „{ $localeName }“, formatuojant datas, laikus, skaičius, ir matavimus.
@@ -287,6 +287,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Atverti programa „{ $app-name }“ (numatytoji)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Naudoti numatytąją „macOS“ programą
+            [windows] Naudoti numatytąją „Windows“ programą
+           *[other] Naudoti numatytąją sistemos programą
+        }
 applications-use-other =
     .label = Parinkti kitą programą…
 applications-select-helper = Atveriančiosios programos parinkimas
@@ -312,6 +319,8 @@ applications-use-plugin-in =
     .label = Naudoti „{ $plugin-name }“ papildinį (programoje „{ -brand-short-name }“)
 applications-preview-inapp =
     .label = Peržiūrėti naudojant „{ -brand-short-name }“
+applications-open-inapp =
+    .label = Atverti per „{ -brand-short-name }“
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -325,12 +334,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
