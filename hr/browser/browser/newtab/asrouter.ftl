@@ -234,3 +234,4 @@ cfr-whatsnew-passwords-icon-alt = Ikona ranjive lozinke
 
 cfr-whatsnew-pip-fullscreen-header = Prebacite sliku-u-slici na puni zaslon
 cfr-whatsnew-pip-fullscreen-body = Kada prebacite video u mali plutajući prozor, sada možete dvostrukim klikom povećati taj video na cijeli zaslon.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikona slike-u-slici
