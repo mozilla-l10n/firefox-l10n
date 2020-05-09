@@ -771,6 +771,21 @@ privacy-header = Prywatność przeglōndarki
 
 ## Privacy Section - Logins and Passwords
 
+logins-header = Dane logowanio i hasła
+# The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
+pane-privacy-logins-and-passwords-header = Dane logowanio i hasła
+    .searchkeywords = { -lockwise-brand-short-name }
+# Checkbox to control whether UI is shown to users to save or fill logins/passwords.
+forms-ask-to-save-logins =
+    .label = Pytej sie ô spamiyntywanie danych logowanio i haseł do strōn
+    .accesskey = r
+forms-exceptions =
+    .label = Wyjōntki…
+    .accesskey = y
+forms-generate-passwords =
+    .label = Doradzej i rychtuj mocne hasła
+    .accesskey = o
+forms-breach-alerts-learn-more-link = Przewiydz sie wiyncyj
 
 ## OS Authentication dialog
 
