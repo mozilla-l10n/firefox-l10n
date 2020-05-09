@@ -48,7 +48,6 @@ login-list-count =
 login-list-sort-label-text = Poredaj po:
 login-list-name-option = Naziv (A-Z)
 login-list-name-reverse-option = Naziv (Z-A)
-login-list-breached-option = Hakirane web stranice
 about-logins-login-list-alerts-option = Upozorenja
 login-list-last-changed-option = Zadnja promjena
 login-list-last-used-option = Zadnja upotreba
@@ -164,9 +163,6 @@ confirm-discard-changes-dialog-confirm-button = Odbaci
 
 about-logins-breach-alert-title = Hakirana web-stranica
 breach-alert-text = Lozinke su procurile ili su ukradene s ove web-stranice od zadnjeg aktualiziranja tvojih podataka za prijavu. Za zaštitu svog računa, promijeni lozinku.
-breach-alert-link = Saznaj više o ovom curenju podataka.
-breach-alert-dismiss =
-    .title = Zatvori ovo upozorenje
 about-logins-breach-alert-date = Curenje podataka dogodilo se { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -176,6 +172,7 @@ about-logins-breach-alert-learn-more-link = Saznaj više
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Ranjiva lozinka
+about-logins-vulnerable-alert-text2 = Ova lozinka je korištena na drugom računu čiji podaci su vjerojatno procurili u javnost. Ponovno korištenje lozinke na različitim računima riskirate krađu podataka na svim računima. Promijenite lozinku.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Idi na { $hostname }
