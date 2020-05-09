@@ -1076,20 +1076,20 @@ collection-privacy-notice = Aviso de privacidade
 collection-health-report-telemetry-disabled = Deixou de permitir que o { -vendor-short-name } recolha dados técnicos e de interação. Todos os dados anteriores serão eliminados dentro de 30 dias.
 collection-health-report-telemetry-disabled-link = Saber mais
 collection-health-report =
-    .label = Permitir ao { -brand-short-name } enviar dados técnicos e de interação para a { -vendor-short-name }
+    .label = Permitir que o { -brand-short-name } envie os dados técnicos e de interação para a { -vendor-short-name }
     .accesskey = r
 collection-health-report-link = Saber mais
 collection-studies =
     .label = Permitir ao { -brand-short-name } instalar e executar estudos
 collection-studies-link = Ver estudos do { -brand-short-name }
 addon-recommendations =
-    .label = Permitir ao { -brand-short-name } fazer recomendações personalizadas de extensões
+    .label = Permitir que o { -brand-short-name } faça recomendações personalizadas de extensões
 addon-recommendations-link = Saber mais
 # This message is displayed above disabled data sharing options in developer builds
 # or builds with no Telemetry support available.
 collection-health-report-disabled = Relato de dados está desativado para a configuração desta compilação
 collection-backlogged-crash-reports =
-    .label = Permitir ao { -brand-short-name } enviar relatórios de falha pendentes em seu nome
+    .label = Permitir que o { -brand-short-name } envie os relatórios pendentes de falhas em seu nome
     .accesskey = f
 collection-backlogged-crash-reports-link = Saber mais
 
