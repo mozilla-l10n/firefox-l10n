@@ -41,6 +41,17 @@ abuse-report-messagebar-error-recent-submit = Jaŋtol <span data-l10n-name="addo
 ## Message bars actions.
 
 abuse-report-messagebar-action-remove-extension = Eey, ittu ɗum
+abuse-report-messagebar-action-keep-extension = Alaa, mbiɗo moofta ɗum
+abuse-report-messagebar-action-remove-theme = Eey, ittu ɗum
+abuse-report-messagebar-action-keep-theme = Alaa, mbiɗo moofta ɗum
+abuse-report-messagebar-action-retry = Fuɗɗito
+abuse-report-messagebar-action-cancel = Haaytu
 
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
+abuse-report-damage-reason = Ina bonna ordinateer am kam e keɓe am
+abuse-report-damage-reason-v2 = Ina bonna ordinateer am walla jaaya keɓe am
+abuse-report-damage-example = Yeru: addii mbonanteeri walla wujjii keɓe
+abuse-report-spam-example = Yeru: ɓittii ɓaŋŋine e kelle geese
+abuse-report-settings-reason = Waylii jiylorde am, jaɓɓorgo am, walla tabbere hesere tawo o humpitaani mi walla o naamnaaki mi
+abuse-report-settings-reason-v2 = Ɗum waylii yiylorde am, jaɓɓorgo am, walla tabbere hesere tawo ɗum humpitaani mi walla ɗum naamnaaki mi
