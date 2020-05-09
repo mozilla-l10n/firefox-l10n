@@ -424,12 +424,36 @@ browsing-use-smooth-scrolling =
 browsing-use-onscreen-keyboard =
     .label = Jak trza, pokazuj tastatura do tykanio
     .accesskey = t
+browsing-use-cursor-navigation =
+    .label = Zawdy używej knefli kursorōw do nawigacyje po strōnach
+    .accesskey = k
+browsing-search-on-start-typing =
+    .label = Szukej za tekstym, jak zaczynosz pisać
+    .accesskey = s
+browsing-picture-in-picture-toggle-enabled =
+    .label = Pokazuj szalter trybu ôbraz w ôbrazie.
+    .accesskey = P
+browsing-picture-in-picture-learn-more = Przewiydz sie wiyncyj
+browsing-cfr-recommendations =
+    .label = Doradzej rozszerzynia przi przeglōndaniu
+    .accesskey = D
+browsing-cfr-features =
+    .label = Doradzej funkcyje przi przeglōndaniu
+    .accesskey = f
+browsing-cfr-recommendations-learn-more = Przewiydz sie wiyncyj
 
 ## General Section - Proxy
 
+network-settings-title = Nasztalowania neca
+network-proxy-connection-description = Sztaluj, jak { -brand-short-name } łōnczy sie z internetym.
+network-proxy-connection-learn-more = Przewiydz sie wiyncyj
+network-proxy-connection-settings =
+    .label = Nasztalowania…
+    .accesskey = n
 
 ## Home Section
 
+home-new-windows-tabs-header = Nowe ôkna i karty
 
 ## Home Section - Home Page Customization
 
