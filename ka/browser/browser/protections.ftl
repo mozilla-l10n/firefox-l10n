@@ -62,10 +62,15 @@ mobile-app-card-content = გამოიყენეთ მობილურ�
 mobile-app-links = { -brand-product-name } ბრაუზერი <a data-l10n-name="android-mobile-inline-link">Android-სა</a> და <a data-l10n-name="ios-mobile-inline-link">iOS-ზე</a>
 lockwise-title = აღარასდროს დაკარგავთ პაროლებს
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = პაროლების მართვა
 lockwise-header-content = { -lockwise-brand-name } უსაფრთხოდ შეინახავს თქვენს პაროლებს ბრაუზერში.
 lockwise-header-content-logged-in = პაროლების უსაფრთხო შენახვა და გაზიარება ყველა თქვენს მოწყობილობაზე.
 protection-report-view-logins-button = ანგარიშების ნახვა
     .title = ანგარიშის შენახულ მონაცემებზე გადასვლა
+protection-report-save-passwords-button = პაროლების შენახვა
+    .title = პაროლებს შესანახად გამოიყენეთ { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = პაროლების მართვა
+    .title = პაროლების სამართავად გამოიყენეთ { -lockwise-brand-short-name }
 lockwise-mobile-app-title = თან წაიყოლეთ პაროლები ყველგან
 lockwise-no-logins-card-content = თქვენს პაროლებს შეინახავს { -brand-short-name } ნებისმიერ მოწყობილობაზე.
 lockwise-app-links = { -lockwise-brand-name }<a data-l10n-name="lockwise-android-inline-link">Android-სა</a> და <a data-l10n-name="lockwise-ios-inline-link">iOS-ზე</a>
@@ -77,6 +82,23 @@ lockwise-passwords-stored =
         [one] პაროლია შენახული უსაფრთხოდ <a data-l10n-name="lockwise-how-it-works">როგორ მუშაობს</a>
        *[other] პაროლია შენახული უსაფრთხოდ <a data-l10n-name="lockwise-how-it-works">როგორ მუშაობს</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 პაროლი, შესაძლოა გამჟღავნებულიყო მიტაცებისას.
+       *[other] { $count } პაროლი, შესაძლოა გამჟღავნებულიყო მიტაცებისას.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] თქვენი 1 პაროლი ინახება უსაფრთხოდ.
+       *[other] თქვენი პაროლები ინახება უსაფრთხოდ
+    }
+lockwise-how-it-works-link = როგორ მუშაობს
 turn-on-sync = ჩართეთ { -sync-brand-short-name }…
     .title = იხილეთ სინქრონიზაციის პარამეტრები
 manage-connected-devices = მოწყობილობების მართვა…
