@@ -543,6 +543,10 @@ search-bar-shown =
 search-engine-default-header = Bazowo wyszukowarka
 search-engine-default-desc = Ôbier bazowo wyszukowarka do szukanio z poska adresy abo z poska szukanio.
 search-engine-default-desc-2 = To je bazowo wyszukowarka do szukanio z poska adresy abo z poska szukanio. Idzie jōm zmiyniać, kej chcesz.
+search-engine-default-private-desc-2 = Ôbier inkszo bazowo wyszukowarka ekstra do prywatnych ôkiyn
+search-separate-default-engine =
+    .label = Używej tyj wyszukowarki w prywatnych ôknach
+    .accesskey = U
 
 ## Containers Section
 
