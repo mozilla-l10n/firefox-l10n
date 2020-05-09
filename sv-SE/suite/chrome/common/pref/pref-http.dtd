@@ -21,5 +21,9 @@
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "VARNING: att stänga av dessa inställningar kan leda till att webbplatser eller tjänster inte fungerar korrekt.">
 <!ENTITY prefFirefoxStrict.label             "Identifiera som Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "I">
 <!ENTITY prefFirefoxNone.label               "Identifiera som SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
 <!ENTITY prefFirefoxCompat2.label            "Identifiera som SeaMonkey och annonsera Firefox kompatibilitet">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "VARNING: att ändra dessa inställningar kan leda till att webbplatser eller tjänster inte fungerar korrekt.">
