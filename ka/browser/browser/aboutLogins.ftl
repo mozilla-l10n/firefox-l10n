@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = დალაგება:
 login-list-name-option = ანბანური
 login-list-name-reverse-option = ანბანური (Z-A)
-login-list-breached-option = მიტაცების მსხვერპლი საიტები
 about-logins-login-list-alerts-option = ცნობები
 login-list-last-changed-option = ბოლოს ჩასწორებული
 login-list-last-used-option = ბოლოს გამოყენებული
@@ -161,11 +160,8 @@ confirm-discard-changes-dialog-confirm-button = გაუქმება
 
 ## Breach Alert notification
 
-about-logins-breach-alert-title = მიტაცება საიტიდან
+about-logins-breach-alert-title = იერიშმიტანილი საიტი
 breach-alert-text = პაროლების მონაცემები გაიტაცეს ან გაჟონა ამ საიტიდან მას შემდეგ, რაც ბოლოს განაახლეთ თქვენი ანგარიშის ინფორმაცია. ანგარიშის უსაფრთხოებისთვის, შეცვალეთ თქვენი პაროლი.
-breach-alert-link = იხილეთ ვრცლად, ამ მიტაცების შესახებ.
-breach-alert-dismiss =
-    .title = ამ ცნობის დახურვა
 about-logins-breach-alert-date = მიტაცების თარიღი { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
