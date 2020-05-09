@@ -62,10 +62,15 @@ mobile-app-card-content = Utilizatz lo navegador mobil amb una proteccion integr
 mobile-app-links = Navegador { -brand-product-name } per <a data-l10n-name="android-mobile-inline-link">Android</a> et <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Oblidatz pas jamai un senhal
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Gestion de senhal
 lockwise-header-content = { -lockwise-brand-name } gardatz d’un biais segur vòstres senhals dins lo navegador.
 lockwise-header-content-logged-in = Salvatz e sincronizatz vòstres senhals sus totes vòstres periferics d’un biais segur.
 protection-report-view-logins-button = Veire los identificants
     .title = Anar als identificants gardats
+protection-report-save-passwords-button = Salvar los senhals
+    .title = Salvar los senhals dins { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Gestion dels senhals
+    .title = Gestion dels senhals de { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Emportatz vòstres senhals pertot
 lockwise-no-logins-card-content = Utilizatz los senhals gardats dins { -brand-short-name } sus qual que siá periferic.
 lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
