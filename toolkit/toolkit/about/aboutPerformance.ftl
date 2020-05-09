@@ -18,6 +18,11 @@ ghost-windows = Tabbe uddaaɗe sakket
 ## Values for the Type column
 
 type-tab = Tabbere
+type-tracker = Rewindorde
+type-addon = Ɓeyditte
+type-browser = Wanngorde
+type-worker = Golloowo
+type-other = Goɗɗo
 
 ## Values for the Energy Impact column
 ##
@@ -25,12 +30,22 @@ type-tab = Tabbere
 ##   $value (Number) - Value of the energy impact, eg. 0.25 (low),
 ##                     5.38 (medium), 105.38 (high)
 
+energy-impact-high = Toowi ({ $value })
+energy-impact-medium = Hakkunde ({ $value })
+energy-impact-low = Lesɗi ({ $value })
 
 ## Values for the Memory column
 ##
 ## Variables:
 ##   $value (Number) - How much memory is used
 
+size-KB = { $value } KB
+size-MB = { $value } MB
+size-GB = { $value } GB
 
 ## Tooltips for the action buttons
 
+close-tab =
+    .title = Uddu tabbere
+show-addon =
+    .title = Hollu e Toppitorde Ɓeyditte
