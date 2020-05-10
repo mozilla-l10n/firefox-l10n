@@ -10,6 +10,9 @@
 
 <!--LOCALIZATION NOTE (.label): Preferences categories that appear on the left of the preferences dialog -->
 <!ENTITY prefWindow.title "Preferenze">
+<!ENTITY prefWindow.size "width: 120ch; height: 41em;">
+<!ENTITY prefWindowMac.size "width: 60em; height: 41em;">
+<!ENTITY prefWindowWin.size "width: 125ch; height: 45em;">
 <!ENTITY categoryHeader "Categoria:">
 
 <!ENTITY appear.label "Aspetto">
