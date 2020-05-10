@@ -22,6 +22,20 @@ certificate-viewer-other-name = Innde Woɗnde
 certificate-viewer-key-exchange-group = Fedde Gostondiral Coktirɗe
 certificate-viewer-key-size = Ɓeto Coktirgal
 certificate-viewer-locality = Nokku
+certificate-viewer-location = Nokkuure
+certificate-viewer-method = Feere
+certificate-viewer-modulus = Wulnde
+certificate-viewer-name = Innde
+certificate-viewer-not-after = Wonaa Caggal
+certificate-viewer-not-before = Wonaa Adan
+certificate-viewer-organization = Fedde
+certificate-viewer-purposes = Paandaale
+certificate-viewer-required = Ina waɗɗii
+certificate-viewer-version = Yamre
+certificate-viewer-miscellaneous = Cariɗum
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Aawto
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
@@ -29,3 +43,8 @@ certificate-viewer-locality = Nokku
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Seedanteeji maa
+certificate-viewer-tab-people = Yimɓe
+certificate-viewer-tab-servers = Carworɗe
+certificate-viewer-tab-ca = Hohowɓe
+certificate-viewer-tab-unkonwn = Anndaaka
