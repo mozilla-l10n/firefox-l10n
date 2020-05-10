@@ -922,6 +922,8 @@ addressbar-suggestions-settings = Zmiyń nasztalowania doradōw wyszukowarki
 ## Privacy Section - Content Blocking
 
 content-blocking-header = Szperowanie zawartości
+content-blocking-section-description = Brōń swojij prywatności przi przeglōndaniu. Szperuj niywidziano zawartość, co śledzi nawiydzane strōny i cie profiluje. Skuli szperowanio takij zawartości strōny mogōm sie gibcyj ôtwiyrać.
+content-blocking-enhanced-tracking-protection = Polepszōno ôchrōna ôd śledzynio
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
