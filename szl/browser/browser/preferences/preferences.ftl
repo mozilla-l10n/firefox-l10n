@@ -1079,18 +1079,82 @@ collection-privacy-notice = Ô prywatności
 collection-health-report-telemetry-disabled = { -vendor-short-name } niy mo już zgody, coby zbiyrać techniczne dane i dane ô interakcyjach. Wszyskie nazbiyrane dane bydōm skasowane do 30 dni.
 collection-health-report-telemetry-disabled-link = Przewiydz sie wiyncyj
 collection-health-report =
-    .label = { -brand-short-name } mo zgoda, coby posyłać techniczne dane i dane ô interakcyjach do { -vendor-short-name }.
+    .label = Zgoda, coby { -brand-short-name } posyłoł techniczne dane i dane ô interakcyjach do { -vendor-short-name }.
     .accesskey = g
 collection-health-report-link = Przewiydz sie wiyncyj
+collection-studies =
+    .label = Zgoda, coby { -brand-short-name } insztalowoł i kludziōł badania
+collection-studies-link = Pokoż badania aplikacyje { -brand-short-name }
+addon-recommendations =
+    .label = Zgoda, coby { -brand-short-name } rykōmyndowoł spersonalizowane rozszyrzynia
+addon-recommendations-link = Przewiydz sie wiyncyj
+# This message is displayed above disabled data sharing options in developer builds
+# or builds with no Telemetry support available.
+collection-health-report-disabled = Posyłanie danych je zastawione przi tyj kōnfiguracyji
+collection-backlogged-crash-reports =
+    .label = Zgoda, coby { -brand-short-name } posyłoł za ciebie nazbiyrane raporty ô awaryjach
+    .accesskey = a
+collection-backlogged-crash-reports-link = Przewiydz sie wiyncyj
 
 ## Privacy Section - Security
 ##
 ## It is important that wording follows the guidelines outlined on this page:
 ## https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 
+security-header = Bezpieczyństwo
+security-browsing-protection = Ôchrōna ôd ôszydy i niybezpiecznym softwarem
+security-enable-safe-browsing =
+    .label = Szperuj niybezpieczno i ôszydno zawartość
+    .accesskey = S
+security-enable-safe-browsing-link = Przewiydz sie wiyncyj
+security-block-downloads =
+    .label = Szperuj niybezpieczne pobrania
+    .accesskey = p
+security-block-uncommon-software =
+    .label = Dowej znać ô niychcianym abo niyôbyczajnym softwarze
+    .accesskey = w
 
 ## Privacy Section - Certificates
 
+certs-header = Certyfikaty
+certs-personal-label = Jak serwer pyto sie ô twōj ôsobisty certyfikat
+certs-select-auto-option =
+    .label = Ôbier jedyn autōmatycznie
+    .accesskey = O
+certs-select-ask-option =
+    .label = Kożdy roz sie pytej
+    .accesskey = K
+certs-enable-ocsp =
+    .label = Pytej serwery OCSP, coby przituplowały aktualno płatność certyfikatu
+    .accesskey = P
+certs-view =
+    .label = Pokoż certyfikaty…
+    .accesskey = C
+certs-devices =
+    .label = Masziny bezpieczyństwa…
+    .accesskey = M
+space-alert-learn-more-button =
+    .label = Przewiydz sie wiyncyj
+    .accesskey = P
+space-alert-over-5gb-pref-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Ôdewrzij ôpcyje
+           *[other] Ôdewrzij Preferyncyje
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] O
+        }
+space-alert-over-5gb-message =
+    { PLATFORM() ->
+        [windows] Aplikacyji { -brand-short-name } kōńczy sie plac na dysku. Zawartość strōny może sie niy pokazować dobrze. Możesz skasować zebrane dane we Ôpcyje > Prywatność i bezpieczyństwo > Cookies i dane strōn.
+       *[other] Aplikacyji { -brand-short-name } kōńczy sie plac na dysku. Zawartość strōny może sie niy pokazować dobrze. Możesz skasować zebrane dane we Preferyncyje > Prywatność i bezpieczyństwo > Cookies i dane strōn.
+    }
+space-alert-under-5gb-ok-button =
+    .label = OK
+    .accesskey = K
 
 ## The following strings are used in the Download section of settings
 
