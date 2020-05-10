@@ -30,3 +30,4 @@ features-visual-editing-title = Taƴtogol Jiytol
 features-performance-title = Jaawgol golle
 features-memory-title = Teskorde
 newsletter-error-unknown = Juumre nde tijjaaka waɗii.
+newsletter-error-timeout = Sahaa lulnogol ngol yawtii.
