@@ -9,7 +9,7 @@ about-logins-page-title = Логины и пароли
 login-app-promo-title = Возьмите свои пароли с собой
 login-app-promo-subtitle = Загрузите бесплатное приложение { -lockwise-brand-name }
 login-app-promo-android =
-    .alt = Доступно на Google Play
+    .alt = Доступно в Google Play
 login-app-promo-apple =
     .alt = Загрузите в App Store
 login-filter =
@@ -48,7 +48,6 @@ login-list-count =
 login-list-sort-label-text = Сортировать:
 login-list-name-option = По имени (А-Я)
 login-list-name-reverse-option = По имени (Я-А)
-login-list-breached-option = Взломанные сайты
 about-logins-login-list-alerts-option = Уведомления
 login-list-last-changed-option = По последнему изменению
 login-list-last-used-option = По последнему использованию
@@ -164,9 +163,6 @@ confirm-discard-changes-dialog-confirm-button = Отменить
 
 about-logins-breach-alert-title = Утечка на сайте
 breach-alert-text = С момента последнего обновления данных для входа, с этого сайта произошла утечка или кража паролей. Измените ваш пароль, чтобы защитить свой аккаунт.
-breach-alert-link = Узнать больше об этой утечке.
-breach-alert-dismiss =
-    .title = Закрыть это уведомление
 about-logins-breach-alert-date = Эта утечка случилась { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

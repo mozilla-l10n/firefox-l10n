@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = Здесь обитают драконы!
-about-config-warning-text = Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности данного приложения. Вам следует изменять что-либо только в том случае, если вы уверены в том, что делаете.
+about-config-warning-text = Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности приложения. Изменяйте их только тогда, когда вы уверены в том, что делаете.
 about-config-warning-checkbox = Напомнить мне об этом в следующий раз!
 about-config-warning-button = Я принимаю на себя риск
 about-config2-title = Дополнительные настройки
@@ -18,7 +18,7 @@ about-config-intro-warning-text = Изменение расширенных на
 about-config-intro-warning-checkbox = Предупреждать меня, когда я попытаюсь получить доступ к этим настройкам
 about-config-intro-warning-button = Принять риск и продолжить
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Изменение этих настроек может затронуть производительность или безопасность { -brand-short-name }.

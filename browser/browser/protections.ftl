@@ -93,6 +93,16 @@ lockwise-scanned-text-breached-logins =
         [few] { $count } пароля возможно были обнаружены в результате утечки данных.
        *[many] { $count } паролей возможно были обнаружены в результате утечки данных.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Ваш пароль хранится в безопасности.
+        [few] Ваши пароли хранятся в безопасности.
+       *[many] Ваши пароли хранятся в безопасности.
+    }
 lockwise-how-it-works-link = Как это работает
 turn-on-sync = Включить { -sync-brand-short-name(case: "accusative") }…
     .title = Перейти в настройки синхронизации
