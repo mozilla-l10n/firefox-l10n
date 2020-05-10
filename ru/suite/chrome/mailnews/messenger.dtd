@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Получить сообщения для учётной записи">
 <!ENTITY folderContextGetMessages.accesskey "щ">
+<!ENTITY folderContextMarkAllFoldersRead.label "Отметить все папки как прочитанные">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "м">
 <!ENTITY folderContextOpenNewWindow.label "Открыть в новом окне">
 <!ENTITY folderContextOpenNewWindow.accesskey "н">
 <!ENTITY folderContextOpenNewTab.label "Открыть в новой вкладке">
