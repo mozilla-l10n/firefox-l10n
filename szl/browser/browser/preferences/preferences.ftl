@@ -937,13 +937,34 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = Włosne
     .accesskey = W
+content-blocking-standard-desc = Zbalansowane podug ôchrōny i sprowności. Przizwolo na niykere śledzōnce elymynty, coby strōny dobrze fungowały.
+content-blocking-strict-description = Lepszo ôchrōna, ale niykere strōny mogōm niy fungować dobrze.
+content-blocking-custom-desc = Ôbier, co szperować.
+content-blocking-private-trackers = Poznane śledzōnce elymynty ino we prywatnych ôknach
+content-blocking-third-party-cookies = Cookies śledzōncych elymyntōw z inkszych firmōw
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+enhanced-tracking-protection-setting-standard =
+    .label = Sztandardowe
+    .accesskey = d
+enhanced-tracking-protection-setting-strict =
+    .label = Sztryng
+    .accesskey = r
+enhanced-tracking-protection-setting-custom =
+    .label = Włosne
+    .accesskey = W
 
 ##
 
+content-blocking-etp-standard-desc = Zbalansowane podug ôchrōny i sprowności. Strōny bydōm sie normalnie ladować.
+content-blocking-etp-strict-desc = Lepszo ôchrōna, ale niykere strōny abo jako zawartość mogōm niy fungować dobrze.
+content-blocking-etp-custom-desc = Ôbier, jakie śledzōnce elymynty i skrypty szperować.
+content-blocking-private-windows = Śledzōnce elymynty w prywatnych ôknach
+content-blocking-cross-site-tracking-cookies = Cookies elymyntōw, co śledzōm miyndzy strōnami
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies elymyntōw, co śledzōm miyndzy strōnami. Izoluj inksze cookies.
 
 ## Privacy Section - Tracking
 
