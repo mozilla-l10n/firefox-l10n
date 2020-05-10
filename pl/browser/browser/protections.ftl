@@ -85,6 +85,25 @@ lockwise-passwords-stored =
         [few] bezpiecznie przechowywane hasła <a data-l10n-name="lockwise-how-it-works">Jak to działa</a>
        *[many] bezpiecznie przechowywanych haseł <a data-l10n-name="lockwise-how-it-works">Jak to działa</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Twoje hasło mogło zostać ujawnione w wycieku danych.
+        [few] { $count } hasła mogły zostać ujawnione w wycieku danych.
+       *[many] { $count } haseł mogło zostać ujawnionych w wycieku danych.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Twoje hasło jest bezpiecznie przechowywane.
+        [few] Twoje hasła są bezpiecznie przechowywane.
+       *[many] Twoje hasła są bezpiecznie przechowywane.
+    }
+lockwise-how-it-works-link = Jak to działa
 turn-on-sync = Włącz { -sync-brand-short-name(case: "acc", capitalization: "lower") }…
     .title = Otwórz preferencje synchronizacji
 manage-connected-devices = Zarządzaj urządzeniami…
