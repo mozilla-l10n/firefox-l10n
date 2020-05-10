@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Порядок получения">
 <!ENTITY attachmentColumn.label "Вложения">
 
+<!ENTITY deleteColumn.label "Удалить">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Выбрать колонки для отображения">
 <!ENTITY selectColumn.tooltip "Выделить/Снять выделение всех сообщений">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Сортировать по расположению">
 <!ENTITY idColumn2.tooltip "Сортировать по порядку получения">
 <!ENTITY attachmentColumn2.tooltip "Сортировать по наличию вложений">
+
+<!ENTITY deleteColumn.tooltip "Удалить сообщение">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Создать сообщение по шаблону">
