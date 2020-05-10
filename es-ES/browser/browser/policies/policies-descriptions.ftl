@@ -85,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Establecer el valor predeterminado para permit
 policy-OverrideFirstRunPage = Anular la página de primera ejecución. Deje esta política en blanco si desea desactivar la página de primera ejecución.
 policy-OverridePostUpdatePage = Anular la página "Qué hay de nuevo" posterior a la actualización. Deje esta política en blanco si quiere desactivar la página posterior a la actualización.
 policy-PasswordManagerEnabled = Activar el guardado de contraseñas en el administrador de contraseñas.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Desactivar o configurar PDF.js, el visor de PDF integrado en { -brand-short-name }.
 policy-Permissions2 = Configurar permisos para cámara, micrófono, ubicación, notificaciones y reproducción automática.
 policy-PopupBlocking = Permitir que ciertos sitios web muestren ventanas emergentes de forma predeterminada.
 policy-Preferences = Establezca y bloquee el valor para un subconjunto de preferencias.
