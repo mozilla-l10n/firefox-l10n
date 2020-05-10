@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Gavimo eilė">
 <!ENTITY attachmentColumn.label "Priedai">
 
+<!ENTITY deleteColumn.label "Pašalinti">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Rinktis rodomus stulpelius">
 <!ENTITY selectColumn.tooltip "Perjungti visų laiškų pažymėjimą">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Rikiuoti pagal vietą">
 <!ENTITY idColumn2.tooltip "Rikiuoti pagal gavimo eilę">
 <!ENTITY attachmentColumn2.tooltip "Rikiuoti pagal priedus">
+
+<!ENTITY deleteColumn.tooltip "Pašalinti laišką">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nauja žinutė pagal šabloną">
