@@ -974,6 +974,9 @@ content-blocking-all-third-party-cookies = Wszyskie cookies z inkszych firmōw
 content-blocking-cryptominers = Elymynty, co fedrujōm kryptopiniōndze
 content-blocking-fingerprinters = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
 content-blocking-warning-title = Pozōr!
+content-blocking-warning-description = Skuli szperowanio zawartości niykere strōny mogōm niy fungować dobrze. Snadnie możesz wyłōnczyć szperowanie na strōnach, kierym wierzisz.
+content-blocking-learn-how = Przewiydz sie, jak
+content-blocking-etp-warning-description = Skuli szperowanio zawartości niykere strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
 
 ## Privacy Section - Tracking
 
