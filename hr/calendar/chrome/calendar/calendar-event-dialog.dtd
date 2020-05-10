@@ -98,8 +98,8 @@
 
 <!ENTITY  event.menu.edit.label                           "Uredi">
 <!ENTITY  event.menu.edit.accesskey                       "U">
-<!ENTITY  event.menu.edit.undo.label                      "Vrati">
-<!ENTITY  event.menu.edit.undo.accesskey                  "V">
+<!ENTITY  event.menu.edit.undo.label                      "Poništi">
+<!ENTITY  event.menu.edit.undo.accesskey                  "P">
 <!ENTITY  event.menu.edit.redo.label                      "Ponovi">
 <!ENTITY  event.menu.edit.redo.accesskey                  "P">
 <!ENTITY  event.menu.edit.cut.label                       "Izreži">
