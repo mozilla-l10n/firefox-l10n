@@ -965,6 +965,15 @@ content-blocking-etp-custom-desc = Ôbier, jakie śledzōnce elymynty i skrypty 
 content-blocking-private-windows = Śledzōnce elymynty w prywatnych ôknach
 content-blocking-cross-site-tracking-cookies = Cookies elymyntōw, co śledzōm miyndzy strōnami
 content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies elymyntōw, co śledzōm miyndzy strōnami. Izoluj inksze cookies.
+content-blocking-social-media-trackers = Elymynty śledzōnce ôd społecznościowych serwisōw
+content-blocking-all-cookies = Wszyskie cookies
+content-blocking-unvisited-cookies = Cookies z niynawiydzōnych strōn
+content-blocking-all-windows-trackers = Poznane śledzōnce elymynty we wszyskich ôknach
+content-blocking-all-windows-tracking-content = Śledzōnce elymynty we wszyskich ôknach
+content-blocking-all-third-party-cookies = Wszyskie cookies z inkszych firmōw
+content-blocking-cryptominers = Elymynty, co fedrujōm kryptopiniōndze
+content-blocking-fingerprinters = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
+content-blocking-warning-title = Pozōr!
 
 ## Privacy Section - Tracking
 
