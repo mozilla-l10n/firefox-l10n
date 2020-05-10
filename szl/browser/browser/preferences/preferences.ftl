@@ -1066,9 +1066,22 @@ permissions-addon-install-warning =
 permissions-addon-exceptions =
     .label = Wyjōntki…
     .accesskey = W
+permissions-a11y-privacy-checkbox =
+    .label = Niy dowej dostympowym usugōm dostympu do tyj przeglōndarki
+    .accesskey = d
+permissions-a11y-privacy-link = Przewiydz sie wiyncyj
 
 ## Privacy Section - Data Collection
 
+collection-header = Zbiyranie i używanie danych bez { -brand-short-name }
+collection-description = Patrzimy ôstawiać ci wybōr i zbiyrać ino to, co nōm je potrzebne do kludzynio i polepszanio aplikacyje { -brand-short-name } do wszyskich. Zawdy proszymy ô zgoda, jak mōmy dostać jako ôsobisto informacyjo.
+collection-privacy-notice = Ô prywatności
+collection-health-report-telemetry-disabled = { -vendor-short-name } niy mo już zgody, coby zbiyrać techniczne dane i dane ô interakcyjach. Wszyskie nazbiyrane dane bydōm skasowane do 30 dni.
+collection-health-report-telemetry-disabled-link = Przewiydz sie wiyncyj
+collection-health-report =
+    .label = { -brand-short-name } mo zgoda, coby posyłać techniczne dane i dane ô interakcyjach do { -vendor-short-name }.
+    .accesskey = g
+collection-health-report-link = Przewiydz sie wiyncyj
 
 ## Privacy Section - Security
 ##
