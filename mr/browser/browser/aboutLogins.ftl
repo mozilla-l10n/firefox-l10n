@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = लॉगिन शोधा
 create-login-button = नविन लॉगिन बनवा
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } साठी Favicon
 fxaccounts-sign-in-text = आपल्या इतर उपकरणांवर आपले पासवर्ड मिळवा
 fxaccounts-sign-in-button = { -sync-brand-short-name } मध्ये साइन इन करा
 fxaccounts-avatar-button =
@@ -29,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = मेनू उघडा
-# This menuitem is only visible on Windows
-menu-menuitem-import = पासवर्ड आयात करा…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] पर्याय
@@ -67,7 +60,6 @@ login-list-item-subtitle-missing-username = (कुठलेही वापर�
 
 login-item-new-login-title = नविन लॉगिन बनवा
 login-item-edit-button = संपादन करा
-login-item-delete-button = काढून टाका
 login-item-origin-label = संकेतस्थळ पत्ता
 login-item-origin =
     .placeholder = https://www.example.com
@@ -77,10 +69,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = प्रत बनवा
 login-item-copied-username-button-text = प्रत बनवली!
 login-item-password-label = संकेतशब्द
-login-item-password-reveal-checkbox-show =
-    .title = संकेतशब्द दाखवा
-login-item-password-reveal-checkbox-hide =
-    .title = संकेतशब्द लपवा
 login-item-copy-password-button-text = प्रत करा
 login-item-copied-password-button-text = प्रत बनवली!
 login-item-save-changes-button = बदल जतन करा
@@ -89,6 +77,14 @@ login-item-cancel-button = रद्द करा
 login-item-time-changed = शेवटचा सुधार: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = बनवले: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = शेवटचा वापर: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -108,25 +104,22 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = रद्द करा
 confirmation-dialog-dismiss-button =
     .title = रद्द करा
-confirm-delete-dialog-title = लॉगिन मिटवायचे?
 confirm-delete-dialog-message = ही कृती बदलू शकत नाही
-confirm-delete-dialog-confirm-button = मिटवा
 confirm-discard-changes-dialog-title = जतन न केलेले बदल टाकून द्यायचे?
 confirm-discard-changes-dialog-message = सर्व जतन न केलेले बदल गमावले जातील.
 confirm-discard-changes-dialog-confirm-button = रद्द करा
 
 ## Breach Alert notification
 
-breach-alert-link = या उल्लंघनाबद्दल अधिक जाणून घ्या.
-breach-alert-dismiss =
-    .title = हा इशारा बंद करा
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } वर जा
+about-logins-breach-alert-learn-more-link = अधिक जाणा
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = त्या वापरकर्त्यासह { $loginTitle } साठी नोंद आधीपासून आहे.
 # This is a generic error message.
 about-logins-error-message-default = हा पासवर्ड साठवताना त्रुटी आली.
