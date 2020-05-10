@@ -15,11 +15,6 @@ login-app-promo-apple =
 login-filter =
     .placeholder = ଖୋଜା ଲଗିନ
 create-login-button = ନୂଆ ଲଗଇନ ତିଆରି କରନ୍ତୁ
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = { $title } ପାଇଁ ଫାଭିକନ
 fxaccounts-sign-in-text = ନିଜର ଉପକରଣରେ ନିଜସ୍ୱ ପାସୱାର୍ଡ଼ ପାଆନ୍ତୁ
 fxaccounts-sign-in-button = { -sync-brand-short-name }ରେ ଲଗ-ଇନ କରନ୍ତୁ
 fxaccounts-avatar-button =
@@ -29,8 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = ତାଲିକା ଖୋଲନ୍ତୁ
-# This menuitem is only visible on Windows
-menu-menuitem-import = ପାସୱାର୍ଡ ଇମ୍ପୋର୍ଟ କରନ୍ତୁ
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = ଅନ୍ୟ ବ୍ରାଉଜରରୁ ଆମଦାନୀ…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ବିକଳ୍ପ
@@ -51,7 +46,8 @@ login-list-count =
     }
 login-list-sort-label-text = କ୍ରମ:
 login-list-name-option = ନାମ (କ-କ୍ଷ)
-login-list-breached-option = ଉଲଙ୍ଘିତ ୱେବସାଇଟଗୁଡ଼ିକ
+login-list-name-reverse-option = ନାମ (କ-କ୍ଷ)
+about-logins-login-list-alerts-option = ସତର୍କତା
 login-list-last-changed-option = ପୂର୍ବ ରୂପାନ୍ତରଣ
 login-list-last-used-option = ଶେଷ ଥର ବ୍ୟବହୃତ
 login-list-intro-title = କୌଣସି ଲଗଇନ ମିଳିଲା ନାହିଁ
@@ -61,11 +57,10 @@ about-logins-login-list-empty-search-description = ଆପଣ ଖୋଜୁଥି�
 login-list-item-title-new-login = ନୂତନ ଲଗଇନ
 login-list-item-subtitle-new-login = ଆପଣଙ୍କର ଲଗଇନ ତଥ୍ୟ ଭରନ୍ତୁ
 login-list-item-subtitle-missing-username = (ବ୍ୟବହାରକାରୀ ନାମ ନାହିଁ)
-about-logins-list-item-warning-icon =
-    .alt = ଚେତାବନୀ ଆଇକନ
-    .title = ସଂକ୍ରମିତ ୱେବସାଇଟ
 about-logins-list-item-breach-icon =
     .title = ସଂକ୍ରମିତ ୱେବସାଇଟ
+about-logins-list-item-vulnerable-password-icon =
+    .title = ଦୁର୍ବଳ ପାସୱାର୍ଡ
 
 ## Introduction screen
 
@@ -77,7 +72,7 @@ login-intro-description = ଯଦି ଆପଣ { -brand-product-name } ପାଇ�
 
 login-item-new-login-title = ନୂତନ ଲଗଇନ ତିଆରି କରନ୍ତୁ
 login-item-edit-button = ସମ୍ପାଦନ କରନ୍ତୁ
-login-item-delete-button = ଅପସାରଣ କରନ୍ତୁ
+about-logins-login-item-remove-button = କାଢ଼ନ୍ତୁ
 login-item-origin-label = ୱେବସାଇଟ ଠିକଣା
 login-item-origin =
     .placeholder = https://www.example.com
@@ -87,18 +82,41 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = ନକଲ କରନ୍ତୁ
 login-item-copied-username-button-text = ନକଲ ହୋଇଛି
 login-item-password-label = ପାସ୍‌ୱାର୍ଡ୍
-login-item-password-reveal-checkbox-show =
-    .title = ପାସୱାର୍ଡ଼ ଦେଖାନ୍ତୁ
-login-item-password-reveal-checkbox-hide =
-    .title = ପାସୱାର୍ଡ଼ ଲୁଚାନ୍ତୁ
+login-item-password-reveal-checkbox =
+    .aria-label = ପାସୱାର୍ଡ଼ ଦେଖାନ୍ତୁ
 login-item-copy-password-button-text = ନକଲ କରନ୍ତୁ
 login-item-copied-password-button-text = ନକଲ ହୋଇଛି
 login-item-save-changes-button = ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-save-new-button = ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-cancel-button = ବାତିଲ କରନ୍ତୁ
 
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
+# This message can be seen by attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରନ୍ତୁ
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
+# This message can be seen by attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରନ୍ତୁ
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = ସଞ୍ଚିତ ଲଗଇନ୍ କପି କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
+# This message can be seen by attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ କପି କରନ୍ତୁ
+
 ## Master Password notification
 
+master-password-notification-message = ସଞ୍ଚିତ ଲଗଇନ୍ ଏବଂ ପାସୱାର୍ଡ ଦେଖିବା ପାଇଁ ଦୟାକରି ଆପଣଙ୍କର ମୂଖ୍ୟ ପାସୱାର୍ଡ ପ୍ରବେଶ କରନ୍ତୁ
 master-password-reload-button =
     .label = ଲଗଇନ
     .accesskey = ଏଲ
@@ -121,25 +139,27 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ବାତିଲ
 confirmation-dialog-dismiss-button =
     .title = ବାତିଲ କରନ୍ତୁ
-confirm-delete-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
+about-logins-confirm-remove-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
-confirm-delete-dialog-confirm-button = ଅପସାରଣ କରନ୍ତୁ
+about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
 confirm-discard-changes-dialog-title = ଅଣସଞ୍ଚିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନଷ୍ଟ କରିଦେବେ?
 confirm-discard-changes-dialog-message = ସମସ୍ତ ଅଣସଂରକ୍ଷିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବିଲୁପ୍ତ ହୋଇଯିବ
 confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ
 
 ## Breach Alert notification
 
-breach-alert-link = ଏହି ଅନୁପ୍ରବେଶ ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
-breach-alert-dismiss =
-    .title = ଚେତାବନୀକୁ ବନ୍ଦ କରିଦିଅନ୍ତୁ
+about-logins-breach-alert-title = ୱେବସାଇଟ୍ ବ୍ରିଚ
+breach-alert-text = ଆପଣ ଶେଷ ଥର ପାଇଁ ଆପଣଙ୍କର ଲଗଇନ୍ ବିବରଣୀ ଅପଡେଟ୍ କରିଥିବାରୁ ଏହି ୱେବସାଇଟରୁ ପାସୱାର୍ଡ ଲିକ୍ ହୋଇଛି କିମ୍ବା ଚୋରି ହୋଇଛି | ଆପଣଙ୍କ ଖାତାକୁ ସୁରକ୍ଷା ଦେବା ପାଇଁ ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରନ୍ତୁ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname }କୁ ଯାଆନ୍ତୁ
+about-logins-breach-alert-learn-more-link = ଅଧିକ ଶିଖନ୍ତୁ
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = ଦୁର୍ବଳ ପାସୱାର୍ଡ
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = { $loginTitle } ନାମରେ ଏକ ବ୍ୟବହାରକାରୀ ନାମ ଆଗରୁ ଅଛି
 # This is a generic error message.
 about-logins-error-message-default = ପାସୱାର୍ଡ଼ ସଂରକ୍ଷଣ ସମୟରେ ତ୍ରୁଟିଟିଏ ଘଟିଲା

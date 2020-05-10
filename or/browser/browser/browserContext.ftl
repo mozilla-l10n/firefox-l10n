@@ -229,3 +229,9 @@ main-context-menu-bidi-switch-page =
 main-context-menu-inspect-element =
     .label = ଉପାଦାନକୁ ନିରୀକ୍ଷଣ କରନ୍ତୁ
     .accesskey = Q
+main-context-menu-inspect-a11y-properties =
+    .label = ଅଭିଗମ୍ୟତା ଗୁଣଗୁଡିକ ଯାଞ୍ଚ କରନ୍ତୁ
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = ନୂତନ ବୈଶିଷ୍ଟ୍ୟଗୁଡିକ ବିଷୟରେ ସୂଚିତ କରନ୍ତୁ
