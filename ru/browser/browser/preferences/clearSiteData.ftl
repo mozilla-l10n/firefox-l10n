@@ -31,7 +31,7 @@ clear-site-data-cookies-info = Удаление может привести к �
 #   $amount (Number) - Amount of cache currently stored on disk
 #   $unit (String) - Abbreviation of the unit that $amount is in, e.g. "MB"
 clear-site-data-cache-with-data =
-    .label = Кэшированное веб-содержимое ({ $amount } { $unit })
+    .label = Кэш веб-содержимого ({ $amount } { $unit })
     .accesskey = ш
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
@@ -39,7 +39,7 @@ clear-site-data-cache-with-data =
 # or the same as clear-site-data-cache-with-data (except the amount and unit),
 # to avoid flickering.
 clear-site-data-cache-empty =
-    .label = Кэшированное веб-содержимое
+    .label = Кэш веб-содержимого
     .accesskey = ш
 clear-site-data-cache-info = Веб-сайтам потребуется перезагрузить изображения и данные
 clear-site-data-cancel =
