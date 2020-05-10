@@ -18,6 +18,7 @@ cert-error-untrusted-default = ପ୍ରମାଣପତ୍ରଟି କୌଣସ
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = ଭୁଲ କୋଡ଼: <a data-l10n-name="error-code-link">{ $error }</a>
+cert-error-symantec-distrust-admin = ଏହି ସମସ୍ୟା ବିଷୟରେ ଆପଣ ୱେବସାଇଟ୍ ର ବ୍ୟବସ୍ଥାପକଙ୍କୁ ଅବଗତ କରିପାରିବେ
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = ଏଚଟିଟିପି ପବ୍ଲିକ କି ପିନିଙ୍ଗ { $hasHPKP }
