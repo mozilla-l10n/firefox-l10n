@@ -13,14 +13,16 @@
 <!ENTITY prefEnableHTTP11.label              "Использовать HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "с">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "з">
-<!ENTITY prefEnablePipelining.label          "Использовать конвейерную обработку данных">
-<!ENTITY prefEnablePipelining.accesskey      "к">
-<!ENTITY prefEnablePipeliningProxy.accesskey "в">
 <!ENTITY prefPara                            "С помощью этих параметров можно настроить HTTP-соединения так, чтобы увеличить их скорость и/или совместимость с серверами. Например, некоторые прокси-серверы требуют использования HTTP 1.0 (см. примечания к версии).">
-<!ENTITY prefPipeWarning                     "ПРЕДУПРЕЖДЕНИЕ: конвейерная обработка данных — экспериментальная функция, предназначенная для уменьшения времени загрузки страниц; некоторыми веб- и прокси-серверами поддерживается, к сожалению, не полностью.">
 <!ENTITY prefUseragent.label                 "Строка User Agent">
 <!ENTITY prefFirefoxCompat.label             "Сообщать о совместимости с Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "м">
 <!ENTITY prefLightningShow.label             "Сообщать об установленном Lightning">
 <!ENTITY prefLightningShow.accesskey         "о">
 <!ENTITY prefCompatWarning                   "ПРЕДУПРЕЖДЕНИЕ: отключение этих параметров может привести к некорректной работе веб-сайтов или служб.">
+<!ENTITY prefFirefoxStrict.label             "Представляться как Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "е">
+<!ENTITY prefFirefoxNone.label               "Представляться как SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "я">
+<!ENTITY prefFirefoxCompat2.label            "Представляться как SeaMonkey и сообщать о совместимости с Firefox">
+<!ENTITY prefFirefoxCompat2.accesskey        "ь">
