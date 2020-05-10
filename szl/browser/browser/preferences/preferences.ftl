@@ -1155,6 +1155,13 @@ space-alert-over-5gb-message =
 space-alert-under-5gb-ok-button =
     .label = OK
     .accesskey = K
+space-alert-under-5gb-message = Aplikacyji { -brand-short-name } kōńczy sie plac na dysku. Zawartość strōny może sie niy pokazować dobrze. Wejrzij na "Przewiydz sie wiyncyj", coby zoptymalizować użycie tego dysku i snadnij przeglōndać nec.
 
 ## The following strings are used in the Download section of settings
 
+downloads-folder-name = Pobrania
+choose-download-folder-title = Ôbier katalog na pobrane zbiory:
+# Variables:
+#   $service-name (String) - Name of a cloud storage provider like Dropbox, Google Drive, etc...
+save-files-to-cloud-storage =
+    .label = Spamiyntuj zbiory do { $service-name }
