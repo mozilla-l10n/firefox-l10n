@@ -235,7 +235,7 @@ translate-attribution = Tłumaczeń dostarcza <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Wyjątki…
     .accesskey = i
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Używaj ustawień systemu operacyjnego dla języka „{ $localeName }” do formatowania dat, czasu, liczb i miar.
@@ -287,6 +287,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Użyj aplikacji { $app-name } (domyślnej)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Użyj domyślnej aplikacji systemu macOS
+            [windows] Użyj domyślnej aplikacji systemu Windows
+           *[other] Użyj domyślnej aplikacji systemu
+        }
 applications-use-other =
     .label = Użyj innej aplikacji…
 applications-select-helper = Wybierz aplikację pomocniczą
@@ -309,9 +316,11 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
-    .label = Wtyczka { $plugin-name } (w programie { -brand-short-name })
+    .label = Wtyczka { $plugin-name } (w programie { -brand-short-name })
 applications-preview-inapp =
     .label = Podgląd w programie { -brand-short-name }
+applications-open-inapp =
+    .label = Otwórz w programie { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -325,12 +334,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
