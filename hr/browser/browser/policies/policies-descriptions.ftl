@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Onemogući provjeru standardnog preglednika pri
 policy-DownloadDirectory = Postavi i zaključaj direktorij za preuzimanje.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktiviraj ili deaktiviraj blokiranje sadržaja i opcionalno ga zaključaj.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Aktiviraj ili deaktiviraj proširenja za šifrirane medije i opcionalno ih zaključaj.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -81,6 +83,8 @@ policy-OfferToSaveLoginsDefault = Postavi standardnu vrijednost, kako bi { -bran
 policy-OverrideFirstRunPage = Poništi postavke početne stranice. Postavi ovo pravilo na prazno, ako želiš onemogućiti početnu stranicu.
 policy-OverridePostUpdatePage = Poništi stranicu „Što je novo” nakon aktualiziranja. Postavi ovo pravilo na prazno, ako želiš deaktivirati stranicu nakon aktualiziranja.
 policy-PasswordManagerEnabled = Aktiviraj spremanje lozinki u upravljaču lozinki.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Deaktiviraj ili konfiguriraj PDF.js, ugrađeni čitač PDF-a u { -brand-short-name }u.
 policy-Permissions2 = Podesi dozvole za kameru, mikrofon, lokaciju, obavijesti i automatsku reprodukciju.
 policy-PopupBlocking = Omogućite određenim web stranicama prikazivanje skočnih prozora.
 policy-Preferences = Postavi i zaključaj vrijednosti za podskup postavki.
