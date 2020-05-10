@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 text-action-undo =
-    .label = Vrati
-    .accesskey = V
+    .label = Poništi
+    .accesskey = P
 text-action-undo-shortcut =
     .key = Z
 text-action-redo =
