@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "A">
 <!ENTITY lightning.menupopup.open.message.label       "Messaggi salvati…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "File calendario…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Elimina dal calendario">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Dettagli…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Visualizza i dettagli dell'evento">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "Non mostrare questi messaggi">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Calendario">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Vai alla scheda del calendario">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Di più">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Fare clic per visualizzare più opzioni">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Riconferma">
