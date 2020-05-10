@@ -114,7 +114,10 @@
 
 <!ENTITY redirectLoop.title "Petlja preusmjeravanja">
 
-<!ENTITY redirectLoop.longDesc "<ul> <li>Ovaj problem ponekad može biti uzrokovan isključivanjem ili odbijanjemprimanja kolačića.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul>
+  <li>Ovaj problem ponekad može biti uzrokovan isključivanjem ili odbijanjem primanja kolačića
+    kolačića.</li>
+</ul>">
 
 <!ENTITY unknownSocketType.title "Neočekivani odgovor od poslužitelja">
 
