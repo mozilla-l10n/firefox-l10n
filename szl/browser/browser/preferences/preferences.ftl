@@ -924,6 +924,19 @@ addressbar-suggestions-settings = Zmiyń nasztalowania doradōw wyszukowarki
 content-blocking-header = Szperowanie zawartości
 content-blocking-section-description = Brōń swojij prywatności przi przeglōndaniu. Szperuj niywidziano zawartość, co śledzi nawiydzane strōny i cie profiluje. Skuli szperowanio takij zawartości strōny mogōm sie gibcyj ôtwiyrać.
 content-blocking-enhanced-tracking-protection = Polepszōno ôchrōna ôd śledzynio
+content-blocking-section-top-level-description = Śledzōnce elymynty cichtujōm za tobōm w internecie i zbiyrajōm informacyje ô tym, jak przeglōndosz i co je do ciebie ciekawe. { -brand-short-name } szperuje mocka ś nich i inksze ôszydne skrypty.
+content-blocking-learn-more = Przewiydz sie wiyncyj
+# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
+# "Standard" in this case is an adjective, meaning "default" or "normal".
+content-blocking-setting-standard =
+    .label = Sztandardowe
+    .accesskey = d
+content-blocking-setting-strict =
+    .label = Sztryng
+    .accesskey = r
+content-blocking-setting-custom =
+    .label = Włosne
+    .accesskey = W
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
