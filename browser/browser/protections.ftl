@@ -64,10 +64,15 @@ mobile-app-card-content = Используйте мобильный браузе
 mobile-app-links = Браузер { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> и <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Никогда больше не забывайте свои пароли
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Управление паролями
 lockwise-header-content = { -lockwise-brand-name } надёжно хранит пароли в вашем браузере.
 lockwise-header-content-logged-in = Надёжно храните и синхронизируйте свои пароли со всеми вашими устройствами.
 protection-report-view-logins-button = Просмотр логинов
     .title = Перейти к сохранённым логинам
+protection-report-save-passwords-button = Сохранить пароли
+    .title = Сохранить пароли в { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Управление паролями
+    .title = Управление паролями в { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Возьмите свои пароли с собой
 lockwise-no-logins-card-content = Используйте пароли, сохранённые в { -brand-short-name }, на любом устройстве.
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> и <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -80,6 +85,15 @@ lockwise-passwords-stored =
         [few] Пароля надёжно сохранены <a data-l10n-name="lockwise-how-it-works">Как это работает</a>
        *[many] Паролей надёжно сохранено <a data-l10n-name="lockwise-how-it-works">Как это работает</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 пароль возможно был обнаружен в результате утечки данных.
+        [few] { $count } пароля возможно были обнаружены в результате утечки данных.
+       *[many] { $count } паролей возможно были обнаружены в результате утечки данных.
+    }
+lockwise-how-it-works-link = Как это работает
 turn-on-sync = Включить { -sync-brand-short-name(case: "accusative") }…
     .title = Перейти в настройки синхронизации
 manage-connected-devices = Управление устройствами…
