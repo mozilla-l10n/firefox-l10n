@@ -837,9 +837,49 @@ history-remember-option-never =
 history-remember-option-custom =
     .label = używać twojich nasztalowań do historyje
 history-remember-description = { -brand-short-name } bydzie pamiyntoł twoje przeglōndanie, pobiyranie, formulary i historyjo szukanio.
+history-dontremember-description = { -brand-short-name } bydzie używoł tych samuych nasztalowań co we prywatnym trybie i niy spamiynto historyji twojigo przeglōndanio strōn.
+history-private-browsing-permanent =
+    .label = Zawdy używej trybu prywatnego przeglōndanio
+    .accesskey = p
+history-remember-browser-option =
+    .label = Spamiyntuj historyjo przeglōndanio i pobiyranio
+    .accesskey = p
+history-remember-search-option =
+    .label = Spamiyntuj historyjo szukanio i folmularōw
+    .accesskey = f
+history-clear-on-close-option =
+    .label = Pucuj historyjo przi zawarciu aplikacyje { -brand-short-name }
+    .accesskey = c
+history-clear-on-close-settings =
+    .label = Nasztalowania…
+    .accesskey = t
+history-clear-button =
+    .label = Pucuj historyjo…
+    .accesskey = c
 
 ## Privacy Section - Site Data
 
+sitedata-header = Cookies i dane strōn
+sitedata-total-size-calculating = Rachowanie danych strōn i srogości podryncznyj pamiyńci…
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = Spamiyntane cookies, dane strōn i podrynczno pamiyńć używajōm { $value }{ $unit } przestrzyństwa dysku.
+sitedata-learn-more = Przewiydz sie wiyncyj
+sitedata-delete-on-close =
+    .label = Wyciep cookies i dane strōn przi zawiyraniu aplikacyje { -brand-short-name }
+    .accesskey = c
+sitedata-delete-on-close-private-browsing = We ôbstōnym trybie prywatnego przeglōndanio cookies i dany strōn zawdy bydōm wypucowane przi zawiyraniu aplikacyje { -brand-short-name }.
+sitedata-allow-cookies-option =
+    .label = Dej zgoda na cookies i dane strōn
+    .accesskey = Z
+sitedata-disallow-cookies-option =
+    .label = Szperuj cookies i dane strōn
+    .accesskey = S
+# This label means 'type of content that is blocked', and is followed by a drop-down list with content types below.
+# The list items are the strings named sitedata-block-*-option*.
+sitedata-block-desc = Do szperowanio
+    .accesskey = D
 
 ## Privacy Section - Address Bar
 
