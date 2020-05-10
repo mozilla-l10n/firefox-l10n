@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Lisää sivu kirjanmerkkeihin
-    .accesskey = k
 main-context-menu-bookmark-add =
     .aria-label = Lisää sivu kirjanmerkkeihin
     .accesskey = k
@@ -317,3 +314,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Lue lisää DRM-suojauksesta…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = Ilmoita uusista ominaisuuksista
