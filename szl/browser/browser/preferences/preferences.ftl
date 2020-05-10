@@ -977,12 +977,95 @@ content-blocking-warning-title = Pozōr!
 content-blocking-warning-description = Skuli szperowanio zawartości niykere strōny mogōm niy fungować dobrze. Snadnie możesz wyłōnczyć szperowanie na strōnach, kierym wierzisz.
 content-blocking-learn-how = Przewiydz sie, jak
 content-blocking-etp-warning-description = Skuli szperowanio zawartości niykere strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
+content-blocking-and-isolating-etp-warning-description = Skuli szperowanio zawartości niykere i izolowanio cookies strōny mogōm mieć gorszo funkcjōnalność. Przeladuj strōna ze załōnczōnymi śledzōncymi elymyntami, coby pokozać cołko zawartość.
+content-blocking-warning-learn-how = Przewiydz sie, jak
+content-blocking-reload-description = Trza przeladować karty, coby wkludzić zmiany.
+content-blocking-reload-tabs-button =
+    .label = Przeladuj wszyskie karty
+    .accesskey = P
+content-blocking-trackers-label =
+    .label = Śledzōnce elymynty
+    .accesskey = S
+content-blocking-tracking-content-label =
+    .label = Śledzōnco zawartość
+    .accesskey = S
+content-blocking-tracking-protection-option-all-windows =
+    .label = we wszyskich ôknach
+    .accesskey = W
+content-blocking-option-private =
+    .label = ino we prywatnych ôknach
+    .accesskey = p
+content-blocking-tracking-protection-change-block-list = Zmiyń wykoz szperowanych
+content-blocking-cookies-label =
+    .label = Cookies
+    .accesskey = C
+content-blocking-expand-section =
+    .tooltiptext = Wiyncyj informacyji
+# Cryptomining refers to using scripts on websites that can use a computer’s resources to mine cryptocurrency without a user’s knowledge.
+content-blocking-cryptominers-label =
+    .label = Elymynty, co fedrujōm kryptopiniōndze
+    .accesskey = y
+# Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
+# that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
+content-blocking-fingerprinters-label =
+    .label = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
+    .accesskey = E
 
 ## Privacy Section - Tracking
 
+tracking-manage-exceptions =
+    .label = Regiyruj wyjōntkami…
+    .accesskey = j
 
 ## Privacy Section - Permissions
 
+permissions-header = Zgody
+permissions-location = Plac
+permissions-location-settings =
+    .label = Nasztalowania…
+    .accesskey = t
+permissions-xr = Wirtualno ryalność
+permissions-xr-settings =
+    .label = Nasztalowania…
+    .accesskey = t
+permissions-camera = Kamera
+permissions-camera-settings =
+    .label = Nasztalowania…
+    .accesskey = t
+permissions-microphone = Mikrofōn
+permissions-microphone-settings =
+    .label = Nasztalowania…
+    .accesskey = t
+permissions-notification = Powiadōmiynia
+permissions-notification-settings =
+    .label = Nasztalowania…
+    .accesskey = t
+permissions-notification-link = Przewiydz sie wiyncyj
+permissions-notification-pause =
+    .label = Spauzuj powiadōmiynia, aże { -brand-short-name } sie zresztartuje
+    .accesskey = n
+permissions-block-autoplay-media2 =
+    .label = Szperuj autōmatyczny klang na strōnach
+    .accesskey = S
+permissions-block-autoplay-media-exceptions =
+    .label = Wyjōntki…
+    .accesskey = W
+permissions-autoplay = Autōmatyczne puszczanie
+permissions-autoplay-settings =
+    .label = Nasztalowania…
+    .accesskey = t
+permissions-block-popups =
+    .label = Szperuj wyskakujōnce ôkna
+    .accesskey = S
+permissions-block-popups-exceptions =
+    .label = Wyjōntki…
+    .accesskey = W
+permissions-addon-install-warning =
+    .label = Dowej znać, jak strōny prōbujōm zainsztalować rozszyrzynia
+    .accesskey = D
+permissions-addon-exceptions =
+    .label = Wyjōntki…
+    .accesskey = W
 
 ## Privacy Section - Data Collection
 
