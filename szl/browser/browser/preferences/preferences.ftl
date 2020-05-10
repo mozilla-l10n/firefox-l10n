@@ -239,6 +239,9 @@ translate-exceptions =
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Formatuj data, czasy, nōmery i miary podug nasztalowań do godki: “{ $localeName }” z twojigo ôperacyjnego systymu.
+check-user-spelling =
+    .label = Przi pisaniu miyj tekst przeglōndany za felerami
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -786,12 +789,54 @@ forms-generate-passwords =
     .label = Doradzej i rychtuj mocne hasła
     .accesskey = o
 forms-breach-alerts-learn-more-link = Przewiydz sie wiyncyj
+# Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
+forms-fill-logins-and-passwords =
+    .label = Autōmatycznie wkludzej dane logowanio i hasła
+    .accesskey = i
+forms-saved-logins =
+    .label = Spamiyntane dane logowanio…
+    .accesskey = L
+forms-master-pw-use =
+    .label = Używej głōwnego hasła
+    .accesskey = U
+forms-master-pw-change =
+    .label = Zmiyń głōwne hasło…
+    .accesskey = G
+forms-master-pw-fips-title = Jeżeś prawie w trybie FIPS, co potrzebuje niyprōżnego głōwnego hasła.
+forms-master-pw-fips-desc = Zmiana hasła sie niy podarziła
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Zweryfikuj swoja tożsamość, coby zrychtować głōwne hasło.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = Zrychtuj głōwne hasło
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
+history-header = Historyjo
+# This label is followed, on the same line, by a dropdown list of options
+# (Remember history, etc.).
+# In English it visually creates a full sentence, e.g.
+# "Firefox will" + "Remember history".
+#
+# If this doesn't work for your language, you can translate this message:
+#   - Simply as "Firefox", moving the verb into each option.
+#     This will result in "Firefox" + "Will remember history", etc.
+#   - As a stand-alone message, for example "Firefox history settings:".
+history-remember-label = { -brand-short-name } mo
+    .accesskey = w
+history-remember-option-all =
+    .label = spamiyntywać historyjo
+history-remember-option-never =
+    .label = żodyn roz niy spamiyntywać historyji
+history-remember-option-custom =
+    .label = używać twojich nasztalowań do historyje
+history-remember-description = { -brand-short-name } bydzie pamiyntoł twoje przeglōndanie, pobiyranie, formulary i historyjo szukanio.
 
 ## Privacy Section - Site Data
 
