@@ -60,10 +60,15 @@ mobile-app-card-content = Sử dụng trình duyệt di động có bảo vệ t
 mobile-app-links = Trình duyệt { -brand-product-name } dành cho <a data-l10n-name="android-mobile-inline-link">Android</a> và <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Không bao giờ quên mật khẩu lần nữa
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Quản lý mật khẩu
 lockwise-header-content = { -lockwise-brand-name } lưu trữ an toàn mật khẩu của bạn trong trình duyệt của bạn.
 lockwise-header-content-logged-in = Lưu trữ an toàn và đồng bộ hóa mật khẩu của bạn với tất cả các thiết bị của bạn.
 protection-report-view-logins-button = Xem thông tin đăng nhập
     .title = Đi đến Thông tin đăng nhập đã lưu
+protection-report-save-passwords-button = Lưu mật khẩu
+    .title = Lưu mật khẩu trên { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Quản lý mật khẩu
+    .title = Quản lý mật khẩu trên { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Mang mật khẩu của bạn đi khắp mọi nơi
 lockwise-no-logins-card-content = Sử dụng mật khẩu được lưu trong { -brand-short-name } trên bất kỳ thiết bị nào.
 lockwise-app-links = { -lockwise-brand-name } dành cho <a data-l10n-name="lockwise-android-inline-link">Android</a> và <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -74,6 +79,21 @@ lockwise-passwords-stored =
     { $count ->
        *[other] Mật khẩu được lưu trữ an toàn <a data-l10n-name="lockwise-how-it-works">Cách thức hoạt động</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+       *[other] { $count } mật khẩu có thể đã bị lộ do rò rỉ dữ liệu.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+       *[other] Mật khẩu của bạn đang được lưu trữ an toàn.
+    }
+lockwise-how-it-works-link = Nó hoạt động như thế nào
 turn-on-sync = Bật { -sync-brand-short-name }…
     .title = Đi đến tùy chọn đồng bộ hóa
 manage-connected-devices = Quản lý thiết bị…
