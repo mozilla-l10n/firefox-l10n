@@ -21,12 +21,11 @@
 <!ENTITY showHideTooltips.label                 "Показывать всплывающие подсказки">
 <!ENTITY showHideTooltips.accesskey             "в">
 
+<!ENTITY showHideGrippies.label                 "Скрывать минимизаторы панелей">
+<!ENTITY showHideGrippies.accesskey             "ы">
+
 <!ENTITY pref.locales.title                     "Язык интерфейса пользователя">
 <!ENTITY selectLocale.label                     "Выберите язык, используемый в диалоговых окнах, меню, панелях инструментов и кнопках:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Смена языка интерфейса произойдёт после перезапуска вами &brandShortName;.">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties

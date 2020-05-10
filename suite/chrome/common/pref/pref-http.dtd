@@ -26,3 +26,4 @@
 <!ENTITY prefFirefoxNone.accesskey           "я">
 <!ENTITY prefFirefoxCompat2.label            "Представляться как SeaMonkey и сообщать о совместимости с Firefox">
 <!ENTITY prefFirefoxCompat2.accesskey        "ь">
+<!ENTITY prefCompatWarning2.desc             "ПРЕДУПРЕЖДЕНИЕ: изменение этого параметра может привести к неправильной работе веб-сайтов или служб.">
