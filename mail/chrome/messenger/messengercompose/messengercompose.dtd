@@ -61,9 +61,9 @@
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Uredi">
 <!ENTITY editMenu.accesskey "e">
-<!ENTITY undoCmd.label "Vrati">
+<!ENTITY undoCmd.label "Poništi">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "V">
+<!ENTITY undoCmd.accesskey "p">
 <!ENTITY redoCmd.label "Ponovi">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "P">
@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "s">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Okno privitka">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "o">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Označi sve">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -315,8 +308,8 @@
 <!ENTITY spellCheckIgnoreWord.accesskey "I">
 <!ENTITY spellCheckAddToDictionary.label "Dodaj u riječnik">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
-<!ENTITY undo.label "Vrati">
-<!ENTITY undo.accesskey "V">
+<!ENTITY undo.label "Poništi">
+<!ENTITY undo.accesskey "P">
 <!ENTITY cut.label "Izreži">
 <!ENTITY cut.accesskey "I">
 <!ENTITY copy.label "Kopiraj">

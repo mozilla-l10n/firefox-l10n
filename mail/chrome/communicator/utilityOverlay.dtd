@@ -11,9 +11,9 @@
 
 <!ENTITY editMenu.label          "Uredi">
 <!ENTITY editMenu.accesskey        "U">
-<!ENTITY undoCmd.label            "Vrati">
+<!ENTITY undoCmd.label            "Poništi">
 <!ENTITY undoCmd.key            "Z">
-<!ENTITY undoCmd.accesskey          "V">
+<!ENTITY undoCmd.accesskey          "P">
 <!ENTITY redoCmd.label            "Ponovi">
 <!ENTITY redoCmd.key            "Y">
 <!ENTITY redoCmd.accesskey          "P">

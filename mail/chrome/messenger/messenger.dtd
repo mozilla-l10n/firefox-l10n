@@ -122,16 +122,16 @@
 <!ENTITY folderPropsFolderCmd2.label "Postavke mape">
 <!ENTITY folderPropsNewsgroupCmd2.label "Postavke interesne grupe">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY undoDeleteMsgCmd.label "Vrati obrisanu poruku">
+<!ENTITY undoDeleteMsgCmd.label "Poništi brisanje poruke">
 <!ENTITY redoDeleteMsgCmd.label "Ponovi brisanje poruke">
-<!ENTITY undoMoveMsgCmd.label "Vrati premještenu poruku">
+<!ENTITY undoMoveMsgCmd.label "Poništi premještanje poruke">
 <!ENTITY redoMoveMsgCmd.label "Ponovi premještanje poruke">
-<!ENTITY undoCopyMsgCmd.label "Vrati kopiranu poruku">
+<!ENTITY undoCopyMsgCmd.label "Poništi kopiranje poruke">
 <!ENTITY redoCopyMsgCmd.label "Ponovi kopiranje poruke">
-<!ENTITY undoMarkAllCmd.label "Vrati označavanje svega kao pročitano">
+<!ENTITY undoMarkAllCmd.label "Poništi označavanje svega kao pročitano">
 <!ENTITY redoMarkAllCmd.label "Ponovi označavanje svega kao pročitano">
-<!ENTITY undoDefaultCmd.label "Vrati">
-<!ENTITY undoDefaultCmd.accesskey "V">
+<!ENTITY undoDefaultCmd.label "Poništi">
+<!ENTITY undoDefaultCmd.accesskey "P">
 <!ENTITY redoDefaultCmd.label "Ponovi">
 <!ENTITY redoDefaultCmd.accesskey "P">
 
@@ -732,6 +732,7 @@
 <!ENTITY idColumn.label "Redoslijed primanja">
 <!ENTITY attachmentColumn.label "Privici">
 
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Odaberite stupce za prikaz">
 <!ENTITY selectColumn.tooltip "Uključi/isključi odabir svih poruka">
@@ -755,6 +756,7 @@
 <!ENTITY locationColumn2.tooltip "Sortiraj prema lokaciji">
 <!ENTITY idColumn2.tooltip "Sortiraj prema redosljedu primanja">
 <!ENTITY attachmentColumn2.tooltip "Sortiraj prema privitcima">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nova poruka iz predloška">
