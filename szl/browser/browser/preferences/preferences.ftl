@@ -880,12 +880,48 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Do szperowanio
     .accesskey = D
+sitedata-option-block-trackers =
+    .label = Śledzōnce elymynty z inkszych firmōw
+sitedata-option-block-cross-site-trackers =
+    .label = Elymynty śledzōnce miyndzy strōnami
+sitedata-option-block-cross-site-and-social-media-trackers =
+    .label = Elymynty śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Elymynty śledzōnce miyndzy strōnami i ôd społecznościowych serwisōw, a tyż izolowanie inkszych cookies
+sitedata-option-block-unvisited =
+    .label = Cookies z niynawiydzōnych strōn
+sitedata-option-block-all-third-party =
+    .label = Wszyskie śledzōnce elymynty z inkszych firmōw (niykere strōny mogōm niy fungować dobrze)
+sitedata-option-block-all =
+    .label = Wszyskie cookies (niykere strōny mogōm niy fungować dobrze)
+sitedata-clear =
+    .label = Wypucuj dane…
+    .accesskey = I
+sitedata-settings =
+    .label = Regiyruj danymi…
+    .accesskey = M
+sitedata-cookies-permissions =
+    .label = Regiyruj zgodami…
+    .accesskey = Z
 
 ## Privacy Section - Address Bar
 
+addressbar-header = Posek z adresōm
+addressbar-suggest = Przi używaniu poska z adresōm doradzej
+addressbar-locbar-history-option =
+    .label = Historyjo przeglōndanio
+    .accesskey = h
+addressbar-locbar-bookmarks-option =
+    .label = Zokłodki
+    .accesskey = k
+addressbar-locbar-openpage-option =
+    .label = Ôtwarte karty
+    .accesskey = O
+addressbar-suggestions-settings = Zmiyń nasztalowania doradōw wyszukowarki
 
 ## Privacy Section - Content Blocking
 
+content-blocking-header = Szperowanie zawartości
 
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
