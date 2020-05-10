@@ -9,6 +9,7 @@ enable-learn-more-link = Ɓeydu humpito baɗte kuutorɗe topayɓe
 enable-enable-button = Hurmin kuutorɗe topayɓe
 enable-close-button = Uddu ndee Tabbere
 welcome-title = A jaɓɓaama e kuutorɗe topayɓe Firefox!
+newsletter-title = Ɓatakeeji Topayɓe Mozilla
 newsletter-email-placeholder =
     .placeholder = Iimeel
 newsletter-privacy-label = Alanaa kam caɗeele e Mozilla huutoraade ngoo humpito hono no facciraa e <a data-l10n-name="privacy-policy"> ngol Dawirgol Suturo</a>
@@ -18,10 +19,13 @@ newsletter-thanks-message = So a suwaa tawo teeŋtinde lulnagol e ɓataake habri
 footer-title = Taƴtorde topotooɗo Firefox
 footer-learn-more-link = Ɓeydu humpito
 features-learn-more = Ɓeydu humpito
+features-inspector-title = Yuurnitorde
+features-console-title = Ginorde
 features-debugger-title = Momtirgel ella
 features-network-title = Laylaytol
 features-network-desc = Ɗow ɗaɓɓitanɗe laylaytol baawɗe leeltin walla daaƴde lowre maa.  <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-storage-title = Mooftirde
+features-responsive-title = Jiytol Ŋeñto Nootorol
 features-visual-editing-title = Taƴtogol Jiytol
 features-performance-title = Jaawgol golle
 features-memory-title = Teskorde
