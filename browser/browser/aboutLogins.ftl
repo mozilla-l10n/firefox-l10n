@@ -158,6 +158,11 @@ about-logins-breach-alert-learn-more-link = ଅଧିକ ଶିଖନ୍ତୁ
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = ଦୁର୍ବଳ ପାସୱାର୍ଡ
+about-logins-vulnerable-alert-text2 = ଏହି ପାସୱାର୍ଡ ଅନ୍ୟ ଏକ ଆକାଉଣ୍ଟରେ ବ୍ୟବହୃତ ହୋଇଛି ଯାହା ତଥ୍ୟ ଭଙ୍ଗ ହେବାର ସମ୍ଭାବନା ଅଛି | ପରିଚୟପତ୍ରର ପୁନ using ବ୍ୟବହାର ଆପଣଙ୍କ ସମସ୍ତ ଖାତାକୁ ବିପଦରେ ପକାଇଥାଏ | ଏହି ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ କରନ୍ତୁ
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname }କୁ ଯାଆନ୍ତୁ
+about-logins-vulnerable-alert-learn-more-link = ଅଧିକ ଶିଖନ୍ତୁ
 
 ## Error Messages
 
