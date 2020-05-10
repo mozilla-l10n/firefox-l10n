@@ -23,3 +23,4 @@ appmenu-addon-private-browsing-installed =
 appmenu-addon-post-install-incognito-checkbox =
     .label = ଏକଷ୍ଟେନ୍ସନଟିକୁ ଗୋପନୀୟ ୱିଣ୍ଡୋରେ ଚାଲିବାର ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = ଏ
+appmenu-addon-private-browsing-learn-more = ଏକଷ୍ଟେନ୍ସନ ସେଟିଂସମୂହ କିପରି ପରିଚାଳନା କରିବେ ଶିଖନ୍ତୁ

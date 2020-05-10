@@ -2,47 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-       *[default] { -brand-full-name }
-    }
-
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-       *[other] { $title } - { -brand-full-name } (ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ)
-    }
 urlbar-identity-button =
     .aria-label = ୱେବସାଇଟ ସୂଚନା ଦେଖନ୍ତୁ
 
@@ -50,18 +9,24 @@ urlbar-identity-button =
 
 urlbar-services-notification-anchor =
     .tooltiptext = ଇନଷ୍ଟଲ ମେସେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
+urlbar-web-notification-anchor =
+    .tooltiptext = ଆପଣ ସାଇଟରୁ ବିଜ୍ଞପ୍ତି ଗ୍ରହଣ କରିପାରିବେ କି ନାହିଁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ
 urlbar-midi-notification-anchor =
     .tooltiptext = MIDI ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
 urlbar-eme-notification-anchor =
     .tooltiptext = DRM ସଫ୍ଟୱେରର ବ୍ୟବହାର ପରିଚାଳନା କରନ୍ତୁ
 urlbar-web-authn-anchor =
     .tooltiptext = ୱେବ ଅଠେଣ୍ଟିକେସନ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
+urlbar-canvas-notification-anchor =
+    .tooltiptext = କାନଭାସ୍ ନିଷ୍କାସନ ଅନୁମତି ପରିଚାଳନା କରନ୍ତୁ
 urlbar-web-rtc-share-microphone-notification-anchor =
     .tooltiptext = ସାଇଟ ସହିତ ଆପଣଙ୍କର ମାଇକ୍ରୋଫାନ ବାଣ୍ଟିବା ପରିଚାଳନ କରନ୍ତୁ
 urlbar-default-notification-anchor =
     .tooltiptext = ମେସେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
 urlbar-geolocation-notification-anchor =
     .tooltiptext = ସ୍ଥାନ ନିବେଦନ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
+urlbar-xr-notification-anchor =
+    .tooltiptext = ଭର୍ଚୁଆଲ୍ ରିଅଲିଟି ଅନୁମତି ପ୍ୟାନେଲ୍ ଖୋଲନ୍ତୁ
 urlbar-storage-access-anchor =
     .tooltiptext = ବ୍ରାଉଜିଂ ଗତିବିଧି ଅନୁମତି ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
 urlbar-translate-notification-anchor =
@@ -86,6 +51,12 @@ urlbar-addons-notification-anchor =
     .tooltiptext = ଆଡ-ଅନ ଇନଷ୍ଟଲ ମେସେଜ ପ୍ୟାନେଲ ଖୋଲନ୍ତୁ
 urlbar-tip-help-icon =
     .title = ସେବା ପାଆନ୍ତୁ
+urlbar-search-tips-confirm = ଠିକ ଅଛି, ବୁଝିଲି
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = ସୂଚନାଗୁଡ଼ିକ:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -95,17 +66,24 @@ urlbar-tip-help-icon =
 
 ##
 
-
-##
-
 urlbar-geolocation-blocked =
     .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ ଠିକଣା ସୂଚନା ବନ୍ଦ କରିଛନ୍ତି
+urlbar-xr-blocked =
+    .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ଭର୍ଚୁଆଲ୍ ରିଅଲିଟି ଡିଭାଇସ୍ ପ୍ରବେଶକୁ ଅବରୋଧ କରିଛନ୍ତି
 urlbar-web-notifications-blocked =
     .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ ବିଜ୍ଞପ୍ତି ବନ୍ଦ କରିଛନ୍ତି
 urlbar-camera-blocked =
     .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ କ୍ୟାମେରା ବନ୍ଦ କରିଛନ୍ତି
 urlbar-microphone-blocked =
     .tooltiptext = ଏହି ୱେବସାଇଟ ପାଇଁ ଆପଣ ମାଇକ୍ରୋଫୋନ ବନ୍ଦ କରିଛନ୍ତି
+urlbar-screen-blocked =
+    .tooltiptext = ଆପଣ ଏହି ସ୍କ୍ରିନ୍କୁ ଆପଣଙ୍କର ସ୍କ୍ରିନ୍ ଅଂଶୀଦାର କରିବାକୁ ଅବରୋଧ କରିଛନ୍ତି
+urlbar-persistent-storage-blocked =
+    .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ସ୍ଥାୟୀ ଷ୍ଟୋରେଜ୍ ଅବରୋଧ କରିଛନ୍ତି
+urlbar-popup-blocked =
+    .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ପପ୍-ଅପ୍ ଗୁଡିକୁ ଅବରୋଧ କରିଛନ୍ତି
+urlbar-autoplay-media-blocked =
+    .tooltiptext = ଆପଣ ଏହି ୱେବସାଇଟ୍ ପାଇଁ ଧ୍ୱନି ସହିତ ଅଟୋପ୍ଲେ ମିଡିଆକୁ ଅବରୋଧ କରିଛନ୍ତି
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -179,3 +157,6 @@ popup-select-microphone =
     .value = ସହଭାଗ କରିବା ପାଇଁ ମାଇକ୍ରୋଫୋନ:
     .accesskey = M
 popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟମାନ ହେଉଥିବା ସମସ୍ତ ୱିଣ୍ଡୋଗୁଡ଼ିକୁ ସହଭାଗ କରାଯିବ।
+
+## DevTools F12 popup
+
