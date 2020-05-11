@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = मेन्यू खोलें
-# This menuitem is only visible on Windows
-menu-menuitem-import = पासवर्ड आयात करें...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = दूसरे ब्राउज़र से आयात करें…
 menu-menuitem-preferences =
@@ -49,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = इसके अनुसार:
 login-list-name-option = नाम (A-Z)
 login-list-name-reverse-option = नाम (Z-A)
-login-list-breached-option = उलंघित वेबसाइटें
 login-list-last-changed-option = अंतिम परिवर्तन
 login-list-last-used-option = अंतिम प्रयुक्त
 login-list-intro-title = कोई लॉग इन नहीं मिला
@@ -156,9 +153,18 @@ confirm-discard-changes-dialog-confirm-button = छोड़ें
 ## Breach Alert notification
 
 breach-alert-text = आपके अंतिम बार अपना लॉगिन विवरण अपडेट करते समय पासवर्ड इस वेबसाइट से लीक या चोरी हो गए थे। अपने खाते की सुरक्षा के लिए अपना पासवर्ड बदलें।
-breach-alert-link = इस उल्लंघन के बारे में और जानें।
-breach-alert-dismiss =
-    .title = इस अलर्ट को बंद करें
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } पर जाएं
+about-logins-breach-alert-learn-more-link = अधिक जानें
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = कमजोर पासवर्ड
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } पर जाएं
+about-logins-vulnerable-alert-learn-more-link = अधिक जानें
 
 ## Error Messages
 
