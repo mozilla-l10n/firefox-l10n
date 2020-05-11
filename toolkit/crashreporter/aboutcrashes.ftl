@@ -23,5 +23,5 @@ submit-crash-button-failure-label = 失敗
 crashes-submitted-label = 已送出的錯誤報告
 date-submitted-heading = 送出日期
 view-crash-button-label = 檢視
-no-reports-label = 未送出錯誤資訊報表。
+no-reports-label = 未送出任何錯誤資訊報表。
 no-config-label = 此程式尚未設定好以顯示錯誤資訊報表，必須設好 <code>breakpad.reportURL</code> 的值。
