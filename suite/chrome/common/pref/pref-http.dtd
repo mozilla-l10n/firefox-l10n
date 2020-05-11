@@ -20,3 +20,7 @@
 <!ENTITY prefLightningShow.label             "Doporučit instalaci doplňku Lightning">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "VAROVÁNÍ: vypnutí těchto voleb může způsobit, že webové stránky nebo služby nebudou fungovat správně.">
+<!ENTITY prefFirefoxStrict.label             "Identifikovat jako Firefox">
+<!ENTITY prefFirefoxStrict.accesskey         "I">
+<!ENTITY prefFirefoxNone.label               "Identifikovat jako SeaMonkey">
+<!ENTITY prefFirefoxNone.accesskey           "M">
