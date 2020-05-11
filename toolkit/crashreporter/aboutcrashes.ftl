@@ -23,5 +23,5 @@ submit-crash-button-failure-label = Mislyktes
 crashes-submitted-label = Sendte krasjrapporter
 date-submitted-heading = Dato sendt
 view-crash-button-label = Vis
-no-reports-label = Ingen krasjrapporter er sendt.
+no-reports-label = Ingen krasjrapporter er sendt inn.
 no-config-label = Dette programmet er ikke konfigurert for å vise krasjrapporter. Innstillingen <code>breakpad.reportURL</code> må settes.
