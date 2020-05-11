@@ -62,12 +62,15 @@ mobile-app-card-content = Gebruik de mobiele browser met ingebouwde bescherming 
 mobile-app-links = { -brand-product-name } Browser voor <a data-l10n-name="android-mobile-inline-link">Android</a> en <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Vergeet nooit meer een wachtwoord
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Wachtwoordenbeheer
 lockwise-header-content = { -lockwise-brand-name } slaat uw wachtwoorden veilig op in uw browser.
 lockwise-header-content-logged-in = Bewaar en synchroniseer uw wachtwoorden veilig op al uw apparaten.
 protection-report-view-logins-button = Aanmeldingen weergeven
     .title = Naar opgeslagen aanmeldingen
 protection-report-save-passwords-button = Wachtwoorden opslaan
     .title = Wachtwoorden opslaan in { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Wachtwoorden beheren
+    .title = Wachtwoorden in { -lockwise-brand-short-name } beheren
 lockwise-mobile-app-title = Neem uw wachtwoorden overal mee naartoe
 lockwise-no-logins-card-content = Gebruik in { -brand-short-name } opgeslagen wachtwoorden op elk apparaat.
 lockwise-app-links = { -lockwise-brand-name } voor <a data-l10n-name="lockwise-android-inline-link">Android</a> en <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -79,6 +82,23 @@ lockwise-passwords-stored =
         [one] wachtwoord veilig opgeslagen <a data-l10n-name="lockwise-how-it-works">Hoe het werkt</a>
        *[other] wachtwoorden veilig opgeslagen <a data-l10n-name="lockwise-how-it-works">Hoe het werkt</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Er is mogelijk een wachtwoord gelekt in een datalek.
+       *[other] Er zijn mogelijk { $count } wachtwoorden gelekt in een datalek.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Een wachtwoord is veilig opgeslagen.
+       *[other] Uw wachtwoorden worden veilig opgeslagen.
+    }
+lockwise-how-it-works-link = Hoe het werkt
 turn-on-sync = { -sync-brand-short-name } inschakelen…
     .title = Naar synchronisatievoorkeuren
 manage-connected-devices = Apparaten beheren…
