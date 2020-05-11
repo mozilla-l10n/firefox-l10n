@@ -24,3 +24,6 @@
 <!ENTITY prefFirefoxStrict.accesskey         "I">
 <!ENTITY prefFirefoxNone.label               "Identifikovat jako SeaMonkey">
 <!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefFirefoxCompat2.label            "Identifikovat jako SeaMonkey a inzerovat kompatibilitu s Firefoxem">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "VAROVÁNÍ: vypnutí těchto voleb může způsobit, že webové stránky nebo služby nemusí fungovat správně.">

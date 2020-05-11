@@ -21,12 +21,11 @@
 <!ENTITY showHideTooltips.label                 "Zobrazovat vysvětlivky">
 <!ENTITY showHideTooltips.accesskey             "Z">
 
+<!ENTITY showHideGrippies.label                 "Skrýt úchopy panelu nástrojů">
+<!ENTITY showHideGrippies.accesskey             "G">
+
 <!ENTITY pref.locales.title                     "Jazyk uživatelského rozhraní">
 <!ENTITY selectLocale.label                     "Zvolte jazyk, ve kterém se mají zobrazovat texty dialogů, nabídek, nástrojových lišt a tlačítek:">
-<!--LOCALIZATION NOTE (restartOnLangChange.label): Don't translate "&brandShortName;".
-    Place &brandShortName; in the phrase where the name of the application should appear
--->
-<!ENTITY restartOnLangChange.label              "Jazykové předvolby se uplatní až po restartu aplikace &brandShortName;.">
 
 <!--LOCALIZATION NOTE (dateTimeFormatting.label): labels/accesskeys for
      radiobuttons are set dynamically from prefutilities.properties
