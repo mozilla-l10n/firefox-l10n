@@ -505,6 +505,7 @@
 <!ENTITY folderContextGetMessages.label "Přijmout zprávy">
 <!ENTITY folderContextGetMessages.accesskey "P">
 <!ENTITY folderContextMarkAllFoldersRead.label "Označit všechny složky jako přečtené">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "O">
 <!ENTITY folderContextOpenNewWindow.label "Otevřít v novém okně">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Otevřít v novém panelu">
