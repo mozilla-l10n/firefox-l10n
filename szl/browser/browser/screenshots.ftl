@@ -33,3 +33,4 @@ screenshots-empty-selection-error-title = Ôbrany kōnsek je za mały
 screenshots-private-window-error-title = Usuga { -screenshots-brand-name } je zastawiōno we trybie prywatnego przeglōndanio
 screenshots-private-window-error-details = Przebocz ta zawada. Prawie robiymy przi tyj funkcyji, coby sie pokozała we prziszłości.
 screenshots-generic-error-title = Usuga { -screenshots-brand-name } niy funguje dobrze.
+screenshots-generic-error-details = Niy znōmy gynau, co sie podzioło. Sprōbujesz jeszcze roz, abo bydziesz chytać ôbroz inkszyj strōny?
