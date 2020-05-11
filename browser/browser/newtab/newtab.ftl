@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = इस क्रिया को पहले
 newtab-menu-section-tooltip =
     .title = मेन्यू खोलें
     .aria-label = मेन्यू खोलें
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = हटाएं
+    .aria-label = हटाएं
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -177,7 +181,6 @@ newtab-discovery-empty-section-topstories-loading = लोड हो रहा �
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = लोकप्रिय विषय:
 newtab-pocket-more-recommendations = अधिक अनुशंसाएँ
-newtab-pocket-whats-pocket = { -pocket-brand-name } क्या है?
 newtab-pocket-learn-more = अधिक जानें
 newtab-pocket-cta-button = { -pocket-brand-name } प्राप्त करें
 newtab-pocket-cta-text = अपने पसंदीद कहानियाँ { -pocket-brand-name } में सहेजें, और आकर्षक पढ़ाई के साथ अपने दिमाग को शक्ति दें।

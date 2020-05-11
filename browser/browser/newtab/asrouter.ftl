@@ -179,3 +179,17 @@ cfr-doorhanger-cryptominers-heading = { -brand-short-name } ने इस पृ
 
 cfr-doorhanger-milestone-ok-button = सभी देखें
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = आसानी से सुरक्षित पासवर्ड बनाएं
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } आइकॉन
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+

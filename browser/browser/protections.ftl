@@ -14,16 +14,25 @@ cookie-tab-title = क्रॉस-साइट ट्रैकिंग कु�
 tracker-tab-title = ट्रैकिंग सामग्री
 fingerprinter-tab-title = फिंगरप्रिंटर
 cryptominer-tab-title = क्रिप्टोमाइनर
+protections-close-button =
+    .aria-label = बंद करें
+protections-close-button2 =
+    .aria-label = बंद करें
+    .title = बंद करें
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> और <a data-l10n-name="ios-mobile-inline-link">iOS</a> के लिए { -brand-product-name } ब्राउज़र
 lockwise-title = पासवर्ड फिर कभी न भूलें
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = पासवर्ड प्रबंधन
 lockwise-header-content = { -lockwise-brand-name } आपके पासवर्ड को आपके ब्राउज़र में सुरक्षित रूप से संग्रहीत करता है।
 lockwise-header-content-logged-in = अपने पासवर्ड को अपने सभी उपकरणों पर सुरक्षापूर्ण तरीके से संग्रहित और सिंक करें।
 protection-report-view-logins-button = लॉगिन देखें
     .title = सहेजे गए लॉगिन पर जाएँ
+protection-report-save-passwords-button = पासवर्ड सहेजें
+    .title = { -lockwise-brand-short-name } पर पासवर्ड सहेजें
 lockwise-mobile-app-title = हर जगह अपना पासवर्ड लेकर चलें
 lockwise-no-logins-card-content = किसी भी उपकरण पर { -brand-short-name } में सहेजे गए पासवर्ड का उपयोग करें।
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> और <a data-l10n-name="lockwise-ios-inline-link">iOS</a> के लिए { -lockwise-brand-name }
+lockwise-how-it-works-link = यह कैसे काम करता है
 turn-on-sync = { -sync-brand-short-name } चालू करें…
     .title = सिंक वरीयताओं पर जाएँ
 manage-connected-devices = उपकरणों को प्रबंधित करें…
