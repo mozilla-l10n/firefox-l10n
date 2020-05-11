@@ -82,6 +82,22 @@ lockwise-passwords-stored =
         [one] wachtwurd feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it wurket</a>
        *[other] wachtwurden feilich bewarre <a data-l10n-name="lockwise-how-it-works">Hoe't it wurket</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] Der is mooglik in wachtwurd lekt yn in datalek.
+       *[other] Der binne mooglik { $count } wachtwurden lekt yn in datalek.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] In wachtwurd is feilich bewarre.
+       *[other] Jo wachtwurden wurde feilich bewarre.
+    }
 lockwise-how-it-works-link = Hoe't it wurket
 turn-on-sync = { -sync-brand-short-name } ynskeakelje…
     .title = Nei syngronisaasjefoarkarren
