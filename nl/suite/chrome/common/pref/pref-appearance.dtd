@@ -21,6 +21,9 @@
 <!ENTITY showHideTooltips.label                 "Tooltips tonen">
 <!ENTITY showHideTooltips.accesskey             "T">
 
+<!ENTITY showHideGrippies.label                 "Werkbalkgrepen verbergen">
+<!ENTITY showHideGrippies.accesskey             "g">
+
 <!ENTITY pref.locales.title                     "Taal van gebruikersinterface">
 <!ENTITY selectLocale.label                     "Selecteer de taal voor tekst die in dialoogvensters, menu’s, werkbalken en knopteksten verschijnt:">
 
