@@ -40,4 +40,4 @@ create-profile-choose-folder =
     .accesskey = C
 create-profile-use-default =
     .label = Օգտագործել նախանշված թղթապանակը
-    .accesskey = Օ
+    .accesskey = U
