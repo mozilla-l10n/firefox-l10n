@@ -55,8 +55,15 @@ cookie-tab-title = كعكات تتعقّبك بين المواقع
 tracker-tab-title = حجب المحتوى
 fingerprinter-tab-title = مسجّلات البصمات
 cryptominer-tab-title = المُعدّنات المعمّاة
+cryptominer-tab-content = تستعمل المُعدّنات المعمّاة طاقة الحساب في جهازك لتُعدّن أموالا رقمية. يستنزف هذا التعدين المدخرة ويُبطئ الجهاز ويزيد من فاتورة الكهرباء.<a data-l10n-name="learn-more-link">اطّلع على المزيد</a>
+protections-close-button =
+    .aria-label = أغلِق
+protections-close-button2 =
+    .aria-label = أغلِق
+    .title = أغلِق
 lockwise-title = بعد الآن، ”نسيت كلمة السر“ فعل ماض
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = إدارة كلمات السر
 lockwise-header-content = يخزّن { -lockwise-brand-name } كلمات السرّ لديك في متصفّحك بأمان تام.
 lockwise-header-content-logged-in = خزّن كلمات السر وزامنها على مختلف الأجهزة لديك.
 protection-report-view-logins-button = اعرض جلسات الولوج
