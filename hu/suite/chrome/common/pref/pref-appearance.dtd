@@ -21,6 +21,7 @@
 <!ENTITY showHideTooltips.label                 "Buboréksúgók megjelenítése">
 <!ENTITY showHideTooltips.accesskey             "B">
 
+<!ENTITY showHideGrippies.label                 "Eszköztár fogódzkodóinak elrejtése">
 <!ENTITY showHideGrippies.accesskey             "G">
 
 <!ENTITY pref.locales.title                     "Felhasználói felület nyelve">
