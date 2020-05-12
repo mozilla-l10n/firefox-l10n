@@ -3,8 +3,3 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 #filter substitution
-
-
-# LOCALIZATION NOTE: this preference is set to true only for a specific set of
-# locales, without this line the setting is set to false by default.
-pref("browser.search.geoSpecificDefaults", true);
