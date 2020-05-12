@@ -15,6 +15,6 @@ blocklist-soft-blocked = Ձեր պաշտպանության համար խստիվ
 blocklist-more-information =
     .value = Մանրամասն տեղեկություններ
 blocklist-blocked =
-    .label = Արգելված է
+    .label = Արգելափակված
 blocklist-checkbox =
     .label = Անջատել

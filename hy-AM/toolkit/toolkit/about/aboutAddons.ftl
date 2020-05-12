@@ -110,7 +110,7 @@ detail-private-disallowed-description = Այս ընդլայնումը չի գո�
 detail-private-disallowed-description2 = Այս ընդլայնումը չի գործի անձնական զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 # Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
 detail-private-required-label = Պահանջվում է մուտք դեպի անձնական պատուհան
-detail-private-required-description = Այս ընդլայնումը հասանելի է ձեր առցանց գործունության՝ անձնական զննարկման ժամանակ։ <label data-l10n-name="detail-private-browsing-learn-more">Իմանալ ավելին</label>
+detail-private-required-description = Այս ընդլայնումը հասանելի է ձեր առցանց գործունութեան՝ անձնական զննարկման ժամանակ։ <label data-l10n-name="detail-private-browsing-learn-more">Իմանալ աւելին</label>
 detail-private-required-description2 = Այս ընդլայնումը հասանելի է ձեր առցանց գործունության՝ անձնական զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ ավելին</a>
 detail-private-browsing-on =
     .label = Թույլատրել
