@@ -2,47 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (Privat browsing)
-       *[default] { -brand-full-name }
-    }
 
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (Privat browsing)
-       *[other] { $title } - { -brand-full-name } (Privat browsing)
-    }
 urlbar-identity-button =
     .aria-label = Vis information om websted
 
@@ -250,6 +210,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimer
+browser-window-maximize-button =
+    .tooltiptext = Maksimer
+browser-window-restore-down-button =
+    .tooltiptext = Gendan fra maksimeret
 browser-window-close-button =
     .tooltiptext = Luk
 
@@ -262,3 +226,8 @@ popup-select-microphone =
     .value = Mikrofon til deling:
     .accesskey = M
 popup-all-windows-shared = Alle synlige vinduer på din skærm vil blive delt.
+
+## DevTools F12 popup
+
+enable-devtools-popup-description = For at bruge F12 som genvej skal du først åbne udviklerværktøj fra menuen Webudvikler.
+

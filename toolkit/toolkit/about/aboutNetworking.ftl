@@ -9,7 +9,6 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = DNS-suffiks
 websockets = WebSockets
 refresh = Opdater
 auto-refresh = Opdater hvert 3. sekund
@@ -71,8 +70,6 @@ rcwn-avg-long = Long Average
 rcwn-std-dev-long = Long Standard Deviation
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
-networkid = Netværks-ID
-networkid-id = Netværks-ID
 about-networking-ssl = SSL
 about-networking-active = Aktiv
 about-networking-idle = Inaktiv
@@ -122,8 +119,6 @@ about-networking-networkid-id = Netværks-ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Netværksforbindelsen er oppe
-networkid-statusKnown = Netværksforbindelsens status er kendt
 about-networking-networkid-is-up = Netværksforbindelsen er oppe
 about-networking-networkid-status-known = Netværksforbindelsens status er kendt
 

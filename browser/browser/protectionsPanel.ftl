@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Virker webstedet nu? Fortæl os de
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Striks
+  .label = Striks
+protections-popup-footer-protection-label-custom = Tilpasset
+  .label = Tilpasset
+protections-popup-footer-protection-label-standard = Standard
+  .label = Standard
 
 ##
 
