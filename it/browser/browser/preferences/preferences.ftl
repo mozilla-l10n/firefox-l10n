@@ -342,7 +342,7 @@ applications-use-other-label =
     .value = { applications-use-other.label }
 applications-use-os-default-label =
     .value = { applications-use-os-default.label }
-    
+
 ##
 
 drm-content-header = Contenuti con DRM (Digital Rights Management)
@@ -799,6 +799,7 @@ forms-master-pw-fips-desc = La password non è stata cambiata
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verificare la propria identità per creare una password principale.
+master-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
