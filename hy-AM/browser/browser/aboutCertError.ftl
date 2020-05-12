@@ -64,7 +64,7 @@ deniedPortAccess-title = Այս հասցեն արգելափակված է
 # You don't have to include it in your translation if your language does not have a written word like this.
 dnsNotFound-title = Հնարավոր չէ գտնել այդ կայքը:
 fileNotFound-title = Նիշքը չի գտնվել
-fileAccessDenied-title = Մատչումը ֆայլին մերժված է
+fileAccessDenied-title = Նիշքի մուտքը մերժված է
 generic-title = Վայ։
 captivePortal-title = Մուտք գործել ցանց
 # "Hmm" is a sound made when considering or puzzling over something.
@@ -78,7 +78,7 @@ unsafeContentType-title = Ոչ անվտանգ ֆայլի տեսակ
 netReset-title = Կապը խզվեց
 netTimeout-title = Կապի հաստատման ժամանակը սպառվեց
 unknownProtocolFound-title = Հասցեն անհասկանալի էր
-proxyConnectFailure-title = Պրոքսի սպասարկիչը մերժում է ընդունել կապը
+proxyConnectFailure-title = Պրոքսի սպասարկիչը մերժել է հրաժարվելով կապերից
 proxyResolveFailure-title = Չի ստացվում գտնել պրոքսի սպասարկիչը
 redirectLoop-title = Էջի սխալ վերահասցեավորում
 unknownSocketType-title = Սպասարկիչի պատասխանը անհասկանալի է:
