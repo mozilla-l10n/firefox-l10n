@@ -21,12 +21,12 @@ onboarding-button-label-get-started = فلنبدأ
 onboarding-welcome-header = مرحبًا بك في { -brand-short-name }
 onboarding-welcome-body = وصلك الآن المتصفّح.<br/>اطّلع على بقيّة منتجات { -brand-product-name }.
 onboarding-welcome-learn-more = اعرف المزيد حول فوائد ذلك.
+onboarding-join-form-header = انضم إلى { -brand-product-name }
 onboarding-welcome-modal-get-body = وصلك الآن المتصفّح.<br/>بقيت أمامك روائع { -brand-product-name } كلّها.
 onboarding-welcome-modal-supercharge-body = عزّز حمايات الخصوصية.
 onboarding-welcome-modal-privacy-body = صار المتصفّح عندك. الآن لنزيد من حمايات الخصوصيّة.
 onboarding-welcome-modal-family-learn-more = خُذ نظرة على طقم منتجات { -brand-product-name }.
 onboarding-welcome-form-header = ابدأ هنا
-onboarding-join-form-header = انضم إلى { -brand-product-name }
 onboarding-join-form-body = أدخِل عنوان البريد الإلكتروني لتبدأ.
 onboarding-join-form-email =
     .placeholder = أدخِل البريد الإلكتروني
@@ -147,6 +147,8 @@ onboarding-facebook-container-button = أضِف الامتداد
 onboarding-import-browser-settings-title = استورِد العلامات وكلمات السر وغيرها
 onboarding-import-browser-settings-text = ادخُل صلب الموضوع بأخذ مواقعك وإعداداتك على كروم معك.
 onboarding-import-browser-settings-button = استورِد بيانات كروم
+onboarding-personal-data-promise-title = صمّمناه ليكون خاصًا
+onboarding-personal-data-promise-text = تتعامل { -brand-product-name } مع بياناتك باحترام شديد ذلك باستلام أقلّ قدر منها، وحمايتها وتوضيح كيفية استعمالها لها بأقصى شفافية ممكنة.
 
 ## Message strings belonging to the Return to AMO flow
 

@@ -25,6 +25,7 @@ policy-Cookies = السماح للمواقع بضبط الكعكات أو الر
 policy-DefaultDownloadDirectory = ضبط دليل التنزيل المبدئي.
 policy-DisableAppUpdate = منع المتصفح من التحديث.
 policy-DisableBuiltinPDFViewer = تعطيل PDF.js، عارِض ملفات PDF المضمّن في { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = امنع وكيل المتصفّح المبدئي من اتخاذ أي إجراء. لا ينطبق هذا إلا على وِندوز إذ ليس لبقية المنصات وكلاء.
 policy-DisableDeveloperTools = منع الوصول إلى أدوات المطوّرين.
 policy-DisableFeedbackCommands = تعطيل أوامر إرسال الانطباعات في قائمة المساعدة (”أرسِل تعليقًا“ و ”أبلغ عن موقع مخادع“).
 policy-DisableFirefoxAccounts = تعطيل الخدمات التي تعتمد { -fxaccount-brand-name }، بما في ذلك المزامنة.
@@ -51,6 +52,8 @@ policy-DontCheckDefaultBrowser = تعطيل التحقق من كون المتص�
 policy-DownloadDirectory = ضبط وقفل دليل التنزيل.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = تفعيل أو تعطيل حجب المحتوى وقفل الخيار إن لزم.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = تفعيل أو تعطيل امتدادات الوسائط المعمّاة وقفل الخيار إن لزم.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -64,6 +67,12 @@ policy-HardwareAcceleration = إن كان ”خطأ“، عطِّل التسري
 policy-Homepage = ضبط صفحة البداية وقفل الخيار إن لزم.
 policy-InstallAddonsPermission = السماح لبعض المواقع بتثبيت الإضافات.
 policy-LegacyProfiles = تعطيل الميزة التي تُجبر بوجود ملف منفصل لكلّ نسخة مثبّتة.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-LocalFileLinks = السماح لمواقع بعينها أن تصنع روابط إلى ملفات محلية.
 policy-NetworkPrediction = تفعيل/تعطيل التوقّع الشبكي (الجلب المسبق لِ‍ DNS).
 policy-NewTabPage = تفعيل/تعطيل صفحة ”لسان جديد“.
