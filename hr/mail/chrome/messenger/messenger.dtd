@@ -732,6 +732,7 @@
 <!ENTITY idColumn.label "Redoslijed primanja">
 <!ENTITY attachmentColumn.label "Privici">
 
+<!ENTITY deleteColumn.label "Izbriši">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Odaberite stupce za prikaz">
@@ -757,6 +758,7 @@
 <!ENTITY idColumn2.tooltip "Sortiraj prema redosljedu primanja">
 <!ENTITY attachmentColumn2.tooltip "Sortiraj prema privitcima">
 
+<!ENTITY deleteColumn.tooltip "Izbriši poruku">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Nova poruka iz predloška">
