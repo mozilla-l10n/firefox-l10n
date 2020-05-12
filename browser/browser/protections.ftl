@@ -82,6 +82,22 @@ lockwise-passwords-stored =
         [one] Senhal gardat de forma segura <a data-l10n-name="lockwise-how-it-works">Cossí fonciona</a>
        *[other] Senhals gardats de forma segura <a data-l10n-name="lockwise-how-it-works">Cossí fonciona</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 senhal pòt aver estat divulgat a causa d’una pèrda de donadas.
+       *[other] { $count } senhals pòdon aver estats divulgats a causa d’una pèrda de donadas.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 senhal es gardat en seguretat
+       *[other] Vòstres senhals son gardats en seguretat
+    }
 lockwise-how-it-works-link = Cossí fonciona
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Anar a las preferéncias
