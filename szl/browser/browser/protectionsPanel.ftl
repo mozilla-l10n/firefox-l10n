@@ -34,9 +34,15 @@ protections-panel-site-not-working-view =
 
 protections-panel-not-blocking-why-label = Po jakimu?
 protections-panel-not-blocking-why-etp-on-tooltip = Skuli zaszperowanio tych elymyntōw niykere strōny mogōm niy fungować dobrze. Bez śledzōncych elymyntōw niykere knefle, formulary i pola na logowanie mogōm niy fungować.
+protections-panel-not-blocking-why-etp-off-tooltip = Wszyskie śledzōnce elymynty na tyj strōnie sōm zaladowane, bo ôchrōna ôd śledzynio je wyłōnczōno.
 
 ##
 
+protections-panel-no-trackers-found = { -brand-short-name } niy znod na tyj strōnie żodnych poznanych śledzōncych elymyntōw.
+protections-panel-content-blocking-tracking-protection = Śledzōnco zawartość
+protections-panel-content-blocking-socialblock = Elymynty śledzōnce ôd społecznościowych serwisōw
+protections-panel-content-blocking-cryptominers-label = Elymynty, co fedrujōm kryptopiniōndze
+protections-panel-content-blocking-fingerprinters-label = Elymynty, co rychtujōm ôdcisk ôd przeglōndarki
 
 ## In the protections panel, Content Blocking category items are in three sections:
 ##   "Blocked" for categories being blocked in the current page,
@@ -44,13 +50,28 @@ protections-panel-not-blocking-why-etp-on-tooltip = Skuli zaszperowanio tych ely
 ##   "None Detected" for categories not detected in the current page.
 ##   These strings are used in the header labels of each of these sections.
 
+protections-panel-blocking-label = Zaszperowane
+protections-panel-not-blocking-label = Przizwōlōne
+protections-panel-not-found-label = Żodnych znodniyntych
 
 ##
 
+protections-panel-settings-label = Nasztalowania ôchrōny
+protections-panel-showreport-label = Pokoż raport
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
+# The header of the list
+protections-panel-site-not-working-view-header = Wyłōncz ôchrōna, jak mosz problymy ze:
+# The list items, shown in a <ul>
+protections-panel-site-not-working-view-issue-list-login-fields = Polami na logowanie
+protections-panel-site-not-working-view-issue-list-forms = Formularami
+protections-panel-site-not-working-view-issue-list-payments = Płatami
+protections-panel-site-not-working-view-issue-list-comments = Kōmyntorzami
+protections-panel-site-not-working-view-issue-list-videos = Filmami
+protections-panel-site-not-working-view-send-report = Poślij raport
 
 ##
 
+protections-panel-cross-site-tracking-cookies = Te cookies idōm za tobōm miyndzy strōnami, coby zbiyrać dane ô tym, co robisz w internecie. Wystowiajōm je inksze firmy, bez przikłod takie ôd reklamy abo analizy danych.
