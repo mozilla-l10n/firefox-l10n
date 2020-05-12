@@ -50,7 +50,6 @@ login-list-count =
 login-list-sort-label-text = Sorter efter:
 login-list-name-option = Navn (A-Z)
 login-list-name-reverse-option = Navn (Z-A)
-login-list-breached-option = Websteder med datalæk
 about-logins-login-list-alerts-option = Advarsler
 login-list-last-changed-option = Senest ændret
 login-list-last-used-option = Senest brugt
@@ -173,9 +172,6 @@ confirm-discard-changes-dialog-confirm-button = Annuller
 
 about-logins-breach-alert-title = Websted med datalæk
 breach-alert-text = Adgangskoder er blevet lækket eller stjålet fra dette websted, siden du senest opdaterede dine login-oplysninger. Skift din adgangskode for at beskytte din konto.
-breach-alert-link = Læs mere om denne datalæk.
-breach-alert-dismiss = 
-    .title = Luk denne advarsel
 
 about-logins-breach-alert-date = Datalækket fandt sted { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:

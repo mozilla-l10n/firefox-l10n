@@ -62,10 +62,15 @@ mobile-app-card-content = Brug mobil-browseren med indbygget beskyttelse mod spo
 mobile-app-links = { -brand-product-name }-browser til <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Glem aldrig en adgangskode igen
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Håndtering af adgangskoder
 lockwise-header-content = { -lockwise-brand-name } gemmer dine adgangskoder i din browser på en sikker måde.
 lockwise-header-content-logged-in = Gem og synkroniser dine adgangskoder på alle dine enheder.
 protection-report-view-logins-button = Vis logins
     .title = Gå til gemte logins
+protection-report-save-passwords-button = Gem adgangskoder
+  .title = Gem adgangskoder i { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Manage Passwords
+  .title = Manage Passwords on { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Tag dine adgangskoder med overalt
 lockwise-no-logins-card-content = Brug adgangskoder gemt i { -brand-short-name } på enhver enhed.
 lockwise-app-links = { -lockwise-brand-name } til <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +82,26 @@ lockwise-passwords-stored =
         [one] adgangsskode gemt sikkert <a data-l10n-name="lockwise-how-it-works">Sådan virker det</a>
        *[other] adgangskoder gemt sikkert <a data-l10n-name="lockwise-how-it-works">Sådan virker det</a>
     }
+
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins = 
+  { $count ->
+      [one] 1 adgangskode kan være kompromitteret i en datalæk.
+     *[other] { $count } adgangskoder kan være kompromitteret i en datalæk.
+  }
+
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+  { $count ->
+     [one] 1 adgangskode gemt sikkert.
+    *[other] Dine adgangskoder er gemt sikkert.
+  }
+lockwise-how-it-works-link = Sådan virker det
+
 turn-on-sync = Aktivér { -sync-brand-short-name }…
     .title = Gå til sync-indstillinger
 manage-connected-devices = Håndter enheder…
