@@ -75,3 +75,10 @@ protections-panel-site-not-working-view-send-report = Poślij raport
 ##
 
 protections-panel-cross-site-tracking-cookies = Te cookies idōm za tobōm miyndzy strōnami, coby zbiyrać dane ô tym, co robisz w internecie. Wystowiajōm je inksze firmy, bez przikłod takie ôd reklamy abo analizy danych.
+protections-panel-cryptominers = Elymynty, co używajōm siyły rachowanio twojigo kōmputra, coby fedrować wirtualne piniōndze. Takie skrypty rozfolowujōm bateryjo, spōmalajōm kōmputer i mogōm zwiynkszyć płaty za sztrōm.
+protections-panel-fingerprinters = Elymynty, co zbiyrajōm nasztalowania przeglōndarki i kōmputra, coby zrychtować twōj profil. Skuli takigo cyfrowego ôdciska palca mogōm iś za tobōm miyndzy roztōmajtymi strōnami.
+protections-panel-tracking-content = Strōny mogōm ladować zewnyntrzne reklamy, filmy i inkszo zawartość ze śledzōncym kodym. Skuli zaszperowanio śledzōncych elymyntōw strōny mogōm sie gibcyj ladować, ale niykere knefle, formulary i pola logowanio mogōm już niy fungować.
+protections-panel-social-media-trackers = Społecznościowe serwisy dowajōm na swojich strōnach śledzōnce elymynty, coby zaglōndać na to, co robisz, widzisz i ôglōndosz w internecie. Skuli tego ich posiedziciele przewiadujōm sie ô ciebie wiyncyj jak to, co udostympniosz we tych serwisach.
+protections-panel-content-blocking-manage-settings =
+    .label = Regiyruj nasztalowaniami ôchrōny
+    .accesskey = R
