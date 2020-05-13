@@ -203,4 +203,7 @@
 <!ENTITY dontShowMessage.label        "Dit bericht niet tonen wanneer pop-ups worden geblokkeerd">
 <!ENTITY dontShowMessage.accesskey    "D">
 
+<!ENTITY throbber.title "Throbber">
+<!ENTITY throbber.tooltip2 "Naar de &brandShortName;-startpagina gaan">
+
 <!ENTITY syncToolbarButton.label "Sync">
