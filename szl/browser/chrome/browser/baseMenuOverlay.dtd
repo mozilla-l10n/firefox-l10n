@@ -21,13 +21,28 @@
 <!ENTITY productHelp2.accesskey   "P">
 <!ENTITY helpMac.commandkey       "?">
 
+<!ENTITY helpKeyboardShortcuts.label     "Skrōty tastatury">
+<!ENTITY helpKeyboardShortcuts.accesskey "T">
+
+<!ENTITY helpSafeMode.label       "Restart with Add-ons Disabled…">
+<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.stop.label       "Resztartuj ze załōnczōnymi roszyrzyniami">
+<!ENTITY helpSafeMode.stop.accesskey   "R">
+
+<!ENTITY helpTroubleshootingInfo.label      "Ô rozwiōnzowaniu problymōw">
+<!ENTITY helpTroubleshootingInfo.accesskey  "p">
+
+<!ENTITY helpFeedbackPage.label      "Poślij ôpinijo">
+<!ENTITY helpFeedbackPage.accesskey  "O">
 
 
+<!ENTITY preferencesCmdMac.label        "Preferyncyje…">
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
+<!ENTITY servicesMenuMac.label          "Usugi">
 
-
-
-
+<!ENTITY hideThisAppCmdMac2.label       "Skryj &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "S">
 
 
 
