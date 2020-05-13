@@ -207,7 +207,7 @@ cfr-doorhanger-milestone-ok-button = 查看全部
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = 轻松生成高强度密码
-cfr-whatsnew-lockwise-body = 要帮每个账号都创建不重复且安全的密码并不容易。在任何网站上注册账户时，只需点击密码栏位，{ -brand-shorter-name } 就可以自动为您生成安全的密码。
+cfr-whatsnew-lockwise-body = 要帮每个账号都创建不重复且安全的密码并不容易。在任何网站上注册账户时，只需点击密码栏，{ -brand-shorter-name } 就可以自动为您生成安全的密码。
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } 图标
 
 ## Vulnerable Passwords message
