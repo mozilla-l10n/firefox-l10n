@@ -37,6 +37,7 @@ etp-card-title = Proteção aprimorada contra rastreamento
 etp-card-content = Rastreadores seguem você online por todo canto para coletar informações sobre seus interesses e hábitos de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros scripts maliciosos.
 protection-report-webpage-title = Painel de proteções
 protection-report-page-content-title = Painel de proteções
+protection-report-page-summary = O { -brand-short-name } pode proteger sua privacidade nos bastidores enquanto você navega. Este é um resumo personalizado dessas proteções, incluindo ferramentas para assumir o controle de sua segurança online.
 etp-card-title-always = Proteção aprimorada contra rastreamento: Sempre ATIVADA
 etp-card-title-custom-not-blocking = Proteção aprimorada contra rastreamento: DESATIVADA
 protection-report-etp-card-content-custom-not-blocking = Todas as proteções estão desativadas no momento. Escolha que rastreadores bloquear gerenciando as configurações de proteção do { -brand-short-name }.
