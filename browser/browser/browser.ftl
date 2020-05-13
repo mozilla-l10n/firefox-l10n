@@ -232,6 +232,8 @@ browser-window-minimize-button =
     .tooltiptext = Minimalizovat
 browser-window-maximize-button =
     .tooltiptext = Maximalizovat
+browser-window-restore-down-button =
+    .tooltiptext = Obnovit z maximalizace
 browser-window-close-button =
     .tooltiptext = Zavřít
 
