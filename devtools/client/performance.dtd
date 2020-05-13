@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Profilleyici örnekleri dairesel bir tamponda depolar ve tampon bir kayıt için sınıra ulaştığı zaman yeni örnekler kaydın başındaki örneklerin üstüne yazılmaya başlanır.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Çok işlemli olmayan Firefox’ta gerçek zamanlı veri kaydı kullanılamaz.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
@@ -29,7 +24,7 @@
   -  is displayed when the profiler's circular buffer has started to overlap. -->
 <!ENTITY performanceUI.bufferStatusFull "Tampon doldu. Eski örneklerin üstüne yazılmaya başlanıyor.">
 
-<!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
+<!-- LOCALIZATION NOTE (performanceUI.unavailableNoticePB): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 <!ENTITY performanceUI.unavailableNoticePB "Profil kaydı şu anda kullanılamıyor. Lütfen tüm gizli gezinti pencerelerini kapatıp yeniden deneyin.">
@@ -46,7 +41,7 @@
 <!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Tarayıcının kayıt sırasında en çok zaman harcadığı fonksiyonları vurgular.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Atamalar">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Kayıt sırasında belleğin nereye atandığını gösterir.">
-<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart’ı">
+<!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Kayıt boyunca JavaScript çağrı yığınını gösterir.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Atamalar Flame Chart’ı">
 
@@ -102,7 +97,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
-<!ENTITY performanceUI.flattenTreeRecursion             "Özyinleme ağacını düzleştir">
+<!ENTITY performanceUI.flattenTreeRecursion             "Özyineleme ağacını düzleştir">
 <!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Fonksiyonları denetlerken özyinelemeyi düzleştir.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
