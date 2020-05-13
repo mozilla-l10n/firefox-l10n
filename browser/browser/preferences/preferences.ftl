@@ -236,7 +236,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale = 
-   .label = Brug dit operativsystems indstillinger for "{ $localeName }" til at formatere datoer, tidspunkter, tal og måleenheder.
+   .label = Brug dit operativsystems indstillinger for "{ $localeName }" til at formatere datoer, klokkeslæt, tal og måleenheder.
 
 check-user-spelling =
     .label = Kontroller min stavning mens jeg taster
