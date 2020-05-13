@@ -39,6 +39,10 @@ protection-report-page-title = Škit priwatnosće
 protection-report-content-title = Škit priwatnosće
 etp-card-title = Polěpšeny slědowanski škit
 etp-card-content = Přesćěhowaki wam online slěduja, zo bychu informacije wo wašich přehladowanskich zwučenosćach a zajimach hromadźili. { -brand-short-name } wjele z tutych přesćěhowakow a druhe złóstne skripty blokuje.
+protection-report-webpage-title = Přehlad škitow
+protection-report-page-content-title = Přehlad škitow
+etp-card-title-always = Polěpšeny slědowanski škit: přeco zmóžnjeny
+etp-card-title-custom-not-blocking = Polěpšeny slědowanski škit: ZNJEMÓŽNJENY
 protection-report-etp-card-content-custom-not-blocking = Kóždy škit je tuchwilu wotpinjeny. Wubjerće, kotre přesćěhowaki maja so přez rjadowanje wašich škitnych nastajenjow { -brand-short-name } blokować.
 protection-report-manage-protections = Nastajenja rjadować
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
