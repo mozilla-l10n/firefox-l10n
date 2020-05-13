@@ -791,6 +791,8 @@ forms-master-pw-fips-desc = 密碼變更失敗
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = 確認您的身分以建立主控密碼。
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能建立主控密碼。這個動作是為了保護您的登入資訊安全。
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.

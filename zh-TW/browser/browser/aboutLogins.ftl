@@ -46,7 +46,6 @@ login-list-count =
 login-list-sort-label-text = 排序依照:
 login-list-name-option = 名稱（A-Z 排序）
 login-list-name-reverse-option = 名稱（Z-A 排序）
-login-list-breached-option = 發生資料外洩事件的網站
 about-logins-login-list-alerts-option = 警報
 login-list-last-changed-option = 上次修改
 login-list-last-used-option = 上次使用
@@ -107,17 +106,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = 確認您的身分以編輯儲存的登入資訊。
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能繼續編輯登入資訊。這個動作是為了保護您的登入資訊安全。
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 編輯儲存的登入資訊
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = 確認您的身分以顯示儲存的網站密碼。
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能檢視密碼。這個動作是為了保護您的登入資訊安全。
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 顯示儲存的網站密碼
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = 確認您的身分以複製儲存的登入資訊。
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = 請在下方輸入您的 Windows 登入帳號密碼才能複製密碼。這個動作是為了保護您的登入資訊安全。
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 複製儲存的網站密碼
 
@@ -162,9 +167,6 @@ confirm-discard-changes-dialog-confirm-button = 捨棄
 
 about-logins-breach-alert-title = 網站資訊外洩
 breach-alert-text = 自您上次更新登入資訊以來，此網站發生了密碼外洩或失竊事件。請務必更改密碼，確保帳戶安全。
-breach-alert-link = 了解此事件的更多資訊
-breach-alert-dismiss =
-    .title = 關閉此警報
 about-logins-breach-alert-date = 此事件發生於: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
