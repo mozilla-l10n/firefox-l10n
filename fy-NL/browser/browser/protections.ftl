@@ -35,6 +35,12 @@ protection-report-page-title = Privacybeskermingen
 protection-report-content-title = Privacybeskermingen
 etp-card-title = Ferbettere beskerming tsjin folgjen
 etp-card-content = Trackers folgje jo online om gegevens oer jo sneupgedrach en ynteresses te sammeljen. { -brand-short-name } blokkearret in protte fan dizze trackers en oare kweawollende scripts.
+protection-report-webpage-title = Befeiligingsdashboerd
+protection-report-page-content-title = Befeiligingsdashboerd
+protection-report-page-summary = { -brand-short-name } kin efter de skermen jo privacy beskermje wylst jo sneupe. Dit is in personalisearre gearfetting fan dy beskerming, ynklusyf helpmiddelen om fet te krijen op jo online befeiliging.
+etp-card-title-always = Ferbettere beskerming tsjin befeiliging: altyd oan
+etp-card-title-custom-not-blocking = Ferbettere beskerming tsjin folgjen: ÚT
+etp-card-content-summary = Wannear ûnbekende bedriuwen jo stikem probearje te folgjen op it web, stoppet { -brand-short-name } der in protte automatysk.
 protection-report-etp-card-content-custom-not-blocking = Alle beskermingen binne op it stuit útskeakele. Kies hokker trackers jo blokkearje wolle troch jo { -brand-short-name } beskermingsynstellingen te behearen.
 protection-report-manage-protections = Ynstellingen beheare
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
