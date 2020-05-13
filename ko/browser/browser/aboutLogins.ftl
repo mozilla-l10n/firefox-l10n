@@ -46,7 +46,6 @@ login-list-count =
 login-list-sort-label-text = 정렬 기준:
 login-list-name-option = 이름 (A-Z)
 login-list-name-reverse-option = 이름 (Z-A)
-login-list-breached-option = 유출된 웹 사이트
 about-logins-login-list-alerts-option = 알림
 login-list-last-changed-option = 마지막 수정
 login-list-last-used-option = 마지막 사용
@@ -107,17 +106,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = 저장된 로그인을 편집하려면 자격 증명을 검증하세요.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = 로그인을 편집하려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 저장된 로그인 편집
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = 저장된 비밀번호를 표시하려면 자격 증명을 검증하세요.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = 비밀번호를 보려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 저장된 비밀번호 표시
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = 저장된 비밀번호를 복사하려면 자격 증명을 검증하세요.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = 비밀번호를 복사하려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 저장된 비밀번호 복사
 
@@ -162,9 +167,6 @@ confirm-discard-changes-dialog-confirm-button = 버리기
 
 about-logins-breach-alert-title = 웹 사이트 유출
 breach-alert-text = 마지막 로그인 정보를 업데이트 한 후 이 웹 사이트에서 비밀번호가 유출되거나 도난당했습니다. 계정을 보호하기 위해 비밀번호를 변경하세요.
-breach-alert-link = 이 유출에 대해 더 알아보기.
-breach-alert-dismiss =
-    .title = 이 알림 닫기
 about-logins-breach-alert-date = 이 유출은 { DATETIME($date, day: "numeric", month: "long", year: "numeric") }에 발생함
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
