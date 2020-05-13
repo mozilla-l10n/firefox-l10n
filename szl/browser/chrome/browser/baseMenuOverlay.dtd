@@ -1,0 +1,33 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
+<!ENTITY minimizeWindow.label     "Minimalizuj">
+<!ENTITY bringAllToFront.label    "Przeniyś wszysko do przodku">
+<!ENTITY zoomWindow.label         "Zwiynksz">
+<!ENTITY windowMenu.label         "Ôkno">
+
+<!ENTITY helpMenu.label           "Pōmoc"> 
+<!ENTITY helpMenu.accesskey       "P"> 
+<!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
+                       for the help button in the menubar but Gnome does not.   -->
+<!ENTITY helpMenuWin.label        "Pōmoc"> 
+<!ENTITY helpMenuWin.accesskey    "P">
+
+<!ENTITY aboutProduct2.label      "Ô aplikacyji &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "O">
+<!ENTITY productHelp2.label       "Pōmoc aplikacyje &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "P">
+<!ENTITY helpMac.commandkey       "?">
+
+
+
+
+
+
+
+
+
+
+
