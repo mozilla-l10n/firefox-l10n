@@ -807,6 +807,8 @@ forms-master-pw-fips-desc = Falha na alteração da senha
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Confirme sua identidade para criar uma senha mestra.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Para criar uma senha mestra, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
