@@ -203,4 +203,7 @@
 <!ENTITY dontShowMessage.label        "Ikke vis denne meldingen når sprettoppvinduer blokkeres">
 <!ENTITY dontShowMessage.accesskey    "k">
 
+<!ENTITY throbber.title "Pulsikon">
+<!ENTITY throbber.tooltip2 "Gå til hjemmesiden til &brandShortName;">
+
 <!ENTITY syncToolbarButton.label "Sync">
