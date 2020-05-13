@@ -43,6 +43,12 @@ protection-report-page-title = Diogelu Preifatrwydd
 protection-report-content-title = Diogelu Preifatrwydd
 etp-card-title = Diogelwch Uwch Rhag Tracio
 etp-card-content = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
+protection-report-webpage-title = Bwrdd Gwaith Diogelwch
+protection-report-page-content-title = Bwrdd Gwaith Diogelwch
+protection-report-page-summary = Gall { -brand-short-name } ddiogelu eich preifatrwydd y tu ôl i'r llenni wrth i chi bori. Mae hwn yn grynodeb wedi'i bersonoli o'r diogelwch hynny, gan gynnwys offer i reoli eich diogelwch ar-lein.
+etp-card-title-always = Diogelwch Uwch Rhag Tracio: Ymlaen Drwy'r Amser
+etp-card-title-custom-not-blocking = Diogelwch Uwch Rhag Tracio: I FFWRDD
+etp-card-content-summary = Pan fydd cwmnïau anhysbys yn ceisio eich dilyn yn gyfrinachol o amgylch y we, mae { -brand-short-name } yn atal llawer ohonynt yn awtomatig.
 protection-report-etp-card-content-custom-not-blocking = Mae'r holl ddiogelu wedi'u diffodd ar hyn o bryd. Dewiswch pa dracwyr i'w rhwystro trwy reoli eich gosodiadau diogelu { -brand-short-name }.
 protection-report-manage-protections = Rheoli Gosodiadau
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -70,10 +76,15 @@ mobile-app-card-content = Defnyddiwch y porwr symudol gydag diogelwch mewnol rha
 mobile-app-links = Porwr { -brand-product-name } ar gyfer <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Peidiwch byth ag anghofio cyfrinair eto
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Rheoli Cyfrineiriau
 lockwise-header-content = Mae { -lockwise-brand-name } yn cadw'ch cyfrineiriau yn ddiogel yn eich porwr.
 lockwise-header-content-logged-in = Cadwch a chydweddwch eich cyfrineiriau'n ddiogel i'ch holl ddyfeisiau.
 protection-report-view-logins-button = Gweld Mewngofnodi
     .title = Ewch i'r Mewngofnodin wedi'u Cadw
+protection-report-save-passwords-button = Cadw Cyfrineiriau
+    .title = Cadw Cyfrineiriau ar { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Rheoli Cyfrineiriau
+    .title = Rheoli Cyfrineiriau ar { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Ewch â'ch cyfrineiriau i bob man
 lockwise-no-logins-card-content = Defnyddiwch gyfrineiriau wedi'u cadw yn { -brand-short-name } ar unrhyw ddyfais.
 lockwise-app-links = { -lockwise-brand-name } ar gyfer <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name = "lockwise-ios-inline-link" >iOS</a>
@@ -88,6 +99,17 @@ lockwise-passwords-stored =
         [few] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
         [many] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
        *[other] Cyfrinair wedi'u cadw'n ddiogel <a data-l10n-name="lockwise-how-it-works">Sut mae'n gweithio</a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [zero] Efallai bod { $count } cyfrineiriau wedi cael eu hamlygu mewn tor-data.
+        [one] Efallai bod i 1 cyfrinair wedi cael ei amlygu mewn tor-data.
+        [two] Efallai bod { $count } gyfrinair wedi cael eu hamlygu mewn tor-data.
+        [few] Efallai bod { $count } cyfrinair wedi cael eu hamlygu mewn tor-data.
+        [many] Efallai bod { $count } chyfrinair wedi cael eu hamlygu mewn tor-data.
+       *[other] Efallai bod { $count } cyfrinair wedi cael eu hamlygu mewn tor-data.
     }
 turn-on-sync = Cychwyn { -sync-brand-short-name }…
     .title = Mynd i ddewisiadau cydweddu

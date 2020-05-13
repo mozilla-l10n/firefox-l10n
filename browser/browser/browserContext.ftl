@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Gosod Nod Tudalen i'r Dudalen
-    .accesskey = N
 main-context-menu-bookmark-add =
     .aria-label = Gosod Nod Tudalen i'r Dudalen
     .accesskey = N
@@ -317,3 +314,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Dysgu rhagor am DRM…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = Hysbysu am nodweddion newydd
