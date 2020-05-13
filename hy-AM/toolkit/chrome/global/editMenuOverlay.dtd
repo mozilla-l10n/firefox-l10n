@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY editMenu.label            "Խմբագրել">
-<!ENTITY editMenu.accesskey        "Խ">
+<!ENTITY editMenu.accesskey        "e">
 <!ENTITY undoCmd.label             "Հետարկել">
 <!ENTITY undoCmd.key               "Z">
 <!ENTITY undoCmd.accesskey         "u">
@@ -31,6 +31,6 @@
 <!ENTITY findAgainCmd.label        "Կրկին գտնել">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "տ">
+<!ENTITY findAgainCmd.accesskey    "g">
 <!ENTITY findPreviousCmd.label     "Գտնել Նախորդը">
 <!ENTITY findPreviousCmd.accesskey "խ">
