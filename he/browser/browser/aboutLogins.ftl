@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = מיון לפי:
 login-list-name-option = שם (A-Z)
 login-list-name-reverse-option = שם (Z-A)
-login-list-breached-option = אתרים שנפרצו
 about-logins-login-list-alerts-option = התרעות
 login-list-last-changed-option = שינוי אחרון
 login-list-last-used-option = שימוש אחרון
@@ -105,10 +104,16 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = יש לאמת את הזהות שלך כדי לערוך את הכניסה השמורה.
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = כדי לערוך את הכניסה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = יש לאמת את הזהות שלך כדי לחשוף את הססמה השמורה.
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = כדי להציג את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = יש לאמת את הזהות שלך כדי להעתיק את הססמה השמורה.
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = כדי להעתיק את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 
 ## Master Password notification
 
@@ -144,9 +149,6 @@ confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו
 ## Breach Alert notification
 
 breach-alert-text = ססמאות הודלפו או נגנבו מאתר זה מאז שעדכנת לאחרונה את פרטי הכניסה שלך. יש לשנות את הססמה שלך כדי להגן על חשבונך.
-breach-alert-link = מידע נוסף על דליפה זו.
-breach-alert-dismiss =
-    .title = סגירת התראה זו
 about-logins-breach-alert-date = דליפה זו אירעה ב־{ DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

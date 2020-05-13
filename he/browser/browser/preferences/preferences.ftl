@@ -802,6 +802,8 @@ forms-master-pw-fips-desc = שינוי הססמה נכשל
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = יש לאמת את הזהות שלך כדי ליצור ססמה ראשית.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = כדי ליצור ססמה ראשית, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
