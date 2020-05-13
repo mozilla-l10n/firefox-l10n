@@ -86,7 +86,7 @@ devinfo-label =
     .label = Nhãn
 devinfo-serialnum =
     .label = Số sê-ri
-fips-nonempty-password-required = Chế độ FIPS yêu cầu bạn đặt một Mật khẩu Chính cho mỗi thiết bị bảo mật. Vui lòng đặt mật khẩu trước khi bật chế độ FIPS.
+fips-nonempty-password-required = Chế độ FIPS yêu cầu bạn đặt một mật khẩu chính cho mỗi thiết bị bảo mật. Vui lòng đặt mật khẩu trước khi bật chế độ FIPS.
 unable-to-toggle-fips = Không thể thay đổi chế độ FIPS cho thiết bị bảo mật. Bạn nên thoát và khởi động lại ứng dụng này.
 load-pk11-module-file-picker-title = Chọn trình điều khiển thiết bị PKCS#11 để tải
 # Load Module Dialog

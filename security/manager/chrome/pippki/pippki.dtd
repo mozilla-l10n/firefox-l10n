@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Values for changepassword.xul -->
+<!-- Values for changepassword.xhtml -->
 <!ENTITY setPassword.title  "Thay đổi mật khẩu chính">
 <!ENTITY setPassword.tokenName.label "Thiết bị bảo mật">
 <!ENTITY setPassword.oldPassword.label "Mật khẩu hiện tại:">
@@ -10,9 +10,9 @@
 <!ENTITY setPassword.reenterPassword.label "Mật khẩu mới (nhập lại):">
 <!ENTITY setPassword.meter.label "Độ an toàn mật khẩu">
 
-<!-- Values for resetpassword.xul -->
+<!-- Values for resetpassword.xhtml -->
 <!ENTITY resetPasswordButtonLabel "Đặt lại">
-<!ENTITY resetPassword.title  "Đặt lại Mật khẩu Chính">
+<!ENTITY resetPassword.title  "Đặt lại mật khẩu chính">
 <!ENTITY resetPassword.text  "Nếu bạn đặt lại mật khẩu chính, toàn bộ các mật khẩu web, email, dữ liệu biểu mẫu, chứng chỉ và khóa cá nhân đã lưu sẽ bị xóa. Bạn có chắc muốn xóa mật khẩu chính của mình không?">
 
 <!-- Downloading a cert -->
