@@ -111,6 +111,20 @@ lockwise-scanned-text-breached-logins =
         [many] Efallai bod { $count } chyfrinair wedi cael eu hamlygu mewn tor-data.
        *[other] Efallai bod { $count } cyfrinair wedi cael eu hamlygu mewn tor-data.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [zero] Mae'ch cyfrineiriau'n cael eu cadw'n ddiogel.
+        [one] Mae 1 cyfrinair yn cael ei gadw'n ddiogel.
+        [two] Mae'ch cyfrineiriau'n cael eu cadw'n ddiogel.
+        [few] Mae'ch cyfrineiriau'n cael eu cadw'n ddiogel.
+        [many] Mae'ch cyfrineiriau'n cael eu cadw'n ddiogel.
+       *[other] Mae'ch cyfrineiriau'n cael eu cadw'n ddiogel.
+    }
+lockwise-how-it-works-link = Sut mae'n gweithio
 turn-on-sync = Cychwyn { -sync-brand-short-name }…
     .title = Mynd i ddewisiadau cydweddu
 manage-connected-devices = Rheoli dyfeisiau…
