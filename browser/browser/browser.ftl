@@ -2,47 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (Zasebno brskanje)
-       *[default] { -brand-full-name }
-    }
-
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (Zasebno brskanje)
-       *[other] { $title } - { -brand-full-name } (Zasebno brskanje)
-    }
 urlbar-identity-button =
     .aria-label = Poglejte podatke o strani
 
@@ -106,9 +65,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tipkajte manj, najdite več: Iščite z iskalnikom { $engineName } iz vrstice z naslovom.
 urlbar-search-tips-redirect-2 = Začnite z iskanjem v naslovni vrstici ter spremljajte predloge iskalnika { $engineName } in zgodovine vašega brskanja.
-
-##
-
 
 ##
 
@@ -252,6 +208,8 @@ browser-window-minimize-button =
     .tooltiptext = Skrči
 browser-window-maximize-button =
     .tooltiptext = Povečaj
+browser-window-restore-down-button =
+    .tooltiptext = Obnovi navzdol
 browser-window-close-button =
     .tooltiptext = Zapri
 
@@ -264,3 +222,7 @@ popup-select-microphone =
     .value = Uporabi mikrofon:
     .accesskey = M
 popup-all-windows-shared = Vsa vidna okna na vašem zaslonu bodo v skupni rabi.
+
+## DevTools F12 popup
+
+enable-devtools-popup-description = Za uporabo bližnjice F12 prvič odprite razvojna orodja iz menija Spletni razvoj.
