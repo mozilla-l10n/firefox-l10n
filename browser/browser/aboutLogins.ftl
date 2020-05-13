@@ -49,7 +49,6 @@ login-list-count =
 login-list-sort-label-text = Sortěrować po:
 login-list-name-option = Mjenje (A-Z)
 login-list-name-reverse-option = Mjeno (Z - A)
-login-list-breached-option = Zranjene websydła
 about-logins-login-list-alerts-option = Warnowanja
 login-list-last-changed-option = Poslednjej změnje
 login-list-last-used-option = Poslednim wužiću
@@ -110,17 +109,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Přepruwujće swoju identitu, zo byšće składowane přizjewjenje wobdźěłał.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje přizjewjenje wobdźěłował. To wěstotu wašich kontow škita.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = składowane přizjewjenje wobdźěłać
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Přepruwujće swoju identitu, zo byšće składowane hesło pokazał.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće sej swoje hesło wobhladał. To wěstotu wašich kontow škita.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = składowane hesło pokazać
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Přepruwujće swoju identitu, zo byšće składowane hesło kopěrował.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće swoje hesło kopěrował. To wěstotu wašich kontow škita.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = składowane hesło kopěrować
 
@@ -165,9 +170,6 @@ confirm-discard-changes-dialog-confirm-button = Zaćisnyć
 
 about-logins-breach-alert-title = Datowa dźěra websydła
 breach-alert-text = Hesła su so z tutoho websydła roznjesli abo kradnyli, wot toho, zo sće swoje přizjewjenske daty posledni raz zaktualizował. Změńće swoje hesło, zo byšće swoje konto škitał.
-breach-alert-link = Zhońće wjace wo tutej datowej dźěrje.
-breach-alert-dismiss =
-    .title = Tute warnowanje začinić
 about-logins-breach-alert-date = Tuta datowa dźěra je { DATETIME($date, day: "numeric", month: "long", year: "numeric") } nastała
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
