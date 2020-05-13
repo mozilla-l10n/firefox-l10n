@@ -33,6 +33,12 @@ protection-report-page-title = Bảo vệ quyền riêng tư
 protection-report-content-title = Bảo vệ quyền riêng tư
 etp-card-title = Trình chống theo dõi nâng cao
 etp-card-content = Trình theo dõi theo bạn trên mạng để thu thập thông tin về thói quen và sở thích duyệt web của bạn. { -brand-short-name } chặn nhiều trình theo dõi và các tập lệnh độc hại khác.
+protection-report-webpage-title = Bảng điều khiển bảo vệ
+protection-report-page-content-title = Bảng điều khiển bảo vệ
+protection-report-page-summary = { -brand-short-name } có thể bảo vệ quyền riêng tư của bạn đằng sau hậu trường trong khi bạn duyệt. Đây là bản tóm tắt được cá nhân hóa về các biện pháp bảo vệ đó, bao gồm các công cụ để kiểm soát an ninh trực tuyến của bạn.
+etp-card-title-always = Trình chống theo dõi nâng cao: Luôn bật
+etp-card-title-custom-not-blocking = Trình chống theo dõi nâng cao: TẮT
+etp-card-content-summary = Khi các công ty không xác định cố gắng bí mật theo dõi bạn trên web, { -brand-short-name } sẽ tự động dừng nhiều thứ trong số đó.
 protection-report-etp-card-content-custom-not-blocking = Tất cả các bảo vệ hiện đang tắt. Chọn trình theo dõi nào sẽ chặn bằng cách quản lý cài đặt bảo vệ { -brand-short-name } của bạn.
 protection-report-manage-protections = Quản lý cài đặt
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
