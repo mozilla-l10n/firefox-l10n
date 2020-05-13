@@ -37,6 +37,10 @@ etp-card-title = Ammesten mgal aḍfaṛ yettwaseǧhed
 etp-card-content = Ineḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
 protection-report-webpage-title = Ammesten n tfelwit n usenqed
 protection-report-page-content-title = Ammesten n tfelwit n usenqed
+protection-report-page-summary = { -brand-short-name } can protect your privacy behind the scenes while you browse. This is a personalized summary of those protections, including tools to take control of your online security.
+etp-card-title-always = Ammesten mgal aḍfaṛ yettwaseǧhed: Yezga iteddu
+etp-card-title-custom-not-blocking = Ammesten mgal aḍfaṛ yettwaseǧhed: Yensa
+etp-card-content-summary = Ma yilint tkebbaniyin ur nettwassen ara ttaεraḍent ad k-ḍefrent s tuffra deg web, { -brand-short-name } yessewḥal aṭas deg-sent s wudem awurman.
 protection-report-etp-card-content-custom-not-blocking = Meṛṛa ammesten yensa akka tura. Fren ineḍfaṛen ara tesweḥleḍ s usefrek n yiɣewwaṛen n ummesten n { -brand-short-name }.
 protection-report-manage-protections = Sefrek iɣewwaṛen
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
