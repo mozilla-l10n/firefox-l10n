@@ -37,6 +37,11 @@ protection-report-page-title = Захист приватності
 protection-report-content-title = Захист приватності
 etp-card-title = Розширений захист від стеження
 etp-card-content = Елементи стеження переслідують вас в мережі з метою збору інформації про ваші звички та інтереси. { -brand-short-name } блокує багато такого стеження, а також інші підозрілі скрипти.
+protection-report-webpage-title = Панель стану безпеки
+protection-report-page-content-title = Панель стану безпеки
+protection-report-page-summary = { -brand-short-name } може непомітно захищати вашу приватність під час перебування в Інтернеті. Це персоналізований підсумок стану захисту, включаючи засоби контролю вашої безпеки в Інтернеті.
+etp-card-title-always = Розширений захист від стеження: Завжди увімкнено
+etp-card-title-custom-not-blocking = Розширений захист від стеження: ВИМКНЕНО
 protection-report-etp-card-content-custom-not-blocking = Всі засоби захисту зараз вимкнено. Оберіть, які елементи стеження блокувати, в налаштуваннях захисту { -brand-short-name }.
 protection-report-manage-protections = Керувати налаштуваннями
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
