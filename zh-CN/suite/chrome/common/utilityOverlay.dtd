@@ -203,5 +203,6 @@
 <!ENTITY dontShowMessage.label        "不要再显示此弹出窗口信息">
 <!ENTITY dontShowMessage.accesskey    "D">
 
+<!ENTITY throbber.tooltip2 "前往 &brandShortName; 主页">
 
 <!ENTITY syncToolbarButton.label "同步">
