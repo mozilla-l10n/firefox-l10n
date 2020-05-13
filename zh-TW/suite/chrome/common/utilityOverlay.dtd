@@ -203,4 +203,7 @@
 <!ENTITY dontShowMessage.label        "在彈出型視窗被封鎖時不要顯示此訊息">
 <!ENTITY dontShowMessage.accesskey    "D">
 
+<!ENTITY throbber.title "「載入中」圓圈">
+<!ENTITY throbber.tooltip2 "前往 &brandShortName; 首頁">
+
 <!ENTITY syncToolbarButton.label "同步">
