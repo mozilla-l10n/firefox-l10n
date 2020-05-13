@@ -6,6 +6,8 @@ restore-page-tab-title = ଅଧିବେଶନକୁ ପୁନଃସ୍ଥାପ
 # The title is intended to be apologetic and disarming, expressing dismay
 # and regret that we are unable to restore the session for the user
 restore-page-error-title = କ୍ଷମା କରିବେ, ଆପଣଙ୍କର ପୃଷ୍ଠାଗୁଡ଼ିକୁ ପୁନରୁଦ୍ଧାର କରିବାରେ ଆମେ ଅସୁବିଧାରେ ସମ୍ମୁଖୀନ ହେଉଛୁ
+restore-page-problem-desc = ଆପଣଙ୍କର ଶେଷ ବ୍ରାଉଜିଂ ଅଧିବେଶନକୁ ପୁନଃସ୍ଥାପନ କରିବାରେ ଆମେ ଅସୁବିଧା ଭୋଗୁଛୁ | ପୁନର୍ବାର ଚେଷ୍ଟା କରିବାକୁ ପୁନରୁଦ୍ଧାର ଅଧିବେଶନ ଚୟନ କରନ୍ତୁ
+restore-page-try-this = ତଥାପି ଆପଣଙ୍କର ଅଧିବେଶନ ପୁନଃସ୍ଥାପନ କରିବାକୁ ସକ୍ଷମ ନୁହେଁ? ବେଳେବେଳେ ଏକ ଟ୍ୟାବ୍ ସମସ୍ୟା ସୃଷ୍ଟି କରେ | ପୂର୍ବ ଟ୍ୟାବଗୁଡିକ ଦେଖନ୍ତୁ, ଟ୍ୟାବଗୁଡିକରୁ ଚେକ୍ ମାର୍କ ଅପସାରଣ କରନ୍ତୁ ଯାହା ଆପଣଙ୍କୁ ପୁନରୁଦ୍ଧାର କରିବାକୁ ପଡିବ ନାହିଁ, ଏବଂ ତାପରେ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ
 restore-page-hide-tabs = ପୂର୍ବ ଟ୍ୟାବଗୁଡ଼ିକୁ ଲୁଚାନ୍ତୁ
 restore-page-show-tabs = ପୂର୍ବ ଟ୍ୟାବଗୁଡ଼ିକୁ ଦେଖନ୍ତୁ
 # When tabs are distributed across multiple windows, this message is used as a
