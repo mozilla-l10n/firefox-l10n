@@ -46,7 +46,6 @@ login-list-count =
 login-list-sort-label-text = 顺序：
 login-list-name-option = 名称（A-Z）
 login-list-name-reverse-option = 名称（Z-A）
-login-list-breached-option = 发生数据外泄的网站
 about-logins-login-list-alerts-option = 警报
 login-list-last-changed-option = 最后修改
 login-list-last-used-option = 上次使用
@@ -107,17 +106,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = 验证您的身份以编辑存放的登录信息。
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 编辑存放的登录信息
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = 验证您的身份以显示存放的密码。
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 显示存放的密码
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = 验证您的身份以复制存放的登录信息。
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = 复制存放的密码
 
@@ -162,9 +161,6 @@ confirm-discard-changes-dialog-confirm-button = 丢弃
 
 about-logins-breach-alert-title = 网站信息外泄
 breach-alert-text = 自您上次更新这份登录信息后，该网站上的密码已遭泄露或窃取。立即更改您的密码以保障账户安全。
-breach-alert-link = 详细了解此事件
-breach-alert-dismiss =
-    .title = 关闭此警报
 about-logins-breach-alert-date = 此外泄事件发生于：{ DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
