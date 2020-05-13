@@ -791,6 +791,8 @@ forms-master-pw-fips-desc = 비밀번호 변경 실패
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = 마스터 비밀번호를 만들기 위해 ID를 확인하세요.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = 마스터 비밀번호를 만들려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
