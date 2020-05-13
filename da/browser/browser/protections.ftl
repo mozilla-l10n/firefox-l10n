@@ -69,8 +69,8 @@ protection-report-view-logins-button = Vis logins
     .title = Gå til gemte logins
 protection-report-save-passwords-button = Gem adgangskoder
   .title = Gem adgangskoder i { -lockwise-brand-short-name }
-protection-report-manage-passwords-button = Manage Passwords
-  .title = Manage Passwords on { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Håndter adgangskoder
+  .title = Håndter adgangskoder i { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Tag dine adgangskoder med overalt
 lockwise-no-logins-card-content = Brug adgangskoder gemt i { -brand-short-name } på enhver enhed.
 lockwise-app-links = { -lockwise-brand-name } til <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
