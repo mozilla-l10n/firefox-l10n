@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = Smizzwer s:
 login-list-name-option = Isem (A-Z)
 login-list-name-reverse-option = Isem (Z-A)
-login-list-breached-option = Ismal web ittwakren
 about-logins-login-list-alerts-option = Ilɣa
 login-list-last-changed-option = Asnifel aneggaru
 login-list-last-used-option = Aseqdec anneggaru
@@ -108,17 +107,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Senqed tanekkit-inek akken ad tẓergeḍ isem-inek n useqdac yettwaskelsen.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Akken ad tbeddleḍ anekcam-inek, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ẓreg isem n useqdac yettwaskelsen
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Senqed tanekkit-inek akken ad d-begneḍ awal-inek uffir yettwaskelsen.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Akken ad twaliḍ awal-inek uffir, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = beggen-d awal-inek uffir yettwaskelsen
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Senqed tanekkit-inek akken ad d-neɣleḍ awal-inek uffir yettwaskelsen.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Nɣel awal-inek uffir yettwaskelsen
 
@@ -163,9 +166,6 @@ confirm-discard-changes-dialog-confirm-button = Kkes
 
 about-logins-breach-alert-title = Tarewla n yismal web
 breach-alert-text = Awalen uffiren n usmel-a ffɣen neɣ ttwakren deffir n ubeddel aneggaru n telɣut-ik n tuqqna. Beddel awal-ik uffir akken ad yettwamesten umiḍan-ik.
-breach-alert-link = Issin ugar ɣef trewla n yisefka-agi.
-breach-alert-dismiss =
-    .title = Mdel ulɣu-agi
 about-logins-breach-alert-date = Tarewla-agi n yisefka teḍra-d deg { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
