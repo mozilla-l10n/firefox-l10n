@@ -35,6 +35,12 @@ protection-report-page-title = Protezioni per la privacy
 protection-report-content-title = Protezioni per la privacy
 etp-card-title = Protezione antitracciamento avanzata
 etp-card-content = Gli elementi traccianti ti seguono online al fine di raccogliere informazioni sui tuoi interessi e le tue abitudini di navigazione. { -brand-short-name } blocca molti di questi traccianti e altri script dannosi.
+protection-report-webpage-title = Dashboard protezioni
+protection-report-page-content-title = Dashboard protezioni
+protection-report-page-summary = { -brand-short-name } protegge la tua privacy mentre navighi. Questa è una sintesi personalizzata delle protezioni attive e include strumenti per garantire la tua sicurezza online.
+etp-card-title-always = Protezione antitracciamento avanzata: sempre attiva
+etp-card-title-custom-not-blocking = Protezione antitracciamento avanzata: DISATTIVATA
+etp-card-content-summary = { -brand-short-name } blocca molte società sconosciute che, di nascosto, cercano di seguire le tue attività sul Web.
 protection-report-etp-card-content-custom-not-blocking = Tutte le protezioni sono attualmente disattivate. Scegli quali elementi traccianti bloccare nelle impostazioni di { -brand-short-name }.
 protection-report-manage-protections = Gestisci impostazioni
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
