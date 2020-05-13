@@ -63,6 +63,7 @@ urlbar-tip-icon-description =
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = କମ୍ ଟାଇପ୍ କରନ୍ତୁ, ଅଧିକ ସନ୍ଧାନ କରନ୍ତୁ: ଆପଣଙ୍କ ଠିକଣା ଦଣ୍ଡିକାରୁ { $engineName } ସନ୍ଧାନ କରନ୍ତୁ
 
 ##
 
