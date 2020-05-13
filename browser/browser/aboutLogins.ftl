@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = Sıralama:
 login-list-name-option = Ad (A-Z)
 login-list-name-reverse-option = Ad (Z-A)
-login-list-breached-option = Veri ihlaline uğrayan siteler
 about-logins-login-list-alerts-option = Uyarılar
 login-list-last-changed-option = Son değişiklik
 login-list-last-used-option = Son kullanım
@@ -108,17 +107,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Kayıtlı hesabı düzenlemek için kimliğinizi doğrulayın.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Hesabınızı düzenlemek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = kayıtlı hesabı düzenleme
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Kayıtlı parolayı görmek için kimliğinizi doğrulayın.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Parolanızı görmek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = kayıtlı parolayı gösterme
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Kayıtlı parolayı kopyalamak için kimliğinizi doğrulayın.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Parolanızı kopyalamak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kayıtlı parolayı kopyalama
 
@@ -163,9 +168,6 @@ confirm-discard-changes-dialog-confirm-button = Vazgeç
 
 about-logins-breach-alert-title = Web Sitesi İhlali
 breach-alert-text = Giriş bilgilerinizi son güncellemenizden bu yana bu web sitesindeki parolalar sızdırılmış veya çalınmış. Hesabınızı korumak için parolanızı değiştirin.
-breach-alert-link = Bu ihlal hakkında daha fazla bilgi edinin.
-breach-alert-dismiss =
-    .title = Bu uyarıyı kapat
 about-logins-breach-alert-date = Bu ihlal { DATETIME($date, day: "numeric", month: "long", year: "numeric") } tarihinde meydana geldi
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
