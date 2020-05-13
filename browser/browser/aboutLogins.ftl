@@ -46,7 +46,6 @@ login-list-count =
 login-list-sort-label-text = Sắp xếp theo:
 login-list-name-option = Tên (A-Z)
 login-list-name-reverse-option = Tên (Z-A)
-login-list-breached-option = Trang web đã bị rò rỉ
 about-logins-login-list-alerts-option = Cảnh báo
 login-list-last-changed-option = Sửa đổi lần cuối
 login-list-last-used-option = Sử dụng lần cuối
@@ -107,17 +106,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Xác nhận danh tính của bạn để chỉnh sửa đăng nhập đã lưu.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Để chỉnh sửa thông tin đăng nhập của bạn, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = chỉnh sửa thông tin đăng nhập đã lưu
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Xác nhận danh tính của bạn để hiển thị mật khẩu đã lưu.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Để xem mật khẩu của bạn, nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = hiển thị mật khẩu đã lưu
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Xác nhận danh tính của bạn để sao chép mật khẩu đã lưu.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Để sao chép mật khẩu của bạn, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = sao chép mật khẩu đã lưu
 
@@ -162,9 +167,6 @@ confirm-discard-changes-dialog-confirm-button = Loại bỏ
 
 about-logins-breach-alert-title = Vi phạm trang web
 breach-alert-text = Mật khẩu đã bị rò rỉ hoặc đánh cắp từ trang web này kể từ lần cuối bạn cập nhật chi tiết đăng nhập. Thay đổi mật khẩu của bạn để bảo vệ tài khoản của bạn.
-breach-alert-link = Tìm hiểu thêm về rò rỉ này.
-breach-alert-dismiss =
-    .title = Đóng cảnh báo này
 about-logins-breach-alert-date = Vi phạm này xảy ra vào { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
