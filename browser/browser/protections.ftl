@@ -40,6 +40,7 @@ protection-report-page-content-title = Painel de proteções
 protection-report-page-summary = O { -brand-short-name } pode proteger sua privacidade nos bastidores enquanto você navega. Este é um resumo personalizado dessas proteções, incluindo ferramentas para assumir o controle de sua segurança online.
 etp-card-title-always = Proteção aprimorada contra rastreamento: Sempre ATIVADA
 etp-card-title-custom-not-blocking = Proteção aprimorada contra rastreamento: DESATIVADA
+etp-card-content-summary = Quando empresas desconhecidas tentam seguir você secretamente pela web, o { -brand-short-name } impede muitas delas automaticamente.
 protection-report-etp-card-content-custom-not-blocking = Todas as proteções estão desativadas no momento. Escolha que rastreadores bloquear gerenciando as configurações de proteção do { -brand-short-name }.
 protection-report-manage-protections = Gerenciar configurações
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
