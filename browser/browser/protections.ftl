@@ -38,6 +38,7 @@ protection-report-page-content-title = 보호 기능 대시보드
 protection-report-page-summary = { -brand-short-name }는 탐색하는 동안 뒤에서 개인 정보를 보호할 수 있습니다. 다음은 온라인 보안을 제어하는 도구를 포함하여 이러한 보호 기능에 대한 개인화된 요약입니다.
 etp-card-title-always = 향상된 추적 방지 기능: 항상 켜기
 etp-card-title-custom-not-blocking = 향상된 추적 방지 기능: 끄기
+etp-card-content-summary = 알 수 없는 회사가 웹에서 사용자를 몰래 따라다니려고 하면, { -brand-short-name }는 자동으로 그들 중 대부분을 중단시킵니다.
 protection-report-etp-card-content-custom-not-blocking = 현재 모든 보호 기능이 꺼져 있습니다. { -brand-short-name } 보호 설정에서 차단할 추적기를 선택하세요.
 protection-report-manage-protections = 설정 관리
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
