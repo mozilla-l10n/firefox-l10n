@@ -3,7 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 aboutDialog-title =
-    .title = Thông tin về { -brand-full-name }
+    .title = Giới thiệu về { -brand-full-name }
 releaseNotes-link = Có gì mới
 update-checkForUpdatesButton =
     .label = Kiểm tra cập nhật
