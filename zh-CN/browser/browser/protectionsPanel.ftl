@@ -33,7 +33,7 @@ protections-panel-site-not-working-view =
 ## a tooltip explaining why these items were not blocked in the page.
 
 protections-panel-not-blocking-why-label = 为什么？
-protections-panel-not-blocking-why-etp-on-tooltip = 拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录字段可能无法正常工作。
+protections-panel-not-blocking-why-etp-on-tooltip = 拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录栏位可能无法正常工作。
 protections-panel-not-blocking-why-etp-off-tooltip = 隐私保护处于关闭状态，已载入此网站的所有跟踪器。
 
 ##
@@ -65,7 +65,7 @@ protections-panel-showreport-label = 显示报告
 # The header of the list
 protections-panel-site-not-working-view-header = 请关闭保护，若您遇到以下问题：
 # The list items, shown in a <ul>
-protections-panel-site-not-working-view-issue-list-login-fields = 登录字段
+protections-panel-site-not-working-view-issue-list-login-fields = 登录栏位
 protections-panel-site-not-working-view-issue-list-forms = 表单
 protections-panel-site-not-working-view-issue-list-payments = 支付
 protections-panel-site-not-working-view-issue-list-comments = 评论
@@ -77,7 +77,7 @@ protections-panel-site-not-working-view-send-report = 发送反馈
 protections-panel-cross-site-tracking-cookies = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。
 protections-panel-cryptominers = 加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。
 protections-panel-fingerprinters = 数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。
-protections-panel-tracking-content = 网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。
+protections-panel-tracking-content = 网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录栏位可能无法正常工作。
 protections-panel-social-media-trackers = 社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。
 protections-panel-content-blocking-manage-settings =
     .label = 管理保护设置

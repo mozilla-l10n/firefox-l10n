@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "页面源代码">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "页面信息">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "布局调试器">
 <!ENTITY ldbCmd.accesskey "L">
@@ -113,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "退出全屏">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "全屏">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "重新绑定&syncBrand.shortName.label;服务">
 <!ENTITY fxaUnverified.label "验证您的账户">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "最小化">
 <!ENTITY fullScreenRestore.tooltip "还原">
@@ -175,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "账户设置">
 <!ENTITY fxa.menu.manageAccount2.label "管理账户">
 <!ENTITY fxa.menu.signOut.label "退出登录…">
-<!ENTITY fxa.menu.deviceSettings.label "设备设置">
 <!ENTITY fxa.menu.setupSync.label "设置 &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "书签">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "为此页添加书签">
 <!ENTITY editThisBookmarkCmd.label "编辑此书签">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,8 +238,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "停止">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "转到地址栏中指向的网址">
 <!ENTITY printButton.label            "打印">
 <!ENTITY printButton.tooltip          "打印当前页">
@@ -294,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
+
 
 <!ENTITY searchItem.title             "搜索">
 
@@ -358,6 +353,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.label          "管理身份">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "新建窗口">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -417,7 +413,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "恢复先前的浏览状态">
 
 <!ENTITY showAllHistoryCmd2.label "管理所有历史记录">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "管理所有历史记录">
@@ -498,6 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "更多">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "搜索或输入网址">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -597,7 +593,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "C">
 <!ENTITY showOnlyThisFrameCmd.label     "仅显示此框架">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "重新载入框架">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -631,6 +626,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "为此框架添加书签">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "复制链接">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -644,11 +640,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.label            "另存页面为…">
 <!ENTITY savePageCmd.accesskey        "A">
-<!ENTITY savePageCmd.accesskey2       "P">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "另存框架为…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -752,20 +747,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "放大">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "缩小">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "重置">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -789,7 +781,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "关闭">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -815,7 +806,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "切换文字方向">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "在此页面中查找…">
@@ -845,19 +835,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "连接">
 <!ENTITY identity.connectionSecure "安全连接">
 <!ENTITY identity.connectionNotSecure "连接不安全">
-
-<!ENTITY identity.connectionSecure3 "安全连接">
-<!ENTITY identity.connectionNotSecure2 "连接不安全">
-<!ENTITY identity.connectionNotSecureSecurityView "您并未安全地连接至此网站。">
 <!ENTITY identity.connectionFile "此页面存储在您的计算机上。">
 <!ENTITY identity.connectionVerified2 "您已安全连接至此网站。网站所有者：">
-<!ENTITY identity.connectionVerified3 "您已安全地连接至此网站。">
 <!ENTITY identity.connectionInternal "这是安全的 &brandShortName; 页面。">
 <!ENTITY identity.extensionPage "此页面是扩展页面。">
 <!ENTITY identity.insecureLoginForms2 "在此网页上输入的登录信息可能会泄露。">
 <!ENTITY identity.customRoot "连接由 Mozilla 不认可的证书颁发者所验证。">
-
-<!ENTITY identity.evOwnerLabel2 "证书颁发给：">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; 已拦截此页面上不安全的内容。">
@@ -892,8 +875,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "清除 Cookie 和网站数据…">
 
 <!ENTITY identity.permissions "权限">
-
-<!ENTITY identity.permissions3 "权限">
 <!ENTITY identity.permissionsEmpty "您尚未授予此站点任何权限。">
 <!ENTITY identity.permissionsReloadHint "您可能需要重新载入此页面以应用更改。">
 <!ENTITY identity.permissionsPreferences.tooltip "打开权限偏好设置">
@@ -918,7 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 <!ENTITY protections.siteNotWorkingView.header "请关闭保护，若您遇到以下问题：">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登录字段">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登录栏位">
 <!ENTITY protections.siteNotWorkingView.issueList.forms "表单">
 <!ENTITY protections.siteNotWorkingView.issueList.payments "支付">
 <!ENTITY protections.siteNotWorkingView.issueList.comments "评论">
@@ -938,14 +919,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "为什么？">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录字段可能无法正常工作。">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "拦截这些内容可能导致某些网站上的元素异常。若无跟踪器，某些按钮、表单、登录栏位可能无法正常工作。">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "隐私保护处于关闭状态，已载入此网站的所有跟踪器。">
 <!ENTITY protections.noTrackersFound.description "此页面上未检测到 &brandShortName; 已知的跟踪器。">
 
 <!ENTITY protections.crossSiteTrackingCookies.description "这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。">
 <!ENTITY protections.cryptominers.description "加密货币挖矿程序使用您的计算机算力来“挖”数字货币，耗尽您的设备电量、拖慢机器性能、增加电费支出。">
 <!ENTITY protections.fingerprinters.description "数字指纹追踪程序收集您的浏览器、计算机设置，勾勒出您的精准画像，并在不同网站间跟踪您。">
-<!ENTITY protections.trackingContent2.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录字段可能无法正常工作。">
+<!ENTITY protections.trackingContent2.description "网站可能会加载包含跟踪代码的外部广告、视频、其他内容。拦截跟踪内容可以让网站加载更快，但某些按钮、表单、登录栏位可能无法正常工作。">
 <!ENTITY protections.socialMediaTrackers.description "社交网站将跟踪器嵌到其他网站，跟踪您在网上做了或看了什么。社交媒体公司对您的了解，绝不止于您在社交媒体上分享的信息。">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -1043,6 +1024,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "关闭">
 
