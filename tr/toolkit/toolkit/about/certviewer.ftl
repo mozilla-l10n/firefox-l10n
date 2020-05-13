@@ -32,6 +32,8 @@ certificate-viewer-id = Kimlik
 certificate-viewer-key-exchange-group = Anahtar değişim grubu
 certificate-viewer-key-id = Anahtar kimliği
 certificate-viewer-key-size = Anahtar boyutu
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Kuruluş yeri
 certificate-viewer-locality = Bölge
 certificate-viewer-location = Konum
 certificate-viewer-logid = Log kimliği
