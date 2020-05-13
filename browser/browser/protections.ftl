@@ -35,6 +35,12 @@ protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
 etp-card-title = Protección contra rastreo aumentada
 etp-card-content = Los rastreadores lo siguen en línea para recopilar información sobre sus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
+protection-report-webpage-title = Panel de protecciones
+protection-report-page-content-title = Panel de protecciones
+protection-report-page-summary = { -brand-short-name } puede proteger su privacidad detrás de escena mientras navega. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de su seguridad en línea.
+etp-card-title-always = Protección de seguimiento mejorada: siempre activa
+etp-card-title-custom-not-blocking = Protección contra rastreo aumentada: desactivada
+etp-card-content-summary = Cuando empresas desconocidas intentan seguirlo en secreto por la web, { -brand-short-name } detiene automáticamente a muchas de ellas.
 protection-report-etp-card-content-custom-not-blocking = Todas las protecciones están desactivadas ahora. Elija qué rastreadores bloquear cambiando la configuración de protección de { -brand-short-name }.
 protection-report-manage-protections = Administrar configuraciones
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
