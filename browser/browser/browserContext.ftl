@@ -11,6 +11,10 @@ navbar-tooltip-instruction =
 
 ## Back
 
+main-context-menu-back =
+    .tooltiptext = ଗୋଟିଏ ପୃଷ୍ଠା ପଛକୁ ଯାଆନ୍ତୁ
+    .aria-label = ପଛକୁ
+    .accesskey = B
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
 toolbar-button-back =
@@ -18,6 +22,10 @@ toolbar-button-back =
 
 ## Forward
 
+main-context-menu-forward =
+    .tooltiptext = ଗୋଟିଏ ପୃଷ୍ଠା ଆଗକୁ ଯାଆନ୍ତୁ
+    .aria-label = ଆଗକୁ
+    .accesskey = F
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
 toolbar-button-forward =
@@ -25,11 +33,17 @@ toolbar-button-forward =
 
 ## Reload
 
+main-context-menu-reload =
+    .aria-label = ପୁନଃଲୋଡ୍
+    .accesskey = R
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
 ## Stop
 
+main-context-menu-stop =
+    .aria-label = ଅଟକାନ୍ତୁ
+    .accesskey = S
 toolbar-button-stop =
     .label = { main-context-menu-stop.aria-label }
 
@@ -48,12 +62,35 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
+main-context-menu-bookmark-add =
+    .aria-label = ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+    .accesskey = m
+    .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+main-context-menu-bookmark-add-with-shortcut =
+    .aria-label = ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ
+    .accesskey = m
+    .tooltiptext = ଏହି ପୃଷ୍ଠାକୁ ଚିହ୍ନିତ କରନ୍ତୁ ({ $shortcut })
+main-context-menu-bookmark-change =
+    .aria-label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
+    .accesskey = m
+    .tooltiptext = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+main-context-menu-bookmark-change-with-shortcut =
+    .aria-label = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ
+    .accesskey = m
+    .tooltiptext = ଏହି ଚିହ୍ନିତ ସ୍ଥାନକୁ ସମ୍ପାଦନ କରନ୍ତୁ ({ $shortcut })
 main-context-menu-open-link =
     .label = ସଂଯୋଗକୁ ଖୋଲନ୍ତୁ
     .accesskey = O
 main-context-menu-open-link-new-tab =
     .label = ସଂଯୋଗକୁ ନୂତନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ
     .accesskey = T
+main-context-menu-open-link-container-tab =
+    .label = ଲିଙ୍କକୁ ନୂଆ କଣ୍ଟେନରଟ୍ୟାବରେ ଖୋଲନ୍ତୁ
+    .accesskey = b
 main-context-menu-open-link-new-window =
     .label = ସଂଯୋଗକୁ ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ
     .accesskey = W
@@ -66,6 +103,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = ସଂଯୋଗକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = ଲିଙ୍କକୁ  { -pocket-brand-name }ରେ ସଂରକ୍ଷଣ କରନ୍ତୁ
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -99,6 +139,29 @@ main-context-menu-media-mute =
 main-context-menu-media-unmute =
     .label = ନିଃଶବ୍ଦ ବାତିଲ କରନ୍ତୁ
     .accesskey = m
+main-context-menu-media-play-speed =
+    .label = ଗତିର ବେଗ
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = ଧୀର (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = ସାଧାରଣ
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = ତୀବ୍ର (1.25×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = ତୀବ୍ରତର (1.5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = ତୀବ୍ରତମ (2×)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = ଲୁପ
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
@@ -117,6 +180,11 @@ main-context-menu-media-video-fullscreen =
     .accesskey = F
 main-context-menu-media-video-leave-fullscreen =
     .label = ସମ୍ପୂର୍ଣ୍ଣ ପରଦାରୁ ପ୍ରସ୍ଥାନ କରନ୍ତୁ
+    .accesskey = u
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = ଛବି ମଧ୍ୟରେ ଛବି
     .accesskey = u
 main-context-menu-image-reload =
     .label = ପ୍ରତିଛବି ପୁନଃ ସ୍ଥାପନ କରନ୍ତୁ
@@ -175,12 +243,24 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = ଏହି ପ୍ଲଗଇନକୁ ଲୁଚାନ୍ତୁ
     .accesskey = H
+main-context-menu-save-to-pocket =
+    .label = ପୃଷ୍ଠାକୁ  { -pocket-brand-name }ରେ ସଂରକ୍ଷଣ କରନ୍ତୁ
+    .accesskey = k
+main-context-menu-send-to-device =
+    .label = ଉପକରଣ ମଧ୍ଯକୁ ପୃଷ୍ଠାଟି ପଠାନ୍ତୁ
+    .accesskey = n
 main-context-menu-view-background-image =
     .label = ପୃଷ୍ଠଭୂମି ପ୍ରତିଛବି ଦେଖନ୍ତୁ
     .accesskey = w
+main-context-menu-generate-new-password =
+    .label = ସାଧାରଣ ପାସୱାର୍ଡ଼ ବ୍ୟବହାର କରନ୍ତୁ …
+    .accesskey = G
 main-context-menu-keyword =
     .label = ଏହି ସନ୍ଧାନ ପାଇଁ ଗୋଟିଏ ସୂଚକ ଶବ୍ଦ ଯୋଗ କରନ୍ତୁ…
     .accesskey = K
+main-context-menu-link-send-to-device =
+    .label = ଉପକରଣ ମଧ୍ଯକୁ ଲିଙ୍କଟି ପଠାନ୍ତୁ
+    .accesskey = n
 main-context-menu-frame =
     .label = ଏହି ଫ୍ରେମ
     .accesskey = h
@@ -231,6 +311,9 @@ main-context-menu-inspect-element =
     .accesskey = Q
 main-context-menu-inspect-a11y-properties =
     .label = ଅଭିଗମ୍ୟତା ଗୁଣଗୁଡିକ ଯାଞ୍ଚ କରନ୍ତୁ
+main-context-menu-eme-learn-more =
+    .label = DRM ବିଷୟରେ ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+    .accesskey = D
 # Checkbox displayed at the bottom of the What's New panel, allowing users to 
 # enable/disable What's New notifications.
 cfr-whatsnew-panel-footer-checkbox =
