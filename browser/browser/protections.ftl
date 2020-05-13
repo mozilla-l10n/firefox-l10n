@@ -35,6 +35,12 @@ protection-report-page-title = Privacy Protections
 protection-report-content-title = Privacy Protections
 etp-card-title = Enhanced Tracking Protection
 etp-card-content = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
+protection-report-webpage-title = Protections Dashboard
+protection-report-page-content-title = Protections Dashboard
+protection-report-page-summary = { -brand-short-name } can protect your privacy behind the scenes while you browse. This is a personalized summary of those protections, including tools to take control of your online security.
+etp-card-title-always = Enhanced Tracking Protection: Always On
+etp-card-title-custom-not-blocking = Enhanced Tracking Protection: OFF
+etp-card-content-summary = When unknown companies try to secretly follow you around the web, { -brand-short-name } automatically stops many of them.
 protection-report-etp-card-content-custom-not-blocking = All protections are currently turned off. Choose which trackers to block by managing your { -brand-short-name } protections settings.
 protection-report-manage-protections = Manage Settings
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,

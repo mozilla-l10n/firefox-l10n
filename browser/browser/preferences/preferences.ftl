@@ -807,6 +807,8 @@ forms-master-pw-fips-desc = Password Change Failed
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verify your identity to create a Master Password.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = To create a Master Password, enter your Windows login credentials. This helps protect the security of your accounts.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
