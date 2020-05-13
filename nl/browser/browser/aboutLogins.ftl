@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = Sorteren op:
 login-list-name-option = Naam (A-Z)
 login-list-name-reverse-option = Naam (Z-A)
-login-list-breached-option = Websites met datalekken
 about-logins-login-list-alerts-option = Waarschuwingen
 login-list-last-changed-option = Laatst gewijzigd
 login-list-last-used-option = Laatst gebruikt
@@ -108,17 +107,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifieer uw identiteit om de opgeslagen aanmelding te bewerken.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw aanmelding te bewerken. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewerk de opgeslagen aanmelding
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifieer uw identiteit om het opgeslagen wachtwoord te tonen.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te bekijken. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = toon het opgeslagen wachtwoord
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifieer uw identiteit om het opgeslagen wachtwoord te kopiëren.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te kopiëren. Hierdoor wordt de beveiliging van uw accounts beschermd.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopieer het opgeslagen wachtwoord
 
@@ -163,9 +168,6 @@ confirm-discard-changes-dialog-confirm-button = Verwerpen
 
 about-logins-breach-alert-title = Websitedatalek
 breach-alert-text = Wachtwoorden uit deze website zijn gelekt of gestolen sinds u voor het laatst uw aanmeldgegevens hebt bijgewerkt. Wijzig uw wachtwoord om uw account te beschermen.
-breach-alert-link = Meer info over dit datalek
-breach-alert-dismiss =
-    .title = Deze waarschuwing sluiten
 about-logins-breach-alert-date = Dit lek is voorgevallen op { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
