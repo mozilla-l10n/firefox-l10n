@@ -35,6 +35,10 @@ protection-report-page-title = Proteccion de la vida privada
 protection-report-content-title = Proteccions de la vida privada
 etp-card-title = Proteccion contra lo seguiment renfortida
 etp-card-content = Los traçadors vos pistan en linha per reculhir d’informacions sus vòstras abituds de navegacion e vòstres interèsses. { -brand-short-name } bloca fòrça d’aqueles elements de seguiment e scripts malvolents.
+protection-report-webpage-title = Taula de bòrd de las proteccions
+protection-report-page-content-title = Taula de bòrd de las proteccions
+etp-card-title-always = Proteccion renfortida contra lo seguiment : totjorn activada
+etp-card-title-custom-not-blocking = Proteccion renfortida contra lo seguiment : DESACTIVADA
 protection-report-etp-card-content-custom-not-blocking = Actualament totas las proteccions son desactivadas. Causissètz quins traçadors blocar en gerir vòstres paramètres de proteccion de { -brand-short-name }.
 protection-report-manage-protections = Gerir los paramètres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
