@@ -203,4 +203,7 @@
 <!ENTITY dontShowMessage.label        "Não exibir esta mensagem quando popups forem bloqueados">
 <!ENTITY dontShowMessage.accesskey    "N">
 
+<!ENTITY throbber.title 'Indicador de "Carregando"'>
+<!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
+
 <!ENTITY syncToolbarButton.label "Sincronizar">
