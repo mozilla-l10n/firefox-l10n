@@ -203,4 +203,6 @@
 <!ENTITY dontShowMessage.label        "No mostrar este mensaje cuando las ventanas emergentes están bloqueadas">
 <!ENTITY dontShowMessage.accesskey    "d">
 
+<!ENTITY throbber.tooltip2 "Ir a la página de inicio de &brandShortName;">
+
 <!ENTITY syncToolbarButton.label "Sync">
