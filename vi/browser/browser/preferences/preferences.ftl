@@ -778,18 +778,20 @@ forms-saved-logins =
     .label = Đăng nhập đã lưu…
     .accesskey = L
 forms-master-pw-use =
-    .label = Dùng một mật khẩu chính
+    .label = Dùng mật khẩu chính
     .accesskey = U
 forms-master-pw-change =
     .label = Thay đổi mật khẩu chính…
     .accesskey = M
-forms-master-pw-fips-title = Bạn đang ở chế độ FIPS. FIPS yêu cầu Mật khẩu Chính không được để trống.
+forms-master-pw-fips-title = Bạn đang ở chế độ FIPS. FIPS yêu cầu mật khẩu chính không được để trống.
 forms-master-pw-fips-desc = Thay đổi mật khẩu không thành công
 
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Xác nhận danh tính của bạn để tạo mật khẩu chính.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Để tạo mật khẩu chính, hãy nhập thông tin đăng nhập Windows của bạn. Điều này giúp bảo vệ tính bảo mật của tài khoản của bạn.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These

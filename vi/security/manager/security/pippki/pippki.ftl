@@ -18,7 +18,7 @@ change-password-reenter = Mật khẩu mới (nhập lại):
 ## Reset Password dialog
 
 reset-password-window =
-    .title = Đặt lại Mật khẩu Chính
+    .title = Đặt lại mật khẩu chính
     .style = width: 40em
 reset-password-button-label =
     .label = Đặt lại
