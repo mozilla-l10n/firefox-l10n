@@ -316,6 +316,7 @@ touch-enabled = dokunma girdisi etkin
 drag-enabled = kaydırma çubuğu sürükleme etkin
 keyboard-enabled = klavye etkin
 autoscroll-enabled = otomatik kaydırma etkin
+zooming-enabled = yumuşak pinch-zoom etkin
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
