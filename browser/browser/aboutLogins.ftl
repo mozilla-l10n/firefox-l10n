@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = Ordenar por:
 login-list-name-option = Nome (A-Z)
 login-list-name-reverse-option = Nome (Z-A)
-login-list-breached-option = Sites vazados
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Última modificação
 login-list-last-used-option = Último uso
@@ -108,17 +107,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Confirme sua identidade para editar a conta salva.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Para editar a conta, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar a conta salva
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Confirme sua identidade para revelar a senha salva.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Para ver a senha, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = revelar a senha salva
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Confirme sua identidade para copiar a senha salva.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Para copiar a senha, insira suas credenciais de acesso ao Windows. Isso ajuda a proteger a segurança de suas contas.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar a senha salva
 
@@ -163,9 +168,6 @@ confirm-discard-changes-dialog-confirm-button = Descartar
 
 about-logins-breach-alert-title = Vazamento de site
 breach-alert-text = Senhas foram vazadas ou roubadas deste site desde a última vez que você atualizou suas credenciais de acesso. Mude a senha para proteger sua conta.
-breach-alert-link = Saiba mais sobre este vazamento.
-breach-alert-dismiss =
-    .title = Fechar este alerta
 about-logins-breach-alert-date = Este vazamento ocorreu em { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
