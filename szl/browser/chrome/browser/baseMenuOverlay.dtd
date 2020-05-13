@@ -35,6 +35,8 @@
 <!ENTITY helpFeedbackPage.label      "Poślij ôpinijo">
 <!ENTITY helpFeedbackPage.accesskey  "O">
 
+<!ENTITY helpShowTour2.label            "Rajza po aplikacyji &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "r">
 
 <!ENTITY preferencesCmdMac.label        "Preferyncyje…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
@@ -44,5 +46,9 @@
 <!ENTITY hideThisAppCmdMac2.label       "Skryj &brandShorterName;">
 <!ENTITY hideThisAppCmdMac2.commandkey  "S">
 
+<!ENTITY hideOtherAppsCmdMac.label      "Skryj inksze">
+<!ENTITY hideOtherAppsCmdMac.commandkey "S">
 
+<!ENTITY showAllAppsCmdMac.label        "Pokoż wszyskie">
 
+<!ENTITY touchBarCmdMac.label           "Nasztaluj posek Touch Bar…">
