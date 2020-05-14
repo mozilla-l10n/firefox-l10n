@@ -69,9 +69,30 @@ about-logins-login-intro-heading-logged-in = Alaa ceŋorɗe jahdinaaɗe njiytaa.
 login-intro-description = So a danndii ceŋorɗe maa e { -brand-product-name } e kaɓirgal goɗngal, ko nii keɓirtaaɗe ɗoo:
 login-intro-instruction-fxa = Sos walla seŋo e { -fxaccount-brand-name } maa e kaɓirgal ngal ɗo ceŋorɗe maa ndanndaa
 login-intro-instruction-fxa-settings = Yanane a suɓiima boyet ceŋorɗe ɗee nder teelte { -sync-brand-short-name }
+about-logins-intro-instruction-help = Ngam heɓde ballal goɗngal, yillo <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Wallitorde</a>
+about-logins-intro-import = So ceŋorɗe maa ndanndaama e wanngorde woɗnde, aɗa waawi  <a data-l10n-name="import-link">jiggaade-ɗe nder { -lockwise-brand-short-name }</a>
 
 ## Login
 
+login-item-new-login-title = Sos Seŋorde Hesere
+login-item-edit-button = Taƴto
+about-logins-login-item-remove-button = Momtu
+login-item-origin-label = Ñiiɓirde lowre geese
+login-item-origin =
+    .placeholder = https://www.example.com
+login-item-username-label = Innde kuutoro
+about-logins-login-item-username =
+    .placeholder = [alaa innde kuutoro]
+login-item-copy-username-button-text = Natto
+login-item-copied-username-button-text = Nattaama!
+login-item-password-label = Finnde
+login-item-password-reveal-checkbox =
+    .aria-label = Hollu finnde
+login-item-copy-password-button-text = Natto
+login-item-copied-password-button-text = Nattaama!
+login-item-save-changes-button = Danndu bayle
+login-item-save-new-button = Danndu
+login-item-cancel-button = Haaytu
 
 ## OS Authentication dialog
 
