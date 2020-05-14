@@ -230,6 +230,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Դիտարկել հեռակա կառավարմամբ
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Ընդլայնում՝
 urlbar-go-end-cap =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
 urlbar-page-action-button =
