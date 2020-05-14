@@ -232,3 +232,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Шукаць ці ўвесці адрас
 urlbar-placeholder =
     .placeholder = Шукаць ці ўвесці адрас
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Пашырэнне:
+urlbar-go-end-cap =
+    .tooltiptext = Пайсці па адрасе, які зараз у адрасным радку
