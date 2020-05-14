@@ -186,3 +186,5 @@ urlbar-extension =
     .value = एक्सटेन्सन:
 urlbar-go-end-cap =
     .tooltiptext = लोकेसन बारमा भएको स्थानमा जानुहोस्
+urlbar-page-action-button =
+    .tooltiptext = पृष्ठ कार्यहरु
