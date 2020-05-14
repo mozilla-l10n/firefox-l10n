@@ -5,6 +5,7 @@
 <!ENTITY autoconfigWizard2.title         "Kefluniañ ur gont postel nevez">
 
 <!ENTITY emailWizard.title               "Kefluniañ ho chomlec'h postel">
+<!ENTITY emailWizard.caption             "Ober gant ho chomlec'h postel bremanel">
 <!ENTITY name.label                      "Hoc'h anv :">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Anv-bihan Anv">
@@ -32,15 +33,21 @@
 <!-- LOCALIZATION NOTE(usernameEx.text): Domain refers to the Windows domain in ActiveDirectory. We mean the user's login in Windows at the local corporate network. -->
 <!ENTITY usernameEx.text                 "Naoudi an domani">
 
+<!ENTITY protocol.label                  "Komenad:">
 <!ENTITY imapLong.label                  "IMAP (teuliadoù a-bell)">
 <!ENTITY pop3Long.label                  "POP3 (mirout ar posteloù war hoc'h urzhiataer)">
 
+<!ENTITY manualConfigTable.summary       "Arventennoù an dafariad">
 <!ENTITY incoming.label                  "Dafariad degemer:">
+<!ENTITY incomingColumn.label            "Dafariad degemer">
 <!ENTITY outgoing.label                  "Dafariad kas :">
+<!ENTITY outgoingColumn.label            "Dafariad kas">
 <!ENTITY username.label                  "Anv arveriad :">
 <!ENTITY hostname.label                  "Anv an dafariad">
 <!ENTITY port.label                      "Porzh">
 <!ENTITY ssl.label                       "SSL">
+<!ENTITY serverRow.label                 "Dafariad:">
+<!ENTITY portRow.label                   "Porzh:">
 <!ENTITY sslRow.label                    "SSL:">
 <!ENTITY auth.label                      "Dilesa">
 <!ENTITY imap.label                      "IMAP">
