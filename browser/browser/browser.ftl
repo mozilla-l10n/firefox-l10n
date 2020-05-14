@@ -197,3 +197,5 @@ popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi
 
 ## URL Bar
 
+urlbar-go-end-cap =
+    .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
