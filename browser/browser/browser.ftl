@@ -229,6 +229,10 @@ enable-devtools-popup-description = Para utilizar o atalho F12, abra primeiro as
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Pesquisar ou introduzir um endereço
+urlbar-placeholder =
+    .placeholder = Pesquisar ou introduzir um endereço
 urlbar-remote-control-notification-anchor =
     .tooltiptext = O navegador está sob controlo remoto
 urlbar-switch-to-tab =
@@ -240,3 +244,5 @@ urlbar-go-end-cap =
     .tooltiptext = Ir para o endereço da barra de localização
 urlbar-page-action-button =
     .tooltiptext = Ações da página
+urlbar-pocket-button =
+    .tooltiptext = Guardar no { -pocket-brand-name }
