@@ -116,13 +116,19 @@ monitor-header-content-no-account = ניתן לבדוק את { -monitor-brand-na
 monitor-header-content-signed-in = { -monitor-brand-name } מזהיר אותך אם המידע שלך נחשף בדליפת נתונים מוכרת.
 monitor-sign-up = הרשמה להתרעות על דליפות
 auto-scan = נסרק באופן אוטומטי היום
+monitor-emails-tooltip =
+    .title = הצגת כתובות דוא״ל מנוטרות ב־{ -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = הצגת דליפות נתונים מוכרות ב־{ -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = הצגת ססמאות שנחשפו ב־{ -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 info-monitored-emails =
     { $count ->
-        [one] כתובת דוא״ל במעקב
-       *[other] כתובות דוא״ל במעקב
+        [one] כתובת דוא״ל מנוטרות
+       *[other] כתובות דוא״ל מנוטרות
     }
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
