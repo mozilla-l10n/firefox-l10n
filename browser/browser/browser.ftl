@@ -229,5 +229,18 @@ enable-devtools-popup-description = Para usar el acceso directo F12, primero abr
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Término de búsqueda o dirección
+urlbar-placeholder =
+    .placeholder = Término de búsqueda o dirección
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = El navegador está bajo control remoto
+urlbar-switch-to-tab =
+    .value = Cambiar a la pestaña:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensión:
+urlbar-go-end-cap =
+    .tooltiptext = Ir a la URL de la barra de direcciones
 urlbar-page-action-button =
     .tooltiptext = Acciones con la página
