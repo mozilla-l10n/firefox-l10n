@@ -186,3 +186,7 @@ urlbar-default-placeholder =
     .defaultPlaceholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+urlbar-switch-to-tab =
+    .value = ប្ដូរ​ទៅ​ផ្ទាំង៖
+urlbar-go-end-cap =
+    .tooltiptext = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
