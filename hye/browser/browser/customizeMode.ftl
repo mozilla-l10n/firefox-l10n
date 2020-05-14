@@ -4,6 +4,7 @@
 
 customize-mode-restore-defaults =
     .label = Վերականգնել ծրագրայինը
+customize-mode-menu-and-toolbars-header = Քաշեք Ձեր ընտրեալ միոյթները գործիքագաւտի կամ գերլցուած ցանկ։
 customize-mode-overflow-list-title = Լցուող ցանկ
 customize-mode-uidensity =
     .label = Բաշխում

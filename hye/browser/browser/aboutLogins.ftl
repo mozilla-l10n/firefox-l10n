@@ -24,8 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Բացել ցանկը
-# This menuitem is only visible on Windows
-menu-menuitem-import = Ներմուծել գաղտնաբառեր…
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = Ներմուծում մեկ այլ զննարկիչից…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ընտրանքներ
@@ -46,7 +46,6 @@ login-list-count =
     }
 login-list-sort-label-text = Տեսակաւարել ըստ՝
 login-list-name-option = Անուան (Ա-Ֆ)
-login-list-breached-option = Խախտուած կայքեր
 login-list-last-changed-option = Վերջին փոփոխութեան
 login-list-last-used-option = Վերջին աւգտագործման
 login-list-intro-title = Մուտքագրումներ չկան
@@ -73,7 +72,6 @@ about-logins-intro-import = Եթե Ձեր մուտքանունները այլ զ
 
 login-item-new-login-title = Ստեղծել նոր մուտքագրում
 login-item-edit-button = Խմբագրել
-login-item-delete-button = Ջնջել
 about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցէ
 login-item-origin =
@@ -84,10 +82,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Պատճէնել
 login-item-copied-username-button-text = Պատճէնուած
 login-item-password-label = Գաղտնաբառ
-login-item-password-reveal-checkbox-show =
-    .title = Ցուցադրել գաղտնաբառը
-login-item-password-reveal-checkbox-hide =
-    .title = Թաքցնել գաղտնաբառը
+login-item-password-reveal-checkbox =
+    .aria-label = Ցոյց տալ գաղտնաբառը
 login-item-copy-password-button-text = Պատճէնել
 login-item-copied-password-button-text = Պատճէնուած
 login-item-save-changes-button = Պահպանել փոփոխութիւնները
@@ -96,6 +92,15 @@ login-item-cancel-button = Չեղարկել
 login-item-time-changed = Վերջին փոփոխութիւնը՝ { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Ստեղծուած՝ { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Վերջին անգամ աւգտագործուած՝ { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 
 ## Master Password notification
 
@@ -118,7 +123,6 @@ enable-password-sync-preferences-button =
            *[other] Այցելեք { -sync-brand-short-name }-ի նախապատուութիւնները
         }
     .accesskey = V
-confirm-delete-dialog-title = Ջնջե՞լ այս մուտքագրումը։
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Այլեւս չհարցնել
     .accesskey = D
@@ -130,7 +134,6 @@ confirmation-dialog-dismiss-button =
     .title = Չեղարկել
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
-confirm-delete-dialog-confirm-button = Ջնջել
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
 confirm-discard-changes-dialog-title = Մերժե՞լ չպահպանուած փոփոխութիւնները։
 confirm-discard-changes-dialog-message = Բոլոր չպահպանուած փոփոխութիւնները կկորչեն։
@@ -139,9 +142,9 @@ confirm-discard-changes-dialog-confirm-button = Մերժել
 ## Breach Alert notification
 
 breach-alert-text = Այս կայքի գաղտնաբառերը արտահոսուել կամ գողացուել են այն բանից յետոյ, երբ վերջին անգամ թարմացրել եք Ձեր մուտքի տուեալները։ Փոխեք Ձեր գաղտնաբառը՝ Ձեր հաշիւը պաշտպանելու համար։
-breach-alert-link = Իմանալ աւելին այս խախտման մասին։
-breach-alert-dismiss =
-    .title = Փակել այս ահազանգը
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
