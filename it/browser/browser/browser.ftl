@@ -65,9 +65,6 @@ urlbar-search-tips-redirect-2 = Inizia le tue ricerche dalla barra degli indiriz
 
 ##
 
-
-##
-
 urlbar-geolocation-blocked =
     .tooltiptext = Il rilevamento della posizione è bloccato per questo sito web.
 urlbar-xr-blocked =
@@ -226,3 +223,25 @@ popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno con
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Inserisci un indirizzo o avvia una ricerca
+urlbar-placeholder =
+    .placeholder = Inserisci un indirizzo o avvia una ricerca
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Il browser è attualmente controllato da remoto
+urlbar-permissions-granted =
+    .tooltiptext = Sono stati concessi permessi aggiuntivi a questo sito web.
+urlbar-switch-to-tab =
+    .value = Passa alla scheda:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Estensione:
+urlbar-go-end-cap =
+    .tooltiptext = Vai all’URL inserito nella barra degli indirizzi
+urlbar-page-action-button =
+    .tooltiptext = Azioni per questa pagina
+urlbar-pocket-button =
+    .tooltiptext = Salva in { -pocket-brand-name }
