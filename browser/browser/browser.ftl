@@ -226,3 +226,21 @@ popup-all-windows-shared = Wšě widźomne wokna na wašej wobrazowce budu so d�
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Zo byšće tastu F12 wužiwał, wočińće najprjedy DevTools přez meni Webwuwiwar.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Pytać abo adresu zapodać
+urlbar-placeholder =
+    .placeholder = Pytać abo adresu zapodać
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Wobhladowak so zdaloka wodźi
+urlbar-switch-to-tab =
+    .value = K rajtarkej přeńć:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Rozšěrjenje:
+urlbar-go-end-cap =
+    .tooltiptext = K adresy w adresowym polu
+urlbar-page-action-button =
+    .tooltiptext = Akcije strony
