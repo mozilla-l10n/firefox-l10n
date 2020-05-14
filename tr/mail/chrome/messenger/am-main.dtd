@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Hesap Ayarları">
 <!ENTITY accountName.label "Hesap adı:">
 <!ENTITY accountName.accesskey "d">
@@ -25,7 +27,7 @@
 <!ENTITY signatureFile.label "Bunun yerine imzayı bir dosyadan ekle (metin, HTML veya resim):">
 <!ENTITY signatureFile.accesskey "d">
 <!ENTITY edit.label "Düzenle…">
-<!ENTITY choose.label "Seçin…">
+<!ENTITY choose.label "Seç…">
 <!ENTITY choose.accesskey "e">
 <!ENTITY editVCard.label "Kartviziti düzenle…">
 <!ENTITY editVCard.accesskey "d">

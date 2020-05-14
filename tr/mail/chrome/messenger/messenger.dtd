@@ -22,7 +22,7 @@
      -->
 <!ENTITY moveToNewWindow.label "Yeni pencereye taşı">
 <!ENTITY moveToNewWindow.accesskey "n">
-<!ENTITY newVirtualFolderCmd.label "Kayıtlı Arama…">
+<!ENTITY newVirtualFolderCmd.label "Kayıtlı arama…">
 <!ENTITY newVirtualFolderCmd.accesskey "y">
 <!ENTITY newOtherAccountsCmd.label "Diğer hesaplar…">
 <!ENTITY newOtherAccountsCmd.accesskey "D">

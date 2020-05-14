@@ -14,7 +14,7 @@
 <!ENTITY chooseFoldersButton.label "Seçin…">
 <!ENTITY chooseFoldersButton.accesskey "S">
 
-<!ENTITY searchOnline.label "Çevrim içi ara (IMAP ve haber grubu dizindeki için güncel sonuçlar verir ama dizin açma süresini artırır)">
+<!ENTITY searchOnline.label "Çevrimiçi ara (IMAP ve haber grubu dizindeki için güncel sonuçlar verir ama dizin açma süresini artırır)">
 <!ENTITY searchOnline.accesskey "A">
 <!ENTITY newFolderButton.label       "Oluştur">
 <!ENTITY newFolderButton.accesskey   "u">
