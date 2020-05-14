@@ -226,3 +226,23 @@ popup-all-windows-shared = Todas las ventanas visibles de su pantalla serán com
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Para usar el atajo F12, primero abra DevTools a través del menú de Desarrollador web
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Buscar o ingresar dirección
+urlbar-placeholder =
+    .placeholder = Buscar o ingresar dirección
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = El navegador está controlado remotamente
+urlbar-switch-to-tab =
+    .value = Cambiar a pestaña:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensión:
+urlbar-go-end-cap =
+    .tooltiptext = Ir a la dirección de la barra de direcciones
+urlbar-page-action-button =
+    .tooltiptext = Acciones de página
+urlbar-pocket-button =
+    .tooltiptext = Guardar en { -pocket-brand-name }
