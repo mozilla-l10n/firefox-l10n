@@ -57,6 +57,10 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Hwehwɛ anaaso kyerɛw adrɛs
+urlbar-placeholder =
+    .placeholder = Hwehwɛ anaaso kyerɛw adrɛs
 urlbar-switch-to-tab =
     .value = Swekye kɔ tab:
 urlbar-go-end-cap =
