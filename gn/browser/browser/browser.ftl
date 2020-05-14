@@ -226,3 +226,21 @@ popup-all-windows-shared = Oñemosarambíta opaite ovetã ojehecháva mba'erecha
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Eipurútarõ mbopya’eha F12 embojurujaraẽ DevTools ñanduti Mboguatahára poravorãme.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Ñe'ẽreka ýrõ kundaharape
+urlbar-placeholder =
+    .placeholder = Ñe'ẽreka ýrõ kundaharape
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Kundahára oĩ ñangarekoha okayguáva poguýpe
+urlbar-switch-to-tab =
+    .value = Tendayképe jeguerova:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Jepysokue:
+urlbar-go-end-cap =
+    .tooltiptext = Kundaharape renda URL-pe jeho
+urlbar-page-action-button =
+    .tooltiptext = Kuatiarogue rembiapo
