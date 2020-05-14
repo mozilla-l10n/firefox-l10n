@@ -229,6 +229,10 @@ enable-devtools-popup-description = F12 kısayolunu kullanmak için önce Web ge
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Arama yapın veya adres yazın
+urlbar-placeholder =
+    .placeholder = Arama yapın veya adres yazın
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
 urlbar-switch-to-tab =
