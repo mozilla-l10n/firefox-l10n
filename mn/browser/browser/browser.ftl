@@ -47,3 +47,5 @@ full-screen-exit =
 
 ## URL Bar
 
+urlbar-go-end-cap =
+    .tooltiptext = Хаягийн самбарын хаяг бичих газар очно
