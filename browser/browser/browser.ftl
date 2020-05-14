@@ -226,3 +226,8 @@ popup-all-windows-shared = A képernyő minden látható ablaka meg lesz osztva.
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Az F12 gyorsbillentyű használatához először nyissa meg fejlesztői eszközöket a Webfejlesztő menüben.
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = Ugrás a címmezőben levő címre
