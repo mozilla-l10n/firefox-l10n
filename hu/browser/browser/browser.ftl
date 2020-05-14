@@ -244,3 +244,5 @@ urlbar-extension =
     .value = Kiegészítő:
 urlbar-go-end-cap =
     .tooltiptext = Ugrás a címmezőben levő címre
+urlbar-page-action-button =
+    .tooltiptext = Oldalműveletek
