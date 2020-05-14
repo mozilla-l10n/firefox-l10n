@@ -226,3 +226,14 @@ popup-all-windows-shared = 將分享您畫面上所有可見的視窗。
 ## DevTools F12 popup
 
 enable-devtools-popup-description = 請透過「網頁開發者」選單開啟開發者工具，才能使用 F12 快速鍵。
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = 搜尋或輸入網址
+urlbar-placeholder =
+    .placeholder = 搜尋或輸入網址
+urlbar-switch-to-tab =
+    .value = 切換到分頁:
+urlbar-go-end-cap =
+    .tooltiptext = 按此前往網址列中的網址
