@@ -204,7 +204,16 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Ünvanı daxil et və ya axtar
 urlbar-placeholder =
     .placeholder = Ünvanı daxil et və ya axtar
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Səyyah uzaqdan idarədədir
 urlbar-switch-to-tab =
     .value = Keçiləcək vərəq:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Uzantı:
 urlbar-go-end-cap =
     .tooltiptext = Ünvan Sətrindəki ünvanı aç
+urlbar-page-action-button =
+    .tooltiptext = Səhifə əməliyyatları
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name }-ə Saxla
