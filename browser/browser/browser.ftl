@@ -226,5 +226,11 @@ popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Kirjoita osoite tai hakutermi
+urlbar-placeholder =
+    .placeholder = Kirjoita osoite tai hakutermi
+urlbar-switch-to-tab =
+    .value = Siirry välilehteen:
 urlbar-go-end-cap =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
