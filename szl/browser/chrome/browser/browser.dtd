@@ -205,19 +205,74 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.afterDomain.label "kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.">
+<!ENTITY pointerlockWarning.generic.label "Tyn dokumynt kōntroluje twōj kursor. Coby cofnōnć ta kōntrola, prziciś Esc.">
 
+<!ENTITY closeWindow.label "Zawrzij ôkno">
+<!ENTITY closeWindow.accesskey "n">
 
+<!ENTITY bookmarksMenu.label "Zokłodki">
+<!ENTITY bookmarksMenu.accesskey "Z">
+<!ENTITY bookmarkThisPageCmd.label "Przidej ta strōna do zokłodek">
+<!ENTITY editThisBookmarkCmd.label "Edytuj ta zokłodka">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 
+<!ENTITY addCurPagesCmd.label "Przidej wszyskie karty do zokłodek…">
 
+<!ENTITY showAllBookmarks2.label "Pokoż wszyskie zokłodki">
+<!ENTITY recentBookmarks.label "Niydowno przidane">
+<!ENTITY otherBookmarksCmd.label "Inksze zokłodki">
+<!ENTITY mobileBookmarksCmd.label "Zokłodki z mobilnioka">
+<!ENTITY bookmarksToolbarChevron.tooltip "Pokoż wiyncyj zokłodek">
 
+<!ENTITY backCmd.label                "Nazod">
+<!ENTITY backCmd.accesskey            "N">
+<!ENTITY backButton.tooltip           "Jedna strōna nazod">
+<!ENTITY forwardCmd.label             "Do przodku">
+<!ENTITY forwardCmd.accesskey         "D">
+<!ENTITY forwardButton.tooltip        "Jedna strōna do przodku">
+<!ENTITY backForwardButtonMenu.tooltip "Kliknij prawym prziciskiym abo naciś i trzimej, coby pokozać historyjo">
+<!ENTITY backForwardButtonMenuMac.tooltip "Przitrzimej naciśniynte, coby pokozać historyjo">
+<!ENTITY reloadCmd.label              "Przeladuj">
+<!ENTITY reloadCmd.accesskey          "P">
+<!ENTITY stopCmd.label                "Sztopnij">
+<!ENTITY stopCmd.accesskey            "S">
+<!ENTITY stopCmd.macCommandKey        ".">
 
+<!ENTITY goEndCap.tooltip             "Idź do adresy z poska z adresōm">
 
+<!ENTITY printButton.label            "Durkuj">
+<!ENTITY printButton.tooltip          "Durkuj ta strōna">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "Pokoż informacyje ô strōnie">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Ôdewrzij panel powiadōmiyń">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Ôdewrzij panel fantowanio ô twōj plac.">
+<!ENTITY urlbar.autoplayNotificationAnchor.tooltip        "Ôdewrzij panel autōmatycznego puszczanio">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Ôdewrzij panel powiadōmiyń instalacyje rozszyrzyń">
+<!ENTITY urlbar.canvasNotificationAnchor.tooltip          "Regiyruj zgodami na ekstrakcyjo canvas">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Ôdewrzij panel powiadōmiyń ô chowaniu danych offline">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ôdewrzij panel powiadōmiyń spamiyntywanio hasła">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Regiyruj używaniym rozszyrzyń">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmiyń, jeźli mosz dostować powiadōmiynia z tyj strōny.">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Chrōniynie danych we pamiyńci trwałyj.">
 
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Przeglōndarka je kōntrolowano zdalnie">
+<!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ôdewrzij panel necowyj autyntyzacyje">
+<!ENTITY urlbar.storageAccessAnchor.tooltip               "Ôdewrzij panel dostympu do informacyji ô twojim przeglōndaniu">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Regiyruj udostympnianiym tyj strōnie twojij kamery i/abo mikrofōnu">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Regiyruj udostympnianiym mikrofōnu z tōm strōnōm.">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Regiyruj udostympnianiym tyj strōnie twojich ôkiyn abo ekranu">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ôdewrzij panel z informacyjōm ô instalacyji">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Przekłodej ta strōna">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Regiyruj przekłodaniym strōny">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Regiyruj używaniym softwaru DRM">
+<!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ôdewrzij panel MIDI">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Dostymp tyj strōny do kamery je zaszperowany.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Dostymp tyj strōny do mikrofōnu je zaszperowany.">
 
 
 
