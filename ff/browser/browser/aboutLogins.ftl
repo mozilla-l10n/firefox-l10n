@@ -177,6 +177,13 @@ about-logins-breach-alert-learn-more-link = Ɓeydu humpito
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Finnde yaafnde
+about-logins-vulnerable-alert-text2 = Ndee finnde huutoranooma e konte goɗɗe tuumaaɗe jeyeede e ciigol keɓe. Kuutorogol humpito kadi ina waɗa konte maa fof e caɗeele. Waylu ndee finnde.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Yah to { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Ɓeydu humpito
 
 ## Error Messages
 
+# This is a generic error message.
+about-logins-error-message-default = Juumre waɗii tuma etagol danndude ndee finnde.
