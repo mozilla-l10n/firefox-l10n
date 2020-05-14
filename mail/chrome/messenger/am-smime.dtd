@@ -49,6 +49,8 @@
 <!ENTITY manageDevices2.label "S/MIME güvenlik cihazları">
 <!ENTITY manageDevices2.accesskey "c">
 
+<!ENTITY technologySMIME.label "S/MIME’ı tercih et">
+<!ENTITY technologyOpenPGP.label "OpenPGP’yi tercih et">
 
 <!ENTITY openpgpKeys.label "OpenPGP">
 <!ENTITY manageKeys.label "OpenPGP anahtarlarını yönet">
@@ -58,5 +60,6 @@
 <!ENTITY certPicker.info  "Sertifika:">
 <!ENTITY certPicker.detailsLabel "Seçilen sertifikanın ayrıntıları:">
 
+<!ENTITY openpgpKey.message "Şifreleme ve dijital imzalama için kişisel anahtar:">
 <!ENTITY openpgpKey.button "Kişisel anahtarı ayarla…">
 <!ENTITY openpgpKey.accesskey "o">
