@@ -177,7 +177,12 @@ urlbar-default-placeholder =
     .defaultPlaceholder = खोज वा ठेगाना राखनुहोस्।
 urlbar-placeholder =
     .placeholder = खोज वा ठेगाना राखनुहोस्।
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ब्राउजर रिमोट कंट्रोल अन्तर्गत छ
 urlbar-switch-to-tab =
     .value = यस ट्याबमा स्विच गर्नुहोस्:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = एक्सटेन्सन:
 urlbar-go-end-cap =
     .tooltiptext = लोकेसन बारमा भएको स्थानमा जानुहोस्
