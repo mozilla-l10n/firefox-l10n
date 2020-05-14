@@ -228,3 +228,5 @@ urlbar-placeholder =
     .placeholder = Escriviu una cerca o adreça
 urlbar-switch-to-tab =
     .value = Canvia a la pestanya:
+urlbar-go-end-cap =
+    .tooltiptext = Vés a l'adreça de la barra d'ubicació
