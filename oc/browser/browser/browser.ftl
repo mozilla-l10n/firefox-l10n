@@ -229,5 +229,11 @@ enable-devtools-popup-description = Per utilizar l’acorchi F12, dobrissètz d�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Picar un tèrme de recercar o una adreça
+urlbar-placeholder =
+    .placeholder = Picar un tèrme de recercar o una adreça
 urlbar-switch-to-tab =
     .value = Anar a l'onglet :
+urlbar-go-end-cap =
+    .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
