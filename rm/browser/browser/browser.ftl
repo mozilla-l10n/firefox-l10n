@@ -226,6 +226,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Tschertgar u endatar in'adressa
 urlbar-placeholder =
     .placeholder = Tschertgar u endatar in'adressa
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Il navigatur vegn controllà a distanza
 urlbar-switch-to-tab =
     .value = Midar al tab:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
