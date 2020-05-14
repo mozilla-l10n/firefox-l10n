@@ -224,3 +224,8 @@ popup-all-windows-shared = หน้าต่างที่ปรากฏอ�
 ## DevTools F12 popup
 
 enable-devtools-popup-description = หากต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู Web Developer
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = สลับไปยังแท็บ:
