@@ -807,6 +807,8 @@ forms-master-pw-fips-desc = Échec de la modification du mot de passe principal
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Vérifiez votre identité pour créer un mot de passe principal.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Pour créer un mot de passe principal, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.

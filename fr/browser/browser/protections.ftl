@@ -35,6 +35,12 @@ protection-report-page-title = Protection de la vie privée
 protection-report-content-title = Protection de la vie privée
 etp-card-title = Protection renforcée contre le pistage
 etp-card-content = Les traqueurs vous suivent en ligne pour collecter des informations sur vos habitudes de navigation et vos centres d’intérêt. { -brand-short-name } bloque un grand nombre de ces traqueurs et de scripts malveillants.
+protection-report-webpage-title = Tableau de bord des protections
+protection-report-page-content-title = Tableau de bord des protections
+protection-report-page-summary = { -brand-short-name } peut protéger votre vie privée en arrière-plan pendant que vous naviguez. Voici un résumé personnalisé de ces protections, avec des outils pour prendre le contrôle de votre sécurité en ligne.
+etp-card-title-always = Protection renforcée contre le pistage : toujours activée
+etp-card-title-custom-not-blocking = Protection renforcée contre le pistage : DÉSACTIVÉE
+etp-card-content-summary = Lorsque des entreprises inconnues essaient de vous suivre secrètement sur le Web, { -brand-short-name } arrête automatiquement bon nombre d’entre elles.
 protection-report-etp-card-content-custom-not-blocking = Toutes les protections sont actuellement désactivées. Choisissez les traqueurs à bloquer en gérant les paramètres de protection de { -brand-short-name }.
 protection-report-manage-protections = Gérer les paramètres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -115,6 +121,12 @@ monitor-header-content-no-account = Consultez { -monitor-brand-name } pour véri
 monitor-header-content-signed-in = { -monitor-brand-name } vous alerte si vos informations apparaissent dans une fuite de données connue
 monitor-sign-up = S’inscrire aux alertes de fuites de données
 auto-scan = Vérifiées aujourd’hui automatiquement
+monitor-emails-tooltip =
+    .title = Afficher les adresses électroniques surveillées sur { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Afficher les fuites de données connues sur { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Afficher les mots de passe compromis sur { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

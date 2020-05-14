@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = Trier par :
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
-login-list-breached-option = Fuites de données de sites
 about-logins-login-list-alerts-option = Alertes
 login-list-last-changed-option = Dernière modification
 login-list-last-used-option = Dernière utilisation
@@ -108,17 +107,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Vérifiez votre identité pour modifier l’identifiant enregistré.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Pour modifier vos identifiants, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifier l’identifiant enregistré
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Vérifiez votre identité pour révéler le mot de passe enregistré.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Pour afficher votre mot de passe, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = révéler le mot de passe enregistré
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Vérifiez votre identité pour copier le mot de passe enregistré.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Pour copier votre mot de passe, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copier le mot de passe enregistré
 
@@ -163,9 +168,6 @@ confirm-discard-changes-dialog-confirm-button = Ignorer
 
 about-logins-breach-alert-title = Fuite de site web
 breach-alert-text = Les mots de passe de ce site ont été divulgués ou volés après la dernière modification de vos informations de connexion. Changez votre mot de passe pour protéger votre compte.
-breach-alert-link = En savoir plus sur cette fuite de données.
-breach-alert-dismiss =
-    .title = Fermer cette alerte
 about-logins-breach-alert-date = Cette fuite de données s’est produite le { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
