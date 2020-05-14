@@ -73,6 +73,9 @@ cfr-doorhanger-pintab-animation-resume = Fuɗɗito
 
 cfr-doorhanger-bookmark-fxa-header = Jokkondir maantore maa kala nokku.
 cfr-doorhanger-bookmark-fxa-link-text = Jokkondir maantore jooni…
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = Butoŋ uddugol
+    .title = Uddu
 
 ## Protections panel
 
@@ -89,6 +92,8 @@ cfr-whatsnew-button =
     .label = Ko Hesɗi
     .tooltiptext = Ko Hesɗi
 cfr-whatsnew-panel-header = Ko Hesɗi
+cfr-whatsnew-release-notes-link-text = Tar konngol bayyinol
+cfr-whatsnew-fx70-title = { -brand-short-name }ina haɓee jooni no feewi ngam suturo maa
 cfr-whatsnew-tracking-protect-title = Reen hoore maa e rewindotooɓe
 cfr-whatsnew-tracking-protect-link-text = Yiy jaŋtol maa
 # This string is displayed before a large numeral that indicates the total
