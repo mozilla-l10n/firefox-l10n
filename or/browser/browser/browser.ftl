@@ -161,3 +161,8 @@ popup-all-windows-shared = ଆପଣଙ୍କ ପରଦାରେ ଦୃଶ୍ୟ
 
 ## DevTools F12 popup
 
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ
