@@ -18,7 +18,7 @@ about-config-intro-warning-text = Կազմաձեւի առաջատար նախապ
 about-config-intro-warning-checkbox = Զգուշացրեք ինձ, երբ ես փորձում եմ մուտք գործել այս նախընտրութիւններ
 about-config-intro-warning-button = Ընդունել վտանգը եւ շարունակել
 
-
+##
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Այս նախասիրութիւնների փոփոխութիւնը կարող է ազդել { -brand-short-name } ֊ի աշխատանքի կամ անվտանգութեան վրա:
@@ -47,6 +47,7 @@ about-config-pref-delete-button =
 
 ## Labels for the type selection radio buttons shown when adding preferences.
 
+about-config-pref-add-type-boolean = Տրամաբանական
 about-config-pref-add-type-number = Արտոնաթիւ
 about-config-pref-add-type-string = Տող
 
