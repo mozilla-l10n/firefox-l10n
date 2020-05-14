@@ -57,9 +57,17 @@ about-logins-login-list-empty-search-description = Hay njeñtudi wootiri tolnond
 login-list-item-title-new-login = Seŋorde hesere
 login-list-item-subtitle-new-login = Naatnu humpito
 login-list-item-subtitle-missing-username = [alaa innde kuutoro]
+about-logins-list-item-breach-icon =
+    .title = Loowe geese dañɗe ciigol keɓe
+about-logins-list-item-vulnerable-password-icon =
+    .title = Finnde yaafnde
 
 ## Introduction screen
 
+login-intro-heading = Njiilotoɗaa ko ceŋorɗe maa danndaaɗe? Teelto { -sync-brand-short-name }.
+about-logins-login-intro-heading-logged-in = Alaa ceŋorɗe jahdinaaɗe njiytaa.
+login-intro-description = So a danndii ceŋorɗe maa e { -brand-product-name } e kaɓirgal goɗngal, ko nii keɓirtaaɗe ɗoo:
+login-intro-instruction-fxa = Sos walla seŋo e { -fxaccount-brand-name } maa e kaɓirgal ngal ɗo ceŋorɗe maa ndanndaa
 
 ## Login
 
