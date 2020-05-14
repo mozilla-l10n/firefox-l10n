@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Ñe'ẽreka ýrõ kundaharape
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Kundahára oĩ ñangarekoha okayguáva poguýpe
+urlbar-permissions-granted =
+    .tooltiptext = Oñeme’ẽ ko ñanduti rendápe ñemoneĩ jo’a.
 urlbar-switch-to-tab =
     .value = Tendayképe jeguerova:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -244,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Kundaharape renda URL-pe jeho
 urlbar-page-action-button =
     .tooltiptext = Kuatiarogue rembiapo
+urlbar-pocket-button =
+    .tooltiptext = Eñongatu { -pocket-brand-name }-pe
