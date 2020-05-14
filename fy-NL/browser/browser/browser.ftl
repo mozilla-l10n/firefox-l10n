@@ -226,3 +226,12 @@ popup-all-windows-shared = Alle sichtbere finsters op jo skerm sille dield wurde
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Iepenje earst DevTools yn it menu Webûntwikkeler om de fluchtoets F12 te brûken.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Fier in sykterm of adres yn
+urlbar-placeholder =
+    .placeholder = Fier in sykterm of adres yn
+urlbar-go-end-cap =
+    .tooltiptext = It adres yn de lokaasjebalke iepenje
