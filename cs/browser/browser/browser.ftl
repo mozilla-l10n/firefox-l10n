@@ -253,7 +253,17 @@ enable-devtools-popup-description = Pokud chcete používat zkratku F12, otevře
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Zadejte webovou adresu nebo dotaz pro vyhledávač
+urlbar-placeholder =
+    .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Prohlížeč je ovládán vzdáleně
 urlbar-switch-to-tab =
     .value = Přepnout na panel:
 urlbar-go-end-cap =
     .tooltiptext = Přejde na adresu v adresním řádku
+urlbar-page-action-button =
+    .tooltiptext = Akce stránky
+urlbar-pocket-button =
+    .tooltiptext = Uloží do služby { -pocket-brand-name }
