@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Alınma sırası">
 <!ENTITY attachmentColumn.label "Ekler">
 
+<!ENTITY deleteColumn.label "Sil">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
 <!ENTITY selectColumn.tooltip "Tüm iletileri seç/seçme">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Konuma göre sırala">
 <!ENTITY idColumn2.tooltip "Alınış sırasına göre sırala">
 <!ENTITY attachmentColumn2.tooltip "Eklere göre sırala">
+
+<!ENTITY deleteColumn.tooltip "İletiyi sil">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Taslak kullanarak yeni ileti yaz">

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+account-central-title = { -brand-full-name } uygulamasına hoş geldiniz
 account-settings = Hesap Ayarları
 #   $accounts (Number) - the number of configured accounts
 setup-title = Nelerin ayarlanacağını seçin
