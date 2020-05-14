@@ -186,7 +186,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
 urlbar-placeholder =
     .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = កម្មវិធី​អ៊ីនធឺណិត​គឺ​ស្ថិត​ក្រោម​ការ​ត្រួតពិនិត្យ​ពី​ចម្ងាយ
 urlbar-switch-to-tab =
     .value = ប្ដូរ​ទៅ​ផ្ទាំង៖
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ផ្នែក​បន្ថែម៖
 urlbar-go-end-cap =
     .tooltiptext = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
+urlbar-page-action-button =
+    .tooltiptext = ទំព័រ​សកម្មភាព
