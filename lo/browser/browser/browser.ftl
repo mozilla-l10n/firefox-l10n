@@ -134,5 +134,16 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+urlbar-placeholder =
+    .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
+urlbar-switch-to-tab =
+    .value = ຍ້າຍໄປແທັບ:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ສ່ວນຂະຫຍາຍ:
 urlbar-go-end-cap =
     .tooltiptext = ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່
+urlbar-page-action-button =
+    .tooltiptext = ການກະທຳຂອງຫນ້າ
