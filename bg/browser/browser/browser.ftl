@@ -224,7 +224,22 @@ popup-all-windows-shared = Всички видими прозорци на ва�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Търсете или въведете адрес
+urlbar-placeholder =
+    .placeholder = Търсете или въведете адрес
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Четецът е под дистанционно управление
+urlbar-permissions-granted =
+    .tooltiptext = Дали сте допълнителни права на страницата.
 urlbar-switch-to-tab =
     .value = Превключване към раздел:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Разширение:
 urlbar-go-end-cap =
     .tooltiptext = Зареждане на адреса в полето
+urlbar-page-action-button =
+    .tooltiptext = Действия със страницата
+urlbar-pocket-button =
+    .tooltiptext = Запазване в { -pocket-brand-name }
