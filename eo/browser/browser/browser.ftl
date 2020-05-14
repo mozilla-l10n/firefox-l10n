@@ -226,6 +226,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Serĉu ion aŭ tajpu adreson
 urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = La retumilo estas sub fora regado
 urlbar-switch-to-tab =
     .value = Iri al langeto:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
