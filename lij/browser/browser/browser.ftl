@@ -197,6 +197,8 @@ popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi
 
 ## URL Bar
 
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Navegatô in contròllo remòtto
 urlbar-switch-to-tab =
     .value = Vanni a-o feuggio:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -204,3 +206,5 @@ urlbar-extension =
     .value = Estenscioin:
 urlbar-go-end-cap =
     .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
+urlbar-page-action-button =
+    .tooltiptext = Pagina açioin
