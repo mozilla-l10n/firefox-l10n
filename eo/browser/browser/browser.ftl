@@ -222,3 +222,16 @@ popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividita
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Serĉu ion aŭ tajpu adreson
+urlbar-placeholder =
+    .placeholder = Serĉu ion aŭ tajpu adreson
+urlbar-switch-to-tab =
+    .value = Iri al langeto:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Etendaĵo:
+urlbar-go-end-cap =
+    .tooltiptext = Iri al la adreso en la retadresa strio
+urlbar-pocket-button =
+    .tooltiptext = Konservi en { -pocket-brand-name }
