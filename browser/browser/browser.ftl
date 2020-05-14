@@ -226,3 +226,12 @@ popup-all-windows-shared = Todas las ventanas visibles en tu pantalla serán com
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Para usar el acceso directo F12, primero abre las herramientas de desarrollo a través del menú Desarrollador web.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Buscar o ingresar dirección
+urlbar-placeholder =
+    .placeholder = Buscar o ingresar dirección
+urlbar-switch-to-tab =
+    .value = Cambiar a pestaña:
