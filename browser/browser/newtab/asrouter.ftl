@@ -131,14 +131,22 @@ cfr-whatsnew-permission-prompt-cta = Ɓeydu humpito
 
 ## Bookmark Sync
 
+cfr-doorhanger-sync-bookmarks-header = Heɓ ngol maantorol e cinndel maa
+cfr-doorhanger-sync-bookmarks-body = Naw maantore mma, pinle maa, aslol maa e goɗɗe kala ɗo ceŋiɗaa e { -brand-product-name }.
+cfr-doorhanger-sync-bookmarks-ok-button = Huɓɓu { -sync-brand-short-name }…
+    .accesskey = H
 
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Hoto majjin finnde maa kadi abadaa.
+cfr-doorhanger-sync-logins-ok-button = Huɓɓu { -sync-brand-short-name }…
+    .accesskey = H
 
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Tar ɗum e yahdu
+cfr-doorhanger-send-tab-ok-button = Eto neldude tabbere
+    .accesskey = E
 
 ## Firefox Send
 
