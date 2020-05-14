@@ -3,30 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-
-##
-
-
 ## Tooltips for images appearing in the address bar
 
 
@@ -52,4 +28,16 @@ browser-main-window-content-title-default =
 
 
 ## Identity Panel
+
+
+## Window controls
+
+
+## WebRTC Pop-up notifications
+
+
+## DevTools F12 popup
+
+
+## URL Bar
 
