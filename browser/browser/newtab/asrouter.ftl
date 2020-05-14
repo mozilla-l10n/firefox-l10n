@@ -181,3 +181,4 @@ cfr-whatsnew-passwords-header = Heɓ jeertine baɗte pinle jaafɗe
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Ƴettu njaajeendi yaynirde natal-nder-natal

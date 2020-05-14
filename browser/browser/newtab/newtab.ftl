@@ -45,7 +45,7 @@ newtab-topsites-save-button = Daɗndu
 newtab-topsites-preview-button = Sooyno
 newtab-topsites-add-button = Ɓeydu
 
-## Top Sites - Delete history confirmation dialog. 
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Aɗa yananaa yiɗde momtude kala cilol ngoo hello e to aslol maa?
 # "This action" refers to deleting a page from history.
@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Ngal baɗal waawaa firteede.
 newtab-menu-section-tooltip =
     .title = Uddit cuɓirgol
     .aria-label = Uddit cuɓirgol
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Momtu
+    .aria-label = Momtu
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -80,12 +84,21 @@ newtab-menu-delete-history = Momtu e daartol
 newtab-menu-save-to-pocket = Danndu e { -pocket-brand-name }
 newtab-menu-delete-pocket = Momtu e { -pocket-brand-name }
 newtab-menu-archive-pocket = Mooftu nder { -pocket-brand-name }
+newtab-menu-show-privacy-info = Tammbiiɓe min & suturo mon
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+newtab-privacy-modal-button-done = Gasii
+newtab-privacy-modal-header = Suturo maa ko ngoƴa amen.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Momtu maanto ɗerewol
 # Bookmark is a verb here.
 newtab-menu-bookmark = Maanto ɗerewol
 
-## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Natto jokkorde awtaande ndee
@@ -113,7 +126,7 @@ newtab-label-recommended = Ina tiindii
 newtab-label-saved = Danndaama e { -pocket-brand-name }
 newtab-label-download = Awtaama
 
-## Section Menu: These strings are displayed in the section context menu and are 
+## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
 
 newtab-section-menu-remove-section = Momtu taƴre
@@ -126,6 +139,9 @@ newtab-section-menu-add-search-engine = Ɓeydu yiylorde
 newtab-section-menu-move-up = Dirtin dow
 newtab-section-menu-move-down = Dirtin les
 newtab-section-menu-privacy-notice = Tintinal sirlu
+
+## Section aria-labels
+
 
 ## Section Headers.
 
@@ -143,12 +159,14 @@ newtab-empty-section-highlights = Fuɗɗo wanngaade, min kolloymaa huunde e binn
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Rutto ɗoo goɗngol ngam daari goɗɗi { $provider }. A waawaa fadde ? Suvo tiitoonde lollunde ngam yiytude e geese hee daari goɗɗi.
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Loowdiiji lolluɗi:
 newtab-pocket-more-recommendations = Wasiyaaji goɗɗi
-newtab-pocket-how-it-works = Hol no gollortoo
 newtab-pocket-cta-button = Heɓ { -pocket-brand-name }
 newtab-pocket-cta-text = Hisnu daari njiɗ-ɗaa nder { -pocket-brand-name }, ñikliraa hakkille maa taro welngo.
 
