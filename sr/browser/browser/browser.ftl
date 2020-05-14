@@ -243,3 +243,5 @@ urlbar-go-end-cap =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =
     .tooltiptext = Радње странице
+urlbar-pocket-button =
+    .tooltiptext = Сачувај са услугом { -pocket-brand-name }
