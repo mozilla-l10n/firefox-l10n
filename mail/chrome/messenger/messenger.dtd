@@ -42,6 +42,8 @@
 <!ENTITY  newMessageCmd.accesskey "m">
 <!ENTITY  newContactCmd.label "Հասցեագրքի կապ...">
 <!ENTITY  newContactCmd.accesskey "C">
+<!ENTITY openMenuCmd.label "Բացել">
+<!ENTITY openMenuCmd.accesskey "O">
 <!ENTITY openMessageFileCmd.label "Բացել պահպանված նամակը...">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY saveAsMenu.label "Պահպանել Որպես">
@@ -728,6 +730,7 @@
 <!ENTITY idColumn.label "Ստացման կարգի">
 <!ENTITY attachmentColumn.label "Կցորդներ">
 
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Ընտրեք, թե որ սյուները ցուցադրել">
 <!ENTITY selectColumn.tooltip "Համատեղ նշել բոլոր հաղորդագրությունները">
@@ -751,6 +754,7 @@
 <!ENTITY locationColumn2.tooltip "Տեսակավորել ըստ՝ տեղադրության">
 <!ENTITY idColumn2.tooltip "Տեսակավորել ըստ՝ ստանալու կարգի">
 <!ENTITY attachmentColumn2.tooltip "Տեսակավորել ըստ՝ կցորդների">
+
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Նոր հաղորդագրություն՝ ձևանմուշից">
