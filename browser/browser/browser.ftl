@@ -153,6 +153,10 @@ popup-all-windows-shared = Alle sigbare vensters op die skerm sal gedeel word.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Soek of tik adres in
+urlbar-placeholder =
+    .placeholder = Soek of tik adres in
 urlbar-switch-to-tab =
     .value = Verwissel na oortjie:
 urlbar-go-end-cap =
