@@ -226,3 +226,12 @@ popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan diba
 
 ## URL Bar
 
+urlbar-permissions-granted =
+    .tooltiptext = Anda telah memberikan izin tambahan kepada situs web ini.
+urlbar-switch-to-tab =
+    .value = Pindah ke tab:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Ekstensi:
+urlbar-go-end-cap =
+    .tooltiptext = Pindah ke alamat di Bilah Lokasi
