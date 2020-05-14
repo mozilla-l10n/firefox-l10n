@@ -226,3 +226,12 @@ popup-all-windows-shared = Wszystkie widoczne na ekranie okna zostaną udostępn
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Aby móc użyć skrótu F12, najpierw otwórz narzędzia dla programistów w menu „Dla twórców witryn”.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Wprowadź adres lub szukaj
+urlbar-placeholder =
+    .placeholder = Wprowadź adres lub szukaj
+urlbar-switch-to-tab =
+    .value = Przełącz na kartę:
