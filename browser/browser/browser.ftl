@@ -237,3 +237,5 @@ urlbar-go-end-cap =
     .tooltiptext = Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων
 urlbar-page-action-button =
     .tooltiptext = Ενέργειες σελίδας
+urlbar-pocket-button =
+    .tooltiptext = Αποθήκευση στο { -pocket-brand-name }
