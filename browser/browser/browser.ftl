@@ -226,3 +226,14 @@ popup-all-windows-shared = Alle synlege vindauge på skjermen vil bli delte.
 ## DevTools F12 popup
 
 enable-devtools-popup-description = For å bruke F12-snarvegen, må du først opne DevTools via menyen for Nettsideutvikling
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Søk eller skriv inn ei adresse
+urlbar-placeholder =
+    .placeholder = Søk eller skriv inn ei adresse
+urlbar-switch-to-tab =
+    .value = Byt til fane:
+urlbar-go-end-cap =
+    .tooltiptext = Gå til adressa i adresselinja
