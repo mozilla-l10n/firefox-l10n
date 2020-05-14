@@ -229,5 +229,7 @@ enable-devtools-popup-description = Kako biste koristili F12 prečicu, prvo otvo
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Prebaci na karticu:
 urlbar-go-end-cap =
     .tooltiptext = Idi na adresu iz lokacijske trake
