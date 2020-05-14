@@ -151,9 +151,9 @@
 <!ENTITY messagePaneWide.accesskey "n">
 <!ENTITY messagePaneVertical.label "Dikey görünüm">
 <!ENTITY messagePaneVertical.accesskey "k">
-<!ENTITY showFolderPaneCmd.label "Dizin Bölmesi">
+<!ENTITY showFolderPaneCmd.label "Dizin bölmesi">
 <!ENTITY showFolderPaneCmd.accesskey "D">
-<!ENTITY showFolderPaneColsCmd.label "Dizin Bölmesi Sütunları">
+<!ENTITY showFolderPaneColsCmd.label "Dizin bölmesi sütunları">
 <!ENTITY showFolderPaneColsCmd.accesskey "B">
 <!ENTITY showMessageCmd.label "İleti Bölmesi">
 <!ENTITY showMessageCmd.accesskey "B">
@@ -398,7 +398,7 @@
 <!ENTITY killSubthreadMenu.label "Alt diziyi göz ardı et">
 <!ENTITY killSubthreadMenu.accesskey "d">
 <!ENTITY killSubthreadMenu.key "k">
-<!ENTITY watchThreadMenu.label "Dizii izle">
+<!ENTITY watchThreadMenu.label "Diziyi izle">
 <!ENTITY watchThreadMenu.accesskey "z">
 <!ENTITY watchThreadMenu.key "w">
 <!ENTITY tagMenu.label "Etiket">
@@ -498,7 +498,7 @@
 <!ENTITY filtersApplyToMessage.accesskey "s">
 <!ENTITY runJunkControls.label "Dizinde gereksiz posta denetimini çalıştır">
 <!ENTITY runJunkControls.accesskey "D">
-<!ENTITY deleteJunk.label "Dizindeki gereksiz olarak işaretlenen iletileri sil">
+<!ENTITY deleteJunk.label "Gereksiz olarak işaretlenen iletileri sil">
 <!ENTITY deleteJunk.accesskey "s">
 <!ENTITY importCmd.label "İçe aktar…">
 <!ENTITY importCmd.accesskey "t">
