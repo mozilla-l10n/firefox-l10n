@@ -186,6 +186,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
 urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = విహరణి వ్యవహిత నియంత్రణ కింద ఉంది
 urlbar-switch-to-tab =
     .value = ట్యాబుకు మారు:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
