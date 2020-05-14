@@ -233,3 +233,5 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = 브라우저가 원격 제어중
 urlbar-switch-to-tab =
     .value = 탭 전환:
+urlbar-page-action-button =
+    .tooltiptext = 페이지 작업
