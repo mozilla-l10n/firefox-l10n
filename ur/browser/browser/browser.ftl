@@ -224,6 +224,10 @@ popup-all-windows-shared = آپ کی سکرین پر نظر آنے والے تم
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = تلاش کریں یا پتہ داخل کریں
+urlbar-placeholder =
+    .placeholder = تلاش کریں یا پتہ داخل کریں
 urlbar-switch-to-tab =
     .value = ٹیب پر سوئچ کریں:
 urlbar-go-end-cap =
