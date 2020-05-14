@@ -232,6 +232,8 @@ urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakutermi
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Selain on kauko-ohjauksessa
+urlbar-permissions-granted =
+    .tooltiptext = Olet myöntänyt tälle sivustolle lisäoikeuksia.
 urlbar-switch-to-tab =
     .value = Siirry välilehteen:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
