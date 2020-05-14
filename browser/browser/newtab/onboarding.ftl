@@ -23,6 +23,19 @@ onboarding-welcome-body = A heɓii wanngorde ndee.<br/>Ƴeew ko heddii koo e { -
 onboarding-welcome-learn-more = Ɓeydu humpito baɗte ɓure ɗee.
 onboarding-join-form-header = Tawtu { -brand-product-name }
 onboarding-welcome-modal-get-body = A heɓii wanngorde ndee.<br/>Jooni noon heɓ ko ɓuri yuɓɓude e { -brand-product-name }.
+onboarding-welcome-modal-supercharge-body = Ɓeydu ndeenka suturo maa.
+onboarding-welcome-modal-privacy-body = A heɓii wanngorde ndee. Ɓeyden ndeenka suturo heewka.
+onboarding-welcome-form-header = Fuɗɗo ɗoo
+onboarding-join-form-body = Naat-nu ñiiɓirde iimeel maa ngam fuɗɗaade.
+onboarding-join-form-email =
+    .placeholder = Naatnu iimeel
+onboarding-join-form-email-error = Iimeel moƴƴo ena waɗɗii
+onboarding-join-form-legal = So a waɗii ɗum, firti ko a jaɓii <a data-l10n-name="terms">Laabi Carwol</a> e <a data-l10n-name="privacy">Tintinol Suturo</a>.
+onboarding-join-form-continue = Jokku
+# This message is followed by a link using onboarding-join-form-signin ("Sign In") as text.
+onboarding-join-form-signin-label = Aɗa jogii konte kisa?
+# Text for link to submit the sign in form
+onboarding-join-form-signin = Seŋo
 onboarding-start-browsing-button-label = Fuɗɗo wanngaade
 onboarding-cards-dismiss =
     .title = Salo
@@ -30,6 +43,9 @@ onboarding-cards-dismiss =
 
 ## Welcome full page string
 
+onboarding-fullpage-welcome-subheader = Puɗɗo-ɗen yiylaade kala ko mbaawɗaa waɗde.
+onboarding-fullpage-form-email =
+    .placeholder = Ñiiɓirde iimeel maa…
 
 ## Firefox Sync modal dialog strings.
 
