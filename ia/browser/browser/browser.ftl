@@ -226,3 +226,21 @@ popup-all-windows-shared = Tote le fenestras visibile super tu schermo essera co
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Pro usar le via breve de claviero F12, aperir primo le instrumentos de disveloppamento per le “Menu disveloppamento Web”.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Insere un adresse o face un recerca
+urlbar-placeholder =
+    .placeholder = Insere un adresse o face un recerca
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Le navigator es sub controlo remote
+urlbar-switch-to-tab =
+    .value = Commutar al scheda:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extension:
+urlbar-go-end-cap =
+    .tooltiptext = Ir al adresse in le barra de adresses
+urlbar-page-action-button =
+    .tooltiptext = Actiones del pagina
