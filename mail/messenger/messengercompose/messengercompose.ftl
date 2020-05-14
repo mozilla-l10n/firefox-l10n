@@ -7,6 +7,22 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = { $type } alanını kaldır
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type =
+    { $count ->
+        [0] Boş { $type } giriş alanı
+        [one] Tek adresli { $type } giriş alanı
+       *[other] { $count } adresli { $type } giriş alanı
+    }
+#   $type (String) - the type of the addressing row
+#   $count (Number) - the number of address pills currently present in the addressing row
+address-input-type-aria-label =
+    { $count ->
+        [0] { $type }
+        [one] Tek adresli { $type } satırına odaklanmak için sol ok tuşunu kullanın.
+       *[other] { $count } adresli { $type } satırlarına odaklanmak için sol ok tuşunu kullanın.
+    }
 pill-action-edit =
     .label = Adresi düzenle
     .accesskey = d

@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "D">
 <!ENTITY removeSearchEngine.label         "Kaldır">
 <!ENTITY removeSearchEngine.accesskey     "r">
+
+<!ENTITY minimizeToTray.label             "&brandShortName; simge durumuna küçültüldüğünde sistem tepsisine taşı">
+<!ENTITY minimizeToTray.accesskey         "m">
