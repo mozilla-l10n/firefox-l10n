@@ -55,6 +55,10 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Nyaka goba o tsenye aterese
+urlbar-placeholder =
+    .placeholder = Nyaka goba o tsenye aterese
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
 urlbar-go-end-cap =
