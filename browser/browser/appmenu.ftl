@@ -5,6 +5,16 @@
 
 ## App Menu
 
+appmenuitem-protection-report-title = Ndeenkaaji Suturo
+appmenuitem-protection-report-tooltip =
+    .tooltiptext = Yah to jaŋtol maa suturo
+
+## Zoom Controls
+
+appmenuitem-zoom-enlarge =
+    .label = Lonngo ara
+appmenuitem-zoom-reduce =
+    .label = Lonngo woɗɗa
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 

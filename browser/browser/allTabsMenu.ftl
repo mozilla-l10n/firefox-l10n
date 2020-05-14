@@ -4,6 +4,9 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Firtu Uddol Tabbere
+# "Search" is a verb, as in "Search through tabs".
+all-tabs-menu-search-tabs =
+    .label = Tabbe njiilaw
 all-tabs-menu-new-user-context =
     .label = Tabbere Mooftirɗe Hesere
 all-tabs-menu-hidden-tabs =
