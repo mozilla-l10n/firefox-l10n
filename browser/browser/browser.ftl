@@ -228,3 +228,22 @@ popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Bëni kërkim ose jepni adresë
+urlbar-placeholder =
+    .placeholder = Bëni kërkim ose jepni adresë
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Fshiheni Anështyllën e Faqerojtësve
+urlbar-permissions-granted =
+    .tooltiptext = I keni akorduar leje shtesë këtij sajti.
+urlbar-switch-to-tab =
+    .value = Kalo te skeda:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Zgjerim:
+urlbar-go-end-cap =
+    .tooltiptext = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
+urlbar-page-action-button =
+    .tooltiptext = Veprime faqeje
+urlbar-pocket-button =
+    .tooltiptext = Ruajeni te { -pocket-brand-name }
