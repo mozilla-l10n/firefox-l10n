@@ -202,6 +202,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Yeny onyo ket kanonge
 urlbar-placeholder =
     .placeholder = Yeny onyo ket kanonge
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Ki tye ka loono layeny ki kama bor
+urlbar-permissions-granted =
+    .tooltiptext = Imiyo ki kakube man twero mukene.
 urlbar-switch-to-tab =
     .value = Lokke bot dirica matidi:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -211,3 +215,5 @@ urlbar-go-end-cap =
     .tooltiptext = Cit i kanonge ma i lanyut me gintic kabedo
 urlbar-page-action-button =
     .tooltiptext = Jami atima me potbuk
+urlbar-pocket-button =
+    .tooltiptext = Gwok i { -pocket-brand-name }
