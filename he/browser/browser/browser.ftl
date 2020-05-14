@@ -228,3 +228,5 @@ popup-all-windows-shared = ישותפו כל החלונות הגלויים על 
 
 ## URL Bar
 
+urlbar-go-end-cap =
+    .tooltiptext = מעבר לכתובת שבסרגל המיקום
