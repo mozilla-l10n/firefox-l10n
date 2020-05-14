@@ -226,7 +226,20 @@ popup-all-windows-shared = Alle sichtbaren Fenster auf dem Bildschirm werden wei
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Suche oder Adresse eingeben
+urlbar-placeholder =
+    .placeholder = Suche oder Adresse eingeben
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browser wird ferngesteuert
 urlbar-switch-to-tab =
     .value = Wechseln zum Tab:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Erweiterung:
 urlbar-go-end-cap =
     .tooltiptext = In der Adressleiste eingegebene Adresse laden
+urlbar-page-action-button =
+    .tooltiptext = Aktionen für Seite
+urlbar-pocket-button =
+    .tooltiptext = In { -pocket-brand-name } speichern
