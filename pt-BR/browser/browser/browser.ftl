@@ -229,5 +229,9 @@ enable-devtools-popup-description = Para usar o atalho F12, primeiro abra as fer
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Pesquisar ou abrir endereço
+urlbar-placeholder =
+    .placeholder = Pesquisar ou abrir endereço
 urlbar-go-end-cap =
     .tooltiptext = Abrir a página
