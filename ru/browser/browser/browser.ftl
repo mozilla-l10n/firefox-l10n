@@ -226,3 +226,8 @@ popup-all-windows-shared = Будет предоставлен доступ ко
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Чтобы использовать клавишу F12, сначала откройте Инструменты разработчика через меню Веб-разработка.
+
+## URL Bar
+
+urlbar-permissions-granted =
+    .tooltiptext = Вы предоставили этому веб-сайту дополнительные разрешения.
