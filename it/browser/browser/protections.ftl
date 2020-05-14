@@ -88,8 +88,8 @@ lockwise-passwords-stored = Password salvate in modo sicuro <a data-l10n-name="l
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
     { $count ->
-        [one] 1 password potrebbe essere stata esposta in una violazione di dati.
-       *[other] { $count } password potrebbero essere state esposte in una violazione di dati.
+        [one] 1 password potrebbe essere stata compromessa in una violazione di dati.
+       *[other] { $count } password potrebbero essere state compromesse in una violazione di dati.
     }
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
@@ -138,18 +138,22 @@ info-monitored-emails =
 # your localization, because it would result in the number showing twice.
 info-known-breaches-found =
     { $count ->
-        [one] Violazione di dati conosciuta che ha esposto le tue informazioni
-       *[other] Violazioni di dati conosciute che hanno esposto le tue informazioni
+        [one] Violazione di dati conosciuta che ha compromesso le tue informazioni
+       *[other] Violazioni di dati conosciute che hanno compromesso le tue informazioni
     }
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-info-exposed-passwords-found = Password esposte da tutte le violazioni
+info-exposed-passwords-found =
+    { $count ->
+        [one] Password compromessa in tutte le violazioni
+       *[other] Password compromesse in tutte le violazioni
+    }
 full-report-link = Visualizza il rapporto completo in <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
-password-warning = Credenziali salvate potrebbero essere state esposte in una violazione di dati. Cambia queste password per garantire la tua sicurezza online. <a data-l10n-name="lockwise-link">Visualizza le credenziali salvate</a>
+password-warning = Credenziali salvate potrebbero essere state compromesse in una violazione di dati. Cambia queste password per garantire la tua sicurezza online. <a data-l10n-name="lockwise-link">Visualizza le credenziali salvate</a>
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

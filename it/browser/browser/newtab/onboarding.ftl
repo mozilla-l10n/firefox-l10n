@@ -80,7 +80,7 @@ onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Mantieni segnalibri, password e cronologia sempre a portata di mano su tutti i dispositivi dove utilizzi { -brand-product-name }.
 
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
-onboarding-benefit-monitor-text = Ricevi una notifica nel caso in cui le tue informazioni personali vengano esposte in una violazione di dati conosciuta.
+onboarding-benefit-monitor-text = Ricevi una notifica nel caso in cui le tue informazioni personali vengano compromesse in una violazione di dati conosciuta.
 
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Gestisci le tue password in modo sicuro e portatile.
