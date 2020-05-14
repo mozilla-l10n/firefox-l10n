@@ -232,6 +232,8 @@ urlbar-placeholder =
     .placeholder = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ਬਰਾਊਜ਼ਰ ਰਿਮੋਟ ਤੋਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+urlbar-permissions-granted =
+    .tooltiptext = ਤੁਸੀਂ ਇਸ ਵੈੱਬਸਾਈਟ ਨੂੰ ਹੋਰ ਇਜਾਜ਼ਤਾਂ ਦਿੱਤੀਆਂ ਹਨ।
 urlbar-switch-to-tab =
     .value = ਟੈਬ 'ਤੇ ਜਾਓ:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
