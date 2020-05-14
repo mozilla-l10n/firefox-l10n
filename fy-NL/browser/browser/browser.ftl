@@ -233,5 +233,7 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Fier in sykterm of adres yn
 urlbar-placeholder =
     .placeholder = Fier in sykterm of adres yn
+urlbar-switch-to-tab =
+    .value = Wikselje nei ljepblêd:
 urlbar-go-end-cap =
     .tooltiptext = It adres yn de lokaasjebalke iepenje
