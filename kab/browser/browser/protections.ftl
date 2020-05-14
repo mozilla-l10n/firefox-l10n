@@ -121,6 +121,12 @@ monitor-header-content-no-account = Ddu ɣer { -monitor-brand-name } akken ad wa
 monitor-header-content-signed-in = { -monitor-brand-name } ad k-id-yelɣu ma yella talɣut-ik tban-d deg trewla n yisefka yettwassnen.
 monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
 auto-scan = Yettwasenqed ass-a akken iwata
+monitor-emails-tooltip =
+    .title = Sken tansiwin n yimayl yettuεassen ɣef { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Sken tirewliwin n yisefka yettwassnen ɣef { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Sken awalen uffiren i d-ibanen ɣef { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
