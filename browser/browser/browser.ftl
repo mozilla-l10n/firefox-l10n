@@ -243,3 +243,5 @@ urlbar-go-end-cap =
     .tooltiptext = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ
 urlbar-page-action-button =
     .tooltiptext = ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name } ਵਿੱਚ ਸੰਭਾਲੋ
