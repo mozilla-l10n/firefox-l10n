@@ -232,8 +232,12 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Шукаць ці ўвесці адрас
 urlbar-placeholder =
     .placeholder = Шукаць ці ўвесці адрас
+urlbar-switch-to-tab =
+    .value = Пераключыцца ў картку:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Пашырэнне:
 urlbar-go-end-cap =
     .tooltiptext = Пайсці па адрасе, які зараз у адрасным радку
+urlbar-page-action-button =
+    .tooltiptext = Дзеянні старонкі
