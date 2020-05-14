@@ -37,6 +37,7 @@ etp-card-title = Utvidet sporingsbeskyttelse
 etp-card-content = Sporere følger deg rundt på nettet for å samle informasjon om surfevanene og interessene dine. { -brand-short-name } blokkerer mange av disse sporere og andre ondsinnede skript.
 protection-report-webpage-title = Beskyttelsespanel
 protection-report-page-content-title = Beskyttelsespanel
+protection-report-page-summary = { -brand-short-name } kan beskytte personvernet ditt bak kulissene mens du surfer. Dette er en personlig oppsummering av de beskyttelsene, inkludert verktøy for å ta kontroll over din sikkerhet på nettet.
 etp-card-title-always = Utvidet sporingsbeskyttelse: alltid på
 etp-card-title-custom-not-blocking = Utvidet sporingsbeskyttelse: AV
 etp-card-content-summary = Når ukjente selskaper prøver å følge deg hemmelig rundt på nettet, stopper { -brand-short-name } mange av dem automatisk.
