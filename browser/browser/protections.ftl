@@ -37,8 +37,10 @@ etp-card-title = Gelişmiş İzlenme Koruması
 etp-card-content = Takipçiler, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takipçilerin ve diğer kötü amaçlı betiklerin çoğunu engeller.
 protection-report-webpage-title = Korumalar Panosu
 protection-report-page-content-title = Korumalar Panosu
+protection-report-page-summary = Siz web’de gezinirken { -brand-short-name } arka planda gizliliğinizi korur. Aşağıda bu korumaların özetini ve çevrimiçi güvenliğinizi artırmanızı sağlayacak araçları görüyorsunuz.
 etp-card-title-always = Gelişmiş izlenme koruması: Her zaman açık
 etp-card-title-custom-not-blocking = Gelişmiş izlenme koruması: KAPALI
+etp-card-content-summary = Adını bile duymadığınız şirketler sizi web’de gizlice takip etmeye çalışabilir. { -brand-short-name } onların çoğunu otomatik olarak durdurur.
 protection-report-etp-card-content-custom-not-blocking = Şu anda tüm korumalar kapalı. { -brand-short-name } koruma ayarlarınızı yöneterek hangi takipçilerin engelleneceğini seçebilirsiniz.
 protection-report-manage-protections = Ayarları yönet
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -119,6 +121,12 @@ monitor-header-content-no-account = Bilinen veri ihlallerinde bilgilerinizin ça
 monitor-header-content-signed-in = Bilgileriniz bilinen bir veri ihlalinde yer alırsa { -monitor-brand-name } sizi uyarır.
 monitor-sign-up = İhlal uyarılarına kaydolun
 auto-scan = Bugün otomatik olarak tarandı
+monitor-emails-tooltip =
+    .title = İzlenen e-posta adreslerini { -monitor-brand-short-name }’de görün
+monitor-breaches-tooltip =
+    .title = Bilinen veri ihlallerini { -monitor-brand-short-name }’de görün
+monitor-passwords-tooltip =
+    .title = Ele geçirilen parolaları { -monitor-brand-short-name }’de görün
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
