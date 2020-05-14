@@ -182,3 +182,7 @@ popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដ�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
+urlbar-placeholder =
+    .placeholder = ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន
