@@ -211,3 +211,18 @@ popup-all-windows-shared = Daran' ventana nu riña si pantayât ni ga'ue garasun
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Gachrūn nuguan' ruhuât nanà'uìt
+urlbar-placeholder =
+    .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Àsij gan' nikaj ñu'unj nej dugui' navegador
+urlbar-switch-to-tab =
+    .value = Naduno' a'ngô rakij ñaj:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = A'ngô ra'a:
+urlbar-go-end-cap =
+    .tooltiptext = Gun' dukuán 'na direksion
+urlbar-page-action-button =
+    .tooltiptext = Sa gi'iaj pajinâ na
