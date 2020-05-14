@@ -190,5 +190,11 @@ popup-all-windows-shared = Compartiranse todas as xanelas visíbeis na súa pant
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Buscar ou escribir o enderezo
+urlbar-placeholder =
+    .placeholder = Buscar ou escribir o enderezo
+urlbar-switch-to-tab =
+    .value = Cambiar á lapela:
 urlbar-go-end-cap =
     .tooltiptext = Ir ao enderezo da barra de localización
