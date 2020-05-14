@@ -237,6 +237,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = O navegador está sob controle remoto
 urlbar-switch-to-tab =
     .value = Alternar para a aba:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensão:
 urlbar-go-end-cap =
     .tooltiptext = Abrir a página
 urlbar-page-action-button =
