@@ -181,6 +181,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ගවේශකය දුරස්ථ පාලනයේ පවතී
 urlbar-switch-to-tab =
     .value = ටැබයට මාරුවෙන්න:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = දිගුව:
 urlbar-go-end-cap =
     .tooltiptext = පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න
 urlbar-page-action-button =
