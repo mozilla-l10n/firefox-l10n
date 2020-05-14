@@ -240,3 +240,5 @@ urlbar-extension =
     .value = Asiɣzef:
 urlbar-go-end-cap =
     .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
+urlbar-page-action-button =
+    .tooltiptext = Asebter n tigawin
