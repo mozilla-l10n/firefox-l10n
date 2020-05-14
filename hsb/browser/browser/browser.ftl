@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Pytać abo adresu zapodać
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Wobhladowak so zdaloka wodźi
+urlbar-permissions-granted =
+    .tooltiptext = Sće tutomu websydłu přidatne prawa dał.
 urlbar-switch-to-tab =
     .value = K rajtarkej přeńć:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -244,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = K adresy w adresowym polu
 urlbar-page-action-button =
     .tooltiptext = Akcije strony
+urlbar-pocket-button =
+    .tooltiptext = Pola { -pocket-brand-name } składować
