@@ -226,3 +226,8 @@ popup-all-windows-shared = Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa 
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj Web B'anonel.
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = Rujalik ri ruwi':
