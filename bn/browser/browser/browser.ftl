@@ -225,6 +225,8 @@ urlbar-placeholder =
     .placeholder = অনুসন্ধান বা ঠিকানা দিন
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্রাউজার রিমোর্ট কন্ট্রোলের আওতায়
+urlbar-permissions-granted =
+    .tooltiptext = আপনি এই সাইটের জন্য বিশেষ অনুমতি দিয়েছেন।
 urlbar-switch-to-tab =
     .value = ট্যাবে যান:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
