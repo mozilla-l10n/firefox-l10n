@@ -225,7 +225,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Bizskrivit un termen da glask pe ur chomlec'h
 urlbar-placeholder =
     .placeholder = Bizskrivit un termen da glask pe ur chomlec'h
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Reoliet a-bell eo ar merdeer
 urlbar-switch-to-tab =
     .value = Mont d'an ivinell :
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Askouezh:
 urlbar-go-end-cap =
     .tooltiptext = Mont d'ar chomlec'h er varrenn lec'hiañ
+urlbar-page-action-button =
+    .tooltiptext = Gweredoù ar bajenn
