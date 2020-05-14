@@ -226,5 +226,18 @@ popup-all-windows-shared = ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿ�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+urlbar-placeholder =
+    .placeholder = ਖੋਜੋ ਜਾਂ ਸਿਰਨਾਵਾਂ ਦਿਓ
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ਬਰਾਊਜ਼ਰ ਰਿਮੋਟ ਤੋਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
+urlbar-switch-to-tab =
+    .value = ਟੈਬ 'ਤੇ ਜਾਓ:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ਇਕਟੈਨਸ਼ਨ:
 urlbar-go-end-cap =
     .tooltiptext = ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ
+urlbar-page-action-button =
+    .tooltiptext = ਸਫ਼ਾ ਕਾਰਵਾਈਆਂ
