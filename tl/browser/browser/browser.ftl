@@ -241,3 +241,5 @@ urlbar-extension =
     .value = Extension:
 urlbar-go-end-cap =
     .tooltiptext = Pumunta sa lokasyon na nasa Location Bar
+urlbar-page-action-button =
+    .tooltiptext = Page actions
