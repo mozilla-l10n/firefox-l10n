@@ -226,3 +226,8 @@ popup-all-windows-shared = Tất cả các cửa sổ trên màn hình sẽ đư
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Để sử dụng phím tắt F12, trước tiên hãy mở DevTools thông qua menu Nhà phát triển Web.
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = Chuyển qua thẻ:
