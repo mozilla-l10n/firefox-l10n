@@ -197,6 +197,10 @@ popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Scrivi indirisso ò iniçia riçerca
+urlbar-placeholder =
+    .placeholder = Scrivi indirisso ò iniçia riçerca
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Navegatô in contròllo remòtto
 urlbar-switch-to-tab =
@@ -208,3 +212,5 @@ urlbar-go-end-cap =
     .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
 urlbar-page-action-button =
     .tooltiptext = Pagina açioin
+urlbar-pocket-button =
+    .tooltiptext = Sarva in { -pocket-brand-name }
