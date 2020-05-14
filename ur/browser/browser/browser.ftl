@@ -221,3 +221,10 @@ popup-all-windows-shared = آپ کی سکرین پر نظر آنے والے تم
 
 ## DevTools F12 popup
 
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = ٹیب پر سوئچ کریں:
+urlbar-go-end-cap =
+    .tooltiptext = محل وقوع بار میں دیے گئے پتے پر جائیں
