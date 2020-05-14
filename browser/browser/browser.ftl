@@ -207,7 +207,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = સરનામું શોધો અથવા દાખલ કરો
 urlbar-placeholder =
     .placeholder = સરનામું શોધો અથવા દાખલ કરો
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = બ્રાઉઝર રીમોટ કંટ્રોલ હેઠળ છે
 urlbar-switch-to-tab =
     .value = ટૅબને ખસેડો:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = એક્સ્ટેંન્શન:
 urlbar-go-end-cap =
     .tooltiptext = સ્થાન પટ્ટીમાં સરનામા પર જાવ
+urlbar-page-action-button =
+    .tooltiptext = પૃષ્ઠ ક્રિયાઓ
