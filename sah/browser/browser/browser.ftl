@@ -63,6 +63,10 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Көрдөт эбэтэр аадырыһы ук
+urlbar-placeholder =
+    .placeholder = Көрдөт эбэтэр аадырыһы ук
 urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
 urlbar-go-end-cap =
