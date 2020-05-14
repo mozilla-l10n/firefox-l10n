@@ -226,3 +226,19 @@ popup-all-windows-shared = Ekranınızdaki tüm görünür pencereler paylaşıl
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 kısayolunu kullanmak için önce Web geliştirici menüsünden geliştirici araçlarını açın.
+
+## URL Bar
+
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
+urlbar-switch-to-tab =
+    .value = Geçilecek sekme:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Eklenti:
+urlbar-go-end-cap =
+    .tooltiptext = Konum çubuğundaki adrese git
+urlbar-page-action-button =
+    .tooltiptext = Sayfa eylemleri
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name }’a kaydet
