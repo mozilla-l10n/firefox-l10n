@@ -233,3 +233,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = მოძებნეთ ან შეიყვანეთ მისამართი
 urlbar-placeholder =
     .placeholder = მოძებნეთ ან შეიყვანეთ მისამართი
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = გაფართოება:
+urlbar-go-end-cap =
+    .tooltiptext = მისამართზე გადასვლა
+urlbar-page-action-button =
+    .tooltiptext = ვებგვერდზე მოქმედებები
