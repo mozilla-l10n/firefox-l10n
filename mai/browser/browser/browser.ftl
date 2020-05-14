@@ -121,6 +121,10 @@ popup-all-windows-shared = अहाँक स्क्रीन पर सभ �
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = खोजू अथवा पता दर्ज करू
+urlbar-placeholder =
+    .placeholder = खोजू अथवा पता दर्ज करू
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
 urlbar-go-end-cap =
