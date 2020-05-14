@@ -217,6 +217,8 @@ urlbar-placeholder =
     .placeholder = Gachrūn nuguan' ruhuât nanà'uìt
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Àsij gan' nikaj ñu'unj nej dugui' navegador
+urlbar-permissions-granted =
+    .tooltiptext = Huā doj nej sa dunâ ni'nïnjt riña sitiô nan da' gi'iaj sun man.
 urlbar-switch-to-tab =
     .value = Naduno' a'ngô rakij ñaj:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -226,3 +228,5 @@ urlbar-go-end-cap =
     .tooltiptext = Gun' dukuán 'na direksion
 urlbar-page-action-button =
     .tooltiptext = Sa gi'iaj pajinâ na
+urlbar-pocket-button =
+    .tooltiptext = Nanín sa'aj riña { -pocket-brand-name }
