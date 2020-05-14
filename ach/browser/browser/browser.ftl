@@ -195,3 +195,19 @@ popup-all-windows-shared = Ki binywako dirica weng ma nen i wang kompiuta ni.
 
 ## DevTools F12 popup
 
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Yeny onyo ket kanonge
+urlbar-placeholder =
+    .placeholder = Yeny onyo ket kanonge
+urlbar-switch-to-tab =
+    .value = Lokke bot dirica matidi:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Lamed:
+urlbar-go-end-cap =
+    .tooltiptext = Cit i kanonge ma i lanyut me gintic kabedo
+urlbar-page-action-button =
+    .tooltiptext = Jami atima me potbuk
