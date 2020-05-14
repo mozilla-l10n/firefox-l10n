@@ -72,3 +72,9 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Jéno íe kúeno bíe íyano
+urlbar-placeholder =
+    .placeholder = Jéno íe kúeno bíe íyano
+urlbar-switch-to-tab =
+    .value = Jɨaɨe úitɨraɨ jóne:
