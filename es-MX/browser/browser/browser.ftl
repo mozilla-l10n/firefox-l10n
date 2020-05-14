@@ -233,7 +233,12 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Término de búsqueda o dirección
 urlbar-placeholder =
     .placeholder = Término de búsqueda o dirección
+urlbar-permissions-granted =
+    .tooltiptext = Concediste permisos adicionales a este sitio web.
 urlbar-switch-to-tab =
     .value = Cambiar a la pestaña:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensión:
 urlbar-go-end-cap =
     .tooltiptext = Ir a la dirección en la Barra de ubicaciones.
