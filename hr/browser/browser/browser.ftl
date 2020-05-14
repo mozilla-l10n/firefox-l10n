@@ -226,3 +226,8 @@ popup-all-windows-shared = Svi vidljivi prozori na tvom ekranu će se dijeliti.
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Kako biste koristili F12 prečicu, prvo otvorite DevTools putem izbornika Web Developer.
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = Idi na adresu iz lokacijske trake
