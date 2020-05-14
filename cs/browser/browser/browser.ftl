@@ -261,6 +261,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Prohlížeč je ovládán vzdáleně
 urlbar-switch-to-tab =
     .value = Přepnout na panel:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Rozšíření:
 urlbar-go-end-cap =
     .tooltiptext = Přejde na adresu v adresním řádku
 urlbar-page-action-button =
