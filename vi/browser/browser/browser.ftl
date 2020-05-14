@@ -235,9 +235,16 @@ urlbar-placeholder =
     .placeholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Trình duyệt đang ở trong chế độ truy cập từ xa
+urlbar-permissions-granted =
+    .tooltiptext = Bạn đã cấp cho trang web này các quyền bổ sung.
 urlbar-switch-to-tab =
     .value = Chuyển qua thẻ:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Tiện ích mở rộng:
 urlbar-go-end-cap =
     .tooltiptext = Mở trang trong thanh địa chỉ
 urlbar-page-action-button =
     .tooltiptext = Hành động trên trang
+urlbar-pocket-button =
+    .tooltiptext = Lưu vào { -pocket-brand-name }
