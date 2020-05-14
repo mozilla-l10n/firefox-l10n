@@ -235,3 +235,5 @@ urlbar-placeholder =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensie:
+urlbar-page-action-button =
+    .tooltiptext = Acțiuni pe pagină
