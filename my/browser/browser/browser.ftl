@@ -180,3 +180,18 @@ popup-all-windows-shared = သင့်စကရင်ပေါ်ရှိ မ�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
+urlbar-placeholder =
+    .placeholder = ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ဘရောင်ဇာသည် အဝေးရောက်ထိန်းချုပ်မှုအောက်တွင် ရှိနေသည်
+urlbar-switch-to-tab =
+    .value = ထိုတပ်ဗ်သို့ ပြောင်းကြည့်မည်
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ထပ်ပေါင်းဆော့ဖ်ဝဲလ်။
+urlbar-go-end-cap =
+    .tooltiptext = လမ်းကြောင်းအတန်းထဲရှိ လိပ်စာသို့ သွားပါ
+urlbar-page-action-button =
+    .tooltiptext = စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ
