@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk
+urlbar-permissions-granted =
+    .tooltiptext = Xaya' ruwi' ya'oj q'ij chi re re ajk'amaya'l ruxaq re'.
 urlbar-switch-to-tab =
     .value = Rujalik ri ruwi':
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -244,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Tib'e pa JAY richin ri rucholob'al taq ochochib'äl
 urlbar-page-action-button =
     .tooltiptext = Taq rub'anoj ruxaq
+urlbar-pocket-button =
+    .tooltiptext = Tiyak pa { -pocket-brand-name }
