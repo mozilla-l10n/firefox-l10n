@@ -226,3 +226,8 @@ popup-all-windows-shared = Alle synlige vinduer på skjermen vil deles.
 ## DevTools F12 popup
 
 enable-devtools-popup-description = For å bruke F12-snarveien, må du først åpne DevTools via menyen for Nettsideutvikling
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = Gå til adressen i adresselinjen
