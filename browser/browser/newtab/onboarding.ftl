@@ -12,12 +12,17 @@
 ## newlines in translations to control where the line break appears (e.g., to
 ## avoid breaking quoted text).
 
+onboarding-button-label-learn-more = Ɓeydu humpito
 onboarding-button-label-try-now = Enndu ɗum jooni
 onboarding-button-label-get-started = Fuɗɗo
 
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = A jaɓɓaama e { -brand-short-name }
+onboarding-welcome-body = A heɓii wanngorde ndee.<br/>Ƴeew ko heddii koo e { -brand-product-name }.
+onboarding-welcome-learn-more = Ɓeydu humpito baɗte ɓure ɗee.
+onboarding-join-form-header = Tawtu { -brand-product-name }
+onboarding-welcome-modal-get-body = A heɓii wanngorde ndee.<br/>Jooni noon heɓ ko ɓuri yuɓɓude e { -brand-product-name }.
 onboarding-start-browsing-button-label = Fuɗɗo wanngaade
 onboarding-cards-dismiss =
     .title = Salo
