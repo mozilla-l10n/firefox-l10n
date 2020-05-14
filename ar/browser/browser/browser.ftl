@@ -231,6 +231,8 @@ urlbar-placeholder =
     .placeholder = ابحث أو أدخل عنوانا
 urlbar-remote-control-notification-anchor =
     .tooltiptext = يخضع المتصفح للتحكم عن بعد
+urlbar-permissions-granted =
+    .tooltiptext = منحت هذا الموقع صلاحيات أخرى.
 urlbar-switch-to-tab =
     .value = انتقل إلى اللسان:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -240,3 +242,5 @@ urlbar-go-end-cap =
     .tooltiptext = اذهب للعنوان في شريط الموقع
 urlbar-page-action-button =
     .tooltiptext = إجراءات الصفحة
+urlbar-pocket-button =
+    .tooltiptext = احفظ في { -pocket-brand-name }
