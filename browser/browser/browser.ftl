@@ -244,5 +244,7 @@ urlbar-extension =
     .value = Udvidelse:
 urlbar-go-end-cap =
     .tooltiptext = Gå til adressen i adressefeltet
+urlbar-page-action-button =
+    .tooltiptext = Sidehandlinger
 urlbar-pocket-button =
     .tooltiptext = Gem til { -pocket-brand-name }
