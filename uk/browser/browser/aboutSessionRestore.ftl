@@ -37,4 +37,4 @@ welcome-back-restore-button =
     .accesskey = В
 welcome-back-restore-all-label = Відновити всі вікна і вкладки
 welcome-back-restore-some-label = Відновити лише деякі
-welcome-back-page-info-link = Ваші додатки було вилучено, а налаштування браузера відновлено до типових значень. Якщо це не вирішило вашу проблему, <a data-l10n-name="link-more">дізнайтесь більше, що можна зробити.</a>
+welcome-back-page-info-link = Ваші додатки було вилучено, а налаштування { -brand-short-name } відновлено до типових значень. Якщо це не вирішило вашу проблему, <a data-l10n-name="link-more">дізнайтесь більше, що можна зробити.</a>
