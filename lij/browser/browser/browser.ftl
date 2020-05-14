@@ -197,5 +197,7 @@ popup-all-windows-shared = Tutti i barcoin vixibili into schermo saian condivizi
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Vanni a-o feuggio:
 urlbar-go-end-cap =
     .tooltiptext = Vanni a l'indirisso in sciâ bara di indirissi
