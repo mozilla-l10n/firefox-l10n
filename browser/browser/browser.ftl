@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Pretraži ili upiši adresu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Preglednik se kontrolira s udaljene lokacije
+urlbar-permissions-granted =
+    .tooltiptext = Ovoj stranici odobrene su dodatne dozvole.
 urlbar-switch-to-tab =
     .value = Prebaci na karticu:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
