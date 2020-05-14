@@ -229,7 +229,18 @@ enable-devtools-popup-description = Щоб використовувати F12, �
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Введіть пошуковий запит чи адресу
+urlbar-placeholder =
+    .placeholder = Введіть пошуковий запит чи адресу
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Браузер знаходиться під віддаленим керуванням
 urlbar-switch-to-tab =
     .value = Перемкнутись на вкладку:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Розширення:
 urlbar-go-end-cap =
     .tooltiptext = Перейти за адресою з панелі адреси
+urlbar-page-action-button =
+    .tooltiptext = Дії сторінки
