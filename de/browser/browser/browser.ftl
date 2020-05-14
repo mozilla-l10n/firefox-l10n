@@ -226,5 +226,7 @@ popup-all-windows-shared = Alle sichtbaren Fenster auf dem Bildschirm werden wei
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Wechseln zum Tab:
 urlbar-go-end-cap =
     .tooltiptext = In der Adressleiste eingegebene Adresse laden
