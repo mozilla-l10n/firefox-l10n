@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Search or enter address
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser is under remote control
+urlbar-permissions-granted =
+    .tooltiptext = You have granted this website additional permissions.
 urlbar-switch-to-tab =
     .value = Switch to tab:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -244,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Go to the address in the Location Bar
 urlbar-page-action-button =
     .tooltiptext = Page actions
+urlbar-pocket-button =
+    .tooltiptext = Save to { -pocket-brand-name }
