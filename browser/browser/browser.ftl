@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Arama yapın veya adres yazın
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Tarayıcı uzaktan kontrol ediliyor
+urlbar-permissions-granted =
+    .tooltiptext = Bu siteye ek izinler verdiniz.
 urlbar-switch-to-tab =
     .value = Geçilecek sekme:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
