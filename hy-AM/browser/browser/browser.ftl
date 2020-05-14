@@ -237,3 +237,5 @@ urlbar-go-end-cap =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
 urlbar-page-action-button =
     .tooltiptext = Էջի գործույթները
+urlbar-pocket-button =
+    .tooltiptext = Պահպանել { -pocket-brand-name }-ում
