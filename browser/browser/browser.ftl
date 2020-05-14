@@ -186,5 +186,12 @@ urlbar-default-placeholder =
     .defaultPlaceholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
 urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
+urlbar-switch-to-tab =
+    .value = ట్యాబుకు మారు:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = పొడిగింత:
 urlbar-go-end-cap =
     .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
+urlbar-page-action-button =
+    .tooltiptext = పేజీ చర్యలు
