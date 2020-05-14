@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Maantoro Ngoo Hello
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = Maantoro Ngoo Hello
     .accesskey = m
@@ -106,6 +103,9 @@ main-context-menu-bookmark-this-link =
 main-context-menu-save-link =
     .label = Danndu Jokkol e Innde…
     .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Danndu jokkol e { -pocket-brand-name }
+    .accesskey = D
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
@@ -181,6 +181,11 @@ main-context-menu-media-video-fullscreen =
 main-context-menu-media-video-leave-fullscreen =
     .label = Yaltu Njaajeendi Yaynirde
     .accesskey = a
+# This is used when right-clicking on a video in the
+# content area when the Picture-in-Picture feature is enabled.
+main-context-menu-media-pip =
+    .label = Natal-nder-Natal
+    .accesskey = u
 main-context-menu-image-reload =
     .label = Loowtu Natal
     .accesskey = L
@@ -238,12 +243,18 @@ main-context-menu-plugin-play =
 main-context-menu-plugin-hide =
     .label = Suuɗ ndee seŋre
     .accesskey = S
+main-context-menu-save-to-pocket =
+    .label = Danndu hello e { -pocket-brand-name }
+    .accesskey = k
 main-context-menu-send-to-device =
     .label = Neldu Hello to Kaɓirgol
     .accesskey = K
 main-context-menu-view-background-image =
     .label = Hollu Natal Cakkital
     .accesskey = u
+main-context-menu-generate-new-password =
+    .label = Huutoro finnde yeñtinaande…
+    .accesskey = G
 main-context-menu-keyword =
     .label = Ɓeydi Helmere tesko e oo Njiilaw…
     .accesskey = H
@@ -303,3 +314,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Ɓeydu humpito baɗte DRM…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = Humpit baɗte fannuuji kesi

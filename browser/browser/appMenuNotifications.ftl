@@ -39,6 +39,7 @@ appmenu-addon-post-install-message = Yiil ɓeyditte maa e dobaade <image data-l1
 appmenu-addon-post-install-incognito-checkbox =
     .label = Yamir ndee timmitere dogde e kenorɗe cuuriiɗe
     .accesskey = Y
+appmenu-addon-private-browsing-learn-more = Humpito hol no toppitortoɗaa teelte timmitte
 appmenu-new-tab-controlled =
     .label = Tabbere maa Hesere wayliima.
     .buttonlabel = Mooftu Bayle
