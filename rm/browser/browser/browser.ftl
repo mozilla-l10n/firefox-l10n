@@ -2,47 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (Modus privat)
-       *[default] { -brand-full-name }
-    }
-
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (Modus privat)
-       *[other] { $title } - { -brand-full-name } (Modus privat)
-    }
 urlbar-identity-button =
     .aria-label = Mussar infurmaziuns davart la pagina
 
@@ -106,9 +65,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tippar main e chattar dapli: Tschertga cun { $engineName } directamain en la trav d'adressas.
 urlbar-search-tips-redirect-2 = Cumenza tia tschertga en la trav d'adressas per laschar mussar propostas da { $engineName } e propostas ord tia cronologia.
-
-##
-
 
 ##
 
@@ -260,3 +216,24 @@ popup-select-microphone =
     .value = Microfon per cundivider:
     .accesskey = M
 popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundivididas.
+
+## DevTools F12 popup
+
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Tschertgar u endatar in'adressa
+urlbar-placeholder =
+    .placeholder = Tschertgar u endatar in'adressa
+urlbar-switch-to-tab =
+    .value = Midar al tab:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensiun:
+urlbar-go-end-cap =
+    .tooltiptext = Chargiar l'adressa endatada en la trav d'adressas
+urlbar-page-action-button =
+    .tooltiptext = Acziuns da pagina
+urlbar-pocket-button =
+    .tooltiptext = Memorisar en { -pocket-brand-name }
