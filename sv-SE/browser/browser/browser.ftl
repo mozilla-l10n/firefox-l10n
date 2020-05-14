@@ -226,3 +226,14 @@ popup-all-windows-shared = Alla synliga fönster på din skärm kommer att delas
 ## DevTools F12 popup
 
 enable-devtools-popup-description = För att använda tangentbordskommandot F12, öppnar du först DevTools i Webbutvecklare-menyn.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Sök eller ange adress
+urlbar-placeholder =
+    .placeholder = Sök eller ange adress
+urlbar-switch-to-tab =
+    .value = Växla till fliken:
+urlbar-go-end-cap =
+    .tooltiptext = Gå till adressen i adressfältet
