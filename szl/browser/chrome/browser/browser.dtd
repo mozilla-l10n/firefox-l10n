@@ -308,23 +308,73 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideBookmarksToolbar.label         "Skryj posek ze zokłodkami">
 <!ENTITY searchBookmarks.label              "Szukej we zokłodkach">
 <!ENTITY bookmarkingTools.label             "Noczynia przidowanio do zokłodek">
+<!ENTITY addBookmarksMenu.label             "Przidej myni zokłodek do poska z noczyniami">
+<!ENTITY removeBookmarksMenu.label          "Wyciep myni zokłodek z poska z noczyniami">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
+<!ENTITY historyButton.label            "Historyjo">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
+<!ENTITY toolsMenu.label              "Noczynia">
+<!ENTITY toolsMenu.accesskey          "N">
 
+<!ENTITY keywordfield.label           "Przidej kluczowe słowo do tego wyszukowanio…">
+<!ENTITY keywordfield.accesskey       "K">
 
+<!ENTITY downloads.label              "Pobiyranie">
 <!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
   -  downloads.label, but used in the Library panel. -->
+<!ENTITY libraryDownloads.label       "Pobrania">
+<!ENTITY downloads.accesskey          "P">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
+<!ENTITY addons.label                 "Rozszyrzynia">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
+<!ENTITY webDeveloperMenu.label       "Do deweloperōw">
+<!ENTITY webDeveloperMenu.accesskey   "d">
 
+<!ENTITY inspectContextMenu.label     "Ôbadej elymynt">
+<!ENTITY inspectContextMenu.accesskey "e">
 
+<!ENTITY inspectA11YContextMenu.label     "Ôbadej włosności dostymności">
 
+<!ENTITY fileMenu.label         "Zbiōr">
+<!ENTITY fileMenu.accesskey       "Z">
 
+<!ENTITY newUserContext.label             "Nowo kōntynerowo karta">
+<!ENTITY newUserContext.accesskey         "k">
+<!ENTITY manageUserContext.label          "Regiyruj kōntynerami">
+<!ENTITY manageUserContext.accesskey      "r">
 
+<!ENTITY newNavigatorCmd.label        "Nowe ôkno">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newPrivateWindow.label     "Nowe prywatne ôkno">
+<!ENTITY newPrivateWindow.accesskey "o">
 
+<!ENTITY editMenu.label         "Edytuj">
+<!ENTITY editMenu.accesskey       "E">
+<!ENTITY undoCmd.label            "Cofnij">
+<!ENTITY undoCmd.key            "Z">
+<!ENTITY undoCmd.accesskey          "C">
+<!ENTITY redoCmd.label            "Zrōb zaś">
+<!ENTITY redoCmd.key            "Y">
+<!ENTITY redoCmd.accesskey          "z">
+<!ENTITY cutCmd.label           "Wyżnij">
+<!ENTITY cutCmd.key             "X">
+<!ENTITY cutCmd.accesskey         "W">
+<!ENTITY copyCmd.label            "Kopiuj">
+<!ENTITY copyCmd.key            "C">
+<!ENTITY copyCmd.accesskey          "K">
+<!ENTITY pasteCmd.label           "Wraź">
+<!ENTITY pasteCmd.key           "V">
 
 
 
