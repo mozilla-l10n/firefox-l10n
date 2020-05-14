@@ -233,7 +233,16 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Voer zoekterm of adres in
 urlbar-placeholder =
     .placeholder = Voer zoekterm of adres in
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browser wordt op afstand bestuurd
 urlbar-switch-to-tab =
     .value = Wisselen naar tabblad:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensie:
 urlbar-go-end-cap =
     .tooltiptext = Naar het adres in de locatiebalk gaan
+urlbar-page-action-button =
+    .tooltiptext = Pagina-acties
+urlbar-pocket-button =
+    .tooltiptext = Opslaan naar { -pocket-brand-name }
