@@ -38,7 +38,7 @@ aboutdebugging-sidebar-runtime-connection-status-disconnected = Deconectat
 about-debugging-sidebar-no-devices = Niciun dispozitiv descoperit
 # Text displayed in buttons found in sidebar items representing remote runtimes.
 # Clicking on the button will attempt to connect to the runtime.
-about-debugging-sidebar-item-connect-button = Conectează-te
+about-debugging-sidebar-item-connect-button = Conectare
 # Text displayed in buttons found in sidebar items when the runtime is connecting.
 about-debugging-sidebar-item-connect-button-connecting = Se conectează…
 # Text displayed in buttons found in sidebar items when the connection failed.
