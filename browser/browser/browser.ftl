@@ -226,3 +226,17 @@ popup-all-windows-shared = Serão partilhadas todas as janelas visíveis no seu 
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Para utilizar o atalho F12, abra primeiro as DevTools via menu de Ferramentas de programação.
+
+## URL Bar
+
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = O navegador está sob controlo remoto
+urlbar-switch-to-tab =
+    .value = Mudar para o separador:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensão:
+urlbar-go-end-cap =
+    .tooltiptext = Ir para o endereço da barra de localização
+urlbar-page-action-button =
+    .tooltiptext = Ações da página
