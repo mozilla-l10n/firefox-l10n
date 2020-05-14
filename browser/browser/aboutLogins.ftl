@@ -54,6 +54,9 @@ login-list-intro-title = Alaa ceŋorɗe njiytaa
 login-list-intro-description = So a danndi finnde e nder { -brand-product-name }, ma nde feeñ ɗoo.
 about-logins-login-list-empty-search-title = Alaa ceŋorɗe njiytaa
 about-logins-login-list-empty-search-description = Hay njeñtudi wootiri tolnondiraani e niilaw maa.
+login-list-item-title-new-login = Seŋorde hesere
+login-list-item-subtitle-new-login = Naatnu humpito
+login-list-item-subtitle-missing-username = [alaa innde kuutoro]
 
 ## Introduction screen
 
