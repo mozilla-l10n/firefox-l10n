@@ -230,7 +230,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Kirjoita osoite tai hakutermi
 urlbar-placeholder =
     .placeholder = Kirjoita osoite tai hakutermi
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Selain on kauko-ohjauksessa
 urlbar-switch-to-tab =
     .value = Siirry välilehteen:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Laajennus:
 urlbar-go-end-cap =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
+urlbar-page-action-button =
+    .tooltiptext = Sivun toiminnot
