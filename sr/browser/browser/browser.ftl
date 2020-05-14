@@ -225,3 +225,8 @@ popup-all-windows-shared = Сви видљиви прозори на екран�
 
 ## DevTools F12 popup
 
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = Приказ адресе уписане у траку за адресе
