@@ -200,3 +200,7 @@ popup-all-windows-shared = पडद्यावरील सर्व दृष
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = टॅबचा वापर करा:
+urlbar-go-end-cap =
+    .tooltiptext = स्थान पट्टीतील पत्त्यावर जा
