@@ -229,5 +229,18 @@ enable-devtools-popup-description = Norėdami naudoti spartųjį klavišą „F1
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Įveskite adresą arba paieškos žodžius
+urlbar-placeholder =
+    .placeholder = Įveskite adresą arba paieškos žodžius
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Naršyklė valdoma per nuotolį
+urlbar-switch-to-tab =
+    .value = Pereiti į kortelę:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Priedas:
 urlbar-go-end-cap =
     .tooltiptext = Eiti į adreso lauke surinktą adresą
+urlbar-page-action-button =
+    .tooltiptext = Tinklalapio veiksmai
