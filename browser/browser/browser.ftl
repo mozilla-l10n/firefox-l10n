@@ -189,5 +189,18 @@ popup-all-windows-shared = திரையில் பார்வையில�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்
+urlbar-placeholder =
+    .placeholder = சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = தொலை கட்டுப்பாட்டில் உலாவி
+urlbar-switch-to-tab =
+    .value = கீற்றுக்கு மாற்று:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = நீட்சிகள்:
 urlbar-go-end-cap =
     .tooltiptext = இடப் பட்டையில் முகவரிக்கு செல்லவும்
+urlbar-page-action-button =
+    .tooltiptext = பக்க செயல்கள்
