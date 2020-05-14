@@ -241,3 +241,5 @@ urlbar-go-end-cap =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
     .tooltiptext = Sivun toiminnot
+urlbar-pocket-button =
+    .tooltiptext = Tallenna { -pocket-brand-name }-palveluun
