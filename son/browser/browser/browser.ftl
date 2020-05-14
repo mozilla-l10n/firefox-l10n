@@ -154,5 +154,9 @@ popup-all-windows-shared = Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Ceeci wala aderesu dam
+urlbar-placeholder =
+    .placeholder = Ceeci wala aderesu dam
 urlbar-go-end-cap =
     .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
