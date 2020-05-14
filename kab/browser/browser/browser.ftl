@@ -226,3 +226,17 @@ popup-all-windows-shared = Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Akken ad tesqedceḍ anegzum F12, ldi qbel DevTools s wumuɣ web n uneflay.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Nadi neɣ sekcem tansa
+urlbar-placeholder =
+    .placeholder = Nadi neɣ sekcem tansa
+urlbar-switch-to-tab =
+    .value = Ddu ɣer yiccer:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Asiɣzef:
+urlbar-go-end-cap =
+    .tooltiptext = Ddu ɣer usebter n ufeggag n tansa
