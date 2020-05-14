@@ -194,7 +194,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
 urlbar-placeholder =
     .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Pārlūks tiek attālināti kontrolēts
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Paplašinājums:
 urlbar-go-end-cap =
     .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
+urlbar-page-action-button =
+    .tooltiptext = Lapas darbības
