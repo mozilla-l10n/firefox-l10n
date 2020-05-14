@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Nadi neɣ sekcem tansa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Iminig yettwaṭṭef s wudem anmeggag
+urlbar-permissions-granted =
+    .tooltiptext = Ɣur-k tisirag-nniḍen akken ad tkecmeḍ ɣeṛ usmel-a web.
 urlbar-switch-to-tab =
     .value = Ddu ɣer yiccer:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
