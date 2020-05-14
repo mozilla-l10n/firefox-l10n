@@ -206,11 +206,19 @@ popup-all-windows-shared = Jagatakse kõiki nähtavaid aknaid sinu ekraanil.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Otsi või sisesta aadress
+urlbar-placeholder =
+    .placeholder = Otsi või sisesta aadress
 urlbar-permissions-granted =
     .tooltiptext = Sa oled taganud sellele saidile täiendavaid õigusi.
+urlbar-switch-to-tab =
+    .value = Lülitu kaardile:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laiendus:
+urlbar-go-end-cap =
+    .tooltiptext = Mine aadressiribal olevale aadressile
 urlbar-page-action-button =
     .tooltiptext = Lehe toimingud
 urlbar-pocket-button =
