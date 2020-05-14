@@ -157,3 +157,11 @@ popup-all-windows-shared = Zonke iiwindowu ezikwiskrini sakho ziya kwabiwa.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Khangela okanye ngenisa idilesi
+urlbar-placeholder =
+    .placeholder = Khangela okanye ngenisa idilesi
+urlbar-switch-to-tab =
+    .value = Tshintshela kwithebhu:
+urlbar-go-end-cap =
+    .tooltiptext = Yiya kwidilesi kwibha yendawo
