@@ -232,6 +232,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Шукаць ці ўвесці адрас
 urlbar-placeholder =
     .placeholder = Шукаць ці ўвесці адрас
+urlbar-permissions-granted =
+    .tooltiptext = Вы далі гэтаму вэб-сайту дадатковыя дазволы.
 urlbar-switch-to-tab =
     .value = Пераключыцца ў картку:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -241,3 +243,5 @@ urlbar-go-end-cap =
     .tooltiptext = Пайсці па адрасе, які зараз у адрасным радку
 urlbar-page-action-button =
     .tooltiptext = Дзеянні старонкі
+urlbar-pocket-button =
+    .tooltiptext = Захаваць у { -pocket-brand-name }
