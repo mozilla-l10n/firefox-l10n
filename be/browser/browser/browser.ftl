@@ -228,3 +228,7 @@ popup-all-windows-shared = Усе бачныя вокны на вашым экр
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Шукаць ці ўвесці адрас
+urlbar-placeholder =
+    .placeholder = Шукаць ці ўвесці адрас
