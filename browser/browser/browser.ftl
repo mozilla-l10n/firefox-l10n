@@ -222,5 +222,7 @@ popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհ
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Անցնել ներդիրի՝
 urlbar-go-end-cap =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
