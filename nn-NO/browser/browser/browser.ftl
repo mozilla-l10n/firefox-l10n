@@ -235,5 +235,8 @@ urlbar-placeholder =
     .placeholder = Søk eller skriv inn ei adresse
 urlbar-switch-to-tab =
     .value = Byt til fane:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Utviding:
 urlbar-go-end-cap =
     .tooltiptext = Gå til adressa i adresselinja
