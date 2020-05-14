@@ -228,6 +228,8 @@ urlbar-placeholder =
     .placeholder = Tschertgar u endatar in'adressa
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Il navigatur vegn controllà a distanza
+urlbar-permissions-granted =
+    .tooltiptext = Ti has concedì dretgs supplementars a questa pagina.
 urlbar-switch-to-tab =
     .value = Midar al tab:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
