@@ -229,5 +229,18 @@ enable-devtools-popup-description = To use the F12 shortcut, first open DevTools
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Search or enter address
+urlbar-placeholder =
+    .placeholder = Search or enter address
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browser is under remote control
+urlbar-switch-to-tab =
+    .value = Switch to tab:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extension:
 urlbar-go-end-cap =
     .tooltiptext = Go to the address in the Location Bar
+urlbar-page-action-button =
+    .tooltiptext = Page actions
