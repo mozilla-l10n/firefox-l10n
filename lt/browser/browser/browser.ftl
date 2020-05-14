@@ -226,3 +226,8 @@ popup-all-windows-shared = Bus leidžiama matyti visus jūsų ekrane matomus lan
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Norėdami naudoti spartųjį klavišą „F12“, pirma atverkite saityno kūrėjų priemones iš meniu „Saityno kūrėjams“.
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = Eiti į adreso lauke surinktą adresą
