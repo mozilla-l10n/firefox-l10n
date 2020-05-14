@@ -200,7 +200,14 @@ popup-all-windows-shared = पडद्यावरील सर्व दृष
 
 ## URL Bar
 
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ब्राउझर दूरस्थ नियंत्रणामध्ये आहे
 urlbar-switch-to-tab =
     .value = टॅबचा वापर करा:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = एक्सटेंशन:
 urlbar-go-end-cap =
     .tooltiptext = स्थान पट्टीतील पत्त्यावर जा
+urlbar-page-action-button =
+    .tooltiptext = पृष्ठाच्या कृती
