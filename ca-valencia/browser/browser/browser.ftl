@@ -2,47 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (Navegació privada)
-       *[default] { -brand-full-name }
-    }
-
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (Navegació privada)
-       *[other] { $title } - { -brand-full-name } (Navegació privada)
-    }
 urlbar-identity-button =
     .aria-label = Mostra la informació del lloc
 
@@ -106,9 +65,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Escriviu menys i trobeu més: Cerqueu amb { $engineName } directament des de la barra d'adreces.
 urlbar-search-tips-redirect-2 = Comenceu la vostra cerca en la barra d'adreces per veure suggeriments de { $engineName } i del vostre historial de navegació.
-
-##
-
 
 ##
 
@@ -260,3 +216,28 @@ popup-select-microphone =
     .value = Micròfon per compartir:
     .accesskey = M
 popup-all-windows-shared = Es compartiran totes les finestres visibles de la pantalla.
+
+## DevTools F12 popup
+
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Escriviu una cerca o adreça
+urlbar-placeholder =
+    .placeholder = Escriviu una cerca o adreça
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = El navegador està sota control remot
+urlbar-permissions-granted =
+    .tooltiptext = Heu donat permisos addicionals a este lloc web.
+urlbar-switch-to-tab =
+    .value = Canvia a la pestanya:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensió:
+urlbar-go-end-cap =
+    .tooltiptext = Vés a l'adreça de la barra d'ubicació
+urlbar-page-action-button =
+    .tooltiptext = Accions de la pàgina
+urlbar-pocket-button =
+    .tooltiptext = Guarda al { -pocket-brand-name }
