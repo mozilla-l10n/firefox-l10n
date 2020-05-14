@@ -244,3 +244,5 @@ urlbar-go-end-cap =
     .tooltiptext = Ir a la URL de la barra de direcciones
 urlbar-page-action-button =
     .tooltiptext = Acciones con la página
+urlbar-pocket-button =
+    .tooltiptext = Guardar en { -pocket-brand-name }
