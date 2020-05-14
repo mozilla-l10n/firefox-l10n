@@ -226,3 +226,8 @@ popup-all-windows-shared = Alle zichtbare vensters op uw scherm worden gedeeld.
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Open eerst DevTools in het menu Webontwikkelaar om de sneltoets F12 te gebruiken.
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = Naar het adres in de locatiebalk gaan
