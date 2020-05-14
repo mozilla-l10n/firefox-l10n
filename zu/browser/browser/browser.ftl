@@ -55,6 +55,10 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Sesha noma faka ikheli
+urlbar-placeholder =
+    .placeholder = Sesha noma faka ikheli
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
 urlbar-go-end-cap =
