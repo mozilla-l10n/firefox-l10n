@@ -228,8 +228,16 @@ urlbar-placeholder =
     .placeholder = Izlang yoki manzilni kiriting
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Brauzer nazorat ostida!
+urlbar-permissions-granted =
+    .tooltiptext = Bu saytga qoʻshimcha maxsus ruxsat bergansiz.
+urlbar-switch-to-tab =
+    .value = Varaqqa oʻtish:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Kengaytma:
 urlbar-go-end-cap =
     .tooltiptext = Manzil panelidagi manzilga o‘tish
+urlbar-page-action-button =
+    .tooltiptext = Sahifa amallari
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name } xizmatiga saqlash
