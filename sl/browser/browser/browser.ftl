@@ -235,5 +235,8 @@ urlbar-placeholder =
     .placeholder = Iskanje ali naslov strani
 urlbar-switch-to-tab =
     .value = Preklopi na zavihek:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Razširitev:
 urlbar-go-end-cap =
     .tooltiptext = Odpri mesto v vrstici z naslovom
