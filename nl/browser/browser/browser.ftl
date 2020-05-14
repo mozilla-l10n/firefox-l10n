@@ -229,5 +229,11 @@ enable-devtools-popup-description = Open eerst DevTools in het menu Webontwikkel
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Voer zoekterm of adres in
+urlbar-placeholder =
+    .placeholder = Voer zoekterm of adres in
+urlbar-switch-to-tab =
+    .value = Wisselen naar tabblad:
 urlbar-go-end-cap =
     .tooltiptext = Naar het adres in de locatiebalk gaan
