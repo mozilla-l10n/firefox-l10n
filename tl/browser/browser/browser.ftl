@@ -228,7 +228,16 @@ popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabaha
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Hanapin o ilagay ang address
+urlbar-placeholder =
+    .placeholder = Hanapin o ilagay ang address
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browser ay kasalukuyang nire-remote kontrol
 urlbar-switch-to-tab =
     .value = Lumipat sa tab:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extension:
 urlbar-go-end-cap =
     .tooltiptext = Pumunta sa lokasyon na nasa Location Bar
