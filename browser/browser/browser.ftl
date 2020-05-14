@@ -229,7 +229,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = ابحث أو أدخل عنوانا
 urlbar-placeholder =
     .placeholder = ابحث أو أدخل عنوانا
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = يخضع المتصفح للتحكم عن بعد
 urlbar-switch-to-tab =
     .value = انتقل إلى اللسان:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = الامتداد:
 urlbar-go-end-cap =
     .tooltiptext = اذهب للعنوان في شريط الموقع
+urlbar-page-action-button =
+    .tooltiptext = إجراءات الصفحة
