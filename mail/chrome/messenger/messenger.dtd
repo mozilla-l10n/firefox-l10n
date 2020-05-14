@@ -730,6 +730,7 @@
 <!ENTITY idColumn.label "Ստացման կարգի">
 <!ENTITY attachmentColumn.label "Կցորդներ">
 
+<!ENTITY deleteColumn.label "Ջնջել">
 
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Ընտրեք, թե որ սյուները ցուցադրել">
