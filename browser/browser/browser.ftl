@@ -225,6 +225,10 @@ enable-devtools-popup-description = افتح أولا أدوات المطوري�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = ابحث أو أدخل عنوانا
+urlbar-placeholder =
+    .placeholder = ابحث أو أدخل عنوانا
 urlbar-switch-to-tab =
     .value = انتقل إلى اللسان:
 urlbar-go-end-cap =
