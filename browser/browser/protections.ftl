@@ -117,6 +117,14 @@ monitor-header-content-no-account = Controlla { -monitor-brand-name } per verifi
 monitor-header-content-signed-in = { -monitor-brand-name } ti avvisa se le tue informazioni compaiono in una violazione di dati conosciuta.
 monitor-sign-up = Iscriviti per ricevere avvisi sulle violazioni
 auto-scan = Controllato automaticamente oggi
+
+monitor-emails-tooltip =
+  .title = Visualizza indirizzi email gestiti in { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+  .title = Visualizza violazioni di dati conosciute in { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+  .title = Visualizza password compromesse in { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
