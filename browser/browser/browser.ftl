@@ -222,7 +222,18 @@ popup-all-windows-shared = Θα μοιραστούν όλα τα ορατά πα
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
+urlbar-placeholder =
+    .placeholder = Αναζήτηση όρου ή εισαγωγή διεύθυνσης
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
 urlbar-switch-to-tab =
     .value = Μετάβαση σε καρτέλα:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Επέκταση:
 urlbar-go-end-cap =
     .tooltiptext = Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων
+urlbar-page-action-button =
+    .tooltiptext = Ενέργειες σελίδας
