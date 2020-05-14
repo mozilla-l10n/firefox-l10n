@@ -157,3 +157,5 @@ popup-all-windows-shared = Van compartise toles ventanes visibles na to pantalla
 
 ## URL Bar
 
+urlbar-page-action-button =
+    .tooltiptext = Aiciones de la páxina
