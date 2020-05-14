@@ -235,5 +235,7 @@ urlbar-extension =
     .value = Etendaĵo:
 urlbar-go-end-cap =
     .tooltiptext = Iri al la adreso en la retadresa strio
+urlbar-page-action-button =
+    .tooltiptext = Retpaĝaj agoj
 urlbar-pocket-button =
     .tooltiptext = Konservi en { -pocket-brand-name }
