@@ -235,7 +235,12 @@ urlbar-placeholder =
     .placeholder = Keresés vagy cím
 urlbar-remote-control-notification-anchor =
     .tooltiptext = A böngészőt távolról irányítják
+urlbar-permissions-granted =
+    .tooltiptext = További engedélyeket adott ennek az oldalnak.
 urlbar-switch-to-tab =
     .value = Váltás erre a lapra:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Kiegészítő:
 urlbar-go-end-cap =
     .tooltiptext = Ugrás a címmezőben levő címre
