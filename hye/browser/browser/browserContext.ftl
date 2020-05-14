@@ -176,9 +176,15 @@ main-context-menu-media-loop =
 main-context-menu-media-show-controls =
     .label = Ցուցադրել վերահսկիչներին
     .accesskey = C
+main-context-menu-media-hide-controls =
+    .label = Թաքցնել վերահսկիչները
+    .accesskey = C
 
 ##
 
+main-context-menu-media-video-fullscreen =
+    .label = Բացել լիաէկրան
+    .accesskey = F
 main-context-menu-link-send-to-device =
     .label = Ուղարկել յղումը սարքին
     .accesskey = n
