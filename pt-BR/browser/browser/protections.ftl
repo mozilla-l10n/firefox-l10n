@@ -121,6 +121,12 @@ monitor-header-content-no-account = Veja no { -monitor-brand-name } se você foi
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa caso suas informações apareçam em um vazamento de dados conhecido.
 monitor-sign-up = Cadastre-se para receber alertas de vazamentos
 auto-scan = Analisados automaticamente hoje
+monitor-emails-tooltip =
+    .title = Ver no { -monitor-brand-short-name } os endereços de e-mail monitorados
+monitor-breaches-tooltip =
+    .title = Ver no { -monitor-brand-short-name } os vazamentos conhecidos de dados
+monitor-passwords-tooltip =
+    .title = Ver no { -monitor-brand-short-name } as senhas expostas
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
