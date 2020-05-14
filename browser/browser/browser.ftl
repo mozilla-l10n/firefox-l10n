@@ -235,3 +235,5 @@ urlbar-placeholder =
     .placeholder = 搜索或输入网址
 urlbar-switch-to-tab =
     .value = 切换到标签页：
+urlbar-go-end-cap =
+    .tooltiptext = 转到地址栏中指向的网址
