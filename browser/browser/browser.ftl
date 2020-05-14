@@ -226,3 +226,14 @@ popup-all-windows-shared = Vsa vidna okna na vašem zaslonu bodo v skupni rabi.
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Za uporabo bližnjice F12 prvič odprite razvojna orodja iz menija Spletni razvoj.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Iskanje ali naslov strani
+urlbar-placeholder =
+    .placeholder = Iskanje ali naslov strani
+urlbar-switch-to-tab =
+    .value = Preklopi na zavihek:
+urlbar-go-end-cap =
+    .tooltiptext = Odpri mesto v vrstici z naslovom
