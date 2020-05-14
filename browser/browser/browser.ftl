@@ -229,7 +229,14 @@ enable-devtools-popup-description = Kako biste koristili F12 prečicu, prvo otvo
 
 ## URL Bar
 
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Preglednik se kontrolira s udaljene lokacije
 urlbar-switch-to-tab =
     .value = Prebaci na karticu:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Dodatak:
 urlbar-go-end-cap =
     .tooltiptext = Idi na adresu iz lokacijske trake
+urlbar-page-action-button =
+    .tooltiptext = Radnje na stranici
