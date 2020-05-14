@@ -153,5 +153,3 @@ urlbar-extension =
     .value = बारायनायफोर:
 urlbar-go-end-cap =
     .tooltiptext = लकेसन बारनि थंआव थां
-urlbar-pocket-button =
-    .tooltiptext = पोकेटव थिना दोन
