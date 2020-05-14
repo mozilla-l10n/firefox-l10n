@@ -167,6 +167,7 @@ identity-clear-site-data =
     .label = Mumtu kuukiije e keɓe lowre ndee…
 identity-connection-not-secure-security-view = A seŋaaki kisngol e ndee lowre.
 identity-connection-verified = Aɗa seŋii kisngol e ndee lowre.
+identity-ev-owner-label = Seedamfaagu bayyinaama ngam:
 identity-remove-cert-exception =
     .label = Momtu Paltol
     .accesskey = M
@@ -210,6 +211,7 @@ popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Ngam huutoraade sodorde F12, uddit tawo DevTools e dosol topayɓe geese.
 
 ## URL Bar
 
@@ -219,6 +221,8 @@ urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Wanngorde woni ko e yuurnito woɗɗungo
+urlbar-permissions-granted =
+    .tooltiptext = A hokkii ndee lowre jamirooje goɗɗe.
 urlbar-switch-to-tab =
     .value = Yah to tabbere:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -228,3 +232,5 @@ urlbar-go-end-cap =
     .tooltiptext = Yah to ñiiɓirde wonde e Palal Nokkuuje
 urlbar-page-action-button =
     .tooltiptext = Baɗe hello
+urlbar-pocket-button =
+    .tooltiptext = Danndu e { -pocket-brand-name }
