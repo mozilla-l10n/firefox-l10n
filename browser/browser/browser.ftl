@@ -222,3 +222,16 @@ popup-select-microphone =
     .value = Microfonul spre partajare:
     .accesskey = M
 popup-all-windows-shared = Toate ferestrele vizibile pe ecran vor fi partajate.
+
+## DevTools F12 popup
+
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Caută sau introdu adresa
+urlbar-placeholder =
+    .placeholder = Caută sau introdu adresa
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensie:
