@@ -235,3 +235,5 @@ urlbar-placeholder =
     .placeholder = Wprowadź adres lub szukaj
 urlbar-switch-to-tab =
     .value = Przełącz na kartę:
+urlbar-page-action-button =
+    .tooltiptext = Interakcje
