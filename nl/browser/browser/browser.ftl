@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Voer zoekterm of adres in
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser wordt op afstand bestuurd
+urlbar-permissions-granted =
+    .tooltiptext = U hebt deze website aanvullende toestemmingen gegeven.
 urlbar-switch-to-tab =
     .value = Wisselen naar tabblad:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
