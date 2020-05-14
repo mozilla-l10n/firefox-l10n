@@ -115,6 +115,12 @@ monitor-header-content-no-account = { -monitor-brand-name }를 확인하여 사�
 monitor-header-content-signed-in = 알려진 데이터 유출 사건에 사용의 정보가 있으면 { -monitor-brand-name }가 경고합니다.
 monitor-sign-up = 유출 알림 가입하기
 auto-scan = 오늘의 자동 스캔
+monitor-emails-tooltip =
+    .title = { -monitor-brand-short-name }에서 모니터링된 이메일 주소 보기
+monitor-breaches-tooltip =
+    .title = { -monitor-brand-short-name }에서 알려진 데이터 유출 보기
+monitor-passwords-tooltip =
+    .title = { -monitor-brand-short-name }에서 노출된 비밀번호 보기
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
