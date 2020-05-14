@@ -166,5 +166,7 @@ popup-all-windows-shared = ನಿಮ್ಮ ತೆರೆಯಲ್ಲಿರುವ 
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:
 urlbar-go-end-cap =
     .tooltiptext = ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು
