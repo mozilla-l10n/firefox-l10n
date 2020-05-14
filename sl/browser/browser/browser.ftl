@@ -233,6 +233,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Iskanje ali naslov strani
 urlbar-placeholder =
     .placeholder = Iskanje ali naslov strani
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Brskalnik je pod daljinskim upravljanjem
 urlbar-switch-to-tab =
     .value = Preklopi na zavihek:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -240,3 +242,5 @@ urlbar-extension =
     .value = Razširitev:
 urlbar-go-end-cap =
     .tooltiptext = Odpri mesto v vrstici z naslovom
+urlbar-page-action-button =
+    .tooltiptext = Dejanja strani
