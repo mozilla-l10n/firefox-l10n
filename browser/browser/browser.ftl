@@ -226,6 +226,10 @@ popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan diba
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Cari atau masukkan alamat
+urlbar-placeholder =
+    .placeholder = Cari atau masukkan alamat
 urlbar-permissions-granted =
     .tooltiptext = Anda telah memberikan izin tambahan kepada situs web ini.
 urlbar-switch-to-tab =
