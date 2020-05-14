@@ -171,5 +171,13 @@ popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáile�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Cuardaigh nó cuir seoladh isteach
+urlbar-placeholder =
+    .placeholder = Cuardaigh nó cuir seoladh isteach
+urlbar-switch-to-tab =
+    .value = Téigh go cluaisín:
+urlbar-go-end-cap =
+    .tooltiptext = Téigh go dtí an seoladh atá sa Bharra Suímh
 urlbar-pocket-button =
     .tooltiptext = Sábháil i b{ -pocket-brand-name }
