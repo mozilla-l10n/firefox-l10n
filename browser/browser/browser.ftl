@@ -226,3 +226,8 @@ popup-all-windows-shared = 화면에 표시되어 있는 모든 창을 공유합
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 단축키를 사용하려면, 먼저 웹 개발자 메뉴를 통해 DevTools를 여세요.
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = 탭 전환:
