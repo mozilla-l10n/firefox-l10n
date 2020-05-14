@@ -11,6 +11,7 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = Yahru seese
+about-config-intro-warning-text = Baylugol cuɓoraaɗe teelte lugge ina waawi jogaade baɗte  { -brand-short-name } e kattanɗe walla kisal.
 about-config-intro-warning-checkbox = Jeertinam so mi etiima yettaade ɗee cuɓoraaɗe
 about-config-intro-warning-button = Jaɓ tanaa oo njokkaa
 
@@ -55,3 +56,5 @@ about-config-pref-add-type-string = Ɓoggol
 
 about-config-pref-accessible-value-default =
     .aria-label = { $value } (woowaande)
+about-config-pref-accessible-value-custom =
+    .aria-label = { $value } (Heertinaama)
