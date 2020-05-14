@@ -220,3 +220,15 @@ popup-select-microphone =
     .value = Zdieľať mikrofón:
     .accesskey = m
 popup-all-windows-shared = Všetky okná viditeľné na vašej obrazovke budú zdieľané.
+
+## DevTools F12 popup
+
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Zadajte adresu alebo výraz vyhľadávania
+urlbar-placeholder =
+    .placeholder = Zadajte adresu alebo výraz vyhľadávania
+urlbar-switch-to-tab =
+    .value = Prejsť na kartu:
