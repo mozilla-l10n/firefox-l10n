@@ -246,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Abrir a página
 urlbar-page-action-button =
     .tooltiptext = Ações da página
+urlbar-pocket-button =
+    .tooltiptext = Salvar no { -pocket-brand-name }
