@@ -161,7 +161,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Khangela okanye ngenisa idilesi
 urlbar-placeholder =
     .placeholder = Khangela okanye ngenisa idilesi
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Ibhrawza iphantsi kolawulo lwerimoti
 urlbar-switch-to-tab =
     .value = Tshintshela kwithebhu:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Izolulo
 urlbar-go-end-cap =
     .tooltiptext = Yiya kwidilesi kwibha yendawo
+urlbar-page-action-button =
+    .tooltiptext = Okwenzeka kumakhasi
