@@ -2,22 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-
 urlbar-identity-button =
     .aria-label = Wys werfinligting
 
@@ -60,9 +44,6 @@ urlbar-addons-notification-anchor =
 
 ##
 
-
-##
-
 urlbar-geolocation-blocked =
     .tooltiptext = U het ligginginligting geblok vir dié webwerf.
 urlbar-web-notifications-blocked =
@@ -73,12 +54,10 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -104,7 +83,6 @@ search-one-offs-change-settings-button =
     .label = Verander soekinstellings
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Verander soekinstellings
-
 search-one-offs-context-open-new-tab =
     .label = Soek in nuwe oortjie
     .accesskey = t
@@ -172,3 +150,10 @@ popup-all-windows-shared = Alle sigbare vensters op die skerm sal gedeel word.
 
 ## DevTools F12 popup
 
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = Verwissel na oortjie:
+urlbar-go-end-cap =
+    .tooltiptext = Gaan na die adres in die adresbalk
