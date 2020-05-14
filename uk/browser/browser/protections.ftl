@@ -127,6 +127,12 @@ monitor-header-content-no-account = Спробуйте { -monitor-brand-name }, 
 monitor-header-content-signed-in = { -monitor-brand-name } попереджає вас, якщо ваша інформація з'явилася у відомих витоках даних.
 monitor-sign-up = Підписатися на сповіщення
 auto-scan = Автоматично проскановано сьогодні
+monitor-emails-tooltip =
+    .title = Переглянути відстежувані адреси е-пошти на { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Переглянути відомі витоки даних на { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Переглянути викриті паролі на { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
