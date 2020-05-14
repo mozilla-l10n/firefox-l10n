@@ -157,6 +157,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Haaytu
 confirmation-dialog-dismiss-button =
     .title = Haaytu
+about-logins-confirm-remove-dialog-title = Momtu ndee seŋorde?
+confirm-delete-dialog-message = Ngal baɗal waawaa firteede.
+about-logins-confirm-remove-dialog-confirm-button = Ittu
 
 ## Breach Alert notification
 
