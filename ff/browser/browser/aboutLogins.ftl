@@ -136,9 +136,27 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] Aɗa yiɗi ceŋoɗe maa kala ɗo kuutoriɗaa { -brand-product-name }? Yah to cuɓe { -sync-brand-short-name } e labo boyet ceŋorɗe ɗee.
+       *[other] Aɗa yiɗi ceŋoɗe maa kala ɗo kuutoriɗaa { -brand-product-name }? Yah to cuɓoraaɗe { -sync-brand-short-name } e labo boyet ceŋorɗe ɗee.
+    }
+enable-password-sync-preferences-button =
+    .label =
+        { PLATFORM() ->
+            [windows] Yillo cuɓoraaɗe { -sync-brand-short-name }
+           *[other] Y
+        }
+    .accesskey = Y
+about-logins-enable-password-sync-dont-ask-again-button =
+    .label = Hoto naamnito-mi goɗngol
+    .accesskey = H
 
 ## Dialogs
 
+confirmation-dialog-cancel-button = Haaytu
+confirmation-dialog-dismiss-button =
+    .title = Haaytu
 
 ## Breach Alert notification
 
