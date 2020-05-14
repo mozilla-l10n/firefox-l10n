@@ -233,6 +233,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Picar un tèrme de recercar o una adreça
 urlbar-placeholder =
     .placeholder = Picar un tèrme de recercar o una adreça
+urlbar-permissions-granted =
+    .tooltiptext = Avètz donat de permissions suplementàrias a aquel site.
 urlbar-switch-to-tab =
     .value = Anar a l'onglet :
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -242,3 +244,5 @@ urlbar-go-end-cap =
     .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
 urlbar-page-action-button =
     .tooltiptext = Accions de la pagina
+urlbar-pocket-button =
+    .tooltiptext = Enregistrar dins { -pocket-brand-name }
