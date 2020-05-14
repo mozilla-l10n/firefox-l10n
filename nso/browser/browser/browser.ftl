@@ -55,3 +55,7 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Fetogela go thepo:
+urlbar-go-end-cap =
+    .tooltiptext = Eya atereseng go para ya lefelo
