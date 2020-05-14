@@ -259,6 +259,8 @@ urlbar-placeholder =
     .placeholder = Zadejte webovou adresu nebo dotaz pro vyhledávač
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Prohlížeč je ovládán vzdáleně
+urlbar-permissions-granted =
+    .tooltiptext = Tomuto serveru jste udělili dodatečná oprávnění.
 urlbar-switch-to-tab =
     .value = Přepnout na panel:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
