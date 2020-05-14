@@ -244,3 +244,5 @@ urlbar-go-end-cap =
     .tooltiptext = Перейти за адресою з панелі адреси
 urlbar-page-action-button =
     .tooltiptext = Дії сторінки
+urlbar-pocket-button =
+    .tooltiptext = Зберегти в { -pocket-brand-name }
