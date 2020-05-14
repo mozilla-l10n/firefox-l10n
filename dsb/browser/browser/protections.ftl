@@ -39,6 +39,12 @@ protection-report-page-title = Šćit priwatnosći
 protection-report-content-title = Šćit priwatnosći
 etp-card-title = Pólěpšony slědowański šćit
 etp-card-content = Pśeslědowaki wam online slěduju, aby informacije wó wašych pśeglědowańskich zwuconosćach a zajmach gromaźili. { -brand-short-name } wjele z toś tych pśeslědowakow a druge złosne skripty blokěrujo.
+protection-report-webpage-title = Pśeglěd šćitow
+protection-report-page-content-title = Pśeglěd šćitow
+protection-report-page-summary = { -brand-short-name } móžo wašu priwatnosć za kulisami šćitaś, mjaztym až pśeglědujośo. To jo personalizěrowane zespominanje toś tych šćitnych napšawow, mjazy nimi rědy, kótarež wašu wěstotu online kontrolěruju.
+etp-card-title-always = Pólěpšony slědowański šćit: pśecej zmóžnjony
+etp-card-title-custom-not-blocking = Pólěpšony slědowański šćit: ZNJEMÓŽNJONY
+etp-card-content-summary = Gaž njeznate pśedewześa wospytuju, wam kšajźu pó webje slědowaś, { -brand-short-name } wjele z nich awtomatiski blokěrujo.
 protection-report-etp-card-content-custom-not-blocking = Kuždy šćit jo tuchylu wótšaltowany. Wubjeŕśo, kótare pśeslědowaki maju se pśez zastojanje wašych šćitnych nastajenjow { -brand-short-name } blokěrowaś.
 protection-report-manage-protections = Nastajenja zastojaś
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,

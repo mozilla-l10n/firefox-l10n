@@ -49,7 +49,6 @@ login-list-count =
 login-list-sort-label-text = Sortěrowaś pó:
 login-list-name-option = Mjenju (A-Z)
 login-list-name-reverse-option = Mě (A-Z)
-login-list-breached-option = Zranjone websedła
 about-logins-login-list-alerts-option = Warnowanja
 login-list-last-changed-option = Slědnej změnje
 login-list-last-used-option = Slědnem wužyśu
@@ -110,17 +109,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby skłaźone pśizjawjenje wobźěłał.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swójo pśizjawjenje wobźěłował. To wěstotu wašych kontow šćita.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = skłaźone pśizjawjenje wobźěłaś
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby skłaźone gronidło pokazał.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby se gronidło woglědał. To wěstotu wašych kontow šćita.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = skłaźone gronidło pokazaś
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby skłaźone gronidło kopěrował.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swójo gronidło kopěrował. To wěstotu wašych kontow šćita.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skłaźone gronidło kopěrowaś
 
@@ -165,9 +170,6 @@ confirm-discard-changes-dialog-confirm-button = Zachyśiś
 
 about-logins-breach-alert-title = Datowa źěra websedła
 breach-alert-text = Gronidła su se z toś togo websedła roznjasli abo kšadnuli, wót togo, až sćo zaktualizěrował swóje pśizjawjeńske daty slědny raz. Změńśo swójo gronidło, aby swójo konto šćitał.
-breach-alert-link = Zgóńśo wěcej wó toś tej źěrje
-breach-alert-dismiss =
-    .title = Toś to warnowanje zacyniś
 about-logins-breach-alert-date = Toś ta datowa źěra jo nastała { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
