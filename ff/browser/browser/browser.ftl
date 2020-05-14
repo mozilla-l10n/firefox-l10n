@@ -45,6 +45,14 @@ urlbar-persistent-storage-notification-anchor =
     .tooltiptext = Mooftu keɓe e Ndesgu Duumiingu
 urlbar-addons-notification-anchor =
     .tooltiptext = Uddit ɗaldugal ɓatakuure aafirgal ɓeyditte
+urlbar-tip-help-icon =
+    .title = Heɓ Ballal
+urlbar-search-tips-confirm = Eey, mi faamii
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Toɓɓu:
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
@@ -52,6 +60,7 @@ urlbar-addons-notification-anchor =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Tappu seeɗa, yiytu ko heewi: Yiylo { $engineName } e palal ñiiɓirde maa.
+urlbar-search-tips-redirect-2 = Fuɗɗo njiilaw e palal ñiiɓirde ngam yiyde baggine ummoraade e { $engineName } kam e aslol banngogol maa.
 
 ##
 
@@ -75,6 +84,8 @@ urlbar-canvas-blocked =
     .tooltiptext = A daaƴii aaftogol keɓe keertol wonande ndee lowre geese.
 urlbar-midi-blocked =
     .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
+urlbar-install-blocked =
+    .tooltiptext = A daaƴii aafgol ɓeyditte e ndee lowre geese.
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -92,6 +103,8 @@ page-action-manage-extension =
     .label = Yiil Timmitere…
 page-action-remove-from-urlbar =
     .label = Ittu e Palal Ñiiɓirɗe
+page-action-remove-extension =
+    .label = Momtu timmitere
 
 ## Auto-hide Context Menu
 
@@ -104,6 +117,9 @@ full-screen-exit =
 
 ## Search Engine selection buttons (one-offs)
 
+# This string prompts the user to use the list of one-click search engines in
+# the Urlbar and searchbar.
+search-one-offs-with-title = Ngol laawol, yiylo e:
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
@@ -132,18 +148,25 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Ceŋagol hisaani
+identity-connection-secure = Ceŋagol kisngol
 identity-connection-internal = Ɗum ko hello { -brand-short-name } hisngo.
 identity-connection-file = Ngoo hello mooftaa ko e ordinateer maa.
 identity-extension-page = Ngoo hello loowraa ko jokkel
 identity-active-blocked = { -brand-short-name } faliima geɗe e ngoo hello ɗe kisaani.
+identity-custom-root = Ƴeewtii ceŋagol ngol ko dokkoowo seedamfaagu mo Mozilla heftinaani.
 identity-passive-loaded = Geɗe ɗe kisaani nana e ngoo hello (wano nate).
 identity-active-loaded = A dartinii ndeenka e ngoo hello.
 identity-weak-encryption = Ngoo hello huutortoo ko gannugol jaafngol.
 identity-insecure-login-forms = Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.
+identity-permissions =
+    .value = Jamirooje
 identity-permissions-reload-hint = Ena waawi coaklaa loowtude hello ngoo ngam bayle ɗee njaaɓa.
 identity-permissions-empty = A hokkaani ndee lowre hay yamiroore heeriinde.
 identity-clear-site-data =
     .label = Mumtu kuukiije e keɓe lowre ndee…
+identity-connection-not-secure-security-view = A seŋaaki kisngol e ndee lowre.
+identity-connection-verified = Aɗa seŋii kisngol e ndee lowre.
 identity-remove-cert-exception =
     .label = Momtu Paltol
     .accesskey = M
