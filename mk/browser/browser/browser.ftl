@@ -138,6 +138,10 @@ popup-all-windows-shared = Сите видливи прозорци на ваш�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Барај или внеси адреса
+urlbar-placeholder =
+    .placeholder = Барај или внеси адреса
 urlbar-switch-to-tab =
     .value = Оди до јазиче:
 urlbar-go-end-cap =
