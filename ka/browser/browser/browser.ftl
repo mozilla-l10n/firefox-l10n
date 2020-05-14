@@ -226,3 +226,10 @@ popup-all-windows-shared = ეკრანზე ნაჩვენები ყ
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 მალსახმობის გამოსაყენებლად, ჯერ გახსენით DevTools, ვებშემუშავების მენიუდან.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = მოძებნეთ ან შეიყვანეთ მისამართი
+urlbar-placeholder =
+    .placeholder = მოძებნეთ ან შეიყვანეთ მისამართი
