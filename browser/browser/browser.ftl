@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Término de búsqueda o dirección
 urlbar-remote-control-notification-anchor =
     .tooltiptext = El navegador está bajo control remoto
+urlbar-permissions-granted =
+    .tooltiptext = Ha concedido permisos adicionales a este sitio web.
 urlbar-switch-to-tab =
     .value = Cambiar a la pestaña:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
