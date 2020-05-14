@@ -226,3 +226,10 @@ popup-all-windows-shared = Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu r
 ## DevTools F12 popup
 
 enable-devtools-popup-description = I ddefnyddio llwybr byr F12 agorwch DevTools yn gyntaf trwy'r ddewislen Datblygwr Gwe.
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = Newid i dab:
+urlbar-go-end-cap =
+    .tooltiptext = Mynd i'r cyfeiriad yn y Bar Lleoliad
