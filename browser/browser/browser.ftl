@@ -233,6 +233,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Chwilio neu gyfeiriad gwe
 urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Mae'r porwr o dan reolaeth bell
 urlbar-switch-to-tab =
     .value = Newid i dab:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -240,3 +242,5 @@ urlbar-extension =
     .value = Estyniad:
 urlbar-go-end-cap =
     .tooltiptext = Mynd i'r cyfeiriad yn y Bar Lleoliad
+urlbar-page-action-button =
+    .tooltiptext = Gweithredoedd tudalen
