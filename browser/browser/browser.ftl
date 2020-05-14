@@ -210,3 +210,5 @@ urlbar-go-end-cap =
     .tooltiptext = Hoppa á tengilinn sem er í staðsetningarslánni
 urlbar-page-action-button =
     .tooltiptext = Síðu aðgerðir
+urlbar-pocket-button =
+    .tooltiptext = Vista í { -pocket-brand-name }
