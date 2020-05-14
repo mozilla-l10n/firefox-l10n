@@ -159,5 +159,8 @@ urlbar-placeholder =
     .placeholder = Soek of tik adres in
 urlbar-switch-to-tab =
     .value = Verwissel na oortjie:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Uitbreiding:
 urlbar-go-end-cap =
     .tooltiptext = Gaan na die adres in die adresbalk
