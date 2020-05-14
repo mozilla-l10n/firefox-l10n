@@ -128,10 +128,6 @@ cfr-whatsnew-lockwise-take-link-text = Отримати додаток
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Вводьте менше, знаходьте більше в панелі адреси
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Відкривайте найчастіше відвідувані сайти одним кліком в панелі адреси. Знаходьте швидше з результатами від { $searchEngineName } та історії перегляду.
-cfr-whatsnew-searchbar-body-generic = Відкривайте найчастіше відвідувані сайти одним кліком в панелі адреси. Знаходьте швидше з результатами вашої історії перегляду.
 cfr-whatsnew-searchbar-body-topsites = Тепер просто оберіть панель адреси і перед вами розгорнеться перелік ваших найпопулярніших сайтів.
 cfr-whatsnew-searchbar-icon-alt-text = Піктограма лупи
 
@@ -154,14 +150,14 @@ cfr-whatsnew-permission-prompt-cta = Докладніше
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header =
     { $fingerprinterCount ->
-        [one] Заблоковано зчитування відбитку браузера
-        [few] Заблоковано зчитування відбитку браузера
-       *[many] Заблоковано зчитування відбитку браузера
+        [one] Заблоковане зчитування відбитку { -brand-short-name }
+        [few] Заблоковані зчитування відбитку { -brand-short-name }
+       *[many] Заблокованих зчитувань відбитку { -brand-short-name }
     }
-cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокує багато засобів, що зчитують відбиток браузера і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
+cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } блокує багато засобів, що зчитують цифровий відбиток і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
 # Message variation when fingerprinters count is less than 10
-cfr-whatsnew-fingerprinter-counter-header-alt = Зчитування відбитку браузера
-cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може блокувати засоби, що зчитують відбиток браузера і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
+cfr-whatsnew-fingerprinter-counter-header-alt = Зчитування відбитку { -brand-short-name }
+cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } може блокувати засоби, що зчитують цифровий відбиток і таємно збирають інформацію про ваш пристрій та діяльність з метою створення вашого рекламного профілю.
 
 ## Bookmark Sync
 
@@ -202,7 +198,7 @@ cfr-doorhanger-socialtracking-dont-show-again = Не показувати так
     .accesskey = е
 cfr-doorhanger-socialtracking-heading = { -brand-short-name } зупинив стеження соціальної мережі
 cfr-doorhanger-socialtracking-description = Ваша приватність має значення. { -brand-short-name } тепер блокує загальні елементи стеження соціальних мереж, обмежуючи кількість зібраних даних про вашу діяльність в інтернеті.
-cfr-doorhanger-fingerprinters-heading = { -brand-short-name } заблокував зчитування відбитку браузера на цій сторінці
+cfr-doorhanger-fingerprinters-heading = { -brand-short-name } заблокував зчитування цифрового відбитка на цій сторінці
 cfr-doorhanger-fingerprinters-description = Ваша приватність має значення. { -brand-short-name } тепер блокує зчитування відбитку браузера, що збирає частинки інформації, яка використовується для ідентифікації вашого пристрою і стеження за вами.
 cfr-doorhanger-cryptominers-heading = { -brand-short-name } заблокував криптомайнер на цій сторінці
 cfr-doorhanger-cryptominers-description = Ваша приватність має значення. { -brand-short-name } тепер блокує криптомайнери, які використовують ресурси вашої системи для видобутку цифрових грошей.
