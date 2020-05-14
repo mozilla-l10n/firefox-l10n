@@ -35,6 +35,7 @@ protection-report-page-title = הגנות פרטיות
 protection-report-content-title = הגנות פרטיות
 etp-card-title = הגנת מעקב מתקדמת
 etp-card-content = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
+protection-report-page-summary = ‏{ -brand-short-name } יכול להגן על הפרטיות שלך מאחורי הקלעים בזמן הגלישה. להלן תקציר מותאם אישית של הגנות אלה, לרבות כלים המאפשרים להיות בשליטה על האבטחה המקוונת שלך.
 etp-card-title-always = הגנת מעקב מתקדמת: תמיד פעילה
 etp-card-title-custom-not-blocking = הגנת מעקב מתקדמת: כבויה
 etp-card-content-summary = כשחברות בלתי ידועות מנסות לעקוב אחריך בסתר ברחבי הרשת, { -brand-short-name } חוסם רבים מהם באופן אוטומטי.
