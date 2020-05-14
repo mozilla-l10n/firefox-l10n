@@ -229,7 +229,18 @@ enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik g
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Idatzi bilaketa edo helbidea
+urlbar-placeholder =
+    .placeholder = Idatzi bilaketa edo helbidea
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Nabigatzailea urruneko agintepean dago
 urlbar-switch-to-tab =
     .value = Aldatu fitxara:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Hedapena:
 urlbar-go-end-cap =
     .tooltiptext = Joan kokapen-barrako helbidera
+urlbar-page-action-button =
+    .tooltiptext = Orri-ekintzak
