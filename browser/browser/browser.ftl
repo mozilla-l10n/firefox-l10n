@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = 搜索或输入网址
 urlbar-remote-control-notification-anchor =
     .tooltiptext = 浏览器正被远程控制
+urlbar-permissions-granted =
+    .tooltiptext = 您已授予此站点更多权限。
 urlbar-switch-to-tab =
     .value = 切换到标签页：
 # Used to indicate that a selected autocomplete entry is provided by an extension.
