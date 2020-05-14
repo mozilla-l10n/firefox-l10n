@@ -148,5 +148,10 @@ urlbar-placeholder =
     .placeholder = थंखौ नागिर एबा हाबहो
 urlbar-switch-to-tab =
     .value = टेबाव थां:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = बारायनायफोर:
 urlbar-go-end-cap =
     .tooltiptext = लकेसन बारनि थंआव थां
+urlbar-pocket-button =
+    .tooltiptext = पोकेटव थिना दोन
