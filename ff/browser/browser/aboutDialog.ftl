@@ -30,3 +30,14 @@ helpus = Aɗa yiɗi wallude?<label data-l10n-name="helpus-donateLink">Addu dokka
 bottomLinks-license = Humpito yamiroore
 bottomLinks-rights = Jojjanɗe Kuutoro
 bottomLinks-privacy = Dawirgol Suturo
+# Example of resulting string: 66.0.1 (64-bit)
+# Variables:
+#   $version (String): version of Firefox, e.g. 66.0.1
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version = { $yamre } ({ $bits }-bit)
+# Example of resulting string: 66.0a1 (2019-01-16) (64-bit)
+# Variables:
+#   $version (String): version of Firefox for Nightly builds, e.g. 66.0a1
+#   $isodate (String): date in ISO format, e.g. 2019-01-16
+#   $bits (Number): bits of the architecture (32 or 64)
+aboutDialog-version-nightly = { $yamre } ({ $isodate }) ({ $bits }-bit)
