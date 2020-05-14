@@ -233,3 +233,5 @@ urlbar-placeholder =
     .placeholder = ค้นหาหรือป้อนที่อยู่
 urlbar-switch-to-tab =
     .value = สลับไปยังแท็บ:
+urlbar-go-end-cap =
+    .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
