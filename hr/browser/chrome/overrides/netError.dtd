@@ -59,7 +59,7 @@
 
 <!ENTITY notCached.title "Dokument je istekao">
 
-<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u &brandShortName;ovoj priručnoj memoriji.</p><ul><li>. Radi mjere sigurnosti, &brandShortName; neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Klikni na Pokušaj ponovo za ponovno traženje dokumenta od web stranice.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Traženi dokument nije dostupan u priručnoj memoriji &brandShortName;a.</p><ul><li>. Iz sigurnosnih razloga, &brandShortName; neće automatski ponovo zatražiti osjetljive dokumente.</li><li>Pritisni gumb „Pokušaj ponovo” za ponovno traženje dokumenta s web-stranice.</li></ul>">
 
 <!ENTITY netOffline.title "Izvanmrežni rad">
 
