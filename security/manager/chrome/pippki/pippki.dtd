@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Iarrtar ort muinín a bheith agat as Údarás Deimhniúcháin nua.">
 <!ENTITY downloadCert.trustSSL "Tá muinín agat as an údarás deimhniúcháin seo chun suímh Ghréasáin a shainaithint.">
 <!ENTITY downloadCert.trustEmail "Tá muinín agat as an údarás deimhniúcháin seo chun úsáideoirí ríomhphoist a shainaithint.">
-<!ENTITY downloadCert.trustObjSign "Tá muinín agat as an údarás deimhniúcháin seo chun déantóirí bogearraí a shainaithint.">
 <!ENTITY downloadCert.message3 "Sula gcuireann tú muinín san údarás deimhniúcháin seo, ba cheart duit a theastas, a pholasaithe agus a mhodhanna oibre a scrúdú má tá fáil orthu.">
 <!ENTITY downloadCert.viewCert.label "Amharc">
 <!ENTITY downloadCert.viewCert.text "Scrúdaigh Teastas an Údaráis Deimhniúcháin">

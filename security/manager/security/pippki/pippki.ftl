@@ -8,6 +8,7 @@ password-quality-meter = Tomhais ar cháilíocht fhocail faire
 
 change-password-window =
     .title = Athraigh an Príomhfhocal Faire
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Gléas Slándála: { $tokenName }

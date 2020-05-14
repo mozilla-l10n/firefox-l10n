@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Faoin Chóras Ama Rite">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monatóir">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Sainroghanna Gléis">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "G">
 <!ENTITY runtimeMenu_showSettings_label "Socruithe an Ghléis">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Oscail Aip">
+
 <!ENTITY runtimeButton_label "Roghnaigh Córas Ama Rite">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "Cluaisíní">
 <!ENTITY runtimePanel_usb "Gléasanna USB">
 <!ENTITY runtimePanel_wifi "Gléasanna Wi-Fi">
-<!ENTITY runtimePanel_simulator "Ionsamhlóirí">
 <!ENTITY runtimePanel_other "Eile">
-<!ENTITY runtimePanel_installsimulator "Suiteáil Ionsamhlóir">
-<!ENTITY runtimePanel_noadbhelper "Suiteáil Cúntóir ADB">
 <!ENTITY runtimePanel_nousbdevice "Nach bhfuil tú in ann do ghléas a fheiceáil?">
 <!ENTITY runtimePanel_refreshDevices_label "Athnuaigh na Gléasanna">
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "Roghnaigh teimpléad">
 <!ENTITY newAppLoadingTemplate "Teimpléid á lódáil…">
 <!ENTITY newAppProjectName "Ainm an Tionscadail:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Faoin Chóras Ama Rite">
-<!ENTITY runtimedetails_adbIsRoot "Is é ADB an fréamh: ">
-<!ENTITY runtimedetails_summonADBRoot "fréamhghléas">
-<!ENTITY runtimedetails_ADBRootWarning "(lódálaí tosaithe díghlasáilte de dhíth)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Ceadanna DevTools gan srian: ">
-<!ENTITY runtimedetails_requestPrivileges "iarr ceadanna níos airde">
-<!ENTITY runtimedetails_privilegesWarning "(Atosófar an gléas. An forúsáideoir amháin.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "Boole">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "Cruthaigh socrú nua">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "Monatóir">
-<!ENTITY monitor_help "Cabhair">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -176,17 +167,3 @@
 <!ENTITY logs_title "Logchomhad Réamhphacáistithe">
 <!-- Simulator Options -->
 
-<!ENTITY simulator_title "Roghanna an Ionsamhlóra">
-<!ENTITY simulator_remove "Scrios an tIonsamhlóir">
-<!ENTITY simulator_reset "Athchóirigh na Réamhshocruithe">
-<!ENTITY simulator_name "Ainm">
-<!ENTITY simulator_software "Bogearra">
-<!ENTITY simulator_version "Leagan">
-<!ENTITY simulator_profile "Próifíl">
-<!ENTITY simulator_hardware "Crua-earra">
-<!ENTITY simulator_device "Gléas">
-<!ENTITY simulator_screenSize "Scáileán">
-<!ENTITY simulator_pixelRatio "Cóimheas Picteilíní">
-<!ENTITY simulator_tv_data "Ionsamhlúchán TV">
-<!ENTITY simulator_tv_data_open "Sonraí Cumraíochta">
-<!ENTITY simulator_tv_data_open_button "Oscail Comhadlann Chumraíochta…">

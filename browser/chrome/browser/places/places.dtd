@@ -70,22 +70,13 @@
 <!ENTITY cmd.new_separator.label           "Deighilteoir Nua">
 <!ENTITY cmd.new_separator.accesskey       "D">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Athlódáil an Leabharmharc Beo">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "L">
-
-<!ENTITY cmd.moveBookmarks.label                  "Bog…">
-<!ENTITY cmd.moveBookmarks.accesskey              "B">
-
 <!ENTITY col.name.label          "Ainm">
 <!ENTITY col.tags.label          "Clibeanna">
 <!ENTITY col.url.label           "Suíomh">
 <!ENTITY col.mostrecentvisit.label "Cuairt is Déanaí">
 <!ENTITY col.visitcount.label    "Méid Cuairteanna">
-<!ENTITY col.description.label   "Cur Síos">
 <!ENTITY col.dateadded.label     "Cruthaithe">
 <!ENTITY col.lastmodified.label  "Athraithe">
-
-<!ENTITY search.placeholder  "Cuardaigh">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -97,10 +88,6 @@
 
 <!ENTITY forwardButton.tooltip  "Ar Aghaidh">
 
-<!ENTITY detailsPane.more.label "Níos Mó">
-<!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Níos Lú">
-<!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.selectAnItemText.description "Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar">
 
 <!ENTITY view.label               "Amharc">

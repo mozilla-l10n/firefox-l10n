@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Tharla earráid fad agus a bhí an tuairisc á seoladh. Déan arís ar ball é.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = An bhfuil an suíomh deisithe? Seol tuairisc
 
@@ -15,6 +16,7 @@ protections-panel-sitefixedsendreport-label = An bhfuil an suíomh deisithe? Seo
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Tuilleadh eolais faoi Ardchosaint ar Lorgaireacht
+
 protections-panel-etp-on-header = Tá Ardchosaint ar Lorgaireacht AR SIÚL don suíomh seo
 protections-panel-etp-off-header = Tá Ardchosaint ar Lorgaireacht MÚCHTA don suíomh seo
 
@@ -26,6 +28,7 @@ protections-panel-not-blocking-why-label = Cén fáth?
 ##
 
 protections-panel-content-blocking-tracking-protection = Ábhar Lorgaireachta
+
 protections-panel-content-blocking-socialblock = Lorgairí Meán Sóisialta
 protections-panel-content-blocking-cryptominers-label = Criptimhianadóirí
 protections-panel-content-blocking-fingerprinters-label = Méarlorgairí
@@ -53,6 +56,7 @@ protections-panel-site-not-working-view-issue-list-forms = Foirmeacha
 protections-panel-site-not-working-view-issue-list-payments = Íocaíochtaí
 protections-panel-site-not-working-view-issue-list-comments = Nótaí tráchta
 protections-panel-site-not-working-view-issue-list-videos = Físeáin
+
 protections-panel-site-not-working-view-send-report = Seol tuairisc
 
 ##
@@ -60,6 +64,7 @@ protections-panel-site-not-working-view-send-report = Seol tuairisc
 protections-panel-content-blocking-manage-settings =
     .label = Bainistigh na Socruithe Cosanta
     .accesskey = B
+
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

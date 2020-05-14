@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Faigh ar Google Play é
 login-app-promo-apple =
     .alt = Íoslódáil ón App Store
+
 login-filter =
     .placeholder = Cuardaigh Focal Faire
+
 create-login-button = Cruthaigh Logáil Isteach Nua
+
 fxaccounts-sign-in-text = Faigh do chuid focal faire ar ghléasanna eile
 fxaccounts-sign-in-button = Logáil isteach i { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -24,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Oscail an roghchlár
-# This menuitem is only visible on Windows
-menu-menuitem-import = Iompórtáil Focail Fhaire…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Roghanna
@@ -42,7 +43,6 @@ login-list =
 login-list-sort-label-text = Sórtáil de réir:
 login-list-name-option = Ainm (A-Z)
 login-list-name-reverse-option = Ainm (Z-A)
-login-list-breached-option = Suímh a ndearnadh bradaíl orthu
 login-list-last-changed-option = Athraithe
 login-list-last-used-option = Úsáidte
 login-list-intro-title = Níor aimsíodh aon fhocal faire
@@ -83,6 +83,12 @@ login-item-time-changed = Athrú is déanaí: { DATETIME($timeChanged, day: "num
 login-item-time-created = Cruthaithe: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Úsáid is déanaí: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-reload-button =
@@ -100,16 +106,16 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cealaigh
 confirmation-dialog-dismiss-button =
     .title = Cealaigh
+
 about-logins-confirm-remove-dialog-title = Bain an Focal Faire seo?
 confirm-delete-dialog-message = Ní féidir an gníomh seo a chur ar ceal.
 about-logins-confirm-remove-dialog-confirm-button = Bain
+
 confirm-discard-changes-dialog-confirm-button = Cuileáil
 
 ## Breach Alert notification
 
-breach-alert-link = Tuilleadh eolais faoin sárú seo.
-breach-alert-dismiss =
-    .title = Dún an foláireamh seo
+## Vulnerable Password notification
 
 ## Error Messages
 

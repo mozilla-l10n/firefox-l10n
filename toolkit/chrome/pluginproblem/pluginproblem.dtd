@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
-<!ENTITY pluginActivationWarning                             "Úsáideann an suíomh seo forlíontán a chuireann moill ar &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Tapáil anseo chun an forlíontán a chur i ngníomh.">
 <!ENTITY clickToActivatePlugin                               "Gníomhachtaigh an forlíontán.">
 <!ENTITY checkForUpdates                                     "Lorg nuashonruithe…">
 <!ENTITY blockedPlugin.label                                 "Tá cosc curtha ar an bhforlíontán seo le tú a chosaint.">
 <!ENTITY hidePluginBtn.label                                 "Cuir an forlíontán i bhfolach">
 <!ENTITY managePlugins                                       "Bainistigh forlíontáin…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

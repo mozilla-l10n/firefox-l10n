@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Clófhoirne
+
 fonts-window-close =
     .key = w
 
@@ -73,24 +74,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Cló Il-Leithid
     .accesskey = L
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Clómhéid
     .accesskey = m
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Cló Aonleithid
     .accesskey = A
+
 fonts-monospace-size = Clómhéid
     .accesskey = d
+
 fonts-minsize = Clómhéid is lú
     .accesskey = l
+
 fonts-minsize-none =
     .label = Gan sonrú
+
 fonts-allow-own =
     .label = Tabhair cead do leathanaigh a gclónna féin a roghnú, in áit mo roghanna thuas
     .accesskey = b
@@ -102,6 +112,7 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Ionchódú Carachtar le haghaidh Ábhair Oidhreachta
 fonts-languages-fallback-desc = Úsáidtear an t-ionchódú carachtar le haghaidh ábhair oidhreachta nuair nach bhfuil a ionchódú fógartha.
+
 fonts-languages-fallback-name-auto =
     .label = Réamhshocrú don Teanga Reatha
 fonts-languages-fallback-name-arabic =
@@ -134,9 +145,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vítneamais
 fonts-languages-fallback-name-other =
     .label = Eile (Iarthar na hEorpa san áireamh)
-fonts-very-large-warning-title = Íosmhéid mhór clónna
-fonts-very-large-warning-message = Roghnaigh tú íosmhéid an-mhór do chlónna (níos mó ná 24 picteilín). Seans go mbeidh sé deacair nó dodhéanta roinnt leathanach cumraíochta, cosúil leis an gceann seo, a úsáid.
-fonts-very-large-warning-accept = Coinnigh mo chuid athruithe mar sin féin
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

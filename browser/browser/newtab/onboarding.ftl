@@ -19,9 +19,12 @@ onboarding-button-label-get-started = Tús Maith
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Fáilte go { -brand-short-name }
+
 onboarding-cards-dismiss =
     .title = Ruaig
     .aria-label = Ruaig
+
+## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
@@ -33,7 +36,9 @@ onboarding-cards-dismiss =
 ## description.
 
 onboarding-benefit-products-title = Táirgí Úsáideacha
+
 onboarding-benefit-privacy-title = Fíorphríobháideachas
+
 
 ## These strings belong to the individual onboarding messages.
 
@@ -43,9 +48,13 @@ onboarding-benefit-privacy-title = Fíorphríobháideachas
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Brabhsáil Phríobháideach
+
 onboarding-addons-title = Breiseáin
+
 onboarding-ghostery-title = Ghostery
+
 onboarding-tracking-protection-button2 = Conas a oibríonn sé
+
 
 ## Message strings belonging to the Return to AMO flow
 
