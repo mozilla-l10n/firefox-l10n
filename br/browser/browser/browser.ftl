@@ -64,6 +64,7 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = Skrivit nebeutoc'h, kavit muioc'h: Klaskit war { $engineName } adalek ho parrenn chomlec'h.
+urlbar-search-tips-redirect-2 = Krogit ho klask er varrenn-chomlec'h evit gwelout alioù klask { $engineName } hag ho roll istor merdeiñ.
 
 ##
 
@@ -108,6 +109,8 @@ page-action-manage-extension =
     .label = Merañ an askouezh...
 page-action-remove-from-urlbar =
     .label = Lemel kuit diouzh ar varrenn chomlec'h
+page-action-remove-extension =
+    .label = Dilemel an askouezh
 
 ## Auto-hide Context Menu
 
@@ -203,6 +206,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Bihanaat
+browser-window-maximize-button =
+    .tooltiptext = Brasaat
+browser-window-restore-down-button =
+    .tooltiptext = Assav
 browser-window-close-button =
     .tooltiptext = Serriñ
 
@@ -218,6 +225,7 @@ popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Evit ober gant ar verradenn F12, digorit DevTools dre al lañser diorroen web.
 
 ## URL Bar
 

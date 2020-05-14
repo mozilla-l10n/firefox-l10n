@@ -128,10 +128,7 @@ cfr-whatsnew-lockwise-take-link-text = Kaout an arload
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Skrivit nebeutoc'h ha kavit muioc'h gant ar varrenn chomlec'hioù
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Kit betek al lec'hiennoù a weladennit an aliesañ gant ur c'hlik hepken er varrenn-chomlec'h. Kavit traoù buanoc'h gant disoc'hoù { $searchEngineName } hag ho roll istor merdeiñ.
-cfr-whatsnew-searchbar-body-generic = Kit betek al lec'hiennoù a weladennit an aliesañ gant ur c'hlik hepken er varrenn-chomlec'h. Kavit traoù buanoc'h gant disoc'hoù enklask hag ho roll istor merdeiñ.
+cfr-whatsnew-searchbar-body-topsites = Bremañ, diuzit ar varrenn chomlec'hioù, ha dont a raio war wel ur voest gant ereoù etrezek ho lec'hiennoù gwellañ.
 cfr-whatsnew-searchbar-icon-alt-text = Arlun gwerenn-greskiñ
 
 ## Picture-in-Picture
@@ -223,3 +220,16 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Gwelet pep tra
     .accesskey = G
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Krouit gerioù-tremen en un doare aes
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
