@@ -375,14 +375,48 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.accesskey          "K">
 <!ENTITY pasteCmd.label           "Wraź">
 <!ENTITY pasteCmd.key           "V">
+<!ENTITY pasteCmd.accesskey         "z">
+<!ENTITY deleteCmd.label          "Skasuj">
+<!ENTITY deleteCmd.key            "D">
+<!ENTITY deleteCmd.accesskey        "s">
+<!ENTITY selectAllCmd.label         "Ôbier wszysko">
+<!ENTITY selectAllCmd.key         "A">
+<!ENTITY selectAllCmd.accesskey       "a">
+<!ENTITY preferencesCmd2.label       "Ôpcyje">
+<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmdUnix.label       "Preferyncyje">
+<!ENTITY preferencesCmdUnix.accesskey     "n">
+<!ENTITY logins.label                           "Dane logowanio i hasła">
 
+<!ENTITY clearRecentHistory.label               "Wypucuj niydowno historyjo…">
 
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
+<!ENTITY viewMenu.label         "Pokoż">
+<!ENTITY viewMenu.accesskey       "P">
+<!ENTITY viewToolbarsMenu.label       "Poski z noczyniami">
+<!ENTITY viewToolbarsMenu.accesskey     "P">
+<!ENTITY viewSidebarMenu.label "Lajsta na rancie">
+<!ENTITY viewSidebarMenu.accesskey "l">
 
+<!ENTITY viewCustomizeToolbar.label       "Przipasuj…">
+<!ENTITY viewCustomizeToolbar.accesskey     "p">
+<!ENTITY overflowCustomizeToolbar.label       "Przipasuj posek z noczyniami…">
+<!ENTITY overflowCustomizeToolbar.accesskey   "p">
 
+<!ENTITY historyMenu.label "Historyjo">
+<!ENTITY historyMenu.accesskey "h">
+<!ENTITY historyUndoMenu.label "Niydowno zawarte karty">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Niydowno zawarte ôkna">
+<!ENTITY historyRestoreLastSession.label "Wrōć ôstatnio sesyjo">
 
+<!ENTITY showAllHistoryCmd2.label "Pokoż cołko historyjo">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuHistory.showAll.label "Pokoż cołko historyjo">
+<!ENTITY appMenuHistory.clearRecent.label "Wypucuj niydowno historyjo…">
+<!ENTITY appMenuHistory.restoreSession.label "Wrōć ôstatnio sesyjo">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
