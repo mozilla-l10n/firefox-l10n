@@ -190,3 +190,5 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Pārslēgties uz cilni:
