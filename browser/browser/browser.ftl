@@ -229,5 +229,16 @@ enable-devtools-popup-description = Чтобы использовать клав
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Введите поисковый запрос или адрес
+urlbar-placeholder =
+    .placeholder = Введите поисковый запрос или адрес
 urlbar-permissions-granted =
     .tooltiptext = Вы предоставили этому веб-сайту дополнительные разрешения.
+urlbar-switch-to-tab =
+    .value = Перейти на вкладку:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Расширение:
+urlbar-go-end-cap =
+    .tooltiptext = Перейти по введённому адресу
