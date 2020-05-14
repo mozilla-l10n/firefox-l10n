@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Idatzi bilaketa edo helbidea
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Nabigatzailea urruneko agintepean dago
+urlbar-permissions-granted =
+    .tooltiptext = Baimen bereziak eman dizkiozu webgune honi.
 urlbar-switch-to-tab =
     .value = Aldatu fitxara:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
