@@ -171,3 +171,5 @@ popup-all-windows-shared = Comhroinnfear gach fuinneog infheicthe ar do scáile�
 
 ## URL Bar
 
+urlbar-pocket-button =
+    .tooltiptext = Sábháil i b{ -pocket-brand-name }
