@@ -68,6 +68,7 @@ login-intro-heading = Njiilotoɗaa ko ceŋorɗe maa danndaaɗe? Teelto { -sync-b
 about-logins-login-intro-heading-logged-in = Alaa ceŋorɗe jahdinaaɗe njiytaa.
 login-intro-description = So a danndii ceŋorɗe maa e { -brand-product-name } e kaɓirgal goɗngal, ko nii keɓirtaaɗe ɗoo:
 login-intro-instruction-fxa = Sos walla seŋo e { -fxaccount-brand-name } maa e kaɓirgal ngal ɗo ceŋorɗe maa ndanndaa
+login-intro-instruction-fxa-settings = Yanane a suɓiima boyet ceŋorɗe ɗee nder teelte { -sync-brand-short-name }
 
 ## Login
 
