@@ -228,6 +228,8 @@ urlbar-placeholder =
     .placeholder = Serĉu ion aŭ tajpu adreson
 urlbar-remote-control-notification-anchor =
     .tooltiptext = La retumilo estas sub fora regado
+urlbar-permissions-granted =
+    .tooltiptext = Vi aldonis permesojn al tiu ĉi retejo.
 urlbar-switch-to-tab =
     .value = Iri al langeto:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
