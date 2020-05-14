@@ -230,6 +230,8 @@ urlbar-placeholder =
     .placeholder = Іздеу немесе адрес
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браузер қашықтан басқарылуда
+urlbar-permissions-granted =
+    .tooltiptext = Бұл веб-сайтқа қосымша рұқсаттарды бердіңіз.
 urlbar-switch-to-tab =
     .value = Бетке ауысу:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -239,3 +241,5 @@ urlbar-go-end-cap =
     .tooltiptext = Енгізілген адреске өту
 urlbar-page-action-button =
     .tooltiptext = Бет әрекеттері
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name }-ке сақтау
