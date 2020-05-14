@@ -228,5 +228,11 @@ popup-all-windows-shared = Сви видљиви прозори на екран�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Претражи или унеси адресу
+urlbar-placeholder =
+    .placeholder = Претражи или унеси адресу
+urlbar-switch-to-tab =
+    .value = Премести на језичак:
 urlbar-go-end-cap =
     .tooltiptext = Приказ адресе уписане у траку за адресе
