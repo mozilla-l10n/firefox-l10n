@@ -231,7 +231,11 @@ enable-devtools-popup-description = F12 단축키를 사용하려면, 먼저 웹
 
 urlbar-remote-control-notification-anchor =
     .tooltiptext = 브라우저가 원격 제어중
+urlbar-permissions-granted =
+    .tooltiptext = 이 웹 사이트에 추가 권한을 부여했습니다.
 urlbar-switch-to-tab =
     .value = 탭 전환:
 urlbar-page-action-button =
     .tooltiptext = 페이지 작업
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name }에 저장
