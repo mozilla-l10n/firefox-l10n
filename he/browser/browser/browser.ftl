@@ -228,5 +228,11 @@ popup-all-windows-shared = ישותפו כל החלונות הגלויים על 
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = חיפוש או הקלדת כתובת
+urlbar-placeholder =
+    .placeholder = חיפוש או הקלדת כתובת
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = הדפדפן נשלט מרחוק
 urlbar-go-end-cap =
     .tooltiptext = מעבר לכתובת שבסרגל המיקום
