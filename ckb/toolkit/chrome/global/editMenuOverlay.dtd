@@ -30,3 +30,7 @@
 <!ENTITY findCmd.accesskey         "F">
 <!ENTITY findAgainCmd.label        "دووبارە بگەڕێ">
 <!ENTITY findAgainCmd.key          "G">
+<!ENTITY findAgainCmd.key2         "VK_F3">
+<!ENTITY findAgainCmd.accesskey    "g">
+<!ENTITY findPreviousCmd.label     "پێشتر بدۆزرەوە">
+<!ENTITY findPreviousCmd.accesskey "v">
