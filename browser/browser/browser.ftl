@@ -229,12 +229,21 @@ enable-devtools-popup-description = F12 단축키를 사용하려면, 먼저 웹
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = 검색어 또는 주소 입력
+urlbar-placeholder =
+    .placeholder = 검색어 또는 주소 입력
 urlbar-remote-control-notification-anchor =
     .tooltiptext = 브라우저가 원격 제어중
 urlbar-permissions-granted =
     .tooltiptext = 이 웹 사이트에 추가 권한을 부여했습니다.
 urlbar-switch-to-tab =
     .value = 탭 전환:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = 확장 기능:
+urlbar-go-end-cap =
+    .tooltiptext = 주소 표시줄의 주소로 이동
 urlbar-page-action-button =
     .tooltiptext = 페이지 작업
 urlbar-pocket-button =
