@@ -43,3 +43,5 @@ customize-mode-undo-cmd =
     .label = Firtu
 customize-mode-lwthemes-my-themes =
     .value = Ciŋkooje Am
+customize-mode-touchbar-cmd =
+    .label = Heertin Touch Bar…
