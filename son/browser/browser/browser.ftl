@@ -154,3 +154,5 @@ popup-all-windows-shared = Zanfun kaŋ ga banga war dijoo ga kul ga žemnandi.
 
 ## URL Bar
 
+urlbar-go-end-cap =
+    .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
