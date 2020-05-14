@@ -273,15 +273,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Dostymp tyj strōny do kamery je zaszperowany.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Dostymp tyj strōny do mikrofōnu je zaszperowany.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Udostympnianie ôd tyj strōny twojigo ekranu je zaszperowane.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Udostympnianie tyj strōnie informacyji ô twojim placu je zaszperowane.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Powiadōmiynia z tyj strōny sōm zaszperowane.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Chrōniynie ôd tyj strōny danych we pamiyńci trwałyj je zaszperowane.">
+<!ENTITY urlbar.popupBlocked.tooltip             "Wyskakujōnce ôkna na tyj strōnie sōm zaszperowane.">
+<!ENTITY urlbar.autoplayMediaBlocked.tooltip     "Autōmatyczne puszczanie mydiōw z klangiym na tyj strōnie je zaszperowane.">
+<!ENTITY urlbar.canvasBlocked.tooltip            "Ekstrakcyjo danych canva na tyj strōnie je zaszperowano.">
+<!ENTITY urlbar.midiBlocked.tooltip              "Dostymp tyj strōny do maszin MIDI je zaszperowany.">
+<!ENTITY urlbar.installBlocked.tooltip           "Instalacyjo przidowek na tyj strōnie je zaszperowano.">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ta strōna dostała ekstra zgody.">
 
 
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Pokoż historyjo">
 
 
-
+<!ENTITY searchItem.title             "Szukej">
 
 <!-- Toolbar items -->
+<!ENTITY homeButton.label             "Dōmowo strōna">
+<!ENTITY homeButton.defaultPage.tooltip "Dōmowo strōna &brandShortName;">
 
+<!ENTITY bookmarksButton.label          "Zokłodki">
+<!ENTITY bookmarksCmd.commandkey "b">
 
+<!ENTITY bookmarksSubview.label             "Zokłodki">
+<!ENTITY bookmarksMenuButton2.label         "Myni zokłodek">
+<!ENTITY bookmarksMenuButton.other.label    "Inksze zokłodki">
+<!ENTITY bookmarksMenuButton.mobile.label   "Zokłodki z mobilnioka">
+<!ENTITY viewBookmarksSidebar2.label        "Pokoż posek ze zokłodkami na rancie">
+<!ENTITY hideBookmarksSidebar.label         "Skryj posek ze zokłodkami na rancie">
+<!ENTITY viewBookmarksToolbar.label         "Pokoż posek ze zokłodkami">
+<!ENTITY hideBookmarksToolbar.label         "Skryj posek ze zokłodkami">
+<!ENTITY searchBookmarks.label              "Szukej we zokłodkach">
+<!ENTITY bookmarkingTools.label             "Noczynia przidowanio do zokłodek">
 
 <!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
