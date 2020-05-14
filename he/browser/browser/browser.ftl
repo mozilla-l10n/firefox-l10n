@@ -234,5 +234,14 @@ urlbar-placeholder =
     .placeholder = חיפוש או הקלדת כתובת
 urlbar-remote-control-notification-anchor =
     .tooltiptext = הדפדפן נשלט מרחוק
+urlbar-switch-to-tab =
+    .value = מעבר ללשונית:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = הרחבה:
 urlbar-go-end-cap =
     .tooltiptext = מעבר לכתובת שבסרגל המיקום
+urlbar-page-action-button =
+    .tooltiptext = פעולות דף
+urlbar-pocket-button =
+    .tooltiptext = שמירה אל { -pocket-brand-name }
