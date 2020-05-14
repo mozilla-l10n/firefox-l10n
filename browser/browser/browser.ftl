@@ -228,6 +228,8 @@ urlbar-placeholder =
     .placeholder = Մուտքագրեք կայքի հասցե կամ որոնում
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Դիտարկել հեռակա կառավարմամբ
+urlbar-permissions-granted =
+    .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
 # Used to indicate that a selected autocomplete entry is provided by an extension.
