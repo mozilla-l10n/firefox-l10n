@@ -229,6 +229,10 @@ enable-devtools-popup-description = Az F12 gyorsbillentyű használatához elős
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Keresés vagy cím
+urlbar-placeholder =
+    .placeholder = Keresés vagy cím
 urlbar-switch-to-tab =
     .value = Váltás erre a lapra:
 urlbar-go-end-cap =
