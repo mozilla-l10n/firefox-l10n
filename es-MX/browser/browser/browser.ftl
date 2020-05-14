@@ -242,3 +242,5 @@ urlbar-extension =
     .value = Extensión:
 urlbar-go-end-cap =
     .tooltiptext = Ir a la dirección en la Barra de ubicaciones.
+urlbar-pocket-button =
+    .tooltiptext = Guardar en { -pocket-brand-name }
