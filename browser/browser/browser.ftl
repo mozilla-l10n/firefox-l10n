@@ -238,7 +238,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-permissions-granted =
     .tooltiptext = Bu siteye ek izinler verdiniz.
 urlbar-switch-to-tab =
-    .value = Geçilecek sekme:
+    .value = Sekmeye geç:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Eklenti:
