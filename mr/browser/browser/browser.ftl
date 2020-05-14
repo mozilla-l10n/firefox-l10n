@@ -200,6 +200,10 @@ popup-all-windows-shared = पडद्यावरील सर्व दृष
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = शोधा किंवा पत्ता द्या
+urlbar-placeholder =
+    .placeholder = शोधा किंवा पत्ता द्या
 urlbar-remote-control-notification-anchor =
     .tooltiptext = ब्राउझर दूरस्थ नियंत्रणामध्ये आहे
 urlbar-switch-to-tab =
@@ -211,3 +215,5 @@ urlbar-go-end-cap =
     .tooltiptext = स्थान पट्टीतील पत्त्यावर जा
 urlbar-page-action-button =
     .tooltiptext = पृष्ठाच्या कृती
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name } मध्ये जतन करा
