@@ -55,6 +55,10 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Tafuta au uandike anwani
+urlbar-placeholder =
+    .placeholder = Tafuta au uandike anwani
 urlbar-switch-to-tab =
     .value = Badili kwa kichupo:
 urlbar-go-end-cap =
