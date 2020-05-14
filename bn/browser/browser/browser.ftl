@@ -219,3 +219,5 @@ popup-all-windows-shared = আপনার স্ক্রিনের সব �
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = ট্যাবে যান:
