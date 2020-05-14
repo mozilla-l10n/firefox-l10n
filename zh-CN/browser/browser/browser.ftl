@@ -244,3 +244,5 @@ urlbar-go-end-cap =
     .tooltiptext = 转到地址栏中指向的网址
 urlbar-page-action-button =
     .tooltiptext = 页面动作
+urlbar-pocket-button =
+    .tooltiptext = 保存到 { -pocket-brand-name }
