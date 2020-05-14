@@ -160,9 +160,13 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Momtu ndee seŋorde?
 confirm-delete-dialog-message = Ngal baɗal waawaa firteede.
 about-logins-confirm-remove-dialog-confirm-button = Ittu
+confirm-discard-changes-dialog-title = Faalkisaade bayle ɗe ndanndaaka?
+confirm-discard-changes-dialog-message = Bayle ɗe ndanndaaka fof ko baasateeɗe.
+confirm-discard-changes-dialog-confirm-button = Woppu
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Ciigol keɓe lowre geese
 
 ## Vulnerable Password notification
 
