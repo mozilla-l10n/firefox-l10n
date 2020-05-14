@@ -226,5 +226,7 @@ popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده �
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = پرش به زبانه:
 urlbar-go-end-cap =
     .tooltiptext = رفتن به نشانی موجود در نوار مکان
