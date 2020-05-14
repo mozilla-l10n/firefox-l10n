@@ -233,5 +233,12 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Pytaś abo adresu zapódaś
 urlbar-placeholder =
     .placeholder = Pytaś abo adresu zapódaś
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Wobglědowak se zdaloka wóźi
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Rozšyrjenje:
 urlbar-go-end-cap =
     .tooltiptext = K adresy w adresowem pólu
+urlbar-page-action-button =
+    .tooltiptext = Akcije boka
