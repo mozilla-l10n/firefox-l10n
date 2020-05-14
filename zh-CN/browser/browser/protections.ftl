@@ -115,6 +115,12 @@ monitor-header-content-no-account = 到 { -monitor-brand-name } 检测您是否�
 monitor-header-content-signed-in = 若您的信息出现在已知的数据外泄事件中，{ -monitor-brand-name } 会警示您。
 monitor-sign-up = 订阅数据外泄警报
 auto-scan = 今日已自动扫描
+monitor-emails-tooltip =
+    .title = 到 { -monitor-brand-short-name } 查看监控中的电子邮件地址
+monitor-breaches-tooltip =
+    .title = 到 { -monitor-brand-short-name } 查看已知的数据外泄事件
+monitor-passwords-tooltip =
+    .title = 到 { -monitor-brand-short-name } 查看遭泄露的密码
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
