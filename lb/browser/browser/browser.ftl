@@ -98,6 +98,10 @@ browser-window-close-button =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Sichen oder Adress aginn
+urlbar-placeholder =
+    .placeholder = Sichen oder Adress aginn
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
