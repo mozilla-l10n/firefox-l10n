@@ -207,3 +207,5 @@ urlbar-go-end-cap =
     .tooltiptext = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-page-action-button =
     .tooltiptext = পাতা পদক্ষেপ
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name } এ সংরক্ষণ করুন
