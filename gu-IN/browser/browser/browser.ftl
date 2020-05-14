@@ -218,3 +218,5 @@ urlbar-go-end-cap =
     .tooltiptext = સ્થાન પટ્ટીમાં સરનામા પર જાવ
 urlbar-page-action-button =
     .tooltiptext = પૃષ્ઠ ક્રિયાઓ
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name } પર સાચવો
