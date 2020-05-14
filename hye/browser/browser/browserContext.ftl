@@ -94,11 +94,29 @@ main-context-menu-open-link-container-tab =
 main-context-menu-open-link-new-window =
     .label = Յղումը բացել նոր պատուհանում
     .accesskey = W
+main-context-menu-open-link-new-private-window =
+    .label = Բացել յղումը նոր մասնաւոր պատուհանում
+    .accesskey = P
+main-context-menu-bookmark-this-link =
+    .label = էջանշել այս յղումը
+    .accesskey = L
+main-context-menu-save-link =
+    .label = Պահպանել յղումը որպէս…
+    .accesskey = k
+main-context-menu-save-link-to-pocket =
+    .label = Պահպանել յղումը { -pocket-brand-name }-ում
+    .accesskey = o
 
 ## The access keys for "Copy Link Location" and "Copy Email Address"
 ## should be the same if possible; the two context menu items
 ## are mutually exclusive.
 
+main-context-menu-copy-email =
+    .label = Պատճէնել Էլ. փոստի հասցէն
+    .accesskey = A
+main-context-menu-copy-link =
+    .label = Պատճէնել յղման հասցէն
+    .accesskey = a
 
 ## Media (video/audio) controls
 ##
@@ -106,13 +124,58 @@ main-context-menu-open-link-new-window =
 ## same because the two context-menu items are
 ## mutually exclusive.
 
+main-context-menu-media-play =
+    .label = Նուագարկել
+    .accesskey =
+        P
+        P
+        P
+        P
+        P
+        P
+        P
+main-context-menu-media-pause =
+    .label = Դադար
+    .accesskey = P
 
 ##
 
+main-context-menu-media-mute =
+    .label = Անձայն
+    .accesskey = M
+main-context-menu-media-unmute =
+    .label = Ձայնով
+    .accesskey = m
+main-context-menu-media-play-speed =
+    .label = Նուագարկելու արագութիւն
+    .accesskey = d
+main-context-menu-media-play-speed-slow =
+    .label = Դանդաղ (0.5×)
+    .accesskey = S
+main-context-menu-media-play-speed-normal =
+    .label = Սովորական
+    .accesskey = N
+main-context-menu-media-play-speed-fast =
+    .label = Արագ (1.25×)
+    .accesskey = F
+main-context-menu-media-play-speed-faster =
+    .label = Ավելի արագ (1,5×)
+    .accesskey = a
+# "Ludicrous" is a reference to the movie "Space Balls" and is meant
+# to say that this speed is very fast.
+main-context-menu-media-play-speed-fastest =
+    .label = Անհաւանական (2x)
+    .accesskey = L
+main-context-menu-media-loop =
+    .label = Օղակում
+    .accesskey = L
 
 ## The access keys for "Show Controls" and "Hide Controls" are the same
 ## because the two context-menu items are mutually exclusive.
 
+main-context-menu-media-show-controls =
+    .label = Ցուցադրել վերահսկիչներին
+    .accesskey = C
 
 ##
 
