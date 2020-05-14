@@ -65,6 +65,10 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Peyveke lêgerînê yan jî navnîşanek
+urlbar-placeholder =
+    .placeholder = Peyveke lêgerînê yan jî navnîşanek
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
 urlbar-go-end-cap =
