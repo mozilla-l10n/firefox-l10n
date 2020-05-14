@@ -203,4 +203,7 @@
 <!ENTITY dontShowMessage.label        "Ne pas afficher ce message quand des fenêtres popup sont bloquées">
 <!ENTITY dontShowMessage.accesskey    "N">
 
+<!ENTITY throbber.title "Throbber">
+<!ENTITY throbber.tooltip2 "Visiter le site web de &brandShortName;">
+
 <!ENTITY syncToolbarButton.label "Sync">
