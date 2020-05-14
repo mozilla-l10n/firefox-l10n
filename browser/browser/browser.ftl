@@ -173,6 +173,10 @@ popup-all-windows-shared = ඔබේ තිරයේ දිස්වෙන ස�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
+urlbar-placeholder =
+    .placeholder = ලිපිනය සොයන්න හෝ ඇතුලත් කරන්න
 urlbar-switch-to-tab =
     .value = ටැබයට මාරුවෙන්න:
 urlbar-go-end-cap =
