@@ -192,3 +192,16 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+urlbar-placeholder =
+    .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+urlbar-switch-to-tab =
+    .value = Puorslēgtīs iz cilni:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Paplošynuojums:
+urlbar-go-end-cap =
+    .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
+urlbar-page-action-button =
+    .tooltiptext = Lopys darbeibys
