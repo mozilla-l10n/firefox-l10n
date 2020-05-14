@@ -51,5 +51,7 @@ browser-window-minimize-button =
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Dem ci koñ bi:
 urlbar-go-end-cap =
     .tooltiptext = Dem ci xët wi ñu joxoñ ci banqaasu makkaan
