@@ -157,5 +157,16 @@ popup-all-windows-shared = Van compartise toles ventanes visibles na to pantalla
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Guetar o introducir direición
+urlbar-placeholder =
+    .placeholder = Guetar o introducir direición
+urlbar-switch-to-tab =
+    .value = Camudar a la llingüeta:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Estensión:
+urlbar-go-end-cap =
+    .tooltiptext = Va a la direición na barra d'allugamientos
 urlbar-page-action-button =
     .tooltiptext = Aiciones de la páxina
