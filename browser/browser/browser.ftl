@@ -173,5 +173,10 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ബ്രൗസർ വിദൂര നിയന്ത്രണത്തിലാണ്
 urlbar-switch-to-tab =
     .value = ഏതു് റ്റാബ്:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ‌‌എക്സ്ടെൻഷൻ:
 urlbar-go-end-cap =
     .tooltiptext = അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക
+urlbar-page-action-button =
+    .tooltiptext = പേജ് പ്രവർത്തനങ്ങൾ
