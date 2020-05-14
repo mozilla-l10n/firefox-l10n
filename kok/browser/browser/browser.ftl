@@ -2,47 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# This is the default window title in case there is no content
-# title to be displayed.
-#
-# Depending on the $mode, the string will look like this (in en-US):
-#
-# "default" - "Mozilla Firefox"
-# "private" - "Mozilla Firefox (Private Browsing)"
-#
-# Variables
-#   $mode (String) - "private" in case of a private browsing mode, "default" otherwise.
-browser-main-window-title =
-    { $mode ->
-        [private] { -brand-full-name } (खासगी ब्रावजींग)
-       *[default] { -brand-full-name }
-    }
-
-## This is the default window title in case there is content
-## title to be displayed.
-##
-## On macOS the title doesn't include the brand name, on all other
-## platforms it does.
-##
-## For example, in private mode on Windows, the title will be:
-## "Example Title - Mozilla Firefox (Private Browsing)"
-##
-## while on macOS in default mode it will be:
-## "Example Title"
-##
-## Variables
-##   $title (String) - Content title string.
-
-browser-main-window-content-title-default =
-    { PLATFORM() ->
-        [macos] { $title }
-       *[other] { $title } - { -brand-full-name }
-    }
-browser-main-window-content-title-private =
-    { PLATFORM() ->
-        [macos] { $title } - (खासगी ब्रावजींग)
-       *[other] { $title } - { -brand-full-name } (खासगी ब्रावजींग)
-    }
 
 ## Tooltips for images appearing in the address bar
 
@@ -51,9 +10,6 @@ browser-main-window-content-title-private =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
-
-
-##
 
 
 ##
@@ -111,3 +67,17 @@ popup-select-microphone =
     .value = वाटून घेवपाक मायक्रोफोन:
     .accesskey = M
 popup-all-windows-shared = तुमच्या पड्ड्यावयले सगळे दिसपी विंडोज वाटून घेतले वतले.
+
+## DevTools F12 popup
+
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = सोदात वो नामो दियात
+urlbar-placeholder =
+    .placeholder = सोदात वो नामो दियात
+urlbar-switch-to-tab =
+    .value = टॅबाचेर स्विच करचें:
+urlbar-go-end-cap =
+    .tooltiptext = थळ पट्टेन नाम्यान वचात
