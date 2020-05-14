@@ -229,5 +229,11 @@ enable-devtools-popup-description = For å bruke F12-snarveien, må du først å
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Søk eller skriv inn adresse
+urlbar-placeholder =
+    .placeholder = Søk eller skriv inn adresse
+urlbar-switch-to-tab =
+    .value = Bytt til fane:
 urlbar-go-end-cap =
     .tooltiptext = Gå til adressen i adresselinjen
