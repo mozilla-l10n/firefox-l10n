@@ -222,3 +222,5 @@ popup-all-windows-shared = Thèid gach uinneag a tha ri fhaicinn air an sgrìn a
 
 ## URL Bar
 
+urlbar-go-end-cap =
+    .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
