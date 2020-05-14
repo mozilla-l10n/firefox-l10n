@@ -194,6 +194,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Yiylo walla naatnu ñiiɓirde
 urlbar-placeholder =
     .placeholder = Yiylo walla naatnu ñiiɓirde
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Wanngorde woni ko e yuurnito woɗɗungo
 urlbar-switch-to-tab =
     .value = Yah to tabbere:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
