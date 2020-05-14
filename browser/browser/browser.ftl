@@ -223,3 +223,8 @@ popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده �
 
 ## DevTools F12 popup
 
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = رفتن به نشانی موجود در نوار مکان
