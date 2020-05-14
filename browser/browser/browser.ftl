@@ -226,3 +226,14 @@ popup-all-windows-shared = Todas las ventanas visibles en tu pantalla se compart
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Para usar el atajo F12, primero abre DevTools a través del menú de Desarrollador Web
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Término de búsqueda o dirección
+urlbar-placeholder =
+    .placeholder = Término de búsqueda o dirección
+urlbar-switch-to-tab =
+    .value = Cambiar a la pestaña:
+urlbar-go-end-cap =
+    .tooltiptext = Ir a la dirección en la Barra de ubicaciones.
