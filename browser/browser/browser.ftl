@@ -233,6 +233,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Søk eller skriv inn ei adresse
 urlbar-placeholder =
     .placeholder = Søk eller skriv inn ei adresse
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Nettlesaren er under fjernstyring
 urlbar-switch-to-tab =
     .value = Byt til fane:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -240,3 +242,5 @@ urlbar-extension =
     .value = Utviding:
 urlbar-go-end-cap =
     .tooltiptext = Gå til adressa i adresselinja
+urlbar-page-action-button =
+    .tooltiptext = Sidehandlingar
