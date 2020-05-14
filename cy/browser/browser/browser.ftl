@@ -229,6 +229,10 @@ enable-devtools-popup-description = I ddefnyddio llwybr byr F12 agorwch DevTools
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Chwilio neu gyfeiriad gwe
+urlbar-placeholder =
+    .placeholder = Chwilio neu gyfeiriad gwe
 urlbar-switch-to-tab =
     .value = Newid i dab:
 urlbar-go-end-cap =
