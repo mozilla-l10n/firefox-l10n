@@ -250,3 +250,10 @@ popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obr
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Pokud chcete používat zkratku F12, otevřete nejprve DevTools z nabídky Nástroje pro vývojáře.
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = Přepnout na panel:
+urlbar-go-end-cap =
+    .tooltiptext = Přejde na adresu v adresním řádku
