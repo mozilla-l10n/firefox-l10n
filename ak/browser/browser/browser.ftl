@@ -57,3 +57,7 @@ popup-select-microphone =
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Swekye kɔ tab:
+urlbar-go-end-cap =
+    .tooltiptext = Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu
