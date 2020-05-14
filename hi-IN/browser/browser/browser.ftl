@@ -215,3 +215,21 @@ popup-all-windows-shared = आपके स्क्रीन पर सभी �
 
 ## DevTools F12 popup
 
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = खोजें या पता दर्ज करें
+urlbar-placeholder =
+    .placeholder = खोजें या पता दर्ज करें
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ब्राउज़र रिमोट कंट्रोल के तहत है
+urlbar-switch-to-tab =
+    .value = टैब में जाएँ:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = विस्तारक:
+urlbar-go-end-cap =
+    .tooltiptext = स्थान पट्टी पर पता में जाएँ
+urlbar-page-action-button =
+    .tooltiptext = पृष्ठ क्रियाएँ
