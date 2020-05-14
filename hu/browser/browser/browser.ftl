@@ -229,5 +229,7 @@ enable-devtools-popup-description = Az F12 gyorsbillentyű használatához elős
 
 ## URL Bar
 
+urlbar-switch-to-tab =
+    .value = Váltás erre a lapra:
 urlbar-go-end-cap =
     .tooltiptext = Ugrás a címmezőben levő címre
