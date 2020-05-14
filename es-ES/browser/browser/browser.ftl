@@ -226,3 +226,8 @@ popup-all-windows-shared = Se compartirán todas las ventanas visibles en su pan
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Para usar el acceso directo F12, primero abra las herramientas de desarrollo a través del menú Desarrollador web
+
+## URL Bar
+
+urlbar-page-action-button =
+    .tooltiptext = Acciones con la página
