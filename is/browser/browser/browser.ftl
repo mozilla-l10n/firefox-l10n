@@ -195,3 +195,18 @@ popup-all-windows-shared = Öllum sýnilegum gluggum á skjánum verður deilt.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Leita eða sláðu inn veffang
+urlbar-placeholder =
+    .placeholder = Leita eða sláðu inn veffang
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Vafri er á fjarstýringu
+urlbar-switch-to-tab =
+    .value = Fara á flipa:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Skráarending:
+urlbar-go-end-cap =
+    .tooltiptext = Hoppa á tengilinn sem er í staðsetningarslánni
+urlbar-page-action-button =
+    .tooltiptext = Síðu aðgerðir
