@@ -246,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Ugrás a címmezőben levő címre
 urlbar-page-action-button =
     .tooltiptext = Oldalműveletek
+urlbar-pocket-button =
+    .tooltiptext = Mentés a { -pocket-brand-name }be
