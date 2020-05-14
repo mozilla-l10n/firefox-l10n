@@ -208,6 +208,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Termen a mirar u adreza
 urlbar-placeholder =
     .placeholder = Termen a mirar u adreza
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Lo navegador ye controlau a distancia
 urlbar-switch-to-tab =
     .value = Ir ta la pestanya:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
