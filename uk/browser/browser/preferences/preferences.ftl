@@ -34,7 +34,7 @@ search-input-box =
             [windows] Знайти в налаштуваннях
            *[other] Знайти в налаштуваннях
         }
-managed-notice = Вашим браузером керує ваша організація.
+managed-notice = Цей { -brand-short-name } керується вашою організацією.
 pane-general-title = Загальні
 category-general =
     .tooltiptext = { pane-general-title }
@@ -126,7 +126,7 @@ use-firefox-sync = Підказка: При цьому використовую�
 get-started-not-logged-in = Увійти в { -sync-brand-short-name(case: "acc") }…
 get-started-configured = Відкрити налаштування { -sync-brand-short-name(case: "dat") }
 always-check-default =
-    .label = Завжди перевіряти чи є { -brand-short-name } типовим браузером
+    .label = Завжди перевіряти чи { -brand-short-name } типовий браузер
     .accesskey = б
 is-default = { -brand-short-name } зараз ваш типовий браузер
 is-not-default = { -brand-short-name } не є вашим типовим браузером
@@ -137,7 +137,7 @@ startup-restore-previous-session =
     .label = Відновити попередній сеанс
     .accesskey = В
 startup-restore-warn-on-quit =
-    .label = Попереджати при виході з браузера
+    .label = Попереджати при виході з { -brand-short-name }
 disable-extension =
     .label = Вимкнути розширення
 tabs-group-header = Вкладки
@@ -765,7 +765,7 @@ sync-fxa-privacy-notice = Повідомлення про приватність
 
 ## Privacy Section
 
-privacy-header = Приватність браузера
+privacy-header = Приватність { -brand-short-name }
 
 ## Privacy Section - Forms
 
@@ -975,7 +975,7 @@ content-blocking-all-windows-trackers = Відомі елементи стеже
 content-blocking-all-windows-tracking-content = Стеження у всіх вікнах
 content-blocking-all-third-party-cookies = Усі сторонні куки
 content-blocking-cryptominers = Криптомайнери
-content-blocking-fingerprinters = Зчитування відбитку браузера
+content-blocking-fingerprinters = Зчитування цифрового відбитка
 content-blocking-warning-title = Увага!
 content-blocking-warning-description = Блокування вмісту може пошкоджувати роботу деяких вебсайтів. Можна легко вимкнути блокування для сайтів, яким ви довіряєте.
 content-blocking-learn-how = Навчитися
@@ -1011,7 +1011,7 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = Зчитування відбитку браузера
+    .label = Зчитування цифрового відбитка
     .accesskey = к
 
 ## Privacy Section - Tracking
@@ -1070,7 +1070,7 @@ permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
 permissions-a11y-privacy-checkbox =
-    .label = Не дозволяти сервісам доступності доступ до вашого браузера
+    .label = Не дозволяти сервісам доступності доступ до вашого { -brand-short-name }
     .accesskey = з
 permissions-a11y-privacy-link = Докладніше
 
