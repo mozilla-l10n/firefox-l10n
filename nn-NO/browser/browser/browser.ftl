@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Søk eller skriv inn ei adresse
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Nettlesaren er under fjernstyring
+urlbar-permissions-granted =
+    .tooltiptext = Du har gjeve denne nettstaden ytterlegare løyve.
 urlbar-switch-to-tab =
     .value = Byt til fane:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -244,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Gå til adressa i adresselinja
 urlbar-page-action-button =
     .tooltiptext = Sidehandlingar
+urlbar-pocket-button =
+    .tooltiptext = Lagre til { -pocket-brand-name }
