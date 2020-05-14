@@ -222,3 +222,9 @@ popup-all-windows-shared = Es compartiran totes les finestres visibles de la pan
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Escriviu una cerca o adreça
+urlbar-placeholder =
+    .placeholder = Escriviu una cerca o adreça
+urlbar-switch-to-tab =
+    .value = Canvia a la pestanya:
