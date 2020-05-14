@@ -119,9 +119,20 @@ about-logins-reveal-password-os-auth-dialog-message-win = Ngam yiyde finnde maa,
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = Saaktu finnde danndaande ndee
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = Ƴeewto heftinirde maa ngam nattaade finnde danndaande ndee.
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Ngam nattaade finnde maa, naatnu humpito seŋorde maa Windows. Ɗuum ina walla reende kisal konte maa.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = Natto finnde danndaande ndee
 
 ## Master Password notification
 
+master-password-notification-message = Tiiɗno naatnu finnde maa dowrowre ngam yiyde ceŋorɗe danndaaɗe & pinle
+master-password-reload-button =
+    .label = Seŋo
+    .accesskey = S
 
 ## Password Sync notification
 
