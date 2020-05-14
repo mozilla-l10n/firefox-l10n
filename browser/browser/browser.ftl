@@ -186,3 +186,5 @@ urlbar-default-placeholder =
     .defaultPlaceholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
 urlbar-placeholder =
     .placeholder = వెతకండి లేదా చిరునామాను ఇవ్వండి
+urlbar-go-end-cap =
+    .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
