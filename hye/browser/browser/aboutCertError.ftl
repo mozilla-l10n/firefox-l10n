@@ -71,3 +71,8 @@ captivePortal-title = Մուտք գործել ցանց
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = Կարծես հասցէն ճիշտ չէ։
 netInterrupt-title = Կապը խզուեց
+netOffline-title = Անցանց եղանակ
+contentEncodingError-title = Բովանդակութեան կոդաւորման սխալ
+unsafeContentType-title = Ոչ անվտանգ նիշքի տեսակ
+blockedByPolicy-title = Արգելափակուած էջ
+clockSkewError-title = Ձեր համակարգչի ժամացոյցը սխալ է
