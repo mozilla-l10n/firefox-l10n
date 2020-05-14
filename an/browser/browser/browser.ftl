@@ -210,5 +210,10 @@ urlbar-placeholder =
     .placeholder = Termen a mirar u adreza
 urlbar-switch-to-tab =
     .value = Ir ta la pestanya:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensión:
 urlbar-go-end-cap =
     .tooltiptext = Ir ta la URL d'a barra d'adrezas
+urlbar-page-action-button =
+    .tooltiptext = Accions de pachina
