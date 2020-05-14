@@ -229,6 +229,10 @@ enable-devtools-popup-description = Kako biste koristili F12 prečicu, prvo otvo
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Pretraži ili upiši adresu
+urlbar-placeholder =
+    .placeholder = Pretraži ili upiši adresu
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Preglednik se kontrolira s udaljene lokacije
 urlbar-switch-to-tab =
