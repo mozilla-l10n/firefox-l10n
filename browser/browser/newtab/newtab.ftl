@@ -90,6 +90,7 @@ newtab-menu-show-privacy-info = Tammbiiɓe min & suturo mon
 
 newtab-privacy-modal-button-done = Gasii
 newtab-privacy-modal-header = Suturo maa ko ngoƴa amen.
+newtab-privacy-modal-link = Humpito hol no suturo yahrata e tabbere hesere ndee
 
 ##
 
@@ -122,6 +123,7 @@ newtab-menu-open-file = Uddit Fiilde
 
 newtab-label-visited = Yilliima
 newtab-label-bookmarked = Maantaa maanto deftere
+newtab-label-removed-bookmark = Maantorol omtaama
 newtab-label-recommended = Ina tiindii
 newtab-label-saved = Danndaama e { -pocket-brand-name }
 newtab-label-download = Awtaama
@@ -142,6 +144,10 @@ newtab-section-menu-privacy-notice = Tintinal sirlu
 
 ## Section aria-labels
 
+newtab-section-collapse-section-label =
+    .aria-label = Famɗin taƴre
+newtab-section-expand-section-label =
+    .aria-label = Yaajtin taƴre
 
 ## Section Headers.
 
@@ -161,12 +167,16 @@ newtab-empty-section-topstories = Rutto ɗoo goɗngol ngam daari goɗɗi { $prov
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
+newtab-discovery-empty-section-topstories-header = A heɓtaama!
+newtab-discovery-empty-section-topstories-try-again-button = Eto goɗngol
+newtab-discovery-empty-section-topstories-loading = Nana loowa…
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Loowdiiji lolluɗi:
 newtab-pocket-more-recommendations = Wasiyaaji goɗɗi
+newtab-pocket-learn-more = Ɓeydu humpito
 newtab-pocket-cta-button = Heɓ { -pocket-brand-name }
 newtab-pocket-cta-text = Hisnu daari njiɗ-ɗaa nder { -pocket-brand-name }, ñikliraa hakkille maa taro welngo.
 
