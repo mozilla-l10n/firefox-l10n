@@ -25,3 +25,8 @@ about-private-browsing =
 about-private-browsing-not-private = A wonaani e henorde suuriinde e oo sahaa.
 content-blocking-title = Paddagol loowdi
 content-blocking-description = Won lowe enternet kuutortoo kuutorɗe rewindo ngam reende dille mon nder enternet. Nder kenorɗe keeriiɗe, { -brand-short-name } Content Blocking ina faddoo ɗoon e ɗoon rewindiiɓe heewɓe waawɓe ƴettude kabaruuji jowitiiɗi e aadaaji mon banngorɗi.
+# This string is the title for the banner for search engine selection
+# in a private window.
+# Variables:
+#   $engineName (String) - The engine name that will currently be used for the private window.
+about-private-browsing-search-banner-title = { $engineName } woni yiylorde maa woowaande e kenorɗe cuuriiɗe
