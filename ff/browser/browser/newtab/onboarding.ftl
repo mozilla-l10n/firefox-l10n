@@ -65,6 +65,12 @@ onboarding-sync-form-sub-header = ngam jokkude to { -sync-brand-name }
 ## These are individual benefit messages shown with an image, title and
 ## description.
 
+onboarding-benefit-products-title = Topirɗe nafooje
+onboarding-benefit-sync-title = { -sync-brand-short-name }
+onboarding-benefit-sync-text = Naw maantore mma, pinle maa, aslol maa e goɗɗe kala ɗo kuutoriɗaa { -brand-product-name }.
+onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
+onboarding-benefit-lockwise-text = Toppito pinle deenaaɗe etee naworteeɗe.
 
 ## These strings belong to the individual onboarding messages.
 
@@ -84,6 +90,10 @@ onboarding-ghostery-text = Huutoro njokkon mbaakon no Ghostery ngam banngagol ɓ
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Winndito ngam { -fxaccount-brand-name } njahdinaa maante maa, pinle maa kam e tabbe udditiiɗe kala ɗo kuutorto-ɗaa { -brand-short-name }.
+onboarding-tracking-protection-button2 = Hol no ɗum gollortoo
+onboarding-data-sync-title = Nawor teelte maa
+onboarding-data-sync-button2 = Seŋo e { -sync-brand-short-name }
+onboarding-firefox-monitor-title = Waɗ-tu hakkille e ciygol keɓe
 
 ## Message strings belonging to the Return to AMO flow
 
