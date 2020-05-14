@@ -235,5 +235,8 @@ urlbar-placeholder =
     .placeholder = Sök eller ange adress
 urlbar-switch-to-tab =
     .value = Växla till fliken:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Tillägg:
 urlbar-go-end-cap =
     .tooltiptext = Gå till adressen i adressfältet
