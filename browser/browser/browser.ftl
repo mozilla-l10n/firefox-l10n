@@ -235,5 +235,8 @@ urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
 urlbar-switch-to-tab =
     .value = Newid i dab:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Estyniad:
 urlbar-go-end-cap =
     .tooltiptext = Mynd i'r cyfeiriad yn y Bar Lleoliad
