@@ -224,7 +224,18 @@ popup-all-windows-shared = Экраныңыздаға барлық көріне�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Іздеу немесе адрес
+urlbar-placeholder =
+    .placeholder = Іздеу немесе адрес
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Браузер қашықтан басқарылуда
 urlbar-switch-to-tab =
     .value = Бетке ауысу:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Кеңейту:
 urlbar-go-end-cap =
     .tooltiptext = Енгізілген адреске өту
+urlbar-page-action-button =
+    .tooltiptext = Бет әрекеттері
