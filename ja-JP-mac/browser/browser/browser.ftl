@@ -224,3 +224,15 @@ popup-all-windows-shared = 画面に表示されているすべてのウイン�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = URL または検索語句を入力します
+urlbar-placeholder =
+    .placeholder = URL または検索語句を入力します
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = ブラウザーがリモート制御下にあります
+urlbar-switch-to-tab =
+    .value = タブを表示:
+urlbar-go-end-cap =
+    .tooltiptext = アドレスバーに入力された URL へ移動します
+urlbar-page-action-button =
+    .tooltiptext = ページ操作
