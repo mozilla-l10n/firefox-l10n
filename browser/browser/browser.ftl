@@ -226,7 +226,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Escriviu una cerca o adreça
 urlbar-placeholder =
     .placeholder = Escriviu una cerca o adreça
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = El navegador està sota control remot
 urlbar-switch-to-tab =
     .value = Canvia a la pestanya:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extensió:
 urlbar-go-end-cap =
     .tooltiptext = Vés a l'adreça de la barra d'ubicació
+urlbar-page-action-button =
+    .tooltiptext = Accions de la pàgina
