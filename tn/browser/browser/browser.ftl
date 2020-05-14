@@ -111,3 +111,11 @@ popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Batla kgotsa tsenya aterese
+urlbar-placeholder =
+    .placeholder = Batla kgotsa tsenya aterese
+urlbar-switch-to-tab =
+    .value = Fetolela ko thebeng:
+urlbar-go-end-cap =
+    .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
