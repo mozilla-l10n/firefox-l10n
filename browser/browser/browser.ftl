@@ -218,3 +218,11 @@ popup-select-microphone =
     .value = Микрофон за споделяне:
     .accesskey = М
 popup-all-windows-shared = Всички видими прозорци на вашия екран ще бъдат споделени.
+
+## DevTools F12 popup
+
+
+## URL Bar
+
+urlbar-go-end-cap =
+    .tooltiptext = Зареждане на адреса в полето
