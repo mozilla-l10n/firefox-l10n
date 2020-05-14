@@ -167,9 +167,16 @@ confirm-discard-changes-dialog-confirm-button = Woppu
 ## Breach Alert notification
 
 about-logins-breach-alert-title = Ciigol keɓe lowre geese
+breach-alert-text = Pinle maa ciyiino walla ngujjanooma e ndee lowre geese gila nde cakkitiɗaa hesɗitinde silloor seŋorde maa. Waylu finnde maa nam reende kontemaa.
+about-logins-breach-alert-date = Ngol cigol keɓe waɗi ko { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Yah to { $hostname }
+about-logins-breach-alert-learn-more-link = Ɓeydu humpito
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Finnde yaafnde
 
 ## Error Messages
 
