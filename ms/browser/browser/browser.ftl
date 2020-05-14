@@ -190,6 +190,10 @@ popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan d
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Cari atau masukkan alamat
+urlbar-placeholder =
+    .placeholder = Cari atau masukkan alamat
 urlbar-switch-to-tab =
     .value = Tukar ke tab:
 urlbar-go-end-cap =
