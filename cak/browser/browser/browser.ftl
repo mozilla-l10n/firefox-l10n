@@ -229,5 +229,18 @@ enable-devtools-popup-description = Richin nokisäx ri F12 chojokem, nab'ey taja
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+urlbar-placeholder =
+    .placeholder = Tikanöx chuqa' titz'ib'äx ri ochochib'äl
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk
 urlbar-switch-to-tab =
     .value = Rujalik ri ruwi':
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = K'amal:
+urlbar-go-end-cap =
+    .tooltiptext = Tib'e pa JAY richin ri rucholob'al taq ochochib'äl
+urlbar-page-action-button =
+    .tooltiptext = Taq rub'anoj ruxaq
