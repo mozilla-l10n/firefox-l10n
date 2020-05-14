@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Chwilio neu gyfeiriad gwe
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Mae'r porwr o dan reolaeth bell
+urlbar-permissions-granted =
+    .tooltiptext = Rydych wedi rhoi caniatâd ychwanegol i'r wefan hon.
 urlbar-switch-to-tab =
     .value = Newid i dab:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -244,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Mynd i'r cyfeiriad yn y Bar Lleoliad
 urlbar-page-action-button =
     .tooltiptext = Gweithredoedd tudalen
+urlbar-pocket-button =
+    .tooltiptext = Cadw i { -pocket-brand-name }
