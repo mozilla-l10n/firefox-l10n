@@ -240,3 +240,5 @@ urlbar-go-end-cap =
     .tooltiptext = Idi na adresu iz lokacijske trake
 urlbar-page-action-button =
     .tooltiptext = Radnje na stranici
+urlbar-pocket-button =
+    .tooltiptext = Spremi u { -pocket-brand-name }
