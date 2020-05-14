@@ -230,9 +230,16 @@ urlbar-placeholder =
     .placeholder = تلاش کریں یا پتہ داخل کریں
 urlbar-remote-control-notification-anchor =
     .tooltiptext = براؤزر ریموٹ کنٹرول کے تحت ہے
+urlbar-permissions-granted =
+    .tooltiptext = آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔
 urlbar-switch-to-tab =
     .value = ٹیب پر سوئچ کریں:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ایکسٹینشن:
 urlbar-go-end-cap =
     .tooltiptext = محل وقوع بار میں دیے گئے پتے پر جائیں
 urlbar-page-action-button =
     .tooltiptext = صفحہ اعمال
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name } میں محفوظ کریں
