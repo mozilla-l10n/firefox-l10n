@@ -227,5 +227,9 @@ enable-devtools-popup-description = หากต้องการใช้ท�
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = ค้นหาหรือป้อนที่อยู่
+urlbar-placeholder =
+    .placeholder = ค้นหาหรือป้อนที่อยู่
 urlbar-switch-to-tab =
     .value = สลับไปยังแท็บ:
