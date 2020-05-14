@@ -190,5 +190,11 @@ popup-all-windows-shared = Visi uz ekrāna redzamie logi tiks koplietoti.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
+urlbar-placeholder =
+    .placeholder = Ieraksti meklējamo tekstu vai mājas lapas adresi
 urlbar-switch-to-tab =
     .value = Pārslēgties uz cilni:
+urlbar-go-end-cap =
+    .tooltiptext = Pāriet uz adresi, kas redzama vietas joslā
