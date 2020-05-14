@@ -244,3 +244,5 @@ urlbar-go-end-cap =
     .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
     .tooltiptext = Orri-ekintzak
+urlbar-pocket-button =
+    .tooltiptext = Gorde { -pocket-brand-name }-en
