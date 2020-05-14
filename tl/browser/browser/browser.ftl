@@ -234,6 +234,8 @@ urlbar-placeholder =
     .placeholder = Hanapin o ilagay ang address
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser ay kasalukuyang nire-remote kontrol
+urlbar-permissions-granted =
+    .tooltiptext = Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.
 urlbar-switch-to-tab =
     .value = Lumipat sa tab:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
