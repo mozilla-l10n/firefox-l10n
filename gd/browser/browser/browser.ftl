@@ -237,3 +237,5 @@ urlbar-go-end-cap =
     .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-page-action-button =
     .tooltiptext = Gnìomhan na duilleige
+urlbar-pocket-button =
+    .tooltiptext = Sàbhail ann am { -pocket-brand-name }
