@@ -226,7 +226,18 @@ popup-all-windows-shared = همه‌ی پنجره‌هایی که مشاهده �
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
+urlbar-placeholder =
+    .placeholder = متنی برای جست‌وجو یا یک آدرس وارد کنید
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = مرورگر تحت کنترل از راه دور است
 urlbar-switch-to-tab =
     .value = پرش به زبانه:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = ضمیمه:
 urlbar-go-end-cap =
     .tooltiptext = رفتن به نشانی موجود در نوار مکان
+urlbar-page-action-button =
+    .tooltiptext = کنش‌های صفحه
