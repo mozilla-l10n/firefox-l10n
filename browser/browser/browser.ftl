@@ -226,3 +226,10 @@ popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatu
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Web garapena' menutik.
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = Aldatu fitxara:
+urlbar-go-end-cap =
+    .tooltiptext = Joan kokapen-barrako helbidera
