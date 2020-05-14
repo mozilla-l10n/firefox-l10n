@@ -189,3 +189,24 @@ popup-select-microphone =
     .value = مایکرۆفۆن بۆ بڵاوکردنەوە
     .accesskey = M
 popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.
+
+## DevTools F12 popup
+
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = بگەڕێ یان ناونیشان بنووسە
+urlbar-placeholder =
+    .placeholder = بگەڕێ یان ناونیشان بنووسە
+urlbar-switch-to-tab =
+    .value = بچۆ بۆ بازدەری:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = پێوەکراوەکان:
+urlbar-go-end-cap =
+    .tooltiptext = بڕۆ بۆ ناونیشان لە توڵی شوێن
+urlbar-page-action-button =
+    .tooltiptext = کردارەکانی پەڕە
+urlbar-pocket-button =
+    .tooltiptext = پاشەکەوتی بکە لە { -pocket-brand-name }
