@@ -226,3 +226,17 @@ popup-all-windows-shared = L’ensemble des fenêtres visibles sur votre écran 
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Pour utiliser le raccourci F12, ouvrez d’abord les outils de développement via le menu Développement web.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Saisir un terme à rechercher ou une adresse
+urlbar-placeholder =
+    .placeholder = Saisir un terme à rechercher ou une adresse
+urlbar-switch-to-tab =
+    .value = Aller à l’onglet :
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Extension :
+urlbar-go-end-cap =
+    .tooltiptext = Se rendre à la page indiquée dans la barre d’adresse
