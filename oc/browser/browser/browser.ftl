@@ -226,3 +226,8 @@ popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecr
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Per utilizar l’acorchi F12, dobrissètz d’en primièr lo panèl d’aisinas de desvolopament via lo menú Desvolopaire Web.
+
+## URL Bar
+
+urlbar-switch-to-tab =
+    .value = Anar a l'onglet :
