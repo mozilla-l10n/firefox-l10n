@@ -243,3 +243,5 @@ urlbar-go-end-cap =
     .tooltiptext = Pumunta sa lokasyon na nasa Location Bar
 urlbar-page-action-button =
     .tooltiptext = Page actions
+urlbar-pocket-button =
+    .tooltiptext = I-save sa { -pocket-brand-name }
