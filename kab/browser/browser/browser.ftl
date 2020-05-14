@@ -233,6 +233,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Nadi neɣ sekcem tansa
 urlbar-placeholder =
     .placeholder = Nadi neɣ sekcem tansa
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Iminig yettwaṭṭef s wudem anmeggag
 urlbar-switch-to-tab =
     .value = Ddu ɣer yiccer:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
