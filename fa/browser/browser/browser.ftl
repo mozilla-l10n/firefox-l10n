@@ -241,3 +241,5 @@ urlbar-go-end-cap =
     .tooltiptext = رفتن به نشانی موجود در نوار مکان
 urlbar-page-action-button =
     .tooltiptext = کنش‌های صفحه
+urlbar-pocket-button =
+    .tooltiptext = ذخیره‌سازی در { -pocket-brand-name }
