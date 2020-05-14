@@ -192,5 +192,20 @@ popup-all-windows-shared = Ekranıñız üzerindeki körünir pencerelerniñ epi
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Qıdırıñız yaki adres kirsetiñiz
+urlbar-placeholder =
+    .placeholder = Qıdırıñız yaki adres kirsetiñiz
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Kezici uzaqtan muraqabede
+urlbar-switch-to-tab =
+    .value = İlmekke almaş:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Uzantı:
+urlbar-go-end-cap =
+    .tooltiptext = Qonum Çubuğındaki adreske bar
 urlbar-page-action-button =
     .tooltiptext = Saife amelleri
+urlbar-pocket-button =
+    .tooltiptext = { -pocket-brand-name }’ke Saqla
