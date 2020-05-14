@@ -30,3 +30,10 @@ content-blocking-description = Won lowe enternet kuutortoo kuutorɗe rewindo nga
 # Variables:
 #   $engineName (String) - The engine name that will currently be used for the private window.
 about-private-browsing-search-banner-title = { $engineName } woni yiylorde maa woowaande e kenorɗe cuuriiɗe
+about-private-browsing-search-banner-description =
+    { PLATFORM() ->
+        [windows] Ngam suɓaade yiylorde woɗnde yah to <a data-l10n-name="link-options">Cuɓe</a>
+       *[other] Ngam suɓaade yiylorde woɗnde yah to <a data-l10n-name="link-options">Cuɓoraaɗe</a>
+    }
+about-private-browsing-search-banner-close-button =
+    .aria-label = Uddu
