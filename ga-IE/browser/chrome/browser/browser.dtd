@@ -128,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Deimhnigh Do Chuntas">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Íoslaghdaigh">
 <!ENTITY fullScreenRestore.tooltip "Athchóirigh">
@@ -245,6 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Téigh go dtí an seoladh atá sa Bharra Suímh">
+
 <!ENTITY printButton.label            "Priontáil">
 <!ENTITY printButton.tooltip          "Priontáil an leathanach seo">
 
@@ -283,6 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taispeáin an stair">
+
 
 <!ENTITY searchItem.title             "Cuardaigh">
 
@@ -343,6 +345,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "m">
 <!ENTITY manageUserContext.label          "Bainistigh Coimeádáin">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Fuinneog Nua">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -619,6 +622,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Sábháil i bPocket">
+
 <!ENTITY saveToPocketCmd.label        "Sábháil an Leathanach i bPocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Sábháil an Nasc i bPocket">
@@ -827,17 +831,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Ceangal Slán">
 <!ENTITY identity.connectionNotSecure "Ní Ceangal Slán é seo">
 
-<!ENTITY identity.connectionSecure3 "Ceangal slán">
-<!ENTITY identity.connectionNotSecure2 "Ceangal neamhshlán">
-<!ENTITY identity.connectionNotSecureSecurityView "Tá ceangal slán agat leis an suíomh seo.">
 <!ENTITY identity.connectionFile "Stóráiltear an leathanach seo ar do ríomhaire.">
 <!ENTITY identity.connectionVerified2 "Tá ceangal slán agat leis an suíomh seo, suíomh faoi stiúir:">
-<!ENTITY identity.connectionVerified3 "Tá ceangal slán agat leis an suíomh seo.">
 <!ENTITY identity.connectionInternal "Is leathanach slán &brandShortName; é seo.">
 <!ENTITY identity.extensionPage "Lódáiltear an leathanach seo ó eisínteacht.">
 <!ENTITY identity.insecureLoginForms2 "D'fhéadfadh sonraí logáil isteach bheith i mbaol ar an leathanach seo.">
-
-<!ENTITY identity.evOwnerLabel2 "Teastas eisithe chuig:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Chuir &brandShortName; bac ar chodanna den leathanach seo nach bhfuil slán.">
@@ -872,7 +870,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ceadanna">
 
-<!ENTITY identity.permissions3 "Ceadanna">
 <!ENTITY identity.permissionsEmpty "Níor thug tú aon chead speisialta don suíomh seo.">
 <!ENTITY identity.permissionsReloadHint "Ní mór duit an leathanach a athlódáil chun na hathruithe a chur i bhfeidhm.">
 
@@ -978,6 +975,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
@@ -993,6 +991,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "31em">
+
 
 <!ENTITY uiTour.infoPanel.close "Dún">
 
@@ -1040,3 +1039,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+

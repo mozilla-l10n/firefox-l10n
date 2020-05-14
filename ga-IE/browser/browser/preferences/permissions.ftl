@@ -5,35 +5,46 @@
 permissions-window =
     .title = Eisceachtaí
     .style = width: 49em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Seoladh an tsuímh Ghréasáin
     .accesskey = e
+
 permissions-block =
     .label = Coisc
     .accesskey = C
+
 permissions-session =
     .label = Ceadaigh don Seisiún
     .accesskey = S
+
 permissions-allow =
     .label = Ceadaigh
     .accesskey = C
+
 permissions-site-name =
     .label = Suíomh Gréasáin
+
 permissions-status =
     .label = Stádas
+
 permissions-button-cancel =
     .label = Cealaigh
     .accesskey = C
+
 permissions-button-ok =
     .label = Sábháil na hAthruithe
     .accesskey = S
+
 permissions-capabilities-allow =
     .label = Ceadaigh
 permissions-capabilities-block =
     .label = Coisc
 permissions-capabilities-prompt =
     .label = Fiafraigh Díom i gCónaí
+
 permissions-capabilities-listitem-allow =
     .value = Ceadaigh
 permissions-capabilities-listitem-block =
@@ -77,6 +88,8 @@ permissions-exceptions-addons-desc = Is féidir na suímh a bhfuil cead acu brei
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

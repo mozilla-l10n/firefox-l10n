@@ -27,6 +27,7 @@ appmenu-update-restart =
 appmenu-addon-private-browsing-installed =
     .buttonlabel = OK, Tuigim
     .buttonaccesskey = O
+    
 appmenu-homepage-controlled =
     .label = Athraíodh do leathanach baile.
     .buttonlabel = Coinnigh na hAthruithe

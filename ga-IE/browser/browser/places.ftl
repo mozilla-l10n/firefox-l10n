@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Oscail i bhFuinneog Nua Phríobháideach
     .accesskey = P
+
 places-new-bookmark =
     .label = Leabharmharc Nua…
     .accesskey = L
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Deighilteoir Nua
     .accesskey = D
+
 places-view =
     .label = Amharc
     .accesskey = m
@@ -47,6 +49,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = De réir Dáta agus Suímh
     .accesskey = t
+
 places-delete-domain-data =
     .label = Déan Dearmad ar an Suíomh Seo
     .accesskey = D

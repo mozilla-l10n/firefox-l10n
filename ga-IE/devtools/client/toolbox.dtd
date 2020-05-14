@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -12,7 +13,6 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "Earráid agus Bosca Uirlisí an Bhrabhsálaí á oscailt:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -147,7 +147,6 @@
    - label for the checkbox that toggles source maps in the Debugger -->
 
 <!ENTITY options.sourceMaps.label      "Cumasaigh Mapaí Foinse">
-<!ENTITY options.sourceMaps.tooltip    "Leis an rogha seo, déanfar mapáil ar na foinsí sa Dífhabhtóir agus sa Chonsól.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -156,8 +155,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "Taispeáin na bunfhoinsí">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Taispeáin na bunfhoinsí (m.sh. comhaid Sass) san Eagarthóir Stíle agus sa Scrúdaitheoir">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -182,14 +179,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "Gnáthroghanna">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "Cumasaigh logchomhaid leanúnacha">
-<!ENTITY options.enablePersistentLogs.tooltip  "Leis an rogha seo, ní ghlanfaidh an Consól Gréasáin agus Monatóir an Líonra an t-aschur nuair a osclóidh tú leathanach nua">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -197,6 +191,7 @@
 
 <!ENTITY options.showPlatformData.label    "Taispeáin sonraí faoin ardán Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Leis an rogha seo, cuirfidh an próifíleoir JavaScript siombailí ardáin Gecko  san áireamh">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

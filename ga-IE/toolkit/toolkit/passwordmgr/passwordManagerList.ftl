@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Dún
     .accesskey = D
+
 show-passwords =
     .label = Taispeáin Focail Fhaire
     .accesskey = P

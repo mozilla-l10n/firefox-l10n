@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Tuilleadh eolais faoi <a data-l10n-name="learn-more">Brabhsáil Phríobháideach</a>.
 about-private-browsing-info-visited = stair bhrabhsála
+
 privatebrowsingpage-open-private-window-label = Oscail Fuinneog Phríobháideach
     .accesskey = P
 about-private-browsing-info-notsaved = Nuair a dhéanann tú brabhsáil i bhFuinneog Phríobháideach, <strong>ní shábhálann { -brand-short-name }</strong>:
@@ -24,6 +25,7 @@ about-private-browsing =
     .title = Cuardaigh an Gréasán
 about-private-browsing-not-private = Níl tú i bhfuinneog phríobháideach faoi láthair.
 about-private-browsing-info-description = Glanann { -brand-short-name } do stair bhrabhála agus do stair chuardaigh nuair a dhúnann tú an aip nó gach cluaisín agus fuinneog phríobháideach. Sa chaoi seo, beidh sé níos éasca na rudaí a dhéanann tú ar líne a choinneáil i bhfolach ar dhaoine eile a úsáideann an ríomhaire seo. Tabhair faoi deara gurbh fhéidir go mbeadh suímh Ghréasáin nó do sholáthraí idirlín in ann tusa a aithint mar sin féin.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

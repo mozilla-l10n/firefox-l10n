@@ -10,9 +10,11 @@
 clear-site-data-cookies-empty =
     .label = Fianáin agus Sonraí Suímh
     .accesskey = S
+
 clear-site-data-cancel =
     .label = Cealaigh
     .accesskey = C
+
 clear-site-data-clear =
     .label = Glan
     .accesskey = l

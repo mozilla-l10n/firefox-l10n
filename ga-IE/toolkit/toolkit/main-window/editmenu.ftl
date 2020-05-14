@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = Cealaigh
     .accesskey = l
+
 editmenu-redo =
     .label = Athfheidhmigh
     .accesskey = A
+
 editmenu-cut =
     .label = Gearr
     .accesskey = G
+
 editmenu-copy =
     .label = Cóipeáil
     .accesskey = C
+
 editmenu-paste =
     .label = Greamaigh
     .accesskey = m
+
 editmenu-delete =
     .label = Scrios
     .accesskey = S
+
 editmenu-select-all =
     .label = Roghnaigh Uile
     .accesskey = R

@@ -8,7 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Nuacht Thábhachtach
+
 resources = Acmhainní:
+
 sync-header = Logáil isteach nó cruthaigh { -fxaccount-brand-name }
 sync-label = Cuir isteach do sheoladh ríomhphoist
 sync-learn = Tuilleadh eolais

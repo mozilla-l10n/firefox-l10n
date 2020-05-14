@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Pictiúr i bPictiúr
+
 pictureinpicture-pause =
     .aria-label = Cuir ar Sos
 pictureinpicture-play =
     .aria-label = Seinn
+
 pictureinpicture-mute =
     .aria-label = Gan fuaim
 pictureinpicture-unmute =
     .aria-label = Le fuaim
+

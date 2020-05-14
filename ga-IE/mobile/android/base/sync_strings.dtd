@@ -5,6 +5,7 @@
      a better place to live. -->
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
+
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
@@ -38,6 +39,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Leabharmharcanna Soghluaiste">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Pionnáilte">
+
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
@@ -51,15 +53,11 @@
 <!ENTITY fxaccount_getting_started_get_started "Tús maith">
 <!ENTITY fxaccount_getting_started_old_firefox "An bhfuil seanleagan de &syncBrand.shortName.label; agat?">
 
-<!ENTITY fxaccount_status_signed_in_as "Logáilte isteach mar">
-<!ENTITY fxaccount_status_manage_account "Bainistigh mo chuntas">
 <!ENTITY fxaccount_status_auth_server "Freastalaí an chuntais">
 <!ENTITY fxaccount_status_sync_now "Sioncronaigh anois">
 <!ENTITY fxaccount_status_syncing2 "Á Shioncronú…">
 <!ENTITY fxaccount_status_device_name "Ainm an ghléis">
 <!ENTITY fxaccount_status_sync_server "Freastalaí Sync">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: cumasaithe">
 <!ENTITY fxaccount_status_needs_verification2 "Caithfidh tú do chuntas a dhearbhú. Tapáil chun an teachtaireacht dearbhaithe a sheoladh arís.">
 <!ENTITY fxaccount_status_needs_credentials "Ní féidir ceangal. Tapáil chun logáil isteach.">
 <!ENTITY fxaccount_status_needs_upgrade "Caithfidh tú &brandShortName; a nuashonrú chun logáil isteach.">
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 "Téarmaí seirbhíse">
 <!ENTITY fxaccount_status_linkprivacy2 "Fógra príobháideachais">
-<!ENTITY fxaccount_status_more "Tuilleadh&ellipsis;">
 <!ENTITY fxaccount_remove_account "Dícheangail&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title2 "Dícheangail ó Sync?">
@@ -106,17 +103,7 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Caithfidh tú Firefox a uasghrádú">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Tá an cuntas ann cheana. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Seoladh ríomhphoist nó focal faire neamhbhailí">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Seoladh ríomhphoist nó focal faire neamhbhailí">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Níl an cuntas deimhnithe">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Tá an freastalaí gnóthach; bain triail eile as go luath">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Tá an freastalaí gnóthach; bain triail eile as go luath">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Tharla fadhb éigin">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Cuntas faoi ghlas. &formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "Níl &syncBrand.shortName.label; ceangailte">
 <!-- Localization note: the format string below will be replaced

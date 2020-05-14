@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE : The correct localization of this file might be to keep
@@ -15,6 +16,7 @@
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "Iompórtáil…">
+
 <!ENTITY importButton.tooltip       "Iompórtáil agus iarcheangail stílbhileog nua leis an gcáipéis">
 <!ENTITY importButton.accesskey     "I">
 
@@ -28,19 +30,15 @@
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
 
-<!ENTITY showOriginalSources.label     "Taispeáin na bunfhoinsí">
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
 
-<!ENTITY showOriginalSources.accesskey  "o">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 
-<!ENTITY showMediaSidebar.label     "Taispeáin an barra taoibh @media">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
 
-<!ENTITY showMediaSidebar.accesskey     "m">
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 
@@ -65,3 +63,4 @@
      context menu item that opens a stylesheet in a new tab -->
 
 <!ENTITY openLinkNewTab.label     "Oscail an Nasc i gCluaisín Nua">
+

@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Bainisteoir Próifíle
+
 profile-selection-button-accept =
     .label = Tosaigh { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Scoir
+
 profile-selection-new-button =
     .label = Cruthaigh Próifíl…
     .accesskey = C
+
 profile-selection-rename-button =
     .label = Athainmnigh Próifíl…
     .accesskey = r
+
 profile-selection-delete-button =
     .label = Scrios Próifíl…
     .accesskey = S
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = Sábhálann { -brand-short-name } eolas faoi do shocruithe, sainroghanna, agus míreanna úsáideora eile i do phróifíl phearsanta.
+
 profile-manager-work-offline =
     .label = Oibrigh as líne
     .accesskey = O
+
 profile-manager-use-selected =
     .label = Úsáid an phróifíl roghnaithe ag am tosaithe gan fiafraí
     .accesskey = s

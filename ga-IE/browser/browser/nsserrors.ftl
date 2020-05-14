@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Ní féidir ceangal slán a bhunú toisc go bhfuil an prótacal SSL díchumasaithe.
 psmerr-ssl2-disabled = Ní féidir ceangal slán a bhunú toisc go n-úsáideann an suíomh seanleagan den phrótacal SSL nach bhfuil slán.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tá teastas neamhbhailí faighte agat. Téigh i dteagmháil le riarthóir an fhreastalaí nó do chomhfhreagraí ríomhphoist agus tabhair dó/di an t-eolas seo:
     
     Tá an tsraithuimhir chéanna ag do theastas agus atá ag teastas eile eisithe ag an údarás deimhniúcháin. Faigh teastas nua le sraithuimhir uathúil le do thoil.
+
 ssl-error-export-only-server = Ní féidir cumarsáid shlán a dhéanamh. Ní thacaíonn an comhghleacaí le criptiúchán ardghráid.
 ssl-error-us-only-server = Ní féidir cumarsáid shlán a dhéanamh. Tá criptiúchán ardghráid nach dtacaítear leis ag teastáil ón gcomhghleacaí.
 ssl-error-no-cypher-overlap = Ní féidir cumarsáid shlán a dhéanamh leis an gcomhghleacaí: níl comhalgartam criptiúcháin ann.

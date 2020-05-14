@@ -9,17 +9,12 @@ about-service-workers-title = Maidir le hOibrithe Seirbhíse
 about-service-workers-main-title = Oibrithe Seirbhíse Cláraithe
 about-service-workers-warning-not-enabled = Níl aon Oibrithe Seirbhíse cumasaithe.
 about-service-workers-warning-no-service-workers = Níl aon Oibrithe Seirbhíse cláraithe.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Foinse: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = Aitheantas Feidhmchláir { -brand-short-name }: { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Ainm na Taisce Gníomhaí:</strong> { $name }
 waiting-cache-name = <strong>Ainm na Taisce ar feitheamh:</strong> { $name }
 push-end-point-waiting = <strong>Críochphointe Brúite:</strong> { waiting }
 push-end-point-result = <strong>Críochphointe Brúite:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Nuashonraigh
+
 unregister-button = Díchláraigh
+
 unregister-error = Níorbh fhéidir an tOibrí Seirbhíse seo a dhíchlárú.
+
 waiting = Ag Feitheamh…

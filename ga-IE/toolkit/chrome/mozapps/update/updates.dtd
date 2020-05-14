@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Níorbh fhéidir an páirt-nuashonrú a chur i bhfeidhm. Déanfaidh &brandShortName; iarracht eile trí nuashonrú iomlán a íoslódáil.">
 
 <!ENTITY  genericBackgroundError.label    "Ní féidir le &brandShortName; a dhéanamh amach an bhfuil nuashonrú ar fáil. Bí cinnte go bhfuil an leagan is déanaí de &brandShortName; agat ó:">
-
+                                           
 <!ENTITY  finishedPage.title              "Nuashonrú Réidh le Suiteáil">
 <!ENTITY  finishedPage.text               "Suiteálfar an nuashonrú an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois nó leanúint ag obair agus é a atosú níos déanaí.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Suiteálfar an nuashonrú an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois nó leanúint ag obair agus é a atosú níos déanaí.">
 <!ENTITY  finishedBackground.moreElevated "Is é riarthóir an chórais amháin atá in ann an nuashonrú seo a chur i bhfeidhm. Suiteálfar é an chéad uair eile a atosóidh &brandShortName;. Is féidir leat &brandShortName; a atosú anois, leanúint ag obair agus é a atosú ar ball, nó an nuashonrú seo a dhiúltú.">
 
-<!ENTITY  update.details.label            "Mionsonraí">
-<!ENTITY  update.installedOn.label        "Suiteáilte ar:">
-<!ENTITY  update.status.label             "Stádas:">

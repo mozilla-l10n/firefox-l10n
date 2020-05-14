@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Roghnaigh Uile">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "U">
+
 <!ENTITY findCmd.label             "Aimsigh">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "A">

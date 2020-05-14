@@ -13,15 +13,20 @@ cfr-doorhanger-pintab-heading = Bain triail as seo: Cluaisín a Phionnáil
 
 cfr-doorhanger-extension-cancel-button = Níl Anois
     .accesskey = N
+
 cfr-doorhanger-pintab-ok-button = Pionnáil an Cluaisín Seo
     .accesskey = P
+
 cfr-doorhanger-extension-never-show-recommendation = Ná taispeáin an moladh seo dom
     .accesskey = t
+
 cfr-doorhanger-extension-learn-more-link = Tuilleadh eolais
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = le { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Moladh
@@ -57,6 +62,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-animation-pause = Cuir ar Sos
 cfr-doorhanger-pintab-animation-resume = Atosaigh
 
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-link-text = Sioncronaigh leabharmharcanna anois…
@@ -70,15 +76,23 @@ cfr-protections-panel-link-text = Tuilleadh eolais
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Gné nua:
+
 cfr-whatsnew-button =
     .label = Gnéithe Nua
     .tooltiptext = Gnéithe Nua
+
 cfr-whatsnew-panel-header = Gnéithe Nua
+
 cfr-whatsnew-release-notes-link-text = Léigh na nótaí eisiúna
+
 cfr-whatsnew-tracking-blocked-subtitle = Ó { DATETIME($earliestDate, month: "long", year: "numeric") }
+
 cfr-whatsnew-lockwise-backup-link-text = Cuir cúltacaí ar siúl
+
 cfr-whatsnew-lockwise-take-title = Beir do chuid focal faire leat
 cfr-whatsnew-lockwise-take-link-text = Faigh an aip
+
+## Search Bar
 
 ## Picture-in-Picture
 
@@ -102,6 +116,7 @@ cfr-whatsnew-fingerprinter-counter-header =
         [many] Cuireadh cosc ar mhéarlorgairí
        *[other] Cuireadh cosc ar mhéarlorgairí
     }
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Méarlorgairí
 
@@ -150,3 +165,12 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Féach Uile
     .accesskey = F
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
+
