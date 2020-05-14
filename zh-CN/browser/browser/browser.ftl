@@ -226,3 +226,12 @@ popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享�
 ## DevTools F12 popup
 
 enable-devtools-popup-description = 请通过“Web 开发者”菜单打开开发者工具，才能使用 F12 快捷键。
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = 搜索或输入网址
+urlbar-placeholder =
+    .placeholder = 搜索或输入网址
+urlbar-switch-to-tab =
+    .value = 切换到标签页：
