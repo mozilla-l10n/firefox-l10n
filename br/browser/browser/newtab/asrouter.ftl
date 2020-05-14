@@ -227,9 +227,15 @@ cfr-doorhanger-milestone-ok-button = Gwelet pep tra
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Krouit gerioù-tremen en un doare aes
+cfr-whatsnew-lockwise-body = Diaes eo soñjal en ur ger-tremen dibar ha diogel evit pep kont. En ur grouiñ ur ger-tremen, diuzit maezienn ar ger-tremen evit ober gant unan diogel ha ganet gant { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = arlun { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Resevit galvoù-diwall a-zivout gerioù-tremen en arvar.
+cfr-whatsnew-passwords-body = Gouzout a oar mat ar stlenn-laeron e vez adimplijet an hevelep gerioù-tremen gant an dud. Ma rit kement-se hag e vez diskuilhet roadennoù unan eus al lec'hiennoù-se e welot ur galv-diwall e { -lockwise-brand-short-name } a lâro deoc'h cheñch ho ker-tremen war al lec'hiennoù-se.
+cfr-whatsnew-passwords-icon-alt = arlun ger-tremen arvarus
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Tremen e mod skramm a-bezh
