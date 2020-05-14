@@ -222,7 +222,15 @@ popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհ
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Մուտքագրեք կայքի հասցե կամ որոնում
+urlbar-placeholder =
+    .placeholder = Մուտքագրեք կայքի հասցե կամ որոնում
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Դիտարկել հեռակա կառավարմամբ
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
 urlbar-go-end-cap =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
+urlbar-page-action-button =
+    .tooltiptext = Էջի գործույթները
