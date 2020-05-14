@@ -232,3 +232,5 @@ urlbar-placeholder =
     .placeholder = Zadajte adresu alebo výraz vyhľadávania
 urlbar-switch-to-tab =
     .value = Prejsť na kartu:
+urlbar-go-end-cap =
+    .tooltiptext = Prejsť na adresu zadanú v paneli s adresou
