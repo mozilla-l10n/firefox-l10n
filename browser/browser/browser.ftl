@@ -229,5 +229,11 @@ enable-devtools-popup-description = Để sử dụng phím tắt F12, trước 
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
+urlbar-placeholder =
+    .placeholder = Nhập địa chỉ hoặc từ khóa tìm kiếm
 urlbar-switch-to-tab =
     .value = Chuyển qua thẻ:
+urlbar-go-end-cap =
+    .tooltiptext = Mở trang trong thanh địa chỉ
