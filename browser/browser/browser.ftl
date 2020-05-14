@@ -244,3 +244,5 @@ urlbar-go-end-cap =
     .tooltiptext = Odpri mesto v vrstici z naslovom
 urlbar-page-action-button =
     .tooltiptext = Dejanja strani
+urlbar-pocket-button =
+    .tooltiptext = Shrani v { -pocket-brand-name }
