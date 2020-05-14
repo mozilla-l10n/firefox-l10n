@@ -233,7 +233,14 @@ urlbar-default-placeholder =
     .defaultPlaceholder = 搜索或输入网址
 urlbar-placeholder =
     .placeholder = 搜索或输入网址
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = 浏览器正被远程控制
 urlbar-switch-to-tab =
     .value = 切换到标签页：
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = 扩展：
 urlbar-go-end-cap =
     .tooltiptext = 转到地址栏中指向的网址
+urlbar-page-action-button =
+    .tooltiptext = 页面动作
