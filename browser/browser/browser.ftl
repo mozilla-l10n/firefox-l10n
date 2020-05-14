@@ -200,5 +200,11 @@ popup-all-windows-shared = Ekranınızda görünən bütün pəncərələr payla
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Ünvanı daxil et və ya axtar
+urlbar-placeholder =
+    .placeholder = Ünvanı daxil et və ya axtar
 urlbar-switch-to-tab =
     .value = Keçiləcək vərəq:
+urlbar-go-end-cap =
+    .tooltiptext = Ünvan Sətrindəki ünvanı aç
