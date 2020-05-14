@@ -192,3 +192,5 @@ popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan d
 
 urlbar-switch-to-tab =
     .value = Tukar ke tab:
+urlbar-go-end-cap =
+    .tooltiptext = Pergi ke alamat dalam Bar Lokasi
