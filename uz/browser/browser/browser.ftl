@@ -226,5 +226,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Izlang yoki manzilni kiriting
 urlbar-placeholder =
     .placeholder = Izlang yoki manzilni kiriting
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Brauzer nazorat ostida!
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Kengaytma:
 urlbar-go-end-cap =
     .tooltiptext = Manzil panelidagi manzilga o‘tish
