@@ -60,22 +60,48 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Nasztalowania strōny…">
 <!ENTITY printSetupCmd.accesskey "n">
+<!ENTITY printPreviewCmd.label "Podlōnd durku">
+<!ENTITY printPreviewCmd.accesskey "d">
+<!ENTITY printCmd.label "Durkuj…">
+<!ENTITY printCmd.accesskey "D">
+<!ENTITY printCmd.commandkey "p">
+<!ENTITY importFromAnotherBrowserCmd.label "Importuj z inkszyj przeglōndarki…">
+<!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
 
+<!ENTITY goOfflineCmd.label "Rōb offline">
+<!ENTITY goOfflineCmd.accesskey "f">
 
+<!ENTITY menubarCmd.label "Posek myni">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "Posek z noczyniami do nawigacyje">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY navbar.accessibleLabel "Nawigacyjo">
+<!ENTITY personalbarCmd.label "Posek z zokłodkami">
+<!ENTITY personalbarCmd.accesskey "Z">
 <!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
 include the word "toolbar" or such, because screen readers already know that
 this container is a toolbar. This avoids double-speaking. -->
+<!ENTITY personalbar.accessibleLabel "Zokłodki">
+<!ENTITY bookmarksToolbarItem.label "Elymynty ze poska z zokłodkami">
 
+<!ENTITY pageSourceCmd.label "Zdrzōdło strōny">
+<!ENTITY pageSourceCmd.accesskey "ł">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
 Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
 shortcut shown in the GUI. SafariCommandKey is an alias provided for the
 convenience of Safari and Chrome users on macOS. See bug 1398988. -->
+<!ENTITY pageSourceCmd.SafariCommandKey "u">
 
+<!ENTITY pageInfoCmd.label "Informacyje ô strōnie">
+<!ENTITY pageInfoCmd.accesskey "m">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY ldbCmd.label "Debuger rozłożynio">
+<!ENTITY ldbCmd.accesskey "L">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 
@@ -121,6 +147,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
+
 
 
 
@@ -253,6 +280,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
