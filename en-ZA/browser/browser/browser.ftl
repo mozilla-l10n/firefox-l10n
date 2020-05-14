@@ -123,6 +123,10 @@ popup-all-windows-shared = All visible windows on your screen will be shared.
 
 ## URL Bar
 
+urlbar-default-placeholder =
+    .defaultPlaceholder = Search or enter address
+urlbar-placeholder =
+    .placeholder = Search or enter address
 urlbar-switch-to-tab =
     .value = Switch to tab:
 urlbar-go-end-cap =
