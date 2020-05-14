@@ -226,3 +226,12 @@ popup-all-windows-shared = Wšykne widobne wokna na wašej wobrazowce budu se ź
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Aby tastu F12 wužywał, wócyńśo nejpjerwjej DevTools pśez meni Webwuwijaŕ.
+
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Pytaś abo adresu zapódaś
+urlbar-placeholder =
+    .placeholder = Pytaś abo adresu zapódaś
+urlbar-go-end-cap =
+    .tooltiptext = K adresy w adresowem pólu
