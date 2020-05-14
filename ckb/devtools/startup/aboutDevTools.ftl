@@ -24,4 +24,8 @@ features-debugger-title = هەڵەدۆز
 features-network-title = ڕایەڵە
 features-storage-title = بیرگە
 features-memory-title = بیرگەی کاتیی
+# Variables:
+#   $errorDescription (String) - The error that occurred e.g. 404 - Not Found
+newsletter-error-common = داواکاری بەشداری سەرکەوتوو نەبوو ({ $errorDescription }).
 newsletter-error-unknown = هەڵەیەکی نەزانراو ڕوویدا.
+newsletter-error-timeout = داواکاری بەشداری بەسەرچوو.
