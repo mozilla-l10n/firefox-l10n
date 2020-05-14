@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 urlbar-identity-button =
     .aria-label = Vis information om websted
 
@@ -66,9 +65,6 @@ urlbar-tip-icon-description =
 
 urlbar-search-tips-onboard = Tast mindre, find mere: Søg med { $engineName } direkte i adressefeltet.
 urlbar-search-tips-redirect-2 = Start din søgning i adressefeltet for at få forslag fra { $engineName } og din browserhistorik.
-
-##
-
 
 ##
 
@@ -231,3 +227,22 @@ popup-all-windows-shared = Alle synlige vinduer på din skærm vil blive delt.
 
 enable-devtools-popup-description = For at bruge F12 som genvej skal du først åbne udviklerværktøj fra menuen Webudvikler.
 
+## URL Bar
+
+urlbar-default-placeholder =
+    .defaultPlaceholder = Søg eller indtast en adresse
+urlbar-placeholder =
+    .placeholder = Søg eller indtast en adresse
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Browseren fjernstyres
+urlbar-permissions-granted =
+    .tooltiptext = Du har givet dette websted yderligere tilladelser.
+urlbar-switch-to-tab =
+    .value = Skift til faneblad:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Udvidelse:
+urlbar-go-end-cap =
+    .tooltiptext = Gå til adressen i adressefeltet
+urlbar-pocket-button =
+    .tooltiptext = Gem til { -pocket-brand-name }
