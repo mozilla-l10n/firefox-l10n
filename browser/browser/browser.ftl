@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Введіть пошуковий запит чи адресу
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Браузер знаходиться під віддаленим керуванням
+urlbar-permissions-granted =
+    .tooltiptext = Ви надали цьому вебсайту додаткові дозволи.
 urlbar-switch-to-tab =
     .value = Перемкнутись на вкладку:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
