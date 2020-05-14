@@ -196,6 +196,8 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
 urlbar-placeholder =
     .placeholder = Īrkosti meklejamū tekstu voi sātys lopys adresu
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Porlyuku kontrolej nu attōluma
 urlbar-switch-to-tab =
     .value = Puorslēgtīs iz cilni:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
