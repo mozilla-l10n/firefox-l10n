@@ -238,7 +238,7 @@ urlbar-remote-control-notification-anchor =
 urlbar-permissions-granted =
     .tooltiptext = Du har beviljat denna webbplats ytterligare behörigheter.
 urlbar-switch-to-tab =
-    .value = Växla till fliken:
+    .value = Växla till flik:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tillägg:
