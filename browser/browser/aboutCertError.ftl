@@ -83,6 +83,7 @@ redirectLoop-title = Ngoo hello wonaani e yiiltude no feewiri
 unknownSocketType-title = Jaatol sarworde faamaaka
 nssFailure2-title = Ceŋagol Kisnangol Woorii
 cspBlocked-title = Dawirgol Kisnal Loowdi daaƴii ɗum
+xfoBlocked-title = Daaƴi ɗum ko dawrugol cuɓe X-Frame
 corruptedContentError-title = Juumre Loowdi Jiibndi
 remoteXUL-title = XUL Poottiiɗo
 sslv3Used-title = Horiima Seŋaade e Kisal
