@@ -235,6 +235,8 @@ urlbar-placeholder =
     .placeholder = Įveskite adresą arba paieškos žodžius
 urlbar-remote-control-notification-anchor =
     .tooltiptext = Naršyklė valdoma per nuotolį
+urlbar-permissions-granted =
+    .tooltiptext = Šiai svetainei esate suteikę papildomų leidimų.
 urlbar-switch-to-tab =
     .value = Pereiti į kortelę:
 # Used to indicate that a selected autocomplete entry is provided by an extension.
@@ -244,3 +246,5 @@ urlbar-go-end-cap =
     .tooltiptext = Eiti į adreso lauke surinktą adresą
 urlbar-page-action-button =
     .tooltiptext = Tinklalapio veiksmai
+urlbar-pocket-button =
+    .tooltiptext = Įrašyti į „{ -pocket-brand-name }“
