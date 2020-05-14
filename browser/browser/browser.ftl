@@ -175,9 +175,16 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Cuardaigh nó cuir seoladh isteach
 urlbar-placeholder =
     .placeholder = Cuardaigh nó cuir seoladh isteach
+urlbar-remote-control-notification-anchor =
+    .tooltiptext = Tá an brabhsálaí faoi chianrialú
 urlbar-switch-to-tab =
     .value = Téigh go cluaisín:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = Eisínteacht:
 urlbar-go-end-cap =
     .tooltiptext = Téigh go dtí an seoladh atá sa Bharra Suímh
+urlbar-page-action-button =
+    .tooltiptext = Gníomhartha leathanaigh
 urlbar-pocket-button =
     .tooltiptext = Sábháil i b{ -pocket-brand-name }
