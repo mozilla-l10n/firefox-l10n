@@ -198,5 +198,8 @@ urlbar-placeholder =
     .placeholder = অনুসন্ধান করুন অথবা ঠিকানা প্রবেশ করুন
 urlbar-switch-to-tab =
     .value = চিহ্নিত ট্যাবে পরিবর্তন করুন:
+# Used to indicate that a selected autocomplete entry is provided by an extension.
+urlbar-extension =
+    .value = এক্সটেনশন:
 urlbar-go-end-cap =
     .tooltiptext = ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে
