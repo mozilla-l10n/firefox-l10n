@@ -101,19 +101,48 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 <!ENTITY pageInfoCmd.accesskey "m">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Debuger rozłożynio">
-<!ENTITY ldbCmd.accesskey "L">
+<!ENTITY ldbCmd.accesskey "R">
+<!ENTITY mirrorTabCmd.label "Zdrzadłowo karta">
+<!ENTITY mirrorTabCmd.accesskey "z">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Wlyź do trybu cołkigo ekranu">
+<!ENTITY enterFullScreenCmd.accesskey "C">
+<!ENTITY exitFullScreenCmd.label "Wylyź z trybu cołkigo ekranu">
+<!ENTITY exitFullScreenCmd.accesskey "C">
+
+<!ENTITY fullScreenCmd.label "Cołki ekran">
+<!ENTITY fullScreenCmd.accesskey "C">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Pokoż wszyskie karty">
+<!ENTITY showAllTabsCmd.accesskey "W">
+<!ENTITY toggleReaderMode.key "R">
+<!ENTITY toggleReaderMode.win.keycode "VK_F9">
+
+<!ENTITY fxaSignIn.label "Wloguj sie do &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Ôdewrzij nasztalowania usugi &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "Połōncz sie zaś ze usugōm &syncBrand.shortName.label;">
+<!ENTITY fxaUnverified.label "Zweryfikuj te kōnto…">
 
 
-
-
+<!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
+<!ENTITY fullScreenRestore.tooltip "Wrōć">
+<!ENTITY fullScreenClose.tooltip "Zawrzij">
+<!ENTITY fullScreenAutohide.label "Skryj poski z noczyniami">
+<!ENTITY fullScreenAutohide.accesskey "S">
+<!ENTITY fullScreenExit.label "Wylyź z trybu cołkigo ekranu">
+<!ENTITY fullScreenExit.accesskey "C">
 
  <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
      for the Firefox Account toolbar signin menu screen. -->
+<!ENTITY fxa.signin.callout.label "Zebier Firefoxa ze sobōm">
+<!ENTITY fxa.signin.description.label "Miyj swoje zokłodki, historyjo, hasła i inksze nasztalowania na wszyskich swojich maszinach.">
+<!ENTITY fxa.signin.button.label "Załōncz usuga &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
      for the Firefox Account toolbar unverified menu screen. -->
+<!ENTITY fxa.unverified.callout.label "Badnij na swoja emailowo krzinka">
+<!ENTITY fxa.unverified.description.label "Przed synchrōnizowaniym trza zweryfikować swoje kōnto.">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
