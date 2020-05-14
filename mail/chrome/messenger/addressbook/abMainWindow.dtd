@@ -101,7 +101,7 @@
 <!ENTITY customizeToolbar.accesskey                     "z">
 <!ENTITY layoutMenu.label                               "Yerleşim">
 <!ENTITY layoutMenu.accesskey                           "l">
-<!ENTITY showDirectoryPane.label                        "Dizin Bölmesi">
+<!ENTITY showDirectoryPane.label                        "Dizin bölmesi">
 <!ENTITY showDirectoryPane.accesskey                    "D">
 <!ENTITY showContactPane2.label                         "Kişi Bölmesi">
 <!ENTITY showContactPane2.accesskey                     "K">

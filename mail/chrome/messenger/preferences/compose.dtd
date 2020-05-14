@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Yazı tipi:">
 <!ENTITY font.accesskey                       "Y">
-<!ENTITY size.label                           "Boyut:">
-<!ENTITY size.accesskey                       "B">
 <!ENTITY fontSize.label                       "Boyut:">
 <!ENTITY fontSize.accesskey                   "B">
 <!ENTITY useReaderDefaults.label              "Okuyucunun varsayılan renklerini kullan">
@@ -53,10 +51,10 @@
 <!ENTITY autocompleteText.label                "Adres girerken eşleşen kayıtları bulmak için buraya bak:">
 <!ENTITY addressingEnable.label                "Yerel adres defterleri">
 <!ENTITY addressingEnable.accesskey            "a">
-<!ENTITY directories.label                     "Dizin Sunucusu:">
+<!ENTITY directories.label                     "Dizin sunucusu:">
 <!ENTITY directories.accesskey                 "D">
 <!ENTITY directoriesNone.label                 "Hiçbiri">
-<!ENTITY editDirectories.label                 "Dizinleri Düzenle…">
+<!ENTITY editDirectories.label                 "Dizinleri düzenle…">
 <!ENTITY editDirectories.accesskey             "e">
 <!ENTITY showAsDefault.label                   "Adres defteri penceresinin varsayılan açılış dizini:">
 <!ENTITY showAsDefault.accesskey               "d">

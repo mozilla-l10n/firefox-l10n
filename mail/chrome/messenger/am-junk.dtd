@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY junkSettings.label "Gereksiz Posta Ayarları">
+<!ENTITY junkSettings.label "Gereksiz posta ayarları">
 <!ENTITY trainingDescription.label "Bunu etkinleştirirseniz, &brandShortName; uygulamasının gereksiz postaları tanıyabilmesi için ilk olarak Gereksiz araç çubuğu düğmesi ile gereksiz ve gerekli iletileri işaretleyerek onu eğitmelisiniz. Hem gereksiz hem de gereksiz olmayan iletileri tanımlamanız gerekir. Ardından &brandShortName; gereksiz iletileri otomatik olarak işaretlemeye başlayacaktır.">
 <!ENTITY level.label "Bu hesap için gereksiz posta denetimini etkinleştir">
 <!ENTITY level.accesskey "e">
