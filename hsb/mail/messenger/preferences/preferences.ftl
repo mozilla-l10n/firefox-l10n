@@ -61,6 +61,8 @@ update-in-progress-cancel-button = &Dale
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Přepruwujće swoju identitu, zo byšće hłowne hesło wutworił.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Zapodajće swoje přizjewjenske daty Windows, zo byšće hłowne hesło wutworił. To wěstotu wašich kontow škita.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
