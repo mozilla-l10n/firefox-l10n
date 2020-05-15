@@ -75,6 +75,16 @@ about-debugging-setup-title = Կարգաբերում
 about-debugging-setup-connect-heading = Միացնել սարք
 # USB section of the Setup page
 about-debugging-setup-usb-title = USB
+# Explanatory text displayed in the Setup page when USB debugging is disabled
+about-debugging-setup-usb-disabled = Այս գործառոյթի միացումը կը ներբեռնի և կաւելացնի  { -brand-shorter-name } ֊ի պահանջուած Android USB  վրիպազերծման բաղադրիչները։
+# Text of the button displayed in the USB section of the setup page when USB debugging is disabled.
+# Clicking on it will download components needed to debug USB Devices remotely.
+about-debugging-setup-usb-enable-button = Միացնել USB սարքերը
+# Text of the button displayed in the USB section of the setup page when USB debugging is enabled.
+about-debugging-setup-usb-disable-button = Անջատել USB սարքերը
+# Text of the button displayed in the USB section of the setup page while USB debugging
+# components are downloaded and installed.
+about-debugging-setup-usb-updating-button = Թարմացուում է…
 
 # Runtime Page strings
 
