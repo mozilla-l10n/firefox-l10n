@@ -107,6 +107,7 @@ cfr-whatsnew-tracking-blocked-title =
 cfr-whatsnew-tracking-blocked-subtitle = Gila { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Yiy jaŋtol
 cfr-whatsnew-lockwise-backup-title = Danndu pinle maa
+cfr-whatsnew-lockwise-backup-body = Jooni yeñtin pinle kisɗe ɗe mbaawɗaa heɓde kala ɗo ceŋiɗaa.
 cfr-whatsnew-lockwise-take-title = Nawor pinle maa
 cfr-whatsnew-lockwise-take-body =
     Jaaɓnirgal cinndel { -lockwise-brand-short-name } ngal ina newnan maa yettaade e kisal
@@ -116,6 +117,7 @@ cfr-whatsnew-lockwise-take-link-text = Heɓ jaaɓnirgal ngal
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tappu seeɗa, yiytu ko heese e palal ñiiɓirde
+cfr-whatsnew-searchbar-body-topsites = Jooni, suɓo palal ñiiɓirde ngal, e maa boyet werto wonndude e jokke faade e lowe maa dowrowe.
 
 ## Picture-in-Picture
 
