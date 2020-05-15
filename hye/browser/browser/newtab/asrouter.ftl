@@ -128,6 +128,7 @@ cfr-whatsnew-pip-cta = Իմանալ աւելին
 ## Permission Prompt
 
 cfr-whatsnew-permission-prompt-header = Աւելի քիչ նեարդայնացնող կայքի թռուցիկներ
+cfr-whatsnew-permission-prompt-body = { -brand-shorter-name } ֊ը այժմ արգելափակում է կայքերին ինքանաբար հարցնելուց՝ ուղարկելու համար թռուցիկ հաղորդագրութիւններ։
 cfr-whatsnew-permission-prompt-cta = Իմանալ աւելին
 
 ## Fingerprinter Counter
@@ -205,6 +206,8 @@ cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
 
 ## Lockwise message
 
+cfr-whatsnew-lockwise-header = Հեշտութեամբ ստեղծէք պաշտպանուած գաղտնաբառ
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ֊ի պատկերակ
 
 ## Vulnerable Passwords message
 
