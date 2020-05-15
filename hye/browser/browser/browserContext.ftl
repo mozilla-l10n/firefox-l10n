@@ -280,6 +280,41 @@ main-context-menu-frame-open-tab =
 main-context-menu-frame-open-window =
     .label = Շրջանակը բացել նոր պատուհանում
     .accesskey = W
+main-context-menu-frame-reload =
+    .label = Կրկին բեռնել շրջանակը
+    .accesskey = R
+main-context-menu-frame-bookmark =
+    .label = Էջանշել այս շրջանակը
+    .accesskey =
+        m
+        m
+        m
+        m
+        m
+        m
+        m
+        m
+main-context-menu-frame-save-as =
+    .label = Պահպանել շրջանակը որպէս…
+    .accesskey = F
+main-context-menu-frame-print =
+    .label = Տպել շրջանակը…
+    .accesskey = P
+main-context-menu-frame-view-info =
+    .label = Տեղեկութիւն շրջանակի մասին
+    .accesskey = I
+main-context-menu-view-selection-source =
+    .label = Դիտել նշուած մասի սկզբնաղբիւրը
+    .accesskey = e
 main-context-menu-view-page-source =
     .label = Դիտել էջի սկզբնաղբիւրը
     .accesskey = V
+main-context-menu-view-page-info =
+    .label = Էջի մասին տուեալներ
+    .accesskey = I
+main-context-menu-bidi-switch-text =
+    .label = Փոխել տեքստի ուղղութիւնը
+    .accesskey = w
+main-context-menu-bidi-switch-page =
+    .label = Փոխել էջի ուղղութիւնը
+    .accesskey = D
