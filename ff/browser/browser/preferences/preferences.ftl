@@ -44,6 +44,9 @@ category-search =
 pane-privacy-title = Suturo & Kisal
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+pane-sync-title2 = { -sync-brand-short-name }
+category-sync2 =
+    .tooltiptext = { pane-sync-title2 }
 help-button-label = Wallitorde { -brand-short-name }
 addons-button-label = Jokke & Kettule
 focus-search =
@@ -197,6 +200,8 @@ advanced-fonts =
 colors-settings =
     .label = Nooneeji…
     .accesskey = N
+preferences-default-zoom-value =
+    .label = { $percentage }
 language-header = Ɗemngal
 choose-language-description = Suɓo ɗemngal njiɗ-ɗaa ngam jaytinde kelle
 choose-button =
@@ -281,11 +286,17 @@ applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
 # Variables:
+#   $extension (String) - file extension (e.g .TXT)
+#   $type (String) - the MIME type (e.g application/binary)
+applications-file-ending-with-type = { applications-file-ending }{ $type }
+# Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Huutoro { $plugin-name } (nder { -brand-short-name })
 applications-preview-inapp =
     .label = Yiytino e { -brand-short-name }
+applications-open-inapp =
+    .label = Uddit e { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -299,12 +310,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -340,6 +355,7 @@ update-pref-write-failure-title = Gallugol binndol
 # Variables:
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Daɗndugol cuɓaaɗe aaɓnotaako. Binndol aaɓnotaako nder fiilde:{ $path }
+update-setting-write-failure-title = Juumre e danndugol cuɓoraaɗe kesɗitine
 
 ## General Section - Performance
 
