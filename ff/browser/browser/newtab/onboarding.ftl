@@ -25,6 +25,7 @@ onboarding-join-form-header = Tawtu { -brand-product-name }
 onboarding-welcome-modal-get-body = A heɓii wanngorde ndee.<br/>Jooni noon heɓ ko ɓuri yuɓɓude e { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Ɓeydu ndeenka suturo maa.
 onboarding-welcome-modal-privacy-body = A heɓii wanngorde ndee. Ɓeyden ndeenka suturo heewka.
+onboarding-welcome-modal-family-learn-more = Humpito baɗte { -brand-product-name } topirɗe ciirol gootol.
 onboarding-welcome-form-header = Fuɗɗo ɗoo
 onboarding-join-form-body = Naat-nu ñiiɓirde iimeel maa ngam fuɗɗaade.
 onboarding-join-form-email =
@@ -66,9 +67,11 @@ onboarding-sync-form-sub-header = ngam jokkude to { -sync-brand-name }
 ## description.
 
 onboarding-benefit-products-title = Topirɗe nafooje
+onboarding-benefit-knowledge-text = Humpito kala ko cokluɗaa humpitaade ngam wonde ɓurɗo ƴoƴde et ɓurɗo hisde e ceŋogol.
 onboarding-benefit-sync-title = { -sync-brand-short-name }
 onboarding-benefit-sync-text = Naw maantore mma, pinle maa, aslol maa e goɗɗe kala ɗo kuutoriɗaa { -brand-product-name }.
 onboarding-benefit-monitor-title = { -monitor-brand-short-name }
+onboarding-benefit-monitor-text = Heɓ tintine so humpito maa heeriingo ina woni e ciigol keɓe ngol anndaaka.
 onboarding-benefit-lockwise-title = { -lockwise-brand-short-name }
 onboarding-benefit-lockwise-text = Toppito pinle deenaaɗe etee naworteeɗe.
 
