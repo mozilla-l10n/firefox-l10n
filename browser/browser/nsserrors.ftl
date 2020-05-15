@@ -2,6 +2,9 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+# Variables:
+# $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
+cert-error-code-prefix = Kod juumre: { $error }
 psmerr-ssl-disabled = Waawaa seŋaade e kisal sabu jaɓɓitorde SSL ndee ko daaƴaande.
 psmerr-ssl2-disabled = Waawaa seŋaade e kisal sabu ndee lowre huutortoo ko yamre ɓooynde, nde hisaani jaɓɓitorde SSL ndee.
 # This is a multi-line message.
