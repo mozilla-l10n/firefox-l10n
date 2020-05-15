@@ -203,4 +203,6 @@
 <!ENTITY dontShowMessage.label        "Ne jelenjen meg ez az üzenet a felugró ablakok blokkolásakor.">
 <!ENTITY dontShowMessage.accesskey    "N">
 
+<!ENTITY throbber.tooltip2 "Ugrás a &brandShortName; honlapjára">
+
 <!ENTITY syncToolbarButton.label "Szinkronizálás">
