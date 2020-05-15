@@ -61,6 +61,8 @@ update-in-progress-cancel-button = &Folytatás
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Igazolja személyazonosságát a mesterjelszó létrehozásához.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Mesterjelszó létrehozásához írja be a Windows bejelentkezési hitelesítő adatait. Ez elősegíti a fiókjai biztonságának védelmét.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
