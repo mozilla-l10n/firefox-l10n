@@ -164,7 +164,7 @@ main-context-menu-media-play-speed-faster =
 # "Ludicrous" is a reference to the movie "Space Balls" and is meant
 # to say that this speed is very fast.
 main-context-menu-media-play-speed-fastest =
-    .label = Անհաւանական (2x)
+    .label = Անմիտ (2x)
     .accesskey = L
 main-context-menu-media-loop =
     .label = Աւղակում
@@ -329,3 +329,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Իմանալ աւելին DRM-ի մասին…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = Ծանուցել նոր գործառոյթների մասին

@@ -9,7 +9,7 @@ cfr-doorhanger-extension-heading = Երաշխաւորուած ընդլայնու
 cfr-doorhanger-feature-heading = Առաջարկուող յատկութիւն
 cfr-doorhanger-pintab-heading = Փորձեք սա. Ամրացնել ներդիրը
 
-
+##
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Ինչու եմ ես սա տեսնում
@@ -116,6 +116,10 @@ cfr-whatsnew-lockwise-take-title = Վերցրեք Ձեր գաղտնաբառեր�
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } բջջային հաւելուածը հնարաւորութիւն է տալիս ապահով կերպով մուտք գործել Ձեր կրկնաւրինակուած գաղտնաբառերը ցանկացած վայրից։
 cfr-whatsnew-lockwise-take-link-text = Ստանալ հաւելուածը
 
+## Search Bar
+
+cfr-whatsnew-searchbar-title = Մուտքագրէք աւելի քիչ, աւելին կգտնէք հասցէի տողի հետ
+
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = Դիտել տեսահոլովակներ զննարկելիս
@@ -195,3 +199,15 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Պահպանել բոլորը
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
