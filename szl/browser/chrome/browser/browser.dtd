@@ -466,18 +466,41 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys.  -->
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Przipnij do rozszyrzanego myni">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "r">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ôdepnij ôd rozszyrzanego myni">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.label "Wyciep ze poska z noczyniami">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "W">
+<!ENTITY customizeMenu.addMoreItems.label "Przidej wiyncyj elymyntōw…">
+<!ENTITY customizeMenu.addMoreItems.accesskey "E">
+<!ENTITY customizeMenu.autoHideDownloadsButton.label "Autōmatycznie skrywej w posku z noczyniami">
+<!ENTITY customizeMenu.autoHideDownloadsButton.accesskey "A">
+<!ENTITY customizeMenu.manageExtension.label "Regiyruj rozszyrzyniym">
+<!ENTITY customizeMenu.manageExtension.accesskey "G">
+<!ENTITY customizeMenu.removeExtension.label "Wyciep rozszyrzynie">
+<!ENTITY customizeMenu.removeExtension.accesskey "I">
 <!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
      toolbar buttons context menus, a user can use this command to submit to Mozilla
      an abuse report related to that extension. "Report" is a verb. -->
+<!ENTITY customizeMenu.reportExtension.label "Dej znać ô rozszyrzyniu">
+<!ENTITY customizeMenu.reportExtension.accesskey "d">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Wiyncyj">
 
+<!ENTITY openCmd.commandkey           "l">
 
+<!ENTITY urlbar.placeholder2          "Szukej abo wkludź adresa">
+<!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Rozszyrzynie:">
+<!ENTITY urlbar.switchToTab.label     "Przełōncz na karta:">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Dorada:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 <!--
