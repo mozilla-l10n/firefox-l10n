@@ -121,8 +121,14 @@
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara2 "&brandShortName;֊ը յայտնաբերել է անվտանգութեան սպառնալիք եւ չի շարունակել <span class='hostname'/>։ Եթե այցելէք այս կայք, հարձակուողները կարող են փորձել ստանալ Ձեր գաղտնաբառերի, էլ֊փոստերի, կամ վարկային քարտի մասին տեղակութիւն։">
+<!ENTITY certerror.sts.introPara "&brandShortName;֊ը յայտնաբերել է անվտանգութեան սպառնալիք եւ չի շարունակել <span class='hostname'/>, քանզի այս կայքը պահանջում է ապահով միացում։">
 
+<!ENTITY certerror.expiredCert.introPara "&brandShortName; խնդիր է յայտնաբերել, դադարեցնելով <span class='hostname'/>: Կայքը կա՛մ ձեւափոխուած է սխալ կերպով, կա՛մ Ձեր համակարգչի ժամացոյցը սխալ է։">
+<!ENTITY certerror.expiredCert.secondPara2 "Հնարաւոր է, որ կայքի վկայագրի ժամկետն աւարտուել է, ինչը կանխում է &brandShortName;֊ին ապահով կերպով միացումից։ Եթե այցելէք այս կայք, ապա հարձակուողները կարող են փորձել գողանալ Ձեր գաղտնաբառերի, էլ֊փոստի կամ վարկային քարտի տվուեալների նման տեղեկատուութիւններ։">
+<!ENTITY certerror.expiredCert.sts.secondPara "Հնարաւոր է, որ կայքի վկայագրի ժամկետն աւարտուել է, ինչը կանխում է &brandShortName;֊ին ապահով կերպով միացումից։">
 
+<!ENTITY certerror.whatCanYouDoAboutItTitle "Ի՞նչ կարող եք անել դրա վերաբերեալ։">
 
 
 
