@@ -30,6 +30,7 @@ policy-DisableFirefoxStudies = Haɗ { -brand-short-name } waɗde wiɗtooji.
 policy-DisableForgetButton = Haɗ jettagol butoŋ Forget
 policy-DisableFormHistory = Hoto tesko kewol njiylawu kam e ɗaɓɓirɗe.
 policy-DisableMasterPasswordCreation = So wonii goonga, finnde rowrowre waawaa soseede.
+policy-DisablePasswordReveal = Hoto yamir pinle caaktee e ceŋorɗe danndaaɗe.
 policy-DisablePocket = Ñif gollirde kisnugol kelle geese nder Pocket.
 policy-DisablePrivateBrowsing = Ñif banngagol keeringol
 policy-DisableProfileImport = Ñif yamirirde cuɓirgol faggorde keɓe ummoraade e wanngorde woɗnde.
@@ -54,14 +55,21 @@ policy-HardwareAcceleration = So tawii wonaa goonga, ñif hartaango kaɓirgal.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = So ina hatojini, toɗɗo cokaa hello jaɓɓorgo ngoo.
 policy-InstallAddonsPermission = Yamir won ɗeen lowe aafde gulɗe timmitooje.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+
+##
+
 policy-NoDefaultBookmarks = Ñif cosgol maantore garduɗe e { -brand-short-name }, kam e maatore peeleeje (jele ɓurɗe yilleede, ɗe ɓooyaani). Tesko : ndee feere yuumtata tan ko nde huutoraa ko adii ciynugol gadanol sifoode ndee.
 policy-OfferToSaveLogins = Teeŋtin ñaawirgel gaddanoowel{ -brand-short-name } yamirde huutorɓe siftorde baccooje e pinle kisnaaɗe. Njaruuji goonga walla fenaande ina njaɓee.
 policy-OverrideFirstRunPage = Faalkiso hello ciynugol adanngo ngoo. Toɗɗo feere ndee e mehum so aɗa yiɗi ñifde hello adanngo ciynugol ngol.
 policy-OverridePostUpdatePage = Faalkiso hello "Hol ko hesɗi" hesɗitinaango ngoo. Toɗɗo feere ndee e mehum so aɗa yiɗi ñifde hello caggal kesɗitingol ngoo.
-policy-Permissions = Teelto jamirooje wonande kamera, mikroo e nokku kam e tintine.
 policy-PopupBlocking = Yamir huunde e lowe geese ɗisde kenorɗe pawiiɗe e ngonkaaji tafdaaɗe.
+policy-PromptForDownloadLocation = Naamno hol to ndanndataa piile saanga gaawtogol.
 policy-Proxy = Teelto ñaawirɗe proxy.
 policy-RequestedLocales = Toɗɗo doggol ñaawirɗe diiwaneeje ɗe jaaɓngal ngal ɗaɓɓi ɗee fawaade e ɓurɗe yiɗeede.
+policy-SanitizeOnShutdown2 = Momtu keɓe banngagol so dartaama.
 policy-SearchBar = Toɗɗo nokku ɗo palal njiylawu foti wonde. Kuutoro ina yamiraa neɗɗinde ngal.
 policy-SearchEngines = Teelto ñaawirɗe yiylorde ndee. Ndee feere heɓii tan ko tuggude e yamre ESR (Extended Support Release)
 # For more information, see https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS/PKCS11/Module_Installation
