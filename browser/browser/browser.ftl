@@ -271,4 +271,4 @@ urlbar-go-end-cap =
 urlbar-page-action-button =
     .tooltiptext = Akce stránky
 urlbar-pocket-button =
-    .tooltiptext = Uloží do služby { -pocket-brand-name }
+    .tooltiptext = Uloží do { -pocket-brand-name(case: "gen") }
