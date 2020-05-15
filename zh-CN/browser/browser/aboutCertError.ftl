@@ -11,7 +11,7 @@ cert-error-mitm-connection = { -brand-short-name } 使用 Mozilla 的数字证�
 cert-error-trust-unknown-issuer-intro = 可能有人试图冒充该网站，您不应该继续访问。
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
-cert-error-trust-unknown-issuer = 各个网站通过证书证明自己的身份。{ -brand-short-name } 不信任 { $hostname }，因其证书颁发者未知，证书是自签名的，或者服务器未发送正确的中间证书。
+cert-error-trust-unknown-issuer = 各个网站通过证书证明自己的身份。{ -brand-short-name } 不信任 { $hostname }，因其证书颁发者未知，证书是自己签名而不受可信第三方承认的，或者服务器未发送正确的中间证书。
 cert-error-trust-cert-invalid = 该证书不被信任，因为它由无效的 CA 证书颁发者颁发。
 cert-error-trust-untrusted-issuer = 该证书因为其颁发者证书不受信任而不被信任。
 cert-error-trust-signature-algorithm-disabled = 该证书不被信任，因为证书签名所使用的签名算法因不安全已被禁用。
