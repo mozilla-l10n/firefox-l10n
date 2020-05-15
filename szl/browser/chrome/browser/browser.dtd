@@ -799,9 +799,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Edytuj preferyncyje szperowanio wyskakujōncych ôkiyn…">
+<!ENTITY editPopupSettings.label "Edytuj ôpcyje szperowanio wyskakujōncych ôkiyn…">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "N">
 
+<!ENTITY bidiSwitchPageDirectionItem.label        "Zmiyń kerunek strōny">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "k">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Przełōncz kerunek tekstu">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "e">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
+<!ENTITY findOnCmd.label     "Znojdź na tyj strōnie…">
+<!ENTITY findOnCmd.accesskey "Z">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "Znojdź zaś">
+<!ENTITY findAgainCmd.accesskey "z">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
 
+<!ENTITY spellAddDictionaries.label "Przidej dykcōjnorze…">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
