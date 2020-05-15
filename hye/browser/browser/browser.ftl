@@ -157,6 +157,19 @@ bookmark-panel =
 identity-connection-not-secure = Կապակցումը ապահով չէ
 identity-connection-secure = Կապակցումը ապահով է
 identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է
+identity-connection-file = Այս էջը պահուում է Ձեր համակարգչում
+identity-extension-page = Այս էջը բեռնուել է ընդլայնումից
+identity-active-blocked = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չէն:
+identity-custom-root = Կապակցումը հաստատուել է վկայագրի թողարկողի կողմից, որը ճանաչուած չէ Mozilla֊ի կողմից։
+identity-passive-loaded = Այս էջի մասերը անվտանգ չէն (օր.՝ պատկերները)
+identity-active-loaded = Դուք անջատել եք պաշտպանութիւնը այս էջում:
+identity-permissions =
+    .value = Արտոնութիւններ
+identity-connection-not-secure-security-view = Ձեր կապը այս կայքի հետ ապահով չէ
+identity-connection-verified = Ձեր կապը այս կայքի հետ ապահով է
+identity-remove-cert-exception =
+    .label = Հեռացնել բացառութիւնը
+    .accesskey = R
 
 ## Window controls
 
