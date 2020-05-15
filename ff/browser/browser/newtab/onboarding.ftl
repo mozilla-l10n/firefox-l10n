@@ -119,8 +119,12 @@ onboarding-lockwise-passwords-title = Nawor pinle maa kala nokku
 onboarding-lockwise-passwords-text2 = Waɗ pinle ndannduɗaa-ɗee kisɗe etee seŋo no weeɓiri e konte maa e { -lockwise-brand-name }.
 onboarding-lockwise-passwords-button2 = Heɓ jaaɓnirgal ngal
 onboarding-lockwise-strong-passwords-title = Sos e mooftu pinle maa tekkuɗe
+onboarding-lockwise-strong-passwords-text = { -lockwise-brand-name } ina sosa pinle tekkuɗe e darnde etee moofta kanje fof e nokku gooto.
 onboarding-lockwise-strong-passwords-button = Toppito ceŋorɗe maa
 onboarding-facebook-container-title = Waɗ keeri e Facebook
+onboarding-facebook-container-text2 = { -facebook-container-brand-name }waɗat heftinirde maa seertunde e huunde woɗnde kala, saɗtinana Faacebook joopaade ma e ɓaŋŋine.
+onboarding-facebook-container-button = Ɓeydu timmitere ndee
+onboarding-import-browser-settings-title = Jiggo maantore maa, pinle maa, e goɗɗe
 onboarding-import-browser-settings-button = Jiggo keɓe Chrome
 onboarding-personal-data-promise-button = Tar Aadi amen
 
