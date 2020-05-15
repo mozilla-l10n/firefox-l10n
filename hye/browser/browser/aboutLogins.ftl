@@ -105,6 +105,8 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = Հաստատէք Ձեր ինքնութիւնը ՝ պահպանուած մուտքը խմբագրելու համար։
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = խմբագրել պահպանուած մուտքը։
@@ -159,9 +161,16 @@ confirm-discard-changes-dialog-confirm-button = Մերժել
 ## Breach Alert notification
 
 breach-alert-text = Այս կայքի գաղտնաբառերը արտահոսուել կամ գողացուել են այն բանից յետոյ, երբ վերջին անգամ թարմացրել եք Ձեր մուտքի տուեալները։ Փոխեք Ձեր գաղտնաբառը՝ Ձեր հաշիւը պաշտպանելու համար։
+about-logins-breach-alert-learn-more-link = Իմանալ աւելին
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Խոցելի գաղտնաբառ
+about-logins-vulnerable-alert-text2 = Այս գաղտնաբառը կարծես աւգտագործուել է այլ հաշուի կողմից։ Կրկնաւգտագործումը կարող ե վտանգել Ձեր բոլոր հաշիւները։ Փոխէք այս գաղտանաբռը։
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Գնալ դեպի { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Իմանալ աւելին
 
 ## Error Messages
 
