@@ -262,3 +262,6 @@ main-context-menu-view-background-image =
 main-context-menu-link-send-to-device =
     .label = Ուղարկել յղումը սարքին
     .accesskey = n
+main-context-menu-view-page-source =
+    .label = Դիտել էջի սկզբնաղբիւրը
+    .accesskey = V
