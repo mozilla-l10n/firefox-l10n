@@ -225,6 +225,7 @@ popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabaha
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Para gamitin ang F1 2 shortcut, unang buksan ang DevTools sa Web Developer menu.
 
 ## URL Bar
 
