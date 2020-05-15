@@ -35,6 +35,12 @@ protection-report-page-title = Adatvédelem
 protection-report-content-title = Adatvédelem
 etp-card-title = Továbbfejlesztett követés elleni védelem
 etp-card-content = A nyomkövetők követik Önt online, és információkat gyűjtenek a böngészési szokásairól és érdeklődési köreiről. A { -brand-short-name } számos ilyen követőt és rosszindulatú parancsfájlt blokkol.
+protection-report-webpage-title = Védelmi vezérlőpult
+protection-report-page-content-title = Védelmi vezérlőpult
+protection-report-page-summary = Amíg Ön böngészik, a { -brand-short-name } a színfalak mögött gondoskodik az adatvédelméről. Ez ezen védelmek személyre szabott összefoglalója, olyan eszközökkel, melyekkel átveheti az irányítást az online biztonsága felett.
+etp-card-title-always = Továbbfejlesztett követés elleni védelem: Mindig bekapcsolva
+etp-card-title-custom-not-blocking = Továbbfejlesztett követés elleni védelem: KI
+etp-card-content-summary = Ha ismeretlen vállalatok próbálják titokban követni a weben, a { -brand-short-name } sokukat automatikusan megállítja.
 protection-report-etp-card-content-custom-not-blocking = Jelenleg minden védelem ki van kapcsolva. A { -brand-short-name } védelmi beállításainak kezelésével válassza ki, mely nyomkövetőket blokkolja.
 protection-report-manage-protections = Beállítások kezelése
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -115,6 +121,10 @@ monitor-header-content-no-account = Ellenőrizze a { -monitor-brand-name } oldal
 monitor-header-content-signed-in = A { -monitor-brand-name } figyelmezteti, ha az adatai új adatsértésben jelennek meg.
 monitor-sign-up = Iratkozzon fel az adatsértési figyelmeztetésekre
 auto-scan = Automatikusan ellenőrizve ma
+monitor-emails-tooltip =
+    .title = Megfigyelt e-mail címek megtekintése a { -monitor-brand-short-name }on
+monitor-breaches-tooltip =
+    .title = Ismert adatsértések megtekintése a { -monitor-brand-short-name }on
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
