@@ -727,9 +727,19 @@ fast. -->
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "Pokoż kōntrolery">
 <!ENTITY mediaShowControls.accesskey "K">
+<!ENTITY mediaHideControls.label     "Skryj kōntrolery">
+<!ENTITY mediaHideControls.accesskey "J">
+<!ENTITY videoFullScreen.label       "Cołki ekran">
+<!ENTITY videoFullScreen.accesskey   "C">
+<!ENTITY videoSaveImage.label        "Spamiyntej migōwka za…">
+<!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Pokoż statystyki">
+<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoHideStats.label        "Skryj statystyki">
+<!ENTITY videoHideStats.accesskey    "t">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -737,17 +747,55 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
- <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.label       "Zwiynksz">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "i">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
+<!ENTITY fullZoomReduceCmd.label        "Zmyńsz">
+<!ENTITY fullZoomReduceCmd.accesskey    "m">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
+<!ENTITY fullZoomResetCmd.label         "Wynuluj">
+<!ENTITY fullZoomResetCmd.accesskey     "N">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
+<!ENTITY fullZoomToggleCmd.label        "Zwiynkszej ino tekst">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
 
+<!ENTITY fullZoom.label                 "Zwiynkszynie">
+<!ENTITY fullZoom.accesskey             "Z">
 
+<!ENTITY sidebarCloseButton.tooltip     "Zawrzij posek na rancie">
+<!ENTITY sidebarMenuClose.label         "Zawrzij posek na rancie">
 
+<!ENTITY quitApplicationCmdWin2.label       "Skōńcz">
+<!ENTITY quitApplicationCmdWin2.accesskey   "s">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Skōńcz &brandShorterName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Skōńcz">
+<!ENTITY quitApplicationCmd.accesskey   "s">
+<!ENTITY quitApplicationCmdMac2.label   "Skōńcz &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
+<!ENTITY closeCmd.label                 "Zawrzij">
+<!ENTITY closeCmd.key                   "W">
+<!ENTITY closeCmd.accesskey             "Z">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
+<!ENTITY pageStyleMenu.label "Styl strōny">
+<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleNoStyle.label "Bez stylu">
+<!ENTITY pageStyleNoStyle.accesskey "u">
+<!ENTITY pageStylePersistentOnly.label "Bazowy styl">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
