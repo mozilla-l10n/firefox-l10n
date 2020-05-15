@@ -1,0 +1,95 @@
+# This Source Code Form is subject to the terms of the Mozilla Public
+# License, v. 2.0. If a copy of the MPL was not distributed with this
+# file, You can obtain one at http://mozilla.org/MPL/2.0/.
+
+
+### Notice: If you're updating this list, you should also
+###         update the list in mozIntl.js.
+
+region-name-ad = Անդորրա
+region-name-ae = Արաբական Միացեալ Էմիրութիւններ
+region-name-af = Աֆղանստան
+region-name-ag = Անտիգուա եւ Բարբուդա
+region-name-ai = Անգուիլլա
+region-name-al = Ալբանիա
+region-name-am = Հայաստան
+region-name-ao = Անգոլա
+region-name-aq = Անտարկտիկա
+region-name-ar = Արգենտինա
+region-name-as = Ամերիկեան Սամոա
+region-name-at = Աուստրիա
+region-name-au = Աուստրալիա
+region-name-aw = Արուբա
+region-name-az = Ադրբեջան
+region-name-ba = Բոսնիա եւ Հերցեգովինա
+region-name-bb = Բարբադոս
+region-name-bd = Բանգլադեշ
+region-name-be = Բելգիա
+region-name-bf = Բուրկինա Ֆասո
+region-name-bg = Բուլղարիա
+region-name-bh = Բահրեյն
+region-name-bi = Բուրունդի
+region-name-bj = Բենին
+region-name-bl = Սեն Բարտելմի
+region-name-bm = Բերմուդա
+region-name-bn = Բրունեյ
+region-name-bo = Բոլիւիա
+region-name-bq = Բոնայրէ, Սինթ Էուստատիուս և Սաբա
+region-name-br = Բրազիլիա
+region-name-bs = Բահամներ
+region-name-bt = Բութան
+region-name-bv = Բուուեթ կղզի
+region-name-bw = Բոտսուանա
+region-name-by = Բելառուս
+region-name-bz = Բելիզ
+region-name-ca = Կանադա
+region-name-cc = Կոկոսեան (Քիլինգ) կղզիներ
+region-name-cd = Կոնգո- Կինշասա
+region-name-cf = Կենտրոնական Աֆրիկեան հանրապետութիւն
+region-name-cg = Կոնգո - Բրազաւիլ
+region-name-ch = Շուեյցարիա
+region-name-ci = Կոտ դ’Իւուար
+region-name-ck = Կուկի կղզիներ
+region-name-cl = Չիլի
+region-name-cm = Կամերուն
+region-name-cn = Չինաստան
+region-name-co = Կոլումբիա
+region-name-cp = Քլիփերթոն
+region-name-cr = Կոստա Ռիկա
+region-name-cu = Կուբա
+region-name-cv = Կաբո Վերդէ
+region-name-cw = Կիւրասաո
+region-name-cx = Սուրբ Ծննդեան կղզի
+region-name-cy = Կիպրուս
+region-name-cz = Չեխիա
+region-name-de = Գերմանիա
+region-name-dg = Դիեգո Գարսիա
+region-name-dj = Ջիբութի
+region-name-dk = Դանիա
+region-name-dm = Դոմինիկա
+region-name-do = Դոմինիկեան Հանրապետութիւն
+region-name-dz = Ալժիր
+region-name-ec = Էկուադոր
+region-name-ee = Էստոնիա
+region-name-eg = Եգիպտոս
+region-name-eh = Արեւմտեան Սահարա
+region-name-er = Էրիթրեա
+region-name-es = Իսպանիա
+region-name-et = Եթովպիա
+region-name-fi = Ֆինլանդիա
+region-name-fj = Ֆիջի
+region-name-fk = Ֆոլքլենդեան կղզիներ
+region-name-fm = Միկրոնեզիա
+region-name-fo = Ֆարերեան կղզիներ
+region-name-fr = Ֆրանսիա
+region-name-ga = Գաբոն
+region-name-gb = Անգլիա
+region-name-gd = Գրենադա
+region-name-ge = Վրաստան
+region-name-gf = Ֆրանսիական Գուիանա
+region-name-gg = Գերնսի
+region-name-gh = Գանա
+region-name-gi = Ջիբրալթար
+region-name-gl = Գրենլանդիա
+region-name-gm = Գամբիա
+region-name-gn = Գվինեա
