@@ -112,6 +112,8 @@ onboarding-mobile-phone-text = Aawto { -brand-product-name } ngam iOS walla Andr
 # browser.
 onboarding-mobile-phone-button = Aawto wanngorde cinndel
 onboarding-send-tabs-title = Neldu hoore maa tabbe ko aldaa e hebaade
+onboarding-pocket-anywhere-title = Tar e heɗo kala ɗo ngonɗaa
+onboarding-pocket-anywhere-text2 = Danndu loowdi maa katojinɗaa e jaaɓnirgal{ -pocket-brand-name } ngal e tar, heɗo, etee ndaar kala nde ɗum hawran-maa.
 onboarding-pocket-anywhere-button = Eto { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Nawor pinle maa kala nokku
 onboarding-lockwise-passwords-button2 = Heɓ jaaɓnirgal ngal
