@@ -46,6 +46,8 @@ login-list-count =
     }
 login-list-sort-label-text = Տեսակաւարել ըստ՝
 login-list-name-option = Անուան (Ա-Ֆ)
+login-list-name-reverse-option = Անուան(Ֆ֊Ա)
+about-logins-login-list-alerts-option = Ծանուցումներ
 login-list-last-changed-option = Վերջին փոփոխութեան
 login-list-last-used-option = Վերջին աւգտագործման
 login-list-intro-title = Մուտքագրումներ չկան
@@ -57,6 +59,8 @@ login-list-item-subtitle-new-login = Մուտքագրեք Ձեր մուտքագ�
 login-list-item-subtitle-missing-username = (չկա աւգտուողի անուն)
 about-logins-list-item-breach-icon =
     .title = Խախտուած կայք
+about-logins-list-item-vulnerable-password-icon =
+    .title = Խոցելի գաղտնաբառ
 
 ## Introduction screen
 

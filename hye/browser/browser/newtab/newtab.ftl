@@ -86,10 +86,9 @@ newtab-menu-show-privacy-info = Մեր հովանաւորները եւ Ձեր գ
 
 newtab-privacy-modal-button-done = Աւարտ
 newtab-privacy-modal-header = Ձեր գաղտնիութիւնը կարեւոր է։
-newtab-privacy-modal-paragraph = Բացի հետաքրքրաշարժ հոդուածներ պահպանելուց, մենք նաեւ ցոյց ենք տալիս Ձեզ ընտրուած հովանաւորների կողմից ապացուցուած բովանդակութիւն։ Համոզուեք որ Ձեր տուեալները վեբ֊սերուինգը երբեք չի թողնի { -brand-product-name } — Ձեր անձնական աւրինակը, մենք չունենք։ Նրանց հասանելիութիւնը, եւ մեր հովանաւորները նոյնպէս չունեն։
 newtab-privacy-modal-link = Իմացեք թե ինչպէս է գաղտնիութիւնն աշխատում նոր ներդիրում
 
-
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Հեռացնել էջանիշը
@@ -121,6 +120,7 @@ newtab-menu-open-file = Բացել նիշքը
 newtab-label-visited = Այցելած
 newtab-label-bookmarked = Էջանշուած
 newtab-label-removed-bookmark = Էջանիշը հեռացուել է
+newtab-label-recommended = Միտում
 newtab-label-saved = Պահպանուած է { -pocket-brand-name }-ում
 newtab-label-download = Ներբեռնուած է
 
@@ -175,8 +175,6 @@ newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Հանրաճանաչ թէմաներ.
 newtab-pocket-more-recommendations = Լրացուցիչ առաջարկութիւններ
-newtab-pocket-how-it-works = Ինչպէս է աշխատում
-newtab-pocket-whats-pocket = Ի՞նչ է { -pocket-brand-name }-ը։
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւնները { -pocket-brand-name }, եւ Ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանութեամբ։
 
