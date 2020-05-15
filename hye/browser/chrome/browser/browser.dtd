@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Էջի աղբիւրը">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Էջի մասին տուեալներ">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Դասաւորութեան վրիպազերծում">
 <!ENTITY ldbCmd.accesskey "L">
@@ -127,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Վերակապակցել &syncBrand.shortName.label;-ին">
 <!ENTITY fxaUnverified.label "Հաստատել Ձեր հաշիւը">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "Փոքրացնել">
 <!ENTITY fullScreenRestore.tooltip "Վերականգնել">
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Էջանիշեր">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "Էջանշել այս էջը">
 <!ENTITY editThisBookmarkCmd.label "Խմբագրել այս էջանիշը">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,10 +238,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Ընդհատել">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Գնալ հասցէի տողում նշուած հասցէով">
+
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տուեալ էջը">
 
@@ -295,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմութիւնը">
+
 
 <!ENTITY searchItem.title             "Որոնում">
 
@@ -359,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Կառաւարել պարունակները">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Նոր պատուհան">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -418,7 +414,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 
 <!ENTITY showAllHistoryCmd2.label "Ցուցադրել ամբողջ պատմութիւնը">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Ցուցադրել ամբողջ պատմութիւնը">
@@ -599,7 +594,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Կրկին բեռնել շրջանակը">
 <!ENTITY reloadFrameCmd.accesskey     "R">
@@ -639,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Պահպանել Pocket-ում">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Պահպանել էջը Pocket-ում">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Պահպանել յղումը Pocket-ում">
@@ -651,7 +648,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "Պահպանել շրջանակը որպէս…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -755,20 +751,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Խոշորացնել">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Փոքրացնել">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "Վերակայել">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -792,7 +785,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Փակել">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -818,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Փոխել գրոյթի ուղղութիւնը">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Որոնում էջում…">
@@ -848,19 +839,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Կապակցում">
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
 <!ENTITY identity.connectionNotSecure "Կապակցումը անվտանգ չէ">
-
-<!ENTITY identity.connectionSecure3 "Միացումը ապահով է">
-<!ENTITY identity.connectionNotSecure2 "Կապակցումը անվտանգ չէ">
-<!ENTITY identity.connectionNotSecureSecurityView "Այս կայքի հետ Դուք կապակցուած եք անապահով կերպով։">
 <!ENTITY identity.connectionFile "Այս էջը գտնուում է համակարգչում։">
 <!ENTITY identity.connectionVerified2 "Դուք անվտանգ կապակցուած եք այս կայքին, որը աշխատեցնում է՝">
-<!ENTITY identity.connectionVerified3 "Դուք անվտանգ կապակցուել եք այս կայքի հետ։">
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է։">
 <!ENTITY identity.extensionPage "Այս էջը բեռնուել է ընդլայնումից։">
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգուած են։">
 <!ENTITY identity.customRoot "Կապը հաստատուած է ըստ թողարկողի վաւերագրի, որը ճանաչուած չէ Mozilla-ի կողմից։">
-
-<!ENTITY identity.evOwnerLabel2 "Վկայագիր, որը տրուել է՝">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի մասերը, քանի որ դրանք անվտանգ չեն։">
@@ -876,6 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeBlocked "&brandShortName;-ը արգելափակել է այս էջի այն հատվածները, որոնք ապահով չեն։">
 <!ENTITY identity.description.passiveLoaded "Ձեր կապը մասնաւոր չէ, եւ կայքի հետ կիսուող տեղեկութիւնները կարող են դիտուել ուրիշների կողմից:">
 <!ENTITY identity.description.passiveLoaded2 "Այս կայքը պարունակում է այնպիսի բովանդակութիւն որն ապահով չէ։ (աւր.՝ պատկերներ)։">
+<!ENTITY identity.description.passiveLoaded3 "Չնայած &brandShortName;-ը արգելափակել է որոշ բովանդակութիւն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակութիւն (աւր.՝ պատկերներ)։">
 <!ENTITY identity.description.activeLoaded "Այս կայքը պարունակում է այնպիսի բովանդակութիւն, որն ապահով չէ (աւրինակ ՝ գրութիւններ), եւ դրա հետ կապը մասնաւոր չէ:">
 <!ENTITY identity.description.activeLoaded2 "Տեղեկութիւններ, որոնք դուք կիսում եք այս կայքի հետ, կարող էին դիտուել ուրիշների կողմից (աւրինակ գաղտնաբառերը, հաղորդագրութիւնները, վարկային քարտերը եւ այլն):">
 <!ENTITY identity.description.customRoot "Mozilla- ն չի ճանաչում այս վկայագրի թողարկողը: Այն կարող է ավելացուել Ձեր գործաւար համակարգից կամ վարչարարի կողմից:">
@@ -894,8 +879,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Մաքրել նշոցիկները եւ կայքի տուեալները…">
 
 <!ENTITY identity.permissions "Թոյլտուութիւններ">
-
-<!ENTITY identity.permissions3 "Թոյլտուութիւններ">
 <!ENTITY identity.permissionsEmpty "Դուք այս կայքէջին ոչ մի յատուկ թոյլտվութիւն չեք տվել:">
 <!ENTITY identity.permissionsReloadHint "Կարող է անհրաժեշտ լինել վերբեռնել էջը `փոփոխութիւնների համար:">
 <!ENTITY identity.permissionsPreferences.tooltip "Բացել իրաւունքների նախասիրութիւնները">
@@ -1042,6 +1025,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Փակել">
 

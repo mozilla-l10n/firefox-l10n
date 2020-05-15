@@ -40,29 +40,62 @@
 
 <!ENTITY fileAccessDenied.title "Նիշքի ընդունումը մերժուած է">
 
+<!ENTITY fileAccessDenied.longDesc "<ul>
+  <li>Հնարաւոր է՝ այն հեռացուել է, տեղափոխուել կամ նիշքի թոյլտուութիւնները կանխել են ընդունումը։</li>
+</ul>">
 
+<!ENTITY generic.title "Վա՜յ։">
 
+<!ENTITY generic.longDesc "<p>&brandShortName;-ը ինչ-որ պատճառով չի կարող բեռնել այս էջը։</p>">
 
+<!ENTITY captivePortal.title "Մուտք գործել ցանց">
+<!ENTITY captivePortal.longDesc2 "<p>Դուք պէտք է մուտք գործէք այս ցանց, որ կարողանաք մուտք գործել համացանց։</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Բացել ցանց մուտք գործելու էջը">
 
+<!ENTITY malformedURI.pageTitle "Անվաւեր URL">
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY malformedURI.title1 "Կարծես հասցէն ճիշտ չէ։">
 
+<!ENTITY netInterrupt.title "Կապը խզուեց">
 
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
+<!ENTITY notCached.title "Փաստաթուղթը սպառուել է">
 
+<!ENTITY notCached.longDesc "<p>Պահանջուող փաստաթուղթը հասանելի չէ &brandShortName;-ի պահոցում։</p><ul><li>Անվտանգութեան նկատառումներով &brandShortName;-ը ինքնաշխատ չի վերապահանջում նմանատիպ փաստաթղթերը։ </li><li>Սեղմէք, Կրկին փորձել՝ վերապահանջելու փաստաթուղթը կայքից։</li></ul>">
 
+<!ENTITY netOffline.title "Անցանց եղանակ">
 
+<!ENTITY netOffline.longDesc2 "<ul>
+  <li>Սեղմէք &quot;Կրկին փորձել&quot;` անցնելու համար առցանց եղանակի եւ էջը վերաբացելու համար։</li>
+</ul>">
 
+<!ENTITY contentEncodingError.title "Բովանդակութեան կոդաւորման սխալ">
 
+<!ENTITY contentEncodingError.longDesc "<ul>
+  <li>Խնդրեմ կապուէք այս կայքի սեփականատերերին այս խնդրի մասին տեղեակ պահելու համար։</li>
+</ul>">
 
+<!ENTITY unsafeContentType.title "Ոչ անվտանգ նիշքի տեսակ">
 
+<!ENTITY unsafeContentType.longDesc "<ul>
+  <li>Խնդրեմ կապուեք այս կայքի սեփականատերերին այս խնդրի մասին տեղեակ պահելու համար։</li>
+</ul>">
 
+<!ENTITY netReset.title "Կապը խզուեց">
 
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
 
+<!ENTITY netTimeout.title "Կապի հաստատման ժամանակը սպառուեց">
 
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
+<!ENTITY unknownProtocolFound.title "Հասցէն անհասկանալի էր">
 
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Այս հասցէն բացելու համար Ձեզ հաւանաբար անհրաժեշտ է ձեռք բերել այլ ծրագիր։</li> </ul>">
 
+<!ENTITY proxyConnectFailure.title "Պրոքսի սպասարկիչը մերժում է ընդունել կապը">
 
 
 
