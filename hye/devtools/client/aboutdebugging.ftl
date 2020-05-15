@@ -111,6 +111,66 @@ about-debugging-network-locations-remove-button = Հեռացնել
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Ներդիրներ
+# Title of the service workers category.
+about-debugging-runtime-service-workers =
+    .name = Ծառաիւթեան աշխատողներ
+# Title of the other workers category.
+about-debugging-runtime-other-workers =
+    .name = Այլ աշխատողներ
+# Title of the processes category.
+about-debugging-runtime-processes =
+    .name = Գործընթացներ
+# Label of the button opening the performance profiler panel in runtime pages for remote
+# runtimes.
+about-debugging-runtime-profile-button2 = Հատկագրի կատարումը
+# Displayed for runtime info in runtime pages.
+# { $name } is brand name such as "Firefox Nightly"
+# { $version } is version such as "64.0a1"
+about-debugging-runtime-name = { $name } ({ $version })
+# Text of a button displayed in Runtime pages for remote runtimes.
+# Clicking on the button will close the connection to the runtime.
+about-debugging-runtime-disconnect-button = Անջատել
 
 # Debug Targets strings
 
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will reload the extension.
+about-debugging-tmp-extension-reload-button = Վերբեռնել
+# Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
+# Clicking on the button will uninstall the extension and remove it from the page.
+about-debugging-tmp-extension-remove-button = Հեռացնել
+# Text displayed for extensions in "runtime" pages, before displaying the extension's uuid.
+# UUIDs look like b293e463-481e-5148-a487-5aaf7a130429
+about-debugging-extension-uuid =
+    .label = Ներքին UUID
+# Text displayed for extensions (temporary extensions only) in "runtime" pages, before
+# displaying the location of the temporary extension.
+about-debugging-extension-location =
+    .label = Տեղադրութիւն
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Notes, this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push = Սեղմել
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start = Մեկնարկ
+# This string is displayed as a label of the button that pushes a test payload
+# to a service worker.
+# Note this relates to the "Push" API, which is normally not localized so it is
+# probably better to not localize it.
+about-debugging-worker-action-push2 = Սեղմել
+    .disabledTitle = Սպասարկման աշխատողի սեղմումը ներկաիւմս բազմամշակման համար անջատուած է { -brand-shorter-name }
+# This string is displayed as a label of the button that starts a service worker.
+about-debugging-worker-action-start2 = Մեկնարկ
+    .disabledTitle = Սպասարկման աշխատողի մեկնարկը ներկաիւմս բազմամշակման համար անջատուած է { -brand-shorter-name }
+# This string is displayed as a label of the button that unregisters a service worker.
+about-debugging-worker-action-unregister = Ապագրանցել
+# Displayed for service workers in runtime pages that listen to Fetch events.
+about-debugging-worker-fetch-listening =
+    .label = Դուրս բերում
+    .value = Դուրս բերման իրադարձութիւնների լսում
+# Displayed for service workers in runtime pages that are registering.
+about-debugging-worker-status-registering = Գրանցում
+# Displayed for service workers in runtime pages, to label the scope of a worker
+about-debugging-worker-scope =
+    .label = Շրջանակ
