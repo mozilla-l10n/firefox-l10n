@@ -66,12 +66,12 @@ protections-close-button2 =
     .aria-label = Закрити
     .title = Закрити
 mobile-app-title = Блокуйте рекламне стеження на всіх пристроях
-mobile-app-card-content = Використовуйте мобільний браузер із вбудованим захистом від стеження.
-mobile-app-links = Браузер { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> та <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+mobile-app-card-content = Використовуйте мобільний { -brand-short-name } із вбудованим захистом від стеження.
+mobile-app-links = { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> та <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ніколи більше не забувайте пароль
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Керування паролями
-lockwise-header-content = { -lockwise-brand-name } безпечно зберігає ваші паролі в браузері.
+lockwise-header-content = { -lockwise-brand-name } безпечно зберігає ваші паролі в { -brand-short-name }.
 lockwise-header-content-logged-in = Безпечно зберігайте й синхронізуйте свої паролі на всіх пристроях.
 protection-report-view-logins-button = Перегляд записів
     .title = Перейти до збережених паролів
@@ -203,12 +203,12 @@ bar-tooltip-tracker =
            *[many] { $count } елементів вмісту стеження ({ $percentage }%)
         }
 bar-tooltip-fingerprinter =
-    .title = Зчитування відбитку браузера
+    .title = Зчитування цифрового відбитка
     .aria-label =
         { $count ->
-            [one] { $count } елемент зчитування відбитку браузера ({ $percentage }%)
-            [few] { $count } елементи зчитування відбитку браузера ({ $percentage }%)
-           *[many] { $count } елементів зчитування відбитку браузера ({ $percentage }%)
+            [one] { $count } елемент зчитування цифрового відбитка ({ $percentage }%)
+            [few] { $count } елементи зчитування цифрового відбитка ({ $percentage }%)
+           *[many] { $count } елементів зчитування цифрового відбитка ({ $percentage }%)
         }
 bar-tooltip-cryptominer =
     .title = Криптомайнери
