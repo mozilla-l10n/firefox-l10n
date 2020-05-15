@@ -9,17 +9,36 @@
 <!ENTITY retry.label "Կրկին փորձիր">
 <!ENTITY returnToPreviousPage.label "Յետ գնալ">
 <!ENTITY returnToPreviousPage1.label "Յետ գնալ (առաջարկուում է)">
+<!ENTITY advanced2.label "Առաջադեմ…">
+<!ENTITY viewCertificate.label "Զննել արտաւնագիրը">
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Չյաջողուեց կապ հաստատել">
+
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Այս հասցէեն արգելափակուած է">
 
 
-
-
+<!ENTITY dnsNotFound.pageTitle "Սպասարկիչը չի գտնուել">
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
+<!ENTITY dnsNotFound.title1 "Հնարաւոր չէ գտնել այդ կայքը։">
+<!ENTITY dnsNotFound.longDesc1 "<strong>Եթե հասցէն ճիշտ է՝ ահա երեք այլ տարբերակ, որոնք կարող եք փորձել.</strong>
+<ul>
+  <li>Կրկին փորձէք աւելի ուշ։</li>
+  <li>Ստուգէք ցանցային կապակցումը։</li>
+  <li>Եթե կապակցուած եք, բայց ունեք արգելապատնեշ, ստուգէք, թէ արդեաւք &brandShortName;-ը ունի վեբ մուտք գործելու թոյլտուութիւն։</li>
+</ul>">
 
+<!ENTITY fileNotFound.title "Նիշքը չի գտնուել">
 
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Ստուգէք նիշքի անունը մեծատառերի կամ այլ տպագրական սխալների համար։</li>
+  <li>Ստուգէք, թէ արդեաւք նիշքը չի տեղափոխուել, անուանափոխուել կամ ջնջուել։</li>
+</ul>">
 
+<!ENTITY fileAccessDenied.title "Նիշքի ընդունումը մերժուած է">
 
 
 
