@@ -819,19 +819,45 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Przidej dykcōjnorze…">
+<!ENTITY spellAddDictionaries.label "Przidej dykcjōnorze…">
+<!ENTITY spellAddDictionaries.accesskey "P">
 
 <!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
      Should be large enough to fully display the Done and Cancel/
      Remove Bookmark buttons. -->
+<!ENTITY editBookmark.panel.width                    "23em">
+<!ENTITY editBookmark.done.label                     "Fertich">
+<!ENTITY editBookmark.showForNewBookmarks.label       "Pokoż edytōr przi spamiyntowaniu">
+<!ENTITY editBookmark.showForNewBookmarks.accesskey   "E">
 
 <!-- LOCALIZATION NOTE (identity.securityView.label)
      This is the header of the security subview in the Site Identity panel. -->
+<!ENTITY identity.securityView.label "Bezpieczyństwo strōny">
 
+<!ENTITY identity.connection "Połōnczynie">
+<!ENTITY identity.connectionSecure "Bezpieczne połōnczynie">
+<!ENTITY identity.connectionNotSecure "Połōnczynie niy ma bezpieczne">
+<!ENTITY identity.connectionFile "Ta strōna je schrōniōno na twojim kōmputrze.">
+<!ENTITY identity.connectionVerified2 "Mosz bezpieczne połōnczynie z tōm strōnōm. Jeji posiedziciel to:">
+<!ENTITY identity.connectionInternal "To je bezpieczno strōna aplikacyje &brandShortName;.">
+<!ENTITY identity.extensionPage "Ta strōna je zaladowano z rozszyrzynio.">
+<!ENTITY identity.insecureLoginForms2 "Dane logowanio wkludzōne na tyj strōnie mogōm być wyzdradzōne.">
+<!ENTITY identity.customRoot "Połōnczynie je zweryfikowane ôd wystowcy certyfikatu, kerego Mozilla niy poznowo.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "Aplikacyjo &brandShortName; zaszperowała niyzabezpieczōne kōnski strōny.">
+<!ENTITY identity.passiveLoaded "Kōnski tyj strōny sōm niyzabezpieczōne (bez przikłod ôbrozki).">
+<!ENTITY identity.activeLoaded "Ôchrōna na tyj strōnie je wyłōnczōno ôd ciebie.">
+<!ENTITY identity.weakEncryption "Ta strōna używo niyherskigo szifrowanio.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "Twoje połōnczynie z tōm strōnōm niy ma prywatne. Informacyje (bez przikłod hasła, wiadōmości, nōmery płatowych kart), kere wkludzosz, mogōm być dostympne do inkszych.">
+<!ENTITY identity.description.insecureLoginForms "Dane logowanio, kere wkludzosz na tyj strōnie, niy sōm zabezpieczōne i mogōm być wyzdradzōne.">
+<!ENTITY identity.description.weakCipher "Twoje połōnczynie z tōm strōnōm używo niyherskigo szifrowanio i niy ma prywatne.">
+<!ENTITY identity.description.weakCipher2 "Inksze ludzie mogōm ôboczyć twoje informacyje abo zmiynić dziołanie tyj strōny.">
+<!ENTITY identity.description.activeBlocked "Aplikacyjo &brandShortName; zaszperowała niyzabezpieczōne kōnski strōny.">
+<!ENTITY identity.description.passiveLoaded "Twoje połōnczynie niy ma prywatne. Na informacyje, kere wkludzosz na strōnie, może zaglōndać fto inkszy.">
+<!ENTITY identity.description.passiveLoaded2 "Ta strōna mo zawartość, co niy ma bezpieczno (bez przikłod ôbrozki).">
 
 
 
