@@ -35,6 +35,12 @@ protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
 etp-card-title = Protección de seguimiento mejorada
 etp-card-content = Los rastreadores te siguen en línea para recolectar información sobre tus hábitos de navegación e intereses. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
+protection-report-webpage-title = Panel de protecciones
+protection-report-page-content-title = Panel de protecciones
+protection-report-page-summary = { -brand-short-name } puede proteger tu privacidad tras bambalinas mientras navegas. Este es un resumen personalizado de aquellas protecciones, incluyendo las herramientas para tomar el control de tu vida en línea.
+etp-card-title-always = Protección de seguimiento mejorada: Siempre activa
+etp-card-title-custom-not-blocking = Protección de seguimiento mejorada: DESACTIVADA
+etp-card-content-summary = Cuando compañías desconocidas intentan seguirte en secreto por la web, { -brand-short-name } detiene automáticamente a muchas de ellas.
 protection-report-etp-card-content-custom-not-blocking = Actualmente están todas las protecciones desactivadas. Elije que rastreadores bloquear en tus ajustes de protección de { -brand-short-name }.
 protection-report-manage-protections = Administrar ajustes
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -115,6 +121,12 @@ monitor-header-content-no-account = Revisa { -monitor-brand-name } para ver si h
 monitor-header-content-signed-in = { -monitor-brand-name } te advierte si tu información ha aparecido en una filtración de datos conocida.
 monitor-sign-up = Regístrate para recibir alertas de filtraciones
 auto-scan = Escaneado automáticamente el día de hoy
+monitor-emails-tooltip =
+    .title = Ver las direcciones de correo supervisadas en { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Ver filtraciones de datos conocidas en { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Ver contraseñas expuestas en { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
