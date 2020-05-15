@@ -42,6 +42,7 @@ about-networking-bytes-received = Բայթերը ստացուել են
 about-networking-logging = Մուտքագրում
 about-networking-current-log-file = Ընթացիկ մատեանի նիշքը․
 about-networking-current-log-modules = Ընթացիկ մատեանի բաղադրիչներ․
+about-networking-set-log-file = Կայել մատեանի նիշքը
 about-networking-dns-lookup-button = Ուղղել
 about-networking-dns-domain = Տիրոյթ․
 about-networking-rcwn-perf-open = Բացել
