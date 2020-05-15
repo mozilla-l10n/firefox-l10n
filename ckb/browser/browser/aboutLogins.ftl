@@ -47,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = ڕێکی بەپێی:
 login-list-name-option = ناو(A-Z)
 login-list-name-reverse-option = ناو (Z-A)
-login-list-breached-option = ماڵپەڕی پێشێلکراو
 about-logins-login-list-alerts-option = ئاگادارییەکان
 login-list-last-changed-option = دووا دەستکاری
 login-list-last-used-option = دووا بەکارهێنان
@@ -67,6 +66,9 @@ about-logins-list-item-vulnerable-password-icon =
 
 login-intro-heading = دەگەڕێیت بۆ چوونەژوورە پاشەکەوت کراوەکانت؟ { -sync-brand-short-name } ڕێک بخە.
 about-logins-login-intro-heading-logged-in = هیچ چوونەژوورەوەک هاوکەتگەری نەکراوە.
+login-intro-description = ئەگەر چوونەژوورەوەکانی پاشەکەوت کردووە لە { -brand-product-name } لە ئامێرێکی تر، ئەوە لێرەوە بزانە چۆن بەدەستیان دێنیتەوە:
+login-intro-instruction-fxa = هەژمار درووست بکە یا بچۆژوورەوە بۆ { -fxaccount-brand-name } لەو ئامێرەی کە چوونەژوورەوەکانتی تێدایە
+login-intro-instruction-fxa-settings = دڵنیابە لەوەی کە بۆکسی دیاریکردنی هەڵبژاردوە بۆ چوونەژوورەوەکان لە ڕێکخستنەکانی { -sync-brand-short-name }
 about-logins-intro-instruction-help = سەردانی <a data-l10n-name="help-link">{ -lockwise-brand-short-name } پشتگیری</a> بکە بۆ زانیاری زیاتر
 
 ## Login
@@ -104,17 +106,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی دەستکاری چوونەژوورە هەڵگیراوەکانت بکەیت.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕە هەڵگیراوەکانت ببینیت.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕە هەڵگیراوەکانت لەبەربگریتەوە.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
 
@@ -146,9 +148,6 @@ confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە
 ## Breach Alert notification
 
 about-logins-breach-alert-title = دزەپێکردنی ماڵپەڕ
-breach-alert-link = زیاتر بزانە دەربارەی ئەم دزەپێکردنە
-breach-alert-dismiss =
-    .title = ئەم ئاگادارییە دابخە
 about-logins-breach-alert-date = ئەم دزەپێکردنەوە دۆزراوەتەوە لە { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
