@@ -125,6 +125,8 @@ monitor-emails-tooltip =
     .title = Megfigyelt e-mail címek megtekintése a { -monitor-brand-short-name }on
 monitor-breaches-tooltip =
     .title = Ismert adatsértések megtekintése a { -monitor-brand-short-name }on
+monitor-passwords-tooltip =
+    .title = Kikerült jelszavak megtekintése a { -monitor-brand-short-name }on
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
