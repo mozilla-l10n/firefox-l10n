@@ -85,6 +85,10 @@ about-debugging-setup-usb-disable-button = Անջատել USB սարքերը
 # Text of the button displayed in the USB section of the setup page while USB debugging
 # components are downloaded and installed.
 about-debugging-setup-usb-updating-button = Թարմացուում է…
+# USB section of the Setup page (USB status)
+about-debugging-setup-usb-status-enabled = Միացուած
+about-debugging-setup-usb-status-disabled = Անջատուած
+about-debugging-setup-usb-status-updating = Թարմացուում է…
 
 # Runtime Page strings
 
