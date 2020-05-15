@@ -93,8 +93,12 @@ onboarding-ghostery-text = Huutoro njokkon mbaakon no Ghostery ngam banngagol ɓ
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Winndito ngam { -fxaccount-brand-name } njahdinaa maante maa, pinle maa kam e tabbe udditiiɗe kala ɗo kuutorto-ɗaa { -brand-short-name }.
+onboarding-tracking-protection-title2 = Ndeenka e dewindol
+onboarding-tracking-protection-text2 = { -brand-short-name } ina walla haɗde lowe geese rewindaade ma e ceŋogol, saɗtinana ɓaŋŋine rewde e maa e geese ɗee.
 onboarding-tracking-protection-button2 = Hol no ɗum gollortoo
 onboarding-data-sync-title = Nawor teelte maa
+# "Sync" is short for synchronize.
+onboarding-data-sync-text2 = Yahdin maantore maa, pinle maa, e goɗɗe kala ɗo kuutoriɗaa { -brand-product-name }.
 onboarding-data-sync-button2 = Seŋo e { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Waɗ-tu hakkille e ciygol keɓe
 
