@@ -356,6 +356,11 @@ update-pref-write-failure-title = Gallugol binndol
 #   $path (String) - Path to the configuration file
 update-pref-write-failure-message = Daɗndugol cuɓaaɗe aaɓnotaako. Binndol aaɓnotaako nder fiilde:{ $path }
 update-setting-write-failure-title = Juumre e danndugol cuɓoraaɗe kesɗitine
+update-in-progress-message = Aɗa yiɗiɗ { -brand-short-name } jokka e ɗee kesɗitine?
+update-in-progress-ok-button = &Woppu
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &Jokku
 
 ## General Section - Performance
 
@@ -395,9 +400,13 @@ browsing-use-cursor-navigation =
 browsing-search-on-start-typing =
     .label = Yiylo binndi so mi fuɗɗiima tappude
     .accesskey = n
+browsing-picture-in-picture-learn-more = Ɓeydu humpito
 browsing-cfr-recommendations =
     .label = Wasiyo jokke so aɗa wanngoo
     .accesskey = y
+browsing-cfr-features =
+    .label = Wasiyo fannuuji so aɗa wanngoo
+    .accesskey = f
 browsing-cfr-recommendations-learn-more = Jokku taro
 
 ## General Section - Proxy
@@ -497,6 +506,7 @@ search-bar-shown =
     .label = Ɓeydu palal njiilaw e palal kuutorɗe
 search-engine-default-header = Yiylorde Woowaande
 search-engine-default-desc = Suɓo yiylorde woowaande ngam huutoraade e palal ñiiɓirɗe e yiylorde.
+search-suggestions-header = Yiylo wasiyaaji
 search-suggestions-option =
     .label = Hokku wasiyaaji njiilaw
     .accesskey = w
@@ -535,10 +545,19 @@ search-keyword-warning-bookmark = A suɓiima helmere yiylorde wonnde e huutoreed
 ## Containers Section
 
 containers-back-link = « Rutto Caggal
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] Rutto e Cuɓe
+           *[other] Rutto e Cuɓoraaɗe
+        }
 containers-header = Tabbe Mooftirɗe
 containers-add-button =
     .label = Ɓeydu Mooftiree Hesere
     .accesskey = Ɓ
+containers-new-tab-check =
+    .label = Suɓo mooftirde ngam tabbere hesere kala
+    .accesskey = S
 containers-preferences-button =
     .label = Cuɓaaɗe
 containers-remove-button =
@@ -558,6 +577,9 @@ sync-signedout-account-create = A alaa konte? Fuɗɗo jooni
 sync-signedout-account-signin =
     .label = Seŋo…
     .accesskey = I
+sync-signedout-account-signin2 =
+    .label = Seŋo e { -sync-brand-short-name }…
+    .accesskey = e
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -578,6 +600,9 @@ sync-profile-picture =
 sync-disconnect =
     .label = Seŋtondir…
     .accesskey = d
+sync-sign-out =
+    .label = Seŋto…
+    .accesskey = ŋ
 sync-manage-account = Toppito konte
     .accesskey = o
 sync-signedin-unverified = { $email } ƴeewtaaka.
@@ -596,9 +621,27 @@ sync-signedin-settings-desc = Suɓo ko pot-ɗaa yahdinde nder kaɓirɗi maa kuut
 
 ## Sync section - enabling or disabling sync.
 
+prefs-sync-setup =
+    .label = Teelto { -sync-brand-short-name }…
+    .accesskey = T
 
 ## The list of things currently syncing.
 
+sync-currently-syncing-bookmarks = Maantore
+sync-currently-syncing-history = Aslol
+sync-currently-syncing-tabs = Uddit tabbe
+sync-currently-syncing-logins-passwords = Ceŋorɗe e pinle
+sync-currently-syncing-addresses = Ñiiɓirɗe
+sync-currently-syncing-creditcards = Karte banke
+sync-currently-syncing-addons = Ɓeyditte
+sync-currently-syncing-prefs =
+    { PLATFORM() ->
+        [windows] Cuɓe
+       *[other] Cuɓoraaɗe
+    }
+sync-change-options =
+    .label = Waylu…
+    .accesskey = W
 
 ## The "Choose what to sync" dialog.
 
@@ -615,6 +658,10 @@ sync-engine-tabs =
 sync-engine-logins =
     .label = Ceŋorɗe
     .tooltiptext = Inle kuutoro kam e finndeeji ɗi dannduɗaa
+    .accesskey = C
+sync-engine-logins-passwords =
+    .label = Ceŋorɗe e pinle
+    .tooltiptext = Innde kuutoro e pinle ndannduɗaa
     .accesskey = C
 sync-engine-addresses =
     .label = Ñiiɓirɗe
@@ -649,6 +696,8 @@ sync-device-name-cancel =
 sync-device-name-save =
     .label = Danndu
     .accesskey = D
+sync-connect-another-device = Seŋ kaɓirgol goɗngol
+sync-manage-devices = Toppito kaɓirɗe
 sync-tos-link = Laabi Carwol
 sync-fxa-privacy-notice = Tintinol Suturo
 
@@ -672,6 +721,7 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = Paltooje…
     .accesskey = a
+forms-breach-alerts-learn-more-link = Ɓeydu humpito
 forms-saved-logins =
     .label = Ceŋorɗe Danndaaɗe…
     .accesskey = D
@@ -686,6 +736,7 @@ forms-master-pw-fips-desc = Baylugol Finnde Woorii
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
@@ -750,6 +801,8 @@ sitedata-disallow-cookies-option =
 # The list items are the strings named sitedata-block-*-option*.
 sitedata-block-desc = Sifaa paddaaɗo
     .accesskey = S
+sitedata-option-block-trackers =
+    .label = Rewindotooɓe woɗɓe
 sitedata-clear =
     .label = Momtu Keɓe…
     .accesskey = l
