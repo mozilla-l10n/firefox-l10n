@@ -133,6 +133,12 @@ monitor-header-content-no-account = Přepruwujće { -monitor-brand-name }, zo by
 monitor-header-content-signed-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowej dźěrje zjewili.
 monitor-sign-up = Registrujće so za warnowanja wo datowych dźěrach
 auto-scan = Dźensa awtomatisce skenowany
+monitor-emails-tooltip =
+    .title = Dohladowane e-mejlowe adresy w { -monitor-brand-short-name } pokazać
+monitor-breaches-tooltip =
+    .title = Znate datowe dźěry w { -monitor-brand-short-name } pokazać
+monitor-passwords-tooltip =
+    .title = Wotkryte hesła w { -monitor-brand-short-name } pokazać
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
