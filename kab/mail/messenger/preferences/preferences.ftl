@@ -61,6 +61,8 @@ update-in-progress-cancel-button = &Kemmel
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Senqed timagit-ik akken ad ternuḍ awal uffir agejdan.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Akken ad ternuḍ awal-inek uffir agejdan, sekcem inekcam-inek n tuqqna n Windows. Ayagi ad yeḍmen aḥraz n tɣellist n yimiḍanen-inek.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
