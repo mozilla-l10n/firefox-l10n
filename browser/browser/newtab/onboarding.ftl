@@ -101,6 +101,21 @@ onboarding-data-sync-title = Nawor teelte maa
 onboarding-data-sync-text2 = Yahdin maantore maa, pinle maa, e goɗɗe kala ɗo kuutoriɗaa { -brand-product-name }.
 onboarding-data-sync-button2 = Seŋo e { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Waɗ-tu hakkille e ciygol keɓe
+onboarding-firefox-monitor-button = Winndito ngam jeertine
+onboarding-browse-privately-button = Uddit Henorde Suuriinde
+onboarding-firefox-send-button = Eto { -send-brand-name }
+onboarding-mobile-phone-title = Heɓ { -brand-product-name } e cinndel maa
+# "Mobile" is short for mobile/cellular phone, "Browser" is short for web
+# browser.
+onboarding-mobile-phone-button = Aawto wanngorde cinndel
+onboarding-pocket-anywhere-button = Eto { -pocket-brand-name }
+onboarding-lockwise-passwords-title = Nawor pinle maa kala nokku
+onboarding-lockwise-passwords-button2 = Heɓ jaaɓnirgal ngal
+onboarding-lockwise-strong-passwords-button = Toppito ceŋorɗe maa
+onboarding-facebook-container-title = Waɗ keeri e Facebook
+onboarding-import-browser-settings-button = Jiggo keɓe Chrome
+onboarding-personal-data-promise-button = Tar Aadi amen
 
 ## Message strings belonging to the Return to AMO flow
 
+return-to-amo-extension-button = Ɓeydu timmitere ndee
