@@ -35,8 +35,12 @@ protection-report-page-title = Integritetsskydd
 protection-report-content-title = Integritetsskydd
 etp-card-title = Förbättrat spårningsskydd
 etp-card-content = Spårare följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa spårare och andra skadliga skript.
+protection-report-webpage-title = Säkerhetsöversikt
+protection-report-page-content-title = Säkerhetsöversikt
+protection-report-page-summary = { -brand-short-name } kan skydda din integritet bakom kulisserna medan du surfar. Detta är en personlig sammanfattning av dessa skydd, inklusive verktyg för att ta kontroll över din online-säkerhet.
 etp-card-title-always = Förbättrat spårningsskydd: Alltid på
 etp-card-title-custom-not-blocking = Förbättrat spårningsskydd: Av
+etp-card-content-summary = När okända företag försöker följa dig hemligt på nätet stoppar { -brand-short-name } automatiskt många av dem.
 protection-report-etp-card-content-custom-not-blocking = Alla skydd är för närvarande avstängda. Välj vilka spårare som ska blockeras genom att hantera dina { -brand-short-name }-skyddsinställningar.
 protection-report-manage-protections = Hantera inställningar
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -117,6 +121,12 @@ monitor-header-content-no-account = Kontrollera { -monitor-brand-name } för att
 monitor-header-content-signed-in = { -monitor-brand-name } varnar dig om din information har dykt upp i ett känt dataintrång.
 monitor-sign-up = Registrera dig för intrångsvarningar
 auto-scan = Skannas automatiskt idag
+monitor-emails-tooltip =
+    .title = Visa övervakade e-postadresser på { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Visa kända dataintrång på { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Visa exponerade lösenord på { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
