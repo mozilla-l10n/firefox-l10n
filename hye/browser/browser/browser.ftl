@@ -182,6 +182,22 @@ identity-description-insecure = Ձեր կապակցումը այս կայքին 
 identity-description-insecure-login-forms = Մուտքգործման տեղեկութիւնը, որ մուտքագրել եք այս էջում, անվտանգ չէ եւ կարող է վտանգուել:
 identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին աւգտագործում է թոյլ գաղտնագրում եւ այն գաղտնի չէ:
 identity-description-weak-cipher-risk = Այլ մարդիկ կարող են դիտել Ձեր տեղեկատվութիւնը կամ փոփոխել կայքի վարքագիծը:
+identity-description-active-blocked = { -brand-short-name }-ը արգելափակել է այս էջի մասերը, որոնք անվտանգ չէն: <label data-l10n-name="link">Իմանալ աւելին</label>
+identity-description-passive-loaded = Ձեր կապակցումը գատնի չէ եւ կայք ուղարկուած տեղեկատուութիւնը կարող է դիտուել ուրիշների կողմից։
+identity-description-passive-loaded-insecure = Այս կայքը պարունակում է բովանդակութիւն, որն անվտանգ չէ (օր.՝ պատկերներ): <label data-l10n-name="link">Իմանալ ավելին</label>
+identity-description-passive-loaded-mixed = Չնայած { -brand-short-name }-ը արգելափակել է որոշ բովանդակութիւն՝ այս էջում դեռ կա ոչ անվտանգ բովանդակութիւն (օր.՝ պատկերներ)։ <label data-l10n-name="link">Իմանալ աւելին</label>
+identity-description-active-loaded = Այս կայքը պարունակում է բովանդակութիւն, որն անվտանգ չէ (օր.՝ գրուածքներ) եւ Ձեր կապակցումը գաղտնի չէ։
+identity-description-active-loaded-insecure = Կայք ուղարկուած տեղեկատվութիւնը կարող է դիտուել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրութիւնները, քարտային տվեալները եւ այլն)։
+identity-learn-more =
+    .value = Իմանալ աւելին
+identity-disable-mixed-content-blocking =
+    .label = Առայժմ անջատել պաշտպանութիւնը
+    .accesskey = D
+identity-enable-mixed-content-blocking =
+    .label = Միացնել պաշտպանութիւն
+    .accesskey = E
+identity-more-info-link-text =
+    .label = Լրացուցիչ տեղեկութիւններ
 
 ## Window controls
 
