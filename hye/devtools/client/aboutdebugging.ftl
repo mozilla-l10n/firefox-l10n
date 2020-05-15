@@ -13,6 +13,12 @@ about-debugging-page-title-setup-page = Վրիպազերծում - կարգաբ�
 
 # Sidebar strings
 
+# Display name of the runtime for the currently running instance of Firefox. Used in the
+# Sidebar and in the Setup page.
+about-debugging-this-firefox-runtime-name = Այս { -brand-shorter-name }-ը
+# Sidebar heading for selecting the currently running instance of Firefox
+about-debugging-sidebar-this-firefox =
+    .name = { about-debugging-this-firefox-runtime-name }
 # Sidebar heading for connecting to some remote source
 about-debugging-sidebar-setup =
     .name = Կարգաբերում
@@ -89,9 +95,22 @@ about-debugging-setup-usb-updating-button = Թարմացուում է…
 about-debugging-setup-usb-status-enabled = Միացուած
 about-debugging-setup-usb-status-disabled = Անջատուած
 about-debugging-setup-usb-status-updating = Թարմացուում է…
+# Text of a button displayed after the network locations "Host" input.
+# Clicking on it will add the new network location to the list.
+about-debugging-network-locations-add-button = Աւելացնել
+# Text of the label for the text input that allows users to add new network locations in
+# the Connect page. A host is a hostname and a port separated by a colon, as suggested by
+# the input's placeholder "localhost:6080".
+about-debugging-network-locations-host-input-label = Հանգոյց
+# Text of a button displayed next to existing network locations in the Connect page.
+# Clicking on it removes the network location from the list.
+about-debugging-network-locations-remove-button = Հեռացնել
 
 # Runtime Page strings
 
+# Title of the tabs category.
+about-debugging-runtime-tabs =
+    .name = Ներդիրներ
 
 # Debug Targets strings
 
