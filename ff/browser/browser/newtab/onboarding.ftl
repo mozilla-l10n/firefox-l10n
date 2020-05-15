@@ -102,12 +102,16 @@ onboarding-data-sync-text2 = Yahdin maantore maa, pinle maa, e goɗɗe kala ɗo 
 onboarding-data-sync-button2 = Seŋo e { -sync-brand-short-name }
 onboarding-firefox-monitor-title = Waɗ-tu hakkille e ciygol keɓe
 onboarding-firefox-monitor-button = Winndito ngam jeertine
+onboarding-browse-privately-title = Wanngo e suturo
+onboarding-browse-privately-text = Banngogol suturo ina momta njiilaw maa e aslol banngogol maa ngam suuɗ-de ɗum kala neɗɗo kuutortooɗo ordinateer maa.
 onboarding-browse-privately-button = Uddit Henorde Suuriinde
 onboarding-firefox-send-button = Eto { -send-brand-name }
 onboarding-mobile-phone-title = Heɓ { -brand-product-name } e cinndel maa
+onboarding-mobile-phone-text = Aawto { -brand-product-name } ngam iOS walla Android etee yahdin keɓe maa e kaɓirɗe.
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Aawto wanngorde cinndel
+onboarding-send-tabs-title = Neldu hoore maa tabbe ko aldaa e hebaade
 onboarding-pocket-anywhere-button = Eto { -pocket-brand-name }
 onboarding-lockwise-passwords-title = Nawor pinle maa kala nokku
 onboarding-lockwise-passwords-button2 = Heɓ jaaɓnirgal ngal
