@@ -139,20 +139,37 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Հնարաւոր է՝ կայքը անհասանելի կամ գերբեռնուած է։ Կրկին փորձէք մի քանի րոպէ անց։</li> <li>Եթե չի ստացուում բացել որեւէ էջ, ստուգէք Ձեր համակարգչի  ցանցային միացումը։</li> <li>Եթե Ձեր համակարգիչը կամ ցանցը ապահովագրուած է firewall-ով, համոզուեք, որ  &brandShortName;-ը ունի ցանցին միանալու արտոնութիւն։</li> </ul>">
 
+<!ENTITY cspBlocked.title "Արգելափակուած է բովանդակութեան անվտանգութեան քաղաքականութեամբ">
 
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName;­­-ը խոչընդոտեց այս էջի բեռնաւորումը, քանի որ էջի պարունակութեան անվտանգութեան կանոնակարգն արգելում է նման բեռնաւորումը։</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Բովանդակութիւնը վնասուած է">
 
+<!ENTITY xfoBlocked.longDesc "<p>&brandShortName;֊ը խոչընդոտեց այս էջի բացումը, քանի որ էջի պարունակութեան անվտանգութեան կանոնակարգն արգելում է դա։</p>">
 
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Ընթացիկ էջը չի կարող ցուցադրուել, քանզի տեղի է ունեցել փոխանցման սխալ։</p><ul><li>Կապնուէք վեբ կայքի հեղինակների հետ՝ նրանց այս մասին հաղորդելու համար։</li></ul>">
 
+<!ENTITY securityOverride.exceptionButton1Label "Ընդունել վտանգը եւ շարունակել">
 
+<!ENTITY errorReporting.automatic2 "Հաղորդէք նման սխալների մասին՝ աւգնելու համար Mozilla-ին գտնելու եւ արգելափակելու վնասակար կայքերը">
+<!ENTITY errorReporting.learnMore "Իմանալ աւելին…">
 
+<!ENTITY remoteXUL.title "Հեռադիր XUL">
 
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Խնդրում ենք, կապնվէք վեբ կայքի սեփականատերերի հետ` այս խնդրի մասին տեղեկացնելու համար։</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Չհաջողուեց անվտանգ կապակցումը">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Լրացուցիչ՝ SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY certerror.pagetitle2  "Զգուշացում․ Պոտենցիալ անվտանգութեան վտանգից առաջ">
+<!ENTITY certerror.sts.pagetitle  "Չկապուեց․ Անվտանգութեան հնարաւոր պոտենցիալ">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation1 "<span class='hostname'></span> ունի անվտանգութեան քաղաքականութիւն, որը կոչուում է HTTP Strict Transport Security (HSTS), ինչը նշանակում է, որ &brandShortName; կարող է միայն ապահով կերպով միանալու դրան։ Դուք չէք կարող բացառութիւն աւելացնել այս կայք այցելելու համար։">
+<!ENTITY certerror.copyToClipboard.label "Պատճէնել սեղմատախտակին">
 
+<!ENTITY inadequateSecurityError.title "Կապակցումն անվտանգ չէ">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
