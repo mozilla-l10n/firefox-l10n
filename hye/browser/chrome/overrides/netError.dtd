@@ -97,15 +97,26 @@
 
 <!ENTITY proxyConnectFailure.title "Պրոքսի սպասարկիչը մերժում է ընդունել կապը">
 
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Ստուգէք պրոքսի կարգաւորումները՝ նրանց ստոյգութեան մեջ համոզուելու համար։</li> <li>Կապուեք Ձեր ցանցի կառաւարիչի հետ՝ համոզուելու համար, որ պրոքսի սպասարկիչը  աշխատում է:</li> </ul>">
 
+<!ENTITY proxyResolveFailure.title "Չի ստացուում գտնել պրոքսի սպասարկիչը">
 
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ստուգէք պրոքսի կարգաւորումները՝ համոզուելու համար դրանք ճիշտ են:</li> <li>Ստուգէք եւ համոզուեք, որ համակարգիչը ունի աշխատող ցանցային կապակցում։</li> <li>Եթե Ձեր համակարգիչը կամ ցանցը պաշտպանուած է firewall-ով կամ պրոքսիով,  համոզուեք, որ &brandShortName;-ը ունի ցանցին միանալու իրաւունք:</li> </ul>">
 
+<!ENTITY redirectLoop.title "Էջի սխալ վերահասցեաւորում">
 
+<!ENTITY redirectLoop.longDesc "<ul> <li>Այս խնդիրը երբեմն կարող է ծագել cookie-ների  անջատումից կամ մերժումից:</li> </ul>">
 
+<!ENTITY unknownSocketType.title "Սպասարկիչի պատասխանը անհասկանալի է։">
 
+<!ENTITY unknownSocketType.longDesc "<ul> <li>Ստուգէք եւ համոզուէք, որ Ձեր համակարգը ունի տեղակայված Անվտանգութեան  Անձնական Կառավարիչ։</li> <li>Դա կարող է լինել սպասարկիչի ոչ ստանդարտ կարգաւորման արդիւնք։</li> </ul>">
 
+<!ENTITY nssFailure2.title "Չյաջողուեց կատարել պաշտպանուած կապակցում">
 
+<!ENTITY nssFailure2.longDesc2 "<ul> <li>Այն էջը, որը փորձում եք դիտել, կարող է չերեւալ, որովհետեւ ստացուած տուեալների իսկութիւնը  չի կարող ստուգուել։</li> <li>Խնդրում ենք կապնուել կայքի սեփականատերերի հետ՝ նրանց տեղեակ պահելու այս խնդրի մասին։</li> </ul>">
 
+<!ENTITY certerror.longpagetitle2 "Զգուշացում․ հնարաւոր է ապահովութեան վտանգ">
+<!ENTITY certerror.sts.longpagetitle  "Չկապակցուեց․ հնարաւոր անվտանգութեան ելք">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user

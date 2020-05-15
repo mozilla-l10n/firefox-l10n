@@ -957,6 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Փոխանակման տեսախցիկ։">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Խոսափող` կիսուելու համար.">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Ներդիրի ձայնանիւթը կհամաւգտագործուի։">
 <!ENTITY getUserMedia.allWindowsShared.message "Ձեր էկրանին բոլոր տեսանելի պատուհանները համաւգտագործուելու են">
@@ -991,9 +992,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Զեկուցել խնդրի մասին">
 <!ENTITY contentBlocking.breakageReportView.label "Զեկուցել խնդրի մասին">
+<!ENTITY contentBlocking.breakageReportView2.description "Բովանդակութեան արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Երբ Դուք զեկուցէք խնդիրների մասին, կաւգնէք, որ &brandShortName;-ը բոլորի համար աւելի լաւը դառնայ։ (Սա կուղարկի URL ինչպէս նաեւ տեղեկութիւն Mozilla-ին Ձեր զննարկչի կարգաւորումների մասին։)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Իմանալ աւելին">
 
 <!ENTITY contentBlocking.breakageReportView.title "Հաղորդել կոտրուած կայքի մասին">
+<!ENTITY contentBlocking.breakageReportView3.description "Որոշ հետեւումների արգելափակումը կարող է որոշ կայքերի խնդիրների պատճառ դառնալ։ Այս խնդիրների զեկուցումը, կաւգնի, որ &brandShortName;-ը բոլորի համար աւելի լաւը դառնայ։ Այս զեկոյցն ուղարկելով Mozila-ին կուղարկուի URL եւ Ձեր զննարկչի կարգաւորումների մասին տեղեկութիւն։">
 <!ENTITY contentBlocking.breakageReportView2.learnMore "Իմանալ աւելին">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ի՞նչ խնդիրներ ունեիք։ (Պարտադիր)">
