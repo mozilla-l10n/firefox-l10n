@@ -41,9 +41,9 @@ login-list =
     .aria-label = Паролі, що відповідають пошуковому запиту
 login-list-count =
     { $count ->
-        [one] { $count } пароль
-        [few] { $count } паролі
-       *[many] { $count } паролів
+        [one] { $count } запис
+        [few] { $count } записи
+       *[many] { $count } записів
     }
 login-list-sort-label-text = Сортувати:
 login-list-name-option = Ім'я (A-Z)
