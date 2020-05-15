@@ -270,6 +270,29 @@ gpu-device-reset = Սարքի վերականգնում
 gpu-device-reset-button = Ձգանող սարքի վերականգնում
 uses-tiling = Կցաշարման աւգտագործում
 content-uses-tiling = Կցաշարման աւգտագործման (Բովանդակութիւն)
+off-main-thread-paint-enabled = Հիմնական շղթայից դուրս գծագրումը թոյլատրուած է
+off-main-thread-paint-worker-count = Հիմնական շղթայից դուրս Գծագրման աշխատողների թիւը
+target-frame-rate = Թիրախային կադրի արագութիւն
+min-lib-versions = Ակնկալուող նուազագոյն տարբերակը
+loaded-lib-versions = Աւգտագործւող տարբերակը
+sandbox-proc-type-file = Նիշքի բովանդակութիւն
+sandbox-proc-type-media-plugin = Տեսաբաղադրիչ
+sandbox-proc-type-data-decoder = Տուեալների վերծանիչ
+launcher-process-status-0 = Միացուած
+launcher-process-status-1 = Անջատուած է ձախողման պատճառով
+launcher-process-status-2 = Ստիպողաբար անջատուած
+launcher-process-status-unknown = Անյայտ վիճակ
+# Variables
+# $remoteWindows (integer) - Number of remote windows
+# $totalWindows (integer) - Number of total windows
+multi-process-windows = { $remoteWindows }/{ $totalWindows }
+multi-process-status-0 = Միացուած աւգտուողի կողմից
+multi-process-status-1 = Լռելեայն միացուած
+multi-process-status-2 = Անջատուած
+multi-process-status-4 = Անջատուած հասանելիութեան գործիքներով
+multi-process-status-7 = Անջատուած է յաւելումների կողմից
+multi-process-status-8 = Ստիպողաբար անջատուած
+multi-process-status-unknown = Անյայտ վիճակ
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
