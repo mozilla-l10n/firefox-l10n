@@ -51,12 +51,19 @@ urlbar-addons-notification-anchor =
     .tooltiptext = Բացել հաւելման տեղադրման հաղորդագրութեան վահանակը
 urlbar-tip-help-icon =
     .title = Ստանալ աւգնութիւն
+urlbar-search-tips-confirm = Հասկանալի է։
+# Read out before Urlbar Tip text content so screenreader users know the
+# subsequent text is a tip offered by the browser. It should end in a colon or
+# localized equivalent.
+urlbar-tip-icon-description =
+    .alt = Հուշում.
 
 ## Prompts users to use the Urlbar when they open a new tab or visit the
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
+urlbar-search-tips-onboard = ՄուտքագրԷք քիչ, գտէք շատ. որոնեք { $engineName }-ը անմիջապէս հասցէի գոտուց:
 
 ##
 
@@ -84,6 +91,14 @@ urlbar-midi-blocked =
     .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին։
 urlbar-install-blocked =
     .tooltiptext = Դուք այս կայքի համար արգելափակել եք հաւելասարքի բեռնումը։
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
+urlbar-star-edit-bookmark =
+    .tooltiptext = Խմբագրել այս էջանիշը ({ $shortcut })
+# Variables
+#   $shortcut (String) - A keyboard shortcut for the add bookmark command.
+urlbar-star-add-bookmark =
+    .tooltiptext = Էջանշել այս էջը ({ $shortcut })
 
 ## Page Action Context Menu
 
@@ -139,6 +154,9 @@ bookmark-panel =
 
 ## Identity Panel
 
+identity-connection-not-secure = Կապակցումը ապահով չէ
+identity-connection-secure = Կապակցումը ապահով է
+identity-connection-internal = Սա անվտանգ { -brand-short-name } էջ է
 
 ## Window controls
 
