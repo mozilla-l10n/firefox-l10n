@@ -12,7 +12,7 @@
 
 policy-3rdparty = Встановити політики, за якими WebExtensions можуть отримувати доступ через chrome.storage.managed.
 policy-AppAutoUpdate = Увімкнути або вимкнути автоматичне оновлення програми.
-policy-AppUpdateURL = Встановити власну URL-адресу для оновлення додатка.
+policy-AppUpdateURL = Встановити власну URL-адресу для оновлення програми.
 policy-Authentication = Налаштувати інтегровану авторизацію для підтримуваних вебсайтів.
 policy-BlockAboutAddons = Заблокувати доступ до керування додатками (about:addons).
 policy-BlockAboutConfig = Заблокувати доступ до сторінки about:config.
