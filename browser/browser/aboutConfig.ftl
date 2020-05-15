@@ -14,11 +14,14 @@ about-config-search-input =
 ## These strings appear on the warning you see when first visiting about:config.
 
 about-config-intro-warning-title = ସାବଧାନତାର ସହିତ ଆଗାନ୍ତୁ
+about-config-intro-warning-text = ଉନ୍ନତ ସଂରଚନା ପସନ୍ଦଗୁଡ଼ିକୁ ପରିବର୍ତ୍ତନ କରିବା { -brand-short-name } କାର୍ଯ୍ୟଦକ୍ଷତା କିମ୍ବା ସୁରକ୍ଷା ଉପରେ ପ୍ରଭାବ ପକାଇପାରେ
 about-config-intro-warning-checkbox = ମୁଁ ଏହି ସାଜସଜ୍ଜାକୁ ପାଇବାକୁ ଚାହିଁଲାବେଳେ ମତେ ଚେତେଇ ଦିଅନ୍ତୁ
 about-config-intro-warning-button = ଆଶଙ୍କାକୁ ସ୍ୱୀକାର କରନ୍ତୁ ଏବଂ ଆଗାନ୍ତୁ
 
 ##
 
+# This is shown on the page before searching but after the warning is accepted.
+about-config-caution-text = ଏହି ପସନ୍ଦଗୁଡିକ ପରିବର୍ତ୍ତନ କରିବା { -brand-short-name } କାର୍ଯ୍ୟଦକ୍ଷତା କିମ୍ବା ସୁରକ୍ଷା ଉପରେ ପ୍ରଭାବ ପକାଇପାରେ
 about-config-page-title = ଆଧୁନିକ ପସନ୍ଦଗୁଡ଼ିକ
 about-config-search-input1 =
     .placeholder = ପସନ୍ଦ ନାମ ଖୋଜନ୍ତୁ
