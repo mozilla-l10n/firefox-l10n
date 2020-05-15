@@ -807,6 +807,8 @@ forms-master-pw-fips-desc = Ändring av lösenordet misslyckades
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verifiera din identitet för att skapa ett huvudlösenord.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Om du vill skapa ett huvudlösenord anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
