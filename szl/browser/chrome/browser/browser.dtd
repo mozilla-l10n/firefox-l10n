@@ -603,35 +603,130 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.accesskey "P">
 <!ENTITY viewPageInfoCmd.label        "Pokoż informacyje ô strōnie">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewFrameInfoCmd.label       "Pokoż informacyje ô rōmie">
+<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY reloadImageCmd.label         "Przeladuj ôbroz">
+<!ENTITY reloadImageCmd.accesskey     "P">
+<!ENTITY viewImageCmd.label           "Pokoż ôbroz">
+<!ENTITY viewImageCmd.accesskey       "o">
+<!ENTITY viewImageInfoCmd.label       "Pokoż informacyje ô ôbrazie">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageDescCmd.label       "Pokoż ôpis">
+<!ENTITY viewImageDescCmd.accesskey   "s">
+<!ENTITY viewVideoCmd.label           "Pokoż video">
+<!ENTITY viewVideoCmd.accesskey       "I">
+<!ENTITY viewBGImageCmd.label         "Pokoż ôbroz ze zadku">
+<!ENTITY viewBGImageCmd.accesskey     "z">
+<!ENTITY setDesktopBackgroundCmd.label      "Nastow za tapeta…">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "N">
+<!ENTITY bookmarkPageCmd2.label       "Przidej ta strōna do zokłodek">
+<!ENTITY bookmarkPageCmd2.accesskey   "l">
+<!ENTITY bookmarkThisLinkCmd.label      "Przidej tyn link do zokłodek">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisFrameCmd.label      "Przidej rōma do zokłodek">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "e">
 
+<!ENTITY pageAction.copyLink.label    "Kopiuj link">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY pocketButton.tooltiptext     "Spamiyntej w usudze Pocket">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
+<!ENTITY saveToPocketCmd.label        "Spamiyntej strōna w usudze Pocket">
+<!ENTITY saveToPocketCmd.accesskey    "k">
+<!ENTITY saveLinkToPocketCmd.label    "Spamiyntej link w usudze Pocket">
+<!ENTITY saveLinkToPocketCmd.accesskey "o">
+<!ENTITY pocketMenuitem.label         "Wykoz usugi Poket">
 
+<!ENTITY emailPageCmd.label           "Poślij link emailym…">
+<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY savePageCmd.label            "Spamiyntej strōna za…">
+<!ENTITY savePageCmd.accesskey        "Z">
 <!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Spamiyntej rōma za…">
+<!ENTITY saveFrameCmd.accesskey       "R">
+<!ENTITY printFrameCmd.label          "Durkuj rōma...">
+<!ENTITY printFrameCmd.accesskey      "D">
+<!ENTITY saveLinkCmd.label            "Spamiyntej link za…">
+<!ENTITY saveLinkCmd.accesskey        "s">
+<!ENTITY saveImageCmd.label           "Spamiyntej ôbroz za…">
+<!ENTITY saveImageCmd.accesskey       "m">
+<!ENTITY saveVideoCmd.label           "Spamiyntej video za…">
+<!ENTITY saveVideoCmd.accesskey       "m">
+<!ENTITY saveAudioCmd.label           "Spamiyntej audio za…">
+<!ENTITY saveAudioCmd.accesskey       "m">
+<!ENTITY emailImageCmd.label          "Poślij emaila z ôbrazym…">
+<!ENTITY emailImageCmd.accesskey      "j">
+<!ENTITY emailVideoCmd.label          "Poślij emaila z video…">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.label          "Poślij emaila z audio…">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.label          "Aktywuj te rozszyrzynie">
+<!ENTITY playPluginCmd.accesskey      "k">
+<!ENTITY hidePluginCmd.label          "Skryj te rozszyrzynie">
+<!ENTITY hidePluginCmd.accesskey      "S">
+<!ENTITY copyLinkCmd.label            "Kopiuj adresa ôd linka">
 <!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
+<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyImageCmd.label           "Skopiuj adresa ôd ôbrazu">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Skopiuj ôbroz">
+<!ENTITY copyImageContentsCmd.accesskey  "j">
+<!ENTITY copyVideoURLCmd.label        "Skopiuj adresa ôd video">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Skopiuj adresa ôd audio">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Kopiuj adresa email">
 <!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
+<!ENTITY copyEmailCmd.accesskey       "A">
+<!ENTITY thisFrameMenu.label              "Ta rōma">
+<!ENTITY thisFrameMenu.accesskey          "m">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.label             "Puść">
+<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPause.label            "Pauza">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Wyłōncz klang">
+<!ENTITY mediaMute.accesskey         "K">
+<!ENTITY mediaUnmute.label           "Załōncz klang">
+<!ENTITY mediaUnmute.accesskey       "k">
+<!ENTITY mediaPlaybackRate2.label     "Gibkość puszczanio">
+<!ENTITY mediaPlaybackRate2.accesskey "g">
+<!ENTITY mediaPlaybackRate050x2.label "Pōmału (0.5×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "P">
+<!ENTITY mediaPlaybackRate100x2.label "Normalnie">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.label "Gibko (1.25×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "G">
+<!ENTITY mediaPlaybackRate150x2.label "Gibcyj (1.5×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "y">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Absurdalno (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "B">
+<!ENTITY mediaLoop.label             "Pyntla">
+<!ENTITY mediaLoop.accesskey         "l">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Pokoż kōntrolery">
+<!ENTITY mediaShowControls.accesskey "K">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
