@@ -145,6 +145,7 @@ cfr-doorhanger-sync-logins-ok-button = Huɓɓu { -sync-brand-short-name }…
 ## Send Tab
 
 cfr-doorhanger-send-tab-header = Tar ɗum e yahdu
+cfr-doorhanger-send-tab-body = Tabbere Neldude ina weeɓnan-maa lollinde ngol jokkol e cinndel maa walla kala nokku ceŋiɗaa e { -brand-product-name }.
 cfr-doorhanger-send-tab-ok-button = Eto neldude tabbere
     .accesskey = E
 
