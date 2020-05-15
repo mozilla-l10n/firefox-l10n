@@ -502,6 +502,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Dorada:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Wejrzij na ikōna &#x1F50E; wele doradōw szukanio, jak potrzebujesz pōmocy we szukaniu.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Zmiyń ôpcyje…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Z">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Zmiyń preferyncyje…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Z">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -523,10 +528,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+<!ENTITY contentSearchInput.label     "Szukano fraza">
 
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
