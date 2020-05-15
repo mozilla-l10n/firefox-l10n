@@ -169,11 +169,19 @@ identity-permissions =
     .value = Արտոնութիւններ
 identity-permissions-reload-hint = Ձեզ անհրաժեշտ կլինի թարմացնել էջը, որպէսզի կիրառուեն փոփոխութիւններ։
 identity-permissions-empty = Դուք չէք արտոնել այս կայքին որեւէ յատուկ թոյլտուութիւն:
+identity-clear-site-data =
+    .label = Ջնջել նշոցիկների եւ կայքի տվեալները…
 identity-connection-not-secure-security-view = Ձեր կապը այս կայքի հետ ապահով չէ
 identity-connection-verified = Ձեր կապը այս կայքի հետ ապահով է
+identity-ev-owner-label = Վկայագիրը թողարկուել է՝
+identity-description-custom-root = Mozilla֊ն չի ճանաչում այս վկայագրի թողարկողին։ Այն հնարաւոր է աւելացուել է Ձեր գործաւարական համակարգից կամ վարիչի կողմից։ <label data-l10n-name="link">Իմանալ աւելին</label>
 identity-remove-cert-exception =
     .label = Հեռացնել բացառութիւնը
     .accesskey = R
+identity-description-insecure = Ձեր կապակցումը այս կայքին գաղտնի չէ: Ուղարկուած տեղեկութիւնները կարող են դիտուել ուրիշների կողմից (գաղտնաբառերը, հաղորդագրութիւնները, քարտային տվեալները եւ այլն):
+identity-description-insecure-login-forms = Մուտքգործման տեղեկութիւնը, որ մուտքագրել եք այս էջում, անվտանգ չէ եւ կարող է վտանգուել:
+identity-description-weak-cipher-intro = Ձեր կապակցումը այս կայքին աւգտագործում է թոյլ գաղտնագրում եւ այն գաղտնի չէ:
+identity-description-weak-cipher-risk = Այլ մարդիկ կարող են դիտել Ձեր տեղեկատվութիւնը կամ փոփոխել կայքի վարքագիծը:
 
 ## Window controls
 
