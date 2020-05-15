@@ -5,39 +5,39 @@
 page-title = Տեղեկատուութիւն խնդիրների լուծման համար
 page-subtitle = Այս էջը պարունակում է տեխնիկական ինֆորմացիայ, որը կարող է աւգտակար լինել, երբ դուք փորձում եք լուծել խնդիրը:Եթե դուք փնտրում եք { -brand-short-name }-ին վերաբերող ընդհանուր հարցերին պատասխաններ,փորձէք մեր <a data-l10n-name="support-link"> աջակցող կայքը </a>:
 crashes-title = Վթարի զեկոյցներ
-crashes-id = Զեկոյցի ID
-crashes-send-date = Ներկայացուած
+crashes-id = Զեկոյցի նոյնացուցիչ
+crashes-send-date = Ուղարկուած է
 crashes-all-reports = Վթարի բոլոր զեկոյցները
 crashes-no-config = Ծրագիրը կարգաւորուած չէ ցուցադրելու վթարի զեկոյցները:
 extensions-title = Ընդլայնումներ
 extensions-name = Անուն
 extensions-enabled = Միացուած է
 extensions-version = Տարբերակ
-extensions-id = ID
+extensions-id = Նոյնացուցիչ
 security-software-title = Անվտանգութեան ծրագրաշար
 security-software-type = Տեսակ
 security-software-name = Անուն
 security-software-antivirus = Հակավիրուս
 security-software-antispyware = Հակալրտես
 security-software-firewall = Արգելապատնեշ
-features-title = { -brand-short-name }-ի հատկութիւններ
+features-title = { -brand-short-name }-ի յատկութիւններ
 features-name = Անուն
 features-version = Տարբերակ
-features-id = ID
+features-id = Նոյնացուցիչ
 processes-title = Հեռաւոր գործընթացներ
 processes-type = Տեսակ
 processes-count = Հաշուել
 app-basics-title = Հիմնական հաւելուած
 app-basics-name = Անուն
 app-basics-version = Տարբերակ
-app-basics-build-id = Կառուցման ID
+app-basics-build-id = Կառուցման նոյնացուցիչ
 app-basics-update-channel = Թարմացումների աղբիւր
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
         [linux] Թարմացումների նշարան
-       *[other] Թարմացրէք պանակը
+       *[other] Թարմացումների պանակ
     }
 app-basics-update-history = Թարմացումների պատմութիւն
 app-basics-show-update-history = Ցուցադրել Թարմացումների Պատմութիւնը

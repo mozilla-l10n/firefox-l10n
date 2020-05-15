@@ -6,40 +6,18 @@
 #   $count (Number) - Number of tracking events blocked.
 graph-week-summary =
     { $count ->
-        [one] Անցած շաբաթուայ ընթացքում { -brand-short-name }-- արգելափակուած { $count }-ի հետեւում
-       *[other] Անցած շաբաթուայ ընթացքում { -brand-short-name }--արգելափակուած { $count }-ի հետեւումներ
+        [one] Անցած շաբաթուայ ընթացքում { -brand-short-name }- ը արգելափակել է { $count } հետագծողներ
+       *[other] Անցած շաբաթների ընթացքում { -brand-short-name }--արգելափակել է { $count } հետագծողներ
     }
-# Variables:
-#   $count (Number) - Number of tracking events blocked.
-#   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
-# earliest date recorded in the database.
-graph-total-tracker-summary =
-    { $count ->
-        [one] <b>{ $count }</b> հետեւումը արգելափակուել է սկսած { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }-ից
-       *[other] <b>{ $count }</b> հետեւումները արգելափակուել են սկսած { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }-ից
-    }
-# Text displayed instead of the graph when in Private Mode
-graph-private-window = { -brand-short-name }-ը շարունակում է արգելափակել հետքերը անձնական Windows- ում, բայց չի պահում գրառումը, թէ ի՞նչն է արգելափակուած:
-# The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
-# "Standard" in this case is an adjective, meaning "default" or "normal".
-# The category name in the <b> tag will be bold.
-protection-report-header-details-standard = Պաշտպանութեան մակարդակը սահմանուած է <b>Միանմուշ</b>
-    .title = Գնալ դէպի գաղտնիութեան կարգաւորումները
-protection-report-header-details-strict = Պաշտպանութեան մակարդակը սահմանուած է <b>Ճշգրիտ</b>
-    .title = Գնալ դէպի գաղտնիութեան կարգաւորումները
-protection-report-header-details-custom = Պաշտպանութեան մակարդակը սահմանուած է <b>Ընտրովի</b>
-    .title = Գնալ դէպի գաղտնիութեան կարգաւորումները
 protection-report-page-title = Գաղտնիութեան պաշտպանութիւն
 protection-report-content-title = Գաղտնիութեան պաշտպանութիւն
-etp-card-title = Ընդլայնուած Հետապնդման Պաշտպանութիւն
-etp-card-content = Հետեւումները Ձեզ հետեւում են առցանց՝ ձեր զննման սովորույթների եւ հետաքրքրութիւնների վերաբերեալ տեղեկատուութիւն հաւաքելու համար: { -brand-short-name } ֊ը արգելափակում է շատ նման հետեւումներ եւ այլ չարամիտ գրութիւններ:
-protection-report-etp-card-content-custom-not-blocking = Ներկայիւմս բոլոր պաշտպանութիւններն անջատուած են։Ընտրեք, թե որ թիրախն է արգելափակել՝կառաւարելով Ձեր { -brand-short-name } կարգաւորումները։
+etp-card-title = Ընդլայնուած Հետագծման Պաշտպանութիւն
+etp-card-content = Հետագծողները Ձեզ հետեւում են առցանց՝ ձեր զննման սովորույթների եւ հետաքրքրութիւնների վերաբերեալ տեղեկատուութիւն հաւաքելու համար: { -brand-short-name } ֊ը արգելափակում է  նման հետագծումներ եւ այլ չարամիտ գրութիւններ:
+protection-report-etp-card-content-custom-not-blocking = Ներկայումս բոլոր պաշտպանութիւններն անջատուած են։Ընտրեք, թե որ հետագծողներինէ արգելափակել՝ Ձեր { -brand-short-name } ֊ի գաղտնիութեան կարգաւորումներից։
 protection-report-manage-protections = Փոխել կարգաւորումները
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Այսաւր
-# This string is used to describe the graph for screenreader users.
-graph-legend-description = Գրաֆիկ, որը պարունակում է այս շաբաթուայ ընթացքում խցանուած յուրաքանչյուր տեսակի հետախուզողի ընդհանուր թիվը։
 social-tab-title = Ընդհանուր միջաւայրի հետեւումներ
 social-tab-contant = Սոցցանցերը հետապնդում են Ձեզ այլ կայքերում, Ձեր գործողութիւնները իմանալու համար։ Սա թոյլատրում է սոցմեդիայի կազմակերպութիւններին իմանալ աւելին Ձեր մասին ըստ Ձեր կիսումների Ձեր սոցմեդիայ հաշիւներում։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
 cookie-tab-title = Միջակայքի հետեւող նշոցիկներ
@@ -47,9 +25,7 @@ cookie-tab-content = Այս նշոցիկները հետեւում են Ձեզ՝ 
 tracker-tab-title = Հետագծող բովանդակութիւն
 tracker-tab-description = Կայքերը կարող են բեռնել արտաքին գովազդ եւ այլ բովանդակութիւն հետապնդուող կոդով։ Հետապնդուող բովանդակութեան արգելափակումը կարող է աւգնել կայքերին աւելի արագ բեռնուել, բայց որոշ կոճակներ ձեւեր եւ մուտքային դաշտեր կարող են չաշխատել։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
 fingerprinter-tab-title = Մատնահետքեր
-fingerprinter-tab-content = Մատնահետքերը հաւաքում են կարգաւորումներ Ձեր զննարկչից եւ համակարգչից Ձեր հատկագրից ստեղծելու համար։ Աւգտագործելով այդ թուային մատնահետքերը նրանք կարող են հետապնդել Ձեզ տարբեր վեբ կայքերում։ <a data-l10n-name="learn-more-link">Իմանալ աւելին</a>
 cryptominer-tab-title = Գաղտնազերծիչներ
-cryptominer-tab-content = Կրիպտոարժոյթները աւգտագործում են Ձեր համակարգի հաշուարկային ուժը թուային փողը հանելու համար։ Ծպտեալ արժեքների գրուածքները սպառում են Ձեր մարտկոցը, դանդաղեցնում Ձեր համակարգիչը եւ կարող են մեծացնել Ձեր էներգիայի հաշիւը։ <a data-l10n-name="learn-more-link"> Իմանալ աւելին</a>
 lockwise-title = Այլեւս երբէք չմոռանալ գաղտնաբառը
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } ապահով պահպանում է Ձեր գաղտնաբառերը Ձեր զննարկիչում:
