@@ -145,6 +145,12 @@ monitor-header-content-no-account = Edrychwch ar { -monitor-brand-name } i weld 
 monitor-header-content-signed-in = Mae { -monitor-brand-name } yn eich rhybuddio os yw'ch manylion wedi ymddangos mewn tor-data hysbys
 monitor-sign-up = Cofrestrwch am Rybuddion Tor-data
 auto-scan = Wedi'u sganio'n awtomatig heddiw
+monitor-emails-tooltip =
+    .title = Gweld cyfeiriadau e-bost wedi'u monitro ar { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Gweld tor-data hysbys ar { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Gweld cyfrineiriau wedi'u datgelu ar { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
