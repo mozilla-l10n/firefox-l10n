@@ -166,6 +166,14 @@ cfr-doorhanger-socialtracking-dont-show-again = Hoto hollam ɓatakuuji mbaaɗi n
 
 ## Enhanced Tracking Protection Milestones
 
+# Variables:
+#   $blockedCount (Number) - The total count of blocked trackers. This number will always be greater than 1.
+#   $date (String) - The date we began recording the count of blocked trackers
+cfr-doorhanger-milestone-heading =
+    { $blockedCount ->
+        [one] { -brand-short-name } daaƴaama e<b>{ $blockedCount }</b>rewindottoɓe gila { $date }!
+       *[other] { -brand-short-name } daaƴaama e<b>{ $blockedCount }</b>rewindottoɓe gila { $date }!
+    }
 cfr-doorhanger-milestone-ok-button = Yiy fof
     .accesskey = Y
 
@@ -175,11 +183,14 @@ cfr-doorhanger-milestone-ok-button = Yiy fof
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Sos pinle kisɗe no weeɓiri
+cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } Maandel
 
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = Heɓ jeertine baɗte pinle jaafɗe
+cfr-whatsnew-passwords-icon-alt = Maandel coktirgal finnde yaafnde
 
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Ƴettu njaajeendi yaynirde natal-nder-natal
+cfr-whatsnew-pip-fullscreen-icon-alt = Maandel natal-nder-natal

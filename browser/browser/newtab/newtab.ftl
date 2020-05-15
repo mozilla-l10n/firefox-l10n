@@ -127,6 +127,10 @@ newtab-label-removed-bookmark = Maantorol omtaama
 newtab-label-recommended = Ina tiindii
 newtab-label-saved = Danndaama e { -pocket-brand-name }
 newtab-label-download = Awtaama
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = { $sponsorOrSource } · Tammbaama
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -168,8 +172,11 @@ newtab-empty-section-topstories = Rutto ɗoo goɗngol ngam daari goɗɗi { $prov
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 newtab-discovery-empty-section-topstories-header = A heɓtaama!
+newtab-discovery-empty-section-topstories-content = Ƴeewto so ɓooyii ngam daarti goɗɗi.
 newtab-discovery-empty-section-topstories-try-again-button = Eto goɗngol
 newtab-discovery-empty-section-topstories-loading = Nana loowa…
+# Displays when a layout in a section took too long to fetch articles.
+newtab-discovery-empty-section-topstories-timed-out = Ndoo! Ina wayi no min loowi ndee yamre, kono yonaani!
 
 ## Pocket Content Section.
 
