@@ -83,15 +83,53 @@ history-show-all-shortcut =
     .key = H
 history-sidebar-shortcut =
     .key = H
+full-screen-shortcut =
+    .key = F
 reader-mode-toggle-shortcut-windows =
     .keycode = VK_F9
 reader-mode-toggle-shortcut-other =
     .key = R
+picture-in-picture-toggle-shortcut =
+    .key = ]
+# Pick the key that is commonly present
+# in your locale keyboards above the
+# `picture-in-picture-toggle-shortcut` key.
+picture-in-picture-toggle-shortcut-alt =
+    .key = { "}" }
+bookmark-this-page-shortcut =
+    .key = D
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-all-shortcut =
+    .key =
+        { PLATFORM() ->
+            [linux] O
+           *[other] B
+        }
+# Verify what shortcut for that operation
+# are recommended by the Human Interface Guidelines
+# of each platform for your locale.
+bookmark-show-sidebar-shortcut =
+    .key = B
 
 ## All `-alt*` messages are alternative acceleration keys for zoom.
 ## If shift key is needed with your locale popular keyboard for them,
 ## you can use these alternative items. Otherwise, their values should be empty.
 
+full-zoom-reduce-shortcut =
+    .key = -
+# If in keyboard layouts popular for your locale you need to use the shift key
+# to access the original shortcuts, the following shortcuts can be used.
+# Otherwise their values should remain empty.
+full-zoom-reduce-shortcut-alt =
+    .key = { "" }
+full-zoom-enlarge-shortcut =
+    .key = +
+full-zoom-enlarge-shortcut-alt =
+    .key = =
+full-zoom-enlarge-shortcut-alt2 =
+    .key = { "" }
 full-zoom-reset-shortcut =
     .key = 0
 full-zoom-reset-shortcut-alt =
