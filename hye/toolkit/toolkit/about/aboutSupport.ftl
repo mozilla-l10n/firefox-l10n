@@ -60,7 +60,7 @@ app-basics-launcher-process-status = Թողարկման գործընթաց
 app-basics-multi-process-support = Բազմամշակիչ պատուհաններ
 app-basics-remote-processes-count = Հեռաւոր գործընթացներ
 app-basics-enterprise-policies = Ընկերութեան կանոններ
-app-basics-location-service-key-google = Google Տեղադրութեան ծառաիւթեան բանալին
+app-basics-location-service-key-google = Google Տեղադրութեան ծառայութեան բանալին
 app-basics-safebrowsing-key-google = Google անվտանգ զննարկման բանալի
 app-basics-key-mozilla = Mozilla-ի տեղադրութեան ծառայութեան բանալի
 app-basics-safe-mode = Յուսալի կերպ
@@ -90,7 +90,7 @@ graphics-workarounds-title = Շրջանցիկներ
 # Windowing system in use on Linux (e.g. X11, Wayland).
 graphics-window-protocol = Պատուհանի հաղորդակարգ
 # Desktop environment in use on Linux (e.g. GNOME, KDE, XFCE, etc).
-graphics-desktop-environment = Աշխատասեղանի միջաւայր
+graphics-desktop-environment = Աշխատասեղանի միջավայր
 place-database-title = Շտեմարանի տուեալներ
 place-database-integrity = Ամբողջականութիւն
 place-database-verify-integrity = Ստուգել ամբողջականութիւնը
@@ -113,7 +113,7 @@ sandbox-sys-call-tid = TID
 sandbox-sys-call-proc-type = Ընթացքի տեսակը
 sandbox-sys-call-number = Համզանգ
 sandbox-sys-call-args = Փաստարկներ
-safe-mode-title = Աւգտ. Յուսալի կերպը
+safe-mode-title = Փորձել ապահով եղանակը
 restart-in-safe-mode-label = Վերամեկնարկել՝ անջատելով յաւելումները...
 
 ## Media titles
@@ -141,10 +141,10 @@ media-capabilities-enumerate = Թուանշուած տուեալների բազ�
 ##
 
 intl-title = Միջազգայնացում եւ տեղայնացում
-intl-app-title = Հաւելուածի կարգաւորումներ
+intl-app-title = Յաւելուածի կարգաւորումներ
 intl-locales-requested = Հարցուած տեղանքներ
 intl-locales-available = Հասանելի տեղանքներ
-intl-locales-supported = Հաւելուածի տեղամասեր
+intl-locales-supported = Ծրագրի տեղայնացուցիչներ
 intl-locales-default = Տեղանքների սկզբնադիր
 intl-os-title = Բանաւարիչ համակարգ
 intl-os-prefs-system-locales = Համակարգային տեղամասեր
@@ -275,6 +275,7 @@ off-main-thread-paint-worker-count = Հիմնական շղթայից դուրս 
 target-frame-rate = Թիրախային կադրի արագութիւն
 min-lib-versions = Ակնկալուող նուազագոյն տարբերակը
 loaded-lib-versions = Աւգտագործւող տարբերակը
+sandbox-proc-type-content = բովանդակութիւն
 sandbox-proc-type-file = Նիշքի բովանդակութիւն
 sandbox-proc-type-media-plugin = Տեսաբաղադրիչ
 sandbox-proc-type-data-decoder = Տուեալների վերծանիչ
@@ -293,10 +294,20 @@ multi-process-status-4 = Անջատուած հասանելիութեան գոր�
 multi-process-status-7 = Անջատուած է յաւելումների կողմից
 multi-process-status-8 = Ստիպողաբար անջատուած
 multi-process-status-unknown = Անյայտ վիճակ
+async-pan-zoom = Չհամաժամուած շեղում/Դիտափոխում
+apz-none = չկայ
+wheel-enabled = ղեկասարքային ներմուծումը միացուած է
+touch-enabled = հպմամբ մուտքագրումը միացուած է
+keyboard-enabled = ստեղնաշարը միացուած է
+autoscroll-enabled = ինքնապտտումը միացուած է
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+touch-warning = async հպմամբ ներածումը անջատուած է չաջակցուող { $preferenceKey }  նախ. պատճառով.
 
 ## Strings representing the status of the Enterprise Policies engine.
 
+policies-inactive = Անգործուն
+policies-active = Գործուն
+policies-error = Սխալ
