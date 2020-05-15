@@ -195,4 +195,7 @@ was trying to connect. -->
 <!ENTITY networkProtocolError.title "Ցանցի հաղորդակարգի սխալ">
 
 <!ENTITY enableTls10.longDesc "Այս կայքը հնարաւոր է աջակցի TLS 1.2 հաղորդակարգին, որը ամենա փոքր տարբերակն է &brandShortName;-ի կողմից աջակցուած։ TLS 1.0 և TLS 1.1 թոյլատրելը հնարաւոր է յաջողացնի այս միացումը։">
+<!ENTITY enableTls10.note "TLS 1.0 և TLS 1.1 մշտապէս կանջատուեն ապագայ թողարկումում։">
+<!ENTITY enableTls10.label "Միացնել TLS 1.0֊ն եւ 1.1֊ը։">
 
+<!ENTITY networkProtocolError.longDesc "<p>Էջը, որ ցանկանում եք դիտել չի կարող ցուցադրուել, քանզի յայտնաբերուել է ցանցի հաղորդակարգի սխալ։ </p><ul><li>Կապնվէք կայքի սեփականատերերի հետ՝  նրանց այդ մասին հաղորդելու համար։</li></ul>">
