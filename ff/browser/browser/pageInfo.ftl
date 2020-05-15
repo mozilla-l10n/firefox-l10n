@@ -14,6 +14,8 @@ select-all =
 menu-select-all =
     .label = Labo Fof
     .accesskey = F
+close-dialog =
+    .key = W
 general-tab =
     .label = Kuuɓal
     .accesskey = G
@@ -149,6 +151,16 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Huutoro Goowaaɗo
 security-no-visits = Alaa
+# This string is used to display the number of times
+# the user has visited the website prior
+# Variables:
+#   $visits (number) - The number of previous visits
+security-visits-number =
+    { $visits ->
+        [0] Alaa
+        [one] Eey, laawol gootol
+       *[other] Eey, { $visits } sahaa
+    }
 # This string is used to display the type of
 # an image
 # Variables:

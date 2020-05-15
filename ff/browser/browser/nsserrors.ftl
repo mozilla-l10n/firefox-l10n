@@ -334,3 +334,4 @@ mozilla-pkix-error-validity-too-long = Carwo oo hollitii sartifikaa jaɓaaɗo ko
 mozilla-pkix-error-required-tls-feature-missing = Gollirgel TLS katojinangal ina ŋakki.
 mozilla-pkix-error-invalid-integer-encoding = Carwo oo hollitii sartifikaa baɗɗo kodgol limre timmunde ngol moƴƴaani. Sababuuji gaadoraaɗi ina mbaɗa tonngooɗe callalal uste, gulle RSA uste kam e kode ɓurɗe ko soklaa koo juutde.
 mozilla-pkix-error-empty-issuer-name = Carwo oo hollitii sartifikaa baɗɗo innde seerndirde jaltinoowo mehre.
+mozilla-pkix-error-self-signed-cert = Seedamfaagu nguu hoolaaka sabu ko siifnde hoore mayre.
