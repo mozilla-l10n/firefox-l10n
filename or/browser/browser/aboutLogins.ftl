@@ -67,6 +67,10 @@ about-logins-list-item-vulnerable-password-icon =
 login-intro-heading = ସଂରକ୍ଷିତ ଲଗ ଇନଗୁଡ଼ିକୁ ଖୋଜୁଛନ୍ତି କି? { -sync-brand-short-name }କୁ ସେଟ କରନ୍ତୁ ।
 about-logins-login-intro-heading-logged-in = କୌଣସି ସମସାମୟିକ ଲଗ-ଇନ ମିଳିଲା ନାହିଁ
 login-intro-description = ଯଦି ଆପଣ { -brand-product-name } ପାଇଁ ଆପଣଙ୍କର ଲଗ ଇନଗୁଡ଼ିକୁ ଅନ୍ୟ ଏକ ଉପକରଣରେ ସଂରକ୍ଷିତ କରିଛନ୍ତି, ତେବେ ତାହାକୁ କିପରି ଏଠାକୁ ଆଣିବେ ଦେଖନ୍ତୁ:
+login-intro-instruction-fxa = ଯେଉଁଠାରେ ଆପଣଙ୍କର ଲଗଇନ୍ ସେଭ୍ ହୋଇଛି ସେହି ଡିଭାଇସରେ ଆପଣଙ୍କର { -fxaccount-brand-name } ସୃଷ୍ଟି କିମ୍ବା ସାଇନ୍ ଇନ୍ କରନ୍ତୁ
+login-intro-instruction-fxa-settings = ନିଶ୍ଚିତ କରନ୍ତୁ ଯେ ଆପଣ { -sync-brand-short-name } ସେଟିଂସମୂହରେ ଲଗଇନ୍ ଚେକ୍ ବକ୍ସ ଚୟନ କରିଛନ୍ତି
+about-logins-intro-instruction-help = ଅଧିକ ସହାୟତା ପାଇଁ <a data-l10n-name="help-link"> { -lockwise-brand-short-name } ସମର୍ଥନ </a> ପରିଦର୍ଶନ କରନ୍ତୁ
+about-logins-intro-import = ଯଦି ଆପଣଙ୍କର ଲଗଇନ୍ ଅନ୍ୟ ବ୍ରାଉଜରରେ ସେଭ୍ ହୋଇଛି, ଆପଣ <a data-l10n-name="import-link"> ସେଗୁଡିକୁ { -lockwise-brand-short-name } </a> ରେ ଆମଦାନୀ କରିପାରିବେ
 
 ## Login
 
@@ -89,6 +93,9 @@ login-item-copied-password-button-text = ନକଲ ହୋଇଛି
 login-item-save-changes-button = ପରିବର୍ତ୍ତନ ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-save-new-button = ସଂରକ୍ଷଣ କରନ୍ତୁ
 login-item-cancel-button = ବାତିଲ କରନ୍ତୁ
+login-item-time-changed = ଶେଷ ପରିବର୍ତ୍ତିତ: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
+login-item-time-created = ତିଆରି ହୋଇଥିଲା: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
+login-item-time-used = ଶେଷ ବ୍ୟବହୃତ: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
 ## OS Authentication dialog
 
@@ -100,17 +107,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = ଆପଣଙ୍କର ଲଗଇନ୍ ସଂପାଦନ କରିବାକୁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରନ୍ତୁ
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ ଦେଖିବା ପାଇଁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରନ୍ତୁ
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = ସଞ୍ଚିତ ଲଗଇନ୍ କପି କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ କପି କରିବାକୁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ କପି କରନ୍ତୁ
 
@@ -123,6 +136,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] ଆପଣ { -brand-product-name } ବ୍ୟବହାର କରୁଥିବା ସବୁ ସ୍ଥାନରେ ଆପଣଙ୍କର ଲଗଇନ୍ ଚାହୁଁଛନ୍ତି କି? ଆପଣଙ୍କର { -sync-brand-short-name } ପସନ୍ଦକୁ ଯାଆନ୍ତୁ ଏବଂ ଲଗଇନ୍ ଚେକ୍ ବକ୍ସ ଚୟନ କରନ୍ତୁ
+       *[other] ଆପଣ { -brand-product-name } ବ୍ୟବହାର କରୁଥିବା ସବୁ ସ୍ଥାନରେ ଆପଣଙ୍କର ଲଗଇନ୍ ଚାହୁଁଛନ୍ତି କି? ଆପଣଙ୍କର { -sync-brand-short-name } ପସନ୍ଦକୁ ଯାଆନ୍ତୁ ଏବଂ ଲଗଇନ୍ ଚେକ୍ ବକ୍ସ ଚୟନ କରନ୍ତୁ
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
