@@ -31,3 +31,5 @@ screenshots-unshootable-page-error-details = Սա ստանդարտ կայք էջ
 screenshots-self-screenshot-error-title = Դուք չէք կարող ստանալ { -screenshots-brand-name }-ի էջի հանոյթը:
 screenshots-empty-selection-error-title = Ձեր ընտրութիւնը շատ փոքր է
 screenshots-private-window-error-title = { -screenshots-brand-name }-ն անջատուած է անձնական զննարկման աշխատակերպում։
+screenshots-private-window-error-details = Ներողութիւն անյարմարութեան համար: Այս գործառոյթի վրայ մենք աշխատում ենք հետագայ թողարկումների համար:
+screenshots-generic-error-title = Ո՞վ{ -screenshots-brand-name } գնաց գլխիվայր:
