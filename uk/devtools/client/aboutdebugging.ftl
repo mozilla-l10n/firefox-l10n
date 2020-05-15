@@ -178,7 +178,7 @@ about-debugging-runtime-service-workers-not-compatible = Конфігураці�
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $minVersion } is the minimum version that is compatible with the current Firefox instance (same format)
-about-debugging-browser-version-too-old = Під'єднаний браузер має застарілу версію ({ $runtimeVersion }). Мінімальна підтримувана версія ({ $minVersion }). Ця конфігурація не підтримується і може призвести до збою DevTools. Будь ласка, оновіть під'єднаний браузер. <a>Вирішення проблем</a>
+about-debugging-browser-version-too-old = Під'єднаний браузер має застарілу версію ({ $runtimeVersion }). Мінімальна підтримувана версія ({ $minVersion }). Ця конфігурація не підтримується і може призвести до збою DevTools. Будь ласка, оновіть під'єднаний браузер. <a>Розв'язання проблем</a>
 # Dedicated message for a backward compatibility issue that occurs when connecting:
 # - from Fx 67 to 66 or to 65
 # - from Fx 68 to 66
@@ -195,7 +195,7 @@ about-debugging-browser-version-too-old-fennec = Ця версія Firefox не 
 # { $localID } is the build ID of the current Firefox instance (same format)
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 # { $localVersion } is the version of your current browser (same format)
-about-debugging-browser-version-too-recent = Під'єднаний браузер є більш новим ({ $runtimeVersion }, buildID { $runtimeID }), ніж ваш { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Ця конфігурація не підтримується і може призвести до збою DevTools. Будь ласка, оновіть Firefox. <a>Вирішення проблем</a>
+about-debugging-browser-version-too-recent = Під'єднаний браузер є новішим ({ $runtimeVersion }, buildID { $runtimeID }), ніж ваш { -brand-shorter-name } ({ $localVersion }, buildID { $localID }). Ця конфігурація не підтримується і може призвести до збою DevTools. Будь ласка, оновіть Firefox. <a>Розв'язання проблем</a>
 # Displayed for runtime info in runtime pages.
 # { $name } is brand name such as "Firefox Nightly"
 # { $version } is version such as "64.0a1"
