@@ -537,13 +537,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Szukano fraza">
 
+<!ENTITY contentSearchSubmit.tooltip  "Poślij szukanie">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Szukej">
+<!ENTITY searchIcon.tooltip           "Szukej">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
+<!ENTITY searchFor.label              "Szukej za">
+<!ENTITY searchWith.label             "we:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
@@ -551,17 +556,53 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
+<!ENTITY search.label                 "Szukej we">
+<!ENTITY searchAfter.label            "">
 
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
+<!ENTITY searchWithHeader.label       "Szukej ze:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
+<!ENTITY changeSearchSettings.button  "Zmiana nasztalowań szukanio">
+<!ENTITY changeSearchSettings.tooltip "Zmiyń nasztalowania szukanio">
 
+<!ENTITY searchInNewTab.label         "Szukej w nowyj karcie">
+<!ENTITY searchInNewTab.accesskey     "S">
+<!ENTITY searchSetAsDefault.label     "Nasztaluj za bazowo wyszukowarka">
+<!ENTITY searchSetAsDefault.accesskey "B">
 
+<!ENTITY openLinkCmdInTab.label       "Ôdewrzij link w nowyj karcie">
 
+<!ENTITY openLinkCmdInTab.accesskey   "l">
+<!ENTITY openLinkCmd.label            "Ôdewrzij link w nowym ôknie">
+<!ENTITY openLinkCmd.accesskey        "O">
+<!ENTITY openLinkInPrivateWindowCmd.label "Ôdewrzij link w nowym prywatnym ôknie">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkCmdInCurrent.label     "Ôdewrzij link">
+<!ENTITY openLinkCmdInCurrent.accesskey "o">
+<!ENTITY openFrameCmdInTab.label      "Ôdewrzij rōma w nowyj karcie">
+<!ENTITY openFrameCmdInTab.accesskey  "k">
+<!ENTITY openFrameCmd.label           "Ôdewrzij rōma w nowym ôknie">
+<!ENTITY openFrameCmd.accesskey       "k">
+<!ENTITY openLinkCmdInContainerTab.label "Ôdewrzij link we nowyj kōntynerowyj karcie">
+<!ENTITY openLinkCmdInContainerTab.accesskey "n">
+<!ENTITY showOnlyThisFrameCmd.label     "Pokoż ino ta rōma">
+<!ENTITY showOnlyThisFrameCmd.accesskey "P">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "Przeladuj rōma">
+<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Pokoż zdrzōdło wyboru">
+<!ENTITY viewPartialSourceCmd.accesskey "z">
+<!ENTITY viewPageSourceCmd.label      "Pokoż zdrzōdło strōny">
+<!ENTITY viewPageSourceCmd.accesskey  "P">
+<!ENTITY viewFrameSourceCmd.label     "Pokoż zdrzōdło rōmy">
+<!ENTITY viewFrameSourceCmd.accesskey "P">
+<!ENTITY viewPageInfoCmd.label        "Pokoż informacyje ô strōnie">
+<!ENTITY viewPageInfoCmd.accesskey    "I">
 
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
