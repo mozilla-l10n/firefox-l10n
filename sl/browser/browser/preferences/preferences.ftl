@@ -286,6 +286,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Uporabi { $app-name } (privzeto)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Uporabi privzeti program sistema macOS
+            [windows] Uporabi privzeti program sistema Windows
+           *[other] Uporabi privzeti program sistema
+        }
 applications-use-other =
     .label = Uporabi drugo …
 applications-select-helper = Izbira pomožnega programa
