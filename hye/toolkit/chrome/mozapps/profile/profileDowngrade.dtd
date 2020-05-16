@@ -12,3 +12,5 @@
 <!ENTITY window.title "Դուք աւգտագործում էք Firefox֊ի հին տարբերակը">
 
 
+<!ENTITY window.quit-win "Ելք">
+<!ENTITY window.quit-nonwin "Դուրս գալ">
