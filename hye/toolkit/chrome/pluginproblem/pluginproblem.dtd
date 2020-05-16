@@ -28,4 +28,5 @@
 
 <!ENTITY plugin.file                                         "Նիշք">
 <!ENTITY plugin.mimeTypes                                    "MIME տեսակներ">
+<!ENTITY plugin.flashProtectedMode.label                     "Միացնել Adobe Flash-ի պաշտպանուած ձեւը">
 <!ENTITY plugin.enableBlocklists.label                       "Արգելափակել վտանգաւոր եւ ձանձրացնող Flash բովանդակութիւնը">

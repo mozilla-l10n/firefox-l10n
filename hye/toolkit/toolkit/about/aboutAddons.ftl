@@ -151,6 +151,8 @@ addon-restart-now =
     .label = Վերագործարկել հիմա
 disabled-unsigned-heading =
     .value = Որոշ յաւելումներ անջատուել են
+disabled-unsigned-description = Հետեւեալ յաւելումները { -brand-short-name }-ում աւգտագործուելու համար չեն ստուգուել: Դուք կարող էք <label data-l10n-name="find-addons">գտնել փոխարինում</label> կամ խնդրել ստեղծողին դրանք ստուգել:
+disabled-unsigned-learn-more = Իմացէք աւելին, թե ինչպէս ենք ապահովում Ձեր առցանց անվտանգութիւնը:
 
 ## These are global warnings
 
