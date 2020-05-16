@@ -51,6 +51,26 @@ cmd-show-details =
 cmd-find-updates =
     .label = Գտնել թարմացումներ
     .accesskey = F
+cmd-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Ընտրանքներ
+           *[other] Նախընտրանքներ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+cmd-enable-theme =
+    .label = Աւգտագործել ոճապնակ
+    .accesskey = W
+cmd-disable-theme =
+    .label = Դադարեցնել ոճապնակի աւգտագործումը
+    .accesskey = W
+cmd-install-addon =
+    .label = Տեղադրել
+    .accesskey = I
 
 ## These are global warnings
 
