@@ -93,8 +93,20 @@ detail-update-type =
 detail-update-default =
     .label = Լռելեայն
     .tooltiptext = Ինքնաշխատաւրէն տեղադրել թարմացումներ, միայն եթե սկզբնադիրն այդպէս է
+detail-update-automatic =
+    .label = Միացնել
+    .tooltiptext = Թարմացումները տեղադրել ինքնաշխատաւրէն
+detail-update-manual =
+    .label = Անջատել
+    .tooltiptext = Չտեղադրել թարմացումներն ինքնաշխատաւրէն
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Բացել Գաղտնի Պատուհաններում
+detail-private-browsing-description2 = Թոյլտուութեան դէպքում, գաղտնի զննարկելիս, ընդլայնումը հասանելիութիւն կունենայ  ձեր առցանց գործողութիւններին։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
+# Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
+# cannot be overridden by the user.
+detail-private-disallowed-label = Թոյլատրուած չէ Գաղտնի Պատուհաններում
+detail-private-disallowed-description = Այս ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
+detail-private-disallowed-description2 = Այս ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ աւելին</a>
 
 ## These are global warnings
 
