@@ -18,4 +18,7 @@
 <!ENTITY reloadPlugin.post                                   "Փորձէք կրկին">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Ուղարկել վթարի զեկոյց">
+<!ENTITY report.submitting                                   "Զեկոյցն ուղարկուում է…">
+<!ENTITY report.submitted                                    "Վթարի զեկոյցը ուղարկուած է:">
+<!ENTITY report.disabled                                     "Վթարի զեկոյցը անջատուած է:">
 
