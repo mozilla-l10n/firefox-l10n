@@ -203,4 +203,7 @@
 <!ENTITY dontShowMessage.label        "Не показывать данное сообщение при включённой блокировке всплывающих окон ">
 <!ENTITY dontShowMessage.accesskey    "о">
 
+<!ENTITY throbber.title "Индикатор выполнения">
+<!ENTITY throbber.tooltip2 "Перейти на домашнюю страницу &brandShortName;">
+
 <!ENTITY syncToolbarButton.label "Синхронизировать">
