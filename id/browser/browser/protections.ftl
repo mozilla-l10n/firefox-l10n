@@ -33,6 +33,12 @@ protection-report-page-title = Perlindungan Privasi
 protection-report-content-title = Perlindungan Privasi
 etp-card-title = Perlindungan Pelacakan yang Ditingkatkan
 etp-card-content = Pelacak mengikuti Anda berkeliling daring untuk mengumpulkan informasi tentang kebiasaan dan minat penelusuran Anda. { -brand-short-name } memblokir banyak pelacak dan skrip jahat lainnya.
+protection-report-webpage-title = Dasbor Perlindungan
+protection-report-page-content-title = Dasbor Perlindungan
+protection-report-page-summary = { -brand-short-name } dapat melindungi privasi Anda di balik layar ketika Anda menjelajah. Ini adalah ringkasan perlindungan tersebut yang dipersonalisasi, termasuk alat untuk mengendalikan keamanan daring Anda.
+etp-card-title-always = Perlindungan Pelacakan Dipertingkat: Selalu Aktif
+etp-card-title-custom-not-blocking = Perlindungan Pelacakan Dipertingkat: NONAKTIF
+etp-card-content-summary = Ketika perusahaan tak dikenal mencoba diam-diam mengikuti Anda di web, { -brand-short-name } secara otomatis menghentikan mayoritas dari mereka.
 protection-report-etp-card-content-custom-not-blocking = Semua pengamanan saat ini nonaktif. Pilih pelacak yang akan diblokir dengan mengelola pengaturan perlindungan { -brand-short-name } Anda.
 protection-report-manage-protections = Kelola Pengaturan
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -60,10 +66,13 @@ mobile-app-card-content = Gunakan peramban seluler dengan perlindungan bawaan te
 mobile-app-links = Peramban { -brand-product-name } untuk <a data-l10n-name="android-mobile-inline-link">Android</a> dan <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Jangan pernah lupa kata sandi lagi
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Pengelolaan Kata Sandi
 lockwise-header-content = { -lockwise-brand-name } menyimpan sandi di peramban Anda dengan aman.
 lockwise-header-content-logged-in = Simpan dan sinkronkan sandi dengan aman ke semua perangkat Anda.
 protection-report-view-logins-button = Lihat Info masuk
     .title = Buka Info masuk
+protection-report-save-passwords-button = Simpan Kata Sandi
+    .title = Simpan Kata Sandi di { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Bawa kata sandi Anda ke mana saja
 lockwise-no-logins-card-content = Gunakan kata sandi yang disimpan dalam { -brand-short-name } di semua perangkat.
 lockwise-app-links = { -lockwise-brand-name } untuk <a data-l10n-name="lockwise-android-inline-link">Android</a> dan <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
