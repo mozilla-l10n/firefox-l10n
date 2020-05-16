@@ -128,7 +128,7 @@ detail-repository-value =
 detail-check-for-updates =
     .label = Ստուգել թարմացումները
     .accesskey = U
-    .tooltiptext = Ստուգել այս յաւելման թարմացումների առկաիւթիւնը
+    .tooltiptext = Ստուգել այս յաւելման թարմացումների առկայութիւնը
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -153,6 +153,8 @@ disabled-unsigned-heading =
     .value = Որոշ յաւելումներ անջատուել են
 disabled-unsigned-description = Հետեւեալ յաւելումները { -brand-short-name }-ում աւգտագործուելու համար չեն ստուգուել: Դուք կարող էք <label data-l10n-name="find-addons">գտնել փոխարինում</label> կամ խնդրել ստեղծողին դրանք ստուգել:
 disabled-unsigned-learn-more = Իմացէք աւելին, թե ինչպէս ենք ապահովում Ձեր առցանց անվտանգութիւնը:
+disabled-unsigned-devinfo = Ծրագրաւորողներն, ովքեր շահագրգռուած են, որ իրենց յաւելումները ստուգուեն, կարող են կարդալ մեր <label data-l10n-name="learn-more">ձեռնարկը</label>։
+plugin-deprecation-description = Ինչ-որ բան բացակայո՞ւմ է: Որոշ ներդիներ այլեւս չունեն { -brand-short-name }֊ի աջակցութիւնը:<label data-l10n-name="learn-more">Իմանալ աւելին։</label>
 
 ## These are global warnings
 
