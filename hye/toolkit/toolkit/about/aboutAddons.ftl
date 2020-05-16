@@ -7,6 +7,8 @@ addons-window =
 addons-page-title = Յաւելումների կառաւարում
 search-header-shortcut =
     .key = f
+loading-label =
+    .value = Բեռնում…
 
 ## These are global warnings
 
