@@ -71,6 +71,11 @@ cmd-disable-theme =
 cmd-install-addon =
     .label = Տեղադրել
     .accesskey = I
+cmd-contribute =
+    .label = Ներդրում
+    .accesskey = C
+    .tooltiptext = Ներդրում կատարել այս յաւելման մշակման համար
+discover-title = Ի՞նչ են յաւելումները:
 
 ## These are global warnings
 
