@@ -120,10 +120,6 @@ cfr-whatsnew-lockwise-take-link-text = Dapatkan aplikasinya
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Ketik lebih sedikit, temukan lebih banyak, dengan bilah alamat
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Buka situs yang sering dibuka dengan sekali klik di bilah alamat. Temukan lebih cepat bersama hasil dari { $searchEngineName } dan riwayat penjelajahan Anda.
-cfr-whatsnew-searchbar-body-generic = Buka situs yang sering dibuka dengan sekali klik di bilah alamat. Temukan lebih cepat bersama hasil dari riwayat penjelajahan Anda.
 cfr-whatsnew-searchbar-body-topsites = Kini cukup pilih bilah alamat dan sebuah kotak akan membentang yang berisi tautan ke situs teratas Anda.
 cfr-whatsnew-searchbar-icon-alt-text = Ikon kaca pembesar
 
@@ -222,6 +218,10 @@ cfr-whatsnew-lockwise-icon-alt = Ikon { -lockwise-brand-short-name }
 
 cfr-whatsnew-passwords-header = Dapatkan peringatan tentang kata sandi yang rentan
 cfr-whatsnew-passwords-body = Peretas tahu orang menggunakan kembali kata sandi yang sama. Jika Anda menggunakan kata sandi yang sama di beberapa situs, dan salah satu situs tersebut melanggar data, Anda akan melihat peringat di { -lockwise-brand-short-name } untuk mengubah kata sandi di situs-situs tersebut.
+cfr-whatsnew-passwords-icon-alt = Ikon kunci kata sandi yang rentan
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Buat tayangan gambar-dalam-gambar menjadi layar penuh
+cfr-whatsnew-pip-fullscreen-body = Saat Anda memasukkan video ke jendela mengambang, sekarang Anda dapat mengklik dua kali pada jendela itu untuk memenuhi layar.
+cfr-whatsnew-pip-fullscreen-icon-alt = Ikon gambar-dalam-gambar

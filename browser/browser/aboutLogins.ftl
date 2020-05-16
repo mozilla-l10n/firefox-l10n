@@ -46,7 +46,6 @@ login-list-count =
 login-list-sort-label-text = Urutkan berdasarkan:
 login-list-name-option = Nama (A-Z)
 login-list-name-reverse-option = Nama (Z-A)
-login-list-breached-option = Situs Web yang Dibobol
 about-logins-login-list-alerts-option = Peringatan
 login-list-last-changed-option = Terakhir Diubah
 login-list-last-used-option = Terakhir Digunakan
@@ -107,17 +106,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifikasikan identitas Anda untuk mengedit info masuk tersimpan.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Untuk mengubah log masuk Anda, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = mengedit info masuk tersimpan
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk mengungkapkan kata sandi tersimpan.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Untuk melihat kata sandi Anda, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mengungkapkan kata sandi tersimpan
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk menyalin kata sandi tersimpan.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Untuk menyalin kata sandi Anda, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = menyalin kata sandi tersimpan.
 
@@ -162,9 +167,6 @@ confirm-discard-changes-dialog-confirm-button = Hapus Perubahan
 
 about-logins-breach-alert-title = Pembobolan Situs Web
 breach-alert-text = Kata sandi telah bocor atau dicuri dari situs Web ini sejak terakhir Anda memperbarui rincian info masuk Anda. Ubah kata sandi Anda untuk melindungi akun Anda.
-breach-alert-link = Pelajari selengkapnya tentang pembobolan ini.
-breach-alert-dismiss =
-    .title = Tutup peringatan ini
 about-logins-breach-alert-date = Pembobolan ini terjadi pada { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

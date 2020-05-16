@@ -220,6 +220,10 @@ translate-attribution = Terjemahan oleh <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Pengecualian…
     .accesskey = l
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Gunakan pengaturan sistem operasi Anda pada “{ $localeName }” untuk format tanggal, waktu, angka, dan pengukuran.
 check-user-spelling =
     .label = Periksa ejaan saat mengetik teks
     .accesskey = j
@@ -268,6 +272,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Gunakan { $app-name } (bawaan)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Gunakan aplikasi baku macOS
+            [windows] Gunakan aplikasi baku Windows
+           *[other] Gunakan aplikasi baku sistem
+        }
 applications-use-other =
     .label = Gunakan yang lain…
 applications-select-helper = Pilih Aplikasi Pembantu
@@ -293,6 +304,8 @@ applications-use-plugin-in =
     .label = Gunakan { $plugin-name } (di { -brand-short-name })
 applications-preview-inapp =
     .label = Pratinjau di { -brand-short-name }
+applications-open-inapp =
+    .label = Buka di { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -306,12 +319,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -774,6 +791,8 @@ forms-master-pw-fips-desc = Sandi Gagal Diubah
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk membuat Kata Sandi Utama.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Untuk membuat Kata Sandi Utama, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
@@ -850,6 +869,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Pelacak lintas situs
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Pelacak lintas situs dan media sosial
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Pelacak media sosial dan lintas situs, dan mengisolasi kuki tersisa
 sitedata-option-block-unvisited =
     .label = Kuki dari situs yang tidak dikunjungi
 sitedata-option-block-all-third-party =
@@ -926,6 +947,7 @@ content-blocking-etp-strict-desc = Perlindungan yang lebih kuat, tetapi dapat me
 content-blocking-etp-custom-desc = Pilih pelacak dan skrip yang akan diblokir.
 content-blocking-private-windows = Melacak konten di Jendela Pribadi
 content-blocking-cross-site-tracking-cookies = Kuki pelacakan lintas situs
+content-blocking-cross-site-tracking-cookies-plus-isolate = Kuki pelacak lintas situs, dan isolasi kuki tersisa
 content-blocking-social-media-trackers = Pelacak media sosial
 content-blocking-all-cookies = Semua kuki
 content-blocking-unvisited-cookies = Kuki dari situs yang belum dikunjungi
@@ -938,6 +960,7 @@ content-blocking-warning-title = Perhatian!
 content-blocking-warning-description = Pemblokiran konten bisa menyebabkan beberapa situs web tidak berfungsi. Mudah sekali untuk menonaktifkan pemblokiran pada situs yang Anda percayai.
 content-blocking-learn-how = Pelajari caranya
 content-blocking-etp-warning-description = Pemblokiran pelacak dapat memengaruhi fungsionalitas beberapa situs tertentu. Muat ulang halaman beserta pelacak untuk memuat semua konten.
+content-blocking-and-isolating-etp-warning-description = Memblokir pelacak dan mengisolasi kuki dapat memengaruhi fungsionalitas beberapa situs. Muat ulang laman dengan pelacak untuk memuat semua konten.
 content-blocking-warning-learn-how = Pelajari caranya
 content-blocking-reload-description = Anda harus memuat ulang tab Anda untuk menerapkan perubahan ini.
 content-blocking-reload-tabs-button =

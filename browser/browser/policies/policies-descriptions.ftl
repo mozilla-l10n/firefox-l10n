@@ -26,6 +26,7 @@ policy-DisabledCiphers = Nonaktifkan ciphers.
 policy-DefaultDownloadDirectory = Atur direktori unduhan baku.
 policy-DisableAppUpdate = Cegah peramban untuk memperbarui.
 policy-DisableBuiltinPDFViewer = Nonaktifkan PDF.js, penampil PDF bawaan di { -brand-short-name }.
+policy-DisableDefaultBrowserAgent = Cegah agen bawaan peramban untuk melakukan tindakan apapun. Hanya berlaku di Windows; platform lain tidak memiliki agen.
 policy-DisableDeveloperTools = Blokir akses ke alat pengembang.
 policy-DisableFeedbackCommands = Nonaktifkan perintah untuk mengirim umpan balik dari menu Bantuan (Kirim Saran dan Laporkan Situs Tipuan).
 policy-DisableFirefoxAccounts = Nonaktifkan layanan berbasis { -fxaccount-brand-name }, termasuk Sync.
@@ -52,6 +53,8 @@ policy-DontCheckDefaultBrowser = Nonaktifkan pemeriksaan untuk peramban bawaan s
 policy-DownloadDirectory = Atur dan kunci direktori unduhan.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktifkan atau nonaktifkan Pemblokiran Konten dan kunci ia secara opsional.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Aktifkan atau nonaktifkan Ekstensi Media Terenkripsi dan kunci dia secara opsional.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -65,6 +68,14 @@ policy-HardwareAcceleration = Jika bernilai false, menonaktifkan akselerasi pera
 policy-Homepage = Mengatur dan mengunci halaman beranda secara opsional.
 policy-InstallAddonsPermission = Izinkan situs tertentu untuk memasang pengaya.
 policy-LegacyProfiles = Nonaktifkan fitur yang memberlakukan profil terpisah pada setiap pemasangan.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Aktifkan setelan perilaku kuki SameSite lama baku
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Kembalikan ke perilaku baku SameSite untuk kuki pada situs tertentu.
+
+##
+
 policy-LocalFileLinks = Izinkan situs web tertentu untuk bertaut dengan berkas lokal.
 policy-NetworkPrediction = Aktifkan atau nonaktifkan prediksi jaringan (DNS prefetching).
 policy-NewTabPage = Aktifkan atau nonaktifkan laman Tab Baru.
@@ -74,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Setel nilai default untuk mengizinkan { -brand
 policy-OverrideFirstRunPage = Ganti laman pertama yang dibuka. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman pertama yang dibuka.
 policy-OverridePostUpdatePage = Ganti laman "Yang Baru" yang tampil setelah pembaruan. Setel kebijakan ini menjadi kosong jika ingin menonaktifkan laman setelah pembaruan.
 policy-PasswordManagerEnabled = Aktifkan penyimpanan sandi melalui manajer sandi.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Nonaktifkan atau atur konfigurasi PDF.js, penampil PDF bawaan di { -brand-short-name }.
 policy-Permissions2 = Atur izin untuk kamera, mikrofon, lokasi, notifikasi, dan putar-otomatis.
 policy-PopupBlocking = Izinkan situs tertentu untuk menampilkan pop-up secara otomatis.
 policy-Preferences = Tetapkan dan kunci nilai untuk subset preferensi.

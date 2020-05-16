@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Bersiap
 onboarding-welcome-header = Selamat datang di { -brand-short-name }
 onboarding-welcome-body = Anda telah mendapatkan perambannya. <br/>Temui lini produk { -brand-product-name } lainnya.
 onboarding-welcome-learn-more = Pelajari lebih lanjut tentang manfaatnya.
+onboarding-join-form-header = Bergabunglah dengan { -brand-product-name }
 onboarding-welcome-modal-get-body = Anda telah mendapatkan perambannya. <br/>Kini dapatkan yang terbaik dari { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Perkuat perlindungan privasi Anda.
 onboarding-welcome-modal-privacy-body = Anda telah mendapatkan perambannya. Mari tambahkan perlindungan privasi lebih lengkap.
 onboarding-welcome-modal-family-learn-more = Pelajari tentang rangkaian produk { -brand-product-name }.
 onboarding-welcome-form-header = Mulai di sini
-onboarding-join-form-header = Bergabunglah dengan { -brand-product-name }
 onboarding-join-form-body = Masukkan alamat surel Anda untuk memulai.
 onboarding-join-form-email =
     .placeholder = Masukan surel
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Tambahkan Ekstensi
 onboarding-import-browser-settings-title = Impor Markah, Kata Sandi, dan Lainnya
 onboarding-import-browser-settings-text = Gunakan langsung — pindahkan situs dan pengaturan Anda dari Chrome dengan mudah.
 onboarding-import-browser-settings-button = Impor Data Chrome
+onboarding-personal-data-promise-title = Didesain secara privat
+onboarding-personal-data-promise-text = { -brand-product-name } menghormati data Anda dengan mengambil sedikit mungkin bagiannya, melindunginya dan jelas akan penggunaannya.
+onboarding-personal-data-promise-button = Baca janji kami
 
 ## Message strings belonging to the Return to AMO flow
 
