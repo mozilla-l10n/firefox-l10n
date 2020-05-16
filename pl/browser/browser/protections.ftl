@@ -37,6 +37,12 @@ protection-report-page-title = Ochrona prywatności
 protection-report-content-title = Ochrona prywatności
 etp-card-title = Wzmocniona ochrona przed śledzeniem
 etp-card-content = Elementy śledzące monitorują Cię w Internecie, zbierając informacje o Twoich działaniach i zainteresowaniach. { -brand-short-name } blokuje wiele tych elementów i inne złośliwe skrypty.
+protection-report-webpage-title = Panel ochrony
+protection-report-page-content-title = Panel ochrony
+protection-report-page-summary = { -brand-short-name } może po cichu chronić Twoją prywatność, kiedy Ty przeglądasz Internet. Poniżej znajduje się spersonalizowane podsumowanie ochrony, a także narzędzia do przejęcia kontroli nad własnym bezpieczeństwem w sieci.
+etp-card-title-always = Wzmocniona ochrona przed śledzeniem: zawsze włączona
+etp-card-title-custom-not-blocking = Wzmocniona ochrona przed śledzeniem: wyłączona
+etp-card-content-summary = Kiedy nieznane firmy próbują potajemnie śledzić Cię w Internecie, { -brand-short-name } automatycznie zatrzymuje wiele z nich.
 protection-report-etp-card-content-custom-not-blocking = Cała ochrona jest obecnie wyłączona. Wybierz, które elementy śledzące blokować w ustawieniach ochrony przeglądarki { -brand-short-name }.
 protection-report-manage-protections = Otwórz ustawienia
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -121,6 +127,12 @@ monitor-header-content-no-account = Wypróbuj { -monitor-brand-name }, aby spraw
 monitor-header-content-signed-in = { -monitor-brand-name } ostrzega, jeśli Twoje dane pojawiły się w znanym wycieku.
 monitor-sign-up = Subskrybuj powiadomienia o wyciekach
 auto-scan = Automatycznie przeskanowano dzisiaj
+monitor-emails-tooltip =
+    .title = Wyświetl monitorowane adresy e-mail w serwisie { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Wyświetl znane wycieki danych w serwisie { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Wyświetl ujawnione hasła w serwisie { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
