@@ -311,6 +311,7 @@ shortcuts-no-commands = Ekstensi berikut tidak memiliki pintasan:
 shortcuts-input =
     .placeholder = Ketikkan pintasan
 shortcuts-browserAction = Aktifkan ekstensi
+shortcuts-browserAction2 = Aktifkan tombol bilah alat
 shortcuts-pageAction = Aktifkan tindakan laman
 shortcuts-sidebarAction = Aktifkan/Nonaktifkan bilah samping
 shortcuts-modifier-mac = Sertakan Ctrl, Alt, atau ⌘
