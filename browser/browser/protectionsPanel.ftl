@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Situs selesai diperbaiki? Kirim la
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Ketat
+    .label = Ketat
+protections-popup-footer-protection-label-custom = Ubahsuai
+    .label = Ubahsuai
+protections-popup-footer-protection-label-standard = Standar
+    .label = Standar
 
 ##
 
