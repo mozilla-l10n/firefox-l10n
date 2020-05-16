@@ -203,4 +203,7 @@
 <!ENTITY dontShowMessage.label        "Pri zablokovaní vyskakovacieho okna túto správu už nezobrazovať.">
 <!ENTITY dontShowMessage.accesskey    "z">
 
+<!ENTITY throbber.title "Throbber">
+<!ENTITY throbber.tooltip2 "Prejsť na domovskú stránku &brandShortName;">
+
 <!ENTITY syncToolbarButton.label "Synchronizácia">
