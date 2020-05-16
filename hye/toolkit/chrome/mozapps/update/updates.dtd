@@ -7,6 +7,8 @@
 <!ENTITY  updateCheck.label               "Փնտրուում է &brandShortName;-ի նոր տարբերակը…">
 
 <!ENTITY  noupdatesfound.title            "Թարմացումներ չկան">
+<!ENTITY  noupdatesautoenabled.intro      "Չկան հասանելի թարմացումներ: &brandShortName;-ը պարբերաբար  կստուգի թարմացումների առկայութիւնը:">
+<!ENTITY  noupdatesautodisabled.intro     "Չկան հասանելի թարմացումներ: Ստուգէք ավելի ուշ կամ ակտիվացրէք  &brandShortName;-ի թարմացումների ինքնաշխատ ստուգումը:">
 
 
 
