@@ -48,13 +48,13 @@ menu-file-print-preview =
     .accesskey = A
 menu-file-print =
     .label = Imprimir…
-    .accesskey = p
+    .accesskey = i
 menu-file-import-from-another-browser =
     .label = Importar d’un autre navegador…
     .accesskey = I
 menu-file-go-offline =
-    .label = Apercebut abans impression
-    .accesskey = b
+    .label = Trabalhar fòra connexion
+    .accesskey = T
 
 ## Edit Menu
 
