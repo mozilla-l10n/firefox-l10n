@@ -3,7 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Ծրագրի թարմացում">
 
+<!ENTITY  checking.title                  "Ստուգուում են թարմացումները">
+<!ENTITY  updateCheck.label               "Փնտրուում է &brandShortName;-ի նոր տարբերակը…">
 
+<!ENTITY  noupdatesfound.title            "Թարմացումներ չկան">
 
 
 
