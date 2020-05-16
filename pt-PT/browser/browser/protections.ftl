@@ -40,6 +40,7 @@ protection-report-page-content-title = Painel das proteções
 protection-report-page-summary = O { -brand-short-name } pode proteger a sua privacidade nos bastidores, enquanto navega. Este é um resumo personalizado destas proteções, incluindo ferramentas para assumir o controle da sua segurança na Internet.
 etp-card-title-always = Proteção melhorada contra a monitorização: Sempre ligada
 etp-card-title-custom-not-blocking = Proteção melhorada contra a monitorização: DESLIGADA
+etp-card-content-summary = Quando empresas desconhecidas o tentam seguir secretamente pela Internet, o { -brand-short-name } impede que muitas destas empresas o possam fazer.
 protection-report-etp-card-content-custom-not-blocking = Atualmente, todas as proteções estão desativadas. Escolha que rastreadores devem ser bloqueados gerindo as definições de proteção do { -brand-short-name }.
 protection-report-manage-protections = Gerir definições
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -120,6 +121,12 @@ monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confir
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa falha de segurança de dados conhecida.
 monitor-sign-up = Registar para Alertas de falhas de segurança
 auto-scan = Analisado hoje, de forma automática
+monitor-emails-tooltip =
+    .title = Ver os endereços de e-mail monitorados no { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Ver no { -monitor-brand-short-name } as falhas de segurança de dados conhecidas
+monitor-passwords-tooltip =
+    .title = Ver no { -monitor-brand-short-name } as palavras-passe expostas.
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
