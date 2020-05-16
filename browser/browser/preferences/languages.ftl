@@ -3,11 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 webpage-languages-window =
-    .title = Налаштування мови веб-сторінок
+    .title = Налаштування мови вебсторінок
     .style = width: 40em
 languages-close-key =
     .key = w
-languages-description = Деякі веб-сторінки можуть бути доступні більш, ніж однією мовою. Оберіть бажаний порядок мов для відображення таких сторінок
+languages-description = Деякі вебсторінки можуть бути доступні більш, ніж однією мовою. Оберіть бажаний порядок мов для показу таких сторінок
 languages-customize-spoof-english =
     .label = Запитувати англійську версію вебсайтів для покращеної приватності
 languages-customize-moveup =
