@@ -9,6 +9,10 @@ search-header-shortcut =
     .key = f
 loading-label =
     .value = Բեռնում…
+list-empty-installed =
+    .value = Ձեզ մաւտ նմանատիպ յաւելումներ տեղադրուած չեն
+list-empty-available-updates =
+    .value = Թարմացումներ չեն գտնուել
 
 ## These are global warnings
 
