@@ -61,6 +61,8 @@ update-in-progress-cancel-button = &Vazhdo
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Që të krijoni një Fjalëkalim të Përgjithshëm, verifikoni identitetin tuaj.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
