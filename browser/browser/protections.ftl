@@ -54,6 +54,11 @@ fingerprinter-tab-title = Odtlačok prehliadača
 fingerprinter-tab-content = Zberom informácií o vašom prehliadači a počítači je možné vytvoriť unikátny odtlačok, ktorý je potom možné použiť na vaše sledovanie naprieč rôznymi webovými stránkami. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
 cryptominer-tab-title = Ťažba kryptomien
 cryptominer-tab-content = Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu a spomaľujú váš počítač. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+protections-close-button =
+    .aria-label = Zavrieť
+protections-close-button2 =
+    .aria-label = Zavrieť
+    .title = Zavrieť
 mobile-app-title = Blokovanie sledujúcich reklám naprieč zariadeniami
 mobile-app-card-content = Používajte mobilný prehliadač so vstavanou ochranou pred sledujúcimi reklamami.
 mobile-app-links = Prehliadač { -brand-product-name } pre <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
@@ -75,6 +80,7 @@ lockwise-passwords-stored =
         [few] Heslá boli bezpečne uložené <a data-l10n-name="lockwise-how-it-works">Ako to funguje</a>
        *[other] Heslá boli bezpečne uložené <a data-l10n-name="lockwise-how-it-works">Ako to funguje</a>
     }
+lockwise-how-it-works-link = Ako to funguje
 turn-on-sync = Zapnúť { -sync-brand-short-name }…
     .title = Prejsť na nastavenie synchronizácie
 manage-connected-devices = Spravovať zariadenia…
