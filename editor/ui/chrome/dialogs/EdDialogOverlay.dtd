@@ -14,7 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Alterar entre URL relativo e absoluto. Tem de guardar a página para poder alterar.">
 
 <!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Introduza a localização da página web, um ficheiro local, ou selecione uma âncora/cabeçalho na lista:">
-<!ENTITY LinkURLEditField.accessKey "w">
-<!ENTITY LinkURLEditField2.label "Digite uma localização de página web, um ficheiro local, ou selecione uma âncora ou cabeçalho do menu de contexto do campo:">
+<!ENTITY LinkURLEditField2.label "Digite um endereço da página da Internet, um ficheiro local, ou selecione uma âncora ou cabeçalho do menu de contexto do campo:">
 <!ENTITY LinkURLEditField2.accessKey "w">
