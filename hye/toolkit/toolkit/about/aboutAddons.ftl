@@ -13,6 +13,10 @@ list-empty-installed =
     .value = Ձեզ մաւտ նմանատիպ յաւելումներ տեղադրուած չեն
 list-empty-available-updates =
     .value = Թարմացումներ չեն գտնուել
+list-empty-recent-updates =
+    .value = Վերջին շրջանում դուք չեք թարմացրել որեւէ յաւելում
+list-empty-find-updates =
+    .label = Ստուգուէք թարմացումների առկայութիւնը
 
 ## These are global warnings
 
