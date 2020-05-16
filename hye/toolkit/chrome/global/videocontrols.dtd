@@ -8,20 +8,44 @@
 <!ENTITY muteButton.unmuteLabel "Միացնել ձայնը">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Լիաէկրան">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Դուրս գալ Լիաէկրան վիճակից">
+<!ENTITY castingButton.castingLabel "Դէպի էկրան">
+<!ENTITY closedCaption.off "Անջատել">
 <!-- LOCALIZATION NOTE (volumeScrubber.label): This label is exposed to
      accessibility software to clarify what the slider is for. -->
+<!ENTITY volumeScrubber.label "Ուժգնութեան սահիչ">
 
 <!-- LOCALIZATION NOTE (pictureInPicture.label): This string is used as part of
 the Picture-in-Picture video toggle button when the mouse is hovering it. -->
+<!ENTITY pictureInPicture.label "Նկար-նկարում">
 
+<!ENTITY stats.media "Մեդիայ">
+<!ENTITY stats.size "Չափը">
+<!ENTITY stats.activity "Գործուն">
+<!ENTITY stats.activityPaused "Դադար">
+<!ENTITY stats.activityPlaying "Նուագարկում">
+<!ENTITY stats.activityEnded "Աւարտուած է">
+<!ENTITY stats.activitySeeking "(փնտրել)">
+<!ENTITY stats.volume "Ուժգնութիւն">
+<!ENTITY stats.framesParsed "Շրջանակները վերլուծուել են">
+<!ENTITY stats.framesDecoded "Շրջանակները կոդաւորուել են">
+<!ENTITY stats.framesPresented "Շրջանակները ներկայացուած են">
+<!ENTITY stats.framesPainted "Շրջանակները նկարուած են">
 
+<!ENTITY error.aborted "Տեսանիւթի բեռնումը կանգնեցուել է։">
+<!ENTITY error.network "Տեսանիւթի վերարտադրումը կանգնեցուել է ցանցի սխալի պատճառով:">
+<!ENTITY error.decode "Տեսանիւթը չի կարող վերարտադրուել, որովհետեւ նիշքը վնասուած է:">
+<!ENTITY error.srcNotSupported "Տեսանիւթի տեսակը կամ MIME-ի տեսակը չեն աջակցուում:">
+<!ENTITY error.noSource2 "Չկայ աջակցուող տեսանիւթի եւ MIME-ի տեսակ:">
+<!ENTITY error.generic "Տեսանիւթի վերարտադրումը կանգնեցուել է անյայտ սխալի պատճառով:">
 
+<!ENTITY status.pictureInPicture "Այս տեսանիւթը նուագարկուում է Նկար֊Նկարում աշխատակերպում։">
 
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be
 "6:00:00", result string would be "5:00 of 6:00:00 elapsed".
 -->
+<!ENTITY scrubberScale.nameFormat "#2-ից #1-ը անցած">
 
 <!-- LOCALIZATION NOTE (positionAndDuration.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
@@ -31,4 +55,5 @@ Note that #2 is not always available. For example, when at the 5 minute mark in 
 unknown duration video, #1 would be "5:00" and the string which is surrounded by
 <span> would be deleted, result string would be "5:00".
 -->
+<!ENTITY positionAndDuration.nameFormat "#1<span> / #2</span>">
 
