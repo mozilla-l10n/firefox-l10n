@@ -732,6 +732,8 @@
 <!ENTITY idColumn.label "Radhë sipas Marrjes">
 <!ENTITY attachmentColumn.label "Bashkëngjitje">
 
+<!ENTITY deleteColumn.label "Fshije">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Përzgjidhni shtylla që të shfaqen">
 <!ENTITY selectColumn.tooltip "Aktivizoni/çaktivizoni përzgjedhjen e krejt mesazheve">
@@ -755,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Renditi sipas vendndodhjesh">
 <!ENTITY idColumn2.tooltip "Renditi sipas radhe marrjeje">
 <!ENTITY attachmentColumn2.tooltip "Renditi sipas bashkëngjitjesh">
+
+<!ENTITY deleteColumn.tooltip "Fshini një mesazh">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Mesazh i Ri prej Gjedheje">
