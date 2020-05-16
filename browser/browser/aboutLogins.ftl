@@ -109,7 +109,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Potwierdź swoją tożsamość, aby zmienić zachowane dane logowania.
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Aby zmienić dane logowania, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
+about-logins-edit-login-os-auth-dialog-message-win = Aby zmienić dane logowania witryny, wprowadź swoje dane logowania do systemu Windows. Pomaga to chronić bezpieczeństwo Twoich kont.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = zmiana zachowanych danych logowania
