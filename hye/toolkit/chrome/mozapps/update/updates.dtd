@@ -12,10 +12,15 @@
 
 <!ENTITY  manualUpdate.title              "Չի ստացուում թարմացնել">
 <!ENTITY  manualUpdate.desc               "Անվտանգութեան եւ կայունութեան ցանկալի թարմացումները հասանելի են, սակայն ձեր  ոպերացիոն համակարգում տեղադրելու համար դուք չունեք համապատասխան  թոյլտուութիւն: Կապնուէք ձեր համակարգի ադմինիստրատորին կամ փորձէք կրկին մեկ այլ  աւգտագործողի հաշուից, որը համակարգում ունի ծրագրեր տեղադրելու իրաւունք:">
+<!ENTITY  manualUpdate.space.desc         "Անվտանգութեան եւ կայունութեան թարմացումը առկայ է, սակայն դուք չունէք բաւարար ազատ տարածք այն տեղադրելու համար:">
+
+<!ENTITY  unsupported.title               "Համակարգը չի աջակցուում">
+<!ENTITY  unsupportedLink.label           "Իմանալ աւելին:">
 
 
+<!ENTITY  evangelism.desc                 "Խստիւ խորհուրդ է տրուում կիրառել &brandShortName;-ի այս  թարմացումը, որքան հնարաւոր է շուտ:">
 
-
+<!ENTITY  downloading.intro               "Բեռնաւորում է թարմացումը…">
 
 
 
@@ -25,7 +30,9 @@
 
                                            
 
+<!ENTITY  finishedBackground.name         "Թարմացնել.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
+<!ENTITY  finishedBackground.more         "Թարմացումը կտեղադրուի յաջորդ անգամ &brandShortName;-ը բացելիս: Դուք կարող էք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը եւ վերամեկնարկել աւելի ուշ:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.moreElevated "Այս թարմացումը պահանջում է վարիչի արտոնութիւն: Թարմացումը կտեղադրուի յաջորդ անգամ &brandShortName;-ը բացելիս: Կարող էք հիմա վերամեկնարկել &brandShortName;-ը կամ շարունակել աշխատանքը եւ վերամեկնարկել յետոյ, կամ էլ մերժել այս թարմացումը:">
 

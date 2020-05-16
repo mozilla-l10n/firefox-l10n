@@ -35,9 +35,22 @@ tools-menu =
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
-            [windows] Ընտրանքներ
-           *[other] Նախընտրութիւններ
+            [windows] { -brand-short-name } Ընտրանքներ
+           *[other] { -brand-short-name } Նախընտրութիւններ
         }
+show-unsigned-extensions-button =
+    .label = Որոշ ընդլայնումներ չեն կարող ստուգուել
+show-all-extensions-button =
+    .label = Ցուցադրել բոլոր ընդլայնումները
+debug-addons =
+    .label = Վրիպազերծել յաւելումները
+    .accesskey = b
+cmd-show-details =
+    .label = Ցուցադրել լրացուցիչ տեղեկութիւն
+    .accesskey = S
+cmd-find-updates =
+    .label = Գտնել թարմացումներ
+    .accesskey = F
 
 ## These are global warnings
 
