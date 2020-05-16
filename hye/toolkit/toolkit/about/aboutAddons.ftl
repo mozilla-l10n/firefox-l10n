@@ -90,6 +90,8 @@ detail-update-type =
 detail-update-default =
     .label = Լռելեայն
     .tooltiptext = Ինքնաբերաբար տեղադրել թարմացումներ, միայն եթե սկզբնադիրն այդպէս է
+# Used as a description for the option to allow or block an add-on in private windows.
+detail-private-browsing-label = Բացել Գաղտնի Պատուհաններում
 
 ## These are global warnings
 
