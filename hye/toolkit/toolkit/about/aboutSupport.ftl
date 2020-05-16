@@ -305,6 +305,7 @@ multi-process-status-0 = Միացուած աւգտուողի կողմից
 multi-process-status-1 = Լռելեայն միացուած
 multi-process-status-2 = Անջատուած
 multi-process-status-4 = Անջատուած հասանելիութեան գործիքներով
+multi-process-status-6 = Անջատուած է չաջակցուած գրոյթի ներդրմամբ
 multi-process-status-7 = Անջատուած է յաւելումների կողմից
 multi-process-status-8 = Ստիպողաբար անջատուած
 multi-process-status-unknown = Անյայտ վիճակ
@@ -312,12 +313,15 @@ async-pan-zoom = Չհամաժամուած շեղում/Դիտափոխում
 apz-none = չկայ
 wheel-enabled = ղեկասարքային ներմուծումը միացուած է
 touch-enabled = հպմամբ մուտքագրումը միացուած է
+drag-enabled = գլորագոտու քաշելը միացուած է
 keyboard-enabled = ստեղնաշարը միացուած է
 autoscroll-enabled = ինքնապտտումը միացուած է
+zooming-enabled = սահուն պտուտակաւորումը միացուած է
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
 
+wheel-warning = async անիւի ներածումը անջատուած է չաջակցուող նախ. պատճառով. { $preferenceKey }
 touch-warning = async հպմամբ ներածումը անջատուած է չաջակցուող { $preferenceKey }  նախ. պատճառով.
 
 ## Strings representing the status of the Enterprise Policies engine.
