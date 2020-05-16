@@ -22,7 +22,22 @@ list-empty-button =
 install-addon-from-file =
     .label = Տեղադրել յաւելումը նիշքից…
     .accesskey = I
-help-button = Աջակցութիւն յաւելումներին
+help-button = Յաւելումների սպասարկում
+sidebar-help-button-title =
+    .title = Յաւելումների սպասարկում
+preferences =
+    { PLATFORM() ->
+        [windows] { -brand-short-name } Ընտրանքներ
+       *[other] { -brand-short-name } Նախընտրութիւններ
+    }
+tools-menu =
+    .tooltiptext = Գործիքներ բոլոր յաւելումների համար
+sidebar-preferences-button-title =
+    .title =
+        { PLATFORM() ->
+            [windows] Ընտրանքներ
+           *[other] Նախընտրութիւններ
+        }
 
 ## These are global warnings
 

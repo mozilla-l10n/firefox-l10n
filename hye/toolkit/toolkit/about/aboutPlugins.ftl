@@ -23,8 +23,7 @@ version-dd = <span data-l10n-name="version">Տարբերակ․</span> { $versio
 ## Variables:
 ##   $blockListState: show some special state of the plugin, such as blocked, outdated
 
-state-dd-enabled = <span data-l10n-name="version">Տարբերակը.</span> { $version }
-state-dd-enabled-block-list-state = <span data-l10n-name="state">Վիճակը.</span> Միացուած է
+state-dd-enabled = <span data-l10n-name="state">Տարբերակը.</span> { $version }
 state-dd-Disabled = <span data-l10n-name="state">Վիճակը.</span> Անջատած
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Վիճակը.</span> Անջատած ({ $blockListState })
 mime-type-label = MIME տեսակ
