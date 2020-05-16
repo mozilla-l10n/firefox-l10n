@@ -208,6 +208,8 @@ browser-window-minimize-button =
     .tooltiptext = Minikan
 browser-window-maximize-button =
     .tooltiptext = Besarkan
+browser-window-restore-down-button =
+    .tooltiptext = Kembali ke Bawah
 browser-window-close-button =
     .tooltiptext = Tutup
 
@@ -223,6 +225,7 @@ popup-all-windows-shared = Semua jendela yang terlihat pada layar Anda akan diba
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Untuk menggunakan pintasan F12, pertama buka DevTools melalui menu Pengembang Web.
 
 ## URL Bar
 

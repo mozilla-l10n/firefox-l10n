@@ -186,6 +186,9 @@ about-debugging-browser-version-too-old = Peramban yang tersambung memiliki vers
 # backward compatible changes broke the debugger in those scenarios (Bug 1528219).
 # { $runtimeVersion } is the version of the remote browser (for instance "67.0a1")
 about-debugging-browser-version-too-old-67-debugger = Panel Debugger mungkin tidak berfungsi dengan peramban yang tersambung. Gunakan Firefox { $runtimeVersion } jika Anda perlu menggunakan Debugger dengan peramban ini.
+# Dedicated message for a backward compatibility issue that occurs when connecting:
+# from Fx 70+ to the old Firefox for Android (aka Fennec) which uses Fx 68.
+about-debugging-browser-version-too-old-fennec = Versi Firefox ini tidak dapat melakukan debug Firefox untuk Android (68). Kami merekomendasikan untuk memasang ulang Firefox untuk Android Nightly di ponsel anda untuk pengujian. <a>Detil lebih lanjut</a>
 # This string is displayed in the runtime page if the remote browser version is too recent.
 # "Troubleshooting" link points to https://developer.mozilla.org/docs/Tools/about:debugging#Troubleshooting
 # { $runtimeID } is the build ID of the remote browser (for instance "20181231", format is yyyyMMdd)
