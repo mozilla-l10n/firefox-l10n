@@ -13,6 +13,7 @@
 <!ENTITY  manualUpdate.title              "Չի ստացուում թարմացնել">
 <!ENTITY  manualUpdate.desc               "Անվտանգութեան եւ կայունութեան ցանկալի թարմացումները հասանելի են, սակայն ձեր  ոպերացիոն համակարգում տեղադրելու համար դուք չունեք համապատասխան  թոյլտուութիւն: Կապնուէք ձեր համակարգի ադմինիստրատորին կամ փորձէք կրկին մեկ այլ  աւգտագործողի հաշուից, որը համակարգում ունի ծրագրեր տեղադրելու իրաւունք:">
 <!ENTITY  manualUpdate.space.desc         "Անվտանգութեան եւ կայունութեան թարմացումը առկայ է, սակայն դուք չունէք բաւարար ազատ տարածք այն տեղադրելու համար:">
+<!ENTITY  manualUpdateGetMsg.label        "Դուք միշտ կարող էք ներբեռնել &brandShortName;-ի վերջին տարբերակը այստեղից`">
 
 <!ENTITY  unsupported.title               "Համակարգը չի աջակցուում">
 <!ENTITY  unsupportedLink.label           "Իմանալ աւելին:">
@@ -21,6 +22,7 @@
 <!ENTITY  evangelism.desc                 "Խստիւ խորհուրդ է տրուում կիրառել &brandShortName;-ի այս  թարմացումը, որքան հնարաւոր է շուտ:">
 
 <!ENTITY  downloading.intro               "Բեռնաւորում է թարմացումը…">
+<!ENTITY  verificationFailedText.label    "&brandShortName;-ը չկարողացաւ հաւաստել բեռնաւորուած թարմացման մասնակի նիշքի  ամբողջականութիւնը, ուստի հիմա բեռնաւորում է ամբողջական թարմացման փաթեթը:">
 
 
 <!ENTITY  details.link                    "Մանրամասներ">
@@ -29,9 +31,13 @@
 
                                            
                                            
+<!ENTITY  errorpatching.intro             "Անհնար է կիրառել մասնակի թարմացումը: &brandShortName;-ն այժմ կփորձի բեռնաւորել ամբողջական թարմացումը:">
 
                                            
+<!ENTITY  finishedPage.title              "Թարմացումը պատրաստ է տեղադրման">
+<!ENTITY  finishedPage.text               "Թարմացումը կտեղադրուի &brandShortName;-ը յաջորդ անգամ բացելիս: Դուք կարող էք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը եւ վերամեկնարկել աւելի ուշ:">
 
+<!ENTITY  finishedBackgroundPage.text     "&brandShortName;-ի անվտանգութեան եւ կայունութեան թարմացումը  բեռնուած է եւ պատրաստ է տեղադրման:">
 <!ENTITY  finishedBackground.name         "Թարմացնել.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Թարմացումը կտեղադրուի յաջորդ անգամ &brandShortName;-ը բացելիս: Դուք կարող էք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը եւ վերամեկնարկել աւելի ուշ:">
