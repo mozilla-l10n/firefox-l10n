@@ -17,6 +17,12 @@ list-empty-recent-updates =
     .value = Վերջին շրջանում դուք չեք թարմացրել որեւէ յաւելում
 list-empty-find-updates =
     .label = Ստուգուէք թարմացումների առկայութիւնը
+list-empty-button =
+    .label = Իմանալ աւելին յաւելումների մասին
+install-addon-from-file =
+    .label = Տեղադրել յաւելումը նիշքից…
+    .accesskey = I
+help-button = Աջակցութիւն յաւելումներին
 
 ## These are global warnings
 
