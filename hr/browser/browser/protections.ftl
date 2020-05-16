@@ -37,6 +37,9 @@ protection-report-page-title = Zaštite privatnosti
 protection-report-content-title = Zaštite privatnosti
 etp-card-title = Poboljšana zaštita od praćenja
 etp-card-content = Programi za praćenje prate tvoje radnje prilikom pregledavanja interneta i služe za prikupljanje podataka o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe kao i druge zlonamjerne skripte.
+etp-card-title-always = Poboljšana zaštita od praćenja: uvijek uključeno
+etp-card-title-custom-not-blocking = Poboljšana zaštita od praćenja: ISKLJUČENO
+etp-card-content-summary = Kad te nepoznate kompanije pokušaju potajno pratiti na internetu, { -brand-short-name } automatski zaustavlja mnoge od njih.
 protection-report-etp-card-content-custom-not-blocking = Sve zaštite su trenutačno isključene. Upravljaj programima za praćenje koje želiš blokirati u { -brand-short-name } postavkama zaštite.
 protection-report-manage-protections = Upravljaj postavkama
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -121,6 +124,12 @@ monitor-header-content-no-account = Koristi { -monitor-brand-name } i provjeri, 
 monitor-header-content-signed-in = { -monitor-brand-name } te upozorava ukoliko su se tvoji podaci pojavili u curenju podataka.
 monitor-sign-up = Prijavi se za upozorenja o curenju podataka
 auto-scan = Danas automatski pretraženo
+monitor-emails-tooltip =
+    .title = Pogledaj praćene e-adrese na { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Pogledaj poznata curenja podataka na { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Pogledaj izložene lozinke na { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
