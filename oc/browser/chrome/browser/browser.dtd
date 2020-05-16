@@ -70,7 +70,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY taskManagerCmd.label "Gestionari de tascas">
 
-<!ENTITY goOfflineCmd.label "Apercebut abans impression">
+<!ENTITY goOfflineCmd.label "Trabalhar fòra connexion">
 <!ENTITY goOfflineCmd.accesskey "b">
 
 <!ENTITY menubarCmd.label "Barra de menús">
@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Anar a la pagina indicada dins la barra d'adreça">
+
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
 
@@ -632,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Enregistrar dins Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvar la pagina dins Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "l">
 <!ENTITY saveLinkToPocketCmd.label    "Salvar ligam dins Pocket">

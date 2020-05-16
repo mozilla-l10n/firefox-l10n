@@ -4,7 +4,7 @@
 
 printpreview-simplify-page-checkbox =
     .label = Simplificar la pagina
-    .accesskey = i
+    .accesskey = S
     .tooltiptext = Aquesta pagina se pòt pas simplificar automaticament
 printpreview-simplify-page-checkbox-enabled =
     .label = { printpreview-simplify-page-checkbox.label }
@@ -15,13 +15,13 @@ printpreview-close =
     .accesskey = T
 printpreview-portrait =
     .label = Retrach
-    .accesskey = a
+    .accesskey = R
 printpreview-landscape =
     .label = Païsatge
     .accesskey = P
 printpreview-scale =
     .value = Escala :
-    .accesskey = s
+    .accesskey = E
 printpreview-shrink-to-fit =
     .label = Adaptar a la pagina
 printpreview-custom =
@@ -36,10 +36,10 @@ printpreview-custom-prompt =
 printpreview-custom-scale-prompt-title = Escala personalizada
 printpreview-page-setup =
     .label = Mesa en pagina…
-    .accesskey = i
+    .accesskey = M
 printpreview-page =
     .value = Pagina :
-    .accesskey = a
+    .accesskey = P
 
 ## Variables
 ## $percent (integer) - menuitem percent label
