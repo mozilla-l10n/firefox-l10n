@@ -16,7 +16,7 @@ list-empty-available-updates =
 list-empty-recent-updates =
     .value = Վերջին շրջանում դուք չեք թարմացրել որեւէ յաւելում
 list-empty-find-updates =
-    .label = Ստուգուէք թարմացումների առկայութիւնը
+    .label = Ստուգէք թարմացումների առկայութիւնը
 list-empty-button =
     .label = Իմանալ աւելին յաւելումների մասին
 install-addon-from-file =
@@ -85,11 +85,14 @@ detail-version =
 detail-last-updated =
     .label = Վերջին թարմացումը
 detail-contributions-description = Սոյն յաւելման ստեղծողը խնդրում է, որ դուք աջակցէք յաւելման շարունակական զարգացմանը` փոքր ներդրում կատարելով:
+detail-contributions-button = Աջակցել
+    .title = Աջակցել այս  յաւելասարքի մշակմանը
+    .accesskey = C
 detail-update-type =
     .value = Ինքնաշխատ թարմացումներ
 detail-update-default =
     .label = Լռելեայն
-    .tooltiptext = Ինքնաբերաբար տեղադրել թարմացումներ, միայն եթե սկզբնադիրն այդպէս է
+    .tooltiptext = Ինքնաշխատաւրէն տեղադրել թարմացումներ, միայն եթե սկզբնադիրն այդպէս է
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Բացել Գաղտնի Պատուհաններում
 
