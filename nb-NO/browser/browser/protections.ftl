@@ -121,6 +121,12 @@ monitor-header-content-no-account = Sjekk { -monitor-brand-name } for å se om d
 monitor-header-content-signed-in = { -monitor-brand-name } advarer deg om informasjonen din har dukket opp i en kjent datalekkasje.
 monitor-sign-up = Registrer deg for datalekkasjevarsler
 auto-scan = Skannes automatisk i dag
+monitor-emails-tooltip =
+    .title = Vis overvåkede e-postadresser på { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Se kjente datalekkasjer på { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Se eksponerte passord på { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
