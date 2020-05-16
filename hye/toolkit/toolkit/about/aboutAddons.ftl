@@ -114,6 +114,43 @@ detail-private-required-description2 = Սոյն ընդլայնումը հասա�
 detail-private-browsing-on =
     .label = Թոյլատրել
     .tooltiptext = Թոյլատրել Գաղտնի Զննարկման ժամանակ
+detail-private-browsing-off =
+    .label = Չթոյլատրել
+    .tooltiptext = Անջատել Գաղտնի Զննարկման ժամանակ
+detail-home =
+    .label = Տնէջ
+detail-home-value =
+    .value = { detail-home.label }
+detail-repository =
+    .label = Յաւելումների յատկագիր
+detail-repository-value =
+    .value = { detail-repository.label }
+detail-check-for-updates =
+    .label = Ստուգել թարմացումները
+    .accesskey = U
+    .tooltiptext = Ստուգել այս յաւելման թարմացումների առկաիւթիւնը
+detail-show-preferences =
+    .label =
+        { PLATFORM() ->
+            [windows] Ընտրանքներ
+           *[other] Նախընտրանքներ
+        }
+    .accesskey =
+        { PLATFORM() ->
+            [windows] O
+           *[other] P
+        }
+    .tooltiptext =
+        { PLATFORM() ->
+            [windows] Կարգաւորել այս յաւելումը
+           *[other] Փոփոխել այս յաւելման նախընտրանքները
+        }
+detail-rating =
+    .value = Վարկանիշ
+addon-restart-now =
+    .label = Վերագործարկել հիմա
+disabled-unsigned-heading =
+    .value = Որոշ յաւելումներ անջատուել են
 
 ## These are global warnings
 

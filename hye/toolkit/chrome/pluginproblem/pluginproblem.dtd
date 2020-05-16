@@ -21,4 +21,11 @@
 <!ENTITY report.submitting                                   "Զեկոյցն ուղարկուում է…">
 <!ENTITY report.submitted                                    "Վթարի զեկոյցը ուղարկուած է:">
 <!ENTITY report.disabled                                     "Վթարի զեկոյցը անջատուած է:">
+<!ENTITY report.failed                                       "Ուղարկումը ձախողուեց">
+<!ENTITY report.unavailable                                  "Առկայ զեկոյց չկայ:">
+<!ENTITY report.comment                                      "Աւելացնել մեկնաբանութիւն (մեկնաբանութիւնները հանրային են)">
+<!ENTITY report.pageURL                                      "Ներառել էջերի URL-ները">
 
+<!ENTITY plugin.file                                         "Նիշք">
+<!ENTITY plugin.mimeTypes                                    "MIME տեսակներ">
+<!ENTITY plugin.enableBlocklists.label                       "Արգելափակել վտանգաւոր եւ ձանձրացնող Flash բովանդակութիւնը">
