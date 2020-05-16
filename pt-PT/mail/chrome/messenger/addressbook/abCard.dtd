@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Aniversário:">
 <!ENTITY Birthday.accesskey             "A">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Mês">
 <!ENTITY Day.placeholder                "Dia">
 <!ENTITY Year.placeholder               "Ano">
-<!ENTITY Or.value                       "ou">
 <!ENTITY Age.label                      "Idade:">
 <!ENTITY Age.placeholder                "Idade">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Trabalho">
 <!ENTITY Work.accesskey                 "T">
@@ -153,7 +150,7 @@
 <!ENTITY BrowsePhoto.accesskey          "r">
 <!ENTITY PhotoURL.label                 "Na web">
 <!ENTITY PhotoURL.accesskey             "b">
-<!ENTITY PhotoURL.placeholder           "Cole ou escreva o endereço web de uma foto">
+<!ENTITY PhotoURL.placeholder           "Cole ou digite o endereço de Internet de uma fotografia">
 <!ENTITY UpdatePhoto.label              "Atualizar">
 <!ENTITY UpdatePhoto.accesskey          "u">
 <!ENTITY PhotoDropTarget.label          "Arraste a nova foto para aqui">

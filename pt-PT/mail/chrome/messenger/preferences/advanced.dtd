@@ -26,7 +26,7 @@
 <!ENTITY useSmoothScrolling.label      "Utilizar deslocação suave">
 <!ENTITY useSmoothScrolling.accesskey  "u">
 
-<!ENTITY systemIntegration.label       "Integração de sistemas">
+<!ENTITY systemIntegration.label       "Integração no sistema">
 <!ENTITY alwaysCheckDefault.label      "Verificar sempre se o &brandShortName; é o cliente de correio predefinido no arranque">
 <!ENTITY alwaysCheckDefault.accesskey  "A">
 <!ENTITY searchIntegration.label       "Permitir &searchIntegration.engineName; para pesquisa de mensagens">
