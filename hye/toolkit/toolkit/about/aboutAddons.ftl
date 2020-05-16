@@ -101,12 +101,19 @@ detail-update-manual =
     .tooltiptext = Չտեղադրել թարմացումներն ինքնաշխատաւրէն
 # Used as a description for the option to allow or block an add-on in private windows.
 detail-private-browsing-label = Բացել Գաղտնի Պատուհաններում
-detail-private-browsing-description2 = Թոյլտուութեան դէպքում, գաղտնի զննարկելիս, ընդլայնումը հասանելիութիւն կունենայ  ձեր առցանց գործողութիւններին։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
+detail-private-browsing-description2 = Թոյլտուութեան դէպքում, գաղտնի զննարկման ժամանակ, ընդլայնումը հասանելիութիւն կունենայ ձեր առցանց գործողութիւններին։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
 # Some add-ons may elect to not run in private windows by setting incognito: not_allowed in the manifest.  This
 # cannot be overridden by the user.
 detail-private-disallowed-label = Թոյլատրուած չէ Գաղտնի Պատուհաններում
-detail-private-disallowed-description = Այս ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
-detail-private-disallowed-description2 = Այս ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ աւելին</a>
+detail-private-disallowed-description = Սոյն ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։<label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
+detail-private-disallowed-description2 = Սոյն ընդլայնումը չի գործում գաղտնի զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ աւելին</a>
+# Some special add-ons are privileged, run in private windows automatically, and this permission can't be revoked
+detail-private-required-label = Պահանջում է Մուտք Գաղտնի Պատուհաններ
+detail-private-required-description = Սոյն ընդլայնումը հասանելիութիւն ունի ձեր առցանց գործունութեանը գաղտնի զննարկման ժամանակ։ <label data-l10n-name="detail-private-browsing-learn-more">Իմացէք աւելին</label>
+detail-private-required-description2 = Սոյն ընդլայնումը հասանելիութիւն ունի է ձեր առցանց գործունութեանը գաղտնի զննարկման ժամանակ։ <a data-l10n-name="learn-more">Իմանալ աւելին</a>
+detail-private-browsing-on =
+    .label = Թոյլատրել
+    .tooltiptext = Թոյլատրել Գաղտնի Զննարկման ժամանակ
 
 ## These are global warnings
 
