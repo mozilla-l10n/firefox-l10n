@@ -73,6 +73,8 @@ protection-report-view-logins-button = Lihat Info masuk
     .title = Buka Info masuk
 protection-report-save-passwords-button = Simpan Kata Sandi
     .title = Simpan Kata Sandi di { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Kelola Kata Sandi
+    .title = Kelola Kata Sandi di { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Bawa kata sandi Anda ke mana saja
 lockwise-no-logins-card-content = Gunakan kata sandi yang disimpan dalam { -brand-short-name } di semua perangkat.
 lockwise-app-links = { -lockwise-brand-name } untuk <a data-l10n-name="lockwise-android-inline-link">Android</a> dan <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -83,6 +85,21 @@ lockwise-passwords-stored =
     { $count ->
        *[other] Sandi tersimpan dengan aman <a data-l10n-name="lockwise-how-it-works">Cara kerjanya</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+       *[other] { $count } kata sandi mungkin telah terungkap di sebuah pembobolan data.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+       *[other] Kata sandi Anda disimpan dengan aman
+    }
+lockwise-how-it-works-link = Bagaimana ini bekerja
 turn-on-sync = Aktifkan { -sync-brand-short-name }
     .title = Buka pengaturan sinkronisasi
 manage-connected-devices = Kelola perangkat…
@@ -98,6 +115,12 @@ monitor-header-content-no-account = Periksa { -monitor-brand-name } untuk meliha
 monitor-header-content-signed-in = { -monitor-brand-name } memperingatkan Anda jika info tentang Anda muncul dalam pembobolan yang diketahui.
 monitor-sign-up = Daftar untuk Peringatan Pembobolan
 auto-scan = Secara otomatis dipindai hari ini
+monitor-emails-tooltip =
+    .title = Lihat alamat surel terpantau di { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Lihat pelanggaran data yang diketahui di { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Lihat kata sandi yang terungkap di { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
