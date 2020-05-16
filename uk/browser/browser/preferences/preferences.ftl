@@ -597,7 +597,7 @@ containers-back-button =
             [windows] Назад до налаштувань
            *[other] Назад до налаштувань
         }
-containers-header = Вкладки контейнера
+containers-header = Контейнери вкладок
 containers-add-button =
     .label = Додати новий контейнер
     .accesskey = к
