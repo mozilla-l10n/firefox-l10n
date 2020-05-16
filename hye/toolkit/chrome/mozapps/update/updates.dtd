@@ -16,23 +16,30 @@
 <!ENTITY  manualUpdateGetMsg.label        "Դուք միշտ կարող էք ներբեռնել &brandShortName;-ի վերջին տարբերակը այստեղից`">
 
 <!ENTITY  unsupported.title               "Համակարգը չի աջակցուում">
+<!ENTITY  unsupported.label               "Ձեր &brandShortName;-ը հնացել է, բայց վերջին տարբերակը չիաջակցուում ձեր համակարգի կողմից:Խնդրում ենք թարմացրէք համակարգը, ապա փորձէք կրկին:Դուք կրկին չեք տեսնի այս հուշումը, բայց կարող էք">
 <!ENTITY  unsupportedLink.label           "Իմանալ աւելին:">
 
+<!ENTITY  clickHere.label                 "Դիտէք այս թարմացման մասին աւելի շատ տեղեկատուութիւն։">
 
 <!ENTITY  evangelism.desc                 "Խստիւ խորհուրդ է տրուում կիրառել &brandShortName;-ի այս  թարմացումը, որքան հնարաւոր է շուտ:">
 
+<!ENTITY  downloadPage.title              "&brandShortName;-ի ներբեռնում">
 <!ENTITY  downloading.intro               "Բեռնաւորում է թարմացումը…">
+<!ENTITY  connecting.label                "Կապակցում թարմացման սպասարկչին…">
 <!ENTITY  verificationFailedText.label    "&brandShortName;-ը չկարողացաւ հաւաստել բեռնաւորուած թարմացման մասնակի նիշքի  ամբողջականութիւնը, ուստի հիմա բեռնաւորում է ամբողջական թարմացման փաթեթը:">
 
+<!ENTITY  viewDetails.tooltip             "Դիտել մանրամասն տեղեկութիւններ այս թարմացման մասին։">
 
 <!ENTITY  details.link                    "Մանրամասներ">
 
 <!ENTITY  error.title                     "Թարմացումը Խափանուեց">
 
                                            
+<!ENTITY  errorManual.label               "Կարող էք ինքներդ թարմացնել &brandShortName;-ը, եթե սեղմէք այս հղումը եւ ներբեռնէք առկայ ամենավերջին տարբերակը:">
                                            
 <!ENTITY  errorpatching.intro             "Անհնար է կիրառել մասնակի թարմացումը: &brandShortName;-ն այժմ կփորձի բեռնաւորել ամբողջական թարմացումը:">
 
+<!ENTITY  genericBackgroundError.label    "&brandShortName; չի կարողանում ստուգել արդյոք կա թարմացում: Խնդրեմ ստուգէք եւ համոզուէք որ դուք աւգտագործում էք &brandShortName;-ի վերջին տարբերակը:">
                                            
 <!ENTITY  finishedPage.title              "Թարմացումը պատրաստ է տեղադրման">
 <!ENTITY  finishedPage.text               "Թարմացումը կտեղադրուի &brandShortName;-ը յաջորդ անգամ բացելիս: Դուք կարող էք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը եւ վերամեկնարկել աւելի ուշ:">
