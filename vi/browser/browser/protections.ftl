@@ -115,6 +115,12 @@ monitor-header-content-no-account = Kiểm tra tại { -monitor-brand-name } đ�
 monitor-header-content-signed-in = { -monitor-brand-name } cảnh báo bạn nếu thông tin của bạn xuất hiện trong một vụ rò rỉ dữ liệu đã biết.
 monitor-sign-up = Đăng ký cảnh báo vụ rò rỉ
 auto-scan = Tự động quét ngày hôm nay
+monitor-emails-tooltip =
+    .title = Xem địa chỉ email được giám sát trên { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Xem các rò rỉ dữ liệu đã biết trên { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Xem mật khẩu bị lộ trên { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
