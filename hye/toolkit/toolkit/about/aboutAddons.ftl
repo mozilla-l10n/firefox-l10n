@@ -87,6 +87,9 @@ detail-last-updated =
 detail-contributions-description = Սոյն յաւելման ստեղծողը խնդրում է, որ դուք աջակցէք յաւելման շարունակական զարգացմանը` փոքր ներդրում կատարելով:
 detail-update-type =
     .value = Ինքնաշխատ թարմացումներ
+detail-update-default =
+    .label = Լռելեայն
+    .tooltiptext = Ինքնաբերաբար տեղադրել թարմացումներ, միայն եթե սկզբնադիրն այդպէս է
 
 ## These are global warnings
 
