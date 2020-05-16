@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prijať správy">
 <!ENTITY folderContextGetMessages.accesskey "a">
+<!ENTITY folderContextMarkAllFoldersRead.label "Označiť všetky priečinky ako prečítané">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "p">
 <!ENTITY folderContextOpenNewWindow.label "Otvoriť">
 <!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Otvoriť na novej karte">
