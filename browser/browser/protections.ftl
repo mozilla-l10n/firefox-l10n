@@ -51,7 +51,7 @@ social-tab-contant = 社交网站会在众多网站上安插跟踪器。除了�
 cookie-tab-title = 跨网站跟踪性 Cookie
 cookie-tab-content = 这些 Cookie 由第三方广告商或分析公司设置，能够在不同网站间跟踪您，以收集您的在线活动数据。<a data-l10n-name="learn-more-link">详细了解</a>
 tracker-tab-title = 跟踪性内容
-tracker-tab-description = 网站可能会载入包含跟踪代码的外部广告、视频等内容。拦截跟踪性内容可以让网站加载更快，但某些按钮、表单、登录框可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
+tracker-tab-description = 网站可能会载入包含跟踪代码的外部广告、视频等内容。拦截跟踪性内容可以让网站加载更快，但某些按钮、表单、登录栏可能无法正常工作。<a data-l10n-name="learn-more-link">详细了解</a>
 fingerprinter-tab-title = 数字指纹跟踪程序
 fingerprinter-tab-content = 数字指纹跟踪程序会针对您的浏览器、计算机设置，给您生成独一无二的编号，以便在不同网站间追踪您，勾勒出您的精准画像。<a data-l10n-name="learn-more-link">详细了解</a>
 cryptominer-tab-title = 加密货币挖矿程序
