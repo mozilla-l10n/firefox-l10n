@@ -333,6 +333,10 @@ shortcuts-card-expand-button =
        *[other] Ցոյց տալ { $numberToShow } Աւելին
     }
 shortcuts-card-collapse-button = Ցուցադրել աւելի քիչ
+go-back-button =
+    .tooltiptext = Վերադառնալ
+header-back-button =
+    .title = Վերադառնալ
 
 ## Recommended add-ons page
 
