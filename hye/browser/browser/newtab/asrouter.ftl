@@ -120,6 +120,7 @@ cfr-whatsnew-lockwise-take-link-text = Ստանալ հաւելուածը
 
 cfr-whatsnew-searchbar-title = Մուտքագրէք աւելի քիչ, աւելին կգտնէք հասցէի տողի հետ
 cfr-whatsnew-searchbar-body-topsites = Այժմ ընտրէք հասցէագաւտին, եւ սալիկը կընդլայնուի դէպի Ձեր գլխաւոր կայքեր յղումներով:
+cfr-whatsnew-searchbar-icon-alt-text = Խոշորացնել ակնոցի մանրապատկերը
 
 ## Picture-in-Picture
 
@@ -215,3 +216,4 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ֊ի պատկե�
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-icon-alt = Նկար-նկարում պատկերակ

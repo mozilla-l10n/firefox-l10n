@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Այս գործողութիւնը չի կար
 newtab-menu-section-tooltip =
     .title = Բացել ցանկը
     .aria-label = Բացել ցանկը
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Հեռացնել
+    .aria-label = Հեռացնել
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
