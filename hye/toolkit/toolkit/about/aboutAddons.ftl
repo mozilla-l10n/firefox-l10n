@@ -309,6 +309,13 @@ shortcuts-no-commands = Հետեւեալ ընդլայնումները դիւրա
 shortcuts-input =
     .placeholder = Մուտքագրել դիւրացնում
 shortcuts-browserAction = Միացնել ընդլայնումը
+shortcuts-browserAction2 = Միացնել գործիքագաւտու կոճակը
+shortcuts-pageAction = Գործունացնել էջի գործողութիւնը
+shortcuts-sidebarAction = Փոխարկել կողմնագաւտին
+shortcuts-modifier-mac = Ներառել Ctrl, Alt, կամ ⌘
+shortcuts-modifier-other = Ներառել Ctrl կամ Alt
+shortcuts-invalid = Անվաւեր համադրութիւն
+shortcuts-letter = Մուտքագրել որեւէ տառ
 
 ## Recommended add-ons page
 
