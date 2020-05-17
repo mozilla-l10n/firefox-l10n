@@ -319,6 +319,20 @@ shortcuts-letter = Մուտքագրել որեւէ տառ
 shortcuts-system = Հնարաւոր չէ վերագրել { -brand-short-name } դիւրանցումը
 # String displayed in warning label when there is a duplicate shortcut
 shortcuts-duplicate = Կրկնաւրինակել դիւրանցումը
+# String displayed when a keyboard shortcut is already assigned to more than one add-on
+# Variables:
+#   $shortcut (string) - Shortcut string for the add-on
+shortcuts-duplicate-warning-message = { $shortcut }-ն աւգտագործուում է որպէս դիւրանցում աւելի քան մեկ անգամ։ Կրկնաւրինակուած դիւրանցումները կարող են անսպասելի հետեւանքի յանգեցնել
+# String displayed when a keyboard shortcut is already used by another add-on
+# Variables:
+#   $addon (string) - Name of the add-on
+shortcuts-exists = Արդէն աւգտագործուում է { $addon }-ի կողմից
+shortcuts-card-expand-button =
+    { $numberToShow ->
+        [one] Ցոյց տալ { $numberToShow } Աւելին
+       *[other] Ցոյց տալ { $numberToShow } Աւելին
+    }
+shortcuts-card-collapse-button = Ցուցադրել աւելի քիչ
 
 ## Recommended add-ons page
 
