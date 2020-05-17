@@ -811,6 +811,8 @@ forms-master-pw-fips-desc = Slaptažodžio pakeisti nepavyko
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Norėdami sukurti pagrindinį slaptažodį, patvirtinkite savo tapatybę.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Norėdami sukurti pagrindinį slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.

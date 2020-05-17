@@ -48,7 +48,6 @@ login-list-count =
 login-list-sort-label-text = Rikiuoti pagal:
 login-list-name-option = Pavadinimas (A-Z)
 login-list-name-reverse-option = Pavadinimas (Z-A)
-login-list-breached-option = Pažeistos svetainės
 about-logins-login-list-alerts-option = Įspėjimai
 login-list-last-changed-option = Atnaujinimo laikas
 login-list-last-used-option = Paskiausias naudojimo laikas
@@ -109,17 +108,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Norėdami redaguoti įrašytą prisijungimą, patvirtinkite savo tapatybę.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Norėdami keisti savo prisijungimą, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redaguoti įrašytą prisijungimą
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Norėdami pamatyti įrašytą slaptažodį, patvirtinkite savo tapatybę.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Norėdami peržiūrėti savo slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = parodyti įrašytą slaptažodį
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Norėdami nukopijuoti įrašytą slaptažodį, patvirtinkite savo tapatybę.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Norėdami nukopijuoti savo slaptažodį, įveskite savo „Windows“ prisijungimo duomenis. Tai padeda apsaugoti jūsų paskyras.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = nukopijuoti įrašytą slaptažodį
 
@@ -164,9 +169,6 @@ confirm-discard-changes-dialog-confirm-button = Atsisakyti
 
 about-logins-breach-alert-title = Svetainės pažeidimas
 breach-alert-text = Po jūsų paskutinio prisijungimo duomenų atnaujinimo, iš šios svetainės nutekėjo arba buvo pavogti slaptažodžiai. Pasikeiskite slaptažodį, kad apsaugotumėte savo paskyrą.
-breach-alert-link = Sužinokite apie šį pažeidimą daugiau.
-breach-alert-dismiss =
-    .title = Užverti šį perspėjimą
 about-logins-breach-alert-date = Šis pažeidimas įvyko { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
