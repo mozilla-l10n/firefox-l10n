@@ -10,6 +10,9 @@
 
 # Page title (ie tab title) for the Setup page
 about-debugging-page-title-setup-page = Վրիպազերծում - կարգաբերում
+# Page title (ie tab title) for the Runtime page
+# { $selectedRuntimeId } is the id of the current runtime, such as "this-firefox", "localhost:6080", ...
+about-debugging-page-title-runtime-page = Վրիպազերծում - աշխատաժամանակ / { $selectedRuntimeId }
 
 # Sidebar strings
 
@@ -77,6 +80,12 @@ about-debugging-refresh-usb-devices-button = Թարմացնել սարքերը
 
 # Title of the Setup page.
 about-debugging-setup-title = Կարգաբերում
+# Introduction text in the Setup page to explain how to configure remote debugging.
+about-debugging-setup-intro = Կարգաւորէք կապի եղանակը, որի միջոցով ցանկանում էք հեռակայ վրիպազերծել ձեր սարքը։
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox = Աւգտագործել <a>{ about-debugging-this-firefox-runtime-name }</a>-ը ներդիրները, ընդլայնումները եւ սպասարկիչները { -brand-shorter-name }-ի այս տարբերակում վրիպազերծելու համար
+# Explanatory text in the Setup page about what the 'This Firefox' page is for
+about-debugging-setup-this-firefox2 = Աւգտագործել <a>{ about-debugging-this-firefox-runtime-name } </a> ընդլայնումները եւ սպասարկիչները { -brand-shorter-name }-ի այս տարբերակում վրիպազերծելու համար։
 # Title of the heading Connect section of the Setup page.
 about-debugging-setup-connect-heading = Միացնել սարք
 # USB section of the Setup page
