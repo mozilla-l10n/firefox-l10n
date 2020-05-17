@@ -33,6 +33,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "يُبرز دوال جافاسكرِبت التي قضى المتصفّح أغلب وقته في إجرائها أثناء التسجيل.">
 <!ENTITY performanceUI.toolbar.memory-calltree "المخصصات">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "يظهر أين خُصصت الذاكرة خلال التسجيل.">
 

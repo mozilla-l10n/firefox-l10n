@@ -807,6 +807,14 @@ forms-master-pw-fips-desc = فشل تغيير كلمة السر
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = أكِّد هويتك لإنشاء كلمة سر رئيسية.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = أدخِل معلومات ولوج وِندوز لتصنع كلمة سر رئيسية. يساعد هذا الأمر على حماية أمن حساباتك.
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Firefox is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = إنشاء كلمة سر رئيسية
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 
