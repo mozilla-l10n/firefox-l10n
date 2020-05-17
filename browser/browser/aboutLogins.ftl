@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Avrir il menu
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importar pleds-clav…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importar dad in auter navigatur…
 menu-menuitem-preferences =
@@ -49,7 +47,7 @@ login-list-count =
 login-list-sort-label-text = Zavrar tenor:
 login-list-name-option = Num (A-Z)
 login-list-name-reverse-option = Num (Z-A)
-login-list-breached-option = Websites cun sperdita da datas
+about-logins-login-list-alerts-option = Avertiments
 login-list-last-changed-option = Ultima midada
 login-list-last-used-option = Ultima utilisaziun
 login-list-intro-title = Chattà naginas infurmaziuns d'annunzia
@@ -61,6 +59,8 @@ login-list-item-subtitle-new-login = Endatescha tias infurmaziuns d'annunzia
 login-list-item-subtitle-missing-username = (nagin num d'utilisader)
 about-logins-list-item-breach-icon =
     .title = Website che ha pers datas
+about-logins-list-item-vulnerable-password-icon =
+    .title = Pled-clav periclità
 
 ## Introduction screen
 
@@ -107,17 +107,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifitgescha tia identitad per modifitgar las infurmaziuns d'annunzia memorisadas.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifitgar l'infurmaziun d'annunzia memorisada
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifitgescha tia identitad per laschar mussar il pled-clav memorisà.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mussar il pled-clav memorisà
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifitgescha tia identitad per copiar il pled-clav memorisà.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar il pled-clav memorisà
 
@@ -160,10 +160,17 @@ confirm-discard-changes-dialog-confirm-button = Ignorar
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Website ha pers datas
 breach-alert-text = Ils pleds-clav da questa website èn stads visibels publicamain u èn vegnids engulads dapi l'ultima actualisaziun da las infurmaziuns d'annunzia. Mida tes pled-clav per proteger tes conto.
-breach-alert-link = Ve a savair dapli davart questa sperdita da datas.
-breach-alert-dismiss =
-    .title = Serrar quest avertiment
+about-logins-breach-alert-date = Questa perdita da datas è capitada ils { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Acceder a { $hostname }
+about-logins-breach-alert-learn-more-link = Ulteriuras infurmaziuns
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Pled-clav periclità
 
 ## Error Messages
 
