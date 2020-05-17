@@ -35,6 +35,8 @@ protection-report-page-title = Personvernsikring
 protection-report-content-title = Personvernsikring
 etp-card-title = Utvida sporingsvern
 etp-card-content = Sporfølgjarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporfølgjarane og andre vondsinna skript.
+etp-card-title-always = Utvida sporingsvern: Alltid på
+etp-card-title-custom-not-blocking = Utvida sporingsvern: AV
 protection-report-etp-card-content-custom-not-blocking = Alt vern er for tida slått av. Vel kva for sporfølgjarar du vil blokkere ved å handtere innstillingar for vern i { -brand-short-name }.
 protection-report-manage-protections = Handter innstillingar
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -115,6 +117,12 @@ monitor-header-content-no-account = SJekk { -monitor-brand-name } for å sjå om
 monitor-header-content-signed-in = { -monitor-brand-name } åtvarar deg om informasjonen din har dukka opp i ein kjend datalekkasje.
 monitor-sign-up = Registrer deg for datalekkasjevarsel
 auto-scan = Automatisk skanna i dag
+monitor-emails-tooltip =
+    .title = Vis overvaka e-postadresser på { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Vis kjende datalekkasjar på { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Vis eksponerte passord på { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
