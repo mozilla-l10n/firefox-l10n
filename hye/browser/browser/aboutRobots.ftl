@@ -20,6 +20,8 @@ error-long-desc1 = Ռոբոտը չի կարող վնասել մարդուն կա
 error-long-desc2 = Ռոբոտները տեսել են բաներ, որոնց Դուք՝ մարդիկ, երբեք չեք հաւատա։
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
 error-long-desc3 = Ռոբոտները Ձեր պլաստիկ ընկերներն են, որոնց հետ դուք չեք ձանձրանա։
+# TV: Futurama. Bender's first line is "Bite my shiny metal ass."
+error-long-desc4 = Ռոբոտներն ունեն փայլուն մետաղական պաստառներ, որոնք չը պէտք է վնասուեն:
 # TV: Battlestar Galactica (2004 series). From the opening text.
 error-trailer-desc-text = Եւ նրանք ունեն ծրագիր։
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
