@@ -346,9 +346,49 @@ discopane-intro =
     Ընդլայնումները եւ հիմնապատկերները նման են ձեր զննարկչի յաւելուածներին եւ թոյլատրում են պաշտպանել գաղտնաբառերը, ներբեռնել տեսանիւթեր, գտնել զեղչեր, արգելափակել նեարդայնացնող գովազդները, փոխել զննարկչի տեսքը եւ աւելին։ Այս փոքր ծրագրերը յաճախ մշակուում են երրորդ անձի կողմից։ Ահաւասիկ ընդլայնումների եւ հիմնապատկերների ընտրութիւն { -brand-product-name }
     <a data-l10n-name="learn-more-trigger">որոնք առաջարկուում են </a> իրենց բացառիկ
     անվտանգութեան, արդիւնաւէտութեան եւ գործունակութեան համար։
+# Notice to make user aware that the recommendations are personalized.
+discopane-notice-recommendations = Այս առաջարկների որոշ մասն անհատականացուած է։ Դրանք հիմնուած են Ձեր կողմից տեղադրուած այլ ընդլայնումների, յատկագրի նախընտրութիւնների եւ աւգտագործման վիճակագրութիւնների վրայ:
+discopane-notice-learn-more = Իմանալ աւելին
+privacy-policy = Գաղտնիութեան քաղաքականութիւն
+# Refers to the author of an add-on, shown below the name of the add-on.
+# Variables:
+#   $author (string) - The name of the add-on developer.
+created-by-author = <a data-l10n-name="author">{ $author }</a>-ի կողմից
+# Shows the number of daily users of the add-on.
+# Variables:
+#   $dailyUsers (number) - The number of daily users.
+user-count = Աւգտատերեր { $dailyUsers }
+install-extension-button = Աւելացնել { -brand-product-name }-ին
+install-theme-button = Տեղադրել հիմնապատկեր
+# The label of the button that appears after installing an add-on. Upon click,
+# the detailed add-on view is opened, from where the add-on can be managed.
+manage-addon-button = Կառավարել
+find-more-addons = Գտնել աւելի շատ յաւելումներ
+# This is a label for the button to open the "more options" menu, it is only
+# used for screen readers.
+addon-options-button =
+    .aria-label = Լրացուցիչ ընտրանքներ
 
 ## Add-on actions
 
+report-addon-button = Զեկուցել
+remove-addon-button = Հեռացնել
+# The link will always be shown after the other text.
+remove-addon-disabled-button = Հնարաւոր չէ հեռացնել <a data-l10n-name="link">Ինչո՞ւ։</a>
+disable-addon-button = Անջատել
+enable-addon-button = Միացնել
+expand-addon-button = Լրացուցիչ ընտրանքներ
+# This is used for the toggle on the extension card, it's a checkbox and this
+# is always its label.
+extension-enable-addon-button-label =
+    .aria-label = Միացնել
+preferences-addon-button =
+    { PLATFORM() ->
+        [windows] Ընտրանքներ
+       *[other] Նախընտրութիւններ
+    }
+details-addon-button = Մանրամասներ
+release-notes-addon-button = Թողարկման նշումներ
 
 ## Pending uninstall message bar
 
