@@ -48,7 +48,7 @@ policy-DisableSystemAddonUpdate = Ngăn trình duyệt cài đặt và cập nh�
 policy-DisableTelemetry = Tắt Telemetry.
 policy-DisplayBookmarksToolbar = Hiển thị thanh công cụ dấu trang theo mặc định.
 policy-DisplayMenuBar = Hiển thị thanh bảng chọn theo mặc định.
-policy-DNSOverHTTPS = Cấu hình DNS-over-HTTPS.
+policy-DNSOverHTTPS = Cấu hình DNS over HTTPS.
 policy-DontCheckDefaultBrowser = Tắt kiểm tra trình duyệt mặc định khi khởi động.
 policy-DownloadDirectory = Đặt và khóa thư mục tải xuống.
 # “lock” means that the user won’t be able to change this setting
