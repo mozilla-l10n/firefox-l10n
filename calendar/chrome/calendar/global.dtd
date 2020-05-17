@@ -46,6 +46,8 @@
 
 <!ENTITY onemonthbackward.tooltip "Mes anterior" >
 <!ENTITY onemonthforward.tooltip "Mes següent" >
+<!ENTITY oneyearbackward.tooltip "Any anterior" >
+<!ENTITY oneyearforward.tooltip "Any següent" >
 <!ENTITY showToday.tooltip "Vés a avui">
 <!ENTITY onedayforward.tooltip "Dia següent">
 <!ENTITY onedaybackward.tooltip "Dia anterior">

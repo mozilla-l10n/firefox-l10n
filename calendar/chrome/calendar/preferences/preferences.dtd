@@ -6,3 +6,6 @@
 <!ENTITY  paneAlarms.title        "Recordatoris">
 <!ENTITY  paneCategories.title    "Categories">
 <!ENTITY  paneViews.title         "Vistes">
+<!ENTITY  panelHeader.title       "Calendari">
+<!ENTITY  panelReminder.title     "Recordatoris">
+<!ENTITY  panelCategory.title     "Categories">

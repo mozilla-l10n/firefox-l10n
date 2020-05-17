@@ -23,6 +23,8 @@
 <!ENTITY lightning.menupopup.open.accesskey           "O">
 <!ENTITY lightning.menupopup.open.message.label       "Missatge desat…">
 <!ENTITY lightning.menupopup.open.message.accesskey   "M">
+
+<!-- Open menu popup in File menu -->
 <!ENTITY lightning.menupopup.open.calendar.label      "Fitxer de calendari…">
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "c">
 
@@ -67,6 +69,9 @@
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Suprimeix del calendari">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detalls…">
 <!ENTITY lightning.imipbar.btnDetails.tooltiptext                           "Mostra els detalls de la cita">
+<!ENTITY lightning.imipbar.btnDoNotShowImipBar.label                        "No mostris aquests missatges">
+<!ENTITY lightning.imipbar.btnGoToCalendar.label                            "Calendari">
+<!ENTITY lightning.imipbar.btnGoToCalendar.tooltiptext                      "Vés a la pestanya del calendari">
 <!ENTITY lightning.imipbar.btnMore.label                                    "Més">
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Feu clic aquí per veure més opcions">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Reconfirma">

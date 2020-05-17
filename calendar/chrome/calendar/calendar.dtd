@@ -10,6 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Crea una tasca nova" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tasques" >
+
 <!ENTITY calendar.unifinder.showcompletedtodos.label "Mostra les tasques acabades">
 
 <!ENTITY calendar.today.button.label          "Avui">
@@ -364,6 +365,7 @@
 <!ENTITY calendarproperties.firealarms.label               "Mostra els recordatoris">
 <!ENTITY calendarproperties.cache3.label                   "Funcionament fora de línia">
 <!ENTITY calendarproperties.enabled.label                  "Mostra aquest calendari">
+<!ENTITY calendarproperties.enabled2.label                 "Activa aquest calendari">
 <!ENTITY calendarproperties.forceDisabled.label            "No s'ha pogut trobar el proveïdor d'aquest calendari. Això sol passar quan s'han inhabilitat o s'han desinstal·lat complements.">
 <!ENTITY calendarproperties.unsubscribe.label              "Cancel·la la subscripció">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "C">
