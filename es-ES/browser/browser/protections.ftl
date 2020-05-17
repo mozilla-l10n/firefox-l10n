@@ -123,6 +123,10 @@ monitor-sign-up = Suscribirse a las alertas de filtraciones
 auto-scan = Se escaneó automáticamente hoy
 monitor-emails-tooltip =
     .title = Ver las direcciones de correo electrónico supervisadas en { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Ver filtraciones de datos conocidas en { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Ver contraseñas expuestas en { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
