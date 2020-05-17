@@ -20,6 +20,7 @@
         [elative] Firefoxista
         [genitive] Firefoxin
         [illative] Firefoxiin
+        [inessive] Firefoxissa
     }
     .case-status = with-cases
 -brand-short-name =
@@ -29,6 +30,7 @@
         [elative] Firefoxista
         [genitive] Firefoxin
         [illative] Firefoxiin
+        [inessive] Firefoxissa
     }
     .case-status = with-cases
 -brand-full-name =
@@ -38,6 +40,7 @@
         [elative] Mozilla Firefoxista
         [genitive] Mozilla Firefoxin
         [illative] Mozilla Firefoxiin
+        [inessive] Mozilla Firefoxissa
     }
     .case-status = with-cases
 # This brand name can be used in messages where the product name needs to
@@ -49,6 +52,7 @@
         [elative] Firefoxista
         [genitive] Firefoxin
         [illative] Firefoxiin
+        [inessive] Firefoxissa
     }
     .case-status = with-cases
 -vendor-short-name =

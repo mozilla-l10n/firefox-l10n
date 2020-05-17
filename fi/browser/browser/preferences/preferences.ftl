@@ -280,6 +280,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Käytä ohjelmaa { $app-name } (oletus)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Käytä macOS:n oletussovellusta
+            [windows] Käytä Windowsin oletussovellusta
+           *[other] Käytä järjestelmän oletussovellusta
+        }
 applications-use-other =
     .label = Valitse uusi apuohjelma…
 applications-select-helper = Valitse uusi apuohjelma
@@ -305,6 +312,8 @@ applications-use-plugin-in =
     .label = Käytä liitännäistä { $plugin-name } (ohjelmassa { -brand-short-name })
 applications-preview-inapp =
     .label = Esikatsele { -brand-short-name }issa
+applications-open-inapp =
+    .label = Avaa { -brand-short-name(case: "inessive") }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -318,12 +327,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 

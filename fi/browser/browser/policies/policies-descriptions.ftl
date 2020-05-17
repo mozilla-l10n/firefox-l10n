@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Poista käytöstä oletusselaimen tarkistus kä
 policy-DownloadDirectory = Aseta ja lukitse latauskansio.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Ota käyttöön tai poista käytöstä sisällön esto, ja valinnaisesti lukitse asetus.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Ota käyttöön tai poista käytöstä suojatun median laajennukset (Encrypted Media Extensions), ja valinnaisesti lukitse asetus.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -83,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Aseta oletusarvo sille, saako { -brand-short-n
 policy-OverrideFirstRunPage = Korvaa ensimmäisen käynnistyskerran sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa ensimmäisen käyttökerran sivun käytöstä.
 policy-OverridePostUpdatePage = Korvaa päivityksen jälkeinen ”Mitä uutta” -sivu. Aseta tämä käytäntö tyhjäksi, jos haluat poistaa päivityksen jälkeisen sivun käytöstä.
 policy-PasswordManagerEnabled = Ota käyttöön salasanojen tallennus salasanojen hallintaan.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Poista käytöstä tai määritä PDF.js, { -brand-short-name }in sisäänrakennettu PDF-katselin.
 policy-Permissions2 = Aseta kameran, mikrofonin, sijainnin, ilmoitusten ja automaattisen toiston käyttöoikeuksien asetukset.
 policy-PopupBlocking = Salli tiettyjen sivustojen näyttää ponnahdusikkunoita oletusarvoisesti.
 policy-Preferences = Aseta ja lukitse arvo asetusten osajoukolle.
