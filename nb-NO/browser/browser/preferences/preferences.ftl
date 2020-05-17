@@ -807,7 +807,7 @@ forms-master-pw-fips-desc = Passordendring mislyktes
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Bekreft identiteten din for å opprette et hovedpassord.
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Oppgi innloggingsinformasjonen for Windows for å opprette et hovedpassord. Dette beskytter sikkerheten til kontoene dine.
+master-password-os-auth-dialog-message-win = Skriv inn innloggingsinformasjonen for Windows for å opprette et hovedpassord. Dette vil gjøre kontoene dine tryggere.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
