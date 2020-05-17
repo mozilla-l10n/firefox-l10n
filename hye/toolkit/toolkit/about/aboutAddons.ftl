@@ -316,6 +316,9 @@ shortcuts-modifier-mac = Ներառել Ctrl, Alt, կամ ⌘
 shortcuts-modifier-other = Ներառել Ctrl կամ Alt
 shortcuts-invalid = Անվաւեր համադրութիւն
 shortcuts-letter = Մուտքագրել որեւէ տառ
+shortcuts-system = Հնարաւոր չէ վերագրել { -brand-short-name } դիւրանցումը
+# String displayed in warning label when there is a duplicate shortcut
+shortcuts-duplicate = Կրկնաւրինակել դիւրանցումը
 
 ## Recommended add-ons page
 
