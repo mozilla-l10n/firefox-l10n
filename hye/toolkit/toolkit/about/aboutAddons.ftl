@@ -389,6 +389,25 @@ preferences-addon-button =
     }
 details-addon-button = Մանրամասներ
 release-notes-addon-button = Թողարկման նշումներ
+permissions-addon-button = Թոյլտուութիւններ
+addons-enabled-heading = Միացուած
+addons-disabled-heading = Անջատուած
+extension-enabled-heading = Միացուած
+extension-disabled-heading = Անջատուած
+theme-enabled-heading = Միացուած
+theme-disabled-heading = Անջատուած
+plugin-enabled-heading = Միացուած
+plugin-disabled-heading = Անջատուած
+dictionary-enabled-heading = Միացուած
+dictionary-disabled-heading = Անջատուած
+locale-enabled-heading = Միացուած
+locale-disabled-heading = Անջատուած
+ask-to-activate-button = Գործարկման հարցում
+always-activate-button = Միշտ գործարկել
+never-activate-button = Երբեք չգործարկել
+addon-detail-author-label = Հեղինակ
+addon-detail-version-label = Տարբերակ
+addon-detail-last-updated-label = Վերջին թարմացումը
 
 ## Pending uninstall message bar
 
