@@ -23,6 +23,8 @@
 <!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "Servidor intermediari de SSL:">
 <!ENTITY  ssl.accesskey                 "S">
+<!ENTITY  https.label                   "Servidor intermediari d'HTTPS:">
+<!ENTITY  https.accesskey               "S">
 <!ENTITY  socks.label                   "Ordinador central SOCKS:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
@@ -40,6 +42,12 @@
 <!ENTITY  noproxyExplain.label          "Exemple: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Utilitza aquest servidor intermediari per a tots els protocols">
 <!ENTITY  shareproxy.accesskey          "l">
+<!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
+  localhost, 127.0.0.1 and ::1.
+-->
+<!ENTITY  noproxyLocalhostDesc.label    "No s'utilitza mail cap servidor intermediari per a les connexions a localhost, 127.0.0.1 i ::1.">
+<!ENTITY  proxyHttpSharing.label        "Utilitza també aquest servidor intermediari per a HTTPS">
+<!ENTITY  proxyHttpSharing.accesskey    "v">
 <!ENTITY  autologinproxy.label          "No sol·licitis autenticació si la contrasenya està desada">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Aquesta opció us autentica automàticament en els servidors intermediaris dels quals heu desat les credencials. Si l'autenticació falla, se us sol·licitaran les credencials.">
@@ -47,12 +55,4 @@
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  dnsOverHttps.label            "Habilita DNS sobre HTTPS">
 <!ENTITY  dnsOverHttps.accesskey        "H">
-<!ENTITY  dnsOverHttpsUrl.label         "URL">
-<!ENTITY  dnsOverHttpsUrl.accesskey     "R">
-<!ENTITY  dnsOverHttpsUrl.tooltip       "URL per resoldre DNS sobre HTTPS">
-<!ENTITY  dnsOverHttpsUrlDefault.label     "Utilitza el valor per defecte">
-<!ENTITY  dnsOverHttpsUrlDefault.accesskey "l">
 <!ENTITY  dnsOverHttpsUrlDefault.tooltip   "Utilitza l'URL per defecte per resoldre DNS sobre HTTPS">
-<!ENTITY  dnsOverHttpsUrlCustom.label      "Personalitzat">
-<!ENTITY  dnsOverHttpsUrlCustom.accesskey  "t">
-<!ENTITY  dnsOverHttpsUrlCustom.tooltip    "Introduïu el vostre URL preferit per resoldre DNS sobre HTTPS">
