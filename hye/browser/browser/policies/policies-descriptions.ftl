@@ -11,6 +11,7 @@
 ## in the documentation section in about:policies.
 
 policy-3rdparty = Սահմանեք քաղաքականութիւններ, որ WebExtensions կարողանան մուտք գործել chrome.storage.managed-ի միջոցով։
+policy-AppAutoUpdate = Միացնել կամ անջատել ինքնաշխատ յաւելուածի թարմացումը:
 policy-AppUpdateURL = Սահմանել հաւելուածի թարմացման յատուկ URL։
 policy-Authentication = Կազմաձեւել ամբողջացուած վաւերացումը իրէն աջակցող կայքերի համար։
 policy-BlockAboutAddons = Արգելափակել մատչումը հաւելումների կառաւարին (about:addons)։
@@ -21,6 +22,7 @@ policy-Bookmarks = Ստեղծել էջանիշեր Էջանիշերի գոտիո
 policy-CaptivePortal = Միացնել կամ անջատել գրաւող կայքէջի աջակցումը։
 policy-CertificatesDescription = Աւելացրեք վկայագրեր կամ աւգտագործեք ներկառուցուածները։
 policy-Cookies = Թոյլատրել կամ մերժել կայքերը՝ սահմանելով նշոցիկները։
+policy-DisabledCiphers = Անջատել գաղտնագրերը:
 policy-DefaultDownloadDirectory = Սահմանել բեռնման լռելեայն պանակ։
 policy-DisableAppUpdate = Կանխել դիտարկիչի թարմացումը։
 policy-DisableBuiltinPDFViewer = Անջատել PDF.js-ը, ներկառուցուած PDF ցուցադրիչը { -brand-short-name }-ում։
