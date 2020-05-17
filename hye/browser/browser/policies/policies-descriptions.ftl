@@ -26,6 +26,7 @@ policy-DisabledCiphers = Անջատել գաղտնագրերը:
 policy-DefaultDownloadDirectory = Սահմանել բեռնման լռելեայն պանակ։
 policy-DisableAppUpdate = Կանխել դիտարկիչի թարմացումը։
 policy-DisableBuiltinPDFViewer = Անջատել PDF.js-ը, ներկառուցուած PDF ցուցադրիչը { -brand-short-name }-ում։
+policy-DisableDefaultBrowserAgent = Թոյլ չտալ լռելեայն զննարկիչի գործակալին որեւէ գործողութիւն կատարել: Վերաբերում է միայն Windows-ին, միւս հարթակները չունեն գործակալ:
 policy-DisableDeveloperTools = Արգելափակել մատչումը մշակողի գործիքներին։
 policy-DisableFeedbackCommands = Անջատել հրամանները արձագանք ուղարկելու համար աւգնութեան ցանկից (Հաստատել արձագանքը եւ զեկուցել անարդար կայքի մասին)։
 policy-DisableFirefoxAccounts = Անջատել { -fxaccount-brand-name } հիմնուած ծառայութիւնները, համաժամեցումը ներառեալ։
