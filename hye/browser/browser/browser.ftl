@@ -64,6 +64,7 @@ urlbar-tip-icon-description =
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
 
 urlbar-search-tips-onboard = ՄուտքագրԷք քիչ, գտէք շատ. որոնեք { $engineName }-ը անմիջապէս հասցէի գոտուց:
+urlbar-search-tips-redirect-2 = Սկսէք Ձեր որոնումը հասցէների դաշտում տեսնելու hամար { $engineName }-ի առաջարկները եւ Ձեր դիտարկումների պատմութիւնը։
 
 ##
 
@@ -108,6 +109,8 @@ page-action-manage-extension =
     .label = Կառավարել ընդլայնումը…
 page-action-remove-from-urlbar =
     .label = Հեռացնել հասցէագաւտուց
+page-action-remove-extension =
+    .label = Հեռացնել ընդլայնումը
 
 ## Auto-hide Context Menu
 
@@ -203,6 +206,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Փոքրացնել
+browser-window-maximize-button =
+    .tooltiptext = Ընդարձակել
+browser-window-restore-down-button =
+    .tooltiptext = Վերականգնել
 browser-window-close-button =
     .tooltiptext = Փակել
 
@@ -211,10 +218,14 @@ browser-window-close-button =
 popup-select-camera =
     .value = Փոխանակման տեսախցիկ։
     .accesskey = C
+popup-select-microphone =
+    .value = Բարձրախօս` կիսուելու համար.
+    .accesskey = M
 popup-all-windows-shared = Ձեր էկրանին բոլոր տեսանելի պատուհանները համաւգտագործուելու են
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F1 2  դիւրանցումն աւգտագործելու համար նախ բացէք DevTools-ը Web Developer ցանկի միջոցով:
 
 ## URL Bar
 
