@@ -69,20 +69,20 @@ about-logins-login-intro-heading-logged-in = Համաժամեցուած մուտ
 login-intro-description = Եթե պահպանել էք Ձեր մուտքանունները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպէս կարող էք ստանալ դրանք․
 login-intro-instruction-fxa = Ստեղծէք կամ մուտք գործէք { -fxaccount-brand-name } այն սարքում, որտեղ Ձեր մուտքանունները պահպանուած են
 login-intro-instruction-fxa-settings = Համոզվէք, որ ընտրել էք Ձեր Մուտքանունների նշատուփը { -sync-brand-short-name }-ի կարգաւորումներում։
-about-logins-intro-instruction-help = Լրացուցիչ օգնութեան համար այցելեք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } աջակցել</a>։
-about-logins-intro-import = Եթե Ձեր մուտքանունները այլ զննարկիչում են պահպանուած, դուք կարող եք <a data-l10n-name="import-link">դրանք ներածեք { -lockwise-brand-short-name }</a>-ում
+about-logins-intro-instruction-help = Լրացուցիչ օգնութեան համար այցելէք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } Աջակցել</a>։
+about-logins-intro-import = Եթե Ձեր մուտքանուններն այլ զննարկիչում են պահպանուած, դուք կարող էք <a data-l10n-name="import-link">դրանք ներածել { -lockwise-brand-short-name }</a>-ում
 
 ## Login
 
-login-item-new-login-title = Ստեղծել նոր մուտքագրում
+login-item-new-login-title = Ստեղծել նոր մուտքանուն
 login-item-edit-button = Խմբագրել
 about-logins-login-item-remove-button = Հեռացնել
 login-item-origin-label = Կայքի հասցէ
 login-item-origin =
     .placeholder = https://www.example.com
-login-item-username-label = Աւգտուողի անուն
+login-item-username-label = Աւգտանուն
 about-logins-login-item-username =
-    .placeholder = (աւգտանուն չկա)
+    .placeholder = (աւգտանուն չկայ)
 login-item-copy-username-button-text = Պատճէնել
 login-item-copied-username-button-text = Պատճէնուած
 login-item-password-label = Գաղտնաբառ
@@ -106,7 +106,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Հաստատէք Ձեր ինքնութիւնը ՝ պահպանուած մուտքը խմբագրելու համար։
+about-logins-edit-login-os-auth-dialog-message = Հաստատէք Ձեր ինքնութիւնը պահպանուած մուտքանունը խմբագրելու համար։
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = խմբագրել պահպանուած մուտքը։
