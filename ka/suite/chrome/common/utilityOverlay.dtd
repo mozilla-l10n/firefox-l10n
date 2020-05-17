@@ -203,6 +203,7 @@
 <!ENTITY dontShowMessage.label        "ამ შეტყობინების დამალვა ამომხტომი ფანჯრების შეზღუდვისას">
 <!ENTITY dontShowMessage.accesskey    "დ">
 
+<!ENTITY throbber.title "ძგერა">
 <!ENTITY throbber.tooltip2 "&brandShortName; – საწყის გვერდზე გადასვლა">
 
 <!ENTITY syncToolbarButton.label "სინქრონიზაცია">
