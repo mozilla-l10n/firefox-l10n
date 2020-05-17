@@ -127,6 +127,12 @@ monitor-header-content-no-account = Паспрабуйце { -monitor-brand-name
 monitor-header-content-signed-in = { -monitor-brand-name } папярэдзіць, калі вашы звесткі з'явяцца ў вядомым парушэнні дадзеных.
 monitor-sign-up = Падпішыцеся на абвесткі аб уцечках
 auto-scan = Аўтаматычна прасканавана сёння
+monitor-emails-tooltip =
+    .title = Пабачыць адрасы пошты, якія назіраюцца ў { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Пабачыць вядомыя ўцечкі дадзеных на { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Пабачыць выкрытыя паролі на { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
