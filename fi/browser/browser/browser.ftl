@@ -223,6 +223,7 @@ popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Voit käyttää F12-pikanäppäintä, kun olet ensin avannut työkalut Web-työkalut-valikosta.
 
 ## URL Bar
 
