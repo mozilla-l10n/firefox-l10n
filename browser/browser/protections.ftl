@@ -35,6 +35,12 @@ protection-report-page-title = Mbrojtje Privatësie
 protection-report-content-title = Mbrojtje Privatësie
 etp-card-title = Mbrojtje e Thelluar Nga Gjurmimi
 etp-card-content = Gjurmuesit ju ndjekin nëpër internet për të grumbulluar të dhëna rreth zakoneve dhe interesave tuaja të shfletimit. { -brand-short-name } bllokon mjaft prej këtyre gjurmuesve dhe programtheve të tjerë dashakeqë.
+protection-report-webpage-title = Pult Mbrojtjesh
+protection-report-page-content-title = Pult Mbrojtjesh
+protection-report-page-summary = { -brand-short-name }-i mund të mbrojë privatësinë tuaj në prapaskenë, teksa shfletoni. Kjo është një përmbledhje e personalizuar e këtyre mbrojtjeve, përfshi mjete për të marrë kontrollin e sigurisë tuaj internetore.
+etp-card-title-always = Mbrojtje e Thelluar Nga Gjurmimi: Përherë On
+etp-card-title-custom-not-blocking = Mbrojtje e Thelluar Nga Gjurmimi: OFF
+etp-card-content-summary = Kur shoqëri të panjohura rreken t’ju ndjekin fshehtazi nëpër internet, { -brand-short-name }-i ndalon automatikisht mjaft prej tyre.
 protection-report-etp-card-content-custom-not-blocking = Krejt mbrojtjet janë të çaktivizuara. Duke administruar rregullimet tuaja për mbrojtje { -brand-short-name }, zgjidhni cilët gjurmues të bllokohen.
 protection-report-manage-protections = Administroni Rregullime
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -62,10 +68,15 @@ mobile-app-card-content = Përdorni shfletuesin për celular me mbrojtje të bre
 mobile-app-links = Shfletuesi { -brand-product-name } për <a data-l10n-name="android-mobile-inline-link">Android</a> dhe <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Mos harroni kurrë më një fjalëkalim
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Administrim Fjalëkalimesh
 lockwise-header-content = { -lockwise-brand-name } depoziton në mënyrë të sigurt fjalëkalimet tuaj në shfletuesin tuaj.
 lockwise-header-content-logged-in = Depozitoni dhe njëkohësoni në mënyrë të sigurt fjalëkalimet tuaj në krejt pajisjet tuaja.
 protection-report-view-logins-button = Shihni Kredenciale Hyrjesh
     .title = Kaloni te Kredenciale të Ruajtura Hyrjesh
+protection-report-save-passwords-button = Ruaj Fjalëkalime
+    .title = Ruajini Fjalëkalimet në { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Administroni Fjalëkalime
+    .title = Administroni Fjalëkalime në { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Merrini fjalëkalimet tuaja kudo
 lockwise-no-logins-card-content = Përdorni në çfarëdo pajisje fjalëkalime të ruajtur në { -brand-short-name }.
 lockwise-app-links = { -lockwise-brand-name } për <a data-l10n-name="lockwise-android-inline-link">Android</a> dhe <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -76,6 +87,13 @@ lockwise-passwords-stored =
     { $count ->
         [one] Fjalëkalim i depozituar në mënyrë të sigurt <a data-l10n-name="lockwise-how-it-works">Si funksionon</a>
        *[other] Fjalëkalime të depozituar në mënyrë të sigurt <a data-l10n-name="lockwise-how-it-works">Si funksionon</a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 fjalëkalim mund të jetë ekspoziar në cenim të dhënash.
+       *[other] { $count } fjalëkalime mund të jenë ekspozuar në një cenim të dhënash.
     }
 turn-on-sync = Aktivizoni { -sync-brand-short-name }…
     .title = Shkoni te parapëlqimet rreth njëkohësimit
