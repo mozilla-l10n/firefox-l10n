@@ -95,6 +95,16 @@ lockwise-scanned-text-breached-logins =
         [one] 1 fjalëkalim mund të jetë ekspoziar në cenim të dhënash.
        *[other] { $count } fjalëkalime mund të jenë ekspozuar në një cenim të dhënash.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 fjalëkalim u depozitua në mënyrë të sigurt.
+       *[other] Fjalëkalimet tuaj po depozitohen në mënyrë të sigurt.
+    }
+lockwise-how-it-works-link = Si funksionon
 turn-on-sync = Aktivizoni { -sync-brand-short-name }…
     .title = Shkoni te parapëlqimet rreth njëkohësimit
 manage-connected-devices = Administroni pajisje…
@@ -111,6 +121,12 @@ monitor-header-content-no-account = Kontrolloni me { -monitor-brand-name } që t
 monitor-header-content-signed-in = { -monitor-brand-name } ju vë në dijeni, nëse të dhënat tuaja janë shfaqur te një cenim i ditur të dhënash.
 monitor-sign-up = Regjistrohuni për Sinjalizime rreth Cenimesh
 auto-scan = Kontrolluar automatikisht sot
+monitor-emails-tooltip =
+    .title = Shihni adresa email të mbikëqyrura në { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Shihni cenime të ditur të dhënash në { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Shihni fjalëkalime të ekspozuar në { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
