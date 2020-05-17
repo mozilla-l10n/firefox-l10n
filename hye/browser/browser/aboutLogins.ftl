@@ -6,16 +6,16 @@ about-logins-page-title = Մուտքանուններ եւ գաղտնաբառեր
 
 # "Google Play" and "App Store" are both branding and should not be translated
 
-login-app-promo-title = Վերցրեք Ձեր գաղտնաբառերը ամենուր
-login-app-promo-subtitle = Ձեռք բերել անվճար { -lockwise-brand-name } հաւելուածը
+login-app-promo-title = Կրիր գաղտնաբառերդ միշտ քեզ հետ
+login-app-promo-subtitle = Ձեռք բերել անվճար { -lockwise-brand-name } յաւելուուածը
 login-app-promo-android =
     .alt = Ձեռք բերել Google Play-ից
 login-app-promo-apple =
     .alt = Ներբեռնել App Store-ից
 login-filter =
-    .placeholder = Որոնել մուտքագրումներ
-create-login-button = Ստեղծել նոր մուտքագրում
-fxaccounts-sign-in-text = Ստացեք Ձեր գաղտնաբառերը Ձեր միւս սարքերում
+    .placeholder = Որոնել մուտքանուններ
+create-login-button = Ստեղծել նոր մուտքանուն
+fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր միւս սարքերում
 fxaccounts-sign-in-button = Մուտք գործել { -sync-brand-short-name }
 fxaccounts-avatar-button =
     .title = Կառաւարել հաշիւը
