@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = サイトの情報を表示
 
@@ -62,7 +63,6 @@ urlbar-tip-icon-description =
 ## homepage of their default search engine.
 ## Variables:
 ##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
-
 urlbar-search-tips-onboard = 少ない入力でたくさん見つかる: アドレスバーから { $engineName } ですぐ検索します。
 urlbar-search-tips-redirect-2 = アドレスバーで検索を始めると、{ $engineName } からの検索候補と閲覧履歴が表示されます。
 
@@ -206,8 +206,12 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = しまう
+browser-window-maximize-button =
+    .tooltiptext = 最大化
+browser-window-restore-down-button =
+    .tooltiptext = 元に戻す
 browser-window-close-button =
-    .tooltiptext = 閉じる
+    .tooltiptext = ウインドウを閉じる
 
 ## WebRTC Pop-up notifications
 
@@ -220,6 +224,8 @@ popup-select-microphone =
 popup-all-windows-shared = 画面に表示されているすべてのウインドウを共有します。
 
 ## DevTools F12 popup
+
+enable-devtools-popup-description = F12 ショートカットを使うには、最初にメニューのウェブ開発から開発ツールを開いてください。
 
 
 ## URL Bar
