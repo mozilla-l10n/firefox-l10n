@@ -12,7 +12,7 @@
 <!ENTITY offlineNotDownload.accesskey "m">
 <!ENTITY autosyncNotDownload.label "Ne elŝuti mesaĝojn pli grandajn ol">
 <!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY kb.label "KiO">
+<!ENTITY kb.label "KiB">
 <!ENTITY daysOld.label "tagoj">
 <!ENTITY message.label "mesaĝoj">
 <!ENTITY nntpNotDownloadRead.label "legitajn mesaĝojn">
