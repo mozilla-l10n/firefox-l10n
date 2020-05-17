@@ -22,6 +22,7 @@ protections-panel-not-blocking-why-label = بۆچی؟
 
 ##
 
+protections-panel-no-trackers-found = هیچ چاودێریکەرێکی ناسراو لە { -brand-short-name } نەدۆزرایەوە لەم پەرەیە
 protections-panel-content-blocking-tracking-protection = چاودێریکردنی ناوەڕۆک
 protections-panel-content-blocking-socialblock = چاودێریکردنی تۆڕی کۆمەڵایەتی
 protections-panel-content-blocking-fingerprinters-label = پەنجە مۆرەکان

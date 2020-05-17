@@ -515,6 +515,7 @@ content-blocking-setting-custom =
     .label = دڵخواز
     .accesskey = C
 content-blocking-custom-desc = هەڵبژێرە چیت دەوێ بلۆکی بکەیت.
+content-blocking-private-trackers = چاودێریکەری ناسراو تەنها لە پەنجەرەی تایبەتیی
 content-blocking-third-party-cookies = شەکرۆکەی چاودێری لایەنی سێهەم
 
 ## These strings are used to define the different levels of

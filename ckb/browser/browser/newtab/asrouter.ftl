@@ -64,6 +64,7 @@ cfr-doorhanger-pintab-animation-resume = بەردەوامبوونەوە
 
 ## Protections panel
 
+cfr-protections-panel-header = بگەڕێ بێ ئەوەی چاودێریبکرێیت
 cfr-protections-panel-link-text = زیاتر بزانە
 
 ## What's New toolbar button and panel

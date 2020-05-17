@@ -240,6 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "بڕۆ بۆ ناونیشان لە توڵی شوێن">
+
 <!ENTITY printButton.label            "چاپکردن">
 <!ENTITY printButton.tooltip          "ئەم پەڕەیە چاپبکە">
 
@@ -618,6 +619,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "پاشەکەوتی بکە لە Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "پاشەکەوتی بکە لە Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "بەستەر پاشەکەوت بکە لە Pocket">
@@ -889,6 +893,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "بۆچی؟">
+<!ENTITY protections.noTrackersFound.description "هیچ چاودێریکەرێکی ناسراو لە &brandShortName; نەدۆزرایەوە لەم پەرەیە">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
