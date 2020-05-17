@@ -90,6 +90,7 @@ newtab-menu-show-privacy-info = Մեր հովանաւորները եւ Ձեր գ
 
 newtab-privacy-modal-button-done = Աւարտ
 newtab-privacy-modal-header = Ձեր գաղտնիութիւնը կարեւոր է։
+newtab-privacy-modal-paragraph-2 = Հետաքրքրաշարժ հոդուածներ առաջարկելուց բացի, մենք նաեւ ցուցադրում ենք մեր հիմնական հովանաւորների կողմից ներկայացուող բարձրակարգ նիւթ։ Համոզուած եղէք, <strong> որ Ձեր դիտարկած տուեալները երբեք դուրս չեն գալիս { -brand-product-name } — -ի ձեր անձնական պատճէնից։ Դրանք չենք տեսնում ինչպէս մենք, այնպէս էլ մեր հովանաւորները:
 newtab-privacy-modal-link = Իմացեք թե ինչպէս է գաղտնիութիւնն աշխատում նոր ներդիրում
 
 ##
@@ -127,6 +128,10 @@ newtab-label-removed-bookmark = Էջանիշը հեռացուել է
 newtab-label-recommended = Միտում
 newtab-label-saved = Պահպանուած է { -pocket-brand-name }-ում
 newtab-label-download = Ներբեռնուած է
+# This string is used in the story cards to indicate sponsored content
+# Variables:
+#  $sponsorOrSource (String): This is the name of a company or their domain
+newtab-label-sponsored = Հովանաւորուած
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -179,6 +184,7 @@ newtab-discovery-empty-section-topstories-timed-out = Վայ մենք գրեթե
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Հանրաճանաչ թէմաներ.
 newtab-pocket-more-recommendations = Լրացուցիչ առաջարկութիւններ
+newtab-pocket-learn-more = Իմանալ աւելին
 newtab-pocket-cta-button = Ստանալ { -pocket-brand-name }
 newtab-pocket-cta-text = Խնայեք Ձեր սիրած պատմութիւնները { -pocket-brand-name }, եւ Ձեր միտքը վառեցրեք հետաքրքրաշարժ ընթերցանութեամբ։
 

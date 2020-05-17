@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Սկսել
 onboarding-welcome-header = Բարի գալուստ { -brand-short-name }
 onboarding-welcome-body = Դուք ունեք զննարկիչը։<br/>Ծանաւթացէք { -brand-product-name }-ի մնացած մասի հետ։
 onboarding-welcome-learn-more = Իմացեք աւելին առաւելութիւնների մասին։
+onboarding-join-form-header = Միանալ { -brand-product-name }
 onboarding-welcome-modal-get-body = Դուք ունեք զննարկիչը։<br/>Հիմա ստացեք առաւելագոյնը { -brand-product-name }-ից։
 onboarding-welcome-modal-supercharge-body = Գերազանցեք Ձեր գաղտնիութեան պաշտպանութիւնը։
 onboarding-welcome-modal-privacy-body = Դուք ունեք զննարկիչը։ Եկեք աւելացնենք աւելի շատ գաղտնիութեան պաշտպանութիւն։
 onboarding-welcome-modal-family-learn-more = Իմացեք { -brand-product-name } ապրանքների ընտանիքի մասին։
 onboarding-welcome-form-header = Սկսեք այստեղ
-onboarding-join-form-header = Միանալ { -brand-product-name }
 onboarding-join-form-body = Սկսելու համար մուտքագրեք ձեր էլ֊փոստի հասցէն։
 onboarding-join-form-email =
     .placeholder = Մուտքագրեք էլ֊փոստ
@@ -145,7 +145,9 @@ onboarding-facebook-container-title = Սահմանէք սահմաններ Facebo
 onboarding-facebook-container-text2 = { -facebook-container-brand-name } Ձեր հաշիւը զերծ է պահում մնացած ամէն ինչից, աւելի դժուար է դարձնում Facebook-ի համար Ձեզ գովազդով թիրախաւորելը։
 onboarding-facebook-container-button = Աւելացնել ընդլայնում
 onboarding-import-browser-settings-title = Ներածէք Ձեր էջանիշերը, գաղտնաբառերը եւ աւելին
+onboarding-import-browser-settings-text = Մտէք անմիջապէս — եւ հեշտութեամբ վերցրէք Ձեր Chrome-ի կայքերը եւ կարգաւորումները:
 onboarding-import-browser-settings-button = Ներածէք Chrome-ի տուեալները
+onboarding-personal-data-promise-title = Նախագծուած է գաղտնիութիւնը պահպանելու համար
 
 ## Message strings belonging to the Return to AMO flow
 
