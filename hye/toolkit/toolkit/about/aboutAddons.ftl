@@ -254,12 +254,47 @@ addon-updates-update-addons-automatically = Թարմացնել յաւելում�
 ## (which itself is either "Automatically" or "Manually", controlled by the
 ## extensions-updates-update-addons-automatically.label menu item).
 
+extensions-updates-reset-updates-to-automatic =
+    .label = Վերակայել բոլոր յաւելումները՝ ինքնաշխատ թարմացնելու համար
+    .accesskey = Վ
+extensions-updates-reset-updates-to-manual =
+    .label = Վերակայել բոլոր յաւելումները՝  ձեռքով թարմացնելու համար
+    .accesskey = Վ
+addon-updates-reset-updates-to-automatic = Վերակայել բոլոր յաւելումները՝  ինքնաշխատ թարմացնելու համար
+    .accesskey = Վ
+addon-updates-reset-updates-to-manual = Վերակայել բոլոր յաւելումները՝ ձեռքով թարմացնելու համար
+    .accesskey = Վ
 
 ## Status messages displayed when updating add-ons
 
+extensions-updates-updating =
+    .value = Յաւելումները թարմացուում են
+extensions-updates-installed =
+    .value = Ձեր յաւելումները թարմացուեցին:
+extensions-updates-downloaded =
+    .value = Ձեր յաւելումների թարմացումները բեռնուել են:
+extensions-updates-restart =
+    .label = Վերամեկնարկէք տեղադրումն աւարտելու համար
+extensions-updates-none-found =
+    .value = Թարմացումներ չեն գտնուել
+extensions-updates-manual-updates-found =
+    .label = Տեսնել առկայ թարմացումները
+extensions-updates-update-selected =
+    .label = Տեղադրել Թարմացումները
+    .tooltiptext = Տեղադրել այս ցանկում առկայ թարմացումները
+addon-updates-updating = Յաւելումները թարմացուում են
+addon-updates-installed = Ձեր յաւելումները թարմացուեցին:
+addon-updates-none-found = Թարմացումներ չեն գտնուել
+addon-updates-manual-updates-found = Տեսնել առկայ թարմացումները
 
 ## Add-on install/debug strings for page options menu
 
+addon-install-from-file = Տեղադրել յաւելումը նիշքից…
+    .accesskey = I
+addon-install-from-file-dialog-title = Ընտրել տեղադրուող յաւելումը
+addon-install-from-file-filter-name = Յաւելումներ
+addon-open-about-debugging = Վրիպազերծել յաւելումները
+    .accesskey = b
 
 ## Extension shortcut management
 
