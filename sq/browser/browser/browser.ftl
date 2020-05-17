@@ -225,6 +225,7 @@ popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Zhvillues Web.
 
 ## URL Bar
 
