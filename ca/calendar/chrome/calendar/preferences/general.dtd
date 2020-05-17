@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.mainbox.label "Paràmetres generals" >
+
 <!ENTITY pref.dateformat.label "Format de les dates:" >
 <!ENTITY pref.dateformat.accesskey "d">
 <!ENTITY pref.dateformat.long "Llarg" >
@@ -24,6 +25,9 @@
 <!ENTITY pref.default_event_length.label "Durada per defecte:" >
 <!ENTITY pref.default_event_length.accesskey "e">
 
+<!ENTITY pref.default_event_task_length.label "Durada per defecte de les cites i tasques">
+<!ENTITY pref.default_event_task_length.accesskey "D">
+
 <!ENTITY pref.default_task_none.label "Cap">
 <!ENTITY pref.default_task_start_of_day.label "Inici del dia">
 <!ENTITY pref.default_task_end_of_day.label "Final del dia">
@@ -34,9 +38,6 @@
 <!ENTITY pref.default_task_offset_next_hour.label "Relativa a la propera hora">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Plafó d'avui">
-<!ENTITY pref.soondays.label "La secció Properes mostra:">
-<!ENTITY pref.soondays.accesskey "P">
-
 <!-- LOCALIZATION NOTE (pref.soondays2.label):
      "Upcoming" is the name of a section and the translation must match the
      translation of that section name (calendar.upcoming.button.label). Also,

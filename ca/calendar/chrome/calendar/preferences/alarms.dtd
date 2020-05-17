@@ -12,6 +12,8 @@
 <!ENTITY pref.calendar.alarms.playsound.accessKey "s">
 <!ENTITY pref.calendar.alarms.sound.useDefault.label "Utilitza el so per defecte">
 <!ENTITY pref.calendar.alarms.sound.useDefault.accessKey "d">
+<!ENTITY pref.calendar.alarms.sound.useCustom.label "Utilitza el fitxer de so següent">
+<!ENTITY pref.calendar.alarms.sound.useCustom.accessKey "U">
 <!ENTITY pref.calendar.alarms.sound.browse.label "Navega…">
 <!ENTITY pref.calendar.alarms.sound.browse.accessKey "N">
 <!ENTITY pref.calendar.alarms.sound.play.label "Reprodueix">

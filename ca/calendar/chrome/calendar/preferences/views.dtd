@@ -8,6 +8,7 @@
   -->
 
 <!ENTITY pref.calendar.view.allview.caption "General">
+
 <!ENTITY pref.calendar.view.dayandweekviews.caption "Vistes diària i setmanal">
 <!ENTITY pref.calendar.view.multiweekview.caption "Vista multisetmanal">
 <!ENTITY pref.calendar.view.workweek.caption "Setmana laboral">
@@ -17,6 +18,8 @@
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Mostra el número de setmana a les vistes i al mini-mes">
 <!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "M">
 <!ENTITY pref.daysoff.label "Inclou aquests dies a la setmana laboral:">
+
+<!ENTITY pref.workweekDays.label "Dies feiners:">
 
 <!ENTITY pref.calendar.view.daystart.label "El dia s'inicia a les:">
 <!ENTITY pref.calendar.view.daystart.accesskey "d">
