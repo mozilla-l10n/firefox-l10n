@@ -23,4 +23,10 @@
 <!ENTITY report.disabled                                     "ڕاپۆرتکردنی داخستنی لەناکاو ناچالاک کراوە.">
 <!ENTITY report.failed                                       "پێشکەشکردن سەرکەوتوو نەبوو.">
 <!ENTITY report.unavailable                                  "هیچ ڕاپۆرتێک بەردەست نیە.">
+<!ENTITY report.comment                                      "لێدوان بنووسە(لێدوانەکان دەبینرێت لە لایەن هەموو کەسێکەوە)">
+<!ENTITY report.pageURL                                      "بەستەری پەڕەی تێدابێت">
 
+<!ENTITY plugin.file                                         "پەڕگە">
+<!ENTITY plugin.mimeTypes                                    "جۆرەکانی MIME">
+<!ENTITY plugin.flashProtectedMode.label                     "دۆخی پاراستنی ئەدۆبی فلاش چالاک بکە">
+<!ENTITY plugin.enableBlocklists.label                       "ناوەڕۆکی فلاشی مەترسیدار بلۆک بکە">
