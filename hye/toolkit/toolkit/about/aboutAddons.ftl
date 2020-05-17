@@ -460,6 +460,14 @@ addon-detail-private-browsing-disallow = Չթոյլատրել
 addon-badge-recommended =
     .title = Երաշխաւորուած
     .alt = Երաշխաւորուած
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended2 =
+    .title = { -brand-product-name }-ը առաջարկում է միայն այն ընդլայնումները, որոնք համապատասխանում են անվտանգութեան և արդիւնաւէտութեան մեր չափաւրինակներին
+    .aria-label = { addon-badge-recommended2.title }
+available-updates-heading = Առկայ թարմացումներ
+recent-updates-heading = Վերջին թարմացումները
+release-notes-loading = Բեռնում…
 
 ## Page headings
 
