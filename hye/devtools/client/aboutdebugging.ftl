@@ -104,6 +104,8 @@ about-debugging-setup-usb-updating-button = Թարմացուում է…
 about-debugging-setup-usb-status-enabled = Միացուած
 about-debugging-setup-usb-status-disabled = Անջատուած
 about-debugging-setup-usb-status-updating = Թարմացուում է…
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-dev-menu2 = Միացրէք մշակողի ցանկը Ձեր Android սարքում։
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Աւելացնել
