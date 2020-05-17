@@ -220,4 +220,5 @@ cfr-whatsnew-passwords-icon-alt = Խոցելի գաղտնաբառի ստեղնի
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-body = Երբ տեսանիւթը բացում էք լողացաւղ պատուհանի մէջ, կարող էք կրկնակի սեղմել պատուհանին ամբողջ էկրանով դիտելու համար:
 cfr-whatsnew-pip-fullscreen-icon-alt = Նկար-նկարում պատկերակ

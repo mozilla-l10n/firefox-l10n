@@ -9,6 +9,8 @@ graph-week-summary =
         [one] Անցած շաբաթուայ ընթացքում { -brand-short-name }- ը արգելափակել է { $count } հետագծողներ
        *[other] Անցած շաբաթների ընթացքում { -brand-short-name }--արգելափակել է { $count } հետագծողներ
     }
+# Weekly summary of the graph when the graph is empty in Private Mode
+graph-week-summary-private-window = Այս շաբաթ արգելափակուած { -brand-short-name } որոնումների հետագծերը
 protection-report-page-title = Գաղտնիութեան պաշտպանութիւն
 protection-report-content-title = Գաղտնիութեան պաշտպանութիւն
 etp-card-title = Ընդլայնուած Հետագծման Պաշտպանութիւն
