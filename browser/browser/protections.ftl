@@ -37,6 +37,12 @@ protection-report-page-title = Privatumo apsaugos
 protection-report-content-title = Privatumo apsaugos
 etp-card-title = Išplėsta apsauga nuo stebėjimo
 etp-card-content = Stebėjimo elementai seka jus internete, siekdami surinkti informacijos apie jūsų naršymo įpročius ir pomėgius. „{ -brand-short-name }“ blokuoja daugelį šių elementų ir kitų kenksmingų scenarijų.
+protection-report-webpage-title = Apsaugos skydelis
+protection-report-page-content-title = Apsaugos skydelis
+protection-report-page-summary = „{ -brand-short-name }“ gali saugoti jūsų privatumą jums naršant. Čia pateikiama asmeninė šios apsaugos santrauka, kartu su įrankiais, kurie leidžia tai valdyti.
+etp-card-title-always = Išplėsta apsauga nuo stebėjimo: visada įjungta
+etp-card-title-custom-not-blocking = Išplėsta apsauga nuo stebėjimo: išjungta
+etp-card-content-summary = Kai nežinomos kompanijos slaptai bando sekti jus internete, „{ -brand-short-name }“ daugumą jų blokuoja automatiškai.
 protection-report-etp-card-content-custom-not-blocking = Šiuo metu visos apsaugos yra išjungtos. Pasirinkite, ką norite blokuoti, per savo „{ -brand-short-name }“ apsaugų nuostatas.
 protection-report-manage-protections = Keisti nuostatas
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -121,6 +127,12 @@ monitor-header-content-no-account = „{ -monitor-brand-name }“ pateikia infor
 monitor-header-content-signed-in = „{ -monitor-brand-name }“ perspėja, kai jūsų duomenys pasirodo žinomuose duomenų nutekėjimuose.
 monitor-sign-up = Gauti įspėjimus apie duomenų nutekėjimus
 auto-scan = Automatiškai skenuota šiandien
+monitor-emails-tooltip =
+    .title = Peržiūrėti stebimus el. pašto adresus per „{ -monitor-brand-short-name }“
+monitor-breaches-tooltip =
+    .title = Peržiūrėti žinomus duomenų nutekėjimus per „{ -monitor-brand-short-name }“
+monitor-passwords-tooltip =
+    .title = Peržiūrėti nutekėjusius slaptažodžius per „{ -monitor-brand-short-name }“
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
