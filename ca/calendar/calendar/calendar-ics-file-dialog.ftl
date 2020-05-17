@@ -7,5 +7,7 @@ calendar-ics-file-window =
 calendar-ics-file-dialog =
     .buttonlabelaccept = Importa
 calendar-ics-file-accept-button-ok-label = D'acord
+# $fileName (string) - The name of the file.
+calendar-ics-file-dialog-message = Voleu importar el fitxer «{ $fileName }»?
 calendar-ics-file-import-success = S'ha importat correctament
 calendar-ics-file-import-error = S'ha produït un error i la importació ha fallat.
