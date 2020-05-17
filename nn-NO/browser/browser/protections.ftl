@@ -37,8 +37,10 @@ etp-card-title = Utvida sporingsvern
 etp-card-content = Sporfølgjarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporfølgjarane og andre vondsinna skript.
 protection-report-webpage-title = Tryggingspanel
 protection-report-page-content-title = Tryggingspanel
+protection-report-page-summary = { -brand-short-name } kan ta vare på personvernet ditt bak kulissene medan du surfar. Dette er ei personleg oppsummering av desse verna, inkludert verktøy for å ta kontroll over sikkerheita di på nettet.
 etp-card-title-always = Utvida sporingsvern: Alltid på
 etp-card-title-custom-not-blocking = Utvida sporingsvern: AV
+etp-card-content-summary = Når ukjende selskap prøver å følgje deg, i løynd, rundt om på nettet, stoppar { -brand-short-name } mange av dei automatisk.
 protection-report-etp-card-content-custom-not-blocking = Alt vern er for tida slått av. Vel kva for sporfølgjarar du vil blokkere ved å handtere innstillingar for vern i { -brand-short-name }.
 protection-report-manage-protections = Handter innstillingar
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
