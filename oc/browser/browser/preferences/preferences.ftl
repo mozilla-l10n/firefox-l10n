@@ -807,6 +807,8 @@ forms-master-pw-fips-desc = La modificacion de senhal a pas capitat
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verificatz vòstra identitat per crear un senhal principal.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Per crear un senhal màger, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
