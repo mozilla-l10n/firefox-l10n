@@ -182,9 +182,26 @@ addon-category-extension-title =
 addon-category-theme = Ոճապնակներ
 addon-category-theme-title =
     .title = Ոճապնակներ
+addon-category-plugin = Ներդիրներ
+addon-category-plugin-title =
+    .title = Ներդիրներ
+addon-category-dictionary = Բառարաններ
+addon-category-dictionary-title =
+    .title = Բառարաններ
+addon-category-locale = Լեզուներ
+addon-category-locale-title =
+    .title = Լեզուներ
+addon-category-available-updates = Առկայ թարմացումներ
+addon-category-available-updates-title =
+    .title = Առկայ թարմացումներ
+addon-category-recent-updates = Վերջին թարմացումներ
+addon-category-recent-updates-title =
+    .title = Վերջին թարմացումներ
 
 ## These are global warnings
 
+extensions-warning-safe-mode-label =
+    .value = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
 
 ## Strings connected to add-on updates
 
