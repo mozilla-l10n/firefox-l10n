@@ -46,9 +46,9 @@ login-list-count =
     }
 login-list-sort-label-text = Տեսակաւորել ըստ՝
 login-list-name-option = Անուն (Ա-Ֆ)
-login-list-name-reverse-option = Անուան(Ֆ֊Ա)
+login-list-name-reverse-option = Անուն (Ֆ֊Ա)
 about-logins-login-list-alerts-option = Ծանուցումներ
-login-list-last-changed-option = Վերջին փոփոխութեան
+login-list-last-changed-option = Վերջին փոփոխութիւնը
 login-list-last-used-option = Վերջին աւգտագործման
 login-list-intro-title = Մուտքագրումներ չկան
 login-list-intro-description = Երբ պահպանում եք գաղտնաբառը { -brand-product-name }-ում, այն կցուցադրուի այստեղ։
