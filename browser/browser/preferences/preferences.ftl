@@ -220,6 +220,12 @@ translate-attribution = 翻訳:  <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = 例外...
     .accesskey = x
+
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+   .label = 日付、時刻、数値、寸法の書式に、OS の “{ $localeName }” の設定を使う。
+
 check-user-spelling =
     .label = 自動スペルチェック機能を使用する
     .accesskey = t
@@ -268,6 +274,15 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } を使用 (標準設定)
+
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] macOS のデフォルトのアプリケーションを使用
+            [windows] Windows のデフォルトのアプリケーションを使用
+           *[other] システムのデフォルトのアプリケーションを使用
+        }
+
 applications-use-other =
     .label = 他のアプリケーションを選択...
 applications-select-helper = アプリケーションの選択
@@ -294,6 +309,9 @@ applications-use-plugin-in =
 applications-preview-inapp =
     .label = { -brand-short-name } でプレビュー表示
 
+applications-open-inapp =
+    .label = { -brand-short-name } で開く
+
 ## The strings in this group are used to populate
 ## selected label element based on the string from
 ## the selected menu item.
@@ -306,12 +324,19 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -773,6 +798,10 @@ forms-master-pw-fips-desc = パスワードを変更できませんでした
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = マスターパスワードを作成するには、アカウントの確認が必要です。
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = マスターパスワードを作成するには、Windows でのあなたの資格情報を入力してください。これはアカウントのセキュリティ保護に役立ちます。
+
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -920,7 +949,6 @@ enhanced-tracking-protection-setting-strict =
 enhanced-tracking-protection-setting-custom =
     .label = カスタム
     .accesskey = C
-
 ##
 
 content-blocking-etp-standard-desc = 保護と性能をバランスよく。ページが正しく機能するように読み込みます。
@@ -972,8 +1000,8 @@ content-blocking-cryptominers-label =
 # Browser fingerprinting is a method of tracking users by the configuration and settings information (their "digital fingerprint")
 # that is visible to websites they browse, rather than traditional tracking methods such as IP addresses and unique cookies.
 content-blocking-fingerprinters-label =
-    .label = フィンガープリント採取
-    .accesskey = F
+  .label = フィンガープリント採取
+  .accesskey = F
 
 ## Privacy Section - Tracking
 
