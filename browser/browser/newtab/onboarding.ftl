@@ -21,12 +21,12 @@ onboarding-button-label-get-started = ਸ਼ੁਰੂ ਕਰੀਏ
 onboarding-welcome-header = { -brand-short-name } ਵਲੋਂ ਜੀ ਆਇਆਂ ਨੂੰ
 onboarding-welcome-body = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਤਾਂ ਲੈ ਲਿਆ ਹੈ।<br/>ਬਾਕੀ { -brand-product-name } ਨੂੰ ਜਾਣੋ।
 onboarding-welcome-learn-more = ਫਾਇਦਿਆਂ ਬਾਰੇ ਹੋਰ ਜਾਣੋ।
+onboarding-join-form-header = { -brand-product-name } ਦਾ ਹਿੱਸਾ ਬਣੋ
 onboarding-welcome-modal-get-body = ਤੁਹਾਡੇ ਕੋਲ ਨਵਾਂ ਨਕੋਰ ਬਰਾਊਜ਼ਰ ਹੈ।<br/>ਹੁਣ { -brand-product-name } ਦਾ ਪੂਰਾ ਫਾਇਦਾ ਲਵੋ।
 onboarding-welcome-modal-supercharge-body = ਆਪਣੀ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਨੂੰ ਵਧੀਆ ਬਣਾਓ।
 onboarding-welcome-modal-privacy-body = ਤੁਸੀਂ ਬਰਾਊਜ਼ਰ ਲੈ ਲਿਆ ਹੈ। ਆਓ ਫੇਰ ਹੋਰ ਪਰਦੇਦਾਰੀ ਸੁਰੱਖਿਆ ਜੋੜੀਏ।
 onboarding-welcome-modal-family-learn-more = { -brand-product-name } ਉਤਪਾਦਾਂ ਦੇ ਟੱਬਰ ਬਾਰੇ ਜਾਣੀਏ।
 onboarding-welcome-form-header = ਇੱਥੇ ਸ਼ੁਰੂ ਕਰੋ
-onboarding-join-form-header = { -brand-product-name } ਦਾ ਹਿੱਸਾ ਬਣੋ
 onboarding-join-form-body = ਸ਼ੁਰੂਆਤ ਕਰਨ ਲਈ ਆਪਣਾ ਈਮੇਲ ਸਿਰਨਾਵਾਂ ਦਿਓ।
 onboarding-join-form-email =
     .placeholder = ਈਮੇਲ ਦਿਓ
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = ਇਕਟੈਨਸ਼ਨ ਜੋੜੋ
 onboarding-import-browser-settings-title = ਆਪਣੇ ਬੁੱਕਮਾਰਕ, ਪਾਸਵਰਡ ਅਤੇ ਹੋਰ ਚੀਜ਼ਾਂ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ
 onboarding-import-browser-settings-text = ਹੁਣੇ ਸ਼ੂਰੋ ਕਰੋ — ਆਪਣੀਆਂ ਕਰੋਮ ਸਾਈਟਾਂ ਅਤੇ ਸੈਟਿੰਗਾਂ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਸੌਖੀ ਤਰ੍ਹਾਂ ਲਿਆਓ।
 onboarding-import-browser-settings-button = ਕਰੋਮ ਡਾਟਾ ਆਯਾਤ ਕਰੋ
+onboarding-personal-data-promise-title = ਮੁੱਢ ਤੋਂ ਹੀ ਪ੍ਰਾਈਵੇਟ
+onboarding-personal-data-promise-text = { -brand-product-name } ਤੁਹਾਡੇ ਡਾਟੇ ਤੋਂ ਘੱਟ ਪ੍ਰਾਪਤ ਕਰਕੇ, ਇਸ ਦੀ ਸੁਰੱਖਿਆ ਕਰਕੇ ਅਤੇ ਅਸੀਂ ਇਸ ਨੂੰ ਕਿਵੇਂ ਵਰਤਾਂਗੇ ਬਾਰੇ ਦੱਸ ਕੇ, ਤੁਹਾਡੇ ਡਾਟੇ ਦਾ ਸਤਿਕਾਰ ਕਰਦਾ ਹੈ।
+onboarding-personal-data-promise-button = ਸਾਡੇ ਵਾਅਦੇ ਨੂੰ ਪੜ੍ਹੋ
 
 ## Message strings belonging to the Return to AMO flow
 
