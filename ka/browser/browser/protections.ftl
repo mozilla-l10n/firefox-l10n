@@ -37,6 +37,10 @@ etp-card-title = თვალთვალისგან გაძლიერ�
 etp-card-content = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფორმაციას თქვენი ჩვევებისა და მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
 protection-report-webpage-title = დაცვის მაჩვენებლები
 protection-report-page-content-title = დაცვის მაჩვენებლები
+protection-report-page-summary = { -brand-short-name } იცავს თქვენს უსაფრთხოებას შეუმჩნევლად, გვერდების თვალიერებისას. აქ იხილავთ თქვენთვის განკუთვნილ დაცვის მაჩვენებლებსა და საშუალებებს, რომლებითაც შეძლებთ საკუთარი ინტერნეტცხოვრების მართვის სადავეების ხელში აღებას.
+etp-card-title-always = თვალთვალისგან გაძლიერებული დაცვა: მუდმივად ჩართულია
+etp-card-title-custom-not-blocking = თვალთვალისგან გაძლიერებული დაცვა: გამორთულია
+etp-card-content-summary = როცა უცხო კომპანიები შეეცდებიან ფარულად გადევნონ თვალი ვებსივრცეში, { -brand-short-name } ავტომატურად შეაჩერებს მათ უმეტესობას.
 protection-report-etp-card-content-custom-not-blocking = დაცვა სრულად გამორთულია ამჟამად. უსაფრთხოების პარამეტრებიდან შეარჩიეთ მეთვალყურეები, რომელთაც შეზღუდავს { -brand-short-name }.
 protection-report-manage-protections = პარამეტრების მართვა
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -117,6 +121,12 @@ monitor-header-content-no-account = გამოცადეთ { -monitor-brand
 monitor-header-content-signed-in = { -monitor-brand-name } გაცნობებთ, თუ თქვენი ინფორმაცია ცნობილ მიტაცებულ მონაცემებში აღმოჩნდება.
 monitor-sign-up = გამოიწერეთ ცნობები, მონაცემების მიტაცების შესახებ
 auto-scan = ავტომატურად გადამოწმებული დღეს
+monitor-emails-tooltip =
+    .title = ელფოსტებზე, რომლებიც მოწმდება იხილეთ { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = ცნობილი მიტაცებების შესახებ, იხილეთ { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = გამჟღავნებული პაროლების შესახებ, იხილეთ { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
