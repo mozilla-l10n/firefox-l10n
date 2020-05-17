@@ -232,6 +232,10 @@ translate-attribution = Sivujen kääntäjä <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Poikkeukset…
     .accesskey = i
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Käytä käyttöjärjestelmän asetuksia alueelle ”{ $localeName }” muotoilemaan päivämäärät, kellonajat, luvut ja mittayksiköt.
 check-user-spelling =
     .label = Oikolue käyttäjän kirjoitukset
     .accesskey = l
