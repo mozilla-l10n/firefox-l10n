@@ -35,6 +35,8 @@ protection-report-page-title = პირადულობის დაცვა
 protection-report-content-title = პირადულობის დაცვა
 etp-card-title = თვალთვალისგან გაძლიერებული დაცვა
 etp-card-content = მეთვალყურეები თან დაგყვებათ მთელ ინტერნეტში და აგროვებს ინფორმაციას თქვენი ჩვევებისა და მისწრაფებების შესახებ. { -brand-short-name } ზღუდავს ამ მეთვალყურეების უმეტესობასა და სხვა მავნე კოდებსაც.
+protection-report-webpage-title = დაცვის მაჩვენებლები
+protection-report-page-content-title = დაცვის მაჩვენებლები
 protection-report-etp-card-content-custom-not-blocking = დაცვა სრულად გამორთულია ამჟამად. უსაფრთხოების პარამეტრებიდან შეარჩიეთ მეთვალყურეები, რომელთაც შეზღუდავს { -brand-short-name }.
 protection-report-manage-protections = პარამეტრების მართვა
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
