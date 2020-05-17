@@ -5,6 +5,9 @@
 addons-window =
     .title = Յաւելումների կառաւարում
 addons-page-title = Յաւելումների կառաւարում
+search-header =
+    .placeholder = Որոնել addons.mozilla.org֊ում
+    .searchbuttonlabel = Որոնել
 search-header-shortcut =
     .key = f
 loading-label =
@@ -408,9 +411,55 @@ never-activate-button = Երբեք չգործարկել
 addon-detail-author-label = Հեղինակ
 addon-detail-version-label = Տարբերակ
 addon-detail-last-updated-label = Վերջին թարմացումը
+addon-detail-homepage-label = Տնէջ
+addon-detail-rating-label = Վարկանիշ
+# The average rating that the add-on has received.
+# Variables:
+#   $rating (number) - A number between 0 and 5. The translation should show at most one digit after the comma.
+five-star-rating =
+    .title = Գնահատուած է { NUMBER($rating, maximumFractionDigits: 1) }՝ 5-ից
+# This string is used to show that an add-on is disabled.
+# Variables:
+#   $name (string) - The name of the add-on
+addon-name-disabled = { $name } (անջատուած)
+# The number of reviews that an add-on has received on AMO.
+# Variables:
+#   $numberOfReviews (number) - The number of reviews received
+addon-detail-reviews-link =
+    { $numberOfReviews ->
+        [one] { $numberOfReviews } կարծիք
+       *[other] { $numberOfReviews } կարծիքներ
+    }
 
 ## Pending uninstall message bar
 
+# Variables:
+#   $addon (string) - Name of the add-on
+pending-uninstall-description = <span data-l10n-name="addon-name">{ $addon }</span>-ը հեռացուել է։
+pending-uninstall-undo-button = Հետարկել
+addon-detail-updates-label = Թոյլատրել ինքնաշխատ թարմացումները
+addon-detail-updates-radio-default = Լռելեայն
+addon-detail-updates-radio-on = Միացնել
+addon-detail-updates-radio-off = Անջատել
+addon-detail-update-check-label = Ստուգել թարմացումները
+install-update-button = Թարմացնել
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed =
+    .title = Թոյլատրուած է գաղտնի պատուհաններում
+# This is the tooltip text for the private browsing badge in about:addons. The
+# badge is the private browsing icon included next to the extension's name.
+addon-badge-private-browsing-allowed2 =
+    .title = Թոյլատրուած է գաղտնի պատուհաններում
+    .aria-label = { addon-badge-private-browsing-allowed2.title }
+addon-detail-private-browsing-help = Թոյլատրելու դէպքում, գաղտնի զննարկման ընթացքում, ընդլայնումը հասանելիութիւն  կունենայ ձեր առցանց գործունեութեանը: Իմանալ աւելին</a>
+addon-detail-private-browsing-allow = Թոյլատրել
+addon-detail-private-browsing-disallow = Չթոյլատրել
+# This is the tooltip text for the recommended badge for an extension in about:addons. The
+# badge is a small icon displayed next to an extension when it is recommended on AMO.
+addon-badge-recommended =
+    .title = Երաշխաւորուած
+    .alt = Երաշխաւորուած
 
 ## Page headings
 
