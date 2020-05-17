@@ -211,13 +211,42 @@ extensions-warning-check-compatibility-container =
 extensions-warning-check-compatibility-enable =
     .label = Միացնել
     .tooltiptext = Միացնել յաւելման համատեղելիութեան ստուգումը
+extensions-warning-update-security-label =
+    .value = Յաւելումների թարմացման անվտանգութեան ստուգումն անջատուած է: Թարմացումները կարող են վտանգաւոր լինել:
+extensions-warning-update-security-container =
+    .tooltiptext = { extensions-warning-update-security-label.value }
+extensions-warning-update-security-enable =
+    .label = Միացնել
+    .tooltiptext = Միացնել յաւելման թարմացման անվտանգութեան ստուգումը
+extensions-warning-safe-mode = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
+extensions-warning-check-compatibility = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
+extensions-warning-check-compatibility-button = Միացնել
+    .title = Միացնել  յաւելման համատեղելիութեան ստուգումը
+extensions-warning-update-security = Յաւելումների թարմացման անվտանգութեան ստուգումն անջատուած է: Թարմացումները կարող են վտանգաւոր լինել:
+extensions-warning-update-security-button = Միացնել
+    .title = Միացնել յաւելման թարմացման անվտանգութեան ստուգումը
 
 ## Strings connected to add-on updates
 
+extensions-updates-check-for-updates =
+    .label = Ստուգել թարմացումները
+    .accesskey = Ս
+extensions-updates-view-updates =
+    .label = Տեսնել վերջին թարմացումները
+    .accesskey = Տ
+addon-updates-check-for-updates = Ստուգել թարմացումները
+    .accesskey = Ս
+addon-updates-view-updates = Տեսնել վերջին թարմացումները
+    .accesskey = Տ
 
 # This menu item is a checkbox that toggles the default global behavior for
 # add-on update checking.
 
+extensions-updates-update-addons-automatically =
+    .label = Թարմացնել յաւելումներն ինքնաշխատաւրէն
+    .accesskey = Թ
+addon-updates-update-addons-automatically = Թարմացնել յաւելումներն ինքնաշխատաւրէն
+    .accesskey = Թ
 
 ## Specific add-ons can have custom update checking behaviors ("Manually",
 ## "Automatically", "Use default global behavior"). These menu items reset the
