@@ -35,6 +35,12 @@ protection-report-page-title = Protecciones de privacidad
 protection-report-content-title = Protecciones de privacidad
 etp-card-title = Protección contra rastreo mejorada
 etp-card-content = Los rastreadores le siguen en línea para recopilar información sobre sus hábitos de navegación e intereses. { -brand-short-name } bloquea muchos de esos rastreadores y otros elementos maliciosos.
+protection-report-webpage-title = Panel de protecciones
+protection-report-page-content-title = Panel de protecciones
+protection-report-page-summary = { -brand-short-name } puede proteger su privacidad entre bastidores mientras navega. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de su seguridad en línea.
+etp-card-title-always = Protección contra rastreo mejorada: siempre activa
+etp-card-title-custom-not-blocking = Protección contra rastreo mejorada: desactivada
+etp-card-content-summary = Cuando empresas desconocidas intentan seguirle en secreto por la web, { -brand-short-name } detiene automáticamente a muchas de ellas.
 protection-report-etp-card-content-custom-not-blocking = Todas las protecciones están desactivadas. Elija qué rastreadores bloquear cambiando la configuración de protección de { -brand-short-name }.
 protection-report-manage-protections = Administrar ajustes
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -115,6 +121,8 @@ monitor-header-content-no-account = Consulte { -monitor-brand-name } para ver si
 monitor-header-content-signed-in = { -monitor-brand-name } le advierte si su información ha aparecido en una filtración de datos conocida.
 monitor-sign-up = Suscribirse a las alertas de filtraciones
 auto-scan = Se escaneó automáticamente hoy
+monitor-emails-tooltip =
+    .title = Ver las direcciones de correo electrónico supervisadas en { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
