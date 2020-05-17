@@ -68,7 +68,7 @@ login-intro-heading = Փնտրո՞ւմ էք Ձեր պահպանած մուտքա
 about-logins-login-intro-heading-logged-in = Համաժամեցուած մուտքանուններ չեն գտնուել։
 login-intro-description = Եթե պահպանել էք Ձեր մուտքանունները { -brand-product-name }-ում այլ սարքում, ահա թե ինչպէս կարող էք ստանալ դրանք․
 login-intro-instruction-fxa = Ստեղծէք կամ մուտք գործէք { -fxaccount-brand-name } այն սարքում, որտեղ Ձեր մուտքանունները պահպանուած են
-login-intro-instruction-fxa-settings = Համոզվեք, որ ընտրել եք Ձեր Մուտքագրումների նշատուփը { -sync-brand-short-name }-ի կարգաւորումներում։
+login-intro-instruction-fxa-settings = Համոզվէք, որ ընտրել էք Ձեր Մուտքանունների նշատուփը { -sync-brand-short-name }-ի կարգաւորումներում։
 about-logins-intro-instruction-help = Լրացուցիչ օգնութեան համար այցելեք <a data-l10n-name="help-link">{ -lockwise-brand-short-name } աջակցել</a>։
 about-logins-intro-import = Եթե Ձեր մուտքանունները այլ զննարկիչում են պահպանուած, դուք կարող եք <a data-l10n-name="import-link">դրանք ներածեք { -lockwise-brand-short-name }</a>-ում
 
