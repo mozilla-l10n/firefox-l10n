@@ -62,6 +62,7 @@ ssl-error-rx-unexpected-certificate = SSL-ը անսպասելիաւրէն ստա
 ssl-error-rx-unexpected-server-key-exch = SSL-ը անսպասելիաւրէն ստացաւ Server Key Exchange կապի հաստատման հարցում։
 ssl-error-rx-unexpected-cert-request = SSL-ը անսպասելիաւրէն ստացաւ Certificate Request կապի հաստատման հաղորդագրութիւն։
 ssl-error-rx-unexpected-hello-done = SSL-ը ստացել է անսպասելի ձեռքսեղմման հաղորդակցութիւն՝ «Սպասարկչի Ողջոյնն արուած է»:
+ssl-error-rx-unexpected-cert-verify = SSL-ն անսպասելի ստացել է «Հաւաստագրի Հաստատում» ձեռքսեղղման հաղորդագրութիւնը։
 ssl-error-rx-unexpected-finished = SSL-ը անսպասելիաւրէն ստացաւ Finished կապակցման հաղորդագրութիւն։
 ssl-error-rx-unexpected-change-cipher = SSL-ը անսպասելիաւրէն ստացաւ Change Cipher Spec կապակցման հարցում։
 ssl-error-rx-unexpected-alert = SSL-ը ստացաւ անսպասելի Alert տուեալներ։
