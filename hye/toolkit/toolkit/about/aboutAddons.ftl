@@ -468,6 +468,8 @@ addon-badge-recommended2 =
 available-updates-heading = Առկայ թարմացումներ
 recent-updates-heading = Վերջին թարմացումները
 release-notes-loading = Բեռնում…
+release-notes-error = Թողարկման նշումները բեռնելիս սխալ է տեղի ունեցել։
+addon-permissions-empty = Այս ընդլայնումը թոյլատուութիւններ չի պահանջում
 
 ## Page headings
 
