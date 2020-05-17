@@ -232,6 +232,10 @@ translate-attribution = ਉਲੱਥਾ ਕੀਤਾ <img data-l10n-name="logo"/
 translate-exceptions =
     .label = …ਛੋਟ
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = ਤਾਰੀਖਾਂ, ਸਮੇਂ, ਨੰਬਰਾਂ ਅਤੇ ਮਾਪ ਲਈ “{ $localeName }” ਵਾਸਤੇ ਆਪਣੇ ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਨੂੰ ਵਰਤੋਂ।
 check-user-spelling =
     .label = ਲਿਖਦੇ ਵੇਲੇ ਸ਼ਬਦ ਜੋੜਾਂ ਦੀ ਜਾਂਚ ਨਾਲ ਦੀ ਨਾਲ ਕਰਦੇ ਰਹੋ
     .accesskey = t
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } ਵਰਤੋਂ (ਡਿਫਾਲਟ)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] macOS ਮੂਲ ਐਪਲੀਕੇਸ਼ਨ ਵਰਤੋਂ
+            [windows] ਵਿੰਡੋਜ਼ ਮੂਲ ਐਪਲੀਕੇਸ਼ਨ ਵਰਤੋਂ
+           *[other] ਸਿਸਟਮ ਮੂਲ ਐਪਲੀਕੇਸ਼ਨ ਵਰਤੋਂ
+        }
 applications-use-other =
     .label = …ਹੋਰ ਵਰਤੋਂ
 applications-select-helper = ਮਦਦਗਾਰ ਐਪਲੀਕੇਸ਼ਨ ਚੁਣੋ
@@ -305,6 +316,8 @@ applications-use-plugin-in =
     .label = { $plugin-name } ਵਰਤੋਂ ({ -brand-short-name } ਵਿੱਚ)
 applications-preview-inapp =
     .label = { -brand-short-name } ਵਿੱਚ ਝਲਕ
+applications-open-inapp =
+    .label = { -brand-short-name } ਵਿੱਚ ਖੋਲ੍ਹੋ
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -326,6 +339,8 @@ applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
