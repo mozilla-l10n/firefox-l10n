@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Fillojani
 onboarding-welcome-header = Mirë se vini te { -brand-short-name }
 onboarding-welcome-body = E morët shfletuesin.<br/>Njihuni me pjesën tjetër të { -brand-product-name }.
 onboarding-welcome-learn-more = Mësoni më tepër mbi përfitimet.
+onboarding-join-form-header = Bëhuni pjesë e { -brand-product-name }
 onboarding-welcome-modal-get-body = E keni shfletuesin.<br/>Tani përfitoni maksimumin prej { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Superngarkoni mbrojtjen e privatësisë tuaj.
 onboarding-welcome-modal-privacy-body = E keni shfletuesin. Le të shtojmë më tepër mbrojtje privatësie.
 onboarding-welcome-modal-family-learn-more = Mësoni rreth produkteve të familjes { -brand-product-name }.
 onboarding-welcome-form-header = Fillojani Këtu
-onboarding-join-form-header = Bëhuni pjesë e { -brand-product-name }
 onboarding-join-form-body = Që t’ia filloni, jepni adresën tuaj email.
 onboarding-join-form-email =
     .placeholder = Jepni email
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Shtoje Zgjerimin
 onboarding-import-browser-settings-title = Importoni Faqerojtësit Tuaj, Fjalëkalimet dhe Më Tepër
 onboarding-import-browser-settings-text = Mos humbni kohë—merrini lehtësisht me vete sajtet tuaj nga Chrome dhe rregullimet për të.
 onboarding-import-browser-settings-button = Importo të Dhëna Chrome
+onboarding-personal-data-promise-title = I konceptuar Privat
+onboarding-personal-data-promise-text = { -brand-product-name }-i i trajton të dhënat tuaja me respekt, duke marrë sa më pak prej tyre, duke i mbrojtur dhe duke shprehur qartë se si i përdorim.
+onboarding-personal-data-promise-button = Lexoni Premtimin tonë
 
 ## Message strings belonging to the Return to AMO flow
 
