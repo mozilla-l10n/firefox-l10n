@@ -340,6 +340,12 @@ header-back-button =
 
 ## Recommended add-ons page
 
+# Explanatory introduction to the list of recommended add-ons. The action word
+# ("recommends") in the final sentence is a link to external documentation.
+discopane-intro =
+    Ընդլայնումները եւ հիմնապատկերները նման են ձեր զննարկչի յաւելուածներին եւ թոյլատրում են պաշտպանել գաղտնաբառերը, ներբեռնել տեսանիւթեր, գտնել զեղչեր, արգելափակել նեարդայնացնող գովազդները, փոխել զննարկչի տեսքը եւ աւելին։ Այս փոքր ծրագրերը յաճախ մշակուում են երրորդ անձի կողմից։ Ահաւասիկ ընդլայնումների եւ հիմնապատկերների ընտրութիւն { -brand-product-name }
+    <a data-l10n-name="learn-more-trigger">որոնք առաջարկուում են </a> իրենց բացառիկ
+    անվտանգութեան, արդիւնաւէտութեան եւ գործունակութեան համար։
 
 ## Add-on actions
 
