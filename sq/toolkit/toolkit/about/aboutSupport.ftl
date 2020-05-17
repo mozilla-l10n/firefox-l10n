@@ -34,6 +34,7 @@ app-basics-title = Të dhëna bazë mbi Aplikacionin
 app-basics-name = Emër
 app-basics-version = Version
 app-basics-build-id = ID Montimi
+app-basics-distribution-id = ID Shpërndarjeje
 app-basics-update-channel = Kanal Përditësimi
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
