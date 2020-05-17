@@ -217,11 +217,15 @@ cfr-doorhanger-milestone-ok-button = ਸਾਰੇ ਵੇਖੋ
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = ਅਸਾਨੀ ਨਾਲ ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਬਣਾਓ
+cfr-whatsnew-lockwise-body = ਹਰ ਖਾਤੇ ਲਈ ਵਿਲੱਖਣ, ਸੁਰੱਖਿਅਤ ਪਾਸਵਰਡ ਸੋਚਣੇ ਔਖੇ ਹਨ। ਜਦੋਂ ਪਾਸਵਰਡ ਬਣਾਉਣਾ ਹੋਵੇ ਤਾਂ { -brand-shorter-name } ਵਲੋਂ ਸੁਰੱਖਿਅਤ ਤਿਆਰ ਕੀਤੇ ਪਾਸਵਰਡ ਨੂੰ ਵਰਤਣ ਲਈ ਪਾਸਵਰਡ ਖੇਤਰ ਨੂੰ ਚੁਣੋ।
 cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ਆਈਕਨ
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਲਵੋ
+cfr-whatsnew-passwords-icon-alt = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ ਕੁੰਜੀ ਆਈਕਾਨ
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਨੂੰ ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਲੈ ਜਾਓ
 cfr-whatsnew-pip-fullscreen-icon-alt = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਆਈਕਾਨ

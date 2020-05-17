@@ -208,6 +208,8 @@ browser-window-minimize-button =
     .tooltiptext = ਘੱਟੋ-ਘੱਟ
 browser-window-maximize-button =
     .tooltiptext = ਵੱਡਾ ਕਰੋ
+browser-window-restore-down-button =
+    .tooltiptext = ਬਹਾਲ ਕਰੋ
 browser-window-close-button =
     .tooltiptext = ਬੰਦ ਕਰੋ
 
@@ -223,6 +225,7 @@ popup-all-windows-shared = ਆਪਣੀ ਸਕਰੀਨ ਤੋਂ ਸਭ ਵਿ�
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 ਸ਼ਾਰਟਕੱਟ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ ਵੈੱਬ ਡਿਵੈਲਪਰ ਮੇਨੂ ਤੋਂ DevTools ਨੂੰ ਖੋਲ੍ਹੋ।
 
 ## URL Bar
 
