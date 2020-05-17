@@ -309,6 +309,7 @@ shortcuts-no-commands = Zgjerimet vijuese nuk kanë shkurtore:
 shortcuts-input =
     .placeholder = Shtypni një shkurtore
 shortcuts-browserAction = Aktivizoni zgjerimin
+shortcuts-browserAction2 = Aktivizoni buton paneli
 shortcuts-pageAction = Aktivizoni veprim faqeje
 shortcuts-sidebarAction = Shfaqni/fshihni anështyllën
 shortcuts-modifier-mac = Përfshi Ctrl, Alt, ose ⌘
