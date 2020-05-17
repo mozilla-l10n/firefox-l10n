@@ -119,6 +119,7 @@ cfr-whatsnew-lockwise-take-link-text = Ստանալ հաւելուածը
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Մուտքագրէք աւելի քիչ, աւելին կգտնէք հասցէի տողի հետ
+cfr-whatsnew-searchbar-body-topsites = Այժմ ընտրէք հասցէագաւտին, եւ սալիկը կընդլայնուի դէպի Ձեր գլխաւոր կայքեր յղումներով:
 
 ## Picture-in-Picture
 

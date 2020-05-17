@@ -27,6 +27,7 @@ customize-mode-extra-drag-space =
     .label = Քաշել բացատ
 customize-mode-lwthemes =
     .label = Ձեւաւորումներ
+customize-mode-overflow-list-description = Քաշէք եւ գցէք տարրերն այստեղ գործիքագաւտուց հեռու, բայց Ձեզ հասանելի պահելու համար
 customize-mode-uidensity-menu-normal =
     .label = Նորմալ
     .accesskey = N
