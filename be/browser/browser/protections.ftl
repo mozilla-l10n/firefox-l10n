@@ -39,6 +39,10 @@ etp-card-title = Узмоцненая ахова ад сачэння
 etp-card-content = Трэкеры ідуць за вамі па сеціве, каб сабраць інфармацыю пра вашыя звычкі і зацікаўленасці. { -brand-short-name } блакуе многія з гэтых трэкераў і іншых зламысных скрыптоў.
 protection-report-webpage-title = Панэль стану аховы
 protection-report-page-content-title = Панэль стану аховы
+protection-report-page-summary = { -brand-short-name } можа ахоўваць вашу прыватнасць за кадрам падчас аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
+etp-card-title-always = Узмоцненая ахова ад сачэння: заўсёды ўключана
+etp-card-title-custom-not-blocking = Узмоцненая ахова ад сачэння: ВЫКЛЮЧАНА
+etp-card-content-summary = Калі нераспазнаныя кампаніі спрабуюць таемна сачыць за вамі ў Інтэрнэце, { -brand-short-name } аўтаматычна спыняе многія з іх.
 protection-report-etp-card-content-custom-not-blocking = Усе меры аховы зараз адключаны. Выберыце, якія трэкеры трэба заблакаваць, кіруючы наладамі аховы { -brand-short-name }.
 protection-report-manage-protections = Кіраваць наладамі
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -66,10 +70,13 @@ mobile-app-card-content = Выкарыстоўвайце мабільны бра
 mobile-app-links = { -brand-product-name } Браўзер для <a data-l10n-name="android-mobile-inline-link">Android</a> і <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Больш ніколі не забывайце свой пароль
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Кіраванне паролямі
 lockwise-header-content = { -lockwise-brand-name } надзейна захоўвае вашы паролі ў вашым браўзеры.
 lockwise-header-content-logged-in = Бяспечна захоўвайце і сінхранізуйце паролі на ўсіх сваіх прыладах.
 protection-report-view-logins-button = Прагляд лагінаў
     .title = Перайсці да захаваных лагінаў
+protection-report-save-passwords-button = Захоўваць паролі
+    .title = Захоўваць паролі ў { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Вазьміце свае паролі ўсюды
 lockwise-no-logins-card-content = Выкарыстоўвайце паролі, захаваныя ў { -brand-short-name }, на любой прыладзе.
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> і <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
