@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = ਸਾਈਟ ਠੀਕ ਸੀ? ਰ
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = ਸਖ਼ਤ
+    .label = ਸਖ਼ਤ
+protections-popup-footer-protection-label-custom = ਕਸਟਮ
+    .label = ਕਸਟਮ
+protections-popup-footer-protection-label-standard = ਸਟੈਂਡਰਡ
+    .label = ਸਟੈਂਡਰਡ
 
 ##
 
