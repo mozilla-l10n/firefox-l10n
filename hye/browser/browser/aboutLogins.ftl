@@ -134,14 +134,14 @@ master-password-reload-button =
 
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Ձեզ պէտք են ձեր գաղտնաբառերը, որտեղ որ աւգտագործում եք { -brand-product-name }-ը։ Անցեք Ձեր { -sync-brand-short-name }-ի ընտրանքներին եւ ընտրեք Մուտքագրումներ նշատուփը:
-       *[other] Ձեզ պէտք են Ձեր գաղտնաբառերը, որտեղ որ աւգտագործում եք { -brand-product-name }-ը։ Անցեք Ձեր { -sync-brand-short-name }-ի նախապատուութիւններ եւ ընտրեք Մուտքագրումներ նշատուփը:
+        [windows] Ձեզ պէ՞տք են ձեր գաղտնաբառերն ամենուր, որտեղ աւգտագործում էք{ -brand-product-name }-ը։ Գնացէք Ձեր { -sync-brand-short-name }-ի Ընտրանքներ եւ ընտրէք Մուտքանունների նշատուփը:
+       *[other] Ձեզ պէ՞տք են ձեր գաղտնաբառերն ամենուր, որտեղ աւգտագործում էք{ -brand-product-name }-ը։ Գնացէք Ձեր { -sync-brand-short-name }-ի Նախընտրանքներ եւ ընտրէք Մուտքանունների նշատուփը:
     }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
-            [windows] Այցելեք { -sync-brand-short-name }-ի ընտրանքները
-           *[other] Այցելեք { -sync-brand-short-name }-ի նախապատուութիւնները
+            [windows] Այցելէք { -sync-brand-short-name }-ի ընտրանքներ
+           *[other] Այցելէք { -sync-brand-short-name }-ի Նախընտրանքեր
         }
     .accesskey = V
 about-logins-enable-password-sync-dont-ask-again-button =
@@ -156,13 +156,18 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = Հեռացնե՞լ այս մուտքանունը։
 confirm-delete-dialog-message = Այս գործողութիւնը չի կարող ետարկուել։
 about-logins-confirm-remove-dialog-confirm-button = Հեռացնել
-confirm-discard-changes-dialog-title = Մերժե՞լ չպահպանուած փոփոխութիւնները։
-confirm-discard-changes-dialog-message = Բոլոր չպահպանուած փոփոխութիւնները կկորչեն։
-confirm-discard-changes-dialog-confirm-button = Մերժել
+confirm-discard-changes-dialog-title = Անտեսե՞լ չպահպանուած փոփոխութիւնները։
+confirm-discard-changes-dialog-message = Բոլոր չպահպանուած փոփոխութիւնները կը կորչեն։
+confirm-discard-changes-dialog-confirm-button = Անտեսել
 
 ## Breach Alert notification
 
-breach-alert-text = Այս կայքի գաղտնաբառերը արտահոսուել կամ գողացուել են այն բանից յետոյ, երբ վերջին անգամ թարմացրել եք Ձեր մուտքի տուեալները։ Փոխեք Ձեր գաղտնաբառը՝ Ձեր հաշիւը պաշտպանելու համար։
+about-logins-breach-alert-title = Կայքի խախտում
+breach-alert-text = Այս կայքի գաղտնաբառերն արտահոսել կամ գողացուել են Ձեր մուտքի տուեալների վերջին թարմացումներից յետոյ։ Փոխէք գաղտնաբառը Ձեր հաշիւը պաշտպանելու համար։
+about-logins-breach-alert-date = Խախտումը տեղի է ունեցել { DATETIME($date, day: "numeric", month: "long", year: "numeric") } -ում
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Գնալ դէպի{ $hostname }
 about-logins-breach-alert-learn-more-link = Իմանալ աւելին
 
 ## Vulnerable Password notification
