@@ -173,10 +173,10 @@ about-logins-breach-alert-learn-more-link = Իմանալ աւելին
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Խոցելի գաղտնաբառ
-about-logins-vulnerable-alert-text2 = Այս գաղտնաբառը կարծես աւգտագործուել է այլ հաշուի կողմից։ Կրկնաւգտագործումը կարող ե վտանգել Ձեր բոլոր հաշիւները։ Փոխէք այս գաղտանաբռը։
+about-logins-vulnerable-alert-text2 = Այս գաղտնաբառն աւգտագործուել է այլ հաշուի կողմից, որի տուեալները հաւանաբար արտահոսել են։ Կրկնաւգտագործումը կարող է վտանգել Ձեր բոլոր հաշիւները։ Փոխէք  գաղտանաբառը։
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
-about-logins-vulnerable-alert-link = Գնալ դեպի { $hostname }
+about-logins-vulnerable-alert-link = Գնալ դէպի { $hostname }
 about-logins-vulnerable-alert-learn-more-link = Իմանալ աւելին
 
 ## Error Messages
@@ -185,6 +185,6 @@ about-logins-vulnerable-alert-learn-more-link = Իմանալ աւելին
 # a new login that is identical to an existing saved login.
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ի այդ անունով մուտքը արդէն գոյութիւն ունի։ <a data-l10n-name="duplicate-link">Գնա՞լ առկայ մուտքագրումները։</a>
+about-logins-error-message-duplicate-login-with-link = { $loginTitle }-ի այդ անունով մուտք արդէն գոյութիւն ունի։ <a data-l10n-name="duplicate-link"> Գնա՞լ դէպի առկայ մուտքագրումները։</a>
 # This is a generic error message.
 about-logins-error-message-default = Գաղտնաբառի պահման ժամանակ հայտնուեց սխալ։
