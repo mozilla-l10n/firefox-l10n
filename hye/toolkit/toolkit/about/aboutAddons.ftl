@@ -298,6 +298,17 @@ addon-open-about-debugging = Վրիպազերծել յաւելումները
 
 ## Extension shortcut management
 
+manage-extensions-shortcuts =
+    .label = Կառաւարել ընդլայնումների դիւրանցումը
+    .accesskey = S
+# This is displayed in the page options menu
+addon-manage-extensions-shortcuts = Կառաւարել ընդլայնումների դիւրանցումը
+    .accesskey = S
+shortcuts-no-addons = Որեւէ ընդյալնում միացուած չէ:
+shortcuts-no-commands = Հետեւեալ ընդլայնումները դիւրանցումներ չունեն։
+shortcuts-input =
+    .placeholder = Մուտքագրել դիւրացնում
+shortcuts-browserAction = Միացնել ընդլայնումը
 
 ## Recommended add-ons page
 
