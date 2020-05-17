@@ -77,6 +77,8 @@ protection-report-view-logins-button = Прагляд лагінаў
     .title = Перайсці да захаваных лагінаў
 protection-report-save-passwords-button = Захоўваць паролі
     .title = Захоўваць паролі ў { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Кіраваць паролямі
+    .title = Кіраваць паролямі ў { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Вазьміце свае паролі ўсюды
 lockwise-no-logins-card-content = Выкарыстоўвайце паролі, захаваныя ў { -brand-short-name }, на любой прыладзе.
 lockwise-app-links = { -lockwise-brand-name } для <a data-l10n-name="lockwise-android-inline-link">Android</a> і <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -89,6 +91,25 @@ lockwise-passwords-stored =
         [few] Паролі надзейна захаваны <a data-l10n-name="lockwise-how-it-works">Як гэта працуе</a>
        *[many] Паролі надзейна захаваны <a data-l10n-name="lockwise-how-it-works">Як гэта працуе</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 пароль, імаверна, выкрыты ў выніку ўцечкі дадзеных.
+        [few] { $count } паролі, імаверна, выкрыты ў выніку ўцечкі дадзеных.
+       *[many] { $count } пароляў, імаверна, выкрыта ў выніку ўцечкі дадзеных.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] Надзейна захоўваецца { $count } пароль.
+        [few] Вашы паролі надзейна захоўваюцца.
+       *[many] Вашы паролі надзейна захоўваюцца.
+    }
+lockwise-how-it-works-link = Як гэта працуе
 turn-on-sync = Уключыць { -sync-brand-short-name }…
     .title = Перайсці да налад сінхранізацыі
 manage-connected-devices = Кіраваць прыладамі…
