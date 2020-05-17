@@ -148,6 +148,8 @@ onboarding-import-browser-settings-title = Ներածէք Ձեր էջանիշե�
 onboarding-import-browser-settings-text = Մտէք անմիջապէս — եւ հեշտութեամբ վերցրէք Ձեր Chrome-ի կայքերը եւ կարգաւորումները:
 onboarding-import-browser-settings-button = Ներածէք Chrome-ի տուեալները
 onboarding-personal-data-promise-title = Նախագծուած է գաղտնիութիւնը պահպանելու համար
+onboarding-personal-data-promise-text = { -brand-product-name } -ը յարգանքով է վերաբերում Ձեր տուեալներին, աւգտագործում նուազագոյն չափով, պահպանում, եւ տեղեկացնում այն մասին, թե ինչպէս ենք աւգտուում դրանցից:
+onboarding-personal-data-promise-button = Կարդալ մեր խոստումը
 
 ## Message strings belonging to the Return to AMO flow
 
