@@ -23,7 +23,7 @@
 <!ENTITY spellCheckToggle.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(cap de mot suggerit)">
 <!ENTITY spellDictionaries.label "Lengas">
-<!ENTITY spellDictionaries.accesskey "g">
+<!ENTITY spellDictionaries.accesskey "L">
 
 <!ENTITY searchTextBox.clear.label "Voidar">
 
