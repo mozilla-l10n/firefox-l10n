@@ -53,6 +53,8 @@ policy-DontCheckDefaultBrowser = Անջատել կանխադրուած դիտա�
 policy-DownloadDirectory = Սահմանեք եւ կողպեք ներբեռնման պանակը։
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Միացնել կամ անջատել բովանդակութեան արգելափակումը եւ կամայականաւրէն կողպել այն։
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Միացնել կամ անջատել Գաղտնագրուած Միջավայրի Ընդլայնումները եւ կամայականաւրէն կողպել այն:
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
