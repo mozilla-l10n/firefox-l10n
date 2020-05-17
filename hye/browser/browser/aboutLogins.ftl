@@ -18,14 +18,14 @@ create-login-button = Ստեղծել նոր մուտքանուն
 fxaccounts-sign-in-text = Դարձրէք Ձեր գաղտնաբառերը հասանելի նաեւ Ձեր միւս սարքերում
 fxaccounts-sign-in-button = Մուտք գործել { -sync-brand-short-name }
 fxaccounts-avatar-button =
-    .title = Կառաւարել հաշիւը
+    .title = Կառավարել հաշիւը
 
 ## The ⋯ menu that is in the top corner of the page
 
 menu =
     .title = Բացել ցանկը
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Ներմուծում մեկ այլ զննարկիչից…
+about-logins-menu-menuitem-import-from-another-browser = Ներմուծել մեկ այլ զննարկիչից…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Ընտրանքներ
@@ -38,14 +38,14 @@ menu-menuitem-iphone-app = { -lockwise-brand-short-name }-ը iPhone-ի եւ iPad
 ## Login List
 
 login-list =
-    .aria-label = Մուտքագրումների համապատասխանութեան որոնման հարցում
+    .aria-label = Մուտքանուններ, որոնք համապատասխանում են որոնման հարցմանը
 login-list-count =
     { $count ->
-        [one] { $count } մուտքագրում
-       *[other] { $count } մուտքագրումներ
+        [one] { $count } մուտքանուն
+       *[other] { $count } մուտքանուններ
     }
-login-list-sort-label-text = Տեսակաւարել ըստ՝
-login-list-name-option = Անուան (Ա-Ֆ)
+login-list-sort-label-text = Տեսակաւորել ըստ՝
+login-list-name-option = Անուն (Ա-Ֆ)
 login-list-name-reverse-option = Անուան(Ֆ֊Ա)
 about-logins-login-list-alerts-option = Ծանուցումներ
 login-list-last-changed-option = Վերջին փոփոխութեան
