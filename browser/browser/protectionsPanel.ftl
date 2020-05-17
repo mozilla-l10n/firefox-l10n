@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Sajt i ndrequr? Dërgoni një rapo
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Strikte
+    .label = Strikte
+protections-popup-footer-protection-label-custom = Vetjake
+    .label = Vetjake
+protections-popup-footer-protection-label-standard = Standarde
+    .label = Standarde
 
 ##
 
