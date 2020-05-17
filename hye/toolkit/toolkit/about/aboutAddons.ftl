@@ -3,8 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 addons-window =
-    .title = Յաւելումների կառաւարում
-addons-page-title = Յաւելումների կառաւարում
+    .title = Յաւելումների կառավարում
+addons-page-title = Յաւելումների կառավարում
 search-header =
     .placeholder = Որոնել addons.mozilla.org֊ում
     .searchbuttonlabel = Որոնել
@@ -17,7 +17,7 @@ list-empty-installed =
 list-empty-available-updates =
     .value = Թարմացումներ չեն գտնուել
 list-empty-recent-updates =
-    .value = Վերջին շրջանում դուք չեք թարմացրել որեւէ յաւելում
+    .value = Վերջին շրջանում դուք չէք թարմացրել որեւէ յաւելում
 list-empty-find-updates =
     .label = Ստուգէք թարմացումների առկայութիւնը
 list-empty-button =
@@ -470,6 +470,26 @@ recent-updates-heading = Վերջին թարմացումները
 release-notes-loading = Բեռնում…
 release-notes-error = Թողարկման նշումները բեռնելիս սխալ է տեղի ունեցել։
 addon-permissions-empty = Այս ընդլայնումը թոյլատուութիւններ չի պահանջում
+recommended-extensions-heading = Առաջարկուող ընդլայնումներ
+recommended-themes-heading = Առաջարկուող հիմնապատկերներ
+# A recommendation for the Firefox Color theme shown at the bottom of the theme
+# list view. The "Firefox Color" name itself should not be translated.
+recommended-theme-1 = Ուզո՞ւմ էք ստեղծագործել: <a data-l10n-name="link">Կառուցէք Ձեր սեփական հիմնապատկերը Firefox Color-ի միջոցով։</a>
 
 ## Page headings
 
+extension-heading = Կառավարել Ձեր ընդլայնումները
+theme-heading = Կառաւարել հիմնապատկերները
+plugin-heading = Կառավարել ներդիրները
+dictionary-heading = Կառավարել բառարանները
+locale-heading = Կառավարել լեզուները
+updates-heading = Կառավարեք թարմացումները
+discover-heading = Անհատականացնել { -brand-short-name }-ը
+shortcuts-heading = Կառավարել ընդլայնման դիւրացումները
+theme-heading-search-label = Գտնել շատ հետնապատկերներ
+extension-heading-search-label = Գտնել շատ ընդլայնումներ
+default-heading-search-label = Գտնել շատ յաւելումներ
+addons-heading-search-input =
+    .placeholder = Որոնել  addons.mozilla.org֊ում
+addon-page-options-button =
+    .title = Գործիքներ բոլոր յաւելումների համար
