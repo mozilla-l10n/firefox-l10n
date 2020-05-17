@@ -202,6 +202,15 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode-label =
     .value = Ապահով աշխատակերպն անջատել է բոլոր յաւելումները:
+extensions-warning-safe-mode-container =
+    .tooltiptext = { extensions-warning-safe-mode-label.value }
+extensions-warning-check-compatibility-label =
+    .value = Յաւելումների համատեղելիութեան ստուգումն անջատուած է: Կարող են առկայ լինել անհամատեղելի յաւելումներ:
+extensions-warning-check-compatibility-container =
+    .tooltiptext = { extensions-warning-check-compatibility-label.value }
+extensions-warning-check-compatibility-enable =
+    .label = Միացնել
+    .tooltiptext = Միացնել յաւելման համատեղելիութեան ստուգումը
 
 ## Strings connected to add-on updates
 
