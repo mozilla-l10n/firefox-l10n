@@ -225,6 +225,7 @@ popup-all-windows-shared = Усе бачныя вокны на вашым экр
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Каб выкарыстаць клавішу F12, спачатку адкрыйце інструменты праз меню распрацоўшчыкаў сеціва.
 
 ## URL Bar
 

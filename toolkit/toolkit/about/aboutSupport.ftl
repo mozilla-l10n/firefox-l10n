@@ -34,6 +34,7 @@ app-basics-title = Асновы праграмы
 app-basics-name = Назва
 app-basics-version = Версія
 app-basics-build-id = ID зборкі
+app-basics-distribution-id = ID дыстрыбутыва
 app-basics-update-channel = Канал абнаўлення
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
