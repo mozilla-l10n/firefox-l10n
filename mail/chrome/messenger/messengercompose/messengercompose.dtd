@@ -339,7 +339,7 @@
 <!ENTITY attachCloud.label "Óriásfájl-küldés…">
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Átalakítás…">
-<!ENTITY convertCloud.accesskey "K">
+<!ENTITY convertCloud.accesskey "l">
 <!ENTITY cancelUpload.label "Feltöltés megszakítása">
 <!ENTITY cancelUpload.accesskey "F">
 <!ENTITY convertRegularAttachment.label "Normál melléklet">
