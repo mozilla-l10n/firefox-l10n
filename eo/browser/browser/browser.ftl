@@ -109,6 +109,8 @@ page-action-manage-extension =
     .label = Administri etendaĵon…
 page-action-remove-from-urlbar =
     .label = Forigi el adresa strio
+page-action-remove-extension =
+    .label = Forigi etendaĵon
 
 ## Auto-hide Context Menu
 

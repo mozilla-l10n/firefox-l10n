@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Malfermi menuon
-# This menuitem is only visible on Windows
-menu-menuitem-import = Enporti pasvortojn…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Enporti el alia retumilo…
 menu-menuitem-preferences =
@@ -49,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = Ordigi laŭ:
 login-list-name-option = Nomo (A-Z)
 login-list-name-reverse-option = Nomo (A-Z)
-login-list-breached-option = Retejoj kun datumfuĝoj
 login-list-last-changed-option = Laste modifita
 login-list-last-used-option = Last uzita
 login-list-intro-title = Neniu legitimilo trovita
@@ -107,17 +104,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Konfirmu vian identecon por modifi la konservitan legitimilon.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifi la konservitan legitimilon
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Konfiru vian identecon por malkaŝi la konservitan pasvorton.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = malkaŝi la konservitan pasvorton
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Konfirmu vian identecon por kopii la konservitan pasvorton.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopii la konservitan pasvorton
 
@@ -161,9 +158,14 @@ confirm-discard-changes-dialog-confirm-button = Ignori
 ## Breach Alert notification
 
 breach-alert-text = Pasvortoj estis elmetitaj aŭ ŝtelitaj el tiu ĉi retejo ekde via lasta ŝanĝo en la legitimilo. Ŝanĝu vian pasvorton por protekti vian konton.
-breach-alert-link = Pli da informo pri tiu ĉi datumfuĝo.
-breach-alert-dismiss =
-    .title = Fermi tiun ĉi atentigon
+about-logins-breach-alert-learn-more-link = Pli da informo
+
+## Vulnerable Password notification
+
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Iri al { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Pli da informo
 
 ## Error Messages
 
