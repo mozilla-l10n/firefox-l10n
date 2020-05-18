@@ -504,6 +504,8 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Nouda uudet viestit">
 <!ENTITY folderContextGetMessages.accesskey "N">
+<!ENTITY folderContextMarkAllFoldersRead.label "Merkitse kaikki kansiot luetuiksi">
+<!ENTITY folderContextMarkAllFoldersRead.accesskey "M">
 <!ENTITY folderContextOpenNewWindow.label "Avaa uuteen ikkunaan">
 <!ENTITY folderContextOpenNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Avaa uuteen välilehteen">
