@@ -12,6 +12,8 @@
 ### across the developer tools. A good criteria is the language in which you'd find the
 ### best documentation on web development on the web.
 
+# Header for the list of Service Workers displayed in the application panel for the current page.
+serviceworker-list-header = ਸਰਵਿਸ ਵਰਕਰ
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
@@ -36,11 +38,23 @@ serviceworker-worker-status = ਸਥਿਤੀ
 serviceworker-worker-status-running = ਚੱਲ ਰਿਹਾ ਹੈ
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = ਰੁਕਿਆ
+# Service Worker status. A registering service worker is not yet registered and cannot be
+# started or debugged.
+serviceworker-worker-status-registering = ਰਜਿਸਟਰ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ
 # Header for the Identity section of Manifest inspection displayed in the application panel.
 manifest-item-identity = ਪਛਾਣ
+# Header for the Presentation section of Manifest inspection displayed in the application panel.
+manifest-item-presentation = ਪੇਸ਼ਕਾਰੀ
 # Header for the Icon section of Manifest inspection displayed in the application panel.
 manifest-item-icons = ਆਈਕਨ
+# Text displayed as an error when there has been a Firefox DevTools error while
+# trying to load the manifest
+manifest-loaded-devtools-error = ਫਾਇਰਫਾਕਸ DevTools ਗਲਤੀ
 # Text displayed as the alt attribute for <img> tags showing the icons in the
 # manifest.
 manifest-icon-img =
     .alt = ਆਈਕਨ
+# Text for the ALT and TITLE attributes of the warning icon
+icon-warning =
+    .alt = ਚੇਤਾਵਨੀ ਚਿੰਨ੍ਹ
+    .title = ਚੇਤਾਵਨੀ

@@ -223,9 +223,11 @@ cfr-whatsnew-lockwise-icon-alt = { -lockwise-brand-short-name } ਆਈਕਨ
 ## Vulnerable Passwords message
 
 cfr-whatsnew-passwords-header = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡਾਂ ਬਾਰੇ ਚੇਤਾਵਨੀਆਂ ਲਵੋ
+cfr-whatsnew-passwords-body = ਹੈਕਰਾਂ ਨੂੰ ਪਤਾ ਹੈ ਕਿ ਲੋਕ ਇਕੋ ਪਾਸਵਰਡ ਵਾਰ-ਵਾਰ ਵਰਤਦੇ ਹਨ। ਜੇ ਤੁਸੀਂ ਇਕੋ ਪਾਸਵਰਡ ਕਈ ਸਾਈਤਾਂ ਲਈ ਵਰਤਿਆ ਹੈ ਅਤੇ ਉਹਨਾਂ ਸਾਈਟਾਂ ਵਿੱਚੋਂ ਇੱਕ ਡਾਟਾ ਸੰਨ੍ਹ ਵਿੱਚ ਸੀ ਤਾਂ ਤੁਹਾਨੂੰ ਉਹਨਾਂ ਸਾਈਟਾਂ ਉੱਤੇ ਆਪਣੇ ਪਾਸਵਰਡ ਨੂੰ ਬਦਲਣ ਲਈ { -lockwise-brand-short-name } ਵਿੱਚ ਚੇਤਾਵਨੀ ਮਿਲੇਗੀ।
 cfr-whatsnew-passwords-icon-alt = ਕਮਜ਼ੋਰ ਪਾਸਵਰਡ ਕੁੰਜੀ ਆਈਕਾਨ
 
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = ਤਸਵੀਰ-ਵਿੱਚ-ਤਸਵੀਰ ਨੂੰ ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਲੈ ਜਾਓ
+cfr-whatsnew-pip-fullscreen-body = ਜਦੋਂ ਤੁਸੀਂ ਵੀਡੀਓ ਨੂੰ ਤਰਦੀ ਵਿੰਡੋ ਵਿੱਚ ਅੱਡ ਕਰਦੇ ਹੋ ਤਾਂ ਹੁਣ ਤੁਸੀਂ ਉਸ ਵਿੰਡੋ ਉੱਤੇ ਦੋ ਵਾਰ ਕਲਿੱਕ ਕਰਕੇ ਪੂਰੀ ਸਕਰੀਨ ਉੱਤੇ ਭੇਜ ਸਕਦੇ ਹੋ।
 cfr-whatsnew-pip-fullscreen-icon-alt = ਤਸਵੀਰ-ਚ-ਤਸਵੀਰ ਆਈਕਾਨ
