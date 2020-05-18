@@ -203,6 +203,7 @@
 <!ENTITY dontShowMessage.label        "Visa inte detta meddelande när extrafönster blockeras">
 <!ENTITY dontShowMessage.accesskey    "i">
 
+<!ENTITY throbber.title "Aktivitetsikon">
 <!ENTITY throbber.tooltip2 "Gå till &brandShortName;s webbplats">
 
 <!ENTITY syncToolbarButton.label "Synk">
