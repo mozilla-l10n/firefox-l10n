@@ -858,23 +858,55 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeBlocked "Aplikacyjo &brandShortName; zaszperowała niyzabezpieczōne kōnski strōny.">
 <!ENTITY identity.description.passiveLoaded "Twoje połōnczynie niy ma prywatne. Na informacyje, kere wkludzosz na strōnie, może zaglōndać fto inkszy.">
 <!ENTITY identity.description.passiveLoaded2 "Ta strōna mo zawartość, co niy ma bezpieczno (bez przikłod ôbrozki).">
+<!ENTITY identity.description.passiveLoaded3 "Chocioż &brandShortName; poszperowoł moc zawartości, durch je na tyj strōnie jako niybezpieczno zawartość (bez przikłod ôbrozki).">
+<!ENTITY identity.description.activeLoaded "Strōna mo jako niyzabezpieczōno zawartość (bez przikłod skrypty), a twoje połōnczynie niy ma prywatne.">
+<!ENTITY identity.description.activeLoaded2 "Na informacyje (bez przikłod hasła, wiadōmości, nōmery płatowych kart), kere wkludzosz na tyj strōnie, może zaglōndać fto inkszy.">
+<!ENTITY identity.description.customRoot "Mozilla niy poznowo tego wydowcy cetryfikatu. Przidali go możno ôperacyjny systym abo administrator.">
+
+<!ENTITY identity.enableMixedContentBlocking.label "Załōncz ôchrōna">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "Z">
+<!ENTITY identity.disableMixedContentBlocking.label "Wyłōncz ôchrōna na teroz">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "W">
+<!ENTITY identity.learnMore "Przewiydz sie wiyncyj">
+
+<!ENTITY identity.removeCertException.label "Wyciep wyjōntek">
+<!ENTITY identity.removeCertException.accesskey "Y">
+
+<!ENTITY identity.moreInfoLinkText2 "Wiyncyj informacyji">
+
+<!ENTITY identity.clearSiteData "Wypucuj cookies i dane strōn…">
+
+<!ENTITY identity.permissions "Zgody">
+<!ENTITY identity.permissionsEmpty "Ta strōna niy dostała ôd ciebie żodnych nadbytnich zgodōw.">
+<!ENTITY identity.permissionsReloadHint "Może bydzie trza zaladować strōna jeszcze roz, coby wkludzić zmiany.">
+<!ENTITY identity.permissionsPreferences.tooltip "Ôdewrzij preferyncyje zgodōw">
+<!ENTITY identity.contentBlockingPreferences.tooltip "Ôdewrzij preferyncyje szperowanio zawartości">
 
 
-
-
-
-
-
+<!ENTITY protections.etpON.header "Polepszōno ôchrōna ôd śledzynio je załōnczōno na tyj strōnie">
+<!ENTITY protections.etpOFF.header "Polepszōno ôchrōna ôd śledzynio je wyłōnczōno na tyj strōnie">
 <!-- LOCALIZATION NOTE:
      protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!ENTITY protections.etpMoreInfo.label "Wiyncyj informacyji ô polepszōnyj ôchrōnie ôd śledzynio">
+<!ENTITY protections.settings.label "Nasztalowania ôchrōny">
+<!ENTITY protections.showreport.label "Pokoż raport">
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!ENTITY protections.siteNotWorking.label "Strōna niy funguje?">
+<!ENTITY protections.siteNotWorkingView.title "Strōna niy funguje?">
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+<!ENTITY protections.siteNotWorkingView.header "Wyłōncz ôchrōna, jak mosz problymy ze:">
+<!ENTITY protections.siteNotWorkingView.issueList.logInFields "Polami na logowanie">
+<!ENTITY protections.siteNotWorkingView.issueList.forms "Formularami">
+<!ENTITY protections.siteNotWorkingView.issueList.payments "Płatami">
+<!ENTITY protections.siteNotWorkingView.issueList.comments "Kōmyntorzami">
+<!ENTITY protections.siteNotWorkingView.issueList.videos "Filmami">
+<!ENTITY protections.siteNotWorkingView.sendReport.label "Poślij raport">
 
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
@@ -882,10 +914,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+<!ENTITY protections.blocking2.label "Zaszperowane">
+<!ENTITY protections.notBlocking2.label "Przizwōlōne">
+<!ENTITY protections.notFound.label "Żodnych znodniyntych">
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
+<!ENTITY protections.notBlocking.why.label "Po jakimu?">
+<!ENTITY protections.notBlocking.why.etpOn.tooltip "Skuli zaszperowanio tych elymyntōw niykere strōny mogōm niy fungować dobrze. Bez śledzōncych elymyntōw niykere knefle, formulary i pola na logowanie mogōm niy fungować.">
+<!ENTITY protections.notBlocking.why.etpOff2.tooltip "Wszyskie śledzōnce elymynty na tyj strōnie sōm zaladowane, bo ôchrōna ôd śledzynio je wyłōnczōno.">
+<!ENTITY protections.noTrackersFound.description "&brandShortName; niy znod na tyj strōnie żodnych poznanych śledzōncych elymyntōw.">
 
+<!ENTITY protections.crossSiteTrackingCookies.description "Te cookies idōm za tobōm miyndzy strōnami, coby zbiyrać dane ô tym, co robisz w internecie. Wystowiajōm je inksze firmy, bez przikłod takie ôd reklamy abo analizy danych.">
+<!ENTITY protections.cryptominers.description "Elymynty, co używajōm siyły rachowanio twojigo kōmputra, coby fedrować wirtualne piniōndze. Takie skrypty rozfolowujōm bateryjo, spōmalajōm kōmputer i mogōm zwiynkszyć płaty za sztrōm.">
+<!ENTITY protections.fingerprinters.description "Elymynty, co zbiyrajōm nasztalowania przeglōndarki i kōmputra, coby zrychtować twōj profil. Skuli takigo cyfrowego ôdciska palca mogōm iś za tobōm miyndzy roztōmajtymi strōnami.">
+<!ENTITY protections.trackingContent2.description "Strōny mogōm ladować zewnyntrzne reklamy, filmy i inkszo zawartość ze śledzōncym kodym. Skuli zaszperowanio śledzōncych elymyntōw strōny mogōm sie gibcyj ladować, ale niykere knefle, formulary i pola logowanio mogōm już niy fungować.">
+<!ENTITY protections.socialMediaTrackers.description "Społecznościowe serwisy dowajōm na swojich strōnach śledzōnce elymynty, coby zaglōndać na to, co robisz, widzisz i ôglōndosz w internecie. Skuli tego ich posiedziciele przewiadujōm sie ô ciebie wiyncyj jak to, co udostympniosz we tych serwisach.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
