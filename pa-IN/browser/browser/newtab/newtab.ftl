@@ -164,6 +164,10 @@ newtab-section-header-pocket = { $provider } ਵਲੋਂ ਸਿਫਾਰਸ਼�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ਬਰਾਊਜ਼ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਅਸੀਂ ਕੁਝ ਵਧੀਆ ਲੇਖ, ਵਿਡੀਓ ਤੇ ਤੁਹਾਡੇ ਵਲੋਂ ਖੋਲ੍ਹੋ ਗਏ ਜਾਂ ਬੁੱਕਮਾਰਕ ਕੀਤੇ ਹੋਰ ਸਫ਼ੇ ਇੱਥੇ ਦਿਖਾਵਾਂਗੇ।
+# Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
+# Variables:
+#  $provider (String): Name of the content provider for this section, e.g "Pocket".
+newtab-empty-section-topstories = ਤੁਸੀਂ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ। { $provider } ਵਲੋਂ ਹੋਰ ਕਹਾਣੀਆਂ ਲਈ ਬਾਅਦ ਵਿੱਚ ਵਾਪਸ ਚੈਕ ਕਰੀਓ। ਉਡੀਕ ਨਹੀਂ ਕਰ ਸਕਦੇ? ਤਾਂ ਫੇਰ ਵੈੱਬ ਉਤੋਂ ਹੋਰ ਵਧੀਆ ਕਹਾਣੀਆਂ ਵਾਸਤੇ ਹਰਮਨਪਿਆਰੇ ਵਿਸ਼ੇ ਨੂੰ ਚੁਣੋ।
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
