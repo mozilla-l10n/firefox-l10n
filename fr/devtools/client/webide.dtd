@@ -40,7 +40,6 @@
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "r">
 <!ENTITY runtimeMenu_showSettings_label "Paramètres de l’appareil">
 <!ENTITY runtimeMenu_showSettings_accesskey "a">
-
 <!ENTITY runtimeMenu_showPerformancePanel_label "Performances">
 <!ENTITY runtimeMenu_showPerformancePanel_accesskey "p">
 
@@ -54,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Ouvrir une application">
+
 <!ENTITY runtimeButton_label "Sélectionner l’environnement">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +77,6 @@
 <!ENTITY runtimePanel_usb "Périphériques USB">
 <!ENTITY runtimePanel_wifi "Périphériques Wi-Fi">
 <!ENTITY runtimePanel_other "Autres">
-<!ENTITY runtimePanel_noadbhelper "Installer ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Vous ne voyez pas votre appareil ?">
 <!ENTITY runtimePanel_refreshDevices_label "Actualiser les appareils">
 
@@ -120,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informations sur l’environnement">
-<!ENTITY runtimedetails_adbIsRoot "ADB possède les privilèges administrateur : ">
-<!ENTITY runtimedetails_summonADBRoot "appareils avec les privilèges administrateur">
-<!ENTITY runtimedetails_ADBRootWarning "(nécessite un bootloader débloqué)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilèges des outils de développement non restreints : ">
-<!ENTITY runtimedetails_requestPrivileges "Demander des privilèges supplémentaires">
-<!ENTITY runtimedetails_privilegesWarning "(Redémarrera l’appareil. Nécessite les privilèges administrateur.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Booléen">
@@ -155,17 +148,17 @@
 <!ENTITY wifi_auth_header "Identification client">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Le point de terminaison auquel vous tentez de vous connecter demande des informations supplémentaires pour authentifier cette connexion. Veuillez scanner le QR code ci-dessous via l’invite affichée sur l’autre appareil.">
+<!ENTITY wifi_auth_scan_request "Le point de terminaison auquel vous tentez de vous connecter demande des informations supplémentaires pour authentifier cette connexion. Veuillez scanner le code QR ci-dessous via l’invite affichée sur l’autre appareil.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Aucune invite pour scanner le code ?">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
-<!ENTITY wifi_auth_yes_scanner "Vous visualisez une invite pour scanner un QR code ?">
+<!ENTITY wifi_auth_yes_scanner "Vous visualisez une invite pour scanner un code QR ?">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Si l’autre appareil demande un jeton à la place d’un QR code, veuillez recopier la valeur ci-dessous sur l’autre appareil :">
-<!ENTITY wifi_auth_qr_size_note "Si le QR code semble trop petit pour que la connexion soit correctement établie, essayez de zoomer ou d’agrandir la fenêtre.">
+<!ENTITY wifi_auth_token_request "Si l’autre appareil demande un jeton à la place d’un code QR, veuillez recopier la valeur ci-dessous sur l’autre appareil :">
+<!ENTITY wifi_auth_qr_size_note "Si le code QR semble trop petit pour que la connexion soit correctement établie, essayez de zoomer ou d’agrandir la fenêtre.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Journaux de la commande de pré-empaquetage">
