@@ -232,6 +232,10 @@ translate-attribution = Tradukita de <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Esceptoj…
     .accesskey = s
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Uzi la agordojn de via mastruma sistemo por “{ $localeName }” por la formo de datoj, horoj, numeroj kaj mezuroj.
 check-user-spelling =
     .label = Kontroli literumadon dum tajpado
     .accesskey = t
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Uzi { $app-name } (ĉefa)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Uzi la norman programon de macOS
+            [windows] Uzi la norman programan de Windows
+           *[other] Uzi la norman programon de la sistemo
+        }
 applications-use-other =
     .label = Uzi alian…
 applications-select-helper = Elekti helpan programon
@@ -305,6 +316,8 @@ applications-use-plugin-in =
     .label = Uzi { $plugin-name } (en { -brand-short-name })
 applications-preview-inapp =
     .label = Antaŭvidi en { -brand-short-name }
+applications-open-inapp =
+    .label = Malfermi per { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -318,12 +331,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -789,6 +806,8 @@ forms-master-pw-fips-desc = Pasvorto malsukcese ŝanĝita
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Konfirmu vian identecon por krei ĉefan pasvorton.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Por krei ĉefan pasvorton vi devas tajpi vian legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
