@@ -933,24 +933,63 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
+<!ENTITY tabsToolbar.label "Karty przeglōndarki">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Synchrōnizowane karty">
 
+<!ENTITY syncedTabs.sidebar.label              "Synchrōnizowane karty">
 
+<!ENTITY syncBrand.shortName.label    "Sync">
 
+<!ENTITY syncSignIn.label             "Wloguj sie do &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "d">
+<!ENTITY syncSyncNowItem.label        "Synchrōnizuj teroz">
+<!ENTITY syncSyncNowItemSyncing.label "Synchrōnizacyjo…">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "Połōncz sie zaś ze usugōm &syncBrand.shortName.label;">
+<!ENTITY syncReAuthItem.accesskey     "r">
+<!ENTITY syncToolbarButton.label      "Synchrōnizacyjo">
 
+<!ENTITY customizeMode.autoHideDownloadsButton.label "Autōmatycznie skrywej">
 
+<!ENTITY getUserMedia.selectCamera.label "Kamera do udostympniynio:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "Mikrofōn do udostympniynio:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "Klang ze karty bydzie udostympniōny.">
+<!ENTITY getUserMedia.allWindowsShared.message "Wszyskie ôdkna widoczne na ekranie bydōm udostympniōne.">
 
+<!ENTITY contentBlocking.title "Szperowanie zawartości">
+<!ENTITY contentBlocking.detected "Na tyj strōnie je znodniynto zawartość do szperowanio.">
+<!ENTITY contentBlocking.notDetected "Na tyj strōnie niy była znodniynto żodno zawartość do szperowanio.">
 
+<!ENTITY contentBlocking.trackingProtection3.label "Śledzōnce elymynty">
 
+<!ENTITY contentBlocking.manageSettings.label "Regiyruj szperowaniym zawartości">
+<!ENTITY contentBlocking.manageSettings.accesskey "R">
 
+<!ENTITY contentBlocking.trackersView.label "Śledzōnce elymynty">
+<!ENTITY contentBlocking.trackersView.strictInfo.label 'Coby zaszperować wszyskie śledzōnce elemynty, dej szperowanie na "Sztryng".'>
 
+<!ENTITY contentBlocking.cookies.label "Cookies">
+<!ENTITY contentBlocking.cookiesView.label "Cookies i dane strōn">
 
+<!ENTITY contentBlocking.trackingProtection4.label "Śledzōnco zawartość">
 
+<!ENTITY contentBlocking.manageSettings2.label "Regiyruj nasztalowaniami ôchrōny">
+<!ENTITY contentBlocking.manageSettings2.accesskey "R">
 
+<!ENTITY contentBlocking.socialblock.label "Elymynty śledzōnce ôd społecznościowych serwisōw">
 
+<!ENTITY contentBlocking.cryptominers.label "Elymynty, co fedrujōm kryptopiniōndze">
+<!ENTITY contentBlocking.cryptominersView.label "Elymynty, co fedrujōm kryptopiniōndze">
 
+<!ENTITY contentBlocking.fingerprinters.label "Elymynty, co rychtujōm ôdcisk ôd przeglōndarki">
+<!ENTITY contentBlocking.fingerprintersView.label "Elymynty, co rychtujōm ôdcisk ôd przeglōndarki">
 
+<!ENTITY contentBlocking.openBreakageReportView2.label "Dej znać ô problymie">
+<!ENTITY contentBlocking.breakageReportView.label "Dej znać ô problymach">
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
