@@ -208,6 +208,8 @@ browser-window-minimize-button =
     .tooltiptext = Pienennä ikkuna
 browser-window-maximize-button =
     .tooltiptext = Suurenna
+browser-window-restore-down-button =
+    .tooltiptext = Palauta pienemmäksi ikkunaksi
 browser-window-close-button =
     .tooltiptext = Sulje
 
