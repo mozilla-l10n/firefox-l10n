@@ -315,6 +315,7 @@ shortcuts-no-commands = Folgende Erweiterungen verfügen über keine Tastenkombi
 shortcuts-input =
     .placeholder = Tastenkombination drücken
 shortcuts-browserAction = Aktion für Erweiterung aktivieren
+shortcuts-browserAction2 = Schaltfläche für Symbolleiste aktivieren
 shortcuts-pageAction = Aktion für Seite aktivieren
 shortcuts-sidebarAction = Sidebar umschalten
 shortcuts-modifier-mac = Mit Strg-, Alt- oder ⌘-Taste kombinieren
