@@ -452,7 +452,6 @@ addon-badge-private-browsing-allowed =
 addon-badge-private-browsing-allowed2 =
     .title = Թոյլատրուած է գաղտնի պատուհաններում
     .aria-label = { addon-badge-private-browsing-allowed2.title }
-addon-detail-private-browsing-help = Թոյլատրելու դէպքում, գաղտնի զննարկման ընթացքում, ընդլայնումը հասանելիութիւն  կունենայ ձեր առցանց գործունեութեանը: Իմանալ աւելին</a>
 addon-detail-private-browsing-allow = Թոյլատրել
 addon-detail-private-browsing-disallow = Չթոյլատրել
 # This is the tooltip text for the recommended badge for an extension in about:addons. The
