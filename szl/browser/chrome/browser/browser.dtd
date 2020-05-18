@@ -1010,22 +1010,54 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate5.label "Czasowo wyłōncz szperowanie">
+<!ENTITY trackingProtection.unblockPrivate5.accesskey "S">
+<!ENTITY trackingProtection.block6.label "Załōncz szperowanie na tyj strōnie">
+<!ENTITY trackingProtection.block6.accesskey "S">
+<!ENTITY trackingProtection.reload2.label "Przeladuj ôbroz">
+<!ENTITY trackingProtection.reload2.accesskey "P">
 
+<!ENTITY pluginNotification.showAll.label "Pokoż wszyskie">
+<!ENTITY pluginNotification.showAll.accesskey "W">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+<!ENTITY pluginNotification.width "28em">
 
 
+<!ENTITY uiTour.infoPanel.close "Zawrzij">
 
+<!ENTITY panicButton.thankyou.msg1                "Twoja historyjo je wypucowano.">
+<!ENTITY panicButton.thankyou.msg2                "Bezpiecznego przeglōndanio!">
+<!ENTITY panicButton.thankyou.buttonlabel         "Dziynkujymy!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "Przewiydz sie wiyncyj ô DRM…">
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.panelUI.label "Pobier aktualizacyjo aplikacyje &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Pobier nowo wersyjo aplikacyje &brandShorterName;">
+<!ENTITY updateUnsupported.panelUI.label "Dalsze aktualizacyje niy sōm dostympne">
+<!ENTITY updateRestart.panelUI.label2 "Zresztartuj, żeby zaktualizować aplikacyjo &brandShorterName;">
 
+<!ENTITY newTabControlled.header.message "Nowo karta je teroz zmiyniōno.">
+<!ENTITY newTabControlled.keepButton.label "Spamiyntej zmiany">
+<!ENTITY newTabControlled.keepButton.accesskey "S">
+<!ENTITY newTabControlled.disableButton.label "Wyłōncz rozszyrzynie">
+<!ENTITY newTabControlled.disableButton.accesskey "W">
 
+<!ENTITY homepageControlled.message "Rozszyrzynie zmiyniyło to, jak wyglōndo twoja dōmowo strōna. Jak niy chcesz tyj zmiany, to idzie wrōcić twoje ôstatnie nasztalowania.">
 
+<!ENTITY homepageControlled.header.message "Dōmowo strōna je teroz zmiyniōno.">
+<!ENTITY homepageControlled.keepButton.label "Spamiyntej zmiany">
+<!ENTITY homepageControlled.keepButton.accesskey "S">
+<!ENTITY homepageControlled.disableButton.label "Wyłōncz rozszyrzynie">
+<!ENTITY homepageControlled.disableButton.accesskey "W">
 
+<!ENTITY tabHideControlled.header.message "Dostymp do twojich skrytych kart">
+<!ENTITY tabHideControlled.keepButton.label "Ôstwo karty skryte">
 
 
 
