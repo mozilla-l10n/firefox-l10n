@@ -61,6 +61,8 @@ update-in-progress-cancel-button = &Trochgean
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Ferifiearje jo identiteit om in haadwachtwurd oan te meitsjen.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Fier jo oanmeldgegevens foar Windows yn om in haadwachtwurd yn te stellen. Hjirtroch wurdt de befeiliging fan jo accounts beskerme.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
