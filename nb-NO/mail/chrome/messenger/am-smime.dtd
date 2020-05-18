@@ -41,8 +41,17 @@
 
 
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Behandle S/MIME-sertifikater">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "S/MIME-sikkerhetsenheter">
+<!ENTITY manageDevices2.accesskey "e">
 
+<!ENTITY technologySMIME.label "Foretrekk S/MIME">
+<!ENTITY technologyOpenPGP.label "Foretrekk OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Håndter OpenPGP-nøkler">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Velg sertifikat">
