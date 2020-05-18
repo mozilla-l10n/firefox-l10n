@@ -37,8 +37,10 @@ etp-card-title = Proteccion contra lo seguiment renfortida
 etp-card-content = Los traçadors vos pistan en linha per reculhir d’informacions sus vòstras abituds de navegacion e vòstres interèsses. { -brand-short-name } bloca fòrça d’aqueles elements de seguiment e scripts malvolents.
 protection-report-webpage-title = Taula de bòrd de las proteccions
 protection-report-page-content-title = Taula de bòrd de las proteccions
+protection-report-page-summary = { -brand-short-name } pòt protegir vòstra vida privada en colissa pendent que navegatz. Vaquí un resumit d’aquelas proteccions, que conten d’aisinas per contrarotlar vòstre seguretat en linha.
 etp-card-title-always = Proteccion renfortida contra lo seguiment : totjorn activada
 etp-card-title-custom-not-blocking = Proteccion renfortida contra lo seguiment : DESACTIVADA
+etp-card-content-summary = Quand de companhiás desconegudas ensajan de vos seguir secrètament pel monde, { -brand-short-name } n’arrèsta automaticament un molon d’aquelas.
 protection-report-etp-card-content-custom-not-blocking = Actualament totas las proteccions son desactivadas. Causissètz quins traçadors blocar en gerir vòstres paramètres de proteccion de { -brand-short-name }.
 protection-report-manage-protections = Gerir los paramètres
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -119,6 +121,12 @@ monitor-header-content-no-account = Consultatz { -monitor-brand-name } per verif
 monitor-header-content-signed-in = { -monitor-brand-name } vos avisa se vòstras informacions apareisson dins una pèrda de donadas coneguda.
 monitor-sign-up = S’inscriure a las alèrtas de pèrdas de donadas
 auto-scan = Automaticament verificat uèi
+monitor-emails-tooltip =
+    .title = Veire las adreças electronicas sus { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Veire las divulgacions de donadas conegudas sus { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Veire los senhals esbrudits sus { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
