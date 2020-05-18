@@ -139,7 +139,7 @@ search-one-offs-context-set-as-default =
     .label = Постави као подразумевани претраживач
     .accesskey = т
 search-one-offs-context-set-as-default-private =
-    .label = Поставите као задани претраживач за приватно претраживање
+    .label = Поставите као подразумевани претраживач за приватни Windows
     .accesskey = П
 
 ## Bookmark Panel
@@ -225,6 +225,7 @@ popup-all-windows-shared = Сви видљиви прозори на екран�
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Да бисте користили пречицу F12, прво отворите DevTools преко Web Developer менија.
 
 ## URL Bar
 
