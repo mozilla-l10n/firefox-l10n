@@ -808,6 +808,9 @@ forms-master-pw-fips-desc = Ændring af adgangskode mislykkedes
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Bekræft din identitet for at oprette en hovedadgangskode.
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Indtast dine login-informationer til Windows for at oprette en hovedadgangskode. Dette hjælper med at beskytte dine kontis sikkerhed.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
