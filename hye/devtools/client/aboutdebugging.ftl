@@ -206,6 +206,10 @@ about-debugging-extension-uuid =
 # displaying the location of the temporary extension.
 about-debugging-extension-location =
     .label = Տեղադրութիւն
+# Text displayed for extensions in "runtime" pages, before displaying the extension's ID.
+# For instance "geckoprofiler@mozilla.com" or "{ed26ddcb-5611-4512-a89a-51b8db81cfb2}".
+about-debugging-extension-id =
+    .label = Ընդլայնման նոյնացուցիչ
 # This string is displayed as a label of the button that pushes a test payload
 # to a service worker.
 # Notes, this relates to the "Push" API, which is normally not localized so it is
@@ -228,8 +232,29 @@ about-debugging-worker-action-unregister = Ապագրանցել
 about-debugging-worker-fetch-listening =
     .label = Դուրս բերում
     .value = Դուրս բերման իրադարձութիւնների լսում
+# Displayed for service workers in runtime pages that are currently running (service
+# worker instance is active).
+about-debugging-worker-status-running = Աշխատեցում
+# Displayed for service workers in runtime pages that are registered but stopped.
+about-debugging-worker-status-stopped = Կանգնեցուած
 # Displayed for service workers in runtime pages that are registering.
 about-debugging-worker-status-registering = Գրանցում
 # Displayed for service workers in runtime pages, to label the scope of a worker
 about-debugging-worker-scope =
     .label = Շրջանակ
+# Displayed for service workers in runtime pages, to label the push service endpoint (url)
+# of a worker
+about-debugging-worker-push-service =
+    .label = Սեղմման ծառայութիւն
+# Displayed as name for the Main Process debug target in the Processes category. Only for
+# remote runtimes, if `devtools.aboutdebugging.process-debugging` is true.
+about-debugging-main-process-name = Հիմնական գործընթաց
+# Alt text used for the close icon of message component (warnings, errors and notifications).
+about-debugging-message-close-icon =
+    .alt = Փակել հաղորդագրութիւնը
+# Label text used for the error details of message component.
+about-debugging-message-details-label-error = Սխալի մանրամասնութիւններ
+# Label text used for the warning details of message component.
+about-debugging-message-details-label-warning = Զգուշացման մանրամասնութիւններ
+# Label text used for default state of details of message component.
+about-debugging-message-details-label = Մանրամասնութիւններ
