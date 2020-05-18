@@ -128,10 +128,6 @@ newtab-label-removed-bookmark = Էջանիշը հեռացուել է
 newtab-label-recommended = Միտում
 newtab-label-saved = Պահպանուած է { -pocket-brand-name }-ում
 newtab-label-download = Ներբեռնուած է
-# This string is used in the story cards to indicate sponsored content
-# Variables:
-#  $sponsorOrSource (String): This is the name of a company or their domain
-newtab-label-sponsored = Հովանաւորուած
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
