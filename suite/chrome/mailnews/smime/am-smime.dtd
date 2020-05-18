@@ -7,7 +7,7 @@
 <!ENTITY securityHeading.label "Az aláírt vagy titkosított üzenetek küldéséhez és fogadásához meg kell adnia a digitális aláírási és a titkosítási tanúsítványokat.">
 <!ENTITY encryptionGroupTitle.label "Titkosítás">
 <!ENTITY encryptionChoiceLabel.label "Titkosítás használata üzenetek küldésekor:">
-<!ENTITY neverEncrypt.label "Soha">
+<!ENTITY neverEncrypt.label "Soha (ne használjon titkosítást)">
 <!ENTITY neverEncrypt.accesskey "S">
 <!ENTITY alwaysEncryptMessage.label "Mindig (ne engedje feladni az üzenetet, ha nincs minden címzettnek tanúsítványa)">
 <!ENTITY alwaysEncryptMessage.accesskey "M">
