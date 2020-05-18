@@ -70,7 +70,7 @@ captivePortal-title = 네트워크에 로그인
 # "Hmm" is a sound made when considering or puzzling over something.
 # You don't have to include it in your translation if your language does not have a written word like this.
 malformedURI-title = 주소가 올바르지 않습니다.
-netInterrupt-title = 연결이 끊어짐
+netInterrupt-title = 연결이 중단되었습니다
 notCached-title = 문서 만료
 netOffline-title = 오프라인 모드
 contentEncodingError-title = 콘텐츠 인코딩 오류
