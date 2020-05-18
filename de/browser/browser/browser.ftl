@@ -208,6 +208,8 @@ browser-window-minimize-button =
     .tooltiptext = Minimieren
 browser-window-maximize-button =
     .tooltiptext = Maximieren
+browser-window-restore-down-button =
+    .tooltiptext = Verkleinern
 browser-window-close-button =
     .tooltiptext = Schließen
 
@@ -223,6 +225,7 @@ popup-all-windows-shared = Alle sichtbaren Fenster auf dem Bildschirm werden wei
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Um die F12-Taste einzusetzen, müssen erst die Entwicklerwerkzeuge über das Menü "Web-Entwickler" geöffnet werden.
 
 ## URL Bar
 
