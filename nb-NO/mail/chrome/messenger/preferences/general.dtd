@@ -42,3 +42,6 @@
 <!ENTITY addSearchEngine.accesskey        "e">
 <!ENTITY removeSearchEngine.label         "Fjern">
 <!ENTITY removeSearchEngine.accesskey     "e">
+
+<!ENTITY minimizeToTray.label             "Når &brandShortName; er minimert, flytt den til systemstatusfeltet">
+<!ENTITY minimizeToTray.accesskey         "m">
