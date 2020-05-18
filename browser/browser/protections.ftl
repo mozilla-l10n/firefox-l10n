@@ -35,6 +35,8 @@ protection-report-page-title = Privatsphäre-Schutzmaßnahmen
 protection-report-content-title = Privatsphäre-Schutzmaßnahmen
 etp-card-title = Verbesserter Tracking-Schutz (Schutz vor Aktivitätenverfolgung)
 etp-card-content = Skripte zur Aktivitätenverfolgung (Online-Tracker) folgen Ihnen über Websites hinweg und sammeln Informationen über Ihre Browser-Gewohnheiten und Interessen. { -brand-short-name } blockiert viele dieser Skripte zur Aktivitätenverfolgung und andere böswillige Skripte.
+etp-card-title-always = Verbesserter Tracking-Schutz: Immer an
+etp-card-title-custom-not-blocking = Verbesserter Tracking-Schutz: AUS
 protection-report-etp-card-content-custom-not-blocking = Derzeit sind alle Schutzmaßnahmen deaktiviert. Die zu blockierenden Elemente zur Aktivitätenverfolgung können in den Schutzmaßnahmen-Einstellungen von { -brand-short-name } festgelegt werden.
 protection-report-manage-protections = Einstellungen verwalten
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -62,6 +64,7 @@ mobile-app-card-content = Verwenden Sie den mobilen Browser mit eingebautem Schu
 mobile-app-links = { -brand-product-name }-Browser für <a data-l10n-name="android-mobile-inline-link">Android</a> und <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Nie wieder ein Passwort vergessen
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Passwortverwaltung
 lockwise-header-content = { -lockwise-brand-name } speichert Passwörter sicher in Ihrem Browser.
 lockwise-header-content-logged-in = Speichern Sie Passwörter sicher und synchronisieren Sie diese mit allen Ihren Geräten.
 protection-report-view-logins-button = Zugangsdaten anzeigen
