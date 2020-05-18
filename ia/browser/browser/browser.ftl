@@ -225,7 +225,7 @@ popup-all-windows-shared = Tote le fenestras visibile super tu schermo essera co
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Pro usar le via breve de claviero F12, aperir primo le instrumentos de disveloppamento per le “Menu disveloppamento Web”.
+enable-devtools-popup-description = Pro usar le clave de accesso directe F12, aperi primo le instrumentos de disveloppamento per le menu “Disveloppamento Web”.
 
 ## URL Bar
 
