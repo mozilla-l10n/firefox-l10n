@@ -19,6 +19,14 @@ certificate-viewer-email-address = Адреса е-поште
 # Variables:
 #   $firstCertName (String) - Common Name for the displayed certificate
 certificate-viewer-tab-title = Сертификат за { $firstCertName }
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-country = Држава оснивања
+certificate-viewer-country = Држава
+certificate-viewer-curve = Крива
+certificate-viewer-distribution-point = Тачка расподеле
+certificate-viewer-dns-name = DNS име
+certificate-viewer-ip-address = IP адреса
+certificate-viewer-other-name = Друго име
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
