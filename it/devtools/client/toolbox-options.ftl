@@ -103,6 +103,8 @@ options-enable-chrome-tooltip =
 options-enable-remote-label = Attiva debug remoto
 options-enable-remote-tooltip =
     .title = Attivando questa opzione è possibile utilizzare gli strumenti di sviluppo per effettuare il debug su istanze remote come Firefox OS
+options-enable-remote-tooltip2 =
+    .title = Attivando questa opzione è possibile effettuare il debug remoto di questa istanza del browser
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = Attiva service worker via HTTP (quando la cassetta degli attrezzi è aperta)
 options-enable-service-workers-http-tooltip =
