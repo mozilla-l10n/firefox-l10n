@@ -109,6 +109,8 @@ page-action-manage-extension =
     .label = Կառավարել ընդլայնումը...
 page-action-remove-from-urlbar =
     .label = ՀԵռացնել Հասցեագոտուց
+page-action-remove-extension =
+    .label = Հեռացնել ընդլայնումը
 
 ## Auto-hide Context Menu
 
@@ -204,6 +206,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Փոքրացնել
+browser-window-maximize-button =
+    .tooltiptext = Առավելացնել
+browser-window-restore-down-button =
+    .tooltiptext = Վերականգնել ներքև
 browser-window-close-button =
     .tooltiptext = Փակել
 
@@ -219,6 +225,7 @@ popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհ
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 դյուրանցումը օգտագործելու համար առաջին հերթին բացեք DevTools-ը Վեբ մշակողի ցանկի միջոցով:
 
 ## URL Bar
 

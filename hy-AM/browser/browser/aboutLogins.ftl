@@ -24,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Բացել ցանկը
-# This menuitem is only visible on Windows
-menu-menuitem-import = Ներմուծել գաղտնաբառեր...
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ներմուծել այլ դիտարկիչից...
 menu-menuitem-preferences =
@@ -49,7 +47,7 @@ login-list-count =
 login-list-sort-label-text = Տեսակավարել ըստ՝
 login-list-name-option = Անվան (Ա-Ֆ)
 login-list-name-reverse-option = Անվան (Ա-Ֆ)
-login-list-breached-option = Խախտված կայքեր
+about-logins-login-list-alerts-option = Զգուշացումներ
 login-list-last-changed-option = Վերջին փոփոխության
 login-list-last-used-option = Վերջին օգտագործման
 login-list-intro-title = Մուտքագրումներ չկան
@@ -61,6 +59,8 @@ login-list-item-subtitle-new-login = Նշեք մուտքագրման տվյալ�
 login-list-item-subtitle-missing-username = (չկա օգտվողի անուն)
 about-logins-list-item-breach-icon =
     .title = Խախտված կայք
+about-logins-list-item-vulnerable-password-icon =
+    .title = Խոցելի գաղտնաբառ
 
 ## Introduction screen
 
@@ -107,17 +107,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Ստուգեք ձեր ինքնությունը ՝ պահպանված մուտքը խմբագրելու համար:
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = խմբագրել պահպանված մուտքանունը
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Ստուգեք ձեր ինքնությունը`պահպանված գաղտնաբառը բացահայտելու համար:
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = բացահայտել պահպանված գաղտնաբառը
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Ստուգեք ձեր ինքնությունը`պահպանված գաղտնաբառը պատճենելու համար:
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = պատճենեք պահպանված գաղտնաբառը
 
@@ -160,10 +160,21 @@ confirm-discard-changes-dialog-confirm-button = Մերժել
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Վեբ կայքի խախտում
 breach-alert-text = Այս կայքի գաղտնաբառերը արտահոսք են կամ գողացել են այն բանից հետո, երբ վերջին անգամ թարմացրել եք ձեր մուտքի տվյալները: Փոխեք ձեր գաղտնաբառը ՝ ձեր հաշիվը պաշտպանելու համար:
-breach-alert-link = Իմանալ ավելին այս խախտման մասին։
-breach-alert-dismiss =
-    .title = Փակել այս ահազանգը
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Անցնել { $hostname }-ին
+about-logins-breach-alert-learn-more-link = Իմանալ ավելին
+
+## Vulnerable Password notification
+
+about-logins-vulnerable-alert-title = Խոցելի գաղտնաբառ
+about-logins-vulnerable-alert-text2 = Այս գաղտնաբառը օգտագործվել է մեկ այլ հաշվի վրա, որը, հավանաբար, տվյալների խախտման մեջ էր: Վկայագրերից օգտվելը ձեր բոլոր հաշիվները ռիսկի է ենթարկում: Փոխեք այս գաղտնաբառը:
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Անցնել { $hostname }-ին
+about-logins-vulnerable-alert-learn-more-link = Իմանալ ավելին
 
 ## Error Messages
 
