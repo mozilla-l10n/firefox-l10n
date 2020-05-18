@@ -974,6 +974,7 @@ content-blocking-warning-title = Achtung!
 content-blocking-warning-description = Das Blockieren von Inhalten kann bei einigen Websites zu Problemen führen. Das Deaktivieren des Blockierens für von Ihnen vertraute Seiten ist ganz einfach.
 content-blocking-learn-how = Erfahren Sie mehr
 content-blocking-etp-warning-description = Das Blockieren von Skripten zur Aktivitätenverfolgung kann Auswirkungen auf das Funktionieren einiger Websites haben. Laden Sie eine Seite einschließlich Skripten zur Aktivitätenverfolgung neu, damit der komplette Inhalte geladen wird.
+content-blocking-and-isolating-etp-warning-description = Das Blockieren von Skripten zur Aktivitätenverfolgung und das Isolieren von Cookies kann Auswirkungen auf das Funktionieren einiger Websites haben. Laden Sie eine Seite einschließlich Skripten zur Aktivitätenverfolgung neu, damit der komplette Inhalte geladen wird.
 content-blocking-warning-learn-how = Weitere Informationen
 content-blocking-reload-description = Um die Änderungen anzuwenden, müssen alle Tabs neu geladen werden.
 content-blocking-reload-tabs-button =
