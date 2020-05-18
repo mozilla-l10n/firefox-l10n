@@ -5,7 +5,7 @@
 sync-disconnect-dialog =
     .title = Від'єднатися від { -sync-brand-short-name(case: "dat") }?
     .style = width: 36em; min-height: 35em;
-sync-disconnect-heading = Ви хочете також вилучити дані { -brand-short-name } на цьому комп'ютері? В будь-якому випадку, ваші дані { -sync-brand-name(case: "gen") } все одно залишаться в обліковому записі.
+sync-disconnect-heading = Ви хочете також вилучити дані браузера на цьому комп'ютері? В будь-якому випадку, ваші дані { -sync-brand-name(case: "gen") } все одно залишаться в обліковому записі.
 sync-disconnect-remove-sync-caption = Вилучити дані { -sync-brand-name(case: "gen") }
 sync-disconnect-remove-sync-data = Закладки, історія, паролі та інші дані
 sync-disconnect-remove-other-caption = Вилучити інші особисті дані

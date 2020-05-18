@@ -57,7 +57,7 @@ cookie-tab-content = Ці куки переслідують вас від одн
 tracker-tab-title = Вміст стеження
 tracker-tab-description = Вебсайти можуть завантажувати зовнішню рекламу, відео, а також інший вміст з кодом стеження. Блокування такого вмісту може допомогти сайтам швидше завантажуватись, але при цьому деякі кнопки, поля форм і входів можуть не працювати. <a data-l10n-name="learn-more-link">Докладніше</a>
 fingerprinter-tab-title = Зчитування цифрового відбитка
-fingerprinter-tab-content = Засоби зчитування цифрового відбитка збирають дані про налаштування вашого { -brand-short-name } і комп'ютера, з метою створення вашого профілю. Використовуючи такий цифровий відбиток, вони можуть стежити за вами на багатьох різних вебсайтах. <a data-l10n-name="learn-more-link">Докладніше</a>
+fingerprinter-tab-content = Засоби зчитування цифрового відбитка збирають дані про налаштування вашого браузера та комп'ютера, з метою створення вашого профілю. Використовуючи такий цифровий відбиток, вони можуть стежити за вами на багатьох різних вебсайтах. <a data-l10n-name="learn-more-link">Докладніше</a>
 cryptominer-tab-title = Криптомайнери
 cryptominer-tab-content = Криптомайнери використовують ресурси вашої системи для створення цифрових грошей. Криптомайнингові скрипти споживають заряд вашого акумулятора, сповільнюють роботу комп'ютера, а також можуть збільшити ваші витрати на електроенергію. <a data-l10n-name="learn-more-link">Докладніше</a>
 protections-close-button =
@@ -66,12 +66,12 @@ protections-close-button2 =
     .aria-label = Закрити
     .title = Закрити
 mobile-app-title = Блокуйте рекламне стеження на всіх пристроях
-mobile-app-card-content = Використовуйте мобільний { -brand-short-name } із вбудованим захистом від стеження.
+mobile-app-card-content = Використовуйте мобільний браузер із вбудованим захистом від стеження.
 mobile-app-links = { -brand-product-name } для <a data-l10n-name="android-mobile-inline-link">Android</a> та <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Ніколи більше не забувайте пароль
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Керування паролями
-lockwise-header-content = { -lockwise-brand-name } безпечно зберігає ваші паролі в { -brand-short-name }.
+lockwise-header-content = { -lockwise-brand-name } безпечно зберігає ваші паролі в браузері.
 lockwise-header-content-logged-in = Безпечно зберігайте й синхронізуйте свої паролі на всіх пристроях.
 protection-report-view-logins-button = Перегляд записів
     .title = Перейти до збережених паролів
