@@ -67,10 +67,45 @@ certificate-viewer-business-category = Категорија пословања
 certificate-viewer-subject-name = Име предмета
 certificate-viewer-issuer-name = Име издавача
 certificate-viewer-validity = Ваљаност
+certificate-viewer-subject-alt-names = Алтернативна имена предмета
+certificate-viewer-public-key-info = Информације о јавном кључу
+certificate-viewer-miscellaneous = Разно
+certificate-viewer-fingerprints = Отисци прстију
+certificate-viewer-basic-constraints = Основна ограничења
+certificate-viewer-key-usages = Употребе кључа
+certificate-viewer-extended-key-usages = Проширене употребе кључа
+certificate-viewer-ocsp-stapling = OCSP потврђивање
+certificate-viewer-subject-key-id = ID кључа предмета
+certificate-viewer-authority-key-id = ID кључа сертификационог тела
+certificate-viewer-authority-info-aia = Подаци сертификационог тела (AIA)
+certificate-viewer-certificate-policies = Сертификационе политике
+certificate-viewer-embedded-scts = Уграђени SCTs
+certificate-viewer-crl-endpoints = Крајње тачке CRL-а
+# This message is used as a row header in the Miscellaneous section. 
+# The associated data cell contains links to download the certificate.
+certificate-viewer-download = Преузми
+# This message is used to replace boolean values (true/false) in several certificate fields, e.g. Certificate Authority
+# Variables:
+#   $boolean (String) - true/false value for the specific field
+certificate-viewer-boolean =
+    { $boolean ->
+        [true] Да
+       *[false] Не
+    }
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
 
+certificate-viewer-download-pem = PEM (сертификат)
+    .download = { $fileName }.pem
+certificate-viewer-download-pem-chain = PEM (ланац)
+    .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Ово проширење је означено као критично, што значи да би купци требало да одбаце сертификат ако га не разумеју.
+certificate-viewer-export = Извоз
+    .download = { $fileName }.pem
 
 ## Labels for tabs displayed in stand-alone about:certificate page
 
+certificate-viewer-tab-mine = Ваши сертификати
