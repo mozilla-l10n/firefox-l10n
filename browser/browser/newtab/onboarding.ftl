@@ -96,7 +96,7 @@ onboarding-private-browsing-text = Насолоджуйтесь користув
 onboarding-screenshots-title = Знімки екрану
 onboarding-screenshots-text = Легко робіть знімки області чи цілої сторінки. Зберігайте в мережі й обмінюйтесь знімками екрану безпосередньо в { -brand-short-name }.
 onboarding-addons-title = Додатки
-onboarding-addons-text = Додавайте більше функцій до { -brand-short-name }, щоб задовольнити свої потреби. Порівнюйте ціни, перевіряйте погоду, або змінюйте зовнішній вигляд { -brand-short-name } за допомогою тем, щоб зробити його особливим.
+onboarding-addons-text = Додайте більше функцій до { -brand-short-name }, щоб задовольнити свої потреби. Порівнюйте ціни, перевіряйте погоду, або змінюйте зовнішній вигляд браузера за допомогою тем, щоб зробити його особливим.
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Завантажуйте сторінки швидше, кмітливіше та безпечніше, за допомогою таких розширень, як Ghostery, що дозволяють блокувати надокучливу рекламу.
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
