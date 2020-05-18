@@ -22,7 +22,7 @@
 <!ENTITY showHideTooltips.accesskey             "Z">
 
 <!ENTITY showHideGrippies.label                 "Skrýt úchopy panelu nástrojů">
-<!ENTITY showHideGrippies.accesskey             "G">
+<!ENTITY showHideGrippies.accesskey             "S">
 
 <!ENTITY pref.locales.title                     "Jazyk uživatelského rozhraní">
 <!ENTITY selectLocale.label                     "Zvolte jazyk, ve kterém se mají zobrazovat texty dialogů, nabídek, nástrojových lišt a tlačítek:">
