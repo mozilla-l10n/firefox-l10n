@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Страница је поправ
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Строго
+    .label = Строго
+protections-popup-footer-protection-label-custom = Прилагођено
+    .label = Прилагођено
+protections-popup-footer-protection-label-standard = Стандардно
+    .label = Стандардно
 
 ##
 
