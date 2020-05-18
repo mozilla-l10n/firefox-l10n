@@ -34,7 +34,7 @@
 <!ENTITY notCached.title "문서 만료">
 <!ENTITY notCached.longDesc "<p>요청하신 문서는 브라우저 캐시에서 사용할 수 없습니다.</p><ul><li>보안 예방책으로 브라우저는 자동으로 민감한 문서를 다시 요청하지 않습니다.</li><li>웹 사이트에서 문서를 다시 요청하려면 다시 시도를 누르세요.</li></ul>">
 
-<!ENTITY netOffline.title "오프라인 상태">
+<!ENTITY netOffline.title "오프라인 모드">
 <!ENTITY netOffline.longDesc2 "<p>브라우저가 오프라인 모드에서 작업 중이며 요청한 항목에 연결할 수 없습니다.</p><ul><li>컴퓨터가 활성화된 네트워크에 연결되어 있습니까?</li><li>&quot;다시 시도&quot;를 눌러 온라인 모드로 전환하고 페이지를 다시 로드하세요.</li></ul>">
 
 <!ENTITY contentEncodingError.title "콘텐츠 인코딩 오류">
