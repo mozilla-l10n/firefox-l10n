@@ -26,4 +26,4 @@ error-long-desc4 = Robot mempunyai kulit metal berkilau yang bukan untuk dirusak
 error-trailer-desc-text = Dan mereka punya rencana.
 # Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him.
 error-try-again = Coba Lagi
-    .label2 = Mohon tidak mengklik tombol ini lagi.
+    .label2 = Mohon tidak mengeklik tombol ini lagi.

@@ -107,21 +107,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifikasikan identitas Anda untuk mengedit info masuk tersimpan.
 # This message can be seen when attempting to edit a login in about:logins on Windows.
-about-logins-edit-login-os-auth-dialog-message-win = Untuk mengubah log masuk Anda, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+about-logins-edit-login-os-auth-dialog-message-win = Untuk mengubah info masuk Anda, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = mengedit info masuk tersimpan
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk mengungkapkan kata sandi tersimpan.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Untuk melihat kata sandi Anda, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+about-logins-reveal-password-os-auth-dialog-message-win = Untuk melihat kata sandi Anda, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mengungkapkan kata sandi tersimpan
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk menyalin kata sandi tersimpan.
 # This message can be seen when attempting to copy a password in about:logins on Windows.
-about-logins-copy-password-os-auth-dialog-message-win = Untuk menyalin kata sandi Anda, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+about-logins-copy-password-os-auth-dialog-message-win = Untuk menyalin kata sandi Anda, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = menyalin kata sandi tersimpan.

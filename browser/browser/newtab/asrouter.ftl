@@ -223,5 +223,5 @@ cfr-whatsnew-passwords-icon-alt = Ikon kunci kata sandi yang rentan
 ## Picture-in-Picture fullscreen message
 
 cfr-whatsnew-pip-fullscreen-header = Buat tayangan gambar-dalam-gambar menjadi layar penuh
-cfr-whatsnew-pip-fullscreen-body = Saat Anda memasukkan video ke jendela mengambang, sekarang Anda dapat mengklik dua kali pada jendela itu untuk memenuhi layar.
+cfr-whatsnew-pip-fullscreen-body = Saat Anda menjadikan video sebagai jendela mengambang, sekarang Anda dapat mengeklik ganda jendelanya agar memenuhi layar.
 cfr-whatsnew-pip-fullscreen-icon-alt = Ikon gambar-dalam-gambar

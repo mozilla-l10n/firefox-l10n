@@ -791,7 +791,7 @@ forms-master-pw-fips-desc = Sandi Gagal Diubah
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verifikasikan identitas Anda untuk membuat Kata Sandi Utama.
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message-win = Untuk membuat Kata Sandi Utama, masukkan kredensial log masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
+master-password-os-auth-dialog-message-win = Untuk membuat Kata Sandi Utama, masukkan kredensial info masuk Windows Anda. Hal ini membantu melindungi keamanan akun Anda.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
