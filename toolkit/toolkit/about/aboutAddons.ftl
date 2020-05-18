@@ -306,6 +306,7 @@ shortcuts-no-commands = La jenaj etendaĵoj ne havas alirklavojn:
 shortcuts-input =
     .placeholder = Tajpu alirklavon
 shortcuts-browserAction = Aktivigi etendaĵon
+shortcuts-browserAction2 = Aktivigi ilaran butonon
 shortcuts-pageAction = Aktivigi paĝan agon
 shortcuts-sidebarAction = Montri/kaŝi flankan strion
 shortcuts-modifier-mac = Inkluzivi Stir, Alt aŭ ⌘
