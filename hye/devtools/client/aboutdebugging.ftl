@@ -106,9 +106,24 @@ about-debugging-setup-usb-status-disabled = Անջատուած
 about-debugging-setup-usb-status-updating = Թարմացուում է…
 # USB section step by step guide
 about-debugging-setup-usb-step-enable-dev-menu2 = Միացրէք մշակողի ցանկը Ձեր Android սարքում։
+# USB section step by step guide
+about-debugging-setup-usb-step-enable-debug-firefox2 = Միացնել USB կարգաբերումը Firefox- ում Android սարքի վրայ:
+# USB section step by step guide
+about-debugging-setup-usb-step-plug-device = Միացրեք Android սարքը Ձեր համակարգչին։
+# Text shown in the USB section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/docs/Tools/Remote_Debugging/Debugging_over_USB
+about-debugging-setup-usb-troubleshoot = USB սարքին միացնելիս խնդիրներ են առաջացել։ <a>Խափանաշտկել</a>
+# Network section of the Setup page
+about-debugging-setup-network =
+    .title = Ցանցի գտնուելու վայրը
+# Text shown in the Network section of the setup page with a link to troubleshoot connection errors.
+# The link goes to https://developer.mozilla.org/en-US/docs/Tools/Remote_Debugging/Debugging_over_a_network
+about-debugging-setup-network-troubleshoot = Ցանցի գտնուելու վայրի հետ կապուած խնդիրներ։<a>Խափանաշտկում</a>
 # Text of a button displayed after the network locations "Host" input.
 # Clicking on it will add the new network location to the list.
 about-debugging-network-locations-add-button = Աւելացնել
+# Text to display when there are no locations to show.
+about-debugging-network-locations-empty-text = Ցանցի վայրեր դեռ չէն աւելացուել։
 # Text of the label for the text input that allows users to add new network locations in
 # the Connect page. A host is a hostname and a port separated by a colon, as suggested by
 # the input's placeholder "localhost:6080".
@@ -119,12 +134,23 @@ about-debugging-network-locations-remove-button = Հեռացնել
 
 # Runtime Page strings
 
+# Below are the titles for the various categories of debug targets that can be found
+# on "runtime" pages of about:debugging.
+# Title of the temporary extensions category (only available for "This Firefox" runtime).
+about-debugging-runtime-temporary-extensions =
+    .name = Ժամանակաւոր ընդլայնումներ
+# Title of the extensions category.
+about-debugging-runtime-extensions =
+    .name = Ընդլայնումներ
 # Title of the tabs category.
 about-debugging-runtime-tabs =
     .name = Ներդիրներ
 # Title of the service workers category.
 about-debugging-runtime-service-workers =
     .name = Ծառաիւթեան աշխատողներ
+# Title of the shared workers category.
+about-debugging-runtime-shared-workers =
+    .name = Համաւգտագործուող աշխատողներ
 # Title of the other workers category.
 about-debugging-runtime-other-workers =
     .name = Այլ աշխատողներ
@@ -141,9 +167,31 @@ about-debugging-runtime-name = { $name } ({ $version })
 # Text of a button displayed in Runtime pages for remote runtimes.
 # Clicking on the button will close the connection to the runtime.
 about-debugging-runtime-disconnect-button = Անջատել
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is false on the target runtime.
+about-debugging-connection-prompt-enable-button = Միացնել յուշման միացումը
+# Text of the connection prompt button displayed in Runtime pages, when the preference
+# "devtools.debugger.prompt-connection" is true on the target runtime.
+about-debugging-connection-prompt-disable-button = Անջատել յուշման միացումը
+# Title of a modal dialog displayed on remote runtime pages after clicking on the Profile Runtime button.
+about-debugging-profiler-dialog-title2 = Հատկագրիչ
+# Clicking on the header of a debug target category will expand or collapse the debug
+# target items in the category. This text is used as ’title’ attribute of the header,
+# to describe this feature.
+about-debugging-collapse-expand-debug-targets = Կոծկել / Ընդարձակել
 
 # Debug Targets strings
 
+# Displayed in the categories of "runtime" pages that don't have any debug target to
+# show. Debug targets depend on the category (extensions, tabs, workers...).
+about-debugging-debug-target-list-empty = Դեռ ոչինչ։
+# Text of a button displayed next to debug targets of "runtime" pages. Clicking on this
+# button will open a DevTools toolbox that will allow inspecting the target.
+# A target can be an addon, a tab, a worker...
+about-debugging-debug-target-inspect-button = Ստուգել
+# Text of a button displayed in the "This Firefox" page, in the Temporary Extension
+# section. Clicking on the button will open a file picker to load a temporary extension
+about-debugging-tmp-extension-install-button = Բեռնել ժամանակաւոր յաւելում…
 # Text of a button displayed for a temporary extension loaded in the "This Firefox" page.
 # Clicking on the button will reload the extension.
 about-debugging-tmp-extension-reload-button = Վերբեռնել
