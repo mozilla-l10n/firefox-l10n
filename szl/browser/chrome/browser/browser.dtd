@@ -990,11 +990,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.openBreakageReportView2.label "Dej znać ô problymie">
 <!ENTITY contentBlocking.breakageReportView.label "Dej znać ô problymach">
+<!ENTITY contentBlocking.breakageReportView2.description "Skuli szperowanio zawartości mogōm sie pokozać problymy z niykerymi strōnami. Jak dosz znać ô problymach, pōmoże to, coby &brandShortName; bōł lepszy do wszyskich. (Poślesz bez to do Mozille adresa URL i informacyjo ô nasztalowaniach twojij przeglōndarki)">
+<!ENTITY contentBlocking.breakageReportView.learnMore "Przewiydz sie wiyncyj">
 
+<!ENTITY contentBlocking.breakageReportView.title "Dej znać ô strōnie, co niy funguje">
+<!ENTITY contentBlocking.breakageReportView3.description "Skuli zaszperowanio jednych śledzōncych elymyntōw mogōm pokozać sie problymy z niykerymi strōnami. &brandShortName; bydzie lepszy do wszyskich, jak bydziesz dować znać ô takich problymach. Z raportym pudzie do Mozille informacyjo ô adresie URL i nasztalowaniach tyj przeglōndarki.">
+<!ENTITY contentBlocking.breakageReportView2.learnMore "Przewiydz sie wiyncyj">
+<!ENTITY contentBlocking.breakageReportView.collection.url.label "Adresa URL">
+<!ENTITY contentBlocking.breakageReportView.collection.comments.label "Jakie problymy sie pokozały? (niy trza)">
+<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "Ôpis problymu (niy trza)">
+<!ENTITY contentBlocking.breakageReportView.sendReport.label "Poślij raport">
+<!ENTITY contentBlocking.breakageReportView.cancel.label "Pociep">
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock5.label "Wyłōncz szperowanie na tyj strōnie">
+<!ENTITY trackingProtection.unblock5.accesskey "W">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
