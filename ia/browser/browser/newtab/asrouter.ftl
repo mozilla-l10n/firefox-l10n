@@ -119,7 +119,7 @@ cfr-whatsnew-lockwise-take-link-text = Obtener le application
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Scribe minus, trova plus con le barra de adresse
-cfr-whatsnew-searchbar-body-topsites = Si tu selige le barra del adresses, apparera un lista de ligamines a tu sitos principal.
+cfr-whatsnew-searchbar-body-topsites = Ora, selige le barra de adresse, e un quadro apparera con un lista de ligamines a tu sitos principal.
 cfr-whatsnew-searchbar-icon-alt-text = Icone de lupa
 
 ## Picture-in-Picture
@@ -211,14 +211,14 @@ cfr-doorhanger-milestone-ok-button = Vider toto
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Crea facilemente contrasignos secur
-cfr-whatsnew-lockwise-body = Trovar un contrasigno unic e secur pro cata conto es difficile. Quando tu crea de un nove contrasigno, selige le campo de contrasigno pro usar un contrasigno secur, generate automaticamente per { -brand-shorter-name }.
+cfr-whatsnew-lockwise-body = Trovar un contrasigno unic e secur pro cata conto es difficile. Quando tu crea un nove contrasigno, selige le campo de contrasigno pro usar un contrasigno secur, generate automaticamente per { -brand-shorter-name }.
 cfr-whatsnew-lockwise-icon-alt = Icone de { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
-cfr-whatsnew-passwords-header = Recipe un aviso in caso de contrasigno vulnerabile
+cfr-whatsnew-passwords-header = Recipe un aviso in caso de contrasignos vulnerabile
 cfr-whatsnew-passwords-body = Le piratas informatic sape que le gente reusa le mesme contrasignos. Si tu usa le mesme contrasigno in sitos differente e un de iste sitos es implicate in un violation de datos, tu videra un aviso in { -lockwise-brand-short-name } pro cambiar tu contrasigno in tote iste sitos.
-cfr-whatsnew-passwords-icon-alt = Icone de un clave de contrasigno vulnerabile
+cfr-whatsnew-passwords-icon-alt = Icone de clave pro contrasigno vulnerabile
 
 ## Picture-in-Picture fullscreen message
 

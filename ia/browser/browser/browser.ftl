@@ -221,7 +221,7 @@ popup-select-camera =
 popup-select-microphone =
     .value = Microphono a compartir:
     .accesskey = M
-popup-all-windows-shared = Tote le fenestras visibile super tu schermo essera compartite.
+popup-all-windows-shared = Tote le fenestras visibile sur tu schermo essera compartite.
 
 ## DevTools F12 popup
 
