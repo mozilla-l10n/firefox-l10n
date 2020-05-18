@@ -21,6 +21,8 @@
 <!ENTITY showHideTooltips.label                 "Näytä työkaluvihjeet">
 <!ENTITY showHideTooltips.accesskey             "N">
 
+<!ENTITY showHideGrippies.label                 "Piilota työkalurivin otteet">
+
 <!ENTITY pref.locales.title                     "Ohjelman kieli">
 <!ENTITY selectLocale.label                     "Valitse ohjelman kieli:">
 

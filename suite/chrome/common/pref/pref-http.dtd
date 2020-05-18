@@ -20,3 +20,7 @@
 <!ENTITY prefLightningShow.label             "Mainosta Lightning-asennusta">
 <!ENTITY prefLightningShow.accesskey         "L">
 <!ENTITY prefCompatWarning                   "VAROITUS: Näiden asetusten käytöstä poistamisen seurauksena verkkosivustot tai palvelut eivät ehkä toimi kunnolla.">
+<!ENTITY prefFirefoxStrict.accesskey         "I">
+<!ENTITY prefFirefoxNone.accesskey           "M">
+<!ENTITY prefFirefoxCompat2.accesskey        "F">
+<!ENTITY prefCompatWarning2.desc             "VAROITUS: Näiden asetusten muuttamisen seurauksena verkkosivustot tai palvelut eivät ehkä toimi kunnolla.">
