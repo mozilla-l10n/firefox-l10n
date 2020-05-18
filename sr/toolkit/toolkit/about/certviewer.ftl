@@ -64,6 +64,9 @@ certificate-viewer-timestamp = Временска ознака
 certificate-viewer-value = Вредност
 certificate-viewer-version = Верзија
 certificate-viewer-business-category = Категорија пословања
+certificate-viewer-subject-name = Име предмета
+certificate-viewer-issuer-name = Име издавача
+certificate-viewer-validity = Ваљаност
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
