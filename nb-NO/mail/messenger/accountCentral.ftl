@@ -26,3 +26,7 @@ chat-description = { -brand-short-name } lar deg koble til flere direktemeldings
 filelink-label = Filelink
     .aria-label = Konfigurer Filelink
 filelink-description = { -brand-short-name } lar deg sette opp en praktisk filelink-sky-konto for enkelt å sende store vedlegg.
+newsgroups-label = Temagrupper
+    .aria-label = Koble til en temagruppe
+newsgroups-description = { -brand-short-name } lar deg koble til alle temagruppene du ønsker.
+e2e = Ende-til-ende-kryptering
