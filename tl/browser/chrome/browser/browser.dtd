@@ -90,7 +90,6 @@ this container is a toolbar. This avoids double-speaking. -->
 
 <!ENTITY pageSourceCmd.label "Source Code ng Pahina">
 <!ENTITY pageSourceCmd.accesskey "o">
-
 <!ENTITY pageSourceCmd.commandkey "u">
 <!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
 Option+Command keyboard shortcut letter that Safari and Chrome use for "View
@@ -101,7 +100,6 @@ convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Impormasyon tungkol sa Pahina">
 <!ENTITY pageInfoCmd.accesskey "I">
-
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY ldbCmd.label "Layout Debugger">
 <!ENTITY ldbCmd.accesskey "L">
@@ -127,9 +125,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignInError.label "Muling kumonekta sa &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "I-verify ang Iyong Account">
 
-
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
 
 <!ENTITY fullScreenMinimize.tooltip "i-Minimize">
 <!ENTITY fullScreenRestore.tooltip "Ibalik">
@@ -219,7 +214,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Mga Bookmark">
 <!ENTITY bookmarksMenu.accesskey "B">
-
 <!ENTITY bookmarkThisPageCmd.label "i-Bookmark ang Pahinang Ito">
 <!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -244,10 +238,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.accesskey          "R">
 <!ENTITY stopCmd.label                "Itigil">
 <!ENTITY stopCmd.accesskey            "S">
-
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
+
 <!ENTITY printButton.label            "I-print">
 <!ENTITY printButton.tooltip          "I-limbag ang pahina na ito">
 
@@ -295,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ipakita ang kasaysayan">
+
 
 <!ENTITY searchItem.title             "Hanapin">
 
@@ -359,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Manage Containers">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -418,7 +414,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Ibalik ang Nakaraang Session">
 
 <!ENTITY showAllHistoryCmd2.label "Ipakita ang Lahat ng Kasaysayan">
-
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuHistory.showAll.label "Ipakita ang Lahat na Kasaysayan">
@@ -599,7 +594,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ipakita lang ang Frame na ito">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
-
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "I-load ang Frame muli">
 <!ENTITY reloadFrameCmd.accesskey     "l">
@@ -639,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "I-save sa Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "I-save ang Page sa Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "I-save ang Link sa Pocket">
@@ -651,7 +648,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
-<!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "I-Save ang Frame Bilang…">
 <!ENTITY saveFrameCmd.accesskey       "F">
@@ -693,7 +689,7 @@ context menu items are mutually exclusive. -->
 Location" and "Copy Email Address" should be the same if possible; the two
 context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "E">
-<!ENTITY thisFrameMenu.label              "Eto ang Frame">
+<!ENTITY thisFrameMenu.label              "Ang Frame na Ito">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
@@ -755,20 +751,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomEnlargeCmd.label       "Palakihin">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Paliitin">
 <!ENTITY fullZoomReduceCmd.accesskey    "O">
-
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "I-reset">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
-
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
@@ -792,7 +785,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Isara">
-
 <!ENTITY closeCmd.key                   "W">
 <!ENTITY closeCmd.accesskey             "C">
 
@@ -818,7 +810,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Switch Text Direction">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
-
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "Hanapin sa Pahinang Ito…">
@@ -848,19 +839,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connection "Koneksyon">
 <!ENTITY identity.connectionSecure "I-secure ang Koneksyon">
 <!ENTITY identity.connectionNotSecure "Hindi Sigurado ang Koneksyon">
-
-<!ENTITY identity.connectionSecure3 "Matibay na Koneksyon">
-<!ENTITY identity.connectionNotSecure2 "Di Matibay na Koneksyon">
-<!ENTITY identity.connectionNotSecureSecurityView "Ikaw ay hindi ligtas na nakakonekta sa site na ito.">
 <!ENTITY identity.connectionFile "Ang pahinang ito ay naka-imbak sa iyong computer.">
 <!ENTITY identity.connectionVerified2 "Malayo kang konektado sa site na ito, na pag-aari ng:">
-<!ENTITY identity.connectionVerified3 "Ikaw ay ligtas na nakakonekta sa site na ito.">
 <!ENTITY identity.connectionInternal "Ito ay secure na &brandShortName; na pahina.">
 <!ENTITY identity.extensionPage "Ang pahinang ito ay nai-load mula sa isang extension.">
 <!ENTITY identity.insecureLoginForms2 "Ang mga pag-login na ipinasok sa pahinang ito ay maaaring makompromiso.">
 <!ENTITY identity.customRoot "Ang connection ay na-verify ng isang certificate issuer na hindi kinikilala ng Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Inisyu ang certificate kay:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; Na-block ang mga bahagi ng pahinang ito na hindi ligtas.">
@@ -895,8 +879,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.clearSiteData "Burahin ang mga Cookie at Site Data…">
 
 <!ENTITY identity.permissions "Pahintulot">
-
-<!ENTITY identity.permissions3 "Mga Pahintulot">
 <!ENTITY identity.permissionsEmpty "Hindi mo ipinagkaloob ang site na ito anumang espesyal na pahintulot.">
 <!ENTITY identity.permissionsReloadHint "Maaaring kailangan mong i-reload ang pahina para mag-aplay ang mga pagbabago.">
 <!ENTITY identity.permissionsPreferences.tooltip "Buksan ang Mga Kagustuhan sa mga Permission">
@@ -1046,6 +1028,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Isarado">
 
