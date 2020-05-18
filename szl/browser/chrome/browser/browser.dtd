@@ -68,6 +68,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY importFromAnotherBrowserCmd.label "Importuj z inkszyj przeglōndarki…">
 <!ENTITY importFromAnotherBrowserCmd.accesskey "I">
 
+<!ENTITY taskManagerCmd.label "Mynedżer zadań">
 
 <!ENTITY goOfflineCmd.label "Rōb offline">
 <!ENTITY goOfflineCmd.accesskey "f">
