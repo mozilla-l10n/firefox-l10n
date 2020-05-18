@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Abrir a página">
+
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
 
@@ -268,7 +269,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir painel de mensagem de instalação">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduzir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerenciar tradução da página">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso do software DRM">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerenciar o uso de software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Abrir o painel MIDI">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Você bloqueou sua câmera neste site.">
@@ -632,6 +633,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Salvar no Pocket">
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Salvar página no Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Salvar link no Pocket">
