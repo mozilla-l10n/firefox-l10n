@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Aldoni legosignon por tiu ĉi paĝo
-    .accesskey = l
 main-context-menu-bookmark-add =
     .aria-label = Aldoni legosignon por tiu ĉi paĝo
     .accesskey = l
@@ -317,3 +314,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Pli da informo pri DRM…
     .accesskey = i
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = Sciigi pri novaj trajtoj
