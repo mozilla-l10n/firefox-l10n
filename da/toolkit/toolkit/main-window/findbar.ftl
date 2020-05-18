@@ -28,7 +28,7 @@ findbar-case-sensitive =
 
 findbar-match-diacritics =
     .label = Diakritiske tegn
-    .accesskey = D
+    .accesskey = k
     .tooltiptext = Skeln mellem bogstaver med og uden accenttegn (når du fx søger efter "allé", bliver "alle" ikke fremhævet)
 
 findbar-entire-word =
