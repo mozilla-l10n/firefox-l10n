@@ -2,8 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-# Localized string used as the dialog window title (a new behavior locked
-# behind the "extensions.abuseReport.openDialog" preference).
+# Localized string used as the dialog window title.
 # "Report" is a noun in this case, "Report for AddonName".
 #
 # Variables:
@@ -45,7 +44,10 @@ abuse-report-messagebar-action-cancel = ਰੱਦ ਕਰੋ
 
 abuse-report-damage-reason = ਮੇਰੇ ਕੰਪਿਊਟਰ ਅਤੇ ਡਾਤੇ ਨੂੰ ਨੁਕਸਾਨ ਕਰਦੀ ਹੈ
 abuse-report-damage-reason-v2 = ਇਸ ਨੇ ਮੇਰੇ ਕੰਪਿਊਟਰ ਨੂੰ ਨੁਕਸਾਨ ਕੀਤਾ ਜਾਂ ਮੇਰੇ ਡਾਟੇ ਨਾਲ ਛੇੜਛਾੜ ਕੀਤੀ
+abuse-report-damage-example = ਉਦਾਹਰਨ: ਪਾਇਆ ਹੋਇਆ ਮਾਲਵੇਅਰ ਜਾਂ ਡਾਟਾ ਚੋਰੀ
 abuse-report-spam-reason = ਸਪੈਮ ਜਾਂ ਇਸ਼ਤਿਹਾਰ ਬਣਾਉਂਦੀ ਹੈ
+abuse-report-spam-reason-v2 = ਇਸ ਵਿੱਚ ਸਮੈਪ ਜਾਂ ਅਣਚਾਹੇ ਇਸ਼ਤਿਹਾਰ ਪਾਏ ਹੋ ਸਕਦੇ ਹਨ
+abuse-report-spam-example = ਉਦਾਹਰਨ: ਵੈੱਬ-ਸਫ਼ਿਆਂ ਵਿੱਚ ਇਸ਼ਤਿਹਾਰ ਪਾਓ
 abuse-report-settings-suggestions-search = ਮੇਰੀਆਂ ਡਿਫਾਲਟ ਖੋਜ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਦੀ ਹੈ
 abuse-report-settings-suggestions-homepage = ਤੁਹਾਡੇ ਮੁੱਖ ਸਫ਼ੇ ਅਤੇ ਨਵੀ ਟੈਬ ਨੂੰ ਬਦਲਦੀ ਹੈ
 abuse-report-deceptive-reason = ਅਜਿਹਾ ਦਿਖਾਵਾ ਕਰਦੀ ਹੈ, ਜੋ ਕਿ ਇਹ ਨਹੀਂ ਹੈ

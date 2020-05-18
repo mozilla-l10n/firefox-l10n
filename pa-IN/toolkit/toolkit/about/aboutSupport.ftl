@@ -34,6 +34,7 @@ app-basics-title = ਐਪਲੀਕੇਸ਼ਨ ਬੇਸਿਕ
 app-basics-name = ਨਾਂ
 app-basics-version = ਵਰਜ਼ਨ
 app-basics-build-id = ਬਿਲਡ ID
+app-basics-distribution-id = ਵੰਡ ਆਈ.ਡੀ.
 app-basics-update-channel = ਅੱਪਡੇਟ ਚੈਨਲ
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
