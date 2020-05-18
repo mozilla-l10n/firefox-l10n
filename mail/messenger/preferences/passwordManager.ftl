@@ -68,3 +68,15 @@ remove-all-shown =
 remove-all-passwords-prompt = Er du sikker på at du vil slette alle passord?
 remove-all-passwords-title = Slett alle passord
 no-master-password-prompt = Er du sikker på at du vil vise passordene?
+
+## OS Authentication dialog
+
+# This message can be seen by trying to show or copy the passwords.
+password-os-auth-dialog-message = Bekreft identiteten din for å vise de lagrede passordene.
+# This message can be seen by trying to show or copy the passwords.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+password-os-auth-dialog-message-macosx = vis de lagrede passordene
+# Don't change this label.
+password-os-auth-dialog-caption = { -brand-full-name }

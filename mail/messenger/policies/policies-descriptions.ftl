@@ -21,6 +21,7 @@ policy-BlockAboutSupport = Blokker tilgang til about:support-siden.
 policy-CaptivePortal = Aktiver eller deaktiver støtte for captive portal.
 policy-CertificatesDescription = Legg til sertifikater eller bruk innebygde sertifikater.
 policy-Cookies = Tillat eller nekt nettsteder å lagre infokapsler.
+policy-DisabledCiphers = Deaktiver krypteringsmetoder.
 policy-DefaultDownloadDirectory = Velg standardmappe for nedlastinger.
 policy-DisableAppUpdate = Hindre at { -brand-short-name } oppdateres.
 policy-DisableDeveloperTools = Blokker tilgang til utviklerverktøyene.
