@@ -1057,13 +1057,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY homepageControlled.disableButton.accesskey "W">
 
 <!ENTITY tabHideControlled.header.message "Dostymp do twojich skrytych kart">
-<!ENTITY tabHideControlled.keepButton.label "Ôstwo karty skryte">
+<!ENTITY tabHideControlled.keepButton.label "Ôstow karty skryte">
+<!ENTITY tabHideControlled.keepButton.accesskey "O">
+<!ENTITY tabHideControlled.disableButton.label "Wyłōncz rozszyrzynie">
+<!ENTITY tabHideControlled.disableButton.accesskey "W">
 
+<!ENTITY pageActionButton.tooltip "Akcyje strōny">
+<!ENTITY pageAction.addToUrlbar.label "Przidej do poska adresy">
+<!ENTITY pageAction.removeFromUrlbar.label "Wyciep z poska adresy">
+<!ENTITY pageAction.manageExtension.label "Regiyruj rozszyrzyniym…">
 
+<!ENTITY sendToDevice.syncNotReady.label "Synchrōnizacyjo maszin…">
 
+<!ENTITY pageAction.shareUrl.label "Udostympnij">
+<!ENTITY pageAction.shareMore.label "Wiyncyj…">
 
+<!ENTITY libraryButton.tooltip "Pokoż historyjo, spamiyntane zokłodki i inksze">
 
 <!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+<!ENTITY accessibilityIndicator.tooltip "Funkcyje dostympu sōm załōnczōne">
