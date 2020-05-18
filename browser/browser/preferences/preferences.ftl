@@ -232,6 +232,10 @@ translate-attribution = Übersetzung mittels <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Ausnahmen…
     .accesskey = u
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Die Formate für Datum, Uhrzeit, Zahlen und Maßeinheiten können in den Einstellungen des Betriebssystem für "{ $localeName }" festgelegt werden.
 check-user-spelling =
     .label = Rechtschreibung während der Eingabe überprüfen
     .accesskey = R
@@ -280,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Mit { $app-name } öffnen (Standard)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Standardanwendung von macOS verwenden
+            [windows] Standardanwendung von Windows verwenden
+           *[other] Standardanwendung des Systems verwenden
+        }
 applications-use-other =
     .label = Andere Anwendung…
 applications-select-helper = Hilfsanwendung wählen
@@ -872,6 +883,8 @@ sitedata-option-block-cross-site-trackers =
     .label = Zur seitenübergreifenden Aktivitätenverfolgung
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = Zur seitenübergreifenden Aktivitätenverfolgung und von sozialen Netzwerken
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = Zur seitenübergreifenden Aktivitätenverfolgung und von sozialen Netzwerken, dabei verbleibende Cookies isolieren
 sitedata-option-block-unvisited =
     .label = Cookies von nicht besuchten Websites
 sitedata-option-block-all-third-party =
@@ -948,6 +961,7 @@ content-blocking-etp-strict-desc = Stärkerer Schutz, einige Websites oder manch
 content-blocking-etp-custom-desc = Wählen Sie, welche Art von Skripten zur Aktivitätenverfolgung und sonstige Inhalte blockiert werden.
 content-blocking-private-windows = Inhalte zur Aktivitätenverfolgung in privaten Fenstern
 content-blocking-cross-site-tracking-cookies = Cookies zur seitenübergreifenden Aktivitätenverfolgung
+content-blocking-cross-site-tracking-cookies-plus-isolate = Cookies zur seitenübergreifenden Aktivitätenverfolgung, dabei verbleibende Cookies isolieren
 content-blocking-social-media-trackers = Skripte zur Aktivitätenverfolgung durch soziale Netzwerke
 content-blocking-all-cookies = Alle Cookies
 content-blocking-unvisited-cookies = Cookies von nicht besuchten Websites
