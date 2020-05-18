@@ -36,8 +36,8 @@ etp-card-content = Pelacak mengikuti Anda berkeliling daring untuk mengumpulkan 
 protection-report-webpage-title = Dasbor Perlindungan
 protection-report-page-content-title = Dasbor Perlindungan
 protection-report-page-summary = { -brand-short-name } dapat melindungi privasi Anda di balik layar ketika Anda menjelajah. Ini adalah ringkasan perlindungan tersebut yang dipersonalisasi, termasuk alat untuk mengendalikan keamanan daring Anda.
-etp-card-title-always = Perlindungan Pelacakan Dipertingkat: Selalu Aktif
-etp-card-title-custom-not-blocking = Perlindungan Pelacakan Dipertingkat: NONAKTIF
+etp-card-title-always = Perlindungan Pelacakan yang Ditingkatkan: Selalu Aktif
+etp-card-title-custom-not-blocking = Perlindungan Pelacakan yang Ditingkatkan: NONAKTIF
 etp-card-content-summary = Ketika perusahaan tak dikenal mencoba diam-diam mengikuti Anda di web, { -brand-short-name } secara otomatis menghentikan mayoritas dari mereka.
 protection-report-etp-card-content-custom-not-blocking = Semua pengamanan saat ini nonaktif. Pilih pelacak yang akan diblokir dengan mengelola pengaturan perlindungan { -brand-short-name } Anda.
 protection-report-manage-protections = Kelola Pengaturan
@@ -99,7 +99,7 @@ lockwise-scanned-text-no-breached-logins =
     { $count ->
        *[other] Kata sandi Anda disimpan dengan aman
     }
-lockwise-how-it-works-link = Bagaimana ini bekerja
+lockwise-how-it-works-link = Cara kerjanya
 turn-on-sync = Aktifkan { -sync-brand-short-name }
     .title = Buka pengaturan sinkronisasi
 manage-connected-devices = Kelola perangkat…
