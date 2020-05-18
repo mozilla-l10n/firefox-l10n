@@ -34,7 +34,7 @@ search-input-box =
             [windows] Знайти в налаштуваннях
            *[other] Знайти в налаштуваннях
         }
-managed-notice = Цей { -brand-short-name } керується вашою організацією.
+managed-notice = Вашим браузером керує ваша організація.
 pane-general-title = Загальні
 category-general =
     .tooltiptext = { pane-general-title }
@@ -137,7 +137,7 @@ startup-restore-previous-session =
     .label = Відновити попередній сеанс
     .accesskey = В
 startup-restore-warn-on-quit =
-    .label = Попереджати при виході з { -brand-short-name }
+    .label = Попереджати при виході з браузера
 disable-extension =
     .label = Вимкнути розширення
 tabs-group-header = Вкладки
@@ -765,7 +765,7 @@ sync-fxa-privacy-notice = Повідомлення про приватність
 
 ## Privacy Section
 
-privacy-header = Приватність { -brand-short-name }
+privacy-header = Приватність браузера
 
 ## Privacy Section - Forms
 
@@ -1070,7 +1070,7 @@ permissions-addon-exceptions =
     .label = Винятки…
     .accesskey = В
 permissions-a11y-privacy-checkbox =
-    .label = Не дозволяти сервісам доступності доступ до вашого { -brand-short-name }
+    .label = Не дозволяти сервісам доступності доступ до вашого браузера
     .accesskey = з
 permissions-a11y-privacy-link = Докладніше
 
