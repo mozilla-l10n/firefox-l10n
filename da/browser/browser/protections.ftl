@@ -35,6 +35,15 @@ protection-report-page-title = Privatlivs-beskyttelse
 protection-report-content-title = Privatlivs-beskyttelse
 etp-card-title = Udvidet beskyttelse mod sporing
 etp-card-content = Sporings-teknologier følger dig rundt på nettet for at indsamle information om dine vaner og interesser. { -brand-short-name } blokerer mange af disse sporings-teknologier og andre ondsindede scripts.
+
+protection-report-webpage-title = Oversigt over beskyttelse
+protection-report-page-content-title = Oversigt over beskyttelse
+protection-report-page-summary = { -brand-short-name } kan beskytte dit privatliv, mens du bruger nettet. Dette viser dit personlige resume over, hvordan du er beskyttet - samt værktøj til at tage kontrol over din online identitet.
+
+etp-card-title-always = Udvidet beskyttelse mod sporing: Altid slået til
+etp-card-title-custom-not-blocking = Udvidet beskyttelse mod sporing: SLÅET FRA
+etp-card-content-summary = Når ukendte virksomheder i hemmelighed følger dig på nettet, så stopper { -brand-short-name } automatisk mange af dem.
+
 protection-report-etp-card-content-custom-not-blocking = Beskyttelse er slået fra. Du kan vælge, hvilke sporings-teknologier der skal blokeres, i indstillingerne for beskyttelse i { -brand-short-name }.
 protection-report-manage-protections = Håndter indstillinger
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -118,6 +127,14 @@ monitor-header-content-no-account = Brug { -monitor-brand-name } til at se, om d
 monitor-header-content-signed-in = { -monitor-brand-name } advarer dig, hvis dine informationer har været ramt af en datalæk.
 monitor-sign-up = Tilmeld dig advarsler om datalæk
 auto-scan = Automatisk skannet i dag
+
+monitor-emails-tooltip =
+  .title = Vis overvågede mailadresser på { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+  .title = Vis kendte datalæk på { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+  .title = Vis kompromitterede adgangskoder på { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
