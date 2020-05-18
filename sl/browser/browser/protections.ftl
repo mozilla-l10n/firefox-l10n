@@ -77,6 +77,10 @@ lockwise-header-content = { -lockwise-brand-name } varno hrani vaša gesla v brs
 lockwise-header-content-logged-in = Varno hranite in sinhronizirajte svoja gesla na vseh napravah.
 protection-report-view-logins-button = Ogled prijav
     .title = Pojdi na shranjene prijave
+protection-report-save-passwords-button = Shranite gesla
+    .title = Shranite gesla v { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Upravljajte gesla
+    .title = Upravljajte gesla v { -lockwise-brand-short-name }u
 lockwise-mobile-app-title = Vzemite gesla s seboj
 lockwise-no-logins-card-content = Uporabljajte gesla, shranjena v { -brand-short-name }, na katerikoli napravi.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> in <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -99,6 +103,17 @@ lockwise-scanned-text-breached-logins =
         [few] { $count } gesla so morda bila izpostavljena v kraji podatkov.
        *[other] { $count } gesel je morda bilo izpostavljenih v kraji podatkov.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] { $count } geslo varno shranjeno.
+        [two] { $count } gesli varno shranjeni.
+        [few] { $count } gesla varno shranjena.
+       *[other] { $count } gesel varno shranjenih.
+    }
 lockwise-how-it-works-link = Kako deluje
 turn-on-sync = Vklopi { -sync-brand-short-name } ...
     .title = Pojdi na nastavitve Synca
@@ -118,6 +133,12 @@ monitor-header-content-no-account = Preverite s { -monitor-brand-name }jem, ali 
 monitor-header-content-signed-in = { -monitor-brand-name } vas opozori, če se vaši podatki pojavijo v znani kraji podatkov.
 monitor-sign-up = Prijavite se na opozorila o krajah
 auto-scan = Samodejno preverjeno danes
+monitor-emails-tooltip =
+    .title = Oglejte si nadzorovane e-poštne naslove v { -monitor-brand-short-name }ju
+monitor-breaches-tooltip =
+    .title = Oglejte si znane kraje podatkov v { -monitor-brand-short-name }ju
+monitor-passwords-tooltip =
+    .title = Oglejte si izpostavljena gesla v { -monitor-brand-short-name }ju
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
