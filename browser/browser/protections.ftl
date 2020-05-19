@@ -38,6 +38,7 @@ etp-card-content = Gli elementi traccianti ti seguono online al fine di raccogli
 protection-report-webpage-title = Dashboard protezioni
 protection-report-page-content-title = Dashboard protezioni
 protection-report-page-summary = { -brand-short-name } protegge la tua privacy mentre navighi. Questa è una sintesi personalizzata delle protezioni attive e include strumenti per garantire la tua sicurezza online.
+protection-report-settings-link = Gestisci le impostazioni relative a privacy e sicurezza
 etp-card-title-always = Protezione antitracciamento avanzata: sempre attiva
 etp-card-title-custom-not-blocking = Protezione antitracciamento avanzata: DISATTIVATA
 etp-card-content-summary = { -brand-short-name } blocca molte società sconosciute che, di nascosto, cercano di seguire le tue attività sul Web.
