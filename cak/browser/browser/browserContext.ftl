@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Titz'aqatisäx re ruxaq re' pa taq yaketal
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = Titz'aqatisäx re ruxaq re' pa taq yaketal
     .accesskey = m
@@ -317,3 +314,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = Tetamäx ch'aqa' chik chi rij ri DRM…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = Tiya' rutzijol chi kij ch'aqa' chik taq samaj

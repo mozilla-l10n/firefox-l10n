@@ -807,6 +807,8 @@ forms-master-pw-fips-desc = Sachoj toq nijal ri ewan tzij
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Tanik'oj ri ab'anikil richin natz'ük jun Ajtij Ewan Tzij.
 # This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Richin natz'ük jun ajtij ewan atzij, tatz'ib'aj ri ruwujil rutikirisaxik molojri'ïl richin Windows. Re re' nuto' richin nuchajij rujikomal ri rub'i' ataqoya'l.
+# This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
