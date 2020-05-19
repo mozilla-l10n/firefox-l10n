@@ -5,3 +5,4 @@
 messenger-languages-window =
     .title = { -brand-short-name } Parametros del lingua
     .style = width: 40em
+

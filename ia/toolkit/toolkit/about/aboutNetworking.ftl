@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = Suffixo DNS
 websockets = WebSockets
 refresh = Actualisar
 auto-refresh = Refrescamento automatic cata 3 secundas
 hostname = Nomine del hoste
 port = Porta
 http2 = HTTP/2
-about-networking-title = A proposito del traffico de rete
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = Suffixo DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = Actualisar
-about-networking-auto-refresh = Refrescamento automatic cata 3 secundas
-about-networking-hostname = Nomine del hoste
-about-networking-port = Porta
-about-networking-http-version = Version de HTTP
 ssl = SSL
 active = Active
 idle = Inactive
@@ -69,8 +57,18 @@ rcwn-avg-long = Media longe
 rcwn-std-dev-long = Deviation standard longe
 rcwn-cache-slow = Contage lente de cache
 rcwn-cache-not-slow = Contage non lente de cache
-networkid = ID de rete
-networkid-id = ID de rete
+
+about-networking-title = A proposito del traffico de rete
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = Suffixo DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Actualisar
+about-networking-auto-refresh = Refrescamento automatic cata 3 secundas
+about-networking-hostname = Nomine del hoste
+about-networking-port = Porta
+about-networking-http-version = Version de HTTP
 about-networking-ssl = SSL
 about-networking-active = Active
 about-networking-idle = Inactive
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID de rete
 
 ## Link is intended as "network link"
 
-networkid-isUp = Ligamine active
-networkid-statusKnown = Stato del ligamine note
 about-networking-networkid-is-up = Ligamine active
 about-networking-networkid-status-known = Stato del ligamine note
 

@@ -8,6 +8,7 @@ password-quality-meter = Mensurator de qualitate del contrasigno
 
 change-password-window =
     .title = Modificar le contrasigno maestro
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de securitate: { $tokenName }

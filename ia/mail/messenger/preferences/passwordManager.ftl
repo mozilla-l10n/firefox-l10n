@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Clauder
     .accesskey = C
+
 show-passwords =
     .label = Monstrar le contrasignos
     .accesskey = c
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Desira tu vermente remover tote le contrasignos?
 remove-all-passwords-title = Remover tote le contrasignos
 no-master-password-prompt = Desira tu vermente monstrar tu contrasignos?
+
+## OS Authentication dialog
+

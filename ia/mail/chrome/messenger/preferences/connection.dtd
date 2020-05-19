@@ -38,12 +38,12 @@
 <!ENTITY  noproxy.label                 "Nulle proxy pro:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exemplo: .mozilla.org, .asso.fr, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Usar iste servitor proxy pro tote le protocollos">
+<!ENTITY  shareproxy.accesskey          "x">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label   "Le connexiones a localhost, 127.0.0.1 e ::1 nunquam passa per un proxy.">
-<!ENTITY  shareproxy.label              "Usar iste servitor proxy pro tote le protocollos">
-<!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Non demandar authenticar me si le contrasigno es salvate">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Iste option te authentica silentiosemente al proxies quando tu ha salvate credentiales pro illos. Te essera demandate si le authentication falle.">

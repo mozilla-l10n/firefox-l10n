@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Clauder
     .accesskey = C
+
 show-passwords =
     .label = Monstrar le contrasignos
     .accesskey = c

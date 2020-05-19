@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Io accepta le risco!
 config-about-warning-checkbox =
     .label = Monstrar iste advertentia le proxime vice
+
 config-search-prefs =
     .value = Cercar:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Copiar
     .accesskey = C
+
 config-copy-name =
     .label = Copiar le nomine
     .accesskey = N
+
 config-copy-value =
     .label = Copiar le valor
     .accesskey = V
+
 config-modify =
     .label = Modificar
     .accesskey = M
+
 config-toggle =
     .label = Commutar
     .accesskey = T
+
 config-reset =
     .label = Reinitialisar
     .accesskey = R
+
 config-new =
     .label = Nove
     .accesskey = N
+
 config-string =
     .label = Catena de characteres
     .accesskey = S
+
 config-integer =
     .label = Integre
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = predefinite
 config-modified = modificate
 config-locked = blocate
+
 config-property-string = catena
 config-property-int = numero integre
 config-property-bool = boolean
+
 config-new-prompt = Scribe le nomine de preferentia
+
 config-nan-title = Valor invalide
 config-nan-text = Le texto que tu insereva non es un numero.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nove valor { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Insere le valor { $type }

@@ -13,6 +13,7 @@ enable-common-message = Le Utensiles de disveloppamento de Firefox es disactivat
 enable-learn-more-link = Apprende plus re le Utensiles del disveloppamento
 enable-enable-button = Activar le Utensiles de disveloppamento
 enable-close-button = Clauder iste scheda
+
 welcome-title = Benvenite al Utensiles de disveloppamento de Firefox!
 newsletter-title = Littera del novas de disveloppamento de Mozilla
 newsletter-message = Recipe novas, artificios e ressources de disveloppamento inviate directemente a tu cassa de entrata.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Io consenti con le tractamento per Mozilla de mi info
 newsletter-subscribe-button = Subscriber
 newsletter-thanks-title = Gratias!
 newsletter-thanks-message = Si tu non habeva antea confirmate un subscription a un newsletter re Mozilla tu pote facer lo. Per favor controla tu cassa de entrata o tu filtro del spam pro un e-posta ab nos.
+
 footer-title = Firefox Developer Edition
 footer-message = Cerca tu plus que justo Utensiles de disveloppamento? Controla le navigator Firefox create specificamente pro le disveloppatores e le fluxos de labor moderne.
 footer-learn-more-link = Saper plus
+
 features-learn-more = Saper plus
 features-inspector-title = Inspector
 features-inspector-desc = Inspecta e optimisa le codice pro construer dispositiones de pagina perfecte al pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>

@@ -4,6 +4,8 @@
 
 <!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Trovar e reimplaciar">
 <!ENTITY findField.label "Trovar le texto:">
 <!ENTITY findField.accesskey "v">

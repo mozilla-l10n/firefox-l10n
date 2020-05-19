@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Omne nove extensiones que tu adde a { -brand-shorter-name } non functionara in fenestras private, a minus que tu permitte isto in le configuration.
 appmenu-addon-private-browsing-learn-more = Apprende como gerer le configuration de extensiones
+    
 appmenu-new-tab-controlled =
     .label = Tu nove scheda ha cambiate.
     .buttonlabel = Mantener le cambios

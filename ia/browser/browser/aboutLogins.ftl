@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Discarga lo de Google Play
 login-app-promo-apple =
     .alt = Discarga lo de App Store
+
 login-filter =
     .placeholder = Cercar credentiales
+
 create-login-button = Crear nove credentiales
+
 fxaccounts-sign-in-text = Accede a tu credentiales sur tote tu apparatos
 fxaccounts-sign-in-button = Aperir session a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -47,7 +50,6 @@ login-list-count =
 login-list-sort-label-text = Ordinar per:
 login-list-name-option = Nomine (A-Z)
 login-list-name-reverse-option = Nomine (Z-A)
-login-list-breached-option = Sitos web violate
 about-logins-login-list-alerts-option = Alertas
 login-list-last-changed-option = Ultime modification
 login-list-last-used-option = Ultime uso
@@ -108,16 +110,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifica tu identitate pro modificar le credentiales salvate.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = verifica le credentiales salvate
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifica tu identitate pro revelar le contrasigno salvate.
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = monstrar le contrasigno salvate
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifica tu identitate pro copiar le contrasigno salvate.
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiar le contrasigno salvate
@@ -152,9 +159,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancellar
 confirmation-dialog-dismiss-button =
     .title = Cancellar
+
 about-logins-confirm-remove-dialog-title = Remover iste credentiales?
 confirm-delete-dialog-message = Iste action es irreversibile.
 about-logins-confirm-remove-dialog-confirm-button = Remover
+
 confirm-discard-changes-dialog-title = Abandonar le modificationes non salvate?
 confirm-discard-changes-dialog-message = Tote le modificationes non salvate essera perdite.
 confirm-discard-changes-dialog-confirm-button = Abandonar
@@ -163,9 +172,6 @@ confirm-discard-changes-dialog-confirm-button = Abandonar
 
 about-logins-breach-alert-title = Violation de sitos web
 breach-alert-text = Le contrasignos de iste sito web ha essite divulgate o robate desde le ultime vice que tu cambiava tu credentiales. Cambia ora tu contrasigno pro proteger tu conto!
-breach-alert-link = Saper plus sur iste violation.
-breach-alert-dismiss =
-    .title = Clauder iste alerta
 about-logins-breach-alert-date = Iste violation occurreva le { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -188,5 +194,6 @@ about-logins-vulnerable-alert-learn-more-link = Saper plus
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Un entrata pro { $loginTitle } con ille nomine de usator existe jam. <a data-l10n-name="duplicate-link">Ir al entrata existente?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Un error occurreva durante le tentativa de salvar iste contrasigno.

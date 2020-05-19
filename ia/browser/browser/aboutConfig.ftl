@@ -7,7 +7,9 @@ about-config-warning-title = Hic sunt dracones!
 about-config-warning-text = Cambiar iste parametros avantiate pote esser nocive al stabilitate, securitate e rendimento de iste application. Tu debe continuar solmente si tu es secur de illo que tu va facer.
 about-config-warning-checkbox = Rememorar me le proxime vice
 about-config-warning-button = Io accepta le risco
+
 about-config2-title = Configurationes avantiate
+
 about-config-search-input =
     .placeholder = Cercar
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Acceptar le risco e continuar
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Cambiar iste preferentias pote haber impacto sur le prestationes e le securitate de { -brand-short-name }.
+
 about-config-page-title = Preferentias avantiate
+
 about-config-search-input1 =
     .placeholder = Cercar nomine de preferentia
 about-config-show-all = Monstrar toto
+
 about-config-pref-add = Adder
 about-config-pref-toggle = Commutar
 about-config-pref-edit = Modificar
 about-config-pref-save = Salvar
 about-config-pref-reset = Reinitialisar
 about-config-pref-delete = Deler
+
 about-config-pref-add-button =
     .title = Adder
 about-config-pref-toggle-button =

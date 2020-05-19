@@ -4,27 +4,24 @@
 
 history-title = Chronologia de actualisationes
 history-intro = Le sequente actualisationes a essite installate
+
 close-button-label =
     .buttonlabelcancel = Clauder
     .title = Chronologia de actualisationes
+
 no-updates-label = Nulle actualisationes ancora installate
 name-header = Nomine del actualisation
 date-header = Data de installation
 type-header = Typo
 state-header = Stato
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Detalios
 update-installed-on = Installate le: { $date }
 update-status = Stato: { $status }

@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Synchronisation…
 fxa-toolbar-sync-syncing-tabs =
     .label = Synchronisante le schedas…
+
 sync-disconnect-dialog-title = Disconnecter { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } cessara le synchronisation de tu conto, ma non delera alcun de tu datos de navigation sur iste apparato.
 fxa-disconnect-dialog-title = Disconnecter { -brand-product-name }?

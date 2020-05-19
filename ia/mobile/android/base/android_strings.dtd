@@ -21,15 +21,9 @@
 <!ENTITY firstrun_data_message "Minus datos, plus economia">
 <!ENTITY firstrun_data_subtext2 "Disactiva le imagines pro consummar minus datos cata sito tu visita.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Conto">
-<!ENTITY firstrun_sync_message2 "Reprende de ubi tu lassava">
 <!ENTITY firstrun_sync_subtext2 "Usa Sync pro trovar marcapaginas, contrasignos, e altere cosas que tu salva in &brandShortName; sur tote tu apparatos.">
 <!ENTITY newfirstrun_sync_subtext "Synchronisa in modo reservate e secur, le informationes salvate su tu apparato mobile, in le Firefox pro scriptorio de tu computator.">
-<!ENTITY updatednewfirstrun_sync_subtext "Accede a tu conto pro obtener le maximo ab &brandShortName;">
 <!ENTITY firstrun_signin_message "Connecte te e comencia">
-<!ENTITY firstrun_signin_button "Connecter se a Sync">
-<!ENTITY newfirstrun_signin_button "Activa Sync">
-<!ENTITY updatednewfirstrun_signin_button "Accede a &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Comenciar a navigar">
 <!ENTITY firstrun_button_notnow "Plus tarde">
 <!ENTITY firstrun_button_next "Sequente">
@@ -339,11 +333,6 @@
 <!ENTITY pref_pwa "Applicationes web progressive">
 <!ENTITY pref_pwa_summary "Permitter que le applicationes del web sia addite al schermo de initio">
 
-<!ENTITY tracking_protection_prompt_title "Ora con protection contra traciamento">
-<!ENTITY tracking_protection_prompt_text "Blocar activemente elementos de traciamento pro que tu non ha timer.">
-<!ENTITY tracking_protection_prompt_tip_text "Visita configurationes de privatia pro apprender plus">
-<!ENTITY tracking_protection_prompt_action_button "Io lo comprendeva!">
-
 <!ENTITY tab_queue_toast_message3 "Scheda salvate in &brandShortName;">
 <!ENTITY tab_queue_toast_action "Aperir ora">
 <!ENTITY tab_queue_prompt_title "Apertura de plure ligamines?">
@@ -429,7 +418,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Tocca App Browser e selige &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Visitar le assistentia Mozilla">
 <!ENTITY pref_about_firefox "A proposito de &brandShortName;">
 <!ENTITY pref_vendor_faqs "Questiones frequente">
 <!ENTITY pref_vendor_feedback "Inviar opinion">
@@ -478,14 +466,6 @@ shown from Android O while a tab is being queued.-->
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "Servicio de localisation de &vendorShortName;">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Actualisationes automatic">
-<!ENTITY pref_update_autodownload_wifi "Solmente per Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Nunquam">
-<!ENTITY pref_update_autodownload_always "Sempre">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Adjuta">
@@ -756,25 +736,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Marcapaginas e chronologia">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Actualisation disponibile pro &brandShortName;">
-<!ENTITY updater_start_select2 "Tocca pro discargar">
-
-<!ENTITY updater_downloading_title2 "Discargamento de &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Discargamento fallite">
-<!ENTITY updater_downloading_select2 "Toccar pro applicar le actualisationes, depost que illos es discargate">
-<!ENTITY updater_downloading_retry2 "Toccar pro reprobar">
-
-<!ENTITY updater_apply_title3 "Actualisation discargate pro &brandShortName;">
-<!ENTITY updater_apply_select3 "Tocca pro installar">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Pro discargar le files e le actualisationes, permitte a &brandShortName; de acceder al deposito.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Permitter">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nove Session de Invitato">
 <!ENTITY exit_guest_session "Lassar Session de Invitato">
@@ -942,7 +903,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Sono e video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; consilios e suggestiones">
-<!ENTITY updater_notification_channel "Actualisationes del application">
 <!ENTITY synced_tabs_notification_channel "Schedas synchronisate">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

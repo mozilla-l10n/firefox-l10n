@@ -5,50 +5,66 @@
 permissions-window =
     .title = Exceptiones
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresse del sito web
     .accesskey = d
+
 permissions-block =
     .label = Blocar
     .accesskey = B
+
 permissions-session =
     .label = Permitter pro le session
     .accesskey = S
+
 permissions-allow =
     .label = Permitter
     .accesskey = P
+
 permissions-site-name =
     .label = Sito web
+
 permissions-status =
     .label = Stato
+
 permissions-remove =
     .label = Remover sito web
     .accesskey = R
+
 permissions-remove-all =
     .label = Remover tote le sitos web
     .accesskey = e
+
 permissions-button-cancel =
     .label = Cancellar
     .accesskey = C
+
 permissions-button-ok =
     .label = Salvar le cambios
     .accesskey = S
+
 permissions-autoplay-menu = Predefinition pro tote le sitos web:
+
 permissions-searchbox =
     .placeholder = Cercar in le sito web
+
 permissions-capabilities-autoplay-allow =
     .label = Permitter audio e video
 permissions-capabilities-autoplay-block =
     .label = Blocar audio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar audio e video
+
 permissions-capabilities-allow =
     .label = Permitter
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Sempre questionar
+
 permissions-capabilities-listitem-allow =
     .value = Permitter
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Exceptiones - Blocage de contento
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Tu ha disactivate le blocage de contento pro iste sito web.
+
 permissions-exceptions-etp-window =
     .title = Exceptiones al protection antitraciamento reinfortiate
     .style = { permissions-window.style }

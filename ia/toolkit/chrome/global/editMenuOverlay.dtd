@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Seliger toto">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "t">
+
 <!ENTITY findCmd.label             "Cercar">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "r">
