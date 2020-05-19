@@ -51,7 +51,7 @@ update-setting-write-failure-message =
     Не вдалося записати у файл: { $path }
 update-in-progress-title = Оновлення триває
 update-in-progress-message = Ви хочете продовжити оновлення { -brand-short-name }?
-update-in-progress-ok-button = &Скасувати
+update-in-progress-ok-button = &Відхилити
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Продовжити
