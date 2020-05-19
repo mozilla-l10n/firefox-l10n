@@ -119,10 +119,6 @@ cfr-whatsnew-lockwise-take-link-text = Ir per l'app
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tippar main e chattar dapli cun la trav d'adressas
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Visita las paginas che ti dovras il pli savens cun be in clic en la trav d'adressas. Chatta pli spert quai che ti tschertgas cun resultats da { $searchEngineName } e da tia cronologia da navigaziun.
-cfr-whatsnew-searchbar-body-generic = Visita las paginas che ti dovras il pli savens cun be in clic en la trav d'adressas. Chatta pli spert quai che ti tschertgas cun resultats or da tia cronologia da navigaziun.
 cfr-whatsnew-searchbar-body-topsites = Ussa tanschi da tscherner la trav d'adressas ed ina chascha cun colliaziuns a tias paginas principalas s'avra.
 cfr-whatsnew-searchbar-icon-alt-text = Icona da marella
 
@@ -209,3 +205,18 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vesair tut
     .accesskey = s
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Crear a moda simpla pleds-clav segirs
+cfr-whatsnew-lockwise-icon-alt = Icona da { -lockwise-brand-short-name }
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
+cfr-whatsnew-pip-fullscreen-icon-alt = Icona da maletg-en-maletg

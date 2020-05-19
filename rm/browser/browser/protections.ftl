@@ -35,6 +35,10 @@ protection-report-page-title = Protecziun da la sfera privata
 protection-report-content-title = Protecziun da la sfera privata
 etp-card-title = Protecziun avanzada cunter il fastizar
 etp-card-content = Fastizaders ta suondan online per rimnar infurmaziuns davart tias disas da navigar e tes interess. { -brand-short-name } blochescha blers da quests fastizaders ed auters scripts donnegius.
+protection-report-webpage-title = Armaturas da protecziun
+protection-report-page-content-title = Armaturas da protecziun
+etp-card-title-always = Protecziun avanzada cunter il fastizar: Adina activà
+etp-card-title-custom-not-blocking = Protecziun avanzada cunter il fastizar: DEACTIVÀ
 protection-report-etp-card-content-custom-not-blocking = Tut las protecziuns èn actualmain deactivadas. Tscherna ils fastizaders che duain vegnir bloccads cun administrar ils parameters da protecziuns da { -brand-short-name }.
 protection-report-manage-protections = Administrar ils parameters
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -62,10 +66,15 @@ mobile-app-card-content = Utilisar il navigatur mobil cun protecziun cunter fast
 mobile-app-links = { -brand-product-name } Navigatur per <a data-l10n-name="android-mobile-inline-link">Android</a> ed <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Mai pli perder in pled-clav
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Administraziun da pleds-clav
 lockwise-header-content = { -lockwise-brand-name } memorisescha tes pleds-clav a moda segira en tes navigatur.
 lockwise-header-content-logged-in = Memorisescha e sincronisescha a moda segira tes pleds-clav sin tut tes apparats.
 protection-report-view-logins-button = Mussar las infurmaziuns d'annunzia
     .title = Avrir las datas d'annunzia memorisadas
+protection-report-save-passwords-button = Memorisar ils pleds-clav
+    .title = Memorisar ils pleds-clav en { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Administrar ils pleds-clav
+    .title = Administrar ils pleds-clav cun { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Prenda tes pleds-clav adina cun tai
 lockwise-no-logins-card-content = Dovra ils pleds-clav memorisads en { -brand-short-name } sin mintga apparat.
 lockwise-app-links = { -lockwise-brand-name } per <a data-l10n-name="lockwise-android-inline-link">Android</a> ed <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -77,6 +86,23 @@ lockwise-passwords-stored =
         [one] Pled-clav memorisà a moda segira <a data-l10n-name="lockwise-how-it-works">Co quai funcziunescha</a>
        *[other] Pleds-clav memorisads a moda segira <a data-l10n-name="lockwise-how-it-works">Co quai funcziunescha</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 pled-clav pudess esser pertutgà dad ina sperdita da datas.
+       *[other] { $count } pleds-clav pudessan esser pertutgads dad ina sperdita da datas.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 pled-clav è memorisà a moda segira.
+       *[other] Tes pleds-clav èn memorisads a moda segira.
+    }
+lockwise-how-it-works-link = Co ch'i funcziuna
 turn-on-sync = Activar { -sync-brand-short-name }…
     .title = Acceder a las preferenzas da sync
 manage-connected-devices = Administrar ils apparats…
@@ -93,6 +119,12 @@ monitor-header-content-no-account = Consultescha { -monitor-brand-name } per ver
 monitor-header-content-signed-in = { -monitor-brand-name } t'avertescha en cas che tias infurmaziuns cumparan en ina sperdita da datas enconuschenta.
 monitor-sign-up = S'inscriver per avertiments da sperditas da datas
 auto-scan = Controllà automaticamain oz
+monitor-emails-tooltip =
+    .title = Mussar las adressas d'e-mail survegliadas en { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Mussar las sperditas da datas enconuschentas en { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Mussar ils pleds-clav pertutgads en { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

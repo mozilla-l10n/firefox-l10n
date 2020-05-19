@@ -316,6 +316,7 @@ shortcuts-no-commands = Las suandantas extensiuns n'han naginas cumbinaziuns da 
 shortcuts-input =
     .placeholder = Tippa ina scursanida
 shortcuts-browserAction = Activar l'extensiun
+shortcuts-browserAction2 = Activar il buttun da la trav d'utensils
 shortcuts-pageAction = Activar l'acziun da pagina
 shortcuts-sidebarAction = Activar/deactivar la trav laterala
 shortcuts-modifier-mac = Includer Ctrl, Alt, u ⌘

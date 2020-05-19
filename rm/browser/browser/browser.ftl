@@ -109,6 +109,8 @@ page-action-manage-extension =
     .label = Administrar il supplement…
 page-action-remove-from-urlbar =
     .label = Allontanar da la trav d'adressas
+page-action-remove-extension =
+    .label = Allontanar l'extensiun
 
 ## Auto-hide Context Menu
 
@@ -204,6 +206,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimar
+browser-window-maximize-button =
+    .tooltiptext = Maximar
+browser-window-restore-down-button =
+    .tooltiptext = Restaurar
 browser-window-close-button =
     .tooltiptext = Serrar
 
@@ -219,6 +225,7 @@ popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundi
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Per utilisar la scursanida F12, l'emprim avrir ils utensils per sviluppaders via il menu Sviluppaders dal web.
 
 ## URL Bar
 

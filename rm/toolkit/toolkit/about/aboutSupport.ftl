@@ -34,6 +34,7 @@ app-basics-title = Infurmaziuns da basa
 app-basics-name = Num
 app-basics-version = Versiun
 app-basics-build-id = ID dal build
+app-basics-distribution-id = ID distribuziun
 app-basics-update-channel = Chanal d'actualisaziuns
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -290,6 +291,10 @@ sandbox-proc-type-content = cuntegn
 sandbox-proc-type-file = cuntegn da la datoteca
 sandbox-proc-type-media-plugin = plugin per medias
 sandbox-proc-type-data-decoder = decoder da datas
+startup-cache-title = Cache da l'aviar
+startup-cache-disk-cache-path = Ordinatur dal cache sin il disc dir
+startup-cache-ignore-disk-cache = Ignorar il cache sin il disc dir
+startup-cache-found-disk-cache-on-init = Chattà il cache sin il disc durant l'inizialisaziun
 launcher-process-status-0 = Activà
 launcher-process-status-1 = Deactivà pervia dad errurs
 launcher-process-status-2 = Deactivà cun forza
