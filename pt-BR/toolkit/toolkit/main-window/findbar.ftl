@@ -16,17 +16,17 @@ findbar-highlight-all2 =
     .accesskey =
         { PLATFORM() ->
             [macos] t
-           *[other] o
+           *[other] t
         }
-    .tooltiptext = Destacar todas as ocorrências da busca
+    .tooltiptext = Destacar na página todas as ocorrências da busca
 findbar-case-sensitive =
     .label = Diferenciar maiúsculas/minúsculas
     .accesskey = m
-    .tooltiptext = Procurar ignorando diferença entre maiúsculas e minúsculas
+    .tooltiptext = Procurar considerando diferenças entre maiúsculas e minúsculas
 findbar-match-diacritics =
     .label = Considerar acentuação
     .accesskey = C
-    .tooltiptext = Distinguir letras acentuadas de suas letras de base (por exemplo, ao procurar “acao”, não será considerado “ação”)
+    .tooltiptext = Distinguir letras acentuadas de suas letras de base (por exemplo, ao procurar “Pará”, não serão consideradas as ocorrências de “para”)
 findbar-entire-word =
     .label = Palavras inteiras
     .accesskey = P
