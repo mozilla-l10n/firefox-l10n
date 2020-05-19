@@ -16,6 +16,9 @@ certificate-viewer-certificate-authority = Atestila aŭtoritato
 certificate-viewer-cipher-suite = Ĉifraro
 certificate-viewer-common-name = Normala nomo
 certificate-viewer-email-address = Retpoŝta adreso
+# Variables:
+#   $firstCertName (String) - Common Name for the displayed certificate
+certificate-viewer-tab-title = Atestilo por { $firstCertName }
 # Inc. means Incorporated, e.g GitHub is incorporated in Delaware
 certificate-viewer-inc-country = Lando
 certificate-viewer-country = Lando
@@ -29,6 +32,8 @@ certificate-viewer-id = Identigilo
 certificate-viewer-key-exchange-group = Grupo de interŝanĝo de ŝlosiloj
 certificate-viewer-key-id = Identigilo de ŝlosilo
 certificate-viewer-key-size = Grando de ŝlosilo
+# Inc. means Incorporated, e.g GitHub is incorporated in Delaware
+certificate-viewer-inc-locality = Sidejo
 certificate-viewer-locality = Loko
 certificate-viewer-location = Loko
 certificate-viewer-logid = Identigilo de registro
@@ -95,3 +100,16 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = Tiu ĉi etendaĵo estis markita kiel gravega. Tio signifas ke klientoj devus rifuzi la atestilon se ili ne komprenas ĝin.
+certificate-viewer-export = Elporti
+    .download = { $fileName }.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+
+certificate-viewer-tab-mine = Viaj atestiloj
+certificate-viewer-tab-people = Personoj
+certificate-viewer-tab-servers = Serviloj
+certificate-viewer-tab-ca = Aŭtoritatoj
+certificate-viewer-tab-unkonwn = Nekonata

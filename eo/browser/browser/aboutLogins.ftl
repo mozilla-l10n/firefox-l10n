@@ -47,6 +47,7 @@ login-list-count =
 login-list-sort-label-text = Ordigi laŭ:
 login-list-name-option = Nomo (A-Z)
 login-list-name-reverse-option = Nomo (A-Z)
+about-logins-login-list-alerts-option = Atentigoj
 login-list-last-changed-option = Laste modifita
 login-list-last-used-option = Last uzita
 login-list-intro-title = Neniu legitimilo trovita
@@ -58,6 +59,8 @@ login-list-item-subtitle-new-login = Tajpu viajn legitimilojn
 login-list-item-subtitle-missing-username = (sen nomo de uzanto)
 about-logins-list-item-breach-icon =
     .title = Retejo kun datumfuĝo
+about-logins-list-item-vulnerable-password-icon =
+    .title = Sendefenda pasvorto
 
 ## Introduction screen
 
@@ -104,16 +107,22 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Konfirmu vian identecon por modifi la konservitan legitimilon.
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Por redakti viajn legitimilojn vi devas tajpi tiujn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifi la konservitan legitimilon
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Konfiru vian identecon por malkaŝi la konservitan pasvorton.
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Por vidi vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = malkaŝi la konservitan pasvorton
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Konfirmu vian identecon por kopii la konservitan pasvorton.
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Por kopii vian pasvorton vi devas tajpi viajn legitimilojn de Windows . Tio ĉi helpas vin protekti la sekurecon de viaj kontoj.
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopii la konservitan pasvorton
@@ -129,8 +138,8 @@ master-password-reload-button =
 
 enable-password-sync-notification-message =
     { PLATFORM() ->
-        [windows] Ĉu vi volas ĉiam havi vian legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la elektebloj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
-       *[other] Ĉu vi volas ĉiam havi vian legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la preferoj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
+        [windows] Ĉu vi volas ĉiam havi viajn legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la elektebloj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
+       *[other] Ĉu vi volas ĉiam havi viajn legitimilojn, ĉie kie vi uzas { -brand-product-name }? Iru al la preferoj de { -sync-brand-short-name } kaj elektu la markobutonon Legitimiloj.
     }
 enable-password-sync-preferences-button =
     .label =
@@ -157,11 +166,18 @@ confirm-discard-changes-dialog-confirm-button = Ignori
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Datumfuĝo de retejo
 breach-alert-text = Pasvortoj estis elmetitaj aŭ ŝtelitaj el tiu ĉi retejo ekde via lasta ŝanĝo en la legitimilo. Ŝanĝu vian pasvorton por protekti vian konton.
+about-logins-breach-alert-date = Tiu ĉi datumfuĝo okazis la { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Iri al { $hostname }
 about-logins-breach-alert-learn-more-link = Pli da informo
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Sendefenda pasvorto
+about-logins-vulnerable-alert-text2 = Tiu ĉi pasvorto estis uzita en alia konto, kiu verŝajne estis elmetita de datumfuĝo. Reuzo de legitimiloj riskas ĉiujn viajn konton. Ŝanĝu tiun ĉi pasvorton.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Iri al { $hostname }
