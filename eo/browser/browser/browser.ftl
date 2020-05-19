@@ -206,6 +206,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Malplejgrandigi
+browser-window-maximize-button =
+    .tooltiptext = Plejgrandigi
+browser-window-restore-down-button =
+    .tooltiptext = Remeti antaŭan grandon
 browser-window-close-button =
     .tooltiptext = Fermi
 
@@ -221,6 +225,7 @@ popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividita
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = Por uzi la ŝparvojon F12, unue malfermu la ilojn por programistoj el la menuo Teksaĵa programisto.
 
 ## URL Bar
 

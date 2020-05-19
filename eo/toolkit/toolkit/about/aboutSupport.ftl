@@ -31,6 +31,7 @@ app-basics-title = Bazaj programaj informoj
 app-basics-name = Nomo
 app-basics-version = Versio
 app-basics-build-id = Identigilo de konstruo
+app-basics-distribution-id = Identigilo de distribuo
 app-basics-update-channel = Kanalo de ĝisdatigo
 # This message refers to the folder used to store updates on the device,
 # as in "Folder for updates". "Update" is a noun, not a verb.
@@ -287,6 +288,11 @@ sandbox-proc-type-content = enhavo
 sandbox-proc-type-file = enhavo de dosiero
 sandbox-proc-type-media-plugin = aŭdvida kromprogramo
 sandbox-proc-type-data-decoder = malkodilo de datumoj
+startup-cache-title = Starta staplo
+startup-cache-disk-cache-path = Vojo al la diska staplo
+startup-cache-ignore-disk-cache = Ignori diskan staplon
+startup-cache-found-disk-cache-on-init = Diska staplo trovita je starto
+startup-cache-wrote-to-disk-cache = Skribado al diska staplo
 launcher-process-status-0 = Aktiva
 launcher-process-status-1 = Malaktiva pro paneo
 launcher-process-status-2 = Devigite malaktiva
@@ -310,6 +316,7 @@ touch-enabled = tuŝa enigo aktiva
 drag-enabled = treno de ŝovstrio aktiva
 keyboard-enabled = klavaro aktiva
 autoscroll-enabled = aŭtomata ŝovo aktiva
+zooming-enabled = flua ŝanĝo de grando per pinĉo aktivita
 
 ## Variables
 ## $preferenceKey (string) - String ID of preference
