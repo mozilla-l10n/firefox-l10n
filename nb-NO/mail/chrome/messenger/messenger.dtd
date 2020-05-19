@@ -289,6 +289,8 @@
 <!ENTITY searchMailCmd.label "Søk i meldinger …">
 <!ENTITY searchMailCmd.accesskey "k">
 <!ENTITY searchMailCmd.key "f">
+<!ENTITY glodaSearchCmd.label "Globalt søk…">
+<!ENTITY glodaSearchCmd.accesskey "G">
 <!ENTITY searchAddressesCmd.label "Søk i adresser …">
 <!ENTITY searchAddressesCmd.accesskey "S">
 
@@ -730,6 +732,8 @@
 <!ENTITY idColumn.label "Mottaksrekkefølge">
 <!ENTITY attachmentColumn.label "Vedlegg-status">
 
+<!ENTITY deleteColumn.label "Slett">
+
 <!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Velg kolonner du vil vise">
 <!ENTITY selectColumn.tooltip "Skift velg alle meldingene">
@@ -753,6 +757,8 @@
 <!ENTITY locationColumn2.tooltip "Sorter etter plassering">
 <!ENTITY idColumn2.tooltip "Sorter etter mottaksrekkefølge">
 <!ENTITY attachmentColumn2.tooltip "Sorter etter vedlegg">
+
+<!ENTITY deleteColumn.tooltip "Slett en melding">
 
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextNewMsgFromTemplate.label "Ny melding fra mal">
