@@ -26,6 +26,7 @@ policy-DisabledCiphers = Malaktivigi ĉifradon.
 policy-DefaultDownloadDirectory = Difini la norman dosierujon por elŝutoj.
 policy-DisableAppUpdate = Malpermesi al retumilo ĝisdatigiĝi.
 policy-DisableBuiltinPDFViewer = Malaktivigi PDF.js (PDF-legilo inkluzivita en { -brand-short-name }).
+policy-DisableDefaultBrowserAgent = Eviti ke la norma retumila agento faru ion ajn. Tio nur aplikeblas al Windows, ĉar aliaj sistemoj ne havas tiun agenton.
 policy-DisableDeveloperTools = Bloki aliron al la iloj por programistoj.
 policy-DisableFeedbackCommands = Malaktivigi eblojn “sendi opiniojn” kaj “denunci trompan retejon” en la menuo de helpo.
 policy-DisableFirefoxAccounts = Malaktivigi servojn bazitaj sur { -fxaccount-brand-name }, inkluzive Speguladon.
@@ -71,6 +72,7 @@ policy-LegacyProfiles = Malaktivigi la trajton, kiu postulas malsamajn profilojn
 ## Do not translate "SameSite", it's the name of a cookie attribute.
 
 policy-LegacySameSiteCookieBehaviorEnabled = Aktivigi la norman tradician konduton de SameSite por kuketoj.
+policy-LegacySameSiteCookieBehaviorEnabledForDomainList = Reiri al la tradicia konduto de SameSite por kuketoj en specifaj retejoj.
 
 ##
 
@@ -83,6 +85,8 @@ policy-OfferToSaveLoginsDefault = Elekti ĉu { -brand-short-name } norme propona
 policy-OverrideFirstRunPage = Ŝanĝi la paĝon de unua starto. Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon de unua starto.
 policy-OverridePostUpdatePage = Ŝanĝi la postĝisdatigan paĝon "Kio estas nova". Lasu tiun ĉi politikon malplena se vi volas malaktivigi la paĝon post ĝisdatigo.
 policy-PasswordManagerEnabled = Aktivigi konservadon de pasvortoj en la pasvorta administranto.
+# PDF.js and PDF should not be translated
+policy-PDFjs = Malaktivigi aŭ agordi PDF.js, la integritan legilon de PDF en { -brand-short-name }.
 policy-Permissions2 = Agordi permesojn por filmilo, mikrofono, pozicio,sciigoj kaj aŭtomata ludado.
 policy-PopupBlocking = Norme permesi al kelkaj retejoj montri ŝprucfenestrojn.
 policy-Preferences = Difini kaj bloki la valoron por aro de preferoj.
