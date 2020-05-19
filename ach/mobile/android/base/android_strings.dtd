@@ -21,15 +21,9 @@
 <!ENTITY firstrun_data_message "Data manok, gwok mapol">
 <!ENTITY firstrun_data_subtext2 "Nek cal woko me tic ki data manok i kakube weng ma ilimo.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Akaunt">
-<!ENTITY firstrun_sync_message2 "Cak ki kama i giko iyie ni.">
 <!ENTITY firstrun_sync_subtext2 "Tii ki Ribo me nongo alamabuk, mung me donyo, ki jami mukene ma i gwoko ii &brandShortName; i nyonyo ni weng.">
 <!ENTITY newfirstrun_sync_subtext "Rib jami ma igwoko gi i mobile wa Firefox pi desktop, i mung ki ber bedo.">
-<!ENTITY updatednewfirstrun_sync_subtext "Dony iyie akaunt mamegi me nongo mapol ki ii &brandShortName;">
 <!ENTITY firstrun_signin_message "Kube, caki">
-<!ENTITY firstrun_signin_button "Dony iye wek itim marom">
-<!ENTITY newfirstrun_signin_button "Cak Ribo">
-<!ENTITY updatednewfirstrun_signin_button "Dony iyie &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
 <!ENTITY firstrun_button_notnow "Pe kombedi">
 <!ENTITY firstrun_button_next "Malubo">
@@ -341,11 +335,6 @@
 <!ENTITY pref_pwa "Purugram me kakube me diro ma lamal">
 <!ENTITY pref_pwa_summary "Yee me medo purugram me kakube i wang kio me acakki">
 
-<!ENTITY tracking_protection_prompt_title "Kombedi ki gwokke ikom lubo kor">
-<!ENTITY tracking_protection_prompt_text "Geng matek jami ma lubo kor wek pe i par.">
-<!ENTITY tracking_protection_prompt_tip_text "Lim ter me mung wek i nong ngec mapol">
-<!ENTITY tracking_protection_prompt_action_button "Aniang dong!">
-
 <!ENTITY tab_queue_toast_message3 "Kigwoko dirica matidi i &brandShortName;">
 <!ENTITY tab_queue_toast_action "Yab kombedi">
 <!ENTITY tab_queue_prompt_title "Yabo kakube mapol?">
@@ -431,7 +420,6 @@ shown from Android O while a tab is being queued.-->
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Gud purugram me Layeny ka iyer &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Lim Mozilla Support">
 <!ENTITY pref_about_firefox "Ikom &brandShortName;">
 <!ENTITY pref_vendor_faqs "Lapeny ma pol kare">
 <!ENTITY pref_vendor_feedback "Mii adwogi">
@@ -480,14 +468,6 @@ shown from Android O while a tab is being queued.-->
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "Tic me kabedo pa &vendorShortName; ocake">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Ngec manyen mapire kene">
-<!ENTITY pref_update_autodownload_wifi "Ki i Wi-Fi keken">
-<!ENTITY pref_update_autodownload_never "Pe">
-<!ENTITY pref_update_autodownload_always "Jwijwi">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Kony">
@@ -755,25 +735,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Alama buk ki lok mukato angec">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Ngec manyen tye pi &brandShortName;">
-<!ENTITY updater_start_select2 "Gudi me gamo">
-
-<!ENTITY updater_downloading_title2 "Golo &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Gamo pe olare">
-<!ENTITY updater_downloading_select2 "Gud wek ket ngec ka dong gikwanyo oko">
-<!ENTITY updater_downloading_retry2 "Gudi wek tem doki">
-
-<!ENTITY updater_apply_title3 "Kigamo ngec manyen pi &brandShortName;">
-<!ENTITY updater_apply_select3 "Gudi me keto">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Me gamo pwail li ngec manyen, ye &brandShortName; twero me nongo kakan.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Yee">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Kare pa welo manyen">
 <!ENTITY exit_guest_session "Kat woko ki i Kare pa welo">
@@ -941,7 +902,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Dwon ki video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "ngec ki diro me &vendorShortName;">
-<!ENTITY updater_notification_channel "Ngec manyen me purugram">
 <!ENTITY synced_tabs_notification_channel "Dirica matino ma kiribo">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

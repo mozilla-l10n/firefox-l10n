@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Nong i Google Play
 login-app-promo-apple =
     .alt = Gam ki i App Store
+
 login-filter =
     .placeholder = Yeny Donyo iyie
+
 create-login-button = Cwe Donyo iyie manyen
+
 fxaccounts-sign-in-text = Nong mung me donyo mamegi i nyonyo ni mukene
 fxaccounts-sign-in-button = Dony iyie { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -105,9 +108,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Juki
 confirmation-dialog-dismiss-button =
     .title = Juki
+
 about-logins-confirm-remove-dialog-title = Kwany donyo iyie man?
 confirm-delete-dialog-message = Pe ki twero gonyo tic man.
 about-logins-confirm-remove-dialog-confirm-button = Kwany
+
 confirm-discard-changes-dialog-message = Alokaloka weng ma pe kigwoko bi rweny woko.
 
 ## Breach Alert notification

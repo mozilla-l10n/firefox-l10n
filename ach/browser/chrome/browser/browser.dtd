@@ -109,6 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "w">
 <!ENTITY exitFullScreenCmd.label "Kat woko ki i wang komputa ma opong">
 <!ENTITY exitFullScreenCmd.accesskey "w">
+
 <!ENTITY fullScreenCmd.label "Wang komputa ma opong">
 <!ENTITY fullScreenCmd.accesskey "W">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -123,8 +124,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Mok akaunt mamegi">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Kan piny">
 <!ENTITY fullScreenRestore.tooltip "Dwoki">
@@ -164,7 +165,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Ter me Akaunt">
 <!ENTITY fxa.menu.manageAccount2.label "Lo Akaunt">
 <!ENTITY fxa.menu.signOut.label "Kat Woko…">
-<!ENTITY fxa.menu.deviceSettings.label "Ter me Nyonyo">
 <!ENTITY fxa.menu.setupSync.label "Ter &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -233,7 +233,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "J">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Cit i kanonge ma i lanyut me gintic kabedo">
+
 <!ENTITY printButton.label            "Go">
 <!ENTITY printButton.tooltip          "Go pot buk man">
 
@@ -273,6 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
+
 
 <!ENTITY searchItem.title             "Yeny">
 
@@ -334,6 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY newUserContext.label             "Dirica matidi manyen me mako jami">
 <!ENTITY newUserContext.accesskey         "m">
+
 <!ENTITY newNavigatorCmd.label        "Dirica manyen">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
@@ -468,6 +472,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mapol">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -601,11 +606,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "k">
 <!ENTITY bookmarkThisFrameCmd.label      "Ket alama buk i pem man">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "a">
+
 <!ENTITY pageAction.copyLink.label    "Lok kakube">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Gwok i Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Gwok Potbuk i Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Gwok Kakube i Pocket">
@@ -813,18 +820,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Kube maber">
 <!ENTITY identity.connectionNotSecure "Kube pe tye ki ber bedo">
 
-<!ENTITY identity.connectionSecure3 "Kube tye ki ber bedo">
-<!ENTITY identity.connectionNotSecure2 "Kube pe tye ki ber bedo">
-<!ENTITY identity.connectionNotSecureSecurityView "Pe itye ki kube maber ki kakube man.">
 <!ENTITY identity.connectionFile "Kigwoko potbuk man i kompiuta mamegi.">
 <!ENTITY identity.connectionVerified2 "Itye ki kube maber ki kakube man, rwode aye:">
-<!ENTITY identity.connectionVerified3 "Itye ki kube maber ki kakube man.">
 <!ENTITY identity.connectionInternal "Man potbuk me &brandShortName; matye ki ber bedo.">
 <!ENTITY identity.extensionPage "Kicano potbuk man ki i lamed">
 <!ENTITY identity.insecureLoginForms2 "Donyo iyie ma kiketo gi i potbuk man twero bedo ki goro.">
 <!ENTITY identity.customRoot "Kimoko kube ki lami catibiket ma Mozilla pe ngeyo.">
-
-<!ENTITY identity.evOwnerLabel2 "Kimiyo catibiket bot:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ogengo but potbuk man ma pe tye ki ber bedo.">
@@ -859,7 +860,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Rukuca">
 
-<!ENTITY identity.permissions3 "Twero">
 <!ENTITY identity.permissionsEmpty "Pe imiyo ki kakube man kit twer madito mo keken.">
 <!ENTITY identity.permissionsReloadHint "Twero mite ni myero i nwo cano potbuk wek alokaloka otime.">
 <!ENTITY identity.permissionsPreferences.tooltip "Yab Ter me Twero">
@@ -979,6 +979,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Lor">
 

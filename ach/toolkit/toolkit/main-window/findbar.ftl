@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Nong en matime malubo kore pi lok
 findbar-previous =
     .tooltiptext = Nong en matime malubo kore pi lok
+
 findbar-find-button-close =
     .tooltiptext = Lor gintic me nong
-findbar-highlight-all =
-    .label = Wer weng
-    .accesskey = w
-    .tooltiptext = Puu lok matime weng
+
 findbar-case-sensitive =
     .label = Lok marwate
     .accesskey = t
     .tooltiptext = Yeny ki nukta ma paro
+
 findbar-entire-word =
     .label = Nyig lok weng
     .accesskey = N

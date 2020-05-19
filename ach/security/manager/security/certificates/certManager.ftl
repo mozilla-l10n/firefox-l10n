@@ -4,146 +4,176 @@
 
 certmgr-title =
     .title = Lalo Waraga
+
 certmgr-tab-mine =
     .label = Waraga mamegi
+
 certmgr-tab-people =
     .label = Dano
+
 certmgr-tab-servers =
     .label = Lupok tic
+
 certmgr-tab-ca =
     .label = Twero
+
 certmgr-mine = I tye ki catibiket ma aa kibot dul magi ma nyutu in kikome
 certmgr-people = I tye ki catibiket i pwail ma nyutu jo magi kikome
 certmgr-servers = I tye ki catibiket i pwail ma nyutu lupok tic magi kikome
 certmgr-ca = I tye ki catibiket i pwail ma nyutu lumi catibiket magi kikome
+
 certmgr-detail-general-tab-title =
     .label = Weng
     .accesskey = W
+
 certmgr-detail-pretty-print-tab-title =
     .label = Lok kore kikore
     .accesskey = L
+
 certmgr-pending-label =
     .value = Kombedi tye ka moko waraga…
-certmgr-subject-info-label =
-    .value = Kimino Bot
-certmgr-issuer-info-label =
-    .value = Ngat ma omino en Aye
-certmgr-period-of-validity-label =
-    .value = Kare me ticce
-certmgr-fingerprints-label =
-    .value = Keto cing
+
 certmgr-subject-label = Kimino Bot
+
 certmgr-issuer-label = Ngat ma omino en Aye
+
 certmgr-period-of-validity = Kare me ticce
+
 certmgr-fingerprints = Keto cing
+
 certmgr-cert-detail =
     .title = Lok me waraga kore kikore
     .buttonlabelaccept = Lo
     .buttonaccesskeyaccept = L
-certmgr-cert-detail-cn =
-    .value = Nying manonge bot lwak (CN)
-certmgr-cert-detail-o =
-    .value = Dul (O)
-certmgr-cert-detail-ou =
-    .value = Yunit me dul (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Nying Namba
-certmgr-cert-detail-sha256-fingerprint =
-    .value = Keto cing me SHA-256
-certmgr-cert-detail-sha1-fingerprint =
-    .value = Keto cing me SHA1
+
 certmgr-cert-detail-commonname = Nying manonge bot lwak (CN)
+
 certmgr-cert-detail-org = Dul (O)
+
 certmgr-cert-detail-orgunit = Yunit me dul (OU)
+
 certmgr-cert-detail-serial-number = Nying Namba
+
 certmgr-cert-detail-sha-256-fingerprint = Keto cing me SHA-256
+
 certmgr-cert-detail-sha-1-fingerprint = Keto cing me SHA1
+
 certmgr-edit-ca-cert =
     .title = Yub CA tero gen me waraga
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Yub ter me gen:
+
 certmgr-edit-cert-trust-ssl =
     .label = Waraga man twero nyutu kakube.
+
 certmgr-edit-cert-trust-email =
     .label = Waraga man romo nyutu lutic kwede mail.
+
 certmgr-delete-cert =
     .title = Kwany Waraga
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Nying Waraga
+
 certmgr-cert-server =
     .label = Lapok tic
+
 certmgr-override-lifetime =
     .label = Kare me kwo
+
 certmgr-token-name =
     .label = Nyonyo me Gwoko tic
+
 certmgr-begins-on = Cake ikom
+
 certmgr-begins-label =
     .label = Cake ikom
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Kare ne kato Inino
+
 certmgr-expires-label =
     .label = Kare ne kato Inino
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Kanonge me email
+
 certmgr-serial =
     .label = Nying Namba
+
 certmgr-view =
     .label = Nen…
     .accesskey = N
+
 certmgr-edit =
     .label = Yub Gen…
     .accesskey = Y
+
 certmgr-export =
     .label = Kel ki woko…
     .accesskey = e
+
 certmgr-delete =
     .label = Kwany…
     .accesskey = K
+
 certmgr-delete-builtin =
     .label = Kwany onyo Pe igen…
     .accesskey = K
+
 certmgr-backup =
     .label = Gwok…
     .accesskey = G
+
 certmgr-backup-all =
     .label = Gwok Weng…
     .accesskey = o
+
 certmgr-restore =
     .label = Kel ki woko…
     .accesskey = e
+
 certmgr-details =
     .value = Di bar me Waraga
     .accesskey = W
+
 certmgr-fields =
     .value = Wel Di bar
     .accesskey = D
+
 certmgr-hierarchy =
     .value = Rwom me Catibiket
     .accesskey = H
+
 certmgr-add-exception =
     .label = Med Weko…
     .accesskey = e
+
 exception-mgr =
     .title = Med Weko Gwoko tic
+
 exception-mgr-extra-button =
     .label = Mok Weko Gwoko kuc
     .accesskey = M
+
 exception-mgr-supplemental-warning = Bank matiyo, citowa, ki di bar pa lwak pe bi penyi me timo ma eni ni.
+
 exception-mgr-cert-location-url =
     .value = Kabedo:
+
 exception-mgr-cert-location-download =
     .label = Nong Waraga
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = Nen…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Gwok ma eni matwal
     .accesskey = G
+
 pk11-bad-password = Giketo mung mape tye kakare.
 pkcs12-decode-err = Okwero cwalo Pwail.  Onyo pe tye i kit PKCS #12, kibalo woko, onyo mung ma iketo pe tye kakare.
 pkcs12-unknown-err-restore = Okwero dwoko Pwail me PKCS #12 pi te lok mape ngene.
@@ -176,18 +206,24 @@ delete-user-cert-title =
     .title = Kwany woko Waraga ni
 delete-user-cert-confirm = I moko ada ni i mito kwanyo woko waraga magi?
 delete-user-cert-impact = Ka i kwanyo woko waraga ni kikome, pe iromo tic kwede me nyute keni.
+
+
 delete-ssl-cert-title =
     .title = Kwany woko Waraga pa Lapok tic
 delete-ssl-cert-confirm = I moko ada ni imito kwanyo woko lapok tic magi?
 delete-ssl-cert-impact = Ka i kwanyo lapok tic, dong roto gwoko kuc calo kare weng pi lapok tic ki i mito tiyo ki waraga ma tiyo.
+
 delete-ca-cert-title =
     .title = Kwany onyo Pe i gen Waraga me CA
 delete-ca-cert-confirm = I lego woko waraga me CA man. Pi waraga gen weng bi kwanye woko, ma tye ki gin matime. I moko ada ni imito kwanyo onyo pe i geno?
 delete-ca-cert-impact = Ka i kwanyo onyo pe i geno twero (CA) me waraga, purugram man pe dong bi geno waraga mo ma gi mino ki CA.
+
+
 delete-email-cert-title =
     .title = Kwany Waraga me E-Mail
 delete-email-cert-confirm = I moko ada ni imito kwanyo jo magi woko ki waraga me e-mail?
 delete-email-cert-impact = Ka i kwanyo waraga me e-mail pa dano, pe dong iromo cwalo e-mail ma kicono bot dano.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -203,21 +239,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Lanen Catibiket: “{ $certName }”
+
 not-present =
     .value = <Pe Dul kom Waraga>
+
 # Cert verification
 cert-verified = Waraga man kimoko pi tic magi:
+
 # Add usage
 verify-ssl-client =
     .value = Waraga pa Latic me SSL
+
 verify-ssl-server =
     .value = Waraga pa Lapok tic me SSL
+
 verify-ssl-ca =
     .value = Twero me Waraga me SSL
+
 verify-email-signer =
     .value = Cwal Email pa Waraga me Laket capa cing
+
 verify-email-recip =
     .value = Cwal Waraga pa Lagam Email
+
 # Cert verification
 cert-not-verified-cert-revoked = Pe i romo moko waraga man pien kiloyo woko.
 cert-not-verified-cert-expired = Pe i romo moko waraga man pien kare ne otum.

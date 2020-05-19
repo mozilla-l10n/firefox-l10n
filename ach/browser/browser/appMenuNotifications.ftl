@@ -46,6 +46,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = A
 appmenu-addon-private-browsing-message = Lamed mo keken manyen ma imedo i { -brand-shorter-name } pe bitic i Dirica me Mung ni kwanyo ka i yee man i ter.
 appmenu-addon-private-browsing-learn-more = Nong ngec ikit me loono ter me lamed
+    
 appmenu-new-tab-controlled =
     .label = Dirica matidi ni manyen olokke.
     .buttonlabel = Gwok alokaloka

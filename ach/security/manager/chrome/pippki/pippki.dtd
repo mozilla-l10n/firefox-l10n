@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Gipenyi me geno Twero me Waraga manyen (CA).">
 <!ENTITY downloadCert.trustSSL "Gen CA man me nyutu kakube me web.">
 <!ENTITY downloadCert.trustEmail "Gen CA man pi nyutu lutic ki email.">
-<!ENTITY downloadCert.trustObjSign "Gen CA man pi nyutu luyub purugram.">
 <!ENTITY downloadCert.message3 "Mapwod pe i geno CA man pi tic mo keken, myero i pim waraga ne ki cik (ka tye).">
 <!ENTITY downloadCert.viewCert.label "Nen">
 <!ENTITY downloadCert.viewCert.text "Pim waraga me CA">

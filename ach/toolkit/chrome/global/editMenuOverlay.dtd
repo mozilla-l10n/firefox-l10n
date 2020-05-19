@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Yer Weng">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "W">
+
 <!ENTITY findCmd.label             "Nong">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "N">

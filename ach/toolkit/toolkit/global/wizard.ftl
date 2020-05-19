@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Angec
     .accesskey = A
+
 wizard-macos-button-next =
     .label = Mede
     .accesskey = M
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Malubo >
     .accesskey = M
+
 wizard-macos-button-finish =
     .label = Otum
 wizard-linux-button-finish =
     .label = Tyek
 wizard-win-button-finish =
     .label = Tyek
+
 wizard-macos-button-cancel =
     .label = Juki
 wizard-linux-button-cancel =

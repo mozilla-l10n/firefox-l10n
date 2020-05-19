@@ -15,6 +15,7 @@ add-bookmark = Med alamabuk
 open-location = Yeny onyo ket kanonge
 share = Nywaki
 close-window = Lor Dirica
+
 # Describes searches limited to a specific scope
 # (e.g. searching only in history).
 search-search-in = Yeny ii:
@@ -26,3 +27,4 @@ search-history = Gin mukato
 
 
 
+##

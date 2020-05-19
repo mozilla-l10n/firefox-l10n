@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Yab purugram">
+
 <!ENTITY runtimeButton_label "Yer me cawa tic">
 
 <!-- We try to repicate Firefox' bindings: -->

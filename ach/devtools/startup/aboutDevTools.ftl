@@ -9,6 +9,7 @@ enable-common-message = Kijuko woko pire kene Gitic pa Ludiro me Firefox me miin
 enable-learn-more-link = Nong ngec mapol ikom Gitic pa Ludiro
 enable-enable-button = Cak Gitic pa Ludiro
 enable-close-button = Lor dirica matidi man
+
 welcome-title = Wajoli i Gitic pa Ludiro me Firefox!
 newsletter-title = Waraga lok angeya pa Ludiro me Mozilla
 newsletter-message = Wek ki cwal lok angeya pa ludiro, ngec ki jami tic atir i canduk mamegi.
@@ -17,9 +18,11 @@ newsletter-email-placeholder =
 newsletter-privacy-label = Atye agonya ki Mozilla me loono ngec mamega kit ma kitito kwede ii <a data-l10n-name="privacy-policy">Cik me Mung man</a>.
 newsletter-subscribe-button = Coone
 newsletter-thanks-title = Pwoc!
+
 footer-title = Firefox Developer Edition
 footer-message = Itye ka yenyo gin makato Gitic pa Ludiro? Nen layeny me Firefox ma ki yubo atika ne pi ludiro ki tic me kare ma nyen.
 footer-learn-more-link = Nong ngec mapol
+
 features-learn-more = Nong ngec mapol
 features-console-desc = Gwok peki me CSS, JavaScript, ber bedo ki netwak. <a data-l10n-name="learn-more">{ features-learn-more }</a>
 features-debugger-title = Gin nongo bal

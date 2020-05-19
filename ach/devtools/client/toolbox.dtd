@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -12,7 +13,6 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "Bal i yabo Bok pa Gitic me Layeny:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -85,6 +85,7 @@
 
 <!ENTITY options.disableJavaScript.label     "Juk JavaScript *">
 <!ENTITY options.disableJavaScript.tooltip   "Dino gin ayera man obi juko JavaScript pi dirica matidi matye kombedi. Ka ce dirica matidi onyo canduk me gintic ki loro woko ci ter man wic obi wil iye.">
+
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
@@ -150,8 +151,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "Nyut kama nonge iye ma tye originol">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Nyut kama nonge iye ma tye originol (labolle. Pwail me Sass) i layub style kadong la ngi">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -176,14 +175,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "Ma imaro matye ata">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "Ye wel ma pe rweny">
-<!ENTITY options.enablePersistentLogs.tooltip  "Ka i ye gin ayera man Kacoc me kakube kacel ki Lanen Kube obi jwayo adwogi kare weng ma i cito pot buk manyen">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -191,6 +187,7 @@
 
 <!ENTITY options.showPlatformData.label    "Nyut tuti me tic pa Gecko">
 <!ENTITY options.showPlatformData.tooltip  "Ka ce i ye gin ayera man ripot pa La co profile me JavaScript obi bedo ki lanen me tuti me Gecko">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

@@ -9,17 +9,12 @@ about-service-workers-title = Ikom Service Workers
 about-service-workers-main-title = Service Workers ma kicoyo
 about-service-workers-warning-not-enabled = Pe kicako Service Workers.
 about-service-workers-warning-no-service-workers = Pe tye Service Workers ma kicoyo.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Kama oa iye: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } ID pa purugram { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Nying kakan ma tye katic:</strong> { $name }
 waiting-cache-name = <strong>Nying kakan ma tye kakuro:</strong> { $name }
 push-end-point-waiting = <strong>Agiki me coro:</strong> { waiting }
 push-end-point-result = <strong>Agiki me coro:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Ngec manyen
+
 unregister-button = Kwanyo
+
 unregister-error = Kwanyo Service Worker man pe olare.
+
 waiting = Kuro…

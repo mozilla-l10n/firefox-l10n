@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Lapok kine Manyen">
 <!ENTITY cmd.new_separator.accesskey       "L">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Nwo cano alama me buk matye katime kombedi">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "N">
-
-<!ENTITY cmd.moveBookmarks.label                  "Kob…">
-<!ENTITY cmd.moveBookmarks.accesskey              "K">
-
 <!ENTITY col.name.label          "Nying">
 <!ENTITY col.tags.label          "Lanyut">
 <!ENTITY col.url.label           "Kabedo">
 <!ENTITY col.mostrecentvisit.label "Lim mukato manyen loyo">
 <!ENTITY col.visitcount.label    "Wel Lim">
-<!ENTITY col.description.label   "Lok ikome">
 <!ENTITY col.dateadded.label     "Kimedo">
 <!ENTITY col.lastmodified.label  "Yub me agiki">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Cit anyim">
 
-<!ENTITY detailsPane.more.label "Mapol">
-<!ENTITY detailsPane.more.accesskey "p">
-<!ENTITY detailsPane.less.label "Nok">
-<!ENTITY detailsPane.less.accesskey "o">
 <!ENTITY detailsPane.selectAnItemText.description "Yer jami me anena kadong i yub jami me ticce">
 
 <!ENTITY view.label               "Nen">

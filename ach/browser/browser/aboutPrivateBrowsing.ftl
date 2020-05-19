@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Nong ngec mapol ikom<a data-l10n-name="learn-more">Yeny i mung</a>.
 about-private-browsing-info-visited = potbuk ma kilimo
+
 privatebrowsingpage-open-private-window-label = Yab dirica me mung
     .accesskey = m
 about-private-browsing-info-notsaved = Ka i yenyo i Dirica me mung, { -brand-short-name } <strong>pe gwoko</strong>:
@@ -24,6 +25,7 @@ about-private-browsing =
     .title = Yeny Kakube
 about-private-browsing-not-private = Kombedi pe itye i dirica me mung.
 about-private-browsing-info-description = { -brand-short-name } jwayo yeny ki gin mukato me yeny mamegi ka i kato woko ki i purugram onyo i loro dirica ki dirica matino weng me Yeny i Mung. Kadi bed ni man pe weko i bedo ma pe ingene bot kakube onyo lumi intanet mamegi, weko bedo yot me gwoko ngo ma itimo iwiyamo i mung ki bot ngat mukene ma tiyo ki kompuita man.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

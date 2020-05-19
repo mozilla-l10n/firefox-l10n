@@ -3,9 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-heading = Imito bene kwanyo data me kakube ma ii kompiuta ni? Data ni me { -sync-brand-name } bi dong ii akaunt mamegi, kadi kumeno.
+
 sync-disconnect-remove-sync-caption = Kwany Data me { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Alamabuk, gin mukato, mung me donyo, ki mukene.
+
 sync-disconnect-remove-other-caption = Kwany Data me Mung mukene
+
 sync-disconnect-cancel =
     .label = Juki
     .accesskey = u
@@ -18,6 +22,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Juk ki Kwany
     .accesskey = J
+
 sync-disconnect-confirm-disconnect =
     .label = Juk Keken
     .accesskey = J

@@ -48,6 +48,7 @@ import =
 close-button =
     .label = Lori
     .accesskey = L
+
 show-passwords =
     .label = Nyut mung me donyo
     .accesskey = P

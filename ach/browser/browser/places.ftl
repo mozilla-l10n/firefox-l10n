@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Yab i dirica manyen me mung
     .accesskey = m
+
 places-new-bookmark =
     .label = Alama me buk manyen…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Lapok kine Manyen
     .accesskey = L
+
 places-view =
     .label = Nen
     .accesskey = n
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ki Nino dwe kacel ki Kakube
     .accesskey = n
+
 places-history-search =
     .placeholder = Yeny gin mukato
 places-bookmarks-search =
     .placeholder = Yeny alamabuk
+
 places-delete-domain-data =
     .label = Wek wii owil woko ikom pot buk man
     .accesskey = W

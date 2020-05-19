@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Cung manok
 pictureinpicture-play =
     .aria-label = Tuki
+
 pictureinpicture-mute =
     .aria-label = Kany dwon
 pictureinpicture-unmute =
     .aria-label = Dwok dwon
+

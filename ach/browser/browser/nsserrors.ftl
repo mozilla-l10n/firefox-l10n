@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Bal otime ikare me kube bot { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kod me bal: { $error }
+
 psmerr-ssl-disabled = Pe romo kube maber pien cik me coc me SSL kijuko woko.
 psmerr-ssl2-disabled = Pe romo kube maber pien kakube man tiyo ki en macon, cik ma pe ogwoke maber pi cik me SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     I gamo waraga ma pe tiyo.  Tim ber ikube ki lalo tic pa lapok tic onyo lakub email kadong mini gi ngec magi:
     
     Waraga ni tye i ye nyig namba mogo calo waraga mapat ma loyo twero me waraga en aye omino.  Tim ber i nong waraga manyen matye ki nyig namba mamwonya.
+
 ssl-error-export-only-server = Pe romo kube ki ber bedo. Wadi pe cwako loko ngec i kod me rwom ma lamal.
 ssl-error-us-only-server = Pe romo kube ki ber bedo. Wadi mito loko ngec i kod me rwom ma lamal ma pe ki cwako.
 ssl-error-no-cypher-overlap = Pe romo kube kwede kompiuta me rwom acel: pe tye coc cura mo marwate.

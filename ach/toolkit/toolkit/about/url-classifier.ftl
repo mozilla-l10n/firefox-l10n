@@ -6,6 +6,7 @@ url-classifier-provider-last-update-time = Cawa ma ogiko me ngec manyen
 url-classifier-provider-next-update-time = Cawa malubo me ngec manyen
 url-classifier-provider-update-btn = Ket ngec manyen
 url-classifier-cache-clear-btn = Jwa
+
 url-classifier-not-available = N/A
 url-classifier-enabled = Kicako
 url-classifier-disabled = Kijuko

@@ -11,17 +11,21 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> lalub kor ma ki gengo nicake { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> lulub kor ma ki gengo nicake { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Lulub kor ma { -brand-short-name } ogengo i cabit man
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Tin
+  
 lockwise-title = Pe wii wil mung me donyo doki matwal
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } gwoko maber mung me donyo ni i layeny mamegi.
 lockwise-header-content-logged-in = Gwok ka i rib maber mung me donyo mamegi i nyonyo ni weng.
 protection-report-view-logins-button = Nen Donyo iyie
     .title = Cit i Donyo Iyie ma Kigwoko
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -30,8 +34,11 @@ lockwise-passwords-stored =
         [one] Kigwoko mung me donyo maber <a data-l10n-name="lockwise-how-it-works">Kit ma tiyo kwede</a>
        *[other] Kigwoko mung me donyo maber <a data-l10n-name="lockwise-how-it-works">Kit ma tiyo kwede</a>
     }
+
 manage-connected-devices = Lo nyonyo…
+
 monitor-link = Kit ma tiyo kwede
+
 full-report-link = Nen ripot weng ikom <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 
 ## The title attribute is used to display the type of protection.

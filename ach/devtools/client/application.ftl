@@ -22,5 +22,7 @@ serviceworker-worker-start = Caki
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = Tye katic
+
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Kijuko woko
+

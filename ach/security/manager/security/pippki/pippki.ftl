@@ -8,6 +8,7 @@ password-quality-meter = Mita me kit mung me donyo
 
 change-password-window =
     .title = Lok mung me donyo madit
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Nyonyo me Gwoko kuc: { $tokenName }

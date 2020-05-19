@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Keto but ngec manyen pe onongo twere. &brandShortName; bi temo doki kun gamo ngec manyen ma opong.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; pe romo neno kace ngec manyen tye. Tim ber inen ni itye ki kit ma okati macok coki pi &brandShortName; ki bot:">
-
+                                           
 <!ENTITY  finishedPage.title              "Ngec manyen tye atera me aketa">
 <!ENTITY  finishedPage.text               "Ngec manyen bi kete ikare mukene ma &brandShortName; bicake. I romo cako &brandShortName; odoco kombedi, onyo mede ki tic kadong i cako odoco lacen.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Ngec manyen biketo ikare mabino teke &brandShortName; ocake. I romo cako &brandShortName; odoco kombedi, onyo mede ki tic kadong i cako odoco lacen.">
 <!ENTITY  finishedBackground.moreElevated "Ngec manyen man mito twero pa laloc. Ki biketo ngec manyen ne lacen ka &brandShortName; ocake. Itwero nwoyo cako &brandShortName; kombedi, mede ki tic kadong i cako lacen, onyo kwero ngec manyen man.">
 
-<!ENTITY  update.details.label            "Matut">
-<!ENTITY  update.installedOn.label        "Kiketo iwi:">
-<!ENTITY  update.status.label             "Kite:">

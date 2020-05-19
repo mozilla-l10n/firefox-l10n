@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = Ter cal me nge wang kompiuta
+
 set-desktop-background-accept =
     .label = Ter cal me nge wang kompiuta
+
 open-desktop-prefs =
     .label = Yab ter me wang kompiuta
+
 set-background-color = Rangi:
+
 set-background-position = Kabedo:
+
 set-background-tile =
     .label = Matangula
+
 set-background-center =
     .label = Dyere
+
 set-background-stretch =
     .label = Ciki
+
 set-background-fill =
     .label = Pik
+
 set-background-fit =
     .label = Porre

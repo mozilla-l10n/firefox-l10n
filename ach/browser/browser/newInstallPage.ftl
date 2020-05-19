@@ -8,9 +8,13 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Lok angeya ma pire tek
+
 changed-title = Ngo ma oloke?
+
 options-title = Ngo ma atwero timo?
+
 resources = Jami me tic:
+
 sync-header = Dony iyie onyo cwe { -fxaccount-brand-name }
 sync-label = Ket email mamegi
 sync-input =
