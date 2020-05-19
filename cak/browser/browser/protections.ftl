@@ -88,6 +88,23 @@ lockwise-passwords-stored =
         [one] Ütz yakon ri ewan tzij <a data-l10n-name="lockwise-how-it-works">Achike rub'eyal yesamäj</a>
        *[other] Ütz eyakon ri ewan taq tzij <a data-l10n-name="lockwise-how-it-works">Achike rub'eyal yesamäj</a>
     }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] 1 ewan tzij rik'in jub'a' xtz'iläx pa jun tanaj tzij.
+       *[other] { $count } ewan taq tzij rik'in jub'a' xetz'iläx pa jun tanaj tzij.
+    }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] 1 ewan tzij pa rub'eyal niyak.
+       *[other] Ri ewan taq atzij pa rub'eyal yeyak.
+    }
+lockwise-how-it-works-link = Achike rub'eyal nisamäj
 turn-on-sync = Titzij { -sync-brand-short-name }...
     .title = B'enam pa kajowab'al ximoj
 manage-connected-devices = Kenuk'samajïx taq okisaxel…
@@ -104,6 +121,12 @@ monitor-header-content-no-account = Tanik'oj { -monitor-brand-name } richin natz
 monitor-header-content-signed-in = { -monitor-brand-name } nuya' rutzijol chawe toq ri awetamab'al k'o pa jun rutz'ilanem tzij etaman ruwäch.
 monitor-sign-up = Tatz'ib'aj awi' richin Ye'ak'ül Kitzijol K'ayewal
 auto-scan = Ruyonil nitz'ajwachib'ëx wakami
+monitor-emails-tooltip =
+    .title = Ketz'et ri kochochib'al taqoya'al xetz'ët pa { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Ketz'et kitz'ilanem taq tzij etaman kiwa pa { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Ketz'et ewan taq tzij xk'ut pa { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
