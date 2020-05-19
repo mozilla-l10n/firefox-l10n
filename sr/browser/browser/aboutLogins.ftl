@@ -11,7 +11,7 @@ login-app-promo-subtitle = Преузмите бесплатну { -lockwise-bra
 login-app-promo-android =
     .alt = Преузмите на Google Play
 login-app-promo-apple =
-    .alt = Преузмите на App Store
+    .alt = Преузмите на App Store-у
 login-filter =
     .placeholder = Претражи пријаве
 create-login-button = Направи нову пријаву
@@ -108,17 +108,17 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Потврдите ваш идентитет да уредите сачувану пријаву.
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредите сачувану пријаву
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Потврдите ваш идентитет да откријете сачувану лозинку.
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = откријте сачувану лозинку
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Потврдите ваш идентитет да копирате сачувану лозинку.
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирајте сачувану лозинку
 
