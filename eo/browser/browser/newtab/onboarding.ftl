@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Unuaj paŝoj
 onboarding-welcome-header = Bonvenon al { -brand-short-name }
 onboarding-welcome-body = Vi havas la retumilon.<br/>Konatiĝu kun la cetero de { -brand-product-name }.
 onboarding-welcome-learn-more = Pli da informo pri la utiloj.
+onboarding-join-form-header = Venu al { -brand-product-name }
 onboarding-welcome-modal-get-body = Vi havas la retumilon.<br/>Nun eltiru la maksimumon el { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Maksimumigi vian privatecan protekton.
 onboarding-welcome-modal-privacy-body = Vi havas la retumilon. Aldonu ni pli da privatecaj protektoj.
 onboarding-welcome-modal-family-learn-more = Pli da informo pri la familio de produktoj de { -brand-product-name }.
 onboarding-welcome-form-header = Komencu ĉi tie
-onboarding-join-form-header = Venu al { -brand-product-name }
 onboarding-join-form-body = Por komenci, tajpu vian retpoŝtan adreson.
 onboarding-join-form-email =
     .placeholder = Tajpu retpoŝtan adreson
@@ -147,6 +147,9 @@ onboarding-facebook-container-button = Aldoni la etendaĵon
 onboarding-import-browser-settings-title = Enporti viajn legosignojn, pasvortojn kaj pli
 onboarding-import-browser-settings-text = Komencu tuj — facile portu viajn retejojn kaj agordojn de Chrome kun vi.
 onboarding-import-browser-settings-button = Enporti datumojn de Chrome
+onboarding-personal-data-promise-title = Konceptita por privateco
+onboarding-personal-data-promise-text = { -brand-product-name } pritraktas viajn datumojn respektoplene, ĝi prenas malpli el ili, ĝi protektas ilin kaj ĝi klarigas kiel ili estos uzitaj.
+onboarding-personal-data-promise-button = Legu nian promeson
 
 ## Message strings belonging to the Return to AMO flow
 
