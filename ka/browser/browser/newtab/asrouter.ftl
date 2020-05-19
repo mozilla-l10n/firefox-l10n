@@ -125,10 +125,6 @@ cfr-whatsnew-lockwise-take-link-text = გადმოწერა
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = აკრიფეთ ნაკლები, მოიძიეთ მეტი მისამართების ველიდან
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = გადადით ხშირად მონახულებულ საიტებზე მისამართების ველიდან ერთი დაწკაპებით. სწრაფი ძიებისთვის გამოიყენეთ { $searchEngineName } და ბრაუზერის ისტორია.
-cfr-whatsnew-searchbar-body-generic = გადადით ხშირად მონახულებულ საიტებზე მისამართების ველიდან ერთი დაწკაპებით. სწრაფი ძიებისთვის გამოიყენეთ საძიებო სისტემები და ბრაუზერის ისტორია.
 cfr-whatsnew-searchbar-body-topsites = ახლა, უბრალოდ გადადით მისამართების ველში და გამოჩნდება თქვენი რჩეული საიტების ბმულები.
 cfr-whatsnew-searchbar-icon-alt-text = გამადიდებელი შუშის ხატულა
 
@@ -233,6 +229,6 @@ cfr-whatsnew-passwords-icon-alt = დაუცველი პაროლის
 
 ## Picture-in-Picture fullscreen message
 
-cfr-whatsnew-pip-fullscreen-header = გაშალეთ ეკრანი-ეკრანი სრულ ეკრანზე
+cfr-whatsnew-pip-fullscreen-header = გაშალეთ ეკრანი-ეკრანში სრულ ეკრანზე
 cfr-whatsnew-pip-fullscreen-body = როცა ვიდეო ამოხტება ცალკე ფანჯარაში, მასზე ორჯერ დაწკაპებით შეძლებთ მთელ ეკრანზე გაშალოთ.
 cfr-whatsnew-pip-fullscreen-icon-alt = ეკრანი-ეკრანში ხატულა
