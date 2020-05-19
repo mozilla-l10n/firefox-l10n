@@ -141,6 +141,7 @@ cfr-doorhanger-sync-bookmarks-ok-button = Huɓɓu { -sync-brand-short-name }…
 ## Login Sync
 
 cfr-doorhanger-sync-logins-header = Hoto majjin finnde maa kadi abadaa.
+cfr-doorhanger-sync-logins-body = Mooftu etee yahdin pinle maa e kaɓirɗe maa fof e kisal.
 cfr-doorhanger-sync-logins-ok-button = Huɓɓu { -sync-brand-short-name }…
     .accesskey = H
 
