@@ -37,6 +37,10 @@ etp-card-title = Utzirisan Chajinem chuwäch Ojqanem
 etp-card-content = Ri ojqanela' yatkojqaj pa k'amab'ey richin nikimöl ri awetamab'al chi rij ri ye'ab'än chuqa' ri niqa chawäch nakanoj. { -brand-short-name } ke'aq'ata' k'ïy chi ke ri taq ojqanela' ri' chuqa' ch'aqa' chik tz'ilanel taq skrip.
 protection-report-webpage-title = Rupas taq Chajinïk
 protection-report-page-content-title = Rupas taq Chajinïk
+protection-report-page-summary = { -brand-short-name } nitikïr nuchajij ri awichinaem toq atokinäq pa k'amaya'l. Rere' jun ichinan ch'uti kitzijol ri taq chajinïk, achi'el chuqa' ri taq samajib'äl richin nichap ri jikomal pa k'amab'ey.
+etp-card-title-always = Utzirisan Chajinïk chuwäch Ojqanem: Jutaqil Tzijïl
+etp-card-title-custom-not-blocking = Utzirisan Chajinïk chuwäch Ojqanem: CHUPÜL
+etp-card-content-summary = Toq man etaman ta kiwa taq ajk'ayij nikitojtob'ej yatkoqaj pan ewäl pan ajk'amaya'l, { -brand-short-name } pa ruyonil yeruq'ät k'ïy chi ke ri'.
 protection-report-etp-card-content-custom-not-blocking = Echupun ronojel ri taq chajinïk wakami. Ke'acha' ri taq ojqanela' yeq'at rik'in nanuk'samajij kinuk'ulem taq ruchajinik { -brand-short-name }.
 protection-report-manage-protections = Tinuk'samajïx Runuk'ulem
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -64,10 +68,15 @@ mobile-app-card-content = Tokisäx ri oyonib'äl okik'amaya'l rik'in ri kemon ch
 mobile-app-links = { -brand-product-name } Okik'amaya'l richin <a data-l10n-name="android-mobile-inline-link">Android</a> chuqa' <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Man tamestaj chik jun ewan tzij
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Runuk'samajel Ewan Tzij
 lockwise-header-content = { -lockwise-brand-name } ütz ke'ayaka' ri ewan taq atzij pan awokik'amaya'l.
 lockwise-header-content-logged-in = Ütz ke'ayaka' ri ewan taq atzij chuqa' ake'axima' pa ronojel awokisab'al.
 protection-report-view-logins-button = Titzet Tikirib'äl Molojri'ïl
     .title = Keb'etz'et Yakon taq Tikirib'äl Molojri'ïl
+protection-report-save-passwords-button = Keyak Ewan taq Tzij
+    .title = Keyak Ewan taq Tzij pa { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Kenuk'samajïx Ewan taq Tzij
+    .title = Kenuk'samajïx Ewan taq Tzij pa { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Xab'akuchi' ke'ak'waj ri ewan taq atzij
 lockwise-no-logins-card-content = Tawokisaj ewan taq tzij eyakon pa { -brand-short-name } pa xab'achike okisab'äl.
 lockwise-app-links = { -lockwise-brand-name } richin <a data-l10n-name="lockwise-android-inline-link">Android</a> chuqa' <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
