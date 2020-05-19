@@ -235,7 +235,7 @@ translate-exceptions =
 # Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
-    .label = Die Formate für Datum, Uhrzeit, Zahlen und Maßeinheiten können in den Einstellungen des Betriebssystem für "{ $localeName }" festgelegt werden.
+    .label = Einstellungen des Betriebssystems für "{ $localeName }" verwenden, um Datum, Uhrzeit, Zahlen und Maßeinheiten zu formatieren.
 check-user-spelling =
     .label = Rechtschreibung während der Eingabe überprüfen
     .accesskey = R
@@ -287,9 +287,9 @@ applications-use-app-default =
 applications-use-os-default =
     .label =
         { PLATFORM() ->
-            [macos] Standardanwendung von macOS verwenden
-            [windows] Standardanwendung von Windows verwenden
-           *[other] Standardanwendung des Systems verwenden
+            [macos] macOS-Standardanwendung verwenden
+            [windows] Windows-Standardanwendung verwenden
+           *[other] System-Standardanwendung verwenden
         }
 applications-use-other =
     .label = Andere Anwendung…
