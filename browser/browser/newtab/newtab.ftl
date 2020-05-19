@@ -57,6 +57,10 @@ newtab-confirm-delete-history-p2 = Questa acziun na po betg vegnir revocada.
 newtab-menu-section-tooltip =
     .title = Avrir il menu
     .aria-label = Avrir il menu
+# Tooltip for dismiss button
+newtab-dismiss-button-tooltip =
+    .title = Allontanar
+    .aria-label = Allontanar
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Noss sponsurs & tia sfera privata
 
 newtab-privacy-modal-button-done = Finì
 newtab-privacy-modal-header = Tia sfera privata è impurtanta.
-newtab-privacy-modal-paragraph =
-    Ultra dad istorgias captivantas, ta mussain nus era cuntegn relevant, 
-    curà cun premura da sponsurs distinguids. Nus garantin che tias datas
-    da navigaziun na bandunan mai tia copia persunala da { -brand-product-name }  —
-    nus n'avain betg access a questas datas e noss sponsurs n'era betg.
 newtab-privacy-modal-paragraph-2 =
     Ultra dad istorgias captivantas, ta mussain nus era cuntegn relevant, 
     curà cun premura da sponsurs distinguids. Nus garantin che <strong>tias datas
@@ -189,7 +188,6 @@ newtab-discovery-empty-section-topstories-timed-out = Oha! Nus avain quasi charg
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populars:
 newtab-pocket-more-recommendations = Dapli propostas
-newtab-pocket-whats-pocket = Tge è { -pocket-brand-name }?
 newtab-pocket-learn-more = Ulteriuras infurmaziuns
 newtab-pocket-cta-button = Obtegnair { -pocket-brand-name }
 newtab-pocket-cta-text = Memorisescha ils artitgels che ta plaschan en { -pocket-brand-name } e procura per inspiraziun cuntinuanta cun lectura fascinanta.

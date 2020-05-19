@@ -280,6 +280,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Utilisar { $app-name } (standard)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Utilisar l'applicaziun predefinida da macOS
+            [windows] Utilisar l'applicaziun predefinida da Windows
+           *[other] Utilisar l'applicaziun predefinida dal sistem
+        }
 applications-use-other =
     .label = Autra applicaziun…
 applications-select-helper = Tscherner in'applicaziun externa
@@ -305,6 +312,8 @@ applications-use-plugin-in =
     .label = Utilisar { $plugin-name } (en { -brand-short-name })
 applications-preview-inapp =
     .label = Prevista en { -brand-short-name }
+applications-open-inapp =
+    .label = Avrir en { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -318,12 +327,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -954,6 +967,7 @@ content-blocking-warning-title = Attenziun!
 content-blocking-warning-description = La bloccada da cuntegn po impedir che tschertas websites funcziunian. Igl è simpel da deactivar la bloccada per las websites che ti tegnas per fidablas.
 content-blocking-learn-how = Vegnir a savair co
 content-blocking-etp-warning-description = La bloccada da fastizaders po influenzar las funcziunalitads da tschertas websites. Rechargiar ina pagina cun fastizaders per chargiar l'entir cuntegn.
+content-blocking-and-isolating-etp-warning-description = La bloccada da fastizaders e l'isolaziun da cookies po influenzar las funcziunalitads da tschertas websites. Rechargiar ina pagina cun fastizaders per chargiar l'entir cuntegn.
 content-blocking-warning-learn-how = Vegnir a savair co
 content-blocking-reload-description = Igl è necessari da rechargiar ils tabs per applitgar las midadas.
 content-blocking-reload-tabs-button =

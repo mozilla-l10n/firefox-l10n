@@ -21,12 +21,12 @@ onboarding-button-label-get-started = Cumenzar
 onboarding-welcome-header = Bainvegni a { -brand-short-name }
 onboarding-welcome-body = Ti has gia il navigatur.<br/>Emprenda d'enconuscher tschels products da { -brand-product-name }.
 onboarding-welcome-learn-more = Ve a savair dapli davart ils avantatgs.
+onboarding-join-form-header = Fa part da { -brand-product-name }
 onboarding-welcome-modal-get-body = Ti has gia il navigatur.<br/>Profitescha ussa en tuts grads da { -brand-product-name }.
 onboarding-welcome-modal-supercharge-body = Protecziun da datas d'aut nivel.
 onboarding-welcome-modal-privacy-body = Ti has gia il navigatur. Meglierain anc la protecziun da tias datas.
 onboarding-welcome-modal-family-learn-more = Ulteriuras infurmaziuns davart la paletta da products da { -brand-product-name }.
 onboarding-welcome-form-header = Cumenzar qua
-onboarding-join-form-header = Fa part da { -brand-product-name }
 onboarding-join-form-body = Endatescha tia adressa d'e-mail per cumenzar.
 onboarding-join-form-email =
     .placeholder = Endatar l'e-mail
@@ -147,6 +147,8 @@ onboarding-facebook-container-button = Agiuntar l'extensiun
 onboarding-import-browser-settings-title = Importa tes segnapaginas, pleds-clav e dapli
 onboarding-import-browser-settings-text = Cumenza direct — e porta tias paginas e las preferenzas da Chrome cun tai.
 onboarding-import-browser-settings-button = Importar las datas da Chrome
+onboarding-personal-data-promise-title = Privat per princip
+onboarding-personal-data-promise-button = Leger nossa empermischun
 
 ## Message strings belonging to the Return to AMO flow
 
