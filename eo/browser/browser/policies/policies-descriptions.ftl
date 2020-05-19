@@ -52,6 +52,8 @@ policy-DontCheckDefaultBrowser = Malaktivigi ĉe starto la kontrolon pri la norm
 policy-DownloadDirectory = Difini kaj fiksi la dosierujon por elŝutoj.
 # “lock” means that the user won’t be able to change this setting
 policy-EnableTrackingProtection = Aktivigi aŭ malaktivigi la blokadon de enhavo kaj kun la eblo bloki ĝin.
+# “lock” means that the user won’t be able to change this setting
+policy-EncryptedMediaExtensions = Aktivigi aŭ malaktivigi la etendaĵoj de ĉifitraj aŭdvidaĵoj (EME) kaj laŭvole bloki ĝin.
 # A “locked” extension can’t be disabled or removed by the user. This policy
 # takes 3 keys (“Install”, ”Uninstall”, ”Locked”), you can either keep them in
 # English or translate them as verbs.
@@ -65,6 +67,13 @@ policy-HardwareAcceleration = Se estas "malvera" la aparata akcelo estos malŝal
 policy-Homepage = Difini kaj havi la eblon ŝlosi la ekan paĝon.
 policy-InstallAddonsPermission = Permesi al kelkaj retejoj la instalon de aldonaĵoj.
 policy-LegacyProfiles = Malaktivigi la trajton, kiu postulas malsamajn profilojn por ĉiu instalaĵo.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+policy-LegacySameSiteCookieBehaviorEnabled = Aktivigi la norman tradician konduton de SameSite por kuketoj.
+
+##
+
 policy-LocalFileLinks = Permesi al kelkaj difinitaj retejoj havi ligilojn al lokaj dosieroj.
 policy-NetworkPrediction = Aktivigi aŭ malaktivigi retan prognozon (antaŭlegon de DNS).
 policy-NewTabPage = Aktivigi aŭ malaktivigi la paĝon por novaj langetoj.
