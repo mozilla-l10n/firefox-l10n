@@ -220,6 +220,10 @@ translate-attribution = แปลโดย <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = ข้อยกเว้น…
     .accesskey = อ
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = ใช้การตั้งค่าระบบปฏิบัติการสำหรับ “{ $localeName }” ของคุณในการกำหนดรูปแบบวันที่ เวลา ตัวเลข และการวัดค่า
 check-user-spelling =
     .label = ตรวจสอบการสะกดคำของคุณเมื่อคุณพิมพ์
     .accesskey = จ
@@ -863,6 +867,8 @@ sitedata-option-block-cross-site-trackers =
     .label = ตัวติดตามข้ามไซต์
 sitedata-option-block-cross-site-and-social-media-trackers =
     .label = ตัวติดตามข้ามไซต์และสื่อสังคมออนไลน์
+sitedata-option-block-cross-site-and-social-media-trackers-plus-isolate =
+    .label = ตัวติดตามข้ามไซต์และสังคมออนไลน์ และแยกคุกกี้ที่เหลืออยู่
 sitedata-option-block-unvisited =
     .label = คุกกี้จากเว็บไซต์ที่ไม่ได้เยี่ยมชม
 sitedata-option-block-all-third-party =
