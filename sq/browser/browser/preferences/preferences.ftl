@@ -232,7 +232,7 @@ translate-attribution = Përkthime nga <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Përjashtime…
     .accesskey = P
-# Variables: 
+# Variables:
 #    $localeName (string) - Localized name of the locale to be used.
 use-system-locale =
     .label = Që të formatoni data, kohë, numra dhe njësi matëse, përdorni rregullimet e sistemit tuaj operativ për “{ $localeName }”.
@@ -284,6 +284,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Përdor { $app-name } (parazgjedhje)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] Përdor aplikacion parazgjedhje të macOS-it
+            [windows] Përdor aplikacion parazgjedhje të Windows-it
+           *[other] Përdor aplikacion parazgjedhje të sistemit
+        }
 applications-use-other =
     .label = Përdorni tjetër…
 applications-select-helper = Përzgjidhni Aplikacion Ndihmës
@@ -309,6 +316,8 @@ applications-use-plugin-in =
     .label = Përdor { $plugin-name } (te { -brand-short-name })
 applications-preview-inapp =
     .label = Paraparje në { -brand-short-name }
+applications-open-inapp =
+    .label = Hape në { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -322,12 +331,16 @@ applications-use-app-label =
     .value = { applications-use-app.label }
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -793,6 +806,8 @@ forms-master-pw-fips-desc = Ndryshimi i Fjalëkalimit Dështoi
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Që të krijoni një Fjalëkalim të Përgjithshëm, verifikoni identitetin tuaj.
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Që të krijoni një Fjalëkalim të Përgjithshëm, jepni kredencialet tuaj për hyrje në Windows. Kjo ndihmon të mbrohet siguria e llogarive tuaja.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
