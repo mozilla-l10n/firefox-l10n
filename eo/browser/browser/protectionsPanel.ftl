@@ -9,6 +9,12 @@ protections-panel-sitefixedsendreport-label = Ĉu la retejo nun funkcias? Bonvol
 ## These strings are used to define the different levels of
 ## Enhanced Tracking Protection.
 
+protections-popup-footer-protection-label-strict = Rigora
+    .label = Rigora
+protections-popup-footer-protection-label-custom = Personecigita
+    .label = Personecigita
+protections-popup-footer-protection-label-standard = Norma
+    .label = Norma
 
 ##
 
