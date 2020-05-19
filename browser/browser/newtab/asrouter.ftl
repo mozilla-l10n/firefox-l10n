@@ -132,6 +132,7 @@ cfr-whatsnew-pip-cta = আরও জানুন
 
 ## Permission Prompt
 
+cfr-whatsnew-permission-prompt-header = বিরক্তিকর সাইটের পপ-আপ কমিয়ে আনুন
 
 ## Fingerprinter Counter
 
@@ -201,6 +202,7 @@ cfr-doorhanger-milestone-ok-button = সব দেখুন
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-icon-alt = অরক্ষিত পাসওয়ার্ড কী আইকন
 
 ## Picture-in-Picture fullscreen message
 
