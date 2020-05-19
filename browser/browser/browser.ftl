@@ -225,7 +225,7 @@ popup-all-windows-shared = Alle sichtbaren Fenster auf dem Bildschirm werden wei
 
 ## DevTools F12 popup
 
-enable-devtools-popup-description = Um die F12-Taste einzusetzen, müssen erst die Entwicklerwerkzeuge über das Menü "Web-Entwickler" geöffnet werden.
+enable-devtools-popup-description = Um die F12-Tastenkkombination einzusetzen, müssen die Entwicklerwerkzeuge einmalig über das Menü "Web-Entwickler" geöffnet werden.
 
 ## URL Bar
 
