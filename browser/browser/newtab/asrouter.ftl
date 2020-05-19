@@ -125,10 +125,6 @@ cfr-whatsnew-lockwise-take-link-text = Ricevi la programon
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Tajpu malpli, trovu pli per la adresa strio
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Aliri viajn plej vizititajn retejoj per unu alklako en la adresa strio. Trovu aferojn pli rapide per rezultoj el { $searchEngineName } kaj el via retuma historio.
-cfr-whatsnew-searchbar-body-generic = Aliri viajn plej vizititajn retejojn per unu alklako en la adresa strio. Trovu aferojn pli rapide per serĉaj rezultoj el via retuma historio.
 cfr-whatsnew-searchbar-body-topsites = Ekde nun, simple iru al la adresa strio kaj aperos kadro kun ligiloj al viaj plej vizititaj retejoj.
 cfr-whatsnew-searchbar-icon-alt-text = Emblemo de lupeo
 
@@ -214,3 +210,16 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
     .accesskey = V
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+cfr-whatsnew-lockwise-header = Facile krei pasvortojn
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
