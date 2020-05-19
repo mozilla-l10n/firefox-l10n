@@ -24,8 +24,8 @@ fxaccounts-avatar-button =
 
 menu =
     .title = মেনু খুলুন
-# This menuitem is only visible on Windows
-menu-menuitem-import = পাসওয়ার্ড ইম্পোর্ট...
+# This menuitem is only visible on Windows and macOS
+about-logins-menu-menuitem-import-from-another-browser = অন্য ব্রাউজার থেকে ইম্পোর্ট করুন…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] অপশন
@@ -47,7 +47,7 @@ login-list-count =
 login-list-sort-label-text = ক্রমানুসার:
 login-list-name-option = নাম (A-Z)
 login-list-name-reverse-option = নাম (A-Z)
-login-list-breached-option = ভাঙা ওয়েবসাইট
+about-logins-login-list-alerts-option = সতর্কবার্তা
 login-list-last-changed-option = সর্বশেষ পরিবর্তিত
 login-list-last-used-option = সর্বশেষ ব্যবহৃত
 login-list-intro-title = কোন লগ ইন পাওয়া যায়নি
@@ -59,6 +59,8 @@ login-list-item-subtitle-new-login = আপনার লগইন পরিচ�
 login-list-item-subtitle-missing-username = (কোনও ব্যবহারকারীর নাম নেই)
 about-logins-list-item-breach-icon =
     .title = ভাঙা ওয়েবসাইট
+about-logins-list-item-vulnerable-password-icon =
+    .title = ঝুঁকিপূর্ণ পাসওয়ার্ড
 
 ## Introduction screen
 
@@ -84,6 +86,8 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = অনুলিপি
 login-item-copied-username-button-text = অনুলিপি করা হয়েছে!
 login-item-password-label = পাসওয়ার্ড
+login-item-password-reveal-checkbox =
+    .aria-label = পাসওয়ার্ড দেখাও
 login-item-copy-password-button-text = অনুলিপি
 login-item-copied-password-button-text = অনুলিপি করা হয়েছে!
 login-item-save-changes-button = পরিবর্তন সংরক্ষণ
@@ -92,6 +96,30 @@ login-item-cancel-button = বাতিল
 login-item-time-changed = সর্বশেষ পরিবর্তিত: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = তৈরি: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = সর্বশেষ ব্যবহৃত: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+about-logins-os-auth-dialog-caption = { -brand-full-name }
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
+# This message can be seen by attempting to edit a login in about:logins
+about-logins-edit-login-os-auth-dialog-message = সংরক্ষিত লগইন সম্পাদনা করতে আপনার পরিচয় নিশ্চিত করুন।
+# This message can be seen when attempting to edit a login in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-edit-login-os-auth-dialog-message-macosx = সংরক্ষিত লগইন সম্পাদনা করুন
+# This message can be seen by attempting to reveal a password in about:logins
+about-logins-reveal-password-os-auth-dialog-message = সংরক্ষিত পাসওয়ার্ড দেখতে আপনার পরিচয় নিশ্চিত করুন।
+# This message can be seen when attempting to reveal a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-reveal-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড দেখাও
+# This message can be seen by attempting to copy a password in about:logins
+about-logins-copy-password-os-auth-dialog-message = সংরক্ষিত পাসওয়ার্ড অনুলিপি করতে আপনার পরিচয় নিশ্চিত করুন।
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = সংরক্ষিত পাসওয়ার্ড অনুলিপি করুন
 
 ## Master Password notification
 
@@ -133,9 +161,13 @@ confirm-discard-changes-dialog-confirm-button = বাতিল
 ## Breach Alert notification
 
 breach-alert-text = আপনার সবশেষ পাসওয়ার্ড হালনাগাদ করার পরে এই ওয়েবসাইট থেকে পাসওয়ার্ড ফাঁস বা চুরি হয়েছে। আপনার অ্যাকাউন্ট সুরক্ষিত করতে পাসওয়ার্ড পরিবর্তন করুন।
-breach-alert-link = এই লঙ্ঘন সম্পর্কে আরও জানুন।
-breach-alert-dismiss =
-    .title = সতর্ক করা বন্ধ করুন
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = { $hostname } এ যান
+about-logins-breach-alert-learn-more-link = আরও জানুন
+
+## Vulnerable Password notification
+
 
 ## Error Messages
 
