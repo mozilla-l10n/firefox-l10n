@@ -122,6 +122,7 @@ cfr-whatsnew-lockwise-take-link-text = অ্যাপটি ডাউনলো�
 
 ## Search Bar
 
+cfr-whatsnew-searchbar-title = কম টাইপ করেই, ঠিকানা বারের মাধ্যমে আরও বেশি খুঁজুন।
 cfr-whatsnew-searchbar-icon-alt-text = আতশিকাচের আইকন
 
 ## Picture-in-Picture
@@ -190,3 +191,15 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = সব দেখুন
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+
+## Lockwise message
+
+
+## Vulnerable Passwords message
+
+
+## Picture-in-Picture fullscreen message
+
