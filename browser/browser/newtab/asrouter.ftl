@@ -217,9 +217,17 @@ cfr-doorhanger-milestone-ok-button = Vidi ĉiujn
 ## Lockwise message
 
 cfr-whatsnew-lockwise-header = Facile krei pasvortojn
+cfr-whatsnew-lockwise-body = Estas malfacile pensi unikajn kaj sekurajn pasvortojn por ĉiu konto. Kiam vi kreas pasvorton, elektu la pasvortan kampon por uzi sekuran pasvorton kreitan de { -brand-shorter-name }.
+cfr-whatsnew-lockwise-icon-alt = Emblemo de { -lockwise-brand-short-name }
 
 ## Vulnerable Passwords message
 
+cfr-whatsnew-passwords-header = Ricevu atentigojn pri sendefendaj pasvortoj.
+cfr-whatsnew-passwords-body = Fiuloj scias ke personoj reuzas la samajn pasvortojn. Se vi uzis la saman pasvorton en pluraj retejoj kaj unu el ili havas datumfuĝojn, vi vidos atentigon en { -lockwise-brand-short-name } por ke vi ŝanĝu la pasvorton en tiuj retejoj.
+cfr-whatsnew-passwords-icon-alt = Emblemo de sendefenda pasvorto
 
 ## Picture-in-Picture fullscreen message
 
+cfr-whatsnew-pip-fullscreen-header = Iri el la eta al la granda ekrano
+cfr-whatsnew-pip-fullscreen-body = Kiam vi ŝprucigas filmeton en ŝvebantan fenestron, vi povas nun duoble alklaki tiun fenestro por vidi ĝin plenekrane.
+cfr-whatsnew-pip-fullscreen-icon-alt = Emblemo de bildo en bildo.
