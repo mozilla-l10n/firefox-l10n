@@ -123,11 +123,12 @@ cfr-whatsnew-lockwise-take-link-text = অ্যাপটি ডাউনলো�
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = কম টাইপ করেই, ঠিকানা বারের মাধ্যমে আরও বেশি খুঁজুন।
-cfr-whatsnew-searchbar-icon-alt-text = আতশিকাচের আইকন
+cfr-whatsnew-searchbar-icon-alt-text = ম্যাগনিফাইং গ্লাস আইকন
 
 ## Picture-in-Picture
 
 cfr-whatsnew-pip-header = ব্রাউজ করতে করতে ভিডিও দেখুন
+cfr-whatsnew-pip-cta = আরও জানুন
 
 ## Permission Prompt
 
