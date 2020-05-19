@@ -100,6 +100,9 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+# The title attribute for Critical Extension icon
+certificate-viewer-critical-extension =
+    .title = ส่วนขยายนี้ถูกทำเครื่องหมายว่าสำคัญ ซึ่งหมายความว่าไคลเอนต์จะต้องปฏิเสธใบรับรองหากพวกเขาไม่เข้าใจดีพอ
 certificate-viewer-export = ส่งออก
     .download = { $fileName }.pem
 
