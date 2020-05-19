@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 urlbar-identity-button =
     .aria-label = Vider le informationes del sito
 
@@ -93,12 +92,10 @@ urlbar-midi-blocked =
     .tooltiptext = Tu ha blocate le accesso MIDI pro iste sito web.
 urlbar-install-blocked =
     .tooltiptext = Tu ha blocate le accesso al installation de additivos pro iste sito web.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modificar iste marcapaginas ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +109,6 @@ page-action-manage-extension =
     .label = Gerer le extension…
 page-action-remove-from-urlbar =
     .label = Remover del barra de adresse
-
 page-action-remove-extension =
     .label = Remover le extension
 
@@ -130,14 +126,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Iste vice, cerca con:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Parametros de recerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar le parametros de recerca
-
 search-one-offs-context-open-new-tab =
     .label = Cercar in le nove scheda
     .accesskey = C
@@ -153,10 +147,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Monstrar editor quando se salva
     .accesskey = M
-
 bookmark-panel-done-button =
     .label = Facite
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -235,7 +227,6 @@ popup-all-windows-shared = Tote le fenestras visibile sur tu schermo essera comp
 
 enable-devtools-popup-description = Pro usar le clave de accesso directe F12, aperi primo le instrumentos de disveloppamento per le menu “Disveloppamento Web”.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -248,11 +239,9 @@ urlbar-permissions-granted =
     .tooltiptext = Tu ha concedite permissiones additional a iste sito web.
 urlbar-switch-to-tab =
     .value = Commutar al scheda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
-
 urlbar-page-action-button =
     .tooltiptext = Actiones del pagina
 urlbar-pocket-button =

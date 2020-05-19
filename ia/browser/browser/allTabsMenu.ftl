@@ -4,17 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Reaperir scheda claudite
-
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Cercar in schedas
-
 all-tabs-menu-new-user-context =
     .label = Nove scheda contextual
-
 all-tabs-menu-hidden-tabs =
     .label = Schedas celate
-
 all-tabs-menu-manage-user-context =
     .label = Gerer le contextos
     .accesskey = o
