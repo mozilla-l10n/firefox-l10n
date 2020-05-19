@@ -35,6 +35,12 @@ protection-report-page-title = Protektoj de privateco
 protection-report-content-title = Protektoj de privateco
 etp-card-title = Plibonigita protekto kontraŭ spurado
 etp-card-content = Spuriloj sekvas vin en la reto por kolekti informon pri via kutima retumo kaj pri viaj interesoj. { -brand-short-name } blokas plurajn el tiuj spuriloj kaj aliajn malicajn skriptojn.
+protection-report-webpage-title = Panelo de protektoj
+protection-report-page-content-title = Panelo de protektoj
+protection-report-page-summary = { -brand-short-name } povas malantaŭ la scenejo protekti vian privatecon dum vi retumas. Tio ĉi estas personecigita resumo de tiuj protektoj, kaj inkluzivas la ilojn por regi vian sekurecon en la reto.
+etp-card-title-always = Plibonigita protekto kontraŭ spurado: ĉiam ŝaltita
+etp-card-title-custom-not-blocking = Plibonigita protekto kontraŭ spurado: MALŜALTITA
+etp-card-content-summary = Kiam nekonataj entrepenoj volas sekrete sekvi vin tra la reto, { -brand-short-name } aŭtomate haltigas multajn el ili.
 protection-report-etp-card-content-custom-not-blocking = Ĉiuj protektoj estas nun malŝaltitaj. Elektu la spurilojn, kiujn vi volas bloki, per administrado de la agordoj pri protekto de { -brand-short-name }.
 protection-report-manage-protections = Administri agordojn
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -54,15 +60,23 @@ cryptominer-tab-title = Miniloj de ĉifromono
 cryptominer-tab-content = La miniloj de ĉifromono uzas la kalkulpovon de via komputilo por mini ciferecan monon. Minado de ĉifromono eluzas vian baterion, malrapidigas vian komputilon kaj povas konsumi pli da elekto, kiun vi devos pagi. <a data-l10n-name="learn-more-link">Pli da informo</a>
 protections-close-button =
     .aria-label = Fermi
+protections-close-button2 =
+    .aria-label = Fermi
+    .title = Fermi
 mobile-app-title = Bloki reklamajn spurilojn en pli da aparatoj
 mobile-app-card-content = Uzi la poŝaparatan retumilon kun integrita protekto kontraŭ reklamaj spuriloj.
 mobile-app-links = { -brand-product-name } Retumilo por <a data-l10n-name="android-mobile-inline-link">Android</a> kaj <a data-l10n-name="ios-mobile-inline-link">iOS</a>
 lockwise-title = Neniam denove forgesu pasvorton
 lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = Administranto de pasvortoj
 lockwise-header-content = { -lockwise-brand-name } sekure konservas viajn pasvortojn en via retumilo.
 lockwise-header-content-logged-in = Sekure konservu kaj spegulu viajn pasvortojn en ĉiuj viaj aparatoj.
 protection-report-view-logins-button = Vidi legitimilojn
     .title = Iri al konservitaj legitimiloj
+protection-report-save-passwords-button = Konservi pasvortojn
+    .title = Konservi pasvortojn per { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = Administri pasvortojn
+    .title = Administri pasvortojn per { -lockwise-brand-short-name }
 lockwise-mobile-app-title = Kunportu viajn pasvortojn ĉien
 lockwise-no-logins-card-content = Uzu en iu ajn aparato la pasvortojn konservitaj en { -brand-short-name }.
 lockwise-app-links = { -lockwise-brand-name } por <a data-l10n-name="lockwise-android-inline-link">Android</a> kaj <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
@@ -73,6 +87,13 @@ lockwise-passwords-stored =
     { $count ->
         [one] Pasvorto sekure konservita <a data-l10n-name="lockwise-how-it-works">Kiel funkcias tio</a>
        *[other] Pasvortoj sekure konservitaj <a data-l10n-name="lockwise-how-it-works">Kiel funkcias tio</a>
+    }
+# Variables:
+# $count (Number) - Number of passwords exposed in data breaches.
+lockwise-scanned-text-breached-logins =
+    { $count ->
+        [one] unu pasvorto estis elmetita de datumfuĝo.
+       *[other] { $count } pasvortoj estis elmetitaj de datumfuĝo.
     }
 turn-on-sync = Ŝalti { -sync-brand-short-name }…
     .title = Iri al la preferoj de spegulado
