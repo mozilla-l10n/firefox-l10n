@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+about-config-warning-text = Waylude ɗee teelte ceeɓtore ena waawi addude caɗeele jamɗugol, kisal e jaawgol ngal jaaɓnirgal. Pot-ɗaa jokkude tan ko so tawii aɗa yenanaa aɗa anndi ko mbaɗataa koo.
 about-config-warning-checkbox = Seknam kadi, tiiɗno!
 about-config-warning-button = Mi jaɓii jeemaade!
 about-config2-title = Teelte lugge

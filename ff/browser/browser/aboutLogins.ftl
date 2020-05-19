@@ -185,5 +185,10 @@ about-logins-vulnerable-alert-learn-more-link = Ɓeydu humpito
 
 ## Error Messages
 
+# This is an error message that appears when a user attempts to save
+# a new login that is identical to an existing saved login.
+# Variables:
+#   $loginTitle (String) - The title of the website associated with the login.
+about-logins-error-message-duplicate-login-with-link = Naatol ngam { $loginTitle } e ndee innde kuutoro ina woodi kisa.  <a data-l10n-name="duplicate-link"> Yah to naatol goodngol ngol?</a>
 # This is a generic error message.
 about-logins-error-message-default = Juumre waɗii tuma etagol danndude ndee finnde.
