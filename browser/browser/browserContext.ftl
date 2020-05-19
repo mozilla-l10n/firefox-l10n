@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = এই পাতা বুকমার্ক করুন
-    .accesskey = m
 main-context-menu-bookmark-add =
     .aria-label = এই পাতা বুকমার্ক করুন
     .accesskey = m
@@ -255,9 +252,6 @@ main-context-menu-send-to-device =
 main-context-menu-view-background-image =
     .label = পটভূমির ছবি প্রদর্শন
     .accesskey = w
-main-context-menu-generate-new-password =
-    .label = নতুন তৈরি পাসওয়ার্ড ব্যবহার করুন...
-    .accesskey = G
 main-context-menu-keyword =
     .label = অনুসন্ধানের জন্য কীওয়ার্ড যোগ করুন…
     .accesskey = K
@@ -317,3 +311,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = DRM সম্পর্কে আরও জানুন…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = নতুন বৈশিষ্ট্য সম্পর্কে অবহিত করুন

@@ -168,6 +168,11 @@ about-logins-breach-alert-learn-more-link = আরও জানুন
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = ঝুঁকিপূর্ণ পাসওয়ার্ড
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = { $hostname } এ যান
+about-logins-vulnerable-alert-learn-more-link = আরও জানুন
 
 ## Error Messages
 

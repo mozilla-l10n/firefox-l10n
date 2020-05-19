@@ -26,7 +26,7 @@ urlbar-default-notification-anchor =
 urlbar-geolocation-notification-anchor =
     .tooltiptext = অবস্থান অনুরোধ প্যানেল খুলুন
 urlbar-xr-notification-anchor =
-    .tooltiptext = ভার্চুয়াল রিয়েলিটি অনুমোদন প্যানেল এ যান
+    .tooltiptext = ভার্চুয়াল রিয়েলিটি অনুমোদন প্যানেলে যান
 urlbar-storage-access-anchor =
     .tooltiptext = ব্রাউজিং কার্যকলাপ অনুমতি প্যানেল খুলুন
 urlbar-translate-notification-anchor =
@@ -106,6 +106,8 @@ page-action-manage-extension =
     .label = এক্সটেনশন ব্যবস্থাপনা...
 page-action-remove-from-urlbar =
     .label = ঠিকানা  বার থেকে অপসারণ করুন
+page-action-remove-extension =
+    .label = এক্সটেনশন অপসারণ করুন
 
 ## Auto-hide Context Menu
 
@@ -201,6 +203,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = ন্যূনতম বিস্তার
+browser-window-maximize-button =
+    .tooltiptext = বড় করুন
 browser-window-close-button =
     .tooltiptext = বন্ধ
 
@@ -216,6 +220,7 @@ popup-all-windows-shared = আপনার স্ক্রিনের সব �
 
 ## DevTools F12 popup
 
+enable-devtools-popup-description = F12 শর্টকাট ব্যবহার করতে, প্রথমে ওয়েব ডেভেলপার মেনু থেকে DevTools খুলুন।
 
 ## URL Bar
 
