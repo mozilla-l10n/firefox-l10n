@@ -62,9 +62,6 @@ toolbar-button-page-save =
 
 ## Simple menu items
 
-main-context-menu-bookmark-page =
-    .aria-label = Бұл бетті бетбелгілерге қосу
-    .accesskey = е
 main-context-menu-bookmark-add =
     .aria-label = Бұл бетті бетбелгілерге қосу
     .accesskey = е
@@ -317,3 +314,7 @@ main-context-menu-inspect-a11y-properties =
 main-context-menu-eme-learn-more =
     .label = DRM туралы көбірек білу…
     .accesskey = D
+# Checkbox displayed at the bottom of the What's New panel, allowing users to 
+# enable/disable What's New notifications.
+cfr-whatsnew-panel-footer-checkbox =
+    .label = Жаңа мүмкіндіктер туралы хабарлау
