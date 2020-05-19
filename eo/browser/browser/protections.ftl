@@ -95,6 +95,16 @@ lockwise-scanned-text-breached-logins =
         [one] unu pasvorto estis elmetita de datumfuĝo.
        *[other] { $count } pasvortoj estis elmetitaj de datumfuĝo.
     }
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] unu pasvorto sekure konservita.
+       *[other] Viaj pasvortoj estas sekure konservitaj.
+    }
+lockwise-how-it-works-link = Funkciado
 turn-on-sync = Ŝalti { -sync-brand-short-name }…
     .title = Iri al la preferoj de spegulado
 manage-connected-devices = Administri aparatojn…
@@ -111,6 +121,12 @@ monitor-header-content-no-account = Kontrolu { -monitor-brand-name } por vidi ĉ
 monitor-header-content-signed-in = { -monitor-brand-name } avertas vin se viaj informoj aperas en konata datumfuĝo.
 monitor-sign-up = Abonu la atentigojn pri datumfuĝoj
 auto-scan = Aŭtomate kontrolitaj hodiaŭ
+monitor-emails-tooltip =
+    .title = Vidi prizorgatajn retpoŝtajn adresojn en { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Vidi konatajn datumfuĝojn en { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Vidi elmetitajn pasvortojn en { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
