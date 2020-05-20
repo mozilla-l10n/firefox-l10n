@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Disponible sur Google Play
 login-app-promo-apple =
     .alt = Télécharger dans l’App Store
+
 login-filter =
     .placeholder = Rechercher des identifiants
+
 create-login-button = Créer un nouvel identifiant
+
 fxaccounts-sign-in-text = Accédez à vos mots de passe sur vos autres appareils
 fxaccounts-sign-in-button = Se connecter à { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -107,20 +110,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Vérifiez votre identité pour modifier l’identifiant enregistré.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Pour modifier vos identifiants, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifier l’identifiant enregistré
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Vérifiez votre identité pour révéler le mot de passe enregistré.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Pour afficher votre mot de passe, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = révéler le mot de passe enregistré
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Vérifiez votre identité pour copier le mot de passe enregistré.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Pour copier votre mot de passe, entrez vos informations de connexion Windows. Cela permet de conserver la sécurité de vos comptes.
 # This message can be seen when attempting to copy a password in about:logins
@@ -157,9 +165,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Annuler
 confirmation-dialog-dismiss-button =
     .title = Annuler
+
 about-logins-confirm-remove-dialog-title = Supprimer cet identifiant ?
 confirm-delete-dialog-message = Cette action est irréversible.
 about-logins-confirm-remove-dialog-confirm-button = Supprimer
+
 confirm-discard-changes-dialog-title = Ignorer les modifications non enregistrées ?
 confirm-discard-changes-dialog-message = Toutes les modifications non enregistrées seront perdues.
 confirm-discard-changes-dialog-confirm-button = Ignorer
@@ -190,5 +200,6 @@ about-logins-vulnerable-alert-learn-more-link = En savoir plus
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Un nom d’utilisateur ou d’utilisatrice pour { $loginTitle } existe déjà. <a data-l10n-name="duplicate-link">Accéder à l’entrée existante ?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Une erreur s’est produite en essayant d’enregistrer ce mot de passe.

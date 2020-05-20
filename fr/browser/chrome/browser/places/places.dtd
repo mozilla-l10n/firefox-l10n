@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Nouveau séparateur">
 <!ENTITY cmd.new_separator.accesskey       "N">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Actualiser les entrées">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "l">
-
-<!ENTITY cmd.moveBookmarks.label                  "Déplacer…">
-<!ENTITY cmd.moveBookmarks.accesskey              "D">
-
 <!ENTITY col.name.label          "Nom">
 <!ENTITY col.tags.label          "Étiquettes">
 <!ENTITY col.url.label           "Adresse">
 <!ENTITY col.mostrecentvisit.label "Dernière visite">
 <!ENTITY col.visitcount.label    "Nombre de visites">
-<!ENTITY col.description.label   "Description">
 <!ENTITY col.dateadded.label     "Date d’ajout">
 <!ENTITY col.lastmodified.label  "Date de modification">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Avancer">
 
-<!ENTITY detailsPane.more.label "Plus">
-<!ENTITY detailsPane.more.accesskey "P">
-<!ENTITY detailsPane.less.label "Moins">
-<!ENTITY detailsPane.less.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Sélectionner un élément pour afficher et modifier ses propriétés">
 
 <!ENTITY view.label               "Trier">

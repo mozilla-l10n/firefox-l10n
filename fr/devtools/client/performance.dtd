@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Le profileur stocke les échantillons dans un tampon circulaire. Une fois que la limite de ce tampon est atteinte lors d’un enregistrement, les nouveaux échantillons commencent à remplacer les premiers échantillons de l’enregistrement.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Enregistrement en temps réel désactivé dans les versions de Firefox où le mode multiprocessus est désactivé.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->

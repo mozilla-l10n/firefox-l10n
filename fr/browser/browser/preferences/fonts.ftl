@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Polices
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Polices pour
     .accesskey = o
+
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportionnelle
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
+
 fonts-proportional-size = Taille
     .accesskey = T
+
 fonts-serif = Sérif
     .accesskey = S
+
 fonts-sans-serif = Sans sérif
     .accesskey = n
+
 fonts-monospace = Largeur fixe
     .accesskey = L
+
 fonts-monospace-size = Taille
     .accesskey = e
+
 fonts-minsize = Taille minimale de la police
     .accesskey = m
+
 fonts-minsize-none =
     .label = Aucune
+
 fonts-allow-own =
     .label = Autoriser les pages web à utiliser leurs propres polices au lieu de celles choisies ci-dessus
     .accesskey = h
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Encodage du texte pour le contenu obsolète
 fonts-languages-fallback-desc = Cet encodage de texte est utilisé pour le contenu obsolète qui ne déclare pas correctement son encodage.
+
 fonts-languages-fallback-label = Encodage de texte de dernier recours
     .accesskey = c
+
 fonts-languages-fallback-name-auto =
     .label = Valeur par défaut pour la langue courante
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamien
 fonts-languages-fallback-name-other =
     .label = Autre (y compris Europe occidentale)
-fonts-very-large-warning-title = Valeur importante pour la taille minimale de la police
-fonts-very-large-warning-message = Vous avez sélectionné une très grande valeur pour la taille minimale de la police (plus de 24 pixels). Cela peut rendre difficile voire impossible l’utilisation de certaines pages de configuration importantes comme celle-ci.
-fonts-very-large-warning-accept = Conserver tout de même mes changements
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

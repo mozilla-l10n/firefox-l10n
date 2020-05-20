@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "On vous a demandé de confirmer une nouvelle autorité de certification (AC).">
 <!ENTITY downloadCert.trustSSL "Confirmer cette AC pour identifier des sites web.">
 <!ENTITY downloadCert.trustEmail "Confirmer cette AC pour identifier les utilisateurs de courrier.">
-<!ENTITY downloadCert.trustObjSign "Confirmer cette AC pour identifier les développeurs de logiciels.">
 <!ENTITY downloadCert.message3 "Avant de confirmer cette AC pour quelque raison que ce soit, vous devriez l’examiner elle, ses méthodes et ses procédures (si possible).">
 <!ENTITY downloadCert.viewCert.label "Voir">
 <!ENTITY downloadCert.viewCert.text "Examiner le certificat d’AC">

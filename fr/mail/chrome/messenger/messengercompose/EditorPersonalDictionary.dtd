@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "Mots du dictionnaire :">
 <!ENTITY DictionaryList.accessKey "M">
-<!ENTITY ReplaceButton.label "Remplacer">
-<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "Supprimer">
 <!ENTITY RemoveButton.accessKey "S">
 

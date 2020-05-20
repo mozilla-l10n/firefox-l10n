@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "La connexion a échoué">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Cette adresse est interdite">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Adresse introuvable">
@@ -31,6 +33,7 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Fichier introuvable">
+
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Vérifiez la syntaxe du nom de fichier (dont le respect des minuscules/majuscules)&#x00A0;;</li>
@@ -39,9 +42,11 @@
 ">
 
 <!ENTITY fileAccessDenied.title "L’accès au fichier a été refusé">
+
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Il a peut-être été supprimé, déplacé ou les permissions associées au fichier ne permettent pas d’y accéder.</li></ul>">
 
 <!ENTITY generic.title "La requête ne peut aboutir">
+
 <!ENTITY generic.longDesc "
 <p>Pour une raison inconnue, &brandShortName; ne peut pas charger cette page.</p>
 ">
@@ -58,12 +63,15 @@
 <!ENTITY malformedURI.title1 "Hum, cette adresse ne semble pas valide.">
 
 <!ENTITY netInterrupt.title "La connexion a été interrompue">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Le document a expiré">
+
 <!ENTITY notCached.longDesc "<p>Le document demandé n’est plus disponible dans le cache de &brandShortName;.</p><ul><li>Par mesure de sécurité, &brandShortName; ne redemande pas automatiquement de documents sensibles.</li><li>Cliquez sur Réessayer pour redemander ce document depuis le site web.</li></ul>">
 
 <!ENTITY netOffline.title "Mode hors connexion">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Cliquez sur le bouton « Réessayer » pour revenir en mode connecté et recharger la page.</li>
@@ -71,18 +79,23 @@
 ">
 
 <!ENTITY contentEncodingError.title "Erreur d’encodage de contenu">
+
 <!ENTITY contentEncodingError.longDesc "<ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Type de fichier non sûr">
+
 <!ENTITY unsafeContentType.longDesc "<ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
 
 <!ENTITY netReset.title "La connexion a été réinitialisée">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Le délai d’attente est dépassé">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "L’adresse n’a pas été reconnue">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Il est peut-être nécessaire d’installer une autre application pour ouvrir ce type d’adresse.</li>
@@ -90,6 +103,7 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "La connexion a été refusée par le serveur proxy">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&#x00A0;;</li>
@@ -99,6 +113,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Le serveur proxy est introuvable">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Vérifiez que les paramètres du proxy sont corrects&#x00A0;;</li>
@@ -108,6 +123,7 @@
 ">
 
 <!ENTITY redirectLoop.title "La page n’est pas redirigée correctement">
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>La cause de ce problème peut être la désactivation ou le refus
@@ -116,6 +132,7 @@
 ">
 
 <!ENTITY unknownSocketType.title "Réponse inattendue du serveur">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Vérifiez que le gestionnaire de sécurité personnelle (PSM) est installé sur
@@ -125,6 +142,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Échec de la connexion sécurisée">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>La page que vous essayez de consulter ne peut pas être affichée car l’authenticité des données reçues ne peut être vérifiée.</li>
@@ -134,6 +152,7 @@
 
 <!ENTITY certerror.longpagetitle2 "Attention : risque probable de sécurité">
 <!ENTITY certerror.sts.longpagetitle  "Connexion bloquée : problème de sécurité potentiel">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -166,12 +185,13 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Bloqué par une stratégie de sécurité de contenu">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page de cette manière car sa stratégie de sécurité de contenu ne le permet pas.</p>">
 
-<!ENTITY xfoBlocked.title "Bloqué par la politique X-Frame-Options">
+<!ENTITY corruptedContentErrorv2.title "Erreur due à un contenu corrompu">
+
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; a empêché le chargement de cette page dans ce contexte car la politique X-Frame-Options de la page ne l’autorise pas.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Erreur due à un contenu corrompu">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>La page que vous essayez de voir ne peut pas être affichée car une erreur dans la transmission de données a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Accepter le risque et poursuivre">
@@ -180,9 +200,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "En savoir plus…">
 
 <!ENTITY remoteXUL.title "XUL distant">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Impossible d’établir une connexion sécurisée">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informations avancées : SSL_ERROR_UNSUPPORTED_VERSION">
@@ -193,6 +215,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Copier le texte dans le presse-papiers">
 
 <!ENTITY inadequateSecurityError.title "La connexion n’est pas sécurisée">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> fait appel à des technologies de sécurisation obsolètes et vulnérables aux attaques. Un attaquant pourrait facilement révéler des informations que vous pensiez être sécurisées. L’administrateur du site web devra d’abord corriger le serveur avant que vous puissiez visiter le site.</p><p>Code d’erreur : NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -200,6 +223,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Page bloquée">
 
 <!ENTITY certerror.mitm.title "Un logiciel empêche &brandShortName; de se connecter de façon sécurisée à ce site">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> est probablement un site fiable, mais une connexion sécurisée n’a pas pu être établie. Ce problème est causé par <span class='mitm-name'/>, qui est un logiciel installé soit sur votre ordinateur, soit sur votre réseau.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Si votre logiciel antivirus inclut une fonctionnalité d’analyse des connexions chiffrées (parfois appelée « analyse web » ou « analyse HTTPS »), vous pouvez désactiver cette fonctionnalité. Si cela ne fonctionne pas, essayez de supprimer puis réinstaller votre logiciel antivirus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Si vous utilisez un réseau d’entreprise, vous pouvez contacter votre service informatique.">
@@ -207,14 +231,16 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Si vous ne reconnaissez pas <span class='mitm-name'/>, alors il pourrait s’agir d’une attaque et il n’est pas possible d’accéder au site.">
 
 <!ENTITY clockSkewError.title "L’heure de votre ordinateur est incorrecte">
+
 <!ENTITY clockSkewError.longDesc "Votre ordinateur pense qu’il est <span id='wrongSystemTime_systemDate1'/>, ce qui empêche &brandShortName; de se connecter de façon sécurisée. Pour visiter <span class='hostname'></span>, mettez à jour l’horloge de votre ordinateur dans vos paramètres système afin qu’elle soit réglée sur la date, l’heure et le fuseau horaire qui conviennent, puis actualisez <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Ce problème semble être provoqué par vos paramètres de sécurité réseau. Voulez-vous restaurer les paramètres par défaut ?">
 <!ENTITY prefReset.label "Restaurer les paramètres par défaut">
 
+<!ENTITY networkProtocolError.title "Erreur de protocole réseau">
+
 <!ENTITY enableTls10.longDesc "Ce site web pourrait ne pas prendre en charge le protocole TLS 1.2, qui est la version minimale prise en charge par &brandShortName;. L’activation de TLS 1.0 et TLS 1.1 pourrait permettre d’achever la connexion.">
 <!ENTITY enableTls10.note "TLS 1.0 et TLS 1.1 seront définitivement désactivés dans une prochaine version.">
 <!ENTITY enableTls10.label "Activer TLS 1.0 et 1.1">
 
-<!ENTITY networkProtocolError.title "Erreur de protocole réseau">
 <!ENTITY networkProtocolError.longDesc "<p>La page à laquelle vous essayez d’accéder ne peut pas être affichée, car une erreur du protocole réseau a été détectée.</p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul>">

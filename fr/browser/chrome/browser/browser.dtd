@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Quitter le mode Plein écran">
 <!ENTITY exitFullScreenCmd.accesskey "P">
+
 <!ENTITY fullScreenCmd.label "Plein écran">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Confirmer votre compte">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Réduire">
 <!ENTITY fullScreenRestore.tooltip "Restaurer">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Paramètres du compte">
 <!ENTITY fxa.menu.manageAccount2.label "Gérer le compte">
 <!ENTITY fxa.menu.signOut.label "Se déconnecter…">
-<!ENTITY fxa.menu.deviceSettings.label "Paramètres de l’appareil">
 <!ENTITY fxa.menu.setupSync.label "Configurer &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "r">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Se rendre à la page indiquée dans la barre d’adresse">
+
 <!ENTITY printButton.label            "Imprimer">
 <!ENTITY printButton.tooltip          "Imprimer cette page">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gérer l’utilisation des logiciels DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Ouvrir le panneau MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Vous avez accordé des permissions supplémentaires à ce site web.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Vous avez empêché ce site d’accéder à votre caméra.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Vous avez empêché ce site d’accéder à votre microphone.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Vous avez empêché ce site de partager votre écran.">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Vous avez bloqué l’installation de modules complémentaires pour ce site web.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Vous avez accordé des permissions supplémentaires à ce site web.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afficher l’historique">
+
 
 <!ENTITY searchItem.title             "Rechercher">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.label          "Gérer les contextes">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Nouvelle fenêtre">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "u">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Plus">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Saisir un terme à rechercher ou une adresse">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marque-page sur ce cadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+
 <!ENTITY pageAction.copyLink.label    "Copier le lien">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Enregistrer dans Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Enregistrer la page dans Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Enregistrer le lien dans Pocket">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexion sécurisée">
 <!ENTITY identity.connectionNotSecure "Connexion non sécurisée">
 
-<!ENTITY identity.connectionSecure3 "Connexion sécurisée">
-<!ENTITY identity.connectionNotSecure2 "Connexion non sécurisée">
-<!ENTITY identity.connectionNotSecureSecurityView "Votre connexion à ce site n’est pas sécurisée.">
 <!ENTITY identity.connectionFile "Cette page est stockée sur votre ordinateur.">
 <!ENTITY identity.connectionVerified2 "Votre connexion à ce site est sécurisée. Son détenteur est :">
-<!ENTITY identity.connectionVerified3 "Votre connexion à ce site est sécurisée.">
 <!ENTITY identity.connectionInternal "Cette page de &brandShortName; est sécurisée.">
 <!ENTITY identity.extensionPage "Cette page a été chargée depuis une extension.">
 <!ENTITY identity.insecureLoginForms2 "Les identifiants saisis sur cette page pourraient être compromis.">
 <!ENTITY identity.customRoot "Connexion vérifiée par un émetteur de certificat non reconnu par Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Certificat émis pour :">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; a bloqué des éléments non sécurisés sur cette page.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permissions">
 
-<!ENTITY identity.permissions3 "Permissions">
 <!ENTITY identity.permissionsEmpty "Vous n’avez pas accordé de permission particulière à ce site.">
 <!ENTITY identity.permissionsReloadHint "Vous devrez peut-être actualiser la page pour que les changements prennent effet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ouvrir les préférences des permissions">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Fermer">
 

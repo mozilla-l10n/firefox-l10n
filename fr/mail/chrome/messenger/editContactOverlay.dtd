@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Carnet d’adresses :">
 <!ENTITY editContactAddressBook.accesskey "C">
 
-<!ENTITY editContactPanelCancel.label "Annuler">
-<!ENTITY editContactPanelCancel.accesskey "A">
-
 <!ENTITY editContactPanelDone.label "Terminé">
 <!ENTITY editContactPanelDone.accesskey "T">
 

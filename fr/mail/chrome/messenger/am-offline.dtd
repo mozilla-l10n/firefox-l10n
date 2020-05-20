@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Pour économiser de l’espace disque, ne pas télécharger :">
 <!ENTITY doNotDownloadNntp.label "Pour économiser de l’espace disque, ne pas télécharger pour utilisation hors connexion :">
 <!ENTITY doNotDownloadImap.label "Pour économiser de l’espace disque, le téléchargement des messages depuis le serveur et la conservation des copies peuvent être restreints par âge et par taille.">
-<!ENTITY allFoldersOffline.label "Conserver les messages de ce compte sur cet ordinateur">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Conserver les messages de tous les dossiers de ce compte sur cet ordinateur">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Remarque : cette modification affecte tous les dossiers de ce compte. Pour définir des dossiers individuels, utilisez le bouton Avancé…">

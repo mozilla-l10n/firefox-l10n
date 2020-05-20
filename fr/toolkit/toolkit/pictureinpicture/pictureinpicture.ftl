@@ -3,15 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Incrustation vidéo
+
 pictureinpicture-pause =
     .aria-label = Pause
 pictureinpicture-play =
     .aria-label = Lecture
+
 pictureinpicture-mute =
     .aria-label = Muet
 pictureinpicture-unmute =
     .aria-label = Audible
+
 pictureinpicture-unpip =
     .aria-label = Renvoyer dans l’onglet
+
 pictureinpicture-close =
     .aria-label = Fermer
+

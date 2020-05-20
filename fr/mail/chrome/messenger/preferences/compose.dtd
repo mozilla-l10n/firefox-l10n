@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Police :">
 <!ENTITY font.accesskey                       "P">
-<!ENTITY size.label                           "Taille :">
-<!ENTITY size.accesskey                       "e">
 <!ENTITY fontSize.label                       "Taille :">
 <!ENTITY fontSize.accesskey                   "e">
 <!ENTITY useReaderDefaults.label              "Utiliser les couleurs par défaut du lecteur">

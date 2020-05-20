@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Couleur">
 <!ENTITY lastPickedColor.label "Dernière couleur utilisée">
 <!ENTITY lastPickedColor.accessKey "c">
-<!ENTITY setColor1.label "Cliquez sur une couleur ou">
-<!ENTITY setColor2.label "saisissez une chaîne de couleur HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Choisissez une couleur :">
 <!ENTITY chooseColor2.label "Saisissez un nom de couleur HTML">
 <!ENTITY chooseColor2.accessKey "H">

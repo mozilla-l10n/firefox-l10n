@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Options d’archivage">
 <!ENTITY archiveGranularityPrefix.label "Lors de l’archivage des messages, les placer dans :">
 <!ENTITY archiveFlat.label "Un simple dossier">
