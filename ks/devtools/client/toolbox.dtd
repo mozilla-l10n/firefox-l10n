@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -138,8 +139,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "آرجینل سورس ہأیو">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "ہأیو اصلی ماخذ ( مثلن ساس فایلْہ) سیٹایل ایڈیٹر تْہ انسپیکٹرس منز">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -158,14 +157,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "عام ترجیحات">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "لگاتار لاگ کْریو اینیبْل">
-<!ENTITY options.enablePersistentLogs.tooltip  "اگر توہیہ اینیبْل کریو یہ اوپشن ویب کنسول تْہ نیٹوْرک مانیٹر کرِ نْہ کْلیر آوٹ پُٹ پریتھ وِز ییلہ توہیہ نیویگیٹ کْریو أکس نْوِس پیجس کُن">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -173,6 +169,7 @@
 
 <!ENTITY options.showPlatformData.label    "ہأیو گیکو پلیٹ فارم ڈاٹا">
 <!ENTITY options.showPlatformData.tooltip  "اگر توہیہ اینیبْل کریو یہ اوپشن جاوا سیکریپٹْہ پروفایلر رپورٹن منز گژھ شأملگیکو پلیٹ فارم سیمبُل ">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

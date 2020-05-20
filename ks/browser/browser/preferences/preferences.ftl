@@ -8,19 +8,24 @@ pref-page =
             [windows] آپشنس
            *[other] ترجیح
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] آپشنس
        *[other] ترجیح
     }
+
 pane-general-title = عام
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = ژھآنڈیو
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = بند
 
@@ -47,37 +52,49 @@ should-restart-title = { -brand-short-name }  كریو وئن شروع
 ## General Section
 
 startup-header = شروعات
+
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = برانڈ شاٹ ناوس تْہ فایر فوکسس دِیو اجازت اِکوٹ رن گژھنس&
 use-firefox-sync = ٹِپ:  یہ چُھ استعمال کران الگ پروفایل۔ استعمال کْریو سینک شییر ڈاٹا کرنْہ باپت تمن منز۔
+
 is-default = برینڈ لكُٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر
 is-not-default = برانڈ شاٹ ناو چھُ حالس تُہند ڈیفالٹ براوزر&
+
 tabs-group-header = ٹیبس
+
 show-tabs-in-taskbar =
     .label = ٹیب پیْ منظر ہٲویو وِندوز تاسك بارس منز
     .accesskey = k
 
+
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = فانٹ تْہ رنگ
+
 advanced-fonts =
     .label = ایڈوانسڈ...
     .accesskey = A
+
 colors-settings =
     .label = رنگ...
     .accesskey = C
+
 choose-language-description = پن۪ین پسندیدئ زبان ژٲریو صفحئ ہاونئ خٲطرئ
+
 choose-button =
     .label = ژٲریو...
     .accesskey = o
+
 translate-web-pages =
     .label = ویب کنٹینٹس کْریو ترجُم&
     .accesskey = T
+
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = ترجُم بذریعہ <img data-l10n-name="logo"/>
+
 translate-exceptions =
     .label = غٲر مومول
     .accesskey = x
@@ -85,9 +102,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = ڈاونلوڈس
+
 download-save-to =
     .label = فایل كریو محفوظ
     .accesskey = v
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -99,40 +118,50 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+
 applications-type-column =
     .label = مواد قئسم
     .accesskey = T
+
 applications-action-column =
     .label = حركت
     .accesskey = A
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } فائل{ " " }
 applications-action-save =
     .label = فایل كریو محفوظ
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = كریو استیمال { $app-name }
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = كریو استیمال { $app-name } (ڈیفالٹ)
+
 applications-use-other =
     .label = بدل كریو استیمال
 applications-select-helper = مدد عمل ژٲریو
+
 applications-manage-app =
     .label = عمل تفصیلات
 applications-always-ask =
     .label = ہمیشئ پریژھیو
 applications-type-pdf = پورٹیبل ڈاكیومینٹ فارمیٹ(PDF)
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -146,16 +175,22 @@ applications-preview-inapp =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -174,12 +209,15 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = براوزِنگ
+
 browsing-use-autoscroll =
     .label = آٹو سكرالینگ كریو استیمال
     .accesskey = a
+
 browsing-use-smooth-scrolling =
     .label = سموتھ سكرالِنگ كریو استیمال
     .accesskey = m
+
 browsing-use-cursor-navigation =
     .label = كرسر كیز كریو ہمیشیئ استیمال صفحئ وَچھنئ خٲطرئ
     .accesskey = c
@@ -206,6 +244,7 @@ use-current-pages =
            *[other] حالئك صفحئ كریو استیمال
         }
     .accesskey = C
+
 choose-bookmark =
     .label = نشان زد كریو استیمال
     .accesskey = B
@@ -216,19 +255,24 @@ choose-bookmark =
 ## Search Section
 
 search-engine-default-header = ڈیفالٹْہ تلاش اِنجن
+
 search-suggestions-option =
     .label = فراہم کْریو تلاش صلاح &
     .accesskey = s
+
 search-choose-engine-column =
     .label = ژھانڈ  اِ نجن
 search-choose-keyword-column =
     .label = كی وٲرڈ
+
 search-restore-default =
     .label = ریسٹور کْریو ڈیفالٹْہ تلاش اِنجن &
     .accesskey = D
+
 search-remove-engine =
     .label = تئ ہٹئویو
     .accesskey = R
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = كی وٲرڈ كریو نقل
@@ -266,6 +310,7 @@ sync-signedin-login-failure = مہربأنی کْرتھ کْریو سایِن ا
 sync-engine-bookmarks =
     .label = نشان زَد
     .accesskey = m
+
 sync-engine-history =
     .label = تٲریخ
     .accesskey = r
@@ -273,6 +318,7 @@ sync-engine-history =
 ## The device name controls.
 
 sync-tos-link = خدمَتِق شرط
+
 sync-fxa-privacy-notice = پرایوسی نوٹِس
 
 ## Privacy Section
@@ -286,34 +332,44 @@ sync-fxa-privacy-notice = پرایوسی نوٹِس
 forms-exceptions =
     .label = غٲر مومول
     .accesskey = x
+
 forms-master-pw-use =
     .label = ماسٹر خُفیئ لفظ كریو استیمال
     .accesskey = U
 forms-master-pw-change =
     .label = ماسٹر خُفیئ لفظ بدلٲویو...
     .accesskey = M
+
 forms-master-pw-fips-title = { "  " }موڈس منز چھیو توہیہ وْنکینس۔ اکھ نان۔ایمپٹی ماسٹر پاس وأرڈ چُھ ضرورت اتھFIPS۔ FIPS
 forms-master-pw-fips-desc = خفیہ لفظ   تبدیلی گئی ناكام
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
 history-header = تٲریخ
+
 history-remember-option-all =
     .label = تٲریخ تھٲویو یاد
 history-remember-option-never =
     .label = تٲریخ مئ  تھٲویو زَہ۪ین  یاد
 history-remember-option-custom =
     .label = كسٹم سیٹینگس كریو استیمال تٲریخ خٲطرئ
+
 history-dontremember-description = &برانڈ شاٹ ناو؛ کرِ استعمال تِمے سیٹینگ یم ذن پرایویٹ براوزینگ چھ، تْہ تھأوِ نْہ یاد کانہہ ہسٹری یوتُھی توہیہ براوُز کْریو ویب۔
+
 history-private-browsing-permanent =
     .label = ہمیشئ كریو پوشیدئ براوزینگ موڈ
     .accesskey = p
+
 history-remember-search-option =
     .label = ژھانڈ تئ فارم تٲريخ تھٲویو یاد
     .accesskey = f
+
 history-clear-on-close-option =
     .label = یل۪ی براینڈ لكُٹ ناو بند گژھ۪ی تٲریخ كریو صاف
     .accesskey = r
+
 history-clear-on-close-settings =
     .label = سیٹینگس...
     .accesskey = t
@@ -348,9 +404,11 @@ addressbar-locbar-openpage-option =
 permissions-block-popups =
     .label = پاپ اپ وِنڈوز كریو بند
     .accesskey = B
+
 permissions-block-popups-exceptions =
     .label = غٲر مومول...
     .accesskey = E
+
 permissions-addon-exceptions =
     .label = غٲر مومول...
     .accesskey = E
@@ -367,6 +425,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = سرٹیفیکٹس
+
 certs-enable-ocsp =
     .label = کیوری او سی ایس پی ریسپانڈر سْرور تصدیق کرنْہ باپت موجود ویلیڈیٹی سرٹیفیکٹن ہْنز
     .accesskey = ک
@@ -376,3 +435,4 @@ certs-enable-ocsp =
 desktop-folder-name = ڈیسك ٹاپ
 downloads-folder-name = ڈاونلوڈس
 choose-download-folder-title = ڈاونلوڈس فولڈر ژٲریو
+

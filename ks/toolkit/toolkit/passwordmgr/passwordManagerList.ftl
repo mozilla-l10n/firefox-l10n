@@ -20,6 +20,7 @@ import =
 close-button =
     .label = بند{ "  " }
     .accesskey = C
+
 remove-all-passwords-prompt = تُہ۪ی چھُوئ یقین تُہئ چھَوئ یژھان سٲری خُفیئ لفظ ہٹاوِن؟
 remove-all-passwords-title = سئری خوفیئ لفظ ہٹئویو
 no-master-password-prompt = تہئ چھُوئ یقین تہئ چھئوئ یژھان خوفیئ لفظ ہاوُن

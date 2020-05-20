@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = نشان زَد
+
 sidebar-menu-history =
     .label = تٲریخ
+

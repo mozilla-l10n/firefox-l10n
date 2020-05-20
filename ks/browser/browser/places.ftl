@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = اوپْن کْریو أکس نْو پرایوٹ وینڈو منز &
     .accesskey = P
+
 places-new-bookmark =
     .label = نئو نشان زَد...
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = نئو تئ الگ كرئن وۄل
     .accesskey = S
+
 places-view =
     .label = وچھیو
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = تٲریخ تئ سایٹئ ہسابئ
     .accesskey = t
+
 places-history-search =
     .placeholder = تٲریخ ژھٲنڈيو
 places-bookmarks-search =
     .placeholder = نشان زَد ژھٲنڈيو
+
 places-delete-domain-data =
     .label = یَتھ سایٹئ متعلق مشرٲویو
     .accesskey = F

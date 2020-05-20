@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = ریسوم
     .accesskey = ر
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = فولڈرمنز  كھولیو&
     .accesskey = F
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = فولڈرس منز ہٲویو
     .accesskey = F
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] فولڈرس منز ہٲویو
            *[other] فولڈرمنز  كھولیو&
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] فولڈرس منز ہٲویو
            *[other] فولڈرمنز  كھولیو&
         }
+
 downloads-cmd-retry =
     .tooltiptext = دوبارئ كریو كوشش
 downloads-cmd-retry-panel =
@@ -61,19 +66,23 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = ڈاون لوڈ کْریو کْلیر&
     .accesskey = D
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = سٲری ڈاونلوڈس ہٲویو
     .accesskey = S
+
 downloads-clear-downloads-button =
     .label = ڈاون لوڈ کْریو کْلیر
     .tooltiptext = چُھ کْلیر کران مُکمل، کینسل کرنْہ آمْت تْہ فیل گأمِت ڈاون لوڈ
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = کانہہ ڈاون لوڈ چُھ نْہ۔
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = یتھ سیشنس باپت چُھ نْہ کانہہ ڈاون لوڈ۔

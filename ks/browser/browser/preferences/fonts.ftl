@@ -69,6 +69,7 @@ fonts-default-serif =
     .label = سیریف
 fonts-default-sans-serif =
     .label = سینس سیریف
+
 fonts-minsize-none =
     .label = كہین نئ
 
@@ -109,9 +110,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ویتنمیز
 fonts-languages-fallback-name-other =
     .label = باقی ( یتھ منز شأمل چھ مغربی یورپین)
-fonts-very-large-warning-title = بوڈ مینیمم فانٹ سایِز
-fonts-very-large-warning-message = توہیہ چُھ شورمُت اکھ واریاہ بوڈ مینیمم فانٹ سایِز (۲۴ پیکزل ذیادْ)۔ امہ سْیت گژھِ مُشکل یا نامُمکن استعمال کرْنئ کینہہ ضروری کنفیگریشن پیج مشلن یتھ پیجس ہیْو۔
-fonts-very-large-warning-accept = میانِہ تبدیلی تھأیو کونِہ تِہ طریق
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -4,30 +4,35 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = بلاك
     .accesskey = B
+
 permissions-session =
     .label = خٲطرئ  اجازتھ تئ سیشن
     .accesskey = S
+
 permissions-allow =
     .label = تئ اجازتھ
     .accesskey = A
+
 permissions-status =
     .label = سٹیٹس
+
 permissions-button-cancel =
     .label = منسوخ
     .accesskey = م
+
 permissions-capabilities-allow =
     .label = اجازتھ
 permissions-capabilities-block =
     .label = بلاك
+
 permissions-capabilities-listitem-allow =
     .value = اجازتھ
 permissions-capabilities-listitem-block =
     .value = بلاك
-permissions-capabilities-listitem-allow-first-party =
-    .value = اجازت دِیو صرف گوڈنِچ پارٹی
 permissions-capabilities-listitem-allow-session =
     .value = یتؤ سی;نس خٲطرئ دیو اجازت
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = توہیہ ہیکیو  مخصوص کْرت�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

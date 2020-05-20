@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "مختصرعنوان "> 
 <!ENTITY message.label    "كیںہ نمونئ مثال چھئ گژھان یتیتھ ۔">
+
 <!ENTITY editfield0.label "استیمال كرن وۄل سُند ناو:"> 
 <!ENTITY editfield1.label "خفیہ لفظ"> 
-<!ENTITY checkbox.label   "جانچ کریو ">
+<!ENTITY checkbox.label   "جانچ کریو "> 
 <!ENTITY copyCmd.label    "نقل">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "سئری ژئریو">

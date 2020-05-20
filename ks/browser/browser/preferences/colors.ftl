@@ -9,17 +9,23 @@ colors-window =
             [macos] width: ۴۱ em
            *[other] width: ۳۸ em
         }
+
 colors-page-override-option-always =
     .label = پریتھ وِزِ
 colors-page-override-option-auto =
     .label = صرف ہاے کنٹراسٹْہ تھیمن سْیت
 colors-page-override-option-never =
     .label = زانہہ نْہ
+
 colors-text-and-background = مواد تئ پس۪ی منظر
+
 colors-use-system =
     .label = سسٹم رنگ كریو استیمال
     .accesskey = s
+
 colors-underline-links =
     .label = لینكسن دیو تلِم ر۪یكھ
     .accesskey = U
+
 colors-links-header = رنگ كریو لینك
+

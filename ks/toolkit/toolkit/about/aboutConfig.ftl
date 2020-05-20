@@ -13,9 +13,11 @@ config-about-warning-title =
 config-about-warning-text = یِم ایڈوانسْڈ سیٹینگ تبدیل کرنِہ ہیکن خطرناک أسِتھ مُستقلی، حفاظتس، تْہ کارکردگی ییمِہ ایپلیکیشنِہ ہْنز۔ توہیہ پْز تیلِہ جأری تھاوُن اگر توہیہ یقین چُھ ذِ توہیہ کیاہ چھیو کران۔
 config-about-warning-checkbox =
     .label = یئ آگہی ہاو برونٹھمئ لٹ۪ی
+
 config-search-prefs =
     .value = ژھانڈ
     .accesskey = r
+
 config-focus-search =
     .key = r
 
@@ -43,44 +45,59 @@ config-copy-pref =
     .key = C
     .label = نقل
     .accesskey = C
+
 config-copy-name =
     .label = نقل ناو
     .accesskey = N
+
 config-copy-value =
     .label = نقل قئمتھ
     .accesskey = V
+
 config-modify =
     .label = درست کریو
     .accesskey = د
+
 config-toggle =
     .label = ٹاگل
     .accesskey = ٹ
+
 config-reset =
     .label = ری سیٹ کریو
     .accesskey = ر
+
 config-new =
     .label = نئو
     .accesskey = w
+
 config-string =
     .label = سٹرینگ
     .accesskey = س
+
 config-integer =
     .label = سئلم
     .accesskey = س
+
 config-boolean =
     .label = بولین
     .accesskey = B
+
 config-default = ڈیفالٹ
 config-locked = قفل لگئومُت
+
 config-property-string = سٹرینگ
 config-property-int = سئلم
 config-property-bool = بولین
+
 config-new-prompt = نئوئ  ترجیح ناو كریو دئخل
+
 config-nan-title = نا منظور قٲمت
 config-nan-text = یوٛس مواد تُہ۪ی دٲخل كرمُت چھُوئ چھُ نئ رقم
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = نئو{ $type } قئمتھ
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = نئوئ  قئمتھ{ $type }    ناو كریودئخل

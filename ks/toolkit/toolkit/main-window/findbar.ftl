@@ -9,9 +9,12 @@ findbar-next =
     .tooltiptext = جملُك بیٲكھ واقعئ ژئھنڈیو
 findbar-previous =
     .tooltiptext = جملُك پت۪یوم واقعئ ژئھنڈیو
+
 findbar-find-button-close =
     .tooltiptext = ژھأنڈیو  بار  كریو بند
+
 findbar-case-sensitive =
     .label = میچ کْریو  كیس
     .accesskey = م
     .tooltiptext = تلاش کْریو کیس سینزیٹیوٹی سان
+

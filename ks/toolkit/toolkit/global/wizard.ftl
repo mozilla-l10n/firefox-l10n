@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < پتھ
     .accesskey = پ
+
 wizard-macos-button-next =
     .label = جٲری تھَویو
     .accesskey = C
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = برونٹھم  >
     .accesskey = ب
+
 wizard-macos-button-finish =
     .label = سبدیے
 wizard-linux-button-finish =
     .label = مكلاو
 wizard-win-button-finish =
     .label = مكلاو
+
 wizard-macos-button-cancel =
     .label = منسوخ
 wizard-linux-button-cancel =

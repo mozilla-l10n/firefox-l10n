@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = رکاوٹ
 pictureinpicture-play =
     .aria-label = چلٲویو
+
 pictureinpicture-mute =
     .aria-label = ژھوٛٛپ كرنٲویو
 pictureinpicture-unmute =
     .aria-label = آواز تھٲویو
+

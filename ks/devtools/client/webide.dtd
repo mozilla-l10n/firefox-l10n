@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "رن ٹایم اِنفو">
 
-<!ENTITY runtimeMenu_showMonitor_label "مانیٹر">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label " ڈیوایس  ترجیحات">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ڈیوایِس سیٹینگ">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "ایپ کْریو اوپْن">
+
 <!ENTITY runtimeButton_label "رن ٹایم ژأریو">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "ٹیبس">
 <!ENTITY runtimePanel_usb "یو ایس بی ڈیوایس">
 <!ENTITY runtimePanel_wifi "واے۔فاے ڈیوایِس">
-<!ENTITY runtimePanel_simulator "سیمیولیٹر">
 <!ENTITY runtimePanel_other "باقی">
-<!ENTITY runtimePanel_installsimulator "سیمیولیٹر کْریو انسٹال">
-<!ENTITY runtimePanel_noadbhelper "انسٹال کْریو اے ڈی بی ہیلپر">
 <!ENTITY runtimePanel_nousbdevice "ہیکیو نا وْچھیتھ پنُن ڈیوایس؟">
 
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "ٹیمپلیٹ ژأریو">
 <!ENTITY newAppLoadingTemplate "ٹیمپلیٹ لوڈ کران ۔ ۔ ۔">
 <!ENTITY newAppProjectName "پروجیکٹْہ ناو:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "رن ٹایم اِنفو">
-<!ENTITY runtimedetails_adbIsRoot "چُھ روٹ:ADB">
-<!ENTITY runtimedetails_summonADBRoot "روٹ ڈیوایس">
-<!ENTITY runtimedetails_ADBRootWarning "( ضرورت چُھ ان لاکْڈ بوٹ لوڈر)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "حد روس دیو ٹول فأیدْ:">
-<!ENTITY runtimedetails_requestPrivileges "درخواست کْریو اعلا فأیدْ">
-<!ENTITY runtimedetails_privilegesWarning "( کرِ ریبوٹ ڈیوایِس۔ ضرورت چُھ روٹ ایسیس)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "بولین">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "نْو سیٹینگ کْریو جمع">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "مانیٹر">
-<!ENTITY monitor_help "مدد">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,14 +166,6 @@
 
 <!ENTITY logs_title "پریأپیکیجینگ کمانڈ لاگ">
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "ترجمہ">
-
-
-<!ENTITY simulator_device "ڈیوایِس">
 
 
 

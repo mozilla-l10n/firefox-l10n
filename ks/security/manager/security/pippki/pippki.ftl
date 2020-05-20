@@ -8,6 +8,7 @@ password-quality-meter = خوفیا لفظ خصویت میٹر
 
 change-password-window =
     .title = ۔ماسٹر خفیہ   لفظ  بدلٲویو
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = حفئظتی عالئ: { $tokenName }

@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "مدد"> 
 <!ENTITY helpMenuWin.accesskey    "م">
+
 <!ENTITY aboutProduct2.label      " برانڈ شاٹ ناو؛;مُتلق&amp;">
 <!ENTITY aboutProduct2.accesskey  "ب">
 <!ENTITY productHelp2.label       " &amp;برانڈ شاٹ ناو؛ مدد">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 
 
-
-<!ENTITY healthReport2.label      "  ہیلْتھ رپورٹبرانڈ شاٹ ناو؛ ">
-<!ENTITY healthReport2.accesskey  "ب">
 
 <!ENTITY helpTroubleshootingInfo.label      "&amp; مثلئ ہل كرنچ مولومات">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "سٲری ہٲویو">
+

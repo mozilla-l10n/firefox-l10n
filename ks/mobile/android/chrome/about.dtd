@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "اتھ بارس منز &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "brandS&hortName;چُھ تجرُبن بے ماآسہ اور یور ">
-<!ENTITY aboutPage.telemetryStart               "یء چُھ پانیء سوزان جانکآری  performance, hardware, usage ٹء customizations مُتلک واپس">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "تاکیء یء &brandShortName; گسیء بہتر">
 <!ENTITY aboutPage.checkForUpdates.link         "  چان کریو اپڈیٹس خاترہ">
 <!ENTITY aboutPage.checkForUpdates.checking     "وچان اپڈیٹس خاترہ">
 <!ENTITY aboutPage.checkForUpdates.none         "کہن اپڈیٹس چُہ نئ موجود ">

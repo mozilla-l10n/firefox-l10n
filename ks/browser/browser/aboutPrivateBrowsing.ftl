@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = اوپْن کْریو اکھ & پرایوٹ وینڈو
     .accesskey = P
 about-private-browsing-not-private = توہیہ چھیو نْہ وْنکینس أکس پرایوٹ وینڈو منز۔
+

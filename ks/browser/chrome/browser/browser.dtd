@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -17,19 +18,9 @@
 
 <!ENTITY appmenu.tooltip                     "اوپْن مینیو">
 <!ENTITY navbarOverflow.label                "مزید ٹول ۔ ۔ ۔">
+
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "ٹیب كریو ری لوڈ">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "سٲری ٹئب كریو ری لوڈ">
-<!ENTITY  reloadAllTabs.accesskey            "A">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "ٹیب کْریو بند دوچُھن کُن&amp;">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "باقی ٹیب کْریو بند&amp;">
-<!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -46,14 +37,8 @@ can reach it easily. -->
 
 
 
-<!ENTITY  moveToNewWindow.label              "نئو۪ی وِنڈئ منز پكنٲویو">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "سارنی ٹیبن تھٲویو نشان">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "ٹیب بند كروٛ ن كریو اَن ڈو">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "ٹیب كریو بند">
-<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "سارنی ٹیبن ہیوند فہرست بنٲویو">
 
@@ -85,16 +70,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ٹولبار آیٹمن تھٲویو نشان ">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "سٲری ٹئب كریو ری لوڈ">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "سارنی ٹیبن تھٲویو نشان">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "ٹیب بند كروٛ ن كریو اَن ڈو">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
-
 <!ENTITY pageSourceCmd.label "صفحہ زریئعئ">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "صفحہ  ئچ مولومات">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -106,6 +85,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "پورئ پردہ كریو خٲرج">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "پورئ پردہ">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -132,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -161,8 +141,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-<!ENTITY subscribeToPageMenuitem.label "یئ صفحئ كریو منظور">
 <!ENTITY addCurPagesCmd.label "سارنی ٹیبن تھٲویو نشان">
+
 <!ENTITY showAllBookmarks2.label "سٲری نشانزد ہٲویو">
 
 
@@ -182,7 +162,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "ریلوڈ کْریو ">
 <!ENTITY stopCmd.label                "رُکأیو">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "جاے بارس منز گژھیو نیبس منز">
+
 <!ENTITY printButton.label            "پرینٹ">
 <!ENTITY printButton.tooltip          "یئ صفحئ چھپٲویو">
 
@@ -213,12 +195,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+
 <!ENTITY homeButton.label             "ہوم">
 
 <!ENTITY bookmarksButton.label          "نشان زَد">
 <!ENTITY bookmarksCmd.commandkey "b">
-
-<!ENTITY bookmarksMenuButton.label          "نشان زَد">
 
 
 <!ENTITY viewBookmarksSidebar2.label        "ویو کْریو بوک مارْک سایِڈ بار">
@@ -309,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "سائڈ بار">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "کسٹمائز ۔۔۔">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
@@ -324,18 +306,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "سٲری تٲریخ ہٲویو">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "کسٹمائز...">
-<!ENTITY appMenuCustomize.tooltip "مینیو تْہ ٹول بار کْریو کسٹامایِز">
-<!ENTITY appMenuCustomizeExit.label "کسٹامایز منز کْریو ایکزِٹ">
-<!ENTITY appMenuCustomizeExit.tooltip "کسٹامایزینگ کْریو ختم">
-<!ENTITY appMenuHistory.label "تٲریخ">
 <!ENTITY appMenuHistory.showAll.label "سٲری تٲریخ ہٲویو">
 <!ENTITY appMenuHistory.clearRecent.label "حالچ  تعٲریخ كریو صاف">
 <!ENTITY appMenuHistory.restoreSession.label "پتِم سیشن انیو واپس">
 <!ENTITY appMenuHistory.viewSidebar.label "ہسٹری سایِڈ بار کْریو ویو">
 
-
-<!ENTITY appMenuHelp.tooltip "مدد مینیو کْریو اوپْن">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -359,31 +334,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "ٹول بارس کْریو جمع&amp;">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "مینیوہس کْریو جمع&amp;">
-<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
 
-<!ENTITY customizeMenu.moveToToolbar.label "ٹول بارس کُن پْکیو&amp;">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "مینیو کُن پْکیو&amp;">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
 
 
 
 <!ENTITY customizeMenu.removeFromToolbar.label "ٹول بار پیٹھ ہٹأیو&amp;">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "مینیو پیٹھ ہٹأیو&amp;">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "مزید آیٹم کْریو جمع۔ ۔ ۔&amp;">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -391,16 +352,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "تلاش کْریو یا اینٹر کْریو پتاہ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "ٹیبس منز گژھیو">
 
 
-
-<!ENTITY urlbar.searchSuggestionsNotification.disable "نئ">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "عئں">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
@@ -445,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchFor.label              "خٲطرئ  ژھٲنڈیو">
 <!ENTITY searchWith.label             "سْیت:">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
@@ -469,6 +428,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "نئو۪س ٹیبس منز كھولیو لنك">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "نئو۪ی ونڈو منز كھولیو لنك">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -488,7 +448,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "فریم كریو ری لوڈ">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ژار زریع وچھیو">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "میتہ ML زریعئ وچھیو">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -543,8 +502,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "۔">
 <!ENTITY emailVideoCmd.label          "ویڈیو كریو ای میل">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "ڈیوایسس کُن سوزیو ویڈیو &amp;">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ویڈیو  كریو ای میل">
 <!ENTITY emailAudioCmd.accesskey      "و">
 <!ENTITY playPluginCmd.label          "یہ پْلگ اِن کْریو ایکٹیویٹ&amp;">
@@ -565,6 +522,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "یئ فریم">
 <!ENTITY thisFrameMenu.accesskey          "h">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -615,6 +573,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "حساب تھٲویو ژۄر۪ی">
 <!ENTITY videoHideStats.accesskey    "t">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -641,6 +600,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "صرف بڈٲویو مواد">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "بڈٲویو">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -668,8 +628,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "بنیٲدی صفحئ سٹایل">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
-
-<!ENTITY pageReportIcon.tooltip            "پاپ سیٹینگس بدلٲویو یٹھ ویب سايٹ خٲطرئ">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -735,6 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
+
 <!ENTITY tabsToolbar.label "براوزر ٹیبس">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
@@ -776,20 +735,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "سینك">
 
-<!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چھاہ ضرورت؟">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "ژأریو ساس بدیو ایڈ۔آنو منز">
-<!ENTITY customizeMode.restoreDefaults "ڈیفالٹس  انیو واپس">
-
-<!ENTITY customizeMode.titlebar "عنوان بار">
-
-<!ENTITY customizeMode.lwthemes "تھیمْہ">
-<!ENTITY customizeMode.lwthemes.myThemes "میانِہ تھیمْہ">
-<!ENTITY customizeMode.lwthemes.recommended "مشوَرئ  یوان دِنئ">
-<!ENTITY customizeMode.lwthemes.menuManage "منیج کْریو">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "مزید تھیم کْریو حأصل">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -829,23 +774,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.message "نظر تھَوان">
-<!ENTITY trackingContentBlocked.moreinfo "تمِہ پیجِک حصہ یوس ذن ٹریک کران چُھ تُہنز آن لاین ایکٹیوٹی چھ بُلاک کرنْہ آمْژ۔">
-<!ENTITY trackingContentBlocked.learnMore "مزید ہیچھِو">
-
-
-
-<!ENTITY trackingContentBlocked.block.label "حفاظت کْریو اینیبْل&amp;">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
-<!ENTITY trackingContentBlocked.disabled.message "ٹریکینگ حفاظت چھ ڈیسیبلْڈ">
-
 <!ENTITY pluginNotification.showAll.label "سٲری  ہٲویو">
 <!ENTITY pluginNotification.showAll.accesskey "س">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "وْنئ دِیو اجازت">
-<!ENTITY pluginActivateAlways.label "اجازت دِیو تْہ یاد تھأیو">
-<!ENTITY pluginBlockNow.label "پْلگ اِن کْریو بُلاک">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -854,30 +786,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.width "28em">
 
+
 <!ENTITY uiTour.infoPanel.close "بند">
 
-<!ENTITY appMenuSidebars.label         "سائڈ بار">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
 
-<!ENTITY panicButton.view.mainTimeframeDesc       "پْتیم مشرأیو">
-<!ENTITY panicButton.view.5min                    "پانژھ منٹ">
-<!ENTITY panicButton.view.2hr                     "۲ گھنٹہ">
-<!ENTITY panicButton.view.day                     "۲۴ گھنٹہ">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-<!ENTITY panicButton.view.mainActionDesc          "پروسیڈینگ وِل:">
-<!ENTITY panicButton.view.deleteCookies           "ڈیلیٹ کْریو تازْ <html:strong>Cookies</html:strong> ">
-<!ENTITY panicButton.view.deleteHistory           "ڈیلیٹ کْریو تازْ <html:strong>History</html:strong> ">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "بند کْریو تمام <html:strong>Tabs</html:strong> and <html:strong>Windows</html:strong> ">
-<!ENTITY panicButton.view.openNewWindow           "اوپْن کْریو اکھ نْو صاف وینڈو">
-
-<!ENTITY panicButton.view.undoWarning             "یئ كٲم یی نئ اَن ڈَن كرنئ">
-<!ENTITY panicButton.view.forgetButton            "مشرأیو!">
 
 <!ENTITY panicButton.thankyou.msg1                "تُہنز تازْ ہسٹری چھ کْلیر کرنْہ آمْژ۔">
 <!ENTITY panicButton.thankyou.msg2                "محفوظ براوزینگ!">

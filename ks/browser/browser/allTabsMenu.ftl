@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = ٹیب بند كروٛ ن كریو اَن ڈو
+

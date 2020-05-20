@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "تہئ چھُوئ وننئ آمُت زئ تہئ كریو نئوئ سرٹئفیكیٹ ایتھورٹی  (CA)پیٹھ بروسئ">
 <!ENTITY downloadCert.trustSSL "یتھ CA پیٹھ كریو بروسئ ویب سایٹس پرزناونئ خٲطرئ.">
 <!ENTITY downloadCert.trustEmail "یتھ CA پیٹھ كریو بروسئ ای میل استیمال كرئن وئل پرزناونئ خٲطرئ">
-<!ENTITY downloadCert.trustObjSign "یتھ CA پیٹھ كریو بروسئ  سافٹویر بناوئن وئل  پرزناونئ خٲطرئ">
 <!ENTITY downloadCert.message3 "امہ برونہہ ذِ توہیہ کْریو بھروس یتھ سی اے یس پیٹھ کونِہ مقصد باپت، توہیہ پْزِ امِچ سرٹفیکیٹ جانچ کرْنئ تْہ امِچ پالیسی تْہ پروسیجر ( اگر دستیاب آسن)۔">
 <!ENTITY downloadCert.viewCert.label " نظارئ">
 <!ENTITY downloadCert.viewCert.text "سرٹئفیكیٹ CA  وچھیو">

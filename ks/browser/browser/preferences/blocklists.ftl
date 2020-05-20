@@ -5,3 +5,4 @@
 blocklist-button-cancel =
     .label = منسوخ
     .accesskey = س
+

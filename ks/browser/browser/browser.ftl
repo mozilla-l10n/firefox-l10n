@@ -18,6 +18,7 @@
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بوک مارْک کْریو ایڈیٹ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -79,5 +80,6 @@ urlbar-placeholder =
     .placeholder = تلاش کْریو یا اینٹر کْریو پتاہ
 urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
+
 urlbar-go-button =
     .tooltiptext = جاے بارس منز گژھیو نیبس منز
