@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = I-{ -brand-short-name } - Khetha iprofayile Yomsebenzisi
+
 profile-selection-button-accept =
     .label = Qalisa i-{ -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Phuma
+
 profile-selection-new-button =
     .label = Yila iprofayile…
     .accesskey = Y
+
 profile-selection-rename-button =
     .label = Thiya ngokutsha iprofayile…
     .accesskey = T
+
 profile-selection-delete-button =
     .label = Cima iprofayile…
     .accesskey = C
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = I-{ -brand-short-name } igcina inkcazelo ngeesethingi, iipriferensi nezinye iiayithem zomsebenzisi kwiprofayile yomsebenzisi.
+
 profile-manager-work-offline =
     .label = Umsebenzi kwimo engeyo yakusebenza
     .accesskey = s
+
 profile-manager-use-selected =
     .label = Sebenzisa iprofayile ekhethiweyo ngaphandle kokucela ukuqalisa
     .accesskey = e

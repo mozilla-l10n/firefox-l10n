@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 <!-- File menu items -->
 
@@ -21,11 +22,9 @@
 <!ENTITY checkSpellingCmd2.label "Check Spelling…">
 <!ENTITY checkSpellingCmd2.accesskey "h">
 <!ENTITY checkSpellingCmd2.key "p">
+
 <!-- Insert menu items -->
 <!ENTITY insertMenu.accesskey "I">
-
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
 
 <!ENTITY insertAnchorCmd.accesskey "A">
 
@@ -42,6 +41,7 @@
 <!ENTITY insertCharsCmd.accesskey "C">
 
 <!ENTITY insertBreakAllCmd.accesskey "k">
+
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.accesskey "k">
 
@@ -72,12 +72,10 @@
 <!-- > is above this key on many keyboards -->
 <!ENTITY incrementFontSize.key2 "."> 
 
+<!-- > is above this key on many keyboards -->
+
 <!ENTITY fontSizeMenu.label "Size">
 <!ENTITY fontSizeMenu.accesskey "z">
-
-<!ENTITY size-xx-smallCmd.accesskey "a">
-
-<!ENTITY size-x-smallCmd.accesskey "m">
 
 <!ENTITY size-smallCmd.accesskey "s">
 
@@ -85,9 +83,6 @@
 
 <!ENTITY size-largeCmd.accesskey "l">
 
-<!ENTITY size-x-largeCmd.accesskey "x">
-
-<!ENTITY size-xx-largeCmd.accesskey "e">
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.accesskey "S">
 
@@ -153,6 +148,7 @@
 <!ENTITY paragraphAddressCmd.accesskey "A">
 
 <!ENTITY paragraphPreformatCmd.accesskey "f">
+
 <!-- List menu items -->
 <!ENTITY formatlistMenu.accesskey "L">
 <!ENTITY noneCmd.label "Akukho nanye">
@@ -172,6 +168,7 @@
 <!ENTITY bodyTextCmd.accesskey "T">
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.accesskey "v">
+
 <!-- Align menu items -->
 <!ENTITY alignMenu.accesskey "A">
 
@@ -197,6 +194,7 @@
 <!ENTITY decreaseIndent.key "[">
 
 <!ENTITY colorsAndBackground.accesskey "u">
+
 <!-- Table Menu -->
 <!ENTITY tableMenu.accesskey "b">
 <!-- Select Submenu -->
@@ -209,6 +207,7 @@
 <!ENTITY tableInsertMenu2.accesskey "I">
 
 <!ENTITY tableDeleteMenu2.accesskey "D">
+
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.accesskey "I">
 
@@ -240,6 +239,7 @@
 <!ENTITY tableCellAfter.accesskey "f">
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.accesskey "D">
+
 <!-- text for "Join Cells" is in editor.properties 
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings

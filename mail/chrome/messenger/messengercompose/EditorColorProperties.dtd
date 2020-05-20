@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Imibala Yamakhasi Nokungasemva Eskrinini">
 <!ENTITY pageColors.label "Imibala Yamakhasi">
 <!ENTITY defaultColorsRadio.label "Imibala yomfundi ehlala ikho (Musa ukumisela imibala ekhasini)">

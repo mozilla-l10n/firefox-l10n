@@ -9,17 +9,12 @@ about-service-workers-title = Malunga Nabasebenzi Beenkonzo
 about-service-workers-main-title = Abasebenzisi beNkonzo Ababhalisiweyo
 about-service-workers-warning-not-enabled = Abasebenzi Beenkonzo abavulwanga.
 about-service-workers-warning-no-service-workers = Abakho Abasebenzisi Benkonzo ababhalisiweyo.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Imvelaphi: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Usetyenziso ID { $appId } - IElementi EkwiBrawza { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Igama Lekhetshi Esebenzayo:</strong> { $name }
 waiting-cache-name = <strong>Igama Lekhetshi Elindileyo:</strong> { $name }
 push-end-point-waiting = <strong>Tyhala ipoyinti esekugqibeleni</strong> { waiting }
 push-end-point-result = <strong>Tyhala ipoyinti esekugqibeleni</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Hlaziya
+
 unregister-button = Yekisa ubhaliso
+
 unregister-error = Ayikwazanga kumyekisa ubhaliso lo Msebenzi Wenkonzo
+
 waiting = Kulindiwe…

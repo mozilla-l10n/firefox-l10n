@@ -38,6 +38,12 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Fumana ukuze Ususe Ngokubeka Okunye">
 <!ENTITY findField.label "Fumana isiqendu:">
 <!ENTITY findField.accesskey "m">
@@ -58,4 +64,3 @@
 <!ENTITY replaceAllButton.label "Susa Konke Ngokubeka okunye">
 <!ENTITY replaceAllButton.accesskey "N">
 <!ENTITY closeButton.label "Vala">
-<!ENTITY notFoundWarning.label "Isiqendu osingenisileyo asifunyenwanga.">

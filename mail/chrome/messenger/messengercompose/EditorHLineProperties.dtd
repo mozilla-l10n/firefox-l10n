@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Iinkcazelo Zemigca Exwesileyo">
 
 <!ENTITY dimensionsBox.label "Amacala okuthile">
@@ -46,11 +51,8 @@
 <!ENTITY widthEditField.accessKey "U">
 <!ENTITY pixelsPopup.value "amachokoza eskrinini">
 <!ENTITY alignmentBox.label "Ulungelelwaniso">
-<!ENTITY leftRadio.value "Ekhohlo">
 <!ENTITY leftRadio.accessKey "h">
-<!ENTITY centerRadio.value "Embindini">
 <!ENTITY centerRadio.accessKey "d">
-<!ENTITY rightRadio.value "Ekunene">
 <!ENTITY rightRadio.accessKey "n">
 
 <!ENTITY threeDShading.label "Ukushiyana Kwemibala kwe-3-D">

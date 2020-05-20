@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Khetha konke">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "k">
+
 <!ENTITY findCmd.label             "Fumana">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

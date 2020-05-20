@@ -18,8 +18,6 @@
 <!ENTITY accountsSectionHdr.label     "Iiakhawunti">
 <!ENTITY subscribeImapFolders.label   "Lawula imirhumo yesiqulathi seefayili">
 <!ENTITY settingsLink.label           "Jonga imimiselo yale akhawunti">
-<!ENTITY newAcctLink.label            "Yenza iakhawunti entsha">
-<!ENTITY newAcct.label                "Create a new account:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Iimpawu Esezikwinqanaba Eliphambili">
 <!ENTITY searchMsgsLink.label         "Zingela imiyalezo">

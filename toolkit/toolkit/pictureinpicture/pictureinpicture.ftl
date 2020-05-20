@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Isiqabu
 pictureinpicture-play =
     .aria-label = Dlala
+
 pictureinpicture-mute =
     .aria-label = Thulisa isandi
 pictureinpicture-unmute =
     .aria-label = Vuselela isandi
+

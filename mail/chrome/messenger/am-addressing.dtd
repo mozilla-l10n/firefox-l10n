@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Uhlanganiselo &amp; Ukufakwa kweedilesi">
 <!ENTITY addressingGroupTitle.label "Kufakwa iidilesi">
@@ -16,8 +19,11 @@
 <!ENTITY directories.label         "Sebenzisa iseva eyahlukileyo ye-LDAP:">
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "None">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Uhlanganiselo">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +31,6 @@
 <!ENTITY useHtml.accesskey                    "Q">
 <!ENTITY autoQuote.label                      "Ngokuzenzekela caphula umyalezo wentsusa xa uphendula">
 <!ENTITY autoQuote.accesskey                  "c">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Ngoko,">
-<!ENTITY then.accesskey                       "N">
 <!ENTITY aboveQuote.label                     "qalisa ngempendulo yam ngaphezu kokucatshulweyo">
 <!ENTITY belowQuote.label                     "qalisa ngempendulo yam ngezantsi kokucatshulweyo">
 <!ENTITY selectAndQuote.label                 "khetha isicatshulwa">

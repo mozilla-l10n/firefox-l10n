@@ -5,35 +5,42 @@
 permissions-window =
     .title = Izinxaxhi
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Nqanda
     .accesskey = N
+
 permissions-session =
     .label = Vumela Iseshoni
     .accesskey = I
+
 permissions-allow =
     .label = Vumela
     .accesskey = V
+
 permissions-status =
     .label = Isimo
+
 permissions-button-cancel =
     .label = Rhoxisa
     .accesskey = R
+
 permissions-button-ok =
     .label = Gcina Iinguqu
     .accesskey = G
+
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Nqanda
+
 permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
     .value = Nqanda
-permissions-capabilities-listitem-allow-first-party =
-    .value = Vumela iqela lokuqala kuphela
 permissions-capabilities-listitem-allow-session =
     .value = Vumela iSeshoni
 
@@ -43,10 +50,6 @@ permissions-invalid-uri-title = Kungeniswe igama loMamkeli elingasebenziyo
 permissions-invalid-uri-label = Nceda ngenisa igama lomamkeli elisebenzayo
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = Ezikhethekileyo - Treka Ukhuseleko
-    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -68,11 +71,15 @@ permissions-exceptions-addons-desc = Ungabalula ukuba zeziphi na iiwebhusayithi 
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

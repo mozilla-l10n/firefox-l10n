@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = P
     .secondarybuttonlabel = Hayi Ngoku
     .secondarybuttonaccesskey = H
+    

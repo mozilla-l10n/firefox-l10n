@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Feed URL:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
@@ -29,8 +28,6 @@
 
 <!ENTITY button.addFeed.label        "Fakela">
 <!ENTITY button.addFeed.accesskey    "F">
-<!ENTITY button.editFeed.label       "Hlela">
-<!ENTITY button.editFeed.accesskey   "H">
 <!ENTITY button.removeFeed.label     "Susa">
 <!ENTITY button.removeFeed.accesskey "S">
 <!ENTITY button.importOPML.label     "Thatha ngaphandle">

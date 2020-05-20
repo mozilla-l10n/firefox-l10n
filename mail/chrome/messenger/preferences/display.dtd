@@ -27,10 +27,6 @@
 <!-- labels -->
 
 <!ENTITY displayTagsText.label     "Tags can be used to categorize and prioritize your messages.">
-<!ENTITY addTagButton.label        "Add">
-<!ENTITY addTagButton.accesskey    "A">
-<!ENTITY editTagButton.label       "Edit">
-<!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label     "Delete">
 <!ENTITY removeTagButton.accesskey "D">
 <!-- Fonts and Colors -->
@@ -44,3 +40,4 @@
 <!ENTITY fontOptions.label       "Iifonti...">
 <!ENTITY colorButton.label       "Colors…">
 <!ENTITY colorButton.accesskey   "C">
+

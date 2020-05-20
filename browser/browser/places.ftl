@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Vula kwiWindow yaBucala eNtsha
     .accesskey = k
+
 places-new-bookmark =
     .label = Isalathisi Esiphawulayo Esitsha…
     .accesskey = E
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Isihlukanisi esitsha
     .accesskey = I
+
 places-view =
     .label = Jonga
     .accesskey = g
@@ -47,6 +49,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ngalo Mhla Nangesi Siza
     .accesskey = h
+
 places-delete-domain-data =
     .label = Libala ngale sayithi
     .accesskey = L

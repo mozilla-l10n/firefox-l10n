@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Malunga neeSoftwe ezincedisayo
+
 installed-plugins-label = Izifakelo ezifakiweyo
 no-plugins-are-installed-label = Akukho zifakelo zifakiweyo ezifumanekileyo
+
 deprecation-description = Ngaba kukho into engekhoyo? Ezinye iiplagini azisaxhaswa. <a data-l10n-name="deprecation-link">Funda Okungakumbi.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Ilizwe:</span> Kunikwe isakhono
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Ilizwe:</span> Kunikwe isakhono ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Ilizwe:</span> Kwaphulwe isakhono
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Ilizwe:</span> Kwaphulwe isakhono ({ $blockListState })
+
 mime-type-label = Isimbo se-MIME
 description-label = Inkcazelo
 suffixes-label = Izimamva

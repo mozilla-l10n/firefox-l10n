@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Incwadi Yeedilesi">
 <!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
 <!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Ifayili">
 <!ENTITY fileMenu.accesskey                             "I">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Properties">
-<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Uludwe Olutsha">
 <!ENTITY newlistButton.accesskey                        "O">
-<!ENTITY editButton2.label                              "Properties">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Bhala">
 <!ENTITY newmsgButton.accesskey                         "B">
 <!ENTITY newIM.label                                    "Umyalezo Wangephanyazo">
@@ -145,13 +142,11 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Create a new address book contact">
 <!ENTITY newlistButton.tooltip                          "Yila uludwe olutsha">
-<!ENTITY editButton2.tooltip                            "Edit the selected item">
 <!ENTITY newmsgButton.tooltip                           "Thumela umyalezo wemeyile">
 <!ENTITY newIM.tooltip                                  "Thumela umyalezo okanye ingxoxo yangephanyazo">
 <!ENTITY deleteButton2.tooltip                           "Delete selected item">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label                            "Iincwadi Zeedilesi">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label                        "Igama okanye Imeyile">
@@ -195,6 +190,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "K">
 <!ENTITY _PhoneticName.label                            "Igama Ngokwefonetiki">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

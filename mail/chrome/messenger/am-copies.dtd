@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-copies.xul -->
 
+
+<!-- extracted from am-copies.xhtml -->
 
 <!ENTITY copyAndFolderTitle.label "Iikopi &amp; Iziqulathi zeefayili">
 <!ENTITY sendingPrefix.label "Xa kuthunyelwa imiyalezo, ngokuzenzekela: ">
@@ -36,7 +39,6 @@
 <!ENTITY archiveInOtherFolder.label "Other:">
 <!ENTITY archiveInOtherFolder.accesskey "h">
 <!ENTITY specialFolders.label "Drafts and Templates">
-<!ENTITY keepDrafts.label "Gcina imiyilo yomyalezo phakathi:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "&quot;Imiyilo&quot; Isiqulathi seefayili siyasebenza:">
 <!ENTITY draftsFolderOn.accesskey "I">

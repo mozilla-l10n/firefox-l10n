@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Inkcazelo YeRuntime">
 
-<!ENTITY runtimeMenu_showMonitor_label "Bek' esweni">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Iipriferensi Zesayithi">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Iisetingi Zesixhobo">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Vula I-App">
+
 <!ENTITY runtimeButton_label "Khetha iXesha Lokuqhuba">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "Iithebhu">
 <!ENTITY runtimePanel_usb "Izixhobo ze-USB">
 <!ENTITY runtimePanel_wifi "Izixhobo zeWi-FI">
-<!ENTITY runtimePanel_simulator "Iisimuleyitha">
 <!ENTITY runtimePanel_other "Okunye">
-<!ENTITY runtimePanel_installsimulator "Fakela isixhobo esakhelwe ukulinganisa">
-<!ENTITY runtimePanel_noadbhelper "Faka uMncedi we-ADB">
 <!ENTITY runtimePanel_nousbdevice "Akusiboni isixhobo sakho?">
 <!ENTITY runtimePanel_refreshDevices_label "Hlaziya iZixhobo">
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "Khetha itemplethi">
 <!ENTITY newAppLoadingTemplate "Ilayisha iitemplethi…">
 <!ENTITY newAppProjectName "IGama leProjekthi:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Inkcazelo YeRuntime">
-<!ENTITY runtimedetails_adbIsRoot "U-ADB yiruthi: ">
-<!ENTITY runtimedetails_summonADBRoot "isixhobo seruti">
-<!ENTITY runtimedetails_ADBRootWarning "(ifuna ibhutlowuda engatshixwanga)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Amalungelo eeDevTools ezingathintelwanga:">
-<!ENTITY runtimedetails_requestPrivileges "cela amalungelo angaphezulu">
-<!ENTITY runtimedetails_privilegesWarning "(Iza kubhutha isixhobo kwakhona. Ifuna ufikelelo lweruthi.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "Boolean">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "Yongeza isetingi entsha">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "Bek' esweni">
-<!ENTITY monitor_help "Uncedo">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -176,17 +167,3 @@
 <!ENTITY logs_title "IiLogi zoMyalelo wokuPakisha kuseNgaphambili">
 <!-- Simulator Options -->
 
-<!ENTITY simulator_title "Ukhetho lweSimuleyitha">
-<!ENTITY simulator_remove "Isimuleyitha yoKucima">
-<!ENTITY simulator_reset "Buyisela Iidifolthi">
-
-<!ENTITY simulator_software "Isoftwe">
-<!ENTITY simulator_version "Uguqulelo">
-<!ENTITY simulator_profile "iProfayili">
-<!ENTITY simulator_hardware "Ihadwe">
-<!ENTITY simulator_device "Isixhobo">
-<!ENTITY simulator_screenSize "Isikrini">
-<!ENTITY simulator_pixelRatio "iReshiyo yePikseli">
-<!ENTITY simulator_tv_data "Isivuseleli Sethivi">
-<!ENTITY simulator_tv_data_open "IDatha yoYIlo">
-<!ENTITY simulator_tv_data_open_button "Vula iSalathisi soYilo…">

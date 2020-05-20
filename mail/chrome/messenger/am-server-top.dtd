@@ -42,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Thoba umthwalo wemiyalezo emitsha ngokuzenzekela">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY username.label "Igama Lakho Lokungena">
 <!ENTITY deleteMessagePrefix.label "Xa ndicima imiyalezo:">
 <!ENTITY modelMoveToTrash.label "Shenxisela kwisiqulathi Senkunkuma">
 <!ENTITY modelMoveToTrash.accesskey "o">

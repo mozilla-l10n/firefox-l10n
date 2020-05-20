@@ -35,6 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title "Iinkcazelo Ngeempawu Zetheyibhile">
 <!ENTITY applyButton.label "Sebenzisa">
 <!ENTITY applyButton.accesskey "S">
@@ -69,7 +73,6 @@
 <!ENTITY tableCaptionNone.label "Akukho">
 <!ENTITY tableInheritColor.label "(Yenza ukuba umbala wekhasi ubonise konke)">
 
-<!ENTITY cellPercent.label "ipesenti yetheyibhile">
 <!ENTITY cellSelection.label "Okukhethwayo">
 <!ENTITY cellSelectCell.label "Iseli">
 <!ENTITY cellSelectRow.label "Umqolo oxwesileyo">
@@ -78,13 +81,6 @@
 <!ENTITY cellSelectNext.accessKey "O">
 <!ENTITY cellSelectPrevious.label "Okwangaphambili">
 <!ENTITY cellSelectPrevious.accessKey "O">
-<!ENTITY cellApplyBeforeMove.label "Sebenzisa iinguquko phambi kokuguqula okukhethiweyo">
-<!ENTITY cellKeepCurrentData.label "Gcina imimiselo yangoku">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Kuya kusetyenziswa iinguquko zangoku">
-<!ENTITY applyBeforeChange2.label "phambi kokuguqula okukhethiweyo.">
-<!ENTITY cellRowSpan.label "Ithuba Lomqolo Oxwesileyo:">
-<!ENTITY cellColSpan.label "Ithuba Lomqolo Owehlayo:">
 <!ENTITY cellContentAlignment.label "Ulungelelwaniso Lwesiqulatho">
 <!ENTITY cellHorizontal.label "Ngokobubanzi:">
 <!ENTITY cellHorizontal.accessKey "B">
@@ -102,7 +98,6 @@
 <!ENTITY cellAlignMiddle.label "Kwindawo ephakathi">
 <!ENTITY cellAlignBottom.label "Emazantsi">
 <!ENTITY cellAlignJustify.label "Lungelelanisa macala">
-<!ENTITY cellAlignAtChar.label "Kumbhalo Onjengonobumba:">
 <!ENTITY cellInheritColor.label "(Yenza ukuba umbala wetheyibhile ubonise konke)">
 <!ENTITY cellUseCheckboxHelp.label "Sebenzisa iibhokisi zokuqwalasela ukufumanisa ukuba zeziphi iinkcazelo ngeempawu ezisebenza kuzo zonke iiseli ezikhethiweyo">
 <!-- Used in both Table and Cell panels  -->

@@ -35,9 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Window.title "Iziqulatho Zetheyibhile">
 <!ENTITY buildToc.label "Ukwakha iziqulatho zetheyibhile ezivela:">
-<!ENTITY style.label "Isimbo:">
 <!ENTITY tag.label "Ileyibhile ye-tag:">
 <!ENTITY class.label "Udidi:">
 <!ENTITY header1.label "Inqanaba 1">

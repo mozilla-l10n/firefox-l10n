@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Chwetha apha ukuze isifakelo sisebenze.">
 <!ENTITY clickToActivatePlugin                               "Vuselela isifakelo.">
@@ -8,6 +9,7 @@
 <!ENTITY blockedPlugin.label                                 "Isifakelo sibhlokiwe ukukhusela wena.">
 <!ENTITY hidePluginBtn.label                                 "Fihla isifakelo">
 <!ENTITY managePlugins                                       "Lawula izifakelo…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

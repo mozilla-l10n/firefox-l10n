@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Ayikwazi kuqhagamshela ngokukhuselekileyo ngenxa yokuba iSSL protokoli iyekisiwe.
 psmerr-ssl2-disabled = Ayikwazi kuqhagamshela ngokukhuselekileyo ngenxa yokuba isayithi isebenzisa uhlelo oludala olungakhuselekanga lweprotokoli iSSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ufumene isatifikethi esingasebenziyo.  Nceda zidibanise nomlawuli weseva okanye obhalelanana naye ngemeyile uze umnike ulwazi olulandelayo:
     
     Isatifikethi sakho siqulethe inombolo yolandelelwano efana ncam neyesinye isatifikethi esikhutshwe ngugunyaziwe wezatifikethi.  Nceda fumana isatifikethi esiqulethe inombolo yolandelelwano efana yodwa.
+
 ssl-error-export-only-server = Ayikwazi kunxibelelana ngokukhuselekileyo. Umlingane akakuxhasi ukukhowuda okukumgangatho ophezulu.
 ssl-error-us-only-server = Ayikwazi kunxibelelana ngokukhuselekileyo. Umlingane ufuna ukukhowuda okukumgangatho ophezulu okungaxhaswayo.
 ssl-error-unsupported-certificate-type = Uhlobo lwesatifikethi olungaxhaswayo.

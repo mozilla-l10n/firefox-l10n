@@ -8,6 +8,7 @@ password-quality-meter = Umlinganiselo womgangatho wegama lokugqithisa
 
 change-password-window =
     .title = Guqula Igama Lokugqithisa Elingumalathindlela
+
 change-password-old = Igama lokugqithisa langoku:
 change-password-new = Igama lokugqithisa elitsha:
 change-password-reenter = Igama lokugqithisa (kwakhona):

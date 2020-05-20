@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Guqulela Kwitheyibhile">
 <!ENTITY instructions1.label "Umhlanganiseli uyila umqolo oxwesileyo wetheyibhile omtsha ngomhlathi ngamnye kokukhethiweyo.">
 <!ENTITY instructions2.label "Khetha umbhalo onjengonobumba osetyenziselwe ukwahlukanisa okukhethiweyo kwimiqolo eyehlayo:">
