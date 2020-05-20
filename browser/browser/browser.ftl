@@ -129,5 +129,5 @@ urlbar-placeholder =
     .placeholder = Search or enter address
 urlbar-switch-to-tab =
     .value = Switch to tab:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
