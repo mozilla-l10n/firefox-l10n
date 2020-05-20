@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 urlbar-identity-button =
     .aria-label = Yiy humpito lowre ndee
 
@@ -89,12 +88,10 @@ urlbar-midi-blocked =
     .tooltiptext = A daaƴii keɓgol MIDI wonande ndee lowre geese.
 urlbar-install-blocked =
     .tooltiptext = A daaƴii aafgol ɓeyditte e ndee lowre geese.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Taƴto ngol maantorol ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -108,7 +105,6 @@ page-action-manage-extension =
     .label = Yiil Timmitere…
 page-action-remove-from-urlbar =
     .label = Ittu e Palal Ñiiɓirɗe
-
 page-action-remove-extension =
     .label = Momtu timmitere
 
@@ -126,30 +122,29 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngol laawol, yiylo e:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Wayly Teelte Njiilaw
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Waylu teelte njiilaw
-
 search-one-offs-context-open-new-tab =
     .label = Yiylo e Tabbere Hesere
     .accesskey = T
 search-one-offs-context-set-as-default =
     .label = Waɗtu Yiylorɗe Woowaanɗe
     .accesskey = D
+search-one-offs-context-set-as-default-private =
+    .label = Waɗtu Yiylorɗe Woowaanɗe ngam Windows Keeriiɗo
+    .accesskey = P
 
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = Hollu taƴtorde kisnugol
     .accesskey = 5
-
 bookmark-panel-done-button =
     .label = Gasii
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -207,6 +202,8 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Taggu
+browser-window-maximize-button =
+    .tooltiptext = Mawnin
 browser-window-close-button =
     .tooltiptext = Uddu
 
@@ -224,7 +221,6 @@ popup-all-windows-shared = Kala henorde yiyotonde e yaynirde maaɗa maa lolline.
 
 enable-devtools-popup-description = Ngam huutoraade sodorde F12, uddit tawo DevTools e dosol topayɓe geese.
 
-
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -237,11 +233,9 @@ urlbar-permissions-granted =
     .tooltiptext = A hokkii ndee lowre jamirooje goɗɗe.
 urlbar-switch-to-tab =
     .value = Yah to tabbere:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Timmitere:
-
 urlbar-go-button =
     .tooltiptext = Yah to ñiiɓirde wonde e Palal Nokkuuje
 urlbar-page-action-button =
