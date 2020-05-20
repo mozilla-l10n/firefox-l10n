@@ -242,8 +242,6 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 擴充套件:
-urlbar-go-end-cap =
-    .tooltiptext = 按此前往網址列中的網址
 urlbar-page-action-button =
     .tooltiptext = 頁面操作
 urlbar-pocket-button =
