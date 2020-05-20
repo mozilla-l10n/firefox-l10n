@@ -117,5 +117,3 @@ urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
-urlbar-go-end-cap =
-    .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
