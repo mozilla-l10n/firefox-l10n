@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Keresés és csere">
 <!ENTITY findField.label "Keresés:">
 <!ENTITY findField.accesskey "K">

@@ -7,7 +7,9 @@ about-config-warning-title = Itt sárkányok vannak!
 about-config-warning-text = Ezen speciális beállítások megváltoztatása káros hatással lehet az alkalmazás stabilitására, biztonságára vagy teljesítményére. Csak akkor folytassa, ha tisztában van azzal, hogy mit csinál.
 about-config-warning-checkbox = Emlékeztessen továbbra is
 about-config-warning-button = Elfogadom a kockázatot
+
 about-config2-title = Speciális beállítások
+
 about-config-search-input =
     .placeholder = Keresés
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Kockázat elfogadása és továbblépés
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ezen beállítások megváltoztatása befolyásolhatja a { -brand-short-name } teljesítményét vagy biztonságát.
+
 about-config-page-title = Speciális beállítások
+
 about-config-search-input1 =
     .placeholder = Beállításnév keresése
 about-config-show-all = Összes megjelenítése
+
 about-config-pref-add = Hozzáadás
 about-config-pref-toggle = Ki/be
 about-config-pref-edit = Szerkesztés
 about-config-pref-save = Mentés
 about-config-pref-reset = Visszaállítás
 about-config-pref-delete = Törlés
+
 about-config-pref-add-button =
     .title = Hozzáadás
 about-config-pref-toggle-button =

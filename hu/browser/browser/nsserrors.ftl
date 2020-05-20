@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Hiba történt a következőhöz csatlakozáskor: { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Hibakód: { $error }
+
 psmerr-ssl-disabled = Nem lehet biztonságosan kapcsolódni, mert az SSL protokoll le van tiltva.
 psmerr-ssl2-disabled = Nem lehet biztonságosan kapcsolódni, mert a hely az SSL protokoll egy régi, nem biztonságos verzióját használja.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Érvénytelen tanúsítványt kapott.  Lépjen kapcsolatba a kiszolgáló adminisztrátorával vagy e-mailes kapcsolattartójával, és adja meg a következő információkat: 
     
     A tanúsítvány a hitelesítésszolgáltató egy másik tanúsítványával megegyező sorozatszámot tartalmaz.  Szerezzen egy egyedi sorozatszámmal rendelkező új tanúsítványt.
+
 ssl-error-export-only-server = Nem lehet biztonságosan kommunikálni. A partner nem támogatja a magas szintű titkosítást.
 ssl-error-us-only-server = Nem lehet biztonságosan kommunikálni. A partner olyan magas szintű titkosítást kíván meg, amely nincs támogatva.
 ssl-error-no-cypher-overlap = Nem lehet biztonságosan kommunikálni a partnerrel: nincs közös titkosító algoritmus.

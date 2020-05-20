@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Alkalmazás részletei
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Eltávolítás
     .accesskey = E
-app-manager-handle-webfeeds = A következő alkalmazások képesek kezelni ezt: webes hírforrások.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = A következő alkalmazások képesek kezelni ezt: { $type } hivatkozás.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = A következő alkalmazások képesek kezelni ezt: { $type } tartalom.

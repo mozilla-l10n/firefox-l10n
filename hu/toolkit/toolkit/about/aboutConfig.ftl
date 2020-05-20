@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Elfogadom a kockázatot!
 config-about-warning-checkbox =
     .label = A figyelmeztetés megjelenítése legközelebb
+
 config-search-prefs =
     .value = Keresés:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Másolás
     .accesskey = M
+
 config-copy-name =
     .label = Név másolása
     .accesskey = N
+
 config-copy-value =
     .label = Érték másolása
     .accesskey = r
+
 config-modify =
     .label = Módosítás
     .accesskey = M
+
 config-toggle =
     .label = Ki/be
     .accesskey = K
+
 config-reset =
     .label = Visszaállítás
     .accesskey = V
+
 config-new =
     .label = Új
     .accesskey = j
+
 config-string =
     .label = Karakterlánc
     .accesskey = K
+
 config-integer =
     .label = Egész
     .accesskey = E
+
 config-boolean =
     .label = Logikai
     .accesskey = L
+
 config-default = alapértelmezett
 config-modified = módosítva
 config-locked = zárolt
+
 config-property-string = karakterlánc
 config-property-int = egész
 config-property-bool = logikai
+
 config-new-prompt = Adja meg a beállítás nevét
+
 config-nan-title = Érvénytelen érték
 config-nan-text = A megadott szöveg nem szám.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Új { $type } érték
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Írja be az új { $type } értéket

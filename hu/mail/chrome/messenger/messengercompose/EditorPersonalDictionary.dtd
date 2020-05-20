@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "H">
 <!ENTITY DictionaryList.label "Szavak a szótárban:">
 <!ENTITY DictionaryList.accessKey "S">
-<!ENTITY ReplaceButton.label "Csere">
-<!ENTITY ReplaceButton.accessKey "C">
 <!ENTITY RemoveButton.label "Eltávolítás">
 <!ENTITY RemoveButton.accessKey "E">
 

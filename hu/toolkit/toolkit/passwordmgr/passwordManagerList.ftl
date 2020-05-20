@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Bezárás
     .accesskey = B
+
 show-passwords =
     .label = Jelszavak megjelenítése
     .accesskey = J

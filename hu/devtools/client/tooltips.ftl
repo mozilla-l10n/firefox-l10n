@@ -22,17 +22,29 @@ learn-more = <span data-l10n-name="link">További tudnivalók</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis vagy rácstároló.
+
 inactive-css-not-grid-or-flex-container-or-multicol-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel ez nem flex konténer, rács- vagy többoszlopos tároló.
+
 inactive-css-not-grid-or-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rács vagy flexibilis elem.
+
 inactive-css-not-grid-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem egy rácselem.
+
 inactive-css-not-grid-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem rácstároló.
+
 inactive-css-not-flex-item = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis elem.
+
 inactive-css-not-flex-container = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem flexibilis tároló.
+
 inactive-css-not-inline-or-tablecell = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem „inline” vagy „table-cell” elem.
+
 inactive-css-property-because-of-display = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel a „display” értéke <strong>{ $display }</strong>.
+
 inactive-css-not-display-block-on-floated = A <strong>display</strong> értéket <strong>blokkolásra</strong> változtatta a motor, mert az elem <strong>lebegő<strong>.
+
 inactive-css-property-is-impossible-to-override-in-visited = A(z) <strong>{ $property }</strong> felülbírálása a <strong>:visited</strong> korlátozás miatt lehetetlen.
+
 inactive-css-position-property-on-unpositioned-box = A(z) <strong>{ $property }</strong> nincs hatással erre az elemre, mivel nem pozicionált elem.
+
 inactive-text-overflow-when-no-overflow = A(z) <strong>{ $property }</strong> nem befolyásolja ezt az elemet, mivel nem megadva az <strong>overflow:hidden</strong>.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -40,18 +52,33 @@ inactive-text-overflow-when-no-overflow = A(z) <strong>{ $property }</strong> ne
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong> vagy <strong>display:flex</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-grid-item-fix = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong>, <strong>display:flex</strong> vagy <strong>columns:2</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix-2 = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-grid-item-fix-2 = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-grid-container-fix = Próbálja meg ezeket hozzáadni: <strong>display:grid</strong> vagy <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-flex-item-fix = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:flex</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-flex-item-fix-2 = Próbálja meg ezeket hozzáadni az elem szülőjéhez: <strong>display:flex</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-flex-container-fix = Próbálja meg ezeket hozzáadni: <strong>display:flex</strong> vagy <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-inline-or-tablecell-fix = Próbálja meg ezeket hozzáadni: <strong>display:inline</strong> vagy <strong>display:table-cell</strong>.{ learn-more }
+
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Próbálja meg ezeket hozzáadni: <strong>display:inline-block</strong> vagy <strong>display:block</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Próbálja meg ezt hozzáadni: <strong>display:inline-block</strong>. { learn-more }
+
 inactive-css-not-display-block-on-floated-fix = Próbálja meg eltávolítani a <strong>float</strong> tulajdonságot, vagy hozzáadni a <strong>display:block</strong> tulajdonságot. { learn-more }
+
 inactive-css-position-property-on-unpositioned-box-fix = Próbálja meg a <strong>position</strong> tulajdonságot <strong>static</strong> helyett valami másra beállítani. { learn-more }
+
 inactive-text-overflow-when-no-overflow-fix = Próbálja meg ezt hozzáadni: <strong>overflow:hidden</strong>. { learn-more }

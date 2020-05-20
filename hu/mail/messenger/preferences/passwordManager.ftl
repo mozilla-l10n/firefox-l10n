@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Bezárás
     .accesskey = B
+
 show-passwords =
     .label = Jelszavak megjelenítése
     .accesskey = J
@@ -73,10 +74,12 @@ no-master-password-prompt = Biztos, hogy megjeleníti a jelszavait?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Igazolja személyazonosságát a mentett jelszavak felfedéséhez.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = felfedje a mentett jelszavakat
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

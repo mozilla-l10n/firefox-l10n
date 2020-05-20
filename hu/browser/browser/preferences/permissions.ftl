@@ -5,50 +5,66 @@
 permissions-window =
     .title = Kivételek
     .style = width: 55em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Weboldal címe
     .accesskey = o
+
 permissions-block =
     .label = Tiltás
     .accesskey = T
+
 permissions-session =
     .label = Engedélyezés a munkamenetben
     .accesskey = m
+
 permissions-allow =
     .label = Engedélyezés
     .accesskey = E
+
 permissions-site-name =
     .label = Weboldal
+
 permissions-status =
     .label = Állapot
+
 permissions-remove =
     .label = Weboldal eltávolítása
     .accesskey = v
+
 permissions-remove-all =
     .label = Minden weboldal eltávolítása
     .accesskey = M
+
 permissions-button-cancel =
     .label = Mégse
     .accesskey = M
+
 permissions-button-ok =
     .label = Változtatások mentése
     .accesskey = V
+
 permissions-autoplay-menu = Alapértelmezés az összes webhelyhez:
+
 permissions-searchbox =
     .placeholder = Weboldal keresése
+
 permissions-capabilities-autoplay-allow =
     .label = Hang és videó engedélyezése
 permissions-capabilities-autoplay-block =
     .label = Hang blokkolása
 permissions-capabilities-autoplay-blockall =
     .label = Hang és videó blokkolása
+
 permissions-capabilities-allow =
     .label = Engedélyezés
 permissions-capabilities-block =
     .label = Tiltás
 permissions-capabilities-prompt =
     .label = Rákérdezés mindig
+
 permissions-capabilities-listitem-allow =
     .value = Engedélyezés
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Kivételek – Tartalomblokkolás
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Letiltotta a tartalomblokkolást ezeken az oldalakon.
+
 permissions-exceptions-etp-window =
     .title = Kivételek a továbbfejlesztett követés elleni védelemhez
     .style = { permissions-window.style }

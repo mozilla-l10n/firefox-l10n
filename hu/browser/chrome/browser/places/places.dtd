@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Új elválasztó">
 <!ENTITY cmd.new_separator.accesskey       "e">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Élő könyvjelző frissítése">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "f">
-
-<!ENTITY cmd.moveBookmarks.label                  "Áthelyezés…">
-<!ENTITY cmd.moveBookmarks.accesskey              "t">
-
 <!ENTITY col.name.label          "Név">
 <!ENTITY col.tags.label          "Címkék">
 <!ENTITY col.url.label           "Hely">
 <!ENTITY col.mostrecentvisit.label "Legutóbbi látogatás">
 <!ENTITY col.visitcount.label    "Látogatások száma">
-<!ENTITY col.description.label   "Leírás">
 <!ENTITY col.dateadded.label     "Hozzáadva">
 <!ENTITY col.lastmodified.label  "Utoljára módosítva">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Ugrás előre">
 
-<!ENTITY detailsPane.more.label "Több">
-<!ENTITY detailsPane.more.accesskey "T">
-<!ENTITY detailsPane.less.label "Kevesebb">
-<!ENTITY detailsPane.less.accesskey "v">
 <!ENTITY detailsPane.selectAnItemText.description "Jelöljön ki egy elemet megtekintésre, és szerkessze tulajdonságait">
 
 <!ENTITY view.label               "Megjelenítés">

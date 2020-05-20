@@ -13,6 +13,7 @@ enable-common-message = A Firefox fejlesztői eszközök alapértelmezett le van
 enable-learn-more-link = Tudjon meg többet a fejlesztői eszközökről
 enable-enable-button = Fejlesztői eszköztár engedélyezése
 enable-close-button = Lap bezárása
+
 welcome-title = Üdvözöljük a Firefox fejlesztői eszközökben!
 newsletter-title = Mozilla fejlesztői hírlevél
 newsletter-message = Kapjon fejlesztői híreket, trükköket és erőforrásokat, közvetlenül a postafiókjába.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Elfogadom, hogy a Mozilla az <a data-l10n-name="priva
 newsletter-subscribe-button = Feliratkozás
 newsletter-thanks-title = Köszönjük!
 newsletter-thanks-message = Ha korábban nem erősítette meg a Mozillához kapcsolódó hírlevél feliratkozását, akkor lehet hogy meg kell tennie. Ellenőrizze a Beérkezett üzenetek mappáját vagy a spam-szűrőjét az e-mailünk után.
+
 footer-title = Firefox Developer Edition
 footer-message = Többre vágyik a fejlesztői eszközöknél? Nézze meg a Firefox böngészőt, amely kifejezetten a fejlesztőknek, és modern munkamenetekhez készül.
 footer-learn-more-link = További tudnivalók
+
 features-learn-more = További tudnivalók
 features-inspector-title = Vizsgáló
 features-inspector-desc = Vizsgálja meg és finomítsa a kódját, hogy pixelpontos elrendezéseket készítsen. <a data-l10n-name="learn-more">{ features-learn-more }</a>

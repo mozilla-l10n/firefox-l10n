@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Bejelentkezés kitöltése">
 <!ENTITY fillLoginMenu.accesskey      "B">
-<!ENTITY fillGeneratedPassword.label  "Biztonságosan előállított jelszó használata">
-<!ENTITY fillGeneratedPassword.accesskey "B">
-<!ENTITY useGeneratedPassword.label   "Biztonságosan előállított jelszó használata…">
-<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Jelszó kitöltése">
 <!ENTITY fillPasswordMenu.accesskey   "J">
 <!ENTITY fillUsernameMenu.label       "Felhasználónév kitöltése">

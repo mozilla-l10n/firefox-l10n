@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Foglalatok
 dns = DNS
-dnssuffix = DNS utótag
 websockets = WebSocketek
 refresh = Frissítés
 auto-refresh = Autofrissítés 3 másodpercenként
 hostname = Gépnév
 port = Port
 http2 = HTTP/2
-about-networking-title = Hálózatkezelés névjegye
-about-networking-http = HTTP
-about-networking-sockets = Foglalatok
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS utótag
-about-networking-websockets = WebSocketek
-about-networking-refresh = Frissítés
-about-networking-auto-refresh = Autofrissítés 3 másodpercenként
-about-networking-hostname = Gépnév
-about-networking-port = Port
-about-networking-http-version = HTTP verzió
 ssl = SSL
 active = Aktív
 idle = Tétlen
@@ -71,8 +59,18 @@ rcwn-avg-long = Hosszú átlag
 rcwn-std-dev-long = Hosszú szórás
 rcwn-cache-slow = A gyorsítótár hányszor volt lassú
 rcwn-cache-not-slow = A gyorsítótár hányszor nem volt lassú
-networkid = Hálózati azonosító
-networkid-id = Hálózati azonosító
+
+about-networking-title = Hálózatkezelés névjegye
+about-networking-http = HTTP
+about-networking-sockets = Foglalatok
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS utótag
+about-networking-websockets = WebSocketek
+about-networking-refresh = Frissítés
+about-networking-auto-refresh = Autofrissítés 3 másodpercenként
+about-networking-hostname = Gépnév
+about-networking-port = Port
+about-networking-http-version = HTTP verzió
 about-networking-ssl = SSL
 about-networking-active = Aktív
 about-networking-idle = Tétlen
@@ -122,8 +120,6 @@ about-networking-networkid-id = Hálózati azonosító
 
 ## Link is intended as "network link"
 
-networkid-isUp = A kapcsolat él
-networkid-statusKnown = A kapcsolat állapota ismert
 about-networking-networkid-is-up = A kapcsolat él
 about-networking-networkid-status-known = A kapcsolat állapota ismert
 

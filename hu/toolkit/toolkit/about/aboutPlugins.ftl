@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = A bővítményekről
+
 installed-plugins-label = Telepített bővítmények
 no-plugins-are-installed-label = Nincsenek telepített bővítmények
+
 deprecation-description = Hiányzik valami? Néhány bővítményt már nem támogatott. <a data-l10n-name="deprecation-link">További tudnivalók</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Állapot:</span> Engedélyezve
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Állapot:</span> Engedélyezve ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Állapot:</span> Tiltva
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Állapot:</span> Tiltva ({ $blockListState })
+
 mime-type-label = MIME-típus
 description-label = Leírás
 suffixes-label = Kiterjesztés

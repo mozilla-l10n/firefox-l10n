@@ -5,18 +5,22 @@
 blocklist-window =
     .title = Blokkolási listák
     .style = width: 55em
-blocklist-desc = Kiválaszthatja, hogy mely lista használatával fogja a { -brand-short-name } blokkolni az Ön böngészési tevékenységét követő weboldalelemeket.
+
 blocklist-description = Válassza ki a listát, amelyet a { -brand-short-name } az online nyomkövetők blokkolásához használjon. A listákat a <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a> biztosítja.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Listázás
+
 blocklist-button-cancel =
     .label = Mégse
     .accesskey = M
+
 blocklist-button-ok =
     .label = Változtatások mentése
     .accesskey = V
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -25,10 +29,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me alapszintű védelem (ajánlott).
-blocklist-item-moz-std-desc = Néhány követő engedélyezése, hogy a weboldalak megfelelően működjenek.
-blocklist-item-moz-full-name = Disconnect.me szigorú védelem.
-blocklist-item-moz-full-desc = Ismert követők blokkolása. Néhány webhely lehet, hogy nem fog megfelelően működni.
+
 blocklist-item-moz-std-listName = 1. szintű blokkolási lista (ajánlott).
 blocklist-item-moz-std-description = Néhány követőt engedélyez, így kevesebb weboldal fog hibásan működni.
 blocklist-item-moz-full-listName = 2. szintű blokkolási lista.
