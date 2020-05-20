@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Наладжванні рахунку">
 <!ENTITY accountName.label "Назва рахунку:">
 <!ENTITY accountName.accesskey "Н">

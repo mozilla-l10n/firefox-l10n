@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "п">
 <!ENTITY exitFullScreenCmd.label "Закрыць поўны экран">
 <!ENTITY exitFullScreenCmd.accesskey "З">
+
 <!ENTITY fullScreenCmd.label "Увесь экран">
 <!ENTITY fullScreenCmd.accesskey "У">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Пацвердзіце свой уліковы запіс">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
 <!ENTITY fullScreenRestore.tooltip "Аднавіць">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Налады ўліковага запісу">
 <!ENTITY fxa.menu.manageAccount2.label "Кіраваць уліковым запісам">
 <!ENTITY fxa.menu.signOut.label "Выйсці…">
-<!ENTITY fxa.menu.deviceSettings.label "Налады прылады">
 <!ENTITY fxa.menu.setupSync.label "Наладзіць сінхранізацыю…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "С">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Пайсці па адрасе, які зараз у адрасным радку">
+
 <!ENTITY printButton.label            "Друкаваць">
 <!ENTITY printButton.tooltip          "Друкаваць гэтую старонку">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Кіраваць ужываннем DRM-праграм">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Адкрыць панэль MIDI">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Вы далі гэтаму вэб-сайту дадатковыя дазволы.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Вы заблакавалі сваю камеру на гэтым вэб-сайце.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Вы заблакавалі свой мікрафон на гэтым вэб-сайце.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Вы заблакавалі гэтаму вэб-сайту магчымасць бачыць ваш экран.">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Вы заблакавалі ўсталяванне дадаткаў з гэтага вэб-сайта.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Вы далі гэтаму вэб-сайту дадатковыя дазволы.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Паказаць гісторыю">
+
 
 <!ENTITY searchItem.title             "Пошук">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "К">
 <!ENTITY manageUserContext.label          "Кіраваць кантэйнерамі">
 <!ENTITY manageUserContext.accesskey      "К">
+
 <!ENTITY newNavigatorCmd.label        "Новае акно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Больш">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Шукаць ці ўвесці адрас">
 <!ENTITY urlbar.accesskey             "а">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Дадаць закладку на гэту рамку">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
+
 <!ENTITY pageAction.copyLink.label    "Капіяваць спасылку">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Захаваць у Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Захаваць старонку ў Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Захаваць спасылку ў Pocket">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Бяспечнае злучэнне">
 <!ENTITY identity.connectionNotSecure "Небяспечнае злучэнне">
 
-<!ENTITY identity.connectionSecure3 "Бяспечнае злучэнне">
-<!ENTITY identity.connectionNotSecure2 "Злучэнне не бяспечнае">
-<!ENTITY identity.connectionNotSecureSecurityView "Вы не злучаны бяспечна з гэтым сайтам.">
 <!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
 <!ENTITY identity.connectionVerified2 "Вы бяспечна злучаны з гэтым сайтам, якім валодае:">
-<!ENTITY identity.connectionVerified3 "Вы бяспечна злучаны з гэтым сайтам.">
 <!ENTITY identity.connectionInternal "Гэта бяспечная &brandShortName; старонка.">
 <!ENTITY identity.extensionPage "Гэтая старонка загружана з пашырэння.">
 <!ENTITY identity.insecureLoginForms2 "Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.">
 <!ENTITY identity.customRoot "Падключэнне пацверджана сертыфікатам эмітэнта, які не прызнаны Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Сертыфікат выдадзены:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблакаваў небяспечныя часткі старонкі.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дазволы">
 
-<!ENTITY identity.permissions3 "Дазволы">
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
 <!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 <!ENTITY identity.permissionsPreferences.tooltip "Адкрыць налады дазволаў">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "35em">
+
 
 <!ENTITY uiTour.infoPanel.close "Закрыць">
 

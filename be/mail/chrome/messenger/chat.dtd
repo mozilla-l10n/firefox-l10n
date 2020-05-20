@@ -15,9 +15,11 @@
 <!ENTITY chat.noConnectedAccount.title "Вашы гутарковыя рахункі не злучаны.">
 <!ENTITY chat.noConnectedAccount.description "Вы можаце злучыцца з імі ў дыялогу 'Статус гутаркі':">
 <!ENTITY chat.showAccountManager.button "Паказаць статус гутаркі">
+
 <!ENTITY chat.participants "Удзельнікі:">
 <!ENTITY chat.previousConversations "Папярэднія гутаркі:">
 <!ENTITY chat.ongoingConversation "Цяперашнія гутаркі">
+
 <!ENTITY openConversationCmd.label "Пачаць гутарку">
 <!ENTITY openConversationCmd.accesskey "П">
 <!ENTITY closeConversationCmd.label "Закрыць гутарку">
@@ -26,13 +28,17 @@
 <!ENTITY aliasCmd.accesskey "П">
 <!ENTITY deleteCmd.label "Выдаліць сувязь">
 <!ENTITY deleteCmd.accesskey "д">
+
 <!ENTITY openConversationButton.tooltip "Пачаць гутарку">
 <!ENTITY closeConversationButton.tooltip "Закрыць гутарку">
+
 <!ENTITY addBuddyButton.label "Дадаць сувязь">
 <!ENTITY joinChatButton.label "Пачаць гутарыць">
 <!ENTITY chatAccountsButton.label "Паказаць рахункі">
+
 <!ENTITY status.available "Даступны">
 <!ENTITY status.unavailable "Недаступны">
 <!ENTITY status.offline "Па-за сеткаю">
+
 <!ENTITY openLinkCmd.label "Адкрыць спасылку…">
 <!ENTITY openLinkCmd.accesskey "с">

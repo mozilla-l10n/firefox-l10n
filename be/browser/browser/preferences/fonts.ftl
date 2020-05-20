@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Шрыфты
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Шрыфты для
     .accesskey = Ш
+
 fonts-langgroup-arabic =
     .label = Арабская
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Прапарцыйны
     .accesskey = П
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Памер
     .accesskey = П
+
 fonts-serif = З засечкамі
     .accesskey = З
+
 fonts-sans-serif = Без засечак
     .accesskey = е
+
 fonts-monospace = Роўнашырокі
     .accesskey = Р
+
 fonts-monospace-size = Памер
     .accesskey = е
+
 fonts-minsize = Найменшы памер шрыфту
     .accesskey = а
+
 fonts-minsize-none =
     .label = Няма
+
 fonts-allow-own =
     .label = Дазволіць старонкам выбіраць уласны шрыфт замест пазначаных вышэй
     .accesskey = Д
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кадаванне тэксту для спадчыннага змесціва
 fonts-languages-fallback-desc = Гэта кадаванне тэксту будзе выкарыстана для змесціва, у якім не пазначана кадаванне.
+
 fonts-languages-fallback-label = Запасное кадаванне тэксту
     .accesskey = т
+
 fonts-languages-fallback-name-auto =
     .label = Прадвызначана для гэтай мясцовасці
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = В'етнамская
 fonts-languages-fallback-name-other =
     .label = Іншая (укл. Заходне-Еўрапейскія)
-fonts-very-large-warning-title = Завялікі мінімальны памер шрыфту
-fonts-very-large-warning-message = Вы выбралі дужа вялікі мінімальны памер шрыфту (больш за 24 пікселі). Гэта можа зрабіць выкарыстанне некаторых канфігурацыйных старонак, кшталту гэтай, цяжкім або немагчымым.
-fonts-very-large-warning-accept = Запісаць мае змены ўсё адно
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

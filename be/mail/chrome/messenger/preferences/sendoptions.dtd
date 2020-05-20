@@ -14,6 +14,7 @@
 <!ENTITY sendBoth.label "Дасылаць лісты як просты тэкст разам з HTML">
 <!ENTITY sendBoth.accesskey "а">
 <!ENTITY override.label "Заўвага: ужывайце адрасную кнігу, каб прызначыць пераважныя фарматы тэксту для атрымальнікаў.">
+
 <!ENTITY domaindesc.label "Калі вы дасылаеце ліст на адрас з аднаго з даменаў, пералічаных ніжэй, &brandShortName; самастойна дасылае ліст у патрэбным фармаце.">
 <!ENTITY HTMLTab.label "Дамены HTML">
 <!ENTITY HTMLTab.accesskey "H">
@@ -27,6 +28,7 @@
 <!ENTITY DeleteHtmlDomain.accesskey "ы">
 <!ENTITY DeletePlainText.label "Выдаліць">
 <!ENTITY DeletePlainText.accesskey "л">
+
 <!ENTITY add.htmltitle "Дадаць назву HTML дамену">
 <!ENTITY add.htmldomain "Назва HTML дамену:">
 <!ENTITY add.plaintexttitle "Дадаць назву дамену простага тэксту">

@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "Служба месцазнаходжанняў &vendorShortName; запушчана">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Аўтаматычныя абнаўленні">
-<!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Ніколі">
-<!ENTITY pref_update_autodownload_always "Заўсёды">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Даведка">
 
@@ -748,25 +740,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Закладкі і гісторыя">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Існуе абнаўленне &brandShortName;">
-<!ENTITY updater_start_select2 "Дакраніцеся, каб сцягнуць">
-
-<!ENTITY updater_downloading_title2 "Сцягванне &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Няўдача сцягвання">
-<!ENTITY updater_downloading_select2 "Дакраніцеся, каб ужыць сцягнутае абнаўленне">
-<!ENTITY updater_downloading_retry2 "Дакраніцеся, каб паўтарыць">
-
-<!ENTITY updater_apply_title3 "Сцягнута абнаўленне для &brandShortName;">
-<!ENTITY updater_apply_select3 "Націсніце для ўсталявання">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Для загрузкі файлаў і абнаўленняў, дайце дазвол &brandShortName; на доступ да вашага сховішча.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Дазволіць">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Новая гасцявая сэсія">
 <!ENTITY exit_guest_session "Выйсці з гасцявой сэсіі">
@@ -951,7 +924,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Гук і відэа">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Парады і падказкі ад &vendorShortName;">
-<!ENTITY updater_notification_channel "Абнаўленні праграмы">
 <!ENTITY synced_tabs_notification_channel "Сінхранізаваныя карткі">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

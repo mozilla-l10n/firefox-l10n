@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Модулі журнала Safe Browsing
 url-classifier-debug-modules = Бягучыя модулі журнала
 url-classifier-debug-sbjs-modules = Журнал Safe Browsing JS
 url-classifier-debug-file = Бягучы файл журнала
+
 url-classifier-trigger-update = Абнаўленне трыгера
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Адключыць журнал Safe Browsing JS

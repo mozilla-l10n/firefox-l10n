@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Даслаць вокамгненнае паведамленне ці распачаць гутарку">
 <!ENTITY deleteButton2.tooltip                          "Выдаліць вылучаную адзінку">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Адрасныя кнігі">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Імя або э-пошта">
 <!ENTITY SearchNameOrEmail.accesskey                    "І">

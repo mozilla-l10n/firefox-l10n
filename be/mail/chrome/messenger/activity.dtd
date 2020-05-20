@@ -4,7 +4,9 @@
 
 <!ENTITY window.width2 "486">
 <!ENTITY window.height "330">
+
 <!ENTITY activity.title "Кіраўнік дзейнасці">
+
 <!ENTITY cmd.pause.label "Прыпыніць">
 <!ENTITY cmd.pause.accesskey "П">
 <!ENTITY cmd.resume.label "Працягнуць">
@@ -19,6 +21,7 @@
 <!ENTITY cmd.retry.accesskey "ў">
 <!ENTITY cmd.removeFromList.label "Выдаліць з спіса">
 <!ENTITY cmd.removeFromList.accesskey "д">
+
 <!ENTITY cmd.close.commandkey "w">
 <!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">
@@ -27,4 +30,5 @@
 <!ENTITY cmd.clearList.accesskey "ч">
 <!ENTITY cmd.find.commandkey "f">
 <!ENTITY cmd.search.commandkey "k">
+
 <!ENTITY searchBox.label "Пошук…">

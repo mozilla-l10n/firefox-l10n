@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Копіі і папкі">
 <!ENTITY sendingPrefix.label "Калі дасылаюцца лісты, самастойна:">
 <!ENTITY fccMailFolder.label "Змясціць копію ў:">

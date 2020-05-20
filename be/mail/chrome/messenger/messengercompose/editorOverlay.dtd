@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Уставіць новы іменаваны якар або рэдагаваць уласцівасці вылучанага якара ">
 <!ENTITY TextColorButton.tooltip "Выбраць колер тэксту">
 <!ENTITY BackgroundColorButton.tooltip "Выбраць колер фону">
-<!ENTITY throbber.tooltip "Наведаць хатнюю старонку &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Выбраць колер падфарбоўкі для тэксту">
 
 <!-- Editor toolbar -->

@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Дадаць новую службу сховішчаў Filelink">
 <!ENTITY removeCloudFileAccount.label     "Прыняць">
 <!ENTITY removeCloudFileAccount.accesskey "П">
-<!ENTITY authRequired.description         "Патрабуецца ваш дазвол, каб пабачыць наладжванні для службы сховішчаў.">
-<!ENTITY authRequired.button.label        "Дазволіць">
-<!ENTITY authRequired.button.accesskey    "з">
 
 <!ENTITY enableCloudFileAccountOffer.label "Прапанова дзяліцца файламі большымі, чым ">
 <!ENTITY enableCloudFileAccountOffer.mb "МБ">

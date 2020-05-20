@@ -4,14 +4,17 @@
 
 <!ENTITY editContactPanelDeleteContact.label "Выдаліць">
 <!ENTITY editContactPanelDeleteContact.accesskey "В">
+
 <!ENTITY editContactName.label "Імя:">
 <!ENTITY editContactName.accesskey "І">
+
 <!ENTITY editContactEmail.label "Э-пошта:">
 <!ENTITY editContactEmail.accesskey "Э">
+
 <!ENTITY editContactAddressBook.label "Адрасная кніга:">
 <!ENTITY editContactAddressBook.accesskey "А">
-<!ENTITY editContactPanelCancel.label "Скасаваць">
-<!ENTITY editContactPanelCancel.accesskey "С">
+
 <!ENTITY editContactPanelDone.label "Гатова">
 <!ENTITY editContactPanelDone.accesskey "Г">
+
 <!ENTITY contactMoveDisabledWarning.description "Вы не можаце змяніць адрасную кнігу, бо сувязь у паштовым спісе.">

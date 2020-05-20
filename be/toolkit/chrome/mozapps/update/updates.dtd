@@ -49,7 +49,7 @@
 <!ENTITY  errorpatching.intro             "Частковае абнаўленне не выканана. &brandShortName; паспрабуе зрабіць яго зноў, загрузіўшы абнаўленне цалкам.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не здольны вызначыць, ці існуюць даступныя абнаўленні. Упэўніцеся, калі ласка, што вы маеце апошнюю версію &brandShortName; з:">
-
+                                           
 <!ENTITY  finishedPage.title              "Абнаўленне гатова для ўсталявання">
 <!ENTITY  finishedPage.text               "Абнаўленне будзе ўсталявана наступным разам, пры запуску &brandShortName;. Вы можаце перазапусціць &brandShortName; зараз ці працягнуць працаваць і перазапусціць яго пазней.">
 
@@ -61,8 +61,4 @@
                                            Абнаўленне будзе ўсталявана падчас наступнага запуску &brandShortName;.
                                            Вы можаце перазапусціць &brandShortName; зараз, працягнуць працу і
                                            перазапусціць яго пазней, або адмовіцца ад гэтага абнаўлення.">
-
-<!ENTITY  update.details.label            "Падрабязнасці">
-<!ENTITY  update.installedOn.label        "Усталявана ў:">
-<!ENTITY  update.status.label             "Статус:">
 

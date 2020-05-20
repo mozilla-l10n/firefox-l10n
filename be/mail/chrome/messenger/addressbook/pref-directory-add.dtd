@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label "Уласцівасці паслугача дырэкторыяў">
 <!ENTITY directoryName.label "Назва:">
 <!ENTITY directoryName.accesskey "Н">
 <!ENTITY directoryHostname.label "Назва трымальніка:">
@@ -38,4 +37,5 @@
 <!ENTITY saslOff.accesskey "П">
 <!ENTITY saslGSSAPI.label "Kerberos (GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey "K">
+
 <!ENTITY newDirectoryWidth "42em">

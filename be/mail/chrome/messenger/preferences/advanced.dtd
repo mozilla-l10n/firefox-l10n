@@ -67,8 +67,6 @@
 <!ENTITY updateAuto.accesskey            "С">
 <!ENTITY updateCheck.label               "Правяраць, ці існуюць абнаўленні, але я сам буду вырашаць, ці ўсталёўваць іх">
 <!ENTITY updateCheck.accesskey           "П">
-<!ENTITY updateManual.label              "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
-<!ENTITY updateManual.accesskey          "Н">
 <!ENTITY updateHistory.label             "Паказаць гісторыю абнаўленняў">
 <!ENTITY updateHistory.accesskey         "г">
 
@@ -117,3 +115,4 @@
 <!ENTITY manageCertificates.accesskey "К">
 <!ENTITY viewSecurityDevices.label "Збудовы бяспекі">
 <!ENTITY viewSecurityDevices.accesskey "б">
+

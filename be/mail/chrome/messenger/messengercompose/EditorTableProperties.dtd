@@ -35,6 +35,7 @@
 <!ENTITY tableCaptionRight.label "Справа ад табліцы">
 <!ENTITY tableCaptionNone.label "Няма">
 <!ENTITY tableInheritColor.label "(Няхай колеры старонкі будуць бачны скрозь)">
+
 <!ENTITY cellSelection.label "Вылучэнне">
 <!ENTITY cellSelectCell.label "Ячэйка">
 <!ENTITY cellSelectRow.label "Шэраг">
@@ -63,6 +64,7 @@
 <!ENTITY cellAlignJustify.label "Разасяроджана">
 <!ENTITY cellInheritColor.label "(Няхай колеры табліцы будуць бачны скрозь)">
 <!ENTITY cellUseCheckboxHelp.label "Ужывайце скрынкі адзнакаў для вызначэння ўласцівасцяў усіх вылучаных ячэйкаў">
+
 <!ENTITY size.label "Памер">
 <!ENTITY pixels.label "пікселяў">
 <!ENTITY backgroundColor.label "Колер фону:">

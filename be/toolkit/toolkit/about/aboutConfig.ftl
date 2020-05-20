@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Я прымаю рызыку!
 config-about-warning-checkbox =
     .label = Паказваць гэтае папярэджанне наступным разам
+
 config-search-prefs =
     .value = Пошук:
     .accesskey = ш
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Капіяваць
     .accesskey = К
+
 config-copy-name =
     .label = Капіяваць назву
     .accesskey = К
+
 config-copy-value =
     .label = Капіяваць значэнне
     .accesskey = ч
+
 config-modify =
     .label = Змяніць
     .accesskey = З
+
 config-toggle =
     .label = Пераключыць
     .accesskey = П
+
 config-reset =
     .label = Узнавіць
     .accesskey = У
+
 config-new =
     .label = Новы
     .accesskey = Н
+
 config-string =
     .label = Радок
     .accesskey = Р
+
 config-integer =
     .label = Цэлы
     .accesskey = Ц
+
 config-boolean =
     .label = Лагічны
     .accesskey = Л
+
 config-default = прадвызначана
 config-modified = зменена
 config-locked = замкнутае
+
 config-property-string = радковае
 config-property-int = цэлае
 config-property-bool = лагічнае
+
 config-new-prompt = Увядзіце назву перавагі
+
 config-nan-title = Няспраўнае значэнне
 config-nan-text = Тэкст, які вы ўвялі, не з'яўляецца лікам.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Новае значэнне { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Увядзіце { $type } значэнне

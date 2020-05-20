@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY windowTitle.label "Уласцівасці гарызантальнай рыскі">
+
 <!ENTITY dimensionsBox.label "Вымярэнні">
 <!ENTITY heightEditField.label "Вышыня">
 <!ENTITY heightEditField.accessKey "В">
@@ -16,6 +18,7 @@
 <!ENTITY centerRadio.accessKey "с">
 <!ENTITY rightRadio.label "Направа">
 <!ENTITY rightRadio.accessKey "п">
+
 <!ENTITY threeDShading.label "3-М зацяненне">
 <!ENTITY threeDShading.accessKey "ц">
 <!ENTITY saveSettings.label "Ужываць як змоўчную">

@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Вас запыталі аб даверу да новага Цэнтра Сертыфікацыі (ЦС).">
 <!ENTITY downloadCert.trustSSL "Давяраць гэтаму ЦС ідэнтыфікаваць вэб-сайты.">
 <!ENTITY downloadCert.trustEmail "Давяраць гэтаму ЦС апазнаваць э-паштовых карыстальнікаў.">
-<!ENTITY downloadCert.trustObjSign "Давяраць гэтаму ЦС ідэнтыфікаваць вытворцаў праграмнага забеспячэння.">
 <!ENTITY downloadCert.message3 "Перад тым, як даверыцца гэтаму ЦС з нейкай мэтай, вы мусіце даследаваць яго сертыфікат, яго палітыку і працэдуры (калі даступны).">
 <!ENTITY downloadCert.viewCert.label "Прагляд">
 <!ENTITY downloadCert.viewCert.text "Даследаваць сертыфікат ЦС">

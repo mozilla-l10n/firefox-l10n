@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "С">
 
 <!ENTITY projectButton_label "Адкрыць прыкладанне">
+
 <!ENTITY runtimeButton_label "Выбраць асяроддзе">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "Прылады USB">
 <!ENTITY runtimePanel_wifi "Прылады Wi-Fi">
 <!ENTITY runtimePanel_other "Іншае">
-<!ENTITY runtimePanel_noadbhelper "Усталяваць дапаможнік ADB">
 <!ENTITY runtimePanel_nousbdevice "Не бачыце сваю прыладу?">
 <!ENTITY runtimePanel_refreshDevices_label "Абнавіць прылады">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Звесткі часу выканання">
-<!ENTITY runtimedetails_adbIsRoot "ADB - корань: ">
-<!ENTITY runtimedetails_summonADBRoot "каранёвая прылада">
-<!ENTITY runtimedetails_ADBRootWarning "(патрабуе разблакаваны загрузчык)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Неабмежаваныя прывілеі DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "запытаць вышэйшыя прывілеі">
-<!ENTITY runtimedetails_privilegesWarning "(Перастартуе прыладу. Патрабуе доступ root)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Булеўскі">
