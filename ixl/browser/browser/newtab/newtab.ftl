@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Chuka
     .aria-label = Chuka
+
 newtab-search-box-search-the-web-text = La chuk tu web
 newtab-search-box-search-the-web-input =
     .placeholder = La chuk tu web
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = B'an tuch u atimb'ale'  ve nim atje'.
 newtab-topsites-title-label = Ib'ii
 newtab-topsites-title-input =
     .placeholder = Aq'ku' ib'ii
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tz'ib'a o lak' u URL
 newtab-topsites-url-validation = Ni sab'el uma'l u b'anla URL
+
 newtab-topsites-image-url-label = Eetz u vatzib'ale'  URL
 newtab-topsites-use-image-link = B'anbe' va vatzib'ale'.
 newtab-topsites-image-validation = Ye'  ni toleb' ti ijajat u vatzib'ale', b'anb'e kato txumb'al sti.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = Ye' la uch iq'ab'isal u aq'one' vaa.
 newtab-menu-section-tooltip =
     .title = Jaj u tachul tatine'
     .aria-label = Jaj u tachul tatine'
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -156,10 +160,12 @@ newtab-section-header-pocket = A' u { $provider } ni alon uva' la b'anb'eli
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Xe'ten ti' axaane' as la kuk'uch see unq'a b'anla yole', unq'a video as ka'taj u'uj uva' a'n-nal kuxh asajijta as at ve't ku' ti taq'ax texhlal.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = At ku' chit axh sti' junq'ii. la q'aav axh unpajte as la chuk unq'a vee' ilel kan ta'n u { $provider }. Ye' la uch itx'eb'one'? Txaa uma'l txumb'al uva' pal chit tab'ile' as la lej ka'taj yol uva' achveb'al chit tilpe' tu web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

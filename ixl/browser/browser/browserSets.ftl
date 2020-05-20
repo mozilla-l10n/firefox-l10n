@@ -4,30 +4,40 @@
 
 window-minimize-command =
     .label = Ch'oob'isamal
+
 window-minimize-shortcut =
     .key = M
+
 close-shortcut =
     .key = W
+
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
     .key = f
+
 search-find-again-shortcut =
     .key = g
+
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+
 search-find-selection-shortcut =
     .key = e
+
 print-shortcut =
     .key = p
+
 reader-mode-toggle-shortcut-windows =
     .keycode = VK_F9
+
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -40,19 +50,25 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+
 # If in keyboard layouts popular for your locale you need to use the shift key
 # to access the original shortcuts, the following shortcuts can be used.
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
+
 full-zoom-enlarge-shortcut =
     .key = +
+
 full-zoom-enlarge-shortcut-alt =
     .key = =
+
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
+
 full-zoom-reset-shortcut =
     .key = 0
+
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
@@ -64,5 +80,7 @@ full-zoom-reset-shortcut-alt =
 
 help-shortcut =
     .key = ?
+
 preferences-shortcut =
     .key = ,
+

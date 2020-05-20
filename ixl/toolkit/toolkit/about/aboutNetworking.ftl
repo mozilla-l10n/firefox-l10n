@@ -4,6 +4,7 @@
 
 active = Ile' b'a'n ve'te'
 addresses = Unq'a tatinb'al
+
 about-networking-active = Ile' b'a'n ve'te'
 about-networking-addresses = Unq'a tatinb'al
 

@@ -19,3 +19,4 @@ remove =
 close-button =
     .label = Jupa
     .accesskey = C
+

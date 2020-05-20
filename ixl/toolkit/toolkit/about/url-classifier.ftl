@@ -10,4 +10,5 @@ url-classifier-search-error-invalid-url = URL ye' nitoke
 url-classifier-search-btn = Xe'ten ti ichukpe
 url-classifier-cache-clear-btn = Tusi'
 url-classifier-debug-title = Eesamal el
+
 url-classifier-success = b'a'xi ya

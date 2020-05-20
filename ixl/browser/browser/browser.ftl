@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = La saji kam yol at sti' tu tatinb'ale'
 
@@ -90,6 +91,7 @@ page-action-remove-from-urlbar =
 
 bookmark-panel-done-button =
     .label = Tzojpiya
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -113,4 +115,9 @@ browser-window-close-button =
     .tooltiptext = Jupa
 
 ## WebRTC Pop-up notifications
+
+## DevTools F12 popup
+
+
+## URL Bar
 

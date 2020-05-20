@@ -10,3 +10,7 @@ home = Xe'teb'al
 fullscreen = Chiib'isa ivatz va chemb'al tz'ib'e'
 find = Chuk
 share = La jatxe'
+
+## Various categories of shortcuts for search.
+
+##

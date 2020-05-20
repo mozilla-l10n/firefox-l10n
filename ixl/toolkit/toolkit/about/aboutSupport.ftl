@@ -20,6 +20,19 @@ media-device-name = B'ii
 
 
 
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 yes = Kanoj
@@ -33,11 +46,14 @@ unknown = Ye' ootzimal
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-active = Ile' b'a'n ve'te'
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 d3d11layers-crash-guard = Compositor D3D11
 glcontext-crash-guard = OpenGL
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

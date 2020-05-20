@@ -5,5 +5,6 @@
 blocklist-accept =
     .label = La xe'tisal { -brand-short-name }
     .accesskey = L
+
 blocklist-blocked =
     .label = Majel ve't ivatz

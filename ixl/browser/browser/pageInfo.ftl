@@ -4,26 +4,33 @@
 
 page-info-window =
     .style = width: 610px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Eesa ivatz
     .accesskey = C
+
 close-dialog =
     .key = w
+
 general-url =
     .value = Tatinb'al:
 general-meta-name =
     .label = B'ii
+
 media-address =
     .label = Tatinb'al
+
 perm-tab =
     .label = Aq'b'al okeb'al
     .accesskey = A
 permissions-for =
     .value = Aq'b'al okeb'al ti':
+
 security-view-unknown = Ye' ootzimal
     .value = Ye' ootzimal
+
 help-button =
     .label = Lochb'al
 
@@ -35,10 +42,13 @@ help-button =
 
 security-site-data-cookies-only = Kanoj, cookies
 security-site-data-no = Ye'le
+
 image-size-unknown = Ye' ootzimal
 saved-passwords-yes = Kanoj
 saved-passwords-no = Ye'le
+
 security-no-visits = Ye'le
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -49,14 +59,17 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+

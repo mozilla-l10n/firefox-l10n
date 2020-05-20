@@ -18,6 +18,7 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 70ch
+
 downloads-cmd-pause =
     .label = Tanb'a'
     .accesskey = T
@@ -28,11 +29,14 @@ downloads-cmd-cancel =
     .tooltiptext = Ya'sakan
 downloads-cmd-cancel-panel =
     .aria-label = Ya'sakan
+  
 downloads-cmd-retry =
     .tooltiptext = B'an unpajte
 downloads-cmd-retry-panel =
     .aria-label = B'an unpajte
+
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = B'an unpajte ti' teq'ol ku'tzan
+

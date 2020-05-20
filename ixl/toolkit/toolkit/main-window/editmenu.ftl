@@ -9,6 +9,8 @@
 editmenu-copy =
     .label = Eesa ivatz
     .accesskey = C
+
 editmenu-delete =
     .label = Eesa el
     .accesskey = E
+

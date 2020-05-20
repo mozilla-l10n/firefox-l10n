@@ -9,9 +9,13 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-page-override = Jalpu unq'a xole' uve' at kan s-a'n ti' u u'uje' tuk' unq'a vee' txaael kan aalije'e'
     .accesskey = J
+
 colors-page-override-option-always =
     .label = A' chite' ti' ib'ene'
+

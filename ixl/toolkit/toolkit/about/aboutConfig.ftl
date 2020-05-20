@@ -10,8 +10,10 @@ config-window =
 config-search-prefs =
     .value = Chuka
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -27,4 +29,6 @@ config-copy-pref =
     .key = C
     .label = Eesa ivatz
     .accesskey = C
+
 config-default = a' chite' at kan
+

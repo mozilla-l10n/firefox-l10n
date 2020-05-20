@@ -4,17 +4,20 @@
 
 search-header-shortcut =
     .key = f
+
 preferences =
     { PLATFORM() ->
         [windows] { -brand-short-name } Unka'te
        *[other] { -brand-short-name } Uve' ni chit asa'
     }
+
 sidebar-preferences-button-title =
     .title =
         { PLATFORM() ->
             [windows] { -brand-short-name } Unka'te
            *[other] { -brand-short-name } Uve' ni chit asa'
         }
+
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -26,8 +29,10 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
+
 detail-version =
     .label = Tilax ivatz
+
 addon-category-locale = Yolb'al
 addon-category-locale-title =
     .title = Yolb'al
@@ -62,7 +67,9 @@ addon-install-from-file-filter-name = Tzajsal tetz
 ## Recommended add-ons page
 
 discopane-notice-learn-more = Ootzi ka'te
+
 privacy-policy = Ootzib'al ti' ib'anb'el ti jikil
+
 # The label of the button that appears after installing an add-on. Upon click,
 # the detailed add-on view is opened, from where the add-on can be managed.
 manage-addon-button = Tilpu isuuchil
@@ -76,6 +83,7 @@ preferences-addon-button =
        *[other] Uve' ni chit asa'
     }
 permissions-addon-button = Aq'b'al okeb'al
+
 addon-detail-version-label = Tilax ivatz
 
 ## Pending uninstall message bar
@@ -86,4 +94,6 @@ addon-detail-updates-radio-default = A' chite' at kan
 
 theme-heading = Nuk' unq'a kame'
 locale-heading = Nuk' unq'a va yolb'ale'
+
 theme-heading-search-label = Lej kan kam
+

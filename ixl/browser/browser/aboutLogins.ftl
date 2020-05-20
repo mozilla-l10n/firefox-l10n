@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Eq'oku'tzan tu Google Play
 login-app-promo-apple =
     .alt = Eq'oku'tzan tu App Store
+
 login-filter =
     .placeholder = Ichukpu ixe't aq'on
+
 create-login-button = Cheesa uma't Ak' Ixe'tisal aq'on
+
 fxaccounts-sign-in-text = La lej unq'a texhlal kach'ub' tetze' tu ka'taj unq'a aq'onb'ale' uve' nab'anb'e
 fxaccounts-sign-in-button = Xe'tisa tzitza' { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -107,16 +110,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Pich'u kam tatine' aq'al uva' la b'an tuch axe't aq'onvoj uve' kolel s-a'n.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = B'an tuch axe't aq'onvoj uve' kolel kam s-a'n
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Pich'u tatine' aq'al uva' la ik'uch u kach'ub' tetze' uve' kolel kan s-a'n
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = K'uch u kach'ub' tetze' uve' kolel kan s-a'n
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Pich'u u tatine' aq'al uva' la eesa ivatz u kachub' tetze' uve' kolel kan s-a'n
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = Eesa ivatz i kach'ub' tetze' uve' kolel kan s-a'n
@@ -151,9 +159,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Ya'sakan
 confirmation-dialog-dismiss-button =
     .title = Ya'sakan
+
 about-logins-confirm-remove-dialog-title = La sojsa kan ixe'tisal kan u aq'one' tzitza'?
 confirm-delete-dialog-message = Ye' la uch asojsat u vaa'.
 about-logins-confirm-remove-dialog-confirm-button = Sojsa
+
 confirm-discard-changes-dialog-title = Y'el unq'a vee' la kole' uve' b'anel ve't s-a'n?
 confirm-discard-changes-dialog-message = Jank'al chit unq'a vee' uve' nakole' la mox tz'ejxi.
 confirm-discard-changes-dialog-confirm-button = Eesa kan
@@ -184,5 +194,6 @@ about-logins-vulnerable-alert-learn-more-link = Ootzi ka'te
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Itok'eb'al { $loginTitle }ak te v'et u b'iie' b'a<a data-l10n-name="duplicate-link">oken tu atimb'ale' vee achit ve'te.
+
 # This is a generic error message.
 about-logins-error-message-default = Kat ilej va'lexh la kam tul uva' ni'k ikolpu u kachub'al tetze'.

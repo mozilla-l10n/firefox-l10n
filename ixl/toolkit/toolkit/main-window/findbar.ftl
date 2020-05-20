@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Kuxh  lej uma't nuk'ich yol.
 findbar-previous =
     .tooltiptext = Kuxh  tu nuk'ich yole'  vee ti b'axa.
+
 findbar-find-button-close =
     .tooltiptext = Jup u atinb'ale'  ve tetz ichukpu kam.
+

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Ixe'al.
+
 fonts-window-close =
     .key = w
 
@@ -18,8 +19,10 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
 

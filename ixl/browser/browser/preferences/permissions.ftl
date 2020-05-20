@@ -4,17 +4,22 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Maja
     .accesskey = M
+
 permissions-button-cancel =
     .label = Ya'sakan
     .accesskey = C
+
 permissions-button-ok =
     .label = K'ol unq'a vee' b'anel tu ve't a'n
     .accesskey = S
+
 permissions-capabilities-block =
     .label = Maja
+
 permissions-capabilities-listitem-block =
     .value = Maja
 
@@ -47,6 +52,8 @@ permissions-capabilities-listitem-block =
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -4,6 +4,8 @@
 
 clear-site-data-close-key =
     .key = w
+
 clear-site-data-cancel =
     .label = Ya'sakan
     .accesskey = C
+
