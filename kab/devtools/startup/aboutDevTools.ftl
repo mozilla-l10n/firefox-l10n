@@ -13,6 +13,7 @@ enable-common-message = Ifecka n uneflay Firefox nsan s wudem amezwer akken ad t
 enable-learn-more-link = Issin ugar γef Ifecka n tneflit
 enable-enable-button = Rmed ifecka n tneflit
 enable-close-button = Mdel iccer-a
+
 welcome-title = Ansuf yis-k γer Ifecka Firefox Developer!
 newsletter-title = Aγmis n ineflayen n Mozilla
 newsletter-message = Rmes-d isallen, tixbula akked tiɣbula i yineflayen srid di tnaka-ik n urmas.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Qebleɣ akken ad tesqedcem talɣut-agi am akken i d-y
 newsletter-subscribe-button = Jerred
 newsletter-thanks-title = Tanemmirt!
 newsletter-thanks-message = Ma yella ur tsentmeḍ ara ajerred inek ar tebratt n isallen icudden ar Mozilla, ahat tzemreḍ akka tura. Ma ulac aɣilif, wali ma yella yimayl di tebwaṭ inek n imaylen neɣ ula deg ispamen.
+
 footer-title = Firefox Developer Edition
 footer-message = Tettnadiḍ ugar n ifecka n uneflay? Senqed iminig Firefox ittwabnan i lmend i yineflayen akked leqdic amaynut.
 footer-learn-more-link = Issin ugar
+
 features-learn-more = Issin ugar
 features-inspector-title = Amaswaḍ
 features-inspector-desc = Sweḍ udiɣ seggem tanglat akken ad tebnuḍ iɣunab n ipiksilen ifazen. <a data-l10n-name="learn-more">{ features-learn-more }</a>

@@ -8,6 +8,7 @@ password-quality-meter = Asɣel n tɣaṛa n wawal uffir
 
 change-password-window =
     .title = Sbadu awal uffir agejdan
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Ibenk n tɣellist: { $tokenName }

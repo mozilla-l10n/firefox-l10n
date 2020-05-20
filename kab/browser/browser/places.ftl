@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Ldi ɣef usfaylu uslig amaynut
     .accesskey = L
+
 places-new-bookmark =
     .label = Tacreṭ n uqebtar tamaynut…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Anabraz amaynut
     .accesskey = b
+
 places-view =
     .label = Smizzwer
     .accesskey = S
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = S wazemz d usmel
     .accesskey = m
+
 places-history-search =
     .placeholder = Azray n unadi
 places-bookmarks-search =
     .placeholder = Nadi ticraḍ n isebtar
+
 places-delete-domain-data =
     .label = Ttu asmel-a
     .accesskey = a

@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Ffeɣ{ -sync-brand-short-name }
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Tebɣiḍ daɣen ad tekkseḍ isefka n yiminig seg uselkim-ik? isefk-ik n { -sync-brand-name } ad qqimen deg umiḍan-ik.
+
 sync-disconnect-remove-sync-caption = Kkes{ -sync-brand-name } Isefka
+
 sync-disconnect-remove-sync-data = Ticraḍ n yisebtar, azray, awalen uffiren, atg.
+
 sync-disconnect-remove-other-caption = Kkes Isefka-nniḍen usligen
+
 sync-disconnect-remove-other-data = Inagan n tuqqna, isefka n usmel adigan, atg.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Tufɣa...
+
 sync-disconnect-cancel =
     .label = Sefsex
     .accesskey = S
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Ffeɣ & Kkes
     .accesskey = F
+
 sync-disconnect-confirm-disconnect =
     .label = Ffeɣ kan
     .accesskey = k

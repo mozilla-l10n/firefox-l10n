@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Ticraḍ n yisebtar
+
 sidebar-menu-history =
     .label = Azray
+
 sidebar-menu-synced-tabs =
     .label = Accaren yemtawin
+
 sidebar-menu-close =
     .label = Mdel agalis adisan

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Mdel
     .accesskey = M
+
 show-passwords =
     .label = Sken awalen uffiren
     .accesskey = P

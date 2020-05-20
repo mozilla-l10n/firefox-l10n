@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Ldi asnas">
+
 <!ENTITY runtimeButton_label "Fren tawennaṭ">
 
 <!-- We try to repicate Firefox' bindings: -->

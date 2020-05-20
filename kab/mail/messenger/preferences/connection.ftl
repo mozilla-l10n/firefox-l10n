@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Seqdec asaǧǧaw
     .accesskey = q
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (s wudem amezwer)
     .tooltiptext = Seqdec tansa URL tamezwert i ferru n DNS s HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Udmawan
     .accesskey = U
     .tooltiptext = Sekcem tansa-ik tudmawant tufrint akken ad tefruḍ DNS s HTTPS
+
 connection-dns-over-https-custom-label = Udmawan

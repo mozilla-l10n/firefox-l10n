@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "R">
 <!ENTITY DictionaryList.label "Awalen deg umawal:">
 <!ENTITY DictionaryList.accessKey "l">
-<!ENTITY ReplaceButton.label "Semselsi">
-<!ENTITY ReplaceButton.accessKey "S">
 <!ENTITY RemoveButton.label "Kkes">
 <!ENTITY RemoveButton.accessKey "K">
 

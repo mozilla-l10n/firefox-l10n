@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } -Fren amaɣnu n useqdac
+
 profile-selection-button-accept =
     .label = Senker { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Ffeɣ
+
 profile-selection-new-button =
     .label = Rnu amaɣnu
     .accesskey = R
+
 profile-selection-rename-button =
     .label = Snifel isem n umaɣnu…
     .accesskey = n
+
 profile-selection-delete-button =
     .label = Kkes amaɣnu…
     .accesskey = K
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } ad iḥrez talɣut n iɣewwaṛen-ik usligen d ismeyifen-ik ɣef umaɣnu-ik.
+
 profile-manager-work-offline =
     .label = Mahel war tuqqna
     .accesskey = M
+
 profile-manager-use-selected =
     .label = Seqdec s umezwar amaɣnu ifernen
     .accesskey = S

@@ -9,24 +9,12 @@ ok = IH
 http = HTTP
 sockets = Igrudmawen
 dns = DNS
-dnssuffix = Uḍfiṛ DNS
 websockets = Igrudam n tuqqna
 refresh = Smiren
 auto-refresh = Smiren yal 3 n tasinin
 hostname = Asenneftaɣ
 port = Tabburt
 http2 = HTTP/2
-about-networking-title = Talɣut ɣef uẓeṭṭa
-about-networking-http = HTTP
-about-networking-sockets = Igrudmawen
-about-networking-dns = DNS
-about-networking-dns-suffix = Uḍfiṛ DNS
-about-networking-websockets = Igrudam n tuqqna
-about-networking-refresh = Smiren
-about-networking-auto-refresh = Smiren yal 3 n tasinin
-about-networking-hostname = Asenneftaɣ
-about-networking-port = Tabburt
-about-networking-http-version = Lqem HTTP
 ssl = SSL
 active = Urmid
 idle = idle
@@ -69,8 +57,18 @@ rcwn-avg-long = Talemmast ɣezzifet
 rcwn-std-dev-long = Amgared tizeɣt muqren
 rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
-networkid = Asulay n uẓeṭṭa
-networkid-id = Asulay n uẓeṭṭa
+
+about-networking-title = Talɣut ɣef uẓeṭṭa
+about-networking-http = HTTP
+about-networking-sockets = Igrudmawen
+about-networking-dns = DNS
+about-networking-dns-suffix = Uḍfiṛ DNS
+about-networking-websockets = Igrudam n tuqqna
+about-networking-refresh = Smiren
+about-networking-auto-refresh = Smiren yal 3 n tasinin
+about-networking-hostname = Asenneftaɣ
+about-networking-port = Tabburt
+about-networking-http-version = Lqem HTTP
 about-networking-ssl = SSL
 about-networking-active = Urmid
 about-networking-idle = idle
@@ -118,8 +116,6 @@ about-networking-networkid-id = Asulay n uẓeṭṭa
 
 ## Link is intended as "network link"
 
-networkid-isUp = Assaɣ yettwag
-networkid-statusKnown = Addad n wassaɣ yettwasssen
 about-networking-networkid-is-up = Assaɣ yettwag
 about-networking-networkid-status-known = Addad n wassaɣ yettwasssen
 

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Asuddes &amp; Asenki">
 <!ENTITY addressingGroupTitle.label "Asuddes">
 <!ENTITY addressingText.label      "Ticki tettnadiḍ tansiwin:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Asuddes">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Aru iznan deg umasal HTML">
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Bedder-d s wudem awurman izen aneẓli di tririt">
 <!ENTITY autoQuote.accesskey                  "B">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Sakin,">
-<!ENTITY then.accesskey                       "n">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Di tririt gar tacciwin.">
 <!ENTITY quoting.accesskey                    "c">

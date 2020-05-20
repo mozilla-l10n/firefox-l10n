@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Ameẓlu n tansa iteddu">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Aleqqem awurman">
-<!ENTITY pref_update_autodownload_wifi "S Wi-Fi kan">
-<!ENTITY pref_update_autodownload_never "Werǧin">
-<!ENTITY pref_update_autodownload_always "Yal tikelt">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Tallalt">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Ticraḍ d umazray">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Lqem n &brandShortName; yellan">
-<!ENTITY updater_start_select2 "Nnal akken ad d-tessidreḍ">
-
-<!ENTITY updater_downloading_title2 "Asider n &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Ifuyla ittwazedmen">
-<!ENTITY updater_downloading_select2 "Nnal akken ad tesneseḍ lqem ticki yettusider-d">
-<!ENTITY updater_downloading_retry2 "Nnal akken ad tɛerḍeḍ tikelt-nniḍen.">
-
-<!ENTITY updater_apply_title3 "Lqem n &brandShortName; yellan">
-<!ENTITY updater_apply_select3 "Nal akken ad tesbedded">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Akken ad d-tessidreḍ ifuyla akked ileqman, efk i &brandShortName; tasiregt n unekcum ɣer usekles.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Sireg">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Tiɣimit tanebgit tamaynut">
 <!ENTITY exit_guest_session "Ffeɣ seg tɣimit tanebgit">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Imseli d uvidyu">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "timahltin d tixbula &vendorShortName;">
-<!ENTITY updater_notification_channel "Ileqman n usnas">
 <!ENTITY synced_tabs_notification_channel "Iccaren yemtawin">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

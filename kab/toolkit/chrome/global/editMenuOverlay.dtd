@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Fren akk">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Af">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "A">

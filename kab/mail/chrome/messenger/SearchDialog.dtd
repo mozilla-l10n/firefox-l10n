@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Anadi leqqayen n imedlis n tensa">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Akala afessas">
-<!ENTITY fromColumn.label "Si">
-<!ENTITY recipientColumn.label "Anarmas">
-<!ENTITY correspondentColumn.label "Inmeɣṛa">
-<!ENTITY subjectColumn.label "Amgay">
-<!ENTITY dateColumn.label "Azemz">
-<!ENTITY priorityColumn.label "Tazwart">
-<!ENTITY tagsColumn.label "Tibzimin">
-<!ENTITY accountColumn.label "Amiḍan">
-<!ENTITY statusColumn.label "Addad">
-<!ENTITY sizeColumn.label "Teɣzi">
-<!ENTITY junkStatusColumn.label "Addad n uspam">
-<!ENTITY unreadColumn.label "Ur ittwaɣṛi ara">
-<!ENTITY totalColumn.label "Asemday">
-<!ENTITY readColumn.label "Ittwaɣṛa">
-<!ENTITY receivedColumn.label "Iţwarmes">
-<!ENTITY starredColumn.label "Ɣur-s itri">
-<!ENTITY locationColumn.label "Adig">
-<!ENTITY idColumn.label "Taladna tettwarmes">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Fren tigejda ad-sekneḍ">
-<!ENTITY threadColumn2.tooltip "Sken ikalan ifessasen n yizen">
-<!ENTITY fromColumn2.tooltip "Asmizzwer s Si">
-<!ENTITY recipientColumn2.tooltip "Asmizzwer s unarmas">
-<!ENTITY correspondentColumn2.tooltip "Asmizzwer s inmeɣṛa">
-<!ENTITY subjectColumn2.tooltip "Asmizzwer s umgay">
-<!ENTITY dateColumn2.tooltip "Asmizzwer s wazemz">
-<!ENTITY priorityColumn2.tooltip "Asmizzwer s tezwart">
-<!ENTITY tagsColumn2.tooltip "Asmizzwer s tebzimin">
-<!ENTITY accountColumn2.tooltip "Asmizzwer s umiḍan">
-<!ENTITY statusColumn2.tooltip "Asmizzwer s waddad">
-<!ENTITY sizeColumn2.tooltip "Asmizzwer s teɣzi">
-<!ENTITY junkStatusColumn2.tooltip "Smi&amp;zzwer s wddad n uspam">
-<!ENTITY unreadColumn2.tooltip "Amḍan n yeznan ur nettqaɛri ara deg ukala afessas">
-<!ENTITY totalColumn2.tooltip "Amḍan n yeznan deg ukala afessas">
-<!ENTITY readColumn2.tooltip "Asmizzwer s tɣruṛi">
-<!ENTITY receivedColumn2.tooltip "Asmizzwer s wazemz n urmas">
-<!ENTITY starredColumn2.tooltip "Asmizzwer s yetri">
-<!ENTITY locationColumn2.tooltip "Asmizzwer s wadig">
-<!ENTITY idColumn2.tooltip "Asmizzwer s wazemz n urmas">

@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Kter anekcum-ik seg  { $browser }</div>
     <div data-l10n-name="line2">i { $host } akked ismal-nniḍen</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Issin ugar

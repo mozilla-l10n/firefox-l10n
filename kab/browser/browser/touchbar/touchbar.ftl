@@ -20,6 +20,7 @@ open-location = Nadi neɣ sekcem tansa
 share = Bḍu
 close-window = Mdel asfaylu
 open-sidebar = Igalisen idisanen
+
 # This string describes shortcuts for search.
 search-popover = Nadi inegzumen
 # Describes searches limited to a specific scope

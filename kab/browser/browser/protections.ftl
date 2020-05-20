@@ -9,6 +9,7 @@ graph-week-summary =
         [one] { -brand-short-name } yessewḥel { $count } n uneḍfaṛ smana yezrin
        *[other] { -brand-short-name } yessewḥel { $count } n yineḍfaṛen smana yezrin
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -18,10 +19,12 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> n uneḍfaṛ yewḥel seg { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> n yineḍfaṛen weḥlen seg { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } ad ikemmel ad isewḥel ineḍfaṛen deg yisfuyla n tunigin tusligt, maca ur iḥerrez ara lǧeṛṛa n wayen iweḥlen.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Ineḍfaṛen { -brand-short-name } ttwaḥebsen ddurt-agi
+
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -33,39 +36,53 @@ protection-report-header-details-custom = Aswir n ummesten yettwaṣeggem ɣer <
     .title = Ldi iɣewwaṛen n tudert tabaḍnit
 protection-report-page-title = Taɣellist n tbaḍnit
 protection-report-content-title = Ammesten n tbaḍnit
+
 etp-card-title = Ammesten mgal aḍfaṛ yettwaseǧhed
 etp-card-content = Ineḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
+
 protection-report-webpage-title = Ammesten n tfelwit n usenqed
 protection-report-page-content-title = Ammesten n tfelwit n usenqed
 protection-report-page-summary = { -brand-short-name } yezmer ad yeḥrez tabaḍnit-ik ɣef wayen yeffren mi ara tettinigeḍ. D agzul udmawan n tigra-nni, daɣen akked yifecka akken ad yezg usenqed n tɣellist-inek srid.
+
 etp-card-title-always = Ammesten mgal aḍfaṛ yettwaseǧhed: Yezga iteddu
 etp-card-title-custom-not-blocking = Ammesten mgal aḍfaṛ yettwaseǧhed: Yensa
 etp-card-content-summary = Ma yilint tkebbaniyin ur nettwassen ara ttaεraḍent ad k-ḍefrent s tuffra deg web, { -brand-short-name } yessewḥal aṭas deg-sent s wudem awurman.
 protection-report-etp-card-content-custom-not-blocking = Meṛṛa ammesten yensa akka tura. Fren ineḍfaṛen ara tesweḥleḍ s usefrek n yiɣewwaṛen n ummesten n { -brand-short-name }.
 protection-report-manage-protections = Sefrek iɣewwaṛen
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ass-a
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Udlif igebren amḍan amatu n yal anaw n uneḍfaṛ iweḥlen smana-a.
+
 social-tab-title = Ineḍfaṛen n iẓeḍwa imettanen
 social-tab-contant = Iẓeḍwa n tmetti srusun ineḍfaren deg yesmal web-nniḍen akken ad ḍefren ayen txedmeḍ, tettwaliḍ, akken d wayen tettnezziheḍ srid. Ayagi yettaǧǧa tikebbaniyin n yiẓeḍwa n tmetti ad issinen ugar n wayen tbeṭṭuḍ deg yimeɣna-k n yiẓeḍwa n tmetti. <a data-l10n-name="learn-more-link"> Issin ugar</a>
+
 cookie-tab-title = Inagan n tuqqna i uḍfaṛ gar yismal
 cookie-tab-content = Inagan-a n tuqqna ṭṭafaṛen-k seg usmel ɣer wayeḍ akken ad d-leqqḍen isefka ɣef wayen i t xeddmeḍ srid. Tgen-ten wiyaḍ am yimberraḥen akked tkabbaniyin n tesleḍt. Asewḥel n yinagan n tuqqna gar yismal, ad isenɣeṣ amḍan n udellel i k-yeṭṭafaṛen seg usmel ɣer wayeḍ. <a data-l10n-name="learn-more-link">Issin ugar</a>
+
 tracker-tab-title = Agbur n uḍfaṛ
 tracker-tab-description = Ismal Web zemren ad d-salin adellel, tividyutin akked igburen izɣarayen i igebren iferdisen n uḍfaṛ. Asewḥel n ugbur yettwasemras akked ad yesɣiwel asali n yisebtar, maca kra n tqeffalin, tiferkiyin neɣ urtan n tuqqna zemren ur teddun ara. <a data-l10n-name="learn-more-link">Issin ugar</a>
+
 fingerprinter-tab-title = Idsilen umḍinen
 fingerprinter-tab-content = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ. <a data-l10n-name="learn-more-link">Issin ugar</a>
+
 cryptominer-tab-title = Ikripṭuminaren
 cryptominer-tab-content = Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd. <a data-l10n-name="learn-more-link">Issin ugar</a>
+
 protections-close-button =
     .aria-label = Mdel
+
 protections-close-button2 =
     .aria-label = Mdel
     .title = Mdel
+  
 mobile-app-title = Sewḥel ineḍfaren deg ugar n yibenkan
 mobile-app-card-content = Seqdec iminig aziraz s ummesten usliɣ mgal aḍfaṛ n udellel.
 mobile-app-links = Iminig { -brand-product-name }  i <a data-l10n-name="android-mobile-inline-link">Android</a> akked <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = Ur sṛuḥuy ara awalen-ik uffiren
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Asefrek n wawal uffir
@@ -80,6 +97,7 @@ protection-report-manage-passwords-button = Sefrek awalen uffiren
 lockwise-mobile-app-title = Awi awalen uffiren anda teddiḍ
 lockwise-no-logins-card-content = Seqdec awalen uffiren yettwaskelsen deg  { -brand-short-name } deg yal ibenk.
 lockwise-app-links = { -lockwise-brand-name } i <a data-l10n-name="lockwise-android-inline-link">Android</a> akked <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -88,6 +106,7 @@ lockwise-passwords-stored =
         [one] Awal uffir yettwakles s wudem aɣelsan <a data-l10n-name="lockwise-how-it-works"> Amek iteddu</a>
        *[other] Awalen uffiren ttwakelsen s wudem aɣelsan <a data-l10n-name="lockwise-how-it-works"> Amek iteddu</a>
     }
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -95,6 +114,7 @@ lockwise-scanned-text-breached-logins =
         [one] 1 awal uffir ahat yettwasken-d deg trewla n yisefka.
        *[other] { $count } awalen uffiren ahat ttwaseknen-d deg trewla n yisefka.
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -105,9 +125,12 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Awalen-ik uffiren ttwakelsen s wudem aɣelsan.
     }
 lockwise-how-it-works-link = Amek itteddu
+
 turn-on-sync = Rmed { -sync-brand-short-name }...
     .title = Ldi ismenyifen n umtawi
+
 manage-connected-devices = Sefrek ibenkan…
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -115,18 +138,21 @@ lockwise-connected-device-status =
         [one] Yeqqen ɣer { $count } n yibenk
        *[other] Yeqqen ɣer { $count } n yibenkan
     }
+
 monitor-title = Sers allen-ik ɣef trewla n yisefka.
 monitor-link = Amek iteddu
 monitor-header-content-no-account = Ddu ɣer { -monitor-brand-name } akken ad wali ḍ ma tella trewla n yisefka i k-iḥuzan daɣen akken ad tremseḍ ilɣa ticki llant trewliwi timaynutin.
 monitor-header-content-signed-in = { -monitor-brand-name } ad k-id-yelɣu ma yella talɣut-ik tban-d deg trewla n yisefka yettwassnen.
 monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
 auto-scan = Yettwasenqed ass-a akken iwata
+
 monitor-emails-tooltip =
     .title = Sken tansiwin n yimayl yettuεassen ɣef { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Sken tirewliwin n yisefka yettwassnen ɣef { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Sken awalen uffiren i d-ibanen ɣef { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -135,6 +161,7 @@ info-monitored-emails =
         [one] Tansa n yimayl yettuɛassen
        *[other] Tansiwin n yimayl yettuɛassen
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -143,6 +170,7 @@ info-known-breaches-found =
         [one] Tarewla n yisefka yettwassnen tḥuza talɣut-ik
        *[other] Tirewliwin n yisefka yettwassnen ḥuzant talɣut-ik
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -151,7 +179,9 @@ info-exposed-passwords-found =
         [one] Awal uffir  i ḥuzant trewliwin n yisefka
        *[other] Awalen uffiren i ḥuzant trewliwin n yisefka
     }
+
 full-report-link = Wali aneqqis ummid deg <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.

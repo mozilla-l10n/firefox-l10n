@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Azwel wezzilen"> 
 <!ENTITY message.label    "Aḍris amedya ddu ɣer da.">
+
 <!ENTITY editfield0.label "Isem n useqdec:"> 
 <!ENTITY editfield1.label "Awal uffir:"> 
-<!ENTITY checkbox.label   "Senqed">
+<!ENTITY checkbox.label   "Senqed"> 
 <!ENTITY copyCmd.label    "Nɣel">
 <!ENTITY copyCmd.accesskey "N">
 <!ENTITY selectAllCmd.label "Fren imaṛṛa">

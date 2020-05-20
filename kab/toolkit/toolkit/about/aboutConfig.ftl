@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Gziɣ uguren!
 config-about-warning-checkbox =
     .label = Sken alɣu-yagi tikelt d-iteddun
+
 config-search-prefs =
     .value = Nadi:
     .accesskey = N
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Nɣel
     .accesskey = N
+
 config-copy-name =
     .label = Nɣel isem
     .accesskey = s
+
 config-copy-value =
     .label = Nɣel azal
     .accesskey = a
+
 config-modify =
     .label = Snifel
     .accesskey = s
+
 config-toggle =
     .label = Tti
     .accesskey = i
+
 config-reset =
     .label = Wennez tikelt-nniḍen
     .accesskey = W
+
 config-new =
     .label = Amaynut
     .accesskey = m
+
 config-string =
     .label = Azrir n isekkilen
     .accesskey = A
+
 config-integer =
     .label = Ummid
     .accesskey = U
+
 config-boolean =
     .label = Abulan
     .accesskey = b
+
 config-default = amezwer
 config-modified = Ittusnifel
 config-locked = Isekkweṛ:
+
 config-property-string = azrir n isekkilen
 config-property-int = ummid
 config-property-bool = abulan
+
 config-new-prompt = Sekcem isem n usmenyaf
+
 config-nan-title = Azal arameɣtu
 config-nan-text = Aḍris d-tmuddeḍ ulac-it.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Azal amaynut { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Sekcem azal amaynut { $type }

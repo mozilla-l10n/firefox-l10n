@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "A">
 
 <!ENTITY importButton.label         "Kter…">
+
 <!ENTITY importButton.tooltip       "Kter u rnu tiferkit n uɣanib yellan ɣer isemli ">
 <!ENTITY importButton.accesskey     "r">
 
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "k">
 
 <!ENTITY optionsButton.tooltip      "Iɣewwaṛen n umaẓrag n uɣanib">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "Sken iɣbula ineẓliyen">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "k">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "Sken agalis adisan @media">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "m">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

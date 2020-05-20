@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Imedlis n tensa:">
 <!ENTITY editContactAddressBook.accesskey "m">
 
-<!ENTITY editContactPanelCancel.label "Sefsex">
-<!ENTITY editContactPanelCancel.accesskey "S">
-
 <!ENTITY editContactPanelDone.label "Immed">
 <!ENTITY editContactPanelDone.accesskey "m">
 

@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Akken ad teḥerzeḍ amkan deg udebṣi, ur d-sidir ara:">
 <!ENTITY doNotDownloadNntp.label "Akken ad tḥ€rzeḍ amkan ɣef udebṣi, ur sidir ara i useqdec deg uskar war tuqqna:">
 <!ENTITY doNotDownloadImap.label "Akken ad teḥ€rzeḍ amkan ɣef udebṣi, asider n yeznan seg uqeddac akked uḥraz n yenɣal idiganen i useqdec deg uskar war tuqqna yezmer ad yettusewḥel s uwtay neɣ s teɣzi.">
-<!ENTITY allFoldersOffline.label "Ḥrez iznan n umiḍan-agi ɣef uselkim-agi">
-<!ENTITY allFoldersOffline.accesskey "ḍ">
 <!ENTITY allFoldersOffline2.label "Eǧǧ iznan deg akk ikaramen i umiḍan agi ɣef uselkim agi.">
 <!ENTITY allFoldersOffline2.accesskey "ḍ">
 <!ENTITY allFoldersOfflineNote.label "Alɣu: Abeddel agi ad iḥaz akk ikaramen deg umiḍan agi. I usbadu n ikaramen n yal yiwen, seqdec taqeffalt... n ileqqayen.">

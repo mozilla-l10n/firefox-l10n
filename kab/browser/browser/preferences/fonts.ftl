@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tisefsiyin
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tisefsiyin i
     .accesskey = S
+
 fonts-langgroup-arabic =
     .label = Taɛrabt
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Aẓunan
     .accesskey = D
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans serif
+
 fonts-proportional-size = Teɣzi
     .accesskey = T
+
 fonts-serif = Serif
     .accesskey = T
+
 fonts-sans-serif = Sans-serif
     .accesskey = l
+
 fonts-monospace = Tehri tusbuṭ
     .accesskey = F
+
 fonts-monospace-size = Teɣzi
     .accesskey = e
+
 fonts-minsize = Teɣzi taddayt n tsefsit
     .accesskey = w
+
 fonts-minsize-none =
     .label = Ulac
+
 fonts-allow-own =
     .label = Sireg isebtar web ad sqedcen tisefsiyin-nsen deg umḍiq n tidak ifernen daw-a
     .accesskey = S
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Asettengel n uḍris i ugbur aqbuṛ
 fonts-languages-fallback-desc = Asettengel-a n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.
+
 fonts-languages-fallback-label = Asettengel n uḍris n ufran aneggaru
     .accesskey = M
+
 fonts-languages-fallback-name-auto =
     .label = Azal amezwer i tutlayt tadigant
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Tavyiṭnamit
 fonts-languages-fallback-name-other =
     .label = Ayen-nniḍen (Yedda Uṛup n umalu)
-fonts-very-large-warning-title = Azal ameqqran n teɣzi n taddayt n tsefsit
-fonts-very-large-warning-message = Tferneḍ azal n teɣzi taddayt n tsefsit meqqṛen aṭas (ugar n 24 ipiksilen). Aya yezmer ad yerr aseqdec n kra n isebtar n uswel ixataren yewɛeṛ neɣ d awezɣi.
-fonts-very-large-warning-accept = Ḥrez asnifel-iw akken yebɣa yella waddad
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

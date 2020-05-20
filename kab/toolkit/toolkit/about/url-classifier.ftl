@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Izegrar n uγmis i iminig aγelsan
 url-classifier-debug-modules = Izegrar iɣmisen imiranen
 url-classifier-debug-sbjs-modules = Aγmis n tunigin taɣelsant
 url-classifier-debug-file = Afaylu aɣmis amiran
+
 url-classifier-trigger-update = Sker aleqem
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Sens aγmis n tunigin taɣelsant
