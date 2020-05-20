@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Se us ha demanat que confieu en una entitat certificadora (CA) nova.">
 <!ENTITY downloadCert.trustSSL "Confia en aquesta CA per identificar llocs web.">
 <!ENTITY downloadCert.trustEmail "Confia en aquesta CA per identificar usuaris de correu electrònic.">
-<!ENTITY downloadCert.trustObjSign "Confia en aquesta CA per identificar desenvolupadors de programari.">
 <!ENTITY downloadCert.message3 "Abans de confiar en aquesta CA amb qualsevol finalitat, cal que n'examineu el certificat i les polítiques i procediments (si estan disponibles).">
 <!ENTITY downloadCert.viewCert.label "Visualitza">
 <!ENTITY downloadCert.viewCert.text "Examina el certificat de la CA">

@@ -20,6 +20,7 @@ open-location = Escriviu una cerca o adreça
 share = Comparteix
 close-window = Tanca la finestra
 open-sidebar = Barres laterals
+
 # This string describes shortcuts for search.
 search-popover = Dreceres de cerca
 # Describes searches limited to a specific scope

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Redacció i adreçament">
 <!ENTITY addressingGroupTitle.label "Adreçament">
 <!ENTITY addressingText.label      "En cercar adreces:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Cap">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Redacció">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

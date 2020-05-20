@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "p">
 <!ENTITY exitFullScreenCmd.label "Surt de la pantalla completa">
 <!ENTITY exitFullScreenCmd.accesskey "p">
+
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifiqueu el compte">
 
 
-<!ENTITY togglePictureInPicture.key2 "*">
-<!ENTITY togglePictureInPicture.key "+"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimitza">
 <!ENTITY fullScreenRestore.tooltip "Restaura">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Paràmetres del compte">
 <!ENTITY fxa.menu.manageAccount2.label "Gestiona el compte">
 <!ENTITY fxa.menu.signOut.label "Tanca la sessió…">
-<!ENTITY fxa.menu.deviceSettings.label "Paràmetres del dispositiu">
 <!ENTITY fxa.menu.setupSync.label "Configura el &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "A">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Vés a l'adreça de la barra d'ubicació">
+
 <!ENTITY printButton.label            "Imprimeix">
 <!ENTITY printButton.tooltip          "Imprimeix aquesta pàgina">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
+
 
 <!ENTITY searchItem.title             "Cerca">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "v">
 <!ENTITY manageUserContext.label          "Gestiona els contenidors">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Finestra nova">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Més">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Escriviu una cerca o adreça">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Copia l'enllaç">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Desa al Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Desa la pàgina al Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Desa l'enllaç al Pocket">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexió segura">
 <!ENTITY identity.connectionNotSecure "La connexió no és segura">
 
-<!ENTITY identity.connectionSecure3 "Connexió segura">
-<!ENTITY identity.connectionNotSecure2 "La connexió no és segura">
-<!ENTITY identity.connectionNotSecureSecurityView "No esteu connectat de forma segura a aquest lloc.">
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
-<!ENTITY identity.connectionVerified3 "Esteu connectat de forma segura a aquest lloc.">
 <!ENTITY identity.connectionInternal "Aquesta és una pàgina del &brandShortName; segura.">
 <!ENTITY identity.extensionPage "Aquesta pàgina s'ha carregat des d'una extensió.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.">
 <!ENTITY identity.customRoot "Connexió verificada per un emissor de certificats que no és reconegut per Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Certificat emès per a:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "El &brandShortName; ha blocat parts d'aquesta pàgina que no són segures.">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permisos">
 
-<!ENTITY identity.permissions3 "Permisos">
 <!ENTITY identity.permissionsEmpty "No heu donat cap permís especial a aquest lloc.">
 <!ENTITY identity.permissionsReloadHint "Potser cal que actualitzeu la pàgina per aplicar els canvis.">
 <!ENTITY identity.permissionsPreferences.tooltip "Obre les preferències de permisos">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Tanca">
 

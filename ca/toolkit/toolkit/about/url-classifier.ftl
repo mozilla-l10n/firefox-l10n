@@ -28,6 +28,7 @@ url-classifier-debug-module-btn = Defineix els mòduls de registre
 url-classifier-debug-file-btn = Defineix el fitxer de registre
 url-classifier-debug-modules = Mòduls de registre actuals
 url-classifier-debug-file = Fitxer de registre actual
+
 url-classifier-not-available = N/D
 url-classifier-updating = s'està actualitzant
 url-classifier-cannot-update = no es pot actualitzar

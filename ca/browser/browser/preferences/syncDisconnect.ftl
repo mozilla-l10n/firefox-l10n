@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Voleu desconnectar el { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = També voleu eliminar les dades del navegador d'aquest ordinador? Les vostres dades del { -sync-brand-name } romandran en el vostre compte.
+
 sync-disconnect-remove-sync-caption = Elimina les dades del { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Adreces d'interès, historial, contrasenyes, etc.
+
 sync-disconnect-remove-other-caption = Elimina altres dades privades
+
 sync-disconnect-remove-other-data = Galetes, memòria cau, dades de llocs fora de línia, etc.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = S'està desconnectant…
+
 sync-disconnect-cancel =
     .label = Cancel·la
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Desconnecta i suprimeix
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = Només desconnecta
     .accesskey = d

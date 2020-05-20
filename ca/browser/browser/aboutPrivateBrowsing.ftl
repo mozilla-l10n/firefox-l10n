@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Més informació sobre la <a data-l10n-name="learn-more">Navegació privada</a>.
 about-private-browsing-info-visited = pàgines visitades
+
 privatebrowsingpage-open-private-window-label = Obre una finestra privada
     .accesskey = p
 about-private-browsing-info-notsaved = Quan navegueu en una finestra privada, el { -brand-short-name } <strong>no desarà</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Actualment no esteu en una finestra privada
 content-blocking-title = Bloqueig de contingut
 content-blocking-description = Alguns llocs web utilitzen elements que poden fer el seguiment de la vostra activitat a Internet. En les finestres privades, el bloqueig de contingut del { -brand-short-name } bloca automàticament els elements de seguiment que poden recollir informació sobre la vostra navegació.
 about-private-browsing-info-description = El { -brand-short-name } esborra el vostre historial de cerques i de navegació quan sortiu de l'aplicació o tanqueu totes les pestanyes i finestres de navegació privada. Malgrat que això no fa que sigueu anònim per als llocs web o per al vostre proveïdor de serveis d'Internet, és més fàcil mantenir en privat allò que feu en línia davant de qualsevol altra persona que utilitzi aquest ordinador.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

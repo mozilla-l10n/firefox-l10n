@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Desactiveu les imatges per estalviar dades en cada lloc que visiteu.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Sincronitzeu les vostres adreces d\&apos;interès, historial i contrasenyes en el telèfon.">
-<!ENTITY updatednewfirstrun_sync_title "Compte">
-<!ENTITY firstrun_sync_message2 "Continueu des d\&apos;on ho deixeu.">
 <!ENTITY firstrun_sync_subtext2 "El Sync permet accedir a les adreces d\&apos;interès, contrasenyes i altres elements que heu desat al &brandShortName; en tots els vostres dispositius.">
 <!ENTITY newfirstrun_sync_subtext "Sincronitzeu tot allò que deseu al mòbil amb el Firefox per a l\&apos;escriptori, de manera privada i segura.">
 <!ENTITY firstrun_sendtab_title "Envia la pestanya">
 <!ENTITY firstrun_sendtab_message "Compartiu les pestanyes del mòbil amb l\&apos;escriptori a l\&apos;instant.">
-<!ENTITY updatednewfirstrun_sync_subtext "Inicieu la sessió al vostre compte per aprofitar al màxim el &brandShortName;">
 <!ENTITY firstrun_signin_message "Connecteu-vos i comenceu a utilitzar-lo">
-<!ENTITY firstrun_signin_button "Inicia la sessió al Sync">
-<!ENTITY newfirstrun_signin_button "Activa la sincronització">
-<!ENTITY updatednewfirstrun_signin_button "Inicia la sessió al &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Comença a navegar">
 <!ENTITY firstrun_button_notnow "Ara no">
 <!ENTITY firstrun_button_next "Següent">
 <!ENTITY firstrun_signup_button "Registre">
-
-<!ENTITY firstrun_signin_button2 "Inicia la sessió">
 
 <!ENTITY firstrun_tabqueue_title "Enllaços">
 
@@ -480,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "S\&apos;està executant el servei d\&apos;ubicació de &vendorShortName;">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Actualitzacions automàtiques">
-<!ENTITY pref_update_autodownload_wifi "Només per Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Mai">
-<!ENTITY pref_update_autodownload_always "Sempre">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Ajuda">
 
@@ -753,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Adreces d\&apos;interès i historial">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
-<!ENTITY updater_start_select2 "Toqueu per baixar">
-
-<!ENTITY updater_downloading_title2 "S\&apos;està baixant el &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Ha fallat la baixada">
-<!ENTITY updater_downloading_select2 "Toqueu per aplicar l\&apos;actualització">
-<!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
-
-<!ENTITY updater_apply_title3 "S\&apos;ha baixat una actualització per al &brandShortName;">
-<!ENTITY updater_apply_select3 "Toqueu per instal·lar-la">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Per baixar fitxers i actualitzacions, heu de donar permís a &brandShortName; per accedir a l\&apos;emmagatzematge.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Permet">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Sessió de convidat">
 <!ENTITY exit_guest_session "Tanca sessió convidat">
@@ -891,8 +856,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Inicieu la sessió.">
 
-<!ENTITY activity_stream_signin_button "Inicia la sessió">
-
 <!ENTITY activity_stream_topsites "Llocs principals">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Recomanat pel &brandPocket;">
@@ -950,7 +913,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "So i vídeo">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Trucs i consells del &vendorShortName;">
-<!ENTITY updater_notification_channel "Actualitzacions de l\&apos;aplicació">
 <!ENTITY synced_tabs_notification_channel "Pestanyes sincronitzades">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
