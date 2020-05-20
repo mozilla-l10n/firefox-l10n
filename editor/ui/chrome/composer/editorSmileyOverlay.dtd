@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "缄默">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "插入缄默的脸">
+<!ENTITY SmileButton.label "插入笑脸">
 <!ENTITY SmileButton.tooltip "插入一个笑脸">

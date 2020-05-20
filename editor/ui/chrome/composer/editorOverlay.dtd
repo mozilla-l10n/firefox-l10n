@@ -331,9 +331,13 @@
 <!ENTITY italicToolbarCmd.tooltip "斜体">
 <!ENTITY underline.label "下划线">
 <!ENTITY underlineToolbarCmd.tooltip "下划线">
+<!ENTITY bullets.label "项目符号">
 <!ENTITY bulletListToolbarCmd.tooltip "应用或删除条目列表">
+<!ENTITY numbers.label "编号">
 <!ENTITY numberListToolbarCmd.tooltip "应用或删除编号列表">
+<!ENTITY outdent.label "减少缩进">
 <!ENTITY outdentToolbarCmd.tooltip "突出文本（向左移动）">
+<!ENTITY indent.label "增加缩进">
 <!ENTITY indentToolbarCmd.tooltip "缩进文本（向右移动）">
 <!ENTITY AlignPopupButton.label "对齐">
 <!ENTITY AlignPopupButton.tooltip "选择文本对齐方式">
@@ -345,6 +349,7 @@
 <!ENTITY alignCenterButton.tooltip "文本居中对齐">
 <!ENTITY alignRightButton.label "右对齐">
 <!ENTITY alignRightButton.tooltip "向右对齐文本">
+<!ENTITY alignJustifyButton.label "两端对齐">
 <!ENTITY alignJustifyButton.tooltip "左右对齐文本">
 
 <!-- Structure Toolbar Context Menu items -->
