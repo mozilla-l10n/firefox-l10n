@@ -1,5 +1,9 @@
 <!-- these things need to move into utilityOverlay.xul -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 <!ENTITY fileMenu.label					"Файл"> 
@@ -25,18 +29,12 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"б"> 
 <!ENTITY deleteCmd.label					"Устга">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"у"> 
 <!ENTITY selectAllCmd.label					"Бүгдийг сонго">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"с"> 
-<!ENTITY preferencesCmd.label				"Тохируулга…">
-<!ENTITY preferencesCmd.accesskey			"о"> 
 <!ENTITY preferencesCmdUnix.label       "Тохируулга">
 <!ENTITY preferencesCmdUnix.accesskey     "и"> 
-
-<!ENTITY findTypeTextCmd.label "Бичиж байхад текстийг ол">
-<!ENTITY findTypeTextCmd.accesskey "к">
 
 <!ENTITY viewMenu.label					"Харагдац"> 
 <!ENTITY viewMenu.accesskey				"ц"> 
@@ -45,24 +43,9 @@
 <!ENTITY showTaskbarCmd.label					"Мэдээлэгч самбар">  
 <!ENTITY showTaskbarCmd.accesskey				"М"> 
 
-<!ENTITY direct.label                                   "Холбогдсон (прокси: үгүй)">
-<!ENTITY direct.accesskey                               "й">
-<!ENTITY manual.label                                   "Холбогдсон (прокси: гар тохиргоо)">
-<!ENTITY manual.accesskey                               "г">
-<!ENTITY pac.label                                      "Холбогдсон (прокси: автомат)">
-<!ENTITY pac.accesskey                                  "в">
-
-<!ENTITY proxy.label                                    "Прокси тохируулга…">
-<!ENTITY proxy.accesskey                                "т">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
-
 <!ENTITY closeCmd.label			"Гарах">  
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"р">
-
-<!ENTITY closeWindow.label "Цонх хаа">
 
 <!ENTITY quitApplicationCmd.label	"Гарах"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 

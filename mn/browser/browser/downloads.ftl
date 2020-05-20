@@ -15,10 +15,13 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Үргэлжлүүлж тат
     .accesskey = ж
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Агуулж буй санг нээ
     .accesskey = А
+  
 downloads-cmd-copy-download-link =
     .label = Татаж авах холбоосыг сануул
     .accesskey = ж
+

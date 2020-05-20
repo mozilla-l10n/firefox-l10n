@@ -69,18 +69,11 @@
 <!ENTITY cmd.new_separator.label           "Шинэ тусгаарлагч">
 <!ENTITY cmd.new_separator.accesskey       "т">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Амьд хаягийг дахин дууд">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "д">
-
-<!ENTITY cmd.moveBookmarks.label                  "Зөө…">
-<!ENTITY cmd.moveBookmarks.accesskey              "З">
-
 <!ENTITY col.name.label          "Нэр">
 <!ENTITY col.tags.label          "Таглаа">
 
 
 <!ENTITY col.visitcount.label    "Зорчсон тоо">
-<!ENTITY col.description.label   "Тодорхойлолт">
 <!ENTITY col.dateadded.label     "Нэмэгдсэн">
 <!ENTITY col.lastmodified.label  "Сүүлд өөрчлөгдсөн">
 
@@ -94,10 +87,6 @@
 <!ENTITY backButton.tooltip  "Буцна">
 
 
-<!ENTITY detailsPane.more.label "Нэмэлт">
-<!ENTITY detailsPane.more.accesskey "э">
-<!ENTITY detailsPane.less.label "Цөөл">
-<!ENTITY detailsPane.less.accesskey "ө">
 <!ENTITY detailsPane.selectAnItemText.description "Харахыг болон засварлахыг хүссэн зүйлээ сонгоно уу">
 
 <!ENTITY view.label               "Харах">

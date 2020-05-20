@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Проксигүй
     .accesskey = с
@@ -13,13 +14,17 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Энэ сүлжээний проксиг автоматаар тань
     .accesskey = в
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Жишээ: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Дахин дууд
     .accesskey = а
+

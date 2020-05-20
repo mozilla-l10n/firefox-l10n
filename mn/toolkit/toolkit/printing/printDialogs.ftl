@@ -84,5 +84,6 @@ print-window =
     .title = Хэвлэж байна
 print-complete =
     .value = Хэвлэж дууссан.
+
 dialog-cancel-label = Цуцал
 dialog-close-label = Хаа

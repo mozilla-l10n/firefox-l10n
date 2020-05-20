@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Шинэ цонхонд нээ
     .accesskey = Ш
+
 places-new-bookmark =
     .label = Шинэ хаяг…
     .accesskey = Ш
@@ -23,6 +24,7 @@ places-new-folder =
 places-new-separator =
     .label = Шинэ тусгаарлагч
     .accesskey = т
+
 places-view =
     .label = Харах
     .accesskey = р
@@ -41,6 +43,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Огноо ба Хуудсаар
     .accesskey = б
+
 places-delete-domain-data =
     .label = Энэ хуудсыг март
     .accesskey = м

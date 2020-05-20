@@ -18,23 +18,7 @@
 
 
 
-<!ENTITY cmd.back.tooltip                     "Нэг хуудас буц">
-
-
-
-
-
 <!-- global warnings -->
-
-<!ENTITY warning.safemode.label                    "Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.">
-<!ENTITY warning.checkcompatibility.label          "Нэмэгдлүүдийн тохиромжтой эсэхийг шалгах нь хоригдсон. Танд тохиромжгүй нэмэгдлүүд байж магадгүй.">
-
-
-<!ENTITY warning.updatesecurity.label              "Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.">
-
-
-<!-- categories / views -->
-<!ENTITY view.discover.label                  "Нэмэгдлүүд авах">
 
 
 <!-- addon updates -->
@@ -63,9 +47,6 @@
 
 
 <!-- addon actions -->
-
-<!ENTITY cmd.findUpdates.label                "Шинэчлэл хай">
-<!ENTITY cmd.findUpdates.accesskey            "ч">
 
 
 
@@ -111,22 +92,10 @@
 
 <!-- detail view -->
 
-<!ENTITY detail.version.label                 "Хувилбар">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!ENTITY detail.size                          "Хэмжээ">
 
 
 
@@ -139,12 +108,8 @@
 <!-- ratings -->
 <!-- download/install progress -->
 
-<!ENTITY progress.pause.tooltip               "Завсарла">
 <!ENTITY progress.cancel.tooltip              "Цуцал">
 <!-- list sorting -->
-
-
-<!ENTITY sort.name.label                      "Нэр">
 
 
 
@@ -188,17 +153,7 @@
 
 
 
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Зөвшөөрөөд суулга…">
-
 <!ENTITY settings.path.button.label           "Зааж өг…">
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "Нэмэлт мэдээлэл">
 
 
 

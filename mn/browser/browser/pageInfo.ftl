@@ -5,11 +5,13 @@
 menu-copy =
     .label = Сануул
     .accesskey = С
+
 select-all =
     .key = A
 menu-select-all =
     .label = Бүгдийг сонго
     .accesskey = Б
+
 general-tab =
     .label = Ердийн
     .accesskey = р
@@ -29,6 +31,7 @@ general-meta-name =
     .label = Нэр
 general-meta-content =
     .label = Бүтэц
+
 media-tab =
     .label = Дуу дүрс
     .accesskey = Д
@@ -58,11 +61,13 @@ media-save-image-as =
     .accesskey = г
 media-preview =
     .value = Дуу дүрсийг харах:
+
 perm-tab =
     .label = Хандах эрх
     .accesskey = э
 permissions-for =
     .value = Хандах эрхийн сан:
+
 security-tab =
     .label = Нууцлал
     .accesskey = ц
@@ -75,11 +80,13 @@ security-view-identity-owner =
     .value = Эзэмшигч:
 security-view-identity-verifier =
     .value = Шалгасан:
+
 security-view-privacy-viewpasswords =
     .label = Хадгалсан нууц үгсийг харах
     .accesskey = а
 security-view-technical =
     .value = Техникийн мэдээлэл
+
 help-button =
     .label = Тусламж
 
@@ -103,6 +110,7 @@ media-link = Тэмдэг зураг
 media-input = Оруулга
 saved-passwords-yes = Тийм
 saved-passwords-no = Үгүй
+
 no-page-title =
     .value = Гарчиггүй:
 general-quirks-mode =
@@ -115,12 +123,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Анхдагч эрхийг хэрэглэ
 security-no-visits = Үгүй
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Зураг
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -130,12 +140,14 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (сунгасан хэмжээ { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -143,6 +155,7 @@ media-dimensions =
 media-block-image =
     .label = { $website } хаягны зурагнуудыг хорь
     .accesskey = у
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

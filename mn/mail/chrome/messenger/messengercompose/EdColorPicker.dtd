@@ -36,12 +36,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Өнгө">
 <!ENTITY lastPickedColor.label "Сүүлд сонгосон өнгө">
 <!ENTITY lastPickedColor.accessKey "С">
-<!ENTITY setColor1.label "Өнгө дээр дар эсвэл">
-<!ENTITY setColor2.label "HTML өнгөний код оруул">
-<!ENTITY setColor2.accessKey "н">
 <!ENTITY setColorExample.label "(жишээ.: &quot;#0000ff&quot; эсвэл &quot;blue&quot;):">
 <!ENTITY default.label "Анхны утга">
 <!ENTITY default.accessKey "А">

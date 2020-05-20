@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -17,9 +18,6 @@
 
 
 <!-- Tab context menu -->
-
-<!ENTITY  reloadTab.label                    "Самбарыг дахин дууд">
-<!ENTITY  reloadTab.accesskey                "м">
 
 
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
@@ -47,9 +45,6 @@ can reach it easily. -->
 
 
 
-
-<!ENTITY  closeTab.label                     "Самбарыг хаа">
-<!ENTITY  closeTab.accesskey                 "С">
 
 <!ENTITY  listAllTabs.label      "Бүх самбарын жагсаалтыг харуул">
 
@@ -87,6 +82,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Хуудасны эх бичлэг">
 <!ENTITY pageSourceCmd.accesskey "ч">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Хуудасны мэдээлэл">
 <!ENTITY pageInfoCmd.accesskey "м">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -120,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -148,9 +144,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-<!ENTITY subscribeToPageMenuitem.label "Энэ хуудсанд бүртгүүл…">
-
-
 
 
 
@@ -168,7 +161,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Хаягийн самбарын хаяг бичих газар очно">
+
 <!ENTITY printButton.label            "Хэвлэ">
 <!ENTITY printButton.tooltip          "Энэ хуудсыг хэвлэ">
 
@@ -369,10 +364,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Үгүй">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Тийм">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
@@ -433,6 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Холбоосыг шинэ самбарт нээ">
+
 <!ENTITY openLinkCmdInTab.accesskey   "Х">
 <!ENTITY openLinkCmd.label            "Холбоосыг шинэ цонхонд нээ">
 <!ENTITY openLinkCmd.accesskey        "Х">
@@ -452,7 +444,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Хүрээг дахин дууд">
 <!ENTITY reloadFrameCmd.accesskey     "Х">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Сонгосон хэсгийн эх бичлэгийг харах">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML эх бичлэгийг харах">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "ч">
@@ -529,6 +520,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "З">
 <!ENTITY thisFrameMenu.label              "Энэ хүрээ">
 <!ENTITY thisFrameMenu.accesskey          "Э">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -604,6 +596,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Зөвхөн текст томруул">
 <!ENTITY fullZoomToggleCmd.accesskey    "м">
+
 <!ENTITY fullZoom.label                 "Харуулах хэмжээ">
 <!ENTITY fullZoom.accesskey             "ж">
 
@@ -733,19 +726,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY customizeMode.restoreDefaults "Үндсэн дарааллыг сэргээ">
-
-
-
-
-
-<!ENTITY customizeMode.lwthemes.recommended "Санал болгогдсон">
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 
@@ -783,11 +763,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.message "Ажиглах">
-
-
-
-
 
 
 
@@ -804,7 +779,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 
 
-<!ENTITY appMenuSidebars.label         "Хажуу самбарууд">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -815,12 +789,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
-
-<!ENTITY panicButton.view.undoWarning             "Энэ үйлдлийг буцаах боломжгүйг анхаарна уу.">
 
 
 

@@ -35,21 +35,25 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY namefield.accesskey "Д">
-<!ENTITY namefield.label "Дараахыг агуулсын зүйлсийг харуул:">
-<!ENTITY refreshButton.accesskey "С">
-<!ENTITY refreshButton.label "Сэргээ">
-<!ENTITY server.accesskey "Б">
-<!ENTITY server.label "Бүртгэл:">
-<!ENTITY stopButton.accesskey "З">
-<!ENTITY stopButton.label "Зогс">
-<!ENTITY subscribeButton.accesskey "Б">
-<!ENTITY subscribeButton.label "Бүртгүүл">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY subscribeDialog.title "Бүртгүүл">
-<!ENTITY subscribedHeader.label "Бүртгүүл">
+<!ENTITY subscribeButton.label "Бүртгүүл">
+<!ENTITY subscribeButton.accesskey "Б">
+<!ENTITY unsubscribeButton.label "Үл бүртгүүл">
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY unsubscribeButton.accesskey "Ү">
-<!ENTITY unsubscribeButton.label "Үл бүртгүүл">
 <!ENTITY newGroupsTab.label           "Шинэ бүлэг">
 <!ENTITY newGroupsTab.accesskey       "Ш">
+<!ENTITY refreshButton.label "Сэргээ">
+<!ENTITY refreshButton.accesskey "С">
+<!ENTITY stopButton.label "Зогс">
+<!ENTITY stopButton.accesskey "З">
+<!ENTITY server.label "Бүртгэл:">
+<!ENTITY server.accesskey "Б">
+<!ENTITY subscribedHeader.label "Бүртгүүл">
+<!ENTITY namefield.label "Дараахыг агуулсын зүйлсийг харуул:">
+<!ENTITY namefield.accesskey "Д">

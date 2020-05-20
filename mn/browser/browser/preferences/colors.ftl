@@ -4,11 +4,15 @@
 
 colors-close-key =
     .key = w
+
 colors-page-override-option-always =
     .label = үргэлж
 colors-page-override-option-never =
     .label = хэзээ ч үгүй
+
 colors-text-and-background = Текст ба Ар дэвсгэр
+
 colors-underline-links =
     .label = Доогуур зурааст холбоос
     .accesskey = х
+

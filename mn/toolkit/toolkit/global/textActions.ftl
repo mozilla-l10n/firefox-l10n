@@ -4,22 +4,30 @@
 
 text-action-undo-shortcut =
     .key = Z
+
 text-action-redo =
     .label = Дахин үйлд
     .accesskey = Д
+
 text-action-cut =
     .label = Тасдаж сана
     .accesskey = Т
+
 text-action-cut-shortcut =
     .key = X
+
 text-action-paste =
     .label = Санамж буулга
     .accesskey = С
+
 text-action-paste-shortcut =
     .key = V
+
 text-action-delete =
     .label = Устга
     .accesskey = У
+
 text-action-select-all =
     .label = Бүгдийг сонго
     .accesskey = Б
+

@@ -4,111 +4,136 @@
 
 certmgr-title =
     .title = Гэрчилгээ зохицуулагч
+
 certmgr-tab-mine =
     .label = Таны гэрчилгээ
+
 certmgr-tab-people =
     .label = Хүмүүс
+
 certmgr-tab-servers =
     .label = Серверүүд
+
 certmgr-tab-ca =
     .label = Эрх
+
 certmgr-detail-general-tab-title =
     .label = Ердийн
     .accesskey = р
+
 certmgr-detail-pretty-print-tab-title =
     .label = Нарийвчилсан мэдээлэл
     .accesskey = й
+
 certmgr-pending-label =
     .value = Шалгаж байгаа гэрчилгээнүүд…
-certmgr-subject-info-label =
-    .value = Зориулагдсан
-certmgr-issuer-info-label =
-    .value = Зохиогч
-certmgr-fingerprints-label =
-    .value = Fingerprints
+
 certmgr-subject-label = Зориулагдсан
+
 certmgr-issuer-label = Зохиогч
+
 certmgr-fingerprints = Fingerprints
+
 certmgr-cert-detail =
     .title = Гэрчилгээний нарийн мэдээлэл
     .buttonlabelaccept = Хаа
     .buttonaccesskeyaccept = Х
-certmgr-cert-detail-cn =
-    .value = Энгийн нэр (ЭН)
-certmgr-cert-detail-serialnumber =
-    .value = Цуврал дугаар
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 Fingerprint
+
 certmgr-cert-detail-commonname = Энгийн нэр (ЭН)
+
 certmgr-cert-detail-serial-number = Цуврал дугаар
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Fingerprint
+
 certmgr-edit-ca-cert =
     .title = ГЭ гэрчилгээнд итгэх тохиргоог засварлах
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Итгэх тохиргоог засварлах:
+
 certmgr-edit-cert-trust-email =
     .label = Энэ гэрчилгээ захианы хэрэглэгчийг таниж чадна.
+
 certmgr-delete-cert =
     .title = Гэрчилгээ устгах
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Гэрчилгээний нэр
+
 certmgr-cert-server =
     .label = Сервер
+
 certmgr-override-lifetime =
     .label = Үргэлж
+
 certmgr-token-name =
     .label = Нууцлалын төхөөрөмж
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Дуусах хугацаа
+
 certmgr-expires-label =
     .label = Дуусах хугацаа
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-serial =
     .label = Цуврал дугаар
+
 certmgr-view =
     .label = Харагдац…
     .accesskey = ц
+
 certmgr-export =
     .label = Экспортлох…
     .accesskey = к
+
 certmgr-delete =
     .label = Устга…
     .accesskey = с
+
 certmgr-backup =
     .label = Нөөцөл…
     .accesskey = ө
+
 certmgr-backup-all =
     .label = Бүгдийг нөөцөл…
     .accesskey = Б
+
 certmgr-restore =
     .label = Импорт…
     .accesskey = м
+
 certmgr-details =
     .value = Гэрчилгээний талбар
     .accesskey = т
+
 certmgr-fields =
     .value = Утгын талбар
     .accesskey = г
+
 certmgr-add-exception =
     .label = Тодорхой зааж өгөх…
     .accesskey = ж
+
 exception-mgr =
     .title = Нууцлалын нэмэлт заалт
+
 exception-mgr-supplemental-warning = Банкны эрх, худалдаа хийгч болон олон нийтийн хуудаснууд танаас үүнийг хийхийг асуухгүй байх болно.
+
 exception-mgr-cert-location-url =
     .value = Байршил:
+
 exception-mgr-cert-location-download =
     .label = Гэрчилгээ авах
     .accesskey = Г
+
 exception-mgr-cert-status-view-cert =
     .label = Харагдац…
     .accesskey = р
+
 exception-mgr-permanent =
     .label = Энэ заалтыг үргэлж хадгал
     .accesskey = х
+
 pk11-bad-password = Оруулсан нууц үг буруу
 pkcs12-decode-err = Файлыг хөрвүүлэхэд алдаа гарлаа. Энэ нь  PKCS #12 хэлбэртэй биш, эсвэл эвдэрсэн байна. Эсвэл таны оруулсан нууц үг буруу байна.
 pkcs12-unknown-err-restore = Үл мэдэгдэх шалтгаанаар PKCS #12 файлыг сэрэгээж чадахгүй байна.
@@ -140,10 +165,14 @@ delete-user-cert-title =
     .title = Өөрийнхөө гэрчилгээг устгах
 delete-user-cert-confirm = Та эдгээр гэрчилгээг устгахдаа итгэлтэй байна уу?
 delete-user-cert-impact = Та хэрэв өөрийнхөө нэг гэрчилгээг устгавал цаашид өөрийгөө танихдаа хэрэглэж чадахгүй болно.
+
+
 delete-ssl-cert-title =
     .title = Серверийн зааж өгсөн гэрчилгээг устга
 delete-ssl-cert-confirm = Та эдгээр зааж өгсөн серверүүдийг устгах гэж буйдаа итгэлтэй байна уу?
 delete-ssl-cert-impact = Хэрэв та тохируулсан серверийн тохиргоог устгавал ердийн нууцлалын тохиргоог сэргээх бөгөөд серверийг шалгахдаа зөв гэрчилгээтэй эсэхийг үргэлж шалгах болно.
+
+
 delete-email-cert-confirm = Та энэ хүмүүсийн захианы гэрчилгээг устгахдаа итгэлтэй байна уу?
 delete-email-cert-impact = Та хэрэв захианы гэрчилгээг устгавал та тэр хүмүүст цаашид нууцалсан захиа илгээж чадахгүй болно.
 
@@ -151,19 +180,26 @@ delete-email-cert-impact = Та хэрэв захианы гэрчилгээг �
 
 not-present =
     .value = <Гэрчилгээний хэсэг биш>
+
 # Cert verification
 cert-verified = Дараах хэрэглээний зорилгоор энэ гэрчилгээг шалгасан:
+
 # Add usage
 verify-ssl-client =
     .value = SSL Хэрэглэгчийн гэрчилгээ
+
 verify-ssl-server =
     .value = SSL серверийн гэрчилгээ
+
 verify-ssl-ca =
     .value = SSL Гэрчилгээний эрх
+
 verify-email-signer =
     .value = Захианы гарын үсэг зурагчийн гэрчилгээ
+
 verify-email-recip =
     .value = Захиа хүлээн авагчийн гэрчилгээ
+
 # Cert verification
 cert-not-verified-cert-revoked = Дахин дуудагдсан гэрчилгээ учраас энэ гэрчилгээг шалгаж чадахгүй байна.
 cert-not-verified-cert-expired = Хүчинтэй огноо нь дууссан учраас энэ гэрчилгээг шалгаж чадахгүй байна.

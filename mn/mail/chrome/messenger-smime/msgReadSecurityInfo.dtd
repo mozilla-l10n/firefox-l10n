@@ -1,7 +1,15 @@
-<!ENTITY email.address "Захианы хаяг:">
-<!ENTITY encryptionCert.label "Гэрчилгээний нууцлалын хувиргалтыг харах">
-<!ENTITY issuer.name "Гэрчилгээ зохиосон:">
-<!ENTITY recipient.name "Нууц хувиргалт хийгдсэн:">
-<!ENTITY signatureCert.label "Гарын үсгийн гэрчилгээг харах">
-<!ENTITY signer.name "Гарын үсэг зурсан:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
+
 <!ENTITY status.label "Захианы нууцлал">
+<!ENTITY signatureCert.label "Гарын үсгийн гэрчилгээг харах">
+<!ENTITY encryptionCert.label "Гэрчилгээний нууцлалын хувиргалтыг харах">
+
+<!ENTITY signer.name "Гарын үсэг зурсан:">
+<!ENTITY recipient.name "Нууц хувиргалт хийгдсэн:">
+<!ENTITY email.address "Захианы хаяг:">
+<!ENTITY issuer.name "Гэрчилгээ зохиосон:">
+

@@ -44,12 +44,19 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Импорт">
-<!ENTITY importDialog.allTitle    "Бүхнийг импортол">
-<!ENTITY importDialog.mailTitle   "Захиа">
-<!ENTITY importDialog.addressbookTitle "Хаягийн тэмдэглэл">
-<!ENTITY importDialog.settingsTitle "Тохиргоо">
-<!ENTITY importDialog.filtersTitle "Шүүлтүүр">
 
 <!ENTITY  window.width            "40em">
 <!ENTITY  window.macWidth         "45em">
@@ -72,8 +79,3 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY title.label              "Гарчиг">
 <!ENTITY processing.label         "Ипортолж байна…">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x-д карт бүрд нэг захианы хаяг байхад &brandShortName;-д хоёр байна. (Гэр ба Ажлын)">
-<!ENTITY FieldDiscInputText2.label  "Импортлосон захианы хаяганд хадгалах төрлөө сонгоно уу:">
-<!ENTITY FieldDiscWarning.label  "Энэ төрөл нь Сонгосон хаягийн тэмдэглэлийн бүх талбарт хэрэглэгдэх болно.">
-<!ENTITY importDialog.homeTitle  "Эхлэл">
-<!ENTITY importDialog.workTitle  "Ажил">

@@ -36,9 +36,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Window.title        "Бүтцийн хүснэгт">
 <!ENTITY buildToc.label      "Дараах бүтэцтэй хүснэгт үүсгэх:">
-<!ENTITY style.label         "Загвар:">
 <!ENTITY tag.label           "Таг:">
 <!ENTITY class.label         "Анги:">
 <!ENTITY header1.label       "Түвшин 1">

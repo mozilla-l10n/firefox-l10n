@@ -36,6 +36,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY AdvancedEditButton.label "Нэмэлт засвар…">
 <!ENTITY AdvancedEditButton.accessKey "Н">
 <!ENTITY AdvancedEditButton.tooltip "HTML өгөгдлүүд, загварын төрөл, мөн ЖааваСкрипт өөрчлөх эсвэл нэмэх">
@@ -47,6 +51,3 @@
 <!ENTITY makeUrlRelative.accessKey "х">
 <!ENTITY makeUrlRelative.tooltip "харьцангуй ба яг тогтоосон URL -д солих. Та үүнийг солихдоо эхлээд хуудсаа хадгалсан байх ёстой.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Та Вэб хуудасны байрлал, дотоод файл, эсвэл нэрлэсэн зангуу эсвэл жижиг цонхны жагсаалтаас гарчгийг оруулна уу.">
-<!ENTITY LinkURLEditField.accessKey "Т">

@@ -36,23 +36,24 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!-- Title -->
-<!ENTITY mailListWindow.title           "Захианы жагсаалт">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Labels -->
 <!ENTITY addToAddressBook.label         "Энд нэм: ">
 
-<!ENTITY ListName.label                 "Овог нэр: ">
-<!ENTITY ListNickName.label             "Товч нэрийн жагсаалт: ">
-<!ENTITY ListDescription.label          "Тодорхойлолт: ">
-<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Захианы жагсаалтад нэмэх захианы хаягийг бич:">
-<!ENTITY RemoveButton.label             "Устга">
-<!ENTITY UpButton.label                 "Дээш зөө">
-<!ENTITY DownButton.label               "Доош зөө">
-
 <!-- Access Keys -->
 <!ENTITY addToAddressBook.accesskey     "м">
+<!ENTITY ListName.label                 "Овог нэр: ">
 <!ENTITY ListName.accesskey             "в">
+<!ENTITY ListNickName.label             "Товч нэрийн жагсаалт: ">
 <!ENTITY ListNickName.accesskey         "ж">
+<!ENTITY ListDescription.label          "Тодорхойлолт: ">
 <!ENTITY ListDescription.accesskey      "й">
+
+<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
+<!ENTITY AddressTitle.label             "Захианы жагсаалтад нэмэх захианы хаягийг бич:">
+<!ENTITY UpButton.label                 "Дээш зөө">
+<!ENTITY DownButton.label               "Доош зөө">
 

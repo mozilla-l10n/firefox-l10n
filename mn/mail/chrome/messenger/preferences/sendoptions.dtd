@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                 "Илгээх сонголт">
 <!ENTITY sendMail.title               "Текстийн хэлбэр">
 <!ENTITY sendMaildesc.label           "Хэрэв захиа HTML хэлбэртэй бөгөөд зарим хүлээн авагчид HTML захиа хүлээн авч чадахгүй бол:">
@@ -9,7 +13,6 @@
 <!ENTITY sendHTML.accesskey           "г">
 <!ENTITY sendBoth.label               "Захиаг текст болон HTML хэлбэрүүдээр илгээ">
 <!ENTITY sendBoth.accesskey           "З">
-<!ENTITY receiveHTML.label            "Хэрэв та зарим хүлээн авагчид HTML захиа хүлээн авч чадахаар бол хаягийн тэмдэглэлийн карт дээр буй тэдгээрийн 'Текст хэлбэрээр илгээ (HTML биш)' чагтыг болиул.">
 <!ENTITY override.label               "Тэмдэглэл: Хаягийн тэмдэглэлийг хүлээн авагчдад нь тохирсон текст горимыг нь заахад хэрэглэдэг.">
 
 <!ENTITY domaindesc.label             "Хэрэв та захиаг доорхи домэйний жагсаалтын аль нэгэнд нь илгээвэл &brandShortName; автоматаар зөв хэлбэрээр илгээнэ.">
@@ -28,14 +31,6 @@
 
 <!ENTITY add.htmltitle                "HTML домэйн нэр нэм">
 <!ENTITY add.htmldomain               "HTML домэйн нэр:">
-<!ENTITY add.htmldomain.accesskey     "н">
 <!ENTITY add.plaintexttitle           "Текст домэйн нэр нэм">
 <!ENTITY add.plaintextdomain          "Текст домэйн нэр:">
-<!ENTITY add.plaintext.accesskey      "с">
 
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY domainnameError.title        "Домэйн нэрний алдаа">
-<!ENTITY duplicationError.label       "@string@ домэйн нэр өмнө нь жагсаалтад байна.">
-
-<!-- LOCALIZATION NOTE: do not translate @string@ -->
-<!ENTITY dualEntryError.label         "Домэйн нэр HTML ба Текст жагсаалтад харагдахгүй байна. @string@ домэйн нэр өмнө нь байна.">

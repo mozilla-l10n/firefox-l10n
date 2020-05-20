@@ -35,7 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label           "Сангийн серверийн шинж чанар">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY directoryName.label               "Нэр: ">
 <!ENTITY directoryName.accesskey           "э">
 <!ENTITY directoryHostname.label           "Компьютер нэр: ">
@@ -48,12 +51,9 @@
 <!ENTITY directorySecure.accesskey         "Н">
 <!ENTITY directoryLogin.label              "Үндсэн DN: ">
 <!ENTITY directoryLogin.accesskey          "с">
-<!ENTITY advancedOptionsButton.label       "Нэмэлт сонголт">
-<!ENTITY advancedOptionsButton.accesskey   "т">
 <!ENTITY General.tab                       "Ерөнхий">
 <!ENTITY Offline.tab                       "Салангид">
 <!ENTITY Advanced.tab                      "Нэмэлт">
-<!ENTITY advancedOptionsTitle.label        "Нэмэлт сонголт">
 <!ENTITY portNumber.label                  "Портын дугаар: ">
 <!ENTITY portNumber.accesskey              "р">
 <!ENTITY searchFilter.label                "Хайх шүүлт: ">

@@ -5,8 +5,10 @@
 screenshots-cancel-button = Цуцлах
 screenshots-save-page-button = Бүтэн хуудсыг хадгалах
 screenshots-download-button = Татаж авах
+
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
+

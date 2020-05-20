@@ -1,6 +1,8 @@
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
-<!ENTITY accounts.label "Бүртгэл">
-<!ENTITY folderSizeColumn.label "Хэмжээ">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY nameColumn.label "Нэр">
-<!ENTITY totalColumn.label "Нийт">
 <!ENTITY unreadColumn.label "Уншигдаагүй">
+<!ENTITY totalColumn.label "Нийт">
+<!ENTITY folderSizeColumn.label "Хэмжээ">

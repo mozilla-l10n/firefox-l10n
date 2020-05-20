@@ -35,17 +35,18 @@
 
  ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 <!ENTITY pref.ldap.window.title              "LDAP Сангийн сервер">
 
-<!ENTITY directory.label           "Сан нэм">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP Сангийн сервер:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "LDAP сангийн сервер сонго:">
 <!ENTITY directoriesText.accesskey "с">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP Сангийн сервер">
 <!ENTITY addDirectory.label        "Нэм">
 <!ENTITY addDirectory.accesskey    "м">
 <!ENTITY editDirectory.label       "Засварла">

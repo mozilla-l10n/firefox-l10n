@@ -4,24 +4,31 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Хорих
     .accesskey = р
+
 permissions-session =
     .label = Тухайн хэсэгт зөвшөөр
     .accesskey = з
+
 permissions-allow =
     .label = Зөвшөөр
     .accesskey = ш
+
 permissions-status =
     .label = Төлөв байдал
+
 permissions-button-cancel =
     .label = Цуцал
     .accesskey = Ц
+
 permissions-capabilities-allow =
     .label = Зөвшөөр
 permissions-capabilities-block =
     .label = Хорих
+
 permissions-capabilities-listitem-allow =
     .value = Зөвшөөр
 permissions-capabilities-listitem-block =
@@ -52,11 +59,15 @@ permissions-invalid-uri-label = Зөв компьютерийн нэр оруу�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -8,8 +8,6 @@
 <!ENTITY stretch.label              "Сунга">
 
 
-<!ENTITY preview.label              "Харах">
-
 <!ENTITY setDesktopBackground.title "Арын дэвсгэр зураг болго">
 <!ENTITY openDesktopPrefs.label     "Ар дэвсгэрийн тохируулгыг нээ">
 <!ENTITY closeWindow.key            "w">

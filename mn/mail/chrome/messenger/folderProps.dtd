@@ -38,55 +38,44 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Бүртгэлийн тохиргооноос авч анхны горимд хэрэглэ">
-<!ENTITY days.label "өдөр">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY folderProps.windowtitle.label "Шинж чанар">
+
+<!ENTITY generalInfo.label "Ерөнхий мэдээлэл">
+
+<!ENTITY retention.label "Хэмнэх бодлого">
 <!ENTITY daysOld.label "өдөр хуучирсанг">
-<!ENTITY folderCharsetOverride.accesskey "й">
-<!ENTITY folderCharsetOverride.label "Санд байгаа бүх захианд анхны горимыг хэрэгжүүл (Захиа тус бүрийн автомат танилт мөн тэмдэг хувиргах тохиргоо зэргүүд үл тооцогдоно)">
-<!ENTITY folderRebuildSummaryFile.label          "Жагсаалтыг дахин шинээр бэлтгэ">
-<!ENTITY folderRebuildSummaryFile.accesskey      "б">
-<!ENTITY folderRebuildSummaryFileTip.label       "Нэгтгэсэн файлыг дахин бэлтгэ">
-<!ENTITY folderCharsetTab.accesskey "г">
-<!ENTITY folderCharsetTab.label "Анхны тэмдэг хувиргуур:">
-<!ENTITY folderCheckForNewMessages.accesskey "д">
-<!ENTITY folderCheckForNewMessages.label "Энэ санд шинэ захиаг шалга">
-<!ENTITY folderOfflineTab.label "Салангид">
-<!ENTITY folderProps.information.label "Мэдээлэл:">
-<!ENTITY folderProps.name.accesskey "Н">
+<!ENTITY message.label "захиаг устга">
+<!ENTITY retentionCleanup.label "Дискийн зайг хэмнэх үүднээс, хуучин захианууд түр устгагдаж болно.">
+<!ENTITY retentionKeepAll.label "Ямар ч захиаг бүү устга">
+<!ENTITY retentionKeepAll.accesskey "Я">
+
+<!ENTITY offlineFolder.check.label "Энэ санг Салангид хэрэглэхээр сонго">
+<!ENTITY offlineFolder.check.accesskey "Э">
+<!ENTITY offlineFolder.button.label "Одоо татаж ав">
+<!ENTITY offlineFolder.button.accesskey "ж">
+
+<!ENTITY selectofflineNewsgroup.check.label "Энэ мэдээний групыг салангид хэрэглэхээр сонго">
+<!ENTITY selectofflineNewsgroup.check.accesskey "с">
+<!ENTITY offlineNewsgroup.button.label "Одоо татаж ав">
+<!ENTITY offlineNewsgroup.button.accesskey "ж">
+
 <!ENTITY folderProps.name.label "Нэр:">
+<!ENTITY folderProps.name.accesskey "Н">
 <!ENTITY folderProps.location.label              "Байршил:">
 <!ENTITY folderProps.location.accesskey          "р">
 
-<!ENTITY folderProps.windowtitle.label "Шинж чанар">
-<!ENTITY folderQuotaRoot.label "Хашилтын толгой хэсэг:">
-<!ENTITY folderQuotaStatus.label "Төлөв байдал:">
-<!ENTITY folderQuotaTab.label "Хашилт">
-<!ENTITY folderQuotaUsage.label "Хэрэглээ:">
 <!ENTITY folderSharingTab.label "Хамт">
-<!ENTITY folderType.label "Сангийн төрөл:">
-<!ENTITY generalInfo.label "Ерөнхий мэдээлэл">
-<!ENTITY message.label "захиаг устга">
-<!ENTITY offlineFolder.button.accesskey "ж">
-<!ENTITY offlineFolder.button.label "Одоо татаж ав">
-<!ENTITY offlineFolder.check.accesskey "Э">
-<!ENTITY offlineFolder.check.label "Энэ санг Салангид хэрэглэхээр сонго">
-<!ENTITY offlineNewsgroup.button.accesskey "ж">
-<!ENTITY offlineNewsgroup.button.label "Одоо татаж ав">
-<!ENTITY permissionsDesc.label "Танд дараах эрхүүд байна:">
-<!ENTITY privileges.button.accesskey "у">
 <!ENTITY privileges.button.label "Давуу эрх…">
-<!ENTITY privilegesDesc.label "Энэ болон бусад санг сүлжээний хэрэглэгчдэд зориулж мөн хандах эрхийг нь харуулж тохируул">
-<!ENTITY retention.label "Хэмнэх бодлого">
-<!ENTITY retentionCleanup.label "Дискийн зайг хэмнэх үүднээс, хуучин захианууд түр устгагдаж болно.">
-<!ENTITY retentionKeepAll.accesskey "Я">
-<!ENTITY retentionKeepAll.label "Ямар ч захиаг бүү устга">
-<!ENTITY retentionKeepMsg.accesskey "с">
-<!ENTITY retentionKeepMsg.label "Дараахаас хэтэрсэн захиаг устга:">
-<!ENTITY retentionKeepNew.accesskey "с">
-<!ENTITY retentionKeepNew.label "Сүүлийнхээс бусад">
-<!ENTITY retentionKeepUnread.accesskey "ж">
-<!ENTITY retentionKeepUnread.label "Уншсан захиаг үргэлж устга">
-<!ENTITY retentionUseDefault.accesskey "м">
-<!ENTITY retentionUseDefault.label "Серверийн анхны горимыг хэрэглэ">
-<!ENTITY selectofflineNewsgroup.check.accesskey "с">
-<!ENTITY selectofflineNewsgroup.check.label "Энэ мэдээний групыг салангид хэрэглэхээр сонго">
+<!ENTITY privileges.button.accesskey "у">
+<!ENTITY permissionsDesc.label "Танд дараах эрхүүд байна:">
+<!ENTITY folderType.label "Сангийн төрөл:">
+
+<!ENTITY folderQuotaTab.label "Хашилт">
+<!ENTITY folderQuotaRoot.label "Хашилтын толгой хэсэг:">
+<!ENTITY folderQuotaUsage.label "Хэрэглээ:">
+<!ENTITY folderQuotaStatus.label "Төлөв байдал:">
+

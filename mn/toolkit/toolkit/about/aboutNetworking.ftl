@@ -4,3 +4,7 @@
 
 show-next-time-checkbox = Дараагийн удаа энэ анхааруулгыг харуул
 ok = OK
+
+## Link is intended as "network link"
+
+##
