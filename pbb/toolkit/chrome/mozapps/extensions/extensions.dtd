@@ -1,99 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Jxkaan kãajãwa'ja's">
-
-<!ENTITY search.placeholder                   "Pakwen kãajã'wa'j">
-<!ENTITY search.buttonlabel                   "Pakwena">
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Akhya'..">
-<!ENTITY listEmpty.installed.label            "Çxkitxãnximee ji'pha maitxi' kãajãhna naatx kthẽguhna.">
-<!ENTITY listEmpty.availableUpdates.label     "Uyya' ewumeeta' yu'pthẽnxisa's.">
-<!ENTITY listEmpty.recentUpdates.label        "Yu'pthẽnxi' txaçxhme' maa juhtxpa kãajãhna ">
-<!ENTITY listEmpty.findUpdates.label          " Yu'pthẽwa'ja's pakwen">
-<!ENTITY listEmpty.search.label               "Uyya' ewumeeta' maa yuhtxpa kãajã'jxa' ki'h ktey yũun takhya'. ">
-<!ENTITY listEmpty.button.label               "Piyana jweiçxaa pta'sxnakwekweju kãajãhna.">
-<!ENTITY installAddonFromFile.label           "Çxkitxãn manentey eç jxawnisa's kãajãhna...">
-<!ENTITY installAddonFromFile.accesskey       "Ç">
-<!ENTITY toolsMenu.tooltip                    "Vxisnxisa' jxuka kãjãxiya'tha'">
 
 
 
-<!ENTITY cmd.back.tooltip                     "Kasxwẽduhna teeçxsa's jxuka jxã'j kajiiyuhna">
-<!ENTITY cmd.forward.tooltip                  "Teeçxsa's yaçu kutxihn jxuka jxã'h.">
-
-<!ENTITY showUnsignedExtensions.button.label  "Maaĩtxi' nuyjxujan thẽgya' ewumee ũsa'.">
-<!ENTITY showAllExtensions.button.label       "Nuyjxujanxisa's jxuka kthẽgun ">
-<!ENTITY debugAddons.label                    "Yatenxi's kãajãhna">
-<!ENTITY debugAddons.accesskey                "Y">
 <!-- global warnings -->
 
-<!ENTITY warning.safemode.label                    "Jxuka kãajãhnxisa fxiçxhanxiya' neyũutxna tud tud isa.">
-<!ENTITY warning.checkcompatibility.label          "Puutx jadasa's thẽhgna kãajãhna naa fxiçxanxisa's. Idxa' puutx jada kãajãnxisa's ji'phuya' ewune'ga.">
-<!ENTITY warning.checkcompatibility.enable.label   "Mki'ta">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Kẽse'hna we'wen katxhuden ki'h kãajãhna.">
-<!ENTITY warning.updatesecurity.label              " Kthegun ãan isa dxi'htepa' pa'yakx kãajãhna ũsa' fxiçxhanxitepa'.Idxa' pa'ya'kx thẽgya' ewune'ga nmeh ũukhũkhsa' napkaçxha' yu'thẽwẽete'.">
-<!ENTITY warning.updatesecurity.enable.label       "Mki'ta">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Ki'tan ãahn isa dxi'htepa' phuphna kãajãhwa'j">
 <!-- categories / views -->
 
-<!ENTITY view.search.label                    "Pakwena ">
-<!ENTITY view.discover.label                  "Ji'phunxi's kãajã'na ">
-<!ENTITY view.recentUpdates.label             "Ãçxhtewe'sxa's yu'pthẽhna ">
-<!ENTITY view.availableUpdates.label          "Een ji'phsa's yu'pthẽhna">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "Yu'pthẽwa'ja's pakwen ">
-<!ENTITY updates.checkForUpdates.accesskey    "Y">
-<!ENTITY updates.viewUpdates.label            "U'sesatx thehgwa'ja's yu'thẽhna">
-<!ENTITY updates.viewUpdates.accesskey        "U">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Yu'pthẽhna kãajãwa'ja's txãaiçxa's">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "Y">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Phewu'hn jxuka kãajãhnxisaatx ki´h txãaiçxaa yu'pthẽhn.">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "P">
-<!ENTITY updates.resetUpdatesToManual.label          "Phewuhn jxuka kãajãnxisatx ki'ki'n yu'pthẽhn kuse vxinxisatx">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "P">
-<!ENTITY updates.updating.label               "Kãajã'hna ki'h yu'pthẽwa'ja's">
-<!ENTITY updates.installed.label              "Idx kãajãnxisa' yu'thẽnxiya' ũsa'.">
-<!ENTITY updates.downloaded.label             "Idx yu'pthẽnxisa' kãajãnxiy'ata' ki'h spahkxya'.">
-<!ENTITY updates.restart.label                "Ãçxh ki'h takhna kãajãhn çxkitxaya'">
-<!ENTITY updates.noneFound.label              "Yu´pthẽwa'ja's uymeeta'">
-<!ENTITY updates.manualUpdatesFound.label     "Thẽgna yu'pthẽwa'ja's een ji'phsa's">
-<!ENTITY updates.updateSelected.label         "Çxkitxan yu'pthẽwa'ja's">
-<!ENTITY updates.updateSelected.tooltip       "Çxkitxan yu'pthẽhn een jipthu na's kãajãdaya'">
 <!-- addon actions -->
-
-<!ENTITY cmd.showDetails.label                "Kthẽgun jweiçxaa pta'sxna ">
-<!ENTITY cmd.showDetails.accesskey            "K">
-<!ENTITY cmd.findUpdates.label                "&amp; Yu'pthẽwa'ja's pakwen">
-<!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Kuh jwed">
-<!ENTITY cmd.preferencesWin.accesskey         "K">
-<!ENTITY cmd.preferencesUnix.label            "Txhitxwa'j ">
-<!ENTITY cmd.preferencesUnix.accesskey        "T">
-<!ENTITY cmd.about.label                      "Utxaju">
-<!ENTITY cmd.about.accesskey                  "U">
 
 <!ENTITY cmd.enableAddon.label                "Ki'tan">
 <!ENTITY cmd.enableAddon.accesskey            "K">
 <!ENTITY cmd.disableAddon.label               "Spakhna">
 <!ENTITY cmd.disableAddon.accesskey           "S">
-<!ENTITY cmd.enableTheme.label                "Kseelpihna puutxwe'wen ">
-<!ENTITY cmd.enableTheme.accesskey            "K">
-<!ENTITY cmd.disableTheme.label               "Nvxithna &amp; kçxhaçxhan vxisna">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+
 <!ENTITY cmd.askToActivate.label              "Papẽyna ki'h ki'tan">
 <!ENTITY cmd.askToActivate.tooltip            "Papẽyna vxisnaçxaa naa kãajãhnxisa's">
 <!ENTITY cmd.alwaysActivate.label             "Ma'wẽnpa ki'tan">
@@ -101,17 +24,13 @@
 <!ENTITY cmd.neverActivate.label              "Bagaçx yuhpa ki'tanu">
 <!ENTITY cmd.neverActivate.tooltip            "Bagaçx yuhpa vxisyamee naa kãajaãnxisa's ">
 <!ENTITY cmd.stateMenu.tooltip                "Ma'wẽn i'h yu'pthẽhn naa kãajãnxisa's kẽse'hn ũsa'.">
-<!ENTITY cmd.installAddon.label               "Çxkitxãna">
-<!ENTITY cmd.installAddon.accesskey           "Ç">
+
 <!ENTITY cmd.uninstallAddon.label             "Khũkhna">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Kuh jwed">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Kuh jwed yu'pthẽhn naa kãajãnxisatx">
 <!ENTITY cmd.showPreferencesUnix.label        "Txhitxnxi">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Yu'pthẽn txhitxna  na's kãajãhya'">
-<!ENTITY cmd.contribute.label                 "&amp; Pu'çxna">
-<!ENTITY cmd.contribute.accesskey             "C">
-<!ENTITY cmd.contribute.tooltip               "Pu'çxya txãa kãjanxisa's pheu'nu'khan">
 
 <!ENTITY cmd.showReleaseNotes.label           "Kthẽguhna eç kaanxisa's yu'pthehn fxiyfxiysa's.">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Kthegun eç kaanxi'sa's yu'phten fxiyfxiy ktegun na's yu'pthẽwa'ja's">
@@ -122,66 +41,17 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!ENTITY discover.title                       "¿Kãajãnxisa' kĩhtxna?">
-<!ENTITY discover.description2                "Kãajãnxisa' vxiswa'tha' peekxjĩçxa's ki'h kthegujxa' &brandShortName; mjĩya' meeçxa' tudtewe'sxa's.Ki'h kaayakin teeçx panel puçkhẽ ki'h eenpa' ji'phuna, eenaspa ma'h ũstepa kthẽguhna meeçxa'teexçx pisanxi ũstepa vxithya' &brandShortName;  idxjĩ's isatewe'sxa's.">
-<!ENTITY discover.footer                      "Ma'wẽn çxkitxãçxah Internet-te, naa panela's nuywalaana maĩ ewsa vxite nmeh jxthuthẽsa's kãajãhna ki'k jiyuya'. ">
 <!-- detail view -->
 
-<!ENTITY detail.version.label                 "Yu'pthẽhn fxiy fxiy kthẽgun">
-<!ENTITY detail.lastupdated.label             "Nmehtewe'sxa's yu'pthẽhna">
-<!ENTITY detail.creator.label                 "Majĩisaa">
-<!ENTITY detail.homepage.label                "Takhna jxuka jxãh, pta'sxnxi's.">
-<!ENTITY detail.numberOfDownloads.label       "Spakxna ">
-
-<!ENTITY detail.contributions.description     "Mjĩna naa kãajã'ñxisa's pẽyna ki'h mpu'çx jĩna takhna idx mjĩnxi's vxithna le'çkweçxapa puutx pu'çxna. ">
-
-<!ENTITY detail.updateType                    "Txãaiçxhaa yu'pthẽhna">
-<!ENTITY detail.updateDefault.label           "Nyafxtewe'sx">
-<!ENTITY detail.updateDefault.tooltip         "Txãaiçxha yu'pthẽhn çxkitxan nasaa ãçxaak pẽy">
-<!ENTITY detail.updateAutomatic.label         "Ki'htan ">
-<!ENTITY detail.updateAutomatic.tooltip       "Txãaiçxaa çxkitxan ki'h yu'pthẽhna.">
-<!ENTITY detail.updateManual.label            "Spahkxna">
-<!ENTITY detail.updateManual.tooltip          "Txãaiçxaa çxktxãya'mee yu'pthẽwa'ja's ">
-<!ENTITY detail.home                          "Ajte jxã'j  pu'txna">
-<!ENTITY detail.repository                    "Eçx jiyunisa's kãjã'na">
-<!ENTITY detail.size                          "Walasaa">
-
-<!ENTITY detail.checkForUpdates.label         "Yu'pthẽwa'ja's pakwen ">
-<!ENTITY detail.checkForUpdates.accesskey     "Y">
-<!ENTITY detail.checkForUpdates.tooltip       "Pakwen yu'pthẽwa'ja's na's kãajãhna">
-<!ENTITY detail.showPreferencesWin.label      "&amp; Kuh jwedsaa">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
-<!ENTITY detail.showPreferencesWin.tooltip    "Kuh jwed yu'pthẽhn naa kãajãnxisatx">
-<!ENTITY detail.showPreferencesUnix.label     "Txhitxwa'j">
-<!ENTITY detail.showPreferencesUnix.accesskey "T">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Yu'pthẽn txhitxna  na's kãajãhya'">
 <!-- ratings -->
 
 
-<!ENTITY rating2.label                        "Ma'wẽ piyatepa jiyuya'">
 <!-- download/install progress -->
 
-<!ENTITY progress.pause.tooltip               "Tudte kyujun ">
 <!ENTITY progress.cancel.tooltip              "Tuduçmeeth">
 <!-- list sorting -->
 
 
-<!ENTITY sort.name.label                      "Yase">
-<!ENTITY sort.name.tooltip                    "Yasetx phewu'hna ">
-<!ENTITY sort.dateUpdated.label               "Nmehte yu'pthẽnxisa'">
-<!ENTITY sort.dateUpdated.tooltip             "Kĩh eente takhna phewu'nxi's yu'pthẽhna.">
-<!ENTITY sort.relevance.label                 "Pkhakhen fxi'zxewa'ja's phewuhna">
-<!ENTITY sort.relevance.tooltip               "Phewuhna jxuthẽsa's">
-<!ENTITY sort.price.label                     "Pa'kasaa">
-<!ENTITY sort.price.tooltip                   "Pa'ka's phewuhn ">
-
-<!ENTITY search.filter2.label                 "Pakwena:">
-<!ENTITY search.filter2.installed.label       "adx jĩ's kãajãhna">
-<!ENTITY search.filter2.installed.tooltip     "Ktheguhn kãajã'wa'ja's çxkitxãya'">
-<!ENTITY search.filter2.available.label       "Kãjãwa'ja's ji'phuwa'jsaa">
-<!ENTITY search.filter2.available.tooltip     "kthẽgun kãajãhn een ji'phuna' çxkitxan ">
-
-<!ENTITY addon.homepage                       "Kxtee takhna">
 <!ENTITY addon.details.label                  "Jwe">
 <!ENTITY addon.details.tooltip                "Jweiçxaa kthegun na'wẽ thegna kwekweju na's kãajãhna ">
 <!ENTITY addon.unknownDate                    "Jiyunximesaa">
@@ -201,7 +71,7 @@
 <!ENTITY addon.undoAction.tooltip             "kuh jwend jxã´ya ewumesa's kẽse'n ũsya'">
 <!ENTITY addon.undoRemove.label               "Kuh jwend jxã´ya ewumesa">
 <!ENTITY addon.undoRemove.tooltip             "Jxawna naa kãajãnxisatx çxkitxan ">
-<!ENTITY addon.restartNow.label               "Ãçxh ki'ki'n takhya'.">
+
 <!ENTITY addon.install.label                  "Çxkitxana">
 <!ENTITY addon.install.tooltip                "Çxkitxan naa kãajãnxisa's ">
 <!ENTITY addon.updateNow.label                "Ãçxh yu'pthẽhna">
@@ -214,11 +84,6 @@
 <!ENTITY addon.errorLoadingReleaseNotes.label "Ya' yatxi'thaw, napa skhewka teçx ewmesa txãa yu'phten fxiyfxiy ktegun.">
 
 
-<!ENTITY eula.title                           "Kxtey yuwa'ja's jxkaajya' nmehte wala selpisa's.">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Ewna jĩya' ki'h çxkitxãn...">
-
 <!ENTITY settings.path.button.label           "Atxa'jya'...">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
@@ -226,27 +91,7 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 
-<!ENTITY experiment.info.label "¿Na' kĩhna? jxu'ju isan çxkitxaya' ewuna vxite thẽgn mjĩn yũuya' ma'wẽnteyçxaapa.">
-<!ENTITY experiment.info.learnmore "Jxthakwe jisaa">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Txhitxnxiju phewu'jxa'">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
-
 <!ENTITY setting.learnmore "jxthakwe jisaa..">
-
-<!ENTITY disabledUnsigned.heading "Maai kãajãhnxisa' kçxhaçxanimeek neyũu.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Yaçkawe'sxa's kãajanxisa' ki'h thẽgnximee neyũutxna idx vxisnxisa' &brandShortName;.Ewuma'kh.">
-<!ENTITY disabledUnsigned.description.findAddonsLink "Uyna yu'pthẽhna">
-<!ENTITY disabledUnsigned.description.end "meeçxa' papẽhyna mjĩsa's ki'h thẽgya'.">
-<!ENTITY disabledUnsigned.learnMore "Thakwe jiyuya kwesx çxaçxa yatxnxisatx pu'çxjxa phuphwaja's txa dxi'the.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.linkToManual "Umna">
-<!ENTITY disabledUnsigned.devInfo.end ".">
 
 
 

@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Takhna
     .accesskey = T
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Phaden eç jxawnxi's txih jiptepa thegya
     .accesskey = P
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Ta'sxna na's Finder
     .accesskey = F
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Ta'sxna na's Finder
            *[other] Phaden eç jxawnxi's txih jiptepa thegya
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] Ta'sxna na's Finder
            *[other] Phaden eç jxawnxi's txih jiptepa thegya
         }
+
 downloads-cmd-retry =
     .tooltiptext = Ki'kin isan
 downloads-cmd-retry-panel =
@@ -61,19 +66,23 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Spatxnxitxi khukhn
     .accesskey = S
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Ta'sxna jxuka spatxnxitxi
     .accesskey = T
+
 downloads-clear-downloads-button =
     .label = Spatxnxitxi khukhn
     .tooltiptext = Khukhna jxukate spatxnxitxi, tudume'h suwenxitxih
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Meeta spatxnxisa.
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Meetah spatxnxisa nate.

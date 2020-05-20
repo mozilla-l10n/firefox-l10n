@@ -5,6 +5,7 @@
      a better place to live. -->
 
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
+
 <!ENTITY syncBrand.shortName.label "Sync">
 <!-- Main titles. -->
 
@@ -38,6 +39,7 @@
 <!ENTITY bookmarks.folder.mobile.label "Ki\u0027pwa\u0027ja\u0027s kẽsesen ">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Ki\u0027phniyãja\u0027">
+
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
@@ -51,15 +53,11 @@
 <!ENTITY fxaccount_getting_started_get_started "Takhna">
 <!ENTITY fxaccount_getting_started_old_firefox "¿Na\u0027s Kseelpi\u0027h yuphten fxi\u0027ni yaçka we\u0027sxa\u0027s &syncBrand.shortName.label;?">
 
-<!ENTITY fxaccount_status_signed_in_as "Ma\u0027wẽ çxkitxanina">
-<!ENTITY fxaccount_status_manage_account "Isak jxkaa">
 <!ENTITY fxaccount_status_auth_server "Isa selpisaa.">
 <!ENTITY fxaccount_status_sync_now "Ãçxh  kãjãdan">
 <!ENTITY fxaccount_status_syncing2 "Kãjãdawa\u0027ja\u0027s ">
 <!ENTITY fxaccount_status_device_name "Yase ãatewe\u0027sxtxi">
 <!ENTITY fxaccount_status_sync_server "Selpisa Sync">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; kaapeiwya\u0027">
 <!ENTITY fxaccount_status_needs_verification2 "Idxa\u0027 isasa\u0027s thẽgya\u0027pag. Kxthethya\u0027 ki\u0027ki\u0027n kajxa\u0027 thẽgya\u0027 yuwe tu\u0027hsa\u0027s.">
 <!ENTITY fxaccount_status_needs_credentials "Çxkitxaya\u0027 ewuçme\u0027. kxthethna takhna pũ\u0027txwa\u0027ja\u0027s.">
 <!ENTITY fxaccount_status_needs_upgrade "Pejxthu yu\u0027pthẽn &brandShortName; takhna pũtxwa\u0027ja\u0027s.">
@@ -77,7 +75,6 @@
      the two uses differently. -->
 <!ENTITY fxaccount_status_linktos2 "Kxtey yuya\u0027 Seelpisa\u0027s">
 <!ENTITY fxaccount_status_linkprivacy2 "Pekxkĩçxa\u0027s ptha\u0027sxya\u0027">
-<!ENTITY fxaccount_status_more "More&ellipsis;">
 <!ENTITY fxaccount_remove_account "Çxkitxanimee &ellipsis;">
 
 
@@ -103,17 +100,7 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Pejxthu yu\u0027ptheya\u0027 Firefox-te ">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Isasa\u0027 vxia\u0027ya\u0027k &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Email meeçxa\u0027 çxhukte ji\u0027phuni\u0027s jxpuban">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Email meeçxa\u0027 çxhukte ji\u0027phuni\u0027s jxpuban">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Isasa\u0027s kĩ\u0027h thẽgya\u0027mee">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Ki\u0027kin e\u0027su, kseelpi\u0027wẽte thẽyte ũsa">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Ki\u0027kin e\u0027su, kseelpi\u0027wẽte thẽyte ũsa">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Teeçx yuwe ewmeesa\u0027k kase\u0027">
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Naa isasa\u0027  aphni.&formatS1;">
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; çxkitxanimea\u0027">
 <!-- Localization note: the format string below will be replaced

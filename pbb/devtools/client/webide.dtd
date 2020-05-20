@@ -34,12 +34,6 @@
 
 
 
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
-
-
-
-
 <!ENTITY viewMenu_label "Thegna">
 
 <!ENTITY viewMenu_zoomin_label "Nuywalana">
@@ -50,6 +44,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY runtimeButton_label "Eenxisa kaanxi's txhitxna ">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -88,6 +83,8 @@
 
 
 <!ENTITY newAppProjectName "Çhukhte ji'phunxisaa yase:">
+
+
 <!-- Decks -->
 
 
@@ -111,9 +108,6 @@
 <!-- Runtime Details -->
 
 
-<!ENTITY runtimedetails_ADBRootWarning "(teeçxsa's theegun phadeya')">
-
-
 
 <!-- Device Preferences and Settings -->
 
@@ -132,8 +126,7 @@
 
 <!ENTITY devicesetting_newtext " Pakasa's phewuhn">
 <!ENTITY devicesetting_addnew "Phewuhn ki'j u'se kãjãn">
-<!-- Monitor -->
-<!ENTITY monitor_help "Pu'çxna ">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -149,17 +142,7 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
-<!-- Simulator Options -->
-<!ENTITY simulator_remove "isate we'wesaame'sa' kutxhin">
-<!ENTITY simulator_reset "Ma'wẽ u'pte txãawẽy ki'pya pa'kasatx nyafxtewe'sxa's.">
 
 
-
-<!ENTITY simulator_profile "Eçxte jiyunisa.">
-
-
-
-
-<!ENTITY simulator_tv_data "Iwehçxte TV-te">
 
 

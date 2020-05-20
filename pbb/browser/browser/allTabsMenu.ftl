@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Vxites wãtajna jiçxa aphna nmejte txundenxi's
+

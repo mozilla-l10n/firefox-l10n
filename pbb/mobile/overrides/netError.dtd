@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Ewmee  kthegun ayte">
 <!ENTITY retry.label "Ki'kin mdakh">
+
 <!-- Specific error messages -->
 
 
@@ -90,6 +91,7 @@
 <!ENTITY securityOverride.linkText "O ew kãjãn vxite fxiy teeçxsa's...">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Ayte mkuki'jwe!">
 <!ENTITY securityOverride.exceptionButtonLabel "Fxiy Kãjãn">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
@@ -112,3 +114,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

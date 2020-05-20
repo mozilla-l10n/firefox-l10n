@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "U'se txudesa">
 <!ENTITY cmd.new_separator.accesskey       "U">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Ktusehn wejxiçxa txi'pupnxisa selpisa">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "K">
-
-<!ENTITY cmd.moveBookmarks.label                  "Kẽsehn…">
-<!ENTITY cmd.moveBookmarks.accesskey              "K">
-
 <!ENTITY col.name.label          "Yase">
 <!ENTITY col.tags.label          "Kã'sxisxnxita">
 <!ENTITY col.url.label           "Dxijanxi">
 <!ENTITY col.mostrecentvisit.label "Pahnxii wejx u'se">
 <!ENTITY col.visitcount.label    "Isaçx txte pahnxii">
-<!ENTITY col.description.label   "Pta'sxisxnxi">
 <!ENTITY col.dateadded.label     "Kãjanxisa">
 <!ENTITY col.lastmodified.label  "Nmehte yu'thewa'hsaa">
 
@@ -96,10 +89,6 @@
 
 <!ENTITY forwardButton.tooltip  "Yaçuhj uhjnah">
 
-<!ENTITY detailsPane.more.label "Wejx içxa">
-<!ENTITY detailsPane.more.accesskey "W">
-<!ENTITY detailsPane.less.label "Le'çx le'çx">
-<!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.selectAnItemText.description "Mtxitx vxite kãjanxisa txã'nxuçxa fxi'hjya ewuna petxjĩtxih">
 
 <!ENTITY view.label               "Thegna">

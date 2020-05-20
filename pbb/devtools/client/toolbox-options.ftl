@@ -27,6 +27,7 @@ options-context-inspector = Thẽhgsaa
 
 # The heading
 options-sourceeditor-label = Txhitxna Fxi'nxi's ãate kavxia'na.
+
 options-sourceeditor-tabsize-label = walasa's txhuden
 options-sourceeditor-keybinding-label = Kuh jwed phkithnxisaa
 options-sourceeditor-keybinding-default-label = Ãhçxaak  pey.
@@ -35,6 +36,7 @@ options-sourceeditor-keybinding-default-label = Ãhçxaak  pey.
 
 # The heading
 options-context-advanced-settings = Phewu'n yaçka u'hsatx
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = Teeçxaa pkhakhenxi ãaçxtewe'sx, akhya' pta'sxna
 

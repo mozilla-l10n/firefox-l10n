@@ -5,3 +5,4 @@
 private-browsing-title = Peetxjĩçxa's Kẽseya'
 tracking-protection-start-tour = Mtheg maka mji'
 about-private-browsing-not-private = Ãçxteya mei'g vxitx leçxkwete jiyunximet.
+

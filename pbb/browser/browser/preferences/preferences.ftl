@@ -4,10 +4,13 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
+
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = Aphna
 
@@ -35,6 +38,13 @@ close-button =
 
 
 ## General Section - Files and Applications
+
+
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+##
 
 
 ## General Section - Performance
@@ -66,14 +76,31 @@ search-choose-engine-column =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
+## Sync section - enabling or disabling sync.
+
+## The list of things currently syncing.
+
+## The "Choose what to sync" dialog.
+
+## The device name controls.
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -92,7 +119,6 @@ search-choose-engine-column =
 
 
 ##
-
 
 ## Privacy Section - Tracking
 

@@ -9,9 +9,12 @@ findbar-next =
     .tooltiptext = Yaçka uhsa's uyna je'z meeçxa' tekh yuwe
 findbar-previous =
     .tooltiptext = Yaçka uhsa's uyna je'z meeçxa' tekh yuwesatx
+
 findbar-find-button-close =
     .tooltiptext = Aphna kxtee pakwenxi
+
 findbar-case-sensitive =
     .label = Jxuhtepa' wẽseni takhna fxi'nxisaa
     .accesskey = t
     .tooltiptext = Jiyun pakwen takhna fxi'nxisaa vxite takhnxi yaçte fxi'nxi.
+

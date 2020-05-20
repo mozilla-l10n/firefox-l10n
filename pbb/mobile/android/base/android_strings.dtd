@@ -4,8 +4,6 @@
 
 <!ENTITY firstrun_panel_title_welcome "Weçx yuwe\u0027kwe">
 
-<!ENTITY firstrun_urlbar_message "Weçx yuwe\u0027kwe &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Khthegu\u0027n dxi\u0027j muçxkwe\u0027s txãa ajte pu\u0027txna ki\u0027h kselpi\u0027n.">
 <!ENTITY firstrun_bookmarks_title "Yaçka ki\u0027ne yuu">
 <!ENTITY firstrun_bookmarks_message "Idx wejx wẽdxnisa, dxi\u0027pte vxi´te pxãhte">
 <!ENTITY firstrun_bookmarks_subtext "Ji\u0027phun kasen ki\u0027phn aça\u0027 yaçka ki\u0027hne\u0027 yuu txã\u0027s mã\u0027wẽnteya pakwena.">
@@ -13,10 +11,7 @@
 <!ENTITY firstrun_data_message "Ãhmeesa\u0027s pta\u0027sxsa, jwee jxawna">
 <!ENTITY firstrun_data_subtext2 "Fxĩiçxhan piisanisa\u0027s kseelpi\u0027h wehkwe pta\u0027sxsa ũsthu jĩ\u0027te\u0027 na\u0027 kxtee Web-te.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName;, Bakaçxte yuhpa idx puçte">
-<!ENTITY firstrun_sync_subtext "Ja\u0027nda txundena, paaçte fxi\u0027hna, jwee mawẽn teiçxaa vxisna.">
 <!ENTITY firstrun_signin_message "Miçxkitxa, takhna">
-<!ENTITY firstrun_signin_button "Me\u0027ka Sync">
 <!ENTITY  onboard_start_button_browser "Takjna pjeendna">
 
 <!ENTITY firstrun_button_next "E\u0027stewe\u0027sx">
@@ -184,9 +179,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Ma\u0027wẽ u\u0027pte txãawẽy ki\u0027phna, nuyjxujana, mjĩsa vxisni\u0027s">
 <!ENTITY pref_category_notifications "Pkhakwa\u0027ja\u0027s">
-<!ENTITY pref_category_notifications_summary "U\u0027se kũjhwẽd pakwena webtewe\u0027sxtxi ãçxtewe\u0027sx">
-<!ENTITY pref_content_notifications "U\u0027se ki\u0027pna paynxite">
-<!ENTITY pref_content_notifications_summary2 "Ayte web updatesDiscover u\u0027se ji\u0027punxisa ayte çxhaçxha yujunxite">
 <!ENTITY pref_developer_remotedebugging_usb "Khũkhni jxuja USBju">
 <!ENTITY pref_developer_remotedebugging_wifi "Khũkhni jxuja Wi-Fiju">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Khũkhni jxuja Wi-Fiju ji\u0027phuwa\u0027j peejxa teeçx jxpaywa QR yuwe we\u0027weni ãatewe\u0027sxa\u0027s.">
@@ -251,7 +243,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Sphatxna dxijuy ma\u0027wẽn ktusejya\u0027pçxa paynxisate kahyapçxa">
 
 <!ENTITY pref_tracking_protection_title2 "Nwe\u0027wen pakwena">
-<!ENTITY pref_tracking_protection_summary3 "Kapeiwya\u0027ni\u0027s peekxkĩçxa\u0027 kẽseya\u0027">
 <!ENTITY pref_donottrack_title "Pakwenimee">
 <!ENTITY pref_donottrack_summary "&brandShortName; txãani\u0027s pakwenime\u0027s kxtee">
 
@@ -273,11 +264,6 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 
-
-<!ENTITY tracking_protection_prompt_title "Ãçxha\u0027 Pakweni\u0027s puphna">
-<!ENTITY tracking_protection_prompt_text "Mbiwu jxpuphna nestxi yu\u0027 pakwen, ãçxha\u0027 ya\u0027kxmee mes.">
-<!ENTITY tracking_protection_prompt_tip_text "Pa\u0027jn phewu\u0027ni\u0027s pekxjĩ jweiçxaa jiyuya\u0027">
-<!ENTITY tracking_protection_prompt_action_button "¡Ji\u0027phthu!">
 
 <!ENTITY tab_queue_toast_message3 "Ki\u0027phni\u0027s jxawni &brandShortName;">
 <!ENTITY tab_queue_toast_action "Ãçxha\u0027 phande\u0027k">
@@ -306,20 +292,10 @@
 
 <!ENTITY tab_queue_notification_settings "\&quot;Phanden kuhsa\u0027s çxkitxãan\&quot;: meen kaapeiwya\u0027jwe pisani\u0027s kwekweju vxiswa\u0027hte &brandShortName;">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; websites updated">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Updated on &formatS;">
 
 <!ENTITY pref_char_encoding "Kxtengun khthuthen txã\u0027çxaçxasa\u0027s">
 <!ENTITY pref_char_encoding_on "Kthegu\u0027n kuh fxi\u0027nisa\u0027s">
@@ -339,7 +315,6 @@
 
 
 <!ENTITY pref_media_autoplay_enabled "Kaapeiwya\u0027n txãaiçxaa jxpe\u0027hnan">
-<!ENTITY pref_media_autoplay_enabled_summary "Kçxhaçxhan txãa webte jxpe\u0027hnan ewun pisani\u0027s kutxin txãaiçxaa vxite ji\u0027phuni kuhwed seelpisa\u0027.">
 <!ENTITY pref_zoom_force_enabled "Bagaçxtepa kaapeiwya\u0027n nuywalan nuyle\u0027çxin">
 <!ENTITY pref_zoom_force_enabled_summary "Ãadxijimee kwe\u0027kwete fxi\u0027hna kuj jwed walasa kxtee">
 <!ENTITY pref_voice_input "U\u0027kan susna">
@@ -360,14 +335,11 @@
 <!ENTITY pref_private_data_searchHistory "Yakxnisa\u0027s pakwen">
 <!ENTITY pref_private_data_formdata2 "Txã\u0027s yaçka ki\u0027ne yuu">
 <!ENTITY pref_private_data_cookies2 "Cookies aça\u0027 u\u0027kan takhna txãa mjĩisa\u0027">
-<!ENTITY pref_private_data_passwords2 "U\u0027kan takhn jxawna">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Pta\u0027sxsa\u0027 kxtee web-te kaaçxkitxanimee">
 <!ENTITY pref_private_data_siteSettings2 "Kxtee phewu\u0027nxi">
 <!ENTITY pref_private_data_downloadFiles2 "Spa\u0027kxku">
 <!ENTITY pref_private_data_syncedTabs "Ja\u0027nda çxhunden">
-
-<!ENTITY pref_default_browser "Ma\u0027wepa vxitna kẽsehnxisa\u0027s">
 
 <!ENTITY pref_about_firefox "Kãjanxi &brandShortName;">
 <!ENTITY pref_vendor_faqs "Eenisa pẽyna">
@@ -402,7 +374,6 @@
 
 <!ENTITY datareporting_fhr_title "Pta\u0027sxna wẽt fxi\u0027zxewa\u0027ja\u0027s &brandShortName;">
 <!ENTITY datareporting_fhr_summary2 "Katxunden pta\u0027sxsa naa &vendorShortName; wẽth fxi\u0027zxewa\u0027ja\u0027s kẽse\u0027hn pu\u0027çxna jiyuna txãaiçxaa jxpe\u0027nana.">
-<!ENTITY datareporting_abouthr_title "Thegna adx Pta\u0027sxna wẽt fxi\u0027zxewa\u0027ja\u0027s">
 <!ENTITY datareporting_telemetry_title "Jxuju isan">
 <!ENTITY datareporting_telemetry_summary "Txãaiçxaa katxunden, kseelpi\u0027h, hardwarete vxite pta\u0027sxna idxa\u0027 peekiçxaa kẽse\u0027hn &vendorShortName; pu\u0027sxnag vxiht &brandShortName; ew.">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; kahn pta\u0027sxni ewmee\u0027 pu\u0027çxwẽtepa &vendorShortName; idx vxitni\u0027s weiçxaa nwe\u0027wen kẽsen.">
@@ -411,13 +382,6 @@
 <!ENTITY datareporting_crashreporter_title_short "Pta\u0027sxni ewme\u0027">
 <!ENTITY datareporting_wifi_title2 "Selpisa\u0027s thegçxaa uyutxna &vendorShortName;ju">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Pu\u0027sxna &vendorShortName; piisanis naa kiwete uta! Gatxuden thegçxaa uyutxna Wi.Fi-te vxite ẽsesenxi\u0027s ãatewe\u0027sxtxi idx jĩ\u0027s ew jiyuya kwe´sx kseelpi´nisa\u0027s thegçxaa uyutxna.">
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Txãaiçxaa yu\u0027pthehn">
-<!ENTITY pref_update_autodownload_wifi "Teeçxaa kwehkwe Wi-Fiju">
-<!ENTITY pref_update_autodownload_never "Bagaçx yuhpa">
-<!ENTITY pref_update_autodownload_always "Ma\u0027wẽnpa">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Pu\u0027çxna">
@@ -447,6 +411,7 @@
 <!ENTITY set_image_fail "Ewu\u0027çme\u0027 ki\u0027pya naa pisanisa\u0027s">
 <!ENTITY set_image_path_fail "Ewu\u0027çme\u0027 jxawya naa pisanisa\u0027s">
 <!ENTITY set_image_chooser_title "Ma\u0027wẽ ki\u0027pya naa pisanisa\u0027s">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Estewe\u0027sx">
@@ -463,7 +428,6 @@
 <!ENTITY contextmenu_open_new_tab "Phanden çxhunden teeçx u\u0027sesa\u0027s">
 <!ENTITY contextmenu_open_private_tab "Phanden teeçx çxhunden peekxkĩçxa\u0027s">
 <!ENTITY contextmenu_remove "Kaapçu\u0027jun">
-<!ENTITY contextmenu_add_to_launcher "Kãhan çxhunden takhna">
 
 <!ENTITY contextmenu_share "Jxtxunde">
 <!ENTITY contextmenu_pasteandgo "Kne\u0027tan u\u0027hn">
@@ -655,22 +619,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Pakwen &formatS1; &formatS2; jĩi">
 
 <!ENTITY searchable_description "Kiphnisa yaçka kĩhne yuu txã\u0027s">
-<!-- Updater notifications -->
-<!ENTITY updater_start_select2 "Kxthetna ki\u0027h spakxna">
-
-<!ENTITY updater_downloading_title2 "Spakxna &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Spakxni kĩxjpa yuu me\u0027">
-<!ENTITY updater_downloading_select2 "Kxtethna vxisna u\u0027hn yu\u0027pteh mawẽnteiçxaa spakxna.">
-<!ENTITY updater_downloading_retry2 "Kxthethna ki\u0027kin pu\u0027txna">
 
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "Spakxniju arçxivu\u0027te vxite yu\u0027ptehn u\u0027phsa, ewna jĩma\u0027k jxkaasa u\u0027hkan jxawsaju &brandShortName;.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Ewun">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "U\u0027se pkakhen jxpi\u0027kxna">
@@ -684,6 +638,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; ãçxh ki\u0027ki\u0027nçxaa takhena">
 <!ENTITY exit_guest_session_text "Pta\u0027sxsa kẽsena takhna ũsa\u0027 pkhakheçxaa khũkhũna.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
@@ -724,6 +679,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "¿Kasen Kẽsena Peekxkĩçxa\u0027s?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -732,6 +688,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 
 <!ENTITY devtools_auth_scan_header "Naa we\u0027weni eça\u0027s txã\u0027wẽy kuki\u0027jxa\u0027 QR-te vxite idxa\u0027s kthegun ãatewe\u0027sxtxi">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
@@ -748,6 +705,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Mikthengu nwe\u0027sxwe\u0027sxti pu\u0027çxna puutx we\u0027wen een isa naa web-te.">
 <!ENTITY restrictable_feature_block_list "Nvxitmee jxuna uhn aphn">
 <!ENTITY restrictable_feature_block_list_description "Aphn naa web-te ki\u0027h ka\u0027kan pta\u0027sxsa ji\u0027phuni\u0027 nmeh ãpakwẽ.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -766,15 +724,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version "¡Yakith! &brandShortName; mjĩmepa´ga naa ãatewe\u0027sxtxi (&formatS1;, &formatS2;). Meen, spakh sxigmee phewu\u0027ya\u0027.">
 
-<!ENTITY eol_notification_title2 "&brandShortName; yu\u0027pthẽhya\u0027 ewuçme\u0027">
-<!ENTITY eol_notification_summary "Uçeya\u0027path kpakxya jweiçxaa jiyuya\u0027">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; yu\u0027pthẽnxiya\u0027 ũsa\u0027">
 <!ENTITY whatsnew_notification_summary "Ãçxhtewe\u0027sxa\u0027s uyna ki\u0027h fxiy yu\u0027pthẽhn ũsa\u0027">
-
-<!ENTITY promotion_add_to_homescreen "Kãhan çxhunden takhna">
 
 <!ENTITY helper_first_offline_bookmark_title "E\u0027kaju jxpaya\u0027">
 <!ENTITY helper_first_offline_bookmark_message "Uyna idx thegna jxpaynisate naa txhitxnisa\u0027s, kãajãhn çxkitxya\u0027mee.">

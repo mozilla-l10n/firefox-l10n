@@ -2,16 +2,12 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-certmgr-issuer-info-label =
-    .value = Txãa's kaahna
 certmgr-issuer-label = Txãa's kaahna
+
 certmgr-begins-on = Txãa pu'txhin
+
 certmgr-begins-label =
     .label = Txãa pu'txhin
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
 
 ## PKCS#12 file dialogs
 
@@ -24,6 +20,7 @@ file-browse-certificate-spec = Txãa eça' u'pyãja'
 
 
 ## For Deleting Certificates
+
 
 delete-email-cert-title =
     .title = Eç ewsa's kapçujuna jxuy kajnxiisa's.

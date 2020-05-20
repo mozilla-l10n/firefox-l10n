@@ -4,3 +4,4 @@
 
 colors-close-key =
     .key = w
+

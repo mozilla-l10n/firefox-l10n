@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Paçte vxitx le'çxkwes phaden
     .accesskey = P
+
 places-new-bookmark =
     .label = U'se txi'pnxisa…
     .accesskey = U
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = U'se txudesa
     .accesskey = U
+
 places-view =
     .label = Thegna
     .accesskey = T
@@ -47,6 +49,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Txawẽn aytewe'sx txi'pte
     .accesskey = t
+
 places-delete-domain-data =
     .label = Peçxkanun ayte weba's
     .accesskey = P

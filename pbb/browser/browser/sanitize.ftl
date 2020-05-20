@@ -19,16 +19,20 @@ clear-time-duration-suffix =
 
 window-close =
     .key = w
+
 sanitize-button-ok =
     .label = Ãçxa' khũkhna
+
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Khukhn
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Fxi'çx txi'khnxisa jxuka khukhnxinenxuna.
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

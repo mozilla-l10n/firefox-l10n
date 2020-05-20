@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Kwehkwete &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; yahtxna vxitni's u'sa ki'h ewumeeçxaçxaneta' yuu.">
-<!ENTITY aboutPage.telemetryStart               "Naa's mkaha'k txãaiçxa's jiyun u'tyãn phenan yũuya', hardware-te, vxisni, vxite peekhĩçxa's ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " pu'çxn vxithna &brandShortName; ewa.">
 <!ENTITY aboutPage.checkForUpdates.link         "Pakwen ki'h yu'ptehn spa'kxna »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Pakwen ki'h yu'ptehn…">
 <!ENTITY aboutPage.checkForUpdates.none         "Mea' yu'pthen een ji'puni's">

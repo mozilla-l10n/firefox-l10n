@@ -4,7 +4,10 @@
 
 sidebar-menu-bookmarks =
     .label = Ki'phwa'ja's
+
 sidebar-menu-history =
     .label = Fxihjçxa txi'khnxisah
+
 sidebar-menu-synced-tabs =
     .label = Ja'da txunden
+

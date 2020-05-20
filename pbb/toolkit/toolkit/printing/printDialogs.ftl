@@ -82,6 +82,7 @@ print-window =
     .title = Kutxhin u'sa pnaasanxi's.
 print-complete =
     .value = Kutxhi'n u'sa' pnaasaa ãhçxhaa yã'ja'.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

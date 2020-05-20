@@ -13,3 +13,4 @@
 
 devinfo-status-logged-in =
     .label = Pkakhen takhnxisaa
+

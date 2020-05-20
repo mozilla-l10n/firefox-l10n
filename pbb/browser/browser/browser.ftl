@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Thegna pta'sxnxitxi ayte
 
@@ -53,6 +54,7 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Nxu'pthena wẽdxnxisatx pakwenxisa's
+
 search-one-offs-context-open-new-tab =
     .label = U'se pakwen phadenxisatx
     .accesskey = U
@@ -125,5 +127,6 @@ urlbar-placeholder =
     .placeholder = Pakweya kĩimeeçxa takhnxi's u'kaya
 urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
+
 urlbar-go-button =
     .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh

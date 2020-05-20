@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Tudte kyujun
 pictureinpicture-play =
     .aria-label = Nuykũjaana
+
 pictureinpicture-mute =
     .aria-label = Sxũuna'
 pictureinpicture-unmute =
     .aria-label = Wẽsehnxisaa
+
