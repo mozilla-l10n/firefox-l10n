@@ -203,6 +203,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uzantı:
+urlbar-go-button =
+    .tooltiptext = Qonum Çubuğındaki adreske bar
 urlbar-page-action-button =
     .tooltiptext = Saife amelleri
 urlbar-pocket-button =
