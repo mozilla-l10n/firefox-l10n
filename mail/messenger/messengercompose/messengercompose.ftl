@@ -7,6 +7,7 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Вилучити поле { $type }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type =
@@ -16,6 +17,7 @@ address-input-type =
         [few] Поле вводу { $type } з { $count } адресами
        *[many] Поле вводу { $type } з { $count } адресами
     }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -25,6 +27,7 @@ address-input-type-aria-label =
         [few] { $type } з { $count } адресами. Використовуйте кнопку стрілки вліво для фокусування.
        *[many] { $type } з { $count } адресами. Використовуйте кнопку стрілки вліво для фокусування.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -33,15 +36,19 @@ pill-aria-label =
         [few] { $email }, 1 з { $count }: натисніть Enter для редагування, Delete для вилучення.
        *[many] { $email }, 1 з { $count }: натисніть Enter для редагування, Delete для вилучення.
     }
+
 pill-action-edit =
     .label = Змінити адресу
     .accesskey = м
+
 pill-action-move-to =
     .label = Перемістити в поле Кому
     .accesskey = П
+
 pill-action-move-cc =
     .label = Перемістити в поле Копія
     .accesskey = е
+
 pill-action-move-bcc =
     .label = Перемістити в поле Прихована копія
     .accesskey = х

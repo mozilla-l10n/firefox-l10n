@@ -3,15 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Зображення в зображенні
+
 pictureinpicture-pause =
     .aria-label = Пауза
 pictureinpicture-play =
     .aria-label = Відтворити
+
 pictureinpicture-mute =
     .aria-label = Вимкнути звук
 pictureinpicture-unmute =
     .aria-label = Увімкнути звук
+
 pictureinpicture-unpip =
     .aria-label = Відправити назад у вкладку
+
 pictureinpicture-close =
     .aria-label = Закрити
+

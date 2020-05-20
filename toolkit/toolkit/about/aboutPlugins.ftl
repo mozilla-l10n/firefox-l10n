@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Про плагіни
+
 installed-plugins-label = Встановлені плагіни
 no-plugins-are-installed-label = Встановлених плагінів не знайдено
+
 deprecation-description = Чогось не вистачає? Деякі плагіни більше не підтримуються. <a data-l10n-name="deprecation-link">Докладніше.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Стан:</span> Увімкне�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Стан:</span> Увімкнений ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Стан:</span> Вимкнений
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Стан:</span> Вимкнений ({ $blockListState })
+
 mime-type-label = Тип MIME
 description-label = Опис
 suffixes-label = Суфікси

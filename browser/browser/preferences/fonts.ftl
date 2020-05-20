@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Шрифти
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Шрифти для
     .accesskey = Ш
+
 fonts-langgroup-arabic =
     .label = Арабська
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Пропорційний
     .accesskey = П
+
 fonts-default-serif =
     .label = Із зарубками
 fonts-default-sans-serif =
     .label = Без зарубок
+
 fonts-proportional-size = Розмір
     .accesskey = Р
+
 fonts-serif = Із зарубками
     .accesskey = к
+
 fonts-sans-serif = Без зарубок
     .accesskey = Б
+
 fonts-monospace = Моноширинний
     .accesskey = М
+
 fonts-monospace-size = Розмір
     .accesskey = м
+
 fonts-minsize = Мінімальний розмір шрифту
     .accesskey = н
+
 fonts-minsize-none =
     .label = Без обмеження
+
 fonts-allow-own =
     .label = Дозволити сайтам обирати власні шрифти, замість встановлених вгорі
     .accesskey = л
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кодування для застарілих вебсторінок
 fonts-languages-fallback-desc = Це кодування використовується для застарілих вебсторінок, в яких не вказано кодування.
+
 fonts-languages-fallback-label = Резервне кодування тексту
     .accesskey = Р
+
 fonts-languages-fallback-name-auto =
     .label = Типове для поточної локалі
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = В’єтнамське
 fonts-languages-fallback-name-other =
     .label = Інше (вкл. Західноєвропейське)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

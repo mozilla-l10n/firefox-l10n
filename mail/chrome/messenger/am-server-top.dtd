@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "к">
 <!ENTITY downloadOnBiff.label "Автоматично завантажувати нові листи">
 <!ENTITY downloadOnBiff.accesskey "о">
-<!ENTITY username.label "Ваше реєстраційне ім’я">
 <!ENTITY deleteMessagePrefix.label "При вилученні листа:">
 <!ENTITY modelMoveToTrash.label "Перемістити його в теку «Кошик»">
 <!ENTITY modelMoveToTrash.accesskey "К">

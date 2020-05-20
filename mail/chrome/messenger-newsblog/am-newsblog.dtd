@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "Перевіряти наявність нових статей при запуску">
-<!ENTITY loginAtStartup.accesskey      "П">
 <!ENTITY biffAll.label                 "Увімкнути оновлення для всіх стрічок новин">
 <!ENTITY biffAll.accesskey             "У">
 

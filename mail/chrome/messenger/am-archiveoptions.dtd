@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Налаштування архіву">
 <!ENTITY archiveGranularityPrefix.label "Зберігати архівовані листи у:">
 <!ENTITY archiveFlat.label "Єдиній теці">

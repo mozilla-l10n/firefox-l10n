@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "Створити розділювач">
 <!ENTITY cmd.new_separator.accesskey       "д">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Оновити живу закладку">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "О">
-
 <!ENTITY col.name.label          "Назва">
 <!ENTITY col.tags.label          "Мітки">
 <!ENTITY col.url.label           "Адреса">

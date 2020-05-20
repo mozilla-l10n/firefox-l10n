@@ -14,4 +14,5 @@ accounts-conn-security = Захист з'єднання
 accounts-auth-method = Метод автентифікації
 accounts-default = Типово?
 identity-name = Ідентифікація
+
 send-via-email = Надіслати електронною поштою
