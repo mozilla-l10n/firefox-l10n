@@ -14,4 +14,5 @@ accounts-conn-security = Ασφάλεια σύνδεσης
 accounts-auth-method = Μέθοδος ταυτοποίησης
 accounts-default = Προεπιλογή;
 identity-name = Ταυτότητα
+
 send-via-email = Αποστολή μέσω email

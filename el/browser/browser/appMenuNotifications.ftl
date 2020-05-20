@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = Ε
 appmenu-addon-private-browsing-message = Τυχόν νέες επεκτάσεις που προσθέτετε στο { -brand-shorter-name } δεν θα λειτουργούν στα ιδιωτικά παράθυρα, εκτός κι αν το επιτρέψετε στις ρυθμίσεις.
 appmenu-addon-private-browsing-learn-more = Μάθετε πώς να διαχειρίζεστε τις ρυθμίσεις επεκτάσεων
+    
 appmenu-new-tab-controlled =
     .label = Η νέα σας καρτέλα έχει αλλάξει.
     .buttonlabel = Διατήρηση αλλαγών

@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "Το &brandShortName; δεν μπορεί να προσδιορίσει αν υπάρχει διαθέσιμη ενημέρωση. Παρακαλώ
                                            βεβαιωθείτε ότι έχετε εγκατεστημένη την πιο πρόσφατη έκδοση του &brandShortName; από:">
-
+                                           
 <!ENTITY  finishedPage.title              "Η ενημέρωση είναι έτοιμη για εγκατάσταση">
 <!ENTITY  finishedPage.text               "Η ενημέρωση θα εγκατασταθεί στην επόμενη εκκίνηση του &brandShortName;. Μπορείτε
                                            να επανεκκινήσετε το &brandShortName; τώρα, ή να συνεχίσετε να εργάζεστε και να κάνετε επανεκκίνηση αργότερα.">
@@ -72,6 +72,3 @@
                                            &brandShortName; τώρα, είτε να συνεχίσετε τη δουλειά σας και να επανεκκινήσετε αργότερα, είτε να αρνηθείτε
                                            την ενημέρωση.">
 
-<!ENTITY  update.details.label            "Λεπτομέρειες">
-<!ENTITY  update.installedOn.label        "Εγκαταστάθηκε στις:">
-<!ENTITY  update.status.label             "Κατάσταση:">

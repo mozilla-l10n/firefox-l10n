@@ -19,6 +19,7 @@ open-location = Αναζήτηση ή εισαγωγή διεύθυνσης
 share = Κοινή χρήση
 close-window = Κλείσιμο παραθύρου
 open-sidebar = Πλευρικές γραμμές
+
 # This string describes shortcuts for search.
 search-popover = Συντομεύσεις αναζήτησης
 # Describes searches limited to a specific scope
@@ -35,3 +36,4 @@ search-titles = Τίτλοι
 
 
 
+##

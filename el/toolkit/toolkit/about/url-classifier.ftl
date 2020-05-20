@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Μονάδες καταγραφής ασφαλ
 url-classifier-debug-modules = Τρέχουσες μονάδες καταγραφής
 url-classifier-debug-sbjs-modules = Αρχείο καταγραφής JS ασφαλούς περιήγησης
 url-classifier-debug-file = Τρέχον αρχείο καταγραφής
+
 url-classifier-trigger-update = Πρόκληση ενημέρωσης
 url-classifier-not-available = Μ/Δ
 url-classifier-disable-sbjs-log = Απενεργοποίηση αρχείου καταγραφής JS ασφαλούς περιήγησης

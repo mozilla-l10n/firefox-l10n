@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Επιλογές αρχειοθέτησης">
 <!ENTITY archiveGranularityPrefix.label "Κατά την αρχειοθέτηση μηνυμάτων, τοποθέτηση:">
 <!ENTITY archiveFlat.label "Σε ένα μόνο φάκελο">

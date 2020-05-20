@@ -6,15 +6,19 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Μάθετε περισσότερα
+
 accessibility-text-label-header = Ετικέτες κειμένου και ονόματα
+
 accessibility-keyboard-header = Πληκτρολόγιο
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = Προειδοποίηση
+
 accessibility-fail =
     .alt = Σφάλμα
+
 accessibility-best-practices =
     .alt = Βέλτιστες πρακτικές
 

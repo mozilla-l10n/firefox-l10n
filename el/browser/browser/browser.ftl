@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Πληροφορίες ιστοσελίδας
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Έχετε αποκλείσει την πρόσβαση MIDI για αυτή την ιστοσελίδα.
 urlbar-install-blocked =
     .tooltiptext = Έχετε αποκλείσει την εγκατάσταση προσθέτων για αυτή την ιστοσελίδα.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Επεξεργασία σελιδοδείκτη ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -124,12 +127,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Αυτή τη φορά, αναζήτηση με:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Αλλαγή ρυθμίσεων αναζήτησης
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Αλλαγή ρυθμίσεων αναζήτησης
+
 search-one-offs-context-open-new-tab =
     .label = Αναζήτηση σε νέα καρτέλα
     .accesskey = T
@@ -145,8 +150,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Εμφάνιση επεξεργαστή κατά την αποθήκευση
     .accesskey = Ε
+
 bookmark-panel-done-button =
     .label = Τέλος
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -230,9 +237,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα
 urlbar-switch-to-tab =
     .value = Μετάβαση σε καρτέλα:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Επέκταση:
+
 urlbar-go-button =
     .tooltiptext = Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων
 urlbar-page-action-button =

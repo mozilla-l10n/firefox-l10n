@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "θ">
 <!ENTITY DictionaryList.label "Λέξεις στο λεξικό:">
 <!ENTITY DictionaryList.accessKey "Λ">
-<!ENTITY ReplaceButton.label "Αντικατάσταση">
-<!ENTITY ReplaceButton.accessKey "κ">
 <!ENTITY RemoveButton.label "Αφαίρεση">
 <!ENTITY RemoveButton.accessKey "φ">
 

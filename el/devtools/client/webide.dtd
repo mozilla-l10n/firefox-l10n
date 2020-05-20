@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "Ε">
 
 <!ENTITY projectButton_label "Άνοιγμα εφαρμογής">
+
 <!ENTITY runtimeButton_label "Επιλογή Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "Συσκευές USB">
 <!ENTITY runtimePanel_wifi "Συσκευές Wi-Fi">
 <!ENTITY runtimePanel_other "Άλλο">
-<!ENTITY runtimePanel_noadbhelper "Εγκατάσταση βοηθού ADB">
 <!ENTITY runtimePanel_nousbdevice "Δεν μπορείτε να δείτε τη συσκευή σας;">
 <!ENTITY runtimePanel_refreshDevices_label "Ανανέωση συσκευών">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Πληροφορίες Runtime">
-<!ENTITY runtimedetails_adbIsRoot "Το ADB είναι root: ">
-<!ENTITY runtimedetails_summonADBRoot "root συσκευής">
-<!ENTITY runtimedetails_ADBRootWarning "(απαιτεί ξεκλειδωμένο bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Απεριόριστα προνόμια DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "απαίτηση υψηλότερων προνομίων">
-<!ENTITY runtimedetails_privilegesWarning "(Η συσκευή θα επανεκκινηθεί. Απαιτεί πρόσβαση root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Αληθείας">

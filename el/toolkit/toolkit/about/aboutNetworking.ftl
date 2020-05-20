@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Υποδοχές
 dns = DNS
-dnssuffix = Κατάληξη DNS
 websockets = WebSockets
 refresh = Ανανέωση
 auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
 hostname = Όνομα κεντρικού υπολογιστή
 port = Θύρα
 http2 = HTTP/2
-about-networking-title = Σχετικά με τη δικτύωση
-about-networking-http = HTTP
-about-networking-sockets = Υποδοχές
-about-networking-dns = DNS
-about-networking-dns-suffix = Κατάληξη DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = Ανανέωση
-about-networking-auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
-about-networking-hostname = Όνομα κεντρικού υπολογιστή
-about-networking-port = Θύρα
-about-networking-http-version = Έκδοση HTTP
 ssl = SSL
 active = Ενεργό
 idle = Αδρανές
@@ -69,8 +57,18 @@ rcwn-avg-long = Μεγάλος μέσος όρος
 rcwn-std-dev-long = Μακρά τυπική απόκλιση
 rcwn-cache-slow = Αργή μέτρηση cache
 rcwn-cache-not-slow = Η cache δεν μετρά αργά
-networkid = ID δικτύου
-networkid-id = ID δικτύου
+
+about-networking-title = Σχετικά με τη δικτύωση
+about-networking-http = HTTP
+about-networking-sockets = Υποδοχές
+about-networking-dns = DNS
+about-networking-dns-suffix = Κατάληξη DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Ανανέωση
+about-networking-auto-refresh = Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα
+about-networking-hostname = Όνομα κεντρικού υπολογιστή
+about-networking-port = Θύρα
+about-networking-http-version = Έκδοση HTTP
 about-networking-ssl = SSL
 about-networking-active = Ενεργό
 about-networking-idle = Αδρανές
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID δικτύου
 
 ## Link is intended as "network link"
 
-networkid-isUp = Η σύνδεση είναι ενεργή
-networkid-statusKnown = Η κατάσταση σύνδεσης είναι γνωστή
 about-networking-networkid-is-up = Η σύνδεση είναι ενεργή
 about-networking-networkid-status-known = Η κατάσταση σύνδεσης είναι γνωστή
 

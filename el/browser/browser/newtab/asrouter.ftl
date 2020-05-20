@@ -13,27 +13,36 @@ cfr-doorhanger-pintab-heading = Δοκιμάστε αυτό: Καρφίτσωμ�
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Γιατί το βλέπω αυτό
+
 cfr-doorhanger-extension-cancel-button = Όχι τώρα
     .accesskey = χ
+
 cfr-doorhanger-extension-ok-button = Προσθήκη τώρα
     .accesskey = σ
 cfr-doorhanger-pintab-ok-button = Καρφίτσωμα καρτέλας
     .accesskey = Κ
+
 cfr-doorhanger-extension-manage-settings-button = Διαχείριση ρυθμίσεων προτάσεων
     .accesskey = Δ
+
 cfr-doorhanger-extension-never-show-recommendation = Να μην εμφανίζεται αυτή η πρόταση
     .accesskey = Ν
+
 cfr-doorhanger-extension-learn-more-link = Μάθετε περισσότερα
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = από { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Πρόταση
+
 cfr-doorhanger-extension-notification2 = Πρόταση
     .tooltiptext = Πρόταση επέκτασης
     .a11y-announcement = Διαθέσιμη πρόταση επέκτασης
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Πρόταση
@@ -59,6 +68,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } χρήστης
        *[other] { $total } χρήστες
     }
+
 cfr-doorhanger-pintab-description = Αποκτήστε εύκολη πρόσβαση σε ιστοσελίδες συχνής χρήσης. Διατηρήστε τις ιστοσελίδες ανοικτές σε μια καρτέλα (ακόμη κι όταν κάνετε επανεκκίνηση).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +76,10 @@ cfr-doorhanger-pintab-description = Αποκτήστε εύκολη πρόσβα
 cfr-doorhanger-pintab-step1 = <b>Κάντε δεξί κλικ</b> στην καρτέλα που θέλετε να καρφιτσώσετε.
 cfr-doorhanger-pintab-step2 = Επιλέξτε το <b>Καρφίτσωμα καρτέλας</b> από το μενού.
 cfr-doorhanger-pintab-step3 = Αν αυτή η ιστοσελίδα ενημερωθεί, θα δείτε μια μπλε κουκκίδα στην καρφιτσωμένη σας καρτέλα.
+
 cfr-doorhanger-pintab-animation-pause = Παύση
 cfr-doorhanger-pintab-animation-resume = Συνέχιση
+
 
 ## Firefox Accounts Message
 
@@ -89,13 +101,18 @@ cfr-protections-panel-link-text = Μάθετε περισσότερα
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Νέο χαρακτηριστικό:
+
 cfr-whatsnew-button =
     .label = Τι νέο υπάρχει
     .tooltiptext = Τι νέο υπάρχει
+
 cfr-whatsnew-panel-header = Τι νέο υπάρχει
+
 cfr-whatsnew-release-notes-link-text = Διαβάστε τις σημειώσεις έκδοσης
+
 cfr-whatsnew-tracking-protect-title = Προστατεύστε τον εαυτό σας από ιχνηλάτες
 cfr-whatsnew-tracking-protect-link-text = Προβολή της αναφοράς σας
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -106,8 +123,10 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Από τις { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Προβολή αναφοράς
+
 cfr-whatsnew-lockwise-backup-title = Δημιουργήστε αντίγραφα ασφαλείας των κωδικών πρόσβασής σας
 cfr-whatsnew-lockwise-backup-link-text = Ενεργοποίηση των αντιγράφων ασφαλείας
+
 cfr-whatsnew-lockwise-take-title = Πάρτε τους κωδικούς σας μαζί σας
 cfr-whatsnew-lockwise-take-link-text = Λήψη εφαρμογής
 
@@ -163,3 +182,12 @@ cfr-doorhanger-socialtracking-description = Η ιδιωτηκότητα σας �
 
 cfr-doorhanger-milestone-ok-button = Προβολή όλων
     .accesskey = Π
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
+

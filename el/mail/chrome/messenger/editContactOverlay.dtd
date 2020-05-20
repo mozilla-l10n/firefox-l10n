@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Βιβλίο διευθύνσεων:">
 <!ENTITY editContactAddressBook.accesskey "θ">
 
-<!ENTITY editContactPanelCancel.label "Ακύρωση">
-<!ENTITY editContactPanelCancel.accesskey "κ">
-
 <!ENTITY editContactPanelDone.label "Τέλος">
 <!ENTITY editContactPanelDone.accesskey "Ο">
 

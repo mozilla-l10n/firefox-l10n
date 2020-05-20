@@ -70,15 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Νέο διαχωριστικό">
 <!ENTITY cmd.new_separator.accesskey       "χ">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Ανανέωση δυναμικού σελιδοδείκτη">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "ν">
-
 <!ENTITY col.name.label          "Όνομα">
 <!ENTITY col.tags.label          "Ετικέτες">
 <!ENTITY col.url.label           "Τοποθεσία">
 <!ENTITY col.mostrecentvisit.label "Πιο πρόσφατη επίσκεψη">
 <!ENTITY col.visitcount.label    "Αριθμός επισκέψεων">
-<!ENTITY col.description.label   "Περιγραφή">
 <!ENTITY col.dateadded.label     "Προσθήκη">
 <!ENTITY col.lastmodified.label  "Τελευταία τροποποίηση">
 
@@ -94,11 +90,6 @@
 <!ENTITY backButton.tooltip  "Μετάβαση πίσω">
 
 <!ENTITY forwardButton.tooltip  "Μετάβαση μπροστά">
-
-<!ENTITY detailsPane.more.label "Περισσότερα">
-<!ENTITY detailsPane.more.accesskey "τ">
-<!ENTITY detailsPane.less.label "Λιγότερα">
-<!ENTITY detailsPane.less.accesskey "γ">
 
 <!ENTITY detailsPane.selectAnItemText.description "Επιλέξτε ένα αντικείμενο για προβολή ή επεξεργασία των ιδιοτήτων του">
 

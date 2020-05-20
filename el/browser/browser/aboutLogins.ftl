@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Λήψη στο Google Play
 login-app-promo-apple =
     .alt = Λήψη στο App Store
+
 login-filter =
     .placeholder = Αναζήτηση συνδέσεων
+
 create-login-button = Δημιουργία νέας σύνδεσης
+
 fxaccounts-sign-in-text = Αποκτήστε πρόσβαση στους κωδικούς πρόσβασής σας από άλλες συσκευές
 fxaccounts-sign-in-button = Σύνδεση στο { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -24,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Άνοιγμα μενού
-# This menuitem is only visible on Windows
-menu-menuitem-import = Εισαγωγή κωδικών πρόσβασης...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Επιλογές
@@ -45,7 +46,6 @@ login-list-count =
 login-list-sort-label-text = Ταξινόμηση κατά:
 login-list-name-option = Όνομα (Α-Ω)
 login-list-name-reverse-option = Όνομα (Ω-Α)
-login-list-breached-option = Παραβιασμένες ιστοσελίδες
 login-list-last-changed-option = Τελευταία αλλαγή
 login-list-last-used-option = Τελευταία χρήση
 login-list-intro-title = Δεν βρέθηκαν συνδέσεις
@@ -93,6 +93,12 @@ login-item-time-changed = Τελευταία αλλαγή: { DATETIME($timeChang
 login-item-time-created = Δημιουργία: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Τελευταία χρήση: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-notification-message = Παρακαλούμε εισάγετε τον κύριο κωδικό πρόσβασής σας για να δείτε τις αποθηκευμένες συνδέσεις.
@@ -123,9 +129,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Ακύρωση
 confirmation-dialog-dismiss-button =
     .title = Ακύρωση
+
 about-logins-confirm-remove-dialog-title = Αφαίρεση αυτής της σύνδεσης;
 confirm-delete-dialog-message = Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.
 about-logins-confirm-remove-dialog-confirm-button = Αφαίρεση
+
 confirm-discard-changes-dialog-title = Απόρριψη μη αποθηκευμένων αλλαγών;
 confirm-discard-changes-dialog-message = Όλες οι μη αποθηκευμένες αλλαγές θα χαθούν.
 confirm-discard-changes-dialog-confirm-button = Απόρριψη
@@ -133,9 +141,8 @@ confirm-discard-changes-dialog-confirm-button = Απόρριψη
 ## Breach Alert notification
 
 breach-alert-text = Από την τελευταία φορά που αλλάξατε τα στοιχεία σύνδεσής σας σε αυτόν τον ιστότοπο, έχουν υπάρξει περιπτώσεις διαρροής ή κλοπής κωδικών. Για να προστατεύσετε το λογαριασμό σας, αλλάξτε τον κωδικό σας.
-breach-alert-link = Μάθετε περισσότερα σχετικά με αυτή την παραβίαση
-breach-alert-dismiss =
-    .title = Κλείσιμο αυτής της ειδοποίησης
+
+## Vulnerable Password notification
 
 ## Error Messages
 
@@ -144,5 +151,6 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Υπάρχει ήδη καταχώρηση για το { $loginTitle } με αυτό το όνομα χρήστη. <a data-l10n-name="duplicate-link">Μετάβαση στην υπάρχουσα καταχώρηση;</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Προέκυψε σφάλμα κατά την αποθήκευση του κωδικού πρόσβασης.

@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Χρώμα">
 <!ENTITY lastPickedColor.label "Τελευταίο επιλεγμένο χρώμα">
 <!ENTITY lastPickedColor.accessKey "λ">
-<!ENTITY setColor1.label "Πατήστε σε ένα χρώμα ή">
-<!ENTITY setColor2.label "καταχωρίστε την HTML συμβολοσειρά χρώματος">
-<!ENTITY setColor2.accessKey "υ">
 <!ENTITY chooseColor1.label "Επιλέξτε χρώμα:">
 <!ENTITY chooseColor2.label "Εισάγετε μια συμβολοσειρά χρώματος HTML">
 <!ENTITY chooseColor2.accessKey "H">
