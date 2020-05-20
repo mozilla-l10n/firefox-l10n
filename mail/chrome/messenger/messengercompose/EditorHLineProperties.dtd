@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "Veti Vijash Horizontale">
 
@@ -18,6 +19,7 @@
 <!ENTITY centerRadio.accessKey "N">
 <!ENTITY rightRadio.label "Djathtas">
 <!ENTITY rightRadio.accessKey "D">
+
 <!ENTITY threeDShading.label "Hijezim 3-D">
 <!ENTITY threeDShading.accessKey "H">
 <!ENTITY saveSettings.label "Përdori si Parazgjedhje">

@@ -10,6 +10,8 @@
 <!ENTITY viewAll.accesskey "K">
 <!ENTITY viewUnread.label "Të palexuarat">
 <!ENTITY viewUnread.accesskey "a">
+<!ENTITY viewNotDeleted.label "Të pafshirat">
+<!ENTITY viewNotDeleted.accesskey "f">
 <!ENTITY viewTags.label "Etiketa">
 <!ENTITY viewTags.accesskey "E">
 <!ENTITY viewCustomViews.label "Shfaqje Vetjake">
@@ -18,5 +20,3 @@
 <!ENTITY viewVirtualFolder.accesskey "R">
 <!ENTITY viewCustomizeView.label "Përshtateni…">
 <!ENTITY viewCustomizeView.accesskey "P">
-<!ENTITY viewNotDeleted.label "Të pafshirat">
-<!ENTITY viewNotDeleted.accesskey "f">

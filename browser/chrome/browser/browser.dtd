@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "K">
 <!ENTITY exitFullScreenCmd.label "Dilni nga Sa Krejt Ekrani">
 <!ENTITY exitFullScreenCmd.accesskey "D">
+
 <!ENTITY fullScreenCmd.label "Sa Krejt Ekrani">
 <!ENTITY fullScreenCmd.accesskey "E">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifikoni Llogarinë Tuaj">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimizojeni">
 <!ENTITY fullScreenRestore.tooltip "Rikthejeni">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Rregullime Llogarie">
 <!ENTITY fxa.menu.manageAccount2.label "Administroni Llogarinë">
 <!ENTITY fxa.menu.signOut.label "Dilni…">
-<!ENTITY fxa.menu.deviceSettings.label "Rregullime Pajisjeje">
 <!ENTITY fxa.menu.setupSync.label "Ujdisni &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "N">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve">
+
 <!ENTITY printButton.label            "Shtype">
 <!ENTITY printButton.tooltip          "Shtypeni këtë faqe">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaqni historikun">
+
 
 <!ENTITY searchItem.title             "Kërkoni">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "o">
 <!ENTITY manageUserContext.label          "Administroni Kontejner">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Dritare e Re">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "D">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Më tepër">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Bëni kërkim ose jepni adresë">
 <!ENTITY urlbar.accesskey             "K">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Faqeruaje Këtë Kuadër">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
+
 <!ENTITY pageAction.copyLink.label    "Kopjoji Lidhjen">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Ruajeni te Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Ruaje Faqen te Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Ruajeni Lidhjen te Pocket">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Lidhje e Sigurt">
 <!ENTITY identity.connectionNotSecure "Lidhja S&apos;është e Sigurt">
 
-<!ENTITY identity.connectionSecure3 "Lidhje e sigurt">
-<!ENTITY identity.connectionNotSecure2 "Lidhje jo e sigurt">
-<!ENTITY identity.connectionNotSecureSecurityView "S&apos;jeni lidhur në mënyrë të siguruar me këtë sajt.">
 <!ENTITY identity.connectionFile "Kjo është faqe e depozituar në kompjuterin tuaj.">
 <!ENTITY identity.connectionVerified2 "Jeni i lidhur në mënyrë të sigurt te ky sajt, pronë e:">
-<!ENTITY identity.connectionVerified3 "Jeni lidhur në mënyrë të siguruar me këtë sajt.">
 <!ENTITY identity.connectionInternal "Kjo është një faqe &brandShortName; e sigurt.">
 <!ENTITY identity.extensionPage "Kjo faqe është ngarkuar nga një zgjerim.">
 <!ENTITY identity.insecureLoginForms2 "Kredencialet e hyrjeve të dhëna në këtë faqe mund të komprometohen.">
 <!ENTITY identity.customRoot "Lidhje e verifikuar nga një lëshues dëshmish që s’njihet nga Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Dëshmi lëshuar për:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-i ka bllokuar pjesë të kësaj faqeje që s&apos;janë të sigurta.">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Leje">
 
-<!ENTITY identity.permissions3 "Leje">
 <!ENTITY identity.permissionsEmpty "S&apos;i keni dhënë këtij sajti ndonjë leje speciale.">
 <!ENTITY identity.permissionsReloadHint "Mund t&apos;ju duhet të ringarkoni faqen që të hyjnë në fuqi ndryshimet.">
 <!ENTITY identity.permissionsPreferences.tooltip "Hap Parapëlqime Lejesh">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Mbylleni">
 

@@ -13,6 +13,7 @@ enable-common-message = Mjetet e Zhvilluesit Firefox, si parazgjedhje, janë të
 enable-learn-more-link = Mësoni më tepër rreth Mjetesh Zhvilluesi
 enable-enable-button = Aktivizoni Mjete Zhvilluesi
 enable-close-button = Mbylle këtë Skedë
+
 welcome-title = Mirë se vini te Mjete Zhvilluesi Firefox!
 newsletter-title = Buletini i Zhvilluesve Mozilla
 newsletter-message = Merrni lajme, marifete dhe burime zhvilluesish drejt e te email-i juaj.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Nuk e kam problem trajtimin e këtyre të dhënave ng
 newsletter-subscribe-button = Pajtohuni
 newsletter-thanks-title = Faleminderit!
 newsletter-thanks-message = Nëse s’e keni ripohuar më parë pajtimin te një buletin i Mozilla-s, mund t’ju duhet ta bëni. Ju lutemi, kontrolloni email-et e marrë ose filtrin tuaj për mesazhe të padëshiruar për një email prej nesh.
+
 footer-title = Firefox Developer Edition
 footer-message = Po kërkoni për më tepër se thjesht Mjete Zhvilluesi? Shihni shfletuesin tonë Firefox të ndërtuar posaçërisht për zhvillues dhe rrjedha pune moderne.
 footer-learn-more-link = Mësoni më tepër
+
 features-learn-more = Mësoni më tepër
 features-inspector-title = Mbikëqyrës
 features-inspector-desc = Mbikëqyrni dhe përimtoni kod për të ndërtuar skema të përsosura deri te pikseli i fundit. <a data-l10n-name="learn-more">{ features-learn-more }</a>

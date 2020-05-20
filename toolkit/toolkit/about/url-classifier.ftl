@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Module regjistrash Shfletimi të Parrezik
 url-classifier-debug-modules = Module të tanishëm regjistrimi
 url-classifier-debug-sbjs-modules = Regjistër JS Shfletimi të Parrezik
 url-classifier-debug-file = Kartelë regjistri të tanishëm
+
 url-classifier-trigger-update = Shkakto Përditësim
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Çaktivizo Regjistër JS-je Shfletimi të Sigurt

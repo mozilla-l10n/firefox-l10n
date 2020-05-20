@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = E pranoj rrezikun!
 config-about-warning-checkbox =
     .label = Shfaqe këtë sinjalizim herës tjetër
+
 config-search-prefs =
     .value = Kërko:
     .accesskey = K
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopjoje
     .accesskey = K
+
 config-copy-name =
     .label = Kopjoji Emrin
     .accesskey = o
+
 config-copy-value =
     .label = Kopjoji Vlerën
     .accesskey = V
+
 config-modify =
     .label = Ndryshoje
     .accesskey = N
+
 config-toggle =
     .label = Këmbe
     .accesskey = M
+
 config-reset =
     .label = Riktheje te parazgjedhjet
     .accesskey = R
+
 config-new =
     .label = E re
     .accesskey = E
+
 config-string =
     .label = Varg
     .accesskey = V
+
 config-integer =
     .label = Numër i plotë
     .accesskey = p
+
 config-boolean =
     .label = Vlerë buleane
     .accesskey = b
+
 config-default = parazgjedhje
 config-modified = e ndryshuar
 config-locked = e kyçur
+
 config-property-string = varg
 config-property-int = numër i plotë
 config-property-bool = vlerë buleane
+
 config-new-prompt = Jepni emrin e parapëlqimit
+
 config-nan-title = Vlerë e pavlefshme
 config-nan-text = Teksti që dhatë nuk është një numër.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Vlerë { $type } e re
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Jepni vlerë { $type }

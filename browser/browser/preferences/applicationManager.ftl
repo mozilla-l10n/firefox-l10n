@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Hollësi aplikacioni
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Hiqe
     .accesskey = H
-app-manager-handle-webfeeds = Për trajtimin e prurjesh Web mund të përdoren aplikacionet vijuese.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Për trajtimin e lidhjesh { $type } mund të përdoren aplikacionet vijuese.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Për trajtimin e lënde { $type } mund të përdoren aplikacionet vijuese.

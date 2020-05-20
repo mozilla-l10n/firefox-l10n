@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Hartim &amp; Adresim">
 <!ENTITY addressingGroupTitle.label "Adresim">
 <!ENTITY addressingText.label      "Kur kërkohen adresa:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Hartim">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Harto mesazhe në format HTML">
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Citoje vetvetiu mesazhin origjinal kur përgjigjesh">
 <!ENTITY autoQuote.accesskey                  "C">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Mandej,">
-<!ENTITY then.accesskey                       "M">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Gjatë citimesh,">
 <!ENTITY quoting.accesskey                    "c">

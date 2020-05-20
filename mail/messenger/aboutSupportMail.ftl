@@ -14,4 +14,5 @@ accounts-conn-security = Siguri lidhjeje
 accounts-auth-method = Metodë mirëfilltësimi
 accounts-default = Parazgjedhje?
 identity-name = Identitet
+
 send-via-email = Dërgoje përmes email-i

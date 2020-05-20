@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "S&apos;u zbatua dot Përditësimi i pjesshëm. &brandShortName;-i do të riprovojë duke shkarkuar Përditësimin e plotë.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName;-i s’është në gjendje të përcaktojë nëse ka gati ndonjë përditësim. Ju lutemi, sigurohuni që keni versionin më të ri të &brandShortName;-it, te:">
-
+                                           
 <!ENTITY  finishedPage.title              "Përditësim Gati për T’u Instaluar">
 <!ENTITY  finishedPage.text               "Përditësimi do të instalohet herës tjetër kur të niset &brandShortName;-i. Mund ta rinisni  &brandShortName;-in tani, ose të vazhdoni të punoni e ta rinisni më vonë.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Përditësimi do të instalohet herës tjetër kur të niset &brandShortName;-i. Mund ta rinisni  &brandShortName;-in tani, ose të vazhdoni të punoni e ta rinisni më vonë.">
 <!ENTITY  finishedBackground.moreElevated "Ky përditësim lyp privilegje përgjegjësi. Përditësimi do të instalohet herës tjetër që niset &brandShortName;-i. Mund ta rinisni &brandShortName;-in tani, mund të vazhdoni punën dhe ta rinisni më vonë, ose ta hidhni poshtë këtë përditësim.">
 
-<!ENTITY  update.details.label            "Hollësi">
-<!ENTITY  update.installedOn.label        "Instaluar në:">
-<!ENTITY  update.status.label             "Gjendje:">

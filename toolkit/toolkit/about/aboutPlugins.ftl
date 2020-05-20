@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Rreth Shtojcash
+
 installed-plugins-label = Shtojca të instaluara
 no-plugins-are-installed-label = Nuk u gjetën shtojca të instaluara
+
 deprecation-description = Mungon ndonjë gjë? Disa shtojca nuk mbulohen më. <a data-l10n-name="deprecation-link">Mësoni Më Tepër.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Gjendje:</span> E aktivizuar
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Gjendje:</span> E aktivizuar ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Gjendje:</span> E çaktivizuar
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Gjendje:</span> E çaktivizuar ({ $blockListState })
+
 mime-type-label = Lloj MIME
 description-label = Përshkrim
 suffixes-label = Prapashtesa

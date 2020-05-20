@@ -28,8 +28,9 @@
 <!ENTITY AddPlainText.accesskey       "S">
 <!ENTITY DeleteHtmlDomain.label       "Fshije">
 <!ENTITY DeleteHtmlDomain.accesskey   "f">
-<!ENTITY DeletePlainText.accesskey    "f">
 <!ENTITY DeletePlainText.label        "Fshije">
+
+<!ENTITY DeletePlainText.accesskey    "f">
 
 <!ENTITY add.htmltitle                "Shtoni Emër Përkatësie HTML">
 <!ENTITY add.htmldomain               "Emër Përkatësie HTML:">

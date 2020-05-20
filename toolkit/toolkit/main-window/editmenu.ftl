@@ -6,24 +6,33 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console
 
+### This file contains the entities needed for the 'edit' menu
+### It's currently only used for the Browser Console and Developer Toolbox
+
 editmenu-undo =
     .label = Zhbëje
     .accesskey = Z
+
 editmenu-redo =
     .label = Ribëje
     .accesskey = R
+
 editmenu-cut =
     .label = Prije
     .accesskey = P
+
 editmenu-copy =
     .label = Kopjoje
     .accesskey = K
+
 editmenu-paste =
     .label = Ngjite
     .accesskey = N
+
 editmenu-delete =
     .label = Fshije
     .accesskey = F
+
 editmenu-select-all =
     .label = Përzgjidhe Krejt
     .accesskey = e

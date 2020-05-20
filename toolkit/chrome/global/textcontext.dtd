@@ -29,8 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Jepni Kredenciale Hyrjeje">
 <!ENTITY fillLoginMenu.accesskey      "J">
-<!ENTITY useGeneratedPassword.label   "Përdorni një Fjalëkalim të Prodhuar Në Mënyrë të Sigurt…">
-<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Jepni Fjalëkalimin">
 <!ENTITY fillPasswordMenu.accesskey   "J">
 <!ENTITY fillUsernameMenu.label       "Jepni Emër Përdoruesi">
