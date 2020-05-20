@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopijuoti
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Pažymėti viską
     .accesskey = v
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Bendroji
     .accesskey = B
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Vardas
 general-meta-content =
     .label = Reikšmė
+
 media-tab =
     .label = Įvairialypė terpė
     .accesskey = t
@@ -68,11 +73,13 @@ media-save-image-as =
     .accesskey = š
 media-preview =
     .value = Elemento peržiūra:
+
 perm-tab =
     .label = Leidimai
     .accesskey = L
 permissions-for =
     .value = Leidimai:
+
 security-tab =
     .label = Saugumas
     .accesskey = S
@@ -93,17 +100,22 @@ security-view-identity-validity =
     .value = Baigiasi:
 security-view-privacy =
     .value = Privatumas ir žurnalas
+
 security-view-privacy-history-value = Ar anksčiau jau lankiausi šioje svetainėje?
 security-view-privacy-sitedata-value = Ar ši svetainė turi įrašiusi duomenų mano kompiuteryje?
+
 security-view-privacy-clearsitedata =
     .label = Valyti slapukus ir svetainių duomenis
     .accesskey = V
+
 security-view-privacy-passwords-value = Ar turiu įsimintų šios svetainės slaptažodžių?
+
 security-view-privacy-viewpasswords =
     .label = Rodyti slaptažodžius
     .accesskey = o
 security-view-technical =
     .value = Techninė informacija
+
 help-button =
     .label = Žinynas
 
@@ -115,8 +127,10 @@ help-button =
 
 security-site-data-cookies = Taip, slapukų ir { $value } { $unit } svetainės duomenų
 security-site-data-only = Taip, { $value } { $unit } svetainės duomenų
+
 security-site-data-cookies-only = Taip, slapukų
 security-site-data-no = Ne
+
 image-size-unknown = nežinomas
 not-set-verified-by = nenurodytas
 page-info-not-specified =
@@ -136,6 +150,7 @@ media-video = vaizdo įrašas
 media-audio = garso įrašas
 saved-passwords-yes = Taip
 saved-passwords-no = Ne
+
 no-page-title =
     .value = neįvardytas tinklalapis
 general-quirks-mode =
@@ -151,6 +166,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Naudoti numatytąją nuostatą
 security-no-visits = Ne
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -162,6 +178,7 @@ general-meta-tags =
             [few] Metainformacija ({ $tags } gairės)
            *[other] Metainformacija ({ $tags } gairių)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +190,7 @@ security-visits-number =
         [few] Taip, { $visits } kartus
        *[other] Taip, { $visits } kartų
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -184,6 +202,7 @@ properties-general-size =
             [few] { $kb } KB ({ $bytes } baitai)
            *[other] { $kb } KB ({ $bytes } baitų)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -196,12 +215,14 @@ media-animated-image-type =
             [few] { $type } paveikslas (animuotas, { $frames } kadrai)
            *[other] { $type } paveikslas (animuotas, { $frames } kadrų)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } paveikslas
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -211,17 +232,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx } × { $dimy } taškai (-ų) (dydis pakeistas iki { $scaledx } × { $scaledy } taškų)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx } × { $dimy } taškai (-ų)
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -229,6 +253,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Nesiųsti paveikslų iš { $website }
     .accesskey = p
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Užverti
     .accesskey = U
+
 show-passwords =
     .label = Rodyti slaptažodžius
     .accesskey = s

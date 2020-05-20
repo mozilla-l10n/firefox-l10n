@@ -9,29 +9,40 @@ colors-window =
             [macos] width: 45em
            *[other] width: 42em
         }
+
 colors-close-key =
     .key = w
+
 colors-page-override = Naudoti ne tinklalapio nurodytas, o mano parinktas spalvas
     .accesskey = N
+
 colors-page-override-option-always =
     .label = visada
 colors-page-override-option-auto =
     .label = Tik naudojant grafinius apvalkalus su dideliu kontrastu
 colors-page-override-option-never =
     .label = niekada
+
 colors-text-and-background = Tekstas ir fonas
+
 colors-text-header = Tekstas
     .accesskey = T
+
 colors-background = Fonas
     .accesskey = F
+
 colors-use-system =
     .label = Spalvas imti iš operacinės sistemos
     .accesskey = o
+
 colors-underline-links =
     .label = Saitus pabraukti
     .accesskey = b
+
 colors-links-header = Saitų spalvos
+
 colors-unvisited-links = Neaplankyti saitai
     .accesskey = S
+
 colors-visited-links = Aplankyti saitai
     .accesskey = A

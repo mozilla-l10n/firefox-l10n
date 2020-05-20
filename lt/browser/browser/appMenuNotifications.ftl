@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = G
 appmenu-addon-private-browsing-message = Visi naujai priedai, kuriuos pridėsite į „{ -brand-shorter-name }“, neveiks privačiojo naršymo languose, nebent leisite tai per nuostatas.
 appmenu-addon-private-browsing-learn-more = Sužinokite, kaip tvarkyti priedų nuostatas.
+    
 appmenu-new-tab-controlled =
     .label = Pasikeitė jūsų nauja kortelė.
     .buttonlabel = Palikti pakeitimus

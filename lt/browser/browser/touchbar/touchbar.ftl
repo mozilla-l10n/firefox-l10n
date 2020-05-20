@@ -20,6 +20,7 @@ open-location = Įveskite adresą arba paieškos žodžius
 share = Dalintis
 close-window = Užverti langą
 open-sidebar = Parankinės
+
 # This string describes shortcuts for search.
 search-popover = Spartieji paieškos klavišai
 # Describes searches limited to a specific scope

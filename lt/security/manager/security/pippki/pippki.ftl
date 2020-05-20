@@ -8,6 +8,7 @@ password-quality-meter = Slaptažodžio kokybės matavimas
 
 change-password-window =
     .title = Pagrindinio slaptažodžio pakeitimas
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Saugumo priemonė: { $tokenName }

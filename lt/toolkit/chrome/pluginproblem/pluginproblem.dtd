@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
-<!ENTITY pluginActivationWarning                             "Ši svetainė naudoja papildinį, galintį sulėtinti „&brandShortName;“.">
 <!ENTITY tapToPlayPlugin                                     "Bakstelėkite čia, jeigu norite aktyvinti papildinį.">
 <!ENTITY clickToActivatePlugin                               "Aktyvinti papildinį.">
 <!ENTITY checkForUpdates                                     "Ieškoti naujinimų…">
 <!ENTITY blockedPlugin.label                                 "Šis papildinys užblokuotas jūsų saugumo sumetimais.">
 <!ENTITY hidePluginBtn.label                                 "Nerodyti papildinio">
 <!ENTITY managePlugins                                       "Tvarkyti papildinius…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

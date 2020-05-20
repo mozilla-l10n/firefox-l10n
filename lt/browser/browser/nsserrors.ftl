@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Bandant užmegzti ryšį su { $hostname } įvyko klaida. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Klaidos kodas: { $error }
+
 psmerr-ssl-disabled = Nepavyko užmegzti saugaus ryšio, nes SSL protokolo naudojimas išjungtas.
 psmerr-ssl2-disabled = Nepavyko užmegzti saugaus ryšio, nes svetainė naudoja seną, nesaugią SSL protokolo atmainą.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Gautas netinkamas liudijimas. Prašom susisiekti su serverio administratoriumi ar el. pašto korespondentu ir pranešti jam šią informaciją:
     
     Jūsų liudijimo numeris sutampa su kito liudijimo, išduoto tos pačios liudijimų įstaigos. Prašom įsigyti naują liudijimą su unikaliu serijos numeriu.
+
 ssl-error-export-only-server = Saugaus ryšio užmegzti nepavyko. Partnerinis kompiuteris nepalaiko aukšto lygio šifravimo.
 ssl-error-us-only-server = Saugaus ryšio užmegzti nepavyko. Partnerinis kompiuteris reikalauja aukšto lygio šifravimo, tačiau jis nepalaikomas.
 ssl-error-no-cypher-overlap = Saugaus ryšio užmegzti nepavyko, nes nerasta bendrų šifravimo algoritmų.

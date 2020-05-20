@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Ieškoti tolesnio frazės egzemplioriaus
 findbar-previous =
     .tooltiptext = Ieškoti ankstesnio frazės egzemplioriaus
+
 findbar-find-button-close =
     .tooltiptext = Užverti paieškos lauką
+
 findbar-highlight-all2 =
     .label = Viską paryškinti
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Paryškinti visus radinius
+
 findbar-case-sensitive =
     .label = Skirti raidžių registrą
     .accesskey = k
     .tooltiptext = Ieškoti, skiriant didžiąsias ir mažąsias raides
+
 findbar-match-diacritics =
     .label = Skirti diakritinius ženklus
     .accesskey = i
     .tooltiptext = Atskirti akcentuotas raides ir jų bazines raides (pvz., ieškant „resume“ nebus randama „résumé“)
+
 findbar-entire-word =
     .label = Ištisi žodžiai
     .accesskey = I

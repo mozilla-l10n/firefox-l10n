@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "O">
 
 <!ENTITY projectButton_label "Atverti programą">
+
 <!ENTITY runtimeButton_label "Pasirinkite įrenginį">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB įrenginiai">
 <!ENTITY runtimePanel_wifi "Belaidžiai įrenginiai">
 <!ENTITY runtimePanel_other "Kita…">
-<!ENTITY runtimePanel_noadbhelper "Įdiegti ADB pagelbiklį">
 <!ENTITY runtimePanel_nousbdevice "Nematote savo įrenginio?">
 <!ENTITY runtimePanel_refreshDevices_label "Atnaujinti įrenginius">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Įrenginio duomenys">
-<!ENTITY runtimedetails_adbIsRoot "„ADB“ vykdoma administratoriaus teisėmis: ">
-<!ENTITY runtimedetails_summonADBRoot "gauti įrenginio administratoriaus teises">
-<!ENTITY runtimedetails_ADBRootWarning "(reikalinga atrakinta paleidyklė)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Neapribotos „DevTools“ privilegijos: ">
-<!ENTITY runtimedetails_requestPrivileges "prašyti aukštesnių privilegijų">
-<!ENTITY runtimedetails_privilegesWarning "(Įrenginys bus perleistas. Reikalingos „root“ teisės.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Loginis">

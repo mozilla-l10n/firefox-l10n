@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Sužinoti daugiau apie <a data-l10n-name="learn-more">privatųjį naršymą</a>.
 about-private-browsing-info-visited = aplankytų tinklalapių
+
 privatebrowsingpage-open-private-window-label = Atverti privatųjį langą
     .accesskey = p
 about-private-browsing-info-notsaved = Kai naršote privačiajame lange, „{ -brand-short-name }“ <strong>neįsimena</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Šiuo metu jūs esate ne privačiajame lang
 content-blocking-title = Turinio blokavimas
 content-blocking-description = Kai kurios svetainės naudoja elementus, galinčius stebėti jūsų veiklą internete. Privačiojo naršymo languose „{ -brand-short-name }“ turinio blokavimas automatiškai blokuoja daugumą tokių elementų, galinčių rinkti informaciją apie jūsų naršymo įpročius.
 about-private-browsing-info-description = „{ -brand-short-name }“ išvalo jūsų paieškos ir naršymo žurnalą kai išjungiate programą, arba užveriate visas privačiojo naršymo korteles ir langus. Nors tai ir nepadaro jūsų anonimu internete, taip lengviau galite išlaikyti savo privatumą nuo kitų šiuo kompiuteriu besinaudojančių žmonių.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Paskyros nuostatos">
 <!ENTITY accountName.label "Paskyros pavadinimas:">
 <!ENTITY accountName.accesskey "P">

@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "v">
 <!ENTITY exitFullScreenCmd.label "Grįžti iš viso ekrano">
 <!ENTITY exitFullScreenCmd.accesskey "v">
+
 <!ENTITY fullScreenCmd.label "Visas ekranas">
 <!ENTITY fullScreenCmd.accesskey "V">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Patvirtinkite savo paskyrą">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Suskleisti">
 <!ENTITY fullScreenRestore.tooltip "Normalioji veiksena">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Paskyros nuostatos">
 <!ENTITY fxa.menu.manageAccount2.label "Tvarkyti paskyrą">
 <!ENTITY fxa.menu.signOut.label "Atsijungti…">
-<!ENTITY fxa.menu.deviceSettings.label "Įrenginio nuostatos">
 <!ENTITY fxa.menu.setupSync.label "Konfigūruoti „&syncBrand.shortName.label;“…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Eiti į adreso lauke surinktą adresą">
+
 <!ENTITY printButton.label            "Spausdinti">
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Tvarkyti DRM programinės įrangos naudojimą">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Atverti MIDI polangį">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Šiai svetainei esate suteikę papildomų leidimų.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Šioje svetainėje esate užblokavę savo kamerą.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Šioje svetainėje esate užblokavę savo mikrofoną.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Šiai svetainei neleidžiate dalintis ekrano vaizdu.">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Šioje svetainėje esate užblokavę priedų diegimą.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Šiai svetainei esate suteikę papildomų leidimų.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
+
 
 <!ENTITY searchItem.title             "Paieška">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "s">
 <!ENTITY manageUserContext.label          "Tvarkyti sudėtines korteles">
 <!ENTITY manageUserContext.accesskey      "u">
+
 <!ENTITY newNavigatorCmd.label        "Naujas langas">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "l">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Daugiau">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Įveskite adresą arba paieškos žodžius">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Įtraukti kadrą į adresyną">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
+
 <!ENTITY pageAction.copyLink.label    "Kopijuoti saitą">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Įrašyti į „Pocket“">
+
 <!ENTITY saveToPocketCmd.label        "Įrašyti tinklalapį į „Pocket“">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Įrašyti saitą į „Pocket“">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Saugus ryšys">
 <!ENTITY identity.connectionNotSecure "Ryšys nėra saugus">
 
-<!ENTITY identity.connectionSecure3 "Ryšys saugus">
-<!ENTITY identity.connectionNotSecure2 "Ryšys nesaugus">
-<!ENTITY identity.connectionNotSecureSecurityView "Nesate saugiai prisijungę prie šios svetainės.">
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
 <!ENTITY identity.connectionVerified2 "Esate saugiai prisijungę prie šios svetainės, kurią valdo:">
-<!ENTITY identity.connectionVerified3 "Esate saugiai prisijungę prie šios svetainės.">
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
 <!ENTITY identity.extensionPage "Šis tinklalapis yra įkeltas iš priedo.">
 <!ENTITY identity.insecureLoginForms2 "Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.">
 <!ENTITY identity.customRoot "Ryšį patvirtino liudijimo išdavėjas, kurio „Mozilla“ neatpažino.">
-
-<!ENTITY identity.evOwnerLabel2 "Kam išduotas liudijimas:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "„&brandShortName;“ užblokavo nesaugias šio tinklalapio dalis.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Leidimai">
 
-<!ENTITY identity.permissions3 "Leidimai">
 <!ENTITY identity.permissionsEmpty "Šiai svetainei nesate suteikę jokių ypatingų leidimų.">
 <!ENTITY identity.permissionsReloadHint "Kad būtų pritaikyti pakeitimai, tinklalapį galimai reikia atsiųsti iš naujo.">
 <!ENTITY identity.permissionsPreferences.tooltip "Atverti leidimų nuostatas">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Užverti">
 

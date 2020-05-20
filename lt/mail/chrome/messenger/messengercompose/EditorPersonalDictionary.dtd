@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "P">
 <!ENTITY DictionaryList.label "Žodyno žodžiai:">
 <!ENTITY DictionaryList.accessKey "Ž">
-<!ENTITY ReplaceButton.label "Pakeisti">
-<!ENTITY ReplaceButton.accessKey "k">
 <!ENTITY RemoveButton.label "Pašalinti">
 <!ENTITY RemoveButton.accessKey "š">
 

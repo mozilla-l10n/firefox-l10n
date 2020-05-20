@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Naudoti teikėją
     .accesskey = N
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (numatytasis)
     .tooltiptext = Numatytoji URI serverių paieškai (DNS) HTTPS protokolu
+
 connection-dns-over-https-url-custom =
     .label = Kita
     .accesskey = k
     .tooltiptext = Nurodykite norimą URI serverių paieškai (DNS) HTTPS protokolu
+
 connection-dns-over-https-custom-label = Kita

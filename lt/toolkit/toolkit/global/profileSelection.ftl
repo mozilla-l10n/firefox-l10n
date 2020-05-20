@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = „{ -brand-short-name }“ profilio pasirinkimas
+
 profile-selection-button-accept =
     .label = Paleisti „{ -brand-short-name }“
+
 profile-selection-button-cancel =
     .label = Baigti darbą
+
 profile-selection-new-button =
     .label = Sukurti profilį…
     .accesskey = k
+
 profile-selection-rename-button =
     .label = Pervardyti profilį…
     .accesskey = v
+
 profile-selection-delete-button =
     .label = Pašalinti profilį…
     .accesskey = š
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = „{ -brand-short-name }“ nuostatos, tinklaviečių adresynas, laiškai ir kt. informacija laikoma naudotojo profilyje.
+
 profile-manager-work-offline =
     .label = Dirbti neprisijungus prie tinklo
     .accesskey = D
+
 profile-manager-use-selected =
     .label = Ateityje neklausiant naudoti nurodytą profilį
     .accesskey = A

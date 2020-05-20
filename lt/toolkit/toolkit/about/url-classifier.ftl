@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Saugaus naršymo žurnalo moduliai
 url-classifier-debug-modules = Dabartiniai žurnalo moduliai
 url-classifier-debug-sbjs-modules = Saugaus naršymo JS žurnalas
 url-classifier-debug-file = Dabartinis žurnalo failas
+
 url-classifier-trigger-update = Sukelti atnaujinimą
 url-classifier-not-available = Nėra
 url-classifier-disable-sbjs-log = Išjungti saugaus naršymo JS žurnalą

@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Jūsų prašoma nurodyti, ką patikite naujai liudijimų įstaigai (LĮ).">
 <!ENTITY downloadCert.trustSSL "Patikėti šiai LĮ paliudyti svetainių tapatumą.">
 <!ENTITY downloadCert.trustEmail "Patikėti šiai LĮ paliudyti el. pašto abonentų tapatumą.">
-<!ENTITY downloadCert.trustObjSign "Patikėti šiai LĮ paliudyti programinės įrangos gamintojų tapatumą.">
 <!ENTITY downloadCert.message3 "Prieš ką nors patikint liudijimo įstaigai, reikėtų susipažinti su jos liudijimu, politika ir veikla (jei tokia galimybė yra).">
 <!ENTITY downloadCert.viewCert.label "Peržiūra">
 <!ENTITY downloadCert.viewCert.text "Susipažinti su LĮ liudijimu">

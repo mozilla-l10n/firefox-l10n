@@ -2,12 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-toolbar-sync-now =
-    .label = Sinchronizuoti dabar
 fxa-toolbar-sync-syncing =
     .label = Sinchronizuojama…
 fxa-toolbar-sync-syncing-tabs =
     .label = Sinchronizuojamos kortelės…
+
 sync-disconnect-dialog-title = Atjungti „{ -sync-brand-short-name }“?
 sync-disconnect-dialog-body = „{ -brand-product-name }“ nebesinchronizuos duomenų su jūsų paskyra, bet šiame įrenginyje jau esančių naršymo duomenų nepašalins.
 fxa-disconnect-dialog-title = Atjungti „{ -brand-product-name }“?
