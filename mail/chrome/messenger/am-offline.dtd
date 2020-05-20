@@ -2,10 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY doNotDownloadPop3Movemail.label "Per estalviar d'espaci de disc, telecargar pas :">
-<!ENTITY doNotDownload.label "Per estalviar d'espaci de disc, telecargar pas per utilizacion fòra linha :">
-<!ENTITY allFoldersOffline.label "Conservar los messatges d'aqueste compte sus aqueste ordenador">
-<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY doNotDownloadPop3Movemail.label "Per estalviar d'espaci de disc, telecargar pas :">
 <!ENTITY offlineNotDownload.label "Los messatges que la talha depassa">
 <!ENTITY offlineNotDownload.accesskey "t">
 <!ENTITY kb.label "ko">
@@ -22,17 +19,12 @@
 <!ENTITY retentionKeepMsg.accesskey "S">
 <!ENTITY retentionKeepAll.label "Suprimir pas cap de messatge">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Suprimir totes los messatges levats los">
-<!ENTITY retentionKeepNew.accesskey "u">
-<!ENTITY retentionKeepUnread.label "Suprimir totjorn los messatges legits">
-<!ENTITY retentionKeepUnread.accesskey "T">
 <!ENTITY retentionApplyToFlagged.label "Conservar totjorn los messatges seguits">
 <!ENTITY retentionApplyToFlagged.accesskey "c">
-<!ENTITY nntpRemoveBody.label "Unicament los còsses de messatges qu'an mens de">
-<!ENTITY nntpRemoveBody.accesskey "o">
 <!ENTITY offlineSelectNntp.label "Seleccion gropes per utilizacion fòra linha…">
 <!ENTITY offlineSelectNntp.accesskey "S">
 <!ENTITY offlineImapAdvancedOffline.label "Avançat…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "A">
 <!ENTITY syncGroupTitle.label "Sincronizacion dels messatges">
 <!ENTITY diskspaceGroupTitle.label "Espaci de disc ">
+

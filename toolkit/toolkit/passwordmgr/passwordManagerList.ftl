@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Tampar
     .accesskey = T
+
 show-passwords =
     .label = Mostrar los senhals
     .accesskey = S

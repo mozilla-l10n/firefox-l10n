@@ -54,6 +54,7 @@ close-tab =
     .title = Tampar l’onglet
 show-addon =
     .title = Mostrar dins lo gestionari de moduls complementaris
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

@@ -8,6 +8,7 @@ password-quality-meter = Mesura de la qualitat del senhal
 
 change-password-window =
     .title = Modificar lo senhal principal
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Periferic de seguretat: { $tokenName }

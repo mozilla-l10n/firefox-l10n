@@ -1,10 +1,9 @@
-﻿<!ENTITY aboutDialog.title "A prepaus de &brandFullName;">
-<!ENTITY credits.label "Contributors">
-<!ENTITY credits.accesskey "C">
-<!ENTITY aboutLink.label "&lt; A prepaus de &brandShortName;">
-<!ENTITY aboutLink.accesskey "o">
-<!ENTITY aboutVersion "version">
-<!ENTITY copyrightText "&#169;1998-2009 Los contributors. Totes los dreches reservats. Mozilla Thunderbird
-                                    e los lògos Thunderbird son de marcas depausadas de la Mozilla Foundation.
-                                    Totes los dreches reservats.">
+<!ENTITY aboutDialog.title "A prepaus de &brandFullName;">
+
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
+
+
 <!ENTITY cmdCloseMac.commandKey "w">

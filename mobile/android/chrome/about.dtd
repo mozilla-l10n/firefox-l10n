@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "A prepaus de &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; es experimental e pòt èsser instable.">
-<!ENTITY aboutPage.telemetryStart               " Manda automaticament d’informacions sus las performàncias, lo material, l’utilizacion e las personalizacions a ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " per ajudar a melhorar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Verificar las mesas a jorn »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Recèrca de mesas a jorn…">
 <!ENTITY aboutPage.checkForUpdates.none         "Cap de mesa a jorn pas disponibla">

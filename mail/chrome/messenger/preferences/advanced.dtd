@@ -2,8 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY itemGeneral.label       "General">
-<!ENTITY itemDisplay.label       "Lectura e afichatge">
+<!ENTITY itemGeneral.label       "General">
 <!ENTITY itemUpdate.label        "Mesa a jorn">
 <!ENTITY itemNetworking.label    "Ret e espaci de disc">
 <!ENTITY itemCertificates.label  "Certificats">
@@ -12,11 +11,9 @@
 
 <!ENTITY enableGlodaSearch.label "Activar la recèrca e l'indexacion globalas">
 <!ENTITY enableGlodaSearch.accesskey "c">
-<!ENTITY systemDefaults.label "Paramètres del sistèma per defaut">
+
 <!ENTITY alwaysCheckDefault.label "Verificar totjorn se &brandShortName; es lo client de messatjariá per defaut a l'aviada :">
 <!ENTITY alwaysCheckDefault.accesskey "T">
-<!ENTITY checkNow.label "Verificar ara">
-<!ENTITY checkNow.accesskey "V">
 <!ENTITY configEditDesc.label "Configuracion avançada">
 <!ENTITY configEdit.label "Editor de configuracion…">
 <!ENTITY configEdit.accesskey "d">
@@ -24,43 +21,7 @@
 <!ENTITY showReturnReceipts.label "Accusats de recepcion…">
 <!ENTITY showReturnReceipts.accesskey "A">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption "Lectura">
-<!ENTITY display.caption "Afichatge">
-<!ENTITY showCondensedAddresses.label "Afichar pas que lo nom per las personas que se tròban dins lo quasernet d'adreças">
-<!ENTITY showCondensedAddresses.accesskey "N">
-
-<!ENTITY autoMarkAsRead.label          "Marcar automaticament los messatges coma legits">
-<!ENTITY autoMarkAsRead.accesskey      "M">
-<!ENTITY markAsReadNoDelay.label       "Tre l'afichatge">
-<!ENTITY markAsReadNoDelay.accesskey   "D">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "Aprèp un relambi de">
-<!ENTITY markAsReadDelay.accesskey     "A">
-<!ENTITY secondsLabel.label            "segondas">
-<!ENTITY openMsgIn.label               "Dobrir los messatges dins :">
-<!ENTITY reuseExpRadio0.label          "una fenèstra novèla">
-<!ENTITY reuseExpRadio0.accesskey      "U">
-<!ENTITY reuseExpRadio1.label          "una fenèstra existenta">
-<!ENTITY reuseExpRadio1.accesskey      "e">
-
 <!-- Update -->
-<!ENTITY autoCheck.label                "Recercar automaticament de mesas a jorn per :">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "T">
-<!ENTITY enableAddonsUpdate.label       "los moduls installats">
-<!ENTITY enableAddonsUpdate.accesskey   "m">
-<!ENTITY whenUpdatesFound.label         "Quand de mesas a jorn per &brandShortName; son disponiblas :">
-<!ENTITY modeAskMe.label                "demandar çò que cal far">
-<!ENTITY modeAskMe.accesskey            "d">
-<!ENTITY modeAutomatic.label            "telecargar e installar automaticament las mesas a jorn">
-<!ENTITY modeAutomatic.accesskey        "c">
-<!ENTITY modeAutoAddonWarn.label        "avisar s'aquò desactiva de moduls">
-<!ENTITY modeAutoAddonWarn.accesskey    "v">
-<!ENTITY showUpdates.label              "Afichar l'istoric de las mesas a jorn">
-<!ENTITY showUpdates.accesskey          "A">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Paramètres…">
@@ -73,9 +34,6 @@
 <!ENTITY showOffline.accesskey         "H">
 
 <!ENTITY Diskspace "Espaci de disc">
-<!ENTITY offlineCompact.label "Compactar los dorsièrs quand aquò estalvia al mens">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY kb.label "Ko">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -90,12 +48,6 @@
 <!ENTITY clearCacheNow.label             "Voidar l'amagatal ara">
 <!ENTITY clearCacheNow.accesskey         "V">
 
-<!-- Certificates -->
-<!ENTITY viewCertificates.label        "Veire los certificats">
-<!ENTITY viewCertificates.accesskey    "o">
-<!ENTITY viewCRLs.label                "Listas de revocacion">
-<!ENTITY viewCRLs.accesskey            "L">
-<!ENTITY validation.label              "Validacion">
-<!ENTITY validation.accesskey          "V">
 <!ENTITY viewSecurityDevices.label     "Periferics de seguretat">
 <!ENTITY viewSecurityDevices.accesskey "P">
+

@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Per ne saber mai sus <a data-l10n-name="learn-more">navegacion privada</a>.
 about-private-browsing-info-visited = Las paginas visitadas
+
 privatebrowsingpage-open-private-window-label = Dobrir una fenèstra de navegacion privada
     .accesskey = p
 about-private-browsing-info-notsaved = Quand navegatz dins una fenèstra de navegacion privada, { -brand-short-name } <strong>enregistra pas</strong> :
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Pel moment, sètz pas dins una fenèstra de
 content-blocking-title = Blocatge de contengut
 content-blocking-description = De sites web utilizan de traçadors que pòdon seguir vòstra activitat sus internet. En fenèstra privada, lo blocatge de contengut de { -brand-short-name } bloca mantuns traçadors que pòdon reculhir d’informacions sus vòstre compòrtament de navegacion.
 about-private-browsing-info-description = { -brand-short-name } escafa vòstre istoric de recèrcas e de navegacion quand quitatz l’aplicacion o tampatz totes los onglets e fenèstras de navegacion privada. Malgrat qu’aquò vos faga pas venir anonim pels sites web o vòstre provesidor Internet, fa venir mai simple de gardar privat çò que fasètz en linha pels autres qu’utilizan aqueste ordenador.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

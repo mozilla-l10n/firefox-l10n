@@ -9,24 +9,12 @@ ok = D'acòrdi
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = Sufix DNS
 websockets = WebSockets
 refresh = Refrescar
 auto-refresh = Actualizar automaticament cada 3 segondas
 hostname = Nom d'òste
 port = Pòrt
 http2 = HTTP/2
-about-networking-title = Informacions ret
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = Sufix DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = Refrescar
-about-networking-auto-refresh = Actualizar automaticament cada 3 segondas
-about-networking-hostname = Nom d'òste
-about-networking-port = Pòrt
-about-networking-http-version = Version HTTP
 ssl = SSL
 active = Actiu
 idle = Inactiu
@@ -69,8 +57,18 @@ rcwn-avg-long = Longa mejana
 rcwn-std-dev-long = Long escart tipe
 rcwn-cache-slow = Comptador d'escondedor lent
 rcwn-cache-not-slow = Comptador d'escondedor non lent
-networkid = ID de la ret
-networkid-id = ID de la ret
+
+about-networking-title = Informacions ret
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = Sufix DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Refrescar
+about-networking-auto-refresh = Actualizar automaticament cada 3 segondas
+about-networking-hostname = Nom d'òste
+about-networking-port = Pòrt
+about-networking-http-version = Version HTTP
 about-networking-ssl = SSL
 about-networking-active = Actiu
 about-networking-idle = Inactiu
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID de la ret
 
 ## Link is intended as "network link"
 
-networkid-isUp = Ligason establida
-networkid-statusKnown = L’estat de la ligason es conegut
 about-networking-networkid-is-up = Ligason establida
 about-networking-networkid-status-known = L’estat de la ligason es conegut
 

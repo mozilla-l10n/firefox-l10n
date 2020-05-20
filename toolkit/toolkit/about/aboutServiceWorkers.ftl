@@ -9,6 +9,7 @@ about-service-workers-title = A prepaus dels servicis Workers
 about-service-workers-main-title = Servici Workers enregistrats
 about-service-workers-warning-not-enabled = Los Servicis Workers son pas activats.
 about-service-workers-warning-no-service-workers = Cap de servici Workers pas enregistrat.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Nom de cache actiu :</strong> { $name }
 waiting-cache-name = <strong>Nom de cache en espèra :</strong> { $name }
 push-end-point-waiting = <strong>Punt de terminason pel mandadís :</strong> { waiting }
 push-end-point-result = <strong>Punt de terminason pel mandadís :</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Metre a jorn
+
 unregister-button = Desinscriure
+
 unregister-error = Fracàs de la desinscripcion d'aqueste Service Worker.
+
 waiting = En espèra…

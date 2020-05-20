@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY addressbookWindow.title "Quasernet d'adreças">
+<!ENTITY addressbookWindow.title "Quasernet d'adreças">
 
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fichièr">
@@ -76,9 +76,7 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                        "Modificar…">
 
-<!ENTITY propertiesCmd.accesskey                    "i">
 <!ENTITY propertiesCmd.key                          "i">
 
 <!-- View Menu -->
@@ -92,12 +90,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "t">
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Resumit de la ficha del contacte">
-<!ENTITY showContactPane.accesskey                      "c">
 <!ENTITY menu_ShowNameAs.label				"Veire lo nom coma">
 <!ENTITY menu_ShowNameAs.accesskey			"n">
-<!ENTITY firstLastCmd.label				"Pichon nom, Nom">
-<!ENTITY firstLastCmd.accesskey				"p">
 <!ENTITY lastFirstCmd.label				"Nom, Pichon nom">
 <!ENTITY lastFirstCmd.accesskey				"N">
 <!ENTITY displayNameCmd.label				"Nom d'afichar">
@@ -117,8 +111,6 @@
 <!ENTITY importCmd.accesskey                            "i">
 <!ENTITY exportCmd.label				"Exportar…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "Options…">
-<!ENTITY preferencesCmd.accesskey                       "p">
 <!ENTITY preferencesCmdUnix.label                       "Preferéncias">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
@@ -127,8 +119,6 @@
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Lista novèla">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Proprietats">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Escriure">
 <!ENTITY newmsgButton.accesskey                         "c">
 <!ENTITY newIM.label                                    "Messatge instantanèu">
@@ -139,13 +129,9 @@
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Crear un contacte novèl">
 <!ENTITY newlistButton.tooltip "Crear una lista de difusion novèla">
-<!ENTITY editButton2.tooltip "Modificar l'element seleccionat">
 <!ENTITY newmsgButton.tooltip "Redigir un corrièr a la seleccion">
 <!ENTITY newIM.tooltip "Mandar un messatge instantanèu o aviar un chat">
 <!ENTITY deleteButton2.tooltip "Suprimir l'element seleccionat">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Quasernet d'adreças">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Lo nom o l'adreça">
@@ -159,8 +145,6 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "Adreça electronica">
 <!ENTITY PrimaryEmail.accesskey                         "d">
-<!ENTITY ScreenName.label                               "Escais">
-<!ENTITY ScreenName.accesskey                           "o">
 <!ENTITY Company.label                                  "Societat">
 <!ENTITY Company.accesskey                              "s">
 <!ENTITY NickName.label                                 "Escais">

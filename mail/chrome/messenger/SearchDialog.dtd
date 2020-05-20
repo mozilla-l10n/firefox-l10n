@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- for SearchDialog.xul -->
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "Recercar de messatges dins :">
 <!ENTITY searchHeading.accesskey     "d">
 <!ENTITY searchSubfolders.label      "Recercar dins los sosdorsièrs">
@@ -15,13 +15,7 @@
 <!ENTITY deleteButton.accesskey      "e">
 <!ENTITY searchDialogTitle.label "Recercar los messatges">
 <!ENTITY results.label               "Resultats">
-<!ENTITY fileHereMenu.label          "Classar aicí">
-<!ENTITY fileHereMenu.accesskey      "C">
-<!ENTITY fileButton.label            "Classar">
-<!ENTITY fileButton.accesskey        "l">
 <!ENTITY closeCmd.key                "W">
-<!ENTITY goToFolderButton.label      "Anar al dorsièr del messatge">
-<!ENTITY goToFolderButton.accesskey  "l">
 <!ENTITY saveAsVFButton.label        "Salvar coma dorsièr virtual">
 <!ENTITY saveAsVFButton.accesskey    "v">
 
@@ -34,43 +28,3 @@
 <!ENTITY composeButton.accesskey     "r">
 <!ENTITY abSearchDialogTitle.label   "Recèrca avançada dins lo quasernet d'adreças">
 
-<!-- Thread Pane -->
-<!ENTITY threadColumn.label "Discussion">
-<!ENTITY fromColumn.label "Expeditor">
-<!ENTITY recipientColumn.label "Destinatari">
-<!ENTITY subjectColumn.label "Subjècte">
-<!ENTITY dateColumn.label "Data">
-<!ENTITY priorityColumn.label "Prioritat">
-<!ENTITY tagsColumn.label "Etiquetas">
-<!ENTITY accountColumn.label "Compte">
-<!ENTITY statusColumn.label "Estat">
-<!ENTITY sizeColumn.label "Talha">
-<!ENTITY junkStatusColumn.label "Estatut indesirable">
-<!ENTITY unreadColumn.label "Pas legit">
-<!ENTITY totalColumn.label "Total">
-<!ENTITY readColumn.label "Legit">
-<!ENTITY receivedColumn.label "Recebut">
-<!ENTITY starredColumn.label "Seguit">
-<!ENTITY locationColumn.label "Adreça">
-<!ENTITY idColumn.label "Òrdre de recepcion">
-
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clicatz per causir las colomnas d'afichar">
-<!ENTITY threadColumn.tooltip "Clicatz per afichar los fials de discussion"> 
-<!ENTITY fromColumn.tooltip "Clicatz per triar per expeditor">
-<!ENTITY recipientColumn.tooltip "Clicatz per triar per destinatari">
-<!ENTITY subjectColumn.tooltip "Clicatz per triar per subjècte">
-<!ENTITY dateColumn.tooltip "Clicatz per triar per data">
-<!ENTITY priorityColumn.tooltip "Clicatz per triar per prioritat">
-<!ENTITY tagsColumn.tooltip "Clicatz per triar per etiquetas">
-<!ENTITY accountColumn.tooltip "Clicatz per triar per compte">
-<!ENTITY statusColumn.tooltip "Clicatz per triar per estatut">
-<!ENTITY sizeColumn.tooltip "Clicatz per triar per talha">
-<!ENTITY junkStatusColumn.tooltip "Clicatz per triar per estatut indesirable">
-<!ENTITY unreadColumn.tooltip "Nombre de messatges pas legits dins lo fial">
-<!ENTITY totalColumn.tooltip "Nombre total de messatges dins lo fial">
-<!ENTITY readColumn.tooltip "Clicatz per triar per estatut de lectura">
-<!ENTITY receivedColumn.tooltip "Clicatz per triar per data de recepcion">
-<!ENTITY starredColumn.tooltip "Clicatz per triar per seguit">
-<!ENTITY locationColumn.tooltip "Clicatz per triar per adreça">
-<!ENTITY idColumn.tooltip "Clicatz per triar per òrdre recebut">

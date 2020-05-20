@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
+<!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Redaccion del messatge">
 
 <!-- File menu -->
@@ -70,25 +70,23 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY editRewrapCmd.label "Reformater">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "o">
 <!ENTITY deleteCmd.label "Effacer">
 <!ENTITY deleteCmd.accesskey "e">
+<!ENTITY editRewrapCmd.label "Reformater">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T"> 
-<!ENTITY findCmd.label "Rechercher et remplacer…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "h">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Rechercher le suivant">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "v">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Rechercher le précédent">
+<!ENTITY findPrevCmd.accesskey "d">
+
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "d">
 
 <!-- View menu -->
 <!ENTITY viewMenu.label "Affichage"> 
@@ -131,8 +129,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Notification d'état de la distribution">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "Format">
-<!ENTITY outputFormatMenu.accesskey  "f">
 <!ENTITY autoFormatCmd.label "Détection automatique">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Texte seulement">
@@ -167,11 +163,6 @@
 <!ENTITY addressBookCmd.label "Carnet d'adresses">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Paramètres des comptes…">
-<!ENTITY accountManagerCmd.accesskey "m">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Options…">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "Préférences">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
@@ -195,12 +186,12 @@
 <!ENTITY sendlaterButton.tooltip "Envoyer ce message plus tard">
 <!ENTITY quoteButton.tooltip "Citer le précédent message">
 <!ENTITY addressButton.tooltip "Sélectionner un destinataire du carnet d'adresses">
-<!ENTITY attachButton.tooltip "Inclure une pièce jointe">
 <!ENTITY saveButton.tooltip "Enregistrer ce message">
 <!ENTITY cutButton.tooltip              "Couper">
 <!ENTITY copyButton.tooltip             "Copier">
 <!ENTITY pasteButton.tooltip            "Coller">
 
+<!-- Headers -->
 <!-- Headers -->
 <!ENTITY fromAddr.label "Expéditeur :">
 <!ENTITY fromAddr.accesskey "x">
@@ -212,7 +203,6 @@
 <!ENTITY followupAddr.label "Faire suivre à :"> 
 <!ENTITY subject.label  "Sujet :">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "Pièces jointes :">
 <!ENTITY attachments.accesskey "j">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
@@ -264,5 +254,8 @@
 <!ENTITY attachPage.label "Joindre page Web…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Contacts">
+

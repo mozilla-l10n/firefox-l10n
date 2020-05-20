@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
@@ -27,3 +28,4 @@ be used as text for a link to MDN. -->
 <!ENTITY remoteHelp "Las aisinas de desvolopament de Firefox permeton de desbugar d'aparelhs distants (Firefox per Android e Firefox OS, per exemple). Asseguratz-vos d'aver activat l'opcion « Desbugatge distant » sus l'aparelh distant. Per mai d'informacions, consultatz la">
 <!ENTITY remoteDocumentation "documentacion">
 <!ENTITY remoteHelpSuffix ".">
+

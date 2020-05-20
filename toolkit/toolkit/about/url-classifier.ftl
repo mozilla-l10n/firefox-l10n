@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Moduls de jornalizacion pel blocatge de sites 
 url-classifier-debug-modules = Moduls de jornalizacion actuals
 url-classifier-debug-sbjs-modules = Jornal JS del blocatge de sites malvolents
 url-classifier-debug-file = Fichièr de jornalizacion actual
+
 url-classifier-trigger-update = Desenclavar una mesa a jorn
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Desactivar la jornalizaction JS del blocatge de sites malvolents

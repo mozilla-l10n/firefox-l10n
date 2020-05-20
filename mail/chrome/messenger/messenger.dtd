@@ -2,25 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY messengerWindow.title "Corrièr">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Dorsièr…">
 <!ENTITY newFolderCmd.accesskey "D">
-<!ENTITY closeTabCmd.label "Tampar l'onglet">
-<!ENTITY closeTabCmd.accesskey "m">
+
 <!ENTITY newVirtualFolderCmd.label "Dorsièr virtual…">
 <!ENTITY newVirtualFolderCmd.accesskey "v">
-<!ENTITY newAccountCmd.label "Compte…">
-<!ENTITY newAccountCmd.accesskey "m">
-<!ENTITY newMailAccountCmd.label "Compte (configuracion rapida)…">
-<!ENTITY newMailAccountCmd.accesskey "o">
 <!ENTITY openMessageFileCmd.label "Dobrir un fichièr de messatge…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "Pèças juntas">
-<!ENTITY openAttachmentCmd.accesskey "j">
 <!ENTITY saveAsMenu.label "Enregistrar coma">
 <!ENTITY saveAsMenu.accesskey "s">
 <!ENTITY saveAsFileCmd.label "Fichièr">
@@ -28,15 +20,12 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Modèl">
 <!ENTITY saveAsTemplateCmd.accesskey "M">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Relevar los messatges novèls per">
 <!ENTITY getNewMsgForCmd.accesskey "l">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Totes los comptes">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Lo compte en cors d'utilizacion">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "L">
-<!ENTITY getNextNMsgCmd.label "Relevar los 500 messatges venents">
-<!ENTITY getNextNMsgCmd.accesskey "p">
 <!ENTITY sendUnsentCmd.label "Mandar los messatges en espèra">
 <!ENTITY sendUnsentCmd.accesskey "a">
 <!ENTITY subscribeCmd.label "S'abonar…">
@@ -56,8 +45,6 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "h">
 <!ENTITY synchronizeOfflineCmd.label "Telecargar/Sincronizar ara…">
 <!ENTITY synchronizeOfflineCmd.accesskey "T">
-<!ENTITY settingsOfflineCmd.label "Paramètres fòra linha…">
-<!ENTITY settingsOfflineCmd.accesskey "P">
 <!ENTITY downloadSelectedCmd.label "Recuperar los messatges seleccionats">
 <!ENTITY downloadSelectedCmd.accesskey "R">
 <!ENTITY downloadStarredCmd.label "Recuperar los messatges seguits">
@@ -75,14 +62,10 @@
 <!ENTITY deleteMsgCmd.accesskey "S">
 <!ENTITY undeleteMsgCmd.label "Recuperar lo messatge">
 <!ENTITY undeleteMsgCmd.accesskey "R">
-<!ENTITY cancelNewsMsgCmd.label "Anullar lo messatge">
-<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY deleteMsgsCmd.label "Suprimir los messatges seleccionats">
 <!ENTITY deleteMsgsCmd.accesskey "S">
 <!ENTITY undeleteMsgsCmd.label "Recuperar los messatges seleccionats">
 <!ENTITY undeleteMsgsCmd.accesskey "R">
-<!ENTITY cancelNewsMsgsCmd.label "Anullar los messatges seleccionats">
-<!ENTITY cancelNewsMsgsCmd.accesskey "A">
 <!ENTITY deleteFolderCmd.label "Suprimir lo dorsièr">
 <!ENTITY deleteFolderCmd.accesskey "d">
 <!ENTITY unsubscribeNewsgroupCmd.label "Se desabonar">
@@ -98,9 +81,6 @@
 <!ENTITY selectFlaggedCmd.accesskey "u">
 <!ENTITY menuFavoriteFolder.label "Dorsièr preferit">
 <!ENTITY menuFavoriteFolder.accesskey "D">
-<!ENTITY folderPropsCmd.label "Proprietats del dorsièr">
-<!ENTITY folderPropsFolderCmd.label "Proprietats del dorsièr…">
-<!ENTITY folderPropsNewsgroupCmd.label "Proprietats del grop…">
 <!ENTITY folderPropsCmd.accesskey "o">
 <!ENTITY undoDeleteMsgCmd.label "Anullar l'escafament">
 <!ENTITY redoDeleteMsgCmd.label "Restablir lo messatge escafat">
@@ -204,6 +184,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "l">
 <!ENTITY ignoredThreadsCmd.label "Discussions ignoradas">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "Entèstas">
 <!ENTITY headersMenu.accesskey "n">
 <!ENTITY headersAllCmd.label "Complets">
@@ -218,6 +199,7 @@
 <!ENTITY bodySanitized.accesskey "s">
 <!ENTITY bodyAsPlaintext.label "Tèxte sol">
 <!ENTITY bodyAsPlaintext.accesskey "x">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Afichar las pèças juntas dins los messatges">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
 
@@ -227,27 +209,6 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.
 -->
-
-<!ENTITY fullZoomEnlargeCmd.label       "Agrandir">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "A">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "Reduire">
-<!ENTITY fullZoomReduceCmd.accesskey    "R">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "Normal">
-<!ENTITY fullZoomResetCmd.accesskey     "N">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "Zoom tèxte solament">
-<!ENTITY fullZoomToggleCmd.accesskey    "x">
-<!ENTITY fullZoom.label                 "Zoom">
-<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY pageSourceCmd.label "Còde font del messatge">
 <!ENTITY pageSourceCmd.accesskey "s">
@@ -306,6 +267,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY prevStarredMsgCmd.accesskey "v">
 <!ENTITY startPageCmd.label "Pagina d'aviada">
 <!ENTITY startPageCmd.accesskey "g">
+
 <!ENTITY msgMenu.label "Messatges">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "Nouveau message">
@@ -315,13 +277,13 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY archiveMsgCmd.label "Archiu">
 <!ENTITY archiveMsgCmd.accesskey "A">
 <!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "Anullar lo messatge">
+<!ENTITY cancelNewsMsgCmd.accesskey "A">
 <!ENTITY replyMsgCmd.label "Respondre">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Respondre a l'exp. solament">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "Respondre dins lo grop">
-<!ENTITY replyNewsgroupCmd.accesskey "g">
 <!ENTITY replyToAllMsgCmd.label "Respondre a totes">
 <!ENTITY replyToAllMsgCmd.accesskey "t">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -334,9 +296,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Pèça junta">
 <!ENTITY forwardAsAttachmentCmd.accesskey "j">
-<!ENTITY editMsgAsNewCmd.label "Modificar coma un messatge novèl">
-<!ENTITY editMsgAsNewCmd.accesskey "e">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Crear un filtre a partir del messatge…">
 <!ENTITY createFilter.accesskey "i">
 <!ENTITY moveMsgToMenu.label "Desplaçar lo messatge cap a">
@@ -359,10 +318,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY watchThreadMenu.label "Susvelhar la discussion">
 <!ENTITY watchThreadMenu.accesskey "S">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Classar aicí">
-<!ENTITY fileHereMenu.accesskey "a">
-<!ENTITY copyHereMenu.label "Copiar aicí">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "Etiqueta">
 <!ENTITY tagMenu.accesskey "q">
 <!ENTITY tagCmd0.key "0">
@@ -379,7 +334,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY markMenu.accesskey "a">
 <!ENTITY markAsReadCmd.label "Coma legit">
 <!ENTITY markAsReadCmd.accesskey "l">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markThreadAsReadCmd.label "La discussion coma legida">
 <!ENTITY markThreadAsReadCmd.accesskey "d">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -419,8 +373,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY addons.accesskey "c">
 <!ENTITY activitymanager.label "Activitats">
 <!ENTITY activitymanager.accesskey "a">
-<!ENTITY filtersCmd.label "Filtres de messatges…">
-<!ENTITY filtersCmd.accesskey "t">
 <!ENTITY filtersApply.label "Aplicar los filtres sul dorsièr">
 <!ENTITY filtersApply.accesskey "l">
 <!ENTITY filtersApplyToSelection.label "Aplicar los filtres suls messatges seleccionats">
@@ -433,16 +385,10 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY deleteJunk.accesskey "e">
 <!ENTITY importCmd.label "Importar…">
 <!ENTITY importCmd.accesskey "I">
+
 <!ENTITY errorConsoleCmd.label "Consòla d'errors">
 <!ENTITY errorConsoleCmd.accesskey "s">
-<!ENTITY accountManagerCmd.label "Paramètres dels comptes…">
-<!ENTITY accountManagerCmd.accesskey "m">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
-        which is placed under the Edit menu on Unix systems -->
-<!ENTITY accountManagerCmdUnix.accesskey "a">
 
-<!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Relevar">
 <!ENTITY newMsgButton.label "Escriure">
 <!ENTITY replyButton.label "Respondre">
 <!ENTITY replyAllButton.label "Resp. a totes">
@@ -473,16 +419,15 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY getMsgButton.tooltip "Relevar los messatges novèls">
 <!ENTITY getAllNewMsgCmd.label "Relevar totes los messatges novèls">
 <!ENTITY getAllNewMsgCmd.accesskey "l">
-<!ENTITY getAllNewMsgCmd.key "t">
 <!ENTITY newMsgButton.tooltip "Crear un messatge novèl">
 <!ENTITY replyButton.tooltip "Respondre al messatge">
 <!ENTITY replyAllButton.tooltip "Respondre a l'expeditor e a totes los destinataris">
 <!ENTITY forwardButton.tooltip "Transferir lo messatge seleccionat">
 <!ENTITY fileButton.tooltip "Classar los messatges seleccionats">
 <!ENTITY nextButton.tooltip "Anar al messatge pas legit venent">
+<!ENTITY previousButton.tooltip "Anar al messatge pas legit precedent">
 <!ENTITY goForwardButton.tooltip "Avançar d'un messatge">
 <!ENTITY goBackButton.tooltip "Recuolar d'un messatge">
-<!ENTITY previousButton.tooltip "Anar al messatge pas legit precedent">
 <!ENTITY deleteButton.tooltip "Suprimir lo messatge o lo dorsièr seleccionat">
 <!ENTITY undeleteButton.tooltip "Restablir lo messatge seleccionat">
 <!ENTITY markButton.tooltip "Marcar los messatges">
@@ -498,15 +443,11 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY addNewTag.label "Etiqueta novèla…">
 <!ENTITY addNewTag.accesskey "N">
 
-<!-- Folder Pane -->
-<!ENTITY folderColumn.label "Nom">
 <!ENTITY folderSizeColumn.label "Talha">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Relevar los messatges novèls">
 <!ENTITY folderContextGetMessages.accesskey "R">
-<!ENTITY folderContextOpenNewWindow.label "Dobrir">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Dobrir dins un onglet novèl">
 <!ENTITY folderContextOpenNewTab.accesskey "u">
 <!ENTITY folderContextNew.label "Sosdorsièr novèl…">
@@ -531,43 +472,12 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY folderContextMarkMailFolderRead.accesskey "d">
 <!ENTITY folderContextSubscribe.label "S'abonar…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "Recercar…">
-<!ENTITY folderContextSearchMessages.accesskey "c">
-<!ENTITY folderContextProperties.label "Proprietats…">
-<!ENTITY folderContextProperties.accesskey "t">
 <!ENTITY folderContextFavoriteFolder.label "Dorsièr preferit">
 <!ENTITY folderContextFavoriteFolder.accesskey "f">
-<!ENTITY folderContextSettings.label "Paramètres…">
-<!ENTITY folderContextSettings.accesskey "a">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Lo nom o lo messatge conten :">
 <!ENTITY SearchNameOrEmail.accesskey "n">
-
-<!-- Gloda Search Bar -->
-<!ENTITY glodaSearchBar.emptyText "Recèrca dins los messatges…">
-<!ENTITY glodaSearchBar.facet.label "Recèrca :">
-<!-- LOCALIZATION NOTE (glodaSearchFacet.*) labels specify search constraints.
-       "everything" searches over subject, involves, body, and attachments.
-       "subject" searches only messages subjects.
-       "involves" searches only message to/from/cc/bcc.
-       "to" searches only message to/cc.
-       "from" searches only message using "from" (the message author).
-       "body" searches only message bodies, which does not include message
-           attachment names or the content of the attachments.  Message body
-           basically means a message part with a content-type of text/*.
-    -->
-<!ENTITY glodaSearchFacet.everything.label "Tout">
-<!ENTITY glodaSearchFacet.subject.label "Subjècte">
-<!ENTITY glodaSearchFacet.involves.label "Participant (expeditor, destinatari, en còpia)">
-<!ENTITY glodaSearchFacet.to.label "Destinatari, en còpia">
-<!ENTITY glodaSearchFacet.from.label "Expeditor">
-<!ENTITY glodaSearchFacet.body.label "Tèxte del messatge">
-<!ENTITY glodaSearchFacet.attachmentNames.label "Nom de pèça junta">
-
-<!ENTITY glodaSearchBar.location.label "Emplaçament :">
-<!ENTITY glodaSearchFacet.everywhere.label "Totes los dorsièrs">
-<!ENTITY glodaSearchFacet.folder.label "Dins un dorsièr particular…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Subjècte">
@@ -599,51 +509,17 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY idColumn.label "Òrdre de recepcion">
 <!ENTITY attachmentColumn.label "Pèças juntas">
 
-<!-- LOCALIZATION NOTE (glodaWhyColumn.label): explains why a message is
-     present in the gloda search results.  The values can be found in
-     messenger.properties with a prefix of "glodaSearch_results_why_". -->
-<!ENTITY glodaWhyColumn.label "Rason">
-
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Clicatz per causir las colomnas d'afichar">
-<!ENTITY threadColumn.tooltip "Clicatz per afichar los fials de discussion">
-<!ENTITY fromColumn.tooltip "Clicatz per triar per expeditor">
-<!ENTITY recipientColumn.tooltip "Clicatz per triar per destinatari">
-<!ENTITY subjectColumn.tooltip "Clicatz per triar per subjècte">
-<!ENTITY dateColumn.tooltip "Clicatz per triar per data">
-<!ENTITY priorityColumn.tooltip "Clicatz per triar per prioritat">
-<!ENTITY tagsColumn.tooltip "Clicatz per triar per etiquetas">
-<!ENTITY accountColumn.tooltip "Clicatz per triar per compte">
-<!ENTITY statusColumn.tooltip "Clicatz per triar per estatut">
-<!ENTITY sizeColumn.tooltip "Clicatz per triar per talha">
-<!ENTITY junkStatusColumn.tooltip "Clicatz per triar per estatut indesirable">
-<!ENTITY unreadColumn.tooltip "Nombre de messatges pas legits dins lo fial">
-<!ENTITY totalColumn.tooltip "Nombre total de messatges dins lo fial">
-<!ENTITY readColumn.tooltip "Clicatz per triar per estat de lectura">
-<!ENTITY receivedColumn.tooltip "Clicatz per triar per data de recepcion">
-<!ENTITY starredColumn.tooltip "Clicatz per triar per seguit">
-<!ENTITY locationColumn.tooltip "Clicatz per triar per adreça">
-<!ENTITY idColumn.tooltip "Clicatz per triar per òrdre de recepcion">
-<!ENTITY attachmentColumn.tooltip "Clicatz per triar per pèças juntas">
-<!ENTITY glodaWhyColumn.tooltip "Clicatz per triar per rason de preséncia dins los resultats de recèrca">
-
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Dobrir dins una fenèstra novèla">
 <!ENTITY contextOpenNewWindow.accesskey "n">
 <!ENTITY contextOpenNewTab.label "Dobrir dins un onglet novèl">
 <!ENTITY contextOpenNewTab.accesskey "u">
-<!ENTITY contextEditAsNew.label "Modificar coma un messatge novèl…">
-<!ENTITY contextEditAsNew.accesskey "e">
 <!ENTITY contextReplySender.label "Respondre a l'expeditor">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "Respondre dins lo grop">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
 <!ENTITY contextReplyAll.label "Respondre a tot lo monde">
 <!ENTITY contextReplyAll.accesskey "t">
 <!ENTITY contextForward.label "Transferir">
 <!ENTITY contextForward.accesskey "f">
-<!ENTITY contextForwardAsAttachment.label "Transferir en tant que pèça junta">
-<!ENTITY contextForwardAsAttachment.accesskey "j">
 <!ENTITY contextMoveMsgMenu.label "Desplaçar cap a">
 <!ENTITY contextMoveMsgMenu.accesskey "D">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
@@ -657,23 +533,7 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY contextPrintPreview.label "Apercebut abans estampatge">
 <!ENTITY contextPrintPreview.accesskey "o">
 
-<!-- junk bar -->
-<!ENTITY junkBarMessage1.label "Messatge indesirable">
-<!ENTITY junkBarButton1.label "Acceptable">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Per protegir vòstra vida privada, los imatges distants son estats blocats.">
-<!ENTITY loadRemoteContentButton2.label "Afichar los imatges ara">
-
-<!-- Phishing bar Bar -->
-<!ENTITY phishingBarMessage2.label "Benlèu qu'aqueste messatge es fraudulós.">
-<!ENTITY removePhishingBarButton1.label "Ignorar l'avertiment">
-<!ENTITY reportPhishingError1.label "Sembla qu'aqueste messatge es pas fraudulós">
-
-<!-- Message Header Button Box (to show hidden email addresses) -->
-<!ENTITY more.label "plegits">
-
+<!-- Quick Search Bar -->
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 
@@ -682,12 +542,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY AddToAddressBook.accesskey "j">
 <!ENTITY AddDirectlyToAddressBook.label "Apondre l'adreça al quasernet d'adreças">
 <!ENTITY AddDirectlyToAddressBook.accesskey "o">
-<!ENTITY EditContact.label "Modificar lo contacte…">
-<!ENTITY EditContact.accesskey "M">
 <!ENTITY ViewContact.label "Afichar lo contacte">
 <!ENTITY ViewContact.accesskey "A">
-<!ENTITY SendMailTo.label "Mandar un corrièr a">
-<!ENTITY SendMailTo.accesskey "y">
 <!ENTITY CopyEmailAddress.label "Copiar l'adreça">
 <!ENTITY CopyEmailAddress.accesskey "C">
 <!ENTITY CreateFilterFrom.label "Crear un filtre…">
@@ -700,14 +556,8 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY saveLinkAsCmd.accesskey "e">
 <!ENTITY saveImageAsCmd.label "Enregistrar l'imatge jos…">
 <!ENTITY saveImageAsCmd.accesskey "a">
-<!ENTITY copyCmd.label "Copiar">
-<!ENTITY copyCmd.accesskey "p">
-<!ENTITY selectAllCmd.label "Seleccionar tot">
-<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY copyLinkCmd.label "Copiar l'adreça del ligam">
 <!ENTITY copyLinkCmd.accesskey "n">
-<!ENTITY copyImageCmd.label "Copiar l'adreça de l'imatge">
-<!ENTITY copyImageCmd.accesskey "m">
 <!ENTITY copyEmailCmd.label "Copiar l'adreça">
 <!ENTITY copyEmailCmd.accesskey "e">
 
@@ -720,8 +570,6 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY bringAllToFront.label "Totas al primièr plan">
 <!ENTITY zoomWindow.label "Zoom">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label "Preferéncias…">
 <!ENTITY preferencesCmdMac.commandkey ",">
 <!ENTITY preferencesCmdMac.modifiers "accel">
 <!ENTITY servicesMenuMac.label "Servicis">
@@ -732,3 +580,4 @@ you can use these alternative items. Otherwise, their values should be empty.
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
 <!ENTITY showAllAppsCmdMac.label "Afichar tot">
+

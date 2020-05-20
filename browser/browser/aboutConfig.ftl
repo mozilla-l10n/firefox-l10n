@@ -7,7 +7,9 @@ about-config-warning-title = Siatz prudent !
 about-config-warning-text = Cambiar aquestas configuracions avançadas pòt damatjar l'estabilitat, la seguretat e las performanças d'aquela aplicacion. Contunhatz solament se sabètz çò que fasètz.
 about-config-warning-checkbox = O me rapelar lo còp que ven !
 about-config-warning-button = Preni lo risc
+
 about-config2-title = Configuracions avançada
+
 about-config-search-input =
     .placeholder = Recercar
 
@@ -22,16 +24,20 @@ about-config-intro-warning-button = Prendre lo risc e contunhar
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Modificar aquelas preferéncias pòt damatjar las performanças o l'estabilitat de { -brand-short-name }.
+
 about-config-page-title = Preferéncias avançadas
+
 about-config-search-input1 =
     .placeholder = Recercar un nom de preferéncia
 about-config-show-all = O afichar tot
+
 about-config-pref-add = Apondre
 about-config-pref-toggle = Inversar
 about-config-pref-edit = Modificar
 about-config-pref-save = Enregistrar
 about-config-pref-reset = Reïnicializar
 about-config-pref-delete = Suprimir
+
 about-config-pref-add-button =
     .title = Apondre
 about-config-pref-toggle-button =
