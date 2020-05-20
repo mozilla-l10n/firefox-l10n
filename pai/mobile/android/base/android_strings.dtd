@@ -18,10 +18,8 @@
 <!ENTITY firstrun_data_message "Chapayt chpay, chaterabum chkwach">
 <!ENTITY firstrun_data_subtext2 "Chpayt tñurch ha mtubpach web hal ñmwak.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message2 "Mnmakuhak mnamaan.">
 <!ENTITY firstrun_sync_subtext2 "Sync ham mtrchech chapayt ŕkiru ee, chŕ amu, ee chapayt &brandShortName; hal cchmch kwaha paytum; ñwak chapayt dipositivhal mchkahaya.">
 <!ENTITY firstrun_signin_message "Sak mtblichka, mnamanka">
-<!ENTITY firstrun_signin_button "Sync mjaabka">
 <!ENTITY  onboard_start_button_browser "Chapayt mŕmee mnamaan">
 <!ENTITY firstrun_button_notnow "Baam pem">
 <!ENTITY firstrun_button_next "Nulkpeeb">
@@ -63,6 +61,7 @@
 <!ENTITY  crash_restart_label "&brandShortName;namaan">
 
 <!ENTITY url_bar_default_text2 "ŕmee tñur paa eemch solch">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,10 +289,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Chatrñerabum kabwik &brandShortName; ñumyaabchu ha ŕpo yaŕaal &vendorShortName; ham nyaam Ka">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Chubowu">
 
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
@@ -321,11 +316,6 @@
 
 <!ENTITY pref_pwa "Aplicacion Web chayoomkyam">
 <!ENTITY pref_pwa_summary "Nmakum aplicacionhay namanchu hal chmiich">
-
-<!ENTITY tracking_protection_prompt_title "Bam chŕmeechu rbooch">
-<!ENTITY tracking_protection_prompt_text "Chŕmeechu chwihay ŕ\&apos;apjanuk ,ñubyumyus kos yampatem.">
-<!ENTITY tracking_protection_prompt_tip_text "Trchech chu jabchtayham m\&apos;am chapayt terabum mŕpo">
-<!ENTITY tracking_protection_prompt_action_button "M\&apos; eb\&apos;e!">
 
 <!ENTITY tab_queue_toast_message3 "Ch chkwachuha &brandShortName; ahl chkwaach">
 <!ENTITY tab_queue_toast_action "Baam sol">
@@ -399,15 +389,12 @@ chab mtñur">
 <!ENTITY pref_private_data_searchHistory "Chŕmeechu chkjkeech">
 <!ENTITY pref_private_data_formdata2 "Sal tñurch chkjkeech">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; namaanchu sool">
-<!ENTITY pref_private_data_passwords2 "Namaanchu chkwaab">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Tlur web hay kos chpachtem">
 <!ENTITY pref_private_data_siteSettings2 "Amchu chajaanch">
 <!ENTITY pref_private_data_downloadFiles2 "Unalch">
 <!ENTITY pref_private_data_syncedTabs "Ch chkwachu payt blwiy">
 
-<!ENTITY pref_default_browser "Sal amchu ŕisum chmiich">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla kikwis ha ñumkweek">
 <!ENTITY pref_about_firefox "&brandShortName; ham nyaam">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Waŕiib kwiim">
@@ -456,14 +443,6 @@ chab mtñur">
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Wachu chjanch hay boo kwa">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Byaw\&apos;i chajanch">
-<!ENTITY pref_update_autodownload_wifi "Nyumuk Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Myuchuliiy">
-<!ENTITY pref_update_autodownload_always "T t\&apos;or">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Chbtaarch">
@@ -723,25 +702,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Chkjkech ee chŕkirch">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; ñaamk mchiwu kyaw yak">
-<!ENTITY updater_start_select2 "Sak mchknaa munaal hikyawa">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; unalwa">
-<!ENTITY updater_downloading_title_failed2 "Unalhay chaam">
-<!ENTITY updater_downloading_select2 "Mchknaa chmunalha mchkwa hikyawa">
-<!ENTITY updater_downloading_retry2 "Mtkweek mchknaa">
-
-<!ENTITY updater_apply_title3 "&brandShortName; baam mchuyak yiib munaal">
-<!ENTITY updater_apply_select3 "Mchknaa sal mchhohik kyawa">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Ch chkwachu ee ch\&apos; baam yakmunali hikyawa mnakum mkjke hikyawa ha jan mi, &brandShortName; chpuwuhal mjaab hikyawa.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Mnmak">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Namanchu baam jak ñwak wakm ich">
 <!ENTITY exit_guest_session "Jabchu hal paa wak ich uli pay chpaa">
@@ -902,19 +862,12 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Booha mchuŕkwis">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Sal amchu">
 <!ENTITY mls_notification_channel "&vendorShortName; Paa ŕmeechu kbtaar">
 <!ENTITY download_notification_channel "Unalch">
-<!ENTITY media_notification_channel "Multimedi chubowu">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "&brandShortName; Push chknaabch">
 <!ENTITY media_notification_channel2 "Videey tpalu">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; paa kwaaw eech ee ñum reebch">
-<!ENTITY updater_notification_channel "Aplicación baam chmiich">
 <!ENTITY synced_tabs_notification_channel "Ch chkwachu payt blwiy">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

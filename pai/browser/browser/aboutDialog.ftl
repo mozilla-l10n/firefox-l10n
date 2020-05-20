@@ -5,3 +5,4 @@
 update-checkForUpdatesButton =
     .label = Yak chmich ŕmee »
     .accesskey = C
+

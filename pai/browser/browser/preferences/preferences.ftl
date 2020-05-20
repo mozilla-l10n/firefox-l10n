@@ -31,6 +31,12 @@ do-not-track-option-always =
 ## General Section - Files and Applications
 
 
+## The strings in this group are used to populate
+## selected label element based on the string from
+## the selected menu item.
+
+##
+
 ## General Section - Performance
 
 
@@ -46,6 +52,8 @@ do-not-track-option-always =
 ## Home Section - Home Page Customization
 
 
+## Home Section - Firefox Home Content Customization
+
 ## Search Section
 
 
@@ -55,14 +63,31 @@ do-not-track-option-always =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
+## Sync section - enabling or disabling sync.
+
+## The list of things currently syncing.
+
+## The "Choose what to sync" dialog.
+
+## The device name controls.
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
 
+
+## Privacy Section - Logins and Passwords
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -72,6 +97,13 @@ do-not-track-option-always =
 
 ## Privacy Section - Address Bar
 
+
+## Privacy Section - Content Blocking
+
+## These strings are used to define the different levels of
+## Enhanced Tracking Protection.
+
+##
 
 ## Privacy Section - Tracking
 
@@ -89,4 +121,6 @@ do-not-track-option-always =
 
 
 ## Privacy Section - Certificates
+
+## The following strings are used in the Download section of settings
 

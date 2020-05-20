@@ -13,8 +13,8 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = Firefox
--vendor-short-name = Mozil
--brand-full-name = Mozil Firefox
 -brand-shorter-name = Firefox
+-brand-short-name = Firefox
+-brand-full-name = Mozil Firefox
+-vendor-short-name = Mozil
 trademarkInfo = Firefox e logotip firefox wiha paytum fundacion Mozilha wihan
