@@ -36,6 +36,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "Үгийн алдаа шалга">
 
@@ -62,8 +66,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "г">
 <!ENTITY editUserDictionaryButton.label "Засварлах…">
 <!ENTITY editUserDictionaryButton.accessKey "З">
-<!ENTITY recheckButton.label "Хуудсыг дахин шалга">
-<!ENTITY recheckButton.accessKey "д">
 <!ENTITY closeButton.label "Хаа">
 <!ENTITY closeButton.accessKey "Х">
 <!ENTITY sendButton.label "Илгээ">

@@ -36,6 +36,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title                "Хүснэгтийн шинж чанар">
 <!ENTITY applyButton.label                "Хэрэгжүүл">
 <!ENTITY applyButton.accesskey            "ж">
@@ -70,7 +74,6 @@
 <!ENTITY tableCaptionNone.label           "Үгүй">
 <!ENTITY tableInheritColor.label           "(Хуудас дараах өнгийг харуул)">
 
-<!ENTITY cellPercent.label                "хувь хүснэгтэд">
 <!ENTITY cellSelection.label              "Сонголт">
 <!ENTITY cellSelectCell.label             "Нүд">
 <!ENTITY cellSelectRow.label              "Мөр">
@@ -79,13 +82,6 @@
 <!ENTITY cellSelectNext.accessKey         "х">
 <!ENTITY cellSelectPrevious.label         "Өмнөх">
 <!ENTITY cellSelectPrevious.accessKey     "м">
-<!ENTITY cellApplyBeforeMove.label        "Сонголтыг өөрчлөхөөс өмнө өөрчлөлтийг хэрэгжүүл">
-<!ENTITY cellKeepCurrentData.label        "Одоогийн тохиргоог хадгал">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "Одоогийн өөрчлөлт хэрэгжих болно">
-<!ENTITY applyBeforeChange2.label         "Сонголтыг өөрчлөхөөс өмнө">
-<!ENTITY cellRowSpan.label                "Мөр зай авалт:">
-<!ENTITY cellColSpan.label                "Баганы зай авалт:">
 <!ENTITY cellContentAlignment.label       "Бүтцийн зэрэгцүүлэлт">
 <!ENTITY cellHorizontal.label             "Хэвтээ:">
 <!ENTITY cellHorizontal.accessKey         "т">
@@ -103,7 +99,6 @@
 <!ENTITY cellAlignMiddle.label            "Дунд">
 <!ENTITY cellAlignBottom.label            "Доод">
 <!ENTITY cellAlignJustify.label           "Мөр зэрэгц">
-<!ENTITY cellAlignAtChar.label            "Тэмдэгт:">
 <!ENTITY cellInheritColor.label           "(Хүснэгтийн өнгө харагдаг)">
 <!ENTITY cellUseCheckboxHelp.label        "Бөглөх цонхыг ашиглаж бүх сонгогдсон нүднүүдэд ямар шинж чанар хэрэгжүүлэхийг зааж өг">
 

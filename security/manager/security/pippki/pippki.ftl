@@ -8,6 +8,7 @@ password-quality-meter = Нууц үгийн чанарын хэмжүүр
 
 change-password-window =
     .title = Мастер нууц үгийг соль
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Нууцлалын төхөөрөмж: { $tokenName }

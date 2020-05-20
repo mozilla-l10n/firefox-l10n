@@ -1,5 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title                  "Хүлээн авсанаа мэдэгдэх">
-<!ENTITY receiptSettings.label         "Хүлээн авсанаа мэдэгдэх">
 <!ENTITY requestReceipt.label          "Захиа илгээх үедээ үргэлж хүлээж авсан мэдэгдэл хүсэх">
 <!ENTITY requestReceipt.accesskey      "З">
 <!ENTITY receiptArrive.label           "Хэрэв хүлээн авагч хүлээж авсан бол:">

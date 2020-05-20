@@ -37,6 +37,11 @@
    - ***** END LICENSE BLOCK ***** -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "Жагсаалтын шинж чанар">
 
@@ -48,7 +53,6 @@
 <!ENTITY bulletList.value "Сумтай (дугааргүй) жагсаалт">
 <!ENTITY numberList.value "Дугаарласан жагсаалт">
 <!ENTITY definitionList.value "Тодорхойлсон жагсаалт">
-<!ENTITY changeListMsg.label "Жагсаалтын төрлийг солих үед:">
 <!ENTITY changeEntireListRadio.label "Жагсаалтыг бүгдийг өөрчил">
 <!ENTITY changeEntireListRadio.accessKey "ч">
 <!ENTITY changeSelectedRadio.label "Зөвхөн сонгосон зүйлийг өөрчил">

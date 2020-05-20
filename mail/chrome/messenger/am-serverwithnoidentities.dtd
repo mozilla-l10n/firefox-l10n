@@ -1,12 +1,6 @@
-<!ENTITY accountName.accesskey "Б">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label "Бүртгэлийн нэр:">
-<!ENTITY accountSettingsDesc.label "Дараах бүртгэл бол онцгой бүртгэл байна. Үүнтэй хамаатай таних мэдээлэл алга.">
-<!ENTITY accountTitle.label "Бүртгэлийн тохиргоо">
-<!ENTITY browseFolder.accesskey "ө">
-<!ENTITY browseFolder.label "Зааж өг…">
-<!ENTITY emptyTrashOnExit.accesskey "в">
-<!ENTITY emptyTrashOnExit.label "Гарах үед хогийн савыг хоосол">
-<!ENTITY localFolderPicker.label "Дотоод санг сонго">
-<!ENTITY localPath.accesskey "Д">
-<!ENTITY localPath.label "Дотоод сан:">
-<!ENTITY messageStorage.label "Захианы хадгалалт">
+<!ENTITY accountName.accesskey "Б">

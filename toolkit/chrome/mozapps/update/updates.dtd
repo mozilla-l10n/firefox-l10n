@@ -36,8 +36,7 @@
 <!ENTITY  errorManual.label               "Та &brandShortName;-г гар аргаар энэ холбоосд зорчиж сүүлийн хувилбарыг татаж авч шинэчилж болно:">
                                            
 <!ENTITY  errorpatching.intro             "Зарим шинэчлэлүүд хэрэгжиж чадсангүй. &brandShortName; шинэчлэлийг бүхлээр нь дахин татаж авахыг оролдох болно.">
-
-
+                                           
 <!ENTITY  finishedPage.title              "Шинэчлэл суугдахад бэлэн">
 <!ENTITY  finishedPage.text               "&brandShortName; шинээр ачаалагдах үед энэ шинэчлэл суугдах болно. Та одоо &brandShortName;-г шинээр ачаалах, эсвэл үргэлжлүүлэн ажиллаад сүүлд шинээр ачаалж болох юм.">
 
@@ -47,6 +46,3 @@
 <!ENTITY  finishedBackground.more         "Дараагийн удаа &brandShortName;-г ачаалах үед шинэчлэл суугдах болно. Та одоо &brandShortName;-г шинээр ачаалах, эсвэл үргэлжлүүлэн ажиллаад сүүлд шинээр ачаалж болох юм.">
 
 
-<!ENTITY  update.details.label            "Нарийн мэдээлэл">
-<!ENTITY  update.installedOn.label        "Суугдсан газар:">
-<!ENTITY  update.status.label             "Төлөв:">

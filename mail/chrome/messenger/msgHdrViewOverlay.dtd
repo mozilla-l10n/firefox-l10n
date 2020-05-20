@@ -35,39 +35,26 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY bccField.label "Хуулбар2:">
-<!ENTITY ccField.label "Хуулбар:">
-<!ENTITY copyLinkCmd.accesskey "я">
-<!ENTITY copyLinkCmd.label "Холбоос хаягийг сануул">
-<!ENTITY dateField.label "Огноо:">
-<!ENTITY deleteAllAttachmentsCmd.accesskey "Б">
-<!ENTITY deleteAllAttachmentsCmd.label "Бүгдийг устга…">
-<!ENTITY deleteAttachmentCmd.label "Устга">
-<!ENTITY detachAllAttachmentsCmd.accesskey "ү">
-<!ENTITY detachAllAttachmentsCmd.label "Бүгдийг үл хавсарга">
-<!ENTITY detachAttachmentCmd.label "Үл хавсарга…">
-<!ENTITY editMessage.label "Ноорог засварла…">
-<!ENTITY followupToField.label "Дагалдаж-Хэнд">
-<!ENTITY tagsHdr.label "Таг: ">
-<!ENTITY fromField.label "Хэнээс:">
-<!ENTITY newsgroupsField.label "Мэдээний груп:">
-<!ENTITY openAttachmentCmd.accesskey "Н">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY openAttachmentCmd.label "Нээ">
-<!ENTITY organizationField.label "Байгууллага:">
-<!ENTITY originalWebsite.label "Вэб хуудас:">
-<!ENTITY replyToField.label "Хариулах хаяг:">
-<!ENTITY saveAll.label "Бүгдийг хадгал…">
-<!ENTITY saveAllAttachmentsCmd.accesskey "Б">
-<!ENTITY saveAllAttachmentsCmd.label "Бүгдийг хадгал…">
-<!ENTITY saveAsAttachmentCmd.accesskey "х">
+<!ENTITY openAttachmentCmd.accesskey "Н">
 <!ENTITY saveAsAttachmentCmd.label "Нэр өгч хадгал…">
-<!ENTITY senderField.label "Илгээгч:">
-<!ENTITY subjectField.label "Гарчиг">
-<!ENTITY toField.label "Хэнд:">
-<!ENTITY userAgentField.label "Хэрэглэгчийн-Агент">
-<!ENTITY referencesField.label "Лавлах хаяг: ">
-<!ENTITY messageIdField.label "Захианы дугаар: ">
-<!ENTITY inReplyToField.label "Хариулах хаяг: ">
+<!ENTITY saveAsAttachmentCmd.accesskey "х">
+<!ENTITY detachAttachmentCmd.label "Үл хавсарга…">
+<!ENTITY deleteAttachmentCmd.label "Устга">
+<!ENTITY saveAllAttachmentsCmd.label "Бүгдийг хадгал…">
+<!ENTITY saveAllAttachmentsCmd.accesskey "Б">
+<!ENTITY detachAllAttachmentsCmd.label "Бүгдийг үл хавсарга">
+<!ENTITY detachAllAttachmentsCmd.accesskey "ү">
+<!ENTITY deleteAllAttachmentsCmd.label "Бүгдийг устга…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey "Б">
+
+<!ENTITY copyLinkCmd.label "Холбоос хаягийг сануул">
+<!ENTITY copyLinkCmd.accesskey "я">
+
 <!ENTITY CopyMessageId.label "Захианы дугаарыг хуул">
 <!ENTITY OpenMessageForMsgId.label "Захиаг дугаараар нь нээ">
 <!ENTITY OpenBrowserWithMsgId.label "Захиаг дугаараар хөтлөгчинд нээ">

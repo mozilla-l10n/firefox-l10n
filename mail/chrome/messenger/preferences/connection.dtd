@@ -1,9 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  connectionsDialog.title       "Холболтын тохируулга">
 <!ENTITY  window.width                   "40em">
 
 <!ENTITY  proxyTitle.label              "Интернэтэд орох Прокси тохиргоо">
-<!ENTITY  directTypeRadio.label         "Интернэтэд шууд холболттой">
-<!ENTITY  directTypeRadio.accesskey     "р">
 <!ENTITY  WPADTypeRadio.label           "Энэ сүлжээнд проксиг автоматаар тань">
 <!ENTITY  WPADTypeRadio.accesskey       "э">
 <!ENTITY  manualTypeRadio.label         "Прокси гар тохиргоо:">
@@ -12,10 +14,6 @@
 <!ENTITY  autoTypeRadio.accesskey       "я">
 <!ENTITY  reload.label                  "Дахин дууд">
 <!ENTITY  reload.accesskey              "д">
-<!ENTITY  ftp.label                     "FTP Прокси:">
-<!ENTITY  ftp.accesskey                 "к">
-<!ENTITY  gopher.label                  "Gopher Прокси:">
-<!ENTITY  gopher.accesskey              "g">
 <!ENTITY  http.label                    "HTTP Прокси:">
 <!ENTITY  http.accesskey                "h">
 <!ENTITY  ssl.label                     "SSL Прокси:">

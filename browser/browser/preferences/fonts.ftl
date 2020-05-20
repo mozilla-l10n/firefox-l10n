@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Үсгийн маяг
+
 fonts-window-close =
     .key = w
 
@@ -55,6 +56,7 @@ fonts-default-serif =
     .label = Сэриф
 fonts-default-sans-serif =
     .label = Сан Сэриф
+
 fonts-minsize-none =
     .label = Заагдаагүй
 
@@ -65,6 +67,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

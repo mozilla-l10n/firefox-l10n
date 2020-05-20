@@ -21,6 +21,7 @@ import =
 close-button =
     .label = Хаа
     .accesskey = Х
+
 remove-all-passwords-prompt = Бүх нууц үгийг арилгах гэж байгаадаа та итгэлтэй байна уу?
 remove-all-passwords-title = Бүх нууц үгсийг устга
 no-master-password-prompt = Нууц үгээ харуулах гэж байгаадаа та итгэлтэй байна уу?

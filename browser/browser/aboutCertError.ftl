@@ -5,9 +5,13 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } нь буруу нууцлалын гэрчилгээ хэрэглэж байна.
+
 cert-error-trust-cert-invalid = The certificate is not trusted because it was issued by an invalid CA certificate.
+
 cert-error-trust-untrusted-issuer = The certificate is not trusted because the issuer certificate is not trusted.
+
 cert-error-trust-expired-issuer = The certificate is not trusted because the issuer certificate has expired.
+
 cert-error-untrusted-default = Гэрчилгээ итгэлтэй эх үүсвэрээс ирээгүй байна.
 
 ## Messages used for certificate error titles

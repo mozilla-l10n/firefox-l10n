@@ -4,6 +4,7 @@
 
 <!ENTITY header.label     "Богино гарчиг"> 
 <!ENTITY message.label    "Зарим жишээ текст энд байрлана.">
+
 <!ENTITY editfield0.label "Хэрэглэгчийн нэр:"> 
 <!ENTITY editfield1.label "Нууц үг:"> 
 

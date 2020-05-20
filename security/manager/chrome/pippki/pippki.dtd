@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Танаас шинэ Гэрчилгээний Эрх-д итгэхийг асуусан (ГЭ).">
 
 <!ENTITY downloadCert.trustEmail "Захианы хэрэглэгчийг танихад энэ ГЭ-д итгэ">
-<!ENTITY downloadCert.trustObjSign "Програм хөгжүүлэгчийг танихдаа энэ ГЭ-д итгэ">
 <!ENTITY downloadCert.message3 "Та ямар ч зорилгоор бай энэ ГЭ -д итгэхээсээ өмнө үүний гэрчилгээний тохиргоог мөн бодлого бас үйлдлийг нь харах хэрэгтэй (хэрэв боломжтой бол).">
 <!ENTITY downloadCert.viewCert.label "Харах">
 <!ENTITY downloadCert.viewCert.text "CA гэрчилгээг тохируулах">

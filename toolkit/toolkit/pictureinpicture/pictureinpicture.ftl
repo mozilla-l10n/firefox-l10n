@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Завсарла
 pictureinpicture-play =
     .aria-label = Тоглуул
+
 pictureinpicture-mute =
     .aria-label = Дуугүй
 pictureinpicture-unmute =
     .aria-label = Дуутай
+

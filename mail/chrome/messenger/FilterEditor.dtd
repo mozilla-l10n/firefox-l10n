@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Шүүх дүрэм">
 
 <!ENTITY filterName.label "Шүүлтийн нэр:">
@@ -12,12 +16,8 @@
 <!ENTITY highPriorityCmd.label "өндөр">
 <!ENTITY highestPriorityCmd.label "хамгийн өндөр">
 
-<!ENTITY conditionDesc.label "Ирж буй захианд:">
 <!ENTITY filterActionDesc.label "Дараах үйлдлийг гүйцэтгэ:">
 <!ENTITY filterActionDesc.accesskey "г">
-
-<!ENTITY newFolderButton.label "Шинэ сан…">
-<!ENTITY newFolderButton.accesskey "э">
 
 <!-- New Style Filter Rule Actions -->
 <!ENTITY moveMessage.label "Дараах санд зөө">
@@ -35,3 +35,9 @@
 <!ENTITY ignoreThread.label "Дарааллыг үл тоо">
 <!ENTITY watchThread.label "Дарааллыг харах">
 <!ENTITY stopExecution.label "Шүүлтүүрийн гүйцэтгэлийг зогсоо">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

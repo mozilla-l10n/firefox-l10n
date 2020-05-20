@@ -1,23 +1,19 @@
-<!ENTITY messengerWindow.title "Захиа ба Мэдээ">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "Сан…">
 <!ENTITY newFolderCmd.accesskey "С">
-<!ENTITY newTabCmd.label "Шинэ самбар">
-<!ENTITY newTabCmd.accesskey "Ш">
-<!ENTITY closeTabCmd.label "Самбар хаа">
-<!ENTITY closeTabCmd.accesskey "х">
+
 <!ENTITY newVirtualFolderCmd.label "Хадгалагдсан хайлт">
 <!ENTITY newVirtualFolderCmd.accesskey "й">
-<!ENTITY newAccountCmd.label "Бүртгэл…">
-<!ENTITY newAccountCmd.accesskey "Б">
-<!ENTITY openMessageMenu.label "Нээ">
 <!ENTITY openMessageFileCmd.label "Хадгалагдсан захиа нээ…">
 <!ENTITY openMessageFileCmd.accesskey "э">
-<!ENTITY openAttachmentCmd.label "Хавсралт">
-<!ENTITY openAttachmentCmd.accesskey "Х">
 <!ENTITY saveAsMenu.label "Нэр өгч хадгал">
 <!ENTITY saveAsMenu.accesskey "Н">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -25,15 +21,8 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Хоосон загвар">
 <!ENTITY saveAsTemplateCmd.accesskey "з">
-<!ENTITY getNewMsgCmd.label "Шинэ захиа авах">
-<!ENTITY getNewMsgCmd.accesskey "Ш">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Шинэ захиа татаж ав">
 <!ENTITY getNewMsgForCmd.accesskey "э">
-<!ENTITY getAllNewMsgCmd.label "Бүх шинэ захиаг ав">
-<!ENTITY getAllNewMsgCmd.key "t">
-<!ENTITY getNextNMsgCmd.label "Дараагийн 500 мэдээний захиаг ав">
-<!ENTITY getNextNMsgCmd.accesskey "а">
 <!ENTITY sendUnsentCmd.label "Илгээгдээгүй захиаг илгээ">
 <!ENTITY sendUnsentCmd.accesskey "и">
 <!ENTITY subscribeCmd.label "Бүртгүүл…">
@@ -42,19 +31,14 @@
 <!ENTITY renameFolder.accesskey "н">
 <!ENTITY renameFolder.key "VK_F2"> 
 <!ENTITY compactFolders.label "Санг багцал">
-<!ENTITY compactFolder.accesskey		"а">
 <!ENTITY emptyTrashCmd.label "Хогийн сав хоосол">
 <!ENTITY emptyTrashCmd.accesskey		"в">
-<!ENTITY importCmd.label "Импорт…">
-<!ENTITY importCmd.accesskey "п">
 <!ENTITY offlineMenu.label "Салангид">
 <!ENTITY offlineMenu.accesskey "С">
 <!ENTITY offlineGoOfflineCmd.label "Салангид ажилла">
 <!ENTITY offlineGoOfflineCmd.accesskey "л">
 <!ENTITY synchronizeOfflineCmd.label "Одоо татаж ав/нийцүүл…">
 <!ENTITY synchronizeOfflineCmd.accesskey "т">
-<!ENTITY settingsOfflineCmd.label "Салангид горимын тохиргоо…">
-<!ENTITY settingsOfflineCmd.accesskey "л">
 <!ENTITY downloadSelectedCmd.label "Сонгосон захианыуудыг татаж ав">
 <!ENTITY downloadSelectedCmd.accesskey "в">
 <!ENTITY downloadStarredCmd.label "Одтой захиануудыг татаж ав">
@@ -64,7 +48,6 @@
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Хэвлэх харагдац">
 <!ENTITY printPreviewCmd.accesskey "р">
-<!ENTITY printPreviewCmd.key "v">
 <!ENTITY printSetupCmd.label "Хуудасны тохиргоо">
 <!ENTITY printSetupCmd.accesskey "и">
 
@@ -73,14 +56,10 @@
 <!ENTITY deleteMsgCmd.accesskey "у">
 <!ENTITY undeleteMsgCmd.label "Устгасан захиаг сэргээ">
 <!ENTITY undeleteMsgCmd.accesskey "с">
-<!ENTITY cancelNewsMsgCmd.label "Захиаг цуцал">
-<!ENTITY cancelNewsMsgCmd.accesskey "ц">
 <!ENTITY deleteMsgsCmd.label "Сонгосон захиануудыг устга">
 <!ENTITY deleteMsgsCmd.accesskey "у">
 <!ENTITY undeleteMsgsCmd.label "Сонгосон захиануудыг үл устга">
 <!ENTITY undeleteMsgsCmd.accesskey "н">
-<!ENTITY cancelNewsMsgsCmd.label "Сонгосон захиануудыг цуцал">
-<!ENTITY cancelNewsMsgsCmd.accesskey "ц">
 <!ENTITY deleteFolderCmd.label "Санг устга">
 <!ENTITY deleteFolderCmd.accesskey "у">
 <!ENTITY unsubscribeNewsgroupCmd.label "Үл бүртгүүлэх">
@@ -94,13 +73,7 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY menuFavoriteFolder.label "Эрхэмлэдэг сан">
 <!ENTITY menuFavoriteFolder.accesskey "с">
-<!ENTITY folderPropsCmd.label "Шинж чанар…">
-<!ENTITY folderPropsFolderCmd.label "Сангийн шинж чанар…">
-<!ENTITY folderPropsNewsgroupCmd.label "Мэдээний групын шинж чанар…">
 <!ENTITY folderPropsCmd.accesskey "ч">
-<!ENTITY accountManagerCmd.label "Захиа ба Мэдээний групийн бүртгэлийн тохиргоо…">
-<!ENTITY accountManagerCmd.accesskey "З">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "Захиаг устгах үйлдлийг буцаа">
 <!ENTITY redoDeleteMsgCmd.label "Захиа устгахыг дахин үйлд">
 <!ENTITY undoMoveMsgCmd.label "Захиаг зөөх үйлдлийг буцаа">
@@ -126,8 +99,6 @@
 <!ENTITY messagePaneWide.accesskey "ц">
 <!ENTITY messagePaneVertical.label "Босоо харагдац">
 <!ENTITY messagePaneVertical.accesskey "с">
-<!ENTITY threadPaneWide.label "Хэвтээ харагдац">
-<!ENTITY threadPaneWide.accesskey "а">
 <!ENTITY showMessageCmd.label "Захианы самбар">
 <!ENTITY showMessageCmd.accesskey "с">
 
@@ -183,15 +154,12 @@
 <!ENTITY sortUnthreaded.accesskey "й">
 <!ENTITY groupBySort.label "Ангилалаар нь бүлэглэсэн">
 <!ENTITY groupBySort.accesskey "б">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Захиа">
 <!ENTITY msgsMenu.accesskey "З">
 <!ENTITY threads.label "Дараалал">
 <!ENTITY threads.accesskey "д">
 <!ENTITY allMsgsCmd.label "Бүгд">
 <!ENTITY allMsgsCmd.accesskey "Б">
-<!ENTITY expandOrCollapseMenu.label "Дэлгэх/Хураах">
-<!ENTITY expandOrCollapseMenu.accesskey "л">
 <!ENTITY expandAllThreadsCmd.label "Бүх дарааллыг дэлгэ">
 <!ENTITY expandAllThreadsCmd.accesskey "д">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -220,32 +188,13 @@
 <!ENTITY bodySanitized.accesskey "Э">
 <!ENTITY bodyAsPlaintext.label "Ердийн текст">
 <!ENTITY bodyAsPlaintext.accesskey "Е">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Хавсралтыг давхар харуул">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "в">
-<!ENTITY reloadCmd.label "Дахин дууд">
-<!ENTITY reloadCmd.accesskey "Д">
-<!ENTITY stopCmd.label "Зогс">
-<!ENTITY stopCmd.accesskey "З">
-<!ENTITY textZoomEnlargeCmd.label "Ихэсгэ">
-<!ENTITY textZoomEnlargeCmd.accesskey "х">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!ENTITY textZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY textZoomReduceCmd.label "Багасга">
-<!ENTITY textZoomReduceCmd.accesskey "Б">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label     "Энгийн">
-<!ENTITY textZoomResetCmd.accesskey "г"> 
-<!ENTITY textSize.label             "Текстийн хэмжээ">
-<!ENTITY textSize.accesskey             "ж">
 
 <!ENTITY pageSourceCmd.label "Захианы эх">
 <!ENTITY pageSourceCmd.accesskey "э">
 <!ENTITY pageSourceCmd.key "u">
-
-<!-- Search Menu -->
-<!ENTITY searchMenu.label "Хайх">
-<!ENTITY searchMenu.accesskey "Х">
 
 <!ENTITY findMenu.label "Ол">
 <!ENTITY findMenu.accesskey "О">
@@ -278,8 +227,6 @@
 <!ENTITY nextStarredMsgCmd.label "Одтой захиа">
 <!ENTITY nextStarredMsgCmd.accesskey "й">
 <!ENTITY nextUnreadThread.label "Уншаагүй дараалал">
-<!ENTITY nextUnreadThreadCmd.accesskey "ш">
-<!ENTITY nextUnreadThreadCmd.key "t">
 <!ENTITY prevMenu.label "Өмнөх">
 <!ENTITY prevMenu.accesskey "Ө">
 <!ENTITY prevMsgCmd.label "Захиа">
@@ -298,19 +245,20 @@
 <!ENTITY prevStarredMsgCmd.accesskey "й">
 <!ENTITY startPageCmd.label "Захианы эхлэл хуудас">
 <!ENTITY startPageCmd.accesskey "э">
+
 <!ENTITY msgMenu.label "Захиа">
 <!ENTITY msgMenu.accesskey "З">
 <!ENTITY newMsgCmd.label "Шинэ захиа">
 <!ENTITY newMsgCmd.accesskey "Ш">
 <!ENTITY newNewMsgCmd.label "Захиа">
 <!ENTITY newNewMsgCmd.accesskey "З">
+<!ENTITY cancelNewsMsgCmd.label "Захиаг цуцал">
+<!ENTITY cancelNewsMsgCmd.accesskey "ц">
 <!ENTITY replyMsgCmd.label "Хариул">
 <!ENTITY replyMsgCmd.accesskey "Х">
 <!ENTITY replyMsgCmd.key	"r">
 <!ENTITY replySenderCmd.label "Зөвхөн илгээгчид хариул">
 <!ENTITY replySenderCmd.accesskey "и">
-<!ENTITY replyNewsgroupCmd.label "Мэдээний групт хариул">
-<!ENTITY replyNewsgroupCmd.accesskey	"х">
 <!ENTITY replyToAllMsgCmd.label "Бүгдэд нь хариул">
 <!ENTITY replyToAllMsgCmd.accesskey	"г">
 <!ENTITY replyToAllMsgCmd.key	"r">
@@ -323,19 +271,12 @@
 <!ENTITY forwardAsInline.accesskey "д">
 <!ENTITY forwardAsAttachmentCmd.label "Хавсралт">
 <!ENTITY forwardAsAttachmentCmd.accesskey "Х">
-<!ENTITY editMsgAsNewCmd.label "Захиаг шинэ мэт засварла">
-<!ENTITY editMsgAsNewCmd.accesskey "ш">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Захианаас шүүлт үүсгэ…">
 <!ENTITY createFilter.accesskey "а">
-<!ENTITY moveMsgMenu.label "Зөө">
-<!ENTITY moveMsgMenu.accesskey "З">
 <!ENTITY moveCopyMsgRecentMenu.label "Сүүлд ирсэн">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "и">
 <!ENTITY copyMessageLocation.label "Захианы байрлалыг сана">
 <!ENTITY copyMessageLocation.accesskey "З">
-<!ENTITY copyMsgMenu.label "Сануул">
-<!ENTITY copyMsgMenu.accesskey "С">
 <!ENTITY moveToFolderAgain.label "Дахин зөө">
 <!ENTITY moveToFolderAgain.accesskey "н">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -345,10 +286,6 @@
 <!ENTITY watchThreadMenu.label "Дарааллыг харах">
 <!ENTITY watchThreadMenu.accesskey "Д">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Энд буй файл">
-<!ENTITY fileHereMenu.accesskey "ф">
-<!ENTITY copyHereMenu.label "Энд хуул">
-<!ENTITY copyHereMenu.accesskey "Э">
 <!ENTITY tagMenu.label "Таг">
 <!ENTITY tagMenu.accesskey "г">
 <!ENTITY tagCmd0.key "0">
@@ -365,7 +302,6 @@
 <!ENTITY markMenu.accesskey "г">
 <!ENTITY markAsReadCmd.label "Уншихаар">
 <!ENTITY markAsReadCmd.accesskey "У">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Уншигдаагүй мэт">
 <!ENTITY markAsUnreadCmd.accesskey "У">
 <!ENTITY markThreadAsReadCmd.label "Унших дараалал">
@@ -394,34 +330,29 @@
 
 <!-- Windows Menu -->
 <!ENTITY windowMenu.label "Цонх">
-<!ENTITY windowMenu.accesskey "н">
 
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Багаж">
 <!ENTITY tasksMenu.accesskey "ж">
-<!ENTITY addons.label "Нэмэгдлүүд">
-<!ENTITY addons.accesskey "Н">
 <!ENTITY messengerCmd.label "Захиа &amp; Мэдээ">
 <!ENTITY messengerCmd.accesskey "х">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Хаягийн тэмдэглэл">  
 <!ENTITY addressBookCmd.accesskey "м">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY junkMailCmd.label "Тэнэмэл захианы хяналт…">
-<!ENTITY junkMailCmd.accesskey "я">
+<!ENTITY addons.label "Нэмэгдлүүд">
+<!ENTITY addons.accesskey "Н">
+<!ENTITY filtersApply.label "Санд шүүлт ажиллуулах">
+<!ENTITY filtersApply.accesskey "а">
+
 <!ENTITY runJunkControls.label "Санд тэнэмэл захианы хяналтыг ажиллуул">
 <!ENTITY runJunkControls.accesskey "ж">
 <!ENTITY deleteJunk.label "Санд буй Тэнэмэл гэж тэмдэглэсэн захиаг устга">
 <!ENTITY deleteJunk.accesskey "а">
+<!ENTITY importCmd.label "Импорт…">
+<!ENTITY importCmd.accesskey "п">
+
 <!ENTITY errorConsoleCmd.label "Алдаа харуулагч цонх">
 <!ENTITY errorConsoleCmd.accesskey "ц">
-<!ENTITY filtersCmd.label "Захианы шүүлт…">
-<!ENTITY filtersCmd.accesskey "ш">
-<!ENTITY filtersApply.label "Санд шүүлт ажиллуулах">
-<!ENTITY filtersApply.accesskey "а">
 
-<!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "Захиа авах">
 <!ENTITY newMsgButton.label "Захиа бичих">
 <!ENTITY replyButton.label "Хариул">
 <!ENTITY replyAllButton.label "Бүгдэд нь хариулж бич">
@@ -436,7 +367,6 @@
 <!ENTITY printButton.label "Хэвлэ">
 <!ENTITY stopButton.label "Зогс">
 <!ENTITY throbberItem.title "Идэвхижлийн заалт">
-<!ENTITY updatesItem.title  "Шинэчлэл">
 <!ENTITY junkButton.label "Тэнэмэл">
 <!ENTITY notJunkButton.label "Тэнэмэл биш">
 <!ENTITY addressBookButton.label "Хаягийн тэмдэглэл">
@@ -447,8 +377,8 @@
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Нэмэлт захиа хайх">
-<!ENTITY clearButton.tooltip "Хайх нөхцлийг арилгаад бүх захиах харуул">
 <!ENTITY getMsgButton.tooltip "Шинэ захиа авах">
+<!ENTITY getAllNewMsgCmd.label "Бүх шинэ захиаг ав">
 <!ENTITY newMsgButton.tooltip "Шинэ захиа үүсгэ">
 <!ENTITY replyButton.tooltip "Захианд хариул">
 <!ENTITY replyAllButton.tooltip "Илгээгч болон бүх хүлээн авагсадад хариулж бич">
@@ -471,15 +401,11 @@
 <!ENTITY addNewTag.label "Шинэ таг…">
 <!ENTITY addNewTag.accesskey "а">
 
-<!-- Folder Pane -->
-<!ENTITY folderColumn.label "Нэр">
 <!ENTITY folderSizeColumn.label "Хэмжээ">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Захиа авах">
 <!ENTITY folderContextGetMessages.accesskey "в">
-<!ENTITY folderContextOpenNewWindow.label "Нээ">
-<!ENTITY folderContextOpenNewWindow.accesskey "Н">
 <!ENTITY folderContextOpenNewTab.label "Шинэ самбарт нээ">
 <!ENTITY folderContextOpenNewTab.accesskey "с">
 <!ENTITY folderContextNew.label "Шинэ дэд сан…">
@@ -504,18 +430,12 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "т">
 <!ENTITY folderContextSubscribe.label "Бүртгүүл…">
 <!ENTITY folderContextSubscribe.accesskey "Б">
-<!ENTITY folderContextSearchMessages.label "Хайх…">
-<!ENTITY folderContextSearchMessages.accesskey "й">
-<!ENTITY folderContextProperties.label "Шинж чанар…">
-<!ENTITY folderContextProperties.accesskey "ч">
 <!ENTITY folderContextFavoriteFolder.label "Эрхэмлэдэг сан">
 <!ENTITY folderContextFavoriteFolder.accesskey "н">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Нэр эсвэл Захианд хайх:">
 <!ENTITY SearchNameOrEmail.accesskey "Н">
-<!ENTITY clearButton.label "Арилга">
-<!ENTITY clearButton.accesskey "А">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Гарчиг">
@@ -537,7 +457,6 @@
 <!ENTITY statusColumn.label "Төлөв байдал">
 <!ENTITY sizeColumn.label "Хэмжээ">
 <!ENTITY junkStatusColumn.label "Тэнэмэл захианы төлөв байдал">
-<!ENTITY linesColumn.label "Мөр">
 <!ENTITY unreadColumn.label "Уншигдаагүй">
 <!ENTITY totalColumn.label "Нийт">
 <!ENTITY readColumn.label "Унших">
@@ -547,45 +466,17 @@
 <!ENTITY idColumn.label "Хүлээж авсан эрэмбэ">
 <!ENTITY attachmentColumn.label "Хавсралт">
 
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "Харуулах багануудыг сонго">
-<!ENTITY threadColumn.tooltip "Захианы дарааллыг харуул"> 
-<!ENTITY fromColumn.tooltip "Хэнээс ирсэнээр нь эрэмбэл">
-<!ENTITY recipientColumn.tooltip "Хүлээн авагчаар нь эрэмбэл">
-<!ENTITY subjectColumn.tooltip "Гарчигаар нь эрэмбэл">
-<!ENTITY dateColumn.tooltip "Огноогоор эрэмбэл">
-<!ENTITY priorityColumn.tooltip "Давуу эрхээр нь эрэмбэл">
-<!ENTITY tagsColumn.tooltip "Тагаар нь эрэмбэл">
-<!ENTITY accountColumn.tooltip "Бүртгэлээр нь эрэмбэл">
-<!ENTITY statusColumn.tooltip "Төлөв байдлаар нь эрэмбэл">
-<!ENTITY sizeColumn.tooltip "Хэмжээгээр нь эрэмбэл">
-<!ENTITY junkStatusColumn.tooltip "Тэнэмэл төлвөөр нь эрэмбэл">
-<!ENTITY unreadColumn.tooltip "Дараалалд буй уншигдаагүй захианы тоо">
-<!ENTITY totalColumn.tooltip "Дараалалд буй захианы нийт тоо">
-<!ENTITY readColumn.tooltip "Уншсанаар нь эрэмбэл">
-<!ENTITY receivedColumn.tooltip "Хүлээж авсан огноогоор нь эрэмбэл">
-<!ENTITY starredColumn.tooltip "Одоор нь эрэмбэл">
-<!ENTITY locationColumn.tooltip "Байрлалаар нь эрэмбэл">
-<!ENTITY idColumn.tooltip "Дарж ирсэн дарааллаар эрэмбэл">
-<!ENTITY attachmentColumn.tooltip "Хавсралтаар нь эрэмбэл">
-
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Захиаг шинэ цонхонд нээ">
 <!ENTITY contextOpenNewWindow.accesskey "ц">
 <!ENTITY contextOpenNewTab.label "Захиаг шинэ самбарт нээ">
 <!ENTITY contextOpenNewTab.accesskey "ш">
-<!ENTITY contextEditAsNew.label "Шинэ захиа мэт засварла…">
-<!ENTITY contextEditAsNew.accesskey "з">
 <!ENTITY contextReplySender.label "Зөвхөн илгээгчид хариул">
 <!ENTITY contextReplySender.accesskey "и">
-<!ENTITY contextReplyNewsgroup.label "Мэдээний груп руу хариулж бич">
-<!ENTITY contextReplyNewsgroup.accesskey "у">
 <!ENTITY contextReplyAll.label "Бүгдэд нь хариул">
 <!ENTITY contextReplyAll.accesskey "Б">
 <!ENTITY contextForward.label "Дамжуул">
 <!ENTITY contextForward.accesskey "Д">
-<!ENTITY contextForwardAsAttachment.label "Хавсралт болгож дамжуул">
-<!ENTITY contextForwardAsAttachment.accesskey "в">
 <!ENTITY contextMoveMsgMenu.label "Энд зөө">
 <!ENTITY contextMoveMsgMenu.accesskey "з">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Сүүлд ирсэн">
@@ -598,55 +489,30 @@
 <!ENTITY contextPrint.accesskey "л">
 <!ENTITY contextPrintPreview.label "Хэвлэх харагдац">
 <!ENTITY contextPrintPreview.accesskey "ц">
-<!ENTITY contextDelete.label "Устга">
-<!ENTITY contextDelete.accesskey "У">
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Тэнэмэл захиа">
-<!ENTITY junkBarButton1.label "Тэнэмэл биш">
-<!ENTITY junkInfoButton.label "?">
-
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage1.label "Таны хувийн нууцлалыг хамгаалах үүднээс дуудах зурагнуудыг хорьсон.">
-<!ENTITY loadRemoteContentButton1.label "Load Images">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage1.label "Сэжигтэй хуурмаг захиа">
-<!ENTITY removePhishingBarButton1.label "Анхааруулгыг үл тоо">
-<!ENTITY reportPhishingError.label "Энэ захиа хуурмаг биш">
-
+<!-- Quick Search Bar -->
 <!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Хаягийн тэмдэглэлд нэм…">
 <!ENTITY AddToAddressBook.accesskey "я">
-<!ENTITY SendMailTo.label "Энэ хаяг руу захиа бич">
-<!ENTITY SendMailTo.accesskey "б">
 <!ENTITY CopyEmailAddress.label "Захианы хаягийг сана">
 <!ENTITY CopyEmailAddress.accesskey "З">
 <!ENTITY CreateFilterFrom.label "Захианаас шүүлт үүсгэх…">
 <!ENTITY CreateFilterFrom.accesskey "х">
-<!ENTITY BlockAddress.label "Хаягийг хорь">
-<!ENTITY BlockAddress.accesskey "я">
 <!ENTITY reportPhishingURL.label "Хуурамч захиаг мэдэгдэх">
 <!ENTITY reportPhishingURL.accesskey "ч">
 
-<!-- Content Pane Context Menu -->
-<!ENTITY saveLinkCmd.label "Холбогдсон файлыг хадгал">
-<!ENTITY saveLinkCmd.accesskey "д">
-<!ENTITY saveImageCmd.label "Зургийг хадгал">
-<!ENTITY saveImageCmd.accesskey "а">
-<!ENTITY copyCmd.label "Сануул">
-<!ENTITY copyCmd.accesskey "С">
-<!ENTITY selectAllCmd.label "Бүгдийг сонго">
-<!ENTITY selectAllCmd.accesskey "Б">
 <!ENTITY copyLinkCmd.label "Холбоосыг сануул">
 <!ENTITY copyLinkCmd.accesskey "Х">
-<!ENTITY copyImageCmd.label "Зургийн хаягийг сануул">
-<!ENTITY copyImageCmd.accesskey "я">
 <!ENTITY copyEmailCmd.label "Захианы хаягийг сануул">
 <!ENTITY copyEmailCmd.accesskey "З">
+
+<!ENTITY stopCmd.label "Зогс">
+<!ENTITY stopCmd.accesskey "З"> 
+<!ENTITY reloadCmd.label "Дахин дууд">
+<!ENTITY reloadCmd.accesskey "Д">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "Дуудаж дууссан">
@@ -657,8 +523,6 @@
 <!ENTITY bringAllToFront.label "Бүгдийг өмнө нь авчир">
 <!ENTITY zoomWindow.label "Томруул">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "Тохируулга…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "Үйлчилгээ">
@@ -669,3 +533,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Бүгдийг нь харуул">
+

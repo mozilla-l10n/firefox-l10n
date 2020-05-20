@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Хайлтын дараагийн олдцыг харуулна
 findbar-previous =
     .tooltiptext = Хайлтын өмнөх олдцыг харуулна
+
 findbar-find-button-close =
     .tooltiptext = Олох самбарыг хаах
+

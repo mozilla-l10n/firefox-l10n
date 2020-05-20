@@ -1,12 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY offlineDialog.title       "Салангид үеийн тохиргоо">
 
-<!ENTITY textStartUp   "Эхлэх үед:">
 <!ENTITY radioRememberPrevState.label "Өмнөх үеийн холболтын төлвийг сана">
 <!ENTITY radioRememberPrevState.accesskey "с">
-<!ENTITY radioAskMe.label "Эхлэх үед холбогдсон төлөвд орох эсэхийг асуу">
-<!ENTITY radioAskMe.accesskey "а">
-<!ENTITY radioAlwaysOnline.label "Үргэлж холбогдсон төлвөөр эхэл">
-<!ENTITY radioAlwaysOnline.accesskey "э">
 
 <!ENTITY textGoingOnline "Холбогдох үед илгээгдээгүй захиануудыг илгээх үү?">
 <!ENTITY radioAutoSend.label "Тийм">

@@ -5,12 +5,16 @@
 cmd-find-updates =
     .label = Шинэчлэл хай
     .accesskey = ч
+
 detail-version =
     .label = Хувилбар
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 addon-category-extension = Өртгөтгөлүүд
 addon-category-extension-title =
     .title = Өртгөтгөлүүд
@@ -21,17 +25,21 @@ extensions-warning-safe-mode-label =
     .value = Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-label =
     .value = Нэмэгдлүүдийн тохиромжтой эсэхийг шалгах нь хоригдсон. Танд тохиромжгүй нэмэгдлүүд байж магадгүй.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-update-security-label =
     .value = Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 extensions-warning-safe-mode = Бүх нэмэгдлүүд хамгаалалтын горимд хоригдсон.
 extensions-warning-check-compatibility = Нэмэгдлүүдийн тохиромжтой эсэхийг шалгах нь хоригдсон. Танд тохиромжгүй нэмэгдлүүд байж магадгүй.
 extensions-warning-update-security = Нэмэгдлийн аюулгүйн нууцлалын шинэчлэл тохиргоо хоригдсон байна. Шинэчлэх явцад танд анхааруулах болно.
+
 
 ## Strings connected to add-on updates
 
