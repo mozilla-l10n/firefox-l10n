@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Davart ils plug-ins
+
 installed-plugins-label = Plug-ins installads
 no-plugins-are-installed-label = Chattà nagins plug-ins installads
+
 deprecation-description = Manca insatge? Il program na sustegna betg pli tut ils plug-ins. <a data-l10n-name="deprecation-link">Ulteriuras infurmaziuns.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Status:</span> Activà
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Status:</span> Activà ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Status:</span> Deactivà
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Status:</span> Deactivà ({ $blockListState })
+
 mime-type-label = Tip MIME
 description-label = Descripziun
 suffixes-label = Finiziuns

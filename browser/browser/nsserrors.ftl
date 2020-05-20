@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ina errur è succedida durant ina connexiun cun { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Code d'errur: { $error }
+
 psmerr-ssl-disabled = Impussibel da realisar ina connexiun segira, perquai ch'il protocol SSL è vegnì deactivà.
 psmerr-ssl2-disabled = Impussibel da realisar ina connexiun segira, perquai che la website utilisescha ina versiun pli veglia e malsegira dal protocol SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ti has retschavì in certificat nunvalid. Contactescha per plaschair l'administratur dal server u il correspundent dad e-mail e dà vinavant las suandantas infurmaziuns:
     
     Voss certificat cuntegna il medem numer da seria sco in auter certificat dal medem post da certificaziun. Cumprai per plaschair in nov certificat cun in numer da seria exact.
+
 ssl-error-export-only-server = Impussibel da communitgar a moda segira. La cuntrapart na sustegna nagin criptadi dad aut grad.
 ssl-error-us-only-server = Impussibel da communitgar a moda segira. La cuntrapart basegna in criptadi dad aut grad che na vegn betg sustegnì.
 ssl-error-no-cypher-overlap = Impussibel da communitgar a moda segira cun la cuntrapart: nagins algoritmus da criptadi communabels.

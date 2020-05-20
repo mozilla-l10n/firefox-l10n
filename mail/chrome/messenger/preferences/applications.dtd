@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Agiuntar in nov servetsch per memorisar datotecas">
 <!ENTITY removeCloudFileAccount.label     "Allontanar">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Tia autorisaziun è necessaria per vesair ils parameters da quest servetsch per memorisar datotecas.">
-<!ENTITY authRequired.button.label        "Autorisar">
-<!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY findCloudFileProviders.label     "Chattar ulteriurs purschiders…">
 

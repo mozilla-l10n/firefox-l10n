@@ -13,6 +13,7 @@ enable-common-message = Ils utensils per sviluppaders da Firefox èn deactivads 
 enable-learn-more-link = Vegnir a savair dapli davart ils utensils per sviluppaders
 enable-enable-button = Activar ils utensils per sviluppaders
 enable-close-button = Serrar quest tab
+
 welcome-title = Bainvegni tar ils utensils per sviluppaders da Firefox!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Retschaiva novitads per sviluppaders, trics e resursas directamain en tia chascha da posta entrada dad e-mail.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Jau sun d'accord che Mozilla tracta mias datas tenor 
 newsletter-subscribe-button = Abunar
 newsletter-thanks-title = Grazia!
 newsletter-thanks-message = Sche ti n'has anc mai abunà in newsletter da Mozilla, stos ti confermar l'abunament. Controllescha per plaschair sche tia posta entrada u tes filter da posta nungiavischada cuntegnia in e-mail da nus.
+
 footer-title = Firefox Developer Edition
 footer-message = Tschertgas ti dapli che mo ils utensils per sviluppaders? Emprova il navigatur da Firefox creà aposta per sviluppaders e process da lavur moderns.
 footer-learn-more-link = Ulteriuras infurmaziuns
+
 features-learn-more = Ulteriuras infurmaziuns
 features-inspector-title = Inspectur
 features-inspector-desc = Inspectar e perfecziunar code per crear impaginaziuns cun la precisiun dad in pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>

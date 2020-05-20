@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Scriver &amp; adressar">
 <!ENTITY addressingGroupTitle.label "Adressar">
 <!ENTITY addressingText.label      "Cun tschertgar adressas:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Scriver">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Scriver ils messadis en il format HTML">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "Citar automaticamain il messadi original cun respunder">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "e">
-<!ENTITY then.accesskey                       "e">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Cun citar,">
 <!ENTITY quoting.accesskey                    "c">

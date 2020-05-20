@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Serrar
     .accesskey = S
+
 show-passwords =
     .label = Mussar ils pleds-clav
     .accesskey = p

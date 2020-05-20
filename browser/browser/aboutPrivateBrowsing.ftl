@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Ulteriuras infurmaziuns davart <a data-l10n-name="learn-more">il modus privat</a>.
 about-private-browsing-info-visited = paginas visitadas
+
 privatebrowsingpage-open-private-window-label = Avrir ina fanestra privata
     .accesskey = P
 about-private-browsing-info-notsaved = Sche ti navigheschas en ina fanestra privata, na <strong>memorisescha { -brand-short-name } betg</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Ti n'es actualmain betg en ina fanestra pri
 content-blocking-title = Bloccada da cuntegn
 content-blocking-description = Tschertas websites utiliseschan fastizaders che pon survegliar tias activitads en l'internet. En fanestras privatas blochescha la bloccada da cuntegn da { -brand-short-name } automaticamain blers fastizaders che pon rimnar infurmaziuns davart tia navigaziun en l'internet.
 about-private-browsing-info-description = { -brand-short-name } stizza tia cronologia da tschertga e navigaziun cura che ti termineschas l'applicaziun u serras tut las fanestras e tut ils tabs privats. Cumbain che quai na ta renda betg anonim visavi websites u tes purschider dad internet, èsi in instrument util per impedir che autras persunas che utiliseschan quest computer vegnian ad infurmaziuns davart tias activitads online.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Moduls da protocol per Safe Browsing
 url-classifier-debug-modules = Moduls da protocol actuals
 url-classifier-debug-sbjs-modules = Protocol JS da Safe Browsing
 url-classifier-debug-file = Datoteca da protocol actuala
+
 url-classifier-trigger-update = Exequir l'actualisaziun
 url-classifier-not-available = Betg disponibel
 url-classifier-disable-sbjs-log = Deactivar il protocol JS per Safe Browsing

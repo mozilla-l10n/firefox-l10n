@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Nagin proxy per:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Exempel: .mozilla.org, .giuru.ch, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Utilisar quest proxy server per tut ils protocols ">
+<!ENTITY  shareproxy.accesskey          "x">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Las connexiuns cun localhost, 127.0.0.1 ed ::1 na dovran mai in proxy.">
-<!ENTITY  shareproxy.label              "Utilisar quest proxy server per tut ils protocols ">
-<!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  proxyHttpSharing.label        "Era utilisar quest proxy per HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Betg pretender l'autentificaziun sch'il pled-clav è memorisà">

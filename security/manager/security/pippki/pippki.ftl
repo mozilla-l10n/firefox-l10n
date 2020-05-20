@@ -8,6 +8,7 @@ password-quality-meter = Valitaziun da la qualitad dal pled-clav
 
 change-password-window =
     .title = Midar il pled-clav universal
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Modul da criptografia: { $tokenName }

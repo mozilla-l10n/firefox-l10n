@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Selecziunar tut">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "t">
+
 <!ENTITY findCmd.label             "Tschertgar">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "s">

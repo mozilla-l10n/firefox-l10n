@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Scrittiras
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Scrittiras per
     .accesskey = p
+
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporziunal
     .accesskey = P
+
 fonts-default-serif =
     .label = Cun serifas
 fonts-default-sans-serif =
     .label = Senza serifas
+
 fonts-proportional-size = Grondezza
     .accesskey = G
+
 fonts-serif = Serifas
     .accesskey = S
+
 fonts-sans-serif = Senza serifas
     .accesskey = z
+
 fonts-monospace = Largezza fixa
     .accesskey = f
+
 fonts-monospace-size = Grondezza
     .accesskey = r
+
 fonts-minsize = Grondezza minimala da la scrittira
     .accesskey = m
+
 fonts-minsize-none =
     .label = Nagina
+
 fonts-allow-own =
     .label = Permetter a paginas d'utilisar atgnas scrittiras empè da las scrittiras tschernidas survart
     .accesskey = P
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codaziun da text per cuntegn nundefinì
 fonts-languages-fallback-desc = Questa codaziun da text vegn utilisada per cuntegn nundefinì (legacy content) che n'ha betg definì la codaziun.
+
 fonts-languages-fallback-label = Alternativa per la codaziun dal text
     .accesskey = v
+
 fonts-languages-fallback-name-auto =
     .label = Standard per la lingua actuala
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamais
 fonts-languages-fallback-name-other =
     .label = Auter (incl. Europa Occidentala)
-fonts-very-large-warning-title = Grondezza da scrittira minimala gronda
-fonts-very-large-warning-message = Ti has tschernì ina grondezza da scrittira minimala fitg gronda (passa 24 pixels). Uschia èsi grev u impussibel dad utilisar intginas paginas da configuraziun impurtantas sco questa qua.
-fonts-very-large-warning-accept = Tuttina mantegnair mias midadas
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

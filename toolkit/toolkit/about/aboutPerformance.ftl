@@ -54,6 +54,7 @@ close-tab =
     .title = Serrar il tab
 show-addon =
     .title = Mussar en l'administraziun da supplements
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

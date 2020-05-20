@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Restaurar il tab serrà
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Tschertgar en ils tabs
+
 all-tabs-menu-new-user-context =
     .label = Nov tab da container
+
 all-tabs-menu-hidden-tabs =
     .label = Tabs zuppentads
+
 all-tabs-menu-manage-user-context =
     .label = Administrar ils containers
     .accesskey = A

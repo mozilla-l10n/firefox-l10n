@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Reaviar e deactivar ils supplements…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Remartgas davart la versiun">
-<!ENTITY releaseCmd2.accesskey "m">
-<!ENTITY whatsNewCmd.label "Novas">
-<!ENTITY whatsNewCmd.accesskey "N">
-<!ENTITY openHelp.label "Temas d'agid">
-<!ENTITY openHelp.accesskey "T">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Agid da &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "Davart &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "a">
 <!ENTITY helpSafeMode.stop.label     "Reaviar cun supplements activads">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Agid da &brandShortName;">

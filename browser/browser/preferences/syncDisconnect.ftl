@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Deconnectar { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Vuls ti era allontanar las datas da navigaziun sin quest computer? Tias datas da { -sync-brand-name } restan en mintga cas preservadas en tes conto.
+
 sync-disconnect-remove-sync-caption = Stizzar las datas da { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Segnapaginas, cronologia, pleds-clav etc.
+
 sync-disconnect-remove-other-caption = Stizzar autras datas privatas
+
 sync-disconnect-remove-other-data = Cookies, cache, datas offline da websites etc.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Deconnectar…
+
 sync-disconnect-cancel =
     .label = Interrumper
     .accesskey = I
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Deconnectar & stizzar
     .accesskey = z
+
 sync-disconnect-confirm-disconnect =
     .label = Mo deconnectar
     .accesskey = d

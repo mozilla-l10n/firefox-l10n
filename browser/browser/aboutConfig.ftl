@@ -7,7 +7,9 @@ about-config-warning-title = Hic sunt dracones!
 about-config-warning-text = La modificaziun da quests parameters avanzads po cumprometter la stabilitad, segirezza e prestaziun da questa applicaziun. Cuntinuescha mo sche ti sas tge che ti fas.
 about-config-warning-checkbox = Puspè dumandar la proxima giada, grazia.
 about-config-warning-button = Jau accept il ristg
+
 about-config2-title = Configuraziuns avanzadas
+
 about-config-search-input =
     .placeholder = Tschertgar
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Acceptar la ristga e cuntinuar
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = La modificaziun da questas preferenzas po cumprometter la prestaziun u la segirezza da { -brand-short-name }.
+
 about-config-page-title = Preferenzas avanzadas
+
 about-config-search-input1 =
     .placeholder = Tschertgar in num dad ina preferenza
 about-config-show-all = Mussar tut
+
 about-config-pref-add = Agiuntar
 about-config-pref-toggle = Alternar
 about-config-pref-edit = Modifitgar
 about-config-pref-save = Memorisar
 about-config-pref-reset = Redefinir
 about-config-pref-delete = Stizzar
+
 about-config-pref-add-button =
     .title = Agiuntar
 about-config-pref-toggle-button =

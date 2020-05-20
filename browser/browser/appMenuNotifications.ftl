@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Mintga nova extensiun che ti agiunteschas a { -brand-shorter-name } na vegn betg a funcziunar en fanestras privatas avant che ti permettias quai en ils parameters.
 appmenu-addon-private-browsing-learn-more = Vegnir a savair co administrar ils parameters da las extensiuns.
+    
 appmenu-new-tab-controlled =
     .label = La pagina «Nov tab» è vegnida midada.
     .buttonlabel = Preservar las modificaziuns
