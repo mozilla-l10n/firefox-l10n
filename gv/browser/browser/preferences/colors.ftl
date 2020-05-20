@@ -9,5 +9,7 @@ colors-window =
             [macos] width: 49em
            *[other] width: 46em
         }
+
 colors-close-key =
     .key = w
+

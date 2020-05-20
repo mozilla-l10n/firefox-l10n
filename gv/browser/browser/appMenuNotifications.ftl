@@ -7,3 +7,4 @@ appmenu-update-whats-new =
 appmenu-addon-private-browsing-installed =
     .buttonlabel = Mie dy liooar, t'eh aym
     .buttonaccesskey = M
+    
