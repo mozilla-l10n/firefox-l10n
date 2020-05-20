@@ -13,10 +13,13 @@ protections-panel-sendreportview-error = अहवाल पाठविता�
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = वर्धित ट्रॅकिंग संरक्षण बद्दल अधिक माहिती
+
 protections-panel-etp-on-header = या साइटसाठी वर्धित ट्रॅकिंग संरक्षण चालू आहे
 protections-panel-etp-off-header = या साइटसाठी वर्धित ट्रॅकिंग संरक्षण बंद आहे
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = साइट कार्यरत नाही?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = साइट कार्यरत नाही?
@@ -30,7 +33,9 @@ protections-panel-not-blocking-why-etp-off-tooltip = या साइटवर�
 ##
 
 protections-panel-no-trackers-found = या पृष्ठावर { -brand-short-name } ला ज्ञात कोणतेही ट्रॅकर आढळले नाहीत.
+
 protections-panel-content-blocking-tracking-protection = ट्रॅकिंग मजकूर
+
 protections-panel-content-blocking-socialblock = सोशल मीडिया ट्रॅकर
 protections-panel-content-blocking-cryptominers-label = क्रिप्टोमाइनर
 protections-panel-content-blocking-fingerprinters-label = फिंगरप्रिंटर
@@ -55,12 +60,14 @@ protections-panel-showreport-label = अहवाल दर्शवा
 
 # The header of the list
 protections-panel-site-not-working-view-header = आपल्‍याला यासह समस्‍या येत असल्यास संरक्षण बंद करा:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = लॉगिन फील्ड
 protections-panel-site-not-working-view-issue-list-forms = फॉर्म
 protections-panel-site-not-working-view-issue-list-payments = देयके
 protections-panel-site-not-working-view-issue-list-comments = टिप्पण्या
 protections-panel-site-not-working-view-issue-list-videos = व्हिडीओ
+
 protections-panel-site-not-working-view-send-report = अहवाल पाठवा
 
 ##
@@ -68,6 +75,7 @@ protections-panel-site-not-working-view-send-report = अहवाल पाठ�
 protections-panel-content-blocking-manage-settings =
     .label = संरक्षण सेटिंग व्यवस्थापित करा
     .accesskey = M
+
 protections-panel-content-blocking-breakage-report-view =
     .title = एक तुटलेली साइट नोंदवा
 protections-panel-content-blocking-breakage-report-view-collection-url = URL

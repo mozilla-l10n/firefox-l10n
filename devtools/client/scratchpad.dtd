@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
@@ -67,6 +69,8 @@
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
+
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "लहान टंक">
 <!ENTITY smallerFont.accesskey        "m">

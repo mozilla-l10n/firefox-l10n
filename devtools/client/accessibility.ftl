@@ -6,15 +6,19 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = अधिक जाणा
+
 accessibility-text-label-header = मजकूर लेबल आणि नावे
+
 accessibility-keyboard-header = कीबोर्ड
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = चेतावनी
+
 accessibility-fail =
     .alt = त्रुटी
+
 accessibility-best-practices =
     .alt = उत्तम सवयी
 

@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "प्रत्येक साईट भेटीवर कमी माहिती खर्च करण्यासाठी प्रतिमा अडवा.">
 <!ENTITY firstrun_sync_title "ताळमेळ">
 <!ENTITY firstrun_sync_message3 "आपले बुकमार्क, इतिहास आणि संकेतशब्द आपल्या फोनवर सिंक करा.">
-<!ENTITY updatednewfirstrun_sync_title "खाते">
-<!ENTITY firstrun_sync_message2 "आपण जिथून सोडले तिथून उचला.">
 <!ENTITY firstrun_sync_subtext2 "आपल्या सर्व डिव्हाइसेसवर &brandShortName; मध्ये आपण जतन केलेले बुकमार्क, संकेतशब्द आणि इतर गोष्टी शोधण्यासाठी Sync वापरा.">
 <!ENTITY newfirstrun_sync_subtext "मोबाईल मध्ये साठवलेल्या गोष्टी Firefox डेस्कटॉप वर सुरक्षित आणि खाजगीरित्या मिळवा.">
 <!ENTITY firstrun_sendtab_title "टॅब पाठवा">
 <!ENTITY firstrun_sendtab_message "मोबाईलवरून डेस्कटॉपवर टॅब शेअर करा - झटपट.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; मधून जास्तीतजास्त फायदा मिळवण्यासाठी साइन इन करा">
 <!ENTITY firstrun_signin_message "जोडणी करा, प्रारंभ करा">
-<!ENTITY firstrun_signin_button "सींक करण्यासाठी साइन इन करा">
-<!ENTITY newfirstrun_signin_button "सिंक चालू करा">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; मध्ये साइन इन करा">
 <!ENTITY  onboard_start_button_browser "ब्राउझिंगला सुरुवात करा">
 <!ENTITY firstrun_button_notnow "सध्या नाही">
 <!ENTITY firstrun_button_next "पुढे">
 <!ENTITY firstrun_signup_button "साइन अप करा">
-
-<!ENTITY firstrun_signin_button2 "साइन इन करा">
 
 <!ENTITY firstrun_tabqueue_title "दुवे">
 
@@ -480,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; स्थान सेवा चालू आहे">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "स्वयंचलीत अद्ययावत">
-<!ENTITY pref_update_autodownload_wifi "फक्त वाय-फायवर">
-<!ENTITY pref_update_autodownload_never "कधीच नाही">
-<!ENTITY pref_update_autodownload_always "नेहमी">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "मदत">
 
@@ -753,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "वाचनखूणा आणि इतिहास">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; साठी नवीन आवृत्ती उपलब्ध">
-<!ENTITY updater_start_select2 "डाउनलोड करण्यासाठी स्पर्श करा">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड होत आहे">
-<!ENTITY updater_downloading_title_failed2 "डाउनलोड अयशस्वी">
-<!ENTITY updater_downloading_select2 "डाउनलोड झाल्यावर अद्ययावत सक्रीय करण्यासाठी स्पर्श करा">
-<!ENTITY updater_downloading_retry2 "पुनःप्रयत्नासाठी स्पर्श करा">
-
-<!ENTITY updater_apply_title3 "&brandShortName; ची नवीन आवृत्ती डाउनलोड झाली आहे">
-<!ENTITY updater_apply_select3 "प्रतिष्ठापनेसाठी स्पर्श करा">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "फाइल्स आणि अद्यावत संबंधी डाटा डाउनलोड करण्यासाठी &brandShortName; ला स्टोरेज वापरण्यास परवानगी द्या.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "परवानगी द्या">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "नवीन अतिथी सत्र">
 <!ENTITY exit_guest_session "अतिथी सत्रातुन बाहेर पडा">
@@ -891,8 +856,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "साइन इन करा.">
 
-<!ENTITY activity_stream_signin_button "साइन इन करा">
-
 <!ENTITY activity_stream_topsites "खास साईट">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; द्वारे शिफारस केलेले">
@@ -950,7 +913,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "ध्वनी आणि व्हिडिओ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; सल्ले व युक्त्या">
-<!ENTITY updater_notification_channel "अॅप अद्यतने">
 <!ENTITY synced_tabs_notification_channel "समकालीत टॅब">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

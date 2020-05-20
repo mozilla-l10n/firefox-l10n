@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "सर्व निवडा">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "शोधा">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

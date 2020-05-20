@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = शब्दसमुहाचे पुढचे प्रत्यक्ष शोधा
 findbar-previous =
     .tooltiptext = शब्दसमुहाचे पूर्वीचे प्रत्यक्ष शोधा
+
 findbar-find-button-close =
     .tooltiptext = शोध पट्टी बंद करा
+
 findbar-highlight-all2 =
     .label = सर्व ठळक करा
     .accesskey =
@@ -19,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = आढळलेले सर्व वाक्यांश ठळक करा
+
 findbar-case-sensitive =
     .label = आकार जुळवा
     .accesskey = c
     .tooltiptext = आकार संवदेनशीलतासह शोधा
+
 findbar-entire-word =
     .label = पूर्ण शब्द
     .accesskey = W

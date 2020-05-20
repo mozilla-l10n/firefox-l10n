@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } सोबत जुळवणी स्थापीत करताना त्रुटी आढळली. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = त्रुटी कोड: { $error }
+
 psmerr-ssl-disabled = SSL शिष्टाचार अकार्यान्वीत केल्यामुळे जुळवणी सुरक्षीतरित्या स्थपीत होऊ शकत नाही.
 psmerr-ssl2-disabled = स्थळ जुणे, SSL शिष्टाचारची असुरक्षीत आवृत्ती वापरत असल्यामुळे जुळवणी सुरक्षीतरित्या स्थपीत होऊ शकत नाही.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     आपल्याकडे अवैध प्रमाणपत्र प्राप्त झाले आहे.  कृपया सर्व्हर अध्यापक किंवा ईमेल घटकाशी संपर्क साधून खालिल माहिती कळवा:
     
     आपल्या प्रमाणपत्रात प्रमाणपत्र अधिप्रमाण द्वारे पुरविले गेलेले सिरीयल क्रमांक समाविष्ठीत आहे.  कृपया करून एकमेव सिरीयल क्रमांक समाविष्ठीत नवीन प्रमाणपत्र प्राप्त करा.
+
 ssl-error-export-only-server = सुरक्षीतरित्या संवाद स्थापीत करू शकत नाही. दुसऱ्या बाजुकडून उच्च-दर्जाचे एनक्रिप्शन समर्थित नाही.
 ssl-error-us-only-server = सुरक्षीतरित्या संवाद स्थापीत करू शकत नाही. दुसऱ्या बाजुला अपेक्षीत असलेले उच्च-दर्जाचे एनक्रिप्शन समर्थीत नाही.
 ssl-error-no-cypher-overlap = समघटकाशी सुरक्षीतरित्या संवाद स्थापीत करू शकले नाही: समान एनक्रिप्शन अलगोरिदम आढळले नाही.

@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = नवीन खाजगी पटलात दुवा उघडा
     .accesskey = P
+
 places-new-bookmark =
     .label = नवीन वाचनखूण…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = नवीन विभाजक
     .accesskey = S
+
 places-view =
     .label = दृष्य
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = दिनांक व साईटप्रमाणे
     .accesskey = t
+
 places-history-search =
     .placeholder = शोध इतिहास
 places-bookmarks-search =
     .placeholder = वाचनखूणा शोधा
+
 places-delete-domain-data =
     .label = या साईटविषयी विसरून जा
     .accesskey = F

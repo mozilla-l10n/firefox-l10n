@@ -13,6 +13,7 @@ certificate-viewer-authority-info-aia = प्राधिकरण माहि
 certificate-viewer-certificate-policies = प्रमाणपत्र धोरणे
 certificate-viewer-embedded-scts = एम्बेड केलेले SCTs
 certificate-viewer-crl-endpoints = CRL समापन बिंदू
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = डाउनलोड
@@ -27,4 +28,6 @@ certificate-viewer-boolean =
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+## Labels for tabs displayed in stand-alone about:certificate page
 

@@ -7,7 +7,9 @@ about-config-warning-title = इथे ड्रॅगन आहेत!
 about-config-warning-text = प्रगत सेटिंग्जमधील बदल या ॲप्लिकेशनची स्थिरता, सुरक्षा, व कार्यक्षमता करीता धोकादायक ठरू शकते. पुढे नक्की असल्यावरच पुढे जावे.
 about-config-warning-checkbox = कृपया मला पुन्हा त्रास द्या!
 about-config-warning-button = मी ही जोखीम पत्करतो
+
 about-config2-title = प्रगत संरचना
+
 about-config-search-input =
     .placeholder = शोधा
 
@@ -18,18 +20,24 @@ about-config-intro-warning-button = जोखिम स्वीकारा आ
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = ही प्राधान्ये बदलल्यास { -brand-short-name } कार्यक्षमता किंवा सुरक्षिततेवर परिणाम होऊ शकतो.
+
 about-config-page-title = प्रगत प्राधान्यक्रम
+
 about-config-search-input1 =
     .placeholder = प्राधान्य नाव शोधा
 about-config-show-all = सर्व दर्शवा
+
 about-config-pref-add = जोडा
 about-config-pref-toggle = बदला
 about-config-pref-edit = संपादित करा
 about-config-pref-save = साठवा
 about-config-pref-reset = मूळस्थितीत आणा
 about-config-pref-delete = नष्ट करा
+
 about-config-pref-add-button =
     .title = जोडा
 about-config-pref-toggle-button =

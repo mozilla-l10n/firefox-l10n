@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = टंक
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = यासाठी टंक
     .accesskey = f
+
 fonts-langgroup-arabic =
     .label = अरबी
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = प्रमाणबध्द
     .accesskey = p
+
 fonts-default-serif =
     .label = अलंकृत
 fonts-default-sans-serif =
     .label = निलंकृत
+
 fonts-proportional-size = आकार
     .accesskey = z
+
 fonts-serif = सेरिफ
     .accesskey = S
+
 fonts-sans-serif = सँस-सेरिफ
     .accesskey = n
+
 fonts-monospace = मोनोस्पेस
     .accesskey = M
+
 fonts-monospace-size = आकार
     .accesskey = e
+
 fonts-minsize = किमान टंक आकार
     .accesskey = o
+
 fonts-minsize-none =
     .label = काहिच नाही
+
 fonts-allow-own =
     .label = वरील आपल्या प्राधान्या ऐवजी, पृष्ठांना स्वतःचे टंक निवडण्यास परवानगी द्या
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = लेगसि कंटेंटकरिता कॅरेक्टर एंकोडिंग
 fonts-languages-fallback-desc = वारसा मजकूर जे स्वतःचे एन्कोडिंग घोषीत करण्यास अपयशी ठरते त्यासाठी हे मजकूर एन्कोडिंग वापरले जाते.
+
 fonts-languages-fallback-label = फॉलबॅक मजकूर एन्कोडिंग
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = सध्याच्या लोकेलकरिता पूर्वनिर्धारित
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = वियटनामीज
 fonts-languages-fallback-name-other =
     .label = इतर (वेस्टर्न युरोपियन समाविष्टीत)
-fonts-very-large-warning-title = मोठा किमान टंक आकार
-fonts-very-large-warning-message = आपण खूप मोठा टंक आकार निवडला आहे (24 पिक्सेल पेक्षा अधिक). याच्यामुळे या पृष्ठासारखी काही पृष्ठे वापरणे अवघड होईल किंवा अशक्य होईल.
-fonts-very-large-warning-accept = काहीही असो माझे बदल तसेच ठेवा
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
