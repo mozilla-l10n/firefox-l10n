@@ -54,6 +54,7 @@ close-tab =
     .title = Užverti kortelę
 show-addon =
     .title = Rodyti priedų tvarkytuvėje
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

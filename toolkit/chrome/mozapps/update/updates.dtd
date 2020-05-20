@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Dalinis atnaujinimas nepavyko. „&brandShortName;“ bandys dar kartą, atsiuntus visą naujinimą.">
 
 <!ENTITY  genericBackgroundError.label    "Programai „&brandShortName;“ nepavyko patikrinti, ar yra galimų programos naujinimų. Prašome patikrinti, ar turite naujausią „&brandShortName;“ laidą, adresu:">
-
+                                           
 <!ENTITY  finishedPage.title              "Naujinimas paruoštas diegimui">
 <!ENTITY  finishedPage.text               "Naujinimas bus įdiegtas kitą kartą paleidus „&brandShortName;“. Galite paleisti „&brandShortName;“ iš naujo dabar, arba tęsti darbą ir tai padaryti vėliau.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Naujinimas bus įdiegtas kitą kartą paleidus „&brandShortName;“. Galite paleisti „&brandShortName;“ iš naujo dabar, arba tęsti darbą ir tai padaryti vėliau.">
 <!ENTITY  finishedBackground.moreElevated "Šis naujinimas reikalauja administratoriaus teisių. Naujinimas bus įdiegtas kitą kartą paleidžiant „&brandShortName;“. Galite perleisti „&brandShortName;“ dabar, tęsti darbą ir perleisti vėliau, arba atsisakyti šio naujinimo.">
 
-<!ENTITY  update.details.label            "Išsamiau">
-<!ENTITY  update.installedOn.label        "Įdiegta:">
-<!ENTITY  update.status.label             "Būsena:">

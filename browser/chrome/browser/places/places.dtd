@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Naujas skirtukas">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Įkelti sklaidos kanalą iš naujo">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "t">
-
-<!ENTITY cmd.moveBookmarks.label                  "Perkelti…">
-<!ENTITY cmd.moveBookmarks.accesskey              "P">
-
 <!ENTITY col.name.label          "Pavadinimas">
 <!ENTITY col.tags.label          "Gairės">
 <!ENTITY col.url.label           "Adresas">
 <!ENTITY col.mostrecentvisit.label "Paskiausiai lankytasi">
 <!ENTITY col.visitcount.label    "Aplankymų kiekis">
-<!ENTITY col.description.label   "Aprašas">
 <!ENTITY col.dateadded.label     "Įtrauktas">
 <!ENTITY col.lastmodified.label  "Atnaujintas">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Eiti pirmyn">
 
-<!ENTITY detailsPane.more.label "Daugiau">
-<!ENTITY detailsPane.more.accesskey "a">
-<!ENTITY detailsPane.less.label "Mažiau">
-<!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.selectAnItemText.description "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">
 
 <!ENTITY view.label               "Rodyti">

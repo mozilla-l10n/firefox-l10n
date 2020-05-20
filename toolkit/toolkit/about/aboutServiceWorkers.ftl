@@ -9,17 +9,12 @@ about-service-workers-title = Apie aptarnavimo scenarijus
 about-service-workers-main-title = Registruoti aptarnavimo scenarijai
 about-service-workers-warning-not-enabled = Aptarnavimo scenarijai yra išjungti.
 about-service-workers-warning-no-service-workers = Nėra registruotų aptarnavimo scenarijų.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Kilmė: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = „{ -brand-short-name }“ programos ID { $appId } – „InBrowserElement“ { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Aktyvaus podėlio pavadinimas:</strong> { $name }
 waiting-cache-name = <strong>Laukiančio podėlio pavadinimas:</strong> { $name }
 push-end-point-waiting = <strong>Galinis siuntimo taškas:</strong> { waiting }
 push-end-point-result = <strong>Galinis siuntimo taškas:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Atnaujinti
+
 unregister-button = Išregistruoti
+
 unregister-error = Nepavyko išregistruoti šio scenarijaus.
+
 waiting = Laukiama…

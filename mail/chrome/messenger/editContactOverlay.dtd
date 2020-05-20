@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Adresų knyga:">
 <!ENTITY editContactAddressBook.accesskey "k">
 
-<!ENTITY editContactPanelCancel.label "Atsisakyti">
-<!ENTITY editContactPanelCancel.accesskey "A">
-
 <!ENTITY editContactPanelDone.label "Įrašyti">
 <!ENTITY editContactPanelDone.accesskey "r">
 

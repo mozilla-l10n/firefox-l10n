@@ -5,50 +5,66 @@
 permissions-window =
     .title = Išimtys
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Svetainės adresas
     .accesskey = d
+
 permissions-block =
     .label = Neleisti
     .accesskey = N
+
 permissions-session =
     .label = Leisti vienam seansui
     .accesskey = s
+
 permissions-allow =
     .label = Leisti
     .accesskey = L
+
 permissions-site-name =
     .label = Svetainė
+
 permissions-status =
     .label = Leidimas
+
 permissions-remove =
     .label = Pašalinti svetainę
     .accesskey = P
+
 permissions-remove-all =
     .label = Pašalinti visas svetaines
     .accesskey = v
+
 permissions-button-cancel =
     .label = Atsisakyti
     .accesskey = A
+
 permissions-button-ok =
     .label = Įrašyti pakeitimus
     .accesskey = r
+
 permissions-autoplay-menu = Numatyta visoms svetainėms:
+
 permissions-searchbox =
     .placeholder = Ieškoti svetainėje
+
 permissions-capabilities-autoplay-allow =
     .label = Leisti garsus ir vaizdo įrašus
 permissions-capabilities-autoplay-block =
     .label = Blokuoti garsus
 permissions-capabilities-autoplay-blockall =
     .label = Blokuoti garsus ir vaizdo įrašus
+
 permissions-capabilities-allow =
     .label = Leisti
 permissions-capabilities-block =
     .label = Neleisti
 permissions-capabilities-prompt =
     .label = Visada klausti
+
 permissions-capabilities-listitem-allow =
     .value = Leisti
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Išimtys – turinio blokavimas
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Šiose svetainėse esate išjungę turinio blokavimą.
+
 permissions-exceptions-etp-window =
     .title = Išimtys išplėstai apsaugai nuo stebėjimo
     .style = { permissions-window.style }

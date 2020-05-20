@@ -103,6 +103,7 @@ print-window =
     .title = Spausdinimas
 print-complete =
     .value = Spausdinimas baigtas.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

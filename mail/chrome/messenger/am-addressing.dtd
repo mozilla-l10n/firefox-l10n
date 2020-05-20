@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Laiškų rašymas ir adresavimas">
 <!ENTITY addressingGroupTitle.label "Laiškų adresavimas">
 <!ENTITY addressingText.label      "Parenkant adresus:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Nėra">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Laiškų rašymas">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

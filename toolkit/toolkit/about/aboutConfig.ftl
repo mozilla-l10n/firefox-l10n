@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Sutinku su rizika!
 config-about-warning-checkbox =
     .label = Rodyti šį pranešimą kitą kartą
+
 config-search-prefs =
     .value = Ieškoti:
     .accesskey = e
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopijuoti
     .accesskey = K
+
 config-copy-name =
     .label = Kopijuoti vardą
     .accesskey = v
+
 config-copy-value =
     .label = Kopijuoti reikšmę
     .accesskey = r
+
 config-modify =
     .label = Modifikuoti
     .accesskey = M
+
 config-toggle =
     .label = Perjungti
     .accesskey = P
+
 config-reset =
     .label = Atstatyti
     .accesskey = A
+
 config-new =
     .label = Naujas
     .accesskey = N
+
 config-string =
     .label = Simbolių eilutė
     .accesskey = S
+
 config-integer =
     .label = Sveikasis skaičius
     .accesskey = v
+
 config-boolean =
     .label = Loginis
     .accesskey = L
+
 config-default = numatytasis
 config-modified = pakeista
 config-locked = užblokuotas
+
 config-property-string = eilutė
 config-property-int = sveikasis sk.
 config-property-bool = loginis
+
 config-new-prompt = Įveskite nuostatos vardą
+
 config-nan-title = Nepriimtina reikšmė
 config-nan-text = Jūsų įvestas tekstas yra ne skaičius.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nauja { $type } reikšmė
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Įveskite { $type } reikšmę

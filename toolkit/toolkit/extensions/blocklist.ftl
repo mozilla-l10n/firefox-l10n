@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Paleisti „{ -brand-short-name }“ iš naujo
     .accesskey = l
+
 blocklist-label-summary = „{ -brand-short-name }“ nustatė, jog šie priedai yra žinomi kaip stabilumo ar saugumo problemų sukėlėjai:
 blocklist-soft-and-hard = Priedai, kurie labai tikėtina, jog sukeltų stabilumo ar saugumo problemų, buvo užblokuoti. Kitiems priedams ši tikimybė mažesnė, tačiau patariame paleisti programą iš naujo, juos išjungus.
 blocklist-hard-blocked = Labai tikėtina, jog šie priedai sukeltų stabilumo ar saugumo problemų, todėl jie užblokuoti, tačiau kad jie būtų visiškai išjungti, reikia paleisti programą iš naujo.
 blocklist-soft-blocked = Jūsų saugumo vardan patariame paleisti programą iš naujo, išjungus šiuos priedus.
 blocklist-more-information =
     .value = Išsamiau
+
 blocklist-blocked =
     .label = Užblokuotas
 blocklist-checkbox =
