@@ -20,6 +20,7 @@ open-location = Bëni kërkim ose jepni adresë
 share = Ndajeni me të tjerët
 close-window = Mbylleni Dritaren
 open-sidebar = Anështylla
+
 # This string describes shortcuts for search.
 search-popover = Kërko për shkurtore
 # Describes searches limited to a specific scope

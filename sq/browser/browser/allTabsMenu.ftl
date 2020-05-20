@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Zhbëje Mbylljen e Skedës
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Kërko Në Skeda
+
 all-tabs-menu-new-user-context =
     .label = Skedë e Re Kontejneri
+
 all-tabs-menu-hidden-tabs =
     .label = Skeda të Fshehura
+
 all-tabs-menu-manage-user-context =
     .label = Administroni Kontejner
     .accesskey = o

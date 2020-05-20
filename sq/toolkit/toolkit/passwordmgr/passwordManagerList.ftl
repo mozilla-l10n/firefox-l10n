@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Mbylleni
     .accesskey = M
+
 show-passwords =
     .label = Shfaqi Fjalëkalimet
     .accesskey = a

@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL Prurjeje: ">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Jepni për Shtim një url të vlefshme prurjeje">
 <!ENTITY feedLocation2.placeholder   "Jepni një url të vlefshme prurjeje">
 <!ENTITY locationValidate.label      "Kontrolloje">
 <!ENTITY validateText.label          "Kontrolloji vlefshmërinë dhe përdor një url të vlefshme.">

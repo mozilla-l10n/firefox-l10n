@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Të shkëputet { -sync-brand-short-name }-u?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Doni të hiqen gjithashtu të dhëna shfletuesi në këtë kompjuter? Të dhënat tuaja { -sync-brand-name } do të mbeten në llogarinë tuaj, sido që të jetë.
+
 sync-disconnect-remove-sync-caption = Hiq të Dhëna { -sync-brand-name }-u
+
 sync-disconnect-remove-sync-data = Faqerojtës, historik, fjalëkalime, etj.
+
 sync-disconnect-remove-other-caption = Hiq të Dhëna të Tjera Private
+
 sync-disconnect-remove-other-data = Të dhëna cookie-sh, fshehtine, sajti <em>offline</em>, etj.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Po shkëputet…
+
 sync-disconnect-cancel =
     .label = Anuloje
     .accesskey = A
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Shkëputu & Fshije
     .accesskey = S
+
 sync-disconnect-confirm-disconnect =
     .label = Thjesht Shkëputu
     .accesskey = T

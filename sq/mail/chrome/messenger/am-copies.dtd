@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Kopje &amp; Dosje">
 <!ENTITY sendingPrefix.label "Kur dërgohen mesazhe, automatikisht: ">
 <!ENTITY fccMailFolder.label "Vendos një kopje në:">

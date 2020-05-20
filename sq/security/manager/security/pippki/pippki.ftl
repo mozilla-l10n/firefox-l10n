@@ -8,6 +8,7 @@ password-quality-meter = Matës cilësie fjalëkalimesh
 
 change-password-window =
     .title = Ndryshoni Fjalëkalimin e Përgjithshëm
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Pajisje Sigurie: { $tokenName }

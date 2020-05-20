@@ -12,13 +12,13 @@
 <!ENTITY serverPort.accesskey "O">
 <!ENTITY userName.label "Emër Përdoruesi:">
 <!ENTITY userName.accesskey "d">
-<!ENTITY smtpEditTitle.label "Shërbyes SMTP">
-<!ENTITY serverPortDefault.label "Parazgjedhje:">
 <!ENTITY connectionSecurity.label "Siguri lidhjeje:">
 <!ENTITY connectionSecurity.accesskey "l">
 <!ENTITY connectionSecurityType-0.label "Asnjë">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, në pastë">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY smtpEditTitle.label "Shërbyes SMTP">
+<!ENTITY serverPortDefault.label "Parazgjedhje:">
 <!ENTITY authMethod.label "Metodë mirëfilltësimi:">
 <!ENTITY authMethod.accesskey "M">

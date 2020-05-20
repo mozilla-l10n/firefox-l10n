@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Shkarko mesazhe të rinj vetvetiu">
 <!ENTITY downloadOnBiff.accesskey "k">
-<!ENTITY username.label "Emri Juaj për Hyrje">
 <!ENTITY deleteMessagePrefix.label "Kur fshij një mesazh:">
 <!ENTITY modelMoveToTrash.label "Shpjere te kjo dosje:">
 <!ENTITY modelMoveToTrash.accesskey "s">

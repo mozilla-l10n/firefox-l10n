@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Mundësi Arkivimi">
 <!ENTITY archiveGranularityPrefix.label "Kur arkivohen mesazhet, vendosi në:">
 <!ENTITY archiveFlat.label "Një dosje të vetme">

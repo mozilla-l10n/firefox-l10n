@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Çfarëdo zgjerimesh të reja që shtoni te { -brand-shorter-name } s’do të funksionojë në Dritare Private, veç në e lejofshi ju këtë te rregullimet.
 appmenu-addon-private-browsing-learn-more = Mësoni si të administroni rregullime zgjerimesh.
+    
 appmenu-new-tab-controlled =
     .label = Rregullimet tuaja për Skedë të Re kanë ndryshuar.
     .buttonlabel = Mbaji Ndryshimet

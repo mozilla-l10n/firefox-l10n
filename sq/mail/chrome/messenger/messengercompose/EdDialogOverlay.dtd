@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Ndryshim midis URL-je relative dhe URL-je absolute. Për të ndryshuar këtë, duhet fillimisht ta ruani faqen.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Jepni vendndodhje web të faqes, kartelë vendore, ose përzgjidhni një Spirancë të Emërtuar ose Titull prej listës hapmbyll:">
-<!ENTITY LinkURLEditField.accessKey "J">
 <!ENTITY LinkURLEditField2.label "Jepni vendndodhjen e një faqeje web, një kartelë vendore, ose përzgjidhni një Spirancë ose Krye të Emërtuar prej menusë së kontekstit për fushën:">
 <!ENTITY LinkURLEditField2.accessKey "J">

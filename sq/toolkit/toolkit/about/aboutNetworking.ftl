@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Socket-e
 dns = DNS
-dnssuffix = Prapashtesë DNS
 websockets = Socket-e Web
 refresh = Rifreskoje
 auto-refresh = Vetërifreskohu çdo 3 sekonda
 hostname = Strehëemër
 port = Portë
 http2 = HTTP/2
-about-networking-title = Rreth Punimit në Rrjet
-about-networking-http = HTTP
-about-networking-sockets = Socket-e
-about-networking-dns = DNS
-about-networking-dns-suffix = Prapashtesë DNS
-about-networking-websockets = Socket-e Web
-about-networking-refresh = Rifreskoje
-about-networking-auto-refresh = Vetërifreskohu çdo 3 sekonda
-about-networking-hostname = Strehëemër
-about-networking-port = Portë
-about-networking-http-version = Version HTTP
 ssl = SSL
 active = Aktiv
 idle = I plogësht
@@ -64,8 +52,18 @@ rcwn-perf-write = Shkrim
 rcwn-perf-entry-open = Mesatare e Shkurtër
 rcwn-avg-short = Mesatare e Shkurtër
 rcwn-avg-long = Mesatare e Gjerë
-networkid = ID Rrjeti
-networkid-id = ID Rrjeti
+
+about-networking-title = Rreth Punimit në Rrjet
+about-networking-http = HTTP
+about-networking-sockets = Socket-e
+about-networking-dns = DNS
+about-networking-dns-suffix = Prapashtesë DNS
+about-networking-websockets = Socket-e Web
+about-networking-refresh = Rifreskoje
+about-networking-auto-refresh = Vetërifreskohu çdo 3 sekonda
+about-networking-hostname = Strehëemër
+about-networking-port = Portë
+about-networking-http-version = Version HTTP
 about-networking-ssl = SSL
 about-networking-active = Aktiv
 about-networking-idle = I plogësht
@@ -108,8 +106,6 @@ about-networking-networkid-id = ID Rrjeti
 
 ## Link is intended as "network link"
 
-networkid-isUp = Lidhja funksionon
-networkid-statusKnown = Gjendja e lidhjes është e njohur
 about-networking-networkid-is-up = Lidhja funksionon
 about-networking-networkid-status-known = Gjendja e lidhjes është e njohur
 

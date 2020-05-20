@@ -7,7 +7,9 @@ about-config-warning-title = Hic sunt leones!
 about-config-warning-text = Ndryshimi i vlerave për këto rregullime të mëtejshme mund të jetë i dëmshëm për qëndrueshmërinë, sigurinë, dhe funksionimin e këtij aplikacioni. Duhet të vazhdoni vetëm nëse jeni i sigurt për çka po bëni.
 about-config-warning-checkbox = Bezdismëni prapë, ju lutem!
 about-config-warning-button = E pranoj rrezikun
+
 about-config2-title = Formësime të Thelluara
+
 about-config-search-input =
     .placeholder = Kërkoni
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Pranoni Rrezikun dhe Vazhdoni
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ndryshimi i këtyre parapëlqimeve mund të ketë ndikim në funksionimin dhe sigurinë e { -brand-short-name }-it.
+
 about-config-page-title = Parapëlqime të Mëtejshme
+
 about-config-search-input1 =
     .placeholder = Kërkoni për emër parapëlqimi
 about-config-show-all = Shfaqi Krejt
+
 about-config-pref-add = Shtoje
 about-config-pref-toggle = Këmbeje
 about-config-pref-edit = Përpunojeni
 about-config-pref-save = Ruaje
 about-config-pref-reset = Riktheje te parazgjedhjet
 about-config-pref-delete = Fshije
+
 about-config-pref-add-button =
     .title = Shtoni
 about-config-pref-toggle-button =

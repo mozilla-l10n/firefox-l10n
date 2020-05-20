@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Libër Adresash:">
 <!ENTITY editContactAddressBook.accesskey "L">
 
-<!ENTITY editContactPanelCancel.label "Anuloje">
-<!ENTITY editContactPanelCancel.accesskey "A">
-
 <!ENTITY editContactPanelDone.label "U bë">
 <!ENTITY editContactPanelDone.accesskey "u">
 

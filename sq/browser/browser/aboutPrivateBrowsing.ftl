@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Mësoni më tepër mbi<a data-l10n-name="learn-more">Shfletimin Privat</a>.
 about-private-browsing-info-visited = faqe të vizituara
+
 privatebrowsingpage-open-private-window-label = Hapni Dritare Private
     .accesskey = H
 about-private-browsing-info-notsaved = Kur shfletoni nga një Dritare Private, { -brand-short-name }-i <strong>nuk ruan</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Hëpërhë s'gjendeni në dritare private.
 content-blocking-title = Bllokim Lënde
 content-blocking-description = Disa sajte përdorin gjurmues që mund të vëzhgojnë veprimtarinë tuaj nëpër Internet. Në dritare private, Bllokimi i Lëndës nga { -brand-short-name }-i bllokon vetvetiu shumë gjurmues që mund të grumbullojnë të dhëna rreth mënyrës se si shfletoni.
 about-private-browsing-info-description = { -brand-short-name }-i e spastron historikun tuaj të kërkimeve dhe shfletimit, kur dilni nga aplikacioni apo mbyllni krejt skedat dhe dritaret e Shfletimit Privat. Edhe pse kjo s’ju bën anonim përballë sajteve apo furnizuesit të shërbimit tuaj internet, e bën më të lehtë mbajtjen private të asaj çka bëni në internet, nga cilido tjetër që përdor këtë kompjuter.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

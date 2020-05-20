@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Rregullime Llogarie">
 <!ENTITY accountName.label "Emër Llogarie:">
 <!ENTITY accountName.accesskey "L">
