@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "字体">
 <!ENTITY FontFaceSelect.tooltip "选择字体">
 <!ENTITY fontfaceMenu.label "字体">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "字体大小">
 <!ENTITY FontSizeSelect.tooltip "选择字体大小">
 <!ENTITY decreaseFontSize.label "缩小">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "列表属性…">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "段落">
 <!ENTITY ParagraphSelect.tooltip "选择段落格式">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "主体文本">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "对齐已调整">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "位置">
 <!ENTITY layer.tooltip "层">
+<!ENTITY decreaseZIndex.label "置后">
 <!ENTITY layerSendToBack.tooltip "置后">
+<!ENTITY increaseZIndex.label "前置">
 <!ENTITY layerBringToFront.tooltip "前置">
 
 <!ENTITY increaseIndent.label "增加缩进">
@@ -304,27 +310,41 @@
 <!ENTITY linkToolbarCmd.tooltip "插入新链接或编辑选择的链接特性">
 <!ENTITY anchorToolbarCmd.label "锚标">
 <!ENTITY anchorToolbarCmd.tooltip "插入新的锚标或编辑选择的锚标特性">
+<!ENTITY colorButtons.title "颜色">
 <!ENTITY TextColorButton.tooltip "为文本选择颜色">
 <!ENTITY BackgroundColorButton.tooltip "选择背景颜色">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY throbber.tooltip2 "前往 &brandShortName; 主页">
+<!ENTITY HighlightColorButton.label "荧光笔">
 <!ENTITY HighlightColorButton.tooltip "选择文本的加亮颜色">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "字体大小">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "设置字体大小">
+<!ENTITY smaller.label "缩小">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小字体">
+<!ENTITY larger.label "放大">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "放大字体">
+<!ENTITY bold.label "粗体">
 <!ENTITY boldToolbarCmd.tooltip "粗体">
+<!ENTITY italic.label "斜体">
 <!ENTITY italicToolbarCmd.tooltip "斜体">
+<!ENTITY underline.label "下划线">
 <!ENTITY underlineToolbarCmd.tooltip "下划线">
 <!ENTITY bulletListToolbarCmd.tooltip "应用或删除条目列表">
 <!ENTITY numberListToolbarCmd.tooltip "应用或删除编号列表">
 <!ENTITY outdentToolbarCmd.tooltip "突出文本（向左移动）">
+<!ENTITY indent.label "缩进">
 <!ENTITY indentToolbarCmd.tooltip "缩进文本（向右移动）">
+<!ENTITY AlignPopupButton.label "对齐">
 <!ENTITY AlignPopupButton.tooltip "选择文本对齐方式">
+<!ENTITY InsertPopupButton.label "插入">
 <!ENTITY InsertPopupButton.tooltip "插入一个链接、锚标、图像、横线，或者表格">
+<!ENTITY alignLeftButton.label "左对齐">
 <!ENTITY alignLeftButton.tooltip "向左对齐文本">
+<!ENTITY alignCenterButton.label "居中">
 <!ENTITY alignCenterButton.tooltip "文本居中对齐">
+<!ENTITY alignRightButton.label "右对齐">
 <!ENTITY alignRightButton.tooltip "向右对齐文本">
 <!ENTITY alignJustifyButton.tooltip "左右对齐文本">
 

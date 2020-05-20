@@ -4,7 +4,6 @@
 
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-
 <!ENTITY status.label "消息安全">
 <!ENTITY signatureCert.label "查看签名证书">
 <!ENTITY encryptionCert.label "查看加密证书">
@@ -14,3 +13,5 @@
 <!ENTITY email.address "电子邮件地址：">
 <!ENTITY issuer.name "证书颁发者：">
 
+<!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">
