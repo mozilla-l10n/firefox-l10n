@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Enviar un mensaje o conversación instantáneos">
 <!ENTITY deleteButton2.tooltip                          "Eliminar elemento seleccionado">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Libretas de direcciones">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nombre o correo electrónico">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">

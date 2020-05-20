@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Establecer mi página de inicio
     .style = width: 32em;
+
 select-bookmark-desc = Elige un marcador como tu página de inicio. Si eliges una carpeta con marcadores, cada uno éstos se abrirá en una pestaña nueva.

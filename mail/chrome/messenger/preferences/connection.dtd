@@ -38,12 +38,12 @@
 <!ENTITY  noproxy.label                 "Sin proxy para:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Ejemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Use este servidor proxy para todos los protocolos">
+<!ENTITY  shareproxy.accesskey          "x">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label   "Las conexiones a localhost, 127.0.0.1 y ::1 nunca pasan por proxy.">
-<!ENTITY  shareproxy.label              "Use este servidor proxy para todos los protocolos">
-<!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "No pedir autenticación si la contraseña está guardada">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "Esta opción silenciosamente te autentica en proxies cuando has guardado credenciales para ellos. Se te preguntará si falla la autenticación.">

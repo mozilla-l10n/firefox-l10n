@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tipografía
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuentes para
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Tamaño
     .accesskey = T
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monoespacio
     .accesskey = M
+
 fonts-monospace-size = Tamaño
     .accesskey = a
+
 fonts-minsize = Tamaño mínimo de la fuente
     .accesskey = o
+
 fonts-minsize-none =
     .label = Ninguno
+
 fonts-allow-own =
     .label = Permitir que páginas elijan sus propia tipografía, en lugar de tus selecciones arriba
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
 fonts-languages-fallback-desc = Esta codificación de texto se usa para contenido antiguo que no declara su codificación.
+
 fonts-languages-fallback-label = Codificación de texto de respaldo
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Predeterminado para idioma actual
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Otro (incl. europeano occidental)
-fonts-very-large-warning-title = Tamaño mínimo de letra grande
-fonts-very-large-warning-message = Has seleccionado un tamaño de letra grande muy grande (más de 24 píxeles). Esto puede hacer difícil o imposible usar algunas páginas importantes de configuración como esta.
-fonts-very-large-warning-accept = Conservar mis cambios de todas formas
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

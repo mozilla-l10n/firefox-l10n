@@ -4,6 +4,8 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Descargar y sincronizar mensajes">
 <!ENTITY MsgSelect.label "Elementos para usar sin conexión">
 <!ENTITY MsgSyncDesc.label "Si ya has seleccionado las carpetas de correo o grupos de noticias para uso sin conexión, puedes descargarlos y/o sincronizarlos ahora. Si no, utiliza el botón &quot;Seleccionar&quot; para escoger las carpetas de correo y noticias que quieres utilizar sin conexión.">

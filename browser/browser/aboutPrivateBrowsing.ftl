@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Saber más acerca de <a data-l10n-name="learn-more">Navegación privada</a>.
 about-private-browsing-info-visited = las páginas visitadas
+
 privatebrowsingpage-open-private-window-label = Abrir una ventana privada
     .accesskey = P
 about-private-browsing-info-notsaved = Cuando navegas en una ventana privada, { -brand-short-name } <strong>no guarda</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = En este momento no estás en una ventana pr
 content-blocking-title = Bloqueo de contenido
 content-blocking-description = Algunos sitios web usan rastreadores que pueden monitorear tu actividad a través de Internet. En ventanas privadas de { -brand-short-name } el bloqueo de contenido automáticamente bloquea muchos rastreadores que pueden recolectar información acerca de tu navegación.
 about-private-browsing-info-description = { -brand-short-name } elimina tu búsqueda y el historial de navegación cuando sales de la aplicación o cierras todas las pestañas y ventanas de navegación privada. Aunque esto no te vuelve anónimo en los sitios web o en tu proveedor de servicios de Internet, hace que sea más fácil mantener lo que haces en línea privado de cualquier otra persona que use esta computadora.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:
