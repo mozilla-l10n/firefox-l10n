@@ -127,3 +127,5 @@ urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
+urlbar-go-button =
+    .tooltiptext = स्थान पट्टी पर पतामे जाउ
