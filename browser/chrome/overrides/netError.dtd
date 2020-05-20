@@ -13,12 +13,12 @@
 
 
 <!ENTITY connectionFailure.title "Byanze kwinjira">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Aderesi yigabanyijwe">
-<!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Seriveri nti iri kuboneka">
+<!ENTITY deniedPortAccess.longDesc "">
 
 
 <!ENTITY fileNotFound.title "Dosiye ntibonetse">
@@ -32,10 +32,8 @@
 
 
 
-<!ENTITY malformedURI.title "Aderesi nti yemerewe">
-
-
 <!ENTITY netInterrupt.title "Kwihuza kwaburijwemo">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 
@@ -48,9 +46,11 @@
 
 
 <!ENTITY netReset.title "Umwinjiro wasubijweho">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Kwinjira kwarengeje igihe">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Aderesi ntabwo yumvikanye">
@@ -75,12 +75,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 
-
-
-
-
-
-<!ENTITY securityOverride.exceptionButtonLabel "Ongeraho irengayobora">
 
 
 

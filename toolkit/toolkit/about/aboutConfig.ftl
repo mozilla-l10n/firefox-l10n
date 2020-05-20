@@ -29,39 +29,52 @@ config-column-chooser =
 config-copy-name =
     .label = Gukoporora Izina
     .accesskey = k
+
 config-copy-value =
     .label = Gukoporora Agaciro
     .accesskey = A
+
 config-modify =
     .label = Guhindura
     .accesskey = h
+
 config-toggle =
     .label = Gukomatanya
     .accesskey = o
+
 config-reset =
     .label = Gusubizaho
     .accesskey = s
+
 config-new =
     .label = Gishya
     .accesskey = G
+
 config-string =
     .label = Ikurikiranyanyuguti
     .accesskey = u
+
 config-integer =
     .label = Umubare wuzuye
     .accesskey = b
+
 config-boolean =
     .label = Nyabule
     .accesskey = y
+
 config-default = mburabuzi
 config-locked = gifunze
+
 config-property-string = ikurikiranyanyuguti
 config-property-int = umubare wuzuye
 config-property-bool = nyabule
+
 config-new-prompt = Kwinjiza izina ry'icyatoranyijwe
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Agaciro { $type } gashya
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Kwinjiza agaciro { $type }

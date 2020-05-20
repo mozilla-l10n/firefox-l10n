@@ -13,8 +13,8 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--brand-short-name = Firefox
--vendor-short-name = Mozira
--brand-full-name = Mozilla Firefox
 -brand-shorter-name = Fayafoxi
+-brand-short-name = Firefox
+-brand-full-name = Mozilla Firefox
+-vendor-short-name = Mozira
 trademarkInfo = Firefox nibirango byayo ni umutungo w' ifatizo rya Mozilla.

@@ -8,19 +8,24 @@ pref-page =
             [windows] Amahitamo
            *[other] Ibyatoranyijwe
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] Amahitamo
        *[other] Ibyatoranyijwe
     }
+
 pane-general-title = Rusange
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = Gushakisha
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = Gufunga
 
@@ -44,16 +49,20 @@ close-button =
 ## General Section
 
 startup-header = Ntangiriro
+
 tabs-group-header = Udufishi
+
 
 ## General Section - Language & Appearance
 
 advanced-fonts =
     .label = Bihanitse...
     .accesskey = h
+
 colors-settings =
     .label = Amabara...
     .accesskey = A
+
 translate-exceptions =
     .label = Amarengayobora...
     .accesskey = r
@@ -61,9 +70,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Ibyakuruwe
+
 download-save-to =
     .label = Kubika dosiye mu
     .accesskey = K
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -75,15 +86,19 @@ download-choose-folder =
             [macos] h
            *[other] h
         }
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Idosiye ya { $extension }
 applications-action-save =
     .label = Kubika Dosiye
+
 applications-select-helper = Guhitamo Porogaramu yungirije
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -95,16 +110,22 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -117,12 +138,15 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Gushakisha
+
 browsing-use-autoscroll =
     .label = Gukoresha Nyamwinyereza
     .accesskey = k
+
 browsing-use-smooth-scrolling =
     .label = Gukoresha Inyereza Rinyorotse
     .accesskey = I
+
 browsing-use-cursor-navigation =
     .label = Gukoresha buri gihe buto z'inyoborayandika kugira ngo ubuganye muri za paji
     .accesskey = r
@@ -196,14 +220,18 @@ sync-tos-link = Amabwiriza ya serivisi
 forms-exceptions =
     .label = Amarengayobora...
     .accesskey = A
+
 forms-master-pw-use =
     .label = Gukoresha ijambobanga ngenga
     .accesskey = j
 forms-master-pw-change =
     .label = Guhindura Ijambobanga Ngenga...
     .accesskey = h
+
 forms-master-pw-fips-title = Uri ubungubu mu buryo bwa FIPS. FIPS ikeneye Ijambobanga Ngenga itarimo ubusa.
 forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -232,9 +260,11 @@ forms-master-pw-fips-desc = Guhindura Ijambobanga Byaze
 permissions-block-popups =
     .label = Guhagarika Amadirishya y'Ibyiramburirahejuru
     .accesskey = h
+
 permissions-block-popups-exceptions =
     .label = Amarengayobora...
     .accesskey = r
+
 permissions-addon-exceptions =
     .label = Amarengayobora...
     .accesskey = r
@@ -256,3 +286,4 @@ certs-header = Ibyemezo
 
 desktop-folder-name = Ibiro
 choose-download-folder-title = Guhitamo Ububiko bw'Iyimura:
+

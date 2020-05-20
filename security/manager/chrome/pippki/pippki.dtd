@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Wasabwe kwizera Umuyobozi mushya w'Icyemezo (CA).">
 <!ENTITY downloadCert.trustSSL "Kwizera uyu CA kugira ngo ubone imbugamakuru.">
 <!ENTITY downloadCert.trustEmail "Kwizera uyu CA kugira ngo ubone abakoresha imeyili.">
-<!ENTITY downloadCert.trustObjSign "Kwizera uyu CA kugira ngo ubone abahanzi ba porogaramu mudasobwa.">
 <!ENTITY downloadCert.message3 "Mbere yo kwizera uyu CA  kubera impamvu iyariyo yose, ugomba gusuzuma icyemezo cyayo na politiki n'imikorere byayo (niba bihari).">
 <!ENTITY downloadCert.viewCert.label "Kugaragaza">
 <!ENTITY downloadCert.viewCert.text "Gusuzuma Icyemezo cya CA">

@@ -5,3 +5,4 @@
 select-bookmark-window =
     .title = Kugena Paji Ndasukirwaho
     .style = width: 32em;
+

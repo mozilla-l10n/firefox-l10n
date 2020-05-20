@@ -59,5 +59,6 @@ print-window =
     .title = Icapa
 print-complete =
     .value = Gucapa Byarangiye.
+
 dialog-cancel-label = Kureka
 dialog-close-label = Gufunga

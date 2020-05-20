@@ -29,16 +29,8 @@
 
 
 <!ENTITY  error.label                     "There were problems checking for, downloading or installing this update. &brandShortName; could not be updated because:">
-
-
-
-
-
-
+                                           
 <!ENTITY  finishedBackground.name         "Ihuzagihe:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
 
-<!ENTITY  update.details.label            "Birambuye">
-<!ENTITY  update.installedOn.label        "Isanzwe kuri:">
-<!ENTITY  update.status.label             "Imimerere:">

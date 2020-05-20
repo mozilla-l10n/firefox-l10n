@@ -4,15 +4,23 @@
 
 set-desktop-background-window =
     .title = Ishizweho Imbuganyuma y'Ibiro
+
 set-desktop-background-accept =
     .label = Ishizweho Imbuganyuma y'Ibiro
+
 open-desktop-prefs =
     .label = Gufungura Ibyatoranyijwe by'Ibiro
+
 set-background-color = Ibara:
+
 set-background-position = Ibirindiro:
+
 set-background-tile =
     .label = Agakaro
+
 set-background-center =
     .label = Hagati
+
 set-background-stretch =
     .label = Kurambura
+

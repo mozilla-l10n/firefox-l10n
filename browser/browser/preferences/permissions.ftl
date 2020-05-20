@@ -4,21 +4,27 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Kubuza
     .accesskey = z
+
 permissions-session =
     .label = Kwemera Ninjiye
     .accesskey = e
+
 permissions-allow =
     .label = Kwemera
     .accesskey = m
+
 permissions-status =
     .label = Imimerere
+
 permissions-capabilities-allow =
     .label = Emera
 permissions-capabilities-block =
     .label = Funga
+
 permissions-capabilities-listitem-allow =
     .value = Emera
 permissions-capabilities-listitem-block =
@@ -51,11 +57,15 @@ permissions-exceptions-addons-desc = Ushobora kuvuga ayahe mbuga zemerewe kwinji
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

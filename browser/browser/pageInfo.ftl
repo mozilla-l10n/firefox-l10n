@@ -7,11 +7,13 @@ copy =
 menu-copy =
     .label = Gukoporora
     .accesskey = k
+
 select-all =
     .key = A
 menu-select-all =
     .label = Guhitamo Byose
     .accesskey = B
+
 general-url =
     .value = Aderesi:
 general-type =
@@ -28,6 +30,7 @@ general-meta-name =
     .label = Izina
 general-meta-content =
     .label = Ibikubiyemo
+
 media-alt-header =
     .label = Urwandiko Usimbura
 media-address =
@@ -43,8 +46,10 @@ media-save-as =
     .accesskey = M
 media-preview =
     .value = Igaragazambere y'Ibitangazamakuru:
+
 security-view-unknown = Kitazwi
     .value = Kitazwi
+
 help-button =
     .label = Ifashayobora
 
@@ -68,6 +73,7 @@ media-link = Agashushondanga
 media-input = Icyinjizwa
 saved-passwords-yes = Yego
 saved-passwords-no = Oya
+
 no-page-title =
     .value = Paji Itafite Izina:
 general-quirks-mode =
@@ -75,3 +81,4 @@ general-quirks-mode =
 general-strict-mode =
     .value = Uburyo bwo kubahiriza amabwiriza
 security-no-visits = Oya
+

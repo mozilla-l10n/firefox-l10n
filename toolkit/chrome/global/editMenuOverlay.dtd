@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Guhitamo Byose">
 <!ENTITY selectAllCmd.key          "h">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Gushaka">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "k">

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -119,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -147,12 +148,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY subscribeToPageMenuitem.label "Kwiyandikisha kuri Iyi Paji...">
-
-
-
-
-
 
 
 
@@ -167,7 +162,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Kujya kuri aderesi mu Mwanya w'Indangahantu">
+
 <!ENTITY printButton.label            "Gucapa">
 <!ENTITY printButton.tooltip          "Gucapa Iyi Paji">
 
@@ -197,6 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!-- Toolbar items -->
+
 
 <!ENTITY bookmarksButton.label          "Utumenyetso">
 
@@ -284,6 +282,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "y">
 <!ENTITY viewSidebarMenu.label "Umwanyaruhande">
 <!ENTITY viewSidebarMenu.accesskey "a">
+
 <!ENTITY viewCustomizeToolbar.label       "Kuboneza...">
 <!ENTITY viewCustomizeToolbar.accesskey     "b">
 
@@ -368,10 +367,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Oya">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Yego">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
@@ -432,6 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Gufungurira Ihuza mu Gafishi Gashya">
+
 <!ENTITY openLinkCmdInTab.accesskey   "G">
 <!ENTITY openLinkCmd.label            "Gufungurira Ihuza mu Dirishya Rishya">
 <!ENTITY openLinkCmd.accesskey        "D">
@@ -451,7 +447,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Kongera Gutangiza Ikadiri">
 <!ENTITY reloadFrameCmd.accesskey     "o">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Kureba Inkomoko y'Ihitamo">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Kureba Inkomo y'ImibareML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -528,6 +523,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "k">
 <!ENTITY thisFrameMenu.label              "Iyi Kadiri">
 <!ENTITY thisFrameMenu.accesskey          "K">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -619,8 +615,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "Imisusire ya Paji y'Ibanze">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
-
-<!ENTITY pageReportIcon.tooltip            "Guhindura amagenamiterere yirambura ajyanye n'uru rubuga makuru.">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -726,12 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
-
-
-
-<!ENTITY customizeMode.lwthemes.menuManage "Tunganya">
 
 
 

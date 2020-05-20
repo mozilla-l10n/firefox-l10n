@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Ikosa mu gufungura paji">
 <!ENTITY retry.label "Kongera kugerageza">
+
 <!-- Specific error messages -->
 
 
@@ -74,3 +75,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

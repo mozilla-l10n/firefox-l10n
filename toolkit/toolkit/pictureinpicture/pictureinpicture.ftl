@@ -4,3 +4,4 @@
 
 pictureinpicture-pause =
     .aria-label = Kuhagarara
+
