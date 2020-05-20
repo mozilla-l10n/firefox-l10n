@@ -8,13 +8,18 @@
 
 
 
+##
+
 cfr-doorhanger-extension-cancel-button = दानो नङा
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = दानो दाजाबदेर
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = बे टेबखौ पिन खालाम
     .accesskey = P
+
 cfr-doorhanger-extension-learn-more-link = गोबां सोलों
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
@@ -44,8 +49,10 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-pintab-step1 = पिन खालामनो थाखाय टेब आव<b>आगदा क्लिक</b> खालाम।
 cfr-doorhanger-pintab-step2 = <b>पिन टेब</b> खौ मेनु निफ्राय सायख।
+
 cfr-doorhanger-pintab-animation-pause = थाद' हो
 cfr-doorhanger-pintab-animation-resume = फिन जागाय
+
 
 ## Firefox Accounts Message
 
@@ -63,8 +70,11 @@ cfr-protections-panel-link-text = गोबां सोलों
 cfr-whatsnew-button =
     .label = मा गोदान
     .tooltiptext = मा गोदान
+
 cfr-whatsnew-panel-header = मा गोदान
+
 cfr-whatsnew-tracking-protect-link-text = नोंथांनि रिपर्ट खौ नाय
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -75,9 +85,13 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } निफ्रायनो
 cfr-whatsnew-tracking-blocked-link-text = रिपर्ट खौ नाय
+
 cfr-whatsnew-lockwise-backup-link-text = बेकआपफोरखौ अन खालाम
+
 cfr-whatsnew-lockwise-take-title = नोंथांनि पासवोर्दखौ निजिजौं लां
 cfr-whatsnew-lockwise-take-link-text = आपखौ ला
+
+## Search Bar
 
 ## Picture-in-Picture
 
@@ -115,4 +129,12 @@ cfr-doorhanger-socialtracking-close-button = बन्द खालाम
     .accesskey = C
 
 ## Enhanced Tracking Protection Milestones
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
 

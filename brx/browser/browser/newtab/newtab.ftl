@@ -13,6 +13,7 @@ newtab-page-title = गोदान टेब
 newtab-search-box-search-button =
     .title = नागिर
     .aria-label = नागिर
+
 newtab-search-box-search-the-web-text = वेबौ नागिर
 newtab-search-box-search-the-web-input =
     .placeholder = वेबौ नागिर
@@ -27,6 +28,7 @@ newtab-topsites-edit-topsites-header = गिबि साइटखौ सुज
 newtab-topsites-title-label = बिमुं
 newtab-topsites-title-input =
     .placeholder = मोनसे बिमुं हो
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-validation = बाहाय जाथाव URL नांगौ
 
@@ -52,6 +54,7 @@ newtab-confirm-delete-history-p2 = बे हाबाखौ मावनो ह
 newtab-menu-section-tooltip =
     .title = मेनु खेव
     .aria-label = मेनु खेव
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = बे साइटखौ सुजु
@@ -74,6 +77,8 @@ newtab-menu-delete-pocket = { -pocket-brand-name } निफ्राय खो�
 newtab-privacy-modal-button-done = जाखांबाइ
 
 
+
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = बुकमाकॅखौ बोखार
@@ -148,7 +153,6 @@ newtab-discovery-empty-section-topstories-loading = ल'ड खालाम ग�
 
 ## Pocket Content Section.
 
-newtab-pocket-how-it-works = बेयो माबादि खामानि मावो
 newtab-pocket-cta-button = { -pocket-brand-name } ला
 
 ## Error Fallback Content.

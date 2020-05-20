@@ -9,27 +9,38 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-page-override = बिलायाव होखानाय गाबफोराखौ नों सायख'नाय गाबजों सोलाय
     .accesskey = O
+
 colors-page-override-option-always =
     .label = अरायबो
 colors-page-override-option-never =
     .label = माब्लाबाबो नङा
+
 colors-text-and-background = फराय बिजाब आरो सावगारिनि उनथिं थानाय
+
 colors-text-header = फराय बिजाब
     .accesskey = T
+
 colors-background = सावगारिनि उनथिं
     .accesskey = B
+
 colors-use-system =
     .label = सिस्टेमनि गाबफोरखौ बाहाय
     .accesskey = s
+
 colors-underline-links =
     .label = लिंकफोरखौ आन्डारलाइन खालाम
     .accesskey = U
+
 colors-links-header = लिंक गाबफोर
+
 colors-unvisited-links = दावबायजायै लिंकफोर
     .accesskey = L
+
 colors-visited-links = दावबायजाखांनाय लिंकफोर
     .accesskey = V

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = फन्टफोर
+
 fonts-window-close =
     .key = w
 
@@ -73,20 +74,27 @@ fonts-langgroup-other =
 
 fonts-proportional-header = थाम अन्जिमा गोनां
     .accesskey = p
+
 fonts-default-serif =
     .label = सेरिफ
 fonts-default-sans-serif =
     .label = सान्स सेरिफ
+
 fonts-proportional-size = महर
     .accesskey = z
+
 fonts-serif = सेरिफ
     .accesskey = S
+
 fonts-sans-serif = सान्स-सेरिफ
     .accesskey = n
+
 fonts-monospace = मोनोस्पेस
     .accesskey = M
+
 fonts-monospace-size = महर
     .accesskey = e
+
 fonts-minsize-none =
     .label = मोनसेबो नङा
 
@@ -127,6 +135,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = भियेटनामिस
 fonts-languages-fallback-name-other =
     .label = गुबुन (सानजा इउरपखौ लाफानानै)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

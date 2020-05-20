@@ -8,6 +8,7 @@ url-classifier-search-input = URL
 url-classifier-search-error-invalid-url = बाहायजायै URL
 url-classifier-provider-last-update-status = जोबथा आपडेट थाखोमान
 url-classifier-cache-clear-btn = खोमोर
+
 url-classifier-not-available = N/A
 url-classifier-enabled = मावथि खालामबाय
 url-classifier-disabled = लोरबां जाबाय

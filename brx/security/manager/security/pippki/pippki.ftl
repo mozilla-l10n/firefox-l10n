@@ -8,6 +8,7 @@ password-quality-meter = पासवार्ड गुन मिटार
 
 change-password-window =
     .title = गाहाय पासवार्डखौ सोलाय
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = रैखाथि डिभाइस: { $tokenName }

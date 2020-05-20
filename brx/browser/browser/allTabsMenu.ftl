@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = बन्द टेबखौ सिगांनि महराव लाबोफिन
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = गासै टेबफोरौ नागिर
+
 all-tabs-menu-new-user-context =
     .label = गोदान खनथेनार टेब
+
 all-tabs-menu-hidden-tabs =
     .label = दोनखोमानाय टेबफोर
+
 all-tabs-menu-manage-user-context =
     .label = खनथेनारफोरखौ सामलाय
     .accesskey = O

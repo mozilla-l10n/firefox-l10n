@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "गासैबो सायख">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "नायगिरना दिहुन">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

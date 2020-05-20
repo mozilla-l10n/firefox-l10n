@@ -5,8 +5,10 @@
 clear-site-data-window =
     .title = दाटाफोरखौ खोमोर
     .style = width: 35em
+
 clear-site-data-close-key =
     .key = w
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
@@ -15,6 +17,7 @@ clear-site-data-close-key =
 clear-site-data-cookies-with-data =
     .label = कुकिज आरो साइट दाटा ({ $amount } { $unit })
     .accesskey = S
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -23,9 +26,11 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = कुकिज आरो साइट दाटा
     .accesskey = S
+
 clear-site-data-cancel =
     .label = नेवसि
     .accesskey = C
+
 clear-site-data-clear =
     .label = खोमोर
     .accesskey = I

@@ -7,7 +7,9 @@ about-config-warning-title = गोरोन्थि
 about-config-warning-text = बेफोर जौगानाय सेटिंखौ सोलायोब्ला बे एप्लिकेसननि जोरथाय, रैखाथि आरो मावफुंनाया खहा जानो हायो। नोंथाङा मा मावगासिनो दं बेखौ रोखायै मोनथियोब्लाल'नो नोंथाङा सालाय लांबाय थानांगौ।
 about-config-warning-checkbox = अन्नानै आंखौ आरोबाव रागा जोंहो !
 about-config-warning-button = आं बे खैफोदखौ गनायो
+
 about-config2-title = जौगाहोनाय बाइजोमहरफोर
+
 about-config-search-input =
     .placeholder = नागिर
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = खैफोदखौ गनायना ल
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = बे बासिनायखौ सोलायोबा गोहोम खोख्लैनो हागौ{ -brand-short-name } मावफु़ंनाय एबा रैखाथियाव
+
 about-config-page-title = सिगांआवनो सायखना लानाय
+
 about-config-search-input1 =
     .placeholder = मोजांसिन मोन्नाय मुंखौ नागिर
 about-config-show-all = गासैबो दिन्थि
+
 about-config-pref-add = दाजाबदेर
 about-config-pref-toggle = टग्गल
 about-config-pref-edit = सुजुनाय
 about-config-pref-save = थिना दोन
 about-config-pref-reset = फिन फज'
 about-config-pref-delete = खोमोर
+
 about-config-pref-add-button =
     .title = दाजाबदेर
 about-config-pref-toggle-button =

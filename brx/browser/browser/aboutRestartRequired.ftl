@@ -4,4 +4,5 @@
 
 restart-required-title = फिन जागायनो नांगौ
 restart-required-header = निमाहा बिबाय,  सिगाङाव थांनायनि सिगां मोनसे फिसा खामानि
+
 restart-button-label = { -brand-short-name } फिन जागाय

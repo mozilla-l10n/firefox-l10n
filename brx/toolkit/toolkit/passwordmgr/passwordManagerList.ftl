@@ -54,6 +54,7 @@ import =
 close-button =
     .label = बन्द खालाम
     .accesskey = C
+
 show-passwords =
     .label = पासवार्डफोरखौ दिन्थि
     .accesskey = P

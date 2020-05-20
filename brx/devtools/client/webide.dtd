@@ -50,6 +50,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "एपखौ खेव">
+
 <!ENTITY runtimeButton_label "रानटाइमखौ सायख">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -141,3 +142,4 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+

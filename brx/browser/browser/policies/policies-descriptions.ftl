@@ -11,4 +11,10 @@
 ## in the documentation section in about:policies.
 
 policy-DisablePrivateBrowsing = निजि ब्राउजिं लोरबां खालाम
+
 policy-DisableTelemetry = तेलेमेत्रि बोंन्ड खालाम
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+

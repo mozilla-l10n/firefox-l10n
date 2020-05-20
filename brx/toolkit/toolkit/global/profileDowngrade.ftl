@@ -4,6 +4,7 @@
 
 profiledowngrade-window-create =
     .label = गोदान प्रफाइल सोरजि...
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

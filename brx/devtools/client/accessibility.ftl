@@ -6,12 +6,14 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = गोबां सोलों
+
 accessibility-keyboard-header = किबर्ड
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = सांग्रांथि
+
 accessibility-fail =
     .alt = गोरोन्थि
 

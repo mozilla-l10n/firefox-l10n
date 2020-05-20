@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = <a data-l10n-name="learn-more">निजि ब्रावजिं</a> नि बागै गोबां मिथिबावनोब्ला
 about-private-browsing-info-visited = थांखांनाय पेजफोर
+
 privatebrowsingpage-open-private-window-label = मोनसे प्राइभेट उइन्ड'खौ खेव
     .accesskey = P
 about-private-browsing-info-notsaved = जेब्ला नों आन्दोनि उइन्दआव नायगोन,{ -brand-short-name }<strong> रैखा खालामनो हानाय नङा</strong>
@@ -24,5 +25,6 @@ about-private-browsing =
     .title = वेबौ नागिर
 about-private-browsing-not-private = नोंथाङा दासान्दि मोनसे प्राइभेट उइन्ड'आव गैया।
 content-blocking-title = थानाय-आयदा ब्लोक खालामनाय
+
 about-private-browsing-search-banner-close-button =
     .aria-label = बन्द खालाम

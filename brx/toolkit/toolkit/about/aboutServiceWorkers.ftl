@@ -19,4 +19,5 @@ origin-title = गुबै: { $originTitle }
 
 # This term is used as a button label (verb, not noun).
 update-button = आपडेट खालाम
+
 waiting = नेथ' गासिनो दं...

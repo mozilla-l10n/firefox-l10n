@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < उनफिन
     .accesskey = उ
+
 wizard-macos-button-next =
     .label = सोलिबाइ था
     .accesskey = स
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = उनाव >
     .accesskey = उ
+
 wizard-macos-button-finish =
     .label = जाखांबाइ
 wizard-linux-button-finish =
     .label = जोबथा
 wizard-win-button-finish =
     .label = फोजोब
+
 wizard-macos-button-cancel =
     .label = नेवसि
 wizard-linux-button-cancel =

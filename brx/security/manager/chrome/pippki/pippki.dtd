@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "नोंथांखौ मोनसे गोदान चार्टिफिकेट अथ'रिटि (CA) फोथायनो थिननाय जाबाय।">
 <!ENTITY downloadCert.trustSSL "वेबसाइटफोरखौ सिनायथि खालामनो बे CA खौ फोथाय">
 <!ENTITY downloadCert.trustEmail "इ-मेइल बाहायग्राफोरखौ सिनायथिनो बे CA खौ फोथाय।">
-<!ENTITY downloadCert.trustObjSign "सफ्टवेयार जौगाहोग्राफोरखौ सिनायथिनो बे CA खौ फोथाय।">
 <!ENTITY downloadCert.message3 "जायखि जाया थांखिनि थाखाय बे CA खौ फोथायनायनि सिगां, नोंथाङा बेनि सार्टिफिकेट आरो बेनि पलिसि आरो (दंब्ला) माव खान्थि आनजाद खालामनांगोन।">
 <!ENTITY downloadCert.viewCert.label "नुथाय">
 <!ENTITY downloadCert.viewCert.text "CA चार्टिफिकेट आनजाद खालाम">

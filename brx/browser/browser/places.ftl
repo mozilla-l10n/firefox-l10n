@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = मोनसे गोदान प्राइभेट उइन्ड'खौ खेव
     .accesskey = P
+
 places-new-bookmark =
     .label = गोदान बुकमार्क...
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = गोदान बोखावग्रा
     .accesskey = S
+
 places-view =
     .label = नुथाय
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = अक्‍त' आरो साइट मथे
     .accesskey = t
+
 places-history-search =
     .placeholder = नागिरनायनि जारिमिन
 places-bookmarks-search =
     .placeholder = बुकमार्कफोरखौ नागिर
+
 places-delete-domain-data =
     .label = बे साइटखौ बाव लां
     .accesskey = F
