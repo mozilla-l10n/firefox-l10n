@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "प्रोफाइलर चक्राकार बफर मध्ये नमुने साठवते, आणि एकदा बफर नोंदणीची मर्यादा पूर्ण झाली की नवीन नमुने नोंदणीच्या सुरुवातीला ओव्हरराईट करायला सुरुवात होते.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "रियल टाइम डाटा रेकॉर्डिंग मल्टीप्रोसेस न वापरणाऱ्या Firefox वर निष्क्रिय केले आहे.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->

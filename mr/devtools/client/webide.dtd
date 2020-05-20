@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "अॅप उघडा">
+
 <!ENTITY runtimeButton_label "स्थानिक चालुकालावधी">
 
 <!-- We try to repicate Firefox' bindings: -->

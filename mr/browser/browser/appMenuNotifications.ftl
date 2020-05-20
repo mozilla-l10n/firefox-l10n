@@ -40,6 +40,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = आपण { -brand-shorter-name } मध्ये जोडलेले कोणतेही नवीन विस्तार खाजगी पटलामध्ये कार्य करणार नाहीत जोपर्यंत आपण सेटिंग मध्ये यास अनुमती देत नाही.
 appmenu-addon-private-browsing-learn-more = विस्तार सेटिंग्ज कशी व्यवस्थापित करावी ते जाणून घ्या
+    
 appmenu-new-tab-controlled =
     .label = आपला नवीन टॅब बदलला आहे.
     .buttonlabel = बदल जतन करा

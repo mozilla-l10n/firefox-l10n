@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = मी ही जोखीम पत्करतो!
 config-about-warning-checkbox =
     .label = सावधानता पुढच्यावेळी दर्शवा
+
 config-search-prefs =
     .value = शोधा:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = प्रत बनवा
     .accesskey = C
+
 config-copy-name =
     .label = नावाचे प्रत बनवा
     .accesskey = N
+
 config-copy-value =
     .label = मूल्याचे प्रत बनवा
     .accesskey = V
+
 config-modify =
     .label = संपादित करा
     .accesskey = M
+
 config-toggle =
     .label = बदलवा
     .accesskey = T
+
 config-reset =
     .label = मूळस्थितीत आणा
     .accesskey = R
+
 config-new =
     .label = नवीन
     .accesskey = w
+
 config-string =
     .label = स्ट्रिंग
     .accesskey = S
+
 config-integer =
     .label = इंटीजर
     .accesskey = I
+
 config-boolean =
     .label = बूलियन
     .accesskey = B
+
 config-default = पूर्वनिर्धारीत
 config-modified = सुधारित
 config-locked = कुलूपबंद
+
 config-property-string = अक्षरमाळ
 config-property-int = इंटीजर
 config-property-bool = बुलियन
+
 config-new-prompt = प्राधान्यता नाव प्रविष्ट करा
+
 config-nan-title = अवैध मूल्य
 config-nan-text = आपण दिलेला मजकूर क्रमांक नाही.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = नवीन { $type } मुल्य
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } मुल्य प्रविष्ट करा

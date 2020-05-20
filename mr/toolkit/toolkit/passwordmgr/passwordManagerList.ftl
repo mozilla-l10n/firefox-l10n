@@ -54,6 +54,7 @@ import =
 close-button =
     .label = बंद करा
     .accesskey = C
+
 show-passwords =
     .label = गुप्तशब्द दर्शवा
     .accesskey = P

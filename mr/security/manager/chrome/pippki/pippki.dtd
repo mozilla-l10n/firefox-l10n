@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "आपणास नवीन प्रमाणपत्र अधिप्रमाणन (CA) वर विश्वास ठेवण्यास कळवण्यात आले आहे.">
 <!ENTITY downloadCert.trustSSL "संकेत स्थळे ओळखण्याकरिता ह्या CA वर विश्वास ठेवा.">
 <!ENTITY downloadCert.trustEmail "ईमेल वापरकर्त्यांना ओळखण्याकरिता ह्या CA वर विश्वास ठेवा.">
-<!ENTITY downloadCert.trustObjSign "सॉफ्टवेअर निर्मात्यांना ओळखण्याकरिता ह्या CA वर विश्वास ठेवा.">
 <!ENTITY downloadCert.message3 "कुठल्याही कारणस्तव ह्या CA वर विश्वास ठेवण्यापूर्वी, आपण त्याकरीता प्रमाणपत्र आणि करार व कार्यपध्दतीचे परिक्षण केले पाहिजे (उपलब्ध असल्यास).">
 <!ENTITY downloadCert.viewCert.label "दृश्य">
 <!ENTITY downloadCert.viewCert.text "CA प्रमाणपत्राचे परिक्षण करा">
