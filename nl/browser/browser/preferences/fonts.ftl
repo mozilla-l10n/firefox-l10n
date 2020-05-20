@@ -152,10 +152,6 @@ fonts-languages-fallback-name-vietnamese =
 fonts-languages-fallback-name-other =
     .label = Anders (incl. West-Europees)
 
-fonts-very-large-warning-title = Grote minimale lettergrootte
-fonts-very-large-warning-message = U hebt een zeer grote minimale lettergrootte geselecteerd (meer dan 24 pixels). Dit kan het moeilijk of onmogelijk maken om belangrijke configuratiepagina’s als deze te gebruiken.
-fonts-very-large-warning-accept = Mijn wijzigingen toch behouden
-
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

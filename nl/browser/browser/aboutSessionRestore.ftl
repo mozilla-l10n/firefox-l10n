@@ -47,3 +47,4 @@ welcome-back-restore-all-label = Alle vensters en tabbladen herstellen
 welcome-back-restore-some-label = Alleen bepaalde vensters en tabbladen
 
 welcome-back-page-info-link = Uw add-ons en aanpassingen zijn verwijderd en uw browserinstellingen zijn naar hun standaardwaarden teruggezet. Als dit uw probleem niet heeft opgelost, <a data-l10n-name="link-more">lees dan hier wat u kunt doen.</a>
+

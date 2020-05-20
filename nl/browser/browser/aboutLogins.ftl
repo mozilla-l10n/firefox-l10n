@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Downloaden op Google Play
 login-app-promo-apple =
     .alt = Downloaden in de App Store
+
 login-filter =
     .placeholder = Aanmeldingen zoeken
+
 create-login-button = Nieuwe aanmelding maken
+
 fxaccounts-sign-in-text = Breng uw wachtwoorden naar uw andere apparaten
 fxaccounts-sign-in-button = Aanmelden bij { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -107,20 +110,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifieer uw identiteit om de opgeslagen aanmelding te bewerken.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw aanmelding te bewerken. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = bewerk de opgeslagen aanmelding
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifieer uw identiteit om het opgeslagen wachtwoord te tonen.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te bekijken. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = toon het opgeslagen wachtwoord
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifieer uw identiteit om het opgeslagen wachtwoord te kopiëren.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Voer uw aanmeldgegevens voor Windows in om uw wachtwoord te kopiëren. Hierdoor wordt de beveiliging van uw accounts beschermd.
 # This message can be seen when attempting to copy a password in about:logins
@@ -157,9 +165,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Annuleren
 confirmation-dialog-dismiss-button =
     .title = Annuleren
+
 about-logins-confirm-remove-dialog-title = Deze aanmelding verwijderen?
 confirm-delete-dialog-message = Deze actie kan niet ongedaan worden gemaakt.
 about-logins-confirm-remove-dialog-confirm-button = Verwijderen
+
 confirm-discard-changes-dialog-title = Deze wijzigingen verwerpen?
 confirm-discard-changes-dialog-message = Alle niet-opgeslagen wijzigingen gaan verloren.
 confirm-discard-changes-dialog-confirm-button = Verwerpen
@@ -190,5 +200,6 @@ about-logins-vulnerable-alert-learn-more-link = Meer info
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Er bestaat al een vermelding voor { $loginTitle } met die gebruikersnaam. <a data-l10n-name="duplicate-link">Naar bestaande vermelding gaan?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Er is een fout opgetreden tijdens het opslaan van dit wachtwoord.

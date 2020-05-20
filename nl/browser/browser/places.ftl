@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Openen in een nieuw privévenster
     .accesskey = r
+
 places-new-bookmark =
     .label = Nieuwe bladwijzer…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nieuw scheidingsteken
     .accesskey = c
+
 places-view =
     .label = Weergeven
     .accesskey = r
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Op datum en website
     .accesskey = e
+
 places-history-search =
     .placeholder = Geschiedenis doorzoeken
 places-bookmarks-search =
     .placeholder = Bladwijzers doorzoeken
+
 places-delete-domain-data =
     .label = Deze website vergeten
     .accesskey = e

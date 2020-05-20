@@ -14,4 +14,5 @@ accounts-conn-security = Verbindingsbeveiliging
 accounts-auth-method = Authenticatiemethode
 accounts-default = Standaard?
 identity-name = Identiteit
+
 send-via-email = Verzenden via e-mail

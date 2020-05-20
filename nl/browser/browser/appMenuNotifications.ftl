@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Nieuwe extensies die u aan { -brand-shorter-name } toevoegt werken niet in privévensters, tenzij u dit toestaat in de instellingen.
 appmenu-addon-private-browsing-learn-more = Meer info over het beheren van extensie-instellingen
+    
 appmenu-new-tab-controlled =
     .label = Uw nieuwe tabblad is gewijzigd.
     .buttonlabel = Wijzigingen behouden

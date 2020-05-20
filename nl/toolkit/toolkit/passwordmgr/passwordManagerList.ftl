@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Sluiten
     .accesskey = S
+
 show-passwords =
     .label = Wachtwoorden tonen
     .accesskey = W

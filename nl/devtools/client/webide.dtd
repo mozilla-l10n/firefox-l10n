@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "Z">
 
 <!ENTITY projectButton_label "App openen">
+
 <!ENTITY runtimeButton_label "Runtime selecteren">
 
 <!-- We try to repicate Firefox' bindings: -->

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Archiveringsopties">
 <!ENTITY archiveGranularityPrefix.label "Bij het archiveren van berichten, deze plaatsen in:">
 <!ENTITY archiveFlat.label "Een enkele map">

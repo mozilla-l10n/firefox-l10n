@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = DNS-achtervoegsel
 websockets = WebSockets
 refresh = Vernieuwen
 auto-refresh = Om de 3 seconden automatisch vernieuwen
 hostname = Hostnaam
 port = Poort
 http2 = HTTP/2
-about-networking-title = Over Netwerken
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS-achtervoegsel
-about-networking-websockets = WebSockets
-about-networking-refresh = Vernieuwen
-about-networking-auto-refresh = Om de 3 seconden automatisch vernieuwen
-about-networking-hostname = Hostnaam
-about-networking-port = Poort
-about-networking-http-version = HTTP-versie
 ssl = SSL
 active = Actief
 idle = Niet actief
@@ -71,8 +59,18 @@ rcwn-avg-long = Lang gemiddelde
 rcwn-std-dev-long = Lange standaarddeviatie
 rcwn-cache-slow = Aantal trage buffers
 rcwn-cache-not-slow = Aantal niet-trage buffers
-networkid = Netwerk-ID
-networkid-id = Netwerk-ID
+
+about-networking-title = Over Netwerken
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS-achtervoegsel
+about-networking-websockets = WebSockets
+about-networking-refresh = Vernieuwen
+about-networking-auto-refresh = Om de 3 seconden automatisch vernieuwen
+about-networking-hostname = Hostnaam
+about-networking-port = Poort
+about-networking-http-version = HTTP-versie
 about-networking-ssl = SSL
 about-networking-active = Actief
 about-networking-idle = Niet actief
@@ -122,8 +120,6 @@ about-networking-networkid-id = Netwerk-ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Koppeling is beschikbaar
-networkid-statusKnown = Koppelingsstatus is bekend
 about-networking-networkid-is-up = Koppeling is beschikbaar
 about-networking-networkid-status-known = Koppelingsstatus is bekend
 

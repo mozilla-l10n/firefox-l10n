@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Opstellen &amp; adressering">
 <!ENTITY addressingGroupTitle.label "Adressering">
 <!ENTITY addressingText.label      "Bij het opzoeken van adressen:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Geen">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Opstellen">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

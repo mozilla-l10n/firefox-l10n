@@ -33,18 +33,6 @@ certmgr-detail-pretty-print-tab-title =
 certmgr-pending-label =
     .value = Certificaat wordt geverifieerd…
 
-certmgr-subject-info-label =
-    .value = Uitgegeven aan
-
-certmgr-issuer-info-label =
-    .value = Uitgegeven door
-
-certmgr-period-of-validity-label =
-    .value = Geldigheidsduur
-
-certmgr-fingerprints-label =
-    .value = Vingerafdrukken
-
 certmgr-subject-label = Uitgegeven aan
 
 certmgr-issuer-label = Uitgegeven door
@@ -57,24 +45,6 @@ certmgr-cert-detail =
     .title = Detail van certificaat
     .buttonlabelaccept = Sluiten
     .buttonaccesskeyaccept = S
-
-certmgr-cert-detail-cn =
-    .value = Algemene naam (CN)
-
-certmgr-cert-detail-o =
-    .value = Organisatie (O)
-
-certmgr-cert-detail-ou =
-    .value = Organisatorische eenheid (OU)
-
-certmgr-cert-detail-serialnumber =
-    .value = Serienummer
-
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA-256-vingerafdruk
-
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1-vingerafdruk
 
 certmgr-cert-detail-commonname = Algemene naam (CN)
 
@@ -121,16 +91,10 @@ certmgr-begins-on = Begint op
 certmgr-begins-label =
     .label = Begint op
 
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
-
 certmgr-expires-on = Verloopt op
 
 certmgr-expires-label =
     .label = Verloopt op
-
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
 
 certmgr-email =
     .label = E-mailadres

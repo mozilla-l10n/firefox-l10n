@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = De volgende overeenkomst van de tekst zoeken
 findbar-previous =
     .tooltiptext = De vorige overeenkomst van de tekst zoeken
+
 findbar-find-button-close =
     .tooltiptext = Zoekbalk sluiten
+
 findbar-highlight-all2 =
     .label = Alles markeren
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] A
         }
     .tooltiptext = Alle overeenkomsten van de tekst markeren
+
 findbar-case-sensitive =
     .label = Hoofdlettergevoelig
     .accesskey = o
     .tooltiptext = Hoofdlettergevoelig zoeken
+
 findbar-match-diacritics =
     .label = Diakritische tekens gebruiken
     .accesskey = k
     .tooltiptext = Maak onderscheid tussen letters met accenten en hun basistekens (zo is bijvoorbeeld bij het zoeken voor ‘resume’ geen overeenkomst met ‘resumé’)
+
 findbar-entire-word =
     .label = Hele woorden
     .accesskey = e
