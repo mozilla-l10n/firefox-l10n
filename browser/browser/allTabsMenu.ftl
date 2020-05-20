@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Undo Close Tab
+

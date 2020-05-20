@@ -5,18 +5,27 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } uses an invalid security certificate.
+
 cert-error-trust-cert-invalid = The certificate is not trusted because it was issued by an invalid CA certificate.
+
 cert-error-trust-untrusted-issuer = The certificate is not trusted because the issuer certificate is not trusted.
+
 cert-error-trust-signature-algorithm-disabled = The certificate is not trusted because it was signed using a signature algorithm that was disabled because that algorithm is not secure.
+
 cert-error-trust-expired-issuer = The certificate is not trusted because the issuer certificate has expired.
+
 cert-error-trust-self-signed = The certificate is not trusted because it is self-signed.
+
 cert-error-untrusted-default = The certificate does not come from a trusted source.
+
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = HTTP Strict Transport Security: { $hasHSTS }
+
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = HTTP Public Key Pinning: { $hasHPKP }
+
 cert-error-details-cert-chain-label = Certificate chain:
 
 ## Messages used for certificate error titles

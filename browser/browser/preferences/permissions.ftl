@@ -5,35 +5,42 @@
 permissions-window =
     .title = Exceptions
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Block
     .accesskey = B
+
 permissions-session =
     .label = Allow for Session
     .accesskey = S
+
 permissions-allow =
     .label = Allow
     .accesskey = A
+
 permissions-status =
     .label = Status
+
 permissions-button-cancel =
     .label = Cancel
     .accesskey = C
+
 permissions-button-ok =
     .label = Save Changes
     .accesskey = S
+
 permissions-capabilities-allow =
     .label = Allow
 permissions-capabilities-block =
     .label = Block
+
 permissions-capabilities-listitem-allow =
     .value = Allow
 permissions-capabilities-listitem-block =
     .value = Block
-permissions-capabilities-listitem-allow-first-party =
-    .value = Allow first party only
 permissions-capabilities-listitem-allow-session =
     .value = Allow for Session
 
@@ -43,10 +50,6 @@ permissions-invalid-uri-title = Invalid Hostname Entered
 permissions-invalid-uri-label = Please enter a valid hostname
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = Exceptions - Tracking Protection
-    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -65,11 +68,15 @@ permissions-exceptions-addons-desc = You can specify which websites are allowed 
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

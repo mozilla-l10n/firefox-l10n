@@ -45,6 +45,7 @@ import =
 close-button =
     .label = Close
     .accesskey = C
+
 show-passwords =
     .label = Show Passwords
     .accesskey = P

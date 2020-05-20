@@ -6,6 +6,8 @@
 ## App Menu
 
 
+## Zoom Controls
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
