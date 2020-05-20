@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = खोजी गर्नुहोस्
     .aria-label = खोजी गर्नुहोस्
+
 newtab-search-box-search-the-web-text = वेबमा खोज्नुहोस्
 newtab-search-box-search-the-web-input =
     .placeholder = वेबमा खोज्नुहोस्
@@ -28,10 +29,12 @@ newtab-topsites-edit-topsites-header = शीर्ष साइट सम्प
 newtab-topsites-title-label = शीर्षक
 newtab-topsites-title-input =
     .placeholder = शीर्षक प्रविष्ट गर्नुहोस्
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL लेख्नुहोस्
 newtab-topsites-url-validation = मान्य URL चाहिन्छ
+
 newtab-topsites-image-url-label = अनुकूल तस्बिर URL
 newtab-topsites-use-image-link = अनुकूल तस्बिर प्रयोग गर्नुहोस्…
 newtab-topsites-image-validation = तस्बिर लोड गर्न असफल भयो । फरक URL प्रयास गर्नुहोस् ।
@@ -45,6 +48,8 @@ newtab-topsites-preview-button = पूर्ववलोकन
 newtab-topsites-add-button = थप्नुहोस्
 
 ## Top Sites - Delete history confirmation dialog. 
+
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = के तपाईं पक्का हुनुहुन्छ कि तपाइँ यस पृष्ठको हरेक उदाहरण तपाइँको इतिहासबाट हटाउन चाहनुहुन्छ ?
 # "This action" refers to deleting a page from history.
@@ -69,12 +74,20 @@ newtab-menu-delete-history = इतिहासबाट मेट्नुह�
 newtab-menu-save-to-pocket = { -pocket-brand-name }मा बचत गर्नुहोस्
 newtab-menu-delete-pocket = { -pocket-brand-name } बाट मेट्नुहोस्
 newtab-menu-archive-pocket = { -pocket-brand-name } मा संग्रह गर्नुहोस्
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = पुस्तकचिनो हटाउनुहोस्
 # Bookmark is a verb here.
 newtab-menu-bookmark = पुस्तकचिनो
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = डाउनलोड लिङ्क प्रतिलिपि गर्नुहोस्
@@ -105,6 +118,9 @@ newtab-label-download = डाउनलोड भयो
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = खण्ड हटाउनुहोस्
 newtab-section-menu-collapse-section = खण्ड संक्षिप्त गर्नुहोस्
 newtab-section-menu-expand-section = खण्ड विस्तार गर्नुहोस्
@@ -113,6 +129,8 @@ newtab-section-menu-add-topsite = शीर्ष साइट थप्नु�
 newtab-section-menu-move-up = माथि सार्नुहोस्
 newtab-section-menu-move-down = तल सार्नुहोस्
 newtab-section-menu-privacy-notice = गोपनीयता नीति
+
+## Section aria-labels
 
 ## Section Headers.
 
@@ -125,10 +143,14 @@ newtab-section-header-pocket = { $provider } द्वारा सिफार�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ब्राउज गर्न सुरू गर्नुहोस्, र हामी केहि उत्कृष्ट लेखहरू, भिडियोहरू, र अन्य पृष्ठहरू जुन तपाईंले भर्खरै भ्रमण गर्नुभएको वा पुस्तकचिनो राख्नुभएको छ यहाँ देखाउँछौ ।
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = अहिले यति नै । { $provider } बाट थप शीर्ष कथाहरूको हेर्नका लागि पछि फेरि जाँच गर्नुहोस् । अाफुलाई रोक्न सक्नुहुदैन ? वेबभरिका राम्रा कथाहरु भेटाउन कुनै एउटा लोकप्रिय विषय छान्नुहोस् ।
+
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 ## Pocket Content Section.
 

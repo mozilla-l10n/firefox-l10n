@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
+<!-- extracted from am-advanced.xhtml -->
+
 <!ENTITY smtpServer.label "बाह्यगमन सर्भर (SMTP) सेटिङ">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-
-<!ENTITY smtpDesc.label "तपाईँले एउटा भन्दा बढी बाह्यगमन सर्भर (SMTP) निर्दिष्ट गर्न सकेता पनि, उन्नत प्रयोगकर्ताका लागि यो मात्र सिफारिस गरिन्छ । बहुविध SMTP सर्भर सेटिङका कारणले सन्देश पठाउदा त्रुटि हुनसक्छ ।">
 
 <!ENTITY smtpListAdd.label "थप्नुहोस्...">
 <!ENTITY smtpListAdd.accesskey "d">
@@ -19,4 +23,3 @@
 <!ENTITY serverName.label "सर्भर नाम: ">
 <!ENTITY serverPort.label "पोर्ट: ">
 <!ENTITY userName.label "प्रयोगकर्ता नाम: ">
-<!ENTITY useSecureConnection.label "सुरक्षित जडान: ">

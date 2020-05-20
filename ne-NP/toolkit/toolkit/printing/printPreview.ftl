@@ -56,3 +56,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = अन्तिम पृष्ठ
+

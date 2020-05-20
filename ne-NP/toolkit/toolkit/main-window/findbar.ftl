@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = यस वाक्यांशको पछिल्लो घटना फेला पार्नुहोस्
 findbar-previous =
     .tooltiptext = यस वाक्यांशको अघिल्लो घटना फेला पार्नुहोस्
+
 findbar-find-button-close =
     .tooltiptext = खोजी पट्टी बन्द गर्नुहोस्
-findbar-highlight-all =
-    .label = सम्पूर्ण हाइलाइट गर्नुहोस्स
-    .accesskey = l
-    .tooltiptext = यस घटनाहरूमा फेला पर्ने सम्पूर्ण वाक्यांशहरूमा हाइलाइट गर्नुहोस्
+
 findbar-case-sensitive =
     .label = केस मिलाउनुहोस्
     .accesskey = c
     .tooltiptext = केस संवेदनशीलता सहित खोजी गर्नुहोस्
+
 findbar-entire-word =
     .label = पूरै शब्द
     .accesskey = W

@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "सूची गुण">
 
 <!ENTITY ListType.label "सूची प्रकार">
@@ -47,7 +52,6 @@
 <!ENTITY bulletList.value "गोली चिन्ह (अक्रमाङ्कित) सूची">
 <!ENTITY numberList.value "क्रमाङ्कित सूची">
 <!ENTITY definitionList.value "परिभाषा सूची">
-<!ENTITY changeListMsg.label "सूची प्रकार परिवर्तन गर्दा:">
 <!ENTITY changeEntireListRadio.label "पूरै सूची परिवर्तन गर्नुहोस्">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "केवल चयन गरिएका सामाग्री मात्र परिवर्तन गर्नुहोस्">

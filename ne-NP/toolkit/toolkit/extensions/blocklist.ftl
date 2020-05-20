@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = { -brand-short-name } फेरि सुरू गर्नुहोस्
     .accesskey = R
+
 blocklist-label-summary = { -brand-short-name } ले निर्धारित गरेकोछ कि निम्न एडअनले स्थिरता वा सुरक्षा समस्या उत्पन्न गर्न सक्दछन्:
 blocklist-soft-and-hard = यी एडअनहरूमा स्थिरता वा सुरक्षा समस्याको उच्च जोखिम छन् र अवरुद्ध गरिएको छ। अरू कम जोखिम छन्, तर पूर्णरुपमा तिनीहरूलाई अक्षम गर्न पुनः सुरु गर्न आवश्यक छ।
 blocklist-hard-blocked = यी एडअनहरूमा स्थिरता वा सुरक्षा समस्याको उच्च जोखिम छन् र अवरुद्ध गरिएको छ, तर पूर्णरूपमा तिनीहरूलाई असक्षम गर्न पुनः सुरु गर्न आवश्यक छ।
 blocklist-soft-blocked = आफ्नो सुरक्षाका लागि, तपाईँ यी एडअन असक्षम गरेर पुनः सुरु गर्न अत्यधिक सिफारिस गरिएको छ।
 blocklist-more-information =
     .value = थप जानकारी
+
 blocklist-blocked =
     .label = निषेधित
 blocklist-checkbox =

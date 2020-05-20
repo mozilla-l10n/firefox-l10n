@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "तालिकामा रूपान्तरण गर्नुहोस्">
 <!ENTITY instructions1.label "कम्पोजरले चयन भित्रका प्रत्येक अनुच्छेदका लागि एउटा नयाँ पङ्क्ति सिर्जना गर्दछ ।">
 <!ENTITY instructions2.label "चयनलाई स्तम्भमा विभाजन गर्न प्रयोग गरिने क्यारेक्टर रोज्नुहोस्:">

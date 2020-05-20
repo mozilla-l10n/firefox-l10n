@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = म जोखिम स्विकार गर्छु!
 config-about-warning-checkbox =
     .label = यो चेतावनी अर्को पटक देखाउनुहोस्
+
 config-search-prefs =
     .value = खोजी गर्नुहोस्
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = प्रतिलिपि गर्नुहोस्
     .accesskey = C
+
 config-copy-name =
     .label = नाम प्रतिलिपि गर्नुहोस्
     .accesskey = N
+
 config-copy-value =
     .label = मान प्रतिलिपि गर्नुहोस्
     .accesskey = V
+
 config-modify =
     .label = परिमार्जन गर्नुहोस्
     .accesskey = M
+
 config-toggle =
     .label = टगल
     .accesskey = T
+
 config-reset =
     .label = रिसेट गर्नुहोस्
     .accesskey = R
+
 config-new =
     .label = नयाँ
     .accesskey = w
+
 config-string =
     .label = स्ट्रिङ्ग
     .accesskey = S
+
 config-integer =
     .label = इन्टिजर
     .accesskey = I
+
 config-boolean =
     .label = बूलियन
     .accesskey = B
+
 config-default = पूर्वनिर्धारित
 config-modified = परिमार्जित
 config-locked = ताल्चा लगाइएको
+
 config-property-string = स्ट्रिङ्ग
 config-property-int = इन्टिजर
 config-property-bool = बूलियन
+
 config-new-prompt = प्राथमिकताको नाम प्रविष्ट गर्नुहोस्
+
 config-nan-title = अवैध मान
 config-nan-text = तपाईँले प्रविष्टि गर्नु भएको पाठ सङ्ख्या होइन ।
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = नयाँ { $type } मान
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } मान प्रविष्ट गर्नुहोस्

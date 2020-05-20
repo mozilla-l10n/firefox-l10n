@@ -1,4 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label "रचना &amp; सम्बोधन">
 <!ENTITY addressingGroupTitle.label "सम्बोधन">
@@ -11,8 +17,11 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "भिन्न LDAP सर्भर प्रयोग गर्नुहोस्:">
 <!ENTITY directories.accesskey "d">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label "रचना">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -20,9 +29,6 @@
 <!ENTITY useHtml.accesskey "C">
 <!ENTITY autoQuote.label "जवाफ पठाउदा सन्देशलाई स्वचालित रूपले उद्धरण चिन्ह भित्र राख्दछ">
 <!ENTITY autoQuote.accesskey "q">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "त्यसपछि,">
-<!ENTITY then.accesskey "t">
 <!ENTITY aboveQuote.label "मेरो जवाफ उद्धरण माथि सुरु गर्नुहोस्">
 <!ENTITY belowQuote.label "मेरो जवाफ उद्धरण तल सुरु गर्नुहोस्">
 <!ENTITY selectAndQuote.label "उद्धरण चिन्ह चयन गर्नुहोस्">
@@ -30,3 +36,4 @@
 <!ENTITY place.accesskey "p">
 <!ENTITY belowText.label "उद्धरण तल (सिफारिस गरिएको)">
 <!ENTITY aboveText.label "मेरो जवाफ तल (उद्धरण माथि)">
+

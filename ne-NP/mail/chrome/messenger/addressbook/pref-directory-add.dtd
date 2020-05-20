@@ -35,7 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label "डाइरेक्टरी सर्भर गुण">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY directoryName.label "नाम: ">
 <!ENTITY directoryName.accesskey "n">
 <!ENTITY directoryHostname.label "होस्टनाम: ">
@@ -48,12 +51,9 @@
 <!ENTITY directorySecure.accesskey "U">
 <!ENTITY directoryLogin.label "बाइन्ड DN: ">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "उन्नत विकल्प">
-<!ENTITY advancedOptionsButton.accesskey "a">
 <!ENTITY General.tab "साधारण">
 <!ENTITY Offline.tab "अफलाइन">
 <!ENTITY Advanced.tab "उन्नत">
-<!ENTITY advancedOptionsTitle.label "उन्नत विकल्प">
 <!ENTITY portNumber.label "पोर्ट नम्बर: ">
 <!ENTITY portNumber.accesskey "p">
 <!ENTITY searchFilter.label "खोजी फिल्टर: ">
@@ -68,6 +68,7 @@
 <!ENTITY return.accesskey "r">
 <!ENTITY results.label "परिणाम">
 <!ENTITY offlineText.label "तपाईँले यस डाइरेक्टरीको स्थानीय प्रति डाउनलोड गर्न सक्नुहुन्छ त्यसैले तपाईँले अफलाइनमा कार्य गर्दा पनि यो उपलब्ध हुन्छ ।">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

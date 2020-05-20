@@ -1,5 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY junkSettings.label "जङ्क सेटिङ">
-<!ENTITY trainingWarning.label "यदि सक्षम पारिएमा, तपाईँले पहिले सन्देशहरूलाई जङ्क हो वा होइन भन्ने चिनो लगाउन जङ्क उपकरणपट्टी बटन प्रयोग गरेर जङ्क मेल पहिचान गर्न &brandShortName; लाई प्रशिक्षण गर्नुपर्छ ।">
 <!ENTITY level.label "यो खाताका लागि अनुकूल जङ्क मेल नियन्त्रण सक्षम पार्नुहोस्">
 <!ENTITY level.accesskey "E">
 
@@ -10,8 +13,6 @@
 <!ENTITY purge1.accesskey "u">
 <!ENTITY purge2.label "दिन">
 
-<!ENTITY whitelist.label "यदि प्रेषक भित्रै छ भने मेललाई जङ्कको रूपमा चिनो नलगाउनुहोस्:">
-<!ENTITY whitelist.accesskey "D">
-
 <!ENTITY ispHeaders.label "यसद्वारा सेट गरेको जङ्क मेल हेडरहरू विश्वास गर्नुहोस्:">
 <!ENTITY ispHeaders.accesskey "T">
+

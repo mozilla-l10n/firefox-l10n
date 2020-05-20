@@ -1,6 +1,9 @@
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookPicker.label "ठेगाना पुस्तिका:">
-<!ENTITY searchInput.label "यसका लागि खोजी गर्नुहोस्:">
 <!ENTITY SearchNameOrEmail.label "नाम वा इमेल">
 
 <!ENTITY addtoToFieldMenu.label "लाई फिल्डमा थप्नुहोस्">

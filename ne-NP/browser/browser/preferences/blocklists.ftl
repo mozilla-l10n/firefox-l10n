@@ -5,17 +5,21 @@
 blocklist-window =
     .title = रोक सूचीहरू
     .style = width: 50em
-blocklist-desc = तपाईँ कुन { -brand-short-name } सूची प्रयोग गरेर वेब तत्त्व जसले तपाईँको ब्राउजिङ्ग गतिविधि ट्रयाक गर्न सक्छलाई अवरुद्द गर्ने हो छान्न सक्नुहुनेछ।
+
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = सूची
+
 blocklist-button-cancel =
     .label = रद्द गर्नुहोस्
     .accesskey = C
+
 blocklist-button-ok =
     .label = परिवर्तनहरू सङ्ग्रह गर्नुहोस्
     .accesskey = S
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -24,7 +28,4 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Disconnect.me आधारभूत सुरक्षा (सिफारिस)।
-blocklist-item-moz-std-desc = केहि ट्रयाकरहरूलाई अनुमति दिनुहोस् ता कि वेबसाइटहरू राम्रोसँग काम गर्न सकुन्।
-blocklist-item-moz-full-name = Disconnect.me सख्त सुरक्षा।
-blocklist-item-moz-full-desc = ज्ञात ट्रयाकरहरूलाई रोक्नुहोस् । केहि वेबसाइटहरू राम्रोसँग काम नगर्न सक्छन ।
+

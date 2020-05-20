@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "हिज्जे जाँच गर्नुहोस्">
 
 <!ENTITY misspelledWord.label "गलत हिज्जे भएको शब्द:">
@@ -61,8 +65,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "सम्पादन गर्नुहोस्...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "पृष्ठ फेरि जाँच गर्नुहोस्">
-<!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "बन्द गर्नुहोस्">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "पठाउनुहोस्">

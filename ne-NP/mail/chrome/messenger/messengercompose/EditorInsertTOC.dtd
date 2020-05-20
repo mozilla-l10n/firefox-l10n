@@ -35,9 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Window.title "सामाग्रीको सूची">
 <!ENTITY buildToc.label "यसबाट सामाग्रीको सूची निर्माण गर्नुहोस्:">
-<!ENTITY style.label "शैली:">
 <!ENTITY tag.label "ट्याग:">
 <!ENTITY class.label "वर्ग:">
 <!ENTITY header1.label "तह १">

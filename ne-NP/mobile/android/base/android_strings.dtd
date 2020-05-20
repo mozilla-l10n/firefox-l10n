@@ -18,21 +18,13 @@
 <!ENTITY firstrun_data_message "कम डाटा, अधिक बचत">
 <!ENTITY firstrun_data_subtext2 "तपाईँले प्रयोग गर्ने हरेक साइटमा कम डाटा खर्च गर्न तस्विरहरू बन्द गर्नुहोस्।">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message2 "तपाईंले जहाँ छोड्नुभयो त्यहिँ बाट छान्नुहोस् ।">
 <!ENTITY firstrun_sync_subtext2 "तपाईँले &brandShortName; मा संग्रह गर्ने पुस्तकचिनोहरू, गोप्यशब्दहरू र अन्य चीजहरू आफ्नो सबै उपकरणहरूमा फेला पार्न Sync प्रयोग गर्नुहोस् ।">
 <!ENTITY firstrun_signin_message "जोडिनुहोस्, सुरु हुनुहोस्">
-<!ENTITY firstrun_signin_button "Sync मा साइन इन गर्नुहोस">
 <!ENTITY  onboard_start_button_browser "ब्राउजिङ्ग सुरु गर्नुहोस">
 <!ENTITY firstrun_button_notnow "अहिले हैन">
 <!ENTITY firstrun_button_next "अर्को">
 
 <!ENTITY firstrun_tabqueue_title "लिङ्कहरू">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "ट्याब तांती सक्रिय पार्नुहोस्">
-<!ENTITY firstrun_tabqueue_subtext_off "अन्य अनुकरणहरूमा भएको लिङ्कहरू थिँच्दा &brandShortName; मा पछिको लागि सङ्ग्रह गर्नुहोस्।">
-
-<!ENTITY firstrun_tabqueue_message_on "सफल!">
-<!ENTITY firstrun_tabqueue_subtext_on "&settings; मुनी &pref_category_general;मा यसलाई जतिखेर पनि बन्द गर्न सक्नुहुनेछ।">
 
 <!ENTITY firstrun_readerview_title "लेखहरू">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -215,7 +207,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "ट्याब पुनः स्थापना गर्नुहोस्, प्लगइन, विकासक उपकरणहरू पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_category_notifications "सूचनाहरू">
-<!ENTITY pref_category_notifications_summary "नयाँ सुविधाहरू, वेबसाइट अद्यावधिकहरू">
 <!ENTITY pref_category_notifications_summary2 "नयाँ सुविधाहरू, उत्पादन सुझावहरू">
 <!ENTITY pref_developer_remotedebugging_usb "USB मार्फत Remote डिबग गर्न">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi मार्फत Remote डिबग गर्न">
@@ -319,11 +310,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "वेब अनुकरणहरुलाई गृह पर्दामा थप्ने अनुमति दिनुहोस्">
 
-<!ENTITY tracking_protection_prompt_title "अब ट्रयाकिङ्ग सुरक्षाको साथ">
-<!ENTITY tracking_protection_prompt_text "तपाईँलाई ट्रयाक गर्न सक्ने वस्तुहरू रोक्नुहोस्।">
-<!ENTITY tracking_protection_prompt_tip_text "थप जान्न को लागि गोपनीयता सेटिङमा भ्रमण गर्नुहोस्">
-<!ENTITY tracking_protection_prompt_action_button "पाएँ!">
-
 <!ENTITY tab_queue_toast_message3 "ट्याब &brandShortName; मा सुरक्षित">
 <!ENTITY tab_queue_toast_action "अहिले खोल्नुहोस्">
 <!ENTITY tab_queue_prompt_title "धेरै लिंकहरू खोल्दै हुनुहुन्छ?">
@@ -371,7 +357,6 @@
 <!ENTITY pref_use_system_font_size_summary "वेब सामग्री अनुसार प्रणाली फन्ट आकार मिलाउनुहोस्">
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस्">
-<!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
 <!ENTITY pref_media_autoplay_allow "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_zoom_force_enabled "आकार परिवर्तन सधै सक्षम पार्नुहोस">
 <!ENTITY pref_zoom_force_enabled_summary "कुनै पनि पेजको आकार परिवर्तन गर्न अधिरोहण गर्नुहोस">
@@ -395,15 +380,12 @@
 <!ENTITY pref_private_data_searchHistory "खोजी इतिहास">
 <!ENTITY pref_private_data_formdata2 "फारम इतिहास">
 <!ENTITY pref_private_data_cookies2 "कुकिज र सक्रिय लगइनहरू">
-<!ENTITY pref_private_data_passwords2 "सङ्ग्रहित लग-इनहरू">
 <!ENTITY pref_private_data_cache "क्यास">
 <!ENTITY pref_private_data_offlineApps "अफलाइन वेबसाइट डाटा">
 <!ENTITY pref_private_data_siteSettings2 "साइट सेटिङ">
 <!ENTITY pref_private_data_downloadFiles2 "डाउनलोडहरू">
 <!ENTITY pref_private_data_syncedTabs "Sync गरिएका ट्याबहरू">
 
-<!ENTITY pref_default_browser "पूर्वनिर्धारित ब्राउजर बनाउनुहोस्">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support खोल्नुहोस्">
 <!ENTITY pref_about_firefox "&brandShortName; बारे">
 <!ENTITY pref_vendor_faqs "FAQ हरू">
 <!ENTITY pref_vendor_feedback "प्रतिक्रिया दिनुहोस्">
@@ -451,14 +433,6 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "स्वचालित अद्यावधिकहरू">
-<!ENTITY pref_update_autodownload_wifi "केवल Wi-Fi को माध्यमबाट">
-<!ENTITY pref_update_autodownload_never "कहिले पनि">
-<!ENTITY pref_update_autodownload_always "सधै">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "सहयोग">
@@ -718,25 +692,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "पुस्तकचिनो र इतिहास">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; को लागि अद्यावधिक उपलब्ध छ">
-<!ENTITY updater_start_select2 "डाउनलोड गर्न छुनुहोस्">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; डाउनलोड गरिँदै">
-<!ENTITY updater_downloading_title_failed2 "डाउनलोड असफल भयो">
-<!ENTITY updater_downloading_select2 "अद्यावधिक पुरा भएपछि अद्यावधिक लागू गर्न थिच्नुहोस्">
-<!ENTITY updater_downloading_retry2 "पूनः प्रयास गर्न छुनुहोस्">
-
-<!ENTITY updater_apply_title3 "&brandShortName; को लागि अद्यावधिक डाउनलोड भयो">
-<!ENTITY updater_apply_select3 "स्थापना गर्न थिच्नुहोस">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "फाइल र अद्यावधिक डाउनलोड गर्न, &brandShortName; लाई भण्डारण गर्ने अनुमति दिनुहोस्।">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "अनुमति दिनुहोस्">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "नयाँ अतिथि सत्र">
 <!ENTITY exit_guest_session "अतिथि सत्रबाट बाहिर निस्कनुहोस्">
@@ -834,15 +789,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE(corrupt_apk): This notification is shown if corruption has been detected on startup and the user has to reinstall Firefox -->
 <!ENTITY corrupt_apk "&brandShortName; खोल्न अक्षम।कृपया पुन: स्थापित गर्नुहोस् र प्रयास गर्नुहोस्।">
 
-<!ENTITY eol_notification_title2 "&brandShortName; अब अद्यावधिक हुँदैन">
-<!ENTITY eol_notification_summary "अरू जान्नको लागि यहाँ थिच्नुहोस्">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; अप टु डेट छ">
 <!ENTITY whatsnew_notification_summary "यो संस्करणमा नयाँ के छ जान्नुहोस्">
-
-<!ENTITY promotion_add_page_shortcut "पृष्ठ छोटकरी थप्नुहोस्">
 
 <!ENTITY helper_first_offline_bookmark_title "अफलाइन पढ्नुहोस्">
 <!ENTITY helper_first_offline_bookmark_message "बुक्मार्कसमा तपाईंको पाठक वस्तुहरू भेट्टाउनुहोस्, अफलाइन हुंदा पनि।">
@@ -898,3 +848,4 @@ See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
 Picture-in-picture mini window -->
 
 <!-- Notification channels names -->
+

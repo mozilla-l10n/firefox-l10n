@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = फन्टहरू
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = निम्नको लागि फन्ट्सहरू
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = अरबी
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = समानुपातिक
     .accesskey = P
+
 fonts-default-serif =
     .label = सेरिफ
 fonts-default-sans-serif =
     .label = सान सेरिफ
+
 fonts-proportional-size = आकार
     .accesskey = z
+
 fonts-serif = सेरिफ
     .accesskey = S
+
 fonts-sans-serif = सान-सेरिफ
     .accesskey = n
+
 fonts-monospace = मोनोस्पेस
     .accesskey = M
+
 fonts-monospace-size = आकार
     .accesskey = e
+
 fonts-minsize = न्यूनतम अक्षर साइज
     .accesskey = o
+
 fonts-minsize-none =
     .label = कुनै पनि होइन
+
 fonts-allow-own =
     .label = तपाईको माथि उल्लिखित चयनहरूको सट्टामा आफ्नै फन्टहरू छनौट गर्न पृष्ठहरू लाई अनुमति दिनुहोस्
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = पुरानो सामग्रीको लागि वर्ण संकेतन
 fonts-languages-fallback-desc = आफ्नो संकेतन देखाउन नसक्ने सामग्रीमा यो संकेतन प्रयोग गरिन्छ।
+
 fonts-languages-fallback-label = निवर्तमान र पाठ सङ्केतन
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = वर्तमान लोक्यालका लागि पूर्वनिर्धारित
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = भियतनामिज
 fonts-languages-fallback-name-other =
     .label = अन्य (पश्चिमी युरोपेली सहित)
-fonts-very-large-warning-title = ठूलो न्यूनतम फन्ट साइज
-fonts-very-large-warning-message = तपाईँले धेरै नै ठुलो न्युनतम फन्ट आकार (२४ पिक्सेल भन्दा बडी) छनोट गर्नु भएको छ। त्यसको कारण ले केही महत्त्वपूर्ण कन्फिगरेसन पृष्ठ जस्तै यो प्रयोग गर्न कठिनाइ वा असम्भव हुन सक्छ।
-fonts-very-large-warning-accept = जे भए पनि मेरो परिवर्तनहरू राख्नुहोस्
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

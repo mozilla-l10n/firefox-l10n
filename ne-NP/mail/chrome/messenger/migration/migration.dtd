@@ -1,21 +1,15 @@
 
-<!ENTITY migrationWizard.title "विजार्ड आयात गर्नुहोस्">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY importFrom.label "विकल्प, खाता सेटिङ, ठेगाना पुस्तिका र अन्य डेटाबाट आयात गर्नुहोस्:">
-<!ENTITY importFromUnix.label "प्राथमिकता, खाता सेटिङ, ठेगाना पुस्तिका र अन्य डेटाबाट आयात गर्नुहोस्:">
+
+<!ENTITY migrationWizard.title "विजार्ड आयात गर्नुहोस्">
 
 <!ENTITY importFromNothing.label "कुनै पनि वस्तु आयात नगर्नुहोस्">
 <!ENTITY importFromNothing.accesskey "D">
-<!ENTITY importFromSeamonkey.label "नेटस्केप 6, 7 वा मोजिला 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "नेटस्केप 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOExpress.label "अभिव्यक्ति रेखदेख गर्नुहोस्">
-<!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "रेखदेख">
 <!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "युडोरा">
-<!ENTITY importFromEudora.accesskey "E">
 
 <!ENTITY importSource.title "यसबाट सेटिङ र मेल फोल्डर आयात गर्नुहोस्">
 <!ENTITY importItems.title "आयात गरिने वस्तु">

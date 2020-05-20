@@ -19,6 +19,8 @@ onboarding-cards-dismiss =
     .title = खारेज गर्नुहोस्
     .aria-label = खारेज गर्नुहोस्
 
+## Welcome full page string
+
 ## Firefox Sync modal dialog strings.
 
 
@@ -37,9 +39,12 @@ onboarding-cards-dismiss =
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-text = आफैँ ब्राउज गर्नुहोस । सामग्री अवरुद्ध सहितको निजी  ब्राउजिङ्ग ले अनलाइन ट्रयाकरहरु जसले तपाईँलाई वेबमा पच्छ्याइरहन्छन् त्यसलाई अवरुद्ध गर्दछ ।
+
 onboarding-addons-title = एडअनहरू
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
+
 
 ## Message strings belonging to the Return to AMO flow
 
