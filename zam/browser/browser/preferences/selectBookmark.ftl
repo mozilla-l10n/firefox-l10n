@@ -5,3 +5,4 @@
 select-bookmark-window =
     .title = Toob kue nerta
     .style = width: 32em;
+

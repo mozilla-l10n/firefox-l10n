@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Kue nak &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; nara the thus kue noy.">
-<!ENTITY aboutPage.telemetryStart               " Loo niet xa mud de ke xhín yib kub  ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " this lash lo besta níe &brandShortName; mké xhin.">
 <!ENTITY aboutPage.checkForUpdates.link         "Dee kuan koo kub »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Güi ko kub...">
 <!ENTITY aboutPage.checkForUpdates.none         "Ngyé-n ko kùb">

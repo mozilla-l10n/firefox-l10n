@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Kuan nak Plugins
+
 installed-plugins-label = mtób plugins
 no-plugins-are-installed-label = Ná mtob plugins
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Yéz:</span> Dób kíy
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Yéz:</span> Dób kíy ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Yéz:</span> Naa tobb luy
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Yéz:</span> Naa tobb luy ({ $blockListState })
+
 mime-type-label = MIME Type
 description-label = Xha nák ah
 suffixes-label = Suffixes

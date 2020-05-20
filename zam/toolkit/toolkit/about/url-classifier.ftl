@@ -9,5 +9,6 @@ url-classifier-cache-title = Cache
 url-classifier-cache-refresh-btn = Blíy
 url-classifier-cache-clear-btn = M-tob bíy
 url-classifier-cache-table-name = Sá léy
+
 url-classifier-cannot-update = gádt lín kúb bá
 url-classifier-success = Bliy liy!

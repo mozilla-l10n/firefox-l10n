@@ -5,5 +5,6 @@
 blocklist-accept =
     .label = Bí~rè là kí { -brand-short-name }
     .accesskey = r
+
 blocklist-checkbox =
     .label = Naa tobb luy

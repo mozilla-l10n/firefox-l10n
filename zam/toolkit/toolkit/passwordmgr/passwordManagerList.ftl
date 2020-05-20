@@ -13,6 +13,7 @@ remove =
 close-button =
     .label = TòɁw
     .accesskey = T
+
 show-passwords =
     .label = Ló dizh
     .accesskey = P

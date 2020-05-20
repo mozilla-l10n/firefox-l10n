@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Toob yaal"> 
 <!ENTITY helpMenuWin.accesskey    "o">
+
 <!ENTITY aboutProduct2.label      "Kue nak &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "a">
 <!ENTITY productHelp2.label       "&brandShorterName; Help">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "B">
 <!ENTITY helpSafeMode.stop.label       "Bí~rè là kíy ner tob ko kub">
 <!ENTITY helpSafeMode.stop.accesskey   "B">
-
-<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Guii xha mud thus kue liy">
 <!ENTITY helpTroubleshootingInfo.accesskey  "G">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mb-lòɁ ré tá">
+

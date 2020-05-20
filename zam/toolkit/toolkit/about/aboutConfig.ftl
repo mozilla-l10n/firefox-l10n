@@ -22,13 +22,18 @@ config-copy-pref =
     .key = C
     .label = loo shog gaa
     .accesskey = l
+
 config-reset =
     .label = Tetey
     .accesskey = T
+
 config-new =
     .label = Kùb
     .accesskey = b
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-property-bool = boolean
+

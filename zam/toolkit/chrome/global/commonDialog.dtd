@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Xha mud lee kue"> 
 <!ENTITY message.label    "Toob tree letr ">
+
 <!ENTITY editfield0.label "Xha mud leel:"> 
 <!ENTITY editfield1.label "Taa dizh koo luut ta ne:"> 
-<!ENTITY checkbox.label   "Güi">
+<!ENTITY checkbox.label   "Güi"> 
 <!ENTITY copyCmd.label    "Loo shog gaa">
 <!ENTITY copyCmd.accesskey "L">
 <!ENTITY selectAllCmd.label "Mxhen reey">

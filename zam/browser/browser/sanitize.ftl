@@ -20,15 +20,20 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Ree koo güil
+
 item-cookies =
     .label = Cookies
     .accesskey = C
+
 item-cache =
     .label = Cache
     .accesskey = a
+
 sanitize-button-ok =
     .label = Tòmbî nàl
+
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = Tòmbî
+

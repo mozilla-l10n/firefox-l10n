@@ -19,17 +19,6 @@
 <!ENTITY navbarOverflow.label                "Loo ree yibb...">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "TeɁ zàp loo">
-<!ENTITY  reloadTab.accesskey                "T">
-<!ENTITY  reloadAllTabs.label                "TeɁ zàp ré tá loo">
-<!ENTITY  reloadAllTabs.accesskey            "á">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "TòɁw ree ngetlu kue">
-<!ENTITY  closeTabsToTheEnd.accesskey        "u">
-<!ENTITY  closeOtherTabs.label               "Tog ree loo">
-<!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -40,20 +29,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "T">
 <!ENTITY  unpinTab.label                     "Tee doot loo">
 <!ENTITY  unpinTab.accesskey                 "o">
-<!ENTITY  sendTabToDevice.label              "m-tàl=là lô loo Yib">
-<!ENTITY  sendTabToDevice.accesskey          "Y">
 <!ENTITY  sendPageToDevice.label             "m-tàl=là loo Yib">
 <!ENTITY  sendPageToDevice.accesskey         "Y">
 <!ENTITY  sendLinkToDevice.label             "m-tàl=là loo Yib">
 <!ENTITY  sendLinkToDevice.accesskey         "Y">
-<!ENTITY  moveToNewWindow.label              "Taal laa taa diif loo">
-<!ENTITY  moveToNewWindow.accesskey          "a">
-<!ENTITY  bookmarkAllTabs.label              "Ré tá ko ndó~làz=ná ...">
-<!ENTITY  bookmarkAllTabs.accesskey          "t">
 <!ENTITY  undoCloseTab.label                 "Naa lash naa tòɁw loo koo güin penta">
 <!ENTITY  undoCloseTab.accesskey             "N">
-<!ENTITY  closeTab.label                     "TòɁw">
-<!ENTITY  closeTab.accesskey                 "T">
 
 <!ENTITY  listAllTabs.label      "Loo ree taa loo">
 
@@ -85,16 +66,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "d">
 <!ENTITY bookmarksToolbarItem.label "Té tak güin ko ndó~làz=ná">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "TeɁ zàp ré tá loo">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "á">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ré tá ko ndó~làz=ná ...">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Naa lash naa tòɁw loo koo güin penta">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "N">
-
 <!ENTITY pageSourceCmd.label "Güi xha mud na thus kue kue">
 <!ENTITY pageSourceCmd.accesskey "i">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Choo thus kue kue">
 <!ENTITY pageInfoCmd.accesskey "C">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -106,6 +81,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "l">
 <!ENTITY exitFullScreenCmd.label "mb-ròɁ lô">
 <!ENTITY exitFullScreenCmd.accesskey "l">
+
 <!ENTITY fullScreenCmd.label "Loo maach">
 <!ENTITY fullScreenCmd.accesskey "L">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,7 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "mb-ròɁ lô">
 <!ENTITY fullScreenExit.accesskey "l">
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -157,29 +133,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Tób kùe loo ndó~làz=ná ">
 <!ENTITY editThisBookmarkCmd.label "Tùs kùe Ndó~làz=ná">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!-- LOCALIZATION NOTE (findShareServices.label):
-  -  Use the unicode ellipsis char, \u2026,
-  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!ENTITY sharePageCmd.label "tă~làz lô ré">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "r">
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Tă~làz lô dó re">
-<!ENTITY shareLink.accesskey "r">
-<!ENTITY shareImage.label "Tă~làz món ré">
-<!ENTITY shareImage.accesskey "r">
-<!ENTITY shareSelect.label "Tă~làz ko B-šèn=lú">
-<!ENTITY shareSelect.accesskey "z">
-<!ENTITY shareVideo.label "Tă~làz video re">
-<!ENTITY shareVideo.accesskey "r">
-<!ENTITY subscribeToPageMenuitem.label "Naa lash güi kue taa diif vez...">
+
 <!ENTITY addCurPagesCmd.label "Ndó~làz=ná ré tá...">
+
 <!ENTITY showAllBookmarks2.label "Mb-lòɁ ré tá kó ndó~làz=ná">
 <!ENTITY recentBookmarks.label "Ko pénta tón ná loo ndó~làz=ná ">
 <!ENTITY otherBookmarksCmd.label "Tá thîb ko ndó~làz=ná">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mb-lòɁ kó ndó~làz=ná">
-<!ENTITY showRecentlyBookmarked.label     "Loo ré ko ndó~làz=ná ">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
 
 <!ENTITY backCmd.label                "M-bì~rè">
 <!ENTITY backButton.tooltip           "Vere ngetlu">
@@ -190,7 +150,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "TeɁ zàp">
 <!ENTITY stopCmd.label                "Ngót~tòɁ">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Cuan taa diff loo">
+
 <!ENTITY printButton.label            "Keey loo yets">
 <!ENTITY printButton.tooltip          "Kee loo yets loo ree">
 
@@ -209,7 +171,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Ndó~làz=ná">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Ndó~làz=ná">
 <!ENTITY bookmarksMenuButton.other.label "Tá thíb ko ndó~làz=ná">
 <!ENTITY viewBookmarksSidebar2.label        "Ndó~làz=ná">
 <!ENTITY viewBookmarksToolbar.label         "Ndó~làz=ná">
@@ -244,6 +205,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Koo de güil">
 <!ENTITY fileMenu.accesskey       "K">
+
 <!ENTITY newNavigatorCmd.label        "Loo gib kuub">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "L">
@@ -286,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "K">
 <!ENTITY viewSidebarMenu.label "Yaa ">
 <!ENTITY viewSidebarMenu.accesskey "Y">
+
 <!ENTITY viewCustomizeToolbar.label       "Tùs kùe...">
 <!ENTITY viewCustomizeToolbar.accesskey     "e">
 
@@ -297,9 +260,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Tùs kùe">
-<!ENTITY appMenuCustomizeExit.label "Mb-ròɁ tùs kùe">
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
@@ -308,10 +268,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
-     when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.openprefs.label "Sync ndó~làz=lú">
+
 <!ENTITY appMenuRemoteTabs.signin.label "-taɁ lélù lèɁn Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mbwíʔ Sync">
 
@@ -331,17 +288,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Kuan dee kuan luu">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Xhe loo gibb:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Lab kue...">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Yenta">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "ăɁ">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
@@ -401,6 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Xhal kue loo taa diff loo kub">
+
 <!ENTITY openLinkCmdInTab.accesskey   "l">
 <!ENTITY openLinkCmd.label            "Xhal kue loo taa diff loo kub">
 <!ENTITY openLinkCmd.accesskey        "l">
@@ -418,7 +370,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "TeɁ zàp loo ré">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Mbwíʔ zá mud b-šèn lú kue">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Mbwíʔ MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -449,6 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Toob kue lent koo más doo lash naa">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
+
 <!ENTITY emailPageCmd.label           "Taal kue loo diif taal...">
 <!ENTITY emailPageCmd.accesskey       "T">
 <!ENTITY savePageCmd.label            "Loo xhog kue">
@@ -552,6 +504,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Mxhe xha niey">
 <!ENTITY fullZoomToggleCmd.accesskey    "M">
+
 <!ENTITY fullZoom.label                 "Loo Narú">
 <!ENTITY fullZoom.accesskey             "r">
 
@@ -578,8 +531,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "T">
 <!ENTITY pageStylePersistentOnly.label "Tee xha niey">
 <!ENTITY pageStylePersistentOnly.accesskey "T">
-
-<!ENTITY pageReportIcon.tooltip            "Xhe xha mud nak kue tihs lash luu toog luu loo ree">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -608,8 +559,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Toob ba loo Diccionario...">
 <!ENTITY spellAddDictionaries.accesskey "T">
 
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
-
 
 <!-- Strings for connection state warnings. -->
 
@@ -621,24 +570,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Cho taak güil kee">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Gua let lo loo">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
-<!ENTITY syncedTabs.sidebar.openprefs.label    "mb-šàlɁ &syncBrand.shortName.label; kó lí chél">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Tób kùe loo ndó~làz=ná...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "d">
-<!ENTITY syncedTabs.context.copy.label                       "Lí Chopa">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 
 
@@ -652,12 +592,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "k">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Xha thus kue kue...">
-
-<!ENTITY social.directory.viewmore.text "Mbwíʔ">
-
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
@@ -680,14 +614,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
-<!ENTITY trackingContentBlocked.message "Güi">
-<!ENTITY trackingContentBlocked.learnMore "Lab Kue">
-
 <!ENTITY pluginNotification.showAll.label "Mb-lòɁ ré tá">
 <!ENTITY pluginNotification.showAll.accesskey "l">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Bliy nal">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -696,9 +624,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
-<!ENTITY uiTour.infoPanel.close "TòɁw">
 
-<!ENTITY appMenuSidebars.label         "Yaá ">
+<!ENTITY uiTour.infoPanel.close "TòɁw">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".

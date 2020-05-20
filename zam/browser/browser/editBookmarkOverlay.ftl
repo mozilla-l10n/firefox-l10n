@@ -5,19 +5,24 @@
 bookmark-overlay-name =
     .value = Chó lélù:
     .accesskey = l
+
 bookmark-overlay-location =
     .value = Paa dul:
     .accesskey = u
+
 bookmark-overlay-choose =
     .label = Mxhen na...
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Loo koo ree ta do lash na
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Kás~lô
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Mb-lòɁ ré tá
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Kás~lô
+
 bookmark-overlay-keyword =
     .value = Taa diif dizh:
     .accesskey = T

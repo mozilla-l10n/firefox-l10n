@@ -12,18 +12,11 @@
 <!ENTITY firstrun_data_subtext2 "Tog mbol xha lí chel sní.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_signin_message "Gú, tòlô">
-<!ENTITY firstrun_signin_button "Gú lèɁn Sync">
 <!ENTITY  onboard_start_button_browser "Tòlô kwàɁn">
 <!ENTITY firstrun_button_notnow "Ngyé-n ta, na lít lùy nál">
 <!ENTITY firstrun_button_next "Tá thîb vá">
 
 <!ENTITY firstrun_tabqueue_title "Nêt (n̆eza)">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Bla kí Loo queue">
-<!ENTITY firstrun_tabqueue_subtext_off "mb-lòɁ sóg dó leɁn &brandShortName; xé xhal ló apps.">
-
-<!ENTITY firstrun_tabqueue_message_on "Kuan mxhác!">
-<!ENTITY firstrun_tabqueue_subtext_on "Tak tuy lú kue this yaál &settings; lá ner &pref_category_general;.">
 
 <!ENTITY firstrun_readerview_title "Yêts lab lú">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -196,7 +189,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Bí~rè ré-tá lô (lawo), bló sóg gá, tús kúe Yíʔb (kiʔkwa)">
 <!ENTITY pref_category_notifications "WiɁ">
-<!ENTITY pref_category_notifications_summary "Ko kub, lí kub">
 <!ENTITY pref_developer_remotedebugging_usb "Tob bíy loo USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Tob bíy loo Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "This lash lu toob ki Wifinakin li ché thib yíʔb lab QR.">
@@ -288,11 +280,6 @@
 <!ENTITY custom_tabs_hint_url_copy "URL gók chópa">
 
 
-<!ENTITY tracking_protection_prompt_title "Tob ko nagax tie men">
-<!ENTITY tracking_protection_prompt_text "Gash kuey sá na línt lú sgab pá dúl.">
-<!ENTITY tracking_protection_prompt_tip_text "WiɁ lenɁ tré">
-<!ENTITY tracking_protection_prompt_action_button "¡Ge nul ni!">
-
 <!ENTITY tab_queue_toast_message3 "Mblo xhog na &brandShortName;">
 <!ENTITY tab_queue_toast_action "Mb-šàlɁ=lá nál">
 <!ENTITY tab_queue_prompt_title "¿Mb-šàlɁ plo nêt (n̆eza)?">
@@ -340,7 +327,6 @@
 <!ENTITY pref_use_system_font_size_summary "Escala de contenido web de acuerdo con el tamaño de fuente del sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Tob kí lénta">
-<!ENTITY pref_media_autoplay_enabled_summary "Tak tob lú kí re onn güin ner ko xhon lú">
 <!ENTITY pref_zoom_force_enabled "Blá kí ko naru">
 <!ENTITY pref_zoom_force_enabled_summary "Na lit lu mach loo re">
 <!ENTITY pref_voice_input "Gú dizh">
@@ -362,15 +348,12 @@
 <!ENTITY pref_private_data_searchHistory "KwàɁn lô góš">
 <!ENTITY pref_private_data_formdata2 "Kó diéd lô góš">
 <!ENTITY pref_private_data_cookies2 "Cookies ner teɁ-tè">
-<!ENTITY pref_private_data_passwords2 "mb-lòɁ sóg cho lel">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Ngyé-n Internet">
 <!ENTITY pref_private_data_siteSettings2 "Thus kue">
 <!ENTITY pref_private_data_downloadFiles2 "Ko blaál">
 <!ENTITY pref_private_data_syncedTabs "Sync lô (lawo)">
 
-<!ENTITY pref_default_browser "Lá kue">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Wí Mozilla">
 <!ENTITY pref_about_firefox "TeɁ-tè &brandShortName;">
 <!ENTITY pref_vendor_faqs "Ko niel">
 <!ENTITY pref_vendor_feedback "Mtal lá">
@@ -404,7 +387,6 @@
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; xha xho lo xhuy">
 <!ENTITY datareporting_fhr_summary2 "Loo xá mké xhín &vendorShortName; xá niel xha xó le xhú Firefox.">
-<!ENTITY datareporting_abouthr_title "wiɁ xá mkén xhín">
 <!ENTITY datareporting_telemetry_title "Telemetría">
 <!ENTITY datareporting_telemetry_summary "Loo niet xá mud mké xhin Firefox loo &vendorShortName; xha besta &brandShortName; mké xhín besta">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; mbéz loo &vendorShortName; this kap de ké xhín">
@@ -413,13 +395,6 @@
 <!ENTITY datareporting_crashreporter_title_short "Kó na lí ché">
 <!ENTITY datareporting_wifi_title2 "Pa dú &vendorShortName;">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Lì ché loo &vendorShortName; güi lo isluo! tá pa dul loo Wi.Fi ner yib dedizh xá tak thus kue nö pa dul.">
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Túb ko kub lá">
-<!ENTITY pref_update_autodownload_wifi "WiɁ lô Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Ngyé-n tá">
-<!ENTITY pref_update_autodownload_always "Bliy">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Lì ché">
@@ -672,25 +647,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Ndó~làz=ná ner lô góš">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Kó kúb ná &brandShortName;">
-<!ENTITY updater_start_select2 "Gaás sa laáy">
-
-<!ENTITY updater_downloading_title2 "Delaán &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Na bla tí">
-<!ENTITY updater_downloading_select2 "Gaás sa laáy nal">
-<!ENTITY updater_downloading_retry2 "Bliy">
-
-<!ENTITY updater_apply_title3 "Kó kúb ná &brandShortName;">
-<!ENTITY updater_apply_select3 "M-tòb">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Sa tak lay ko kuy ner yêtz, nakin gás &brandShortName;.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "La áy">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Men kûb mxhín">
 <!ENTITY exit_guest_session "Mb-ròɁ">
@@ -785,9 +741,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced by the Android OS version (e.g., 14)-->
 <!ENTITY unsupported_sdk_version "¡Let! &brandShortName; gadt mké xhín lent yib ré (&formatS1;, &formatS2;). Blay ko tak lí chel.">
 
-<!ENTITY eol_notification_title2 "na gadt kub &brandShortName; ">
-<!ENTITY eol_notification_summary "Gás kue xá lo bé">
-
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; deyak kub">
@@ -832,3 +785,4 @@ is simply hidden from the Activity Stream panel. -->
 <!-- LOCALIZATION NOTE (pwa_add_to_launcher_badge2): Used as label in the page actions dropdown list,
 displayed when there are more than 3 actions available for a page.
 See also https://bug1409261.bmoattachments.org/attachment.cgi?id=8919897 -->
+

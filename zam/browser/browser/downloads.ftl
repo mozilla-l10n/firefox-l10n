@@ -16,20 +16,25 @@ downloads-panel =
 downloads-cmd-pause =
     .label = Bleeta
     .accesskey = B
+  
 downloads-cmd-clear-downloads =
     .label = Tòmbî ner b-là
     .accesskey = b
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Xhal yets ndedizh
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Mb-lòɁ ré tá kó b-là=l
     .accesskey = t
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Nayent ko tak lal.
+

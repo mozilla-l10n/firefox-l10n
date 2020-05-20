@@ -5,13 +5,6 @@
 
 ### The term "Service Workers" and "Workers" should not be translated
 
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Application ID { $appId } - InBrowserElement { $isInIsolatedElement }
-
 ## These strings are for showing the information of workers.
 ##
 ## Variables:
@@ -20,4 +13,5 @@ app-title = { -brand-short-name } Application ID { $appId } - InBrowserElement {
 
 # This term is used as a button label (verb, not noun).
 update-button = Li kub
+
 waiting = Leet chunt...

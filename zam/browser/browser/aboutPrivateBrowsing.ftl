@@ -8,3 +8,4 @@ about-private-browsing-info-bookmarks = Ndó~làz=ná
 about-private-browsing-info-searches = kwàɁn
 about-private-browsing-info-downloads = b-là yêtz
 about-private-browsing-info-cookies = cookies
+

@@ -2,22 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.placeholder                   "Kuan ko tak toob lu lent tree">
-<!ENTITY search.buttonlabel                   "KwàɁn">
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-
-
-<!ENTITY cmd.back.tooltip                     "M-bì~rè thîb loo">
-<!ENTITY cmd.forward.tooltip                  "Gua taa diff loo ngetlu">
 
 
 <!-- global warnings -->
-
-<!-- categories / views -->
-<!ENTITY view.search.label                    "KwàɁn">
 
 <!-- addon updates -->
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
@@ -30,18 +17,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 
-<!-- addon actions -->
-<!ENTITY cmd.findUpdates.label                "GòzăɁl ko kùb">
-<!ENTITY cmd.findUpdates.accesskey            "F">
-<!ENTITY cmd.preferencesWin.label             "Kuan lash luu lil">
-<!ENTITY cmd.preferencesWin.accesskey         "K">
-<!ENTITY cmd.preferencesUnix.label            "Koo lash luu">
-<!ENTITY cmd.preferencesUnix.accesskey        "K">
-<!ENTITY cmd.about.label                      "Kue nak chan">
-<!ENTITY cmd.about.accesskey                  "K">
-
 <!ENTITY cmd.disableAddon.label               "Naa tobb luy">
 <!ENTITY cmd.disableAddon.accesskey           "N">
+
 <!ENTITY cmd.uninstallAddon.label             "Tee doont naa">
 <!ENTITY cmd.uninstallAddon.accesskey         "T">
 <!ENTITY cmd.showPreferencesWin.label         "Kuan lash luu lil">
@@ -51,27 +29,11 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
-<!-- detail view -->
-<!ENTITY detail.numberOfDownloads.label       "Laay">
-
-
-<!ENTITY detail.size                          "Xha niey">
-
-<!ENTITY detail.showPreferencesUnix.label     "Koo lash luu">
-<!ENTITY detail.showPreferencesUnix.accesskey "K">
-
 
 <!-- ratings -->
 
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Bleet">
 <!ENTITY progress.cancel.tooltip              "B-láɁ=y">
 
-
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Xha mud leel">
-
-<!ENTITY search.filter2.label                 "KwàɁn:">
 
 <!ENTITY addon.unknownDate                    "Ngyéntá">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
@@ -85,20 +47,13 @@
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
      necessary -->
 <!ENTITY addon.update.postfix                 "Lí kùb">
-<!ENTITY addon.restartNow.label               "Bí~rè là kíy nál">
+
 <!ENTITY addon.install.label                  "Toob baa">
 <!ENTITY addon.checkingForUpdates.label       "dee kuan koo kub">
 
 
 
 <!ENTITY settings.path.button.label           "Kuan na...">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "Lab Kue">
 
 <!ENTITY setting.learnmore "Lab Kue...">
 

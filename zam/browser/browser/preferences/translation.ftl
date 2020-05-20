@@ -4,6 +4,7 @@
 
 translation-languages-column =
     .label = Ta más dedizh dediz Firefox
+
 translation-button-close =
     .label = TòɁw
     .accesskey = T

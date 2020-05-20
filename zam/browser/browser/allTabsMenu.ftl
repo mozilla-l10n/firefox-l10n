@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Naa lash naa tòɁw loo koo güin penta
+

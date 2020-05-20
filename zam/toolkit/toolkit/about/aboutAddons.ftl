@@ -4,9 +4,11 @@
 
 search-header-shortcut =
     .key = f
+
 cmd-find-updates =
     .label = GòzăɁl ko kùb
     .accesskey = F
+
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -18,12 +20,16 @@ cmd-preferences =
             [windows] K
            *[other] K
         }
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 addon-restart-now =
     .label = Bí~rè là kíy nál
+
 addon-category-plugin = Plugins
 addon-category-plugin-title =
     .title = Plugins
@@ -35,10 +41,13 @@ addon-category-locale-title =
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 
 ## Strings connected to add-on updates
 

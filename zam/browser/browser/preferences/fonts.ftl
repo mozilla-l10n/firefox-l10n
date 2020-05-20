@@ -59,6 +59,7 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-minsize-none =
     .label = Nie diif va
 
@@ -85,3 +86,4 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Other (incl. Western European)
+
