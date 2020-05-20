@@ -6,6 +6,7 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 75ch;">
+
 <!ENTITY identityListDesc.label "Nastajenja za tutu identitu konfigurować:">
 
 <!ENTITY settingsTab.label       "Nastajenja">

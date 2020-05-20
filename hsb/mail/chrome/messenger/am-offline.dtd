@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Zo byšće tačelowy rum zalutował, njesćehńće:">
 <!ENTITY doNotDownloadNntp.label "Zo byšće tačelowy rum zalutował, njesćehńće za wužiwanje offline:">
 <!ENTITY doNotDownloadImap.label "Zo byšće tačelowy rum zalutował, da so sćahowanje powěsće ze serwera a wobchowowanje lokalnych kopijow za wužiwanje offline po starobje abo wulkosći wobmjezować.">
-<!ENTITY allFoldersOffline.label "Powěsće za tute konot na tutym ličaku wobchować">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Powěsće we wšěch rjadowakach za tute konto na tutym ličaku wobchować">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Kedźbu: Hdyž to změniće, so to na wšě rjadowaki w tutym konće wuskutkuje. Wužiwajće tłóčatko Rozšěrjene…, zo byšće jednotliwe rjadowaki nastajił.">

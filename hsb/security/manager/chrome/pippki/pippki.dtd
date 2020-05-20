@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Bušće poprošeny nowej certifikatowej awtoriće (CA) dowěrić.">
 <!ENTITY downloadCert.trustSSL "Tutej certifikatowej awtoriće dowěrić, zo bychu so websydła identifikowali.">
 <!ENTITY downloadCert.trustEmail "Tutej certifikatowej awtoriće dowěrić, zo bychu so e-mejlowi wužiwarjo identifikowali.">
-<!ENTITY downloadCert.trustObjSign "Tutej certifikatowej awtoriće dowěrić, zo bychu so softwarowi wuwiwarjo identifikowali.">
 <!ENTITY downloadCert.message3 "Prjedy hač tutej certifikatowej awtoriće za někajki zaměr dowěriće, wy měł jeje certifikat a jeje prawidła a procedury (jeli k dispoziciji stejace) přepruwować.">
 <!ENTITY downloadCert.viewCert.label "Napohlad">
 <!ENTITY downloadCert.viewCert.text "Certifikat certifikatoweje awtority přepruwować">

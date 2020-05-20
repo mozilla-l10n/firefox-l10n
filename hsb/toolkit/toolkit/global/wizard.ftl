@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Wróćo
     .accesskey = W
+
 wizard-macos-button-next =
     .label = Pokročować
     .accesskey = P
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Dale >
     .accesskey = D
+
 wizard-macos-button-finish =
     .label = Hotowo
 wizard-linux-button-finish =
     .label = Dokónčić
 wizard-win-button-finish =
     .label = Dokónčić
+
 wizard-macos-button-cancel =
     .label = Přetorhnyć
 wizard-linux-button-cancel =

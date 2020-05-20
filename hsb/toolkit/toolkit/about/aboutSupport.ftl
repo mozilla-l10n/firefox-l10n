@@ -4,6 +4,7 @@
 
 page-title = Informacije za rozrisowanje problemow
 page-subtitle = Tuta strona wobsahuje techniske informacije, kotrež móhli wužitne być, hdyž pospytujeće problem rozrisać. Jeli za wotmołwami za zwučene prašenja wo { -brand-short-name } pytaće, wopytajće našu <a data-l10n-name="support-link">podpěranske websydło</a>.
+
 crashes-title = Rozprawy wo spadach
 crashes-id = ID rozprawy
 crashes-send-date = Wotpósłany
@@ -123,6 +124,7 @@ audio-backend = Awdiobackend
 max-audio-channels = Maksimalna ličba kanalow
 channel-layout = Preferowane kanalowe wuhotowanje
 sample-rate = Preferowana wottasowanska rata
+
 media-title = Medije
 media-output-devices-title = Wudawanske graty
 media-input-devices-title = Zapodawanske graty
@@ -175,6 +177,7 @@ report-crash-for-days =
         [few] Rozprawy wo spadach za zańdźene { $days } dny
        *[other] Rozprawy wo spadach za zańdźenych { $days } dnjow
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -184,6 +187,7 @@ crashes-time-minutes =
         [few] před { $minutes } mjeńšinami
        *[other] před { $minutes } mjeńšinami
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -193,6 +197,7 @@ crashes-time-hours =
         [few] před { $hours } hodźinami
        *[other] před { $hours } hodźinami
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -202,6 +207,7 @@ crashes-time-days =
         [few] před { $days } dnjemi
        *[other] před { $days } dnjemi
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -211,6 +217,7 @@ pending-reports =
         [few] Wšě rozprawy wo spadach (inkluziwnje { $reports } njesčinjene spady w datym času)
        *[other] Wšě rozprawy wo spadach (inkluziwnje { $reports } njesčinjenych spadow w datym času)
     }
+
 raw-data-copied = Hruby daty kopěrowane do mjezyskłada
 text-copied = Tekst kopěrowany do mjezyskłada
 
@@ -223,9 +230,11 @@ blocked-mismatched-version = Zablokowany, dokelž wersija wašeho grafikoweho ć
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Za wašu wersiju grafiskeho ćěrjaka zablokowany. Spytajće swój grafiski ćěrjak na wersiju { $driverVersion } abo nowšu aktualizować.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametry ClearType
+
 compositing = Compositing
 hardware-h264 = Hardwarowe dekodowanje H264
 main-thread-no-omtc = hłowna nitka, žadyn OMTC
@@ -240,6 +249,7 @@ virtual-monitor-disp = Zwobraznjenje wirtuelneho monitora
 
 found = Namakany
 missing = Falowacy
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Wopisanje
@@ -263,18 +273,23 @@ webgl2-version = WebGL 2 - wersija ćěrjaka
 webgl2-driver-extensions = WebGL 2 - rozšěrjenja ćěrjaka
 webgl2-extensions = WebGL 2 - rozšěrjenja
 blocklisted-bug = W blokowanskej lisćinje znatych problemow dla
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = programowy zmylk { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = W blokowanskej lisćinje; zmylkowy kod { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = D3D11 Video Decoder
 d3d9video-crash-buard = D3D9 Video Decoder
 d3d9video-crash-guard = D3D9 Video Decoder
 glcontext-crash-guard = OpenGL
+
 wmfvpxvideo-crash-guard = Widejodekoder WMF VPX
+
 reset-on-next-restart = Při přichodnym nowym starće wróćo stajić
 gpu-process-kill-button = GPU-proces skónčić
 gpu-device-reset = Grat wróćo stajić
@@ -284,8 +299,10 @@ content-uses-tiling = Wužiwa kachlicowanje (wobsah)
 off-main-thread-paint-enabled = Off Main Thread Painting zmóžnjeny
 off-main-thread-paint-worker-count = Ličba workerow Off Main Thread Painting
 target-frame-rate = Cilowa wobłukowa hustosć
+
 min-lib-versions = Wočakowana minimalna wersija
 loaded-lib-versions = Wužita wersija
+
 has-seccomp-bpf = Seccomp-BPF (Filtrowanje systemowych zawołanjow)
 has-seccomp-tsync = Nitkowa synchronizacija Seccomp
 has-user-namespaces = Wužiwarske mjenowe rumy
@@ -298,15 +315,18 @@ sandbox-proc-type-content = wobsah
 sandbox-proc-type-file = datajowy wobsah
 sandbox-proc-type-media-plugin = medijowy tykač
 sandbox-proc-type-data-decoder = dekodowak datow
+
 startup-cache-title = Startowy pufrowak
 startup-cache-disk-cache-path = Šćežka tačeloweho pufrowaka
 startup-cache-ignore-disk-cache = Tačelowy pufrowak ignorować
 startup-cache-found-disk-cache-on-init = Tačelowy pufrowak je so namakał při inicializowanju
 startup-cache-wrote-to-disk-cache = Je so do tačeloweho pufrowaka napisało
+
 launcher-process-status-0 = Zmóžnjeny
 launcher-process-status-1 = Zmylka dla znjemóžnjeny
 launcher-process-status-2 = Namócnje znjemóžnjeny
 launcher-process-status-unknown = Njeznaty status
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -319,6 +339,7 @@ multi-process-status-6 = Přez njepodpěrane tekstowe zapodaće znjemóžnjeny
 multi-process-status-7 = Přez přidatki znjemóžnjeny
 multi-process-status-8 = Namócnje znjemóžnjeny
 multi-process-status-unknown = Njeznaty status
+
 async-pan-zoom = Asynchrone přesuwanje/skalowanje
 apz-none = žadyn
 wheel-enabled = zapodaće z koleskom zmóžnjene
@@ -326,6 +347,7 @@ touch-enabled = zapodaće přez podótknjenje zmóžnjene
 drag-enabled = ćahanje suwanskeje lajsty zmóžnjene
 keyboard-enabled = tastatura zmóžnjena
 autoscroll-enabled = awtomatiske kulenje zmóžnjene
+
 zooming-enabled = łahodne šćipate skalowanje zmóžnjene
 
 ## Variables

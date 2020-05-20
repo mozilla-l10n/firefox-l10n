@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Wo tykačach
+
 installed-plugins-label = Instalowane tykače
 no-plugins-are-installed-label = Žane instalowane tykače namakane
+
 deprecation-description = Faluje něšto? Někotre tykače so wjace njepodpěruja. <a data-l10n-name="deprecation-link">Dalše informacije.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Status:</span> Zmóžnjeny
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Status:</span> Zmóžnjeny ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Status:</span> Znjemóžnjeny
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Status:</span> Znjemóžnjeny ({ $blockListState })
+
 mime-type-label = MIME-typ
 description-label = Wopisanje
 suffixes-label = Sufiksy

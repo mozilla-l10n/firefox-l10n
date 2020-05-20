@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Powěsće sćahnyć a synchronizować">
 <!ENTITY MsgSelect.label "Zapiski za wužiće offline">
 <!ENTITY MsgSyncDesc.label "Jeli sće hižo e-mejlowe rjadowaki abo diskusijne skupiny za wužiće offline wubrał, móžeće tute nětko sćahnyć a/abo synchronizować. Hewak wužijće tłóčatko &quot;Wubrać&quot;, zo byšće e-mejlowe rjadowaki a diskusijne skupiny za wužiće offline wubrał.">

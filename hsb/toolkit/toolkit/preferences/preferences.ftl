@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (njepostajeny)
+
 failed-pw-change = Njeje móžno, hłowne hesło změnić.
 incorrect-pw = Njejsće prawe hłowne hesło zapodał. Prošu spytajće hišće raz.
 pw-change-ok = Hłowne hesło je so z wuspěchom změniło.
+
 pw-empty-warning = Waše webowe a e-mejlowe hesła, formularne daty a priwatne kluče njebudu so škitać.
 pw-erased-ok = Sće swoje hłowne hesło wotstronił.  { pw-empty-warning }
 pw-not-wanted = Warnowanje! Sće so rozsudźił, zo njeby so hłowne hesło wužiwało. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Sće tuchwilu w modusu FIPS. FIPS sej hłowne hesło žada.
 pw-change-success-title = Změnjenje hesła je so poradźiło
 pw-change-failed-title = Změnjenje hesła njeje so poradźiło
 pw-remove-button =
     .label = Wotstronić
+
 set-password =
     .title = Hłowne hesło změnić
 set-password-old-password = Tuchwilne hesło:
@@ -24,6 +28,7 @@ set-password-meter = Měridło kajkosće hesła
 set-password-meter-loading = Začituje so
 master-password-description = Hłowne hesło so wužiwa, zo bychu so diskretne informacije kaž hesło škitali. Jeli hłowne hesło wutworiće, budźe so was jónkróc na posedźenje za nim prašeć, hdyž { -brand-short-name } składowane informacije škitane z tutym hesłom wotwołuje.
 master-password-warning = Prošu zawěsćće, zo sej hłowne hesło, kotrež scé stajił, spomjatkujeće. Jeli swoje hłowne hesło zabudźeće, njemóžeće na z nim škitane informacije přistup měć.
+
 remove-password =
     .title = Hłowne hesło wotstronić
 remove-info =

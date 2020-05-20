@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenowanu kótwičku zasadźić abo kajkosće wubraneje kótwički wobdźěłać">
 <!ENTITY TextColorButton.tooltip "Barbu za tekst wubrać">
 <!ENTITY BackgroundColorButton.tooltip "Barbu za pozadk wubrać">
-<!ENTITY throbber.tooltip "K startowej stronje &vendorShortName;">
 <!ENTITY throbber.tooltip2 "K startowej stronje &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Wuzběhnjensku barbu za tekst wubrać">
 

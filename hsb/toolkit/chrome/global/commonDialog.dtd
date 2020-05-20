@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Krótki titul"> 
 <!ENTITY message.label    "Tu budźe přikładowy tekst.">
+
 <!ENTITY editfield0.label "Mjeno wužiwarja:"> 
 <!ENTITY editfield1.label "Hesło:"> 
-<!ENTITY checkbox.label   "zmóžnić">
+<!ENTITY checkbox.label   "zmóžnić"> 
 <!ENTITY copyCmd.label    "Kopěrować">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Wšo wubrać">

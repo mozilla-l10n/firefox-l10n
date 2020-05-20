@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Sydłowe informacije wobhladać
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Sće přistup na MIDI za tute websydło zablokował.
 urlbar-install-blocked =
     .tooltiptext = Sće instalowanje přidatkow za tute websydło zablokował.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tutu zapołožku ({ $shortcut }) wobdźěłać
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Rozšěrjenje rjadować…
 page-action-remove-from-urlbar =
     .label = Z adresoweho pola wotstronić
+
 page-action-remove-extension =
     .label = Rozšěrjenje wotstronić
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nětko pytać z:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Pytanske nastajenja
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Pytanske nastajenja změnić
+
 search-one-offs-context-open-new-tab =
     .label = W nowym rajtarku pytać
     .accesskey = r
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Editor při składowanju pokazać
     .accesskey = E
+
 bookmark-panel-done-button =
     .label = Dokónčeny
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Wšě widźomne wokna na wašej wobrazowce budu so d�
 
 enable-devtools-popup-description = Zo byšće tastu F12 wužiwał, wočińće najprjedy DevTools přez meni Webwuwiwar.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Sće tutomu websydłu přidatne prawa dał.
 urlbar-switch-to-tab =
     .value = K rajtarkej přeńć:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšěrjenje:
+
 urlbar-go-button =
     .tooltiptext = K adresy w adresowym polu
 urlbar-page-action-button =

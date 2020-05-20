@@ -13,6 +13,7 @@ enable-common-message = Wuwiwarske nastroje Firefox su znjemóžnjene po standar
 enable-learn-more-link = Zhońće wjace wo wuwiwarskich nastrojach
 enable-enable-button = Wuwiwarske nastroje zmóžnić
 enable-close-button = Tutón rajtark začinić
+
 welcome-title = Witajće k wuwiwarskim nastrojam Firefox!
 newsletter-title = Wuwiwarski powěsćowy list Mozilla
 newsletter-message = Wobstarajće sej nowinki wuwiwarjow, pokiwy a resursy, kotrež so direktnje na was sćelu.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Sym přezjedny, zo Mozilla po <a data-l10n-name="priv
 newsletter-subscribe-button = Abonować
 newsletter-thanks-title = Wulki dźak!
 newsletter-thanks-message = Jeli hišće njejsće abonement powěsćoweho lista Mozilla wobkrućił, dyrbiće to nětko činić. Prošu hladajće do dochadneje e-mejle abo papjernika za e-mejlku wot nas.
+
 footer-title = Firefox Developer Edition
 footer-message = Pytaće wjace hač jenož wuwiwarske nastroje? Wuslědźće wobhladowak Firefox, kotryž je so specielnje za wuwiwarjow a moderne dźěłowe wotběhi wuwił.
 footer-learn-more-link = Dalše informacije
+
 features-learn-more = Dalše informacije
 features-inspector-title = Inspektor
 features-inspector-desc = Analyzujće a polěpšće žórłowy kod, zo byšće na pikselu dokładne wuhotowanja wuwiwał. <a data-l10n-name="learn-more">{ features-learn-more }</a>

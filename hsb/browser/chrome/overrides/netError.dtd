@@ -133,11 +133,9 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony na tute wašnje zadźěwał, dokelž strona ma wěstotne prawidła za wobsah, kotrež to njedowoleja.</p>">
 
-<!ENTITY xfoBlocked.title "Přez prawidła X-Frame-Options zablokowane">
+<!ENTITY corruptedContentErrorv2.title "Zmylk - wobškodźeny wobsah">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; je začitanju tuteje strony w tutym konteksće zadźěwał, dokelž strona ma prawidła X-Frame-Options, kotrež to njedowoluja.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Zmylk - wobškodźeny wobsah">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strona, kotruž chceće sej wobhladać, njeda so pokazać, dokelž je so zmylk při přenošowanju datow namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">
 
@@ -184,10 +182,10 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Zda so, zo waše nastajenja syćoweje wěstoty móhli to zawinować. Chceće standardne nastajenja wobnowić?">
 <!ENTITY prefReset.label "Standardne nastajenja wobnowić">
 
+<!ENTITY networkProtocolError.title "Zmylk syćoweho protokola">
+
 <!ENTITY enableTls10.longDesc "Tute websydło snano protokol TLS 1.2 njepodpěruje, kotryž je minimalna wersija, kotruž &brandShortName; podpěruje. Hdyž TLS 1.0 a TLS 1.1 zmóžniće, da so snano zwisk nawjazać.">
 <!ENTITY enableTls10.note "TLS 1.0 a TLS 1.1 so w přichodnej wersiji na přeco znjemóžnitej.">
 <!ENTITY enableTls10.label "TLS 1.0 a 1.1 zmóžnić">
-
-<!ENTITY networkProtocolError.title "Zmylk syćoweho protokola">
 
 <!ENTITY networkProtocolError.longDesc "<p>Strona, kotruž pospytujeće sej wobhladać, njeda so pokazać, dokelž je so zmylk w syćowym protokolu namakał.</p><ul><li>Prošu stajće so z wobsedźerjemi websydła do zwiska, zo byšće jich wo tutym problemje informował.</li></ul>">

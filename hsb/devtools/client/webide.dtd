@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "S">
 
 <!ENTITY projectButton_label "Nałoženje wočinić">
+
 <!ENTITY runtimeButton_label "Běžny čas wubrać">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB-graty">
 <!ENTITY runtimePanel_wifi "WLAN-graty">
 <!ENTITY runtimePanel_other "Druhi">
-<!ENTITY runtimePanel_noadbhelper "ADB Helper instalować">
 <!ENTITY runtimePanel_nousbdevice "Njemóžeće swój grat widźeć?">
 <!ENTITY runtimePanel_refreshDevices_label "Graty aktualizować">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informacije běžneho časa">
-<!ENTITY runtimedetails_adbIsRoot "ADB je korjeń: ">
-<!ENTITY runtimedetails_summonADBRoot "korjenjowy grat">
-<!ENTITY runtimedetails_ADBRootWarning "(trjeba njezawrjeny startowy program)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Njewobmjezowane priwilegije wuwiwarskich nastrojow: ">
-<!ENTITY runtimedetails_requestPrivileges "wo wyše priwilegije prosyć">
-<!ENTITY runtimedetails_privilegesWarning "(Budźe grat znowa startować. Trjeba administratorowy přistup.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">

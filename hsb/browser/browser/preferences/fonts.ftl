@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Pisma
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Pisma za
     .accesskey = P
+
 fonts-langgroup-arabic =
     .label = Arabske
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionalne
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Wulkosć
     .accesskey = l
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Wulkosć
     .accesskey = k
+
 fonts-minsize = Minimalna wulkosć pisma
     .accesskey = M
+
 fonts-minsize-none =
     .label = Žana
+
 fonts-allow-own =
     .label = Stronam dowolić, swoje pisma město horjeka wubranych wužić
     .accesskey = S
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Tekstowe kodowanje za zestarjeny wobsah
 fonts-languages-fallback-desc = Tute tekstowe kodowanje so za zestarjeny wobsah wužiwa, kotryž njemóže swóje kodowanje deklarować.
+
 fonts-languages-fallback-label = Narunanje za tekstowe kodowanje
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Standard za aktualnu lokalu
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamšćina
 fonts-languages-fallback-name-other =
     .label = Druhe (inkl. zapadne europske)
-fonts-very-large-warning-title = Wulka minimalna pismowa wulkosć
-fonts-very-large-warning-message = Sće jara wulku minimalnu pismowu wulkosć (přez 24 pikselow) wubrał. To móhło wužiwanje wažnych konfiguraciskich stronow kaž je tuta strona wobćežeć abo samo znjemóžnić.
-fonts-very-large-warning-accept = Moje změny najebać toho wobchować
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

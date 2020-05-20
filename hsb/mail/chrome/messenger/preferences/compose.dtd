@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Pismo:">
 <!ENTITY font.accesskey                       "P">
-<!ENTITY size.label                           "Wulkosć:">
-<!ENTITY size.accesskey                       "u">
 <!ENTITY fontSize.label                       "Wulkosć:">
 <!ENTITY fontSize.accesskey                   "u">
 <!ENTITY useReaderDefaults.label              "Standardne barby čitaka wužiwać">

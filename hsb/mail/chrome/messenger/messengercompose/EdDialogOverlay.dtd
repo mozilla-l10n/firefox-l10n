@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Mjez relatiwnym a absolutnym URL přeměnić. Dyrbiće najprjedy stronu składować, prjedy hač móžeće to změnić.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Zapodajće adresu webstrony, lokalnu dataju abo wubjerće pomjenowanu kótwičku abo nadpismo z wuskakowaceje lisćiny:">
-<!ENTITY LinkURLEditField.accessKey "Z">
 <!ENTITY LinkURLEditField2.label "Zapodajće adresu webstrony, lokalnu dataju abo wubjerće pomjenowanu kótwičku abo nadpismo z kontekstoweho menija pola:">
 <!ENTITY LinkURLEditField2.accessKey "b">

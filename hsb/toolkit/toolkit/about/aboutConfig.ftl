@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Akceptuju riziko!
 config-about-warning-checkbox =
     .label = Tute warnowanje přichodny raz pokazać
+
 config-search-prefs =
     .value = Pytać:
     .accesskey = t
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopěrować
     .accesskey = K
+
 config-copy-name =
     .label = Mjeno kopěrować
     .accesskey = M
+
 config-copy-value =
     .label = Hódnotu kopěrować
     .accesskey = H
+
 config-modify =
     .label = Změnić
     .accesskey = Z
+
 config-toggle =
     .label = Přešaltować
     .accesskey = P
+
 config-reset =
     .label = Wróćo stajić
     .accesskey = r
+
 config-new =
     .label = Nowy
     .accesskey = N
+
 config-string =
     .label = String
     .accesskey = S
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = standard
 config-modified = změnjeny
 config-locked = zawrjeny
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Zapodajće mjeno nastajenja
+
 config-nan-title = Njepłaćiwa hódnota
 config-nan-text = Tekst, kotryž sće zapodał, ličba njeje.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nowa hódnota { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Zapodajće hódnotu { $type }

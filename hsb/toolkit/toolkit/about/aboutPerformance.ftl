@@ -54,6 +54,7 @@ close-tab =
     .title = Rajtark začinić
 show-addon =
     .title = W zrjadowaku přidatkow pokazać
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

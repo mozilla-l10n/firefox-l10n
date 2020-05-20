@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Adresnik:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Přetorhnyć">
-<!ENTITY editContactPanelCancel.accesskey "P">
-
 <!ENTITY editContactPanelDone.label "Hotowo">
 <!ENTITY editContactPanelDone.accesskey "H">
 
