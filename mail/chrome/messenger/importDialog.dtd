@@ -43,15 +43,22 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Letha ngaphakathi">
-<!ENTITY importDialog.mailTitle "Iposo">
-<!ENTITY importDialog.addressbookTitle "Incwadi yeemphande">
-<!ENTITY importDialog.settingsTitle "Izakhiwo">
 
 <!ENTITY importTitle.label "&brandShortName; isisetjenziswa sokuletha iposo ngaphakathi">
-<!ENTITY importDesc.label "Letha Iposo Ngaphakathi, Iincwadi Zamakheli nezakhiwo zamanye amahlelo">
 
-<!ENTITY importDescription.label "Isisetjenziswesi sizakuletha imilayezo yeposo ngaphakathi, imitlolo yeencwadi zeemphande, nokukhethiweko kusukela kumahlelo amanye weposo nokwakheka kweencwadi zeemphande ezijayelekileko &brandShortName; Iposo.">
 <!ENTITY importDescription2.label "Nasele zilethwe ngaphakathi, uzakwazi ukufumana ngaphakathi kwe &brandShortName; Iposo begodu/namkha incwadi yeemphande.">
 
 <!ENTITY selectDescription.label "Sibawa ukhethe ihlelo ofuna ukuletha okumumethwe ngilo ngaphakathi:">
@@ -66,8 +73,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Isihloko">
 <!ENTITY processing.label "Ukuletha ngaphakathi...">
 
-<!ENTITY FieldDiscInputText1.label " I-Netscape Communicator 4.x inesiphande sinye sokuposa ekaradeni ngalinye, lokha &brandShortNname; inamabili (sekhaya neseMsebenzini).">
-<!ENTITY FieldDiscInputText2.label "Khetha ihlobo ofuna ukubulunga ngalo amakheli alethwe ngaphakathi wokuposa:">
-<!ENTITY FieldDiscWarning.label "Umhlobo lo uzakusetjenziselwa yoke imitlolo yeencwadi zamakheli ezikhethiweko: ">
-<!ENTITY importDialog.homeTitle "Ekhaya">
-<!ENTITY importDialog.workTitle "Emsebenzini">

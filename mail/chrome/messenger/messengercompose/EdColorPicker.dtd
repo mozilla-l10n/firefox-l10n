@@ -35,12 +35,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Umbala">
 <!ENTITY lastPickedColor.label "Kwamaswaphela okhethwe kokugcina">
 <!ENTITY lastPickedColor.accessKey "K">
-<!ENTITY setColor1.label "Qhwarhaza kumbala namkha">
-<!ENTITY setColor2.label "faka intambo yombala yeHTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(isibonelo: &quot;#0000ff&quot; namkha &quot;hlaza&quot;):">
 <!ENTITY default.label "Ukubhalelwa">
 <!ENTITY default.accessKey "U">

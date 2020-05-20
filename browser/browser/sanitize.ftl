@@ -18,11 +18,15 @@
 item-cookies =
     .label = Cookies
     .accesskey = C
+
 item-cache =
     .label = Cache
     .accesskey = a
+
 item-form-search-history =
     .label = Saved Form and Search History
     .accesskey = F
+
 window-close =
     .key = w
+

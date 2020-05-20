@@ -38,37 +38,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label "Ipahla">
 
 <!ENTITY generalInfo.label "Imininingwane Evamisileko">
-<!ENTITY folderCharsetTab.label "Ukukhowuda Ihlavu Esilaphazako:">
-<!ENTITY folderCharsetTab.accesskey "U">
-<!ENTITY folderCharsetOverride.label "Sebenzisa isisilaphazi kiyo yoke imilayezo esemvilobhini (izakhiwo zokukhowuda imilayezo ngehlavu ngayinye nezwa ngokuzenzakalela ayizukunakwa)">
-<!ENTITY folderCharsetOverride.accesskey "S">
-<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary File">
 
 
 <!ENTITY retention.label "Umgomo Wokubamba">
-<!ENTITY retentionUseDefault.label "Sebenzisa isisilaphazi somsebenzi">
-<!ENTITY retentionUseDefault.accesskey "s">
-<!ENTITY days.label "amalanga">
 <!ENTITY daysOld.label "amalanga ubudala">
 <!ENTITY message.label "imilayezo">
 <!ENTITY retentionCleanup.label "Ukuthola isikhala sediski godu, imilayezo emidala ingacinyelwa futhi">
-<!ENTITY retentionKeepMsg.label "Sula imilayezo engaphezulu kwe">
-<!ENTITY retentionKeepMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "Ungacimi namunye umlayezo">
 <!ENTITY retentionKeepAll.accesskey "U">
-<!ENTITY retentionKeepNew.label "Sula yoke kodwana wokuphela">
-<!ENTITY retentionKeepNew.accesskey "s">
-<!ENTITY retentionKeepUnread.label "Ngaso soke isikhathi sula imilayezo efundiweko">
-<!ENTITY retentionKeepUnread.accesskey "n">
-
-<!ENTITY folderOfflineTab.label "Iphume elayinini">
-<!ENTITY folderCheckForNewMessages.label "Qala imvilobhu le mayelana nemilayezo emitjha">
-<!ENTITY folderCheckForNewMessages.accesskey "Q">
 
 <!ENTITY offlineFolder.check.label "Khetha imvilobhu le ukuyisebenzisa nawuphume elayinini">
 <!ENTITY offlineFolder.check.accesskey "K">
@@ -77,16 +61,13 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Khetha isichemesi seendaba ukusisebenzisa nawuphume elayinini">
 <!ENTITY selectofflineNewsgroup.check.accesskey "k">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Sebenzisa isisilaphazi kuzakhiwo ze-akhawundi ">
 <!ENTITY offlineNewsgroup.button.label "Khuphela gadesi">
 <!ENTITY offlineNewsgroup.button.accesskey "K">
 
-<!ENTITY folderProps.information.label "Imininingwana:">
 <!ENTITY folderProps.name.label "Ibizo:">
 <!ENTITY folderProps.name.accesskey "I">
 
 <!ENTITY folderSharingTab.label "Ukwabelana">
-<!ENTITY privilegesDesc.label "Yabelana lokhu nezinye iimvilobhu nabasebenzisi behlangano begodu ubonise uhlele neemfuneko zokungena">
 <!ENTITY privileges.button.label "Iimfanelo...">
 <!ENTITY privileges.button.accesskey "I">
 <!ENTITY permissionsDesc.label "Unamalungelo alandelako:">
@@ -96,3 +77,4 @@
 <!ENTITY folderQuotaRoot.label "Isisusa Sekota:">
 <!ENTITY folderQuotaUsage.label "Ukusetjenziswa:">
 <!ENTITY folderQuotaStatus.label "Ubujamo:">
+

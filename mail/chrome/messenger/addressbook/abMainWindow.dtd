@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Incwadi yeemphande">
 <!-- File Menu -->
 
@@ -5,10 +9,6 @@
 <!ENTITY fileMenu.accesskey "i">
 <!ENTITY newMenu.label "Etja">
 <!ENTITY newMenu.accesskey "E">
-<!ENTITY newCard.label "Ikarida lencwadi yeemphande...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "Irhelo lokuposa...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
@@ -25,22 +25,11 @@
 <!ENTITY closeCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Ikhasi Ukwakha...">
 <!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCardViewCmd.label "Gadangisa Ikarida lokuhlola igadangiso">
-<!ENTITY printPreviewCardViewCmd.accesskey "g">
 <!ENTITY printPreviewAddressBook.label "Gadangisa Incwadi Yekhali Ebonisa Ngaphambili">
 <!ENTITY printPreviewAddressBook.accesskey "G">
-<!ENTITY printCardViewCmd.label "Ikarida lokugadangisa...">
-<!ENTITY printCardViewCmd.accesskey "i">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Gadangisa incwadi yeemphande...">
 <!ENTITY printAddressBook.accesskey "G">
 
-<!ENTITY quitApplicationCmdWin.label "Phuma">
-<!ENTITY quitApplicationCmdWin.accesskey "p">
-<!ENTITY quitApplicationCmd.label "Lisa">
-<!ENTITY quitApplicationCmd.accesskey "L">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Lungisa">
@@ -61,11 +50,8 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Sula">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "s">
 <!ENTITY deleteAbCmd.label "Sula incwadi yamakheli">
-<!ENTITY deleteCardCmd.label "Sula ikarida">
-<!ENTITY deleteCardsCmd.label "Sula amakarida akhethiweko">
 <!ENTITY selectAllCmd.label "Khetha Koke">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -75,9 +61,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Okungaphakathi...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -91,12 +74,8 @@
 <!ENTITY showTaskbarCmd.accesskey "I">
 <!ENTITY customizeToolbar.label "Jayezisa...">
 <!ENTITY customizeToolbar.accesskey "J">
-<!ENTITY showCardPane.label "Ifasidere elinokurhunyeziweko ngekarida">
-<!ENTITY showCardPane.accesskey "I">
 <!ENTITY menu_ShowNameAs.label "Bonisa Thiya njenga">
 <!ENTITY menu_ShowNameAs.accesskey "t">
-<!ENTITY firstLastCmd.label "Kokuthoma, Kokugcina">
-<!ENTITY firstLastCmd.accesskey "k">
 <!ENTITY lastFirstCmd.label "Kokugcina, Kokuthoma">
 <!ENTITY lastFirstCmd.accesskey "k">
 <!ENTITY displayNameCmd.label "Tjengisa ibizo">
@@ -116,48 +95,25 @@
 <!ENTITY importCmd.accesskey "L">
 <!ENTITY exportCmd.label "Khiphela ngaphandle...">
 <!ENTITY exportCmd.accesskey "K">
-<!ENTITY preferencesCmd.label "Ikhetho...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Okukhethako">
 <!ENTITY preferencesCmdUnix.accesskey "o">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Nceda">
-<!ENTITY helpMenu.accesskey "N">
-<!ENTITY releaseCmd.label "Khupha amanothi">
-<!ENTITY releaseCmd.accesskey "K">
-<!ENTITY hintsAndTips.label "&brandShortName; Siza">
-<!ENTITY hintsAndTips.accesskey "s">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Nge &brandShortName;">
-<!ENTITY aboutCmd.accesskey "N">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "Ikarida Elitjha">
-<!ENTITY newcardButton.accesskey "I">
 <!ENTITY newlistButton.label "Irhelo Elitjha">
 <!ENTITY newlistButton.accesskey "I">
-<!ENTITY editButton.label "Okungaphakathi">
-<!ENTITY editButton.accesskey "O">
 <!ENTITY newmsgButton.label "Tlola">
 <!ENTITY newmsgButton.accesskey "T">
 <!ENTITY newIM.label "Umlayezo orhabileko">
 <!ENTITY newIM.accesskey "U">
-<!ENTITY deleteButton.label "Sula">
-<!ENTITY deleteButton.accesskey "S">
-<!ENTITY throbberItem.title "Isibonisi-senzo">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Yenza ikarida lencwadi yeemphande">
 <!ENTITY newlistButton.tooltip "Yenza irhelo elitjha">
-<!ENTITY editButton.tooltip "Lungisa ikarida elikhethiweko">
 <!ENTITY newmsgButton.tooltip "Thumela umlayezo e I-meyili">
 <!ENTITY newIM.tooltip "Thumela umlayezo orhabileko namkha ucocisane">
-<!ENTITY deleteButton.tooltip "Sula ikarida elikhethiweko namkha incwadi yamakheli">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label "Incwadi yamakheli">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Ibizo namkha I-Imeyili">
@@ -171,8 +127,6 @@
 <!ENTITY GeneratedName.accesskey "I">
 <!ENTITY PrimaryEmail.label "I-Imeyili">
 <!ENTITY PrimaryEmail.accesskey "I">
-<!ENTITY ScreenName.label "Ibizo leskrini">
-<!ENTITY ScreenName.accesskey "I">
 <!ENTITY Company.label "Ihlangano">
 <!ENTITY Company.accesskey "i">
 <!ENTITY NickName.label "Igama lokudlala">
@@ -201,16 +155,6 @@
 <!ENTITY _PhoneticName.accesskey "i">
 <!-- Results pane context menu -->
 
-<!ENTITY composeEmail.label "Yakha I-email eya ku">
-<!ENTITY composeEmail.accesskey "Y">
-<!ENTITY deleteAddrBookCard.label "Sula">
-<!ENTITY deleteAddrBookCard.accesskey "S">
-<!ENTITY newAddrBookCard.label "Ikarida elitjha...">
-<!ENTITY newAddrBookCard.accesskey "I">
-<!ENTITY newAddrBookMailingList.label "Irhelo lokuposa elitjha...">
-<!ENTITY newAddrBookMailingList.accesskey "I">
-<!ENTITY addrBookCardProperties.label "Okungaphakathi">
-<!ENTITY addrBookCardProperties.accesskey "O">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -231,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY windowMenu.label "Ifasidere">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Nciphisa">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Letha Koke Phambili">
 <!ENTITY zoomWindow.label "Khulisa">

@@ -76,6 +76,7 @@ print-window =
     .title = Ukugadangisa
 print-complete =
     .value = Ukugadangisa Kuphelile.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

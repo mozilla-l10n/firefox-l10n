@@ -1,20 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Imithetho Yesefo">
-<!ENTITY subject.label "isihloko">
-<!ENTITY sender.label "umthumeli">
-<!ENTITY date.label "isuku">
-<!ENTITY anyText.label "omunye nomunye umtlolo">
-<!ENTITY keyword.label "igama ekungilo">
-<!ENTITY age.label "iminyaka ngamalanga">
-<!ENTITY to.label "ku">
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "izinga">
-<!ENTITY priority.label "ikhetho-phambili">
-<!ENTITY body.label "umzimba">
-<!ENTITY contains.label "okumumethwe">
-<!ENTITY nocontains.label "akunalitho">
 <!ENTITY filterName.label "Igama Lesefo:">
 <!ENTITY filterName.accesskey "i">
 
@@ -27,12 +17,9 @@
 <!ENTITY highPriorityCmd.label "Okuphezulu">
 <!ENTITY highestPriorityCmd.label "Okungaphezulu kwe">
 
-<!ENTITY conditionDesc.label "Mayelana nemilayezo engenako e:">
 <!ENTITY filterActionDesc.label "Yenza izenzwezi:">
 <!ENTITY filterActionDesc.accesskey "Y">
 
-<!ENTITY newFolderButton.label "Imvilobhu Etja...">
-<!ENTITY newFolderButton.accesskey "I">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Move Message to">
@@ -41,7 +28,6 @@
 <!ENTITY replyWithTemplate.label "Reply with Template">
 <!ENTITY markMessageRead.label "Mark As Read">
 <!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Label Message As">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Tag Message">
 <!ENTITY setJunkScore.label "Set Junk Status to">
@@ -51,3 +37,8 @@
 <!ENTITY ignoreThread.label "Ignore Thread">
 <!ENTITY watchThread.label "Watch Thread">
 
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

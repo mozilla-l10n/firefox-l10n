@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Irhelo Leempahla">
 
 <!ENTITY ListType.label "Irhelo Lemihlobo">
@@ -47,7 +52,6 @@
 <!ENTITY bulletList.value "Irhelo Leenkomba (Alikanomborwa)">
 <!ENTITY numberList.value "Irhelo Elinomboriweko">
 <!ENTITY definitionList.value "Irhelo Lokuhlathulula">
-<!ENTITY changeListMsg.label "Nawutjhugulula ihlobo lerhelo:">
 <!ENTITY changeEntireListRadio.label "Tjhugulula irhelo loke">
 <!ENTITY changeEntireListRadio.accessKey "T">
 <!ENTITY changeSelectedRadio.label "Tjhugulula kwaphela isihlokwana esikhethiweko">

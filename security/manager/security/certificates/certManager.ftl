@@ -4,70 +4,75 @@
 
 certmgr-title =
     .title = Umphathi Wesitifikeyiti
+
 certmgr-tab-mine =
     .label = Iintifikeyiti Zakho
+
 certmgr-tab-ca =
     .label = Iimphathi mandla
-certmgr-subject-info-label =
-    .value = Ikhitjhelwe U
-certmgr-issuer-info-label =
-    .value = Ikhitjhwe Ngu
-certmgr-fingerprints-label =
-    .value = Ukugadangiswa kwemino
+
 certmgr-subject-label = Ikhitjhelwe U
+
 certmgr-issuer-label = Ikhitjhwe Ngu
+
 certmgr-fingerprints = Ukugadangiswa kwemino
+
 certmgr-cert-detail =
     .title = Imininingwana Yesitifikeyiti
     .buttonlabelaccept = Close
     .buttonaccesskeyaccept = C
-certmgr-cert-detail-cn =
-    .value = Ibizo elijwayelekileko (CN)
-certmgr-cert-detail-o =
-    .value = Ihlangano (O)
-certmgr-cert-detail-ou =
-    .value = Ikoro yehlangano (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Inomboro Yesiriyali
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 Umgadangiso wemino
+
 certmgr-cert-detail-commonname = Ibizo elijwayelekileko (CN)
+
 certmgr-cert-detail-org = Ihlangano (O)
+
 certmgr-cert-detail-orgunit = Ikoro yehlangano (OU)
+
 certmgr-cert-detail-serial-number = Inomboro Yesiriyali
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Umgadangiso wemino
+
 certmgr-edit-ca-cert =
     .title = Lungisa ijamo lesitifikeyiti se trust yeCA
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Lungisa ijamo le trust:
+
 certmgr-edit-cert-trust-ssl =
     .label = Isitifikeyitesi singakgonukwazi ama-Websayidi.
+
 certmgr-edit-cert-trust-email =
     .label = Isitifikeyitesi singakgonukwazi abasebenzisa iposo.
+
 certmgr-delete-cert =
     .title = Sula isitifikeyiti
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Ibizo lesitifikeyiti
+
 certmgr-token-name =
     .label = Iisisetjenziswa sokuvikela
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Siphela Mhlaka
+
 certmgr-expires-label =
     .label = Siphela Mhlaka
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Isiphande se-Imeyili
+
 certmgr-serial =
     .label = Inomboro Yesiriyeli
+
 certmgr-details =
     .value = Certificate Fields
     .accesskey = F
+
 certmgr-fields =
     .value = Field Value
     .accesskey = V
+
 pk11-bad-password = Inomboro yokungena etloliweko ayikalungi.
 pkcs12-decode-err = Ihlulekile ukususa ikhowudi yefayili.  Alikakheki ngendlela yePKCS#12, lonakelel namkha inomboro yokungena oyifakileko ayikalungi.
 pkcs12-unknown-err-restore = Ihlulekile ukubuyisela ifayili lePKCS#12 ngezizathu ezingaziwako.
@@ -99,6 +104,8 @@ delete-user-cert-title =
     .title = Cima Iintifikhethi
 delete-user-cert-confirm = Uqinisile bona ufuna ukusula iintifikhethi lezi?
 delete-user-cert-impact = Nakube usula esinye seentifikhethi zakho, angeze usakwazi ukusisebenzisela ukuzazisa.
+
+
 delete-email-cert-title =
     .title = Cima Iintifikhethi ze-Email
 delete-email-cert-confirm = Uqinisile bona ufuna ukusula iintifikhethi zeposo zabantwaba?
@@ -107,19 +114,26 @@ delete-email-cert-confirm = Uqinisile bona ufuna ukusula iintifikhethi zeposo za
 
 not-present =
     .value = <Akusiyo Incenye Yesitifikhethi>
+
 # Cert verification
 cert-verified = Isitifikhethi lesi siqinisekiselwe ukusebenza okulandelako:
+
 # Add usage
 verify-ssl-client =
     .value = Isitifikhethi sekhasimende seSSL
+
 verify-ssl-server =
     .value = Isitifikhethi Somsebenzi seSSL
+
 verify-ssl-ca =
     .value = Isiphathimandla Sesitifikhethi Sokuphatha seSSL
+
 verify-email-signer =
     .value = Isitifikhethi Sosayina i-email
+
 verify-email-recip =
     .value = Isitifikhethi Sowamukela i-email
+
 # Cert verification
 cert-not-verified-cert-revoked = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana sisusiwe.
 cert-not-verified-cert-expired = Akwazeki ukuqinisekisa isitifikhethi lesi ngombana siphelelwe sikhathi.

@@ -1,4 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label "Ukwakheka &amp; iya ku">
 <!ENTITY addressingGroupTitle.label "Lya kubani">
@@ -11,8 +17,11 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Sebenzisa isisetjenziswa esinye seLDAP:">
 <!ENTITY directories.accesskey "d">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label "Ukwakheka">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -20,9 +29,6 @@
 <!ENTITY useHtml.accesskey "Y">
 <!ENTITY autoQuote.label "Ngokuzenzakalela dzubhula umlayezo wokuthoma lokha uphendula">
 <!ENTITY autoQuote.accesskey "d">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "Begodu,">
-<!ENTITY then.accesskey "b">
 <!ENTITY aboveQuote.label "thoma ngependulo yami ngaphezulu kwalokho engikudzubhulileko">
 <!ENTITY belowQuote.label "thoma ngaphezulu kwalokho engikudzubhulileko">
 <!ENTITY selectAndQuote.label "khetha engikudzubhulileko">
@@ -30,3 +36,4 @@
 <!ENTITY place.accesskey "i">
 <!ENTITY belowText.label "ngaphasi kwalokho engikudzubhulileko (kuyahlongozwa)">
 <!ENTITY aboveText.label "ngaphasi kwependulo yami (ngaphezulu kwalokho engikudzubhulileko)">
+

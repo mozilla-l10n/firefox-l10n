@@ -1,6 +1,8 @@
-<!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Sebenza ngaphandle kwelayini">
-<!ENTITY offlineGoOfflineCmd.accesskey "s">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 
@@ -27,18 +29,12 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Cima">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "c">
 <!ENTITY selectAllCmd.label "Khetha Koke">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY preferencesCmd.label "Ikhetho...">
-<!ENTITY preferencesCmd.accesskey "I">
 <!ENTITY preferencesCmdUnix.label "Ukukhetha">
 <!ENTITY preferencesCmdUnix.accesskey "u">
-
-<!ENTITY findTypeTextCmd.label "Thola Umtlolo Nawutlolako">
-<!ENTITY findTypeTextCmd.accesskey "t">
 
 <!ENTITY viewMenu.label "Bona">
 <!ENTITY viewMenu.accesskey "b">
@@ -46,19 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "I">
 <!ENTITY showTaskbarCmd.label "Isivalo Sezinga">
 <!ENTITY showTaskbarCmd.accesskey "I">
-
-<!ENTITY direct.label "Elayinini (umjameli: akekho)">
-<!ENTITY direct.accesskey "e">
-<!ENTITY manual.label "Elayinini (umjameli: ngesandla)">
-<!ENTITY manual.accesskey "n">
-<!ENTITY pac.label "Elayinini (umjameli: ngokuzenzakalela)">
-<!ENTITY pac.accesskey "k">
-
-<!ENTITY proxy.label "Ukuhlela Umjameli...">
-<!ENTITY proxy.accesskey "U">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Vala">
 <!ENTITY closeCmd.key "W">

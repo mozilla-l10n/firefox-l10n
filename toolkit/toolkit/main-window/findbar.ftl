@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Thola okhunye okwenzekako ngomutjho
 findbar-previous =
     .tooltiptext = Thola okhunye okwenzekako ngomutjho
+
 findbar-find-button-close =
     .tooltiptext = Vala isivalo Sokuthola
+

@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 425px; min-height: 470px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopa
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Khetha Koke
     .accesskey = K
+
 general-title =
     .value = Isihloko:
 general-url =
@@ -32,6 +35,7 @@ general-meta-name =
     .label = Ibizo
 general-meta-content =
     .label = Okumumethweko
+
 media-alt-header =
     .label = Umtlolo Omunye
 media-address =
@@ -66,9 +70,11 @@ media-object = Into
 media-embed = Dzimelelisa Ngaphakathi
 media-link = Isisetjenziswa
 media-input = Ukwengeza
+
 no-page-title =
     .value = Ikhasi Elinganasihloko:
 general-quirks-mode =
     .value = Indlela Yokwenza Okungavamisa
 general-strict-mode =
     .value = Indlela Yokuvuma Ejayelekileko
+

@@ -35,6 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title "Iimpahla Zetafula">
 <!ENTITY applyButton.label "Sebenzisa">
 <!ENTITY applyButton.accesskey "S">
@@ -69,7 +73,6 @@
 <!ENTITY tableCaptionNone.label "Akunalitho">
 <!ENTITY tableInheritColor.label "(Umbala wekhasi awuzibonakalise)">
 
-<!ENTITY cellPercent.label "amaphesenti wetafula">
 <!ENTITY cellSelection.label "Ikhetho">
 <!ENTITY cellSelectCell.label "Amaseli">
 <!ENTITY cellSelectRow.label "Umuda">
@@ -78,13 +81,6 @@
 <!ENTITY cellSelectNext.accessKey "O">
 <!ENTITY cellSelectPrevious.label "Okudlulileko">
 <!ENTITY cellSelectPrevious.accessKey "O">
-<!ENTITY cellApplyBeforeMove.label "Sebenzisa itjhuguluko ngaphambili kobana utjhugulule ikhetho">
-<!ENTITY cellKeepCurrentData.label "Lisa izakhiwo zanje">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Itjhuguluko lanje lizakusetjenziswa">
-<!ENTITY applyBeforeChange2.label "ngaphambili kobana utjhugulule ikhetho.">
-<!ENTITY cellRowSpan.label "Isikhathi somuda:">
-<!ENTITY cellColSpan.label "Isikhathi Sekholomu:">
 <!ENTITY cellContentAlignment.label "Ukulinganisa Okumumethweko">
 <!ENTITY cellHorizontal.label "Okuthabaleleko:">
 <!ENTITY cellHorizontal.accessKey "O">
@@ -102,7 +98,6 @@
 <!ENTITY cellAlignMiddle.label "Phakathi">
 <!ENTITY cellAlignBottom.label "Ngaphasi">
 <!ENTITY cellAlignJustify.label "Lungisa">
-<!ENTITY cellAlignAtChar.label "Kuhlavu:">
 <!ENTITY cellInheritColor.label "(Umbala wekhasi awuzibonakalise)">
 <!ENTITY cellUseCheckboxHelp.label "Sebenzisa amabhokisi wokuqalisisa ukubona bonyana ngiziphi iimpahla ezisetjenziswa kumaseli woke akhethiweko">
 <!-- Used in both Table and Cell panels  -->

@@ -34,10 +34,10 @@
  the terms of any one of the MPL, the GPL or the LGPL.
 
  ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY nameColumn.label "Ibizo">
 <!ENTITY unreadColumn.label "Ayikafundwa">
 <!ENTITY totalColumn.label "Okupheleleko">
 <!ENTITY folderSizeColumn.label "Isayizi">
-<!ENTITY accounts.label "Ama-akhawundi">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

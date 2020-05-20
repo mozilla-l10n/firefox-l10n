@@ -1,9 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
+
+<!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Iinsetjenziswa zokuvula i-akhawundi">
 <!ENTITY accountName.label "Ibizo le-akhawundu:">
 <!ENTITY accountName.accesskey "I">
-<!ENTITY accountNameDesc.label "Igama le-akhawundi lisetjenziswa ukuhlukanisa enye kwenye">
 <!ENTITY identityTitle.label "Umazisi ongavumeleki">
 <!ENTITY identityDesc.label "Enyenenye I-akhawundi iyazeka kulilwazi elibonwa ngabanye abantu nabafunda imilayezwakho.">
 <!ENTITY name.label "Ibizo lakho:">
@@ -14,8 +19,6 @@
 <!ENTITY replyTo.accesskey "e">
 <!ENTITY organization.label "Ihlangano:">
 <!ENTITY organization.accesskey "I">
-<!ENTITY signature.label "Faka isayini le:">
-<!ENTITY signature.accesskey "f">
 <!ENTITY edit.label "Lungisa...">
 <!ENTITY choose.label "Khetha...">
 <!ENTITY choose.accesskey "K">
@@ -32,3 +35,4 @@
 <!ENTITY smtpName.label "Isisetjenziswa eSiphumako (SMTP):">
 <!ENTITY smtpName.accesskey "e">
 <!ENTITY smtpDefaultServer.label "Sebenzisa isisetjenziswa esingakalungi">
+

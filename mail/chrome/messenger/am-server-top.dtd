@@ -1,14 +1,11 @@
 <!-- extracted from am-server-top.xul -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securitySettings.label "Izakhiwo zokuvikela">
 <!ENTITY serverSettings.label "Izakhiwo zomnikazi">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Isisetjenziswa sePoso ye-POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Umnikazi weposo ye-IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Umnikazi omutjha (NNTP)">
-<!ENTITY webmail.label "I-akhawundi yeposo ye-web">
 <!ENTITY serverType.label "Umhlobo wobunikazi:">
 <!ENTITY serverName.label "Ibizo lobunikazi:">
 <!ENTITY serverName.accesskey "I">
@@ -17,7 +14,6 @@
 <!ENTITY port.label "Itheku:">
 <!ENTITY port.accesskey "I">
 <!ENTITY serverPortDefault.label "Jamisa:">
-<!ENTITY savePassword.label "Yonga inomboro yokungena">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -26,19 +22,6 @@
 <!ENTITY biffStart.label "Qala imilayezo emitjha soke ">
 <!ENTITY biffStart.accesskey "q">
 <!ENTITY biffEnd.label "imizuzu">
-<!ENTITY isSecure.label "Sebenzisa ihlanganiso evikelekileko (SSL)">
-<!ENTITY isSecure.accesskey "S">
-<!ENTITY socketType.label "Sebenzisa ihlanganiso evikelekileko:">
-<!ENTITY neverSecure.label "Akusinjalo">
-<!ENTITY neverSecure.accesskey "A">
-<!ENTITY sometimesSecure.label "TLS nakube ikhona">
-<!ENTITY sometimesSecure.accesskey "i">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Sebenzisa ukuqinisekisa okuvikelekileko">
-<!ENTITY useSecAuth.accesskey "u">
 <!ENTITY leaveOnServer.label "Tjhiwa imilayezo esisetjenzisweni">
 <!ENTITY leaveOnServer.accesskey "i">
 <!ENTITY headersOnly.label "Thatha iinhlokwana kwaphela">
@@ -46,16 +29,9 @@
 <!ENTITY deleteByAgeFromServer.label "Okungasenani">
 <!ENTITY deleteByAgeFromServer.accesskey "o">
 <!ENTITY daysEnd.label "amalanga">
-<!ENTITY deleteOnServer.label "Kufikela ngi wacima namkha giwasa Ebhokisini">
-<!ENTITY deleteOnServer.accesskey "w">
 <!ENTITY downloadOnBiff.label "Ngokuzenzakalela khiphela imilayezo emitjha">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY hostname.label "Ibizo lakasokhaya lokuvakathja">
-<!ENTITY username.label "Ibizo lakho lokungena">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Imininingwana yomnikazi we-POP">
 <!ENTITY deleteMessagePrefix.label "Nangicima imininingwane:">
-<!ENTITY deleteMessagePrefix.accesskey "N">
 <!ENTITY modelMoveToTrash.label "Ifake emvilobhini yokulahlweko">
 <!ENTITY modelMarkDeleted.label "Itshwaye njengecinyiweko">
 <!ENTITY modelDeleteImmediately.label "Isuse msinyana">
@@ -77,18 +53,16 @@
 <!ENTITY alwaysAuthenticate.label "Ngaso soke isikhathi bawa isiqiniseko nawuzihlanganisa nesisetjenziswesi">
 <!ENTITY alwaysAuthenticate.accesskey "n">
 <!ENTITY newsrcFilePath.label "newsrc nefayili:">
-<!ENTITY newsrcFilePath.accesskey "f">
-<!ENTITY localPath.label "Irherho lemininingwana yangaphakathi:">
-<!ENTITY localPath.accesskey "I">
+<!ENTITY newsrcPicker.label "Khetha ifayili leendaba">
 <!ENTITY abbreviate.label "Tjengisa amabizo weenchema zeendaba emvilobhini ye poso nje:">
 <!ENTITY abbreviateOn.label "Amagama aphelele (Isibonelo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Rhunyeza amagama (Isibonelo, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Okuphambil...">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
 <!ENTITY advancedButton.accesskey "o">
+<!ENTITY localPath.label "Irherho lemininingwana yangaphakathi:">
 <!ENTITY localFolderPicker.label "Khetha irherho lemininingwana langaphakathi">
 <!ENTITY browseFolder.label "Funisisa hlangana...">
 <!ENTITY browseFolder.accesskey "F">
-<!ENTITY newsrcPicker.label "Khetha ifayili leendaba">
 <!ENTITY browseNewsrc.label "Funafuna...">
 <!ENTITY browseNewsrc.accesskey "f">
+

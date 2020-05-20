@@ -31,39 +31,52 @@ config-column-chooser =
 config-copy-name =
     .label = Kopa ibizo
     .accesskey = K
+
 config-copy-value =
     .label = Kopa Inani
     .accesskey = K
+
 config-modify =
     .label = Tjhugulula
     .accesskey = T
+
 config-toggle =
     .label = Ikunubhe Yokutjhintjha
     .accesskey = I
+
 config-reset =
     .label = Hlela godu
     .accesskey = H
+
 config-new =
     .label = Etja
     .accesskey = E
+
 config-string =
     .label = Intambo
     .accesskey = I
+
 config-integer =
     .label = Inomboro epheleleko
     .accesskey = I
+
 config-boolean =
     .label = Ibhulini
     .accesskey = I
+
 config-default = jamisa
 config-locked = valiwe
+
 config-property-string = intambo
 config-property-int = inomboro epheleleko
 config-property-bool = ibhulini
+
 config-new-prompt = Faka ibizo olikhethako
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Inana Elitjha le { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Tlola inani le { $type }

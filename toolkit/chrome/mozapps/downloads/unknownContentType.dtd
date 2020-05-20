@@ -37,7 +37,10 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "Ukhethe ukuvula">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY from.label "ibuya ku:">
 <!ENTITY actionQuestion.label "Kufanele &brandShortName; yenzeni ngefayili le?">
 
@@ -45,17 +48,8 @@
 <!ENTITY openWith.accesskey "v">
 <!ENTITY other.label "Okhunye...">
 
-<!ENTITY save.label "Bulunga kudiski">
-<!ENTITY save.accesskey "b">
-
 <!ENTITY rememberChoice.label "Hlela lokhu kuzenzakalele kumafayili afana nala ukusukela nje.">
 <!ENTITY rememberChoice.accesskey "h">
-
-<!ENTITY settingsChange.label "Settings can be changed in the Content section of Tools, Options.">
-<!ENTITY settingsChangeMac.label "Settings can be changed in the Content section of &brandShortName;, Preferences.">
-<!ENTITY settingsChangeUnix.label "Settings can be changed in the Content section of Edit, Preferences.">
-
-<!ENTITY whichIsA.label "ekuyi:">
 
 <!ENTITY chooseHandlerMac.label "Khetha...">
 <!ENTITY chooseHandlerMac.accesskey "K">

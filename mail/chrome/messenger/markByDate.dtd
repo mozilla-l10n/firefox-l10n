@@ -35,8 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messageMarkByDate.label "Tshwaya Imilayezo ngamalanga efundwe ngawo">
 <!ENTITY markByDateLower.label "Tshwaya Imilayezo ngokobana ifunwe kusukela:">
 <!ENTITY markByDateLower.accesskey "T">
-<!ENTITY markByDateUpper.accesskey "I">
 <!ENTITY markByDateUpper.label "Iya ku:">
+<!ENTITY markByDateUpper.accesskey "I">

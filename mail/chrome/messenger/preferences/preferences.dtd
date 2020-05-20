@@ -1,9 +1,10 @@
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY prefWindow.titleWin "Ikhetho">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; Ukukhetha">
-<!ENTITY prefWindow.styleWin "width: 44em; height: 38em;">
-<!ENTITY prefWindow.styleMac "width: 47em;">
-<!ENTITY prefWindow.styleUnix "width: 42em;">
 
 <!ENTITY paneGeneral.title "Okuvamileko">
 <!ENTITY paneDisplay.title "Tjengisa">
@@ -11,3 +12,4 @@
 <!ENTITY paneAttachments.title "Okunanyathiselweko">
 <!ENTITY panePrivacy.title "Ingasese">
 <!ENTITY paneAdvanced.title "Izinga Eliphezulu">
+

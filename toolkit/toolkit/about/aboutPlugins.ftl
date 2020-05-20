@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Nge Plaga
+
 installed-plugins-label = Faka iplaga
 no-plugins-are-installed-label = Akuna plaga efakweko
 

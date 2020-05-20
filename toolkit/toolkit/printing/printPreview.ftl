@@ -42,3 +42,4 @@ printpreview-homearrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Ikhasi lokugcina
+
