@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Aus einem anderen Browser importieren…
 appmenuitem-protection-report-title = Schutzmaßnahmen
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Bericht zu Schutzmaßnahmen für Datenschutz öffnen

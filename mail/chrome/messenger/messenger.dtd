@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Konten-/Ordneransicht">
 <!ENTITY folderPaneBar.accesskey "K">
-<!ENTITY folderModeSelector.label "Ordneransichten">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Sortieren nach">
@@ -323,7 +322,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "h">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY goChatCmd2.key "H">
 <!ENTITY prevStarredMsgCmd.label "Gekennzeichnete Nachricht">
 <!ENTITY prevStarredMsgCmd.accesskey "G">
@@ -441,9 +439,6 @@
 <!ENTITY openMessageWindowCmd.label "Öffnen">
 <!ENTITY openMessageWindowCmd.accesskey "Ö">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "In Themenbaum anzeigen">
-<!ENTITY openConversationCmd.accesskey "z">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openInConversationCmd.label "In Themenbaum anzeigen">
 <!ENTITY openInConversationCmd.accesskey "z">
 <!ENTITY openInConversationCmd.key "o">
@@ -519,8 +514,6 @@
 <!ENTITY devToolboxCmd.label "Entwickler-Werkzeugkasten">
 <!ENTITY devToolboxCmd.accesskey "W">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Addon-Debugger">
-<!ENTITY addonDebugCmd.accesskey "A">
 <!ENTITY debugAddonsCmd.label "Add-ons debuggen">
 <!ENTITY debugAddonsCmd.accesskey "A">
 <!ENTITY tabsDebugCmd.label "Inhaltsframe-Debugger">
@@ -821,11 +814,7 @@
 <!ENTITY contextPrintPreview.accesskey "u">
 
 <!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Standardspalten wiederherstellen">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -982,3 +971,4 @@
 <!ENTITY dockOptions.label              "Dock-Symbol-Einstellungen…">
 <!ENTITY writeNewMessageDock.label      "Neue Nachricht verfassen">
 <!ENTITY openAddressBookDock.label      "Adressbuch öffnen">
+

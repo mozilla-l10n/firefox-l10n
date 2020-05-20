@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Notwendig (Senden nur möglich, wenn alle Empfänger ein Zertifikat besitzen)">
 <!ENTITY alwaysEncryptMessage.accesskey "o">
 <!ENTITY encryptionCert.message "Folgendes Zertifikat verwenden, um Nachrichten zu ver- und entschlüsseln:">
+
 <!ENTITY digitalSign.certificate.button "Auswählen…">
 <!ENTITY digitalSign.certificate.accesskey "A">
 <!ENTITY digitalSign.certificate_clear.button "Leeren">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Zertifikat auswählen">
 <!ENTITY certPicker.info  "Zertifikat:">
 <!ENTITY certPicker.detailsLabel "Details des ausgewählten Zertifikats:">
+

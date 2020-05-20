@@ -72,8 +72,6 @@
 <!ENTITY updateAuto.accesskey            "U">
 <!ENTITY updateCheck.label               "Nach Updates zu suchen, aber vor der Installation nachfragen">
 <!ENTITY updateCheck.accesskey           "N">
-<!ENTITY updateManual.label              "Nicht nach Updates suchen (nicht empfohlen: Sicherheitsrisiko)">
-<!ENTITY updateManual.accesskey          "d">
 <!ENTITY updateHistory.label             "Update-Chronik anzeigen">
 <!ENTITY updateHistory.accesskey         "C">
 
@@ -124,3 +122,4 @@
 <!ENTITY manageCertificates.accesskey "Z">
 <!ENTITY viewSecurityDevices.label      "Kryptographie-Module verwalten…">
 <!ENTITY viewSecurityDevices.accesskey  "K">
+
