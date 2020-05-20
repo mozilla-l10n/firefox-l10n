@@ -6,6 +6,7 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 85ch;">
+
 <!ENTITY identityListDesc.label "Rèitich roghainnean na dearbh-aithne seo:">
 
 <!ENTITY settingsTab.label       "Roghainnean">

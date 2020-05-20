@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Mu na plugain
+
 installed-plugins-label = Plugain stàlaichte
 no-plugins-are-installed-label = Cha deach plugan stàlaichte a lorg
+
 deprecation-description = Dad a dhìth ort? Chan eil taic ri cuid a phlugain tuilleadh. <a data-l10n-name="deprecation-link">Barrachd fiosrachaidh.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Staid:</span> Air a chur an coma
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Staid:</span> Air a chur an comas ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Staid:</span> Air a chur à comas
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Staid:</span> Air a chur à comas ({ $blockListState })
+
 mime-type-label = Seòrsa MIME
 description-label = Tuairisgeul
 suffixes-label = Leasachain

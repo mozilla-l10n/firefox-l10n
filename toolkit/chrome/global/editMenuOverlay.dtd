@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Tagh a h-uile">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "T">
+
 <!ENTITY findCmd.label             "Lorg">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "L">

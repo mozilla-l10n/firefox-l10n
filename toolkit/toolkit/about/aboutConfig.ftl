@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Tha mi leagte ris a’ chunnart!
 config-about-warning-checkbox =
     .label = Seall an rabhadh seo an ath-thuras
+
 config-search-prefs =
     .value = Lorg:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Dèan lethbhreac
     .accesskey = c
+
 config-copy-name =
     .label = Dèan lethbhreac dhen ainm
     .accesskey = n
+
 config-copy-value =
     .label = Dèan lethbhreac dhen luach
     .accesskey = D
+
 config-modify =
     .label = Atharraich
     .accesskey = A
+
 config-toggle =
     .label = Toglaich
     .accesskey = T
+
 config-reset =
     .label = Ath-shuidhich
     .accesskey = A
+
 config-new =
     .label = Ùr
     .accesskey = r
+
 config-string =
     .label = Sreang
     .accesskey = S
+
 config-integer =
     .label = Àireamh shlàn
     .accesskey = i
+
 config-boolean =
     .label = Booleach
     .accesskey = B
+
 config-default = bunaiteach
 config-modified = air atharrachadh
 config-locked = glaiste
+
 config-property-string = sreang
 config-property-int = àireamh shlàn
 config-property-bool = Booleach
+
 config-new-prompt = Cuir a-steach ainm na roghainn
+
 config-nan-title = Luach mì-dhligheach
 config-nan-text = Chan e àireamh a tha san teacsa a chuir thu a-steach.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Luach ùr { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Cuir a-steach luach { $type }

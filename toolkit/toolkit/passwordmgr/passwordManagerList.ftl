@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Dùin
     .accesskey = D
+
 show-passwords =
     .label = Seall na faclan-faire
     .accesskey = P

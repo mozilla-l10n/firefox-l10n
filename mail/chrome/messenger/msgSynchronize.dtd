@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Luchdaich a-nuas is sioncronaich teachdaireachdan">
 <!ENTITY MsgSelect.label "Rudan a chum cleachdaidh far loidhne">
 <!ENTITY MsgSyncDesc.label "Ma thagh thu pasgain puist no buidhnean-naidheachd a chum cleachdaidh far loidhne mu thràth, &apos;s urrainn dhut an luchdadh a-nuas agus/no an sioncronachadh an-dràsta. Air neo, cleachd am putan &quot;Tagh&quot; gus pasgain puist is buidhnean-naidheachd a chum cleachdaidh far loidhne.">

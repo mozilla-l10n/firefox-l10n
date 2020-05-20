@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Lorg
     .aria-label = Lorg
+
 newtab-search-box-search-the-web-text = Lorg air an lìon
 newtab-search-box-search-the-web-input =
     .placeholder = Lorg air an lìon
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Deasaich am brod làraich
 newtab-topsites-title-label = Tiotal
 newtab-topsites-title-input =
     .placeholder = Cuir ainm a-steach
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Sgrìobh URL no cuir fear ann
 newtab-topsites-url-validation = Tha feum air URL dligheach
+
 newtab-topsites-image-url-label = URL deilbh gnàthaichte
 newtab-topsites-use-image-link = Cleachd dealbh gnàthaichte...
 newtab-topsites-image-validation = Dh’fhàillig luchdadh an deilbh. Feuch URL eile.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = Cha ghabh seo a neo-dhèanamh.
 newtab-menu-section-tooltip =
     .title = Fosgail an clàr-taice
     .aria-label = Fosgail an clàr-taice
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,11 +90,6 @@ newtab-menu-show-privacy-info = Na sponsairean againn ⁊ do phrìobhaideachd
 
 newtab-privacy-modal-button-done = Deiseil
 newtab-privacy-modal-header = Tha do phrìobhaideachd cudromach.
-newtab-privacy-modal-paragraph =
-    A bharrachd air naidheachdan inntinneach, seallaidh sinn susbaint làn-
-    sgrùdaichte o sponsairean àraidh dhut. Na gabh dragh, chan fhalbh an dàta
-    brabhsaidh agad am { -brand-product-name } agad fhèin uair sam bith – chan fhaic sinn e
-    agus chan fhaic na sponsairean againn e nas mò.
 newtab-privacy-modal-paragraph-2 =
     A bharrachd air naidheachdan inntinneach, seallaidh sinn susbaint làn-
     sgrùdaichte o sponsairean àraidh dhut. Na gabh dragh, <strong>chan fhalbh an dàta
@@ -133,6 +132,7 @@ newtab-label-removed-bookmark = Chaidh an comharra-lìn a thoirt air falbh
 newtab-label-recommended = A’ treandadh
 newtab-label-saved = Air a shàbhaladh ann am { -pocket-brand-name }
 newtab-label-download = Air a luchdadh a-nuas
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -170,10 +170,12 @@ newtab-section-header-pocket = ’Ga mholadh le { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Tòisich air brabhsadh is seallaidh sinn dhut an-seo cuid dhe na h-artaigilean, videothan is duilleagan eile air an do thadhail thu no a chuir thu ris na comharran-lìn o chionn ghoirid.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Sin na naidheachdan uile o { $provider } an-dràsta ach bidh barrachd ann a dh’aithghearr. No thoir sùil air cuspair air a bheil fèill mhòr is leugh na tha a’ dol mun cuairt air an lìon an-dràsta.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -189,7 +191,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ìoc, tha sinn cha mhòr a
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Cuspairean fèillmhor:
 newtab-pocket-more-recommendations = Barrachd mholaidhean
-newtab-pocket-whats-pocket = Dè tha ann am { -pocket-brand-name }?
 newtab-pocket-learn-more = Barrachd fiosrachaidh
 newtab-pocket-cta-button = Faigh { -pocket-brand-name }
 newtab-pocket-cta-text = Sàbhail na sgeulachdan as fhearr leat ann am { -pocket-brand-name } is faigh toileachas inntinn san leughadh.

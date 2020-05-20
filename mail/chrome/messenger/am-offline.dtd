@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Na luchdaich a-nuas na leanas gus àite a chaomhnadh air an diosg:">
 <!ENTITY doNotDownloadNntp.label "Na luchdaich a-nuas na leanas a chum cleachdadh far loidhne gus àite a chaomhnadh air an diosg:">
 <!ENTITY doNotDownloadImap.label "'S urrainn dhut cuingeachadh a-rèir aoise is meud a chur air luchdadh a-nuas de theachdaireachdan on fhrithealaiche 's air cumail de lethbhric ionadail gus àite a chaomhnadh air an diosg.">
-<!ENTITY allFoldersOffline.label "Cum teachdaireachdan airson a' chunntais seo air a' choimpiutair seo">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Cum na teachdaireachdan sna pasgain uile airson a’ chunntais seo air a’ choimpiutair seo">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "An aire: Bidh buaidh aig an atharrachadh seo air a h-uile pasgan sa chunntas seo. Cleachd am putan “Adhartach”… gus pasgain fa leth a shuidheachadh.">

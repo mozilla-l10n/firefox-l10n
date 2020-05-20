@@ -5,49 +5,61 @@
 permissions-window =
     .title = Eisgeachdan
     .style = width: 49em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Seòladh na làraich-lìn
     .accesskey = d
+
 permissions-block =
     .label = Cuir bacadh air
     .accesskey = b
+
 permissions-session =
     .label = Ceadaich fad an t-seisein
     .accesskey = s
+
 permissions-allow =
     .label = Ceadaich
     .accesskey = a
+
 permissions-site-name =
     .label = Làrach-lìn
+
 permissions-status =
     .label = Staid
+
 permissions-remove =
     .label = Thoir an làrach-lìn air falbh
     .accesskey = r
+
 permissions-remove-all =
     .label = Thoir air falbh a h-uile làrach-lìn
     .accesskey = e
+
 permissions-button-cancel =
     .label = Sguir dheth
     .accesskey = S
+
 permissions-button-ok =
     .label = Sàbhail na h-atharraichean
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = Lorg air an làrach-lìn
+
 permissions-capabilities-allow =
     .label = Ceadaich
 permissions-capabilities-block =
     .label = Cuir bacadh air
 permissions-capabilities-prompt =
     .label = Faighnich dhìom an-còmhnaidh
+
 permissions-capabilities-listitem-allow =
     .value = Ceadaich
 permissions-capabilities-listitem-block =
     .value = Cuir bacadh air
-permissions-capabilities-listitem-allow-first-party =
-    .value = Na ceadaich ach feadhainn o chiad phàrtaidh
 permissions-capabilities-listitem-allow-session =
     .value = Ceadaich fad an t-seisein
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = Cuir a-steach ainm òstair dhligheach
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Eisgeachdan - Dìon o thracadh
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Chuir thu an dìon o thracadh à comas air na làraichean-lìn seo.
 permissions-exceptions-content-blocking-window =
     .title = Eisgeachdan – Bacadh susbaint
     .style = { permissions-window.style }
@@ -102,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = ’S urrainn dhut sònrachadh dè na làraichean-lìn aig a bheil cead meadhanan le fuaim a chluich no an fheadhainn nach eil cead. Cuir a-steach seòladh na làraich a tha thu airson stiùireadh is briog air “Bac” no “Ceadaich”.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +131,8 @@ permissions-site-location-desc = Dh’iarr na làraichean-lìn a leanas cead d�
 permissions-site-location-disable-label =
     .label = Bac iarrtasan ùra a dh’iarras cead air d’ ionad
 permissions-site-location-disable-desc = Cumaidh seo làrach-lìn sam bith nach eil air an liosta gu h-àrd o chead iarraidh air d’ ionad. Ma bhacas tu cead air d’ ionad, dh’fhaoidte nach obraich cuid a ghleusan air làraichean-lìn tuilleadh.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

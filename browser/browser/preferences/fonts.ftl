@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Cruthan-clò
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Cruthan-clò airson
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabais
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Co-rèireach
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Meud
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Clò aon-leud
     .accesskey = M
+
 fonts-monospace-size = Meud
     .accesskey = e
+
 fonts-minsize = Meud as lugha a’ chrutha-chlò
     .accesskey = o
+
 fonts-minsize-none =
     .label = Chan eil gin
+
 fonts-allow-own =
     .label = Leig le duilleagan na cruthan-clò aca fhèin a thaghadh seach na thagh thu gu h-àrd
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Còdachadh teacsa airson susbaint dhìleabach
 fonts-languages-fallback-desc = Thèid an còdachadh teacsa seo a chleachdadh airson susbaint dhìleabach nach eil a’ cur an cèill dè còdachadh a chleachdas e.
+
 fonts-languages-fallback-label = Còdachadh teacsa fallback
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = A' bhun-roghainn airson an sgeama ionadail làithrich
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Bhiet-Namais
 fonts-languages-fallback-name-other =
     .label = Eile (a' gabhail a-steach feadhainn na Roinn-Eòrpa an Iar)
-fonts-very-large-warning-title = Ìos-mheud mòr airson cruthan-clò
-fonts-very-large-warning-message = Thagh thu ìos-mheud air leth mòr airson cruthan-clò (nas motha na 24 piogsail). Dh'fhaoidte gum bi e doirbh no do-dhèanta cuid a dhuilleagan roghainnean mar an tè seo a chleachdadh ri rinn sin.
-fonts-very-large-warning-accept = Glèidh na dh'atharraich mi co-dhiù
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Faigh e air Google Play
 login-app-promo-apple =
     .alt = Luchdaich a-nuas e on App Store
+
 login-filter =
     .placeholder = Lorg sna clàraidhean a-steach
+
 create-login-button = Cruthaich clàradh a-steach ùr
+
 fxaccounts-sign-in-text = Faigh cothrom air na faclan-faire agad air uidheaman eile
 fxaccounts-sign-in-button = Clàraich a-steach gu { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -24,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Fosgail an clàr-taice
-# This menuitem is only visible on Windows
-menu-menuitem-import = Ion-phortaich na faclan-faire…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Ion-phortaich o bhrabhsair eile…
 menu-menuitem-preferences =
@@ -51,7 +52,6 @@ login-list-count =
 login-list-sort-label-text = Seòrsaich a-rèir:
 login-list-name-option = Ainm (A-Z)
 login-list-name-reverse-option = Ainm (Z-A)
-login-list-breached-option = Làraichean-lìn air an deach briseadh a-steach
 login-list-last-changed-option = Atharrachadh mu dheireadh
 login-list-last-used-option = Cleachdadh mu dheireadh
 login-list-intro-title = Cha deach clàradh a-steach a lorg
@@ -109,16 +109,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Dearbh cò thusa airson an clàradh a-steach a shàbhail thu a dheasachadh.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = an clàradh a-steach a shàbhail thu a dheasachadh
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Dearbh cò thusa airson am facal-faire a shàbhail thu a nochdadh
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = am facal-faire a shàbhail thu a nochdadh
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Dearbh cò thusa airson lethbhreac a dhèanamh dhen fhacal-faire a shàbhail thu
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = lethbhreac a dhèanamh dhen fhacal-fhaire a shàbhail thu
@@ -153,9 +158,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Sguir dheth
 confirmation-dialog-dismiss-button =
     .title = Sguir dheth
+
 about-logins-confirm-remove-dialog-title = A bheil thu airson an clàradh a-steach seo a thoirt air falbh?
 confirm-delete-dialog-message = Cha ghabh seo a neo-dhèanamh.
 about-logins-confirm-remove-dialog-confirm-button = Thoir air falbh
+
 confirm-discard-changes-dialog-title = A bheil thu airson na h-atharraichean gun sàbhaladh a thilgeil air falbh?
 confirm-discard-changes-dialog-message = Thèid gach atharrachadh gun sàbhaladh air chall.
 confirm-discard-changes-dialog-confirm-button = Tilg air falbh
@@ -163,9 +170,8 @@ confirm-discard-changes-dialog-confirm-button = Tilg air falbh
 ## Breach Alert notification
 
 breach-alert-text = Chaidh faclan-faire a ghoid air an làrach-lìn seo on a dh’ùraich thu an clàradh a-steach agad turas mu dheireadh. Atharraich am facal-faire agad a dhìon a’ chunntais agad.
-breach-alert-link = Barrachd fiosrachaidh mun bhriseadh a-steach seo.
-breach-alert-dismiss =
-    .title = Dùin an rabhadh seo
+
+## Vulnerable Password notification
 
 ## Error Messages
 
@@ -174,5 +180,6 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Tha innteart airson { $loginTitle } leis an ainm-chleachdaiche seo mu thràth. <a data-l10n-name="duplicate-link">A bheil thu airson tadhal air an innteart làithreach?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Thachair mearachd nuair a dh’fheuch sinn ris am facal-faire seo a shàbhaladh.

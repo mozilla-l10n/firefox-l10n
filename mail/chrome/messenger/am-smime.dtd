@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Riatanach (chan urrainnear teachdaireachd a chur ach ma bhios teisteanas aig gach faightear)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Cleachd an teisteanas seo a chum crioptachaidh ⁊ dì-chrioptachadh theachdaireachdan a chaidh a chur thugam:">
+
 <!ENTITY digitalSign.certificate.button "Tagh…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Falamhaich">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Tagh teisteanas">
 <!ENTITY certPicker.info  "Teisteanas:">
 <!ENTITY certPicker.detailsLabel "Mion-fhiosrachadh an teisteanais a thagh thu:">
+

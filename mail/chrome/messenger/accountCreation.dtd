@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Suidhich cunntas puist-d a tha ann">
+
 <!ENTITY name.label                      "D' ainm:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Ainm Sloinneadh">

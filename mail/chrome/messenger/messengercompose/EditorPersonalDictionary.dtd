@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "C">
 <!ENTITY DictionaryList.label "Faclan san fhaclair:">
 <!ENTITY DictionaryList.accessKey "a">
-<!ENTITY ReplaceButton.label "Cuir 'na àite">
-<!ENTITY ReplaceButton.accessKey "r">
 <!ENTITY RemoveButton.label "Thoir air falbh">
 <!ENTITY RemoveButton.accessKey "o">
 

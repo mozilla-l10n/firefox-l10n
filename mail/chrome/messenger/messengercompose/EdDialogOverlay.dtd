@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Atharrachadh eadar URL dàimheach is absaloideach. Feumaidh tu an duilleag a shàbhalachadh an toiseach mus urrainn dhut seo atharrachadh.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Cuir a-steach seòladh duilleige-lìn, faidhle ionadail no tagh acair ainmichte no ceann-sgrìobhadh on phriob-liosta:">
-<!ENTITY LinkURLEditField.accessKey "l">
 <!ENTITY LinkURLEditField2.label "Cuir a-steach ionad duilleige-lìn, faile ionadail no tagh acair ainmichte no ceann-sgrìobhaidh o chlàr-taice co-theacsail an raoin:">
 <!ENTITY LinkURLEditField2.accessKey "d">
