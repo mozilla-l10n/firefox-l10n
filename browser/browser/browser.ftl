@@ -168,7 +168,5 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Izolulo
-urlbar-go-end-cap =
-    .tooltiptext = Yiya kwidilesi kwibha yendawo
 urlbar-page-action-button =
     .tooltiptext = Okwenzeka kumakhasi
