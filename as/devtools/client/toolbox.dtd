@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -136,8 +137,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "প্ৰকৃত উৎসবোৰ দেখুৱাওক">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "শৈলী সম্পাদক আৰু নিৰীক্ষকত প্ৰকৃত উৎস (উদাহৰণস্বৰূপ Sass ফাইলসমূহ) দেখুৱাওক">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -156,14 +155,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "সাধাৰণ পছন্দসমূহ">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "স্থায়ী লগসমূহ সামৰ্থবান কৰক">
-<!ENTITY options.enablePersistentLogs.tooltip  "যদি আপুনি এই বিকল্প সামৰ্থবান কৰে ৱেব কনচৌল আৰু নেটৱৰ্ক মনিটৰে আপুনি প্ৰতিবাৰ এটা নতুন পৃষ্ঠালৈ যাওতে আউটপুট পৰিষ্কাৰ নকৰিব">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -171,6 +167,7 @@
 
 <!ENTITY options.showPlatformData.label    "Gecko প্লেটফৰ্ম তথ্য দেখুৱাওক">
 <!ENTITY options.showPlatformData.tooltip  "যদি আপুনি এই বিকল্প সামৰ্থবান কৰে JavaScript আলেখ্যক সংবাদসমূহে Gecko প্লেটফৰ্ম চিহ্নসমূহ অন্তৰ্ভুক্ত কৰিব">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = ছাইটৰ তথ্য চাওক
 
@@ -80,10 +81,12 @@ urlbar-microphone-blocked =
     .tooltiptext = এই ৱেবছাইটৰ বাবে আপুনি আপোনাৰ মাইক্ৰফোন অৱৰোধ কৰিছে।
 urlbar-screen-blocked =
     .tooltiptext = আপুনি এই ৱেবছাইটে আপোনাৰ স্ক্ৰীণ সহভাগ কৰাটো অৱৰোধ কৰিছে।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই পত্ৰচিহ্ন সম্পাদন কৰক ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -154,5 +157,6 @@ urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
 urlbar-switch-to-tab =
     .value = টেবলৈ যাওক:
+
 urlbar-go-button =
     .tooltiptext = অৱস্থান বাৰত থকা ঠিকনালে যাওক

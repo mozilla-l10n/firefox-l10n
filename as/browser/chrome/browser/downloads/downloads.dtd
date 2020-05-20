@@ -25,7 +25,6 @@
      Bug 1328519 is for discussing the detail rule of `downloadDetails.width`.
      -->
 
-<!ENTITY downloadDetails.width            "50ch">
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
      which is displayed at the bottom of the Downloads Panel if the
@@ -39,8 +38,6 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-
-<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "বিৰাম দিয়ক">
 <!ENTITY cmd.pause.accesskey              "P">

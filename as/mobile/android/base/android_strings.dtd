@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_urlbar_message "&brandShortName; লৈ স্বাগতম">
-
 
 
 
@@ -307,7 +305,6 @@
 
 
 <!ENTITY pref_media_autoplay_enabled "স্বচলনৰ অনুমতি দিয়ক">
-<!ENTITY pref_media_autoplay_enabled_summary "ৱেবছাইটসমূহে ভিডিঅ\u0027সমূহ আৰু অন্য মাধ্যম সমল স্বচলন কৰিব পাৰিব নে নিয়ন্ত্ৰণ কৰক">
 <!ENTITY pref_zoom_force_enabled "জুম সদায় সামৰ্থবান ৰাখক">
 <!ENTITY pref_zoom_force_enabled_summary "আপুনি যিকোনো পৃষ্ঠা জুম কৰিবলৈ সক্ষম হবলে অভাৰৰাইড বলৱৎ কৰ">
 
@@ -369,7 +366,6 @@
 
 <!ENTITY datareporting_fhr_title "&brandShortName; স্বাস্থ্য সংবাদ">
 <!ENTITY datareporting_fhr_summary2 "আপোনাৰ ব্ৰাউছাৰৰ স্বাস্থ্যৰ বিষয়ে তথ্য &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে আৰু আপোনাক আপোনাৰ ব্ৰাউছাৰৰ পৰিৱেশন বুজিবলৈ সহায় কৰে">
-<!ENTITY datareporting_abouthr_title "মোৰ স্বাস্থ্য সংবাদ চাওক">
 <!ENTITY datareporting_telemetry_title "টেলিমেট্ৰি">
 <!ENTITY datareporting_telemetry_summary "আপোনাৰ ব্ৰাউছাৰৰ বিষয়ে পৰিৱেশন, ব্যৱহাৰ, হাৰ্ডৱেৰ আৰু স্বনিৰ্বাচন তথ্য &vendorShortName; ৰ সৈতে অংশীদাৰী কৰে যাতে আমি &brandShortName; উন্নত কৰিব পাৰো">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; এ স্খলন সংবাদসমূহ জমা দিয়ে যাতে &vendorShortName; এ আপোনাৰ ব্ৰাউছাৰ অধিক স্থিৰ আৰু সুৰক্ষিত কৰিব পাৰে">
@@ -378,11 +374,6 @@
 <!ENTITY datareporting_crashreporter_title_short "স্খলন সংবাদক">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; অৱস্থান সেৱা">
 <!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; ক বিশ্ব মানচিত্ৰকৰণত সহায় কৰক! আমাৰ ভূঃঅঞ্চল সেৱা উন্নত কৰিবলৈ আপোনাৰ ডিভাইচৰ আনুমানিক Wi-Fi আৰু চেলুলাৰ অঞ্চল অংশীদাৰী কৰক।">
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload_wifi "কেৱল Wi-Fi ৰে">
-<!ENTITY pref_update_autodownload_never "কেতিয়াও নহয়">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
@@ -412,6 +403,7 @@
 <!ENTITY set_image_fail "ছবি স্থাপন কৰিবলৈ অক্ষম">
 <!ENTITY set_image_path_fail "ছবি সংৰক্ষণ কৰিবলৈ অক্ষম">
 <!ENTITY set_image_chooser_title "ছবিক এই ধৰণে সংৰক্ষণ কৰক">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "পূৰ্বৱৰ্তী">
@@ -428,7 +420,6 @@
 <!ENTITY contextmenu_open_new_tab "নতুন টেবত খোলক">
 <!ENTITY contextmenu_open_private_tab "ব্যক্তিগত টেবত খোলক">
 <!ENTITY contextmenu_remove "আতৰাওক">
-<!ENTITY contextmenu_add_to_launcher "আৰম্ভণি পৰ্দালৈ যোগ কৰক">
 
 <!ENTITY contextmenu_share "অংশীদাৰী কৰক">
 <!ENTITY contextmenu_pasteandgo "পেইস্ট কৰক আৰু যাওক">
@@ -504,6 +495,7 @@
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "এটা ছাইট যোগ কৰক">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 <!ENTITY home_history_title "ইতিহাস">
@@ -608,13 +600,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS2; ৰ বাবে &formatS1; ক সন্ধান কৰক">
 
 <!ENTITY searchable_description "পত্ৰচিহ্নসমূহ আৰু ইতিহাস">
-<!-- Updater notifications -->
-<!ENTITY updater_start_select2 "ডাউনল\u0027ড কৰিবলে স্পৰ্শ কৰক">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড কৰা হৈছে">
-<!ENTITY updater_downloading_title_failed2 "ডাউনল\u0027ড ব্যৰ্থ হল">
-<!ENTITY updater_downloading_select2 "ডাউনল\u0027ড হোৱাৰ পিছত আপডেইট প্ৰয়োগ কৰিবলে স্পৰ্শ কৰক">
-<!ENTITY updater_downloading_retry2 "পুনৰ চেষ্টা কৰিবলে স্পৰ্শ কৰক">
 
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
@@ -634,6 +619,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; এতিয়া পুনাৰম্ভ হব">
 <!ENTITY exit_guest_session_text "এই অধিবেশনৰ ব্ৰাউছিং তথ্য মচি পেলোৱা হব।">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
@@ -671,12 +657,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->

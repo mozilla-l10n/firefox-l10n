@@ -8,21 +8,27 @@ pref-page =
             [windows] বিকল্প
            *[other] পছন্দসমূহ
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] বিকল্প
        *[other] পছন্দসমূহ
     }
+
 pane-general-title = সাধাৰণ
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = সন্ধান কৰক
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 focus-search =
     .key = f
+
 close-button =
     .aria-label = বন্ধ কৰক
 
@@ -49,32 +55,43 @@ should-restart-title = { -brand-short-name } পুনাৰম্ভ কৰক
 ## General Section
 
 startup-header = আৰম্ভণি
+
 is-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ
 is-not-default = { -brand-short-name } বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়
+
 tabs-group-header = টেবসমূহ
+
 show-tabs-in-taskbar =
     .label = টেবৰ পুৰ্বদৰ্শনসমূহ উইন্ডোসমূহৰ কাৰ্য্যবাৰত দেখুৱাওক
     .accesskey = k
 
+
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = আখৰ আৰু ৰং
+
 advanced-fonts =
     .label = উন্নত…
     .accesskey = A
+
 colors-settings =
     .label = ৰং…
     .accesskey = C
+
 choose-language-description = পৃষ্ঠা প্ৰদৰ্শনৰ বাবে আপোনাৰ পছন্দৰ ভাষা নিৰ্ব্বাচন কৰক
+
 choose-button =
     .label = বাছক…
     .accesskey = o
+
 translate-web-pages =
     .label = ৱেবৰ সমল অনুবাদ কৰক
     .accesskey = T
+
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = অনুবাদ কৰিছে <img data-l10n-name="logo"/>
+
 translate-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = x
@@ -82,9 +99,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = ডাউনল'ডসমূহ
+
 download-save-to =
     .label = ফাইলসমূহ চিহ্নিত স্থানত সংৰক্ষণ কৰিব
     .accesskey = v
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -96,40 +115,50 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+
 applications-type-column =
     .label = সমলৰ ধৰণ
     .accesskey = T
+
 applications-action-column =
     .label = কাৰ্য্য
     .accesskey = A
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ফাইল
 applications-action-save =
     .label = ফাইল সংৰক্ষণ কৰক
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } ব্যৱহাৰ কৰক
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } ব্যৱহাৰ কৰক (অবিকল্পিত)
+
 applications-use-other =
     .label = অন্য ব্যৱহাৰ কৰক…
 applications-select-helper = সহায়ক এপ্লিকেচন বাছক
+
 applications-manage-app =
     .label = এপ্লিকেচনৰ বিৱৰণ…
 applications-always-ask =
     .label = সদায়ে সোধিব
 applications-type-pdf = সংবাহ্য দস্তাবেজ বিন্যাস (PDF)
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -143,16 +172,22 @@ applications-preview-inapp =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -171,12 +206,15 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = ব্ৰাউছিং
+
 browsing-use-autoscroll =
     .label = অ'ট'স্ক্ৰলিং ব্যৱহাৰ কৰক
     .accesskey = a
+
 browsing-use-smooth-scrolling =
     .label = নিমজ স্ক্ৰ'লিং ব্যৱহাৰ কৰক
     .accesskey = m
+
 browsing-use-cursor-navigation =
     .label = পৃষ্ঠাৰ মাজত ব্ৰাউছ কৰিবলৈ সদায়ে কাৰ্চাৰ চাবি ব্যৱহাৰ কৰিব
     .accesskey = c
@@ -203,6 +241,7 @@ use-current-pages =
            *[other] বৰ্ত্তমানৰ পৃষ্ঠাসমূহ ব্যৱহাৰ কৰক
         }
     .accesskey = C
+
 choose-bookmark =
     .label = পত্ৰচিহ্ন ব্যৱহাৰ কৰক…
     .accesskey = B
@@ -213,19 +252,24 @@ choose-bookmark =
 ## Search Section
 
 search-engine-default-header = অবিকল্পিত সন্ধান ইঞ্জিন
+
 search-suggestions-option =
     .label = সন্ধানৰ পৰামৰ্শসমূহ দিয়ক
     .accesskey = s
+
 search-choose-engine-column =
     .label = সন্ধান ইঞ্জিন
 search-choose-keyword-column =
     .label = কিৱাৰ্ড
+
 search-restore-default =
     .label = অবিকল্পিত সন্ধান ইঞ্জিন পুনৰুদ্ধাৰ কৰক
     .accesskey = D
+
 search-remove-engine =
     .label = আতৰাওক
     .accesskey = R
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = দ্বৈত কিৱাৰ্ড
@@ -263,6 +307,7 @@ sync-signedin-login-failure = পুনৰ সংযোগ কৰিবলৈ �
 sync-engine-bookmarks =
     .label = পত্ৰচিহ্নসমূহ
     .accesskey = m
+
 sync-engine-history =
     .label = ইতিহাস
     .accesskey = r
@@ -270,6 +315,7 @@ sync-engine-history =
 ## The device name controls.
 
 sync-tos-link = সেৱাৰ চুক্তিসমূহ
+
 sync-fxa-privacy-notice = গোপনীয়তা ঘোষণা
 
 ## Privacy Section
@@ -283,14 +329,18 @@ sync-fxa-privacy-notice = গোপনীয়তা ঘোষণা
 forms-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = x
+
 forms-master-pw-use =
     .label = এটা মুখ্য পাছৱৰ্ড ব্যৱহাৰ কৰক
     .accesskey = U
 forms-master-pw-change =
     .label = প্ৰমুখ পাছৱাৰ্ড সলনি কৰক…
     .accesskey = M
+
 forms-master-pw-fips-title = আপুনি বৰ্ত্তমানে FIPS ধৰণত আছে। FIPS ক এটা ৰিক্ত নোহোৱা মূখ্য পাছৱৰ্ড লাগে।
 forms-master-pw-fips-desc = পাছৱৰ্ডৰ পৰিবৰ্তন ব্যৰ্থ হল
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -300,16 +350,21 @@ history-remember-option-never =
     .label = ইতিহাস কেতিয়াও মনত নাৰাখিব
 history-remember-option-custom =
     .label = ইতিহাসৰ বাবে স্বনিৰ্বাচিত সংহতিসমূহ ব্যৱহাৰ কৰক
+
 history-dontremember-description = { -brand-short-name } এ ব্যক্তিগত ব্ৰাউছিংৰ সংহতিসমূহ ব্যৱহাৰ কৰিব, আৰু আপুনি ৱেব ব্ৰাউছ কৰি থাকোতে কোনো ইতিহাস মনত নাৰাখে।
+
 history-private-browsing-permanent =
     .label = সদায় ব্যক্তিগত ব্ৰাউছিং অৱস্থা ব্যৱহাৰ কৰিব
     .accesskey = p
+
 history-remember-search-option =
     .label = সন্ধান আৰু বিন্যাস ইতিহাস মনত ৰাখিব
     .accesskey = f
+
 history-clear-on-close-option =
     .label = যেতিয়া { -brand-short-name } বন্ধ হব শেহতীয়া ইতিহাস পৰিষ্কাৰ কৰিব
     .accesskey = r
+
 history-clear-on-close-settings =
     .label = সংহতিসমূহ…
     .accesskey = t
@@ -338,9 +393,11 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = প'প-আপ উইন্ডোসমূহ প্ৰতিৰোধ কৰক
     .accesskey = B
+
 permissions-block-popups-exceptions =
     .label = ব্যতিক্ৰসমূহ…
     .accesskey = E
+
 permissions-addon-exceptions =
     .label = ব্যতিক্ৰমসমূহ…
     .accesskey = E
@@ -357,6 +414,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = প্ৰমাণপত্ৰসমূহ
+
 certs-enable-ocsp =
     .label = প্ৰমাণপত্ৰসমূহৰ বৰ্তমান বৈধতা সুনিশ্চিত কৰিবলে OCSP ৰেস্পণ্ডাৰক প্ৰশ্ন কৰক
     .accesskey = Q
@@ -366,3 +424,4 @@ certs-enable-ocsp =
 desktop-folder-name = ডেস্কটপ
 downloads-folder-name = ডাউনল'ডসমূহ
 choose-download-folder-title = ডাউনল'ডৰ ফ'ল্ডাৰ বাছক:
+

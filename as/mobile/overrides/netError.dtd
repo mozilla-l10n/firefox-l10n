@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "পৃষ্ঠা ল'ড কৰোতে ভুল">
 <!ENTITY retry.label "পুনৰ চেষ্টা কৰক">
+
 <!-- Specific error messages -->
 
 
@@ -86,6 +87,7 @@
 <!ENTITY securityOverride.linkText "বা আপুনি এটা ব্যতিক্ৰম যোগ কৰিব পাৰে…">
 <!ENTITY securityOverride.getMeOutOfHereButton "মোক ইয়াৰ পৰা লৈ যাওক!">
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্ৰম যোগ কৰক…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
@@ -105,3 +107,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

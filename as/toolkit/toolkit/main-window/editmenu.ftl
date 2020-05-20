@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = পূৰ্বৰ দৰে
     .accesskey = U
+
 editmenu-redo =
     .label = পুনঃকৰক
     .accesskey = R
+
 editmenu-cut =
     .label = কাটক
     .accesskey = t
+
 editmenu-copy =
     .label = প্ৰতিলিপি
     .accesskey = C
+
 editmenu-paste =
     .label = লেপন
     .accesskey = P
+
 editmenu-delete =
     .label = বিলোপ
     .accesskey = D
+
 editmenu-select-all =
     .label = সকলো চয়ন
     .accesskey = A

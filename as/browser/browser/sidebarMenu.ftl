@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = পত্ৰচিহ্নসমূহ
+
 sidebar-menu-history =
     .label = ইতিহাস
+

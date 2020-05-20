@@ -18,6 +18,8 @@
 ## Top Sites - Delete history confirmation dialog. 
 
 
+## Top Sites - Delete history confirmation dialog.
+
 ## Context Menu - Action Tooltips.
 
 
@@ -28,12 +30,20 @@ newtab-menu-unpin = আনপিন কৰক
 newtab-menu-delete-history = ইতিহাসৰ পৰা বিলোপ কৰক
 newtab-menu-save-to-pocket = { -pocket-brand-name }-ত সঞ্চয় কৰক
 newtab-menu-delete-pocket = { -pocket-brand-name }-ৰ পৰা বিলোপ কৰক
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = বুকমাৰ্ক আঁতৰাওক
 # Bookmark is a verb here.
 newtab-menu-bookmark = বুকমাৰ্ক কৰক
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ডাউনল'ড প্ৰতিলিপি কৰক
@@ -56,15 +66,21 @@ newtab-label-saved = { -pocket-brand-name }-ত সঞ্চিত হ'ল
 ## meant as a call to action for the given section.
 
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
+## Section aria-labels
+
 ## Section Headers.
 
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 ## Pocket Content Section.
 
-newtab-pocket-how-it-works = ই কেনেকৈ কাম কৰে
 newtab-pocket-cta-button = { -pocket-brand-name } পাওঁক
 
 ## Error Fallback Content.
