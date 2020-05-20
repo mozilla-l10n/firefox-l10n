@@ -166,7 +166,6 @@
 <!ENTITY compactVersion.accesskey "D">
 <!ENTITY folderPaneBar.label "Barra Uirlisí Phána na bhFillteán">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "Amhairc Fhillteáin">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Sórtáil de réir">
@@ -317,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Comhrá">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Teachtaireacht Mharcáilte">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Fillteán">
@@ -430,9 +428,6 @@
 <!ENTITY openMessageWindowCmd.label "Oscail Teachtaireacht">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Oscail i gComhrá">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Iatáin">
 <!ENTITY openAttachmentListCmd.accesskey "t">
 <!ENTITY openFeedMessage1.label "Agus Teachtaireachtaí Fotha á nOscailt">
@@ -500,8 +495,6 @@
 <!ENTITY devToolboxCmd.label "Bosca Uirlisí d'Fhorbróirí">
 <!ENTITY devToolboxCmd.accesskey "b">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Dífhabhtóir Breiseán">
-<!ENTITY addonDebugCmd.accesskey "a">
 <!ENTITY tabsDebugCmd.label "Dífhabhtóir Fráma Ábhair">
 <!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
@@ -797,7 +790,6 @@
      customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Fill ar cholúin réamhshocraithe">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -848,6 +840,7 @@
 <!ENTITY contextMute.accesskey "m">
 <!ENTITY contextUnmute.label "Le Fuaim">
 <!ENTITY contextUnmute.accesskey "m">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have

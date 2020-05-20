@@ -51,6 +51,7 @@
 <!ENTITY enableCrashReporter.label       "Cumasaigh an Tuairisceoir Tuairteála">
 <!ENTITY enableCrashReporter.accesskey   "C">
 <!ENTITY crashReporterLearnMore.label    "Tuilleadh Eolais">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
@@ -70,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
 <!ENTITY updateCheck.accesskey           "L">
-<!ENTITY updateManual.label              "Ná lorg nuashonruithe riamh (rabhadh: contúirt slándála)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Taispeáin Stair na Nuashonruithe">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -120,3 +119,4 @@
 <!ENTITY manageCertificates.accesskey "B">
 <!ENTITY viewSecurityDevices.label "Gléasanna Slándála">
 <!ENTITY viewSecurityDevices.accesskey "d">
+

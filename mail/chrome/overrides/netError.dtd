@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Fadhb i rith lódáil an leathanaigh">
 <!ENTITY retry.label "Déan Iarracht Arís">
+
 <!-- Specific error messages -->
 
 
@@ -84,6 +85,7 @@
 <!ENTITY securityOverride.linkText "Nó is féidir leat eisceacht a chruthú…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Amach as seo liom!">
 <!ENTITY securityOverride.exceptionButtonLabel "Cruthaigh Eisceacht…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -99,3 +101,4 @@ functionality specific to thunderbird. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p>Úsáideann <span class='hostname'></span> teicneolaíocht slándála atá as dáta agus leochaileach ar ionsaithe. D'fhéadfadh ionsaitheoir eolas a nochtadh go héasca áit ar shíl tú go raibh sé slán. Beidh ar riarthóir an tsuímh gréasáin an freastalaí a dheisiú sula mbeidh tú ábalta cuairt a thabhairt ar an suíomh. </p><p> Cód Earráide: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

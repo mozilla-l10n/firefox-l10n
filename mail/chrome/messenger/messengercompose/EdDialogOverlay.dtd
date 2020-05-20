@@ -14,5 +14,3 @@
 <!ENTITY makeUrlRelative.tooltip "Athraigh idir URL coibhneasta agus dearbh-URL. Chun é seo a athrú, ní mór duit an leathanach a shábháil ar dtús.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Iontráil suíomh Gréasáin nó comhad logánta, nó roghnaigh Ancaire Ainmnithe nó Ceanntásc ón liosta aníos:">
-<!ENTITY LinkURLEditField.accessKey "G">

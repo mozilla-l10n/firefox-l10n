@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "De dhíth (ní féidir teachtaireacht a sheoladh mura bhfuil teastas ag gach faighteoir)">
 <!ENTITY alwaysEncryptMessage.accesskey "D">
 <!ENTITY encryptionCert.message "Úsáid an teastas seo chun teachtaireachtaí a sheoltar chugat a chriptiú agus a dhíchriptiú:">
+
 <!ENTITY digitalSign.certificate.button "Roghnaigh…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Glan">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Roghnaigh Teastas">
 <!ENTITY certPicker.info  "Teastas:">
 <!ENTITY certPicker.detailsLabel "Mionsonraí an teastais roghnaithe:">
+

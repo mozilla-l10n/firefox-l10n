@@ -2,14 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Socrú Cuntais Ríomhphoist">
 <!ENTITY name.label                      "D'ainm:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Ainm Sloinne">
 <!ENTITY name.text                       "D'ainm, mar a thaispeántar é do dhaoine eile">
 <!ENTITY email.label                     "Seoladh ríomhphoist:">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "seoladh@example.com">
 <!ENTITY password.label                  "Focal Faire:">
 <!ENTITY password.accesskey              "F">
 <!ENTITY password.placeholder            "Focal Faire">
@@ -53,8 +51,6 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Cumraíocht láimhe">
 <!ENTITY manual-edit.accesskey           "l">
-<!ENTITY switch-to-provisioner.label     "Faigh cuntas nua">
-<!ENTITY switch-to-provisioner.accesskey "g">
 
 
 <!ENTITY warning.label                   "Rabhadh!">

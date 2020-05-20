@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Ardchuardach an Leabhair Sheoltaí">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Snáithe">
-<!ENTITY fromColumn.label "Ó">
-<!ENTITY recipientColumn.label "Faighteoir">
-<!ENTITY correspondentColumn.label "Comhfhreagraithe">
-<!ENTITY subjectColumn.label "Ábhar">
-<!ENTITY dateColumn.label "Dáta">
-<!ENTITY priorityColumn.label "Tosaíocht">
-<!ENTITY tagsColumn.label "Clibeanna">
-<!ENTITY accountColumn.label "Cuntas">
-<!ENTITY statusColumn.label "Stádas">
-<!ENTITY sizeColumn.label "Méid">
-<!ENTITY junkStatusColumn.label "Stádas Dramhphoist">
-<!ENTITY unreadColumn.label "Gan Léamh">
-<!ENTITY totalColumn.label "Iomlán">
-<!ENTITY readColumn.label "Léite">
-<!ENTITY receivedColumn.label "Faighte">
-<!ENTITY starredColumn.label "Marcáilte">
-<!ENTITY locationColumn.label "Suíomh">
-<!ENTITY idColumn.label "Ord Fála">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Roghnaigh colúin le taispeáint">
-<!ENTITY threadColumn2.tooltip "Taispeáin snáithe">
-<!ENTITY fromColumn2.tooltip "Sórtáil de réir seoltóra">
-<!ENTITY recipientColumn2.tooltip "Sórtáil de réir faighteora">
-<!ENTITY correspondentColumn2.tooltip "Sórtáil de réir comhfhreagraithe">
-<!ENTITY subjectColumn2.tooltip "Sórtáil de réir ábhair">
-<!ENTITY dateColumn2.tooltip "Sórtáil de réir dáta">
-<!ENTITY priorityColumn2.tooltip "Sórtáil de réir tosaíochta">
-<!ENTITY tagsColumn2.tooltip "Sórtáil de réir clibeanna">
-<!ENTITY accountColumn2.tooltip "Sórtáil de réir cuntais">
-<!ENTITY statusColumn2.tooltip "Sórtáil de réir stádais">
-<!ENTITY sizeColumn2.tooltip "Sórtáil de réir méide">
-<!ENTITY junkStatusColumn2.tooltip "Sórtáil de réir stádais dramhphoist">
-<!ENTITY unreadColumn2.tooltip "Teachtaireachtaí gan léamh sa snáithe">
-<!ENTITY totalColumn2.tooltip "Iomlán na dTeachtaireachtaí sa snáithe">
-<!ENTITY readColumn2.tooltip "Sórtáil de réir stádais léite">
-<!ENTITY receivedColumn2.tooltip "Sórtáil de réir dáta faighte">
-<!ENTITY starredColumn2.tooltip "Sórtáil de réir réiltín">
-<!ENTITY locationColumn2.tooltip "Sórtáil de réir suímh">
-<!ENTITY idColumn2.tooltip "Sórtáil de réir oird fhaighte">

@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "s">
 <!ENTITY downloadOnBiff.label "Íoslódáil teachtaireachtaí nua go huathoibríoch">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY username.label "D'ainm úsáideora">
 <!ENTITY deleteMessagePrefix.label "Nuair a scriosaim teachtaireacht:">
 <!ENTITY modelMoveToTrash.label "Bog é go dtí an fillteán seo:">
 <!ENTITY modelMoveToTrash.accesskey "o">
