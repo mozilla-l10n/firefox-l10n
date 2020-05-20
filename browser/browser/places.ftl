@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = नव निजी विंडो मे खोलू
     .accesskey = P
+
 places-new-bookmark =
     .label = नव पुस्तकचिह्न…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = नव पृथक्ककारक
     .accesskey = S
+
 places-view =
     .label = दृश्य
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = दिनांक आओर साइट
     .accesskey = t
+
 places-history-search =
     .placeholder = इतिहास खोजू
 places-bookmarks-search =
     .placeholder = पुस्तकचिह्न खोजू
+
 places-delete-domain-data =
     .label = ई साइट केँ भूलि जाउ
     .accesskey = F

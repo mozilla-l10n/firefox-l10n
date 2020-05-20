@@ -9,9 +9,12 @@ findbar-next =
     .tooltiptext = खोजक अगिला उपस्थिति ताकू
 findbar-previous =
     .tooltiptext = खोजक पछिला उपस्थिति ताकू
+
 findbar-find-button-close =
     .tooltiptext = खोज पट्टी बन्न करू
+
 findbar-case-sensitive =
     .label = मिलान स्थिति
     .accesskey = c
     .tooltiptext = केस संवेदनशीलतासँ खोजू
+

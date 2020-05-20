@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = रोकू
 pictureinpicture-play =
     .aria-label = बजाउ
+
 pictureinpicture-mute =
     .aria-label = मूक करू
 pictureinpicture-unmute =
     .aria-label = आवाज दिअ
+

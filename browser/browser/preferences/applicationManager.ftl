@@ -5,13 +5,15 @@
 app-manager-window =
     .title = अनुप्रयोग विवरण
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = हटाउ
     .accesskey = R
-app-manager-handle-webfeeds = निम्नलिखित अनुप्रयोग केँ वेब फीड केँ नियंत्रित करबाक लेल प्रयोग कए सकैत अछि .
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = निम्नलिखित अनुप्रयोग केँ { $type } कड़ी केँ नियंत्रित करबाक लेल प्रयोग कए सकैत अछि .
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = निम्नलिखित अनुप्रयोग केँ { $type } सामग्री केँ नियंत्रित करबाक लेल प्रयोग कए सकैत अछि .

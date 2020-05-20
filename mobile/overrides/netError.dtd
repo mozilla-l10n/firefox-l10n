@@ -119,3 +119,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>सुरक्षा तकनीक उपयोग करैत अछि जे आब पुरान भ गेल अछि आओर चपेट मे आबि सकैत अछि. एकटा भेदी आसानी सँ ओ सूचना देखि सकैत अछि. जकरा अहाँ सुरक्षित बुझैत छी. वेबसाइट प्रशासक केँ अहाँक साइट देखए सँ पहिले सर्वर ठीक करए पड़त.</p><p>त्रुटि कोड: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

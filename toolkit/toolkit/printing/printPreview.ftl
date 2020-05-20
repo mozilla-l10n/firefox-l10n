@@ -48,3 +48,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = अंतिम पन्ना
+

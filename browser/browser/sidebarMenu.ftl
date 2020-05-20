@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = पुस्तकचिह्न
+
 sidebar-menu-history =
     .label = इतिहास
+

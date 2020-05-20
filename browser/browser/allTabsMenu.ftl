@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = बन्न टैबकेँ फिनु घुराबू (U)
+

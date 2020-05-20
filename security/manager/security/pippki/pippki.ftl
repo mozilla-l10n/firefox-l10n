@@ -8,6 +8,7 @@ password-quality-meter = गुड़किल्ली गुणवत्ता
 
 change-password-window =
     .title = मुख्य गुड़किल्ली बदलू
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा युक्ति: { $tokenName }
