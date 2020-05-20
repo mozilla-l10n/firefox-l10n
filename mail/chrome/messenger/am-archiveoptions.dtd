@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Настройки архивации">
 <!ENTITY archiveGranularityPrefix.label "При архивации сообщений, помещать их в:">
 <!ENTITY archiveFlat.label "Единую папку">

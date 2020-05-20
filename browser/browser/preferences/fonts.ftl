@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Шрифты
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Шрифты для
     .accesskey = ф
+
 fonts-langgroup-arabic =
     .label = Арабского
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Пропорциональный
     .accesskey = р
+
 fonts-default-serif =
     .label = С засечками
 fonts-default-sans-serif =
     .label = Без засечек
+
 fonts-proportional-size = Размер
     .accesskey = з
+
 fonts-serif = С засечками
     .accesskey = а
+
 fonts-sans-serif = Без засечек
     .accesskey = е
+
 fonts-monospace = Моноширинный
     .accesskey = ш
+
 fonts-monospace-size = Размер
     .accesskey = м
+
 fonts-minsize = Наименьший размер шрифта
     .accesskey = и
+
 fonts-minsize-none =
     .label = Нет
+
 fonts-allow-own =
     .label = Разрешить веб-сайтам использовать свои шрифты вместо установленных выше
     .accesskey = в
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кодировка текста для старых веб-страниц
 fonts-languages-fallback-desc = Эта кодировка текста используется для старых веб-страниц, которые не указали свою кодировку.
+
 fonts-languages-fallback-label = Резервная кодировка текста
     .accesskey = д
+
 fonts-languages-fallback-name-auto =
     .label = По умолчанию для текущего языка
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Вьетнамская
 fonts-languages-fallback-name-other =
     .label = Другая (в т.ч. Западноевропейская)
-fonts-very-large-warning-title = Большой наименьший размер шрифта
-fonts-very-large-warning-message = Вы выбрали очень большой наименьший размер шрифта (более 24 пикселей). Это может затруднить или сделать невозможным использование некоторых важных страниц конфигурации, таких как эта.
-fonts-very-large-warning-accept = Всё равно сохранить мои изменения
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

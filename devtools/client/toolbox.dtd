@@ -135,11 +135,6 @@
 <!ENTITY options.timestampMessages.label      "Показывать метки времени">
 <!ENTITY options.timestampMessages.tooltip    "Если вы включите эту настройку, команды и вывод в Веб-консоли будут сопровождаться метками времени">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Группировать похожие сообщения">
-<!ENTITY options.warningGroups.tooltip    "Когда включено, похожие сообщения объединяются в группы">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Отладчик">

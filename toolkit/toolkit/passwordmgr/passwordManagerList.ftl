@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Закрыть
     .accesskey = к
+
 show-passwords =
     .label = Отобразить пароли
     .accesskey = а

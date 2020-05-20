@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "о">
 
 <!ENTITY projectButton_label "Открыть приложение">
+
 <!ENTITY runtimeButton_label "Выбрать Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->

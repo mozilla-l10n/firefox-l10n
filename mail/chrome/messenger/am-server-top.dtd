@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "у">
 <!ENTITY downloadOnBiff.label "Автоматически загружать новые сообщения">
 <!ENTITY downloadOnBiff.accesskey "а">
-<!ENTITY username.label "Ваше регистрационное имя">
 <!ENTITY deleteMessagePrefix.label "При удалении сообщения:">
 <!ENTITY modelMoveToTrash.label "Переместить его в папку:">
 <!ENTITY modelMoveToTrash.accesskey "и">
