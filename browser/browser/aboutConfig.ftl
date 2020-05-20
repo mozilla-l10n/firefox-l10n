@@ -7,7 +7,9 @@ about-config-warning-title = Siin võib olla lohesid!
 about-config-warning-text = Nende edasijõudnud kasutajatele mõeldud sätete muutmine võib mõjuda kahjulikult rakenduse stabiilsusele, turvalisusele ja võimekusele. Sa peaksid jätkama ainult siis, kui tead, mida teed.
 about-config-warning-checkbox = Riskidest teavitatakse ka edaspidi
 about-config-warning-button = Ma võtan selle riski
+
 about-config2-title = Täpsem häälestamine
+
 about-config-search-input =
     .placeholder = Otsi
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Nõustu riskiga ja jätka
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Parameetrite muutmine võib mõjutada { -brand-short-name }i jõudlust ja turvalisust.
+
 about-config-page-title = Täpsem häälestamine
+
 about-config-search-input1 =
     .placeholder = Otsi parameetri nime
 about-config-show-all = Kuva kõiki
+
 about-config-pref-add = Lisa
 about-config-pref-toggle = Lülita ümber
 about-config-pref-edit = Muuda
 about-config-pref-save = Salvesta
 about-config-pref-reset = Lähtesta
 about-config-pref-delete = Kustuta
+
 about-config-pref-add-button =
     .title = Lisa
 about-config-pref-toggle-button =

@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Teave pluginate kohta
+
 installed-plugins-label = Paigaldatud pluginad
 no-plugins-are-installed-label = Pluginaid pole paigaldatud
+
 deprecation-description = Tunned millestki puudust? Mõned pluginad ei ole enam toetatud. <a data-l10n-name="deprecation-link">Rohkem teavet.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Olek:</span> lubatud
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Olek:</span> lubatud ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Olek:</span> keelatud
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Olek:</span> keelatud ({ $blockListState })
+
 mime-type-label = MIME tüüp
 description-label = Kirjeldus
 suffixes-label = Sufiksid

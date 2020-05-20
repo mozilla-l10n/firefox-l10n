@@ -4,146 +4,176 @@
 
 certmgr-title =
     .title = Sertifikaatide haldur
+
 certmgr-tab-mine =
     .label = Sinu sertifikaadid
+
 certmgr-tab-people =
     .label = Inimesed
+
 certmgr-tab-servers =
     .label = Serverid
+
 certmgr-tab-ca =
     .label = Keskused
+
 certmgr-mine = Sul on sind tuvastavaid sertifikaate järgnevatelt asutustelt
 certmgr-people = Sul on järgnevaid inimesi tuvastavaid sertifikaate
 certmgr-servers = Sul on järgnevaid servereid tuvastavaid sertifikaate
 certmgr-ca = Sul on järgnevaid sertifitseerimiskeskusi tuvastavaid sertifikaate
+
 certmgr-detail-general-tab-title =
     .label = Üldine
     .accesskey = l
+
 certmgr-detail-pretty-print-tab-title =
     .label = Üksikasjad
     .accesskey = k
+
 certmgr-pending-label =
     .value = Sertifikaadi verifitseerimine...
-certmgr-subject-info-label =
-    .value = Omanik
-certmgr-issuer-info-label =
-    .value = Väljaandja
-certmgr-period-of-validity-label =
-    .value = Kehtivusaeg
-certmgr-fingerprints-label =
-    .value = Sõrmejälg
+
 certmgr-subject-label = Omanik
+
 certmgr-issuer-label = Väljaandja
+
 certmgr-period-of-validity = Kehtivusaeg
+
 certmgr-fingerprints = Sõrmejälg
+
 certmgr-cert-detail =
     .title = Sertifikaadi üksikasjad
     .buttonlabelaccept = Sulge
     .buttonaccesskeyaccept = S
-certmgr-cert-detail-cn =
-    .value = Üldnimi (CN)
-certmgr-cert-detail-o =
-    .value = Asutus (O)
-certmgr-cert-detail-ou =
-    .value = Allüksus (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Seerianumber
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA256-sõrmejälg
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1-sõrmejälg
+
 certmgr-cert-detail-commonname = Üldnimi (CN)
+
 certmgr-cert-detail-org = Asutus (O)
+
 certmgr-cert-detail-orgunit = Allüksus (OU)
+
 certmgr-cert-detail-serial-number = Seerianumber
+
 certmgr-cert-detail-sha-256-fingerprint = SHA256-sõrmejälg
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1-sõrmejälg
+
 certmgr-edit-ca-cert =
     .title = SK sertifikaadi usaldusväärsuse sätete redigeerimine
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Usaldusväärsuse sätete redigeerimine:
+
 certmgr-edit-cert-trust-ssl =
     .label = Selle sertifikaadiga saab tuvastada veebilehti.
+
 certmgr-edit-cert-trust-email =
     .label = Selle sertifikaadiga saab tuvastada e-posti kasutajaid.
+
 certmgr-delete-cert =
     .title = Sertifikaadi kustutamine
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Sertifikaadi nimi
+
 certmgr-cert-server =
     .label = Server
+
 certmgr-override-lifetime =
     .label = Eluaeg
+
 certmgr-token-name =
     .label = Turvaseade
+
 certmgr-begins-on = Kehtiv alates
+
 certmgr-begins-label =
     .label = Kehtiv alates
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Kehtiv kuni
+
 certmgr-expires-label =
     .label = Kehtiv kuni
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = E-posti aadress
+
 certmgr-serial =
     .label = Seerianumber
+
 certmgr-view =
     .label = Vaata...
     .accesskey = V
+
 certmgr-edit =
     .label = Redigeeri usaldusväärsust...
     .accesskey = R
+
 certmgr-export =
     .label = Ekspordi...
     .accesskey = o
+
 certmgr-delete =
     .label = Kustuta...
     .accesskey = K
+
 certmgr-delete-builtin =
     .label = Kustuta või eemalda usaldusväärsus…
     .accesskey = u
+
 certmgr-backup =
     .label = Varunda...
     .accesskey = u
+
 certmgr-backup-all =
     .label = Varunda kõik
     .accesskey = r
+
 certmgr-restore =
     .label = Impordi...
     .accesskey = I
+
 certmgr-details =
     .value = Sertifikaadi väljad
     .accesskey = f
+
 certmgr-fields =
     .value = Välja väärtus
     .accesskey = j
+
 certmgr-hierarchy =
     .value = Sertifikaadipuu
     .accesskey = p
+
 certmgr-add-exception =
     .label = Lisa erand...
     .accesskey = n
+
 exception-mgr =
     .title = Turvalisuse erandi lisamine
+
 exception-mgr-extra-button =
     .label = Kinnita turvalisuse erand
     .accesskey = K
+
 exception-mgr-supplemental-warning = Seaduslikud pangad, poed ja muud avalikud veebilehed sellist asja sinult ei paluks.
+
 exception-mgr-cert-location-url =
     .value = Asukoht:
+
 exception-mgr-cert-location-download =
     .label = Hangi sertifikaat
     .accesskey = H
+
 exception-mgr-cert-status-view-cert =
     .label = Vaata...
     .accesskey = V
+
 exception-mgr-permanent =
     .label = See erand salvestatakse jäädavalt
     .accesskey = S
+
 pk11-bad-password = Sisestatud parool polnud õige.
 pkcs12-decode-err = Faili dekodeerimine nurjus.  Tegemist pole kas PKCS #12 failiga, fail on vigane või sisestati vale parool.
 pkcs12-unknown-err-restore = PKCS #12 faili taastamine nurjus teadmata põhjustel.
@@ -176,18 +206,24 @@ delete-user-cert-title =
     .title = Enda sertifikaatide kustutamine
 delete-user-cert-confirm = Kas oled kindel, et soovid neid sertifikaate kustutada?
 delete-user-cert-impact = Kui kustutad mõne enda sertifikaadi, ei ole sul võimalik end sellega enam tuvastada.
+
+
 delete-ssl-cert-title =
     .title = Serveri sertifikaadi erandite kustutamine
 delete-ssl-cert-confirm = Kas oled kindel, et soovid kustutada need serveri erandid?
 delete-ssl-cert-impact = Serveri erandi kustutamisega taastad selle serveri jaoks tavalised turvakontrollid ning serverilt nõutakse taas valideeruvat sertifikaati.
+
 delete-ca-cert-title =
     .title = SK sertifikaadi kustutamine või usaldusväärsuse eemaldamine
 delete-ca-cert-confirm = Oled avaldanud soovi kustutada need SK sertifikaadid. Sisseehitatud sertifikaatidelt eemaldatakse kogu nende usaldusväärsus, mis annab sama efekti. Kas oled kindel, et soovid kustutamise või usaldusväärsuse eemaldamisega jätkata?
 delete-ca-cert-impact = Kui kustutad sertifitseerimiskeskuse (SK) sertifikaadi või eemaldad sellelt usaldusväärsuse, siis ei tunnista käesolev rakendus enam ühtki selle SK poolt välja antud sertifikaati.
+
+
 delete-email-cert-title =
     .title = E-posti sertifikaatide kustutamine
 delete-email-cert-confirm = Kas oled kindel, et soovid kustutada nende inimeste e-posti sertifikaadid?
 delete-email-cert-impact = Kui kustutad isiku e-posti sertifikaadi, pole sul võimalik talle enam krüptitud e-kirju saata.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -203,21 +239,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Serdivaatur: “{ $certName }”
+
 not-present =
     .value = <Pole sertifikaadi osa>
+
 # Cert verification
 cert-verified = Sertifikaat verifitseeriti järgnevateks otstarveteks:
+
 # Add usage
 verify-ssl-client =
     .value = SSL-i kliendi sertifikaat
+
 verify-ssl-server =
     .value = SSL-i serveri sertifikaat
+
 verify-ssl-ca =
     .value = SSL-i sertifitseerimiskeskus
+
 verify-email-signer =
     .value = E-kirja signeerija sertifikaat
+
 verify-email-recip =
     .value = E-kirja saaja sertifikaat
+
 # Cert verification
 cert-not-verified-cert-revoked = Sertifikaati pole võimalik verifitseerida, kuna see on tühistatud.
 cert-not-verified-cert-expired = Sertifikaati pole võimalik verifitseerida, kuna see on aegunud.

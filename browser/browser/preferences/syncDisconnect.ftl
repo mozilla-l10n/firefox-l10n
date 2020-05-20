@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Kas oled kindel, et soovid { -sync-brand-short-name }ist lahti ühendada?
     .style = width: 52em; min-height: 35em;
+
 sync-disconnect-heading = Kas soovid kustutada ka brauseri andmed sellest arvutist? Sinu { -sync-brand-name }i andmed jäävad sinu kontole sellegi poolest alles.
+
 sync-disconnect-remove-sync-caption = { -sync-brand-name }i andmed kustutatakse
+
 sync-disconnect-remove-sync-data = Järjehoidjad, ajalugu, paroolid jne.
+
 sync-disconnect-remove-other-caption = Muud privaatsed andmed kustutatakse
+
 sync-disconnect-remove-other-data = Küpsised, ajutised failid, võrguta režiimis kasutatavad saitide andmed jne.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Lahtiühendamine…
+
 sync-disconnect-cancel =
     .label = Loobu
     .accesskey = L
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Ühenda lahti ja kustuta
     .accesskey = k
+
 sync-disconnect-confirm-disconnect =
     .label = Ühenda lihtsalt lahti
     .accesskey = n

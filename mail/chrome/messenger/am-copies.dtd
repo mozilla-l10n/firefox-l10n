@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label        "Koopiad ja kaustad">
 <!ENTITY sendingPrefix.label             "Kirja saatmisel: ">
 <!ENTITY fccMailFolder.label             "Paigutatakse koopia automaatselt kausta:">

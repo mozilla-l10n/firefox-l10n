@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Teenusepakkuja
     .accesskey = T
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (vaikimisi)
     .tooltiptext = Kasuta üle HTTPSi töötava DNSi puhul vaikeaadressi
+
 connection-dns-over-https-url-custom =
     .label = kohandatud
     .accesskey = o
     .tooltiptext = Sisesta üle HTTPSi töötava DNSi jaoks oma eelistatud URL
+
 connection-dns-over-https-custom-label = Kohandatud

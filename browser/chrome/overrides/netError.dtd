@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Viga ühendumisel">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "See aadress on keelatud">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Serverit ei leitud">
@@ -33,6 +35,7 @@
 ">
 
 <!ENTITY fileNotFound.title "Faili ei leitud">
+
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Kontrolli faili nimes olevaid suurtähti või muid sisestusvigu.</li>
@@ -41,6 +44,7 @@
 ">
 
 <!ENTITY fileAccessDenied.title "Ligipääs failile keelati">
+
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Fail võib olla kustutatud, mujale liigutatud või on sellele seatud ligipääsu piiravad õigused.</li>
@@ -48,6 +52,7 @@
 ">
 
 <!ENTITY generic.title "Ups.">
+
 <!ENTITY generic.longDesc "
 <p>&brandShortName;il pole mingil põhjusel selle lehe laadimine võimalik.</p>
 ">
@@ -62,12 +67,15 @@
 <!ENTITY malformedURI.title1 "Hmm. See aadress ei tundu õige.">
 
 <!ENTITY netInterrupt.title "Ühendus katkes">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokument aegus">
+
 <!ENTITY notCached.longDesc "<p>Nõutud dokument pole brauseri vahemälus saadaval.</p><ul><li>Turvalisuse ettevaatusabinõuna ei laadi brauser tundliku infoga dokumente automaatselt uuesti.</li><li>Klõpsa Proovi uuesti, et hankida dokumendi sisu veebilehelt uuesti.</li></ul>">
 
 <!ENTITY netOffline.title "Võrguta režiim">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Vajuta &quot;Proovi uuesti&quot;, et lülituda võrgurežiimi ning laadida leht uuesti.</li>
@@ -75,6 +83,7 @@
 ">
 
 <!ENTITY contentEncodingError.title "Sisu kodeeringu viga">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Palun võta ühendust veebilehe omanikuga, et informeerida teda antud probleemist.</li>
@@ -82,6 +91,7 @@
 ">
 
 <!ENTITY unsafeContentType.title "Ohtlik faili tüüp">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Palun võta ühendust veebilehe omanikuga, et informeerida teda antud probleemist.</li>
@@ -89,12 +99,15 @@
 ">
 
 <!ENTITY netReset.title "Ühendus katkestati">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Ühendus aegus">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Aadress jäi arusaamatuks">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Selle aadressi avamiseks peaksid võib-olla paigaldama lisatarkvara.</li>
@@ -102,6 +115,7 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "Puhverserver keeldub ühendustest">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Kontrolli puhverserveri sätteid, et teha kindlaks, kas need on õiged.</li>
@@ -111,6 +125,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Ei leitud puhverserverit">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Kontrolli puhverserveri sätteid, et teha kindlaks, kas need on õiged.</li>
@@ -121,6 +136,7 @@
 ">
 
 <!ENTITY redirectLoop.title "Veebileht pole korralikult ümber suunatud">
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Probleemi võib mõnikord põhjustada küpsistest keeldumine või nende üldine
@@ -129,6 +145,7 @@
 ">
 
 <!ENTITY unknownSocketType.title "Ootamatu vastus serverilt">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Kontrolli, et sinu süsteemi on paigaldatud personaalne turvalisuse
@@ -138,6 +155,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Turvalise ühenduse viga">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Soovitud veebilehte pole võimalik näidata, kuna saadud andmete autentsust polnud võimalik kontrollida.</li>
@@ -147,6 +165,7 @@
 
 <!ENTITY certerror.longpagetitle2 "Hoiatus: ees on ootamas võimalik turvarisk">
 <!ENTITY certerror.sts.longpagetitle  "Ühendust ei loodud: võimalik turvarisk">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -185,9 +204,11 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Blokitud sisu kaitsva turvareegliga">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; keeldus lehe laadimisest sellisel moel, sest lehe sisu kaitsvate turvareeglite kohaselt on see keelatud.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Vigane sisu">
+
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Andmete edastamisel esinenud vea tõttu pole soovitud lehte võimalik kuvada.</p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Nõustu riskiga ja jätka">
@@ -196,9 +217,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Rohkem teavet…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Palun võta ühendust veebilehe omanikega, et teavitada neid sellest probleemist.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Turvaline ühendumine pole võimalik">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Täpsem teave: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -209,6 +232,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Kopeeri tekst vahemällu">
 
 <!ENTITY inadequateSecurityError.title "Ühendus pole turvaline">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> kasutab turvatehnoloogiat, mis on aegunud ja ei paku rünnete eest kaitset. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud. Saidi külastamiseks peab saidi administraator selle serveri kõigepealt ära parandama.</p><p>Veakood: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -216,6 +240,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokitud leht">
 
 <!ENTITY certerror.mitm.title "Tarkvara takistab &brandShortName;il selle saidiga turvalise ühenduse loomist">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> on suure tõenäosusega ohutu sait, aga turvalise ühenduse loomine polnud sellegi poolest võimalik. Selle probleemi põhjuseks on <span class='mitm-name'/>, mis on kas tarkvara sinu arvutis või siis sinu võrgus.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Kui sinu antiviiruse tarkvara sisaldab krüptitud ühenduste skanneerimise funktsionaalsust (tihti nimetatud kui "veebi skannimine (web scanning)" või "httpsi skannimine (https scanning)"), siis võid sa selle funktsionaalsuse keelata. Kui see ei aita, siis proovi antiviiruse tarkvara eemaldada ja uuesti paigaldada.'>
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Kui sa asud ettevõtte võrgus, siis võid pöörduda IT osakonna poole.">
@@ -223,14 +248,16 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Kui <span class='mitm-name'/> on sulle tundmatu, siis võib tegu olla rünnakuga ja sul puudub praegu võimalus seda saiti külastada.">
 
 <!ENTITY clockSkewError.title "Sinu arvuti aeg on vale">
+
 <!ENTITY clockSkewError.longDesc "Sinu arvuti arvab ajaks olevat <span id='wrongSystemTime_systemDate1'/> - see takistab &brandShortName;il turvalise ühenduse loomist. Saidi <span class='hostname'></span> külastamiseks määra oma arvuti aeg õigeks ja värskenda siis saidi <span class='hostname'></span> sisu.">
 
 <!ENTITY prefReset.longDesc "Paistab, et seda probleemi võivad põhjustada sinu võrguturvalisuse sätted. Kas soovid taastada vaikesätted?">
 <!ENTITY prefReset.label "Taasta vaikesätted">
 
+<!ENTITY networkProtocolError.title "Võrguprotokolli viga">
+
 <!ENTITY enableTls10.longDesc "See sait ei pruugi toetada protokolli TLS 1.2, mis on minimaalne versioon, mida &brandShortName; toetab. TLS 1.0 ja TLS 1.1 lubamine võib võimaldada ühenduse loomise.">
 <!ENTITY enableTls10.note "TLS 1.0 ja TLS 1.1 keelatakse tulevases väljalaskes jäädavalt.">
 <!ENTITY enableTls10.label "Luba TLS 1.0 ja 1.1">
 
-<!ENTITY networkProtocolError.title "Võrguprotokolli viga">
 <!ENTITY networkProtocolError.longDesc "<p>Veebilehte, mida üritad vaadata, pole võimalik kuvada, kuna võrguprotokollis tuvastati viga.</p><ul><li>Palun võta ühendust veebisaidi omanikuga, et teavitada teda sellest probleemist.</li></ul>">

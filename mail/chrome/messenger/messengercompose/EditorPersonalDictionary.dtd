@@ -12,8 +12,6 @@
 <!ENTITY AddButton.accessKey      "L">
 <!ENTITY DictionaryList.label     "Sõnad sõnaraamatus:">
 <!ENTITY DictionaryList.accessKey "n">
-<!ENTITY ReplaceButton.label      "Asenda">
-<!ENTITY ReplaceButton.accessKey  "A">
 <!ENTITY RemoveButton.label       "Eemalda">
 <!ENTITY RemoveButton.accessKey   "E">
 

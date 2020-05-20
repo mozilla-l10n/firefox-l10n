@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fondid
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fondid keelele
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Araabia
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportsionaalsed
     .accesskey = P
+
 fonts-default-serif =
     .label = seriifidega
 fonts-default-sans-serif =
     .label = seriifideta
+
 fonts-proportional-size = Suurus
     .accesskey = u
+
 fonts-serif = Seriifidega
     .accesskey = S
+
 fonts-sans-serif = Seriifideta
     .accesskey = i
+
 fonts-monospace = Fikseeritud laiusega
     .accesskey = k
+
 fonts-monospace-size = Suurus
     .accesskey = r
+
 fonts-minsize = Vähim fondisuurus
     .accesskey = o
+
 fonts-minsize-none =
     .label = puudub
+
 fonts-allow-own =
     .label = Veebilehed võivad kasutada oma fonte kasutaja valitud fontide asemel
     .accesskey = V
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Teksti kodeering varasema sisu jaoks
 fonts-languages-fallback-desc = Seda kodeeringut kasutatakse varasema sisu jaoks, mis ei määra oma kodeeringut.
+
 fonts-languages-fallback-label = Teksti kodeeringu varuvariant
     .accesskey = r
+
 fonts-languages-fallback-name-auto =
     .label = praeguse lokaadi vaikseväärtus
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnami
 fonts-languages-fallback-name-other =
     .label = Muu (k.a. Lääne-Euroopa)
-fonts-very-large-warning-title = Vähim fondisuurus on väga suur
-fonts-very-large-warning-message = Oled määranud vähima fondisuuruse väga suureks (rohkem kui 24 pikslit). See võib teha oluliste häälestuslehtede (nt praegune leht) kasutamise keeruliseks või üldse võimatuks.
-fonts-very-large-warning-accept = Eira hoiatust ja salvesta muudatused
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

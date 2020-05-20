@@ -18,7 +18,6 @@
 <!ENTITY accountsSectionHdr.label     "Kontod">
 <!ENTITY subscribeImapFolders.label   "Halda kaustade tellimusi">
 <!ENTITY settingsLink.label           "Kuva selle konto sätteid">
-<!ENTITY setupNewAcctLink.label       "Seadista konto">
 <!ENTITY setupNewAcct.label           "Seadista konto:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Lisavõimalused">

@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Ma võtan selle riski!
 config-about-warning-checkbox =
     .label = Seda hoiatust näidatakse ka järgmine kord
+
 config-search-prefs =
     .value = Otsi:
     .accesskey = i
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopeeri
     .accesskey = K
+
 config-copy-name =
     .label = Kopeeri nimi
     .accesskey = o
+
 config-copy-value =
     .label = Kopeeri väärtus
     .accesskey = v
+
 config-modify =
     .label = Muuda
     .accesskey = M
+
 config-toggle =
     .label = Vastanda
     .accesskey = d
+
 config-reset =
     .label = Lähtesta
     .accesskey = L
+
 config-new =
     .label = Uus
     .accesskey = U
+
 config-string =
     .label = String
     .accesskey = S
+
 config-integer =
     .label = Täisarv
     .accesskey = T
+
 config-boolean =
     .label = Tõeväärtus
     .accesskey = v
+
 config-default = vaikimisi
 config-modified = muudetud
 config-locked = lukustatud
+
 config-property-string = string
 config-property-int = täisarv
 config-property-bool = tõeväärtus
+
 config-new-prompt = Sisesta eelistuse nimi
+
 config-nan-title = Vigane väärtus
 config-nan-text = Tekst, mille sisestasid, ei ole number.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Uus { $type } tüüpi väärtus
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Väärtuse sisestamine ({ $type })

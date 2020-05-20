@@ -9,12 +9,10 @@ findbar-next =
     .tooltiptext = Järgmine
 findbar-previous =
     .tooltiptext = Eelmine
+
 findbar-find-button-close =
     .tooltiptext = Sulge otsinguriba
-findbar-highlight-all =
-    .label = Too kõik esile
-    .accesskey = k
-    .tooltiptext = Too see fraas lehel esile
+
 findbar-highlight-all2 =
     .label = Too kõik esile
     .accesskey =
@@ -23,10 +21,12 @@ findbar-highlight-all2 =
            *[other] e
         }
     .tooltiptext = Too kõik fraasi esinemised esile
+
 findbar-case-sensitive =
     .label = Tõstutundlik
     .accesskey = t
     .tooltiptext = Otsi tõstutundlikult
+
 findbar-entire-word =
     .label = Täissõnad
     .accesskey = s

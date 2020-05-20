@@ -21,23 +21,17 @@
 <!ENTITY firstrun_data_message "Vähem andmeid, vähem vaja salvestada">
 <!ENTITY firstrun_data_subtext2 "Lülita pildid välja, et kasutada saitide sirvimisel vähem andmemahtu.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Konto">
-<!ENTITY firstrun_sync_message2 "Jätka sealt, kus pooleli jäi.">
 <!ENTITY firstrun_sync_message3 "Sünkroniseeri järjehoidjad, ajalugu ja paroolid oma telefoni.">
 <!ENTITY firstrun_sync_subtext2 "Kasuta Synci, et leida järjehoidjaid, paroole ja muid asju, mida oled salvestanud &brandShortName;i kõigis oma seadmetes.">
 <!ENTITY newfirstrun_sync_subtext "Sünkroniseeri asjad, mida salvestad mobiilis oma töölaua Firefoxi, privaatselt ja turvaliselt.">
-<!ENTITY updatednewfirstrun_sync_subtext "Parima kogemuse saamiseks &brandShortName;iga logi oma kontosse sisse">
-<!ENTITY firstrun_signin_message "Tee algust ja loo ühendus">
 <!ENTITY firstrun_sendtab_title "Saada kaart">
 <!ENTITY firstrun_sendtab_message "Jaga kaarte mobiilist töölauale - hetkega.">
-<!ENTITY firstrun_signin_button "Logi Synci sisse">
-<!ENTITY newfirstrun_signin_button "Lülita Sync sisse">
-<!ENTITY updatednewfirstrun_signin_button "Logi &brandShortName;i sisse">
+<!ENTITY firstrun_signin_message "Tee algust ja loo ühendus">
 <!ENTITY onboard_start_button_browser "Alusta veebilehitsemist">
 <!ENTITY firstrun_button_notnow "Mitte praegu">
 <!ENTITY firstrun_button_next "Edasi">
 
-<!ENTITY firstrun_signin_button2 "Logi sisse">
+<!ENTITY firstrun_signup_button "Registreeru">
 
 <!ENTITY firstrun_tabqueue_title "Lingid">
 
@@ -49,8 +43,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Sina">
 <!ENTITY firstrun_account_message "Kas sul on &brandShortName; olemas ka mõnel muul seadmel?">
-
-<!ENTITY firstrun_signup_button "Registreeru">
 
 <!ENTITY  onboard_start_restricted1 "See lihtsustatud &brandShortName;i versioon tagab turvalisuse, jättes ohjad sinu kätte.">
 
@@ -481,14 +473,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; asukoha teenus töötab">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automaatsed uuendused">
-<!ENTITY pref_update_autodownload_wifi "ainult üle Wi-Fi">
-<!ENTITY pref_update_autodownload_never "keelatud">
-<!ENTITY pref_update_autodownload_always "lubatud">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Abi">
 
@@ -758,25 +742,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Järjehoidjad ja ajalugu">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName;ile on saadaval uuendus">
-<!ENTITY updater_start_select2 "Uuenduse allalaadimiseks puuduta.">
-
-<!ENTITY updater_downloading_title2 "&brandShortName;i allalaadimine">
-<!ENTITY updater_downloading_title_failed2 "Allalaadimine ebaõnnestus">
-<!ENTITY updater_downloading_select2 "Puuduta, kui soovid, et uuendus rakendataks pärast allalaadimist.">
-<!ENTITY updater_downloading_retry2 "Puuduta, kui soovid uuesti proovida.">
-
-<!ENTITY updater_apply_title3 "&brandShortName;ile on alla laaditud uuendus">
-<!ENTITY updater_apply_select3 "Paigaldamiseks puuduta">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Failide ja uuenduste allalaadimiseks luba &brandShortName;il salvestada andmeid.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Luba">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Uus külalisseanss">
 <!ENTITY exit_guest_session "Välju külalisseansist">
@@ -892,7 +857,6 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Tere tulemast &brandShortName;i">
 <!ENTITY activity_stream_signin_description "Alusta järjehoidjate, paroolide ja muu sünkroniseerimist oma Firefoxi kontoga.">
-<!ENTITY activity_stream_signin_button "Logi sisse">
 
 <!ENTITY activity_stream_signup_button "Registreeru">
 <!ENTITY activity_stream_signin_prompt "Sul on konto juba olemas?">
@@ -956,7 +920,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Heli ja video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName;i näpunäited ja trikid">
-<!ENTITY updater_notification_channel "Rakenduse uuendused">
 <!ENTITY synced_tabs_notification_channel "Sünkroniseeritud kaardid">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

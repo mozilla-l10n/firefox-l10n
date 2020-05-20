@@ -12,10 +12,13 @@
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Rohkem teavet täiustatud jälitamisvastase kaitse kohta
+
 protections-panel-etp-on-header = Täiustatud jälitamisvastane kaitse on sellel saidil SEES
 protections-panel-etp-off-header = Täiustatud jälitamisvastane kaitse on sellel saidil VÄLJAS
+
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Sait ei tööta?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Sait ei tööta?
@@ -29,7 +32,9 @@ protections-panel-not-blocking-why-etp-on-tooltip = Nende blokkimine võib mõne
 ##
 
 protections-panel-no-trackers-found = Sellelt lehelt ei tuvastatud ühtki { -brand-short-name }ile teadaolevat jälitajat.
+
 protections-panel-content-blocking-tracking-protection = Jälitav sisu
+
 protections-panel-content-blocking-socialblock = Sotsiaalmeedia jälitajad
 protections-panel-content-blocking-cryptominers-label = Krüptorahakaevurid
 protections-panel-content-blocking-fingerprinters-label = Seadmetuvastajad
@@ -54,12 +59,14 @@ protections-panel-showreport-label = Vaata raportit
 
 # The header of the list
 protections-panel-site-not-working-view-header = Lülita kaitse välja, kui sul esineb probleeme järgnevate asjadega:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = sisselogimisväljad
 protections-panel-site-not-working-view-issue-list-forms = vormid
 protections-panel-site-not-working-view-issue-list-payments = maksed
 protections-panel-site-not-working-view-issue-list-comments = kommentaarid
 protections-panel-site-not-working-view-issue-list-videos = videod
+
 protections-panel-site-not-working-view-send-report = Saada raport
 
 ##
@@ -69,9 +76,11 @@ protections-panel-cryptominers = Krüptorahakaevurid kasutavad sinu süsteemi ar
 protections-panel-fingerprinters = Seadmetuvastajad koguvad profileerimiseks sinu brauseri ja arvuti sätteid. Neid digitaalseid sõrmejälgi kasutades saavad nad jälitada sind erinevatel saitidel.
 protections-panel-tracking-content = Saidid võivad laadida väliseid reklaame, videoid ja muud sisu, mis sisaldab jälitavat koodi. Jälitava sisu blokkimine võib panna saidid kiiremini avanema, kuid mõned nupud, vormid ja sisselogimise väljad ei pruugi enam toimida.
 protections-panel-social-media-trackers = Suhtlusvõrgustikud paigaldavad jälitajaid teistele saitidele, et jälgida, mida sa teed, näed või võrgus olles vaatad. See võimaldab sotsiaalmeediaettevõtetel sinu kohta rohkem teada saada kui ainult seda, mida jagad oma sotsiaalmeedia profiilides.
+
 protections-panel-content-blocking-manage-settings =
     .label = Halda kaitse sätteid
     .accesskey = H
+
 protections-panel-content-blocking-breakage-report-view =
     .title = Raporteeri katkisest saidist
 protections-panel-content-blocking-breakage-report-view-description = Teatud jälitajate blokkimine võib põhjustada probleeme mõningate saitidega. Probleemidest raporteerimisega aitad sa teha { -brand-short-name }i paremaks kõigi jaoks. Selle raportiga saadetakse Mozillale nii külastatava saidi URL kui ka infot sinu brauseri sätete kohta. <label data-l10n-name="learn-more">Rohkem teavet</label>

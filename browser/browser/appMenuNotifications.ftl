@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Uued { -brand-shorter-name }ile lisatud laiendused ei tööta privaatsetes akendes seni, kuni see pole laienduse sätetes lubatud.
 appmenu-addon-private-browsing-learn-more = Rohkem teavet laienduse sätete haldamise kohta
+    
 appmenu-new-tab-controlled =
     .label = Uue kaardi sisu on muutunud.
     .buttonlabel = Säilita muudatused

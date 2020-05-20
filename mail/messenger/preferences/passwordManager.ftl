@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Sulge
     .accesskey = S
+
 show-passwords =
     .label = Kuva paroole
     .accesskey = v
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Kas oled kindel, et soovid kõik oma paroolid kustutada?
 remove-all-passwords-title = Kõigi paroolide kustutamine
 no-master-password-prompt = Kas oled kindel, et soovid oma paroole kuvada?
+
+## OS Authentication dialog
+

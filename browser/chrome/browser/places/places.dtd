@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Uus eraldaja">
 <!ENTITY cmd.new_separator.accesskey       "d">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Laadi uuenev järjehoidja uuesti">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "L">
-
-<!ENTITY cmd.moveBookmarks.label                  "Liiguta…">
-<!ENTITY cmd.moveBookmarks.accesskey              "L">
-
 <!ENTITY col.name.label          "Nimi">
 <!ENTITY col.tags.label          "Sildid">
 <!ENTITY col.url.label           "Asukoht">
 <!ENTITY col.mostrecentvisit.label "Viimase külastamise aeg">
 <!ENTITY col.visitcount.label    "Külastuste arv">
-<!ENTITY col.description.label   "Kirjeldus">
 <!ENTITY col.dateadded.label     "Lisatud">
 <!ENTITY col.lastmodified.label  "Viimati muudetud">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Mine edasi">
 
-<!ENTITY detailsPane.more.label "Rohkem">
-<!ENTITY detailsPane.more.accesskey "o">
-<!ENTITY detailsPane.less.label "Vähem">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Vali element, et vaadata ja muuta selle omadusi">
 
 <!ENTITY view.label               "Näita">

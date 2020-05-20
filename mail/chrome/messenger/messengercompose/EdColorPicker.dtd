@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Värvi valimine">
 <!ENTITY lastPickedColor.label "Viimati valitud värv">
 <!ENTITY lastPickedColor.accessKey "V">
-<!ENTITY setColor1.label "Klõpsa värvil või">
-<!ENTITY setColor2.label "sisesta HTML-kood">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Vali värv:">
 <!ENTITY chooseColor2.label "Sisesta HTML-värvi kood">
 <!ENTITY chooseColor2.accessKey "H">

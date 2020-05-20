@@ -2,11 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY header.label           "Lühike pealkiri">
+<!ENTITY header.label           "Lühike pealkiri"> 
 <!ENTITY message.label          "Siia mingi näidistekst.">
-<!ENTITY editfield0.label       "Kasutajanimi:">
-<!ENTITY editfield1.label       "Parool:">
-<!ENTITY checkbox.label         "linnuke">
+
+<!ENTITY editfield0.label       "Kasutajanimi:"> 
+<!ENTITY editfield1.label       "Parool:"> 
+<!ENTITY checkbox.label         "linnuke"> 
 <!ENTITY copyCmd.label          "Kopeeri">
 <!ENTITY copyCmd.accesskey      "K">
 <!ENTITY selectAllCmd.label     "Vali kõik">

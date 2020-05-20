@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "n">
 <!ENTITY downloadOnBiff.label "Uued kirjad tõmmatakse automaatselt">
 <!ENTITY downloadOnBiff.accesskey "U">
-<!ENTITY username.label "Kasutajanimi">
 <!ENTITY deleteMessagePrefix.label "Kui kiri kustutatakse:">
 <!ENTITY modelMoveToTrash.label "liigutatakse see kausta Kustutatud">
 <!ENTITY modelMoveToTrash.accesskey "l">

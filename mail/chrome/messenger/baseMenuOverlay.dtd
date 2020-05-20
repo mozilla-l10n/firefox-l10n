@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "P">
 <!ENTITY helpSafeMode.label     "Taaskäivita koos lisade keelamisega…">
 <!ENTITY helpSafeMode.accesskey "T">
-<!ENTITY releaseCmd2.label "Väljalasketeade">
-<!ENTITY releaseCmd2.accesskey "V">
-<!ENTITY whatsNewCmd.label "Uuendused">
-<!ENTITY whatsNewCmd.accesskey "M">
-<!ENTITY openHelp.label "Abi sisukord">
-<!ENTITY openHelp.accesskey "A">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "&brandFullName;i abi">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "&brandFullName;i teave">
-<!ENTITY aboutMenuCmd2.accesskey "t">
 <!ENTITY helpSafeMode.stop.label     "Taaskäivita koos lisade lubamisega">
 <!ENTITY helpSafeMode.stop.accesskey "T">
 <!ENTITY productHelp.label "&brandShortName;i käsiraamat">

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Sulge
     .accesskey = S
+
 show-passwords =
     .label = Kuva paroole
     .accesskey = K
