@@ -65,8 +65,6 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "ពិនិត្យមើល​​បច្ចុប្បន្នភាព ប៉ុន្តែ​អនុញ្ញាត​ឲ្យ​ខ្ញុំ​ជ្រើស​ថា​តើ​ត្រូវ​ដំឡើង​ពួកវា​ដែរ​ឬ​ទេ">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "កុំ​​ពិនិត្យមើល​​បច្ចុប្បន្នភាព (មិន​ត្រូវ​បាន​ផ្ដល់​អនុសាសន៍ ៖ ហានិភ័យ​សុវត្ថិភាព)">
-<!ENTITY updateManual.accesskey          "ក">
 <!ENTITY updateHistory.label             "បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -111,3 +109,4 @@
 
 <!ENTITY viewSecurityDevices.label "ឧបករណ៍​សុវត្ថិភាព">
 <!ENTITY viewSecurityDevices.accesskey "D">
+

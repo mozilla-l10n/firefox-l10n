@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "វេបសាយ​នេះ​ប្រើ​កម្មវិធី​បន្ថែម​ដែល​ធ្វើឲ្យ &brandShortName; ដើរ​យឺត។">
 <!ENTITY tapToPlayPlugin                                     "ចុច​ទីនេះ​ដើម្បី​ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​សកម្ម។">
 <!ENTITY clickToActivatePlugin                               "ធ្វើ​ឲ្យ​កម្មវិធី​ជំនួយ​សកម្ម។">
 <!ENTITY checkForUpdates                                     "ពិនិត្យ​រក​មើល​បច្ចុប្បន្នភាព...">

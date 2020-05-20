@@ -86,8 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "ប្ដូរ​ឈ្មោះ​ឯកសារ​ភ្ជាប់">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Select All">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "ស្វែងរក…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -213,7 +213,6 @@
 <!ENTITY sendlaterButton.tooltip "Send this message later">
 <!ENTITY quoteButton.tooltip "Quote the previous message">
 <!ENTITY addressButton.tooltip "Select a recipient from an Address Book">
-<!ENTITY attachButton.tooltip "Include an attachment">
 <!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 
 <!ENTITY saveButton.tooltip "Save this message">
@@ -221,6 +220,7 @@
 <!ENTITY copyButton.tooltip             "Copy">
 <!ENTITY pasteButton.tooltip            "Paste">
 <!ENTITY printButton.tooltip "Print this message">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -299,6 +299,8 @@
 <!ENTITY attachPage.label "Attach Web Page…">
 <!ENTITY attachPage.accesskey "W">
 <!-- Spell checker context menu items -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY spellAddDictionaries.label "Add Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "A">

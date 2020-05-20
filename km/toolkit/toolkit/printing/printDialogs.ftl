@@ -103,6 +103,7 @@ print-window =
     .title = បោះពុម្ព
 print-complete =
     .value = ​បោះពុម្ព​បាន​បញ្ចប់ ។
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

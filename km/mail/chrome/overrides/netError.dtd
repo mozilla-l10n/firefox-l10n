@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Էջի բացման խնդիր">
 <!ENTITY retry.label "Կրկին փորձեք">
+
 <!-- Specific error messages -->
 
 
@@ -83,6 +84,7 @@
 <!ENTITY securityOverride.linkText "Կամ դուք կարող էք ավելացնել բացառություն…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Դո՛ւրս բերեք ինձ այստեղից">
 <!ENTITY securityOverride.exceptionButtonLabel "Ավելացնել Բացառություն…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -96,3 +98,4 @@ functionality specific to thunderbird. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

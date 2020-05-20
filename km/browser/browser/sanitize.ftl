@@ -5,11 +5,14 @@
 sanitize-prefs =
     .title = ការ​កំណត់​សម្រាប់​ជម្រះ​ប្រវត្តិ
     .style = width: 34em
+
 sanitize-prefs-style =
     .style = width: 17em
+
 dialog-title =
     .title = សម្អាត​​ប្រវត្តិ​ថ្មីៗ
     .style = width: 34em
+
 # When "Time range to clear" is set to "Everything", this message is used for the
 # title instead of dialog-title.
 dialog-title-everything =
@@ -27,16 +30,22 @@ dialog-title-everything =
 clear-time-duration-prefix =
     .value = ពេលវេលា​ត្រូវ​សម្អាត ៖
     .accesskey = ព
+
 clear-time-duration-value-last-hour =
     .label = ម៉ោង​ចុងក្រោយ
+
 clear-time-duration-value-last-2-hours =
     .label = ពីរ​ម៉ោង​ចុងក្រោយ
+
 clear-time-duration-value-last-4-hours =
     .label = បួន​ម៉ោង​ចុងក្រោយ
+
 clear-time-duration-value-today =
     .label = ថ្ងៃ​នេះ
+
 clear-time-duration-value-everything =
     .label = អ្វី​ទាំងអស់
+
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -44,41 +53,55 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = ប្រវត្តិ
+
 item-history-and-downloads =
     .label = រកមើល & ប្រវត្តិ​ទាញ​យក
     .accesskey = B
+
 item-cookies =
     .label = ខូគី
     .accesskey = ខ
+
 item-active-logins =
     .label = ការ​ចូល​សកម្ម
     .accesskey = ក
+
 item-cache =
     .label = ឃ្លាំង​សម្ងាត់
     .accesskey = ឃ
+
 item-form-search-history =
     .label = ទម្រង់ & ប្រវត្តិ​ស្វែងរក
     .accesskey = F
+
 data-section-label = ទិន្នន័យ
+
 item-site-preferences =
     .label = ចំណូល​ចិត្ត​តំបន់​បណ្ដាញ
     .accesskey = ច
+
 item-offline-apps =
     .label = ទិន្នន័យ​តំបន់​បណ្ដាញ​ក្រៅ​បណ្ដាញ
     .accesskey = ទ
+
 sanitize-everything-undo-warning = សកម្មភាព​នេះ​មិន​អាច​មិន​ធ្វើ​ឡើងវិញ​បាន​ទេ ។
+
 window-close =
     .key = w
+
 sanitize-button-ok =
     .label = សម្អាត​ឥឡូវនេះ
+
 # The label for the default button between the user clicking it and the window
 # closing.  Indicates the items are being cleared.
 sanitize-button-clearing =
     .label = សម្អាត
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = ប្រវត្តិ​ទាំងអស់​នឹង​ត្រូវ​បាន​សម្អាត។
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

@@ -8,6 +8,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < ថយ​ក្រោយ
     .accesskey = យ
+
 wizard-macos-button-next =
     .label = បន្ត
     .accesskey = ត
@@ -17,12 +18,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = បន្ទាប់ >
     .accesskey = ប
+
 wizard-macos-button-finish =
     .label = ធ្វើ​រួច
 wizard-linux-button-finish =
     .label = បញ្ចប់
 wizard-win-button-finish =
     .label = បញ្ចប់
+
 wizard-macos-button-cancel =
     .label = បោះបង់
 wizard-linux-button-cancel =

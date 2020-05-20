@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "អ្នក​ត្រូវ​បាន​ស្នើ​ឲ្យ​ជឿ​ទុកចិត្ត​លើ​​អាជ្ញាធរ​​វិញ្ញាបនបត្រ​ (CA) ថ្មី ។">
 <!ENTITY downloadCert.trustSSL "ទុកចិត្ត​លើ CA នេះ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​តំបន់បណ្ដាញ ។">
 <!ENTITY downloadCert.trustEmail "ទុកចិត្ត​លើ​ CA នេះ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​របស់​​អ្នក​ប្រើ​អ៊ីមែល ។">
-<!ENTITY downloadCert.trustObjSign "ទុកចិត្ត​លើ CA នេះ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​របស់​អ្នក​អភិវឌ្ឍន៍​កម្មវិធី ។">
 <!ENTITY downloadCert.message3 "មុន​ពេល​ជឿ​ទុកចិត្ត​លើ CA នេះ​សម្រាប់​គោលបំណង​ណាមួយ អ្នក​គួរតែ​ត្រួតពិនិត្យមើល​វិញ្ញាបនបត្រ គោលការណ៍ និង​បែបបទ​របស់​វា (ប្រសិនបើ​មាន)។">
 <!ENTITY downloadCert.viewCert.label "មើល">
 <!ENTITY downloadCert.viewCert.text "ត្រួត​ពិនិត្យ​វិញ្ញាបនបត្រ​ CA">

@@ -14,5 +14,3 @@
 <!ENTITY makeUrlRelative.tooltip "Ընտրել հարաբերական և բացարձակ հղումների միջև։ Սա փոխելու համար նախ պետք է պահպանեք էջը։">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Enter a web page location, a local file, or select a Named Anchor or Heading from the popup list:">
-<!ENTITY LinkURLEditField.accessKey "l">

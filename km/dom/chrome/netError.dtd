@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "កំហុស​ផ្ទុក​ទំព័រ">
 <!ENTITY retry.label "ព្យាយាម​ម្តងទៀត">
+
 <!-- Specific error messages -->
 
 
@@ -84,3 +85,4 @@
 <!ENTITY inadequateSecurityError.title "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

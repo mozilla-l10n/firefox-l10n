@@ -48,6 +48,7 @@ import =
 close-button =
     .label = បិទ
     .accesskey = C
+
 show-passwords =
     .label = បង្ហាញ​ពាក្យសម្ងាត់
     .accesskey = P
