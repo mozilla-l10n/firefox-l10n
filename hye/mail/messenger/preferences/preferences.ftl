@@ -34,6 +34,27 @@ choose-messenger-language-description = Ընտրեք ընտրացանկերը, �
 confirm-messenger-language-change-description = Այս փոփոխութիւնները կիրառելու համար վերագործարկեք { -brand-short-name }֊ը
 confirm-messenger-language-change-button = Կիրառել եւ վերագործարկել
 update-pref-write-failure-title = Գրէք ձախողում
+# Variables:
+#   $path (String) - Path to the configuration file
+update-pref-write-failure-message = Անհնար է պահպանել նախապատուութիւնը: Չը յաջողուեց գրէլ նիշքի՝{ $path }
+update-setting-write-failure-title = Սխալ թարմացուող նախապատուութիւնների պահպանում
+update-in-progress-title = Թարմացումն ընթացքի մէջ է
+update-in-progress-message = Ցանկանում եք { -brand-short-name }֊ը շարունակի այս թարմացումը
+update-in-progress-ok-button = Հրաժարուել
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = & Շարունակել
 
 ## OS Authentication dialog
 
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message = Ստուգեք ձեր ինքնությունը՝ հիմնաւրինակ գաղտնաբառ ստեղծելու համար:
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Հիմնաւրինակ գաղտնաբառ ստեղծելու համար մուտքագրեք ձեր պատուհանների մուտքի հավատարմագրերը: Սա աւգնում է պաշտպանել ձեր հաշիւների անւտանգութիւնը:
+# This message can be seen by trying to add a Master Password.
+# The macOS strings are preceded by the operating system with "Thunderbird is trying to "
+# and includes subtitle of "Enter password for the user "xxx" to allow this." These
+# notes are only valid for English. Please test in your locale.
+master-password-os-auth-dialog-message-macosx = ստեղծել հիմնաւրինակ գաղտնաբառ
+# Don't change this label.
+master-password-os-auth-dialog-caption = { -brand-full-name }
