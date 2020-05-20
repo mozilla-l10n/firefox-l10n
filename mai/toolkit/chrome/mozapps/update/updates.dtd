@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "आंशिक अद्यतन लागू नहि कएल जाए सकल. &brandShortName; एकटा पूरा अद्यतनक डाउनलोड सँ एकर कोशिश करताह.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please make sure that you have the latest version of &brandShortName; from:">
-
+                                           
 <!ENTITY  finishedPage.title              "अद्यतन संस्थापन क लेल तैआर">
 <!ENTITY  finishedPage.text               "ई अद्यतन केँ अगिला बेर तखन संस्थापित कएल जएताह जखन &brandShortName; आरंभ होइछ.अहाँ &brandShortName; केँ आब फेर आरंभ कए सकैत अछि, अथवा काम कएनाइ जारी राखबाक बाद मे फेर आरंभ कए सकैत अछि.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "ई अद्यतन केँ अगिला बेर तखन संस्थापित कएल जएताह जखन &brandShortName; आरंभ होइछ. अहाँ &brandShortName; केँ आब फेर आरंभ कए सकैत छी, अथवा काम कएनाइ जारी राखबाक बादमे फेर आरंभ कए सकैत छी.">
 
 
-<!ENTITY  update.details.label            "विवरण">
-<!ENTITY  update.installedOn.label        "ई पर संस्थापित:">
-<!ENTITY  update.status.label             "स्थिति:">

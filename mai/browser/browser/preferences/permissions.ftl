@@ -5,35 +5,42 @@
 permissions-window =
     .title = अपवाद
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = रोकू
     .accesskey = B
+
 permissions-session =
     .label = सत्रक लेल अनुमति दिअ
     .accesskey = S
+
 permissions-allow =
     .label = अनुमति दिअ
     .accesskey = A
+
 permissions-status =
     .label = स्थिति
+
 permissions-button-cancel =
     .label = रद्द करू
     .accesskey = C
+
 permissions-button-ok =
     .label = परिवर्तन सहेजू
     .accesskey = प
+
 permissions-capabilities-allow =
     .label = अनुमति दिअ
 permissions-capabilities-block =
     .label = रोकू
+
 permissions-capabilities-listitem-allow =
     .value = अनुमति दिअ
 permissions-capabilities-listitem-block =
     .value = रोकू
-permissions-capabilities-listitem-allow-first-party =
-    .value = केवल प्रथम पक्ष स्वीकारू
 permissions-capabilities-listitem-allow-session =
     .value = सत्रक लेल अनुमति दिअ
 
@@ -62,11 +69,15 @@ permissions-exceptions-addons-desc = कओनसँ वेबसाइट स�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

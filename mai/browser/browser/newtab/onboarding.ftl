@@ -19,6 +19,8 @@ onboarding-cards-dismiss =
     .title = खारिज करू
     .aria-label = खारिज करू
 
+## Welcome full page string
+
 ## Firefox Sync modal dialog strings.
 
 

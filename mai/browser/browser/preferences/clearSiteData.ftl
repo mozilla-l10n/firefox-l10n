@@ -4,6 +4,7 @@
 
 clear-site-data-close-key =
     .key = w
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cookies and Site Data (24 KB)"
 # Variables:
@@ -12,6 +13,7 @@ clear-site-data-close-key =
 clear-site-data-cookies-with-data =
     .label = कूकीज़ आओर साइट डेटा ({ $amount } { $unit })
     .accesskey = S
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cookies-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -20,7 +22,9 @@ clear-site-data-cookies-with-data =
 clear-site-data-cookies-empty =
     .label = कुकीज़ आओर साइट डेटा
     .accesskey = S
+
 clear-site-data-cookies-info = जँ अहाँ साफ करैत छी तँ अहाँ साइन आउट भ जाएब
+
 # The parameters in parentheses in this string describe disk usage
 # in the format ($amount $unit), e.g. "Cached Web Content (24 KB)"
 # Variables:
@@ -29,6 +33,7 @@ clear-site-data-cookies-info = जँ अहाँ साफ करैत छी
 clear-site-data-cache-with-data =
     .label = कैश्ड वेब सामग्री ({ $amount } { $unit })
     .accesskey = W
+
 # This string is a placeholder for while the data used to fill
 # clear-site-data-cache-with-data is loading. This placeholder is usually
 # only shown for a very short time (< 1s), so it should be very similar
@@ -37,10 +42,13 @@ clear-site-data-cache-with-data =
 clear-site-data-cache-empty =
     .label = कैश्ड वेब सामग्री
     .accesskey = W
+
 clear-site-data-cache-info = वेबसाइट केँ छवि तथा डेटा पुनः लोड करए के आवश्यकता हाएत
+
 clear-site-data-cancel =
     .label = कैंसिल
     .accesskey = C
+
 clear-site-data-clear =
     .label = साफ करू
     .accesskey = l

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = साइटक जानकारी देखू
 
@@ -36,6 +37,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ई पुस्तकचिह्न संपादित करू ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -59,6 +61,7 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = खोज सेटिंग्स बदलू
+
 search-one-offs-context-open-new-tab =
     .label = नव टैब मे खोजू
     .accesskey = T
@@ -127,5 +130,6 @@ urlbar-placeholder =
     .placeholder = खोजू अथवा पता दर्ज करू
 urlbar-switch-to-tab =
     .value = टैबमे जाउ:
+
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पतामे जाउ

@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = निजी विंडो खोलू (P)
     .accesskey = P
 about-private-browsing-not-private = अहाँ अखन निजी विंडो मे नहि छी.
+

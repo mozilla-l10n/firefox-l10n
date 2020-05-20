@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = फ़ॉन्ट
+
 fonts-window-close =
     .key = w
 
@@ -73,6 +74,7 @@ fonts-default-serif =
     .label = सेरिफ़
 fonts-default-sans-serif =
     .label = सैंस सेरिफ़
+
 fonts-minsize-none =
     .label = कोनो नहि
 
@@ -83,6 +85,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = पुरातन कंटेंटक लेल वर्ण एनकोडिंग
 fonts-languages-fallback-desc = पुरातन कंटेंटक लेल वर्ण एनकोडिंग जे अपन एन्कोडिंग कए घोषित करबामे विफल रहैत अछि.
+
 fonts-languages-fallback-name-auto =
     .label = वर्तमान लोकेलक लेल पूर्वनिर्धारित
 fonts-languages-fallback-name-arabic =
@@ -115,9 +118,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = वियतनामी
 fonts-languages-fallback-name-other =
     .label = आन (पश्चिमी यूरोपीय सहित)
-fonts-very-large-warning-title = पैघ न्यूनतम फाँट आकार
-fonts-very-large-warning-message = अहाँ बहुत पैध न्यूनतम फॉन्ट साइज चुनने छी (24 पिक्सेल सँ बेसी). एहन कएला सँ ई काज कठिन अथवा किछु महत्वपूर्ण विन्यास पृष्ठ एकरे जेहन केर उपयोग असंभव भ सकैछ.
-fonts-very-large-warning-accept = हमर परिवर्तन बनओने राखू
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

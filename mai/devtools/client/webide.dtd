@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "रनटाइम जानकारी">
 
-<!ENTITY runtimeMenu_showMonitor_label "मानीटर">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "डिवाइस वरीयता">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "डिवाइस सेटिंग्स">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "अनुप्रयोग खोलू">
+
 <!ENTITY runtimeButton_label "रनटाइम चुनू">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "टैब">
 <!ENTITY runtimePanel_usb "यूएसबी अओजार">
 <!ENTITY runtimePanel_wifi "Wi-Fi डिवाइस">
-<!ENTITY runtimePanel_simulator "सिमुलेटर">
 <!ENTITY runtimePanel_other "आन">
-<!ENTITY runtimePanel_installsimulator "सिम्युलेटर स्थापित करू">
-<!ENTITY runtimePanel_noadbhelper "एडीबी हेल्पर स्थापित करू">
 <!ENTITY runtimePanel_nousbdevice "अहाँक उपकरण नहि देख सकैत अछि?">
 
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "एकटा नमूना चुनू">
 <!ENTITY newAppLoadingTemplate "नमूना लोड कए रहल अछि…">
 <!ENTITY newAppProjectName "परियोजना नाम:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "रनटाइम जानकारी">
-<!ENTITY runtimedetails_adbIsRoot "एडीबी रूट अछि:">
-<!ENTITY runtimedetails_summonADBRoot "रूट डिवाइस">
-<!ENTITY runtimedetails_ADBRootWarning "(खुला बूटलोडर चाही)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "अप्रतिबंधित DevTools अधिकार:">
-<!ENTITY runtimedetails_requestPrivileges "उच्चतर अधिकार निवेदित करू">
-<!ENTITY runtimedetails_privilegesWarning "(युक्ति रिबूट करताह. रूट पहुँच चाही.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "बुलियन">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "नव सेटिंग जोड़ू">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "मानीटर">
-<!ENTITY monitor_help "मद्दति ">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,18 +166,6 @@
 
 <!ENTITY logs_title "प्री-पैकेजिंग कमांड लॉग">
 <!-- Simulator Options -->
-
-<!ENTITY simulator_title "सिमुलेटर विकल्प">
-<!ENTITY simulator_remove "सिमुलेटर मेटाबू">
-<!ENTITY simulator_reset "पूर्वनिर्धारित वापस करू">
-
-<!ENTITY simulator_software "साॅफ्टवेयर">
-<!ENTITY simulator_version "संस्करण">
-<!ENTITY simulator_profile "प्रोफाइल">
-<!ENTITY simulator_hardware "हार्डवेयर">
-<!ENTITY simulator_device "डिवाइस">
-<!ENTITY simulator_screenSize "स्क्रीन">
-<!ENTITY simulator_pixelRatio "पिक्सेल अनुपात">
 
 
 
