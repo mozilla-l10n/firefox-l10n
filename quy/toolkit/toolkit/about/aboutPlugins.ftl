@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Plugins nisqamanta
+
 installed-plugins-label = Pluyings nisqa hapichisqakunamanta
 no-plugins-are-installed-label = Manan kanchu chay plugins nisqa hapichisqakuna
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Lliwkaq</span> Kichasqa
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Lliwkaq</span> Kichasqa ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Lliwkaq</span> Sikisqa
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Lliwkaq</span> Sikisqa ({ $blockListState })
+
 mime-type-label = Tipo MIME nisqa
 description-label = Imakaqtañawinchay
 suffixes-label = Chupanchasqasiqikuna.

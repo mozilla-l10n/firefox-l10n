@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; nisqamanta">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; nisqaqa kutitiqrayruwaypin tarikun chaymi mana taqyaqchu kanman">
-<!ENTITY aboutPage.telemetryStart               " hardware,nisqamanta kikinchay imaymanakaqkunata apachiy hinaspa ruwasqanta kikinchayninta ima.">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName; nisqa ">
-<!ENTITY aboutPage.telemetryEnd                 " &brandShortName; nisqata aswanta allin ruwaypi yanapanapaq">
 <!ENTITY aboutPage.checkForUpdates.link         "Imaninantaqipi  kunanchanakuna maskana">
 <!ENTITY aboutPage.checkForUpdates.checking     "Kunanchanakunata maskaspa">
 <!ENTITY aboutPage.checkForUpdates.none         "Manan kanchu kunanchanakunaqa">

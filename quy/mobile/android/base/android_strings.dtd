@@ -4,8 +4,6 @@
 
 <!ENTITY firstrun_panel_title_welcome "Hamuyniyki allin kachun">
 
-<!ENTITY firstrun_urlbar_message "&brandShortName; Nisqaman hamuyniyki allin kachun">
-<!ENTITY firstrun_urlbar_subtext "Ima maskasqaykitapas utqayman tariy, huk iskayta ñitiywan yanapakuspayki.">
 <!ENTITY firstrun_bookmarks_title "Kawsaynin">
 <!ENTITY firstrun_bookmarks_message "Munasqaykikunam, chinpaykipi, chawpichapi tarikuchkan">
 <!ENTITY firstrun_bookmarks_subtext "Kay waqaychasqaykitam, kaychapi tarinki.">
@@ -13,21 +11,12 @@
 <!ENTITY firstrun_data_message "Imakunapas pisilla kaqtinqa, ancha waqaychasqam kan">
 <!ENTITY firstrun_data_subtext2 "Lliw siqita pakachinki, imanisqankunata pisiyanchiki, sapa llikaschasqa ukupi tarikuspayki.">
 <!ENTITY firstrun_sync_title "Kuskanchay">
-<!ENTITY firstrun_sync_message "&brandShortName; kinraychaykipipuni">
-<!ENTITY firstrun_sync_subtext "Sapa kuti yaykuspayki, kikiykipa kasqantawan qawachinakunataima tinkuchinki.">
 <!ENTITY firstrun_signin_message "Yaykuykamuy hinaspa qallariyña">
-<!ENTITY firstrun_signin_button "Yaykumuy Sync nisqaman">
 <!ENTITY  onboard_start_button_browser "Maskayta qallariy">
 <!ENTITY firstrun_button_notnow "Ama kunanqa">
 <!ENTITY firstrun_button_next "Qatiqnin">
 
 <!ENTITY firstrun_tabqueue_title "Tinkuna">
-<!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Tablet nisqata laptopman hapichiy">
-<!ENTITY firstrun_tabqueue_subtext_off "Ñawpaqpaq hukllachayta waqaychaykuy &brandShortName; hinaspayki ñitichaykuy wakinkunawan.">
-
-<!ENTITY firstrun_tabqueue_message_on "¡Allinpuni!">
-<!ENTITY firstrun_tabqueue_subtext_on "Sapa kutim tikraykuna kaykunata &settings; under &pref_category_general;.">
 
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
@@ -192,9 +181,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Qawanapi qichipra nisqata, waqaychaq qillqakunata, llamkanakunata allichapay ">
 <!ENTITY pref_category_notifications "Willakuqkuna">
-<!ENTITY pref_category_notifications_summary "New features, website updates">
-<!ENTITY pref_content_notifications "Website updates nisqa">
-<!ENTITY pref_content_notifications_summary2 "Discover new content from supported sites nisqa">
 <!ENTITY pref_developer_remotedebugging_usb "USB nisqawantakama chinkachiy">
 <!ENTITY pref_developer_remotedebugging_wifi "Wi-Fi nisqawantakama chinkachisqa">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "WiFi llikachasqapi aqllaspa wischuypaqa kananmi hapichiqniyki  app ñawinchaq QR  nisqa">
@@ -259,7 +245,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Download remote fonts when loading a page nisqa">
 
 <!ENTITY pref_tracking_protection_title2 "Puririypa amachaqnin ">
-<!ENTITY pref_tracking_protection_summary3 "Payllapa llikachasqapi kicharisqa">
 <!ENTITY pref_donottrack_title "Mana qatipachinapaq">
 <!ENTITY pref_donottrack_summary "&brandShortName; sapanka tiyaqkunata mana qatipana kasqanta ninqa">
 
@@ -281,11 +266,6 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 
-
-<!ENTITY tracking_protection_prompt_title "Kunanqa puririypi mana qatisunaykipaq amachasqaña ">
-<!ENTITY tracking_protection_prompt_text "Puririypi amachasqañam, manañan imamantapas llakikunaykichu">
-<!ENTITY tracking_protection_prompt_tip_text "Paypa siqinchasqanman yaykuy, anchata yachanaykipaq">
-<!ENTITY tracking_protection_prompt_action_button "Kapuwanmi!">
 
 <!ENTITY tab_queue_toast_message3 "&brandShortName; nisqapi qichipra allichasqa">
 <!ENTITY tab_queue_toast_action "Kunanqa kichay">
@@ -314,23 +294,6 @@
 
 <!ENTITY tab_queue_notification_settings "&brandShortName; nisqapi  tinkuchinakunata amahina kaspa kichaykuy, hinaspa huk tinkuchinakunapa qawanpi Siqinchay.">
 
-<!ENTITY content_notification_summary "&brandShortName; nisqa">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; websites updated nisqa">
-<!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
-     Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Allichaykuna">
-<!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
-     Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "kunanqa ñawinchay">
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Updated on &formatS; nisqa">
-
 <!ENTITY pref_char_encoding "Siqikunata qillqakunata yupaykunaman tikray">
 <!ENTITY pref_char_encoding_on "Akllanapa kaqkunata hawachikuq">
 <!ENTITY pref_char_encoding_off "Ama manakaqta qawachiychu">
@@ -349,7 +312,6 @@
 
 
 <!ENTITY pref_media_autoplay_enabled "Chay kuska mirachiyta kichay">
-<!ENTITY pref_media_autoplay_enabled_summary "Imakaqtawqakunata qawariy llikachasqapi mirayninta huqtawqakunamanpas ">
 <!ENTITY pref_zoom_force_enabled "Kichaykuypuni hatunyaykunata">
 <!ENTITY pref_zoom_force_enabled_summary "Mayqan rapipipas, qillqakunapa sayaynin tikrakunanpaq, qillqasqapa qawanman qillqapay.">
 <!ENTITY pref_voice_input "Rimaypa yaykunan">
@@ -370,14 +332,11 @@
 <!ENTITY pref_private_data_searchHistory "Kawsay machkay">
 <!ENTITY pref_private_data_formdata2 "Kawsaymantapacha">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; nisqamanta qallariy">
-<!ENTITY pref_private_data_passwords2 "Taqi rimaykuna allchasqa">
 <!ENTITY pref_private_data_cache "Cache nisqa">
 <!ENTITY pref_private_data_offlineApps "Imanisqankuna qichusqa llikachasqanmanta.">
 <!ENTITY pref_private_data_siteSettings2 "siqinchasqakuna tiyasqan">
 <!ENTITY pref_private_data_downloadFiles2 "taqtay">
 <!ENTITY pref_private_data_syncedTabs "tupanasqa qichiphakuna">
-
-<!ENTITY pref_default_browser "Make default browser nisqa">
 
 <!ENTITY pref_about_firefox "Add to &brandShortName; nisqaman yapapay ">
 <!ENTITY pref_vendor_faqs "qatiqati tapukuykuna">
@@ -412,7 +371,6 @@
 
 <!ENTITY datareporting_fhr_title "&brandShortName; Nisqapi qalikaymanta willakuy">
 <!ENTITY datareporting_fhr_summary2 "&vendorShortName; nisqawan  imanisqakunata chiqichispa; llikachasqapa qalikayninmanta hinaspataq yanapasunki  yuyaychayta kikinpa llamkayninta.">
-<!ENTITY datareporting_abouthr_title "Qalikayniymanta qillqata qaway">
 <!ENTITY datareporting_telemetry_title "Willakuykuna apachiy">
 <!ENTITY datareporting_telemetry_summary "Hadwarenisqa, imarurasqatapas, kikiykipa imanisqakunatapas, llikachasqaykipi &vendorShortName; nisqaman  mallichiy, &brandShortName; aswan allin kanampaq yanapakunanchikpaq. ">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; nisqa apachinmi pantasqakunamanta willakuykunata &vendorShortName; nisqaman yanapananpaq purichikuqniykita chaninman takyachinanpaq.">
@@ -421,13 +379,6 @@
 <!ENTITY datareporting_crashreporter_title_short "Pantasqakunata taripaspa willakuq">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; nisqapa tarikusqanta willakuq">
 <!ENTITY datareporting_wifi_geolocation_summary4 "¡Yanapay &vendorShortName; nisqata tiqsimuyupi imapas tarikusqanta qawananpaq!  hinaspa maypi WiFi llikachasqapi tarikusqanta willakuy, maypi tarinanta  allinta riqsichinapaq">
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Kikinmanta kunanchaykuna">
-<!ENTITY pref_update_autodownload_wifi "WiFI llikachasqallamanta ">
-<!ENTITY pref_update_autodownload_never "Manan haykaqpas">
-<!ENTITY pref_update_autodownload_always "Wiñaypaq">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Yanapanapaq ">
@@ -475,7 +426,6 @@
 <!ENTITY contextmenu_open_new_tab "Musuq qichiprapi kichay">
 <!ENTITY contextmenu_open_private_tab "Sapallaykipaq qichiprapi  kichay">
 <!ENTITY contextmenu_remove "Wikapay/wischuy">
-<!ENTITY contextmenu_add_to_launcher "Qallariq qawanaman yapay">
 
 <!ENTITY contextmenu_share "Riqsisqaykiman mirachiy">
 <!ENTITY contextmenu_pasteandgo "Laqay hinaspa  riy">
@@ -668,22 +618,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Maskay formato nisqankunata ">
 
 <!ENTITY searchable_description "Kikinchasqakuna hinaspa willaypata">
-<!-- Updater notifications -->
-<!ENTITY updater_start_select2 "Taqtanapaq llamiy ">
-
-<!ENTITY updater_downloading_title2 "Taqtapayasqa  ">
-<!ENTITY updater_downloading_title_failed2 "kikin llikachasqan pantaskan">
-<!ENTITY updater_downloading_select2 "Taqtayta tukuspa kunanchanapaq llamiy">
-<!ENTITY updater_downloading_retry2 "Tuksiy qukmanta">
 
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "&brandShortName;.nisqapi taqiman haykunaykipaqqa chaskiy munayninta">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Haykuchiy">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Musuq yaykuqkunapa">
@@ -697,6 +637,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; nisqa kunan qallarinqa">
 <!ENTITY exit_guest_session_text "llikachasqapi kaqkunaqa kaspaqqa chinkapunqan">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
@@ -737,6 +678,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Kaymanta lluqsiytapunichu munanki?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
@@ -745,6 +687,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code. -->
 
 <!ENTITY devtools_auth_scan_header "QR nisqata kikinta urquspa huqninpi qawarichisunaykipaq">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
@@ -761,6 +704,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Ayllunchispa qaykunantan llikachasqa rimaykunaman hina tuymichakuypi  kicharin ">
 <!ENTITY restrictable_feature_block_list "Qatiqatisutikunaq tatichiynin">
 <!ENTITY restrictable_feature_block_list_description "llikachasqa ukupi mana munasqaykita tatichinapaq">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
@@ -779,15 +723,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY unsupported_sdk_version " &brandShortName; nisqaqa manan (&formatS1;, &formatS2;) kaypiqa llankanqachu ama hina kaychu taqtapay allinta imaninanta">
 
-<!ENTITY eol_notification_title2 "&brandShortName; nanañan kunanchakunqañachu">
-<!ENTITY eol_notification_summary "Aswan yachanapaq tuksiy ">
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; nisqaqa ñan kunanchakusqaña kachkan">
 <!ENTITY whatsnew_notification_summary "tariy kay llikachasqapi ima nisqanta">
-
-<!ENTITY promotion_add_to_homescreen "Qawana  qallariy pataman  yapapay ">
 
 <!ENTITY helper_first_offline_bookmark_title "ñawinchay qichusqanta">
 <!ENTITY helper_first_offline_bookmark_message "Imakaq tarisqa  matipanakuna qaway ñawinchanapa qichusqan">
