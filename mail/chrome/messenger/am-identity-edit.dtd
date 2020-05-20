@@ -3,9 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY identityDialog.style "width: 67ch;">
-<!ENTITY identityTitle.label "পরিচয় মানসমূহ">
+
 <!ENTITY identityListDesc.label "এই পরিচয়টির জন্য মানসমূহ কনফিগার করুন:">
 
 <!ENTITY settingsTab.label       "মানসমূহ">
 <!ENTITY copiesFoldersTab.label "কপিগুলি &amp; ফোল্ডার">
 <!ENTITY addressingTab.label    "রচন &amp; সম্ভাষণ">
+

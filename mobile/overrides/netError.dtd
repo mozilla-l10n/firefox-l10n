@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "পেজ লোড করতে সমস্যা">
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
+
 <!-- Specific error messages -->
 
 
@@ -94,6 +95,7 @@
 <!ENTITY securityOverride.linkText "অথবা আপনি একটি ব্যতিক্রম যোগ করতে পারবেন…">
 <!ENTITY securityOverride.getMeOutOfHereButton "আমি এখান থেকে প্রস্থান করতে চাই!">
 <!ENTITY securityOverride.exceptionButtonLabel "ব্যতিক্রম যোগ করুন…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
@@ -119,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> সুরক্ষা টেকনোলজি ব্যবহার করুন যা সেকেলে এবং ঝুঁকিপূর্ণ আক্রমণের ক্ষেত্রে। একজন আক্রমণকারী সহজে তথ্য বার করতে পারে যা আপনার সুরক্ষিত বলে মনে হয়। ওয়েবসাইটের প্রশাসকের সার্ভারটাকে প্রথমে সুরক্ষা করার দরকার আপনার সাইট পরিদর্শনের সাথে।</p><p>ত্রুটি কোড: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "Return Receipts">
-<!ENTITY receiptSettings.label         "Return Receipts">
 <!ENTITY requestReceipt.label          "When sending messages, always request a return receipt">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "When a receipt arrives:">

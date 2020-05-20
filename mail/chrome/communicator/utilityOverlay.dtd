@@ -29,18 +29,12 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"p"> 
 <!ENTITY deleteCmd.label					"মুছে ফেলুন">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"d"> 
 <!ENTITY selectAllCmd.label					"সমগ্র নির্বাচন">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"a"> 
-<!ENTITY preferencesCmd.label				"বিকল্প...">
-<!ENTITY preferencesCmd.accesskey			"O"> 
 <!ENTITY preferencesCmdUnix.label       "বৈশিষ্ট্যাবলী">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
-<!ENTITY findTypeTextCmd.label "টাইপ করাকালীন টেক্সট অনুসন্ধান করা হবে">
-<!ENTITY findTypeTextCmd.accesskey "x">
 
 <!ENTITY viewMenu.label					"প্রদর্শন"> 
 <!ENTITY viewMenu.accesskey				"v"> 
@@ -49,24 +43,9 @@
 <!ENTITY showTaskbarCmd.label					"স্ট্যাটাস-বার">   
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!ENTITY direct.label                                   "অনলাইন (proxy: none)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "অনলাইন (proxy: manual)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "অনলাইন (proxy: auto)">
-<!ENTITY pac.accesskey                                  "a">
-
-<!ENTITY proxy.label                                    "প্রক্সি কনফিগারেশন...">
-<!ENTITY proxy.accesskey                                "C">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
-
 <!ENTITY closeCmd.label			"বন্ধ করুন">  
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"c">
-
-<!ENTITY closeWindow.label "উইন্ডো বন্ধ করুন">
 
 <!ENTITY quitApplicationCmd.label	"প্রস্থান"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 

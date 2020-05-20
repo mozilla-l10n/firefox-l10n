@@ -45,6 +45,7 @@ import =
 close-button =
     .label = বন্ধ করুন
     .accesskey = C
+
 show-passwords =
     .label = পাসওয়ার্ড প্রদর্শন করা হবে
     .accesskey = P

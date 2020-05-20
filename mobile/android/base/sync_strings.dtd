@@ -5,6 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox সিঙ্ক">
+
 <!ENTITY syncBrand.shortName.label "সুসংগতি">
 
 <!-- Main titles. -->

@@ -8,7 +8,6 @@
 <!ENTITY windowTitle.label "ছবির বৈশিষ্ট্য">
 
 <!ENTITY pixelsPopup.value "পিক্সেল">
-<!ENTITY percentPopup.value "শতাংশ">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "ছবির অবস্থান:">
@@ -24,7 +23,6 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "ছবির পূর্বপ্রদর্শন">
-<!ENTITY MoreFewerButton.tooltip "সম্পাদনযোগ্য প্রদর্শিত বৈশিষ্ট্যের সংখ্যা বৃদ্ধি অথবা হ্রাস করুন">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -48,8 +46,6 @@
 <!ENTITY imagemapBox.label "ছবির ম্যাপ">
 <!ENTITY removeImageMapButton.label "মুছে ফেলুন">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "সম্পাদনা...">
-<!ENTITY editImageMapButton.tooltip "এই ছবির জন্য ক্লিক করার যোগ্য হটস্পট নির্মাণ করুন">
 
 
 <!-- These are the options for image alignment -->
@@ -62,7 +58,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "অন্তর্বর্তী শূণ্যস্থান">
-<!ENTITY spacingBox.tooltip "ছবির চারপাশের শূণ্যস্থান নির্ধারণের জন্য একটি সংখ্যা উল্লেখ করুন">
 <!ENTITY leftRightEditField.label "বাঁদিক ও ডানদিক:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "উপর ও নীচে:">
@@ -73,12 +68,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "লিঙ্ক করা ছবির চারপাশে প্রান্তরেখা প্রদর্শন করুন">
 <!ENTITY showImageLinkBorder.accessKey "B">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "পেজের পটভূমী রূপে স্থাপন করুন">
-<!ENTITY makePageBackgroundCheckbox.tooltip "পেজের পটভূমী রূপে ছবি প্রয়োগ করুন">
-<!ENTITY editImageButton.label "ছবি সম্পাদনা">
-<!ENTITY editImageButton.tooltip "অন্য প্রোগ্রামের সাহায্যে ছবির ফাইল সম্পাদন করুন">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "ফর্ম">

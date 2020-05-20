@@ -4,7 +4,6 @@
 
 
 <!ENTITY addressbookPicker.label            "Address Book:">
-<!ENTITY searchInput.label                  "Search For:">
 <!ENTITY SearchNameOrEmail.label            "Name or Email">
 
 <!ENTITY addtoToFieldMenu.label             "Add to To field">

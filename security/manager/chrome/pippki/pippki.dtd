@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "একটি নতুন সার্টিফিকেট অথোরিটিকে (CA) বিশ্বাস করার অনুরোধ জানানো হয়েছে।">
 <!ENTITY downloadCert.trustSSL "ওয়েব-সাইট সনাক্ত করতে এই CA-টি বিশ্বাস করা হবে।">
 <!ENTITY downloadCert.trustEmail "ই-মেইল ব্যবহারকারীদের সনাক্ত করতে এই CA-টি বিশ্বাস করা হবে।">
-<!ENTITY downloadCert.trustObjSign "সফ্টওয়্যার নির্মাতাদের সনাক্ত করতে এই CA-টি বিশ্বাস করা হবে।">
 <!ENTITY downloadCert.message3 "কোনো ধরনের কর্মের জন্য এই CA-টি বিশ্বাস করার পূর্বে এর সার্টিফিকেট, নিয়মনীতি ও কর্ম প্রণালী (উপলব্ধ হলে) পরীক্ষা করা বাঞ্ছনীয়।">
 <!ENTITY downloadCert.viewCert.label "প্রদর্শন">
 <!ENTITY downloadCert.viewCert.text "CA সার্টিফিকেট পরীক্ষা করুন">

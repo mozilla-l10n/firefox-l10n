@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "সমগ্র নির্বাচন করুন">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "অনুসন্ধান">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

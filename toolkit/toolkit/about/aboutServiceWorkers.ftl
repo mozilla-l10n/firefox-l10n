@@ -9,17 +9,12 @@ about-service-workers-title = সার্ভিস কর্মীদের স
 about-service-workers-main-title = নিবন্ধিত সার্ভিস কর্মীরা
 about-service-workers-warning-not-enabled = সার্ভিস কর্মীদের সক্রিয় করা হয়নি।
 about-service-workers-warning-no-service-workers = কোন সার্ভিস কর্মী নিবন্ধিত হয়নি।
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = উৎস: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Application ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>সক্রিয় ক্যাশ নাম:</st
 waiting-cache-name = <strong>অপেক্ষারত ক্যাশ নাম:</strong> { $name }
 push-end-point-waiting = <strong>পুশ এন্ডপয়েন্ট:</strong> { waiting }
 push-end-point-result = <strong>পুশ এন্ডপয়েন্ট:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = আপডেট করুন
+
 unregister-button = অনিবন্ধিত
+
 unregister-error = এই সেবা কর্মীকে নিবন্ধমুক্ত করতে ব্যর্থ হয়েছে।
+
 waiting = অপেক্ষা করা হচ্ছে…

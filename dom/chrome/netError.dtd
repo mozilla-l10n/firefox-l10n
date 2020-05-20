@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "পৃষ্ঠা লোড করতে সমস্যা">
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
+
 <!-- Specific error messages -->
 
 
@@ -86,3 +87,4 @@
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> সুরক্ষা টেকনোলজি ব্যবহার করুন যা সেকেলে এবং ঝুঁকিপূর্ণ আক্রমণের ক্ষেত্রে। একজন আক্রমণকারী সহজে তথ্য বার করতে পারে যা আপনার সুরক্ষিত বলে মনে হয়। ওয়েবসাইটের প্রশাসকের সার্ভারটাকে প্রথমে সুরক্ষা করার দরকার আপনার সাইট পরিদর্শনের সাথে।</p><p>ত্রুটি কোড: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

@@ -6,5 +6,6 @@
 <!ENTITY  newMessageCmd.key               "M">
 <!ENTITY  newMessageCmd.label             "বার্তা">
 <!ENTITY  newMessageCmd.accesskey         "m">
+
 <!ENTITY  newContactCmd.label             "ঠিকানা বই যোগাযোগ... ">
 <!ENTITY  newContactCmd.accesskey         "C">

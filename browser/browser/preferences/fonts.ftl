@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ফন্ট
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ফন্ট হল
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = আরবি
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = আনুপাতিক
     .accesskey = P
+
 fonts-default-serif =
     .label = সেরিফ (Serif)
 fonts-default-sans-serif =
     .label = সান্স-সেরিফ (Sans Serif)
+
 fonts-proportional-size = আকার
     .accesskey = z
+
 fonts-serif = সেরিফ
     .accesskey = S
+
 fonts-sans-serif = সান্স-সেরিফ
     .accesskey = n
+
 fonts-monospace = মোনোস্পেস
     .accesskey = M
+
 fonts-monospace-size = আকার
     .accesskey = e
+
 fonts-minsize = ফন্টের সর্বনিম্ন আকার
     .accesskey = o
+
 fonts-minsize-none =
     .label = শূণ্য
+
 fonts-allow-own =
     .label = উপরে আপনার উল্লিখিত নির্বাচন উপেক্ষা করে পেজগুলির দ্বারা ব্যবহারযোগ্য ফন্ট নির্বাচনের অনুমতি প্রদান করা হবে
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = লিগ্যাসি সামগ্রীর জন্য ক্যারেক্টার এনকোডিং
 fonts-languages-fallback-desc = এই অক্ষর এনকোডিং সেই সমস্ত লিগ্যাসি বিষয়বস্তুর জন্য ব্যবহার করা হয় যেগুলি নিজেদের এনকোডিং সম্বন্ধিয় তথ্য ঘোষণা করতে ব্যর্থ হয়।
+
 fonts-languages-fallback-label = ফলব্যাক টেক্সট এনকোডিং
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = বর্তমান ডিফল্ট লোকেল
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ভিয়েতনামিস
 fonts-languages-fallback-name-other =
     .label = অন্যান্য (incl. পশ্চিম ইউরোপীয়)
-fonts-very-large-warning-title = বড় নূন্যতম ফন্টের পরিমাপ
-fonts-very-large-warning-message = আপনি খুব বড়ো ফন্ট সাইজ নির্বাচন করেছেন (24 পিক্সেলের বেশি)। এটা হয়তো এই পেজের কিছু গুরুত্বপূর্ণ কনফিগারেশনকে অনেক কঠিন করে দিতে পারে।
-fonts-very-large-warning-accept = আমার পরিবর্তনগুলো যেরম ভাবে হোক রাখুন
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
