@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Di pencereyeke nû de veke
     .accesskey = n
+
 places-new-bookmark =
     .label = Bijareya Nû...
     .accesskey = B
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Navbeynkara Nû
     .accesskey = N
+
 places-view =
     .label = Bibîne
     .accesskey = B
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Li gorî dîrok û malperê
     .accesskey = L
+
 places-delete-domain-data =
     .label = Vê rûpelê ji bîr bike
     .accesskey = b

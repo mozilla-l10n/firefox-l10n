@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Paş
     .accesskey = a
+
 wizard-macos-button-next =
     .label = Bidomîne
     .accesskey = B
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Pêş >
     .accesskey = P
+
 wizard-macos-button-finish =
     .label = Bi dawî bû
 wizard-linux-button-finish =
     .label = Dawî
 wizard-win-button-finish =
     .label = Dawî
+
 wizard-macos-button-cancel =
     .label = Betal
 wizard-linux-button-cancel =

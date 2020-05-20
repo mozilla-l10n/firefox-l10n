@@ -4,6 +4,7 @@
 
 page-title = Agahiyên Tamîrkirinê
 page-subtitle = Ev rûpel ji bo dema ku tu pirsgirêkekê çareser bikî ji te re bibe alîkar, agahiyên teknîkî dihewîne. Eger li bersiva PPP yên { -brand-short-name } digerî, li <a data-l10n-name="support-link">malpera desteka webê</a> binêre.
+
 crashes-id = ID'a Raporkirinê
 extensions-title = Pêvek
 extensions-name = Nav
@@ -20,6 +21,21 @@ modified-prefs-name = Nav
 graphics-title = Grafîk
 a11y-title = Gihîştin
 
+## Media titles
+
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 
@@ -29,6 +45,7 @@ a11y-title = Gihîştin
 
 gpu-driver-version = Guhertoya Ajokarê
 gpu-driver-date = Dîroka Ajokarê
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

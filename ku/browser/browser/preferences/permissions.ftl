@@ -4,30 +4,35 @@
 
 permissions-close-key =
     .key = W
+
 permissions-block =
     .label = Asteng Bike
     .accesskey = g
+
 permissions-session =
     .label = Ji bo daniştinê destûrê bidê
     .accesskey = d
+
 permissions-allow =
     .label = Destûrê bide
     .accesskey = D
+
 permissions-status =
     .label = Rewş
+
 permissions-button-cancel =
     .label = Betal
     .accesskey = B
+
 permissions-capabilities-allow =
     .label = Destûrê bide
 permissions-capabilities-block =
     .label = Asteng Bike
+
 permissions-capabilities-listitem-allow =
     .value = Destûrê bide
 permissions-capabilities-listitem-block =
     .value = Asteng Bike
-permissions-capabilities-listitem-allow-first-party =
-    .value = Destûrê bide partiya pêşî tenê
 permissions-capabilities-listitem-allow-session =
     .value = Ji bo daniştinê destûrê bidê
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = Dikarî diyar bikî ka kîjan malper sazkir
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

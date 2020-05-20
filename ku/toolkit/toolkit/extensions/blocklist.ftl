@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Nûdestpêkirina { -brand-short-name } 'ê
     .accesskey = r
+
 blocklist-label-summary = { -brand-short-name } diyar kir ku ev add-on dibe ku bibe sedema xirabûna saxlemî û ewlehiya te:
 blocklist-soft-and-hard = Add-onseke ku xwediyê rîskeke mezin e ku saxelemî û ewlehiya te xira bike hat astengkirin. Yên din bi rîskeke kêm in, lê bi tundî tê pêşniyarkirin ku wan neçalak bikî û dîsa bidî destpêkirirn.
 blocklist-hard-blocked = Ji bo van add-onan rîskeke bilind heye ku bibin sedema xirabûna saxlemî û ewlehiyê û add-on hatin astengkirin, lê ji bo ku bi temamî werin astengkirin divê tu ji nû ve bidî destpêkirin.
 blocklist-soft-blocked = Ji bo parastina te, bi tundî tê pêşniyarkirin ku van add-onan neçalak bikî û ji nû ve bidî destpêkirin.
 blocklist-more-information =
     .value = Zêdetir agahî
+
 blocklist-blocked =
     .label = Hate Astenkirin
 blocklist-checkbox =

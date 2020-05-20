@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Bijare
+
 sidebar-menu-history =
     .label = Raborî
+

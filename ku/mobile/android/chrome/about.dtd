@@ -4,9 +4,6 @@
 <!ENTITY aboutPage.title                        "Di derbarê &brandShortName;ê de">
 
 
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-
-
 
 
 
@@ -20,3 +17,4 @@
 
 
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+

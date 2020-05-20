@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Ji ber ku zagona têkildariyê yê SSL hat bêbandorkirin, girêdana ewle pêk nayê.
 psmerr-ssl2-disabled = Ji ber ku zagona têkildariyê yê SSL guhertoyeke kevn e, girêdana ewle pêk nayê.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Te belgeyeke pejirandinê ê nederbasdar stand. Ji kerema xwe re bi gerînendeyê pêşkêşkar re bikeve têkiliyê an jî vê peyamê bi riya e-peyamê ji hember re bişeyîne û vê agahiyê bide:
     
     Ev belgeya pejirandinê û belgeyeke din a pejirandinê heman hejmara hilberînê dihundurînin. Ji kerema xwe re belgeyeke pejirandinê ku hejmara hilberînê ya wê cuda ye bistîne.
+
 ssl-error-no-cypher-overlap = Bi peer re têkiliya ewle nehat çêkirin: tu algorîtmaya giştî ya şîfekirinê tune.
 ssl-error-no-certificate = Mifte an jî sertîfîkaya ji bo piştrastkirinê nehat dîtin.
 ssl-error-bad-certificate = Nekarî bi peer re têkiliya ewle pêk bîne: sertîfîkaya peers nehat pejirandin.

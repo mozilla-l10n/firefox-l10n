@@ -21,7 +21,6 @@
 
 
 <!ENTITY firstrun_signin_message "Girêdanê çêke, dest pê bike">
-<!ENTITY firstrun_signin_button "Têkeve Syncê">
 <!ENTITY  onboard_start_button_browser "Dest bi gerê bike">
 
 <!ENTITY firstrun_button_next "Pêşve">
@@ -192,9 +191,6 @@
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Hilpekînan veava bike, teserufa daneyan, amûrên pêşvebirinê">
 <!ENTITY pref_category_notifications "Agahdarî">
-<!ENTITY pref_category_notifications_summary "Taybetiyên nû, nûbûnên malperê">
-<!ENTITY pref_content_notifications "Nûbûnên malperî">
-<!ENTITY pref_content_notifications_summary2 "Ji malperên destekkirî naverokên nû keşf bike">
 <!ENTITY pref_developer_remotedebugging_usb "Bi USB parzûna çewtiyan ya ji dûr ve">
 <!ENTITY pref_developer_remotedebugging_wifi "Bi Wi-Fiyê parzûna çewtiyan ya ji dûr ve">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Ji bo parzûna çewtiyan ya bi Wi-Fiyê pêwîst e ku di cîhaza te de bernamokeke xwendeya QRê sazkirî be.">
@@ -259,7 +255,6 @@
 <!ENTITY pref_show_web_fonts_summary2 "Dema rûpelek bê barkirin fontên dûr jêbar bike">
 
 <!ENTITY pref_tracking_protection_title2 "Parastina Şopandinê">
-<!ENTITY pref_tracking_protection_summary3 "Di Gera Nepen de çalak bû">
 <!ENTITY pref_donottrack_title "Min neşopîne">
 <!ENTITY pref_donottrack_summary "&brandShortName; dê ji malperan re bêje ku tu naxwazî bêyî şopandin">
 
@@ -281,11 +276,6 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 
-
-<!ENTITY tracking_protection_prompt_title "Niha bi Parastina Şopandinê re">
-<!ENTITY tracking_protection_prompt_text "Hêmanên şopîner tên astengkirin, loma tu xeman nexwe.">
-<!ENTITY tracking_protection_prompt_tip_text "Ji bo agahiyên zêdetir serdana eyarên Nepeniyê bike">
-<!ENTITY tracking_protection_prompt_action_button "Min fêm kir!">
 
 <!ENTITY tab_queue_toast_message3 "Hilpekîn di &brandShortName;ê de hat tomarkirin">
 <!ENTITY tab_queue_toast_action "Niha veke">
@@ -314,20 +304,10 @@
 
 <!ENTITY tab_queue_notification_settings "Ji bo ku \&quot;Gelek girêdank bên vekirin\&quot;, tika ye ji bo &brandShortName;ê destûra \&quot;nîşandana di ser bernamokên din re\&quot; bide">
 
-<!ENTITY content_notification_summary "&brandShortName;">
-<!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
-     have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
-     update the website title is used instead of this string.
-     We can't use Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY content_notification_title_plural "&formatD; malper hatin nûkirin">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
-<!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
-     date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
-     documentation for DateFormat.getMediumDateFormat(). -->
-<!ENTITY content_notification_updated_on "Li ser &formatS;ê hat nûkirin">
 
 <!ENTITY pref_char_encoding "Kodkirina karakteran">
 <!ENTITY pref_char_encoding_on "Menuyê nîşan bide">
@@ -347,7 +327,6 @@
 
 
 <!ENTITY pref_media_autoplay_enabled "Destûrê bide lêdana otomatîk">
-<!ENTITY pref_media_autoplay_enabled_summary "Kontrol bike ka malper dikarin vîdyo û naverokên din ên medyayê lê bidin">
 <!ENTITY pref_zoom_force_enabled "Zoomê her tim çalak bike">
 <!ENTITY pref_zoom_force_enabled_summary "Ji bo zoomkirina hemû rûpelan vebijarka rûpelê bi xurtî diguherîne">
 <!ENTITY pref_voice_input "Têketina bideng">
@@ -368,14 +347,11 @@
 <!ENTITY pref_private_data_searchHistory "Dîroka lêgerînê">
 <!ENTITY pref_private_data_formdata2 "Raboriya forman">
 <!ENTITY pref_private_data_cookies2 "Çerez û danişînên çalak">
-<!ENTITY pref_private_data_passwords2 "Têketinên tomarkirî">
 <!ENTITY pref_private_data_cache "Pêşbîr">
 <!ENTITY pref_private_data_offlineApps "Daneyên malperên negirêdayî">
 <!ENTITY pref_private_data_siteSettings2 "Eyarên malperî">
 <!ENTITY pref_private_data_downloadFiles2 "Jêbarkirî">
 <!ENTITY pref_private_data_syncedTabs "Hilpekînên synckirî">
-
-<!ENTITY pref_default_browser "Çêke geroka standard">
 
 <!ENTITY pref_about_firefox "Derbarê &brandShortName;ê de">
 <!ENTITY pref_vendor_faqs "PPP">
@@ -410,7 +386,6 @@
 
 <!ENTITY datareporting_fhr_title "Rapora Tenduristiyê ya &brandShortName;ê">
 <!ENTITY datareporting_fhr_summary2 "Daneyên derbarê tenduristiya geroka te de bi &vendorShortName;ê re parve dike û dibe alîkar ku tu performansa geroka xwe fêm bikî">
-<!ENTITY datareporting_abouthr_title "Rapora min ya Tenduristiyê Nîşan bide">
 <!ENTITY datareporting_telemetry_title "Telemetry">
 <!ENTITY datareporting_telemetry_summary "Ji bo pêşvebirina geroka &brandShortName;ê daneyên têkildarî performans, bikaranîn, reqalav û taybetkirinan bi &vendorShortName;ê re parve dike">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;, ji bo ku geroka te hevgirtîtir û ewletir be raporên têkçûnê ji &vendorShortName;ê re dişîne">
@@ -419,13 +394,6 @@
 <!ENTITY datareporting_crashreporter_title_short "Raporkara Têkçûnê">
 <!ENTITY datareporting_wifi_title2 "Servîsên ciyê cografîk yên &vendorShortName;ê">
 <!ENTITY datareporting_wifi_geolocation_summary4 "Bibe alîkar ku &vendorShortName; cîhanê keşf bike! Ji bo pêşveçûna xizmeta me ya ciyê cografîk ciyê Wi-Fi û hucreyî yê cîhaza xwe parve bike.">
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Nûkirinên otomatîk">
-<!ENTITY pref_update_autodownload_wifi "Tenê bi riya Wi-Fiyê">
-<!ENTITY pref_update_autodownload_never "Tu caran">
-<!ENTITY pref_update_autodownload_always "Her dem">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
 <!ENTITY help_menu "Alîkarî">
@@ -455,6 +423,7 @@
 <!ENTITY set_image_fail "Nikare wêneyê eyar bike">
 <!ENTITY set_image_path_fail "Nikare wêneyê qeyd bike">
 <!ENTITY set_image_chooser_title "Wêneyî eyar bike">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY find_prev "Paşve">
@@ -471,7 +440,6 @@
 <!ENTITY contextmenu_open_new_tab "Di hilpekîneke nû de veke">
 <!ENTITY contextmenu_open_private_tab "Di Hilpekîna Nepen de Veke">
 <!ENTITY contextmenu_remove "Rake">
-<!ENTITY contextmenu_add_to_launcher "Têxe Ekrana Giştî">
 
 <!ENTITY contextmenu_share "Parve bike">
 <!ENTITY contextmenu_pasteandgo "Bizeliqîne &amp; Here">
@@ -663,22 +631,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Ji b &formatS2;yê li &formatS1;ê bigere">
 
 <!ENTITY searchable_description "Bijare û raborî">
-<!-- Updater notifications -->
-<!ENTITY updater_start_select2 "Ji bo jêbarkirinê bipelîne">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; tê jêbarkirin">
-<!ENTITY updater_downloading_title_failed2 "Jêbarkirin bi ser neket">
-<!ENTITY updater_downloading_select2 "Piştî jêbarkirinê ji bo venûkirinê bipelîne">
-<!ENTITY updater_downloading_retry2 "Ji bo dîsa biceribînî bipelîne">
 
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "Ji bo jêbarkirina pelan û venûkirinan destûra depokirinê bide geroka &brandShortName;ê.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Destûrê bide">
 <!-- Guest mode -->    
 
 <!ENTITY new_guest_session "Danişîna mêvanî ya nû">
@@ -699,6 +657,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "...">
 
 <!ENTITY colon ":">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_done "Çêbû">
@@ -723,12 +682,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->

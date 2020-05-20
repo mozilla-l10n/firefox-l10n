@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Di Barkirina Rûpelê de Çewtî">
 <!ENTITY retry.label "Dîsa Biceribîne">
+
 <!-- Specific error messages -->
 
 
@@ -114,3 +115,4 @@ nikare bidomîne.</p>">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

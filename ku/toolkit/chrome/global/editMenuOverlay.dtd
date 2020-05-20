@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Gişî hilbijêre">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "h">
+
 <!ENTITY findCmd.label             "Bibîne">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "B">

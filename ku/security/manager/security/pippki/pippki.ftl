@@ -8,6 +8,7 @@ password-quality-meter = Kalîteya nasnavê diguhere
 
 change-password-window =
     .title = Nasnavê Rêvebiriyê Biguherîne
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Amûrê Ewlekariyê: { $tokenName }

@@ -23,6 +23,7 @@ remove =
 close-button =
     .label = Girtin
     .accesskey = G
+
 remove-all-passwords-prompt = Ji dil dixwazî hemû nasnavan jê bibî?
 remove-all-passwords-title = Hemû nasnavan jê bibe
 no-master-password-prompt = Dixwazî nasnavê xwe nîşan bidî?

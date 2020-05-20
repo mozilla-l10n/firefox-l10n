@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Hûrgiliyên sepanê
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Rake
     .accesskey = R
-app-manager-handle-webfeeds = Ev sepan dikarin bikaranîna Xwedîkirinên Webê'ê ragirin.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Ev sepan dikarin bikaranîna { $type } girêdan'ê ragirin.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Ev sepan dikarin bikaranîna { $type } naverok'ê ragirin.

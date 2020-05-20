@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Rojanekirina bi parçe nehat sepandin. &brandShortName; dê daxistina bi temamî biceribîne.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nikare tê derxe ka rojanekirinek heye an na. Tika ye lê binêre ka &brandShortName;a te guhertoya dawî ya vê ye an na:">
-
+                                           
 <!ENTITY  finishedPage.title              "Rojanekirin ji bo Sazbûnê Amade ye">
 <!ENTITY  finishedPage.text               "Rojanekirin wê cara bê were sazkirin &brandShortName; destpê dike. Tu dikarî &brandShortName; niha ji nû ve bidî destpêkirin, an jî dikarî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Rojanekirin wê di destpêkirina nû ya &brandShortName; were sazkirin. Tu dikarî niha &brandShortName; destpê bikî, an jî xebata xwe bidomînî û paşê dîsa bidî destpêkirin.">
 
 
-<!ENTITY  update.details.label            "Kitekit">
-<!ENTITY  update.installedOn.label        "Li vir hat sazkirin:">
-<!ENTITY  update.status.label             "Rewş:">
