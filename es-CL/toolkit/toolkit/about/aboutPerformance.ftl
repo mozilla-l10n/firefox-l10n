@@ -54,6 +54,7 @@ close-tab =
     .title = Cerrar pestaña
 show-addon =
     .title = Mostrar en el administrador de complementos
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

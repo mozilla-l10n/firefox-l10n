@@ -7,7 +7,9 @@ about-config-warning-title = ¡Hic sunt dracones!
 about-config-warning-text = Cambiar estos ajustes avanzados puede ser perjudicial para la estabilidad, seguridad y el rendimiento de esta aplicación. Debieras continuar solo si tienes certeza de lo que estás haciendo.
 about-config-warning-checkbox = Sigan advirtiéndome, ¡por favor!
 about-config-warning-button = Acepto el riesgo
+
 about-config2-title = Configuraciones avanzadas
+
 about-config-search-input =
     .placeholder = Buscar
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Aceptar el riesgo y continuar
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Cambiar estas preferencias puede afectar el rendimiento o la seguridad de { -brand-short-name }.
+
 about-config-page-title = Preferencias avanzadas
+
 about-config-search-input1 =
     .placeholder = Buscar preferencia por nombre
 about-config-show-all = Mostrar Todo
+
 about-config-pref-add = Añadir
 about-config-pref-toggle = Modificar
 about-config-pref-edit = Editar
 about-config-pref-save = Guardar
 about-config-pref-reset = Restablecer
 about-config-pref-delete = Eliminar
+
 about-config-pref-add-button =
     .title = Añadir
 about-config-pref-toggle-button =
