@@ -21,23 +21,17 @@
 <!ENTITY firstrun_data_message "Minna um gögn, meiri niðurhals sparnaður ">
 <!ENTITY firstrun_data_subtext2 "Ekki hlaða myndir til að spara gagnamagn.">
 <!ENTITY firstrun_sync_title "Samstilla">
-<!ENTITY updatednewfirstrun_sync_title "Reikningur">
-<!ENTITY firstrun_sync_message2 "Halda áfram þar sem frá var horfið.">
 <!ENTITY firstrun_sync_message3 "Samstilltu bókarmerkin þín, ferli og lykilorð yfir í símann þinn.">
 <!ENTITY firstrun_sync_subtext2 "Notaðu samstillingu til að finna bókarmerki, lykilorð og annað sem þú hefur vistað í &brandShortName; á öllum þínum tækjum.">
 <!ENTITY newfirstrun_sync_subtext "Samstilltu á öruggan hátt það sem þú vistar í Firefox á farsímanum yfir á Firefox í tölvunni.">
-<!ENTITY updatednewfirstrun_sync_subtext "Skráðu þig inn með reikningi þínum til að fá sem mest út úr &brandShortName;">
-<!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
 <!ENTITY firstrun_sendtab_title "Senda flipa">
 <!ENTITY firstrun_sendtab_message "Deildu flipa frá farsíma yfir á tölvuna — samstundis.">
-<!ENTITY firstrun_signin_button "Skráðu þig inn til að samstilla">
-<!ENTITY newfirstrun_signin_button "Kveikja á samstillingu">
-<!ENTITY updatednewfirstrun_signin_button "Skrá sig inn í &brandShortName;">
+<!ENTITY firstrun_signin_message "Tengdu þig til að hefjast handa">
 <!ENTITY onboard_start_button_browser "Fara að vafra">
 <!ENTITY firstrun_button_notnow "Ekki núna">
 <!ENTITY firstrun_button_next "Áfram">
 
-<!ENTITY firstrun_signin_button2 "Innskráning">
+<!ENTITY firstrun_signup_button "Skráðu þig">
 
 <!ENTITY firstrun_tabqueue_title "Tenglar">
 
@@ -49,8 +43,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Þú">
 <!ENTITY firstrun_account_message "Ertu með &brandShortName; á öðrum tækjum?">
-
-<!ENTITY firstrun_signup_button "Skráðu þig">
 
 <!ENTITY  onboard_start_restricted1 "Upplifðu öryggi og að vera við stjórnvölinn með þessari einföldu útgáfu af &brandShortName;.">
 
@@ -481,14 +473,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; staðsetningarþjónusta í gangi">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Sjálfvirkar uppfærslur">
-<!ENTITY pref_update_autodownload_wifi "Eingöngu á Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Aldrei">
-<!ENTITY pref_update_autodownload_always "Alltaf">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Hjálp">
 
@@ -755,25 +739,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bókarmerki og ferill">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Uppfærsla tiltæk fyrir &brandShortName;">
-<!ENTITY updater_start_select2 "Snertið til að hala niður">
-
-<!ENTITY updater_downloading_title2 "Hleð niður &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Niðurhal mistókst">
-<!ENTITY updater_downloading_select2 "Snertu til að virkja uppfærsluna eftir að niðurhali loknu">
-<!ENTITY updater_downloading_retry2 "Snertu til að reyna aftur">
-
-<!ENTITY updater_apply_title3 "Uppfærsla höluð niður fyrir &brandShortName;">
-<!ENTITY updater_apply_select3 "Snerta til að setja upp">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Til að hlaða niður skrám og uppfærslum, veittu &brandShortName; aðgang að geymslusvæðinu.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Leyfa">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Ný gesta lota">
 <!ENTITY exit_guest_session "Hætta gesta lotu">
@@ -889,7 +854,6 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Velkomin í &brandShortName;">
 <!ENTITY activity_stream_signin_description "Byrjaðu að stamstilla bókarmerki, lykilorð og fleira með Firefox reikningnum þínum.">
-<!ENTITY activity_stream_signin_button "Innskráning">
 
 <!ENTITY activity_stream_signup_button "Skráðu þig">
 <!ENTITY activity_stream_signin_prompt "Ertu þegar með reikning?">
@@ -953,7 +917,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Hljóð og myndskeið">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ráð og brellur">
-<!ENTITY updater_notification_channel "Uppfærslur fyrir smáforrit">
 <!ENTITY synced_tabs_notification_channel "Samstilltir flipar">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

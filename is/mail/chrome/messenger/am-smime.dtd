@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Nauðsynlegt (ekki er hægt að senda póst nema allir viðtakendur séu með skilríki)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Nota þetta skilríki til að dulkóða og afkóða póst sem er sendur á þig:">
+
 <!ENTITY digitalSign.certificate.button "Velja…">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Hreinsa">
@@ -24,12 +25,15 @@
 <!ENTITY signMessage.label "Skrifa undir póst með rafrænni undirskrift (sjálfgefið)">
 <!ENTITY signMessage.accesskey "d">
 <!ENTITY signingCert.message "Nota þetta skilríki fyrir rafræna undirskrift á pósti sem þú sendir:">
+
 <!ENTITY certificates.label "Skilríki">
 <!ENTITY manageCerts2.label "Umsýsla skilríkja">
 <!ENTITY manageCerts2.accesskey "m">
 <!ENTITY manageDevices.label "Öryggistæki">
 <!ENTITY manageDevices.accesskey "y">
+
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Veldu skilríki">
 <!ENTITY certPicker.info "Skilríki:">
 <!ENTITY certPicker.detailsLabel "Upplýsingar um valið skilríki:">
+

@@ -13,21 +13,27 @@
 editmenu-undo =
     .label = Afturkalla
     .accesskey = u
+
 editmenu-redo =
     .label = Endurtaka
     .accesskey = r
+
 editmenu-cut =
     .label = Klippa
     .accesskey = t
+
 editmenu-copy =
     .label = Afrita
     .accesskey = C
+
 editmenu-paste =
     .label = Líma
     .accesskey = P
+
 editmenu-delete =
     .label = Eyða
     .accesskey = D
+
 editmenu-select-all =
     .label = Velja allt
     .accesskey = A

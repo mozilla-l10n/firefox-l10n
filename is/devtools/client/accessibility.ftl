@@ -11,6 +11,7 @@ accessibility-learn-more = Fræðast meira
 
 accessibility-warning =
     .alt = Aðvörun
+
 accessibility-fail =
     .alt = Villa
 

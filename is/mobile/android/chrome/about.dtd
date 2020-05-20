@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Um &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; er á prófunarstigi og gæti verið rysjóttur">
-<!ENTITY aboutPage.telemetryStart               "Vafrinn sendir upplýsingar um afköst, vélbúnað, notkun og aðlögun sjálfvirkt aftur til   ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "  til að hjálpa við að gera &brandShortName; betri.">
 <!ENTITY aboutPage.checkForUpdates.link         "Athuga með uppfærslur  »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Grennslast fyrir um uppfærslur...">
 <!ENTITY aboutPage.checkForUpdates.none         "Engar uppfærslur tiltækar">

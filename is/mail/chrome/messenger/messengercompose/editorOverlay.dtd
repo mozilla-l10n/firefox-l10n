@@ -6,6 +6,7 @@
 
 <!-- File menu items -->
 <!ENTITY saveCmd.key "S">
+
 <!-- Edit menu items -->
 <!ENTITY pasteNoFormatting.label "Líma án sniðs">
 <!ENTITY pasteNoFormatting.accesskey "m">
@@ -22,6 +23,7 @@
 <!ENTITY checkSpellingCmd2.label "Yfirfara stafsetningu">
 <!ENTITY checkSpellingCmd2.accesskey "Y">
 <!ENTITY checkSpellingCmd2.key "p">
+
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Setja inn">
 <!ENTITY insertMenu.accesskey "i">
@@ -44,11 +46,13 @@
 <!ENTITY insertCharsCmd.accesskey "S">
 <!ENTITY insertBreakAllCmd.label "Lína fyrir neðan mynd(ir)">
 <!ENTITY insertBreakAllCmd.accesskey "y">
+
 <!-- Used just in context popup. -->
 <!ENTITY createLinkCmd.label "Búa til tengil…">
 <!ENTITY createLinkCmd.accesskey "B">
 <!ENTITY editLinkCmd.label "Breyta tengli í nýjum ritli">
 <!ENTITY editLinkCmd.accesskey "i">
+
 <!-- Font Face SubMenu -->
 <!ENTITY FontFaceSelect.tooltip "Veldu leturgerð">
 <!ENTITY fontfaceMenu.label "Leturgerð">
@@ -64,6 +68,7 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
+
 <!-- Font Size SubMenu -->
 <!ENTITY FontSizeSelect.tooltip "Veldu leturstærð">
 <!ENTITY decreaseFontSize.label "Minna">
@@ -91,6 +96,7 @@
 <!ENTITY size-extraLargeCmd.accesskey "ö">
 <!ENTITY size-hugeCmd.label "Risa stórt">
 <!ENTITY size-hugeCmd.accesskey "R">
+
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "Textasnið">
 <!ENTITY fontStyleMenu.accesskey "s">
@@ -127,15 +133,18 @@
 <!ENTITY styleSamp.accesskey "m">
 <!ENTITY styleVar.label "Breyta">
 <!ENTITY styleVar.accesskey "B">
+
 <!ENTITY formatFontColor.label "Textalitur…">
 <!ENTITY formatFontColor.accesskey "r">
 <!ENTITY tableOrCellColor.label "Töflu eða hólf bakgrunnslitur…">
 <!ENTITY tableOrCellColor.accesskey "b">
+
 <!ENTITY formatRemoveStyles.key "Y">
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Fjarlægja nefnda tengla">
 <!ENTITY formatRemoveNamedAnchors.accesskey "r">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
+
 <!ENTITY paragraphMenu.label "Málsgrein">
 <!ENTITY paragraphMenu.accesskey "M">
 <!ENTITY paragraphParagraphCmd.label "Málsgrein">
@@ -156,6 +165,7 @@
 <!ENTITY paragraphAddressCmd.accesskey "g">
 <!ENTITY paragraphPreformatCmd.label "Forsniðið">
 <!ENTITY paragraphPreformatCmd.accesskey "F">
+
 <!-- List menu items -->
 <!ENTITY formatlistMenu.label "Listi">
 <!ENTITY formatlistMenu.accesskey "L">
@@ -171,6 +181,7 @@
 <!ENTITY listDefinitionCmd.accesskey "S">
 <!ENTITY listPropsCmd.label "Lista eigindi…">
 <!ENTITY listPropsCmd.accesskey "L">
+
 <!ENTITY ParagraphSelect.tooltip "Veldu snið málsgreinar">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Meginmál">
@@ -178,6 +189,7 @@
 <!-- isn't used in menu now, but may be added in future -->
 <!ENTITY advancedPropertiesCmd.label "Ítarlegir eiginleikar">
 <!ENTITY advancedPropertiesCmd.accesskey "t">
+
 <!-- Align menu items -->
 <!ENTITY alignMenu.label "Raða">
 <!ENTITY alignMenu.accesskey "a">
@@ -193,30 +205,37 @@
 <!ENTITY alignJustify.label "Jafna">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Stilla jafnt">
+
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Lag">
 <!ENTITY layerSendToBack.tooltip "Senda á bakvið">
 <!ENTITY layerBringToFront.tooltip "Setja fremst">
+
 <!ENTITY increaseIndent.label "Auka inndrátt">
 <!ENTITY increaseIndent.accesskey "i">
 <!ENTITY increaseIndent.key "]">
 <!ENTITY decreaseIndent.label "Minnka inndrátt">
 <!ENTITY decreaseIndent.accesskey "d">
 <!ENTITY decreaseIndent.key "[">
+
 <!ENTITY colorsAndBackground.label "Litir síðu og bakgrunnur…">
 <!ENTITY colorsAndBackground.accesskey "u">
+
 <!-- Table Menu -->
 <!ENTITY tableMenu.label "Tafla">
 <!ENTITY tableMenu.accesskey "T">
+
 <!-- Select Submenu -->
 <!ENTITY tableSelectMenu.label "Velja">
 <!ENTITY tableSelectMenu.accesskey "V">
+
 <!ENTITY tableSelectMenu2.label "Velja töflu">
 <!ENTITY tableSelectMenu2.accesskey "V">
 <!ENTITY tableInsertMenu2.label "Setja inn töflu">
 <!ENTITY tableInsertMenu2.accesskey "i">
 <!ENTITY tableDeleteMenu2.label "Eyða töflu">
 <!ENTITY tableDeleteMenu2.accesskey "E">
+
 <!-- Insert SubMenu -->
 <!ENTITY tableInsertMenu.label "Setja inn">
 <!ENTITY tableInsertMenu.accesskey "i">
@@ -250,6 +269,7 @@
 <!-- Delete SubMenu -->
 <!ENTITY tableDeleteMenu.label "Eyða">
 <!ENTITY tableDeleteMenu.accesskey "E">
+
 <!-- text for "Join Cells" is in editor.properties
      ("JoinSelectedCells" and "JoinCellToRight")
      the access key must exist in both of those strings
@@ -263,6 +283,7 @@
 <!ENTITY convertToTable.accesskey "r">
 <!ENTITY tableProperties.label "Eiginleikar töflu…">
 <!ENTITY tableProperties.accesskey "g">
+
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Valmynd">
 <!ENTITY formatToolbar.tooltip "Sniðslá">
@@ -287,8 +308,8 @@
 <!ENTITY anchorToolbarCmd.tooltip "Setja inn nýja markstiklu eða breyta eiginleikum valinnar markstiklu">
 <!ENTITY TextColorButton.tooltip "Velja lit fyrir texta">
 <!ENTITY BackgroundColorButton.tooltip "Velja lit fyrir bakgrunn">
-<!ENTITY throbber.tooltip "Fara á heimasíðu &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Veldu auðkenningarlit fyrir texta">
+
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Skilgreina leturstærð">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Minni leturstærð">
@@ -306,6 +327,7 @@
 <!ENTITY alignCenterButton.tooltip "Miðja texta">
 <!ENTITY alignRightButton.tooltip "Hægristilla texta">
 <!ENTITY alignJustifyButton.tooltip "Jafna texta bæði eftir vinstri og hægri spássíu">
+
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label "Velja">
 <!ENTITY structSelect.accesskey "V">
@@ -313,6 +335,7 @@
 <!ENTITY structRemoveTag.accesskey "r">
 <!ENTITY structChangeTag.label "Breyta tagi">
 <!ENTITY structChangeTag.accesskey "B">
+
 <!-- TOC manipulation -->
 <!ENTITY insertTOC.label "Setja inn">
 <!ENTITY insertTOC.accesskey "i">

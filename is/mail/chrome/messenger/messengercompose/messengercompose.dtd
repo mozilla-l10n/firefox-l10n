@@ -4,6 +4,7 @@
 
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Skrifa: (ekkert efni)">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Skrá">
 <!ENTITY fileMenu.accesskey "S">
@@ -56,6 +57,7 @@
 <!ENTITY printCmd.label "Prenta…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
+
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Breyta">
 <!ENTITY editMenu.accesskey "e">
@@ -84,8 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Endurnefna viðhengi…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Velja allt">
-<!ENTITY selectAllCmd.key "V">
 <!ENTITY selectAllCmd.accesskey "j">
+<!ENTITY selectAllCmd.key "V">
 <!ENTITY findBarCmd.label "Finna…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -100,6 +102,7 @@
 <!ENTITY findPrevCmd.accesskey "b">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
+
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Skoða
 ">
@@ -116,11 +119,14 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Sérsníða…">
 <!ENTITY customizeToolbar.accesskey "S">
+
 <!ENTITY addressSidebar.label "Tengiliðahliðslá">
 <!ENTITY addressSidebar.accesskey "T">
+
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Snið">
 <!ENTITY formatMenu.accesskey "n">
+
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Valkostir">
 <!ENTITY optionsMenu.accesskey "a">
@@ -132,9 +138,11 @@
 <!ENTITY enableInlineSpellChecker.accesskey "s">
 <!ENTITY quoteCmd.label "Vitna í póst">
 <!ENTITY quoteCmd.accesskey "V">
+
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCard.label "Bæta við persónulegu nafnspjaldi (vCard)">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY returnReceiptMenu.label "Staðfesting á lestri">
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "Staðfesting á móttöku">
@@ -167,6 +175,7 @@
 <!ENTITY fileCarbonCopyCmd.label "Senda afrit til">
 <!ENTITY fileCarbonCopyCmd.accesskey "d">
 <!ENTITY fileHereMenu.label "Setja skrá hérna">
+
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verkfæri">
 <!ENTITY tasksMenu.accesskey "V">
@@ -183,12 +192,14 @@
 <!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
+
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minnka">
 <!ENTITY bringAllToFront.label "Endurheimta">
 <!ENTITY zoomWindow.label "Aðdráttur">
 <!ENTITY windowMenu.label "Gluggi">
+
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "Senda">
 <!ENTITY quoteButton.label "Tilvitnun">
@@ -197,19 +208,19 @@
 <!ENTITY spellingButton.label "Stafsetning">
 <!ENTITY saveButton.label "Vista">
 <!ENTITY printButton.label "Prenta">
+
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "Senda þennan póst núna">
 <!ENTITY sendlaterButton.tooltip "Senda þennan póst seinna">
 <!ENTITY quoteButton.tooltip "Vitna í fyrri póst">
 <!ENTITY addressButton.tooltip "Veldu viðtakanda úr nafnaskránni">
-<!ENTITY attachButton.tooltip "Bæta við viðhengi">
 <!ENTITY spellingButton.tooltip "Athuga stafsetningu á vali eða öllum póstinum">
-<!ENTITY statusLanguageText.tooltip "Tungumál leiðréttingarforrits">
 <!ENTITY saveButton.tooltip "Vista þennan póst">
 <!ENTITY cutButton.tooltip "Klippa">
 <!ENTITY copyButton.tooltip "Afrita">
 <!ENTITY pasteButton.tooltip "Líma">
 <!ENTITY printButton.tooltip "Prenta þennan póst">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -227,6 +238,7 @@
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
 <!ENTITY attachments.accesskey "V">
+
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Setja inn broskarl">
 <!ENTITY smiley1Cmd.label "Bros">
@@ -245,6 +257,7 @@
 <!ENTITY smiley14Cmd.label "Saklaus">
 <!ENTITY smiley15Cmd.label "Gráta">
 <!ENTITY smiley16Cmd.label "Segi ekki orð">
+
 <!-- Message Pane Context Menu -->
 <!ENTITY spellCheckNoSuggestions.label "Fann engar uppástungur">
 <!ENTITY spellCheckIgnoreWord.label "Hunsa orð">
@@ -261,6 +274,7 @@
 <!ENTITY paste.accesskey "L">
 <!ENTITY pasteQuote.label "Líma inn sem tilvitnun">
 <!ENTITY pasteQuote.accesskey "i">
+
 <!ENTITY openAttachment.label "Opna">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Eyða">
@@ -283,11 +297,17 @@
 <!ENTITY convertRegularAttachment.accesskey "V">
 <!ENTITY attachPage.label "Bæta við vefsíðu…">
 <!ENTITY attachPage.accesskey "v">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
 <!ENTITY spellAddDictionaries.accesskey "a">
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "Tengiliðir">
+
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Sérsníða Frá veffang…">
 <!ENTITY customizeFromAddress.accesskey "a">
+

@@ -14,26 +14,33 @@
 
 # Header for the list of Service Workers displayed in the application panel for the current page.
 serviceworker-list-header = Þjónustufólk
+
 # Text for the button to unregister a Service Worker. Displayed for active Service Workers.
 serviceworker-worker-unregister = Afskrá
+
 # Text for the debug link displayed for an already started Service Worker. Clicking on the
 # link opens a new devtools toolbox for this service worker. The title attribute is only
 # displayed when the link is disabled.
 serviceworker-worker-debug = Kemba
     .title = Eingöngu er hægt að kemba keyrandi service workers
+
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start = Byrja
+
 # Text for the debug link displayed for an already started Service Worker, when we
 # are in multi e10s mode, which effectively disables this link.
 serviceworker-worker-debug-forbidden = Villukemba
     .title = Eingöngu hægt að villukemba ef margir e10s eru óvirkjaðir
+
 # Text for the start link displayed for a registered but not running Service Worker.
 # Clicking on the link will attempt to start the service worker.
 serviceworker-worker-start2 = Byrja
     .title = Eingöngu hægt að byrja ef margir e10s eru óvirkjaðir
+
 # Text displayed next to the URL for the source of the service worker (e-g. "Source my/path/to/worker-js")
 serviceworker-worker-source = Heimild
+
 # Text displayed next to the current status of the service worker.
 serviceworker-worker-status = Staða
 
@@ -43,8 +50,11 @@ serviceworker-worker-status = Staða
 # Service Worker status. A running service worker is registered, currently executed, can
 # be debugged and stopped.
 serviceworker-worker-status-running = Í gangi
+
 # Service Worker status. A stopped service worker is registered but not currently active.
 serviceworker-worker-status-stopped = Hætt
+
 # Service Worker status. A registering service worker is not yet registered and cannot be
 # started or debugged.
 serviceworker-worker-status-registering = Er að skrá
+

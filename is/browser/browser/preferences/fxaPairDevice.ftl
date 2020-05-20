@@ -5,5 +5,7 @@
 fxa-pair-device-dialog =
     .title = Tengja annað tæki
     .style = width: 26em; min-height: 35em;
+
 fxa-qrcode-error-title = Pörun misheppnaðist.
+
 fxa-qrcode-error-body = Reyndu aftur.

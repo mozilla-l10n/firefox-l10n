@@ -4,146 +4,176 @@
 
 certmgr-title =
     .title = Umsýsla skilríkja
+
 certmgr-tab-mine =
     .label = Skilríkin þín
+
 certmgr-tab-people =
     .label = Fólk
+
 certmgr-tab-servers =
     .label = Netþjónar
+
 certmgr-tab-ca =
     .label = Vottunarstöðvar
+
 certmgr-mine = Skilríki frá stofnunum sem auðkenna þig
 certmgr-people = Skilríki sem auðkenna þetta fólk
 certmgr-servers = Skilríki sem auðkenna þessi vefsvæði
 certmgr-ca = Skilríki sem auðkenna þessar vottunarstöðvar
+
 certmgr-detail-general-tab-title =
     .label = Almennt
     .accesskey = A
+
 certmgr-detail-pretty-print-tab-title =
     .label = Nánar
     .accesskey = N
+
 certmgr-pending-label =
     .value = Er að sannvotta skilríki…
-certmgr-subject-info-label =
-    .value = Gefið út fyrir
-certmgr-issuer-info-label =
-    .value = Gefið út af
-certmgr-period-of-validity-label =
-    .value = Tímabil í gildi
-certmgr-fingerprints-label =
-    .value = Fingraför
+
 certmgr-subject-label = Gefið út fyrir
+
 certmgr-issuer-label = Gefið út af
+
 certmgr-period-of-validity = Tímabil í gildi
+
 certmgr-fingerprints = Fingraför
+
 certmgr-cert-detail =
     .title = Nánar um skilríki
     .buttonlabelaccept = Loka
     .buttonaccesskeyaccept = L
-certmgr-cert-detail-cn =
-    .value = Almennt nafn (CN)
-certmgr-cert-detail-o =
-    .value = Stofnun (O)
-certmgr-cert-detail-ou =
-    .value = Stofnunareining (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Raðnúmer
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA-256 fingrafar
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 fingrafar
+
 certmgr-cert-detail-commonname = Almennt nafn (CN)
+
 certmgr-cert-detail-org = Stofnun (O)
+
 certmgr-cert-detail-orgunit = Stofnunareining (OU)
+
 certmgr-cert-detail-serial-number = Raðnúmer
+
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 fingrafar
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 fingrafar
+
 certmgr-edit-ca-cert =
     .title = Breyta stillingum CA skilríkja trausts
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Breyta traust stillingum:
+
 certmgr-edit-cert-trust-ssl =
     .label = Þetta skilríki getur auðkennt vefsvæði.
+
 certmgr-edit-cert-trust-email =
     .label = Þetta skilríki getur auðkennt póst notendur.
+
 certmgr-delete-cert =
     .title = Eyða skilríki
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Nafn skilríkis
+
 certmgr-cert-server =
     .label = Netþjónn
+
 certmgr-override-lifetime =
     .label = Æviskeið
+
 certmgr-token-name =
     .label = Öryggistæki
+
 certmgr-begins-on = Byrjar þann
+
 certmgr-begins-label =
     .label = Byrjar þann
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Rennur út
+
 certmgr-expires-label =
     .label = Rennur út
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Netfang
+
 certmgr-serial =
     .label = Raðnúmer
+
 certmgr-view =
     .label = Skoða…
     .accesskey = S
+
 certmgr-edit =
     .label = Breyta trausti…
     .accesskey = e
+
 certmgr-export =
     .label = Flytja út…
     .accesskey = F
+
 certmgr-delete =
     .label = Eyða…
     .accesskey = E
+
 certmgr-delete-builtin =
     .label = Eyða eða vantreysta…
     .accesskey = E
+
 certmgr-backup =
     .label = Afrita…
     .accesskey = A
+
 certmgr-backup-all =
     .label = Afrita allt…
     .accesskey = f
+
 certmgr-restore =
     .label = Flytja inn…
     .accesskey = i
+
 certmgr-details =
     .value = Skilríkjasvæði
     .accesskey = S
+
 certmgr-fields =
     .value = Gildi
     .accesskey = G
+
 certmgr-hierarchy =
     .value = Stigskipting skilríkja
     .accesskey = S
+
 certmgr-add-exception =
     .label = Bæta við undantekningu…
     .accesskey = u
+
 exception-mgr =
     .title = Bæta við öryggisfráviki
+
 exception-mgr-extra-button =
     .label = Staðfesta öryggisfrávik
     .accesskey = S
+
 exception-mgr-supplemental-warning = Löglegir bankar, verslanir, og aðrar opinberar stofnanir munu ekki biðja þig um að gera þetta.
+
 exception-mgr-cert-location-url =
     .value = Staðsetning:
+
 exception-mgr-cert-location-download =
     .label = Ná í skilríki
     .accesskey = N
+
 exception-mgr-cert-status-view-cert =
     .label = Skoða…
     .accesskey = k
+
 exception-mgr-permanent =
     .label = Geyma þessa undanþágu til frambúðar
     .accesskey = G
+
 pk11-bad-password = Innslegið lykilorð er vitlaust.
 pkcs12-decode-err = Gat ekki afkóðað skrá.  Annaðhvort er þetta ekki skrá á PKCS #12 sniði, skráin er skemmd, eða innslegið lykilorð er rangt.
 pkcs12-unknown-err-restore = Vegna óþekktra ástæðna var ekki hægt að endurheimta PKCS #12 skrána.
@@ -176,18 +206,24 @@ delete-user-cert-title =
     .title = Eyða skilríkjum
 delete-user-cert-confirm = Ertu viss um að þú viljir eyða þessum skilríkjum?
 delete-user-cert-impact = Ef þú eyðir þínum eigin skilríkjum geturðu ekki lengur notað þau til að auðkenna sjálfan þig.
+
+
 delete-ssl-cert-title =
     .title = Eyða skilríkja undantekningum netþjóna
 delete-ssl-cert-confirm = Ertu viss um að viljir eyða þessum undantekningum netþjóns?
 delete-ssl-cert-impact = EF þú eyðir undantekningu netþjóns, gerirðu aftur virkar venjulegar öryggisaðgerðir sem athuga netþjóna og gera kröfur um gilt skilríki.
+
 delete-ca-cert-title =
     .title = Eyða eða vantreysta CA skilríkjum
 delete-ca-cert-confirm = Þú hefur valið að eyða CA skilríkjum. Ef þetta er innbyggð skilríki mun allt traust verða fjarlægt, sem hefur sömu áhrif. Ertu viss um að þú viljir eyða eða vantreysta?
 delete-ca-cert-impact = Ef þú eyðir út eða vantreystir skilríki vottunarstöðvar (CA) mun forritið ekki lengur treysta neinum skilríkjum útgefnum af þeirri CA.
+
+
 delete-email-cert-title =
     .title = Eyða póst skilríkjum
 delete-email-cert-confirm = Ertu viss um að þú viljir eyða póst skilríkjum fyrir þetta fólk?
 delete-email-cert-impact = Ef þú eyðir skilríki notanda, muntu ekki lengur geta sent dulkóðaðan póst til viðkomandi.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -203,21 +239,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Skilríkjaskoðari: “{ $certName }”
+
 not-present =
     .value = <Ekki hluti af skilríki>
+
 # Cert verification
 cert-verified = Þetta skilríki hefur verið sannreynt fyrir eftirfarandi notkun:
+
 # Add usage
 verify-ssl-client =
     .value = SSL biðlaraskírteini
+
 verify-ssl-server =
     .value = SSL netþjónsskírteini
+
 verify-ssl-ca =
     .value = SSL Vottunarstöð skilríkja
+
 verify-email-signer =
     .value = Póst skilríki
+
 verify-email-recip =
     .value = Skilríki póstviðtakanda
+
 # Cert verification
 cert-not-verified-cert-revoked = Get ekki sannreynt þetta skilríki vegna þess að það hefur verið afturkallað.
 cert-not-verified-cert-expired = Get ekki sannreynt þetta skilríki vegna þess að það er útrunnið.

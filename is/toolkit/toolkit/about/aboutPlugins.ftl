@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Um tengiforrit
+
 installed-plugins-label = Uppsett tengiforrit
 no-plugins-are-installed-label = Fann ekki nein uppsett tengiforrit
+
 deprecation-description = Vantar eitthvað? Sum tengiforrit eru ekki lengur stutt. <a data-l10n-name="deprecation-link">Lesa meira.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Fylki:</span> Virk
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Fylki:</span> Virk ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Fylki:</span> Óvirkt
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Fylki:</span> Óvirkt ({ $blockListState })
+
 mime-type-label = MIME gerð
 description-label = Lýsing
 suffixes-label = Skráarendingar

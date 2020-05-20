@@ -11,6 +11,7 @@
 <!ENTITY customColorsRadio.label "Nota sérsniðna liti:">
 <!ENTITY customColorsRadio.accessKey "o">
 <!ENTITY customColorsRadio.tooltip "Þessar litastillingar hafa forgang yfir stillingar vafra">
+
 <!ENTITY normalText.label "Venjulegur texti">
 <!ENTITY normalText.accessKey "n">
 <!ENTITY linkText.label "Texti tengils">

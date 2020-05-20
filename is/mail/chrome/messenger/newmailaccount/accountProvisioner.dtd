@@ -7,6 +7,7 @@
 <!ENTITY other.languages "Aðeins eru birtir þjónustuaðilar á þínu svæði.  Smelltu til að sýna alla aðila.">
 <!ENTITY error.line1 "Því miður, fannst ekki nein tillaga að tölvupóstfangi.">
 <!ENTITY error.line2 "Þú getur prófað að leita eftir gælunafni eða öðru til að birta fleiri niðurstöður.">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):
      error.suggest.before, error.suggest.middle, and error.suggest.after all go into
      one line with error.suggest.middle that links to a site which provides download
@@ -14,6 +15,7 @@
 <!ENTITY error.suggest.before "Þú gætir einnig reynt einhverja af þessum ">
 <!ENTITY error.suggest.middle "ókeypis tölvupóst miðlurum">
 <!ENTITY error.suggest.after ".">
+
 <!-- LOCALIZATION NOTE(success.title.before, success.title.after):
      success.title.before and success.title.after all go into one line, wrapping
      around the name that the user has typed in to the search input. -->

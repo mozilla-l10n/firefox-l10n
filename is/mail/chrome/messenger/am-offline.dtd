@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Til að minnka diskpláss, ekki hlaða niður:">
 <!ENTITY doNotDownloadNntp.label "Til að minnka diskpláss, ekki hlaða niður fyrir ónettengda notkun:">
 <!ENTITY doNotDownloadImap.label "Til að minnka diskpláss, er hægt að takmarka eftir aldri eða stærð hvaða póstum er halað niður og geymdir fyrir ónettengda notkun.">
-<!ENTITY allFoldersOffline.label "Geyma afrit af pósti þessa reiknings á þessari tölvu">
-<!ENTITY allFoldersOffline.accesskey "G">
 <!ENTITY offlineNotDownload.label "Póst stærri en">
 <!ENTITY offlineNotDownload.accesskey "P">
 <!ENTITY autosyncNotDownload.label "Ekki sækja stærri skeyti en">
@@ -37,6 +35,7 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "F">
 <!ENTITY syncGroupTitle.label "Samstilla póst">
 <!ENTITY diskspaceGroupTitle.label "Diskpláss">
+
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:

@@ -18,3 +18,7 @@ reader-view = Leshamur
 open-location = Leita eða slá inn vistfang
 share = Deila
 close-window = Loka glugga
+
+## Various categories of shortcuts for search.
+
+##

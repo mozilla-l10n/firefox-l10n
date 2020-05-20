@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Til baka
     .accesskey = b
+
 wizard-macos-button-next =
     .label = Áfram
     .accesskey = f
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Áfram >
     .accesskey = f
+
 wizard-macos-button-finish =
     .label = Ljúka
 wizard-linux-button-finish =
     .label = Ljúka
 wizard-win-button-finish =
     .label = Ljúka
+
 wizard-macos-button-cancel =
     .label = Hætta við
 wizard-linux-button-cancel =

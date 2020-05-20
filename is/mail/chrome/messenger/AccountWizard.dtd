@@ -6,6 +6,7 @@
 
 <!ENTITY windowTitle.label "Reikningahjálp">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
 <!-- Entities for Account Type page -->
 
 <!ENTITY accountSetupInfo2.label "Til að ná í póst, þarftu fyrst að setja upp reikning.">
@@ -16,10 +17,12 @@
 <!ENTITY accountTypeMail.accesskey "T">
 <!ENTITY accountTypeNews.label "Fréttareikningur">
 <!ENTITY accountTypeNews.accesskey "r">
+
 <!-- Entities for Identity page -->
 
 <!ENTITY identityTitle.label "Auðkenni">
 <!ENTITY identityDesc.label "Hver reikningur hefur auðkenni, sem eru þær upplýsingar sem sýna hver þú ert þegar fólk móttekur póst frá þér.">
+
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 <!ENTITY fullnameDesc.label "Sláðu inn nafnið eins og þú vilt láta það birtast í &quot;Frá&quot; svæðinu í póstunum þínum">
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
@@ -29,8 +32,10 @@
 <!ENTITY fullnameExample.label "(til dæmis, &quot;Jón Jónsson&quot;).">
 <!ENTITY fullnameLabel.label "Nafnið þitt:">
 <!ENTITY fullnameLabel.accesskey "N">
+
 <!ENTITY emailLabel.label "Tölvupóstfang:">
 <!ENTITY emailLabel.accesskey "T">
+
 <!-- Entities for Incoming Server page -->
 
 <!ENTITY incomingTitle.label "Upplýsingar fyrir innsendan netþjón">
@@ -59,6 +64,7 @@
 <!ENTITY newsServerNameDesc.label "Sláðu inn nafn fréttaþjóns (NNTP) (til dæmis, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Fréttaþjónn:">
 <!ENTITY newsServerLabel.accesskey "F">
+
 <!-- Entities for Outgoing Server page -->
 
 <!ENTITY outgoingTitle.label "Upplýsingar fyrir útsendan netþjón">
@@ -69,6 +75,7 @@
 <!ENTITY outgoingUsername.description "Sláðu inn það notandanafn sem þú fékkst frá þjónustuveitu fyrir útsendan póst (þetta er venjulega það sama og fyrir innkomin póst).">
 <!ENTITY outgoingUsername.label "Útsent notandanafn:">
 <!ENTITY outgoingUsername.accesskey "n">
+
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
@@ -91,6 +98,7 @@
 -->
 <!ENTITY haveSmtp3.prefix "Útsendur póstþjónn (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, er jafngildur innsendum póstþjóni, notandanafnið fyrir innsendan póst verður notað fyrir aðganginn.">
+
 <!-- Entities for Account name page -->
 
 <!ENTITY accnameTitle.label "Heiti reiknings">
@@ -98,6 +106,7 @@
 <!ENTITY accnameDesc.label "Sláðu inn það nafn sem þú vilt nota fyrir þennan reikning (til dæmis, &quot;Vinna&quot;, &quot;Heima&quot; eða &quot;Fréttir&quot;).">
 <!ENTITY accnameLabel.label "Heiti reiknings:">
 <!ENTITY accnameLabel.accesskey "H">
+
 <!-- Entities for Done (Congratulations) page -->
 
 <!ENTITY completionTitle.label "Til hamingju!">

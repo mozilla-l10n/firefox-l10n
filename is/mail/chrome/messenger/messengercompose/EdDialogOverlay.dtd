@@ -12,6 +12,4 @@
 <!ENTITY makeUrlRelative.label "URL er háð núverandi staðsetningu síðu">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Breyta á milli tilvísunar og raunverulegs URL. Til að geta breytt þessu verðurðu að vista síðuna fyrst.">
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Sláðu inn staðsetningu vefsíðu, staðbundinnar skráar, eða veldu markstiklu eða haus frá flettilista:">
-<!ENTITY LinkURLEditField.accessKey "l">
+

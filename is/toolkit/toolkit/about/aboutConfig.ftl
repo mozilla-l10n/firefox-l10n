@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Ég samþykki áhættuna!
 config-about-warning-checkbox =
     .label = Sýna aðvörun næst
+
 config-search-prefs =
     .value = Leita:
     .accesskey = L
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Afrita
     .accesskey = A
+
 config-copy-name =
     .label = Afrita nafn
     .accesskey = f
+
 config-copy-value =
     .label = Afrita gildi
     .accesskey = g
+
 config-modify =
     .label = Breyta
     .accesskey = B
+
 config-toggle =
     .label = Víxla
     .accesskey = V
+
 config-reset =
     .label = Endursetja
     .accesskey = r
+
 config-new =
     .label = Nýtt
     .accesskey = N
+
 config-string =
     .label = Strengur
     .accesskey = S
+
 config-integer =
     .label = Heiltala
     .accesskey = i
+
 config-boolean =
     .label = Boole gildi
     .accesskey = B
+
 config-default = sjálfgefið
 config-modified = breytt
 config-locked = læst
+
 config-property-string = strengur
 config-property-int = heiltala
 config-property-bool = boole gildi
+
 config-new-prompt = Sláðu inn nafn stillingar
+
 config-nan-title = Ógilt gildi
 config-nan-text = Textinn sem þú slóst inn er ekki tala.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nýtt { $type } gildi
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Sláðu inn { $type } gildi
