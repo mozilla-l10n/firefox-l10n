@@ -20,6 +20,7 @@ open-location = 搜尋或輸入網址
 share = 分享
 close-window = 關閉視窗
 open-sidebar = 側邊欄
+
 # This string describes shortcuts for search.
 search-popover = 搜尋快速鍵
 # Describes searches limited to a specific scope

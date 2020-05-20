@@ -54,6 +54,7 @@ import =
 close-button =
     .label = 關閉
     .accesskey = C
+
 show-passwords =
     .label = 顯示密碼
     .accesskey = P

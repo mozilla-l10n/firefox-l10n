@@ -14,4 +14,5 @@ accounts-conn-security = 連線安全性
 accounts-auth-method = 認證方式
 accounts-default = 預設值？
 identity-name = 身份識別
+
 send-via-email = 透過電子郵件寄出
