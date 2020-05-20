@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = هەبوونی داهاتوو بدۆزەرەوە لە ڕستەکەدا
 findbar-previous =
     .tooltiptext = هەبوونی پێشوو بدۆزرەوە لە ڕستەکەدا
+
 findbar-find-button-close =
     .tooltiptext = لاتەنیشتی دۆزینەوە دابخە
+
 findbar-highlight-all2 =
     .label = هەمووی نیشانە بکە
     .accesskey =
@@ -19,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Highlight all occurrences of the phrase
+
 findbar-case-sensitive =
     .label = دۆخی لەیەکچوون
     .accesskey = C
     .tooltiptext = Search with case sensitivity
+
 findbar-entire-word =
     .label = هەموو وشەکان
     .accesskey = W

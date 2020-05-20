@@ -20,6 +20,7 @@ open-location = بگەڕێ یان ناونیشان بنووسە
 share = بڵاوکردنەوە
 close-window = پەنجەرە دابخە
 open-sidebar = لاتەنیشت
+
 # This string describes shortcuts for search.
 search-popover = بگەڕێ لە قەدبڕەکان
 # Describes searches limited to a specific scope

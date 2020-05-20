@@ -9,14 +9,17 @@ enable-inspect-element-message = بینین و دەستکاریکردنی HTML �
 enable-learn-more-link = زیاتر بزانە دەربارەی ئامرازی گەشەپێدەر
 enable-enable-button = ئامرازی گەشەپێدەر چالاک بکە
 enable-close-button = ئەم بازدەرە دابخە
+
 welcome-title = بەخێربێی بۆ ئامرازی گەشەپێدەری فایەرفۆکس!
 newsletter-title = هەواڵنامەی مۆزیلای گەشەپێدەران
 newsletter-email-placeholder =
     .placeholder = پۆستی ئەلکترۆنی
 newsletter-subscribe-button = بەشدار بە
 newsletter-thanks-title = سوپاس!
+
 footer-title = وەشانی فایەرفۆکسی گەشەپێدەران
 footer-learn-more-link = زیاتر بزانە
+
 features-learn-more = زیاتر بزانە
 features-inspector-title = پشکنەر
 features-console-title = کونسوڵ

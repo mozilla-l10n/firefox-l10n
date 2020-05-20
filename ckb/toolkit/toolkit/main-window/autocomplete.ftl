@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">چوونەژوورەوەکانت بهێنە لە { $browser }</div>
     <div data-l10n-name="line2">بۆ { $host } لەگەڵ ماڵپەڕەکانی تر</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = زیاتر بزانە

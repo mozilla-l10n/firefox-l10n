@@ -23,3 +23,4 @@ appmenu-addon-private-browsing-installed =
 appmenu-addon-post-install-incognito-checkbox =
     .label = ڕێگە بدە ئەم پێوەکراوە لە پەنجەرەی تایبەت کاربکات
     .accesskey = A
+    

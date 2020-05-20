@@ -54,6 +54,7 @@ import =
 close-button =
     .label = داخستن
     .accesskey = C
+
 show-passwords =
     .label = وشەی تێپەڕبوون پیشان بدە
     .accesskey = P

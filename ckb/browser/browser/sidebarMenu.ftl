@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = دڵخوازەکان
+
 sidebar-menu-history =
     .label = مێژوو
+
 sidebar-menu-synced-tabs =
     .label = بازدەرە هاوکاتگەرییەکان
+
 sidebar-menu-close =
     .label = لاتەنیشت دابخە

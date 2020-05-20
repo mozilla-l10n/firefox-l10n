@@ -9,6 +9,7 @@ graph-week-summary =
         [one] { -brand-short-name } لە هەفتەی پێشوودا { $count } چاودێریکەری بلۆک کردووە.
        *[other] { -brand-short-name } لە هەفتەی پێشوودا { $count } چاودێریکەری بلۆک کردووە.
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -18,10 +19,14 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> چاودێریکەر بلۆک کراوە لەوکاتەوە { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> چاودێریکەر بلۆک کراوە لەوکاتەوە { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+  
 lockwise-how-it-works-link = چۆن کار دەکات
+
 turn-on-sync = کارپێکردنی { -sync-brand-short-name }…
     .title = بڕۆ بۆ هەڵبژاردنەکانی هاوکاتگەری
+
 manage-connected-devices = بەڕێوەبردنی ئامێرەکان...
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -29,10 +34,12 @@ lockwise-connected-device-status =
         [one] بەستراوەتەوە بە { $count } ئامێر
        *[other] بەستراوەتەوە بە { $count } ئامێر
     }
+
 monitor-title = بگەڕێ بۆ دزەپێکردنی زانیاریی
 monitor-link = چۆن کار دەکات
 monitor-sign-up = خۆتۆمارکردن بۆ ئاگاداربوون لە دزەکردووەکان
 auto-scan = خۆکارانە چێکی کردووە ئەمڕۆ
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

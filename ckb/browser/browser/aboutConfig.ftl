@@ -4,7 +4,9 @@
 
 about-config-warning-checkbox = بێزارم کە دووبارە، تکایە!
 about-config-warning-button = بە مەترسیەکە ڕازیم
+
 about-config2-title = ڕێکخستنی پێشکەوتوو
+
 about-config-search-input =
     .placeholder = گەڕان
 
@@ -16,15 +18,18 @@ about-config-intro-warning-button = مەترسیەکە وەردەگرم و بە�
 ##
 
 about-config-page-title = هەڵبژاردنی پێشکەوتوو
+
 about-config-search-input1 =
     .placeholder = بگەڕێ بۆ ناوی هەڵبژاردن
 about-config-show-all = هەمووی پیشان بدە
+
 about-config-pref-add = زیادکردن
 about-config-pref-toggle = بەستن و داخستن
 about-config-pref-edit = دەستکاریکردن
 about-config-pref-save = پاشەکەوتکردن
 about-config-pref-reset = نوێکردنەوە
 about-config-pref-delete = سڕینەوە
+
 about-config-pref-add-button =
     .title = زیادکردن
 about-config-pref-toggle-button =

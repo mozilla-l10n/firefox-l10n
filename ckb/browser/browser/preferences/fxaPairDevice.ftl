@@ -5,5 +5,7 @@
 fxa-pair-device-dialog =
     .title = پەیوەندی بکە بە ئامێرێکی تر
     .style = width: 26em; min-height: 35em;
+
 fxa-qrcode-error-title = پێکبەستنەوە سەرکوتوو نەبوو
+
 fxa-qrcode-error-body = دووبارە هەوڵ بدەرەوە.

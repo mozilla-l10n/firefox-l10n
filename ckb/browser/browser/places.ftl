@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = لە پەنجەرەیەکی نویی تایبەت بیکەرەوە
     .accesskey = P
+
 places-new-bookmark =
     .label = دڵخوازی نوێ...
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = جیاکەرەوەی نوێ
     .accesskey = S
+
 places-view =
     .label = پیشاندان
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = بەپێی ڕۆژ و ماڵپەڕ
     .accesskey = t
+
 places-history-search =
     .placeholder = گەڕان لە ناو مێژووی کاردا
 places-bookmarks-search =
     .placeholder = گەڕان لە دڵخوازەکان
+
 places-delete-domain-data =
     .label = دەربارەی ئەم ماڵپەڕە لە بیربکە
     .accesskey = F

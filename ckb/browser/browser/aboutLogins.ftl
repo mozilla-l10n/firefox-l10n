@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = بەدەستهێنانی لە کۆگای گووگڵ
 login-app-promo-apple =
     .alt = داگرتن لە کۆگای ئەپڵ
+
 login-filter =
     .placeholder = گەڕان بۆ چوونەژوورەوەکان
+
 create-login-button = چوونەژوورەوە دروست بکە
+
 fxaccounts-sign-in-text = وشەی تێپەڕەکەت لە ئامێرەکانی ترەوە بەدەستبهێنە
 fxaccounts-sign-in-button = بچۆ ژوورەوە بۆ { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -106,16 +109,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی دەستکاری چوونەژوورە هەڵگیراوەکانت بکەیت.
+
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = چوونەژوورەوەی هەڵگیراو دەستکاریبکە
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕە هەڵگیراوەکانت ببینیت.
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو پیشان بدە
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕە هەڵگیراوەکانت لەبەربگریتەوە.
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = وشەی تێپەڕی هەڵگیراو لەبەربگرەوە
@@ -138,9 +146,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = پاشگەزبوونەوە
 confirmation-dialog-dismiss-button =
     .title = پاشگەزبوونەوە
+
 about-logins-confirm-remove-dialog-title = ئەم چوونەژورەوە دەسڕیتەوە؟
 confirm-delete-dialog-message = ئەم کارە پاشگەزبوونەوەی نیە.
 about-logins-confirm-remove-dialog-confirm-button = بیسڕەوە
+
 confirm-discard-changes-dialog-title = هەڵوەشاندنەوەی گۆڕانکارییە پاشەکەوت نەکراوەکان؟
 confirm-discard-changes-dialog-message = هەموو گۆڕانکارییە پاشەکەوتکراوەکان دەفەوتێت.
 confirm-discard-changes-dialog-confirm-button = هەڵیبوەشێنەوە

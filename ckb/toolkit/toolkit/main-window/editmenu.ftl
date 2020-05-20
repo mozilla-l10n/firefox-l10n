@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = گەڕانەوە
     .accesskey = U
+
 editmenu-redo =
     .label = پێـشتر
     .accesskey = R
+
 editmenu-cut =
     .label = بڕین
     .accesskey = t
+
 editmenu-copy =
     .label = لەبەرگرتنەوە
     .accesskey = C
+
 editmenu-paste =
     .label = لکاندن
     .accesskey = P
+
 editmenu-delete =
     .label = سڕینەوە
     .accesskey = D
+
 editmenu-select-all =
     .label = هەمووی دیاریبکە
     .accesskey = A

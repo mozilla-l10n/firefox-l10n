@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = هاوکاتگەری دەکرێت...
 fxa-toolbar-sync-syncing-tabs =
     .label = هاوکاتگەری بازدەرەکان...
+
 sync-disconnect-dialog-title = چوونەدەرەوە لە { -sync-brand-short-name }؟
 sync-disconnect-dialog-body = { -brand-product-name } دەوەستێت لە هاوکاتگەریپێکردنی هەژمارەکەت بەڵام هیچ لا زانیارییەکانی گەڕانەکانت ناسڕێتەوە لە ئامێرەکە.
 fxa-disconnect-dialog-title = دەردەچیت لە { -brand-product-name }؟

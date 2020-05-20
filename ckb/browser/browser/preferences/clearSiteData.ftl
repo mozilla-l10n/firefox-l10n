@@ -4,10 +4,13 @@
 
 clear-site-data-close-key =
     .key = w
+
 clear-site-data-cookies-info = ئەگەر پاکیبکەیتەوە لەوانەیە بچیتە دەرەوە لەو ماڵپەڕانە.
+
 clear-site-data-cancel =
     .label = پاشگەزبوونەوە
     .accesskey = C
+
 clear-site-data-clear =
     .label = پاککردنەوە
     .accesskey = I
