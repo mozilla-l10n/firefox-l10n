@@ -103,6 +103,7 @@ print-window =
     .title = Sa nari ñadu'ua ñanj
 print-complete =
     .value = Ngà nahuij narij ñadu'ua.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

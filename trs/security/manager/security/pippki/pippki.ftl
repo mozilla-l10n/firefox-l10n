@@ -8,6 +8,7 @@ password-quality-meter = Sa ni’iāj si huā hue’ê da’nga’ huìi
 
 change-password-window =
     .title = Nadunā Da’nga’ Huì A’nïn’ïn
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sa dugumîn sò': { $tokenName }

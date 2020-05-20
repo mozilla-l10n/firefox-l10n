@@ -58,7 +58,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; na’ue gini’in sisi hua ‘ngo sa nahuin nakàa akuan’ nïn. Gi’iaj ‘ngo sunuj
                                            ni’iajt sisi nga nun sa nahuin nakà rukù nïn’ïn ‘iát &brandShortName; si’iaj:">
-
+                                           
 <!ENTITY  finishedPage.title              "Ngà hua yugui da' na'nïnjt man">
 <!ENTITY  finishedPage.text               "Sa hua nahuin nakà ni gayi’ì man gi’iaj sun ma a’ngô ñû &brandShortName; gayi’ì. Sò’ 
                                            ga’ue dunayi’ì ñûnt &brandShortName; hìaj, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man.">
@@ -74,6 +74,3 @@
                                            &brandShortName; hìaj, asi ginun gi’iaj sunt ni nanâ doj dunayi’ìt man, asi si yakaj guendat
                                            sa nahuin nakà nan.">
 
-<!ENTITY  update.details.label            "Doj sa huāa">
-<!ENTITY  update.installedOn.label        "Ngà nanunj:">
-<!ENTITY  update.status.label             "Dàj hua riñaj:">

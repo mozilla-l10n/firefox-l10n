@@ -5,13 +5,15 @@
 app-manager-window =
     .title = daj hua aplikasiôn
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Guxūn
     .accesskey = R
-app-manager-handle-webfeeds = Nej aplikasion 'na na nī ga'ue garasunt 'ngà nej kanal web
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Nej aplikasion 'na na nī ga'ue garasunt 'ngà { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Nej aplikasion 'na na nī ga'ue garasunt da' gi'iaj sunt 'ngà { $type }.

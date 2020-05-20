@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Daj ga ma
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuentes guenda
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arâbiko
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Guña che
     .accesskey = G
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Dàj yachìj man
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Dàj yachìj man
     .accesskey = e
+
 fonts-minsize = Daj yachij ga letra
     .accesskey = D
+
 fonts-minsize-none =
     .label = Gà' huaj
+
 fonts-allow-own =
     .label = Ga'nin da' ni nej pagina nahui daj ga ma, se ru'ua sa gachin gaj.
     .accesskey = G
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Nagi'iaj chre' da'nga'a ma riña sa narikij gà' nà
 fonts-languages-fallback-desc = Sa nagi'iaj chre' nej nuguan' na ni rajsun' ma guenda nej sa gà' na doj.
+
 fonts-languages-fallback-label = Nagi'iaj chre' nuguan' rugujñu'nunj
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Ga'ue nahui' nanj garasun'
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamîta
 fonts-languages-fallback-name-other =
     .label = A'ngoj (daj ru' ruku nee)
-fonts-very-large-warning-title = Daj ga letra
-fonts-very-large-warning-message = Ganahuit ;ngo letra yachij ta'u (yachij ma doj riña 24 píxeles). Si ga'ue gi'iaj sun hu'e è nej pagina ruhuat na'ni't.
-fonts-very-large-warning-accept = Daj nanj huin nī na'ninj so' sa naduno'
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

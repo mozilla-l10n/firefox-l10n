@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Narán
     .accesskey = C
+
 show-passwords =
     .label = Digun da'nga huii
     .accesskey = P

@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Nagi'iaj lij riña aga' sikà' ràa">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Nagi'iaj gachrò' riña aga' sikà' ràa">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Natsîj si kuedât">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Nagi'iaj lij">
 <!ENTITY fullScreenRestore.tooltip "Dunaj daj rû' gaj">
@@ -150,15 +151,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "Da' ga'ue nagi'iaj nuguan'ànt nī da'uît ni'iāj sinïnt dàj hua riña si kuentât.">
 <!ENTITY fxa.unverified.button.label "Na'nïn &syncBrand.shortName.label; Nagi'iaj…">
 
-<!ENTITY pictureInPictureHideToggle.label "Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "Dānaj nutà't si yuguît">
 <!ENTITY fxa.menu.manageAccount.label "Si Kuendâ Administrador…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Nagi'iaj…">
+
+<!ENTITY pictureInPictureHideToggle.label "Ga'nïnj huì sa ni'io' riña sa ni'io' Naduna">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.settings.label "Nagi'iô'">
 <!ENTITY fxa.menu.accountSettings.label "Sa nagi’iô’ riña Kuênda">
 <!ENTITY fxa.menu.signOut.label "Gahuī…">
-<!ENTITY fxa.menu.deviceSettings.label "Nagi'io' aga' nan">
 <!ENTITY fxa.menu.setupSync.label "Nagi’iaj &syncBrand.shortName.label;">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -245,7 +245,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Duniikin'">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Gun' dukuán 'na direksion">
+
 <!ENTITY printButton.label            "Nari' ña du'ua">
 <!ENTITY printButton.tooltip          "Giri' ña du'ua pagina na">
 
@@ -276,8 +278,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Ganikaj ñu'ù' da' garasun' software DRM">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Na'nïn' MIDI panel">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Huā doj nej sa dunâ ni'nïnjt riña sitiô nan da' gi'iaj sun man.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Gi'iaj blokeandot si kamarat guenda sitio web na.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Gi'iaj blokeandot sa uxun nanèe guenda sitio web na.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Gi'iaj blokeandot da' ni si gini'iaj nej dugui' a'ngo hiuj u riña du'ua si aga't.">
@@ -292,7 +292,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Naránt da' nutà' man nej sa huāa guendâ sitiô nan.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Huā doj nej sa dunâ ni'nïnjt riña sitiô nan da' gi'iaj sun man.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Digû' riña gaché nu'">
+
 
 <!ENTITY searchItem.title             "Nana'ui'">
 
@@ -357,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "Dugumî hue'ê' kontenedor">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Ventana nakàa">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -497,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Doj">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Gachrūn nuguan' ruhuât nanà'uìt">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -569,11 +575,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      them when the user has not typed any keyword. -->
 <!ENTITY searchWithHeader.label       "Nana'ui' 'ngà:">
 
-<!-- LOCALIZATION NOTE (searchWithDesc.label):
-     This string prompts the user to use the list of one-click search engines in
-     the Urlbar and searchbar. -->
-<!ENTITY searchWithDesc.label         "Diû nan, nana'uì' ngà:">
-
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
@@ -586,6 +587,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "Ga'nïn' riña a'ngô rakïj ñaj nakàa">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Ga'nïn' riña a'ngô rakïj ñaj nakàa">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -634,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Sa raj sun nichrà' doj pagina na">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "nako' chrej e">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Nanín sa'aj riña Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Nannj sà' pâjina riña Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Na'nïnj sà' link riña Pocket">
@@ -847,18 +851,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Konexiôn yitinj in">
 <!ENTITY identity.connectionNotSecure "Nitaj si yitïnj hua coneksion na">
 
-<!ENTITY identity.connectionSecure3 "Huā seguridâ nikāj koneksiôn">
-<!ENTITY identity.connectionNotSecure2 "Nitāj seguridâ nikāj koneksiôn">
-<!ENTITY identity.connectionNotSecureSecurityView "Nitāj si huā hue'e seguridâ nikāj sitiô nan.">
 <!ENTITY identity.connectionFile "'Ngà nu sa' pajinâ na riña si aga't.">
 <!ENTITY identity.connectionVerified2 "Hua yitïnj sitio na, nikoj:">
-<!ENTITY identity.connectionVerified3 "Riña sitiô nan nī huā seguridâ.">
 <!ENTITY identity.connectionInternal "Nitaj si hua ahī pajina nikaj ñu'unj &brandShortName;">
 <!ENTITY identity.extensionPage "Asij a'ngo hij nachra pajinâ na.">
 <!ENTITY identity.insecureLoginForms2 "Nej sesion ayi'ì hiuna nī nitaj si yitïnj hua ma.">
 <!ENTITY identity.customRoot "'Ngō sa ri sertifikadô nitāj si nani'in Mozilla gini'iāj dàj 'iaj sun koneksiûn nan.">
-
-<!ENTITY identity.evOwnerLabel2 "Sertifikadô giri sa gu’nàj:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; garán ma riña da'aj sa 'na' riña pajinâ na dadin' ahī hua ma.">
@@ -894,7 +892,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Gachinj ni'iô'">
 
-<!ENTITY identity.permissions3 "Gachinj ni'iô'">
 <!ENTITY identity.permissionsEmpty "Nitaj si huaj gatut riña sitio na daj garan' ruat.">
 <!ENTITY identity.permissionsReloadHint "Nagi'iaj nakà ñut pajinâ na da' gi'iaj sun sa nadunat.">
 <!ENTITY identity.permissionsPreferences.tooltip "Na'nïn' sa achín ni'iaj">
@@ -940,12 +937,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "Nù huin saj?">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "Ga'ue gahui a'nan' huā da'āj nej sa 'na' riña sîtio sisī naránt riña man. Huā da'āj nej butûn, formulârio nī riña gayi'ìt sesiûn si gi'iaj sun hue'ê sisī nitāj nej sa naga'nāj a hua.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "Sisī dunâ'àjt nej sa dugumî sò' nī gatū daran' nej sa naga'nāj sò'. Ga'ue nagi'iaj sà'aj da'āj nej sa 'na' riña sîtio nej.">
-<!ENTITY protections.socialMediaTrackers.label "Nej sa naga'nāj nej rêd sosiâl">
-<!ENTITY protections.crossSiteTrackingCookies.label "Nej Kokî nikò' riña nej Sîtio">
-<!ENTITY protections.trackingContent.label "Sa nikò' dàj hua sa màn riñanj">
-<!ENTITY protections.fingerprinters.label "Nej da'nga ra'a">
-<!ENTITY protections.cryptominers.label "Nej kriptominêro">
 <!ENTITY protections.notBlocking.why.etpOff2.tooltip "Gatûj daran’ chre sa naga’nāj a riña sitiô nan dadin’ huā na’àj sa dugumîn.">
 <!ENTITY protections.noTrackersFound.description "Nitāj nej sa naga'nāj ni'în' guendâ&brandShortName; nari'ij riña pajinâ nan.">
 
@@ -1007,8 +998,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "Nej sa naga'nāj nej rêd sosiâl">
 
-<!ENTITY contentBlocking.cookies2.label "Kokî nikò' riña nej sîtio">
-
 <!ENTITY contentBlocking.cryptominers.label "Kriptominêro">
 <!ENTITY contentBlocking.cryptominersView.label "Nej kriptominêro">
 
@@ -1053,6 +1042,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Narán">
 

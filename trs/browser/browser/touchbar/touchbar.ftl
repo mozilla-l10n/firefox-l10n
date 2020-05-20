@@ -19,6 +19,7 @@ open-location = Nana'uì' asi gachrûn direksiûn
 share = Duyingo'
 close-window = Nàrrun' bentâna
 open-sidebar = Dukuán nū yi'ní man
+
 # This string describes shortcuts for search.
 search-popover = Nanà'uì' nej aksêso dirêkto
 # Describes searches limited to a specific scope
@@ -35,3 +36,4 @@ search-titles = Nej si yugui
 
 
 
+##

@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Na'nïn' riña a'ngô rakïj ñaj huìi
     .accesskey = P
+
 places-new-bookmark =
     .label = Markador nakàa…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Sa 'iaj ninin
     .accesskey = S
+
 places-view =
     .label = Gini'iaj
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Da' dato ni sitio
     .accesskey = t
+
 places-history-search =
     .placeholder = Nej sa ni'io' gà' nana'uî'
 places-bookmarks-search =
     .placeholder = Nana'ui' sa raj sun nichrò' doj
+
 places-delete-domain-data =
     .label = Gini'ñu sitio na
     .accesskey = F

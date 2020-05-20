@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Si naduninjt nej ñan du\&apos;uo\&apos; da\&apos; si gutin\&apos; nikôt datos nga atûj riñan internet.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Nāgi\&apos;iaj nuguàn\&apos;àn me markadô, Sa gi\&apos;iát nī men da\&apos;nga\&apos; huìi riña si agâ\&apos;t.">
-<!ENTITY updatednewfirstrun_sync_title "Kuênta">
-<!ENTITY firstrun_sync_message2 "Nakāj danè’ gudunâjt.">
 <!ENTITY firstrun_sync_subtext2 "Garasun Sync da’ nana’uì’t nej marcador, da’nga’ huìi nī a’ngô nej sa nū sà’ riña&brandShortName; riña daran’ nej si agâ’t">
 <!ENTITY newfirstrun_sync_subtext "Nagi\&apos;iaj nuguan\&apos;àn nej rasuun na\&apos;nín sà\&apos;t riña si gagâ\&apos;t li guendâ eskritôrio, da\&apos; gā huì ginunj.">
 <!ENTITY firstrun_sendtab_title "Gā\&apos;nïnj gan\&apos;ānj rakïj ñanj">
 <!ENTITY firstrun_sendtab_message "Duguachîn rakïj ñanj asìj riña si agâ\&apos;t lo gan\&apos;an riña eskritorio — nda nanè chre.">
-<!ENTITY updatednewfirstrun_sync_subtext "Gayi\&apos;ì sesiûn riña si kuendât da\&apos; hue\&apos;êt chre ga\&apos;ue garasunt &brandShortName;">
 <!ENTITY firstrun_signin_message "Gatu ni gayi\&apos;ít">
-<!ENTITY firstrun_signin_button "Gatu\&apos; riña Sync">
-<!ENTITY newfirstrun_signin_button "Nachrūn sa nagi\&apos;aj nuguan\&apos;àan">
-<!ENTITY updatednewfirstrun_signin_button "Nutà\&apos; si yuguît riña &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Gayi\&apos;i gache nunt">
 <!ENTITY firstrun_button_notnow "Si ga\&apos;ue a\&apos;kuan\&apos; \&apos;nin">
 <!ENTITY firstrun_button_next "ne\&apos;ñàan">
 <!ENTITY firstrun_signup_button "Nutà\&apos; si yuguît">
-
-<!ENTITY firstrun_signin_button2 "Gayi\&apos;ì sesiûn">
 
 <!ENTITY firstrun_tabqueue_title "Riña gun\&apos;">
 
@@ -480,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Hiaj ayi\&apos;ì sun nana\&apos;ui\&apos;i">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Nagui\&apos;iaj naka ma\&apos;an man">
-<!ENTITY pref_update_autodownload_wifi "Ma \&apos;ngorïn ngà Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Nitaj ama">
-<!ENTITY pref_update_autodownload_always "Nigànj chre">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Sa ruguj ñu\&apos;unj">
 
@@ -753,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Sa ña\&apos;aan ngà sa gà\&apos; gahuin">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Sa nakà doj hua guendâ &brandShortName; ">
-<!ENTITY updater_start_select2 "Ga\&apos;ui da\&apos; nadunij">
-
-<!ENTITY updater_downloading_title2 "Naduninj &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Girè\&apos; sa naduninjt">
-<!ENTITY updater_downloading_select2 "Guru\&apos;ma ra\&apos;a da\&apos; ga\&apos;ue gi\&apos;iaj sunt ngà \&apos;ngo sa nakà naduninjt">
-<!ENTITY updater_downloading_retry2 "Guru\&apos;ma ra\&apos;a da\&apos; nayi\&apos;ì ñuj">
-
-<!ENTITY updater_apply_title3 "Sa nakà doj ngà nanïnj guendâ &brandShortName;">
-<!ENTITY updater_apply_select3 "Guru\&apos;man ra\&apos;a da\&apos; nañù man">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Da’ ga’ue nadunïnjt nej archivo nī nagi’iāj nakàt, ga’nïn riña &brandShortName; da’ gārayinaj gatūt.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Ga\&apos;nïn">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Sesion nakà \&apos;na\&apos; anêj">
 <!ENTITY exit_guest_session "Gahui\&apos; riña sesion \&apos;na\&apos;a anêj">
@@ -891,8 +856,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Gayi\&apos;ì sesiûn.">
 
-<!ENTITY activity_stream_signin_button "Gayi\&apos;ì sesiûn">
-
 <!ENTITY activity_stream_topsites "Sa yitïnj doj">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Sa gini\&apos;iājt tāj &brandPocket;">
@@ -950,7 +913,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Sa gunïn\&apos; ngà sa ni\&apos;io\&apos;">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; nuguan\&apos; rugûñu\&apos;unj dàj natsít">
-<!ENTITY updater_notification_channel "Sa hua nahuin nakà riña na">
 <!ENTITY synced_tabs_notification_channel "Nej rakïj ñaj guña huaa">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

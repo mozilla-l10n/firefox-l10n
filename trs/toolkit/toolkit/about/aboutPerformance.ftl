@@ -54,6 +54,7 @@ close-tab =
     .title = Narán rakïj ñanj
 show-addon =
     .title = Ni¿iaj riña si administrado nej extensiûn
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

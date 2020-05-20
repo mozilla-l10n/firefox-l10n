@@ -4,6 +4,7 @@
 
 page-title = Nuguan' garasun' dàj nagi'iô' sa hua a'nan'an
 page-subtitle = Ñuna narit nuguan'an rayi'i sa na'ue gi'iaj sun hue'e riña aga' na. Sisi na'na'ui' nuinsaj hua sa hua danaj riña  { -brand-short-name }, ga'ue ni'iaj riña na <a data-l10n-name="support-link">da' rugujñu'un so'</a>.
+
 crashes-title = Nataj sa gire'e
 crashes-id = ID nata'
 crashes-send-date = Nga ga'an
@@ -120,6 +121,7 @@ audio-backend = Sa guni' Backend
 max-audio-channels = Kanal Max
 channel-layout = Nej kanal nihia' doj ruhuât hua
 sample-rate = Dàj nichrà' hua frecuencia garan' ruhuô'
+
 media-title = Sa ni'io'
 media-output-devices-title = Dispositivo sa ahuii
 media-input-devices-title = Dispositivo sa âtuj u
@@ -137,6 +139,8 @@ media-capabilities-title = Dàj nìko ga’ue gimàn multimêdia
 media-capabilities-enumerate = Ganachrūn nûmero riña basê mà dâto
 
 
+
+##
 
 intl-title = Nagi'iô guendâ yumiguìi & Narì' man
 intl-app-title = Sa nikaj aplikasiûn
@@ -163,6 +167,8 @@ remote-debugging-url = URL
 
 
 
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -170,6 +176,7 @@ report-crash-for-days =
         [one] Nej sa guire' { $days } gui
        *[other] Nej sa guire' ne ruku' doj { $days } gui
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -177,6 +184,7 @@ crashes-time-minutes =
         [one] nga gachin { $minutes } minuto
        *[other] nga gachin ngo { $minutes } minutos
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -184,6 +192,7 @@ crashes-time-hours =
         [one] Nga gachin { $hours } hora
        *[other] nga gachin { $hours } horas
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -191,6 +200,7 @@ crashes-time-days =
         [one] Nga gachin { $days } gui
        *[other] nga gachin { $days } gui
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -198,6 +208,7 @@ pending-reports =
         [one] Daran' sa guire'e (nun { $reports } sa guire' hua ni'ninj)
        *[other] Daran ché sa guiere'e (nun { $reports } sa guire' hua ni'ninj
     }
+
 raw-data-copied = Nej datos guire' nachru' riña portapapeles
 text-copied = Nuguan' ngà nachîn riña portapapeles
 
@@ -210,9 +221,11 @@ blocked-mismatched-version = Nitaj si huaj gi'iaj sunj nga versión 'iaj sunt ni
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Narán na sa 'iaj sun nga g´ráfico. Garahué nagui'iaj nakat nga gráfico { $driverVersion } nej a'ngo sa naká doj.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Sa nikaj ñu'unj ClearType
+
 compositing = Daj hua ma
 hardware-h264 = Hardware H264 Decoding
 main-thread-no-omtc = sa ña'anj, doj OMTC
@@ -227,6 +240,7 @@ virtual-monitor-disp = Si pantayê monitor birtual
 
 found = Nari' raj
 missing = Ña guchi'
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Daj huaj
@@ -250,17 +264,21 @@ webgl2-version = WebGL 2 Driver Version
 webgl2-driver-extensions = WebGL 1 Driver Extensión
 webgl2-extensions = WebGL 1 Driver Extensión
 blocklisted-bug = Si ga'ue gi'iaj sunj dadin' hua ngo sa gire'
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = guire'ej { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Nej sa gire'e; daj hua ma { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Nikaj ñu'unj
 d3d11video-crash-guard = D3D11 Sa Ni'io'
 d3d9video-crash-buard = D3D11 Sa Ni'io'
 d3d9video-crash-guard = D3D11 Sa Ni'io'
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Nayi'i' Ne'ña an Doj
 gpu-process-kill-button = Ganahuij 'iaj sun GPU
 gpu-device-reset = Nagi'iaj aga' nan
@@ -270,8 +288,10 @@ content-uses-tiling = Garasun Tiling (Sa nika)
 off-main-thread-paint-enabled = Hua habilitado ne'e tàj ñaan
 off-main-thread-paint-worker-count = Nitaj ne' rà guendâ pinturâ Konde
 target-frame-rate = Dàj hìo 'iaj sun aga' nan
+
 min-lib-versions = Versión ana'uij ñun'
 loaded-lib-versions = Versi´n raj sun'
+
 has-seccomp-bpf = Seccomp-BPF (riña da'ui gachin sa a'min')
 has-seccomp-tsync = Naduyá duhui' Seccomp
 has-user-namespaces = Riña gachun si yuguit
@@ -284,10 +304,12 @@ sandbox-proc-type-content = sa ma
 sandbox-proc-type-file = sa nikaj archîbo
 sandbox-proc-type-media-plugin = plugin 'iaj sun nga sa ni'io'
 sandbox-proc-type-data-decoder = Sa 'iaj dekodifikandô nej dâto
+
 launcher-process-status-0 = Ngà 'iaj sunj
 launcher-process-status-1 = Gire'ej ni nitaj si ni'ñan
 launcher-process-status-2 = Gire'ej niñan man
 launcher-process-status-unknown = Nuni'in nuin saj
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -300,6 +322,7 @@ multi-process-status-6 = Nitaj si 'iaj sun dadin sê gachun' sa nitaj si hua
 multi-process-status-7 = Nitaj si 'iaj sunj rayi'i sa nuto'
 multi-process-status-8 = Nitaj si 'iaj sunj
 multi-process-status-unknown = Nuni'in nuin saj
+
 async-pan-zoom = Encuadro/zoom asíncrono
 apz-none = a'ngoj
 wheel-enabled = 'iaj sun yutu gachin

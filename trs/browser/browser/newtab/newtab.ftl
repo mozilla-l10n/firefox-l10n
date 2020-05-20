@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Nana'uì'
     .aria-label = Nana'uì'
+
 newtab-search-box-search-the-web-text = Nana'ui'  riña web
 newtab-search-box-search-the-web-input =
     .placeholder = Nana'ui'  riña web
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Nagi'io' sitio yitïnj in
 newtab-topsites-title-label = Rà ñanj
 newtab-topsites-title-input =
     .placeholder = Gachrun' rà ñanj
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Gachrun' 'ngo URL
 newtab-topsites-url-validation = 'Ngo URL ni'ñanj an
+
 newtab-topsites-image-url-label = Si URL ña du'ua ma
 newtab-topsites-use-image-link = Garasun' sa nagi'iaj mu'un'...
 newtab-topsites-image-validation = Nu nadusij ma. Garahue 'ngà a'ngo URL.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = Si ga'ue dure' sa 'ngà gahuin na
 newtab-menu-section-tooltip =
     .title = Na'nïn' menû
     .aria-label = Na'nïn' menû
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,13 +90,11 @@ newtab-menu-show-privacy-info = Nej duguî' rugûñu'unj ni sa tna'uej rayi'ît
 
 newtab-privacy-modal-button-done = Gà' huaj
 newtab-privacy-modal-header = Ûta ña'an hua sa gaché nu huìt
-newtab-privacy-modal-paragraph =
-    Hue'ê hua nej nuguan' nata' nej ñûnj, dadànj ni nadigân ñûnj sa hua ñan'an doj nej, ¶ Sa nagui niña nej duguî' ni'in. Ni si giriñu ruhuât nga sa naga'naj a nga aché nunt¶
-    nitaj a'ngo sinuguan't naj riña aga' nan { -brand-product-name } - rugui' ni'iaj ñûnj¶
-    danj naj huaj riña nej duguî' rugûñu'unj un.
 newtab-privacy-modal-link = Gini'in dàj 'iaj sun sa dugumîn sò' riña rakïj ñanj nakà nan
 
 
+
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Durë' sa arajsun nichrò' doj
@@ -160,10 +162,12 @@ newtab-section-header-pocket = Sa hua hue'e taj { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Gayi’ì gachē nunt nī nadigân ñûnj nej sa huā hue’ê doj, gini’iājt nī a’ngô nej pajinâ ni’iāj nakàt doj hiūj nan.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Hua nakà ma. 'Ngà nanikaj ñunt ni nana'uit sa gahuin { $provider }. Si ga'ue gana'uij 'ngà a'. Ganahui 'ngo sa yitïnj doj da' nahuin hue'e si web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -179,8 +183,6 @@ newtab-discovery-empty-section-topstories-timed-out = ¡'Ò'! Ngà doj gachìn n
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Sa yitïnj doj:
 newtab-pocket-more-recommendations = A'ngô ne nuguan ni'ñanj huaa
-newtab-pocket-how-it-works = Dàj 'iaj sunj
-newtab-pocket-whats-pocket = Nùhuin si huin { -pocket-brand-name }?
 newtab-pocket-cta-button = Girì' { -pocket-brand-name }
 newtab-pocket-cta-text = Na'nïnj sà' nej nuguan' 'ï ruhuât riña { -pocket-brand-name } ni gataj ni'ñanj rát ngà nej sa gahiat.
 

@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Ahuin man'an ekstensiûn nutà't riña { -brand-shorter-name } ruhuât ni, si gi'iaj sunj riña Windows huìi sisi gâ'nïnjt riña configurasiûn.
 appmenu-addon-private-browsing-learn-more = Gahuin chrun dàj gi'iaj sunt ngà nej ekstensiûn
+    
 appmenu-new-tab-controlled =
     .label = Nadunà rakïj ñanj.
     .buttonlabel = Gàj run' naduno'

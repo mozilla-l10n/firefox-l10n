@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Ga'nïnj chrej e daran'anj">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Nana'uì'">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

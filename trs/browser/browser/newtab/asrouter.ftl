@@ -11,29 +11,40 @@ cfr-doorhanger-pintab-heading = Gini'iaj ngà nan: Pin Tab
 
 
 
+##
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Nuhuin saj ni'ia na nanj?
+
 cfr-doorhanger-extension-cancel-button = Si ga'ue akuan'ni
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Nuto' hiaj
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Nachrun Rakïj ñanj nan
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Dugumî dàj hua chrej nikaj nej nuguan' narikî nej si
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = Si nadigant riña nuguan' hua nan
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Gahuin chrūn doj
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ne' { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Sā sa'a huin ânj
+
 cfr-doorhanger-extension-notification2 = Nuguan' ganikò't
     .tooltiptext = Ekstensiûn
     .a11y-announcement = Ekstensiûn
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Sā sa'a huin ânj
@@ -59,6 +70,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } nej usuario
     }
+
 cfr-doorhanger-pintab-description = Hìo gatut riña sitiô arâj sunt doj. Dunâj ga ni'nïnj nej man riña 'ngo rakïj ñanj ('Iaj sunj sisi nayi'ì nakà ñûnt).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +78,10 @@ cfr-doorhanger-pintab-description = Hìo gatut riña sitiô arâj sunt doj. Dun�
 cfr-doorhanger-pintab-step1 = <b>Guru'man ra'a ne' huò'</b> riña rakïj ñanj ruhuât na'nïnjt.
 cfr-doorhanger-pintab-step2 = Nagui <b>Pin Tab</b> riña menû.
 cfr-doorhanger-pintab-step3 = Si hua 'ngo sa ga'ue nahuin nakà riña sîtio, ni guruguì' 'ngo da'nga' kuan li riña rakïj ñanj dan.
+
 cfr-doorhanger-pintab-animation-pause = Duyichin' akuan'
 cfr-doorhanger-pintab-animation-resume = Gun ne' ñaa
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +103,22 @@ cfr-protections-panel-link-text = Gahuin chrūn doj
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Sa nikaj nàkaj:
+
 cfr-whatsnew-button =
     .label = Nù huin sa nakà hua
     .tooltiptext = Nù huin sa nakà hua
+
 cfr-whatsnew-panel-header = Nù huin sa nakà hua
+
 cfr-whatsnew-release-notes-link-text = Gahia nuguan' hua rayi'î versiûn nan
+
 cfr-whatsnew-fx70-title = { -brand-short-name } nù huin doj da' ga nìn  gache nunt
 cfr-whatsnew-fx70-body = Sa narán riña nej sa nikò' sò' nahuin hue'ê doj dadin' nagi'iaj nakàt man ni hìo doj ga'ue gachrunt da'nga huìi danè nanj man'an ruhuât gatut.
+
 cfr-whatsnew-tracking-protect-title = Dugumîn man'ânt riña nej sa naga'naj a
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } naran riña daran' nej sa naga'naj sa 'iát riña aché nunt.
 cfr-whatsnew-tracking-protect-link-text = Ni'iaj nuguan' natâ't
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,12 +129,16 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Asìj { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Dàj rugui' riña infôrme
+
 cfr-whatsnew-lockwise-backup-title = Na'nïnj sà' a'ngô hiuj u da'nga' huì nikajt
 cfr-whatsnew-lockwise-backup-body = Ga'ue girit nej da'nga' huì  ni'ñanj guendâ gatut gache nunt danè' man'an huajt.
 cfr-whatsnew-lockwise-backup-link-text = Nachrun ñadu'ua nej kopiâ seguridâ
+
 cfr-whatsnew-lockwise-take-title = Gata nej da'nga' huì nikajt gache nunt
 cfr-whatsnew-lockwise-take-body = Aplikasiûn li { -lockwise-brand-short-name } a'nïnj gatut riña mà ñadu'ua nej kopiâ seguridâ nej da'nga' huì nikajt danè' man'an huajt.
 cfr-whatsnew-lockwise-take-link-text = Nadunïnj aplikasiûn
+
+## Search Bar
 
 ## Picture-in-Picture
 
@@ -183,3 +207,12 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Ni'iaj daran'anj
     .accesskey = S
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
+

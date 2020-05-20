@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Na'nïn Aplikasiôn">
+
 <!ENTITY runtimeButton_label "Ganahui' diu gi'iaj sun ma">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "Aga' USB">
 <!ENTITY runtimePanel_wifi "'Ngà WI-FI">
 <!ENTITY runtimePanel_other "A'ngoj">
-<!ENTITY runtimePanel_noadbhelper "Ga'niïn' sa ruguñu'unj ADB ">
 <!ENTITY runtimePanel_nousbdevice "Na'ue' ni'iaj si aga' ra'?">
 <!ENTITY runtimePanel_refreshDevices_label "Nagi'iaj nakò' nej aga'a">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Si nuguan' ma da' gi'iaj sunj">
-<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
-<!ENTITY runtimedetails_summonADBRoot "Nagi'io' nej aga'a">
-<!ENTITY runtimedetails_ADBRootWarning "(ni'ñanj ma 'ngoò kargador 'iaj sun hue'e)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Nej sa ga'ue gi'iaj sun 'ngà DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "gachin' ñaj du'uèe">
-<!ENTITY runtimedetails_privilegesWarning "(Nayi'ì ñu aga' na. Da'ui garayina root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">

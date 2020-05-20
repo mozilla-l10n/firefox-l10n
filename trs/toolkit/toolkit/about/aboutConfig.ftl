@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Hua nika ruhuâj sa gahuin
 config-about-warning-checkbox =
     .label = Gataj na'anj nugun' nan a'ngô ñûn
+
 config-search-prefs =
     .value = Nana’uì':
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Guxun
     .accesskey = C
+
 config-copy-name =
     .label = Guxun si yugui ni nachrunt a'ngô hiuj u
     .accesskey = N
+
 config-copy-value =
     .label = Guxun sa du'uee ni nachrunt a'ngô hiuj u
     .accesskey = V
+
 config-modify =
     .label = Naduna da' huaj
     .accesskey = M
+
 config-toggle =
     .label = Sa dugu'nïn'
     .accesskey = T
+
 config-reset =
     .label = Nagi'iaj ñun
     .accesskey = R
+
 config-new =
     .label = Notîsia
     .accesskey = W
+
 config-string =
     .label = Sa nanikò' dugui'i
     .accesskey = S
+
 config-integer =
     .label = Hua chre' ma
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = Sa ngà' 'na' niñaan
 config-modified = Ngà nadunaj:
 config-locked = Hua blokeadoj
+
 config-property-string = Sa nanikò' dugui'i
 config-property-int = Hua chre' ma
 config-property-bool = Boolean
+
 config-new-prompt = Gachrun si yugui huin ruhuât
+
 config-nan-title = Nitaj si ni'ñanj man
 config-nan-text = Sê nûmero huin nuguan' gachrûnt
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Sa du'ue { $type } nakàa
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Gachrun { $type } sa du'uee

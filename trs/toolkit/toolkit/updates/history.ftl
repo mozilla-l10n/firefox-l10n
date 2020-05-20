@@ -4,27 +4,24 @@
 
 history-title = Riña ma sa nagui'iaj nako'
 history-intro = Ngà ‘iaj sun nej sa nahuin nakà ‘na’ nan
+
 close-button-label =
     .buttonlabelcancel = Narán
     .title = Riña ma sa nagui'iaj nako'
+
 no-updates-label = Gàchin gatū gi’iaj sun nej sa nahuin nakàa
 name-header = Nagi’iaj nakâ si yugui
 date-header = Gui na'nïnt 'iaj sun man
 type-header = Dugui'
 state-header = Dàj huaj
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Doj sa huāa
 update-installed-on = Ngà nanunj: { $date }
 update-status = Dàj hua riñaj: { $status }

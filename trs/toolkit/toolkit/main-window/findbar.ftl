@@ -9,12 +9,10 @@ findbar-next =
     .tooltiptext = Narì' sa tàj ñan riña yi'nïn' nuguan' dan
 findbar-previous =
     .tooltiptext = Narì' sa nikò' rukù riña yi'nïn' nuguan' dan
+
 findbar-find-button-close =
     .tooltiptext = Narán riña chrún achrûn' nuguan' nana'uî'
-findbar-highlight-all =
-    .label = Nagi'iaj rangà' daran'anj
-    .accesskey = l
-    .tooltiptext = Nagi'iaj rangà' daran' chre nej sa nikaj' dugui' ngà nuguan' dan
+
 findbar-highlight-all2 =
     .label = Nagi'aj rangà' daran'anj
     .accesskey =
@@ -23,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Nadigân ña ahui nej frâse
+
 findbar-case-sensitive =
     .label = Match Case
     .accesskey = C
     .tooltiptext = Nana'uì' ngà nej mayûskula
+
 findbar-entire-word =
     .label = Nuguan' hua chre'e
     .accesskey = W
