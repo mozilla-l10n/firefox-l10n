@@ -61,5 +61,3 @@ urlbar-placeholder =
     .placeholder = Nyaka goba o tsenye aterese
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
-urlbar-go-end-cap =
-    .tooltiptext = Eya atereseng go para ya lefelo
