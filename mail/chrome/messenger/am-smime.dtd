@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "প্রয়োজন (সকল প্রাপকের সার্টিফিকেট না থাকলে বার্তা প্রেরণ করা যায় না) (u)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "আপনার কাছে প্রেরিত বার্তা এনক্রিপ্ট ও ডিক্রিপ্ট করতে, এই সার্টিফিকেটটি ব্যবহার করা হবে:">
+
 <!ENTITY digitalSign.certificate.button "নির্বাচন…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "পরিষ্কার">
@@ -26,7 +27,6 @@
 <!ENTITY signingCert.message "আপনার প্রেরিত বার্তায় ডিজিটালভাবে স্বাক্ষর করতে, এই সার্টিফিকেটটি ব্যবহার করা হবে:">
 
 <!ENTITY certificates.label "সার্টিফিকেট">
-<!ENTITY manageCerts.label "সার্টিফিকেট প্রদর্শন (V)">
-<!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "নিরাপত্তা ডিভাইস (y)">
 <!ENTITY manageDevices.accesskey "y">
+

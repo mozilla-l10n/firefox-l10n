@@ -2,43 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField2.label "প্রাপক">
-<!ENTITY fromField2.label "প্রেরক">
-<!ENTITY senderField2.label "প্রেরক">
-<!ENTITY organizationField2.label "প্রতিষ্ঠান">
-<!ENTITY replyToField2.label "উত্তর দেয়ার ঠিকানা">
-
-<!ENTITY subjectField2.label "বিষয়">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc">
-<!ENTITY newsgroupsField2.label "নিউজগ্রুপ">
-<!ENTITY followupToField2.label "অনুসরণ করা হবে">
-<!ENTITY tagsHdr2.label "ট্যাগ">
-<!ENTITY dateField2.label "তারিখ">
-<!ENTITY userAgentField2.label "ব্যবহারকারী-এজেন্ট">
-<!ENTITY referencesField2.label "রেফারেন্স">
-<!ENTITY messageIdField2.label "বার্তা-id">
-<!ENTITY inReplyToField2.label "এর উত্তরে">
-<!ENTITY originalWebsite2.label "ওয়েবসাইট">
-
-<!ENTITY editMessageDescription.label "এটি একটি খসড়া বার্তা">
-<!ENTITY editMessageButton.label "সম্পাদনা...">
-<!ENTITY hdrArchiveButton.label "আর্কাইভ">
-<!ENTITY hdrArchiveButton.tooltip "এই বার্তাটি আর্কাইভ করা হবে">
-<!ENTITY hdrReplyButton.label "উত্তর">
-<!ENTITY hdrReplyButton.tooltip "বার্তাটির উত্তর পাঠানো হবে">
-<!ENTITY hdrReplyAllButton.label "সবাই কে উত্তর দেয়া হবে">
-<!ENTITY hdrReplyAllButton.tooltip "প্রেরক এবং সব প্রাপককে উত্তর পাঠানো হবে">
-<!ENTITY hdrReplyListButton.label "উত্তর প্রেরণের ঠিকানা">
-<!ENTITY hdrReplyListButton.tooltip "মেইলিং লিস্টে উত্তর দেয়া হবে">
-<!ENTITY hdrForwardButton.label "ফরওয়ার্ড">
-<!ENTITY hdrForwardButton.tooltip "বার্তাটি ফরওয়ার্ড করা হবে">
-<!ENTITY hdrJunkButton.label "অপ্রয়োজনীয়">
-<!ENTITY hdrJunkButton.tooltip "হাবি জাবি হিসেবে বার্তাটি চিহ্নিত করা হবে">
-<!ENTITY hdrTrashButton.label "মুছে ফেলা">
-<!ENTITY hdrTrashButton.tooltip "বার্তাটি মুছে ফেলা হবে">
-
 <!ENTITY hdrViewToolbarShowFull.label "আইকন এবং টেক্সট প্রদর্শন (a)">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
 <!ENTITY hdrViewToolbarShowIcons.label "শুধু আইকন প্রদর্শন (I)">
@@ -47,24 +10,6 @@
 <!ENTITY hdrViewToolbarShowText.accesskey "T">
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "প্রেরককে সবসময় উত্তর দেখানো হবে (R)">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "R">
-
-<!ENTITY otherActionsButton.label "অন্যান্য ক্রিয়া">
-<!ENTITY otherActionsOpenConversation.label "কথোপকথনে খুলুন (c)">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "নতুন উইন্ডোতে খুলুন (w)">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "w">
-<!ENTITY otherActionsOpenInNewTab.label "নতুন ট্যাবে খুলুন (t)">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "পঠিত হিসেবে চিহ্নিত করা হবে (r)">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "অপঠিত হিসেবে চিহ্নিত করুন (r)">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "নতুনভাবে সংরক্ষণ... (s)">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "সোর্স দেখা... (v)">
-<!ENTITY viewSourceMenuItem.accesskey "v">
-<!ENTITY otherActionsPrint.label "মুদ্রণ… (p)">
-<!ENTITY otherActionsPrint.accesskey "p">
 
 <!ENTITY openAttachmentCmd.label "খুলুন (O)">
 <!ENTITY openAttachmentCmd.accesskey "O">

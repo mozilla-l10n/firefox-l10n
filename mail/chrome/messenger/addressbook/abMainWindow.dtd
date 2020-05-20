@@ -74,8 +74,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "বৈশিষ্ট্য... (i)">
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -89,12 +87,8 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "স্বনির্বাচন… (C)">
 <!ENTITY customizeToolbar.accesskey "C">
-<!ENTITY showContactPane.label "পরিচিতির সারসংক্ষেপ পেন (C)">
-<!ENTITY showContactPane.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "অন্যভাবে নাম প্রদর্শন (N)">
 <!ENTITY menu_ShowNameAs.accesskey "N">
-<!ENTITY firstLastCmd.label "প্রথমাংশ, শেষাংশ (F)">
-<!ENTITY firstLastCmd.accesskey "F">
 <!ENTITY lastFirstCmd.label "শেষাংশ, প্রথমাংশ (L)">
 <!ENTITY lastFirstCmd.accesskey "L">
 <!ENTITY displayNameCmd.label "নাম প্রদর্শন (D)">
@@ -114,8 +108,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "এক্সপোর্ট… (E)">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "অপশন... (O)">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "পছন্দসমূহ... (n)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!-- Address Book Toolbar and Context Menus -->  
@@ -124,8 +116,6 @@
 <!ENTITY newContactButton.accesskey "C">
 <!ENTITY newlistButton.label "নতুন তালিকা (L)">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton2.label "বৈশিষ্ট্য (P)">
-<!ENTITY editButton2.accesskey "P">
 <!ENTITY newmsgButton.label "লিখুন (W)">
 <!ENTITY newmsgButton.accesskey "W">
 <!ENTITY newIM.label "তাৎক্ষণিক বার্তা (I)">
@@ -136,13 +126,11 @@
 
 <!ENTITY newContactButton.tooltip "ঠিকানা বইয়ে নতুন পরিচিতি তৈরি করা হবে">
 <!ENTITY newlistButton.tooltip "নতুন তালিকা তৈরি করা হবে">
-<!ENTITY editButton2.tooltip "নির্বাচিত আইটেম সম্পাদনা করা হবে">
 <!ENTITY newmsgButton.tooltip "মেইল বার্তা প্রেরণ">
 <!ENTITY newIM.tooltip "একটি তাৎক্ষণিক বার্তা প্রেরণ করুন বা আড্ডায় বসুন">
 <!ENTITY deleteButton2.tooltip "নির্বাচিত আইটেম মুছে ফেলা">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label "ঠিকানা বই">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "নাম বা ইমেইল (N)">
@@ -156,8 +144,6 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "ইমেইল (E)">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "পর্দার নাম (S)">
-<!ENTITY ScreenName.accesskey "S">
 <!ENTITY Company.label "প্রতিষ্ঠান (z)">
 <!ENTITY Company.accesskey "z">
 <!ENTITY NickName.label "ডাকনাম (i)">
@@ -184,6 +170,7 @@
 <!ENTITY sortDescending.accesskey "D">
 <!ENTITY _PhoneticName.label "ফোনেটিক নাম (o)">
 <!ENTITY _PhoneticName.accesskey "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

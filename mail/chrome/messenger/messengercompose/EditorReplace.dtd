@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "খুঁজুন এবং প্রতিস্থাপন করুন">
 <!ENTITY findField.label "পাঠ্য অনুসন্ধান (n):">
 <!ENTITY findField.accesskey "n">

@@ -11,14 +11,17 @@ enable-key-shortcut-message = আপনি শর্টকাট  Developer Tool
 enable-learn-more-link = ডেভেলোপার টুল সম্পর্কে আরও জানুন
 enable-enable-button = ডেভেলপার টুল সক্রিয় করুন
 enable-close-button = এই ট্যাব বন্ধ করুন
+
 welcome-title = Firefox ডেভেলপার টুলে স্বাগতম!
 newsletter-title = Mozilla ডেভেলপার নিউজলেটার
 newsletter-email-placeholder =
     .placeholder = ইমেইল
 newsletter-subscribe-button = সাবস্ক্রাইব
 newsletter-thanks-title = ধন্যবাদ!
+
 footer-title = Firefox Developer Edition
 footer-learn-more-link = আরও জানুন
+
 features-learn-more = আরও জানুন
 features-inspector-title = পরিদর্শক
 features-console-title = কনসোল

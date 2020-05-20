@@ -4,9 +4,6 @@
 
 <!ENTITY prefWindow.titleWin "অপশন">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; পছন্দসমূহ">
-<!ENTITY prefWindow.styleWindows "width: 50em; min-height: 45em;">
-<!ENTITY prefWindow.styleMac "width: 50em;">
-<!ENTITY prefWindow.styleGNOME "width: 50em; min-height: 45em;">
 
 <!ENTITY paneGeneral.title "সাধারণ">
 <!ENTITY paneDisplay.title "প্রদর্শন">
@@ -14,3 +11,4 @@
 <!ENTITY paneAttachments.title "সংযুক্তি">
 <!ENTITY paneSecurity.title "নিরাপত্তা">
 <!ENTITY paneAdvanced.title "উচ্চ পর্যায়">
+

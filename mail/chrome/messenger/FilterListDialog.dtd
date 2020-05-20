@@ -26,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "নির্বাচিত পরিশোধক যেখানে চালাবেন: (c)">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "এই ফোল্ডারটি নির্বাচন করা হবে">
-<!ENTITY choosethisnewsserver.label "এই খবর সার্ভার নির্বাচন করা হবে">
 <!ENTITY helpButton.label "সহায়তা (H)">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">

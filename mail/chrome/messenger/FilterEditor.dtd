@@ -17,12 +17,8 @@
 <!ENTITY highestPriorityCmd.label "সবচেয়ে বেশী">
 
 <!ENTITY contextDesc.label "পরিশোধক প্রয়োগ করা হবে যখন: (w)">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "মেইল পরীক্ষা করা হচ্ছে">
 <!ENTITY contextManual.label "স্বচালিত">
-<!ENTITY contextBoth.label "মেইল পরীক্ষা করা হচ্ছে বা স্বচালিত">
-<!ENTITY contextPostPlugin.label "মেইল পরীক্ষা করা হচ্ছে (শ্রেণীবিভাগের পর)">
-<!ENTITY contextPostPluginBoth.label "মেইল পরীক্ষা করা হচ্ছে (শ্রেণীবিভাগের পর) অথবা স্বনির্ধারিতভাবে চালানো হবে">
+
 <!ENTITY filterActionDesc.label "এই কাজগুলো করা হবে: (P)">
 <!ENTITY filterActionDesc.accesskey "P">
 <!-- New Style Filter Rule Actions -->
@@ -43,3 +39,9 @@
 <!ENTITY ignoreSubthread.label "সাবথ্রেড উপেক্ষা করা হবে">
 <!ENTITY watchThread.label "থ্রেড পর্যবেক্ষণ করা হবে">
 <!ENTITY stopExecution.label "পরিশোধক চালানো থামানো হবে">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

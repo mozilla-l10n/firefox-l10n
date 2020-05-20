@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "ইমপোর্ট করুন… m">
+
 <!ENTITY importButton.tooltip       "নথিতে একটি বিদ্যমান স্টাইল শীট আনয়ন এবং সংযুক্ত করুন">
 <!ENTITY importButton.accesskey     "m">
 
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      "স্টাইল সম্পাদনের অপশন">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "মূল উৎস প্রদর্শন করো o">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "o">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "মিডিয়া সাইডবার দেখাও m">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "m">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

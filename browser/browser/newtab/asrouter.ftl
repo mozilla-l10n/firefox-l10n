@@ -13,27 +13,36 @@ cfr-doorhanger-pintab-heading = এটি ব্যবহার করে দে
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = কেন আমি এটি দেখছি?
+
 cfr-doorhanger-extension-cancel-button = এখন না
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = এখন যোগ করুন
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = এই ট্যাব পিন করুন
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = সুপারিশ সেটিংস ব্যবস্থাপনা করুন
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = আমাকে এই সুপারিশ দেখাবেন না
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = আরও জানুন
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } দ্বারা
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = সুপারিশকৃত
+
 cfr-doorhanger-extension-notification2 = প্রস্তাবনা
     .tooltiptext = এক্সটেনশনের প্রস্তাবনা
     .a11y-announcement = এক্সটেনশনের প্রস্তাবনা পাওয়া যাচ্ছে
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = প্রস্তাবনা
@@ -59,6 +68,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } ব্যবহারকারী
        *[other] { $total } ব্যবহারকারী
     }
+
 cfr-doorhanger-pintab-description = আপনার সর্বাধিক ব্যবহৃত সাইটগুলো সহজে পান। ট্যাবে সাইট খোলা রাখুন (এমন কি রিস্টার্ট দেওয়ার সময়েও)।
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +76,10 @@ cfr-doorhanger-pintab-description = আপনার সর্বাধিক ব
 cfr-doorhanger-pintab-step1 = ট্যাব পিন করতে ট্যাবে<b> ডান ক্লিক  </ b> করুন।
 cfr-doorhanger-pintab-step2 = মেনু থেকে <b>পিন ট্যাব</b> নির্বাচন করুন।
 cfr-doorhanger-pintab-step3 = যদি সাইটে হালনাগাদ থাকে তবে আপনি আপনার পিনকৃত ট্যাবে একটি নীল বিন্দু দেখতে পাবেন।
+
 cfr-doorhanger-pintab-animation-pause = বিরতি
 cfr-doorhanger-pintab-animation-resume = পুনরায় শুরু
+
 
 ## Firefox Accounts Message
 
@@ -89,20 +101,26 @@ cfr-protections-panel-link-text = আরও জানুন
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = নতুন বৈশিষ্ট্যসমূহঃ
+
 cfr-whatsnew-button =
     .label = নতুন কি আছে
     .tooltiptext = নতুন যা আছে
+
 cfr-whatsnew-panel-header = নতুন কি আছে
+
 cfr-whatsnew-release-notes-link-text = রিলিজ নোট পড়ুন
+
 cfr-whatsnew-fx70-title = { -brand-short-name } এখন আপনার গোপনীয়তার জন্য আরও কঠোরভাবে লড়াই করে
 cfr-whatsnew-fx70-body =
     সর্বশেষ আপডেট ট্র্যাকিং সুরক্ষার বৈশিষ্ট্যকে উন্নত করে এবং 
     প্রতিটি সাইটের জন্য পাসওয়ার্ড তৈরি করা আগের যেকোনো সময়ের চেয়ে সহজ করে দেয়।
+
 cfr-whatsnew-tracking-protect-title = ট্র্যাকারদের থেকে নিজেকে রক্ষা করুন
 cfr-whatsnew-tracking-protect-body =
     অনেক সামাজিক ও বিভিন্ন ক্রস সাইট  ট্র্যাকার { -brand-short-name } ব্লক করে যেগুলো 
     অনলাইনে আপনি কি করেন তা অনুসরণ করে।
 cfr-whatsnew-tracking-protect-link-text = আপনার রিপোর্ট দেখুন
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -113,9 +131,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } হতে
 cfr-whatsnew-tracking-blocked-link-text = রিপোর্ট দেখুন
+
 cfr-whatsnew-lockwise-backup-title = আপনার পাসওয়ার্ড ব্যাকআপ করুন
 cfr-whatsnew-lockwise-backup-body = সুরক্ষিত পাসওয়ার্ড তৈরি করুন এখন আপনি সাইন ইন করে যে কোনও জায়গায় ব্যবহার করতে পারবেন।
 cfr-whatsnew-lockwise-backup-link-text = ব্যাকআপ চালু করুন
+
 cfr-whatsnew-lockwise-take-title = আপনার সাথে আপনার পাসওয়ার্ড নিন
 cfr-whatsnew-lockwise-take-body = { -lockwise-brand-short-name } মোবাইল অ্যাপ্লিকেশনটি যেকোন জায়গা থেকে আপনাকে সুরক্ষিতভাবে আপনার ব্যাকআপ করা পাসওয়ার্ডকে এক্সেস করতে দেয়।
 cfr-whatsnew-lockwise-take-link-text = অ্যাপটি ডাউনলোড করুন

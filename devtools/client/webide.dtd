@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "অ্যাপ খুলুন">
+
 <!ENTITY runtimeButton_label "রানটাইম নির্বাচন">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -118,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "রানটাইম তথ্য">
-<!ENTITY runtimedetails_adbIsRoot "ADB রুট: ">
-<!ENTITY runtimedetails_summonADBRoot "root ডিভাইস">
-<!ENTITY runtimedetails_ADBRootWarning "(লকহীন বুটলোডার প্রয়োজন)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "অবাধ DevTools-এর অধিকার: ">
-<!ENTITY runtimedetails_requestPrivileges "উচ্চ অধিকারের অনুরোধ করুন">
-<!ENTITY runtimedetails_privilegesWarning "(ডিভাইস পুনরায় বুট করা হবে। রুটের অধিকার প্রয়োজন।)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "বুলিয়ান">

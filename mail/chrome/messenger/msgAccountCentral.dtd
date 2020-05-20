@@ -9,10 +9,12 @@
 <!ENTITY newsSectionHdr.label "নিউজগ্রুপ">
 <!ENTITY subscribeNewsLink.label "নিউজগ্রুপ সাবস্ক্রিপশন ব্যবস্থাপনা">
 
+<!ENTITY feedsSectionHdr.label "ফিড">
+<!ENTITY subscribeFeeds.label "সাবস্ক্রিপশন ব্যবস্থাপনা">
+
 <!ENTITY accountsSectionHdr.label "অ্যাকাউন্ট">
 <!ENTITY subscribeImapFolders.label "ফোল্ডার সাবস্ক্রিপশন ব্যবস্থাপনা">
 <!ENTITY settingsLink.label "অ্যাকাউন্টের সেটিং">
-<!ENTITY newAcctLink.label "নতুন অ্যাকাউন্ট তৈরি">
 
 <!ENTITY advFeaturesSectionHdr.label "উচ্চ পর্যায়ের বৈশিষ্ট্য">
 <!ENTITY searchMsgsLink.label "বার্তা অনুসন্ধান">
@@ -20,5 +22,3 @@
 <!ENTITY junkSettings.label "অপ্রয়োজনীয় মেইল সেটিং">
 <!ENTITY offlineLink.label "অফলাইন সেটিং">
 
-<!ENTITY feedsSectionHdr.label "ফিড">
-<!ENTITY subscribeFeeds.label "সাবস্ক্রিপশন ব্যবস্থাপনা">

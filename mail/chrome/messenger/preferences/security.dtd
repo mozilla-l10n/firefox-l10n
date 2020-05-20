@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label "ইমেইল জালিয়াতি">
 <!ENTITY itemPasswords.label "পাসওয়ার্ড">
 <!ENTITY itemAntiVirus.label "এন্টি-ভাইরাস">
-<!ENTITY itemCookies.label "ওয়েবের বিষয়বস্তু">
 <!-- Junk Mail Controls -->
 
 <!ENTITY junkMail.intro "আপনার ডিফল্ট অপ্রয়োজনীয় মেইলের সেটিং নির্ধারণ করুন। অ্যাকাউন্ট অনুযায়ী অপ্রয়োজনীয় মেইলের বৈশিষ্ট্য নির্ধারণ করতে  অ্যাকাউন্ট সেটিং এ যান।">
@@ -18,8 +17,6 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "অপ্রয়োজনীয় মেইল হিসেবে চিহ্নিত বার্তা পঠিত হিসেবে চিহ্নিত করা হবে (M)">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "অপ্রয়োজনীয় মেইল পরিশোধন লগিং সক্রিয় করা হবে (E)">
-<!ENTITY enableJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "লগ প্রদর্শন (S)">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "প্রশিক্ষণ ডাটা পুনঃনির্ধারণ করা হবে (R)">
@@ -47,17 +44,4 @@
 <!ENTITY antiVirus.label "এন্টি-ভাইরাস ক্লায়েন্টকে আসন্ন বার্তা আটকে রাখতে অনুমোদন করা হবে (A)">
 <!ENTITY antiVirus.accesskey "A">
 <!-- Cookies -->
-
-<!ENTITY cookies.intro "&brandShortName; দিয়ে আপনি  ব্লগ, নিউজ ফিড, অন্যান্য ওয়েব সাইটে কুকি সেট করতে পারেন।">
-<!ENTITY acceptCookies.label "সাইট থেকে কুকি গ্রহণ (c)">
-<!ENTITY acceptCookies.accesskey "c">
-<!ENTITY keepUntil.label "ধরে রাখুন (K):">
-<!ENTITY keepUntil.accesskey "K">
-<!ENTITY expire.label "মেয়াদ শেষ হবে">
-<!ENTITY close.label "&brandShortName; বন্ধ করেছি">
-<!ENTITY askEachTime.label "প্রতিবার জিজ্ঞেস করা হবে">
-<!ENTITY cookieExceptions.label "এক্সেপশন… (E)">
-<!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "কুকি প্রদর্শন… (S)">
-<!ENTITY showCookies.accesskey "S">
 

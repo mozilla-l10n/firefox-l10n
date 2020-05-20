@@ -5,10 +5,6 @@
 <!ENTITY folderProps.windowtitle.label "বৈশিষ্ট্যাবলী">
 
 <!ENTITY generalInfo.label "সাধারণ তথ্য">
-<!ENTITY folderCharsetTab.label "পূর্বনির্ধারিত অক্ষর এনকোডিং: (E)">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "ফোল্ডারের সকল বার্তায় ডিফল্ট প্রয়োগ করা হবে (পৃথক বার্তার অক্ষর এনকোডিং সেটিংসমূহ এবং স্বয়ংক্রিয়-সনাক্তকরণ উপেক্ষা করা হবে) (A)">
-<!ENTITY folderCharsetOverride.accesskey "A">
 <!ENTITY folderRebuildSummaryFileTip2.label "সারসংক্ষেপ ফাইল সূচী পুনর্গঠন">
 <!ENTITY folderRebuildSummaryFile2.label "ফোল্ডার সংশোধন (R)">
 <!ENTITY folderRebuildSummaryFile2.accesskey "R">
@@ -30,8 +26,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "সব মুছে ফেলা হবে, তবে শুধুমাত্র খুবই সাম্প্রতিক বার্তাসমূহ (l)">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "সর্বদা পঠিত বার্তা মুছে ফেলুন (বয়স সেটিংস প্রতিস্থাপন করে)">
 <!ENTITY retentionApplyToFlagged.label "সর্বদা তারা চিহ্নিত বার্তা বজায় রাখা হবে (e)">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -64,3 +58,4 @@
 <!ENTITY folderQuotaRoot.label "নির্দিষ্ট রূট:">
 <!ENTITY folderQuotaUsage.label "ব্যবহার:">
 <!ENTITY folderQuotaStatus.label "অবস্থা:">
+
