@@ -6,7 +6,9 @@
 about-config-warning-title = Iqui demôront los dragons
 about-config-warning-checkbox = Me rapèlar la prochèna vês, mèrci!
 about-config-warning-button = Accèpto lo risco
+
 about-config2-title = Règllâjos avanciês
+
 about-config-search-input =
     .placeholder = Chèrchér
 
@@ -17,12 +19,14 @@ about-config-intro-warning-button = Accèptar lo risco et continuar
 ##
 
 about-config-show-all = Tot montrar
+
 about-config-pref-add = Apondre
 about-config-pref-toggle = Envèrsar
 about-config-pref-edit = Èditar
 about-config-pref-save = Sârvar
 about-config-pref-reset = Recomenciér
 about-config-pref-delete = Garar
+
 about-config-pref-add-button =
     .title = Apondre
 about-config-pref-toggle-button =

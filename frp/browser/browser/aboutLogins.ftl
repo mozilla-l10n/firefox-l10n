@@ -39,10 +39,6 @@ login-item-username-label = Nom d'usanciér
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = Copiâ!
 login-item-password-label = Cllâ
-login-item-password-reveal-checkbox-show =
-    .title = Montrar la cllâ
-login-item-password-reveal-checkbox-hide =
-    .title = Recondre la cllâ
 login-item-password-reveal-checkbox =
     .aria-label = Montrar la cllâ
 login-item-copy-password-button-text = Copiar
@@ -50,6 +46,12 @@ login-item-copied-password-button-text = Copiâ!
 login-item-save-changes-button = Sârvar les modificacions
 login-item-save-new-button = Sârvar
 login-item-cancel-button = Anular
+
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
 
 ## Master Password notification
 
@@ -62,6 +64,8 @@ login-item-cancel-button = Anular
 
 ## Breach Alert notification
 
+
+## Vulnerable Password notification
 
 ## Error Messages
 

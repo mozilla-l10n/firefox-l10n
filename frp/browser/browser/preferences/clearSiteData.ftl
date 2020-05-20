@@ -5,11 +5,14 @@
 clear-site-data-window =
     .title = Vuidar les donâs
     .style = width: 35em
+
 clear-site-data-close-key =
     .key = w
+
 clear-site-data-cancel =
     .label = Anular
     .accesskey = A
+
 clear-site-data-clear =
     .label = Viudar
     .accesskey = V

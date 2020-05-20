@@ -5,10 +5,14 @@
 text-action-copy =
     .label = Copiar
     .accesskey = C
+
 text-action-copy-shortcut =
     .key = C
+
 text-action-paste =
     .label = Gllètar
     .accesskey = P
+
 text-action-paste-shortcut =
     .key = V
+

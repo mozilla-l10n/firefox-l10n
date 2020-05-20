@@ -4,3 +4,4 @@
 
 about-private-browsing-info-notsaved = Quando vos utilisâds una fenéhtra secrèta, { -brand-short-name } <strong>sârve pas</strong>:
 private-browsing-title = Navìgacion secrèta
+

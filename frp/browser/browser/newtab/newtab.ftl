@@ -19,6 +19,8 @@ newtab-topsites-cancel-button = Anular
 ## Top Sites - Delete history confirmation dialog. 
 
 
+## Top Sites - Delete history confirmation dialog.
+
 ## Context Menu - Action Tooltips.
 
 
@@ -28,6 +30,13 @@ newtab-topsites-cancel-button = Anular
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 ## Context Menu - Download Menu: These are platform specific strings found in the context menu of an item that has
 ## been downloaded. The intention behind "this action" is that it will show where the downloaded file exists on the file
@@ -43,11 +52,18 @@ newtab-topsites-cancel-button = Anular
 ## meant as a call to action for the given section.
 
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
+## Section aria-labels
+
 ## Section Headers.
 
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 ## Pocket Content Section.
 

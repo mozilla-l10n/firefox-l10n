@@ -4,4 +4,5 @@
 
 restart-required-title = Relancement nècèssèro
 restart-required-header = Pèrdon. Nos devens fâre una petita chosa por povêr continuar.
+
 restart-button-label = Relancier { -brand-short-name }

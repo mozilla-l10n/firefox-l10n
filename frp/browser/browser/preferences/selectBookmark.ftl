@@ -5,3 +5,4 @@
 select-bookmark-window =
     .title = Dèfinir la reçua
     .style = width: 32em;
+

@@ -5,3 +5,4 @@
 remove =
     .label = Revondre
     .accesskey = R
+

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fontes
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fontes por
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -75,14 +77,19 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionèl
     .accesskey = P
+
 fonts-proportional-size = Talye
     .accesskey = T
+
 fonts-monospace = Monospaço
     .accesskey = M
+
 fonts-monospace-size = Talye
     .accesskey = T
+
 fonts-minsize = Talye minima de la fonta
     .accesskey = m
+
 fonts-minsize-none =
     .label = Niuna
 
@@ -121,3 +128,4 @@ fonts-languages-fallback-name-vietnamese =
     .label = Viètnamien
 fonts-languages-fallback-name-other =
     .label = Âtros (inclus d’Eropa du cuchient)
+
