@@ -103,6 +103,7 @@ print-window =
     .title = Ispisivanje
 print-complete =
     .value = Ispisivanje je dovršeno.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -5,50 +5,66 @@
 permissions-window =
     .title = Iznimke
     .style = width: 41em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa web stranice
     .accesskey = d
+
 permissions-block =
     .label = Blokiraj
     .accesskey = B
+
 permissions-session =
     .label = Dozvoli za sesiju
     .accesskey = s
+
 permissions-allow =
     .label = Dozvoli
     .accesskey = D
+
 permissions-site-name =
     .label = Web stranica
+
 permissions-status =
     .label = Stanje
+
 permissions-remove =
     .label = Ukloni stranicu
     .accesskey = U
+
 permissions-remove-all =
     .label = Ukloni sve stranice
     .accesskey = e
+
 permissions-button-cancel =
     .label = Odustani
     .accesskey = O
+
 permissions-button-ok =
     .label = Spremi promjene
     .accesskey = S
+
 permissions-autoplay-menu = Standardno za sve web-stranice:
+
 permissions-searchbox =
     .placeholder = Pretraži web stranicu
+
 permissions-capabilities-autoplay-allow =
     .label = Dozvoli zvuk i video
 permissions-capabilities-autoplay-block =
     .label = Blokiraj zvuk
 permissions-capabilities-autoplay-blockall =
     .label = Blokiraj zvuk i video
+
 permissions-capabilities-allow =
     .label = Dozvoli
 permissions-capabilities-block =
     .label = Blokiraj
 permissions-capabilities-prompt =
     .label = Uvijek pitaj
+
 permissions-capabilities-listitem-allow =
     .value = Dozvoli
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Iznimke - blokiranje sadržaja
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Onemogućili ste blokiranje sadržaja za ove stranice.
+
 permissions-exceptions-etp-window =
     .title = Iznimke za poboljšanu zaštitu od praćenja
     .style = { permissions-window.style }

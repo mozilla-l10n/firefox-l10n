@@ -6,24 +6,33 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console
 
+### This file contains the entities needed for the 'edit' menu
+### It's currently only used for the Browser Console and Developer Toolbox
+
 editmenu-undo =
     .label = Poništi
     .accesskey = P
+
 editmenu-redo =
     .label = Ponovi
     .accesskey = o
+
 editmenu-cut =
     .label = Izreži
     .accesskey = I
+
 editmenu-copy =
     .label = Kopiraj
     .accesskey = K
+
 editmenu-paste =
     .label = Zalijepi
     .accesskey = p
+
 editmenu-delete =
     .label = Obriši
     .accesskey = O
+
 editmenu-select-all =
     .label = Označi sve
     .accesskey = s

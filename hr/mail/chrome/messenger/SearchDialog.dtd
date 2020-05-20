@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Napredno pretraživanje adresara">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Tema">
-<!ENTITY fromColumn.label "Šalje">
-<!ENTITY recipientColumn.label "Primatelj">
-<!ENTITY correspondentColumn.label "Dopisnici">
-<!ENTITY subjectColumn.label "Naslov">
-<!ENTITY dateColumn.label "Datum">
-<!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Oznake">
-<!ENTITY accountColumn.label "Račun">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Veličina">
-<!ENTITY junkStatusColumn.label "Status neželjene pošte">
-<!ENTITY unreadColumn.label "Nepročitano">
-<!ENTITY totalColumn.label "Ukupno">
-<!ENTITY readColumn.label "Pročitano">
-<!ENTITY receivedColumn.label "Primljeno">
-<!ENTITY starredColumn.label "Označeno zvjezdicom">
-<!ENTITY locationColumn.label "Lokacija">
-<!ENTITY idColumn.label "Redoslijed primanja">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Odaberite stupce za prikaz">
-<!ENTITY threadColumn2.tooltip "Prikaži teme poruka">
-<!ENTITY fromColumn2.tooltip "Sortiraj prema pošiljatelju">
-<!ENTITY recipientColumn2.tooltip "Sortiraj prema primatelju">
-<!ENTITY correspondentColumn2.tooltip "Sortiraj prema dopisnicima">
-<!ENTITY subjectColumn2.tooltip "Sortiraj prema naslovu">
-<!ENTITY dateColumn2.tooltip "Sortiraj prema datumu">
-<!ENTITY priorityColumn2.tooltip "Sortiraj prema prioritetu">
-<!ENTITY tagsColumn2.tooltip "Sortiraj prema oznakama">
-<!ENTITY accountColumn2.tooltip "Sortiraj prema računu">
-<!ENTITY statusColumn2.tooltip "Sortiraj prema statusu">
-<!ENTITY sizeColumn2.tooltip "Sortiraj prema veličini">
-<!ENTITY junkStatusColumn2.tooltip "Sortiraj prema statusu neželjene pošte">
-<!ENTITY unreadColumn2.tooltip "Broj nepročitanih poruka u temi">
-<!ENTITY totalColumn2.tooltip "Ukupan broj poruka u temi">
-<!ENTITY readColumn2.tooltip "Sortiraj prema pročitanom">
-<!ENTITY receivedColumn2.tooltip "Sortiraj prema datumu primitka">
-<!ENTITY starredColumn2.tooltip "Sortiraj prema zvjezdici">
-<!ENTITY locationColumn2.tooltip "Sortiraj prema lokaciji">
-<!ENTITY idColumn2.tooltip "Sortiraj prema redosljedu primitka">

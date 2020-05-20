@@ -10,6 +10,7 @@ graph-week-summary =
         [few] { -brand-short-name } je blokirao  { $count } programa za praćenje u zadnjih tjedan dana
        *[other] { -brand-short-name } je blokirao  { $count } programa za praćenje u zadnjih tjedan dana
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -20,10 +21,12 @@ graph-total-tracker-summary =
         [few] <b>{ $count }</b> pratitelja blokirana od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> pratitelja blokirano od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } nastavlja blokirati programe za praćenje u privatnim prozorima, ali ne vodi evidenciju o tome što je blokirano.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Programi za praćenje, koje je { -brand-short-name } blokirao ovaj tjedan
+
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -35,36 +38,49 @@ protection-report-header-details-custom = Razina zaštite je postavljena na <b>P
     .title = Idite na Postavke privatnosti
 protection-report-page-title = Zaštite privatnosti
 protection-report-content-title = Zaštite privatnosti
+
 etp-card-title = Poboljšana zaštita od praćenja
 etp-card-content = Programi za praćenje prate tvoje radnje prilikom pregledavanja interneta i služe za prikupljanje podataka o tvojim navikama i interesima. { -brand-short-name } blokira mnoge takve programe kao i druge zlonamjerne skripte.
+
 etp-card-title-always = Poboljšana zaštita od praćenja: uvijek uključeno
 etp-card-title-custom-not-blocking = Poboljšana zaštita od praćenja: ISKLJUČENO
 etp-card-content-summary = Kad te nepoznate kompanije pokušaju potajno pratiti na internetu, { -brand-short-name } automatski zaustavlja mnoge od njih.
 protection-report-etp-card-content-custom-not-blocking = Sve zaštite su trenutačno isključene. Upravljaj programima za praćenje koje želiš blokirati u { -brand-short-name } postavkama zaštite.
 protection-report-manage-protections = Upravljaj postavkama
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Danas
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Dijagram sadrži ukupni broj svake vrste programa za praćenje koji su ovaj tjedan bili blokirani.
+
 social-tab-title = Programi za praćenje s društvenih mreža
 social-tab-contant = Društvene mreže postavljaju programe za praćenje na druge web stranice kako bi pratili što radiš, vidiš i gledaš na mreži. To omogućava društvenim medijima saznati o tebi više od onoga što dijeliš na svojim profilima na društvenim mrežama. <a data-l10n-name="learn-more-link">Saznaj više</a>
+
 cookie-tab-title = Kolačići za praćenje između web stranica
 cookie-tab-content = Ovi kolačići te prate od web stranice do web stranice, kako bi prikupili podatke o tome što radiš na mreži. Postavljaju ih treće strane poput oglašivača i analitičkih tvrtki. Blokiranje kolačića za praćenje među web stranicama, smanjuje broj oglasa koji te prate. <a data-l10n-name="learn-more-link">Saznaj više</a>
+
 tracker-tab-title = Praćenje sadržaja
 tracker-tab-description = Web stranice mogu učitati vanjske reklame, video materijal i drugi sadržaj koji sadržava kod za praćenje. Blokiranje praćenja sadržaja može ubrzati učitavanje stranica, ali neke tipke, obrasci ili polja za prijavu možda neće raditi. <a data-l10n-name="learn-more-link">Saznaj više</a>
+
 fingerprinter-tab-title = Čitači digitalnog otiska
 fingerprinter-tab-content = Čitači digitalnog otiska prikupljaju postavke tvog preglednika i računala kako bi stvorili tvoj profil. Pomoću ovog digitalnog otiska mogu te pratiti na različitim web stranicama. <a data-l10n-name="learn-more-link">Saznaj više</a>
+
 cryptominer-tab-title = Kripto rudari
 cryptominer-tab-content = Krupto rudari koriste računalnu snagu tvog sustava kako bi rudarili digitalni novac. Skripte za kripto rudarenje troše bateriju, usporavaju računalo i povećavaju račun za struju. <a data-l10n-name="learn-more-link">Saznaj više</a>
+
 protections-close-button =
     .aria-label = Zatvori
+
 protections-close-button2 =
     .aria-label = Zatvori
     .title = Zatvori
+  
 mobile-app-title = Blokiraj oglase koji te prate na više uređaja
 mobile-app-card-content = Koristi mobilni preglednik s ugrađenom zaštitom od praćenja.
 mobile-app-links = { -brand-product-name } preglednik za <a data-l10n-name="android-mobile-inline-link">Android</a> i <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = Ne zaboravi lozinku nikad više
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Upravljanje lozinkama
@@ -79,6 +95,7 @@ protection-report-manage-passwords-button = Upravljanje lozinkama
 lockwise-mobile-app-title = Ponesi svoje lozinke sa sobom
 lockwise-no-logins-card-content = Koristi lozinke koje su spremljene u { -brand-short-name }u na bilo kojem uređaju.
 lockwise-app-links = { -lockwise-brand-name } za <a data-l10n-name="lockwise-android-inline-link">Android</a> i <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -88,6 +105,7 @@ lockwise-passwords-stored =
         [few] lozinke sigurno spremljene <a data-l10n-name="lockwise-how-it-works">Kako funkcionira</a>
        *[other] lozinki sigurno spremljeno <a data-l10n-name="lockwise-how-it-works">Kako funkcionira</a>
     }
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -96,6 +114,7 @@ lockwise-scanned-text-breached-logins =
         [few] { $count } lozinke su možda izložene curenju podataka.
        *[other] { $count } lozinki je možda izloženo curenju podataka.
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -107,9 +126,12 @@ lockwise-scanned-text-no-breached-logins =
        *[other] $count lozinki je sigurno pohranjeno.
     }
 lockwise-how-it-works-link = Kako ovo funkcionira
+
 turn-on-sync = Uključi { -sync-brand-short-name } …
     .title = Prijeđi na postavke sinkronizacije
+
 manage-connected-devices = Upravljaj uređajima …
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -118,18 +140,21 @@ lockwise-connected-device-status =
         [few] Povezano s { $count } uređaja
        *[other] Povezano s { $count } uređaja
     }
+
 monitor-title = Pazi na curenje podataka
 monitor-link = Kako funkcionira
 monitor-header-content-no-account = Koristi { -monitor-brand-name } i provjeri, je li se tvoji podaci nalaze u poznatom curenja podataka te dobivaj obavijesti o novim curenjima podataka.
 monitor-header-content-signed-in = { -monitor-brand-name } te upozorava ukoliko su se tvoji podaci pojavili u curenju podataka.
 monitor-sign-up = Prijavi se za upozorenja o curenju podataka
 auto-scan = Danas automatski pretraženo
+
 monitor-emails-tooltip =
     .title = Pogledaj praćene e-adrese na { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Pogledaj poznata curenja podataka na { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Pogledaj izložene lozinke na { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -139,6 +164,7 @@ info-monitored-emails =
         [few] Adrese e-pošte se nadgledaju
        *[other] Adresa e-pošte se nadgleda
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -148,6 +174,7 @@ info-known-breaches-found =
         [few] poznata curenja podataka su izložila tvoje informacije
        *[other] poznatih curenja podataka je izložilo tvoje informacije
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -157,7 +184,9 @@ info-exposed-passwords-found =
         [few] lozinke su izložene u curenju podataka
        *[other] lozinki je izloženo u curenju podataka
     }
+
 full-report-link = Pogledaj cjeloviti izvještaj na <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
