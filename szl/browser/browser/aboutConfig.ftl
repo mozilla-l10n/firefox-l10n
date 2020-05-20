@@ -7,7 +7,9 @@ about-config-warning-title = Tukej żyjōm drachy!
 about-config-warning-text = Skuli zmiany tych nasztalowań mogōm sie pokozać problymy ze stabilnościōm, bezpieczyństwym a wydajnościōm tyj aplikacyje. Dziołej dalij ino jak wiysz, co robisz.
 about-config-warning-checkbox = Durch mie tym szteruj!
 about-config-warning-button = Akceptuja te ryzyko
+
 about-config2-title = Zaawansowane nasztalowania
+
 about-config-search-input =
     .placeholder = Szukej
 
@@ -22,16 +24,20 @@ about-config-intro-warning-button = Akceptuja te ryzyko. Dalij
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Zmiana tyj kōnfiguracyje może pogorszyć wydajność abo bezpieczyństwo { -brand-short-name }.
+
 about-config-page-title = Zaawansowano kōnfiguracyjo
+
 about-config-search-input1 =
     .placeholder = Szukej po mianie kōnfiguracyji
 about-config-show-all = Pokoż wszyskie
+
 about-config-pref-add = Przidej
 about-config-pref-toggle = Przełōncz
 about-config-pref-edit = Edytuj
 about-config-pref-save = Spamiyntej
 about-config-pref-reset = Wynuluj
 about-config-pref-delete = Skasuj
+
 about-config-pref-add-button =
     .title = Przidej
 about-config-pref-toggle-button =

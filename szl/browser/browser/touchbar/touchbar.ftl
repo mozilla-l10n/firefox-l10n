@@ -20,6 +20,7 @@ open-location = Szukej abo wkludź adresa
 share = Udostympnij
 close-window = Zawrzij ôkno
 open-sidebar = Lajsty na rancie
+
 # This string describes shortcuts for search.
 search-popover = Skrōty szukanio
 # Describes searches limited to a specific scope

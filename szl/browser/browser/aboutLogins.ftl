@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Ściōng z Google Play
 login-app-promo-apple =
     .alt = Ściōng ze App Store
+
 login-filter =
     .placeholder = Szukej danych logowanio
+
 create-login-button = Stwōrz nowe dane logowanio
+
 fxaccounts-sign-in-text = Używej swojich haseł na inkszych maszinach
 fxaccounts-sign-in-button = Wloguj sie do { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -48,7 +51,6 @@ login-list-count =
 login-list-sort-label-text = Zortuj podle:
 login-list-name-option = Miano (A-Z)
 login-list-name-reverse-option = Miano (Z-A)
-login-list-breached-option = Serwery, co z nich wyciykły hasła
 about-logins-login-list-alerts-option = Powiadōmiynia
 login-list-last-changed-option = Ôstatnio zmiyniōne
 login-list-last-used-option = Ôstatnio użyte
@@ -109,16 +111,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Zweryfikuj swoja tożsamość, żeby edytować spamiyntane dane logowanio.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = edytować spamiyntane dane logowanio
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Zweryfikuj swoja tożsamość, żeby ôbejzdrzeć spamiyntane hasło.
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ôbejzdrzeć spamiyntane hasło
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Zweryfikuj swoja tożsamość, żeby skopiować spamiyntane hasło.
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = skopiować spamiyntane hasło
@@ -153,9 +160,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Pociep
 confirmation-dialog-dismiss-button =
     .title = Pociep
+
 about-logins-confirm-remove-dialog-title = Skasować te dane logowanio?
 confirm-delete-dialog-message = Tyj akcyje niy idzie cofnōńć.
 about-logins-confirm-remove-dialog-confirm-button = Skasuj
+
 confirm-discard-changes-dialog-title = Ôdciepnōńć niyspamiyntane umiany?
 confirm-discard-changes-dialog-message = Wszyjske niyspamiyntane umiany bydōm stracōne.
 confirm-discard-changes-dialog-confirm-button = Ôdciep
@@ -164,9 +173,6 @@ confirm-discard-changes-dialog-confirm-button = Ôdciep
 
 about-logins-breach-alert-title = Wyciek haseł ze strōny
 breach-alert-text = Ôd twojigo ôstatnigo logowanio hasła na tyj strōnie były ukradziōne abo wyciykły. Umiyń swoje hasło, żeby zabezpieczyć swoje kōnto.
-breach-alert-link = Wiyncyj ô tym wyciyku.
-breach-alert-dismiss =
-    .title = Zawrzij to powiadōmiynie
 about-logins-breach-alert-date = Do wyciyku doszło { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -189,5 +195,6 @@ about-logins-vulnerable-alert-learn-more-link = Wiyncyj informacyji
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Dane logowanio na { $loginTitle } ze takim mianym używocza już istniyjōm. <a data-l10n-name="duplicate-link">Pokozać dane, co już istniyjōm?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Doszło do feleru przi prōbie spamiyntanio tego hasła.

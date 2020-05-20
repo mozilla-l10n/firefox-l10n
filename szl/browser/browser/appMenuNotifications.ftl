@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = R
 appmenu-addon-private-browsing-message = Nowe rozszyrzynia, co je przidowosz do aplikacyje { -brand-shorter-name }, niy bydōm fungować we prywatnych ôknach, podwiela niy dosz na to zgody w nasztalowaniach.
 appmenu-addon-private-browsing-learn-more = Przewiydz sie, jako regiyrować nasztalowaniami rozszyrzyń
+    
 appmenu-new-tab-controlled =
     .label = Nowo karta je teroz zmiyniōno.
     .buttonlabel = Spamiyntej zmiany

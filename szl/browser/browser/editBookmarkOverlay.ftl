@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Miano:
     .accesskey = M
+
 bookmark-overlay-location =
     .value = Plac:
     .accesskey = P
+
 bookmark-overlay-folder =
     .value = Katalog:
+
 bookmark-overlay-choose =
     .label = Ôbier…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Pokoż wszyskie katalogi zokłodek
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Skryj
+
 bookmark-overlay-new-folder-button =
     .label = Nowy katalog
     .accesskey = o
+
 bookmark-overlay-tags =
     .value = Etykety:
     .accesskey = E
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Powpisuj kōmy miyndzy etykety
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Pokoż wszyskie etykety
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Skryj
+
 bookmark-overlay-keyword =
     .value = Kluczowe słowo:
     .accesskey = K

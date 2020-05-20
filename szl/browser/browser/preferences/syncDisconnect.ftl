@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Rozłōnczyć { -sync-brand-short-name(case: "acc") }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Skasować tyż z tego kōmputra dane przeglōndarki? Twoje dane { -sync-brand-name(case: "gen") } ôstanōm na twojim kōncie.
+
 sync-disconnect-remove-sync-caption = Skasuj dane { -sync-brand-name(case: "gen") }
+
 sync-disconnect-remove-sync-data = Zokłodki, historyjo, hasła i inksze
+
 sync-disconnect-remove-other-caption = Skasuj inksze prywatne dane
+
 sync-disconnect-remove-other-data = Cookies, cache, dane strōn offline i inksze
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Rozłōnczanie...
+
 sync-disconnect-cancel =
     .label = Pociep
     .accesskey = P
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Rozłōncz i skasuj
     .accesskey = R
+
 sync-disconnect-confirm-disconnect =
     .label = Ino rozłōncz
     .accesskey = I

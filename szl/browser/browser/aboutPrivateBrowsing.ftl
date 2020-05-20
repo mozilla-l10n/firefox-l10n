@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Przewiydz sie wiyncyj ô <a data-l10n-name="learn-more">prywatnym przeglōndaniu</a>.
 about-private-browsing-info-visited = nawiydzōne strōny
+
 privatebrowsingpage-open-private-window-label = Ôdewrzij prywatne ôkno
     .accesskey = P
 about-private-browsing-info-notsaved = Jak przeglōndosz co w prywatnym ôknie, { -brand-short-name }<strong>niy spamiyntuje</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Niy ma żeś teroz we prywatnym ôknie.
 content-blocking-title = Szperowanie zawartości
 content-blocking-description = Niykere strōny używajōm cichtowanio, bez co mogōm filować na twoja aktywność w internecie. We prywatnych ôknach { -brand-short-name } szperowanie zawartości autōmatycznie szperuje moc elymyntōw, co zbiyrajōm informacyje ô twojim przeglōndaniu.
 about-private-browsing-info-description = { -brand-short-name } pucuje historyjo wyszukowanio i przeglōndanio, jak wyłōnczysz aplikacyjo abo jak zawrzisz wszyskie prywatne karty i ôkna. Skuli tego niy ma żeś anonimowy do strōn ani dostowcōw necowych usug. Snadnij ale możesz skryć swoja aktywność w internecie przed inkszymi, co używajōm tego kōmputra.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopiuj
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Ôbier wszysko
     .accesskey = O
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Ôgōlne
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Miano
 general-meta-content =
     .label = Zawartość:
+
 media-tab =
     .label = Mydia
     .accesskey = M
@@ -68,11 +73,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Podglōnd:
+
 perm-tab =
     .label = Dozwolyństwa
     .accesskey = D
 permissions-for =
     .value = Dozwolyństwa do:
+
 security-tab =
     .label = Bezpieczyństwo
     .accesskey = B
@@ -93,17 +100,22 @@ security-view-identity-validity =
     .value = Przedownio sie:
 security-view-privacy =
     .value = Prywatność i historyjo
+
 security-view-privacy-history-value = Była ta strōna już nawiydzōno ôdy mie?
 security-view-privacy-sitedata-value = Schrōnio ta strōna jakie informacyje na mojim kōmputrze?
+
 security-view-privacy-clearsitedata =
     .label = Wypucuj cookies i dane strōn
     .accesskey = W
+
 security-view-privacy-passwords-value = Mōm spamiyntane jakie hasła do tyj strōny?
+
 security-view-privacy-viewpasswords =
     .label = Pokoż spamiyntane hasła
     .accesskey = s
 security-view-technical =
     .value = Techniczne detajle
+
 help-button =
     .label = Pōmoc
 
@@ -115,8 +127,10 @@ help-button =
 
 security-site-data-cookies = Ja, cookies a { $value }{ $unit } danych strōn
 security-site-data-only = Ja, { $value }{ $unit } danych strōn
+
 security-site-data-cookies-only = Ja, cookies
 security-site-data-no = Niy
+
 image-size-unknown = Niypoznany
 not-set-verified-by = Niyôkryślōne
 page-info-not-specified =
@@ -136,6 +150,7 @@ media-video = Widyjo
 media-audio = Audio
 saved-passwords-yes = Ja
 saved-passwords-no = Niy
+
 no-page-title =
     .value = Strōna bez miana
 general-quirks-mode =
@@ -151,6 +166,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Używej bazowych
 security-no-visits = Niy
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -162,6 +178,7 @@ general-meta-tags =
             [few] Meta (2 tagi)
            *[many] Meta ({ $tags } tagōw)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +190,7 @@ security-visits-number =
         [few] Ja, { $visits } razy
        *[many] Ja, { $visits } razy
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -184,6 +202,7 @@ properties-general-size =
             [few] { $kb } KB ({ $bytes } bajty)
            *[many] { $kb } KB ({ $bytes } bajtōw)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -196,12 +215,14 @@ media-animated-image-type =
             [few] Ôbroz { $type } (animowany, klotki: { $frames })
            *[many] Ôbroz { $type } (animowany, klotki: { $frames })
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Ôbroz { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -211,17 +232,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (zmiyniōne na { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -229,6 +253,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Szperuj ôbrazy ze strōny { $website }
     .accesskey = S
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:
