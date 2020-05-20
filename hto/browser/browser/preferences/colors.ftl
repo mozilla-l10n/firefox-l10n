@@ -6,4 +6,6 @@ colors-page-override-option-always =
     .label = Íide
 colors-page-override-option-never =
     .label = Jáka
+
 colors-text-and-background = Kúerabe anafene:
+

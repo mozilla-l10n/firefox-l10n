@@ -8,17 +8,21 @@ pref-page =
             [windows] Nɨzeye
            *[other] Kúe gaɨga
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] Nɨzeye
        *[other] Kúe gaɨga
     }
+
 pane-general-title = Nána
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = Jénode
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
 
@@ -44,37 +48,49 @@ restart-later = Úire abɨdo taineye
 ## General Section
 
 startup-header = Táɨnia
+
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = Ɨ́fotari { -brand-short-name } Firefox dánomo aizɨ́ri
 use-firefox-sync = Yetarafue: Náama mamekɨ jɨaɨno jone. { -sync-brand-short-name } jóne ráfúe fekayena áfemakɨmo.
+
 is-default = { -brand-short-name } ó makara ja beno íte
 is-not-default = { -brand-short-name } ó makara ja beno íte
+
 tabs-group-header = Úitɨraɨ
+
 show-tabs-in-taskbar =
     .label = Akatari úitɨraɨ radozi Windows íyano
     .accesskey = k
 
+
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Kúeyena jideriya dɨga
+
 advanced-fonts =
     .label = Árifene...
     .accesskey = Á
+
 colors-settings =
     .label = jideriya...
     .accesskey = j
+
 choose-language-description = Ñúe úiado nɨze web jenoyena
+
 choose-button =
     .label = Nɨzede...
     .accesskey = z
+
 translate-web-pages =
     .label = Web íyano jɨaɨe úiaido jone
     .accesskey = W
+
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = Jɨaɨe úiaido jonega bíedo <img data-l10n-name="logo"/> .
+
 translate-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = a
@@ -82,9 +98,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Yúnua
+
 download-save-to =
     .label = Dáma jone bénomo
     .accesskey = D
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -96,30 +114,38 @@ download-choose-folder =
             [macos] N
            *[other] é
         }
+
 applications-type-column =
     .label = Ráa ofítaɨra ízoi
     .accesskey = í
+
 applications-action-column =
     .label = Fɨnoka
     .accesskey = F
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Fɨnoka { $app-name }
+
 applications-use-other =
     .label = Jɨaɨe fɨno...
+
 applications-manage-app =
     .label = Ráanɨ rafúe...
 applications-always-ask =
     .label = Jɨkánori
 applications-type-pdf = Éroika bíe Portable Document Format(PDF)
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -131,16 +157,22 @@ applications-use-plugin-in =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -154,6 +186,7 @@ play-drm-content-learn-more = Aiyo onóde
 ## General Section - Browsing
 
 browsing-title = Makara
+
 browsing-use-autoscroll =
     .label = Dama gɨgɨta jone
     .accesskey = g
@@ -180,6 +213,7 @@ use-current-pages =
            *[other] Bírui íte rabenɨaɨ fɨno
         }
     .accesskey = f
+
 choose-bookmark =
     .label = Rɨgɨnua fɨno…
     .accesskey = f
@@ -200,7 +234,9 @@ choose-bookmark =
 ## more discrete ("signed in" no longer means "and sync is connected").
 
 sync-signedout-description = Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.
+
 sync-signedout-account-title = Zɨtade { -fxaccount-brand-name }
+
 # This message contains two links and two icon images.
 #   `<img data-l10n-name="android-icon"/>` - Android logo icon
 #   `<a data-l10n-name="android-link">` - Link to Android Download
@@ -218,6 +254,7 @@ sync-mobile-promo = Firefox yunude nɨbai <img data-l10n-name="android-icon"/> <
 
 sync-profile-picture =
     .tooltiptext = Jɨaɨe jóreño ó náama mamekɨmo jóne
+
 sync-signedin-unverified = Fákara íyano... { $email } Naɨ éroñega.
 sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno nitayena taɨne yuamo
 
@@ -232,6 +269,7 @@ sync-signedin-login-failure = Ábɨno nitayena taɨne yuamo { $email } Ábɨno n
 sync-engine-bookmarks =
     .label = Rɨgɨnua
     .accesskey = R
+
 sync-engine-history =
     .label = Jáganɨaɨ
     .accesskey = a
@@ -239,7 +277,9 @@ sync-engine-history =
 ## The device name controls.
 
 sync-device-name-header = Jóriaɨ mámekɨ
+
 sync-tos-link = Taɨniamo, ñúe ite
+
 sync-fxa-privacy-notice = Káɨe bíe fáka Dáma kue úai
 
 ## Privacy Section
@@ -253,6 +293,7 @@ sync-fxa-privacy-notice = Káɨe bíe fáka Dáma kue úai
 forms-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = a
+
 forms-saved-logins =
     .label = Taɨnede yuamo ñúe jonega…
     .accesskey = T
@@ -263,25 +304,33 @@ forms-master-pw-change =
     .label = Jɨaɨe jóne...
     .accesskey = j
 
+## OS Authentication dialog
+
 ## Privacy Section - History
 
 history-header = Jagaɨ
+
 history-remember-option-all =
     .label = Jágaɨ úibiri
 history-remember-option-never =
     .label = Jágaɨ úibiñeniri
 history-remember-option-custom =
     .label = Kúe dama ñúe fɨnoyena jagaɨ
+
 history-dontremember-description = { -brand-short-name } ó dama ñúe fɨnoye taɨjira, ó makara jagaɨ bemomo joneniye web íyano
+
 history-private-browsing-permanent =
     .label = Dama& ó makara benomo íri
     .accesskey = p
+
 history-remember-search-option =
     .label = Úibiri jagaɨmo rabe kúeyena ja jenoka
     .accesskey = f
+
 history-clear-on-close-option =
     .label = Jagaɨ ɨbaɨ íemei óni óno { -brand-short-name }
     .accesskey = J
+
 history-clear-on-close-settings =
     .label = Abɨdo  fɨnoka...
     .accesskey = A
@@ -314,12 +363,15 @@ addressbar-locbar-openpage-option =
 ## Privacy Section - Permissions
 
 permissions-notification = Ráfue yote
+
 permissions-block-popups =
     .label = Eroirafo zúiya ɨ́bai
     .accesskey = E
+
 permissions-block-popups-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = J
+
 permissions-addon-exceptions =
     .label = Jɨ́aɨmakɨ…
     .accesskey = J

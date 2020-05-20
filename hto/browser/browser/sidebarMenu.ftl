@@ -4,7 +4,10 @@
 
 sidebar-menu-bookmarks =
     .label = Rɨgɨnoga
+
 sidebar-menu-history =
     .label = Jaganɨaɨ
+
 sidebar-menu-synced-tabs =
     .label = Dáamakɨ úitɨraɨ
+

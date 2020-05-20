@@ -5,3 +5,4 @@
 select-bookmark-window =
     .title = Táɨnia rabe jone
     .style = width: 32em;
+

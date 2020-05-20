@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Ráanɨ rafúe
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Fúita
     .accesskey = i
-app-manager-handle-webfeeds = Bíe ráanɨ taɨjɨrede bénomo Web ída.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Bíe ráanɨ taɨjɨrede bénomo { $type } zóima.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Bíe ráanɨ taɨjɨrede bénomo { $type } ráa ofítaɨra.

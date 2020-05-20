@@ -4,18 +4,24 @@
 
 show-all-extensions-button =
     .label = Nana árera ákatari
+
 cmd-show-details =
     .label = Jamano ráfue íte
     .accesskey = J
+
 cmd-install-addon =
     .label = Jónete
     .accesskey = J
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 addon-restart-now =
     .label = Bíeri ábɨdo taɨne
+
 addon-category-extension = Árera
 addon-category-extension-title =
     .title = Árera
@@ -33,10 +39,13 @@ addon-category-locale-title =
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 
 ## Strings connected to add-on updates
 
@@ -56,6 +65,7 @@ extensions-warning-update-security-container =
 
 extensions-updates-none-found =
     .value = Báñeika fɨnofɨnoga
+
 addon-updates-none-found = Báñeika fɨnofɨnoga
 
 ## Add-on install/debug strings for page options menu

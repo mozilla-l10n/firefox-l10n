@@ -5,13 +5,17 @@
 connection-proxy-option-no =
     .label = Proxy íñede
     .accesskey = P
+
 connection-proxy-http-share =
     .label = Dano proxy nana taɨji
     .accesskey = s
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Bíe ízoi: .mozilla.org, .net.nz, 192.168.1.0/24
+

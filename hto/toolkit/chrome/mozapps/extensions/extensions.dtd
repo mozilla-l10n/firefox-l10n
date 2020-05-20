@@ -20,19 +20,10 @@
 
 
 
-<!ENTITY showAllExtensions.button.label       "Nana árera ákatari">
-
-
 <!-- global warnings -->
 
-<!ENTITY warning.checkcompatibility.enable.label   "Bónode">
-
-
-<!ENTITY warning.updatesecurity.enable.label       "Bónode">
 
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Jéokaiga">
 
 
 
@@ -57,20 +48,8 @@
 
 
 
-<!ENTITY updates.noneFound.label              "Báñeika fɨnofɨnoga">
-
-
-
 <!-- addon actions -->
 
-<!ENTITY cmd.showDetails.label                "Jamano ráfue íte">
-<!ENTITY cmd.showDetails.accesskey            "J">
-
-
-
-
-<!ENTITY cmd.preferencesUnix.label            "Kúe gaɨga">
-<!ENTITY cmd.preferencesUnix.accesskey        "K">
 
 
 
@@ -89,8 +68,6 @@
 <!ENTITY cmd.neverActivate.label              "Bíe bónñeiga">
 
 
-<!ENTITY cmd.installAddon.label               "Jónete">
-<!ENTITY cmd.installAddon.accesskey           "J">
 <!ENTITY cmd.uninstallAddon.label             "Óni óno">
 <!ENTITY cmd.uninstallAddon.accesskey         "ó">
 
@@ -170,7 +147,6 @@
 
 <!ENTITY addon.undoRemove.label               "Óni dóta">
 
-<!ENTITY addon.restartNow.label               "Bíeri ábɨdo taɨne">
 <!ENTITY addon.install.label                  "Jónete">
 
 <!ENTITY addon.updateNow.label                "Bírui méidoye">
@@ -184,34 +160,14 @@
 
 <!ENTITY addon.createdBy.label                "Nɨbai ">
 
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-
 
 <!ENTITY settings.path.button.label           "Ñúe éroi...">
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "Aiyo ráfue">
-<!ENTITY experiment.info.learnmore.accesskey "L">
-
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Aiyo onóde...">
 
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.linkToManual "Ónoɨdo">
-<!ENTITY disabledUnsigned.devInfo.end ".">
 
 
 

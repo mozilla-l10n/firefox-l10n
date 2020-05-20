@@ -9,17 +9,12 @@ about-service-workers-title = Service Workers ráfue
 about-service-workers-main-title = Service Workers já kúega
 about-service-workers-warning-not-enabled = Service Workers nái bónoñega
 about-service-workers-warning-no-service-workers = Service Workers nái kéñeiga.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Jiyakɨ: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } ID de Aplicación { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -32,7 +27,10 @@ script-spec = <strong>Script íyano:</strong> <a data-l10n-name="link">{ $url }<
 current-worker-url = <strong>Bírui URL del worker:</strong> <a data-l10n-name="link">{ $url }</a>
 active-cache-name = <strong>Caché mámekɨ bónoka:</strong> { $name }
 waiting-cache-name = <strong>Caché mámekɨ úuñoga:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Méidote
+
 unregister-button = Kúeñeiye
+
 waiting = Úuñode...

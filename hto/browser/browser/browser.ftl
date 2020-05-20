@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Bíe íyano ráfue ákata
 
@@ -35,6 +36,7 @@ urlbar-translated-notification-anchor =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Jenóyena jɨaɨena jóne
+
 search-one-offs-context-open-new-tab =
     .label = Kómue úitɨraɨ jéno
     .accesskey = ú
@@ -78,3 +80,4 @@ urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
+

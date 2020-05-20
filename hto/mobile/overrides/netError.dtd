@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Rábe ñúe íñede abɨyena">
 <!ENTITY retry.label "Ábɨdo fɨnode">
+
 <!-- Specific error messages -->
 
 
@@ -94,6 +95,7 @@
 <!ENTITY securityOverride.linkText "Ñueñena benómo jóneyena…">
 <!ENTITY securityOverride.getMeOutOfHereButton "¡Benomo jáiri!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dánomo atɨka ñueñede...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
@@ -119,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ñúe  eroiri bie ñueñede ó ráanɨaɨ úñoyea. Jɨamakɨ ó ráanɨaɨ éroite iemei nana éroitaga komɨnɨ. Úñoraɨma bie web iyano joneiye ñúe taɨjɨyena.</p><p>Fɨgoñede fakara:NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

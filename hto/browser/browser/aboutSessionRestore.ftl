@@ -8,8 +8,10 @@
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Éroirafo { $windowNumber }
+
 restore-page-restore-header =
     .label = Abɨdo fɨ́no
+
 restore-page-list-header =
     .label = Éroirafo úitɨraɨ dɨga
 
@@ -18,7 +20,10 @@ restore-page-list-header =
 welcome-back-tab-title = ¡Ñúe íte!
 welcome-back-page-title = ¡Ñúe íte!
 welcome-back-page-info = { -brand-short-name } ñúe íte ɨfoyena.
+
 welcome-back-restore-button =
     .label = ¡Ɨ́fo!
     .accesskey = L
+
 welcome-back-restore-some-label = Dajɨ ábɨdo fɨno
+

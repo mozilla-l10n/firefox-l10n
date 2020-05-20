@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Fɨaikana
 pictureinpicture-play =
     .aria-label = Abɨdo bóno
+
 pictureinpicture-mute =
     .aria-label = Fɨkɨnide
 pictureinpicture-unmute =
     .aria-label = Fɨkɨrede
+

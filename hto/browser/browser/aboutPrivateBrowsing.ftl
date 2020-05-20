@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = Ó dama éroirafo tuño
     .accesskey = é
 about-private-browsing-not-private = Bíruimo íñede ó dama éroirafo.
+

@@ -5,22 +5,29 @@
 permissions-window =
     .title = Kúena dama jananɨaɨ
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Ɨ́baika
     .accesskey = Ɨ
+
 permissions-allow =
     .label = Jɨɨ
     .accesskey = J
+
 permissions-status =
     .label = Táɨnia
+
 permissions-button-cancel =
     .label = Fúita
     .accesskey = F
+
 permissions-button-ok =
     .label = Fɨebiya ñúe jóne
     .accesskey = F
+
 permissions-capabilities-allow =
     .label = Jɨɨ
 permissions-capabilities-block =
@@ -44,11 +51,17 @@ permissions-capabilities-block =
 ## Exceptions - Add-ons
 
 
+## Exceptions - Autoplay Media
+
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

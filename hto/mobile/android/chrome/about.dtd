@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Bíedo ie &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ñúe íñeite fɨnóra ráa.">
-<!ENTITY aboutPage.telemetryStart               "Dáama óreri úina taɨjie bíedo,hardware, kúe fɨnoka íedo.">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "kanóyena fɨnode &brandShortName; baka">
 <!ENTITY aboutPage.checkForUpdates.link         "Méidoyena jénode »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Méidoyena jénode...">
 <!ENTITY aboutPage.checkForUpdates.none         "Méidoyena íñede.">
