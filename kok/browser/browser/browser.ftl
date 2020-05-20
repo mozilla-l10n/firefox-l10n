@@ -79,5 +79,5 @@ urlbar-placeholder =
     .placeholder = सोदात वो नामो दियात
 urlbar-switch-to-tab =
     .value = टॅबाचेर स्विच करचें:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = थळ पट्टेन नाम्यान वचात
