@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Zahtijevano (slanje poruka nije moguće ukoliko svi primaoci nemaju certifikate)">
 <!ENTITY alwaysEncryptMessage.accesskey "h">
 <!ENTITY encryptionCert.message "Koristiti ovaj certifikat za enkripciju i dekripciju poruka poslanih vama:">
+
 <!ENTITY digitalSign.certificate.button "Izaberi…">
 <!ENTITY digitalSign.certificate.accesskey "a">
 <!ENTITY digitalSign.certificate_clear.button "Očisti">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Izaberite certifikat">
 <!ENTITY certPicker.info  "Certifikat:">
 <!ENTITY certPicker.detailsLabel "Detalji izabranog certifikata:">
+

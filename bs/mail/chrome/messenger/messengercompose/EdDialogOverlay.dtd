@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "R">
 <!ENTITY makeUrlRelative.tooltip "Promijenite između relativnog i apsolutnog URL-a. Da biste promijenili, najprije morate spasiti stranicu.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Upišite lokaciju web stranice, lokalnog fajla ili izaberite imenovani anchor, odnosno naslov iz popup liste:">
-<!ENTITY LinkURLEditField.accessKey "l">
 <!ENTITY LinkURLEditField2.label "Unesite lokaciju web stranice, lokalnu datoteku ili izaberite sidro ili zaglavlje iz kontekst menija polja:">
 <!ENTITY LinkURLEditField2.accessKey "w">

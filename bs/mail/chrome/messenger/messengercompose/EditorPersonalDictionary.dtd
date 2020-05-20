@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "D">
 <!ENTITY DictionaryList.label "Riječi u rječniku:">
 <!ENTITY DictionaryList.accessKey "R">
-<!ENTITY ReplaceButton.label "Zamijeni">
-<!ENTITY ReplaceButton.accessKey "Z">
 <!ENTITY RemoveButton.label "Ukloni">
 <!ENTITY RemoveButton.accessKey "U">
 

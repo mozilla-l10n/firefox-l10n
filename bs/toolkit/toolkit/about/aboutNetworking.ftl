@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = DNS sufiks
 websockets = WebSockets
 refresh = Osvježi
 auto-refresh = Automatski osvježi svake 3 sekunde
 hostname = Naziv hosta
 port = Port
 http2 = HTTP/2
-about-networking-title = O umrežavanju
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS sufiks
-about-networking-websockets = WebSockets
-about-networking-refresh = Osvježi
-about-networking-auto-refresh = Automatski osvježi svake 3 sekunde
-about-networking-hostname = Naziv hosta
-about-networking-port = Port
-about-networking-http-version = HTTP verzija
 ssl = SSL
 active = Aktivno
 idle = Neaktivan
@@ -69,8 +57,18 @@ rcwn-avg-long = Duga prosječna
 rcwn-std-dev-long = Dugo standardno odstupanje
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
-networkid = ID Mreže
-networkid-id = ID Mreže
+
+about-networking-title = O umrežavanju
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS sufiks
+about-networking-websockets = WebSockets
+about-networking-refresh = Osvježi
+about-networking-auto-refresh = Automatski osvježi svake 3 sekunde
+about-networking-hostname = Naziv hosta
+about-networking-port = Port
+about-networking-http-version = HTTP verzija
 about-networking-ssl = SSL
 about-networking-active = Aktivno
 about-networking-idle = Neaktivan
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID Mreže
 
 ## Link is intended as "network link"
 
-networkid-isUp = Veza radi
-networkid-statusKnown = Status veze je poznat
 about-networking-networkid-is-up = Veza radi
 about-networking-networkid-status-known = Status veze je poznat
 

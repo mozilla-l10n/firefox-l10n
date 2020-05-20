@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Ponovo pokreni { -brand-short-name }
     .accesskey = r
+
 blocklist-label-summary = { -brand-short-name } je ustanovio da su sljedeći add-oni poznati po tome što uzrokuju probleme vezane za stabilnost i sigurnost:
 blocklist-soft-and-hard = Add-oni koji posjeduju visok stepen rizika za uzrokovanje problema vezane za stabilnost ili sigurnost su blokirani. Ostali imaju niži stepen rizika, ali se toplo preporučuje da restartujete sa njima onemogućenim.
 blocklist-hard-blocked = Ovi add-oni posjeduju visok stepen rizika za uzrokovanje problema vezane za stabilnost ili sigurnost i stoga su blokirani, no potreban je restart kako bi isti u potpunosti bili onemogućeni.
 blocklist-soft-blocked = Radi vaše sigurnosti, toplo preporučujemo da restartujete sa ovim add-onima onemogućenim.
 blocklist-more-information =
     .value = Više informacija
+
 blocklist-blocked =
     .label = Blokirano
 blocklist-checkbox =

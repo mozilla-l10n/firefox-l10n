@@ -13,6 +13,7 @@ enable-common-message = Firefox razvojni alati su izvorno onemogućeni kako bi v
 enable-learn-more-link = Saznajte više o Razvojnim alatima
 enable-enable-button = Omogući Razvojne alate
 enable-close-button = Zatvori ovaj tab
+
 welcome-title = Dobrodošli u Firefox razvojne alate!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Neka vijesti, trikovi i resursi za developere stignu direktno u vaš inbox.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Saglasan/a sam da Mozilla upravlja mojim podacima kao
 newsletter-subscribe-button = Pretplati
 newsletter-thanks-title = Hvala!
 newsletter-thanks-message = Ako niste ranije potvrdili pretplatu na Mozillin newsletter, možda ćete ipak morati. Molimo provjerite vaš inbox ili vaše spam filtere za e-mail od nas.
+
 footer-title = Firefox Developer Edition
 footer-message = Tražite više od običnih Razvojnih alata? Predstavljamo vam Firefox browser koji je izgrađen specifično za developere i moderan workflow.
 footer-learn-more-link = Saznajte više
+
 features-learn-more = Saznajte više
 features-inspector-title = Inspektor
 features-inspector-desc = Izvršite inspekciju i unaprijedite kod za pixel-perfect layoute. <a data-l10n-name="learn-more">{ features-learn-more }</a>

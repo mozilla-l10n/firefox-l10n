@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Kopije i direktoriji">
 <!ENTITY sendingPrefix.label "Prilikom slanja poruka, automatski: ">
 <!ENTITY fccMailFolder.label "Smjesti kopiju poruke u:">

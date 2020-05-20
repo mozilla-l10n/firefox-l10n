@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Postavi početnu stranicu
     .style = width: 32em;
+
 select-bookmark-desc = Izaberite Zabilješku koja će postati vašom početnom stranicom. Ukoliko izaberete direktorij, Zabilješke iz tog direktorija će biti otvorene u tabovima.

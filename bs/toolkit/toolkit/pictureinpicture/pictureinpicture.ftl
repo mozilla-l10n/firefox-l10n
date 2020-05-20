@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Pauza
 pictureinpicture-play =
     .aria-label = Play
+
 pictureinpicture-mute =
     .aria-label = Bez zvuka
 pictureinpicture-unmute =
     .aria-label = Sa zvukom
+

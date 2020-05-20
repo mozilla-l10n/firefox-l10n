@@ -172,9 +172,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Pošalji instant poruku ili chat">
 <!ENTITY deleteButton2.tooltip                          "Obriši izabranu stavku">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adresari">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ime ili email adresa">
 <!ENTITY SearchNameOrEmail.accesskey                    "m">

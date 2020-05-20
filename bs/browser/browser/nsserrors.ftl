@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Došlo je do greške tokom povezivanja sa { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kod greške: { $error }
+
 psmerr-ssl-disabled = Nije moguće sigurno povezivanje jer je SSL protokol isključen.
 psmerr-ssl2-disabled = Nije moguće sigurno povezivanje jer stranica koristi stariju, nesigurnu verziju SSL protokola.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Primili ste neispravan certifikat. Molimo da kontaktirate administratora servera ili nadležnu osobu i navedete sljedeće informacije:
     
     Vaš certifikat sadrži isti serijski broj kao neki drugi izdati certifikat. Molim vas da nabavite novi certifikat sa jedinstvenim serijskim brojem.
+
 ssl-error-export-only-server = Sigurna komunikacija nije moguća. Ravnopravni uređaj ne podržava enkripciju visokog stepena.
 ssl-error-us-only-server = Sigurna komunikacija nije moguća. Ravnopravni uređaj zahtijeva visoki stepen enkripcije koji nije podržan.
 ssl-error-no-cypher-overlap = Nemoguća sigurna komunikacija sa ravnopravnim uređajem: nema zajedničkog enkripcijskog algoritma.

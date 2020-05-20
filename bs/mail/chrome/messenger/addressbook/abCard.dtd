@@ -54,11 +54,8 @@
 <!ENTITY HomeCountry.label              "Država:">
 <!ENTITY HomeWebPage.label              "Web stranica:">
 <!ENTITY Birthday.label                 "Rođendan:">
-<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Godina">
-<!ENTITY Or.value                       "ili">
 <!ENTITY Age.placeholder                "Starost">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Posao">
 <!ENTITY JobTitle.label                 "Titula:">

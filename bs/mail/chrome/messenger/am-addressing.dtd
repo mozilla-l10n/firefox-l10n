@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Sastavljanje i adresiranje">
 <!ENTITY addressingGroupTitle.label "Adresiranje">
 <!ENTITY addressingText.label      "Prilikom pretrage email adresa:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Sastavljanje">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Sastavljaj poruke u HTML formatu">
 <!ENTITY useHtml.accesskey                    "H">
 <!ENTITY autoQuote.label                      "Citiraj izvornu poruku prilikom odgovora">
 <!ENTITY autoQuote.accesskey                  "C">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Zatim,">
-<!ENTITY then.accesskey                       "Z">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Kada citirate,">
 <!ENTITY aboveQuote.label                     "započni moj odgovor iznad citata">

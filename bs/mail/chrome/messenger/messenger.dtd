@@ -168,7 +168,6 @@
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Alatna traka okna direktorija">
 <!ENTITY folderPaneBar.accesskey "F">
-<!ENTITY folderModeSelector.label "Pregledi direktorija">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Poredaj prema">
@@ -436,9 +435,6 @@
 <!ENTITY openMessageWindowCmd.label "Otvori poruku">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Otvori u razgovoru">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Prilozi">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "Prilikom otvaranja poruka iz kanala">
@@ -808,11 +804,7 @@
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Vrati kolone na zadane postavke">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -969,3 +961,4 @@
 <!ENTITY dockOptions.label              "Opcije ikone aplikacije…">
 <!ENTITY writeNewMessageDock.label      "Piši novu poruku">
 <!ENTITY openAddressBookDock.label      "Otvori imenik">
+

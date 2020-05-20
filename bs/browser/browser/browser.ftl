@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Prikaži informacije stranice
 
@@ -64,10 +65,12 @@ urlbar-popup-blocked =
     .tooltiptext = Imate blokirane pop-up prozore za ovu web stranicu.
 urlbar-canvas-blocked =
     .tooltiptext = Blokirali ste ekstrakciju canvas podataka za ovu web stranicu.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Uredi ovu zabilješku ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -99,6 +102,7 @@ search-one-offs-change-settings-button =
     .label = Promijeni postavke pretraživača
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Promijeni postavke za pretragu
+
 search-one-offs-context-open-new-tab =
     .label = Traži u novom tabu
     .accesskey = t
@@ -179,9 +183,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ovoj stranici ste dodijelili dodatne dozvole.
 urlbar-switch-to-tab =
     .value = Prebaci se na tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Proširenje:
+
 urlbar-go-button =
     .tooltiptext = Idi na adresu upisanu u adresnoj traci
 urlbar-page-action-button =

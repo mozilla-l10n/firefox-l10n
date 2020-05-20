@@ -4,6 +4,10 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Preuzmi i sinhroniziraj poruke">
 <!ENTITY MsgSelect.label "Stavke za upotrebu van mreže">
 <!ENTITY MsgSyncDesc.label "Ako ste već odabrali datoteke e-pošte ili novinske grupe za korištenje van mreže, možete ih sada preuzeti i/ili sinhronizirati. Inače, koristite dugme &quot;Odaberi&quot; da biste odabrali datoteke pošte i novinske grupe za izvanmrežno korištenje.">

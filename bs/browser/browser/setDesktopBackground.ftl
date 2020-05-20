@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = Postavi pozadinu Desktopa
+
 set-desktop-background-accept =
     .label = Postavi pozadinu Desktopa
+
 open-desktop-prefs =
     .label = Otvori postavke Desktopa
+
 set-background-color = Boja:
+
 set-background-position = Pozicija:
+
 set-background-tile =
     .label = Jedan pored drugog
+
 set-background-center =
     .label = Sredina
+
 set-background-stretch =
     .label = Razvučeno
+
 set-background-fill =
     .label = Popuni
+
 set-background-fit =
     .label = Uklopi

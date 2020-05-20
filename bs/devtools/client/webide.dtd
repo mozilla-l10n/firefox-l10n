@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Runtime informacije">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Postavke uređaja">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "j">
 <!ENTITY runtimeMenu_showSettings_label "Postavke uređaja">
@@ -53,6 +51,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "u">
 
 <!ENTITY projectButton_label "Otvori aplikaciju">
+
 <!ENTITY runtimeButton_label "Izaberi runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -75,10 +74,7 @@
 <!ENTITY projectPanel_tabs "Tabovi">
 <!ENTITY runtimePanel_usb "USB uređaji">
 <!ENTITY runtimePanel_wifi "Wi-Fi uređaji">
-<!ENTITY runtimePanel_simulator "Simulatori">
 <!ENTITY runtimePanel_other "Ostalo">
-<!ENTITY runtimePanel_installsimulator "Instaliraj simulator">
-<!ENTITY runtimePanel_noadbhelper "Instaliraj ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ne vidite svoj uređaj?">
 <!ENTITY runtimePanel_refreshDevices_label "Osvježi uređaje">
 
@@ -121,12 +117,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Runtime informacije">
-<!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
-<!ENTITY runtimedetails_summonADBRoot "root uređaj">
-<!ENTITY runtimedetails_ADBRootWarning "(zahtijeva otključani bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Neograničene DevTools ovlasti: ">
-<!ENTITY runtimedetails_requestPrivileges "zatraži veće privilegije">
-<!ENTITY runtimedetails_privilegesWarning "(Ponovo će pokrenuti uređaj. Zahtijeva root pristup.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">
@@ -148,10 +138,6 @@
 <!ENTITY devicesetting_newname "Naziv nove postavke">
 <!ENTITY devicesetting_newtext "Vrijednost postavke">
 <!ENTITY devicesetting_addnew "Dodaj novu postavku">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Pomoć">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -175,18 +161,3 @@
 <!-- Logs panel -->
 <!ENTITY logs_title "Pre-packaging command zapisnici">
 
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Opcije simulatora">
-<!ENTITY simulator_remove "Obriši simulator">
-<!ENTITY simulator_reset "Vrati na izvorne vrijednosti">
-<!ENTITY simulator_name "Naziv">
-<!ENTITY simulator_software "Softver">
-<!ENTITY simulator_version "Verzija">
-<!ENTITY simulator_profile "Profil">
-<!ENTITY simulator_hardware "Hardver">
-<!ENTITY simulator_device "Uređaj">
-<!ENTITY simulator_screenSize "Ekran">
-<!ENTITY simulator_pixelRatio "Odnos piksela">
-<!ENTITY simulator_tv_data "TV simulacija">
-<!ENTITY simulator_tv_data_open "Konfig podaci">
-<!ENTITY simulator_tv_data_open_button "Otvori konfiguracijski direktorij…">

@@ -18,10 +18,8 @@
 <!ENTITY firstrun_data_message "Manje podataka, veća ušteda">
 <!ENTITY firstrun_data_subtext2 "Onemogućite slike da bi trošili manje podataka na svakoj stranici koju posjetite.">
 <!ENTITY firstrun_sync_title "Sinhronizacija">
-<!ENTITY firstrun_sync_message2 "Nastavite gdje ste stali.">
 <!ENTITY firstrun_sync_subtext2 "Iskoristite Sinhronizaciju da nađete zabilješke, lozinke i druge stvari koje ste sačuvali u &brandShortName; na svim vašim uređajima.">
 <!ENTITY firstrun_signin_message "Povežite se, započnite">
-<!ENTITY firstrun_signin_button "Prijavite se na Sinhronizaciju">
 <!ENTITY  onboard_start_button_browser "Započni pretraživanje">
 <!ENTITY firstrun_button_notnow "Ne sada">
 <!ENTITY firstrun_button_next "Sljedeće">
@@ -323,11 +321,6 @@
 <!ENTITY pref_pwa "Progresivne web aplikacije">
 <!ENTITY pref_pwa_summary "Dozvoli dodavanje web aplikacija na početnu stranicu">
 
-<!ENTITY tracking_protection_prompt_title "Sada sa zaštitom od praćenja">
-<!ENTITY tracking_protection_prompt_text "Aktivno blokira elemente koji prate da se ne biste brinuli.">
-<!ENTITY tracking_protection_prompt_tip_text "Posjetite postavke privatnosti da saznate više">
-<!ENTITY tracking_protection_prompt_action_button "Razumijem!">
-
 <!ENTITY tab_queue_toast_message3 "Tab sačuvan u &brandShortName;">
 <!ENTITY tab_queue_toast_action "Otvori odmah">
 <!ENTITY tab_queue_prompt_title "Otvori više linkova?">
@@ -408,14 +401,11 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Preuzimanja">
 <!ENTITY pref_private_data_syncedTabs "Sinhronizovani tabovi">
 
-<!ENTITY pref_default_browser "Učinite zadanim pretraživačem">
-
 <!ENTITY pref_default_browser2 "Učinite &brandShortName; vašim zadanim browserom">
 <!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
     Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
     and instruct users to tap on the "Browser App" option on that settings screen to choose a default browser app. -->
 <!ENTITY default_browser_system_settings_toast "Dodirnite browser aplikaciju &amp; odaberite &brandShortName;">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Posjetite Mozillinu podršku">
 <!ENTITY pref_about_firefox "O &brandShortName;u">
 <!ENTITY pref_vendor_faqs "Često postavljena pitanja">
 <!ENTITY pref_vendor_feedback "Dajte povratnu informaciju">
@@ -464,14 +454,6 @@ shown from Android O while a tab is being queued.-->
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; usluga lociranja je pokrenuta">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automatska ažuriranja">
-<!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Nikad">
-<!ENTITY pref_update_autodownload_always "Uvijek">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Pomoć">
@@ -735,25 +717,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Zabilješke i historija">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Dostupno ažuriranje za &brandShortName;">
-<!ENTITY updater_start_select2 "Dodirnite za preuzimanje">
-
-<!ENTITY updater_downloading_title2 "Preuzimam &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Neuspjelo preuzimanje">
-<!ENTITY updater_downloading_select2 "Dodirnite za primjenu nadogradnje nakon preuzimanja">
-<!ENTITY updater_downloading_retry2 "Dodirnite za novi pokušaj">
-
-<!ENTITY updater_apply_title3 "Preuzeto ažuriranje za &brandShortName;">
-<!ENTITY updater_apply_select3 "Dodirnite za instalaciju">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Kako biste preuzeli datoteke i nadogradnje, dozvolite &brandShortName; dozvolu pristupa skladištu.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Dozvoli">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujuća sesija">
 <!ENTITY exit_guest_session "Izlaz iz gostujuće sesije">
@@ -920,7 +883,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Zvuk i video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; savjeti i trikovi">
-<!ENTITY updater_notification_channel "Ažuriranja aplikacije">
 <!ENTITY synced_tabs_notification_channel "Sinhronizovani tabovi">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

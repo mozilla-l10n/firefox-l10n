@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Kratak naslov"> 
 <!ENTITY message.label    "Ovdje ide tekst za primjer.">
+
 <!ENTITY editfield0.label "Korisničko ime:"> 
 <!ENTITY editfield1.label "Lozinka:"> 
-<!ENTITY checkbox.label   "označeno">
+<!ENTITY checkbox.label   "označeno"> 
 <!ENTITY copyCmd.label    "Kopiraj">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Označi sve">

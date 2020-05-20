@@ -70,8 +70,6 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Provjeri za nadogradnje, ali me pitaj da li ih želim instalirati">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Nikada ne provjeravaj za nadogradnje (nije preporučeno: sigurnosni rizik)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Prikaži historijat nadogradnji">
 <!ENTITY updateHistory.accesskey         "P">
 
@@ -120,3 +118,4 @@
 <!ENTITY manageCertificates.accesskey "U">
 <!ENTITY viewSecurityDevices.label "Sigurnosni uređaji">
 <!ENTITY viewSecurityDevices.accesskey "S">
+

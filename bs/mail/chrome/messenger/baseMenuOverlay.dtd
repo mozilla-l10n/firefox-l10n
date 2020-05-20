@@ -13,20 +13,4 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Restartuj s onemogućenim add-onima…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Napomene o izdanju">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Šta je novo">
-<!ENTITY whatsNewCmd.accesskey "Š">
-<!ENTITY openHelp.label "Sadržaj pomoći">
-<!ENTITY openHelp.accesskey "d">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; pomoć">
-<!ENTITY openHelpMac2.label "&brandFullName; Pomoć">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "O &brandShortName;u">
-<!ENTITY aboutMenuCmd.accesskey "O">
-
-<!ENTITY aboutMenuCmd2.label "O &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "A">

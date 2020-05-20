@@ -101,3 +101,4 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> koristi sigurnosne tehnologije koje su zastarjele i podložne napadima. Napadač može jednostavno otkriti informacije za koje ste smatrali da su sigurne. Administrator web stranice će trebati popraviti server prije nego što možete posjetiti stranicu.</p><p>Kod greške: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
 <!ENTITY blockedByPolicy.title "Blokirana stranica">
+

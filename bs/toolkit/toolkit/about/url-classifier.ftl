@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Moduli zapisivanja sigurnog surfanja
 url-classifier-debug-modules = Trenutni moduli zapisivanja
 url-classifier-debug-sbjs-modules = JS zapisnik sigurnog surfanja
 url-classifier-debug-file = Trenutni fajl zapisnika
+
 url-classifier-trigger-update = Pokreni nadogradnju
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Onemogući JS zapisnik sigurnog surfanja

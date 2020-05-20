@@ -19,6 +19,8 @@ onboarding-cards-dismiss =
     .title = Odbaci
     .aria-label = Odbaci
 
+## Welcome full page string
+
 ## Firefox Sync modal dialog strings.
 
 

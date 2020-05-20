@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Veličina:">
-<!ENTITY size.accesskey                       "z">
 <!ENTITY fontColor.label                      "Boja teksta:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Boja pozadine:">

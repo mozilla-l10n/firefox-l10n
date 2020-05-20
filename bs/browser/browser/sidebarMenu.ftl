@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Zabilješke
+
 sidebar-menu-history =
     .label = Historija
+
 sidebar-menu-synced-tabs =
     .label = Sinhronizovani tabovi
+
 sidebar-menu-close =
     .label = Zatvori bočnu traku

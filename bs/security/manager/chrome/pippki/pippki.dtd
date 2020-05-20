@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Upitani ste da li vjerujete novom Certifikacijskom Autoritetu (CA).">
 <!ENTITY downloadCert.trustSSL "Vjeruj ovom CA da identifikuje web stranice.">
 <!ENTITY downloadCert.trustEmail "Vjeruj ovom CA da identifikuje email korisnike.">
-<!ENTITY downloadCert.trustObjSign "Vjeruj ovom CA da bi identifikovao softverske programere.">
 <!ENTITY downloadCert.message3 "Prije nego što potvrdite vjerodostojnost ovog CA za bilo koju svrhu, trebali biste pregledati njegove certifikate, police i procedure (ako su dostupne).">
 <!ENTITY downloadCert.viewCert.label "Pregled">
 <!ENTITY downloadCert.viewCert.text "Ispitaj CA certifikat">

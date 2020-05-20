@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pomoć"> 
 <!ENTITY helpMenuWin.accesskey    "P">
+
 <!ENTITY aboutProduct2.label      "O &brandShorterName;u">
 <!ENTITY aboutProduct2.accesskey  "O">
 <!ENTITY productHelp2.label       "&brandShorterName; pomoć">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "Restartuj sa omogućenim add-onima">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "&brandShorterName; izvještaj o zdravlju">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informacije za rješavanje problema">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Prikaži sve">
+

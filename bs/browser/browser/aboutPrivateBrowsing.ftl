@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Saznajte više o <a data-l10n-name="learn-more">Privatnom surfanju</a>.
 about-private-browsing-info-visited = posjećene stranice
+
 privatebrowsingpage-open-private-window-label = Otvori Privatni prozor
     .accesskey = r
 about-private-browsing-info-notsaved = Kada surfate u privatnom prozoru, { -brand-short-name } <strong>ne spašava</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Trenutno niste u privatnom prozoru.
 content-blocking-title = Blokiranje sadržaja
 content-blocking-description = Neke web stranice koriste trackere koji nadziru vaše aktivnosti na internetu. U privatnim prozorima, { -brand-short-name } blokiranje sadržaja automatski blokira mnoge trackere koji mogu prikupljati informacije o vašim navikama surfanja.
 about-private-browsing-info-description = { -brand-short-name } briše vašu historiju pretraga i surfanja kada ugasite aplikaciju ili zatvorite sve tabove i prozore Privatnog surfanja. Iako vas ovo ne čini anonimnim web stranicama ili vašem internet provajderu, omogućava vam da ono što radite online zadržite privatnim od svih drugih korisnika ovog računara.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

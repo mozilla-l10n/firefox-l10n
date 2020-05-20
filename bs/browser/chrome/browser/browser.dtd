@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Izađi iz prikaza preko cijelog ekrana">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Prikaz preko cijelog ekrana">
 <!ENTITY fullScreenCmd.accesskey "c">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifikujte vaš račun">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimiziraj">
 <!ENTITY fullScreenRestore.tooltip "Vrati">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Postavke računa">
 <!ENTITY fxa.menu.manageAccount2.label "Upravljanje računom">
 <!ENTITY fxa.menu.signOut.label "Odjava…">
-<!ENTITY fxa.menu.deviceSettings.label "Postavke uređaja">
 <!ENTITY fxa.menu.setupSync.label "Podesi &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Idi na adresu upisanu u adresnoj traci">
+
 <!ENTITY printButton.label            "Štampaj">
 <!ENTITY printButton.tooltip          "Štampaj ovu stranicu">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Upravljajte upotrebom DRM softvera">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Otvori MIDI panel">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste dodijelili dodatne dozvole.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Blokirali ste vašu kameru za ovu web stranicu.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Blokirali ste vaš mikrofon za ovu web stranicu.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Blokirali ste dijeljenje vašeg ekrana ovoj web stranici.">
@@ -291,7 +291,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Blokirali ste ovu web stranicu da koristi Adobe Flash plugin.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Ovoj stranici ste dodijelili dodatne dozvole.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Prikaži historiju">
+
 
 <!ENTITY searchItem.title             "Pretraga">
 
@@ -352,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY newUserContext.label             "Novi Container tab">
 <!ENTITY newUserContext.accesskey         "b">
+
 <!ENTITY newNavigatorCmd.label        "Novi prozor">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -480,6 +485,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Više">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Unesite termin za pretragu ili adresu">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -613,6 +619,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Z">
+
 <!ENTITY pageAction.copyLink.label    "Kopiraj link">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -939,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Zatvori">
 

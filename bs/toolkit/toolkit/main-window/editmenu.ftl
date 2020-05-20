@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = Poništi
     .accesskey = U
+
 editmenu-redo =
     .label = Ponovi
     .accesskey = R
+
 editmenu-cut =
     .label = Isjeci
     .accesskey = t
+
 editmenu-copy =
     .label = Kopiraj
     .accesskey = C
+
 editmenu-paste =
     .label = Zalijepi
     .accesskey = P
+
 editmenu-delete =
     .label = Obriši
     .accesskey = D
+
 editmenu-select-all =
     .label = Označi sve
     .accesskey = A

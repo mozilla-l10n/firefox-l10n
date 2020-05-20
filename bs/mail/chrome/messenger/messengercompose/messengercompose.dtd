@@ -98,8 +98,8 @@
      toggleAttachmentPaneCmd.key and attachments.accesskey must be the same
      for the bucket view state machinery to work. -->
 <!ENTITY selectAllCmd.label "Označi sve">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Nađi…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -245,7 +245,6 @@
 <!ENTITY sendlaterButton.tooltip "Pošalji poruku kasnije">
 <!ENTITY quoteButton.tooltip "Citiraj prethodnu poruku">
 <!ENTITY addressButton.tooltip "Odaberi primaoca iz imenika">
-<!ENTITY attachButton.tooltip "Uključi prilog">
 <!ENTITY attachButton.tooltip2 "Dodaj prilog">
 <!ENTITY spellingButton.tooltip "Provjeri pravopis odabranog teksta ili cijele poruke">
 <!ENTITY saveButton.tooltip "Sačuvaj ovu poruku">

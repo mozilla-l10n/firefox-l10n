@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Opcije arhiviranja">
 <!ENTITY archiveGranularityPrefix.label "Prilikom arhiviranja poruka, smjesti ih u:">
 <!ENTITY archiveFlat.label "Jedan direktorij">
