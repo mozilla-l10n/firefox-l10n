@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = ต
 appmenu-addon-private-browsing-message = ส่วนขยายใหม่ใด ๆ ที่คุณเพิ่มไปยัง { -brand-shorter-name } จะไม่ทำงานในหน้าต่างส่วนตัวนอกจากคุณจะอนุญาตสิ่งนี้ในการตั้งค่า
 appmenu-addon-private-browsing-learn-more = เรียนรู้วิธีการจัดการการตั้งค่าส่วนขยาย
+    
 appmenu-new-tab-controlled =
     .label = แท็บใหม่ของคุณมีการเปลี่ยนแปลง
     .buttonlabel = เก็บการเปลี่ยนแปลง

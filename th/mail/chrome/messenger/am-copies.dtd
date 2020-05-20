@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "สำเนาและโฟลเดอร์">
 <!ENTITY sendingPrefix.label "เมื่อส่งข้อความ ให้ทำสิ่งนี้โดยอัตโนมัติ: ">
 <!ENTITY fccMailFolder.label "วางสำเนาใน:">

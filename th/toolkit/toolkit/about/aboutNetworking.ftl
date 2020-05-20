@@ -9,24 +9,12 @@ ok = ตกลง
 http = HTTP
 sockets = ซ็อกเก็ต
 dns = DNS
-dnssuffix = คำลงท้าย DNS
 websockets = WebSockets
 refresh = เรียกใหม่
 auto-refresh = เรียกใหม่อัตโนมัติทุก 3 วินาที
 hostname = ชื่อโฮสต์
 port = พอร์ต
 http2 = HTTP/2
-about-networking-title = เกี่ยวกับเครือข่าย
-about-networking-http = HTTP
-about-networking-sockets = ซ็อกเก็ต
-about-networking-dns = DNS
-about-networking-dns-suffix = คำลงท้าย DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = เรียกใหม่
-about-networking-auto-refresh = เรียกใหม่อัตโนมัติทุก 3 วินาที
-about-networking-hostname = ชื่อโฮสต์
-about-networking-port = พอร์ต
-about-networking-http-version = รุ่น HTTP
 ssl = SSL
 active = ใช้งานอยู่
 idle = ว่าง
@@ -69,8 +57,18 @@ rcwn-avg-long = ค่าเฉลี่ยแบบยาว
 rcwn-std-dev-long = ค่าเบี่ยงเบนมาตรฐานแบบยาว
 rcwn-cache-slow = จำนวนแคชที่หน่วงเวลา
 rcwn-cache-not-slow = จำนวนแคชที่ไม่ได้หน่วงเวลา
-networkid = ID เครือข่าย
-networkid-id = ID เครือข่าย
+
+about-networking-title = เกี่ยวกับเครือข่าย
+about-networking-http = HTTP
+about-networking-sockets = ซ็อกเก็ต
+about-networking-dns = DNS
+about-networking-dns-suffix = คำลงท้าย DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = เรียกใหม่
+about-networking-auto-refresh = เรียกใหม่อัตโนมัติทุก 3 วินาที
+about-networking-hostname = ชื่อโฮสต์
+about-networking-port = พอร์ต
+about-networking-http-version = รุ่น HTTP
 about-networking-ssl = SSL
 about-networking-active = ใช้งานอยู่
 about-networking-idle = ว่าง
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID เครือข่าย
 
 ## Link is intended as "network link"
 
-networkid-isUp = ลิงก์ถูกเชื่อมต่อแล้ว
-networkid-statusKnown = ทราบสถานะลิงก์แล้ว
 about-networking-networkid-is-up = ลิงก์ถูกเชื่อมต่อแล้ว
 about-networking-networkid-status-known = ทราบสถานะลิงก์แล้ว
 

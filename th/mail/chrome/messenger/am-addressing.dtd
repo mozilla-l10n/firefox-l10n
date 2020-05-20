@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "การเขียนและการกำหนดที่อยู่">
 <!ENTITY addressingGroupTitle.label "การกำหนดที่อยู่">
 <!ENTITY addressingText.label      "เมื่อมองหาที่อยู่:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "ไม่มี">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "การเขียน">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

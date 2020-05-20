@@ -51,6 +51,7 @@ import =
 close-button =
     .label = ปิด
     .accesskey = ป
+
 show-passwords =
     .label = แสดงรหัสผ่าน
     .accesskey = ร
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = คุณแน่ใจหรือไม่ว่าต้องการเอารหัสผ่านทั้งหมดออก?
 remove-all-passwords-title = เอารหัสผ่านทั้งหมดออก
 no-master-password-prompt = คุณแน่ใจหรือไม่ว่าต้องการแสดงรหัสผ่านของคุณ?
+
+## OS Authentication dialog
+

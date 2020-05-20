@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "พ">
 <!ENTITY DictionaryList.label "คำในพจนานุกรม">
 <!ENTITY DictionaryList.accessKey "น">
-<!ENTITY ReplaceButton.label "แทนที่">
-<!ENTITY ReplaceButton.accessKey "ท">
 <!ENTITY RemoveButton.label "เอาออก">
 <!ENTITY RemoveButton.accessKey "อ">
 

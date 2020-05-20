@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "เพิ่มบริการที่เก็บข้อมูล Filelink ใหม่">
 <!ENTITY removeCloudFileAccount.label     "เอาออก">
 <!ENTITY removeCloudFileAccount.accesskey "อ">
-<!ENTITY authRequired.description         "คุณต้องได้รับอนุญาตก่อนจึงจะสามารถดูการตั้งค่าสำหรับบริการที่เก็บข้อมูลนี้">
-<!ENTITY authRequired.button.label        "อนุญาต">
-<!ENTITY authRequired.button.accesskey    "อ">
 
 <!ENTITY findCloudFileProviders.label     "ค้นหาผู้ให้บริการเพิ่มเติม…">
 

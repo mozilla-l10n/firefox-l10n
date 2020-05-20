@@ -5,50 +5,66 @@
 permissions-window =
     .title = ข้อยกเว้น
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ที่อยู่เว็บไซต์
     .accesskey = ท
+
 permissions-block =
     .label = ปิดกั้น
     .accesskey = ป
+
 permissions-session =
     .label = อนุญาตในวาระ
     .accesskey = น
+
 permissions-allow =
     .label = อนุญาต
     .accesskey = อ
+
 permissions-site-name =
     .label = เว็บไซต์
+
 permissions-status =
     .label = สถานะ
+
 permissions-remove =
     .label = เอาเว็บไซต์ออก
     .accesskey = อ
+
 permissions-remove-all =
     .label = เอาเว็บไซต์ทั้งหมดออก
     .accesskey = ว
+
 permissions-button-cancel =
     .label = ยกเลิก
     .accesskey = ย
+
 permissions-button-ok =
     .label = บันทึกการเปลี่ยนแปลง
     .accesskey = บ
+
 permissions-autoplay-menu = ค่าเริ่มต้นสำหรับเว็บไซต์ทั้งหมด:
+
 permissions-searchbox =
     .placeholder = ค้นหาเว็บไซต์
+
 permissions-capabilities-autoplay-allow =
     .label = อนุญาตเสียงและวิดีโอ
 permissions-capabilities-autoplay-block =
     .label = ปิดกั้นเสียง
 permissions-capabilities-autoplay-blockall =
     .label = ปิดกั้นเสียงและวิดีโอ
+
 permissions-capabilities-allow =
     .label = อนุญาต
 permissions-capabilities-block =
     .label = ปิดกั้น
 permissions-capabilities-prompt =
     .label = ถามเสมอ
+
 permissions-capabilities-listitem-allow =
     .value = อนุญาต
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = ข้อยกเว้น - การปิดกั้นเนื้อหา
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = คุณได้ปิดใช้งานการปิดกั้นเนื้อหาในเว็บไซต์เหล่านี้
+
 permissions-exceptions-etp-window =
     .title = ข้อยกเว้นสำหรับการป้องกันการติดตามที่มากขึ้น
     .style = { permissions-window.style }

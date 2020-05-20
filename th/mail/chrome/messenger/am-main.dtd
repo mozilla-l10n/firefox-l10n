@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "การตั้งค่าบัญชี">
 <!ENTITY accountName.label "ชื่อบัญชี:">
 <!ENTITY accountName.accesskey "ช">

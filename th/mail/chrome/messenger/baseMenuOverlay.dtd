@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "ข">
 <!ENTITY helpSafeMode.label     "เริ่มการทำงานใหม่พร้อมปิดใช้งานส่วนเสริม…">
 <!ENTITY helpSafeMode.accesskey "ร">
-<!ENTITY releaseCmd2.label "บันทึกประจำรุ่น">
-<!ENTITY releaseCmd2.accesskey "บ">
-<!ENTITY whatsNewCmd.label "มีอะไรใหม่">
-<!ENTITY whatsNewCmd.accesskey "ม">
-<!ENTITY openHelp.label "เนื้อหาความช่วยเหลือ">
-<!ENTITY openHelp.accesskey "ช">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "ความช่วยเหลือของ &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "เกี่ยวกับ &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "ก">
 <!ENTITY helpSafeMode.stop.label     "เริ่มการทำงานใหม่พร้อมเปิดใช้งานส่วนเสริม">
 <!ENTITY helpSafeMode.stop.accesskey "ร">
 <!ENTITY productHelp.label "ความช่วยเหลือของ &brandShortName;">

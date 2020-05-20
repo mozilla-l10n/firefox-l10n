@@ -54,6 +54,7 @@ import =
 close-button =
     .label = ปิด
     .accesskey = ป
+
 show-passwords =
     .label = แสดงรหัสผ่าน
     .accesskey = ส

@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = เกิดข้อผิดพลาดระหว่างเชื่อมต่อกับ { $hostname } { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = รหัสข้อผิดพลาด: { $error }
+
 psmerr-ssl-disabled = ไม่สามารถเชื่อมต่ออย่างปลอดภัยเนื่องจากโปรโตคอล SSL ถูกปิดใช้งาน
 psmerr-ssl2-disabled = ไม่สามารถเชื่อมต่ออย่างปลอดภัยเนื่องจากไซต์ใช้โปรโตคอล SSL รุ่นเก่าที่ไม่ปลอดภัย
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     คุณได้รับใบรับรองที่ไม่ถูกต้อง โปรดติดต่อผู้ดูแลเซิร์ฟเวอร์หรือส่งอีเมลหาผู้ที่เกี่ยวข้องโดบแนบข้อมูลดังกล่าวไปด้วย:
     
     ใบรับรองของคุณมีเลขอนุกรมที่เหมือนกับใบรับรองอื่นที่ออกมาแล้ว โปรดรับใบรับรองใหม่ที่มีเลขอนุกรมไม่ซ้ำ
+
 ssl-error-export-only-server = ไม่สามารถสื่อสารอย่างปลอดภัย อีกฝั่งไม่รองรับการเข้ารหัสระดับสูง
 ssl-error-us-only-server = ไม่สามารถสื่อสารอย่างปลอดภัย อีกฝั่งต้องการการเข้ารหัสระดับสูงซึ่งไม่รองรับ
 ssl-error-no-cypher-overlap = ไม่สามารถสื่อสารอย่างปลอดภัยกับอีกฝั่ง: ไม่มีอัลกอริทึมการเข้ารหัสร่วมกัน
