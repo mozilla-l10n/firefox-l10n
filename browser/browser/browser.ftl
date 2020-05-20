@@ -242,6 +242,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tillägg:
+urlbar-go-button =
+    .tooltiptext = Gå till adressen i adressfältet
 urlbar-page-action-button =
     .tooltiptext = Åtgärder för sida
 urlbar-pocket-button =
