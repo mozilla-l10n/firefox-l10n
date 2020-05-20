@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label "ਸੁਨੇਹੇ ਮਿਤੀ ਨਾਲ ਪੜ੍ਹੇ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ">
 <!ENTITY markByDateLower.label "ਇਸ ਤੋਂ ਸੁਨੇਹੇ ਪੜ੍ਹੇ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ:">
 <!ENTITY markByDateLower.accesskey "F">
-<!ENTITY markByDateUpper.accesskey "T">
 <!ENTITY markByDateUpper.label "ਤੱਕ:">
+<!ENTITY markByDateUpper.accesskey "T">

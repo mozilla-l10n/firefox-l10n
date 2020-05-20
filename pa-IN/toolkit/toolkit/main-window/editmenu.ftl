@@ -13,21 +13,27 @@
 editmenu-undo =
     .label = ਵਾਪਸ ਲਵੋ
     .accesskey = U
+
 editmenu-redo =
     .label = ਵਾਪਸ ਕਰੋ
     .accesskey = R
+
 editmenu-cut =
     .label = ਕੱਟੋ
     .accesskey = t
+
 editmenu-copy =
     .label = ਕਾਪੀ ਕਰੋ
     .accesskey = C
+
 editmenu-paste =
     .label = ਚੇਪੋ
     .accesskey = P
+
 editmenu-delete =
     .label = ਹਤਾਓ
     .accesskey = D
+
 editmenu-select-all =
     .label = ਸਭ ਚੁਣੋ
     .accesskey = A

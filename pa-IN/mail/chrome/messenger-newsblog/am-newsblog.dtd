@@ -3,21 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY biffStart.label "ਨਵੇਂ ਲੇਖਾਂ ਦੀ ਜਾਂਚ ਕਰੋ ਹਰੇਕ ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "ਮਿੰਟਾਂ ਬਾਅਦ">
-
-<!ENTITY loginAtStartup.label "ਸ਼ੁਰੂ ਵੇਲੇ ਨਵੇਂ ਲੇਖਾਂ ਲਈ ਚੈੱਕ ਕਰੋ"> 
-<!ENTITY loginAtStartup.accesskey "C">
-
-<!ENTITY useQuickMode.label "ਡਿਫਾਲਟ ਰੂਪ ਵਿੱਚ ਵੈੱਬ ਪੇਜ਼ ਲੋਡ ਕਰਨ ਦੀ ਬਜਾਏ ਲੇਖ ਸੰਖੇਪ ਜਾਣਕਾਰੀ ਵੇਖੋ"> 
-<!ENTITY useQuickMode.accesskey "B">
-
 <!ENTITY manageSubscriptions.label "…ਮੈਂਬਰੀ ਪਰਬੰਧ"> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "ਬਲੌਗ ਤੇ ਨਿਊਜ਼ ਫੀਡ">
-<!ENTITY feeds.wizardShortName "ਫੀਡ">
-<!ENTITY feeds.wizardLongName "ਬਲੌਗ ਅਤੇ ਨਿਊਜ਼ ਫੀਡ">
-<!ENTITY feeds.wizardLongName.accesskey "F">

@@ -7,7 +7,9 @@ about-config-warning-title = ਇਹ ਹੈ ਡਰੈਗਨ!
 about-config-warning-text = ਇਹਨਾਂ ਤਕਨੀਕੀ ਸੈਟਿੰਗਾਂ ਨੂੰ ਬਦਲਣਾ ਇਸ ਐਪਲੀਕੇਸ਼ਨ ਦੀ ਸਥਿਰਤਾ, ਸੁਰੱਖਿਆ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਲਈ ਨੁਕਸਾਨਦੇਹ ਹੋ ਸਕਦਾ ਹੈ। ਤੁਹਾਨੂੰ ਸਿਰਫ ਤਾਂ ਹੀ ਜਾਰੀ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ ਜੇ ਤੁਸੀਂ ਯਕੀਨੀ ਹੋ ਕਿ ਤੁਸੀਂ ਕੀ ਕਰ ਰਹੇ ਹੋ।
 about-config-warning-checkbox = ਮੈਨੂੰ ਫਿਰ ਪਰੇਸ਼ਾਨ ਕਰੋ, ਕਿਰਪਾ ਕਰਕੇ!
 about-config-warning-button = ਮੈਂ ਖ਼ਤਰੇ ਨੂੰ ਮੰਨਿਆ
+
 about-config2-title = ਤਕਨੀਕੀ ਸੰਰਚਨਾ
+
 about-config-search-input =
     .placeholder = ਖੋਜ
 
@@ -22,16 +24,20 @@ about-config-intro-warning-button = ਖ਼ਤਰੇ ਨੂੰ ਮੰਨੋ ਤ�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = ਇਨ੍ਹਾਂ ਤਰਜੀਹਾਂ ਨੂੰ ਬਦਲਣਾ { -brand-short-name } ਪ੍ਰਦਰਸ਼ਨ ਜਾਂ ਸੁਰੱਖਿਆ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰ ਸਕਦਾ ਹੈ।
+
 about-config-page-title = ਤਕਨੀਕੀ ਪਸੰਦਾਂ
+
 about-config-search-input1 =
     .placeholder = ਪਸੰਦ ਨਾਂ ਖੋਜੋ
 about-config-show-all = ਸਾਰੇ ਦਿਖਾਓ
+
 about-config-pref-add = ਜੋੜੋ
 about-config-pref-toggle = ਬਦਲੋ
 about-config-pref-edit = ਸੋਧੋ
 about-config-pref-save = ਸੰਭਾਲੋ
 about-config-pref-reset = ਮੁੜ-ਸੈੱਟ
 about-config-pref-delete = ਹਟਾਓ
+
 about-config-pref-add-button =
     .title = ਜੋੜੋ
 about-config-pref-toggle-button =

@@ -16,8 +16,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "ਫੋਂਟ:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "ਸਾਈਜ਼:">
-<!ENTITY size.accesskey                       "z">
 <!ENTITY fontColor.label                      "ਟੈਕਸਟ ਰੰਗ:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "ਬੈਕਗਰਾਊਂਡ ਰੰਗ:">

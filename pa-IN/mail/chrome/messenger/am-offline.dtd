@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "ਡਿਸਕ ਥਾਂ ਬਚਾਉਣ ਲਈ ਡਾਊਨਲੋਡ ਨਾ ਕਰੋ:">
 <!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
 <!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
-<!ENTITY allFoldersOffline.label "ਇਸ ਅਕਾਊਂਟ ਲਈ ਇਸ ਕੰਪਿਊਟਰ ਉੱਤੇ ਸੁਨੇਹੇ ਰੱਖੋ">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "ਇਸ ਤੋਂ ਵੱਡੇ ਸੁਨੇਹੇ">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Don't download messages larger than">
@@ -27,8 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "n">
 <!ENTITY retentionKeepRecent.label "ਸਭ ਹਟਾਓ, ਪਰ ਸਭ ਤੋਂ ਤਾਜ਼ਾ ਨਹੀਂ">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "ਪੜ੍ਹੇ ਸੁਨੇਹੇ ਹਮੇਸ਼ਾ ਹਟਾਓ (ਉਮਰ ਸੈਟਿੰਗ ਅਣਡਿੱਠੀ)">
 <!ENTITY retentionApplyToFlagged.label "ਹਮੇਸ਼ਾ ਤਾਰਾਬੱਧ ਸੁਨੇਹੇ ਰੱਖੋ">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "ਇਸ ਤੋਂ ਵੱਧ ਲਈ ਸੁਨੇਹਿਆਂ ਤੋਂ ਮੁੱਖ ਭਾਗ ਹਟਾਓ">

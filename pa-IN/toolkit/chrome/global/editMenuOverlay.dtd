@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "ਖੋਜ">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

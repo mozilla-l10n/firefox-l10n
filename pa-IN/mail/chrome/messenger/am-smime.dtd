@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "ਲੋੜੀਦਾ (ਸੁਨੇਹਾ ਭੇਜਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਜਦੋਂ ਤੱਕ ਸਭ ਪ੍ਰਾਪਤ ਕਰਤਾ ਕੋਲ ਸਰਟੀਫਿਕੇਟ ਨਾ ਹੋਵੇ)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "ਤੁਹਾਨੂੰ ਭੇਜੇ ਸੁਨੇਹੇ ਇੰਕ੍ਰਿਪਟ ਅਤੇ ਡਿਕ੍ਰਿਪਟ ਕਰਨ ਵਾਸਤੇ ਇਹ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ:">
+
 <!ENTITY digitalSign.certificate.button "ਚੁਣੋ…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "ਸਾਫ਼ ਕਰੋ">
@@ -26,7 +27,6 @@
 <!ENTITY signingCert.message "ਤੁਹਾਡੇ ਵਲੋਂ ਭੇਜਣ ਵਾਲੇ ਸੁਨੇਹਿਆਂ ਲਈ ਡਿਜ਼ਿਟਲ ਸਾਈਨ ਲਈ ਇਹ ਸਰਟੀਫਿਕੇਟ ਵਰਤੋਂ:">
 
 <!ENTITY certificates.label "ਸਰਟੀਫਿਕੇਟ">
-<!ENTITY manageCerts.label "ਸਰਟੀਫਿਕੇਟ ਵੇਖੋ">
-<!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "ਸੁਰੱਖਿਆ ਜੰਤਰ">
 <!ENTITY manageDevices.accesskey "y">
+

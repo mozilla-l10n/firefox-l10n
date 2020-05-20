@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY newDirectoryTitle.label           "ਡਾਇਰੈਕਟਰੀ ਸਰਵਰ ਵਿਸ਼ੇਸਤਾ">
 <!ENTITY directoryName.label               "ਨਾਂ: ">
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "ਹੋਸਟ ਨਾਂ: ">
@@ -40,6 +39,7 @@
 <!ENTITY saslOff.accesskey                 "l">
 <!ENTITY saslGSSAPI.label                  "ਕਰਬਰੋਸ(GSSAPI)">
 <!ENTITY saslGSSAPI.accesskey              "K">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

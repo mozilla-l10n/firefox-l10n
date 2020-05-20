@@ -19,7 +19,6 @@
 <!ENTITY pasteAsQuotationCmd.label "ਹਵਾਲੇ ਵਜੋਂ ਚੇਪੋ">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY findCmd.label "ਲੱਭੋ ਅਤੇ ਬਦਲੋ…">
 <!ENTITY enableInlineSpellChecker.label "ਜਿਵੇਂ ਹੀ ਤੁਸੀਂ ਲਿਖੋ, ਉਵੇਂ ਹੀ ਸਪੈਲਚੈੱਕ ਕਰੋ">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "ਸਪੈਲਿੰਗ ਚੈੱਕ ਕਰੋ">
@@ -29,9 +28,6 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "ਸ਼ਾਮਲ">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "ਲਿੰਕ…">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "ਨਾਂ ਸਮੇਤ ਐਂਕਰ…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "ਚਿੱਤਰ…">
@@ -84,20 +80,12 @@
 
 <!ENTITY fontSizeMenu.label "ਆਕਾਰ">
 <!ENTITY fontSizeMenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "xx-ਛੋਟਾ">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-ਛੋਟਾ">
-<!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "ਛੋਟੇ">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "ਮੱਧਮ">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "ਵੱਡੇ">
 <!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "x-ਵੱਡੇ">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-ਵੱਡੇ">
-<!ENTITY size-xx-largeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "ਟੈਕਸਟ ਸਟਾਇਲ">
@@ -314,7 +302,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Insert new named anchor or edit selected anchor's properties">
 <!ENTITY TextColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਰੰਗ ਚੁਣੋ">
 <!ENTITY BackgroundColorButton.tooltip "ਬੈਕਗਰਾਊਂਡ ਲਈ ਰੰਗ ਚੁਣੋ">
-<!ENTITY throbber.tooltip "&vendorShortName; ਦੇ ਮੁੱਖ ਸਫ਼ੇ ਉੱਤੇ ਜਾਓ">
 <!ENTITY HighlightColorButton.tooltip "ਟੈਕਸਟ ਲਈ ਹਾਈਲਾਈਟ ਰੰਗ ਚੁਣੋ">
 
 <!-- Editor toolbar -->

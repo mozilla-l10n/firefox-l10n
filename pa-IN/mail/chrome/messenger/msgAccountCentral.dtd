@@ -9,19 +9,18 @@
 <!ENTITY newsSectionHdr.label         "ਨਿਊਜ਼ਗਰੁੱਪ"> 
 <!ENTITY subscribeNewsLink.label      "ਨਿਊਜ਼ਗਰੁੱਪ ਮੈਂਬਰੀ ਪਰਬੰਧ"> 
 
+<!ENTITY feedsSectionHdr.label        "ਫੀਡ">
+<!ENTITY subscribeFeeds.label         "ਮੈਂਬਰੀ ਪਰਬੰਧ">
+
 <!ENTITY accountsSectionHdr.label     "ਅਕਾਊਂਟ"> 
 
 <!ENTITY subscribeImapFolders.label   "ਫੋਲਡਰ ਮੈਂਬਰੀ ਪਰਬੰਧ">
 
 <!ENTITY settingsLink.label           "ਇਸ ਅਕਾਊਂਟ ਲਈ ਸੈਟਿੰਗ ਕਰੋ"> 
-<!ENTITY newAcctLink.label            "ਨਵਾਂ ਅਕਾਊਂਟ ਬਣਾਓ"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "ਤਕਨੀਕੀ ਫੀਚਰ"> 
 <!ENTITY searchMsgsLink.label         "ਸੁਨੇਹੇ ਖੋਜ"> 
 <!ENTITY filtersLink.label            "ਸੁਨੇਹਾ ਫਿਲਟਰ ਪਰਬੰਧ">
 <!ENTITY junkSettings.label           "ਜੰਕ ਮੇਲ ਸੈਟਿੰਗ">
 <!ENTITY offlineLink.label            "ਆਫਲਾਈਨ ਸੈਟਿੰਗ">
-
-<!ENTITY feedsSectionHdr.label        "ਫੀਡ">
-<!ENTITY subscribeFeeds.label         "ਮੈਂਬਰੀ ਪਰਬੰਧ">
 

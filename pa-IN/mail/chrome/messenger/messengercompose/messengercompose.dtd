@@ -71,30 +71,28 @@
 <!ENTITY copyCmd.accesskey "c"> 
 <!ENTITY pasteCmd.label "ਚੇਪੋ">
 <!ENTITY pasteCmd.key "V">
-<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY editRewrapCmd.label "ਮੁੜ-ਸਮੇਟੋ">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "ਹਟਾਓ">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "ਮੁੜ-ਸਮੇਟੋ">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "ਅਟੈਚਮੈਂਟ ਨਾਂ ਬਦਲੋ…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "ਸਭ ਚੁਣੋ">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY findCmd.label "ਖੋਜੋ ਅਤੇ ਬਦਲੋ…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "ਅੱਗੇ ਖੋਜ">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "ਪਿੱਛੇ ਖੋਜ">
+<!ENTITY findPrevCmd.accesskey "v"> 
+
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v"> 
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "ਵੇਖੋ"> 
@@ -175,11 +173,6 @@
 <!ENTITY addressBookCmd.label "ਐਡਰੈੱਸ ਬੁੱਕ">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "ਚੋਣਾਂ…">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
@@ -203,13 +196,13 @@
 <!ENTITY sendlaterButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਬਾਅਦ ਵਿੱਚ ਭੇਜੋ"> 
 <!ENTITY quoteButton.tooltip "ਪਿਛਲੇ ਸੁਨੇਹਾ ਦਾ ਹਵਾਲਾ"> 
 <!ENTITY addressButton.tooltip "ਪ੍ਰਾਪਤ ਕਰਤਾ ਨੂੰ ਐਡਰੈਸ ਬੁੱਕ ਤੋਂ ਚੁਣੋ"> 
-<!ENTITY attachButton.tooltip "ਅਟੈਚਮੈਂਟ ਸਮੇਤ">
-<!ENTITY saveButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਸੰਭਾਲੋ">
 <!ENTITY spellingButton.tooltip "ਚੋਣ ਜਾਂ ਪੂਰੇ ਸੁਨੇਹੇ ਲਈ ਸਪੈੱਲ ਚੈੱਕ ਕਰੋ">
+<!ENTITY saveButton.tooltip "ਇਹ ਸੁਨੇਹਾ ਸੰਭਾਲੋ">
 <!ENTITY cutButton.tooltip              "ਕੱਟੋ">
 <!ENTITY copyButton.tooltip             "ਕਾਪੀ ਕਰੋ">
 <!ENTITY pasteButton.tooltip            "ਚੇਪੋ">
 
+<!-- Headers -->
 <!-- Headers -->
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "ਵਲੋਂ:">
@@ -283,6 +276,8 @@
 <!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "ਵੈੱਬ ਪੇਜ਼ ਅਟੈਚ…">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "ਡਿਕਸ਼ਨਰੀਆਂ ਸ਼ਾਮਲ…">

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "ਲਿਖਣ ਅਤੇ ਐਡਰੈੱਸ">
 <!ENTITY addressingGroupTitle.label "ਐਡਰੈੱਸ">
 <!ENTITY addressingText.label      "ਜਦੋਂ ਐਡਰੈੱਸ ਦੀ ਖੋਜ ਕੀਤੀ ਜਾਵੇ:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label "ਲਿਖਣ">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "ਸੁਨੇਹਾ HTML ਫਾਰਮੈਟ ਵਿੱਚ ਲਿਖੋ">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "ਜਵਾਬ ਦੇਣ ਸਮੇਂ ਅਸਲੀ ਸੁਨੇਹੇ ਨੂੰ ਖੁਦ ਹੀ ਹਵਾਲੇ ਵਜੋਂ ਇਸਤੇਮਾਲ ਕਰੋ">
 <!ENTITY autoQuote.accesskey                  "q">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "ਤਦ,">
-<!ENTITY then.accesskey                       "t">
 <!ENTITY aboveQuote.label                     "ਮੇਰਾ ਜਵਾਬ ਹਵਾਲੇ ਦੇ ਉੱਤੇ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY belowQuote.label                     "ਮੇਰਾ ਜਵਾਬ ਹਵਾਲੇ ਦੇ ਹੇਠਾਂ ਸ਼ੁਰੂ ਕਰੋ">
 <!ENTITY selectAndQuote.label                 "ਹਵਾਲਾ ਚੁਣੋ">

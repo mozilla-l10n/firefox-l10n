@@ -54,6 +54,7 @@ close-tab =
     .title = ਟੈਬ ਬੰਦ ਕਰੋ
 show-addon =
     .title = ਐਡ-ਆਨ ਮੈਨੇਜਰ ਵਿੱਚ ਵੇਖੋ
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

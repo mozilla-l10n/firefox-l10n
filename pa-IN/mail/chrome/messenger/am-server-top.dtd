@@ -46,13 +46,11 @@
 <!ENTITY downloadOnBiff.label "ਨਵੇਂ ਸੁਨੇਹੇ ਆਟੋਮੈਟਿਕ ਹੀ ਡਾਊਨਲੋਡ ਕਰੋ">
 <!ENTITY downloadOnBiff.accesskey "m">
 
-<!ENTITY username.label "ਤੁਹਾਡਾ ਲਾਗਇਨ ਨਾਂ">
-
 <!ENTITY deleteMessagePrefix.label "ਜਦੋਂ ਮੈਂ ਇੱਕ ਸੁਨੇਹਾ ਹਟਾਵਾਂ:">
-<!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelMoveToTrash.label "ਇਸ ਨੂੰ ਰੱਦੀ ਵਿੱਚ ਭੇਜ ਦਿਓ">
 <!ENTITY modelMoveToTrash.accesskey "o">
 <!ENTITY modelMarkDeleted.label "ਇਸ ਨੂੰ ਹਟਾਇਆ ਨਿਸ਼ਾਨਬੱਧ ਕਰੋ">
+<!ENTITY modelMarkDeleted.accesskey "k">
 <!ENTITY modelDeleteImmediately.label "ਤੁਰੰਤ ਹਟਾ ਦਿਓ">
 <!ENTITY modelDeleteImmediately.accesskey "d">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
@@ -73,17 +71,16 @@
 <!ENTITY alwaysAuthenticate.label "ਇਸ ਸਰਵਰ ਨਾਲ ਜੁੜਨ ਸਮੇਂ ਹਮੇਸ਼ਾ ਪਰਮਾਣਕਿਤਾ ਲਈ ਬੇਨਤੀ ਕਰੋ">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc ਫਾਇਲ:">
-<!ENTITY localPath.label "ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ:">
+<!ENTITY newsrcPicker.label "ਫਾਇਲ newsrc ਚੁਣੋ">
 <!ENTITY abbreviate.label "ਪੱਤਰ ਫੋਲਡਰ ਵਿੱਚ ਨਿਊਜ਼-ਗਰੁੱਪ ਦਾ ਨਾਂ ਇੰਝ ਵੇਖੋ:">
 <!ENTITY abbreviateOn.label "ਪੂਰਾ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "ਸੰਖੇਪ ਨਾਂ (ਉਦਾਹਰਨ ਲਈ, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "ਤਕਨੀਕੀ...">
-<!ENTITY serverDefaultCharset.label "ਡਿਫਾਲਟ ਅੱਖਰ ਇੰਕੋਡਿੰਗ:">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY localPath.label "ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ:">
 <!ENTITY localFolderPicker.label "ਲੋਕਲ ਡਾਇਰੈਕਟਰੀ ਚੁਣੋ">
 <!ENTITY browseFolder.label "ਝਲਕ...">
 <!ENTITY browseFolder.accesskey "B">
-<!ENTITY newsrcPicker.label "ਫਾਇਲ newsrc ਚੁਣੋ">
 <!ENTITY browseNewsrc.label "ਝਲਕ...">
 <!ENTITY browseNewsrc.accesskey "e">
 
