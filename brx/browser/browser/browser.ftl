@@ -151,5 +151,5 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = बारायनायफोर:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = लकेसन बारनि थंआव थां
