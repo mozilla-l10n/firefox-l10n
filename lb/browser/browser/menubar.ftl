@@ -52,24 +52,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Änneren
     .accesskey = E
-menu-edit-undo =
-    .label = Réckgängeg maachen
-    .accesskey = U
-menu-edit-cut =
-    .label = Ausschneiden
-    .accesskey = t
-menu-edit-copy =
-    .label = Kopéieren
-    .accesskey = C
-menu-edit-paste =
-    .label = Pechen
-    .accesskey = P
-menu-edit-delete =
-    .label = Läschen
-    .accesskey = D
-menu-edit-select-all =
-    .label = Alles auswielen
-    .accesskey = A
 
 ## View Menu
 

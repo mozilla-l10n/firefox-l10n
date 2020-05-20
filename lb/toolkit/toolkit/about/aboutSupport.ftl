@@ -26,10 +26,26 @@ a11y-activated = Aktivéiert
 sandbox-title = Sandkëscht
 sandbox-sys-call-age = Viru Sekonnen
 sandbox-sys-call-pid = PID
+
+## Media titles
+
 media-device-name = Numm
 media-device-group = Grupp
 media-device-format = Format
+##
+
 intl-regional-prefs = Regional Astellungen
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -41,10 +57,14 @@ no = Nee
 ## not found.
 
 found = Fonnt
+
 gpu-description = Beschreiwung
 gpu-active = Aktiv
+
 loaded-lib-versions = Benotzt Versioun
+
 sandbox-proc-type-content = Inhalt
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

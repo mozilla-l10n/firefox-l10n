@@ -6,4 +6,5 @@ column-heading-username =
     .label = Benotzernumm
 column-heading-password =
     .label = Passwuert
+
 remove-all-passwords-title = All Passwierder läschen

@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Tab zoumaachen réckgängeg maachen
+
 all-tabs-menu-hidden-tabs =
     .label = Verstoppt Tabs
+

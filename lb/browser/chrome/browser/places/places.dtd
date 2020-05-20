@@ -42,20 +42,13 @@
 <!ENTITY cmd.new_bookmark.label            "Neit Lieszeechen…">
 
 
-<!ENTITY cmd.moveBookmarks.label                  "Réckelen…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Numm">
-<!ENTITY col.description.label   "Beschreiwung">
 <!ENTITY col.lastmodified.label  "Zulescht geännert">
 
 
 
 
 
-
-<!ENTITY detailsPane.more.label "Méi">
-<!ENTITY detailsPane.less.label "Manner">
 
 <!ENTITY byDate.label             "No Datum">
 <!ENTITY byDate.accesskey         "D">

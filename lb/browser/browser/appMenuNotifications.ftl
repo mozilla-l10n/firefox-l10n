@@ -4,3 +4,4 @@
 
 appmenu-update-whats-new =
     .value = Kucke wat et Neies gëtt.
+    

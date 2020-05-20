@@ -7,3 +7,4 @@
 
 findbar-find-button-close =
     .tooltiptext = Sichläischt zoumaachen
+

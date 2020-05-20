@@ -8,5 +8,3 @@
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }

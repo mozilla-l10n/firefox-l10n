@@ -8,9 +8,11 @@ places-open =
 places-open-window =
     .label = An enger neier Fënster opmaachen
     .accesskey = N
+
 places-by-date =
     .label = No Datum
     .accesskey = D
 places-by-site =
     .label = No Site
     .accesskey = S
+

@@ -12,6 +12,7 @@ general-meta-name =
     .label = Numm
 general-meta-content =
     .label = Inhalt
+
 media-tab =
     .label = Medien
     .accesskey = M
@@ -41,6 +42,7 @@ media-long-desc =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-no = Neen
+
 image-size-unknown = Onbekannt
 not-set-verified-by = Net spezifizéiert
 page-info-not-specified =
@@ -56,17 +58,20 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Jo
 saved-passwords-no = Neen
+
 no-page-title =
     .value = Säit ouni Titel:
 media-unknown-not-cached =
     .value = Onbekannt (net am Tëschespäicher)
 security-no-visits = Neen
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Bild
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

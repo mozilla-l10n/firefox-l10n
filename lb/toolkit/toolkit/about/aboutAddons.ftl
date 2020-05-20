@@ -5,14 +5,19 @@
 cmd-install-addon =
     .label = Installéieren
     .accesskey = I
+
 detail-version =
     .label = Versioun
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-rating =
     .value = Bewäertung
+
 addon-category-extension = Erweiderungen
 addon-category-extension-title =
     .title = Erweiderungen
@@ -27,10 +32,13 @@ addon-category-locale-title =
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 
 ## Strings connected to add-on updates
 

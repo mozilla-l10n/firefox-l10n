@@ -21,6 +21,4 @@
 
 
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-
-<!ENTITY  update.details.label            "Detailer">
-<!ENTITY  update.installedOn.label        "Installéiert den:">
+                                           

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Schrëftaarten
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Schrëftaarte fir
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabesch
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Gréisst
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans Serif
     .accesskey = n
+
 fonts-monospace = Fest Breet:
     .accesskey = M
+
 fonts-monospace-size = Gréisst
     .accesskey = e
+
 fonts-minsize = Mindestschrëftgréisst:
     .accesskey = o
+
 fonts-minsize-none =
     .label = Keng
+
 fonts-allow-own =
     .label = De Säiten erlaben hir eege Schrëftaarten ze wielen, amplaz vun Denger Wiel hei driwwer
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Textcodéierung fir vereelzten Inhalt
 fonts-languages-fallback-desc = Dës Textcodéierung gëtt genotzt fir vereelzten Inhalt den seng Codéierung net ugëtt.
+
 fonts-languages-fallback-label = Ersatz-Textcodéierung
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Standard fir déi aktuell Sprooch
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamesesch
 fonts-languages-fallback-name-other =
     .label = Aner (inklusiv Westeuropäesch)
-fonts-very-large-warning-title = Grouss Mindestschrëftgréisst
-fonts-very-large-warning-message = Du hues eng ganz grouss Mindestschrëftgréisst ausgewielt (méi wéi 24 Pixelen). Dëst kann et schwéier oder onméiglech maachen, wichteg Astellungssäite wéi déi hei, ze benotzen.
-fonts-very-large-warning-accept = Meng Ännerungen trotzdeem halen
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

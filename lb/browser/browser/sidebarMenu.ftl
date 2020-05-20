@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Lieszeechen
+
 sidebar-menu-history =
     .label = Historique
+

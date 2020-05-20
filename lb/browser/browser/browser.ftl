@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Informatioune vum Site uweisen
 
@@ -40,6 +41,7 @@ urlbar-microphone-blocked =
     .tooltiptext = Du hues Däi Mikro fir dësen Internetsite gespaart.
 urlbar-screen-blocked =
     .tooltiptext = Du hues den Zougrëff op Däin Ecran fir dësen Internetsite gespaart.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
@@ -65,6 +67,7 @@ search-one-offs-change-settings-button =
     .label = Sichastellungen änneren
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sichastellungen änneren
+
 search-one-offs-context-set-as-default =
     .label = Als Standard-Sichmaschinn festleeën
     .accesskey = D
@@ -102,8 +105,10 @@ urlbar-default-placeholder =
     .defaultPlaceholder = Sichen oder Adress aginn
 urlbar-placeholder =
     .placeholder = Sichen oder Adress aginn
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
+
 urlbar-go-button =
     .tooltiptext = D'Adress aus der Leescht lueden
