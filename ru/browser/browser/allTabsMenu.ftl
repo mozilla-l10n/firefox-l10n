@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Восстановить закрытую вкладку
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Поиск вкладок
+
 all-tabs-menu-new-user-context =
     .label = Новая вкладка в контейнере
+
 all-tabs-menu-hidden-tabs =
     .label = Скрытые вкладки
+
 all-tabs-menu-manage-user-context =
     .label = Управление контейнерами
     .accesskey = й

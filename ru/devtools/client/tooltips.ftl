@@ -22,17 +22,29 @@ learn-more = <span data-l10n-name="link">Подробнее</span>>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex- или сеточным контейнером.
+
 inactive-css-not-grid-or-flex-container-or-multicol-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex-, сеточным или многоколоночным контейнером.
+
 inactive-css-not-grid-or-flex-item = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex- или сеточным элементом.
+
 inactive-css-not-grid-item = <strong>{ $property }</strong> не сработает для элемента, так как он не является сеточным элементом.
+
 inactive-css-not-grid-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является сеточным контейнером.
+
 inactive-css-not-flex-item = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex-элементом.
+
 inactive-css-not-flex-container = <strong>{ $property }</strong> не сработает для элемента, так как он не является flex-контейнером.
+
 inactive-css-not-inline-or-tablecell = <strong>{ $property }</strong> не сработает для элемента, так как он не является inline или table-cell элементом.
+
 inactive-css-property-because-of-display = <strong>{ $property }</strong> не сработает для элемента, так как его свойство display задано как <strong>{ $display }</strong>.
+
 inactive-css-not-display-block-on-floated = Значение свойства <strong>display</strong> было изменено движком на <strong>block</strong>, так как элемент <strong>плавающий<strong>.
+
 inactive-css-property-is-impossible-to-override-in-visited = Нельзя переопределить <strong>{ $property }</strong> из-за ограничений псевдокласса <strong>:visited</strong>.
+
 inactive-css-position-property-on-unpositioned-box = <strong>{ $property }</strong> не сработает для элемента, так как он не является позиционированным элементом.
+
 inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> не сработает для элемента, так как <strong>overflow:hidden</strong> не установлено.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -40,18 +52,33 @@ inactive-text-overflow-when-no-overflow = <strong>{ $property }</strong> не с
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = Попробуйте добавить <strong>display:grid</strong> или <strong>display:flex</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-grid-item-fix = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента. { learn-more }
+
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong> или <strong>columns:2</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix-2 = Попробуйте добавить <strong>display:grid</strong>, <strong>display:flex</strong>, <strong>display:inline-grid</strong> или <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-grid-item-fix-2 = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong> к родителю элемента. { learn-more }
+
 inactive-css-not-grid-container-fix = Попробуйте добавить <strong>display:grid</strong> или <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-flex-item-fix = Попробуйте добавить <strong>display:flex</strong> или <strong>display:inline-flex</strong> к родителю элемента. { learn-more }
+
 inactive-css-not-flex-item-fix-2 = Попробуйте добавить <strong>display:flex</strong> или <strong>display:inline-flex</strong> к родителю элемента. { learn-more }
+
 inactive-css-not-flex-container-fix = Попробуйте добавить <strong>display:flex</strong> или <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-inline-or-tablecell-fix = Попробуйте добавить <strong>display:inline</strong> или <strong>display:table-cell</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = Попробуйте добавить <strong>display:inline-block</strong> или <strong>display:block</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = Попробуйте добавить <strong>display:inline-block</strong>. { learn-more }
+
 inactive-css-not-display-block-on-floated-fix = Попробуйте удалить свойство <strong>float</strong> или добавить <strong>display:block</strong>. { learn-more }
+
 inactive-css-position-property-on-unpositioned-box-fix = Попробуйте установить для его свойства <strong>position</strong> значение, отличное от <strong>static</strong>. { learn-more }
+
 inactive-text-overflow-when-no-overflow-fix = Попробуйте добавить <strong>overflow:hidden</strong>. { learn-more }

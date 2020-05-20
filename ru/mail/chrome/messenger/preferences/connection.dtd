@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Не использовать прокси для:">
 <!ENTITY  noproxy.accesskey             "д">
 <!ENTITY  noproxyExplain.label          "Пример: .mozilla-russia.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Использовать этот прокси-сервер для всех протоколов">
+<!ENTITY  shareproxy.accesskey          "е">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Соединения с localhost, 127.0.0.1 и ::1 никогда не проксируются.">
-<!ENTITY  shareproxy.label              "Использовать этот прокси-сервер для всех протоколов">
-<!ENTITY  shareproxy.accesskey          "е">
 <!ENTITY  proxyHttpSharing.label        "Также использовать этот прокси для HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "е">
 <!ENTITY  autologinproxy.label          "Не запрашивать аутентификацию (если был сохранён пароль)">

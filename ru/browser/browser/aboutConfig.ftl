@@ -7,7 +7,9 @@ about-config-warning-title = Здесь обитают драконы!
 about-config-warning-text = Изменение этих настроек может привести к ухудшению стабильности, безопасности и производительности приложения. Изменяйте их только тогда, когда вы уверены в том, что делаете.
 about-config-warning-checkbox = Напомнить мне об этом в следующий раз!
 about-config-warning-button = Я принимаю на себя риск
+
 about-config2-title = Дополнительные настройки
+
 about-config-search-input =
     .placeholder = Поиск
 
@@ -22,16 +24,20 @@ about-config-intro-warning-button = Принять риск и продолжи�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Изменение этих настроек может затронуть производительность или безопасность { -brand-short-name }.
+
 about-config-page-title = Расширенные настройки
+
 about-config-search-input1 =
     .placeholder = Искать параметр по имени
 about-config-show-all = Показать все
+
 about-config-pref-add = Добавить
 about-config-pref-toggle = Переключить
 about-config-pref-edit = Изменить
 about-config-pref-save = Сохранить
 about-config-pref-reset = Сбросить
 about-config-pref-delete = Удалить
+
 about-config-pref-add-button =
     .title = Добавить
 about-config-pref-toggle-button =

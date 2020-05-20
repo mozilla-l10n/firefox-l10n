@@ -9,17 +9,12 @@ about-service-workers-title = О Service Workers
 about-service-workers-main-title = Зарегистрированные Service Workers
 about-service-workers-warning-not-enabled = Service Workers не включены.
 about-service-workers-warning-no-service-workers = Ни одного Service Worker не зарегистрировано.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Источник: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Application ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Имя активного кэша:</strong> { $name
 waiting-cache-name = <strong>Имя кэша ожидания:</strong> { $name }
 push-end-point-waiting = <strong>Конечная точка Push:</strong> { waiting }
 push-end-point-result = <strong>Конечная точка Push:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Обновить
+
 unregister-button = Разрегистрировать
+
 unregister-error = Не удалось разрегистрировать этот Service Worker.
+
 waiting = Ожидание…

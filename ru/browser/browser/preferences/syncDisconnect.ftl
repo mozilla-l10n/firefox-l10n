@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Отсоединиться от { -sync-brand-short-name(case: "genitive") }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Вы хотите также удалить данные браузера на этом компьютере? Ваши данные { -sync-brand-name(case: "genitive") } в любом случае останутся в вашем аккаунте.
+
 sync-disconnect-remove-sync-caption = Удалить данные { -sync-brand-name(case: "genitive") }
+
 sync-disconnect-remove-sync-data = Закладки, история, пароли, и т.д.
+
 sync-disconnect-remove-other-caption = Удалить другие личные данные
+
 sync-disconnect-remove-other-data = Куки, кэш, данных автономных веб-сайтов и т.д.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Отсоединение…
+
 sync-disconnect-cancel =
     .label = Отмена
     .accesskey = м
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Отсоединить и удалить
     .accesskey = е
+
 sync-disconnect-confirm-disconnect =
     .label = Только отсоединить
     .accesskey = л

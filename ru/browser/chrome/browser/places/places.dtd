@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Новый разделитель">
 <!ENTITY cmd.new_separator.accesskey       "р">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Обновить закладку на ленту новостей">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "н">
-
-<!ENTITY cmd.moveBookmarks.label                  "Переместить…">
-<!ENTITY cmd.moveBookmarks.accesskey              "м">
-
 <!ENTITY col.name.label          "Имя">
 <!ENTITY col.tags.label          "Метки">
 <!ENTITY col.url.label           "Адрес">
 <!ENTITY col.mostrecentvisit.label "Последнее посещение">
 <!ENTITY col.visitcount.label    "Число посещений">
-<!ENTITY col.description.label   "Описание">
 <!ENTITY col.dateadded.label     "Добавлена">
 <!ENTITY col.lastmodified.label  "Посл. изменение">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Перейти вперёд">
 
-<!ENTITY detailsPane.more.label "Больше">
-<!ENTITY detailsPane.more.accesskey "ш">
-<!ENTITY detailsPane.less.label "Меньше">
-<!ENTITY detailsPane.less.accesskey "ш">
 <!ENTITY detailsPane.selectAnItemText.description "Выберите элемент для просмотра и редактирования его свойств">
 
 <!ENTITY view.label               "Вид">

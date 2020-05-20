@@ -20,6 +20,7 @@ open-location = Введите запрос или адрес
 share = Поделиться
 close-window = Закрыть окно
 open-sidebar = Боковые панели
+
 # This string describes shortcuts for search.
 search-popover = Значки поисковых систем
 # Describes searches limited to a specific scope

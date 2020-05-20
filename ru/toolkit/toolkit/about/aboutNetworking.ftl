@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Сокеты
 dns = DNS
-dnssuffix = DNS-суффикс
 websockets = Веб-сокеты
 refresh = Обновить
 auto-refresh = Автообновление каждые 3 секунды
 hostname = Имя узла
 port = Порт
 http2 = HTTP/2
-about-networking-title = О сети
-about-networking-http = HTTP
-about-networking-sockets = Сокеты
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS-суффикс
-about-networking-websockets = Веб-сокеты
-about-networking-refresh = Обновить
-about-networking-auto-refresh = Автообновление каждые 3 секунды
-about-networking-hostname = Имя узла
-about-networking-port = Порт
-about-networking-http-version = Версия HTTP
 ssl = SSL
 active = Активен
 idle = Простаивает
@@ -69,8 +57,18 @@ rcwn-avg-long = Долгое среднее
 rcwn-std-dev-long = Долгое стандартное отклонение
 rcwn-cache-slow = Счётчик медленного кэша
 rcwn-cache-not-slow = Счётчик не медленного кэша
-networkid = Сетевой ID
-networkid-id = Сетевой ID
+
+about-networking-title = О сети
+about-networking-http = HTTP
+about-networking-sockets = Сокеты
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS-суффикс
+about-networking-websockets = Веб-сокеты
+about-networking-refresh = Обновить
+about-networking-auto-refresh = Автообновление каждые 3 секунды
+about-networking-hostname = Имя узла
+about-networking-port = Порт
+about-networking-http-version = Версия HTTP
 about-networking-ssl = SSL
 about-networking-active = Активен
 about-networking-idle = Простаивает
@@ -118,8 +116,6 @@ about-networking-networkid-id = Сетевой ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Соединение установлено
-networkid-statusKnown = Состояние соединения известно
 about-networking-networkid-is-up = Соединение установлено
 about-networking-networkid-status-known = Состояние соединения известно
 

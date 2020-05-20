@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Частичное обновление не может быть установлено. &brandShortName; попытается установить обновление, загрузив полное обновление.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не может определить, доступно ли обновление. Пожалуйста, убедитесь, что у вас установлена последняя версия &brandShortName; с сайта:">
-
+                                           
 <!ENTITY  finishedPage.title              "Обновление готово для установки">
 <!ENTITY  finishedPage.text               "Обновление будет установлено при следующем запуске &brandShortName;. Вы можете перезапустить &brandShortName; прямо сейчас, или продолжить работу и перезапустить его позже.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Обновление будет установлено при следующем запуске &brandShortName;. Вы можете перезапустить &brandShortName; прямо сейчас, или продолжить работу и перезапустить его позже.">
 <!ENTITY  finishedBackground.moreElevated "Для этого обновления необходимы права администратора. Обновление будет установлено при следующем запуске &brandShortName;. Вы можете перезапустить &brandShortName; сейчас, продолжить работу и перезапустить его позже, или отказаться от этого обновления.">
 
-<!ENTITY  update.details.label            "Подробности">
-<!ENTITY  update.installedOn.label        "Установлено:">
-<!ENTITY  update.status.label             "Статус:">

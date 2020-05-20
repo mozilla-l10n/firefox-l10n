@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Вам предлагают доверять новому центру сертификации (CA).">
 <!ENTITY downloadCert.trustSSL "Доверять при идентификации веб-сайтов.">
 <!ENTITY downloadCert.trustEmail "Доверять при идентификации пользователей электронной почты.">
-<!ENTITY downloadCert.trustObjSign "Доверять при идентификации производителей программного обеспечения.">
 <!ENTITY downloadCert.message3 "Перед тем, как определиться с доверием к этому центру, рекомендуется проверить его сертификат, политику и процедуры (если возможно).">
 <!ENTITY downloadCert.viewCert.label "Просмотреть">
 <!ENTITY downloadCert.viewCert.text "Проверить сертификат центра">

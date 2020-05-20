@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Узнайте больше о <a data-l10n-name="learn-more">Приватном просмотре</a>.
 about-private-browsing-info-visited = посещённые страницы
+
 privatebrowsingpage-open-private-window-label = Открыть приватное окно
     .accesskey = о
 about-private-browsing-info-notsaved = Когда вы находитесь в приватном окне, { -brand-short-name } <strong>не будет сохранять</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Сейчас вы не находитесь
 content-blocking-title = Блокировка содержимого
 content-blocking-description = Некоторые веб-сайты используют трекеры, которые могут следить за вашими действиями в Интернете. В приватных окнах, Блокировка содержимого { -brand-short-name } автоматически блокирует множество трекеров, которые могут собирать информацию о вашем поведении в Интернете.
 about-private-browsing-info-description = { -brand-short-name } удаляет историю поиска и просмотра страниц, когда вы выходите из приложения или закрываете все приватные вкладки и окна. Хотя это не делает вас анонимными для веб-сайтов или вашего Интернет-провайдера, вам будет легче сохранить конфиденциальность ваших действий в Интернете от других людей, которые используют этот компьютер.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

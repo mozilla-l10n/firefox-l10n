@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Открыть в новом приватном окне
     .accesskey = ы
+
 places-new-bookmark =
     .label = Новая закладка…
     .accesskey = з
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Новый разделитель
     .accesskey = р
+
 places-view =
     .label = Вид
     .accesskey = и
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = По дате и сайтам
     .accesskey = и
+
 places-history-search =
     .placeholder = Поиск по журналу
 places-bookmarks-search =
     .placeholder = Поиск закладок
+
 places-delete-domain-data =
     .label = Забыть об этом сайте
     .accesskey = б

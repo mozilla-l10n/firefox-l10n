@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Сведения о приложении
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Удалить
     .accesskey = д
-app-manager-handle-webfeeds = Для работы с Ленты новостей могут быть использованы следующие приложения.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Для работы с Ссылки { $type } могут быть использованы следующие приложения.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Для работы с Содержимое { $type } могут быть использованы следующие приложения.

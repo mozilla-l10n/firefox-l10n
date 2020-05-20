@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "о">
 
 <!ENTITY importButton.label         "Импорт…">
+
 <!ENTITY importButton.tooltip       "Импорт и добавление к документу существующей таблицы стилей">
 <!ENTITY importButton.accesskey     "м">
 
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "х">
 
 <!ENTITY optionsButton.tooltip      "Настройки Редактора Стилей">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "Показать оригинальные исходники">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "а">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "Показать боковую панель @media">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "з">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Шрифт:">
 <!ENTITY font.accesskey                       "р">
-<!ENTITY size.label                           "Размер:">
-<!ENTITY size.accesskey                       "е">
 <!ENTITY fontSize.label                       "Размер:">
 <!ENTITY fontSize.accesskey                   "е">
 <!ENTITY useReaderDefaults.label              "Использовать цвета пользователя по умолчанию">

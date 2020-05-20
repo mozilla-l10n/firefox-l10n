@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Составление и адресация">
 <!ENTITY addressingGroupTitle.label "Адресация">
 <!ENTITY addressingText.label      "При подборе адресов:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Составление">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Составлять сообщения в формате HTML">
 <!ENTITY useHtml.accesskey                    "я">
 <!ENTITY autoQuote.label                      "При ответе автоматически цитировать текст исходного сообщения">
 <!ENTITY autoQuote.accesskey                  "о">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Затем:">
-<!ENTITY then.accesskey                       "е">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "При цитировании,">
 <!ENTITY quoting.accesskey                    "н">
