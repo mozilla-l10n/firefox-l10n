@@ -6,4 +6,5 @@ restart-required-title = É necessário reiniciar
 restart-required-header = Desculpe, precisamos fazer só uma coisinha para poder continuar.
 restart-required-intro-brand = O { -brand-short-name } acabou de ser atualizado em segundo plano. Clique em Reiniciar o { -brand-short-name } para concluir a atualização.
 restart-required-description = Depois vamos restaurar todas as páginas, janelas e abas, para que você possa logo continuar o que estava fazendo.
+
 restart-button-label = Reiniciar o { -brand-short-name }

@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Detalhes do aplicativo
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Remover
     .accesskey = R
-app-manager-handle-webfeeds = Estes aplicativos podem ser usados para gerenciar RSS.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Estes aplicativos podem ser usados para gerenciar endereços “{ $type }”.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Estes aplicativos podem ser usados para gerenciar conteúdo { $type }.

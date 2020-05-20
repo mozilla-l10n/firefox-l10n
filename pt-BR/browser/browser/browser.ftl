@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Ver informação do site
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Você bloqueou o acesso a MIDI neste site.
 urlbar-install-blocked =
     .tooltiptext = Você bloqueou a instalação de extensões deste site.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editar este favorito ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Gerenciar extensão…
 page-action-remove-from-urlbar =
     .label = Remover da barra de endereços
+
 page-action-remove-extension =
     .label = Remover extensão
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Desta vez, pesquisar com:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Alterar configurações de pesquisa
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Alterar configurações de pesquisa
+
 search-one-offs-context-open-new-tab =
     .label = Pesquisar em uma nova aba
     .accesskey = P
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Exibir editor ao salvar
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Concluído
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Todas as janelas visíveis na sua tela serão compart
 
 enable-devtools-popup-description = Para usar o atalho F12, primeiro abra as ferramentas de desenvolvimento através do menu Desenvolvimento web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Você concedeu permissões adicionais a este site.
 urlbar-switch-to-tab =
     .value = Alternar para a aba:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensão:
+
 urlbar-go-button =
     .tooltiptext = Abrir a página
 urlbar-page-action-button =

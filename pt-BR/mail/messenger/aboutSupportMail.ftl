@@ -14,4 +14,5 @@ accounts-conn-security = Segurança de conexão
 accounts-auth-method = Método de autenticação
 accounts-default = Padrão?
 identity-name = Identidade
+
 send-via-email = Enviar por e-mail

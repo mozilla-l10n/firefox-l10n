@@ -5,50 +5,66 @@
 permissions-window =
     .title = Exceções
     .style = width: 45em
+
 permissions-close-key =
     .key = W
+
 permissions-address = Endereço do site
     .accesskey = e
+
 permissions-block =
     .label = Bloquear
     .accesskey = B
+
 permissions-session =
     .label = Permitir nesta sessão
     .accesskey = n
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-site-name =
     .label = Site
+
 permissions-status =
     .label = Estado
+
 permissions-remove =
     .label = Remover site
     .accesskey = R
+
 permissions-remove-all =
     .label = Remover todos os sites
     .accesskey = t
+
 permissions-button-cancel =
     .label = Cancelar
     .accesskey = C
+
 permissions-button-ok =
     .label = Salvar alterações
     .accesskey = S
+
 permissions-autoplay-menu = Padrão em todos os sites:
+
 permissions-searchbox =
     .placeholder = Pesquisar sites
+
 permissions-capabilities-autoplay-allow =
     .label = Permitir áudio e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear áudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear áudio e vídeo
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Sempre perguntar
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Exceções - Bloqueio de Conteúdo
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Você desativou o bloqueio de conteúdo nestes sites.
+
 permissions-exceptions-etp-window =
     .title = Exceções à proteção aprimorada contra rastreamento
     .style = { permissions-window.style }

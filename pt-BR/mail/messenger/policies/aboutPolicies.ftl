@@ -3,12 +3,15 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 about-policies-title = Políticas empresariais
+
 # 'Active' is used to describe the policies that are currently active
 active-policies-tab = Ativado
 errors-tab = Erros
 documentation-tab = Documentação
+
 no-specified-policies-message = O serviço de políticas empresariais está ativado, mas não há nenhuma política ativada.
 inactive-message = O serviço de políticas empresariais está desativado.
+
 policy-name = Nome da política
 policy-value = Valor da política
 policy-errors = Erros da política
