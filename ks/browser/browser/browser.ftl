@@ -79,5 +79,5 @@ urlbar-placeholder =
     .placeholder = تلاش کْریو یا اینٹر کْریو پتاہ
 urlbar-switch-to-tab =
     .value = ٹیبس منز گژھیو
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = جاے بارس منز گژھیو نیبس منز
