@@ -7,7 +7,9 @@ about-config-warning-title = Tukaj so zmaji!
 about-config-warning-text = Spreminjanje teh naprednih nastavitev lahko vpliva na zanesljivost, varnost in učinkovitost tega programa. Nadaljujte samo v primeru, da ste prepričani v svoje početje.
 about-config-warning-checkbox = Spet me opozori!
 about-config-warning-button = Sprejmem tveganje
+
 about-config2-title = Napredne nastavitve
+
 about-config-search-input =
     .placeholder = Išči
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Sprejmi tveganje in nadaljuj
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Spreminjanje teh nastavitev lahko vpliva na delovanje ali varnost { -brand-short-name }a.
+
 about-config-page-title = Napredne nastavitve
+
 about-config-search-input1 =
     .placeholder = Iskanje imena nastavitve
 about-config-show-all = Prikaži vse
+
 about-config-pref-add = Dodaj
 about-config-pref-toggle = Preklopi
 about-config-pref-edit = Uredi
 about-config-pref-save = Shrani
 about-config-pref-reset = Ponastavi
 about-config-pref-delete = Izbriši
+
 about-config-pref-add-button =
     .title = Dodaj
 about-config-pref-toggle-button =

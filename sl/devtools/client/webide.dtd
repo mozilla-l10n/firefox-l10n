@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "P">
 
 <!ENTITY projectButton_label "Odpri aplikacijo">
+
 <!ENTITY runtimeButton_label "Izberi izvajalnik">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "Naprave USB">
 <!ENTITY runtimePanel_wifi "Naprave Wi-Fi">
 <!ENTITY runtimePanel_other "Drugo">
-<!ENTITY runtimePanel_noadbhelper "Namesti ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ne vidite vaše naprave?">
 <!ENTITY runtimePanel_refreshDevices_label "Osveži naprave">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Podatki o izvajalniku">
-<!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
-<!ENTITY runtimedetails_summonADBRoot "naprava root">
-<!ENTITY runtimedetails_ADBRootWarning "(zahteva odklenjen zagonski nalagalnik)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Neomejena pooblastila razvojnih orodij: ">
-<!ENTITY runtimedetails_requestPrivileges "zahtevaj višja pooblastila">
-<!ENTITY runtimedetails_privilegesWarning "(Naprava se bo ponovno zagnala. Zahteva dostop root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Logična vrednost">

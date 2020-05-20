@@ -13,6 +13,7 @@ enable-common-message = Firefoxova razvojna orodja smo privzeto onemogočili, da
 enable-learn-more-link = Več o razvojnih orodjih
 enable-enable-button = Omogoči razvojna orodja
 enable-close-button = Zapri zavihek
+
 welcome-title = Dobrodošli v razvojnih orodjih za Firefox!
 newsletter-title = Mozillina okrožnica za razvijalce
 newsletter-message = Prejemajte novice, zvijače in vire za razvijalce naravnost v svoj e-poštni predal.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Strinjam se, da Mozilla upravlja moje podatke kot to 
 newsletter-subscribe-button = Naroči se
 newsletter-thanks-title = Hvala!
 newsletter-thanks-message = Če v preteklosti še niste potrdili naročnine na Mozillino okrožnico, boste morda to morali storiti zdaj. Poiščite našo pošto v poštnem predalu ali mapi z neželeno pošto.
+
 footer-title = Firefox Developer Edition
 footer-message = Želite več kot zgolj razvojna orodja? Preskusite brskalnik Firefox, izdelan posebej za razvijalce in sodobne delovne metode.
 footer-learn-more-link = Več o tem
+
 features-learn-more = Več o tem
 features-inspector-title = Pregledovalnik
 features-inspector-desc = Pregledujte in izpilite kodo za do pike natančno postavitev. <a data-l10n-name="learn-more">{ features-learn-more }</a>

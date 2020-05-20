@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Zaznamki
+
 sidebar-menu-history =
     .label = Zgodovina
+
 sidebar-menu-synced-tabs =
     .label = Sinhronizirani zavihki
+
 sidebar-menu-close =
     .label = Zapri stransko vrstico

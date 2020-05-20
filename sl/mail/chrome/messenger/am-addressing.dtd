@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Sestavljanje in naslavljanje">
 <!ENTITY addressingGroupTitle.label "Naslavljanje">
 <!ENTITY addressingText.label      "Med iskanjem naslovov:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Sestavljanje">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Sporočila sestavljaj v obliki HTML">
 <!ENTITY useHtml.accesskey                    "S">
 <!ENTITY autoQuote.label                      "V odgovoru samodejno navedi izvirno sporočilo,">
 <!ENTITY autoQuote.accesskey                  "V">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "potem">
-<!ENTITY then.accesskey                       "o">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Pri navajanju">
 <!ENTITY quoting.accesskey                    "v">

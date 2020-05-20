@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Zaradi prihranka prostora na disku ne prenesi:">
 <!ENTITY doNotDownloadNntp.label "Zaradi prihranka prostora na disku ne prenesi za delo brez povezave:">
 <!ENTITY doNotDownloadImap.label "Če želite varčevati s prostorom na disku, lahko prenašanje in krajevno hranjenje sporočil za delo brez povezave omejite glede na njihovo starost ali velikost.">
-<!ENTITY allFoldersOffline.label "Obdrži sporočila za ta račun na tem računalniku">
-<!ENTITY allFoldersOffline.accesskey "O">
 <!ENTITY allFoldersOffline2.label "Obdrži sporočila vseh map za ta račun na tem računalniku">
 <!ENTITY allFoldersOffline2.accesskey "O">
 <!ENTITY allFoldersOfflineNote.label "Opomba: Sprememba te nastavitve vpliva na vse mape za ta račun. Če želite nastaviti posamezne mape, uporabite gumb Napredno ….">

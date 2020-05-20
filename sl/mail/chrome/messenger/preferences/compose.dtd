@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Pisava:">
 <!ENTITY font.accesskey                       "s">
-<!ENTITY size.label                           "Velikost:">
-<!ENTITY size.accesskey                       "V">
 <!ENTITY fontSize.label                       "Velikost:">
 <!ENTITY fontSize.accesskey                   "V">
 <!ENTITY useReaderDefaults.label              "Uporabi privzete barve bralnika">

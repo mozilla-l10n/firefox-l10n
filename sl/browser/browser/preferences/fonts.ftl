@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Pisave
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Pisave za
     .accesskey = P
+
 fonts-langgroup-arabic =
     .label = arabsko
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Raznoširinska
     .accesskey = R
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Velikost
     .accesskey = V
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = a
+
 fonts-monospace = Enoširinska pisava
     .accesskey = E
+
 fonts-monospace-size = Velikost
     .accesskey = k
+
 fonts-minsize = Najmanjša velikost pisav
     .accesskey = N
+
 fonts-minsize-none =
     .label = Je ni
+
 fonts-allow-own =
     .label = Dovoli stranem, da uporabljajo lastne pisave namesto zgornjih izbir
     .accesskey = h
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Kodiranje besedila za starejše vsebine
 fonts-languages-fallback-desc = To kodiranje besedila se uporablja za starejše vsebine, ki nimajo navedenega kodiranja.
+
 fonts-languages-fallback-label = Pomožno kodiranje besedila
     .accesskey = ž
+
 fonts-languages-fallback-name-auto =
     .label = Privzeto za trenuten jezik
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamsko
 fonts-languages-fallback-name-other =
     .label = Drugo (tudi zahodnoevropsko)
-fonts-very-large-warning-title = Velika najmanjša velikost pisave
-fonts-very-large-warning-message = Kot najmanjšo velikost pisave ste nastavili zelo visoko vrednost (več kot 24 pik). Nekaterih pomembnih strani z nastavitvami, kot je ta, morda ne boste mogli uporabljati.
-fonts-very-large-warning-accept = Vseeno ohrani moje spremembe
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

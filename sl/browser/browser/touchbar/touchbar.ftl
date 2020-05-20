@@ -20,6 +20,7 @@ open-location = Iskanje ali naslov strani
 share = Deli
 close-window = Zapri okno
 open-sidebar = Stranske vrstice
+
 # This string describes shortcuts for search.
 search-popover = Bližnjice za iskanje
 # Describes searches limited to a specific scope

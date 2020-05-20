@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Odpri v novem zasebnem oknu
     .accesskey = s
+
 places-new-bookmark =
     .label = Nov zaznamek …
     .accesskey = z
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nova ločilna črta
     .accesskey = l
+
 places-view =
     .label = Pogled
     .accesskey = g
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Po datumu in strani
     .accesskey = t
+
 places-history-search =
     .placeholder = Zgodovina iskanja
 places-bookmarks-search =
     .placeholder = Iskanje po zaznamkih
+
 places-delete-domain-data =
     .label = Pozabi na to stran
     .accesskey = P

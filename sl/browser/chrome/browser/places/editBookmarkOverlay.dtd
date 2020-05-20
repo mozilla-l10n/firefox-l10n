@@ -6,10 +6,6 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "I">
 <!ENTITY editBookmarkOverlay.location.label                  "Naslov:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "N">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Naslov vira:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "V">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Naslov strani:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mapa:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Prikaži vse mape zaznamkov">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Skrij">

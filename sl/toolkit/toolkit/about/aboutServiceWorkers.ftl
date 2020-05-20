@@ -9,17 +9,12 @@ about-service-workers-title = O Service Workerjih
 about-service-workers-main-title = Registrirani Service Workerji
 about-service-workers-warning-not-enabled = Service Workerji niso omogočeni.
 about-service-workers-warning-no-service-workers = Ni registriranih Service Workerjev.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Izvor: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name }, ID aplikacije { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Ime aktivnega predpomnilnika:</strong> { $name }
 waiting-cache-name = <strong>Ime predpomnilnika na čakanju:</strong> { $name }
 push-end-point-waiting = <strong>Končna točka Push:</strong> { waiting }
 push-end-point-result = <strong>Končna točka Push:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Posodobi
+
 unregister-button = Odstrani
+
 unregister-error = Odjava Service Workerja ni uspela.
+
 waiting = Čakanje …

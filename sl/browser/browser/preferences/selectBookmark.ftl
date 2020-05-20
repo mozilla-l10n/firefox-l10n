@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Nastavitev domače strani
     .style = width: 32em;
+
 select-bookmark-desc = Izberite zaznamek, ki naj postane vaša domača stran. Če izberete mapo, se bodo zaznamki v njej odprli v zavihkih.

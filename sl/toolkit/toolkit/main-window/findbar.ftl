@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Najdi naslednjo ponovitev iskanega
 findbar-previous =
     .tooltiptext = Najdi prejšnjo ponovitev iskanega
+
 findbar-find-button-close =
     .tooltiptext = Zapri vrstico iskanja
+
 findbar-highlight-all2 =
     .label = Označi vse
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] v
         }
     .tooltiptext = Označi vse ponovitve iskanega
+
 findbar-case-sensitive =
     .label = Razlikuj velike/male črke
     .accesskey = r
     .tooltiptext = Pri iskanju razlikuj male in velike črke
+
 findbar-match-diacritics =
     .label = Razlikuj diakritične znake
     .accesskey = i
     .tooltiptext = Pri iskanju razlikuj med črkami z diakritičnimi znamenji in brez njih (na primer, pri iskanju besede »jez« ne bo upoštevan zadetek »jež«)
+
 findbar-entire-word =
     .label = Cele besede
     .accesskey = C

@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Podrobnosti programa
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Odstrani
     .accesskey = R
-app-manager-handle-webfeeds = Naslednje aplikacije se lahko uporabijo za upravljanje Spletni viri.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Naslednje aplikacije se lahko uporabijo za upravljanje { $type } povezav.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Naslednje aplikacije se lahko uporabijo za upravljanje { $type } vsebin.

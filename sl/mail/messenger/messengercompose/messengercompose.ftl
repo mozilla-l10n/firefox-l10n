@@ -7,6 +7,7 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Odstrani polje { $type }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type =
@@ -17,6 +18,7 @@ address-input-type =
         [few] Vnosno polje { $type } s { $count } naslovi
        *[other] Vnosno polje { $type } s { $count } naslovi
     }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -27,6 +29,7 @@ address-input-type-aria-label =
         [few] { $type } s { $count } naslovi, uporabite tipko leve puščice, da jih izberete.
        *[other] { $type } s { $count } naslovi, uporabite tipko leve puščice, da jih izberete.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -36,15 +39,19 @@ pill-aria-label =
         [few] { $email }, 1 od { $count }: pritisnite Enter za urejanje ali Delete za odstranitev
        *[other] { $email }, 1 od { $count }: pritisnite Enter za urejanje ali Delete za odstranitev
     }
+
 pill-action-edit =
     .label = Uredi naslov
     .accesskey = U
+
 pill-action-move-to =
     .label = Premakni v Za
     .accesskey = Z
+
 pill-action-move-cc =
     .label = Premakni v Kp
     .accesskey = K
+
 pill-action-move-bcc =
     .label = Premakni v Skp
     .accesskey = S

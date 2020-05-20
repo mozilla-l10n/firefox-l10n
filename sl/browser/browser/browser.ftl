@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Poglejte podatke o strani
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Za to stran ste zavrnili uporabo MIDI.
 urlbar-install-blocked =
     .tooltiptext = Za to stran ste zavrnili namestitev dodatkov.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Uredi zaznamek ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Upravljaj razširitev ...
 page-action-remove-from-urlbar =
     .label = Odstrani iz naslovne vrstice
+
 page-action-remove-extension =
     .label = Odstrani razširitev
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Tokrat išči z iskalnikom:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Spremeni nastavitve iskanja
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Spremeni nastavitve iskanja
+
 search-one-offs-context-open-new-tab =
     .label = Išči v novem zavihku
     .accesskey = Z
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Pri shranjevanju prikaži urejevalnik
     .accesskey = j
+
 bookmark-panel-done-button =
     .label = Shrani
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Vsa vidna okna na vašem zaslonu bodo v skupni rabi.
 
 enable-devtools-popup-description = Za uporabo bližnjice F12 prvič odprite razvojna orodja iz menija Spletni razvoj.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Tej strani ste dodelili dodatna dovoljenja.
 urlbar-switch-to-tab =
     .value = Preklopi na zavihek:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Razširitev:
+
 urlbar-go-button =
     .tooltiptext = Odpri mesto v vrstici z naslovom
 urlbar-page-action-button =

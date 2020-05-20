@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Nastavitve računa">
 <!ENTITY accountName.label "Ime računa:">
 <!ENTITY accountName.accesskey "r">

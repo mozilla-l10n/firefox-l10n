@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Uvozi iz drugega brskalnika …
 appmenuitem-protection-report-title = Zaščite zasebnosti
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Pojdi na poročilo o zasebnosti
