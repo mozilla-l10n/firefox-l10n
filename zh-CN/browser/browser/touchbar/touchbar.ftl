@@ -20,6 +20,7 @@ open-location = 搜索或输入网址
 share = 共享
 close-window = 关闭窗口
 open-sidebar = 侧栏
+
 # This string describes shortcuts for search.
 search-popover = 搜索快捷键
 # Describes searches limited to a specific scope

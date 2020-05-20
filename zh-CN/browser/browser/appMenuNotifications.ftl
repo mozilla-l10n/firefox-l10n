@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = 除非您在设置中明确允许，否则新装到 { -brand-shorter-name } 的扩展一律无法在隐私窗口中使用。
 appmenu-addon-private-browsing-learn-more = 了解如何管理扩展设置。
+    
 appmenu-new-tab-controlled =
     .label = 您的新标签页已变更。
     .buttonlabel = 保留更改

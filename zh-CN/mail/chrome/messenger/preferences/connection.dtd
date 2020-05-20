@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "不使用代理:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "例如： .mozilla.org.cn, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "为所有协议使用此代理服务器">
+<!ENTITY  shareproxy.accesskey          "x">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "与 localhost、127.0.0.1 和 ::1 的连接永不经过代理。">
-<!ENTITY  shareproxy.label              "为所有协议使用此代理服务器">
-<!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  proxyHttpSharing.label        "也将此代理用于 HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "如果密码已保存，不提示身份验证">

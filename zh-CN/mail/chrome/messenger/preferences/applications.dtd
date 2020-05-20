@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "添加一个新的“文件链接”存储服务">
 <!ENTITY removeCloudFileAccount.label     "移除">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "您需要授权才能看到此存储服务的设置。">
-<!ENTITY authRequired.button.label        "授权">
-<!ENTITY authRequired.button.accesskey    "u">
 
 <!ENTITY findCloudFileProviders.label     "寻找更多提供商...">
 

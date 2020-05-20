@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "字体：">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "大小：">
-<!ENTITY size.accesskey                       "z">
 <!ENTITY fontSize.label                       "大小：">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "使用阅读器的默认颜色">
