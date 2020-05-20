@@ -335,13 +335,21 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover a lista com marcadores">
 <!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar ou remover a lista numerada">
+<!ENTITY outdent.label "Um nível à esquerda">
 <!ENTITY outdentToolbarCmd.tooltip "Texto sem recuo (mover à esquerda)">
+<!ENTITY indent.label "Um nível à direita">
 <!ENTITY indentToolbarCmd.tooltip "Recuar texto (mover á direita)">
+<!ENTITY AlignPopupButton.label "Alinhamento">
 <!ENTITY AlignPopupButton.tooltip "Escolher o alinhamento do texto">
+<!ENTITY InsertPopupButton.label "Inserir">
 <!ENTITY InsertPopupButton.tooltip "Inserir um link, uma âncora, uma imagem, uma linha horizontal ou uma tabela">
+<!ENTITY alignLeftButton.label "Alinhar à esquerda">
 <!ENTITY alignLeftButton.tooltip "Alinhar o texto à margem esquerda">
+<!ENTITY alignCenterButton.label "Centralizar">
 <!ENTITY alignCenterButton.tooltip "Centralizar o texto">
+<!ENTITY alignRightButton.label "Alinhar à direita">
 <!ENTITY alignRightButton.tooltip "Alinhar o texto à margem direita">
+<!ENTITY alignJustifyButton.label "Justificar">
 <!ENTITY alignJustifyButton.tooltip "Alinhar o texto às margens esquerda e direita">
 
 <!-- Structure Toolbar Context Menu items -->
