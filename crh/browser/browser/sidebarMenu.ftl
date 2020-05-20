@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Saife-imleri
+
 sidebar-menu-history =
     .label = Keçmiş
+
 sidebar-menu-synced-tabs =
     .label = Aynılaştırılğan İlmekler
+
 sidebar-menu-close =
     .label = Yan Çubuqnı Qapat

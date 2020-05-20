@@ -14,6 +14,7 @@
 <!ENTITY selectAllCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Sil">
 <!ENTITY deleteCmd.accesskey "S">
+
 <!ENTITY spellAddToDictionary.label "Luğatqa Ekle">
 <!ENTITY spellAddToDictionary.accesskey "L">
 <!ENTITY spellUndoAddToDictionary.label "Luğatqa Eklemeni Keri Yap">
@@ -23,7 +24,9 @@
 <!ENTITY spellNoSuggestions.label "(İmlâ Telqinleri Yoq)">
 <!ENTITY spellDictionaries.label "Tiller">
 <!ENTITY spellDictionaries.accesskey "l">
+
 <!ENTITY searchTextBox.clear.label "Temizle">
+
 <!ENTITY fillLoginMenu.label "İçeri İmzalanışnı Toldur">
 <!ENTITY fillLoginMenu.accesskey "d">
 <!ENTITY fillPasswordMenu.label "Sır-sözni Toldur">

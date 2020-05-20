@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Qıdır
     .aria-label = Qıdır
+
 newtab-search-box-search-the-web-text = Ağ'da qıdır
 newtab-search-box-search-the-web-input =
     .placeholder = Ağ'da qıdır
@@ -28,9 +29,11 @@ newtab-topsites-edit-topsites-header = Üst Saytnı Tahrir Et
 newtab-topsites-title-label = Serlevha
 newtab-topsites-title-input =
     .placeholder = Bir serlevha kirset
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Bir URL tuşlañız yaki yapıştırıñız
+
 newtab-topsites-image-url-label = Özel Suret URL'si
 newtab-topsites-use-image-link = Özel bir suret qullan…
 
@@ -43,6 +46,8 @@ newtab-topsites-preview-button = Ögbaqış
 newtab-topsites-add-button = Ekle
 
 ## Top Sites - Delete history confirmation dialog. 
+
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = Bu saifeniñ her danesini keçmişiñizden silmege istegeniñizden eminsiñizmi?
 # "This action" refers to deleting a page from history.
@@ -67,12 +72,20 @@ newtab-menu-delete-history = Keçmişten sil
 newtab-menu-save-to-pocket = { -pocket-brand-name }'ke Saqla
 newtab-menu-delete-pocket = { -pocket-brand-name }’ten sil
 newtab-menu-archive-pocket = { -pocket-brand-name }’te arhivle
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Saifeimini Çetleştir
 # Bookmark is a verb here.
 newtab-menu-bookmark = Saifeimi
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = Endirme İlişimini Kopiyala
@@ -103,6 +116,9 @@ newtab-label-download = Endirilgen
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = Kesimni Çetleştir
 newtab-section-menu-collapse-section = Kesimni Eştir
 newtab-section-menu-expand-section = Kesimni Cayıldır
@@ -111,6 +127,8 @@ newtab-section-menu-add-topsite = Zirvedeki Sayt Ekle
 newtab-section-menu-move-up = Yuqarı Avuştır
 newtab-section-menu-move-down = Aşağı Avuştır
 newtab-section-menu-privacy-notice = Hususiyat Tebliği
+
+## Section aria-labels
 
 ## Section Headers.
 
@@ -122,6 +140,8 @@ newtab-section-header-pocket = { $provider } tevsiyeli
 
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 ## Pocket Content Section.
 

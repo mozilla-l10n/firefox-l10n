@@ -19,50 +19,6 @@
 <!ENTITY navbarOverflow.label                "Daa çoq alet…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "İlmekni Kene Yükle">
-<!ENTITY  reloadTab.accesskey                "K">
-<!ENTITY  selectAllTabs.label                "İlmeklerniñ Episini Sayla">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "Mükerrer İlmek">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "M">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "İlmeklerni Mükerrerle">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "r">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Sağğa Taba Olğan İlmeklerni Qapat">
-<!ENTITY  closeTabsToTheEnd.accesskey        "S">
-<!ENTITY  closeOtherTabs.label               "Diger İmeklerni Qapat">
-<!ENTITY  closeOtherTabs.accesskey           "D">
-
-<!ENTITY  closeTabs.label                    "İlmeklerni Qapat">
-<!ENTITY  closeTabs.accesskey                "Q">
-<!ENTITY  pinSelectedTabs.label              "İlmeklerni Tüyre">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "T">
-<!ENTITY  unpinSelectedTabs.label            "İlmeklerni Tüyrelmegen Yap">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "T">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "İlmeklerni Kene Yükle">
-<!ENTITY  reloadTabs.accesskey               "e">
-<!ENTITY  bookmarkSelectedTabs.label         "İlmeklerni İmle…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "m">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -83,28 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "n">
 <!ENTITY  sendLinkToDevice.label             "İlişimni Cihazğa Yiber">
 <!ENTITY  sendLinkToDevice.accesskey         "n">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "İlmeklerni Avuştır">
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "İlmeklerni Avuştır">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "Başlanğıçqa Avuştır">
-<!ENTITY  moveToStart.accesskey              "B">
-<!ENTITY  moveToEnd.label                    "Ahırğa Avuştır">
-<!ENTITY  moveToEnd.accesskey                "A">
-<!ENTITY  moveToNewWindow.label              "Yañı Pencerege Avuştır">
-<!ENTITY  moveToNewWindow.accesskey          "P">
-<!ENTITY  reopenInContainer.label            "Konteynerde Kene Aç">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!ENTITY  bookmarkTab.label                  "İlmekni İmle">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "m">
 <!ENTITY  undoCloseTab.label                 "Qapatılğan İlmekni Keri Aç">
 <!ENTITY  undoCloseTab.accesskey             "K">
-<!ENTITY  closeTab.label                     "İlmekni Qapat">
-<!ENTITY  closeTab.accesskey                 "Q">
 <!ENTITY  hiddenTabs.label                   "Gizli İlmekler">
 
 <!ENTITY  listAllTabs.label      "İlmeklerniñ episini tiz">
@@ -143,31 +79,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "a">
 <!ENTITY bookmarksToolbarItem.label "Saife-imleri Alet Çubuğı Unsurları">
 
-<!ENTITY toolbarContextMenu.reloadSelectedTab.label "Saylanğan İlmekni Kene Yükle">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "e">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "Saylanğan İlmeklerni Kene Yükle">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "e">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.label "Saylanğan İlmekni İmle…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "m">
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.label "Saylanğan İlmeklerni İmle…">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "m">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "İlmeklerniñ Episini Sayla">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Qapatılğan İlmekni Keri Aç">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "r">
-
 <!ENTITY pageSourceCmd.label "Saife Menbası">
 <!ENTITY pageSourceCmd.accesskey "e">
 <!ENTITY pageSourceCmd.commandkey "U">
@@ -191,6 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "T">
 <!ENTITY exitFullScreenCmd.label "Tam Ekrandan Çıq">
 <!ENTITY exitFullScreenCmd.accesskey "T">
+
 <!ENTITY fullScreenCmd.label "Tam Ekran">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -213,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Tam Ekran Tarzından Çıq">
 <!ENTITY fullScreenExit.accesskey "T">
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -249,6 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "İlmeklerniñ Episini İmle…">
+
 <!ENTITY showAllBookmarks2.label "Saife-imleriniñ Episini Köster">
 <!ENTITY recentBookmarks.label "Demin İmlengen">
 <!ENTITY otherBookmarksCmd.label "Diger Saifeimleri">
@@ -268,7 +181,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Toqtat">
 <!ENTITY stopCmd.accesskey            "T">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Qonum Çubuğındaki adreske bar">
+
 <!ENTITY printButton.label            "Bastır">
 <!ENTITY printButton.tooltip          "Bu saifeni bastır">
 
@@ -284,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plagin qullanımını idare et">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Sayttan tebliğler alabilip bilmegeniñizni deñiştiriñiz">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Verilerni Sebatkâr Mağazda mağazla">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Kezici uzaqtan muraqabede">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Ağ Sahihlenim panelini aç">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Kezinüv faaliyeti ruhset panelini aç">
@@ -310,7 +226,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bu saytnı Adobe Flash plaginini qullanmaqtan bloklağan olasıñız.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bu sayt içün MİDİ irişimini bloklağan olasıñız.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Keçmişni köster">
+
 
 <!ENTITY searchItem.title             "Qıdır">
 
@@ -370,10 +288,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Dosye">
 <!ENTITY fileMenu.accesskey       "D">
+
 <!ENTITY newUserContext.label             "Yañı Konteyner İlmegi">
 <!ENTITY newUserContext.accesskey         "K">
 <!ENTITY manageUserContext.label          "Konteynerlerni İdare Et">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Yañı Pencere">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "P">
@@ -418,6 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Yan Çubuq">
 <!ENTITY viewSidebarMenu.accesskey "n">
+
 <!ENTITY viewCustomizeToolbar.label       "Şahsiyleştir…">
 <!ENTITY viewCustomizeToolbar.accesskey     "L">
 <!ENTITY overflowCustomizeToolbar.label       "Alet Çubuğını Şahsiyleştir…">
@@ -501,6 +422,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Daa çoq">
 
 <!ENTITY openCmd.commandkey           "L">
+
 <!ENTITY urlbar.placeholder2          "Qıdırıñız yaki adres kirsetiñiz">
 <!ENTITY urlbar.accesskey             "r">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -544,6 +466,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Qıdırma istifsarı">
+
 <!ENTITY contentSearchSubmit.tooltip  "Qıdırmanı teslim et">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -583,6 +506,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "b">
 
 <!ENTITY openLinkCmdInTab.label       "İlişimni Yañı İlmekte Aç">
+
 <!ENTITY openLinkCmdInTab.accesskey   "i">
 <!ENTITY openLinkCmd.label            "İlişimni Yañı Pencerede Aç">
 <!ENTITY openLinkCmd.accesskey        "P">
@@ -631,11 +555,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu Çerçiveni İmle">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
+
 <!ENTITY pageAction.copyLink.label    "İlişimni Kopiyala">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pocket’ke Saqla">
+
 <!ENTITY saveToPocketCmd.label        "Saifeni Pocket’ke Saqla">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "İlişimni Pocket’ke Saqla">
@@ -767,6 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Faqat Metinni Miqyasla">
 <!ENTITY fullZoomToggleCmd.accesskey    "M">
+
 <!ENTITY fullZoom.label                 "Miqyasla">
 <!ENTITY fullZoom.accesskey             "M">
 
@@ -891,39 +818,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Aynılaştırılğan İlmekler">
 
 <!ENTITY syncedTabs.sidebar.label              "Aynılaştırılğan İlmekler">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Diger cihazlarıñızdaki ilmeklerni körmek içün o cihazlardan Firefox'qa içeri imzalanıñız.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Diger cihazlardan ilmekleriñizni mında köresiñiz kile?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Diger cihazlarıñızdaki ilmeklerniñ bir listesini körmek içün içeri imzalanıñız.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "Esabıñız doğrulanmağa muhtac.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "Açıq ilmekler yoq">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; Tercihlerini Aç">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Diger cihazlarıñızdaki ilmeklerni körmek içün ilmek aynılaştırmasını açıq yapıñız.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "Aynılaştırılğan ilmeklerni qıdır">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "Başqa bir Cihaznı Bağla">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Aç">
-<!ENTITY syncedTabs.context.open.accesskey                   "A">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Yañı bir İlmekte Aç">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "Y">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Yañı bir Pencerede Aç">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "P">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Yañı bir Hususiy Pencerede Aç">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "H">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bu İlmekni İmle…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "m">
-<!ENTITY syncedTabs.context.copy.label                       "Kopiyala">
-<!ENTITY syncedTabs.context.copy.accesskey                   "K">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Episini İlmeklerde Aç">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
-<!ENTITY syncedTabs.context.managedevices.label              "Cihazlarnı İdare Et…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "C">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync (Aynılaştır)">
@@ -935,42 +829,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; hususiyetine kene bağlan…">
 <!ENTITY syncReAuthItem.accesskey     "k">
 <!ENTITY syncToolbarButton.label      "Aynılaştır">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "Közde unsurlarıñıznı alet çubuğı yaki taşıp-aq menüsine süyrekle.">
-<!ENTITY customizeMode.restoreDefaults "Ögbelgilemelerni Keri Tikle">
-<!ENTITY customizeMode.done "Tamam">
-<!ENTITY customizeMode.titlebar "Serleva Çubuğı">
-<!ENTITY customizeMode.extraDragSpace "Süyrekleme Fezası">
-<!ENTITY customizeMode.toolbars2 "Alet Çubuqları">
-<!ENTITY customizeMode.lwthemes "Temalar">
-<!ENTITY customizeMode.lwthemes.myThemes "Temalarım">
-<!ENTITY customizeMode.lwthemes.recommended "Tevsiyeli">
-<!ENTITY customizeMode.lwthemes.menuManage "İdare Et">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "d">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Daa Çoq Tema Elde Et">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-<!ENTITY customizeMode.overflowList.title2 "Taşıp-aq Menüsi">
-<!ENTITY customizeMode.overflowList.description "Unsurlarnı irişim içerisinde lâkin alet çubuğıñız tışında tutmaq içün olarnı mında süyrekleñiz…">
-<!ENTITY customizeMode.uidensity "Yoğunlıq">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Tiyme">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tiyme">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Tablet Tarzı içün Tiyişni Qullan">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "Avto-gizle">
 
@@ -1006,6 +864,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Meselelerni Maruzala">
 <!ENTITY contentBlocking.breakageReportView2.description "Muhteva bloklaması bazı ağ-saytlarında meselelerge sebebiyet berebilir. Meselelerni maruzalağanıñızda, &brandShortName; seyrancısını erkes içün yahşılaştırmağa yardım eteceksiñiz. (Bu, saife adresi ile seyrancı ayarlarıñızğa dair malümatnı Mozilla’ğa yiberecektir.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Daa Çoq Ögren">
+
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Adres">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Ne meseleleriñiz bar edi? (İhtiyariy)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Maruza Yiber">
@@ -1036,28 +895,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+
 <!ENTITY uiTour.infoPanel.close "Qapat">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "Soñ: ">
-<!ENTITY panicButton.view.5min                    "Beş daqqanı unut">
-<!ENTITY panicButton.view.2hr                     "Eki saatnı unut">
-<!ENTITY panicButton.view.day                     "24 saatnı unut">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Devam etseñiz:">
-<!ENTITY panicButton.view.deleteCookies           "Deminki <html:strong>Çörekler</html:strong> silinecek">
-<!ENTITY panicButton.view.deleteHistory           "Deminki <html:strong>Keçmiş</html:strong> silinecek">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Episi <html:strong>İlmekler</html:strong> ve <html:strong>Pencereler</html:strong> qapatılacaq">
-<!ENTITY panicButton.view.openNewWindow           "Yañı temiz bir Pencere açılacaq">
-
-<!ENTITY panicButton.view.undoWarning             "Bu amel keri yapılalmaz.">
-<!ENTITY panicButton.view.forgetButton            "Unut!">
 
 <!ENTITY panicButton.thankyou.msg1                "Deminki keçmişiñiz temizlengendir.">
 <!ENTITY panicButton.thankyou.msg2                "Emin kezinüv!">
@@ -1066,30 +905,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM aqqında daa çoq ögren…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "&brandShorterName; uyğulamañıznı sür'at ve hususiyatta eñ soñrakiler içün yañartıñız.">
-<!ENTITY updateAvailable.whatsnew.label "Nelerniñ yañı olğanına baqıñız.">
-<!ENTITY updateAvailable.header.message "Yañı bir &brandShorterName; yañartması müsaittir.">
-<!ENTITY updateAvailable.acceptButton.label "Yañartmanı Endir">
-<!ENTITY updateAvailable.acceptButton.accesskey "E">
-<!ENTITY updateAvailable.cancelButton.label "Şimdi Degil">
-<!ENTITY updateAvailable.cancelButton.accesskey "D">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; yañartmasını endir">
 
-<!ENTITY updateManual.message "&brandShorterName; uyğulamasınıñ yañı bir kopiyasını endiriñiz ve sizge onı qurmağa yardım etecekmiz.">
-<!ENTITY updateManual.whatsnew.label "Nelerniñ yañı olğanına baqıñız.">
-<!ENTITY updateManual.header.message "&brandShorterName; eñ soñ sürümge yañartalmay.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; Endirilsin">
-<!ENTITY updateManual.acceptButton.accesskey "E">
-<!ENTITY updateManual.cancelButton.label "Şimdi Degil">
-<!ENTITY updateManual.cancelButton.accesskey "D">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; uyğulamasınıñ yañı bir kopiyasını endiriñiz">
 
-<!ENTITY updateRestart.message2 "Çabuq bir kene başlamadan soñ, &brandShorterName; Hususiy Kezinüv tarzında olmağan açıq ilmek ve pencereleriñizniñ episini keri tikleycek.">
-<!ENTITY updateRestart.header.message2 "&brandShorterName; yañartılsın dep kene başlat.">
-<!ENTITY updateRestart.acceptButton.label "Kene başlat ve Keri tikle">
-<!ENTITY updateRestart.acceptButton.accesskey "n">
-<!ENTITY updateRestart.cancelButton.label "Şimdi Degil">
-<!ENTITY updateRestart.cancelButton.accesskey "D">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yañartılsın dep kene başlat">
 
 <!ENTITY newTabControlled.header.message "Yañı İlmegiñiz deñişkendir.">
@@ -1099,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "N">
 
 <!ENTITY homepageControlled.message "Bir uzantı ev saifeñiz olaraq neni körgeniñizni deñiştirgendir. Bu deñişiklikni istemey iseñiz ayarlarıñıznı keri tikleybilirsiñiz.">
+
 <!ENTITY homepageControlled.header.message "Ev saifeñiz deñişkendir.">
 <!ENTITY homepageControlled.keepButton.label "Deñişikliklerni Qoru">
 <!ENTITY homepageControlled.keepButton.accesskey "o">
@@ -1129,12 +949,3 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "İrişilebilirlik Hususiyetleri Qabilleştirilgen">
 
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> menüsinde <image class='addon-addon-icon'/> çerterek eklentileriñizni idare etiñiz.">
-
-<!ENTITY addonPrivateBrowsing.okButton.label "Tamam, Añladım">
-<!ENTITY addonPrivateBrowsing.okButton.accesskey "T">
-<!ENTITY addonPrivateBrowsing.manageButton.label "Eklentilerni İdare Et">
-<!ENTITY addonPrivateBrowsing.manageButton.accesskey "d">

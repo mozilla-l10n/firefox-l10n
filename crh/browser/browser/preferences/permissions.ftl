@@ -5,49 +5,61 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ağ-saytı adresi
     .accesskey = d
+
 permissions-block =
     .label = Blokla
     .accesskey = B
+
 permissions-session =
     .label = Oturım içün İzin Ber
     .accesskey = O
+
 permissions-allow =
     .label = İzin Ber
     .accesskey = z
+
 permissions-site-name =
     .label = Ağ-saytı
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Saytnı Çetleştir
     .accesskey = S
+
 permissions-remove-all =
     .label = Saytlarnıñ Episini Çetleştir
     .accesskey = e
+
 permissions-button-cancel =
     .label = Vazgeç
     .accesskey = z
+
 permissions-button-ok =
     .label = Deñişikliklerni Saqla
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = Ağ-saytı Qıdır
+
 permissions-capabilities-allow =
     .label = İzin Ber
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Er Zaman Sora
+
 permissions-capabilities-listitem-allow =
     .value = İzin Ber
 permissions-capabilities-listitem-block =
     .value = Blokla
-permissions-capabilities-listitem-allow-first-party =
-    .value = Faqat birinci tarafqa izin ber
 permissions-capabilities-listitem-allow-session =
     .value = Oturım içün İzin Ber
 
@@ -98,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Davuşlı vasatnı öz-özünden oynatmasınıñ angi saytlar içün er zaman caiz olğanını yaki asla caiz olmağanını belirtebilirsiñiz. İdare etmek istegeniñiz saytnıñ adresini yazıp, Blokla veya İzin Ber'ge çertiñiz.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -117,6 +131,8 @@ permissions-site-location-desc = Aşağıdaki ağ-saytları qonumıñızğa iri�
 permissions-site-location-disable-label =
     .label = Qonumıñızğa irişmege sorağan yañı istemlerni blokla
 permissions-site-location-disable-desc = Bu, yuqarıda listelenmegen ağ-saytlarınıñ hepisiniñ qonumıñızğa irişme ruhsetini rica etmesini öñleycek. Qonumıñızğa irişimniñ bloklanması belki bazı sayt hususiyetlerini qırar.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

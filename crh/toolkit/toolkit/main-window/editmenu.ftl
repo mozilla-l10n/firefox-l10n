@@ -13,21 +13,27 @@
 editmenu-undo =
     .label = Keri yap
     .accesskey = r
+
 editmenu-redo =
     .label = Kene yap
     .accesskey = n
+
 editmenu-cut =
     .label = Kes
     .accesskey = r
+
 editmenu-copy =
     .label = Kopiyala
     .accesskey = K
+
 editmenu-paste =
     .label = Yapıştır
     .accesskey = Y
+
 editmenu-delete =
     .label = Sil
     .accesskey = S
+
 editmenu-select-all =
     .label = Episini Sayla
     .accesskey = l

@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = Masaüstü Arqazeminini Tesbit Et
+
 set-desktop-background-accept =
     .label = Masaüstü Arqazeminini Tesbit Et
+
 open-desktop-prefs =
     .label = Masaüstü Tercihlerini Aç
+
 set-background-color = Tüs:
+
 set-background-position = Qonum:
+
 set-background-tile =
     .label = Töşe
+
 set-background-center =
     .label = Merkez
+
 set-background-stretch =
     .label = Ker
+
 set-background-fill =
     .label = Toldur
+
 set-background-fit =
     .label = Sığdır

@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Ev Saifesini Tesbit Et
     .style = width: 32em;
+
 select-bookmark-desc = Ev Saifeñiz olmaq üzre bir Saife-imi saylañız. Eger bir cilbent saylasañız, o cilbentteki Saife-imleri İlmeklerde açılacaq.

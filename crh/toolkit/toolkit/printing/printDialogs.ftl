@@ -103,6 +103,7 @@ print-window =
     .title = Bastırıla
 print-complete =
     .value = Bastıruv Tamamlandı.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

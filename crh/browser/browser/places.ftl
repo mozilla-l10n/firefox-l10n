@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Yañı bir Hususiy Pencerede Aç
     .accesskey = H
+
 places-new-bookmark =
     .label = Yañı Saife-imi…
     .accesskey = s
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Yañı Ayırğıç
     .accesskey = y
+
 places-view =
     .label = Körünim
     .accesskey = K
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Tarih ve Saytqa Köre
     .accesskey = v
+
 places-history-search =
     .placeholder = Keçmişni qıdır
 places-bookmarks-search =
     .placeholder = Saife-imlerini qıdır
+
 places-delete-domain-data =
     .label = Bu Sayt Aqqında Unut
     .accesskey = U

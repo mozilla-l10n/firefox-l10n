@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Riskni qabul etem!
 config-about-warning-checkbox =
     .label = Bu tenbini soñraki sefer de köster
+
 config-search-prefs =
     .value = Qıdır:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopiyala
     .accesskey = K
+
 config-copy-name =
     .label = İsimni Kopiyala
     .accesskey = i
+
 config-copy-value =
     .label = Qıymetni Kopiyala
     .accesskey = o
+
 config-modify =
     .label = Deñiştir
     .accesskey = D
+
 config-toggle =
     .label = Döndür
     .accesskey = d
+
 config-reset =
     .label = Sıfırla
     .accesskey = S
+
 config-new =
     .label = Yañı
     .accesskey = y
+
 config-string =
     .label = Tizgi
     .accesskey = t
+
 config-integer =
     .label = Tamsayı
     .accesskey = s
+
 config-boolean =
     .label = Mantıqiy
     .accesskey = M
+
 config-default = ög-belgilengen
 config-modified = başqalaştırılğan
 config-locked = kilitlengen
+
 config-property-string = tizgi
 config-property-int = tamsayı
 config-property-bool = mantıqiy
+
 config-new-prompt = Tercih ismini kirsetiñiz
+
 config-nan-title = Keçersiz qıymet
 config-nan-text = Kirsetkeniñiz metin bir sayı degildir.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Yañı { $type } qıymeti
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } qıymetini kirsetiñiz

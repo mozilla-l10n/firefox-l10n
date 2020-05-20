@@ -4,27 +4,24 @@
 
 history-title = Güncelleme Geçmişi
 history-intro = Aşağıdaki yañartmalar qurulğandır
+
 close-button-label =
     .buttonlabelcancel = Qapat
     .title = Güncelleme Geçmişi
+
 no-updates-label = İç bir güncelleme yüklenmemiş
 name-header = Güncellemenin Adı
 date-header = Kurulum Tarihi
 type-header = Tipi
 state-header = Durumu
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Ayrıntılar
 update-installed-on = Kurulduğu yer: { $date }
 update-status = Durum: { $status }

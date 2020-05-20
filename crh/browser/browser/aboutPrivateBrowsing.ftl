@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = <a data-l10n-name="learn-more">Hususiy Kezinüv</a> aqqında daa çoq ögren.
 about-private-browsing-info-visited = ziyaret etilgen saifeler
+
 privatebrowsingpage-open-private-window-label = Hususiy bir Pencere Aç
     .accesskey = H
 about-private-browsing-info-notsaved = Hususiy bir Pencerede kezingeniñizde, { -brand-short-name } <strong>aşağıdakilerni saqlamaz</strong>:
@@ -26,3 +27,4 @@ about-private-browsing-not-private = Al-azırda hususiy bir pencerede degilsiñi
 content-blocking-title = Muhteva Bloklaması
 content-blocking-description = Bazı ağ-saytları, İnternet boyunca faaliyetiñizni közetebilgen izciler qullanır. Hususiy pencerelerde, { -brand-short-name } Muhteva Bloklaması, seyran davranışıñız aqqında malümat toplaybilecek izcilerniñ çoğunı bloklar.
 about-private-browsing-info-description = Uyğulamadan çıqqanıñızda yaki episi Hususiy Kezinüv ilmekleri ve pencerelerini qapatqanıñızda { -brand-short-name } qıdırma ve kezinüv keçmişiñizni temizler. Bu, ağ-saytları ve internet hızmeti teminatçıñızğa sizni anonim yapmasa da, bu bilgisayarnı qullanğan başqa er angi birinden hat-üstü yapqanlarıñıznı hususiy tutmañıznı qolaylaştırır.
+

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Urufatlar
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Aşağıdakiler içün urufatlar
     .accesskey = u
+
 fonts-langgroup-arabic =
     .label = Arapça
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Nisbiy
     .accesskey = N
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Ölçü
     .accesskey = ç
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Yekfeza
     .accesskey = Y
+
 fonts-monospace-size = Ölçü
     .accesskey = ü
+
 fonts-minsize = Asğariy urufat ölçüsi
     .accesskey = s
+
 fonts-minsize-none =
     .label = Yoq
+
 fonts-allow-own =
     .label = Yuqarıdaki saylamlarıñız yerine, saifelerge öz urufatlarını saylamağa izin ber
     .accesskey = z
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Qadimiy Muhteva içün Metin Kodlandırması
 fonts-languages-fallback-desc = Bu metin kodlandırması, kodlandırmasını beyan etmege çuvallağan qadimiy muhteva içün qullanılır.
+
 fonts-languages-fallback-label = Metin Kodlandırması Ricatı
     .accesskey = R
+
 fonts-languages-fallback-name-auto =
     .label = Cari Mahal içün Ög-belgileme
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamca
 fonts-languages-fallback-name-other =
     .label = Diger (Ğarbiy Avropaiy dahil)
-fonts-very-large-warning-title = Balaban asğariy urufat ölçüsi
-fonts-very-large-warning-message = Çoq büyük bir asğariy urufat ölçüsi saylağan olasıñız (24 pikselden fazla). Bu, bunıñ kibi bazı müim endamlandırma saifelerini qullanmanı belki zor yaki imkânsız yapar.
-fonts-very-large-warning-accept = Denişikliklerimni kene de qoru
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

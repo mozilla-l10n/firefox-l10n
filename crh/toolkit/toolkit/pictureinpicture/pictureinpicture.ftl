@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Tınışla
 pictureinpicture-play =
     .aria-label = Oynat
+
 pictureinpicture-mute =
     .aria-label = Davuşsızlandır
 pictureinpicture-unmute =
     .aria-label = Davuşlandır
+

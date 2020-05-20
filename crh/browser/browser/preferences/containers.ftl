@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } Konteyner Tercihleri
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = İsim
     .accesskey = s
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Bir konteyner ismi kirsetiñiz
+
 containers-icon-label = Timsal
     .accesskey = a
     .style = { -containers-labels-style }
+
 containers-color-label = Tüs
     .accesskey = T
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Tamam
     .accesskey = T
+
 containers-color-blue =
     .label = Kök
 containers-color-turquoise =
@@ -52,6 +60,7 @@ containers-color-pink =
     .label = Pempe
 containers-color-purple =
     .label = Mor
+
 containers-icon-fingerprint =
     .label = Parmaq-izi
 containers-icon-briefcase =

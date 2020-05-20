@@ -9,7 +9,9 @@
 <!ENTITY blocklist.hardblocked "Bu eklentilerniñ istiqrar ve emniyet meselelerine sebep oluv havfı yüksektir ve bloklanğanlardır, amma olarnı tamamen ğayrıqabilleştirmek içün bir kene başlatma şarttır.">
 <!ENTITY blocklist.softandhard "İstiqrar ve emniyet meselelerine sebep oluv havfı yüksek olğan eklentiler bloklanğandır. Digerleri daa tüşük havf taşıy, amma olar ğayrıqabilleştirilgen olaraq kene başlatuvıñız ziyadesinen tevsiye etile.">
 <!ENTITY blocklist.moreinfo "Daa Çoq Malümat">
+
 <!ENTITY blocklist.accept.label "&brandShortName; Kene Başlatılsın">
 <!ENTITY blocklist.accept.accesskey "K">
+
 <!ENTITY blocklist.blocked.label "Bloklanğan">
 <!ENTITY blocklist.checkbox.label "Ğayrıqabilleştir">

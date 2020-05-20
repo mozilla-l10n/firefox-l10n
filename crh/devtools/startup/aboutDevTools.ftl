@@ -13,6 +13,7 @@ enable-common-message = Keziciñiz içün daa çoq muraqabeni sizge bermek içü
 enable-learn-more-link = İnkişafçı Aletleri aqqında daa çoq ögren
 enable-enable-button = İnkişafçı Aletleri'ni Qabilleştir
 enable-close-button = Bu İlmekni qapat
+
 welcome-title = Firefox İnkişafçı Aletleri'ne Hoş Keldiñiz!
 newsletter-title = Firefox İnkişafçı Haber-mektübi
 newsletter-message = İnkişafçı haberleri, marifetleri ve qaynaqlarını doğrudan Kelgen qutuñızğa yibertiñiz.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Mozilla'nıñ malümatımnı bu <a data-l10n-name="pr
 newsletter-subscribe-button = Abune Ol
 newsletter-thanks-title = Teşekkürler!
 newsletter-thanks-message = Daa evvel bir Mozilla haber-mektübine abune olmadı iseñiz abuneligiñizni belki teyit etmeñiz kerekir. Lütfen Kelgen qutuñıznı yaki Abur-çubur süzgüzçiñizni bizden bir e-poçta içün teşkeriñiz.
+
 footer-title = Firefox İnkişafçı Tariri
 footer-message = İnkişafçı Aletleri'nden daa fazlasınımı içün baqasızmı? Mahsus inkişafçılar ve zamanaviy iş akışları içün inşa etilgen Firefox kezicisini teşkerip çıqıñız.
 footer-learn-more-link = Daa çoq ögren
+
 features-learn-more = Daa çoq ögren
 features-inspector-title = Müfettiş
 features-inspector-desc = Piksel-mükemmel serimlerni inşa etmek içün kodnı teftiş ve tasfiye et. <a data-l10n-name="learn-more">{ features-learn-more }</a>

@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = İbareniñ soñraki rastkelişini tap
 findbar-previous =
     .tooltiptext = İbareniñ evvelki rastkelişini tap
+
 findbar-find-button-close =
     .tooltiptext = Tap çubuğını qapat
+
 findbar-highlight-all2 =
     .label = Episini Yüksek-ışıt
     .accesskey =
@@ -19,10 +21,12 @@ findbar-highlight-all2 =
            *[other] k
         }
     .tooltiptext = İbare rastkelişleriniñ episini ışıqlandır
+
 findbar-case-sensitive =
     .label = Büyük-ufaq Hassasiyeti
     .accesskey = B
     .tooltiptext = Büyük-ufaq hassasiyeti ile qıdır
+
 findbar-entire-word =
     .label = Bütün Sözler
     .accesskey = b

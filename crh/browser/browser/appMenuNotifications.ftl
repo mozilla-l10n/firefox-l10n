@@ -29,6 +29,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = Tamam, Añladım
     .buttonaccesskey = T
 appmenu-addon-post-install-message = <image data-l10n-name='addon-menu-icon'></image> menüsinde <image data-l10n-name='addon-install-icon'></image> çerterek eklentileriñizni idare etiñiz.
+    
 appmenu-new-tab-controlled =
     .label = Yañı İlmegiñiz deñişkendir.
     .buttonlabel = Deñişikliklerni Qoru

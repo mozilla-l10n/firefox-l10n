@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label "Episini Sayla">
 <!ENTITY selectAllCmd.key "a">
 <!ENTITY selectAllCmd.accesskey "e">
+
 <!ENTITY findCmd.label "Tap">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "T">

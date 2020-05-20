@@ -9,11 +9,15 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = Eklentini Naqabilleştir
+
 connection-proxy-configure = İnternet'ke Proksi İrişimini Endamlandır
+
 connection-proxy-option-no =
     .label = Proksi yoq
     .accesskey = o
@@ -26,6 +30,7 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Elden proksi endamlandırması
     .accesskey = E
+
 connection-proxy-http = HTTP Proksisi
     .accesskey = H
 connection-proxy-http-port = Liman
@@ -33,18 +38,23 @@ connection-proxy-http-port = Liman
 connection-proxy-http-share =
     .label = Episi protokollar içün bu proksi sunucısını qullan
     .accesskey = e
+
 connection-proxy-ssl = SSL Proksisi
     .accesskey = L
+
 connection-proxy-ssl-port = Liman
     .accesskey = i
+
 connection-proxy-ftp = FTP Proksisi
     .accesskey = F
 connection-proxy-ftp-port = Liman
     .accesskey = m
+
 connection-proxy-socks = SOCKS Qonaqbayı
     .accesskey = C
 connection-proxy-socks-port = Liman
     .accesskey = a
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -53,30 +63,32 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Aşağıdakiler içün proksi qullanılmasın
     .accesskey = m
+
 connection-proxy-noproxy-desc = Meselâ: .mozilla.org, .com.tr, 192.168.1.0/24
+
 connection-proxy-autotype =
     .label = Avtomatik proksi endamlandırması URL'si
     .accesskey = A
+
 connection-proxy-reload =
     .label = Kene yükle
     .accesskey = n
+
 connection-proxy-autologin =
     .label = Sır-söz saqlanğan ise sahihlenim içün indeme
     .accesskey = i
     .tooltip = Bu seçenek proksiler içün itimatnamelerni saqlağan olğanıñızda sizni sessizce olarğa içeri imzalandırır. Sahihlenim muvaffaqiyetsiz olsa indeneceksiñiz.
+
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 qullanğanda Proksi DNS
     .accesskey = d
+
 connection-dns-over-https =
     .label = HTTPS üzerinden DNS qabil olsun
     .accesskey = b
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Ögbelgilengenni qullan ({ $url })
-    .accesskey = V
-    .tooltiptext = HTTPS üzerinden DNS’ni çezimlemek içün ögbelgilengen adresni qullan
+
 connection-dns-over-https-url-custom =
     .label = Özel
     .accesskey = Ö
     .tooltiptext = HTTPS üzerinden DNS’ni çezimlemek içün tercih etkeniñiz adresni kirsetiñiz
+

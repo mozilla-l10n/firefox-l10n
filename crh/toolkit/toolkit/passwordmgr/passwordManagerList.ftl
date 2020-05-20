@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Qapat
     .accesskey = Q
+
 show-passwords =
     .label = Sır-sözlerni Köster
     .accesskey = S

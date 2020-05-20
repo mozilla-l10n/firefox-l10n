@@ -4,3 +4,4 @@
 
 restart-required-title = Kene Başlatuv Şart
 restart-required-header = Afu etiñiz. Yürmege devam etmezden evvel kiçik bir şey yapmağa ihtiyacımız bar.
+

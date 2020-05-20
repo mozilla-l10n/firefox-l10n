@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Qapatılğan İlmekni Keri Aç
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = İlmeklerni Qıdır
+
 all-tabs-menu-new-user-context =
     .label = Yañı Konteyner İlmegi
+
 all-tabs-menu-hidden-tabs =
     .label = Gizli İlmekler
+
 all-tabs-menu-manage-user-context =
     .label = Konteynerlerni İdare Et
     .accesskey = o

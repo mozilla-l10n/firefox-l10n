@@ -18,3 +18,7 @@ reader-view = Oquyıcı Körünimi
 open-location = Qıdır yaki adres kirset
 share = Üleş
 close-window = Pencereni Qapat
+
+## Various categories of shortcuts for search.
+
+##
