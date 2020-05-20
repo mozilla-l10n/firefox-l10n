@@ -36,7 +36,6 @@
 <!ENTITY tableCaptionNone.label "Ga go selo">
 <!ENTITY tableInheritColor.label "(E re mmala wa letlakala o laetše go phuleletša)">
 
-<!ENTITY cellPercent.label "phesente ya tafola">
 <!ENTITY cellSelection.label "Kgetho">
 <!ENTITY cellSelectCell.label "Sele">
 <!ENTITY cellSelectRow.label "Mothalo">
@@ -45,13 +44,6 @@
 <!ENTITY cellSelectNext.accessKey "L">
 <!ENTITY cellSelectPrevious.label "Pele">
 <!ENTITY cellSelectPrevious.accessKey "P">
-<!ENTITY cellApplyBeforeMove.label "Diriša diphetogo pele ga go fetoša kgetho">
-<!ENTITY cellKeepCurrentData.label "Boloka dipeakanyo tša bjale">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Dipeakanyo tša bjale di tla dirišwa">
-<!ENTITY applyBeforeChange2.label "pele ga go fetoša kgetho.">
-<!ENTITY cellRowSpan.label "Paralatšo ya Mothalo:">
-<!ENTITY cellColSpan.label "Paralatšo ya Kholomo:">
 <!ENTITY cellContentAlignment.label "Peakanyo ya Diteng">
 <!ENTITY cellHorizontal.label "Rapamego:">
 <!ENTITY cellHorizontal.accessKey "M">
@@ -69,7 +61,6 @@
 <!ENTITY cellAlignMiddle.label "Gare">
 <!ENTITY cellAlignBottom.label "Fase">
 <!ENTITY cellAlignJustify.label "Lokafatša">
-<!ENTITY cellAlignAtChar.label "Go Tlhaka:">
 <!ENTITY cellInheritColor.label "(E re mmala wa tafola o laetše go phuleletša)">
 <!ENTITY cellUseCheckboxHelp.label "Šomiša ditšhekepokisi go laetša gore ke dipharologantšho dife tšeo di dirišwago go disele tše kgethilwego">
 <!-- Used in both Table and Cell panels  -->

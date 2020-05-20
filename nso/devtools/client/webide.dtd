@@ -85,6 +85,7 @@
 
 
 <!ENTITY deck_close "Tswalela">
+
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "Bula molaodi wa ditlaleletši">
 <!-- Prefs -->
@@ -120,8 +121,6 @@
 
 
 
-<!-- Monitor -->
-<!ENTITY monitor_help "Thušo">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -137,11 +136,6 @@
 
 <!-- Logs panel -->
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Tokollo">
 
 
 

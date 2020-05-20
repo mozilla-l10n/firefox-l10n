@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Bula go lefasetere le leswa
     .accesskey = e
+
 places-new-bookmark =
     .label = Pukutshwayo e mpsha…
     .accesskey = P
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Sekgaoganyi se seswa
     .accesskey = S
+
 places-view =
     .label = Tebelelo
     .accesskey = l
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ka letšatšikgwedi le saete
     .accesskey = t
+
 places-delete-domain-data =
     .label = Lebala ka saete ye
     .accesskey = a

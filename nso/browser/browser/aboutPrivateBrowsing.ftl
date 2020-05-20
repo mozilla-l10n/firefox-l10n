@@ -4,3 +4,4 @@
 
 privatebrowsingpage-open-private-window-label = Bula lefasetere la praebete
     .accesskey = p
+

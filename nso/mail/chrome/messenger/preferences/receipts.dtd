@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title "Dirasiti tša go gomela morago">
-<!ENTITY receiptSettings.label "Dirasiti tša go gomela morago">
 <!ENTITY requestReceipt.label "Ge o romela melaetša, ka mehla kgopela rasiti ya go gomela morago">
 <!ENTITY requestReceipt.accesskey "G">
 <!ENTITY receiptArrive.label "Ge rasiti e fihla:">

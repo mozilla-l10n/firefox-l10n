@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "O kgopetšwe go tshepha Taolo e mpsha ya Disetifikheiti (CA).">
 
 <!ENTITY downloadCert.trustEmail "Tshepha CA ye go hlatha bašomiši ba e-poso.">
-<!ENTITY downloadCert.trustObjSign "Holofela CA ye šupa batšweletši ba mananeotirišo a khomphutha.">
 <!ENTITY downloadCert.message3 "Pele o ka tshepha CA ye morerong o mongwe le o mongwe, o swanetše go lekola setifikheiti sa yona le maano-tshepedišo le ditsela tša yona (ge di le gona).">
 <!ENTITY downloadCert.viewCert.label "Lebelela">
 <!ENTITY downloadCert.viewCert.text "Lekola setifikheiti sa CA">

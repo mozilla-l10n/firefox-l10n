@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Kgetha tšohle">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "t">
+
 <!ENTITY findCmd.label             "Hwetša">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "H">

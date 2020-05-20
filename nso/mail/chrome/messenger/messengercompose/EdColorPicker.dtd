@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Mmala">
 <!ENTITY lastPickedColor.label "Mmala wa mafelelo wo o kgethilwego">
 <!ENTITY lastPickedColor.accessKey "M">
-<!ENTITY setColor1.label "Kgotla godimo ga mmala goba">
-<!ENTITY setColor2.label "tsenya thapo ya mmala ya HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(mohl.: &quot;#0000ff&quot; goba &quot;talalerata&quot;):">
 <!ENTITY default.label "Tifolete">
 <!ENTITY default.accessKey "T">

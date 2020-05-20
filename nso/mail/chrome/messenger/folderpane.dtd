@@ -5,6 +5,3 @@
 <!ENTITY unreadColumn.label "Sa balwago">
 <!ENTITY totalColumn.label "Ka moka">
 <!ENTITY folderSizeColumn.label "Saese">
-<!ENTITY accounts.label "Diakhaonte">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">

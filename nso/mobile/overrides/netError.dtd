@@ -7,24 +7,16 @@
 
 <!ENTITY loadError.label "E na le mathata a go hlahlela letlakala">
 <!ENTITY retry.label "Leka gape">
+
 <!-- Specific error messages -->
 
 
 <!ENTITY connectionFailure.title "Ga e kgone go kgokaganya">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
 
 <!ENTITY deniedPortAccess.title "Aterese ye e thibetšwe">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Seabi ga sa hwetšwa">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Check the address for typing errors such as
-    <strong>ww</strong>.example.com instead of
-    <strong>www</strong>.example.com</li>
-  <li>If you are unable to load any pages, check your device's data or Wi-Fi connection.</li>
-</ul>
-">
 
 <!ENTITY fileNotFound.title "Faele ga ya hwetšwa">
 <!ENTITY fileNotFound.longDesc "<ul> 
@@ -37,25 +29,13 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; e ka se hlahlele letlakala le ka lebaka le itšego.</p>">
 
 <!ENTITY malformedURI.title "Aterese ga e šome">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Diaterese tša wepe gantši di ngwalwa ka tsela ye 
-<strong>http://www.example.com/</strong></li> 
-<li>Kgonthišetša gore o diriša methaladi yeo e robaletšego pele (ke gore. 
-<strong>/</strong>).</li> 
-</ul>">
 
 <!ENTITY netInterrupt.title "Kgokaganyo e šitišitšwe">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
 
 <!ENTITY notCached.title "Tokumente e feletšwe ke nako">
 <!ENTITY notCached.longDesc "<p>Tokumente e kgopetšwego ga e hwetšagale ka polokelo-tsebišo ya &brandShortName;.</p><ul><li> Bakeng sa tšhireletšego, &brandShortName; ga e kgopele gape ditokumente tša bohlokwa ka maitirišo.</li><li>Kgotla Leka gape gore o kgopele tokumente gape go tšwa wepesaeteng.</li></ul>">
 
 <!ENTITY netOffline.title "Mokgwa wa go se be inthaneteng">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Try again. &brandShortName; will attempt to open a connection and reload the page.</li>
-</ul>
-">
 
 <!ENTITY contentEncodingError.title "Content Encoding Error">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -70,15 +50,8 @@
 ">
 
 <!ENTITY netReset.title "Kgokaganyo e beakantšwe-leswa">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
 
 <!ENTITY netTimeout.title "Kgokaganyo e feletšwe ke nako">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
-
-<!ENTITY protocolNotFound.title "Aterese ga ya kwešišwa">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>O ka swanelwa ke go lokela lenaneotirišo le lengwe la khomphutha gore o bule aterese ye.</li> 
-</ul>">
 
 <!ENTITY proxyConnectFailure.title "Seabi sa kemedi se gana dikgokaganyo">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -88,12 +61,6 @@
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Ga e kgone go hwetša seabi sa kemedi">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Check the proxy settings to make sure that they are correct.</li>
-  <li>Check to make sure your device has a working data or Wi-Fi connection.</li>
-</ul>
-">
 
 <!ENTITY redirectLoop.title "Letlakala le ga le laele gape ka tshwanelo">
 <!ENTITY redirectLoop.longDesc "<ul> 
@@ -109,12 +76,6 @@ wa botho.</li>
 </ul>">
 
 <!ENTITY nssFailure2.title "Secure Connection Failed">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view cannot be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem. Alternatively, use the command found in the help menu to report this broken site.</li>
-</ul>
-">
 
 <!ENTITY nssBadCert.title "Secure Connection Failed">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -124,22 +85,10 @@ motho yo mongwe a leka go itira seabi.</li>
 ya nakwana, gomme o ka leka gape ka moragonyana.</li> 
 </ul>">
 
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>The site could be temporarily unavailable or too busy. Try again in a few moments.</li>
-  <li>If you are unable to load any pages, check your mobile device's data or Wi-Fi connection.</li>
-</ul>
-">
-
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; e thibetše letlakala le go hlahlela ka tsela ye ka gobane letlakala le le nale pholisi ya tšhireletšego ya dikagare yeo e sa go dumelelego.</p>">
-
-<!ENTITY corruptedContentError.title "Phošo ya dikagare tšeo di senyegilego">
-<!ENTITY corruptedContentError.longDesc "<p>Letlakala leo o lekago go le lebelela le ka se laetšwe ka gobane go lemogilwe phošo go phetišetšo ya tsebišo.</p><ul><li>Hle ikopanye le beng ba wepesaete gore o ba tsebiše ka bothata bjo.</li></ul>">
-
 <!ENTITY securityOverride.linkText "Goba o ka oketša tše sa akaretšwego…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Joo! Ntšhe mo!">
 <!ENTITY securityOverride.exceptionButtonLabel "Oketša tše sa akaretšwego…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of

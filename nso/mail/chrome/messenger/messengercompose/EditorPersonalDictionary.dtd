@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "L">
 <!ENTITY DictionaryList.label "Mantšu ka gare ga pukuntšu:">
 <!ENTITY DictionaryList.accessKey "M">
-<!ENTITY ReplaceButton.label "Bea sebakeng sa">
-<!ENTITY ReplaceButton.accessKey "B">
 <!ENTITY RemoveButton.label "Tloša">
 <!ENTITY RemoveButton.accessKey "l">
 

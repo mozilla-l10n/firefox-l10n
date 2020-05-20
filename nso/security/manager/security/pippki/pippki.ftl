@@ -8,6 +8,7 @@ password-quality-meter = Metara wa khwalithi wa lentšuphetišo
 
 change-password-window =
     .title = Fetola Lentšuphetišo la Motheo
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Setlabelo sa Tšhireletšo: { $tokenName }

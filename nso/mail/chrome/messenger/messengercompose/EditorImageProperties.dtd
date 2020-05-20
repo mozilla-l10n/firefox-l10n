@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -8,7 +9,6 @@
 <!ENTITY windowTitle.label "Dipharologantšho tša Seswantšho">
 
 <!ENTITY pixelsPopup.value "diphikisele">
-<!ENTITY percentPopup.value "phesente">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Seswantšho Lefelo:">
@@ -24,7 +24,7 @@
 <!ENTITY noAltText.accessKey "S">
 
 <!ENTITY previewBox.label "Tebelelopele ya Seswantšho">
-<!ENTITY MoreFewerButton.tooltip "Bontšha dipharologantšho tše ntši goba tše e sego tše kaalo go rulaganya">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -47,8 +47,6 @@
 <!ENTITY imagemapBox.label "Mmepe wa Seswantšho">
 <!ENTITY removeImageMapButton.label "Tloša">
 <!ENTITY removeImageMapButton.accessKey "T">
-<!ENTITY editImageMapButton.label "Rulaganya...">
-<!ENTITY editImageMapButton.tooltip "Hlola di-hotesepote tša go kgotlega tša seswantšho se">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Beakanya Sengwalwa go Seswantšho">
@@ -60,7 +58,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Dira sekgoba">
-<!ENTITY spacingBox.tooltip "Thaepa nomoro ya bogolo bja sekgoba go rarela seswantšho">
 <!ENTITY leftRightEditField.label "Ntsogošo le Go ja:">
 <!ENTITY leftRightEditField.accessKey "N">
 <!ENTITY topBottomEditField.label "Godimo le Fase:">
@@ -73,10 +70,6 @@
 <!ENTITY showImageLinkBorder.accessKey "M">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "Dira Bokamorago bja Letlakala">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Šomiša seswantšho bjalo ka bokamorago bja letlakala la gago">
-<!ENTITY editImageButton.label "Rulaganya Seswantšho">
-<!ENTITY editImageButton.tooltip "Rulaganya faele ya seswantšho go lenaneo le lengwe">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Sebopego">

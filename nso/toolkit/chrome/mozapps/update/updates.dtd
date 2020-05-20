@@ -40,7 +40,7 @@
 <!ENTITY  errorpatching.intro             "Kaonafatšo e hlaolago e be e ka se dirišwe. &brandShortName; e tla leka gape ka go laolla kaonafatšo e feletšego.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ga e kgone go lemoga ge eba mpshafatšo e hwetšagala. Hle netefatša gore o na le tokollo ya morago-rago ya &brandShortName; go tšwa go:">
-
+                                           
 <!ENTITY  finishedPage.title              "Kaonafatšo e loketše go tsenywa">
 <!ENTITY  finishedPage.text               "Kaonafatšo e tla lokelwa nakong e latelago ge &brandShortName; e thoma. O ka thoma &brandShortName; gape gona bjale, goba wa iša pele o šoma gomme wa thoma gape ka moragonyana.">
 
@@ -50,6 +50,3 @@
 <!ENTITY  finishedBackground.more         "Kaonafatšo e tla lokelwa nakong e latelago ge &brandShortName; e thoma. O ka thoma &brandShortName; gape gona bjale, goba wa iša pele o šoma gomme wa thoma gape ka moragonyana.">
 
 
-<!ENTITY  update.details.label            "Dintlha">
-<!ENTITY  update.installedOn.label        "Loketšwe go:">
-<!ENTITY  update.status.label             "Boemo:">

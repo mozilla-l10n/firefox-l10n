@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Morago
     .accesskey = M
+
 wizard-macos-button-next =
     .label = Tšwela pele
     .accesskey = T
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Latelago >
     .accesskey = L
+
 wizard-macos-button-finish =
     .label = Feditše
 wizard-linux-button-finish =
     .label = Feditše
 wizard-win-button-finish =
     .label = Feditše
+
 wizard-macos-button-cancel =
     .label = Khansela
 wizard-linux-button-cancel =

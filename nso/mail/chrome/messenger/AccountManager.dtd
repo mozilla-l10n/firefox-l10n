@@ -4,18 +4,15 @@
 
 <!-- extracted from AccountManager.xul -->
 
+<!-- extracted from AccountManager.xhtml -->
+
 <!ENTITY accountManagerTitle.label "Peakanyo ya Diakhaonte">
 
-<!ENTITY addAccountButton.label "Tsenya Akhaonte...">
-<!ENTITY addAccountButton.accesskey "T">
 <!ENTITY setDefaultButton.label "Beakanya bjalo ka go se Fetoge">
 <!ENTITY setDefaultButton.accesskey "t">
-<!ENTITY duplicateButton.label "Kopiša">
 <!ENTITY removeButton.label "Ntšha Akhaonte">
 <!ENTITY removeButton.accesskey "N">
 
-<!ENTITY nameCol.label "Leina">
-<!ENTITY duplicate.label "Kopiša">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -24,6 +21,6 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 
+<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 55em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

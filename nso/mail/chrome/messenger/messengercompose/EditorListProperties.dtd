@@ -14,7 +14,6 @@
 <!ENTITY bulletList.value "Lenaneo la (Go se ngwalwe dinomoro) Dipulete">
 <!ENTITY numberList.value "Lenaneo le le nago le Dinomoro">
 <!ENTITY definitionList.value "Lenaneo la Ditlhaloso">
-<!ENTITY changeListMsg.label "Ge go fetošwa mohuta wa lenaneo:">
 <!ENTITY changeEntireListRadio.label "Fetoša lenaneo ka botlalo">
 <!ENTITY changeEntireListRadio.accessKey "F">
 <!ENTITY changeSelectedRadio.label "Fetoša fela dikarolwana tše kgethilwego">

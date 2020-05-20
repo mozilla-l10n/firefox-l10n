@@ -4,10 +4,11 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Dipeakanyo tša Akhaonte">
 <!ENTITY accountName.label "Leina la Akhaonte:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY accountNameDesc.label "Leina la akhaonte le šomišetšwa go hlaola akhaonte ye nngwe le ye nngwe">
 <!ENTITY identityTitle.label "Boitsebišo bja go se fetoge">
 <!ENTITY identityDesc.label "Akhaonte ye nngwe le ye nngwe e na le boitsebišo, bjoo e lego tshedimošo yeo batho ba bangwe ba e bonago ge ba bala melaetša ya gago.">
 <!ENTITY name.label "Leina la Gago:">
@@ -18,8 +19,6 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Mokgahlo:">
 <!ENTITY organization.accesskey "M">
-<!ENTITY signature.label "Ngwala mosaeno wo:">
-<!ENTITY signature.accesskey "l">
 <!ENTITY edit.label "Rulaganya...">
 <!ENTITY choose.label "Kgetha...">
 <!ENTITY choose.accesskey "K">
@@ -36,3 +35,4 @@
 <!ENTITY smtpName.label "Sebara ya go Tšwela ntle (SMTP):">
 <!ENTITY smtpName.accesskey "w">
 <!ENTITY smtpDefaultServer.label "Šomiša Sebara ya go Fetoge">
+

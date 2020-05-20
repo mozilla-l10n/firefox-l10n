@@ -26,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "E">
 <!ENTITY folderPickerPrefix.label "Sepetša difilthara tše kgethilwego go:">
 <!ENTITY folderPickerPrefix.accesskey "l">
-<!ENTITY choosethis.label "kgetha folthara ye">
-<!ENTITY choosethisnewsserver.label "kgethat sebara ye ya ditaba">
 <!ENTITY helpButton.label "Thuša">
 <!ENTITY helpButton.accesskey "T">
 <!ENTITY closeCmd.key "W">

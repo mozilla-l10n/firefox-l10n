@@ -14,8 +14,6 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Karata ya Puku ya Diaterese...">
-<!ENTITY newCard.accesskey "k">
 <!ENTITY attachMenu.label "Kgorametša">
 <!ENTITY attachMenu.accesskey "g">
 <!ENTITY attachFileCmd.label "Difaele...">
@@ -39,8 +37,6 @@
 <!ENTITY saveAsDraftCmd.accesskey "S">
 <!ENTITY saveAsTemplateCmd.label "Thempleiti">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY offlineGoOfflineCmd.label "Šoma Offlaene">
-<!ENTITY offlineGoOfflineCmd.accesskey "Š">
 <!ENTITY sendNowCmd.label "Romela Gona bjalo">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "a">
@@ -52,11 +48,6 @@
 <!ENTITY printCmd.label "Gatiša...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "G">
-<!ENTITY quitApplicationCmdWin.label "Tšwa">
-<!ENTITY quitApplicationCmdWin.accesskey "š">
-<!ENTITY quitApplicationCmd.label "Tlogela">
-<!ENTITY quitApplicationCmd.accesskey "T">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Rarolla">
@@ -76,35 +67,28 @@
 <!ENTITY pasteCmd.label "Kgorametša">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "k">
-<!ENTITY editRewrapCmd.label "Phuthela gape">
 <!ENTITY editRewrapCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Phumula">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "p">
+<!ENTITY editRewrapCmd.label "Phuthela gape">
 <!ENTITY selectAllCmd.label "Kgetha Ka moka">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY findCmd.label "Hwetša le go Ema legato...">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "H">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Hwetša Gape">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "a">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Hwetša tša go Feta">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "t">
 <!-- View Menu -->
+
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!ENTITY viewMenu.label "Bona">
 <!ENTITY viewMenu.accesskey "b">
 <!ENTITY viewToolbarsMenuNew.label "Dithulpaa">
 <!ENTITY viewToolbarsMenuNew.accesskey "D">
-<!ENTITY showComposeToolbarCmd.label "Thulpaa ya Melaetša">
-<!ENTITY showComposeToolbarCmd.accesskey "h">
-<!ENTITY showFormatToolbarCmd.label "Thulupaa ya go Fometa">
-<!ENTITY showFormatToolbarCmd.accesskey "T">
 <!ENTITY showTaskbarCmd.label "Paa ya Maemo">
 <!ENTITY showTaskbarCmd.accesskey "P">
 <!ENTITY customizeToolbar.label "Šomiša...">
@@ -120,10 +104,6 @@
 
 <!ENTITY optionsMenu.label "Dikgetho">
 <!ENTITY optionsMenu.accesskey "i">
-<!ENTITY checkSpellingCmd.label "Lekola Mopeleto...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "e">
 <!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Tsopola Molaetša">
@@ -135,8 +115,6 @@
 
 <!ENTITY returnReceiptMenu.label "Buša Dirasiti">
 <!ENTITY returnReceiptMenu.accesskey "š">
-<!ENTITY outputFormatMenu.label "Fomete">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "Lemoga ka tsela ya Othometiki">
 <!ENTITY autoFormatCmd.accesskey "l">
 <!ENTITY plainTextFormatCmd.label "Sengwalwa sa go se be le selo fela">
@@ -170,13 +148,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Puku ya Diaterese">
 <!ENTITY addressBookCmd.accesskey "p">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Peakanyo ya Akhaonte...">
-<!ENTITY accountManagerCmd.accesskey "k">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Dikgetho...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "D">
 <!ENTITY preferencesCmdUnix.label "Dipharolontšho">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!--  Mac OS X Window Menu -->
@@ -188,15 +159,6 @@
 <!ENTITY windowMenu.label "Lefasetere">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Thuša">
-<!ENTITY helpMenu.accesskey "T">
-<!ENTITY releaseCmd.label "Dinoutse tša go lokolla">
-<!ENTITY releaseCmd.accesskey "D">
-<!ENTITY hintsAndTips.label "&brandShortName; Thuša">
-<!ENTITY hintsAndTips.accesskey "t">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Mabapi le &brandShortName;">
-<!ENTITY aboutCmd.accesskey "M">
 <!-- Mail Toolbar -->
 
 <!ENTITY sendButton.label "Romela">
@@ -205,18 +167,17 @@
 <!ENTITY attachButton.label "Kgorametša">
 <!ENTITY spellingButton.label "Mopeleto">
 <!ENTITY saveButton.label "Boloka">
-<!ENTITY throbberItem.title "Selaetša Modiro">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Romela molaetša wo gonabjale">
 <!ENTITY sendlaterButton.tooltip "Romela molaetša wo ka morago">
 <!ENTITY quoteButton.tooltip "Tsopola letlakala la pele">
 <!ENTITY addressButton.tooltip "Kgetha moamogedi go tšwa go Puku ya Diaterese">
-<!ENTITY attachButton.tooltip "Akaretša sekgorametšwa">
 <!ENTITY saveButton.tooltip "Boloka molaetša wo">
 <!ENTITY cutButton.tooltip "Ripa">
 <!ENTITY copyButton.tooltip "Khopa">
 <!ENTITY pasteButton.tooltip "Kgorametša">
+
 <!-- Headers -->
 
 <!ENTITY fromAddr.label "Go tšwa go:">
@@ -229,14 +190,10 @@
 <!ENTITY followupAddr.label "Kgopotšo-Go ya go:">
 <!ENTITY subject.label "Hlogo:">
 <!ENTITY subject.accesskey "H">
-<!ENTITY attachments.label "Dikgorametšwa:">
 <!ENTITY attachments.accesskey "r">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Lokela sefahlogo sa go myemyela">
 <!ENTITY smiley1Cmd.label "Myemyela">
 <!ENTITY smiley2Cmd.label "Šunyalala">
@@ -283,6 +240,8 @@
 <!ENTITY attachPage.label "Kgorametša Letlakala la Webe...">
 <!ENTITY attachPage.accesskey "L">
 <!-- Title for the address picker panel -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY addressesSidebarTitle.label "Dikgokaganyo">
 

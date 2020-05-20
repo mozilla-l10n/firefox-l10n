@@ -2,16 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY fontsDialog.title "Difonte">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
-
 <!ENTITY language.label "Difonte tša:">
 <!ENTITY language.accesskey "t">
-
-<!ENTITY typefaces.label "Thaepefeisi">
-<!ENTITY sizes.label "Saese (diphikisele)">
 
 <!ENTITY proportional.label "Setswalle:">
 <!ENTITY proportional.accesskey "S">
@@ -23,21 +15,13 @@
 <!ENTITY monospace.label "Sekgobatee:">
 <!ENTITY monospace.accesskey "s">
 
-<!ENTITY fontsize.units "diphikisele">
-
-<!ENTITY font.langGroup.latin1 "Bodikela">
-<!ENTITY font.langGroup.latin2 "Bogare bja Yuropa">
 <!ENTITY font.langGroup.japanese "SeJapane">
 <!ENTITY font.langGroup.trad-chinese "Setšhaena sa Setšo (Sethaiwane)">
 <!ENTITY font.langGroup.simpl-chinese "Setšhaena sa go Nolofatšwa">
 <!ENTITY font.langGroup.trad-chinese-hk "Setšhaena sa Setšo (Hong Kong)">
 <!ENTITY font.langGroup.korean "SeKorea">
 <!ENTITY font.langGroup.cyrillic "SeSiriliki">
-<!ENTITY font.langGroup.baltic "SeBalthiki">
 <!ENTITY font.langGroup.el "Segerika">
-<!ENTITY font.langGroup.turkish "SeTheki">
-<!ENTITY font.langGroup.unicode "Dipolelo tše Dingwe">
-<!ENTITY font.langGroup.user-def "Modiriši o Hlalošitšwe">
 <!ENTITY font.langGroup.thai "SeThai">
 <!ENTITY font.langGroup.hebrew "Seheberu">
 <!ENTITY font.langGroup.arabic "Searapo">
@@ -62,7 +46,6 @@
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
-<!ENTITY newLanguages.label "Dipolelo tše mpsha di ka bopša ka go šomiša Phanele ya Dipolelo.">
-
 <!ENTITY useDocumentFonts.label "Dumelela melaetša go šomiša difonte tše dingwe">
 <!ENTITY useDocumentFonts.accesskey "l">
+

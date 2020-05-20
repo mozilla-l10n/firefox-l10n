@@ -12,7 +12,6 @@
 <!ENTITY accountsSectionHdr.label "Accounts">
 <!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
 <!ENTITY settingsLink.label "Lebelela dipeakanyo tša akhaonte ye">
-<!ENTITY newAcctLink.label "Hlama akhaonte e mpsha">
 
 <!ENTITY advFeaturesSectionHdr.label "Dibopego tše Gatetšego pele">
 <!ENTITY searchMsgsLink.label "Nyaka melaetša">
@@ -21,5 +20,3 @@
 <!ENTITY offlineLink.label "Dipeakanyo tša dikgokaganyo tša megala ye e sa šomego">
 
 
-<!ENTITY rssSectionHdr.label "Ditaba tša RSS &amp;empo; Ditšhitišo">
-<!ENTITY subscibeRSS.label "Laola boingwadišo">

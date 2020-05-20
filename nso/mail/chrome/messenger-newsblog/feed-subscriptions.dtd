@@ -2,16 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Boingwadišo bja RSS">
-<!ENTITY subscriptionDesc.label "Ela hloko: Go tloša goba go fetoša foltara go e tlabakela go ka se be le seabe go dingwalwa tšeo di bego di butšwe pele.">
 <!ENTITY feedTitle.label "Thaetlele:">
-<!ENTITY location.label "Lefelo:">
 
 <!ENTITY button.addFeed.label "Lokela">
 <!ENTITY button.addFeed.accesskey "L">
-<!ENTITY button.editFeed.label "Rulaganya">
-<!ENTITY button.editFeed.accesskey "R">
 <!ENTITY button.removeFeed.label "Tloša">
 <!ENTITY button.removeFeed.accesskey "T">
 <!ENTITY button.importOPML.label "Amogela go tšwa ntle">

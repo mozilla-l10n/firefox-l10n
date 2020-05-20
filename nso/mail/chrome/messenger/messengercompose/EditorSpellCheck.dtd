@@ -28,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "o">
 <!ENTITY editUserDictionaryButton.label "Rulaganya...">
 <!ENTITY editUserDictionaryButton.accessKey "R">
-<!ENTITY recheckButton.label "Lekola Letlakala gape">
-<!ENTITY recheckButton.accessKey "L">
 <!ENTITY closeButton.label "Tswalela">
 <!ENTITY closeButton.accessKey "T">
 <!ENTITY sendButton.label "Romela">

@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Hwetša le Bea bakeng">
 <!ENTITY findField.label "Hwetša sengwalwa:">
 <!ENTITY findField.accesskey "t">
@@ -24,4 +26,3 @@
 <!ENTITY replaceAllButton.label "Bea bakeng Ka moka">
 <!ENTITY replaceAllButton.accesskey "K">
 <!ENTITY closeButton.label "Tswalela">
-<!ENTITY notFoundWarning.label "Sengwalwa se o se tsentšego ga se sa hwetšwa.">

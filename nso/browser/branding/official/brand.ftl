@@ -13,6 +13,6 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+-vendor-short-name = Mozilla
 trademarkInfo = Firefox le dika tša Firefox ke maswao a papatšo a Mozilla Foundation.

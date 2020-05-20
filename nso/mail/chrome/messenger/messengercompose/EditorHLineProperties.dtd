@@ -13,11 +13,8 @@
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY pixelsPopup.value "diphikisele">
 <!ENTITY alignmentBox.label "Peakanyo">
-<!ENTITY leftRadio.value "Ntsogošo">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Gare">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "La go ja">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D Go šira">

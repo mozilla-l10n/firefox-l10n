@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label "Sešupetšo sa Dipharologantšho tša Sebara">
 <!ENTITY directoryName.label "Leina: ">
 <!ENTITY directoryName.accesskey "l">
 <!ENTITY directoryHostname.label "Leina la Monggae: ">
@@ -15,12 +14,9 @@
 <!ENTITY directorySecure.accesskey "Š">
 <!ENTITY directoryLogin.label "Kopanya DN: ">
 <!ENTITY directoryLogin.accesskey "o">
-<!ENTITY advancedOptionsButton.label "Dikgetho tše Tšwetšego pele">
-<!ENTITY advancedOptionsButton.accesskey "d">
 <!ENTITY General.tab "Kakaretšo">
 <!ENTITY Offline.tab "Ntle le kgokagano ya megala">
 <!ENTITY Advanced.tab "Gatetšego pele">
-<!ENTITY advancedOptionsTitle.label "Dikgetho tše Gatetšego pele">
 <!ENTITY portNumber.label "Nomoro ya Bohlomelo: ">
 <!ENTITY portNumber.accesskey "b">
 <!ENTITY searchFilter.label "Nyaka filthara: ">
@@ -35,6 +31,7 @@
 <!ENTITY return.accesskey "b">
 <!ENTITY results.label "dipoelo">
 <!ENTITY offlineText.label "O ka bula khopi ya tikologo ya sešupetšo se gore se be gona go šomišwa ge o šoma ka ntle le kgokagano ya megala.">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
