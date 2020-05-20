@@ -174,9 +174,6 @@
 <!ENTITY newIM.tooltip                                  "Neue Sofortnachricht (instant message) oder neuen Chat verfassen">
 <!ENTITY deleteButton2.tooltip                          "Gewähltes Element löschen">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adressbücher">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Name oder E-Mail-Adresse">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">

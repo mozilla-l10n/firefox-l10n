@@ -38,12 +38,12 @@
 <!ENTITY  noproxy.label                 "Kein Proxy für:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Beispiel: .mozilla.org, .net.de, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Für alle Protokolle diesen Proxy verwenden">
+<!ENTITY  shareproxy.accesskey          "x">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label   "Verbindungen mit localhost, 127.0.0.1 und ::1 werden nie über einen Proxy geleitet.">
-<!ENTITY  shareproxy.label              "Für alle Protokolle diesen Proxy verwenden">
-<!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Keine Authentifizierungsanfrage bei gespeichertem Passwort">
 <!ENTITY  autologinproxy.accesskey      "z">
 <!ENTITY  autologinproxy.tooltip        "Beim Aktivieren dieser Einstellung wird die Anmeldung an Proxies automatisch vorgenommen, falls deren Passwort gespeichert ist. Bei fehlgeschlagener Authentifizierung wird das Passwort vom Benutzer abgefragt.">

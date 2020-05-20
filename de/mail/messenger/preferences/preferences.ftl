@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 choose-messenger-language-description = Sprache für die Anzeige von Menüs, Mitteilungen und Benachrichtigungen von { -brand-short-name }
 manage-messenger-languages-button =
   .label = Alternative Sprachen festlegen…
@@ -34,3 +35,6 @@ update-in-progress-ok-button = &Verwerfen
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
 update-in-progress-cancel-button = &Fortfahren
+
+## OS Authentication dialog
+
