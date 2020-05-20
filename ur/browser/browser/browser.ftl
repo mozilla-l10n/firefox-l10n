@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = سائٹ کی معلومات کا نظارہ کریں
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = آپنے اس ویب سائٹ کے لئے MIDI تک رسائی بلاک کر دی ہیں۔
 urlbar-install-blocked =
     .tooltiptext = آپ نے اس ویب سائٹ کیلئے ایڈ آنا کو انسٹالیشن کو بلاک کیا ہوا ہے۔
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = یہ بک مارک تدوین کریں ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = ایکسٹینشن… منظم کریں
 page-action-remove-from-urlbar =
     .label = ایڈریس بار سے ہٹائے
+
 page-action-remove-extension =
     .label = ایکسٹینشن ہٹائیں
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = اس بار ، کے ساتھ تلاش کریں:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = تلاش سیٹنگز تبدیل کریں
 search-one-offs-change-settings-compact-button =
     .tooltiptext = تلاش سیٹنگز تبدیل کریں
+
 search-one-offs-context-open-new-tab =
     .label = نئے ٹیب میں تلاش کرے
     .accesskey = T
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = تدوین کار میں محفوظ کرتے وقت نمائش کریں
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = ہوگیا
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -234,9 +242,11 @@ urlbar-permissions-granted =
     .tooltiptext = آپ نے اس ویب سائٹ کو اضافی اجازتیں دے دی ہیں۔
 urlbar-switch-to-tab =
     .value = ٹیب پر سوئچ کریں:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ایکسٹینشن:
+
 urlbar-go-button =
     .tooltiptext = محل وقوع بار میں دیے گئے پتے پر جائیں
 urlbar-page-action-button =

@@ -9,11 +9,15 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = ایکسٹینشن غیرفعال بنائیں
+
 connection-proxy-configure = انٹرنیٹ چلانے کے لئے پراکسی کنفیگر کریں
+
 connection-proxy-option-no =
     .label = کوئی پراکسی نہیں
     .accesskey = y
@@ -26,6 +30,7 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = من متابک پراکسی سیٹنگز
     .accesskey = M
+
 connection-proxy-http = HTTP پراکسی
     .accesskey = x
 connection-proxy-http-port = پورٹ
@@ -33,20 +38,25 @@ connection-proxy-http-port = پورٹ
 connection-proxy-http-share =
     .label = تمام پروٹوکول کے لیے یہ پراکسی سرور استعمال کریں
     .accesskey = s
+
 connection-proxy-ssl = SSL پراکسی
     .accesskey = L
+
 connection-proxy-https = HTTPS پراکسی
     .accesskey = H
 connection-proxy-ssl-port = پورٹ
     .accesskey = o
+
 connection-proxy-ftp = FTP  پراکسی
     .accesskey = F
 connection-proxy-ftp-port = پورٹ
     .accesskey = r
+
 connection-proxy-socks = SOCKS ھوسٹ
     .accesskey = C
 connection-proxy-socks-port = پورٹ
     .accesskey = t
+
 connection-proxy-socks4 =
     .label = SOCKS ورژن 4
     .accesskey = K
@@ -55,23 +65,31 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = کے لئے کوئی پراکسی نہیں
     .accesskey = N
+
 connection-proxy-noproxy-desc = مثال: .mozilla.org ،.net.nz ،192.168.1.0/24
+
 connection-proxy-autotype =
     .label = خودکار پراکسی تشکیل URL
     .accesskey = A
+
 connection-proxy-reload =
     .label = پھر لوڈ کریں
     .accesskey = e
+
 connection-proxy-autologin =
     .label = تصدیق کے لئے فوری طور پر ترغیب نہیں دیں اگر پاس ورڈ پہلے سے محفوظ شدہ ہے
     .accesskey = i
     .tooltip = یہ اختیار خاموشی سے پراکسی پر توثیق کر دیتی ہے جب آپ نے ان کے لیے اسناد محفوظ کیے ہوں۔  توثیق ناکام ہونے کی صورت میں آپ کو بتا دیا جائے گا۔
+
 connection-proxy-socks-remote-dns =
     .label = پراکسی DNS جب استعمال کر رہے ہوں SOCKS v5
     .accesskey = D
+
 connection-dns-over-https =
     .label = HTTPS پر DNS بحال کریں
     .accesskey = b
+
 connection-dns-over-https-url-resolver = فراہم کنندہ استعمال کریں
     .accesskey = P
+
 connection-dns-over-https-custom-label = مخصوص

@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "آپ کو نئی مقتدرہ تصدیق نامہ (سی اے) پر بھروسے کے لیے کہا گیا ہے۔">
 <!ENTITY downloadCert.trustSSL "ویب سائٹیں شناخت کرنے کے لیے اس CA پر بھروسا کریں۔">
 <!ENTITY downloadCert.trustEmail "ای میل صارفین شناخت کرنے کے لیے اس سی اے پر بھروسا کریں۔">
-<!ENTITY downloadCert.trustObjSign "سافٹ ویئر تکمیل کار شناخت کرنے کے لیے اس سی اے پر بھروسا کریں۔">
 <!ENTITY downloadCert.message3 "کسی مقصد کے لیے اس مصدق پر بھروسے سے قبل آپ کو اس کے تصدیق نامے اور اس کی پالیسی وطریق عمل کا معائنہ کرنا چاہیے(اگردستیاب ہو)۔">
 <!ENTITY downloadCert.viewCert.label "نظارہ">
 <!ENTITY downloadCert.viewCert.text "سی اے تصدیق نامہ معائنہ کریں">

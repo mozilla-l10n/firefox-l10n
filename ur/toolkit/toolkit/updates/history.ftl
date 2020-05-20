@@ -4,27 +4,24 @@
 
 history-title = سابقات اپڈیٹ کریں
 history-intro = مندرجہ ذیل تازہ کاریاں تنصیب ہو گئی ہیں
+
 close-button-label =
     .buttonlabelcancel = بند کریں
     .title = سابقات اپڈیٹ کریں
+
 no-updates-label = کوئی تجدیدات نصب نہیں ہیں
 name-header = نام تازہ کریں
 date-header = تنصیب کی تاریخ
 type-header = قسم
 state-header = ریاست
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = تفصیلات
 update-installed-on = تنصیب شدہ از: { $date }
 update-status = حالت: { $status }

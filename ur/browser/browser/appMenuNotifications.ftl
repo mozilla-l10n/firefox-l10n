@@ -50,6 +50,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = کوئی بھی نئی ایکسٹینشن جو آپ { -brand-shorter-name } میں شامل کرتے ہیں نجی ونڈوز میں اس وقت تک کام نہیں کرے گی جب تک کہ آپ اسے سیٹنگز میں اس کی اجازت نہ دیں۔
 appmenu-addon-private-browsing-learn-more = ایکسٹینشن کی سیٹنگز کو بندرست کرنے کا طریقہ سیکھیں
+    
 appmenu-new-tab-controlled =
     .label = آپکا نیا ٹیب تبدیل کردیا گیا ہے۔
     .buttonlabel = تبدیلیاں برقرار رکھیں

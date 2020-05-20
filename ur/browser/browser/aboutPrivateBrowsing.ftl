@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = کہ بارے میں مزید سیکھیں<a data-l10n-name="learn-more">نجی براوزنگ</a>.
 about-private-browsing-info-visited = دورہ کردہ صفحہات
+
 privatebrowsingpage-open-private-window-label = ایک نجی ونڈوں مے کھولیں
     .accesskey = P
 about-private-browsing-info-notsaved = جب آپ نجی دریچوں میں براؤز کریں، { -brand-short-name } <strong>محفوظ نہیں کرسکتا</strong>:
@@ -25,6 +26,7 @@ about-private-browsing =
 about-private-browsing-not-private = آپ فی الحال نجی دریچے میں نہیں۔
 content-blocking-title = مواد روکنا
 content-blocking-description = کچھ ویب سائٹ ٹریکر کا استعمال کرتے ہے جو انٹرنیٹ پر آپ کے حرکت کی نگرانی کرتے ہے۔ نجی ونڈوز میں، { -brand-short-name } کے مواد روکنے کی خصوصیات خودبخود بہت سے ٹریکر کو روکتا ہے جو آپ کے براؤزنگ کے معلومات جمع کر سکتے ہے۔
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

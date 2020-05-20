@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } حامل ترجیحات
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = نام
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = ایک حامل نام داخل کریں
+
 containers-icon-label = آئکن
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = رنگ
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = مکمل
     .accesskey = D
+
 containers-color-blue =
     .label = نیلا
 containers-color-turquoise =
@@ -54,6 +62,7 @@ containers-color-purple =
     .label = مزید سیکھیں
 containers-color-toolbar =
     .label = ٹول بار ملائے
+
 containers-icon-fence =
     .label = باڑ
 containers-icon-fingerprint =

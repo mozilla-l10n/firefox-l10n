@@ -238,6 +238,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        "۔">
 
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
+
 <!ENTITY printButton.label            "چھاپیں">
 <!ENTITY printButton.tooltip          "اس صفحہ کو چھاپیں">
 
@@ -629,6 +630,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pocket میں محفوظ کریں">
+
 <!ENTITY saveToPocketCmd.label        "Pocket میں صفحات محوظ کریں">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Pocket میں ربط محفوظ کریں">
@@ -1003,6 +1005,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "بند کریں">
 

@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = نقل کریں
     .accesskey = ن
+
 select-all =
     .key = A
 menu-select-all =
     .label = تمام منتخب کریں
     .accesskey = ت
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = عمومی
     .accesskey = ج
@@ -39,6 +43,7 @@ general-meta-name =
     .label = نام
 general-meta-content =
     .label = مشمول
+
 media-tab =
     .label = میڈیا
     .accesskey = م
@@ -68,11 +73,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = میڈیا پیش نظارہ
+
 perm-tab =
     .label = اجازتیں
     .accesskey = ا
 permissions-for =
     .value = اجازتیں بر:
+
 security-tab =
     .label = سلامتی
     .accesskey = س
@@ -93,17 +100,22 @@ security-view-identity-validity =
     .value = اختتامی میعاد:
 security-view-privacy =
     .value = نجی نوعیت & سابقات
+
 security-view-privacy-history-value = میں نے آج سے پہلے یہ ویب سائٹ دیکھی ہے؟
 security-view-privacy-sitedata-value = کیا یہ ویب سائٹ میرے کمپیوٹر پر معلومات کو محفوظ کررہی ہے؟
+
 security-view-privacy-clearsitedata =
     .label = کوکیز اور سائٹ کے کواِئف صاف کریں
     .accesskey = C
+
 security-view-privacy-passwords-value = کیا میں نے اس ویب سائٹ کے لیے کوئی پاس ورڈ محفوظ کیے ہیں؟
+
 security-view-privacy-viewpasswords =
     .label = محفوظ شدہ پاس ورڈ نظارہ کریں
     .accesskey = ن
 security-view-technical =
     .value = تکنیکی تفاصیل
+
 help-button =
     .label = مدد
 
@@ -115,8 +127,10 @@ help-button =
 
 security-site-data-cookies = ہاں ، سائٹ کے ڈیٹا اور کوکاں  { $value }{ $unit }
 security-site-data-only = ہاں ، سائٹ کے ڈیٹا کی { $value }{ $unit }
+
 security-site-data-cookies-only = ہاں، کوکیز
 security-site-data-no = نہیں
+
 image-size-unknown = نامعلوم
 not-set-verified-by = اختصاص شدہ نہیں
 page-info-not-specified =
@@ -136,6 +150,7 @@ media-video = وڈیو
 media-audio = آڈیو
 saved-passwords-yes = ہاں
 saved-passwords-no = نہیں
+
 no-page-title =
     .value = بلاعنوان صفحہ:
 general-quirks-mode =
@@ -151,6 +166,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = طے شدہ استعمال کریں
 security-no-visits = نہیں
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -161,6 +177,7 @@ security-visits-number =
         [one] ہاں، ایک مرتبہ
        *[other] ہاں { $visits } مرتبہ
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -171,6 +188,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } بائٹس)
            *[other] { $kb } KB ({ $bytes } بائٹس)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -182,12 +200,14 @@ media-animated-image-type =
             [one] { $type } تصویری (متحرک ،{ $frames } فریم)
            *[other] { $type } تصویری (متحرک ،{ $frames } فریم)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } نقش
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -197,17 +217,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (پیمائش کردہ { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -215,6 +238,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } سے نقوش بلاک کریں
     .accesskey = ب
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

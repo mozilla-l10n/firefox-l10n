@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = ربط نئے نجی دریچے میں کھولیں
     .accesskey = P
+
 places-new-bookmark =
     .label = نئی بک مارک…
     .accesskey = ن
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = نیا جداکار
     .accesskey = ج
+
 places-view =
     .label = نظارہ
     .accesskey = ن
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = حسب تاریخ اور سائٹ
     .accesskey = ت
+
 places-history-search =
     .placeholder = سابقات تلاش کریں
 places-bookmarks-search =
     .placeholder = بک مارک تلاش کریں
+
 places-delete-domain-data =
     .label = اس سائٹ کے بارے میں بھول جائیں
     .accesskey = ب

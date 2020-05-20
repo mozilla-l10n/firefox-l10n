@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = فانٹ
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = فانٹ برائے
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = عربی
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = متناسب
     .accesskey = P
+
 fonts-default-serif =
     .label = سیرف
 fonts-default-sans-serif =
     .label = سینس سیرف
+
 fonts-proportional-size = ماپ
     .accesskey = z
+
 fonts-serif = سیرف
     .accesskey = S
+
 fonts-sans-serif = سینس-سیرف
     .accesskey = n
+
 fonts-monospace = مونو سپیس
     .accesskey = M
+
 fonts-monospace-size = ماپ
     .accesskey = e
+
 fonts-minsize = کم سے کم فانٹ کا ماپ
     .accesskey = o
+
 fonts-minsize-none =
     .label = کوئی نہیں
+
 fonts-allow-own =
     .label = آپکے اوپر انتخاب بجائے، صفحات کو اپنے خود کے فونٹ چننے دے
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ورثہ مواد کے لیے متن کی ضابطہ بندی
 fonts-languages-fallback-desc = یہ کریکٹر ضابطہ بندی اس ورثہ مواد کے لیے استعمال کی جاتی ہے جو اپنی ضابطہ بندی نہیں بتاتا۔
+
 fonts-languages-fallback-label = فال بیک ٹیکسٹ انکوڈنگ
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = موجودہ محل وقوع کے لیے طےشدہ
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = دیگر (بشمول مغربی یورپی)
-fonts-very-large-warning-title = بڑا کم سے کم فانٹ سائز
-fonts-very-large-warning-message = آپ نے بہت بڈی کم از کم فانٹ سائز منتخب کی ہیں (24 دانہ سے مزید)۔ اس طرح کے کچھ اہم ترتیب صفحات کو استعمال کرنے میں یہ مشکل یا ناممکن بن سکتے ہیں.
-fonts-very-large-warning-accept = ویسے بھی میرا تبدیلیاں رکھیں
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

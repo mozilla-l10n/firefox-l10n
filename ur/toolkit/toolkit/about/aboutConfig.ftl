@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = میں یہ خطرہ! قبول کرتا ہوں
 config-about-warning-checkbox =
     .label = اگلی بار یہ تنبیہ نمائش کریں
+
 config-search-prefs =
     .value = تلاش کریں:
     .accesskey = ت
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = نقل کریں
     .accesskey = ن
+
 config-copy-name =
     .label = نام نقل کریں
     .accesskey = ن
+
 config-copy-value =
     .label = قدر نقل کریں
     .accesskey = ق
+
 config-modify =
     .label = ترمیم کریں
     .accesskey = ت
+
 config-toggle =
     .label = بدلیں
     .accesskey = ب
+
 config-reset =
     .label = پھر سیٹ کریں
     .accesskey = پ
+
 config-new =
     .label = نیا
     .accesskey = ن
+
 config-string =
     .label = سٹرنگ
     .accesskey = س
+
 config-integer =
     .label = سالم عدد
     .accesskey = س
+
 config-boolean =
     .label = بولیائی
     .accesskey = ب
+
 config-default = طے شدہ
 config-modified = ترميم شدہ
 config-locked = مقفل
+
 config-property-string = سلک
 config-property-int = integer
 config-property-bool = بولیائی
+
 config-new-prompt = ترجیح نام داخل کریں
+
 config-nan-title = ناجائز قدر
 config-nan-text = آپ کا داخل کردہ متن ایک عدد نہیں ہے۔
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = نئی { $type } قدر
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } کی قدر داخل کریں

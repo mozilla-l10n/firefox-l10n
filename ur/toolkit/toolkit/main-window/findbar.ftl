@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = فقرے کا اگلہ وقوع ڈھونڈیں
 findbar-previous =
     .tooltiptext = فقرے کا پچھلا وقوع ڈھونڈیں
+
 findbar-find-button-close =
     .tooltiptext = تلاش بار بند کریں
+
 findbar-highlight-all2 =
     .label = تمام یمایاں کریں
     .accesskey =
@@ -19,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = جملہ کے تمام واقعات کو نمایاں کریں
+
 findbar-case-sensitive =
     .label = کیس میچ کریں
     .accesskey = م
     .tooltiptext = کیس حساسیت کے ساتھ تلاش کریں
+
 findbar-entire-word =
     .label = تمام الفاظ
     .accesskey = ت

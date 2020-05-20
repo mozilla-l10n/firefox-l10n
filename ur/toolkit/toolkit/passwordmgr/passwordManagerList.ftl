@@ -54,6 +54,7 @@ import =
 close-button =
     .label = بند کریں
     .accesskey = ب
+
 show-passwords =
     .label = پاس ورڈ نمائش کریں
     .accesskey = P

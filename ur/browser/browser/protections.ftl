@@ -9,8 +9,10 @@ graph-week-summary =
         [one] پچھلے ایک ہفتہ کے دوران { -brand-short-name } مسدود{ $count } ٹریکرز
        *[other] پچھلے ایک ہفتہ کے دوران { -brand-short-name } مسدود{ $count } ٹریکرز
     }
+
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = اس ہفتے ٹریکرز{ -brand-short-name } مسدود ہیں
+
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -22,25 +24,38 @@ protection-report-header-details-custom = تحفظ کی سطح <b> ‏مخصوص
     .title = رازداری کی سیٹنگز پر جائیں
 protection-report-page-title = رازداری سے تحفظ
 protection-report-content-title = رازداری سے تحفظ
+
 etp-card-title = توسيعى سراغ کاری تحفظ
+
 protection-report-manage-protections = سیٹنگز بندرست کریں
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = آج
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = اس ہفتے ہر طرح کے ٹریکر کی کل تعداد پر مشتمل گراف۔
+
 social-tab-title = سوشل میڈیا ٹریکرز
+
 cookie-tab-title = کراس-سائٹ ٹریکنگ کوکیز
+
 tracker-tab-title = ٹریکنگ مواد
+
 fingerprinter-tab-title = فنگر پرنٹرز
+
 cryptominer-tab-title = کریپٹومینر
+
 protections-close-button =
     .aria-label = بند کریں
+
 protections-close-button2 =
     .aria-label = بند کریں
     .title = بند کریں
+  
 mobile-app-title = مزید آلات میں اشتہار ٹریکروں کو مسدود کریں
 mobile-app-card-content = اشتہار سے باخبر رہنے کے خلاف بلٹ ان تحفظ کے ساتھ موبائل براؤزر کا استعمال کریں۔
+
 lockwise-title = دوبارہ کبھی پاس ورڈ مت بھولیے
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content-logged-in = اپنے تمام آلات پر پاسورڈ محفوظ طریقے سے محفوظ اور سنک کریں۔
@@ -48,9 +63,12 @@ protection-report-view-logins-button = لاگ ان دیکھیں
     .title = محفوظ شدہ لاگ ان دیکھیں
 lockwise-mobile-app-title = اپنے پاس ورڈ ہر جگہ لے جاٴییں
 lockwise-no-logins-card-content = کسی بھی ڈیوائس پر { -brand-short-name } میں محفوظ کردہ پاس ورڈ استعمال کریں۔
+
 turn-on-sync = { -sync-brand-short-name } چالو کریں
     .title = سنک ترجیحات  پر جائے
+
 manage-connected-devices = آلات… کو بندرست کریں
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -58,10 +76,12 @@ lockwise-connected-device-status =
         [one] { $count } آلہ سے منسلک
        *[other] { $count } آلات سے منسلک
     }
+
 monitor-title = ڈیٹا کی خلاف ورزیوں کو تلاش کریں
 monitor-link = یہ کیسے کام کرتا ہے
 monitor-sign-up = خلاف ورزی کے انتباہات کیلئے سائن اپ کریں
 auto-scan = آج خودکار طور پر اسکین ہوا
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -70,6 +90,7 @@ info-monitored-emails =
         [one] ای میل پتہ کی نگرانی کی جارہی ہے
        *[other] ای میل پتوں کی نگرانی کی جارہی ہے
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -78,6 +99,7 @@ info-known-breaches-found =
         [one] معروف اعداد و شمار کی خلاف ورزی نے آپ کی معلومات کو بے نقاب کردیا ہے
        *[other] معروف اعداد و شمار کی خلاف ورزیوں نے آپ کی معلومات کو بے نقاب کردیا ہے
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.

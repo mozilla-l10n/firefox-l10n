@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Google Play سے حاصل کریں
 login-app-promo-apple =
     .alt = App Store پر سے ڈائونلوڈ کریں
+
 login-filter =
     .placeholder = لاگ ان تلاش کریں
+
 create-login-button = نیا لاگ ان بنائیں
+
 fxaccounts-sign-in-text = اپنے پاسورڈ  دوسرے آلات پر حاصل کریں
 fxaccounts-sign-in-button = { -sync-brand-short-name } میں  سائن ان کریں
 fxaccounts-avatar-button =
@@ -47,7 +50,6 @@ login-list-count =
 login-list-sort-label-text = کے مطابق چھانٹیں:
 login-list-name-option = نام (A-Z)
 login-list-name-reverse-option = نام  (Z-A)
-login-list-breached-option = خلاف ورزی کرنے والی ویب سائٹیں
 about-logins-login-list-alerts-option = انتباہات
 login-list-last-changed-option = آخری بار ترمیم کردہ
 login-list-last-used-option = آخری استعمال
@@ -106,16 +108,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = محفوظ کردہ لاگ ان میں ترمیم کرنے کے لئے اپنی شناخت کی تصدیق کریں۔
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = محفوظ کردہ لاگ ان میں تدوین کریں
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = محفوظ شدہ پاس ورڈ کو ظاہر کرنے کے لئے اپنی شناخت کی تصدیق کریں۔
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو ظاہر کریں
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = محفوظ شدہ پاس ورڈ کی نقل کرنے کے لئے اپنی شناخت کی تصدیق کریں۔
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = محفوظ شدہ پاس ورڈ کو نقل کریں
@@ -145,9 +152,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = منسوخ کریں
 confirmation-dialog-dismiss-button =
     .title = منسوخ کریں
+
 about-logins-confirm-remove-dialog-title = اس لاگ ان کو ہٹائیں؟
 confirm-delete-dialog-message = یہ عمل کلعدم نہیں ہو سکتا۔
 about-logins-confirm-remove-dialog-confirm-button = ہٹائیں
+
 confirm-discard-changes-dialog-title = غیر محفوظ شدہ تبدیلیاں ضائع کریں؟
 confirm-discard-changes-dialog-message = سبھی غیر محفوظ شدہ تبدیلیاں ختم ہوجائیں گی۔
 confirm-discard-changes-dialog-confirm-button = رد کريں
@@ -156,9 +165,6 @@ confirm-discard-changes-dialog-confirm-button = رد کريں
 
 about-logins-breach-alert-title = ویب سائٹ کی خلاف ورزی
 breach-alert-text = اس ویب سائٹ سے پاس ورڈز لیک یا چوری ہوگئے تھے جب سے آپ نے لاگ ان کی تفصیلات کو آخری بار اپ ڈیٹ کیا تھا۔ اپنے اکاؤنٹ کی حفاظت کے لئے اپنا پاس ورڈ تبدیل کریں۔
-breach-alert-link = اس خلاف ورزی کے بارے میں مزید معلومات حاصل کریں۔
-breach-alert-dismiss =
-    .title = اس انتباہ کو بند کریں
 about-logins-breach-alert-date = یہخلافورزی { DATETIME($date, day: "numeric", month: "long", year: "numeric") } ہوئی ہے
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"

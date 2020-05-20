@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "تمام منتخب کریں">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "ت">
+
 <!ENTITY findCmd.label             "ڈھونڈیں">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "ڈ">

@@ -8,6 +8,7 @@ password-quality-meter = پاس ورڈ کوالٹی میٹر
 
 change-password-window =
     .title = ماسٹر پاس ورڈ تبدیل کریں
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = سلامتی آلہ: { $tokenName }

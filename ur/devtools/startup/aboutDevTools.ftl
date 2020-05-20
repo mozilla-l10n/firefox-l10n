@@ -9,6 +9,7 @@ enable-inspect-element-message = ڈیولپر ٹولز ’انسپکٹر کے س
 enable-learn-more-link = ڈیولپر ٹولز کے بارے میں مزید سیکھیں
 enable-enable-button = ڈیولپر ٹولز کو فعال کریں
 enable-close-button = یہ ٹیب بند کریں
+
 welcome-title = Firefox ڈویلپر ٹولز میں خوش آمدید!
 newsletter-title = Mozilla ڈویلپر نیوز لیٹر
 newsletter-email-placeholder =
@@ -16,8 +17,10 @@ newsletter-email-placeholder =
 newsletter-subscribe-button = رکن بنیں
 newsletter-thanks-title = شکریہ!
 newsletter-thanks-message = اگر آپ نے پہلے Mozilla-related نیوز لیٹر کی رکنیت کی تصدیق نھیں کی تو ھو سکتا ھے اپکو کرنی پڑے۔ براہ مہربانی اپنے آمد خانہ کی پڑتال کریں یا ھماری طرف سے ایک ای میل کو اپنے سپیم فلٹر میں۔
+
 footer-title = Firefox Developer Edition
 footer-learn-more-link = مزید سیکھیں
+
 features-learn-more = مزید سیکھیں
 features-inspector-title = انسپکٹر
 features-console-title = کنسول

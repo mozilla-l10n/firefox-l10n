@@ -39,6 +39,7 @@ url-classifier-debug-sb-modules = محفوظ براؤزانگ لاگ ماڈیو�
 url-classifier-debug-modules = موجودہ لاگ ماڈیول
 url-classifier-debug-sbjs-modules = محفوظ براوزنگ JS لاگ
 url-classifier-debug-file = موجودہ لاگ مسل
+
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = محفوظ براؤزنگ جے ایس لاگ کو غیر فعال بنائیں
 url-classifier-enabled = اہل بنایا گیا

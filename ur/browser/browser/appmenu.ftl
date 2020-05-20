@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = دوسرے براؤزر سے درآمد کریں…
 appmenuitem-protection-report-title = رازداری سے تحفظ
 appmenuitem-protection-report-tooltip =
     .tooltiptext = اپنی رازداری رپورٹ پر جائیں

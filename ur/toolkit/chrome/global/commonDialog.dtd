@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "جامع عنوان"> 
 <!ENTITY message.label    "کچھ مثالی متن یہاں آتا ہے۔">
+
 <!ENTITY editfield0.label "نام صارف:"> 
 <!ENTITY editfield1.label "پاس ورڈ:"> 
-<!ENTITY checkbox.label   "نشان">
+<!ENTITY checkbox.label   "نشان"> 
 <!ENTITY copyCmd.label    "نقل کریں">
 <!ENTITY copyCmd.accesskey "ن">
 <!ENTITY selectAllCmd.label "تمام منتخب کریں">
