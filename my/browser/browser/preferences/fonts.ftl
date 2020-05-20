@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ဖောင့်များ
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ယခုအတွက် ဖောင့်
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = အာရဗီအက္ခရာ
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = အချိုးအစားမှန်သော
     .accesskey = P
+
 fonts-default-serif =
     .label = အစွန်းပါ စာလုံး
 fonts-default-sans-serif =
     .label = အစွန်းမဲ့ စာလုံး
+
 fonts-proportional-size = အရွယ်အစား
     .accesskey = z
+
 fonts-serif = အစွန်းပါ
     .accesskey = S
+
 fonts-sans-serif = အစွန်းမဲ့
     .accesskey = n
+
 fonts-monospace = အနံတူဖောင့်
     .accesskey = M
+
 fonts-monospace-size = အရွယ်အစား
     .accesskey = e
+
 fonts-minsize = အနည်းဆုံးဖောင့်ဆိုဒ်
     .accesskey = o
+
 fonts-minsize-none =
     .label = မရွေးပါ
+
 fonts-allow-own =
     .label = စာမျက်နှာများအား ၎င်းတို့ စတိုင်လ် ဖောင့်များရွေးခွင့်ပေးပါ
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = စနစ်ဟောင်းဖြင့်ဖန်တီထားသည့် အကြောင်းအရာများအတွက် စာသား သိမ်းဆည်းမှုစနစ်
 fonts-languages-fallback-desc = စနစ်ဟောင်းဖြင့် ဖန်တီးထားသည့် အကြောင်းအရာများသည် ၄င်းတို့၏ စာသားသိမ်းဆည်းမှုစနစ်ကို မဖော်ပြနိုင်လျှင် ယခု စာသားသိမ်းဆည်းမှုစနစ်ကို အသုံးပြုမည်။
+
 fonts-languages-fallback-label = အရန်စာသားသိမ်းဆည်းမှုစနစ်
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = ပုံသေအသုံးပြုသော ဘာသာစကား
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ဗီယက်နမ်အက္ခရာဆိုင်ရာ
 fonts-languages-fallback-name-other =
     .label = အခြား (အနောက်ဥရောပ အပါအဝင်)
-fonts-very-large-warning-title = စာလုံးအကြီးဆုံးအတွက် အနိမ့်ဆုံးသတ်မှတ်ချက်
-fonts-very-large-warning-message = သင်သည် စာလုံးအကြီးများအတွက် အနိမ့်ဆုံးသတ်မှတ်ချက်ကို ရွေးထားသည် (24 pixels ထက်များသည်)။ ယခုရွေးချယ်မှုသည် ဒီစာမျက်နှာကဲ့သို့သော အရေးကြီးသည့် အပြင်အဆင် စာမျက်နှာအချို့အတွက် အသုံးပြုရန် ခက်ခဲစေနိုင်ပါသည်။
-fonts-very-large-warning-accept = ဘယ်လိုပင်ဖြစ်နေပါစေ ပြောင်းလဲမှုများကို သိမ်းပါ
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

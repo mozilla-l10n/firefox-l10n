@@ -4,6 +4,7 @@
 
 profiledowngrade-window-create =
     .label = ပရိုဖိုင်အသစ်ဖန်တီးရန်
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

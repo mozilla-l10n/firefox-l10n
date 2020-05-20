@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = ပြန်ဖြည်ပါ
     .accesskey = U
+
 editmenu-redo =
     .label = ပြန်လုပ်ပါ
     .accesskey = R
+
 editmenu-cut =
     .label = ဖြတ်ယူပါ
     .accesskey = t
+
 editmenu-copy =
     .label = ကူးယူပါ
     .accesskey = C
+
 editmenu-paste =
     .label = ကော်ပီကူးထားသောအရာကိုထည့်မည်
     .accesskey = P
+
 editmenu-delete =
     .label = ဖျက်ရန်
     .accesskey = D
+
 editmenu-select-all =
     .label = အားလုံးကိုရွေး
     .accesskey = A

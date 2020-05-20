@@ -121,10 +121,6 @@
   -  panel. -->
 <!ENTITY options.styleeditor.label            "စတိုင် အယ်ဒီတာ">
 
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "Show original sources">
-
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 

@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = နောက်ထပ်တွေ့ရှိသော စကားစုကို ရှာဖွေပါ
 findbar-previous =
     .tooltiptext = ရှေ့တွင် တွေ့ခဲ့သော စကားစုကို ရှာဖွေပါ
+
 findbar-find-button-close =
     .tooltiptext = ရှာဖွေမှုဘားတန်းကို ပိတ်ပါ
-findbar-highlight-all =
-    .label = အားလုံးကို အရောင်ဖြင့် ချယ်ပြပါ
-    .accesskey = a
-    .tooltiptext = ရှာဖွေသော စကားစု၏ တွေ့ရှိမှုများကို အရောင်ဖြင့် ပြပါ
+
 findbar-case-sensitive =
     .label = စာလုံး အကြီး/အသေးအားဖြင့် တိုက်ဆိုင်ပါ
     .accesskey = c
     .tooltiptext = စာလုံးအကြီးအသေးဖြင့် ရှာဖွေပါ
+
 findbar-entire-word =
     .label = စာလုံးတစ်ခုလုံး
     .accesskey = w

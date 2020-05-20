@@ -5,13 +5,15 @@
 app-manager-window =
     .title = လုပ်ငန်းသုံးပရိုဂရမ်အသေးစိတ်များ
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = ဖယ်ရှားပါ
     .accesskey = R
-app-manager-handle-webfeeds = ယခု ဝဘ်ဆိုက်သတင်းတိုများ ကို ကိုင်တွယ်ရန် အောက်ပါ အက်ပလီကေးရှင်းများကို အသုံးပြုနိုင်သည်။
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ယခု { $type } လင့်ခ်များ ကို ကိုင်တွယ်ရန် အောက်ပါ အက်ပလီကေးရှင်းများကို အသုံးပြုနိုင်သည်။
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = ယခု { $type } အကြောင်းအရာ ကို ကိုင်တွယ်ရန် အောက်ပါ အက်ပလီကေးရှင်းများကို အသုံးပြုနိုင်သည်။

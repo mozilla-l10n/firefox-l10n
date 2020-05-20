@@ -19,50 +19,6 @@
 <!ENTITY navbarOverflow.label                "အခြားတန်ဆာပလာများ…">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "တပ်ဗ်ကို ပြန်ဖွင့်ရန်">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "တက်ဘ်များအားလုံး ရွေးပါ">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "တပ်ဗ်ကို ပွားရန်">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTabs.label                "တက်ဘ်များ ထပ်နေသည်">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTabs.accesskey            "D">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "ညာဘက်ရှိတပ်ဗ်များကို ပိတ်ရန်">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "အခြားတပ်ဗ်များကို ပိတ်ရန်">
-<!ENTITY  closeOtherTabs.accesskey           "o">
-
-<!ENTITY  closeTabs.label                    "တက်ဘ်များ ပိတ်ပါ">
-<!ENTITY  pinSelectedTabs.label              "တပ်ဗ်များကို တွယ်ချိတ်ရန်">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  pinSelectedTabs.accesskey          "P">
-<!ENTITY  unpinSelectedTabs.label            "တပ်ဗ်မျာကို တွယ်ချိတ်ခြင်းပိတ်ရန်">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "တပ်ဗ်အားလုံးကို မှတ်သားပါ…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "k">
-
-<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -83,24 +39,8 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "လင့်ခ်ကို ကိရိယာသို့ ပို့ပါ">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.accesskey           "V">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "အစသို့သွားပါ">
-<!ENTITY  moveToStart.accesskey              "S">
-<!ENTITY  moveToEnd.label                    "အဆုံးထိ သွားပါ">
-<!ENTITY  moveToEnd.accesskey                "E">
-<!ENTITY  moveToNewWindow.label              "ဝင်းဒိုးအသစ်ဆီသို့ ရွှေ့ပါ">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.accesskey        "e">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkTab.accesskey              "B">
 <!ENTITY  undoCloseTab.label                 "ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "တပ်ဗ်ကို ပိတ်ရန်">
-<!ENTITY  closeTab.accesskey                 "C">
 <!ENTITY  hiddenTabs.label                   "ဝှက်ထားသော တပ်ဗ်များ">
 
 <!ENTITY  listAllTabs.label      "တပ်ဗ်များအားလုံး၏ စာရင်းကို ပြပါ">
@@ -137,27 +77,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "စာမှတ်များကိရိယာအတန်းရှိ အရာများ">
 
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.selectAllTabs.label "တက်ဘ်များအားလုံး ရွေးပါ">
-<!ENTITY toolbarContextMenu.selectAllTabs.accesskey "S">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "ပိတ်လိုက်သည့် တပ်ဗ်ကို ပြန်ဖွင့်ပါ">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
-
 <!ENTITY pageSourceCmd.label "စာမျက်နှာရင်းမြစ်ကုဒ်">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -181,6 +100,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "မျက်နှာပြင်အပြည့်ကြည့်ခြင်းမှ ထွက်ရန်">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "အပြည့်ကြည့်ရန်">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -213,7 +133,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -254,6 +174,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "တပ်ဗ်အားလုံးကို မှတ်သားပါ...">
+
 <!ENTITY showAllBookmarks2.label "မှတ်သားချက်များအားလုံးကို ပြသပါ">
 <!ENTITY recentBookmarks.label "မကြာသေးမီက မှတ်သားထားသောဝဘ်စာမျက်နှာများ">
 <!ENTITY otherBookmarksCmd.label "အခြား မှတ်သားချက်များ">
@@ -273,7 +194,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "ရပ်">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "လမ်းကြောင်းအတန်းထဲရှိ လိပ်စာသို့ သွားပါ">
+
 <!ENTITY printButton.label            "ပုံနှိပ်ရန်">
 <!ENTITY printButton.tooltip          "ဒီစာမျက်နှာကို ပုံနှိပ်ရန်">
 
@@ -288,6 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "အသုံးပြုနေသော ပလက်ဂ်အင်ကို စီမံရန်">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ယခုဝဘ်ဆိုက်ထံမှ အသိပေးချက်များ ရယူနိုင်ရန်ဖြစ်စေ မရယူနိုင်ရန်ဖြစ်စေ ပြောင်းလဲသတ်မှတ်နိုင်သည်။">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "အမြဲသိမ်း သိုလှောင် နေရာတွင် သိမ်းမည်">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ဘရောင်ဇာသည် အဝေးရောက်ထိန်းချုပ်မှုအောက်တွင် ရှိနေသည်">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ကင်မရာ နှင့်/သို့မဟုတ် မိုက္ကရိုဖုန်းကို ယခုဝဘ်ဆိုက်နှင့်အတူ မျှဝေအသုံးပြုခြင်းကို စီမံနိုင်သည်။">
@@ -311,7 +235,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "ယခုဝဘ်ဆိုက်အတွက် Adobe Flash ပလက်အင်အသုံးပြုခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.midiBlocked.tooltip              "ယခုဝဘ်ဆိုက်အတွက် MIDI အသုံးပြုခြင်းကို တားဆီးထားသည်။">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
+
 
 <!ENTITY searchItem.title             "ရှာဖွေပါ">
 
@@ -370,9 +296,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ဖိုင်">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "ကွန်တိန်နာတပ်ဗ်အသစ်">
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "ဝင်းဒိုးအသစ်">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -418,6 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ဘေးတန်း">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "စိတ်ကြိုက်ပြင်ဆင်ရန်…">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "တန်ဆာပလာအတန်းကို မွမ်းမံရန်…">
@@ -501,6 +430,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "ပို၍">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "ရှာဖွေပါ (သို့) လိပ်စာရိုက်ပါ">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -544,6 +474,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "ရှာဖွေရန်စာကြောင်း">
+
 <!ENTITY contentSearchSubmit.tooltip  "ရှာဖွေမှု ဆောင်ရွက်ပါ">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -583,6 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "လင့်ခ်ကို တပ်ဗ်အသစ်တွင် ဖွင့်ပါ">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "လင့်ခ်ကို ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -631,6 +563,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ဒီဘောင်ကို မှတ်သားပါ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "လင့်ခ်ကို ကူးယူရန်">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -761,6 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "စာသားကိုသာ ချုံ့/ချဲ့ရန်">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "ချုံ့/ချဲ့ပါ">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -881,39 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
 
 <!ENTITY syncedTabs.sidebar.label              "ချိတ်ဆက်ထားသော တပ်ဗ်များ">
-<!ENTITY syncedTabs.sidebar.noclients.label    "သင့်အခြားကိရိယာများရှိ တပ်ဗ်များကို ဒီနေရာတွင်ကြည့်ရန် ထိုကိရိယာများရှိ မီးမြေခွေးသို့ ဝင်ရောက်ပါ။">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "အခြားကိရိယာများမှ သင့်တပ်ဗ်များကို ဒီနေရာမှာ မြင်တွေ့ချင်ပါသလား။">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "သင့်အခြားကိရိယာများရှိ တဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
-<!ENTITY syncedTabs.sidebar.unverified.label   "အကောင့်ကို အတည်ပြုရန် လိုအပ်သည်။">
-<!ENTITY syncedTabs.sidebar.notabs.label       "ဖွင့်ထားသည့်တပ်ဗ်များ မရှိပါ">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "သင့်အခြား ကိရိယာများမှ တပ်ဗ်စာရင်းကို ကြည့်ရန် တပ်ဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ထပ်တူပြုပြီးသော တပ်ဗ်များကို ရှာရန်">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "အခြားကိရိယာကို ချိတ်ဆက်ရန်">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "ဖွင့်ပါ">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "တပ်ဗ်အသစ်တစ်ခုတွင် ဖွင့်ပါ">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "၀င်းဒိုးအသစ်တစ်ခုတွင် ဖွင့်ပါ">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ဒီတပ်ဗ်ကို မှတ်သားပါ…">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "ကူးယူပါ">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "အားလုံးကို တပ်ဗ်များဖြင့် ဖွင့်ပါ">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "ကိရိယာများကို စီမံရန်…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -925,42 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ကို ပြန်လည်ချိတ်ဆက်ပါ…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "တစ်ပြေးညီဖြစ်ရန်">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "စိတ်ကြိုက်ကိရိယာများကို ကိရိယာဘားတန်း သို့မဟုတ် ပိုလျှံမီနူးထဲသို့ ဆွဲထည့်ပါ။">
-<!ENTITY customizeMode.restoreDefaults "မူလအတိုင်း သတ်မှတ်ပါ">
-<!ENTITY customizeMode.done "ပြီးပြီ">
-<!ENTITY customizeMode.titlebar "ခေါင်းစီး ဘား">
-<!ENTITY customizeMode.extraDragSpace "နေရာလွတ်ဆွဲထည့်ရန်">
-<!ENTITY customizeMode.toolbars2 "ကိရိယာတန်းများ">
-<!ENTITY customizeMode.lwthemes "အခင်းအကျင်းများ">
-<!ENTITY customizeMode.lwthemes.myThemes "ကျွန်ုပ်၏ အခင်းအကျင်းများ">
-<!ENTITY customizeMode.lwthemes.recommended "အကြုံပြုထားသည့်အရာများ">
-<!ENTITY customizeMode.lwthemes.menuManage "စီမံရန်">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "အခင်းအကျင်းများကို နောက်ထပ်ရယူရန်">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "ပိုလျှံမီနူး">
-<!ENTITY customizeMode.overflowList.description "ကိရိယာဘားတန်းတွင် မဆံ့ပါက အလွယ်တကူ အသုံးပြုနိုင်ရန် ကိရိယာများကို ယခုနေရာထဲသို့ ကလစ်ဖိပြီး ဆွဲထည့်ပါ…">
-<!ENTITY customizeMode.uidensity "ကျစ်လျစ်မှု">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "ပုံမှန်">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "ပုံမှန်">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "ကျစ်လျစ်သေသပ်">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "ကျစ်လျစ်သေသပ်">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "တို့ထိပုံစံ">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "တို့ထိပုံစံ">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "သင်ပုန်းစက်အတွက် တို့ထိပုံစံကို ပြောင်းသုံးပါ">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "အလိုအလျောက်ပိတ်ရန်">
 
@@ -983,6 +848,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView2.label "ပြဿနာကို တိုင်ကြားရန်">
 <!ENTITY contentBlocking.breakageReportView.label "ပြဿနာကို တိုင်ကြားရန်">
 <!ENTITY contentBlocking.breakageReportView.learnMore "ပိုမိုလေ့လာရန်">
+
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "အစီရင်ခံစာကို ပေးပို့ပါ">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "ပယ်​ဖျက်ပါ">
@@ -1012,28 +878,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+
 <!ENTITY uiTour.infoPanel.close "ပိတ်ပါ">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "မေ့ဖျောက်ပါ (နောက်ပိုင်း)">
-<!ENTITY panicButton.view.5min                    "ငါး မိနစ်">
-<!ENTITY panicButton.view.2hr                     "နှစ် နာရီ">
-<!ENTITY panicButton.view.day                     "၂၄ နာရီ">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "ဆက်လက် ဆောင်ရွက်ပါမည်။">
-<!ENTITY panicButton.view.deleteCookies           "မကြာသေးမီ အသုံးပြုထားသည့် <html:strong>ကွက်ကီးများ</html:strong>ကို ဖျက်ရန်">
-<!ENTITY panicButton.view.deleteHistory           "မကြာသေးမီက <html:strong>မှတ်တမ်း</html:strong>ကို ဖျက်ရန်">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "<html:strong>တပ်ဗ်များ</html:strong> နှင့် <html:strong>ဝင်းဒိုးများ</html:strong>အားလုံးကို ပိတ်ပါ">
-<!ENTITY panicButton.view.openNewWindow           "ရှင်းလင်းသည့် ဝင်းဒိုးအသစ်တစ်ခုကို ဖွင့်ပါ">
-
-<!ENTITY panicButton.view.undoWarning             "ဒီလုပ်ဆောင်ချက်ကို ပြန်ဖြေလို့ မရနိုင်ဘူး။">
-<!ENTITY panicButton.view.forgetButton            "မေ့ဖျောက်ပါ။">
 
 <!ENTITY panicButton.thankyou.msg1                "သင့် လတ်တလောမှတ်တမ်းကို ရှင်းလင်းထားသည်။">
 <!ENTITY panicButton.thankyou.msg2                "လုံခြုံစိတ်ချရသော ရှာဖွေကြည့်ရှုခြင်း။">
@@ -1042,31 +888,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM အကြောင်း ပိုမိုလေ့လာပါ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "လျင်မြန်မှုနှင့် ကိုယ်ရေးကာကွယ်မှု အကောင်းဆုံး ဖြစ်စေရန် သင့် &brandShorterName; ကို အဆင့်မြှင့်ပါ။">
-<!ENTITY updateAvailable.whatsnew.label "ဘာအသစ်တွေ ပါဝင်ပါသလဲ။">
-<!ENTITY updateAvailable.header.message "နောက်ဆုံးပေါ် &brandShorterName; အသစ် ရရှိပါပြီ။">
-<!ENTITY updateAvailable.acceptButton.label "နောက်ဆုံးပေါ်ကို ဆွဲယူပါ">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "နောက်ဆုံးပေါ် &brandShorterName; ကို ဆွဲယူပါ">
 
-<!ENTITY updateManual.message "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပြီး တပ်ဆင်ရာတွင် ကူညီလမ်းညွှန်ပါမည်။">
-<!ENTITY updateManual.whatsnew.label "ဘာအသစ်တွေ ပါဝင်ပါသလဲ။">
-<!ENTITY updateManual.header.message "&brandShorterName; သည် နောက်ဆုံးပေါ် ဗားရှင်းကို အဆင့်မမြှင့်နိုင်ပါ။">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; ကို ဆွဲယူပါ">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပါ">
 
-<!ENTITY updateRestart.message2 "အမြန်ပြန်လည်စတင်ခြင်း ဆောင်ရွက်ပြီးပါက &brandShorterName; သည် သီးသန့်ကြည့်ရှုခြင်းပုံစံဖြင့် အသုံးမပြုခဲ့သော တပ်ဗ်များနှင့် ဝင်းဒိုးများကို ပြန်ဖွင့်ပေးပါမည်။">
-<!ENTITY updateRestart.header.message2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ။">
-<!ENTITY updateRestart.acceptButton.label "ပြန်စတင်ပြီး ကြည့်ရှုထားခဲ့သည်များကို ပြန်ဖွင့်ပါ။">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ">
 
 <!ENTITY newTabControlled.header.message "တပ်ဗ်အသစ် ပုံစံပြောင်းပြီးပြီ။">
@@ -1104,9 +929,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      used as a textual label for the indicator used by assistive technology
      users. -->
 <!ENTITY accessibilityIndicator.tooltip "သုံးစွဲနိုင်စွမ်းလုပ်ဆောင်ချက်များကို ဖွင့်ထားသည်">
-
-<!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
-     The first <image> tag is replaced with the icon for the add-ons menu.
-     The second <image> tag is replaced with the icon for the toolbar menu. -->
-<!ENTITY addonPostInstallMessage.label "<image class='addon-toolbar-icon'/> စာရင်းထဲရှိ <image class='addon-addon-icon'/> ကို နှိပ်ပြီး အတ်အွန်များကို စီမံပါ။">
 

@@ -103,6 +103,7 @@ print-window =
     .title = ပုံနှိုပ်နေတယ်
 print-complete =
     .value = ပုံနှိုပ်ခြင်း ပြီးသွားပြီ။
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

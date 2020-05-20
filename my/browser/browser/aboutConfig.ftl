@@ -7,16 +7,25 @@ about-config-warning-title = လုပ်စမ်းပါငါမကြော
 about-config-warning-text = အဆင့်မြင့်တဲ့ အပြင်အဆင်များကို ပြောင်းလဲခြင်းဟာ ဒီလုပ်ငန်းသုံး ကိရိယာရဲ့ ကြံ့ခိုင်မှု၊ လုံခြုံမှုနဲ့ ဆောင်ရွတ်ချက်ကို အ​န္တရယ် ပြုနိုင်တယ်။ သင် ဘာလုပ်နေတယ် ဆိုတာ သေချာမှ သင်ဆက်သွားသင့်တယ်။
 about-config-warning-checkbox = ကျေးဇူးပြုပြီးငါ့ကိုအာရုံနောက်အောင်ထက်လုပ်ပေးပါဦး
 about-config-warning-button = အကျိုးဆက်ကိုလက်ခံနိုင်ပါတယ်
+
 about-config2-title = အဆင်မြင့် ချမှတ်မှုများ
+
 about-config-search-input =
     .placeholder = ရှာဖွေပါ
+
+## These strings appear on the warning you see when first visiting about:config.
+
+##
+
 about-config-show-all = အားလုံးကို ပြပါ
+
 about-config-pref-add = ထည့်ရန်
 about-config-pref-toggle = အထိန်းခလုပ်
 about-config-pref-edit = တည်းဖြတ်ပါ
 about-config-pref-save = သိမ်းဆည်းပါ
 about-config-pref-reset = မူလအတိုင်း ပြန်သတ်မှတ်ရန်
 about-config-pref-delete = ဖျက်ရန်
+
 about-config-pref-add-button =
     .title = ထည့်ရန်
 about-config-pref-toggle-button =

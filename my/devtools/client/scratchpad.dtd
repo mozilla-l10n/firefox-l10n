@@ -108,6 +108,7 @@
   -  to reset/clear the global object of the environment where the code executes.
   -->
 
+
 <!ENTITY reloadAndRun.key             "r">
 
 <!ENTITY executeMenu.label            "ဆော့ဝဲတပ်ဆင်မည်">
@@ -122,3 +123,4 @@
 <!-- LOCALIZATION NOTE (evalFunction.label): This command allows the developer
   -  to evaluate the top-level function that the cursor is currently at.
   -->
+

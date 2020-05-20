@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name }ချိတ်ဆက်မှုဖြုတ်မလား
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = ဤကွန်ပျူတာပေါ်မှာ browser ဒေတာကိုဖယ်ရှားချင်ပါသလား။ မဟုတ်လျှင် သင့်အကောင့်ထဲမှာ သင့်ရဲ့ { -sync-brand-name } နှင့် ဆိုင်တဲ့ အချက်အလက်များ ဆက်ရှိနေပါလိမ့်မယ်။
+
 sync-disconnect-remove-sync-caption = { -sync-brand-name } အချက်အလက်များကို ဖျက်ပါ
+
 sync-disconnect-remove-sync-data = စာမှတ်များ၊ရှာဖွေမှုမှတ်တမ်းများ၊စကားဝှက်များ၊ စသည်ဖြင့်။
+
 sync-disconnect-remove-other-caption = အခြားကိုယ်ရေးကိုယ်တာဒေတာများကို ပယ်ဖျက်ပါ
+
 sync-disconnect-remove-other-data = ကွတ်ကီးများ၊ ယာယီသိမ်းဆည်းမှု၊ အင်တာနက်မဲ့ ဝဘ်ဒေတာများ စသည်ဖြင့်။
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = ချိတ်ဆက်ဖြုတ်နေသည်...
+
 sync-disconnect-cancel =
     .label = မလုပ်ဆောင်တော့ပါ
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = ချိတ်ဆက်ဖြုတ်ပြီး ဖျက်ပါ
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = ချိတ်ဆက်မှုကိုသာ ဖြုတ်ရန်
     .accesskey = D

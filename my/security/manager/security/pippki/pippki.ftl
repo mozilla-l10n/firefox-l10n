@@ -8,6 +8,7 @@ password-quality-meter = စကားဝှက် အရည်အသွေးပ
 
 change-password-window =
     .title = ပင်ရင်း စကားဝှက်ကို ပြောင်းလဲပါ
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = လုံခြုံရေး ကိရိယာ: { $tokenName }

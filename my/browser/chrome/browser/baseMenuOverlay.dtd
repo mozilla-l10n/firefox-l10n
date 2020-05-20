@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "အကူအညီ"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct2.label      "&brandShorterName; အကြောင်း">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; အကူအညီ">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "အတ်အွန်များဖွင့်ပြီး ပြန်စတင်ပါ">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "&brandShorterName; ကျန်းမာရေးအစီရင်ခံစာ">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "အခက်အခဲဆိုင်ရာ ဖြေရှင်းခြင်းနည်းလမ်းများ">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "အားလုံးကို ပြပါ">
+

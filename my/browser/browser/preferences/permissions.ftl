@@ -5,49 +5,61 @@
 permissions-window =
     .title = ခြွင်းချက်များ
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ၀ဘ်ဆိုက်လိပ်စာ
     .accesskey = d
+
 permissions-block =
     .label = Bပိတ်ဆို့ပါ
     .accesskey = B
+
 permissions-session =
     .label = Sဤအခန်းကဏ္ဍအတွက် ခွင့်ပြုပါ
     .accesskey = S
+
 permissions-allow =
     .label = Aခွင့်ပြုပါ
     .accesskey = A
+
 permissions-site-name =
     .label = ဝဘ်ဆိုက်
+
 permissions-status =
     .label = လက်ရှိအခြေအနေ
+
 permissions-remove =
     .label = ဝဘ်ဆိုက်ကို ဖျက်
     .accesskey = R
+
 permissions-remove-all =
     .label = ဝဘ်ဆိုက်အားလုံးကို ဖယ်ရှားပါ
     .accesskey = e
+
 permissions-button-cancel =
     .label = မဆောင်ရွက်တော့ပါ C
     .accesskey = C
+
 permissions-button-ok =
     .label = ပြောင်းလဲမှုများကို သိမ်းပါ S
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = ဝဘ်ဆိုက်ကို ရှာဖွေရန်
+
 permissions-capabilities-allow =
     .label = ခွင့်ပြုပါ
 permissions-capabilities-block =
     .label = ပိတ်ဆို့ပါ
 permissions-capabilities-prompt =
     .label = အမြဲမေးပါ
+
 permissions-capabilities-listitem-allow =
     .value = ခွင့်ပြုပါ
 permissions-capabilities-listitem-block =
     .value = ပိတ်ဆို့ပါ
-permissions-capabilities-listitem-allow-first-party =
-    .value = ပါဝင်သူကိုသာ ခွင့်ပြုပါ
 permissions-capabilities-listitem-allow-session =
     .value = ယခုအသုံးပြုကာလအတွက် ခွင့်ပြုပါ
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = အလုပ်လုပ်သောတည်ရ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = ခြွင်းချက်များ - လိုက်လံမှတ်သားမှုကာကွယ်ခြင်း
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = သင်သည် ဒီဆိုက်များအတွက် လိုက်လံမှတ်သားမှုကာကွယ်သည့်စနစ်ကို ပိတ်ထားသည်။
 permissions-exceptions-content-blocking-window =
     .title = ခြွင်းချက်များ၊ စာမျက်နှာရှိအကြောင်းအရာ ပိတ်ပင်ခြင်း
     .style = { permissions-window.style }
@@ -99,6 +107,8 @@ permissions-exceptions-autoplay-media-window2 =
     .title = ခြွင်းချက်- အလိုလျောက်ပြသမှု
     .style = { permissions-window.style }
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -114,6 +124,8 @@ permissions-site-location-window =
     .style = { permissions-window.style }
 permissions-site-location-disable-label =
     .label = တည်နေရာကို အသုံးပြုရန် တောင်းဆိုမှုအသစ်များကို တားဆီးပါ
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -40,7 +40,6 @@
 
 <!-- Prefs -->
 <!ENTITY prefs_general_title "အထွေထွေ">
-<!ENTITY prefs_options_keybindings_default "မူရင်းအခြေအနေ">
 
 <!-- Runtime Details -->
 
@@ -50,9 +49,6 @@
 <!-- Device Preferences -->
 
 <!-- Device Settings -->
-
-<!-- Monitor -->
-<!ENTITY monitor_help "အကူအညီ">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -69,6 +65,3 @@
 
 <!-- Logs panel -->
 
-<!-- Simulator Options -->
-<!ENTITY simulator_version "မူအဆင့်">
-<!ENTITY simulator_device "စက်ကိရိယာ">

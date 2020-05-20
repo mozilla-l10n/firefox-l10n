@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = SSL နည်းစဉ်ကို ပိတ်ထားတဲ့အတွက် လုံခြုံ​စွာ မချိတ်ဆက်နိုင်ဘူး။
 psmerr-ssl2-disabled = ကွန်ရက် အ​ဟောင်းတခု၊ မလုံခြုံတဲ့ SSL နည်းစဉ် မူအဆင့်ကို သုံးစွဲတဲ့အတွက် လုံခြုံ​စွာ မချိတ်ဆက်နိုင်ဘူး၊
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     You have received an invalid certificate.  Please contact the server administrator or email correspondent and give them the following information:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
+
 ssl-error-export-only-server = လုံခြုံစွာ မဆက်သွယ်နိုင်ပါ။ ချိတ်ဆက်ကိရိယာသည် အဆင့်မြင့် စာဝှက်စနစ်ကို မထောက်ပံ့ပါ။
 ssl-error-us-only-server = လုံခြုံစွာ မဆက်သွယ်နိုင်ပါ။ ချိတ်ဆက်ကိရိယာသည် အဆင့်မြင့်စာဝှက်စနစ်ကို လိုအပ်သည်။ သို့သော် မထောက်ပံ့နိုင်ပါ။
 ssl-error-no-cypher-overlap = မျိုးတူနဲ့ လုံလုံခြုံခြုံ မဆက်သွယ်နိုင်ဘူး - ပုံမှန် စာဝှက် လုပ်ငန်းစနစ်(များ) မဟုတ်ဘူး။

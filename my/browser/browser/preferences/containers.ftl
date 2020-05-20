@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } ကွန်တိန်နာ အပြင်အဆင်များ
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = အမည်
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = ကွန်တိန်နာအမည်ရေးပါ
+
 containers-icon-label = ပုံသင်္ကေတ
     .accesskey = l
     .style = { -containers-labels-style }
+
 containers-color-label = အရောင်
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = ပြီးပြီ
     .accesskey = D
+
 containers-color-blue =
     .label = အပြာရောင်
 containers-color-turquoise =
@@ -52,6 +60,7 @@ containers-color-pink =
     .label = ပန်းရောင်
 containers-color-purple =
     .label = ခရမ်းရောင်
+
 containers-icon-fingerprint =
     .label = လက်ဗွေ
 containers-icon-briefcase =

@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = ခေတ္တရပ်တန့်ပါ
 pictureinpicture-play =
     .aria-label = ဖွင့်ပါ
+
 pictureinpicture-mute =
     .aria-label = အသံပိတ်ထားပါ
 pictureinpicture-unmute =
     .aria-label = အသံပြန်ဖွင့်ပါ
+

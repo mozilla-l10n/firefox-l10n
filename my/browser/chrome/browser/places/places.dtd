@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "ပုဒ်ခွဲ အသစ်">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "သက်၀င် မှတ်သားချက်ကို ပြန်ဖွင့်ပါ">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
 <!ENTITY col.name.label          "အမည်">
 <!ENTITY col.tags.label          "စာအမှတ်များ">
 <!ENTITY col.url.label           "တည်နေရာ">

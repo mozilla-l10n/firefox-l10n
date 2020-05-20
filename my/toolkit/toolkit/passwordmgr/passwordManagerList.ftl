@@ -48,6 +48,7 @@ import =
 close-button =
     .label = Cပိတ်ပါ
     .accesskey = C
+
 show-passwords =
     .label = စကားဝှက်များကို ဖေါ်ပြပါ
     .accesskey = P

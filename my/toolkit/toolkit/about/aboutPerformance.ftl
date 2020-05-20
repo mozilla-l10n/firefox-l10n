@@ -40,3 +40,4 @@ close-tab =
     .title = တပ်ဗ်ကို ပိတ်ရန်
 show-addon =
     .title = Add-ons Manager မှာပြပါ
+

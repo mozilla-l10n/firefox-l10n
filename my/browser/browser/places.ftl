@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = သီးသန့် ဝင်းဒိုးအသစ်ထဲတွင် ဖွင့်ပါ။ P
     .accesskey = P
+
 places-new-bookmark =
     .label = စာမှတ်အသစ်…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = ပုဒ်ခွဲ အသစ်
     .accesskey = S
+
 places-view =
     .label = ရှုမြင်ချက်
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ရက်စွဲနှင့် ဝဘ်ဆိုက်လိပ်စာအားဖြင့်
     .accesskey = ရ
+
 places-history-search =
     .placeholder = ရှာဖွေမှု မှတ်တမ်း
 places-bookmarks-search =
     .placeholder = စာမှတ်များကို ရှာရန်
+
 places-delete-domain-data =
     .label = ဒီကွန်ရက် အကြောင်းကို မေ့ပစ်ပါ
     .accesskey = F
