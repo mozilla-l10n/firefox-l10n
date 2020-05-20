@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "సహాయం"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct2.label      "&brandShorterName; గురించి">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; సహాయం">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 <!ENTITY helpSafeMode.stop.label       "యాడ్-ఆన్స్ చేతనపరచి పునఃప్రారంభించు">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
-
-<!ENTITY healthReport2.label      "&brandShorterName; ఆరోగ్య నివేదిక">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "సమస్యాపరిష్కారపు సమాచారం">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "అన్నీ చూపించు">
+

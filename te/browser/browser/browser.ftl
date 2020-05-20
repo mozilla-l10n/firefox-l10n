@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = సైటు సమాచారం చూడండి
 
@@ -72,10 +73,12 @@ urlbar-canvas-blocked =
     .tooltiptext = ఈ వెబ్‌సైటుని కాన్వాస్ డేటా వెలికితీయకుండా మీరు నిరోధించారు.
 urlbar-midi-blocked =
     .tooltiptext = MIDI సౌలభ్యాన్ని పొందకుండా ఈ వెబ్‌సైటుని మీరు నిరోధించారు.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ఈ ఇష్టాంశమును సవరించు ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -107,6 +110,7 @@ search-one-offs-change-settings-button =
     .label = వెతుకుడు అమరికలు
 search-one-offs-change-settings-compact-button =
     .tooltiptext = వెతుకుడు అమరికలను మార్చుకోండి
+
 search-one-offs-context-open-new-tab =
     .label = కొత్త ట్యాబులో వెతుకు
     .accesskey = T
@@ -119,6 +123,7 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = భద్రపరుస్తున్నప్పుడు ఎడిటర్‌ను చూపించు
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = పూర్తయింది
 
@@ -190,9 +195,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = విహరణి వ్యవహిత నియంత్రణ కింద ఉంది
 urlbar-switch-to-tab =
     .value = ట్యాబుకు మారు:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = పొడిగింత:
+
 urlbar-go-button =
     .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
 urlbar-page-action-button =

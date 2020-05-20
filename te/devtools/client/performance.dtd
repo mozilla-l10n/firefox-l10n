@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "ప్రొఫైలర్ ఒక వృత్తాకార బఫర్ లో నమూనాలను భద్రపరుస్తుంది, మరియు బఫర్ ఒక రికార్డింగ్ పరిమితిని చేరగానే, కొత్త నమూనాలను రికార్డింగ్ ప్రారంభంలో నమూనాలను తిరిగి రాస్తుంది ప్రారంభమవుతుంది.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "రియల్ టైమ్ డేటా రికార్డింగ్ మల్టిప్రాసెస్ Firefox లో నిలిపివేయబడింది.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->

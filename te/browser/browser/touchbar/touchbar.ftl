@@ -15,3 +15,7 @@ new-tab = కొత్త ట్యాబు
 open-location = వెతకండి లేదా చిరునామా ఇవ్వండి
 share = పంచుకోండి
 close-window = విండోను మూసివేయి
+
+## Various categories of shortcuts for search.
+
+##

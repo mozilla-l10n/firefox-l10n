@@ -40,3 +40,4 @@ energy-impact-low = తక్కువ ({ $value })
 
 close-tab =
     .title = ట్యాబును మూసివేయి
+

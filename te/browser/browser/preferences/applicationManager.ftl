@@ -5,13 +5,15 @@
 app-manager-window =
     .title = అనువర్తనపు వివరాలు
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = తీసివేయి
     .accesskey = R
-app-manager-handle-webfeeds = వెబ్ ఫీడ్లు ను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను ఉపయోగించవచ్చు.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } లింకులు ను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను ఉపయోగించవచ్చు.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } సారము ను సంభాళించుటకు ఈ క్రింది అనువర్తనాలను ఉపయోగించవచ్చు.

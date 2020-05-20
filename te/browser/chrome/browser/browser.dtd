@@ -101,6 +101,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "నిండు తెర వదిలివెళ్ళు">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "నిండు తెర">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -203,7 +204,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "ఆపివేయి">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి">
+
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
 
@@ -218,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ప్లగ్-ఇన్ వాడకాన్ని నిర్వహించండి">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "మీరు సైటు నుండి నోటిఫికేషన్లు అందుకుంటారో లేదో మార్చండి">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "నిరంతర నిల్వ డేటాని నిల్వ చేయండి">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "విహరణి వ్యవహిత నియంత్రణ కింద ఉంది">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "జాల ధ్రువీకరణ ప్యానెలును తెరువు">
 
@@ -242,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "అడోబి ఫ్లాష్ చొప్పింతను వాడనీయకుండా ఈ వెబ్‌సైటును మీరు నిరోధించారు.">
 <!ENTITY urlbar.midiBlocked.tooltip              "MIDI సౌలభ్యాన్ని పొందకుండా ఈ వెబ్‌సైటుని మీరు నిరోధించారు.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
+
 
 <!ENTITY searchItem.title             "వెతకడం">
 
@@ -306,6 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.label          "కంటెయినర్లను నిర్వహించండి">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "కొత్త విండో">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -436,6 +443,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "ఇంకా">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "వెతకండి లేదా చిరునామాను ఇవ్వండి">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -479,6 +487,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "వెతకవలసిన ప్రశ్న">
+
 <!ENTITY contentSearchSubmit.tooltip  "శోధనను సమర్పించండి">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -523,6 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "లింకుని కొత్త ట్యాబులో తెరువు">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "లింకుని కొత్త విండోలో తెరువు">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -571,6 +581,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ఈ ఫ్రేమును ఇష్టాంశంగా చేయి">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "లంకెను కాపీచెయ్యి">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -904,6 +915,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.openBreakageReportView2.label "ఒక సమస్యను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.label "సమస్యలను నివేదించండి">
 <!ENTITY contentBlocking.breakageReportView.learnMore "ఇంకా తెలుసుకోండి">
+
 <!ENTITY contentBlocking.breakageReportView2.learnMore "ఇంకా తెలుసుకోండి">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "మీకు ఏమి సమస్యలు ఎదురయ్యాయి? (ఐచ్ఛికం)">
@@ -934,6 +946,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "32em">
+
 
 <!ENTITY uiTour.infoPanel.close "మూసివేయి">
 

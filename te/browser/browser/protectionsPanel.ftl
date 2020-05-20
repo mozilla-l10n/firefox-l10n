@@ -11,6 +11,7 @@
 
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = సైటు పనిచేయట్లేదా?
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = సైటు పనిచేయట్లేదా?

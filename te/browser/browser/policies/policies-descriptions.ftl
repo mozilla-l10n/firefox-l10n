@@ -11,5 +11,12 @@
 ## in the documentation section in about:policies.
 
 policy-DisablePocket = Pocketకు వెబ్‌పేజీలను భద్రపరిచే సౌలభ్యాన్ని అచేతనం చేయండి.
+
 policy-DisablePrivateBrowsing = అంతరంగిక విహరణను అచేతనించు.
+
 policy-DisableTelemetry = టెలిమెట్రీని ఆపివేయి.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+

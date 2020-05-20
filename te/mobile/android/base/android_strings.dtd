@@ -21,20 +21,12 @@
 <!ENTITY firstrun_data_message "తక్కువ డేటా, మరింత పొదుపు">
 <!ENTITY firstrun_data_subtext2 "మీరు సందర్శించే ప్రతి సైట్ డేటాను తక్కువగా ఖర్చు పెట్టడానికి చిత్రాలు ఆపివేయండి.">
 <!ENTITY firstrun_sync_title "సమకాలీకరించడానికి">
-<!ENTITY updatednewfirstrun_sync_title "ఖాతా">
-<!ENTITY firstrun_sync_message2 "మీరు వదిలిన చోటు నుండే మొదలుపెట్టండి.">
 <!ENTITY firstrun_sync_subtext2 "మీరు &brandShortName; కు సేవ్ చేసిన భద్రపరిచిన ఇష్టాంశాలు, సంకేతపదాలు మరియు ఇతర విషయాలను మీ అన్ని పరికరాల్లో కనుగొనడానికి సమకాలీకరణను ఉపయోగించండి.">
 <!ENTITY newfirstrun_sync_subtext "మీరు మొబైల్‌లో భద్రపరిచిన వాటిని డెస్క్‌టాప్ కోసం ఫైర్‌ఫాక్స్‌కు ప్రైవేట్‌గా మరియు సురక్షితంగా సమకాలీకరించండి.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; నుండి ఎక్కువ ప్రయోజనం పొందడానికి మీ ఖాతాలోకి ప్రవేశించండి">
 <!ENTITY firstrun_signin_message "కనెక్ట్ చేసుకోగా, ప్రారంభించడానికి">
-<!ENTITY firstrun_signin_button "Sync లోనికి ప్రవేశించండి">
-<!ENTITY newfirstrun_signin_button "సమకాలీకరణను ప్రారంభించండి">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName;కు ప్రవేశించండి">
 <!ENTITY  onboard_start_button_browser "విహరణ మొదలుపెట్టండి">
 <!ENTITY firstrun_button_notnow "ఇప్పుడు కాదు">
 <!ENTITY firstrun_button_next "తదుపరి">
-
-<!ENTITY firstrun_signin_button2 "ప్రవేశించు">
 
 <!ENTITY firstrun_tabqueue_title "లంకెలు">
 
@@ -476,14 +468,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; స్థాన సేవ నడుస్తోంది">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "స్వయంచాలక తాజాకరణలు">
-<!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
-<!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
-<!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "సహాయం">
 
@@ -751,25 +735,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ఇష్టాంశాలు మరియు చరిత్ర">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName;కి నవీకరణ అందుబాటులో ఉంది">
-<!ENTITY updater_start_select2 "దింపుకోడానికి తాకండి">
-
-<!ENTITY updater_downloading_title2 "&brandShortName;ను దింపుకుంటూంది">
-<!ENTITY updater_downloading_title_failed2 "దింపుకోలు విఫలమైంది">
-<!ENTITY updater_downloading_select2 "దించుకున్న నవీకరణను ఆపాదించడానికి తాకండి">
-<!ENTITY updater_downloading_retry2 "మళ్ళీ ప్రయత్నించడానికి తాకండి">
-
-<!ENTITY updater_apply_title3 "&brandShortName;‌కి నవీకరణ దింపుకుంది">
-<!ENTITY updater_apply_select3 "స్థాపించడానికి తాకండి">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "ఫైళ్లు మరియు నవీకరణలను దింపుటకు &brandShortName; అనుమతించటానికి; నిల్వను ప్రాప్యత చేయడానికి అనుమతించు.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "అనుమతించు">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "కొత్త అతిథి సెషన్">
 <!ENTITY exit_guest_session "అతథి సెషన్ నిష్క్రమించు">
@@ -884,7 +849,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName;‌కి స్వాగతం">
 <!ENTITY activity_stream_signin_description "మీ Firefox ఖాతాతో ఇష్టాంశాలను, సంకేతపదాలను, ఇంకా మరెన్నిటినో సింక్రనించుకోవడం మొదలుపెట్టండి.">
-<!ENTITY activity_stream_signin_button "ప్రవేశించు">
 
 <!ENTITY activity_stream_topsites "మేటి సైట్లు">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
@@ -943,7 +907,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "ధ్వని, వీడియో">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; చిట్కాలు, మెళకువలు">
-<!ENTITY updater_notification_channel "అనువర్తన తాజాకరణలు">
 <!ENTITY synced_tabs_notification_channel "సింకైన ట్యాబులు">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
