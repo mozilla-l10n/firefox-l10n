@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Te Ewlekariya Rêvebira Sertîfîkayeke nû (CA) pirs kir.">
 <!ENTITY downloadCert.trustSSL "Ev CA ji bo diyarkirina malperan ewle ye.">
 <!ENTITY downloadCert.trustEmail "Ev CA ji bo diyarkirina E-Peyaman ewle ye.">
-<!ENTITY downloadCert.trustObjSign "Ev CA ji bo diyarkirina pêşxistinkarên nivîsbariyan ewle ye.">
 <!ENTITY downloadCert.message3 "Ji bo hemû armancan berî ku bi vê CA 'ê ewle bî divê Ewlebûna Sertîfîkayê û Prosedurê kontrol bikî.">
 <!ENTITY downloadCert.viewCert.label "Nîşan bide">
 <!ENTITY downloadCert.viewCert.text "Sertîfîkaya CA 'yê kontrol bike">

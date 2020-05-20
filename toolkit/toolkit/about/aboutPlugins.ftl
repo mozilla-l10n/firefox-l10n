@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Derbarê pluginan de
+
 installed-plugins-label = Pêvekên sazkirî
 no-plugins-are-installed-label = Tu pêvekeke sazkirî nehat dîtin
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Rewş:</span> Çalak
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Rewş:</span> Çalak ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Rewş:</span> Nayê Bikaranîn
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Rewş:</span> Nayê Bikaranîn ({ $blockListState })
+
 mime-type-label = Cureyê MIME
 description-label = Daxuyanî
 suffixes-label = Paşgir

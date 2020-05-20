@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = j
 menu-copy =
     .label = Kopîkirin
     .accesskey = K
+
 select-all =
     .key = P
 menu-select-all =
     .label = Gişî hilbijêre
     .accesskey = G
+
 general-tab =
     .label = Giştî
     .accesskey = G
@@ -33,6 +36,7 @@ general-meta-name =
     .label = Nav
 general-meta-content =
     .label = Naverok
+
 media-tab =
     .label = Medya
     .accesskey = M
@@ -62,11 +66,13 @@ media-save-image-as =
     .accesskey = a
 media-preview =
     .value = Pêşdîtina Medyayê:
+
 perm-tab =
     .label = Destûr
     .accesskey = D
 permissions-for =
     .value = Destûrê ji bo:
+
 security-tab =
     .label = Ewlekarî
     .accesskey = E
@@ -83,13 +89,17 @@ security-view-identity-domain =
     .value = Malper:
 security-view-identity-verifier =
     .value = Piştrastkirin:
+
 security-view-privacy-history-value = Gelo min îro serdana vê malperê kiribû?
+
 security-view-privacy-passwords-value = Gelo min nasnav ji bo vê malperê tomar kirine?
+
 security-view-privacy-viewpasswords =
     .label = Nasnavên Tomarbûyî Nîşan Bide
     .accesskey = W
 security-view-technical =
     .value = Kitekitên Teknîkî
+
 help-button =
     .label = Alîkarî
 
@@ -118,6 +128,7 @@ media-video = Vîdeo
 media-audio = Audîo
 saved-passwords-yes = Erê
 saved-passwords-no = Na
+
 no-page-title =
     .value = Rûpela Bê Sernivîs:
 general-quirks-mode =
@@ -133,12 +144,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Standard
 security-no-visits = Na
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Wêne
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -148,17 +161,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (li { $scaledx }px × { $scaledy }px hat anîn)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -166,6 +182,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Wêneyên Blok ji { $website }
     .accesskey = g
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

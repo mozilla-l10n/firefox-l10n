@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Rawestîne
 pictureinpicture-play =
     .aria-label = Lêdan
+
 pictureinpicture-mute =
     .aria-label = Bêdeng
 pictureinpicture-unmute =
     .aria-label = Bideng
+

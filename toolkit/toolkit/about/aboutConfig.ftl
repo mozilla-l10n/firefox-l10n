@@ -13,9 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Guherandina nirxên standard ên pêşkeftî dibe ku hevgirtin, ewlekarî û bikêrhatina vê sepanê kêm bike. Heke zanibî ka tu çi dikî, bidomîne.
 config-about-warning-checkbox =
     .label = Vê hişyarkirinê careke din nîşan bide
+
 config-search-prefs =
     .value = Lêgerîn:
     .accesskey = ê
+
 config-focus-search =
     .key = r
 
@@ -43,44 +45,59 @@ config-copy-pref =
     .key = j
     .label = Kopîkirin
     .accesskey = K
+
 config-copy-name =
     .label = kopiya Nav
     .accesskey = k
+
 config-copy-value =
     .label = Nirxê Kopiyeyê
     .accesskey = N
+
 config-modify =
     .label = Biguherîne
     .accesskey = g
+
 config-toggle =
     .label = Nirx biguherîne
     .accesskey = N
+
 config-reset =
     .label = Reset Bike
     .accesskey = R
+
 config-new =
     .label = Nû
     .accesskey = N
+
 config-string =
     .label = Rêz
     .accesskey = R
+
 config-integer =
     .label = Hejmara Tam
     .accesskey = H
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = standard
 config-locked = kilîtkirî
+
 config-property-string = rêzik
 config-property-int = hejmar
 config-property-bool = boolean
+
 config-new-prompt = Navê mîhengan bikeve
+
 config-nan-title = Nirxê nederbasdar
 config-nan-text = Tiştê te nivîsand ne reqemek e.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nirxê { $type }'ê yê nû
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Nirxê { $type } bikevê
