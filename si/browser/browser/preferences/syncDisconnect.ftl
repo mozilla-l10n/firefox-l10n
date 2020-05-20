@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = 363636{ -sync-brand-short-name } විසන්ධි කරන්නද?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = තවද ඔබට මෙම පරිගණකය මත ගවේෂක දත්ත ඉවත් කිරීමටද අවශ්‍යද? කෙසේ වුවත් ඔබේ { -sync-brand-name } දත්ත ඔබේ ගිණුම තුළ පවතිනු ඇත.
+
 sync-disconnect-remove-sync-caption = { -sync-brand-name } දත්ත ඉවත් කරන්න
+
 sync-disconnect-remove-sync-data = පිටු සළකුනු, ඉතිහාසය, මුරපද ආදිය.
+
 sync-disconnect-remove-other-caption = අනෙකුත් පෞද්ගලික දත්ත ඉවත් කරන්න
+
 sync-disconnect-remove-other-data = කුකී, කෑශ්, මාර්ග අපගත අඩවි දත්ත ආදිය.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = විසන්ධි වෙමින්...
+
 sync-disconnect-cancel =
     .label = අවලංගු
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = විසන්ධි කර මකන්න
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = විසන්ධි පමණක්
     .accesskey = D

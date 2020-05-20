@@ -9,22 +9,10 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label "උදව්">
 <!ENTITY helpMenuWin.accesskey "H">
-<!ENTITY whatsNewCmd.label "අළුත් දේ මොනවාද">
-<!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY openHelp.label "උදව් අන්තර්ගතය">
-<!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; උදව්">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd.label "&brandShortName; පිළිබඳ">
-<!ENTITY aboutMenuCmd.accesskey "A">
 
 
-<!ENTITY releaseCmd2.label "නිකුතු සටහන්">
-<!ENTITY releaseCmd2.accesskey "N">
+<!ENTITY helpTroubleshootingInfo.label "සදොස් සෙවීමේ තොරතුරු">
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label "ඇඩෝන අබල (Disable) කර යළි-අරඹන්න…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY helpTroubleshootingInfo.label "සදොස් සෙවීමේ තොරතුරු">
+

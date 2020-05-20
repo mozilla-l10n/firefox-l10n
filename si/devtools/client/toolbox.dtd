@@ -131,10 +131,6 @@
   -  panel. -->
 <!ENTITY options.styleeditor.label            "මොස්තර සැකසුම (Style Editor)">
 
-<!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
-   - label for the checkbox that toggles showing original sources in the Style Editor -->
-<!ENTITY options.stylesheetSourceMaps.label      "මූලික මූල පෙන්වන්න">
-
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "ඩිරෙක්ටරි සේවාදායක ලක්ෂණ">
 <!ENTITY directoryName.label               "නම: ">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "ධාරක නම: ">

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "ගිණුමේ සැකසුම්">
 <!ENTITY accountName.label "ගිණුමේ නම:">
 <!ENTITY accountName.accesskey "N">
@@ -40,3 +42,4 @@
 <!ENTITY smtpName.label "(SMTP) යැවුම් සේවාදායකය:">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "පෙරනිමි සේවාදායකය භාවිතා කරන්න">
+

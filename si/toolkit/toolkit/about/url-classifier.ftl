@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = ආරක්ෂිත ගවේශන වා�
 url-classifier-debug-modules = වත්මන් වාර්ථා මොඩියුල
 url-classifier-debug-sbjs-modules = ආරක්ෂිත ගවේශන JS වාර්ථාව
 url-classifier-debug-file = වත්මන් වාර්ථා ගොනුව
+
 url-classifier-trigger-update = යාවත් ක්‍රියාරම්භය
 url-classifier-not-available = නැත
 url-classifier-disable-sbjs-log = ආරක්ශිත ගවේශන JS වාර්ථාව අක්‍රීය කරන්න

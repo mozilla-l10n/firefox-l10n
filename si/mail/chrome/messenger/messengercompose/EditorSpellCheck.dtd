@@ -28,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "සැකසුම්...">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-<!ENTITY recheckButton.label "පිටුව නැවත පරීක්ෂා කරන්න">
-<!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "වහන්න">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "යවන්න">

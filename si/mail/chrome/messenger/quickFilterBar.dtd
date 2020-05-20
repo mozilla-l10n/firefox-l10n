@@ -2,6 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
+     This is the base of the empty text for the text search box.  We replace
+     #1 with the contents of the appropriate
+     quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
+     The goal is to convey to the user that typing in the box will filter
+     the messages and that there is a hotkey they can press to get to the
+     box faster.
+     -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label
+         "ක්ෂණික පෙරහන">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
@@ -32,13 +43,6 @@
      -->
 <!ENTITY quickFilterBar.sticky.tooltip
          "ෆෝල්ඩර අතර මාරුවීමේදී යොදා ඇති පෙරහන් තබාගන්න?">
-
-<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
-     The text to display on the quick filter bar, labeling it.  This should
-     ideally be as short as possible.
-     -->
-<!ENTITY quickFilterBar.barLabel.label
-         "ක්ෂණික පෙරහන:">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
@@ -142,20 +146,6 @@
      -->
 <!ENTITY quickFilterBar.resultsLabel.minWidth
          "100">
-
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
-     This is the base of the empty text for the text search box.  We replace
-     #1 with the contents of the appropriate
-     quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
-     The goal is to convey to the user that typing in the box will filter
-     the messages and that there is a hotkey they can press to get to the
-     box faster.
-     -->
-<!ENTITY quickFilterBar.qfbShowFilterBar.label
-         "ක්ෂණික පෙරහන">
-
-<!ENTITY quickFilterBar.textbox.emptyText.base
-         "මෙම ලිපි පෙරහන් කරන්න... #1">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
      This is the key used to show the quick filter bar. -->

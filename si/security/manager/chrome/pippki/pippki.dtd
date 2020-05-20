@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "ඔබ නව සහතික අධිකාරියක් (CA) විශ්වාස කිරීමට ඉල්ලා සිටි.">
 <!ENTITY downloadCert.trustSSL "වියුණු වල හඳුනාගැනීමට මෙම CA (සහතික අධිකාරිය) විශ්වාස කරන්න.">
 <!ENTITY downloadCert.trustEmail "විද්‍යුත් තැපැල් භාවිතා කරන්නන්ගේ හඳුනාගැනීමට මෙම CA (සහතික අධිකාරිය) විශ්වාස කරන්න.">
-<!ENTITY downloadCert.trustObjSign "මෘදුකාංග ශිල්පීන් හඳුනාගැනීමට මෙම CA (සහතික අධිකාරිය) විශ්වාස කරන්න.">
 <!ENTITY downloadCert.message3 "කිසිම කාරණාවකට මෙම CA විශ්වාස කිරීමට පළමුව, ඔබ එහි සහතිකය සහ එහි ප්‍රතිපත්තීන් සහ කාර්ය පටිපාටිය (ඇත්නම්) පිරික්සා බැලිය යුතුය.">
 <!ENTITY downloadCert.viewCert.label "දක්වන්න">
 <!ENTITY downloadCert.viewCert.text "CA සහතිකය පිරික්සා බලන්න">

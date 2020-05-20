@@ -5,9 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "ඩිස්කයේ ඉඩ ඉතිරි කර ගැනීම සඳහා භාගත නොකරන්න:">
 <!ENTITY doNotDownloadNntp.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවිතා කිරීම සඳහා බාගත නොකරන්න:">
 <!ENTITY doNotDownloadImap.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීම සඳහා, අසම්බන්ධිතව භාවිතා කිරීමට ලිපි බාගත කර සමීප පිටපත් (local copies) තබා ගැනීම ලිපියේ වයස හා ප්‍රමාණය අනුව සීමා කළ හැකිය.">
-<!-- <!ENTITY doNotDownload.label "ඩිස්කයේ ඉඩ ඉතිරි කිරීමට, අසම්බන්ධිතව භාවිතා කිරීම සඳහා භාගත නොකරන්න:"> -->
-<!ENTITY allFoldersOffline.label "මෙම පරිගණකහේ මෙම ගිණුම සඳහා ලිපි තබාගන්න">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "විශාල ලිපි බාගත නොකරන්න">
@@ -28,8 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "මෙම ආසන්නතම ලිපිය හැර සියල්ල මකන්න">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "කියවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
 <!ENTITY retentionApplyToFlagged.label "සෑම විටම තරුයෙදූ ලිපි තබන්න">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "Remove bodies from messages more than">

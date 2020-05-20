@@ -18,3 +18,7 @@ reader-view = කියවුම් දසුන
 open-location = සොයන්න හෝ ලිපිනය ඇතුලත් කරන්න
 share = හවුල් කරන්න
 close-window = කවුළුව වසන්න
+
+## Various categories of shortcuts for search.
+
+##

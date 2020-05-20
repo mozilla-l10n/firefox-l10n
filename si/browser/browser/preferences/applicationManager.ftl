@@ -5,13 +5,15 @@
 app-manager-window =
     .title = යෙදුම් තොරතුරු
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = ඉවත් කරන්න
     .accesskey = R
-app-manager-handle-webfeeds = වෙබ් පෝෂක හැසිර වීම සඳහා පහත යෙදුම් භාවිතා කළ හැක.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } පුරුක් හැසිර වීම සඳහා පහත යෙදුම් භාවිතා කළ හැක.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } අන්තර්ගතය හැසිර වීම සඳහා පහත යෙදුම් භාවිතා කළ හැක.

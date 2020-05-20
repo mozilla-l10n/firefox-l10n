@@ -11,8 +11,8 @@
 <!ENTITY editContactEmail.label "වි.තැ. ලිපිනය:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactPanelCancel.label "එපා">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactAddressBook.label "ලිපින පොත:">
+<!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelDone.label "කළා">
 <!ENTITY editContactPanelDone.accesskey "D">
@@ -23,6 +23,4 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY editContactAddressBook.accesskey "A">
-<!ENTITY editContactAddressBook.label "ලිපින පොත:">
 <!ENTITY contactMoveDisabledWarning.description "සබඳතා ලිපි ලැයිස්තුවේ ඇති බැවින් ඔබට ලිපින පොත වෙනස් කළ නොහැකිය.">

@@ -29,8 +29,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "දහාවන කාල තොරතුරු">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "දර්ශකය">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "මෙවලම් අභිප්‍රේත">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "මෙවලම් සිටුවම්">
@@ -38,7 +36,6 @@
 
 <!ENTITY viewMenu_label "දක්වන්න">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "විශාල කරන්න">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "කුඩා කරන්න">
@@ -56,8 +53,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -67,7 +62,6 @@
 <!ENTITY projectPanel_myProjects "මගේ ව්‍යාපෘති">
 <!ENTITY projectPanel_tabs "ටැබ්">
 <!ENTITY runtimePanel_other "වෙනත්">
-<!ENTITY runtimePanel_installsimulator "සමාකෘතිය ස්ථාපනය කරන්න">
 
 <!-- Lense -->
 <!ENTITY details_warning_header "අනතුරු ඇඟවීම්">
@@ -88,7 +82,6 @@
 
 <!-- Prefs -->
 <!ENTITY prefs_general_title "සාමාන්‍ය">
-<!ENTITY prefs_options_keybindings_default "පෙරනිමි">
 
 <!-- Runtime Details -->
 
@@ -98,9 +91,6 @@
 <!-- Device Preferences -->
 
 <!-- Device Settings -->
-
-<!-- Monitor -->
-<!ENTITY monitor_help "උදව්">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -117,11 +107,3 @@
 
 <!-- Logs panel -->
 
-<!-- Simulator Options -->
-<!ENTITY simulator_name "නම">
-<!ENTITY simulator_software "මෘදුකාංග">
-<!ENTITY simulator_version "නිකුතුව">
-<!ENTITY simulator_profile "පැතිකඩ">
-<!ENTITY simulator_hardware "දෘඩාංග">
-<!ENTITY simulator_device "මෙවලම">
-<!ENTITY simulator_screenSize "තිරය">

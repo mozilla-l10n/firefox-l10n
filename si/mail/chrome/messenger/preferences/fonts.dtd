@@ -3,16 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  fontsAndEncodingsDialog.title           "අකුරු සහ කේතනයන්">
-<!ENTITY  window.width                            "39em">
-<!ENTITY  window.macWidth                         "43em">
-<!ENTITY  window.unixWidth                        "41em">
 
 <!ENTITY  language.label                          "අකුරු (සඳහා):">
 <!ENTITY  language.accesskey                      "t">
 
 <!ENTITY  size.label                             "විශාලත්වය">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY  proportional.label                      "Proportional:">
 <!ENTITY  proportional.accesskey                  "P">
@@ -24,19 +19,13 @@
 <!ENTITY  monospace.label                         "Monospace:">
 <!ENTITY  monospace.accesskey                     "m">
 
-<!ENTITY  font.langGroup.latin1                   "Western">
-<!ENTITY  font.langGroup.latin2                   "Central European">
 <!ENTITY  font.langGroup.japanese                 "ජපන්">
 <!ENTITY  font.langGroup.trad-chinese             "Traditional Chinese (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Simplified Chinese">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Traditional Chinese (Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "කොරියානු">
 <!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
-<!ENTITY  font.langGroup.baltic                   "Baltic">
 <!ENTITY  font.langGroup.el                       "ග්‍රීක">
-<!ENTITY  font.langGroup.turkish                  "Turkish">
-<!ENTITY  font.langGroup.unicode1                 "යුනිකෝඩ්">
-<!ENTITY  font.langGroup.user-def                 "පරිශීලක තේරූ">
 <!ENTITY  font.langGroup.thai                     "තායි">
 <!ENTITY  font.langGroup.hebrew                   "Hebrew">
 <!ENTITY  font.langGroup.arabic                   "අරාබි">
@@ -71,10 +60,6 @@
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label         "යවන ලිපි:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
-<!ENTITY languagesTitle1.label            "අකුරු කේතනයන්">
-<!ENTITY composingDescription.label       "යවන ලිපි සහ ලැබෙන ලිපි සඳහා පෙරනිමි (default) අකුරු කේතනයන් සකසන්න">
 
 <!ENTITY viewDefaultCharsetList.label     "ලැබෙන ලිපි:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
-<!ENTITY replyInDefaultCharset2.label     "හැකි විටදී, පිළිතුරු ලිවීමෙිදී පෙරනිමි අනුලකුණු කේතනය භාවිතා කරන්න">
-<!ENTITY replyInDefaultCharset2.accesskey "h">

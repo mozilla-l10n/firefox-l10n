@@ -8,6 +8,12 @@
 <!ENTITY securityMenu.accesskey "e"> -->
 
 <!ENTITY menu_securityEncryptRequire.label "මෙම ලිපිය සංකේතනය කරන්න">
+
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 <!-- <!ENTITY menu_securityNoEncryption.label "මෙම ලිපිය සංකේතනය නොකරන්න">

@@ -171,3 +171,4 @@ functionality specific to thunderbird. -->
 <!ENTITY inadequateSecurityError.title "ඔබේ සබඳතාව ආරක්ෂිත නොමැත">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

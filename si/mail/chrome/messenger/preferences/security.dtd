@@ -6,7 +6,6 @@
 <!ENTITY itemPhishing.label      "Email Scams">
 <!ENTITY itemPasswords.label     "රහස්පද">
 <!ENTITY itemAntiVirus.label     "වෛරස-විරෝධී">
-<!ENTITY itemCookies.label       "වෙබ් අන්තර්ගතය">
 
 
 <!-- Junk Mail Controls -->
@@ -15,10 +14,10 @@
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "ඒවා ගිණුමේ &quot;නිසරු ලිපි&quot; ෆෝල්ඩරයට ගෙන යන්න">
 <!ENTITY manualMarkModeMove.accesskey "o">
-<!ENTITY markAsReadOnSpam.label "කියවන විට නිසරු සේ හඳුනා ගැනීම සඳහා සළකුණු කරන්න">
-<!ENTITY markAsReadOnSpam.accesskey "k">
 <!ENTITY manualMarkModeDelete.label "ඒවා මකන්න">
 <!ENTITY manualMarkModeDelete.accesskey "t">
+<!ENTITY markAsReadOnSpam.label "කියවන විට නිසරු සේ හඳුනා ගැනීම සඳහා සළකුණු කරන්න">
+<!ENTITY markAsReadOnSpam.accesskey "k">
 <!ENTITY enableAdaptiveJunkLogging.label "නිසරු ලිපි පෙරණය ලොග් කිරීම බලැති කරන්න">
 <!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "ලොග් සටහන පෙන්වන්න">
@@ -35,9 +34,9 @@
 
 <!-- Passwords -->
 <!ENTITY savedPasswords.intro         "&brandShortName; ට ඔබගේ සියළු ගිණුම් සඳහා වන රහස්පද මතක තබාගත හැකිය, එවිට ඔබට පිරුම් විස්තර නැවත ඇතුළු කිරීම අවශ්‍ය නොවේ.">
-<!ENTITY  masterPassword.intro        "සැකසූ විට, ප්‍රධාන රහස්පදය සියළු රහස්පද ආරක්ෂා කරයි - නමුත් සැසියකට එක් වරක් ඔබ එය ඇතුළු කළ යුතුමය.">
 <!ENTITY useMasterPassword.label        "ප්‍රධාන රහස්පදයක් (Master Password) භාවිතා කරන්න">
 <!ENTITY useMasterPassword.accesskey    "m">
+<!ENTITY  masterPassword.intro        "සැකසූ විට, ප්‍රධාන රහස්පදය සියළු රහස්පද ආරක්ෂා කරයි - නමුත් සැසියකට එක් වරක් ඔබ එය ඇතුළු කළ යුතුමය.">
 <!ENTITY changeMasterPassword.label     "ප්‍රධාන රහස්පදය (Master Password) වෙනස් කිරීම…">
 <!ENTITY changeMasterPassword.accesskey "C">
 <!ENTITY savedPasswords.label           "සුරැකූ රහස්පද…">
@@ -51,22 +50,6 @@
 <!-- Extra strings we might use after the l10n string freeze in the preferences dialog -->
 
 <!-- Cookies -->
-<!-- Cookies -->
-<!ENTITY cookies.intro                  "ඔබගේ පරිගණකයේ කුකීස් තැන්පත් කරනු ලබන්නේ කවර බ්ලොග්, news feeds, සහ වෙනත් වෙබ් අඩවිදැයි දැක්වීමට &brandShortName; ඔබට ඉඩ ලබා දේ.">
-<!ENTITY acceptCookies.label            "මෙම අඩවීන්ගේ කුකීස් පිළිගන්න">
-<!ENTITY acceptCookies.accesskey        "c">
-<!ENTITY keepUntil.label                "තබාගන්නේ:">
-<!ENTITY keepUntil.accesskey            "K">
-<!ENTITY expire.label                   "ඒවා කල් ඉකුත්වනතුරු">
-<!ENTITY close.label                    "මම &brandShortName;වසන තුරු">
-<!ENTITY askEachTime.label              "සෑමවිටම විමසන්න">
-<!ENTITY cookieExceptions.label         "හැරදැමීම්…">
-<!ENTITY cookieExceptions.accesskey     "E">
-<!ENTITY showCookies.label              "කුකීස් පෙන්වන්න…">
-<!ENTITY showCookies.accesskey          "S">
-<!-- Do Not Track -->
-<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
-<!ENTITY doNotTrack.accesskey           "d">
 
 
 

@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = විරාමය
 pictureinpicture-play =
     .aria-label = වාදනය
+
 pictureinpicture-mute =
     .aria-label = නිහඬ කරන්න
 pictureinpicture-unmute =
     .aria-label = නිහඬ නොකරන්න
+

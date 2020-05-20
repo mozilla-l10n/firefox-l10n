@@ -74,8 +74,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "ලක්ෂණ...">
-<!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -120,8 +118,6 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "නිර්යාත...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "වරණ...">
-<!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "මනාපයන්">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
@@ -130,8 +126,6 @@
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "නව ලැයිස්තුවක්">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                               "ලක්ෂණ">
-<!ENTITY editButton2.accesskey                           "P">
 <!ENTITY newmsgButton.label                             "නව ලිපියක් ලියන්න">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "ක්ෂණික පණිවිඩ">
@@ -142,13 +136,9 @@
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "ලිපින පොතට නව සබඳතාවක් එක් කිරීමට">
 <!ENTITY newlistButton.tooltip                          "නව ලැයිස්තුවක් සෑදීමට">
-<!ENTITY editButton2.tooltip                             "තෝරාගත් පිටුවේ වෙනස්කම් කිරීමට">
 <!ENTITY newmsgButton.tooltip                           "ලිපියක් යැවීමට">
 <!ENTITY newIM.tooltip                                  "ක්ෂණික පණිවිඩක් හෝ කතාබහ යැවීමට">
 <!ENTITY deleteButton2.tooltip                           "තෝරාගත් අයිතමයන් මකා දැමීමට">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "ලිපින පොත්">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "නම හෝ වි. තැ. ලිපිනය">

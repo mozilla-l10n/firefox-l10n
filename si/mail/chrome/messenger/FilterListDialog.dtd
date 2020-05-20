@@ -32,8 +32,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "තෝරාගත් පෙරහන් මේ මත යොදවන්න:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "මේ ෆෝල්ඩරය තෝරන්න">
-<!ENTITY choosethisnewsserver.label "මෙම පුවත් සේවාදායකය තෝරන්න">
 <!ENTITY helpButton.label "උදව්">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
