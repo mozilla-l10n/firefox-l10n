@@ -29,8 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Emplena l'inici de sessió">
 <!ENTITY fillLoginMenu.accesskey      "m">
-<!ENTITY useGeneratedPassword.label   "Utilitza una contrasenya generada segura…">
-<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Emplena la contrasenya">
 <!ENTITY fillPasswordMenu.accesskey   "m">
 <!ENTITY fillUsernameMenu.label       "Emplena el nom d'usuari">

@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = E
 appmenu-addon-private-browsing-message = Les extensions noves que afegiu al { -brand-shorter-name } no funcionaran en les finestres privades llevat que ho permeteu als paràmetres.
 appmenu-addon-private-browsing-learn-more = Més informació sobre com gestionar els paràmetres de les extensions
+    
 appmenu-new-tab-controlled =
     .label = La pàgina de «Pestanya nova» ha canviat.
     .buttonlabel = Mantén els canvis
