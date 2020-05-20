@@ -23,6 +23,17 @@ privacy-passwords-header = Գաղտնաբառեր
 privacy-junk-header = Թափոն
 privacy-data-collection-header = Տուեալների հաւաքում եւ աւգտագործում
 privacy-security-header = Անվտանգութիւն
+privacy-scam-detection-title = Խաբեութեան յայտնաբերում
+privacy-anti-virus-title = հակաւիրուսային
+privacy-certificates-title = Վկայագրեր
+chat-pane-header = Զրոյց
+chat-status-title = Վիճակ
+chat-notifications-title = Ծանուցումներ
+chat-pane-styling-header = Ոճաւորում
+choose-messenger-language-description = Ընտրեք ընտրացանկերը, հաղորդագրութիւնները եւ ծանուցումները ցուցադրելու համար աւգտագործուող լեզուները { -brand-short-name } –ից:
+confirm-messenger-language-change-description = Այս փոփոխութիւնները կիրառելու համար վերագործարկեք { -brand-short-name }֊ը
+confirm-messenger-language-change-button = Կիրառել եւ վերագործարկել
+update-pref-write-failure-title = Գրէք ձախողում
 
 ## OS Authentication dialog
 
