@@ -5,49 +5,61 @@
 permissions-window =
     .title = Esceiciones
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Direición del sitiu web
     .accesskey = D
+
 permissions-block =
     .label = Bloquiar
     .accesskey = B
+
 permissions-session =
     .label = Permitir na sesión
     .accesskey = s
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-site-name =
     .label = Sitiu web
+
 permissions-status =
     .label = Estáu
+
 permissions-remove =
     .label = Desaniciar sitiu web
     .accesskey = R
+
 permissions-remove-all =
     .label = Desaniciar tolos sitios web
     .accesskey = e
+
 permissions-button-cancel =
     .label = Encaboxar
     .accesskey = E
+
 permissions-button-ok =
     .label = Guardar cambeos
     .accesskey = G
+
 permissions-searchbox =
     .placeholder = Guetar sitiu web
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquiar
 permissions-capabilities-prompt =
     .label = Entrugar siempre
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquiar
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permitir namái les de primeres partes
 permissions-capabilities-listitem-allow-session =
     .value = Permitir pa la sesión
 
@@ -98,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Pues especificar qué sitios web puen reproducir automáticamente conteníu multimedia con soníu.  Escribi la direición exauta del sitiu que quies xestionar y fai clic en Bloquiar o Permitir.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -117,6 +131,8 @@ permissions-site-location-desc = Los siguientes sitios web solicitaron accesu a 
 permissions-site-location-disable-label =
     .label = Bloquiar solicitúes nueves d'accesu a la llocalización
 permissions-site-location-disable-desc = Esto va evitar que cualquier sitiu web non llistáu arriba solicite permisu p'acceder a la to llocalización. Bloquiar l'accesu a la llocalización pue afeutar a les carauterístiques de dalgunos sitios web.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

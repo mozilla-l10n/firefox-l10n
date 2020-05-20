@@ -10,3 +10,4 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = Agora non
     .secondarybuttonaccesskey = N
+    

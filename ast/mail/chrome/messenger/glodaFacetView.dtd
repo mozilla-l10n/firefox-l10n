@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY glodaFacetView.filters.label "Filtros">
+
 <!ENTITY glodaFacetView.loading.label "Guetando…">
+
 <!ENTITY glodaFacetView.empty.label "Nun hai mensaxes que cumplan cola gueta">
+
 <!ENTITY glodaFacetView.pageMore.label "Más »">
+

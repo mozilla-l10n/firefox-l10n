@@ -96,6 +96,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "P">
 <!ENTITY exitFullScreenCmd.label "Colar de pantalla completa">
 <!ENTITY exitFullScreenCmd.accesskey "C">
+
 <!ENTITY fullScreenCmd.label "Pantalla completa">
 <!ENTITY fullScreenCmd.accesskey "C">
 <!ENTITY fullScreenCmd.macCommandKey "c">
@@ -133,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -189,7 +190,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "Recargar">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Va a la direición na barra d'allugamientos">
+
 <!ENTITY printButton.label            "Imprentar">
 <!ENTITY printButton.tooltip          "Imprenta esta páxina">
 
@@ -219,7 +222,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bloquiesti los avisos pa esti sitiu web.">
 <!ENTITY urlbar.popupBlocked.tooltip             "Bloquiesti los ventanos emerxentes d'esti sitiu web.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
+
 
 <!ENTITY searchItem.title             "Guetar">
 
@@ -278,6 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY newUserContext.label             "Llingüeta contenedora nueva">
 <!ENTITY newUserContext.accesskey         "c">
+
 <!ENTITY newNavigatorCmd.label        "Ventana nueva">
 <!ENTITY newNavigatorCmd.key        "n">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -401,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Más">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Guetar o introducir direición">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -443,6 +450,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Guetar consulta">
+
 <!ENTITY contentSearchSubmit.tooltip  "Unviar busca">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -487,6 +495,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "A">
 
 <!ENTITY openLinkCmdInTab.label       "Abrir enllaz en llingüeta nueva">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Abrir enllaz en ventana nueva">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -534,6 +543,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Amestar esti cuadru a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Copiar enllaz">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -788,6 +798,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE:
      protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
      protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+
+
 <!-- LOCALIZATION NOTE:
      In the Site Not Working? view, we suggest turning off protections if
      the user is experiencing issues with any of a variety of functionality.
@@ -803,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      "Allowed" for categories detected but not blocked in the current page, and
      "None Detected" for categories not detected in the current page.
      These strings are used in the header labels of each of these sections. -->
+
 <!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
      The "Allowed" header also includes a "Why?" link that, when hovered, shows
      a tooltip explaining why these items were not blocked in the page. -->
@@ -852,6 +865,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY contentBlocking.breakageReportView.learnMore "Deprendi más">
+
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "Encaboxar">
 
@@ -871,6 +885,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Zarrar">
 
@@ -900,3 +915,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      display a tooltip for accessibility indicator in toolbar/tabbar. It is also
      used as a textual label for the indicator used by assistive technology
      users. -->
+

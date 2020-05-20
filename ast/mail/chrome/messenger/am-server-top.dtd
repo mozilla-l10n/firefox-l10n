@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Descargar automáticamente los mensaxes nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Nome de la cuenta">
 <!ENTITY deleteMessagePrefix.label "Cuando desanicie un mensaxe:">
 <!ENTITY modelMoveToTrash.label "Movelu a esta carpeta:">
 <!ENTITY modelMoveToTrash.accesskey "o">

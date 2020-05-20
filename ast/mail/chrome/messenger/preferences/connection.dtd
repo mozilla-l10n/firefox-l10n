@@ -4,6 +4,7 @@
 
 <!ENTITY connectionsDialog.title "Configuración de conexón">
 <!ENTITY window.width "47em">
+
 <!ENTITY proxyTitle.label "Configurar proxies pal accesu a Internet">
 <!ENTITY noProxyTypeRadio.label "Ensin proxy">
 <!ENTITY noProxyTypeRadio.accesskey "i">

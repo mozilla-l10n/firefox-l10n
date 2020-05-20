@@ -29,6 +29,7 @@ url-classifier-debug-sb-modules = Módulos de rexistru de restolar seguro
 url-classifier-debug-modules = Módulos actuales de rexistru
 url-classifier-debug-sbjs-modules = Rexistru JS de restolar seguro
 url-classifier-debug-file = Ficheru actual de rexistru
+
 url-classifier-trigger-update = Aicionar anovamientu
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Desactivar rexistru JS de restolar seguro

@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Siempre (nun vas poder unviar si dalgún receutor nun tien certificáu)">
 <!ENTITY alwaysEncryptMessage.accesskey "e">
 <!ENTITY encryptionCert.message "Usar esti certificáu pa cifrar/descifrar mensaxes unviaos a Vd.:">
+
 <!ENTITY digitalSign.certificate.button "Seleicionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Llimpiar">
@@ -30,3 +31,4 @@
 <!ENTITY manageCerts2.accesskey "X">
 <!ENTITY manageDevices.label "Preseos de seguridá">
 <!ENTITY manageDevices.accesskey "i">
+

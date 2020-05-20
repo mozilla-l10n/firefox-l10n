@@ -5,14 +5,13 @@
 <!ENTITY doNotDownloadPop3Movemail.label "P'aforrar espaciu en discu, nun descargar:">
 <!ENTITY doNotDownloadNntp.label "P'aforrar espaciu en discu, nun descargar pal so usu ensin conexón:">
 <!ENTITY doNotDownloadImap.label "P'aforrar espaciu en discu, la descarga de mensaxes del sirvidor y el so almacenamientu llocal pa usu ensin conexón pue restrinxise por antigüedá o tamañu.">
-<!ENTITY allFoldersOffline.label "Caltener mensaxes d'esta cuenta nesti equipu">
-<!ENTITY allFoldersOffline.accesskey "a">
 <!ENTITY offlineNotDownload.label "Mensaxes de tamañu superior a">
 <!ENTITY offlineNotDownload.accesskey "M">
 <!ENTITY autosyncNotDownload.label "Nun descargar mensaxes mayores de">
 <!ENTITY autosyncNotDownload.accesskey "c">
 <!ENTITY kb.label "KB">
 <!ENTITY daysOld.label "díes d'antigüedá">
+<!ENTITY message.label "mensaxes más recientes">
 <!ENTITY nntpNotDownloadRead.label "Mensaxes lleíos">
 <!ENTITY nntpNotDownloadRead.accesskey "l">
 <!ENTITY nntpDownloadMsg.label "Mensaxes de más de">
@@ -26,8 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Desaniciar toos sacante los">
 <!ENTITY retentionKeepRecent.accesskey "a">
-<!ENTITY message.label "mensaxes más recientes">
-<!ENTITY retentionKeepUnreadHidden.label "Desaniciar siempre mensaxes lleíos (prevalez sobre la configuración d'antigüedá)">
 <!ENTITY retentionApplyToFlagged.label "Caltener siempre los mensaxes con estrella">
 <!ENTITY retentionApplyToFlagged.accesskey "i">
 <!ENTITY nntpRemoveMsgBody.label "Desaniciar el cuerpu de los mensaxes de más de">
@@ -38,6 +35,7 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Sincronización de mensaxes">
 <!ENTITY diskspaceGroupTitle.label "Espaciu en discu">
+
 <!ENTITY allAutosync.label "Sincronizar tolos mensaxes llocalmente ensin importar l'antigüedá">
 <!ENTITY allAutosync.accesskey "t">
 <!ENTITY ageAutosyncBefore.label "Sincronizar los ">

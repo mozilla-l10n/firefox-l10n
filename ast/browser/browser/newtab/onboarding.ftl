@@ -18,15 +18,20 @@ onboarding-button-label-get-started = Entamar
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Afáyate en { -brand-short-name }
+
 onboarding-start-browsing-button-label = Entama a navegar
+
 onboarding-cards-dismiss =
     .title = Escartar
     .aria-label = Escartar
+
+## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-form-input =
     .placeholder = Corréu
+
 onboarding-sync-form-continue-button = Siguir
 onboarding-sync-form-skip-login-button = Saltar esti pasu
 
@@ -38,6 +43,7 @@ onboarding-sync-form-skip-login-button = Saltar esti pasu
 
 onboarding-benefit-products-title = Productos útiles
 
+
 ## These strings belong to the individual onboarding messages.
 
 
@@ -47,20 +53,27 @@ onboarding-benefit-products-title = Productos útiles
 
 onboarding-private-browsing-title = Navegación privao
 onboarding-private-browsing-text = Navega en solitario. La navegación privao con bloquéu de conteníu, torga que los rastrexadores en llinia te sigan pela web.
+
 onboarding-screenshots-title = Captures de pantalla
 onboarding-screenshots-text = Fai, guarda y comparti captures de pantalla - too ensin salir de { -brand-short-name }. Captura una rexón o una páxina completa mentanto navegues. Darréu, guárdalo na web pa poder acceder a ello y compártilo fácilmente.
+
 onboarding-addons-title = Complementos
 onboarding-addons-text = Amiesta más funciones a { -brand-short-name } pa que faiga aínda más coses. Compara precios, entérate de qué tiempu va facer manaña, o espresa la to personalidá con un tema personalizáu.
+
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Les estensiones col Ghostery, que bloquia los anuncios molestos, permiten una navegación más rápida, más intelixente y más segura.
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Rexístrate pa tener una { -fxaccount-brand-name } y sincroniza los tos marcadores, contraseñes y llingüetes abiertes allá au uses { -brand-short-name }
+
 onboarding-tracking-protection-button2 = Cómo funciona
+
 
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Mui bien, tienes { -brand-short-name }
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:

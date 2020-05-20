@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Axustes de copies y carpetes">
 <!ENTITY sendingPrefix.label "Al unviar mensaxes, automáticamente: ">
 <!ENTITY fccMailFolder.label "Poner una copia en:">

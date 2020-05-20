@@ -4,7 +4,9 @@
 
 <!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
+
 <!ENTITY activity.title "Alministrador d'actividá">
+
 <!ENTITY cmd.pause.label "Posar">
 <!ENTITY cmd.pause.accesskey "P">
 <!ENTITY cmd.resume.label "Reanudar">
@@ -19,6 +21,7 @@
 <!ENTITY cmd.retry.accesskey "R">
 <!ENTITY cmd.removeFromList.label "Desaniciar de la llista">
 <!ENTITY cmd.removeFromList.accesskey "E">
+
 <!ENTITY cmd.close.commandkey "w">
 <!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">
@@ -27,4 +30,5 @@
 <!ENTITY cmd.clearList.accesskey "L">
 <!ENTITY cmd.find.commandkey "f">
 <!ENTITY cmd.search.commandkey "k">
+
 <!ENTITY searchBox.label "Guetar…">

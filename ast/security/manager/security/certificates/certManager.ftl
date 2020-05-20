@@ -4,146 +4,176 @@
 
 certmgr-title =
     .title = Xestor de certificaos
+
 certmgr-tab-mine =
     .label = Los tos certificaos
+
 certmgr-tab-people =
     .label = Persones
+
 certmgr-tab-servers =
     .label = Sirvidores
+
 certmgr-tab-ca =
     .label = Autoridaes
+
 certmgr-mine = Tienes certificaos d'estes organización que t'identifiquen
 certmgr-people = Tienes certificaos nel ficheru qu'identifiquen a estes persones
 certmgr-servers = Tienes certificaos nel ficheru qu'identifiquen a estos sirvidores
 certmgr-ca = Tienes certificaos nel ficheru qu'identifiquen a estes autoridaes certificadores
+
 certmgr-detail-general-tab-title =
     .label = Xeneral
     .accesskey = X
+
 certmgr-detail-pretty-print-tab-title =
     .label = Detalles
     .accesskey = D
+
 certmgr-pending-label =
     .value = Verificando'l certificáu nesti momentu…
-certmgr-subject-info-label =
-    .value = Emitíu pa
-certmgr-issuer-info-label =
-    .value = Emitíu por
-certmgr-period-of-validity-label =
-    .value = Periodu de validez
-certmgr-fingerprints-label =
-    .value = Buelgues
+
 certmgr-subject-label = Emitíu pa
+
 certmgr-issuer-label = Emitíu por
+
 certmgr-period-of-validity = Periodu de validez
+
 certmgr-fingerprints = Buelgues
+
 certmgr-cert-detail =
     .title = Detalle del certificáu
     .buttonlabelaccept = Zarrar
     .buttonaccesskeyaccept = Z
-certmgr-cert-detail-cn =
-    .value = Nome común (CN)
-certmgr-cert-detail-o =
-    .value = Organización (O)
-certmgr-cert-detail-ou =
-    .value = Unidá organizativa (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Númberu de serie
-certmgr-cert-detail-sha256-fingerprint =
-    .value = Buelga SHA-256
-certmgr-cert-detail-sha1-fingerprint =
-    .value = Buelga SHA1
+
 certmgr-cert-detail-commonname = Nome común (CN)
+
 certmgr-cert-detail-org = Organización (O)
+
 certmgr-cert-detail-orgunit = Unidá organizativa (OU)
+
 certmgr-cert-detail-serial-number = Númberu de serie
+
 certmgr-cert-detail-sha-256-fingerprint = Buelga SHA-256
+
 certmgr-cert-detail-sha-1-fingerprint = Buelga SHA1
+
 certmgr-edit-ca-cert =
     .title = Editar axustes d'enfotu del certificáu CA
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Editar axustes d'enfotu:
+
 certmgr-edit-cert-trust-ssl =
     .label = Esti certificáu pue identificar sitios web.
+
 certmgr-edit-cert-trust-email =
     .label = Esti certificáu pue identificar a los usuarios de corréu.
+
 certmgr-delete-cert =
     .title = Desaniciar certificáu
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Nome del certificáu
+
 certmgr-cert-server =
     .label = Sirvidor
+
 certmgr-override-lifetime =
     .label = Vida útil
+
 certmgr-token-name =
     .label = Preséu de seguranza
+
 certmgr-begins-on = Entama'l
+
 certmgr-begins-label =
     .label = Entama'l
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Caduca'l
+
 certmgr-expires-label =
     .label = Caduca'l
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Direición de corréu
+
 certmgr-serial =
     .label = Númberu de serie
+
 certmgr-view =
     .label = Ver…
     .accesskey = V
+
 certmgr-edit =
     .label = Editar enfotu…
     .accesskey = E
+
 certmgr-export =
     .label = Esportar…
     .accesskey = s
+
 certmgr-delete =
     .label = Desaniciar…
     .accesskey = e
+
 certmgr-delete-builtin =
     .label = Desaniciar o dexar d'enfotase…
     .accesskey = n
+
 certmgr-backup =
     .label = Respaldar…
     .accesskey = R
+
 certmgr-backup-all =
     .label = Respaldar too…
     .accesskey = c
+
 certmgr-restore =
     .label = Importar…
     .accesskey = m
+
 certmgr-details =
     .value = Campos del certificáu
     .accesskey = p
+
 certmgr-fields =
     .value = Valor del campu
     .accesskey = V
+
 certmgr-hierarchy =
     .value = Xerarquía de certificaos
     .accesskey = J
+
 certmgr-add-exception =
     .label = Amestar esceición…
     .accesskey = e
+
 exception-mgr =
     .title = Amestar esceición de seguranza
+
 exception-mgr-extra-button =
     .label = Confirmar esceición de seguranza
     .accesskey = C
+
 exception-mgr-supplemental-warning = Los bancos, tiendes y otros sitios públicos llexítimos nun van pidite facer esto.
+
 exception-mgr-cert-location-url =
     .value = Direición:
+
 exception-mgr-cert-location-download =
     .label = Consiguir certificáu
     .accesskey = C
+
 exception-mgr-cert-status-view-cert =
     .label = Ver…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Atroxar esta esceición de mou permanente
     .accesskey = t
+
 pk11-bad-password = La contraseña introducida yera incorreuta.
 pkcs12-decode-err = Fallu al descodificar el ficheru.  O nun ta en formatu PKCS #12, o ta toyíu, o la contraseña introducida ye incorreuta.
 pkcs12-unknown-err-restore = Falló la recuperación del ficheru PKCS #12 por razones desconocíes.
@@ -176,18 +206,24 @@ delete-user-cert-title =
     .title = Desaniciar certificaos
 delete-user-cert-confirm = ¿De xuru quies desaniciar estos certificaos?
 delete-user-cert-impact = Si desanicies ún de los tos certificaos, nun vas poder usalu más pa identificate a tí mesmu.
+
+
 delete-ssl-cert-title =
     .title = Desaniciar esceiciones de certificaos de sirvidor
 delete-ssl-cert-confirm = ¿De xuru que quies desaniciar estes esceiciones de sirvidor?
 delete-ssl-cert-impact = Si desanicies una esceición de sirvidor, vas restaurar les comprobaciones usuales de seguranza pa esi sirvidor y vas obligalu a usar un certificáu válidu.
+
 delete-ca-cert-title =
     .title = Desaniciar o quitar l'enfotu a certificaos CA
 delete-ca-cert-confirm = Solicitesti desanciar estos certificaos CA. Va quitase l'enfotu a los certificaos integraos que tien el mesmu efeutu. ¿De xuru que quies desaniciar o quitar l'enfotu?
 delete-ca-cert-impact = Si desanicies o dexes d'enfotate nun certificáu d'autoridá certificadora (CA), esta aplicación nun va enfotase más en dengún certificáu emitíu por esa CA.
+
+
 delete-email-cert-title =
     .title = Desaniciar certificaos de corréu electrónicu
 delete-email-cert-confirm = ¿De xuru que quies desaniciar los certificaos de los correos electrónicos d'esta xente?
 delete-email-cert-impact = Si desanicies el certificáu de corréu electrónicu d'una persona, nun vas ser más a unviar correos cifraos a esa persona.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -203,21 +239,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Visor de certificaos: «{ $certName }»
+
 not-present =
     .value = <Nun ye parte del certificáu>
+
 # Cert verification
 cert-verified = Esti certificáu verificóse pa los usos de darréu:
+
 # Add usage
 verify-ssl-client =
     .value = Certificáu SSL del veceru
+
 verify-ssl-server =
     .value = Certificáu SSL del sirvidor
+
 verify-ssl-ca =
     .value = Autoridá Certificadora (CA) SSL
+
 verify-email-signer =
     .value = Certificáu del roblador del corréu electrónicu
+
 verify-email-recip =
     .value = Certificáu del receutor del corréu electrónicu
+
 # Cert verification
 cert-not-verified-cert-revoked = Nun pudo verificase esti certificáu porque se revocó.
 cert-not-verified-cert-expired = Nun pudo verificase esti certificáu porque caducó.

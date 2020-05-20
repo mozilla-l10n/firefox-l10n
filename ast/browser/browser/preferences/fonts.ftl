@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fontes
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fontes pa
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Tamañu
     .accesskey = T
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monoespaciáu
     .accesskey = M
+
 fonts-monospace-size = Tamañu
     .accesskey = u
+
 fonts-minsize = Tamañu mínimu de fonte
     .accesskey = o
+
 fonts-minsize-none =
     .label = Dengún
+
 fonts-allow-own =
     .label = Permitir a les páxines escoyer les sos propies fontes, en cuenta de les tuyes d'arriba
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación de testu pa conteníu vieyu
 fonts-languages-fallback-desc = Esta codificación de testu úsase pa conteníu vieyu que nun declara la so codificación.
+
 fonts-languages-fallback-label = Codificación de testu predet.
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Predetermináu pa la llingua actual
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Otros (incl. européu occidental)
-fonts-very-large-warning-title = Tamañu mínimu de lletra grande
-fonts-very-large-warning-message = Esbillesti un tamañu de fonte perpequeñu (más de 24 píxeles). Esto quiciabes faiga difícil o imposible l'usu de delles páxines de configuración como esta.
-fonts-very-large-warning-accept = Caltener los mios cambeos de toes formes
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

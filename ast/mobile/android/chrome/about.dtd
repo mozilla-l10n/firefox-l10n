@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Tocante a &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ye esperimental y quiciabes seya inestable.">
-<!ENTITY aboutPage.telemetryStart               " Unvia automáticamente información tocante al rindimientu, hardware, usu y personalizaciones a ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " p'ameyorar &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Comprobar anovamientos »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Guetando anovamientos …">
 <!ENTITY aboutPage.checkForUpdates.none         "Nun hai anovamientos disponibles">

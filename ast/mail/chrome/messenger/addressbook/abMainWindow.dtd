@@ -148,9 +148,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Unviar un mensaxe o conversación instantáneos">
 <!ENTITY deleteButton2.tooltip                          "Desaniciar elementu esbilláu">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Llibretes de direiciones">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nome o direición de corréu">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">

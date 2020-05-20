@@ -7,6 +7,7 @@ page-subtitle =
     Esta páxina contién información téunica que podría ser útil cuando teas
     tentando d'iguar un problema. Si guetes rempuestes a entruges fecuentes
     tocante a { -brand-short-name }, écha-y un güeyu al nuesu <a data-l10n-name="support-link">sitiu web de sofitu</a>.
+
 crashes-title = Informes de casques
 crashes-id = ID del informe
 crashes-send-date = Unvióse
@@ -98,6 +99,7 @@ audio-backend = Backend d'audiu
 max-audio-channels = Canales máximos
 channel-layout = Distribución preferida de canales
 sample-rate = Tasa preferida d'amuesa
+
 media-title = Medios
 media-output-devices-title = Preseos de salida
 media-input-devices-title = Preseos d'entrada
@@ -122,6 +124,18 @@ intl-locales-default = Locale por defeutu
 intl-os-title = Sistema operativu
 intl-os-prefs-system-locales = Locales del sistema
 intl-regional-prefs = Preferencies rexonales
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -129,6 +143,7 @@ report-crash-for-days =
         [one] Informes de casques del últimu día
        *[other] Informes de casques de los últimos { $days } díes
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -136,6 +151,7 @@ crashes-time-minutes =
         [one] Hai { $minutes } minutu
        *[other] Hai { $minutes } minutos
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -143,6 +159,7 @@ crashes-time-hours =
         [one] Hai { $hours } hora
        *[other] Hai { $hours } hores
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -150,6 +167,7 @@ crashes-time-days =
         [one] Hai { $days } día
        *[other] Hai { $days } díes
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -157,6 +175,7 @@ pending-reports =
         [one] Tolos informes de fallos (incluyendo un casque pendiente nel rangu dau de tiempu)
        *[other] Tolos informes de fallos (incluyendo { $reports } casques pendientes nel rangu dau de tiempu)
     }
+
 raw-data-copied = Copiáronse los datos en bruto al cartafueyu
 text-copied = Copióse'l testu al cartafueyu
 
@@ -169,9 +188,11 @@ blocked-mismatched-version = Bloquióse pola diferencia de versión del controla
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloquióse pa la versión del controlador gráficu. Tenta d'anovar el controlador gráficu a la versión { $driverVersion } o más nueva.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
+
 compositing = Composición
 hardware-h264 = Descodificación H264 de hardware
 main-thread-no-omtc = filu principal, non OMTC
@@ -184,6 +205,7 @@ no = Non
 
 found = Alcontróse
 missing = Falta
+
 gpu-description = Descripción
 gpu-vendor-id = ID del vendedor
 gpu-device-id = ID del preséu
@@ -204,23 +226,29 @@ webgl2-version = Versión controlador WebGL 2
 webgl2-driver-extensions = Estensiones del controlador WebGL 2
 webgl2-extensions = Estensiones WebGL 2
 blocklisted-bug = Bloquióse debío a problemes desconocíos
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = fallu { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ta na llistáu de bloquéu; códigu de fallu { $failureCode }
+
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Descodificador de videu D3D11
 d3d9video-crash-buard = Descodificador de videu D3D9
 d3d9video-crash-guard = Descodificador de videu D3D9
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Reafitar nel reaniciu próximu
 gpu-process-kill-button = Finar procesos de GPU
 gpu-device-reset-button = Aicionar reaniciu del preséu
 off-main-thread-paint-enabled = Activóse'l pintáu fuera del filu principal
+
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión n'usu
+
 has-seccomp-bpf = Seccomp-BPF (peñera de llamaes al sistema)
 has-seccomp-tsync = Sincronización de filos seccomp
 has-user-namespaces = Espacios de nomes d'usuariu
@@ -232,6 +260,7 @@ effective-content-sandbox-level = Nivel d'aisllamientu efeutivu de procesos de c
 sandbox-proc-type-content = conteníu
 sandbox-proc-type-file = conteníu del ficheru
 sandbox-proc-type-media-plugin = complementu de medios
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -244,6 +273,7 @@ multi-process-status-6 = Desactivólo l'inxertar testu non sofitáu
 multi-process-status-7 = Desactivólo los complementos
 multi-process-status-8 = Desactivóse forzosamente
 multi-process-status-unknown = Estáu desconocíu
+
 async-pan-zoom = Encuadre/zoom asíncronu
 apz-none = nada
 wheel-enabled = entrada de rueda de mur activada

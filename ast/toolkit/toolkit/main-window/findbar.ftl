@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Alcontrar la coincidencia siguiente de la fras
 findbar-previous =
     .tooltiptext = Alcontrar la coincidencia previa de la fras
+
 findbar-find-button-close =
     .tooltiptext = Zarrar barra de gueta
-findbar-highlight-all =
-    .label = Resaltar too
-    .accesskey = R
-    .tooltiptext = Resaltar toles coincidencies de la fras
+
 findbar-case-sensitive =
     .label = Concasar mayúscules
     .accesskey = C
     .tooltiptext = Fai concasar les mayúscules
+
 findbar-entire-word =
     .label = Pallabres completes
     .accesskey = a

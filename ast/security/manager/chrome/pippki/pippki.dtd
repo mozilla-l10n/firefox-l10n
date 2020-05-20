@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Pidiósete que t'enfotares nuna autoridá certificadora nueva (CA).">
 <!ENTITY downloadCert.trustSSL "Enfotase nesta CA pa identificar sitios web.">
 <!ENTITY downloadCert.trustEmail "Enfotase nesta CA pa identificar usuarios de corréu.">
-<!ENTITY downloadCert.trustObjSign "Enfotase nesta CA pa identificar desendolcadores de software.">
 <!ENTITY downloadCert.message3 "Enantes d'enfotase nesta CA pa cualesquier propósitu, deberíes desaminar el certificáu, política y procedimientos (si tán disponibles).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Desaminar certificáu de CA">

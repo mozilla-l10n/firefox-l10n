@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Esbillar too">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Guetar">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "G">

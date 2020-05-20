@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = ¡Aceuto'l riesgu!
 config-about-warning-checkbox =
     .label = Amosar esti avisu la próxima vegada
+
 config-search-prefs =
     .value = Guetar:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Copiar
     .accesskey = C
+
 config-copy-name =
     .label = Copiar nome
     .accesskey = N
+
 config-copy-value =
     .label = Copiar valor
     .accesskey = V
+
 config-modify =
     .label = Camudar
     .accesskey = m
+
 config-toggle =
     .label = Alternar
     .accesskey = t
+
 config-reset =
     .label = Reafitar
     .accesskey = R
+
 config-new =
     .label = Nuevu
     .accesskey = u
+
 config-string =
     .label = Cadena
     .accesskey = C
+
 config-integer =
     .label = Enteru
     .accesskey = E
+
 config-boolean =
     .label = Llóxicu
     .accesskey = L
+
 config-default = por defeutu
 config-modified = modificóse
 config-locked = bloquióse
+
 config-property-string = cadena
 config-property-int = enteru
 config-property-bool = booleanu
+
 config-new-prompt = Introduz el nome de la preferencia
+
 config-nan-title = Valor non válidu
 config-nan-text = El testu qu'introduxesti nun ye un númberu.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Valor { $type } nuevu
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Introduz el valor { $type }

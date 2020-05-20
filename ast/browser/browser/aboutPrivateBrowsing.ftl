@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Deprendi más tocante a <a data-l10n-name="learn-more">Restolar en privao</a>.
 about-private-browsing-info-visited = páxines visitaes
+
 privatebrowsingpage-open-private-window-label = Abrir una ventana privada
     .accesskey = P
 about-private-browsing-info-notsaved = Cuando restoles nuna ventana privada, { -brand-short-name } <strong>nun va guardar</strong>:
@@ -17,3 +18,4 @@ about-private-browsing-info-cookies = cookies
 tracking-protection-start-tour = Mira cómo funciona
 about-private-browsing-note = Restolar en privao <strong>nun te fai anónimu n'internet.</strong> El to fornidor de servicios d'internet o empresa entá puen saber qué páxines visites.
 about-private-browsing-not-private = Anguaño nun tas nuna ventana privada.
+

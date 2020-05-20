@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "C">
 <!ENTITY runtimeMenu_showDetails_label "Información del entornu d'execución">
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencies de preséu">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "P">
 <!ENTITY runtimeMenu_showSettings_label "Axustes de preséu">
@@ -45,8 +43,6 @@
 
 <!ENTITY viewMenu_label "Ver">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Alternar editor">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Aumentar">
 <!ENTITY viewMenu_zoomin_accesskey "m">
 <!ENTITY viewMenu_zoomout_label "Amenorgar">
@@ -55,6 +51,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir aplicación">
+
 <!ENTITY runtimeButton_label "Esbillar entornu d'execución">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -66,8 +63,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -79,10 +74,7 @@
 <!ENTITY projectPanel_tabs "Llingüetes">
 <!ENTITY runtimePanel_usb "Preseos USB">
 <!ENTITY runtimePanel_wifi "Preséu Wi-Fi">
-<!ENTITY runtimePanel_simulator "Simuladores">
 <!ENTITY runtimePanel_other "Otros">
-<!ENTITY runtimePanel_installsimulator "Instalar Simulador">
-<!ENTITY runtimePanel_noadbhelper "Instalar encontu ADB">
 <!ENTITY runtimePanel_nousbdevice "¿Nun pues ver el preséu?">
 <!ENTITY runtimePanel_refreshDevices_label "Refrescar preseos">
 
@@ -94,7 +86,6 @@
 <!ENTITY details_location "Direición">
 <!ENTITY details_manifestURL "ID de l'aplicación">
 <!ENTITY details_removeProject_button "Desaniciar proyeutu">
-<!ENTITY details_showPrepackageLog_button "Amosar rexistru previu al empaquetáu">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Aplicación nueva">
@@ -123,30 +114,9 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar el proyeutu anterior al aniciase WebIDE">
 <!ENTITY prefs_options_templatesurl "URL de plantíes">
 <!ENTITY prefs_options_templatesurl_tooltip "Índiz de plantíes disponibles">
-<!ENTITY prefs_options_showeditor "Amosar editor">
-<!ENTITY prefs_options_showeditor_tooltip "Amosar editor internu">
-<!ENTITY prefs_options_tabsize "Tamañu de la llingüeta">
-<!ENTITY prefs_options_expandtab "Llingüetes flexibles">
-<!ENTITY prefs_options_expandtab_tooltip "Usar espacios en cuenta del caráuter de tabulación">
-<!ENTITY prefs_options_detectindentation "Autosangrar">
-<!ENTITY prefs_options_detectindentation_tooltip "Deducir sangráu basándose nel conteníu del códigu fonte">
-<!ENTITY prefs_options_autocomplete "Autocompletar">
-<!ENTITY prefs_options_autocomplete_tooltip "Activar autocompletáu de códigu">
-<!ENTITY prefs_options_autoclosebrackets "Zarrar llaves automáticamente">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Inxertar llaves de zarru automáticamente">
-<!ENTITY prefs_options_keybindings "Combinaciones de tecles">
-<!ENTITY prefs_options_keybindings_default "Predetermináu">
-<!ENTITY prefs_options_autosavefiles "Auto-guardar ficheros">
-<!ENTITY prefs_options_autosavefiles_tooltip "Guarda automáticamente los ficheros editaos enantes d'executar el proyeutu">
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Información del entornu d'execución">
-<!ENTITY runtimedetails_adbIsRoot "ADB ye root: ">
-<!ENTITY runtimedetails_summonADBRoot "preséu raigañu">
-<!ENTITY runtimedetails_ADBRootWarning "(requier un cargador desbloquiáu)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilexos non restrinxíos de DevTools:">
-<!ENTITY runtimedetails_requestPrivileges "solicita más privilexos">
-<!ENTITY runtimedetails_privilegesWarning "(va reaniciase'l preséu. Requier accesu root).">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "sí/non">
@@ -168,10 +138,6 @@
 <!ENTITY devicesetting_newname "Nome de configuración nueva">
 <!ENTITY devicesetting_newtext "Valor de configuración">
 <!ENTITY devicesetting_addnew "Amestar configuración nueva">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Ayuda">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -195,18 +161,3 @@
 <!-- Logs panel -->
 <!ENTITY logs_title "Rexistros d'órdenes previos al empaquetáu">
 
-<!-- Simulator Options -->
-<!ENTITY simulator_title "Opciones del simulador">
-<!ENTITY simulator_remove "Desaniciar simulador">
-<!ENTITY simulator_reset "Reafitar valores">
-<!ENTITY simulator_name "Nome">
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Versión">
-<!ENTITY simulator_profile "Perfil">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Preséu">
-<!ENTITY simulator_screenSize "Pantalla">
-<!ENTITY simulator_pixelRatio "Rellación aspeutu">
-<!ENTITY simulator_tv_data "Simulación de TV">
-<!ENTITY simulator_tv_data_open "Datos de configuración">
-<!ENTITY simulator_tv_data_open_button "Abrir direutoriu de configuración…">

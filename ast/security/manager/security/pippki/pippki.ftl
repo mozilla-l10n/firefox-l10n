@@ -8,6 +8,7 @@ password-quality-meter = Mididor de calidá de la contraseña
 
 change-password-window =
     .title = Camudar contraseña maestra
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Preséu de seguranza: { $tokenName }

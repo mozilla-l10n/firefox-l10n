@@ -3,10 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 head-title = Tocante a les ferramientes pa desendolcadores
+
 newsletter-email-placeholder =
     .placeholder = Corréu
 newsletter-thanks-title = ¡Gracies!
+
 footer-learn-more-link = Deprendi más
+
 features-learn-more = Deprendi más
 features-inspector-title = Inspeutor
 features-inspector-desc = Inspeiciona y refina'l códigu pa facer diseños perfeutos. <a data-l10n-name="learn-more">{ features-learn-more }</a>

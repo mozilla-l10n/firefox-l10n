@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Reaniciar { -brand-short-name }
     .accesskey = R
+
 blocklist-label-summary = { -brand-short-name } determinó que los complementos de darréu son conocíos por causar problemes d'estabilidá o seguranza:
 blocklist-soft-and-hard = Bloquiáronse los complementos que tienen un riesgu altu de causar problemes d'estabilidá o seguranza. El restu tienen menos riesgu, pero encamiéntase que reanicies con ellos desactivaos.
 blocklist-hard-blocked = Estos complementos tienen un riesgu altu de causar problemes d'estabilidá o seguranza y bloquiáronse, pero ríquese reaniciar pa desactivalos dafechu.
 blocklist-soft-blocked = Pa la to proteición, encamiéntase que reanicies con estos complementos desactivaos.
 blocklist-more-information =
     .value = Más información
+
 blocklist-blocked =
     .label = Bloquióse
 blocklist-checkbox =
