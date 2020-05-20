@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Avansert adresseboksøk">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Tråd">
-<!ENTITY fromColumn.label "Fra">
-<!ENTITY recipientColumn.label "Mottaker">
-<!ENTITY correspondentColumn.label "Korrespondenter">
-<!ENTITY subjectColumn.label "Emne">
-<!ENTITY dateColumn.label "Dato">
-<!ENTITY priorityColumn.label "Prioritet">
-<!ENTITY tagsColumn.label "Etikett">
-<!ENTITY accountColumn.label "Konto">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Størrelse">
-<!ENTITY junkStatusColumn.label "Uønsket">
-<!ENTITY unreadColumn.label "Ikke lest">
-<!ENTITY totalColumn.label "Totalt">
-<!ENTITY readColumn.label "Lest">
-<!ENTITY receivedColumn.label "Mottatt">
-<!ENTITY starredColumn.label "Stjerne">
-<!ENTITY locationColumn.label "Plassering">
-<!ENTITY idColumn.label "Mottaksrekkefølge">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Velg kolonner som skal vises">
-<!ENTITY threadColumn2.tooltip "Vis meldingstråder">
-<!ENTITY fromColumn2.tooltip "Sorter etter fra">
-<!ENTITY recipientColumn2.tooltip "Sorter etter mottaker">
-<!ENTITY correspondentColumn2.tooltip "Sorter etter korrespondenter">
-<!ENTITY subjectColumn2.tooltip "Sorter etter emne">
-<!ENTITY dateColumn2.tooltip "Sorter etter dato">
-<!ENTITY priorityColumn2.tooltip "Sorter etter prioritet">
-<!ENTITY tagsColumn2.tooltip "Sorter etter etikett">
-<!ENTITY accountColumn2.tooltip "Sorter etter konto">
-<!ENTITY statusColumn2.tooltip "Sorter etter status">
-<!ENTITY sizeColumn2.tooltip "Sorter etter størrelse">
-<!ENTITY junkStatusColumn2.tooltip "Sorter etter uønsket-status">
-<!ENTITY unreadColumn2.tooltip "Antall uleste meldinger i tråden">
-<!ENTITY totalColumn2.tooltip "Totalt antall meldinger i tråden">
-<!ENTITY readColumn2.tooltip "Sorter etter lest-tilstand">
-<!ENTITY receivedColumn2.tooltip "Sorter etter dato mottatt">
-<!ENTITY starredColumn2.tooltip "Sorter etter stjerne">
-<!ENTITY locationColumn2.tooltip "Sorter etter plassering">
-<!ENTITY idColumn2.tooltip "Sorter etter mottatt rekkefølge">

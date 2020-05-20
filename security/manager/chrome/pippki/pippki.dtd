@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Du er forespurt å ha tillit til en ny sertifikatutsteder (CA)">
 <!ENTITY downloadCert.trustSSL "Stol på denne CA-en til å identifisere nettsider.">
 <!ENTITY downloadCert.trustEmail "Stol på denne CA-en til å identifisere e-postbrukere.">
-<!ENTITY downloadCert.trustObjSign "Stol på denne CA-en til å identifisere programutviklere.">
 <!ENTITY downloadCert.message3 "Før du velger å ha tillit til denne sertifikatutstederen (CA), bør du undersøke dens sertifikat og dens fremgangsmåter og prosedyrer.">
 <!ENTITY downloadCert.viewCert.label "Vis">
 <!ENTITY downloadCert.viewCert.text "Undersøk CA-sertifikat">

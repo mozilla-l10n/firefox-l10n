@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Kontoinnstillinger">
 <!ENTITY accountName.label "Kontonavn:">
 <!ENTITY accountName.accesskey "t">

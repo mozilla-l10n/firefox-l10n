@@ -54,6 +54,7 @@ close-tab =
     .title = Lukk fane
 show-addon =
     .title = Åpne i utvidelsesbehandler
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

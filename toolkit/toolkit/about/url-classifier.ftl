@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Loggmoduler for trygg nettlesing
 url-classifier-debug-modules = Gjeldende loggmoduler
 url-classifier-debug-sbjs-modules = JS-logg for trygg nettlesing
 url-classifier-debug-file = Gjeldende loggfil
+
 url-classifier-trigger-update = Trigg oppdatering
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Slå av JS-logg for trygg nettlesing
