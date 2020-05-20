@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Gwenog">
 <!ENTITY insertSmiley.accesskey "G">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Dim Gair!">
 <!ENTITY smiley16Cmd.accesskey "D">
 <!ENTITY smiley16Cmd.tooltip "Mewnosod wyneb dim gair">
+<!ENTITY SmileButton.label "Mewnosod Gwenoglun">
 <!ENTITY SmileButton.tooltip "Mewnosod wyneb gwenog">
-
