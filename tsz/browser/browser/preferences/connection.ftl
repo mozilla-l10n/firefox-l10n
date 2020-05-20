@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = No proxy
     .accesskey = y
@@ -13,16 +14,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Jantiojku exeni enka sesi jatsintanaka proxy pari i anchikuarikua
     .accesskey = w
+
 connection-proxy-http-share =
     .label = Menku urhani proxy pari iamitu ampe
     .accesskey = x
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Ma urhakua: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Uinirantani
     .accesskey = U
+

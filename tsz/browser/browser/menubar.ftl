@@ -50,24 +50,6 @@ menu-file-go-offline =
 menu-edit =
     .label = Kunharhitani
     .accesskey = K
-menu-edit-undo =
-    .label = Xerentsï
-    .accesskey = X
-menu-edit-redo =
-    .label = ÚntsÏ
-    .accesskey = Ú
-menu-edit-cut =
-    .label = Akuarhetani
-    .accesskey = a
-menu-edit-paste =
-    .label = Matani
-    .accesskey = M
-menu-edit-delete =
-    .label = Xerentani
-    .accesskey = X
-menu-edit-select-all =
-    .label = Erakuni iámendu
-    .accesskey = i
 
 ## View Menu
 
@@ -85,9 +67,6 @@ menu-view-sidebar =
     .accesskey = M
 menu-view-bookmarks =
     .label = Kuirunharitarakuecha
-menu-view-full-zoom-reset =
-    .label = Méntaru uéntani
-    .accesskey = M
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.

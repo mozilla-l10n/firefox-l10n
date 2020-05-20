@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Tamisï uininharhisti">
 <!ENTITY retry.label "Ménteru úntsï">
+
 <!-- Specific error messages -->
 
 
@@ -61,3 +62,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

@@ -8,3 +8,4 @@ places-new-folder-contextmenu =
 places-new-folder =
     .label = Jimpani patsaratarakua…
     .accesskey = J
+

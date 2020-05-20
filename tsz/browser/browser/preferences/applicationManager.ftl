@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Mamaru úrani
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Kéntitani
     .accesskey = K
-app-manager-handle-webfeeds = Arhini ánchitarakuechani jinkuni jarhuatakurhi Miiunharikua uáneraani.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Arhini ánchitarakuechani jinkuni jarhuatakurhi { $type } chunkutaramakuecha.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Arhini ánchitarakuechani jinkuni jarhuatakurhi { $type } jatanhikua.

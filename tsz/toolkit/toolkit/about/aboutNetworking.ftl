@@ -4,6 +4,7 @@
 
 ok = Jo
 idle = Chipeti
+
 about-networking-idle = Chipeti
 
 ## Link is intended as "network link"

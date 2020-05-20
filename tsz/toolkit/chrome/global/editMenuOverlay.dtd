@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Erakuni iámendu">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "i">
+
 <!ENTITY findCmd.label             "Jirinhani">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "J">

@@ -5,7 +5,10 @@
 bookmark-overlay-name =
     .value = Arhikua:
     .accesskey = A
+
 bookmark-overlay-folder =
     .value = Patsaratarakua:
+
 bookmark-overlay-choose =
     .label = K&´umanharhitani…
+

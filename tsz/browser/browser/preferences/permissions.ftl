@@ -4,16 +4,20 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Uraperantani
     .accesskey = U
+
 permissions-button-cancel =
     .label = No uétarisïtia
     .accesskey = N
+
 permissions-capabilities-allow =
     .label = Jierata
 permissions-capabilities-block =
     .label = Uraperantani
+
 permissions-capabilities-listitem-allow =
     .value = Jierata
 permissions-capabilities-listitem-block =
@@ -40,11 +44,15 @@ permissions-capabilities-listitem-block =
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

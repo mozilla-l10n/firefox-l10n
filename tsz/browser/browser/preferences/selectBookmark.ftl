@@ -5,3 +5,4 @@
 select-bookmark-window =
     .title = Nákinti uénatara
     .style = width: 32em;
+

@@ -8,18 +8,23 @@ pref-page =
             [windows] Erakuani
            *[other] Sánteru xénchakuecha
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] Erakuani
        *[other] Sánteru xénchakuecha
     }
+
 pane-general-title = Iamu ampe
 category-general =
     .tooltiptext = { pane-general-title }
+
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = Mikani
 
@@ -43,17 +48,22 @@ close-button =
 ## General Section
 
 startup-header = Uénakua
+
 tabs-group-header = Arhukutarakua
+
 
 ## General Section - Language & Appearance
 
 advanced-fonts =
     .label = Orhepaniksï...
     .accesskey = O
+
 colors-settings =
     .label = Atakueecha…
     .accesskey = A
+
 choose-language-description = Eraku ma uantakuani nákinkari uekaka parakari xaranharitaka web
+
 choose-button =
     .label = K´umanharhitani...
     .accesskey = ´
@@ -61,25 +71,32 @@ choose-button =
 ## General Section - Files and Applications
 
 download-header = Anchitarakua keskukuecha
+
 applications-type-column =
     .label = Najasi ukua
     .accesskey = N
+
 applications-action-column =
     .label = Anchikuarikua
     .accesskey = A
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Úrani { $app-name }
+
 applications-use-other =
     .label = Úrani máteru…
+
 applications-manage-app =
     .label = Mamaru úrani…
 applications-always-ask =
     .label = k'urhamarhini
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -91,16 +108,22 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -113,9 +136,11 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Miiunskakua
+
 browsing-use-autoscroll =
     .label = Jintiojku itsakukua
     .accesskey = i
+
 browsing-use-cursor-navigation =
     .label = Ménkisï urani mananharhitakuachani ka isï uni miiunharhitakuarhu inchani
     .accesskey = m
@@ -139,6 +164,7 @@ use-current-pages =
            *[other] Úra eranharhitakuechani enka xaranharhi kuarhini jakaksï
         }
     .accesskey = k
+
 choose-bookmark =
     .label = Kuirunharhikata Úrani…
     .accesskey = K
@@ -150,6 +176,7 @@ choose-bookmark =
 
 search-choose-keyword-column =
     .label = Uantakua minta
+
 search-remove-engine =
     .label = Kéntitani
     .accesskey = K
@@ -181,6 +208,7 @@ search-remove-engine =
 sync-engine-bookmarks =
     .label = Kuirunharitarakuecha
     .accesskey = K
+
 sync-engine-history =
     .label = Patsakata
     .accesskey = P
@@ -198,6 +226,8 @@ sync-tos-link = Arisïksï anchikurhioka
 ## Privacy Section - Logins and Passwords
 
 
+## OS Authentication dialog
+
 ## Privacy Section - History
 
 history-remember-option-all =
@@ -206,16 +236,21 @@ history-remember-option-never =
     .label = Karakata patsakatani nóteru miántani
 history-remember-option-custom =
     .label = Karakata patsakatantini májku pérache
+
 history-dontremember-description = { -brand-short-name } ánchitarakuantku marhuataati, ka no patsapaati enkari xáni erhanharhitaka.
+
 history-private-browsing-permanent =
     .label = Juchiti ánchitarakuantku marhuata mentkisï
     .accesskey = J
+
 history-remember-search-option =
     .label = Miatantakarini nénasïni xéntapi
     .accesskey = M
+
 history-clear-on-close-option =
     .label = Ásï ampe ma patsa { -brand-short-name } míkani
     .accesskey = Á
+
 history-clear-on-close-settings =
     .label = Xerpetarakua…
     .accesskey = X
@@ -244,9 +279,11 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Eranharitarakuechani p´inkuni
     .accesskey = E
+
 permissions-block-popups-exceptions =
     .label = Iicha no ampe…
     .accesskey = I
+
 permissions-addon-exceptions =
     .label = Licha no ampe…
     .accesskey = L
@@ -266,3 +303,4 @@ permissions-addon-exceptions =
 ## The following strings are used in the Download section of settings
 
 downloads-folder-name = Anchitarakua keskukuecha
+

@@ -120,8 +120,6 @@
 
 
 
-<!-- Monitor -->
-<!ENTITY monitor_help "Jarhuajpikua">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -139,12 +137,6 @@
 <!-- Simulator Options -->
 
 
-
-
-
-
-
-<!ENTITY simulator_device "Device">
 
 
 

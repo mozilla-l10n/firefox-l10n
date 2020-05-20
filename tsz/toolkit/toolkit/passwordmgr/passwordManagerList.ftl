@@ -7,3 +7,4 @@ column-heading-site =
 remove =
     .label = Kéntitani
     .accesskey = K
+

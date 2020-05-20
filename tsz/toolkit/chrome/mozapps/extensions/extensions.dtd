@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
 
 
 
@@ -13,14 +10,6 @@
 
 
 
-
-
-
-
-
-
-<!ENTITY cmd.back.tooltip                     "Junguani ma eranharikua">
-<!ENTITY cmd.forward.tooltip                  "Uanajchakuni ma eranharhikua">
 
 
 
@@ -65,11 +54,6 @@
 
 
 
-<!ENTITY cmd.preferencesWin.label             "Erakuani">
-<!ENTITY cmd.preferencesWin.accesskey         "E">
-
-
-
 
 
 
@@ -111,17 +95,6 @@
 
 
 
-<!ENTITY detail.numberOfDownloads.label       "Anchitarakua keskukuecha">
-
-
-<!ENTITY detail.updateDefault.label           "Tamisï erakukata">
-
-<!ENTITY detail.updateAutomatic.label         "Étskuni">
-
-<!ENTITY detail.updateManual.label            "Pátani">
-
-
-
 
 
 
@@ -136,9 +109,6 @@
 <!-- download/install progress -->
 
 <!-- list sorting -->
-
-
-<!ENTITY sort.name.label                      "Arikua">
 
 
 
@@ -161,6 +131,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
+
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
@@ -182,17 +153,6 @@
 
 
 
-
-
-
-
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "Sánteru mítini">
 
 
 

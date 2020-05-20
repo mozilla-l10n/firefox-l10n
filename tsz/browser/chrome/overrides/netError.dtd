@@ -4,6 +4,7 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+
 <!ENTITY retry.label "Ménteru úntsï">
 
 
@@ -57,12 +58,6 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 
 
-
-
-
-
-
-<!ENTITY securityOverride.exceptionButtonLabel "Kuparhatani eranharhikua…">
 
 
 

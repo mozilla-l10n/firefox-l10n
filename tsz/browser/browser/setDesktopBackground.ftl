@@ -4,15 +4,22 @@
 
 open-desktop-prefs =
     .label = Nena xaranaria mitan jamani
+
 set-background-color = Atantskuecha:
+
 set-background-position = Nanirpera:
+
 set-background-tile =
     .label = Tatsunarhikua
+
 set-background-center =
     .label = Terhunarita
+
 set-background-stretch =
     .label = Yôstarani
+
 set-background-fill =
     .label = Amanskani
+
 set-background-fit =
     .label = Jatsirantani

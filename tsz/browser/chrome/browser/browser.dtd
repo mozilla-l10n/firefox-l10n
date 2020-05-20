@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -18,16 +19,6 @@
 
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "Angarhitani iorhukua">
-<!ENTITY  reloadTab.accesskey                "A">
-
-
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Mikantani seskantakua jimpo arukutarakuani">
-<!ENTITY  closeTabsToTheEnd.accesskey        "M">
-
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -44,15 +35,6 @@ can reach it easily. -->
 
 
 
-
-<!ENTITY  moveToNewWindow.label              "Mátarhu Eranharikuarhu mósku">
-<!ENTITY  moveToNewWindow.accesskey          "E">
-
-
-
-
-<!ENTITY  closeTab.label                     "Míkani iorhukua">
-<!ENTITY  closeTab.accesskey                 "M">
 
 <!ENTITY  listAllTabs.label      "Xarhatani iámenduecha ma iorhukua">
 
@@ -92,6 +74,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Iri eranharhikuakarakata">
 <!ENTITY pageSourceCmd.accesskey "I">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Arhintsï ampenkari exeni jaka">
 <!ENTITY pageInfoCmd.accesskey "A">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -103,6 +86,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "Y">
 <!ENTITY exitFullScreenCmd.label "Sapinharhitansï mentaru">
 <!ENTITY exitFullScreenCmd.accesskey "S">
+
 <!ENTITY fullScreenCmd.label "Uininharhitantsï">
 <!ENTITY fullScreenCmd.accesskey "U">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -128,7 +112,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -157,8 +141,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-<!ENTITY subscribeToPageMenuitem.label "Inchakuarin arini eranharikua…">
 <!ENTITY addCurPagesCmd.label "&amp;Arhukutarhakuechani kúparata arhistakuecharhu…">
+
 <!ENTITY showAllBookmarks2.label "Xarhatani iámenduecha kuirunharitarakuecha">
 
 
@@ -177,7 +161,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Arhistatsperakuecharhu motsi">
+
 <!ENTITY printButton.label            "Uéchantaa">
 <!ENTITY printButton.tooltip          "Ini karakatani uechatantsï">
 
@@ -208,12 +194,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+
 <!ENTITY homeButton.label             "Uénakua">
 
 <!ENTITY bookmarksButton.label          "Kuirunharitarakuecha">
 <!ENTITY bookmarksCmd.commandkey "b">
-
-<!ENTITY bookmarksMenuButton.label          "Kuirunharitarakuecha">
 
 
 
@@ -300,6 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "m">
 <!ENTITY viewSidebarMenu.label "Mananharitarakua">
 <!ENTITY viewSidebarMenu.accesskey "M">
+
 <!ENTITY viewCustomizeToolbar.label       "Peerakurhini…">
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
@@ -312,8 +298,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
-
-<!ENTITY appMenuCustomize.label "&amp;Peerakurhini…">
 
 
 
@@ -384,10 +368,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Mójtakuni ma iorhukua:">
 
 
-
-<!ENTITY urlbar.searchSuggestionsNotification.disable "nómbe">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "k’uaniaka">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
@@ -469,7 +449,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Eratikuani uininharhitantsï">
 <!ENTITY reloadFrameCmd.accesskey     "E">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Exe i ampe nani ueraski">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Exe MathML nana karakata jarhaski">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -546,6 +525,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY thisFrameMenu.label              "Antiku anamutakua">
 <!ENTITY thisFrameMenu.accesskey          "a">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -746,12 +726,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY customizeMode.lwthemes.menuManage "Xanhatani">
-
-
-
-
-
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 
@@ -789,11 +763,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.message "Chuxatapani">
-
-
-
-
 
 
 
@@ -802,7 +771,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginBlockNow.label "Míkani plugin">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
