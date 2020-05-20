@@ -7,7 +7,9 @@ about-config-warning-title = Dikkat, ejderha çıkabilir!
 about-config-warning-text = Bu gelişmiş ayarları değiştirmek bu uygulamanın istikrarına, güvenliğine ve performansına zarar verebilir. Sadece ne yaptığınızdan eminseniz devam etmelisiniz.
 about-config-warning-checkbox = Bu uyarıyı göstermeye devam et.
 about-config-warning-button = Riski kabul ediyorum
+
 about-config2-title = Gelişmiş Yapılandırmalar
+
 about-config-search-input =
     .placeholder = Arama
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Riski kabul ederek devam et
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Bu tercihleri değiştirmek { -brand-short-name } performansını veya güvenliğini etkileyebilir.
+
 about-config-page-title = Gelişmiş Tercihler
+
 about-config-search-input1 =
     .placeholder = Tercih adlarında ara
 about-config-show-all = Tümünü göster
+
 about-config-pref-add = Ekle
 about-config-pref-toggle = Değiştir
 about-config-pref-edit = Düzenle
 about-config-pref-save = Kaydet
 about-config-pref-reset = Sıfırla
 about-config-pref-delete = Sil
+
 about-config-pref-add-button =
     .title = Ekle
 about-config-pref-toggle-button =

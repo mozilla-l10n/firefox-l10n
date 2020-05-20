@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Safe Browsing log modülleri
 url-classifier-debug-modules = Geçerli log modülleri
 url-classifier-debug-sbjs-modules = Safe Browsing JS logu
 url-classifier-debug-file = Geçerli log dosyası
+
 url-classifier-trigger-update = Güncellemeyi tetikle
 url-classifier-not-available = Yok
 url-classifier-disable-sbjs-log = Safe Browsing JS logunu kapat

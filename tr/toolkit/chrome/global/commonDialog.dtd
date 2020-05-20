@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Kısa başlık"> 
 <!ENTITY message.label    "Buraya örnek bir metin yazdık.">
+
 <!ENTITY editfield0.label "Kullanıcı adı:"> 
 <!ENTITY editfield1.label "Parola:"> 
-<!ENTITY checkbox.label   "işaretle">
+<!ENTITY checkbox.label   "işaretle"> 
 <!ENTITY copyCmd.label    "Kopyala">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Tümünü seç">

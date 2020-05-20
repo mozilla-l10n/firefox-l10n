@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Gelişmiş Adres Defteri Araması">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Dizi">
-<!ENTITY fromColumn.label "Gönderen">
-<!ENTITY recipientColumn.label "Alıcı">
-<!ENTITY correspondentColumn.label "Yazanlar">
-<!ENTITY subjectColumn.label "Konu">
-<!ENTITY dateColumn.label "Tarih">
-<!ENTITY priorityColumn.label "Öncelik">
-<!ENTITY tagsColumn.label "Etiketler">
-<!ENTITY accountColumn.label "Hesap">
-<!ENTITY statusColumn.label "Durum">
-<!ENTITY sizeColumn.label "Boyut">
-<!ENTITY junkStatusColumn.label "Gereksiz durumu">
-<!ENTITY unreadColumn.label "Okunmadı">
-<!ENTITY totalColumn.label "Toplam">
-<!ENTITY readColumn.label "Okundu">
-<!ENTITY receivedColumn.label "Tarih">
-<!ENTITY starredColumn.label "Yıldızlı">
-<!ENTITY locationColumn.label "Konum">
-<!ENTITY idColumn.label "Alınma sırası">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Gösterilecek sütunları seç">
-<!ENTITY threadColumn2.tooltip "İleti dizilerini göster">
-<!ENTITY fromColumn2.tooltip "Gönderene göre sırala">
-<!ENTITY recipientColumn2.tooltip "Alıcıya göre sırala">
-<!ENTITY correspondentColumn2.tooltip "Yazanlara göre sırala">
-<!ENTITY subjectColumn2.tooltip "Konuya göre sırala">
-<!ENTITY dateColumn2.tooltip "Tarihe göre sırala">
-<!ENTITY priorityColumn2.tooltip "Önceliğe göre sırala">
-<!ENTITY tagsColumn2.tooltip "Etiketlere göre sırala">
-<!ENTITY accountColumn2.tooltip "Hesaba göre sırala">
-<!ENTITY statusColumn2.tooltip "Duruma göre sırala">
-<!ENTITY sizeColumn2.tooltip "Boyuta göre sırala">
-<!ENTITY junkStatusColumn2.tooltip "Gereksiz durumuna göre sırala">
-<!ENTITY unreadColumn2.tooltip "Dizideki okunmayan iletilerin sayısı">
-<!ENTITY totalColumn2.tooltip "Dizideki iletilerin toplam sayısı">
-<!ENTITY readColumn2.tooltip "Okunma durumuna göre sırala">
-<!ENTITY receivedColumn2.tooltip "Alınma tarihine göre sırala">
-<!ENTITY starredColumn2.tooltip "Yıldıza göre sırala">
-<!ENTITY locationColumn2.tooltip "Konuma göre sırala">
-<!ENTITY idColumn2.tooltip "Alınmaya göre sırala">

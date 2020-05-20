@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Bir sonraki eşleşen kelimeyi bulur
 findbar-previous =
     .tooltiptext = Bir önceki eşleşen kelimeyi bulur
+
 findbar-find-button-close =
     .tooltiptext = Arama çubuğunu kapat
+
 findbar-highlight-all2 =
     .label = Tümünü vurgula
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] T
         }
     .tooltiptext = Terimin geçtiği her yeri işaretle
+
 findbar-case-sensitive =
     .label = Büyük-küçük harfe duyarlı
     .accesskey = h
     .tooltiptext = Büyük-küçük harfe duyarlı ara
+
 findbar-match-diacritics =
     .label = Fonetik işaretleri bul
     .accesskey = F
     .tooltiptext = Fonetik işaretli harflerle baz harflerini ayrı tut (Örneğin “kar” araması yaptığınızda “kâr” bulunmayacaktır.)
+
 findbar-entire-word =
     .label = Tam sözcükler
     .accesskey = s

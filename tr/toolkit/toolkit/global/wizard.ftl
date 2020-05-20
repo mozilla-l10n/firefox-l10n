@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Geri
     .accesskey = G
+
 wizard-macos-button-next =
     .label = İleri
     .accesskey = l
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = İleri >
     .accesskey = l
+
 wizard-macos-button-finish =
     .label = Bitir
 wizard-linux-button-finish =
     .label = Bitir
 wizard-win-button-finish =
     .label = Bitir
+
 wizard-macos-button-cancel =
     .label = Vazgeç
 wizard-linux-button-cancel =

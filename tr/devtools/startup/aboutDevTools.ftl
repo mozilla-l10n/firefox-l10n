@@ -13,6 +13,7 @@ enable-common-message = Tarayıcınızı daha rahat kullanabilmeniz için Firefo
 enable-learn-more-link = Geliştirici Araçları hakkında daha fazla bilgi al
 enable-enable-button = Geliştiri Araçları’nı etkinleştir
 enable-close-button = Bu sekmeyi kapat
+
 welcome-title = Firefox Geliştirici Araçları’na hoş geldiniz!
 newsletter-title = Mozilla Geliştirici Bülteni
 newsletter-message = Geliştiricilere yönelik haberler, ipuçları ve kaynaklar e-posta adresinize gelsin.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Mozilla’nın bilgilerimi bu <a data-l10n-name="priv
 newsletter-subscribe-button = Abone ol
 newsletter-thanks-title = Teşekkürler!
 newsletter-thanks-message = Daha önce bir Mozilla bültenine abone olmadıysanız aboneliğinizi onaylamanız gerekebilir. Lütfen gelen kutunuzu veya spam klasörünüzü kontrol edin.
+
 footer-title = Firefox Developer Edition
 footer-message = Geliştirici Araçları’ndan daha fazlasını mı istiyorsunuz? Geliştiriciler ve çağdaş iş akışları için özel olarak hazırladığımız Firefox tarayıcısını deneyin.
 footer-learn-more-link = Daha fazla bilgi al
+
 features-learn-more = Daha fazla bilgi al
 features-inspector-title = Denetçi
 features-inspector-desc = Mükemmel sayfalar oluşturmak için kodunuzu denetleyip iyileştirin. <a data-l10n-name="learn-more">{ features-learn-more }</a>
