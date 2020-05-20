@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ຊອກ​ຫາ
     .aria-label = ຊອກ​ຫາ
+
 newtab-search-box-search-the-web-text = ຊອກຫາເວັບ
 newtab-search-box-search-the-web-input =
     .placeholder = ຊອກຫາເວັບ
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = ແກ້ໄຂເວັບໄຊທ໌�
 newtab-topsites-title-label = ຊື່ເລື່ອງ
 newtab-topsites-title-input =
     .placeholder = ປ້ອນຊື່ເລື່ອງ
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ພິມຫລືວາງ URL
 newtab-topsites-url-validation = ຕ້ອງການ URL ທີ່ຖືກຕ້ອງ
+
 newtab-topsites-image-url-label = URL ຮູບພາບທີ່ກຳນົດເອງ
 newtab-topsites-use-image-link = ໃຊ້ຮູບພາບທີ່ກຳນົດເອງ…
 newtab-topsites-image-validation = ການໂຫລດຮູບພາບລົ້ມເຫລວ. ລອງໃຊ້ URL ອື່ນ.
@@ -46,6 +49,8 @@ newtab-topsites-preview-button = ສະແດງຕົວຢ່າງ
 newtab-topsites-add-button = ເພີ່ມ
 
 ## Top Sites - Delete history confirmation dialog. 
+
+## Top Sites - Delete history confirmation dialog.
 
 newtab-confirm-delete-history-p1 = ທ່ານແນ່ໃຈຫຼືບໍ່ວ່າຕ້ອງການລຶບທຸກ instance ຂອງຫນ້ານີ້ອອກຈາກປະຫວັດການໃຊ້ງານຂອງທ່ານ?
 # "This action" refers to deleting a page from history.
@@ -70,12 +75,20 @@ newtab-menu-delete-history = ລຶບອອກຈາກປະຫວັດກາ
 newtab-menu-save-to-pocket = ບັນທືກໄປທີ່ { -pocket-brand-name }
 newtab-menu-delete-pocket = ລຶບອອກຈາກ { -pocket-brand-name }
 newtab-menu-archive-pocket = ເກັບຖາວອນໃນ { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ລຶບບຸກມາກອອກ
 # Bookmark is a verb here.
 newtab-menu-bookmark = ບຸກມາກ
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ສຳເນົາລີ້ງດາວໂຫລດ
@@ -106,6 +119,9 @@ newtab-label-download = ດາວໂຫຼດແລ້ວ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = ລຶບສ່ວນ
 newtab-section-menu-collapse-section = ຍຸບສ່ວນ
 newtab-section-menu-expand-section = ຂະຫຍາຍສ່ວນ
@@ -116,6 +132,8 @@ newtab-section-menu-add-search-engine = ເພີ່ມ Search Engine
 newtab-section-menu-move-up = ຍ້າຍຂື້ນ
 newtab-section-menu-move-down = ຍ້າຍລົງ
 newtab-section-menu-privacy-notice = ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ
+
+## Section aria-labels
 
 ## Section Headers.
 
@@ -128,10 +146,14 @@ newtab-section-header-pocket = ແນະນຳໂດຍ { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ເລີ່ມການທ່ອງເວັບ ແລະ ພວກເຮົາຈະສະແດງເນື້ອຫາ, ວິດີໂອ ແລະ ຫນ້າອື່ນໆບາງສ່ວນທີ່ທ່ານຫາກໍເຂົ້າໄປເບິງມາ ຫລື ຫາກໍໄດ້ບຸກມາກໄວ້ທີ່ນີ້.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = ທ່ານໄດ້ອ່ານເລື່ອງລາວຄົບທັງຫມົດແລ້ວ. ທ່ານສາມາດກັບມາເບິ່ງເລື່ອງລາວເດັ່ນໄດ້ຈາກ { $provider } ໃນພາຍຫລັງ. ອົດໃຈຖ້າບໍ່ໄດ້ແມ່ນບໍ່? ເລືອກຫົວຂໍ້ຍອດນິຍົມເພື່ອຄົ້ນຫາເລື່ອງລາວທີ່ຍອດຢ້ຽມຈາກເວັບຕ່າງໆ.
+
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 ## Pocket Content Section.
 

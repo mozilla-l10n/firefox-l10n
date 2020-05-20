@@ -49,6 +49,3 @@
 <!ENTITY  finishedBackground.name         "ອັບເດດ:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-<!ENTITY  update.details.label            "ລາຍລະອຽດ">
-<!ENTITY  update.installedOn.label        "ໄດ້ຕິດຕັ້ງຢູ່ໃນ:">
-<!ENTITY  update.status.label             "ສະຖານະ:">

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ແບບຕົວຫນັງສື
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ແບບຕົວຫນັງສືສຳລັບ
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = ພາສາອາຣັບ
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = ຄວາມກວ້າງຕາມສັດສ່ວນ
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans-serif
+
 fonts-proportional-size = ຂະຫນາດ
     .accesskey = ຂ
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = ຄວາມກວ້າງຄົງທີ່
     .accesskey = M
+
 fonts-monospace-size = ຂະຫນາດ
     .accesskey = ຂ
+
 fonts-minsize = ຂະຫນາດແບບຕົວຫນັງສືຕ່ຳສຸດ
     .accesskey = o
+
 fonts-minsize-none =
     .label = ບໍ່ມີ
+
 fonts-allow-own =
     .label = ອະນຸຍາດໃຫ້ຫນ້າຕ່າງໆເລືອກໃຊ້ແບບຕົວຫນັງສືຂອງຕົວເອງ, ແທນທີ່ຈະເປັນທີ່ທ່ານເລືອກໄວ້ດ້ານເທິງ
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ການເຂົ້າລະຫັດຂໍ້ຄວາມສຳລັບເນື້ອຫາແບບເກົ່າ
 fonts-languages-fallback-desc = ການເຂົ້າລະຫັດຂໍ້ຄວາມນີ້ຖືກໃຊ້ສຳລັບເນື້ອຫາແບບເກົ່າທີ່ບໍ່ສາມາດປະກາດການເຂົ້າລະຫັດໄດ້.
+
 fonts-languages-fallback-label = ການເຂົ້າລະຫັດຂໍ້ຄວາມທີ່ໃຊ້ສະແດງແທນ
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = ຄ່າເລີ່ມຕົ້ນສຳລັບພາສາຖິ່ນປະຈຸບັນ
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ຫວຽດນາມ
 fonts-languages-fallback-name-other =
     .label = ອື່ນໆ (ລວມທັງເອີລົບຕາເວັນຕົກ)
-fonts-very-large-warning-title = ຂະຫນາດແບບຕົວຫນັງສືຕ່ຳສຸດທີ່ໃຫຍ່
-fonts-very-large-warning-message = ທ່ານໄດ້ເລືອກຂະຫນາດຕ່ຳສຸດທີ່ຂະຫນາດນ້ອຍທີ່ສຸດ (ຫຼາຍກວ່າ 24 pixels). ນີ້ອາດເຮັດໃຫ້ມັນຍາ ກຫລື ເປັນໄປບໍ່ໄດ້ທີ່ຈະນໍາໃຊ້ຫນ້າຕັ້ງຄ່າທີ່ສໍາຄັນຕ່າງໆເຊັ່ນນີ້.
-fonts-very-large-warning-accept = ເກັບການປ່ຽນແປງຂອງຂ້ອຍຕໍ່ໄປ
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

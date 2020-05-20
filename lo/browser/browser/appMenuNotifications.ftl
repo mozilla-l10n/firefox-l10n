@@ -17,6 +17,7 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = ບໍ່ແມ່ນຕອນນີ້
     .secondarybuttonaccesskey = N
+    
 appmenu-tab-hide-controlled =
     .label = ເຂົ້າເຖິງແທັບທີ່ເຊື່ອງຢູ່ຂອງທ່ານ
     .buttonlabel = ເຊື່ອງແທັບຕໍ່ໄປ

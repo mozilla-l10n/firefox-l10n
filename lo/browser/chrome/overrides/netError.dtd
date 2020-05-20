@@ -8,17 +8,15 @@
 <!ENTITY loadError.label "ມີບັນຫາໃນການໂຫລດຫນ້າເວັບ">
 <!ENTITY retry.label "ລອງໃຫມ່ອີກຄັ້ງ">
 <!ENTITY returnToPreviousPage.label "ກັບຄືນ">
-<!ENTITY advanced.label "ຂັ້ນສູງ">
-
-<!ENTITY continue2.label "ເພີ່ມຕື່ມ…">
-<!ENTITY moreInformation.label "ຂໍ້ມູນເພີ່ມເຕີມ">
 
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "ບໍ່ສາມາດເຊື່ອມຕໍ່">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "ທີ່ຢູ່ນີ້ໄດ້ຖືກຈໍາກັດ">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "ບໍ່ພົບເຊີບເວີ">
@@ -26,6 +24,7 @@
 <!ENTITY dnsNotFound.title1 "ອືມ. ພວກເຮົາມີບັນຫາໃນການຄົ້ນຫາເວັບໄຊທ໌ນັ້ນ.">
 
 <!ENTITY fileNotFound.title "ບໍ່ພົບໄຟລ໌">
+
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>ກວດເບິງຊື່ໄຟລ໌ສຳລັບຕົວພີມໃຫຍ່ ຫລື ການພີມຜິດອື່ນໆ.</li>
@@ -33,9 +32,11 @@
 </ul>">
 
 <!ENTITY fileAccessDenied.title "ການເຂົ້າເຖິງໄຟລ໌ໄດ້ຖືກປະຕິເສດ">
+
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>ມັນອາດຈະຖືກລຶບອອກໄປແລ້ວ, ຍ້າຍໄປໄວ້ຢູ່ບ່ອນອື່ນແລ້ວ ຫລື ທ່ານອາດບໍ່ມີສິດເຂົ້າເຖິງຟາຍຂໍ້ມູນນີ້.</li> </ul>">
 
 <!ENTITY generic.title "ອຸ່ຍ.">
+
 <!ENTITY generic.longDesc "
 <p>&brandShortName; ບໍ່ສາມາດໂຫລດຫນ້າເວັບນີ້ໄດ້ດ້ວຍບາງເຫດຜົນ.</p>">
 
@@ -51,6 +52,7 @@
 <!ENTITY malformedURI.title1 "ອືມ. ທີ່ຢູ່ນັ້ນເບິ່ງຄືວ່າຈະບໍ່ຖືກຕ້ອງ.">
 
 <!ENTITY netInterrupt.title "ການເຊື່ອມຕໍ່ຖືກລົບກວນ">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "ເອກະສານຫມົດອາຍຸ">
@@ -58,12 +60,14 @@
 <!ENTITY netOffline.title "ໂຫມດອອບລາຍ">
 
 <!ENTITY contentEncodingError.title "ມີຂໍ້ຜິດພາດໃນການເຂົ້າລະຫັດເນື້ອຫາ">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li>
 </ul>">
 
 <!ENTITY unsafeContentType.title "ປະເພດໄຟລ໌ທີ່ບໍ່ປອດໄພ">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ນີ້ເພື່ອແຈ້ງບັນຫານີ້.</li>
@@ -71,18 +75,22 @@
 ">
 
 <!ENTITY netReset.title "ການເຊື່ອມຕໍ່ໄດ້ຮັບການຕັ້ງຄ່າໃຫມ່">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "ການເຊື່ອມຕໍ່ໄດ້ຫມົດເວລາ">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "ບໍ່ເຂົ້າໃຈທີ່ຢູ່ນີ້">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>ທ່ານອາດຈຳເປັນຕ້ອງຕິດຕັ້ງຊອບແວອື່ນເພື່ອເປີດທີ່ຢູ່ນີ້.</li>
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "ພັອກຊີເຊີເວີປະຕິເສດການເຊື່ອມຕໍ່ນີ້">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>ກວດເບິງການຕັ້ງຄ່າຂອງພັອກຊີໃຫ້ແນ່ໃຈວ່າການຕັ້ງຄ່າຕ່າງໆແມ່ນຖືກຕ້ອງ.</li>
@@ -92,12 +100,14 @@
 <!ENTITY proxyResolveFailure.title "ບໍ່ສາມາດຄົ້ນຫາພັອກຊີເຊີເວີ">
 
 <!ENTITY redirectLoop.title "ຫນ້າເວັບນີ້ມີການປ່ຽນເສັ້ນທາງທີ່ບໍ່ຖືກຕ້ອງ">
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>ບາງຄັ້ງບັນຫານີ້ສາມາດເກີດຂື້ນມາຈາກການປິດ ຫລື ປະຕິເສດການຍອມຮັບ ຄຸກກີ້.</li>
 </ul>">
 
 <!ENTITY unknownSocketType.title "ການຕອບສະຫນອງທີ່ບໍ່ຄາດຄິດຈາກເຊີເວີ">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>ກວດເບິງໃຫ້ແນ່ໃຈວ່າລະບົບຂອງທ່ານໄດ້ຮັບການຕິດຕັ້ງ ຕົວຈັດການຄວາມປອດໄພສ່ວນບຸກຄົນ.</li>
@@ -105,12 +115,6 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "ການເຊື່ອມຕໍ່ທີ່ປອດໄພລົ້ມເຫລວ">
-
-<!ENTITY certerror.longpagetitle1 "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
-<!-- Localization note (certerror.introPara, certerror.introPara2) - The text content of the span tag
-will be replaced at runtime with the name of the server to which the user
-was trying to connect. -->
-<!ENTITY certerror.introPara "ເຈົ້າຂອງ <span class='hostname'/> ໄດ້ທຳການຕັ້ງຄ່າເວັບໄຊທ໌ຂອງພວກເຂົາບໍ່ຖືກຕ້ອງ.  ເພື່ອເປັນການຮັກສາຂໍ້ມູນຂອງທ່ານບໍ່ໃຫ້ຖືກໂຈລະກຳ, &brandShortName; ຈື່ງໄດ້ຕັດການເຊື່ອມຕໍ່ໄປຫາເວັບດັ່ງກ່າວນີ້.">
 
 
 
@@ -120,21 +124,21 @@ was trying to connect. -->
 
 
 <!ENTITY cspBlocked.title "ຖືກບັອກໂດຍນະໂຍບາຍຄວາມປອດໄພທາງດ້ານເນື້ອຫາ">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ປ້ອງກັນຫນ້າເວັບນີ້ຈາກການໂຫລດໃນທິດທາງນີ້ເພາະວ່າຫນ້າເວັບມີເນື້ອຫາທີ່ຖືກບັອກໄວ້ໂດຍນະໂຍບາຍຄວາມປອດໄພ.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "ມີການຜີດຜາດໃນການເຊື່ອມໂຍງເນື້ອຫາ">
-
-
-<!ENTITY securityOverride.exceptionButtonLabel "ເພີ່ມຂໍ້ຍົກເວັ້ນ…">
 
 
 <!ENTITY errorReporting.automatic2 "ລາຍງານຂໍ້ຜິດພາດເຊັ່ນນີ້ເພື່ອຊ່ວຍ Mozilla ລະບຸແລະບັອກເວັບໄຊທ໌ທີ່ເປັນອັນຕະລາຍ">
 <!ENTITY errorReporting.learnMore "ຮຽນຮູ້ເພີ່ມເຕີມ...​">
 
 <!ENTITY remoteXUL.title "XUL ທາງໄກ">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>ກະລຸນາຕິດຕໍ່ຫາເຈົ້າຂອງເວັບໄຊທ໌ເພື່ອແຈ້ງບັນຫານີ້.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "ບໍ່ສາມາດເຊື່ອມຕໍ່ໄດ້ຢ່າງປອດໄພ">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ຂໍ້ມູນຂັ້ນສູງ: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -143,7 +147,6 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.pagetitle1  "ການເຊື່ອມຕໍ່ທີ່ບໍ່ປອດໄພ">
 <!ENTITY certerror.copyToClipboard.label "ສຳເນົາຂໍ້ຄວາມໄປໄວ້ທີ່ Clipboard">
 
 <!ENTITY inadequateSecurityError.title "ການເຊື່ອມຕໍ່ຂອງທ່ານບໍ່ປອດໄພ">
@@ -154,3 +157,4 @@ was trying to connect. -->
 
 
 <!ENTITY prefReset.label "ກູ້ຄືນການຕັ້ງຄ່າເລີ່ມຕົ້ນ">
+

@@ -4,6 +4,7 @@
 
 profiledowngrade-window-create =
     .label = ສ້າງໂປຣຟາຍໃຫມ່
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

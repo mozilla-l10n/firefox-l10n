@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = ຢຸດ
 pictureinpicture-play =
     .aria-label = ຫຼິ້ນ
+
 pictureinpicture-mute =
     .aria-label = ປິດສຽງ
 pictureinpicture-unmute =
     .aria-label = ເປີດສຽງ
+

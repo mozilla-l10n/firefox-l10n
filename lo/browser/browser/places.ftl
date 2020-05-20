@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = ເປີດໃນວິນໂດສ່ວນຕົວໃຫມ່
     .accesskey = P
+
 places-new-bookmark =
     .label = ບຸກມາກໃຫມ່…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = ຕົວແບ່ງໃຫມ່
     .accesskey = S
+
 places-view =
     .label = ມູມມອງ
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ຕາມວັນທີແລະເວັບໄຊທ໌
     .accesskey = t
+
 places-history-search =
     .placeholder = ຊອກຫາປະຫວັດການໃຊ້ງານ
 places-bookmarks-search =
     .placeholder = ຊອກຫາບຸກມາກ
+
 places-delete-domain-data =
     .label = ລືມກ່ຽວກັບໄຊທ໌ນີ້
     .accesskey = F

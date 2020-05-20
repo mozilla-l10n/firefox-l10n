@@ -5,49 +5,61 @@
 permissions-window =
     .title = ຂໍ້ຍົກເວັ້ນ
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ທີ່ຢູ່ຂອງເວັບໄຊທ໌
     .accesskey = ທ
+
 permissions-block =
     .label = ບັອກ
     .accesskey = ບ
+
 permissions-session =
     .label = ອະນຸຍາດສຳລັບເຊສຊັນ
     .accesskey = ຊ
+
 permissions-allow =
     .label = ອະນຸຍາດ
     .accesskey = ອ
+
 permissions-site-name =
     .label = ເວັບໄຊທ໌
+
 permissions-status =
     .label = ສະຖານະ
+
 permissions-remove =
     .label = ລຶບເວັບໄຊທ໌ອອກ
     .accesskey = ລ
+
 permissions-remove-all =
     .label = ລຶບເວັບໄຊທ໌ທັງຫມົດອອກ
     .accesskey = ມ
+
 permissions-button-cancel =
     .label = ຍົກເລີກ
     .accesskey = ຍ
+
 permissions-button-ok =
     .label = ບັນທຶກການປ່ຽນແປງ
     .accesskey = ບ
+
 permissions-searchbox =
     .placeholder = ຊອກຫາເວັບໄຊທ໌
+
 permissions-capabilities-allow =
     .label = ອະນຸຍາດ
 permissions-capabilities-block =
     .label = ບັອກ
 permissions-capabilities-prompt =
     .label = ຖາມທຸກຄັ້ງ
+
 permissions-capabilities-listitem-allow =
     .value = ອະນຸຍາດ
 permissions-capabilities-listitem-block =
     .value = ບັອກ
-permissions-capabilities-listitem-allow-first-party =
-    .value = ອະນຸຍາດຈາກບຸກຄົນທີ່ຫນຶ່ງເທົ່ານັ້ນ
 permissions-capabilities-listitem-allow-session =
     .value = ອະນຸຍາດສຳລັບເຊສຊັນນີ້
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = ກະລຸນາປ້ອນຊື່ໂຮສ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = ຂໍ້ຍົກເວັ້ນ - ການປ້ອງກັນການຕິດຕາມ
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = ທ່ານໄດ້ປິດໃຊ້ງານການປ້ອງກັນການຕິດຕາມໃນເວັບໄຊເຫຼົ່ານີ້.
 permissions-exceptions-content-blocking-window =
     .title = ຂໍ້ຍົກເວັ້ນ - ຕົວບັອກເນື້ອຫາ
     .style = { permissions-window.style }
@@ -102,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = ທ່ານສາມາດລະບຸເວັບໄຊທີ່ອະນຸຍາດ ຫຼື ບໍ່ອະນຸຍາດໃຫ້ຫຼີ້ນສື່ພ້ອມສຽງໂດຍອັດຕະໂນມັດໄດ້ຢູ່ສະເໝີ. ພີມທີ່ຢູ່ຂອງໄຊທີ່ທ່ານຕ້ອງການຈັດການຈັດການແລ້ວຄິກ ລະງັບ ຫຼື ອະນຸຍາດ.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +131,8 @@ permissions-site-location-desc = ເວັບໄຊຕໍ່ໄປນີ້ໄ�
 permissions-site-location-disable-label =
     .label = ລະງັບຄຳຂໍໃໝ່ທີ່ຂໍເຂົ້າເຖິງຕຳແໜ່ງທີ່ຕັ້ງຂອງທ່ານ
 permissions-site-location-disable-desc = ນີ້ຈະປ່ອງກັນເວັບໄຊອື່ນໆ ທີ່ບໍ່ໄດ້ລະບຸໄວ້ດ້ານເທິງຈາກການຂໍອະນູຍາດເພື່ອເຂົ້າເຖິງຕຳແໜ່ງທີ່ຕັ້ງຂອງທ່ານ. ການລະງັບການເຂົ້າເຖິງຕຳແໜ່ງທີ່ຕັ້ງຂອງທ່ານອາດຈະເຮັດໃຫ້ຄຸນລັກສະນະບາງຢ່າງຂອງເວັບໄຊບໍ່ສົມບູນ.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

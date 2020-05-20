@@ -9,11 +9,14 @@ enable-inspect-element-message = ກວດເບິ່ງ ແລະ ແກ້ໄ
 enable-about-debugging-message = ພັດທະນາ ແລະ ດີບັກ WebExtensions, web workers, service workers ແລະ ອື່ນໆດ້ວຍເຄື່ອງມືນັກພັດທະນາຂອງ Firefox.
 enable-key-shortcut-message = ທ່ານໄດ້ເປີດໃຊ້ປຸ່ມລັດເຄື່ອງມືນັກພັດທະນາ. ຖ້າວ່າມັນເປັນຂໍ້ຜິດພາດ, ທ່ານສາມາດປິດ Tab ນີ້ໄດ້.
 enable-close-button = ປິດແທັບນີ້
+
 newsletter-email-placeholder =
     .placeholder = ອີເມລ
 newsletter-subscribe-button = ຕິດຕາມ
 newsletter-thanks-title = ຂອບໃຈ!
+
 footer-learn-more-link = ຮຽນຮູ້ເພີ່ມເຕີມ
+
 features-learn-more = ຮຽນຮູ້ເພີ່ມເຕີມ
 features-console-title = ຄອນໂຊ
 features-network-title = ເຄືອຂ່າຍ

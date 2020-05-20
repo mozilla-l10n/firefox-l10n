@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = ຊອກຫາຕຳແຫນ່ງຖັດໄປຂອງວະລີ
 findbar-previous =
     .tooltiptext = ຊອກຫາຕຳແຫນ່ງກ່ອນຫນ້ານີ້ຂອງວະລີ
+
 findbar-find-button-close =
     .tooltiptext = ປິດແຖບຄົ້ນຫາ
-findbar-highlight-all =
-    .label = ໄຮໄລທ໌ທັງຫມົດ
-    .accesskey = a
-    .tooltiptext = ໄຮໄລທ໌ຜົນລັບຂອງວະລີທັງຫມົດ
+
 findbar-case-sensitive =
     .label = ກໍລະນີທີ່ກົງກັນ
     .accesskey = c
     .tooltiptext = ຄົ້ນຫາໂດຍຄຳນຶງເຖິງຂະຫນາດຂອງຕົວອັກສອນ
+
 findbar-entire-word =
     .label = ກົງກັນທຸກຄຳ
     .accesskey = w

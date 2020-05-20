@@ -4,10 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = ເອີ້ນຄືນແທັບທີ່ຫາກໍປິດ
+
 all-tabs-menu-new-user-context =
     .label = ແທັບແຍກຂໍ້ມູນໃຫມ່
+
 all-tabs-menu-hidden-tabs =
     .label = ແທັບທີ່ເຊື່ອງຢູ່
+
 all-tabs-menu-manage-user-context =
     .label = ຈັດການການແຍກຂໍ້ມູນ
     .accesskey = O

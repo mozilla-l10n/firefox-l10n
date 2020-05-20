@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = ຂ້ອຍຍອມຮັບໃນຄວາມສຽງນີ້!
 config-about-warning-checkbox =
     .label = ສະແດງຄຳເຕືອນນີ້ໃນຄັ້ງຕໍ່ໄປ
+
 config-search-prefs =
     .value = ຄົ້ນຫາ:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,44 +50,59 @@ config-copy-pref =
     .key = C
     .label = ສຳເນົາ
     .accesskey = C
+
 config-copy-name =
     .label = ຊື່ສຳເນົາ
     .accesskey = N
+
 config-copy-value =
     .label = ສຳເນົາຄ່າ
     .accesskey = V
+
 config-modify =
     .label = ປ່ຽນແປງ
     .accesskey = M
+
 config-toggle =
     .label = Toggle
     .accesskey = T
+
 config-reset =
     .label = ຕັ້ງໃຫມ່
     .accesskey = R
+
 config-new =
     .label = ໃໝ່
     .accesskey = w
+
 config-string =
     .label = ສະຕຣິງ
     .accesskey = S​
+
 config-integer =
     .label = ຈຳນວນເຕັມ
     .accesskey = I
+
 config-boolean =
     .label = ບູລີນ
     .accesskey = B​
+
 config-default = ຄ່າມາດຕະຖານ
 config-locked = ລັອກ
+
 config-property-string = ສະຕຣິງ
 config-property-int = ຈຳນວນເຕັມ
 config-property-bool = ບູລິນ
+
 config-new-prompt = ປ້ອນຊື່ການຕັ້ງຄ່າ
+
 config-nan-title = ຄ່າບໍ່ຖືກຕ້ອງ
 config-nan-text = ຂໍ້ຄວາມທີ່ທ່ານໄດ້ປ້ອນເຂົ້າໄປບໍ່ແມ່ນຕົວເລກ
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ຄ່າ { $type } ໃຫມ່
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = ປ້ອນຄ່າຂອງ { $type }

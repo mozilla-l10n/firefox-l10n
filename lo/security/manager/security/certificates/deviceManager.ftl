@@ -7,14 +7,18 @@
 
 devmgr-header-details =
     .label = ລາຍລະອຽດ
+
 devmgr-header-value =
     .label = ຄ່າ
+
 devmgr-button-login =
     .label = ເຂົ້າສູ່ລະບົບ
     .accesskey = n
+
 devmgr-button-logout =
     .label = ອອກຈາກລະບົບ
     .accesskey = O
+
 devmgr-button-changepw =
     .label = ປ່ຽນລະຫັດຜ່ານ
     .accesskey = P

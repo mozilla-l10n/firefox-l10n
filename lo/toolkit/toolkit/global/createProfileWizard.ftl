@@ -13,6 +13,7 @@ create-profile-first-page-header =
         [macos] ແນະນຳ
        *[other] ຍິນດີຕ້ອນຮັບສູ່ { create-profile-window.title }
     }
+
 profile-creation-explanation-1 = { -brand-short-name } ຈັດເກັບຂໍ້ມູນກ່ຽວກັບການຕັ້ງຄ່າ ແລະ ການປັບແຕ່ງຂອງທ່ານໄວ້ໃນໂປຣໄຟລ໌ຂອງທ່ານ.
 
 ## Second wizard page
@@ -22,11 +23,14 @@ create-profile-last-page-header =
         [macos] ສະຫລຸບ
        *[other] ສີ້ນສຸດການ { create-profile-window.title }
     }
+
 profile-prompt = ປ້ອນຊື່ໂປຣໄຟລ໌ໃສ່ນີ້:
     .accesskey = E
+
 create-profile-choose-folder =
     .label = ເລືອກໂຟລເດີ…
     .accesskey = C
+
 create-profile-use-default =
     .label = ໃຊ້ໂຟລເດີພື້ນຖານ
     .accesskey = U

@@ -3,13 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "ຟື້ນຟູ &brandShortName;">
-<!ENTITY refreshProfile.dialog.description1  "ເລີ່ມໃຫມ່ເພື່ອແກ້ໄຂບັນຫາ ແລະ ກູ້ຄືນປະສິດພາບການເຮັດວຽກ.">
-<!ENTITY refreshProfile.dialog.description2  "ສິ່ງນີ້ຈະ:">
-<!ENTITY refreshProfile.dialog.items.label1  "ລຶບ add-ons ແລະ ການປັບແຕ່ງຂອງທ່ານອອກໄປ">
-<!ENTITY refreshProfile.dialog.items.label2  "ກູ້ຄືນການຕັ້ງຄ່າບຣາວເຊີຂອງທ່ານກັບໄປສູ່ຄ່າເດີມຂອງມັນ">
-<!ENTITY refreshProfile.dialog.button.label  "ຟື້ນຟູ &brandShortName;">
-
-<!ENTITY refreshProfile.title                "ປັບແຕ່ງ &brandShortName; ໃຫ້ດີຂື້ນກ່ວາເກົ່າ">
-<!ENTITY refreshProfile.button.label         "ຟື້ນຟູ &brandShortName;">
 
 <!ENTITY refreshProfile.cleaning.description "ໃກ້ຈະສໍາເລັດແລ້ວ...">

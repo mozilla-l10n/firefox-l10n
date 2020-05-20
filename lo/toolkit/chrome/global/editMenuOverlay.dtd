@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "ເລືອກທັ້ງຫມົດ">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "ຊອກຫາ">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

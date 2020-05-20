@@ -23,20 +23,24 @@ downloads-cmd-cancel =
     .tooltiptext = ຍົກເລີກ
 downloads-cmd-cancel-panel =
     .aria-label = ຍົກເລີກ
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = ເປີດໂຟນເດີທີ່ບັນຈຸ
     .accesskey = F
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = ສະແດງໃນ Finder
     .accesskey = F
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] ສະແດງໃນ Finder
            *[other] ເປີດໂຟນເດີທີ່ບັນຈຸ
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -49,6 +53,7 @@ downloads-cmd-show-description =
             [macos] ສະແດງໃນ Finder
            *[other] ເປີດໂຟນເດີທີ່ບັນຈຸ
         }
+
 downloads-cmd-show-downloads =
     .label = ສະແດງໂຟນເດີດາວໂຫລດ
 downloads-cmd-retry =
@@ -70,62 +75,78 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = ລ້າງການດາວໂຫລດ
     .accesskey = D​
+
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = ອະນຸຍາດການດາວໂຫລດ
     .accesskey = o
+
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = ລົບໄຟລອອກ
+
 downloads-cmd-remove-file-panel =
     .aria-label = ລົບໄຟລອອກ
+
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = ລົບໄຟລອອກ ຫລື ອະນຸຍາດໃຫ້ດາວໂຫລດ
+
 downloads-cmd-choose-unblock-panel =
     .aria-label = ລົບໄຟລອອກ ຫລື ອະນຸຍາດໃຫ້ດາວໂຫລດ
+
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = ເປີດໄຟລ ຫລື ລົບໄຟລ
+
 downloads-cmd-choose-open-panel =
     .aria-label = ເປີດໄຟລ ຫລື ລົບໄຟລ
+
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = ສະແດງຂໍ້ມູນເພີ່ມເຕີມ
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
     .value = ເປີດໄຟລ໌
+
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = ລອງດາວໂຫຼດໃໝ່
+
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = ຍົກເລີກການດາວໂຫລດ
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = ສະແດງການດາວໂຫລດທັງຫມົດ
     .accesskey = S​
+
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = ລາຍລະອຽດການດາວໂຫລດ
+
 downloads-clear-downloads-button =
     .label = ລ້າງການດາວໂຫລດ
     .tooltiptext = ລ້າງການດາວໂຫລດທີ່ສຳເລັດແລ້ວ, ທີ່ຖືກຍົກເລີກ ແລະ ການດາວໂຫລດທີ່ລົ້ມເຫລວ.
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ບໍ່ມີການດາວໂຫລດ
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ບໍ່ມີການດາວໂຫລດໃນເຊສຊັນນີ້.
