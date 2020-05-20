@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Landzelanisa timphahla">
 
 <!ENTITY ListType.label "Landzelanisa inhlobo">
@@ -47,7 +52,6 @@
 <!ENTITY bulletList.value "Bhuletha (lolute tinombolo) luhlu">
 <!ENTITY numberList.value "Luhlu lolunetinombolo">
 <!ENTITY definitionList.value "Luhlu lwenshokutsini">
-<!ENTITY changeListMsg.label "Nawugucula inhlobo yeluhlu:">
 <!ENTITY changeEntireListRadio.label "Gucula lonkhe luhlu">
 <!ENTITY changeEntireListRadio.accessKey "G">
 <!ENTITY changeSelectedRadio.label "Gucula emaphuzu lakhetsiwe odvwa">

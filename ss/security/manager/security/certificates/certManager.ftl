@@ -4,58 +4,59 @@
 
 certmgr-title =
     .title = Umphatsi /Menenja Wesitifiketi
+
 certmgr-tab-mine =
     .label = Titifiketi Takho
+
 certmgr-tab-ca =
     .label = Tishayamtsetfo /Emagunya
-certmgr-subject-info-label =
-    .value = Siniketwe Ku
-certmgr-issuer-info-label =
-    .value = Siniketwe Ngu
-certmgr-fingerprints-label =
-    .value = Titfupha
+
 certmgr-subject-label = Siniketwe Ku
+
 certmgr-issuer-label = Siniketwe Ngu
+
 certmgr-fingerprints = Titfupha
-certmgr-cert-detail-cn =
-    .value = Libito Lelivamile (CN)
-certmgr-cert-detail-o =
-    .value = Inhlangano (O)
-certmgr-cert-detail-ou =
-    .value = Bunye Benhlangano (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Isiriyali Namba
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 Sitfupha
+
 certmgr-cert-detail-commonname = Libito Lelivamile (CN)
+
 certmgr-cert-detail-org = Inhlangano (O)
+
 certmgr-cert-detail-orgunit = Bunye Benhlangano (OU)
+
 certmgr-cert-detail-serial-number = Isiriyali Namba
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Sitfupha
+
 certmgr-edit-ca-cert =
     .title = Editha tinhelo tesitifiketi Thrasti iCA
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Editha tinhlelo teThrusti:
+
 certmgr-edit-cert-trust-email =
     .label = Lesitifiketi singamkhomba umuntfu losebentisa liposi.
+
 certmgr-delete-cert =
     .title = Cisha Sitifiketi
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Libito Lesitifiketi
+
 certmgr-token-name =
     .label = Idivayisi Yekuvikela
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Isipaya Nge
+
 certmgr-expires-label =
     .label = Isipaya Nge
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Ikheli Ye-imeyili
+
 certmgr-serial =
     .label = Isiriyali Namba
+
 pk11-bad-password = Libitophawu lelingenisiwe alisilo.
 pkcs12-decode-err = Kwehlulekekile kugucula lefayela.  Mhlawumbe akusiyo ye PKCS #12, ifomethi lonakele nome, libitophawu lolifakile alisilo.
 pkcs12-unknown-err-restore = Kuhlulekile kugcina kabusha lifayela PKCS #12 ngetizatfu letingatiwa.
@@ -86,6 +87,8 @@ edit-trust-ca = Sitifiketi "{ $certName }" simele umtsetfo wesitifiketi.
 delete-user-cert-title =
     .title = Cisha titifiketi takho
 delete-user-cert-impact = Nawucisha sinye setitifiketi takho, ngeke usakwati kusisebentisa nawufuna kutibonakalisa.
+
+
 delete-email-cert-title =
     .title = Cisha titifiketi te-imeyili
 delete-email-cert-confirm = Ucinisekile ufuna kucisha letitifiketi talabantfu te-imeyili?
@@ -95,19 +98,26 @@ delete-email-cert-impact = Nawucisha sitifiketi se-imeyili, angeke usakhona kutf
 
 not-present =
     .value = <Akusiyo incenye ysitifiketi>
+
 # Cert verification
 cert-verified = Lesitifiketi sicinisekiswe ngalemisebenti lelandzelako:
+
 # Add usage
 verify-ssl-client =
     .value = Sitifiketi semtsengi SSL
+
 verify-ssl-server =
     .value = Silulu sesitifiketi SSL
+
 verify-ssl-ca =
     .value = Sitifiketi semtsetfo SSL
+
 verify-email-signer =
     .value = Umsayini sitifiketi we-imeyili
+
 verify-email-recip =
     .value = Sitifiketi salowamukela I-imeyili
+
 # Cert verification
 cert-not-verified-cert-revoked = Kumatima kucinisekisa lesitifiketi ngoba sicishiwe.
 cert-not-verified-cert-expired = Kumatima kucinisekisa lesitifiketi ngoba siphelelwe sikhatsi.

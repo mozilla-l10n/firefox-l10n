@@ -1,13 +1,7 @@
-<!ENTITY notificationsDialog.title "Umsindvo Weliposi Lelisha">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width "30em">
 
-<!ENTITY soundNotification.caption "Akha Umsindvo Weliposi Lelisha">
-<!ENTITY preview.label "Cala ubuke umsindvo">
-<!ENTITY preview.accesskey "b">
-<!ENTITY systemsound.label "Tinhlelo temsindvo Weliposi Lelisha">
-<!ENTITY systemsoundMac.label "Tinhlelo Temsindvo Wekucwayisa">
-<!ENTITY systemsound.accesskey "e">
-<!ENTITY customsound.label "Hlela .wav ifayela">
-<!ENTITY customsound.accesskey "H">
-<!ENTITY browse.label "Buka...">
-<!ENTITY browse.accesskey "B">

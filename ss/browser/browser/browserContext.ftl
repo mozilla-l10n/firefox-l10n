@@ -7,6 +7,7 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
 
@@ -14,6 +15,7 @@ toolbar-button-back =
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
 
@@ -42,9 +44,11 @@ toolbar-button-page-save =
 main-context-menu-open-link-new-tab =
     .label = Vula kuhlangana Kuthebhu Lensha
     .accesskey = K
+
 main-context-menu-open-link-new-window =
     .label = Vula kuhlangana Kuwindo Lensha
     .accesskey = K
+
 main-context-menu-save-link =
     .label = Seva Loluchumano…
     .accesskey = L
@@ -76,54 +80,72 @@ main-context-menu-copy-email =
 main-context-menu-image-view =
     .label = Buka Sitfombe
     .accesskey = S
+
 main-context-menu-image-copy =
     .label = Kopa Sitfombe
     .accesskey = S
+
 main-context-menu-image-copy-location =
     .label = Kopa Lendzawo Yesitfombe
     .accesskey = o
+
 main-context-menu-image-save-as =
     .label = Seva Lesitfombe njenge…
     .accesskey = a
+
 main-context-menu-image-set-as-background =
     .label = Misa njengebuso Bengcondvomshina…
     .accesskey = M
+
 main-context-menu-view-background-image =
     .label = Buka Umsuka Wesitfombe
     .accesskey = U
+
 main-context-menu-keyword =
     .label = Yengeta a ligamasikhiya kuloluphenyo…
     .accesskey = l
+
 main-context-menu-frame =
     .label = Lefulemu
     .accesskey = L
+
 main-context-menu-frame-open-tab =
     .label = Vula ifulemu Kuthebhu Lensha
     .accesskey = L
+
 main-context-menu-frame-open-window =
     .label = Vula Ifulemu Kuwindo Lensha
     .accesskey = L
+
 main-context-menu-frame-reload =
     .label = Layishela Ifulemu
     .accesskey = L
+
 main-context-menu-frame-save-as =
     .label = Seva Ifulemu njenge…
     .accesskey = I
+
 main-context-menu-frame-view-source =
     .label = Lunguta imvelaphi Yefulemu
     .accesskey = n
+
 main-context-menu-frame-view-info =
     .label = Buka Lwati Lwefulemui
     .accesskey = L
+
 main-context-menu-view-selection-source =
     .label = Buka imvelaphi Yekukhetfwa/phawulwa
     .accesskey = e
+
 main-context-menu-view-page-source =
     .label = Buka imvelaphi Yelipheji
     .accesskey = B
+
 main-context-menu-view-page-info =
     .label = Buka Lwati Lwelipheji
     .accesskey = L
+
 main-context-menu-bidi-switch-text =
     .label = Jikisa indlela yembhalo
     .accesskey = i
+

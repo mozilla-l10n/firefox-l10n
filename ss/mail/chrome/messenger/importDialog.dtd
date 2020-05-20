@@ -43,15 +43,22 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Tsenga kulelinye live">
-<!ENTITY importDialog.mailTitle "Liposi">
-<!ENTITY importDialog.addressbookTitle "Incwadzi yemakheli">
-<!ENTITY importDialog.settingsTitle "Tinhlelo">
 
 <!ENTITY importTitle.label "I&brandShortName; iwizadi yeliposi lengenisiwe">
-<!ENTITY importDesc.label "Liposi lelitsengwe kulelinye live, incwadzi yemakheli netinhlelo letisuka kuletinye tinhlelo">
 
-<!ENTITY importDescription.label "Lewizadi itawungenisa imilayeto yeliposi, lokufakwe encwadzini yemakheli, ne/nome lokunconotwako kuletinye tinhlelo teliposi nefomethi yetincwadzi temakheli letivamile ayise ku&brandShortName; Liposi.">
 <!ENTITY importDescription2.label "Tingaze nje tingeniswe, utakwati kutitfola ngekhatsi ku&brandShortName; Eposini nome-ke kuncwadzi yemakheli.">
 
 <!ENTITY selectDescription.label "Uyacelwa uphawule luhlelo longatsandza kulutsenga kulelinye live ususela kulo:">
@@ -66,8 +73,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Sihloko">
 <!ENTITY processing.label "Kutsenga kulelinye live...">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x sinayinye ikheli yekuposa yelikhadi ngalinye kantsi I&brandShortName; inamabili (likhaya nemsebenti).">
-<!ENTITY FieldDiscInputText2.label "Khetsa sigaba lotawutsandza kugcina kuso emakheli ekuposa latsengwe kulelinye live:">
-<!ENTITY FieldDiscWarning.label "Lesigaba sitawusetjentiswa kuko konkhe lokufakwako lokuphawuliwe kwencwadzi yekheli: ">
-<!ENTITY importDialog.homeTitle "Likhaya">
-<!ENTITY importDialog.workTitle "Umsebenti">

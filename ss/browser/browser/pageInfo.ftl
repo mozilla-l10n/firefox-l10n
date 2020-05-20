@@ -5,9 +5,11 @@
 menu-copy =
     .label = Kopa
     .accesskey = K
+
 menu-select-all =
     .label = Khetsa konkhe
     .accesskey = k
+
 general-type =
     .value = Luhlobo:
 general-mode =
@@ -20,6 +22,7 @@ general-modified =
     .value = Ulungisiwe:
 general-meta-content =
     .label = Lokucuketfwe
+
 media-alt-header =
     .label = Umbhalo lontjintjwako
 media-count =
@@ -47,9 +50,11 @@ media-object = Lutfo
 media-embed = Fakela ku
 media-link = Inkhomba
 media-input = Lwati lolungetiwe
+
 no-page-title =
     .value = Likhasi lelingenasihloko:
 general-quirks-mode =
     .value = Indlela lehlukile
 general-strict-mode =
     .value = Indlela levamile yemtsetfo
+

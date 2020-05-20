@@ -34,6 +34,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -41,7 +45,6 @@
 <!ENTITY windowTitle.label "Sitfombe setimphahla">
 
 <!ENTITY pixelsPopup.value "emaphikseli">
-<!ENTITY percentPopup.value "iphesenti">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Sitfombe sendzawo:">
@@ -57,7 +60,7 @@
 <!ENTITY noAltText.accessKey "U">
 
 <!ENTITY previewBox.label "Kulunguta sitfombe">
-<!ENTITY MoreFewerButton.tooltip "Khombisa lamanyenti nome lambalwa tintfo teku-edithwa">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -80,8 +83,6 @@
 <!ENTITY imagemapBox.label "Sitfombe selibalave">
 <!ENTITY removeImageMapButton.label "Susa">
 <!ENTITY removeImageMapButton.accessKey "S">
-<!ENTITY editImageMapButton.label "Editha...">
-<!ENTITY editImageMapButton.tooltip "Yakha lachafatekako nalashisako emabala alesitfombe">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Linganisa umbhalo nesitfombe">
@@ -93,7 +94,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Yakha tikhala">
-<!ENTITY spacingBox.tooltip "Thayipha inombolo yebungako besikhala lesitungelete sitfombe">
 <!ENTITY leftRightEditField.label "Sancele nesekudla:">
 <!ENTITY leftRightEditField.accessKey "S">
 <!ENTITY topBottomEditField.label "Etulu naphansi:">
@@ -106,10 +106,6 @@
 <!ENTITY showImageLinkBorder.accessKey "I">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "Yakha liphansi lelipheji">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Sebentisa sitfombe njengeliphansi lelipheji lakho">
-<!ENTITY editImageButton.label "Editha sitfombe">
-<!ENTITY editImageButton.tooltip "Editha lifayela lesitfombe kulolunye luhlelo">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Yakha">

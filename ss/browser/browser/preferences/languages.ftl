@@ -4,18 +4,23 @@
 
 languages-close-key =
     .key = w
+
 languages-customize-moveup =
     .label = Yenyuka
     .accesskey = k
+
 languages-customize-movedown =
     .label = Yewuka
     .accesskey = k
+
 languages-customize-remove =
     .label = Susa
     .accesskey = S
+
 languages-customize-add =
     .label = Yengeta
     .accesskey = Y
+
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -28,3 +33,4 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+

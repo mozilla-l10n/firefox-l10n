@@ -5,10 +5,13 @@
 pane-general-title = Lokuvamile
 category-general =
     .tooltiptext = { pane-general-title }
+
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = Vala
 
@@ -33,9 +36,11 @@ close-button =
 
 tabs-group-header = Emathebhu
 
+
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Tinhlobo & Imibala
+
 colors-settings =
     .label = Imibala…
     .accesskey = I
@@ -45,10 +50,13 @@ colors-settings =
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Lifayela { $extension }
+
 applications-select-helper = Khetsa kusetjentiswa kwekusita
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -60,16 +68,22 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -82,6 +96,7 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Tfunguluta
+
 browsing-use-smooth-scrolling =
     .label = Sebentisa kugicika lokushelelako
     .accesskey = s
@@ -107,16 +122,33 @@ browsing-use-smooth-scrolling =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
+## Sync section - enabling or disabling sync.
+
+## The list of things currently syncing.
+
+## The "Choose what to sync" dialog.
+
+## The device name controls.
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
 
+## Privacy Section - Logins and Passwords
+
 forms-master-pw-fips-title = Kwanyalo usesimeni se-FIPS. I-FIPS idzinga libitophawu lelikhulu lelinelutfo.
 forms-master-pw-fips-desc = Kwehlulekile kuguculwa kwelibitophawu
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -161,3 +193,4 @@ certs-header = Titifiketi
 
 desktop-folder-name = Busokhompyutha
 choose-download-folder-title = Khetsa ifolda yekulayisha:
+

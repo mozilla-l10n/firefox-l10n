@@ -29,33 +29,44 @@ config-column-chooser =
 config-copy-value =
     .label = Kopa Sisindvo
     .accesskey = S
+
 config-modify =
     .label = Lungisa
     .accesskey = L
+
 config-toggle =
     .label = Veletela
     .accesskey = V
+
 config-reset =
     .label = Setha kabusha
     .accesskey = S
+
 config-string =
     .label = Intsambo
     .accesskey = I
+
 config-integer =
     .label = Inthiga
     .accesskey = I
+
 config-boolean =
     .label = Umbhuliyeni
     .accesskey = U
+
 config-default = idifolthi
 config-locked = khiyiwe
+
 config-property-string = intsambo
 config-property-int = inthega
 config-property-bool = usomatamatisi
+
 config-new-prompt = Faka libito lelitsandvwako
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Lensha { $type } sisindvo
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Faka licabiso { $type }

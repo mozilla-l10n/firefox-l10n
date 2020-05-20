@@ -1,21 +1,15 @@
 
-<!ENTITY migrationWizard.title "Iwizadi yekungenisa">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY importFrom.label "Kutikhetsela kwekungenisa, Tinhlelo te-akhawunti, Incwadzi yemakheli nalenye idatha lesuka ku:">
-<!ENTITY importFromUnix.label "Lokunconotwako kwekungenisa, Tinhlelo te-akhawunti, Incwadzi yemakheli nalenye idatha lesuka ku:">
+
+<!ENTITY migrationWizard.title "Iwizadi yekungenisa">
 
 <!ENTITY importFromNothing.label "Ungangenisi lutfo">
 <!ENTITY importFromNothing.accesskey "U">
-<!ENTITY importFromSeamonkey.label "INetscape 6, 7 nome iMozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOExpress.label "Outlook Express">
-<!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "Outlook">
 <!ENTITY importFromOutlook.accesskey "O">
-<!ENTITY importFromEudora.label "Eudora">
-<!ENTITY importFromEudora.accesskey "E">
 
 <!ENTITY importSource.title "Ngenisa tinhlelo nemaFolda eLiposi lesuka ku">
 <!ENTITY importItems.title "Emaphuzu lafanele kungeniswa">

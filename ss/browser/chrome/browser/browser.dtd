@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -83,6 +84,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Imvelaphi Yelipheji">
 <!ENTITY pageSourceCmd.accesskey "m">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Lwatipheji">
 <!ENTITY pageInfoCmd.accesskey "L">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -118,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -196,6 +198,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!-- Toolbar items -->
+
 
 <!ENTITY homeButton.label             "Likhaya">
 
@@ -285,6 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "E">
 <!ENTITY viewSidebarMenu.label "Bhaceleni">
 <!ENTITY viewSidebarMenu.accesskey "B">
+
 <!ENTITY viewCustomizeToolbar.label       "Yetateta…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Y">
 
@@ -433,6 +437,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Vula kuhlangana Kuthebhu Lensha">
+
 <!ENTITY openLinkCmdInTab.accesskey   "K">
 <!ENTITY openLinkCmd.label            "Vula kuhlangana Kuwindo Lensha">
 <!ENTITY openLinkCmd.accesskey        "K">
@@ -452,7 +457,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Layishela Ifulemu">
 <!ENTITY reloadFrameCmd.accesskey     "L">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Buka imvelaphi Yekukhetfwa/phawulwa">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Buka imvelaphi YeMathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -528,6 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Lefulemu">
 <!ENTITY thisFrameMenu.accesskey          "L">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu

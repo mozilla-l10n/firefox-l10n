@@ -35,7 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label "Imininingwane lekunkhombasilulu">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY directoryName.label "Libito: ">
 <!ENTITY directoryName.accesskey "l">
 <!ENTITY directoryHostname.label "Libitolalovakashelwe: ">
@@ -48,12 +51,9 @@
 <!ENTITY directorySecure.accesskey "S">
 <!ENTITY directoryLogin.label "Hlanganisa DN: ">
 <!ENTITY directoryLogin.accesskey "l">
-<!ENTITY advancedOptionsButton.label "Kukhetsa lokutfutfukile">
-<!ENTITY advancedOptionsButton.accesskey "k">
 <!ENTITY General.tab "Lokuvamile">
 <!ENTITY Offline.tab "Akunaluchumano">
 <!ENTITY Advanced.tab "Lokutfutfukile">
-<!ENTITY advancedOptionsTitle.label "Kukhetsa lokutfutfukile">
 <!ENTITY portNumber.label "Inamba yephothi: ">
 <!ENTITY portNumber.accesskey "i">
 <!ENTITY searchFilter.label "Sesha ifiltha: ">
@@ -68,6 +68,7 @@
 <!ENTITY return.accesskey "l">
 <!ENTITY results.label "imiphumela">
 <!ENTITY offlineText.label "Ungalayisha ikhophi yendzawo yalenkhomba khona itosetjentiswa nakungenaluchumano.">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
