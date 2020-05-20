@@ -22,3 +22,6 @@ storage-table-type-indexeddb-hint = Vider e deler entratas de IndexedDB per sele
 # Hint shown when the cache storage type is selected. Clicking the link will open
 # https://developer.mozilla.org/docs/Tools/Storage_Inspector/Cache_Storage
 storage-table-type-cache-hint = Vider e deler le entratas del cache immagazinage per selection de un immagazinage. <a data-l10n-name="learn-more-link">Saper plus</a>
+# Hint shown when the extension storage type is selected. Clicking the link will open
+# https://developer.mozilla.org/docs/Tools/Storage_Inspector/Extension_Storage
+storage-table-type-extensionstorage-hint = Vider e rediger le immagazinage del extension per selection de un servitor hospite. <a data-l10n-name="learn-more-link">Saper plus</a>
