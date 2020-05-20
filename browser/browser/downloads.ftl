@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Thoma gape
     .accesskey = T
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Bula foltara ya go swara
     .accesskey = f
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Laetša go sehwetši
     .accesskey = s
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Laetša go sehwetši
            *[other] Bula foltara ya go swara
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] Laetša go sehwetši
            *[other] Bula foltara ya go swara
         }
+
 downloads-cmd-retry =
     .tooltiptext = Leka gape
 downloads-cmd-retry-panel =
@@ -61,16 +66,20 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Tloša ditaollo
     .accesskey = d
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Laetša ditaollo tšohle
     .accesskey = L
+
 downloads-clear-downloads-button =
     .label = Tloša ditaollo
     .tooltiptext = Go tloša go phethilwe, ditaollo tše khansetšwego le tše paletšwego
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Ga go na ditaollo.
+

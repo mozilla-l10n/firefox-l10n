@@ -5,10 +5,10 @@
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
+<!-- extracted from am-advanced.xhtml -->
+
 <!ENTITY smtpServer.label "Dipeakanyo tša Sebara ya go Tšwela ntle (SMTP)">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-
-<!ENTITY smtpDesc.label "Le ge e le gore o ka laetša sebara ya go tšwela ntle go feta e tee (SMTP), se se šišinyetšwa badiriši bao ba gatetšego pele feela. Go beakanyetša disebara tše ntši tša SMTP go ka hlola diphošo ge o romela melaetša.">
 
 <!ENTITY smtpListAdd.label "Lokela...">
 <!ENTITY smtpListAdd.accesskey "k">
@@ -23,4 +23,3 @@
 <!ENTITY serverName.label "Leina la Sebara: ">
 <!ENTITY serverPort.label "Phote: ">
 <!ENTITY userName.label "Leina la Modiriši: ">
-<!ENTITY useSecureConnection.label "Kgokaganyo ya go Šireletšega: ">

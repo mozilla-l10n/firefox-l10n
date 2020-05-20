@@ -10,15 +10,18 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Ditšwantle">
-<!ENTITY importDialog.mailTitle "Molaetša">
-<!ENTITY importDialog.addressbookTitle "Dipuku tša Diaterese">
-<!ENTITY importDialog.settingsTitle "Dipeakanyo">
 
 <!ENTITY importTitle.label "&brandShortName; Wisate ya Melaetša ya go tšwa ntle">
-<!ENTITY importDesc.label "Melaetša ya go tšwa ntle, Dipuku tša Diaterese le Dipeakanyo go tšwa go mananeo a mangwe">
 
-<!ENTITY importDescription.label "Wisate ye e tla amogela melaetša ye e rometšwego go tšwa ntle, ditsenywa tša puku ya diaterese, le/goba dipharologantšho go tšwa go mananeo a mangwe a melaetša le dibopego tša puku ya diaterese tše tlwaelegilego ka gare ga &brandShortName; Melaetša.">
 <!ENTITY importDescription2.label "Morago ga gore di amogelwe go tšwa ntle, o tla kgona go di fihlelela go tšwa ka gare &brandShortName; Melaetša le/goba Puku ya Diaterese.">
 
 <!ENTITY selectDescription.label "Ka kgopelo kgetha lenaneo go tšwa go leo o nyakago go di amogela go tšwa go lona:">
@@ -33,8 +36,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Thaetlele">
 <!ENTITY processing.label "Go amogela go tšwa ntle...">
 
-<!ENTITY FieldDiscInputText1.label "Sekgokagantšhi sa Netscape 4.x se na le lenaneo la diaterese go karata ye nngwe le ye nngwe, mola &brandShortName; le na le tše pedi (Lapeng le Mošomong).">
-<!ENTITY FieldDiscInputText2.label "Kgetha legoro leo o nyakago go boloka lenaneo la diaterese tšeo di amogetšwego go tšwa ntle:">
-<!ENTITY FieldDiscWarning.label "Legoro le le tla šomišetšwa ditsenywa ka moka tša puku ya diaterese yeo e kgethilwego: ">
-<!ENTITY importDialog.homeTitle "Lapeng">
-<!ENTITY importDialog.workTitle "Mošomo">

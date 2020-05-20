@@ -4,30 +4,35 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Thibela
     .accesskey = T
+
 permissions-session =
     .label = Dumelela nako
     .accesskey = n
+
 permissions-allow =
     .label = Dumelela
     .accesskey = D
+
 permissions-status =
     .label = Boemo
+
 permissions-button-cancel =
     .label = Khansela
     .accesskey = K
+
 permissions-capabilities-allow =
     .label = Dumelela
 permissions-capabilities-block =
     .label = Thibela
+
 permissions-capabilities-listitem-allow =
     .value = Dumelela
 permissions-capabilities-listitem-block =
     .value = Thibela
-permissions-capabilities-listitem-allow-first-party =
-    .value = Dumelela leloko la pele feela
 permissions-capabilities-listitem-allow-session =
     .value = Dumelela nako
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = O ka laetša gore ke diwepesaete dife tšeo
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

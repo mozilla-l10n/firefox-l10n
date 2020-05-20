@@ -94,6 +94,7 @@ print-window =
     .title = Go gatiša
 print-complete =
     .value = Kgatišo e feditšwe.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

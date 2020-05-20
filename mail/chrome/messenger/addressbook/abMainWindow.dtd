@@ -9,10 +9,6 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Mpsha">
 <!ENTITY newMenu.accesskey "M">
-<!ENTITY newCard.label "Karata-Puku ya Diaterese...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "Lenaneo la Diaterese...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
@@ -29,22 +25,11 @@
 <!ENTITY closeCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Peakanyoya Letlakala...">
 <!ENTITY printSetupCmd.accesskey "y">
-<!ENTITY printPreviewCardViewCmd.label "Karata ya Tebelelo pele ga Kgatišo">
-<!ENTITY printPreviewCardViewCmd.accesskey "l">
 <!ENTITY printPreviewAddressBook.label "Puku ya Aterese ya Tebelelo pele ga Kgatišo">
 <!ENTITY printPreviewAddressBook.accesskey "P">
-<!ENTITY printCardViewCmd.label "Karata ya Kgatišo...">
-<!ENTITY printCardViewCmd.accesskey "k">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Gatiša Puku ya Diaterese...">
 <!ENTITY printAddressBook.accesskey "P">
 
-<!ENTITY quitApplicationCmdWin.label "Etšwa">
-<!ENTITY quitApplicationCmdWin.accesskey "t">
-<!ENTITY quitApplicationCmd.label "Tlogela">
-<!ENTITY quitApplicationCmd.accesskey "T">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Rulaganya">
@@ -65,11 +50,8 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "k">
 <!ENTITY deleteCmd.label "Phumula">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "p">
 <!ENTITY deleteAbCmd.label "Phumula Puku ya Diaterese">
-<!ENTITY deleteCardCmd.label "Phumula Karata">
-<!ENTITY deleteCardsCmd.label "Phumula Dikarata tše di Kgethilwego">
 <!ENTITY selectAllCmd.label "Kgetha Ka moka">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -79,9 +61,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Dipharologantšho...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -95,12 +74,8 @@
 <!ENTITY showTaskbarCmd.accesskey "P">
 <!ENTITY customizeToolbar.label "Tlwaetša...">
 <!ENTITY customizeToolbar.accesskey "T">
-<!ENTITY showCardPane.label "Karata ya Galase ya go bontšha Kakaretšo">
-<!ENTITY showCardPane.accesskey "K">
 <!ENTITY menu_ShowNameAs.label "Laetša Fa Leina Go ba">
 <!ENTITY menu_ShowNameAs.accesskey "f">
-<!ENTITY firstLastCmd.label "Mathomo, Mafelelo">
-<!ENTITY firstLastCmd.accesskey "m">
 <!ENTITY lastFirstCmd.label "Mafelelo, Mathomo">
 <!ENTITY lastFirstCmd.accesskey "f">
 <!ENTITY displayNameCmd.label "Bontšha Leina">
@@ -120,48 +95,25 @@
 <!ENTITY importCmd.accesskey "A">
 <!ENTITY exportCmd.label "Romelantle...">
 <!ENTITY exportCmd.accesskey "R">
-<!ENTITY preferencesCmd.label "Dikgetho...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "D">
 <!ENTITY preferencesCmdUnix.label "Ditlhaolo">
 <!ENTITY preferencesCmdUnix.accesskey "o">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Thušo">
-<!ENTITY helpMenu.accesskey "T">
-<!ENTITY releaseCmd.label "Lokolla Dikgakollo">
-<!ENTITY releaseCmd.accesskey "L">
-<!ENTITY hintsAndTips.label "&brandShortName; Thuša">
-<!ENTITY hintsAndTips.accesskey "t">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Ka &brandShortName;">
-<!ENTITY aboutCmd.accesskey "K">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "Karata e Mpsha">
-<!ENTITY newcardButton.accesskey "K">
 <!ENTITY newlistButton.label "Lenaneo le Leswa">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "Dipharologantšho">
-<!ENTITY editButton.accesskey "D">
 <!ENTITY newmsgButton.label "Ngwala">
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY newIM.label "Molaetša wa Potlako">
 <!ENTITY newIM.accesskey "M">
-<!ENTITY deleteButton.label "Phumula">
-<!ENTITY deleteButton.accesskey "P">
-<!ENTITY throbberItem.title "Sešupa Tiro">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Hlama karata-puku ya diaterese e mpsha">
 <!ENTITY newlistButton.tooltip "Hlama lenaneo le lefsa">
-<!ENTITY editButton.tooltip "Rulaganya karata ye e kgethilwego">
 <!ENTITY newmsgButton.tooltip "Romela molaetša wa poso">
 <!ENTITY newIM.tooltip "Romela molaetša goba kgang ya potlako">
-<!ENTITY deleteButton.tooltip "Phumula karata goba puku ya diaterese ye e kgethilwego">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label "Dipuku tša Diaterese">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Leina goba Eposo">
@@ -175,8 +127,6 @@
 <!ENTITY GeneratedName.accesskey "L">
 <!ENTITY PrimaryEmail.label "Eposo">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Leina la Sekirini">
-<!ENTITY ScreenName.accesskey "L">
 <!ENTITY Company.label "Mokgahlo">
 <!ENTITY Company.accesskey "h">
 <!ENTITY NickName.label "Leina la dikwero">
@@ -205,16 +155,6 @@
 <!ENTITY _PhoneticName.accesskey "o">
 <!-- Results pane context menu -->
 
-<!ENTITY composeEmail.label "Hlama Eposo Go ya go">
-<!ENTITY composeEmail.accesskey "H">
-<!ENTITY deleteAddrBookCard.label "Phumula">
-<!ENTITY deleteAddrBookCard.accesskey "P">
-<!ENTITY newAddrBookCard.label "Karata e Mpsha...">
-<!ENTITY newAddrBookCard.accesskey "K">
-<!ENTITY newAddrBookMailingList.label "Mpsha Lenaneo la Diaterese...">
-<!ENTITY newAddrBookMailingList.accesskey "L">
-<!ENTITY addrBookCardProperties.label "Dipharologantšho">
-<!ENTITY addrBookCardProperties.accesskey "D">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -235,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY windowMenu.label "Lefasetere">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Fokotša">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Tliša ka moka ka Pele">
 <!ENTITY zoomWindow.label "Gola ka lebelo">

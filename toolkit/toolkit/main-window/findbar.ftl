@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = Hwetša tiragalo e latelago ya sekafoko
 findbar-previous =
     .tooltiptext = Hwetša tiragalo e fetilego ya sekafoko
+

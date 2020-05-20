@@ -3,22 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Melao ya Filthara">
-<!ENTITY subject.label "hlogo">
-<!ENTITY sender.label "moromedi">
-<!ENTITY date.label "tšatšikgwedi">
-<!ENTITY anyText.label "sengwalwa se sengwe le se sengwe">
-<!ENTITY keyword.label "lentšu la motheo">
-<!ENTITY age.label "mengwaga ka matšatši">
-<!ENTITY to.label "go ya go">
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "boemo">
-<!ENTITY priority.label "šedi ya pele">
-<!ENTITY body.label "mmele">
-<!ENTITY contains.label "e na le">
-<!ENTITY nocontains.label "ga e na le">
 <!ENTITY filterName.label "Leina la Filthara:">
 <!ENTITY filterName.accesskey "i">
 
@@ -31,12 +17,9 @@
 <!ENTITY highPriorityCmd.label "Godimo">
 <!ENTITY highestPriorityCmd.label "Godimodimo">
 
-<!ENTITY conditionDesc.label "Go melaetša yeo e tsenago ye e:">
 <!ENTITY filterActionDesc.label "Phetha ditiro tše:">
 <!ENTITY filterActionDesc.accesskey "P">
 
-<!ENTITY newFolderButton.label "Folthara e mpsha...">
-<!ENTITY newFolderButton.accesskey "F">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Move Message to">
@@ -45,7 +28,6 @@
 <!ENTITY replyWithTemplate.label "Reply with Template">
 <!ENTITY markMessageRead.label "Mark As Read">
 <!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Label Message As">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Tag Message">
 <!ENTITY setJunkScore.label "Set Junk Status to">
@@ -55,3 +37,8 @@
 <!ENTITY ignoreThread.label "Ignore Thread">
 <!ENTITY watchThread.label "Watch Thread">
 
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

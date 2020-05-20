@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Khutša
 pictureinpicture-play =
     .aria-label = Bapala
+
 pictureinpicture-mute =
     .aria-label = Homotša
 pictureinpicture-unmute =
     .aria-label = Homotšolla
+

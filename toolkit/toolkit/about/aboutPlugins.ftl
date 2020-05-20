@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Ka ga ditsebišo-koketšo
+
 installed-plugins-label = Ditsebišo-koketšo tše di loketšwego
 no-plugins-are-installed-label = Ga go a hwetšwa ditsebišo-koketšo tše loketšwego
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Naga:</span> Kgontšhitšwe
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Naga:</span> Kgontšhitšwe ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Naga:</span> Paledišitšwe
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Naga:</span> Paledišitšwe ({ $blockListState })
+
 mime-type-label = Mohuta wa MIME
 description-label = Tlhaloso
 suffixes-label = Meselana

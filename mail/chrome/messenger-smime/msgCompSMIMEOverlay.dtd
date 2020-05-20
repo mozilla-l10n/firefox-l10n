@@ -4,17 +4,14 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Tšhireletšo">
-<!ENTITY securityMenu.accesskey "š">
-
-<!ENTITY menu_securityEncryptIfPossible.label "Enkriptha ge go Kgonega">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "K">
-
 <!ENTITY menu_securityEncryptRequire.label "Enkriptha Molaetša Wo">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "O se ke wa Enkriptha Molaetša Wo">
-<!ENTITY menu_securityNoEncryption.accesskey "S">
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 <!ENTITY menu_securitySign.label "Saena Molaetša Wo ka tsela ya Titšithale">
 <!ENTITY menu_securitySign.accesskey "S">

@@ -9,16 +9,10 @@
 <!ENTITY neverEncrypt.label "Le gatee (se ke wa šomiša enkripšene)">
 <!ENTITY alwaysEncryptMessage.label "Nyakegago (ka se romele melaetša ka ntle ga ge baamogedi ka moka ba na le ditifikheiti)">
 <!ENTITY encryptionCert.message "Šomiša setifikheiti se go enkriptha &amp; se enkripthe melaetša yeo o e rometšwego:">
-<!ENTITY encryptionCert.notselected "Ga go setifikheiti seo se beilwego">
-<!ENTITY certificate.button "Kgetha...">
-<!ENTITY certificate_clear.button "Phumula">
+
 <!ENTITY signingGroupTitle.label "Go saena ka mokgwa wa Titšithale">
 <!ENTITY signMessage.label "Saena melaetša ka mokgwa wa titšithale (ka go se fetole)">
 <!ENTITY signingCert.message "Šomiša setifikheiti se go saena melaetša ka tsela ya titšithale yeo o e romelago:">
-<!ENTITY signingCert.notselected "Ga go setifikheiti seo se beilwego">
 
 <!ENTITY certificates.label "Ditifikheiti">
-<!ENTITY managecerts.label "View Certificates">
-<!ENTITY managecerts.accesskey "V">
-<!ENTITY managedevices.label "Security Devices">
-<!ENTITY managedevices.accesskey "S">
+

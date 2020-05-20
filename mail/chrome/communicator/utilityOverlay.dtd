@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Megala ya Kgokaganyo ga e šome">
-<!ENTITY offlineGoOfflineCmd.accesskey "m">
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 
@@ -31,18 +28,12 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "k">
 <!ENTITY deleteCmd.label "Phumula">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "p">
 <!ENTITY selectAllCmd.label "Kgetha ka Moka">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY preferencesCmd.label "Dikgetho...">
-<!ENTITY preferencesCmd.accesskey "D">
 <!ENTITY preferencesCmdUnix.label "Dipharologantšho">
 <!ENTITY preferencesCmdUnix.accesskey "l">
-
-<!ENTITY findTypeTextCmd.label "Hwetša Sengwalwa O le gare O Thaepa">
-<!ENTITY findTypeTextCmd.accesskey "l">
 
 <!ENTITY viewMenu.label "Lebelela">
 <!ENTITY viewMenu.accesskey "l">
@@ -50,19 +41,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "D">
 <!ENTITY showTaskbarCmd.label "Paa ya Boemo">
 <!ENTITY showTaskbarCmd.accesskey "P">
-
-<!ENTITY direct.label "Kgokagano ya megala e a šoma (proksi: ga go selo)">
-<!ENTITY direct.accesskey "g">
-<!ENTITY manual.label "Kgokagano ya megala e a šoma (proksi: ka diatla)">
-<!ENTITY manual.accesskey "k">
-<!ENTITY pac.label "Kgokagano ya megala e a šoma (proksi: othomethiki)">
-<!ENTITY pac.accesskey "o">
-
-<!ENTITY proxy.label "Proksi Peakanyo...">
-<!ENTITY proxy.accesskey "P">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Tswalela">
 <!ENTITY closeCmd.key "W">

@@ -5,6 +5,7 @@
 blocklist-accept =
     .label = Thoma { -brand-short-name } ka leswa
     .accesskey = T
+
 blocklist-blocked =
     .label = Thibetšwe
 blocklist-checkbox =

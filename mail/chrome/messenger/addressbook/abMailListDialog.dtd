@@ -3,22 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
 
-<!ENTITY mailListWindow.title "Lenaneo la Melaetša">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label "Lokela go: ">
 
+<!ENTITY addToAddressBook.accesskey "L">
 <!ENTITY ListName.label "Leina la Lenaneo: ">
+<!ENTITY ListName.accesskey "L">
 <!ENTITY ListNickName.label "Lenaneo Maina a dikwero: ">
+<!ENTITY ListNickName.accesskey "M">
 <!ENTITY ListDescription.label "Tlhaloso: ">
+<!ENTITY ListDescription.accesskey "h">
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Thaepa diaterese tša eposo go di hlakanyetša go lenaneo la diaterese:">
-<!ENTITY RemoveButton.label "Tloša">
 <!ENTITY UpButton.label "Šuthišetša Godimo">
 <!ENTITY DownButton.label "Šuthišetša Fase">
 <!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey "L">
-<!ENTITY ListName.accesskey "L">
-<!ENTITY ListNickName.accesskey "M">
-<!ENTITY ListDescription.accesskey "h">
 

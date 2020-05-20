@@ -26,6 +26,7 @@ import =
 close-button =
     .label = Tswalela
     .accesskey = T
+
 remove-all-passwords-prompt = Na o kgonthišegile gore o duma go tloša mantšuphetišo ohle?
 remove-all-passwords-title = Tloša mantšuphetišo ohle
 no-master-password-prompt = Na o kgonthišegile gore o duma go laetša mantšuphetišo a gago?

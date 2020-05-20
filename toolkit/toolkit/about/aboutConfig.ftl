@@ -32,39 +32,52 @@ config-copy-pref =
     .key = C
     .label = Kopolla
     .accesskey = K
+
 config-copy-value =
     .label = Kopolla Boleng
     .accesskey = B
+
 config-modify =
     .label = Kaonafatša
     .accesskey = K
+
 config-toggle =
     .label = Tobetša
     .accesskey = T
+
 config-reset =
     .label = Beakanya lefsa
     .accesskey = B
+
 config-new =
     .label = Mpsha
     .accesskey = M
+
 config-string =
     .label = Thapo
     .accesskey = T
+
 config-integer =
     .label = Selo se feleletšego
     .accesskey = S
+
 config-boolean =
     .label = Tatelanyo
     .accesskey = T
+
 config-default = tifolete
 config-locked = notletšwe
+
 config-property-string = thapo
 config-property-int = selo se feleletšego
 config-property-bool = tatelanyo
+
 config-new-prompt = Tsenya leina la pharologanyo
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Boleng bja { $type } e mpsha
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Tsenya boleng bja { $type }
