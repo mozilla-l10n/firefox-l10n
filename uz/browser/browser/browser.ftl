@@ -235,7 +235,7 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Kengaytma:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Manzil panelidagi manzilga o‘tish
 urlbar-page-action-button =
     .tooltiptext = Sahifa amallari
