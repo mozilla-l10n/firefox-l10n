@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Se le ha pedido que confíe en una nueva autoridad de certificación (CA).">
 <!ENTITY downloadCert.trustSSL "Confiar en esta CA para identificar sitios web.">
 <!ENTITY downloadCert.trustEmail "Confiar en esta CA para identificar usuarios de correo electrónico.">
-<!ENTITY downloadCert.trustObjSign "Confiar en esta CA para identificar fabricantes de software.">
 <!ENTITY downloadCert.message3 "Antes de confiar en esta CA para cualquier propósito, debería examinar su certificado, su política y procedimientos (si están disponibles).">
 <!ENTITY downloadCert.viewCert.label "Ver">
 <!ENTITY downloadCert.viewCert.text "Examinar certificado de CA">

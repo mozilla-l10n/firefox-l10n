@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = o
 appmenu-addon-private-browsing-message = Cualquier extensión nueva que agregue a { -brand-shorter-name } no funcionará en ventanas privadas a menos que lo permita en la configuración.
 appmenu-addon-private-browsing-learn-more = Aprenda a administrar la configuración de extensión.
+    
 appmenu-new-tab-controlled =
     .label = La nueva pestaña ha cambiado.
     .buttonlabel = Mantener cambios

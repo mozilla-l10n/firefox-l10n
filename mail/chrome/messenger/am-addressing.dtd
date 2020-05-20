@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Redacción y direcciones">
 <!ENTITY addressingGroupTitle.label "Direcciones">
 <!ENTITY addressingText.label      "Cuando se busquen direcciones:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Redacción">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Redactar mensajes en formato HTML">
 <!ENTITY useHtml.accesskey                    "R">
 <!ENTITY autoQuote.label                      "Citar automáticamente el mensaje original al responder">
 <!ENTITY autoQuote.accesskey                  "C">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Entonces,">
-<!ENTITY then.accesskey                       "t">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Cuando citando,">
 <!ENTITY quoting.accesskey                    "q">

@@ -13,9 +13,13 @@ create-profile-first-page-header =
         [macos] Introducción
        *[other] Bienvenido a { create-profile-window.title }
     }
+
 profile-creation-explanation-1 = { -brand-short-name } guarda información acerca de sus opciones y preferencias en su perfil personal.
+
 profile-creation-explanation-2 = Si está compartiendo { -brand-short-name } con otras personas bajo la misma cuenta de usuario de computadora, puede crear perfiles diferentes para mantener separada la información de cada persona. Para hacer esto, cada quien debería crear su propio perfil.
+
 profile-creation-explanation-3 = Si usted es la única persona que utiliza { -brand-short-name } bajo esta misma cuenta de usuario de computadora, debe tener al menos un perfil. De todas maneras, si así lo desea, puede crear múltiples perfiles para guardar diferentes configuraciones y preferencias. Por ejemplo, quizás le interese tener perfiles separados para uso personal y comercial.
+
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Para comenzar a crear su perfil, haga clic en Continuar.
@@ -29,15 +33,21 @@ create-profile-last-page-header =
         [macos] Conclusión
        *[other] Completando { create-profile-window.title }
     }
+
 profile-creation-intro = Si desea crear varios perfiles puede separarlos por su nombre. Puede usar el nombre provisto aquí o usar uno propio.
+
 profile-prompt = Ingrese nuevo nombre de perfil:
     .accesskey = e
+
 profile-default-name =
     .value = Usuario por defecto
+
 profile-directory-explanation = Sus opciones de usuario, preferencias, marcadores y otros datos de usuario se guardarán en:
+
 create-profile-choose-folder =
     .label = Seleccionar carpeta…
     .accesskey = c
+
 create-profile-use-default =
     .label = Usar carpeta predeterminada
     .accesskey = U

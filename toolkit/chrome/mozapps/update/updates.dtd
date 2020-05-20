@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; no pudo determinar si hay una actualización disponible. 
                                            Asegúrese de tener descargada la última versión desde:">
-
+                                           
 <!ENTITY  finishedPage.title              "Actualización lista para instalar">
 <!ENTITY  finishedPage.text               "La actualización será instalada la próxima vez que se inicie &brandShortName;.
                                            Puede reiniciar  &brandShortName; ahora o continuar trabajando y reiniciar luego.">
@@ -72,6 +72,3 @@
                                            &brandShortName; ahora, continuar trabajando y reiniciar después o rechazar esta
                                            actualización.">
 
-<!ENTITY  update.details.label            "Detalles">
-<!ENTITY  update.installedOn.label        "Instalada el:">
-<!ENTITY  update.status.label             "Estado:">

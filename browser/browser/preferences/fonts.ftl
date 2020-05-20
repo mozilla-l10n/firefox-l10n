@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fuentes
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuentes para
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arábigo
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Tamaño
     .accesskey = T
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monoespaciada
     .accesskey = M
+
 fonts-monospace-size = Tamaño
     .accesskey = a
+
 fonts-minsize = Tamaño mínimo de fuente
     .accesskey = o
+
 fonts-minsize-none =
     .label = Ninguno
+
 fonts-allow-own =
     .label = Permitir que las páginas elijan sus propias tipografías en lugar de las selecciones anteriores
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación de caracteres para contenido heredado
 fonts-languages-fallback-desc = Esta codificación de caracteres es usada para contenido heredado que falló en la declaración de su codificación.
+
 fonts-languages-fallback-label = Codificación de texto de emergencia
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Predeterminado de la localización actual
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Otro (incl. europeo occidental)
-fonts-very-large-warning-title = Tamaño mínimo de tipografía grande
-fonts-very-large-warning-message = Ha seleccionado un tamaño mínimo de tipografía muy grande (más de 24 píxeles). Esto puede hacer difícil o imposible el uso de algunas páginas de configuración importantes como esta.
-fonts-very-large-warning-accept = Mantener mis cambios de cualquier manera
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

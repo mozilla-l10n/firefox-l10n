@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Libreta de direcciones:">
 <!ENTITY editContactAddressBook.accesskey "a">
 
-<!ENTITY editContactPanelCancel.label "Cancelar">
-<!ENTITY editContactPanelCancel.accesskey "C">
-
 <!ENTITY editContactPanelDone.label "Listo">
 <!ENTITY editContactPanelDone.accesskey "L">
 
