@@ -4,6 +4,7 @@
 
 <!ENTITY sanitizeDialog2.title "Wyczyść historię przeglądania">
 
+<!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!ENTITY clearTimeDuration.label "Okres do wyczyszczenia: ">
 <!ENTITY clearTimeDuration.accesskey "O">
 <!ENTITY clearTimeDuration.lastHour "ostatnia godzina">

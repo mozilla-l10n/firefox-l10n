@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY mailListWindowAdd.title "Nowa lista dystrybucyjna">
+
 <!ENTITY addToAddressBook.label "Dodaj do: ">
 <!ENTITY addToAddressBook.accesskey "D">
 <!ENTITY ListName.label "Nazwa listy dystrybucyjnej:">

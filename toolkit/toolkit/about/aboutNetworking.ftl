@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Socket
 dns = DNS
-dnssuffix = Przyrostek DNS
 websockets = WebSocket
 refresh = Odśwież
 auto-refresh = Automatyczne odświeżanie co 3 sekundy
 hostname = Nazwa hosta
 port = Port
 http2 = HTTP/2
-about-networking-title = about:networking
-about-networking-http = HTTP
-about-networking-sockets = Socket
-about-networking-dns = DNS
-about-networking-dns-suffix = Przyrostek DNS
-about-networking-websockets = WebSocket
-about-networking-refresh = Odśwież
-about-networking-auto-refresh = Automatyczne odświeżanie co 3 sekundy
-about-networking-hostname = Nazwa hosta
-about-networking-port = Port
-about-networking-http-version = Wersja HTTP
 ssl = SSL
 active = Aktywnych
 idle = Bezczynnych
@@ -69,8 +57,18 @@ rcwn-avg-long = Długa średnia
 rcwn-std-dev-long = Odchylenie standardowe długiej
 rcwn-cache-slow = Powolne trafienia
 rcwn-cache-not-slow = Zwykłe trafienia
-networkid = Identyfikator sieci
-networkid-id = Identyfikator sieci
+
+about-networking-title = about:networking
+about-networking-http = HTTP
+about-networking-sockets = Socket
+about-networking-dns = DNS
+about-networking-dns-suffix = Przyrostek DNS
+about-networking-websockets = WebSocket
+about-networking-refresh = Odśwież
+about-networking-auto-refresh = Automatyczne odświeżanie co 3 sekundy
+about-networking-hostname = Nazwa hosta
+about-networking-port = Port
+about-networking-http-version = Wersja HTTP
 about-networking-ssl = SSL
 about-networking-active = Aktywnych
 about-networking-idle = Bezczynnych
@@ -118,8 +116,6 @@ about-networking-networkid-id = Identyfikator sieci
 
 ## Link is intended as "network link"
 
-networkid-isUp = Łącze jest aktywne
-networkid-statusKnown = Stan łącza jest nieznany
 about-networking-networkid-is-up = Łącze jest aktywne
 about-networking-networkid-status-known = Stan łącza jest nieznany
 

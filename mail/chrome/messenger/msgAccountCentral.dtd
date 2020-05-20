@@ -9,6 +9,12 @@
 <!ENTITY newsSectionHdr.label "Grupy dyskusyjne">
 <!ENTITY subscribeNewsLink.label "Subskrybuj grupę dyskusyjną">
 
+<!ENTITY feedsSectionHdr.label "Aktualności">
+<!ENTITY subscribeFeeds.label "Menedżer subskrypcji">
+
+<!ENTITY chat.label "Komunikator">
+<!ENTITY movemail.label "Movemail">
+
 <!ENTITY accountsSectionHdr.label "Konta">
 
 <!ENTITY subscribeImapFolders.label "Subskrybuj foldery">
@@ -21,8 +27,3 @@
 <!ENTITY junkSettings.label "Ustawienia niechcianej poczty">
 <!ENTITY offlineLink.label "Ustawienia offline">
 
-<!ENTITY feedsSectionHdr.label "Aktualności">
-<!ENTITY subscribeFeeds.label "Menedżer subskrypcji">
-
-<!ENTITY chat.label "Komunikator">
-<!ENTITY movemail.label "Movemail">

@@ -26,8 +26,8 @@
 <!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">
 <!ENTITY cmd.clearList.label "Wyczyść listę">
-<!ENTITY cmd.clearList.accesskey "z">
 <!ENTITY cmd.clearList.tooltip "Usunie z listy pozycje oznaczone jako ukończone, anulowane i nieudane">
+<!ENTITY cmd.clearList.accesskey "z">
 <!ENTITY cmd.find.commandkey "f">
 <!ENTITY cmd.search.commandkey "k">
 

@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Nie używaj proxy dla:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Przykład: .mozilla.org, .com.pl, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Użyj tego serwera proxy dla wszystkich protokołów">
+<!ENTITY  shareproxy.accesskey          "U">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Połączania z localhost, 127.0.0.1 i ::1 nigdy nie używają serwera proxy.">
-<!ENTITY  shareproxy.label              "Użyj tego serwera proxy dla wszystkich protokołów">
-<!ENTITY  shareproxy.accesskey          "U">
 <!ENTITY  proxyHttpSharing.label        "Użyj tego serwera proxy także dla HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "U">
 <!ENTITY  autologinproxy.label          "Nie pytaj o uwierzytelnianie, jeśli istnieje zachowane hasło">

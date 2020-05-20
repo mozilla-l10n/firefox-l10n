@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "n">
 <!ENTITY Birthday.label                 "Urodziny:">
 <!ENTITY Birthday.accesskey             "U">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "miesiąc">
 <!ENTITY Day.placeholder                "dzień">
 <!ENTITY Year.placeholder               "rok">
-<!ENTITY Or.value                       "lub">
 <!ENTITY Age.label                      "Wiek:">
 <!ENTITY Age.placeholder                "wiek">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Służbowy">
 <!ENTITY Work.accesskey                 "S">

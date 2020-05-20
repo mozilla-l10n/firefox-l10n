@@ -7,14 +7,13 @@
 
 <!ENTITY editContactName.label "Wyświetlaj jako:">
 <!ENTITY editContactName.accesskey "W">
+
 <!ENTITY editContactEmail.label "E-mail:">
 <!ENTITY editContactEmail.accesskey "E">
 
 <!ENTITY editContactAddressBook.label "Książka adresowa:">
 <!ENTITY editContactAddressBook.accesskey "K">
 
-<!ENTITY editContactPanelCancel.label "Anuluj">
-<!ENTITY editContactPanelCancel.accesskey "A">
 <!ENTITY editContactPanelDone.label "Zapisz">
 <!ENTITY editContactPanelDone.accesskey "Z">
 

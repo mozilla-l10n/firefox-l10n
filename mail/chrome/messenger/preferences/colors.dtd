@@ -8,6 +8,7 @@
 
 <!ENTITY overridePageColors.label "Nadpisuj kolory określone w treści wybranymi poniżej:">
 <!ENTITY overridePageColors.accesskey "N">
+
 <!ENTITY overridePageColors.always.label "Zawsze">
 <!ENTITY overridePageColors.auto.label "Tylko w motywach o wysokim kontraście">
 <!ENTITY overridePageColors.never.label "Nigdy">

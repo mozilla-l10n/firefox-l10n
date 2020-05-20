@@ -7,7 +7,9 @@ about-config-warning-title = Uwaga, niebezpieczeństwo!
 about-config-warning-text = Modyfikacja tych ustawień może spowodować problemy, takie jak utrata stabilności i wydajności programu oraz zagrożenie bezpieczeństwa. Kontynuuj tylko wtedy, gdy masz pewność tego, co robisz.
 about-config-warning-checkbox = Wyświetlanie tego ostrzeżenia za każdym razem
 about-config-warning-button = Akceptuję ryzyko
+
 about-config2-title = Konfiguracja zaawansowana
+
 about-config-search-input =
     .placeholder = Szukaj
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Akceptuję ryzyko, kontynuuj
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Modyfikacja tych preferencji może wpłynąć na wydajność lub bezpieczeństwo przeglądarki { -brand-short-name }.
+
 about-config-page-title = Preferencje zaawansowane
+
 about-config-search-input1 =
     .placeholder = Szukaj preferencji
 about-config-show-all = Wyświetl wszystko
+
 about-config-pref-add = Dodaj
 about-config-pref-toggle = Przełącz
 about-config-pref-edit = Edytuj
 about-config-pref-save = Zapisz
 about-config-pref-reset = Resetuj
 about-config-pref-delete = Usuń
+
 about-config-pref-add-button =
     .title = Dodaj
 about-config-pref-toggle-button =

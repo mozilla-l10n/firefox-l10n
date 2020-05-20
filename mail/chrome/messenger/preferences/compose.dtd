@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Czcionka:">
 <!ENTITY font.accesskey "C">
-<!ENTITY size.label "Rozmiar:">
-<!ENTITY size.accesskey "R">
 <!ENTITY fontSize.label "Rozmiar:">
 <!ENTITY fontSize.accesskey "R">
 <!ENTITY useReaderDefaults.label "Używaj domyślnych kolorów czytelnika">
