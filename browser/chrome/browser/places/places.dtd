@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Yeni mötərizə">
 <!ENTITY cmd.new_separator.accesskey       "Y">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Canlı Əlfəcini Yenilə">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "Y">
-
-<!ENTITY cmd.moveBookmarks.label                  "Köçür…">
-<!ENTITY cmd.moveBookmarks.accesskey              "K">
-
 <!ENTITY col.name.label          "Ad">
 <!ENTITY col.tags.label          "Etiketlər">
 <!ENTITY col.url.label           "Ünvan">
 <!ENTITY col.mostrecentvisit.label "Ən son ziyarət">
 <!ENTITY col.visitcount.label    "Baxış sayı">
-<!ENTITY col.description.label   "Açıqlama">
 <!ENTITY col.dateadded.label     "Əlavə etmə tarixi">
 <!ENTITY col.lastmodified.label  "Son dəyişiklik">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "İrəli get">
 
-<!ENTITY detailsPane.more.label "Daha çox məlumat">
-<!ENTITY detailsPane.more.accesskey "a">
-<!ENTITY detailsPane.less.label "Daha az məlumat">
-<!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.selectAnItemText.description "Xüsusiyyətlərini görmək və dəyişmək üçün bir obyekt seçin">
 
 <!ENTITY view.label               "Görünüş">

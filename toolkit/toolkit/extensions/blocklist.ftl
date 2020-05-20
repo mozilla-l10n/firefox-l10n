@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = { -brand-short-name } yenidən başlasın
     .accesskey = b
+
 blocklist-label-summary = { -brand-short-name } aşağıdakı əlavələrin qərarlılıq və təhlükəsizlik problemlərinə səbəb olduğunu təyin etdi:
 blocklist-soft-and-hard = Yüksək dərəcədə qərarlılıq və ya təhlükəsizlik problemi yarada biləcək əlavələr söndürüldü. Digərləri daha az təhlükəlidir, ancaq onları da söndürüb proqramı yenidən başlatmanız qətiyyətlə tövsiyə edilir.
 blocklist-hard-blocked = Bu əlavələr yüksək dərəcədə qərarlılıq və təhlükəsizlik problemi yarada biləcəyinə görə söndürüldü, ancaq tamamilə təsirsiz hala gəlməsi üçün proqramın yenidən başladılması lazımdır.
 blocklist-soft-blocked = Təhlükəsizliyiniz üçün bu əlavələri söndürüb proqramı yenidən başlatmanız tövsiyə edilir.
 blocklist-more-information =
     .value = Daha çox məlumat
+
 blocklist-blocked =
     .label = İcazə verilmədi
 blocklist-checkbox =

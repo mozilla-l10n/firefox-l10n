@@ -8,6 +8,7 @@ password-quality-meter = Parolun keyfiyyəti
 
 change-password-window =
     .title = Ana Parolu Dəyiş
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Təhlükəsizlik cihazları: { $tokenName }

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = Raportunuzu göndərərkən xəta oldu. Lütfən daha sonra təkrar yoxlayın.
+
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Sayt düzəldi? Bizə xəbər edin
 

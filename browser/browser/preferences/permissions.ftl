@@ -5,43 +5,57 @@
 permissions-window =
     .title = İstisnalar
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sayt ünvanı
     .accesskey = S
+
 permissions-block =
     .label = Blokla
     .accesskey = B
+
 permissions-session =
     .label = Bu seans üçün icazə ver
     .accesskey = r
+
 permissions-allow =
     .label = İcazə ver
     .accesskey = a
+
 permissions-site-name =
     .label = Sayt
+
 permissions-status =
     .label = Durum
+
 permissions-remove =
     .label = Saytı sil
     .accesskey = S
+
 permissions-remove-all =
     .label = Bütün saytları sil
     .accesskey = s
+
 permissions-button-cancel =
     .label = Ləğv et
     .accesskey = L
+
 permissions-button-ok =
     .label = Dəyişiklikləri Yadda Saxla
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = Saytda Axtar
+
 permissions-capabilities-allow =
     .label = İcazə ver
 permissions-capabilities-block =
     .label = Blokla
 permissions-capabilities-prompt =
     .label = Həmişə soruş
+
 permissions-capabilities-listitem-allow =
     .value = İcazə ver
 permissions-capabilities-listitem-block =

@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - İstifadəçi profili seçin
+
 profile-selection-button-accept =
     .label = { -brand-short-name } proqramını başlat
+
 profile-selection-button-cancel =
     .label = Çıxış
+
 profile-selection-new-button =
     .label = Profil yarad…
     .accesskey = o
+
 profile-selection-rename-button =
     .label = Profil adını dəyişdir…
     .accesskey = d
+
 profile-selection-delete-button =
     .label = Profili sil…
     .accesskey = s
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } nizamlarınız, seçimləriniz və istifadəçi profilinizdəki digər elementlərlə bağlı məlumatları yadda saxlayır.
+
 profile-manager-work-offline =
     .label = Oflayn işlə
     .accesskey = e
+
 profile-manager-use-selected =
     .label = Seçilmiş hesabı başlanğıcda soruşmadan istifadə et
     .accesskey = s

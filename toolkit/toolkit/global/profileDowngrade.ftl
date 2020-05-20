@@ -5,8 +5,10 @@
 profiledowngrade-window =
     .title = { -brand-product-name }-un köhnə versiyasını başlatdınız
     .style = width: 490px;
+
 profiledowngrade-window-create =
     .label = Yeni Profil Yarat
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

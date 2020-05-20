@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Yeni Məxfi Pəncərədə Aç
     .accesskey = M
+
 places-new-bookmark =
     .label = Yeni Əlfəcin…
     .accesskey = Ə
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Yeni mötərizə
     .accesskey = Y
+
 places-view =
     .label = Görünüş
     .accesskey = G
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Tarix və sayt
     .accesskey = T
+
 places-history-search =
     .placeholder = Tarixçədə axtar
 places-bookmarks-search =
     .placeholder = Əlfəcinlərdə Axtar
+
 places-delete-domain-data =
     .label = Bu saytı unut
     .accesskey = u

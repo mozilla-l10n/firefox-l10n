@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; Haqqında">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; eksperimentaldır və qərarsız ola bilər.">
-<!ENTITY aboutPage.telemetryStart               " Performans, avadanlıq, istifadə və şəxsiləşdirmə ilə bağlı bəzi məlumatları avtomatik olaraq ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " serverlərinə göndərərək &brandShortName; səyyahını yaxşılaşdırır.">
 <!ENTITY aboutPage.checkForUpdates.link         "Yeniləmələri yoxla »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Yeniləmə axtarılır…">
 <!ENTITY aboutPage.checkForUpdates.none         "Yeniləmə mövcud deyil">

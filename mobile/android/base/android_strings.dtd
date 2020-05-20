@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Şəkilləri söndürərək ziyarət etdiyiniz hər saytda daha az data xərcləyin.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message3 "Əlfəcin, tarixçə və parollarınızı telefonunuza sinxronlaşdırın.">
-<!ENTITY updatednewfirstrun_sync_title "Hesab">
-<!ENTITY firstrun_sync_message2 "Qaldığınız yerdən davam edin.">
 <!ENTITY firstrun_sync_subtext2 "Sync ilə istədiyiniz cihazınızdan &brandShortName; səyyahına saxladığınız əlfəcin, parol və digər şeyləri rahatlıqla tapın.">
 <!ENTITY newfirstrun_sync_subtext "Mobil cihazınızda qeyd etdiklərinizi məxfi və təhlükəsiz şəkildə kompüterinizdəki Firefox ilə sinxronlaşdırın.">
 <!ENTITY firstrun_sendtab_title "Vərəqi Göndər">
 <!ENTITY firstrun_sendtab_message "Telefonunuzdakı vərəqləri ani olaraq kompüterinizə göndərin.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; səyyahınızı tam işlətmək üçün hesabınıza daxil olun">
 <!ENTITY firstrun_signin_message "Qoşul, Başla">
-<!ENTITY firstrun_signin_button "Sync-ə Daxil ol">
-<!ENTITY newfirstrun_signin_button "Sinxronlaşdırmanı aktivləşdir">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; səyyahına daxil ol">
 <!ENTITY  onboard_start_button_browser "Səyahətə Başla">
 <!ENTITY firstrun_button_notnow "İndi deyil">
 <!ENTITY firstrun_button_next "İrəli">
 <!ENTITY firstrun_signup_button "Qeyd ol">
-
-<!ENTITY firstrun_signin_button2 "Daxil ol">
 
 <!ENTITY firstrun_tabqueue_title "Keçidlər">
 
@@ -480,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Mövqe Xidməti işləyir">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Avtomatik yeniləmələr">
-<!ENTITY pref_update_autodownload_wifi "Yalnız Wi-Fi üzərindən">
-<!ENTITY pref_update_autodownload_never "Heç vaxt">
-<!ENTITY pref_update_autodownload_always "Həmişə">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Kömək">
 
@@ -753,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Əlfəcinlər və tarixçə">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; üçün yeniləmə mövcuddur">
-<!ENTITY updater_start_select2 "Endirmək üçün toxunun">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; endirilir">
-<!ENTITY updater_downloading_title_failed2 "Endirmə uğursuz oldu">
-<!ENTITY updater_downloading_select2 "Endirildikdən sonra yeniləməli tətbiq etmək üçün toxunun">
-<!ENTITY updater_downloading_retry2 "Yenidən yoxlamaq üçün toxunun">
-
-<!ENTITY updater_apply_title3 "&brandShortName; üçün yeniləmə endirildi">
-<!ENTITY updater_apply_select3 "Quraşdırmaq üçün toxunun">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Fayl və yeniləmələri endirmək üçün &brandShortName; səyyahına yadda icazəsi verin.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "İcazə ver">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Yeni Qonaq Sessiyası">
 <!ENTITY exit_guest_session "Qonaq Sessiyasında Çıx">
@@ -891,8 +856,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Daxil ol.">
 
-<!ENTITY activity_stream_signin_button "Daxil ol">
-
 <!ENTITY activity_stream_topsites "Qabaqcıl Saytlar">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; məsləhət görür">
@@ -950,7 +913,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Səs və video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; məsləhətlər və qısa həllər">
-<!ENTITY updater_notification_channel "Tətbiq yeniləmələri">
 <!ENTITY synced_tabs_notification_channel "Sinxronlaşdırılmış vərəqlər">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Sinxronlaşır…
 fxa-toolbar-sync-syncing-tabs =
     .label = Vərəqlər sinxronlaşdırılır…
+
 sync-disconnect-dialog-title = { -sync-brand-short-name } ilə əlaqə kəsilsin?
 fxa-disconnect-dialog-title = { -brand-product-name } ilə əlaqə kəsilsin?
 sync-disconnect-dialog-button = Əlaqəni kəs

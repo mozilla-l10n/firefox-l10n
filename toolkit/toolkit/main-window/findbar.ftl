@@ -9,12 +9,10 @@ findbar-next =
     .tooltiptext = Bir sonrakı uyğun gələn ifadəni tap
 findbar-previous =
     .tooltiptext = Bir öncəki uyğun gələn ifadəni tap
+
 findbar-find-button-close =
     .tooltiptext = Axtarış sətrini bağla
-findbar-highlight-all =
-    .label = Hamısını işıqlandır
-    .accesskey = l
-    .tooltiptext = Mətndə uyğun gələn bütün ifadələri işıqlandır
+
 findbar-highlight-all2 =
     .label = Hamısını işıqlandır
     .accesskey =
@@ -23,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = İfadənin olduğu hər yeri işıqlandır
+
 findbar-case-sensitive =
     .label = Reqistri nəzərə al
     .accesskey = n
     .tooltiptext = Böyük/kiçik hərf həssaslığı ilə axtar
+
 findbar-entire-word =
     .label = Tam Sözlər
     .accesskey = T

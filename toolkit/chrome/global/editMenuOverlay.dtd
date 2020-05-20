@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Hamısını Seç">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "H">
+
 <!ENTITY findCmd.label             "Tap">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "T">

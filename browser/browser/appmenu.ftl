@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Başqa səyyahdan idxal et…
 appmenuitem-protection-report-title = Məxfilik Qorumaları
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Məxfilik hesabatınıza gedin

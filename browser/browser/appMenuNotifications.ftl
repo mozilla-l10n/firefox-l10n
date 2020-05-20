@@ -46,6 +46,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = T
 appmenu-addon-private-browsing-message = { -brand-shorter-name } səyyahına əlavə etdiyiniz yeni uzantılar bu tənzimləmədə icazə vermənizə qədər Məxfi Pəncərələrdə işləməyəcəklər.
 appmenu-addon-private-browsing-learn-more = Uzantı tənzimləmələrini necə idarə edəcəyinizi öyrənin.
+    
 appmenu-new-tab-controlled =
     .label = Yeni Vərəqiniz dəyişdirildi.
     .buttonlabel = Dəyişiklikləri saxla

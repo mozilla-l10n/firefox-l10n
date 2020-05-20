@@ -9,9 +9,13 @@
 
 title = Vacib Xəbərlər
 heading = { -brand-short-name } profilinizə aid dəyişikliklər
+
 changed-title = Nələr dəyişdi?
+
 options-title = Seçimlərim nələrdir?
+
 resources = Mənbələr:
+
 sync-header = Daxil olun və ya { -fxaccount-brand-name } yaradın
 sync-label = E-poçtunuzu daxil edin
 sync-input =

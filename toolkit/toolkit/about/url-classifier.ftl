@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Təhlükəsiz Səyahət gündəliyi modulları
 url-classifier-debug-modules = Hazırkı qeydiyyat modulları
 url-classifier-debug-sbjs-modules = Təhlükəsiz Səyahət JS gündəliyi
 url-classifier-debug-file = Hazırkı qeydiyyat faylı
+
 url-classifier-trigger-update = Yeniləməni Tətiklə
 url-classifier-not-available = Yoxdur
 url-classifier-disable-sbjs-log = Təhlükəsiz Səyahətdə JS gündəliyini söndür
