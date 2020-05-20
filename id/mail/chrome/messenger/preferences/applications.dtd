@@ -29,9 +29,6 @@
 <!ENTITY addCloudFileAccount.description  "Tambakan layanan penyimpanan Filelink">
 <!ENTITY removeCloudFileAccount.label     "Hapus">
 <!ENTITY removeCloudFileAccount.accesskey "H">
-<!ENTITY authRequired.description         "Otorisasi diperlukan untuk menampilkan setelan layanan penyimpanan ini.">
-<!ENTITY authRequired.button.label        "Otorisasi">
-<!ENTITY authRequired.button.accesskey    "O">
 
 <!ENTITY enableCloudFileAccountOffer.label "Menawarkan untuk berbagi berkas dengan ukuran lebih dari">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

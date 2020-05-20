@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Pindah ke alamat di Bilah Lokasi">
+
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
 
@@ -353,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "K">
 <!ENTITY manageUserContext.label          "Kelola Kontainer">
 <!ENTITY manageUserContext.accesskey      "K">
+
 <!ENTITY newNavigatorCmd.label        "Jendela Baru">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "J">
@@ -631,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Simpan ke Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Simpan Laman ke Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Simpan Tautan ke Pocket">
@@ -1023,6 +1026,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "29em">
+
 
 <!ENTITY uiTour.infoPanel.close "Tutup">
 

@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Pemutakhiran Parsial tidak dapat diaplikasikan. &brandShortName; akan mencoba lagi dengan mengunduh pemutakhiran lengkap.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; tidak dapat mengetahui apakah pemutakhiran tersedia. Pastikan Anda menggunakan versi terbaru &brandShortName; lewat:">
-
+                                           
 <!ENTITY  finishedPage.title              "Pemutakhiran Siap Dipasang">
 <!ENTITY  finishedPage.text               "Pemutakhiran akan dipasang saat &brandShortName; dibuka lagi. Anda dapat memulai ulang &brandShortName; sekarang juga atau tetap bekerja dan memulai ulang nanti.">
 
@@ -54,6 +54,3 @@
                                            &brandShortName; sekarang juga, melanjutkan pekerjaan dan memulai ulang nanti, atau menolak 
                                            pemutakhiran ini.">
 
-<!ENTITY  update.details.label            "Detail">
-<!ENTITY  update.installedOn.label        "Dipasang pada:">
-<!ENTITY  update.status.label             "Status:">

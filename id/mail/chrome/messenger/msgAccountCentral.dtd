@@ -18,7 +18,6 @@
 <!ENTITY accountsSectionHdr.label     "Akun">
 <!ENTITY subscribeImapFolders.label   "Kelola langganan folder">
 <!ENTITY settingsLink.label           "Tampilkan pengaturan akun ini">
-<!ENTITY newAcctLink.label            "Buat akun baru">
 
 
 <!ENTITY advFeaturesSectionHdr.label  "Fitur Canggih">

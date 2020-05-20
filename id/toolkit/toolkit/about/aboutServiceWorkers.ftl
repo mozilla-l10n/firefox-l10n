@@ -9,17 +9,12 @@ about-service-workers-title = Tentang Service Worker
 about-service-workers-main-title = Service Worker Terdaftar
 about-service-workers-warning-not-enabled = Service Worker tidak diaktifkan.
 about-service-workers-warning-no-service-workers = Tidak ada Service Worker terdaftar.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Sumber: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = ID Aplikasi { -brand-short-name } { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Nama Tembolok Aktif:</strong> { $name }
 waiting-cache-name = <strong>Nama Tembolok Menunggu:</strong> { $name }
 push-end-point-waiting = <strong>Endpoint Push:</strong> { waiting }
 push-end-point-result = <strong>Endpoint Push:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Perbarui
+
 unregister-button = Batalkan Pendaftaran
+
 unregister-error = Gagal membatalkan pendaftaran Service Worker ini.
+
 waiting = Menunggu…

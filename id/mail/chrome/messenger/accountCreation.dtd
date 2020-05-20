@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Atur Akun Email yang Sudah Ada">
+
 <!ENTITY name.label                      "Nama Anda:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Nama Lengkap">

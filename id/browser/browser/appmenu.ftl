@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Impor dari Peramban Lain…
 appmenuitem-protection-report-title = Perlindungan Privasi
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Buka laporan privasi Anda

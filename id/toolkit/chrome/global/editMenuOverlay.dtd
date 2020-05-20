@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Pilih Semua">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Cari">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "C">

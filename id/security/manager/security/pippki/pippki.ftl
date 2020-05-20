@@ -8,6 +8,7 @@ password-quality-meter = Ukuran kualitas sandi
 
 change-password-window =
     .title = Ubah Sandi Utama
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Perangkat Keamanan: { $tokenName }

@@ -32,34 +32,3 @@
 <!ENTITY deleteCardButton.label      "Hapus">
 <!ENTITY abSearchDialogTitle.label   "Pencarian Canggih Daftar Alamat">
 
-<!-- Thread Pane -->
-<!ENTITY threadColumn.label "Utas">
-<!ENTITY fromColumn.label "Dari">
-<!ENTITY recipientColumn.label "Penerima">
-<!ENTITY subjectColumn.label "Subjek">
-<!ENTITY dateColumn.label "Tanggal">
-<!ENTITY priorityColumn.label "Prioritas">
-<!ENTITY tagsColumn.label "Tag">
-<!ENTITY accountColumn.label "Akun">
-<!ENTITY statusColumn.label "Status">
-<!ENTITY sizeColumn.label "Besar">
-<!ENTITY junkStatusColumn.label "Status Junk">
-<!ENTITY unreadColumn.label "Belum dibaca">
-<!ENTITY totalColumn.label "Total">
-<!ENTITY readColumn.label "Baca">
-<!ENTITY receivedColumn.label "Diterima">
-<!ENTITY starredColumn.label "Berbintang">
-<!ENTITY locationColumn.label "Lokasi">
-<!ENTITY idColumn.label "Urut berdasarkan Diterima">
-
-<!-- Thread Pane Tooltips -->
-<!ENTITY recipientColumn2.tooltip "Urut berdasarkan penerima">
-<!ENTITY subjectColumn2.tooltip "Urut berdasarkan subjek">
-<!ENTITY dateColumn2.tooltip "Urut berdasarkan tanggal">
-<!ENTITY priorityColumn2.tooltip "Urut berdasarkan prioritas">
-<!ENTITY accountColumn2.tooltip "Urut berdasarkan akun">
-<!ENTITY statusColumn2.tooltip "Urut berdasarkan status">
-<!ENTITY sizeColumn2.tooltip "Urut berdasarkan ukuran">
-<!ENTITY receivedColumn2.tooltip "Urut berdasarkan tanggal diterima">
-<!ENTITY starredColumn2.tooltip "Urut berdasarkan bintang">
-<!ENTITY locationColumn2.tooltip "Urut berdasarkan lokasi">

@@ -17,8 +17,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Huruf:">
 <!ENTITY font.accesskey                       "H">
-<!ENTITY size.label                           "Ukuran:">
-<!ENTITY size.accesskey                       "U">
 <!ENTITY fontColor.label                      "Warna Teks:">
 <!ENTITY fontColor.accesskey                  "W">
 <!ENTITY bgColor.label                        "Warna Latar Belakang:">

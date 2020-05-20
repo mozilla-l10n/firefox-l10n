@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Modul log Penjelajahan Aman
 url-classifier-debug-modules = Modul log terkini
 url-classifier-debug-sbjs-modules = Log Safe Browsing JS
 url-classifier-debug-file = Berkas log saat ini
+
 url-classifier-trigger-update = Pemutakhiran Pemicu
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Nonaktifkan Log JS Penjelajahan Aman

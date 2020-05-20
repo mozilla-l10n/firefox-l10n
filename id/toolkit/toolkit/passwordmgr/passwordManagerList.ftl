@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Tutup
     .accesskey = T
+
 show-passwords =
     .label = Tampilkan Sandi
     .accesskey = T

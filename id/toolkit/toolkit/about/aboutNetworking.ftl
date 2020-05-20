@@ -9,24 +9,12 @@ ok = Oke
 http = HTTP
 sockets = Soket
 dns = DNS
-dnssuffix = Akhiran DNS
 websockets = WebSocket
 refresh = Segarkan
 auto-refresh = Segarkan otomatis tiap 3 detik
 hostname = Nama host
 port = Port
 http2 = HTTP/2
-about-networking-title = Tentang Jaringan
-about-networking-http = HTTP
-about-networking-sockets = Soket
-about-networking-dns = DNS
-about-networking-dns-suffix = Akhiran DNS
-about-networking-websockets = WebSocket
-about-networking-refresh = Segarkan
-about-networking-auto-refresh = Segarkan otomatis tiap 3 detik
-about-networking-hostname = Nama host
-about-networking-port = Port
-about-networking-http-version = Versi HTTP
 ssl = SSL
 active = Aktif
 idle = Menganggur
@@ -69,8 +57,18 @@ rcwn-avg-long = Rata-rata Panjang
 rcwn-std-dev-long = Deviasi Standar Panjang
 rcwn-cache-slow = Tembolok hitung lambat
 rcwn-cache-not-slow = Tembolok hitung tidak lambat
-networkid = ID jaringan
-networkid-id = ID jaringan
+
+about-networking-title = Tentang Jaringan
+about-networking-http = HTTP
+about-networking-sockets = Soket
+about-networking-dns = DNS
+about-networking-dns-suffix = Akhiran DNS
+about-networking-websockets = WebSocket
+about-networking-refresh = Segarkan
+about-networking-auto-refresh = Segarkan otomatis tiap 3 detik
+about-networking-hostname = Nama host
+about-networking-port = Port
+about-networking-http-version = Versi HTTP
 about-networking-ssl = SSL
 about-networking-active = Aktif
 about-networking-idle = Menganggur
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID jaringan
 
 ## Link is intended as "network link"
 
-networkid-isUp = Sambungan nyala
-networkid-statusKnown = Status sambungan diketahui
 about-networking-networkid-is-up = Sambungan nyala
 about-networking-networkid-status-known = Status sambungan diketahui
 

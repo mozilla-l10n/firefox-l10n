@@ -13,15 +13,4 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "m">
 <!ENTITY helpSafeMode.label     "Mulai Ulang dengan Pengaya Dinonaktifkan…">
 <!ENTITY helpSafeMode.accesskey "n">
-<!ENTITY releaseCmd2.label "Catatan Rilis">
-<!ENTITY releaseCmd2.accesskey "R">
-<!ENTITY whatsNewCmd.label "Kabar Terbaru">
-<!ENTITY whatsNewCmd.accesskey "K">
-<!ENTITY openHelp.label "Daftar Isi Bantuan">
-<!ENTITY openHelp.accesskey "D">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Bantuan &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "Tentang &brandFullName;">

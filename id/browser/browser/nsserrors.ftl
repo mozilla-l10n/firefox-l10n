@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Terjadi kesalahan ketika menyambungkan ke { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kode kesalahan: { $error }
+
 psmerr-ssl-disabled = Tidak dapat tersambung dengan aman karena protokol SSL telah dinonaktifkan.
 psmerr-ssl2-disabled = Tidak dapat tersambung dengan aman karena situs menggunakan protokol SSL versi lama dan tidak aman.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Anda telah menerima sertifikat yang tidak sah. Silakan hubungi administrator sistem atau kirim email kepada yang bersangkutan dan memberitahukan informasi berikut:
     
     Sertifikat Anda mengandung nomor seri yang sama dengan sertifikat lain yang dikeluarkan otoritas sertifikat. Mohon dibuat sertifikat baru yang memiliki nomor seri yang unik.
+
 ssl-error-export-only-server = Gagal tersambung dengan aman. Pihak lain tidak mendukung enkripsi tingkat tinggi.
 ssl-error-us-only-server = Gagal tersambung dengan aman. Pihak lain membutuhkan enkripsi tingkat tinggi yang tidak didukung.
 ssl-error-no-cypher-overlap = Tidak tersambung dengan pihak lain dengan aman: tidak ada algoritma enkripsi yang dimiliki bersama.

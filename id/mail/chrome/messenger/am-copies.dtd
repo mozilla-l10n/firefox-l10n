@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Salinan &amp; Folder">
 <!ENTITY sendingPrefix.label "Saat mengirim pesan, secara otomatis: ">
 <!ENTITY fccMailFolder.label "Masukkan sebuah salinan di:">

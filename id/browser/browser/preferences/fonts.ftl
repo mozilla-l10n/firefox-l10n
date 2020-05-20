@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fon
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fon untuk
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Tanpa Serif
+
 fonts-proportional-size = Ukuran
     .accesskey = u
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Ukuran
     .accesskey = k
+
 fonts-minsize = Ukuran fon minimum
     .accesskey = o
+
 fonts-minsize-none =
     .label = Tidak Ada
+
 fonts-allow-own =
     .label = Izinkan laman untuk memilih jenis fonnya sendiri, dari pada menggunakan pilihan Anda di atas
     .accesskey = I
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Pengodean Karakter untuk Konten Lawas
 fonts-languages-fallback-desc = Pengodean karakter ini digunakan untuk konten lawas yang gagal menyebutkan pengodeannya.
+
 fonts-languages-fallback-label = Pengodean Teks Alternatif
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Baku untuk Pelokalan Saat Ini
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnam
 fonts-languages-fallback-name-other =
     .label = Lainnya (termasuk Eropa Barat)
-fonts-very-large-warning-title = Ukuran fon minimal yang sangat besar
-fonts-very-large-warning-message = Anda telah memilih ukuran fon minimal yang sangat besar (lebih dari 24 piksel). Ini akan mempersulit bahkan tidak memungkinkan penggunaan sejumlah laman konfigurasi penting seperti ini.
-fonts-very-large-warning-accept = Biarkan saja
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
