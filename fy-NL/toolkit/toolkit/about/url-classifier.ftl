@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Lochmodules fan Safe Browsing
 url-classifier-debug-modules = Aktuele lochmodules
 url-classifier-debug-sbjs-modules = JS-registraasje fan Safe Browsing
 url-classifier-debug-file = Aktuele lochbestân
+
 url-classifier-trigger-update = Bywurkjen aktivearjen
 url-classifier-not-available = Net beskikber
 url-classifier-disable-sbjs-log = JS-registraasje fan Safe Browsing útskeakelje

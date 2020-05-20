@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Ik akseptearje it risiko!
 config-about-warning-checkbox =
     .label = Lit dizze warskôging de folgjende kear wer sjen
+
 config-search-prefs =
     .value = Sykje:
     .accesskey = S
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopiearje
     .accesskey = K
+
 config-copy-name =
     .label = Namme kopiearje
     .accesskey = a
+
 config-copy-value =
     .label = Wearde kopiearje
     .accesskey = W
+
 config-modify =
     .label = Oanpasse
     .accesskey = O
+
 config-toggle =
     .label = Omskeakelje
     .accesskey = s
+
 config-reset =
     .label = Opnij inisjalisearje
     .accesskey = i
+
 config-new =
     .label = Nij
     .accesskey = N
+
 config-string =
     .label = Tekenrige
     .accesskey = T
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = standert
 config-modified = wizige
 config-locked = beskoattele
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Fier de foarkeursnamme yn
+
 config-nan-title = Net jildige wearde
 config-nan-text = De ynfierde tekst is gjin sifer.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nije { $type }wearde
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Fier { $type }wearde yn

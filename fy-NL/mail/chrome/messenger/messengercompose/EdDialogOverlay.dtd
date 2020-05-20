@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Wikselje tusken relatieve en absolute URL. Jo moatte de side earst bewarje om hjirtusken wikseljen te kinne.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Fier de lokaasje yn fan in webside, lokaal bestân of selektearje in ankerferwizing of kop fan de list:">
-<!ENTITY LinkURLEditField.accessKey "l">
 <!ENTITY LinkURLEditField2.label "Fier de lokaasje yn fan in webside, lokaal bestân of selektearje in ankerferwizing of kop fan it fjild syn kontekstmenu:">
 <!ENTITY LinkURLEditField2.accessKey "w">

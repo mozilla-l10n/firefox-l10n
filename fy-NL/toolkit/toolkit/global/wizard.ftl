@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Tebek
     .accesskey = T
+
 wizard-macos-button-next =
     .label = Trochgean
     .accesskey = g
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Folgjende >
     .accesskey = F
+
 wizard-macos-button-finish =
     .label = Klear
 wizard-linux-button-finish =
     .label = Foltôgje
 wizard-win-button-finish =
     .label = Foltôgje
+
 wizard-macos-button-cancel =
     .label = Annulearje
 wizard-linux-button-cancel =

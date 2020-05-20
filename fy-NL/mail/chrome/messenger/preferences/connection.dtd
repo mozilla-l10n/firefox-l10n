@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Gjin proxy foar:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Foarbyld: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Dizze proxyserver foar alle protokollen brûke">
+<!ENTITY  shareproxy.accesskey          "x">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Ferbiningen nei localhost, 127.0.0.1, en :: 1 rinne nea fia de proxy.">
-<!ENTITY  shareproxy.label              "Dizze proxyserver foar alle protokollen brûke">
-<!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  proxyHttpSharing.label        "Dizze proxy ek foar HTTPS brûke">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Freegje net om autentikaasje as wachtwurd bewarre is">

@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Kleur">
 <!ENTITY lastPickedColor.label "Lêst keazen kleur">
 <!ENTITY lastPickedColor.accessKey "L">
-<!ENTITY setColor1.label "Klik op in kleur of">
-<!ENTITY setColor2.label "fier in HTML-kleurkoade yn">
-<!ENTITY setColor2.accessKey "f">
 <!ENTITY chooseColor1.label "Kies in kleur:">
 <!ENTITY chooseColor2.label "Fier in HTML-kleurkoade yn">
 <!ENTITY chooseColor2.accessKey "H">

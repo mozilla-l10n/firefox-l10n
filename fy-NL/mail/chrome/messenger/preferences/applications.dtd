@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "In nije Filelink bewartsjinst tafoegje">
 <!ENTITY removeCloudFileAccount.label     "Fuortsmite">
 <!ENTITY removeCloudFileAccount.accesskey "F">
-<!ENTITY authRequired.description         "Jo autorisaasje is fereaske om de ynstellingen fan dizze bewartsjinst te sjen.">
-<!ENTITY authRequired.button.label        "Autorisearje">
-<!ENTITY authRequired.button.accesskey    "u">
 
 <!ENTITY findCloudFileProviders.label     "Sykje mear providers…">
 

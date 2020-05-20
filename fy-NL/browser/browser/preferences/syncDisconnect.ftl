@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } ferbrekke?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Wolle jo de browsergegevens op dizze kompjûter ek fuortsmite? Jo { -sync-brand-name }-gegevens sille dochs yn jo account bliuwe.
+
 sync-disconnect-remove-sync-caption = { -sync-brand-name }-gegevens fuortsmite
+
 sync-disconnect-remove-sync-data = Blêdwizers, skiednis, wachtwurden, ensfh.
+
 sync-disconnect-remove-other-caption = Oare priveegegevens fuortsmite
+
 sync-disconnect-remove-other-data = Cookies, buffer, offline websitegegevens, ensfh.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Ferbrekke…
+
 sync-disconnect-cancel =
     .label = Annulearje
     .accesskey = A
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Ferbrekke en fuortsmite
     .accesskey = F
+
 sync-disconnect-confirm-disconnect =
     .label = Allinnich ferbrekke
     .accesskey = A

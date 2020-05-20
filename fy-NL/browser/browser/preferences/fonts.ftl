@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Lettertypen
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Lettertypen foar
     .accesskey = L
+
 fonts-langgroup-arabic =
     .label = Arabysk
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsjoneel
     .accesskey = P
+
 fonts-default-serif =
     .label = Skreef
 fonts-default-sans-serif =
     .label = Skreefleas
+
 fonts-proportional-size = Grutte
     .accesskey = G
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Grutte
     .accesskey = r
+
 fonts-minsize = Minimale lettergrutte
     .accesskey = e
+
 fonts-minsize-none =
     .label = Gjin
+
 fonts-allow-own =
     .label = Siden tastean om harren eigen lettertype te kiezen, yn stee fan myn seleksje hjirboppe
     .accesskey = S
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Tekstkodearring foar Legacy-ynhâld
 fonts-languages-fallback-desc = Dizze tekstkodearring wurdt brûkt foar legacy-ynhâld dy't gjin eigen kodearring oanjaan kin.
+
 fonts-languages-fallback-label = Tebekfaltekstkodearring
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Standert foar aktuele lânynstelling
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameesk
 fonts-languages-fallback-name-other =
     .label = Oars (ynkl. West-Europeesk)
-fonts-very-large-warning-title = Grut minimum lettertypegrutte
-fonts-very-large-warning-message = Jo hawwe in hiel grut minimum lettertypegrytte selektearre(mear as 24 piksels). Dit kin it swier of ûnmooglik meitsje om wichtige konfiguraasjesiden as dizze te brûken.
-fonts-very-large-warning-accept = Myn wizigigngen dochs behâlde
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

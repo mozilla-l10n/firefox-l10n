@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Argivearopsjes">
 <!ENTITY archiveGranularityPrefix.label "By it argivearjen fan berjochten, pleats se yn:">
 <!ENTITY archiveFlat.label "Ien inkelde map">

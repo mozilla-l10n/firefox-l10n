@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Blêdwizers
+
 sidebar-menu-history =
     .label = Skiednis
+
 sidebar-menu-synced-tabs =
     .label = Syngronisearre ljepblêden
+
 sidebar-menu-close =
     .label = Sidebalke slute

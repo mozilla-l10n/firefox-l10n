@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Feed-URL:">
 <!ENTITY feedLocation.accesskey      "F">
-<!ENTITY feedLocation.placeholder    "Fier in jildige feed-url yn om ta te foegjen">
 <!ENTITY feedLocation2.placeholder   "Fier in jildige feed-url yn">
 <!ENTITY locationValidate.label      "Falidearje">
 <!ENTITY validateText.label          "Kontrolearje falidaasje en helje in jildige url op.">

@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; is net yn steat om te sjen oft der in fernijing beskikber is.
                                            Kontrolearje oft jo de lêste ferzje fan &brandShortName; hawwe fan:">
-
+                                           
 <!ENTITY  finishedPage.title              "Fernijing klear foar ynstallaasje">
 <!ENTITY  finishedPage.text               "De fernijing sil ynstallearre wurde as &brandShortName; opnij start. 
                                            Jo kinne &brandShortName; no opnij starte of fierder gean en letter opnij starte.">
@@ -72,6 +72,3 @@
                                            &brandShortName; no opnij starte, trochgean mei wurkjen en letter opnij starte, of dizze
                                            fernijing annulearje.">
 
-<!ENTITY  update.details.label            "Details">
-<!ENTITY  update.installedOn.label        "Ynstallearre op:">
-<!ENTITY  update.status.label             "Steat:">

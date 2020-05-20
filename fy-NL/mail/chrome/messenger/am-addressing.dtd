@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Opstelle &amp; adressearje">
 <!ENTITY addressingGroupTitle.label "Adressearing">
 <!ENTITY addressingText.label      "By it opsykjen fan adressen:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Opstelle">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Berjochten opstelle yn HTML-formaat">
 <!ENTITY useHtml.accesskey                    "o">
 <!ENTITY autoQuote.label                      "Automatysk de orizjinele tekst sitearje by antwurdzjen">
 <!ENTITY autoQuote.accesskey                  "A">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Dan,">
-<!ENTITY then.accesskey                       "D">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "By sitearjen,">
 <!ENTITY quoting.accesskey                    "s">

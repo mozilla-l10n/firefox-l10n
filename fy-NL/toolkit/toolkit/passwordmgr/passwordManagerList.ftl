@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Slute
     .accesskey = u
+
 show-passwords =
     .label = Wachtwurden toane
     .accesskey = W

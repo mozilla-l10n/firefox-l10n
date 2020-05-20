@@ -7,6 +7,7 @@ page-subtitle =
     Dizze side befettet technyske ynformaasje dy't brûkber wêze kin as jo
     probearje om problemen op te lossen. As jo antwurden sykje op algemiene fragen
     oer { -brand-short-name }, sjoch dan op ús <a data-l10n-name="support-link">stipewebsite</a>.
+
 crashes-title = Ungelokrapporten
 crashes-id = Rapport-ID
 crashes-send-date = Ynstjoerd
@@ -126,6 +127,7 @@ audio-backend = Audio-backend
 max-audio-channels = Maks kanalen
 channel-layout = Oanrekommandearre kanaalmodus
 sample-rate = Oanrekommandearre foarbyldfrekwinsje
+
 media-title = Media
 media-output-devices-title = Utfierapparaten
 media-input-devices-title = Ynfierapparaten
@@ -176,6 +178,7 @@ report-crash-for-days =
         [one] Ungelokrapporten foar de lêste { $days } dei
        *[other] Ungelokrapporten foar de lêste { $days } dagen
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -183,6 +186,7 @@ crashes-time-minutes =
         [one] { $minutes } minút lyn
        *[other] { $minutes } minuten lyn
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -190,6 +194,7 @@ crashes-time-hours =
         [one] { $hours } oer lyn
        *[other] { $hours } oer lyn
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -197,6 +202,7 @@ crashes-time-days =
         [one] { $days } dei lyn
        *[other] { $days } dagen lyn
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -204,6 +210,7 @@ pending-reports =
         [one] Alle ûngelokrapporten (ynklusyf { $reports } ûngelok op wacht yn it opjûne tiidsrak)
        *[other] Alle ûngelokrapporten (ynklusyf { $reports } ûngelokken op wacht yn it opjûne tiidsrak))
     }
+
 raw-data-copied = Rûge gegevens nei klamboerd kopiearre
 text-copied = Tekst nei klamboerd kopiearre
 
@@ -216,9 +223,11 @@ blocked-mismatched-version = Blokkearre foar jo grafyske stjoerprogramma, ferzje
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Blokkearre foar jo grafysk stjoerprogramma. Probearje jo grafyske stjoerprogramma by te wurkjen nei ferzje { $driverVersion } of nijer.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType parameters
+
 compositing = Gearstalle
 hardware-h264 = Hardwaremjittige H264-dekodearring
 main-thread-no-omtc = haadthread, gjin OMTC
@@ -233,6 +242,7 @@ virtual-monitor-disp = Virtual Monitor Display
 
 found = Fûn
 missing = Untbrekt
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Beskriuwing
@@ -256,18 +266,23 @@ webgl2-version = Ferzje fan WebGL 2-stjoerprogramma
 webgl2-driver-extensions = Utwreidingen fan WebGL 2-stjoerprogramma
 webgl2-extensions = WebGL 2-útwreidingen
 blocklisted-bug = Om bekende problemen op de blokkearlist
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Op blokkearlist; flaterkoade { $failureCode }
+
 d3d11layers-crash-guard = D3D11-compositor
 d3d11video-crash-guard = D3D11-fideodecoder
 d3d9video-crash-buard = D3D9-fideodecoder
 d3d9video-crash-guard = D3D9-fideodecoder
 glcontext-crash-guard = OpenGL
+
 wmfvpxvideo-crash-guard = WMF VPX-fideodecoder
+
 reset-on-next-restart = Opnij ynstelle nij werstart
 gpu-process-kill-button = GPU-proses beëinigje
 gpu-device-reset = Apparaatwerinisjalisaasje
@@ -277,8 +292,10 @@ content-uses-tiling = Brûkt Tiling (Ynhâld)
 off-main-thread-paint-enabled = Off Main Thread Painting ynskeakele
 off-main-thread-paint-worker-count = Off Main Thread Painting Worker Count
 target-frame-rate = Doelframerate
+
 min-lib-versions = Minimale ferzje ferwachte
 loaded-lib-versions = Brûkte ferzje
+
 has-seccomp-bpf = Seccomp-BPF (Systeemoanropfiltering)
 has-seccomp-tsync = Seccomp-threadsynchronisatie
 has-user-namespaces = Namespaces fan brûker
@@ -291,15 +308,18 @@ sandbox-proc-type-content = ynhâld
 sandbox-proc-type-file = bestânsynhâld
 sandbox-proc-type-media-plugin = mediaynstekker
 sandbox-proc-type-data-decoder = gegevensdecoder
+
 startup-cache-title = Opstartbuffer
 startup-cache-disk-cache-path = Paad nei skiifbuffer
 startup-cache-ignore-disk-cache = Skiifbuffer negearje
 startup-cache-found-disk-cache-on-init = Skiifbuffer by Init fûn
 startup-cache-wrote-to-disk-cache = Nei skiifbuffer skreaun
+
 launcher-process-status-0 = Ynskeakele
 launcher-process-status-1 = Utskeakele fanwegen flater
 launcher-process-status-2 = Forsearre útskeakele
 launcher-process-status-unknown = Unbekende steat
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -312,6 +332,7 @@ multi-process-status-6 = Utskeakele troch net-stipe tekstynfier
 multi-process-status-7 = Utskeakele troch add-ons
 multi-process-status-8 = Forsearre útskeakele
 multi-process-status-unknown = Unbekende steat
+
 async-pan-zoom = Asyngroan panne/zoome
 apz-none = gjin
 wheel-enabled = tsjilynfier ynskeakele
@@ -319,6 +340,7 @@ touch-enabled = oanraakynfier ynskeakele
 drag-enabled = sleep fia skowbalke ynskeakele
 keyboard-enabled = toetseboerd ynskeakele
 autoscroll-enabled = automatysk skowe ynskeakele
+
 zooming-enabled = soepele knyp-zoom ynskeakele
 
 ## Variables
