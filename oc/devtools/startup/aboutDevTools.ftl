@@ -13,6 +13,7 @@ enable-common-message = Las aisinas de desvolopament de Firefox son desactivadas
 enable-learn-more-link = Ne saber mai sus las aisinas pels devolopaires
 enable-enable-button = Activar las aisinas pels desvolopaires
 enable-close-button = Tampar aqueste onglet
+
 welcome-title = Benvenguda a las aisinas de desvolopament de Firefox !
 newsletter-title = Letra de ligason de Mozilla pels desvolopaires
 newsletter-message = Recebètz de novetats, d’astúcias e de resorgas pels desvolopaires, dirèctament per corrièl.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Accepti que Mozila utilize mas informacion segon sa <
 newsletter-subscribe-button = Se marcar
 newsletter-thanks-title = Mercés plan !
 newsletter-thanks-message = S’avètz pas ja confirmat un abonament a una letra de ligason de Mozilla, benlèu que o vos cal far. Verificatz vòstra bóstia de recepcion o corrièls pas desirables e cercatz un messatge nòstre.
+
 footer-title = Firefox Developer Edition
 footer-message = Cercatz mai que d’aisinas de desvolopament ? Descobrissètz lo navegador Firefox fach especialament pels desvolopaires e los flux laborals del monde modèrn.
 footer-learn-more-link = Ne saber mai
+
 features-learn-more = Ne saber mai
 features-inspector-title = Inspector
 features-inspector-desc = Examinatz e afinatz vòstre còdi per obténer una mesa en pagina precisa al pixèl prèp. <a data-l10n-name="learn-more">{ features-learn-more }</a>

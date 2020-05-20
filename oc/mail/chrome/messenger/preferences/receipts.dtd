@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY dialog.title                  "Acusats de recepcion">
+<!ENTITY dialog.title                  "Acusats de recepcion">
 <!ENTITY requestReceipt.label          "Al moment del mandadís d'un messatge, demandar totjorn un acusat de recepcion">
 <!ENTITY requestReceipt.accesskey      "v">
 <!ENTITY receiptArrive.label           "Quand un acusat de recepcion arriba :">

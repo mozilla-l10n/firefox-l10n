@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY window.title "Filtres de messatges">
+<!ENTITY window.title "Filtres de messatges">
 <!ENTITY nameColumn.label "Nom">
 <!ENTITY activeColumn.label "Actiu">
 <!ENTITY newButton.label "Novèl">
@@ -26,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "r">
 <!ENTITY folderPickerPrefix.label "Executar los filtres seleccionats sus :">
 <!ENTITY folderPickerPrefix.accesskey "l">
-<!ENTITY choosethis.label "causir aqueste dorsièr">
-<!ENTITY choosethisnewsserver.label "causir aqueste servidor de gropes">
 <!ENTITY helpButton.label "Ajuda">
 <!ENTITY helpButton.accesskey "e">
 <!ENTITY closeCmd.key "W">

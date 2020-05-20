@@ -2,16 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- Entities for AccountWizard -->
+<!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Assistent de creacion de compte">
 <!ENTITY accountWizard.size "width: 42em; height: 38em;">
 
 <!-- Entities for Account Type page -->
 
-<!ENTITY accountSetupInfo.label "Per recebre de messatges, vos cal d'en primièr crear e parametrar un compte de corrièr electronic o de gropes de discussion.">
 <!ENTITY accountTypeTitle.label "Parametratge d'un compte novèl">
-<!ENTITY accountTypeDesc.label "Aqueste assistent va collectar las informacions necessaris a la creacion d'un compte de corrièr o de gropes de discussion. Se sètz incapable de respondre a d'unas questions, contactatz vòstre administrator del sistèma o vòstre provesidor d'accès internet.">
 <!ENTITY accountTypeDirections.label "Seleccionatz lo tipe de compte que volètz crear :">
 <!ENTITY accountTypeMail.label "Compte de corrièr electronic">
 <!ENTITY accountTypeMail.accesskey "C">
@@ -38,20 +36,9 @@
 
 <!-- Entities for Server page -->
 
-<!ENTITY serverTitle.label "Informacion sul servidor">
+<!-- Entities for Incoming Server page -->
+
 <!ENTITY incomingServerTypeDesc.label "Seleccionatz lo tipe del servidor de recepcion.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Picatz lo nom del servidor de recepcion (per exemple, « pop.exemple.net »).">
-<!ENTITY incomingServerLabel.label "Nom del servidor :">
-<!ENTITY incomingServerLabel.accesskey "N">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Picatz lo nom de vòstre servidor de gropes (NNTP) (per exemple, « gropes.exemple.net »).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Picatz lo nom del servidor de mandadís (SMTP) (per exemple, « smtp.exemple.net »).">
-<!ENTITY smtpServerLabel.label "Nom del servidor :">
-<!ENTITY smtpServerLabel.accesskey "s">
-<!ENTITY newsServerLabel.label "Servidor de gropes :">
-<!ENTITY newsServerLabel.accesskey "g">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -59,36 +46,31 @@
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
 
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Picatz lo nom de vòstre servidor de gropes (NNTP) (per exemple, « gropes.exemple.net »).">
+<!ENTITY newsServerLabel.label "Servidor de gropes :">
+<!ENTITY newsServerLabel.accesskey "g">
+
+<!-- Entities for Outgoing Server page -->
+
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "Vòstre servidor actual de corrièr sortent (SMTP), « ">
-<!ENTITY haveSmtp1.suffix " », serà utilizat. Es possible de lo modificar en causissent lo menut Espleches>Paramètres dels comptes.">
 
 <!-- Entities for Login page -->
 
-<!ENTITY loginTitle.label "Nom d'utilizaires">
-<!ENTITY usernameDesc.label "Picatz lo nom d'utilizaire entrant donat per vòstre provesidor de corrièr">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(per exemple, « pbosc »).">
-<!ENTITY usernameLabel.label "Nom d'utilizaire entrant :">
-<!ENTITY usernameLabel.accesskey "N">
-<!ENTITY usernameSmtpDesc.label "Picatz lo nom d'utilizaire sortent donat per vòstre provesidor de corrièr (es, en principi, identic al nom d'utilizaire entrant).">
-<!ENTITY usernameSmtpLabel.label "Nom d'utilizaire sortent :">
-<!ENTITY usernameSmtpLabel.accesskey "o">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Vòstre nom d'utilizaire sortent actual (SMTP), « ">
-<!ENTITY haveSmtp2.suffix " », serà utilizat. Es possible de modificar los paramètres del servidor sortent en causissent lo menut Espleches>Paramètres dels comptes.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Vòstre servidor sortent (SMTP), « ">
-<!ENTITY haveSmtp3.suffix " », es identic a vòstre servidor entrant. Vòstre nom d'utilizaire entrant serà utilizat per la connexion a aqueste servidor. Es possible de modificar los paramètres del servidor sortent en causissent lo menut Espleches>Paramètres dels comptes.">
 
 <!-- Entities for Account name page -->
 

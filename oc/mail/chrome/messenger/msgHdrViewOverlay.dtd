@@ -1,45 +1,11 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
  This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField2.label "per ">
-<!ENTITY fromField2.label "de ">
-<!ENTITY senderField2.label "expeditor ">
-<!ENTITY organizationField2.label "organizacion ">
-<!ENTITY replyToField2.label "responsa a ">
-
-<!ENTITY subjectField2.label "subjècte ">
-<!--# LOCALIZATION NOTE (ccField2.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "còpia a ">
-<!ENTITY bccField2.label "còpia amagada a ">
-<!ENTITY newsgroupsField2.label "gropes ">
-<!ENTITY followupToField2.label "far seguir a ">
-<!ENTITY tagsHdr2.label "etiquetas ">
-<!ENTITY dateField2.label "data ">
-<!ENTITY userAgentField2.label "agent utilizaire ">
-<!ENTITY referencesField2.label "referéncias ">
-<!ENTITY messageIdField2.label "identificant del messatge ">
-<!ENTITY inReplyToField2.label "en responsa a ">
-<!ENTITY originalWebsite2.label "site Web ">
-
-<!ENTITY editMessageDescription.label "Aquò es un borrolhon">
-<!ENTITY editMessageButton.label "Modificar…">
-<!ENTITY archiveButton.label "archivar">
-<!ENTITY hdrReplyButton.label "respondre">
-<!ENTITY hdrReplyAllButton.label "respondre a totes">
-<!ENTITY hdrForwardButton.label "transferir">
-<!ENTITY hdrJunkButton.label "indesirable">
-<!ENTITY trashButton.tooltiptext "suprimir">
-
-<!ENTITY otherActionsButton.label "autras accions">
-<!ENTITY saveAsMenuItem.label "enregistrar jos…">
-<!ENTITY saveAsMenuItem.accesskey "e">
-<!ENTITY viewSourceMenuItem.label "afichar la font…">
-<!ENTITY viewSourceMenuItem.accesskey "a">
-
-<!ENTITY hideDetailsButton.label "amagar los detalhs">
-<!ENTITY showDetailsButton.label "afichar los detalhs">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY openAttachmentCmd.label "Dobrir">
 <!ENTITY openAttachmentCmd.accesskey "O">

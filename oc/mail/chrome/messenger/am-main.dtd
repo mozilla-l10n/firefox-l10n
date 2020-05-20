@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- extracted from am-main.xul -->
+<!-- extracted from am-main.xul -->
+
+<!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Paramètres del compte">
 <!ENTITY accountName.label "Nom del compte :">
@@ -17,8 +19,6 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organizacion :">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Apausar aquesta signatura :">
-<!ENTITY signature.accesskey "t">
 <!ENTITY edit.label "Modificar…">
 <!ENTITY choose.label "Causir…">
 <!ENTITY choose.accesskey "C">
@@ -36,3 +36,4 @@
 <!ENTITY smtpName.label "Servidor sortissent (SMTP):">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Utilizar lo servidor per defaut">
+

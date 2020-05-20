@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Desconnectar { -sync-brand-short-name } ?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Volètz tanben suprimir las donadas de navegacion d’aqueste ordenador ? Las donadas de { -sync-brand-name } seràn servadas sus vòstre compte de tota manièra.
+
 sync-disconnect-remove-sync-caption = Suprimir las donadas de { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Marcapaginas, istoric, senhals, etc.
+
 sync-disconnect-remove-other-caption = Suprimir las autras donadas privadas
+
 sync-disconnect-remove-other-data = Cookies, cache, contengut fòra linha, etc.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Desconnexion…
+
 sync-disconnect-cancel =
     .label = Anullar
     .accesskey = n
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Deconnectar e suprimir
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = Solament desconnectar
     .accesskey = S

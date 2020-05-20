@@ -1,22 +1,17 @@
-﻿<!-- ***** BEGIN LICENSE BLOCK *****
+<!-- ***** BEGIN LICENSE BLOCK *****
    - This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label           "Proprietats">
 
 <!ENTITY generalInfo.label                       "Informacions generalas">
-<!ENTITY folderCharsetTab.label                  "Encodatge per defaut dels caractèrs">
-<!ENTITY folderCharsetTab.accesskey              "C">
-<!ENTITY folderCharsetOverride.label             "Aplicar per defaut a totes los messatges del dorsièr (ignorar l'autodeteccion e mai l'encodatge especific per messatge)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFile.label          "Tornar construire l'indèx">
-<!ENTITY folderRebuildSummaryFile.accesskey      "R">
-<!ENTITY folderRebuildSummaryFileTip.label       "Torna construire lo resumit del fichièr">
 
 <!ENTITY retention.label "Règlas de conservacion">
-<!ENTITY retentionUseDefault.label  "Utilizar los paramètres per defaut del servidor">
-<!ENTITY retentionUseDefault.accesskey "U">
 <!ENTITY daysOld.label "jorns">
 <!ENTITY message.label "darrièrs messatges">
 <!ENTITY retentionCleanup.label "Per ganhar d'espaci de disc, los  messatges ancians pòdon èsser suprimits definitivament.">
@@ -26,16 +21,10 @@
 <!ENTITY retentionDeleteMsg.accesskey "u">
 <!ENTITY retentionKeepAll.label "Suprimir pas cap de messatge">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Suprimir totes los messatges levats los">
-<!ENTITY retentionKeepNew.accesskey "S">
-<!ENTITY retentionKeepUnread.label "Suprimir totjorn los messatges legits">
-<!ENTITY retentionKeepUnread.accesskey "T">
 <!ENTITY retentionApplyToFlagged.label "Conservar totjor los messatges seguits">
 <!ENTITY retentionApplyToFlagged.accesskey "o">
 
 <!ENTITY folderSynchronizationTab.label          "Sincronizacion">
-<!ENTITY folderCheckForNewMessages.label         "Susvelhar los messatges novèls dins aqueste dorsièr">
-<!ENTITY folderCheckForNewMessages.accesskey     "S">
 
 <!ENTITY offlineFolder.check.label               "Seleccionar aqueste dorsièr per una utilizacion fòra linha">
 <!ENTITY offlineFolder.check.accesskey           "l">
@@ -62,3 +51,4 @@
 <!ENTITY folderQuotaRoot.label                   "Raiç dels quotas :">
 <!ENTITY folderQuotaUsage.label                  "Utilizacion :">
 <!ENTITY folderQuotaStatus.label                 "Estatut :">
+

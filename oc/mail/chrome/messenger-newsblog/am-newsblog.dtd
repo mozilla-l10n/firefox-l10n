@@ -2,23 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY accountTitle.label "Paramètres de compte">
-
-<!ENTITY biffStart.label "Verificar los articles novèls cada ">
-<!ENTITY biffStart.accesskey "V">
-<!ENTITY biffEnd.label "minutas">
-
-<!ENTITY loginAtStartup.label "Verificar los articles novèls a l'aviada"> 
-<!ENTITY loginAtStartup.accesskey "r">
-
-<!ENTITY useQuickMode.label "Per defaut, afichar lo resumit de l'article puslèu que de telecargar la pagina Web"> 
-<!ENTITY useQuickMode.accesskey "P">
-
 <!ENTITY manageSubscriptions.label "Gerir los abonaments…"> 
 <!ENTITY manageSubscriptions.accesskey "G">
 
 <!-- entities from defaults/isp/rss.rdf -->
 <!ENTITY feeds.accountName "Blogs e novèlas">
-<!ENTITY feeds.wizardShortName "Flux">
-<!ENTITY feeds.wizardLongName "Blogs e novèlas">
-<!ENTITY feeds.wizardLongName.accesskey "B">

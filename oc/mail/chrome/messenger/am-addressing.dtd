@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- extracted from am-addressing.xul -->
+<!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Redaccion e adreçatge">
 <!ENTITY addressingGroupTitle.label "Adreçatge">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Redaccion">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Redigir los messatges en HTML">
 <!ENTITY useHtml.accesskey                    "R">
 <!ENTITY autoQuote.label                      "Citar lo messatge original dins la responsa">
 <!ENTITY autoQuote.accesskey                  "a">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Al moment de la redaccion">
-<!ENTITY then.accesskey                       "t">
 <!ENTITY aboveQuote.label                     "la responsa comença abans la citacion">
 <!ENTITY belowQuote.label                     "la responsa comença aprèp la citacion">
 <!ENTITY selectAndQuote.label                 "la citacion es seleccionada">
@@ -35,3 +36,4 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "jos la citacion (recomandat)">
 <!ENTITY aboveText.label                      "jos ma responsa (en dessús de la citacion)">
+

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY itemGeneral.label                   "General">
+<!ENTITY itemGeneral.label                   "General">
 <!ENTITY itemAutoComplete.label              "Adreçatge">
 <!ENTITY itemSpellCheck.label                "Ortografia">
 
@@ -16,8 +16,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Poliça :">
 <!ENTITY font.accesskey                       "P">
-<!ENTITY size.label                           "Talha :">
-<!ENTITY size.accesskey                       "e">
 <!ENTITY fontColor.label                      "Color del tèxte :">
 <!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Color del rèire plan :">
@@ -54,3 +52,4 @@
 <!ENTITY sendOptionsDescription.label          "Configuracion del comportament pel mandadís en format tèxte">
 <!ENTITY sendOptions.label                     "Opcions d'expedicion…">
 <!ENTITY sendOptions.accesskey                 "O">
+

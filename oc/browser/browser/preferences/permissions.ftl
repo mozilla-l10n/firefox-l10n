@@ -5,50 +5,66 @@
 permissions-window =
     .title = Excepcions
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adreça del site web
     .accesskey = d
+
 permissions-block =
     .label = Blocar
     .accesskey = B
+
 permissions-session =
     .label = Autorizar pendent la session
     .accesskey = s
+
 permissions-allow =
     .label = Autorizar
     .accesskey = A
+
 permissions-site-name =
     .label = Site web
+
 permissions-status =
     .label = Estat
+
 permissions-remove =
     .label = Suprimir lo site web
     .accesskey = S
+
 permissions-remove-all =
     .label = Suprimir totes los sites web
     .accesskey = e
+
 permissions-button-cancel =
     .label = Anullar
     .accesskey = A
+
 permissions-button-ok =
     .label = Enregistrar las modificacions
     .accesskey = E
+
 permissions-autoplay-menu = Per defaut per tose los sites web :
+
 permissions-searchbox =
     .placeholder = Recercar un site web
+
 permissions-capabilities-autoplay-allow =
     .label = Autorizar l’àudio e la vidèo
 permissions-capabilities-autoplay-block =
     .label = Blocar l’àudio
 permissions-capabilities-autoplay-blockall =
     .label = Blocar l’àudio e la vidèo
+
 permissions-capabilities-allow =
     .label = Autorizar
 permissions-capabilities-block =
     .label = Blocar
 permissions-capabilities-prompt =
     .label = Totjorn demandar
+
 permissions-capabilities-listitem-allow =
     .value = Autorizar
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Excepcions - Blocatge de contengut
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Avètz desactivat lo blocatge de contengut per aquestes sites.
+
 permissions-exceptions-etp-window =
     .title = Excepcions per la proteccion contra lo seguiment
     .style = { permissions-window.style }

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Afichar las informacions sul site internet
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Avètz blocat l’accès MIDI per aqueste site web.
 urlbar-install-blocked =
     .tooltiptext = Avètz blocat l’installacion de moduls complementaris per aqueste site.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modificar aqueste marcapagina ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Gerir l’extension…
 page-action-remove-from-urlbar =
     .label = Levar de la barra d'adreça
+
 page-action-remove-extension =
     .label = Suprimir l’extension
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Aqueste còp, recercar amb :
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Paramètres de recèrca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar los paramètres de recèrca
+
 search-one-offs-context-open-new-tab =
     .label = Recercar dins un onglet novèl
     .accesskey = R
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Mostrar l’editor en enregistrant
     .accesskey = M
+
 bookmark-panel-done-button =
     .label = Acabar
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecr
 
 enable-devtools-popup-description = Per utilizar l’acorchi F12, dobrissètz d’en primièr lo panèl d’aisinas de desvolopament via lo menú Desvolopaire Web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Avètz donat de permissions suplementàrias a aquel site.
 urlbar-switch-to-tab =
     .value = Anar a l'onglet :
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension :
+
 urlbar-go-button =
     .tooltiptext = Anar a la pagina indicada dins la barra d'adreça
 urlbar-page-action-button =

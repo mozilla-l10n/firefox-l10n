@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY serverAdvanced.label "Paramètres avançats dels comptes">
+<!ENTITY serverAdvanced.label "Paramètres avançats dels comptes">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Dorsièr sul servidor IMAP :">
 <!ENTITY serverDirectory.accesskey "D">
@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "A">
 <!ENTITY dualUseFolders.label "Lo servidor supòrta los dorsièrs que contenon de sosdorsieès e de messatges">
 <!ENTITY dualUseFolders.accesskey "L">
-<!ENTITY useIdle.label "Utilizar la comanda IDLE se lo servidor o permet">
-<!ENTITY useIdle.accesskey "U">
 <!ENTITY maximumConnectionsNumber.label "Nombre maximum de connexions al servidor de gardar en amagatal">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,11 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "u">
 <!ENTITY overrideNamespaces.label "Permetre al servidor d'otrapassar aquestes espacis de noms">
 <!ENTITY overrideNamespaces.accesskey "r">
-<!ENTITY pop3Desc.label "Al moment del telecargament dels messatges POP per aqueste servidor, utilizatz lo dorsièr seguent pel corrièr novèl :" >
-<!ENTITY globalInbox.label "Boita globala (compte Dorsièrs locals)">
-<!ENTITY globalInbox.accesskey "B">
-<!ENTITY accountDirectory.label "Corrièr entrant d'aqueste compte">
-<!ENTITY accountDirectory.accesskey "C">
 <!ENTITY deferToServer.label "Corrièr entrant d'un autre compte">
 <!ENTITY deferToServer.accesskey "o">
 <!ENTITY deferGetNewMail.label "Inclure aqueste servidor al moment de la recuperacion dels messat	ges">

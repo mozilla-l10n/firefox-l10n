@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!ENTITY window.title "Modificar lo filtre">
+<!ENTITY window.title "Modificar lo filtre">
 <!ENTITY filterName.label "Nom del filtre :">
 <!ENTITY filterName.accesskey "i">
 
@@ -16,10 +16,8 @@
 <!ENTITY highestPriorityCmd.label "Maximala">
 
 <!ENTITY contextDesc.label "Aplicar lo filtre :">
-<!ENTITY contextDesc.accesskey "A">
-<!ENTITY contextIncoming.label "Al moment de la recepcion del corrièr">
 <!ENTITY contextManual.label "Al moment de son execucion manuala">
-<!ENTITY contextBoth.label "Al moment de la recepcion del corrièr o de son execucion manuala">
+
 <!ENTITY filterActionDesc.label "Executar aquestas accions :">
 <!ENTITY filterActionDesc.accesskey "x">
 
@@ -40,3 +38,9 @@
 <!ENTITY ignoreSubthread.label "Ignorar la discussion filha">
 <!ENTITY watchThread.label "Susvelhar la discussion">
 <!ENTITY stopExecution.label "Arrestar l'execucion del filtre">
+
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

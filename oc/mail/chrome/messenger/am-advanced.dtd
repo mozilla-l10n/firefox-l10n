@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- extracted from am-advanced.xul -->
+<!-- extracted from am-advanced.xul -->
+
+<!-- extracted from am-advanced.xhtml -->
 
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Servidor SMTP">
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Mentre que siá possible d'especificar mai d'un servidor per l'expedicion del corrièr (SMTP), es recomandat sonque pels utilizaires avançats. Aquò pòt en efièch pausar de problèmas al moment del mandadís dels messatges.">
 
 <!ENTITY smtpListAdd.label  "Apondre…">
 <!ENTITY smtpListAdd.accesskey  "A">
@@ -23,4 +23,3 @@
 <!ENTITY serverPort.label "Pòrt : ">
 <!ENTITY userName.label   "Nom d'utilizaire : ">
 <!ENTITY connectionSecurity.label "Seguretat de la connexion : ">
-<!ENTITY useSecureAuthentication.label   "Autentificacion securizada : ">

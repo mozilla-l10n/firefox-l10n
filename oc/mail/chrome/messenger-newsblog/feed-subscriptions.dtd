@@ -2,16 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-﻿<!-- Subscription Dialog -->
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Abonaments als fluses">
-<!ENTITY subscriptionDesc.label "Nòta : suprimir o modificar lo dorsièr per un fial afectarà pas los articles ja telecargats.">
+
 <!ENTITY feedTitle.label "Títol :">
-<!ENTITY location.label "Emplaçament :">
 
 <!ENTITY button.addFeed.label "Apondre">
 <!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "Modificar">
-<!ENTITY button.editFeed.accesskey "M">
 <!ENTITY button.removeFeed.label "Suprimir">
 <!ENTITY button.removeFeed.accesskey "S">
 <!ENTITY button.importOPML.label "Importar">
