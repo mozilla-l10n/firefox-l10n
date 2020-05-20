@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -12,7 +13,6 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "ब्रावजर साधनपेटी उगडटना एरर:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -144,8 +144,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "मूळ स्त्रोत दाखयात">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "शैली संपादक आणि तपासप्यान मूळ स्त्रोत (देख. Sass फायलीं) दाखयात ">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -164,14 +162,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "समान प्राधान्या">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "पर्सिस्टंट लॉग्स सक्रिय करात">
-<!ENTITY options.enablePersistentLogs.tooltip  "तुमी हो विकल्प सक्षम केल्यार तुमी नव्या पानान नेव्हिगेट करता त्या दरेक वेळार वेब कंसोल आणि नेटवर्क मॉनिटर आउटपूट साफ करचे ना">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -179,6 +174,7 @@
 
 <!ENTITY options.showPlatformData.label    "गिको प्लॅटफॉर्म डेटा दाखयात">
 <!ENTITY options.showPlatformData.tooltip  "जर तुमी हो विकल्प निवडलो, जावालिपी प्रोफायलर अहवालांत  जीको प्लॅटफॉर्म चिन्नां आसतली">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

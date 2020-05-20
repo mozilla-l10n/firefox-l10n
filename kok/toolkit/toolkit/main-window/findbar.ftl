@@ -9,9 +9,12 @@ findbar-next =
     .tooltiptext = वाक्याचो मुखावेलो अंश सोदात
 findbar-previous =
     .tooltiptext = वाक्याचो पयलीचो अंश सोदात
+
 findbar-find-button-close =
     .tooltiptext = सोद पट्टी बंद करात
+
 findbar-case-sensitive =
     .label = केस जुळयात&
     .accesskey = c
     .tooltiptext = केस संवेदनशीलतायेन सोदात
+

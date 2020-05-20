@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = नव्या विंडोंत उगडात
     .accesskey = N
+
 places-new-bookmark =
     .label = नवीन बुकमार्क...
     .accesskey = B
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = नवीन विभाजक
     .accesskey = S
+
 places-view =
     .label = पळयात
     .accesskey = w
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = तारिक आणि सायटीन
     .accesskey = t
+
 places-delete-domain-data =
     .label = या सायटीविशीं विसरात
     .accesskey = F

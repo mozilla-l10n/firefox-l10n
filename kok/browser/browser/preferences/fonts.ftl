@@ -69,6 +69,7 @@ fonts-default-serif =
     .label = सेरिफ्
 fonts-default-sans-serif =
     .label = सांस सेरिफ
+
 fonts-minsize-none =
     .label = कोण ना
 
@@ -109,6 +110,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = विएतनामी
 fonts-languages-fallback-name-other =
     .label = हेर (अस्तंत युरोपीयनासयत)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

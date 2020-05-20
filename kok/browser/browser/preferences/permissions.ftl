@@ -4,30 +4,35 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = आडोवपी
     .accesskey = B
+
 permissions-session =
     .label = सत्राखातिर परवानगी दियात
     .accesskey = S
+
 permissions-allow =
     .label = परवानगी दियात
     .accesskey = A
+
 permissions-status =
     .label = स्थिती
+
 permissions-button-cancel =
     .label = रद्द करात
     .accesskey = र
+
 permissions-capabilities-allow =
     .label = अनुमती दियात
 permissions-capabilities-block =
     .label = आडावचें
+
 permissions-capabilities-listitem-allow =
     .value = अनुमती दियात
 permissions-capabilities-listitem-block =
     .value = आडावचें
-permissions-capabilities-listitem-allow-first-party =
-    .value = पयल्या पार्टीकूच परवानगी दियात
 permissions-capabilities-listitem-allow-session =
     .value = सत्राक मेकळीक दिवची
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = खंयच्या वेबसायट
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

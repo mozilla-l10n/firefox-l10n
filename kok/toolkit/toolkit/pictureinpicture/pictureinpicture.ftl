@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = विसव
 pictureinpicture-play =
     .aria-label = वाजयात
+
 pictureinpicture-mute =
     .aria-label = मूक
 pictureinpicture-unmute =
     .aria-label = मूक ना
+

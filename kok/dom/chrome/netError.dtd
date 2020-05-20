@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "पान लागू जातास्तना आडमेळ">
 <!ENTITY retry.label "परतून यत्न करात">
+
 <!-- Specific error messages -->
 
 
@@ -107,3 +108,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

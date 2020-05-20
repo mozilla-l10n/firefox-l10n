@@ -9,15 +9,21 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-page-override-option-always =
     .label = सदाच
 colors-page-override-option-never =
     .label = केन्नाच ना
+
 colors-text-and-background = मजकूर आनिक फांटभूंय
+
 colors-use-system =
     .label = व्यवस्था रंग वापरात
     .accesskey = s
+
 colors-underline-links =
     .label = जोडी अधोरेखित करात
     .accesskey = U
+
 colors-links-header = जोडीचे रंग
+

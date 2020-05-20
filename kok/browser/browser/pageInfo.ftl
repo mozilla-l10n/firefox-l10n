@@ -7,11 +7,13 @@ copy =
 menu-copy =
     .label = आनी प्रत
     .accesskey = C
+
 select-all =
     .key = S
 menu-select-all =
     .label = वेंचात आनी सगलें
     .accesskey = A
+
 general-tab =
     .label = सर्वसादारण
     .accesskey = G
@@ -31,6 +33,7 @@ general-meta-name =
     .label = नाव
 general-meta-content =
     .label = आशय
+
 media-tab =
     .label = माध्यम
     .accesskey = M
@@ -60,11 +63,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = माध्यम पूर्वदृश्य
+
 perm-tab =
     .label = अनुमत्यो
     .accesskey = P
 permissions-for =
     .value = अनुमत्योः
+
 security-tab =
     .label = सुरक्षा
     .accesskey = S
@@ -83,13 +88,17 @@ security-view-identity-verifier =
     .value = सत्यत्वस्थापन केलां:
 security-view-privacy =
     .value = गुप्तता & इतिहास
+
 security-view-privacy-history-value = आयच्या पयली ह्या वेबसायटीक हावे केन्ना भेट दिल्ली?
+
 security-view-privacy-passwords-value = हांवे ह्या वेबसायटीखतिर कसलो पासवर्ड जतनाय केला?
+
 security-view-privacy-viewpasswords =
     .label = सांबाळिल्ले पासवर्ड्स दृश्य करचे
     .accesskey = w
 security-view-technical =
     .value = तंत्रिक तपशील
+
 help-button =
     .label = मदत
 
@@ -118,6 +127,7 @@ media-video = व्हिडिओ
 media-audio = ऑडिओ
 saved-passwords-yes = हंय
 saved-passwords-no = ना
+
 no-page-title =
     .value = शिर्षक नाशिल्ले पान
 general-quirks-mode =
@@ -133,12 +143,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = डिफॉल्ट वापरचो
 security-no-visits = ना
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } प्रतिमा
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -148,17 +160,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px स्केल केला)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } केबी (KB)
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -166,6 +181,7 @@ media-file-size = { $size } केबी (KB)
 media-block-image =
     .label = { $website } सावन प्रतिमा आडावच्यो
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

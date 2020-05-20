@@ -13,9 +13,11 @@ config-about-warning-title =
 config-about-warning-text = ही अद्यावत स्थापिता बदलप ह्या अनुप्रयोगाच्या स्थैर्याक, सुरक्षेक आणि कार्यक्षमतेक घातक थारू येता. तुमी किदे करतात हाची तुमका खात्री आसत जाल्यारूच मुखार वचात.
 config-about-warning-checkbox =
     .label = ही चत्राय फुडले वेळा दाखय
+
 config-search-prefs =
     .value = सोद:
     .accesskey = r
+
 config-focus-search =
     .key = r
 
@@ -43,44 +45,59 @@ config-copy-pref =
     .key = C
     .label = आनी प्रत
     .accesskey = C
+
 config-copy-name =
     .label = नांव प्रत करात
     .accesskey = N
+
 config-copy-value =
     .label = मोलाची प्रत करात
     .accesskey = V
+
 config-modify =
     .label = बदलात
     .accesskey = M
+
 config-toggle =
     .label = अदलाबदल
     .accesskey = T
+
 config-reset =
     .label = परतून थारायात
     .accesskey = R
+
 config-new =
     .label = नवीन
     .accesskey = w
+
 config-string =
     .label = वर्णमालिका
     .accesskey = S
+
 config-integer =
     .label = पूर्णांक
     .accesskey = I
+
 config-boolean =
     .label = बुलियन
     .accesskey = B
+
 config-default = मुळावे
 config-locked = कुलूप लायिल्ले
+
 config-property-string = वर्णमालिका
 config-property-int = पूर्णांक
 config-property-bool = बूलियन
+
 config-new-prompt = प्राधान्य नाव घालात
+
 config-nan-title = अवैध मोल
 config-nan-text = तुमी घाल्लो मजकूर हो आंकडो न्ही.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = नविन { $type } मोल
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } मोल दियात

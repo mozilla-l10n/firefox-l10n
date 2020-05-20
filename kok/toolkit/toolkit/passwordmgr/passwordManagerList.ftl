@@ -20,6 +20,7 @@ import =
 close-button =
     .label = बंद
     .accesskey = C
+
 remove-all-passwords-prompt = तुमचे गुप्तशब्द  तुमी काडपाक सोदता?
 remove-all-passwords-title = सगळे पासवर्ड काडचे
 no-master-password-prompt = तुमचे गुप्तशब्द दाखयल्ले  तुमी दाखोवपाक सोदता?

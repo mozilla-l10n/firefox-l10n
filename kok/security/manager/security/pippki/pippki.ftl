@@ -8,6 +8,7 @@ password-quality-meter = गुप्तशब्द गुणवत्ता �
 
 change-password-window =
     .title = प्रधान गुप्तशब्द  बदलात
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = सुरक्षा उपकरण: { $tokenName }

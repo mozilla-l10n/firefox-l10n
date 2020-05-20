@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "चलपाचीवेळ इंन्फो">
 
-<!ENTITY runtimeMenu_showMonitor_label "मॉनिटर">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "उपकरण प्राधान्यां">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "उपकरण स्थापितां ">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "अॅप उगडात">
+
 <!ENTITY runtimeButton_label "चलपाचीवेळ निवडात">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "टॅब्जा">
 <!ENTITY runtimePanel_usb "USB उपकरणां">
 <!ENTITY runtimePanel_wifi "वाय-फाय उपकरणां">
-<!ENTITY runtimePanel_simulator "प्रतिरूपक">
 <!ENTITY runtimePanel_other "हेर">
-<!ENTITY runtimePanel_installsimulator "प्रतिरूपक प्रतिष्ठापित करात">
-<!ENTITY runtimePanel_noadbhelper "ADB मदत करपी प्रतिष्ठापित करात">
 <!ENTITY runtimePanel_nousbdevice "तुमचे उपकरण दिसना?">
 
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "टेंप्लेट निवडात">
 <!ENTITY newAppLoadingTemplate "टेंप्लेट्स लोड करता...">
 <!ENTITY newAppProjectName "प्रकल्प नाव:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "चलपाचीवेळ इंन्फो">
-<!ENTITY runtimedetails_adbIsRoot "ADB मूळ आसा: ">
-<!ENTITY runtimedetails_summonADBRoot "मूळ उपकरण ">
-<!ENTITY runtimedetails_ADBRootWarning "(कुलुप नाशिल्लो बूटलोडर जाय)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "आडोवनाशिल्ले डॅव्हसाधनां अधिकार: ">
-<!ENTITY runtimedetails_requestPrivileges "उचेले अधिकारांची विनंती करात">
-<!ENTITY runtimedetails_privilegesWarning "(उपकरण परतबूट करतलो. मूळ प्रवेश जाय.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "बुलियन  ">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "नवे स्थापित जोडात">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "मॉनिटर">
-<!ENTITY monitor_help "मदत">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,18 +166,6 @@
 
 <!ENTITY logs_title "पूर्व-पॅकेजिंग आदेश लॉग्ज">
 <!-- Simulator Options -->
-
-<!ENTITY simulator_title "प्रतिरूपक विकल्प">
-<!ENTITY simulator_remove "प्रतिरूपक काडून उडयात">
-<!ENTITY simulator_reset "मुळावे परत दवरात">
-
-<!ENTITY simulator_software "सॉफ्टवेअर">
-<!ENTITY simulator_version "आवृत्ती">
-<!ENTITY simulator_profile "प्रोफायल">
-<!ENTITY simulator_hardware "हार्डवेअर">
-<!ENTITY simulator_device "उपकरण">
-<!ENTITY simulator_screenSize "पड्डो">
-<!ENTITY simulator_pixelRatio "पिक्सेल प्रमाण">
 
 
 

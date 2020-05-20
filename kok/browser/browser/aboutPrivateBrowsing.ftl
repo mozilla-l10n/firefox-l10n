@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = खाजगी विंडो उगडात
     .accesskey = ख
 about-private-browsing-not-private = तुमी सद्या खाजगी विंडोन ना.
+

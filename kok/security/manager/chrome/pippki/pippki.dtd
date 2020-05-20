@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "नवे प्रमाणपत्र अधिकारिणी (सीए) चेर विश्वास दवरुपाक तुमका सांगला.">
 <!ENTITY downloadCert.trustSSL "वेबसायटी ओळखपाक ह्या CA चेर विश्वास दवरात">
 <!ENTITY downloadCert.trustEmail "ईमेल वापरपी वळखुपाखातीर ह्या सीएचेर विश्वास दवरात">
-<!ENTITY downloadCert.trustObjSign "सॉफ्टवेर विकासक वळखुपाखातीर ह्या सीएचेर विश्वास दवरात">
 <!ENTITY downloadCert.message3 "ह्या CA  प्रमाणपत्रार किद्याखातीरूय विश्र्वास दवरचे पयली, तुमी ताचे प्रमाणपत्र आणि ताचे धोरण आणि प्रक्रिया (आसल्यार) तपासपाक जाय.">
 <!ENTITY downloadCert.viewCert.label "दृश्य">
 <!ENTITY downloadCert.viewCert.text "सीए प्रमाणपत्र तपासात">

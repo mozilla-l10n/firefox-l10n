@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = धांपिल्ले टॅब परत उगडचे
+

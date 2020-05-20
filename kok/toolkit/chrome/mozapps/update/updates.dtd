@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "थोडो सुदार लागू करपाक शकना. &brandShortName; पुराय सुदार डानवलोड करून परत यत्न करतले.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; सुदार आसा काय ना हे थारावपाक शकना. मात्शी खात्री करात की तुमचेकडेन &brandShortName; ची ताजी आवृत्ती आसा. हांचेकडल्यान:">
-
+                                           
 <!ENTITY  finishedPage.title              "सुदार प्रतिष्ठापित जावपाक तयार">
 <!ENTITY  finishedPage.text               "फुडले खेप &brandShortName; सुरू जातकेर सुदार प्रतिष्ठापित जातलो. तुमी आता &brandShortName; परत चालू करपाक शकता, वो काम चालू दवरून मागीर परत चालू करपाक शकता.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "फुडले खेप &brandShortName; सुरू जातकेर सुदार प्रतिष्ठापित जातलो. तुमी &brandShortName; आता परत चालू करपाक शकचा, वो काम चालू दवरून मागीर परत चालू करपाक शकता.">
 
 
-<!ENTITY  update.details.label            "विवरण">
-<!ENTITY  update.installedOn.label        "वेर प्रतिष्ठापन केला:">
-<!ENTITY  update.status.label             "स्थिती :">

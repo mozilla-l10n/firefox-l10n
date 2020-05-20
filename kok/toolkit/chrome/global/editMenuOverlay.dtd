@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "वेंचात आनी सगलें ">
 <!ENTITY selectAllCmd.key          "S">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "सोदात">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">
