@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "S">
 <!ENTITY exitFullScreenCmd.label "Gadael Sgrin Lawn">
 <!ENTITY exitFullScreenCmd.accesskey "L">
+
 <!ENTITY fullScreenCmd.label "Sgrin Lawn">
 <!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "S">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Gwirio eich Cyfrif">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Lleihau">
 <!ENTITY fullScreenRestore.tooltip "Adfer">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Gosodiadau Cyfrif">
 <!ENTITY fxa.menu.manageAccount2.label "Rheoli Cyfrif">
 <!ENTITY fxa.menu.signOut.label "Allgofnodi…">
-<!ENTITY fxa.menu.deviceSettings.label "Gosodiadau Dyfais">
 <!ENTITY fxa.menu.setupSync.label "Gosod &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "t">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Mynd i'r cyfeiriad yn y Bar Lleoliad">
+
 <!ENTITY printButton.label            "Argraffu">
 <!ENTITY printButton.tooltip          "Argraffu'r dudalen">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
+
 
 <!ENTITY searchItem.title             "Chwilio">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "y">
 <!ENTITY manageUserContext.label          "Rheoli Cynhwysyddion">
 <!ENTITY manageUserContext.accesskey      "R">
+
 <!ENTITY newNavigatorCmd.label        "Ffenestr Newydd">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Rhagor">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Chwilio neu gyfeiriad gwe">
 <!ENTITY urlbar.accesskey             "g">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
+
 <!ENTITY pageAction.copyLink.label    "Copïo'r Ddolen">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Cadw i Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Cadw Tudalen i Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Cadw Dolen i Pocket">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
 <!ENTITY identity.connectionNotSecure "Nid yw'r Cysylltiad yn Ddiogel">
 
-<!ENTITY identity.connectionSecure3 "Cysylltiad yn ddiogel">
-<!ENTITY identity.connectionNotSecure2 "Cysylltiad yn anniogel">
-<!ENTITY identity.connectionNotSecureSecurityView "Nid ydych wedi'ch cysylltu'n ddiogel â'r wefan hon.">
 <!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
 <!ENTITY identity.connectionVerified2 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon, sy'n cael ei redeg gan:">
-<!ENTITY identity.connectionVerified3 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon.">
 <!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
 <!ENTITY identity.extensionPage "Mae'r dudalen wedi ei llwytho o estyniad.">
 <!ENTITY identity.insecureLoginForms2 "Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.">
 <!ENTITY identity.customRoot "Dilyswyd y cysylltiad gan gyhoeddwr tystysgrif nad yw'n cael ei gydnabod gan Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Tystysgrif wedi'i ryddhau i:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Mae &brandShortName; wedi rhwystro rhannau o'r dudalen nad ydynt yn ddiogel.">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Caniatâd">
 
-<!ENTITY identity.permissions3 "Caniatâd">
 <!ENTITY identity.permissionsEmpty "Nid ydych wedi rhoi i'r wefan hon unrhyw ganiatâd arbennig.">
 <!ENTITY identity.permissionsReloadHint "Efallai y bydd angen ail lwytho'r dudalen i newidiadau ddod ar waith.">
 <!ENTITY identity.permissionsPreferences.tooltip "Agor Dewisiadau Caniatâd">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Cau">
 

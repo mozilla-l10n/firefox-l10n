@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Modiwlau cofnodi Pori Diogel
 url-classifier-debug-modules = Y modiwlau cofnodi cyfredol
 url-classifier-debug-sbjs-modules = Cofnod Pori Diogel JS
 url-classifier-debug-file = Ffeil cofnod cyfredol
+
 url-classifier-trigger-update = Diweddariad Triger
 url-classifier-not-available = Dim Ar Gael
 url-classifier-disable-sbjs-log = Analluogi Cofnod JS Pori Diogel

@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Ynghylch &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "Mae &brandShortName; yn arbrofol a gall fod yn ansad.">
-<!ENTITY aboutPage.telemetryStart               " Mae'n anfon gwybodaeth yn awtomatig am berfformiad, caledwedd, defnydd a chyfaddasu nôl i ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " er mwyn cynorthwyo i wella &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Gwirio am Ddiweddariad »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Chwilio am ddiweddariadau…">
 <!ENTITY aboutPage.checkForUpdates.none         "Dim diweddariadau ar gael">

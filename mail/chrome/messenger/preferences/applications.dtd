@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Ychwanegu gwasanaeth storio Filelink newydd">
 <!ENTITY removeCloudFileAccount.label     "Tynnu">
 <!ENTITY removeCloudFileAccount.accesskey "T">
-<!ENTITY authRequired.description         "Mae angen eich caniatâd er mwyn gweld y gosodiadau ar y gwasanaeth storio hwn.">
-<!ENTITY authRequired.button.label        "Dilysu">
-<!ENTITY authRequired.button.accesskey    "D">
 
 <!ENTITY findCloudFileProviders.label     "Canfod rhagor o ddarparwyr…">
 

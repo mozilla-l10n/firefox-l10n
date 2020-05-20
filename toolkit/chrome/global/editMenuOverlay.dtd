@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Dewis Popeth">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "P">
+
 <!ENTITY findCmd.label             "Canfod">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "f">

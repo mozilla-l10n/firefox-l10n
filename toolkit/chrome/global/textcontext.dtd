@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Llanw'r Mewngofnodi">
 <!ENTITY fillLoginMenu.accesskey      "L">
-<!ENTITY fillGeneratedPassword.label  "Defnyddiwch Gyfrinair sydd wedi ei Gynhyrchu'n Ddiogel">
-<!ENTITY fillGeneratedPassword.accesskey "G">
-<!ENTITY useGeneratedPassword.label   "Defnyddio Cyfrinair sydd wedi ei Gynhyrchu'n Ddiogel…">
-<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Llanw'r Cyfrinair">
 <!ENTITY fillPasswordMenu.accesskey   "L">
 <!ENTITY fillUsernameMenu.label       "Llanw'r Enw Defnyddiwr">

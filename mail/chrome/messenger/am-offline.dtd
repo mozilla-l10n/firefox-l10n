@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "I arbed lle, peidio llwytho i lawr:">
 <!ENTITY doNotDownloadNntp.label "I arbed lle, peidio llwytho i lawr ar gyfer defnydd all-lein:">
 <!ENTITY doNotDownloadImap.label "I arbed lle ar ddisg, mae modd cyfyngu ar lwytho i lawr negeseuon o'r gweinydd a chadw copïau lleol yn ôl oed a maint.">
-<!ENTITY allFoldersOffline.label "Cadw negesuon ar gyfer y cyfrif hwn ar y cyfrifiadur">
-<!ENTITY allFoldersOffline.accesskey "C">
 <!ENTITY allFoldersOffline2.label "Cadw negesuon ym mhob ffolder ar gyfer y cyfrif yma ar y cyfrifiadur hwn">
 <!ENTITY allFoldersOffline2.accesskey "h">
 <!ENTITY allFoldersOfflineNote.label "Sylw: Bydd newid hwn yn effeithio ar holl ffolderi'r cyfrif hwn. I osod ffolderi unigol, defnyddiwch y botwm Uwch….">

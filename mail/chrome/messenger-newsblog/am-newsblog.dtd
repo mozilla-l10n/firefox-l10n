@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "Gwirio am erthyglau newydd wrth gychwyn">
-<!ENTITY loginAtStartup.accesskey      "w">
 <!ENTITY biffAll.label                 "Galluogi diweddariad i bob llif">
 <!ENTITY biffAll.accesskey             "G">
 

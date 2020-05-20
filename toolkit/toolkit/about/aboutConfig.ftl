@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Rwy'n deall y peryglon!
 config-about-warning-checkbox =
     .label = Dangos y rhybudd y tro nesaf
+
 config-search-prefs =
     .value = Chwilio:
     .accesskey = C
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Copïo
     .accesskey = C
+
 config-copy-name =
     .label = Copïo Enw
     .accesskey = n
+
 config-copy-value =
     .label = Copïo Gwerth
     .accesskey = G
+
 config-modify =
     .label = Newid
     .accesskey = e
+
 config-toggle =
     .label = Toglo
     .accesskey = T
+
 config-reset =
     .label = Ailosod
     .accesskey = A
+
 config-new =
     .label = Newydd
     .accesskey = N
+
 config-string =
     .label = Llinyn
     .accesskey = L
+
 config-integer =
     .label = Cyfanrif
     .accesskey = i
+
 config-boolean =
     .label = Booleaidd
     .accesskey = B
+
 config-default = rhagosodiad
 config-modified = newidwyd
 config-locked = cloi
+
 config-property-string = llinyn
 config-property-int = cyfanrif
 config-property-bool = booleaidd
+
 config-new-prompt = Rhoi enw blaenoriaeth
+
 config-nan-title = Gwerth annilys
 config-nan-text = Nid yw'r testun a gyflwynwyd yn rif.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Gwerth newydd { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Rhoi gwerth { $type }

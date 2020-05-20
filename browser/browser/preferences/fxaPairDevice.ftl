@@ -5,7 +5,11 @@
 fxa-pair-device-dialog =
     .title = Cysylltu Dyfais Arall
     .style = width: 26em; min-height: 35em;
+
 fxa-qrcode-heading-phase1 = 1. Os nad ydych chi wedi gwneud eisoes, gosodwch <a data-l10n-name="connect-another-device"> Firefox ar eich dyfais symudol </a>.
+
 fxa-qrcode-heading-phase2 = 2. Yna, mewngofnodwch i { -sync-brand-short-name }, neu ar Android sganio'r cod paru o fewn  gosodiadau { -sync-brand-short-name }.
+
 fxa-qrcode-error-title = Paru'n aflwyddiannus.
+
 fxa-qrcode-error-body = Ceisiwch eto

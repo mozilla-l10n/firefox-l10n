@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Canfod enghraifft nesaf yr ymadrodd
 findbar-previous =
     .tooltiptext = Canfod enghraifft flaenorol o'r ymadrodd
+
 findbar-find-button-close =
     .tooltiptext = Cau'r bar chwilio
+
 findbar-highlight-all2 =
     .label = Amlygu Popeth
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Amlygu pob enghraifft o'r ymadrodd
+
 findbar-case-sensitive =
     .label = Cydweddu Maint
     .accesskey = C
     .tooltiptext = Chwilio gyda sensitifrwydd maint nodau
+
 findbar-match-diacritics =
     .label = Diacritig cyfatebol
     .accesskey = i
     .tooltiptext = Gwahaniaethu rhwng nodau acennog a nodau sylfaenol, (e.e. wrth chwilio am “resume”, ni fydd “résumé” yn cael ei gynnig)
+
 findbar-entire-word =
     .label = Geiriau Llawn
     .accesskey = G

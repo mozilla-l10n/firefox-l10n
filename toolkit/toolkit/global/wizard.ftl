@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Nôl
     .accesskey = l
+
 wizard-macos-button-next =
     .label = Ymlaen
     .accesskey = Y
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Nesaf >
     .accesskey = e
+
 wizard-macos-button-finish =
     .label = Gorffen
 wizard-linux-button-finish =
     .label = Gorffen
 wizard-win-button-finish =
     .label = Gorffen
+
 wizard-macos-button-cancel =
     .label = Diddymu
 wizard-linux-button-cancel =

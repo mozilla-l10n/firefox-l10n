@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Chwilio Uwch drwy'r Llyfr Cyfeiriadau">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Edefyn">
-<!ENTITY fromColumn.label "Oddi wrth">
-<!ENTITY recipientColumn.label "Derbynnydd">
-<!ENTITY correspondentColumn.label "Cyfathrebwyr">
-<!ENTITY subjectColumn.label "Pwnc">
-<!ENTITY dateColumn.label "Dyddiad">
-<!ENTITY priorityColumn.label "Blaenoriaeth">
-<!ENTITY tagsColumn.label "Tagiau">
-<!ENTITY accountColumn.label "Cyfrif">
-<!ENTITY statusColumn.label "Statws">
-<!ENTITY sizeColumn.label "Maint">
-<!ENTITY junkStatusColumn.label "Statws Sbam">
-<!ENTITY unreadColumn.label "Heb eu Darllen">
-<!ENTITY totalColumn.label "Cyfanswm">
-<!ENTITY readColumn.label "Darllenwyd">
-<!ENTITY receivedColumn.label "Derbyniwyd">
-<!ENTITY starredColumn.label "Serennog">
-<!ENTITY locationColumn.label "Lleoliad">
-<!ENTITY idColumn.label "Trefn Derbyniwyd">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Dewis colofnau i'w dangos">
-<!ENTITY threadColumn2.tooltip "Ehangu edafedd negeseuon">
-<!ENTITY fromColumn2.tooltip "Trefnu yn ôl anfonwr">
-<!ENTITY recipientColumn2.tooltip "Trefnu yn ôl derbynnydd">
-<!ENTITY correspondentColumn2.tooltip "Trefnu yn ôl cyfathrebwyr">
-<!ENTITY subjectColumn2.tooltip "Trefnu yn ôl pwnc">
-<!ENTITY dateColumn2.tooltip "Trefnu yn ôl dyddiad">
-<!ENTITY priorityColumn2.tooltip "Trefnu yn ôl blaenoriaeth">
-<!ENTITY tagsColumn2.tooltip "Trefnu yn ôl tagiau">
-<!ENTITY accountColumn2.tooltip "Trefnu yn ôl cyfrif">
-<!ENTITY statusColumn2.tooltip "Trefnu yn ôl statws">
-<!ENTITY sizeColumn2.tooltip "Trefnu yn ôl maint">
-<!ENTITY junkStatusColumn2.tooltip "Trefnu yn ôl statws sbam">
-<!ENTITY unreadColumn2.tooltip "Nifer y negeseuon heb eu darllen yn y edefyn">
-<!ENTITY totalColumn2.tooltip "Cyfanswm y nifer o negeseuon yn yr edefyn">
-<!ENTITY readColumn2.tooltip "Trefnu yn ôl darllenwyd">
-<!ENTITY receivedColumn2.tooltip "Trefnu yn ôl dyddiad derbyniwyd">
-<!ENTITY starredColumn2.tooltip "Trefnu yn ôl sêr">
-<!ENTITY locationColumn2.tooltip "Trefnu yn ôl lleoliad">
-<!ENTITY idColumn2.tooltip "Trefnu yn ôl trefn derbyniwyd">

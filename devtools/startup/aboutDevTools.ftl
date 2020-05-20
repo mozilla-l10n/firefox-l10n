@@ -13,6 +13,7 @@ enable-common-message = Mae'r Firefox Developer Tools wedi ei analluogi yn rhago
 enable-learn-more-link = Dysgu rhagor am Developer Tools
 enable-enable-button = Galluogi Developer Tools
 enable-close-button = Cau'r Tab hwn
+
 welcome-title = Croeso i Firefox Developer Tools!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Derbyn newyddion, triciau ac adnoddau ar gyfer datblygwyr yn syth i'ch blwch derbyn.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Rwy'n fodlon i Mozilla drin fy manylion fel mae'n cae
 newsletter-subscribe-button = Tanysgrifio
 newsletter-thanks-title = Diolch!
 newsletter-thanks-message = Os nad ydych eisoes wedi cadarnhau tanysgrifiad i gylchlythyr yn perthyn i Mozilla, mae'n bosib y bydd yn rhaid i chi wneud hynny. Gwiriwch eich blwch derbyn neu eich hidl sbam am e-bost gennym ni.
+
 footer-title = Firefox Developer Edition
 footer-message = Chwilio am fwy na dim ond Developer Tools? Edrychwch ar y porwr Firefox sydd wedi ei adeiladu yn benodol ar gyfer datblygwyr a'r llif gwaith modern.
 footer-learn-more-link = Dysgu rhagor
+
 features-learn-more = Dysgu rhagor
 features-inspector-title = Archwiliwr
 features-inspector-desc = Archwilio a gwella cod er mwyn adeiladu cynlluniau picsel berffaith. <a data-l10n-name="learn-more">{ features-learn-more }</a>

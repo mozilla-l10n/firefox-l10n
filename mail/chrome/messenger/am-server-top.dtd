@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Llwytho i lawr negeseuon newydd yn awtomatig">
 <!ENTITY downloadOnBiff.accesskey "a">
-<!ENTITY username.label "Eich Enw Mewngofnodi">
 <!ENTITY deleteMessagePrefix.label "Pan fyddaf yn dileu neges:">
 <!ENTITY modelMoveToTrash.label "Ei symud i'r ffolder yma:">
 <!ENTITY modelMoveToTrash.accesskey "y">

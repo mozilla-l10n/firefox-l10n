@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "G">
 <!ENTITY helpSafeMode.label     "Ailgychwyn gydag Ychwanegion wedi'u Hanalluogi…">
 <!ENTITY helpSafeMode.accesskey "A">
-<!ENTITY releaseCmd2.label "Nodiadau Rhyddhau">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Beth sy'n Newydd">
-<!ENTITY whatsNewCmd.accesskey "N">
-<!ENTITY openHelp.label "Cynnwys Cymorth">
-<!ENTITY openHelp.accesskey "y">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Cymorth &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "Ynghylch &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "Y">
 <!ENTITY helpSafeMode.stop.label     "Ailgychwyn gydag Ychwanegion wedi eu Galluogi">
 <!ENTITY helpSafeMode.stop.accesskey "A">
 <!ENTITY productHelp.label "Cymorth &brandShortName;">

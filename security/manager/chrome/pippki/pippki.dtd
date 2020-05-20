@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Rydych wedi cael cais i ymddiried mewn Awdurdod Tystysgrifo (CA) newydd.">
 <!ENTITY downloadCert.trustSSL "Ymddiried yn yr Awdurdod Tystysgrifo i adnabod gwefannau.">
 <!ENTITY downloadCert.trustEmail "Ymddiried yn yr Awdurdod Tystysgrifo i adnabod defnyddwyr e-bost.">
-<!ENTITY downloadCert.trustObjSign "Ymddiried yn yr Awdurdod Tystysgrifo i adnabod datblygwyr meddalwedd.">
 <!ENTITY downloadCert.message3 "Cyn ymddiried mewn Awdurdod Tystysgrifo at unrhyw bwrpas, dylech archwilio ei dystysgrif a'i bolisi a chanllawiau (os yw ar gael).">
 <!ENTITY downloadCert.viewCert.label "Golwg">
 <!ENTITY downloadCert.viewCert.text "Archwilio tystysgrif Awdurdod Tystysgrifo">
