@@ -26,6 +26,7 @@ import =
 close-button =
     .label = Ggalawo
     .accesskey = G
+
 remove-all-passwords-prompt = Okakasa wandiyagadde okuggyawo obusumuluzo bwonna?
 remove-all-passwords-title = Ggyamu obusumuluzo bwonna
 no-master-password-prompt = Okakasa wandiyagadde okulaga obusumuluzo bwo?

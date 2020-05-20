@@ -13,9 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Okukyusa enteegeka ezekika ekya wagulu kiyinza okuvamu akabbi ku butebenkevu, ebyokwerinda, ne'nkola ya pulogulamu eno. Weyongerayo bwoba wekakasa kyokola.
 config-about-warning-checkbox =
     .label = Langa akalabula kano edda
+
 config-search-prefs =
     .value = Noonya:
     .accesskey = n
+
 config-focus-search =
     .key = r
 
@@ -43,44 +45,59 @@ config-copy-pref =
     .key = C
     .label = Koppa
     .accesskey = K
+
 config-copy-name =
     .label = Koppa Erinya
     .accesskey = E
+
 config-copy-value =
     .label = Koppa Omuwendo
     .accesskey = O
+
 config-modify =
     .label = Tereza
     .accesskey = T
+
 config-toggle =
     .label = Kufula
     .accesskey = K
+
 config-reset =
     .label = Ddamu otegeke
     .accesskey = D
+
 config-new =
     .label = Kipya
     .accesskey = a
+
 config-string =
     .label = Akaguwa
     .accesskey = A
+
 config-integer =
     .label = Ennamba
     .accesskey = E
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = eky'enkalakalira
 config-locked = kisibe
+
 config-property-string = ekigambo
 config-property-int = ennamba
 config-property-bool = biribiri
+
 config-new-prompt = Yingiza erinya lyokigwanyiza
+
 config-nan-title = Ekiyingiziddwa kiffu
 config-nan-text = Enyukuta zoyingiziza si namba.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Enamba ya { $type } empya
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Yingiza ennamba ya { $type }

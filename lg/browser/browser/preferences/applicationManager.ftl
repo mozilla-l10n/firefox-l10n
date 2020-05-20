@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Ebikwata ku Application
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Jjawo
     .accesskey = J
-app-manager-handle-webfeeds = Empeereza eno esobola okukozesebwa ku Ebiweereza Emitimbagano.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Empeereza eno esobola okukozesebwa ku { $type } obugatta.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Empeereza eno esobola okukozesebwa ku { $type } ebirimu.

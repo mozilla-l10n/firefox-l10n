@@ -8,6 +8,7 @@ password-quality-meter = Akasumulizo ekipimo ekyomuwendo
 
 change-password-window =
     .title = Kyusa Akasumulizo ka Masita
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kya byakwerinda: { $tokenName }

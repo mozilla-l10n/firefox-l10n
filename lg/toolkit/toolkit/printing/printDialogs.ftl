@@ -92,5 +92,6 @@ print-window =
     .title = Okufulumya
 print-complete =
     .value = Okufulumya kuwedde.
+
 dialog-cancel-label = Sazaamu
 dialog-close-label = Bikkako

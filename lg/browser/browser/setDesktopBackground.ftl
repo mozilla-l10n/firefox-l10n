@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = Teeka Obwaliriro ku Sikulini
+
 set-desktop-background-accept =
     .label = Teeka Obwaliriro ku Sikulini
+
 open-desktop-prefs =
     .label = Ggulawo Okweroboza ku Sikulini
+
 set-background-color = Langi:
+
 set-background-position = Ekifo:
+
 set-background-tile =
     .label = Omutwe
+
 set-background-center =
     .label = Wakati
+
 set-background-stretch =
     .label = Goolola
+
 set-background-fill =
     .label = Juzza
+
 set-background-fit =
     .label = Yingiza

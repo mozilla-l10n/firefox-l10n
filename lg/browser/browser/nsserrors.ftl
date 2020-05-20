@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Tekisoboka kuyunga bulungi kubanga amateeka ga SSL gaanafuyiziddwa.
 psmerr-ssl2-disabled = Tekisoboka kuyunga bulungi kubanga ekibanja kikozesa amateeka ga SSL amakadde era ag'ekika ekiteesigika.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ofunye olukusa olukyamu.  Bambi tuukirira omukulu w'enfo egabirira oba akola ku ndagiriro awafunirwa n'okusindikira obubaka ku utimbagano era obawe amawulire gano:
     
     Olukusa lwo lirina emiwendo egifaanagana n'olukusa olulala olwagabwa ab'obuyinza.  Bambi funa olukusa oluggya nga lulina omuwendo omwawufu.
+
 ssl-error-no-cypher-overlap = Tosobola kuwulizigannya n'akakiiko bulungi: tewali miwendo gy'awamu gikakasa(s).
 ssl-error-no-certificate = Tekisobose kuzuula lukusa oba kisumuluzo kyetagisa okukakasa.
 ssl-error-bad-certificate = Tekisobose kuwuriziganya bulungi n'akakiiko: olukusa lw'akakiiko lwaganibwa.

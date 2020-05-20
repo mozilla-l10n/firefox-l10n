@@ -4,3 +4,7 @@
 
 show-next-time-checkbox = Langa akalabula kano edda
 ok = OK
+
+## Link is intended as "network link"
+
+##

@@ -5,6 +5,7 @@
      a better place to live. -->
 
 <!ENTITY syncBrand.fullName.label "Okutusaganya Firefox">
+
 <!ENTITY syncBrand.shortName.label "Tusaganya">
 <!-- Main titles. -->
 
@@ -33,6 +34,7 @@
 <!ENTITY bookmarks.folder.desktop.label "Obulambe bwo Kumeza">
 <!ENTITY bookmarks.folder.mobile.label "Obulambe Obukyuka">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
@@ -100,3 +102,4 @@
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+

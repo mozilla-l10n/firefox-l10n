@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -17,9 +18,6 @@
 
 
 <!-- Tab context menu -->
-
-<!ENTITY  reloadTab.label                    "Ddamu otikke Awaddirira">
-<!ENTITY  reloadTab.accesskey                "D">
 
 
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
@@ -41,15 +39,6 @@ can reach it easily. -->
 
 
 
-
-<!ENTITY  moveToNewWindow.label              "Teeka mu Ddirisa ppya">
-<!ENTITY  moveToNewWindow.accesskey          "D">
-
-
-
-
-<!ENTITY  closeTab.label                     "Ggalawo Awaddirira">
-<!ENTITY  closeTab.accesskey                 "G">
 
 <!ENTITY  listAllTabs.label      "Tekawo olukalala kw'awaddirira wonna">
 
@@ -89,6 +78,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Ensibuko y'Omuko">
 <!ENTITY pageSourceCmd.accesskey "n">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Ebikwata ku'muko">
 <!ENTITY pageInfoCmd.accesskey "b">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -100,6 +90,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "E">
 <!ENTITY exitFullScreenCmd.label "Fuluma Sikulini Enzijjuvu">
 <!ENTITY exitFullScreenCmd.accesskey "E">
+
 <!ENTITY fullScreenCmd.label "Sikulini mu Bujjuvu">
 <!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -125,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -154,8 +145,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-<!ENTITY subscribeToPageMenuitem.label "Wewandiise ku Mukko Guno…">
 <!ENTITY addCurPagesCmd.label "Lamba Awaddirira Wona…">
+
 <!ENTITY showAllBookmarks2.label "Laga Obulambe Bwonna">
 
 
@@ -174,7 +165,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Genda ku Ndagiriro eri mu Kabawo Akalagirira">
+
 <!ENTITY printButton.label            "Fulumya">
 <!ENTITY printButton.tooltip          "Fulumya omuko guno">
 
@@ -205,10 +198,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+
 <!ENTITY bookmarksButton.label          "Obulambe">
 <!ENTITY bookmarksCmd.commandkey "b">
-
-<!ENTITY bookmarksMenuButton.label          "Obulambe">
 
 
 
@@ -297,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "A">
 <!ENTITY viewSidebarMenu.label "Olusangiro lw'emabbali">
 <!ENTITY viewSidebarMenu.accesskey "o">
+
 <!ENTITY viewCustomizeToolbar.label       "Kifuule ky'oyagala…">
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
 
@@ -310,8 +303,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
-
-<!ENTITY appMenuCustomize.label "Fula">
 
 
 
@@ -383,10 +374,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nedda">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Yee">
-
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
@@ -449,6 +436,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Ggulawo Akayungiro Awaddirira Awapya">
+
 <!ENTITY openLinkCmdInTab.accesskey   "A">
 <!ENTITY openLinkCmd.label            "Ggulawo Akayungiro mu Ddirisa Epya">
 <!ENTITY openLinkCmd.accesskey        "D">
@@ -468,7 +456,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Ddamu otikke Olugo">
 <!ENTITY reloadFrameCmd.accesskey     "D">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Laba Ensibuuko Ennonde">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Laba Ensibuuko ya MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -545,6 +532,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Olugo Luno">
 <!ENTITY thisFrameMenu.accesskey          "n">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -595,6 +583,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "m">
 <!ENTITY videoHideStats.label        "Kweka Embalirira">
 <!ENTITY videoHideStats.accesskey    "m">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -621,6 +610,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Zimbulukusa ekiwandike kyokka">
 <!ENTITY fullZoomToggleCmd.accesskey    "e">
+
 <!ENTITY fullZoom.label                 "Zimbulukusa">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -648,8 +638,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "T">
 <!ENTITY pageStylePersistentOnly.label "Omusono gw'omuko ogusokerwaako">
 <!ENTITY pageStylePersistentOnly.accesskey "O">
-
-<!ENTITY pageReportIcon.tooltip            "Kyusa entegeka yokuziiyiza pop-up ku nfo eno">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -715,6 +703,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
+
 <!ENTITY tabsToolbar.label "Amapeesa aganonya">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
@@ -758,17 +747,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY customizeMode.restoreDefaults "Zaawo ebyenkalakalira">
-
-
-
-<!ENTITY customizeMode.lwthemes "Emiramwa">
-
-<!ENTITY customizeMode.lwthemes.recommended "Ekisembebwa">
-<!ENTITY customizeMode.lwthemes.menuManage "Duddukanya">
-
-
-
 
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
@@ -809,11 +787,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.message "Okugoberera">
-
-
-
-
 
 
 
@@ -832,7 +805,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 
-<!ENTITY appMenuSidebars.label         "Obubawobwokubali">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -843,12 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
-
-<!ENTITY panicButton.view.undoWarning             "Ekikolwa kino tekisobola kudda mabega.">
 
 
 

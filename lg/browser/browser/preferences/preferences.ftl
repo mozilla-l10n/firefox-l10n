@@ -8,21 +8,27 @@ pref-page =
             [windows] Ebyokulondako
            *[other] Okweroboza
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] Ebyokulondako
        *[other] Okweroboza
     }
+
 pane-general-title = Awamu
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = Noonya
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 focus-search =
     .key = f
+
 close-button =
     .aria-label = Ggalawo
 
@@ -47,25 +53,34 @@ should-restart-title = Ddamu otandike { -brand-short-name }
 ## General Section
 
 startup-header = Entandika
+
 is-default = { -brand-short-name } ye'nonyeso yo eyenkalakalira kakati
+
 tabs-group-header = Awaddirira
+
 show-tabs-in-taskbar =
     .label = Laga okunnoza awaddirira ku kabawo ke ebikola
     .accesskey = k
 
+
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Enukuta ne Langi
+
 advanced-fonts =
     .label = Ekisukkulumu…
     .accesskey = l
+
 colors-settings =
     .label = Langi…
     .accesskey = L
+
 choose-language-description = Londako olulimi lwoyagala okulabiramu emiko
+
 choose-button =
     .label = Londako…
     .accesskey = d
+
 translate-exceptions =
     .label = Ebyawufu…
     .accesskey = b
@@ -73,9 +88,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Ebiwanuddwa
+
 download-save-to =
     .label = Teleka fayiro ku
     .accesskey = l
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -87,40 +104,50 @@ download-choose-folder =
             [macos] a
            *[other] o
         }
+
 applications-type-column =
     .label = Ebirimu Kyikka
     .accesskey = K
+
 applications-action-column =
     .label = Ekola
     .accesskey = E
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } fayiro
 applications-action-save =
     .label = Tereka Fayiro
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Kozesa { $app-name }
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Koseza { $app-name } (enkalalira)
+
 applications-use-other =
     .label = Kozesa ekilala…
 applications-select-helper = Kebera Enkozesesa Eyamba
+
 applications-manage-app =
     .label = Ebikwata ku`Enkozesesa…
 applications-always-ask =
     .label = Sambaa nga
 applications-type-pdf = Portable Document Format (PDF)
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -134,16 +161,22 @@ applications-preview-inapp =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -162,12 +195,15 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Kunoonya
+
 browsing-use-autoscroll =
     .label = Kozesa aketwala kooka
     .accesskey = s
+
 browsing-use-smooth-scrolling =
     .label = Kozesa okutambuza okuwereete
     .accesskey = o
+
 browsing-use-cursor-navigation =
     .label = Bulikisera kozesa amapesa nga akawandiika lambula mumiko
     .accesskey = r
@@ -194,6 +230,7 @@ use-current-pages =
            *[other] Kozesa emiko Ej'obuliwo
         }
     .accesskey = k
+
 choose-bookmark =
     .label = Kozesa Akalambe…
     .accesskey = e
@@ -205,6 +242,7 @@ choose-bookmark =
 
 search-choose-keyword-column =
     .label = Ekigambo ekikulu
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Ekigambo ekikulu Kiddiddwamu
@@ -240,6 +278,7 @@ search-keyword-warning-bookmark = Olonze ekigambo ekikulu ekiri mu kukozesebwa a
 sync-engine-bookmarks =
     .label = Obulambe
     .accesskey = l
+
 sync-engine-history =
     .label = Ebyafaayo
     .accesskey = f
@@ -259,14 +298,18 @@ sync-tos-link = Amateeka g'empeereza
 forms-exceptions =
     .label = Okujjako…
     .accesskey = k
+
 forms-master-pw-use =
     .label = Kozesa ekisumuluzo ekifuga byonna
     .accesskey = m
 forms-master-pw-change =
     .label = Kyuusa Ekisumuluzo Ekifuga byonna…
     .accesskey = E
+
 forms-master-pw-fips-title = Kati olimu FIPS modi. FIPS enyagala Akasumulizo ka Masita okubamu.
 forms-master-pw-fips-desc = Okukyuusa Akasumulizo ku Ganye
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -276,16 +319,21 @@ history-remember-option-never =
     .label = Tojjukiranga ebyafaayo
 history-remember-option-custom =
     .label = Kozesa entegeka eyiyo ku byafaayo
+
 history-dontremember-description = { -brand-short-name } ejja kkozesa entegekka yemu nga enoonyereza eyo bwa nnannyini, era tejja kujjukira byafaayo nga bwo obiwamanta ku Mutimbangano.
+
 history-private-browsing-permanent =
     .label = Kozesanga okunonya okutongozeddwa ebiseera byoona
     .accesskey = u
+
 history-remember-search-option =
     .label = Jjukira enonyeddwa nebi genze mu fomu
     .accesskey = f
+
 history-clear-on-close-option =
     .label = Jjawo ebifudewo nga { -brand-short-name } eggaddwawo
     .accesskey = w
+
 history-clear-on-close-settings =
     .label = Entegeka…
     .accesskey = t
@@ -314,9 +362,11 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = Zibikira ebyereeta byokka mu ddirisa
     .accesskey = Z
+
 permissions-block-popups-exceptions =
     .label = Ebyawufu…
     .accesskey = w
+
 permissions-addon-exceptions =
     .label = Okujjako…
     .accesskey = j
@@ -339,3 +389,4 @@ certs-header = Zasatifiketi
 desktop-folder-name = Sikulini
 downloads-folder-name = Ebiwanundwa
 choose-download-folder-title = Londako okuwanula ebasa:
+

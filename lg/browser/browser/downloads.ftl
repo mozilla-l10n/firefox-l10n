@@ -15,20 +15,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Biddemu ate
     .accesskey = B
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Ggulawo Ebirimu Etterekero
     .accesskey = E
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Laga mu Kizuula
     .accesskey = K
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Laga mu Kizuula
            *[other] Ggulawo Ebirimu Etterekero
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -41,6 +45,7 @@ downloads-cmd-show-description =
             [macos] Laga mu Kizuula
            *[other] Ggulawo Ebirimu Etterekero
         }
+
 downloads-cmd-retry =
     .tooltiptext = Ddamu
 downloads-cmd-retry-panel =
@@ -51,9 +56,11 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Koppa Ekinnyunga Ebiwanulwa
     .accesskey = E
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Laaga Ebitikulwa Byoona
     .accesskey = L
+

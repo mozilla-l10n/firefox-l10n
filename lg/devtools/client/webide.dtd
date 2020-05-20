@@ -81,6 +81,7 @@
 
 
 <!-- Decks -->
+
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "Ggulawo akulira ebyongerwako">
 <!-- Prefs -->
@@ -133,11 +134,6 @@
 
 <!-- Logs panel -->
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Enkola">
 
 
 

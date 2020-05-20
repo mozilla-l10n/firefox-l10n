@@ -4,39 +4,51 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Buloka
     .accesskey = B
+
 permissions-session =
     .label = Kkiriza kulwo Embaga
     .accesskey = E
+
 permissions-allow =
     .label = Kkiriza
     .accesskey = K
+
 permissions-site-name =
     .label = Olutimbe
+
 permissions-status =
     .label = Embera
+
 permissions-remove =
     .label = Jjamu Olutimbe
     .accesskey = J
+
 permissions-remove-all =
     .label = Jjamu Entimbe zzona
     .accesskey = R
+
 permissions-button-cancel =
     .label = Sazaamu
     .accesskey = S
+
 permissions-button-ok =
     .label = Teleka By'okyusiza
     .accesskey = T
+
 permissions-searchbox =
     .placeholder = Nnonya ku Lutimbe
+
 permissions-capabilities-allow =
     .label = Kkiriza
 permissions-capabilities-block =
     .label = Zibikkira
 permissions-capabilities-prompt =
     .label = Buuza bulikasera
+
 permissions-capabilities-listitem-allow =
     .value = Kkiriza
 permissions-capabilities-listitem-block =
@@ -69,11 +81,15 @@ permissions-exceptions-addons-desc = Oyinza okulondamu ebibanja ebikkirizibwa ok
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Akaawula Akapya">
 <!ENTITY cmd.new_separator.accesskey       "A">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Ddamu Otikke akalambe Kolaba">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "D">
-
-<!ENTITY cmd.moveBookmarks.label                  "Tambula…">
-<!ENTITY cmd.moveBookmarks.accesskey              "T">
-
 <!ENTITY col.name.label          "Erinnya">
 <!ENTITY col.tags.label          "Ta'aga">
 <!ENTITY col.url.label           "Ekifo">
 
 <!ENTITY col.visitcount.label    "Okukyala bw'Enkebera">
-<!ENTITY col.description.label   "Ennyinyonnyola">
 <!ENTITY col.dateadded.label     "Kigattiddwako">
 <!ENTITY col.lastmodified.label  "Kyasemba Kutereezebwa">
 
@@ -96,10 +89,6 @@
 
 <!ENTITY forwardButton.tooltip  "Weyongereyo mu maaso">
 
-<!ENTITY detailsPane.more.label "Ebisingawo">
-<!ENTITY detailsPane.more.accesskey "E">
-<!ENTITY detailsPane.less.label "Ebitono">
-<!ENTITY detailsPane.less.accesskey "b">
 <!ENTITY detailsPane.selectAnItemText.description "Londayo ekintu nga bw'okirongoosamu">
 
 <!ENTITY view.label               "Endabika">

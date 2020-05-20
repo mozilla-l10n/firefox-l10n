@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Wummuzaamu
 pictureinpicture-play =
     .aria-label = Zanya
+
 pictureinpicture-mute =
     .aria-label = Jjako eddobozi
 pictureinpicture-unmute =
     .aria-label = Zzako eddobozi
+

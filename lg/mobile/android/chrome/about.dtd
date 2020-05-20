@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Ebikwata ku &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; yakugezesa era eyinza okuba nga sintebenkevu.">
-<!ENTITY aboutPage.telemetryStart               " Ewereza yoka obubaka obukwata ku nkola, ebyuma, enkozesa ne entegeka ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " okuyamba mukulungiya &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Kebera Ebituusa »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Noonya etuukaganya…">
 <!ENTITY aboutPage.checkForUpdates.none         "Tewali Kituusa Kiriwo">
@@ -20,3 +17,4 @@
 <!ENTITY aboutPage.credits.label                "Abantu abakoze bino">
 <!ENTITY aboutPage.license.label                "Ebikwata ku lisinsi">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
+

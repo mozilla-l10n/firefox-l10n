@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = Zuula ekidako mukweddamu mumiteddera
 findbar-previous =
     .tooltiptext = Zuula awayise mukweddamu mumiteddera
+

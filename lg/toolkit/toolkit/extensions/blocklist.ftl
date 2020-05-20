@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Tandikka buto { -brand-short-name }
     .accesskey = T
+
 blocklist-label-summary = { -brand-short-name } eraze nti ebyokwongerako bino wammanga byatiikirivu mu kuleeta obutebenkevu oba emitawaana mu byokwerinda:
 blocklist-soft-and-hard = Ebyokwongerako ebirina omutawaana omunene mu kuleeta obutebenkevu oba emitawaana mu byokwerinda buzibikiddwa. Obulala ssi bwa mutawaana nnyo naye oweebwa amagezi okutandika buto ng'obunafuyizza.
 blocklist-hard-blocked = Ebyokwongerako bino birina omutawaana munene mu kuleeta obutebenkevu oba emitawaana mu byokwerinda era buzibikiddwa., naye kyetagisa okutandika buto okusobola okubunafuyiza ddala.
 blocklist-soft-blocked = Olw'ebyokwerinda kwo, oweebwa amagezi okuddamu okutandisa ng'ebyokwongerako bino obinafuyizza.
 blocklist-more-information =
     .value = Eby'okumanya ebirala
+
 blocklist-blocked =
     .label = Kyiziyiziddwa
 blocklist-checkbox =

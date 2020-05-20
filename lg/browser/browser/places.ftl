@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Gulirawo mu Ddirisa Epya
     .accesskey = E
+
 places-new-bookmark =
     .label = Akapya Akalambe…
     .accesskey = A
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Akaawula Akapya
     .accesskey = A
+
 places-view =
     .label = Endabika
     .accesskey = a
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ku Lunaku n'Ekibanja
     .accesskey = n
+
 places-delete-domain-data =
     .label = Werabire Ebikwata ku Muko Gunno
     .accesskey = W

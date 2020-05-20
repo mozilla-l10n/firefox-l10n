@@ -13,9 +13,13 @@ create-profile-first-page-header =
         [macos] Enyajjula
        *[other] Tukwaniriza ku { create-profile-window.title }
     }
+
 profile-creation-explanation-1 = { -brand-short-name } etereka ebikwata ku ntegeka yo, ebyokweroboza, obulambe na'mabaluwa mu pulofailo yo.
+
 profile-creation-explanation-2 = Bwoba ogabana kopi eza { -brand-short-name } nabakozesa abalala, oyinza okozesa pulofailo okwawula ebiwandiiko bya buli mukozesa. Okukola kino, buli mukozesa alina okukola pulofailo eyiye.
+
 profile-creation-explanation-3 = Bwoba ng'okozesa { -brand-short-name } wekka, otondawo pulofailo wakiri emu. Oyinza okukola ezisingawo okutereza entereeza eziwera. Okyokulabirako oyinza okwagala pulofailo eyiyo okwawukana ku ya bizinensi yo.
+
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Okutondawo pulofailo kakati, koona ku ekidirira.
@@ -29,15 +33,21 @@ create-profile-last-page-header =
         [macos] Obufuuze
        *[other] Kuwendde { create-profile-window.title }
     }
+
 profile-creation-intro = Bwokola pulofailo enyingi osobola okuzawula ng'okozesa amannya gaazo. Oyinza okukozesa erinnya erikuwereddwa wano oba lyoyagala.
+
 profile-prompt = Yingizaamu erinnya lya pulofailo epya:
     .accesskey = Y
+
 profile-default-name =
     .value = Omukozesa ow'enkalakalira
+
 profile-directory-explanation = Enteegeka yo jokozesa, ebyokwerobozaa ne bwiino omulala afanaganana gwebakozesa ajakuterekebwamu:
+
 create-profile-choose-folder =
     .label = Londa Ebaasa…
     .accesskey = L
+
 create-profile-use-default =
     .label = Kozesa foloda Esangibwamu
     .accesskey = K

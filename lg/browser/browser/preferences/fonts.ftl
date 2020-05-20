@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Ennukuta
+
 fonts-window-close =
     .key = w
 
@@ -73,18 +74,25 @@ fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Sans Serifa
+
 fonts-proportional-size = sayizi
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Sayizi
     .accesskey = z
+
 fonts-minsize = Sayizi y'ebigambo esinga obutono
     .accesskey = o
+
 fonts-minsize-none =
     .label = Tewali
 
@@ -123,9 +131,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Oluveetinaamu
 fonts-languages-fallback-name-other =
     .label = Lulala (nabe'Bulaya e'Bugwa Njuba)
-fonts-very-large-warning-title = Sayizi esinga obunene ey'ebigambo
-fonts-very-large-warning-message = Olonze sayizi nene nyo ey'ebigambo ebitono (esinga pixel 24). Kino kijja ku kalubiriza oba okulemesa okukozesa entimbe ezimu nga luno lw'oliko.
-fonts-very-large-warning-accept = Sifayo biteleke bwotyo
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
