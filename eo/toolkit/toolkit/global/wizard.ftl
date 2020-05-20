@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Malantaŭen
     .accesskey = M
+
 wizard-macos-button-next =
     .label = Daŭrigi
     .accesskey = D
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Antaŭen  >
     .accesskey = A
+
 wizard-macos-button-finish =
     .label = Preta
 wizard-linux-button-finish =
     .label = Fini
 wizard-win-button-finish =
     .label = Fini
+
 wizard-macos-button-cancel =
     .label = Nuligi
 wizard-linux-button-cancel =

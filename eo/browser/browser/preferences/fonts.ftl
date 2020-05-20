@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tiparoj
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tiparoj por
     .accesskey = T
+
 fonts-langgroup-arabic =
     .label = Araba
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcia
     .accesskey = P
+
 fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Senserifa
+
 fonts-proportional-size = Grando
     .accesskey = r
+
 fonts-serif = Serifa
     .accesskey = S
+
 fonts-sans-serif = Senserifa
     .accesskey = n
+
 fonts-monospace = Egallarĝa
     .accesskey = E
+
 fonts-monospace-size = Grando
     .accesskey = G
+
 fonts-minsize = Minimuma grando de tiparo
     .accesskey = M
+
 fonts-minsize-none =
     .label = Neniu
+
 fonts-allow-own =
     .label = Permesi al paĝoj elekti siajn proprajn tiparojn, anstataŭ tiujn, kiujn vi supre elektis
     .accesskey = P
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Teksta enkodigo por kaduka enhavo
 fonts-languages-fallback-desc = Tiu ĉi teksta enkodigo estas uzita por kaduka enhavo kiu ne deklaris sian enkodigon.
+
 fonts-languages-fallback-label = Alternativa teksta ekondigo
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Normo por la nuna lokaĵaro
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vjetnama
 fonts-languages-fallback-name-other =
     .label = Aliaj (kaj Okcidenteŭropa)
-fonts-very-large-warning-title = Tre granda minimuma tipara grando
-fonts-very-large-warning-message = Vi elektis tre grandan minimuman tiparan grando (pli ol 24 bilderoj). Tiu povas malfaciligi aŭ malebligi la uzon de kelkaj gravaj agordaj paĝoj, ekzemple tiu ĉi.
-fonts-very-large-warning-accept = Tamen konservi miajn ŝanĝojn
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

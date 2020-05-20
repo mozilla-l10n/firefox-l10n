@@ -29,8 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Plenigi akreditilon">
 <!ENTITY fillLoginMenu.accesskey      "P">
-<!ENTITY useGeneratedPassword.label   "Uzi sekuran, aŭtomate kreitan, pasvorton…">
-<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Plenigi pasvorton">
 <!ENTITY fillPasswordMenu.accesskey   "P">
 <!ENTITY fillUsernameMenu.label       "Plenigi uzantonomon">

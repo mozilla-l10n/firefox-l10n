@@ -136,11 +136,6 @@
 <!ENTITY options.timestampMessages.label      "Aktivigi tempostampojn">
 <!ENTITY options.timestampMessages.tooltip    "Se vi aktivigas tiun ĉi elekteblon, ordonoj kaj eligo en la Teksaĵa konzolo montros tempostampon">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Grupigi similajn mesaĝojn">
-<!ENTITY options.warningGroups.tooltip    "Se tio estas aktiva, similaj mesaĝoj estos grupigitaj">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Erarserĉilo">

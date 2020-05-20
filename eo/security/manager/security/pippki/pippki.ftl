@@ -8,6 +8,7 @@ password-quality-meter = Mezurilo de pasvorta kvalito
 
 change-password-window =
     .title = Ŝanĝi ĉefan pasvorton
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sekureca aparato: { $tokenName }

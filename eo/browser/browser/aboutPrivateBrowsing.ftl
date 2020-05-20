@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Pli da informo pri <a data-l10n-name="learn-more">Privata retumo</a>.
 about-private-browsing-info-visited = vizititajn paĝojn
+
 privatebrowsingpage-open-private-window-label = Malfermi privatan fenestron
     .accesskey = p
 about-private-browsing-info-notsaved = Dum vi retumas en privata fenestro, { -brand-short-name } <strong>ne konservas</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Vi ne estas nun en privata fenestro.
 content-blocking-title = Blokado de enhavo
 content-blocking-description = Kelkaj retejoj uzas spurilojn kiuj povas sekvi vin tra la reto. En privataj fenestroj, la blokado de enhavo de { -brand-short-name } aŭtomate blokos plurajn spurilojn, kiuj povus kolekti informojn pri via retumo.
 about-private-browsing-info-description = { -brand-short-name } forviŝos vian serĉan kaj retuman historion kiam vi finas la programon aŭ fermas ĉiujn langetojn kaj fenestrojn en privata retumo. Kvankam tio ĉi ne igas vin anonima por retejoj aŭ via reta provizanto, ĝi faciligas la taskon kaŝi vian retumon de aliaj uzantoj en la sama komputilo.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

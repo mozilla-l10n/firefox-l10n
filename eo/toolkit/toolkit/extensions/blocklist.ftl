@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Restartigi { -brand-short-name }
     .accesskey = R
+
 blocklist-label-summary = { -brand-short-name } eltrovis, ke la jenaj aldonaĵoj okazigas stabilecajn aŭ sekurecajn problemojn:
 blocklist-soft-and-hard = La aldonaĵoj kiuj tre riskas okazigi stabilecajn aŭ sekurecajn problemojn estis blokitaj. La aliaj estas malpli riskaj sed estas treege rekomendata malaktivigi ilin kaj restartigi.
 blocklist-hard-blocked = Tiuj ĉi aldonaĵoj tre riskas okazigi stabilecajn aŭ sekurecajn problemojn kaj ili estis blokitaj, sed restartigo estas postulata por tuta malaktivigo.
 blocklist-soft-blocked = Por via protektado estas treege rekomendata ke vi restartigu la programon kun tiuj aldonaĵoj malaktivaj.
 blocklist-more-information =
     .value = Plia informo
+
 blocklist-blocked =
     .label = Blokita
 blocklist-checkbox =

@@ -54,6 +54,7 @@ close-tab =
     .title = Fermi langeton
 show-addon =
     .title = Montri en administrilo de aldonaĵoj
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

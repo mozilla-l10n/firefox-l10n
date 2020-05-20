@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "postuli (ne permesas sendi mesaĝon, kiam ne ĉiuj ricevontoj havas atestilojn)">
 <!ENTITY alwaysEncryptMessage.accesskey "p">
 <!ENTITY encryptionCert.message "Atestilo por ĉifri kaj malĉifri ricevatajn mesaĝojn:">
+
 <!ENTITY digitalSign.certificate.button "Elekti…">
 <!ENTITY digitalSign.certificate.accesskey "E">
 <!ENTITY digitalSign.certificate_clear.button "Forviŝi">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Elekti atestilon">
 <!ENTITY certPicker.info  "Atestilo:">
 <!ENTITY certPicker.detailsLabel "Detaloj pri elektita atestilo:">
+

@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Mi akceptas la riskon!
 config-about-warning-checkbox =
     .label = Montri tiun ĉi atentigon venontan fojon
+
 config-search-prefs =
     .value = Serĉi:
     .accesskey = s
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopii
     .accesskey = K
+
 config-copy-name =
     .label = Kopii nomon
     .accesskey = K
+
 config-copy-value =
     .label = Kopii valoron
     .accesskey = V
+
 config-modify =
     .label = Modifi
     .accesskey = M
+
 config-toggle =
     .label = Baskuligi
     .accesskey = B
+
 config-reset =
     .label = Norma valoro
     .accesskey = o
+
 config-new =
     .label = Nova
     .accesskey = n
+
 config-string =
     .label = Teksto
     .accesskey = T
+
 config-integer =
     .label = Numero
     .accesskey = N
+
 config-boolean =
     .label = Logika
     .accesskey = L
+
 config-default = norma
 config-modified = modifita
 config-locked = blokita
+
 config-property-string = teksta
 config-property-int = numera
 config-property-bool = logika
+
 config-new-prompt = Tajpu la nomon de la prefero
+
 config-nan-title = Nevalida valoro
 config-nan-text = La teksto kiun vi tajpis ne estas numero.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nova { $type } valoro
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Tajpu { $type }n valoron

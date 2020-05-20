@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "s">
 <!ENTITY helpSafeMode.label     "Restartigi kun malaktivigitaj aldonaĵoj…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Informoj pri eldono">
-<!ENTITY releaseCmd2.accesskey "I">
-<!ENTITY whatsNewCmd.label "Kio estas nova">
-<!ENTITY whatsNewCmd.accesskey "n">
-<!ENTITY openHelp.label "Helpo por Thunderbird">
-<!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Helpo por &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "Pri &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "P">
 <!ENTITY productHelp.label "Helpo por &brandShortName;">
 <!ENTITY productHelp.accesskey "H">
 <!ENTITY productHelp.commandkey "VK_F1">

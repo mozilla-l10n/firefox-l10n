@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Registraj moduloj de sekura retumo
 url-classifier-debug-modules = Nunaj registraj moduloj
 url-classifier-debug-sbjs-modules = Registro de JS en sekura retumo
 url-classifier-debug-file = Nuna registra dosiero
+
 url-classifier-trigger-update = Okazigi ĝisdatigon
 url-classifier-not-available = Ne havebla
 url-classifier-disable-sbjs-log = Malaktivigi registron de JS dum sekura retumo

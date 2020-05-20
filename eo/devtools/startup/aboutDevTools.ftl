@@ -13,6 +13,7 @@ enable-common-message = La iloj por programistoj de Firefox estas norme malaktiv
 enable-learn-more-link = Pli da informo pri la iloj por programistoj
 enable-enable-button = Aktivigi la ilojn por programistoj
 enable-close-button = Fermi tiun ĉi langeton
+
 welcome-title = Bonvenon al la iloj de Firefox por programistoj!
 newsletter-title = Novaĵletero de Mozilla por programistoj
 newsletter-message = Ricevu novaĵojn por programistoj, trukojn kaj rimedojn rekte en via enirkesto.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Mi konsentas la pritrakton de miaj datumoj pere de Mo
 newsletter-subscribe-button = Aboni
 newsletter-thanks-title = Dankon!
 newsletter-thanks-message = Se vi antaŭe ne konfirmis abonon al novaĵletero de Mozilla, vi eble devos tion fari. Bonvolu kontroli ĉu estas retpoŝto nia en via retpoŝta enirkesto aŭ trudmesaĝujo.
+
 footer-title = Firefox Developer Edition
 footer-message = Ĉu vi volas pli ol nur la iloj por programistoj? Kontrolu la retumilon de Firefox, kiu estis farita specife por programistoj kaj modernaj laborfluoj.
 footer-learn-more-link = Pli da informo
+
 features-learn-more = Pli da informo
 features-inspector-title = Inspektilo
 features-inspector-desc = Inspekti kaj rafini kodon por krei aranĝojn precizegajn. <a data-l10n-name="learn-more">{ features-learn-more }</a>

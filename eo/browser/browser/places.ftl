@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Malfermi en nova privata fenestro
     .accesskey = P
+
 places-new-bookmark =
     .label = Nova legosigno…
     .accesskey = N
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nova apartigilo
     .accesskey = N
+
 places-view =
     .label = Vidi
     .accesskey = v
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Laŭ dato kaj retejo
     .accesskey = k
+
 places-history-search =
     .placeholder = Serĉi historion
 places-bookmarks-search =
     .placeholder = Serĉi legosignojn
+
 places-delete-domain-data =
     .label = Forgesi tiun ĉi retejon
     .accesskey = F

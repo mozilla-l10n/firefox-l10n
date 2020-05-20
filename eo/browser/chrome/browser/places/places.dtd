@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "Nova apartigilo">
 <!ENTITY cmd.new_separator.accesskey       "N">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Reŝargi aktivan legosignon">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
 <!ENTITY col.name.label          "Nomo">
 <!ENTITY col.tags.label          "Etikedoj">
 <!ENTITY col.url.label           "Retadreso">

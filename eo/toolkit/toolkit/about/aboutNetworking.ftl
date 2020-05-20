@@ -9,24 +9,12 @@ ok = Akcepti
 http = HTTP
 sockets = Konektingo
 dns = DNS
-dnssuffix = Sufikso DNS
 websockets = Teksaĵaj konektingoj
 refresh = Refreŝigi
 auto-refresh = Aŭtomata refreŝigado ĉiun trian sekundon
 hostname = Nomo de servilo
 port = Pordo
 http2 = HTTP/2
-about-networking-title = Pri retkonektado
-about-networking-http = HTTP
-about-networking-sockets = Konektingo
-about-networking-dns = DNS
-about-networking-dns-suffix = Sufikso DNS
-about-networking-websockets = Teksaĵaj konektingoj
-about-networking-refresh = Refreŝigi
-about-networking-auto-refresh = Aŭtomata refreŝigado ĉiun trian sekundon
-about-networking-hostname = Nomo de servilo
-about-networking-port = Pordo
-about-networking-http-version = Versio de HTTP
 ssl = SSL
 active = Aktiva
 idle = Senokupa
@@ -69,8 +57,18 @@ rcwn-avg-long = Longa mezumo
 rcwn-std-dev-long = Longa norma devio
 rcwn-cache-slow = Nombro de malrapida staplaj aliroj
 rcwn-cache-not-slow = Nombro de ne malrapidaj staplaj aliroj
-networkid = Identigilo reta
-networkid-id = Identigilo reta
+
+about-networking-title = Pri retkonektado
+about-networking-http = HTTP
+about-networking-sockets = Konektingo
+about-networking-dns = DNS
+about-networking-dns-suffix = Sufikso DNS
+about-networking-websockets = Teksaĵaj konektingoj
+about-networking-refresh = Refreŝigi
+about-networking-auto-refresh = Aŭtomata refreŝigado ĉiun trian sekundon
+about-networking-hostname = Nomo de servilo
+about-networking-port = Pordo
+about-networking-http-version = Versio de HTTP
 about-networking-ssl = SSL
 about-networking-active = Aktiva
 about-networking-idle = Senokupa
@@ -118,8 +116,6 @@ about-networking-networkid-id = Identigilo reta
 
 ## Link is intended as "network link"
 
-networkid-isUp = Ligo aktiva
-networkid-statusKnown = Konata stato de ligo
 about-networking-networkid-is-up = Ligo aktiva
 about-networking-networkid-status-known = Konata stato de ligo
 

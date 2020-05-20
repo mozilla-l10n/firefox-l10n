@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "N">
 
 <!ENTITY projectButton_label "Malfermi programon">
+
 <!ENTITY runtimeButton_label "Elekti rulĉirkaŭaĵon">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "Aparatoj USB">
 <!ENTITY runtimePanel_wifi "Aparatoj sendrataj">
 <!ENTITY runtimePanel_other "Aliaj">
-<!ENTITY runtimePanel_noadbhelper "Instali helpanton de ADB">
 <!ENTITY runtimePanel_nousbdevice "Ĉu vi ne povas vidi vian aparaton?">
 <!ENTITY runtimePanel_refreshDevices_label "Aktualigi aparatojn">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informo de rulĉirkaŭaĵo">
-<!ENTITY runtimedetails_adbIsRoot "ADB estas radiko: ">
-<!ENTITY runtimedetails_summonADBRoot "radika aparato">
-<!ENTITY runtimedetails_ADBRootWarning "(tio postulas neblokitan ŝargilon de startigilo)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Senlimaj privilegioj de DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "peti pli altajn privilegiojn">
-<!ENTITY runtimedetails_privilegesWarning "(Tio restartigos la aparaton. Aliro kiel root estas postulata.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Logika">

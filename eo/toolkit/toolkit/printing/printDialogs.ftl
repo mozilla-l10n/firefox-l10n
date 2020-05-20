@@ -103,6 +103,7 @@ print-window =
     .title = Presado
 print-complete =
     .value = La presado finiĝis.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

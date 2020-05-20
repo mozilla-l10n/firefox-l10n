@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Naskiĝtago:">
 <!ENTITY Birthday.accesskey             "N">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "monato">
 <!ENTITY Day.placeholder                "tago">
 <!ENTITY Year.placeholder               "jaro">
-<!ENTITY Or.value                       "aŭ">
 <!ENTITY Age.label                      "Aĝo:">
 <!ENTITY Age.placeholder                "aĝo">
-<!ENTITY YearsOld.label                 "‑jaraĝa">
 
 <!ENTITY Work.tab                       "Laborejo">
 <!ENTITY Work.accesskey                 "L">
