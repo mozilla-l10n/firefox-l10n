@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Any new extensions you add to { -brand-shorter-name } won’t work in Private Windows unless you allow this in the settings.
 appmenu-addon-private-browsing-learn-more = Learn how to manage extension settings
+    
 appmenu-new-tab-controlled =
     .label = Your New Tab has changed.
     .buttonlabel = Keep Changes

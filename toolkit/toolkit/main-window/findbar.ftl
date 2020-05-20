@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Find the next occurrence of the phrase
 findbar-previous =
     .tooltiptext = Find the previous occurrence of the phrase
+
 findbar-find-button-close =
     .tooltiptext = Close Find bar
+
 findbar-highlight-all2 =
     .label = Highlight All
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Highlight all occurrences of the phrase
+
 findbar-case-sensitive =
     .label = Match Case
     .accesskey = c
     .tooltiptext = Search with case sensitivity
+
 findbar-match-diacritics =
     .label = Match Diacritics
     .accesskey = i
     .tooltiptext = Distinguish between accented letters and their base letters (for example, when searching for “resume”, “résumé” will not be matched)
+
 findbar-entire-word =
     .label = Whole Words
     .accesskey = W
