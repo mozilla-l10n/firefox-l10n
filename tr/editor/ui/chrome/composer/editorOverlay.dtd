@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Yazı tipi">
 <!ENTITY FontFaceSelect.tooltip "Yazı tipi seç">
 <!ENTITY fontfaceMenu.label "Yazı tipi">
 <!ENTITY fontfaceMenu.accesskey "Y">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Yazı tipi boyutu">
 <!ENTITY FontSizeSelect.tooltip "Yazı tipi boyutu seç">
 <!ENTITY decreaseFontSize.label "Daha küçük">
 <!ENTITY decreaseFontSize.accesskey "h">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Liste özellikleri…">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Paragraf">
 <!ENTITY ParagraphSelect.tooltip "Bir paragraf biçimi seçin">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Gövde metni">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "İki yana yasla">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Konumlandırma">
 <!ENTITY layer.tooltip "Katman">
+<!ENTITY decreaseZIndex.label "Arkaya gönder">
 <!ENTITY layerSendToBack.tooltip "Arkaya gönder">
+<!ENTITY increaseZIndex.label "Öne getir">
 <!ENTITY layerBringToFront.tooltip "Öne getir">
 
 <!ENTITY increaseIndent.label "Girintiyi artır">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Yeni bağlantı ekle veya seçili bağlantının özelliklerini düzenle">
 <!ENTITY anchorToolbarCmd.label "Çıpa">
 <!ENTITY anchorToolbarCmd.tooltip "Yeni bir isimli çıpa ekle veya seçili çıpanın özelliklerini düzenle">
+<!ENTITY colorButtons.title "Renkler">
 <!ENTITY TextColorButton.tooltip "Metin rengini seç">
 <!ENTITY BackgroundColorButton.tooltip "Arka plan rengini seç">
 <!ENTITY throbber.tooltip "&vendorShortName; ana sayfasına git">
 <!ENTITY throbber.tooltip2 "&brandShortName; ana sayfasına git">
+<!ENTITY HighlightColorButton.label "Vurgulayıcı">
 <!ENTITY HighlightColorButton.tooltip "Vurgulu metin rengini seç">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Yazı tipi boyutu">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Yazı tipi boyutunu ayarla">
+<!ENTITY smaller.label "Daha küçük">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Daha küçük yazı tipi boyutu">
+<!ENTITY larger.label "Daha büyük">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Daha büyük yazı tipi boyutu">
+<!ENTITY bold.label "Kalın">
 <!ENTITY boldToolbarCmd.tooltip "Kalın">
+<!ENTITY italic.label "İtalik">
 <!ENTITY italicToolbarCmd.tooltip "Eğik">
+<!ENTITY underline.label "Altı çizili">
 <!ENTITY underlineToolbarCmd.tooltip "Altı çizili">
+<!ENTITY bullets.label "Madde imleri">
 <!ENTITY bulletListToolbarCmd.tooltip "Madde imli listeyi uygula veya kaldır">
+<!ENTITY numbers.label "Sayılar">
 <!ENTITY numberListToolbarCmd.tooltip "Numaralı listeyi uygula veya kaldır">
+<!ENTITY outdent.label "Çıkıntı">
 <!ENTITY outdentToolbarCmd.tooltip "Çıkıntı ver (sola taşı)">
+<!ENTITY indent.label "Girinti">
 <!ENTITY indentToolbarCmd.tooltip "Girinti ver (sağa taşı)">
+<!ENTITY AlignPopupButton.label "Hizalama">
 <!ENTITY AlignPopupButton.tooltip "Metin hizalamasını seç">
+<!ENTITY InsertPopupButton.label "Ekle">
 <!ENTITY InsertPopupButton.tooltip "Bağlantı, çıpa, resim, yatay çizgi veya tablo ekle">
+<!ENTITY alignLeftButton.label "Sola hizala">
 <!ENTITY alignLeftButton.tooltip "Metni sol kenara hizala">
+<!ENTITY alignCenterButton.label "Ortala">
 <!ENTITY alignCenterButton.tooltip "Metni ortala">
+<!ENTITY alignRightButton.label "Sağa hizala">
 <!ENTITY alignRightButton.tooltip "Metni sağ kenara hizala">
+<!ENTITY alignJustifyButton.label "İki yana yasla">
 <!ENTITY alignJustifyButton.tooltip "Metni sol ve sağ kenarlar boyunca hizala">
 
 <!-- Structure Toolbar Context Menu items -->
