@@ -4,7 +4,6 @@
 
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-
 <!ENTITY status.label "Meldingssikkerhet">
 <!ENTITY signatureCert.label "Vis signatursertifikat">
 <!ENTITY encryptionCert.label "Vis krypteringssertifikat">
@@ -14,3 +13,5 @@
 <!ENTITY email.address "E-postadresse:">
 <!ENTITY issuer.name "Sertifikat utstedt av:">
 
+<!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">
