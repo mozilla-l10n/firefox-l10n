@@ -9,7 +9,6 @@ graph-week-summary =
         [one] O { -brand-short-name } bloqueou { $count } rastreador na semana passada
        *[other] O { -brand-short-name } bloqueou { $count } rastreadores na semana passada
     }
-
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -19,12 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> rastreador bloqueado desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> rastreadores bloqueados desde { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
-
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = O { -brand-short-name } continua a bloquear rastreadores em janelas privativas, mas não guarda registro do que foi bloqueado.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Rastreadores que o { -brand-short-name } bloqueou esta semana
-
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -36,53 +33,40 @@ protection-report-header-details-custom = O nível de proteção está definido 
     .title = Ir para as configurações de privacidade
 protection-report-page-title = Proteções de privacidade
 protection-report-content-title = Proteções de privacidade
-
 etp-card-title = Proteção aprimorada contra rastreamento
 etp-card-content = Rastreadores seguem você online por todo canto para coletar informações sobre seus interesses e hábitos de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros scripts maliciosos.
-
 protection-report-webpage-title = Painel de proteções
 protection-report-page-content-title = Painel de proteções
 protection-report-page-summary = O { -brand-short-name } pode proteger sua privacidade nos bastidores enquanto você navega. Este é um resumo personalizado dessas proteções, incluindo ferramentas para assumir o controle de sua segurança online.
-
+protection-report-settings-link = Gerenciar suas configurações de privacidade e segurança
 etp-card-title-always = Proteção aprimorada contra rastreamento: Sempre ATIVADA
 etp-card-title-custom-not-blocking = Proteção aprimorada contra rastreamento: DESATIVADA
 etp-card-content-summary = Quando empresas desconhecidas tentam seguir você secretamente pela web, o { -brand-short-name } impede muitas delas automaticamente.
 protection-report-etp-card-content-custom-not-blocking = Todas as proteções estão desativadas no momento. Escolha que rastreadores bloquear gerenciando as configurações de proteção do { -brand-short-name }.
 protection-report-manage-protections = Gerenciar configurações
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Hoje
-
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Um gráfico contendo o número total de cada tipo de rastreador bloqueado esta semana.
-
 social-tab-title = Rastreadores de mídias sociais
 social-tab-contant = Redes sociais colocam rastreadores em outros sites para seguir o que você faz, vê e assiste online. Isto permite que empresas de mídias sociais saibam mais sobre você, muito além do que você compartilha em seus perfis de mídias sociais. <a data-l10n-name="learn-more-link">Saiba mais</a>
-
 cookie-tab-title = Cookies de rastreamento entre sites
 cookie-tab-content = Esses cookies seguem você de um site para outro para coletar dados sobre o que você faz online. Eles são criados por terceiros, como anunciantes e empresas analíticas. Bloquear cookies de rastreamento entre sites reduz o número de anúncios que seguem você por todo canto. <a data-l10n-name="learn-more-link">Saiba mais</a>
-
 tracker-tab-title = Conteúdo de rastreamento
 tracker-tab-description = Sites podem carregar anúncios, vídeos e outros conteúdos externos com código de rastreamento. Bloquear conteúdo de rastreamento pode ajudar a agilizar o carregamento de sites, mas alguns botões, formulários e campos de acesso a contas podem não funcionar. <a data-l10n-name="learn-more-link">Saiba mais</a>
-
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters coletam configurações do seu navegador e do computador para traçar um perfil seu. Usando esta identidade digital, eles podem rastrear você por vários sites. <a data-l10n-name="learn-more-link">Saiba mais</a>
-
 cryptominer-tab-title = Criptomineradores
 cryptominer-tab-content = Criptomineradores usam o poder computacional do seu sistema para minerar moedas digitais. Scripts de criptomineração drenam sua bateria, fazem seu computador ficar mais lento e podem aumentar sua conta de energia elétrica. <a data-l10n-name="learn-more-link">Saiba mais</a>
-
 protections-close-button =
     .aria-label = Fechar
-
 protections-close-button2 =
     .aria-label = Fechar
     .title = Fechar
-  
 mobile-app-title = Bloqueie rastreadores de anúncios em mais dispositivos
 mobile-app-card-content = Use o navegador móvel com proteção integrada contra rastreamento de anúncios.
 mobile-app-links = Navegador { -brand-product-name } para <a data-l10n-name="android-mobile-inline-link">Android</a> e <a data-l10n-name="ios-mobile-inline-link">iOS</a>
-
 lockwise-title = Nunca esqueça uma senha novamente
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Gerenciamento de senhas
@@ -97,7 +81,6 @@ protection-report-manage-passwords-button = Gerenciar senhas
 lockwise-mobile-app-title = Tenha suas senhas em qualquer lugar
 lockwise-no-logins-card-content = Use as senhas salvas em { -brand-short-name } em qualquer dispositivo.
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> e <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -106,7 +89,6 @@ lockwise-passwords-stored =
         [one] Senha armazenada com segurança <a data-l10n-name="lockwise-how-it-works">Como funciona</a>
        *[other] Senhas armazenadas com segurança <a data-l10n-name="lockwise-how-it-works">Como funciona</a>
     }
-
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -114,7 +96,6 @@ lockwise-scanned-text-breached-logins =
         [one] 1 senha pode ter sido exposta em um vazamento de dados.
        *[other] { $count } senhas podem ter sido expostas em vazamentos de dados.
     }
-
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -125,12 +106,9 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Suas senhas estão sendo armazenadas com segurança.
     }
 lockwise-how-it-works-link = Como funciona
-
 turn-on-sync = Ativar o { -sync-brand-short-name }…
     .title = Ir para as preferências de sincronização
-
 manage-connected-devices = Gerenciar dispositivos…
-
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -138,21 +116,18 @@ lockwise-connected-device-status =
         [one] Conectado a { $count } dispositivo
        *[other] Conectado a { $count } dispositivos
     }
-
 monitor-title = Fique atento a vazamentos de dados
 monitor-link = Como funciona
 monitor-header-content-no-account = Veja no { -monitor-brand-name } se você foi vítima de um vazamento de dados conhecido e receba alertas sobre novos vazamentos.
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa caso suas informações apareçam em um vazamento de dados conhecido.
 monitor-sign-up = Cadastre-se para receber alertas de vazamentos
 auto-scan = Analisados automaticamente hoje
-
 monitor-emails-tooltip =
     .title = Ver no { -monitor-brand-short-name } os endereços de e-mail monitorados
 monitor-breaches-tooltip =
     .title = Ver no { -monitor-brand-short-name } os vazamentos conhecidos de dados
 monitor-passwords-tooltip =
     .title = Ver no { -monitor-brand-short-name } as senhas expostas
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -161,7 +136,6 @@ info-monitored-emails =
         [one] Endereço de e-mail sendo monitorado.
        *[other] Endereços de e-mail sendo monitorados.
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -170,7 +144,6 @@ info-known-breaches-found =
         [one] Vazamento conhecido de dados expôs suas informações
        *[other] Vazamentos conhecidos de dados expuseram suas informações
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -179,9 +152,7 @@ info-exposed-passwords-found =
         [one] Senha exposta em todos os vazamentos
        *[other] Senhas expostas em todos os vazamentos
     }
-
 full-report-link = Ver relatório completo no <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
