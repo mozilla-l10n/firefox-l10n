@@ -17,8 +17,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "اندازه:">
-<!ENTITY size.accesskey                       "ا">
 <!ENTITY fontColor.label                      "Text Color:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Background Color:">

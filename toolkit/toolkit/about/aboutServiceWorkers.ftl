@@ -9,17 +9,12 @@ about-service-workers-title = درباره Service Workerها
 about-service-workers-main-title = Service Workerهای ثبت شده
 about-service-workers-warning-not-enabled = Service Workerها فعال نشده‌اند.
 about-service-workers-warning-no-service-workers = هیچ Service Workerای ثبت نشده است.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = مبدا:{ $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } شناسه برنامه { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>فعال کردن نام حافظه نهان:</stron
 waiting-cache-name = <strong>در انتظار نام حافظه نهان:</strong> { $name }
 push-end-point-waiting = <strong>مقصد ارسال:</strong> { waiting }
 push-end-point-result = <strong>مقصد ارسال:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = بروزرسانی
+
 unregister-button = حذف ثبت نام
+
 unregister-error = لغو ثبت Service Worker شکست خورد.
+
 waiting = در حال انتظار…

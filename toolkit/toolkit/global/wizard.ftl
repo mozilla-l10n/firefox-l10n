@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < عقب
     .accesskey = ع
+
 wizard-macos-button-next =
     .label = ادامه
     .accesskey = د
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = بعدی >
     .accesskey = ب
+
 wizard-macos-button-finish =
     .label = انجام شد
 wizard-linux-button-finish =
     .label = پایان
 wizard-win-button-finish =
     .label = پایان
+
 wizard-macos-button-cancel =
     .label = انصراف
 wizard-linux-button-cancel =

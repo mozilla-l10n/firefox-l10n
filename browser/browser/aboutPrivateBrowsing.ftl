@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = در مورد‌ آن بیشتر بدانید<a data-l10n-name="learn-more">مرور خصوصی</a>.
 about-private-browsing-info-visited = صفحات بازدید شده
+
 privatebrowsingpage-open-private-window-label = یک پنجره‌ی ناشناس باز کن
     .accesskey = ن
 about-private-browsing-info-notsaved = هنگامی که شما در یک پنجره ناشناس شروع به مرور وب می‌کنید، { -brand-short-name } موارد زیر را <strong>ذخیره نمی‌کند</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = شما در حال حاضر در پنجره
 content-blocking-title = مسدود کردن محتوا
 content-blocking-description = برخی وب‌سایت‌ها از ردیاب‌هایی استفاده می‌کنند که می‌توانند بر فعالیت‌های شما در تمام اینترنت نظارت کنند. در پنجره ناشناس، مسدود کردن محتوای { -brand-short-name }، به صورت خودکار ردیاب‌های بسیاری که می‌توانند درمورد نحوه‌ی مرور شما اطلاعات جمع‌آوری کنند را مسدود می‌کند.
 about-private-browsing-info-description = { -brand-short-name } جست‌وجوها و تاریخچه مرور شما را هنگام خروج از برنامه یا بستن تمام پنجره‌ها و زبانه‌های ناشناس پاک می‌کند. اینکار شما را در وب‌سایت‌ها یا فراهم‌کنندهٔ اینترنتتان ناشناس نمی‌کند، اما مخفی کردن فعالیت‌های آنلاین شما را برای هرکس دیگری که از این رایانه استفاده می‌کند را ساده‌تر می‌کند.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

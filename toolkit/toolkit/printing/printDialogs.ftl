@@ -103,6 +103,7 @@ print-window =
     .title = در حال چاپ
 print-complete =
     .value = چاپ انجام شد.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

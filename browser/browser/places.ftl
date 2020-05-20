@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = باز کردن پنجرهٔ ناشناس جدید
     .accesskey = ن
+
 places-new-bookmark =
     .label = نشانک جدید…
     .accesskey = ن
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = جداساز جدید
     .accesskey = س
+
 places-view =
     .label = نما
     .accesskey = ن
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = بر حسب تاریخ و پایگاه
     .accesskey = ر
+
 places-history-search =
     .placeholder = تاریخچه جست‌و‌جو
 places-bookmarks-search =
     .placeholder = جست‌و‌جو نشانک‌ها
+
 places-delete-domain-data =
     .label = فراموش کردن این سایت
     .accesskey = ف

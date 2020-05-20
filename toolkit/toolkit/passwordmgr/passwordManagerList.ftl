@@ -54,6 +54,7 @@ import =
 close-button =
     .label = بستن
     .accesskey = ب
+
 show-passwords =
     .label = نشان دادن گذرواژه‌ها
     .accesskey = P

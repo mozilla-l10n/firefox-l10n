@@ -10,7 +10,6 @@
 <!ENTITY feedTitle.accesskey         "ع">
 
 
-<!ENTITY feedLocation.placeholder    "لطفاْ یک نشانی اینترنتی خوراک صحیح برای افزوده شدن وارد کنید">
 <!ENTITY locationValidate.label      "اعتبار سنجی">
 <!ENTITY validateText.label          "بررسی اعتبار سنجی و بازیابی یک آدرس اینترنتی معتبر.">
 

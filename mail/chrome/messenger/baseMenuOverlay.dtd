@@ -17,11 +17,3 @@
 
 
 
-<!ENTITY openHelp.label "محتوای راهنما">
-<!ENTITY openHelp.accesskey "م">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "راهنمای &brandShortName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-

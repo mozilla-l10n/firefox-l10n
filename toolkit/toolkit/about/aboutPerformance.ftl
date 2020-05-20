@@ -32,9 +32,15 @@ energy-impact-high = بلندی ({ $value })
 energy-impact-medium = متوسط ({ $value })
 energy-impact-low = کم ({ $value })
 
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
 ## Tooltips for the action buttons
 
 close-tab =
     .title = بستن زبانه
 show-addon =
     .title = نمایش مدیر افزونه‌ها
+

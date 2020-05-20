@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = خطایی در هنگام اتصال { $hostname }.{ $errorMessage } رخ داد
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = کد خطا:{ $error }
+
 psmerr-ssl-disabled = قادر به برقراری اتصال ایمن نبود، زیرا قرارداد SSL غیرفعال شده است.
 psmerr-ssl2-disabled = قادر به برقراری اتصال امن نیست، زیرا این پایگاه از نسخه‌ای قدیمی و غیر امن از قرارداد SSL استفاده می‌کند.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     گواهی دریافت شده نامعتبر است.  لطفاً با مدیر کارگزار یا نشانی پست الکترونیک پابگاه تماس بگیرید و این اطلاعات را به آنها بدهید:
     
     گواهی شما دارای شمارهٔ مسلسل یکسانی با یک گواهی دیگر که توسط مرجع گواهی صادر شده است می‌باشد.  لطفاً گواهی دیگری حاوی شمارهٔ مسلسل یکتا تهیه کنید.
+
 ssl-error-export-only-server = برقراری ارتباط امن ممکن نیست. طرف ارتباط از رمزنگاری سطح بالا پشتیبانی نمی‌کند.
 ssl-error-us-only-server = برقراری ارتباط امن ممکن نیست. طرف ارتباط نیاز به رمزنگاری سطح بالا دارد که این نرم‌افزار از آن پشتیبانی نمی‌کند.
 ssl-error-no-cypher-overlap = ارتباط امن با طرف مقابل ممکن نیست: هیچ الگوریتم رمزنگاری مشترکی وجود ندارد.

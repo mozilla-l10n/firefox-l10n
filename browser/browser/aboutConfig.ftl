@@ -7,7 +7,9 @@ about-config-warning-title = اینجا گودزیلا خوابیده!
 about-config-warning-text = تغییر این تنظیماتِ پیشرفته، می‌تواند برای پایداری، امنیت، و کارایی این برنامه مضر باشد. تنها در صورتی که از کاری که می‌کنید اطمینان دارید، ادامه دهید.
 about-config-warning-checkbox = دوباره من را آزار دهید، لطفاً!
 about-config-warning-button = خطر را می‌پذیرم
+
 about-config2-title = پیکربندی‌های پیشرفته
+
 about-config-search-input =
     .placeholder = جستجو
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = پذیرش خطر و ادامه
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = تغییر این ترجیحات می‌تواند بر عملکرد یا امنیت { -brand-short-name } تأثیر بگذارد.
+
 about-config-page-title = ترجیحات پیشرفته
+
 about-config-search-input1 =
     .placeholder = جست‌وجوی نام ترجیحات
 about-config-show-all = نمایش همه
+
 about-config-pref-add = اضافه کردن
 about-config-pref-toggle = تغییر وضعیت
 about-config-pref-edit = ویرایش
 about-config-pref-save = ذخیره
 about-config-pref-reset = بازنشانی
 about-config-pref-delete = حذف
+
 about-config-pref-add-button =
     .title = افزودن
 about-config-pref-toggle-button =

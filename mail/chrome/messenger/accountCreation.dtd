@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "راه‌اندازی حساب پست پست الکترونیکی">
 <!ENTITY name.label                      "نام شما:">
 <!ENTITY name.accesskey                  "ن">
 <!ENTITY name.placeholder                "نام نام خانوادگی">
@@ -53,8 +52,6 @@
 <!ENTITY half-manual-test.accesskey      "م">
 <!ENTITY manual-edit.label               "پیکربندی دستی">
 <!ENTITY manual-edit.accesskey           "س">
-<!ENTITY switch-to-provisioner.label     "دریافت یک حساب جدید">
-<!ENTITY switch-to-provisioner.accesskey "ی">
 
 
 <!ENTITY warning.label                   "هشدار!">

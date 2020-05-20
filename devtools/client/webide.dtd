@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "بازکردن برنامه">
+
 <!ENTITY runtimeButton_label "انتخاب زمان اجرا">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "دستگاه‌های USB">
 <!ENTITY runtimePanel_wifi "دستگاه‌های Wi-Fi">
 <!ENTITY runtimePanel_other "غیره">
-<!ENTITY runtimePanel_noadbhelper "نصب راهنما ADB">
 <!ENTITY runtimePanel_nousbdevice "نمی‌توانید دستگاه های خود را مشاهده کنید؟">
 <!ENTITY runtimePanel_refreshDevices_label "ازنوسازی دستگاه ها">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "اطلاعات زمان‌اجرا">
-<!ENTITY runtimedetails_adbIsRoot "ADB کاربرد ارشد است: ">
-<!ENTITY runtimedetails_summonADBRoot "دستگاه کاربرارشد">
-<!ENTITY runtimedetails_ADBRootWarning "(نیازمند بارگزارکننده بوت است که از مسدودی خارج شده است)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "اختیارات بدون محدودیت ابزارهای توسعه:">
-<!ENTITY runtimedetails_requestPrivileges "درخواست اختیارات بالاتر">
-<!ENTITY runtimedetails_privilegesWarning "(خوب برای راه‌اندازی مجدد دستگاه. نیازمند دسترسی کاربرارشد است.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "بولی">

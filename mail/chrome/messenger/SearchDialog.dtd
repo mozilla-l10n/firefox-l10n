@@ -37,31 +37,7 @@
 <!ENTITY abSearchDialogTitle.label   "Advanced Address Book Search">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Thread">
-<!ENTITY fromColumn.label "From">
-<!ENTITY recipientColumn.label "Recipient">
-
-<!ENTITY subjectColumn.label "موضوع">
-<!ENTITY dateColumn.label "تاریخ">
-<!ENTITY priorityColumn.label "Priority">
-<!ENTITY tagsColumn.label "برچسب‌ها">
-<!ENTITY accountColumn.label "Account">
-<!ENTITY statusColumn.label "وضعیت">
-<!ENTITY sizeColumn.label "اندازه">
-<!ENTITY junkStatusColumn.label "Junk Status">
-<!ENTITY unreadColumn.label "Unread">
-<!ENTITY totalColumn.label "Total">
-<!ENTITY readColumn.label "Read">
-<!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "Starred">
-<!ENTITY locationColumn.label "محل">
-<!ENTITY idColumn.label "Order Received">
 <!-- Thread Pane Tooltips -->
-
-
-
-
-<!ENTITY subjectColumn2.tooltip "مرتب سازی بر اساس موضوع">
 
 
 
