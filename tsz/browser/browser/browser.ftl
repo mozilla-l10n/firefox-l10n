@@ -51,5 +51,5 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Mójtakuni ma iorhukua:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Arhistatsperakuecharhu motsi
