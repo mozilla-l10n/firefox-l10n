@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "P">
 
 <!ENTITY projectButton_label "Atvērt lietotni">
+
 <!ENTITY runtimeButton_label "Izvēlieties izpildlaiku">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB ierīces">
 <!ENTITY runtimePanel_wifi "Wi-Fi ierīces">
 <!ENTITY runtimePanel_other "Citas">
-<!ENTITY runtimePanel_noadbhelper "Instalēt ADB palīgu">
 <!ENTITY runtimePanel_nousbdevice "Neredzat savas ierīces?">
 <!ENTITY runtimePanel_refreshDevices_label "Atsvaidzināt ierīces">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Izpldlaika informācija">
-<!ENTITY runtimedetails_adbIsRoot "ADB ir root: ">
-<!ENTITY runtimedetails_summonADBRoot "root ierīce">
-<!ENTITY runtimedetails_ADBRootWarning "(nepieciešams atbloķēts ielādētājs - bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Neierobežotas DevTools privilēģijas: ">
-<!ENTITY runtimedetails_requestPrivileges "nepieciešamas plašākas privilēģijas">
-<!ENTITY runtimedetails_privilegesWarning "(Ierīce tiks pārstartēta. Nepieciešama root pieeja.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Būla">

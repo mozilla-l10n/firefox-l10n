@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Atvērt saiti jaunā privātajā logā
     .accesskey = p
+
 places-new-bookmark =
     .label = Jauna grāmatzīme...
     .accesskey = g
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Jauns atdalītājs
     .accesskey = s
+
 places-view =
     .label = Skats
     .accesskey = t
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Pēc datuma un vietnes
     .accesskey = t
+
 places-history-search =
     .placeholder = Meklēšanas vēsture
 places-bookmarks-search =
     .placeholder = Meklēt grāmatzīmes
+
 places-delete-domain-data =
     .label = Aizmirst par šo lapu
     .accesskey = A

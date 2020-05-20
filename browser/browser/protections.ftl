@@ -4,7 +4,7 @@
 
 protection-report-page-title = Privātuma aizsardzība
 protection-report-content-title = Privātuma aizsardzība
-
+  
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
 ##

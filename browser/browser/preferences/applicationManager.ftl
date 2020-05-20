@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Programmatūras iestatījumi
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Aizvākt
     .accesskey = A
-app-manager-handle-webfeeds = Lai apstrādātu Tīmekļa barotnes, var izmantot šādas programmas:
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Lai apstrādātu { $type } saites, var izmantot šādas programmas:
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Lai apstrādātu { $type } saturs, var izmantot šādas programmas:

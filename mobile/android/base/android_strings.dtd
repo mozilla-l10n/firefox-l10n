@@ -18,10 +18,8 @@
 <!ENTITY firstrun_data_message "Mazāk datu, lielāki ietaupījumi">
 <!ENTITY firstrun_data_subtext2 "Bloķējiet attēlus, lai apmeklējot lapas ietaupītu datus.">
 <!ENTITY firstrun_sync_title "Sinhronizēšana">
-<!ENTITY firstrun_sync_message2 "Turpiniet, kur beidzāt.">
 <!ENTITY firstrun_sync_subtext2 "Izmantojiet Sync, lai atrastu grāmatzīmes, paroles un citas lietas no &brandShortName; visās jūsu ierīcēs.">
 <!ENTITY firstrun_signin_message "Pieslēdzieties, lai sāktu">
-<!ENTITY firstrun_signin_button "Pieslēgties Sync">
 <!ENTITY  onboard_start_button_browser "Sākt pārlūkošanu">
 <!ENTITY firstrun_button_notnow "Ne tagad">
 <!ENTITY firstrun_button_next "Nākamā">
@@ -323,11 +321,6 @@
 <!ENTITY pref_pwa "Progresīvās tīmekļa aplikācijas">
 <!ENTITY pref_pwa_summary "Ļaut tīmekļa aplikācijas pievienot sākuma ekrānam">
 
-<!ENTITY tracking_protection_prompt_title "Tagad ar izsekošanas aizsardzību">
-<!ENTITY tracking_protection_prompt_text "Aktīvi bloķē izsekošanas elementus, lai jums par to nav jāuztraucas.">
-<!ENTITY tracking_protection_prompt_tip_text "Apmeklējiet privātuma iestatījumus, lai uzzinātu vairāk">
-<!ENTITY tracking_protection_prompt_action_button "Viss skaidrs!">
-
 <!ENTITY tab_queue_toast_message3 "Cilne saglabāta &brandShortName;">
 <!ENTITY tab_queue_toast_action "Atvērt tagad">
 <!ENTITY tab_queue_prompt_title "Atvērt vairākas saites?">
@@ -405,8 +398,6 @@
 <!ENTITY pref_private_data_downloadFiles2 "Lejupielādes">
 <!ENTITY pref_private_data_syncedTabs "Sinhronizētās cilnes">
 
-<!ENTITY pref_default_browser "Lietot kā noklusēto pārlūku">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Apmeklējiet Mozilla atbalstu">
 <!ENTITY pref_about_firefox "Par &brandShortName;">
 <!ENTITY pref_vendor_faqs "BUJ">
 <!ENTITY pref_vendor_feedback "Iesniegt atsauksmi">
@@ -455,14 +446,6 @@
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; atrašanās vietas rīks darbojas">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automātiskie atjauninājumi">
-<!ENTITY pref_update_autodownload_wifi "Tikai pa Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Nekad">
-<!ENTITY pref_update_autodownload_always "Vienmēr">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Palīdzība">
@@ -722,25 +705,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Grāmatzīmes un vēsture">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Ir pieejams &brandShortName; atjauninājums">
-<!ENTITY updater_start_select2 "Pieskarieties, lai lejupielādētu">
-
-<!ENTITY updater_downloading_title2 "Lejupielādē &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Lejupielāde neizdevās">
-<!ENTITY updater_downloading_select2 "Pieskarieties te, lai veiktu atjaunināšanu uzreiz pēc lejupielādes">
-<!ENTITY updater_downloading_retry2 "Pieskarieties te, lai mēģinātu vēlreiz">
-
-<!ENTITY updater_apply_title3 "Ir lejupielādēts &brandShortName; atjauninājums">
-<!ENTITY updater_apply_select3 "Pieskarieties, lai instalētu">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Lai lejupielādētu failus un atjauninājumus atļaujiet &brandShortName; piekļūt ierīces glabātuvei.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Atļaut">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Jauna viesa sesija">
 <!ENTITY exit_guest_session "Iziet no viesa sesijas">
@@ -907,7 +871,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Skaņa un video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; padomi un triki">
-<!ENTITY updater_notification_channel "Atjauninājums">
 <!ENTITY synced_tabs_notification_channel "Sinhronizētās cilnes">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

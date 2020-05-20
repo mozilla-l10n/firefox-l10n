@@ -8,6 +8,7 @@ password-quality-meter = Paroles kvalitātes mērītājs
 
 change-password-window =
     .title = Mainīt galveno paroli
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Drošības ierīce: { $tokenName }

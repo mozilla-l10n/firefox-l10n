@@ -280,6 +280,8 @@
 
 <!-- Title for the address picker panel -->
 
+<!-- Attachment Pane Header Bar Context Menu -->
+
 <!ENTITY addressesSidebarTitle.label "Kontakti">
 <!-- Identity popup customize menuitem -->
 

@@ -4,10 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Atsaukt cilnes aizvēršanu
+
 all-tabs-menu-new-user-context =
     .label = Jauna saturošā cilne
+
 all-tabs-menu-hidden-tabs =
     .label = Slēptās cilnes
+
 all-tabs-menu-manage-user-context =
     .label = Pārvaldīt konteinerus
     .accesskey = O

@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - izvēlieties lietotāja profilu
+
 profile-selection-button-accept =
     .label = Sākt { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Iziet
+
 profile-selection-new-button =
     .label = Izveidot profilu...
     .accesskey = I
+
 profile-selection-rename-button =
     .label = Pārdēvēt profilu...
     .accesskey = r
+
 profile-selection-delete-button =
     .label = Dzēst profilu...
     .accesskey = D
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } jūsu profilā glabā iestatījumus, izvēles un citu lietotāja informāciju.
+
 profile-manager-work-offline =
     .label = Strādāt bezsaistē
     .accesskey = b
+
 profile-manager-use-selected =
     .label = Izmantot izvēlēto profilu, nejautājot ielādes laikā
     .accesskey = s

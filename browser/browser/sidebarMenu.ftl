@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Grāmatzīmes
+
 sidebar-menu-history =
     .label = Vēsture
+
 sidebar-menu-synced-tabs =
     .label = Sinhronizētās cilnes
+
 sidebar-menu-close =
     .label = Aizvērt sānu joslu

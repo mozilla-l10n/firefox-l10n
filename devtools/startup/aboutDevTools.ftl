@@ -13,6 +13,7 @@ enable-common-message = Pēc noklusējuma izstrādātāju rīki ir deaktivēti, 
 enable-learn-more-link = Uzzināt vairāk par izstrādātāju rīkiem
 enable-enable-button = Aktivēt izstrādātāju rīkus
 enable-close-button = Aizvērt šo cilni
+
 welcome-title = Laipni lūgti Firefox izstrādātāju rīkos!
 newsletter-title = Mozilla izstrādātāju tīkls
 newsletter-message = Saņemiet izstrādātāju ziņas, padomus un dažādas noderīgas lietas savā pasta kastē.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Es piekrītu, ka jūs apstrādājat šo informāciju 
 newsletter-subscribe-button = Pierakstīties
 newsletter-thanks-title = Paldies!
 newsletter-thanks-message = Ja neesat iepriekš apstiprinājuši pierakstīšanos uz Mozilla jaunumiem jums to būs jāizdara tagad. Lūdzu, pārbaudiet savu pasta kasti, surogātpasta filtrus un mēstuļu kasti.
+
 footer-title = Firefox izstrādātāju versija
 footer-message = Meklē vairāk nekā tikai izstrādātāju rīkus? Apskati Firefox versiju, kas ir īpaši būvēta izstrādātājiem un mūsdienu darba plūsmām.
 footer-learn-more-link = Uzzināt vairāk
+
 features-learn-more = Uzzināt vairāk
 features-inspector-title = Inspektors
 features-inspector-desc = Pārbaudiet un pieslīpējiet kodu, lai izveidotu perfektu lapas dizainu. <a data-l10n-name="learn-more">{ features-learn-more }</a>

@@ -30,6 +30,7 @@ url-classifier-debug-sb-modules = Drošās pārlūkošanas reģistrēšanas modu
 url-classifier-debug-modules = Pašreizējais reģistrācijas modulis
 url-classifier-debug-sbjs-modules = Drošās pārlūkošanas JS ieraksti
 url-classifier-debug-file = Pašreizējais reģistrācijas fails
+
 url-classifier-trigger-update = Izsaukt atjaunināšanu
 url-classifier-not-available = N/P
 url-classifier-disable-sbjs-log = Izslēgt drošās pārlūkošanas JS reģistrēšanu

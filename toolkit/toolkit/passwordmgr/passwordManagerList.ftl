@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Aizvērt
     .accesskey = z
+
 show-passwords =
     .label = Rādīt paroles
     .accesskey = P

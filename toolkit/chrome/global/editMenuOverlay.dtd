@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Iezīmēt visu">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "v">
+
 <!ENTITY findCmd.label             "Meklēt">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "M">

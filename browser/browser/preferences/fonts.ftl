@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonti
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fonti rakstībai
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arābu
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionāls
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Izmērs
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Fiksēta platuma
     .accesskey = F
+
 fonts-monospace-size = Izmērs
     .accesskey = r
+
 fonts-minsize = Minimālais fonta izmērs
     .accesskey = o
+
 fonts-minsize-none =
     .label = Nekāds
+
 fonts-allow-own =
     .label = Ļaut lapām izvēlēties pašām savus fontus manis izvēlēto fontu vietā
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Simbolu kodējums nezināmam saturam
 fonts-languages-fallback-desc = Šis simbolu kodējums tiks izmantots saturam, kurš neziņos par savu simbolu kodējumu.
+
 fonts-languages-fallback-label = Atkāpšanās teksta kodējums
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Noklusētie izvēlētajai valodai
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vjetnamiešu
 fonts-languages-fallback-name-other =
     .label = Citi (ieskaitot Rietumeiropas)
-fonts-very-large-warning-title = Lielākais minimālais fotna izmērs
-fonts-very-large-warning-message = Jūs esat izvēlējies ļoti lielu minimālo fonta izmēru (vairāk kā24 pikseļus). Šis var padarīt sarežģītu vai pat neiespējamu dažādu svarīgu konfigurācijas lapu apskati.
-fonts-very-large-warning-accept = Saglabāt manas izmaiņas
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

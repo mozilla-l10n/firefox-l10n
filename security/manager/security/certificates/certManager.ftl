@@ -4,146 +4,176 @@
 
 certmgr-title =
     .title = Sertifikātu pārvaldnieks
+
 certmgr-tab-mine =
     .label = Jūsu sertifikāti
+
 certmgr-tab-people =
     .label = Cilvēki
+
 certmgr-tab-servers =
     .label = Serveri
+
 certmgr-tab-ca =
     .label = Autoritātes
+
 certmgr-mine = Jums ir jūs identificējoši sertifikāti no šīm organizācijām
 certmgr-people = Jums failā ir šos cilvēkus identificējoši sertifikāti
 certmgr-servers = Jums failā ir šos serverus identificējoši sertifikāti
 certmgr-ca = Jums failā ir šīs sertificēšanas autoritātes identificējoši sertifikāti
+
 certmgr-detail-general-tab-title =
     .label = Vispārīgi
     .accesskey = V
+
 certmgr-detail-pretty-print-tab-title =
     .label = Detaļas
     .accesskey = D
+
 certmgr-pending-label =
     .value = Šobrīd pārbauda sertifikātu...
-certmgr-subject-info-label =
-    .value = Izdots
-certmgr-issuer-info-label =
-    .value = Izdevējs
-certmgr-period-of-validity-label =
-    .value = Derīguma termiņš
-certmgr-fingerprints-label =
-    .value = Pirkstu nospiedumi
+
 certmgr-subject-label = Izdots
+
 certmgr-issuer-label = Izdevējs
+
 certmgr-period-of-validity = Derīguma termiņš
+
 certmgr-fingerprints = Pirkstu nospiedumi
+
 certmgr-cert-detail =
     .title = Sertifikāta detaļas
     .buttonlabelaccept = Aizvērt
     .buttonaccesskeyaccept = z
-certmgr-cert-detail-cn =
-    .value = Nosaukums (CN)
-certmgr-cert-detail-o =
-    .value = Organizācija (O)
-certmgr-cert-detail-ou =
-    .value = Organizatoriska vienība (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Sērijas numurs
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA-256 pirkstu nospiedums
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 pirkstu nospiedums
+
 certmgr-cert-detail-commonname = Nosaukums (CN)
+
 certmgr-cert-detail-org = Organizācija (O)
+
 certmgr-cert-detail-orgunit = Organizatoriska vienība (OU)
+
 certmgr-cert-detail-serial-number = Sērijas numurs
+
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 pirkstu nospiedums
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 pirkstu nospiedums
+
 certmgr-edit-ca-cert =
     .title = Rediģēt CA sertifikātu uzticamības iestatījumus
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Rediģēt uzticamības iestatījumus:
+
 certmgr-edit-cert-trust-ssl =
     .label = Šis sertifikāts var identificēt tīmekļa vietnes.
+
 certmgr-edit-cert-trust-email =
     .label = Šis sertifikāts var identificēt pasta lietotājus.
+
 certmgr-delete-cert =
     .title = Dzēst sertifikātu
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Sertifikāta nosaukums
+
 certmgr-cert-server =
     .label = Serveris
+
 certmgr-override-lifetime =
     .label = Dzīves ilgums
+
 certmgr-token-name =
     .label = Drošības ierīce
+
 certmgr-begins-on = Sākas
+
 certmgr-begins-label =
     .label = Sākas
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Derīgs līdz
+
 certmgr-expires-label =
     .label = Derīgs līdz
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = E-pasta adrese
+
 certmgr-serial =
     .label = Sērijas numurs
+
 certmgr-view =
     .label = Apskatīt…
     .accesskey = A
+
 certmgr-edit =
     .label = Rediģēt uzticamību…
     .accesskey = e
+
 certmgr-export =
     .label = Eksportēt…
     .accesskey = k
+
 certmgr-delete =
     .label = Dzēst…
     .accesskey = D
+
 certmgr-delete-builtin =
     .label = Dzēst vai neuzticēties…
     .accesskey = D
+
 certmgr-backup =
     .label = Saglabāt kopiju…
     .accesskey = p
+
 certmgr-backup-all =
     .label = Saglabāt kopiju visiem…
     .accesskey = k
+
 certmgr-restore =
     .label = Importēt…
     .accesskey = I
+
 certmgr-details =
     .value = Sertifikātu lauki
     .accesskey = l
+
 certmgr-fields =
     .value = Lauka vērtība
     .accesskey = v
+
 certmgr-hierarchy =
     .value = &Sertifikātu hierarhija
     .accesskey = H
+
 certmgr-add-exception =
     .label = Pievienot izņēmumu…
     .accesskey = z
+
 exception-mgr =
     .title = Pievienot drošības izņēmumu
+
 exception-mgr-extra-button =
     .label = Apstiprināt drošības izņēmumu
     .accesskey = A
+
 exception-mgr-supplemental-warning = Īstās bankas, veikali un citas publiskas vietnes jums nekad nelūgs darīt šo.
+
 exception-mgr-cert-location-url =
     .value = Atrašanās vieta:
+
 exception-mgr-cert-location-download =
     .label = Ielādēt sertifikātu
     .accesskey = I
+
 exception-mgr-cert-status-view-cert =
     .label = Apskatīt…
     .accesskey = A
+
 exception-mgr-permanent =
     .label = Patstāvīgi saglabāt šo izņēmumu
     .accesskey = P
+
 pk11-bad-password = Ievadīta nepareiza parole.
 pkcs12-decode-err = Nevar atkodēt failu.  Vai nu tas nav PKCS #12 formātā, ir bojāts vai arī tika ievadīta nepareiza parole.
 pkcs12-unknown-err-restore = Nezināmu iemeslu dēļ neizdevās atjaunot PKCS #12 failu.
@@ -176,18 +206,24 @@ delete-user-cert-title =
     .title = Dzēst savus sertifikātus
 delete-user-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos sertifikātus?
 delete-user-cert-impact = Ja izdzēsīsiet vienu no saviem sertifikātiem, vairs nevarēsiet to izmantot sevis identificēšanai tīmeklī.
+
+
 delete-ssl-cert-title =
     .title = Dzēst serveru sertifikātu izņēmumus
 delete-ssl-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šos serveru izņēmumus?
 delete-ssl-cert-impact = Ja izdzēsīsiet servera izņēmumu, šim serverim tiks atjaunotas parastās drošības pārbaudes un tam būs nepieciešams derīgs sertifikāts.
+
 delete-ca-cert-title =
     .title = Dzēst CA sertifikātus
 delete-ca-cert-confirm = Jūs esat izvēlējies dzēst CA sertifikātus. Iebūvētajiem sertifikātiem visa uzticamība tiks noņemta. Vai esat pārliecināts, ka vēlaties dzēst šos CA sertifikātus?
 delete-ca-cert-impact = Ja izdzēsīsiet sertifikātu autoritātes (CA) sertifikātu, šī programma vairs neuzticēsies nevienam sertifikātam, ko izsniegusi šī autoritāte.
+
+
 delete-email-cert-title =
     .title = Dzēst e-pasta sertifikātus
 delete-email-cert-confirm = Vai esat pārliecināts, ka vēlaties dzēst šo cilvēku e-pasta sertifikātus?
 delete-email-cert-impact = Ja izdzēsīsiet personas e-pasta sertifikātu, jūs vairs nevarēsiet šai personai nosūtīt šifrētas vēstules.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -203,21 +239,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Sertifikātu skatītājs: “{ $certName }”
+
 not-present =
     .value = <Nav daļa no sertifikāta>
+
 # Cert verification
 cert-verified = Šis sertifikāts ir apstiprināts šādiem mērķiem:
+
 # Add usage
 verify-ssl-client =
     .value = SSL klienta sertifikāts
+
 verify-ssl-server =
     .value = SSL servera sertifikāts
+
 verify-ssl-ca =
     .value = SSL sertifikāta autoritāte
+
 verify-email-signer =
     .value = Epasta parakstītāja sertifikāts
+
 verify-email-recip =
     .value = Epasta saņēmēja sertifikāts
+
 # Cert verification
 cert-not-verified-cert-revoked = Nevar apstiprināt šo sertifikātu, jo tas ir anulēts.
 cert-not-verified-cert-expired = Nevar apstiprināt šo sertifikātu, jo tam beidzās derīguma laiks.

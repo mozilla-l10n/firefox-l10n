@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Jauns atdalītājs">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Pārlādēt dzīvās grāmatzīmes">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-
-<!ENTITY cmd.moveBookmarks.label                  "Pārvietot...">
-<!ENTITY cmd.moveBookmarks.accesskey              "P">
-
 <!ENTITY col.name.label          "Nosaukums">
 <!ENTITY col.tags.label          "Birkas">
 <!ENTITY col.url.label           "Adrese">
 <!ENTITY col.mostrecentvisit.label "Pēdējais apmeklējums">
 <!ENTITY col.visitcount.label    "Apmeklējumu skaits">
-<!ENTITY col.description.label   "Apraksts">
 <!ENTITY col.dateadded.label     "Pievienota">
 <!ENTITY col.lastmodified.label  "Pēdējo reizi labota">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Iet uz priekšu">
 
-<!ENTITY detailsPane.more.label "Vairāk">
-<!ENTITY detailsPane.more.accesskey "k">
-<!ENTITY detailsPane.less.label "Mazāk">
-<!ENTITY detailsPane.less.accesskey "z">
 <!ENTITY detailsPane.selectAnItemText.description "Izvēlieties elementu, ko aplūkot vai rediģēt">
 
 <!ENTITY view.label               "Skats">
