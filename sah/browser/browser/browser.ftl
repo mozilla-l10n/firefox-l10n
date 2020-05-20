@@ -69,5 +69,5 @@ urlbar-placeholder =
     .placeholder = Көрдөт эбэтэр аадырыһы ук
 urlbar-switch-to-tab =
     .value = Кыбытыгы арый:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Аадырыс устуруокатын аадырыһыгар киир
