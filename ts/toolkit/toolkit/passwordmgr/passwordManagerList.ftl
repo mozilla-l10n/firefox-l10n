@@ -11,5 +11,6 @@ column-heading-password =
 remove =
     .label = Remove
     .accesskey = R
+
 remove-all-passwords-prompt = Are you sure you wish to remove all passwords?
 no-master-password-prompt = U na ntiyiso leswaku u lava ku kombisa tiphasiwedi ta wena?

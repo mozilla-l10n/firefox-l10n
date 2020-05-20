@@ -38,6 +38,12 @@
 
  ***** END LICENSE BLOCK ***** -->
 
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowtitle.label "&brandShortName; - Hlawula phurofayili ya mutirhisi">
 
 <!ENTITY profilename.label "Vito ra phurofayili:">
@@ -60,5 +66,3 @@
 <!ENTITY offlineState.label "Tirha ofolayini">
 <!ENTITY offlineState.accesskey "o">
 
-<!ENTITY autoSelect.label "U nga vutisi eku sunguleni">
-<!ENTITY autoSelect.accesskey "g">

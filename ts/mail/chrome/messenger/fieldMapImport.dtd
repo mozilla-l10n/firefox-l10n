@@ -35,20 +35,19 @@
 
  ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY fieldMapImport.title "Buku ya tiadirese leyi amukeriweke">
 <!ENTITY fieldMapImport.size "vuanami: 40em; vuleji: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Datha leyi amukeriweke yo rhekhodiwa: ">
-<!ENTITY fieldMapImport.next "Leswi landzelaka">
 <!ENTITY fieldMapImport.next.accesskey "N">
-<!ENTITY fieldMapImport.previous "Leswi nga hundza">
 <!ENTITY fieldMapImport.previous.accesskey "P">
 <!ENTITY fieldMapImport.text "Yana ehenhla na le hansi ku pimanisa timbala ta buku ya tiadirese eximatsini na datha leyi nga yona yi amukeriwaka exineneni. Susa tiayitheme leti u faneleke u nga ti amukeli.">
-<!ENTITY fieldMapImport.up "Yana ehenhla">
 <!ENTITY fieldMapImport.up.accesskey "U">
-<!ENTITY fieldMapImport.down "Yana ehansi">
 <!ENTITY fieldMapImport.down.accesskey "D">
 <!ENTITY fieldMapImport.fieldListTitle "Timbala ta Buku ya Tiadirese">
 <!ENTITY fieldMapImport.dataTitle "Rhekhoda datha leyi faneleke ku amukeriwa">
-<!ENTITY fieldMapImport.skipFirstRecord "First record contains field names">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "F">
 

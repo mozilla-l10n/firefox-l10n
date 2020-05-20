@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newprofile.title "Tumbuluxa Wizard ya Profayili">
 <!ENTITY window.size "width: 45em; height: 32em;">
 <!-- First wizard page -->
@@ -12,7 +16,6 @@
 <!ENTITY profileCreationIntro.text "Loko u tumbuluxa tiprofayili to tala, u nga ti hambanisa hi mavito. U nag tirhisa vito leri nyikiweke laha kumbe u titumbuluxela ra wena.">
 <!ENTITY profilePrompt.label "Tsala vito rintshwa ra profayili:">
 <!ENTITY profilePrompt.accesskey "T">
-<!ENTITY profileDirExplanation.text "Tindhawu leti u ti tirhisaka, minhlawulo, timakara ta buku na mapapila swi ta hlayisiwa kona:">
 <!ENTITY profileDefaultName "Xitirhisiwa xo Hoxeka">
 <!ENTITY button.choosefolder.label "Hlawula Folidara...">
 <!ENTITY button.choosefolder.accesskey "H">

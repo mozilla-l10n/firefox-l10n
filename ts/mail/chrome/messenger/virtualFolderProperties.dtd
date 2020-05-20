@@ -1,11 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY virtualFolderProperties.title "Folidara yo secha yintshwa leyi hlayisiweke">
 <!ENTITY name.label "Vito:">
 <!ENTITY name.accesskey "v">
 <!ENTITY description.label "Tumbuluxa tani hi folidarantsongo ya:">
 <!ENTITY description.accesskey "T">
-<!ENTITY searchCriteriaText.label "Cinca xilaveko xa ku secha lexi tirhisiweke eka ku secha loku hlayisiweke:">
-<!ENTITY searchCriteriaButton.label "Xilaveko xa ku secha...">
-<!ENTITY searchCriteriaButton.accesskey "X">
 
 <!ENTITY searchTermCaption.label "Kambe xihlawulekisi xo secha lexi tirhisiweke eka folidara yo sech leyi hlayisiweke: ">
 

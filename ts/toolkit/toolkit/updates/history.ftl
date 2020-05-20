@@ -3,27 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Matimu yo Antswisa
+
 close-button-label =
     .buttonlabelcancel = Pfala
     .title = Matimu yo Antswisa
+
 no-updates-label = A ku se nghenisiwa miantswiso
 name-header = Vito ra Antswiso
 date-header = Siku ro Nghenisa
 type-header = Muxaka
 state-header = Xiyimo
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Vuxokoxoko
 update-installed-on = Nghenisiwile eka: { $date }
 update-status = Xiyimo: { $status }

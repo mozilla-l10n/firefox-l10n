@@ -1,13 +1,11 @@
-<!ENTITY fontsDialog.title "Tifonto">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
+
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY language.label "Tifonto ta:">
 <!ENTITY language.accesskey "t">
-
-<!ENTITY typefaces.label "Xifaniso xo Thayipa">
-<!ENTITY sizes.label "Sayizi (pixili)">
 
 <!ENTITY proportional.label "Mpimanyiso:">
 <!ENTITY proportional.accesskey "M">
@@ -19,21 +17,13 @@
 <!ENTITY monospace.label "Ndhawu yin'we:">
 <!ENTITY monospace.accesskey "n">
 
-<!ENTITY fontsize.units "phixele">
-
-<!ENTITY font.langGroup.latin1 "Vupeladyambu">
-<!ENTITY font.langGroup.latin2 "Yuropo-xikarhi">
 <!ENTITY font.langGroup.japanese "Mujapani">
 <!ENTITY font.langGroup.trad-chinese "Muchayina wa ndhavuko (Thayiwani)">
 <!ENTITY font.langGroup.simpl-chinese "Muchayina wo olova">
 <!ENTITY font.langGroup.trad-chinese-hk "Muchayina wa ndhavuko (Hong Kong)">
 <!ENTITY font.langGroup.korean "Mukoriya">
 <!ENTITY font.langGroup.cyrillic "Siriliki">
-<!ENTITY font.langGroup.baltic "Balitiki">
 <!ENTITY font.langGroup.el "Mugiriki">
-<!ENTITY font.langGroup.turkish "Mutheki">
-<!ENTITY font.langGroup.unicode "Tin'wana tindzimi">
-<!ENTITY font.langGroup.user-def "Mutirhisi u hlamuseriwile">
 <!ENTITY font.langGroup.thai "Thayi">
 <!ENTITY font.langGroup.hebrew "Muheveru">
 <!ENTITY font.langGroup.arabic "Arabiki">
@@ -58,7 +48,6 @@
 <!ENTITY useDefaultFontSerif.label "Xerifu">
 <!ENTITY useDefaultFontSansSerif.label "Sans Xerifu">
 
-<!ENTITY newLanguages.label "Tindzimi tin'wana ti nga kumeka hi ku tirhisa Phanele ya Ririmi.">
-
 <!ENTITY useDocumentFonts.label "Pfumelela mahungu ku tirhisa tifonto tin'wana">
 <!ENTITY useDocumentFonts.accesskey "p">
+

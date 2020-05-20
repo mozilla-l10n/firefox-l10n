@@ -76,6 +76,7 @@ print-window =
     .title = Ku pirinta
 print-complete =
     .value = Ku pirinta swi herile.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

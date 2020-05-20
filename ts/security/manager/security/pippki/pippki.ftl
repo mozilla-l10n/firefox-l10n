@@ -8,6 +8,7 @@ password-quality-meter = Mitara wa nkoka wa phasiwedi
 
 change-password-window =
     .title = Cinca Phasiwedinkulu
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Xitirhisiwa xa nhlayiseko: { $tokenName }

@@ -36,15 +36,16 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.ldap.window.title "Tisevha ta Dayirekitheri ya LDAP">
-<!ENTITY directory.label "Engetela dayirekitheri">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Sevha Ya Dayirekitheri ya LDAP:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Hlawula sevha ya Dayirekitheri ya LDAP:">
 <!ENTITY directoriesText.accesskey "H">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "Sevha ya Dayirekitheri ya LDAP">
 <!ENTITY addDirectory.label "Engetela">
 <!ENTITY addDirectory.accesskey "e">
 <!ENTITY editDirectory.label "Hlela">

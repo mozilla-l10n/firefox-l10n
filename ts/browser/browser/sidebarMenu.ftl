@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Timakara ta buku
+
 sidebar-menu-history =
     .label = Matimu
+

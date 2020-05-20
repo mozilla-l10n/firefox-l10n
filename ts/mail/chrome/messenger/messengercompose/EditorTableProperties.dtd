@@ -35,6 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title "Swihlawulekisi swa tafula">
 <!ENTITY applyButton.label "Tirhisa">
 <!ENTITY applyButton.accesskey "T">
@@ -69,7 +73,6 @@
 <!ENTITY tableCaptionNone.label "Ku hava">
 <!ENTITY tableInheritColor.label "(Kombisa muhlovo wa pheji)">
 
-<!ENTITY cellPercent.label "phesente ya tafula">
 <!ENTITY cellSelection.label "Nhlawulo">
 <!ENTITY cellSelectCell.label "Sele">
 <!ENTITY cellSelectRow.label "Ntila">
@@ -78,13 +81,6 @@
 <!ENTITY cellSelectNext.accessKey "L">
 <!ENTITY cellSelectPrevious.label "Leswi nga hundza">
 <!ENTITY cellSelectPrevious.accessKey "N">
-<!ENTITY cellApplyBeforeMove.label "Tirhisa ku cinca u nga si cinca nhlawulo">
-<!ENTITY cellKeepCurrentData.label "Hlayisa ndzulamiso wa sweswi">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Ku ta tirhisiwa ku cinca ka sweswi">
-<!ENTITY applyBeforeChange2.label "u nga si cinca nhlawulo.">
-<!ENTITY cellRowSpan.label "Xipene xa ntila:">
-<!ENTITY cellColSpan.label "Xipene xa kholomo:">
 <!ENTITY cellContentAlignment.label "Ku lulamisa vundzheni">
 <!ENTITY cellHorizontal.label "Horizonthali:">
 <!ENTITY cellHorizontal.accessKey "Z">
@@ -102,7 +98,6 @@
 <!ENTITY cellAlignMiddle.label "Exikarhi">
 <!ENTITY cellAlignBottom.label "Ehansi">
 <!ENTITY cellAlignJustify.label "Tiyisisa">
-<!ENTITY cellAlignAtChar.label "Eka xihlawulekisi:">
 <!ENTITY cellInheritColor.label "(Kombisa muhlovo wa tafula)">
 <!ENTITY cellUseCheckboxHelp.label "Tirhisa mabokisi yo secha ku kuma swihlawulekisi leswi tirhisiwaka eka tisele leti hlawuriweke">
 <!-- Used in both Table and Cell panels  -->

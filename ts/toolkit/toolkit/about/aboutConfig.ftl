@@ -31,39 +31,52 @@ config-column-chooser =
 config-copy-name =
     .label = Kopa Vito
     .accesskey = K
+
 config-copy-value =
     .label = Kopa Nkoka
     .accesskey = N
+
 config-modify =
     .label = Cinca
     .accesskey = C
+
 config-toggle =
     .label = Boha
     .accesskey = B
+
 config-reset =
     .label = Tumbuluxa nakambe
     .accesskey = T
+
 config-new =
     .label = Xintshwa
     .accesskey = X
+
 config-string =
     .label = Ntambhu
     .accesskey = N
+
 config-integer =
     .label = Initheja
     .accesskey = I
+
 config-boolean =
     .label = Boolini
     .accesskey = O
+
 config-default = xihoxo
 config-locked = pfariwile
+
 config-property-string = boha
 config-property-int = initheja
 config-property-bool = boolini
+
 config-new-prompt = Tsala vito leri rhandziwaka
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nkoka wuntshwa wa { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Tsala nkoka wa { $type }

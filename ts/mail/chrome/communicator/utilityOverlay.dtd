@@ -1,6 +1,8 @@
-<!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Tirha ofolayini">
-<!ENTITY offlineGoOfflineCmd.accesskey "t">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 
@@ -27,18 +29,12 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "d">
 <!ENTITY deleteCmd.label "Sula">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "s">
 <!ENTITY selectAllCmd.label "Hlawula hinkwaswo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "Minhlawulo...">
-<!ENTITY preferencesCmd.accesskey "M">
 <!ENTITY preferencesCmdUnix.label "Minhlawulo">
 <!ENTITY preferencesCmdUnix.accesskey "w">
-
-<!ENTITY findTypeTextCmd.label "Kuma tsalwa loko u ri karhi u thayipa">
-<!ENTITY findTypeTextCmd.accesskey "w">
 
 <!ENTITY viewMenu.label "Languta">
 <!ENTITY viewMenu.accesskey "l">
@@ -46,19 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "S">
 <!ENTITY showTaskbarCmd.label "Bara ya Xiyimo">
 <!ENTITY showTaskbarCmd.accesskey "B">
-
-<!ENTITY direct.label "Onolayini (prozi: ku hava)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Onolayini (prozi: ku manuwali)">
-<!ENTITY manual.accesskey "m">
-<!ENTITY pac.label "Onolayini (prozi: otho)">
-<!ENTITY pac.accesskey "o">
-
-<!ENTITY proxy.label "Prozi Khonifigarexini...">
-<!ENTITY proxy.accesskey "K">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Pfala">
 <!ENTITY closeCmd.key "W">

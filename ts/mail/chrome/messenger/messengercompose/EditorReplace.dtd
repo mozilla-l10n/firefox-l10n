@@ -38,6 +38,12 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Kuma no Siva">
 <!ENTITY findField.label "Kuma tsalwa:">
 <!ENTITY findField.accesskey "k">
@@ -58,4 +64,3 @@
 <!ENTITY replaceAllButton.label "Siva hinkwaswo">
 <!ENTITY replaceAllButton.accesskey "S">
 <!ENTITY closeButton.label "Pfala">
-<!ENTITY notFoundWarning.label "Tsalwa leri u nga ri nghenisa a ri kumekangi.">

@@ -4,15 +4,23 @@
 
 set-desktop-background-window =
     .title = Lulamisa xitandzhaku xa desikithopo
+
 set-desktop-background-accept =
     .label = Lulamisa xitandzhaku xa desikithopo
+
 open-desktop-prefs =
     .label = Pfula minhlawulo ya desikithopo
+
 set-background-color = Muhlovo:
+
 set-background-position = Xiyimo:
+
 set-background-tile =
     .label = Thayili
+
 set-background-center =
     .label = Senthara
+
 set-background-stretch =
     .label = Koka
+

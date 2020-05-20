@@ -1,5 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Tirhisiti to thlerisela">
-<!ENTITY receiptSettings.label "Tirhisiti to thlerisela">
 <!ENTITY requestReceipt.label "Minkarhi hinkwayo loko u rhumela mahungu, kombela rhisiti ro thlerisela">
 <!ENTITY requestReceipt.accesskey "M">
 <!ENTITY receiptArrive.label "Loko rhisiti ri fika:">

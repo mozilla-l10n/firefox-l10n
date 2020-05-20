@@ -37,7 +37,10 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "U hlawurile ku pfula">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY from.label "ku suka eka:">
 <!ENTITY actionQuestion.label "Xana &brandShortName; ri endla yini hi fayili leyi?">
 
@@ -45,17 +48,8 @@
 <!ENTITY openWith.accesskey "p">
 <!ENTITY other.label "Swin'wana...">
 
-<!ENTITY save.label "Hlayisa eka disiki">
-<!ENTITY save.accesskey "h">
-
 <!ENTITY rememberChoice.label "Endla hi othomethiki eka tifayili to fana na leti ku sukela sweswi.">
 <!ENTITY rememberChoice.accesskey "e">
-
-<!ENTITY settingsChange.label "Settings can be changed in the Content section of Tools, Options.">
-<!ENTITY settingsChangeMac.label "Settings can be changed in the Content section of &brandShortName;, Preferences.">
-<!ENTITY settingsChangeUnix.label "Settings can be changed in the Content section of Edit, Preferences.">
-
-<!ENTITY whichIsA.label "leswi swi nga:">
 
 <!ENTITY chooseHandlerMac.label "Hlawula...">
 <!ENTITY chooseHandlerMac.accesskey "H">

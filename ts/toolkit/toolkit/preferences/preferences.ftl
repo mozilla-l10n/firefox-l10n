@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (a swi lulamisiwangi)
+
 failed-pw-change = A swi koteki ku cinca Phasiwedinkulu.
 incorrect-pw = A wu nghenisangi Phasiwedinkulu ya sweswi ya ntiyiso. Ringeta nakambe.
 pw-change-ok = Ku cinca Phasiwedinkulu swi humelerile.
+
 pw-empty-warning = Tiphasiwedi ta wena ta web na ta imeyili leti u ti hlayiseke, fomo ya datha, na makhiya ya xihundla swi nge sirheleriwi.
 pw-erased-ok = U surile Phasiwedinkulu ya wena. { pw-empty-warning }
 pw-not-wanted = Tivonele! U teke xiboho xo ka u nga tirhisi Phasiwedinkulu. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = U le ka modi wa FIPS sweswi. FIPS yi lava Phasiwedinkulu leyi nga na swin'wana.
 pw-change-success-title = Ku cinca Phasiwedi swi Humelerile
 pw-change-failed-title = Ku cinca Phasiwedi swi Tsandzile
 pw-remove-button =
     .label = Susa
+
 set-password =
     .title = Cinca Phasiwodi-nkulu
 set-password-old-password = Phasiwedi ya sweswi:
@@ -24,6 +28,7 @@ set-password-meter = Mitira ya nkoka wa phasiwedi
 set-password-meter-loading = Panga
 master-password-description = Phasiwedi-nkulu yi tirhiseriwa ku sirhelela mahungu ya nkoka ku kota tiphasiwedi ta sayiti leri.  Loko u tumbuluxa Phasiwedi-nkulu u ta komberiwa ku yi tirhisa kan'we eka sexini loko ku ri { -brand-short-name } ku kuma mahungu lama hlayisiweke hi phasiwedi.
 master-password-warning = Vona leswaku u tsundzuka phasiwedi-nkulu leyi u nga yi lulamisa.  Loko u rivala phasiwedi-nkulu, u nga kumi mahungu lama hlayisiweke eka yona.
+
 remove-password =
     .title = Susa Phasiwedinkulu
 remove-info =

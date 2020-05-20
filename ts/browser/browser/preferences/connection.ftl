@@ -4,19 +4,25 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-auto =
     .label = Hi othomethiki, kuma malulamisele ya proxy ya neteweke leyi
     .accesskey = w
+
 connection-proxy-http-share =
     .label = Tirhisa sevha leyi ya proxy eka tiprothokholo hinkwato
     .accesskey = x
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = C
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Xikombiso: .mozilla.org, .net.za, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Reload
     .accesskey = e
+
