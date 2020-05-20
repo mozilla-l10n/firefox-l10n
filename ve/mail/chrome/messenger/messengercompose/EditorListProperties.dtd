@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Vhuvha ha Mutevhe">
 
 <!ENTITY ListType.label "Lushaka lwa Mutevhe">
@@ -47,7 +52,6 @@
 <!ENTITY bulletList.value "Mutevhe wa Buḽethe (U songo Nomboriwaho)">
 <!ENTITY numberList.value "Mutevhe wo Nomboriwaho">
 <!ENTITY definitionList.value "Mutevhe wa Ṱhalutshedzo">
-<!ENTITY changeListMsg.label "Musi ni tshi shandukisa lushaka lwa mutevhe:">
 <!ENTITY changeEntireListRadio.label "Shandukisani mutevhe woṱhe">
 <!ENTITY changeEntireListRadio.accessKey "S">
 <!ENTITY changeSelectedRadio.label "Shandukisani zwiteṅwa zwo nangiwaho fhedzi">

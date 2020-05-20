@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Tswayo dza Bugu
+
 sidebar-menu-history =
     .label = Ḓivhazwakale
+

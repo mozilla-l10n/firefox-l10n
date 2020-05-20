@@ -1,5 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Ṱhanganedzo Murahu">
-<!ENTITY receiptSettings.label "Ṱhanganedzo Murahu">
 <!ENTITY requestReceipt.label "Musi ni tshi khou rumela milaedza, tshifhinga tshothe humbelani thanganedzo murahu">
 <!ENTITY requestReceipt.accesskey "M">
 <!ENTITY receiptArrive.label "Musi ṱhanganedzo i tshi swika:">

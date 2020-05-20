@@ -35,33 +35,14 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY toField.label "Ha: ">
-<!ENTITY fromField.label "U bva kha: ">
-<!ENTITY senderField.label "Murumeli: ">
-<!ENTITY organizationField.label "Dzangano: ">
-<!ENTITY replyToField.label "Fhindulani-kha: ">
-
-<!ENTITY subjectField.label "Ṱhoho: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc: ">
-<!ENTITY bccField.label "Bcc: ">
-<!ENTITY newsgroupsField.label "Tshigwada tsha Mafhungo: ">
-<!ENTITY followupToField.label "Ṱhoḓisiso- kha: ">
-<!ENTITY tagsHdr.label "Tags: ">
-<!ENTITY dateField.label "Ḓuvha: ">
-<!ENTITY userAgentField.label "Zhendedzi-Mushumisi: ">
-<!ENTITY originalWebsite.label "Webusaithi: ">
-<!ENTITY saveAll.label "Vhulungani Zwoṱhe..">
-
-<!ENTITY editMessage.label "Lulamisani Thalathadzo...">
-<!ENTITY attachmentsTree.label "Zwiṱumetshedzwa:">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY openAttachmentCmd.label "Vulani">
 <!ENTITY openAttachmentCmd.accesskey "V">
 <!ENTITY saveAsAttachmentCmd.label "Vhulungani Sa...">
 <!ENTITY saveAsAttachmentCmd.accesskey "S">
-<!ENTITY printAttachmentCmd.label ".Ganḓisani">
-<!ENTITY printAttachmentCmd.accesskey "G">
 <!ENTITY detachAttachmentCmd.label "Ṱumululani...">
 <!ENTITY deleteAttachmentCmd.label "Thuthani">
 <!ENTITY saveAllAttachmentsCmd.label "Vhulungani Zwoṱhe...">

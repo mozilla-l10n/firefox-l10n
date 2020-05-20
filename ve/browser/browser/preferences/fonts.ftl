@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Miṅwalo
+
 fonts-window-close =
     .key = w
 
@@ -58,6 +59,7 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-minsize-none =
     .label = A huna tshithu
 

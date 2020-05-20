@@ -1,13 +1,12 @@
-<!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "Vhushumisi ha RSS">
-<!ENTITY subscriptionDesc.label "Tsumbudzo: U bvisa na u shandukisa foḽuda u itela u longela zwi nga si kwame zwiteṅwa zwo dzheniswaho kale.">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY feedTitle.label "Thoho:">
-<!ENTITY location.label "Fhethu:">
 
 <!ENTITY button.addFeed.label "Dzhenisani">
 <!ENTITY button.addFeed.accesskey "D">
-<!ENTITY button.editFeed.label "Lulamisani">
-<!ENTITY button.editFeed.accesskey "L">
 <!ENTITY button.removeFeed.label "Bvisani">
 <!ENTITY button.removeFeed.accesskey "B">
 <!ENTITY button.importOPML.label "Ṱunḓani">

@@ -38,37 +38,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label "Vhuvha">
 
 <!ENTITY generalInfo.label "Vhuṱanzi nga u Angaredza">
-<!ENTITY folderCharsetTab.label "Tshiteṅwa tsho Hanelwaho U Khouda:">
-<!ENTITY folderCharsetTab.accesskey "U">
-<!ENTITY folderCharsetOverride.label "Shumisani tshidzivhisi kha milaedza yoṱhe ire kha foḽuda (nzudzanyo ya u khouda tshiteṅwa tshithihi tsha mulaedza na u wanulusa nga yoṱhe a zwi nga dzhielwi nzhele)">
-<!ENTITY folderCharsetOverride.accesskey "S">
-<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary File">
 
 
 <!ENTITY retention.label "Pholisi ya Ngelekanyokwae">
-<!ENTITY retentionUseDefault.label "Shumisani seve zwidzivhisi">
-<!ENTITY retentionUseDefault.accesskey "z">
-<!ENTITY days.label "maḓuvha">
 <!ENTITY daysOld.label "vhukale ha maḓuvha">
 <!ENTITY message.label "milaedza">
 <!ENTITY retentionCleanup.label "U wanulusa tshikhala tsha disiki, milaedza ya kale i nga thuthea lwa tshoṱhe">
-<!ENTITY retentionKeepMsg.label "Thuthani milaedza ine ya fhira">
-<!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Ni songo thutha na mulaedza na muthihi">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Thuthani yoṱhe nga nnḓa ha wa u thoma">
-<!ENTITY retentionKeepNew.accesskey "t">
-<!ENTITY retentionKeepUnread.label "Tshifhinga tshoṱhe thuthani vhalani milaedza">
-<!ENTITY retentionKeepUnread.accesskey "v">
-
-<!ENTITY folderOfflineTab.label "Nnḓa ha ḽaini">
-<!ENTITY folderCheckForNewMessages.label "Ṱolani hei foḽuda u itela milaedza miswa">
-<!ENTITY folderCheckForNewMessages.accesskey "Ṱ">
 
 <!ENTITY offlineFolder.check.label "Nangani hei foḽuda u itela u shumisa ofisini">
 <!ENTITY offlineFolder.check.accesskey "N">
@@ -77,16 +61,13 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Nangani hetshi tshigwada tsha mafhungo u itela u shumisa nnḓa ha ḽaini">
 <!ENTITY selectofflineNewsgroup.check.accesskey "d">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Shumisani tshidzivhisi u bva kha nzudzanyo ya mbalelano ">
 <!ENTITY offlineNewsgroup.button.label "Dzhenisani Zwino">
 <!ENTITY offlineNewsgroup.button.accesskey "D">
 
-<!ENTITY folderProps.information.label "Vhuṱanzi:">
 <!ENTITY folderProps.name.label "Dzina:">
 <!ENTITY folderProps.name.accesskey "D">
 
 <!ENTITY folderSharingTab.label "U kovhekana">
-<!ENTITY privilegesDesc.label "Kovhekanani hei foḽuda na dziṅwe na vhashumisi vha netiweke nahone ni ṱane na u vhekanya pfanelo dza u swikelela">
 <!ENTITY privileges.button.label "Pfanelo...">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "Ni na thendelo dzi tevhelaho:">
@@ -96,3 +77,4 @@
 <!ENTITY folderQuotaRoot.label "Mudzi wa Mukovhe:">
 <!ENTITY folderQuotaUsage.label "Mashumisele:">
 <!ENTITY folderQuotaStatus.label "Nyimele:">
+

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Bugu ya Ḓiresi">
 <!-- File Menu -->
 
@@ -5,10 +9,6 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Ntswa">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Garaṱa ya Bugu ya Ḓiresi...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "Mutevhe wa u Rumela...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
@@ -25,22 +25,11 @@
 <!ENTITY closeCmd.accesskey "v">
 <!ENTITY printSetupCmd.label "Nzudzanyo ya Siaṱari...">
 <!ENTITY printSetupCmd.accesskey "n">
-<!ENTITY printPreviewCardViewCmd.label "Gandisani Garata ya Tholothangeli">
-<!ENTITY printPreviewCardViewCmd.accesskey "t">
 <!ENTITY printPreviewAddressBook.label "Gandisani Bugu ya Ḓiresi ya Tholathangela">
 <!ENTITY printPreviewAddressBook.accesskey "B">
-<!ENTITY printCardViewCmd.label "Garaṱa ya Ganḓiso...">
-<!ENTITY printCardViewCmd.accesskey "g">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Gandisani Bugu ya Diresi...">
 <!ENTITY printAddressBook.accesskey "D">
 
-<!ENTITY quitApplicationCmdWin.label "U bva">
-<!ENTITY quitApplicationCmdWin.accesskey "u">
-<!ENTITY quitApplicationCmd.label "U Ṱuwa">
-<!ENTITY quitApplicationCmd.accesskey "U">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Lulamisa">
@@ -61,11 +50,8 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Thutha">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "t">
 <!ENTITY deleteAbCmd.label "Thuthani Bugu ya Ḓiresi">
-<!ENTITY deleteCardCmd.label "Thuthani Garaṱa">
-<!ENTITY deleteCardsCmd.label "Thuthani Garaṱa dzo Nangiwaho">
 <!ENTITY selectAllCmd.label "Nangani Dzoṱhe">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -75,9 +61,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Ndaka...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -91,12 +74,8 @@
 <!ENTITY showTaskbarCmd.accesskey "B">
 <!ENTITY customizeToolbar.label "Khwinifhadzani...">
 <!ENTITY customizeToolbar.accesskey "K">
-<!ENTITY showCardPane.label "Fasiṱere ḽa Garata ḽa Pfufhifhadzo">
-<!ENTITY showCardPane.accesskey "G">
 <!ENTITY menu_ShowNameAs.label "Sumbedzani Dzina Sa">
 <!ENTITY menu_ShowNameAs.accesskey "s">
-<!ENTITY firstLastCmd.label "Mathomo, Magumo">
-<!ENTITY firstLastCmd.accesskey "m">
 <!ENTITY lastFirstCmd.label "Mathomo, Magumo">
 <!ENTITY lastFirstCmd.accesskey "m">
 <!ENTITY displayNameCmd.label "Ṱanani Dzina">
@@ -116,48 +95,25 @@
 <!ENTITY importCmd.accesskey "Ṱ">
 <!ENTITY exportCmd.label "Vhambadzaseli...">
 <!ENTITY exportCmd.accesskey "V">
-<!ENTITY preferencesCmd.label "Khetho...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "K">
 <!ENTITY preferencesCmdUnix.label "Zwifunwa">
 <!ENTITY preferencesCmdUnix.accesskey "z">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Thuso">
-<!ENTITY helpMenu.accesskey "T">
-<!ENTITY releaseCmd.label "Vhofhololani Notsi">
-<!ENTITY releaseCmd.accesskey "V">
-<!ENTITY hintsAndTips.label "&brandShortName; Thuso">
-<!ENTITY hintsAndTips.accesskey "t">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Nga ha &brandShortName;">
-<!ENTITY aboutCmd.accesskey "N">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "Ntswa Garaṱa">
-<!ENTITY newcardButton.accesskey "G">
 <!ENTITY newlistButton.label "Ntswa Mutevhe">
 <!ENTITY newlistButton.accesskey "M">
-<!ENTITY editButton.label "Ndaka">
-<!ENTITY editButton.accesskey "N">
 <!ENTITY newmsgButton.label "Nwala">
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY newIM.label "Mulaedza Tshihaḓu">
 <!ENTITY newIM.accesskey "M">
-<!ENTITY deleteButton.label "Thuthani">
-<!ENTITY deleteButton.accesskey "T">
-<!ENTITY throbberItem.title "Tsumba Mushumo">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Sikani garaṱa ntswa ya bugu ya ḓiresi">
 <!ENTITY newlistButton.tooltip "Sikani mutevhe muswa">
-<!ENTITY editButton.tooltip "Lulamisani garata yo nangiwaho">
 <!ENTITY newmsgButton.tooltip "Rumelani mulaedza wa meiḽi">
 <!ENTITY newIM.tooltip "Rumelani mulaedza wa tshihaḓu kana vhudavhidzani">
-<!ENTITY deleteButton.tooltip "Thuthani garaṱa yo nangiwaho kana bugu ya ḓiresi">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label "Bugu dza Ḓiresi">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Dzina kana Emeiḽi">
@@ -171,8 +127,6 @@
 <!ENTITY GeneratedName.accesskey "D">
 <!ENTITY PrimaryEmail.label "Emeiḽi">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Dzina ḽa Tshikirini">
-<!ENTITY ScreenName.accesskey "D">
 <!ENTITY Company.label "Dzangano">
 <!ENTITY Company.accesskey "d">
 <!ENTITY NickName.label "Dzina ḽa miswaswo">
@@ -201,16 +155,6 @@
 <!ENTITY _PhoneticName.accesskey "o">
 <!-- Results pane context menu -->
 
-<!ENTITY composeEmail.label "Nwalelani Emeiḽi">
-<!ENTITY composeEmail.accesskey "N">
-<!ENTITY deleteAddrBookCard.label "Thuthani">
-<!ENTITY deleteAddrBookCard.accesskey "T">
-<!ENTITY newAddrBookCard.label "Garata Ntswa...">
-<!ENTITY newAddrBookCard.accesskey "G">
-<!ENTITY newAddrBookMailingList.label "Mutevhe Muswa wa u Rumela Mulaedza...">
-<!ENTITY newAddrBookMailingList.accesskey "R">
-<!ENTITY addrBookCardProperties.label "Ndaka">
-<!ENTITY addrBookCardProperties.accesskey "N">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -231,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY windowMenu.label "Fasiṱere">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Ṱukufhadzani">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Ḓisani Zwothe Phanḓa">
 <!ENTITY zoomWindow.label "Zumani">

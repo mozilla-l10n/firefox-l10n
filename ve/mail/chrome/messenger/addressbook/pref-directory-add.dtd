@@ -35,7 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label "Vhuvha ha Seva ya Tsumbanḓila">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY directoryName.label "Dzina: ">
 <!ENTITY directoryName.accesskey "d">
 <!ENTITY directoryHostname.label "Dzinaḽatshigwada: ">
@@ -48,12 +51,9 @@
 <!ENTITY directorySecure.accesskey "S">
 <!ENTITY directoryLogin.label "Vhofhekanyani DN: ">
 <!ENTITY directoryLogin.accesskey "v">
-<!ENTITY advancedOptionsButton.label "Khetho dzo Bvelelaho">
-<!ENTITY advancedOptionsButton.accesskey "k">
 <!ENTITY General.tab "Zwo doweleaho">
 <!ENTITY Offline.tab "Nnḓa ha Ḽaini">
 <!ENTITY Advanced.tab "Yo bvelelaho">
-<!ENTITY advancedOptionsTitle.label "Khetho dzo Bvelelaho">
 <!ENTITY portNumber.label "Nomboro ya photho: ">
 <!ENTITY portNumber.accesskey "n">
 <!ENTITY searchFilter.label "Ṱoḓani filitha: ">
@@ -68,6 +68,7 @@
 <!ENTITY return.accesskey "h">
 <!ENTITY results.label "mvelelo">
 <!ENTITY offlineText.label "Ni nga dzhenisa khophi yapo ya hei tsumbanḓila u itela uri i vhe hone uri ni i shumise musi ni tshi khou shuma nnḓa ha laini.">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

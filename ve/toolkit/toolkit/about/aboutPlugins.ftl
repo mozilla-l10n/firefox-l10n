@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Nga ha zwiṱumanywa
+
 installed-plugins-label = Zwiṱumanywa zwo longelwaho
 no-plugins-are-installed-label = A huna zwiṱumanywa zwo longelwaho
 

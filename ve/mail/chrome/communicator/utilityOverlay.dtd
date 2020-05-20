@@ -1,6 +1,8 @@
-<!-- these things need to move into utilityOverlay.xul -->
-<!ENTITY offlineGoOfflineCmd.label "Shumani Nnḓa ha Ḽaini">
-<!ENTITY offlineGoOfflineCmd.accesskey "s">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 
@@ -27,18 +29,12 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "n">
 <!ENTITY deleteCmd.label "Thuthani">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Nangani Dzoṱhe">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "d">
-<!ENTITY preferencesCmd.label "Khetho...">
-<!ENTITY preferencesCmd.accesskey "K">
 <!ENTITY preferencesCmdUnix.label "Zwitakalelwa">
 <!ENTITY preferencesCmdUnix.accesskey "z">
-
-<!ENTITY findTypeTextCmd.label "Wanani Ḽinwalwa Musi Ni Tshi Khou Thaipha">
-<!ENTITY findTypeTextCmd.accesskey "Ḽ">
 
 <!ENTITY viewMenu.label "Lavhelesani">
 <!ENTITY viewMenu.accesskey "l">
@@ -46,19 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "Z">
 <!ENTITY showTaskbarCmd.label "Buloko ya Maimo">
 <!ENTITY showTaskbarCmd.accesskey "B">
-
-<!ENTITY direct.label "Ngomu Ḽainini (tshithusedzi: a huna)">
-<!ENTITY direct.accesskey "n">
-<!ENTITY manual.label "Ngomu Ḽainini (tshithusedzi: nga u tou itiwa)">
-<!ENTITY manual.accesskey "n">
-<!ENTITY pac.label "Ngomu Ḽainini (tshithusedzi: nga tshothe)">
-<!ENTITY pac.accesskey "n">
-
-<!ENTITY proxy.label "Tshithusedzi Mbekanyo...">
-<!ENTITY proxy.accesskey "M">
-
-<!ENTITY findTypeTextCmd.key "/">
-<!ENTITY findTypeLinksCmd.key "'">
 
 <!ENTITY closeCmd.label "Valani">
 <!ENTITY closeCmd.key "W">

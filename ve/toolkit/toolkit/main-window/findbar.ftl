@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Wanani zwine zwa do bvelelaho zwi tevhelaho zwa fhungogake
 findbar-previous =
     .tooltiptext = Wanani zwo bvelelaho tshifhingani tsho fhiraho tsha fhungogake
+
 findbar-find-button-close =
     .tooltiptext = Valani Wanani baa
+

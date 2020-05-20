@@ -76,6 +76,7 @@ print-window =
     .title = I khou phirintha
 print-complete =
     .value = U Gandisa ho Fhela.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

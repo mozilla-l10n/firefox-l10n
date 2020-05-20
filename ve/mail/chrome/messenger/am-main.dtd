@@ -1,9 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
+
+<!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Nzudzanyo ya Mbalelano">
 <!ENTITY accountName.label "Mbalelano Dzina:">
 <!ENTITY accountName.accesskey "D">
-<!ENTITY accountNameDesc.label "Dzina ḽa mbalelano li khou shumisiwa u sumba mbalelano iṅwe na ṅwe">
 <!ENTITY identityTitle.label "Tsumbavhune i songo Tendelwaho">
 <!ENTITY identityDesc.label "Mbalelano iṅwe na iṅwe i na tsumbavhuṋe, ine ya vha vhuṱanzi vhune vhaṅwe vhathu vha vhu vhona musi vha tshi vhala milaedza yaṋu.">
 <!ENTITY name.label "Dzina Lanu:">
@@ -14,8 +19,6 @@
 <!ENTITY replyTo.accesskey "d">
 <!ENTITY organization.label "Dzangano:">
 <!ENTITY organization.accesskey "D">
-<!ENTITY signature.label "Ṱumani hei tsaino:">
-<!ENTITY signature.accesskey "Ṱ">
 <!ENTITY edit.label "Lulamisani...">
 <!ENTITY choose.label "Nangani...">
 <!ENTITY choose.accesskey "N">
@@ -32,3 +35,4 @@
 <!ENTITY smtpName.label "Seva dza zwine zwa khou rumelwa (SMTP):">
 <!ENTITY smtpName.accesskey "m">
 <!ENTITY smtpDefaultServer.label "Shumisani Seva ya zwi songo Tendelwaho">
+

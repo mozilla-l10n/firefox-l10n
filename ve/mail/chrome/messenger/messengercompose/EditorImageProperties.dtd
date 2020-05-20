@@ -34,6 +34,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -41,7 +45,6 @@
 <!ENTITY windowTitle.label "Vhuvha ha Tshivhumbeo">
 
 <!ENTITY pixelsPopup.value "dzipixel">
-<!ENTITY percentPopup.value "phesenthe">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Tshumbeo Fhethu:">
@@ -57,7 +60,7 @@
 <!ENTITY noAltText.accessKey "N">
 
 <!ENTITY previewBox.label "Mbonalo ya Tshuvhumbeo">
-<!ENTITY MoreFewerButton.tooltip "Tanani vhuvha vhunzhi kana vhutuku ha u lulamisa">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -80,8 +83,6 @@
 <!ENTITY imagemapBox.label "Mepe wa Tshivhumbeo">
 <!ENTITY removeImageMapButton.label "Bvisani">
 <!ENTITY removeImageMapButton.accessKey "B">
-<!ENTITY editImageMapButton.label "Lulamisani...">
-<!ENTITY editImageMapButton.tooltip "Vhumbani khombo dzine dza kilikea u itela hetshi tshivhumbeo">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Vhekanyani Linwalwa kha Tshivhumbeo">
@@ -93,7 +94,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "U vula tshikhala">
-<!ENTITY spacingBox.tooltip "Thaiphani nomboro u itela tshivhalo tsha tshikhala tsho monaho na tshivhumbeo">
 <!ENTITY leftRightEditField.label "Tsha Monde na tsha u Ḽa:">
 <!ENTITY leftRightEditField.accessKey "T">
 <!ENTITY topBottomEditField.label "Nṱha na Fhasi:">
@@ -106,10 +106,6 @@
 <!ENTITY showImageLinkBorder.accessKey "M">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "Itani Siangane ya Siaṱari">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Shumisani tshivhumbeo sa siangane ya heḽi siaṱari">
-<!ENTITY editImageButton.label "Lulamisani Tshivhumbeo">
-<!ENTITY editImageButton.tooltip "Faela ya ndulamiso kha iṅwe mbekanyamushumo">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Tshivhumbeo">

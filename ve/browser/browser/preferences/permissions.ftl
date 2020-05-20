@@ -5,23 +5,30 @@
 permissions-window =
     .title = Zwi songo katelwaho
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Block
     .accesskey = B
+
 permissions-session =
     .label = Allow for Session
     .accesskey = S
+
 permissions-allow =
     .label = Allow
     .accesskey = A
+
 permissions-status =
     .label = Maimo
+
 permissions-capabilities-allow =
     .label = Tendelani
 permissions-capabilities-block =
     .label = Thivhelani
+
 permissions-capabilities-listitem-allow =
     .value = Tendelani
 permissions-capabilities-listitem-block =
@@ -54,11 +61,15 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 
