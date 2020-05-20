@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Vyžadováno (nelze odeslat zprávy, pokud všichni příjemci nemají certifikáty)">
 <!ENTITY alwaysEncryptMessage.accesskey "V">
 <!ENTITY encryptionCert.message "Použít tento certifikát pro zašifrování a dešifrování obdržených zpráv:">
+
 <!ENTITY digitalSign.certificate.button "Vybrat…">
 <!ENTITY digitalSign.certificate.accesskey "b">
 <!ENTITY digitalSign.certificate_clear.button "Vymazat">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Výběr certifikátu">
 <!ENTITY certPicker.info  "Certifikát:">
 <!ENTITY certPicker.detailsLabel "Podrobnosti o vybraném certifikátu:">
+

@@ -14,6 +14,7 @@ blocklist-accept =
            *[other] aplikaci { -brand-short-name }
         }
     .accesskey = R
+
 blocklist-label-summary =
     { -brand-short-name.gender ->
         [masculine] { -brand-short-name } zjistil
@@ -26,6 +27,7 @@ blocklist-hard-blocked = Z důvodů vaší ochrany byly tyto nebezpečné doplň
 blocklist-soft-blocked = Z důvodů vaší ochrany je doporučováno tyto doplňky zakázat a aplikaci restartovat.
 blocklist-more-information =
     .value = Více informací
+
 blocklist-blocked =
     .label = Blokováno
 blocklist-checkbox =

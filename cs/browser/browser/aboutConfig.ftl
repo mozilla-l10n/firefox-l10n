@@ -7,7 +7,9 @@ about-config-warning-title = Zde jsou draci!
 about-config-warning-text = Změna některých hodnot v tomto rozšířeném nastavení může mít špatný vliv na stabilitu, bezpečnost a výkonnost této aplikace. Je doporučováno pokračovat pouze pokud víte, co děláte.
 about-config-warning-checkbox = Varovat i příště
 about-config-warning-button = Beru to na vědomí
+
 about-config2-title = Rozšířená nastavení
+
 about-config-search-input =
     .placeholder = Hledat
 
@@ -26,6 +28,8 @@ about-config-intro-warning-button = Beru na vědomí a chci pokračovat
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text =
     Změny v těchto předvolbách mohou negativně ovlivnit výkon a bezpečnost { -brand-short-name.gender ->
@@ -34,16 +38,20 @@ about-config-caution-text =
         [neuter] { -brand-short-name(case: "gen") }
        *[other] aplikace { -brand-short-name }
     }.
+
 about-config-page-title = Pokročilá konfigurace
+
 about-config-search-input1 =
     .placeholder = Hledat podle názvu předvolby
 about-config-show-all = Zobrazit vše
+
 about-config-pref-add = Přidat
 about-config-pref-toggle = Přepnout
 about-config-pref-edit = Upravit
 about-config-pref-save = Uložit
 about-config-pref-reset = Obnovit
 about-config-pref-delete = Odstranit
+
 about-config-pref-add-button =
     .title = Přidat
 about-config-pref-toggle-button =

@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Záložky
+
 sidebar-menu-history =
     .label = Historie
+
 sidebar-menu-synced-tabs =
     .label = Synchronizované panely
+
 sidebar-menu-close =
     .label = Zavřít postranní lištu

@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Nápověda"> 
 <!ENTITY helpMenuWin.accesskey    "v">
+
 <!ENTITY aboutProduct2.label      "O aplikaci &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "O">
 <!ENTITY productHelp2.label       "Nápověda aplikace &brandShorterName;">

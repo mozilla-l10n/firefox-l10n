@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Odpojit od { -sync-brand-short-name(case: "gen") }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Chcete z tohoto počítače smazat synchronizovaná data? Ve vašem { -sync-brand-name(case: "loc") } data zůstanou.
+
 sync-disconnect-remove-sync-caption = Smazat data z { -sync-brand-name(case: "gen") }
+
 sync-disconnect-remove-sync-data = Záložky, historie prohlížení, hesla, atd.
+
 sync-disconnect-remove-other-caption = Smazat další soukromá data
+
 sync-disconnect-remove-other-data = Cookies, mezipaměť, offline data stránek, atd.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Odpojování…
+
 sync-disconnect-cancel =
     .label = Zrušit
     .accesskey = Z
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Odpojit a smazat
     .accesskey = O
+
 sync-disconnect-confirm-disconnect =
     .label = Pouze odpojit
     .accesskey = P

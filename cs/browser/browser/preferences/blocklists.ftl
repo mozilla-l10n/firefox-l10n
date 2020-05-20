@@ -5,18 +5,22 @@
 blocklist-window =
     .title = Úrovně blokování
     .style = width: 55em
-blocklist-desc = Můžete si vybrat, jak bude { -brand-short-name } postupovat při blokování prvků, které vás mohou sledovat při prohlížení.
+
 blocklist-description = Vyberte seznam, který { -brand-short-name } použije pro blokování sledovacích prvků. Seznamy poskytuje <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Úroveň
+
 blocklist-button-cancel =
     .label = Zrušit
     .accesskey = Z
+
 blocklist-button-ok =
     .label = Uložit změny
     .accesskey = U
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -25,10 +29,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
-blocklist-item-moz-std-name = Základní ochrana od Disconnect.me (doporučeno).
-blocklist-item-moz-std-desc = Povoluje některé sledovací prvky, aby stránky fungovaly správně.
-blocklist-item-moz-full-name = Přísná ochrana od Disconnect.me.
-blocklist-item-moz-full-desc = Blokuje všechny známé sledovací prvky. Některé stránky nemusí fungovat správně.
+
 blocklist-item-moz-std-listName = Základní seznam (doporučený).
 blocklist-item-moz-std-description = Povoluje některé sledovací prvky, aby stránky fungovaly správně.
 blocklist-item-moz-full-listName = Rozšířený seznam.

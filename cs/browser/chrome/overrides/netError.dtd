@@ -202,11 +202,9 @@ za chvíli.</li>
 
 <!ENTITY cspBlocked.longDesc "<p>Aplikace &brandShortName; zabránila načtení této stránky, protože takovýto způsob načtení bezpečnostní pravidla této stránky zakazují.</p>">
 
-<!ENTITY xfoBlocked.title "Blokováno pravidlem X-Frame-Options">
+<!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 
 <!ENTITY xfoBlocked.longDesc "<p>Aplikace &brandShortName; zabránila načtení této stránky, protože takovýto způsob načtení pravidlo X-Frame-Options této stránky zakazuje.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Chyba v obsahu stránky">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanou stránku nelze zobrazit, protože při přenosu dat došlo k chybě.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">
 
@@ -253,10 +251,10 @@ za chvíli.</li>
 <!ENTITY prefReset.longDesc "Zdá se, že příčinou může být vaše nastavení zabezpečení. Chcete obnovit výchozí nastavení?">
 <!ENTITY prefReset.label "Obnovit výchozí nastavení">
 
+<!ENTITY networkProtocolError.title "Chyba síťového protokolu">
+
 <!ENTITY enableTls10.longDesc "Tento server zřejmě nepodporuje TLS protokol verze 1.2, což je minimální verze, kterou &brandShortName; podporuje. Povolení TLS 1.0 a 1.1 může problém s navázáním spojení vyřešit.">
 <!ENTITY enableTls10.note "Verze protokolu TLS 1.0 a 1.1 budou v následujícím vydání trvale zakázány.">
 <!ENTITY enableTls10.label "Povolit TLS 1.0 a 1.1">
-
-<!ENTITY networkProtocolError.title "Chyba síťového protokolu">
 
 <!ENTITY networkProtocolError.longDesc "<p>Požadovanou stránku nelze zobrazit, protože došlo k chybě v síťovém protokolu.</p><ul><li>Kontaktujte prosím vlastníky webového serveru a informujte je o tomto problému.</li></ul>">

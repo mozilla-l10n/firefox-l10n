@@ -5,50 +5,66 @@
 permissions-window =
     .title = Výjimky
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa webového serveru
     .accesskey = d
+
 permissions-block =
     .label = Blokovat
     .accesskey = B
+
 permissions-session =
     .label = Povolit pro relaci
     .accesskey = o
+
 permissions-allow =
     .label = Povolit
     .accesskey = P
+
 permissions-site-name =
     .label = Server
+
 permissions-status =
     .label = Stav
+
 permissions-remove =
     .label = Odebrat server
     .accesskey = r
+
 permissions-remove-all =
     .label = Odebrat všechny servery
     .accesskey = e
+
 permissions-button-cancel =
     .label = Zrušit
     .accesskey = Z
+
 permissions-button-ok =
     .label = Uložit změny
     .accesskey = U
+
 permissions-autoplay-menu = Výchozí nastavení:
+
 permissions-searchbox =
     .placeholder = Hledat
+
 permissions-capabilities-autoplay-allow =
     .label = povolit přehrávání zvuků i videí
 permissions-capabilities-autoplay-block =
     .label = blokovat přehrávání zvuků
 permissions-capabilities-autoplay-blockall =
     .label = blokovat přehrávání zvuků i videí
+
 permissions-capabilities-allow =
     .label = Povolit
 permissions-capabilities-block =
     .label = Blokovat
 permissions-capabilities-prompt =
     .label = Vždy se zeptat
+
 permissions-capabilities-listitem-allow =
     .value = Povolit
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Výjimky z blokování obsahu
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Na následujících serverech jste vypnuli funkci blokování obsahu.
+
 permissions-exceptions-etp-window =
     .title = Výjimky pro používání rozšířené ochrany proti sledování
     .style = { permissions-window.style }

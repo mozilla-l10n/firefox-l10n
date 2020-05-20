@@ -8,6 +8,7 @@ password-quality-meter = Kvalita hesla
 
 change-password-window =
     .title = Změna hlavního hesla
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Bezpečnostní zařízení: { $tokenName }

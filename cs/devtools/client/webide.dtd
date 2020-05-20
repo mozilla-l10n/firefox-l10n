@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "N">
 
 <!ENTITY projectButton_label "Otevřít aplikaci">
+
 <!ENTITY runtimeButton_label "Volba běhového prostředí">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB zařízení">
 <!ENTITY runtimePanel_wifi "Wi-Fi zařízení">
 <!ENTITY runtimePanel_other "Ostatní">
-<!ENTITY runtimePanel_noadbhelper "Instalovat ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Nevidíte své zařízení?">
 <!ENTITY runtimePanel_refreshDevices_label "Obnovit zařízení">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informace o běhovém prostředí">
-<!ENTITY runtimedetails_adbIsRoot "ADB je root: ">
-<!ENTITY runtimedetails_summonADBRoot "root zařízení">
-<!ENTITY runtimedetails_ADBRootWarning "(vyžaduje odemčený bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Neomezená oprávnění nástrojů pro vývojáře: ">
-<!ENTITY runtimedetails_requestPrivileges "vyžaduje vyšší oprávnění">
-<!ENTITY runtimedetails_privilegesWarning "(Provede restart zařízení. Vyžadována práva roota.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Logická hodnota">

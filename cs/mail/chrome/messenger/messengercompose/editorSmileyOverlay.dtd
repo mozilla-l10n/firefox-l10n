@@ -5,6 +5,7 @@
 <!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Smajlík">
 <!ENTITY insertSmiley.accesskey "S">
+
 <!ENTITY smiley1Cmd.label "Úsměv">
 <!ENTITY smiley1Cmd.accesskey "m">
 <!ENTITY smiley1Cmd.tooltip "Vloží smajlíka">

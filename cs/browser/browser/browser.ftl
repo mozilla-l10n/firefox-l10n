@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Zobrazit informace o stránce
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali přístup k MIDI zařízením.
 urlbar-install-blocked =
     .tooltiptext = Tomuto serveru jste zablokovali instalaci doplňků.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Upraví tuto záložku ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Nastavení tohoto rozšíření
 page-action-remove-from-urlbar =
     .label = Odebrat z adresního řádku
+
 page-action-remove-extension =
     .label = Odebrat rozšíření
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Vyhledat pomocí
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Změnit nastavení vyhledávání
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Změnit nastavení vyhledávání
+
 search-one-offs-context-open-new-tab =
     .label = Hledat v novém panelu
     .accesskey = n
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Zobrazovat editor při ukládání
     .accesskey = u
+
 bookmark-panel-done-button =
     .label = Hotovo
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -251,6 +259,7 @@ popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obr
 
 enable-devtools-popup-description = Pokud chcete používat zkratku F12, otevřete nejprve DevTools z nabídky Nástroje pro vývojáře.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -263,9 +272,11 @@ urlbar-permissions-granted =
     .tooltiptext = Tomuto serveru jste udělili dodatečná oprávnění.
 urlbar-switch-to-tab =
     .value = Přepnout na panel:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšíření:
+
 urlbar-go-button =
     .tooltiptext = Přejde na adresu v adresním řádku
 urlbar-page-action-button =

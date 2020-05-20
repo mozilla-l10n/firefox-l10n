@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Zavřít
     .accesskey = Z
+
 show-passwords =
     .label = Zobrazit hesla
     .accesskey = h

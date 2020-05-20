@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Otevřít v novém anonymním okně
     .accesskey = a
+
 places-new-bookmark =
     .label = Nová záložka…
     .accesskey = N
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nový oddělovač
     .accesskey = d
+
 places-view =
     .label = Zobrazit
     .accesskey = Z
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Podle data a serveru
     .accesskey = a
+
 places-history-search =
     .placeholder = Hledat v historii
 places-bookmarks-search =
     .placeholder = Hledat v záložkách
+
 places-delete-domain-data =
     .label = Odebrat celý web
     .accesskey = w

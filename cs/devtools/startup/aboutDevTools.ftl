@@ -13,6 +13,7 @@ enable-common-message = Nástroje pro vývojáře jsou ve výchozím stavu prohl
 enable-learn-more-link = Zjistit více o nástrojích pro vývojáře
 enable-enable-button = Povolit nástroje pro vývojáře
 enable-close-button = Zavřít tento panel
+
 welcome-title = Vítají vás nástroje pro vývojáře!
 newsletter-title = Zpravodaj společnosti Mozilla pro vývojáře
 newsletter-message = Nechte si posílat vývojářské novinky, triky a zdroje přímo do vaší schránky.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Souhlasím s tím, aby Mozilla zpracovávala mé info
 newsletter-subscribe-button = Odebírat
 newsletter-thanks-title = Děkujeme!
 newsletter-thanks-message = Pokud jste dříve nepotvrdili odběr zpravodaje společnosti Mozilla, budete tak muset učinit nyní. Podívejte se prosím do vaší e-mailové schránky a případně i nevyžádané pošty, jestli tam není e-mail od nás.
+
 footer-title = Firefox Developer Edition
 footer-message = Hledáte více než jenom nástroje pro vývojáře? Vyzkoušejte verzi prohlížeče Firefox speciálně pro vývojáře a jejich pracovní postupy.
 footer-learn-more-link = Zjistit více
+
 features-learn-more = Zjistit více
 features-inspector-title = Průzkumník
 features-inspector-desc = Zkoumejte a upravujte kód pro na pixel přesné rozložení. <a data-l10n-name="learn-more">{ features-learn-more }</a>

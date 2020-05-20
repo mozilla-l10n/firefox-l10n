@@ -89,6 +89,7 @@ appmenu-addon-private-browsing-message =
        *[other] aplikace { -brand-shorter-name }
     } vypnutá, dokud je pro anonymní režim explicitně nezapnete v nastavení.
 appmenu-addon-private-browsing-learn-more = Jak na nastavení rozšíření
+    
 appmenu-new-tab-controlled =
     .label = Obsah nového panelu byl změněn.
     .buttonlabel = Zachovat změny

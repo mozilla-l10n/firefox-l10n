@@ -9,17 +9,12 @@ about-service-workers-title = O Service Worker
 about-service-workers-main-title = Registrovaní Service Workers
 about-service-workers-warning-not-enabled = Service Workers nejsou povoleny.
 about-service-workers-warning-no-service-workers = Není zaregistrován žádný Service Worker.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Původ: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = ID aplikace { $appId } v prohlížeči { -brand-short-name } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Název aktivní vyrovnávací paměti:</strong> { $n
 waiting-cache-name = <strong>Čekající název vyrovnávací paměti:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Aktualizovat
+
 unregister-button = Zrušit registraci
+
 unregister-error = Chyba při rušení registrace tohoto Service Worker.
+
 waiting = Čekání…

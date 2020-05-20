@@ -38,12 +38,12 @@
 <!ENTITY  noproxy.label                 "Nepoužívat pro:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Příklad: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Pro všechny protokoly používat tento proxy server">
+<!ENTITY  shareproxy.accesskey          "P">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label   "Spojení na localhost, 127.0.0.1 a ::1 nikdy proxy servery nepoužívají.">
-<!ENTITY  shareproxy.label              "Pro všechny protokoly používat tento proxy server">
-<!ENTITY  shareproxy.accesskey          "P">
 <!ENTITY  autologinproxy.label          "Nedotazovat se na autentizaci, pokud je heslo uloženo">
 <!ENTITY  autologinproxy.accesskey      "e">
 <!ENTITY  autologinproxy.tooltip        "Tato volba zajistí provedení tiché autentizace k proxy, pokud pro ni máte uloženy přihlašovací údaje. Pokud autentizace selže, budete na ně dotázání.">

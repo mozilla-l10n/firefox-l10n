@@ -11,9 +11,12 @@ profiledowngrade-window =
            *[other] aplikace { -brand-product-name }
         }
     .style = width: 490px;
+
 profiledowngrade-window-create =
     .label = Vytvořit nový profil
+
 profiledowngrade-sync = Spuštěním starší verze { -brand-product-name }u může dojít k poškození záložek a historie prohlížení uložených v jeho stávajícím profilu. Pro ochranu vašich dat si prosím pro tuto instalaci aplikace { -brand-short-name } vytvořte profil nový. Pro synchronizaci dat mezi oběma profily můžete použít { -fxaccount-brand-name }.
 profiledowngrade-nosync = Spuštěním starší verze { -brand-product-name }u může dojít k poškození záložek a historie prohlížení uložených v jeho stávajícím profilu. Pro ochranu vašich dat si prosím pro tuto instalaci aplikace { -brand-short-name } vytvořte profil nový.
+
 profiledowngrade-quit =
     .label = Ukončit

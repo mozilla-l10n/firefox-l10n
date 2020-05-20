@@ -4,6 +4,7 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Výběr profilu uživatele
+
 profile-selection-button-accept =
     .label =
         Spustit { -brand-short-name.gender ->
@@ -12,14 +13,18 @@ profile-selection-button-accept =
             [neuter] { -brand-short-name(case: "acc") }
            *[other] aplikaci { -brand-short-name }
         }
+
 profile-selection-button-cancel =
     .label = Ukončit
+
 profile-selection-new-button =
     .label = Vytvořit profil…
     .accesskey = V
+
 profile-selection-rename-button =
     .label = Přejmenovat profil…
     .accesskey = P
+
 profile-selection-delete-button =
     .label = Smazat profil…
     .accesskey = m
@@ -27,9 +32,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } ukládá informace o vašem nastavení, předvolbách a ostatních uživatelských položkách do vašeho uživatelského profilu.
+
 profile-manager-work-offline =
     .label = Pracovat offline
     .accesskey = l
+
 profile-manager-use-selected =
     .label = Použít zvolený profil bez ptaní při startu
     .accesskey = P

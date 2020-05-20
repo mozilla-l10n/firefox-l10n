@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Probíhá synchronizace…
 fxa-toolbar-sync-syncing-tabs =
     .label = Probíhá synchronizace panelů…
+
 sync-disconnect-dialog-title = Odpojit { -sync-brand-short-name(case: "acc") }?
 sync-disconnect-dialog-body = { -brand-product-name } ukončí synchronizaci s vaším účtem, ale nesmaže z tohoto zařízení žádná vaše data.
 fxa-disconnect-dialog-title =

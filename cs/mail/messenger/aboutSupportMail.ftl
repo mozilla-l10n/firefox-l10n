@@ -14,4 +14,5 @@ accounts-conn-security = Zabezpečení připojení
 accounts-auth-method = Způsob autentizace
 accounts-default = Výchozí?
 identity-name = Identita
+
 send-via-email = Odeslat emailem
