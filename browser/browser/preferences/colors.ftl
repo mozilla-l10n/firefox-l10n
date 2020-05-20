@@ -9,13 +9,19 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-text-and-background = Linwalwa na Siangane
+
 colors-use-system =
     .label = Shumisani mivhala ya sisiṱeme
     .accesskey = s
+
 colors-underline-links =
     .label = Talelani ṱhumano
     .accesskey = t
+
 colors-links-header = Ṱumanyani Mivhala
+

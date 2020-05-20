@@ -4,3 +4,4 @@
 
 aboutDialog-title =
     .title = Nga ha { -brand-full-name }
+

@@ -1,13 +1,7 @@
-<!ENTITY notificationsDialog.title "Mubvumo wa Meili Muswa">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width "30em">
 
-<!ENTITY soundNotification.caption "Vhekanyani Mubvumo wa Meili Muswa">
-<!ENTITY preview.label "Itani Mbonalonyangaredzi ya Mubvumo">
-<!ENTITY preview.accesskey "i">
-<!ENTITY systemsound.label "Mubvumo wa Sisiteme ya Meili Muswa">
-<!ENTITY systemsoundMac.label "Mubvumo wa Tsivhudzo ya Sisiteme">
-<!ENTITY systemsound.accesskey "m">
-<!ENTITY customsound.label "Faela ya mvelele .wav">
-<!ENTITY customsound.accesskey "M">
-<!ENTITY browse.label "Tswatswaro...">
-<!ENTITY browse.accesskey "T">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Ṅwalani: (a huna ṱhoho)">
 <!-- File Menu -->
@@ -10,8 +14,6 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "Bugu ya Ḓiresi Garaṱa...">
-<!ENTITY newCard.accesskey "g">
 <!ENTITY attachMenu.label "Ṱumani">
 <!ENTITY attachMenu.accesskey "Ṱ">
 <!ENTITY attachFileCmd.label "Dzifaela...">
@@ -35,8 +37,6 @@
 <!ENTITY saveAsDraftCmd.accesskey "T">
 <!ENTITY saveAsTemplateCmd.label "Zwo Dzulaho zwo Ṅwalwa">
 <!ENTITY saveAsTemplateCmd.accesskey "Z">
-<!ENTITY offlineGoOfflineCmd.label "Shumani Nnḓa ha Ḽaini">
-<!ENTITY offlineGoOfflineCmd.accesskey "s">
 <!ENTITY sendNowCmd.label "Rumelani Zwino">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "r">
@@ -48,11 +48,6 @@
 <!ENTITY printCmd.label "Ganḓisani...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "G">
-<!ENTITY quitApplicationCmdWin.label "Ibvani">
-<!ENTITY quitApplicationCmdWin.accesskey "i">
-<!ENTITY quitApplicationCmd.label "Ṱuwani">
-<!ENTITY quitApplicationCmd.accesskey "Ṱ">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Lulamisani">
@@ -72,35 +67,28 @@
 <!ENTITY pasteCmd.label "Nambatedzani">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "n">
-<!ENTITY editRewrapCmd.label "Putelani Hafhu">
 <!ENTITY editRewrapCmd.accesskey "p">
 <!ENTITY deleteCmd.label "Thuthani">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "t">
+<!ENTITY editRewrapCmd.label "Putelani Hafhu">
 <!ENTITY selectAllCmd.label "Nangani Zwoṱhe">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "z">
-<!ENTITY findCmd.label "Wanani nahone ni Vhuedzedze...">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "W">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Wanani Hafhu">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "h">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Wanani yo Fhiraho">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "f">
 <!-- View Menu -->
+
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!ENTITY viewMenu.label "Vhonani">
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "Zwibuḽoko zwa Zwishumiswa">
 <!ENTITY viewToolbarsMenuNew.accesskey "Z">
-<!ENTITY showComposeToolbarCmd.label "Buḽoko ya Zwishumiswa ya Meiḽi">
-<!ENTITY showComposeToolbarCmd.accesskey "b">
-<!ENTITY showFormatToolbarCmd.label "Buḽoko ya Zwishumiswa ya u Dzudzanya">
-<!ENTITY showFormatToolbarCmd.accesskey "B">
 <!ENTITY showTaskbarCmd.label "Buḽoko ya Maimo">
 <!ENTITY showTaskbarCmd.accesskey "B">
 <!ENTITY customizeToolbar.label "Khwinifhadzani...">
@@ -116,10 +104,6 @@
 
 <!ENTITY optionsMenu.label "Khetho">
 <!ENTITY optionsMenu.accesskey "k">
-<!ENTITY checkSpellingCmd.label "U Ṱola Mupeleṱo...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "u">
 <!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Khouthani Mulaedza">
@@ -131,8 +115,6 @@
 
 <!ENTITY returnReceiptMenu.label "Humiseleni zwo Ṱanganedzwaho">
 <!ENTITY returnReceiptMenu.accesskey "h">
-<!ENTITY outputFormatMenu.label "Dzudzangani">
-<!ENTITY outputFormatMenu.accesskey "d">
 <!ENTITY autoFormatCmd.label "U Wana nga Woṱhe">
 <!ENTITY autoFormatCmd.accesskey "u">
 <!ENTITY plainTextFormatCmd.label "Ḽiṅwalwa ḽi sa Konḓi Fhedzi">
@@ -166,13 +148,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Bugu ya Ḓiresi">
 <!ENTITY addressBookCmd.accesskey "b">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Nzudzanyo ya Mbalelano...">
-<!ENTITY accountManagerCmd.accesskey "l">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Dzikhetho...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "D">
 <!ENTITY preferencesCmdUnix.label "Zwitakalelwa">
 <!ENTITY preferencesCmdUnix.accesskey "z">
 <!--  Mac OS X Window Menu -->
@@ -184,15 +159,6 @@
 <!ENTITY windowMenu.label "Fasiṱere">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Thuso">
-<!ENTITY helpMenu.accesskey "T">
-<!ENTITY releaseCmd.label "Vhofhololani Notsi">
-<!ENTITY releaseCmd.accesskey "V">
-<!ENTITY hintsAndTips.label "&brandShortName; Thuso">
-<!ENTITY hintsAndTips.accesskey "t">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Nga ha &brandShortName;">
-<!ENTITY aboutCmd.accesskey "N">
 <!-- Mail Toolbar -->
 
 <!ENTITY sendButton.label "Rumelani">
@@ -201,18 +167,17 @@
 <!ENTITY attachButton.label "Ṱumani">
 <!ENTITY spellingButton.label "Mupeṱeto">
 <!ENTITY saveButton.label "Vhulungani">
-<!ENTITY throbberItem.title "Tshisumbi tsha Mushumo">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Rumelani hoyu mulaedza zwino">
 <!ENTITY sendlaterButton.tooltip "Rumelani hoyu mulaedza nga murahu">
 <!ENTITY quoteButton.tooltip "Khouthani mulaedza wo fhiraho">
 <!ENTITY addressButton.tooltip "Nangani muṱanganedzi u bva kha Bugu ya Ḓiresi">
-<!ENTITY attachButton.tooltip "Katelani na tshiṱumetshedzwa">
 <!ENTITY saveButton.tooltip "Vhulungani hoyo mulaedza">
 <!ENTITY cutButton.tooltip "Gerani">
 <!ENTITY copyButton.tooltip "Kopani">
 <!ENTITY pasteButton.tooltip "Nambatedzani">
+
 <!-- Headers -->
 
 <!ENTITY fromAddr.label "U bva kha:">
@@ -225,14 +190,10 @@
 <!ENTITY followupAddr.label "Wanulusani-Kha:">
 <!ENTITY subject.label "Ṱhoho:">
 <!ENTITY subject.accesskey "Ṱ">
-<!ENTITY attachments.label "Zwiṱumetshedzwa:">
 <!ENTITY attachments.accesskey "z">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Dzhenisani tshifhaṱuwo tshine tsha khou ṅweṅwela">
 <!ENTITY smiley1Cmd.label "Ṅweṅwela">
 <!ENTITY smiley2Cmd.label "Sinyalala">
@@ -279,6 +240,8 @@
 <!ENTITY attachPage.label "Tumani Siatari la Web...">
 <!ENTITY attachPage.accesskey "S">
 <!-- Title for the address picker panel -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY addressesSidebarTitle.label "Vhukwamani">
 

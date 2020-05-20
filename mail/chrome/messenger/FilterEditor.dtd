@@ -1,20 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Milayo ya Filitha">
-<!ENTITY subject.label "ṱhoho">
-<!ENTITY sender.label "murumeli">
-<!ENTITY date.label "datumu">
-<!ENTITY anyText.label "ḽiṅwalwa ḽiṅwe na ḽiṅwe">
-<!ENTITY keyword.label "ipfi lihulwane">
-<!ENTITY age.label "miṅwaha nga maḓuvha">
-<!ENTITY to.label "kha">
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "tshiimo">
-<!ENTITY priority.label "ndeme">
-<!ENTITY body.label "mutumbu">
-<!ENTITY contains.label "hu na">
-<!ENTITY nocontains.label "a hu na">
 <!ENTITY filterName.label "Dzina ḽa fiḽiltha:">
 <!ENTITY filterName.accesskey "d">
 
@@ -27,12 +17,9 @@
 <!ENTITY highPriorityCmd.label "Nṱha">
 <!ENTITY highestPriorityCmd.label "Nṱhesa">
 
-<!ENTITY conditionDesc.label "U itela milaedza ine ya khou dzhena yo:">
 <!ENTITY filterActionDesc.label "Itani hedzi nyito:">
 <!ENTITY filterActionDesc.accesskey "I">
 
-<!ENTITY newFolderButton.label "Foḽuda Ntswa...">
-<!ENTITY newFolderButton.accesskey "F">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Move Message to">
@@ -41,7 +28,6 @@
 <!ENTITY replyWithTemplate.label "Reply with Template">
 <!ENTITY markMessageRead.label "Mark As Read">
 <!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Label Message As">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Tag Message">
 <!ENTITY setJunkScore.label "Set Junk Status to">
@@ -51,3 +37,8 @@
 <!ENTITY ignoreThread.label "Ignore Thread">
 <!ENTITY watchThread.label "Watch Thread">
 
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

@@ -38,6 +38,12 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Wanani ni Vhuedzedze">
 <!ENTITY findField.label "Wanani ḽiṅwalwa:">
 <!ENTITY findField.accesskey "n">
@@ -58,4 +64,3 @@
 <!ENTITY replaceAllButton.label "Vhudzedzani Zwoṱhe">
 <!ENTITY replaceAllButton.accesskey "Z">
 <!ENTITY closeButton.label "Valani">
-<!ENTITY notFoundWarning.label "Ḽiṅwalwa ḽe na dzhenisa ḽone a ḽi ngo kona u wanala.">

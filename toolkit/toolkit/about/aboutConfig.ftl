@@ -31,39 +31,52 @@ config-column-chooser =
 config-copy-name =
     .label = Kopani Dzina
     .accesskey = K
+
 config-copy-value =
     .label = Kopani Ndeme
     .accesskey = N
+
 config-modify =
     .label = Lulamisani
     .accesskey = L
+
 config-toggle =
     .label = Pfundo
     .accesskey = P
+
 config-reset =
     .label = Sethani hafhu
     .accesskey = S
+
 config-new =
     .label = Ntswa
     .accesskey = N
+
 config-string =
     .label = Mutevhe
     .accesskey = M
+
 config-integer =
     .label = Nomboro
     .accesskey = N
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = u iledzwa
 config-locked = yo khiiwa
+
 config-property-string = mutevhe
 config-property-int = mbalosia
 config-property-bool = boolean
+
 config-new-prompt = Dzhenisani dzina ḽi takalelwaho
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Ndeme ya { $type } ntswa
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Dzhenisani ndeme ya { $type }

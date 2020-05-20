@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Vhuvha ha Ḽaini dza Horizonthala">
 
 <!ENTITY dimensionsBox.label "Daimensheni">
@@ -46,11 +51,8 @@
 <!ENTITY widthEditField.accessKey "V">
 <!ENTITY pixelsPopup.value "dzipixel">
 <!ENTITY alignmentBox.label "Mbekanyo">
-<!ENTITY leftRadio.value "Monde">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Vhukati">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "Tsha u Ḽa">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D U Swifhadza">

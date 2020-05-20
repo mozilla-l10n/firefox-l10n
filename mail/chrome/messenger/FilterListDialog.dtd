@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Fiḽitha dza Mulaedza">
 <!ENTITY nameColumn.label "Dzina ḽa Fiḽitha">
 <!ENTITY activeColumn.label "Yo tendelwa">
@@ -22,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "I">
 <!ENTITY folderPickerPrefix.label "Shumisani dzifilitha dzo nangiwaho kha:">
 <!ENTITY folderPickerPrefix.accesskey "s">
-<!ENTITY choosethis.label "nangani hei foḽuda">
-<!ENTITY choosethisnewsserver.label "nangani hei seva ya mafhungo">
 <!ENTITY helpButton.label "Thuso">
 <!ENTITY helpButton.accesskey "T">
 <!ENTITY closeCmd.key "W">

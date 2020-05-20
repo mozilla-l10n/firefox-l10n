@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Ṱhalusamaipfi Ya iwe Muṋe">
 
 <!ENTITY wordEditField.label "Ipfi ḽiswa:">
@@ -44,8 +48,6 @@
 <!ENTITY AddButton.accessKey "Ḓ">
 <!ENTITY DictionaryList.label "Maipfi kha ṱhalusaipfi:">
 <!ENTITY DictionaryList.accessKey "M">
-<!ENTITY ReplaceButton.label "Sudzulusani">
-<!ENTITY ReplaceButton.accessKey "S">
 <!ENTITY RemoveButton.label "Bvisani">
 <!ENTITY RemoveButton.accessKey "b">
 

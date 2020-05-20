@@ -35,16 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY AdvancedEditButton.label "Yo Khwinifhadziwa nahone Lulamisani...">
 <!ENTITY AdvancedEditButton.accessKey "L">
 <!ENTITY AdvancedEditButton.tooltip "Engedzani kana ni lugise ndeme dza HTML, ndeme dza tshitaela na ḽiṅwalwa ḽa Java">
-<!ENTITY chooseButton.label "Nangani Faela...">
-<!ENTITY chooseFile.accessKey "F">
-<!ENTITY chooseFileLink.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL i elana na hune ha u wana siaṱari">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Shandukisani vhukati ha zwine zwa nga URL na ya vhukuma. Ni tea u thoma na vhulunga siaṱari u itela u shandula hezwi.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Dzhenisani siaṱari ḽa web fhethu hune ḽa wanala hone, faela yapo, kana nangani ntswa ine ya Vhidzwa upfi Thikho kana ṱhoho ine ya bva kha mutevhe une wa tou thuthuba:">
-<!ENTITY LinkURLEditField.accessKey "F">

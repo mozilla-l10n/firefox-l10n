@@ -35,9 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Window.title "Thebuḽu ya Zwire Ngomu">
 <!ENTITY buildToc.label "Fhaṱani thebuḽu ya zwire ngomu u bva kha:">
-<!ENTITY style.label "Tshitaela:">
 <!ENTITY tag.label "Tshiswayo:">
 <!ENTITY class.label "Kiḽasi:">
 <!ENTITY header1.label "Vhuimo 1">

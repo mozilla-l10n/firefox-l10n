@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Nga ha Meiḽi wa zwi si na mushumo">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "&brandShortName; ḽi sumba milaedza ine ya khou dzhena arali i tshi vhonala i meiḽi wa mashika nga ḽone ḽine (ine ya dovha hafhu ya ḓivhiwa sa spam). Milaedza iṅwe &brandShortName; ḽa humbula u nga ndi mashika i ḓo bvelela sa tshiga tsha mashika">

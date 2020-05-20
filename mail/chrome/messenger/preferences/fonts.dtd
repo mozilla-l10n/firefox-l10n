@@ -1,13 +1,11 @@
-<!ENTITY fontsDialog.title "Miṅwalo">
-<!ENTITY window.width "39em">
-<!ENTITY window.macWidth "43em">
-<!ENTITY window.unixWidth "41em">
+
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY language.label "Miṅwalo ya:">
 <!ENTITY language.accesskey "m">
-
-<!ENTITY typefaces.label "Kuṅwalele">
-<!ENTITY sizes.label "Muelo (dzipixele)">
 
 <!ENTITY proportional.label "Elana:">
 <!ENTITY proportional.accesskey "E">
@@ -19,21 +17,13 @@
 <!ENTITY monospace.label "Tshikhala tshithihi:">
 <!ENTITY monospace.accesskey "t">
 
-<!ENTITY fontsize.units "dzipixel">
-
-<!ENTITY font.langGroup.latin1 "Vhukovhela">
-<!ENTITY font.langGroup.latin2 "European Vhukati">
 <!ENTITY font.langGroup.japanese "Mujapane">
 <!ENTITY font.langGroup.trad-chinese "Chinese ya Mvelele (Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese "Chinese yo Leludziwaho">
 <!ENTITY font.langGroup.trad-chinese-hk "Chinese ya Mvelele (Hong Kong)">
 <!ENTITY font.langGroup.korean "Mukorea">
 <!ENTITY font.langGroup.cyrillic "TshiSairiḽiki">
-<!ENTITY font.langGroup.baltic "TshiBaḽithikhi">
 <!ENTITY font.langGroup.el "TshiGerika">
-<!ENTITY font.langGroup.turkish "Tshithekhi">
-<!ENTITY font.langGroup.unicode "Dziṅwe nyambo">
-<!ENTITY font.langGroup.user-def "Mushumisi o ṱaluswa">
 <!ENTITY font.langGroup.thai "Muthai">
 <!ENTITY font.langGroup.hebrew "Muhevheru">
 <!ENTITY font.langGroup.arabic "Muarabiki">
@@ -58,7 +48,6 @@
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
 
-<!ENTITY newLanguages.label "Nyambo ntswa dzi nga vhekanywa hu tshi khou shumiswa Phaneḽe dza Dzinyambo.">
-
 <!ENTITY useDocumentFonts.label "Tendelani milaedza uri i shumise miṅwe miṅwalo">
 <!ENTITY useDocumentFonts.accesskey "l">
+

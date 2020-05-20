@@ -43,15 +43,22 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Ṱunḓa">
-<!ENTITY importDialog.mailTitle "Meiḽi">
-<!ENTITY importDialog.addressbookTitle "Bugu dza Ḓiresi">
-<!ENTITY importDialog.settingsTitle "Nzudzanyo">
 
 <!ENTITY importTitle.label "&brandShortName; Wizadi ya u Ṱunḓa Meiḽi">
-<!ENTITY importDesc.label "Meiḽi wa u Ṱunḓa, Bugu dza Ḓiresi na Nzudzanyo dzi bvaho kha dziṅwe mbekanyamushumo">
 
-<!ENTITY importDescription.label "Hei wizadi i ḓo ṱunḓa milaedza ya meiḽi, madzheno a bugu ya ḓiresi, na/kana zwitakalelwa u bva kha mbekanyamushumo dza dziṅwe meiḽi na maitele a bugu ya ḓiresi yo ḓoweleaho kha &brandShortName; Meiḽi.">
 <!ENTITY importDescription2.label "Musi zwo no ṱunḓiwa, ni ḓo kona u zwi swikelela nga kha &brandShortName; Meiḽi na/kana Bugu ya Ḓiresi.">
 
 <!ENTITY selectDescription.label "Ni khou humbelwa uri ni nange mbekanyamushumo ine na ḓo takalela u ṱunḓa:">
@@ -66,8 +73,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Ṱhoho">
 <!ENTITY processing.label "U Ṱunḓa...">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x tshi na ḓiresi ya u meiḽa nthihi kha garaṱa ḽiṅwe na ḽiṅwe, ngeno &brandShortName; i na mbili (Hayani na Mushumoni).">
-<!ENTITY FieldDiscInputText2.label "Nangani tshigwada tshine na ṱoḓa u vhulunga ḓiresi dza u rumela meiḽi dze na ṱunḓa:">
-<!ENTITY FieldDiscWarning.label "Hetshi tshigwada tshi ḓo shumiswa kha zwoṱhe zwidzheniswa zwa bugu ya ḓiresi yo nangiwaho: ">
-<!ENTITY importDialog.homeTitle "Hayani">
-<!ENTITY importDialog.workTitle "Mushumo">

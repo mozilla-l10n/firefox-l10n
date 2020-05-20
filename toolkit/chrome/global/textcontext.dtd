@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Gerani">
 <!ENTITY cutCmd.accesskey "g">
 <!ENTITY copyCmd.label "Kopani">
@@ -10,10 +14,10 @@
 <!ENTITY selectAllCmd.accesskey "z">
 <!ENTITY deleteCmd.label "Thuthani">
 <!ENTITY deleteCmd.accesskey "t">
+
 <!ENTITY spellAddToDictionary.label "Add to dictionary">
 <!ENTITY spellAddToDictionary.accesskey "t">
-<!ENTITY spellEnable.label "Spell check this field">
-<!ENTITY spellEnable.accesskey "S">
 <!ENTITY spellNoSuggestions.label "(No spelling suggestions)">
 <!ENTITY spellDictionaries.label "Languages">
 <!ENTITY spellDictionaries.accesskey "l">
+

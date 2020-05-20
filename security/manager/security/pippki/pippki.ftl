@@ -8,6 +8,7 @@ password-quality-meter = Mitha wa ndeme ya phasiwede
 
 change-password-window =
     .title = Shandukisani Phasiwede Khulwane
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Tshiimiswa tsha Tsireledzo: { $tokenName }

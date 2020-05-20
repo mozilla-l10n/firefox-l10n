@@ -38,6 +38,12 @@
 
  ***** END LICENSE BLOCK ***** -->
 
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowtitle.label "&brandShortName; - Nangani Mbonwasia ya Mushumisi">
 
 <!ENTITY profilename.label "Dzina ḽa Mbonwasia:">
@@ -60,5 +66,3 @@
 <!ENTITY offlineState.label "Shumani nnḓa ha laini">
 <!ENTITY offlineState.accesskey "s">
 
-<!ENTITY autoSelect.label "Ni songo vhudzisa mathomoni">
-<!ENTITY autoSelect.accesskey "v">

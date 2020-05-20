@@ -1,11 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY virtualFolderProperties.title "Foluda Ntswa ya zwe na Ṱoḓa zwo Vhulungwaho">
 <!ENTITY name.label "Dzina:">
 <!ENTITY name.accesskey "d">
 <!ENTITY description.label "Vhumbani sa foluda ṱhukhu ya:">
 <!ENTITY description.accesskey "V">
-<!ENTITY searchCriteriaText.label "Khwinifhadzani maitele a u toda o shumiswaho kha hezwi zwe na toda zwo vhulungwaho:">
-<!ENTITY searchCriteriaButton.label "Ṱodani Maitele...">
-<!ENTITY searchCriteriaButton.accesskey "Ṱ">
 
 <!ENTITY searchTermCaption.label "Vhekanyani maitele a u toda o shumiswaho kha hei foluda ya zwe na toda zwo vhulungwaho: ">
 

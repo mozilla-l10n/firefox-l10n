@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY emailSectionHdr.label "Emeiḽi">
 <!ENTITY readMsgsLink.label "Vhalani milaedza">
 <!ENTITY composeMsgLink.label "Vhalani mulaedza muswa">
@@ -8,7 +12,6 @@
 <!ENTITY accountsSectionHdr.label "Accounts">
 <!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
 <!ENTITY settingsLink.label "Vhonani nzudzanyo ya hei mbalelano">
-<!ENTITY newAcctLink.label "Vhumbani mbalelano ntswa">
 
 <!ENTITY advFeaturesSectionHdr.label "Zwitenwa zwo Bvelelaho">
 <!ENTITY searchMsgsLink.label "Ṱoḓani milaedza">
@@ -17,5 +20,3 @@
 <!ENTITY offlineLink.label "Nzudzanyo ya nnḓa ha ḽaini">
 
 
-<!ENTITY rssSectionHdr.label "Mafhungo a RSS &amp; Blogs">
-<!ENTITY subscibeRSS.label "Langani vhuḓiṅwalisi">

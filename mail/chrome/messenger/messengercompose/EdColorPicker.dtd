@@ -35,12 +35,13 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Muvhala">
 <!ENTITY lastPickedColor.label "Muvhala wa u fhedzisela wo nangiwaho">
 <!ENTITY lastPickedColor.accessKey "M">
-<!ENTITY setColor1.label "Kiḽikani kha muvhala kana">
-<!ENTITY setColor2.label "dzhenisani mutevhe wa muvhala wa HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(tsumbo: &quot;#0000ff&quot; kana &quot;lutombo&quot;):">
 <!ENTITY default.label "Yo Dzivhiswaho">
 <!ENTITY default.accessKey "Y">

@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 425px; min-height: 470px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopani
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Nangani Dzothe
     .accesskey = D
+
 general-title =
     .value = Thoho:
 general-url =
@@ -32,6 +35,7 @@ general-meta-name =
     .label = Dzina
 general-meta-content =
     .label = Zwire Ngomu
+
 media-alt-header =
     .label = Ḽinwalwa ḽinwe
 media-address =
@@ -66,9 +70,11 @@ media-object = Tshiitwa
 media-embed = Tingeledza
 media-link = Tshiga
 media-input = Mvelelo
+
 no-page-title =
     .value = Siaṱari ḽi si na Thoho:
 general-quirks-mode =
     .value = Moudu wa maitele
 general-strict-mode =
     .value = Moudu wa u tendelana na maimo
+
