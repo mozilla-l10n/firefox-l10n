@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = Funa lokunye kuvela kwalibintamagama
 findbar-previous =
     .tooltiptext = Funa lokwendlulile kuvela kwalelibintamagama
+

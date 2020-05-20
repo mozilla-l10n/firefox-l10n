@@ -8,4 +8,5 @@ column-heading-username =
     .label = Libito lemsebentisi
 column-heading-password =
     .label = Libitophawu
+
 no-master-password-prompt = Ucinisekile kutsi ufisa kukhomba libitophawu?

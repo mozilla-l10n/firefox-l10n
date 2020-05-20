@@ -8,6 +8,7 @@ password-quality-meter = Imitha lengiyo yelibitophawu
 
 change-password-window =
     .title = Gucula libitophawu lelikhulu
+
 change-password-old = Libitophawu lanyalo:
 change-password-new = Libitophawu lelisha:
 change-password-reenter = Libitophawu lelisha (futsi):

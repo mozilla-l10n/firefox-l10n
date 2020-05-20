@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Khetsa Umsebentisi Profayili
+
 profile-selection-button-accept =
     .label = Cala { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Phuma
+
 profile-selection-new-button =
     .label = Yakha iProfayili…
     .accesskey = Y
+
 profile-selection-rename-button =
     .label = Yetsa kabusha Libito leProfayili…
     .accesskey = Y
+
 profile-selection-delete-button =
     .label = Cisha iProfayili…
     .accesskey = C
@@ -21,6 +26,8 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } igcina lwati ngetinhlelo takho, lokuncono, nalamanye emaphuzu lakuprofayili yakho lesebentisekako.
+
 profile-manager-work-offline =
     .label = Sebenta ngaphandle kwelilayini
     .accesskey = b
+

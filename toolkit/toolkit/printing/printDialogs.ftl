@@ -56,5 +56,6 @@ print-window =
     .title = Iyashicilela
 print-complete =
     .value = Kushicilela kucedzile.
+
 dialog-cancel-label = Cisha
 dialog-close-label = Vala

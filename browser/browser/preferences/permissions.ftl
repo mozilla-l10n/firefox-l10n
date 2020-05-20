@@ -4,12 +4,15 @@
 
 permissions-close-key =
     .key = w
+
 permissions-status =
     .label = Simo
+
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Vimba
+
 permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
@@ -40,11 +43,15 @@ permissions-invalid-uri-label = Uyacelwa faka libito lalovakashelwe lelisemtsetf
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

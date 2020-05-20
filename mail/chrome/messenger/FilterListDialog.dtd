@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Emahluto emlayeto">
 <!ENTITY nameColumn.label "Libito lekuhluta">
 <!ENTITY activeColumn.label "Vunyelwe">
@@ -22,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "M">
 <!ENTITY folderPickerPrefix.label "Sebentisa emahluto lakhetsiwe:">
 <!ENTITY folderPickerPrefix.accesskey "t">
-<!ENTITY choosethis.label "khetsa lefolda">
-<!ENTITY choosethisnewsserver.label "khetsa leseva yetindzaba">
 <!ENTITY helpButton.label "Lusito">
 <!ENTITY helpButton.accesskey "L">
 <!ENTITY closeCmd.key "W">

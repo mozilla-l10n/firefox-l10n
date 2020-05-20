@@ -19,7 +19,9 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Phindzucale
     .accesskey = P
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Vula lokucuketse ifolda
     .accesskey = V
+  

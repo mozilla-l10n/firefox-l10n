@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Ucelwe kutsi utsembe umtsetfo wesitifiketi lesisha (CA).">
 
 <!ENTITY downloadCert.trustEmail "Tsemba CA kukhomba basebentisi be-imeyili.">
-<!ENTITY downloadCert.trustObjSign "Tsemba CA kukhomba batfutfukisi betinhlelo.">
 <!ENTITY downloadCert.message3 "Ngembi kwekutsemba CA noma ngayiphi injongo,kufanele uhlole sitifiketi,umgomo netinchubo (uma kukhona).">
 <!ENTITY downloadCert.viewCert.label "Buka">
 <!ENTITY downloadCert.viewCert.text "Cubungula sitifiketi CA">

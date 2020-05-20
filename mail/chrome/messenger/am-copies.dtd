@@ -1,4 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-copies.xul -->
+
+<!-- extracted from am-copies.xhtml -->
 
 <!ENTITY copyAndFolderTitle.label "Emakhoph emafolda &amp;">
 <!ENTITY sendingPrefix.label "Nawutfumela imilayeto, othomatikhali: ">
@@ -6,13 +12,9 @@
 <!ENTITY fccMailFolder.accesskey "B">
 <!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Khetsa Ifolda...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Bcc lamakheli e-imeyili:">
 <!ENTITY bccAddress.accesskey "B">
-<!ENTITY specialFolderTitle.label "Emafolda Lasipeshali">
-<!ENTITY draftMailFolder.label "Gcina tinhlaka temilayeto ku:">
-<!ENTITY templateMailFolder.label "Gcina emathemplethi emilayeto:">
 <!ENTITY saveMessageDlg.label "Khombisa siciniseko senkholumiswana nakuseviwa imilayeto">
 <!ENTITY saveMessageDlg.accesskey "K">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -30,6 +32,3 @@
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "Lokunye:">
 <!ENTITY templateInOtherFolder.accesskey "y">
-<!ENTITY specialFoldersTitle.label "Tinhlaka nemaThemplethi">
-<!ENTITY keepDrafts.label "Gcina tinhlaka temilayeto ku:">
-<!ENTITY keepTempltes.label "Gcina tinhlaka temathemplethi ku:">

@@ -1,20 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Imitsetfo yekuhluta">
-<!ENTITY subject.label "sihloko">
-<!ENTITY sender.label "umtfumeli">
-<!ENTITY date.label "lilanga">
-<!ENTITY anyText.label "nome ngumuphi umbhalo">
-<!ENTITY keyword.label "sikhiyagama">
-<!ENTITY age.label "iminyaka emalangeni">
-<!ENTITY to.label "ku">
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 
-<!ENTITY cc.label "Cc">
-
-<!ENTITY status.label "sigaba">
-<!ENTITY priority.label "lihlahlandlela">
-<!ENTITY body.label "umtimba">
-<!ENTITY contains.label "lokucuketfwe">
-<!ENTITY nocontains.label "akunayo intfo">
 <!ENTITY filterName.label "Libito lelihluto:">
 <!ENTITY filterName.accesskey "u">
 
@@ -27,12 +17,9 @@
 <!ENTITY highPriorityCmd.label "Phakeme">
 <!ENTITY highestPriorityCmd.label "Phakeme kakhulukati">
 
-<!ENTITY conditionDesc.label "Yemilayeto lengenako le:">
 <!ENTITY filterActionDesc.label "Yenta letento:">
 <!ENTITY filterActionDesc.accesskey "Y">
 
-<!ENTITY newFolderButton.label "Ifolda lensha...">
-<!ENTITY newFolderButton.accesskey "L">
 <!-- New Style Filter Rule Actions -->
 
 <!ENTITY moveMessage.label "Move Message to">
@@ -41,7 +28,6 @@
 <!ENTITY replyWithTemplate.label "Reply with Template">
 <!ENTITY markMessageRead.label "Mark As Read">
 <!ENTITY markMessageStarred.label "Add Star">
-<!ENTITY labelMessage.label "Label Message As">
 <!ENTITY setPriority.label "Set Priority to">
 <!ENTITY addTag.label "Tag Message">
 <!ENTITY setJunkScore.label "Set Junk Status to">
@@ -51,3 +37,8 @@
 <!ENTITY ignoreThread.label "Ignore Thread">
 <!ENTITY watchThread.label "Watch Thread">
 
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

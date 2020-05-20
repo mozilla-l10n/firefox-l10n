@@ -4,11 +4,16 @@
 
 colors-close-key =
     .key = w
+
 colors-text-and-background = Umbhalo Neliphasi lawo
+
 colors-use-system =
     .label = Sebentisa imibala yenchubo
     .accesskey = e
+
 colors-underline-links =
     .label = Dvwebela tihlanganisi
     .accesskey = D
+
 colors-links-header = Hlanganisa imibala
+

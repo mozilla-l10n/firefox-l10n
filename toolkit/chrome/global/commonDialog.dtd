@@ -4,6 +4,7 @@
 
 <!ENTITY header.label     "Luhlaka Sihloko"> 
 <!ENTITY message.label    "Lamanye emasampula alokubhalilwe angena la.">
+
 <!ENTITY editfield0.label "Libitosebenta:"> 
 <!ENTITY editfield1.label "Libitophawu:"> 
 <!ENTITY checkbox.label   "hlola">

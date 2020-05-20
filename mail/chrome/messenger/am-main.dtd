@@ -1,9 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
+
+<!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Timiso te-Akhawunti">
 <!ENTITY accountName.label "I-Akhawunti Libito:">
 <!ENTITY accountName.accesskey "L">
-<!ENTITY accountNameDesc.label "Libito le-akhawunti lisetjentiswa ekuphawuleni I-akhawunti ngayinye">
 <!ENTITY identityTitle.label "Luphawu lwedifolthi">
 <!ENTITY identityDesc.label "I-akhawunti ngayinye ineluphawu lwati labakubona ngayo bantfu nabafundza imilayeto yakho.">
 <!ENTITY name.label "Libito Lakho:">
@@ -14,8 +19,6 @@
 <!ENTITY replyTo.accesskey "l">
 <!ENTITY organization.label "Inhlangano:">
 <!ENTITY organization.accesskey "I">
-<!ENTITY signature.label "Namatsisela lesayini:">
-<!ENTITY signature.accesskey "n">
 <!ENTITY edit.label "Editha...">
 <!ENTITY choose.label "Khetsa...">
 <!ENTITY choose.accesskey "K">
@@ -32,3 +35,4 @@
 <!ENTITY smtpName.label "Silondvoloti lesiphumako (SMTP):">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Sebentisa Silondvoloti I-difolthi">
+

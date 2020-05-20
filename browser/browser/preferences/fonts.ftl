@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Emafonti
+
 fonts-window-close =
     .key = w
 
@@ -44,6 +45,7 @@ fonts-default-serif =
     .label = Iserifu
 fonts-default-sans-serif =
     .label = Isanserifu
+
 fonts-minsize-none =
     .label = Kute
 
@@ -56,6 +58,7 @@ fonts-languages-fallback-name-baltic =
     .label = Sibalthiki
 fonts-languages-fallback-name-turkish =
     .label = Sithekhi
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
