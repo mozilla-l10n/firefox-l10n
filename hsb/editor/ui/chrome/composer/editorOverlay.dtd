@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "e">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Pismo">
 <!ENTITY FontFaceSelect.tooltip "Pismo wubrać">
 <!ENTITY fontfaceMenu.label "Pismo">
 <!ENTITY fontfaceMenu.accesskey "P">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Pismowa wulkosć">
 <!ENTITY FontSizeSelect.tooltip "Pismowu wulkosć wubrać">
 <!ENTITY decreaseFontSize.label "Pomjeńšić">
 <!ENTITY decreaseFontSize.accesskey "m">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Kajkosće lisćiny…">
 <!ENTITY listPropsCmd.accesskey "K">
 
+<!ENTITY ParagraphSelect.title "Wotstawk">
 <!ENTITY ParagraphSelect.tooltip "Wotstawkowy format wubrać">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Dokumentowy tekst">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Blokowa sadźba">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Pozicioněrowanje:">
 <!ENTITY layer.tooltip "Woršta">
+<!ENTITY decreaseZIndex.label "Do pozadka">
 <!ENTITY layerSendToBack.tooltip "Do pozadka">
+<!ENTITY increaseZIndex.label "Do prědka">
 <!ENTITY layerBringToFront.tooltip "Do prědka">
 
 <!ENTITY increaseIndent.label "Zasunjenje powjetšić">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Nowy wotkaz zasadźić abo kajkosće wubraneho wotkaza wobdźěłać">
 <!ENTITY anchorToolbarCmd.label "Kótwička">
 <!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenowanu kótwičku zasadźić abo kajkosće wubraneje kótwički wobdźěłać">
+<!ENTITY colorButtons.title "Barby">
 <!ENTITY TextColorButton.tooltip "Barbu za tekst wubrać">
 <!ENTITY BackgroundColorButton.tooltip "Barbu za pozadk wubrać">
 <!ENTITY throbber.tooltip "K startowej stronje &vendorShortName;">
 <!ENTITY throbber.tooltip2 "K startowej stronje &brandShortName;">
+<!ENTITY HighlightColorButton.label "Tekstowy marker">
 <!ENTITY HighlightColorButton.tooltip "Wuzběhnjensku barbu za tekst wubrać">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Pismowa wulkosć">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Wulkosć pisma nastajić">
+<!ENTITY smaller.label "Mjeńši">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mjeńša pismowa wulkosć">
+<!ENTITY larger.label "Wjetši">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Wjetša pismowa wulkosć">
+<!ENTITY bold.label "Tučny">
 <!ENTITY boldToolbarCmd.tooltip "Tučny">
+<!ENTITY italic.label "Kursiwny">
 <!ENTITY italicToolbarCmd.tooltip "Kursiwny">
+<!ENTITY underline.label "Podšmórnyć">
 <!ENTITY underlineToolbarCmd.tooltip "Podšmórnjeny">
+<!ENTITY bullets.label "Naličenske symbole">
 <!ENTITY bulletListToolbarCmd.tooltip "Naličensku lisćinu nałožić abo wotstronić">
+<!ENTITY numbers.label "Ličby">
 <!ENTITY numberListToolbarCmd.tooltip "Čisłowanu lisćinu nałožić abo wotstronić">
+<!ENTITY outdent.label "Wusunyć">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst wusunyć (dolěwa přesunyć)">
+<!ENTITY indent.label "Zasunyć">
 <!ENTITY indentToolbarCmd.tooltip "Tekst zasunyć (doprawa přesunyć)">
+<!ENTITY AlignPopupButton.label "Wusměrjenje">
 <!ENTITY AlignPopupButton.tooltip "Tekstowe wusměrjenje wubrać">
+<!ENTITY InsertPopupButton.label "Zasadźić">
 <!ENTITY InsertPopupButton.tooltip "Wotkaz, kótwičku, wobraz, horicontalnu liniju abo tabelu zasadźić">
+<!ENTITY alignLeftButton.label "Nalěwo wusměrić">
 <!ENTITY alignLeftButton.tooltip "Tekst po lěwej kromje wusměrić">
+<!ENTITY alignCenterButton.label "Centrować">
 <!ENTITY alignCenterButton.tooltip "Tekst centrowano wusměrić">
+<!ENTITY alignRightButton.label "Naprawo wusměrić">
 <!ENTITY alignRightButton.tooltip "Tekst po prawej kromje wusměrić">
+<!ENTITY alignJustifyButton.label "Blokowa sadźba">
 <!ENTITY alignJustifyButton.tooltip "Tekst po lěwej kromje a prawej kromje wusměrić">
 
 <!-- Structure Toolbar Context Menu items -->
