@@ -6,8 +6,10 @@ screenshots-my-shots-button = ನನ್ನ ಫೋಟೋಗಳು‍
 screenshots-cancel-button = ರದ್ದುಗೊಳಿಸು
 screenshots-download-button = ಡೌನ್‌ಲೋಡ್
 screenshots-copy-button = ನಕಲಿಸು
+
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
+

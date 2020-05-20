@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = ಪ್ಲಗ್‌ಇನ್‍ಗಳ ಬಗ್ಗೆ
+
 installed-plugins-label = ಅನುಸ್ಥಾಪಿತ ಪ್ಲಗ್ಇನ್‍ಗಳು
 no-plugins-are-installed-label = ಅನುಸ್ಥಾಪಿಸಲಾದ ಯಾವುದೆ ಪ್ಲಗ್‌ಇನ್ ಕಂಡುಬಂದಿಲ್ಲ
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">ಸ್ಥಿತಿ:</span> ನ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">ಸ್ಥಿತಿ:</span> ನಿಷ್ಕ್ರಿಯಗೊಂಡಿದೆ ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">ಸ್ಥಿತಿ:</span> ಅಶಕ್ತಗೊಂಡ
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">ಸ್ಥಿತಿ:</span> ಅಶಕ್ತಗೊಂಡ ({ $blockListState })
+
 mime-type-label = MIME ಪ್ರಕಾರ
 description-label = ವಿವರಣೆ
 suffixes-label = ಅಂತ್ಯ ಪ್ರತ್ಯಯ

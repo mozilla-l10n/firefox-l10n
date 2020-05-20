@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = ವಾಕ್ಯದ ಮುಂದಿನ ಇರುವಿಕೆಯನ್ನು ಹುಡುಕು
 findbar-previous =
     .tooltiptext = ವಾಕ್ಯದ ಹಿಂದಿನ ಇರುವಿಕೆಯನ್ನು ಹುಡುಕು
+
 findbar-find-button-close =
     .tooltiptext = ಹುಡುಕು ಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು
-findbar-highlight-all =
-    .label = ಎಲ್ಲವನ್ನು ಹೈಲೈಟ್ ಮಾಡು
-    .accesskey = l
-    .tooltiptext = ನುಡಿಗಟ್ಟಿನ ಎಲ್ಲಾ ಇರುವಿಕೆಯನ್ನು ಹೈಲೈಟ್ ಮಾಡಿ
+
 findbar-case-sensitive =
     .label = ಕೇಸನ್ನು Match
     .accesskey = c
     .tooltiptext = ಕೇಸ್‌ನ ಸಂವೇದನೆಯೊಂದಿಗೆ ಹುಡುಕಿ
+
 findbar-entire-word =
     .label = ಸಂಪೂರ್ಣ ಪದಗಳು
     .accesskey = W

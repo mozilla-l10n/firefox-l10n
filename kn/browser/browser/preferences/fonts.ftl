@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ಅಕ್ಷರ ಶೈಲಿಗಳು
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ಇದಕ್ಕಾಗಿನ ಅಕ್ಷರಶೈಲಿಗಳು
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = ಅರೇಬಿಕ್‍
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = ಸಮಪ್ರಮಾಣದ
     .accesskey = P
+
 fonts-default-serif =
     .label = ಸೆರಿಫ್
 fonts-default-sans-serif =
     .label = ಸಾನ್ಸ್‍ ಸೆರಿಫ್
+
 fonts-proportional-size = ಗಾತ್ರ
     .accesskey = z
+
 fonts-serif = ಸೆರಿಫ್
     .accesskey = S
+
 fonts-sans-serif = ಸಾನ್ಸ್‍-ಸೆರಿಫ್
     .accesskey = n
+
 fonts-monospace = ಮೊನೊಸ್ಪೇಸ್
     .accesskey = M
+
 fonts-monospace-size = ಗಾತ್ರ
     .accesskey = e
+
 fonts-minsize = ಅಕ್ಷರದ ಕನಿಷ್ಠ ಗಾತ್ರ
     .accesskey = o
+
 fonts-minsize-none =
     .label = ಯಾವುದೂ ಇಲ್ಲ
+
 fonts-allow-own =
     .label = ಪುಟಗಳು ತಮ್ಮದೇ ಫಾಂಟುಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲು ಅನುಮತಿಸಿ, ಈ ಮೇಲಿನ ನಿಮ್ಮ ಆಯ್ಕೆಗಳ ಹೊರತಾಗಿ
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಟೆಕ್ಸ್ಟ್ ಎನ್ಕೋಡಿಂಗ್
 fonts-languages-fallback-desc = ತಮ್ಮಲ್ಲಿರುವ ಎನ್ಕೋಡಿಂಗ್‌ಗಳನ್ನು ಘೋಷಿಸದೆ ಇರುವ ಸಾಂಪ್ರದಾಯಿಕ ವಿಷಯಕ್ಕಾಗಿ ಈ ಕ್ಯಾರೆಕ್ಟರ್ ಎನ್ಕೋಡಿಂಗ್ ಅನ್ನು ಬಳಸಲಾಗುತ್ತದೆ.
+
 fonts-languages-fallback-label = ಹಿಮ್ಮರಳುವ Text ಎನ್ಕೋಡಿಂಗ್‌
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = ಪ್ರಸಕ್ತ ಲೊಕ್ಯಾಲ್‌ಗಾಗಿ ಪೂರ್ವನಿಯೋಜಿತ
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ವಿಯೆಟ್ನಾಮೀಸ್
 fonts-languages-fallback-name-other =
     .label = ಇತರೆ (ವೆಸ್ಟರ್ನ್ ಯುರೋಪಿಯನ್‌ ಸೇರಿದಂತೆ.)
-fonts-very-large-warning-title = ದೊಡ್ಡ ಕನಿಷ್ಠ ಅಕ್ಷರ ಶೈಲಿ ಗಾತ್ರ
-fonts-very-large-warning-message = ನೀವು ಅತಿ ದೊಡ್ಡ ಕನಿಷ್ಠ ಅಕ್ಷರ ಶೈಲಿ ಗಾತ್ರವನ್ನು (24 ಪಿಕ್ಸೆಲ್‌ಗಳಿಗಿಂದ ಹೆಚ್ಚು) ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದ್ದೀರಿ. ಇದು ಕಷ್ಟಕರವಾಗಬಹುದು ಅಥವಾ ಈ ರೀತಿಯ ಕೆಲವೊಂದು ಅತಿಮುಖ್ಯ ಸಂರಚನೆ ಪುಟಗಳನ್ನು ಬಳಸುವುದನ್ನು ಸಾಧ್ಯವೇ ಇಲ್ಲದಂತೆ ಮಾಡಬಹುದು.
-fonts-very-large-warning-accept = ಹೇಗಿದ್ದರೂ ನನ್ನ ಬದಲಾವಣೆಗಳನ್ನು ಇಟ್ಟುಕೋ
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

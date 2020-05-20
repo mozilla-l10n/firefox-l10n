@@ -15,6 +15,7 @@ url-classifier-cache-clear-btn = ಅಳಿಸು
 url-classifier-cache-table-name = ಕೋಷ್ಟಕದ ಹೆಸರು
 url-classifier-cache-prefix = ಪೂರ್ವಪ್ರತ್ಯಯ
 url-classifier-debug-title = ದೋಷನಿದಾನ
+
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = ಸುರಕ್ಷಿತ ಬ್ರೌಸಿಂಗ್ JS ಲಾಗ್ ಅನ್ನು ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿ
 url-classifier-enable-sbjs-log = ಸುರಕ್ಷಿತ ಬ್ರೌಸಿಂಗ್ JS ಲಾಗ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ

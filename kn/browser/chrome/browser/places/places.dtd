@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "ಹೊಸ ವಿಭಜಕ">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "ಲೈವ್ ಬುಕ್‌ಮಾರ್ಕ್ ಅನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್ ಮಾಡು">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "ಜರುಗಿಸು…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "ಹೆಸರು">
 <!ENTITY col.tags.label          "ಟ್ಯಾಗ್‌ಗಳು">
 <!ENTITY col.url.label           "ತಾಣ">
 <!ENTITY col.mostrecentvisit.label "ಅತ್ಯಂತ ಇತ್ತೀಚಿನ ಭೇಟಿ">
 <!ENTITY col.visitcount.label    "ಭೇಟಿ ಮಾಡಿದ ಲೆಕ್ಕ">
-<!ENTITY col.description.label   "ವಿವರಣೆ">
 <!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
 <!ENTITY col.lastmodified.label  "ಕೊನೆಯ ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "ಮುಂದಕ್ಕೆ ತೆರಳು">
 
-<!ENTITY detailsPane.more.label "ಹೆಚ್ಚು">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "ಕಡಿಮೆ">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ">
 
 <!ENTITY view.label               "ನೋಟ">

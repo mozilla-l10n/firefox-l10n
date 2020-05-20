@@ -103,6 +103,7 @@ print-window =
     .title = ಮುದ್ರಿತಗೊಳ್ಳುತ್ತಿದೆ
 print-complete =
     .value = ಮುದ್ರಣವು ಪೂರ್ಣಗೊಂಡಿದೆ.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

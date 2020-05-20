@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "ಚಾಲನಾಸಮಯದ ಮಾಹಿತಿ">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "ಮಾನಿಟರ್">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ಸಾಧನದ ಆದ್ಯತೆಗಳು">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ಸಾಧನ ಸಿದ್ದತೆಗಳು">
@@ -53,6 +51,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "ಅನ್ವಯ ತೆಗೆ">
+
 <!ENTITY runtimeButton_label "ನಿರ್ವಹಣೆ ಸಮಯ ಆಯ್ಕೆಮಾಡು">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -76,7 +75,6 @@
 <!ENTITY runtimePanel_usb "USB ಸಾಧನಗಳು">
 <!ENTITY runtimePanel_wifi "ವೈ-ಫೈ ಸಾಧನಗಳು">
 <!ENTITY runtimePanel_other "ಇತರೆ">
-<!ENTITY runtimePanel_noadbhelper "ADB ಹೆಲ್ಪರ್ ಅನ್ನು ಅನುಸ್ಥಾಪಿಸಿ">
 <!ENTITY runtimePanel_nousbdevice "ನಿಮ್ಮ ಸಾಧನವು ಕಾಣಿಸುತ್ತಿಲ್ಲವೆ?">
 <!ENTITY runtimePanel_refreshDevices_label "ಸಾಧನಗಳನ್ನು ಪುನಶ್ಚೇತನಗೊಳಿಸು">
 
@@ -119,12 +117,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "ಚಾಲನಾಸಮಯದ ಮಾಹಿತಿ">
-<!ENTITY runtimedetails_adbIsRoot "ADB ಒಬ್ಬ ನಿರ್ವಾಹಕ: ">
-<!ENTITY runtimedetails_summonADBRoot "ನಿರ್ವಹಕ ಸಾಧನ">
-<!ENTITY runtimedetails_ADBRootWarning "(ಅನ್‌ಲಾಕ್ ಮಾಡಿದ ಬೂಟ್‌ಲೋಡರ್‌ನ ಅಗತ್ಯವಿದೆ)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "ಪ್ರತಿಬಂಧವಿಲ್ಲದ DevTools ಸವಲತ್ತುಗಳು: ">
-<!ENTITY runtimedetails_requestPrivileges "ಹೆಚ್ಚಿನ ಅಧಿಕಾರದ ಅಗತ್ಯವಿರುತ್ತದೆ">
-<!ENTITY runtimedetails_privilegesWarning "(ಸಾಧನವನ್ನು ಮರಳಿ ಬೂಟ್ ಮಾಡುತ್ತದೆ. ನಿರ್ವಾಹಕ ಅಧಿಕಾರದ ಅಗತ್ಯವಿದೆ.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "ಬೂಲಿಯನ್">
@@ -146,10 +138,6 @@
 <!ENTITY devicesetting_newname "ಹೊಸ ಸಿದ್ದತೆ ಹೆಸರು">
 <!ENTITY devicesetting_newtext "ಮೌಲ್ಯ ಹೊಂದಿಸುವುದು">
 <!ENTITY devicesetting_addnew "ಹೊಸ ಸಿದ್ದತೆ ಸೇರಿಸು">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "ಪ್ರದರ್ಶಕ">
-<!ENTITY monitor_help "ನೆರವು">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

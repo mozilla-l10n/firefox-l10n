@@ -5,13 +5,15 @@
 app-manager-window =
     .title = ಅನ್ವಯ ವಿವರಗಳು
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = ತೆಗೆದು ಹಾಕು
     .accesskey = R
-app-manager-handle-webfeeds = ಈ ಕೆಳಗಿನ ಅನ್ವಯಗಳು ಜಾಲ ಊಡಿಕೆಗಳು ಅನ್ನು ನಿಭಾಯಿಸಲು ಬಳಸಲ್ಪಡುತ್ತದೆ.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = ಈ ಕೆಳಗಿನ ಅನ್ವಯಗಳು { $type } ಕೊಂಡಿಗಳು ಅನ್ನು ನಿಭಾಯಿಸಲು ಬಳಸಲ್ಪಡುತ್ತದೆ.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = ಈ ಕೆಳಗಿನ ಅನ್ವಯಗಳು { $type } ವಿಷಯ ಅನ್ನು ನಿಭಾಯಿಸಲು ಬಳಸಲ್ಪಡುತ್ತದೆ.

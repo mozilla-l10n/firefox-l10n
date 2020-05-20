@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = ಪ್ರತಿ ಮಾಡು
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = ಎಲ್ಲವನ್ನೂ ಆರಿಸು
     .accesskey = A
+
 general-tab =
     .label = ಸಾಮಾನ್ಯ
     .accesskey = G
@@ -37,6 +40,7 @@ general-meta-name =
     .label = ಹೆಸರು
 general-meta-content =
     .label = ಅಂಶಗಳು
+
 media-tab =
     .label = ಮಾಧ್ಯಮ
     .accesskey = M
@@ -66,11 +70,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = ಮಾಧ್ಯಮ ಪೂರ್ವಾವಲೋಕನ:
+
 perm-tab =
     .label = ಅನುಮತಿಗಳು
     .accesskey = P
 permissions-for =
     .value = ಇದಕ್ಕಾಗಿನ ಅನುಮತಿಗಳು:
+
 security-tab =
     .label = ಸುರಕ್ಷತೆ
     .accesskey = S
@@ -91,13 +97,17 @@ security-view-identity-validity =
     .value = ಅವಧಿ ಮುಗಿಯುವ ದಿನಾಂಕ:
 security-view-privacy =
     .value = ಗೌಪ್ಯತೆ ಹಾಗು ಇತಿಹಾಸ
+
 security-view-privacy-history-value = ನಾನು ಈ ತಾಣಕ್ಕೆ  ಈ ದಿನ ಇದಕ್ಕೂ ಮೊದಲು ಭೇಟಿ ನೀಡಿದ್ದೆನೆಯೆ?
+
 security-view-privacy-passwords-value = ನಾನು ಈ ತಾಣಕ್ಕಾಗಿ ಯಾವುದಾದರೂ ಗುಪ್ತಪದವನ್ನು ಶೇಖರಿಸಿಟ್ಟಿದ್ದೇನೆಯೆ?
+
 security-view-privacy-viewpasswords =
     .label = ಶೇಖರಿಸಲಾದ ಗುಪ್ತಪದವನ್ನು ತೋರಿಸು
     .accesskey = w
 security-view-technical =
     .value = ತಾಂತ್ರಿಕ ವಿವರಗಳು
+
 help-button =
     .label = ನೆರವು
 
@@ -108,6 +118,7 @@ help-button =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 security-site-data-no = ಇಲ್ಲ
+
 image-size-unknown = ಅಜ್ಞಾತ
 not-set-verified-by = ಸೂಚಿತಗೊಳ್ಳದೇ ಇರುವ
 page-info-not-specified =
@@ -127,6 +138,7 @@ media-video = ವೀಡಿಯೊ
 media-audio = ಆಡಿಯೊ
 saved-passwords-yes = ಹೌದು
 saved-passwords-no = ಇಲ್ಲ
+
 no-page-title =
     .value = ಹೆಸರಿಲ್ಲದ ಪುಟ:
 general-quirks-mode =
@@ -142,12 +154,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ಡೀಫಾಲ್ಟ್‍ ಆದುದನ್ನು ಬಳಸು
 security-no-visits = ಇಲ್ಲ
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ಚಿತ್ರ
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -157,17 +171,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px ಗೆ ಆಕಾರ ಬದಲಾಯಿಸಿದಂತಹ)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -175,6 +192,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website } ನಿಂದ ಚಿತ್ರಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿ
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

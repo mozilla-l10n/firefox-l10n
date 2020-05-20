@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = ಹೊಸ Private ಕಿಟಕಿಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ
     .accesskey = P
+
 places-new-bookmark =
     .label = ಹೊಸ ಬುಕ್‌ಮಾರ್ಕ್…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = ಹೊಸ ವಿಭಜಕ
     .accesskey = S
+
 places-view =
     .label = ನೋಟ
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ದಿನಾಂಕ ಹಾಗು ತಾಣದ ಆಧಾರದಲ್ಲಿ
     .accesskey = t
+
 places-history-search =
     .placeholder = ಇತಿಹಾಸವನ್ನು ಹುಡ್ಕು
 places-bookmarks-search =
     .placeholder = ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು ಹುಡುಕು
+
 places-delete-domain-data =
     .label = ಈ ತಾಣವನ್ನು ಮರೆತು ಬಿಡು
     .accesskey = F

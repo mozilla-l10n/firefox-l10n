@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "ಒಂದು ಹೊಸ ಪ್ರಮಾಣಪತ್ರ ಅಥಾರಿಟಿಯನ್ನು(CA) ನಂಬುವಂತೆ ನಿಮ್ಮನ್ನು ಕೇಳಲಾಗಿದೆ .">
 <!ENTITY downloadCert.trustSSL "ಜಾಲ ತಾಣಗಳನ್ನು ಗುರುತಿಸಲು ಈ CA ಅನ್ನು ನಂಬು.">
 <!ENTITY downloadCert.trustEmail "ಇ ಮೇಲ್ ಬಳಕೆದಾರರನ್ನು ಗುರುತಿಸಲು ಈ CA ಅನ್ನು ನಂಬು.">
-<!ENTITY downloadCert.trustObjSign "ತಂತ್ರಾಂಶ ವಿಕಸನಗಾರರನ್ನು ಗುರುತಿಸಲು ಈ CA ಅನ್ನು ನಂಬು.">
 <!ENTITY downloadCert.message3 "ಯಾವುದೆ ಕಾರ್ಯನಿಮಿತ್ತವಾಗಿಯಾದರೂ ಈ CA ಅನ್ನು ನಂಬುವ ಮೊದಲು, ಅದರ ಪ್ರಮಾಣಪತ್ರ ಹಾಗು ಅದರ ಕಾಯ್ದೆ ಮತ್ತು ವಿಧಾನಗಳನ್ನು(ಲಭ್ಯವಿದ್ದಲ್ಲಿ)ಎಚ್ಚರಿಕೆಯಿಂದ ಪರಿಶೀಲಿಸಬೇಕು.">
 <!ENTITY downloadCert.viewCert.label "ನೋಟ">
 <!ENTITY downloadCert.viewCert.text "CA ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪರಿಶೀಲಿಸಿ">

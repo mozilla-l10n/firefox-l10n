@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು
+
 all-tabs-menu-new-user-context =
     .label = ಹೊಸ ಕಂಟೇನರ್ ಟ್ಯಾಬ್
+

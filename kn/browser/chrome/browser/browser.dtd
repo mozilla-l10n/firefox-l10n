@@ -18,50 +18,12 @@
 <!ENTITY appmenu.tooltip                     "ಪರಿವಿಡಿ ತೆರೆ">
 <!ENTITY navbarOverflow.label                "ಹೆಚ್ಚಿನ ಉಪಕರಣಗಳು…">
 
-<!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Reload ಹಾಳೆ">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "ಎಲ್ಲಾ ಟ್ಯಾಬ್ಗಳನ್ನು ಆಯ್ಕೆಮಾಡಿ">
-<!ENTITY  selectAllTabs.accesskey            "S">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "ತದ್ರೂಪು ಹಾಳೆ">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "D">
-<!ENTITY  closeTabOptions.label              "ಟ್ಯಾಬ್ ಆಯ್ಕೆಗಳನ್ನು ಮುಚ್ಚಿ">
-<!ENTITY  closeTabOptions.accesskey          "O">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Right ಇರುವ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮುಚ್ಚುತ್ತದೆ">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "ಇತರೆ ಟ್ಯಾಬ್‌ಗಳನ್ನು Close">
-<!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeTabs.label                    "ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಚ್ಚಿ">
-<!ENTITY  closeTabs.accesskey                "S">
-<!ENTITY  pinSelectedTabs.label              "ಟ್ಯಾಬ್ಗಳನ್ನು ಪಿನ್ ಮಾಡಿ">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.label            "ಟ್ಯಾಬ್ಗಳನ್ನು ಮುಕ್ತಗೊಳಿಸು">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.accesskey        "b">
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "ಪುಟವನ್ನು ಮರಳಿ ಲೋಡ್ ಮಾಡು">
-<!ENTITY  reloadTabs.accesskey               "R">
-<!ENTITY  bookmarkSelectedTabs.label         "ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು…">
-<!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  bookmarkSelectedTabs.accesskey     "B">
+<!-- Tab context menu -->
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -82,25 +44,10 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "ಕೊಂಡಿಯನ್ನು ಸಾಧನಕ್ಕೆ ಕಳುಹಿಸು">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "ಟ್ಯಾಬ್ ಸರಿಸಿ">
-<!ENTITY  moveTabOptions.accesskey           "v">
-<!ENTITY  moveSelectedTabOptions.label       "ಟ್ಯಾಬ್ಗಳನ್ನು ಸರಿಸಿ">
-<!ENTITY  moveSelectedTabOptions.accesskey   "v">
-<!ENTITY  moveToStart.label                  "ಪ್ರಾರಂಭಿಸಲು ಸರಿಸಿ">
-<!ENTITY  moveToStart.accesskey              "S">
-<!ENTITY  moveToEnd.label                    "ಕೊನೆಗೆ ಸರಿಸಿ">
-<!ENTITY  moveToEnd.accesskey                "E">
-<!ENTITY  moveToNewWindow.label              "ಹೊಸ Window ಗೆ ಜರುಗಿಸು">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.accesskey        "e">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "ಟ್ಯಾಬ್‌ ಅನ್ನು ಮುಚ್ಚು">
-<!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪಟ್ಟಿ ಮಾಡು">
 
@@ -133,26 +80,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ಪುಟಗುರುತುಗಳ ಉಪಕರಣ ಪಟ್ಟಿ ಯ ಅಂಶಗಳು">
 
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTab.accesskey "R">
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.label "ಆಯ್ದ ಟ್ಯಾಬ್‍ಗಳನ್ನು ರೀಲೋಡ್ ಮಾಡು">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.reloadSelectedTab.accesskey,
-toolbarContextMenu.reloadSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.reloadSelectedTabs.accesskey "R">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTab.accesskey "T">
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.bookmarkSelectedTabs.accesskey "T">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Undo ಟ್ಯಾಬ್ ಮುಚ್ಚು">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
-
 <!ENTITY pageSourceCmd.label "ಪುಟದ ಮೂಲ">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
@@ -175,6 +102,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "ಪೂರ್ಣತೆರೆಯಿಂದ ನಿರ್ಗಮಿಸು">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "ಪೂರ್ಣ ಪರದೆ">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -197,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "ಪೂರ್ಣತೆರೆಯ ವಿಧಾನದಿಂದ ಹೊರನಡೆ">
 <!ENTITY fullScreenExit.accesskey "F">
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -233,6 +161,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "ಎಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಪುಟಗುರುತು ಮಾಡು...">
+
 <!ENTITY showAllBookmarks2.label "ಎಲ್ಲಾ ಪುಟಗುರುತುಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY recentBookmarks.label "ಇತ್ತೀಚಿಗೆ ಮಾಡಲಾದ ಪುಟಗುರುತುಗಳು">
 <!ENTITY otherBookmarksCmd.label "ಇತರೆ ಪುಟಗುರುತುಗಳು">
@@ -252,7 +181,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "ನಿಲ್ಲು">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು">
+
 <!ENTITY printButton.label            "ಮುದ್ರಿಸು">
 <!ENTITY printButton.tooltip          "ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು">
 
@@ -266,6 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ಪ್ಲಗ್‌ಇನ್‌ಗಳ ಬಳಕೆಯನ್ನು ನಿರ್ವಹಿಸಿ">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ತಾಣದಿಂದ ನೀವು ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವುದನ್ನು ಬದಲಾಯಿಸಿ">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ಪರ್ಸಿಸ್‌ಟೆಂಟ್ ಶೇಖರಣೆಯಲ್ಲಿ ದತ್ತಾಂಶವನ್ನು ಶೇಖರಿಸಿ">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ದೂರದಿಂದ ವೀಕ್ಷಕವು ನಿಮ್ಮ ಹಿಡಿತದಲ್ಲಿದೆ">
 
 
@@ -287,7 +219,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.popupBlocked.tooltip             "ನೀವು ಪಾಪ್-ಅಪ್ ಗಳನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 <!ENTITY urlbar.canvasBlocked.tooltip            "ಕ್ಯಾನ್ವಸ್ ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನೀವು ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
+
 
 <!ENTITY searchItem.title             "ಹುಡುಕು">
 
@@ -345,9 +279,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ಕಡತ">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "ಹೊಸ ಕಂಟೇನರ್ ಟ್ಯಾಬ್">
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "ಹೊಸ ಕಿಟಕಿ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -392,6 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "ಬದಿಯ ಪಟ್ಟಿ">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "ಉಪಕರಣಪಟ್ಟಿಯನ್ನು ನನ್ನಿಚ್ಛೆಗೆ ತಕ್ಕಂತೆ ಹೊಂದಿಸು…">
@@ -471,6 +408,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "ಮತ್ತಷ್ಟು">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವಾ ನಮೂದಿಸು">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -513,6 +451,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "ಹುಡುಕು ಪ್ರಶ್ನೆ">
+
 <!ENTITY contentSearchSubmit.tooltip  "ಹುಡುಕನ್ನು ಒಪ್ಪಿಸು">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -552,6 +491,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "ಹೊಸ Window ಯಲ್ಲಿ ಕೊಂಡಿಯನ್ನು ತೆರೆ">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -600,7 +540,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ಈ ಚೌಕಟ್ಟನ್ನು ಪುಟಗುರುತು ಮಾಡು">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "ಕೊಂಡಿ ನಕಲಿಸು‍">
+
 <!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
@@ -726,6 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "ಪಠ್ಯವನ್ನು ಮಾತ್ರ ಹಿಗ್ಗಿಸು">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "ಗಾತ್ರ ಬದಲಿಸು">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -832,6 +775,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissionsEmpty "ನೀವು ಈ ತಾಣಕ್ಕೆ ಯಾವುದೆ ಅನುಮತಿಗಳನ್ನು ನೀಡಿಲ್ಲ.">
 <!ENTITY identity.permissionsReloadHint "ನಿಮ್ಮ ಬದಲಾವಣೆಗಳು ಕಾಣಿಸಿಕೊಳ್ಳಲು ನೀವು ಪುಟವನ್ನು ಪುನಃ ಲೋಡಮಾಡಬೇಕಾಗುತ್ತದೆ.">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "ಜಾಲವೀಕ್ಷಣಾ ಟ್ಯಾಬ್‌ಗಳು">
@@ -840,39 +784,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
 
 <!ENTITY syncedTabs.sidebar.label              "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
-<!ENTITY syncedTabs.sidebar.noclients.label    "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿ ತೆರೆಯಲಾದ ಟ್ಯಾಬ್‌ಗಳನ್ನು ನೋಡಲು Firefox ಗೆ ಸೈನ್‌ ಇನ್ ಆಗಿ.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ನಿಮ್ಮ ಟ್ಯಾಬ್‌ಗಳನ್ನು ಇಲ್ಲಿ ನೋಡಬೇಕೆ?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
-<!ENTITY syncedTabs.sidebar.unverified.label   "ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಪರಿಶೀಲಿಸಬೇಕಾಗಿದೆ.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "ಯಾವುದೆ ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳಿಲ್ಲ">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; ಆದ್ಯತೆಗಳು ಅನ್ನು ತೆರೆ">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಿಂದ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಟ್ಯಾಬ್‌ ಸಿಂಕ್ ಮಾಡುವಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "ಸಿಂಕ್ ಮಾಡಲಾದ ಹಾಳೆಗಳನ್ನು ಹುಡುಕಿ">
-<!ENTITY syncedTabs.sidebar.connectAnotherDevice  "ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ಸಂಪರ್ಕವನ್ನು ಸಾಧಿಸು">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "ತೆರೆ">
-<!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ತೆರೆ">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "ಹೊಸ ವಿಂಡೋದಲ್ಲಿ ತೆರೆ">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "ಹೊಸ ಖಾಸಗಿ ಕಿಟಕಿಯಲ್ಲಿ ತೆರೆ">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ಈ ಪುಟವನ್ನು ಪುಟಗುರುತು ಮಾಡು...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
-<!ENTITY syncedTabs.context.copy.label                       "ಪ್ರತಿ ಮಾಡು">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "ಎಲ್ಲವನ್ನೂ ಟ್ಯಾಬ್‌ಗಳಲ್ಲಿ ತೆರೆ">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "ಸಾಧನಗಳನ್ನು ನಿರ್ವಹಿಸು…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "ಸಿಂಕ್‌">
@@ -884,41 +795,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; ಗೆ Reconnect">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ಸಿಂಕ್‌">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "ಒವರ್‌ಫ್ಲೋ ಮೆನು ಅಥವಾ ಉಪಕರಣಪಟ್ಟಿಗೆ ನಿಮ್ಮ ನೆಚ್ಚಿನ ವಸ್ತುಗಳನ್ನು ಎಳೆದು ಹಾಕಿರಿ.">
-<!ENTITY customizeMode.restoreDefaults "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
-<!ENTITY customizeMode.done "ಆಯಿತು">
-<!ENTITY customizeMode.titlebar "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
-<!ENTITY customizeMode.extraDragSpace "ಡ್ರ್ಯಾಗ್ ಸ್ಪೇಸ್">
-<!ENTITY customizeMode.toolbars2 "ಉಪಕರಣಪಟ್ಟಿಗಳು">
-<!ENTITY customizeMode.lwthemes "ಥೀಮ್‌ಗಳು">
-<!ENTITY customizeMode.lwthemes.myThemes "ನನ್ನ ಥೀಮ್‌ಗಳು">
-<!ENTITY customizeMode.lwthemes.recommended "ಇದನ್ನು ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ">
-<!ENTITY customizeMode.lwthemes.menuManage "ನಿರ್ವಹಿಸು">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "ಇನ್ನಷ್ಟು ಥೀಮ್‌ಗಳನ್ನು ಪಡೆದುಕೊಳ್ಳಿ">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "ಒವರ್‌ಫ್ಲೋ ಮೆನು">
-<!ENTITY customizeMode.uidensity "ಸಾಂದ್ರತೆ">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "ಸಾಧಾರಣ">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "ಸಾಧಾರಣ">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "ಸಂಕುಚಿತ">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "ಸಂಕುಚಿತ">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "ಸ್ಪರ್ಶ">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "ಸ್ಪರ್ಶ">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ಟ್ಯಾಬ್ಲೆಟ್ ಮೋಡ್‌ಗಾಗಿ ಟಚ್ಅನ್ನು ಬಳಸಿ">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "ಸ್ವಯಂ-ಮರೆಮಾಡು">
 
@@ -977,8 +853,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingProtection.title "ಜಾಡು ಇರಿಸದಂತೆ ರಕ್ಷಣೆ">
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock3.label, trackingProtection.unblock3.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -996,11 +870,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.label "ಎಲ್ಲವನ್ನೂ ತೋರಿಸು">
 <!ENTITY pluginNotification.showAll.accesskey "S">
 
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "ಈಗ ಅನುಮತಿಸು">
-<!ENTITY pluginActivateAlways.label "ಅನುಮತಿಸು ಮತ್ತು ನೆನಪಿಟ್ಟುಕೊ">
-<!ENTITY pluginBlockNow.label "ಪ್ಲಗ್‌ಇನ್ ಅನ್ನು ನಿರ್ಬಂಧಿಸು">
-
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -1008,28 +877,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+
 <!ENTITY uiTour.infoPanel.close "ಮುಚ್ಚು">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "ಹಿಂದಿನದನ್ನು ಮರೆತುಬಿಡು:">
-<!ENTITY panicButton.view.5min                    "ಐದು ನಿಮಿಷಗಳು">
-<!ENTITY panicButton.view.2hr                     "ಎರಡು ತಾಸುಗಳು">
-<!ENTITY panicButton.view.day                     "24 ತಾಸುಗಳು">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "ಇಲ್ಲಿಂದ ಮುಂದುವರೆದರೆ:">
-<!ENTITY panicButton.view.deleteCookies           "ಇತ್ತೀಚಿನ <html:strong>ಕುಕಿಗಳನ್ನು </html:strong> ಅಳಿಸು">
-<!ENTITY panicButton.view.deleteHistory           "ಇತ್ತೀಚಿನ <html:strong> ಇತಿಹಾಸವನ್ನು</html:strong> ಅಳಿಸು">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "ಎಲ್ಲಾ <html:strong>ಹಾಳೆಗಳನ್ನು </html:strong> ಹಾಗೂ <html:strong>ಕಿಟಕಿಗಳನ್ನು </html:strong> ಮುಚ್ಚು">
-<!ENTITY panicButton.view.openNewWindow           "ಒಂದು ಹೊಸ ಸ್ವಚ್ಚವಾದ ಕಿಟಕಿಯನ್ನು ತೆರೆಯಿರಿ">
-
-<!ENTITY panicButton.view.undoWarning             "ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.">
-<!ENTITY panicButton.view.forgetButton            "ಮರೆತುಬಿಡು!">
 
 <!ENTITY panicButton.thankyou.msg1                "ನಿಮ್ಮ ಇತ್ತೀಚಿನ ಜಾಲ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಲಾಗಿದೆ.">
 <!ENTITY panicButton.thankyou.msg2                "ಸುರಕ್ಷಿತ ಜಾಲವೀಕ್ಷಣೆ!">
@@ -1038,27 +887,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "ಹೆಚ್ಚು ಕಲಿಯಿರಿ DRM ಬಗ್ಗೆ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.whatsnew.label "ಹೊಸತೇನಿದೆಯೆಂದು ನೋಡಿ.">
-<!ENTITY updateAvailable.header.message "ನವೀಕರಣಕ್ಕಾಗಿ ಹೊಸದೊಂದು &brandShorterName; ಲಭ್ಯವಿದೆ.">
-<!ENTITY updateAvailable.acceptButton.label "ಅಪ್‌ಡೇಟ್‌ ಡೌನ್‌ಲೋಡ್ ಮಾಡು">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "ಈಗ ಬೇಡ">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ನವೀಕರಿಸಿ">
 
-<!ENTITY updateManual.whatsnew.label "ಹೊಸತೇನಿದೆಯೆಂದು ನೋಡಿ.">
-<!ENTITY updateManual.header.message "&brandShorterName; ಅನ್ನು ಈಗಿನ ಆವೃತ್ತಿಗೆ ನವೀಕರಿಸಲಾಗಿಲ್ಲ.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "ಈಗ ಬೇಡ">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "ಹೊಸ &brandShorterName; ಅನ್ನು ಡೌನ್ಲೋಡ್‍ಮಾಡಿ">
 
-<!ENTITY updateRestart.header.message2 "&brandShorterName; ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಪುನಃ ಪ್ರಾರಂಭಿಸಿ.">
-<!ENTITY updateRestart.acceptButton.label "ಮರುಪ್ರಾರಂಭಿಸಿ ಮತ್ತು ಪುನಃಸ್ಥಾಪಿಸಿ">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "ಈಗ ಬೇಡ">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ಅನ್ನು ಅಪ್‌ಡೇಟ್ ಮಾಡಲು ಪುನಃ ಪ್ರಾರಂಭಿಸಿ">
 
 <!ENTITY newTabControlled.header.message "ನಿಮ್ಮ ಹೊಸ ಹಾಳೆ ಬದಲಾಗಿದೆ.">
@@ -1091,3 +923,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (addonPostInstallMessage.label):
      The first <image> tag is replaced with the icon for the add-ons menu.
      The second <image> tag is replaced with the icon for the toolbar menu. -->
+

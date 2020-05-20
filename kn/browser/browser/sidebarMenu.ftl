@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = ಪುಟಗುರುತುಗಳು
+
 sidebar-menu-history =
     .label = ಇತಿಹಾಸ
+
 sidebar-menu-synced-tabs =
     .label = ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು
+
 sidebar-menu-close =
     .label = ಬದಿಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು

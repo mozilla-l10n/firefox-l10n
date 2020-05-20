@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = ವಿರಮಿಸು
 pictureinpicture-play =
     .aria-label = ಪ್ಲೇ ಮಾಡು
+
 pictureinpicture-mute =
     .aria-label = ಮೂಕಗೊಳಿಸು
 pictureinpicture-unmute =
     .aria-label = ಮೂಕಗೊಳಿಸದಿರು
+

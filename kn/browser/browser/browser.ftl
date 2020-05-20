@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = ತಾಣದ ಮಾಹಿತಿಯನ್ನು ನೋಡಿ
 
@@ -62,10 +63,12 @@ urlbar-popup-blocked =
     .tooltiptext = ನೀವು ಪಾಪ್-ಅಪ್ ಗಳನ್ನು ಈ ಜಾಲತಾಣದಲ್ಲಿ ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
 urlbar-canvas-blocked =
     .tooltiptext = ಕ್ಯಾನ್ವಸ್ ದತ್ತಾಂಶ ಶೇಖರಿಸುವುದನ್ನು ಈ ಜಾಲತಾಣಕ್ಕೆ ನೀವು ನಿರ್ಬಂಧಿಸಿದ್ದೀರಿ.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ಈ ಬುಕ್‌ಮಾರ್ಕನ್ನು ತಿದ್ದು ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -97,6 +100,7 @@ search-one-offs-change-settings-button =
     .label = ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ‍ಹುಡುಕು ಸಿದ್ಧತೆಗಳನ್ನು ಬದಲಾಯಿಸು
+
 search-one-offs-context-open-new-tab =
     .label = ಹೊಸ ಹಾಳೆಯಲ್ಲಿ ಹುಡುಕು
     .accesskey = T
@@ -174,9 +178,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ದೂರದಿಂದ ವೀಕ್ಷಕವು ನಿಮ್ಮ ಹಿಡಿತದಲ್ಲಿದೆ
 urlbar-switch-to-tab =
     .value = ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ವಿಸ್ತರಣೆ:‍
+
 urlbar-go-button =
     .tooltiptext = ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು
 urlbar-page-action-button =

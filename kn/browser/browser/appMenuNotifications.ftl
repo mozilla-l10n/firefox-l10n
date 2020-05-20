@@ -22,6 +22,7 @@ appmenu-update-restart =
     .buttonaccesskey = R
     .secondarybuttonlabel = ಈಗ ಬೇಡ
     .secondarybuttonaccesskey = N
+    
 appmenu-new-tab-controlled =
     .label = ನಿಮ್ಮ ಹೊಸ ಹಾಳೆ ಬದಲಾಗಿದೆ.
     .buttonlabel = ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸುಕೊ
