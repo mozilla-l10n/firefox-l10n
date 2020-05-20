@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Կապախզե՞լ { -sync-brand-short-name }-ը։
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Ցանկանո՞ւմ եք հեռացնել զննարկչի տուեալներն այս համակարգչից։ Անկախ { -sync-brand-name }֊ից տուեալները կմնան Ձեր հաշուին։
+
 sync-disconnect-remove-sync-caption = Հեռացնել { -sync-brand-name } տուեալը
+
 sync-disconnect-remove-sync-data = Էջանիշեր, պատմութիւն, գաղտնաբառեր եւ այլն։
+
 sync-disconnect-remove-other-caption = Հեռացրեք այլ անձնական տուեալները
+
 sync-disconnect-remove-other-data = Նշոցիկներ, յիշապահեստ, անցանց կայքերի տուեալներ եւ այլն։
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Կապախզուում է…
+
 sync-disconnect-cancel =
     .label = Չեղարկել
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Կապախզել եւ ջնջել
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = Միայն կապախզել
     .accesskey = D

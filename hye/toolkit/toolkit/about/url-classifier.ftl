@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Անվտանգ դիտարկման մատեան
 url-classifier-debug-modules = Ընթացիկ տեղեկամատեանի մոդուլներ
 url-classifier-debug-sbjs-modules = Անվտանգ զննում JS մատեան
 url-classifier-debug-file = Ընթացիկ տեղեկամատեանի նիշք
+
 url-classifier-trigger-update = Ձգան թարմացում
 url-classifier-not-available = Ա/Ո
 url-classifier-disable-sbjs-log = Անջատել Անվտանգ դիտարկման JS մատեանը

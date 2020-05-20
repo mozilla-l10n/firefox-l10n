@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Փակել
     .accesskey = C
+
 show-passwords =
     .label = Ցուցադրել Գաղտնաբառերը
     .accesskey = P

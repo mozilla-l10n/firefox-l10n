@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Համաժամեցում…
 fxa-toolbar-sync-syncing-tabs =
     .label = Ներդիրների համաժամեցում…
+
 sync-disconnect-dialog-title = Կապախզե՞լ { -sync-brand-short-name }֊ը։
 sync-disconnect-dialog-body = { -brand-product-name } կդադարի համաժամեցնել Ձեր հաշիւը, բայց չի ջնջի այս սարքի Ձեր զննարկման ցանկացած տուեալ։
 fxa-disconnect-dialog-title = Կապախզե՞լ { -brand-product-name }-ը։

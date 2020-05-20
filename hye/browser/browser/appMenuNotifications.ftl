@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Բոլոր նոր ընդլայնումները, որոնք Դուք աւելացնում եք { -brand-shorter-name }-ում չեն աշխատի Գաղտնի դիտարկման պատուհանում, մինչեւ որ Դուք չթոյլատրեք դա։
 appmenu-addon-private-browsing-learn-more = Իմացեք, թե ինչպէս կառաւարել ընդլայնումների կարգաւորումները
+    
 appmenu-new-tab-controlled =
     .label = Ձեր նոր ներդիրը փոխուել է։
     .buttonlabel = Պահել փոփոխութիւնները

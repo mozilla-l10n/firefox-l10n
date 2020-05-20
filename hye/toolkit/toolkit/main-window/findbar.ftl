@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Գտնել արտայայտութեան յաջորդ արդիւնքը
 findbar-previous =
     .tooltiptext = Գտնել արտայայտութեան նախորդ արդիւնքը
+
 findbar-find-button-close =
     .tooltiptext = Փակել փնտրաւահանակը
+
 findbar-highlight-all2 =
     .label = Ընդգծել բոլորը
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Ընդգծել արտայայտութեան բոլոր դէպքերը
+
 findbar-case-sensitive =
     .label = Հաշուի առնել մեծ(փոքր)ատառը
     .accesskey = ո
     .tooltiptext = Որոնել ըստ մեծ(փոքր)ատառի
+
 findbar-match-diacritics =
     .label = Համապատասխանեցնել տարբերիչները
     .accesskey = i
     .tooltiptext = Տարբերակել  շեշտուած տառերի եւ դրանց հիմնական տառերի (աւրինակ, երբ որոնում եք “resume”, “résumé” չի համընկնի)
+
 findbar-entire-word =
     .label = Ամբողջ բառերը
     .accesskey = W

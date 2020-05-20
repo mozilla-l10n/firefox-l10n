@@ -18,6 +18,7 @@ http2 = HTTP/2
 ssl = SSL
 active = Ակտիւ
 idle = Անգործ
+
 about-networking-http = HTTP
 about-networking-sockets = Բնիկներ
 about-networking-dns = DNS

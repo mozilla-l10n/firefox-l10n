@@ -9,6 +9,7 @@ about-service-workers-title = Ծառայութիւնների աշխատողնե�
 about-service-workers-main-title = Գրանցուած ծառայութեան աշխատողներ
 about-service-workers-warning-not-enabled = Ծառայութեան աշխատողները միացուած չեն:
 about-service-workers-warning-no-service-workers = Չկան գրանցուած ծառայութեան աշխատողներ:
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Գործուն շտեմարանի անունը.</str
 waiting-cache-name = <strong>Սպասող շտեմարանի անունը.</strong> { $name }
 push-end-point-waiting = <strong>Սեղմել վերջնակէտ.</strong> { waiting }
 push-end-point-result = <strong>Սեղմել վերջնակէտ.</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Թարմացնել
+
 unregister-button = Չգրանցուած
+
 unregister-error = Հնարաւոր չէ չը գրանցել այս ծառայութեան աշխատողին:
+
 waiting = Սպասում…

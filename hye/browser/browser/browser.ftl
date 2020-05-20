@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկութիւնը
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին։
 urlbar-install-blocked =
     .tooltiptext = Դուք այս կայքի համար արգելափակել եք հաւելասարքի բեռնումը։
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Խմբագրել այս էջանիշը ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Կառավարել ընդլայնումը…
 page-action-remove-from-urlbar =
     .label = Հեռացնել հասցէագաւտուց
+
 page-action-remove-extension =
     .label = Հեռացնել ընդլայնումը
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Այս անգամ որոնել հետեւեալի հետ.
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Փոխել որոնման կարգաւորումները
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Փոխել որոնման կարգաւորումները
+
 search-one-offs-context-open-new-tab =
     .label = Որոնել Նոր Ներդիրում
     .accesskey = T
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահպանուում է
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Պատրաստ է
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Ձեր էկրանին բոլոր տեսանելի պ�
 
 enable-devtools-popup-description = F1 2  դիւրանցումն աւգտագործելու համար նախ բացէք DevTools-ը Web Developer ցանկի միջոցով:
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թոյլտուութիւններ։
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ընդլայնում՝
+
 urlbar-go-button =
     .tooltiptext = Գնալ հասցէի տողում նշուած հասցէով
 urlbar-page-action-button =

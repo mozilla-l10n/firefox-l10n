@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Էջանիշեր
+
 sidebar-menu-history =
     .label = Պատմութիւն
+
 sidebar-menu-synced-tabs =
     .label = Համաժամեցուած ներդիրներ
+
 sidebar-menu-close =
     .label = Փակել կողավահանակը

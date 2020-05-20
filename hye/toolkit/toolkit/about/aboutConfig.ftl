@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Ես ընդունում եմ վտանգը։
 config-about-warning-checkbox =
     .label = Ցուցադրել այս նախազգուշացումը յաջորդ անգամ
+
 config-search-prefs =
     .value = Որոնում.
     .accesskey = ւ
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Պատճենել
     .accesskey = Պ
+
 config-copy-name =
     .label = Պատճենել անունը
     .accesskey = ա
+
 config-copy-value =
     .label = Պատճէնել արժէքը
     .accesskey = ա
+
 config-modify =
     .label = Փոփոխել
     .accesskey = Ձ
+
 config-toggle =
     .label = Փոխարկիչ
     .accesskey = Հ
+
 config-reset =
     .label = Վերակայել
     .accesskey = Վ
+
 config-new =
     .label = Նոր
     .accesskey = ր
+
 config-string =
     .label = Տողը
     .accesskey = Տ
+
 config-integer =
     .label = Ամբողջ
     .accesskey = Ա
+
 config-boolean =
     .label = Բուլեան
     .accesskey = Բ
+
 config-default = լռելեյայն
 config-modified = փոփոխուած
 config-locked = փակուած
+
 config-property-string = ծրագրատող
 config-property-int = ամբողջ
 config-property-bool = բուլեան
+
 config-new-prompt = Մուտքագրեք նախապատուութեան անուանումը
+
 config-nan-title = Անվաւեր արժէք
 config-nan-text = Ձեր մուտքագրած գրաշարը թիւ չէ:
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Նոր { $type } արժէք
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Մուտքագրէք { $type } արժէքը

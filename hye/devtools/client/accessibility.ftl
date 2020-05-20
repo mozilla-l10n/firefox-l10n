@@ -6,15 +6,19 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Իմանալ աւելին
+
 accessibility-text-label-header = Գրուածքի պիտակներ եւ անուններ
+
 accessibility-keyboard-header = Ստեղնաշար
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = Զգուշացում
+
 accessibility-fail =
     .alt = Սխալ
+
 accessibility-best-practices =
     .alt = Լաւագոյն ունակութիւններ
 

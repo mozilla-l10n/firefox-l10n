@@ -20,6 +20,7 @@ open-location = Որոնել կամ մուտքագրել հասցէ
 share = Կիսուել
 close-window = Փակել պատուհանը
 open-sidebar = Կողմնասիւներ
+
 # This string describes shortcuts for search.
 search-popover = Որոնել դիւրացումները
 # Describes searches limited to a specific scope
