@@ -13,27 +13,36 @@ cfr-doorhanger-pintab-heading = Prueba esto: Fijar pestaña
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Por qué estoy viendo esto
+
 cfr-doorhanger-extension-cancel-button = Ahora no
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Añadir ahora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Fijar esta pestaña
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Gestionar ajustes de recomendaciones
     .accesskey = M
+
 cfr-doorhanger-extension-never-show-recommendation = No volver a mostrar esta recomendación
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Aprender más
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = por { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
+
 cfr-doorhanger-extension-notification2 = Recomendación
     .tooltiptext = Recomendación de extensión
     .a11y-announcement = Recomendación de extensión disponible
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Recomendación
@@ -59,6 +68,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } usuario
        *[other] { $total } usuarios
     }
+
 cfr-doorhanger-pintab-description = Obtén acceso rápido a tus sitios más visitados. Mantén los sitios abiertos en una pestaña (incluso cuando reinicies).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +76,10 @@ cfr-doorhanger-pintab-description = Obtén acceso rápido a tus sitios más visi
 cfr-doorhanger-pintab-step1 = <b>Clic derecho</b> en la pestaña que quieres fijar.
 cfr-doorhanger-pintab-step2 = Selecciona <b>Fijar pestaña</b> desde el menú.
 cfr-doorhanger-pintab-step3 = Si el sitio tiene una actualización, verás un punto azul en tu pestaña fijada.
+
 cfr-doorhanger-pintab-animation-pause = Pausar
 cfr-doorhanger-pintab-animation-resume = Continuar
+
 
 ## Firefox Accounts Message
 
@@ -89,18 +101,24 @@ cfr-protections-panel-link-text = Aprender más
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nueva funcionalidad:
+
 cfr-whatsnew-button =
     .label = Qué hay de nuevo
     .tooltiptext = Qué hay de nuevo
+
 cfr-whatsnew-panel-header = Qué hay de nuevo
+
 cfr-whatsnew-release-notes-link-text = Lee las notas de la versión
+
 cfr-whatsnew-fx70-title = { -brand-short-name } ahora lucha con más fuerza por tu privacidad
 cfr-whatsnew-fx70-body =
     La última actualización mejora la función de protección contra seguimiento y hace
     que sea más fácil que nunca el crear contraseñas seguras para cada sitio.
+
 cfr-whatsnew-tracking-protect-title = Protégete de los rastreadores
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } bloquea muchos de los rastreadores sociales y de sitios cruzados comunes que siguen lo que haces en línea.
 cfr-whatsnew-tracking-protect-link-text = Mira tu reporte
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -111,9 +129,11 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Desde { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Ver reporte
+
 cfr-whatsnew-lockwise-backup-title = Respalda tus contraseñas
 cfr-whatsnew-lockwise-backup-body = Ahora genera contraseñas seguras a las que puedes acceder donde sea que te conectes.
 cfr-whatsnew-lockwise-backup-link-text = Activar respaldos
+
 cfr-whatsnew-lockwise-take-title = Lleva tus contraseñas contigo
 cfr-whatsnew-lockwise-take-body = La app para móviles { -lockwise-brand-short-name } te permite acceder de forma segura a tus contraseñas respaldadas desde cualquier parte.
 cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
@@ -121,10 +141,6 @@ cfr-whatsnew-lockwise-take-link-text = Obtener la aplicación
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Escribe menos, encuentra más con la barra de direcciones
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Accede a los sitios que más usas con un solo clic en la barra de direcciones. Encuentra las cosas más rápido con los resultados de { $searchEngineName } y tu historial de navegación.
-cfr-whatsnew-searchbar-body-generic = Accede a los sitios que más usas con un solo clic en la barra de direcciones. Encuentra cosas más rápido con los resultados de búsqueda de tu historial de navegación.
 cfr-whatsnew-searchbar-body-topsites = Ahora, solo selecciona la barra de direcciones y una caja se expandirá con los enlaces a tus sitios frecuentes.
 cfr-whatsnew-searchbar-icon-alt-text = Ícono de lupa
 
@@ -151,6 +167,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Se bloquearon creadores de huellas (fingerprinters)
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } muchos creadores de huellas (fingerprinter) que reúnen secretamente información acerca de tu dispositivo y acciones para crear un perfil de publicidad para ti.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Creadores de huellas (Fingerprinters)
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } puede bloquear creadores de huellas (fingerprinter) que reúnen secretamente información acerca de tu dispositivo y acciones para crear un perfil de publicidad para ti.

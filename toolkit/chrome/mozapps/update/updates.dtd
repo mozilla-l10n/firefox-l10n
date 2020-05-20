@@ -54,7 +54,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; no puede determinar si hay una actualización disponible. 
                                            Asegúrate de tener la última versión de  &brandShortName; bajada de:">
-
+                                           
 <!ENTITY  finishedPage.title              "Actualización lista para instalar">
 <!ENTITY  finishedPage.text               "La actualización será instalada la próxima vez que se inicie &brandShortName;. 
                                            Puedes reiniciar  &brandShortName; ahora o continuar trabajando y reiniciar después.">
@@ -66,6 +66,3 @@
 <!ENTITY  finishedBackground.more         "La actualización se instalará la próxima vez que inicies &brandShortName;. Puedes reiniciar &brandShortName; ahora o continuar trabajando y reiniciar luego.">
 <!ENTITY  finishedBackground.moreElevated "Esta actualización requiere privilegios de administrador. La actualización se instalará la próxima vez que inicies &brandShortName;. Puedes reiniciar &brandShortName; ahora o continuar trabajando y reiniciar luego.">
 
-<!ENTITY  update.details.label            "Detalles">
-<!ENTITY  update.installedOn.label        "Instalada el:">
-<!ENTITY  update.status.label             "Estado:">
