@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = Поставување на позадина на работна површина
+
 set-desktop-background-accept =
     .label = Поставување на позадина на работна површина
+
 open-desktop-prefs =
     .label = Отвори ги поставките за работна околина
+
 set-background-color = Боја:
+
 set-background-position = Позиција:
+
 set-background-tile =
     .label = Едно до друго
+
 set-background-center =
     .label = Централно
+
 set-background-stretch =
     .label = Раширено
+
 set-background-fill =
     .label = Исполни
+
 set-background-fit =
     .label = Собери

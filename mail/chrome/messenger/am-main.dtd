@@ -4,10 +4,11 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Поставки за сметката">
 <!ENTITY accountName.label "Име на сметката:">
 <!ENTITY accountName.accesskey "И">
-<!ENTITY accountNameDesc.label "Името на сметката служи за нејзина идентификација">
 <!ENTITY identityTitle.label "Основен идентитет">
 <!ENTITY identityDesc.label "Секоја сметка може да има сопствен идентитет. Во идентитетот се чуваат информациите што ги гледаат луѓето кои ги читаат Вашите пораки.">
 <!ENTITY name.label "Вашето име:">
@@ -18,8 +19,6 @@
 <!ENTITY replyTo.accesskey "с">
 <!ENTITY organization.label "Организација:">
 <!ENTITY organization.accesskey "О">
-<!ENTITY signature.label "Додај го овој потпис:">
-<!ENTITY signature.accesskey "т">
 <!ENTITY edit.label "Уреди…">
 <!ENTITY choose.label "Избери…">
 <!ENTITY choose.accesskey "з">
@@ -36,3 +35,4 @@
 <!ENTITY smtpName.label "SMTP сервер:">
 <!ENTITY smtpName.accesskey "е">
 <!ENTITY smtpDefaultServer.label "Основен сервер">
+

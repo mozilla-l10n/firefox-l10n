@@ -103,6 +103,7 @@ print-window =
     .title = Печатење
 print-complete =
     .value = Печатењето заврши.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

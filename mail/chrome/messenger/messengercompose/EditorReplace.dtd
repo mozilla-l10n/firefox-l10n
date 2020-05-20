@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Најди и замени">
 <!ENTITY findField.label "Најди текст:">
 <!ENTITY findField.accesskey "Н">
@@ -24,4 +26,3 @@
 <!ENTITY replaceAllButton.label "Замени сè">
 <!ENTITY replaceAllButton.accesskey "с">
 <!ENTITY closeButton.label "Затвори">
-<!ENTITY notFoundWarning.label "Текстот кој го внесовте не е пронајден.">

@@ -9,10 +9,6 @@
 <!ENTITY fileMenu.accesskey "Д">
 <!ENTITY newMenu.label "Нова">
 <!ENTITY newMenu.accesskey "Н">
-<!ENTITY newCard.label "Карта во адресар…">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "К">
-<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "Поштенска листа…">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "л">
@@ -29,22 +25,11 @@
 <!ENTITY closeCmd.accesskey "т">
 <!ENTITY printSetupCmd.label "Поставување на страницата…">
 <!ENTITY printSetupCmd.accesskey "у">
-<!ENTITY printPreviewCardViewCmd.label "Преглед за печатење на картaта">
-<!ENTITY printPreviewCardViewCmd.accesskey "р">
 <!ENTITY printPreviewAddressBook.label "Преглед за печатење на адресарот">
 <!ENTITY printPreviewAddressBook.accesskey "д">
-<!ENTITY printCardViewCmd.label "Печати ја картата…">
-<!ENTITY printCardViewCmd.accesskey "П">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Печати го адресарот…">
 <!ENTITY printAddressBook.accesskey "а">
 
-<!ENTITY quitApplicationCmdWin.label "Излези">
-<!ENTITY quitApplicationCmdWin.accesskey "л">
-<!ENTITY quitApplicationCmd.label "Излези">
-<!ENTITY quitApplicationCmd.accesskey "з">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Уредување">
@@ -65,11 +50,8 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "п">
 <!ENTITY deleteCmd.label "Избриши">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "з">
 <!ENTITY deleteAbCmd.label "Избриши го адресарот">
-<!ENTITY deleteCardCmd.label "Избриши ја картата">
-<!ENTITY deleteCardsCmd.label "Избриши ги избраните карти">
 <!ENTITY selectAllCmd.label "Избери сè">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -79,9 +61,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Својства…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "в">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -95,12 +74,8 @@
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Прилагоди…">
 <!ENTITY customizeToolbar.accesskey "р">
-<!ENTITY showCardPane.label "Панел за резиме на картичките">
-<!ENTITY showCardPane.accesskey "к">
 <!ENTITY menu_ShowNameAs.label "Покажи го името како">
 <!ENTITY menu_ShowNameAs.accesskey "м">
-<!ENTITY firstLastCmd.label "Прво, последно">
-<!ENTITY firstLastCmd.accesskey "р">
 <!ENTITY lastFirstCmd.label "Последно, прво">
 <!ENTITY lastFirstCmd.accesskey "о">
 <!ENTITY displayNameCmd.label "Вообичаено">
@@ -120,48 +95,25 @@
 <!ENTITY importCmd.accesskey "и">
 <!ENTITY exportCmd.label "Извези…">
 <!ENTITY exportCmd.accesskey "е">
-<!ENTITY preferencesCmd.label "Опции…">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "О">
 <!ENTITY preferencesCmdUnix.label "Преференции">
 <!ENTITY preferencesCmdUnix.accesskey "ф">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Помош">
-<!ENTITY helpMenu.accesskey "м">
-<!ENTITY releaseCmd.label "Белешки кон изданието">
-<!ENTITY releaseCmd.accesskey "Б">
-<!ENTITY hintsAndTips.label "Помош за &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "м">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "За &brandShortName;">
-<!ENTITY aboutCmd.accesskey "а">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "Нова карта">
-<!ENTITY newcardButton.accesskey "к">
 <!ENTITY newlistButton.label "Нова листа">
 <!ENTITY newlistButton.accesskey "л">
-<!ENTITY editButton.label "Својства">
-<!ENTITY editButton.accesskey "С">
 <!ENTITY newmsgButton.label "Пишувај">
 <!ENTITY newmsgButton.accesskey "ј">
 <!ENTITY newIM.label "Инстант порака">
 <!ENTITY newIM.accesskey "И">
-<!ENTITY deleteButton.label "Избриши">
-<!ENTITY deleteButton.accesskey "з">
-<!ENTITY throbberItem.title "Индикатор за активност">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Креира нова карта во адресарот">
 <!ENTITY newlistButton.tooltip "Креира нова листа">
-<!ENTITY editButton.tooltip "Изменете ја избраната карта">
 <!ENTITY newmsgButton.tooltip "Испратете поштенска порака">
 <!ENTITY newIM.tooltip "Испратете инстант порака или муабет">
-<!ENTITY deleteButton.tooltip "Ја брише избраната карта или адресар">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label "Адресари">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Име или е-пошта">
@@ -175,8 +127,6 @@
 <!ENTITY GeneratedName.accesskey "И">
 <!ENTITY PrimaryEmail.label "Е-пошта">
 <!ENTITY PrimaryEmail.accesskey "Е">
-<!ENTITY ScreenName.label "Екранско име">
-<!ENTITY ScreenName.accesskey "с">
 <!ENTITY Company.label "Организација">
 <!ENTITY Company.accesskey "з">
 <!ENTITY NickName.label "Прекар">
@@ -205,16 +155,6 @@
 <!ENTITY _PhoneticName.accesskey "о">
 <!-- Results pane context menu -->
 
-<!ENTITY composeEmail.label "Состави порака за">
-<!ENTITY composeEmail.accesskey "С">
-<!ENTITY deleteAddrBookCard.label "Избриши">
-<!ENTITY deleteAddrBookCard.accesskey "з">
-<!ENTITY newAddrBookCard.label "Нова карта…">
-<!ENTITY newAddrBookCard.accesskey "Н">
-<!ENTITY newAddrBookMailingList.label "Нова поштенска листа…">
-<!ENTITY newAddrBookMailingList.accesskey "п">
-<!ENTITY addrBookCardProperties.label "Својства">
-<!ENTITY addrBookCardProperties.accesskey "С">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -235,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY windowMenu.label "Прозорец">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Минимизирај">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Донеси ги сите напред">
 <!ENTITY zoomWindow.label "Зумирај">

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -8,7 +9,6 @@
 <!ENTITY windowTitle.label "Својства на сликата">
 
 <!ENTITY pixelsPopup.value "пиксели">
-<!ENTITY percentPopup.value "проценти">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Локација на сликата:">
@@ -24,7 +24,7 @@
 <!ENTITY noAltText.accessKey "Н">
 
 <!ENTITY previewBox.label "Преглед на слика">
-<!ENTITY MoreFewerButton.tooltip "Прикажува повеќе или помалку својства за уредување">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -47,8 +47,6 @@
 <!ENTITY imagemapBox.label "Мапа на сликата">
 <!ENTITY removeImageMapButton.label "Отстрани">
 <!ENTITY removeImageMapButton.accessKey "р">
-<!ENTITY editImageMapButton.label "Уреди…">
-<!ENTITY editImageMapButton.tooltip "Креира точки за кликање на оваа слика">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Порамни го текстот до сликата">
@@ -60,7 +58,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Растојание">
-<!ENTITY spacingBox.tooltip "Внесете број за количината на простор околу сликата">
 <!ENTITY leftRightEditField.label "Лево и десно:">
 <!ENTITY leftRightEditField.accessKey "Л">
 <!ENTITY topBottomEditField.label "Дно и врв:">
@@ -73,10 +70,6 @@
 <!ENTITY showImageLinkBorder.accessKey "р">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "Направи ја страната позадина">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Користете слика како позадина на Вашата страница">
-<!ENTITY editImageButton.label "Измени слика">
-<!ENTITY editImageButton.tooltip "Изменете ја сликата во друга програма">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Образец">

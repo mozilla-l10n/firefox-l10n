@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Нов одделувач">
 <!ENTITY cmd.new_separator.accesskey       "д">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Превчитај го активниот обележувач">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "р">
-
-<!ENTITY cmd.moveBookmarks.label                  "Премести…">
-<!ENTITY cmd.moveBookmarks.accesskey              "м">
-
 <!ENTITY col.name.label          "Име">
 <!ENTITY col.tags.label          "Етикети">
 <!ENTITY col.url.label           "Локација">
 <!ENTITY col.mostrecentvisit.label "Последна посета">
 <!ENTITY col.visitcount.label    "Број на посети">
-<!ENTITY col.description.label   "Опис">
 <!ENTITY col.dateadded.label     "Додадено">
 <!ENTITY col.lastmodified.label  "Последна промена">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Оди напред">
 
-<!ENTITY detailsPane.more.label "Повеќе">
-<!ENTITY detailsPane.more.accesskey "е">
-<!ENTITY detailsPane.less.label "Помалку">
-<!ENTITY detailsPane.less.accesskey "о">
 <!ENTITY detailsPane.selectAnItemText.description "Одберете ставка за преглед и уредете ги нејзините својства">
 
 <!ENTITY view.label               "Поглед">

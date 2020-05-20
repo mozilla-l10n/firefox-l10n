@@ -28,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "Д">
 <!ENTITY editUserDictionaryButton.label "Уреди…">
 <!ENTITY editUserDictionaryButton.accessKey "е">
-<!ENTITY recheckButton.label "Повторно провери ја страницата">
-<!ENTITY recheckButton.accessKey "П">
 <!ENTITY closeButton.label "Затвори">
 <!ENTITY closeButton.accessKey "З">
 <!ENTITY sendButton.label "Испрати">

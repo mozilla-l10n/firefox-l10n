@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label "Пишување и адреси">
 <!ENTITY addressingGroupTitle.label "Адреси">
 <!ENTITY addressingText.label "Кога барам адреси:">
@@ -15,8 +17,11 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Користи друг LDAP сервер:">
 <!ENTITY directories.accesskey "d">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label "Пишување">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -24,9 +29,6 @@
 <!ENTITY useHtml.accesskey "С">
 <!ENTITY autoQuote.label "Автоматски цитирај ја оригиналната порака кога одговарам">
 <!ENTITY autoQuote.accesskey "ц">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "и тогаш,">
-<!ENTITY then.accesskey "т">
 <!ENTITY aboveQuote.label "започни го мојот одговор над цитатот">
 <!ENTITY belowQuote.label "започни го мојот одговор под цитатот">
 <!ENTITY selectAndQuote.label "избери го цитатот">
@@ -34,3 +36,4 @@
 <!ENTITY place.accesskey "п">
 <!ENTITY belowText.label "под цитатот (препорачливо)">
 <!ENTITY aboveText.label "под одговорот (над цитатот)">
+

@@ -4,14 +4,11 @@
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
 <!ENTITY pref.ldap.window.title "LDAP директориумски сервери">
-<!ENTITY directory.label "Додај директориум">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "LDAP директориумски сервер:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Избери LDAP директориумски сервер:">
 <!ENTITY directoriesText.accesskey "И">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "LDAP директориумски сервер">
 <!ENTITY addDirectory.label "Додај">
 <!ENTITY addDirectory.accesskey "а">
 <!ENTITY editDirectory.label "Уреди">

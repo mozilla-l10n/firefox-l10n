@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Од вас е побарано да му верувате на нов авторитет за сертификати (CA).">
 <!ENTITY downloadCert.trustSSL "Верувај му на овој CA во идентифукувањето на мрежни места.">
 <!ENTITY downloadCert.trustEmail "Верувај му на овој CA во идентифукувањето на поштенски корисници.">
-<!ENTITY downloadCert.trustObjSign "Верувај му на овој CA во идентифукувањето на програмери.">
 <!ENTITY downloadCert.message3 "Пред да му верувате на овој CA за било што, треба да го испитате неговиот сертификат и неговата политика и процедури (доколку ги има).">
 <!ENTITY downloadCert.viewCert.label "Поглед">
 <!ENTITY downloadCert.viewCert.text "Испитај го CA сертификатот">

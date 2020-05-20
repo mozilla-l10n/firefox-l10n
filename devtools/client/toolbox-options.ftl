@@ -15,6 +15,7 @@ options-select-dev-tools-theme-label = Теми
 
 # The heading
 options-context-inspector = Инспектор
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = Прикажи стилови на прелистувачот
 
@@ -42,6 +43,7 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-context-advanced-settings = Напредни поставки
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Само во текот на оваа сесија. Ја вчитува страницата одново.
 

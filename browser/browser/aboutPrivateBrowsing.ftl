@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Дознајте повеќе за <a data-l10n-name="learn-more">Приватно прелистување</a>.
 about-private-browsing-info-visited = посетени страници
+
 privatebrowsingpage-open-private-window-label = Отвори приватен прозорецw
     .accesskey = п
 about-private-browsing-info-notsaved = Кога прелистувате во Приватен прозорец, { -brand-short-name } <strong>не ги снима</strong>:
@@ -17,3 +18,4 @@ about-private-browsing-info-cookies = колачиња
 tracking-protection-start-tour = Погледнете како работи
 about-private-browsing-note = Приватното прелистување <strong>не ве прави анонимни</strong> на Интернет. Вашиот работодавач или провајдерот на Интернет сеуште може да знаат кои страници ги посетувате.
 about-private-browsing-not-private = Во моментов не сте во приватен прозорец.
+

@@ -12,7 +12,6 @@
 <!ENTITY accountsSectionHdr.label "Сметки">
 <!ENTITY subscribeImapFolders.label "Уреди ги претплатите на папките">
 <!ENTITY settingsLink.label "Прикажи ги поставките за оваа сметка">
-<!ENTITY newAcctLink.label "Креирај нова сметка">
 
 <!ENTITY advFeaturesSectionHdr.label "Напредни можности">
 <!ENTITY searchMsgsLink.label "Барај во пораките">
@@ -21,5 +20,3 @@
 <!ENTITY offlineLink.label "Поставки за локална работа">
 
 
-<!ENTITY rssSectionHdr.label "RSS вести и блогови">
-<!ENTITY subscibeRSS.label "Уреди ги претплатите">

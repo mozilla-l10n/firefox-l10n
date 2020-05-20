@@ -4,7 +4,6 @@
 
 <!ENTITY Window.title "Содржина">
 <!ENTITY buildToc.label "Направи содржина од:">
-<!ENTITY style.label "Стил:">
 <!ENTITY tag.label "Таг:">
 <!ENTITY class.label "Класа:">
 <!ENTITY header1.label "Ниво 1">

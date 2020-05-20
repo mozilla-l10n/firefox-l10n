@@ -4,17 +4,14 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "Безбедност">
-<!ENTITY securityMenu.accesskey "е">
-
-<!ENTITY menu_securityEncryptIfPossible.label "Енкриптирај ако е можно">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "м">
-
 <!ENTITY menu_securityEncryptRequire.label "Енкриптирај ја оваа порака">
-<!ENTITY menu_securityEncryptRequire.accesskey "Е">
 
-<!ENTITY menu_securityNoEncryption.label "Не ја енкриптирај оваа порака">
-<!ENTITY menu_securityNoEncryption.accesskey "Н">
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
+<!ENTITY menu_securityEncryptRequire.accesskey "Е">
 
 <!ENTITY menu_securitySign.label "Дигитално потпиши ја оваа порака">
 <!ENTITY menu_securitySign.accesskey "п">

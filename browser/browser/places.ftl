@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Отвори во нов приватен прозорец
     .accesskey = П
+
 places-new-bookmark =
     .label = Нов обележувач
     .accesskey = б
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Нов одделувач
     .accesskey = д
+
 places-view =
     .label = Поглед
     .accesskey = П
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Датум и место
     .accesskey = т
+
 places-history-search =
     .placeholder = Барај во историјата
 places-bookmarks-search =
     .placeholder = Барај во обележувачите
+
 places-delete-domain-data =
     .label = Заборави го ова место
     .accesskey = б

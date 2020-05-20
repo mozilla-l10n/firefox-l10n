@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label "Својства на директориумскиот сервер">
 <!ENTITY directoryName.label "Име: ">
 <!ENTITY directoryName.accesskey "И">
 <!ENTITY directoryHostname.label "Име на домаќин">
@@ -15,12 +14,9 @@
 <!ENTITY directorySecure.accesskey "о">
 <!ENTITY directoryLogin.label "Bind DN: ">
 <!ENTITY directoryLogin.accesskey "i">
-<!ENTITY advancedOptionsButton.label "Напредни опции">
-<!ENTITY advancedOptionsButton.accesskey "а">
 <!ENTITY General.tab "Општо">
 <!ENTITY Offline.tab "Локално">
 <!ENTITY Advanced.tab "Напредно">
-<!ENTITY advancedOptionsTitle.label "Напредни опции">
 <!ENTITY portNumber.label "Број на порта: ">
 <!ENTITY portNumber.accesskey "п">
 <!ENTITY searchFilter.label "Филтер за пребарување: ">
@@ -35,6 +31,7 @@
 <!ENTITY return.accesskey "р">
 <!ENTITY results.label "резултати">
 <!ENTITY offlineText.label "Можете да преземете локална копија на овој директориум, за тој да ви биде достапен кога ќе работите локално.">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

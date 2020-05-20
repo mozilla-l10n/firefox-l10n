@@ -5,17 +5,12 @@
 <!ENTITY fieldMapImport.title "Увезување на адресар">
 <!ENTITY fieldMapImport.size "width: 40em; height: 30em;">
 <!ENTITY fieldMapImport.recordNumber "Увезени податоци за запис">
-<!ENTITY fieldMapImport.next "Напред">
 <!ENTITY fieldMapImport.next.accesskey "Н">
-<!ENTITY fieldMapImport.previous "Назад">
 <!ENTITY fieldMapImport.previous.accesskey "з">
 <!ENTITY fieldMapImport.text "Користете ги Оди нагоре и Оди надолу за да ги поставите полињата на адресарот на лево со полињата за увоз на податоци на десно. Не ги избирајте елементите кои не сакате да ги увезете.">
-<!ENTITY fieldMapImport.up "Оди нагоре">
 <!ENTITY fieldMapImport.up.accesskey "г">
-<!ENTITY fieldMapImport.down "Оди надолу">
 <!ENTITY fieldMapImport.down.accesskey "д">
 <!ENTITY fieldMapImport.fieldListTitle "Полиња на адресарот">
 <!ENTITY fieldMapImport.dataTitle "Податоци кои треба да се увезат">
-<!ENTITY fieldMapImport.skipFirstRecord "Првите податоци содржат имиња на полиња">
 <!ENTITY fieldMapImport.skipFirstRecord.accessKey "р">
 

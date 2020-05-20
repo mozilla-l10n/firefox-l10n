@@ -6,22 +6,14 @@
 <!ENTITY window.width "37em">
 
 <!ENTITY proxyTitle.label "Конфигурирање на посредник за пристап на Интернет">
-<!ENTITY directTypeRadio.label "Директна врска со Интернет">
-<!ENTITY directTypeRadio.accesskey "Д">
 <!ENTITY WPADTypeRadio.label "Авто-откривање на поставки за посредник за оваа мрежа">
 <!ENTITY WPADTypeRadio.accesskey "р">
 <!ENTITY manualTypeRadio.label "Рачна конфигурација на посредник:">
 <!ENTITY manualTypeRadio.accesskey "н">
 <!ENTITY autoTypeRadio.label "URL за автоматска конфигурација на посредник:">
 <!ENTITY autoTypeRadio.accesskey "а">
-<!ENTITY configAutoconfigText.label "Локација на конфигурацијата (URL):">
-<!ENTITY configAutoconfigText.accesskey "u">
 <!ENTITY reload.label "Освежи">
 <!ENTITY reload.accesskey "с">
-<!ENTITY ftp.label "FTP заст.:">
-<!ENTITY ftp.accesskey "f">
-<!ENTITY gopher.label "Gopher заст.:">
-<!ENTITY gopher.accesskey "g">
 <!ENTITY http.label "HTTP заст.:">
 <!ENTITY http.accesskey "h">
 <!ENTITY ssl.label "SSL заст.:">
@@ -32,12 +24,8 @@
 <!ENTITY socks4.accesskey "k">
 <!ENTITY socks5.label "SOCKS v5">
 <!ENTITY socks5.accesskey "v">
-<!ENTITY port.label "Порта:">
 <!ENTITY HTTPport.accesskey "п">
 <!ENTITY SSLport.accesskey "о">
-<!ENTITY FTPport.accesskey "р">
-<!-- No accesskey for gopher (':' doesn't go well) - mpt's going to redesign the window -->
-<!ENTITY gopherPort.accesskey "т">
 <!ENTITY SOCKSport.accesskey "а">
 <!ENTITY noproxy.label "Без заст. за:">
 <!ENTITY noproxy.accesskey "е">

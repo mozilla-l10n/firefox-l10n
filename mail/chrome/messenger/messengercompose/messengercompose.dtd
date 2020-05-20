@@ -14,8 +14,6 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "П">
-<!ENTITY newCard.label "Карта во адресар…">
-<!ENTITY newCard.accesskey "К">
 <!ENTITY attachMenu.label "Приложи">
 <!ENTITY attachMenu.accesskey "л">
 <!ENTITY attachFileCmd.label "Датотеки…">
@@ -50,11 +48,6 @@
 <!ENTITY printCmd.label "Печати…">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "П">
-<!ENTITY quitApplicationCmdWin.label "Излези">
-<!ENTITY quitApplicationCmdWin.accesskey "з">
-<!ENTITY quitApplicationCmd.label "Излези">
-<!ENTITY quitApplicationCmd.accesskey "з">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Уредување">
@@ -74,35 +67,28 @@
 <!ENTITY pasteCmd.label "Залепи">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "п">
-<!ENTITY editRewrapCmd.label "Скрати повторно">
 <!ENTITY editRewrapCmd.accesskey "в">
 <!ENTITY deleteCmd.label "Избриши">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "з">
+<!ENTITY editRewrapCmd.label "Скрати повторно">
 <!ENTITY selectAllCmd.label "Избери сè">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "с">
-<!ENTITY findCmd.label "Најди и замени…">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "ј">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Пронајди повторно">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "П">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Пронајди претходно">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "т">
 <!-- View Menu -->
+
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!ENTITY viewMenu.label "Поглед">
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenuNew.label "Алатници">
 <!ENTITY viewToolbarsMenuNew.accesskey "т">
-<!ENTITY showComposeToolbarCmd.label "Алатник за пошта">
-<!ENTITY showComposeToolbarCmd.accesskey "т">
-<!ENTITY showFormatToolbarCmd.label "Алатник за форматирање">
-<!ENTITY showFormatToolbarCmd.accesskey "ф">
 <!ENTITY showTaskbarCmd.label "Статусна лента">
 <!ENTITY showTaskbarCmd.accesskey "С">
 <!ENTITY customizeToolbar.label "Прилагоди…">
@@ -118,10 +104,6 @@
 
 <!ENTITY optionsMenu.label "Опции">
 <!ENTITY optionsMenu.accesskey "п">
-<!ENTITY checkSpellingCmd.label "Провери правопис…">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "о">
 <!ENTITY enableInlineSpellChecker.label "Проверувај додека пишувам">
 <!ENTITY enableInlineSpellChecker.accesskey "в">
 <!ENTITY quoteCmd.label "Цитирај ја пораката">
@@ -133,8 +115,6 @@
 
 <!ENTITY returnReceiptMenu.label "Повратна пошта">
 <!ENTITY returnReceiptMenu.accesskey "т">
-<!ENTITY outputFormatMenu.label "Формат">
-<!ENTITY outputFormatMenu.accesskey "Ф">
 <!ENTITY autoFormatCmd.label "Авто-детектирај">
 <!ENTITY autoFormatCmd.accesskey "А">
 <!ENTITY plainTextFormatCmd.label "Само обичен текст">
@@ -168,13 +148,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресар">
 <!ENTITY addressBookCmd.accesskey "А">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Поставки за сметката…">
-<!ENTITY accountManagerCmd.accesskey "а">
-<!ENTITY accountManagerCmdUnix.accesskey "с">
-<!ENTITY preferencesCmd.label "Опции…">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "О">
 <!ENTITY preferencesCmdUnix.label "Преференции">
 <!ENTITY preferencesCmdUnix.accesskey "ф">
 <!--  Mac OS X Window Menu -->
@@ -186,15 +159,6 @@
 <!ENTITY windowMenu.label "Прозорец">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Помош">
-<!ENTITY helpMenu.accesskey "м">
-<!ENTITY releaseCmd.label "Белешки кон изданието">
-<!ENTITY releaseCmd.accesskey "Б">
-<!ENTITY hintsAndTips.label "Помош за &brandShortName;">
-<!ENTITY hintsAndTips.accesskey "м">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "За &brandShortName;">
-<!ENTITY aboutCmd.accesskey "а">
 <!-- Mail Toolbar -->
 
 <!ENTITY sendButton.label "Испрати">
@@ -203,18 +167,17 @@
 <!ENTITY attachButton.label "Приложи">
 <!ENTITY spellingButton.label "Правопис">
 <!ENTITY saveButton.label "Сними">
-<!ENTITY throbberItem.title "Индикатор за активност">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Ја испраќа оваа порака веднаш">
 <!ENTITY sendlaterButton.tooltip "Ја испраќа оваа порака подоцна">
 <!ENTITY quoteButton.tooltip "Ја цитира претходната порака">
 <!ENTITY addressButton.tooltip "Изберете примач од адресарот">
-<!ENTITY attachButton.tooltip "Додајте прилог">
 <!ENTITY saveButton.tooltip "Ја снима оваа порака">
 <!ENTITY cutButton.tooltip "Отсекува">
 <!ENTITY copyButton.tooltip "Копира">
 <!ENTITY pasteButton.tooltip "Вметнува">
+
 <!-- Headers -->
 
 <!ENTITY fromAddr.label "Од:">
@@ -227,14 +190,10 @@
 <!ENTITY followupAddr.label "Праќај до:">
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">
-<!ENTITY attachments.label "Привезоци:">
 <!ENTITY attachments.accesskey "в">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Внесува насмеано лице">
 <!ENTITY smiley1Cmd.label "Насмевка">
 <!ENTITY smiley2Cmd.label "Незадоволно">
@@ -281,6 +240,8 @@
 <!ENTITY attachPage.label "Приложи мрежна страница…">
 <!ENTITY attachPage.accesskey "в">
 <!-- Title for the address picker panel -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY addressesSidebarTitle.label "Контакти">
 

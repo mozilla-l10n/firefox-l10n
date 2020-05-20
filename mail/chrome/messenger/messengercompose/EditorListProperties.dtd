@@ -14,7 +14,6 @@
 <!ENTITY bulletList.value "Ненумериран список">
 <!ENTITY numberList.value "Нумериран список">
 <!ENTITY definitionList.value "Список со дефиниции">
-<!ENTITY changeListMsg.label "Кога го менувам типот на списокот:">
 <!ENTITY changeEntireListRadio.label "Промени го целиот список">
 <!ENTITY changeEntireListRadio.accessKey "ц">
 <!ENTITY changeSelectedRadio.label "Промени ги само одбраните ставки">

@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Врати го затвореното јазиче
+
 all-tabs-menu-new-user-context =
     .label = Ново контејнерско јазиче
+

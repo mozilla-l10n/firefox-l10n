@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "а">
 <!ENTITY DictionaryList.label "Зборови во речник:">
 <!ENTITY DictionaryList.accessKey "З">
-<!ENTITY ReplaceButton.label "Замени">
-<!ENTITY ReplaceButton.accessKey "м">
 <!ENTITY RemoveButton.label "Отстрани">
 <!ENTITY RemoveButton.accessKey "т">
 
