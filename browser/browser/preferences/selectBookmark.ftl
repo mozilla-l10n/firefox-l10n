@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Definir página inicial
     .style = width: 32em;
+
 select-bookmark-desc = Escolha um marcador para ser a sua página inicial. Se escolher uma pasta, os marcadores dessa pasta serão abertos em separadores.

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tipos de letra
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tipos de letra para
     .accesskey = T
+
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Sem serifa
+
 fonts-proportional-size = Tamanho
     .accesskey = m
+
 fonts-serif = Serifa
     .accesskey = S
+
 fonts-sans-serif = Sem serifa
     .accesskey = m
+
 fonts-monospace = Monoespaçada
     .accesskey = M
+
 fonts-monospace-size = Tamanho
     .accesskey = h
+
 fonts-minsize = Tamanho mínimo de tipo de letra
     .accesskey = o
+
 fonts-minsize-none =
     .label = Nenhum
+
 fonts-allow-own =
     .label = Permitir que as páginas escolham o seu tipo de letra
     .accesskey = P
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificação de texto para conteúdo de legado
 fonts-languages-fallback-desc = Esta codificação de texto é utilizada para conteúdo de legado que falha ao declarar a sua codificação.
+
 fonts-languages-fallback-label = Codificação de texto de contingência
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Predefinido para o idioma atual
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Outro (incl. Europa ocidental)
-fonts-very-large-warning-title = Tamanho grande mínimo da letra
-fonts-very-large-warning-message = Selecionou um tamanho de letra muito grande (mais de 24 pixeis). Isto pode tornar difícil ou impossível a utilização de algumas páginas de configuração importantes como esta.
-fonts-very-large-warning-accept = Manter as minhas alterações
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

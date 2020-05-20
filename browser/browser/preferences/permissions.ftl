@@ -5,50 +5,66 @@
 permissions-window =
     .title = Exceções
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Endereço do site
     .accesskey = d
+
 permissions-block =
     .label = Bloquear
     .accesskey = B
+
 permissions-session =
     .label = Permitir para a sessão
     .accesskey = e
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-site-name =
     .label = Site
+
 permissions-status =
     .label = Estado
+
 permissions-remove =
     .label = Remover site
     .accesskey = R
+
 permissions-remove-all =
     .label = Remover todos os sites
     .accesskey = e
+
 permissions-button-cancel =
     .label = Cancelar
     .accesskey = C
+
 permissions-button-ok =
     .label = Guardar alterações
     .accesskey = G
+
 permissions-autoplay-menu = Predefinição para todos os sites:
+
 permissions-searchbox =
     .placeholder = Pesquisar site
+
 permissions-capabilities-autoplay-allow =
     .label = Permitir áudio e vídeo
 permissions-capabilities-autoplay-block =
     .label = Bloquear áudio
 permissions-capabilities-autoplay-blockall =
     .label = Bloquear áudio e vídeo
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Perguntar sempre
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Exceções - Bloqueio de conteúdo
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Desativou o bloqueio de conteúdo nestes sites.
+
 permissions-exceptions-etp-window =
     .title = Exceções para a Proteção melhorada contra a monitorização
     .style = { permissions-window.style }

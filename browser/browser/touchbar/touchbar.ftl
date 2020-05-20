@@ -20,6 +20,7 @@ open-location = Pesquisar ou introduzir endereço
 share = Partilhar
 close-window = Fechar janela
 open-sidebar = Barras laterais
+
 # This string describes shortcuts for search.
 search-popover = Atalhos de pesquisa
 # Describes searches limited to a specific scope

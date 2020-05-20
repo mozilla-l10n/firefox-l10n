@@ -54,6 +54,7 @@ close-tab =
     .title = Fechar separador
 show-addon =
     .title = Mostrar no Gestor de extras
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

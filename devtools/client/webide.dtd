@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir aplicação">
+
 <!ENTITY runtimeButton_label "Selecionar runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
 <!ENTITY runtimePanel_other "Outros">
-<!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Não vê o seu dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Atualizar dispositivos">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Informação do runtime">
-<!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
-<!ENTITY runtimedetails_summonADBRoot "raiz do dispositivo">
-<!ENTITY runtimedetails_ADBRootWarning "(requer um bootloader desbloqueado)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilégios não restritos de DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "solicitar privilégios superiores">
-<!ENTITY runtimedetails_privilegesWarning "(Irá reiniciar o dispositivo. Necessita de acesso root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Booleano">

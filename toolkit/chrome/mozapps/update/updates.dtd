@@ -49,7 +49,7 @@
                                            O &brandShortName; irá tentar novamente ao transferir a atualização completa.">
 
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; não consegue determinar se existe uma atualização disponível. Por favor verifique se tem a última versão do &brandShortName; em:">
-
+                                           
 <!ENTITY  finishedPage.title              "Atualização pronta para ser instalada">
 <!ENTITY  finishedPage.text               "A atualização será instalada da próxima vez que o &brandShortName; iniciar. Pode 
                                            reiniciar o &brandShortName; agora, ou continuar a trabalhar e reiniciar mais tarde.">
