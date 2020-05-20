@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Skrifttypar
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Skrifttypar for
     .accesskey = f
+
 fonts-langgroup-arabic =
     .label = Arabisk
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsjonal
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Storleik
     .accesskey = r
+
 fonts-serif = Seriff
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Fast breidde
     .accesskey = a
+
 fonts-monospace-size = Storleik
     .accesskey = e
+
 fonts-minsize = Minste skriftstorleik
     .accesskey = s
+
 fonts-minsize-none =
     .label = Ingen
+
 fonts-allow-own =
     .label = Tillat nettsider å velje eigne skrifttypar i staden for dei som er valde ovanfor
     .accesskey = T
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Tekstkoding for eldre innhald
 fonts-languages-fallback-desc = Denne teiknkodinga vert brukt for eldre innhald som ikkje har spesifisert noko anna koding.
+
 fonts-languages-fallback-label = Reserve-teiknkoding
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Standard for gjeldande språk
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamesisk
 fonts-languages-fallback-name-other =
     .label = Anna (inkl. vesteuropeisk)
-fonts-very-large-warning-title = Stor minimum-skriftstrleik
-fonts-very-large-warning-message = Du har valt ein veldig stor minimum-skriftstorleik (meir enn 24 pikslar). Dette kan gjere det vanskeleg eller umogleg å bruke nokre viktige innstillingssider, som til dømes denne.
-fonts-very-large-warning-accept = Behald endringane likevel
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

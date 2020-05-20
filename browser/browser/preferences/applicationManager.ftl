@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Programdetaljar
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Fjern
     .accesskey = F
-app-manager-handle-webfeeds = Følgjande program kan brukast for å handtere Webkjelder.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Følgjande program kan brukast for å handtere { $type }-lenker.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Følgjande program kan brukast for å handtere { $type }-innhald.

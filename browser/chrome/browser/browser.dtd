@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "n">
 <!ENTITY exitFullScreenCmd.label "Avslutt fullskjerm">
 <!ENTITY exitFullScreenCmd.accesskey "v">
+
 <!ENTITY fullScreenCmd.label "Fullskjerm">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Stadfest kontoen din">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Bygg oppatt">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Kontoinnstillingar">
 <!ENTITY fxa.menu.manageAccount2.label "Handter konto">
 <!ENTITY fxa.menu.signOut.label "Logg ut…">
-<!ENTITY fxa.menu.deviceSettings.label "Einingsinnstillingar">
 <!ENTITY fxa.menu.setupSync.label "Konfigurer &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Gå til adressa i adresselinja">
+
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne sida">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Handter bruken av DRM-programvare">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Opne MIDI-panel">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Du har gjeve denne nettstaden ytterlegare løyve.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokkert kameraet for denne nettstaden.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokkert mikrofonen for denne nettstaden.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blokkert denne nettstaden frå å dele skjermen din.">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Du har blokkert installasjon av utvidingar for denne nettstaden.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har gjeve denne nettstaden ytterlegare løyve.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
+
 
 <!ENTITY searchItem.title             "Søk">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "i">
 <!ENTITY manageUserContext.label          "Handter behaldarar">
 <!ENTITY manageUserContext.accesskey      "H">
+
 <!ENTITY newNavigatorCmd.label        "Nytt vindauge">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Fleire">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Søk eller skriv inn ei adresse">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bokmerk denne ramma">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
+
 <!ENTITY pageAction.copyLink.label    "Kopier lenke">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Lagre til Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Lagre sida til Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Lagre lenke til Pocket">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Trygt samband">
 <!ENTITY identity.connectionNotSecure "Tilkoplinga er ikkje sikker">
 
-<!ENTITY identity.connectionSecure3 "Tilkoplinga er sikker">
-<!ENTITY identity.connectionNotSecure2 "Tilkoplinga er ikkje sikker">
-<!ENTITY identity.connectionNotSecureSecurityView "Du er ikkje sikkert kopla til denne nettstaden.">
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
 <!ENTITY identity.connectionVerified2 "Sikker tilkopling til nettstaden, eigd av:">
-<!ENTITY identity.connectionVerified3 "Du er sikkert kopla til denne nettstaden.">
 <!ENTITY identity.connectionInternal "Dette er ei sikker &brandShortName;-side.">
 <!ENTITY identity.extensionPage "Denne sida er lasta frå ei utviding.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.">
 <!ENTITY identity.customRoot "Tilkoplinga vart stadfesta av ein sertifikatutskrivar som Mozilla ikkje kjenner.">
-
-<!ENTITY identity.evOwnerLabel2 "Sertifikat skrive ut til:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er sikre.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Løyve">
 
-<!ENTITY identity.permissions3 "Løyve">
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
 <!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opne innstillingar for løyve">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Lat att">
 

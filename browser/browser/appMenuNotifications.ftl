@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Eventuelle nye utvidingar du legg til i { -brand-shorter-name } vil ikkje fungere i private vindauge med mindre du tillèt dette i innstillingane.
 appmenu-addon-private-browsing-learn-more = Les om korleis du handterer utvidingsinnstillingar.
+    
 appmenu-new-tab-controlled =
     .label = Den nye fana di er endra.
     .buttonlabel = Behald endringane

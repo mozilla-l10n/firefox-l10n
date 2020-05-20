@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Lat att
     .accesskey = L
+
 show-passwords =
     .label = Vis passord
     .accesskey = p
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Er du sikker på at du vil slette alle passorda?
 remove-all-passwords-title = Slett alle passorda
 no-master-password-prompt = Er du sikker på at du vil vise passorda?
+
+## OS Authentication dialog
+

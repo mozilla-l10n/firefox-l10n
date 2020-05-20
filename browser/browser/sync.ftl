@@ -2,12 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-toolbar-sync-now =
-    .label = Synkroniser no
 fxa-toolbar-sync-syncing =
     .label = Synkroniserer…
 fxa-toolbar-sync-syncing-tabs =
     .label = Synkroniserer faner…
+
 sync-disconnect-dialog-title = Kople frå { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } vil slutte å synkronisere kontoen din, men slettar ikkje nettlesardata på denne eininga.
 fxa-disconnect-dialog-title = Kople frå { -brand-product-name }?

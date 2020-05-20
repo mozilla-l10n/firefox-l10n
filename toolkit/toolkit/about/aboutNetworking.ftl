@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = DNS-suffiks
 websockets = WebSockets
 refresh = Oppdater
 auto-refresh = Auto-oppdater kvart 3. sekund
 hostname = Vertsnamn
 port = Port
 http2 = HTTP/2
-about-networking-title = Om nettverk
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS-suffiks
-about-networking-websockets = WebSockets
-about-networking-refresh = Oppdater
-about-networking-auto-refresh = Auto-oppdater kvart 3. sekund
-about-networking-hostname = Vertsnamn
-about-networking-port = Port
-about-networking-http-version = HTTP-versjon
 ssl = SSL
 active = Aktiv
 idle = Uverksam
@@ -69,8 +57,18 @@ rcwn-avg-long = Langt gjennomsnitt
 rcwn-std-dev-long = Langt standardavvik
 rcwn-cache-slow = Tal på langsam cache
 rcwn-cache-not-slow = Tal på ikkje-langsam cache
-networkid = Nettverks-ID
-networkid-id = Nettverks-ID
+
+about-networking-title = Om nettverk
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS-suffiks
+about-networking-websockets = WebSockets
+about-networking-refresh = Oppdater
+about-networking-auto-refresh = Auto-oppdater kvart 3. sekund
+about-networking-hostname = Vertsnamn
+about-networking-port = Port
+about-networking-http-version = HTTP-versjon
 about-networking-ssl = SSL
 about-networking-active = Aktiv
 about-networking-idle = Uverksam
@@ -118,8 +116,6 @@ about-networking-networkid-id = Nettverks-ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Lenka er oppe
-networkid-statusKnown = Lenkestatus er kjend
 about-networking-networkid-is-up = Lenka er oppe
 about-networking-networkid-status-known = Lenkestatus er kjend
 

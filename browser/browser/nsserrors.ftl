@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ein feil oppstod under tilkopling til { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Feilkode: { $error }
+
 psmerr-ssl-disabled = Kan ikkje kopla til trygt, fordi SSL-protokollen er slått av.
 psmerr-ssl2-disabled = Kan ikkje kople til trygt, fordi nettstaden brukar ein eldre, utrygg versjon av SSL-protokollen.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Du har motteke eit ugyldig sertifikat. Kontakt den ansvarlige for tenaren, eller e-postmottakaren, og gje dei følgande informasjon:
     
     Sertifikatet inneheld det same serienummeret som eit anna sertifikat som er utgjeve av denne sertifikatutgjevaren. Skaff eit nytt sertifikat med unikt serienummer.
+
 ssl-error-export-only-server = Klarte ikkje å kommunisere trygt. Motparten støttar ikkje sterk kryptering.
 ssl-error-us-only-server = Klarte ikkje å kommunisere trygt. Motparten krev ei sterk kryptering som ikkje er støtta.
 ssl-error-no-cypher-overlap = Kan ikkje kommunisere trygt med motparten: Har ingen felles krypteringsalgoritme.

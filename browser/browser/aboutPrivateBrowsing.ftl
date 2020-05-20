@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Les meir om <a data-l10n-name="learn-more">Privat nettlesing</a>.
 about-private-browsing-info-visited = besøkte sider
+
 privatebrowsingpage-open-private-window-label = Opne eit privat vindauge
     .accesskey = O
 about-private-browsing-info-notsaved = Når du surfar i eit privat vindauge, vil { -brand-short-name } <strong>ikkje lagre</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Du er ikkje i eit privat vindauge no.
 content-blocking-title = Innhaldsblokkering
 content-blocking-description = Enkelte nettsider brukar sporfølgjarar som kan overvake aktiviteten din på Internett. I private vindauge blokkerer { -brand-short-name } innhaldsblokkering automatisk mange sporfølgjarar som kan samle inn informasjon om nettlesaråtferda di.
 about-private-browsing-info-description = { -brand-short-name } ryddar søke- og nettlesarhistorikken din, når du avsluttar programmet eller når du lèt at alle private faner og vindauge. Sjølv om dette ikkje gjer deg anonym for nettstadar eller internettleverandørar, vil det gjere det lettare å behalde det du gjer på nettet privat frå nokon annan som brukar denne datamaskina.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

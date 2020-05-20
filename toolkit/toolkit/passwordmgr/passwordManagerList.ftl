@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Lat att
     .accesskey = L
+
 show-passwords =
     .label = Vis passorda
     .accesskey = V

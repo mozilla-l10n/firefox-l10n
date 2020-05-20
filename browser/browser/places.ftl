@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Opne i nytt privat vindauge
     .accesskey = n
+
 places-new-bookmark =
     .label = Nytt bokmerke…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Ny skiljelinje
     .accesskey = s
+
 places-view =
     .label = Vis
     .accesskey = i
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Etter dato og nettstad
     .accesskey = d
+
 places-history-search =
     .placeholder = Søkjehistorikk
 places-bookmarks-search =
     .placeholder = Søk i bokmerka
+
 places-delete-domain-data =
     .label = Gløym denne nettstaden
     .accesskey = G
