@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Тражено је да верујете новом сертификационом телу (СА).">
 <!ENTITY downloadCert.trustSSL "Веруј овом сертификационом телу (CA) да идентификује веб сајтова.">
 <!ENTITY downloadCert.trustEmail "Веруј овом сертификационом телу (CA) да идентификује е-поште корисника.">
-<!ENTITY downloadCert.trustObjSign "Веруј овом сертификационом телу (CA) да идентификује програмере.">
 <!ENTITY downloadCert.message3 "Пре указивања поверења овој компанији за било коју намену испитајте њен сертификат и њене полисе и процедуре (ако постоје).">
 <!ENTITY downloadCert.viewCert.label "Преглед">
 <!ENTITY downloadCert.viewCert.text "Испитај сертификат сертификационог тела">

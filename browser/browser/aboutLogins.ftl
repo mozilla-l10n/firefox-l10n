@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Преузмите на Google Play
 login-app-promo-apple =
     .alt = Преузмите на App Store-у
+
 login-filter =
     .placeholder = Претражи пријаве
+
 create-login-button = Направи нову пријаву
+
 fxaccounts-sign-in-text = Пронађите своје лозинке на свим својим уређајима
 fxaccounts-sign-in-button = Пријавите се у { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -108,16 +111,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Потврдите ваш идентитет да уредите сачувану пријаву.
+
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = уредите сачувану пријаву
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Потврдите ваш идентитет да откријете сачувану лозинку.
+
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = откријте сачувану лозинку
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Потврдите ваш идентитет да копирате сачувану лозинку.
+
 # This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = копирајте сачувану лозинку
@@ -152,9 +160,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Откажи
 confirmation-dialog-dismiss-button =
     .title = Откажи
+
 about-logins-confirm-remove-dialog-title = Уклонити ову пријаву?
 confirm-delete-dialog-message = Ова радња је неопозива.
 about-logins-confirm-remove-dialog-confirm-button = Уклони
+
 confirm-discard-changes-dialog-title = Одбацити несачуване измене?
 confirm-discard-changes-dialog-message = Све несачуване измене ће бити изгубљене.
 confirm-discard-changes-dialog-confirm-button = Одбаци
@@ -185,5 +195,6 @@ about-logins-vulnerable-alert-learn-more-link = Сазнајте више
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Унос { $loginTitle } са овим корисничким именом већ постоји. <a data-l10n-name="duplicate-link">Идите на постојећи унос?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Дошло је до грешке приликом покушаја чувања лозинке.

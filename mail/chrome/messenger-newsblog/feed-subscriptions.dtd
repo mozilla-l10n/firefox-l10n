@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL довода:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Унесите исправну адресу довода да бисте додали">
 <!ENTITY feedLocation2.placeholder   "Унесите исправну адресу довода">
 <!ENTITY locationValidate.label      "Провери исправност">
 <!ENTITY validateText.label          "Провери исправност и добави исправан урл.">

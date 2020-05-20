@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не може одредити да ли су доступна ажурирања. 
                                            Проверите да ли имате најновију верзију &brandShortName;-а са:">
-
+                                           
 <!ENTITY  finishedPage.title              "Ажурирање је спремно за инсталацију">
 <!ENTITY  finishedPage.text               "Ажурирање ће бити инсталирано при наредном покретању &brandShortName;-а. Можете 
                                            &brandShortName; рестартовати сада или да наставите са радом и то учините касније.">
@@ -72,6 +72,3 @@
                                            &brandShortName; сада, наставити са радом и рестартовати касније или одбити ово
                                           ажурирање.">
 
-<!ENTITY  update.details.label            "Детаљи">
-<!ENTITY  update.installedOn.label        "Инсталирано:">
-<!ENTITY  update.status.label             "Стање:">

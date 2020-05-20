@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = О
 appmenu-addon-private-browsing-message = Све нове екстензије које додате у { -brand-shorter-name } неће радити у приватним прозорима осим ако то не дозволите у подешавањима екстензије.
 appmenu-addon-private-browsing-learn-more = Научите како управљати подешавањима проширења
+    
 appmenu-new-tab-controlled =
     .label = Ваша страница новог језичка се променила.
     .buttonlabel = Задржи промене

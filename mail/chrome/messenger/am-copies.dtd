@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Копије &amp; фасцикле">
 <!ENTITY sendingPrefix.label "Када шаљем поруке, аутоматски: ">
 <!ENTITY fccMailFolder.label "Сачувај копију у:">

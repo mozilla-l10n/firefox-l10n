@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Приказ адресе уписане у траку за адресе">
+
 <!ENTITY printButton.label            "Штампање">
 <!ENTITY printButton.tooltip          "Штампај ову страницу">
 
@@ -288,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
+
 
 <!ENTITY searchItem.title             "Претрага">
 
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "ј">
 <!ENTITY manageUserContext.label          "Управљај контејнерима">
 <!ENTITY manageUserContext.accesskey      "У">
+
 <!ENTITY newNavigatorCmd.label        "Нови прозор">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
@@ -630,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Сачувај са услугом Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Сачувај страницу са услугом Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "ј">
 <!ENTITY saveLinkToPocketCmd.label    "Сачувај везу са услугом Pocket">
@@ -1022,6 +1026,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Затвори">
 

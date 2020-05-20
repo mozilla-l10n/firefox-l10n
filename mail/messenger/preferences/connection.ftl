@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Користите провајдер
     .accesskey = р
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (подразумевано)
     .tooltiptext = Користите подразумевани URL за решавање DNS преко HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Прилагођено
     .accesskey = П
     .tooltiptext = Унесите пожељни URL за решавање DNS преко HTTPS
+
 connection-dns-over-https-custom-label = Прилагођено

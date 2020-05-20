@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Опције архивирања">
 <!ENTITY archiveGranularityPrefix.label "Када се архивирају поруке, смести их у:">
 <!ENTITY archiveFlat.label "Једну фасциклу">

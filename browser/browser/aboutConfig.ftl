@@ -7,7 +7,9 @@ about-config-warning-title = Опасности следе!
 about-config-warning-text = Промена ових напредних подешавања може бити погубна по стабилност, безбедност и перформансе овог програма. Наставите само ако знате шта радите.
 about-config-warning-checkbox = Досађуј ми и следећи пут, молићу!
 about-config-warning-button = Прихватам ризик
+
 about-config2-title = Напредне конфигурације
+
 about-config-search-input =
     .placeholder = Претражи
 
@@ -22,16 +24,20 @@ about-config-intro-warning-button = Прихватите ризик и наст�
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Измена ових подешавања може деловати на { -brand-short-name } перформансе или безбедност
+
 about-config-page-title = Напредна подешавања
+
 about-config-search-input1 =
     .placeholder = Потражите назив подешавања
 about-config-show-all = Прикажи све
+
 about-config-pref-add = Додај
 about-config-pref-toggle = Промени стање
 about-config-pref-edit = Уреди
 about-config-pref-save = Сачувај
 about-config-pref-reset = Поново постави
 about-config-pref-delete = Обриши
+
 about-config-pref-add-button =
     .title = Додај
 about-config-pref-toggle-button =
