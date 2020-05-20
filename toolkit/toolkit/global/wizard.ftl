@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Quay lại
     .accesskey = L
+
 wizard-macos-button-next =
     .label = Tiếp tục
     .accesskey = i
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Tiến >
     .accesskey = T
+
 wizard-macos-button-finish =
     .label = Xong
 wizard-linux-button-finish =
     .label = Hoàn thành
 wizard-win-button-finish =
     .label = Hoàn thành
+
 wizard-macos-button-cancel =
     .label = Hủy bỏ
 wizard-linux-button-cancel =

@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Bắt buộc (không thể gửi thư trừ khi tất cả người nhận đều có chứng chỉ)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Dùng chứng thư này để mã hóa &amp; giải mã thư được gửi tới bạn:">
+
 <!ENTITY digitalSign.certificate.button "Chọn…">
 <!ENTITY digitalSign.certificate.accesskey "C">
 <!ENTITY digitalSign.certificate_clear.button "Xóa trắng">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Chọn chứng chỉ">
 <!ENTITY certPicker.info  "Chứng chỉ:">
 <!ENTITY certPicker.detailsLabel "Chi tiết của chứng chỉ được chọn:">
+

@@ -6,24 +6,33 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console
 
+### This file contains the entities needed for the 'edit' menu
+### It's currently only used for the Browser Console and Developer Toolbox
+
 editmenu-undo =
     .label = Hoàn tác
     .accesskey = U
+
 editmenu-redo =
     .label = Làm lại
     .accesskey = R
+
 editmenu-cut =
     .label = Cắt
     .accesskey = t
+
 editmenu-copy =
     .label = Sao chép
     .accesskey = C
+
 editmenu-paste =
     .label = Dán
     .accesskey = P
+
 editmenu-delete =
     .label = Xóa
     .accesskey = D
+
 editmenu-select-all =
     .label = Chọn tất cả
     .accesskey = A

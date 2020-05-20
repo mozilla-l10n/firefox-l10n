@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Soạn thảo &amp; xác định địa chỉ">
 <!ENTITY addressingGroupTitle.label "Địa chỉ">
 <!ENTITY addressingText.label      "Khi tìm địa chỉ:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Không có">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Soạn thảo">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

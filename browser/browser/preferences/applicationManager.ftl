@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Chi tiết ứng dụng
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Gỡ bỏ
     .accesskey = G
-app-manager-handle-webfeeds = Các ứng dụng sau có thể được dùng để xử lí Feed từ Web.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Các ứng dụng sau có thể được dùng để xử lí các liên kết { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Các ứng dụng sau có thể được dùng để xử lí nội dung { $type }.

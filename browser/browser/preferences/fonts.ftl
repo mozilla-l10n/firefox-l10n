@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Phông
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Phông cho
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Ả Rập
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Tỷ lệ
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Kích thước
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Kích thước
     .accesskey = h
+
 fonts-minsize = Cỡ phông tối thiểu
     .accesskey = o
+
 fonts-minsize-none =
     .label = Không
+
 fonts-allow-own =
     .label = Cho phép các trang web tự lựa chọn phông chữ riêng, thay vì sử dụng phông mà bạn chọn ở trên
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Mã hóa văn bản cho nội dung cũ
 fonts-languages-fallback-desc = Mã hóa văn bản này được dùng cho nội dung cũ mà thất bại trong việc khai báo mã hóa của nó.
+
 fonts-languages-fallback-label = Mã hóa văn bản dự phòng
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Mặc định cho bản địa hiện tại
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Việt
 fonts-languages-fallback-name-other =
     .label = Khác (gồm Tây Âu)
-fonts-very-large-warning-title = Cỡ phông tối thiểu lớn
-fonts-very-large-warning-message = Bạn đã chọn cỡ phông tối thiểu rất lớn (hơn 24 điểm ảnh). Điều này có thể gây khó khăn hoặc bất khả thi trong việc sử dụng trang cấu hình quan trọng như trang này.
-fonts-very-large-warning-accept = Giữ các thay đổi của tôi
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

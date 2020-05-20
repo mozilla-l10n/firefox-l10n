@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "T">
 <!ENTITY helpSafeMode.label     "Khởi động lại và vô hiệu hóa các tiện ích…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Ghi chú phát hành">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Có gì mới">
-<!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY openHelp.label "Nội dung trợ giúp">
-<!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Trợ giúp &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "Thông tin về &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "A">
 <!ENTITY helpSafeMode.stop.label     "Khởi động lại và kích hoạt các tiện ích">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Trợ giúp &brandShortName;">

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Bản sao &amp; thư mục">
 <!ENTITY sendingPrefix.label "Khi gửi thư, tự động: ">
 <!ENTITY fccMailFolder.label "Đặt một bản sao trong:">

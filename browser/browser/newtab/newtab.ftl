@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Tìm kiếm
     .aria-label = Tìm kiếm
+
 newtab-search-box-search-the-web-text = Tìm trên mạng
 newtab-search-box-search-the-web-input =
     .placeholder = Tìm trên mạng
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Sửa trang web hàng đầu
 newtab-topsites-title-label = Tiêu đề
 newtab-topsites-title-input =
     .placeholder = Nhập tiêu đề
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Nhập hoặc dán URL
 newtab-topsites-url-validation = Yêu cầu URL hợp lệ
+
 newtab-topsites-image-url-label = Hình ảnh Tuỳ chỉnh URL
 newtab-topsites-use-image-link = Sử dụng hình ảnh tùy chỉnh…
 newtab-topsites-image-validation = Không tải được hình ảnh. Hãy thử một URL khác.
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = Thao tác này không thể hoàn tác đư�
 newtab-menu-section-tooltip =
     .title = Mở bảng chọn
     .aria-label = Mở bảng chọn
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Gỡ bỏ
     .aria-label = Gỡ bỏ
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -132,6 +137,7 @@ newtab-label-removed-bookmark = Đã xóa dấu trang
 newtab-label-recommended = Xu hướng
 newtab-label-saved = Đã lưu vào { -pocket-brand-name }
 newtab-label-download = Đã tải xuống
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -169,10 +175,12 @@ newtab-section-header-pocket = Được đề xuất bởi { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Bắt đầu duyệt web và chúng tôi sẽ hiển thị một số bài báo, video, và các trang khác mà bạn vừa truy cập hoặc đã đánh dấu tại đây.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Bạn đã bắt kịp. Kiểm tra lại sau để biết thêm các câu chuyện hàng đầu từ { $provider }. Không muốn đợi? Chọn một chủ đề phổ biến để tìm thêm những câu chuyện tuyệt vời từ khắp nơi trên web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

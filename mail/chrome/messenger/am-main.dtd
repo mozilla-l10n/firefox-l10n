@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Cài đặt tài khoản">
 <!ENTITY accountName.label "Tên tài khoản:">
 <!ENTITY accountName.accesskey "n">

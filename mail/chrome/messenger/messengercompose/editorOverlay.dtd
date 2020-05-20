@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Chèn neo mới hoặc chỉnh sửa thuộc tính của neo được chọn">
 <!ENTITY TextColorButton.tooltip "Chọn màu chữ">
 <!ENTITY BackgroundColorButton.tooltip "Chọn màu nền">
-<!ENTITY throbber.tooltip "Mở trang chủ &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Truy cập trang chủ &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Chọn màu tô đậm văn bản">
 

@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "Các từ trong từ điển:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Thay thế">
-<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "Xóa">
 <!ENTITY RemoveButton.accessKey "e">
 

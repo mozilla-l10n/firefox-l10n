@@ -4,6 +4,8 @@
 
 <!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Tìm và thay thế">
 <!ENTITY findField.label "Tìm văn bản:">
 <!ENTITY findField.accesskey "n">
