@@ -52,3 +52,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = ഒടുവിലുള്ള താള്‍
+

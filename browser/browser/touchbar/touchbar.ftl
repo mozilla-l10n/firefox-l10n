@@ -17,3 +17,7 @@ reader-view = വായനയ്ക്കുള്ള കാഴ്ച
 open-location = തെരയൂ അല്ലെങ്കില്‍ വിലാസം നല്‍കൂ
 share = പങ്കിടുക
 close-window = ജാലകം അടയ്ക്കുക
+
+## Various categories of shortcuts for search.
+
+##

@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } കണ്ടെയ്നര്‍ പ്രഫറന്‍സുകള്‍
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = പേര്
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = കണ്ടെയ്നറിന്റെ പേര് ചേര്‍ക്കുക
+
 containers-icon-label = ഐക്കൺ
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = നിറം
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = ചെയ്തു
     .accesskey = D
+
 containers-color-blue =
     .label = നീല
 containers-color-turquoise =
@@ -52,6 +60,7 @@ containers-color-pink =
     .label = പിങ്ക്
 containers-color-purple =
     .label = പര്‍പ്പിള്‍
+
 containers-icon-fingerprint =
     .label = വിരലടയാളം
 containers-icon-briefcase =

@@ -21,23 +21,17 @@
 <!ENTITY firstrun_data_message "കുറച്ച് ഡേറ്റ, കൂടുതല്‍ നീക്കിയിരുപ്പ്‌">
 <!ENTITY firstrun_data_subtext2 "ഡേറ്റാ ഉപയോഗം കുറക്കാന്‍ നിങ്ങള്‍ സന്ദര്‍ശിക്കുന്ന സൈറ്റുകളില്‍ ചിത്രങ്ങള്‍ കാണിക്കാതിരിക്കുക">
 <!ENTITY firstrun_sync_title "സിന്‍ക്">
-<!ENTITY updatednewfirstrun_sync_title "അക്കൗണ്ട്">
-<!ENTITY firstrun_sync_message2 "അവസാനിപ്പിച്ചിടത്തു നിന്ന് തുടങ്ങുക.">
 <!ENTITY firstrun_sync_message3 "നിങ്ങളുടെ ഫോണിലേക്ക് അടയാളക്കുറിപ്പുകളും, ചരിത്രവും, രഹസ്യവാക്കുകളും സമന്വയിപ്പിക്കുക.">
 <!ENTITY firstrun_sync_subtext2 "നിങ്ങൾ &brandShortName; ൽ നിങ്ങൾ സംരക്ഷിച്ച ബുക്ക്മാർക്കുകൾ, പാസ്വേഡുകൾ, മറ്റ് കാര്യങ്ങൾ എന്നിവ കണ്ടെത്തുന്നതിന് സിങ്ക് ഉപയോഗിക്കുക; നിങ്ങളുടെ എല്ലാ ഉപകരണങ്ങളിലും.">
 <!ENTITY newfirstrun_sync_subtext "നിങ്ങളുടെ മൊബൈലില്‍ സുക്ഷിക്കുന്ന കാര്യങ്ങള്‍ ഫയര്‍ഫോക്സ് ഡെസ്ക്ടോപ്പില്‍ സുരക്ഷിതമായും സ്വകാര്യമായും സമന്വയിപ്പിക്കു.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName; പരമാവധി പ്രയോജനപ്പെടുത്തുന്നതിന് നിങ്ങളുടെ അക്കൗണ്ടിലേക്ക് പ്രവേശിക്കുക">
-<!ENTITY firstrun_signin_message "കണക്റ്റഡായിരിക്കു, ആരംഭിക്കൂ">
 <!ENTITY firstrun_sendtab_title "ടാബ് അയയ്ക്കുക">
 <!ENTITY firstrun_sendtab_message "മൊബൈലിൽ നിന്ന് ഡെസ്ക്ടോപ്പിലേക്ക് ടാബുകൾ പങ്കിടുക - ഉടനടി.">
-<!ENTITY firstrun_signin_button "സിന്‍കിലേയ്ക്ക് പ്രവേശിക്കൂ">
-<!ENTITY newfirstrun_signin_button "സമന്വയം പ്രവര്‍ത്തിപ്പിക്കുക">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; ലേക്ക് പ്രവേശിക്കുക">
+<!ENTITY firstrun_signin_message "കണക്റ്റഡായിരിക്കു, ആരംഭിക്കൂ">
 <!ENTITY onboard_start_button_browser "ബ്രൌസിങ് തുടങ്ങാം">
 <!ENTITY firstrun_button_notnow "ഇപ്പോള്‍ വേണ്ട">
 <!ENTITY firstrun_button_next "തുടരുക">
 
-<!ENTITY firstrun_signin_button2 "പ്രവേശിക്കുക">
+<!ENTITY firstrun_signup_button "അംഗത്വമെടുക്കുക">
 
 <!ENTITY firstrun_tabqueue_title "കണ്ണികള്‍">
 
@@ -49,8 +43,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "നിങ്ങള്‍">
 <!ENTITY firstrun_account_message "&brandShortName; മറ്റൊരു ഉപകരണത്തിലുണ്ടോ?">
-
-<!ENTITY firstrun_signup_button "അംഗത്വമെടുക്കുക">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; ന്‍റെ ഈ ലളിതമാക്കിയ പതിപ്പ് വഴി സുരക്ഷിതമായും നിയന്ത്രണത്തിലായും തുടരൂ.">
 
@@ -481,14 +473,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; പ്രദേശ സേവനം പ്രവര്‍ത്തിക്കുന്നു">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "തനിയെയുള്ള പുതുക്കലുകള്‍">
-<!ENTITY pref_update_autodownload_wifi "വൈ-ഫൈ വഴി മാത്രം">
-<!ENTITY pref_update_autodownload_never "ഒരിക്കലുമില്ല">
-<!ENTITY pref_update_autodownload_always "എപ്പോഴും">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "സഹായം">
 
@@ -755,25 +739,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ഓര്‍മ്മക്കുറിപ്പുകളും നാൾവഴിയും">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; നായുള്ള പുതുക്കലുകള്‍ ലഭ്യമാണ്">
-<!ENTITY updater_start_select2 "ഡൗണ്‍ലോഡ് ചെയ്യാൻ തൊടുക">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; ഡൌണ്‍ലോഡ് ചെയ്യുന്നു">
-<!ENTITY updater_downloading_title_failed2 "ഡൌണ്‍ലോഡ് പരാജയപ്പെട്ടു">
-<!ENTITY updater_downloading_select2 "ഡൗൺലോഡ് ചെയ്തു കഴിഞ്ഞാൽ നവീകരണങ്ങൾ പ്രയോഗിക്കാൻ തൊടുക">
-<!ENTITY updater_downloading_retry2 "വീണ്ടു ശ്രമിക്കാൻ തൊടുക">
-
-<!ENTITY updater_apply_title3 "&brandShortName; നുള്ള പുതുക്കലുകള്‍ ഡൌണ്‍ലോഡ് ചെയ്തു">
-<!ENTITY updater_apply_select3 "ഇൻസ്റ്റാൾ ചെയ്യുന്നതിനായി ടാപ് ചെയ്യൂ">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "ഫയലുകളും പുതുക്കലുകളും ഡൗണ്‍ലോഡ് ചെയ്യാന്‍ &brandShortName; എന്നതിനു സ്റ്റോറേജ് ഉപയോഗിക്കാന്‍ അനുവാദം നല്‍കൂ.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "അനുവദിക്കുക">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "പുതിയ ഗസ്റ്റ് സെഷന്‍">
 <!ENTITY exit_guest_session "ഗസ്റ്റ് സെഷനില്‍ നിന്നും പറത്തുകടക്കുക">
@@ -889,7 +854,6 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "&brandShortName; ലേക്കു സ്വാഗതം">
 <!ENTITY activity_stream_signin_description "നിങ്ങളുടെ ഫയർഫോക്സ് അക്കൗണ്ട് ഉപയോഗിച്ച് ഓർമ്മക്കുറിപ്പുകളും രഹസ്യവാക്കുകളും മറ്റും സമന്വയിപ്പിക്കുക.">
-<!ENTITY activity_stream_signin_button "പ്രവേശിക്കുക">
 
 <!ENTITY activity_stream_signup_button "അംഗത്വമെടുക്കുക">
 <!ENTITY activity_stream_signin_prompt "നിലവിൽ ഒരു അക്കൗണ്ട് ഉണ്ടോ?">
@@ -953,7 +917,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "ശബ്ദവും ചലച്ചിത്രവും">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; പൊടിക്കയ്യുകൾ">
-<!ENTITY updater_notification_channel "ആപ്പ് പുതുക്കലുകൾ">
 <!ENTITY synced_tabs_notification_channel "സിങ്ക് ചെയ്ത ടാബുകൾ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

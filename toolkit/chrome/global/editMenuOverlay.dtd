@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "എല്ലാം തെരഞ്ഞെടുക്കുക">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "കണ്ടെത്തുക ">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

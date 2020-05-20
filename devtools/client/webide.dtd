@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "റണ്‍ ടൈം വിവരം">
 
-<!ENTITY runtimeMenu_showMonitor_label "മോണിറ്റര്‍">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "ഡിവൈസ് മുന്‍ഗണനകള്‍">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ഡിവൈസ് സജ്ജീകരണങ്ങള്‍">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "ആപ്പ് തുറക്കുക">
+
 <!ENTITY runtimeButton_label "റണ്‍ടൈം തെരഞ്ഞെടുക്കുക">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "ടാബുകള്‍">
 <!ENTITY runtimePanel_usb "യുഎസ്ബി ഡിവൈസുകള്‍">
 <!ENTITY runtimePanel_wifi "വൈഫൈ ഡിവൈസുകള്‍">
-<!ENTITY runtimePanel_simulator "സിമുലേറ്ററുകള്‍">
 <!ENTITY runtimePanel_other "വേറെ">
-<!ENTITY runtimePanel_installsimulator "സിമുലേറ്റര്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
-<!ENTITY runtimePanel_noadbhelper "എഡിബി സഹായി ഇന്‍സ്റ്റോള്‍ ചെയ്യുക">
 <!ENTITY runtimePanel_nousbdevice "നിങ്ങളുടെ ഡിവൈസ് കാണുന്നില്ലേ?">
 
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "ടെംപ്ലേറ്റ് തെരഞ്ഞെടുക്കുക">
 <!ENTITY newAppLoadingTemplate "ടെംപ്ലേറ്റ് ലഭ്യമാക്കുന്നു…">
 <!ENTITY newAppProjectName "പ്രോജെക്റ്റ് പേരു്:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "റണ്‍ ടൈം വിവരം">
-<!ENTITY runtimedetails_adbIsRoot "ADB റൂട്ടാകുന്നു:">
-<!ENTITY runtimedetails_summonADBRoot "റൂട്ട് ഡിവൈസ്">
-<!ENTITY runtimedetails_ADBRootWarning "(പൂട്ടിയിട്ടില്ലാത്ത bootloader ആവശ്യമാകുന്നു)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "പരിമിതികളില്ലാത്ത DevTools മുന്‍ഗണനകള്‍:">
-<!ENTITY runtimedetails_requestPrivileges "കൂടുതല്‍ മുന്‍ഗണനകള്‍ക്കായി ആവശ്യപ്പെടുക">
-<!ENTITY runtimedetails_privilegesWarning "(ഡിവൈസ് റീബൂട്ട് ചെയ്യുന്നു. റൂട്ട് അനുമതി ആവശ്യമാണു്.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "ബൂളിയന്‍">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "പുതിയ സജ്ജീകരണം ചേര്‍ക്കുക">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "മോണിറ്റര്‍">
-<!ENTITY monitor_help "സഹായം ">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,18 +166,6 @@
 
 <!ENTITY logs_title "പാക്കേജിങിനു് മുമ്പുള്ള കമാന്‍ഡ് ലോഗുകള്‍">
 <!-- Simulator Options -->
-
-<!ENTITY simulator_title "സിമുലേറ്റര്‍ ഉപാധി">
-<!ENTITY simulator_remove "സിമുലേറ്റർ ഇല്ലാതാക്കുക">
-<!ENTITY simulator_reset "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
-
-<!ENTITY simulator_software "സോഫ്റ്റ്‌വെയർ">
-<!ENTITY simulator_version "പതിപ്പു്">
-<!ENTITY simulator_profile "പ്രൊഫൈല്‍">
-<!ENTITY simulator_hardware "ഹാര്‍ഡ്‌വെയര്‍">
-<!ENTITY simulator_device "ഉപകരണം">
-<!ENTITY simulator_screenSize "സ്ക്രീന്‍">
-<!ENTITY simulator_pixelRatio "പിക്സൽ അനുപാതം">
 
 
 

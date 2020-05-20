@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName;-നെപ്പറ്റി">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; പരീക്ഷണാര്‍ത്ഥമുള്ളതാകുന്നു, അതിനാല്‍ അസ്ഥിരവുമാകുന്നു.">
-<!ENTITY aboutPage.telemetryStart               "പ്രവര്‍ത്തനം, ഹാര്‍ഡ്‌വെയര്‍, ഉപയോഗം എന്നിവയപ്പെറ്റിയുള്ള വിവരങ്ങള്‍ ഇതു് സ്വയമായി അയച്ചു്,">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "&brandShortName; മെച്ചപ്പെടുത്തുവാന്‍ സഹായിയ്ക്കുന്നു.">
 <!ENTITY aboutPage.checkForUpdates.link         "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കുക >>">
 <!ENTITY aboutPage.checkForUpdates.checking     "പരിഷ്കരണങ്ങള്‍ തെരയുന്നു...">
 <!ENTITY aboutPage.checkForUpdates.none         "പരിഷ്കരണങ്ങള്‍ ലഭ്യമല്ല">

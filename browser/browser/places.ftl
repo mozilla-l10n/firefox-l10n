@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = കണ്ണി പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക
     .accesskey = P
+
 places-new-bookmark =
     .label = പുതിയ അടയാളക്കുറിപ്പു്…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = പുതിയ വിടവടയാളം
     .accesskey = S
+
 places-view =
     .label = കാഴ്ച
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = തീയതിയും സൈറ്റും അനുസരിച്ചു്
     .accesskey = t
+
 places-history-search =
     .placeholder = ഹിസ്റ്ററി സെര്‍ച്ച് ചെയ്യുക
 places-bookmarks-search =
     .placeholder = ബുക്ക്മാര്‍ക്സ് സെര്‍ച്ച് ചെയ്യുക
+
 places-delete-domain-data =
     .label = ഈ സൈറ്റ് സംബന്ധിച്ചുള്ള വിവരങ്ങള്‍ ഉപേക്ഷിക്കുക
     .accesskey = F

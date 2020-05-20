@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "നിങ്ങള്‍ ഒരു പുതിയ സര്‍ട്ടിഫിക്കേറ്റ് അഥോറിറ്റിയെ (CA) വിശ്വസിക്കുവാന്‍ ആവശ്യപ്പെട്ടിരിക്കുന്നു.">
 <!ENTITY downloadCert.trustSSL "വെബ്‌ സൈറ്റുകള്‍ തിരിച്ചറിയുന്നതിനായി ഈ CA വിശ്വസിക്കുക">
 <!ENTITY downloadCert.trustEmail "ഈമെയില്‍ യൂസര്‍മാരെ തിരിച്ചറിയുന്നതിനായി ഈ CA വിശ്വസിക്കുക ">
-<!ENTITY downloadCert.trustObjSign "സോഫ്റ്റ്‌വെയര്‍ ഡെവലപ്പര്‍മാരെ തിരിച്ചറിയുന്നതിനായി ഈ CA വിശ്വസിക്കുക">
 <!ENTITY downloadCert.message3 "ഈ CA വിശ്വസിക്കുന്നതിനു് മുമ്പു്, അതിന്റെ സര്‍ട്ടിഫിക്കേറ്റും അതിനുള്ള പോളിസിയും പ്രക്രിയകളും പരിശോധിക്കേണ്ടകാണു് (ലഭ്യമാണു് എങ്കില്‍).">
 <!ENTITY downloadCert.viewCert.label "കാണുക ">
 <!ENTITY downloadCert.viewCert.text "CA സര്‍ട്ടിഫിക്കേറ്റ് പരിശോധിക്കുക">

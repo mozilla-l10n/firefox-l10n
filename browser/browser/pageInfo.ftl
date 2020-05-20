@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 425px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = പകര്‍ത്തുക
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = എല്ലാം തെരഞ്ഞെടുക്കുക
     .accesskey = A
+
 general-tab =
     .label = പൊതുവായവ
     .accesskey = G
@@ -37,6 +40,7 @@ general-meta-name =
     .label = പേര്‌
 general-meta-content =
     .label = ഉള്ളടക്കം
+
 media-tab =
     .label = മീഡിയ
     .accesskey = M
@@ -66,11 +70,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = മീഡിയ പ്രിവ്യൂ
+
 perm-tab =
     .label = ആനുകൂല്യങ്ങള്‍
     .accesskey = P
 permissions-for =
     .value = ആനുകൂല്യങ്ങള്‍:
+
 security-tab =
     .label = സുരക്ഷ
     .accesskey = S
@@ -91,17 +97,22 @@ security-view-identity-validity =
     .value = കാലഹരണപ്പെടുന്നത്:
 security-view-privacy =
     .value = സ്വകാര്യതയും നാള്‍വഴിയും
+
 security-view-privacy-history-value = ഇതിനു് മുമ്പു് ഈ വെബ് സൈറ്റ് സന്ദര്‍ശിച്ചിട്ടുണ്ടോ?
 security-view-privacy-sitedata-value = ഈ വെബ്സൈറ്റ് എന്റെ കമ്പ്യൂട്ടറിൽ വിവരങ്ങൾ സൂക്ഷിക്കുന്നുണ്ടോ?
+
 security-view-privacy-clearsitedata =
     .label = കുക്കികളും സൈറ്റ് ഡാറ്റയും മായ്ക്കുക
     .accesskey = C
+
 security-view-privacy-passwords-value = ഈ വെബ് സൈറ്റിനു് വേണ്ടി രഹസ്യവാക്കുകള്‍ സൂക്ഷിച്ചിട്ടുണ്ടോ?
+
 security-view-privacy-viewpasswords =
     .label = കമ്പ്യൂട്ടറില്‍ സൂക്ഷിച്ചിട്ടുള്ള രഹസ്യവാക്കുകള്‍ കാണുക
     .accesskey = w
 security-view-technical =
     .value = സാങ്കേതിക വിശദാംശങ്ങള്‍
+
 help-button =
     .label = സഹായം
 
@@ -113,8 +124,10 @@ help-button =
 
 security-site-data-cookies = ഉവ്വ്, കുക്കികളും സൈറ്റ് ഡാറ്റയുടെ { $value } { $unit } ഉം
 security-site-data-only = അതെ, സൈറ്റ് ഡാറ്റയുടെ { $value } { $unit }
+
 security-site-data-cookies-only = അതെ, കുക്കികൾ
 security-site-data-no = അല്ല
+
 image-size-unknown = അറിയില്ലാത്തത്‌
 not-set-verified-by = വ്യക്തമാക്കിയിട്ടില്ല
 page-info-not-specified =
@@ -134,6 +147,7 @@ media-video = വീഡിയോ
 media-audio = ഓഡിയോ
 saved-passwords-yes = ഉവ്വു്
 saved-passwords-no = ഇല്ല
+
 no-page-title =
     .value = തലക്കെട്ട്‌ ഇല്ലാത്ത താള്‍
 general-quirks-mode =
@@ -149,12 +163,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = സ്വതവേയുള്ളതു് ഉപയോഗിക്കുക
 security-no-visits = ഇല്ല
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ഇമേജ്
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -164,17 +180,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px ആയി സ്കെയില്‍ ചെയ്തിരിക്കുന്നു)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -182,6 +201,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website }-ല്‍ നിന്നുള്ള ഇമേജുകള്‍ തടയുക
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

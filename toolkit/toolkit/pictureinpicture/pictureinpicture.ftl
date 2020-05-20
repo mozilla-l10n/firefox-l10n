@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = തല്‍ക്കാലത്തേക്കു് നിര്‍ത്തുക
 pictureinpicture-play =
     .aria-label = പ്ലെ ചെയ്യുക
+
 pictureinpicture-mute =
     .aria-label = നിശബ്ദമാക്കുക
 pictureinpicture-unmute =
     .aria-label = ശബ്ദം വയ്ക്കുക
+
