@@ -7,7 +7,9 @@ about-config-warning-title = Hemen dragoiak daude!
 about-config-warning-text = Ezarpen aurreratu hauek aldatzea kaltegarria izan daiteke aplikazio honen egonkortasun, segurtasun eta errendimenduarentzat. Zertan ari zaren baldin badakizu jarraitu behar zenuke soilik.
 about-config-warning-checkbox = Abisatu hurrengoan ere, mesedez!
 about-config-warning-button = Arriskua onartzen dut
+
 about-config2-title = Konfigurazio aurreratuak
+
 about-config-search-input =
     .placeholder = Bilatu
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Onartu arriskua eta jarraitu
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Hobespen hauek aldatzeak { -brand-short-name }(r)en errendimendu edo segurtasunean eragin lezake.
+
 about-config-page-title = Hobespen aurreratuak
+
 about-config-search-input1 =
     .placeholder = Bilatu hobespen-izena
 about-config-show-all = Erakutsi denak
+
 about-config-pref-add = Gehitu
 about-config-pref-toggle = Txandakatu
 about-config-pref-edit = Editatu
 about-config-pref-save = Gorde
 about-config-pref-reset = Berrezarri
 about-config-pref-delete = Ezabatu
+
 about-config-pref-add-button =
     .title = Gehitu
 about-config-pref-toggle-button =

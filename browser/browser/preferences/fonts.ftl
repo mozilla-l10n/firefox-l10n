@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Letra-tipoak
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Letra-tipoa
     .accesskey = r
+
 fonts-langgroup-arabic =
     .label = Arabiera
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportzionala
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans-serif
+
 fonts-proportional-size = Tamaina
     .accesskey = T
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Tarte bakarrekoa
     .accesskey = e
+
 fonts-monospace-size = Tamaina
     .accesskey = a
+
 fonts-minsize = Gutxieneko letra tamaina
     .accesskey = x
+
 fonts-minsize-none =
     .label = Ezer ez
+
 fonts-allow-own =
     .label = Baimendu orriak beraien letra-tipoak aukeratzea goiko nire aukeren ordez
     .accesskey = B
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Legatu-edukiarentzat karaktere-kodeketa
 fonts-languages-fallback-desc = Testu-kodeketa hau kodeketa deklaratzen ez duen legatu-edukiarentzat erabiltzen da.
+
 fonts-languages-fallback-label = Testu-kodeketa lehenetsia
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Uneko hizkuntzaren lehenetsia
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamdarra
 fonts-languages-fallback-name-other =
     .label = Bestelakoa (Europa mendebaldekoak barne)
-fonts-very-large-warning-title = Letra-tipoaren tamaina minimo handia
-fonts-very-large-warning-message = Letra-tipoaren tamaina minimo oso handia hautatu duzu (24 pixel baino gehiago). Honen eraginez, honen tankerako zenbait konfigurazio-orri garrantzitsu erabiltzeko zailak edo ezinezkoak gerta daitezke.
-fonts-very-large-warning-accept = Mantendu nire aldaketak halere
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

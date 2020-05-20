@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "o">
 <!ENTITY exitFullScreenCmd.label "Irten pantaila osotik">
 <!ENTITY exitFullScreenCmd.accesskey "p">
+
 <!ENTITY fullScreenCmd.label "Pantaila osoa">
 <!ENTITY fullScreenCmd.accesskey "P">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Egiaztatu zure kontua">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Txikitu">
 <!ENTITY fullScreenRestore.tooltip "Berreskuratu">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Kontuaren ezarpenak">
 <!ENTITY fxa.menu.manageAccount2.label "Kudeatu kontua">
 <!ENTITY fxa.menu.signOut.label "Amaitu saioa…">
-<!ENTITY fxa.menu.deviceSettings.label "Gailuaren ezarpenak">
 <!ENTITY fxa.menu.setupSync.label "Konfiguratu &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "G">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Joan kokapen-barrako helbidera">
+
 <!ENTITY printButton.label            "Inprimatu">
 <!ENTITY printButton.tooltip          "Inprimatu orri hau">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
+
 
 <!ENTITY searchItem.title             "Bilatu">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "E">
 <!ENTITY manageUserContext.label          "Kudeatu edukiontziak">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Leiho berria">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "L">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Gehiago">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Idatzi bilaketa edo helbidea">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Kopiatu lotura">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Gorde Pocket-en">
+
 <!ENTITY saveToPocketCmd.label        "Gorde orria Pocket-en">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Gorde lotura Pocket-en">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Konexio segurua">
 <!ENTITY identity.connectionNotSecure "Konexioa ez da segurua">
 
-<!ENTITY identity.connectionSecure3 "Konexio segurua">
-<!ENTITY identity.connectionNotSecure2 "Konexio ez-segurua">
-<!ENTITY identity.connectionNotSecureSecurityView "Ez zaude modu seguruan konektatuta gune honetara.">
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
 <!ENTITY identity.connectionVerified2 "Modu seguruan zaude konektatuta gune honetara. Arduraduna:">
-<!ENTITY identity.connectionVerified3 "Modu seguruan zaude konektatuta gune honetara.">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
 <!ENTITY identity.extensionPage "Orri hau gehigarri batetik kargatu da.">
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!ENTITY identity.customRoot "Mozillak onetsi gabeko ziurtagiri-jaulkitzaile batek egiaztatu du konexioa.">
-
-<!ENTITY identity.evOwnerLabel2 "Ziurtagiria honi jaulkia:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;(e)k seguruak ez diren orri honetako zatiak blokeatu ditu.">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Baimenak">
 
-<!ENTITY identity.permissions3 "Baimenak">
 <!ENTITY identity.permissionsEmpty "Ez diozu gune honi baimen berezirik eman.">
 <!ENTITY identity.permissionsReloadHint "Agian orria berritu beharko duzu aldaketek eragina izan dezaten.">
 <!ENTITY identity.permissionsPreferences.tooltip "Ireki baimenen hobespenak">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "44em">
+
 
 <!ENTITY uiTour.infoPanel.close "Itxi">
 

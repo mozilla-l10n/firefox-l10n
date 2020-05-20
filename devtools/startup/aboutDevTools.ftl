@@ -13,6 +13,7 @@ enable-common-message = Zure nabigatzailearen gaineko kontrol gehiago emateko, F
 enable-learn-more-link = Garatzaile-tresnei buruzko argibide gehiago
 enable-enable-button = Gaitu garatzaile-tresnak
 enable-close-button = Itxi fitxa hau
+
 welcome-title = Ongi etorri Firefoxen garapen-tresnetara!
 newsletter-title = Mozillako garatzaileen buletina
 newsletter-message = Jaso garatzaileen berriak, trikimailuak eta baliabideak zuzenean zure sarrera-ontzian.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Ados nago Mozillak nire informazioa erabiltzea <a dat
 newsletter-subscribe-button = Harpidetu
 newsletter-thanks-title = Eskerrik asko!
 newsletter-thanks-message = Ez baduzu inoiz berretsi Mozillarekin lotutako buletin baterako harpidetzarik, orain egin beharko duzu. Begiratu zure sarrera-ontzian edo zabor-postan gure mezua aurkitzeko.
+
 footer-title = Firefox Developer Edition
 footer-message = Garatzaile-tresnak baino zerbait gehiagoren bila? Begiratu preseski garatzaile eta lan-fluxu modernoentzat eraikitako Firefox nabigatzailea.
 footer-learn-more-link = Argibide gehiago
+
 features-learn-more = Argibide gehiago
 features-inspector-title = Ikuskatzailea
 features-inspector-desc = Ikuskatu eta birfindu kodea diseinu pixel-perfektuak sortzeko. <a data-l10n-name="learn-more">{ features-learn-more }</a>

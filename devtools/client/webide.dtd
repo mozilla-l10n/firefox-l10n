@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "B">
 
 <!ENTITY projectButton_label "Ireki aplikazioa">
+
 <!ENTITY runtimeButton_label "Hautatu exekuzio-ingurunea">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB gailuak">
 <!ENTITY runtimePanel_wifi "Wi-Fi gailuak">
 <!ENTITY runtimePanel_other "Bestelakoak">
-<!ENTITY runtimePanel_noadbhelper "Instalatu ADB laguntzailea">
 <!ENTITY runtimePanel_nousbdevice "Ezin duzu zure gailua ikusi?">
 <!ENTITY runtimePanel_refreshDevices_label "Berritu gailuak">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Exekuzio-ingurunearen informazioa">
-<!ENTITY runtimedetails_adbIsRoot "ADB erroa da:">
-<!ENTITY runtimedetails_summonADBRoot "erro-gailua">
-<!ENTITY runtimedetails_ADBRootWarning "(desblokeatutako abio-kargatzailea behar du)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Garatzaile-tresnen mugarik gabeko pribilegioak: ">
-<!ENTITY runtimedetails_requestPrivileges "eskatu pribilegio gehiago">
-<!ENTITY runtimedetails_privilegesWarning "(Gailua berrabiaraziko du. Erro-atzipena behar du)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolearra">

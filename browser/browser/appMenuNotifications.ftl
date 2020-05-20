@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = u
 appmenu-addon-private-browsing-message = Ezarpenetan baimendu ezean, { -brand-shorter-name }(e)ra gehitutako hedapen berriak ez dira leiho pribatuetan ibiliko.
 appmenu-addon-private-browsing-learn-more = Ikasi nola kudeatu hedapenen ezarpenak.
+    
 appmenu-new-tab-controlled =
     .label = Zure fitxa berria aldatu egin da.
     .buttonlabel = Mantendu aldaketak

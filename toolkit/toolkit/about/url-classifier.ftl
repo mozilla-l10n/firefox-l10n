@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Nabigatze seguruko erregistro-moduluak
 url-classifier-debug-modules = Uneko erregistro-moduluak
 url-classifier-debug-sbjs-modules = Nabigatze seguruko JS erregistroa
 url-classifier-debug-file = Uneko erregistro-fitxategia
+
 url-classifier-trigger-update = Abiarazi eguneraketa
 url-classifier-not-available = E/E
 url-classifier-disable-sbjs-log = Desgaitu nabigatze seguruko JS erregistroa

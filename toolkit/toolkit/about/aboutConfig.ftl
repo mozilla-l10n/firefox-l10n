@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Arriskua onartzen dut!
 config-about-warning-checkbox =
     .label = Erakutsi ohar hau hurrengoan
+
 config-search-prefs =
     .value = Bilatu:
     .accesskey = B
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopiatu
     .accesskey = K
+
 config-copy-name =
     .label = Kopiatu izena
     .accesskey = n
+
 config-copy-value =
     .label = Kopiatu balioa
     .accesskey = b
+
 config-modify =
     .label = Aldatu
     .accesskey = A
+
 config-toggle =
     .label = Txandakatu
     .accesskey = T
+
 config-reset =
     .label = Berrezarri
     .accesskey = r
+
 config-new =
     .label = Berria
     .accesskey = B
+
 config-string =
     .label = Katea
     .accesskey = K
+
 config-integer =
     .label = Osoko zenbakia
     .accesskey = O
+
 config-boolean =
     .label = Boolearra
     .accesskey = B
+
 config-default = lehenetsia
 config-modified = aldatuta
 config-locked = blokeatua
+
 config-property-string = katea
 config-property-int = osokoa
 config-property-bool = boolearra
+
 config-new-prompt = Sartu hobespen-izena
+
 config-nan-title = Balio okerra
 config-nan-text = Sartutako testua ez da zenbaki bat.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = '{ $type }' motako balio berria
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Sartu '{ $type }' motako balioa

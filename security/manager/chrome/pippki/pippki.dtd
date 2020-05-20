@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Autoritate ziurtagiri (AZ) berri batez fidatzeko eskatu zaizu.">
 <!ENTITY downloadCert.trustSSL "Fidatu AZ honetaz webguneak identifikatzeko.">
 <!ENTITY downloadCert.trustEmail "Fidatu AZ honetaz e-posta erabiltzaileak identifikatzeko.">
-<!ENTITY downloadCert.trustObjSign "Fidatu AZ honetaz software garatzaileak identifikatzeko.">
 <!ENTITY downloadCert.message3 "Edozein xedetarako AZ honetaz fidatu aurretik, bere ziurtagiria eta bere gidalerroak eta prozedurak (eskuragarri badaude) aztertu behar dituzu.">
 <!ENTITY downloadCert.viewCert.label "Ikusi">
 <!ENTITY downloadCert.viewCert.text "Aztertu AZren ziurtagiriak">

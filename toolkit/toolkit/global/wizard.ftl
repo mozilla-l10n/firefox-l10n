@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Atzera
     .accesskey = A
+
 wizard-macos-button-next =
     .label = Jarraitu
     .accesskey = J
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Hurrengoa >
     .accesskey = H
+
 wizard-macos-button-finish =
     .label = Eginda
 wizard-linux-button-finish =
     .label = Amaitu
 wizard-win-button-finish =
     .label = Amaitu
+
 wizard-macos-button-cancel =
     .label = Utzi
 wizard-linux-button-cancel =

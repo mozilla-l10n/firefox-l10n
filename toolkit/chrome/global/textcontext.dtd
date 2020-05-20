@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Bete saio-hasierako informazioa">
 <!ENTITY fillLoginMenu.accesskey      "B">
-<!ENTITY fillGeneratedPassword.label  "Erabili modu seguruan sortutako pasahitz bat">
-<!ENTITY fillGeneratedPassword.accesskey "s">
-<!ENTITY useGeneratedPassword.label   "Erabili modu seguruan sortutako pasahitz bat…">
-<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Bete pasahitza">
 <!ENTITY fillPasswordMenu.accesskey   "B">
 <!ENTITY fillUsernameMenu.label       "Bete erabiltzaile-izena">

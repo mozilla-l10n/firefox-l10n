@@ -4,6 +4,8 @@
 
 <!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Bilatu eta ordeztu">
 <!ENTITY findField.label "Bilatu testua:">
 <!ENTITY findField.accesskey "B">
