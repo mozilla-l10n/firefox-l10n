@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Detalles do aplicativo
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Retirar
     .accesskey = R
-app-manager-handle-webfeeds = Os seguintes aplicativos poden xestionar Fontes web.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Os seguintes aplicativos poden xestionar Ligazóns { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Os seguintes aplicativos poden xestionar Contido { $type }.

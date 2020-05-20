@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Obteña máis información sobre <a data-l10n-name="learn-more">Navegación privada</a>.
 about-private-browsing-info-visited = as páxinas visitadas
+
 privatebrowsingpage-open-private-window-label = Abrir unha xanela privada
     .accesskey = p
 about-private-browsing-info-notsaved = Cando navega nunha xanela privada, { -brand-short-name } <strong>non garda</strong>:
@@ -20,3 +21,4 @@ about-private-browsing-note = A navegación privada <strong>non o fai anónimo</
 about-private-browsing-not-private = Actualmente non está nunha xanela privada.
 content-blocking-title = Bloqueo de contido
 content-blocking-description = Algúns sitios web usan elementos que poden facer un seguimento da súa actividade na Internet. Nas xanelas privadas, o bloqueo de contido de { -brand-short-name } bloquea automaticamente moitos elementos de seguimento que poden recoller información sobre a súa navegación.
+

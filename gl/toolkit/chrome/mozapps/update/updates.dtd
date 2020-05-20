@@ -50,7 +50,7 @@
                                            &brandShortName; tentará de novo descargando a actualización completa.">
 
 <!ENTITY  genericBackgroundError.label    "É imposíbel que &brandShortName; determine se hai unha actualización dispoñíbel. Asegúrese de que ten a última versión do &brandShortName; en:">
-
+                                           
 <!ENTITY  finishedPage.title              "Actualización pronta para ser instalada">
 <!ENTITY  finishedPage.text               "A actualización será instalada a próxima vez que se inicie &brandShortName;. Pode reiniciar
                                            &brandShortName; agora ou continuar a traballar e facelo máis tarde.">
@@ -66,6 +66,3 @@
                                            &brandShortName; agora, continuar a traballar e reiniciar máis tarde, ou rexeitar 
                                            esta actualización.">
 
-<!ENTITY  update.details.label            "Detalles">
-<!ENTITY  update.installedOn.label        "Instalada o:">
-<!ENTITY  update.status.label             "Estado:">

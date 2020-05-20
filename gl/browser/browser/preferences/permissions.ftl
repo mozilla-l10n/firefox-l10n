@@ -5,49 +5,61 @@
 permissions-window =
     .title = Excepcións
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Enderezo do sitio web
     .accesskey = d
+
 permissions-block =
     .label = Bloquear
     .accesskey = B
+
 permissions-session =
     .label = Permitir nesta sesión
     .accesskey = s
+
 permissions-allow =
     .label = Permitir
     .accesskey = P
+
 permissions-site-name =
     .label = Sitio web
+
 permissions-status =
     .label = Estado
+
 permissions-remove =
     .label = Retirar sitio web
     .accesskey = R
+
 permissions-remove-all =
     .label = Retirar todos os sitios web
     .accesskey = e
+
 permissions-button-cancel =
     .label = Cancelar
     .accesskey = C
+
 permissions-button-ok =
     .label = Gardar cambios
     .accesskey = b
+
 permissions-searchbox =
     .placeholder = Buscar sitio web
+
 permissions-capabilities-allow =
     .label = Permitir
 permissions-capabilities-block =
     .label = Bloquear
 permissions-capabilities-prompt =
     .label = Preguntar sempre
+
 permissions-capabilities-listitem-allow =
     .value = Permitir
 permissions-capabilities-listitem-block =
     .value = Bloquear
-permissions-capabilities-listitem-allow-first-party =
-    .value = Permitir só as primeiras
 permissions-capabilities-listitem-allow-session =
     .value = Permitir nesta sesión
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = Introduza un nome de servidor válido
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Excepcións - Protección contra o seguimento
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Desactivou a protección contra seguimentos nestes sitios web.
 permissions-exceptions-content-blocking-window =
     .title = Excepcións - Bloqueo de contido
     .style = { permissions-window.style }
@@ -102,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Pode especificar que sitios web teñen permiso para a reprodución automática e cales non. Escriba o enderezo do sitio que quere xestionar e prema Bloquear ou Permitir.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +131,8 @@ permissions-site-location-desc = Os seguintes sitios web solicitaron acceder á 
 permissions-site-location-disable-label =
     .label = Bloquear novas peticións de acceso á localización
 permissions-site-location-disable-desc = Isto evitará que os sitios web non listados arriba soliciten permiso de acceso á localización. Bloquear o acceso á localización pode impedir o funcionamento dalgunhas características dos sitios web.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserir áncora con nome ou editar as propiedades das áncoras seleccionadas">
 <!ENTITY TextColorButton.tooltip "Escoller cor do texto">
 <!ENTITY BackgroundColorButton.tooltip "Escoller cor de fondo">
-<!ENTITY throbber.tooltip "Ir á páxina de inicio de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Escoller cor de realce do texto">
 
 <!-- Editor toolbar -->

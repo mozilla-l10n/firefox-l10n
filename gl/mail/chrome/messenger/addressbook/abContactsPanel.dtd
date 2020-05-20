@@ -4,20 +4,17 @@
 
 <!ENTITY addressbookPicker.label            "Axenda de enderezos:">
 <!ENTITY addressbookPicker.accesskey        "z">
-<!ENTITY searchInput.label                  "Buscar:">
-<!ENTITY searchInput.accesskey              "r">
 <!ENTITY SearchNameOrEmail.label            "Nome ou correo electrónico">
 
-<!ENTITY deleteAddrBookCard.label           "Eliminar">
-<!ENTITY deleteAddrBookCard.accesskey       "l">
-<!ENTITY addrBookCardProperties.label       "Propiedades">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Engadir no campo Para">
 <!ENTITY addtoToFieldMenu.accesskey         "a">
 <!ENTITY addtoCcFieldMenu.label             "Engadir no campo CC">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Engadir no campo CCO">
 <!ENTITY addtoBccFieldMenu.accesskey        "O">
+
+<!ENTITY deleteAddrBookCard.label           "Eliminar">
+<!ENTITY deleteAddrBookCard.accesskey       "l">
 
 <!ENTITY toButton.label                     "Engadir en Para:">
 <!ENTITY toButton.accesskey                 "a">

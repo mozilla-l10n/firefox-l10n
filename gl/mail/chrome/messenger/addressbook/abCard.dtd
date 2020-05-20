@@ -76,11 +76,8 @@
 <!ENTITY HomeWebPage.accesskey          "w">
 <!ENTITY Birthday.label                 "Aniversario:">
 <!ENTITY Birthday.accesskey             "n">
-<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Ano">
-<!ENTITY Or.value                       "ou">
 <!ENTITY Age.placeholder                "Idade">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Traballo">
 <!ENTITY Work.accesskey                 "l">
@@ -141,7 +138,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "f">
-<!ENTITY PhotoDesc.label                "Seleccione unha das seguintes:">
 <!ENTITY GenericPhoto.label             "Foto xenérica">
 <!ENTITY GenericPhoto.accesskey         "F">
 <!ENTITY DefaultPhoto.label             "Predeterminada">

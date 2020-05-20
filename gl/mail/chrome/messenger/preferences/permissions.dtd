@@ -21,6 +21,3 @@
 <!ENTITY allow.accesskey              "m">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "Pechar">
-<!ENTITY button.close.accesskey       "P">
-

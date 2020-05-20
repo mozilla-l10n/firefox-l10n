@@ -28,10 +28,6 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "As etiquetas poden utilizarse para categorizar e ordenar as mensaxes.">
-<!ENTITY addTagButton.label        "Engadir">
-<!ENTITY addTagButton.accesskey    "a">
-<!ENTITY editTagButton.label       "Editar">
-<!ENTITY editTagButton.accesskey   "E">
 <!ENTITY removeTagButton.label     "Eliminar">
 <!ENTITY removeTagButton.accesskey "m">
 

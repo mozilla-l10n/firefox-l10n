@@ -8,10 +8,13 @@ screenshots-save-visible-button = Gardar a parte visible
 screenshots-save-page-button = Gardar a páxina completa
 screenshots-download-button = Descargar
 screenshots-copy-button = Copiar
+
 screenshots-meta-key =
     { PLATFORM() ->
         [macos] ⌘
        *[other] Ctrl
     }
 screenshots-notification-link-copied-title = Copiouse a ligazón
+
 screenshots-notification-image-copied-title = Copiouse a captura
+

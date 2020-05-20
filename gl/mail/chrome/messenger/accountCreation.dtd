@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Configurar unha conta de correo existente">
+
 <!ENTITY name.label                      "O seu nome:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Nome e apelidos">

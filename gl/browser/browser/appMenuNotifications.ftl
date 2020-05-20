@@ -26,6 +26,7 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = n
 appmenu-update-restart-message = Despois dun reinicio rápido, { -brand-shorter-name } restaurará todas as súas xanelas e lapelas abertas que non están no modo de navegación privada.
 appmenu-addon-post-install-message = Xestione os seus complementos premendo <image data-l10n-name='addon-install-icon'></image> no menú <image data-l10n-name='addon-menu-icon'></image>.
+    
 appmenu-new-tab-controlled =
     .label = Cambiouse a súa nova lapela.
     .buttonlabel = Conservar cambios

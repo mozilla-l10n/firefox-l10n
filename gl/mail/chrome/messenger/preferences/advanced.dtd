@@ -67,8 +67,6 @@
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Buscar actualizacións, pero permitirme escoller se quero instalalas">
 <!ENTITY updateCheck.accesskey           "c">
-<!ENTITY updateManual.label              "Non buscar actualizacións (non recomendado: risco de seguranza)">
-<!ENTITY updateManual.accesskey          "N">
 <!ENTITY updateHistory.label             "Amosar o historial de actualizacións">
 <!ENTITY updateHistory.accesskey         "h">
 
@@ -113,3 +111,4 @@
 
 <!ENTITY viewSecurityDevices.label "Dispositivos de seguranza">
 <!ENTITY viewSecurityDevices.accesskey "s">
+

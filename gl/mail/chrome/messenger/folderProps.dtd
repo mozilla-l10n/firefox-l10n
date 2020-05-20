@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Eliminar todas excepto as máis recentes">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Eliminar sempre as mensaxes lidas (ignora as configuracións de antigüidade)">
 <!ENTITY retentionApplyToFlagged.label "Sempre manter mensaxes marcadas">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

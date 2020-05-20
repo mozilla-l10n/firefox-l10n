@@ -4,10 +4,13 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Anular o peche da lapela
+
 all-tabs-menu-new-user-context =
     .label = Nova lapela contedor
+
 all-tabs-menu-hidden-tabs =
     .label = Lapelas agochadas
+
 all-tabs-menu-manage-user-context =
     .label = Xestionar contedores
     .accesskey = o

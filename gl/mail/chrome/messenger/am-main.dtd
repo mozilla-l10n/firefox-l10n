@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Configuración da conta">
 <!ENTITY accountName.label "Nome da conta:">
 <!ENTITY accountName.accesskey "e">
@@ -40,3 +42,4 @@
 <!ENTITY smtpName.label "Servidor de saída (SMTP):">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Utilizar o servidor predefinido">
+

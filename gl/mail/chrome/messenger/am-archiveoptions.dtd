@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Opcións do arquivo">
 <!ENTITY archiveGranularityPrefix.label "Ao arquivar as mensaxes, gardalas en:">
 <!ENTITY archiveFlat.label "Nun so cartafol">

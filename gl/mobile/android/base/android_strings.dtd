@@ -18,10 +18,8 @@
 <!ENTITY firstrun_data_message "Aforre na conexión">
 <!ENTITY firstrun_data_subtext2 "Desactive as imaxes para consumir menos datos en cada sitio que visite.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message2 "Continúa onde o deixou.">
 <!ENTITY firstrun_sync_subtext2 "Use Sync para atopar os marcadores, contrasinais e outros elementos que garda no &brandShortName; noutros dispositivos.">
 <!ENTITY firstrun_signin_message "Conéctese e comece">
-<!ENTITY firstrun_signin_button "Acceda ao Sync">
 <!ENTITY  onboard_start_button_browser "Iniciar a navegación">
 <!ENTITY firstrun_button_notnow "Agora non">
 <!ENTITY firstrun_button_next "Seguinte">
@@ -63,6 +61,7 @@
 <!ENTITY  crash_restart_label "Reiniciar &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Buscar ou escribir o enderezo">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -290,10 +289,6 @@
 <!-- Localization note (pref_feature_tips_notification_summary): Description of a new toggleable setting in Settings-Notifications screen.
      Similar to the already existing "pref_whats_new_notification_summary"-->
 <!ENTITY pref_feature_tips_notification_summary "Obteña máis información sobre o uso de &brandShortName; e outros produtos de &vendorShortName;">
-<!-- Localization note (pref_feature_tips_notification_enabling_hint):
-     Describe the action the user should do to enable this preference
-     Will be used in the context "<Turn on> ... to enable this feature" -->
-<!ENTITY pref_feature_tips_notification_enabling_hint "Activar">
 
 <!-- Localization note (pref_feature_tips_notification_enabling_path):
      Nothing to translate. Simple concatenation of already localized strings. Result is used below. -->
@@ -321,11 +316,6 @@
 
 <!ENTITY pref_pwa "Aplicativos web progresivos">
 <!ENTITY pref_pwa_summary "Permitir que os aplicativos web se engaden a pantalla de inicio">
-
-<!ENTITY tracking_protection_prompt_title "Agora con protección contra o seguimento">
-<!ENTITY tracking_protection_prompt_text "Bloquea activamente os elementos de seguimento para que non teña que preocuparse.">
-<!ENTITY tracking_protection_prompt_tip_text "Visite os axustes de privacidade para máis información">
-<!ENTITY tracking_protection_prompt_action_button "Entendín!">
 
 <!ENTITY tab_queue_toast_message3 "Gardouse a lapela en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir agora">
@@ -398,15 +388,12 @@
 <!ENTITY pref_private_data_searchHistory "Historial de busca">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies e sesións activas">
-<!ENTITY pref_private_data_passwords2 "Identificacións gardadas">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sen conexión">
 <!ENTITY pref_private_data_siteSettings2 "Axustes do sitio">
 <!ENTITY pref_private_data_downloadFiles2 "Descargas">
 <!ENTITY pref_private_data_syncedTabs "Lapelas sincronizadas">
 
-<!ENTITY pref_default_browser "Definir como navegador predeterminado">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Visite a páxina de asistencia de Mozilla">
 <!ENTITY pref_about_firefox "Sobre o &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "Enviar opinión">
@@ -455,14 +442,6 @@
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "Servizo de localización de &vendorShortName; en execución">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Actualizacións automáticas">
-<!ENTITY pref_update_autodownload_wifi "Só coa Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Nunca">
-<!ENTITY pref_update_autodownload_always "Sempre">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Axuda">
@@ -722,24 +701,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Marcadores e historial">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Actualización dispoñíbel para o &brandShortName;">
-<!ENTITY updater_start_select2 "Seleccione para descargar">
-
-<!ENTITY updater_downloading_title2 "Descargando &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Produciuse un fallo ao descargar">
-<!ENTITY updater_downloading_select2 "Seleccione para aplicar a actualización unha vez descargada.">
-<!ENTITY updater_downloading_retry2 "Seleccione para reintentar">
-
-<!ENTITY updater_apply_title3 "Descargouse unha actualización para &brandShortName;">
-<!ENTITY updater_apply_select3 "Seleccione para instalar">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
+ <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Permitir">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova sesión de invitado">
@@ -901,19 +865,12 @@ Picture-in-picture mini window -->
 <!ENTITY pip_pause_button_description "Pon en pausa a reprodución">
 
 <!-- Notification channels names -->
-<!ENTITY default_notification_channel "&brandShortName;">
-
-<!-- Notification channels names -->
 <!ENTITY default_notification_channel2 "Navegador">
 <!ENTITY mls_notification_channel "Servizo de localización de &vendorShortName;">
 <!ENTITY download_notification_channel "Descargas">
-<!ENTITY media_notification_channel "Reprodución multimedia">
-<!-- These push notifications come without a specific channel and/or name from Leanplum -->
-<!ENTITY leanplum_default_notifications_channel "Notificacións push de &brandShortName;">
 <!ENTITY media_notification_channel2 "Son e vídeo">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Trucos e consellos de &vendorShortName;">
-<!ENTITY updater_notification_channel "Actualizacións do aplicativo">
 <!ENTITY synced_tabs_notification_channel "Lapelas sincronizadas">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

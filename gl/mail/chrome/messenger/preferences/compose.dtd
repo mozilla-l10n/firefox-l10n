@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Tipo de letra:">
 <!ENTITY font.accesskey                       "T">
-<!ENTITY size.label                           "Tamaño:">
-<!ENTITY size.accesskey                       "m">
 <!ENTITY fontColor.label                      "Cor do texto:">
 <!ENTITY fontColor.accesskey                  "C">
 <!ENTITY bgColor.label                        "Cor de fondo:">
