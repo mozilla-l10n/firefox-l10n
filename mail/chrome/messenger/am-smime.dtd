@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "தேவை (அனைத்து பெறுநர்களிடமும் சான்றிதழ்கள் இருந்தால் மட்டுமே அஞ்சல்களை அனுப்பலாம்)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "amp-யை குறிமுறையாக்க இந்த சான்றிதழை பயன்படுத்துக; உங்களுக்கு அனுப்பப்பட்ட அஞ்சல்களின் குறிமுறையாக்கத்தை நீக்குக:">
+
 <!ENTITY digitalSign.certificate.button "தெரிவு செய்க…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "சுத்தமாக்குக">
@@ -27,7 +28,6 @@
 
 
 <!ENTITY certificates.label "சான்றிதழ்கள்">
-<!ENTITY manageCerts.label "சான்றிதழ்களை நோக்குக">
-<!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "பாதுகாப்புச் சாதனங்கள்">
 <!ENTITY manageDevices.accesskey "y">
+

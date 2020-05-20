@@ -4,6 +4,41 @@
 
 <!ENTITY aboutDialog.title "&brandFullName; ஐ பற்றி">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
+
+
+<!ENTITY community.start2 "&brandShortName; வடிவமைக்கப்பட்டது ">
+<!ENTITY community.mozillaLink "&vendorShortName;">
+<!ENTITY community.middle2 ", a ">
+<!ENTITY community.creditsLink "முழு சமூகம்">
+
+<!ENTITY bottomLinks.license "தகவலுக்கான அனுமதி">
+
+<!ENTITY bottomLinks.rights "இறுதி பாவனையாளரின் உரிமைகள்">
+
+<!ENTITY bottomLinks.privacy "பிரத்தியேகக் கொள்கை">
+
+<!ENTITY update.checkingForUpdates "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகிறது…">
+<!ENTITY update.noUpdatesFound "&brandShortName; நவீனமான">
+<!ENTITY update.adminDisabled "அமைப்பு நிர்வாகியால் உங்களுடைய இற்றைப்படுத்தல்கள் முடக்கப்பட்டது.">
+
+<!ENTITY update.failed.start "இற்றைப்படுத்தலில் பிழை. ">
+<!ENTITY update.failed.linkText "சமீபமான பதிப்பை பதிவிறக்கு">
+<!ENTITY update.failed.end "">
+
+<!ENTITY update.manual.start "பதிவிறக்கு ">
+<!ENTITY update.manual.linkText "சமீபமான பதிப்பு">
+<!ENTITY update.manual.end "">
+
+<!ENTITY update.downloading.start "இற்றைப்படுத்தல் பதிவிறக்கப்படுகிறது — ">
+<!ENTITY update.downloading.end "">
+
+<!ENTITY channel.description.start "நீங்கள் தற்போது இருப்பது">
+<!ENTITY channel.description.end " அலைவரிசை இற்றைப்படுத்தல். ">
+
 <!ENTITY cmdCloseMac.commandKey "w">
 
 
@@ -13,28 +48,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY update.failed.end "">
-<!ENTITY update.noUpdatesFound "&brandShortName; நவீனமான">
-<!ENTITY update.downloading.start "இற்றைப்படுத்தல் பதிவிறக்கப்படுகிறது — ">
-<!ENTITY update.manual.end "">
-<!ENTITY update.checkingForUpdates "இற்றைப்படுத்தல்கள் சரிபார்க்கப்படுகிறது…">
-<!ENTITY update.manual.linkText "சமீபமான பதிப்பு">
-<!ENTITY community.middle2 ", a ">
-<!ENTITY update.checkingAddonCompat "Add-on இசைவை சரிபார்க்க…">
-<!ENTITY update.manual.start "பதிவிறக்கு ">
-<!ENTITY update.failed.start "இற்றைப்படுத்தலில் பிழை. ">
-<!ENTITY bottomLinks.license "தகவலுக்கான அனுமதி">
-<!ENTITY contribute.end "">
-<!ENTITY channel.description.start "நீங்கள் தற்போது இருப்பது">
-<!ENTITY bottomLinks.privacy "பிரத்தியேகக் கொள்கை">
-<!ENTITY update.adminDisabled "அமைப்பு நிர்வாகியால் உங்களுடைய இற்றைப்படுத்தல்கள் முடக்கப்பட்டது.">
-<!ENTITY community.end2 " எல்லோரும் சேர்ந்து வேலை செய்வதால் இணையத்தை சிறந்த முறையில் பேணலாம். நாங்கள் இணையமானது திறந்த, பொதுவான, மற்றும் எல்லோராலும் எந்தவொரு கட்டுப்பாடும் இன்றி அணுகக்கூடியது என்று நினைக்கிறோம்.">
-<!ENTITY contribute.start "ஓரளவு சுவரசியமானது.? ">
-<!ENTITY community.creditsLink "முழு சமூகம்">
-<!ENTITY update.failed.linkText "சமீபமான பதிப்பை பதிவிறக்கு">
-<!ENTITY channel.description.end " அலைவரிசை இற்றைப்படுத்தல். ">
-<!ENTITY update.downloading.end "">
-<!ENTITY community.mozillaLink "&vendorShortName;">
-<!ENTITY contribute.getInvolvedLink "ஈடுப்பட்டது!">
-<!ENTITY bottomLinks.rights "இறுதி பாவனையாளரின் உரிமைகள்">
-<!ENTITY community.start2 "&brandShortName; வடிவமைக்கப்பட்டது ">

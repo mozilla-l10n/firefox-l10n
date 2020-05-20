@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "தேடி மாற்றிவிடுக">
 <!ENTITY findField.label "அடுத்தை தேடுக:">
 <!ENTITY findField.accesskey "">

@@ -4,46 +4,16 @@
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
-<!-- File menu items -->
-<!ENTITY fileMenu.label "கோப்பு">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "கோப்பை திறக்கவும்…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "வலைய இடத்தை திறக்கவும்…">
-<!ENTITY openRemoteCmd.accesskey "L">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "சமீப பக்கங்கள்">
-<!ENTITY fileRecentMenu.accesskey "R">
-<!ENTITY fileRevert.label "பழைய நிலைக்கு திருப்புக">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "சேமிக்கவும்">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "ஆகச்சேமிக்க…">
-<!ENTITY saveAsCmd.accesskey "A">
 
-<!ENTITY publishCmd.label "பிரசுரிக்கவும்">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "ஆக பிரசுரிக்கவும்…">
-<!ENTITY publishAsCmd.accesskey "h">
-<!ENTITY saveAsChangeEncodingCmd.label "எழுத்து குறிமுறையை சேமித்துவிட்டு மாற்றுக">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-
-<!-- Edit menu items -->
-<!ENTITY editMenu.label "செவ்வையாக்குக">
-<!ENTITY editMenu.accesskey "E">
 <!ENTITY pasteNoFormatting.label "வடிவமைப்பு இல்லாமல் ஒட்டுக">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "ஆக ஒட்டுக">
 <!ENTITY pasteAs.accesskey "a">
-<!ENTITY publishSettings.label " வலையப்பக்க அமைவுகள் பிரசுரிக்கப்படுகிறது…">
-<!ENTITY publishSettings.accesskey "b">
 <!ENTITY pasteAsQuotationCmd.label "Paste As Quotation">
 <!ENTITY pasteAsQuotationCmd.accesskey "Q">
-<!ENTITY findCmd.label "கண்டுபிடித்து மாற்றிடுக…">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY enableInlineSpellChecker.label "தட்டச்சு செய்யும் போது எழுத்துக்கூட்டு ஆய்வு செய்க">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY checkSpellingCmd2.label "எழுத்துக்கூட்டை சரிபார்க்க">
@@ -53,9 +23,6 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "உள்ளிடுக">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "இணைக்க…">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "பெயரிடப்பட்ட தொகுப்பு…">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "படிமம்…">
@@ -71,12 +38,6 @@
 <!ENTITY insertBreakAllCmd.label "படிம(ங்களின்) கீழே நிறுத்துக">
 <!ENTITY insertBreakAllCmd.accesskey "k">
 
-<!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(எந்த ஆலோசனைகளும் காணப்படவில்லை)">
-<!ENTITY spellCheckIgnoreWord.label "வார்த்தையை புறக்கணிக்க">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "அகராதியில் சேர்க்க">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "இணைப்பினை உருவாக்குக…">
 <!ENTITY createLinkCmd.accesskey "k">
 <!ENTITY editLinkCmd.label "புதிய இயற்றுபவரில் இணைப்பினை செவ்வையாக்குக">
@@ -102,28 +63,20 @@
 <!ENTITY FontSizeSelect.tooltip "எழுத்து அளவை தேர்வு செய்க">
 <!ENTITY decreaseFontSize.label "சிறியதாக">
 <!ENTITY decreaseFontSize.accesskey "r">
-<!ENTITY decreaseFontSize.key "-">
 <!ENTITY increaseFontSize.label "பெரியதாக">
 <!ENTITY increaseFontSize.accesskey "g">
-<!ENTITY increaseFontSize.key "+">
-<!ENTITY increaseFontSize.key2 "="> <!-- + is above this key on many keyboards -->
+<!-- + is above this key on many keyboards -->
+
+<!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "அளவு">
 <!ENTITY fontSizeMenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "xx-சிறிய">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "x-சிறிய">
-<!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "சிறிய">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "நடுத்தர">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "பெரிய">
 <!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "x-பெரிய">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "xx-பெரிய">
-<!ENTITY size-xx-largeCmd.accesskey "e">
 
 <!-- Font Style SubMenu -->
 <!ENTITY fontStyleMenu.label "உரைப்பாங்கு">
@@ -171,7 +124,6 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "பெயரிடப்பட்ட தொகுப்புக்களை நீக்குக">
 <!ENTITY formatRemoveNamedAnchors.accesskey "R">
-<!ENTITY formatRemoveNamedAnchors.key "A">
 
 <!ENTITY paragraphMenu.label "பந்தி">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -315,11 +267,10 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "பட்டிப் பட்டை">
 <!ENTITY formatToolbar.tooltip "வடிவமைக்கும் கருவிப்பட்டை">
-<!ENTITY newToolbarCmd.tooltip "ஒரு புதிய ஆக்கும் பக்கத்தை உருவாக்குக">
-<!ENTITY openToolbarCmd.label "திறக்க">
-<!ENTITY openToolbarCmd.tooltip "ஒரு உள்கோப்பை திறக்க">
-<!ENTITY saveToolbarCmd.tooltip "உள் அமைவில் கோப்பை சேமிக்க">
-<!ENTITY publishToolbarCmd.tooltip "தொலைதூர அமைவில் கோப்பை ஏற்றுக">
+<!ENTITY cutToolbarCmd.tooltip "Cut">
+<!ENTITY copyToolbarCmd.tooltip "Copy">
+<!ENTITY pasteToolbarCmd.tooltip "Paste">
+
 <!ENTITY printToolbarCmd.label "அச்சிடுக">
 <!ENTITY printToolbarCmd.tooltip "இந்த பக்கத்தை அச்சடிக்கவும்">
 <!ENTITY findToolbarCmd.label "கண்டுபிடிக்க">
@@ -338,7 +289,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "புதிய பெயரிடப்பட்ட தொகுப்பை உள்ளிடுக அல்லது தேர்வு செய்த தொகுப்பின் பண்பியல்புகளை செவ்வையாக்குக">
 <!ENTITY TextColorButton.tooltip "உரையின் வண்ணத்தை தேர்வு செய்க">
 <!ENTITY BackgroundColorButton.tooltip "பின்னணி வண்ணத்தை தேர்வு செய்க">
-<!ENTITY throbber.tooltip "&vendorShortName; இன் இல்லப்பக்கத்திற்கு செல்க">
 <!ENTITY HighlightColorButton.tooltip "உரையை தனிப்படுத்தி காட்டும் வண்ணத்தை தேர்வு செய்க">
 
 <!-- Editor toolbar -->
@@ -378,9 +328,3 @@
 <!ENTITY tocMenu.accesskey        "b">
 
 
-<!ENTITY cutToolbarCmd.tooltip "Cut">
-<!ENTITY copyToolbarCmd.tooltip "Copy">
-<!ENTITY pasteToolbarCmd.tooltip "Paste">
-
-<!ENTITY newToolbarCmd.label "New">
-<!ENTITY pasteAsQuotationCmd.key "o">

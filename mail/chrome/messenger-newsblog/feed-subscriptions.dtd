@@ -4,14 +4,11 @@
 
 <!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label "Feed Subscriptions">
-<!ENTITY subscriptionDesc.label "குறிப்பு: ஒரு ஃபீடுக்கு இந்த அடைவை நீக்குவதோ, மாற்றுவதோ, முன்னால் தரவிறக்கப்பட்ட கட்டுரைகளை பாதிக்காது">
+
 <!ENTITY feedTitle.label "தலைப்பு:">
-<!ENTITY location.label "இடம்:">
 
 <!ENTITY button.addFeed.label "சேர்க்கவும்">
 <!ENTITY button.addFeed.accesskey "A">
-<!ENTITY button.editFeed.label "பதிப்பி">
-<!ENTITY button.editFeed.accesskey "ப">
 <!ENTITY button.removeFeed.label "நீக்குக">
 <!ENTITY button.removeFeed.accesskey "ந">
 <!ENTITY button.importOPML.label "இறக்குமதி">

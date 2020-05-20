@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label "உருவாக்கலும்  முகவரியிடலும்">
 <!ENTITY addressingGroupTitle.label "முகவரியிடல்">
 <!ENTITY addressingText.label "முகவரிகளை தேடும்போது:">
@@ -16,8 +18,11 @@
 <!ENTITY directories.label "வேறு LDAP சேவையகத்தை பயன்படுத்துக:">
 <!ENTITY directories.accesskey "d">
 <!ENTITY directoriesNone.label     "எதுவுமில்லை">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label "உருவாக்கல்">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +30,6 @@
 <!ENTITY useHtml.accesskey "H">
 <!ENTITY autoQuote.label "பதிலளிக்கும் போது தன்னியக்கமாக அசல் அஞ்சலை மேற்கோள் காட்டுக.">
 <!ENTITY autoQuote.accesskey "q">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "பின்னர்,">
-<!ENTITY then.accesskey "T">
 <!ENTITY aboveQuote.label "மேற்கோளிற்கு மேலே என் பதிலை தொடங்குக">
 <!ENTITY belowQuote.label "மேற்கோளிற்கு கீழே என் பதிலை தொடங்குக">
 <!ENTITY selectAndQuote.label "மேற்கோளை தெரிவு செய்க">

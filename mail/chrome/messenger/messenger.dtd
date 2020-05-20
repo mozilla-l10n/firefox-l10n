@@ -2,23 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerWindow.title "அஞ்சல் &amp; செய்திக்குழுக்கள்">
 <!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
 <!-- File Menu -->
 <!ENTITY newFolderCmd.label "கோப்புறை…">
 <!ENTITY newFolderCmd.accesskey "F">
+<!ENTITY closeTabCmd2.label "தத்தல்களை மூடுக">
+<!ENTITY closeTabCmd2.accesskey "C">
+<!ENTITY closeOtherTabsCmd2.label "ஏனைய தத்தல்களை மூடுக">
+<!ENTITY closeOtherTabsCmd2.accesskey "o">
+<!ENTITY recentlyClosedTabsCmd.label "கடைசியாக மூடப்பட்ட தத்தல்">
+<!ENTITY recentlyClosedTabsCmd.accesskey "R">
+
+<!ENTITY undoCloseTabCmd.commandkey "T">
+<!ENTITY moveToNewWindow.label "புதிய சாளரத்திற்கு நகர்த்துக">
+<!ENTITY moveToNewWindow.accesskey "W">
 <!ENTITY newVirtualFolderCmd.label "சேமிக்கப்பட்ட தேடல்…">
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "ஏனைய கணக்குகள்…">
 <!ENTITY newOtherAccountsCmd.accesskey "O">
-<!ENTITY newEmailAccountCmd.label "மின்னஞ்சல் கணக்கு…">
-<!ENTITY newEmailAccountCmd.accesskey "A">
 <!ENTITY openMessageFileCmd.label "சேமிக்கப்பட்ட செய்தியை திறக்க…">
 <!ENTITY openMessageFileCmd.accesskey "O">
-<!ENTITY openAttachmentCmd.label "உடனிணைப்புகள்">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "என சேமிக்க">
 <!ENTITY saveAsMenu.accesskey "S">
 <!ENTITY saveAsFileCmd.label "கோப்பு">
@@ -26,17 +31,12 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "படிம அச்சு">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY archiveMsgCmd.label "ஆவணக்காப்பகம்">
-<!ENTITY archiveMsgCmd.accesskey "A">
-<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY getNewMsgForCmd.label "புதிய செய்திகளைப் பெறுவதற்காக">
 <!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "கணக்குகள் எல்லாம்">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "நடப்புக் கணக்கு">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "அடுத்த 500 செய்தி தகவல்களை பெறுக">
-<!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "அனுப்பப்படாத செய்திகளை அனுப்புக">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "அங்கத்துவத்தைப்பெற…">
@@ -50,16 +50,12 @@
 <!ENTITY compactFolders.accesskey    "F">
 <!ENTITY emptyTrashCmd.label "குப்பைத் தொட்டியை வெற்றிடமாக்குக">
 <!ENTITY emptyTrashCmd.accesskey    "y">
-<!ENTITY importCmd.label "இறக்குமதிசெய்க…">
-<!ENTITY importCmd.accesskey "I">
 <!ENTITY offlineMenu.label "இணைப்பில்லா நிலை">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "வேலை இணைப்பில்லா நிலை">
 <!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY synchronizeOfflineCmd.label "இப்போது பதிவிறக்குக/Sync…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
-<!ENTITY settingsOfflineCmd.label "இணைப்பில்லா நிலை அமைப்புக்கள்…">
-<!ENTITY settingsOfflineCmd.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "தெரிவுசெய்யப்பட்ட செய்திகளைப் பெறுக">
 <!ENTITY downloadSelectedCmd.accesskey "l">
 <!ENTITY downloadStarredCmd.label "நட்சத்திரம் இடப்பட்ட செய்திகளைப் பெறுக">
@@ -77,8 +73,6 @@
 <!ENTITY deleteMsgCmd.accesskey "D">
 <!ENTITY undeleteMsgCmd.label "செய்தியை நீக்காதே">
 <!ENTITY undeleteMsgCmd.accesskey "d">
-<!ENTITY cancelNewsMsgCmd.label "செய்தியை இரத்து செய்க">
-<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY deleteMsgsCmd.label "தெரிவுசெய்யப்பட்ட செய்திகளை நீக்குக">
 <!ENTITY deleteMsgsCmd.accesskey "D">
 <!ENTITY undeleteMsgsCmd.label "தெரிவுசெய்யப்பட்ட செய்திகளை நீக்காதே">
@@ -98,13 +92,7 @@
 <!ENTITY selectFlaggedCmd.accesskey "S">
 <!ENTITY menuFavoriteFolder.label "விருப்ப கோப்புறை">
 <!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "பண்பியல்புகள்…">
-<!ENTITY folderPropsFolderCmd.label "கோப்புறைப் பண்பியல்புகள்…">
-<!ENTITY folderPropsNewsgroupCmd.label "செய்திக்குழுப் பண்பியல்புகள்…">
 <!ENTITY folderPropsCmd.accesskey "o">
-<!ENTITY accountManagerCmd.label "கணக்கு அமைப்புகள்…">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "செய்தி நீக்கத்தினை செயல் நீக்குக">
 <!ENTITY redoDeleteMsgCmd.label "செய்தி நீக்கத்தினை மீளச்செய்க">
 <!ENTITY undoMoveMsgCmd.label "செய்தி நதர்த்துதலை செயல் நீக்குக">
@@ -139,6 +127,8 @@
 
 <!ENTITY folderView.label "கோப்புறைகள்">
 <!ENTITY folderView.accesskey "F">
+<!ENTITY unifiedFolders.label "Unified">
+<!ENTITY unifiedFolders.accesskey "n">
 <!ENTITY allFolders.label "எல்லாம்">
 <!ENTITY allFolders.accesskey "A">
 <!ENTITY unreadFolders.label "வாசிக்கப்படாதது">
@@ -169,7 +159,6 @@
 <!ENTITY sortByTagsCmd.accesskey "g">
 <!ENTITY sortByJunkStatusCmd.label "௯ள நிலை">
 <!ENTITY sortByJunkStatusCmd.accesskey "J">
-<!ENTITY junkItem.title "Junk">
 <!ENTITY sortBySubjectCmd.label "விடயம்">
 <!ENTITY sortBySubjectCmd.accesskey "b">
 <!ENTITY sortByFromCmd.label "இருந்து">
@@ -210,6 +199,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "புறக்கணிக்ப்பட்ட இழைகள்">
 <!ENTITY ignoredThreadsCmd.accesskey "i">
+
 <!ENTITY headersMenu.label "தலையொட்டுகள்">
 <!ENTITY headersMenu.accesskey "H">
 <!ENTITY headersAllCmd.label "எல்லாம்">
@@ -245,30 +235,12 @@ fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-<!ENTITY fullZoomEnlargeCmd.label       "பெரிதாக்குக">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
-
-<!ENTITY fullZoomReduceCmd.label        "சிறிதாக்குக">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
-<!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
-
-<!ENTITY fullZoomResetCmd.label         "மீளஅமைக்க">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
-<!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
-
-<!ENTITY fullZoomToggleCmd.label        "உரையை மாத்திரம் பெரிதாக்குக">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
-<!ENTITY fullZoom.label                 "பெரிதாக்குக">
-<!ENTITY fullZoom.accesskey             "Z">
-
 <!ENTITY pageSourceCmd.label "செய்தி மூலம்">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "கண்டுபிடி">
@@ -321,21 +293,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY prevStarredMsgCmd.label "நட்சத்திரமிடப்பட்ட செய்தி">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
+<!ENTITY folderMenu.label "கோப்புறை">
+<!ENTITY folderMenu.accesskey "O">
+<!ENTITY goRecentlyClosedTabs.label "கடைசியாக மூடப்பட்ட தத்தல்">
 <!ENTITY startPageCmd.label "அஞ்சல் ஆரம்பப் பக்கம்">
 <!ENTITY startPageCmd.accesskey "S">
+
 <!ENTITY msgMenu.label "செய்தி">
 <!ENTITY msgMenu.accesskey "M">
 <!ENTITY newMsgCmd.label "புதிய செய்தி">
 <!ENTITY newMsgCmd.accesskey "N">
 <!ENTITY newNewMsgCmd.label "செய்தி">
 <!ENTITY newNewMsgCmd.accesskey "M">
+<!ENTITY archiveMsgCmd.label "ஆவணக்காப்பகம்">
+<!ENTITY archiveMsgCmd.accesskey "A">
+<!ENTITY archiveMsgCmd.key  "a">
+<!ENTITY cancelNewsMsgCmd.label "செய்தியை இரத்து செய்க">
+<!ENTITY cancelNewsMsgCmd.accesskey "M">
 <!ENTITY replyMsgCmd.label "பதிலிடுக">
 <!ENTITY replyMsgCmd.accesskey "R">
 <!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "அனுப்புநருக்கு மட்டும் பதிலிடுக">
 <!ENTITY replySenderCmd.accesskey "R">
-<!ENTITY replyNewsgroupCmd.label "செய்தித்தொகுதியிற்கு மட்டும் பதிலிடுக">
-<!ENTITY replyNewsgroupCmd.accesskey  "y">
 <!ENTITY replyToAllMsgCmd.label "எல்லோருக்கும் பதிலிடுக">
 <!ENTITY replyToAllMsgCmd.accesskey  "p">
 <!ENTITY replyToAllMsgCmd.key  "r">
@@ -351,9 +330,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "உடனிணைப்பு">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
-<!ENTITY editMsgAsNewCmd.label "செய்தியை புதியதாக தொகுக்க">
-<!ENTITY editMsgAsNewCmd.accesskey "E">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "செய்தியிலிருந்து வடியை உருவாக்குக…">
 <!ENTITY createFilter.accesskey "a">
 <!ENTITY moveMsgToMenu.label "Move To">
@@ -376,10 +352,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY watchThreadMenu.label "இழையை உற்றுநோக்குக">
 <!ENTITY watchThreadMenu.accesskey "W">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "கோப்பு இங்கே">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "இங்கே நகல் எடுக்க">
-<!ENTITY copyHereMenu.accesskey "C">
 <!ENTITY tagMenu.label "அடையாள ஒட்டு">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -394,8 +366,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tagCmd9.key "9">
 <!ENTITY markMenu.label "குறியிடுக">
 <!ENTITY markMenu.accesskey "k">
+<!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "வாசித்ததாக">
 <!ENTITY markAsReadCmd.accesskey "R">
+<!ENTITY markAsUnreadCmd.label "வாசிக்கப்படாதது மாதிரி">
+<!ENTITY markAsUnreadCmd.accesskey "U">
 <!ENTITY markThreadAsReadCmd.label "இழை வாசித்ததாக">
 <!ENTITY markThreadAsReadCmd.accesskey "T">
 <!ENTITY markThreadAsReadCmd.key "r">
@@ -419,12 +394,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY openMessageWindowCmd.label "செய்தியை திறக்க">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openFeedMessage.label "பின்னூட்டு செய்தியை திறக்க">
-<!ENTITY openFeedMessage.accesskey "O">
-<!ENTITY openFeedWebPageInWindow.label "புதிய சாளரத்தில் இணையப்பக்கம்">
-<!ENTITY openFeedWebPageInWindow.accesskey "W">
-<!ENTITY openFeedSummaryInWindow.label "புதிய சாளரத்தில் சுருக்கம்">
-<!ENTITY openFeedSummaryInWindow.accesskey "S">
 <!ENTITY openFeedWebPageInMP.label "Message Pane இல் Toggle இணையப்பக்கம் மற்றும் சுருக்கம்">
 <!ENTITY openFeedWebPageInMP.accesskey "T">
 
@@ -434,23 +403,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "கருவிகள்">
 <!ENTITY tasksMenu.accesskey "T">
-<!ENTITY addons.label "செருகல்கள்">
-<!ENTITY addons.accesskey "d">
-<!ENTITY activitymanager.label "செயற்பாட்டு முகாமையாளர்">
-<!ENTITY activitymanager.accesskey "a">
 <!ENTITY messengerCmd.label "அஞ்சல் &amp; செய்திகள்குழுமங்கள்">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY addressBookCmd.label "முகவரிப்புத்தகம்">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY runJunkControls.label "கோப்புறையிலே கூள அஞ்சல் கட்டுப்பாடுகளை இயக்குக">
-<!ENTITY runJunkControls.accesskey "u">
-<!ENTITY deleteJunk.label "கூளக் கோப்புறையில் உள்ளதுபோல் குறியிடப்பட்ட அஞ்சலை நீக்குக">
-<!ENTITY deleteJunk.accesskey "l">
-<!ENTITY errorConsoleCmd.label "வழு Console">
-<!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY filtersCmd.label "செய்தி வடிகள்…">
-<!ENTITY filtersCmd.accesskey "F">
+<!ENTITY addons.label "செருகல்கள்">
+<!ENTITY addons.accesskey "d">
+<!ENTITY activitymanager.label "செயற்பாட்டு முகாமையாளர்">
+<!ENTITY activitymanager.accesskey "a">
+<!ENTITY savedFiles.label "கோப்பு செமிக்கப்பட்டது">
+<!ENTITY savedFiles.accesskey "l">
+<!ENTITY savedFiles.key "j">
 <!ENTITY filtersApply.label "கோப்புறையிலே வடிகளை இயக்குக">
 <!ENTITY filtersApply.accesskey "R">
 <!ENTITY filtersApplyToSelection.label "தெரிவுசெய்யப்பட்ட செய்திகளில் வடிகளை இயக்குக">
@@ -458,25 +422,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY filtersApplyToMessage.label "செய்திகளில் வடிகளை இயக்குக">
 <!ENTITY filtersApplyToMessage.accesskey "s">
 
-<!-- Mail Toolbar -->
-<!ENTITY getMsgButton.label "அஞ்சலைப் பெறுக">
+<!ENTITY runJunkControls.label "கோப்புறையிலே கூள அஞ்சல் கட்டுப்பாடுகளை இயக்குக">
+<!ENTITY runJunkControls.accesskey "u">
+<!ENTITY deleteJunk.label "கூளக் கோப்புறையில் உள்ளதுபோல் குறியிடப்பட்ட அஞ்சலை நீக்குக">
+<!ENTITY deleteJunk.accesskey "l">
+<!ENTITY importCmd.label "இறக்குமதிசெய்க…">
+<!ENTITY importCmd.accesskey "I">
+
+<!ENTITY errorConsoleCmd.label "வழு Console">
+<!ENTITY errorConsoleCmd.accesskey "n">
+
 <!ENTITY newMsgButton.label "எழுதுக">
 <!ENTITY replyButton.label "பதிலிடுக">
 <!ENTITY replyAllButton.label "எல்லோர்க்கும் பதிலிடுக">
 <!ENTITY replyListButton.label "பட்டியலுக்கு பதிலிடுக">
 <!ENTITY forwardButton.label "முன்னோக்குக">
 <!ENTITY fileButton.label "கோப்பு">
+<!ENTITY archiveButton.label "ஆவணக்காப்பு">
 <!ENTITY nextButton.label "அடுத்தது">
 <!ENTITY previousButton.label "முந்தையது">
 <!ENTITY backButton1.label "பின்">
 <!ENTITY goForwardButton1.label "முன்னோக்குக">
+<!ENTITY deleteItem.title "Delete">
 <!ENTITY deleteButton.label "நீக்குக">
 <!ENTITY undeleteButton.label "நீக்காத">
-<!ENTITY deleteItem.title "Delete">
 <!ENTITY markButton.label "குறியிடுக">
 <!ENTITY printButton.label "அச்சிடுக">
 <!ENTITY stopButton.label "நிறுத்துக">
 <!ENTITY throbberItem.title "செயல் அடையாளப்படுத்தி">
+<!ENTITY junkItem.title "Junk">
 <!ENTITY junkButton.label "௯ளம்">
 <!ENTITY notJunkButton.label "௯ளம் அல்ல">
 <!ENTITY addressBookButton.label "முகவரிப்புத்தகம்">
@@ -498,6 +472,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyListButton.tooltip "அனுப்புனரின் பட்டியலுக்கு பதிலிடுக">
 <!ENTITY forwardButton.tooltip "தெரிவுசெய்யப்பட்ட செய்தியை முன்னோக்குக​">
 <!ENTITY fileButton.tooltip "கோப்பைத் தெரிவு செய்வதற்கான செய்தி">
+<!ENTITY archiveButton.tooltip "தெரிவு செய்யப்பட்ட செய்திகளின் ஆவணக்காப்பெடுக்க">
 <!ENTITY nextButton.tooltip "வாசிக்கப்படாத அடுத்த செய்திக்கு நகர்க">
 <!ENTITY previousButton.tooltip "வாசிக்கப்படாத முந்தைய செய்திக்கு நகர்க">
 <!ENTITY goForwardButton.tooltip "ஒரு செய்தி முன்னோக்கிச் செல்க">
@@ -517,15 +492,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addNewTag.label "புதிய அடையாள ஒட்டு…">
 <!ENTITY addNewTag.accesskey "N">
 
-<!-- Folder Pane -->
-<!ENTITY folderColumn.label "பெயர்">
 <!ENTITY folderSizeColumn.label "பருமன்">
 
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "செய்திகளைப் பெறுக">
 <!ENTITY folderContextGetMessages.accesskey "G">
-<!ENTITY folderContextOpenNewWindow.label "திறக்க">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "புதிய அடையாள ஒட்டில் திறக்க">
 <!ENTITY folderContextOpenNewTab.accesskey "T">
 <!ENTITY folderContextNew.label "புதிய உபகோப்புறை…">
@@ -550,30 +521,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "k">
 <!ENTITY folderContextSubscribe.label "அங்கத்துவராக…">
 <!ENTITY folderContextSubscribe.accesskey "b">
-<!ENTITY folderContextSearchMessages.label "தேடுக…">
-<!ENTITY folderContextSearchMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "பண்பியல்புகள்…">
-<!ENTITY folderContextProperties.accesskey "P">
 <!ENTITY folderContextFavoriteFolder.label "விருப்பமான கோப்புறை">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
-<!ENTITY folderContextSettings.label "அமைப்புகள்…">
-<!ENTITY folderContextSettings.accesskey "e">
-
-<!-- Media (video/audio) controls -->
-<!ENTITY contextPlay.label "Play">
-<!ENTITY contextPlay.accesskey "P">
-<!ENTITY contextPause.label "Pause">
-<!ENTITY contextPause.accesskey "P">
-<!ENTITY contextMute.label "Mute">
-<!ENTITY contextMute.accesskey "M">
-<!ENTITY contextUnmute.label "Unmute">
-<!ENTITY contextUnmute.accesskey "m">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "பெயர் அல்லது மின்னஞ்சல் கொண்டிருக்கிறது:">
 <!ENTITY SearchNameOrEmail.accesskey "N">
-<!ENTITY getNewMessagesCmd.key "y">
-<!ENTITY getAllNewMessagesCmd.key "Y">
+
+<!ENTITY glodaSearchBar.placeholder "செயதிகள் தேடப்படுகிறது…">
 
 <!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "விடயம்">
@@ -606,40 +561,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY attachmentColumn.label "உடனிணைப்புக்கள்">
 
 
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser.tooltip "நிரல்களை தெரிவுசெய்து காட்சிப்படுத்துவதற்கு சொடுக்குக">
-<!ENTITY threadColumn.tooltip "செய்தி இழைகளை காட்சிப்படுத்துவதற்கு சொடுக்குக">
-<!ENTITY fromColumn.tooltip "from இனைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY recipientColumn.tooltip "பெறுநரைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY subjectColumn.tooltip "விடயத்தினைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY dateColumn.tooltip "திகதியைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY priorityColumn.tooltip "முன்னுரிமையைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY tagsColumn.tooltip "அடையாள ஒட்டுகளைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY accountColumn.tooltip "கணக்கினைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY statusColumn.tooltip "நிலையினைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY sizeColumn.tooltip "பருமனைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY junkStatusColumn.tooltip "கூள நிலையினைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY unreadColumn.tooltip "இழையிலுள்ள வாசிக்கப்படாத செய்திகளின் எண்ணிக்கை">
-<!ENTITY totalColumn.tooltip "இழையில் மொத்தமாக உள்ள Tசெய்திகளின் எண்ணிக்கை">
-<!ENTITY readColumn.tooltip "வாசித்தவைகளைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY receivedColumn.tooltip "பெறப்பட்ட திகதியைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY starredColumn.tooltip "நட்சத்திரக் குறியைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY locationColumn.tooltip "இருப்பிடத்தைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY idColumn.tooltip "பெறப்பட்ட ஒழுங்கைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-<!ENTITY attachmentColumn.tooltip "உடனிணைப்புக்களைக் கொண்டு வரிசையாக்குவதற்கு சொடுக்குக">
-
-
 <!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "செய்தியை புதிய சாரளத்தில் திறக்க">
 <!ENTITY contextOpenNewWindow.accesskey "W">
 <!ENTITY contextOpenNewTab.label "செய்தியை புதிய அடையாள ஒட்டில் திறக்க">
 <!ENTITY contextOpenNewTab.accesskey "T">
-<!ENTITY contextEditAsNew.label "புதியதாக செவ்வையாக்குக…">
-<!ENTITY contextEditAsNew.accesskey "E">
+<!ENTITY contextOpenConversation.label "செய்தியை உரையாடலில் திறக்க">
+<!ENTITY contextOpenConversation.accesskey "n">
+<!ENTITY contextArchive.label "ஆவணக்காப்பு">
+<!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "அனுப்புனருக்கு மட்டும் பதிலிடுக">
 <!ENTITY contextReplySender.accesskey "R">
-<!ENTITY contextReplyNewsgroup.label "செய்தித்தொகுதியிற்கு பதிலிடுக">
-<!ENTITY contextReplyNewsgroup.accesskey "y">
 
 <!ENTITY contextReplyAll.label "அனைவருக்கும் பதிலிடுக">
 <!ENTITY contextReplyAll.accesskey "A">
@@ -647,8 +579,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextReplyList.accesskey "L">
 <!ENTITY contextForward.label "முன்னோக்குக">
 <!ENTITY contextForward.accesskey "F">
-<!ENTITY contextForwardAsAttachment.label "உடனிணைப்பாக முன்னோக்குக">
-<!ENTITY contextForwardAsAttachment.accesskey "o">
 <!ENTITY contextMoveMsgMenu.label "Move To">
 <!ENTITY contextMoveMsgMenu.accesskey "M">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "மிக அண்மய">
@@ -663,19 +593,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextPrintPreview.accesskey "v">
 
 
-<!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "கூள அஞ்சல்">
-<!ENTITY junkBarButton1.label "கூளம் அல்ல">
-<!ENTITY junkInfoButton.label "?">
+<!ENTITY columnPicker.applyTo.label "நிரல்களுக்கு பிரயோகிக்க…"> 
+<!ENTITY columnPicker.applyToFolder.label "கோப்புறை…">
+<!ENTITY columnPicker.applyToFolderAndChildren.label "கோப்புறைகள் மற்றும் அதன் பிள்ளைகள்…">
+<!ENTITY columnPicker.thisFolder.label "இந்த கோப்புறை">
 
-<!-- Remote Content Bar -->
-<!ENTITY remoteContentMessage2.label "உங்களுடைய தனிமையை பாதுகாக்க, &brandShortName; அந்த செய்தியின் remote உள்ளடக்கம் தடைசெய்யப்பட்டது.">
-<!ENTITY loadRemoteContentButton3.label "Remote உள்ளடக்கத்தை காட்டுக">
-
-<!-- Phishing Bar -->
-<!ENTITY phishingBarMessage2.label "இந்தச் செய்தி சூழ்ச்சியானதாக இருக்கலாம்.">
-<!ENTITY removePhishingBarButton1.label "எச்சரிக்கையை புறக்கணிக்க">
-<!ENTITY reportPhishingError1.label "இந்தச் செய்தி சூழ்ச்சியானதாக இல்லை.">
+<!-- Media (video/audio) controls -->
+<!ENTITY contextPlay.label "Play">
+<!ENTITY contextPlay.accesskey "P">
+<!ENTITY contextPause.label "Pause">
+<!ENTITY contextPause.accesskey "P">
+<!ENTITY contextMute.label "Mute">
+<!ENTITY contextMute.accesskey "M">
+<!ENTITY contextUnmute.label "Unmute">
+<!ENTITY contextUnmute.accesskey "m">
 
 <!-- Quick Search Bar -->
 
@@ -686,16 +617,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY AddToAddressBook.accesskey "B">
 <!ENTITY AddDirectlyToAddressBook.label "முகவரிப் புத்தகத்தில் சேர்க்க">
 <!ENTITY AddDirectlyToAddressBook.accesskey "B">
-<!ENTITY EditContact.label "தொடர்பினை செவ்வையாக்குக…">
-<!ENTITY EditContact.accesskey "E">
 <!ENTITY ViewContact.label "தொடர்பினை நோக்குக">
 <!ENTITY ViewContact.accesskey "V">
+<!ENTITY SubscribeToNewsgroup.label "செய்தி தொகுதியில் அங்கத்தினராக்குக">
+<!ENTITY SubscribeToNewsgroup.accesskey "N">
+<!ENTITY SendMessageTo.label "Compose Message To">
+<!ENTITY SendMessageTo.accesskey "s">
 <!ENTITY CopyEmailAddress.label "மின்னஞ்சல் முகவரியினை நகல் எடுக்க">
 <!ENTITY CopyEmailAddress.accesskey "C">
+<!ENTITY CopyNewsgroupName.label "செய்தி தொகுதி பெயர்களை நகலெடுக்க">
+<!ENTITY CopyNewsgroupName.accesskey "C">
+<!ENTITY CopyNewsgroupURL.label "URL செய்தித்தொகுதியை நகலெடுக்க">
+<!ENTITY CopyNewsgroupURL.accesskey "U">
 <!ENTITY CreateFilterFrom.label " இலிருந்து வடிகளை உருவாக்குக…">
 <!ENTITY CreateFilterFrom.accesskey "F">
 <!ENTITY reportPhishingURL.label "மின்னஞ்சல் சூழ்ச்சியை அறிவிக்க">
 <!ENTITY reportPhishingURL.accesskey "o">
+
+<!ENTITY spellAddDictionaries.label "அகராதிகளுக்கு சேர்க்க…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "என இணைப்பாக சேமிக்க…">
@@ -704,8 +644,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY saveImageAsCmd.accesskey "v">
 <!ENTITY copyLinkCmd.label "இணைப்பு இருப்பிடத்தை நகல் எடுக்க">
 <!ENTITY copyLinkCmd.accesskey "C">
+<!ENTITY copyImageAllCmd.label "படத்தை நகலெடுக்க">
+<!ENTITY copyImageAllCmd.accesskey "I">
 <!ENTITY copyEmailCmd.label "மின்னஞ்சல் முகவரியினை நகல் எடுக்க">
 <!ENTITY copyEmailCmd.accesskey "E">
+
+<!ENTITY stopCmd.label "Stop">
+<!ENTITY stopCmd.accesskey "S">
+<!ENTITY reloadCmd.label "மீள ஏற்றுக">
+<!ENTITY reloadCmd.accesskey "R">
+<!ENTITY openInBrowser.label "உலாவியில் திறக்க">
+<!ENTITY openInBrowser.accesskey "O">
+<!ENTITY openLinkInBrowser.label "இணைப்பை உலாவியில் திறக்க">
+<!ENTITY openLinkInBrowser.accesskey "O">
 
 <!-- Statusbar -->
 <!ENTITY statusText.label "செய்யப்பட்டது">
@@ -716,8 +667,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bringAllToFront.label "எல்லாவற்றையும் முன்னுக்கு சொண்டுவரவும்">
 <!ENTITY zoomWindow.label "​பெரிதாக்குக">
 
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
-<!ENTITY preferencesCmdMac.label        "முன்னுரிமைகள்…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
 <!ENTITY servicesMenuMac.label          "சேவைகள்">
@@ -735,68 +684,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY spellAddDictionaries.label "அகராதிகளுக்கு சேர்க்க…">
-<!ENTITY reloadCmd.label "மீள ஏற்றுக">
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!ENTITY copyImageAllCmd.label "படத்தை நகலெடுக்க">
-<!ENTITY undoCloseTabCmd.commandkey "T">
-<!ENTITY contextArchive.label "ஆவணக்காப்பு">
-<!ENTITY searchAllMessages.label.base "எல்லா செய்திகளையும் தேடுக… #1">
-<!ENTITY openConversationCmd.key "o">
-<!ENTITY archiveButton.tooltip "தெரிவு செய்யப்பட்ட செய்திகளின் ஆவணக்காப்பெடுக்க">
-<!ENTITY markAsUnreadCmd.accesskey "U">
-<!ENTITY contextOpenConversation.label "செய்தியை உரையாடலில் திறக்க">
-<!ENTITY closeOtherTabsCmd2.label "ஏனைய தத்தல்களை மூடுக">
-<!ENTITY stopCmd.accesskey "S">
-<!ENTITY moveToNewWindow.accesskey "W">
-<!ENTITY recentlyClosedTabsCmd.label "கடைசியாக மூடப்பட்ட தத்தல்">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY goRecentlyClosedTabs.label "கடைசியாக மூடப்பட்ட தத்தல்">
-<!ENTITY mdnBarSendButton2.label "திருப்பப்பட்ட பற்றுச்சீட்டை அனுப்புக">
-<!ENTITY columnPicker.applyToFolder.label "கோப்புறை…">
-<!ENTITY copyImageAllCmd.accesskey "I">
-<!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
-<!ENTITY SendMessageTo.label "Compose Message To">
-<!ENTITY folderMenu.accesskey "O">
-<!ENTITY thisFolder.accesskey "F">
-<!ENTITY CopyNewsgroupURL.label "URL செய்தித்தொகுதியை நகலெடுக்க">
-<!ENTITY closeTabCmd2.accesskey "C">
-<!ENTITY savedFiles.accesskey "l">
-<!ENTITY closeTabCmd2.label "தத்தல்களை மூடுக">
-<!ENTITY mdnBarIgnoreButton2.label "புறக்கணிக்க">
-<!ENTITY SubscribeToNewsgroup.accesskey "N">
-<!ENTITY columnPicker.resetToInbox.label "நிரல்களை பொது இருப்பாக மீளமைக்குக">
-<!ENTITY openInBrowser.accesskey "O">
-<!ENTITY thisFolder.label "இந்த கோப்புறை">
-<!ENTITY SendMessageTo.accesskey "s">
-<!ENTITY CopyNewsgroupName.accesskey "C">
-<!ENTITY openLinkInBrowser.accesskey "O">
-<!ENTITY disablePhishingWarning1.label "எல்லா செய்திகளினதும் மோசடி பிரச்சினைகளை செயலற்றதாக்குதல்">
-<!ENTITY openLinkInBrowser.label "இணைப்பை உலாவியில் திறக்க">
-<!ENTITY closeOtherTabsCmd2.accesskey "o">
-<!ENTITY mdnBarIgnoreButton2.accesskey "I">
-<!ENTITY stopCmd.label "Stop">
-<!ENTITY contextOpenConversation.accesskey "n">
-<!ENTITY columnPicker.thisFolder.label "இந்த கோப்புறை">
-<!ENTITY CopyNewsgroupURL.accesskey "U">
-<!ENTITY columnPicker.applyTo.label "நிரல்களுக்கு பிரயோகிக்க…"> 
-<!ENTITY unifiedFolders.label "Unified">
-<!ENTITY unifiedFolders.accesskey "n">
-<!ENTITY openInBrowser.label "உலாவியில் திறக்க">
-<!ENTITY folderMenu.label "கோப்புறை">
-<!ENTITY glodaSearchBar.placeholder "செயதிகள் தேடப்படுகிறது…">
-<!ENTITY mdnBarSendButton2.accesskey "S">
-<!ENTITY columnPicker.applyToFolderAndChildren.label "கோப்புறைகள் மற்றும் அதன் பிள்ளைகள்…">
-<!ENTITY savedFiles.label "கோப்பு செமிக்கப்பட்டது">
-<!ENTITY archiveButton.label "ஆவணக்காப்பு">
-<!ENTITY moveToNewWindow.label "புதிய சாளரத்திற்கு நகர்த்துக">
-<!ENTITY savedFiles.key "j">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY SubscribeToNewsgroup.label "செய்தி தொகுதியில் அங்கத்தினராக்குக">
-<!ENTITY toggleReadCmd.key "m">
-<!ENTITY recentlyClosedTabsCmd.accesskey "R">
-<!ENTITY contextArchive.accesskey "h">
-<!ENTITY openConversationCmd.label "உரையாடலில் திறக்க">
-<!ENTITY markAsUnreadCmd.label "வாசிக்கப்படாதது மாதிரி">
-<!ENTITY CopyNewsgroupName.label "செய்தி தொகுதி பெயர்களை நகலெடுக்க">

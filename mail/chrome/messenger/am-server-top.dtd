@@ -29,6 +29,8 @@
 <!ENTITY connectionSecurityType-1.label "STARTTLS, இருந்தால் மட்டும்">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
+<!ENTITY authMethod.label "அத்தாட்சிப்படுத்தல் முறைகள்:">
+<!ENTITY authMethod.accesskey "i">
 <!ENTITY leaveOnServer.label "சேவையகத்தில் செய்திகளை விடுக">
 <!ENTITY leaveOnServer.accesskey "g">
 <!ENTITY headersOnly.label "தலைப்புக்களை மட்டும் கொணர்க">
@@ -40,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "">
 <!ENTITY downloadOnBiff.label "தன்னியக்கமாக புதிய செய்திகளை பதிவிறக்குக">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "உங்க பயனர் பெயர்">
 <!ENTITY deleteMessagePrefix.label "நான் செய்தியை அழிக்கும் போது:">
 <!ENTITY modelMoveToTrash.label "அதை குப்பை கோப்புறைக்கு நகர்த்துக">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -66,17 +67,16 @@
 <!ENTITY alwaysAuthenticate.label "இந்த சேவையகத்திற்கு தொடர்பு கொள்ளும் போது எப்பவுமே உறுதிப்படுத்தலை கோருக">
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc கோப்பு:">
-<!ENTITY localPath.label "உள் அடைவு:">
+<!ENTITY newsrcPicker.label "புதிய newsrc கோப்பை தெரிவு செய்க">
 <!ENTITY abbreviate.label "அஞ்சல் கோப்புறை பலகையில் செய்தித்தொகுப்பு பெயர்களை காண்பிக்கவும்:">
 <!ENTITY abbreviateOn.label "முழு பெயர்களும் (உதாரணமாக 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "பெயர்களை சுருக்குக (உதாரணமாக, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "உயர்நிலை...">
-<!ENTITY serverDefaultCharset.label "கொடாநிலை எழுத்து குறியீடு:">
 <!ENTITY advancedButton.accesskey "v">
+<!ENTITY localPath.label "உள் அடைவு:">
 <!ENTITY localFolderPicker.label "உள் அடைவை தெரிவு செய்க">
 <!ENTITY browseFolder.label "உலாவு...">
 <!ENTITY browseFolder.accesskey "">
-<!ENTITY newsrcPicker.label "புதிய newsrc கோப்பை தெரிவு செய்க">
 <!ENTITY browseNewsrc.label "உலாவு">
 <!ENTITY browseNewsrc.accesskey "e">
 
@@ -86,5 +86,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY authMethod.accesskey "i">
-<!ENTITY authMethod.label "அத்தாட்சிப்படுத்தல் முறைகள்:">

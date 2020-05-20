@@ -5,8 +5,11 @@
 wizard-linux-button-back =
     .label = பின்னால்
     .accesskey = B
+
 wizard-linux-button-next =
     .label = அடுத்து
     .accesskey = N
+
 wizard-macos-button-finish =
     .label = முடிந்தது
+

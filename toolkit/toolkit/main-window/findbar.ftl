@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = இந்த சொற்றொடரின் அடுத்த நிகழ்வைத் தேடு
 findbar-previous =
     .tooltiptext = இந்த சொற்றொடரின் முன்னைய நிகழ்வை தேடு
+

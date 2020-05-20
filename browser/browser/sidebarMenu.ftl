@@ -4,3 +4,4 @@
 
 sidebar-menu-bookmarks =
     .label = புத்தகக்குறிகள்
+

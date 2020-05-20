@@ -5,9 +5,6 @@
 
 <!ENTITY prefWindow.titleWin "விருப்பங்கள்">
 <!ENTITY prefWindow.titleGNOME "&brandShortName; விருப்பத்தேர்வுகள்">
-<!ENTITY prefWindow.styleWindows "அகலம்: 44em; உயரம்: 38em;">
-<!ENTITY prefWindow.styleMac "அகலம்: 47em;">
-<!ENTITY prefWindow.styleGNOME "அகலம்: 42em;">
 
 <!ENTITY paneGeneral.title "பொது">
 <!ENTITY paneDisplay.title "காண்பிக்கவும்">
@@ -15,3 +12,4 @@
 <!ENTITY paneAttachments.title "இணைப்புக்கள்">
 <!ENTITY paneSecurity.title    "பாதுகாப்பு">
 <!ENTITY paneAdvanced.title "உயர்நிலை">
+

@@ -3,17 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsAndEncodingsDialog.title "எழுத்துருக்களும் குறிமுறைகளும்">
-<!ENTITY window.width "50em">
-<!ENTITY window.macWidth "48em">
-<!ENTITY window.unixWidth "46em">
 
 <!ENTITY language.label "இதற்கான எழுத்துருக்கள்:">
 <!ENTITY language.accesskey "t">
 
 
 <!ENTITY  size.label                              "அளவு:">
-<!ENTITY  proportionalSize.accesskey              "e">
-<!ENTITY  sizeMono.accesskey                      "i">
 
 <!ENTITY proportional.label "நேர்விகிதத்தில்:">
 <!ENTITY proportional.accesskey "P">
@@ -25,19 +20,13 @@
 <!ENTITY monospace.label "Monospace:">
 <!ENTITY monospace.accesskey "m">
 
-<!ENTITY font.langGroup.latin1 "மேற்கத்திய">
-<!ENTITY font.langGroup.latin2 "மத்திய ஐரோப்பிய">
 <!ENTITY font.langGroup.japanese "ஜப்பானியம்">
 <!ENTITY font.langGroup.trad-chinese "பாரம்பரிய சைனீஸ் (தைவான்)">
 <!ENTITY font.langGroup.simpl-chinese "எளிய சைனீஸ்">
 <!ENTITY font.langGroup.trad-chinese-hk "பாரம்பரிய சைனீஸ் (ஹாங்காங்க்)">
 <!ENTITY font.langGroup.korean "கொரியன்">
 <!ENTITY font.langGroup.cyrillic "சிரிலிக்">
-<!ENTITY font.langGroup.baltic "பால்டிக்">
 <!ENTITY font.langGroup.el "கிரேக்கம்">
-<!ENTITY font.langGroup.turkish "துருக்கிய">
-<!ENTITY font.langGroup.unicode "மற்ற மொழிகள்">
-<!ENTITY font.langGroup.user-def "பயனர் வரையறுத்தது">
 <!ENTITY font.langGroup.thai "தாயி">
 <!ENTITY font.langGroup.hebrew "ஹீப்ரு">
 <!ENTITY font.langGroup.arabic "அரபிக்">
@@ -74,11 +63,7 @@
 
 <!ENTITY sendDefaultCharset.label "அனுப்பும் அஞ்சல்l:">
 <!ENTITY sendDefaultCharset.accesskey "u">
-<!ENTITY languagesTitle1.label "எழுத்துரு குறிமுறைகள்">
-<!ENTITY composingDescription.label "கொடாநிலை எழுத்துரு குறிமுறைகளை அனுப்புவதில் அமைக்கவும்">
 
 <!ENTITY viewDefaultCharsetList.label "வரும் அஞ்சல்:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
 
-<!ENTITY replyInDefaultCharset2.label "கொடாநிலை எழுத்துரு குறிமுறையை பதில்களில் பயன்படுத்துக">
-<!ENTITY replyInDefaultCharset2.accesskey "h">

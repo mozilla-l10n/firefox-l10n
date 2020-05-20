@@ -2,14 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY editContactPanelDeleteContact.label "அழிக்குக">
+<!ENTITY editContactPanelDeleteContact.accesskey "l">
+
 <!ENTITY editContactName.label "பெயர்:">
 <!ENTITY editContactName.accesskey "N">
 
 <!ENTITY editContactEmail.label "மின்னஞ்சல்:">
 <!ENTITY editContactEmail.accesskey "E">
 
-<!ENTITY editContactPanelCancel.label "இரத்து செய்க">
-<!ENTITY editContactPanelCancel.accesskey "C">
+<!ENTITY editContactAddressBook.label "முகவரிப் புத்தகம்:">
+<!ENTITY editContactAddressBook.accesskey "A">
 
 <!ENTITY editContactPanelDone.label "முடிந்தது">
 <!ENTITY editContactPanelDone.accesskey "D">
@@ -20,8 +23,4 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY editContactPanelDeleteContact.accesskey "l">
-<!ENTITY editContactPanelDeleteContact.label "அழிக்குக">
-<!ENTITY editContactAddressBook.label "முகவரிப் புத்தகம்:">
-<!ENTITY editContactAddressBook.accesskey "A">
 <!ENTITY contactMoveDisabledWarning.description "உங்களால் முகவரிப் புத்தகத்தை மாற்றமுடியாது ஏனென்றால் தொடர்புகள் அனுப்பப்படும் பட்டியலில் உண்டு.">

@@ -11,16 +11,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = வலையமைப்பிற்கான Proxy இனை தன்னிச்சையாக கண்டறிக
     .accesskey = w
+
 connection-proxy-http-share =
     .label = இந்த proxy இனை அனைத்து நெறிமுறைகளிலும் பயன்படுத்துக
     .accesskey = s
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = எடுத்துக்காட்டு: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = மீளேற்றுக
     .accesskey = e
+

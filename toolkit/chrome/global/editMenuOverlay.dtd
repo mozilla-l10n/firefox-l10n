@@ -22,6 +22,7 @@
 <!ENTITY selectAllCmd.label        "அனைத்தையும் தெரிக">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "தேடு">
 
 <!ENTITY findCmd.accesskey         "F">

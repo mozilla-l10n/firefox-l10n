@@ -21,6 +21,3 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.close.label           "மூடுக">
-<!ENTITY button.close.accesskey       "C">
-

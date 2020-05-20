@@ -36,11 +36,12 @@
 <!ENTITY printPreviewContactCmd.accesskey               "v">
 <!ENTITY printPreviewAddressBook.label "முகவரிப் புத்தகத்தை முன்நோக்கு">
 <!ENTITY printPreviewAddressBook.accesskey "B">
-<!ENTITY printAddressBook.label "முகவரிப் புத்தகத்தை அச்சிடு">
-<!ENTITY printAddressBook.accesskey "A">
 <!ENTITY printContactCmd.label                          "தொடர்பை அச்சிடுக…">
 <!ENTITY printContactCmd.accesskey                      "P">
 <!ENTITY printContactCmd.key                            "P">
+
+<!ENTITY printAddressBook.label "முகவரிப் புத்தகத்தை அச்சிடு">
+<!ENTITY printAddressBook.accesskey "A">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "செவ்வையாக்கு">
@@ -77,9 +78,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "உண்மை">
-<!ENTITY propertiesCmd.label "தன்மைகள்...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 
 <!-- View Menu -->
@@ -95,12 +93,8 @@
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "தனிப்பயனாக்கு">
 <!ENTITY customizeToolbar.accesskey "C">
-<!ENTITY showContactPane.label "தொடர்பு சுருக்கப் பலகம்">
-<!ENTITY showContactPane.accesskey                      "C">
 <!ENTITY menu_ShowNameAs.label "பெயரை இப்படிக் காட்டு">
 <!ENTITY menu_ShowNameAs.accesskey "N">
-<!ENTITY firstLastCmd.label "முதல், கடைசி">
-<!ENTITY firstLastCmd.accesskey "F">
 <!ENTITY lastFirstCmd.label "கடைசி, முதல்">
 <!ENTITY lastFirstCmd.accesskey "L">
 <!ENTITY displayNameCmd.label "பெயரைக் காட்டு">
@@ -120,8 +114,6 @@
 <!ENTITY importCmd.accesskey "I">
 <!ENTITY exportCmd.label "ஏற்றுமதி...">
 <!ENTITY exportCmd.accesskey "E">
-<!ENTITY preferencesCmd.label "விருப்பங்கள்...">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "விருப்பத்தெரிவுகள்">
 <!ENTITY preferencesCmdUnix.accesskey "N">
 
@@ -131,8 +123,6 @@
 <!ENTITY newContactButton.accesskey                     "C"> 
 <!ENTITY newlistButton.label "புதிய பட்டியல்">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton2.label "தன்மைகள்">
-<!ENTITY editButton2.accesskey "P">
 <!ENTITY newmsgButton.label "எழுது">
 <!ENTITY newmsgButton.accesskey "W">
 <!ENTITY newIM.label "உடனடிச் செய்தி">
@@ -143,13 +133,9 @@
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "புதிய முகவரிப்புத்தகத் தொடர்பை உருவாக்குக">
 <!ENTITY newlistButton.tooltip "புதிய பட்டியலை உருவாக்கு">
-<!ENTITY editButton2.tooltip "தெரிவு செய்த பக்கத்தை செவ்வையாக்கு">
 <!ENTITY newmsgButton.tooltip "அஞ்சல் செய்தியை அனுப்பு">
 <!ENTITY newIM.tooltip "உடனடிச் செய்தி அல்லது அரட்டையை அனுப்பு">
 <!ENTITY deleteButton2.tooltip "தெரிவு செய்த பக்கம் அல்லது முகவரிப்புத்தகத்தை நீக்கு">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label "முகவரிப் புத்தகங்கள்">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "பெயர் அல்லது மின்னஞ்சல்">
@@ -163,8 +149,6 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "மின்னஞ்சல்">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "திரைப்பெயர்">
-<!ENTITY ScreenName.accesskey "S">
 <!ENTITY Company.label "நிறுவனம்">
 <!ENTITY Company.accesskey "Z">
 <!ENTITY NickName.label "குறும்பெயர்">
@@ -192,6 +176,7 @@
 <!ENTITY _PhoneticName.label "உச்சரிப்புப் பெயர்">
 <!ENTITY _PhoneticName.accesskey "O">
 
+<!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading "தொடர்பு கொள்க">
 <!ENTITY home.heading "இல்லம்">
@@ -210,7 +195,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "சாளரம்">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "சிறிதாக்கு">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "அனைத்தையும் முன் கொணர்">
 <!ENTITY zoomWindow.label "பெரிதாக்கு">

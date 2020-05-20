@@ -18,12 +18,6 @@
 
 
 
-<!ENTITY cmd.back.tooltip                     "ஒரு பக்கம் பின்னால் செல்">
-<!ENTITY cmd.forward.tooltip                  "ஒரு பக்கம் முன்னே செல்க">
-
-
-
-
 <!-- global warnings -->
 
 
@@ -110,21 +104,6 @@
 
 
 
-<!ENTITY detail.numberOfDownloads.label       "பதிவிறக்கங்கள்">
-
-
-<!ENTITY detail.updateDefault.label           "பொது இருப்பு">
-
-
-
-
-
-
-
-<!ENTITY detail.size                          "அளவு">
-
-
-
 
 
 
@@ -132,12 +111,10 @@
 
 
 <!-- ratings -->
+
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "ரத்து">
 <!-- list sorting -->
-
-
-<!ENTITY sort.name.label                      "பெயர்">
 
 
 
@@ -181,17 +158,6 @@
 
 
 
-
-
-
-
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "மேலும் அறிய">
 
 
 

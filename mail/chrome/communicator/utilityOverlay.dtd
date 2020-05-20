@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- these things need to move into utilityOverlay.xul -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
 
 
@@ -33,8 +34,6 @@
 <!ENTITY selectAllCmd.label "அனைத்தையும் தெரிவு செய்">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY preferencesCmd.label "விருப்பங்கள்...">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "விருப்பத்தெரிவுகள்">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -44,9 +43,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY showTaskbarCmd.label "நிலைமைப் பட்டை">
 <!ENTITY showTaskbarCmd.accesskey "S">
-
-<!ENTITY proxy.label "proxy கட்டமைப்பு...">
-<!ENTITY proxy.accesskey "C">
 
 
 <!ENTITY closeCmd.label "மூடு">

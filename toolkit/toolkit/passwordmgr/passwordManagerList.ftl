@@ -7,3 +7,4 @@ column-heading-site =
 close-button =
     .label = மூடுக
     .accesskey = C
+

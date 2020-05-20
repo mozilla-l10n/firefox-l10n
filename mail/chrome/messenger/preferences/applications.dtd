@@ -11,6 +11,8 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
+<!ENTITY filter.placeholder "தேடுக">
+
 <!ENTITY saveTo.label                 "இற்கு கோப்புகளை சேமிக்க">
 <!ENTITY saveTo.accesskey             "S">
 <!ENTITY alwaysAsk.label              "கோப்புகளை சேமிக்கும் ஒவ்வொறு தடவையும் என்னை கேட்க">
@@ -26,4 +28,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY filter.placeholder "தேடுக">
