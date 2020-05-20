@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Nova lingia da separaziun">
 <!ENTITY cmd.new_separator.accesskey       "N">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Rechargiar il segnapagina dinamic">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "d">
-
-<!ENTITY cmd.moveBookmarks.label                  "Spustar…">
-<!ENTITY cmd.moveBookmarks.accesskey              "S">
-
 <!ENTITY col.name.label          "Num">
 <!ENTITY col.tags.label          "Chavazzins">
 <!ENTITY col.url.label           "Adressa">
 <!ENTITY col.mostrecentvisit.label "L'ultima visita">
 <!ENTITY col.visitcount.label    "Visità il pli savens">
-<!ENTITY col.description.label   "Descripziun">
 <!ENTITY col.dateadded.label     "Agiuntà">
 <!ENTITY col.lastmodified.label  "Midà la davosa giada">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "A la proxima pagina">
 
-<!ENTITY detailsPane.more.label "Dapli">
-<!ENTITY detailsPane.more.accesskey "D">
-<!ENTITY detailsPane.less.label "Damain">
-<!ENTITY detailsPane.less.accesskey "D">
 <!ENTITY detailsPane.selectAnItemText.description "Tscherna in'endataziun per vesair e modifitgar sias caracteristicas">
 
 <!ENTITY view.label               "Vista">

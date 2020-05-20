@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Serrar
     .accesskey = e
+
 show-passwords =
     .label = Mussar ils pleds-clav
     .accesskey = M
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Vuls ti propi stizzar tut ils pleds-clav?
 remove-all-passwords-title = Stizzar tut ils pleds-clav
 no-master-password-prompt = Vuls ti propi laschar mussar tes pleds-clav?
+
+## OS Authentication dialog
+

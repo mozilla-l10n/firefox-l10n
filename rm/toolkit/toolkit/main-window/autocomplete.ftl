@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importescha tias infurmaziuns d'annunzia ord { $browser }</div>
     <div data-l10n-name="line2">per { $host } ed autras websites</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Ulteriuras infurmaziuns

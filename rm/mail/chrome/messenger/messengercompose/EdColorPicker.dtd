@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Colur">
 <!ENTITY lastPickedColor.label "Colur tschernida l'ulitma giada">
 <!ENTITY lastPickedColor.accessKey "L">
-<!ENTITY setColor1.label "Clicca sin ina colur u">
-<!ENTITY setColor2.label "endatescha in term da colur da HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Tscherna ina colur:">
 <!ENTITY chooseColor2.label "Endatar in code da colur HTML">
 <!ENTITY chooseColor2.accessKey "H">

@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Segnapaginas
+
 sidebar-menu-history =
     .label = Cronologia
+
 sidebar-menu-synced-tabs =
     .label = Tabs sincronisads
+
 sidebar-menu-close =
     .label = Serrar la trav laterala

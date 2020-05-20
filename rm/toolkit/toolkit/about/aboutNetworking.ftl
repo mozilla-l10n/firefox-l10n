@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = Suffix DNS
 websockets = WebSockets
 refresh = Actualisar
 auto-refresh = Actualisar automaticamain mintga 3 secundas
 hostname = Num dal host
 port = Port
 http2 = HTTP/2
-about-networking-title = Connexiuns a la rait
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = Suffix DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = Actualisar
-about-networking-auto-refresh = Actualisar automaticamain mintga 3 secundas
-about-networking-hostname = Num dal host
-about-networking-port = Port
-about-networking-http-version = Versiun HTTP
 ssl = SSL
 active = Activ
 idle = inactiv
@@ -69,8 +57,18 @@ rcwn-avg-long = Media lunga
 rcwn-std-dev-long = Deviaziun da standard lunga
 rcwn-cache-slow = Dumber da giadas ch'il cache è plaun
 rcwn-cache-not-slow = Dumber da giadas ch'il cache è svelt
-networkid = ID da la rait
-networkid-id = ID da la rait
+
+about-networking-title = Connexiuns a la rait
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = Suffix DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Actualisar
+about-networking-auto-refresh = Actualisar automaticamain mintga 3 secundas
+about-networking-hostname = Num dal host
+about-networking-port = Port
+about-networking-http-version = Versiun HTTP
 about-networking-ssl = SSL
 about-networking-active = Activ
 about-networking-idle = inactiv
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID da la rait
 
 ## Link is intended as "network link"
 
-networkid-isUp = La colliaziun è activa
-networkid-statusKnown = Il status da la colliaziun è enconuschent
 about-networking-networkid-is-up = La colliaziun è activa
 about-networking-networkid-status-known = Il status da la colliaziun è enconuschent
 

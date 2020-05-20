@@ -20,6 +20,7 @@ open-location = Tschertgar u endatar in'adressa
 share = Cundivider
 close-window = Serrar la fanestra
 open-sidebar = Travs lateralas
+
 # This string describes shortcuts for search.
 search-popover = Scursanidas per la tschertga
 # Describes searches limited to a specific scope

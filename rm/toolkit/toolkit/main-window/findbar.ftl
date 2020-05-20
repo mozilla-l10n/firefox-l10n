@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Tschertgar la proxima posiziun da l'expressiun
 findbar-previous =
     .tooltiptext = Tschertgar la posiziun precedenta da l'expressiun
+
 findbar-find-button-close =
     .tooltiptext = Serrar la trav da tschertgar
+
 findbar-highlight-all2 =
     .label = Relevar tut
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Relevar l'expressiun dapertut nua ch'ella cumpara
+
 findbar-case-sensitive =
     .label = Resguardar maiusclas/minusclas
     .accesskey = r
     .tooltiptext = Tschertgar cun resguardar maiusclas/minusclas
+
 findbar-match-diacritics =
     .label = Resguardar ils segns diacritics
     .accesskey = i
     .tooltiptext = Distinguer tranter caracters cun accent e lur caracters da basa (per exempel cun tschertgar «resguarda» na vegn betg chattà «resguardà»)
+
 findbar-entire-word =
     .label = Pleds entirs
     .accesskey = P

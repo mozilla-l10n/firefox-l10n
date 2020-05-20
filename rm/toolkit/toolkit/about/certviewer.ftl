@@ -76,6 +76,7 @@ certificate-viewer-authority-info-aia = Infurmaziuns davart l'autoritad (AIA)
 certificate-viewer-certificate-policies = Reglas dal certificat
 certificate-viewer-embedded-scts = SCTs integrads
 certificate-viewer-crl-endpoints = CRL Endpoints
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Telechargiar
@@ -95,6 +96,7 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
 certificate-viewer-export = Exportar
     .download = { $fileName }.pem
 

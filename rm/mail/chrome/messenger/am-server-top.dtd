@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Telechargiar automaticamain novs messadis">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Tes num d'utilisader">
 <!ENTITY deleteMessagePrefix.label "Cun stizzar in messadi:">
 <!ENTITY modelMoveToTrash.label "Spustar el en quest ordinatur:">
 <!ENTITY modelMoveToTrash.accesskey "o">

@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Avrir en ina nova fanestra privata
     .accesskey = P
+
 places-new-bookmark =
     .label = Nov segnapagina…
     .accesskey = N
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nova lingia da separaziun
     .accesskey = N
+
 places-view =
     .label = Vista
     .accesskey = V
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Tenor data e website
     .accesskey = d
+
 places-history-search =
     .placeholder = Tschertgar en la cronologia
 places-bookmarks-search =
     .placeholder = Tschertgar en ils segnapaginas
+
 places-delete-domain-data =
     .label = Emblidar questa website
     .accesskey = E

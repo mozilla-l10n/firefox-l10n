@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Ti es vegnì dumandà da fidar ad in nov post da certificaziun (CA).">
 <!ENTITY downloadCert.trustSSL "Fidar a questa CA per identifitgar websites.">
 <!ENTITY downloadCert.trustEmail "Fidar a questa CA per identifitgar utilisaders dad e-mail.">
-<!ENTITY downloadCert.trustObjSign "Fidar a questa CA per identifitgar sviluppaders da software.">
 <!ENTITY downloadCert.message3 "Avant che fidar a questa CA per mintga intent, duessas ti controllar il certificat e sias directivas e proceduras (sche avant maun).">
 <!ENTITY downloadCert.viewCert.label "Mussar">
 <!ENTITY downloadCert.viewCert.text "Controllar il certificat CA">

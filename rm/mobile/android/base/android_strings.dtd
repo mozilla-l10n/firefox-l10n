@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "Servetsch da posiziun da &vendorShortName; è activ">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Actualisaziuns automaticas">
-<!ENTITY pref_update_autodownload_wifi "Mo via WLAN">
-<!ENTITY pref_update_autodownload_never "Mai">
-<!ENTITY pref_update_autodownload_always "Adina">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Agid">
 
@@ -748,25 +740,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Segnapaginas e cronologia">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName;: Actualisaziun disponibla">
-<!ENTITY updater_start_select2 "Tutgar per telechargiar">
-
-<!ENTITY updater_downloading_title2 "Telechargiar &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Betg reussì da telechargiar">
-<!ENTITY updater_downloading_select2 "Tutgar per applitgar l\&apos;actualisaziun cura ch\&apos;ella è telechargiada">
-<!ENTITY updater_downloading_retry2 "Tutgar per reempruvar">
-
-<!ENTITY updater_apply_title3 "Telechargià ina actualisaziun per &brandShortName;">
-<!ENTITY updater_apply_select3 "Tutgar per installar">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Per telechargiar datotecas ed actualisaziuns stos ti permetter a &brandShortName; dad acceder a la memoria.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Permetter">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova sessiun da giast">
 <!ENTITY exit_guest_session "Terminar la sessiun da giast">
@@ -951,7 +924,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Tun e video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Tips e trics da &vendorShortName;">
-<!ENTITY updater_notification_channel "Actualisaziuns da l\&apos;app">
 <!ENTITY synced_tabs_notification_channel "Tabs sincronisads">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

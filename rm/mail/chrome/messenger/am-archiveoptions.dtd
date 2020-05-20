@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Opziuns dad archivar">
 <!ENTITY archiveGranularityPrefix.label "Cun archivar messadis, als deponer en:">
 <!ENTITY archiveFlat.label "In singul ordinatur">

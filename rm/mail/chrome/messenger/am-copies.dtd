@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Copias &amp; ordinaturs">
 <!ENTITY sendingPrefix.label "Cun trametter messadis, automaticamain: ">
 <!ENTITY fccMailFolder.label "Memorisar ina copia sut:">

@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL dal feed:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Endatar ina URL valida per agiuntar">
 <!ENTITY feedLocation2.placeholder   "Endatar in URL valid dal feed">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Controllar la validaziun e retschaiver ina URL valida.">

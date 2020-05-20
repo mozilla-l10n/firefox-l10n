@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Mussar infurmaziuns davart la pagina
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Ti has bloccà l'access a MIDI per questa pagina d'internet.
 urlbar-install-blocked =
     .tooltiptext = Ti has bloccà l'installaziun da supplements per questa website.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifitgar quest segnapagina ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Administrar il supplement…
 page-action-remove-from-urlbar =
     .label = Allontanar da la trav d'adressas
+
 page-action-remove-extension =
     .label = Allontanar l'extensiun
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Per questa giada, tschertgar cun:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Midar parameters da tschertga
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Midar ils parameters per tschertgar
+
 search-one-offs-context-open-new-tab =
     .label = Tschertgar en in nov tab
     .accesskey = T
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Mussar l'editur cun memorisar
     .accesskey = s
+
 bookmark-panel-done-button =
     .label = Terminar
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Tut las fanestras visiblas sin tes visur vegnan cundi
 
 enable-devtools-popup-description = Per utilisar la scursanida F12, l'emprim avrir ils utensils per sviluppaders via il menu Sviluppaders dal web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ti has concedì dretgs supplementars a questa pagina.
 urlbar-switch-to-tab =
     .value = Midar al tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensiun:
+
 urlbar-go-button =
     .tooltiptext = Chargiar l'adressa endatada en la trav d'adressas
 urlbar-page-action-button =

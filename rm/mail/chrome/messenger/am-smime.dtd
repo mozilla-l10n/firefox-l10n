@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Obligatoric (mo pussaivel da trametter sche tut ils destinaturs disponan d'in certificat)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Utilisar quest certificat per criptar &amp; decriptar messadis:">
+
 <!ENTITY digitalSign.certificate.button "Tscherner…">
 <!ENTITY digitalSign.certificate.accesskey "T">
 <!ENTITY digitalSign.certificate_clear.button "Stizzar">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Tscherner in certificat">
 <!ENTITY certPicker.info  "Certificat:">
 <!ENTITY certPicker.detailsLabel "Detagls dal certificat tschernì:">
+

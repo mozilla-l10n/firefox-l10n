@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Jau enconusch las ristgas!
 config-about-warning-checkbox =
     .label = Mussar quest avis la proxima giada
+
 config-search-prefs =
     .value = Tschertgar:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Copiar
     .accesskey = C
+
 config-copy-name =
     .label = Copiar il num
     .accesskey = o
+
 config-copy-value =
     .label = Copiar la valur
     .accesskey = v
+
 config-modify =
     .label = Modifitgar
     .accesskey = M
+
 config-toggle =
     .label = Midar
     .accesskey = i
+
 config-reset =
     .label = Redefinir
     .accesskey = R
+
 config-new =
     .label = Nov
     .accesskey = N
+
 config-string =
     .label = String
     .accesskey = S
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = Standard
 config-modified = modifitgà
 config-locked = bloccà
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Endatescha il num da la caracteristica
+
 config-nan-title = Valur nunvalida
 config-nan-text = Il text che ti has endatà n'è betg ina cifra.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nova valur da { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Endatescha ina valur da { $type }
