@@ -4,5 +4,6 @@
 
 hf-url =
     .label = URL
+
 dialog-cancel-label = Bateuë
 dialog-close-label = Tôp

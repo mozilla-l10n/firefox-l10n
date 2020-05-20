@@ -5,9 +5,6 @@
 <!-- LOCALIZATION NOTE (search.commandkey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 
-<!ENTITY listEmpty.findUpdates.label          "Paréksa Vèrsi Barô">
-<!ENTITY listEmpty.button.label               "Meurunoë lom bhah peungaya">
-
 
 
 <!-- global warnings -->
@@ -15,9 +12,6 @@
 <!-- categories / views -->
 
 
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Paréksa Vèrsi Barô">
-<!ENTITY updates.checkForUpdates.accesskey    "P">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
@@ -41,11 +35,6 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!-- detail view -->
-
-
-<!ENTITY detail.repository                    "Profil Peungaya">
-
-<!ENTITY detail.checkForUpdates.label         "Paréksa Vèrsi Barô">
 
 
 <!-- ratings -->
@@ -84,6 +73,4 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-
-<!ENTITY pluginDeprecation.learnMore "Meurunoë Lom.">
 

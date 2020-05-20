@@ -9,11 +9,15 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = Pumaté Èkstènsi
+
 connection-proxy-configure = Aksès Proksi keu Inteunèt Beukonfigur
+
 connection-proxy-option-no =
     .label = Hana proksi
     .accesskey = y
@@ -26,6 +30,7 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Atô proksi manual
     .accesskey = m
+
 connection-proxy-http = Proksi HTTP
     .accesskey = k
 connection-proxy-http-port = Port
@@ -33,18 +38,23 @@ connection-proxy-http-port = Port
 connection-proxy-http-share =
     .label = Neugui sèrver proksi nyoë keu banmandum protokol
     .accesskey = s
+
 connection-proxy-ssl = Proxy SSL
     .accesskey = L
+
 connection-proxy-ssl-port = Port
     .accesskey = o
+
 connection-proxy-ftp = Proksi FTP
     .accesskey = F
 connection-proxy-ftp-port = Port
     .accesskey = r
+
 connection-proxy-socks = Host SOCKS
     .accesskey = C
 connection-proxy-socks-port = Port
     .accesskey = t
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -53,23 +63,27 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Hana Proksi keu
     .accesskey = H
+
 connection-proxy-noproxy-desc = Miseuë: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-autotype =
     .label = URL peuatô proksi otomatis
     .accesskey = p
+
 connection-proxy-reload =
     .label = Peuhah keulayi
     .accesskey = k
+
 connection-proxy-autologin =
     .label = Bèk lakèë otèntikasi meunye ka meukeubah paswod
     .accesskey = e
     .tooltip = Piléhan nyoë seucara seungap dijak buet keudroëjih meunye droëneuh kalheuëh neubah peukateuën keujih. Meunyena salah jitanyong lom bak droëneuh.
+
 connection-proxy-socks-remote-dns =
     .label = Proksi DNS watèë meungui SOCKS v5
     .accesskey = D
+
 connection-dns-over-https =
     .label = Peuudép DNS röt HTTPS
     .accesskey = D
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL keu peuseuleusoe DNS rot HTTPS
+

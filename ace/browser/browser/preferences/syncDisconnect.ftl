@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Peuputôh { -sync-brand-short-name } ?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Pue neu neuk böh data browser bak komputer nyoe? Data { -sync-brand-name } droen hana gadöh lam akun droen.
+
 sync-disconnect-remove-sync-caption = Böh Data { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Bookmark, Histori, lageuem rahsia, dll.
+
 sync-disconnect-remove-other-caption = Sampôh Data Privasi nyang La'en
+
 sync-disconnect-remove-other-data = Cookies, cache, data situs web offline, dll.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Peuputôh Seunambông...
+
 sync-disconnect-cancel =
     .label = Bateuë
     .accesskey = B
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Hana meusambông & Sampôh
     .accesskey = H
+
 sync-disconnect-confirm-disconnect =
     .label = Peuputôh
     .accesskey = P

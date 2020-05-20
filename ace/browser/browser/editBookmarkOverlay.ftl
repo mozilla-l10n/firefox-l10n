@@ -5,5 +5,7 @@
 bookmark-overlay-name =
     .value = Nan:
     .accesskey = N
+
 bookmark-overlay-choose =
     .label = Pileh…
+

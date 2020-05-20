@@ -7,6 +7,7 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
 
@@ -14,6 +15,7 @@ toolbar-button-back =
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
 
@@ -22,6 +24,7 @@ toolbar-button-forward =
 main-context-menu-reload =
     .aria-label = Peuhah keulayi
     .accesskey = R
+
 toolbar-button-reload =
     .label = { main-context-menu-reload.aria-label }
 
@@ -45,6 +48,7 @@ toolbar-button-page-save =
 main-context-menu-open-link =
     .label = Peuhah Peunawôt
     .accesskey = O
+
 main-context-menu-save-link =
     .label = Keubah Peunawôt Seubagoë…
     .accesskey = k
@@ -76,21 +80,28 @@ main-context-menu-media-play-speed-normal =
 main-context-menu-media-video-fullscreen =
     .label = Peunoh Layeuë
     .accesskey = F
+
 main-context-menu-media-video-leave-fullscreen =
     .label = Teubiet Peunoh Layeu
     .accesskey = u
+
 main-context-menu-image-view =
     .label = Kalon Gamba
     .accesskey = I
+
 main-context-menu-image-copy =
     .label = Salèn Gamba
     .accesskey = y
+
 main-context-menu-send-to-device =
     .label = Peu'ét Laman u Alat
     .accesskey = n
+
 main-context-menu-link-send-to-device =
     .label = Peu'ét Peunawôt u Alat
     .accesskey = n
+
 main-context-menu-eme-learn-more =
     .label = Meurunoë leubèh lhôk bhaih DRM…
     .accesskey = D
+

@@ -8,7 +8,23 @@ features-name = Nan
 app-basics-name = Nan
 modified-prefs-name = Nan
 locked-prefs-name = Nan
+
+## Media titles
+
 media-device-name = Nan
+
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
@@ -20,6 +36,7 @@ unknown = Hana Jituri
 ## not found.
 
 glcontext-crash-guard = OpenGL
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

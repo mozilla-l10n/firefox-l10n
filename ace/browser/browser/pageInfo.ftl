@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = Pileh Bandum
     .accesskey = A
+
 general-tab =
     .label = Umom
     .accesskey = G
 general-meta-name =
     .label = Nan
+
 security-view-unknown = Hana Jituri
     .value = Hana Jituri
 
@@ -27,16 +31,20 @@ security-view-unknown = Hana Jituri
 
 security-site-data-cookies-only = Nyo, kuki
 security-site-data-no = H‘an
+
 image-size-unknown = Hana Jituri
 media-video = Video
 saved-passwords-yes = Nyo
 saved-passwords-no = H‘an
+
 security-no-visits = H‘an
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

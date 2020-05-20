@@ -4,12 +4,16 @@
 
 list-empty-find-updates =
     .label = Paréksa Vèrsi Barô
+
 list-empty-button =
     .label = Meurunoë lom bhah peungaya
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Profil Peungaya
+
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -17,16 +21,20 @@ detail-repository-value =
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
     .label = Paréksa Vèrsi Barô
     .accesskey = P
+
 addon-updates-check-for-updates = Paréksa Vèrsi Barô
     .accesskey = P
 

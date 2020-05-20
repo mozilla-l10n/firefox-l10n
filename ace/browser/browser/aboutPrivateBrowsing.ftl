@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Meurunoe lom bhah <a data-l10n-name="learn-more">Peuhah Wèb ngön Rahsia</a>.
 about-private-browsing-info-visited = on nyang neukunjong
+
 privatebrowsingpage-open-private-window-label = Neupeuhah saboh tingkap rahsia
     .accesskey = R
 about-private-browsing-info-notsaved = Jan neupeuhah lam saboh tingkap rahsia, { -brand-short-name } <strong>hana aman</strong>:
@@ -17,3 +18,4 @@ about-private-browsing-info-cookies = kukis
 tracking-protection-start-tour = Neukalon kiban cara keurija jih
 about-private-browsing-note = Jeunajah Rahsia <strong>bek neupeugot droeneuh hananan</strong> bak internet. Ureung Po atawa nyang seudia layanan Internet droeneuh mantong jeuet jiteupue laman internet nyang droeneuh kunjong.
 about-private-browsing-not-private = Droeneuh jinoe hana bak tingkap rahsia droeneuh.
+

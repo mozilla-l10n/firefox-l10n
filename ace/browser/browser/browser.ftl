@@ -29,6 +29,7 @@ search-one-offs-change-settings-button =
     .label = Ubah Peuatô Mita
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah peuatô mita
+
 search-one-offs-context-open-new-tab =
     .label = Mita nibak Tab Barô
     .accesskey = T
@@ -37,6 +38,7 @@ search-one-offs-context-open-new-tab =
 
 bookmark-panel-done-button =
     .label = Seuleusoë
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.

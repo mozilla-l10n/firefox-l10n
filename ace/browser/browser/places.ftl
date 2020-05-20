@@ -5,6 +5,8 @@
 places-open =
     .label = Peuhah
     .accesskey = O
+
 places-view =
     .label = Ngieng
     .accesskey = w
+

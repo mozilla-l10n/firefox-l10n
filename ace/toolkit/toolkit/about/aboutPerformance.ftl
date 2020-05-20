@@ -19,7 +19,13 @@
 ##                     5.38 (medium), 105.38 (high)
 
 
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
 ## Tooltips for the action buttons
 
 close-tab =
     .title = Tôp tab
+

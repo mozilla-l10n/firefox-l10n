@@ -17,20 +17,24 @@ onboarding-button-label-try-now = Neuci Jinoe
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Ka trôk neuteuka bak { -brand-short-name }
+
 onboarding-start-browsing-button-label = Mulai Seumeulop
+
 onboarding-cards-dismiss =
     .title = Peudong
     .aria-label = Peudong
+
+## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name } Kajeuet Neuba Sajan
 onboarding-sync-welcome-content = Neucôk bookmark droen, history, lageum rahsia dan neuatô laén nibak mandum peukakah droen.
 onboarding-sync-welcome-learn-more-link = Meurunoë lom bhah Akun Firefox
-onboarding-sync-form-invalid-input = Peureulé email nyang beutoi
-onboarding-sync-legal-notice = Meunyô neupeuhan, droen sapue kheun nibak <a data-l10n-name="terms">Peuteunté meuhirö</a> dan <a data-l10n-name="privacy">Peuphon brithéi</a>.
+
 onboarding-sync-form-input =
     .placeholder = Surel
+
 onboarding-sync-form-continue-button = Cahdan
 onboarding-sync-form-skip-login-button = Pinah ilé
 
@@ -38,6 +42,7 @@ onboarding-sync-form-skip-login-button = Pinah ilé
 
 onboarding-sync-form-header = Neupasoe email droen
 onboarding-sync-form-sub-header = sambông nibak Peuakô Firefox
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -52,10 +57,14 @@ onboarding-sync-form-sub-header = sambông nibak Peuakô Firefox
 
 onboarding-private-browsing-title = Seumeulop Rasia
 onboarding-private-browsing-text = Neumeulayeu keudroe. Seulayeu rasiya deungon Peumeusom Asoe geupeutheun ureueng nyang geuseutot gata di internét.
+
 onboarding-screenshots-title = Deuneurop layeue
+
 onboarding-addons-title = Peungaya
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Peusa
+
 
 ## Message strings belonging to the Return to AMO flow
 

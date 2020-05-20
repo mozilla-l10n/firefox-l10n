@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Peutanda
+
 sidebar-menu-history =
     .label = Riwayat
+

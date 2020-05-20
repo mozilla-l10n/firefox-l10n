@@ -5,37 +5,50 @@
 permissions-window =
     .title = Keucuwali
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Alamat situihwèb
     .accesskey = l
+
 permissions-block =
     .label = Tham
     .accesskey = T
+
 permissions-session =
     .label = Peuidin keu Sési
     .accesskey = S
+
 permissions-allow =
     .label = Peuidin
     .accesskey = P
+
 permissions-site-name =
     .label = Situihwèb
+
 permissions-status =
     .label = Statuih
+
 permissions-remove =
     .label = Sampôh Situihwèb
     .accesskey = S
+
 permissions-remove-all =
     .label = Sampôh Ban Mandum Situihwèb
     .accesskey = a
+
 permissions-button-cancel =
     .label = Bateuë
     .accesskey = B
+
 permissions-button-ok =
     .label = Keubah nyang Teu-ubah
     .accesskey = K
+
 permissions-searchbox =
     .placeholder = Mita Situihwèb
+
 permissions-capabilities-allow =
     .label = Peuidin
 permissions-capabilities-block =
@@ -49,11 +62,6 @@ permissions-invalid-uri-title = Salah Meupasoë Nanhost (Hostname)
 permissions-invalid-uri-label = Neutulông pasoë nanhost (hostname) nyang beutôi
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = Keucuwali - Peulindông Tracking
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Droëneuh ka neupeulén Peulindông Tracking nibak situihwèb nyoë.
 
 ## Exceptions - Cookies
 
@@ -90,6 +98,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Droeneuh jeuet neupeuteuntèe situs wèb töh nyang sabé atawa han töm neupeuidin keu jiputa keudroe mèdia nyang na su. Neukeutik alamat situs nyang meuh'eut neuatô, lheueh nyan neuteugön Blokir atawa Peuidin.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -109,6 +119,8 @@ permissions-site-location-desc = Laman web imiyub nyoe kalheuh geulakéi idin ak
 permissions-site-location-disable-label =
     .label = Tham soe nyang laké lom nibak akses lokasi drôen
 permissions-site-location-disable-desc = Nyôe keu peutheun situs web laén nyang hana rôh lam list diateuh nibak ilakéi idin akses lokasi droen. Tham akses u lokasi droen jeut meuubah ladôm fitur situs web
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

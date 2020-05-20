@@ -4,6 +4,7 @@
 
 <!ENTITY undoCmd.label             "Peubateuë">
 <!ENTITY deleteCmd.label           "Sampôh">
+
 <!ENTITY findCmd.label             "Mita">
 <!ENTITY findCmd.key               "M">
 <!ENTITY findCmd.accesskey         "M">

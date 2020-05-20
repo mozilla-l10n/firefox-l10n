@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tulésan
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tulésan keu
     .accesskey = T
+
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Seunanteuët
     .accesskey = S
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Ukôran
     .accesskey = a
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Ukôran
     .accesskey = n
+
 fonts-minsize = Ukôran tulésan abéh ubeut
     .accesskey = e
+
 fonts-minsize-none =
     .label = Hana
+
 fonts-allow-own =
     .label = Peuidin ônwèb pilèh tulésan keudroë, kon lagèë teupilèh heut droëneuh diateuëh
     .accesskey = P
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Enkoding teunuléh keu Legacy Content
 fonts-languages-fallback-desc = Enkoding teunuléh nyoë teungui keu peuwaréh konten nyang gagai geupeunyata enkoding jih.
+
 fonts-languages-fallback-label = Encoding teunuléh fallback
     .accesskey = E
+
 fonts-languages-fallback-name-auto =
     .label = Baku keu Peulokalan Jinoë
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Viètnam
 fonts-languages-fallback-name-other =
     .label = Laén (rôh syit Western European)
-fonts-very-large-warning-title = Ukôran tulésan rayeuk abéh ubeut
-fonts-very-large-warning-message = Droëneuh ka neupiléh nyang paléng rayeuk keu ukôran haraih paléng ubeut (leubèh nibak 24 piksel). Nyoë teurasa puëh atawa han mungkén untôk tangui keupadup-padup ôn-miëng konfigurasi peunténg lagèë nyoë.
-fonts-very-large-warning-accept = Teutap peutheun nyang lôn ubah
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

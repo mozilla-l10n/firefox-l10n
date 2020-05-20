@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Pubateue Tôp Tab
+
 all-tabs-menu-hidden-tabs =
     .label = Tab Teusom
+
