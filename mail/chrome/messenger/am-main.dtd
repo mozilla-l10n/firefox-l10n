@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "הגדרות חשבון">
 <!ENTITY accountName.label "שם החשבון:">
 <!ENTITY accountName.accesskey "ח">

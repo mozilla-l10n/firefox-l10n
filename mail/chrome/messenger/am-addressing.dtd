@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "חיבור ומיעון הודעה">
 <!ENTITY addressingGroupTitle.label "מיעון">
 <!ENTITY addressingText.label      "בעת חיפוש כתובות:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "חיבור הודעה">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "חבר הודעות בתבנית HTML">
 <!ENTITY useHtml.accesskey                    "ת">
 <!ENTITY autoQuote.label                      "צטט אוטומטית הודעה מקורית בעת מענה">
 <!ENTITY autoQuote.accesskey                  "צ">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "ואז,">
-<!ENTITY then.accesskey                       "ז">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "כשמצטטים,">
 <!ENTITY quoting.accesskey                    "צ">

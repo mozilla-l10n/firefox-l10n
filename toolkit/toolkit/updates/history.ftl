@@ -4,27 +4,24 @@
 
 history-title = היסטוריית עדכונים
 history-intro = העדכונים הבאים הותקנו
+
 close-button-label =
     .buttonlabelcancel = סגירה
     .title = היסטוריית עדכונים
+
 no-updates-label = עדיין לא הותקנו עדכונים
 name-header = שם עדכון
 date-header = תאריך התקנה
 type-header = סוג
 state-header = מצב
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })‎
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })‎
+
 update-details = פרטים
 update-installed-on = הותקן בתאריך: { $date }
 update-status = מצב: { $status }

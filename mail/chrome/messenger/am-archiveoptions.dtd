@@ -14,7 +14,10 @@
 # hatul <amiadb@gmail.com>
 #
 -->
+
 <!-- extracted from am-archiveoptions.xul -->
+
+<!-- extracted from am-archiveoptions.xhtml -->
 
 <!ENTITY dialogTitle.label "אפשרויות ארכיון">
 <!ENTITY archiveGranularityPrefix.label "כאשר מעבירים הודעות לארכיון, מקם אותן בתוך:">

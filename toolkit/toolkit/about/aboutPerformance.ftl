@@ -54,3 +54,4 @@ close-tab =
     .title = סגירת לשונית
 show-addon =
     .title = הצגה במנהל התוספות
+

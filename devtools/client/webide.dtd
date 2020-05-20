@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "א">
 
 <!ENTITY projectButton_label "פתיחת יישום">
+
 <!ENTITY runtimeButton_label "בחירת זמן ריצה">
 
 <!-- We try to repicate Firefox' bindings: -->

@@ -56,6 +56,7 @@ certificate-viewer-miscellaneous = שונות
 certificate-viewer-fingerprints = טביעות אצבע
 certificate-viewer-certificate-policies = מדיניות של אישור
 certificate-viewer-crl-endpoints = נקודות קצה של CRL
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = הורדה

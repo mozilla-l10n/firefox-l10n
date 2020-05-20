@@ -5,50 +5,66 @@
 permissions-window =
     .title = חריגות
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = כתובת אתר
     .accesskey = ת
+
 permissions-block =
     .label = חסום
     .accesskey = ח
+
 permissions-session =
     .label = הרשה למשך ההפעלה
     .accesskey = מ
+
 permissions-allow =
     .label = הרשה
     .accesskey = ש
+
 permissions-site-name =
     .label = אתר
+
 permissions-status =
     .label = מצב
+
 permissions-remove =
     .label = הסרת אתר
     .accesskey = ה
+
 permissions-remove-all =
     .label = הסרת כל האתרים
     .accesskey = ס
+
 permissions-button-cancel =
     .label = ביטול
     .accesskey = ב
+
 permissions-button-ok =
     .label = שמירת שינויים
     .accesskey = ש
+
 permissions-autoplay-menu = ברירת מחדל עבור כל האתרים:
+
 permissions-searchbox =
     .placeholder = חיפוש אתר
+
 permissions-capabilities-autoplay-allow =
     .label = הפעלת שמע ווידאו
 permissions-capabilities-autoplay-block =
     .label = חסימת שמע
 permissions-capabilities-autoplay-blockall =
     .label = חסימת שמע ווידאו
+
 permissions-capabilities-allow =
     .label = הרשה
 permissions-capabilities-block =
     .label = חסום
 permissions-capabilities-prompt =
     .label = לשאול תמיד
+
 permissions-capabilities-listitem-allow =
     .value = הרשה
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = חריגות - חסימת תוכן
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = ביטלת את חסימת התוכן באתרים אלו.
+
 permissions-exceptions-etp-window =
     .title = חריגות עבור הגנת מעקב מתקדמת
     .style = { permissions-window.style }

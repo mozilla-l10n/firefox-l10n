@@ -20,6 +20,7 @@ open-location = חיפוש או הכנסת כתובת
 share = שיתוף
 close-window = סגירת חלון
 open-sidebar = סרגלי צד
+
 # This string describes shortcuts for search.
 search-popover = קיצורי דרך לחיפוש
 # Describes searches limited to a specific scope

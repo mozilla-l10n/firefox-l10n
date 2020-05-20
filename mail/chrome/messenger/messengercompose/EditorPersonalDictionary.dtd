@@ -17,8 +17,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "מילים במילון:">
 <!ENTITY DictionaryList.accessKey "מ">
-<!ENTITY ReplaceButton.label "החלף">
-<!ENTITY ReplaceButton.accessKey "ח">
 <!ENTITY RemoveButton.label "הסר">
 <!ENTITY RemoveButton.accessKey "ס">
 

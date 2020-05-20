@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = חיפוש
     .aria-label = חיפוש
+
 newtab-search-box-search-the-web-text = חיפוש ברשת
 newtab-search-box-search-the-web-input =
     .placeholder = חיפוש ברשת
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = עריכת אתר מוביל
 newtab-topsites-title-label = כותרת
 newtab-topsites-title-input =
     .placeholder = נא להזין כותרת
+
 newtab-topsites-url-label = כתובת
 newtab-topsites-url-input =
     .placeholder = נא להקליד או להזין כתובת
 newtab-topsites-url-validation = נדרשת כתובת תקינה
+
 newtab-topsites-image-url-label = כתובת תמונה מותאמת אישית
 newtab-topsites-use-image-link = שימוש בתמונה מותאמת אישית…
 newtab-topsites-image-validation = טעינת התמונה נכשלה. נא לנסות כתובת שונה.
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = לא ניתן לבטל פעולה זו.
 newtab-menu-section-tooltip =
     .title = פתיחת תפריט
     .aria-label = פתיחת תפריט
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = הסרה
     .aria-label = הסרה
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -125,6 +130,7 @@ newtab-label-removed-bookmark = הסימנייה הוסרה
 newtab-label-recommended = פופולרי
 newtab-label-saved = נשמר ל־{ -pocket-brand-name }
 newtab-label-download = התקבל
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -162,10 +168,12 @@ newtab-section-header-pocket = מומלץ על־ידי { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ניתן להתחיל בגלישה ואנו נציג בפניך מספר כתבות, סרטונים ועמודים שונים מעולים בהם ביקרת לאחרונה או שהוספת לסימניות.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = התעדכנת בכל הסיפורים. כדאי לנסות שוב מאוחר יותר כדי לקבל עוד סיפורים מובילים מאת { $provider }. לא רוצה לחכות? ניתן לבחור נושא נפוץ כדי למצוא עוד סיפורים נפלאים מרחבי הרשת.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
