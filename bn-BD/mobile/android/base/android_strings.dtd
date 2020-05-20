@@ -18,10 +18,8 @@
 <!ENTITY firstrun_data_message "কম ডাটা, বেশি সঞ্চয়">
 <!ENTITY firstrun_data_subtext2 "আপানার পরিদর্শন করা প্রতিটি সাইটে কম ডাটা ব্যবহার করতে ছবি প্রতিরোধ করুন।">
 <!ENTITY firstrun_sync_title "সিঙ্ক">
-<!ENTITY firstrun_sync_message2 "যেখানে আপনি ছেড়ে গিয়েছিলেন, সেখান থেকে শুরু করুন।">
 <!ENTITY firstrun_sync_subtext2 "আপনার সব ডিভাইসে বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য জিনিস খুঁজে পেতে সিঙ্ক ব্যবহার করুন যা আপনি &brandShortName; এ সংরক্ষণ করেছেন।">
 <!ENTITY firstrun_signin_message "সংযুক্ত হন, শুরু করুন">
-<!ENTITY firstrun_signin_button "সিঙ্ক করতে সাইন ইন করুন">
 <!ENTITY  onboard_start_button_browser "ব্রাউজিং শুরু করুন">
 <!ENTITY firstrun_button_notnow "এখনই নয়">
 <!ENTITY firstrun_button_next "পরবর্তী">
@@ -323,11 +321,6 @@
 <!ENTITY pref_pwa "প্রোগ্রেসিভ ওয়েব অ্যাপ">
 <!ENTITY pref_pwa_summary "নীড় স্ক্রিনে ওয়েব অ্যাপ যোগের অনুমতি দিন">
 
-<!ENTITY tracking_protection_prompt_title "এখন ট্র্যাকিং সুরক্ষিত আছে">
-<!ENTITY tracking_protection_prompt_text "ট্র্যাকিং উপাদান সক্রিয়ভাবে অবরোধ করা হচ্ছে তাই আপনি দুশ্চিন্তা করবেন না।">
-<!ENTITY tracking_protection_prompt_tip_text "বিস্তারিত জানতে ব্যক্তিগত গোপনীয়তা সেটিং এ যান">
-<!ENTITY tracking_protection_prompt_action_button "পেয়েছি!">
-
 <!ENTITY tab_queue_toast_message3 "&brandShortName; নামে ট্যাব সংরক্ষিত হয়েছে">
 <!ENTITY tab_queue_toast_action "এখনি খুলুন">
 <!ENTITY tab_queue_prompt_title "একাধিক লিঙ্ক খুলছেন?">
@@ -408,8 +401,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "ডাউনলোড">
 <!ENTITY pref_private_data_syncedTabs "সিঙ্ককৃত ট্যাব">
 
-<!ENTITY pref_default_browser "ডিফল্ট ব্রাউজার করুন">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla Support দেখুন">
 <!ENTITY pref_about_firefox "&brandShortName; পরিচিতি">
 <!ENTITY pref_vendor_faqs "FAQ">
 <!ENTITY pref_vendor_feedback "প্রতিক্রিয়া জানান">
@@ -458,14 +449,6 @@ shown from Android O while a tab is being queued.-->
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; লোকেশন সেবা চলছে">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "স্বয়ংক্রিয় হালনাগাদ">
-<!ENTITY pref_update_autodownload_wifi "শুধুমাত্র ওয়াইফাই দ্বারা">
-<!ENTITY pref_update_autodownload_never "কখনো নয়">
-<!ENTITY pref_update_autodownload_always "সর্বদা">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "সহায়তা">
@@ -725,25 +708,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "বুকমার্ক ও ইতিহাস">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; এর হালনাগাদ বিদ্যমান">
-<!ENTITY updater_start_select2 "ডাউনলোডের জন্য স্পর্শ করুন">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; ডাউনলোড করা হচ্ছে">
-<!ENTITY updater_downloading_title_failed2 "ডাউনলোড ব্যর্থ হয়েছে">
-<!ENTITY updater_downloading_select2 "একবার ডাউনলোড হওয়ার পর হালনাগাদ প্রয়োগের জন্য স্পর্শ করুন">
-<!ENTITY updater_downloading_retry2 "পুনরার চেষ্টা করার জন্য স্পর্শ করুন">
-
-<!ENTITY updater_apply_title3 "&brandShortName; এর হালনাগাদ ডাউনলোড হয়েছে">
-<!ENTITY updater_apply_select3 "ইন্সটল করতে স্পর্শ করুন">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "ফাইল ডাউনলোড ও হালনাগাদে, স্টোরেজ ব্যবহারে &brandShortName; কে অনুমোদন দিন।">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "অনুমোদন">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "নতুন গেস্ট সেশন">
 <!ENTITY exit_guest_session "গেস্ট সেশন থেকে প্রস্থান করুন">
@@ -910,7 +874,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "শব্দ ও ভিডিও">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; কৌশল ও পরামর্শ">
-<!ENTITY updater_notification_channel "অ্যাপ হালনাগাদ">
 <!ENTITY synced_tabs_notification_channel "সিঙ্ককৃত ট্যাব">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

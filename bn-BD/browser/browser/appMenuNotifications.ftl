@@ -29,6 +29,7 @@ appmenu-addon-private-browsing-installed =
     .buttonlabel = ঠিকাছে, বুঝতে পেরেছি
     .buttonaccesskey = O
 appmenu-addon-post-install-message = আপনার অ্যাড-অন পরিচালনা করতে <image data-l10n-name='addon-install-icon'></image> মেনুতে <image data-l10n-name='addon-menu-icon'></image> ক্লিক করুন।
+    
 appmenu-new-tab-controlled =
     .label = আপনার নতুন ট্যাব পরিবর্তিত হয়েছে।
     .buttonlabel = পরিবর্তনগুলো রাখুন

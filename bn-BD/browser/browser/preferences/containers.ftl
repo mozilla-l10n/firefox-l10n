@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } কন্টেইনার পছন্দসমূহ
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = নাম
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = কন্টেইনারের নাম লিখুন
+
 containers-icon-label = আইকন
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = রঙ
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = সম্পন্ন
     .accesskey = D
+
 containers-color-blue =
     .label = নীল
 containers-color-turquoise =
@@ -52,6 +60,7 @@ containers-color-pink =
     .label = গোলাপি
 containers-color-purple =
     .label = বেগুনি
+
 containers-icon-fingerprint =
     .label = আঙ্গুলের ছাপ
 containers-icon-briefcase =

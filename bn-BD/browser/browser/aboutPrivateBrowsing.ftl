@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = এ সম্পর্কে আরও জানুন <a data-l10n-name="learn-more">ব্যক্তিগত ব্রাউজিং</a>।
 about-private-browsing-info-visited = দেখে ফেলা পেজসমূহ
+
 privatebrowsingpage-open-private-window-label = একটি ব্যক্তিগত উইন্ডো খুলুন
     .accesskey = P
 about-private-browsing-info-notsaved = যখন আপনি কোন ব্যক্তিগত উইন্ডো ব্রাউজ করেন, { -brand-short-name } <strong>সংরক্ষণ করবে না</strong>:
@@ -24,3 +25,4 @@ about-private-browsing =
 about-private-browsing-not-private = আপনি বর্তমানে কোনো ব্যক্তিগত উইন্ডোতে নেই।
 content-blocking-title = কনটেন্ট ব্লকিং
 content-blocking-description = অনেক ওয়েবসাইট ট্র্যাকার ব্যবহার করে, ইন্টারনেট আপনার কার্যক্রম পর্যবেক্ষণ করতে পারে। ব্যক্তিগত উইন্ডোতে, { -brand-short-name } কনটেন্ট ব্লকিং স্বয়ংক্রিয়ভাবে অনেক ট্র্যাকার আটকে দেয়, যা আপনার ব্রাউজিং আচরণ সম্পর্কে তথ্য সংগ্রহ করতে পারে।
+

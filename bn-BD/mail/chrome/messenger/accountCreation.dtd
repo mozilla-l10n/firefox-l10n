@@ -2,54 +2,36 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title "মেইল অ্যাকাউন্ট ব্যবস্থাপনা">
 <!ENTITY name.label "আপনার নাম (n)">
 <!ENTITY name.accesskey "n">
 <!ENTITY name.placeholder "প্রথম শেষ">
 <!ENTITY name.text "আপনার নাম, অন্যরা আপনার যে নামটি দেখবে">
 <!ENTITY email.label "ইমেইল ঠিকানা (l):">
 <!ENTITY email.accesskey "l">
-<!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "পাসওয়ার্ড (P):">
 <!ENTITY password.accesskey "P">
 <!ENTITY password.placeholder "পাসওয়ার্ড">
 <!ENTITY password.text "ঐচ্ছিক, শুধু ব্যবহারকারীর নামের বৈধতা যাচাই এর জন্য ব্যবহার করা হবে">
 
-<!ENTITY accountInformation.label "অ্যাকাউন্ট সংক্রান্ত তথ্য">
-<!ENTITY username2.label "ব্যবহারকারীর নাম:">
+<!ENTITY rememberPassword.label "পাসওয়ার্ড মনে রাখুন (m)">
+<!ENTITY rememberPassword.accesskey "m">
+
 <!ENTITY incoming.label "আগত:">
 <!ENTITY outgoing.label "বহির্গামী:">
+<!ENTITY imap.label "IMAP">
+<!ENTITY smtp.label "SMTP">
+
 <!ENTITY noEncryption.label "কোনটি না">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
 
-<!ENTITY imap.label "IMAP">
-<!ENTITY pop.label "POP">
-<!ENTITY smtp.label "SMTP">
-<!ENTITY imap.description "IMAP - একাধিক কম্পিউটার থেকে বার্তাসমূহে বা ফোল্ডারে প্রবেশ করে">
-<!ENTITY pop.description "POP - সকল বার্তা এই কম্পিউটারে ডাউনলোড করে, ফোল্ডারসমূহ শুধুমাত্র স্থানীয়">
-<!ENTITY recommended-appendix.label "(সুপারিশকৃত)">
-
-<!ENTITY manualSetup.label "স্বনির্ধারিত ব্যবস্থাপনা… (S)">
-<!ENTITY manualSetup.accesskey "S">
 <!ENTITY cancel.label "বাতিল (a)">
 <!ENTITY cancel.accesskey "a">
 <!ENTITY continue.label "পরবর্তী (C)">
 <!ENTITY continue.accesskey "C">
-<!ENTITY startOver.label "শুরু করুন (o)">
-<!ENTITY startOver.accesskey "o">
 <!ENTITY stop.label "বন্ধ করুন (S)">
 <!ENTITY stop.accesskey "S">
-<!-- LOCALIZATION NOTE (retest.label): This is the text that is
-     displayed on the button which will re-guess the account configuration,
-     taking into account the settings the user has changed. -->
-<!ENTITY retest.label "কনফিগারেশন পুনরায় পরীক্ষা করুন (R)">
-<!ENTITY retest.accesskey "R">
-<!ENTITY edit.label "সম্পাদনা করুন (E)">
-<!ENTITY edit.accesskey "E">
 
-<!ENTITY rememberPassword.label "পাসওয়ার্ড মনে রাখুন (m)">
-<!ENTITY rememberPassword.accesskey "m">
 
 <!ENTITY warning.label "সতর্কীকরণ!">
 <!ENTITY incomingSettings.label "আগত সেটিংসমূহ:">
@@ -60,11 +42,6 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label "আমি ঝুঁকি বুঝি (u)">
 <!ENTITY confirmWarning.accesskey "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
-     on the incoming or outgoing servers, then the page that pops up will
-     have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label "অ্যাকাউন্ট তৈরি করুন (C)">
-<!ENTITY createAccount.accesskey "C">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "অ্যাকাউন্ট সেটিংসমূহ">
 <!ENTITY accountName.label "অ্যাকাউন্টের নাম: (N)">
 <!ENTITY accountName.accesskey "N">
@@ -39,3 +41,4 @@
 <!ENTITY smtpName.label "বহিঃর্গামী সার্ভার (SMTP): (u)">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "ডিফল্ট সার্ভার ব্যবহার">
+

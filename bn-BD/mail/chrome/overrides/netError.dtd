@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "পৃষ্ঠা লোড করতে ত্রুটি">
 <!ENTITY retry.label "আবার চেষ্টা করুন">
+
 <!-- Specific error messages -->
 
 
@@ -47,9 +48,6 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY netOffline.title "অফলাইন মোড">
-<!ENTITY netOffline.longDesc "<ul> 
-<li>&brandShortName; কে অনলাইন মোডে চালু করে আবার চেষ্টা করুন।</li> 
-</ul>">
 
 <!ENTITY contentEncodingError.title "বিষয়বস্তু এনকোড করতে ত্রুটি">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -66,11 +64,6 @@
 
 <!ENTITY netTimeout.title "সংযোগটির সময়উত্তীর্ন হয়ে গেছে">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY protocolNotFound.title "ঠিকানাটি সঠিকভাবে নিরূপণ করা যায়নি">
-<!ENTITY protocolNotFound.longDesc "<ul> 
-<li>এই ঠিকানা খুলতে আপনাকে অন্যান্য সফটওয়্যার ইনস্টল করতে হতে পারে।</li> 
-</ul>">
 
 <!ENTITY proxyConnectFailure.title "প্রক্সি সার্ভারটি সংযোগ প্রত্যাখ্যান করছে">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -101,10 +94,6 @@
 </ul>">
 
 <!ENTITY nssFailure2.title "সুরক্ষিত সংযোগ ব্যর্থ">
-<!ENTITY nssFailure2.longDesc "<ul> 
-<li>আপনি যে পৃষ্ঠাটি দেখতে চাচ্ছেন তা প্রদর্শন করা সম্ভব হচ্ছে না কারন প্রাপ্ত তথ্যের সত্যতা যাচাই করা যায়নি।</li> 
-<li>ওয়েবসাইটের কতৃপক্ষকে এই সমস্যা সম্পর্কে অবহিত করুন।</li> 
-</ul>">
 
 <!ENTITY nssBadCert.title "সুরক্ষিত সংযোগ ব্যর্থ">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
@@ -123,20 +112,10 @@
 &brandShortName; এর নেটওয়ার্কে প্রবেশ অনুমোদিত কিনা।</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "সন্দেহজনক আক্রমনকারী সাইট!">
-<!ENTITY malwareBlocked.longDesc "<p> আক্রমনকারী সাইট এমন প্রোগ্রাম ইনস্টল করার চেষ্টা করে যা কিনা আপনার ব্যক্তিগত তথ্য চুরি করে, আপনার সিস্টেম ব্যবহার করে অন্যদের আক্রমন করে বা আপনার সিস্টেমের ক্ষতি সাধন করে।</p> 
-<p>যেসকল ওয়েবসাইট কতৃপক্ষ মনে করেন তাদের সাইট অযাচিতভাবে আক্রমনকারী সাইট হিসেবে গন্য হয়েছে, তারা এই ঠিকানায় <a href='http://www.stopbadware.org/home/reviewinfo'>পুনঃবিবেচনার আবেদন</a> করতে পারেন।</p>">
-
-<!ENTITY phishingBlocked.title "সন্দেহজনক ওয়েব জালিয়াতি!">
-<!ENTITY phishingBlocked.longDesc "<p>এই পৃষ্ঠায় ব্যক্তিগত তথ্য প্রবেশ করলে পরিচয় প্রতারণার শিকার হওয়ার সম্ভবনা আছে।</p> 
-<p>এই ধরণের ওয়েব জালিয়াতি ফিসিং নামে পরিচিত, যাতে আপনার বিশ্বস্ত ওয়েব পেজ বা ইমেইল নকল করার  মাধ্যমে আপনাকে প্রতারনা করা হয়।</p>">
-
-<!ENTITY cspFrameAncestorBlocked.title "বিষয়বস্তু নিরাপত্তা নীতিমালা দ্বারা প্রতিরোধকৃত">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; পৃষ্ঠাটির একটি বিষয়বস্তু নিরাপত্তা নীতিমালা আছে যা অনুমোদন না করায় এই ভাবে লোড প্রতিরোধ করা হচ্ছে </p>">
-
 <!ENTITY securityOverride.linkText "অথবা একটি এক্সেপশন যোগ করতে পারেন...">
 <!ENTITY securityOverride.getMeOutOfHereButton "আমাকে এখান থেকে উদ্ধার করো!">
 <!ENTITY securityOverride.exceptionButtonLabel "এক্সেপশন যোগ...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -147,3 +126,4 @@ functionality specific to thunderbird. -->
  
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> 
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
+

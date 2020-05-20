@@ -10,15 +10,19 @@
 
 # The heading
 options-select-default-tools-label = ডিফল্ট ডেভেলপার টুলসমূহ
+
 # The label for the explanation of the * marker on a tool which is currently not supported
 # for the target of the toolbox.
 options-tool-not-supported-label = * বর্তমান টুলবক্স টার্গেট এর জন্য সমর্থিত নয়
+
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = এড-অন এর মাধ্যমে ইন্সটলকৃত ডেভেলপার টুল
+
 # The label for the heading of group of checkboxes corresponding to the default developer
 # tool buttons.
 options-select-enabled-toolbox-buttons-label = প্রাপ্তিসাধ্য টুলবক্স বাটন
+
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = থিম
 
@@ -26,10 +30,12 @@ options-select-dev-tools-theme-label = থিম
 
 # The heading
 options-context-inspector = পরিদর্শক
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ব্রাউজার স্টাইল দেখান
 options-show-user-agent-styles-tooltip =
     .title = এটি চালু করলে, ব্রাউজারে লোড থাকা ডিফল্ট স্টাইলগুলো দেখানো হবে।
+
 # The label for the checkbox option to enable collapse attributes
 options-collapse-attrs-label = DOM বৈশিষ্ট্য টার্নকেট করো
 options-collapse-attrs-tooltip =
@@ -48,6 +54,7 @@ options-default-color-unit-name = রঙের নামসমূহ
 
 # The heading
 options-styleeditor-label = স্টাইল সম্পাদনা
+
 # The label for the checkbox that toggles autocompletion of css in the Style Editor
 options-stylesheet-autocompletion-label = স্বয়ংসম্পূর্ণ CSS
 options-stylesheet-autocompletion-tooltip =
@@ -57,10 +64,12 @@ options-stylesheet-autocompletion-tooltip =
 
 # The heading
 options-screenshot-label = স্ক্রিনশটের আচরণ
+
 # Label for the checkbox that toggles screenshot to clipboard feature
 options-screenshot-clipboard-label = স্ক্রিনশট ক্লিপবোর্ডে পাঠাও
 options-screenshot-clipboard-tooltip =
     .title = স্ক্রিনশটটি সরাসরি ক্লিপবোর্ডে সংরক্ষণ কর
+
 # Label for the checkbox that toggles the camera shutter audio for screenshot tool
 options-screenshot-audio-label = ক্যামেরা সাটার শব্দ চালাও
 options-screenshot-audio-tooltip =
@@ -70,6 +79,7 @@ options-screenshot-audio-tooltip =
 
 # The heading
 options-sourceeditor-label = এডিটর পছন্দসমূহ
+
 options-sourceeditor-detectindentation-tooltip =
     .title = উৎসের কন্টেন্টের ভিত্তিতে ইনডেন্টেশন ধারণা করুন
 options-sourceeditor-detectindentation-label = ইনডেন্টেশন শনাক্তকরণ
@@ -87,37 +97,42 @@ options-sourceeditor-keybinding-default-label = ডিফল্ট
 
 # The heading
 options-context-advanced-settings = উন্নত সেটিং
+
 # The label for the checkbox that toggles the HTTP cache on or off
 options-disable-http-cache-label = HTTP ক্যাশে নিষ্ক্রিয় করুন (টুলবক্স খোলা থাকাকালীন)
 options-disable-http-cache-tooltip =
     .title = এই অপশনটি চালু করলে, যেসকল ট্যাব এর টুলবক্স খোলা রয়েছে, সেগুলোর HTTP ক্যাশে নিষ্ক্রিয় হয়ে যাবে। পরিসেবা কার্যক্রমে এই অপশনের কোন প্রভাব পরবে না।
+
 # The label for checkbox that toggles JavaScript on or off
 options-disable-javascript-label = জাভাস্ক্রিপ্ট নিস্ক্রিয় করুন*
 options-disable-javascript-tooltip =
     .title = এই অপশন চালুর ফলে বর্তমান ট্যাবে জাভাস্ক্রিপ্ট নিস্ক্রিয় হবে। যদি ট্যাব অথবা টুলবক্স বন্ধ করা হয় তবে এই সেটিং ভুলে যাবে।
+
 # The label for checkbox that toggles chrome debugging, i.e. the devtools.chrome.enabled preference
 options-enable-chrome-label = ব্রাউজার chrome ও অ্যাড অন ডিবাগ টুলবক্স সক্রিয় করুন
 options-enable-chrome-tooltip =
     .title = এই অপশান চালু করলে আপনি অনেকগুলো টুল ব্যবহার করতে পারবেন ব্রাউজার কন্টেক্সট এ (Tools > Web Developer > Browser Toolbox এর মাধ্যমে) এবং অ্যাড-অন ম্যানেজার দিয়ে অ্যাড-অন ডিবাগ করতে পারবেন
+
 # The label for checkbox that toggles remote debugging, i.e. the devtools.debugger.remote-enabled preference
 options-enable-remote-label = রিমোট ডিবাগিং সক্রিয় করুন
 options-enable-remote-tooltip =
     .title = অপশনটি চালু করলে ডেভেলোপার টুলগুলো দূরে থেকে ডিবাগ করা যাবে যেমন Firefox OS
+
 # The label for checkbox that toggles the service workers testing over HTTP on or off.
 options-enable-service-workers-http-label = HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করুন (যখন টুলবক্স খোলা থাকে)
 options-enable-service-workers-http-tooltip =
     .title = এই অপশন চালু থাকলে যেসব ট্যাবের টুলবক্স খোলা আছে সেগুলোর HTTP এ সার্ভিস ওয়ার্কারদের সক্রিয় করে দিবে।
+
 # The label for the checkbox that toggles source maps in all tools.
 options-source-maps-label = উৎস ম্যাপ সক্রিয় করুন
 options-source-maps-tooltip =
     .title = আপনি যদি এই অপশন সক্রিয় করেন টুলে সোর্স ম্যাপড হবে।
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = *কেবল বর্তমান সেশন, পাতা পুনরায় লোড করে
 
 ##
 
-# The heading for the Debugger section
-options-debugger-label = ডিবাগার
 # The label for the checkbox that toggles the display of the platform data in the
 # Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference in about:config
 options-show-platform-data-label = গেকো প্ল্যাটফর্ম ডাটা দেখান

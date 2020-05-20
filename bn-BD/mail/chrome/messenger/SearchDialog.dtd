@@ -17,10 +17,6 @@
 <!ENTITY deleteButton.accesskey "D">
 <!ENTITY searchDialogTitle.label "বার্তা অনুসন্ধান">
 <!ENTITY results.label "ফলাফল">
-<!ENTITY fileHereMenu.label "এখানে ফাইল করুন(F)">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY fileButton.label "ফাইল (i)">
-<!ENTITY fileButton.accesskey "i">
 <!ENTITY closeCmd.key "W">
 <!ENTITY openInFolder.label "ফোল্ডারে খোলা হবে (r)">
 <!ENTITY openInFolder.accesskey "r">
@@ -37,42 +33,5 @@
 <!ENTITY abSearchDialogTitle.label "উন্নত ঠিকানা বই অনুসন্ধান">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "থ্রেড">
-<!ENTITY fromColumn.label "প্রেরক">
-<!ENTITY recipientColumn.label "প্রাপক">
-<!ENTITY subjectColumn.label "বিষয়">
-<!ENTITY dateColumn.label "তারিখ">
-<!ENTITY priorityColumn.label "অগ্রাধিকার">
-<!ENTITY tagsColumn.label "ট্যাগ">
-<!ENTITY accountColumn.label "অ্যাকাউন্ট">
-<!ENTITY statusColumn.label "অবস্থা">
-<!ENTITY sizeColumn.label "আকার">
-<!ENTITY junkStatusColumn.label "অপ্রয়োজনীয়তার অবস্থা">
-<!ENTITY unreadColumn.label "অপঠিত">
-<!ENTITY totalColumn.label "মোট">
-<!ENTITY readColumn.label "পঠিত">
-<!ENTITY receivedColumn.label "গৃহীত">
-<!ENTITY starredColumn.label "তারা চিহ্নিত">
-<!ENTITY locationColumn.label "অবস্থান">
-<!ENTITY idColumn.label "গ্রহণ করার ক্রম">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "প্রদর্শনের জন্য কলাম নির্বাচন করতে ক্লিক করুন">
-<!ENTITY threadColumn.tooltip "বার্তার থ্রেড প্রদর্শন করতে ক্লিক করুন">
-<!ENTITY fromColumn.tooltip "প্রেরক অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY recipientColumn.tooltip "প্রাপক অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY subjectColumn.tooltip "বিষয় অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY dateColumn.tooltip "তারিখ অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY priorityColumn.tooltip "অগ্রাধিকার অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY tagsColumn.tooltip "ট্যাগ অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY accountColumn.tooltip "অ্যাকাউন্ট অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY statusColumn.tooltip "অবস্থা অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY sizeColumn.tooltip "আকার অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY junkStatusColumn.tooltip "অপ্রয়োজনীয়তার অবস্থা অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY unreadColumn.tooltip "থ্রেডের অপঠিত বার্তা সংখ্যা">
-<!ENTITY totalColumn.tooltip "থ্রেডের মোট বার্তা সংখ্যা">
-<!ENTITY readColumn.tooltip "পঠন অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY receivedColumn.tooltip "গৃহীত তারিখ অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY starredColumn.tooltip "তারা অনুসারে সাজাতে ক্লিক করুন">
-<!ENTITY locationColumn.tooltip "অবস্থান অনুসারে সাজাতে জন্য ক্লিক করুন">
-<!ENTITY idColumn.tooltip "গ্রহণের ক্রম অনুসারে সাজাতে জন্য ক্লিক করুন">
