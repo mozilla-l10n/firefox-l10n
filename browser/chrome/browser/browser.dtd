@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "B">
 <!ENTITY exitFullScreenCmd.label "Kilépés a teljes képernyős módból">
 <!ENTITY exitFullScreenCmd.accesskey "K">
+
 <!ENTITY fullScreenCmd.label "Teljes képernyő">
 <!ENTITY fullScreenCmd.accesskey "T">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Fiók ellenőrzése">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Kis méret">
 <!ENTITY fullScreenRestore.tooltip "Helyreállítás">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Fiókbeállítások">
 <!ENTITY fxa.menu.manageAccount2.label "Fiók kezelése">
 <!ENTITY fxa.menu.signOut.label "Kijelentkezés…">
-<!ENTITY fxa.menu.deviceSettings.label "Eszközbeállítások">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; beállítása…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "L">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Ugrás a címmezőben levő címre">
+
 <!ENTITY printButton.label            "Nyomtatás">
 <!ENTITY printButton.tooltip          "Oldal kinyomtatása">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM-es szoftver használatának kezelése">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI panel megnyitása">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "További engedélyeket adott ennek az oldalnak.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Blokkolta a kamerát ezen az oldalon.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Blokkolta a mikrofont ezen az oldalon.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Blokkolta a képernyőmegosztást ezen az oldalon.">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Blokkolta a kiegészítők telepítését erről az oldalról.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "További engedélyeket adott ennek az oldalnak.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Előzmények megjelenítése">
+
 
 <!ENTITY searchItem.title             "Keresés">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Konténerek kezelése">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Új ablak">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "a">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Több">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Keresés vagy cím">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "f">
 <!ENTITY bookmarkThisFrameCmd.label      "Keret hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
+
 <!ENTITY pageAction.copyLink.label    "Hivatkozás másolása">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Mentés a Pocketbe">
+
 <!ENTITY saveToPocketCmd.label        "Oldal mentése a Pocketbe">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Hivatkozás mentése a Pocketbe">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
 <!ENTITY identity.connectionNotSecure "A kapcsolat nem biztonságos">
 
-<!ENTITY identity.connectionSecure3 "A kapcsolat biztonságos">
-<!ENTITY identity.connectionNotSecure2 "A kapcsolat nem biztonságos">
-<!ENTITY identity.connectionNotSecureSecurityView "Nem biztonságosan kapcsolódik ehhez az oldalhoz.">
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
 <!ENTITY identity.connectionVerified2 "Biztonságosan kapcsolódott ehhez ez oldalhoz; a tulajdonosa:">
-<!ENTITY identity.connectionVerified3 "Biztonságosan kapcsolódik ehhez az oldalhoz.">
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
 <!ENTITY identity.extensionPage "Ez az oldal kiegészítőből lett betöltve.">
 <!ENTITY identity.insecureLoginForms2 "Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.">
 <!ENTITY identity.customRoot "A kapcsolatot egy olyan tanúsítványkibocsátó igazolta, amelyet a Mozilla nem ismeri fel.">
-
-<!ENTITY identity.evOwnerLabel2 "Tanúsítvány kiállítva ennek:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "A &brandShortName; blokkolta az oldal néhány nem biztonságos elemét.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Engedélyek">
 
-<!ENTITY identity.permissions3 "Engedélyek">
 <!ENTITY identity.permissionsEmpty "Nem adott speciális engedélyeket ennek az oldalnak.">
 <!ENTITY identity.permissionsReloadHint "Lehet hogy újra kell töltenie az oldalt a változások érvényesítéséhez.">
 <!ENTITY identity.permissionsPreferences.tooltip "Engedélybeállítások megnyitása">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Bezárás">
 

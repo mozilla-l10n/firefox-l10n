@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Nincs proxy a következőhöz:">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Példa: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Ugyanazon proxy használata minden protokollhoz">
+<!ENTITY  shareproxy.accesskey          "U">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "A localhost, a 127.0.0.1 és a ::1 felé nyitott kapcsolatok sosem kerülnek proxyzásra.">
-<!ENTITY  shareproxy.label              "Ugyanazon proxy használata minden protokollhoz">
-<!ENTITY  shareproxy.accesskey          "U">
 <!ENTITY  proxyHttpSharing.label        "Használja ezt a proxyt HTTPS esetén is">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Ne kérjen hitelesítést, ha a jelszó el van mentve">

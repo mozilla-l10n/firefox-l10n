@@ -20,6 +20,7 @@ open-location = Keressen, vagy adjon meg címet
 share = Megosztás
 close-window = Ablak bezárása
 open-sidebar = Oldalsávok
+
 # This string describes shortcuts for search.
 search-popover = Keresési gyorsparancsok
 # Describes searches limited to a specific scope

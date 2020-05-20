@@ -9,17 +9,12 @@ about-service-workers-title = A Service Workerekről
 about-service-workers-main-title = Regisztrált Service Workerek
 about-service-workers-warning-not-enabled = A Service Workerek nem engedélyezettek.
 about-service-workers-warning-no-service-workers = Nincs Service Worker regisztrálva.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Eredet: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } alkalmazásazonosító: { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Aktív gyorsítótárnév:</strong> { $name }
 waiting-cache-name = <strong>Várakozó gyorsítótárnév:</strong> { $name }
 push-end-point-waiting = <strong>Küldés végpontja:</strong> { waiting }
 push-end-point-result = <strong>Küldés végpontja:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Frissítés
+
 unregister-button = Regisztráció megszüntetése
+
 unregister-error = A Service Worker regisztrációjának megszüntetése sikertelen.
+
 waiting = Várakozás…

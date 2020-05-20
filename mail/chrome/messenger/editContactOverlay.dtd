@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Címjegyzék:">
 <!ENTITY editContactAddressBook.accesskey "C">
 
-<!ENTITY editContactPanelCancel.label "Mégse">
-<!ENTITY editContactPanelCancel.accesskey "M">
-
 <!ENTITY editContactPanelDone.label "Kész">
 <!ENTITY editContactPanelDone.accesskey "K">
 

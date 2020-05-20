@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Arra kérik, hogy bízzon meg egy új hitelesítésszolgáltatóban (CA-ban).">
 <!ENTITY downloadCert.trustSSL "Megbízás webhelyek azonosítására">
 <!ENTITY downloadCert.trustEmail "Megbízás a levelezőpartnerek azonosítására">
-<!ENTITY downloadCert.trustObjSign "Megbízás a szoftverfejlesztők azonosítására">
 <!ENTITY downloadCert.message3 "Mielőtt megbízna ebben a CA-ban bármilyen célból, vizsgálja meg a tanúsítványát, valamint az irányelveit (házirendjét) és folyamatait (ha vannak ilyenek).">
 <!ENTITY downloadCert.viewCert.label "Megjelenítés">
 <!ENTITY downloadCert.viewCert.text "A CA tanúsítványának megvizsgálása">

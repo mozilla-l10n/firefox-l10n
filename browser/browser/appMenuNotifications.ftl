@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = R
 appmenu-addon-private-browsing-message = Az újonnan hozzáadott { -brand-shorter-name } kiegészítők nem fognak működni privát ablakokban, hacsak nem engedélyezi ezt a beállításokban.
 appmenu-addon-private-browsing-learn-more = Ismerje meg, hogyan kezelje a kiegészítőbeállításokat.
+    
 appmenu-new-tab-controlled =
     .label = Az Új lap megváltozott.
     .buttonlabel = Módosítások megtartása

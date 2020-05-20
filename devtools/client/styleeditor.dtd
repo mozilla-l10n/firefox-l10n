@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "j">
 
 <!ENTITY importButton.label         "Importálás…">
+
 <!ENTITY importButton.tooltip       "Meglévő stíluslap importálása és dokumentumhoz fűzése">
 <!ENTITY importButton.accesskey     "I">
 
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "s">
 
 <!ENTITY optionsButton.tooltip      "Stílusszerkesztő beállításai">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "Eredeti források megjelenítése">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "o">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "@media oldalsáv megjelenítése">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "m">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

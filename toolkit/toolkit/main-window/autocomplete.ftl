@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importálja a bejelentkezéseit a { $browser } böngészőből</div>
     <div data-l10n-name="line2">ehhez: { $host }, és más webhelyekhez</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = További tudnivalók

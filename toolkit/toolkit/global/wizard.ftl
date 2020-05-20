@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Vissza
     .accesskey = V
+
 wizard-macos-button-next =
     .label = Tovább
     .accesskey = T
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Tovább >
     .accesskey = T
+
 wizard-macos-button-finish =
     .label = Befejezés
 wizard-linux-button-finish =
     .label = Befejezés
 wizard-win-button-finish =
     .label = Befejezés
+
 wizard-macos-button-cancel =
     .label = Mégse
 wizard-linux-button-cancel =

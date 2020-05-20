@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Betűk
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Betűkészletek ehhez:
     .accesskey = k
+
 fonts-langgroup-arabic =
     .label = Arab
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Változó szélességű
     .accesskey = V
+
 fonts-default-serif =
     .label = Talpas
 fonts-default-sans-serif =
     .label = Talpatlan
+
 fonts-proportional-size = Méret
     .accesskey = M
+
 fonts-serif = Talpas
     .accesskey = T
+
 fonts-sans-serif = Talpatlan
     .accesskey = n
+
 fonts-monospace = Fix szélességű
     .accesskey = F
+
 fonts-monospace-size = Méret
     .accesskey = r
+
 fonts-minsize = Legkisebb betűméret
     .accesskey = L
+
 fonts-minsize-none =
     .label = Nincs
+
 fonts-allow-own =
     .label = Az oldalak a saját maguk által kiválasztott betűket használhatják a fent megadottak helyett
     .accesskey = d
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Karakterkódolás örökölt tartalomhoz
 fonts-languages-fallback-desc = Ez a karakterkódolás kerül felhasználásra az örökölt tartalmakhoz, amelyek nem adják meg a kódolásukat.
+
 fonts-languages-fallback-label = Tartalék kódolás
     .accesskey = d
+
 fonts-languages-fallback-name-auto =
     .label = Területi beállítás alapértelmezése
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnami
 fonts-languages-fallback-name-other =
     .label = Egyéb (Nyugat-európai is)
-fonts-very-large-warning-title = Nagy minimális betűméret
-fonts-very-large-warning-message = Nagyon nagy minimális betűméretet választott (24 képpontnál nagyobbat). Ez nehézzé vagy lehetetlenné teheti bizonyos fontos beállítóoldalak – mint ez is – használatát.
-fonts-very-large-warning-accept = Változtatások megtartása mindenképp
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

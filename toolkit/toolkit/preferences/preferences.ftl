@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (nincs beállítva)
+
 failed-pw-change = Nem sikerült megváltoztatni a mesterjelszót!
 incorrect-pw = A megadott mesterjelszó nem helyes. Próbálja újra.
 pw-change-ok = A mesterjelszó megváltoztatása sikerült.
+
 pw-empty-warning = A weboldalakhoz, űrlapokhoz és az e-mailhez tárolt jelszavakat nem védi semmi.
 pw-erased-ok = Törölte a mesterjelszót. { pw-empty-warning }
 pw-not-wanted = Vigyázat! Úgy döntött, hogy nem használ mesterjelszót. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Jelenleg FIPS-módban van. A FIPS-hez kötelező nem üres mesterjelszót megadni.
 pw-change-success-title = Sikeres jelszóváltoztatás
 pw-change-failed-title = Sikertelen jelszóváltoztatás
 pw-remove-button =
     .label = Eltávolítás
+
 set-password =
     .title = Mesterjelszó megváltoztatása
 set-password-old-password = Jelenlegi jelszó:
@@ -24,6 +28,7 @@ set-password-meter = Jelszó minősége
 set-password-meter-loading = Betöltés
 master-password-description = A mesterjelszó érzékeny adatok, például webhelyek belépési jelszavai védelmére használható. Ha létrehozza a mesterjelszót, akkor minden munkamenetben egyszer be kell írnia, amikor a { -brand-short-name } betölti a jelszóval védett mentett adatokat.
 master-password-warning = A mesterjelszót jól jegyezze meg. Ha elfelejti, nem fog tudni hozzáférni az általa védett adatokhoz.
+
 remove-password =
     .title = Mesterjelszó törlése
 remove-info =

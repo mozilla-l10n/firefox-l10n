@@ -4,6 +4,7 @@
 
 page-title = Hibakeresési információ
 page-subtitle = Ez az oldal problémakeresésnél használható technikai információkat tartalmaz. Ha a { -brand-short-name } programmal kapcsolatos gyakori kérdésekre keresi a választ, akkor nézze meg a <a data-l10n-name="support-link">támogató weboldalunkat</a>.
+
 crashes-title = Hibajelentések
 crashes-id = Jelentésazonosító
 crashes-send-date = Elküldve
@@ -123,6 +124,7 @@ audio-backend = Hang háttérprogram
 max-audio-channels = Csatornák maximum
 channel-layout = Elsődleges csatornakiosztás
 sample-rate = Elsődleges mintavételezési sebesség
+
 media-title = Média
 media-output-devices-title = Kimeneti eszközök
 media-input-devices-title = Bemeneti eszközök
@@ -173,6 +175,7 @@ report-crash-for-days =
         [one] Hibajelentések az elmúlt { $days } napról
        *[other] Hibajelentések az elmúlt { $days } napról
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -180,6 +183,7 @@ crashes-time-minutes =
         [one] { $minutes } perce
        *[other] { $minutes } perce
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -187,6 +191,7 @@ crashes-time-hours =
         [one] { $hours } órája
        *[other] { $hours } órája
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -194,6 +199,7 @@ crashes-time-days =
         [one] { $days } napja
        *[other] { $days } napja
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -201,6 +207,7 @@ pending-reports =
         [one] Minden hibajelentés (beleértve { $reports } függőben lévő hibajelentést az adott időszakban)
        *[other] Minden hibajelentés (beleértve { $reports } függőben lévő hibajelentést az adott időszakban)
     }
+
 raw-data-copied = Nyers adatok a vágólapra másolva
 text-copied = Szöveg a vágólapra másolva
 
@@ -213,9 +220,11 @@ blocked-mismatched-version = Blokkolva a grafikus illesztőprogram verzióeltér
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ezzel a grafikus illesztőprogrammal nem engedélyezett az együttműködés. Próbálja meg frissíteni a grafikus illesztőprogramot { $driverVersion } vagy újabb verzióra.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType-paraméterek
+
 compositing = Kompozitálás
 hardware-h264 = Hardveres H264-dekódolás
 main-thread-no-omtc = fő szál, nincs OMTC
@@ -230,6 +239,7 @@ virtual-monitor-disp = Virtuális monitorkijelző
 
 found = Megtalálva
 missing = Hiányzik
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Leírás
@@ -253,18 +263,23 @@ webgl2-version = WebGL 2 illesztőprogram verzió
 webgl2-driver-extensions = WebGL 2 illesztőprogram kiterjesztései
 webgl2-extensions = WebGL 2 kiterjesztések
 blocklisted-bug = Ismert problémák miatt blokkolva
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = { $bugNumber } számú hiba
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Blokkolva, hibakód: { $failureCode }
+
 d3d11layers-crash-guard = D3D11 kompozitáló
 d3d11video-crash-guard = D3D11 videodekóder
 d3d9video-crash-buard = D3D9 videodekóder
 d3d9video-crash-guard = D3D9 videodekóder
 glcontext-crash-guard = OpenGL
+
 wmfvpxvideo-crash-guard = WMF VPX videodekóder
+
 reset-on-next-restart = Újraindításkor alaphelyzetbe
 gpu-process-kill-button = GPU folyamat leállítása
 gpu-device-reset = Eszköz visszaállítása
@@ -274,8 +289,10 @@ content-uses-tiling = Csempézés használata (Tartalom)
 off-main-thread-paint-enabled = Fő szálon kívüli rajzolás engedélyezve
 off-main-thread-paint-worker-count = Fő szálon kívüli rajzoló workerek száma
 target-frame-rate = Cél képkockasebesség
+
 min-lib-versions = Elvárt minimális verzió
 loaded-lib-versions = Használt verzió
+
 has-seccomp-bpf = Seccomp-BPF (rendszerhívás-szűrés)
 has-seccomp-tsync = Seccomp szálszinkronizáció
 has-user-namespaces = Felhasználói névterek
@@ -288,15 +305,18 @@ sandbox-proc-type-content = tartalom
 sandbox-proc-type-file = fájltartalom
 sandbox-proc-type-media-plugin = médiabővítmény
 sandbox-proc-type-data-decoder = adatdekódoló
+
 startup-cache-title = Indítási gyorsítótár
 startup-cache-disk-cache-path = Lemezgyorsítótár elérési útja
 startup-cache-ignore-disk-cache = Lemezgyorsítótár figyelmen kívül hagyása
 startup-cache-found-disk-cache-on-init = Lemezgyorsítótár megtalálva indításkor
 startup-cache-wrote-to-disk-cache = Lemezgyorsítótárba írva
+
 launcher-process-status-0 = Engedélyezve
 launcher-process-status-1 = Hiba miatt letiltva
 launcher-process-status-2 = Kényszerítve letiltva
 launcher-process-status-unknown = Ismeretlen állapot
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -309,6 +329,7 @@ multi-process-status-6 = A nem támogatott szövegbevitel letiltotta
 multi-process-status-7 = Kiegészítők letiltották
 multi-process-status-8 = Kikapcsolása kényszerítve
 multi-process-status-unknown = Ismeretlen állapot
+
 async-pan-zoom = Aszinkron görgetés/nagyítás
 apz-none = nincs
 wheel-enabled = kerékbemenet engedélyezve
@@ -316,6 +337,7 @@ touch-enabled = érintőbemenet engedélyezve
 drag-enabled = gördítősáv húzása engedélyezve
 keyboard-enabled = billentyűzet engedélyezve
 autoscroll-enabled = automatikus görgetés engedélyezve
+
 zooming-enabled = sima csípéssel történő nagyítás engedélyezve
 
 ## Variables

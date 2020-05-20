@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Szerkesztés és címzés">
 <!ENTITY addressingGroupTitle.label "Címzés">
 <!ENTITY addressingText.label      "E-mail címek keresésekor:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Szerkesztés">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Levelek írása HTML formátumban">
 <!ENTITY useHtml.accesskey                    "L">
 <!ENTITY autoQuote.label                      "Válaszoláskor az eredeti szöveg automatikus idézése">
 <!ENTITY autoQuote.accesskey                  "V">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Ez után">
-<!ENTITY then.accesskey                       "E">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Idézéskor,">
 <!ENTITY quoting.accesskey                    "I">

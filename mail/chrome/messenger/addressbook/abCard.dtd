@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "W">
 <!ENTITY Birthday.label                 "Születési dátum:">
 <!ENTITY Birthday.accesskey             "s">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Hónap">
 <!ENTITY Day.placeholder                "Nap">
 <!ENTITY Year.placeholder               "Év">
-<!ENTITY Or.value                       "vagy">
 <!ENTITY Age.label                      "Kor:">
 <!ENTITY Age.placeholder                "Kor">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Munkahelyi">
 <!ENTITY Work.accesskey                 "M">

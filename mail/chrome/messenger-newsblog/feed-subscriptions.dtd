@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Hírforrás URL:">
 <!ENTITY feedLocation.accesskey      "H">
-<!ENTITY feedLocation.placeholder    "Adjon meg egy hozzáadandó érvényes hírforrás URL-t">
 <!ENTITY feedLocation2.placeholder   "Adjon meg érvényes hírforrást">
 <!ENTITY locationValidate.label      "Ellenőrzés">
 <!ENTITY validateText.label          "Ellenőrzés és érvényes URL lekérése.">

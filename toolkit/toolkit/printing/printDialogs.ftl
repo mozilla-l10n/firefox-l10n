@@ -103,6 +103,7 @@ print-window =
     .title = Nyomtatás
 print-complete =
     .value = A nyomtatás kész.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -8,6 +8,7 @@ password-quality-meter = Jelszó minősége
 
 change-password-window =
     .title = Mesterjelszó megváltoztatása
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Adatvédelmi eszköz: { $tokenName }
