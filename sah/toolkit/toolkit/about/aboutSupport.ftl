@@ -4,6 +4,7 @@
 
 page-title = Кыһалҕаны быһаарар туһунан
 page-subtitle = Бу сирэйгэ техническэй информация бэриллэр, ону туһанан кыһалҕаҕын быһаарыаххын сөп. { -brand-short-name } програаммаҕа куруук көстөр кыһалҕаҕа хоруй ылыаххын баҕарар буоллаххына биһиги <a data-l10n-name="support-link">өйүүр ситим-сирбитигэр</a> киир.
+
 extensions-title = Кэҥэтиилэр
 extensions-name = Аата
 extensions-enabled = Холбоммут
@@ -35,6 +36,22 @@ a11y-force-disabled = Холбоммот гын
 library-version-title = Бибилитиэкэлэр барыллара
 copy-text-to-clipboard-label = Тиэкси долоҕойго (буфер обмена) төгүллээ
 copy-raw-data-to-clipboard-label = Таҥастамматах дааннайдары долоҕойго хатаа
+
+## Media titles
+
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 raw-data-copied = Таҥастамматах дааннайдар долоҕойго төгүллэннилэр
 text-copied = Тиэкис долоҕойго хатанна
 
@@ -46,6 +63,7 @@ blocked-os-version = Эн операционнай систиэмэҥ бу ба�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Эн видекаартаҥ драйверын барылыгар хааччахтаммыт. Видеокаартаҥ драйверын бу барылга дылы { $driverVersion } эбэтэр өссө саҥа барылга дылы саҥардан биэр.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType көрдөрүүлэрэ
@@ -58,8 +76,10 @@ gpu-vendor-id = Вендор (оҥорон таһаараччы) куода
 gpu-device-id = Тэрил куода
 gpu-driver-version = Драйвер барыла
 gpu-driver-date = Драйвер оҥоһуллубут күнэ-дьыла
+
 min-lib-versions = Кэтэһиллэр минимаал барыл
 loaded-lib-versions = Туһаныллар барыл
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

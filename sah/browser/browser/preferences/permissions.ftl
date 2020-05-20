@@ -4,27 +4,31 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Бүөлээ
     .accesskey = Б
+
 permissions-session =
     .label = Бу сиэссийэ кэмигэр көҥүллээ
     .accesskey = с
+
 permissions-allow =
     .label = Көҥүллүүргэ
     .accesskey = К
+
 permissions-status =
     .label = Стаатуһа
+
 permissions-capabilities-allow =
     .label = Көҥүллүүргэ
 permissions-capabilities-block =
     .label = Бүөлээ
+
 permissions-capabilities-listitem-allow =
     .value = Көҥүллүүргэ
 permissions-capabilities-listitem-block =
     .value = Бүөлээ
-permissions-capabilities-listitem-allow-first-party =
-    .value = Туора ситим-сирдэртэн куукаларын ылыма
 permissions-capabilities-listitem-allow-session =
     .value = Сиэссийэҕэ көҥүллүүргэ
 
@@ -53,11 +57,15 @@ permissions-exceptions-addons-desc = Ханнык ситим-сир эбииск
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

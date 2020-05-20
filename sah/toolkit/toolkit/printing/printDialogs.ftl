@@ -94,6 +94,7 @@ print-window =
     .title = Бэчээттээһин
 print-complete =
     .value = Бэчээттэннэ.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

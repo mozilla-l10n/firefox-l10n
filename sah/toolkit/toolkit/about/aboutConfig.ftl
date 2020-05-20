@@ -28,5 +28,8 @@ config-value-column =
 config-reset =
     .label = Хаттаан
     .accesskey = Х
+
 config-default = көннөрү
+
 config-nan-text = Киллэрбит тиэкиһиҥ чыһыла буолбатах.
+

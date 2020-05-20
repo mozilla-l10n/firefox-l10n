@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Төнүн
     .accesskey = Т
+
 wizard-macos-button-next =
     .label = Салгыы
     .accesskey = С
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Салгыы >
     .accesskey = С
+
 wizard-macos-button-finish =
     .label = Оҥоһулунна
 wizard-linux-button-finish =
     .label = Түмүк
 wizard-win-button-finish =
     .label = Түмүк
+
 wizard-macos-button-cancel =
     .label = Салҕаама
 wizard-linux-button-cancel =

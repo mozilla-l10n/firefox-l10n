@@ -4,27 +4,30 @@
 
 certmgr-tab-servers =
     .label = Сиэрбэрдэр
+
 certmgr-detail-general-tab-title =
     .label = Сүрүн
     .accesskey = С
+
 certmgr-detail-pretty-print-tab-title =
     .label = Сиһилии
     .accesskey = С
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Email аадырыһа
+
 certmgr-export =
     .label = Экспортааһын…
     .accesskey = п
+
 certmgr-backup =
     .label = Сөргүтэр копията оҥор…
     .accesskey = С
+
 certmgr-restore =
     .label = Импортааһын…
     .accesskey = м
+
 certmgr-add-exception =
     .label = Туорааһыны эп…
     .accesskey = Т
@@ -46,3 +49,4 @@ certmgr-add-exception =
 
 ## Add Security Exception dialog
 
+## Certificate export "Save as" and error dialogs

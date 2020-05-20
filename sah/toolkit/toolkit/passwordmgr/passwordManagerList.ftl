@@ -26,6 +26,7 @@ import =
 close-button =
     .label = Сап
     .accesskey = С
+
 remove-all-passwords-prompt = Киирии тыллары соттороору гынаҕын дуо?
 remove-all-passwords-title = Бары киирии тыллары соттор
 no-master-password-prompt = Киирии тыллары көрдөрөөрү гынаҕын дуо?

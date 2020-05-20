@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Барытын хараарт">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "х">
+
 <!ENTITY findCmd.label             "Бул">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "Б">

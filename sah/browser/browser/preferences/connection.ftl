@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Проксита суох
     .accesskey = с
@@ -13,16 +14,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Бу ситим прокситын аптамаатынан туруор
     .accesskey = с
+
 connection-proxy-http-share =
     .label = Бу прокси-сиэрбэри бары боротокуолларга тутун
     .accesskey = и
+
 connection-proxy-socks4 =
     .label = SOCKS 4
     .accesskey = 4
 connection-proxy-socks5 =
     .label = SOCKS 5
     .accesskey = 5
+
 connection-proxy-noproxy-desc = Холобур: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Саҥарт
     .accesskey = ҥ
+

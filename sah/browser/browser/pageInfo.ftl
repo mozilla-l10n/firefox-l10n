@@ -7,11 +7,13 @@ copy =
 menu-copy =
     .label = Төгүллээ
     .accesskey = Т
+
 select-all =
     .key = A
 menu-select-all =
     .label = Барытын тал
     .accesskey = т
+
 general-tab =
     .label = Сүрүн
     .accesskey = G
@@ -31,6 +33,7 @@ general-meta-name =
     .label = Аат
 general-meta-content =
     .label = Иһинээҕитэ
+
 media-tab =
     .label = Медиа
     .accesskey = M
@@ -60,11 +63,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Мултимедианы эрдэ көрүү:
+
 perm-tab =
     .label = Көҥүллээһин
     .accesskey = P
 permissions-for =
     .value = Манна аналлаах көҥүл:
+
 security-tab =
     .label = Көмүскэл
     .accesskey = S
@@ -81,13 +86,17 @@ security-view-identity-domain =
     .value = Ситим-сир:
 security-view-identity-verifier =
     .value = Бигэргэтилиннэ:
+
 security-view-privacy-history-value = Урут бу ситим-сиргэ сылдьыбыттаахпын дуо?
+
 security-view-privacy-passwords-value = Бу ситим-сир киирии тылын көмпүүтэрбэр уура сытабын дуо?
+
 security-view-privacy-viewpasswords =
     .label = Ууруллубут киирии тыллары көрүү
     .accesskey = w
 security-view-technical =
     .value = Техникаҕа сыһыаннаах информация
+
 help-button =
     .label = Көмө
 
@@ -116,6 +125,7 @@ media-video = Видео
 media-audio = Аудио
 saved-passwords-yes = Сөп
 saved-passwords-no = Суох
+
 no-page-title =
     .value = Аата суох сирэй:
 general-quirks-mode =
@@ -131,12 +141,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Анаан этиллибэтэҕинэ
 security-no-visits = Суох
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } ойуута
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -146,17 +158,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px ({ $scaledx }px × { $scaledy }px масштаабтаах)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } КБ
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -164,6 +179,7 @@ media-file-size = { $size } КБ
 media-block-image =
     .label = { $website } ойууларын көрдөрүмэ
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

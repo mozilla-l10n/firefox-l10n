@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Плагииннар тустарынан
+
 installed-plugins-label = Турар плагииннар
 no-plugins-are-installed-label = Туруоруллубут плагииннар көстүбэтилэр
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Туруга:</span> Холбо�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Туруга:</span> Холбоммут ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Туруга:</span> Арахсыбыт
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Туруга:</span> Арахсыбыт ({ $blockListState })
+
 mime-type-label = MIME көрүҥэ
 description-label = Сиһилии
 suffixes-label = Суффикстар

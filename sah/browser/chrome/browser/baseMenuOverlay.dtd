@@ -28,9 +28,6 @@
 
 
 
-<!ENTITY healthReport2.label      "&brandShorterName; туругун отчуота">
-<!ENTITY healthReport2.accesskey  "г">
-
 <!ENTITY helpTroubleshootingInfo.label      "Кыһалҕаны быһаарар туһунан">
 <!ENTITY helpTroubleshootingInfo.accesskey  "К">
 
@@ -52,3 +49,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Барытын көрдөр">
+

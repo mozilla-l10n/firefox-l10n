@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; туһунан">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; тургутуллар, онон оччо бигэтэ суох үлэлиэн сөп.">
-<!ENTITY aboutPage.telemetryStart               " Кини көмпүүтэр үлэтин, туохтан турарын, туттуу уонна туруоруулар тустарынан сибидиэнньэлэри манна ыыта турар ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " &brandShortName; тубустун диэн.">
 
 
 

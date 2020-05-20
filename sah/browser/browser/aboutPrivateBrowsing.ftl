@@ -4,3 +4,4 @@
 
 privatebrowsingpage-open-private-window-label = Бүөм түннүгү арый
     .accesskey = т
+

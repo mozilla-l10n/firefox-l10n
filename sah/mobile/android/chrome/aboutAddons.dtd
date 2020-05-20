@@ -4,9 +4,9 @@
 
 <!ENTITY aboutAddons.title2                     "Эбиискэлэр">
 <!ENTITY aboutAddons.header2                    "Мин эбиискэлэрим">
-<!ENTITY aboutAddons.options                    "Опциялара">
 
 <!ENTITY addonAction.enable                     "Холбоо">
 <!ENTITY addonAction.disable                    "Араар">
 <!ENTITY addonAction.uninstall                  "Сот">
 <!ENTITY addonAction.undo                       "Төннөр">
+

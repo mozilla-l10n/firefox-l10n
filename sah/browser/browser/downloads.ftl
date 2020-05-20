@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Хаттаан
     .accesskey = Х
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Билэлээх паапканы арый
     .accesskey = л
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Finder-гэ көрдөр
     .accesskey = к
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Finder-гэ көрдөр
            *[other] Билэлээх паапканы арый
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] Finder-гэ көрдөр
            *[other] Билэлээх паапканы арый
         }
+
 downloads-cmd-retry =
     .tooltiptext = Хатылаа
 downloads-cmd-retry-panel =
@@ -61,16 +66,20 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Хачайдаммыты ыраастаа
     .accesskey = ы
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Хачайдааһыннары барыларын көрдөр
     .accesskey = ө
+
 downloads-clear-downloads-button =
     .label = Хачайдаммыты ыраастаа
     .tooltiptext = Түмүктэммит, тохтотуллубут уонна сатамматах хачайдааһыннары сотор
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Хачайдааһын суох.
+

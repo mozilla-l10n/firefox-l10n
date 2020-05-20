@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Этии тиэкискэ бу кэннинээҕи киириитин бул
 findbar-previous =
     .tooltiptext = Этии тиэкискэ бу иннинээҕи киириитин бул
+
 findbar-find-button-close =
     .tooltiptext = Көрдөөһүнү көстүбэт гын
+

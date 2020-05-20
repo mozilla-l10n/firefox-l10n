@@ -7,6 +7,7 @@
 
 change-password-window =
     .title = Маастар киирии тылы уларытарга
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Көмүскэл тэрил: { $tokenName }

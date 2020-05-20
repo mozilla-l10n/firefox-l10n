@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Бичиктэр
+
 fonts-window-close =
     .key = w
 
@@ -55,6 +56,7 @@ fonts-default-serif =
     .label = Эркээйилээх
 fonts-default-sans-serif =
     .label = Эркээйитэ суох
+
 fonts-minsize-none =
     .label = Суох
 
@@ -65,6 +67,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-name-vietnamese =
     .label = Вьетнам
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

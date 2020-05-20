@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Саҥардыы сороҕо эрэ турар кыаҕа суох. &brandShortName; толору саҥардыыны туруоран көрүө.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; саҥардыы баарын-суоҕун кыайан быһаарбата. Бука диэн көр, &brandShortName; тиһэх барыла мантан ылыллыбыт дуо:">
-
+                                           
 <!ENTITY  finishedPage.title              "Саҥардыы туруорарга бэлэм">
 <!ENTITY  finishedPage.text               "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Саҥардыы аныгыскы &brandShortName; хос ыытыы кэнниттэн туруоруллуо. Эн сип билигин  &brandShortName; хос ыытыаххын сөп, эбэтэр салгыы үлэлээн баран кэлин инньэ гыныаххын сөп.">
 
 
-<!ENTITY  update.details.label            "Сиһилии">
-<!ENTITY  update.installedOn.label        "Туруоруллубут:">
-<!ENTITY  update.status.label             "Стаатуһа:">

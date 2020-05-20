@@ -7,8 +7,10 @@
 
 devmgr-header-details =
     .label = Сиһилии
+
 devmgr-header-value =
     .label = Суолта
+
 devmgr-button-changepw =
     .label = Киирии тылы уларыт
     .accesskey = а
@@ -20,7 +22,10 @@ devmgr-button-changepw =
 
 devinfo-status =
     .label = Стаатуһа
+
 devinfo-status-disabled =
     .label = Арахсыбыт
+
 devinfo-desc =
     .label = Сиһилии
+

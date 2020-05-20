@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Тохтото түс
 pictureinpicture-play =
     .aria-label = Оонньот
+
 pictureinpicture-mute =
     .aria-label = Саҥарбат гын
 pictureinpicture-unmute =
     .aria-label = Саҥарар гын
+

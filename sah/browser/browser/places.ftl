@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Саҥа түннүккэ арый
     .accesskey = т
+
 places-new-bookmark =
     .label = Саҥа бэлиэ...
     .accesskey = б
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Саҥа быыс
     .accesskey = б
+
 places-view =
     .label = Көстүүтэ
     .accesskey = т
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Кэминэн уонна ситим-сирдэринэн
     .accesskey = у
+
 places-delete-domain-data =
     .label = Бу ситим-сири умнарга
     .accesskey = Б

@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } — профиль талыыта
+
 profile-selection-button-accept =
     .label = { -brand-short-name } саҕалааһына
+
 profile-selection-button-cancel =
     .label = Тахсыы
+
 profile-selection-new-button =
     .label = Оҥорорго…
     .accesskey = ҥ
+
 profile-selection-rename-button =
     .label = Аатын уларытыы…
     .accesskey = А
+
 profile-selection-delete-button =
     .label = Сот…
     .accesskey = о
@@ -21,6 +26,8 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } туруорууларгын, бэлиэтээһиннэргин тус профильга харайар.
+
 profile-manager-work-offline =
     .label = Ситимҥэ холбоммокко үлэ
     .accesskey = С
+

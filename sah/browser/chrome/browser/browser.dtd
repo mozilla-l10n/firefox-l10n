@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -17,17 +18,8 @@
 
 <!ENTITY appmenu.tooltip                     "Менюну арый">
 <!ENTITY navbarOverflow.label                "Атын тэриллэр...">
+
 <!-- Tab context menu -->
-
-<!ENTITY  reloadTab.label                    "Кыбытыгы саҥарт">
-<!ENTITY  reloadTab.accesskey                "К">
-
-
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Уҥа кыбытыктары сап">
-<!ENTITY  closeTabsToTheEnd.accesskey        "а">
 
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -45,15 +37,6 @@ can reach it easily. -->
 
 
 
-
-<!ENTITY  moveToNewWindow.label              "Саҥа түннүккэ көһөр">
-<!ENTITY  moveToNewWindow.accesskey          "т">
-
-
-
-
-<!ENTITY  closeTab.label                     "Кыбытыгы сап">
-<!ENTITY  closeTab.accesskey                 "К">
 
 <!ENTITY  listAllTabs.label      "Бары кыбытыктар тиһиктэрэ">
 
@@ -93,6 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Сирэй исходнига">
 <!ENTITY pageSourceCmd.accesskey "и">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Сирэй туһунан">
 <!ENTITY pageInfoCmd.accesskey "т">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -104,6 +88,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "Т">
 <!ENTITY exitFullScreenCmd.label "Толору экраантан таҕыс">
 <!ENTITY exitFullScreenCmd.accesskey "э">
+
 <!ENTITY fullScreenCmd.label "Толору экраан">
 <!ENTITY fullScreenCmd.accesskey "Т">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -130,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -159,8 +144,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-<!ENTITY subscribeToPageMenuitem.label "Бу сирэйгэ суруттар...">
 <!ENTITY addCurPagesCmd.label "Кыбытыктары барыларын бэлиэтээ...">
+
 <!ENTITY showAllBookmarks2.label "Бэлиэтэммити барытын көрдөр">
 
 
@@ -179,7 +164,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Аадырыс устуруокатын аадырыһыгар киир">
+
 <!ENTITY printButton.label            "Бэчээт">
 <!ENTITY printButton.tooltip          "Бу сирэйи бэчээттээ">
 
@@ -210,12 +197,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+
 <!ENTITY homeButton.label             "Дьиэ-сирэйгэ">
 
 <!ENTITY bookmarksButton.label          "Бэлиэлэр">
 <!ENTITY bookmarksCmd.commandkey "b">
-
-<!ENTITY bookmarksMenuButton.label          "Бэлиэлэр">
 
 
 
@@ -304,6 +290,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "Т">
 <!ENTITY viewSidebarMenu.label "Ойоҕос панель">
 <!ENTITY viewSidebarMenu.accesskey "О">
+
 <!ENTITY viewCustomizeToolbar.label       "Туруорууларын чопчулаа…">
 <!ENTITY viewCustomizeToolbar.accesskey     "Т">
 
@@ -317,8 +304,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
-
-<!ENTITY appMenuCustomize.label "Уларыт">
 
 
 
@@ -383,16 +368,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Көрдөт эбэтэр аадырыһы ук">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Кыбытыгы арый:">
 
 
-
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Суох">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Сөп">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
@@ -456,6 +438,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Саҥа кыбытыкка арый">
+
 <!ENTITY openLinkCmdInTab.accesskey   "к">
 <!ENTITY openLinkCmd.label            "Саҥа түннүккэ арый">
 <!ENTITY openLinkCmd.accesskey        "т">
@@ -475,7 +458,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Фреймы саҥарт">
 <!ENTITY reloadFrameCmd.accesskey     "Ф">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Бэлиэтэммити исходнигын көрдөр">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "MathML исходнай куода">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -552,6 +534,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Бу фреймҥэ">
 <!ENTITY thisFrameMenu.accesskey          "ф">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -602,6 +585,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "т">
 <!ENTITY videoHideStats.label        "Статиистиканы кистээ">
 <!ENTITY videoHideStats.accesskey    "т">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -628,6 +612,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Тиэкиһи эрэ">
 <!ENTITY fullZoomToggleCmd.accesskey    "Т">
+
 <!ENTITY fullZoom.label                 "Улаатыннар">
 <!ENTITY fullZoom.accesskey             "У">
 
@@ -655,8 +640,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "И">
 <!ENTITY pageStylePersistentOnly.label "Сирэй сүрүн истиилэ">
 <!ENTITY pageStylePersistentOnly.accesskey "С">
-
-<!ENTITY pageReportIcon.tooltip            "Бу ситим-сир ойон тахсар түннүктэрин хааччахтыыры уларыт">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -722,6 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
+
 <!ENTITY tabsToolbar.label "Браузер кыбытыктара">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
@@ -772,12 +756,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY customizeMode.lwthemes.menuManage "Салайыы">
-
-
-
-
-
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 
@@ -816,11 +794,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.message "Манааһын">
-
-
-
-
 
 
 
@@ -830,9 +803,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "Б">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Билигин көҥүллээ">
-<!ENTITY pluginActivateAlways.label "Көҥүллээ уонна өйдөөн кэбис">
-<!ENTITY pluginBlockNow.label "Плагин хааччаҕа">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -842,7 +812,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "28em">
 
 
-<!ENTITY appMenuSidebars.label         "Ойоҕос панеллар">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -853,12 +822,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
-
-<!ENTITY panicButton.view.undoWarning             "Бу дьайыы төннөрүллүбэт.">
 
 
 
