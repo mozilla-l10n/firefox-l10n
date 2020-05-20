@@ -228,3 +228,5 @@ popup-all-windows-shared = Wszyskie ôdkna widoczne na ekranie bydōm udostympni
 
 ## URL Bar
 
+urlbar-go-button =
+    .tooltiptext = Idź do adresy z poska z adresōm
