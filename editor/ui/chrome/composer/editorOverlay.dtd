@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Fonte">
 <!ENTITY FontFaceSelect.tooltip "Escolher uma fonte">
 <!ENTITY fontfaceMenu.label "Fonte">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Tamanho da fonte">
 <!ENTITY FontSizeSelect.tooltip "Escolha um tamanho da fonte">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "D">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Propriedades da lista…">
 <!ENTITY listPropsCmd.accesskey "P">
 
+<!ENTITY ParagraphSelect.title "Parágrafo">
 <!ENTITY ParagraphSelect.tooltip "Escolher um formato de parágrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo do texto">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Justificar">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posicionamento">
 <!ENTITY layer.tooltip "Camada">
+<!ENTITY decreaseZIndex.label "Enviar para trás">
 <!ENTITY layerSendToBack.tooltip "Enviar para trás">
+<!ENTITY increaseZIndex.label "Trazer para frente">
 <!ENTITY layerBringToFront.tooltip "Trazer para frente">
 
 <!ENTITY increaseIndent.label "Aumentar o recuo">
@@ -304,20 +310,30 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserir um novo link ou editar as propriedades do link selecionado">
 <!ENTITY anchorToolbarCmd.label "Âncora">
 <!ENTITY anchorToolbarCmd.tooltip "Inserir uma nova âncora nomeada ou editar as propriedades da âncora selecionada">
+<!ENTITY colorButtons.title "Cores">
 <!ENTITY TextColorButton.tooltip "Escolher a cor do texto">
 <!ENTITY BackgroundColorButton.tooltip "Escolher cor para o fundo">
 <!ENTITY throbber.tooltip "Ir para a página inicial de &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
+<!ENTITY HighlightColorButton.label "Marca-texto">
 <!ENTITY HighlightColorButton.tooltip "Escolher cor para realçar o texto">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Tamanho da fonte">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definir o tamanho da fonte">
+<!ENTITY smaller.label "Menor">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuir o tamanho da fonte">
+<!ENTITY larger.label "Maior">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar o tamanho da fonte">
+<!ENTITY bold.label "Negrito">
 <!ENTITY boldToolbarCmd.tooltip "Negrito">
+<!ENTITY italic.label "Itálico">
 <!ENTITY italicToolbarCmd.tooltip "Itálico">
+<!ENTITY underline.label "Sublinhado">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinhado">
+<!ENTITY bullets.label "Marcadores">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover a lista com marcadores">
+<!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar ou remover a lista numerada">
 <!ENTITY outdentToolbarCmd.tooltip "Texto sem recuo (mover à esquerda)">
 <!ENTITY indentToolbarCmd.tooltip "Recuar texto (mover á direita)">
