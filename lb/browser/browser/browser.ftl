@@ -105,5 +105,5 @@ urlbar-placeholder =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Erweiderung:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = D'Adress aus der Leescht lueden
