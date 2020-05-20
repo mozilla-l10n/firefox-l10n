@@ -203,7 +203,5 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplošynuojums:
-urlbar-go-end-cap =
-    .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
 urlbar-page-action-button =
     .tooltiptext = Lopys darbeibys
