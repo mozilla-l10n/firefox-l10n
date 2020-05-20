@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Suñuk &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; yanarinami mana takyak kankachu.">
-<!ENTITY aboutPage.telemetryStart               " Rurana payllara kachaykuna rurakta, hardware, mawkanaku, ñukapayaykunapash suñuk man ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "  yanapana allichina &brandShortName;man. ">
 <!ENTITY aboutPage.checkForUpdates.link         "Maskana kunanpachakuna » ">
 <!ENTITY aboutPage.checkForUpdates.checking     "Maskahun kunanpachakuna…">
 <!ENTITY aboutPage.checkForUpdates.none         "Illan kunanpachakuna">

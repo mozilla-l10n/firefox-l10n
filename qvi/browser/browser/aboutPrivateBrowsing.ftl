@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = Shuk Shukllayay tukuta paskay
     .accesskey = S
 about-private-browsing-not-private = Kunanpi kanka na shuk shukllayay tukupi kankichu.
+

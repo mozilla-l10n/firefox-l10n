@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Llaki aparikpi pankata">
 <!ENTITY retry.label "Kutin Shinana">
+
 <!-- Specific error messages -->
 
 
@@ -94,6 +95,7 @@
 <!ENTITY securityOverride.linkText "O ushanki yapana shuk ihichay...">
 <!ENTITY securityOverride.getMeOutOfHereButton "Kaymanta llukchiway!">
 <!ENTITY securityOverride.exceptionButtonLabel "Yapana Ihichay...">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
@@ -119,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> arinay pakchi ruray allikichin mawka y kalak wakllichinakunata. Shuk waklliwik llanka rikuchinka chay willanata allikichishka yarinka. Chay kamachikana kuskaweb kuyuyllana tukunka chay yanapak ñawpa shinana napashamuna chay kuska.</p><p>Kamachintan pantashka: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+
