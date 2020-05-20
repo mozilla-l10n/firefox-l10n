@@ -61,5 +61,5 @@ urlbar-placeholder =
     .placeholder = முகவரியைத் தேடவும் அல்லது உள்ளிடவும்
 urlbar-switch-to-tab =
     .value = தத்தலுக்கு மாற்றுக:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்
