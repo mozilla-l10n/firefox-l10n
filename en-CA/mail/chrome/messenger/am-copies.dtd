@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Copies &amp; Folders">
 <!ENTITY sendingPrefix.label "When sending messages, automatically: ">
 <!ENTITY fccMailFolder.label "Place a copy in:">
