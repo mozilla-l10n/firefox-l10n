@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "น">
 <!ENTITY Birthday.label                 "วันเกิด:">
 <!ENTITY Birthday.accesskey             "ก">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "เดือน">
 <!ENTITY Day.placeholder                "วัน">
 <!ENTITY Year.placeholder               "ปี">
-<!ENTITY Or.value                       "หรือ">
 <!ENTITY Age.label                      "อายุ:">
 <!ENTITY Age.placeholder                "อายุ">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "ที่ทำงาน">
 <!ENTITY Work.accesskey                 "ง">

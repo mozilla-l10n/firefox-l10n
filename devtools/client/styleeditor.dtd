@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "ห">
 
 <!ENTITY importButton.label         "นำเข้า…">
+
 <!ENTITY importButton.tooltip       "นำเข้าและผนวกแผ่นลักษณะที่มีอยู่ไปยังเอกสาร">
 <!ENTITY importButton.accesskey     "น">
 
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "บ">
 
 <!ENTITY optionsButton.tooltip      "ตัวเลือกตัวแก้ไขลักษณะ">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "แสดงแหล่งต้นฉบับ">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "ส">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "แสดงแถบข้าง @media">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "ด">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

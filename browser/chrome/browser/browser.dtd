@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "จ">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
 <!ENTITY exitFullScreenCmd.accesskey "จ">
+
 <!ENTITY fullScreenCmd.label "เต็มหน้าจอ">
 <!ENTITY fullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "ยืนยันบัญชีของคุณ">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "ย่อ">
 <!ENTITY fullScreenRestore.tooltip "คืนสภาพ">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "การตั้งค่าบัญชี">
 <!ENTITY fxa.menu.manageAccount2.label "จัดการบัญชี">
 <!ENTITY fxa.menu.signOut.label "ลงชื่อออก…">
-<!ENTITY fxa.menu.deviceSettings.label "การตั้งค่าอุปกรณ์">
 <!ENTITY fxa.menu.setupSync.label "ตั้งค่า &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "ห">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง">
+
 <!ENTITY printButton.label            "พิมพ์">
 <!ENTITY printButton.tooltip          "พิมพ์หน้านี้">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
+
 
 <!ENTITY searchItem.title             "ค้นหา">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "ย">
 <!ENTITY manageUserContext.label          "จัดการการแยกข้อมูล">
 <!ENTITY manageUserContext.accesskey      "จ">
+
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ห">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "เพิ่มเติม">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
 <!ENTITY urlbar.accesskey             "ป">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "เพิ่มที่คั่นหน้าสำหรับกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ม">
+
 <!ENTITY pageAction.copyLink.label    "คัดลอกลิงก์">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "บันทึกไปยัง Pocket">
+
 <!ENTITY saveToPocketCmd.label        "บันทึกหน้าไปยัง Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "บ">
 <!ENTITY saveLinkToPocketCmd.label    "บันทึกลิงก์ไปยัง Pocket">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
 
-<!ENTITY identity.connectionSecure3 "การเชื่อมต่อปลอดภัย">
-<!ENTITY identity.connectionNotSecure2 "การเชื่อมต่อไม่ปลอดภัย">
-<!ENTITY identity.connectionNotSecureSecurityView "คุณไม่ได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้">
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บไว้ในคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
-<!ENTITY identity.connectionVerified3 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้">
 <!ENTITY identity.connectionInternal "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
 <!ENTITY identity.extensionPage "หน้านี้ถูกโหลดจากส่วนขยาย">
 <!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจถูกบุกรุกได้">
 <!ENTITY identity.customRoot "การเชื่อมต่อถูกตรวจสอบโดยผู้ออกใบรับรองที่ Mozilla ไม่รู้จัก">
-
-<!ENTITY identity.evOwnerLabel2 "ออกใบรับรองให้กับ:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ได้ปิดกั้นบางส่วนของหน้านี้ที่ไม่ปลอดภัย">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "สิทธิอนุญาต">
 
-<!ENTITY identity.permissions3 "สิทธิอนุญาต">
 <!ENTITY identity.permissionsEmpty "คุณไม่ได้อนุญาตไซต์นี้ด้วยสิทธิอนุญาตพิเศษใด ๆ">
 <!ENTITY identity.permissionsReloadHint "คุณอาจจำเป็นต้องโหลดหน้าใหม่เพื่อให้การเปลี่ยนแปลงมีผล">
 <!ENTITY identity.permissionsPreferences.tooltip "เปิดค่ากำหนดสิทธิอนุญาต">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "ปิด">
 

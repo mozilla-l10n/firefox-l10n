@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ช่วยเหลือ"> 
 <!ENTITY helpMenuWin.accesskey    "ช">
+
 <!ENTITY aboutProduct2.label      "เกี่ยวกับ &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "ก">
 <!ENTITY productHelp2.label       "ความช่วยเหลือของ &brandShorterName;">

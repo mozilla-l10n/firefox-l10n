@@ -8,6 +8,7 @@ password-quality-meter = มาตรวัดคุณภาพรหัสผ�
 
 change-password-window =
     .title = เปลี่ยนรหัสผ่านหลัก
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = อุปกรณ์ความปลอดภัย: { $tokenName }

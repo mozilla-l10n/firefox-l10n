@@ -4,27 +4,24 @@
 
 history-title = ประวัติการอัปเดต
 history-intro = การอัปเดตดังต่อไปนี้ได้รับการติดตั้งแล้ว
+
 close-button-label =
     .buttonlabelcancel = ปิด
     .title = ประวัติการอัปเดต
+
 no-updates-label = ยังไม่มีการอัปเดตถูกติดตั้ง
 name-header = ชื่อการอัปเดต
 date-header = วันที่ติดตั้ง
 type-header = ชนิด
 state-header = สถานะ
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = รายละเอียด
 update-installed-on = ติดตั้งเมื่อ: { $date }
 update-status = สถานะ: { $status }

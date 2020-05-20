@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "ไม่สามารถเรียกใช้การอัปเดตแบบบางส่วน &brandShortName; จะลองอีกครั้งโดยดาวน์โหลดการอัปเดตแบบสมบูรณ์">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ไม่สามารถตรวจสอบได้ว่ามีการอัปเดตหรือไม่ โปรดตรวจสอบให้แน่ใจว่าคุณมี &brandShortName; รุ่นล่าสุดจาก:">
-
+                                           
 <!ENTITY  finishedPage.title              "การอัปเดตพร้อมติดตั้ง">
 <!ENTITY  finishedPage.text               "การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ หรือทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ หรือทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง">
 <!ENTITY  finishedBackground.moreElevated "การอัปเดตนี้ต้องการสิทธิของผู้ดูแลระบบ การอัปเดตจะถูกติดตั้งในครั้งถัดไปที่ &brandShortName; เริ่ม คุณสามารถเริ่มการทำงาน &brandShortName; ใหม่ตอนนี้ ทำงานต่อไปและเริ่มการทำงานใหม่ในภายหลัง หรือปฏิเสธการอัปเดตนี้">
 
-<!ENTITY  update.details.label            "รายละเอียด">
-<!ENTITY  update.installedOn.label        "ติดตั้งเมื่อ:">
-<!ENTITY  update.status.label             "สถานะ:">

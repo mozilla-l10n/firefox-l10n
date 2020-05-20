@@ -70,15 +70,11 @@
 <!ENTITY cmd.new_separator.label           "ตัวแบ่งใหม่">
 <!ENTITY cmd.new_separator.accesskey       "บ">
 
-<!ENTITY cmd.reloadLivebookmark.label      "โหลดที่คั่นหน้าสดใหม่">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "ห">
-
 <!ENTITY col.name.label          "ชื่อ">
 <!ENTITY col.tags.label          "ป้ายกำกับ">
 <!ENTITY col.url.label           "ตำแหน่งที่ตั้ง">
 <!ENTITY col.mostrecentvisit.label "วันที่เยี่ยมชมล่าสุด">
 <!ENTITY col.visitcount.label    "จำนวนการเข้าชม">
-<!ENTITY col.description.label   "คำอธิบาย">
 <!ENTITY col.dateadded.label     "วันที่เพิ่ม">
 <!ENTITY col.lastmodified.label  "วันที่เปลี่ยนแปลงล่าสุด">
 
@@ -95,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "เดินหน้า">
 
-<!ENTITY detailsPane.more.label "เพิ่มเติม">
-<!ENTITY detailsPane.more.accesskey "พ">
-<!ENTITY detailsPane.less.label "น้อยลง">
-<!ENTITY detailsPane.less.accesskey "น">
 <!ENTITY detailsPane.selectAnItemText.description "เลือกรายการเพื่อดูและแก้ไขคุณสมบัติ">
 
 <!ENTITY view.label               "มุมมอง">

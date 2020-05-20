@@ -103,6 +103,7 @@ print-window =
     .title = กำลังพิมพ์
 print-complete =
     .value = การพิมพ์เสร็จสมบูรณ์
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = แบบอักษร
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = แบบอักษรสำหรับ
     .accesskey = บ
+
 fonts-langgroup-arabic =
     .label = อาหรับ
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = ความกว้างตามสัดส่วน
     .accesskey = ค
+
 fonts-default-serif =
     .label = มีเชิง
 fonts-default-sans-serif =
     .label = ไม่มีเชิง
+
 fonts-proportional-size = ขนาด
     .accesskey = ข
+
 fonts-serif = มีเชิง
     .accesskey = ม
+
 fonts-sans-serif = ไม่มีเชิง
     .accesskey = ง
+
 fonts-monospace = ความกว้างคงที่
     .accesskey = ว
+
 fonts-monospace-size = ขนาด
     .accesskey = น
+
 fonts-minsize = ขนาดแบบอักษรต่ำสุด
     .accesskey = ด
+
 fonts-minsize-none =
     .label = ไม่มี
+
 fonts-allow-own =
     .label = อนุญาตให้หน้าเลือกใช้แบบอักษรของตัวเอง แทนที่จะเป็นที่คุณเลือกไว้ด้านบน
     .accesskey = อ
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = รหัสอักขระสำหรับเนื้อหาแบบเก่า
 fonts-languages-fallback-desc = รหัสอักขระนี้ถูกใช้สำหรับเนื้อหาแบบเก่าที่ไม่สามารถประกาศการเข้ารหัสได้
+
 fonts-languages-fallback-label = รหัสอักขระที่ใช้แสดงแทน
     .accesskey = ร
+
 fonts-languages-fallback-name-auto =
     .label = ค่าเริ่มต้นสำหรับภาษาถิ่นปัจจุบัน
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = เวียดนาม
 fonts-languages-fallback-name-other =
     .label = อื่น ๆ (รวมถึงยุโรปตะวันตก)
-fonts-very-large-warning-title = ขนาดแบบอักษรต่ำสุดใหญ่
-fonts-very-large-warning-message = คุณได้เลือกขนาดอักษรเล็กสุดที่ใหญ่มาก (มากกว่า 24 พิกเซล) โดยอาจจะทำให้ยากหรือเป็นไปไม่ได้สำหรับการใช้งานการตั้งค่าหน้าที่สำคัญบางหน้าอย่างเช่นหน้านี้
-fonts-very-large-warning-accept = เก็บการเปลี่ยนแปลงของฉันต่อไป
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

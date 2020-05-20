@@ -20,6 +20,7 @@ open-location = ค้นหาหรือป้อนที่อยู่
 share = แบ่งปัน
 close-window = ปิดหน้าต่าง
 open-sidebar = แถบข้าง
+
 # This string describes shortcuts for search.
 search-popover = ทางลัดการค้นหา
 # Describes searches limited to a specific scope

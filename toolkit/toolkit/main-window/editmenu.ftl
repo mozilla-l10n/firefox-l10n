@@ -13,21 +13,27 @@
 editmenu-undo =
     .label = เลิกทำ
     .accesskey = ล
+
 editmenu-redo =
     .label = ทำซ้ำ
     .accesskey = ท
+
 editmenu-cut =
     .label = ตัด
     .accesskey = ต
+
 editmenu-copy =
     .label = คัดลอก
     .accesskey = ค
+
 editmenu-paste =
     .label = วาง
     .accesskey = ว
+
 editmenu-delete =
     .label = ลบ
     .accesskey = บ
+
 editmenu-select-all =
     .label = เลือกทั้งหมด
     .accesskey = อ

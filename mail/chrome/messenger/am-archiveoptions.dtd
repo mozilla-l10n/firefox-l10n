@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "ตัวเลือกการเก็บถาวร">
 <!ENTITY archiveGranularityPrefix.label "เมื่อเก็บถาวรข้อความ ให้วางใน:">
 <!ENTITY archiveFlat.label "โฟลเดอร์เดียว">

@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = เปิดในหน้าต่างส่วนตัวใหม่
     .accesskey = ส
+
 places-new-bookmark =
     .label = ที่คั่นหน้าใหม่…
     .accesskey = ม
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = ตัวแบ่งใหม่
     .accesskey = บ
+
 places-view =
     .label = มุมมอง
     .accesskey = ม
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ตามวันที่และไซต์
     .accesskey = ต
+
 places-history-search =
     .placeholder = ค้นหาประวัติ
 places-bookmarks-search =
     .placeholder = ค้นหาที่คั่นหน้า
+
 places-delete-domain-data =
     .label = ลืมเกี่ยวกับไซต์นี้
     .accesskey = ม
