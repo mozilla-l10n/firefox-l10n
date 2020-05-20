@@ -192,6 +192,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Stinziuni:
+urlbar-go-button =
+    .tooltiptext = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-page-action-button =
     .tooltiptext = Azziuni dâ pàggina
 urlbar-pocket-button =
