@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Σύνταξη &amp; διευθυνσιοδότηση">
 <!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
 <!ENTITY addressingText.label      "Κατά την αναζήτηση διευθύνσεων:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Κανένα">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Σύνταξη">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

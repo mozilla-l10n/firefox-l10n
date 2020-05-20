@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 530px; min-height: 480px;
+
 copy =
     .key = C
 menu-copy =
     .label = Αντιγραφή
     .accesskey = γ
+
 select-all =
     .key = A
 menu-select-all =
     .label = Επιλογή όλων
     .accesskey = λ
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Γενικά
     .accesskey = Γ
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Όνομα
 general-meta-content =
     .label = Περιεχόμενο
+
 media-tab =
     .label = Πολυμέσα
     .accesskey = μ
@@ -68,11 +73,13 @@ media-save-image-as =
     .accesskey = η
 media-preview =
     .value = Προεπισκόπηση πολυμέσων:
+
 perm-tab =
     .label = Δικαιώματα
     .accesskey = Δ
 permissions-for =
     .value = Δικαιώματα για:
+
 security-tab =
     .label = Ασφάλεια
     .accesskey = σ
@@ -93,17 +100,22 @@ security-view-identity-validity =
     .value = Λήγει στις:
 security-view-privacy =
     .value = Απόρρητο & ιστορικό
+
 security-view-privacy-history-value = Έχω επισκεφθεί αυτή την ιστοσελίδα στο παρελθόν;
 security-view-privacy-sitedata-value = Αυτή η ιστοσελίδα αποθηκεύει πληροφορίες στον υπολογιστή μου;
+
 security-view-privacy-clearsitedata =
     .label = Εκκαθάριση cookies και δεδομένων ιστοσελίδων
     .accesskey = Ε
+
 security-view-privacy-passwords-value = Έχω αποθηκεύσει κωδικούς πρόσβασης για αυτή την ιστοσελίδα;
+
 security-view-privacy-viewpasswords =
     .label = Προβολή αποθηκευμένων κωδικών πρόσβασης
     .accesskey = λ
 security-view-technical =
     .value = Τεχνικές λεπτομέρειες
+
 help-button =
     .label = Βοήθεια
 
@@ -115,8 +127,10 @@ help-button =
 
 security-site-data-cookies = Ναι, cookies και { $value } { $unit } δεδομένων ιστοσελίδων
 security-site-data-only = Ναι, { $value } { $unit } δεδομένων ιστοσελίδων
+
 security-site-data-cookies-only = Ναι, cookies
 security-site-data-no = Όχι
+
 image-size-unknown = Άγνωστο
 not-set-verified-by = Δεν έχει καθοριστεί
 page-info-not-specified =
@@ -136,6 +150,7 @@ media-video = Βίντεο
 media-audio = Ήχος
 saved-passwords-yes = Ναι
 saved-passwords-no = Όχι
+
 no-page-title =
     .value = Σελίδα χωρίς τίτλο:
 general-quirks-mode =
@@ -151,6 +166,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Χρήση προεπιλογής
 security-no-visits = Όχι
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -161,6 +177,7 @@ general-meta-tags =
             [one] Μεταδεδομένα (1 ετικέτα)
            *[other] Μεταδεδομένα ({ $tags } ετικέτες)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -171,6 +188,7 @@ security-visits-number =
         [one] Ναι, μια φορά
        *[other] Ναι, { $visits } φορές
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -181,6 +199,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } byte)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -192,12 +211,14 @@ media-animated-image-type =
             [one] Εικόνα { $type } (κινούμενη, { $frames } καρέ)
            *[other] Εικόνα { $type } (κινούμενη, { $frames } καρέ)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Εικόνα { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -207,17 +228,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (κλιμακώθηκε σε { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -225,6 +249,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Φραγή εικόνων από { $website }
     .accesskey = α
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

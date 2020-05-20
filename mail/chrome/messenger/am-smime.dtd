@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Απαιτείται (δεν γίνεται αποστολή αν δεν έχουν όλοι οι παραλήπτες πιστοποιητικό)">
 <!ENTITY alwaysEncryptMessage.accesskey "α">
 <!ENTITY encryptionCert.message "Χρήση του εξής πιστοποιητικού για κρυπτογράφηση &amp; αποκρυπτογράφηση ληφθέντων μηνυμάτων:">
+
 <!ENTITY digitalSign.certificate.button "Επιλογή…">
 <!ENTITY digitalSign.certificate.accesskey "Ε">
 <!ENTITY digitalSign.certificate_clear.button "Απαλοιφή">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Επιλογή πιστοποιητικού">
 <!ENTITY certPicker.info  "Πιστοποιητικό:">
 <!ENTITY certPicker.detailsLabel "Λεπτομέρειες επιλεγμένου πιστοποιητικού:">
+

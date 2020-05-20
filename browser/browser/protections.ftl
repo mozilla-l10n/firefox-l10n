@@ -4,19 +4,27 @@
 
 protection-report-page-title = Προστασία απορρήτου
 protection-report-content-title = Προστασία απορρήτου
+
 etp-card-title = Ενισχυμένη προστασία από καταγραφή
 etp-card-content = Οι ιχνηλάτες σάς ακολουθούν στο διαδίκτυο για να συλλέξουν πληροφορίες σχετικά με τις συνήθειες και τα ενδιαφέροντά σας. Το { -brand-short-name } αποκλείει πολλούς από αυτούς τους ιχνηλάτες και άλλα κακόβουλα σενάρια.
+
 protection-report-manage-protections = Διαχείριση ρυθμίσεων
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Σήμερα
+
 social-tab-title = Ιχνηλάτες κοινωνικών δικτύων
+
 tracker-tab-title = Περιεχόμενο καταγραφής
+  
 lockwise-title-logged-in = { -lockwise-brand-name }
 protection-report-view-logins-button = Προβολή συνδέσεων
     .title = Μετάβαση στις αποθηκευμένες συνδέσεις
+
 turn-on-sync = Ενεργοποίηση { -sync-brand-short-name }…
     .title = Μετάβαση στις προτιμήσεις συγχρονισμού
+
 monitor-title = Προσέξτε για διαρροές δεδομένων
 monitor-link = Πώς λειτουργεί
 monitor-sign-up = Εγγραφή για ειδοποιήσεις παραβιάσεων

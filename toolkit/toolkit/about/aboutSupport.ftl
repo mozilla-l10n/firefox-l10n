@@ -7,6 +7,7 @@ page-subtitle =
     Αυτή η σελίδα περιέχει τεχνικές πληροφορίες που πιθανόν να σας φανούν χρήσιμες στην επίλυση κάποιων
     προβλημάτων. Αν ψάχνετε για απαντήσεις σε συχνές ερωτήσεις για τον
     { -brand-short-name }, επισκεφτείτε την <a data-l10n-name="support-link">σελίδα υποστήριξης</a>.
+
 crashes-title = Αναφορές κατάρρευσης
 crashes-id = ID Αναφοράς
 crashes-send-date = Υποβλήθηκε
@@ -125,6 +126,7 @@ audio-backend = Υποσύστημα ήχου
 max-audio-channels = Μέγιστος αριθμός καναλιών
 channel-layout = Επιθυμητή διάταξη καναλιών
 sample-rate = Επιθυμητός ρυθμός δειγματοληψίας
+
 media-title = Πολυμέσα
 media-output-devices-title = Συσκευές εξόδου
 media-input-devices-title = Συσκευές εισόδου
@@ -175,6 +177,7 @@ report-crash-for-days =
         [one] Αναφορές κατάρρευσης για την τελευταία { $days } ημέρα
        *[other] Αναφορές κατάρρευσης για τις τελευταίες { $days } ημέρες
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -182,6 +185,7 @@ crashes-time-minutes =
         [one] { $minutes } λεπτό πριν
        *[other] { $minutes } λεπτά πριν
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -189,6 +193,7 @@ crashes-time-hours =
         [one] { $hours } ώρα πριν
        *[other] { $hours } ώρες πριν
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -196,6 +201,7 @@ crashes-time-days =
         [one] { $days } μέρα πριν
        *[other] { $days } ημέρες πριν
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -203,6 +209,7 @@ pending-reports =
         [one] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένης { $reports } κατάρρευσης σε αναμονή στο δεδομένο χρονικό διάστημα)
        *[other] Όλες οι αναφορές κατάρρευσης (συμπεριλαμβανομένων { $reports } καταρρεύσεων σε αναμονή στο δεδομένο χρονικό διάστημα)
     }
+
 raw-data-copied = Αντιγράφτηκαν δεδομένα Raw στο πρόχειρο
 text-copied = Αντιγράφτηκε κείμενο στο πρόχειρο
 
@@ -215,9 +222,11 @@ blocked-mismatched-version = Μπλοκαρισμένο λόγω ασυμφων�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Δεν υποστηρίζεται από τον οδηγό της κάρτας γραφικών σας. Αναβαθμίστε τον οδηγό γραφικών σε έκδοση { $driverVersion } ή νεότερη.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Παράμετροι ClearType
+
 compositing = Σύνθεση
 hardware-h264 = Αποκωδικοποίηση υλικού H264
 main-thread-no-omtc = κύριο νήμα, όχι OMTC
@@ -232,6 +241,7 @@ virtual-monitor-disp = Οθόνη εικονικής εποπτείας
 
 found = Βρέθηκε
 missing = Λείπει
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Περιγραφή
@@ -255,18 +265,23 @@ webgl2-version = Έκδοση οδηγού WebGL 2
 webgl2-driver-extensions = Επεκτάσεις οδηγού WebGL 2
 webgl2-extensions = Επεκτάσεις WebGL 2
 blocklisted-bug = Μπλοκαρίστηκε λόγω γνωστών θεμάτων
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = σφάλμα { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Μπλοκαρίστηκε, κωδικός αποτυχίας { $failureCode }
+
 d3d11layers-crash-guard = Συνθέτης D3D11
 d3d11video-crash-guard = Αποκωδικοποιητής βίντεο D3D11
 d3d9video-crash-buard = Αποκωδικοποιητής βίντεο D3D9
 d3d9video-crash-guard = Αποκωδικοποιητής βίντεο D3D9
 glcontext-crash-guard = OpenGL
+
 wmfvpxvideo-crash-guard = Αποκωδικοποιητής βίντεο WMF VPX
+
 reset-on-next-restart = Επαναφορά στην επόμενη επανεκκίνηση
 gpu-process-kill-button = Τερματισμός διεργασίας GPU
 gpu-device-reset = Επαναφορά συσκευής
@@ -276,8 +291,10 @@ content-uses-tiling = Χρησιμοποιεί παράθεση (περιεχό�
 off-main-thread-paint-enabled = Η απόδοση γραφικών εκτός κύριου νήματος ενεργοποιήθηκε
 off-main-thread-paint-worker-count = Πλήθος workers ζωγραφικής εκτός κυρίου νήματος
 target-frame-rate = Ρυθμός καρέ στόχου
+
 min-lib-versions = Αναμενόμενη ελάχιστη έκδοση
 loaded-lib-versions = Έκδοση σε χρήση
+
 has-seccomp-bpf = Seccomp-BPF (Φιλτράρισμα κλήσεων συστήματος)
 has-seccomp-tsync = Συγχρονισμός νήματος Seccomp
 has-user-namespaces = Χώροι ονομάτων χρήστη
@@ -290,10 +307,12 @@ sandbox-proc-type-content = περιεχόμενο
 sandbox-proc-type-file = περιεχόμενο αρχείου
 sandbox-proc-type-media-plugin = άρθρωμα πολυμέσων
 sandbox-proc-type-data-decoder = αποκωδικοποιητής δεδομένων
+
 launcher-process-status-0 = Ενεργό
 launcher-process-status-1 = Ανενεργό λόγω αποτυχίας
 launcher-process-status-2 = Ανενεργό εξαναγκαστικά
 launcher-process-status-unknown = Άγνωστη κατάσταση
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -306,6 +325,7 @@ multi-process-status-6 = Απενεργοποιημένο από μη υποστ
 multi-process-status-7 = Απενεργοποιήθηκε από πρόσθετα
 multi-process-status-8 = Αναγκαστικώς απενεργοποιημένο
 multi-process-status-unknown = Άγνωστη κατάσταση
+
 async-pan-zoom = Ασύγχρονο Pan/Zoom
 apz-none = κανένα
 wheel-enabled = είσοδος τροχού ενεργοποιημένη

@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Αποσύνδεση του { -sync-brand-short-name };
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Θέλετε επίσης να καταργήσετε τα δεδομένα του προγράμματος περιήγησης σε αυτό τον υπολογιστή; Τα δεδομένα του { -sync-brand-name } σας θα παραμείνουν στο λογαριασμό σας, ανεξαρτήτως.
+
 sync-disconnect-remove-sync-caption = Διαγραφή δεδομένων του { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Σελιδοδείκτες, ιστορικό, κωδικοί πρόσβασης, κλπ.
+
 sync-disconnect-remove-other-caption = Διαγραφή άλλων ιδιωτικών δεδομένων
+
 sync-disconnect-remove-other-data = Cookies, προσωρινή μνήμη, δεδομένα ιστοσελίδων εκτός σύνδεσης, κλπ.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Αποσύνδεση...
+
 sync-disconnect-cancel =
     .label = Ακύρωση
     .accesskey = Α
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Αποσύνδεση & διαγραφή
     .accesskey = Α
+
 sync-disconnect-confirm-disconnect =
     .label = Μόνο αποσύνδεση
     .accesskey = Μ

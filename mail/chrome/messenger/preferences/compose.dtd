@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Γραμματοσειρά:">
 <!ENTITY font.accesskey                       "ρ">
-<!ENTITY size.label                           "Μέγεθος:">
-<!ENTITY size.accesskey                       "θ">
 <!ENTITY fontSize.label                       "Μέγεθος:">
 <!ENTITY fontSize.accesskey                   "γ">
 <!ENTITY useReaderDefaults.label              "Να χρησιμοποιηθούν τα προκαθορισμένα χρώματα αναγνώστη">

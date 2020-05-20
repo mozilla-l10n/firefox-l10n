@@ -8,6 +8,7 @@ password-quality-meter = Μέτρηση ποιότητας πιστοποιητ�
 
 change-password-window =
     .title = Αλλαγή κύριου κωδικού
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Συσκευή ασφάλειας: { $tokenName }

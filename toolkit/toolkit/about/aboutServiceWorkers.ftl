@@ -9,17 +9,12 @@ about-service-workers-title = Σχετικά με τα Service Workers
 about-service-workers-main-title = Εγγεγραμμένα Service Workers
 about-service-workers-warning-not-enabled = Τα Service Workers δεν είναι ενεργοποιημένα.
 about-service-workers-warning-no-service-workers = Κανένα εγγεγραμμένο Service Worker.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Προέλευση: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } αναγνωριστικό εφαρμογής { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Όνομα ενεργής προσωρινής μν�
 waiting-cache-name = <strong>Όνομα προσωρινής μνήμης σε αναμονή:</strong> { $name }
 push-end-point-waiting = <strong>Σημείο τερματισμού:</strong> { waiting }
 push-end-point-result = <strong>Σημείο τερματισμού:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Ενημέρωση
+
 unregister-button = Διαγραφή
+
 unregister-error = Απέτυχε η κατάργηση αυτού του Service Worker.
+
 waiting = Σε αναμονή…

@@ -50,6 +50,7 @@ certificate-viewer-basic-constraints = Βασικοί περιορισμοί
 certificate-viewer-key-usages = Χρήσεις κλειδιού
 certificate-viewer-certificate-policies = Πολιτικές πιστοποιητικού
 certificate-viewer-embedded-scts = Ενσωματωμένα SCT
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Λήψη
@@ -69,3 +70,6 @@ certificate-viewer-download-pem = PEM (πιστοποιητικό)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (αλυσίδα)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+

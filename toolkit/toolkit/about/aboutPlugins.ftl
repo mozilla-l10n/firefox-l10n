@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Σχετικά με τα αρθρώματα
+
 installed-plugins-label = Εγκατεστημένα αρθρώματα
 no-plugins-are-installed-label = Δεν βρέθηκαν εγκατεστημένα αρθρώματα
+
 deprecation-description = Λείπει κάτι; Μερικά αρθρώματα δεν υποστηρίζονται πλέον. <a data-l10n-name="deprecation-link">Μάθετε περισσότερα.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Κατάσταση:</span> Εν�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Κατάσταση:</span> Ενεργό ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Κατάσταση:</span> Ανενεργό
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Κατάσταση:</span> Ανενεργό ({ $blockListState })
+
 mime-type-label = Τύπος MIME
 description-label = Περιγραφή
 suffixes-label = Επιθέματα

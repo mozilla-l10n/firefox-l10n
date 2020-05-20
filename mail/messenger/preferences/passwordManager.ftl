@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Κλείσιμο
     .accesskey = Κ
+
 show-passwords =
     .label = Εμφάνιση κωδικών πρόσβασης
     .accesskey = κ
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Είστε σίγουροι ότι θέλετε να αφαιρέσετε όλα τα συνθηματικά;
 remove-all-passwords-title = Αφαίρεση όλων των κωδικών πρόσβασης
 no-master-password-prompt = Είστε σίγουροι ότι θέλετε να εμφανιστούν όλα τα συνθηματικά σας;
+
+## OS Authentication dialog
+

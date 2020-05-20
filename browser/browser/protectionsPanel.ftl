@@ -11,6 +11,7 @@
 
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Δεν λειτουργεί η ιστοσελίδα;
+
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Δεν λειτουργεί η ιστοσελίδα;
@@ -23,6 +24,7 @@ protections-panel-not-blocking-why-label = Γιατί;
 ##
 
 protections-panel-content-blocking-tracking-protection = Περιεχόμενο καταγραφής
+
 protections-panel-content-blocking-socialblock = Ιχνηλάτες κοινωνικών δικτύων
 protections-panel-content-blocking-cryptominers-label = Εξορύκτες κρυπτονομισμάτων
 protections-panel-content-blocking-fingerprinters-label = Ανιχνευτές αποτυπωμάτων
@@ -44,12 +46,14 @@ protections-panel-showreport-label = Εμφάνιση αναφοράς
 
 # The header of the list
 protections-panel-site-not-working-view-header = Απενεργοποιήστε τις προστασίες αν αντιμετωπίζετε προβλήματα με τα εξής:
+
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Πεδία σύνδεσης
 protections-panel-site-not-working-view-issue-list-forms = Φόρμες
 protections-panel-site-not-working-view-issue-list-payments = Πληρωμές
 protections-panel-site-not-working-view-issue-list-comments = Σχόλια
 protections-panel-site-not-working-view-issue-list-videos = Βίντεο
+
 protections-panel-site-not-working-view-send-report = Αποστολή αναφοράς
 
 ##
@@ -57,6 +61,7 @@ protections-panel-site-not-working-view-send-report = Αποστολή αναφ�
 protections-panel-content-blocking-manage-settings =
     .label = Διαχείριση ρυθμίσεων προστασίας
     .accesskey = Δ
+
 protections-panel-content-blocking-breakage-report-view-collection-url = URL
 protections-panel-content-blocking-breakage-report-view-collection-url-label =
     .aria-label = URL

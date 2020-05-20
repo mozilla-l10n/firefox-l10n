@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Κλείσιμο
     .accesskey = Κ
+
 show-passwords =
     .label = Εμφάνιση κωδικών
     .accesskey = Ε

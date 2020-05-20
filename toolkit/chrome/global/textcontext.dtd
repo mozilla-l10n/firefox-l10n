@@ -29,8 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Συμπλήρωση λογαριασμού">
 <!ENTITY fillLoginMenu.accesskey      "ι">
-<!ENTITY useGeneratedPassword.label   "Χρήση ασφαλούς προτεινόμενου κωδικού πρόσβασης…">
-<!ENTITY useGeneratedPassword.accesskey "Χ">
 <!ENTITY fillPasswordMenu.label       "Συμπλήρωση κωδικού">
 <!ENTITY fillPasswordMenu.accesskey   "υ">
 <!ENTITY fillUsernameMenu.label       "Συμπλήρωση ονόματος χρήστη">
