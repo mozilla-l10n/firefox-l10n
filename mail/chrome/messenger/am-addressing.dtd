@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Kreado kaj adresado de mesaĝoj">
 <!ENTITY addressingGroupTitle.label "Adresado">
 <!ENTITY addressingText.label      "Dum serĉi adresojn:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "neniu">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Kreado">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

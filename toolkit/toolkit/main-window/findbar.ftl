@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Serĉi la venontan aperon de la frazo
 findbar-previous =
     .tooltiptext = Serĉi la antaŭan aperon de la frazo
+
 findbar-find-button-close =
     .tooltiptext = Fermi la serĉan strion
+
 findbar-highlight-all2 =
     .label = Elstarigi ĉiujn
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Elstarigi ĉiujn aperojn de la frazo
+
 findbar-case-sensitive =
     .label = Distingi inter majuskloj kaj minuskloj
     .accesskey = D
     .tooltiptext = Serĉi distingante inter majuskloj kaj minuskloj
+
 findbar-match-diacritics =
     .label = Respekti supersignojn
     .accesskey = R
     .tooltiptext = Distingi inter supersignitaj literoj kaj la baza litero (ekzemple, se vi serĉas “agi“, “aĝi“ ne estos trovita)
+
 findbar-entire-word =
     .label = Tutaj vortoj
     .accesskey = v

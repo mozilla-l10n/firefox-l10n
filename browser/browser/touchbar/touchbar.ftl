@@ -20,6 +20,7 @@ open-location = Serĉu ion aŭ tajpu adreson
 share = Kundividi
 close-window = Fermi fenestron
 open-sidebar = Flankaj strioj
+
 # This string describes shortcuts for search.
 search-popover = Ŝparvojoj serĉaj
 # Describes searches limited to a specific scope

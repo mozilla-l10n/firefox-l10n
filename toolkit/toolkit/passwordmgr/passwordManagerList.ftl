@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Fermi
     .accesskey = F
+
 show-passwords =
     .label = Montri pasvortojn
     .accesskey = P

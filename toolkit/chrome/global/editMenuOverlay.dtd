@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Elekti ĉion">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "E">
+
 <!ENTITY findCmd.label             "Serĉi">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "S">

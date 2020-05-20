@@ -46,7 +46,7 @@ do ĝi elŝutas nun la tutan ĝisdatigan pakon.">
 &brandShortName; klopodos denove per elŝuto de kompleta ĝisdatigo.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ne povas eltrovi ĉu ekistas havebla ĝisdatigo. Bonvolu konfirmi ĉu vi havas la lastan version de &brandShortName; en:">
-
+                                           
 <!ENTITY  finishedPage.title              "Preta instali ĝisdatigon">
 <!ENTITY  finishedPage.text               "La ĝisdatigo estos instalita kiam &brandShortName; startos denove. Vi 
 povas restartigi &brandShortName; nun aŭ daŭrigi vian retumon kaj restartigi poste.">
@@ -59,6 +59,3 @@ elŝutita kaj ĝi pretas esti instalita.">
 povas restartigi &brandShortName; nun aŭ daŭrigi la retumon kaj restartigi poste.">
 <!ENTITY  finishedBackground.moreElevated "Tiu ĉi ĝisdatigo postulas administrajn rajtojn. Kiam &brandShortName; startos denove, la ĝisdatigo esos instalita. Vi povas restartigi &brandShortName; nun, aŭ plu retumi kaj restartigi poste, aŭ rifuzi tiun ĉi ĝisdatigon.">
 
-<!ENTITY  update.details.label            "Detaloj">
-<!ENTITY  update.installedOn.label        "Instalita je:">
-<!ENTITY  update.status.label             "Stato:">

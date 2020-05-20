@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Agordoj de konto">
 <!ENTITY accountName.label "Nomo de konto:">
 <!ENTITY accountName.accesskey "k">

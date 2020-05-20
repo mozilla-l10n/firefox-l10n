@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = o
 appmenu-addon-private-browsing-message = Neniu nova etendaĵo aldonita al { -brand-shorter-name } funkcios en privataj fenestroj, krom se vi tion permesas en la agordoj.
 appmenu-addon-private-browsing-learn-more = Pli da informo pri administro de agordoj de etendaĵoj.
+    
 appmenu-new-tab-controlled =
     .label = Via nova langeto ŝanĝiĝis.
     .buttonlabel = Gardi ŝanĝojn

@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Malfari fermadon de langeto
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Serĉi langetojn
+
 all-tabs-menu-new-user-context =
     .label = Nova inga langeto
+
 all-tabs-menu-hidden-tabs =
     .label = Kaŝitaj langetoj
+
 all-tabs-menu-manage-user-context =
     .label = Administri ingojn
     .accesskey = i

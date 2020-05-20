@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Detaloj de programo
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Forigi
     .accesskey = F
-app-manager-handle-webfeeds = La jenaj programoj povas esti uzitaj por pritrakti TTT novaĵfontoj.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = La jenaj programoj povas esti uzitaj por pritrakti { $type } ligiloj.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = La jenaj programoj povas esti uzitaj por pritrakti { $type } enhavo.

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Agordi ekzistantan retpoŝtan konton">
+
 <!ENTITY name.label                      "Nomo:">
 <!ENTITY name.accesskey                  "N">
 <!ENTITY name.placeholder                "Persona FAMILIA">
