@@ -9,15 +9,19 @@
 # Variables:
 #   $addon-name (string) - Name of the add-on being reported
 abuse-report-dialog-title = تقرير عن { $addon-name }
+
 abuse-report-title-extension = أبلِغ { -vendor-short-name } عن هذا الامتداد
 abuse-report-title-theme = أبلِغ { -vendor-short-name } عن هذه السمة
 abuse-report-subtitle = ما المشكلة؟
+
 # Variables:
 #   $author-name (string) - Name of the add-on author
 abuse-report-addon-authored-by = طوّرها <a data-l10n-name="author-name">{ $author-name }</a>
+
 abuse-report-learnmore =
     لا تعرف ما تختار؟
     <a data-l10n-name="learnmore-link">اطّلع على المزيد حول الإبلاغ عن الامتدادات والسمات</a>
+
 abuse-report-submit-description = صِف المشكلة (لو أردت)
 abuse-report-textarea =
     .placeholder = سيسهل علينا فهم المشكلة لو عرفنا تفاصيلها، فمن فضلك صِف المشكلة التي تُواجهها، ونشكرك على مساعدتنا في الحفاظ على صحّة الوِب.
@@ -59,14 +63,22 @@ abuse-report-messagebar-action-cancel = ألغِ
 ## Abuse report reasons (optionally paired with related examples and/or suggestions)
 
 abuse-report-damage-reason = يُتلف حاسوبي وبياناتي
+
 abuse-report-damage-reason-v2 = أتلفَ حاسوبي أو كشف عن بياناتي
+
 abuse-report-settings-reason = غيّر محرّك البحث أو الصفحة الرئيسة أو صفحة اللسان الجديد دون إعلامي أو طلب ذلك
+
 abuse-report-settings-reason-v2 = غيّر محرّك البحث أو الصفحة الرئيسة أو صفحة اللسان الجديد دون إعلامي أو طلب ذلك
 abuse-report-settings-suggestions = قبل الإبلاغ عن الامتداد، جرّب تعديل إعداداتك:
 abuse-report-settings-suggestions-search = غيّر إعدادات البحث المبدئية
 abuse-report-settings-suggestions-homepage = غيّر الصفحة الرئيسة وصفحة اللسان الجديد
+
 abuse-report-broken-reason-extension = لا يعمل أو يُعطب المواقع أو يُبطئ { -brand-product-name }
+
 abuse-report-unwanted-reason = لم أرد هذا الامتداد أساسًا ولا طريقة أحذفه من المتصفح
+
 abuse-report-unwanted-reason-v2 = لم أرده من الأساس ولا أعلم كيف أحذفه
 abuse-report-unwanted-example = أمثلة: أحد التطبيقات ثبّته دون طلب ذلك مني
+
 abuse-report-other-reason = شيء آخر
+

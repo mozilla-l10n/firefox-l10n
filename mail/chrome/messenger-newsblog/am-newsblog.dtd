@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "التمس المقالات الجديدة عند البدء">
-<!ENTITY loginAtStartup.accesskey      "ء">
 <!ENTITY biffAll.label                 "فعّل التحديثات لكل التلقيمات">
 <!ENTITY biffAll.accesskey             "ف">
 

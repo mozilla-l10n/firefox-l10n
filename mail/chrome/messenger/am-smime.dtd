@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "مشترطة (لا يمكن إرسال الرسائل ما لم يمتلك كل المستلمون شهادات)">
 <!ENTITY alwaysEncryptMessage.accesskey "ش">
 <!ENTITY encryptionCert.message "استخدم هذه الشهادة لتعمية و استخراج الرسائل المرسلة إليك:">
+
 <!ENTITY digitalSign.certificate.button "اختر…">
 <!ENTITY digitalSign.certificate.accesskey "خ">
 <!ENTITY digitalSign.certificate_clear.button "امسح">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "اختر شهادة">
 <!ENTITY certPicker.info  "الشهادة:">
 <!ENTITY certPicker.detailsLabel "تفاصيل الشّهادة المختارة:">
+

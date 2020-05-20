@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "يُطلب منك الوثوق بسلطة شهادات جديدة.">
 <!ENTITY downloadCert.trustSSL "ثِق في سلطة الشّهادات هذه لتعريف مواقع وِب.">
 <!ENTITY downloadCert.trustEmail "ثِق في سلطة الشّهادات هذه لتعريف مستخدمي البريد الإلكتروني.">
-<!ENTITY downloadCert.trustObjSign "ثِق في سلطة الشّهادات هذه لتعريف مطوري البرامج.">
 <!ENTITY downloadCert.message3 "قبل الوثوق بسلطة الشّهادات هذه لأي سبب، عليك فحص شهادتها و سياستها و إجراءاتها (في حال توفّرها).">
 <!ENTITY downloadCert.viewCert.label "اعرض">
 <!ENTITY downloadCert.viewCert.text "افحص شهادة سلطة الشّهادات">

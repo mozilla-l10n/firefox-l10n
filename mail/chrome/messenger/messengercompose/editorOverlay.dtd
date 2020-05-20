@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 <!-- File menu items -->
 
@@ -81,6 +82,8 @@
 <!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
 <!ENTITY incrementFontSize.key2 "د"> 
+
+<!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "الحجم">
 <!ENTITY fontSizeMenu.accesskey "ج">
@@ -308,7 +311,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "أدرج مربطا مسمًى جديدا أو حرر خصائص المربط المختار">
 <!ENTITY TextColorButton.tooltip "اختر لون النص">
 <!ENTITY BackgroundColorButton.tooltip "اختر لون الخلفية">
-<!ENTITY throbber.tooltip "اذهب إلي صفحة &vendorShortName; الرئيسية">
 <!ENTITY HighlightColorButton.tooltip "اختر لون إبراز النص">
 <!-- Editor toolbar -->
 

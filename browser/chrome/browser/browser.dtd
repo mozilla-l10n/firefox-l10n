@@ -130,6 +130,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
  <!-- } is above this key on many keyboards -->
 
+
 <!ENTITY fullScreenMinimize.tooltip "صغّر">
 <!ENTITY fullScreenRestore.tooltip "استعِد">
 <!ENTITY fullScreenClose.tooltip "أغلق">
@@ -246,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "اذهب للعنوان في شريط الموقع">
+
 <!ENTITY printButton.label            "اطبع">
 <!ENTITY printButton.tooltip          "اطبع هذه الصفحة">
 
@@ -293,6 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
+
 
 <!ENTITY searchItem.title             "ابحث">
 
@@ -357,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "ح">
 <!ENTITY manageUserContext.label          "أدِر الحاويات">
 <!ENTITY manageUserContext.accesskey      "ح">
+
 <!ENTITY newNavigatorCmd.label        "نافذة جديدة">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ج">
@@ -637,6 +641,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "احفظ في Pocket">
+
 <!ENTITY saveToPocketCmd.label        "احفظ الصفحة في Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "ح">
 <!ENTITY saveLinkToPocketCmd.label    "احفظ الرابط في Pocket">
@@ -847,18 +852,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "اتصال آمن">
 <!ENTITY identity.connectionNotSecure "الاتصال غير آمن">
 
-<!ENTITY identity.connectionSecure3 "الاتصال آمن">
-<!ENTITY identity.connectionNotSecure2 "الاتصال غير آمن">
-<!ENTITY identity.connectionNotSecureSecurityView "لست متصلا مع هذا الموقع بأمان.">
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
 <!ENTITY identity.connectionVerified2 "تتصل بأمان مع هذا الموقع، و الذي يملكه:">
-<!ENTITY identity.connectionVerified3 "أنت متصل مع هذا الموقع بأمان.">
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
 <!ENTITY identity.extensionPage "حمِّلت هذه الصفحة من امتداد.">
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 <!ENTITY identity.customRoot "تثبّت من هذا الاتصال مُصْدِر شهادات لا تعرفه Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "أُصدرت الشّهادة إلى:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "حجب &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
@@ -894,7 +893,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "التّصاريح">
 
-<!ENTITY identity.permissions3 "التصاريح">
 <!ENTITY identity.permissionsEmpty "لم تمنح هذا الموقع أي صلاحيات خاصة.">
 <!ENTITY identity.permissionsReloadHint "قد تحتاج إعادة تحميل الصفحة لتطبيق التغييرات.">
 <!ENTITY identity.permissionsPreferences.tooltip "افتح تفضيلات التصاريح">
@@ -1040,6 +1038,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "32em">
+
 
 <!ENTITY uiTour.infoPanel.close "أغلق">
 

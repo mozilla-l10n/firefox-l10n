@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "أضِف خدمة تخزين ملفات على الإنترنت جديدة">
 <!ENTITY removeCloudFileAccount.label     "أزِل">
 <!ENTITY removeCloudFileAccount.accesskey "ل">
-<!ENTITY authRequired.description         "التخويل مطلوب للاطلاع على إعدادات خدمة التخزين هذه.">
-<!ENTITY authRequired.button.label        "خوِّل">
-<!ENTITY authRequired.button.accesskey    "خ">
 
 <!ENTITY enableCloudFileAccountOffer.label "اقترح مشاركة الملفات الأكبر من">
 <!ENTITY enableCloudFileAccountOffer.mb "م.ب">

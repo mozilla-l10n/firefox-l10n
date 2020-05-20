@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "م">
 <!ENTITY makeUrlRelative.tooltip "بدّل بين المسار النسبي والمطلق. يجب حفظ الصفحة أولا لتغيير هذا.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "أدخل موضع صفحة وِب أو ملف محلي أو اختر مربط مسمّى أو رأس من القائمة المنبثقة:">
-<!ENTITY LinkURLEditField.accessKey "م">
 <!ENTITY LinkURLEditField2.label "أدخل موضع صفحة وِب أو ملف محلي أو اختر مربط مسمّى أو رأس من قائمة الحقل السياقية:">
 <!ENTITY LinkURLEditField2.accessKey "ض">

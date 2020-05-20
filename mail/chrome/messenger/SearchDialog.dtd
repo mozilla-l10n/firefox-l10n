@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "بحث متقدّم في دفتر العناوين">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "نقاش">
-<!ENTITY fromColumn.label "من">
-<!ENTITY recipientColumn.label "المُستلِم">
-<!ENTITY correspondentColumn.label "المراسلين">
-<!ENTITY subjectColumn.label "الموضوع">
-<!ENTITY dateColumn.label "التاريخ">
-<!ENTITY priorityColumn.label "الأولويّة">
-<!ENTITY tagsColumn.label "الوسوم">
-<!ENTITY accountColumn.label "الحساب">
-<!ENTITY statusColumn.label "الحالة">
-<!ENTITY sizeColumn.label "الحجم">
-<!ENTITY junkStatusColumn.label "حالة السخام">
-<!ENTITY unreadColumn.label "غير مقروء">
-<!ENTITY totalColumn.label "المجموع">
-<!ENTITY readColumn.label "مقروء">
-<!ENTITY receivedColumn.label "مستَلَم">
-<!ENTITY starredColumn.label "عليه نجمة">
-<!ENTITY locationColumn.label "الموقع">
-<!ENTITY idColumn.label "ترتيب الوصول">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "اختر الأعمدة التي ستعرض">
-<!ENTITY threadColumn2.tooltip "اعرض سلاسل الرسائل">
-<!ENTITY fromColumn2.tooltip "رتّب حسب المُرسِل">
-<!ENTITY recipientColumn2.tooltip "رتّب حسب المستلم">
-<!ENTITY correspondentColumn2.tooltip "رتب حسب المراسلين">
-<!ENTITY subjectColumn2.tooltip "رتّب حسب الموضوع">
-<!ENTITY dateColumn2.tooltip "رتّب حسب التاريخ">
-<!ENTITY priorityColumn2.tooltip "رتّب حسب الأولوية">
-<!ENTITY tagsColumn2.tooltip "رتّب حسب الوسوم">
-<!ENTITY accountColumn2.tooltip "رتّب حسب الحساب">
-<!ENTITY statusColumn2.tooltip "رتّب حسب الحالة">
-<!ENTITY sizeColumn2.tooltip "رتّب حسب الحجم">
-<!ENTITY junkStatusColumn2.tooltip "رتّب حسب حالة السخام">
-<!ENTITY unreadColumn2.tooltip "رقم الرسائل غير المقروءة في النقاش">
-<!ENTITY totalColumn2.tooltip "العدد الكلِّي للرسائل في النقاش">
-<!ENTITY readColumn2.tooltip "رتّب حسب القراءة">
-<!ENTITY receivedColumn2.tooltip "رتّب حسب تاريخ الاستلام">
-<!ENTITY starredColumn2.tooltip "رتّب حسب النجمة">
-<!ENTITY locationColumn2.tooltip "رتّب حسب المكان">
-<!ENTITY idColumn2.tooltip "رتّب حسب ترتيب الاستلام">

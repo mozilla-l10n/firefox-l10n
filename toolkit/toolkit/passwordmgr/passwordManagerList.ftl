@@ -54,6 +54,7 @@ import =
 close-button =
     .label = أغلق
     .accesskey = غ
+
 show-passwords =
     .label = أظهر كلمات السر
     .accesskey = ظ

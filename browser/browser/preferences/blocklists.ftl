@@ -5,18 +5,22 @@
 blocklist-window =
     .title = قوائم الحجب
     .style = width: 55em
-blocklist-desc = يمكنك اختيار أيّة قائمة سيستخدمها { -brand-short-name } لحجب عناصر الوِب التي قد تتعقّب نشاط التصفح.
+
 blocklist-description = اختر القائمة التي على { -brand-short-name } استخدامها لحجب المتعقّبات على الشبكة. تُقدّم <a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a> هذه القوائم.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = قائمة
+
 blocklist-button-cancel =
     .label = ألغِ
     .accesskey = ل
+
 blocklist-button-ok =
     .label = احفظ التغييرات
     .accesskey = ح
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -25,10 +29,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = ‏{ $listName } ‏{ $description }
-blocklist-item-moz-std-name = حماية Disconnect.me الأساسية (يُنصح به).
-blocklist-item-moz-std-desc = اسمح ببعض المتعقّبات لتعمل المواقع كما ينبغي.
-blocklist-item-moz-full-name = حماية Disconnect.me الصارمة.
-blocklist-item-moz-full-desc = يحجب المتعقّبات المعروفة. قد لا تعمل بعض مواقع الوِب كما ينبغي.
+
 blocklist-item-moz-std-listName = المستوی الأول من قائمة الحجب (مستحسن).
 blocklist-item-moz-std-description = يترك بعض المتعقّبات على حالها لألا تعطب الكثير من المواقع.
 blocklist-item-moz-full-listName = المستوى الثاني من قائمة الحجب.

@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = ح
 appmenu-addon-private-browsing-message = لن تعمل أية امتدادات تضيفها إلى { -brand-shorter-name } في النوافذ الخاصة ما لم تسمح لها هنا في هذا القسم.
 appmenu-addon-private-browsing-learn-more = اطّلع على طريقة إدارة إعدادات الامتدادات.
+    
 appmenu-new-tab-controlled =
     .label = لقد تغيرت صفحة اللسان الجديد.
     .buttonlabel = أبقِ التغييرات

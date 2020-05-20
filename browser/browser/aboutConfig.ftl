@@ -7,7 +7,9 @@ about-config-warning-title = أمامك أهوال لست تعرف ما ستكو
 about-config-warning-text = تغيير القيم المبدئية لهذه الإعدادات المتقدمة قد يضر بثبات وأمان وأداء التطبيق. عليك المواصلة في حال كنت واثقا مما تفعل.
 about-config-warning-checkbox = أزعِجني بهذا المرة القادمة!
 about-config-warning-button = أقبل المخاطرة
+
 about-config2-title = الإعدادات المتقدمة
+
 about-config-search-input =
     .placeholder = ابحث
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = أقبلُ المخاطرة فتابِع
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = يمكن أن يؤثّر التغيير على هذه التفضيلات أداء { -brand-short-name } وأمنه.
+
 about-config-page-title = التفضيلات المتقدمة
+
 about-config-search-input1 =
     .placeholder = ابحث عن اسم التفضيل
 about-config-show-all = أظهر الكل
+
 about-config-pref-add = أضِف
 about-config-pref-toggle = بدّل
 about-config-pref-edit = حرّر
 about-config-pref-save = احفظ
 about-config-pref-reset = صفّر
 about-config-pref-delete = احذف
+
 about-config-pref-add-button =
     .title = أضِف
 about-config-pref-toggle-button =

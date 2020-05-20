@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "التحرير و العنْوَنة">
 <!ENTITY addressingGroupTitle.label "العنْوَنة">
 <!ENTITY addressingText.label      "عند البحث عن عناوين:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "التحرير">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "اكتب الرسائل بتنسيق HTML">
 <!ENTITY useHtml.accesskey                    "ك">
 <!ENTITY autoQuote.label                      "اقتبِس الرّسالة الأصليّة تلقائيًّا عند الرّد">
 <!ENTITY autoQuote.accesskey                  "س">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "ثمّ،">
-<!ENTITY then.accesskey                       "ث">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "عند الاقتباس،">
 <!ENTITY quoting.accesskey                    "ق">

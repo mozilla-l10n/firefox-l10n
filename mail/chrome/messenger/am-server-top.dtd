@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "ح">
 <!ENTITY downloadOnBiff.label "نزِّل الرسائل الجديدة آليًّا">
 <!ENTITY downloadOnBiff.accesskey "ل">
-<!ENTITY username.label "اسم الولوج">
 <!ENTITY deleteMessagePrefix.label "عندما أحذِف رسالة:">
 <!ENTITY modelMoveToTrash.label "انقلها إلى مجلد المهملات:">
 <!ENTITY modelMoveToTrash.accesskey "ا">

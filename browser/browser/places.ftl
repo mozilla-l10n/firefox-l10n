@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = افتح في نافذة خاصة جديدة
     .accesskey = خ
+
 places-new-bookmark =
     .label = علامة جديدة…
     .accesskey = ع
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = فاصل جديد
     .accesskey = ف
+
 places-view =
     .label = اعرض
     .accesskey = ع
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = حسب التاريخ والموقع
     .accesskey = ق
+
 places-history-search =
     .placeholder = تأريخ البحث
 places-bookmarks-search =
     .placeholder = علامات البحث
+
 places-delete-domain-data =
     .label = انسَ هذا الموقع
     .accesskey = ن

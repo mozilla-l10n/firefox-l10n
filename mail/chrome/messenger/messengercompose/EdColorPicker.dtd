@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "لون">
 <!ENTITY lastPickedColor.label "آخر لون مختار">
 <!ENTITY lastPickedColor.accessKey "خ">
-<!ENTITY setColor1.label "انقر على لون أو">
-<!ENTITY setColor2.label "أدخل عبارة لون HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "اختر لونًا:">
 <!ENTITY setColorExample.label "(مثلا: ‪&quot;#0000ff&quot;‬ أو &quot;blue&quot;):">
 <!ENTITY default.label "المبدئي">

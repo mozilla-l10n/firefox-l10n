@@ -29,6 +29,7 @@ url-classifier-debug-sb-modules = وحدات سجل التصفح الآمن
 url-classifier-debug-modules = وحدات السجل الحالية
 url-classifier-debug-sbjs-modules = سجل جافاسكربت التصفح الآمن
 url-classifier-debug-file = ملف السجل الحالي
+
 url-classifier-trigger-update = ابدأ التحديث
 url-classifier-not-available = غير متاح
 url-classifier-disable-sbjs-log = عطّل سجل جافاسكربت التصفح الآمن
