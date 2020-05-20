@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; ৰ বিষয়ে">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; পৰীক্ষামূলক আৰু অস্থিৰ হব পাৰে।">
-<!ENTITY aboutPage.telemetryStart               " ই পৰিৱেশন, হাৰ্ডৱেৰ, ব্যৱহাৰ আৰু স্বনিৰ্বাচনসমূহৰ বিষয়ে তথ্য স্বচালিতভাৱে চিহ্তি স্থানলৈ পঠায় ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " &brandShortName; ক উন্নত কৰাত সহায় কৰিবলৈ।">
 <!ENTITY aboutPage.checkForUpdates.link         "আপডেইটসমূহৰ বাবে নিৰীক্ষণ কৰক »">
 <!ENTITY aboutPage.checkForUpdates.checking     "আপডেইটসমূহ সন্ধান কৰা হৈছে...">
 <!ENTITY aboutPage.checkForUpdates.none         "কোনো আপডেইট উপলব্ধ নাই">

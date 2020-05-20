@@ -36,9 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "চলনসময় তথ্য">
 
-<!ENTITY runtimeMenu_showMonitor_label "মনিটৰ">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
 
 
 
@@ -53,7 +50,9 @@
 
 
 <!ENTITY projectButton_label "এপ খোলক">
+
 <!ENTITY runtimeButton_label "চলনসময় বাছক">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -74,10 +73,7 @@
 
 <!ENTITY runtimePanel_usb "USB ডিভাইচসমূহ">
 <!ENTITY runtimePanel_wifi "Wi-Fi ডিভাইচসমূহ">
-<!ENTITY runtimePanel_simulator "চিমুলেটৰসমূহ">
 <!ENTITY runtimePanel_other "অন্য">
-<!ENTITY runtimePanel_installsimulator "চিমুলেটৰ ইনস্টল কৰক">
-<!ENTITY runtimePanel_noadbhelper "ADB সহায়ক ইনস্টল কৰক">
 <!ENTITY runtimePanel_nousbdevice "আপোনাৰ ডিভাইচ দেখি পোৱা নাই?">
 
 <!-- Lense -->
@@ -95,6 +91,8 @@
 <!ENTITY newAppHeader "টেমপ্লেইট বাছক">
 <!ENTITY newAppLoadingTemplate "টেমপ্লেইটসমূহ ল'ড কৰা হৈছে…">
 <!ENTITY newAppProjectName "প্ৰকল্পৰ নাম:">
+
+
 <!-- Decks -->
 
 
@@ -120,12 +118,7 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "চলনসময় তথ্য">
-<!ENTITY runtimedetails_adbIsRoot "ADB ৰুট হয়: ">
-<!ENTITY runtimedetails_summonADBRoot "ৰুট ডিভাইচ">
-<!ENTITY runtimedetails_ADBRootWarning "(আনলক্ড বুটল'ডাৰৰ প্ৰয়োজন)">
 
-<!ENTITY runtimedetails_requestPrivileges "উচ্চ সূবিধাসমূহ অনুৰোধ কৰক">
-<!ENTITY runtimedetails_privilegesWarning "(ডিবাইচক পুনাৰম্ভ কৰিব। ৰুট অভিগমৰ প্ৰয়োজন।)">
 <!-- Device Preferences and Settings -->
 
 
@@ -143,8 +136,6 @@
 
 <!-- Monitor -->
 
-<!ENTITY monitor_title "মনিটৰ">
-<!ENTITY monitor_help "সহায়">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -160,14 +151,6 @@
 
 <!-- Logs panel -->
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "সংস্কৰণ">
-
-
-<!ENTITY simulator_device "ডিভাইচ">
 
 
 

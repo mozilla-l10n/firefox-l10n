@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "সকলো বাছক">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "সন্ধান কৰক">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

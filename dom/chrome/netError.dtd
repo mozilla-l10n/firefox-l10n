@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "পৃষ্ঠা ল'ড কৰোতে ত্ৰুটি">
 <!ENTITY retry.label "পুনৰ চেষ্টা কৰক">
+
 <!-- Specific error messages -->
 
 
@@ -82,3 +83,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

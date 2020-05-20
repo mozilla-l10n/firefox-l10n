@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "চমু শীৰ্ষক"> 
 <!ENTITY message.label    "কিছুমান নমুনা লিখনি ইয়াত আহিব।">
+
 <!ENTITY editfield0.label "ব্যৱহাৰকাৰী নাম:"> 
 <!ENTITY editfield1.label "পাছৱাৰ্ড:"> 
-<!ENTITY checkbox.label   "নিৰীক্ষণ">
+<!ENTITY checkbox.label   "নিৰীক্ষণ"> 
 <!ENTITY copyCmd.label    "কপি কৰক">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "সকলো বাছক">

@@ -103,6 +103,7 @@ print-window =
     .title = প্ৰিন্ট কৰা হৈছে
 print-complete =
     .value = প্ৰিন্ট সম্পূৰ্ণ হ'ল।
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -47,3 +47,4 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = আপুনি { -brand-shorter-name }-ত যোগ কৰা কোনো এক্সটেনশ্যন ব্যক্তিগত উইণ্ড'বোৰত কাম নকৰে যেতিয়ালৈকে আপুনি ছেটিংছত তাৰ অনুমতি নিদিয়ে।
 appmenu-addon-private-browsing-learn-more = এক্সটেনশ্যন ছেটিংছ কেনেকৈ পৰিচালনা কৰে শিকক
+    

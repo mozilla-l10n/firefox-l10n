@@ -2,21 +2,31 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+## These messages are used as headings in the recommendation doorhanger
+
+##
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = মই এয়া কিয় দেখি আছোঁ
+
 cfr-doorhanger-extension-cancel-button = এতিয়া নহয়
     .accesskey = এ
+
 cfr-doorhanger-extension-ok-button = এতিয়াই যোগ কৰক
     .accesskey = য
 cfr-doorhanger-pintab-ok-button = এই টেব পিন কৰক
     .accesskey = প
+
 cfr-doorhanger-extension-never-show-recommendation = মোক এই পৰামৰ্শ নেদেখুৱাব
     .accesskey = দ
+
 cfr-doorhanger-extension-learn-more-link = অধিক জানক
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name } দ্বাৰা
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = পৰামৰ্শ
@@ -47,9 +57,41 @@ cfr-doorhanger-extension-total-users =
 ## Firefox Accounts Message
 
 
+## Protections panel
+
 ## What's New toolbar button and panel
 
 cfr-whatsnew-button =
     .label = নতুন কি আছে
     .tooltiptext = নতুন কি আছে
+
 cfr-whatsnew-panel-header = নতুন কি আছে
+
+## Search Bar
+
+## Picture-in-Picture
+
+## Permission Prompt
+
+## Fingerprinter Counter
+
+## Bookmark Sync
+
+## Login Sync
+
+## Send Tab
+
+## Firefox Send
+
+## Social Tracking Protection
+
+## Enhanced Tracking Protection Milestones
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
+

@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = টেব বন্ধ কৰা বাতিল কৰক
+
