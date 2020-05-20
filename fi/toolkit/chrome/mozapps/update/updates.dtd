@@ -54,7 +54,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ei kykene tarkistamaan, onko uudempaa versiota saatavilla.
                                            Tarkista, että käytät &brandShortName;in uusinta versiota osoitteesta:">
-
+                                           
 <!ENTITY  finishedPage.title              "Päivitys on valmis asennettavaksi">
 <!ENTITY  finishedPage.text               "Päivitys asennetaan, kun &brandShortName; käynnistetään uudelleen. Käynnistä
                                            &brandShortName; uudelleen nyt tai jatka käyttöä ja

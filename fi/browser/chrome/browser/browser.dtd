@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "S">
 <!ENTITY exitFullScreenCmd.label "Poistu kokoruututilasta">
 <!ENTITY exitFullScreenCmd.accesskey "P">
+
 <!ENTITY fullScreenCmd.label "Kokoruututila">
 <!ENTITY fullScreenCmd.accesskey "K">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Vahvista tilisi">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Pienennä ikkuna">
 <!ENTITY fullScreenRestore.tooltip "Palauta">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Tilin asetukset">
 <!ENTITY fxa.menu.manageAccount2.label "Hallitse tiliä">
 <!ENTITY fxa.menu.signOut.label "Kirjaudu ulos…">
-<!ENTITY fxa.menu.deviceSettings.label "Laiteasetukset">
 <!ENTITY fxa.menu.setupSync.label "Määritä &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "P">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Siirry osoitepalkissa olevaan osoitteeseen">
+
 <!ENTITY printButton.label            "Tulosta">
 <!ENTITY printButton.tooltip          "Tulosta sivu">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
+
 
 <!ENTITY searchItem.title             "Etsi">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "l">
 <!ENTITY manageUserContext.label          "Muokkaa eristystiloja">
 <!ENTITY manageUserContext.accesskey      "M">
+
 <!ENTITY newNavigatorCmd.label        "Uusi ikkuna">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "U">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Lisää komentoja">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Kirjoita osoite tai hakutermi">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "A">
 <!ENTITY bookmarkThisFrameCmd.label      "Lisää kehyssivu kirjanmerkkeihin">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
+
 <!ENTITY pageAction.copyLink.label    "Kopioi linkki">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Tallenna Pocket-palveluun">
+
 <!ENTITY saveToPocketCmd.label        "Tallenna sivu Pocket-palveluun">
 <!ENTITY saveToPocketCmd.accesskey    "c">
 <!ENTITY saveLinkToPocketCmd.label    "Tallenna linkki Pocket-palveluun">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Suojattu yhteys">
 <!ENTITY identity.connectionNotSecure "Yhteys ei ole suojattu">
 
-<!ENTITY identity.connectionSecure3 "Yhteys on suojattu">
-<!ENTITY identity.connectionNotSecure2 "Yhteys ei ole suojattu">
-<!ENTITY identity.connectionNotSecureSecurityView "Yhteytesi tähän sivustoon ei ole suojattu.">
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
 <!ENTITY identity.connectionVerified2 "Yhteys sivustoon on suojattu ja sivuston omistaa:">
-<!ENTITY identity.connectionVerified3 "Yhteytesi tähän sivustoon on suojattu.">
 <!ENTITY identity.connectionInternal "Tämä on suojattu &brandShortName;-sivu.">
 <!ENTITY identity.extensionPage "Tämän sivun latasi laajennus.">
 <!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 <!ENTITY identity.customRoot "Yhteys on suojattu varmenteella, jonka myöntäjää Mozilla ei tunnista.">
-
-<!ENTITY identity.evOwnerLabel2 "Varmenne myönnetty taholle:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; on estänyt suojaamattoman sisällön näyttämisen.">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Oikeudet">
 
-<!ENTITY identity.permissions3 "Käyttöoikeudet">
 <!ENTITY identity.permissionsEmpty "Sivustolle ei ole myönnetty mitään erityisoikeuksia.">
 <!ENTITY identity.permissionsReloadHint "Sivu tarvitsee ehkä päivittää, jotta muutokset tulevat voimaan.">
 <!ENTITY identity.permissionsPreferences.tooltip "Avaa oikeusasetukset">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Sulje">
 

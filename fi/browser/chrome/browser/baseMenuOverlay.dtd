@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ohje"> 
 <!ENTITY helpMenuWin.accesskey    "O">
+
 <!ENTITY aboutProduct2.label      "Tietoja: &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "T">
 <!ENTITY productHelp2.label       "&brandShorterName;in ohje">

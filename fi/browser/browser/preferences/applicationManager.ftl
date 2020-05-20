@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Ohjelman tiedot
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Poista
     .accesskey = P
-app-manager-handle-webfeeds = Seuraavilla sovelluksilla voi avata WWW-syötteitä.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Seuraavilla sovelluksilla voi avata { $type }-linkkejä.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Seuraavilla sovelluksilla voi avata { $type }-tiedostoja.

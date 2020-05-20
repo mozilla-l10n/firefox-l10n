@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Avaa uuteen yksityiseen ikkunaan
     .accesskey = y
+
 places-new-bookmark =
     .label = Uusi kirjanmerkki…
     .accesskey = U
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Uusi erotin
     .accesskey = e
+
 places-view =
     .label = Näytä
     .accesskey = N
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Päivämäärän ja sivuston mukaan
     .accesskey = j
+
 places-history-search =
     .placeholder = Etsi historiasta
 places-bookmarks-search =
     .placeholder = Etsi kirjanmerkeistä
+
 places-delete-domain-data =
     .label = Unohda tämä sivusto
     .accesskey = U

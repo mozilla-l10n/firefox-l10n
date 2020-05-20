@@ -8,6 +8,7 @@ password-quality-meter = Salasanan laadun mittari
 
 change-password-window =
     .title = Vaihda pääsalasana
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Turvallisuuslaite: { $tokenName }

@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Syntymäpäivä:">
 <!ENTITY Birthday.accesskey             "y">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Kuukausi">
 <!ENTITY Day.placeholder                "Päivä">
 <!ENTITY Year.placeholder               "Vuosi">
-<!ENTITY Or.value                       "tai">
 <!ENTITY Age.label                      "Ikä:">
 <!ENTITY Age.placeholder                "Ikä">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Työ">
 <!ENTITY Work.accesskey                 "T">

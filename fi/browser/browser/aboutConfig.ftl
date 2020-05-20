@@ -7,7 +7,9 @@ about-config-warning-title = Varo vaaraa!
 about-config-warning-text = Tällä sivulla olevien asetusten muuttamisella voi olla vahingollisia vaikutuksia tämän ohjelman turvallisuuteen, vakauteen ja suorituskykyyn. Älä koske näihin asetuksiin ellet tiedä tarkalleen, mitä olet tekemässä.
 about-config-warning-checkbox = Häiritse myös ensi kerralla
 about-config-warning-button = Otan riskin
+
 about-config2-title = Lisäasetukset
+
 about-config-search-input =
     .placeholder = Haku
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Hyväksy riski ja jatka
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Näiden asetusten muuttaminen voi vaikuttaa { -brand-short-name }in suorituskykyyn tai turvallisuuteen.
+
 about-config-page-title = Lisäasetukset
+
 about-config-search-input1 =
     .placeholder = Etsi asetuksen nimellä
 about-config-show-all = Näytä kaikki
+
 about-config-pref-add = Lisää
 about-config-pref-toggle = Vaihda tilaa
 about-config-pref-edit = Muokkaa
 about-config-pref-save = Tallenna
 about-config-pref-reset = Nollaa
 about-config-pref-delete = Poista
+
 about-config-pref-add-button =
     .title = Lisää
 about-config-pref-toggle-button =

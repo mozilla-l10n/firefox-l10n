@@ -4,6 +4,10 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label  "Nouda ja synkronoi viestit">
 <!ENTITY MsgSelect.label  "Yhteydettömässä tilassa käytettävät kohteet">
 <!ENTITY MsgSyncDesc.label  "Jos olet jo valinnut yhteydettömässä tilassa käytettävät kansiot ja ryhmät, voit synkronoida paikalliset kopiosi niistä nyt. Muussa tapauksessa valitse yhteystilassa käytettävät ryhmät ja kansiot napsauttamalla Valitse.">

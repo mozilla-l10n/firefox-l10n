@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Tuo kirjautumistietosi ohjelmasta { $browser }</div>¶
     <div data-l10n-name="line2"> sivustoa { $host } ja muita sivustoja varten</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Lue lisää

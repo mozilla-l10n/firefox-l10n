@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Sulje
     .accesskey = S
+
 show-passwords =
     .label = Näytä salasanat
     .accesskey = N

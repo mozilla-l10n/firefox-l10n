@@ -13,6 +13,7 @@ enable-common-message = Firefoxin web-työkalut ovat oletusarvoisesti poissa kä
 enable-learn-more-link = Lue lisää web-työkaluista englanniksi
 enable-enable-button = Ota englanninkieliset web-työkalut käyttöön
 enable-close-button = Sulje tämä välilehti
+
 welcome-title = Tervetuloa käyttämään Firefoxin web-työkaluja!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Saa kehittäjille suunnattuja uutisia, vinkkejä ja resursseja sähköpostiisi englanniksi.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Minulle sopii, että Mozilla käsittelee tietojani <a
 newsletter-subscribe-button = Tilaa
 newsletter-thanks-title = Kiitos!
 newsletter-thanks-message = Voit joutua vahvistamaan tilauksen, jos et ole aiemmin vahvistanut Mozillaan liittyvän uutiskirjeen tilausta. Tarkista sähköpostisi ja roskapostisuodattimesi viestimme varalta.
+
 footer-title = Firefox Developer Edition
 footer-message = Haluatko enemmän kuin web-työkalut? Kokeile Firefox-selainta, joka on tehty varta vasten kehittäjiä ja nykyaikaisia työtapoja varten.
 footer-learn-more-link = Lue lisää
+
 features-learn-more = Lue lisää englanniksi
 features-inspector-title = Inspector
 features-inspector-desc = Tarkastele ja hio koodia tehdäksesi kuvapisteentarkan designin. <a data-l10n-name="learn-more">{ features-learn-more }</a>

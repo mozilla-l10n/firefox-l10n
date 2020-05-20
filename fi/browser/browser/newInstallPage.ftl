@@ -9,15 +9,20 @@
 
 title = Tärkeitä uutisia
 heading = Muutoksia { -brand-short-name }-profiiliisi
+
 changed-title = Mikä on muuttunut?
 changed-desc-profiles = Tällä { -brand-short-name }-asennuksella on uusi profiili. Profiili on joukko tiedostoja, johon Firefox tallentaa muun muassa kirjanmerkit, salasanat ja käyttäjän asetukset.
 changed-desc-dedicated = Jotta Firefox-asennusten (mukaan lukien Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition ja Firefox Nightly) välillä vaihtaminen olisi helpompaa ja turvallisempaa, tällä asennuksella on nyt erillisprofiili. Se ei jaa tallennettuja tietoja automaattisesti muiden Firefox-asennusten kanssa.
+
 lost = <b>Et ole menettänyt henkilökohtaisia tietoja tai mukautuksia.</b> Jos olet jo tallentanut tietoja Firefoxiin tällä tietokoneella, tietosi ovat edelleen saavutettavissa toisesta Firefox-asennuksesta.
+
 options-title = Mitä voin tehdä?
 options-do-nothing = Jos et tee mitään, { -brand-short-name }-profiilisi tiedot eroavat muiden Firefox-asennusten profiilitiedoista.
 options-use-sync = Jos haluat, että profiilitietosi ovat samat kaikissa Firefox-asennuksissa, voit käyttää { -fxaccount-brand-name(case: "partitive") } pitääksesi ne synkronoituna.
+
 resources = Resurssit:
 support-link = Profiilien hallinnan käyttäminen -tukiartikkeli
+
 sync-header = Kirjaudu sisään tai luo { -fxaccount-brand-name }
 sync-label = Anna sähköpostiosoitteesi
 sync-input =

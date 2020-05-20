@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Kirjasin:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Koko:">
-<!ENTITY size.accesskey                       "o">
 <!ENTITY fontSize.label                       "Koko:">
 <!ENTITY fontSize.accesskey                   "K">
 <!ENTITY useReaderDefaults.label              "Käytä lukijan oletusvärejä">

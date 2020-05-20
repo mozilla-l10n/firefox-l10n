@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label  "Merkitse viestit luetuksi päiväyksen perusteella">
 <!ENTITY markByDateLower.label  "Merkitse viestit luetuiksi päivästä:">
 <!ENTITY markByDateLower.accesskey  "p">
-<!ENTITY markByDateUpper.accesskey  "p">
 <!ENTITY markByDateUpper.label  "päivään:">
+<!ENTITY markByDateUpper.accesskey  "p">

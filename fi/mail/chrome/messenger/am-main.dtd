@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Tilien asetukset">
 <!ENTITY accountName.label "Tilin nimi:">
 <!ENTITY accountName.accesskey "T">

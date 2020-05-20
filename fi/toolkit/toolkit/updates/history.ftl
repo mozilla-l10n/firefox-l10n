@@ -4,27 +4,24 @@
 
 history-title = Päivityshistoria
 history-intro = Seuraavat päivitykset on asennettu
+
 close-button-label =
     .buttonlabelcancel = Sulje
     .title = Päivityshistoria
+
 no-updates-label = Ei asennettuja päivityksiä
 name-header = Päivityksen nimi
 date-header = Asennuspäivä
 type-header = Tyyppi
 state-header = Tila
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Lisätietoja
 update-installed-on = Asennusaika: { $date }
 update-status = Tila: { $status }
