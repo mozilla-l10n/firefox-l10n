@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "Ny avskiljare">
 <!ENTITY cmd.new_separator.accesskey       "v">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Uppdatera aktivt bokmärke">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "U">
-
 <!ENTITY col.name.label          "Namn">
 <!ENTITY col.tags.label          "Etiketter">
 <!ENTITY col.url.label           "Adress">

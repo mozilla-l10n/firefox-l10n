@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Lägg till en ny Filelink lagringstjänst">
 <!ENTITY removeCloudFileAccount.label     "Ta bort">
 <!ENTITY removeCloudFileAccount.accesskey "T">
-<!ENTITY authRequired.description         "Ditt tillstånd krävs för att se inställningarna för lagringstjänsten.">
-<!ENTITY authRequired.button.label        "Godkänna">
-<!ENTITY authRequired.button.accesskey    "G">
 
 <!ENTITY findCloudFileProviders.label     "Hitta fler leverantörer…">
 

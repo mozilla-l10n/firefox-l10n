@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Teckensnitt:">
 <!ENTITY font.accesskey                       "T">
-<!ENTITY size.label                           "Storlek:">
-<!ENTITY size.accesskey                       "S">
 <!ENTITY fontSize.label                       "Storlek:">
 <!ENTITY fontSize.accesskey                   "S">
 <!ENTITY useReaderDefaults.label              "Använd läsarens standardfärger">

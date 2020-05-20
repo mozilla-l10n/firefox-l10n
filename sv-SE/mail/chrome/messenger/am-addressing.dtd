@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Skriva &amp; adressera">
 <!ENTITY addressingGroupTitle.label "Adressera">
 <!ENTITY addressingText.label      "För att söka efter adresser:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Skriva">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Skriv meddelanden i HTML-format">
 <!ENTITY useHtml.accesskey                    "S">
 <!ENTITY autoQuote.label                      "Citera automatiskt originalmeddelandet när du svarar">
 <!ENTITY autoQuote.accesskey                  "C">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Börja med ">
-<!ENTITY then.accesskey                       "B">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "När du citerar,">
 <!ENTITY quoting.accesskey                    "c">

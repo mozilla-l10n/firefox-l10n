@@ -54,6 +54,7 @@ close-tab =
     .title = Stäng flik
 show-addon =
     .title = Visa i tilläggshanteraren
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

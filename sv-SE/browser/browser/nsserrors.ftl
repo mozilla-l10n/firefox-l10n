@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ett fel uppstod under anslutning till { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Felkod: { $error }
+
 psmerr-ssl-disabled = Kan inte ansluta på ett säkert sätt eftersom SSL-protokollet har inaktiverats.
 psmerr-ssl2-disabled = Kan inte ansluta på ett säkert sätt eftersom webbplatsen använder en gammal och osäker version av SSL-protokollet.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Du har mottagit ett ogiltigt certifikat. Kontakta serveradministratören eller e-postkorrespondenten och ge dem följande information:
     
     Ditt certifikat innehåller samma serienummer som ett annat certifikat utfärdat av certifikatutfärdaren.  Skaffa ett nytt certifikat med ett unikt serienummer.
+
 ssl-error-export-only-server = Kan inte kommunicera säkert. Den andra parten stöder inte höggradig kryptering.
 ssl-error-us-only-server = Kan inte kommunicera säkert. Den andra parten kräver en höggradig kryptering som inte stöds.
 ssl-error-no-cypher-overlap = Kan inte kommunicera säkert med den andra parten: ingen gemensam krypteringsalgoritm.

@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey              "b">
 <!ENTITY retentionKeepRecent.label               "Ta bort alla utom de senaste">
 <!ENTITY retentionKeepRecent.accesskey           "a">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label         "Ta alltid bort lästa meddelanden (åsidosätter åldersinställningar)">
 <!ENTITY retentionApplyToFlagged.label           "Behåll alltid märkta meddelanden">
 <!ENTITY retentionApplyToFlagged.accesskey       "e">
 

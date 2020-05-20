@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Hitta nästa förekomst av frasen
 findbar-previous =
     .tooltiptext = Hitta föregående förekomst av frasen
+
 findbar-find-button-close =
     .tooltiptext = Stäng sökfältet
+
 findbar-highlight-all2 =
     .label = Markera alla
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Markera alla förekomster av frasen
+
 findbar-case-sensitive =
     .label = Matcha VERSALER/gemener
     .accesskey = c
     .tooltiptext = Sök skiftlägeskänsligt
+
 findbar-match-diacritics =
     .label = Matcha diakritiker
     .accesskey = d
     .tooltiptext = Skillnaden mellan accentbokstäver och deras basbokstäver (till exempel när du söker efter "återuppta", kommer inte "åtéruppta" att matchas)
+
 findbar-entire-word =
     .label = Hela ord
     .accesskey = H

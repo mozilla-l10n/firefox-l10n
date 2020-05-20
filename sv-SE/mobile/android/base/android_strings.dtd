@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; platstjänsten körs">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Automatiska uppdateringar">
-<!ENTITY pref_update_autodownload_wifi "Endast via Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Aldrig">
-<!ENTITY pref_update_autodownload_always "Alltid">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Hjälp">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bokmärken och historik">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Uppdatering finns för &brandShortName;">
-<!ENTITY updater_start_select2 "Tryck för att ladda ner">
-
-<!ENTITY updater_downloading_title2 "Hämtar &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Hämtningen misslyckades">
-<!ENTITY updater_downloading_select2 "Tryck för att uppdatera när hämtningen är klar">
-<!ENTITY updater_downloading_retry2 "Tryck för att försöka igen">
-
-<!ENTITY updater_apply_title3 "Uppdatering hämtad för &brandShortName;">
-<!ENTITY updater_apply_select3 "Tryck här för att installera">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "För att ladda ner filer och uppdateringar, tillåt &brandShortName; att använda lagring.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Tillåt">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gästsession">
 <!ENTITY exit_guest_session "Stäng gästsession">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Ljud och video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; tips och tricks">
-<!ENTITY updater_notification_channel "Appuppdateringar">
 <!ENTITY synced_tabs_notification_channel "Synkade flikar">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

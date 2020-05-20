@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Teckensnitt
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Teckensnitt för
     .accesskey = T
+
 fonts-langgroup-arabic =
     .label = Arabiska
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proportionell
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Storlek
     .accesskey = t
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Fast bredd
     .accesskey = F
+
 fonts-monospace-size = Storlek
     .accesskey = o
+
 fonts-minsize = Minsta teckensnittsstorlek
     .accesskey = n
+
 fonts-minsize-none =
     .label = Ingen
+
 fonts-allow-own =
     .label = Tillåt sidor använda egna teckensnitt, i stället för dina val ovan
     .accesskey = T
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Teckenkodning för gammalt innehåll
 fonts-languages-fallback-desc = Den här teckenkodningen används för gammalt innehåll som inte har angivit någon annan kodning.
+
 fonts-languages-fallback-label = Reservteckenkodning
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Standard för aktuellt språkområde
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamesisk
 fonts-languages-fallback-name-other =
     .label = Annan (inkl. västeuropeisk)
-fonts-very-large-warning-title = Stor minsta typsnittsstorlek
-fonts-very-large-warning-message = Du har valt en väldigt stor minsta typsnittsstorlek (mer än 24 pixlar). Detta kan göra det svårt eller omöjligt att använda vissa viktiga konfigurationssidor som denna.
-fonts-very-large-warning-accept = Behåll mina ändringar allafall
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

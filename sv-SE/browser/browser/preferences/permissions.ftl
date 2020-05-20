@@ -5,50 +5,66 @@
 permissions-window =
     .title = Undantag
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Webbplatsens adress
     .accesskey = d
+
 permissions-block =
     .label = Blockera
     .accesskey = B
+
 permissions-session =
     .label = Tillåt för sessionen
     .accesskey = s
+
 permissions-allow =
     .label = Tillåt
     .accesskey = å
+
 permissions-site-name =
     .label = Webbplats
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Ta bort webbplats
     .accesskey = T
+
 permissions-remove-all =
     .label = Ta bort alla webbplatser
     .accesskey = a
+
 permissions-button-cancel =
     .label = Avbryt
     .accesskey = A
+
 permissions-button-ok =
     .label = Spara ändringar
     .accesskey = S
+
 permissions-autoplay-menu = Standard för alla webbplatser:
+
 permissions-searchbox =
     .placeholder = Sök webbplats
+
 permissions-capabilities-autoplay-allow =
     .label = Tillåt ljud och video
 permissions-capabilities-autoplay-block =
     .label = Blockera ljud
 permissions-capabilities-autoplay-blockall =
     .label = Blockera ljud och video
+
 permissions-capabilities-allow =
     .label = Tillåt
 permissions-capabilities-block =
     .label = Blockera
 permissions-capabilities-prompt =
     .label = Fråga alltid
+
 permissions-capabilities-listitem-allow =
     .value = Tillåt
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Undantag - Innehållsblockering
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Du har inaktiverat innehållsblockering på dessa webbplatser.
+
 permissions-exceptions-etp-window =
     .title = Undantag för förbättrat spårningsskydd
     .style = { permissions-window.style }

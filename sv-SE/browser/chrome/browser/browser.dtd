@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "h">
 <!ENTITY exitFullScreenCmd.label "Stäng helskärm">
 <!ENTITY exitFullScreenCmd.accesskey "h">
+
 <!ENTITY fullScreenCmd.label "Helskärm">
 <!ENTITY fullScreenCmd.accesskey "H">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Verifiera ditt konto">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimera">
 <!ENTITY fullScreenRestore.tooltip "Återställ">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Kontoinställningar">
 <!ENTITY fxa.menu.manageAccount2.label "Hantera konto">
 <!ENTITY fxa.menu.signOut.label "Logga ut…">
-<!ENTITY fxa.menu.deviceSettings.label "Enhetsinställningar">
 <!ENTITY fxa.menu.setupSync.label "Konfigurera &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Gå till adressen i adressfältet">
+
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denna sida">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Hantera användningen av DRM-programvara">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Öppna MIDI-panelen">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Du har beviljat denna webbplats ytterligare behörigheter.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blockerat din kamera för denna webbsida.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blockerat din mikrofon för denna webbsida.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blockerat denna webbsida från att få dela din skärm">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Du har blockerat installation av tillägg från denna webbplats.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Du har beviljat denna webbplats ytterligare behörigheter.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
+
 
 <!ENTITY searchItem.title             "Sök">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Hantera behållare">
 <!ENTITY manageUserContext.accesskey      "b">
+
 <!ENTITY newNavigatorCmd.label        "Nytt fönster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mer">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Sök eller ange adress">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Lägg till bokmärke för ram">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
+
 <!ENTITY pageAction.copyLink.label    "Kopiera länk">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Spara till Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Spara sida till Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Spara länk till Pocket">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Säker anslutning">
 <!ENTITY identity.connectionNotSecure "Anslutningen är inte säker">
 
-<!ENTITY identity.connectionSecure3 "Anslutningen säker">
-<!ENTITY identity.connectionNotSecure2 "Anslutningen är inte säker">
-<!ENTITY identity.connectionNotSecureSecurityView "Du är inte säkert ansluten till den här webbplatsen.">
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
 <!ENTITY identity.connectionVerified2 "Du är säkert ansluten till denna webbplats, som tillhör:">
-<!ENTITY identity.connectionVerified3 "Du är säkert ansluten till den här webbplatsen.">
 <!ENTITY identity.connectionInternal "Detta är en säker &brandShortName; sida.">
 <!ENTITY identity.extensionPage "Den här sidan laddas från ett tillägg.">
 <!ENTITY identity.insecureLoginForms2 "Inloggningar du anger på denna sida kan äventyras">
 <!ENTITY identity.customRoot "Anslutning verifierad av en certifikatutgivare som inte känns igen av Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Certifikat utfärdat till:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blockerat några osäkra komponenter på sidan.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Rättigheter">
 
-<!ENTITY identity.permissions3 "Behörigheter">
 <!ENTITY identity.permissionsEmpty "Du har inte beviljat denna webbplats några särskilda rättigheter.">
 <!ENTITY identity.permissionsReloadHint "Du kan behöva ladda om sidan för att ändringarna ska verkställas.">
 <!ENTITY identity.permissionsPreferences.tooltip "Öppna behörighetsinställningar">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Stäng">
 

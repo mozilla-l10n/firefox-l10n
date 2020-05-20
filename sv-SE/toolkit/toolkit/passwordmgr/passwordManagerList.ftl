@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Stäng
     .accesskey = ä
+
 show-passwords =
     .label = Visa lösenord
     .accesskey = V

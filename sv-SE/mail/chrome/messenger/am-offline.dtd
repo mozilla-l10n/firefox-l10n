@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "För att spara diskutrymme, hämta inte:">
 <!ENTITY doNotDownloadNntp.label "För att spara diskutrymme, hämta inte för nedkopplat läge:">
 <!ENTITY doNotDownloadImap.label "För att spara diskutrymme kan hämtning av meddelanden från servern och sparande av lokala kopior för nedkopplad användning begränsas efter ålder eller storlek.">
-<!ENTITY allFoldersOffline.label "Behåll det här kontots meddelanden på den här datorn">
-<!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY allFoldersOffline2.label "Behåll meddelanden i alla mappar för det här kontot på den här datorn.">
 <!ENTITY allFoldersOffline2.accesskey "B">
 <!ENTITY allFoldersOfflineNote.label "Obs: Om du ändrar detta påverkas alla mappar i detta konto. För att ställa in enskilda mappar, använd knappen Avancerat….">

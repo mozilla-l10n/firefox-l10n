@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Om insticksprogram
+
 installed-plugins-label = Installerade insticksprogram
 no-plugins-are-installed-label = Inga installerade insticksprogram hittades
+
 deprecation-description = Saknar du något? Vissa insticksmoduler stöds inte längre. <a data-l10n-name="deprecation-link">Läs mer.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Status:</span> Aktiverad
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Status:</span> Aktiverad ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Status:</span> Inaktiverad
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Status:</span> Inaktiverad ({ $blockListState })
+
 mime-type-label = MIME-typ
 description-label = Beskrivning
 suffixes-label = Filändelse

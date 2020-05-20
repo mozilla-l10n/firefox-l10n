@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Öppna app">
+
 <!ENTITY runtimeButton_label "Välj runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB-enheter">
 <!ENTITY runtimePanel_wifi "Wi-Fi enheter">
 <!ENTITY runtimePanel_other "Annat">
-<!ENTITY runtimePanel_noadbhelper "Installera ADB Hjälpprogram">
 <!ENTITY runtimePanel_nousbdevice "Kan inte hitta din enhet?">
 <!ENTITY runtimePanel_refreshDevices_label "Uppdatera enheter">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Runtimeinformation">
-<!ENTITY runtimedetails_adbIsRoot "ADB är root: ">
-<!ENTITY runtimedetails_summonADBRoot "rootenhet">
-<!ENTITY runtimedetails_ADBRootWarning "(kräver upplåst bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Obegränsade rättigheter till DevTools: ">
-<!ENTITY runtimedetails_requestPrivileges "begär högre rättigheter">
-<!ENTITY runtimedetails_privilegesWarning "(Kommer starta om enheten. Kräver root åtkomst.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolesk">
