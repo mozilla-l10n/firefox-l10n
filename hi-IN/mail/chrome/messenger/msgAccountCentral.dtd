@@ -12,7 +12,6 @@
 <!ENTITY accountsSectionHdr.label     "खाता"> 
 <!ENTITY subscribeImapFolders.label   "फोल्डर सदस्यता प्रबंधित करें">
 <!ENTITY settingsLink.label           "इस खाते के लिये जमावट देखें"> 
-<!ENTITY newAcctLink.label            "एक नया खाता बनायें"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "उन्नत फीचर"> 
 <!ENTITY searchMsgsLink.label         "खोज संदेश"> 
@@ -21,5 +20,3 @@
 <!ENTITY offlineLink.label            "ऑफलाइन जमावट">
 
 
-<!ENTITY rssSectionHdr.label          "RSS न्यूज &amp; ब्लॉग"> 
-<!ENTITY subscibeRSS.label            "सदस्यता प्रबंधित करें">

@@ -1,7 +1,8 @@
 <!ENTITY aboutDialog.title      "&brandShortName; के बारे में">
-<!ENTITY credits                "श्रेय">
-<!ENTITY aboutLink              "&lt;  &brandShortName; के बारे में">
-<!ENTITY aboutVersion           "संस्करण">
-<!ENTITY copyrightText          "&#169;1998-2005 योगदानकर्ता. All Rights Reserved. Mozilla Thunderbird and the 
-                                 Thunderbird logos are trademarks of the Mozilla Foundation.  All rights 
-                                 reserved.">
+
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
+
+

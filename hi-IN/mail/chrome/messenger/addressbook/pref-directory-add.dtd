@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "निर्देशिका सर्वर गुण">
 <!ENTITY directoryName.label               "नाम: ">
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "मेजबाननाम: ">
@@ -15,12 +14,9 @@
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "Bind DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "उन्नत विकल्प">
-<!ENTITY advancedOptionsButton.accesskey   "a">
 <!ENTITY General.tab                       "सामान्य">
 <!ENTITY Offline.tab                       "ऑफलाइन">
 <!ENTITY Advanced.tab                      "उन्नत">
-<!ENTITY advancedOptionsTitle.label        "उन्नत विकल्प">
 <!ENTITY portNumber.label                  "पोर्ट संख्या: ">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "खोज फिल्टर: ">
@@ -35,8 +31,7 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "परिणाम">
 <!ENTITY offlineText.label                 "आप इस निर्देशिका की स्थानीय कॉपी डाउनलोड कर सकते हैं ताकि इसका प्रयोग करें जब आप ऑफ़लाइन काम करें.">
-<!ENTITY downloadNowButton.label           "अब डाउनलोड करें">
-<!ENTITY downloadNowButton.accesskey       "D">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

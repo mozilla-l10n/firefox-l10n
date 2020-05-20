@@ -8,7 +8,6 @@
 <!ENTITY windowTitle.label "चित्र गुण">
 
 <!ENTITY pixelsPopup.value "पिक्सेल">
-<!ENTITY percentPopup.value "प्रतिशत">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "चित्र अवस्थिति:">
@@ -24,7 +23,6 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "चित्र पूर्वावलोकन">
-<!ENTITY MoreFewerButton.tooltip "संपादन करने के लिये ज्यादा या कम प्रदर्श">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -47,8 +45,6 @@
 <!ENTITY imagemapBox.label "चित्र मानचित्र">
 <!ENTITY removeImageMapButton.label "हटायें">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "संपादित करें...">
-<!ENTITY editImageMapButton.tooltip "इस चित्र के लिये क्लिक करने योग्य हॉटस्पॉट बनायें">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "पाठ को चित्र के साथ समायोजित करें">
@@ -60,7 +56,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "खाली जगह">
-<!ENTITY spacingBox.tooltip "चित्र के गिर्द स्थान के लिये संख्या टाइप करें">
 <!ENTITY leftRightEditField.label "बांयें व दायें:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "शीर्ष व तल:">
@@ -71,12 +66,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "लिंक चित्र के गिर्द किनारा दिखायें">
 <!ENTITY showImageLinkBorder.accessKey "B">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "पृष्ठ पृष्ठभूमि बनायें">
-<!ENTITY makePageBackgroundCheckbox.tooltip "अपने पृष्ठ के लिये चित्र को बतौर पृष्ठभूमि प्रयोग करें">
-<!ENTITY editImageButton.label "चित्र संपादित करें">
-<!ENTITY editImageButton.tooltip "अन्य प्रोग्राम में चित्र फाइल संपादित करें">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "प्रपत्र">

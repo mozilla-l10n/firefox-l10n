@@ -5,50 +5,66 @@
 permissions-window =
     .title = अपवाद
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = वेब साइट पता
     .accesskey = d
+
 permissions-block =
     .label = रोकें
     .accesskey = B
+
 permissions-session =
     .label = सत्र के लिए अनुमति दें
     .accesskey = S
+
 permissions-allow =
     .label = अनुमति दें
     .accesskey = A
+
 permissions-site-name =
     .label = वेबसाइट
+
 permissions-status =
     .label = स्थिति
+
 permissions-remove =
     .label = वेबसाइट हटाएँ
     .accesskey = R
+
 permissions-remove-all =
     .label = सभी वेबसाइटों को हटाएँ
     .accesskey = e
+
 permissions-button-cancel =
     .label = रद्द करें
     .accesskey = C
+
 permissions-button-ok =
     .label = परिवर्तन सहेजें
     .accesskey = S
+
 permissions-autoplay-menu = सभी वेबसाइटों के लिए डिफ़ॉल्ट:
+
 permissions-searchbox =
     .placeholder = वेबसाइट खोजें
+
 permissions-capabilities-autoplay-allow =
     .label = ऑडियो और वीडियो की अनुमति दें
 permissions-capabilities-autoplay-block =
     .label = ऑडियो ब्लॉक करें
 permissions-capabilities-autoplay-blockall =
     .label = ऑडियो और वीडियो ब्लॉक करें
+
 permissions-capabilities-allow =
     .label = अनुमति दें
 permissions-capabilities-block =
     .label = रोकें
 permissions-capabilities-prompt =
     .label = हमेशा पूछें
+
 permissions-capabilities-listitem-allow =
     .value = अनुमति दें
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = अपवाद - सामग्री अवरोधन
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = इन वेबसाइटों के लिए अंतर्वस्तु ब्लॉकिंग अक्षम कर दिया है।
+
 permissions-exceptions-etp-desc = आपने इन वेबसाइटों पर सुरक्षा बंद कर दी है।
 
 ## Exceptions - Cookies

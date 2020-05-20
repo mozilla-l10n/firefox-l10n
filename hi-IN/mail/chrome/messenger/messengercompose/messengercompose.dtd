@@ -14,8 +14,6 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "पता पुस्तिका कार्ड...">
-<!ENTITY newCard.accesskey "c">
 <!ENTITY attachMenu.label "संलग्न">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "फाइल...">
@@ -39,8 +37,6 @@
 <!ENTITY saveAsDraftCmd.accesskey "D">
 <!ENTITY saveAsTemplateCmd.label "टेंपलेट">
 <!ENTITY saveAsTemplateCmd.accesskey "T">
-<!ENTITY offlineGoOfflineCmd.label "ऑफलाइन काम">
-<!ENTITY offlineGoOfflineCmd.accesskey "w">
 <!ENTITY sendNowCmd.label "अब भेजें">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "d">
@@ -51,12 +47,7 @@
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "छापें...">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY quitApplicationCmdWin.label                    "निकास"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "छोड़ें"> 
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q"> 
+<!ENTITY printCmd.accesskey "P"> 
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "संपादन"> 
@@ -76,35 +67,28 @@
 <!ENTITY pasteCmd.label "चिपकायें">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY editRewrapCmd.label "फिर रैप करें">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "मिटायें">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "फिर रैप करें">
 <!ENTITY selectAllCmd.label "सबको चुनें">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY findCmd.label "ढूंढें व बदलें...">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "फिर ढूंढें">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "पिछला ढूंढें">
+<!ENTITY findPrevCmd.accesskey "v"> 
+
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v"> 
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "देखें"> 
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "टूलबार"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
-<!ENTITY showComposeToolbarCmd.label "मेल टूलबार">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "टूलबार संरूपति कर रहा है">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "स्थिति बार">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "मनोनुकूल...">
@@ -120,10 +104,6 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "विकल्प">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "वर्तनी जांचें...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "h">
 <!ENTITY enableInlineSpellChecker.label "वर्तनी लिकें जैसे आप टाइप करते हैं">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "संदेश उद्धृत करें">
@@ -135,8 +115,6 @@
 
 <!ENTITY returnReceiptMenu.label "वापसी रसीद">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY outputFormatMenu.label "संरूपित करें">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "स्वतः जांच">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "सादा पाठ सिर्फ">
@@ -170,13 +148,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "पता पुस्तिका">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "खाता जमावट...">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "विकल्प...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "वरीयता">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
@@ -187,17 +158,6 @@
 <!ENTITY zoomWindow.label "जूम"> 
 <!ENTITY windowMenu.label "विंडो"> 
 
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "मदद">
-<!ENTITY helpMenu.accesskey "H"> 
-<!ENTITY releaseCmd.label "रिलीज नोट">
-<!ENTITY releaseCmd.accesskey "R"> 
-<!ENTITY hintsAndTips.label "&brandShortName; मदद">
-<!ENTITY hintsAndTips.accesskey "h"> 
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "&brandShortName; के बारे में">
-<!ENTITY aboutCmd.accesskey "A">
-
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "भेजें">
 <!ENTITY quoteButton.label "उद्धरण">
@@ -205,20 +165,18 @@
 <!ENTITY attachButton.label "संलग्र">
 <!ENTITY spellingButton.label "वर्तनी">
 <!ENTITY saveButton.label "सहेजें">
-<!ENTITY throbberItem.title "क्रियाकलाप संकेतक">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "अब इस संदेश को भेजें"> 
 <!ENTITY sendlaterButton.tooltip "इस संदेश को बाद में भेजें"> 
 <!ENTITY quoteButton.tooltip "पिछला संदेश को उद्धृत करें"> 
 <!ENTITY addressButton.tooltip "पता पुस्तिका से एक प्राप्तकर्ता चुनें"> 
-<!ENTITY attachButton.tooltip "एक संलग्नक शामिल करें"> 
 <!ENTITY saveButton.tooltip "संदेश को सहेजें"> 
-<!ENTITY throbber.tooltip "Go to the &vendorShortName; होमपेज">
 <!ENTITY cutButton.tooltip              "काटें">
 <!ENTITY copyButton.tooltip             "कॉपी">
 <!ENTITY pasteButton.tooltip            "चिपकायें">
 
+<!-- Headers -->
 <!-- Headers -->
 <!ENTITY fromAddr.label "प्रेषक:">
 <!ENTITY fromAddr.accesskey "r">
@@ -230,14 +188,10 @@
 <!ENTITY followupAddr.label "इसमें फोलोअप:"> 
 <!ENTITY subject.label "विषय:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "संलग्नक:">
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
+
 <!ENTITY SmileButton.tooltip "एक हंसमुख डालें">
 <!ENTITY smiley1Cmd.label "मुस्कान">
 <!ENTITY smiley2Cmd.label "दुखी">
@@ -283,6 +237,8 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "वेबपेज संलग्न करें...">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "संपर्क">

@@ -26,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "इसपर चयनित फिल्टर चलायें:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "इस फोल्डर को चुनें">
-<!ENTITY choosethisnewsserver.label "यह समाचार सर्वर चुनें">
 <!ENTITY helpButton.label "मदद">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

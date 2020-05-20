@@ -4,6 +4,8 @@
 
 <!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "ढूंढें व बदलें">
 <!ENTITY findField.label "पाठ ढूंढें:">
 <!ENTITY findField.accesskey "n">
@@ -24,4 +26,3 @@
 <!ENTITY replaceAllButton.label "सबको बदलें">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "बंद करें">
-<!ENTITY notFoundWarning.label "पाठ जिसे आपने डाला है नहीं मिला.">

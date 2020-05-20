@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = लॉग मॉड्यूल की सु�
 url-classifier-debug-modules = वर्तमान लॉग मॉड्यूल:
 url-classifier-debug-sbjs-modules = सुरक्षित ब्राउजिंग Js लॉग
 url-classifier-debug-file = वर्तमान लॉग फ़ाइल
+
 url-classifier-trigger-update = ट्रिगर अद्यतन
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = सुरक्षित ब्राउज़िंग JS लॉग को निष्क्रिय करें

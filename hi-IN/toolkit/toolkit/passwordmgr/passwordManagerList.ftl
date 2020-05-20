@@ -54,6 +54,7 @@ import =
 close-button =
     .label = बंद करें
     .accesskey = C
+
 show-passwords =
     .label = कूटशब्द दिखाएँ
     .accesskey = P

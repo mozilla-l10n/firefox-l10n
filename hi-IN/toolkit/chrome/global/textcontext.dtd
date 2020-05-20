@@ -29,7 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "लॉगइन भरें">
 <!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "पासवर्ड भरें">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "उपयोक्तानाम भरें">

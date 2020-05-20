@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = फ़ॉन्ट
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = फोंट के लिए
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = अरबी
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = आनुपातिक
     .accesskey = P
+
 fonts-default-serif =
     .label = सेरिफ़
 fonts-default-sans-serif =
     .label = सैंस सेरिफ़
+
 fonts-proportional-size = आकार
     .accesskey = z
+
 fonts-serif = सेरिफ़
     .accesskey = S
+
 fonts-sans-serif = सान्स सेरिफ़
     .accesskey = n
+
 fonts-monospace = एकलस्पेस
     .accesskey = M
+
 fonts-monospace-size = आकार
     .accesskey = e
+
 fonts-minsize = न्यूनतम फ़ॉन्ट आकार
     .accesskey = o
+
 fonts-minsize-none =
     .label = कोई नहीं
+
 fonts-allow-own =
     .label = उपरोक्त आपके चयनों के बजाय पृष्ठों को अपने स्वयं के फोंट चुनने की अनुमति दें
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = पुरातन अंतर्वस्तु के लिए पाठ कूटलेखन
 fonts-languages-fallback-desc = यह पाठ कूटलेखन प्रयोग करते हैं पुरातन अंतर्वस्तु के लिए जो की अपने कूटलेख को घोषित करने में विफल रहते हैं.
+
 fonts-languages-fallback-label = फ़ॉलबैक पाठ एन्कोडिंग
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = वर्तमान लोकेल के लिए तयशुदा
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = वियतनामी
 fonts-languages-fallback-name-other =
     .label = अन्य (पश्चिमी यूरोपीय सहित)
-fonts-very-large-warning-title = बड़ा न्यूनतम फाँट आकार
-fonts-very-large-warning-message = You have selected a very large minimum font size (more than 24 pixels). This may make it difficult or impossible to use some important configuration pages like this one.
-fonts-very-large-warning-accept = मेरे परिवर्तन बनाए रखें
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

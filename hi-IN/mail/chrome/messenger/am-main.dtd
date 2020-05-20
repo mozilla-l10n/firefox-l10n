@@ -4,10 +4,11 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "खाता जमावट">
 <!ENTITY accountName.label "खाता नाम:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "हर खाता को पहचानने के लिये खाता नाम प्रयुक्त होता है">
 <!ENTITY identityTitle.label "मूलभूत पहचान">
 <!ENTITY identityDesc.label "हर खाता का अपना पहचान है, जो सूचना है जिसे अन्य व्यक्ति देखते हैं जब वे आपका संदेश पढते हैं.">
 <!ENTITY name.label "आपका नाम:">
@@ -18,8 +19,6 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "संगठन:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "इस हस्ताक्षर को संलग्न करें:">
-<!ENTITY signature.accesskey "t">
 <!ENTITY edit.label "संपादित करें...">
 <!ENTITY choose.label "चुनें...">
 <!ENTITY choose.accesskey "C">
@@ -36,3 +35,4 @@
 <!ENTITY smtpName.label "Outgoing Server (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "मूलभूत सर्वर प्रयोग करें">
+

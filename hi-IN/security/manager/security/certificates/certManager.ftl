@@ -4,146 +4,176 @@
 
 certmgr-title =
     .title = प्रमाणपत्र प्रबंधक
+
 certmgr-tab-mine =
     .label = आपका प्रमाणपत्र
+
 certmgr-tab-people =
     .label = आम आदमी
+
 certmgr-tab-servers =
     .label = सर्वर
+
 certmgr-tab-ca =
     .label = प्राधिकार
+
 certmgr-mine = आपके पास इन संगठनों से प्रमाणपत्र हैं जो आपको पहचानते हैं
 certmgr-people = आपके पास फ़ाइल पर प्रमाणपत्र हैं जो इन लोगों को पहचानते हैं
 certmgr-servers = आपके पास फ़ाइल पर प्रमाणपत्र हैं जो इन सर्वरों को पहचानते हैं
 certmgr-ca = आपके पास फ़ाइल पर प्रमाणपत्र हैं जो इन प्रमाणपत्र प्राधिकारियों को पहचानते हैं
+
 certmgr-detail-general-tab-title =
     .label = सामान्य
     .accesskey = G
+
 certmgr-detail-pretty-print-tab-title =
     .label = विवरण
     .accesskey = D
+
 certmgr-pending-label =
     .value = मौजूदा जाँचकर्ता प्रमाणपत्र…
-certmgr-subject-info-label =
-    .value = इसमें निर्गत
-certmgr-issuer-info-label =
-    .value = इसके द्वारा निर्गत
-certmgr-period-of-validity-label =
-    .value = वैधता की अवधि
-certmgr-fingerprints-label =
-    .value = फिंगरप्रिंट
+
 certmgr-subject-label = इसमें निर्गत
+
 certmgr-issuer-label = इसके द्वारा निर्गत
+
 certmgr-period-of-validity = वैधता की अवधि
+
 certmgr-fingerprints = फिंगरप्रिंट
+
 certmgr-cert-detail =
     .title = प्रमाणपत्र विवरण
     .buttonlabelaccept = बंद करें
     .buttonaccesskeyaccept = C
-certmgr-cert-detail-cn =
-    .value = सामान्य नाम (CN)
-certmgr-cert-detail-o =
-    .value = संगठन (O)
-certmgr-cert-detail-ou =
-    .value = सांगठनिक ईकाई (OU)
-certmgr-cert-detail-serialnumber =
-    .value = क्रम संख्या
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA-256 फिंगरप्रिंट
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 फिंगरप्रिंट
+
 certmgr-cert-detail-commonname = सामान्य नाम (CN)
+
 certmgr-cert-detail-org = संगठन (O)
+
 certmgr-cert-detail-orgunit = सांगठनिक ईकाई (OU)
+
 certmgr-cert-detail-serial-number = क्रम संख्या
+
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 फिंगरप्रिंट
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 फिंगरप्रिंट
+
 certmgr-edit-ca-cert =
     .title = CA प्रमाणपत्र ट्रस्ट जमावट को संपादित करें
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = ट्रस्ट जमावट संपादित करें:
+
 certmgr-edit-cert-trust-ssl =
     .label = यह प्रमाणपत्र वैबसाइट पहचान सकता है.
+
 certmgr-edit-cert-trust-email =
     .label = यह प्रमाणपत्र मेल उपयोक्ता को पहचान सकता है.
+
 certmgr-delete-cert =
     .title = प्रमाणपत्र मिटायें
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = प्रमाणपत्र नाम
+
 certmgr-cert-server =
     .label = सर्वर
+
 certmgr-override-lifetime =
     .label = जीवनपर्यंत
+
 certmgr-token-name =
     .label = सुरक्षा युक्ति
+
 certmgr-begins-on = इस समय आरंभ
+
 certmgr-begins-label =
     .label = इस समय आरंभ
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = इसपर समाप्त
+
 certmgr-expires-label =
     .label = इसपर समाप्त
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = ईमेल पता
+
 certmgr-serial =
     .label = क्रम संख्या
+
 certmgr-view =
     .label = दृश्य…
     .accesskey = V
+
 certmgr-edit =
     .label = Edit Trust…
     .accesskey = E
+
 certmgr-export =
     .label = निर्यात…
     .accesskey = x
+
 certmgr-delete =
     .label = मिटाएँ…
     .accesskey = D
+
 certmgr-delete-builtin =
     .label = Delete or Distrust…
     .accesskey = D
+
 certmgr-backup =
     .label = बैकअप…
     .accesskey = B
+
 certmgr-backup-all =
     .label = सबका बैकअप लें…
     .accesskey = k
+
 certmgr-restore =
     .label = आयात करें…
     .accesskey = m
+
 certmgr-details =
     .value = प्रमाणपत्र क्षेत्र
     .accesskey = F
+
 certmgr-fields =
     .value = क्षेत्र मान
     .accesskey = V
+
 certmgr-hierarchy =
     .value = प्रमाणपत्र पदक्रम
     .accesskey = एच
+
 certmgr-add-exception =
     .label = अपवाद जोड़ें…
     .accesskey = x
+
 exception-mgr =
     .title = सुरक्षा अपवाद जोड़ें
+
 exception-mgr-extra-button =
     .label = Confirm Security Exception
     .accesskey = C
+
 exception-mgr-supplemental-warning = वैध बैंक, भंडार, और दूसरे सार्वजनिक साइट आपको ऐसा करने के लिए नहीं कहेंगे.
+
 exception-mgr-cert-location-url =
     .value = स्थान:
+
 exception-mgr-cert-location-download =
     .label = प्रमाणपत्र पाएँ
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = दृश्य…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = यह अपवाद स्थायी रूप से जमा करें
     .accesskey = P
+
 pk11-bad-password = दाखिल कूटशब्द गलत था.
 pkcs12-decode-err = फाइल डिकोड करने में विफल.  या तो यह PKCS #12 प्रारूप में नहीं था, गतल किया गया था, या जो कूटशब्द आपने डाला वह गलत था.
 pkcs12-unknown-err-restore = PKCS #12 फाइल फिर जमा करने में विफल अनजान कारण से.
@@ -176,18 +206,24 @@ delete-user-cert-title =
     .title = अपना प्रमाणपत्र मिटाएँ
 delete-user-cert-confirm = क्या आप इन प्रमाणपत्र को मिटाने के लिये निश्चित हैं?
 delete-user-cert-impact = अगर आप अपना एक प्रमाणपत्र मिटाते हैं, आप स्वयं इसे प्रयोग नहीं कर पाएँगे.
+
+
 delete-ssl-cert-title =
     .title = सर्वर प्रमाणपत्र अपवाद मिटायें
 delete-ssl-cert-confirm = क्या आप इन सर्वर अपवाद को मिटाने के लिये निश्चित हैं?
 delete-ssl-cert-impact = यदि आप सर्वर अपवाद मिटाते हैं, आप सामान्य सुरक्षा जांच उस सर्वर के लिए फिर बहाल करते हैं और आपके लिए जरूरी है कि यह वैध प्रमाणपत्र का प्रयोग करता है.
+
 delete-ca-cert-title =
     .title = Delete or Distrust CA Certificates
 delete-ca-cert-confirm = You have requested to delete these CA certificates. For built-in certificates all trust will be removed, which has the same effect. Are you sure you want to delete or distrust?
 delete-ca-cert-impact = If you delete or distrust a certificate authority (CA) certificate, this application will no longer trust any certificates issued by that CA.
+
+
 delete-email-cert-title =
     .title = ईमेल प्रमाणपत्र मिटाएँ
 delete-email-cert-confirm = क्या आप इन लोगों के ईमेल प्रमाणपत्र को मिटाने के लिये निश्चित हैं?
 delete-email-cert-impact = अगर आप किसी व्यक्ति का ईमेल प्रमाणपत्र मिटाते हैं, आपका उन लोगों को गोपित ईमेल भेजने के लिये लायक नहीं रह जायेगा.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -203,21 +239,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = प्रमाणपत्र प्रदर्शक: “{ $certName }”
+
 not-present =
     .value = <प्रमाणपत्र का हिस्सा नहीं>
+
 # Cert verification
 cert-verified = यह प्रमाणपत्र को निम्न प्रयोग के लिये जांचा जा रहा है:
+
 # Add usage
 verify-ssl-client =
     .value = SSL क्लाएँट प्रमाणपत्र
+
 verify-ssl-server =
     .value = SSL सर्वर प्रमाणपत्र
+
 verify-ssl-ca =
     .value = SSL प्रमाणपत्र प्राधिकार
+
 verify-email-signer =
     .value = ईमेल हस्ताक्षरकर्ता प्रमाणपत्र
+
 verify-email-recip =
     .value = ईमेल प्राप्तकर्ता प्रमाणपत्र
+
 # Cert verification
 cert-not-verified-cert-revoked = इस प्रमाणपत्र को नहीं जांचा जा सका क्योंकि यह वापस किया जा रहा है.
 cert-not-verified-cert-expired = इस प्रमाणपत्र को नहीं जांचा जा सका क्योंकि यह समयातीत है.

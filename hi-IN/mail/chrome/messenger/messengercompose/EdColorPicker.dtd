@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "रंग">
 <!ENTITY lastPickedColor.label "अंतिम चयनित रंग">
 <!ENTITY lastPickedColor.accessKey "L">
-<!ENTITY setColor1.label "एक रंग पर क्लिक करें या">
-<!ENTITY setColor2.label "एक HTML रंग स्ट्रिंग डालें">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(उदा: &quot;#0000ff&quot; or &quot;blue&quot;):">
 <!ENTITY default.label "मूलभूत">
 <!ENTITY default.accessKey "D">

@@ -10,15 +10,18 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 "&brandShortName;" below.
 -->
 
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "आयात करें">
-<!ENTITY importDialog.mailTitle   "मेल">
-<!ENTITY importDialog.addressbookTitle "पता पुस्तिका">
-<!ENTITY importDialog.settingsTitle "जमावट">
 
 <!ENTITY importTitle.label        "&brandShortName; मेल आयात विजार्ड">
-<!ENTITY importDesc.label         "अन्य प्रोग्राम से मेल, पता पुस्तिका, और जमावट को आयात करें">
 
-<!ENTITY importDescription.label  "यह विजार्ड मेल संदेश को आयात करेगा, पता पुस्तिका, और/या अन्य मेल प्रोग्राम से वरीयता और साझा पता पुस्तिका प्रारूप को &brandShortName; मेल में.">
 <!ENTITY importDescription2.label "उनके आयात किये जाने के बाद, आप उन्हें &brandShortName; मेल और/या पता पुस्तिका के अंदर अभिगम में समर्थ होंगे.">
 
 <!ENTITY selectDescription.label  "प्रोग्राम चुनें जिससे आप आयात करना पसंद करेंगे:">
@@ -33,8 +36,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label              "शीर्षक">
 <!ENTITY processing.label         "आयात कर रहा है...">
 
-<!ENTITY FieldDiscInputText1.label  "Netscape Communicator 4.x हर कार्ड के लिये एक मेलिंग पता रखता है जबकि &brandShortName; दो रखता है (घर और कार्यालय).">
-<!ENTITY FieldDiscInputText2.label  "श्रेणी चुनें जिसमें आप आयातित डाक पता आयात करना चाहते हैं:">
-<!ENTITY FieldDiscWarning.label  "यह श्रेणी सारे प्रविष्टि के लिये प्रयुक्त होगी चयनित पता पुस्तिका के: ">
-<!ENTITY importDialog.homeTitle  "घर">
-<!ENTITY importDialog.workTitle  "कार्य">

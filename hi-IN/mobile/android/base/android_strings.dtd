@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; लोकेशन सेवा कार्यरत्त">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "स्वतः अद्यतन">
-<!ENTITY pref_update_autodownload_wifi "केवल वाय-फ़ाय पर">
-<!ENTITY pref_update_autodownload_never "कभी नहीं">
-<!ENTITY pref_update_autodownload_always "हमेशा">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "मदद">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "बुकमार्क और इतिहास">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
-<!ENTITY updater_start_select2 "डाउनलोड करने के लिए छुएँ">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; का डाउनलोड जारी">
-<!ENTITY updater_downloading_title_failed2 "डाउनलोड विफल">
-<!ENTITY updater_downloading_select2 "डाउनलोड होने पर अद्यतन लागू करने के लिए छुएँ">
-<!ENTITY updater_downloading_retry2 "पुनःप्रयास के लिए छुएँ">
-
-<!ENTITY updater_apply_title3 "&brandShortName; के लिए अद्यतन उपलब्ध">
-<!ENTITY updater_apply_select3 "इनस्टॉल करने के लिए टच करें">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "दस्तावेजों और नवीनीकरणों को डाउनलोड करने, &brandShortName; को अनुमति देने के लिए संग्रह अभिगमन को आज्ञा दें.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "स्वीकारें">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "नया अतिथि सत्र">
 <!ENTITY exit_guest_session "अतिथि सत्र से बाहर">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "ध्वनि और वीडियो">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; सुझाव एवं तरकीब">
-<!ENTITY updater_notification_channel "ऐप अपडेट">
 <!ENTITY synced_tabs_notification_channel "सिंक हुए टैब">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

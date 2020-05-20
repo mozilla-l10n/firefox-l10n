@@ -36,7 +36,6 @@
 <!ENTITY tableCaptionNone.label           "कोई नहीं">
 <!ENTITY tableInheritColor.label           "(पृष्ठ रंग को दिखाने दें)">
 
-<!ENTITY cellPercent.label                "तालिका प्रतिशत">
 <!ENTITY cellSelection.label              "चयन">
 <!ENTITY cellSelectCell.label             "सेल">
 <!ENTITY cellSelectRow.label              "पंक्ति">
@@ -45,13 +44,6 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "पिछला">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "चयन बदलने के पहले बदलाव लागू करें">
-<!ENTITY cellKeepCurrentData.label        "मौजूदा जमावट रखें">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "मौजूदा बदलाव लागू होगा">
-<!ENTITY applyBeforeChange2.label         "चयन के बदलने के पहले.">
-<!ENTITY cellRowSpan.label                "पंक्ति स्पैन:">
-<!ENTITY cellColSpan.label                "कॉलम स्पैन:">
 <!ENTITY cellContentAlignment.label       "सामग्री समायोजन">
 <!ENTITY cellHorizontal.label             "क्षैतिज:">
 <!ENTITY cellHorizontal.accessKey         "Z">
@@ -69,7 +61,6 @@
 <!ENTITY cellAlignMiddle.label            "मध्यवर्ती">
 <!ENTITY cellAlignBottom.label            "तल">
 <!ENTITY cellAlignJustify.label           "समायोजित करें">
-<!ENTITY cellAlignAtChar.label            "संप्रतीक पर:">
 <!ENTITY cellInheritColor.label           "(तालिका रंग का दिखाने दें)">
 <!ENTITY cellUseCheckboxHelp.label        "जांचपेटी का प्रयोग निश्चित करने के लिये करें कि कौन सा गुण तयनित सेल पर लागू होता है">
 
