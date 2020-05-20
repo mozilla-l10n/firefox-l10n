@@ -19,6 +19,7 @@ footer-left-tip =
     .tooltiptext = Jie´e satí
 hf-blank =
     .label = --nada--
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

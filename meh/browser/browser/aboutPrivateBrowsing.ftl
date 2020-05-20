@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Ka'vi kue'e jiee <a data-l10n-name="learn-more">Kaka yu'u</a>.
 about-private-browsing-info-visited = páginas nne´yánu
+
 privatebrowsingpage-open-private-window-label = Síne iin ventana yu´u
     .accesskey = y
 about-private-browsing-info-notsaved = Sa nánukunu nuu iin ventana yu´u, { -brand-short-name }<strong>Nchuva´a</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Ntañu´u ntu yɨ´ɨnu nuu iin ventana yu�
 content-blocking-title = Nakasɨ contenido
 content-blocking-description = Iyo da nuu Web ni´ida ka̱a̱ nita noo´o nuu Internet. Nuu da ventana yu´u { -brand-short-name } a chiyu´u tu´un { -brand-short-name } ka̱a̱ chiyu´u nakasɨ da ka̱a̱ nita a sá´á noo´o nuu Internet.
 about-private-browsing-info-description = { -brand-short-name } xita a nnánukunu a nsá´ánu saa kenenu nuu ka̱a̱ a xiin nakasɨnu kuaiyo da pestaña jíí ventana nánuku yu´u . Ya´a ntu taji a noo´o nánuku yu´u nuu Web ji nuu ñɨvu tatu Internet, ya´a sá´á kumi a nánukunu nuu inka ñɨvu ni´i ka̱a̱ tee nɨnuu ya´a.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

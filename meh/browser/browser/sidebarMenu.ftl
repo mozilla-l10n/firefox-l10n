@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = A ta´a ini noo´o
+
 sidebar-menu-history =
     .label = Sɨ´ɨ
+

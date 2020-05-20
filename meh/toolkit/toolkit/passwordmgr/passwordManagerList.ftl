@@ -22,3 +22,4 @@ remove =
 close-button =
     .label = Nakasɨ
     .accesskey = C
+

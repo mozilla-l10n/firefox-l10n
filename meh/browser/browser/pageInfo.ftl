@@ -7,13 +7,16 @@ copy =
 menu-copy =
     .label = Tɨɨn
     .accesskey = T
+
 select-all =
     .key = A
 menu-select-all =
     .label = Kaji kuaiyo
     .accesskey = K
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Ntaka
     .accesskey = N
@@ -37,6 +40,7 @@ general-meta-name =
     .label = Sivɨ
 general-meta-content =
     .label = Contenido
+
 media-tab =
     .label = Multimedia
     .accesskey = M
@@ -62,9 +66,11 @@ media-save-image-as =
     .accesskey = a
 media-preview =
     .value = Vista preliminar:
+
 perm-tab =
     .label = Permisos
     .accesskey = P
+
 security-view =
     .label = Kune´ya certificado
     .accesskey = V
@@ -76,17 +82,22 @@ security-view-identity-validity =
     .value = Nɨ´ɨ :
 security-view-privacy =
     .value = Privacidad je historial
+
 security-view-privacy-history-value = ¿Nneya´ni nuu web ya´a íchi yata?
 security-view-privacy-sitedata-value = ¿Nuu web ya´a chuva´a tu´un nuu ka̱a̱ tee nɨnuu?
+
 security-view-privacy-clearsitedata =
     .label = Xina cookies ji datos sitio
     .accesskey = C
+
 security-view-privacy-passwords-value = ¿Nchuva´ani contraseñas nuu web ya´a?
+
 security-view-privacy-viewpasswords =
     .label = Kune´ya contraseñas nchuva´a
     .accesskey = w
 security-view-technical =
     .value = Detalles técnicos
+
 help-button =
     .label = Chinei
 
@@ -98,8 +109,10 @@ help-button =
 
 security-site-data-cookies = Kuvi, cookies ji { $value } { $unit } datos nuu
 security-site-data-only = Kuvi, { $value } { $unit } datos sitio
+
 security-site-data-cookies-only = Kuvi, cookies
 security-site-data-no = Nkuvi
+
 image-size-unknown = Desconocido
 media-img = Tutu nátava
 media-bg-img = Fondo
@@ -110,6 +123,7 @@ media-video = tutu nátava káná
 media-audio = Nasun
 saved-passwords-yes = Kuvi
 saved-passwords-no = Nkuvi
+
 no-page-title =
     .value = Página ntu título:
 general-quirks-mode =
@@ -120,6 +134,7 @@ media-select-folder = Kaji iin carpeta nuu chuva´a da tutu nátava
 permissions-use-default =
     .label = Ni´i predeterminado
 security-no-visits = Nkuvi
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -129,6 +144,7 @@ security-visits-number =
         [0] No
        *[other] Kuvi, { $visits } kue´e
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -138,6 +154,7 @@ properties-general-size =
         { $bytes ->
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -148,12 +165,14 @@ media-animated-image-type =
         { $frames ->
            *[other] { $type } tutu nátava  (animada, { $frames } marcos)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } tutu nátava
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -163,17 +182,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (escalado a { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -181,6 +203,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Kasɨ tutu nátava { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

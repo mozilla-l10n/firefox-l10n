@@ -7,7 +7,9 @@ about-config-warning-title = ¡Kaka nuu ntu jinio!
 about-config-warning-text = De sama nke'i sana nko vatu jee nsatiñu va'a ka̱a̱ ya´a. Nejika kakanu de jininu a sa'anu.
 about-config-warning-checkbox = ¡Katu´un tuku íchika!
 about-config-warning-button = Kuka´nu inini jiee riesgo
+
 about-config2-title = Ke'i avanzados
+
 about-config-search-input =
     .placeholder = Nánuku
 
@@ -22,16 +24,20 @@ about-config-intro-warning-button = Kuka´nu inini jiee riesgo je kaka
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = De sama preferencias ya´a kuvi xitivɨ a xiin seguridad { -brand-short-name }.
+
 about-config-page-title = Preferencias avanzadas
+
 about-config-search-input1 =
     .placeholder = Sivɨ nánuku
 about-config-show-all = Kune´yá kuaiyo
+
 about-config-pref-add = Tee
 about-config-pref-toggle = Conmutar
 about-config-pref-edit = Natee
 about-config-pref-save = Chuva´a
 about-config-pref-reset = Niko kua íyó
 about-config-pref-delete = Náxitá-má
+
 about-config-pref-add-button =
     .title = Tee
 about-config-pref-toggle-button =

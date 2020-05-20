@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Jiee ya´a &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ya´a vii iin a jiia jee kuvi nkotiñu.">
-<!ENTITY aboutPage.telemetryStart               " Chuichi naja satiñu ya´a ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " chinei sa´a &brandShortName; va´a.">
 <!ENTITY aboutPage.checkForUpdates.link         "Nanúku a jiaa»">
 <!ENTITY aboutPage.checkForUpdates.checking     "Nánukú a jiia…">
 <!ENTITY aboutPage.checkForUpdates.none         "Na iyo a jiiaa">

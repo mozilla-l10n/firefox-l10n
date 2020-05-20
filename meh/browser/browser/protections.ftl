@@ -8,6 +8,7 @@ graph-week-summary =
     { $count ->
        *[other] { -brand-short-name } nnasɨ { $count } ka̱a̱ nita noo´o semana nña´a
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -17,19 +18,27 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> ka̱a̱ nita noo´o nnasɨ nee { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> ka̱a̱ nita noo´o nnasɨ nee { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 protection-report-manage-protections = Tetiñu nuu kei´i
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ki̱vɨ̱ vitá
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Iin tutu nuu vaji tunin kuaíyo da ka̱a̱ nita noo´o,  nstasava nakuvi da ka̱a̱ ya´a, da nnasɨ semana nña´a.
+
 fingerprinter-tab-title = Huellas dactilares
+
 cryptominer-tab-title = Criptomineros
+
 protections-close-button =
     .aria-label = Nakasɨ
+
 protections-close-button2 =
     .aria-label = Nakasɨ
     .title = Nakasɨ
+  
 lockwise-title = Nna ininu íchika contraseña
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } chuva'a vatu da contraseña nuu ka̱a̱ nánuku.
@@ -37,9 +46,12 @@ protection-report-view-logins-button = Kune'ya credenciales
     .title = Kɨ'ɨo nuu kajie´e sesión nchuva´a
 lockwise-mobile-app-title = Kua´a ji contraseña noo´o ntaka nuu
 lockwise-app-links = { -lockwise-brand-name } para <a data-l10n-name="lockwise-android-inline-link">Android</a> ji <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 turn-on-sync = Activar { -sync-brand-short-name }...
     .title = Kua'a nuu preferencias sincronización
+
 manage-connected-devices = …Tetiñu da ka̱a̱…
+
 monitor-link = Naja satiñu
 
 ## The title attribute is used to display the type of protection.

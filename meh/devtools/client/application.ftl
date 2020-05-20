@@ -22,3 +22,4 @@ serviceworker-worker-start = Kajie'e
 # Text displayed when no service workers are visible for the current page. Clicking on the
 # link will open https://developer-mozilla-org/docs/Web/API/Service_Worker_API/Using_Service_Workers
 serviceworker-empty-intro = A kuvinu chu´unu iin Service Worker saa kutuvi nuu ya´a. <a>Kuni kue´eka</a>
+

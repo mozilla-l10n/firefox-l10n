@@ -9,15 +9,19 @@
 editmenu-cut =
     .label = Ke´ne
     .accesskey = K
+
 editmenu-copy =
     .label = Tɨɨn
     .accesskey = C
+
 editmenu-paste =
     .label = Tee
     .accesskey = T
+
 editmenu-delete =
     .label = Xita
     .accesskey = D
+
 editmenu-select-all =
     .label = Kaji kuaiyo
     .accesskey = s

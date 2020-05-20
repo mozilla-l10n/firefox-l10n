@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Ntaka extensión jíía teenu nuu { -brand-shorter-name } nsatiñu vii nuu ventana yu´u nejika ke´inuma saa kuvi satiñu.
 appmenu-addon-private-browsing-learn-more = Kuni naja tetiñunu da extensiones.
+    
 appmenu-new-tab-controlled =
     .label = Pestaña jíía nsama
     .buttonlabel = Kino a nsama

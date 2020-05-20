@@ -22,6 +22,7 @@
 <!ENTITY selectAllCmd.label        "Kaji kuaiyo">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Nánuku">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "B">

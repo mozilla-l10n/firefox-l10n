@@ -5,5 +5,7 @@
 places-open =
     .label = Síne
     .accesskey = O
+
 places-bookmarks-search =
     .placeholder = Nánuku A ta´a ini noo´o
+

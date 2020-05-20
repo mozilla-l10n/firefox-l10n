@@ -5,3 +5,4 @@
 blocklist-accept =
     .label = Nakajie´e { -brand-short-name }
     .accesskey = R
+

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Kune´ya tu´un sitio
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Nñasɨnɨ acceso nuu MIDI nuu web ya´a.
 urlbar-install-blocked =
     .tooltiptext = Nñasɨnɨ nchu´un ka̱a̱ chunta´an nuu web ya´a.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Natee a ta´an ini noo´o ya´a ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Tetiñu da extensión...
 page-action-remove-from-urlbar =
     .label = Xinama barra da nuu
+
 page-action-remove-extension =
     .label = Xina extensión
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nánuku ji:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sama naja nánuku
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sama naja nánuku
+
 search-one-offs-context-open-new-tab =
     .label = Nánuku nuu iin pestaña jíía
     .accesskey = j
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Xituvi natee saa chuva´a
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Xinɨ´ɨ
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -216,3 +224,9 @@ browser-window-close-button =
 popup-select-camera =
     .value = Kua'a ka̱a̱ natava
     .accesskey = c
+
+## DevTools F12 popup
+
+
+## URL Bar
+

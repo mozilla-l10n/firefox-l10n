@@ -20,6 +20,7 @@ open-location = Nánuku a xíín chu´un iin nuu
 share = Kua´a ya´a
 close-window = Kasɨ ventana
 open-sidebar = Barras laterales
+
 # This string describes shortcuts for search.
 search-popover = Atajos nnánukunu
 # Describes searches limited to a specific scope
