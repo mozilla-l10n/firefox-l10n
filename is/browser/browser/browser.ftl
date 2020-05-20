@@ -206,6 +206,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Skráarending:
+urlbar-go-button =
+    .tooltiptext = Hoppa á tengilinn sem er í staðsetningarslánni
 urlbar-page-action-button =
     .tooltiptext = Síðu aðgerðir
 urlbar-pocket-button =
