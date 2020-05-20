@@ -13,6 +13,7 @@ enable-common-message = B'anon chi e chupül ri Kisamajib'al kiB'anonel Firefox 
 enable-learn-more-link = Tetamäx ch'aqa' chik chi kij ri taqKisamajib'al B'anonela'
 enable-enable-button = Ketzij ri taq Kisamajib'al B'anonela'
 enable-close-button = Titz'apïx re Ruwi' re'
+
 welcome-title = ¡Ütz apetik pa Firefox Developer Tools!
 newsletter-title = Ko'öl Kiwuj Kib'anonela' Mozilla
 newsletter-message = Ke'ak'ulu' taq kitzijol b'anonela', taq q'oloj chuqa' taq tob'äl ri nitaq pan ataqob'äl.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Majun nuk'ayewal rik'in chi ja ri Mozilla nisamajin r
 newsletter-subscribe-button = Tz'ib'anïk b'i'aj
 newsletter-thanks-title = ¡Matyox!
 newsletter-thanks-message = We man ajikib'an ta rutz'ib'axik ab'i' pa jun rutzijol ko'öl na'oj pa ruwi' ri Mozilla rik'in jub'a' k'o chi nab'än. Tab'ana' utzil tanik'oj ri ataqob'al o ri ruchayub'al itzel taq taqoya'l richin jun rutzijol jun taqoya'l.
+
 footer-title = Firefox Developer Edition
 footer-message = ¿La nakanoj jujun relik taq rusamajib'al b'anonel? Tanik'oj ri Firefox Okik'amaya'l nuk'un kichin ri b'anonela' chuqa' k'ak'a' kiq'axik taq samaj.
 footer-learn-more-link = Tetamäx ch'aqa' chik
+
 features-learn-more = Tetamäx ch'aqa' chik
 features-inspector-title = Nik'onel
 features-inspector-desc = Tanik'oj chuqa' tachojmirisaj ri b'itz'ib' richin ye'atz'ük ütz taq wachib'enïk pa taq piksel. <a data-l10n-name="learn-more">{ features-learn-more }</a>

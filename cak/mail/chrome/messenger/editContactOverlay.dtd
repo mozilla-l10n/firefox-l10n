@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Kiwujil taq Ochochib'äl:">
 <!ENTITY editContactAddressBook.accesskey "O">
 
-<!ENTITY editContactPanelCancel.label "Tiq'at">
-<!ENTITY editContactPanelCancel.accesskey "q">
-
 <!ENTITY editContactPanelDone.label "Xk'is">
 <!ENTITY editContactPanelDone.accesskey "k">
 

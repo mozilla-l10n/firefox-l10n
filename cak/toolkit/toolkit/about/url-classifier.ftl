@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Taq rujuperaj rutz'ibaxik ütz okem pa k'amaya
 url-classifier-debug-modules = Wakami taq rujuperaj tz'ib'anïk
 url-classifier-debug-sbjs-modules = Ütz okem pa k'amaya'l JS nitz'ib'äx
 url-classifier-debug-file = Ruyakb'al tz'ib'anïk k'o wakami
+
 url-classifier-trigger-update = Ruk'exïk K'aqob'äl
 url-classifier-not-available = M/O
 url-classifier-disable-sbjs-log = Tichup ütz okem pa K'amaya'l JS nitz'ib'äx

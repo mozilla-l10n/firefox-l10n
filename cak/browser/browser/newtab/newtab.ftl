@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Tikanöx
     .aria-label = Tikanöx
+
 newtab-search-box-search-the-web-text = Tikanöx pa Ajk'amaya'l
 newtab-search-box-search-the-web-input =
     .placeholder = Tikanöx pa Ajk'amaya'l
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Tinuk' re Utziläj Ruxaq K'amaya'l re'
 newtab-topsites-title-label = B'i'aj
 newtab-topsites-title-input =
     .placeholder = Tatz'ib'aj jun b'i'aj
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tatz'ib'aj o tatz'ajb'a' jun URL
 newtab-topsites-url-validation = Ütz URL k'atzinel
+
 newtab-topsites-image-url-label = Ichinan Ruwachib'al URL
 newtab-topsites-use-image-link = Tokisäx jun ichinan ruwachib'al…
 newtab-topsites-image-validation = Man xsamajib'ëx ta ri wachib'äl. Titojtob'ëx rik'in jun chik URL.
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = Man yatikïr ta najäl re b'anïk re'.
 newtab-menu-section-tooltip =
     .title = Tijaq k'utüy samaj
     .aria-label = Tijaq k'utüy samaj
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Tiyuj
     .aria-label = Tiyuj
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -131,6 +136,7 @@ newtab-label-removed-bookmark = Yaketal elesan el
 newtab-label-recommended = Rujawaxik
 newtab-label-saved = Yakon pa { -pocket-brand-name }
 newtab-label-download = Xqasäx
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -168,10 +174,12 @@ newtab-section-header-pocket = Chilab'en ruma { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Katok pa k'amaya'l richin niqak'üt chawäch jeb'ël taq cholna'oj, taq silowachib'äl, chuqa' ch'aqa' chik taq ruxaq k'a b'a' ke'atz'ët o aya'on kan ketal wawe'.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Xaq'i'. Katzolin chik pe richin ye'ak'ül ri utziläj taq rub'anob'al { $provider }. ¿La man noyob'en ta? Tacha' jun ütz na'oj richin nawïl ch'aqa' chik taq b'anob'äl e k'o chi rij ri ajk'amaya'l.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

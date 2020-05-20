@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "T">
 
 <!ENTITY projectButton_label "Tijaq chokoy">
+
 <!ENTITY runtimeButton_label "Ticha' ruq'ijul b'anatajnäq">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB taq okisaxel">
 <!ENTITY runtimePanel_wifi "Wi-Fi taq okisaxel">
 <!ENTITY runtimePanel_other "Juley chik">
-<!ENTITY runtimePanel_noadbhelper "Tiyak ADB to'onel">
 <!ENTITY runtimePanel_nousbdevice "¿La man yatikïr ta natz'ët ri awokisaxel?">
 <!ENTITY runtimePanel_refreshDevices_label "Ketzolïx ri taq okisaxel">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Retamab'al ri ruk'ojlem b'anatajnäq">
-<!ENTITY runtimedetails_adbIsRoot "ADB xe'el:">
-<!ENTITY runtimedetails_summonADBRoot "Xe'el okisaxel">
-<!ENTITY runtimedetails_ADBRootWarning "(narajo' jun ejqab'äl ri meq'eleb'en)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Taq richinem man eq'aton ta ri DevTools:">
-<!ENTITY runtimedetails_requestPrivileges "kik'utüx nima'q taq ichinem ">
-<!ENTITY runtimedetails_privilegesWarning "(Xtutikirisaj chik ri okisaxel. Nrajo' root rub'ey.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Ja'/manäq">

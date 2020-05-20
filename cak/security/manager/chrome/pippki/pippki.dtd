@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Nik'utüx chawe chi tatz'eta' ütz ri k'ak'a' Taqonel Ya'öl Ruwujil B'i'aj (CA).">
 <!ENTITY downloadCert.trustSSL "Takuqub'a' ak'u'x rik'in re CA richin ye'atz'ët ajk'amaya'l taq ruxaq k'amaya'l.">
 <!ENTITY downloadCert.trustEmail "Tijikib'äx pa re jun CA richin niya' ketal taq ruwinaq taqoya'l.">
-<!ENTITY downloadCert.trustObjSign "Takuqub'a' ak'u'x rik'in ri CA richin ye'atz'ët taq ajb'anöy kema'.">
 <!ENTITY downloadCert.message3 "Chuwäch nakuqub'a' ak'u'x chi rij re CA re' richin xab'achike na rayb'äl, k'o chin tinik'öx ri ruwujil rub'i', runa'ojil chuqa' taq rub'eyal CA (we e wachel).">
 <!ENTITY downloadCert.viewCert.label "Titz'et">
 <!ENTITY downloadCert.viewCert.text "Tinik'öx ruwujil rub'i' CA">

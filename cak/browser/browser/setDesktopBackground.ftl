@@ -4,26 +4,37 @@
 
 set-desktop-background-window =
     .title = Ticha' richin rupam ch'atal
+
 set-desktop-background-accept =
     .label = Ticha' richin rupam ch'atal
+
 open-desktop-prefs =
     .label = Kejaq ri taq rajowab'al kematz'ib'ab'äl
+
 set-background-preview-unavailable = Man wachel ta ri nab'ey rutz'etik
+
 # This refers to the wallpaper "spanning" multiple monitors when the
 # user has more than one. Only some of the entire image will be on
 # each monitor. This should ideally match the wording in Windows' own
 # Desktop Background settings page.
 set-background-span =
     .label = Tirik'
+
 set-background-color = B'onil:
+
 set-background-position = K'ojlib'äl:
+
 set-background-tile =
     .label = Ch'utiwäch
+
 set-background-center =
     .label = Pa nik'aj
+
 set-background-stretch =
     .label = Tiyuq
+
 set-background-fill =
     .label = Tinojisäx
+
 set-background-fit =
     .label = Tinuk'

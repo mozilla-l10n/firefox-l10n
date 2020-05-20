@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Titz'apïx
     .accesskey = z
+
 show-passwords =
     .label = Kek'ut ri Ewan taq Tzij
     .accesskey = E
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = ¿At jikïl chi nawajo' ye'ayüj el konojel ri ewan taq tzij?
 remove-all-passwords-title = Keyuj konojel ri ewan taq tzij
 no-master-password-prompt = ¿La at jikïl chi nawajo' ye'ak'üt pe ri ewan taq atzij?
+
+## OS Authentication dialog
+

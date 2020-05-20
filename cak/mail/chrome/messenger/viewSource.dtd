@@ -4,6 +4,8 @@
 
 <!-- extracted from content/viewSource.xul -->
 
+<!-- extracted from content/viewSource.xhtml -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
@@ -84,8 +86,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY copyLinkCmd.accesskey "X">
 <!ENTITY copyEmailCmd.label "Tiwachib'ëx Rochochib'al Taqoya'l">
 <!ENTITY copyEmailCmd.accesskey "T">
-
-<!-- Copied from charsetMenu.dtd -->
-<!ENTITY charsetMenu2.label            "Rucholajil Cholan Tzij">
-<!ENTITY charsetMenu2.accesskey        "c">
 

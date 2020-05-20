@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Tz'ib'anïk &amp; Ochochib'äl">
 <!ENTITY addressingGroupTitle.label "Taq ochochib'äl">
 <!ENTITY addressingText.label      "Toq yekanöx taq ochochib'äl:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Ruch'akulal">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Ketz'ib'äx taq tzijol pa HTML b'anikil">
 <!ENTITY useHtml.accesskey                    "K">
 <!ENTITY autoQuote.label                      "Tisik'ïx chik pa ruyonil ri nab'ey rutzijol toq nitzolïx tzij">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Ruma ri',">
-<!ENTITY then.accesskey                       "R">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Toq noyöx,">
 <!ENTITY quoting.accesskey                    "n">

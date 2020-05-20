@@ -54,6 +54,7 @@ close-tab =
     .title = Titz'apïx ruwi'
 show-addon =
     .title = Tik't Kinuk'usamajel taq Tz'aqat
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

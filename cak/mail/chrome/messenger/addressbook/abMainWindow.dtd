@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Titaq jun aninäq rutzijol o chat">
 <!ENTITY deleteButton2.tooltip                          "Tiyuj ri ch'akulal cha'on">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Kiwujil taq Ochochib'äl">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "B'i'aj o Taqoya'l">
 <!ENTITY SearchNameOrEmail.accesskey                    "B">

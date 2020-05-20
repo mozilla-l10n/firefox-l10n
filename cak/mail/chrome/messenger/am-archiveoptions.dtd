@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Taq Rucha'oj Yakb'äl">
 <!ENTITY archiveGranularityPrefix.label "Toq yeyak taq rutzijol, keya' pa:">
 <!ENTITY archiveFlat.label "Jun yonil yakwuj">

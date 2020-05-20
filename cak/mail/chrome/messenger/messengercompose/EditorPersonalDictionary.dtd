@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "t">
 <!ENTITY DictionaryList.label "Taq tzij pa soltzij:">
 <!ENTITY DictionaryList.accessKey "t">
-<!ENTITY ReplaceButton.label "Tijal">
-<!ENTITY ReplaceButton.accessKey "j">
 <!ENTITY RemoveButton.label "Tiyuj">
 <!ENTITY RemoveButton.accessKey "u">
 

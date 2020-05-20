@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Richin naköl rupam ri nimayakb'äl, man taqasaj:">
 <!ENTITY doNotDownloadNntp.label "Richin naköl rupam ri nimayakb'äl, man tiqasäx richin nokisäx toq man atokinäq ta pa k'amaya'l:">
 <!ENTITY doNotDownloadImap.label "Richin niköl rupam ri nimayakb'äl, yeqasäx taq rutzijol k'uxasamaj chuqa' yeyake' aj wawe' taq wachib'enï richin ye'okisäx toq majun okem, nitikïr nuq'ät ruma ojer chik o ruma ri runimilem.">
-<!ENTITY allFoldersOffline.label "Keyake' taq rutzijol re rub'i' taqoya'l re' pa re kematz'ib' re'">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Keyake' taq rutzijol pa konojel ri taq yakwuj richin re rub'i' taqoya'l re' pa re kematz'ib' re'">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Ch'utitzijol: Re jaloj re' yerutz'ilaj konojel ri taq ruyakwuj re rub'i' taqoya'l re'. Richin nab'än kinuk'ulem re taq yakwuj tokisäx ri Q'axinäq… pitz'b'äl.">

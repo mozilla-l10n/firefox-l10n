@@ -9,17 +9,12 @@ about-service-workers-title = Chi kij ri Samajela' pa samaj
 about-service-workers-main-title = Samajela' pa samaj tz'ib'an kib'i'
 about-service-workers-warning-not-enabled = E chupül ri Samajela' pa samaj.
 about-service-workers-warning-no-service-workers = Majun samajela' pa samaj tz'ib'an kib'i'.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Ruxe'el: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Rajilab'al chokoy { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Rub'i' ri kache' tzijïl:</strong> { $name }
 waiting-cache-name = <strong>Rub'i' ri kache' tajin noyob'ëxl:</strong> { $name }
 push-end-point-waiting = <strong>Akuchi' ri nitaq wi:</strong> { waiting }
 push-end-point-result = <strong>Akuchi' ri nitaq wi:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Tik'ex
+
 unregister-button = Tiyuj ri tz'ib'axïk
+
 unregister-error = Man xq'at ta ri rutz'ib'axik re Samajel pa samaj re'.
+
 waiting = Oyob’en…

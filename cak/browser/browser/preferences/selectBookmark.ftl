@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Rucha'ik tikirib'äl ruxaq
     .style = width: 32em;
+
 select-bookmark-desc = Tacha' jun yaketal richin ok rutikirib'al ruxaq a k'amaya'l. We nacha' jun yakwuj, chi kijujunal ri taq yaketal e k'o chupam ri yakwuj xkejaqatäj pa jun ruwi'.

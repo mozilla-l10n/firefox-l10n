@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Taq Wachib'enïk &amp; taq Yakwuj">
 <!ENTITY sendingPrefix.label "Toq yetaq taq rutzijol, pa kiyonil: ">
 <!ENTITY fccMailFolder.label "Tiya' jun wachib'enïk pa:">

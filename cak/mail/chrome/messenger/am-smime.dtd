@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Najowäx (man tikirel ta nitaq ri rutzijo man ke ta ri' we konojel ri k'ulunela' k'o kiqitzijib'al)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Tokisäx re iqitzijib'äl re' richin newäx kisik'ixik &amp; netamäx kisik'ixik ri taq rutzijol yetaq pe chi re:">
+
 <!ENTITY digitalSign.certificate.button "Ticha'…">
 <!ENTITY digitalSign.certificate.accesskey "c">
 <!ENTITY digitalSign.certificate_clear.button "Tijosq'ïx">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Ticha' Ruwujil B'i'aj">
 <!ENTITY certPicker.info  "Ruwujil rub'i':">
 <!ENTITY certPicker.detailsLabel "Cha'on kib'anikil ruwujil b'i'aj:">
+

@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Nitikïr ri Rusamaj K\&apos;ojlib\&apos;äl">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Kiyonil nikik\&apos;ëx kiwäch">
-<!ENTITY pref_update_autodownload_wifi "Xa xe pa MeK\&apos;am">
-<!ENTITY pref_update_autodownload_never "Majub\&apos;ey">
-<!ENTITY pref_update_autodownload_always "Junelïk">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "To\&apos;ïk">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Taq yak\&apos;etal chuqa\&apos; natab\&apos;äl">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "K\&apos;o ruk\&apos;exoj ri &brandShortName;">
-<!ENTITY updater_start_select2 "Tachapa\&apos; qa richin naqasaj">
-
-<!ENTITY updater_downloading_title2 "Tajin niqasäx &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Man xtikïr ta xuqasaj">
-<!ENTITY updater_downloading_select2 "Tachapa\&apos; richin rusamajixik toq xqasäx yan qa">
-<!ENTITY updater_downloading_retry2 "Tachapa\&apos; richin nitojtob\&apos;ëx chik">
-
-<!ENTITY updater_apply_title3 "Xqasäx ri ruk\&apos;exoj &brandShortName;">
-<!ENTITY updater_apply_select3 "Tachapa\&apos; qa richin nayäk qa chupam">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Richin yeqasäx taq yakb\&apos;äl chuqa\&apos; taq k\&apos;exoj ruwäch, ütz tab\&apos;ana\&apos; chi re ri ruya\&apos;ik q\&apos;ij richin yatok pa ruyakb\&apos;al &brandShortName;.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Tiya\&apos; q\&apos;ij">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "K\&apos;ak\&apos;a\&apos; kimoloj peyonela\&apos;">
 <!ENTITY exit_guest_session "Tel el pa ri moloj kichin peyonela\&apos;">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "K\&apos;oxom chuqa\&apos; silowäch">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; taq pixa\&apos; chuqa\&apos; taq q\&apos;oloj">
-<!ENTITY updater_notification_channel "Taq ruk\&apos;exoj chokoy">
 <!ENTITY synced_tabs_notification_channel "Ximon taq ruwi\&apos;">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "Tinik'öx we e k'o k'ak'a' taq cholna'oj toq nitikirisäx qa">
-<!ENTITY loginAtStartup.accesskey      "T">
 <!ENTITY biffAll.label                 "Titzij taq kik'exoj konojel ri taq q'asab'äl">
 <!ENTITY biffAll.accesskey             "t">
 

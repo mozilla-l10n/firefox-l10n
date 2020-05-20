@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "K">
 
 <!ENTITY importButton.label         "Tijik' pe…">
+
 <!ENTITY importButton.tooltip       "Tijik' pe chuqa' titz'aqatisäx jun rub'anikil ruxaq ri wuj">
 <!ENTITY importButton.accesskey     "T">
 
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "T">
 
 <!ENTITY optionsButton.tooltip      "Taq rucha'oj ri kinuk'unel b'anikil">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "Kek'ut pe ri qitzij taq ruxe'el">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "k">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "Tik'ut pe ri @q'ojom ruk'ajtz'ik xikinaj ">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "q">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->

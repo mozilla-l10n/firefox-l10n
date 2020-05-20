@@ -4,6 +4,8 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Keqasäx chuqa' Kekomonïx taq Tzijol">
 <!ENTITY MsgSelect.label "Taq ch'akulal richin Nokisäx toq Majun Okem">
 <!ENTITY MsgSyncDesc.label "We xe'acha' yan ri kiyakwuj taqoya'l o kimolaj tzijol rik'in majun okem, yatikïr ye'aqasaj chuqa'/o ye'axïm wakami. We mani, taqokisaj ri &quot;Ticha'&quot; pitz'b'äl richin ye'acha' ri kiyakwuj taqoya'l chuqa' kimolaj tzijol nawajo' nawokisaj rik'in majun okem.">

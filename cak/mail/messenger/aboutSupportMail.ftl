@@ -14,4 +14,5 @@ accounts-conn-security = Rujikomal okem
 accounts-auth-method = Rub'eyal jikib'axik:
 accounts-default = ¿La kan k'o wi?
 identity-name = B'anikil
+
 send-via-email = Titaq rik'in taqoya'l

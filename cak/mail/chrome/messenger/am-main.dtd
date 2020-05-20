@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Kinuk'ulem Rub'i' Taqoya'l">
 <!ENTITY accountName.label "Rub'i' Taqoya'l:">
 <!ENTITY accountName.accesskey "b">

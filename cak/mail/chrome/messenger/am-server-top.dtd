@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "y">
 <!ENTITY downloadOnBiff.label "Kiyon keqasäx k'ak'a' taq rutzijol">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY username.label "Rub'i' ri Ataqoya'l">
 <!ENTITY deleteMessagePrefix.label "Toq ninyüj el jun rutzijol:">
 <!ENTITY modelMoveToTrash.label "Tisilöx pa re yakwuj re':">
 <!ENTITY modelMoveToTrash.accesskey "s">

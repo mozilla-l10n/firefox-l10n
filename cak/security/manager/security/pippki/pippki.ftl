@@ -8,6 +8,7 @@ password-quality-meter = Retanel rutzil ri ewan tzij
 
 change-password-window =
     .title = Tijal ajtij ewan tzij
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Okisaxel richin jikomal: { $tokenName }
