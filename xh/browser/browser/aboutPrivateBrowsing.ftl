@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Funda okungakumbi<a data-l10n-name="learn-more">Ukubhrawuza Kwangasese</a>.
 about-private-browsing-info-visited = amaphepha atyelelweyo
+
 privatebrowsingpage-open-private-window-label = Vula ifestile yangasese
     .accesskey = i
 about-private-browsing-info-notsaved = Xa ubhrawza kwiFestile yaNgasese, u{ -brand-short-name } <strong>akagcini</strong>:
@@ -17,3 +18,4 @@ about-private-browsing-info-cookies = iikuki
 tracking-protection-start-tour = Bona indlela okusebenza ngayo oku
 about-private-browsing-note = Ukubhrawuza Kwangasese<strong>akukwenzi ungaziwa igama lakho</strong>kwi-intanethi. Umqeshi wakho okanye umnikezeli wakho we-Intanethi useza kuwazi amaphepha owatyelelayo.
 about-private-browsing-not-private = Awukho kwifestile yangasese okwangoku.
+

@@ -35,16 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY AdvancedEditButton.label "Hlela Okukwinqanaba Eliphambili...">
 <!ENTITY AdvancedEditButton.accessKey "O">
 <!ENTITY AdvancedEditButton.tooltip "Fakela okanye hlengahlengisa iimpawu zoyelelwano lwe-HTML, iimpawu zoyelelwano lwesimbo, neJavaScript">
-<!ENTITY chooseButton.label "Khetha Ifayili...">
-<!ENTITY chooseFile.accessKey "F">
-<!ENTITY chooseFileLink.accessKey "h">
 <!ENTITY makeUrlRelative.label "I-URL inokuthelekiswa nendawo yekhasi">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Khetha phakathi kokunokuthelekiswa nokungathandabuzekiyo kwe-URL. Qala ngokugcina eli khasi ukuze uguqule oku.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Ngenisa indawo yekhasi lothungelwano, ifayili yalapho, okanye khetha Iankile Enikwe Igama okanye Isihloko esikhulu kuludwe oluzivelelayo:">
-<!ENTITY LinkURLEditField.accessKey "L">

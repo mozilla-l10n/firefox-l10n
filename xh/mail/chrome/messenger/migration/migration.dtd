@@ -12,12 +12,8 @@
 <!ENTITY importFromNothing.accesskey    "M">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "i-Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "i-Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "i-Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Thatha Ngaphandle Imimiselo Neziqulathi Zeefayili Ezivela">
 <!ENTITY importItems.title              "Amanqaku afanele Ukuthathwa Ngaphandle">

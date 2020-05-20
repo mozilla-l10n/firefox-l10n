@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Dwelisa Iinkcazelo Ngeempawu">
 
 <!ENTITY ListType.label "Dwelisa Isimbo">
@@ -47,7 +52,6 @@
 <!ENTITY bulletList.value "Uludwe Lweembumbulu (Olungenazinombolo)">
 <!ENTITY numberList.value "Uludwe Oluneenombolo">
 <!ENTITY definitionList.value "Uludwe Lwenkcazelo">
-<!ENTITY changeListMsg.label "Xa kuguqulwa isimbo sodweliso:">
 <!ENTITY changeEntireListRadio.label "Guqula uludwe luphelele">
 <!ENTITY changeEntireListRadio.accessKey "G">
 <!ENTITY changeSelectedRadio.label "Guqula nje amanqaku akhethiweyo">

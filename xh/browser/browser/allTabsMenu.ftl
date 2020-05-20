@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Rhoxisa ukuvala ithebhu
+
 all-tabs-menu-new-user-context =
     .label = Ithebhu Entsha Neyekhonteyina
+

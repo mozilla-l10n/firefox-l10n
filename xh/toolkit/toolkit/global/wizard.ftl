@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Emva
     .accesskey = E
+
 wizard-macos-button-next =
     .label = Qhuba
     .accesskey = Q
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Okulandelayo >
     .accesskey = O
+
 wizard-macos-button-finish =
     .label = Kwenziwe
 wizard-linux-button-finish =
     .label = Gqiba
 wizard-win-button-finish =
     .label = Gqiba
+
 wizard-macos-button-cancel =
     .label = Rhoxisa
 wizard-linux-button-cancel =

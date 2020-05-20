@@ -48,6 +48,7 @@ import =
 close-button =
     .label = Vala
     .accesskey = V
+
 show-passwords =
     .label = Bonisa Amagama Okugqithisa
     .accesskey = P

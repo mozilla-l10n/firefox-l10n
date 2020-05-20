@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Iifonti
+
 fonts-window-close =
     .key = w
 
@@ -75,8 +76,10 @@ fonts-default-serif =
     .label = Iserifu
 fonts-default-sans-serif =
     .label = I-sans serif
+
 fonts-minsize-none =
     .label = Akukho
+
 fonts-allow-own =
     .label = Vumela amaphepha akhethe iifonti zawo, endaweni yokhetho lwakho olungentla
     .accesskey = V
@@ -88,6 +91,7 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Ukufaka Ikhowudi kuMabinzana ngeNjongo yokuQulethweyo okuDluliswayo
 fonts-languages-fallback-desc = Oku kufaka ikhowudi kumbhalo kusetyenziselwa okuluqulethweyo okoyisakalyo ukubhengeza ukufakwa kako ikhowudi.
+
 fonts-languages-fallback-name-auto =
     .label = Esisiseko yeNdawo okuyo Ngoku
 fonts-languages-fallback-name-arabic =
@@ -120,9 +124,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = IsiVietnamese
 fonts-languages-fallback-name-other =
     .label = Olunye (oluquki. EyeNtshona Yurophu)
-fonts-very-large-warning-title = Ubuncinane isayizi enefonti enkulu
-fonts-very-large-warning-message = Ukhethe ubuncinane isayizi enefonti enkulu (ngaphezulu kwama-24 yee-pixels). Oku kungenza kubenzima okanye kungenzeki ukuba kisetyenziswe amanye amaphepha abalulekileyo okungqamanisa afana neli.
-fonts-very-large-warning-accept = Zigcine iinguqu zam nakanjanina
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

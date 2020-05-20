@@ -34,6 +34,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -41,7 +45,6 @@
 <!ENTITY windowTitle.label "Iinkcazelo Ngeempawu Zomfuziselo">
 
 <!ENTITY pixelsPopup.value "amachokoza eskrinini">
-<!ENTITY percentPopup.value "ipesenti">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "Indawo Okuyo Umfuziselo:">
@@ -57,7 +60,7 @@
 <!ENTITY noAltText.accessKey "M">
 
 <!ENTITY previewBox.label "Jonga Phambi Koshicilelo Lomfuziselo">
-<!ENTITY MoreFewerButton.tooltip "Bonisa iinkcazelo ngeempawu ezithe chatha okanye ezimbalwa ukuze kuhlelwe">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -80,8 +83,6 @@
 <!ENTITY imagemapBox.label "Imephu Yomfuziselo">
 <!ENTITY removeImageMapButton.label "Susa">
 <!ENTITY removeImageMapButton.accessKey "S">
-<!ENTITY editImageMapButton.label "Hlela...">
-<!ENTITY editImageMapButton.tooltip "Yila iindawo ezingumtsalane ekunokunqomfwa kuzo ngalo mfuziselo">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "Lungelelanisa Isiqendu Kumfuziselo">
@@ -93,7 +94,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Izikhewu ezahlukanisayo">
-<!ENTITY spacingBox.tooltip "Chwetheza inani lesixa sesithuba esijikeleze umfuziselo">
 <!ENTITY leftRightEditField.label "Ekhohlo Nasekunene:">
 <!ENTITY leftRightEditField.accessKey "E">
 <!ENTITY topBottomEditField.label "Ngaphezulu Nasemazantsi:">
@@ -106,10 +106,6 @@
 <!ENTITY showImageLinkBorder.accessKey "U">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "Yenza Okungasemva Eskrinini Kwekhasi">
-<!ENTITY makePageBackgroundCheckbox.tooltip "Sebenzisa umfuziselo njengokungasemva eskrinini malunga nekhasi lakho">
-<!ENTITY editImageButton.label "Hlela Umfuziselo">
-<!ENTITY editImageButton.tooltip "Hlela ifayili yomfuziselo kwenye inkqubo">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "Ifom">

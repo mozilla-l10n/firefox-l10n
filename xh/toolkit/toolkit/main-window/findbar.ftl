@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Fumanisa isenzeko esilandelayo sebinzana lamagama
 findbar-previous =
     .tooltiptext = Fumanisa isenzeko sangaphambili sebinzana lamagama
+
 findbar-find-button-close =
     .tooltiptext = Vala ibha yokufumana
-findbar-highlight-all =
-    .label = Balaselisa Zonke
-    .accesskey = a
-    .tooltiptext = Qaqambisa zonke izenzeko zebinza
+
 findbar-case-sensitive =
     .label = Ngqamanisa unobumba
     .accesskey = n
     .tooltiptext = Khangela ngokoonobumba
+
 findbar-entire-word =
     .label = Amagama Apheleleyo
     .accesskey = A

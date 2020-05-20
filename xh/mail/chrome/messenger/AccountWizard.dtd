@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 
 <!ENTITY windowTitle.label "Umncedisi Weeakhawunti">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
 <!-- Entities for Account Type page -->
 
 
@@ -17,6 +19,7 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Iakhawunti yeqela leendaba">
 <!ENTITY accountTypeNews.accesskey "q">
+
 <!-- Entities for Identity page -->
 
 
@@ -35,6 +38,7 @@
 
 <!ENTITY emailLabel.label "Idilesi Yemeyile:">
 <!ENTITY emailLabel.accesskey "I">
+
 <!-- Entities for Incoming Server page -->
 
 
@@ -64,6 +68,7 @@
 <!ENTITY newsServerNameDesc.label "Ngenisa igama leseva yakho yeendaba (NNTP) (umzekelo, i-&quot;iindaba.umzekelo.net&quot;).">
 <!ENTITY newsServerLabel.label "Iseva Yeqela Leendaba:">
 <!ENTITY newsServerLabel.accesskey "I">
+
 <!-- Entities for Outgoing Server page -->
 
 
@@ -98,6 +103,7 @@
 -->
 <!ENTITY haveSmtp3.prefix "Iseva yakho ekhutshwayo (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
+
 <!-- Entities for Account name page -->
 
 
@@ -106,6 +112,7 @@
 <!ENTITY accnameDesc.label "Ngenisa igama othanda ukuba ubhekiselele kule akhawunti ngalo (umzekelo, &quot;Iakhawunti Yomsebenzi&quot;, &quot;Iakhawunti Yasekhaya&quot; or &quot;Iakhawunti Yeendaba&quot;).">
 <!ENTITY accnameLabel.label "Igama Leakhawunti:">
 <!ENTITY accnameLabel.accesskey "L">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Jonga inkcazelo yesayithi
 
@@ -58,10 +59,12 @@ urlbar-screen-blocked =
     .tooltiptext = Uyibhlokile le webhusayithi ekwabelaneni ngesikrini sakho.
 urlbar-persistent-storage-blocked =
     .tooltiptext = Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Hlela le bhukhmakhi ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -87,6 +90,7 @@ search-one-offs-change-settings-button =
     .label = Tshintsha iisethingi zokukhangela
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tshintsha iisethingi zokukhangela
+
 search-one-offs-context-open-new-tab =
     .label = Khangela KweNtsha Nethebhu
     .accesskey = T
@@ -165,9 +169,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Ibhrawza iphantsi kolawulo lwerimoti
 urlbar-switch-to-tab =
     .value = Tshintshela kwithebhu:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Izolulo
+
 urlbar-go-button =
     .tooltiptext = Yiya kwidilesi kwibha yendawo
 urlbar-page-action-button =

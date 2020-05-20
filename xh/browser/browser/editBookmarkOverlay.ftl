@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Igama:
     .accesskey = I
+
 bookmark-overlay-location =
     .value = Indawo:
     .accesskey = I
+
 bookmark-overlay-folder =
     .value = Ifolda:
+
 bookmark-overlay-choose =
     .label = Khetha…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Bonisa zonke iifolda zeebhukhmakhi
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Fihla
+
 bookmark-overlay-new-folder-button =
     .label = Isiqulathi Seefayili Esitsha
     .accesskey = i
+
 bookmark-overlay-tags =
     .value = Iithegi:
     .accesskey = I
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Yahlula iithegi ngeekhoma
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Bonisa zonke iithegi
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Fihla
+
 bookmark-overlay-keyword =
     .value = Igama eliphambili:
     .accesskey = I

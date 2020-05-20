@@ -13,11 +13,14 @@ config-about-warning-title =
 config-about-warning-text = Ukutshintha ezi setingi eziqhubele phambili zingaba yingozi ekuzinzeni, kukhuseleko nokusebenza kwale aplikheshini. Kufuneka uqhubeke kuphela ukuba uqinisekile ngento oyenzayo.
 config-about-warning-checkbox =
     .label = Bonisa esi silumkiso kwixesha elizayo
+
 config-search-prefs =
     .value = Khangela:
     .accesskey = n
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -45,44 +48,59 @@ config-copy-pref =
     .key = C
     .label = Kopa
     .accesskey = K
+
 config-copy-name =
     .label = Kopa Negama
     .accesskey = N
+
 config-copy-value =
     .label = Kopa Ixabiso
     .accesskey = I
+
 config-modify =
     .label = Hlengahlengisa
     .accesskey = H
+
 config-toggle =
     .label = Isixhobo esitshintshwa ngokufanayo
     .accesskey = I
+
 config-reset =
     .label = Phinda umisele
     .accesskey = P
+
 config-new =
     .label = Okutsha
     .accesskey = t
+
 config-string =
     .label = Umtya
     .accesskey = U
+
 config-integer =
     .label = Inani elipheleleyo
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = okuhlala kukho
 config-locked = okutshixiweyo
+
 config-property-string = umtya
 config-property-int = inani elipheleleyo
 config-property-bool = i-boolean
+
 config-new-prompt = Ngenisa igama lesikhethwa
+
 config-nan-title = Ixabiso elingasebenziyo
 config-nan-text = Umbhalo owufakileyo awulonani.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Ixabiso le-{ $type } elitsha
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Ngenisa ixabiso le-{ $type }

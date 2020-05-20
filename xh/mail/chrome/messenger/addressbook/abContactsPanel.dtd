@@ -4,20 +4,17 @@
 
 <!ENTITY addressbookPicker.label            "Incwadi Yeedilesi:">
 <!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "Kuzingelwa Oku:">
-<!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Igama okanye Imeyile">
 
-<!ENTITY deleteAddrBookCard.label           "Delete">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
-<!ENTITY addrBookCardProperties.label       "Properties">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Fakela ku-Kummandla">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Fakela kummandla we-Cc">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Fakela kummandla we-Bcc">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+
+<!ENTITY deleteAddrBookCard.label           "Delete">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 
 <!ENTITY toButton.label                     "Fakela ku-Kwi:">
 <!ENTITY toButton.accesskey                 "A">

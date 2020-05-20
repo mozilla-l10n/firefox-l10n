@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Uzingelo Lwencwadi Yeedilesi Ekwinqanaba Eliphambili">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Umtya">
-<!ENTITY fromColumn.label "From">
-<!ENTITY recipientColumn.label "Umamkeli">
-<!ENTITY correspondentColumn.label "Correspondents">
-<!ENTITY subjectColumn.label "Intloko">
-<!ENTITY dateColumn.label "Umhla">
-<!ENTITY priorityColumn.label "Ngokokubaluleka">
-<!ENTITY tagsColumn.label "Tags">
-<!ENTITY accountColumn.label "Iakhawunti">
-<!ENTITY statusColumn.label "Isimo">
-<!ENTITY sizeColumn.label "Ubukhulu">
-<!ENTITY junkStatusColumn.label "Isimo Sengxubevange">
-<!ENTITY unreadColumn.label "Akufundwanga">
-<!ENTITY totalColumn.label "Isixa esipheleleyo">
-<!ENTITY readColumn.label "Funda">
-<!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "Starred">
-<!ENTITY locationColumn.label "Indawo">
-<!ENTITY idColumn.label "Ulandelelwano Olwamkelweyo">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Select columns to display">
-<!ENTITY threadColumn2.tooltip "Display message threads">
-<!ENTITY fromColumn2.tooltip "Sort by from">
-<!ENTITY recipientColumn2.tooltip "Sort by recipient">
-<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
-<!ENTITY subjectColumn2.tooltip "Sort by subject">
-<!ENTITY dateColumn2.tooltip "Sort by date">
-<!ENTITY priorityColumn2.tooltip "Sort by priority">
-<!ENTITY tagsColumn2.tooltip "Sort by tags">
-<!ENTITY accountColumn2.tooltip "Sort by account">
-<!ENTITY statusColumn2.tooltip "Sort by status">
-<!ENTITY sizeColumn2.tooltip "Sort by size">
-<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
-<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
-<!ENTITY readColumn2.tooltip "Sort by read">
-<!ENTITY receivedColumn2.tooltip "Sort by date received">
-<!ENTITY starredColumn2.tooltip "Sort by star">
-<!ENTITY locationColumn2.tooltip "Sort by location">
-<!ENTITY idColumn2.tooltip "Sort by order received">

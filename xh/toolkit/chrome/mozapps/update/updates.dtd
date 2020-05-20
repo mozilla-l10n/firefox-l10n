@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Uhlaziyo olungaphelelanga alukwazanga ukusetyenziswa. kwe-&brandShortName; iya kuzama kwakhona ukukhuphela uHlaziyo olupheleleyo.">
 
 <!ENTITY  genericBackgroundError.label    "I-&brandShortName; ayikwazi ukumisela ukuba ingaba kukho uhlaziyo olufumanekayo na. Nceda uqinisekise ukuba unalo uguqulelo lwakutshanje lwe-&brandShortName; olusuka:">
-
+                                           
 <!ENTITY  finishedPage.title              "Uhlaziyo luKulungele ukuFakela">
 <!ENTITY  finishedPage.text               "Uhlaziyo luya kufakelwa kwixesha elizayo i-&brandShortName; iqalisa. Wena ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Uhlaziyo luya kufakelwa kwixesha elizayo xa i-&brandShortName; iqalisa. Wena ungaphinda uyiqalise i-&brandShortName; ngoku, okanye qhubeka nokusebenza nokuqalisa ngokutsha kamva.">
 <!ENTITY  finishedBackground.moreElevated "Olu hlaziyo lufuna amalungelo omlawuli. Olu hlaziyo luya kufakwa xa i-&brandShortName; iphinda iqala. Ungaphinda uqale i&brandShortName; ngoku, qhubeka uphinde uqale ngelinye ixesha okanye ukhabe olu hlaziyo.">
 
-<!ENTITY  update.details.label            "Iinkcukacha">
-<!ENTITY  update.installedOn.label        "Lufakelwe ngo-:">
-<!ENTITY  update.status.label             "Ubume:">

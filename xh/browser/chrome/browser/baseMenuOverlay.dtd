@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Uncedo"> 
 <!ENTITY helpMenuWin.accesskey    "U">
+
 <!ENTITY aboutProduct2.label      "Malunga ne-&brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "M">
 <!ENTITY productHelp2.label       "I-&brandShorterName; uncedo">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "Q">
 <!ENTITY helpSafeMode.stop.label       "Qalisa kwakhona izongezelelo ziqhwalelisiwe…">
 <!ENTITY helpSafeMode.stop.accesskey   "Q">
-
-<!ENTITY healthReport2.label      "I-&brandShorterName; ingxelo yempilo">
-<!ENTITY healthReport2.accesskey  "p">
 
 <!ENTITY helpTroubleshootingInfo.label      "Inkcazelo yesisombululi-ngxaki">
 <!ENTITY helpTroubleshootingInfo.accesskey  "I">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Bonisa Konke">
+

@@ -103,6 +103,7 @@ print-window =
     .title = Kuyashicilelwa
 print-complete =
     .value = Ukushicilela Kugqityiwe.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =
