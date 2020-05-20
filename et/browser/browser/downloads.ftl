@@ -18,6 +18,7 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 70ch
+
 downloads-cmd-pause =
     .label = Paus
     .accesskey = P
@@ -28,20 +29,24 @@ downloads-cmd-cancel =
     .tooltiptext = Katkesta
 downloads-cmd-cancel-panel =
     .aria-label = Katkesta
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Ava faili sisaldav kaust
     .accesskey = A
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Näita Finderis
     .accesskey = F
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Näita Finderis
            *[other] Ava faili sisaldav kaust
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -54,6 +59,7 @@ downloads-cmd-show-description =
             [macos] Näita Finderis
            *[other] Ava faili sisaldav kaust
         }
+
 downloads-cmd-show-downloads =
     .label = Kuva allalaadimiste kausta
 downloads-cmd-retry =
@@ -75,62 +81,78 @@ downloads-cmd-clear-list =
 downloads-cmd-clear-downloads =
     .label = Puhasta allalaadimiste nimekiri
     .accesskey = u
+
 # This command is shown in the context menu when downloads are blocked.
 downloads-cmd-unblock =
     .label = Luba allalaadimine
     .accesskey = L
+
 # This is the tooltip of the action button shown when malware is blocked.
 downloads-cmd-remove-file =
     .tooltiptext = Kustuta fail
+
 downloads-cmd-remove-file-panel =
     .aria-label = Kustuta fail
+
 # This is the tooltip of the action button shown when potentially unwanted
 # downloads are blocked. This opens a dialog where the user can choose
 # whether to unblock or remove the download. Removing is the default option.
 downloads-cmd-choose-unblock =
     .tooltiptext = Kustuta fail või luba allalaadimine
+
 downloads-cmd-choose-unblock-panel =
     .aria-label = Kustuta fail või luba allalaadimine
+
 # This is the tooltip of the action button shown when uncommon downloads are
 # blocked.This opens a dialog where the user can choose whether to open the
 # file or remove the download. Opening is the default option.
 downloads-cmd-choose-open =
     .tooltiptext = Ava või kustuta fail
+
 downloads-cmd-choose-open-panel =
     .aria-label = Ava või kustuta fail
+
 # Displayed when hovering a blocked download, indicates that it's possible to
 # show more information for user to take the next action.
 downloads-show-more-information =
     .value = Kuva rohkem teavet
+
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Ava fail
+
 # Displayed when hovering a download which is able to be retried by users,
 # indicates that it's possible to download this file again.
 downloads-retry-download =
     .value = Proovi uuesti alla laadida
+
 # Displayed when hovering a download which is able to be cancelled by users,
 # indicates that it's possible to cancel and stop the download.
 downloads-cancel-download =
     .value = Katkesta allalaadimine
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Kuva kõiki allalaadimisi
     .accesskey = v
+
 # This string is shown at the top of the Download Details Panel, to indicate
 # that we are showing the details of a single download.
 downloads-details =
     .title = Allalaadimise detailid
+
 downloads-clear-downloads-button =
     .label = Puhasta allalaadimiste nimekiri
     .tooltiptext = Eemalda lõpetatud, katkestatud ja ebaõnnestunud allalaadimised nimekirjast
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Allalaadimised puuduvad.
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = Selle seansi jooksul pole midagi alla laaditud.

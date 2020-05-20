@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Täida kasutajakonto andmetega">
 <!ENTITY fillLoginMenu.accesskey      "T">
-<!ENTITY fillSuggestedPassword.label  "Kasuta soovitatud parooli">
-<!ENTITY fillSuggestedPassword.accesskey "p">
-<!ENTITY fillGeneratedPassword.label  "Kasuta turvaliselt genereeritud parooli">
-<!ENTITY fillGeneratedPassword.accesskey "g">
 <!ENTITY fillPasswordMenu.label       "Täida parooliga">
 <!ENTITY fillPasswordMenu.accesskey   "T">
 <!ENTITY fillUsernameMenu.label       "Täida kasutajanimega">

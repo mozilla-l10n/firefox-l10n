@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "nõutud (kirja pole võimalik saata, kui kõigil vastuvõtjatel ei ole sertifikaate)">
 <!ENTITY alwaysEncryptMessage.accesskey "n">
 <!ENTITY encryptionCert.message "Kirjade krüptimiseks ja dekrüptimiseks kasutatakse järgmist sertifikaati:">
+
 <!ENTITY digitalSign.certificate.button "Vali...">
 <!ENTITY digitalSign.certificate.accesskey "V">
 <!ENTITY digitalSign.certificate_clear.button "Puhasta">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Sertifikaadi valimine">
 <!ENTITY certPicker.info  "Sertifikaat:">
 <!ENTITY certPicker.detailsLabel "Valitud sertifikaadi üksikasjad:">
+

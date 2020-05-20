@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Konto sätted">
 <!ENTITY accountName.label "Konto nimi:">
 <!ENTITY accountName.accesskey "n">

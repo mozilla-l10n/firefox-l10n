@@ -6,4 +6,5 @@ restart-required-title = On aeg taaskäivitada brauser
 restart-required-header = Vabandust. Meil on lihtsalt vaja tegevuse jätkamiseks üks väike asi ära teha.
 restart-required-intro-brand = { -brand-short-name }i uuendati taustal. Uuenduse lõpuleviimiseks klõpsa Taaskäivita { -brand-short-name }.
 restart-required-description = Kõik sinu avatud lehed, aknad ja kaardid taastatakse, et saaksid kiirelt tagasi oma tegevuste juurde.
+
 restart-button-label = Taaskäivita { -brand-short-name }

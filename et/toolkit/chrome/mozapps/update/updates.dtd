@@ -54,7 +54,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName;il ei õnnestu uuenduse olemasolu tuvastada. Palun
                                            kontrolli järgnevalt aadressilt, et kasutusel oleks viimane versioon &brandShortName;ist:">
-
+                                           
 <!ENTITY  finishedPage.title              "Uuendus on paigaldamiseks valmis">
 <!ENTITY  finishedPage.text               "Uuendus paigaldatakse järgmisel &brandShortName;i käivitumisel. Sa võid
                                           taaskäivitada &brandShortName;i kohe või jätkata tööd ning taaskäivitada hiljem.">
@@ -70,6 +70,3 @@
                                            &brandShortName;i kohe, jätkata tööd ning taaskäivitada hiljem, või keelduda sellest
                                            uuendusest.">
 
-<!ENTITY  update.details.label            "Üksikasjad">
-<!ENTITY  update.installedOn.label        "Paigaldatud:">
-<!ENTITY  update.status.label             "Olek:">

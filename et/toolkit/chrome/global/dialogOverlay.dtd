@@ -6,6 +6,8 @@
 
 <!-- OK Cancel Buttons -->
 
+<!-- WARNING!!! This file is obsoleted by the dialog.xml widget -->
+
 <!ENTITY okButton.label "Sobib">
 <!ENTITY cancelButton.label "Loobu">
 <!ENTITY helpButton.label "Abi">

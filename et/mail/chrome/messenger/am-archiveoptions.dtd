@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label              "Arhiivi sätted">
 <!ENTITY archiveGranularityPrefix.label "Kirjade arhiveerimisel paigutatakse need:">
 <!ENTITY archiveFlat.label              "samasse kausta">

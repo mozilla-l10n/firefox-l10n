@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Pilt-pildis
+
 pictureinpicture-pause =
     .aria-label = Paus
 pictureinpicture-play =
     .aria-label = Esita
+
 pictureinpicture-mute =
     .aria-label = Summutatud
 pictureinpicture-unmute =
     .aria-label = Summutus maha
+

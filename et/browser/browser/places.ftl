@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Ava uues privaatses aknas
     .accesskey = p
+
 places-new-bookmark =
     .label = Uus järjehoidja…
     .accesskey = j
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Uus eraldaja
     .accesskey = d
+
 places-view =
     .label = Näita
     .accesskey = N
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Kuupäeva ja veebilehe järgi
     .accesskey = e
+
 places-history-search =
     .placeholder = Otsi ajaloost
 places-bookmarks-search =
     .placeholder = Otsi järjehoidjatest
+
 places-delete-domain-data =
     .label = Unusta selle lehe info
     .accesskey = U

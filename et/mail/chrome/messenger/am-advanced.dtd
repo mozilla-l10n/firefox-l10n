@@ -3,6 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from am-advanced.xul -->
+
+<!-- extracted from am-advanced.xhtml -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label              "Väljuva e-posti (SMTP) serveri sätted">
 

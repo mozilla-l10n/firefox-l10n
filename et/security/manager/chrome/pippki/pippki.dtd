@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Uus sertifitseerimiskeskus (SK) palub end tunnustada.">
 <!ENTITY downloadCert.trustSSL "Usalda seda SK-d veebilehtede tuvastamisel.">
 <!ENTITY downloadCert.trustEmail "Usalda seda SK-d e-posti kasutajate tuvastamisel.">
-<!ENTITY downloadCert.trustObjSign "Usalda seda SK-d tarkvara arendajate tuvastamisel.">
 <!ENTITY downloadCert.message3 "Enne SK tunnustamist ükskõik mis otstarbel oleks mõistlik uurida tema sertifikaati ning reegleid ja protseduure (kui need on saadaval).">
 <!ENTITY downloadCert.viewCert.label "Vaata">
 <!ENTITY downloadCert.viewCert.text "SK sertifikaadi uurimine">

@@ -72,6 +72,7 @@ certificate-viewer-authority-info-aia = SK info (AIA)
 certificate-viewer-certificate-policies = Sertifikaadi reeglid
 certificate-viewer-embedded-scts = Manustatud SCTd
 certificate-viewer-crl-endpoints = CRLi aadressid
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Laadi alla
@@ -91,3 +92,6 @@ certificate-viewer-download-pem = PEM (sert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ahel)
     .download = { $fileName }-ahel.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+

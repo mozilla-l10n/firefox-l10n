@@ -25,13 +25,13 @@
 <!ENTITY filter2.label      "Filtreeri:">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label      "Kopeeri">
-<!ENTITY copyCmd.accesskey  "K">
-<!ENTITY copyCmd.commandkey "C">
+<!ENTITY copyCmd.label      "Kopeeri">  
+<!ENTITY copyCmd.accesskey  "K"> 
+<!ENTITY copyCmd.commandkey "C"> 
 <!ENTITY sortFirst.label    "Järjekord: Esimene > Viimane">
 <!ENTITY sortFirst.accesskey "e">
 <!ENTITY sortLast.label     "Järjekord: Viimane > Esimene">
 <!ENTITY sortLast.accesskey "J">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey  "l">
-<!ENTITY focus2.commandkey  "d">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey  "l">  
+<!ENTITY focus2.commandkey  "d">  

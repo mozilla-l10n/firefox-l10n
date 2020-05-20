@@ -4,6 +4,10 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label    "Kirjade allalaadimine ja sünkroniseerimine">
 <!ENTITY MsgSelect.label         "Võrguta režiimis kasutatavad asjad">
 <!ENTITY MsgSyncDesc.label       "Kui oled juba valinud e-posti kaustad ja uudistegrupid võrguta režiimis kasutamiseks, siis võid need nüüd alla laadida ja/või sünkroniseerida. Muul juhul kasuta nuppu &quot;Vali&quot;, et valida e-posti kaustad ja uudistegrupid, mida võrguta režiimis kasutada.">

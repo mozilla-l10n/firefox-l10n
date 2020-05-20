@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label            "Aadressiraamat:">
 <!ENTITY editContactAddressBook.accesskey        "A">
 
-<!ENTITY editContactPanelCancel.label            "Loobu">
-<!ENTITY editContactPanelCancel.accesskey        "L">
-
 <!ENTITY editContactPanelDone.label              "Valmis">
 <!ENTITY editContactPanelDone.accesskey          "V">
 

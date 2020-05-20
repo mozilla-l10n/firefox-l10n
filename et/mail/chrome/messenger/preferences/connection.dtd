@@ -38,12 +38,12 @@
 <!ENTITY  noproxy.label                 "Erandid: ">
 <!ENTITY  noproxy.accesskey             "d">
 <!ENTITY  noproxyExplain.label          "Näide: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Seda puhverserverit kasutatakse kõigi protokollide puhul">
+<!ENTITY  shareproxy.accesskey          "l">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label   "localhosti, 127.0.0.1 ja ::1 peale suunduvaid ühendusi ei suunata kunagi läbi puhverserveri.">
-<!ENTITY  shareproxy.label              "Seda puhverserverit kasutatakse kõigi protokollide puhul">
-<!ENTITY  shareproxy.accesskey          "l">
 <!ENTITY  autologinproxy.label          "Salvestatud paroolide korral autentimist ei küsita">
 <!ENTITY  autologinproxy.accesskey      "r">
 <!ENTITY  autologinproxy.tooltip        "Selle valiku korral autenditakse sind automaatselt puhverserveritega, mille parool on salvestatud. Parooli küsitakse juhul, kui autentimine ebaõnnestub.">

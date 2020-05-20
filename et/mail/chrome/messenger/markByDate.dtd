@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label   "Kirjad märgitakse loetuks kuupäeva järgi">
 <!ENTITY markByDateLower.label     "Kirjad märgitakse loetuks alates:">
 <!ENTITY markByDateLower.accesskey "l">
-<!ENTITY markByDateUpper.accesskey "K">
 <!ENTITY markByDateUpper.label     "kuni:">
+<!ENTITY markByDateUpper.accesskey "K">

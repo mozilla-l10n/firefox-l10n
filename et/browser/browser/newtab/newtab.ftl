@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Otsi
     .aria-label = Otsi
+
 newtab-search-box-search-the-web-text = Otsi veebist
 newtab-search-box-search-the-web-input =
     .placeholder = Otsi veebist
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Top saidi muutmine
 newtab-topsites-title-label = Pealkiri
 newtab-topsites-title-input =
     .placeholder = Sisesta pealkiri
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Sisesta või aseta URL
 newtab-topsites-url-validation = URL peab olema korrektne
+
 newtab-topsites-image-url-label = Kohandatud pildi URL
 newtab-topsites-use-image-link = Kasuta kohandatud pilti…
 newtab-topsites-image-validation = Pildi laadimine ebaõnnestus. Proovi teistsugust URLi.
@@ -60,6 +63,7 @@ newtab-confirm-delete-history-p2 = Seda tegevust pole võimalik tagasi võtta.
 newtab-menu-section-tooltip =
     .title = Ava menüü
     .aria-label = Ava menüü
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -89,14 +93,11 @@ newtab-menu-show-privacy-info = Meie sponsoritest ja sinu privaatsusest
 
 newtab-privacy-modal-button-done = Valmis
 newtab-privacy-modal-header = Sinu privaatsus on oluline.
-newtab-privacy-modal-paragraph =
-    Lisaks põnevate lugude esiletoomisele kuvame me ka asjakohast ja hoolikalt
-    kontrollitud sisu valitud sponsoritelt. Võid kindel olla, et lehitsemise andmed
-    ei välju sinu { -brand-product-name }ist — meie ei näe neid ja ka meie
-    sponsorid mitte.
 newtab-privacy-modal-link = Rohkem teavet uue kaardi privaatsuse kohta
 
 
+
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Eemalda järjehoidja
@@ -172,10 +173,12 @@ newtab-section-header-pocket = { $provider } soovitab
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Alusta veebilehitsemist ja me näitame siin häid artikleid, videoid ja muid lehti, mida hiljuti külastasid või järjehoidjatesse lisasid.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Vaata hiljem uuesti, et näha parimaid postitusi teenusepakkujalt { $provider }. Ei suuda oodata? Vali populaarne teema, et leida veel suurepärast sisu internetist.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -191,7 +194,6 @@ newtab-discovery-empty-section-topstories-timed-out = Uups! Me peaaegu laadisime
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Populaarsed teemad:
 newtab-pocket-more-recommendations = Rohkem soovitusi
-newtab-pocket-how-it-works = Kuidas see töötab?
 newtab-pocket-cta-button = Hangi { -pocket-brand-name }
 newtab-pocket-cta-text = Salvesta oma lemmiklood { -pocket-brand-name }isse.
 

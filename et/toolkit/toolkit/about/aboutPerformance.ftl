@@ -54,6 +54,7 @@ close-tab =
     .title = Sulge kaart
 show-addon =
     .title = Kuva lisade halduris
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

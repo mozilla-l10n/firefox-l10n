@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Koostamine ja adresseerimine">
 <!ENTITY addressingGroupTitle.label "Adresseerimine">
 <!ENTITY addressingText.label      "Aadresse otsides:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "puudub">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Koostamine">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

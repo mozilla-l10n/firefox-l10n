@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Vaata saidi teavet
 
@@ -79,10 +80,12 @@ urlbar-midi-blocked =
     .tooltiptext = Oled sellel lehel keelanud ligipääsu MIDIle.
 urlbar-install-blocked =
     .tooltiptext = Oled sellel lehel keelanud lisade paigaldamise.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Muuda seda järjehoidjat ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -111,12 +114,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Seekord soorita otsing järgneva otsingumootoriga:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Muuda otsingu sätteid
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Otsingu sätete muutmine
+
 search-one-offs-context-open-new-tab =
     .label = Soorita otsing uuel kaardil
     .accesskey = S
@@ -129,8 +134,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Lisamisel kuvatakse seda dialoogi
     .accesskey = d
+
 bookmark-panel-done-button =
     .label = Sobib
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -216,9 +223,11 @@ urlbar-permissions-granted =
     .tooltiptext = Sa oled taganud sellele saidile täiendavaid õigusi.
 urlbar-switch-to-tab =
     .value = Lülitu kaardile:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laiendus:
+
 urlbar-go-button =
     .tooltiptext = Mine aadressiribal olevale aadressile
 urlbar-page-action-button =
