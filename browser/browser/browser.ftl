@@ -219,8 +219,6 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laiendus:
-urlbar-go-end-cap =
-    .tooltiptext = Mine aadressiribal olevale aadressile
 urlbar-page-action-button =
     .tooltiptext = Lehe toimingud
 urlbar-pocket-button =
