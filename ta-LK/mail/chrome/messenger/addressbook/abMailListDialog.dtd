@@ -3,21 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
 
-<!ENTITY mailListWindow.title "அஞ்சல் பட்டியல்">
 <!-- Labels -->
 <!ENTITY addToAddressBook.label "இங்கே சேர்க்கவும் :">
 
+<!-- Access Keys -->
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label "பட்டியலின் பெயர்: ">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label "புனைபெயரை பட்டியலிடவும்: ">
+<!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.label "விளக்கம்: ">
+<!ENTITY ListDescription.accesskey      "e">
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "அஞ்சல் பட்டியலில் சேர்க்க மின்னஞ்சல் முகவரிகளை தட்டச்சுக:">
 <!ENTITY UpButton.label "மேலே நகர்த்து">
 <!ENTITY DownButton.label "கீழே நகர்த்து">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "e">
 

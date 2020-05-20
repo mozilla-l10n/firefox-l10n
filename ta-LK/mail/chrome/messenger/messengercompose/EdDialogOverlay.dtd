@@ -14,5 +14,3 @@
 <!ENTITY makeUrlRelative.tooltip "சம்பந்தப்பட்ட மற்றும் தனிப்பட்ட URL-க்கு நடுவில் மாற்றுக. இதை மாற்ற நீங்க முதலில் பக்கத்தை சேமிக்கவேண்டும்">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "ஒரு வலையப்பக்க அமைவை, உள் கோப்பை எழுதுக, அல்லது பாப்-அப் பட்டியலில் இருந்து பெயரிடப்பட்ட தொகுப்பு அல்லது தலைப்பை தேர்வு செய்க:">
-<!ENTITY LinkURLEditField.accessKey "அ">

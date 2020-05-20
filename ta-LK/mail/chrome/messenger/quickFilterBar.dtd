@@ -33,13 +33,6 @@
 <!ENTITY quickFilterBar.sticky.tooltip
          "கோப்புறைகளிலிருந்து மாறும் பொழுது வடிகட்டிகளை பிரயோகித்து வைத்திருக்க">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.barLabel.label):
-     The text to display on the quick filter bar, labeling it.  This should
-     ideally be as short as possible.
-     -->
-<!ENTITY quickFilterBar.barLabel.label
-         "விரைவு வடிகட்டி:">
-
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.label):
      The label for the filter button that causes us to filter results to only
      include unread messages.
@@ -53,11 +46,6 @@
      -->
 <!ENTITY quickFilterBar.unread.tooltip
          "வாசிக்கப்படாத செய்திகளை மட்டும் காட்டுக">
-
-<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
-     This is the key used to show the quick filter bar. -->
-<!ENTITY quickFilterBar.show.key2
-         "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.starred.label):
      The label for the filter button that causes us to filter results to only
@@ -148,16 +136,10 @@
 <!ENTITY quickFilterBar.resultsLabel.minWidth
          "100">
 
-<!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.base):
-     This is the base of the empty text for the text search box.  We replace
-     #1 with the contents of the appropriate
-     quickFilterBar.textbox.emptyText.keyLabel.* value for the platform.
-     The goal is to convey to the user that typing in the box will filter
-     the messages and that there is a hotkey they can press to get to the
-     box faster.
-     -->
-<!ENTITY quickFilterBar.textbox.emptyText.base
-         "இந்த செய்திகளை வடிக்கட்டுக... #1">
+<!-- LOCALIZATION NOTE (quickFilterBar.show.key2):
+     This is the key used to show the quick filter bar. -->
+<!ENTITY quickFilterBar.show.key2
+         "k">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.nonmac):
      The description of the key-binding to get into the box on windows and

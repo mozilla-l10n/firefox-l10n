@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "துணை கோப்புறைகள் மற்றும் செய்திகள் உள்ள கோப்புறைகளை சேவையகம் ஆதரிக்கிறது.">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "சேவையகம் ஆதரித்தால் IDLE கட்டளையை உபயோகிக்கவும்">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "விரைவு நினைவகத்திற்கான அதிகபட்ச சேவையக இணைப்புகள்">
 <!ENTITY maximumConnectionsNumber.accesskey "வ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -24,11 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "">
 <!ENTITY overrideNamespaces.label "இந்த பெயரிடங்களை புறக்கணிக்குமாறு சேவையகத்தைஅனுமதிக்கவும்">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "இந்த சேவையகத்தில் POP அஞ்சலை பெறும்போது, பின்வரும் கோப்புறையை புதிய அஞ்சலுக்கு பயன்படுத்துக.">
-<!ENTITY globalInbox.label "உலகளாவிய உட்பெட்டி (உள்ளக கோப்புறைகள் கணக்கு)">
-<!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "இந்த சேவையக கணக்கின் உட்பெட்டி">
-<!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "வேறு கணக்கின் உட்பெட்டி">
 <!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "புதிய அஞ்சலை பெறும்போது இந்த சேவையகத்தையும் சேர்க்கவும்">

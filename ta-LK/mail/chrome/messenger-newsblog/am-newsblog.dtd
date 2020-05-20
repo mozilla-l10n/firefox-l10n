@@ -2,23 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountTitle.label "கணக்கு அமைப்புக்கள்">
-
-<!ENTITY biffStart.label "புதிய கட்டுரைகள் உள்ளதா என பார்க்கவும் ஒவ்வொரு">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "தீர்மானங்கள்">
-
-<!ENTITY loginAtStartup.label "தொடக்கத்திலேயே புதிய கட்டுரைகள் உள்ளதா எனப் பார்க்கவும்">
-<!ENTITY loginAtStartup.accesskey "த">
-
-<!ENTITY useQuickMode.label " பொதுஇருப்பில், வலையப்பக்கத்தை ஏற்றுவதற்கு பதில் கட்டுரை சுருக்கத்தை காண்பிக்கவும்">
-<!ENTITY useQuickMode.accesskey " ">
-
 <!ENTITY manageSubscriptions.label "சந்தாவை நிர்வகிக்கவும்...">
 <!ENTITY manageSubscriptions.accesskey "ச">
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "Blogs &amp; செய்தி ஊட்டல்கள்">
-<!ENTITY feeds.wizardShortName "Feeds">
-<!ENTITY feeds.wizardLongName "Blogs &amp; செய்தி ஊட்டல்கள்">
-<!ENTITY feeds.wizardLongName.accesskey "F">

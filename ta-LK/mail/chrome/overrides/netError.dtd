@@ -57,6 +57,12 @@
 
 <!ENTITY netOffline.title "இணைப்பில்லா நிலை செயற்படுமுறைமை">
 
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
+</ul>
+">
+
 <!ENTITY contentEncodingError.title "குறியீடாக்கல் வழுவை கொண்டுள்ளது">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
@@ -76,13 +82,6 @@
 
 <!ENTITY netTimeout.title "தொடர்பு காலவதியாகியுள்ளது">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
-
-<!ENTITY protocolNotFound.title "முகவரியை உணரமுடியவில்லை">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
 
 <!ENTITY proxyConnectFailure.title "proxy சேவையகம் தொடர்பை மறுக்கிறது">
 <!ENTITY proxyConnectFailure.longDesc "
@@ -121,12 +120,6 @@
 ">
 
 <!ENTITY nssFailure2.title "பாதுகாப்பான இணைப்பு தவறவிடப்பட்டது">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
 
 <!ENTITY nssBadCert.title "பாதுகாப்பான இணைப்பு தவறவிடப்பட்டது">
 <!ENTITY nssBadCert.longDesc2 "
@@ -149,24 +142,9 @@ be temporary, and you can try again later.</li>
 </ul>
 ">
 
-<!ENTITY malwareBlocked.title "சந்தேகமான தாக்குதல் தளம்!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "சந்தேகமான கள்ள வலை!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
-
 <!ENTITY securityOverride.linkText "அல்லது உங்களாள் ஒரு விதிவிலக்கை சேர்க்கமுடியும்…">
 <!ENTITY securityOverride.getMeOutOfHereButton "இங்கிரு என்னை வெளியெடுக்க!">
 <!ENTITY securityOverride.exceptionButtonLabel "விதிவிலக்கை சேர்க்க…">
-
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
@@ -189,10 +167,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY corruptedContentError.longDesc "<p>The content you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the owners to inform them of this problem.</li></ul>">
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
-</ul>
-">

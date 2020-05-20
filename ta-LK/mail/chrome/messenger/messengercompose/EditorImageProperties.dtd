@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -47,8 +48,6 @@
 <!ENTITY imagemapBox.label "படிம வரைபடம்">
 <!ENTITY removeImageMapButton.label "நீக்கு">
 <!ENTITY removeImageMapButton.accessKey "">
-<!ENTITY editImageMapButton.label "செவ்வையாக்கவும்...">
-<!ENTITY editImageMapButton.tooltip "இந்த படத்திற்காக clickable hotspots இனை உருவாக்குக">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "உரையை படிமத்துடன் இசைவு செய்க">

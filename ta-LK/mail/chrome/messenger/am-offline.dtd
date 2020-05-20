@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY doNotDownloadPop3Movemail.label "வன்வட்டு வெற்றிடத்தை சேமிக்க, கீழுள்ளவற்றைப் பதிவிறக்காதே:">
-<!ENTITY allFoldersOffline.label "இந்தக் கணனியிலுள்ள இந்த கணக்குக்கான தகவல்களை தக்கவைத்துக்கொள்க">
-<!ENTITY allFoldersOffline.accesskey "o">
+<!ENTITY doNotDownloadNntp.label "தட்டு இடைவெளியில் சேமிக்க, இணைப்பில்லா நிலை பாவனைக்கு பதிவிறக்கவேண்டாம்:">
+<!ENTITY doNotDownloadImap.label "தட்டு இடைவெளியில் சேமிக்க, சேவையகத்திலிருந்து செய்திகள் பதிவிறக்கப்படுகிறது மற்றும் இணைப்பில்லா நிலையில் உபயோகிக்க்கூடியவாறு சாதாரண பிரதிகளை வைக்கவும் வயது அல்லது அளவுக்கேற்ப கட்டுப்படுத்தலாம்.">
 <!ENTITY offlineNotDownload.label "செய்தி பெரியது இதைவிட">
 <!ENTITY offlineNotDownload.accesskey "M">
+<!ENTITY autosyncNotDownload.label "செய்திகளை இதைவிட பெரிதாக பதிவிறக்க வேண்டாம்">
+<!ENTITY autosyncNotDownload.accesskey "m">
 <!ENTITY kb.label "KBஐ விட அதிகமானவை.">
 <!ENTITY daysOld.label "நாட்கள் பழைமையான செய்திகள்.">
 <!ENTITY message.label "செய்திகள்">
@@ -23,8 +25,6 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "மிகவும் சமீபத்தியதை மட்டும் அழிக்குக.">
 <!ENTITY retentionKeepRecent.accesskey "b">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "எப்பவும் வாசிக்கப்பட்ட செய்திகளை அழிக்க (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "எப்பவும் starred செய்திகளை வைத்திருக்க">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 <!ENTITY nntpRemoveMsgBody.label "செய்திகளிலிருந்து மேலதிக உடலை அகற்றவும்">
@@ -41,17 +41,13 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY monthAgeInterval.label "மாதங்கள்">
-<!ENTITY ageAutosyncAfter.label "">
 <!ENTITY allAutosync.label "வயதைப் பற்றி கருத்திற்க்கொள்ளாமல் அனைத்து செய்திகளையும் ஒத்திசைவாக்குக">
-<!ENTITY doNotDownloadImap.label "தட்டு இடைவெளியில் சேமிக்க, சேவையகத்திலிருந்து செய்திகள் பதிவிறக்கப்படுகிறது மற்றும் இணைப்பில்லா நிலையில் உபயோகிக்க்கூடியவாறு சாதாரண பிரதிகளை வைக்கவும் வயது அல்லது அளவுக்கேற்ப கட்டுப்படுத்தலாம்.">
-<!ENTITY yearAgeInterval.label "வருடங்கள்">
-<!ENTITY weekAgeInterval.label "கிழமைகள்">
 <!ENTITY allAutosync.accesskey "c">
-<!ENTITY autosyncNotDownload.label "செய்திகளை இதைவிட பெரிதாக பதிவிறக்க வேண்டாம்">
-<!ENTITY ageAutosyncMiddle.label "">
-<!ENTITY autosyncNotDownload.accesskey "m">
-<!ENTITY ageAutosync.accesskey "z">
 <!ENTITY ageAutosyncBefore.label "மிகவும் அண்மையானதை ஒத்திசைவாக்குக">
+<!ENTITY ageAutosync.accesskey "z">
+<!ENTITY ageAutosyncMiddle.label "">
 <!ENTITY dayAgeInterval.label "நாட்கள்">
-<!ENTITY doNotDownloadNntp.label "தட்டு இடைவெளியில் சேமிக்க, இணைப்பில்லா நிலை பாவனைக்கு பதிவிறக்கவேண்டாம்:">
+<!ENTITY weekAgeInterval.label "கிழமைகள்">
+<!ENTITY monthAgeInterval.label "மாதங்கள்">
+<!ENTITY yearAgeInterval.label "வருடங்கள்">
+<!ENTITY ageAutosyncAfter.label "">

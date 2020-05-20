@@ -5,9 +5,11 @@
 permissions-session =
     .label = அமர்வில் அனுமதி
     .accesskey = S
+
 permissions-allow =
     .label = அனுமதி
     .accesskey = A
+
 permissions-capabilities-allow =
     .label = அனுமதி
 permissions-capabilities-block =
@@ -32,11 +34,17 @@ permissions-invalid-uri-label = ஒரு சரியான கணினிய�
 ## Exceptions - Add-ons
 
 
+## Exceptions - Autoplay Media
+
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -23,7 +23,7 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY newFolderButton.accesskey "r">
 <!ENTITY newFolderButton.label "உருவாக்குக">
+<!ENTITY newFolderButton.accesskey "r">
 <!ENTITY editFolderButton.label "இற்​றைப்படுத்துக">
 <!ENTITY editFolderButton.accesskey "U">

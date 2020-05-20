@@ -4,13 +4,8 @@
 
 <!ENTITY offlineDialog.title "இணைப்பில்லா நிலை அமைவுகள்">
 
-<!ENTITY textStartUp "தொடங்கும் போது:">
 <!ENTITY radioRememberPrevState.label "முந்தைய இணைப்பு  நிலையை நினைவிற்கொள்க">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "தொடக்கத்திலேயே இணைப்பு  நிலையை கேட்கவும்">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "எப்பொழுதும் இணைப்பு  நிலையில் தொடங்குக">
-<!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline " இணைப்பு  நிலையில் போகும் போது அனுப்பாத அஞ்சல்களை அனுப்பிவிடலாமா?">
 <!ENTITY radioAutoSend.label "ஆம்">

@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "">
 <!ENTITY DictionaryList.label "அகராதியில் உள்ள வார்த்தைகள்:">
 <!ENTITY DictionaryList.accessKey "">
-<!ENTITY ReplaceButton.label "மாற்றிவிடு">
-<!ENTITY ReplaceButton.accessKey "">
 <!ENTITY RemoveButton.label "நீக்கு">
 <!ENTITY RemoveButton.accessKey "">
 

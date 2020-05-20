@@ -4,5 +4,6 @@
 
 options-group-label =
     .value = தேர்வுகள்
+
 dialog-cancel-label = ரத்து
 dialog-close-label = மூடுக

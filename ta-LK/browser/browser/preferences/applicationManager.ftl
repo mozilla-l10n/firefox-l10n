@@ -5,13 +5,15 @@
 app-manager-window =
     .title = மென்பொருள் விபரங்கள்
     .style = width: 47em; min-height: 40em;
+
 app-manager-remove =
     .label = Remove
     .accesskey = R
-app-manager-handle-webfeeds = பின்வரும் மென்பொருள்களைப் பயன்படுத்தி இணைய ஊட்டுகள் இனை கையாள முடியும்.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = பின்வரும் மென்பொருள்களைப் பயன்படுத்தி { $type } இணைப்புகள் இனை கையாள முடியும்.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = பின்வரும் மென்பொருள்களைப் பயன்படுத்தி { $type } உள்ளடக்கம் இனை கையாள முடியும்.

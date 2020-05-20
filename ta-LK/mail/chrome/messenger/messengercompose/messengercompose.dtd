@@ -71,33 +71,32 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
 <!ENTITY pasteNoFormattingCmd.key "V">
-<!ENTITY editRewrapCmd.label "மறுமடிப்பு">
-<!ENTITY editRewrapCmd.key "R">
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "நீக்கு">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "மறுமடிப்பு">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY selectAllCmd.label "அனைத்தையும் தேர்ந்தெடு">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
-<!ENTITY findCmd.label "தேடி மாற்று...">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "மறுபடி தேடு">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "முந்தையதை தேடு">
+<!ENTITY findPrevCmd.accesskey "v">
+
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "நோக்கு">
 <!ENTITY viewMenu.accesskey "v">
-<!ENTITY menubarCmd.label "Menu Bar">
-<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY viewToolbarsMenuNew.label "கருவிப்பட்டைகள்">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "அஞ்சல் கருவிப்பட்டை">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "வடிவமைப்புக் கருவிப்பட்டை">
@@ -134,8 +133,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "விநியோக நிலைமை அறிவித்தல்">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "வடிவம்">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "தன்னியக்க-கண்டுபிடிப்பு">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label " எளிய உரை மட்டும்">
@@ -170,11 +167,6 @@
 <!ENTITY addressBookCmd.label "முகவரிப் புத்தகம்">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "கணக்கு அமைவுகள்">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "விருப்பங்கள்...">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "விருப்பத்தேர்வுகள்">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -198,12 +190,14 @@
 <!ENTITY sendlaterButton.tooltip "இந்த அஞ்சலை பின்னர் அனுப்பு">
 <!ENTITY quoteButton.tooltip "முந்தைய அஞ்சலை மேற்கோளாக காட்டு">
 <!ENTITY addressButton.tooltip "முகவரிப்புத்தகத்தில் இருந்து ஒரு பெறுநரை தேர்வு செய்">
-<!ENTITY attachButton.tooltip "உடனிணைப்பை சேர்">
+<!ENTITY spellingButton.tooltip "தெரிவுசெய்யப்பட்ட அல்லது முழுச்செய்தியிலும் எழுத்துக்கோர்வைகளை சரிபார்க்க">
 <!ENTITY saveButton.tooltip "இந்த அஞ்சல்யை சேமி">
 <!ENTITY cutButton.tooltip "வெட்டு">
 <!ENTITY copyButton.tooltip "நகலெடு">
 <!ENTITY pasteButton.tooltip "ஒட்டு">
 
+<!-- Headers -->
+<!ENTITY headersSpace.style "அகலம்: 9em;">
 <!-- Headers -->
 <!ENTITY fromAddr.label "இருந்து:">
 <!ENTITY fromAddr.accesskey "r">
@@ -259,6 +253,8 @@
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "நீக்கு">
 <!ENTITY delete.accesskey "D">
+<!ENTITY removeAttachment.label "உடனிணைப்புகளை நீக்குக">
+<!ENTITY removeAttachment.accesskey "M">
 <!ENTITY renameAttachment.label "மீள்பெயரிடுக…">
 <!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "அனைத்தையும் தேர்ந்தெடு">
@@ -267,6 +263,11 @@
 <!ENTITY attachFile.accesskey "F">
 <!ENTITY attachPage.label "இணையப் பக்கத்தை உடனிணை...">
 <!ENTITY attachPage.accesskey "W">
+
+<!-- Attachment Pane Header Bar Context Menu -->
+
+<!ENTITY spellAddDictionaries.label "அகராதிகளுக்கு சேர்க்க…">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "தொடர்புகள்">
@@ -278,10 +279,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY spellAddDictionaries.label "அகராதிகளுக்கு சேர்க்க…">
-<!ENTITY spellAddDictionaries.accesskey "A">
-<!ENTITY removeAttachment.label "உடனிணைப்புகளை நீக்குக">
-<!ENTITY removeAttachment.accesskey "M">
-<!ENTITY headersSpace.style "அகலம்: 9em;">
-<!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY spellingButton.tooltip "தெரிவுசெய்யப்பட்ட அல்லது முழுச்செய்தியிலும் எழுத்துக்கோர்வைகளை சரிபார்க்க">

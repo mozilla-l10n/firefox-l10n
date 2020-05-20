@@ -5,10 +5,13 @@
 <!ENTITY folderProps.windowtitle.label "தன்மைகள்">
 
 <!ENTITY generalInfo.label "பொது விவரம்">
-<!ENTITY folderCharsetTab.label "கொடாநிலை எழுத்துக் குறிமுறை:">
-<!ENTITY folderCharsetTab.accesskey "">
-<!ENTITY folderCharsetOverride.label "இந்த கோப்புறையில் உள்ள அஞ்சல்கள் அனைத்திலும் கொடாநிலையை செயல்படுத்துக (தனிப்பட்ட அஞ்சல் எழுத்துக்குறிமுறையும் சுய-கணிப்பும் புறக்கணிக்கப்படும்).">
-<!ENTITY folderCharsetOverride.accesskey "">
+
+<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
+<!ENTITY folderRebuildSummaryFile2.label "பாதிக்கப்பட்ட கோப்புறைகள்">
+<!ENTITY folderRebuildSummaryFile2.accesskey "R">
+<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
+<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
+<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
 
 <!ENTITY retention.label "வைத்திருத்தல் கொள்கை">
 <!ENTITY retentionUseAccount.label  "எனது கணக்கு அமைப்புக்களை பயன்படுத்துக">
@@ -24,12 +27,13 @@
 <!ENTITY retentionKeepAll.accesskey "">
 <!ENTITY retentionKeepRecent.label "மிகவும் சமீபத்திய அனைத்தையும் அழிக்குக">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "எப்பவும் வாசிக்கப்பட்ட செய்திகளை அழிக்குக (overrides age settings)">
 <!ENTITY retentionApplyToFlagged.label "எப்பவும் starred செய்திகளை வைத்திருக்க">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
 <!ENTITY folderSynchronizationTab.label          "ஒத்திசைவாக்கம்">
+<!ENTITY folderCheckForNewMessages2.label "இந்த கணக்கிலிருந்து பதிய செய்திகளை பெறும்போதெல்லாம், இந்த கோப்புறையை சரிபார்க்க ">
+<!ENTITY folderCheckForNewMessages2.accesskey "c">
+
 <!ENTITY offlineFolder.check.label "இந்தக் கோப்புறையை இணைப்பில்லா நிலை உபயோகத்திற்கு தெரிவு செய்க.">
 <!ENTITY offlineFolder.check.accesskey "">
 <!ENTITY offlineFolder.button.label "தற்போது பதிவிறக்கு">
@@ -62,11 +66,3 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY folderIncludeInGlobalSearch.label "Include messages in this folder in Global Search results">
-<!ENTITY folderRebuildSummaryFile.explanation "Sometimes the folder index (.msf) file becomes damaged and messages may appear missing or deleted messages continue showing; repairing the folder may fix these issues.">
-<!ENTITY folderIncludeInGlobalSearch.accesskey "G">
-<!ENTITY folderCheckForNewMessages2.label "இந்த கணக்கிலிருந்து பதிய செய்திகளை பெறும்போதெல்லாம், இந்த கோப்புறையை சரிபார்க்க ">
-<!ENTITY folderRebuildSummaryFile2.label "பாதிக்கப்பட்ட கோப்புறைகள்">
-<!ENTITY folderRebuildSummaryFileTip2.label "Rebuild Summary File Index">
-<!ENTITY folderCheckForNewMessages2.accesskey "c">
-<!ENTITY folderRebuildSummaryFile2.accesskey "R">

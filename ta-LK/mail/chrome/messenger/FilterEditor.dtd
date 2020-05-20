@@ -6,6 +6,7 @@
 
 <!-- LOCALIZATION NOTE (cc.label): DONT_TRANSLATE -->
 
+<!ENTITY filterEditorDialog.dimensions "அகலம்: 100ch;">
 <!ENTITY filterName.label "வடிகட்டியின் பெயர்:">
 <!ENTITY filterName.accesskey "i">
 
@@ -19,12 +20,8 @@
 <!ENTITY highestPriorityCmd.label "மிக அதிகம்">
 
 <!ENTITY contextDesc.label "இதன் போது வடிகட்டியினை பிரயோகிக்க:">
-<!ENTITY contextDesc.accesskey "w">
-<!ENTITY contextIncoming.label "அஞ்சலை சரிபார்க்க">
 <!ENTITY contextManual.label "கையால் இயக்குக">
-<!ENTITY contextBoth.label "அஞ்சலை சரிபார்க்க அல்லது கையால் இயக்குக">
-<!ENTITY contextPostPlugin.label "அஞ்சல் சரிபார்க்கப்படுகிறது (வகைப்படுத்தப்பட்ட பிறகு)">
-<!ENTITY contextPostPluginBoth.label "அஞ்சலை சரிபார்க்க (வகைப்படுத்தப்பட்ட பிறகு) அல்லது கையால் இயக்குக">
+
 <!ENTITY filterActionDesc.label "இந்தச் செயல்களை செய்க:">
 <!ENTITY filterActionDesc.accesskey "P">
 
@@ -55,4 +52,8 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY filterEditorDialog.dimensions "அகலம்: 100ch;">
+<!-- LOCALIZATION NOTE
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->

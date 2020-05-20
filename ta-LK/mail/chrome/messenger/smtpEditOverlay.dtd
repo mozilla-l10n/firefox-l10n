@@ -27,5 +27,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY authMethod.accesskey "i">
 <!ENTITY authMethod.label "அத்தாட்சிப்படுத்தல் முறை:">
+<!ENTITY authMethod.accesskey "i">

@@ -28,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "பதிப்பிக்கவும்...">
 <!ENTITY editUserDictionaryButton.accessKey "ப">
-<!ENTITY recheckButton.label "பக்கத்தை மறுபடி சரிபார்க்கவும்">
-<!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "மூடுக">
 <!ENTITY closeButton.accessKey "ம">
 <!ENTITY sendButton.label "அனுப்புக">

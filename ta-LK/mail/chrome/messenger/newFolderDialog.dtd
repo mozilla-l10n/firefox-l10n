@@ -19,5 +19,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY accept.accesskey "r">
 <!ENTITY accept.label "கோப்புறை உருவாக்க">
+<!ENTITY accept.accesskey "r">

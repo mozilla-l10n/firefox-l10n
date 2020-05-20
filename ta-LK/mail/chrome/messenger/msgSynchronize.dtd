@@ -4,6 +4,10 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "செய்திகளை தரவிறக்கி இசைவு செய்க">
 <!ENTITY MsgSelect.label "ஆப்லைனில் உபயோகிக்கப்படவேண்டிய உருப்படிகள் ">
 <!ENTITY MsgSyncDesc.label "ஆப்லைனில் உபயோகிக்க நீங்க ஏற்கனவே அஞ்சல் அடைவுகள் அல்லது செய்தித்தொகுப்புக்களை தேர்வு செய்திருந்தால் அதை இப்ப தரவிறக்கலாம் மற்றும்/அல்லது இசைவு செய்யலாம், அல்லது, &quot;Select&quot; பட்டனை உபயோகித்து, ஆப்லைனில் உபயோகிக்க செய்தி அடைவுகள் மற்றும் செய்தித்தொகுப்புக்களை தேர்வு செய்க.">

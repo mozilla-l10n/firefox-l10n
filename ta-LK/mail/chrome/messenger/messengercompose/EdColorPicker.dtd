@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "வண்ணம்">
 <!ENTITY lastPickedColor.label "கடைசியாக பொறுக்கப்பட்ட வண்ணம்">
 <!ENTITY lastPickedColor.accessKey "க">
-<!ENTITY setColor1.label "ஒரு வண்ணம் மீது சொடுக்குக அல்லது">
-<!ENTITY setColor2.label "ஒரு HTML வண்ண சரத்தை எழுதுக">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(e.g.: &quot;#0000ff&quot; or &quot;blue&quot;):">
 <!ENTITY default.label "கொடாநிலை">
 <!ENTITY default.accessKey "க">

@@ -30,6 +30,7 @@ fonts-default-serif =
     .label = ஷெரிஃப்
 fonts-default-sans-serif =
     .label = ஸான்ஸ் ஷெரிஃப்
+
 fonts-minsize-none =
     .label = ஒன்றுமில்லை
 

@@ -5,10 +5,10 @@
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
+<!-- extracted from am-advanced.xhtml -->
+
 <!ENTITY smtpServer.label "வெளியே அனுப்பும் சேவையக (SMTP) அமைவுகள்">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-
-<!ENTITY smtpDesc.label "நீங்கள் ஒன்றுக்கு மேற்பட்ட வெளியே அனுப்பும் சேவையகங்களை(SMTP) குறிப்பிட்டாலும், உயர்தர பயனர்களுக்கு மட்டுமே அது பரிந்துரைக்கப்படுகிறது, பல SMTP சேவையகங்களை அமைப்பதால் செய்திகளை அனுப்பும்போது பிழைகள் நேரலாம்.">
 
 <!ENTITY smtpListAdd.label "சேர்...">
 <!ENTITY smtpListAdd.accesskey "d">

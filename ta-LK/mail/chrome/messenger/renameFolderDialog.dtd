@@ -12,5 +12,5 @@ Entities below were automatically added by compare-locales,
  based on en-US entities.
 -->
 
-<!ENTITY accept.accesskey "R">
 <!ENTITY accept.label "பெயரை மாற்றுக">
+<!ENTITY accept.accesskey "R">

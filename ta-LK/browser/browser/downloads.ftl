@@ -16,3 +16,4 @@ downloads-panel =
 downloads-cmd-pause =
     .label = இடைநிறுத்து
     .accesskey = P
+  

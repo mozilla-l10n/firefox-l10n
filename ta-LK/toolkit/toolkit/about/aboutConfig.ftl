@@ -19,3 +19,4 @@ config-type-column =
 config-reset =
     .label = மீளமை
     .accesskey = R
+
