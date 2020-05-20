@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Písma
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Znaková sada
     .accesskey = Z
+
 fonts-langgroup-arabic =
     .label = Arabština
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionální
     .accesskey = P
+
 fonts-default-serif =
     .label = Patkové
 fonts-default-sans-serif =
     .label = Bezpatkové
+
 fonts-proportional-size = Velikost
     .accesskey = l
+
 fonts-serif = Patkové
     .accesskey = t
+
 fonts-sans-serif = Bezpatkové
     .accesskey = B
+
 fonts-monospace = Neproporcionální
     .accesskey = N
+
 fonts-monospace-size = Velikost
     .accesskey = e
+
 fonts-minsize = Minimální velikost písma
     .accesskey = o
+
 fonts-minsize-none =
     .label = Žádná
+
 fonts-allow-own =
     .label = Povolit stránkám používat vlastní písma namísto výše zvolených
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Znaková sada textu pro původní obsah
 fonts-languages-fallback-desc = Tato znaková sada textu se používá pro původní obsah, který neobsahuje definici o své znakové sadě.
+
 fonts-languages-fallback-label = Výchozí znaková sada
     .accesskey = z
+
 fonts-languages-fallback-name-auto =
     .label = Výchozí pro aktuální jazyk
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamská
 fonts-languages-fallback-name-other =
     .label = Jiná (zahrnuje západoevropské)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

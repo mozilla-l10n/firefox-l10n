@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Nový oddělovač">
 <!ENTITY cmd.new_separator.accesskey       "d">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Obnovit aktuální záložku">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "O">
-
-<!ENTITY cmd.moveBookmarks.label                  "Přesunout…">
-<!ENTITY cmd.moveBookmarks.accesskey              "P">
-
 <!ENTITY col.name.label          "Název">
 <!ENTITY col.tags.label          "Štítky">
 <!ENTITY col.url.label           "Adresa">
 <!ENTITY col.mostrecentvisit.label "Poslední návštěva">
 <!ENTITY col.visitcount.label    "Počet návštěv">
-<!ENTITY col.description.label   "Popis">
 <!ENTITY col.dateadded.label     "Přidáno">
 <!ENTITY col.lastmodified.label  "Poslední změna">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Přejde vpřed">
 
-<!ENTITY detailsPane.more.label "Více">
-<!ENTITY detailsPane.more.accesskey "V">
-<!ENTITY detailsPane.less.label "Méně">
-<!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Pro zobrazení a úpravu vlastností vyberte některou z položek">
 
 <!ENTITY view.label               "Zobrazit">

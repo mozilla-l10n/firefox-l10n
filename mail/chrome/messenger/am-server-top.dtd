@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Automaticky stahovat nové zprávy">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Vaše přihlašovací jméno">
 <!ENTITY deleteMessagePrefix.label "Při odstranění zprávy:">
 <!ENTITY modelMoveToTrash.label "Přesunout zprávu do této složky:">
 <!ENTITY modelMoveToTrash.accesskey "n">

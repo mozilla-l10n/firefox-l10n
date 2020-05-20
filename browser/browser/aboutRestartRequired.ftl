@@ -12,6 +12,7 @@ restart-required-intro-brand =
        *[other] Aplikace { -brand-short-name } byla na pozadí aktualizována. Pro dokončení aktualizace klepněte na „Restartovat aplikaci { -brand-short-name }”.
     }
 restart-required-description = Všechny vaše stránky, okna a panely budou po restartu obnoveny a budete moci pokračovat v prohlížení.
+
 restart-button-label =
     Restartovat { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "acc") }

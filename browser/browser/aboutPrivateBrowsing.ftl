@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Zjistit více o <a data-l10n-name="learn-more">anonymním prohlížení</a>.
 about-private-browsing-info-visited = navštívené stránky
+
 privatebrowsingpage-open-private-window-label = Otevřít anonymní okno
     .accesskey = a
 about-private-browsing-info-notsaved = Z anonymních oken { -brand-short-name } <strong>neukládá</strong>:
@@ -29,6 +30,7 @@ about-private-browsing-info-description =
     { -brand-short-name } vymaže vaši historii vyhledávání a navštívených stránek po ukončení aplikace nebo zavření všech anonymních panelů a oken.
     
     S touto funkcí nejste na internetu zcela neviditelní a např. poskytovatel připojení k internetu může stále zjistit, které stránky navštěvujete. Vaše aktivita na internetu ale zůstane utajena před dalšími uživateli tohoto počítače.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

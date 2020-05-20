@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Složka kontaktů:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Zrušit">
-<!ENTITY editContactPanelCancel.accesskey "Z">
-
 <!ENTITY editContactPanelDone.label "Hotovo">
 <!ENTITY editContactPanelDone.accesskey "H">
 

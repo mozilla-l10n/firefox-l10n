@@ -13,27 +13,36 @@ cfr-doorhanger-pintab-heading = Vyzkoušejte připnout panel
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Co to je
+
 cfr-doorhanger-extension-cancel-button = Teď ne
     .accesskey = n
+
 cfr-doorhanger-extension-ok-button = Přidat
     .accesskey = a
 cfr-doorhanger-pintab-ok-button = Připnout tento panel
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Nastavení doporučování
     .accesskey = d
+
 cfr-doorhanger-extension-never-show-recommendation = Toto doporučení už nezobrazovat
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Zjistit více
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autor: { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Doporučení
+
 cfr-doorhanger-extension-notification2 = Doporučení
     .tooltiptext = Doporučené rozšíření
     .a11y-announcement = Je dostupné doporučené rozšíření
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Doporučení
@@ -61,6 +70,7 @@ cfr-doorhanger-extension-total-users =
         [few] { $total } uživatelé
        *[other] { $total } uživatelů
     }
+
 cfr-doorhanger-pintab-description = Nechte si nejpoužívanější stránky po ruce v panelu, který neztratíe ani při restartu počítače.
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -68,8 +78,10 @@ cfr-doorhanger-pintab-description = Nechte si nejpoužívanější stránky po r
 cfr-doorhanger-pintab-step1 = Pokud chcete panel připnout, klikněte na něj <b>pravým tlačítkem</b>.
 cfr-doorhanger-pintab-step2 = V nabídce vyberte <b>Připnout panel</b>.
 cfr-doorhanger-pintab-step3 = Pokud je na stránce něco nového, uvidíte u ní na liště panelů modrý puntík.
+
 cfr-doorhanger-pintab-animation-pause = Pozastavit
 cfr-doorhanger-pintab-animation-resume = Pokračovat
+
 
 ## Firefox Accounts Message
 
@@ -91,25 +103,33 @@ cfr-protections-panel-link-text = Zjistit více
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nové funkce
+
 cfr-whatsnew-button =
     .label = Co je nového
     .tooltiptext = Co je nového
+
 cfr-whatsnew-panel-header = Co je nového
+
 cfr-whatsnew-release-notes-link-text = Přečtěte si poznámky k vydání
+
 cfr-whatsnew-fx70-title = { -brand-short-name } tvrdě bojuje za vaše soukromí
 cfr-whatsnew-fx70-body = Nejnovější aktualizace vylepšuje funkci ochrany proti sledování a usnadňuje vytváření bezpečných hesel pro každý server.
+
 cfr-whatsnew-tracking-protect-title = Chraňte se před sledovacími prvky
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blokuje mnoho prvků sociálních sítí a třetích stran, které jsou známé sledováním vašeho chování na internetu.
 cfr-whatsnew-tracking-protect-link-text = Zobrazit podrobnosti
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-tracking-blocked-title = Blokování sledovacích prvků
 cfr-whatsnew-tracking-blocked-subtitle = Od { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Zobrazit podrobnosti
+
 cfr-whatsnew-lockwise-backup-title = Zálohujte svá hesla
 cfr-whatsnew-lockwise-backup-body = Používejte generovaná a bezpečná hesla, ke kterým máte přístup všude, kde se přihlásíte.
 cfr-whatsnew-lockwise-backup-link-text = Zapnout zálohování
+
 cfr-whatsnew-lockwise-take-title = Vezměte si svá hesla všude s sebou
 cfr-whatsnew-lockwise-take-body = S mobilní aplikací { -lockwise-brand-short-name } získáte bezpečný přístup k vašim zálohovaným přihlašovacím údajům kdekoliv budete potřebovat.
 cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
@@ -117,10 +137,6 @@ cfr-whatsnew-lockwise-take-link-text = Stáhnout aplikaci
 ## Search Bar
 
 cfr-whatsnew-searchbar-title = Použijte adresní řádek - pište méně, najdete více
-# Variables:
-#   $searchEngineName - Name of the current default search engine as also shown in the urlbar.
-cfr-whatsnew-searchbar-body-enginename = Jediným klepnutím do adresního řádku se dostanete na nejčastěji navštěvované stránky z vaší historie prohlížení, stejně jako rychlé vyhledávání pomocí vyhledávače { $searchEngineName }.
-cfr-whatsnew-searchbar-body-generic = Jediným klepnutím do adresního řádku se dostanete na nejčastěji navštěvované stránky z vaší historie prohlížení.
 cfr-whatsnew-searchbar-body-topsites = Po klepnutí do adresního řádku uvidíte odkazy na své top stránky.
 cfr-whatsnew-searchbar-icon-alt-text = Ikona lupy
 
@@ -143,6 +159,7 @@ cfr-whatsnew-permission-prompt-cta = Zjistit více
 # localization, because it would result in the number showing twice.
 cfr-whatsnew-fingerprinter-counter-header = Zablokováno vytvoření otisku prohlížeče
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blokuje mnoho způsobů vytváření otisku prohlížeče, které tajně sbírají informace o vašem zařízení, aby si vytvořily profil pro sledování vašich dalších aktivit.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Blokování otisku prohlížeče
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } blokuje vytváření otisku prohlížeče, které tajně sbírá informace o vašem zařízení pro vytvoření vašeho reklamního profilu

@@ -2,6 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- -*- Mode: SGML; indent-tabs-mode: nil; -*- -->
+<!--
+
+ This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowtitle.label "&brandShortName; - Výběr profilu uživatele">
 
 <!ENTITY profilename.label "Název profilu:">
@@ -17,6 +24,7 @@
 <!ENTITY renameButton.accesskey "P">
 <!ENTITY deleteButton.label "Smazat profil…">
 <!ENTITY deleteButton.accesskey "m">
+
 <!-- manager entities -->
 <!ENTITY pmDescription.label "&brandShortName; ukládá informace o vašem nastavení, předvolbách a ostatních uživatelských položkách do vašeho uživatelského profilu.">
 

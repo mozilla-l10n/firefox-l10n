@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Pošle krátkou zprávu nebo začne rozhovor">
 <!ENTITY deleteButton2.tooltip                          "Smaže označenou položku">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Kontakty">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Jméno nebo e-mail">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">

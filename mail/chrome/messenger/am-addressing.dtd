@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Vytváření zpráv a adresování">
 <!ENTITY addressingGroupTitle.label "Adresování">
 <!ENTITY addressingText.label      "Při hledání adres:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Vytváření zpráv">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Vytvářet zprávy v HTML formátu">
 <!ENTITY useHtml.accesskey                    "V">
 <!ENTITY autoQuote.label                      "Při odpovědi automaticky odcitovat původní zprávu">
 <!ENTITY autoQuote.accesskey                  "c">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Potom">
-<!ENTITY then.accesskey                       "t">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Při citaci">
 <!ENTITY quoting.accesskey                    "i">

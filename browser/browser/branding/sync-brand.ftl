@@ -12,6 +12,7 @@
         [loc] Syncu
         [ins] Syncem
     }
+
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name =
@@ -24,6 +25,7 @@
         [loc] Firefox Syncu
         [ins] Firefox Syncem
     }
+
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name =

@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label "Označit zprávy jako přečtené podle data">
 <!ENTITY markByDateLower.label "Od:">
 <!ENTITY markByDateLower.accesskey "O">
-<!ENTITY markByDateUpper.accesskey "D">
 <!ENTITY markByDateUpper.label "Do:">
+<!ENTITY markByDateUpper.accesskey "D">

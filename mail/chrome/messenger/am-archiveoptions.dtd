@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Možnosti archivace">
 <!ENTITY archiveGranularityPrefix.label "Při archivaci umístit zprávu do:">
 <!ENTITY archiveFlat.label "Jedné společné složky">

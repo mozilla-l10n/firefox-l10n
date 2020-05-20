@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Moduly protokolu pro službu Safe Browsing
 url-classifier-debug-modules = Současné moduly protokolu
 url-classifier-debug-sbjs-modules = Protokol JS pro službu Safe Browsing
 url-classifier-debug-file = Současný soubor protokolu
+
 url-classifier-trigger-update = Spustit aktualizaci
 url-classifier-not-available = nedostupný
 url-classifier-disable-sbjs-log = Zakázat protokol JS služby Safe Browsing

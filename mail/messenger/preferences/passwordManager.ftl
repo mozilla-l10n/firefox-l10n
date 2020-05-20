@@ -45,6 +45,7 @@ import =
 close-button =
     .label = Zavřít
     .accesskey = Z
+
 show-passwords =
     .label = Zobrazit hesla
     .accesskey = o
@@ -62,3 +63,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Opravdu chcete odstranit všechna hesla?
 remove-all-passwords-title = Odstranit všechna hesla
 no-master-password-prompt = Opravdu chcete zobrazit svá hesla?
+
+## OS Authentication dialog
+

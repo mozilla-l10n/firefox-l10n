@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Název:
     .accesskey = N
+
 bookmark-overlay-location =
     .value = Adresa:
     .accesskey = A
+
 bookmark-overlay-folder =
     .value = Složka:
+
 bookmark-overlay-choose =
     .label = Vybrat…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Zobrazí všechny složky záložek
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Skryje zobrazenou sekci
+
 bookmark-overlay-new-folder-button =
     .label = Nová složka
     .accesskey = v
+
 bookmark-overlay-tags =
     .value = Štítky
     .accesskey = t
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Štítky oddělujte čárkou
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Zobrazí všechny štítky
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Skryje zobrazenou sekci
+
 bookmark-overlay-keyword =
     .value = Klíčové slovo:
     .accesskey = K
