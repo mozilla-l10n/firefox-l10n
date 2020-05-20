@@ -54,6 +54,7 @@ import =
 close-button =
     .label = 닫기
     .accesskey = C
+
 show-passwords =
     .label = 비밀번호 표시
     .accesskey = P

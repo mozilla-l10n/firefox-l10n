@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "피드 URL:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "추가하는 피드의 올바른 URL을 입력해 주세요.">
 <!ENTITY feedLocation2.placeholder   "올바른 피드 URL을 입력해주세요.">
 <!ENTITY locationValidate.label      "피드 검사">
 <!ENTITY validateText.label          "피드가 유효한지 확인해 올바른 URL을 취득합니다.">

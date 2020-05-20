@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "목록 설정">
+
 <!ENTITY ListType.label "목록 형태">
 <!ENTITY bulletStyle.label "기호 목록:">
 <!ENTITY startingNumber.label "시작:">

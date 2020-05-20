@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "가로선 설정">
+
 <!ENTITY dimensionsBox.label "차원">
 <!ENTITY heightEditField.label "높이:">
 <!ENTITY heightEditField.accessKey "G">
@@ -16,6 +19,7 @@
 <!ENTITY centerRadio.accessKey "C">
 <!ENTITY rightRadio.label "오른쪽">
 <!ENTITY rightRadio.accessKey "R">
+
 <!ENTITY threeDShading.label "3차원 형태">
 <!ENTITY threeDShading.accessKey "S">
 <!ENTITY saveSettings.label "기본 설정으로 저장">

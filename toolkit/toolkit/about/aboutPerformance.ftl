@@ -54,6 +54,7 @@ close-tab =
     .title = 탭 닫기
 show-addon =
     .title = 부가 기능 관리자에서 보기
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occurred for this page since it loaded

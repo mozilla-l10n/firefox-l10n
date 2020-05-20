@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "새 내부 링크를 삽입하거나 선택된 내부 링크 편집">
 <!ENTITY TextColorButton.tooltip "글자색 선택">
 <!ENTITY BackgroundColorButton.tooltip "배경색 선택">
-<!ENTITY throbber.tooltip "&vendorShortName; 홈 페이지 가기">
 <!ENTITY throbber.tooltip2 "&brandShortName; 홈페이지 가기">
 <!ENTITY HighlightColorButton.tooltip "글자 강조색 선택">
 

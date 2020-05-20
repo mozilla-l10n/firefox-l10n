@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "계정 설정">
 <!ENTITY accountName.label "계정 이름:">
 <!ENTITY accountName.accesskey "N">

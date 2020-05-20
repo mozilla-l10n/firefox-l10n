@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "쓰기 및 주소">
 <!ENTITY addressingGroupTitle.label "쓰기 및 주소">
 <!ENTITY addressingText.label      "주소 검색 설정:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "메시지 쓰기">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "HTML 형식으로 메일 쓰기">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "회신할 때 원문 자동으로 인용">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "메시지 위치">
-<!ENTITY then.accesskey                       "T">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "인용할 때,">
 <!ENTITY quoting.accesskey                    "q">

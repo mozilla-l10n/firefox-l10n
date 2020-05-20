@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title                "표 설정">
 <!ENTITY applyButton.label                "적용">
 <!ENTITY applyButton.accesskey            "A">
@@ -34,6 +35,7 @@
 <!ENTITY tableCaptionRight.label          "테이블 오른쪽">
 <!ENTITY tableCaptionNone.label           "없음">
 <!ENTITY tableInheritColor.label           "(페이지 색상 보임)">
+
 <!ENTITY cellSelection.label              "선택">
 <!ENTITY cellSelectCell.label             "셀">
 <!ENTITY cellSelectRow.label              "행">
@@ -63,6 +65,7 @@
 <!ENTITY cellAlignJustify.label           "양쪽 맞춤">
 <!ENTITY cellInheritColor.label           "(표에 적용할 색상)">
 <!ENTITY cellUseCheckboxHelp.label        "셀에 적용하려는 설정을 찾아 체크박스를 선택하십시오.">
+
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "크기">
 <!ENTITY pixels.label                     "픽셀">
