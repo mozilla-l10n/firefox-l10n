@@ -19,6 +19,7 @@
 
 <!ENTITY e2eTechPref.description "Tercih edilen şifreleme teknolojisi:">
 
+<!ENTITY encryptionCert2.message "Şifreleme için kişisel sertifika:">
 <!ENTITY digitalSign.certificate.button "Seç…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Temizle">
