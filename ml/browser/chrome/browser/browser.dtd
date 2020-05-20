@@ -18,41 +18,14 @@
 <!ENTITY appmenu.tooltip                     "മെനു തുറക്കുക">
 <!ENTITY navbarOverflow.label                "കൂടുതല്‍ പ്രയോഗങ്ങള്‍...">
 
-<!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "റ്റാബ് വീണ്ടും ലഭ്യമാക്കുക">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  selectAllTabs.label                "എല്ലാ ടാബുകളും തിരഞ്ഞെടുക്കുക">
-<!ENTITY  selectAllTabs.accesskey            "എസ്">
-<!-- LOCALIZATION NOTE (duplicateTab.label): This is a command to duplicate
-a tab (i.e. it is a verb, not adjective). -->
-<!ENTITY  duplicateTab.label                 "ടാബ് പകര്‍ത്തുക">
-<!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
-These items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  duplicateTab.accesskey             "ഡി">
 <!-- LOCALIZATION NOTE (duplicateTabs.label): This is a command to duplicate
 a tab (i.e. it is a verb, not adjective). -->
 <!-- LOCALIZATION NOTE (duplicateTab.accesskey, duplicateTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "വലത്തേക്കു് റ്റാബുകള്‍ അടയ്ക്കുക">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "മറ്റ് ടാബുകള്‍ അടയ്ക്കുക">
-<!ENTITY  closeOtherTabs.accesskey           "o">
 
-<!ENTITY  closeTabs.label                    "ടാബുകൾ അടയ്ക്കുക">
-<!ENTITY  pinSelectedTabs.label              "ടാബുകൾ പിൻ ചെയ്യുക">
 <!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
 unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!ENTITY  unpinSelectedTabs.label            "ടാബുകൾ അൺപിൻചെയ്യുക">
-<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
-unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!-- LOCALIZATION NOTE(reloadTab.label, reloadTabs.label): have the same accesskey
-but will never be visible at the same time. -->
-<!ENTITY  reloadTabs.label                   "ടാബുകൾ വീണ്ടും ലോഡുചെയ്യുക">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 
@@ -77,22 +50,10 @@ same accesskey but will never be visible at the same time. -->
 <!ENTITY  sendPageToDevice.accesskey         "എൻ">
 <!ENTITY  sendLinkToDevice.label             "ഡിവൈസിലേക്ക് കണ്ണി അയയ്ക്കുക">
 <!ENTITY  sendLinkToDevice.accesskey         "എൻ">
-<!-- LOCALIZATION NOTE (moveTabOptions.label and moveSelectedTabOptions.label):
-These two items have the same accesskey but will never be visible at the same time. -->
-<!ENTITY  moveTabOptions.label               "ടാബ് നീക്കുക">
-<!ENTITY  moveSelectedTabOptions.label       "ടാബുകൾ നീക്കുക">
-<!ENTITY  moveToStart.label                  "ആരംഭത്തിലേക്ക് നീക്കുക">
-<!ENTITY  moveToEnd.label                    "അവസാനത്തിലേക്ക് നീക്കുക">
-<!ENTITY  moveToNewWindow.label              "പുതിയ ജാലകത്തിലേക്ക് നീക്കുക">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  reopenInContainer.label            "കണ്ടെയ്നറിൽ വീണ്ടും തുറക്കുക">
-<!ENTITY  bookmarkTab.label                  "ടാബ് അടയാളപ്പെടുത്തുക">
 <!-- LOCALIZATION NOTE(bookmarkTab.accesskey, bookmarkSelectedTabs.accesskey):
 These items have the same accesskey but will never be visible at the same time. -->
 <!ENTITY  undoCloseTab.label                 "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "റ്റാബ് അടയ്ക്കുക">
-<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "എല്ലാ റ്റാബുകളും ലഭ്യമാക്കുക">
 <!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
@@ -137,11 +98,6 @@ same accesskey but will never be visible at the same time. -->
 <!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
 toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
 same accesskey but will never be visible at the same time. -->
-<!-- LOCALIZATION NOTE (toolbarContextMenu.bookmarkSelectedTab.accesskey,
-toolbarContextMenu.bookmarkSelectedTabs.accesskey): These share the
-same accesskey but will never be visible at the same time. -->
-<!ENTITY toolbarContextMenu.undoCloseTab.label "റ്റാബ് അടയ്ക്കുന്നതു് വേണ്ടെന്നു് വയ്ക്കുക">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "താളിന്റെ സ്രോതസ്സ്‌">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -164,6 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "സ്ക്രീന്‍ സാധാരണ വലിപ്പത്തില്‍">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "സ്കീന്‍ പൂര്‍ണ്ണ വലിപ്പത്തില്‍">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -195,7 +152,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      for the Firefox Account toolbart menu screen. The `Signed in as` text is
      followed by the user's email. -->
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -235,6 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "എല്ലാ റ്റാബുകളും അടയാളപ്പെടുത്തുക...">
+
 <!ENTITY showAllBookmarks2.label "എല്ലാ അടയാളക്കുറിപ്പുകളും കാണിയ്ക്കുക">
 <!ENTITY recentBookmarks.label "ഏറ്റവും ഒടുവില്‍ അടയാളക്കുറിപ്പാക്കിയതു്">
 <!ENTITY otherBookmarksCmd.label "മറ്റു് അടയാളക്കുറിപ്പുകള്‍">
@@ -254,7 +212,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "നിര്‍ത്തുക">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക">
+
 <!ENTITY printButton.label            "പ്രിന്റ് ചെയ്യുക">
 <!ENTITY printButton.tooltip          "ഈ താള്‍ അച്ചടിക്കുക">
 
@@ -269,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "പ്ളഗ് ഇൻ ഉപയോഗം മാനേജ് ചെയ്യുക">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "സൈറ്റില്‍ നിന്നും അറിയിപ്പുകള്‍ ലഭിക്കുന്നതില്‍ മാറ്റം വരുത്തുക">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ഡാറ്റ പെർസിസ്റ്റന്റ് സംഭരണത്തിൽ സംഭരിക്കുക">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ബ്രൗസർ വിദൂര നിയന്ത്രണത്തിലാണ്">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "താങ്കളുടെ ക്യാമറ അല്ലെങ്കില്‍ മൈക്രോഫോണ്‍ അല്ലെങ്കില്‍ അവ രണ്ടും സൈറ്റുമായി പങ്കിടുന്നത് ക്രമീകരിക്കുക">
@@ -288,7 +249,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്">
 <!ENTITY urlbar.popupBlocked.tooltip             "നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
+
 
 <!ENTITY searchItem.title             "തെരയുക">
 
@@ -346,8 +309,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ഫയല്‍">
 <!ENTITY fileMenu.accesskey       "F">
+
 <!ENTITY newUserContext.label             "പുതിയ കണ്ടെയ്നർ ടാബ്">
 <!ENTITY newUserContext.accesskey         "B">
+
 <!ENTITY newNavigatorCmd.label        "പുതിയ ജാലകം">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -393,6 +358,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T">
 <!ENTITY viewSidebarMenu.label "സൈഡ് ബാര്‍">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "ഇച്ഛാനുസൃതമാക്കുക...">
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 <!ENTITY overflowCustomizeToolbar.label       "ടൂൾബാർ ഇഷ്ടമുള്ള രീതിയിൽ ആക്കുക…">
@@ -469,6 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "കൂടുതൽ">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -512,6 +479,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "തെരച്ചില്‍ പദം">
+
 <!ENTITY contentSearchSubmit.tooltip  "തിരയല്‍ സമർപ്പിയ്ക്കുക">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -551,6 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "കണ്ണി പുതിയ റ്റാബില്‍ തുറക്കുക">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "കണ്ണി പുതിയ ജാലകത്തില്‍ തുറക്കുക">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -598,6 +567,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ഈ ഫ്രെയിം അടയാളപ്പെടുത്തുക">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "ലിങ്ക് പകർത്തുക">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -728,6 +698,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "പദാവലിയുടെ വലിപ്പം മാത്രം മാറ്റുക">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">
+
 <!ENTITY fullZoom.label                 "വലിപ്പം മാറ്റുക">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -844,37 +815,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
 
 <!ENTITY syncedTabs.sidebar.label              "സിന്‍ക് ചെയ്ത ടാബുകള്‍">
-<!ENTITY syncedTabs.sidebar.noclients.label    "മറ്റു ഡിവൈസുകളിലെ ടാബുകള്‍ കാണാന്‍ അവയില്‍ നിന്നും ഫയര്‍ഫോക്സില്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ ഇവിടെ കാണിക്കണോ?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "മറ്റു ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണാന്‍ സൈന്‍ ഇന്‍ ചെയ്യുക.">
-<!ENTITY syncedTabs.sidebar.notabs.label       "ടാബൊന്നും തുറന്നിരിക്കുന്നില്ല">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "&syncBrand.shortName.label; മുന്‍ഗണനകള്‍ തുറക്കുക">
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "മറ്റുള്ള ഉപകരണങ്ങളില്‍ നിന്നുള്ള ടാബുകള്‍ കാണുവാന്‍ ടാബ് സിന്‍ക് ഓണാക്കൂ">
-<!ENTITY syncedTabs.sidebar.searchPlaceholder  "സമന്വയിപ്പിച്ച ടാബുകൾ തിരയുക">
-
-<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
-                        syncedTabs.context.openAllInTabs.accesskey):
-     These access keys are identical because their associated menu items are
-     mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "തുറക്കുക">
-<!ENTITY syncedTabs.context.open.accesskey                   "ത">
-<!ENTITY syncedTabs.context.openInNewTab.label               "പുതിയ ടാബില്‍ തുറക്കുക">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ത">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "പുതിയ ജാലകത്തില്‍ തുറക്കുക">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ത">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "പുതിയ സ്വകാര്യ ജാലകത്തില്‍ തുറക്കുക">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "സ">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ഈ ടാബ് അടയാളപ്പെടുത്തുക...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ഈ">
-<!ENTITY syncedTabs.context.copy.label                       "പകര്‍ത്തുക">
-<!ENTITY syncedTabs.context.copy.accesskey                   "പ">
-
-<!ENTITY syncedTabs.context.openAllInTabs.label              "എല്ലാം ടാബുകളില്‍തുറക്കുക">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-<!ENTITY syncedTabs.context.managedevices.label              "ഡിവൈസ് നിയന്ത്രിക്കുവാൻ…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "സിന്‍ക്">
@@ -886,42 +826,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label;-ലേക്ക് വീണ്ടും കണക്ട് ചെയ്യുക…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "സിന്‍ക് ചെയ്യുക">
-
-<!ENTITY customizeMode.menuAndToolbars.header3 "നിങ്ങളുടെ പ്രിയപ്പെട്ട ഇനങ്ങൾ ടൂൾബാറിൽ അല്ലെങ്കിൽ ഓവർഫ്ലോ മെനുവിലേക്ക് ഡ്രാഗ് ചെയ്യുക.">
-<!ENTITY customizeMode.restoreDefaults "സ്വതവേയുള്ളവ പുനഃസ്ഥാപിക്കുക">
-<!ENTITY customizeMode.done "ചെയ്തു">
-<!ENTITY customizeMode.titlebar "തലക്കെട്ട് പട്ട">
-<!ENTITY customizeMode.extraDragSpace "സ്പെയ്സ് ഡ്രാഗ് ചെയ്യുക">
-<!ENTITY customizeMode.toolbars2 "ടൂൾബാറുകൾ">
-<!ENTITY customizeMode.lwthemes "പ്രമേയങ്ങള്‍">
-<!ENTITY customizeMode.lwthemes.myThemes "എന്റെ പ്രമേയങ്ങള്‍">
-<!ENTITY customizeMode.lwthemes.recommended "ഉചിതമായതു്">
-<!ENTITY customizeMode.lwthemes.menuManage "ക്രമീകരിക്കൂ">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "കൂടുതല്‍ തീമുകള്‍ ലഭ്യമാക്കുക">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.overflowList.title2 "ഓവർഫ്ളോ മെനു">
-<!ENTITY customizeMode.overflowList.description "ടൂള്‍ബാറില്‍ നിന്നു മാറി, കയ്യകലത്തില്‍ വക്കാനായി ഇങ്ങോട്ട് വലിച്ചിടുക…">
-<!ENTITY customizeMode.uidensity "സാന്ദ്രത">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!ENTITY customizeMode.uidensity.menuNormal.label "സാധാരണ">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "സാധാരണ">
-<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!ENTITY customizeMode.uidensity.menuCompact.label "കോംപാക്റ്റ്">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "കോംപാക്റ്റ്">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "തൊടുക">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "തൊടുക">
-<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ടാബ്ലെറ്റ് മോഡിനുവേണ്ടി ടച്ച് ഉപയോഗിക്കുക">
 
 <!ENTITY customizeMode.autoHideDownloadsButton.label "യാന്ത്രികമായ- മറയ്ക്കൽ">
 
@@ -958,28 +862,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "32em">
 
+
 <!ENTITY uiTour.infoPanel.close "അടയ്ക്കുക">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "അവസാനത്തേതു് മറക്കുക:">
-<!ENTITY panicButton.view.5min                    "അഞ്ച് മിനിറ്റ്">
-<!ENTITY panicButton.view.2hr                     "രണ്ട് മണിക്കൂർ">
-<!ENTITY panicButton.view.day                     "24മണിക്കൂര്‍">
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "മുമ്പോട്ടുള്ള സമ്മതം:">
-<!ENTITY panicButton.view.deleteCookies           "ഈയിടെയുള്ള<html:strong> ഉം </html:strong> ഉം നീക്കുക">
-<!ENTITY panicButton.view.deleteHistory           "അടുത്തിടെയുള്ള <html:strong>നാള്‍വഴി</html:strong> വെട്ടി നീക്കുക">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "എല്ലാ <html:strong>ടാബുകളും</html:strong><html:strong>ജാലകങ്ങളും</html:strong>അടക്കൂ">
-<!ENTITY panicButton.view.openNewWindow           "ഒഴിഞ്ഞ ഒരു പുതിയ ജാലകം തുറക്കൂ">
-
-<!ENTITY panicButton.view.undoWarning             "ഈ പ്രവര്‍ത്തനം ചെയ്തു കഴിഞ്ഞാല്‍ പിന്നെ മാറ്റാന്‍ സാദ്ധ്യമല്ല.">
-<!ENTITY panicButton.view.forgetButton            "മറന്നേക്ക്!">
 
 <!ENTITY panicButton.thankyou.msg1                "സമീപകാല നാള്‍വഴി മായ്ച്ചിരിക്കുന്നു">
 <!ENTITY panicButton.thankyou.msg2                "സുരക്ഷിത ബ്രൗസിങ്ങ്!">
@@ -988,31 +872,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "മികച്ച വേഗതയ്ക്കും സ്വകാര്യതക്കും നിങ്ങളുടെ &brandShorterName; അപ്ഡേറ്റ് ചെയ്യുക.">
-<!ENTITY updateAvailable.whatsnew.label "പുതിയതായി എന്താണ് ഉള്ളതെന്ന് കാണുക.">
-<!ENTITY updateAvailable.header.message "പുതിയ &brandShorterName; പുതുക്കല്‍ ലഭ്യമാണ്.">
-<!ENTITY updateAvailable.acceptButton.label "പുതുക്കല്‍ ഡൗൺലോഡു">
-<!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "ഇപ്പോൾ വേണ്ട">
-<!ENTITY updateAvailable.cancelButton.accesskey "N">
-
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; പുതുക്കല്‍ ഡൗൺലോഡു">
 
-<!ENTITY updateManual.message "&brandShorterName; ന്റെ പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യുക. അത് ഇൻസ്റ്റാൾ ചെയ്യാൻ ഞങ്ങൾ നിങ്ങളെ സഹായിക്കാം.">
-<!ENTITY updateManual.whatsnew.label "പുതിയതായി എന്താണ് ഉള്ളത് എന്ന് കാണുക.">
-<!ENTITY updateManual.header.message "&brandShorterName; നു പുതിയ പതിപ്പിലേക്ക് പുതുക്കാന്‍ പറ്റില്ല.">
-<!ENTITY updateManual.acceptButton.label "&brandShorterName; ഡൌൺലോഡ് ചെയ്യുക">
-<!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "ഇപ്പോൾ വേണ്ട">
-<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; ന്റെ ഒരു പുതിയ പകർപ്പ് ഡൌൺലോഡ് ചെയ്യു">
 
-<!ENTITY updateRestart.message2 "റീസ്റ്റാർട്ടിങ്ങു് ശേഷം &brandShorterName; സ്വകാര്യ ബ്രൌസിംഗ് മോഡിൽ ഇല്ലാത്ത നിങ്ങളുടെ എല്ലാ ഓപ്പൺ ടാബുകളും വിൻഡോകളും പുനഃസ്ഥാപിക്കും.">
-<!ENTITY updateRestart.header.message2 "&brandShorterName; അപ്ഡേറ്റ് ചെയ്യുവാനായി റീസ്റ്റാർട്ട് ചെയ്യുക.">
-<!ENTITY updateRestart.acceptButton.label "റീ സ്റ്റാർട്ട് ചെയ്ത് പുനഃസ്ഥാപിക്കുക">
-<!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "ഇപ്പോൾ വേണ്ട">
-<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "&brandShorterName; അപ്ഡേറ്റ് ചെയ്യുവാനായി റീ സ്റ്റാർട്ട് ചെയ്യുക">
 
 <!ENTITY newTabControlled.keepButton.label "മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക">

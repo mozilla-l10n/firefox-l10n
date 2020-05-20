@@ -4,27 +4,24 @@
 
 history-title = ഹിസ്റ്ററി പുതുക്കുക
 history-intro = ഈ പുതുക്കലുകള്‍ ഇന്‍സ്റ്റാള്‍ ചെയ്തു
+
 close-button-label =
     .buttonlabelcancel = അടയ്ക്കുക
     .title = ഹിസ്റ്ററി പുതുക്കുക
+
 no-updates-label = അപ്പ്ഡേറ്റുകള്‍ ഒന്നും ഇതുവരെ ഇന്‍സ്റ്റാള്‍ ചെയ്തിട്ടില്ല
 name-header = പേര് പുതുക്കുക
 date-header = ഇന്‍സ്റ്റാള്‍ ചെയ്ത തിയതി
 type-header = ഏത് തരം
 state-header = അവസ്ഥ
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name }({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name }({ $buildID })
+
 update-details = വിവരങ്ങള്‍
 update-installed-on = ഇന്‍സ്റ്റോള്‍ ചെയ്യപ്പെട്ടതു്  { $date }
 update-status = സ്ഥിതി  { $status }

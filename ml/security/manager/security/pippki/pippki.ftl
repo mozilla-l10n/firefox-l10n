@@ -8,6 +8,7 @@ password-quality-meter = പാസ്‌വേഡിന്റെ ക്വാള
 
 change-password-window =
     .title = പ്രധാന പാസ്‌വേര്‍ഡ്മാറ്റുക
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = സുരക്ഷ ഉപകരണങ്ങള്‍: { $tokenName }

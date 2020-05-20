@@ -5,49 +5,64 @@
 permissions-window =
     .title = വിട്ടുവീഴ്ചകള്‍
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = വെബ്സൈറ്റിന്റെ വിലാസം
     .accesskey = d
+
 permissions-block =
     .label = തടയുക
     .accesskey = B
+
 permissions-session =
     .label = ഈ സെഷന്‌ അനുവദിക്കുക
     .accesskey = S
+
 permissions-allow =
     .label = അനുവദിക്കുക
     .accesskey = A
+
 permissions-site-name =
     .label = വെബ്‌സൈറ്റ്
+
 permissions-status =
     .label = സ്ഥിതി
+
 permissions-remove =
     .label = വെബ്സൈറ്റ് നീക്കം ചെയ്യുക
     .accesskey = R
+
 permissions-remove-all =
     .label = എല്ലാ വെബ്സൈറ്റുകളും നീക്കം ചെയ്യുക
     .accesskey = e
+
 permissions-button-cancel =
     .label = റദ്ദാക്കുക
     .accesskey = C
+
 permissions-button-ok =
     .label = മാറ്റങ്ങള്‍ സൂക്ഷിക്കുക
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = വെബ്സൈറ്റ് തിരയുക
+
 permissions-capabilities-autoplay-allow =
     .label = ഓഡിയോയും വീഡിയോയും അനുവദിക്കുക
 permissions-capabilities-autoplay-block =
     .label = ഓഡിയോ തടയുക
 permissions-capabilities-autoplay-blockall =
     .label = ഓഡിയോയും വീഡിയോയും തടയുക
+
 permissions-capabilities-allow =
     .label = അനുവദിക്കുക
 permissions-capabilities-block =
     .label = തടയുക
 permissions-capabilities-prompt =
     .label = എപ്പോഴും ചോദിക്കുക
+
 permissions-capabilities-listitem-allow =
     .value = അനുവദിക്കുക
 permissions-capabilities-listitem-block =

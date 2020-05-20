@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = സൈറ്റ് വിവരങ്ങള്‍ കാണുക
 
@@ -62,10 +63,12 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്
 urlbar-popup-blocked =
     .tooltiptext = നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ഈ അടയാളം ചിട്ടപ്പെടുത്തുക ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -95,6 +98,7 @@ search-one-offs-change-settings-button =
     .label = തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ
 search-one-offs-change-settings-compact-button =
     .tooltiptext = തിരച്ചിൽ സെറ്റിങ്സ് ‌മാറ്റുക
+
 search-one-offs-context-open-new-tab =
     .label = പുതിയ ടാബില്‍ തിരയുക
     .accesskey = T
@@ -173,9 +177,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ബ്രൗസർ വിദൂര നിയന്ത്രണത്തിലാണ്
 urlbar-switch-to-tab =
     .value = ഏതു് റ്റാബ്:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ‌‌എക്സ്ടെൻഷൻ:
+
 urlbar-go-button =
     .tooltiptext = അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക
 urlbar-page-action-button =

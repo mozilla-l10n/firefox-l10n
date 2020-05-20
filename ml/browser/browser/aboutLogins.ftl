@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = ഗൂഗിള്‍ പ്ലേയില്‍ നിന്ന് സ്വീകരിക്കുക
 login-app-promo-apple =
     .alt = ആപ്പ് സ്റ്റോറില്‍ നിന്നും ഡൗണ്‍ലോഡ് ചെയ്യുക
+
 login-filter =
     .placeholder = ലോഗിനുകൾ തിരയുക
+
 create-login-button = പുതിയ ലോഗിൻ സൃഷ്ടിക്കുക
+
 fxaccounts-sign-in-text = നിങ്ങളുടെ മറ്റ് ഉപകരണങ്ങളിൽ പാസ്‌വേഡുകൾ നേടുക
 fxaccounts-sign-in-button = { -sync-brand-short-name }-ലേക്ക് പ്രവേശിയ്ക്കുക
 fxaccounts-avatar-button =
@@ -24,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = മെനു തുറക്കുക
-# This menuitem is only visible on Windows
-menu-menuitem-import = പാസ്‌വേഡുകൾ ഇറക്കുമതി ചെയ്യുക…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] ഓപ്ഷനുകൾ
@@ -47,7 +48,6 @@ login-list-count =
 login-list-sort-label-text = ഇങ്ങനെ അടുക്കുക:
 login-list-name-option = പേര് (A-Z)
 login-list-name-reverse-option = പേര് (Z-A)
-login-list-breached-option = ലംഘിച്ച വെബ്‌സൈറ്റുകൾ
 login-list-last-changed-option = ഏറ്റവും ഒടുവില്‍ മാറ്റം വരുത്തിയതു്
 login-list-last-used-option = അവസാനം ഉപയോഗിച്ചത്
 login-list-intro-title = പ്രവേശനങ്ങള്‍ ഒന്നും കണ്ടില്ല
@@ -95,6 +95,12 @@ login-item-time-changed = അവസാനം പരിഷ്‌ക്കരി�
 login-item-time-created = സൃഷ്ടിച്ചത്: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = അവസാനം ഉപയോഗിച്ചത്: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-notification-message = സംരക്ഷിച്ച ലോഗിനുകളും പാസ്‌വേഡുകളും കാണുന്നതിന് ദയവായി നിങ്ങളുടെ മാസ്റ്റർ പാസ്‌വേഡ് നൽകുക
@@ -125,9 +131,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = റദ്ദാക്കുക
 confirmation-dialog-dismiss-button =
     .title = റദ്ദാക്കുക
+
 about-logins-confirm-remove-dialog-title = ഈ പ്രവേശനം നീക്കം ചെയ്യണോ?
 confirm-delete-dialog-message = ഈ പ്രവർത്തനം പഴയപടിയാക്കാനാവില്ല.
 about-logins-confirm-remove-dialog-confirm-button = നീക്കം ചെയ്യുക
+
 confirm-discard-changes-dialog-title = സംരക്ഷിക്കാത്ത മാറ്റങ്ങൾ നിരസിക്കണോ?
 confirm-discard-changes-dialog-message = സംരക്ഷിക്കാത്ത എല്ലാ മാറ്റങ്ങളും നഷ്‌ടപ്പെടും.
 confirm-discard-changes-dialog-confirm-button = ഉപേക്ഷിക്കുക
@@ -135,9 +143,8 @@ confirm-discard-changes-dialog-confirm-button = ഉപേക്ഷിക്ക�
 ## Breach Alert notification
 
 breach-alert-text = നിങ്ങളുടെ ലോഗിൻ വിശദാംശങ്ങൾ‌ അവസാനമായി അപ്‌ഡേറ്റുചെയ്‌തതുമുതൽ‌ ഈ വെബ്‌സൈറ്റിൽ‌ നിന്നും പാസ്‌വേഡുകൾ‌ ചോർത്തപ്പെടുകയോ മോഷ്‌ടിക്കപ്പെടുകയോ ചെയ്‌തു. നിങ്ങളുടെ അക്കൗണ്ട് പരിരക്ഷിക്കുന്നതിന് പാസ്‌വേഡ് മാറ്റുക.
-breach-alert-link = ഈ ലംഘനത്തെക്കുറിച്ച് കൂടുതലറിയുക.
-breach-alert-dismiss =
-    .title = ഈ മുന്നറിയിപ്പ് അടയ്‌ക്കുക
+
+## Vulnerable Password notification
 
 ## Error Messages
 
@@ -146,5 +153,6 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } ആ ഉപയോക്തൃനാമമുള്ള ഒരു എൻ‌ട്രി ഇതിനകം നിലവിലുണ്ട്. <a data-l10n-name="duplicate-link"> നിലവിലുള്ള എൻ‌ട്രിയിലേക്ക് പോകുണോ? </a>
+
 # This is a generic error message.
 about-logins-error-message-default = ഈ പാസ്‌വേഡ് സംരക്ഷിക്കാൻ ശ്രമിക്കുമ്പോൾ ഒരു പിശക് സംഭവിച്ചു.

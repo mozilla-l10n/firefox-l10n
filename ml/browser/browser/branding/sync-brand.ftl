@@ -3,9 +3,11 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 -sync-brand-short-name = സിന്‍ക്
+
 # “Sync” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -sync-brand-name = ഫയര്‍ഫോക്സ് സിന്‍ക്
+
 # “Account” can be localized, “Firefox” must be treated as a brand,
 # and kept in English.
 -fxaccount-brand-name = ഫയര്‍ഫോക്സ് അക്കൌണ്ട്

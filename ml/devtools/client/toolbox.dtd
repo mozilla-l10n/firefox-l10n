@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -12,7 +13,6 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "ബ്രൌസര്‍ ടൂള്‍ബോക്സ് തുറക്കുന്നതില്‍ പിഴവ്:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -146,8 +146,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "യഥാര്‍ത്ഥ ശ്രോതസ്സുകള്‍ കാണിയ്ക്കുക">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "യഥാർഥ സ്രോതസ്സുകൾ (ഉദാ: Sass ഫയലുകൾ) സ്റ്റൈൽ എഡിറ്ററിലും നിരീക്ഷകനിലും കാണിക്കുക ">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -166,14 +164,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "സാധാരണ മുൻഗണനകൾ">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "സ്ഥിരമായ ലോഗുകള്‍ പ്രവര്‍ത്തന സജ്ജമാക്കുക">
-<!ENTITY options.enablePersistentLogs.tooltip  "ഈ ഐച്ഛികം പ്രവര്‍ത്തന സജ്ജമാക്കിയാല്‍, ഒരോ പുതിയ താളിലേക്കു് പോകുമ്പോഴും വെബ് കണ്‍സോളും ശൃംഘല നിരീക്ഷകനും ഔട്ട്പുട്ട് വെടിപ്പാക്കുന്നതല്ല.">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -181,6 +176,7 @@
 
 <!ENTITY options.showPlatformData.label    "ജക്കോ പ്ലാറ്റ്ഫോ ഡേറ്റാ കാണിയ്ക്കുക">
 <!ENTITY options.showPlatformData.tooltip  "ഈ ഐച്ഛികം സജ്ജമാക്കിയാല്‍, ജാവാസ്ക്രിപ്റ്റ് പ്രൊഫൈലര്‍ റിപോര്‍ട്ടില്‍ ജെക്കോ പ്ലാറ്റ്ഫോം ചിഹ്നങ്ങളും ഉള്‍പ്പെടുന്നു">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

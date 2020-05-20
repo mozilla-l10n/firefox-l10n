@@ -4,6 +4,7 @@
 
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = വിച്ഛേദിക്കുന്നു ...
+
 sync-disconnect-cancel =
     .label = റദ്ദാക്കുക
     .accesskey = C
@@ -16,3 +17,4 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = വിച്ഛേദിക്കുക & ഇല്ലാതാക്കുക
     .accesskey = D
+

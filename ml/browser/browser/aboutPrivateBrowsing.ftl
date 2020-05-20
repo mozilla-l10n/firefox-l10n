@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = കൂടുതൽ അറിയുക <a data-l10n-name="learn-more">സ്വകാര്യമായ ബ്രൗസിംഗ്</a>.
 about-private-browsing-info-visited = സന്ദര്‍ശിച്ച താളുകള്‍
+
 privatebrowsingpage-open-private-window-label = ഒരു സ്വകാര്യ ജാലകം തുറക്കുക
     .accesskey = ക
 about-private-browsing-info-notsaved = നിങ്ങള്‍ സ്വകാര്യ ജാലകത്തില്‍ ബ്രൗസ് ചെയ്യുമ്പോള്‍, { -brand-short-name } ഇവയൊന്നും <strong>സൂക്ഷിക്കുന്നില്ല</strong>:
@@ -25,3 +26,4 @@ about-private-browsing =
 about-private-browsing-not-private = നിങ്ങള്‍ നിലവില്‍ ഒരു സ്വകാര്യ ജാലകത്തിലല്ല.
 content-blocking-title = ഉള്ളടക്ക തടയൽ
 content-blocking-description = ചില വെബ്‌സൈറ്റുകൾ നിങ്ങളുടെ ഇന്റർനെറ്റിലുടനീളമുള്ള പ്രവർത്തനങ്ങള്‍ നിരീക്ഷിക്കാനുതകുന്ന ട്രാക്കറുകള്‍ ഉപയോഗിക്കുന്നുണ്ട്. { -brand-short-name } സ്വകാര്യ വിന്ഡോകളിൽ ഉള്ളടക്കം തടയൽ യാന്ത്രികമായി, നിങ്ങളുടെ ബ്രൗസിങ്ങ് പെരുമാറ്റത്തെ കുറിച്ചുള്ള വിവരങ്ങള്‍ ശേഖരിക്കുന്ന നിരവധി ട്രാക്കറുകളെ തടയും.
+
