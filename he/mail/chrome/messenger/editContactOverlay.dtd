@@ -20,9 +20,6 @@
 <!ENTITY editContactAddressBook.label "פנקס כתובות">
 <!ENTITY editContactAddressBook.accesskey "פ">
 
-<!ENTITY editContactPanelCancel.label "ביטול">
-<!ENTITY editContactPanelCancel.accesskey "ב">
-
 <!ENTITY editContactPanelDone.label "סיום">
 <!ENTITY editContactPanelDone.accesskey "ס">
 

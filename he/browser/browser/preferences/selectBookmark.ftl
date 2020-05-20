@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = הגדרת דף הבית
     .style = width: 32em;
+
 select-bookmark-desc = נא לבחור בסימנייה שתשמש בתור דף הבית שלך. אם בחירתך היא תיקייה, הסימניות שבאותה התיקייה תיפתחנה בלשוניות.

@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "נדרשת (לא ניתן לשלוח הודעה אלא אם לכל הנמענים יש אישורים)">
 <!ENTITY alwaysEncryptMessage.accesskey "ד">
 <!ENTITY encryptionCert.message "השתמש באישור זה להצפנת ופיענוח הודעות הנשלחות אליך:">
+
 <!ENTITY digitalSign.certificate.button "בחירה…">
 <!ENTITY digitalSign.certificate.accesskey "ב">
 <!ENTITY digitalSign.certificate_clear.button "מחיקה">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "בחירת אישור">
 <!ENTITY certPicker.info  "אישור:">
 <!ENTITY certPicker.detailsLabel "פרטי האישור הנבחר:">
+

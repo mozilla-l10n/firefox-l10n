@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = ביטול סגירת לשונית
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = חיפוש לשוניות
+
 all-tabs-menu-new-user-context =
     .label = מגירת לשוניות חדשה
+
 all-tabs-menu-hidden-tabs =
     .label = לשוניות מוסתרות
+
 all-tabs-menu-manage-user-context =
     .label = ניהול מגירות
     .accesskey = ג

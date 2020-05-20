@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = מידע נוסף על <a data-l10n-name="learn-more">גלישה פרטית</a>.
 about-private-browsing-info-visited = היסטוריה
+
 privatebrowsingpage-open-private-window-label = פתיחת חלון פרטי
     .accesskey = פ
 about-private-browsing-info-notsaved = בגלישה בחלון פרטי, { -brand-short-name } <strong>אינו שומר</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = אינך כעת בחלון גלישה פר�
 content-blocking-title = חסימת תוכן
 content-blocking-description = אתרים מסוימים משתמשים ברכיבי מעקב היכולים לעקוב אחר הפעילות שלך ברחבי האינטרנט. בחלונות פרטיים, חסימת התוכן של { -brand-short-name } חוסמת באופן אוטומטי רכיבי מעקב רבים שיכולים לאסוף מידע על התנהגות הגלישה שלך.
 about-private-browsing-info-description = { -brand-short-name } מנקה את היסטוריית החיפוש והגלישה שלך כשהיישום נסגר או בעת סגירת כל הלשוניות והחלונות של גלישה פרטית. פעולה זו אמנם לא הופכת אותך לאלמוני כלפי אתרים או ספק האינטרנט שלך, אבל כן מקלה עליך בשמירה על הפעולות המקוונות שלך מפני כל מי שמשתמש במחשב זה.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

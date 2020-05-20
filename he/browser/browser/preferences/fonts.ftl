@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = גופנים
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = גופנים עבור
     .accesskey = נ
+
 fonts-langgroup-arabic =
     .label = ערבית
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = יחסי
     .accesskey = ח
+
 fonts-default-serif =
     .label = סריף
 fonts-default-sans-serif =
     .label = סאן־סריף
+
 fonts-proportional-size = גודל
     .accesskey = ג
+
 fonts-serif = סריף
     .accesskey = ס
+
 fonts-sans-serif = סאן־סריף
     .accesskey = ר
+
 fonts-monospace = רוחב קבוע
     .accesskey = ב
+
 fonts-monospace-size = גודל
     .accesskey = ד
+
 fonts-minsize = גודל גופן מינימלי
     .accesskey = פ
+
 fonts-minsize-none =
     .label = ללא
+
 fonts-allow-own =
     .label = לאפשר לדפים לבחור בגופנים שלהם במקום בחירתי למעלה
     .accesskey = ג
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = קידוד טקסט לתוכן ישן
 fonts-languages-fallback-desc = קידוד טקסט זה מיועד עבור תוכן ישן שלא הוגדר עבורו קידוד.
+
 fonts-languages-fallback-label = קידוד טקסט חלופי
     .accesskey = ט
+
 fonts-languages-fallback-name-auto =
     .label = ברירת מחדל לשפה הנוכחית
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = וייטנאמית
 fonts-languages-fallback-name-other =
     .label = אחר (כולל מערב אירופי)
-fonts-very-large-warning-title = הגודל המינימלי לגופנים מאד גדול
-fonts-very-large-warning-message = נבחר גודל מינימלי לגופנים מאד גדול (יותר מ־24 פיקסלים). פעולה זו עשויה לגרום לכך שיהיה מאד קשה או אף בלתי אפשרי להשתמש בדפי הגדרות חשובים כמו זה.
-fonts-very-large-warning-accept = להשאיר את השינויים בכל זאת
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

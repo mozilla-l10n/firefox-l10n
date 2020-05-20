@@ -14,6 +14,7 @@
 # Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
+
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 <!ENTITY mailViewSetupTitle.label "הגדרות תצוגת הודעה">

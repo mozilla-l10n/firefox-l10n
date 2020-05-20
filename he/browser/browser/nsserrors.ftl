@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = אירעה שגיאה בהתחברות אל { $hostname }.‏ { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = קוד שגיאה: { $error }
+
 psmerr-ssl-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שפרוטוקול ה־SSL נוטרל.
 psmerr-ssl2-disabled = לא ניתן להתחבר בצורה מאובטחת מכיוון שהאתר משתמש בגרסה ישנה ולא מאובטחת של פרוטוקול ה־SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     קיבלת אישור אבטחה שגוי. אנא צור קשר עם מנהל השרת או איש הקשר שצוין באישור האבטחה ותן להם את הפרטים הבאים:
     
     אישור האבטחה שלך מכיל את אותו המספר הסידורי כמו אישור אבטחה אחר שהונפק על־ידי רשות אישורי האבטחה. אנא השג אישור אבטחה חדש המכיל מספר סידורי ייחודי.
+
 ssl-error-export-only-server = לא ניתן לתקשר בצורה מאובטחת. נקודת הקצה לא תומכת בהצפנה ברמה גבוהה.
 ssl-error-us-only-server = לא ניתן ליצור קשר בצורה מאובטחת. הצד השני דורש אבטחה ברמה גבוהה שאין בה תמיכה.
 ssl-error-no-cypher-overlap = לא ניתן ליצור קשר בצורה מאובטחת עם הצד השני: אין אלגוריתמים חופפים של הצפנה.

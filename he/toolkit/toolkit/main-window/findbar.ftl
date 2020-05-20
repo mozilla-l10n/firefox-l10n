@@ -9,12 +9,10 @@ findbar-next =
     .tooltiptext = מציאת המופע הבא של הביטוי
 findbar-previous =
     .tooltiptext = מציאת המופע הקודם של הביטוי
+
 findbar-find-button-close =
     .tooltiptext = סגירת סרגל החיפוש
-findbar-highlight-all =
-    .label = הדגשת כל המופעים
-    .accesskey = ד
-    .tooltiptext = הדגשת כל המופעים של הביטוי
+
 findbar-highlight-all2 =
     .label = הדגשת כל המופעים
     .accesskey =
@@ -23,10 +21,12 @@ findbar-highlight-all2 =
            *[other] ד
         }
     .tooltiptext = הדגשת כל המופעים של הביטוי
+
 findbar-case-sensitive =
     .label = התאמת אותיות גדולות/קטנות
     .accesskey = ת
     .tooltiptext = חיפוש עם רגישות לאותיות גדולות
+
 findbar-entire-word =
     .label = מילים שלמות
     .accesskey = ש

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "עותקים ותיקיות">
 <!ENTITY sendingPrefix.label "כאשר שולחים הודעות, אוטומטית:">
 <!ENTITY fccMailFolder.label "שים עותק בתוך:">

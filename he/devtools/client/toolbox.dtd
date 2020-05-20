@@ -135,11 +135,6 @@
 <!ENTITY options.timestampMessages.label      "הצגת חותמות זמן">
 <!ENTITY options.timestampMessages.tooltip    "הפעלת אפשרות זו תציג חותמות זמן בפקודות ובפלט במסוף הרשת">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "קיבוץ הודעות דומות">
-<!ENTITY options.warningGroups.tooltip    "כשאפשרות זו מופעלת, הודעות דומות יוצבו בקבוצות">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "מנפה שגיאות">

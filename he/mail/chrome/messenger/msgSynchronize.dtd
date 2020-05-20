@@ -16,6 +16,10 @@
 -->
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "הורדה וסנכרון הודעות">
 <!ENTITY MsgSelect.label "פריטים לשימוש לא־מקוון">
 <!ENTITY MsgSyncDesc.label "אם כבר בחרת תיקיות דואר או קבוצות דיון לשימוש לא־מקוון, אתה יכול להוריד ו/או לסנכרן אותם עכשיו. אחרת, השתמש בכפתור &quot;בחירה&quot; לבחירת תיקיות דואר וקבוצות דיון לשימוש לא־מקוון.">

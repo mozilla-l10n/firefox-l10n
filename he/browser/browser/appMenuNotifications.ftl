@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = ב
 appmenu-addon-private-browsing-message = כל הרחבה חדשה שתתווסף אל { -brand-shorter-name } לא תעבוד בחלונות פרטיים אלא אם תאופשר לכך בהגדרות.
 appmenu-addon-private-browsing-learn-more = מידע נוסף על ניהול הגדרות הרחבות
+    
 appmenu-new-tab-controlled =
     .label = הלשונית החדשה שלך השתנתה.
     .buttonlabel = להשאיר שינויים

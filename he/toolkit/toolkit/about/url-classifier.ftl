@@ -39,6 +39,7 @@ url-classifier-debug-sb-modules = מודולי רישום לגלישה בטוח�
 url-classifier-debug-modules = המודולים הנוכחיים לרישום
 url-classifier-debug-sbjs-modules = רישום JS לגלישה בטוחה
 url-classifier-debug-file = קובץ הרישום הנוכחי
+
 url-classifier-trigger-update = בקשת עדכון
 url-classifier-not-available = לא זמין
 url-classifier-disable-sbjs-log = נטרול רישום JS לגלישה בטוחה

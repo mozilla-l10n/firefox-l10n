@@ -103,6 +103,7 @@ print-window =
     .title = מדפיס
 print-complete =
     .value = הדפסה הושלמה.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

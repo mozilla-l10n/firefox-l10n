@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "הכנס עוגן חדש או ערוך מאפייני עוגן נבחר">
 <!ENTITY TextColorButton.tooltip "בחר צבע לטקסט">
 <!ENTITY BackgroundColorButton.tooltip "בחר צבע לרקע">
-<!ENTITY throbber.tooltip "לך לעמוד הבית של &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "בחר צבע הדגשה לטקסט">
 
 <!-- Editor toolbar -->

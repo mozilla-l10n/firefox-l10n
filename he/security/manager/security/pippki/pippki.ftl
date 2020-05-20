@@ -8,6 +8,7 @@ password-quality-meter = מד איכות ססמה
 
 change-password-window =
     .title = שינוי ססמה ראשית
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = התקן אבטחה: { $tokenName }

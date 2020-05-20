@@ -70,7 +70,6 @@
 <!ENTITY Birthday.label                 "יום הולדת:">
 <!ENTITY Birthday.accesskey             "י">
 <!ENTITY Year.placeholder               "שנה">
-<!ENTITY Or.value                       "או">
 <!ENTITY Age.placeholder                "גיל">
 
 <!ENTITY Work.tab                       "עבודה">

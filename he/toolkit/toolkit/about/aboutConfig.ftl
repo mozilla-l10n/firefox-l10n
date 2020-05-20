@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = הסיכון מקובל עלי!
 config-about-warning-checkbox =
     .label = הצגת אזהרה זו בפעם הבאה
+
 config-search-prefs =
     .value = חיפוש:
     .accesskey = ח
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = העתקה
     .accesskey = ה
+
 config-copy-name =
     .label = העתקת שם
     .accesskey = ע
+
 config-copy-value =
     .label = העתקת ערך
     .accesskey = ר
+
 config-modify =
     .label = שינוי
     .accesskey = ש
+
 config-toggle =
     .label = החלף
     .accesskey = ה
+
 config-reset =
     .label = אתחול
     .accesskey = א
+
 config-new =
     .label = חדש
     .accesskey = ח
+
 config-string =
     .label = מחרוזת
     .accesskey = ח
+
 config-integer =
     .label = מספר שלם
     .accesskey = ס
+
 config-boolean =
     .label = בוליאני
     .accesskey = ב
+
 config-default = בררת מחדל
 config-modified = שינוי
 config-locked = נעול
+
 config-property-string = מחרוזת
 config-property-int = מספר שלם
 config-property-bool = בוליאני
+
 config-new-prompt = הכנס את שם ההעדפה
+
 config-nan-title = ערך לא תקני
 config-nan-text = הטקסט שהכנסת אינו מספר.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ערך { $type } חדש
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = הכנס ערך { $type }
