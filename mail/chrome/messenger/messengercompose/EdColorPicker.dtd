@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Boja">
 <!ENTITY lastPickedColor.label "Posljednja odabrana boja">
 <!ENTITY lastPickedColor.accessKey "P">
-<!ENTITY setColor1.label "Kliknite na boju ili">
-<!ENTITY setColor2.label "upišite HTML direktivu boje">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Odaberite boju:">
 <!ENTITY chooseColor2.label "Unesite HTML izraz boje">
 <!ENTITY chooseColor2.accessKey "U">

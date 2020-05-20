@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Dodaj novu Filelink uslugu pohrane">
 <!ENTITY removeCloudFileAccount.label     "Ukloni">
 <!ENTITY removeCloudFileAccount.accesskey "U">
-<!ENTITY authRequired.description         "Potrebno je vaše odobrenje kako bi vidjeli postavke ove usluge pohrane.">
-<!ENTITY authRequired.button.label        "Odobri">
-<!ENTITY authRequired.button.accesskey    "O">
 
 <!ENTITY findCloudFileProviders.label     "Pronađite više davatelja usluga…">
 

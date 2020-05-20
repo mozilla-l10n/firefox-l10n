@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Bez proxyja za:">
 <!ENTITY  noproxy.accesskey             "z">
 <!ENTITY  noproxyExplain.label          "Primjer: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Koristi ovaj proxy poslužitelj za sve protokole">
+<!ENTITY  shareproxy.accesskey          "o">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Veze s localhost, 127.0.0.1 i ::1 nikada nisu preko proxy.">
-<!ENTITY  shareproxy.label              "Koristi ovaj proxy poslužitelj za sve protokole">
-<!ENTITY  shareproxy.accesskey          "o">
 <!ENTITY  proxyHttpSharing.label        "Koristi ovaj proxy i za HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "k">
 <!ENTITY  autologinproxy.label          "Ne pitaj za prijavu ukoliko je lozinka spremljena">

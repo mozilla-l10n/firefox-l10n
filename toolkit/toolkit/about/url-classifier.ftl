@@ -28,6 +28,7 @@ url-classifier-cache-show-entries = Prikaži unose
 url-classifier-cache-entries = Zapisi predmemorije
 url-classifier-debug-modules = Trenutačni log moduli
 url-classifier-debug-file = Trenutačna log datoteka
+
 url-classifier-trigger-update = Pokreni nadogradnju
 url-classifier-not-available = Ništa
 url-classifier-disable-sbjs-log = Onemogući JS zapis sigurnog pregledavanja

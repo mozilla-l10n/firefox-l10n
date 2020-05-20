@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Idi na adresu iz lokacijske trake">
+
 <!ENTITY printButton.label            "Ispiši">
 <!ENTITY printButton.tooltip          "Ispiši ovu stranicu">
 
@@ -632,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Spremi u Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Spremi stranicu u Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Spremi poveznicu u Pocket">

@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Kako bi se uštedio diskovni prostor, ne preuzimaj:">
 <!ENTITY doNotDownloadNntp.label "Kako bi se uštedio diskovni prostor, ne preuzimaj za izvanmrežno korištenje:">
 <!ENTITY doNotDownloadImap.label "Kako bi se uštedio diskovni prostor, preuzimanje poruka s poslužitelja i čuvanje lokalnih kopija za izvanmrežno korištenje može biti ograničeno po starosti ili veličini.">
-<!ENTITY allFoldersOffline.label "Zadrži poruke ovog računa na ovom računalu">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Zadrži poruke u svim mapama za ovaj račun na ovom računalu">
 <!ENTITY allFoldersOffline2.accesskey "Z">
 <!ENTITY allFoldersOfflineNote.label "Bilješka: Izmjena utječe na sve mape ovog računa. Kako biste postavili samo za pojedinačne mape, koristite tipku Napredno….">
