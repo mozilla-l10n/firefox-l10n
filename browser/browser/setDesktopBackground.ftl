@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = තිරයේ පසුබිමට සැකසීම
+
 set-desktop-background-accept =
     .label = තිරයේ පසුබිමට සැකසීම
+
 open-desktop-prefs =
     .label = තිරමුහුණත අභිප්‍රේත විවෘත කරන්න
+
 set-background-color = වර්ණය
+
 set-background-position = පිහිටීම:
+
 set-background-tile =
     .label = ටයිල්
+
 set-background-center =
     .label = මැදින්
+
 set-background-stretch =
     .label = ඇදෙන සේ
+
 set-background-fill =
     .label = පිරවීම
+
 set-background-fit =
     .label = සවිකිරීම

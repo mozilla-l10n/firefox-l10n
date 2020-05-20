@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "ශබ්දකෝෂයේ වචන:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Replace">
-<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "ඉවත් කරන්න">
 <!ENTITY RemoveButton.accessKey "e">
 

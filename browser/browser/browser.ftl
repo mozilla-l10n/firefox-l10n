@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = අඩවි තොරතුරු පෙන්වන්න
 
@@ -66,10 +67,12 @@ urlbar-popup-blocked =
     .tooltiptext = ඔබ මෙම අඩවිය සඳහා පොප්-අප් වළක්වා ඇත.
 urlbar-midi-blocked =
     .tooltiptext = ඔබ මෙම වෙබ්අඩවියට MIDI පිවිසුම අවහිර කර ඇත.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = මෙම පිටු සලකුණ සකසන්න ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -101,6 +104,7 @@ search-one-offs-change-settings-button =
     .label = සෙවුම් සැකසුම් වෙනස් කරන්න
 search-one-offs-change-settings-compact-button =
     .tooltiptext = සෙවුම් සිටුවම් වෙනස් කරන්න
+
 search-one-offs-context-open-new-tab =
     .label = නව ටැබයක සොයන්න
     .accesskey = T
@@ -181,9 +185,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ගවේශකය දුරස්ථ පාලනයේ පවතී
 urlbar-switch-to-tab =
     .value = ටැබයට මාරුවෙන්න:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = දිගුව:
+
 urlbar-go-button =
     .tooltiptext = පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න
 urlbar-page-action-button =

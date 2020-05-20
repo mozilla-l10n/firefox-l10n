@@ -25,6 +25,7 @@ appmenu-update-restart =
     .secondarybuttonlabel = පසුවට
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = ඉක්මන් යළි ඇරඹීමකින් පසු, { -brand-shorter-name } විසින් පුද්ගලික ගවේෂක ප්‍රකාරයේ නොවන සියළු විවෘත ටැබ හා කවුළු යළි පිහිටවනු ඇත.
+    
 appmenu-new-tab-controlled =
     .label = ඔබේ නව ටැබය වෙනස් වී ඇත.
     .buttonlabel = වෙනස්කම් තබාගන්න

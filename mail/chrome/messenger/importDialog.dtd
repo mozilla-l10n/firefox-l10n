@@ -10,6 +10,14 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 "&brandShortName;" below.
 --> 
 
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "ආයාත කිරීම">
 <!ENTITY importAll.label          "සියල්ල ආයාත කිරීම">
 <!ENTITY importAll.accesskey      "E">
@@ -38,12 +46,13 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY selectDescriptionB.label "පවතින ගිණුමත් තෝරන්න හෝ නව ගිණුමක් සාදන්න:">
 <!ENTITY selectDescription.accesskey "P">
 
+<!ENTITY acctName.label           "නම:">
+<!ENTITY acctName.accesskey       "N">
+
 <!ENTITY back.label               "&lt; පසුපසට">
 <!ENTITY forward.label            "ඊළඟ &gt;">
 <!ENTITY finish.label             "අවසානයි">
 <!ENTITY cancel.label             "එපා">
-<!ENTITY acctName.label           "නම:">
-<!ENTITY acctName.accesskey       "N">
 
 <!ENTITY select.label             "ආයාත කිරීමට අවශ්‍ය ද්‍රව්‍ය ආකාරය තෝරන්න:">
 

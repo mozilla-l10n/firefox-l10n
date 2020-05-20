@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "ලිපි සහ උප-ෆෝල්ඩර අඩංගු සේවාදායකය ආධාර කරන ෆෝල්ඩර">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "සේවාදායකය සහායය දක්වන්නේනම් IDLE විධානය භාවිතා කරන්න">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "කෑෂ් වෙතට උපරිම සේවාදායක සබඳතා ගණන">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -24,11 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Allow server to override these namespaces">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "When downloading POP3 mail from this server, use the following folder for new mail:" >
-<!ENTITY globalInbox.label "පොදු ලදලිපි (සමීප ෆෝල්ඩර ගිණුම)">
-<!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "මෙම සේවාදායකයේ ගිණුම සඳහා ලදලිපි">
-<!ENTITY accountDirectory.accesskey "S">
 <!ENTITY deferToServer.label "වෙනත් ගිණුම් සඳහා ලදලිපි">
 <!ENTITY deferToServer.accesskey "D">
 <!ENTITY deferGetNewMail.label "නව ලිපි ලබාගන්නා විට මෙම සේවාදායකය ඇතුලත් කරන්න">

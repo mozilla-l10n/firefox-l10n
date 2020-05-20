@@ -3,15 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY itemGeneral.label       "සාමාන්‍ය">
-<!ENTITY itemDisplay.label       "කියවීම සහ පෙන්වීම">
 <!ENTITY itemUpdate.label        "යාවත්කාලීන">
 <!ENTITY itemNetworking.label    "ජාල සහ ඩිස්ක ඉඩ">
 <!ENTITY itemCertificates.label  "සහතික">
 
-<!-- General Settings -->
-<!ENTITY submitTelemetry.label         "කාර්යයසාධන (Performance) දත්ත යවන්න">
-<!ENTITY submitTelemetry.accesskey     "P">
-<!ENTITY telemetryInfoLink.label       "Telemetry පිළිබඳ වැඩිමනත් තොරතුරු">
 <!ENTITY enableGlodaSearch.label       "Enable Global Search and Indexer">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 
@@ -22,30 +17,13 @@
 <!ENTITY useSmoothScrolling.accesskey  "m">
 
 <!ENTITY systemIntegration.label       "පද්ධති ඒකාබද්ධ කිරීම">
-<!ENTITY searchIntegration.label       "ලිපි සෙවීමට &searchIntegration.engineName; ට ඉඩදෙන්න">
-<!ENTITY searchIntegration.accesskey   "S">
 <!ENTITY alwaysCheckDefault.label       "සෑමවිටම ආරම්භයේදී, තණ්ඩබර්ඩ් පෙරනිමි වි.තැ. යෙදුමදැයි (default mail client) පරීක්ෂා කරන්න">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
-<!ENTITY showCondensedAddresses.label  "මගේ ලිපින පොතේ අඩංගු අයගේ පෙන්වන නම පමණක් ප්‍රදර්ශණය කරන්න">
-<!ENTITY showCondensedAddresses.accesskey "p">
 
-<!ENTITY autoMarkAsRead.label          "ස්වයංක්‍රීයව ලිපිය කියවූවා සේ ලකුණු කරන්නේ">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "පෙන්වූ විගසම">
-<!ENTITY markAsReadNoDelay.accesskey   "d">
-<!-- LOCALIZATION NOTE (markAsRead.label): This will concatenate with
-     "xxx seconds before marking a message as read", using a number and
-     (markAsReadEnd.label). -->
-<!ENTITY markAsReadDelay.label         "පෙන්වා තත්පර">
-<!ENTITY markAsReadDelay.accesskey     "e">
-<!ENTITY secondsLabel.label            "ට පසු">
-<!ENTITY openMsgIn.label               "ලිපි විවෘත කරන්නේ:">
-<!ENTITY openMsgInNewTab.label         "නව ටැබයක් තුළ">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "නව ලිපි කවුළුවක් තුළ">
-<!ENTITY reuseExpRadio0.accesskey      "i">
-<!ENTITY reuseExpRadio1.label          "පවතින ලිපි කවුළුවක් තුළ">
-<!ENTITY reuseExpRadio1.accesskey      "x">
+<!ENTITY searchIntegration.label       "ලිපි සෙවීමට &searchIntegration.engineName; ට ඉඩදෙන්න">
+<!ENTITY searchIntegration.accesskey   "S">
+<!ENTITY checkDefaultsNow.label        "දැන් පරීක්ෂා කරන්න…">
+<!ENTITY checkDefaultsNow.accesskey    "N">
 <!ENTITY configEditDesc.label          "වැඩිමනත් වින්‍යාස කිරීම්">
 <!ENTITY configEdit.label              "Config Editor...">
 <!ENTITY configEdit.accesskey          "g">
@@ -53,27 +31,8 @@
 <!ENTITY showReturnReceipts.label      "ලදුපත්...">
 <!ENTITY showReturnReceipts.accesskey  "R">
 
-<!-- Display and Reading Settings -->
-<!ENTITY reading.caption                "කියවීම">
-<!ENTITY display.caption                "පෙන්වීම">
-
 <!-- Update -->
-<!ENTITY autoCheck.label                "යාවත්කාලීන කිරීම් සඳහා ස්වයංක්‍රීයව පරීක්ෂා කරන්න:">
-<!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "h">
-<!ENTITY enableAddonsUpdate.label       "ස්ථාපනය කළ එක්-කිරීම්">
-<!ENTITY enableAddonsUpdate.accesskey   "t">
-<!ENTITY checkDefaultsNow.label        "දැන් පරීක්ෂා කරන්න…">
-<!ENTITY checkDefaultsNow.accesskey    "N">
-<!ENTITY whenUpdatesFound.label         "&brandShortName; සඳහා යාවත්කාලීන කිරීම් හමු වූ විට,">
-<!ENTITY modeAskMe.label                "මට කිරීමට අවශ්‍ය කුමක්ද යන්න විමසන්න">
-<!ENTITY modeAskMe.accesskey            "k">
-<!ENTITY modeAutomatic.label            "ස්වයංක්‍රීයව භාගත කර ස්ථාපනය කරන්න">
-<!ENTITY modeAutomatic.accesskey        "m">
-<!ENTITY modeAutoAddonWarn.label        "මෙය මගේ කිසියම් ඇඩෝනයක් අබල (disable) කරන්නේ නම් අනතුරු අඟවන්න">
-<!ENTITY modeAutoAddonWarn.accesskey    "-">
-<!ENTITY showUpdates.label              "යාවත්කාලීන ඉතිහාසය පෙන්වන්න">
-<!ENTITY showUpdates.accesskey          "y">
+
 <!ENTITY useService.label                "යාවත්කාලීන ස්ථාපනය සඳහා පසුබිම් සේවාවන් භාවිතා කරන්න">
 <!ENTITY useService.accesskey            "b">
 
@@ -93,11 +52,12 @@
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "MB (මුළු එකතුව)">
 
-<!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
-<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY useCacheBefore.label            "කෑච් (Cache) සඳහා මෙගාබයිට (MB)">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             " දක්වා ප්‍රමාණයක් භාවිතා කරන්න">
+
+<!ENTITY clearCacheNow.label             "දැන් හිස් කරන්න">
+<!ENTITY clearCacheNow.accesskey         "C">
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "සේවාදායකයක් මගේ පෞද්ගලික සහතික ඉල්ලන විටදී:">
@@ -106,14 +66,6 @@
 <!ENTITY certs.ask                       "සෑම විටම විමසන්න">
 <!ENTITY certs.ask.accesskey             "A">
 
-<!ENTITY viewCertificates.label         "සහතික පෙන්වීම">
-<!ENTITY viewCertificates.accesskey     "a">
-<!ENTITY viewCRLs.label                 "අහෝසිකිරීමේ ලැයිස්තුව">
-<!ENTITY viewCRLs.accesskey             "e">
-<!ENTITY validation.label               "වලංගුකරණය">
-<!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "ආරක්‍ෂක මෙවලම්">
 <!ENTITY viewSecurityDevices.accesskey  "u">
 
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
-<!ENTITY closeMsgOnMoveOrDelete.label "මැකීමේදී හෝ ගෙනයාමේදී නවුළුව/ටැබය වසන්න">

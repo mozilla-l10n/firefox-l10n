@@ -27,10 +27,6 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label            "ඔබගේ ලිපි ප්‍රමුඛතාවයට හා වර්ගීකරණයට ටැග්ස් භාවිතා කළ හැකිය.">
-<!ENTITY addTagButton.label               "එක් කරන්න">
-<!ENTITY addTagButton.accesskey           "A">
-<!ENTITY editTagButton.label              "සැකසුම්">
-<!ENTITY editTagButton.accesskey          "E">
 <!ENTITY removeTagButton.label            "මකන්න">
 <!ENTITY removeTagButton.accesskey        "l">
 
@@ -44,3 +40,4 @@
 <!ENTITY fontOptions.label       "අකුරු...">
 <!ENTITY colorButton.label       "වර්ණ…">
 <!ENTITY colorButton.accesskey   "C">
+

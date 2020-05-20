@@ -16,8 +16,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "අකුරු:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "ප්‍රමාණය:">
-<!ENTITY size.accesskey                       "z">
 <!ENTITY fontColor.label                      "අකුරු වර්ණය:">
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "පසුබිම් වර්ණය:">

@@ -11,6 +11,8 @@
 <!ENTITY  focusSearch1.key            "f">
 <!ENTITY  focusSearch2.key            "k">
 
+<!ENTITY filter.placeholder "සෙවීම">
+
 <!ENTITY saveTo.label                 "ගොනු සුරකින්නේ (මෙතුළට)">
 <!ENTITY saveTo.accesskey             "S">
 <!ENTITY alwaysAsk.label              "ගොනු සුරකින්නේ කොතනටදැයි සෑම විටම විමසන්න">
@@ -20,19 +22,12 @@
 <!ENTITY chooseFolderMac.label        "තෝරන්න…">
 <!ENTITY chooseFolderMac.accesskey    "C">
 
-<!ENTITY filter.placeholder "සෙවීම">
-
 <!ENTITY attachments.incoming.label   "ලැබෙන">
 <!ENTITY attachments.outgoing.label   "යවන">
 
-<!ENTITY addCloudFileAccount.label        "එක්කරන්න">
-<!ENTITY addCloudFileAccount.accesskey    "A">
 <!ENTITY addCloudFileAccount.description  "නව ගොනු-ඈඳුම් සංචිත සේවයක් එක්කරන්න">
 <!ENTITY removeCloudFileAccount.label     "ඉවත්කරන්න">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "මෙම සංචිත සේවය සඳහා සැකසුම් බැලීමට ඔබගේ අවසරය අවශ්‍යව ඇත.">
-<!ENTITY authRequired.button.label        "බලය පවරන්න">
-<!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY enableCloudFileAccountOffer.label "මෙයට වඩා විශාල ගොනු සඳහා බෙදාගන්න">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

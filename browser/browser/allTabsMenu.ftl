@@ -4,7 +4,10 @@
 
 all-tabs-menu-undo-close-tab =
     .label = ටැබ් වැසීම අහෝසි කරන්න
+
 all-tabs-menu-new-user-context =
     .label = නව බහලුම් ටැබය
+
 all-tabs-menu-hidden-tabs =
     .label = සැගවුනු ටැබ්
+

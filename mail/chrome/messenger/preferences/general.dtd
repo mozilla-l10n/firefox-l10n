@@ -17,9 +17,6 @@
 <!ENTITY useDefault.label                 "පෙරනිමි නැවත පිහිටුවන්න">
 <!ENTITY useDefault.accesskey             "R">
 
-<!ENTITY bounceSystemDockIcon.label       "Animate the dock icon">
-<!ENTITY bounceSystemDockIcon.accesskey   "i">
-
 <!ENTITY newMessagesArrive.label          "නව ලිපි ලැබීමේදී:">
 <!ENTITY playSound.label                  "නාදයක් වාදනය කරන්න">
 <!ENTITY playSound1.accesskey              "d">
@@ -35,8 +32,6 @@
 <!ENTITY play.label                       "වාදනය කරන්න">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "නව ලිපි සඳහා පෙරනිමි පද්ධති නාදය">
-<!ENTITY systemsoundMac.label             "පද්ධති සංඥා නාදය">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "පහත නාද ගොනුව භාවිතා කරන්න">
 <!ENTITY customsound.accesskey            "U">

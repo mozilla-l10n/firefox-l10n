@@ -11,6 +11,7 @@
 # The label for the heading of group of checkboxes corresponding to the developer tools
 # added by add-ons. This heading is hidden when there is no developer tool installed by add-ons.
 options-select-additional-tools-label = ඇඩෝන මඟින් ස්තහාපනය කල සනඟවර්දහක මෙවලම්
+
 # The label for the heading of the radiobox corresponding to the theme
 options-select-dev-tools-theme-label = තේමාවන්
 
@@ -18,6 +19,7 @@ options-select-dev-tools-theme-label = තේමාවන්
 
 # The heading
 options-context-inspector = Inspector
+
 # The label for the checkbox option to show user agent styles
 options-show-user-agent-styles-label = ගවේශක මෝස්තර පෙන්වන්න
 options-show-user-agent-styles-tooltip =

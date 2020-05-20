@@ -50,3 +50,4 @@ close-tab =
     .title = ටැබය වසන්න
 show-addon =
     .title = ඇඩෝන කළමනාකරු පෙන්වන්න
+

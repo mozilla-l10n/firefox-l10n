@@ -4,7 +4,9 @@
 
 head-title = සංවර්ධක මෙවලම් පිළිබඳ
 enable-title = Firefox සංවර්ධක මෙවලම් සක්‍රීය කරන්න
+
 footer-learn-more-link = තවත් දැනගන්න
+
 features-learn-more = තවත් දැනගන්න
 features-network-title = ජාලය
 features-storage-title = ගබඩාව

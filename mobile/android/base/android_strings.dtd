@@ -18,7 +18,6 @@
 <!ENTITY firstrun_data_message "අඩු දත්ත, වැඩි ඉතිරියක්">
 <!ENTITY firstrun_data_subtext2 "ඔබ පිවිසෙන සෑම අඩවියකම දත්ත වැය වීම අඩු කිරීමට පින්තූර නවතා දමන්න.">
 <!ENTITY firstrun_sync_title "සම්මුහු">
-<!ENTITY firstrun_sync_message2 "ඔබ නැවතූ තැන සිට අරඹන්න.">
 <!ENTITY  onboard_start_button_browser "ගවේෂණය අරඹන්න">
 <!ENTITY firstrun_button_notnow "දැන්ම නොවේ">
 <!ENTITY firstrun_button_next "ඊළග">
@@ -364,10 +363,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "සම්මුහු කළ ටැබ">
 
-<!-- LOCALIZATION NOTE (default_browser_system_settings_toast):
-    Message of an Android Toast that appears after our app opens "Android System Settings -> Apps -> Default apps"
-    and instruct users to tap on the "Browser app" option on that settings screen to choose a default browser app. -->
-<!ENTITY pref_default_browser_mozilla_support_tablet "Mozilla සහායට පිවිසෙන්න">
 <!ENTITY pref_about_firefox "About &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Give feedback">
@@ -414,14 +409,6 @@ shown from Android O while a tab is being queued.-->
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "ස්වයංක්‍රීය යාවත්">
-<!ENTITY pref_update_autodownload_wifi "Wi-Fi හරහා පමණයි">
-<!ENTITY pref_update_autodownload_never "Never">
-<!ENTITY pref_update_autodownload_always "Always">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Help">
@@ -675,14 +662,10 @@ from Android">
 
  <!-- Updater notifications -->
 
-<!ENTITY updater_downloading_title2 "&brandShortName; බාගත කිරීම">
-
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "ඉඩ දෙන්න">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "New Guest Session">

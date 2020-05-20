@@ -51,6 +51,7 @@ import =
 close-button =
     .label = වසන්න
     .accesskey = C
+
 show-passwords =
     .label = මුරපද පෙන්වන්න
     .accesskey = P

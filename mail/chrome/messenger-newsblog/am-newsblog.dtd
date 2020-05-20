@@ -2,22 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "සෑම විනාඩි ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "ට වරක් නව ලිපි (articles) සඳහා පරීක්ෂා කරන්න">
-
-<!ENTITY loginAtStartup.label "ආරම්භයේදී නව ලිපි (articles) සඳහා පරීක්ෂා කරන්න"> 
-<!ENTITY loginAtStartup.accesskey "C">
-
-<!ENTITY useQuickMode.label "පෙරනිමි ලෙස, වෙබ් පිටුව පූරණය කරනවා වෙනුවට ලිපි සාරාංශය (article summary) පෙන්වන්න"> 
-<!ENTITY useQuickMode.accesskey "B">
-
 <!ENTITY manageSubscriptions.label "දායකත්වයන් කළමණාකරනය..."> 
 <!ENTITY manageSubscriptions.accesskey "M">
 
 
 <!-- entities from rss.rdf -->
 <!ENTITY feeds.accountName "බ්ලොග්ස් සහ ප්‍රවෘත්ති පෝෂක">
-<!ENTITY feeds.wizardShortName "පෝෂක">
-<!ENTITY feeds.wizardLongName "බ්ලොග්ස් සහ ප්‍රවෘත්ති පෝෂක">
-<!ENTITY feeds.wizardLongName.accesskey "F">

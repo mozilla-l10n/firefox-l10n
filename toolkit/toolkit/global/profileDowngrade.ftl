@@ -5,8 +5,10 @@
 profiledowngrade-window =
     .title = ඔබ පැරණි { -brand-product-name } නිකුතුවක් දියත් කරයි.
     .style = width: 490px;
+
 profiledowngrade-window-create =
     .label = නව පැතිකඩක් තනන්න
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

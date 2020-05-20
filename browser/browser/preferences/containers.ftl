@@ -5,8 +5,10 @@
 containers-window-new =
     .title = නව බහාලුමක් එක් කරන්න
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -17,20 +19,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = නම
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = බහාලුම් නමක් ඇතුල් කරන්න
+
 containers-icon-label = අයිකනය
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = වර්ණය
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = නිම කරන ලදි
     .accesskey = D
+
 containers-color-blue =
     .label = නිල්
 containers-color-turquoise =
@@ -47,6 +55,7 @@ containers-color-pink =
     .label = රෝස
 containers-color-purple =
     .label = දම්
+
 containers-icon-fingerprint =
     .label = ඇඟිලි සලකුණ
 containers-icon-briefcase =

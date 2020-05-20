@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = මේ පිළිබඳ වැඩිදුර දැනගන්න <a data-l10n-name="learn-more">පෞද්ගලික ගවේෂණය</a>.
 about-private-browsing-info-visited = පිවිසුනු පිටු
+
 privatebrowsingpage-open-private-window-label = පුද්ගලික කවුළුව විවෘත කරන්න
     .accesskey = P
 about-private-browsing-info-notsaved = ඔබ පුද්ගලික කවුළුවක් තුළ ගවේශනය කරන විට, { -brand-short-name } <strong>සුරකින්නේ නැත</strong>:
@@ -20,3 +21,4 @@ about-private-browsing-note = පුද්ගලික ගවේශනය <stron
 about-private-browsing =
     .title = ජාලය තුළ සොයන්න
 about-private-browsing-not-private = ඔබ දැනට සිටින්නේ පුද්ගලික කවුළුවක නොවේ.
+

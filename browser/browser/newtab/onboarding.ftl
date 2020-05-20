@@ -18,24 +18,29 @@ onboarding-button-label-get-started = අරඹන්න
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } වෙත සාදරයෙන් පිළිගනිමු
+
 onboarding-start-browsing-button-label = ගවේෂණය අරඹන්න
+
 onboarding-cards-dismiss =
     .title = ඉවත් කරන්න
     .aria-label = ඉවත් කරන්න
 
+## Welcome full page string
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-learn-more-link = Firefox ගිණුම් ගැන වැඩි දුර දැනගන්න
-onboarding-sync-form-invalid-input = වලංගු විද්‍යුත් තැපැල් ලිපිනයක් අවශ්‍ය වේ
-onboarding-sync-legal-notice = ඉදිරියට යාමෙන් ඔබ <a data-l10n-name="terms">සේවා කොන්දේසි</a>සහ <a data-l10n-name="privacy">පෞද්ගලිකත්ව ප්‍රතිපත්තිය</a> සමග එකඟ වන්නේ ය.
+
 onboarding-sync-form-input =
     .placeholder = විද්‍යුත් තැපෑල
+
 onboarding-sync-form-continue-button = ඉදිරියට
 onboarding-sync-form-skip-login-button = මෙම පියවර මගහරින්න
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = ඔබගේ විද්‍යුත් තැපැල් ලිපිනය ඇතුලත් කරන්න
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -49,10 +54,14 @@ onboarding-sync-form-header = ඔබගේ විද්‍යුත් තැප
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = පුද්ගලික ගවේශනය
+
 onboarding-screenshots-title = තිරපිටපත්
+
 onboarding-addons-title = ඇඩෝන
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = සම්මුහු
+
 
 ## Message strings belonging to the Return to AMO flow
 

@@ -3,11 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label           "ලක්ෂණ">
+
 <!ENTITY generalInfo.label                       "සාමාන්‍ය තොරතුරු">
-<!ENTITY folderCharsetTab.label                  "පෙරනිමි (Default) අකුරු කේතනයන්:">
-<!ENTITY folderCharsetTab.accesskey              "E">
-<!ENTITY folderCharsetOverride.label             "ෆෝල්ඩරයේ ලිපි සියල්ලටම පෙරනිමි සැකසුම් අදාළ කරගන්න (ලිපියේ අකුරු කේතනයන් සහ ස්ව-හැඳුනුම් නොසලකා හරිනු ඇත)">
-<!ENTITY folderCharsetOverride.accesskey         "A">
 <!ENTITY folderRebuildSummaryFileTip2.label      "සාරාංශ ගොනු සූචිය (Summary File Index) යළි-ගොඩනඟන්න">
 <!ENTITY folderRebuildSummaryFile2.label         "ෆෝල්ඩරය අලුත්වැඩියා කරන්න">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
@@ -30,8 +27,6 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "මෙම ආසන්නතම ලිපිය හැර සියල්ල මකන්න">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "කියවූ ලිපි සෑමවිටම මකන්න (කාළ සැකසුම් නොසලකන්න)">
 <!ENTITY retentionApplyToFlagged.label "තරුයෙදූ ලිපි සෑමවිටම තබාගන්න">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

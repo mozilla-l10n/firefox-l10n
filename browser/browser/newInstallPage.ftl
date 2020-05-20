@@ -9,9 +9,13 @@
 
 title = වැදගත් පුවත්
 heading = ඔබේ { -brand-short-name } පැතිකඩට වෙනස්කම්
+
 changed-title = කුමක් වෙනස් වීද?
+
 options-title = මාගේ විකල්පයන් මොනවාද ?
+
 resources = සම්පත්:
+
 sync-label = ඔබගේ විද්‍යුත් තැපැල් ලිපිනය ඇතුලත් කරන්න
 sync-input =
     .placeholder = විද්‍යුත් තැපැල් ලිපිනය

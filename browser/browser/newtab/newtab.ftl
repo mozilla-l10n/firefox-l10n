@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = සොයන්න
     .aria-label = සොයන්න
+
 newtab-search-box-search-the-web-text = ජාලය තුළ සොයන්න
 newtab-search-box-search-the-web-input =
     .placeholder = ජාලය තුළ සොයන්න
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = ප්‍රමුඛ අඩවිය ස
 newtab-topsites-title-label = මාතෘකාව
 newtab-topsites-title-input =
     .placeholder = සිරස්තල එක් කරන්න
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = URL එකක් ඇතුළත් කරන්න
 newtab-topsites-url-validation = වලංගු URL එකක් අවශ්‍ය වේ
+
 newtab-topsites-image-validation = පින්තූරය පැටවීමට අපොහොසත් විය. වෙනත් URL එකක් උත්සාහ කරන්න.
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -45,6 +48,8 @@ newtab-topsites-add-button = එක් කරන්න
 
 ## Top Sites - Delete history confirmation dialog. 
 
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = ඔබට මෙම පිටුවට අදාල සියලුම සිදුවීම් ඔබේ අතීතයන් මැකීමට අවශ්‍ය ද?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = මෙම ක්‍රියාව අහෝසි කළ නොහැක.
@@ -55,6 +60,7 @@ newtab-confirm-delete-history-p2 = මෙම ක්‍රියාව අහෝ�
 newtab-menu-section-tooltip =
     .title = මෙනුව විවෘත කරන්න
     .aria-label = මෙනුව විවෘත කරන්න
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = මෙම අඩවිය සකසන්න
@@ -72,12 +78,20 @@ newtab-menu-delete-history = අතිතයෙන් මකන්න කරන�
 newtab-menu-save-to-pocket = { -pocket-brand-name } හි සුරකින්න
 newtab-menu-delete-pocket = { -pocket-brand-name } වෙතින් මකන්න
 newtab-menu-archive-pocket = { -pocket-brand-name } හි සංරක්ෂණ කරන්න
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = පිටු සලකුණ ඉවත් කරන්න
 # Bookmark is a verb here.
 newtab-menu-bookmark = පිටු සලකුණ
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = බාගැනිමේ සබැඳිය පිටපත් කරන්න
@@ -103,11 +117,16 @@ newtab-label-download = බාගැනිණ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-manage-webext = දිගුව පාලනය කරන්න
 newtab-section-menu-add-search-engine = සෙවුම් යන්ත්‍රයක් එක් කරන්න
 newtab-section-menu-move-up = ඉහළට ගෙනයන්න
 newtab-section-menu-move-down = පහළට ගෙනයන්න
 newtab-section-menu-privacy-notice = පෞද්ගලිකත්ව සටහන
+
+## Section aria-labels
 
 ## Section Headers.
 
@@ -120,12 +139,13 @@ newtab-section-header-pocket = { $provider } විසින් නිර්ද�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
+
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ජනප්‍රිය මාතෘකා:
 newtab-pocket-more-recommendations = තවත් නිර්දේශ
-newtab-pocket-how-it-works = එය ක්‍රියාත්මක වන්නේ කෙසේද
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

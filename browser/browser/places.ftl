@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = නව පුද්ගලික කවුළුවක විවෘත කරන්න
     .accesskey = P
+
 places-new-bookmark =
     .label = නව පිටු සලකුණ…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = නව වෙන්කරණය
     .accesskey = S
+
 places-view =
     .label = දසුන්
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = දිනය සහ අඩවිය අනුව පෙළ ගැසු
     .accesskey = t
+
 places-history-search =
     .placeholder = සෙවුම් ඉතිහාසය
 places-bookmarks-search =
     .placeholder = සෙවුම් පිටුසලකුණු
+
 places-delete-domain-data =
     .label = මෙම පිටුව ගැන නොසිතන්න
     .accesskey = F

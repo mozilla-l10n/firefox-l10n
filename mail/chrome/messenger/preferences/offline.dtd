@@ -4,13 +4,8 @@
 
 <!ENTITY offlineDialog.title       "අසම්බන්ධිත සැකසුම්">
 
-<!ENTITY textStartUp   "ආරම්භයේදී:">
 <!ENTITY radioRememberPrevState.label "පෙර සම්බන්ධිත තත්ත්වය මතක තබාගන්න">
 <!ENTITY radioRememberPrevState.accesskey "R">
-<!ENTITY radioAskMe.label "සම්බන්ධිත තත්ත්වය සඳහා ආරම්භයේදී විමසන්න">
-<!ENTITY radioAskMe.accesskey "u">
-<!ENTITY radioAlwaysOnline.label "සෑමවිටම ආරම්භයේදී සම්බන්ධිතව සිටින්න">
-<!ENTITY radioAlwaysOnline.accesskey "l">
 
 <!ENTITY textGoingOnline "සම්බන්ධ වූ විට නොයැවූ ලිපි යවන්නද?">
 <!ENTITY radioAutoSend.label "ඔව්">
