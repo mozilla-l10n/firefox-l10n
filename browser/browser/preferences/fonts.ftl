@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fontes
+
 fonts-window-close =
     .key = W
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fontes para
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Com serifa
 fonts-default-sans-serif =
     .label = Sem serifa
+
 fonts-proportional-size = Tamanho
     .accesskey = T
+
 fonts-serif = Com serifa
     .accesskey = s
+
 fonts-sans-serif = Sem serifa
     .accesskey = e
+
 fonts-monospace = Monoespaçado
     .accesskey = M
+
 fonts-monospace-size = Tamanho
     .accesskey = a
+
 fonts-minsize = Tamanho mínimo de fonte
     .accesskey = n
+
 fonts-minsize-none =
     .label = Nenhum
+
 fonts-allow-own =
     .label = Permitir que páginas escolham as próprias fontes, ao invés das selecionadas acima
     .accesskey = P
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificação de texto para conteúdo legado
 fonts-languages-fallback-desc = Esta codificação de texto é usada para conteúdo legado que não declara a própria codificação.
+
 fonts-languages-fallback-label = Codificação de texto alternativa
     .accesskey = C
+
 fonts-languages-fallback-name-auto =
     .label = Padrão do idioma atual
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Outro (incluindo Europa ocidental)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

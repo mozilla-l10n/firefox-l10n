@@ -7,7 +7,9 @@ about-config-warning-title = Audaciosamente indo, onde ninguém jamais esteve!
 about-config-warning-text = Alterar essas configurações avançadas pode prejudicar a estabilidade, segurança e desempenho desta aplicação. Você só deve continuar se estiver seguro do que está fazendo.
 about-config-warning-checkbox = Sempre mostrar este aviso
 about-config-warning-button = Eu aceito o risco
+
 about-config2-title = Configurações avançadas
+
 about-config-search-input =
     .placeholder = Pesquisar
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Aceitar o risco e continuar
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Alterar essas preferências pode afetar o desempenho ou a segurança do { -brand-short-name }.
+
 about-config-page-title = Preferências avançadas
+
 about-config-search-input1 =
     .placeholder = Pesquisar preferências por nome
 about-config-show-all = Mostrar tudo
+
 about-config-pref-add = Adicionar
 about-config-pref-toggle = Alternar
 about-config-pref-edit = Editar
 about-config-pref-save = Salvar
 about-config-pref-reset = Redefinir
 about-config-pref-delete = Excluir
+
 about-config-pref-add-button =
     .title = Adicionar
 about-config-pref-toggle-button =

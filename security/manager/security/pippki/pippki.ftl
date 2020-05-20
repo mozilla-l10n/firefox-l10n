@@ -8,6 +8,7 @@ password-quality-meter = Medidor de qualidade da senha
 
 change-password-window =
     .title = Alterar senha mestra
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de segurança: { $tokenName }

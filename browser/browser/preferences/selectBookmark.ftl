@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Definir página inicial
     .style = width: 32em;
+
 select-bookmark-desc = Escolha um favorito para ser sua página inicial. Se escolher uma pasta, os favoritos desta pasta serão abertos em abas.

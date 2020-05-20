@@ -4,6 +4,8 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Recebimento e sincronização de mensagens">
 <!ENTITY MsgSelect.label "Itens para uso desconectado">
 <!ENTITY MsgSyncDesc.label "Se você já selecionou pastas de mensagens ou newsgroups para uso desconectado, pode agora receber e/ou sincronizar. Ou então, use o botão &quot;Selecionar&quot; para escolher pastas de e-mails e newsgroups para uso desconectado.">
