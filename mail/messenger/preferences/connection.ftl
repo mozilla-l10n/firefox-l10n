@@ -7,7 +7,9 @@
 connection-dns-over-https-url-item-default =
     .label = { $name } (стандартно)
     .tooltiptext = Използва стандартния адрес за запитвания на DNS през HTTPS
+
 connection-dns-over-https-url-custom =
     .label = По избор
     .accesskey = п
     .tooltiptext = Въведете предпочитания от вас адрес за запитвания на DNS през HTTPS
+

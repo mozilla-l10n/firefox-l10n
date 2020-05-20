@@ -3,11 +3,14 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Картина в картината
+
 pictureinpicture-pause =
     .aria-label = Пауза
 pictureinpicture-play =
     .aria-label = Изпълняване
+
 pictureinpicture-mute =
     .aria-label = Без звук
 pictureinpicture-unmute =
     .aria-label = Със звук
+

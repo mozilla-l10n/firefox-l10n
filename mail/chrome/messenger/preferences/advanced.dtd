@@ -71,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "А">
 <!ENTITY updateCheck.label               "Проверка за обновявания, но пита преди да ги инсталира">
 <!ENTITY updateCheck.accesskey           "П">
-<!ENTITY updateManual.label              "Никога не проверява за обновявания (не се препоръчва: риск по безопасността)">
-<!ENTITY updateManual.accesskey          "Н">
 <!ENTITY updateHistory.label             "История на обновяванията">
 <!ENTITY updateHistory.accesskey         "о">
 
@@ -121,3 +119,4 @@
 <!ENTITY manageCertificates.accesskey "У">
 <!ENTITY viewSecurityDevices.label "Защитни устройства">
 <!ENTITY viewSecurityDevices.accesskey "З">
+

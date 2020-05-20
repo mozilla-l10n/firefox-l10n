@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Задължително (не се изпраща писмо, докато всички получатели не получат сертификати)">
 <!ENTITY alwaysEncryptMessage.accesskey "З">
 <!ENTITY encryptionCert.message "При шифроване и дешифроване на писма, изпратени до вас, се използва този сертификат:">
+
 <!ENTITY digitalSign.certificate.button "Избор…">
 <!ENTITY digitalSign.certificate.accesskey "И">
 <!ENTITY digitalSign.certificate_clear.button "Изчистване">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Избор на сертификат">
 <!ENTITY certPicker.info  "Сертификат:">
 <!ENTITY certPicker.detailsLabel "Подробности за избрания сертификат:">
+

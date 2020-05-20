@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Профайлерът записва извадки в кръгов буфер и при запълване на буфера новите извадки започват да заместват извадките от началото на записването.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Записването в реално време е изключено за еднопроцесен Firefox.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->

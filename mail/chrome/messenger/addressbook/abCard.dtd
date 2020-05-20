@@ -76,11 +76,8 @@
 <!ENTITY HomeWebPage.accesskey          "и">
 <!ENTITY Birthday.label                 "Рожден ден:">
 <!ENTITY Birthday.accesskey             "р">
-<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "година">
-<!ENTITY Or.value                       "или">
 <!ENTITY Age.placeholder                "възраст">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Служебни">
 <!ENTITY Work.accesskey                 "с">

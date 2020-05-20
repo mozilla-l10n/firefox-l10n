@@ -26,3 +26,4 @@
 ## the problem can be solved.
 
 inactive-css-not-display-block-on-floated-fix = Опитайте се да премахнете <strong>float</strong> или да добавите <strong>display:block</strong>. { learn-more }
+

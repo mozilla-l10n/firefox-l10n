@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Добавяне на нова услуга за съхранене към Filelink">
 <!ENTITY removeCloudFileAccount.label     "Премахване">
 <!ENTITY removeCloudFileAccount.accesskey "П">
-<!ENTITY authRequired.description         "Нужно е вашето удостоверяване, за да виждате настройките на тази услуга за съхраняване.">
-<!ENTITY authRequired.button.label        "Удостоверяване">
-<!ENTITY authRequired.button.accesskey    "У">
 
 <!ENTITY enableCloudFileAccountOffer.label "Предлагане за споделяне на файлове, когато са по-големи от">
 <!ENTITY enableCloudFileAccountOffer.mb "МБ">

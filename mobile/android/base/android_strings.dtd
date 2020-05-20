@@ -21,21 +21,15 @@
 <!ENTITY firstrun_data_message "По-малко данни, повече спестявания">
 <!ENTITY firstrun_data_subtext2 "Изключете изображенията, за да пестите данни от всяка посетена страница.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Сметка">
-<!ENTITY firstrun_sync_message2 "Продължете откъдето сте спрели.">
 <!ENTITY firstrun_sync_subtext2 "Използвайте Sync, за да намерите отметките, паролите и другите неща, които запазвате в &brandShortName; на всички ваши устройства.">
-<!ENTITY updatednewfirstrun_sync_subtext "Влезте в сметката си, за да получите максимума от &brandShortName;">
-<!ENTITY firstrun_signin_message "Свържете се, започнете">
 <!ENTITY firstrun_sendtab_title "Изпращане на раздел">
 <!ENTITY firstrun_sendtab_message "Споделяйте раздели от мобилния до настолния – незабавно.">
-<!ENTITY firstrun_signin_button "Вписване в Sync">
-<!ENTITY newfirstrun_signin_button "Включване на Sync">
-<!ENTITY updatednewfirstrun_signin_button "Вписване в &brandShortName;">
+<!ENTITY firstrun_signin_message "Свържете се, започнете">
 <!ENTITY onboard_start_button_browser "Започнете да разглеждате">
 <!ENTITY firstrun_button_notnow "Не сега">
 <!ENTITY firstrun_button_next "Напред">
 
-<!ENTITY firstrun_signin_button2 "Вписване">
+<!ENTITY firstrun_signup_button "Регистриране">
 
 <!ENTITY firstrun_tabqueue_title "Препратки">
 
@@ -47,8 +41,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Вие">
 <!ENTITY firstrun_account_message "Имате &brandShortName; на друго устройство?">
-
-<!ENTITY firstrun_signup_button "Регистриране">
 
 <!ENTITY  onboard_start_restricted1 "Бъдете в безопасност и дръжте контрола с тази олекотена версия на &brandShortName;.">
 
@@ -478,14 +470,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "Услуга за местоположението от &vendorShortName; работи">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Автоматично обновяване">
-<!ENTITY pref_update_autodownload_wifi "Само през Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Никога">
-<!ENTITY pref_update_autodownload_always "Винаги">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Помощ">
 
@@ -753,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Отметки и история">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Налично е обновяване на &brandShortName;">
-<!ENTITY updater_start_select2 "Докоснете за изтегляне">
-
-<!ENTITY updater_downloading_title2 "Изтегляне на &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Грешка при изтегляне">
-<!ENTITY updater_downloading_select2 "Докоснете за инсталиране след това">
-<!ENTITY updater_downloading_retry2 "Докоснете за повторен опит">
-
-<!ENTITY updater_apply_title3 "Изтеглено е обновяване за &brandShortName;">
-<!ENTITY updater_apply_select3 "Докоснете за инсталиране">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "За изтегляне на файлове и обновяване разрешете на &brandShortName; правата за достъп до хранилището.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Разрешаване">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Нова сесия за гост">
 <!ENTITY exit_guest_session "Изход от сесията на гост">
@@ -887,7 +852,6 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Добре дошли при &brandShortName;">
 <!ENTITY activity_stream_signin_description "Синхронизирайте отметки, пароли и други с вашия Firefox Account.">
-<!ENTITY activity_stream_signin_button "Вписване">
 
 <!ENTITY activity_stream_signup_button "Регистриране">
 <!ENTITY activity_stream_signin_prompt "Вече имате профил?">
@@ -951,7 +915,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Звук и видео">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Съвети и хитрости от &vendorShortName;">
-<!ENTITY updater_notification_channel "Обновления на приложението">
 <!ENTITY synced_tabs_notification_channel "Синхронизирани раздели">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

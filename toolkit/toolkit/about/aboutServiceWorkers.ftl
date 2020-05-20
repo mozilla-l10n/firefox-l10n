@@ -9,17 +9,12 @@ about-service-workers-title = Относно Service Workers
 about-service-workers-main-title = Регистрирани Service Workers
 about-service-workers-warning-not-enabled = Service Workers не са включени.
 about-service-workers-warning-no-service-workers = Няма регистрирани Service Workers.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Произход: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Приложение ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Име на активен буфер:</strong> { $n
 waiting-cache-name = <strong>Име на изчакващ буфер:</strong> { $name }
 push-end-point-waiting = <strong>Входна точка на избутване:</strong> { waiting }
 push-end-point-result = <strong>Входна точка на избутване:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Обновяване
+
 unregister-button = Отмяна на регистрацията
+
 unregister-error = Грешка при отмяна на регистрацията на скритата обслужваща страница.
+
 waiting = Изчакване…

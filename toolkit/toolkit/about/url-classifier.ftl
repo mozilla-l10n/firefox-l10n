@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Модули за журнала при без
 url-classifier-debug-modules = Текущи модули за журнала
 url-classifier-debug-sbjs-modules = Журнал на JS при безопасно разглеждане
 url-classifier-debug-file = Текущ файл на журнала
+
 url-classifier-trigger-update = Пускане на обновяване
 url-classifier-not-available = липсва
 url-classifier-disable-sbjs-log = Изключване на журнала на JS при безопасно разглеждане
