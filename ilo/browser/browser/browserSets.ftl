@@ -4,23 +4,31 @@
 
 window-minimize-command =
     .label = Minimize
+
 window-new-shortcut =
     .key = N
+
 window-minimize-shortcut =
     .key = m
+
 tab-new-shortcut =
     .key = t
+
 location-open-shortcut =
     .key = l
+
 location-open-shortcut-alt =
     .key = d
+
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
     .key = f
+
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -30,36 +38,50 @@ search-focus-shortcut-alt =
             [linux] j
            *[other] e
         }
+
 addons-shortcut =
     .key = A
+
 file-open-shortcut =
     .key = o
+
 page-info-shortcut =
     .key = i
+
 print-shortcut =
     .key = p
+
 nav-back-shortcut-alt =
     .key = [
+
 nav-fwd-shortcut-alt =
     .key = ]
+
 nav-reload-shortcut =
     .key = r
+
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+
 history-show-all-shortcut =
     .key = T
+
 history-sidebar-shortcut =
     .key = h
+
 full-screen-shortcut =
     .key = f
+
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+
 bookmark-this-page-shortcut =
     .key = d
+
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -76,19 +98,25 @@ bookmark-show-all-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+
 # If in keyboard layouts popular for your locale you need to use the shift key
 # to access the original shortcuts, the following shortcuts can be used.
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
+
 full-zoom-enlarge-shortcut =
     .key = +
+
 full-zoom-enlarge-shortcut-alt =
     .key = =
+
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
+
 full-zoom-reset-shortcut =
     .key = 0
+
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
@@ -96,6 +124,7 @@ full-zoom-reset-shortcut-alt =
 
 bidi-switch-direction-shortcut =
     .key = X
+
 private-browsing-shortcut =
     .key = P
 
@@ -104,9 +133,12 @@ private-browsing-shortcut =
 
 help-shortcut =
     .key = ?
+
 preferences-shortcut =
     .key = ,
+
 hide-app-shortcut =
     .key = H
+
 hide-other-apps-shortcut =
     .key = H

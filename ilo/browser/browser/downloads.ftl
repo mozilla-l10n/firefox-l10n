@@ -16,7 +16,9 @@ downloads-panel =
 downloads-cmd-resume =
     .label = Ituloy
     .accesskey = R
+  
 downloads-cmd-retry =
     .tooltiptext = Uliten
 downloads-cmd-retry-panel =
     .aria-label = Uliten
+

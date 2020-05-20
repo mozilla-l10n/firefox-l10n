@@ -48,5 +48,6 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Etiketa a Pagisukatan:
+
 urlbar-go-button =
     .tooltiptext = Tarusan ti pagtaengan iti Barras ti Disso

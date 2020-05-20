@@ -4,106 +4,123 @@
 
 certmgr-tab-ca =
     .label = Turay
+
 certmgr-detail-general-tab-title =
     .label = Sapasap
     .accesskey = G
+
 certmgr-detail-pretty-print-tab-title =
     .label = Detalie
     .accesskey = D
-certmgr-subject-info-label =
-    .value = Pagipaayan
-certmgr-issuer-info-label =
-    .value = Mangipaay
-certmgr-fingerprints-label =
-    .value = Lemma
+
 certmgr-subject-label = Pagipaayan
+
 certmgr-issuer-label = Mangipaay
+
 certmgr-fingerprints = Lemma
+
 certmgr-cert-detail =
     .title = Detalie ti Sertipiko
     .buttonlabelaccept = Close
     .buttonaccesskeyaccept = C
-certmgr-cert-detail-cn =
-    .value = Sapasan a Nagan (CN)
-certmgr-cert-detail-o =
-    .value = Bunggoy (O)
-certmgr-cert-detail-ou =
-    .value = Paset ti Bunggoy (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Bilang ti Serie
-certmgr-cert-detail-sha1-fingerprint =
-    .value = Lemma ti SHA1
+
 certmgr-cert-detail-commonname = Sapasan a Nagan (CN)
+
 certmgr-cert-detail-org = Bunggoy (O)
+
 certmgr-cert-detail-orgunit = Paset ti Bunggoy (OU)
+
 certmgr-cert-detail-serial-number = Bilang ti Serie
+
 certmgr-cert-detail-sha-1-fingerprint = Lemma ti SHA1
+
 certmgr-edit-ca-cert =
     .title = Baliwan dagiti parametro ti pannakatalek ti sertipiko a CA
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Baliwan dagiti parametro ti pannakatalek:
+
 certmgr-edit-cert-trust-email =
     .label = Mailasin daytoy a sertipiko dagiti agar-aramat ti korreo.
+
 certmgr-delete-cert =
     .title = Buraen ti Sertipiko
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Nagan ti Sertipiko
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Panagpapaso
+
 certmgr-expires-label =
     .label = Panagpapaso
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = E-Mail
+
 certmgr-serial =
     .label = Bilang ti Serie
+
 certmgr-view =
     .label = Imatangen...
     .accesskey = V
+
 certmgr-edit =
     .label = Baliwan ti Panagtalek...
     .accesskey = e
+
 certmgr-export =
     .label = Iluas...
     .accesskey = x
+
 certmgr-delete =
     .label = Borraen
     .accesskey = D
+
 certmgr-delete-builtin =
     .label = Borraen wenno Ipaidam...
     .accesskey = d
+
 certmgr-backup =
     .label = Itipon...
     .accesskey = B
+
 certmgr-backup-all =
     .label = Itipon Amin...
     .accesskey = k
+
 certmgr-details =
     .value = Batog ti Sertipiko
     .accesskey = F
+
 certmgr-fields =
     .value = Pateg ti Batog
     .accesskey = V
+
 certmgr-add-exception =
     .label = Inayon ti Laksid...
     .accesskey = x
+
 exception-mgr =
     .title = Inayon ti Laksid ti Seguridad
+
 exception-mgr-extra-button =
     .label = Patalgedan ti Laksid ti Seguridad
     .accesskey = C
+
 exception-mgr-supplemental-warning = Dagiti nalinteg a bangko, tienda ken pagraramanan a purok ket didakayo dawaten nga aramiden daytoy.
+
 exception-mgr-cert-location-url =
     .value = Disso:
+
 exception-mgr-cert-status-view-cert =
     .label = Imatangen...
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Taginayonen nga itipon daytoy a laksid
     .accesskey = p
+
 pk11-bad-password = Madi ti naidatag a kontrasenias.
 pkcs12-decode-err = Napaay ti pannakadekodigo ti intar. Wenno ti pormatona ket saan PKCS #12, wenno narukop, wenno saan a maipateg ti kontrasenias nga inaramatyo.
 pkcs12-info-no-smartcard-backup = Saan a maidulin ti sertipiko manipud iti aparato a hardware ti seguridad kas pagarigan smart card.
@@ -131,9 +148,13 @@ edit-trust-ca = Isaup ti sertipiko a "{ $certName }" maysa a Sertipikasion nga A
 delete-user-cert-title =
     .title = Borraen dagiti Sertipikoyo
 delete-user-cert-impact = No buraenyo ti maysa a bukodyo a sertipiko, saanyonto a maaramat dayta tapno makapamigbigan.
+
+
 delete-ssl-cert-title =
     .title = Buraen ti Laksid ti Sertipiko ti Serbidor
 delete-ssl-cert-impact = No buraenyo ti laksid ti serbidor, isubliyonto ti kadaywan a panangpaneknek iti seguridad kadayta a serbidor ken ipadawatyo nga agaramat ti maaarigan a sertipiko.
+
+
 delete-email-cert-title =
     .title = Borraen ti Sertipiko ti E-Mail
 delete-email-cert-impact = No borraenyo ti sertipiko ti korreo ti sabali, saanyonton a maipatulod ti nakakripta nga e-mail kadaydiay a tao.
@@ -142,19 +163,26 @@ delete-email-cert-impact = No borraenyo ti sertipiko ti korreo ti sabali, saanyo
 
 not-present =
     .value = <Saan a Paset ti Sertipiko>
+
 # Cert verification
 cert-verified = Napatalgedan ti sertipiko agpaay kadagiti sumagsaganad nga aramat:
+
 # Add usage
 verify-ssl-client =
     .value = Sertipiko ti Kliente a SSL
+
 verify-ssl-server =
     .value = Sertipiko ti Serbidor a SSL
+
 verify-ssl-ca =
     .value = Sertipikasion nga Awtoridad ti SSL
+
 verify-email-signer =
     .value = Sertipiko ti Mampirma iti E-Mail
+
 verify-email-recip =
     .value = Sertipiko ti Mangawat iti E-mail
+
 # Cert verification
 cert-not-verified-cert-revoked = Saan a napasingkedan daytoy a sertipiko gapu ta nawaswasen.
 cert-not-verified-cert-expired = Saan a napasingkedan daytoy a sertipiko gapu ta nagpason.

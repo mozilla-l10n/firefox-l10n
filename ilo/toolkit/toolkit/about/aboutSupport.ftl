@@ -13,6 +13,21 @@ app-basics-memory-use = Panangaramat ti Memoria
 modified-prefs-name = Nagan
 a11y-title = Aksesibilidad
 
+## Media titles
+
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 
 blocked-driver = Linapdan agsipud iti bersion ti grapiko a driver.
@@ -27,6 +42,7 @@ try-newer-driver = Linapdan agsipud iti bersion ti grapiko a driver. Padasenyo n
 ## not found.
 
 gpu-device-id = ID ti aparato
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

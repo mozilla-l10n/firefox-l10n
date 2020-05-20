@@ -6,8 +6,6 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Disso:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Pagsubuan:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
 
 
 <!ENTITY editBookmarkOverlay.folder.label                    "Karpeta:">
@@ -21,8 +19,6 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Balikas-tulbek:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "k">
 
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Ikarga daytoy a pannanda iti barras-igid">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "h">
 <!ENTITY editBookmarkOverlay.choose.label                    "Pilien...">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Baro a Karpeta">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">

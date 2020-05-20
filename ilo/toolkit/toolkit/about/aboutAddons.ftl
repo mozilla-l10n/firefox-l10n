@@ -4,19 +4,27 @@
 
 addons-window =
     .title = Mangimaton ti Raman
+
 addons-page-title = Mangimaton ti Raman
+
 search-header-shortcut =
     .key = f
+
 list-empty-installed =
     .value = Awan ti raman a nakainstala a kastoy
+
 list-empty-available-updates =
     .value = Awan ti nabirokan a pannarimaan
+
 list-empty-recent-updates =
     .value = Saan pay a nanarimaan ti raman
+
 list-empty-find-updates =
     .label = Palutputen ti Pannanarimaan
+
 tools-menu =
     .tooltiptext = Ramit ti paganay
+
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -28,34 +36,46 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
+
 cmd-enable-theme =
     .label = Aramaten ti Tema
     .accesskey = W
+
 cmd-disable-theme =
     .label = Stop Wearing Theme
     .accesskey = T
+
 detail-version =
     .label = Bersion
+
 detail-last-updated =
     .label = Kaudian a Panagtarimaan
+
 detail-home =
     .label = Umuna a panid
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Palutputen ti Pannanarimaan
     .accesskey = f
     .tooltiptext = Palutputen ti pananarimaan kadaytoy a raman
+
 addon-restart-now =
     .label = Irugi manen itan
+
 extensions-view-recent-updates =
     .name = Nabiit a Pannanarimaan
     .tooltiptext = { extensions-view-recent-updates.name }
+
 extensions-view-available-updates =
     .name = Maal-ala a Pannanarimaan
     .tooltiptext = { extensions-view-available-updates.name }
+
 addon-category-plugin = Anay
 addon-category-plugin-title =
     .title = Anay
@@ -76,19 +96,24 @@ addon-category-recent-updates-title =
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
     .label = Palutputen ti Pannanarimaan
     .accesskey = C
+
 extensions-updates-view-updates =
     .label = Ipadlaw ti Nabiit a Pannanarimaan
     .accesskey = V
+
 addon-updates-check-for-updates = Palutputen ti Pannanarimaan
     .accesskey = C
 addon-updates-view-updates = Ipadlaw ti Nabiit a Pannanarimaan
@@ -119,6 +144,7 @@ extensions-updates-none-found =
     .value = Awan ti nabirokan a pannarimaan
 extensions-updates-manual-updates-found =
     .label = Ipakita ti Maal-ala a Pannanarimaan
+
 addon-updates-updating = Tartarimnen ti raman
 addon-updates-installed = Natarimaan ti raman.
 addon-updates-none-found = Awan ti nabirokan a pannarimaan

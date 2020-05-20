@@ -12,11 +12,11 @@
 <!ENTITY resetPasswordButtonLabel "Reset">
 <!ENTITY resetPassword.title  "Ituding ti Kontrasenias a Maestro">
 <!ENTITY resetPassword.text  "No baliwanyo ti kontrasenias a maestro, malipatan amin a kontraseniasyo nga nakadulin ti Web ken e-mail, datos ti pormulario, napakni a sertipiko ken napakni a tulbek. Siguradokayo kadi a kayato a baliwan ti kontraseniasyo a maestro?">
+
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.message1 "Dinawatkayo a talkan ti baro a Turay ti Sertipikasion (CA).">
 
 <!ENTITY downloadCert.trustEmail "Talken daytoy a CA tapno mailasin ti agar-aramat iti e-mail.">
-<!ENTITY downloadCert.trustObjSign "Talken daytoy a CA tapno mailasin ti programador ti software.">
 
 
 <!ENTITY downloadCert.viewCert.text "Bigbigen ti sertipiko ti CA">
@@ -40,6 +40,7 @@
 <!ENTITY createCertInfo.title "Agparparsua iti Napakni a Tulbek">
 <!ENTITY createCertInfo.msg1 "Agdinama ti pannakaparsua ti tulbek... Agbayagsa iti sagmamano a daras....">
 <!ENTITY createCertInfo.msg2 "Aguray man kayo...">
+
 <!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.msg "Agpaneknekkayo kadaytoy a pagtandaanan. Agdepende ti wagas ti panagpaneknek iti kita ti pagtandaananyo.">
 <!ENTITY protectedAuth.tokenName.label "Pagtandaanan:">

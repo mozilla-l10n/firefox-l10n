@@ -4,5 +4,8 @@
 
 aboutDialog-title =
     .title = Maipapan iti { -brand-full-name }
+
 update-checkingForUpdates = Palutputen ti pannanarimaan...
+
 bottomLinks-privacy = Polisa ti Kapaknian
+

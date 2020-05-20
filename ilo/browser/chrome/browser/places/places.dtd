@@ -64,14 +64,11 @@
 <!ENTITY cmd.new_separator.label           "Baro a Pagsina">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Ikarga manen ti Siaandar a Pannanda">
-
 <!ENTITY col.name.label          "Nagan">
 <!ENTITY col.tags.label          "Etiketa">
 <!ENTITY col.url.label           "Disso">
 <!ENTITY col.mostrecentvisit.label "Kinabiit a Panagbisita">
 <!ENTITY col.visitcount.label    "Panagbisita">
-<!ENTITY col.description.label   "Pakabigbigan">
 <!ENTITY col.dateadded.label     "Nanayonan">
 <!ENTITY col.lastmodified.label  "Kaudian a Panagbaliw">
 
@@ -88,10 +85,6 @@
 
 <!ENTITY forwardButton.tooltip  "Agtarus">
 
-<!ENTITY detailsPane.more.label "Ad-addu">
-<!ENTITY detailsPane.more.accesskey "u">
-<!ENTITY detailsPane.less.label "Basbassit">
-<!ENTITY detailsPane.less.accesskey "B">
 <!ENTITY detailsPane.selectAnItemText.description "Pilienyo ti maysa tapno maipadlaw sakayonto makapangbaliw kadagiti gupitna.">
 
 <!ENTITY view.label               "Ipadlaw">

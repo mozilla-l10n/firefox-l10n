@@ -31,5 +31,6 @@ print-window =
     .title = Imalmaldit
 print-complete =
     .value = Nalpas ti Panagimaldit.
+
 dialog-cancel-label = Ibabawi
 dialog-close-label = Close

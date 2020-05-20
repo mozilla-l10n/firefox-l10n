@@ -4,6 +4,7 @@
 
 psmerr-ssl-disabled = Saan a makasilpo a nasaligned gapu ta nakaiddep ti protokol a SSL.
 psmerr-ssl2-disabled = Saan a makasilpo a nasaligned gapu ta ar-aramaten ti sitio ti daddaan ken di-nasaligned a bersion ti protokol a SSL.
+
 ssl-error-bad-client = Nakasarak ti serbidor iti naalas a datos aggapu iti kliente.
 ssl-error-bad-server = Nakasarak ti kliente iti naalas a datos aggapu iti serbidor.
 ssl-error-bad-cert-alert = Saan a mapaneknekan ti kapada nga SSL ti sertipikoyo.

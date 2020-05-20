@@ -5,21 +5,28 @@
 bookmark-overlay-name =
     .value = Nagan:
     .accesskey = N
+
 bookmark-overlay-location =
     .value = Disso:
     .accesskey = L
+
 bookmark-overlay-folder =
     .value = Karpeta:
+
 bookmark-overlay-choose =
     .label = Pilien...
+
 bookmark-overlay-new-folder-button =
     .label = Baro a Karpeta
     .accesskey = o
+
 bookmark-overlay-tags =
     .value = Etiketa:
     .accesskey = t
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Isina dagiti etiketa babaen ti koma
+
 bookmark-overlay-keyword =
     .value = Balikas-tulbek:
     .accesskey = k

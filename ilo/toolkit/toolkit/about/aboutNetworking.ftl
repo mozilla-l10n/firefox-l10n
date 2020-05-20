@@ -4,3 +4,7 @@
 
 show-next-time-checkbox = Show this warning next time
 ok = OK
+
+## Link is intended as "network link"
+
+##

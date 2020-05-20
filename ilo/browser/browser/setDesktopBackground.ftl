@@ -4,13 +4,20 @@
 
 set-desktop-background-window =
     .title = Ituding ti Likodan ti Eskritorio
+
 set-desktop-background-accept =
     .label = Ituding ti Likodan ti Eskritorio
+
 set-background-color = Maris:
+
 set-background-position = Saad:
+
 set-background-tile =
     .label = Ibaldosa
+
 set-background-center =
     .label = Ipatengnga
+
 set-background-stretch =
     .label = Bennaten
+

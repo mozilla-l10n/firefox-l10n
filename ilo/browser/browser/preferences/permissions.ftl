@@ -5,25 +5,32 @@
 permissions-window =
     .title = Laksid
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Lapdan
     .accesskey = B
+
 permissions-allow =
     .label = Palubosan
     .accesskey = a
+
 permissions-status =
     .label = Kasasaad
+
 permissions-button-cancel =
     .label = Ibabawi
     .accesskey = C
+
 permissions-capabilities-allow =
     .label = Palubosan
 permissions-capabilities-block =
     .label = Lapdan
 permissions-capabilities-prompt =
     .label = Kanayon a Saludsuden
+
 permissions-capabilities-listitem-allow =
     .value = Palubosan
 permissions-capabilities-listitem-block =
@@ -51,11 +58,15 @@ permissions-invalid-uri-label = Isuratyo man ti nagan ti serbidor
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

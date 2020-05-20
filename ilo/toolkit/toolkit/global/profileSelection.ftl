@@ -8,3 +8,4 @@
 profile-manager-work-offline =
     .label = Nalkab
     .accesskey = o
+

@@ -16,3 +16,4 @@ column-heading-password =
 close-button =
     .label = Close
     .accesskey = C
+

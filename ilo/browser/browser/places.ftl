@@ -14,6 +14,7 @@ places-new-folder =
 places-new-separator =
     .label = Baro a Pagsina
     .accesskey = s
+
 places-view =
     .label = Ipadlaw
     .accesskey = w
@@ -32,10 +33,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Segun Petsa ken Sitio
     .accesskey = t
+
 places-history-search =
     .placeholder = Biroken iti pakasaritaan
 places-bookmarks-search =
     .placeholder = Biroken iti pannanda
+
 places-sortby-name =
     .label = Urnosen segun Nagan
     .accesskey = P

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Font
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Font ti
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Nakaitutop
     .accesskey = N
+
 fonts-default-serif =
     .label = Serifa
 fonts-default-sans-serif =
     .label = Awan-Serifa
+
 fonts-proportional-size = Kadakkel
     .accesskey = d
+
 fonts-serif = Serifa
     .accesskey = S
+
 fonts-sans-serif = Awan-Serifa
     .accesskey = A
+
 fonts-monospace = Agkakalawa
     .accesskey = A
+
 fonts-monospace-size = Kadakkel
     .accesskey = K
+
 fonts-minsize = Kabassitan a sukat ti font
     .accesskey = f
+
 fonts-minsize-none =
     .label = Awan
+
 fonts-allow-own =
     .label = Palubosan dagiti panid nga pumili ti bukod a fontda, iti saad dagiti piniliyo idiay rabaw
     .accesskey = P
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Panagkodigo ti Text para Tawid a Laon
 fonts-languages-fallback-desc = Daytoy a panagkodigo ket aramaten para tawid a laon a dina ipakaammo ti panagkodigona.
+
 fonts-languages-fallback-label = Pangsabalian a Panagkodigo ti Text
     .accesskey = x
+
 fonts-languages-fallback-name-auto =
     .label = Sigud ti Agdama a Lokalidad
 fonts-languages-fallback-name-arabic =
@@ -138,7 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Bietnames
 fonts-languages-fallback-name-other =
     .label = Sabali (mairaman ti Akinlaud nga Ewropa)
-fonts-very-large-warning-accept = Idulin dagiti balbaliwan latta
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
