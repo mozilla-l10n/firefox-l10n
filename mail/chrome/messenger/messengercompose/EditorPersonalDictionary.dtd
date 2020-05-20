@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "V">
 <!ENTITY DictionaryList.label "Woorde in woordeboek:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Vervang">
-<!ENTITY ReplaceButton.accessKey "V">
 <!ENTITY RemoveButton.label "Verwyder">
 <!ENTITY RemoveButton.accessKey "e">
 

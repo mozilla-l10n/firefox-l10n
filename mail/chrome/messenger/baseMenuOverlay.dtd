@@ -15,14 +15,3 @@
 
 
 
-<!ENTITY whatsNewCmd.label "Wat's nuut">
-<!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY openHelp.label "Hulpinhoud">
-<!ENTITY openHelp.accesskey "H">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName;-hulp">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
-
-<!ENTITY aboutMenuCmd.label "Aangaande &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "A">

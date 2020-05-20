@@ -1,6 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
+
 <!-- extracted from am-addressing.xul -->
 <!ENTITY addressingGroupTitle.label "Adresbediener">
 <!ENTITY addressingText.label      "Wanneer adresse deursoek word:">
@@ -12,8 +17,11 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 
 <!ENTITY directoriesNone.label     "Geen">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Opstelling">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -21,9 +29,6 @@
 <!ENTITY useHtml.accesskey                    "S">
 <!ENTITY autoQuote.label                      "Haal outomaties die oorspronklike boodskap aan wanneer antwoord">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "en">
-<!ENTITY then.accesskey                       "e">
 <!ENTITY aboveQuote.label                     "begin my antwoord bo die aangehaalde teks">
 <!ENTITY belowQuote.label                     "begin my antwoord onder die aangehaalde teks">
 <!ENTITY selectAndQuote.label                 "merk die aangehaalde teks">

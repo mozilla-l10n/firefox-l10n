@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Om skyfspasie te bespaar, moenie aflaai nie:">
 <!ENTITY doNotDownloadNntp.label "Om skyfspasie te bespaar, moenie vir aflyngebruik aflaai nie:">
 <!ENTITY doNotDownloadImap.label "Om skyfspasie te bespaar kan u stel watter grootte of ouderdom boodskappe van die bediener afgelaai word en as plaaslike kopieë gehou word.">
-<!ENTITY allFoldersOffline.label "Hou boodskappe vir hierdie rekening op hierdie rekenaar">
-<!ENTITY allFoldersOffline.accesskey "v">
 <!ENTITY offlineNotDownload.label "Boodskappe groter as">
 <!ENTITY offlineNotDownload.accesskey "B">
 <!ENTITY autosyncNotDownload.label "Moenie boodskappe aflaai groter as">

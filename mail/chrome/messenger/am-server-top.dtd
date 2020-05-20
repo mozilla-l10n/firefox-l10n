@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "s">
 <!ENTITY downloadOnBiff.label "Laai outomaties nuwe boodskappe af">
 <!ENTITY downloadOnBiff.accesskey "e">
-<!ENTITY username.label "U aanmeldnaam">
 <!ENTITY deleteMessagePrefix.label "Wanneer ek 'n boodskap skrap:">
 <!ENTITY modelMoveToTrash.label "Skuif dit na hierdie vouer:">
 <!ENTITY modelMoveToTrash.accesskey "S">
