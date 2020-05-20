@@ -125,5 +125,5 @@ urlbar-placeholder =
     .placeholder = Pakweya kĩimeeçxa takhnxi's u'kaya
 urlbar-switch-to-tab =
     .value = Yu'pteni's nxithni
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh
