@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY mailListWindowAdd.title "Nueva lista de correo">
+
 <!ENTITY addToAddressBook.label "Añadir a: ">
 <!ENTITY addToAddressBook.accesskey "A">
 <!ENTITY ListName.label "Nombre de lista: ">

@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = Preferencias del contenedor { $name }
     .style = width: 49em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 5rem
+
 containers-name-label = Nombre
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = Escriba un nombre de contenedor
+
 containers-icon-label = Icono
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = Color
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = Hecho
     .accesskey = H
+
 containers-color-blue =
     .label = Azul
 containers-color-turquoise =
@@ -54,6 +62,7 @@ containers-color-purple =
     .label = Púrpura
 containers-color-toolbar =
     .label = Emparejar la barra de herramientas
+
 containers-icon-fence =
     .label = Cerco
 containers-icon-fingerprint =

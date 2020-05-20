@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Reiniciar { -brand-short-name }
     .accesskey = R
+
 blocklist-label-summary = { -brand-short-name } ha determinado que los siguientes complementos son conocidos por causar problemas de estabilidad o seguridad:
 blocklist-soft-and-hard = Los complementos que tienen un alto riesgo de causar problemas de estabilidad o seguridad se han bloqueado. Los demás suponen menos riesgo, pero es altamente recomendable que reinicie con ellos desactivados.
 blocklist-hard-blocked = Estos complementos tienen un alto riesgo de causar problemas de inestabilidad o seguridad, y han sido bloqueados, pero se requiere reiniciar para desactivarlos por completo.
 blocklist-soft-blocked = Para su protección, está altamente recomendado que reinicie con estos complementos desactivados.
 blocklist-more-information =
     .value = Más información
+
 blocklist-blocked =
     .label = Bloqueado
 blocklist-checkbox =

@@ -5,6 +5,7 @@
 <!ENTITY itemFormatting.label "Formato">
 <!ENTITY itemTags.label "Etiquetas">
 <!ENTITY itemAdvanced.label "Avanzadas">
+
 <!ENTITY style.label "Estilo:">
 <!ENTITY style.accesskey "E">
 <!ENTITY regularStyle.label "Normal">
@@ -20,8 +21,10 @@
 <!ENTITY quotedTextColor.accesskey "o">
 <!ENTITY displayWidth.label "Mensajes de texto sin formato">
 <!ENTITY displayText.label "Al mostrar mensajes citados de texto sin formato:">
+
 <!ENTITY convertEmoticons.label "Mostrar emoticones como gráficos">
 <!ENTITY convertEmoticons.accesskey "M">
+
 <!ENTITY displayTagsText.label "Las etiquetas pueden usarse para categorizar y priorizar sus mensajes.">
 <!ENTITY newTagButton.label "Nuevo…">
 <!ENTITY newTagButton.accesskey "N">
@@ -29,6 +32,7 @@
 <!ENTITY editTagButton1.accesskey "E">
 <!ENTITY removeTagButton.label "Eliminar">
 <!ENTITY removeTagButton.accesskey "r">
+
 <!ENTITY fontsAndColors1.label "Tipografías y colores">
 <!ENTITY defaultFont.label "Tipo de letra predeterminado:">
 <!ENTITY defaultFont.accesskey "i">
@@ -38,11 +42,13 @@
 <!ENTITY fontOptions.label "Avanzadas…">
 <!ENTITY colorButton.label "Colores…">
 <!ENTITY colorButton.accesskey "C">
+
 <!ENTITY reading.caption "Lectura">
 <!ENTITY display.caption "Visualización">
 <!ENTITY displayName.label "Nombre mostrado:">
 <!ENTITY showCondensedAddresses.label "Mostrar sólo el atributo 'nombre mostrado' para las personas de mi libreta de direcciones">
 <!ENTITY showCondensedAddresses.accesskey "b">
+
 <!ENTITY autoMarkAsRead.label "Marcar automáticamente mensajes como leídos">
 <!ENTITY autoMarkAsRead.accesskey "A">
 <!ENTITY markAsReadNoDelay.label "Inmediatamente tras mostrarlo">

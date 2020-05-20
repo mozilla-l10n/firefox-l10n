@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title "Configurar una dirección de correo existente">
+
 <!ENTITY emailWizard.title "Configure su dirección de correo electrónico existente">
 <!ENTITY emailWizard.caption "Use su dirección de correo electrónico actual">
 <!ENTITY name.label "Su nombre:">
@@ -28,9 +29,11 @@
 <!ENTITY usernameEx.accesskey "u">
 <!ENTITY usernameEx.placeholder "SUDOMINIO\sunombredeusuario">
 <!ENTITY usernameEx.text "Nombre de usuario del dominio">
+
 <!ENTITY protocol.label "Protocolo:">
 <!ENTITY imapLong.label "IMAP (carpetas remotas)">
 <!ENTITY pop3Long.label "POP3 (conservar correo en su equipo)">
+
 <!ENTITY manualConfigTable.summary "Configuración del servidor">
 <!ENTITY incoming.label "Entrante:">
 <!ENTITY incomingColumn.label "Entrante">
@@ -52,7 +55,9 @@
 <!ENTITY noEncryption.label "Ninguno">
 <!ENTITY starttls.label "STARTTLS">
 <!ENTITY sslTls.label "SSL/TLS">
+
 <!ENTITY exchange-hostname.label "Servidor Exchange:">
+
 <!ENTITY advancedSetup.label "Config. avanzada">
 <!ENTITY advancedSetup.accesskey "C">
 <!ENTITY cancel.label "Cancelar">
@@ -69,8 +74,12 @@
 <!ENTITY manual-config.accesskey "M">
 <!ENTITY open-provisioner.label "Obtener una nueva dirección de correo…">
 <!ENTITY open-provisioner.accesskey "b">
+
+
 <!ENTITY get-help.label "Obtener ayuda">
 <!ENTITY get-help.accesskey "u">
+
+
 <!ENTITY warning.label "¡Advertencia!">
 <!ENTITY incomingSettings.label "Configuración de entrada:">
 <!ENTITY outgoingSettings.label "Configuración de salida:">
@@ -81,9 +90,12 @@
 <!ENTITY doneAccount.accesskey "H">
 <!ENTITY changeSettings.label "Cambiar configuración">
 <!ENTITY changeSettings.accesskey "b">
+
 <!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Thunderbird para más información.">
+
 <!ENTITY insecureServer.tooltip.title "¡Advertencia! Este servidor es inseguro.">
 <!ENTITY insecureServer.tooltip.details "Pulse en el círculo para más detalles.">
+
 <!ENTITY insecureUnencrypted.description "Sus credenciales y correo se envían sin cifrar, por lo que su contraseña (y su mensaje) pueden ser leídos fácilmente por otras personas. &brandShortName; le permitirá acceder a su correo, pero debería contactar con su proveedor de correo electrónico para configurar el servidor con una conexión segura.">
 <!ENTITY insecureSelfSigned.description "El servidor usa un certificado en el que no se puede confiar, por lo que no es posible asegurar que no hay nadie interceptando el tráfico entre &brandShortName; y su servidor. &brandShortName; le permitirá su correo, pero debería conseguir que su proveedor de correo configure el servidor con un certificado confiable.">
 <!ENTITY secureServer.description "¡Felicidades! Éste servidor es seguro.">

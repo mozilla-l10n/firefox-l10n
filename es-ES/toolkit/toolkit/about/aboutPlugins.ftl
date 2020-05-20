@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Acerca de los plugins
+
 installed-plugins-label = Plugins instalados
 no-plugins-are-installed-label = No se han encontrado plugins instalados
+
 deprecation-description = ¿Echa algo en falta? Algunos plugins ya no están admitidos. <a data-l10n-name="deprecation-link">Saber más.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Estado:</span> Habilitado
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Estado:</span> Habilitado ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Estado:</span> Deshabilitado
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estado:</span> Deshabilitado ({ $blockListState })
+
 mime-type-label = Tipo MIME
 description-label = Descripción
 suffixes-label = Sufijos

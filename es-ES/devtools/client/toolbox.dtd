@@ -136,11 +136,6 @@
 <!ENTITY options.timestampMessages.label      "Activar marcas de tiempo">
 <!ENTITY options.timestampMessages.tooltip    "Si activa esta opción, las órdenes y sus salidas en la consola web mostrarán una marca de tiempo">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Agrupar mensajes similares">
-<!ENTITY options.warningGroups.tooltip    "Cuando esté habilitado, los mensajes similares se agruparán">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Depurador">

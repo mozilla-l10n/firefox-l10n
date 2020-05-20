@@ -4,13 +4,18 @@
 
 <!ENTITY safeModeDialog.title "Modo seguro de &brandShortName;">
 <!ENTITY window.width "47em">
+
 <!ENTITY safeModeDescription.label "&brandShortName; se está ejecutando ahora en modo seguro, que desactiva temporalmente sus personalización de opciones, temas y extensiones.">
 <!ENTITY safeModeDescription2.label "Puede hacer permanentes todos o algunos de estos cambios:">
+
 <!ENTITY disableAddons.label "Desactivar todos los complementos">
 <!ENTITY disableAddons.accesskey "D">
+
 <!ENTITY resetToolbars.label "Reinicializar barras de herramientas y controles">
 <!ENTITY resetToolbars.accesskey "R">
+
 <!ENTITY changeAndRestartButton.label "Hacer cambios y reiniciar">
 <!ENTITY changeAndRestartButton.accesskey "H">
+
 <!ENTITY continueButton.label "Continuar en modo seguro">
 <!ENTITY continueButton.accesskey "C">

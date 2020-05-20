@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Insertar tabla">
+
 <!ENTITY size.label "Tamaño">
 <!ENTITY numRowsEditField.label "Filas:">
 <!ENTITY numRowsEditField.accessKey "F">

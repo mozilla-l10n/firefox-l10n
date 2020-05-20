@@ -5,13 +5,16 @@
 <!ENTITY itemGeneral.label "General">
 <!ENTITY itemAutoComplete.label "Destinatario">
 <!ENTITY itemSpellCheck.label "Ortografía">
+
 <!ENTITY dialogCompose.title "Redactando">
+
 <!ENTITY forwardMsg.label "Reenviar mensajes:">
 <!ENTITY forwardMsg.accesskey "m">
 <!ENTITY inline.label "Incorporados">
 <!ENTITY asAttachment.label "Como adjuntos">
 <!ENTITY addExtension.label "Añadir extensión al nombre de archivo">
 <!ENTITY addExtension.accesskey "A">
+
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Tipo de letra:">
 <!ENTITY font.accesskey "T">
@@ -27,6 +30,7 @@
 <!ENTITY restoreHTMLDefaults.accesskey "R">
 <!ENTITY defaultToParagraph.label "Usar formato de párrafo en lugar de cuerpo de texto por omisión">
 <!ENTITY defaultToParagraph.accesskey "P">
+
 <!ENTITY spellCheck.label "Comprobar la ortografía antes de enviar">
 <!ENTITY spellCheck.accesskey "C">
 <!ENTITY spellCheckInline.label "Activar corrección ortográfica al escribir">
@@ -34,11 +38,13 @@
 <!ENTITY languagePopup.label "Idioma:">
 <!ENTITY languagePopup.accessKey "I">
 <!ENTITY downloadDictionaries.label "Descargar más diccionarios">
+
 <!ENTITY warnOnSendAccelKey.label "Confirmar al usar el atajo de teclado para envío de mensajes">
 <!ENTITY warnOnSendAccelKey.accesskey "n">
 <!ENTITY autoSave.label "Guardar automáticamente cada">
 <!ENTITY autoSave.accesskey "G">
 <!ENTITY autoSaveEnd.label "minutos">
+
 <!ENTITY emailCollectionPicker.label "Añadir automáticamente las direcciones de correo saliente a mi(s):">
 <!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Autocompletado de direcciones">
@@ -53,9 +59,11 @@
 <!ENTITY showAsDefault.label "Directorio de inicio por omisión en la ventana de la libreta de direcciones:">
 <!ENTITY showAsDefault.accesskey "D">
 <!ENTITY showAsDefaultLast.label "Último directorio usado">
+
 <!ENTITY sendOptionsDescription.label "Configurar comportamiento del formato de texto">
 <!ENTITY sendOptions.label "Opciones de envío…">
 <!ENTITY sendOptions.accesskey "v">
+
 <!ENTITY attachmentReminder.label "Comprobar adjuntos olvidados">
 <!ENTITY attachmentReminder.accesskey "b">
 <!ENTITY attachmentReminderOptions.label "Palabras clave…">

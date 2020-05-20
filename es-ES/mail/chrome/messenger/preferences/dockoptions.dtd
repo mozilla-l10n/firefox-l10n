@@ -4,6 +4,7 @@
 
 <!ENTITY dockOptionsDialog.title "Opciones del icono de la aplicación">
 <!ENTITY window.macWidth "42em">
+
 <!ENTITY bounceSystemDockIcon.label "Animar el icono de la aplicación cuando llegue un mensaje nuevo">
 <!ENTITY bounceSystemDockIcon.accesskey "A">
 <!ENTITY newMessagesCountDock.label "Cuenta de mensajes nuevos">

@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY offlineDialog.title "Configuración sin conexión">
+
 <!ENTITY checkAutoDetect.label "Seguir automáticamente el estado de conexión detectado">
 <!ENTITY checkAutoDetect.accesskey "a">
 <!ENTITY titleStartUp "Estado manual al iniciar:">
@@ -14,6 +15,7 @@
 <!ENTITY radioAlwaysOnlineState.accesskey "x">
 <!ENTITY radioAlwaysOffline.label "Sin conexión">
 <!ENTITY radioAlwaysOffline.accesskey "o">
+
 <!ENTITY textGoingOnline "¿Enviar mensajes pendientes al pasar a modo con conexión?">
 <!ENTITY radioAutoSend.label "Sí">
 <!ENTITY radioAutoSend.accesskey "S">

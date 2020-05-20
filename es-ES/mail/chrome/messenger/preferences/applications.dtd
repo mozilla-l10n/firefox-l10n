@@ -4,11 +4,15 @@
 
 <!ENTITY typeColumn.label "Tipo de contenido">
 <!ENTITY typeColumn.accesskey "T">
+
 <!ENTITY actionColumn2.label "Acción">
 <!ENTITY actionColumn2.accesskey "A">
+
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
+
 <!ENTITY filter.placeholder "Buscar">
+
 <!ENTITY saveTo.label "Guardar archivos en">
 <!ENTITY saveTo.accesskey "G">
 <!ENTITY alwaysAsk.label "Preguntarme siempre dónde guardar archivos">
@@ -17,13 +21,16 @@
 <!ENTITY chooseFolderWin.accesskey "x">
 <!ENTITY chooseFolderMac.label "Elegir…">
 <!ENTITY chooseFolderMac.accesskey "E">
+
 <!ENTITY attachments.incoming.label "Entrante">
 <!ENTITY attachments.outgoing.label "Saliente">
+
 <!ENTITY addCloudFileAccount1.label "Añadir…">
 <!ENTITY addCloudFileAccount1.accesskey "d">
 <!ENTITY addCloudFileAccount.description "Añadir un nuevo servicio de almacenamiento Filelink">
 <!ENTITY removeCloudFileAccount.label "Eliminar">
 <!ENTITY removeCloudFileAccount.accesskey "m">
 <!ENTITY findCloudFileProviders.label "Buscar más proveedores…">
+
 <!ENTITY enableCloudFileAccountOffer.label "Ofrecerlo para compartir archivos mayores de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

@@ -16,6 +16,7 @@
 <!ENTITY sendBoth.label "Enviar el mensaje en texto sin formato y en HTML">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Nota: use la libreta de direcciones para especificar los formatos preferidos de texto para los destinatarios.">
+
 <!ENTITY domaindesc.label "Al enviar un mensaje a una dirección con uno de los nombres de dominio listados debajo, &brandShortName; automáticamente envía el mensaje en el formato correcto.">
 <!ENTITY HTMLTab.label "Dominios HTML">
 <!ENTITY HTMLTab.accesskey "H">
@@ -29,6 +30,7 @@
 <!ENTITY DeleteHtmlDomain.accesskey "n">
 <!ENTITY DeletePlainText.label "Eliminar">
 <!ENTITY DeletePlainText.accesskey "n">
+
 <!ENTITY add.htmltitle "Añadir nombre de dominio HTML">
 <!ENTITY add.htmldomain "Nombre de dominio HTML:">
 <!ENTITY add.plaintexttitle "Añadir nombre de dominio de texto sin formato">
