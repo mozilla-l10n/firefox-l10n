@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = ਮੈਂ ਖ਼ਤਰੇ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਦਾ/ਕਰਦੀ ਹਾਂ!
 config-about-warning-checkbox =
     .label = ਮੈਨੂੰ ਚੇਤਾਵਨੀ ਅਗਲੀ ਵਾਰ ਵੀ ਵੇਖਾਓ
+
 config-search-prefs =
     .value = ਖੋਜ:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = ਕਾਪੀ ਕਰੋ
     .accesskey = C
+
 config-copy-name =
     .label = ਨਾਂ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = C
+
 config-copy-value =
     .label = ਮੁੱਲ ਨੂੰ ਕਾਪੀ ਕਰੋ
     .accesskey = V
+
 config-modify =
     .label = ਸੋਧੋ
     .accesskey = M
+
 config-toggle =
     .label = ਬਦਲੋ
     .accesskey = T
+
 config-reset =
     .label = ਮੁੜ-ਸੈੱਟ
     .accesskey = R
+
 config-new =
     .label = ਨਵਾਂ
     .accesskey = N
+
 config-string =
     .label = ਲਾਈਨ
     .accesskey = S
+
 config-integer =
     .label = ਪੂਰਨ ਅੰਕ
     .accesskey = I
+
 config-boolean =
     .label = ਬੂਲੀਅਨ
     .accesskey = B
+
 config-default = ਡਿਫਾਲਟ
 config-modified = ਸੋਧਿਆ
 config-locked = ਲਾਕ ਕੀਤਾ
+
 config-property-string = ਲਾਈਨ
 config-property-int = ਪੂਰਨ ਅੰਕ
 config-property-bool = ਬੂਲੀਅਨ
+
 config-new-prompt = ਪਸੰਦੀਦਾ ਨਾਂ ਦਿਓ
+
 config-nan-title = ਗਲਤ ਮੁੱਲ
 config-nan-text = ਤੁਹਾਡੇ ਵਲੋਂ ਦਿੱਤਾ ਟੈਕਸਟ ਨੰਬਰ ਨਹੀਂ ਹੈ।
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ਨਵਾਂ { $type } ਮੁੱਲ
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } ਮੁੱਲ ਭਰੋ

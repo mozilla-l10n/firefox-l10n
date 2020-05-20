@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "ਕਾਪੀ ਅਤੇ ਫੋਲਡਰ">
 <!ENTITY sendingPrefix.label "ਜਦੋਂ ਸੁਨੇਹੇ ਭੇਜੇ ਜਾਣ ਤਾਂ ਆਟੋਮੈਟਿਕ ਹੀ: ">
 <!ENTITY fccMailFolder.label "ਇੱਕ ਕਾਪੀ ਰੱਖੋ:">
@@ -25,12 +27,6 @@
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "ਹੋਰ:">
 <!ENTITY sentInOtherFolder.accesskey "O">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;ਡਰਾਫਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "ਹੋਰ:">
-<!ENTITY draftInOtherFolder.accesskey "O">
-
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesTitle.label "Message Archives">
 <!ENTITY keepArchives.label "ਸੁਨੇਹਾ ਅਕਾਇਵ ਵਿੱਚ ਰੱਖੋ:">
@@ -43,13 +39,18 @@
 <!ENTITY archivesFolderOn.accesskey "D">
 <!ENTITY archiveInOtherFolder.label "ਹੋਰ:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
+<!ENTITY specialFolders.label "Drafts and Templates">
+
+
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;ਡਰਾਫਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "ਹੋਰ:">
+<!ENTITY draftInOtherFolder.accesskey "O">
+
+<!ENTITY keepTemplates.label "Keep message templates in:">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;ਟੈਪਲੇਟ&quot; ਫੋਲਡਰ ਉੱਤੇ:">
 <!ENTITY templatesFolderOn.accesskey "n">
 <!ENTITY templateInOtherFolder.label "ਹੋਰ:">
 <!ENTITY templateInOtherFolder.accesskey "h">
-<!ENTITY specialFolders.label "Drafts and Templates">
-<!ENTITY keepDrafts.label "ਸੁਨੇਹਾ ਡਰਾਫਟ ਵਿੱਚ ਰੱਖੋ:">
-
-
-<!ENTITY keepTemplates.label "Keep message templates in:">

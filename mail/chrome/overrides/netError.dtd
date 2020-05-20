@@ -85,13 +85,6 @@
 <!ENTITY netTimeout.title "The connection has timed out">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY protocolNotFound.title "The address wasn't understood">
-<!ENTITY protocolNotFound.longDesc "
-<ul>
-  <li>You might need to install other software to open this address.</li>
-</ul>
-">
-
 <!ENTITY proxyConnectFailure.title "The proxy server is refusing connections">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -129,12 +122,6 @@
 ">
 
 <!ENTITY nssFailure2.title "Secure connection failed">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
-  <li>Please contact the website owners to inform them of this problem.</li>
-</ul>
-">
 
 <!ENTITY nssBadCert.title "Secure connection failed">
 <!ENTITY nssBadCert.longDesc2 "
@@ -156,24 +143,6 @@ be temporary, and you can try again later.</li>
     that &brandShortName; is permitted to access the Web.</li>
 </ul>
 ">
-
-<!ENTITY malwareBlocked.title "Suspected attack site!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Attack sites try to install programs that steal private information, use your computer to attack others, or damage your system.</p>
-<p>Website owners who believe their site has been reported as an attack site in error may <a href='http://www.stopbadware.org/home/reviewinfo'>request a review</a>.</p>
-">
-
-<!ENTITY phishingBlocked.title "Suspected web forgery!">
-<!ENTITY phishingBlocked.longDesc "
-<p>Entering any personal information on this page may result in identity theft or other fraud.</p>
-<p>These types of web forgeries are used in scams known as phishing attacks, in which fraudulent web pages and emails are used to imitate sources you may trust.</p>
-">
-
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
-
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The content you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the owners to inform them of this problem.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Or you can add an exception…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Get me out of here!">

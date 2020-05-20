@@ -33,8 +33,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "ਚੁਣੇ ਫੋਲਡਰ ਤੇ ਚਲਾਓ:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "ਇਹ ਫੋਲਡਰ ਚੁਣੋ">
-<!ENTITY choosethisnewsserver.label "ਇਹ ਖਬਰ ਸਰਵਰ ਚੁਣੋ">
 <!ENTITY helpButton.label "ਮੱਦਦ">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 

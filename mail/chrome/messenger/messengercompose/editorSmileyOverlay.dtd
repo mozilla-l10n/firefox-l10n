@@ -16,8 +16,8 @@
 <!ENTITY smiley3Cmd.accesskey "W">
 <!ENTITY smiley3Cmd.tooltip "ਸੈਨਤ ਕਰਦਾ ਚਿਹਰਾ ਸ਼ਾਮਿਲ">
 <!ENTITY smiley4Cmd.label "ਜੀਭ ਕੱਢਦਾ">
-<!ENTITY smiley4Cmd.tooltip "ਜੀਭ ਕੱਢਦਾ ਚਿਹਰਾ ਸ਼ਾਮਿਲ">
 <!ENTITY smiley4Cmd.accesskey "T">
+<!ENTITY smiley4Cmd.tooltip "ਜੀਭ ਕੱਢਦਾ ਚਿਹਰਾ ਸ਼ਾਮਿਲ">
 <!ENTITY smiley5Cmd.label "ਹੱਸ ਰਿਹਾ">
 <!ENTITY smiley5Cmd.accesskey "L">
 <!ENTITY smiley5Cmd.tooltip "ਹੱਸਦਾ ਚਿਹਰਾ ਸ਼ਾਮਿਲ">

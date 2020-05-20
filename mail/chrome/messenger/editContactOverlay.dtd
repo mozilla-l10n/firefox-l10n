@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Address Book:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "ਰੱਦ ਕਰੋ">
-<!ENTITY editContactPanelCancel.accesskey "C">
-
 <!ENTITY editContactPanelDone.label "ਮੁਕੰਮਲ">
 <!ENTITY editContactPanelDone.accesskey "D">
 

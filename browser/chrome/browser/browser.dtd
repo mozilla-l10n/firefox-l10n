@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        "।">
 
 <!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਪੱਟੀ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ">
+
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ">
 
@@ -288,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
+
 
 <!ENTITY searchItem.title             "ਖੋਜ">
 
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "C">
 <!ENTITY manageUserContext.label          "ਕਨਟੇਨਰਾਂ ਦਾ ਬੰਦੋਬਸਤ">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "ਨਵੀਂ ਵਿੰਡੋ">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -630,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pocket ਵਿੱਚ ਸੰਭਾਲੋ">
+
 <!ENTITY saveToPocketCmd.label        "ਸਫ਼ੇ ਨੂੰ Pocket ਵਿੱਚ ਸੰਭਾਲੋ">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "ਲਿੰਕ ਨੂੰ Pocket ਵਿੱਚ ਸੰਭਾਲੋ">
@@ -1022,6 +1026,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "ਬੰਦ ਕਰੋ">
 

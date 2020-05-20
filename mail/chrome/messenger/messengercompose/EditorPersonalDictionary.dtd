@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "ਡਿਕਸ਼ਨਰੀ ਵਿੱਚ ਸ਼ਬਦ:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "ਬਦਲੋ">
-<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "ਹਟਾਓ">
 <!ENTITY RemoveButton.accessKey "e">
 

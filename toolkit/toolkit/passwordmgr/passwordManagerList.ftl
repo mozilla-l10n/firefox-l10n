@@ -54,6 +54,7 @@ import =
 close-button =
     .label = ਬੰਦ ਕਰੋ
     .accesskey = C
+
 show-passwords =
     .label = ਪਾਸਵਰਡ ਵੇਖੋ
     .accesskey = P

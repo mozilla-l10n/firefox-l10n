@@ -15,15 +15,6 @@ auto-refresh = ਹਰ 3 ਸਕਿੰਟ ਬਾਅਦ ਆਪਣੇ-ਆਪ ਤਾ�
 hostname = ਹੋਸਟ-ਨਾਂ
 port = ਪੋਰਟ
 http2 = HTTP/2
-about-networking-title = ਨੈੱਟਵਰਕਿੰਗ ਬਾਰੇ
-about-networking-http = HTTP
-about-networking-sockets = ਸਾਕਟ
-about-networking-dns = DNS
-about-networking-websockets = ਵੈੱਬਸਾਕਟ
-about-networking-refresh = ਤਾਜ਼ਾ
-about-networking-auto-refresh = ਹਰ 3 ਸਕਿੰਟ ਬਾਅਦ ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ
-about-networking-hostname = ਹੋਸਟ-ਨਾਂ
-about-networking-port = ਪੋਰਟ
 ssl = SSL
 active = ਸਰਗਰਮ
 idle = ਵੇਹਲਾ
@@ -66,8 +57,16 @@ rcwn-avg-long = ਵੱਡੀ ਔਸਤ
 rcwn-std-dev-long = ਲੰਮੀ ਸਟੈਂਡਰਡ ਡੇਵੀਏਸ਼ਨ
 rcwn-cache-slow = ਕੈਸ਼ ਹੌਲੀ ਗਿਣਤੀ
 rcwn-cache-not-slow = ਕੈਸ਼ਨ ਹੌਲੀ ਨਹੀਂ ਗਿਣਤੀ
-networkid = ਨੈੱਟਵਰਕ ਪਛਾਣ
-networkid-id = ਨੈੱਟਵਰਕ ਪਛਾਣ
+
+about-networking-title = ਨੈੱਟਵਰਕਿੰਗ ਬਾਰੇ
+about-networking-http = HTTP
+about-networking-sockets = ਸਾਕਟ
+about-networking-dns = DNS
+about-networking-websockets = ਵੈੱਬਸਾਕਟ
+about-networking-refresh = ਤਾਜ਼ਾ
+about-networking-auto-refresh = ਹਰ 3 ਸਕਿੰਟ ਬਾਅਦ ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ
+about-networking-hostname = ਹੋਸਟ-ਨਾਂ
+about-networking-port = ਪੋਰਟ
 about-networking-ssl = SSL
 about-networking-active = ਸਰਗਰਮ
 about-networking-idle = ਵੇਹਲਾ
@@ -115,8 +114,6 @@ about-networking-networkid-id = ਨੈੱਟਵਰਕ ਪਛਾਣ
 
 ## Link is intended as "network link"
 
-networkid-isUp = ਲਿੰਕ ਚਾਲੂ ਹੈ
-networkid-statusKnown = ਲਿੰਕ ਸਥਿਤੀ ਜਾਣੀ ਹੈ
 about-networking-networkid-is-up = ਲਿੰਕ ਚਾਲੂ ਹੈ
 about-networking-networkid-status-known = ਲਿੰਕ ਸਥਿਤੀ ਜਾਣੀ ਹੈ
 

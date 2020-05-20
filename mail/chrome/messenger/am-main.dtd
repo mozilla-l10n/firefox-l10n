@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "ਅਕਾਊਂਟ ਸੈਟਿੰਗ">
 <!ENTITY accountName.label "ਅਕਾਊਂਟ ਨਾਂ:">
 <!ENTITY accountName.accesskey "N">
@@ -41,3 +43,4 @@
 <!ENTITY smtpName.label "ਬਾਹਰੀ ਸਰਵਰ (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "ਡਿਫਾਲਟ ਸਰਵਰ ਵਰਤੋਂ">
+

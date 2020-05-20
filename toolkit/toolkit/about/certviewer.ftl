@@ -66,6 +66,7 @@ certificate-viewer-key-usages = ਕੁੰਜੀ ਵਰਤੋ
 certificate-viewer-extended-key-usages = ਐਕਸਟੈਂਡਡ ਕੁੰਜੀ ਵਰਤੋਂ
 certificate-viewer-authority-info-aia = ਅਥਾਰਟੀ ਜਾਣਕਾਰੀ (AIA)
 certificate-viewer-certificate-policies = ਸਰਟੀਫਿਕੇਟ ਨੀਤੀਆਂ
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = ਡਾਊਨਲੋਡ ਕਰੋ
@@ -85,3 +86,6 @@ certificate-viewer-download-pem = PEM (ਸਰਟੀਫਿਕੇਟ)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (ਚੇਨ)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+

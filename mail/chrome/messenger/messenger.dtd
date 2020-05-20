@@ -51,8 +51,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Get Next 500 News Messages">
-<!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Send Unsent Messages">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Subscribe…">
@@ -310,7 +308,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Starred Message">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Folder">
@@ -421,9 +418,6 @@
 <!ENTITY openMessageWindowCmd.label "Open Message">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Open in Conversation">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Attachments">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "When Opening Feed Messages">
@@ -475,9 +469,6 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Import…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "E">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Clear Recent History…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Account Settings">
@@ -485,8 +476,10 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Get Messages">
@@ -592,8 +585,6 @@
 <!ENTITY manageTags.label "Manage Tags…">
 <!ENTITY manageTags.accesskey "M">
 
-<!-- Folder Pane -->
-<!ENTITY folderColumn.label "Name">
 <!ENTITY folderSizeColumn.label "Size">
 
 <!-- Folder Pane Context Menu -->
@@ -746,11 +737,7 @@
 <!ENTITY contextPrintPreview.accesskey "v">
 
 <!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-   This option in the thread pane column picker causes us to reset the
-   customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -808,16 +795,6 @@
      not changed 
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
-     This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate search.keyLabel.* value for the
-     platform.
-     The goal is to convey to the user that typing in the box will allow them
-     to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
-     box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY search.label.base "Search… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -903,3 +880,4 @@
 
 <!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "App Icon Options…">
+

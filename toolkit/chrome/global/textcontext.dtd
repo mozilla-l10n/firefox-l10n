@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "ਲਾਗਇਨ ਭਰੋ">
 <!ENTITY fillLoginMenu.accesskey      "F">
-<!ENTITY fillGeneratedPassword.label  "ਸੁਰੱਖਿਅਤ ਰੂਪ ‘ਚ ਤਿਆਰ ਕੀਤਾ ਪਾਸਵਰਡ ਵਰਤੋਂ">
-<!ENTITY fillGeneratedPassword.accesskey "S">
-<!ENTITY useGeneratedPassword.label   "…ਸੁਰੱਖਿਅਤ ਢੰਗ ਨਾਲ ਤਿਆਰ ਕੀਤਾ ਪਾਸਵਰਡ ਵਰਤੋ">
-<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "ਪਾਸਵਰਡ ਭਰੋ">
 <!ENTITY fillPasswordMenu.accesskey   "F">
 <!ENTITY fillUsernameMenu.label       "ਵਰਤੋਂਕਾਰ-ਨਾਂ ਭਰੋ">

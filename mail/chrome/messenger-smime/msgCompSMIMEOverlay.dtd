@@ -6,6 +6,12 @@
 
 
 <!ENTITY menu_securityEncryptRequire.label "ਇਹ ਸੁਨੇਹਾ ਇਕ੍ਰਿਪਟ">
+
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
 <!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 

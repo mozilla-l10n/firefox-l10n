@@ -33,8 +33,6 @@
 <!ENTITY selectAllCmd.label          "ਸਭ ਚੁਣੋ">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "a">
-<!ENTITY preferencesCmd.label        "ਚੋਣਾਂ…">
-<!ENTITY preferencesCmd.accesskey      "O">
 <!ENTITY preferencesCmdUnix.label       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
@@ -44,9 +42,6 @@
 <!ENTITY viewToolbarsMenu.accesskey      "T">
 <!ENTITY showTaskbarCmd.label          "ਹਾਲਤ ਪੱਟੀ">
 <!ENTITY showTaskbarCmd.accesskey        "S">
-
-<!ENTITY proxy.label                                    "ਪਰਾਕਸੀ ਸੰਰਚਨਾ…">
-<!ENTITY proxy.accesskey                                "C">
 
 <!ENTITY closeCmd.label      "ਬੰਦ">
 <!ENTITY closeCmd.key      "W">

@@ -74,8 +74,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "ਵਿਸ਼ੇਸ਼ਤਾ…">
-<!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -122,8 +120,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "ਐਕਸਪੋਰਟ…">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "ਚੋਣਾਂ…">
-<!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "ਮੇਰੀ ਪਸੰਦ">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
 
@@ -132,8 +128,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "ਨਵੀਂ ਲਿਸਟ">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "ਵਿਸ਼ੇਸ਼ਤਾ">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "ਲਿਖੋ">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "ਤੁਰੰਤ ਸੁਨੇਹਾ">
@@ -144,13 +138,9 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "ਨਵਾਂ ਐਡਰੈੱਸ ਬੁੱਕ ਸੰਪਰਕ ਬਣਾਓ">
 <!ENTITY newlistButton.tooltip                          "ਇੱਕ ਨਵੀਂ ਲਿਸਟ ਬਣਾਓ">
-<!ENTITY editButton2.tooltip                            "ਚੁਣੀ ਆਈਟਮ ਸੋਧੋ">
 <!ENTITY newmsgButton.tooltip                           "ਇੱਕ ਈਮੇਲ ਸੁਨੇਹਾ ਭੇਜੋ">
 <!ENTITY newIM.tooltip                                  "ਇੱਕ ਤੁਰੰਤ ਸੁਨੇਹਾ ਭੇਜੋ ਜਾਂ ਗੱਲਬਾਤ ਕਰੋ">
 <!ENTITY deleteButton2.tooltip                           "ਚੁਣੀ ਆਈਟਮ ਹਟਾਓ">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "ਐਡਰੈੱਸ ਬੁੱਕ">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "ਨਾਂ ਜਾਂ ਈਮੇਲ">

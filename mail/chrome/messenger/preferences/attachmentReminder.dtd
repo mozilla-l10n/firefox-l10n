@@ -4,9 +4,5 @@
 
 <!ENTITY attachmentReminderDialog.title   "ਅਟੈਚਮੈਂਟ ਰੀਮਾਈਡਰ ਸ਼ਬਦ">
 <!ENTITY attachKeywordText.label          "&brandShortName; will warn you about missing attachments if you're about to send an e-mail containing one of these keywords.">
-<!ENTITY addKeywordButton.label           "ਸ਼ਾਮਲ">
-<!ENTITY addKeywordButton.accesskey       "A">
-<!ENTITY editKeywordButton.label          "ਸੋਧ">
-<!ENTITY editKeywordButton.accesskey      "E">
 <!ENTITY removeKeywordButton.label        "ਹਟਾਓ">
 <!ENTITY removeKeywordButton.accesskey    "D">
