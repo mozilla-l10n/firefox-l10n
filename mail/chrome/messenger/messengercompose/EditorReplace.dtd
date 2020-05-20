@@ -38,6 +38,12 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "फेला पार्नुहोस् र बदल्नुहोस्">
 <!ENTITY findField.label "पाठ फेला पार्नुहोस्:">
 <!ENTITY findField.accesskey "n">
@@ -58,4 +64,3 @@
 <!ENTITY replaceAllButton.label "सबै बदल्नुहोस्">
 <!ENTITY replaceAllButton.accesskey "A">
 <!ENTITY closeButton.label "बन्द गर्नुहोस्">
-<!ENTITY notFoundWarning.label "तपाईँले प्रविष्ट गर्नुभएको फाइल फेला परेन ।">

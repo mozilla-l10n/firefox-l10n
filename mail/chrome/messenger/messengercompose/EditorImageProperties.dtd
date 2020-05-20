@@ -34,6 +34,10 @@
    - the terms of any one of the MPL, the GPL or the LGPL.
    -
    - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -41,7 +45,6 @@
 <!ENTITY windowTitle.label "छवि गुण">
 
 <!ENTITY pixelsPopup.value "पिक्सेल">
-<!ENTITY percentPopup.value "प्रतिशत">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "छवि स्थान:">
@@ -57,7 +60,7 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "छवि पूर्वावलोकन">
-<!ENTITY MoreFewerButton.tooltip "सम्पादन गर्नलाई धेरै वा कम गुण प्रदर्शन गर्नुहोस्">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -80,8 +83,6 @@
 <!ENTITY imagemapBox.label "छवि मानचित्र">
 <!ENTITY removeImageMapButton.label "हटाउनुहोस्">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "सम्पादन गर्नुहोस्...">
-<!ENTITY editImageMapButton.tooltip "यस छविका लागि क्लिकयोग्य हटस्पट सिर्जना गर्नुहोस्">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "पाठलाई छविमा पङ्क्तिबद्ध गर्नुहोस्">
@@ -93,7 +94,6 @@
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "खाली स्थान">
-<!ENTITY spacingBox.tooltip "छवि वरिपरिको खाली स्थान मात्रका लागि नम्बर टाइप गर्नुहोस्">
 <!ENTITY leftRightEditField.label "बायाँ र दायाँ:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "माथि र तल:">
@@ -106,10 +106,6 @@
 <!ENTITY showImageLinkBorder.accessKey "B">
 <!-- These controls may be added some day; currently not used -->
 
-<!ENTITY makePageBackgroundCheckbox.label "पृष्ठ पृष्ठभूमि बनाउनुहोस्">
-<!ENTITY makePageBackgroundCheckbox.tooltip "तपाईँको पृष्ठका लागि छविलाई पृष्ठभूमिको रूपमा प्रयोग गर्नुहोस्">
-<!ENTITY editImageButton.label "छवि सम्पादन गर्नुहोस्">
-<!ENTITY editImageButton.tooltip "अन्य कार्यक्रममा छवि फाइल सम्पादन गर्नुहोस्">
 <!-- These tabs are currently used in the image input dialog -->
 
 <!ENTITY imageInputTab.label "फारम">

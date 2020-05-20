@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "तेर्सो रेखा गुण">
 
 <!ENTITY dimensionsBox.label "आयाम">
@@ -46,11 +51,8 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "पिक्सेल">
 <!ENTITY alignmentBox.label "पङ्क्तिबद्धता">
-<!ENTITY leftRadio.value "बायाँ">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "केन्द्र">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "दायाँ">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "त्रि-आयामिक छायाँ">

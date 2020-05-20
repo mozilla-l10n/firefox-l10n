@@ -35,6 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title "तालिका गुण">
 <!ENTITY applyButton.label "लागू गर्नुहोस्">
 <!ENTITY applyButton.accesskey "A">
@@ -69,7 +73,6 @@
 <!ENTITY tableCaptionNone.label "कुनै पनि होइन">
 <!ENTITY tableInheritColor.label "(यसबाट पृष्ठ रङ देखाउनुहोस्)">
 
-<!ENTITY cellPercent.label "तालिकाको प्रतिशत">
 <!ENTITY cellSelection.label "चयन">
 <!ENTITY cellSelectCell.label "कक्ष">
 <!ENTITY cellSelectRow.label "पङ्क्ति">
@@ -78,13 +81,6 @@
 <!ENTITY cellSelectNext.accessKey "N">
 <!ENTITY cellSelectPrevious.label "अघिल्लो">
 <!ENTITY cellSelectPrevious.accessKey "P">
-<!ENTITY cellApplyBeforeMove.label "चयनलाई परिवर्तन गर्नुभन्दा अगाडि परिवर्तन लागू गर्नुहोस्">
-<!ENTITY cellKeepCurrentData.label "हालका सेटिङ राख्नुहोस्">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "हालका परिवर्तन लागू गरिन्छ">
-<!ENTITY applyBeforeChange2.label "चयन परिवर्तन गर्नुभन्दा पहिला ।">
-<!ENTITY cellRowSpan.label "पङ्क्ति स्पान:">
-<!ENTITY cellColSpan.label "स्तम्भ स्पान:">
 <!ENTITY cellContentAlignment.label "सामग्री पङ्क्तिबद्धता">
 <!ENTITY cellHorizontal.label "तेर्सो:">
 <!ENTITY cellHorizontal.accessKey "Z">
@@ -102,7 +98,6 @@
 <!ENTITY cellAlignMiddle.label "बीचमा">
 <!ENTITY cellAlignBottom.label "तल">
 <!ENTITY cellAlignJustify.label "समरेखन गर्नुहोस्">
-<!ENTITY cellAlignAtChar.label "क्यारेक्टरमा:">
 <!ENTITY cellInheritColor.label "(यसबाट तालिका रङ देखाउनुहोस्)">
 <!ENTITY cellUseCheckboxHelp.label "चयन गरिएका सबै कक्षमा कुन गुण लागि गरिन्छ निर्धारण गर्न जाँच बाकस प्रयोग गर्नुहोस्">
 <!-- Used in both Table and Cell panels  -->

@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "व्यक्तिगत शब्दकोश">
 
 <!ENTITY wordEditField.label "नयाँ शब्द:">
@@ -44,8 +48,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "शब्दकोशका शब्दहरू:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "बदल्नुहोस्">
-<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "हटाउनुहोस्">
 <!ENTITY RemoveButton.accessKey "e">
 

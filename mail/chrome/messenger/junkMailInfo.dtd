@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "जङ्क मेलका बारेमा">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "&brandShortName; स्वचालित रूपमा आगमन सन्देश पत्ता लगाउँदछ जुन जङ्क मेलको रूपमा देखापर्दछ (जसलाई स्प्याम पनि भनिन्छ) । सन्देश &brandShortName; जसलाई जङ्क सोचिन्छ, त्यसले जङ्क प्रतिमा प्रदर्शन गर्नेछ">

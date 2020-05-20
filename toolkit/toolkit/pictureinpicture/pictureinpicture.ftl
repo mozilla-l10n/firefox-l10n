@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = रोक्नुहोस्
 pictureinpicture-play =
     .aria-label = प्ले
+
 pictureinpicture-mute =
     .aria-label = आवाज बन्द गर्नुहोस्
 pictureinpicture-unmute =
     .aria-label = आवाज आउने बनाउनुहोस्
+

@@ -1,16 +1,17 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "सुरक्षा">
-<!ENTITY securityMenu.accesskey "e">
-
-<!ENTITY menu_securityEncryptIfPossible.label "यदि सम्भव भए गुप्तिकरण गर्नुहोस्">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
-
 <!ENTITY menu_securityEncryptRequire.label "यो सन्देश गुप्तिकृत गर्नुहोस्">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "यो सन्देश गुप्तिकृत नगर्नुहोस्">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 <!ENTITY menu_securitySign.label "यो सन्देश डिजिटल रूपमा साइन गर्नुहोस्">
 <!ENTITY menu_securitySign.accesskey "S">

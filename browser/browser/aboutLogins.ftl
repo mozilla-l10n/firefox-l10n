@@ -12,14 +12,12 @@ login-app-promo-android =
     .alt = यसलाई Google Play मा पाउनुहोस्
 login-app-promo-apple =
     .alt = App Store मा डाउनलोड गर्नुहोस्
+
 login-filter =
     .placeholder = लगइनहरू खोज्नुहोस्
+
 create-login-button = नयाँ लगईन सिर्जना गर्नुहोस्
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = फ्याभिकनका लागि { $title }
+
 fxaccounts-sign-in-text = तपाईंको अन्य उपकरणहरूमा तपाईंको पासवर्डहरू प्राप्त गर्नुहोस्
 fxaccounts-sign-in-button = { -sync-brand-short-name }मा साइन इन गर्नुहोस्
 fxaccounts-avatar-button =
@@ -29,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = मेनू खोल्नुहोस्
-# This menuitem is only visible on Windows
-menu-menuitem-import = पासवर्डहरू आयात गर्नुहोस् ...
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] विकल्पहरू
@@ -51,7 +47,6 @@ login-list-count =
     }
 login-list-sort-label-text = क्रमबद्ध गर्नुहोस्:
 login-list-name-option = नाम (A-Z)
-login-list-breached-option = Breached वेबसाइट
 login-list-last-changed-option = पछिल्लो परिमार्जित
 login-list-last-used-option = अन्तिम प्रयोग गरिएको
 login-list-intro-title = लगइनहरू फेला परेन
@@ -72,14 +67,24 @@ login-intro-instruction-fxa-settings = यो निश्चित गर्न
 ## Login
 
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
+
+## Password Sync notification
 
 ## Dialogs
 
 
 ## Breach Alert notification
 
+
+## Vulnerable Password notification
 
 ## Error Messages
 

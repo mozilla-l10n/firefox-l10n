@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "सन्देश फिल्टर">
 <!ENTITY nameColumn.label "फिल्टर नाम">
 <!ENTITY activeColumn.label "सक्षम पारिएको">
@@ -22,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "S">
 <!ENTITY folderPickerPrefix.label "यसमा चयन गरिएका फिल्टर(हरू) चलाउनुहोस्:">
 <!ENTITY folderPickerPrefix.accesskey "c">
-<!ENTITY choosethis.label "यो फोल्डर रोज्नुहोस्">
-<!ENTITY choosethisnewsserver.label "यो समाचार सर्भर रोज्नुहोस्">
 <!ENTITY helpButton.label "मद्दत">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W">

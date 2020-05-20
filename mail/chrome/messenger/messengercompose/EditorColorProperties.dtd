@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "पृष्ठ रङ र पृष्ठभूमि">
 <!ENTITY pageColors.label "पृष्ठ रङ">
 <!ENTITY defaultColorsRadio.label "रिडरको पूर्वनिर्धारित रङ (पृष्ठमा रङ सेट नगर्नुहोस्)">

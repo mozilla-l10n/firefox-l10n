@@ -1,5 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "प्राप्ति सन्देश">
-<!ENTITY receiptSettings.label "प्राप्ति सन्देश">
 <!ENTITY requestReceipt.label "सन्देश पठाउदा, सधैँ प्राप्ति सन्देश अनुरोध गर्नुहोस्">
 <!ENTITY requestReceipt.accesskey "W">
 <!ENTITY receiptArrive.label "प्राप्ति सन्देश कुन समयमा आउदछ:">

@@ -5,49 +5,61 @@
 permissions-window =
     .title = अपवादहरू
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = वेबसाइटको ठेगाना
     .accesskey = d
+
 permissions-block =
     .label = छेक्नुहोस्
     .accesskey = B
+
 permissions-session =
     .label = सत्रका लागि अनुमति दिनुहोस्
     .accesskey = S
+
 permissions-allow =
     .label = अनुमति दिनुहोस्
     .accesskey = A
+
 permissions-site-name =
     .label = वेबसाइट
+
 permissions-status =
     .label = स्थिति
+
 permissions-remove =
     .label = साइट हटाउनुहोस्
     .accesskey = R
+
 permissions-remove-all =
     .label = सबै साइट हटाउनुहोस्
     .accesskey = e
+
 permissions-button-cancel =
     .label = रद्द गर्नुहोस्
     .accesskey = C
+
 permissions-button-ok =
     .label = परिवर्तनहरू सङ्ग्रह गर्नुहोस्
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = वेबसाइट खोज्नुहोस्
+
 permissions-capabilities-allow =
     .label = अनुमति दिनुहोस्
 permissions-capabilities-block =
     .label = छेक्नुहोस्
 permissions-capabilities-prompt =
     .label = सधैँ सोध्नुहोस्
+
 permissions-capabilities-listitem-allow =
     .value = अनुमति दिनुहोस्
 permissions-capabilities-listitem-block =
     .value = छेक्नुहोस्
-permissions-capabilities-listitem-allow-first-party =
-    .value = पहिलो पार्टीलाई मात्र अनुमति दिनुहोस्
 permissions-capabilities-listitem-allow-session =
     .value = सेसनलाई अनुमति दिनुहोस्
 
@@ -57,11 +69,6 @@ permissions-invalid-uri-title = अवैध होस्टनाम प्र�
 permissions-invalid-uri-label = कृपया वैध होस्टनाम प्रविष्ट गर्नुहोस्
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = अपवाद-ट्रयाकिङ्ग संरक्षण
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = तपाईंले यी वेबसाइटहरूमा ट्रयाकिङ्ग सुरक्षा अक्षम गर्नुभएको छ ।
 
 ## Exceptions - Cookies
 
@@ -90,6 +97,8 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -101,6 +110,8 @@ permissions-site-notification-window =
 permissions-site-location-window =
     .title = सेटिङस् - स्थान अनुमतिहरु
     .style = { permissions-window.style }
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

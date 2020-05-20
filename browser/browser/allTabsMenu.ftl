@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = बन्द गरिएको ट्याबलाई पुनः खोल्नुहोस्
+
 all-tabs-menu-new-user-context =
     .label = नयाँ कन्टेनर ट्याब
+

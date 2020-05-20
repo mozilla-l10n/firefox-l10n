@@ -1,9 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
+
+<!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "खाता सेटिङ">
 <!ENTITY accountName.label "खाता नाम:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "खाता नाम हरेक खाता पहिचान गर्न प्रयोग गरिएको छ">
 <!ENTITY identityTitle.label "पूर्वनिर्धारित पहिचान">
 <!ENTITY identityDesc.label "हरेक खातासँग एउटा पहिचान छ, जुन अन्य व्यक्तिले तपाईँको सन्देश पढ्दा देख्ने जानकारी हो ।">
 <!ENTITY name.label "तपाईँको नाम:">
@@ -14,8 +19,6 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "संगठन:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "यो हस्ताक्षर संलग्न गर्नुहोस्:">
-<!ENTITY signature.accesskey "t">
 <!ENTITY edit.label "सम्पादन गर्नुहोस्...">
 <!ENTITY choose.label "रोज्नुहोस्...">
 <!ENTITY choose.accesskey "C">
@@ -32,3 +35,4 @@
 <!ENTITY smtpName.label "बाह्यगमन सर्भर (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "पूर्वनिर्धारित सर्भर प्रयोग गर्नुहोस्">
+

@@ -36,15 +36,16 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY pref.ldap.window.title "LDAP डाइरेक्टरी सर्भर">
-<!ENTITY directory.label "डाइरेक्टरी थप्नुहोस्">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "LDAP डाइरेक्टरी सर्भर:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "LDAP डाइरेक्टरी सर्भर चयन गर्नुहोस्:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "LDAP डाइरेक्टरी सर्भर">
 <!ENTITY addDirectory.label "थप्नुहोस्">
 <!ENTITY addDirectory.accesskey "a">
 <!ENTITY editDirectory.label "सम्पादन">

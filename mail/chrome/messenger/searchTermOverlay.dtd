@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY matchAll.label "निम्न जोडा मिलाउनुहोस्">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label "कुनै एउटा जोडा मिलाउनुहोस्">
@@ -13,4 +17,3 @@
 <!ENTITY searchTermListAttributesFlexValue "५">
 <!ENTITY searchTermListOperatorsFlexValue "५">
 <!ENTITY searchTermListValueFlexValue "५">
-<!ENTITY searchTermListButtonsFlexValue "२">

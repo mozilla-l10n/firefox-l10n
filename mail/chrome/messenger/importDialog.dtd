@@ -43,18 +43,25 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "आयात गर्नुहोस्">
-<!ENTITY importDialog.mailTitle "मेल">
-<!ENTITY importDialog.addressbookTitle "ठेगाना पुस्तिका">
-<!ENTITY importDialog.settingsTitle "सेटिङ">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 
 <!ENTITY importTitle.label "&brandShortName; मेल आयात विजार्ड">
-<!ENTITY importDesc.label "अन्य कार्यक्रमबाट मेल, ठेगाना पुस्तिका र सेटिङ आयात गर्नुहोस्">
 
-<!ENTITY importDescription.label "यो विजार्डले &brandShortName; मेलमा अन्य मेल कार्यक्रम र साझा ठेगाना पुस्तिका ढाँचाबाट मेल सन्देशहरू, ठेगाना पुस्तिका प्रविष्टिहरू, र/वा प्राथमिकताहरू आयात गर्नेछ ।">
 <!ENTITY importDescription2.label "एकपटक तिनीहरू आयात गरिएका छन्, तपाईँ &brandShortName; मेल र/वा ठेगाना पुस्तिका भित्रबाट तिनीहरूलाई पहुँच गर्न सक्षम हुनुहुनेछ ।">
 
 <!ENTITY selectDescription.label "कृपया तपाईँले आयात गर्न चाहनुभएको बाट कार्यक्रम चयन गर्नुहोस्:">
@@ -69,8 +76,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "शीर्षक">
 <!ENTITY processing.label "आयात गर्दैछ...">
 
-<!ENTITY FieldDiscInputText1.label "नेटस्केप सञ्चारक 4.x सँग हरेक कार्डका लागि एउटा मेल ठेगाना छ, जब कि &brandShortName; सँग दुईवटा छ (गृह र कार्य) ।">
-<!ENTITY FieldDiscInputText2.label "तपाईँले आयात गरिएका मेल ठेगाना भण्डारण गर्न चाहनुभएको ठाउँमा कोटि चयन गर्नुहोस्:">
-<!ENTITY FieldDiscWarning.label "यो कोटि चयन गरिएका ठेगाना पुस्तिकाको सबै प्रविष्टिहरूका लागि प्रयोग गरिनेछ: ">
-<!ENTITY importDialog.homeTitle "गृह">
-<!ENTITY importDialog.workTitle "काम">
