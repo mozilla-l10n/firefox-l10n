@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL kanala:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Zapodajće płaćiwy URL kanala">
 <!ENTITY feedLocation2.placeholder   "Zapodajće płaćiwy URL kanala">
 <!ENTITY locationValidate.label      "Płaćiwosć přepruwować">
 <!ENTITY validateText.label          "Płaćiwosć přepruwuwać a płaćiwy URL wotwołać.">

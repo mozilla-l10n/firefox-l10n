@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = W nowym priwatnym woknje wočinić
     .accesskey = n
+
 places-new-bookmark =
     .label = Nowa zapołožka…
     .accesskey = N
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nowa dźělenska linija
     .accesskey = l
+
 places-view =
     .label = Napohlad
     .accesskey = N
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = po datumje a sydle
     .accesskey = t
+
 places-history-search =
     .placeholder = Historiju přepytać
 places-bookmarks-search =
     .placeholder = Zapołožki přepytać
+
 places-delete-domain-data =
     .label = Na tute sydło zabyć
     .accesskey = N

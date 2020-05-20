@@ -3,15 +3,20 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 pictureinpicture-player-title = Wobraz-we-wobrazu
+
 pictureinpicture-pause =
     .aria-label = Přestawka
 pictureinpicture-play =
     .aria-label = Wothrać
+
 pictureinpicture-mute =
     .aria-label = Bjez zynka
 pictureinpicture-unmute =
     .aria-label = Ze zynkom
+
 pictureinpicture-unpip =
     .aria-label = K rajtarkej wróćo pósłać
+
 pictureinpicture-close =
     .aria-label = Začinić
+

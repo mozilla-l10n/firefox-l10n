@@ -20,6 +20,7 @@ open-location = Pytać abo adresu zapodać
 share = Dźělić
 close-window = Wokno začinić
 open-sidebar = Bóčnicy
+
 # This string describes shortcuts for search.
 search-popover = Pytanske skrótšenki
 # Describes searches limited to a specific scope

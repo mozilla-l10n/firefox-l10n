@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "D">
 <!ENTITY DictionaryList.label "Słowa w słowniku:">
 <!ENTITY DictionaryList.accessKey "S">
-<!ENTITY ReplaceButton.label "Narunać">
-<!ENTITY ReplaceButton.accessKey "r">
 <!ENTITY RemoveButton.label "Wotstronić">
 <!ENTITY RemoveButton.accessKey "W">
 

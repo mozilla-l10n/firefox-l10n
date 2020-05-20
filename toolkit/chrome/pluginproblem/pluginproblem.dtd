@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
-<!ENTITY pluginActivationWarning                             "Tute sydło tykač wužiwa, kotryž móhł &brandShortName; spomalić.">
 <!ENTITY tapToPlayPlugin                                     "Podótkńće tu, zo byšće tykač aktiwizował.">
 <!ENTITY clickToActivatePlugin                               "Tykač aktiwizować.">
 <!ENTITY checkForUpdates                                     "Za aktualizacijemi pytać…">
 <!ENTITY blockedPlugin.label                                 "Tutón tykač je so za waš škit zablokował.">
 <!ENTITY hidePluginBtn.label                                 "Tykač schować">
 <!ENTITY managePlugins                                       "Tykače rjadować…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

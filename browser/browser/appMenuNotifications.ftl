@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = z
 appmenu-addon-private-browsing-message = Někotre nowe rozšěrjenja, kotrež { -brand-shorter-name } přidawaće, w priwatnych woknach njefunguja, chibazo dowoleće to w nastajenjach.
 appmenu-addon-private-browsing-learn-more = Zhońće, kak so nastajenja rozšěrjenjow rjaduja.
+    
 appmenu-new-tab-controlled =
     .label = Waš nowy rajtark je so změnił.
     .buttonlabel = Změny wobchować

@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Wšitko wubrać">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "i">
+
 <!ENTITY findCmd.label             "Pytać">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "P">

@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Barba">
 <!ENTITY lastPickedColor.label "Poslednja wubrana barba">
 <!ENTITY lastPickedColor.accessKey "P">
-<!ENTITY setColor1.label "Klikńće na barbu abo">
-<!ENTITY setColor2.label "zapisajće znamjenjowy slěd HTML za barbu">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Wubjerće barbu:">
 <!ENTITY chooseColor2.label "Zapisajće znamjenjowy slěd HTML za barbu">
 <!ENTITY chooseColor2.accessKey "H">

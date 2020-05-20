@@ -7,6 +7,7 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Polo typa { $type } wotstronić
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type =
@@ -17,6 +18,7 @@ address-input-type =
         [few] Zapodawanske polo typa { $type } z { $count } adresami
        *[other] Zapodawanske polo typa { $type } z { $count } adresami
     }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -27,6 +29,7 @@ address-input-type-aria-label =
         [few] { $type } z { $count } adresami, wužiwajće lěwu šipkowu tastu, zo byšće fokus stajił.
        *[other] { $type } z { $count } adresami, wužiwajće lěwu šipkowu tastu, zo byšće fokus stajił.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -36,15 +39,19 @@ pill-aria-label =
         [few] { $email }, 1 z { $count }: Tłóčće Enter, zo byšće wobdźěłował, Entf, zo byšće wotstronił.
        *[other] { $email }, 1 z { $count }: Tłóčće Enter, zo byšće wobdźěłował, Entf, zo byšće wotstronił.
     }
+
 pill-action-edit =
     .label = Adresu wobdźěłać
     .accesskey = A
+
 pill-action-move-to =
     .label = Do Komu přesunyć
     .accesskey = K
+
 pill-action-move-cc =
     .label = Do kopije přesunyć
     .accesskey = p
+
 pill-action-move-bcc =
     .label = Do schowaneje kopije přesunyć
     .accesskey = s

@@ -5,50 +5,66 @@
 permissions-window =
     .title = Wuwzaća
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adresa websydła
     .accesskey = A
+
 permissions-block =
     .label = Blokować
     .accesskey = B
+
 permissions-session =
     .label = Za posedźenje dowolić
     .accesskey = p
+
 permissions-allow =
     .label = Dowolić
     .accesskey = D
+
 permissions-site-name =
     .label = Websydło
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Websydło wotstronić
     .accesskey = t
+
 permissions-remove-all =
     .label = Wšě websydła wotstronić
     .accesskey = y
+
 permissions-button-cancel =
     .label = Přetorhnyć
     .accesskey = P
+
 permissions-button-ok =
     .label = Změny składować
     .accesskey = s
+
 permissions-autoplay-menu = Standard za wšě websydła:
+
 permissions-searchbox =
     .placeholder = Websydło pytać
+
 permissions-capabilities-autoplay-allow =
     .label = Awdio a widejo dowolić
 permissions-capabilities-autoplay-block =
     .label = Awdio blokować
 permissions-capabilities-autoplay-blockall =
     .label = Awdio a widejo blokować
+
 permissions-capabilities-allow =
     .label = Dowolić
 permissions-capabilities-block =
     .label = Blokować
 permissions-capabilities-prompt =
     .label = Přeco so prašeć
+
 permissions-capabilities-listitem-allow =
     .value = Dowolić
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Wuwzaća - Blokowanje wobsaha
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Sće blokowanje wobsaha na tutych websydłach znjemóžnił.
+
 permissions-exceptions-etp-window =
     .title = Wuwzaća za polěpšeny slědowanski škit
     .style = { permissions-window.style }

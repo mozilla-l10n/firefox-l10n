@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Protokolowe module wěsteho přehladowanja
 url-classifier-debug-modules = Aktualne protokolowe module
 url-classifier-debug-sbjs-modules = Javaskriptowy protokol wěsteho přehladowanja
 url-classifier-debug-file = Aktualna protokolowa dataja
+
 url-classifier-trigger-update = Aktualizacija zahibaka
 url-classifier-not-available = Ničo k dispoziciji
 url-classifier-disable-sbjs-log = Javaskriptowy protokol wěsteho přehladowanja znjemóžnić

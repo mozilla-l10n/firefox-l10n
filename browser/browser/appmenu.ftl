@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Z druheho wobhladowaka importować…
 appmenuitem-protection-report-title = Škit priwatnosće
 appmenuitem-protection-report-tooltip =
     .tooltiptext = K wašej rozprawje priwatnosće přeńć

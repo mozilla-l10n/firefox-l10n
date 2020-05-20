@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Pytać a narunać">
 <!ENTITY findField.label "Pytać:">
 <!ENTITY findField.accesskey "P">
