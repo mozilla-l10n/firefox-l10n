@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "N">
 <!ENTITY DictionaryList.label "Amagama akwisichazamazwi:">
 <!ENTITY DictionaryList.accessKey "A">
-<!ENTITY ReplaceButton.label "Lishintshe">
-<!ENTITY ReplaceButton.accessKey "L">
 <!ENTITY RemoveButton.label "Susa">
 <!ENTITY RemoveButton.accessKey "u">
 

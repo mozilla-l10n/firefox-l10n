@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Izinhlobo zemibhalo
+
 fonts-window-close =
     .key = w
 
@@ -55,6 +56,7 @@ fonts-default-serif =
     .label = i-Serif
 fonts-default-sans-serif =
     .label = i-Sans Serif
+
 fonts-minsize-none =
     .label = Akukho
 
@@ -65,6 +67,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-name-vietnamese =
     .label = Isi-Vietnam
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -4,3 +4,4 @@
 
 privatebrowsingpage-open-private-window-label = Vula ifasitela elifihlekile
     .accesskey = f
+

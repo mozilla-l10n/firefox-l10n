@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (akuhleliwe)
+
 failed-pw-change = Ayikwazi ukushintsha Igama Lokungena Eliphethe.
 incorrect-pw = Awufakanga Igama Lokungena Eliphethe elifanele lamanje. Sicela uphinde uzame.
 pw-change-ok = Igama Lokungena Eliphethe lishintshwe ngempumelelo.
+
 pw-empty-warning = Amagama akho okungena kuwebhu naku-imeyili agciniwe, ukwaziswa kwamafomu nezinkinobho zangasese ngeke kuvikelwe.
 pw-erased-ok = Ulicishile Igama Lakho Lokungena Eliphethe. { pw-empty-warning }
 pw-not-wanted = Isixwayiso! Unqume ukungalisebenzisi Igama Lokungena Eliphethe. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Njengamanje usebenza nge-FIPS. I-FIPS idinga Igama Lokungena Eliphethe elinotho.
 pw-change-success-title = Ukushintsha Igama Lokungena Kuphumelele
 pw-change-failed-title = Ukushintsha Igama Lokungena Kuhlulekile
 pw-remove-button =
     .label = Susa
+
 set-password =
     .title = Shintsha Igama Lokungena Eliphethe
 set-password-old-password = Igama lokungena lamanje:
@@ -24,6 +28,7 @@ set-password-meter = Indlela yokukala izinga ngegama lokungena
 set-password-meter-loading = Iyalayisha
 master-password-description = Igama lokungena eliphethe lisetshenziselwa ukuvikela ulwazi olubucayi njengalapho kusetshenziswa amagama okungena ezingosini ezithile.  Uma wakha iGama Lokungena Eliphethe uyocelwa ukuba ulibhale kanye engxenyeni ngayinye lapho { -brand-short-name } ufuna ukuthola ukwaziswa okulondoloziwe okuvikelwe ngegama lokungena.
 master-password-warning = Siza uqikelele ukuthi uyalikhumbula iGama Lokungena olikhethile.  Uma ulikhohlwa iGama Lokungena Eliwukhiye, ngeke ukwazi ukungena kunoma ikuphi ukwaziswa okuvikelwe yilo.
+
 remove-password =
     .title = Susa Igama Lokungena Eliphethe
 remove-info =

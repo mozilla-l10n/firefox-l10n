@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title "Isiqinisekiso Sokuthi Kwamukelwe">
-<!ENTITY receiptSettings.label "Isiqinisekiso Sokuthi Kwamukelwe">
 <!ENTITY requestReceipt.label "Lapho uthumela imiyalezo, njalo cela isiqinisekiso sokuthi wamukelwe">
 <!ENTITY requestReceipt.accesskey "L">
 <!ENTITY receiptArrive.label "Lapho isiqinisekiso sifika:">

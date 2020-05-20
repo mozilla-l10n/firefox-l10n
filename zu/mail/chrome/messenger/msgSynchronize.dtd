@@ -4,6 +4,10 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Faka Imiyalezo Bese Uyiqondanisa">
 <!ENTITY MsgSelect.label "Izinto ongazisebenzisa ungaxhunyiwe ku-Inthaneti">
 <!ENTITY MsgSyncDesc.label "Uma usuwakhethile kakade amafolda okuposa noma wamaqembu ezindaba ongawasebenzisa engaxhunyiwe ku-inthaneti, ungawafaka noma uwaqondanise manje. Uma kungenjalo, sebenzisa inkinobho &quot;Khetha&quot; ukuba ukhethe amafolda okuposa namaqembu ezindaba ongawasebenzisa ungaxhunyiwe ku-inthaneti.">

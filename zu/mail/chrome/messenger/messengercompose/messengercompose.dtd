@@ -14,8 +14,6 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "U">
-<!ENTITY newCard.label "Ikhadi Lencwadi Yamakheli...">
-<!ENTITY newCard.accesskey "y">
 <!ENTITY attachMenu.label "Faka">
 <!ENTITY attachMenu.accesskey "a">
 <!ENTITY attachFileCmd.label "Amafayela...">
@@ -39,8 +37,6 @@
 <!ENTITY saveAsDraftCmd.accesskey "I">
 <!ENTITY saveAsTemplateCmd.label "Ithemplethi">
 <!ENTITY saveAsTemplateCmd.accesskey "I">
-<!ENTITY offlineGoOfflineCmd.label "Sebenza Ngaphandle Kwe-Inthanethi">
-<!ENTITY offlineGoOfflineCmd.accesskey "s">
 <!ENTITY sendNowCmd.label "Thumela Manje">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "m">
@@ -52,11 +48,6 @@
 <!ENTITY printCmd.label "Printa...">
 <!ENTITY printCmd.key "P">
 <!ENTITY printCmd.accesskey "P">
-<!ENTITY quitApplicationCmdWin.label "Phuma">
-<!ENTITY quitApplicationCmdWin.accesskey "h">
-<!ENTITY quitApplicationCmd.label "Yeka">
-<!ENTITY quitApplicationCmd.accesskey "Y">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Lungisa">
@@ -76,35 +67,28 @@
 <!ENTITY pasteCmd.label "Namathisela">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "n">
-<!ENTITY editRewrapCmd.label "Phinda ugoqe">
 <!ENTITY editRewrapCmd.accesskey "i">
 <!ENTITY deleteCmd.label "Cisha">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "c">
+<!ENTITY editRewrapCmd.label "Phinda ugoqe">
 <!ENTITY selectAllCmd.label "Khetha Konke">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "k">
-<!ENTITY findCmd.label "Thola bese Ulishintsha...">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "T">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "Phinda Uthole">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "t">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Thola Okwandulelayo">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "a">
 <!-- View Menu -->
+
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!ENTITY viewMenu.label "Bheka">
 <!ENTITY viewMenu.accesskey "b">
 <!ENTITY viewToolbarsMenuNew.label "Amabha Amathuluzi">
 <!ENTITY viewToolbarsMenuNew.accesskey "A">
-<!ENTITY showComposeToolbarCmd.label "Ibha Yamathuluzi Eposi">
-<!ENTITY showComposeToolbarCmd.accesskey "a">
-<!ENTITY showFormatToolbarCmd.label "Ibha Yamathuluzi Okwakha">
-<!ENTITY showFormatToolbarCmd.accesskey "I">
 <!ENTITY showTaskbarCmd.label "Ibha Yesimo">
 <!ENTITY showTaskbarCmd.accesskey "I">
 <!ENTITY customizeToolbar.label "Yenza Okujwayelekile...">
@@ -120,10 +104,6 @@
 
 <!ENTITY optionsMenu.label "Ongakhetha Kukho">
 <!ENTITY optionsMenu.accesskey "n">
-<!ENTITY checkSpellingCmd.label "Hlola Ukubhalwa Kwamagama...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "l">
 <!ENTITY enableInlineSpellChecker.label "Spell Check As You Type">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "Caphuna Umyalezo">
@@ -135,8 +115,6 @@
 
 <!ENTITY returnReceiptMenu.label "Buyisa Umbiko Wokuthi Uyitholile">
 <!ENTITY returnReceiptMenu.accesskey "y">
-<!ENTITY outputFormatMenu.label "Ukwakheka">
-<!ENTITY outputFormatMenu.accesskey "u">
 <!ENTITY autoFormatCmd.label "Zitholele">
 <!ENTITY autoFormatCmd.accesskey "z">
 <!ENTITY plainTextFormatCmd.label "Umbhalo Ovamile Kuphela">
@@ -170,13 +148,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Incwadi Yamakheli">
 <!ENTITY addressBookCmd.accesskey "i">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "Ukuhlelwa Kwe-akhawunti...">
-<!ENTITY accountManagerCmd.accesskey "k">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "Okukhethwa Kukho...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Okuthandwayo">
 <!ENTITY preferencesCmdUnix.accesskey "w">
 <!--  Mac OS X Window Menu -->
@@ -188,15 +159,6 @@
 <!ENTITY windowMenu.label "Iwindi">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Usizo">
-<!ENTITY helpMenu.accesskey "U">
-<!ENTITY releaseCmd.label "Dedela Amanothi">
-<!ENTITY releaseCmd.accesskey "D">
-<!ENTITY hintsAndTips.label "I-&brandShortName; Usizo">
-<!ENTITY hintsAndTips.accesskey "u">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Ngokuphathelene ne-&brandShortName;">
-<!ENTITY aboutCmd.accesskey "N">
 <!-- Mail Toolbar -->
 
 <!ENTITY sendButton.label "Thumela">
@@ -205,18 +167,17 @@
 <!ENTITY attachButton.label "Faka">
 <!ENTITY spellingButton.label "Ukubhalwa Kwamagama">
 <!ENTITY saveButton.label "Gcina">
-<!ENTITY throbberItem.title "Isikhomba-msebenzi">
 <!-- Mail Toolbar Tooltips -->
 
 <!ENTITY sendButton.tooltip "Thumela lo myalezo manje">
 <!ENTITY sendlaterButton.tooltip "Thumela lo myalezo kamuva">
 <!ENTITY quoteButton.tooltip "Caphuna umyalezo odlule">
 <!ENTITY addressButton.tooltip "Khetha oyamukelayo eNcwadini Yamakheli">
-<!ENTITY attachButton.tooltip "Hlanganisa nokufakwayo">
 <!ENTITY saveButton.tooltip "Gcina lo myalezo">
 <!ENTITY cutButton.tooltip "Sika">
 <!ENTITY copyButton.tooltip "Kopisha">
 <!ENTITY pasteButton.tooltip "Namathisela">
+
 <!-- Headers -->
 
 <!ENTITY fromAddr.label "Kuvela: ">
@@ -229,14 +190,10 @@
 <!ENTITY followupAddr.label "Landelela-Ku:">
 <!ENTITY subject.label "Isihloko:">
 <!ENTITY subject.accesskey "I">
-<!ENTITY attachments.label "Okufakiwe:">
 <!ENTITY attachments.accesskey "a">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
 
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
 <!ENTITY SmileButton.tooltip "Faka Ubuso Obumamathekayo">
 <!ENTITY smiley1Cmd.label "Mamatheka">
 <!ENTITY smiley2Cmd.label "Hwaqabala">
@@ -283,6 +240,8 @@
 <!ENTITY attachPage.label "Faka Ikhasi Lewebhu...">
 <!ENTITY attachPage.accesskey "I">
 <!-- Title for the address picker panel -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY addressesSidebarTitle.label "Othintana Nabo">
 

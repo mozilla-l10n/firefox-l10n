@@ -5,34 +5,14 @@
 <!ENTITY folderProps.windowtitle.label "Izici">
 
 <!ENTITY generalInfo.label "Ulwazi Oluvamile">
-<!ENTITY folderCharsetTab.label "Ukubhala Uhlamvu Ngekhodi Kwakhona:">
-<!ENTITY folderCharsetTab.accesskey "K">
-<!ENTITY folderCharsetOverride.label "Sebenzisa indlela evamile kuyo yonke imiyalezo eku-folda (uhlelo lwamakhodi ezinhlamvu oluzimele nendlela yokuwathola ngokuzenzakalelayo ngeke kusetshenziswe)">
-<!ENTITY folderCharsetOverride.accesskey "S">
-<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary File">
 
 
 <!ENTITY retention.label "Isimiso Sokugcina">
-<!ENTITY retentionUseDefault.label "Sebenzisa iseva izindlela ezivamile">
-<!ENTITY retentionUseDefault.accesskey "i">
-<!ENTITY days.label "izinsuku">
 <!ENTITY daysOld.label "isinezinsuku ezingaka">
 <!ENTITY message.label "imiyalezo">
 <!ENTITY retentionCleanup.label "Ukuze uthole isikhala kudiski, imiyalezo emidala ingacishwa unomphela">
-<!ENTITY retentionKeepMsg.label "Cima imiyalezo engaphezu">
-<!ENTITY retentionKeepMsg.accesskey "i">
 <!ENTITY retentionKeepAll.label "Ungayicishi noma imiphi imiyalezo">
 <!ENTITY retentionKeepAll.accesskey "N">
-<!ENTITY retentionKeepNew.label "Cisha konke kodwa ushiye okokugcina">
-<!ENTITY retentionKeepNew.accesskey "s">
-<!ENTITY retentionKeepUnread.label "Njalo cima funda imiyalezo">
-<!ENTITY retentionKeepUnread.accesskey "f">
-
-<!ENTITY folderOfflineTab.label "Ngaphandle Kwe-Inthanethi">
-<!ENTITY folderCheckForNewMessages.label "Bheka kule-folda ukuthi ayikho yini imiyalezo emisha">
-<!ENTITY folderCheckForNewMessages.accesskey "B">
 
 <!ENTITY offlineFolder.check.label "Khetha le-folda ukuze uyisebenzise ingaxhunyiwe kuyi-Inthaneti">
 <!ENTITY offlineFolder.check.accesskey "K">
@@ -41,16 +21,13 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Khetha leliqembulezindaba ukuba ulisebenzise ungaxhunyiwe ku-inthaneti">
 <!ENTITY selectofflineNewsgroup.check.accesskey "l">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Sebenzisa indlela evamile esohlelweni lwe-akhawunti ">
 <!ENTITY offlineNewsgroup.button.label "Thatha Ufake Ukwaziswa Manje">
 <!ENTITY offlineNewsgroup.button.accesskey "T">
 
-<!ENTITY folderProps.information.label "Ukwaziswa:">
 <!ENTITY folderProps.name.label "Igama:">
 <!ENTITY folderProps.name.accesskey "I">
 
 <!ENTITY folderSharingTab.label "Ukuhlanganyela">
-<!ENTITY privilegesDesc.label "Hlanganyela nabanye le-folda kanye namanye futhi uveze izinzuzo zokukwazi ukuwabona">
 <!ENTITY privileges.button.label "Izinzuzo...">
 <!ENTITY privileges.button.accesskey "I">
 <!ENTITY permissionsDesc.label "Unalezi zimvume ezilandelayo:">
@@ -60,3 +37,4 @@
 <!ENTITY folderQuotaRoot.label "Umsuka we-Quota:">
 <!ENTITY folderQuotaUsage.label "Indlela Yokukusebenzisa:">
 <!ENTITY folderQuotaStatus.label "Isimo:">
+

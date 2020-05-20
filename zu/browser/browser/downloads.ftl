@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Qala futhi
     .accesskey = Q
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Vula Equkethe I-iFolda
     .accesskey = F
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Bonisa kwisitholi
     .accesskey = k
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Bonisa kwisitholi
            *[other] Vula Equkethe I-iFolda
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] Bonisa kwisitholi
            *[other] Vula Equkethe I-iFolda
         }
+
 downloads-cmd-retry =
     .tooltiptext = Zama futhi
 downloads-cmd-retry-panel =
@@ -61,16 +66,20 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Susa okulayishiwe kwangeniswa
     .accesskey = k
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Bonisa konke ukulanda
     .accesskey = S
+
 downloads-clear-downloads-button =
     .label = Susa Okulayishiwe kwangeniswa
     .tooltiptext = Kususa okuqediwe, okulayishwe kwangeniswa okukhanselwe nokuhlulekile
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Akukho okulayishwe kwangeniswa.
+

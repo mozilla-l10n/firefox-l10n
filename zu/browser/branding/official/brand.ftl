@@ -13,6 +13,6 @@
 ##
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
--vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+-vendor-short-name = Mozilla
 trademarkInfo = I-Firefox nama logo we-Firefox ayizimpawu ze-Mozilla Foundation.

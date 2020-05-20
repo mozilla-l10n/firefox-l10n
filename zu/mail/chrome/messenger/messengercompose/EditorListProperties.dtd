@@ -14,7 +14,6 @@
 <!ENTITY bulletList.value "Uhlu (Olungenazinombolo) Lwezinhlamvu">
 <!ENTITY numberList.value "Uhlu Olunezinombolo">
 <!ENTITY definitionList.value "Uhlu Lwezincazelo">
-<!ENTITY changeListMsg.label "Lapho ushintsha uhlu lwezinhlobo:">
 <!ENTITY changeEntireListRadio.label "Shintsha lonke uhlu">
 <!ENTITY changeEntireListRadio.accessKey "S">
 <!ENTITY changeSelectedRadio.label "Shintsha lokho okukhethiwe kuphela">

@@ -4,6 +4,7 @@
 
 translation-languages-column =
     .label = Izilimi
+
 translation-button-close =
     .label = Vala
     .accesskey = V

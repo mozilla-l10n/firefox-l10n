@@ -4,30 +4,35 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Vimbela
     .accesskey = V
+
 permissions-session =
     .label = Vumela Kule Nkathi
     .accesskey = K
+
 permissions-allow =
     .label = Vumela
     .accesskey = V
+
 permissions-status =
     .label = Isimo
+
 permissions-button-cancel =
     .label = Khansela
     .accesskey = K
+
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Vimbela
+
 permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
     .value = Vimbela
-permissions-capabilities-listitem-allow-first-party =
-    .value = Vumela inhlangano yokuqala kuphela
 permissions-capabilities-listitem-allow-session =
     .value = Vumela Kule Nkathi
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = Ungasho ngokuqondile ukuthi imaphi amawebhu
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

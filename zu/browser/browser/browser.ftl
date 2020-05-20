@@ -61,5 +61,6 @@ urlbar-placeholder =
     .placeholder = Sesha noma faka ikheli
 urlbar-switch-to-tab =
     .value = Shintshela kumaki:
+
 urlbar-go-button =
     .tooltiptext = Yiya ku kheli kubha yendawo

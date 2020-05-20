@@ -9,17 +9,24 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-page-override-option-always =
     .label = Njalo
 colors-page-override-option-never =
     .label = Ungalokothi
+
 colors-text-and-background = Okubhaliwe nokungemuva
+
 colors-use-system =
     .label = Sebenzisa imibala yohlelo
     .accesskey = e
+
 colors-underline-links =
     .label = Dwebela izixhumanisi
     .accesskey = D
+
 colors-links-header = Imibala yoxhumaniso
+

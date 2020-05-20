@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY identitiesListTitle.label "Omazisi Abahlobene Nale-akhawunti">
-<!ENTITY identitiesListDesc.label "Ukusekela Komazisi Abahlukahlukene">
 <!ENTITY identitiesListAdd.label "Nezela...">
 <!ENTITY identitiesListAdd.accesskey "N">
 <!ENTITY identitiesListEdit.label "Lungisa...">

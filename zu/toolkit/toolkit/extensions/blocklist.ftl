@@ -5,8 +5,10 @@
 blocklist-accept =
     .label = Qala { -brand-short-name }
     .accesskey = a
+
 blocklist-more-information =
     .value = Ukwaziswa Okwengeziwe
+
 blocklist-blocked =
     .label = khiyiwe
 blocklist-checkbox =

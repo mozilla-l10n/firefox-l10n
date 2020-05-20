@@ -36,7 +36,6 @@
 <!ENTITY tableCaptionNone.label "Akukho">
 <!ENTITY tableInheritColor.label "(Vumela imibala yekhasi ibonakale)">
 
-<!ENTITY cellPercent.label "iphesenti letafula">
 <!ENTITY cellSelection.label "Ukukhetha">
 <!ENTITY cellSelectCell.label "Isikhala">
 <!ENTITY cellSelectRow.label "Irowu">
@@ -45,13 +44,6 @@
 <!ENTITY cellSelectNext.accessKey "O">
 <!ENTITY cellSelectPrevious.label "Okwandulelayo">
 <!ENTITY cellSelectPrevious.accessKey "O">
-<!ENTITY cellApplyBeforeMove.label "Sebenzisa ushintsho ngaphambi kokushintsha ukukhetha">
-<!ENTITY cellKeepCurrentData.label "Gcina ukuhlelwa kwamanje kunjalo">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Ushintsho lwamanje luzosetshenziswa">
-<!ENTITY applyBeforeChange2.label "ngaphambi kokushintsha ukukhetha.">
-<!ENTITY cellRowSpan.label "Ubude Berowu:">
-<!ENTITY cellColSpan.label "Ubude Bekhalamu:">
 <!ENTITY cellContentAlignment.label "Ukuqondiswa Kokuqukethwe">
 <!ENTITY cellHorizontal.label "Ovundlile:">
 <!ENTITY cellHorizontal.accessKey "D">
@@ -69,7 +61,6 @@
 <!ENTITY cellAlignMiddle.label "Phakathi">
 <!ENTITY cellAlignBottom.label "Phansi">
 <!ENTITY cellAlignJustify.label "Gcwalisa Izikhala">
-<!ENTITY cellAlignAtChar.label "Ohlamvwini:">
 <!ENTITY cellInheritColor.label "(Vumela imibala yetafula ibonakale)">
 <!ENTITY cellUseCheckboxHelp.label "Sebenzisa amabhokisi afakwe oqhwishi ukuze ubone ukuthi iziphi izici ezisetshenziswe kuzo zonke izikhala ezikhethiwe">
 <!-- Used in both Table and Cell panels  -->

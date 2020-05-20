@@ -10,15 +10,18 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Yamukela">
-<!ENTITY importDialog.mailTitle "Iposi">
-<!ENTITY importDialog.addressbookTitle "Izincwadi Zamakheli">
-<!ENTITY importDialog.settingsTitle "Ukuhlelwa">
 
 <!ENTITY importTitle.label "I&brandShortName; Ithuluzi Lokuthumela Iposi">
-<!ENTITY importDesc.label "Thumela Iposi, Izincwadi Zamakheli Nezinhlelo ezivela kwamanye ama-progremu">
 
-<!ENTITY importDescription.label "Lelithuluzi lizothumela imiyalezo, izincwadi zamakheli ezifikayo, nezinye izindlela ezisetshenziswa amanye amaprogremu eposi nezindlela zokwakheka kwencwadi yamakheli eku-&brandShortName; iPosi.">
 <!ENTITY importDescription2.label "Lapho isithunyelwe, uzokwazi ukuyibona ku&brandShortName; iPosi noma Incwadi Yamakheli.">
 
 <!ENTITY selectDescription.label "Siza ukhethe iprogremu ongathanda ukuthumela kuyo:">
@@ -33,8 +36,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Isihloko">
 <!ENTITY processing.label "Iyamukela...">
 
-<!ENTITY FieldDiscInputText1.label "INetscape Communicator 4.x inekheli elilodwa lokuthumela lekhadi ngalinye, kuyilapho i&brandShortName; inamabili (Elasekhaya Nelasemsebenzini).">
-<!ENTITY FieldDiscInputText2.label "Khetha uhlu ofuna ukugcina kulo amakheli eposi: ezithunyelwayo:">
-<!ENTITY FieldDiscWarning.label "Loluhlu luzosetshenziselwa zonke izinto ezifakwa encwadini yamakheli ekhethiwe: ">
-<!ENTITY importDialog.homeTitle "Ekhaya">
-<!ENTITY importDialog.workTitle "Umsebenzi">

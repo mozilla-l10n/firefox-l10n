@@ -4,19 +4,17 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Amakhophi &amp; Ama-folda">
 <!ENTITY sendingPrefix.label "Lapho uthumela imiyalezo, ngokuzenzakalelayo: ">
 <!ENTITY fccMailFolder.label "Faka ikhophi ku:">
 <!ENTITY fccMailFolder.accesskey "F">
 <!ENTITY fccReplyFollowsParent.label "Place replies in the folder of the message being replied to">
 <!ENTITY fccReplyFollowsParent.accesskey "l">
-<!ENTITY chooseFolderButton.label "Khetha i-folda...">
 <!-- LOCALIZATION NOTE (bccAddress.label): do not translate "Bcc" in below line -->
 <!ENTITY bccAddress.label "Yenza iBcc yalamakheli eposi:">
 <!ENTITY bccAddress.accesskey "Y">
-<!ENTITY specialFolderTitle.label "Ama-folda Akhethekile">
-<!ENTITY draftMailFolder.label "Gcina imiyalezo engakathunyelwa ku:">
-<!ENTITY templateMailFolder.label "Gcina indlela evamile yokubhala imiyalezo ku:">
 <!ENTITY saveMessageDlg.label "Veza umyalezo oqinisekisayo lapho imiyalezo igciniwe">
 <!ENTITY saveMessageDlg.accesskey "V">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
@@ -34,6 +32,3 @@
 <!ENTITY templatesFolderOn.accesskey "d">
 <!ENTITY templateInOtherFolder.label "Okunye:">
 <!ENTITY templateInOtherFolder.accesskey "k">
-<!ENTITY specialFoldersTitle.label "Imiyalezo Engakathunyelwa Nendlela Evamile">
-<!ENTITY keepDrafts.label "Gcina imiyalezo engakathunyelwa ku:">
-<!ENTITY keepTempltes.label "Gcina indlela evamile yokubhala imiyalezo ku:">

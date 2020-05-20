@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Thola Leli Ufake Leli">
 <!ENTITY findField.label "Thola lo mbhalo:">
 <!ENTITY findField.accesskey "o">
@@ -24,4 +26,3 @@
 <!ENTITY replaceAllButton.label "Washintshe Wonke">
 <!ENTITY replaceAllButton.accesskey "W">
 <!ENTITY closeButton.label "Vala">
-<!ENTITY notFoundWarning.label "Obukubhalile akutholakali.">

@@ -13,11 +13,8 @@
 <!ENTITY widthEditField.accessKey "U">
 <!ENTITY pixelsPopup.value "amachashazana akha isithombe">
 <!ENTITY alignmentBox.label "Ukuqondisa">
-<!ENTITY leftRadio.value "Kwesobunxele">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Phakathi">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "Kwesokudla">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D Ukufaka Umbala">

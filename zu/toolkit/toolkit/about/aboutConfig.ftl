@@ -32,42 +32,56 @@ config-copy-pref =
     .key = W
     .label = Kopisha
     .accesskey = K
+
 config-copy-name =
     .label = Igama Lekhophi
     .accesskey = I
+
 config-copy-value =
     .label = Ikhophi Izinga
     .accesskey = I
+
 config-modify =
     .label = Lungisa
     .accesskey = L
+
 config-toggle =
     .label = Shintsha
     .accesskey = S
+
 config-reset =
     .label = Qalisa Phansi
     .accesskey = Q
+
 config-new =
     .label = Okusha
     .accesskey = s
+
 config-string =
     .label = Ukuhlelwa kwamagama
     .accesskey = U
+
 config-integer =
     .label = Inombolo
     .accesskey = I
+
 config-boolean =
     .label = I-Boolean
     .accesskey = B
+
 config-default = okwakhona
 config-locked = khiyiwe
+
 config-property-string = ukuhlelwa kwamagama
 config-property-int = inombolo
 config-property-bool = i-boolean
+
 config-new-prompt = Bhala igama okhetha ukulisebenzisa
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Izinga elisha le { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Bhala izinga le-{ $type }

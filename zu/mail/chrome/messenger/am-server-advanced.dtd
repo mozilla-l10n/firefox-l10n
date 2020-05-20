@@ -3,16 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY serverAdvanced.label "Ukuhlelwa Kwe-khawunti Okuthuthukisiwe">
-<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Ukuhlelwa Kweseva IMAP Okuthuthukisiwe">
 <!ENTITY serverDirectory.label "Iseva IMAP isiqondiso:">
 <!ENTITY serverDirectory.accesskey "i">
 <!ENTITY usingSubscription.label "Veza ama-folda asetshenziswayo kuphela">
 <!ENTITY usingSubscription.accesskey "e">
 <!ENTITY dualUseFolders.label "Iseva isekela ama-folda anama-folda angaphansi kwawo kanye nemiyalezo">
 <!ENTITY dualUseFolders.accesskey "a">
-<!ENTITY useIdle.label "Sebenzisa isiyaleso I-IDLE uma iseva ikusekela khona">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Isibalo esikhulu sezinto zeseva ezigcinwe enkumbulweni yesikhashana">
 <!ENTITY maximumConnectionsNumber.accesskey "I">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -25,12 +21,6 @@
 <!ENTITY otherUsersNamespace.accesskey "A">
 <!ENTITY overrideNamespaces.label "Vumela iseva ukuba ingawanaki lamagama ezikhala">
 <!ENTITY overrideNamespaces.accesskey "V">
-<!ENTITY pop3Desc.label "Lapho ufaka iposi elisheshayo kuleseva, sebenzisa le-folda elandelayo emiyalezweni emisha:">
-<!ENTITY folderStorage.label "Indawo yokugcina iposi">
-<!ENTITY globalInbox.label "Ibhokisi Lokungenayo Lamafayela Wonke (I-akhawunti yama-Folda)">
-<!ENTITY globalInbox.accesskey "I">
-<!ENTITY accountDirectory.label "Ibhokisi lemiyalezo engenayo yale akhawunti yeseva">
-<!ENTITY accountDirectory.accesskey "E">
 <!ENTITY deferToServer.label "Ibhokisi lemiyalezo engenayo Ie-akhawunti ehlukile">
 <!ENTITY deferToServer.accesskey "I">
 <!ENTITY deferGetNewMail.label "Hlanganisa leseva lapho uthola iposa elisha">
