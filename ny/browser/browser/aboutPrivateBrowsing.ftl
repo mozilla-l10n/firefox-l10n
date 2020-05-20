@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = Tsegulani zenera la chinsinsi
     .accesskey = z
 about-private-browsing-not-private = Pakali pano simuli pa zenera la chinsinsi.
+

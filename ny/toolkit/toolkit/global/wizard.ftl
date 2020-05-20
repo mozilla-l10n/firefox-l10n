@@ -5,3 +5,4 @@
 wizard-macos-button-next =
     .label = Pitiliza
     .accesskey = P
+

@@ -18,3 +18,4 @@ config-search-prefs =
 ## These strings are used for the context menu
 
 config-default = chikhalire
+

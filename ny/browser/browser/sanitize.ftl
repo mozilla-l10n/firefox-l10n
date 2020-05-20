@@ -18,3 +18,4 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Mbiri
+

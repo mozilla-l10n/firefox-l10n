@@ -7,6 +7,7 @@
 
 navbar-tooltip-back =
     .value = { main-context-menu-back.tooltiptext }
+
 toolbar-button-back =
     .label = { main-context-menu-back.aria-label }
 
@@ -14,6 +15,7 @@ toolbar-button-back =
 
 navbar-tooltip-forward =
     .value = { main-context-menu-forward.tooltiptext }
+
 toolbar-button-forward =
     .label = { main-context-menu-forward.aria-label }
 

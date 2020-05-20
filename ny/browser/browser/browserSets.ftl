@@ -17,8 +17,10 @@ picture-in-picture-toggle-shortcut-alt =
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
+
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
+
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 

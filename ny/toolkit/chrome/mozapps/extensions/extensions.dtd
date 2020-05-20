@@ -6,12 +6,6 @@
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 
-<!ENTITY loading.label                        "Kupakira…">
-
-
-
-<!ENTITY listEmpty.findUpdates.label          "Kuona zobwera kumene">
-
 
 
 
@@ -64,13 +58,6 @@
 
 
 
-<!ENTITY cmd.preferencesWin.label             "Zochita kusankha">
-<!ENTITY cmd.preferencesWin.accesskey         "o">
-<!ENTITY cmd.preferencesUnix.label            "Makonda">
-<!ENTITY cmd.preferencesUnix.accesskey        "M">
-
-
-
 
 
 
@@ -110,10 +97,6 @@
 
 
 
-<!ENTITY detail.numberOfDownloads.label       "Zotsitsidwa">
-
-
-<!ENTITY detail.updateDefault.label           "Chikhalire">
 
 
 
@@ -121,29 +104,11 @@
 
 
 
-
-
-
-
-<!ENTITY detail.showPreferencesWin.label      "Zochita kusankha">
-<!ENTITY detail.showPreferencesWin.accesskey  "o">
-
-<!ENTITY detail.showPreferencesUnix.label     "Makonda">
-<!ENTITY detail.showPreferencesUnix.accesskey "M">
 
 <!-- ratings -->
 <!-- download/install progress -->
 
 <!-- list sorting -->
-
-
-
-
-
-
-
-
-<!ENTITY search.filter2.label                 "Fufuzani:">
 
 
 
@@ -179,16 +144,6 @@
 
 
 
-
-
-
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "Phunzirani zambiri">
 
 
 

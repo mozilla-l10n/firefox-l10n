@@ -5,3 +5,4 @@
 close-button =
     .label = Tsekani
     .accesskey = T
+

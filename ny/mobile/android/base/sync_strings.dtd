@@ -17,6 +17,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.places.label ''>
 
@@ -25,6 +26,7 @@
 
 
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
@@ -92,3 +94,4 @@
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+

@@ -12,3 +12,4 @@ security-view-technical =
 ##   $unit (string) - The unit of data being stored (Usually KB)
 
 media-img = Zithunzi
+
