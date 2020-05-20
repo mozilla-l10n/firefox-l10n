@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Tinatanggap ko ang panganib!
 config-about-warning-checkbox =
     .label = Ipakita ang babalang ito sa susunod
+
 config-search-prefs =
     .value = Hanapin:
     .accesskey = H
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopyahin
     .accesskey = C
+
 config-copy-name =
     .label = Kopyahin ang Pangalan
     .accesskey = N
+
 config-copy-value =
     .label = Kopyahin ang laman
     .accesskey = V
+
 config-modify =
     .label = Baguhin
     .accesskey = M
+
 config-toggle =
     .label = Ipakita
     .accesskey = T
+
 config-reset =
     .label = I-reset
     .accesskey = I
+
 config-new =
     .label = Bago
     .accesskey = B
+
 config-string =
     .label = String
     .accesskey = S
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = default
 config-modified = binago
 config-locked = naka-lock
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Ilagay ang pangalan na iyong kagustuhan
+
 config-nan-title = Di-wastong halaga
 config-nan-text = Ang tekstong iyong inilagay ay hindi isang numero.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Bagong { $type } halaga
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Ipasok ang { $type } na halaga

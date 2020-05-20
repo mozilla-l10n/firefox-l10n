@@ -7,7 +7,9 @@ about-config-warning-title = Mag-ingat sa mga engkanto. Nakamamatay!
 about-config-warning-text = Ang pagpapalit ng mga advanced na setting na ito ay maaaring makasama sa katatagan, seguridad, at performance ng application na ito. Dapat ka lamang magpatuloy kung sigurado ka sa kung ano ang iyong ginagawa.
 about-config-warning-checkbox = Inisin mo ako ulit, pakiusap!
 about-config-warning-button = Tinatanggap ko ang peligro.
+
 about-config2-title = Advanced na mga Configuration
+
 about-config-search-input =
     .placeholder = Hanapin
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Tanggapin ang Panganib at Magpatuloy
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Ang pagbago sa mga kagustuhang ito ay maaaring makaapekto sa performance o seguridad ng { -brand-short-name }.
+
 about-config-page-title = Advanced Preferences
+
 about-config-search-input1 =
     .placeholder = Maghanap ng config property
 about-config-show-all = Ipakita Lahat
+
 about-config-pref-add = Idagdag
 about-config-pref-toggle = i-Toggle
 about-config-pref-edit = Edit
 about-config-pref-save = I-save
 about-config-pref-reset = I-reset
 about-config-pref-delete = Burahin
+
 about-config-pref-add-button =
     .title = Magdagdag
 about-config-pref-toggle-button =

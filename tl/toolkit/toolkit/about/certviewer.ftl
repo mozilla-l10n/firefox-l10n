@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Authority Info (AIA)
 certificate-viewer-certificate-policies = Mga Polisiya ng Certificate
 certificate-viewer-embedded-scts = Mga Embedded SCT
 certificate-viewer-crl-endpoints = Mga CRL Endpoint
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Mag-download
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
 certificate-viewer-export = Export
     .download = { $fileName }.pem
 

@@ -18,10 +18,8 @@
 <!ENTITY firstrun_data_message "Konting datos, mas maraming ipon">
 <!ENTITY firstrun_data_subtext2 "I-off ang mga imahe upang gumastos ng mas kaunting data sa bawat site na iyong binibisita.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message2 "Kunin kung saan ka umalis.">
 <!ENTITY firstrun_sync_subtext2 "Gamitin ang Sync upang mahanap ang mga bookmark, password, at iba pang mga bagay na iyong ini-save sa &brandShortName; sa lahat ng iyong device.">
 <!ENTITY firstrun_signin_message "Kumuha ng konektado, magsimula">
-<!ENTITY firstrun_signin_button "Mag-sign in sa Sync">
 <!ENTITY  onboard_start_button_browser "Simulan ang pag-browse">
 <!ENTITY firstrun_button_notnow "Hindi ngayon">
 <!ENTITY firstrun_button_next "Susunod">
@@ -323,11 +321,6 @@
 <!ENTITY pref_pwa "Progressive Web Apps">
 <!ENTITY pref_pwa_summary "Pahintulutan ang mga web app na idadagdag sa home screen">
 
-<!ENTITY tracking_protection_prompt_title "Ngayon sa Pagsubaybay">
-<!ENTITY tracking_protection_prompt_text "Aktibong i-block ang mga elemento sa pagsubaybay upang hindi mo kailangang mag-alala.">
-<!ENTITY tracking_protection_prompt_tip_text "Bisitahin ang Mga setting ng privacy upang matuto nang higit pa">
-<!ENTITY tracking_protection_prompt_action_button "Nakuha ko!">
-
 <!ENTITY tab_queue_toast_message3 "Naka-save ang tab sa &brandShortName;">
 <!ENTITY tab_queue_toast_action "Buksan ngayun">
 <!ENTITY tab_queue_prompt_title "Pagbubukas ng maramihang mga link?">
@@ -408,8 +401,6 @@ shown from Android O while a tab is being queued.-->
 <!ENTITY pref_private_data_downloadFiles2 "Downloads">
 <!ENTITY pref_private_data_syncedTabs "Na synced na mga tab">
 
-<!ENTITY pref_default_browser "Gawing default browser">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Bisitahin ang Mozilla Support">
 <!ENTITY pref_about_firefox "Tungkol &brandShortName;">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "Magbigay ng feedback">
@@ -458,14 +449,6 @@ shown from Android O while a tab is being queued.-->
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; tumatakbo ang Location Service">
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Awtomatikong pag-update">
-<!ENTITY pref_update_autodownload_wifi "Lamang sa paglipas ng Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Huwag kailanman">
-<!ENTITY pref_update_autodownload_always "Palagian">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Tulong">
@@ -728,25 +711,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Mga bookmark at kasaysayan">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "I-update ang magagamit para sa &brandShortName;">
-<!ENTITY updater_start_select2 "Pindutin upang i-download">
-
-<!ENTITY updater_downloading_title2 "Downloading &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Nabigo ang pag-download">
-<!ENTITY updater_downloading_select2 "Pindutin upang ilapat ang pag-update sa sandaling nai-download">
-<!ENTITY updater_downloading_retry2 "Pindutin upang muling subukan">
-
-<!ENTITY updater_apply_title3 "I-update ang nai-download para sa &brandShortName;">
-<!ENTITY updater_apply_select3 "Pindutin upang i-install">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Upang mag-download ng mga file at mga update, payagan ang &brandShortName; pahintulot upang ma-access ang imbakan.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Hayaan">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Bagong Guest Session">
 <!ENTITY exit_guest_session "Lumabas sa Guest Session">
@@ -913,7 +877,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Tunog at video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; tips and tricks">
-<!ENTITY updater_notification_channel "Mga update ng app">
 <!ENTITY synced_tabs_notification_channel "Mga naka-sync na tab">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

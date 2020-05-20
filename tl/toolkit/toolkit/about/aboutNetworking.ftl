@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Mga socket
 dns = DNS
-dnssuffix = DNS suffix
 websockets = WebSockets
 refresh = I-refresh
 auto-refresh = Mag-rerefresh ng atomatiko kada 3 segundo
 hostname = Hostname
 port = Port
 http2 = HTTP/2
-about-networking-title = Tungkol sa Networking
-about-networking-http = HTTP
-about-networking-sockets = Mga socket
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS suffix
-about-networking-websockets = WebSockets
-about-networking-refresh = I-refresh
-about-networking-auto-refresh = Mag-rerefresh ng atomatiko kada 3 segundo
-about-networking-hostname = Hostname
-about-networking-port = Port
-about-networking-http-version = Bersyon ng HTTP
 ssl = SSL
 active = Aktibo
 idle = Walang ginagawa
@@ -69,8 +57,18 @@ rcwn-avg-long = Mahabang Katampatan
 rcwn-std-dev-long = Mahabang Standard Deviation
 rcwn-cache-slow = Mabagal ang bilang ng cache
 rcwn-cache-not-slow = Hindi mabagal ang bilang ng cache
-networkid = Network ID
-networkid-id = Network ID
+
+about-networking-title = Tungkol sa Networking
+about-networking-http = HTTP
+about-networking-sockets = Mga socket
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS suffix
+about-networking-websockets = WebSockets
+about-networking-refresh = I-refresh
+about-networking-auto-refresh = Mag-rerefresh ng atomatiko kada 3 segundo
+about-networking-hostname = Hostname
+about-networking-port = Port
+about-networking-http-version = Bersyon ng HTTP
 about-networking-ssl = SSL
 about-networking-active = Aktibo
 about-networking-idle = Walang ginagawa
@@ -118,8 +116,6 @@ about-networking-networkid-id = Network ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Ang link ay naka-up
-networkid-statusKnown = Ang katayuan ng link ay kilala
 about-networking-networkid-is-up = Ang link ay naka-up
 about-networking-networkid-status-known = Ang katayuan ng link ay kilala
 

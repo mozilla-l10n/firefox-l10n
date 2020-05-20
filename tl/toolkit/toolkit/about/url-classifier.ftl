@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Mga module ng pag-log ng Ligtas na pag-browse
 url-classifier-debug-modules = Kasalukuyang mga log module
 url-classifier-debug-sbjs-modules = Ligtas na pag-browse ng JS log
 url-classifier-debug-file = Kasalukuyang log file
+
 url-classifier-trigger-update = I-trigger ang Update
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Huwag paganahin ang Ligtas na Pagba-browse ng JS Log

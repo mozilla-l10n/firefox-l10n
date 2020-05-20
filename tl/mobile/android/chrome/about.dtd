@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Tungkol sa &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "Experimental ang &brandShortName; at maaring unstable pa ito.">
-<!ENTITY aboutPage.telemetryStart               " Ito ay awtomatikong nagpapadala ng impormasyon tungkol sa pagganap, hardware, paggamit at pag-customize pabalik sa ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " upang makatulong na gumawa ng &brandShortName; mas mabuti.">
 <!ENTITY aboutPage.checkForUpdates.link         "Suriin ang Mga Update »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Naghahanap ng mga update...">
 <!ENTITY aboutPage.checkForUpdates.none         "Walang update na available">

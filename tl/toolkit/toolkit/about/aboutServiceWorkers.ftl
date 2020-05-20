@@ -9,6 +9,7 @@ about-service-workers-title = Tungkol sa mga Service Worker
 about-service-workers-main-title = Mga Nakarehistrong Service Worker
 about-service-workers-warning-not-enabled = Hindi naka-enable ang mga Service Worker.
 about-service-workers-warning-no-service-workers = Walang naka-rehistrong mga Service Worker.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Pangalan ng Aktibong Cache:</strong> { $name }
 waiting-cache-name = <strong>Pangalan ng Nag-iintay na Cache:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Update
+
 unregister-button = Unregister
+
 unregister-error = Bigong i-unregister ang Service Worker na ito.
+
 waiting = Naghihintay…

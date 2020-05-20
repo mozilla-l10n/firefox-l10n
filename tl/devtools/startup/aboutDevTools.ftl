@@ -13,6 +13,7 @@ enable-common-message = Ang mga Firefox Developer Tool ay naka-disable sa simula
 enable-learn-more-link = Alamin ang tungkol sa mga Developer Tool
 enable-enable-button = Paganahin ang Developer Tools
 enable-close-button = Isara ang Tab na ito
+
 welcome-title = Maligayang pagdating sa Firefox Developer Tools!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Makakuha ng mga balita, diskarte at mga babasahing pang-developer at maipadala diretso sa inbox mo.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Ayos lang sa akin na taglayin ng Mozilla ang aking im
 newsletter-subscribe-button = Mag-Subscribe
 newsletter-thanks-title = Salamat!
 newsletter-thanks-message = Kung hindi ka pa dati nakapag-confirm ng subscription sa isang newsletter na may kinalaman sa Mozilla, maaari mo itong gawin ngayon. Silipin mo ang iyong inbox o kaya ang spam filter para sa isang email na galing sa amin.
+
 footer-title = Firefox Developer Edition
 footer-message = Naghahanap ka ng higit pa sa mga Developer Tool? Tingnan mo ang Firefox browser na sadyang ginawa para sa mga developer at modernong workflow.
 footer-learn-more-link = Alamin
+
 features-learn-more = Alamin
 features-inspector-title = Inspector
 features-inspector-desc = Silipin at pagandahin ang code para makagawa ng mga bonggang layout. <a data-l10n-name="learn-more">{ features-learn-more }</a>

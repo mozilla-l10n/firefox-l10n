@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Bumalik
     .accesskey = B
+
 wizard-macos-button-next =
     .label = Magpatuloy
     .accesskey = C
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Susunod >
     .accesskey = N
+
 wizard-macos-button-finish =
     .label = Tapos na
 wizard-linux-button-finish =
     .label = Tapos na
 wizard-win-button-finish =
     .label = Tapos na
+
 wizard-macos-button-cancel =
     .label = Kanselahin
 wizard-linux-button-cancel =

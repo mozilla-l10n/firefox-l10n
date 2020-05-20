@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Tingnan ang impormasyon ng site
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Na-block mo ang access sa MIDI para sa website na ito.
 urlbar-install-blocked =
     .tooltiptext = Hinarang mo ang pagkabit ng mga add-on sa website na ito.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Baguhin itong bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Manage Extension…
 page-action-remove-from-urlbar =
     .label = Tanggalin sa Address Bar
+
 page-action-remove-extension =
     .label = Tanggalin ang Extension
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ngayon naman, maghanap gamit ang:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Baguhin ang mga Search Setting
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Baguhin ang mga search setting
+
 search-one-offs-context-open-new-tab =
     .label = Hanapin sa Bagong Tab
     .accesskey = T
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Ipakita ang editor kapag nagse-save
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Tapos na
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Lahat ng nakikitang window sa iyong screen ay ibabaha
 
 enable-devtools-popup-description = Para gamitin ang F1 2 shortcut, unang buksan ang DevTools sa Web Developer menu.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ipinagkaloob mo sa website na ito ang mga karagdagang pahintulot.
 urlbar-switch-to-tab =
     .value = Lumipat sa tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extension:
+
 urlbar-go-button =
     .tooltiptext = Pumunta sa lokasyon na nasa Location Bar
 urlbar-page-action-button =

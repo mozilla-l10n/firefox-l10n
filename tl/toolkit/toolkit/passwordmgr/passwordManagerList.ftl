@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Isara
     .accesskey = I
+
 show-passwords =
     .label = Ipakita ang mga Password
     .accesskey = P

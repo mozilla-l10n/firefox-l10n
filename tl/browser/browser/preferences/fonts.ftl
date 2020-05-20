@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Mga font
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Mga font para sa
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsyonal
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Sukat
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Sukat
     .accesskey = e
+
 fonts-minsize = Minimum na laki ng font
     .accesskey = o
+
 fonts-minsize-none =
     .label = Wala
+
 fonts-allow-own =
     .label = Payagan ang mga pahina na pumili ng kanilang sariling mga font, sa halip ng iyong mga pinili sa itaas
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Encoding ng Teksto para sa Lumang Nilalaman
 fonts-languages-fallback-desc = Ang pag-encode ng teksto na ito ay ginagamit para sa lumang nilalaman na nabigong ipahayag ang pag-encode nito.
+
 fonts-languages-fallback-label = Fallback na Encoding ng Teksto
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Default para sa Kasalukuyang Locale
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Iba pa (kasama ang Western European)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

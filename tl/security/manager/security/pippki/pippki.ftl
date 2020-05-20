@@ -8,6 +8,7 @@ password-quality-meter = Pangsukat ng kalidad ng password
 
 change-password-window =
     .title = Palitan ang Master Password
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Security Device: { $tokenName }
