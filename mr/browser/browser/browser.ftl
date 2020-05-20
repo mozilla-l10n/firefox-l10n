@@ -211,6 +211,8 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = एक्सटेंशन:
+urlbar-go-button =
+    .tooltiptext = स्थान पट्टीतील पत्त्यावर जा
 urlbar-page-action-button =
     .tooltiptext = पृष्ठाच्या कृती
 urlbar-pocket-button =
