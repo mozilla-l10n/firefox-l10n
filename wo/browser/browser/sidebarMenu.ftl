@@ -4,3 +4,4 @@
 
 sidebar-menu-bookmarks =
     .label = Mandarga xët yi
+

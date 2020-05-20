@@ -14,16 +14,22 @@
 clear-time-duration-prefix =
     .value = Diggante bu ñu wara far :{ " " }
     .accesskey = D
+
 clear-time-duration-value-last-hour =
     .label = Waxtu wi mujj
+
 clear-time-duration-value-last-2-hours =
     .label = Ñaari waxtu yii mujj
+
 clear-time-duration-value-last-4-hours =
     .label = Ñeenti waxtu yi mujj
+
 clear-time-duration-value-today =
     .label = Tey
+
 clear-time-duration-value-everything =
     .label = Lépp
+
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -31,31 +37,42 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Jaar jaar
+
 item-cookies =
     .label = Kuki yi
     .accesskey = K
+
 item-active-logins =
     .label = Jokkoo yiy dox
     .accesskey = o
+
 item-cache =
     .label = Ndenc
     .accesskey = d
+
 data-section-label = Rootaan yi
+
 item-site-preferences =
     .label = Taamu dalub web
     .accesskey = T
+
 item-offline-apps =
     .label = Rotaani dalub web yu jokkoowul
     .accesskey = R
+
 sanitize-everything-undo-warning = Jëf jii mënul dellu ginnaaw.
+
 window-close =
     .key = w
+
 sanitize-button-ok =
     .label = Mabb léegi
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Jaar jaar bi yépp dina mabb
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

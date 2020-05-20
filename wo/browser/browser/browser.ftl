@@ -53,5 +53,6 @@ browser-window-minimize-button =
 
 urlbar-switch-to-tab =
     .value = Dem ci koñ bi:
+
 urlbar-go-button =
     .tooltiptext = Dem ci xët wi ñu joxoñ ci banqaasu makkaan

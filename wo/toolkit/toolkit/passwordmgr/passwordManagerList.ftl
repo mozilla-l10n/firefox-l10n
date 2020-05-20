@@ -26,6 +26,7 @@ import =
 close-button =
     .label = Tëj
     .accesskey = T
+
 show-passwords =
     .label = Wone Baatu-jàll yi
     .accesskey = P

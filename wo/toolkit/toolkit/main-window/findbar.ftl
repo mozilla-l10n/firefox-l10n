@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = Seet beneen kaddu bu ni mel
 findbar-previous =
     .tooltiptext = Seet beneen kaddu bu ni mel te jiitu
+

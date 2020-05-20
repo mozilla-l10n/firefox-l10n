@@ -23,20 +23,24 @@ downloads-cmd-cancel =
     .tooltiptext = Neenal
 downloads-cmd-cancel-panel =
     .aria-label = Neenal
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Ubbi wayndare bi ëmb dencukaay bi
     .accesskey = w
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Wone ci biir Finder
     .accesskey = F
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Wone ci biir Finder
            *[other] Ubbi wayndare bi ëmb dencukaay bi
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -49,6 +53,7 @@ downloads-cmd-show-description =
             [macos] Wone ci biir Finder
            *[other] Ubbi wayndare bi ëmb dencukaay bi
         }
+
 downloads-cmd-retry =
     .tooltiptext = Jéemaat
 downloads-cmd-retry-panel =
@@ -59,9 +64,11 @@ downloads-cmd-go-to-download-page =
 downloads-cmd-copy-download-link =
     .label = Duppi màkkaanu buumu yeb bi
     .accesskey = m
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Wone yeb yépp
     .accesskey = W
+

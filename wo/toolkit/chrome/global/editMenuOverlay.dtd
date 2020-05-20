@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Fal lépp">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Wut">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "W">

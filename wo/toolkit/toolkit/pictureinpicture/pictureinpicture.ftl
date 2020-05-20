@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Taxaw
 pictureinpicture-play =
     .aria-label = Tambali
+
 pictureinpicture-mute =
     .aria-label = Muuma
 pictureinpicture-unmute =
     .aria-label = Deglu
+

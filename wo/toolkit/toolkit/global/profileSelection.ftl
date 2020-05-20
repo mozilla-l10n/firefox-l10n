@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Tànnal benn jëmmalinu jëfandikookat
+
 profile-selection-button-accept =
     .label = Tàmbali { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Génn
+
 profile-selection-new-button =
     .label = Sos benn jëmmalin…
     .accesskey = S
+
 profile-selection-rename-button =
     .label = Wutalaat tur benn jëmmalin…
     .accesskey = W
+
 profile-selection-delete-button =
     .label = Màbbal benn jëmmalin…
     .accesskey = M
@@ -21,6 +26,8 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } dafay denc say xibaari parameetaru bopp ak say taamu ci sa biir jëmmalin.
+
 profile-manager-work-offline =
     .label = Liggéey ci jokkoodiku
     .accesskey = o
+

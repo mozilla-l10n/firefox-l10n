@@ -92,5 +92,6 @@ print-window =
     .title = Móol gi
 print-complete =
     .value = Móol gi sotti na.
+
 dialog-cancel-label = Neenal
 dialog-close-label = Tëj

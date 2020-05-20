@@ -26,18 +26,25 @@ config-value-column =
 config-modify =
     .label = Soppali
     .accesskey = S
+
 config-toggle =
     .label = Wangarñi
     .accesskey = W
+
 config-string =
     .label = Calala
     .accesskey = C
+
 config-integer =
     .label = Ñumm
     .accesskey = Ñ
+
 config-default = Ñakk ndigal
 config-locked = Tëj
+
 config-property-string = calala
 config-property-int = ñumm
+
 config-nan-title = Dayo bi baaxul
 config-nan-text = Mbind mi nga dugal du ab lim.
+

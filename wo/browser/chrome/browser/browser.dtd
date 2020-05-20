@@ -19,17 +19,6 @@
 <!ENTITY navbarOverflow.label                "Yeneeni jumtukaay...">
 
 <!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Yeesal Làcc wi">
-<!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "Yeesal Làcc yépp">
-<!ENTITY  reloadAllTabs.accesskey            "A">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Tëj Làcc wi ci ndijoor">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "Tëj Làcc yépp">
-<!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -40,20 +29,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "T">
 <!ENTITY  unpinTab.label                     "Caabeedi Làcc wi">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "Yónnee Làcc wi ab jumtukaay">
-<!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "Yónnee Xët wi ab jumtukaay">
 <!ENTITY  sendPageToDevice.accesskey         "D">
 <!ENTITY  sendLinkToDevice.label             "Yónnee Lëkkalekaay bi ab jumtukaay">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  moveToNewWindow.label              "Yóbb ci Palanteer bu Bees">
-<!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "Duggal Làcc yépp ci màndarga-xët yi...">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Tijjiwaat Làcc wiñ tëj">
 <!ENTITY  undoCloseTab.accesskey             "U">
-<!ENTITY  closeTab.label                     "Tëj Làcc wi">
-<!ENTITY  closeTab.accesskey                 "c">
 
 <!ENTITY  listAllTabs.label      "Lim Làcc yépp">
 
@@ -88,6 +69,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Suulaale cosaan bu xët wi">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Bataaxal ci xët wi">
 <!ENTITY pageInfoCmd.accesskey "i">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -97,6 +79,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "y">
 <!ENTITY exitFullScreenCmd.label "Génn anamu yambalaŋ">
 <!ENTITY exitFullScreenCmd.accesskey "G">
+
 <!ENTITY fullScreenCmd.label "Seetukaay bu yambalaŋ">
 <!ENTITY fullScreenCmd.accesskey "S">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -112,7 +95,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "Génn anamu yambalaŋ">
 <!ENTITY fullScreenExit.accesskey "G">
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -141,10 +124,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
-<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY subscribeToPageMenupopup.label "Takkoo ak xët wile">
-<!ENTITY subscribeToPageMenuitem.label "Takkoo ak xët wile…">
+
 <!ENTITY addCurPagesCmd.label "Mandargaal koñ yépp…">
+
 <!ENTITY showAllBookmarks2.label "Wone mandarga xët yépp">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wone mandarga xët yu gën bari">
 
@@ -153,7 +135,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Cuq ndeyjoor ngir gis jaar jaar bi">
 <!ENTITY backForwardButtonMenuMac.tooltip "Wacce ngir gis jaar jaar bi">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Dem ci xët wi ñu joxoñ ci banqaasu makkaan">
+
 <!ENTITY printButton.label            "Móol">
 <!ENTITY printButton.tooltip          "Móol xët bii">
 
@@ -170,7 +154,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Mandarga xët yi">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.label          "Mandarga xët yi">
 <!ENTITY viewBookmarksToolbar.label         "Sa banqaasu bopp">
 
 
@@ -203,6 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Dencukaay"> 
 <!ENTITY fileMenu.accesskey       "D">
+
 <!ENTITY newNavigatorCmd.label        "Palanteer bu bees">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -246,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Pano wet">
 <!ENTITY viewSidebarMenu.accesskey "e">
+
 <!ENTITY viewCustomizeToolbar.label       "Solal…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
 
@@ -256,8 +241,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Palanteer yi ñu tëj léegi">
 
 <!ENTITY showAllHistoryCmd.commandkey "h">
-
-<!ENTITY appMenuCustomize.label "Solal">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -287,12 +270,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Dem ci koñ bi:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Déedéet">
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Waaw">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
@@ -346,6 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Ubbi buum bi ci koñ bu bees">
+
 <!ENTITY openLinkCmdInTab.accesskey   "k">
 <!ENTITY openLinkCmd.label            "Ubbi buum bi ci palanteer bu bees">
 <!ENTITY openLinkCmd.accesskey        "b">
@@ -361,7 +343,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "Yeesal kaadar bi">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Suulaale cosaan bu xët wi">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Suulaale MathML bu xët wi">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -389,6 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "b">
 <!ENTITY bookmarkThisFrameCmd.label      "Mandarga xët ci kaadar bi">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "k">
+
 <!ENTITY emailPageCmd.label           "Buumu imeel…">
 <!ENTITY emailPageCmd.accesskey       "B">
 <!ENTITY savePageCmd.label            "Aar ci…">
@@ -486,6 +468,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Yambalaŋ mbind mi rekk">
 <!ENTITY fullZoomToggleCmd.accesskey    "l">
+
 <!ENTITY fullZoom.label                 "Yambalaŋ">
 <!ENTITY fullZoom.accesskey             "a">
 
@@ -508,8 +491,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Melinu laltu bu biró bi">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
-
-<!ENTITY pageReportIcon.tooltip            "Soppi politigu popups dalub web bii">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -549,6 +530,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ndigal yi">
 
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Koñi jowwkat bi">
@@ -573,19 +555,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY customizeMode.restoreDefaults "Restore Natural Order">
-<!ENTITY customizeMode.lwthemes "Tem yi">
-<!ENTITY customizeMode.lwthemes.recommended "Santaane nañu leen">
-
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-
-<!ENTITY trackingContentBlocked.message "Topp tànk">
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
@@ -598,8 +573,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.width "30em">
 
 
-<!ENTITY appMenuSidebars.label         "Pano wet">
-
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -608,8 +581,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-<!ENTITY panicButton.view.undoWarning             "Jëf jii mënul dellu ginnaaw.">
 
 
 

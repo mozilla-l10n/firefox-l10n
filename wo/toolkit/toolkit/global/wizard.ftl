@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Bi jiitu
     .accesskey = j
+
 wizard-macos-button-next =
     .label = Kontineel
     .accesskey = K
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Bi ci topp >
     .accesskey = t
+
 wizard-macos-button-finish =
     .label = Sotti na
 wizard-linux-button-finish =
     .label = Jeexal
 wizard-win-button-finish =
     .label = Jeexal
+
 wizard-macos-button-cancel =
     .label = Neenal
 wizard-linux-button-cancel =

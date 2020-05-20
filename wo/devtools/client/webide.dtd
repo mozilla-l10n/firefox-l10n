@@ -33,7 +33,6 @@
 
 <!-- Prefs -->
 <!ENTITY prefs_general_title "Ëmb lépp">
-<!ENTITY prefs_options_keybindings_default "Ñakk ndigal">
 
 <!-- Runtime Details -->
 
@@ -43,9 +42,6 @@
 <!-- Device Preferences -->
 
 <!-- Device Settings -->
-
-<!-- Monitor -->
-<!ENTITY monitor_help "Ndimbal">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
@@ -62,5 +58,3 @@
 
 <!-- Logs panel -->
 
-<!-- Simulator Options -->
-<!ENTITY simulator_version "Sumb">

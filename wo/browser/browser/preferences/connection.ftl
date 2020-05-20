@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Amul proxy
     .accesskey = u
@@ -13,16 +14,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Gisal boppam paraameetari proxy bu lëkkale bii
     .accesskey = i
+
 connection-proxy-http-share =
     .label = Jëfandikoo serwëër proxy bii ci porotokol yépp
     .accesskey = p
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Misaal yi : .mozilla.org, .asso.fr, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Fataat
     .accesskey = F
+

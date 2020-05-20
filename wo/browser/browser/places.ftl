@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Ubbi palanteer bu bees
     .accesskey = p
+
 places-new-bookmark =
     .label = Mandarga xët bu bees…
     .accesskey = M
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Teqalekat bu bees
     .accesskey = T
+
 places-view =
     .label = Tànn
     .accesskey = T
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ci bes ak ci dal
     .accesskey = b
+
 places-delete-domain-data =
     .label = Fatte dal bile
     .accesskey = F

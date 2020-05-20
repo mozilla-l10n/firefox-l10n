@@ -4,46 +4,54 @@
 
 certmgr-tab-servers =
     .label = Serwëër yi
+
 certmgr-detail-general-tab-title =
     .label = Ëmb lépp
     .accesskey = p
+
 certmgr-detail-pretty-print-tab-title =
     .label = Detaay yi
     .accesskey = D
-certmgr-cert-detail-o =
-    .value = Mbootaay
+
 certmgr-cert-detail-org = Mbootaay
+
 certmgr-delete-cert =
     .title = Màbb benn sarsifikaa
     .style = width: 48em; height: 24em;
+
 certmgr-cert-server =
     .label = Serwëër
+
 certmgr-token-name =
     .label = Wër ndombo kaarange
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Màkkaanu imeel
+
 certmgr-view =
     .label = Wone…
     .accesskey = W
+
 certmgr-export =
     .label = jàllale…
     .accesskey = j
+
 certmgr-delete =
     .label = Màbb...
     .accesskey = M
+
 certmgr-backup =
     .label = Aar…
     .accesskey = A
+
 certmgr-restore =
     .label = Fat…
     .accesskey = F
+
 certmgr-add-exception =
     .label = Yokk lu kenn tëgaalewul…
     .accesskey = Y
+
 exception-mgr-cert-location-url =
     .value = Màkkaan :
 
@@ -63,7 +71,11 @@ import-email-cert-prompt = Fal ab dencukaay bu am sarsifikaa imeel bu wara fatu
 delete-user-cert-title =
     .title = Far say sarsifikaa
 delete-user-cert-confirm = Ndax bëgg dëgg far sasifikaa yii?
+
+
 delete-ssl-cert-confirm = Ndax bëgg nga dëgg màbb serwëër yi kenn tëggaalewul woon?
+
+
 delete-email-cert-title =
     .title = Màbb sarsifikaa imeel
 delete-email-cert-confirm = Ndax bëgg nga dëgg màbb sarsifikaa imeel yu nit ñii?
@@ -73,12 +85,16 @@ delete-email-cert-confirm = Ndax bëgg nga dëgg màbb sarsifikaa imeel yu nit �
 # Add usage
 verify-ssl-client =
     .value = Sarsifika kiliyaŋ SSL
+
 verify-ssl-server =
     .value = Sarsifika serwëër SSL
+
 verify-ssl-ca =
     .value = Kelifa dëggal SSL
+
 verify-email-signer =
     .value = Sarsifikaa xaatim bataaxal
+
 verify-email-recip =
     .value = Sarsifikaa jot bataaxal
 

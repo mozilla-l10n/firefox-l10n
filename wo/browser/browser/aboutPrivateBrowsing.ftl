@@ -6,3 +6,4 @@ about-private-browsing-info-bookmarks = Takku
 about-private-browsing-info-downloads = Yeb yi
 private-browsing-title = Njoowum biir
 about-private-browsing-info-cookies = Kuki yi
+

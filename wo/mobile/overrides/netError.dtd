@@ -201,3 +201,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> dafay jëfandikoo ay xarala yu yagg walla yu yomb a song. Ab songkat di na man a siiwal ci lu yomb ay xibaar yoo foogoon ne aar nañ leen. Yorkatu dalu web bi faww mu jubbanti joxekaay bi laataa nga koy man a yër.</p><p> Njuumte: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

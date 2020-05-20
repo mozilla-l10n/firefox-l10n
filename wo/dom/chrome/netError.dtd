@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Jumte ci fatum xët wi">
 <!ENTITY retry.label "Jéemaatal">
+
 <!-- Specific error messages -->
 
 
@@ -95,17 +96,6 @@ Jéemaatal.</p>">
 <li>Lii mën nekk jafe jafe ci tabbin walla mu nekk nit kuy sacc dantite serwëër bi.</li><li>Su fekkee da nga jokkoo ci ni mu ware ak serwëër bi, xëyna njumte bi du yagg te mën nga jeemaat ci kanam.</li> 
 </ul>">
 
-<!ENTITY malwareBlocked.title "Ragal nañu ni dal bi baaxul !">
-<!ENTITY malwareBlocked.longDesc "<p>Dal yu bon yi dañuy jéema samp ay tëralin yuy sacc say xibaari bopp, di jëfandikoo sa ordinatëër ngir song yeneen walla yaq sa sistem.</p> 
-<p>Boroom dal yi ñu tuumaal ni baaxuñu mën nañu <a href='http://www.stopbadware.org/home/reviewinfo'>laaj ñu seetaat loolu</a>.</p>">
-
-
-
-<!ENTITY phishingBlocked.title "Dal bi royaal la !">
-<!ENTITY phishingBlocked.longDesc "<p>Dugal say xibaari bopp ci xët wile mën na indi saccum dantite walla foród.</p> 
-<p>Dali royaal yii dañuleen di faral di jëfandikoo ci ay e mail foród 
-ngir di song songu doolinka ngir toppandoo cosaan yi nga wóolu.</p>">
-
 
 
 
@@ -113,8 +103,6 @@ ngir di song songu doolinka ngir toppandoo cosaan yi nga wóolu.</p>">
 <!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
 <!ENTITY cspBlocked.longDesc "<p>Joowkat bi dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko naguwul.</p>">
 
-<!ENTITY corruptedContentError.title "Njumte ci këmb bu sankar">
-<!ENTITY corruptedContentError.longDesc "<p>Xët wi nga bëgg mënul wonewu ndax dafay jëfandikoo xeetu naj bu jagul walla kenn tëggaalewuko.</p><ul><li> Jokkool ak webmaster bu dal bi ngir yëgal ko jafe jafe bi.</li></ul>">
-
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<ul><li>Jokkool ak boroomi dalub web ngir yëgal leen jafe jafe bi.</li></ul>">
+

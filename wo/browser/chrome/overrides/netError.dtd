@@ -11,23 +11,15 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Jokkoo bi lajj na">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Màkkaan bi dañu ko tere">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Servëër kenn gisuko">
-<!ENTITY dnsNotFound.longDesc "<ul> 
-<li>Settantal mbindum makkaan bi 
-<strong>ww</strong>.example.com instead of 
-<strong>www</strong>.example.com</li> 
-<li>Su fekke mënuloo joow ci benn dal, seetal sa jokkoo 
-connection.</li> 
-<li>Su fekkee ni sa ordinatëër walla sa lëkkale gi aar nanu leen ak paarfë walla proxy, nemmeekul ni 
- &brandShortName; am na ndigal ag ci web bi.</li> 
-</ul>">
-
 <!ENTITY fileNotFound.title "Dencukaay bu kenn gisul">
+
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Settantal mbindu turu dencukaay bi .</li> 
 <li>Seetal ndax kenn randalul dencukaay bi, walla ñu jox ko beneen tur mbaa ñu mabb ko.</li> 
@@ -35,53 +27,55 @@ connection.</li>
 
 
 <!ENTITY generic.title "Laaj bi mënul sotti.">
+
 <!ENTITY generic.longDesc "<p>xamu ñu lu tax, &brandShortName; mënula yeb xët wi</p>">
 
 
 
-<!ENTITY malformedURI.title "Makkan bi jagul">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>Makkaani web nii lay faral di bindoo 
-<strong>http://www.example.com/</strong></li> 
-<li>Na la wóór ni yaa ngiy jëfandikoo rëdd yu wengalu (i.e. 
-<strong>/</strong>).</li> 
-</ul>">
-
 <!ENTITY netInterrupt.title "Jokkoo bi taxaw na">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Jukki bi jeexal na">
+
 <!ENTITY notCached.longDesc "<p>Jukki bi ñu laaj amatu ci &brandShortName;'.</p><ul><li>ngir kaarange, &brandShortName; du tëb rekk laj yenn jukki yi.</li><li>Cuqal ci jeemat ngir laajaat jukki bi ci dal bi.</li></ul>">
 
 <!ENTITY netOffline.title "Anamu jokkoodiku">
 
 <!ENTITY contentEncodingError.title "Jumte ci suulaale ëmb gi">
+
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Jéemal wax ak boroom dalub web bi ngir biral ko jafe jafe bi.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Giri dencukaay yi wóoru ñu">
+
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Jéemal wax ak boroom dalub web bi ngir biral ko jafe jafe bi.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Yeesalaat nanu jokkoo bi">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Diiru jokkoo bi jeex na">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Makkaan bi kenn xamuko">
+
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
 <li>Da nga war samp beneen jëfekaay ngir mëna ubbi giiru makkaan bile.</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Servëër proxy bi nanguwul jokkoo bi">
+
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
 <li>Seetal ndax paraameetaru proxy bi jaar nanu yoon.</li> 
 <li>Jokkool ak sa saytukatu lëkkale ngir xam ndax serwëër proxy baa ngiy dox .</li> 
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Kenn mënula gis serwëër proxy bi">
+
 <!ENTITY proxyResolveFailure.longDesc "<ul> 
 <li>Seetal ndax paraameetaru proxy bi jaar nanu yoon..</li> 
 <li>Seetal ndax sa jokkoo lëkkale bu sa ordinatëër mi ngiy dox.</li> 
@@ -90,12 +84,14 @@ connection.</li>
 </ul>">
 
 <!ENTITY redirectLoop.title "Xët wi kenn jubaluko bu baax">
+
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>Li indi jafe jafe bii mën na nekk suuxal mba bañ 
 cookies.</li> 
 </ul>">
 
 <!ENTITY unknownSocketType.title "Tontu bu kenn xalaatulwoon ci serwëër bi">
+
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>Seetal ndax sa saytukatu kaarange bopp
 sampu na ci sa doxalin.</li> 
@@ -111,14 +107,13 @@ was trying to connect. -->
 <!ENTITY sharedLongDesc "<ul><li>Dal bi mën na nekk kenn mënu cee jot walla mu bari liggéey jeemaaatal ci kanam</li><li>Su fekkee mënuloo joow ci benn dal, seetal sa jokkoo ordinatëër ak lëkkale gi.</li><li>Su fekkee sa ordinatëër walla sa lëkkale danu leen aar ak paarfë walla benn proxy seetal ndax &brandShortName; am ndigal agg ci Web bi.</li></ul>">
 
 <!ENTITY cspBlocked.title "Boloke ak benn taxawayu kaaraange këmb">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; dafa tere yebum xët wi ci noonu ndax xët wi dafa am taxawaayu kaaraange këmb bu ko nanguwul.</p>">
 
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Yokk lu kenn tëggaalewul…">
-
-
 <!ENTITY remoteXUL.title "XUL bu sori">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalul web bi ngir wax leen jafe jafe bi.</li></ul></p>">
 
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate

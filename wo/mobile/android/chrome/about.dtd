@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Ci mbiri &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; lu bees la te doxam man naa sooxe.">
-<!ENTITY aboutPage.telemetryStart               " Dafay yonnee ay xibaar ci mën mën yi, materiyel bi, jëfandikoo yi ak solal yi ci ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " ngir gëna baaxal &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Wut ay yeesal">
 <!ENTITY aboutPage.checkForUpdates.checking     "Wut ay yeesal...">
 <!ENTITY aboutPage.checkForUpdates.none         "Benn yeesal féexul">

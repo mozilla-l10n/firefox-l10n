@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Tur:
     .accesskey = T
+
 bookmark-overlay-location =
     .value = Màkkaan :
     .accesskey = M
+
 bookmark-overlay-folder =
     .value = Wayndare
+
 bookmark-overlay-choose =
     .label = Tànn…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Wone wayndare mandarga xët yi
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Nëbb
+
 bookmark-overlay-new-folder-button =
     .label = Wayndare bu bees
     .accesskey = W
+
 bookmark-overlay-tags =
     .value = Etiket yi:
     .accesskey = E
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Etiket yu ñu teqale ak ay xos
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Wone etiket yépp
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Nëbb
+
 bookmark-overlay-keyword =
     .value = Caabi baat:
     .accesskey = C

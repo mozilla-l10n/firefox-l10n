@@ -4,24 +4,31 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Boloke
     .accesskey = B
+
 permissions-session =
     .label = Maye ngir sesiyoŋ bi
     .accesskey = s
+
 permissions-allow =
     .label = Maye
     .accesskey = a
+
 permissions-status =
     .label = Nekkin
+
 permissions-button-cancel =
     .label = Neenal
     .accesskey = N
+
 permissions-capabilities-allow =
     .label = May
 permissions-capabilities-block =
     .label = Boloke
+
 permissions-capabilities-listitem-allow =
     .value = May
 permissions-capabilities-listitem-block =
@@ -54,11 +61,15 @@ permissions-exceptions-addons-desc = Mën nga wone dalub web yi ñu may ñu samp
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

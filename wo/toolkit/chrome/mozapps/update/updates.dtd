@@ -42,7 +42,7 @@ ci ni mu gëne gaawe.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; mënul xam ndax am na mottali bu féex. Seetal 
 ndax am nga sumbu &brandShortName; bi mujj ci :">
-
+                                           
 <!ENTITY  finishedPage.title              "Yeesal gi pare na sampu">
 <!ENTITY  finishedPage.text               "Yeesal gi dina sampu bu &brandShortName; tàmbaliwaatee. Mën nga tàmbaliwaat &brandShortName; léegi, walla nga kontine sa liggéey te tàmbaliwaat ci kanam.">
 
@@ -51,6 +51,3 @@ ndax am nga sumbu &brandShortName; bi mujj ci :">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Yeesal gi dina sampu bu &brandShortName; tambaliwaatee. Mën nga tambaliwaat &brandShortName; léegi, walla nga kontine sa liggéey te tambaliwaat ci kanam.">
 
-<!ENTITY  update.details.label            "Benn bennal yi">
-<!ENTITY  update.installedOn.label        "Besu sampu :">
-<!ENTITY  update.status.label             "Nekkin:">

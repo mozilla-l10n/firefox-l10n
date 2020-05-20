@@ -7,14 +7,18 @@
 
 devmgr-header-details =
     .label = Benn bennal yi
+
 devmgr-header-value =
     .label = Solo
+
 devmgr-button-changepw =
     .label = Soppi baatu jàll bi
     .accesskey = b
+
 devmgr-button-enable-fips =
     .label = Suqali FIPS
     .accesskey = F
+
 devmgr-button-disable-fips =
     .label = Suuxal FIPS
     .accesskey = F
@@ -29,14 +33,20 @@ load-device-browse =
 
 devinfo-status =
     .label = Nekkin
+
 devinfo-status-disabled =
     .label = Suuxal
+
 devinfo-status-not-logged-in =
     .label = Jokkoowul
+
 devinfo-desc =
     .label = Tektal :
+
 devinfo-modpath =
     .label = Yoon:
+
 devinfo-label =
     .label = Etiket
+
 del-module-warning = Ndax bëgg dëgg màbb sasifikaa bii?

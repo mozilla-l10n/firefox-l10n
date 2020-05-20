@@ -8,6 +8,7 @@ password-quality-meter = Nataayu baaxaayu caabi baat bi
 
 change-password-window =
     .title = Soppi caabi baat bi ëpp solo
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wër ndombo kaarange: { $tokenName }
