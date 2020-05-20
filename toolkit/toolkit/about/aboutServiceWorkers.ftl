@@ -9,17 +9,12 @@ about-service-workers-title = సర్వీస్ వర్కర్ల గు
 about-service-workers-main-title = నమోదైన సర్వీస్ వర్కర్లు
 about-service-workers-warning-not-enabled = సర్వీస్ వర్కర్లు చేతనించిలేవు.
 about-service-workers-warning-no-service-workers = నమోదైన సర్వీస్ వర్కర్లు లేరు.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = మూలం: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } అనువర్తనం ఐడి { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>క్రియాశీల క్యాషీ ప�
 waiting-cache-name = <strong>వేచివున్న క్యాషీ పేరు:</strong> { $name }
 push-end-point-waiting = <strong>పుష్ ఎండ్‌పాయింట్:</strong> { waiting }
 push-end-point-result = <strong>పుష్ ఎండ్‌పాయింట్:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = తాజాకరించు
+
 unregister-button = తీసివేయి
+
 unregister-error = ఈ సర్వీస్ వర్కర్ నమోదు తీసివేయడంలో విఫలమైంది.
+
 waiting = వేచిచూస్తోంది…

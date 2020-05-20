@@ -54,6 +54,7 @@ import =
 close-button =
     .label = మూయి
     .accesskey = C
+
 show-passwords =
     .label = సంకేతపదాలను చూపించు
     .accesskey = P

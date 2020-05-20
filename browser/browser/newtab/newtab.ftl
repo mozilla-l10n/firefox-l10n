@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = వెతకండి
     .aria-label = వెతకండి
+
 newtab-search-box-search-the-web-text = జాలంలో వెతకండి
 newtab-search-box-search-the-web-input =
     .placeholder = జాలంలో వెతకండి
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = టాప్ సైట్ను సవ
 newtab-topsites-title-label = శీర్షిక
 newtab-topsites-title-input =
     .placeholder = శీర్షికను నమోదు చేయండి
+
 newtab-topsites-url-label = చిరునామా
 newtab-topsites-url-input =
     .placeholder = URL ను టైప్ చేయండి లేదా అతికించండి
 newtab-topsites-url-validation = చెల్లుబాటు అయ్యే URL అవసరం
+
 newtab-topsites-image-url-label = అభిమత చిత్రపు చిరునామా
 newtab-topsites-use-image-link = అభిమత చిత్రాన్ని వాడు…
 newtab-topsites-image-validation = చిత్రాన్ని లోడు చెయ్యలేకపోయాం. మరో చిరునామా ప్రయత్నించండి.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = ఈ చర్యను రద్దు చే
 newtab-menu-section-tooltip =
     .title = మెనూని తెరువు
     .aria-label = మెనూని తెరువు
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,6 +90,8 @@ newtab-menu-archive-pocket = { -pocket-brand-name }లో ఆర్కయివ�
 newtab-privacy-modal-button-done = పూర్తయింది
 
 
+
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ఇష్టాంశాన్ని తొలగించు
@@ -148,10 +154,12 @@ newtab-section-header-pocket = { $provider }చే సిఫార్సు చ�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = విహారించడం మొదలుపెట్టండి, మీరు ఈమధ్య చూసిన లేదా ఇష్టపడిన గొప్ప వ్యాసాలను, వీడియోలను, ఇతర పేజీలను ఇక్కడ చూపిస్తాం.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = మీరు పట్టుబడ్డారు. { $provider } నుండి మరింత అగ్ర కథనాల కోసం తరువాత తనిఖీ చేయండి. వేచి ఉండలేరా? జాలములోని అంతటి నుండి మరింత గొప్ప కథనాలను కనుగొనడానికి ప్రసిద్ధ అంశం ఎంచుకోండి.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -162,7 +170,6 @@ newtab-discovery-empty-section-topstories-try-again-button = మళ్ళీ ప
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ప్రముఖ అంశాలు:
 newtab-pocket-more-recommendations = మరిన్ని సిఫారసులు
-newtab-pocket-how-it-works = ఇది ఎలా పనిచేస్తుంది
 newtab-pocket-cta-button = { -pocket-brand-name } పొందండి
 
 ## Error Fallback Content.

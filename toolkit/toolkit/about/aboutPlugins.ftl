@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = చొప్పింతలు గురించి
+
 installed-plugins-label = స్థాపించబడిన చొప్పింతలు
 no-plugins-are-installed-label = ఎటువంటి స్థాపిత చొప్పింతలు కనుగొనబడలేదు
+
 deprecation-description = ఏదైనా లేదా? కొన్ని ప్లగిన్లకు ఇకపై తోడ్పాటు లేదు. <a data-l10n-name="deprecation-link">ఇంకా తెలుసుకోండి.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">స్థితి:</span> చ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">స్థితి:</span> చేతనమైన ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">స్థితి:</span> అచేతనంచేయబడిన
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">స్థితి:</span> అచేతనంచేయబడిన ({ $blockListState })
+
 mime-type-label = MIME రకం
 description-label = వివరణ
 suffixes-label = సఫిక్సెస్

@@ -58,3 +58,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = చివరి పేజీ
+

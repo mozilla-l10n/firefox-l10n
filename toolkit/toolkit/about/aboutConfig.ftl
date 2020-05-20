@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = నేను ఈ ప్రమాదమును అంగీకరిస్తున్నాను!
 config-about-warning-checkbox =
     .label = తరువాతసారి ఈ హెచ్చరికను చూపు
+
 config-search-prefs =
     .value = వెతకండి:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = కాపీ చేయి
     .accesskey = C
+
 config-copy-name =
     .label = పేరుని కాపీచేయి
     .accesskey = N
+
 config-copy-value =
     .label = విలవను కాపీచేయి
     .accesskey = V
+
 config-modify =
     .label = సవరించు
     .accesskey = M
+
 config-toggle =
     .label = అటుదిటుచేయు
     .accesskey = T
+
 config-reset =
     .label = పునరుద్ధరించు
     .accesskey = R
+
 config-new =
     .label = కొత్త
     .accesskey = w
+
 config-string =
     .label = స్ట్రింగ్
     .accesskey = S
+
 config-integer =
     .label = ఇంటీజర్
     .accesskey = I
+
 config-boolean =
     .label = బులియన్
     .accesskey = B
+
 config-default = అప్రమేయం
 config-modified = మార్చబడింది
 config-locked = లాక్డు
+
 config-property-string = స్ట్రింగ్
 config-property-int = ఇంటీజర్
 config-property-bool = బూలియన్
+
 config-new-prompt = అభిరుచి పేరును ఇవ్వండి
+
 config-nan-title = చెల్లని విలువ
 config-nan-text = మీరు ప్రవేశపెట్టిన పాఠము సంఖ్య కాదు.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = కొత్త { $type } విలువ
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } విలువను ఇవ్వండి

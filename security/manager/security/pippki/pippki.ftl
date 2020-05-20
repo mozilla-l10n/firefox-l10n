@@ -8,6 +8,7 @@ password-quality-meter = సంకేతపద నాణ్యతా కొల�
 
 change-password-window =
     .title = ముఖ్య సంకేతపదాన్ని మార్చు
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = రక్షణ సాధనం: { $tokenName }

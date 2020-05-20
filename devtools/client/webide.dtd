@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "అనువర్తనమును తెరువు">
+
 <!ENTITY runtimeButton_label "రన్‌టైమ్ ఎంపికచేయి">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -76,7 +77,6 @@
 <!ENTITY runtimePanel_usb "USB పరికరాలు">
 <!ENTITY runtimePanel_wifi "Wi-Fi పరికరాలు">
 <!ENTITY runtimePanel_other "ఇతర">
-<!ENTITY runtimePanel_noadbhelper "ADB సహాయకిని స్థాపించు">
 <!ENTITY runtimePanel_nousbdevice "మీ పరికరమును చూడలేకపోతున్నారా?">
 <!ENTITY runtimePanel_refreshDevices_label "పరికరాలను పునశ్చరించు">
 
@@ -119,12 +119,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "రన్‌టైమ్ సమాచారం">
-<!ENTITY runtimedetails_adbIsRoot "ADB root: ">
-<!ENTITY runtimedetails_summonADBRoot "root పరికరం">
-<!ENTITY runtimedetails_ADBRootWarning "(లాక్‌చేయని బూట్‌లోడర్ అవసరం)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "అపరిమితమైన DevTools అధికారాలు: ">
-<!ENTITY runtimedetails_requestPrivileges "ఉన్నత అనుమతులు అభ్యర్ధించు">
-<!ENTITY runtimedetails_privilegesWarning "(పరికరం పునఃప్రారంభించును. root ఏక్సెస్ అవసరం.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "బులియన్">
