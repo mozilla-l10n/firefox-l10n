@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -12,7 +13,6 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "Firka foo bangay kaŋ feecikaa goyjinay bataa ga feera:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -147,7 +147,6 @@
    - label for the checkbox that toggles source maps in the Debugger -->
 
 <!ENTITY options.sourceMaps.label      "Aššil dawtiirawey tunandi">
-<!ENTITY options.sourceMaps.tooltip    "Nda war n'aššil suubarey tunandi, alhaaloo ga fatta hasaraw kaakaa nda diji-walhaa ra.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -156,8 +155,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "Lasal aššil-dogey cebe">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "Lasal aššiley cebe (sanda Sass tukey) takari fasalkaa nda hawgaykaa ra ">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -176,14 +173,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "Hankul ibaayey">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "Zaaritiira willantey tunandi">
-<!ENTITY options.enablePersistentLogs.tooltip  "Nda war na suubaroo woo tunandi interneti diji-walhaa ši haya fattantey tuusu waati kul kaŋ war na moo taaga guna">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -191,6 +185,7 @@
 
 <!ENTITY options.showPlatformData.label    "Gecko goydaari bayhayey cebe">
 <!ENTITY options.showPlatformData.tooltip  "Nda war na suubaroo woo tunandi JavaScript alhaalikoy bayrandiyaney goo nda Gecko goydaari jinay tammaasayaŋ">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

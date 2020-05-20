@@ -8,6 +8,7 @@ password-quality-meter = Šennikufal hennari meetar
 
 change-password-window =
     .title = Takaddaɲaa šennikufal barmay
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Saajaw jinay: { $tokenName }

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Nungu alhabar guna
 
@@ -58,10 +59,12 @@ urlbar-screen-blocked =
     .tooltiptext = War na interneti nungoo woo gagay nd'a ma war dijoo zemni.
 urlbar-persistent-storage-blocked =
     .tooltiptext = War na bayhaya jišiyan duumante gagay interneti nungoo woo se.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Doo-šilbaa woo fasal ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -87,6 +90,7 @@ search-one-offs-change-settings-button =
     .label = Ceeciyan kayandiyaney barmay
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ceeciyan kayandiyaney barmay
+
 search-one-offs-context-open-new-tab =
     .label = Ceeci kanji taaga ra
     .accesskey = t
@@ -162,9 +166,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Ceecijaw goo juwal moora cire
 urlbar-switch-to-tab =
     .value = Bere kanjoo ga:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Dobuyan:
+
 urlbar-go-button =
     .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
 urlbar-page-action-button =

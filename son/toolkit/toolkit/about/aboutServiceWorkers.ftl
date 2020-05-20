@@ -9,17 +9,12 @@ about-service-workers-title = Service Workers ga
 about-service-workers-main-title = Service Workers hantumantey
 about-service-workers-warning-not-enabled = Service Workers mana tunandi.
 about-service-workers-warning-no-service-workers = Service Workers kul mana hantumandi.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Aššil: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } ga porogaram { $appId } šilbay - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Tugudoo maa dirante:</strong> { $name }
 waiting-cache-name = <strong>Batuyan tugudoo maa:</strong> { $name }
 push-end-point-waiting = <strong>Sanbaroo kaydogoo:</strong> { waiting }
 push-end-point-result = <strong>Sanbaroo kaydogoo:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Taagandi
+
 unregister-button = Maa kaa
+
 unregister-error = Mana hin ka Service Worker woo maa kaa.
+
 waiting = Goo ma batu…

@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Kul suuba">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "K">
+
 <!ENTITY findCmd.label             "Ceeci">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "C">

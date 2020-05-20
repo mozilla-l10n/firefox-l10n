@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Ši hin ka ciyari saajante tee zama SSL berehawoo kayandi.
 psmerr-ssl2-disabled = Ši hin ka ciyari saajante tee zama nungoo ga goy nda SSL berehaw dumi ženna, kaŋ manti saajante.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     War duu tabatiyan-tiira laybante.  Taare wa feršikaw juwalkaa wala war bataga duukaa bayrandi, nda w'i noo alhabaroo woo:
     
     War tabatiyan-tiira goo nda fannu lanba follokaa, kaŋ tabatiyan-tiira-hinoo bay k'a noo tabatiyan-tiira foo. Taare tabatiyan-tiira taaga wiri kaŋ ra fannu lanba dumi-folloku goo.
+
 ssl-error-export-only-server = Ši hin ka toonandiyan saajante har. Ceroo ši tuguyan šenda kanbe.
 ssl-error-us-only-server = Ši hin ka toonandi saajante dam. Ceroo ga tuguyan šenda waažibandi, kaŋ ši nda gaakašinay.
 ssl-error-no-cypher-overlap = Ši hin ka toonandi nda ceroo: tuguyan kabu kul ši ihinkaa game.

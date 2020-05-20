@@ -103,6 +103,7 @@ print-window =
     .title = Goo ma karandi
 print-complete =
     .value = Karyanoo timme.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

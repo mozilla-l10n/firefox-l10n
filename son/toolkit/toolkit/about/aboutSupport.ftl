@@ -4,6 +4,7 @@
 
 page-title = Karkahattayan alhabar
 page-subtitle = Moɲoo woo goo nda goyandi alhabar kaŋ ga hin ka bara nda nafaw waati kaŋ war ga ceeci ka fatta šenday ra. Nda war ga zaabiyaŋ ceeci war zaarikul hãayaney se { -brand-short-name } ga, ir <a data-l10n-name="support-link">faaba Interneti nungoo</a> guna.
+
 crashes-title = Kaŋyan bayrandey
 crashes-id = Bayrandi boŋtammaasa
 crashes-send-date = Sanba han
@@ -89,6 +90,17 @@ audio-backend = Jinde bendoo
 
 ##
 
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -96,6 +108,7 @@ report-crash-for-days =
         [one] Kaŋyan bayrandey jirbi kokorante { $days } se
        *[other] Kaŋyan bayrandey jirbi koraw { $days } se
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -103,6 +116,7 @@ crashes-time-minutes =
         [one] Za miniti { $minutes }
        *[other] Za miniti { $minutes }
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -110,6 +124,7 @@ crashes-time-hours =
         [one] Za guuru { $hours }
        *[other] Za guuru { $hours }
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -117,6 +132,7 @@ crashes-time-days =
         [one] Za jirbi { $days }
        *[other] Za jirbi { $days }
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -124,6 +140,7 @@ pending-reports =
         [one] Kaŋyan bayrandey kul (nda kaŋyan maatante { $reports } waati dimma foo ra)
        *[other] Kaŋyan bayrandey kul (nda kaŋyan maatante { $reports } waati dimma foo ra)
     }
+
 raw-data-copied = Bayhaya ganey berandi deeji-walhaa ga
 text-copied = Kalimaɲaa kuru berandi deeji-walhaa ga
 
@@ -136,9 +153,11 @@ blocked-mismatched-version = Gagayandi za war bii takari dirandikaa dumoo se ji�
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Gagayandi war bii takari dirandikaa še. Ceeci ka bii takari dirandikaa taagandi nda { $driverVersion } dumoo wala itaaga tana.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType goy hansarey
+
 compositing = Hantumyan
 hardware-h264 = H264 jinay šenda feeriyan
 main-thread-no-omtc = šilli boŋ, OMTC kul šii
@@ -159,21 +178,27 @@ gpu-driver-version = Jinay dirandikaw dumi
 gpu-driver-date = Jinay dirandikaw han
 gpu-active = Dirante
 blocklisted-bug = Gagayandi mise bayanteyaŋ se
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = laybu { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Gagayante; kayyan ašariya { $failureCode }
+
 d3d11layers-crash-guard = D3D11 teekaw
 d3d11video-crash-guard = D3D11 widewo feerandikaw
 d3d9video-crash-buard = D3D9 widewo feerandikaw
 d3d9video-crash-guard = D3D9 widewo feerandikaw
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Yeeti hiino tunandiyanoo ga
 gpu-process-kill-button = GPU goyoo kayandi
+
 min-lib-versions = Dumi naatante kul ikaccaa
 loaded-lib-versions = Dumi goyante
+
 has-seccomp-bpf = Seccomp-BPF (Dabariɲaa ciyari fayyan)
 has-seccomp-tsync = Seccomp šilli cerehangandiyan
 has-user-namespaces = Goykaw maafarrey
@@ -181,6 +206,7 @@ has-privileged-user-namespaces = Goykaw maafaarey fondo suubarey se
 can-sandbox-content = Gundekuna koyjineyan lalabayan
 can-sandbox-media = Hoorayjina sukari lalabayan
 content-sandbox-level = Gundekuna koyjineyan Sandbox dimma
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -193,6 +219,7 @@ multi-process-status-6 = Hantum damhaya bila nda faaba k'a kayandi
 multi-process-status-7 = Tontoney k'a kayandi
 multi-process-status-8 = A kay nda gaabi
 multi-process-status-unknown = Alhaali šibayante
+
 async-pan-zoom = Waani-waani bii tuti nda cendiyan
 apz-none = baffoo
 wheel-enabled = kanje damhaya tunandi

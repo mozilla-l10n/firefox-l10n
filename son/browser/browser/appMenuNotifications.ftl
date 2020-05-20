@@ -24,3 +24,4 @@ appmenu-update-restart =
     .buttonaccesskey = T
     .secondarybuttonlabel = Manti sohõ
     .secondarybuttonaccesskey = n
+    

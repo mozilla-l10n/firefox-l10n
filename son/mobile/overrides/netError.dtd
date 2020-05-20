@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Moo zumandiyan šenday">
 <!ENTITY retry.label "Ceeci koyne">
+
 <!-- Specific error messages -->
 
 
@@ -94,6 +95,7 @@
 <!ENTITY securityOverride.linkText "Wala war ga hin ka hasaraw foo tonton…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Ay kaataray ne!">
 <!ENTITY securityOverride.exceptionButtonLabel "Hasaraw tonton…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
@@ -119,3 +121,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ga goy nda dabaribayray kaŋ žen nd'a ga yalaafu zanbakey se. A ga faala zanbakaw se a ma hin ka alhabar kaŋ war ga tammahãa a ga saajaw fukkar. Interneti nungu juwalkaa mma hima ka feršikaa hanse jina hala war ma ma nungoo guna.</p><p>Firka tammaasa:NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+

@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Ay yadda allamaanaa ga!
 config-about-warning-checkbox =
     .label = Yaamaroo woo cebe yane hiino
+
 config-search-prefs =
     .value = Ceeci:
     .accesskey = C
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,44 +50,59 @@ config-copy-pref =
     .key = C
     .label = Berandi
     .accesskey = B
+
 config-copy-name =
     .label = Maa berandi
     .accesskey = M
+
 config-copy-value =
     .label = Hinna berandi
     .accesskey = H
+
 config-modify =
     .label = Barmay
     .accesskey = B
+
 config-toggle =
     .label = Kanjari
     .accesskey = K
+
 config-reset =
     .label = Yeeti
     .accesskey = Y
+
 config-new =
     .label = Taaga
     .accesskey = a
+
 config-string =
     .label = Tenjiri
     .accesskey = T
+
 config-integer =
     .label = Hinna timmante
     .accesskey = H
+
 config-boolean =
     .label = Cimi wala taari hãayan
     .accesskey = C
+
 config-default = tilasu boŋ
 config-locked = kufalante
+
 config-property-string = tenjiri
 config-property-int = hinna timmante
 config-property-bool = cimi wala taari haya
+
 config-new-prompt = Ibaayi maa dam
+
 config-nan-title = hinna laala
 config-nan-text = Kalimaɲaa kuroo kaŋ war n'a hantum manti hinna.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = { $type } hinna taaga
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } hinna dam

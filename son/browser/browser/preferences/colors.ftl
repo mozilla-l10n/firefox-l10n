@@ -9,19 +9,26 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-page-override-option-always =
     .label = Waati kul
 colors-page-override-option-auto =
     .label = Nda furarey kaŋ ga fatta ka boori hinne
 colors-page-override-option-never =
     .label = Abada
+
 colors-text-and-background = Kalimaɲaa kuru nda bandafaari
+
 colors-use-system =
     .label = Dabariɲaa noonawey goyandi
     .accesskey = D
+
 colors-underline-links =
     .label = Dobey cire žeeri
     .accesskey = D
+
 colors-links-header = Dobu noonawey
+

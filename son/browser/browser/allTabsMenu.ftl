@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Kanji daabuyan taafeeri
+
 all-tabs-menu-new-user-context =
     .label = Diikaw kanji taaga
+

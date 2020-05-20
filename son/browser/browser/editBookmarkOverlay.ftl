@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Maa:
     .accesskey = M
+
 bookmark-overlay-location =
     .value = Gorodoo:
     .accesskey = G
+
 bookmark-overlay-folder =
     .value = Foolo:
+
 bookmark-overlay-choose =
     .label = Suuba…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Doo-šilba foolawey kul cebe
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Tugu
+
 bookmark-overlay-new-folder-button =
     .label = Foolo taaga
     .accesskey = F
+
 bookmark-overlay-tags =
     .value = Kanjey:
     .accesskey = K
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Kanji fayantey nda surkumey
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Kanjey kul cebe
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Tugu
+
 bookmark-overlay-keyword =
     .value = Kufalkalima:
     .accesskey = K

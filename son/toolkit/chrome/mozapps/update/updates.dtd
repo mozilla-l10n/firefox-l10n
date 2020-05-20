@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Jere-taagandiroo mana hin ka kanandi. &brandShortName; ga wiri ka taagandiri timmante zumandi.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ši bara ka tabatandi wala taagandiri ga bara. Taare guna wala nda cimi war goo nda &brandShortName; dumi kokorantaa ne:">
-
+                                           
 <!ENTITY  finishedPage.title              "Taagandiroo soolu k'a sinji">
 <!ENTITY  finishedPage.text               "Taagandiroo ga sinjandi hiino kaŋ &brandShortName; ga tun. War ga hin ka &brandShortName; tunandi taaga sohõda, wala ka gaabu goyoo ga, k'a tunandi taaga nd'a too kayna.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Taagandiroo ga sinja hiino kaŋ &brandShortName; ga tun. War ga hin ka &brandShortName; tunandi taaga sohõda, wala war ma gaabu goyoo ga, k'a tunandi taaga nd'a too kayna.">
 <!ENTITY  finishedBackground.moreElevated "Taagandiroo woo ga baa juwalkaw fondo-nooyan. Taagandiroo ga sinjandi hiino kaŋ &brandShortName; ga tun. War ga hin ka &brandShortName; tunandi taaga sohõ, goy nda tunandi taaga hiino, wala taagandiroo woo hode.">
 
-<!ENTITY  update.details.label            "Šilbayhayey">
-<!ENTITY  update.installedOn.label        "Sinjiyan han:">
-<!ENTITY  update.status.label             "Assariya:">

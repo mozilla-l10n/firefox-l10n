@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Banda
     .accesskey = B
+
 wizard-macos-button-next =
     .label = Koy jine
     .accesskey = K
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Jine >
     .accesskey = J
+
 wizard-macos-button-finish =
     .label = Tee ka ben
 wizard-linux-button-finish =
     .label = Ben
 wizard-win-button-finish =
     .label = Ben
+
 wizard-macos-button-cancel =
     .label = Naŋ
 wizard-linux-button-cancel =

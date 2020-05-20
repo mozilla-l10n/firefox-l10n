@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Dirandi waati alhabar">
 
-<!ENTITY runtimeMenu_showMonitor_label "Diji">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Jinay ibaayey">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Jinay kayandiyaney">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Porogaram-ize feeri">
+
 <!ENTITY runtimeButton_label "Dirandi waati suuba">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "Kanjey">
 <!ENTITY runtimePanel_usb "USB jinawey">
 <!ENTITY runtimePanel_wifi "Wi-Fi jinawey">
-<!ENTITY runtimePanel_simulator "Dendenkey">
 <!ENTITY runtimePanel_other "Haya tana">
-<!ENTITY runtimePanel_installsimulator "Dendenkaw sinji">
-<!ENTITY runtimePanel_noadbhelper "ADB faabakaw sinji">
 <!ENTITY runtimePanel_nousbdevice "Ši hin ka dii war jinaa?">
 <!ENTITY runtimePanel_refreshDevices_label "Jinawey taagandi">
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "Leeti suuba">
 <!ENTITY newAppLoadingTemplate "Goo ma leetey zumandi…">
 <!ENTITY newAppProjectName "Porože maa:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Dirandi waati alhabar">
-<!ENTITY runtimedetails_adbIsRoot "ADB ti linjoo: ">
-<!ENTITY runtimedetails_summonADBRoot "linji jinay">
-<!ENTITY runtimedetails_ADBRootWarning "(tunandikaw feerante ga waažibi)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "DevTools fondo suubarey bila nda kaydoo: ">
-<!ENTITY runtimedetails_requestPrivileges "goyfondo beeriyaŋ ga waažibi">
-<!ENTITY runtimedetails_privilegesWarning "(Ga jinay tunandi taaga. Linji huruyan ga waažibi.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "Cimi wala taari hãayan">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "Kayandiyan taaga tonton">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "Diji">
-<!ENTITY monitor_help "Faaba">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -176,17 +167,3 @@
 <!ENTITY logs_title "Soolu-waate juwal zaaritiirawey">
 <!-- Simulator Options -->
 
-<!ENTITY simulator_title "Himari-cebekaw suubarey">
-<!ENTITY simulator_remove "Himari-cebekaw tuusu">
-<!ENTITY simulator_reset "Tilasey yeeti">
-
-<!ENTITY simulator_software "Goy porogaram">
-<!ENTITY simulator_version "Dumi">
-<!ENTITY simulator_profile "Alhaali">
-<!ENTITY simulator_hardware "Jinay šenda">
-<!ENTITY simulator_device "Jinay">
-<!ENTITY simulator_screenSize "Diji">
-<!ENTITY simulator_pixelRatio "Biitonbi hinna">
-<!ENTITY simulator_tv_data "Teele himari-cebeyan">
-<!ENTITY simulator_tv_data_open "Hanseyan bayhayey">
-<!ENTITY simulator_tv_data_open_button "Hanseyan fooloɲaa feeri…">

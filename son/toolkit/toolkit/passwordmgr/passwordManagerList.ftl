@@ -48,6 +48,7 @@ import =
 close-button =
     .label = Daabu
     .accesskey = D
+
 show-passwords =
     .label = Šennikufaley cebe
     .accesskey = P

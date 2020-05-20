@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Berandi
     .accesskey = B
+
 select-all =
     .key = A
 menu-select-all =
     .label = Kul suuba
     .accesskey = K
+
 general-tab =
     .label = Kulhaya
     .accesskey = G
@@ -37,6 +40,7 @@ general-meta-name =
     .label = Maa
 general-meta-content =
     .label = Gundekuna
+
 media-tab =
     .label = Alhabar goyjinay
     .accesskey = M
@@ -66,11 +70,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Alhabar goyjinay moo-fur:
+
 perm-tab =
     .label = Duɲeyaney
     .accesskey = P
 permissions-for =
     .value = Duɲeyan woo se:
+
 security-tab =
     .label = Saajaw
     .accesskey = S
@@ -89,13 +95,17 @@ security-view-identity-verifier =
     .value = Kaŋ woo n'a koroši:
 security-view-privacy =
     .value = Sutura nda taariki
+
 security-view-privacy-history-value = Wala yan ka bay ka Interneti nungoo woo naaru ka bisa?
+
 security-view-privacy-passwords-value = Ya n' ka šennikufal kulyaŋ gaabu Interneti nungoo woo se?
+
 security-view-privacy-viewpasswords =
     .label = Šennikufal gaabuntey guna
     .accesskey = w
 security-view-technical =
     .value = Goywaanay šilbayhayey
+
 help-button =
     .label = Faaba
 
@@ -124,6 +134,7 @@ media-video = Widewo
 media-audio = Jinde
 saved-passwords-yes = Ayyo
 saved-passwords-no = Kalaa
+
 no-page-title =
     .value = Moo bila nda maa:
 general-quirks-mode =
@@ -139,12 +150,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Tilasu goyandi
 security-no-visits = Kalaa
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } bii
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -154,17 +167,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (zimamandi { $scaledx }px × { $scaledy }px ga)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -172,6 +188,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Biyey gagay { $website } ga
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

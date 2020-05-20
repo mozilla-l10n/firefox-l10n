@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Šintin moo kayandi
     .style = width: 32em;
+
 select-bookmark-desc = Suuba doo-šilbay k'a tee sintin moo. Nda war ga baa ka foolo suuba, Doo-šilbawey kaŋ goo foolaa din ra ga feera nor lokey ra.

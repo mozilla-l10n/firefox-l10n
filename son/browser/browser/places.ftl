@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Feeri sutura zanfun taaga ra
     .accesskey = s
+
 places-new-bookmark =
     .label = Doo-šilbay taaga…
     .accesskey = t
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Fayari taaga
     .accesskey = t
+
 places-view =
     .label = Guna
     .accesskey = G
@@ -47,6 +49,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Han nda nungu bande
     .accesskey = H
+
 places-delete-domain-data =
     .label = Dirɲa nungoo woo
     .accesskey = D

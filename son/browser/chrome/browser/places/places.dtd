@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Fayari taaga">
 <!ENTITY cmd.new_separator.accesskey       "t">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Doo-šilbay dirante dam taaga">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "d">
-
-<!ENTITY cmd.moveBookmarks.label                  "Ganandi…">
-<!ENTITY cmd.moveBookmarks.accesskey              "G">
-
 <!ENTITY col.name.label          "Maa">
 <!ENTITY col.tags.label          "Kanjey">
 <!ENTITY col.url.label           "Gorodoo">
 <!ENTITY col.mostrecentvisit.label "Naarumi kokorante">
 <!ENTITY col.visitcount.label    "Narumi kabu">
-<!ENTITY col.description.label   "Šilbayyan">
 <!ENTITY col.dateadded.label     "Tontonyan han">
 <!ENTITY col.lastmodified.label  "Barmay cee koraa">
 
@@ -96,10 +89,6 @@
 
 <!ENTITY forwardButton.tooltip  "Koy jine">
 
-<!ENTITY detailsPane.more.label "Bešere">
-<!ENTITY detailsPane.more.accesskey "B">
-<!ENTITY detailsPane.less.label "Kaccu nda">
-<!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.selectAnItemText.description "Hayiize suuba k'a guna nda ka nga mayrawey fasal.">
 
 <!ENTITY view.label               "Guna">

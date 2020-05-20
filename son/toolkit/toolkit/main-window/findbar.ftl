@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Kalimaɲaŋoo hiino bangayroo ceeci
 findbar-previous =
     .tooltiptext = Kalimaɲaŋoo bangayri bisantaa ceeci
+
 findbar-find-button-close =
     .tooltiptext = Ceeci žeeri daabu
-findbar-highlight-all =
-    .label = Kul šilbay
-    .accesskey = b
-    .tooltiptext = Kalimaɲaŋoo bangayrey kul ceeci
+
 findbar-case-sensitive =
     .label = Harfu-beeriyan tenjandi
     .accesskey = a
     .tooltiptext = Ceeci nda harfu-beeri maateyan
+
 findbar-entire-word =
     .label = Kalima timmantey
     .accesskey = K

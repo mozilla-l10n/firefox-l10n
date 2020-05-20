@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (mana kayandi)
+
 failed-pw-change = Ši hin ka takaddaɲaa šennikufal barmay.
 incorrect-pw = War mana sohõda takaddaɲaa šennikufal boryo dam. Taare šii koyne.
 pw-change-ok = Takaddaɲaa šennikufaloo barmay boryo.
+
 pw-empty-warning = War nungu nda bataga šennikufaley, takari bayhayey nda sutura kufaley kaŋ war n'i jiši ši hin ka jejebandi.
 pw-erased-ok = War na war takaddaɲaa šennikufaloo tuusu.  { pw-empty-warning }
 pw-not-wanted = Yaamar: War mana soobay ka takaddaɲaa šennikufal foo goyandi. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Sohõda war goo FIPS yaayi ra. FIPS ga takaddaɲaa šennikufal kaŋ ši koonu waažibandi.
 pw-change-success-title = Šennikufal barmay ka boori
 pw-change-failed-title = Šennikufal mana barmay ka boori
 pw-remove-button =
     .label = Kaa
+
 set-password =
     .title = Takaddaɲaa šennikufal barmay
 set-password-old-password = Sohõda šennikufal:
@@ -24,6 +28,7 @@ set-password-meter = Šennikufal hennari meetar
 set-password-meter-loading = Goo ma zunandi
 master-password-description = Takaddaɲaa šennikufal ga goyandi ka sutura alhabar jejebu sanda tataaru nungu šennikufaley. Nda war ga takaddaɲaa šennikufal tee war ga hin k'a dam cee foo goy-waati foo ra kaŋ { -brand-short-name } g'alhabar jejebanteyaŋ zaa kaŋ ga gaabundi war šennikufaloo ra.
 master-password-warning = Taare alhakiika war ga honga takaddaɲaa šennikufaloo kaŋ war n'a kayandi.  Nda war dirŋa war takaddaɲaa šennikufaloo, war ši hin ka too alhabar kaŋ a g'a jejebu do.
+
 remove-password =
     .title = Takaddaɲaa šennikufal kaa
 remove-info =

@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = { $name } sun ibaayey
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,11 +24,14 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-text =
     .placeholder = Sun maa dam
+
 containers-button-done =
     .label = A ben
     .accesskey = b
+
 containers-color-blue =
     .label = Bula
 containers-color-turquoise =
@@ -43,6 +48,7 @@ containers-color-pink =
     .label = Talhannaboosu
 containers-color-purple =
     .label = Boy
+
 containers-icon-fingerprint =
     .label = Kabežeerey
 containers-icon-briefcase =

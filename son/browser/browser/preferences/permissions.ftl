@@ -5,35 +5,42 @@
 permissions-window =
     .title = Hasarawey
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Gagay
     .accesskey = G
+
 permissions-session =
     .label = Goywaati noo fondo
     .accesskey = G
+
 permissions-allow =
     .label = Noo fondo
     .accesskey = N
+
 permissions-status =
     .label = Assariya
+
 permissions-button-cancel =
     .label = Naŋ
     .accesskey = N
+
 permissions-button-ok =
     .label = Barmawey gaabu
     .accesskey = g
+
 permissions-capabilities-allow =
     .label = Noo fondo
 permissions-capabilities-block =
     .label = Gagay
+
 permissions-capabilities-listitem-allow =
     .value = Noo fondo
 permissions-capabilities-listitem-block =
     .value = Gagay
-permissions-capabilities-listitem-allow-first-party =
-    .value = Ceewaani de noo fondo
 permissions-capabilities-listitem-allow-session =
     .value = Noo fondo goywaati se
 
@@ -43,10 +50,6 @@ permissions-invalid-uri-title = Zunbudoo maa laalo ka damandi
 permissions-invalid-uri-label = Taare war ma zunbudoo maa boryo dam
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = Hasarawey - Ganayan jejebu
-    .style = { permissions-window.style }
 
 ## Exceptions - Cookies
 
@@ -68,11 +71,15 @@ permissions-exceptions-addons-desc = War ga hin ka tabatandi Interneti nungey ka
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

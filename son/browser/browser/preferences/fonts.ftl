@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Šigirawey
+
 fonts-window-close =
     .key = w
 
@@ -75,8 +76,10 @@ fonts-default-serif =
     .label = Delbu šigira
 fonts-default-sans-serif =
     .label = Šigira šerrante
+
 fonts-minsize-none =
     .label = Baffoo
+
 fonts-allow-own =
     .label = Moɲey noo fondo ka ngi boŋ šigirawey suuba, manti ay boŋ beene suubari
     .accesskey = M
@@ -88,6 +91,7 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Harfu hawyan gundekuna žeena se
 fonts-languages-fallback-desc = Harfu hawyanoo woo ga tee gundekuna žeena se kaŋ mongo ka nda hawaroo har.
+
 fonts-languages-fallback-name-auto =
     .label = Tilasu sohõ nungu se
 fonts-languages-fallback-name-arabic =
@@ -120,9 +124,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Wiyetinam
 fonts-languages-fallback-name-other =
     .label = Tana (nda Eropu dangay)
-fonts-very-large-warning-title = Šigira adadu tefayyan kayna
-fonts-very-large-warning-message = War na šigira adadu kayna suuba kaŋ ga hansa ka tefay (ka bisa biitonbi 24). Woo ga hin ka too hanseyan moo nafante fooyaŋ šendandi wal'i ganji, sanda moɲoo woo.
-fonts-very-large-warning-accept = Barmawey gaabu waati kul
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
