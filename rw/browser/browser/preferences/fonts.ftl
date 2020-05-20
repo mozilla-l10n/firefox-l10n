@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Imyandikire
+
 fonts-window-close =
     .key = w
 
@@ -57,6 +58,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-name-vietnamese =
     .label = Ikinyaviyetinamu
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

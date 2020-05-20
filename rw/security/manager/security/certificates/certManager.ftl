@@ -4,70 +4,75 @@
 
 certmgr-title =
     .title = Mucunga Ibyemezo
+
 certmgr-tab-mine =
     .label = Ibyemezo Byawe
+
 certmgr-tab-ca =
     .label = Abayobozi
-certmgr-subject-info-label =
-    .value = Byahawe
-certmgr-issuer-info-label =
-    .value = Byatanzwe Na
-certmgr-fingerprints-label =
-    .value = Ibikumwe
+
 certmgr-subject-label = Byahawe
+
 certmgr-issuer-label = Byatanzwe Na
+
 certmgr-fingerprints = Ibikumwe
+
 certmgr-cert-detail =
     .title = Ibisobanuro by'Icyemezo
     .buttonlabelaccept = Gufunga
     .buttonaccesskeyaccept = f
-certmgr-cert-detail-cn =
-    .value = Izina Rusange (CN)
-certmgr-cert-detail-o =
-    .value = Umuryango (O)
-certmgr-cert-detail-ou =
-    .value = Ishami Ricunga (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Nimero Iranga
-certmgr-cert-detail-sha1-fingerprint =
-    .value = Igikumwe cya SHA1
+
 certmgr-cert-detail-commonname = Izina Rusange (CN)
+
 certmgr-cert-detail-org = Umuryango (O)
+
 certmgr-cert-detail-orgunit = Ishami Ricunga (OU)
+
 certmgr-cert-detail-serial-number = Nimero Iranga
+
 certmgr-cert-detail-sha-1-fingerprint = Igikumwe cya SHA1
+
 certmgr-edit-ca-cert =
     .title = Guhindura Amagenamiterere y'Icyizere cy'Icyemezo cya CA
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Guhindura amagenamiterere y'icyizere:
+
 certmgr-edit-cert-trust-ssl =
     .label = Iki cyemezo gishobora kuranga imbugamakuru.
+
 certmgr-edit-cert-trust-email =
     .label = Iki cyemezo gishobora kuranga abakoresha ubutumwa.
+
 certmgr-delete-cert =
     .title = Gusiba Icyemezo
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Izina ry'Icyemezo
+
 certmgr-token-name =
     .label = Apareyi y'Umutekano
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Agaciro Kayo Kazarangira Ku Wa:
+
 certmgr-expires-label =
     .label = Agaciro Kayo Kazarangira Ku Wa:
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Aderesi ya Imeyili
+
 certmgr-serial =
     .label = Nimero Iranga
+
 certmgr-details =
     .value = Imyanya y'Icyemezo
     .accesskey = m
+
 certmgr-fields =
     .value = Agaciro k'Umwanya
     .accesskey = c
+
 pk11-bad-password = Ijambobanga  winjije siryo.
 pkcs12-decode-err = Ntibishobotse iyo dosiye. Birashoboka ko itari mu bwoko bwa PKCS #12, cyangwa byapfuye, cyangwa se winjije ijambobanga  ritariryo.
 pkcs12-unknown-err-restore = Ntibishobotse gusubizaho idosiye y'ubwoko bwa PKCS #12 kubera impamvu zitazwi.
@@ -99,6 +104,8 @@ delete-user-cert-title =
     .title = Gusiba Ibyemezo byawe
 delete-user-cert-confirm = Urashaka koko gusiba izi byemezo?
 delete-user-cert-impact = Nusiba rumwe mu byemezo byawe bwite, ntuzaba icyongeye kurukoresha kugira ngo wirange.
+
+
 delete-email-cert-title =
     .title = Gusiba Ibyemezo bya Imeyili
 delete-email-cert-confirm = Urashaka koko gusiba ibyemezo bya imeyili z'aba bantu?
@@ -107,19 +114,26 @@ delete-email-cert-confirm = Urashaka koko gusiba ibyemezo bya imeyili z'aba bant
 
 not-present =
     .value = <Ntabwo Kiri Mu Bikubiye Mu Cyemezo>
+
 # Cert verification
 cert-verified = Iki cyemezo cyagenzuwe mu gukoreshwa mu buryo bukurikira:
+
 # Add usage
 verify-ssl-client =
     .value = Uruhusa rw'umukiriya SSL
+
 verify-ssl-server =
     .value = Uruhusa rwa seriveri SSL
+
 verify-ssl-ca =
     .value = Ubuyobozi bw'uruhusa SSL
+
 verify-email-signer =
     .value = Uruhusa rw'ushyiraho umukono kuri imeli
+
 verify-email-recip =
     .value = Uruhusa rw'uwandikiwe imeli
+
 # Cert verification
 cert-not-verified-cert-revoked = Ntibyashobotse kugenzura iki cyemezo kubera ko cyanzwe.
 cert-not-verified-cert-expired = Ntibyashobotse kugenzura iki cyemezo kubera ko cyarengeje igihe.

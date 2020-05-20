@@ -18,11 +18,15 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Amateka
+
 item-cookies =
     .label = Dosiyenyibutsa
     .accesskey = y
+
 item-cache =
     .label = Ubwihisho
     .accesskey = U
+
 window-close =
     .key = w
+

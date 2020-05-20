@@ -5,3 +5,4 @@
 places-open =
     .label = Gufungura
     .accesskey = f
+

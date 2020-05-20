@@ -84,10 +84,6 @@
 
 
 
-<!ENTITY cmd.installAddon.label               "Kwinjizamo">
-<!ENTITY cmd.installAddon.accesskey           "K">
-
-
 <!ENTITY cmd.showPreferencesWin.label         "Amahitamo">
 
 <!ENTITY cmd.showPreferencesUnix.label        "Ibyatoranyijwe">
@@ -107,22 +103,10 @@
 
 <!-- detail view -->
 
-<!ENTITY detail.version.label                 "Verisiyo">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-<!ENTITY detail.size                          "Ingano">
 
 
 
@@ -135,12 +119,8 @@
 <!-- ratings -->
 <!-- download/install progress -->
 
-<!ENTITY progress.pause.tooltip               "Kuhagarara">
 <!ENTITY progress.cancel.tooltip              "Kureka">
 <!-- list sorting -->
-
-
-<!ENTITY sort.name.label                      "Izina">
 
 
 

@@ -120,8 +120,6 @@
 
 
 
-<!-- Monitor -->
-<!ENTITY monitor_help "Ifashayobora">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -137,11 +135,6 @@
 
 <!-- Logs panel -->
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Verisiyo">
 
 
 

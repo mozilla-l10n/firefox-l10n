@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = Gushaka aho uyu murongo wongera kugaruka
 findbar-previous =
     .tooltiptext = Gushaka aho uyu murongo ugaruka mbere y'aha
+

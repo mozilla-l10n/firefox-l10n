@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 ok = YEGO
+
+## Link is intended as "network link"
+
+##

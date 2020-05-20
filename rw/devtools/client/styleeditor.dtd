@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE : The correct localization of this file might be to keep
@@ -40,3 +41,4 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!-- LOCALIZATION NOTE (openLinkNewTab.label): This is the text for the
      context menu item that opens a stylesheet in a new tab -->
+
