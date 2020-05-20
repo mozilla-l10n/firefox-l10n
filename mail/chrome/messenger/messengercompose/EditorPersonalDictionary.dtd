@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "P">
 <!ENTITY DictionaryList.label "Słowa w słowniku:">
 <!ENTITY DictionaryList.accessKey "S">
-<!ENTITY ReplaceButton.label "Wuměniś">
-<!ENTITY ReplaceButton.accessKey "m">
 <!ENTITY RemoveButton.label "Wótwónoźeś">
 <!ENTITY RemoveButton.accessKey "W">
 

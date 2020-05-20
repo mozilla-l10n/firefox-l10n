@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "K adresy w adresowem pólu">
+
 <!ENTITY printButton.label            "Śišćaś">
 <!ENTITY printButton.tooltip          "Toś ten bok śišćaś">
 
@@ -632,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pla Pocket składowaś">
+
 <!ENTITY saveToPocketCmd.label        "Bok do Pocket składowaś">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Wótkaz do Pocket składowaś">

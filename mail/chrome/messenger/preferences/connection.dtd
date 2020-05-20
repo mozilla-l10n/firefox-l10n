@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Žeden proksy za:">
 <!ENTITY  noproxy.accesskey             "d">
 <!ENTITY  noproxyExplain.label          "Pśikład: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Toś ten proksy-serwer za wšykne protokole wužywaś">
+<!ENTITY  shareproxy.accesskey          "T">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Zwiski z localhost, 127.0.0.1 a ::1 nigda pśez proksy njejdu.">
-<!ENTITY  shareproxy.label              "Toś ten proksy-serwer za wšykne protokole wužywaś">
-<!ENTITY  shareproxy.accesskey          "T">
 <!ENTITY  proxyHttpSharing.label        "Teke toś ten proksy za HTTPS wužywaś">
 <!ENTITY  proxyHttpSharing.accesskey    "k">
 <!ENTITY  autologinproxy.label          "Za awtentificěrowanim se njepšašaś, jolic gronidło jo składowane">

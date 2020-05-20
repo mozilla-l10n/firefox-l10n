@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Nowu pomjenjonu kokulku zasajźiś abo kakosći wubraneje kokulki wobźěłaś">
 <!ENTITY TextColorButton.tooltip "Barwu za tekst wubraś">
 <!ENTITY BackgroundColorButton.tooltip "Barwu za slězynu wubraś">
-<!ENTITY throbber.tooltip "K startowemu bokoju &vendorShortName;">
 <!ENTITY throbber.tooltip2 "K startowemu bokoju &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Wuzwignjeńsku barwu za tekst wubraś">
 

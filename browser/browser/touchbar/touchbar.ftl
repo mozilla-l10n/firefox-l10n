@@ -20,6 +20,7 @@ open-location = Pytaś abo adresu zapódaś
 share = Źěliś
 close-window = Wokno zacyniś
 open-sidebar = Bócnice
+
 # This string describes shortcuts for search.
 search-popover = Pytańske skrotconki
 # Describes searches limited to a specific scope

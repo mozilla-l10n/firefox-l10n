@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Nowu składowańsku słužbu Filelink pśidaś">
 <!ENTITY removeCloudFileAccount.label     "Wótpóraś">
 <!ENTITY removeCloudFileAccount.accesskey "W">
-<!ENTITY authRequired.description         "Waša awtorizacija jo trěbna, aby mógał nastajenja za toś tu składowańsku słužbu wiźeś.">
-<!ENTITY authRequired.button.label        "Awtorizěrowaś">
-<!ENTITY authRequired.button.accesskey    "A">
 
 <!ENTITY findCloudFileProviders.label     "Dalšnych póbitowarjow namakaś…">
 

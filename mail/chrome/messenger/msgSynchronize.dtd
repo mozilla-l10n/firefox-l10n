@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Powěsći ześěgnuś a synchronizěrowaś">
 <!ENTITY MsgSelect.label "Zapiski za wužywanje offline">
 <!ENTITY MsgSyncDesc.label "Jolic sćo južo postowe zarědniki abo diskusijne kupki za wužywanje offline wubrał, móžośo je něnto ześěgnuś a/abo synchronizěrowaś. Wužyjśo tłocašk &quot;Wubraś&quot;, aby postowe zarědniki a diskusijne kupki za wužywanje offline wubrał.">

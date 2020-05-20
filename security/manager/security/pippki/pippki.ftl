@@ -8,6 +8,7 @@ password-quality-meter = Měridło kakosći gronidła
 
 change-password-window =
     .title = Głowne gronidło změniś
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Wěstotny rěd: { $tokenName }

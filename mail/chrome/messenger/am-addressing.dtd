@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Pisaś a adresěrowaś">
 <!ENTITY addressingGroupTitle.label "Adresěrowanje">
 <!ENTITY addressingText.label      "Pśi pytanju adresow:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Pisaś">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Powěsći w HTML-formaśe spisaś">
 <!ENTITY useHtml.accesskey                    "P">
 <!ENTITY autoQuote.label                      "Spócetnu powěsć pśi wótegronjenju awtomatiski ako citat zasunuś">
 <!ENTITY autoQuote.accesskey                  "S">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Pótom,">
-<!ENTITY then.accesskey                       "P">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Pśi citěrowanju">
 <!ENTITY quoting.accesskey                    "c">

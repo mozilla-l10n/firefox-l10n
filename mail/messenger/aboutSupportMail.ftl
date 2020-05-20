@@ -14,4 +14,5 @@ accounts-conn-security = Zwiskowa wěstota
 accounts-auth-method = Awtentificěrowańska metoda
 accounts-default = Standard?
 identity-name = Identita
+
 send-via-email = Pśez e-mail pósłaś

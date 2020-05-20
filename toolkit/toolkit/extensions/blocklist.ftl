@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = { -brand-short-name } znowego startowaś
     .accesskey = z
+
 blocklist-label-summary = { -brand-short-name } jo póstajił, až slědujuce dodanki su za to znate, až zawinuju problemy stabilnosći abo wěstoty:
 blocklist-soft-and-hard = Dodanki, kótarež maju wusoke riziko, až zawinuju problemy stabilnosći abo wěstoty, su se zablokěrowali. Druge maju niše riziko, ale pśiraźijo se wjelgin, až su pśi nowem startowanju znjemóžnjone.
 blocklist-hard-blocked = Toś te dodanki maju wusoke riziko, až zawinuju problemy stabilnosći a wěstoty a su se zablokěrowali, ale nowy start jo trěbny, aby se dopołnje znjemóžnili.
 blocklist-soft-blocked = Za waš šćit se wjelgin pśiraźijo, až toś te dodanki su pśi nowem startowanju znjemóžnjone.
 blocklist-more-information =
     .value = Dalšne informacije
+
 blocklist-blocked =
     .label = Zablokěrowany
 blocklist-checkbox =

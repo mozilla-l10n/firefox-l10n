@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = z
 appmenu-addon-private-browsing-message = Někotare nowe rozšyrjenja, kótarež { -brand-shorter-name } pśidawaśo, w priwatnych woknach njefunkcioněruju, snaźkuli dowólujośo to w nastajenjach.
 appmenu-addon-private-browsing-learn-more = Zgóńśo, kak se nastajenja rozšyrjenjow zastojaju.
+    
 appmenu-new-tab-controlled =
     .label = Waš nowy rejtarik jo se změnił.
     .buttonlabel = Změny wobchowaś

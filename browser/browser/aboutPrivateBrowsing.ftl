@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Zgóńśo wěcej wó <a data-l10n-name="learn-more">Priwatny modus</a>.
 about-private-browsing-info-visited = woglědane boki
+
 privatebrowsingpage-open-private-window-label = Priwatne wokno wócyniś
     .accesskey = P
 about-private-browsing-info-notsaved = Jolic pśeglědujośo w priwatnem woknje, { -brand-short-name } <strong>njeskładujo</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Tuchylu njejsćo w priwatnem woknje.
 content-blocking-title = Blokěrowanje wopśimjeśa
 content-blocking-description = Někotare websedła wužywaju pśeslědowaki, kótarež wašu aktiwitu pśez internet wobglěduju. W priwatnych woknach blokěrowanje wopśimjeśa { -brand-short-name } awtomatiski wjele pśeslědowaki blokěrujo, kótarež mógu informacije wó wašom pśeglědowańskem zaźaržanju nagromaźiś.
 about-private-browsing-info-description = { -brand-short-name } wašu pytańsku a pśeglědowańsku historjiu wuproznijo, gaž nałoženje spušćijośo abo wšykne rejtariki a wokna priwatnego modus zacynijośo. Pšez to se wólažcyjo, pśed drugimi, kótarež toś to licadło wužywaju, schowaś, což online gótujośo, lěcrownož to was za websedła abo wašogo póbitowarja internetneje słužby njeanonymizěrujo.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Wobstarajśo se jo wót Google Play
 login-app-promo-apple =
     .alt = Ześěgniśo wót App Store
+
 login-filter =
     .placeholder = Pśizjawjenja pytaś
+
 create-login-button = Nowe pśizjawjenje załožyś
+
 fxaccounts-sign-in-text = Pśinjasćo swóje gronidła do wašych drugich rědow
 fxaccounts-sign-in-button = Pla { -sync-brand-short-name } pśizjawiś
 fxaccounts-avatar-button =
@@ -109,20 +112,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby skłaźone pśizjawjenje wobźěłał.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swójo pśizjawjenje wobźěłował. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = skłaźone pśizjawjenje wobźěłaś
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby skłaźone gronidło pokazał.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby se gronidło woglědał. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = skłaźone gronidło pokazaś
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Pśeglědajśo swóju identitu, aby skłaźone gronidło kopěrował.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Zapódajśo swóje pśizjawjeńske daty Windows, aby swójo gronidło kopěrował. To wěstotu wašych kontow šćita.
 # This message can be seen when attempting to copy a password in about:logins
@@ -159,9 +167,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Pśetergnuś
 confirmation-dialog-dismiss-button =
     .title = Pśetergnuś
+
 about-logins-confirm-remove-dialog-title = Toś to pśizjawjenje wótwónoźeś?
 confirm-delete-dialog-message = Toś ta akcija njedajo se anulěrowaś.
 about-logins-confirm-remove-dialog-confirm-button = Wótwónoźeś
+
 confirm-discard-changes-dialog-title = Njeskłaźone změny zachyśiś?
 confirm-discard-changes-dialog-message = Wšykne njeskłaźone změny se zgubiju.
 confirm-discard-changes-dialog-confirm-button = Zachyśiś
@@ -192,5 +202,6 @@ about-logins-vulnerable-alert-learn-more-link = Dalšne informacije
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Zapisk za { $loginTitle } z tym wužywaŕskim mjenim južo eksistěrujo. <a data-l10n-name="duplicate-link">K eksistěrujucemu zapiskoju?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Pśi wopyśe toś to gronidło składowaś, jo zmólka nastała.
