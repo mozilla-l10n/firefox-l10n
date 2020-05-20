@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "您被要求信任一個新憑證機構 (CA)。">
 <!ENTITY downloadCert.trustSSL "信任此憑證機構以識別網站。">
 <!ENTITY downloadCert.trustEmail "信任此憑證機構以識別郵件用戶。">
-<!ENTITY downloadCert.trustObjSign "信任此憑證機構以識別軟體製造商。">
 <!ENTITY downloadCert.message3 "在信任此憑證機構前，您應該確認它的憑證及政策程序（如果有的話）。">
 <!ENTITY downloadCert.viewCert.label "檢視">
 <!ENTITY downloadCert.viewCert.text "檢查憑證機構的憑證">

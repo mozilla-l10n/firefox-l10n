@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "插入新錨點或設定選取的錨點內容">
 <!ENTITY TextColorButton.tooltip "選擇文字色彩">
 <!ENTITY BackgroundColorButton.tooltip "選擇背景色彩">
-<!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
 <!ENTITY throbber.tooltip2 "前往 &brandShortName; 首頁">
 <!ENTITY HighlightColorButton.tooltip "選擇強調文字的色彩">
 

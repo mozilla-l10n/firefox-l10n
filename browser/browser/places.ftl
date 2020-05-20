@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = 用新隱私視窗開啟
     .accesskey = P
+
 places-new-bookmark =
     .label = 新增書籤…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = 新增分隔線
     .accesskey = S
+
 places-view =
     .label = 檢視
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = 依日期及網站
     .accesskey = t
+
 places-history-search =
     .placeholder = 搜尋紀錄
 places-bookmarks-search =
     .placeholder = 搜尋書籤
+
 places-delete-domain-data =
     .label = 刪除與此網站有關的記錄
     .accesskey = F

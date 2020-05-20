@@ -9,24 +9,12 @@ ok = 確定
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = DNS 後綴
 websockets = WebSockets
 refresh = 更新
 auto-refresh = 每三秒自動重新整理
 hostname = 主機名稱
 port = 埠號
 http2 = HTTP/2
-about-networking-title = 關於網路連線
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS 後綴
-about-networking-websockets = WebSockets
-about-networking-refresh = 更新
-about-networking-auto-refresh = 每三秒自動重新整理
-about-networking-hostname = 主機名稱
-about-networking-port = 埠號
-about-networking-http-version = HTTP 版本
 ssl = SSL
 active = 使用中
 idle = 閒置
@@ -69,8 +57,18 @@ rcwn-avg-long = 長平均
 rcwn-std-dev-long = 長標準差
 rcwn-cache-slow = 快取較慢數量
 rcwn-cache-not-slow = 快取較快數量
-networkid = 網路 ID
-networkid-id = 網路 ID
+
+about-networking-title = 關於網路連線
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS 後綴
+about-networking-websockets = WebSockets
+about-networking-refresh = 更新
+about-networking-auto-refresh = 每三秒自動重新整理
+about-networking-hostname = 主機名稱
+about-networking-port = 埠號
+about-networking-http-version = HTTP 版本
 about-networking-ssl = SSL
 about-networking-active = 使用中
 about-networking-idle = 閒置
@@ -118,8 +116,6 @@ about-networking-networkid-id = 網路 ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = 網路已連線
-networkid-statusKnown = 已知網路連線狀態
 about-networking-networkid-is-up = 網路已連線
 about-networking-networkid-status-known = 已知網路連線狀態
 

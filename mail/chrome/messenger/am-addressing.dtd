@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "寫信與通訊錄">
 <!ENTITY addressingGroupTitle.label "通訊錄">
 <!ENTITY addressingText.label      "尋找郵件地址時:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "編輯">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "以 HTML 格式編輯郵件">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "回信時自動引用原信內容">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "然後，">
-<!ENTITY then.accesskey                       "T">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "引用時，">
 <!ENTITY quoting.accesskey                    "q">

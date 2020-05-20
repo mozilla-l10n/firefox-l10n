@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "備存選項">
 <!ENTITY archiveGranularityPrefix.label "備存郵件時，把它們放到:">
 <!ENTITY archiveFlat.label "單一資料夾">

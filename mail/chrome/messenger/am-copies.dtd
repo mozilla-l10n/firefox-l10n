@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "備份與郵件匣">
 <!ENTITY sendingPrefix.label "寄送郵件時，">
 <!ENTITY fccMailFolder.label "複製一份到:">
