@@ -9,24 +9,12 @@ ok = 确定
 http = HTTP
 sockets = 套接字
 dns = DNS
-dnssuffix = DNS 后缀
 websockets = WebSocket
 refresh = 刷新
 auto-refresh = 每3秒自动刷新一次
 hostname = 主机名
 port = 端口
 http2 = HTTP/2
-about-networking-title = 关于网络连接
-about-networking-http = HTTP
-about-networking-sockets = 套接字
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS 后缀
-about-networking-websockets = WebSocket
-about-networking-refresh = 刷新
-about-networking-auto-refresh = 每3秒自动刷新一次
-about-networking-hostname = 主机名
-about-networking-port = 端口
-about-networking-http-version = HTTP 版本
 ssl = SSL
 active = 活动
 idle = 空闲
@@ -69,8 +57,18 @@ rcwn-avg-long = 长操作平均
 rcwn-std-dev-long = 长操作标准差
 rcwn-cache-slow = 缓存较慢次数
 rcwn-cache-not-slow = 缓存非慢次数
-networkid = 网络 ID
-networkid-id = 网络 ID
+
+about-networking-title = 关于网络连接
+about-networking-http = HTTP
+about-networking-sockets = 套接字
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS 后缀
+about-networking-websockets = WebSocket
+about-networking-refresh = 刷新
+about-networking-auto-refresh = 每3秒自动刷新一次
+about-networking-hostname = 主机名
+about-networking-port = 端口
+about-networking-http-version = HTTP 版本
 about-networking-ssl = SSL
 about-networking-active = 活动
 about-networking-idle = 空闲
@@ -118,8 +116,6 @@ about-networking-networkid-id = 网络 ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = 网络已连接
-networkid-statusKnown = 已知网络连接状态
 about-networking-networkid-is-up = 网络已连接
 about-networking-networkid-status-known = 已知网络连接状态
 

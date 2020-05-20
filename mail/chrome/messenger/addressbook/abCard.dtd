@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "生日：">
 <!ENTITY Birthday.accesskey             "B">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "月">
 <!ENTITY Day.placeholder                "日">
 <!ENTITY Year.placeholder               "年">
-<!ENTITY Or.value                       "或">
 <!ENTITY Age.label                      "年龄：">
 <!ENTITY Age.placeholder                "年龄">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "单位">
 <!ENTITY Work.accesskey                 "W">

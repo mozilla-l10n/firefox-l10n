@@ -4,6 +4,8 @@
 
 <!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "查找并替换">
 <!ENTITY findField.label "查找文本:">
 <!ENTITY findField.accesskey "n">

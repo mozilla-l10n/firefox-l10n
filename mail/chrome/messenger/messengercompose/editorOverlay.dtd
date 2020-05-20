@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "插入新的锚标或编辑选择的锚标特性">
 <!ENTITY TextColorButton.tooltip "为文本选择颜色">
 <!ENTITY BackgroundColorButton.tooltip "选择背景颜色">
-<!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY throbber.tooltip2 "前往 &brandShortName; 主页">
 <!ENTITY HighlightColorButton.tooltip "选择文本的加亮颜色">
 

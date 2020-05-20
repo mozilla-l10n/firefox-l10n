@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "下载/同步消息">
 <!ENTITY MsgSelect.label "脱机使用项">
 <!ENTITY MsgSyncDesc.label "如果您已选择了邮件夹或者新闻组供脱机使用，那么您可以现在进行下载/同步。或者，使用“选择”按钮来选择邮件夹或者新闻组供脱机使用。">

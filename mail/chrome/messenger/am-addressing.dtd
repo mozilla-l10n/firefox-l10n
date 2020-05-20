@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "编写 &amp; 地址簿">
 <!ENTITY addressingGroupTitle.label "地址查找">
 <!ENTITY addressingText.label      "查找地址时：">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "无">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "编写">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

@@ -8,6 +8,7 @@ password-quality-meter = 密码强度
 
 change-password-window =
     .title = 修改主密码
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = 安全设备: { $tokenName }

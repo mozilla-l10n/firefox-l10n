@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizeDialog2.title         "清除最近历史记录">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->

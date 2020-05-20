@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = 搜索
     .aria-label = 搜索
+
 newtab-search-box-search-the-web-text = 在网络上搜索
 newtab-search-box-search-the-web-input =
     .placeholder = 在网络上搜索
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = 编辑常用网站
 newtab-topsites-title-label = 标题
 newtab-topsites-title-input =
     .placeholder = 输入标题
+
 newtab-topsites-url-label = 网址
 newtab-topsites-url-input =
     .placeholder = 输入或粘贴网址
 newtab-topsites-url-validation = 需要有效的网址
+
 newtab-topsites-image-url-label = 自定义图像网址
 newtab-topsites-use-image-link = 使用自定义图像…
 newtab-topsites-image-validation = 图像载入失败。请尝试其他网址。
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = 此操作不能撤销。
 newtab-menu-section-tooltip =
     .title = 打开菜单
     .aria-label = 打开菜单
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = 移除
     .aria-label = 移除
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -128,6 +133,7 @@ newtab-label-removed-bookmark = 书签已移除
 newtab-label-recommended = 趋势
 newtab-label-saved = 已保存到 { -pocket-brand-name }
 newtab-label-download = 已下载
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -165,10 +171,12 @@ newtab-section-header-pocket = { $provider } 推荐
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = 开始网上冲浪之旅吧，之后这里会显示您最近看过或加了书签的精彩文章、视频与其他页面。
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = 所有文章都读完啦！晚点再来，{ $provider } 将推荐更多热门文章。等不及了？选择一个热门话题，找到更多网上的好文章。
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

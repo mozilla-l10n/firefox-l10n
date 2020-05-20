@@ -13,6 +13,7 @@ enable-common-message = Firefox 开发者工具默认已被禁用，以便您更
 enable-learn-more-link = 详细了解开发者工具
 enable-enable-button = 启用开发者工具
 enable-close-button = 关闭此标签页
+
 welcome-title = 欢迎使用 Firefox 开发者工具！
 newsletter-title = Mozilla 开发者新闻通讯
 newsletter-message = 获取开发者的新消息、技巧和资源，直接发到您的邮箱。
@@ -22,9 +23,11 @@ newsletter-privacy-label = 我同意 Mozilla 遵循 <a data-l10n-name="privacy-p
 newsletter-subscribe-button = 订阅
 newsletter-thanks-title = 谢谢！
 newsletter-thanks-message = 如果您以前没有成功订阅过 Mozilla 相关的新闻通讯，您可能需要检查收件箱乃至垃圾邮件箱来找到我们发给您的确认邮件。
+
 footer-title = Firefox 开发者版本
 footer-message = 开发者工具不够尽兴？探索专为开发者和现代工作流程打造的 Firefox 浏览器。
 footer-learn-more-link = 详细了解
+
 features-learn-more = 详细了解
 features-inspector-title = 查看器
 features-inspector-desc = 检测并调整代码，打造完美的布局。 <a data-l10n-name="learn-more">{ features-learn-more }</a>
