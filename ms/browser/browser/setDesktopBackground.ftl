@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = Tetapkan Latar belakang Desktop
+
 set-desktop-background-accept =
     .label = Tetapkan Latar belakang Desktop
+
 open-desktop-prefs =
     .label = Buka Keutamaan Desktop
+
 set-background-color = Warna:
+
 set-background-position = Kedudukan:
+
 set-background-tile =
     .label = Jubin
+
 set-background-center =
     .label = Tengah
+
 set-background-stretch =
     .label = Regang
+
 set-background-fill =
     .label = Isi
+
 set-background-fit =
     .label = Muat

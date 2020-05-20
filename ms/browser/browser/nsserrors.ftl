@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ada ralat semasa menyambung ke { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kod ralat: { $error }
+
 psmerr-ssl-disabled = Tidak dapat sambung dengan selamat kerana  protokol SSL telah dilumpuh.
 psmerr-ssl2-disabled = Tidak dapat sambung dengan selamat kerana laman tersebut menggunakan versi protokol SSL yang lama dan tidak selamat.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Anda menerima sijil yang tidak sah.  Sila hubungi pentadbir pelayan atau e-mel koresponden dan berikan mereka informasi berikut:
     
     Sijil anda mengandungi nombor siri seperti sijil lain yang dikeluarkan oleh autoriti persijilan.  Sila dapatkan sijil baru yang mengandungi nombor siri yang unik.
+
 ssl-error-export-only-server = Tidak dapat berkomunikasi secara selamat. Rakan tidak menyokong enkripsi gred tinggi.
 ssl-error-us-only-server = Tidak dapat berkomunikasi secara selamat. Rakan memerlukan enkripsi gred tinggi yang tidak disokong.
 ssl-error-no-cypher-overlap = Tidak dapat komunikasi yang selamat dengan rakan: tiada enkripsi algoritma yang sama.

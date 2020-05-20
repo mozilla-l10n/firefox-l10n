@@ -52,7 +52,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; tidak dapat menentukan samada kemaskini tersedia. Sila
                                            pastikan anda menggunakan versi terkini &brandShortName; dari:">
-
+                                           
 <!ENTITY  finishedPage.title              "Kemaskini Sedia Dipasang">
 <!ENTITY  finishedPage.text               "Kemaskini akan dipasang selepas &brandShortName; mula semula. Anda 
                                            boleh mula semula &brandShortName; sekarang, atau terus mengunakannya dan mula semula kemudian.">
@@ -68,6 +68,3 @@
                                            &brandShortName; sekarang, teruskan bekerja dan memulakan semula kemudian, atau menolak 
                                            pengemaskinian ini.">
 
-<!ENTITY  update.details.label            "Butiran">
-<!ENTITY  update.installedOn.label        "Dipasang pada:">
-<!ENTITY  update.status.label             "Status:">

@@ -8,6 +8,7 @@ password-quality-meter = Meter kualiti kata laluan
 
 change-password-window =
     .title = Tukar Katalaluan Induk
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Peranti Sekuriti: { $tokenName }

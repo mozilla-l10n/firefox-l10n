@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Karangan &amp; Alamat">
 <!ENTITY addressingGroupTitle.label "Alamat">
 <!ENTITY addressingText.label      "Apabila mencari alamat:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Karangan">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Karang mesej dalam format HTML">
 <!ENTITY useHtml.accesskey                    "K">
 <!ENTITY autoQuote.label                      "Petik mesej asal secara automatik apabila membalas">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Maka,">
-<!ENTITY then.accesskey                       "M">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Apabila memetik,">
 <!ENTITY quoting.accesskey                    "m">

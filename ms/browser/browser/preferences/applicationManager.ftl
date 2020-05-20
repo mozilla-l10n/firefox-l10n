@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Butiran aplikasi
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Buang
     .accesskey = B
-app-manager-handle-webfeeds = Aplikasi berikut boleh digunakan untuk mengendalikan Suapan Web.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Aplikasi berikut boleh digunakan untuk mengendalikan Pautan { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Aplikasi berikut boleh digunakan untuk mengendalikan Kandungan { $type }.

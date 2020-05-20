@@ -5,49 +5,61 @@
 permissions-window =
     .title = Pengecualian
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Alamat laman web
     .accesskey = l
+
 permissions-block =
     .label = Sekat
     .accesskey = a
+
 permissions-session =
     .label = Izinkan untuk Sesi
     .accesskey = S
+
 permissions-allow =
     .label = Izinkan
     .accesskey = A
+
 permissions-site-name =
     .label = Laman web
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Buang Laman Web
     .accesskey = B
+
 permissions-remove-all =
     .label = Buang Semua Laman Web
     .accesskey = u
+
 permissions-button-cancel =
     .label = Batal
     .accesskey = l
+
 permissions-button-ok =
     .label = Simpan Perubahan
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = Carian laman web
+
 permissions-capabilities-allow =
     .label = Izinkan
 permissions-capabilities-block =
     .label = Sekat
 permissions-capabilities-prompt =
     .label = Sentiasa Tanya
+
 permissions-capabilities-listitem-allow =
     .value = Izinkan
 permissions-capabilities-listitem-block =
     .value = Sekat
-permissions-capabilities-listitem-allow-first-party =
-    .value = Izinkan pihak pertama sahaja
 permissions-capabilities-listitem-allow-session =
     .value = Izinkan untuk Sesi
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = Sila masukkan nama hos yang sah
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Pengecualian - Perlindungan Penjejakan
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Anda telah dinyahdayakan Perlindungan Penjejakan di laman web ini.
 permissions-exceptions-content-blocking-window =
     .title = Pengecualian - Sekatan Kandungan
     .style = { permissions-window.style }
@@ -102,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Anda boleh tentukan laman web yang sentiasa atau tidak diizinkan automain media dengan suara. Taip alamat laman web yang anda mahu uruskan dan kemudian klik Sekat atau Izinkan.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +131,8 @@ permissions-site-location-desc = Laman web berikut telah meminta akses lokasi an
 permissions-site-location-disable-label =
     .label = Sekat permintaan baru yang meminta akses lokasi
 permissions-site-location-disable-desc = Ini akan menghalang mana-mana laman web yang tidak disenaraikan di atas daripada meminta izin untuk mengakses lokasi. Menyekat notifikasi boleh memecahkan beberapa ciri laman web.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

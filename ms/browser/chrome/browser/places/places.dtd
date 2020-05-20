@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "Pemisah Baru">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Muat semula Live Bookmark">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "v">
-
 <!ENTITY col.name.label          "Nama">
 <!ENTITY col.tags.label          "Tag">
 <!ENTITY col.url.label           "Lokasi">

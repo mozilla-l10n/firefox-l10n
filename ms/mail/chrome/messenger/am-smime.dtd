@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Dikehendaki (tidak boleh menghantar mesej kecuali semua penerima ada sijil)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Guna sijil ini untuk enkripsi &amp; dekripsi mesej yang dihantar kepada anda:">
+
 <!ENTITY digitalSign.certificate.button "Pilih…">
 <!ENTITY digitalSign.certificate.accesskey "P">
 <!ENTITY digitalSign.certificate_clear.button "Buang">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Pilih Sijil">
 <!ENTITY certPicker.info  "Sijil:">
 <!ENTITY certPicker.detailsLabel "Butiran sijil yang dipilih:">
+

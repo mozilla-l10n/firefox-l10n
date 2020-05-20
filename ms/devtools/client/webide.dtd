@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Buka App">
+
 <!ENTITY runtimeButton_label "Pilih Runtime">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "Peranti USB">
 <!ENTITY runtimePanel_wifi "Peranti Wi-Fi">
 <!ENTITY runtimePanel_other "Lain-lain">
-<!ENTITY runtimePanel_noadbhelper "Pasangkan Pembantu ADB">
 <!ENTITY runtimePanel_nousbdevice "Tidak nampak peranti anda?">
 <!ENTITY runtimePanel_refreshDevices_label "Muat Semula Peranti">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Maklumat Runtime">
-<!ENTITY runtimedetails_adbIsRoot "ADB ialah root: ">
-<!ENTITY runtimedetails_summonADBRoot "root peranti">
-<!ENTITY runtimedetails_ADBRootWarning "(perlukan bootloader yang tidak berkunci)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Keistemewaan DevTools tanpa had: ">
-<!ENTITY runtimedetails_requestPrivileges "meminta keistimewaan yang lebih tinggi">
-<!ENTITY runtimedetails_privilegesWarning "(Akan but semula peranti. Memerlukan akses root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">

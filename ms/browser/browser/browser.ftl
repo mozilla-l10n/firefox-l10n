@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Papar maklumat laman
 
@@ -75,10 +76,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit tandabuku ini ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -110,6 +113,7 @@ search-one-offs-change-settings-button =
     .label = Ubah Tetapan Carian
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah tetapan carian
+
 search-one-offs-context-open-new-tab =
     .label = Cari dalam Tab Baru
     .accesskey = T
@@ -122,8 +126,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Papar editor apabila menyimpan
     .accesskey = P
+
 bookmark-panel-done-button =
     .label = Siap
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -198,9 +204,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Pelayar berada dalam kawalan jauh
 urlbar-switch-to-tab =
     .value = Tukar ke tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
+
 urlbar-go-button =
     .tooltiptext = Pergi ke alamat dalam Bar Lokasi
 urlbar-page-action-button =

@@ -13,6 +13,7 @@ enable-common-message = Alatan Pembangun Firefox dinyahdayakan secara piawai unt
 enable-learn-more-link = Ketahui selanjutnya perihal Alatan Pembangun
 enable-enable-button = Dayakan Alatan Pembangun
 enable-close-button = Tutup Tab ini
+
 welcome-title = Selamat datang ke Alatan Pembangun Firefox!
 newsletter-title = Surat Berita Pembangun Mozilla
 newsletter-message = Dapatkan berita. helah dan sumber yang dihantar terus ke peti masuk anda.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Saya setuju Mozilla mengendalikan maklumat saya seper
 newsletter-subscribe-button = Langgan
 newsletter-thanks-title = Terima kasih!
 newsletter-thanks-message = Jika anda belum pernah mengesahkan langganan surat berita yang berkaitan dengan Mozilla, anda mungkin perlu untuk berbuat demikian. Sila semak peti masuk anda atau penapis spam anda untuk dapatkan e-mel daripada kami.
+
 footer-title = Firefox Developer Edition
 footer-message = Mencari sesuatu yang lebih daripada sekadar Alatan Pembangun? Semak pelayar Firefox yang dibina khusus untuk aliran kerja pembangun dan moden.
 footer-learn-more-link = Ketahui selanjutnya
+
 features-learn-more = Ketahui selanjutnya
 features-inspector-title = Pemeriksa
 features-inspector-desc = Periksa dan perhalusi kod untuk membina susun atur pixel yang sempurna. <a data-l10n-name="learn-more">{ features-learn-more }</a>

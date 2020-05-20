@@ -13,20 +13,4 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "P">
 <!ENTITY helpSafeMode.label     "Mula semula dengan Add-ons Dinyahdayakan…">
 <!ENTITY helpSafeMode.accesskey "M">
-<!ENTITY releaseCmd2.label "Nota Keluaran">
-<!ENTITY releaseCmd2.accesskey "N">
-<!ENTITY whatsNewCmd.label "Yang Terbaru">
-<!ENTITY whatsNewCmd.accesskey "Y">
-<!ENTITY openHelp.label "Kandungan Bantuan">
-<!ENTITY openHelp.accesskey "B">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Bantuan &brandShortName;">
-<!ENTITY openHelpMac2.label "Bantuan &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd.label "Perihal &brandShortName;">
-<!ENTITY aboutMenuCmd.accesskey "P">
-
-<!ENTITY aboutMenuCmd2.label "Perihal &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "P">

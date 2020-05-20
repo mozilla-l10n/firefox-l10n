@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Tutup
     .accesskey = u
+
 show-passwords =
     .label = Papar Kata laluan
     .accesskey = P

@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Sisip nama labuh baru atau edit sifat labuh dipilih">
 <!ENTITY TextColorButton.tooltip "Pilih warna teks">
 <!ENTITY BackgroundColorButton.tooltip "Pilih warna latar belakang">
-<!ENTITY throbber.tooltip "Pergi ke laman &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Pilih warna serlahan teks">
 
 <!-- Editor toolbar -->

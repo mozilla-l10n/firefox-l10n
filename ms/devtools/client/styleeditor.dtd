@@ -15,6 +15,7 @@
 <!ENTITY newButton.accesskey        "B">
 
 <!ENTITY importButton.label         "Import…">
+
 <!ENTITY importButton.tooltip       "Mengimport dan melampirkan lembaran gaya yang sedia ada kepada dokumen itu">
 <!ENTITY importButton.accesskey     "I">
 
@@ -25,22 +26,6 @@
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      "Pilihan Editor Gaya">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
-     menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.label     "Papar sumber asal">
-
-<!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
-     the menu item to toggle showing original sources in the editor. -->
-<!ENTITY showOriginalSources.accesskey  "P">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
-     menu item to toggle showing @media rule shortcuts in a sidebar. -->
-<!ENTITY showMediaSidebar.label     "Papar @media sidebar">
-
-<!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
-     the menu item to toggle showing the @media sidebar. -->
-<!ENTITY showMediaSidebar.accesskey     "m">
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
