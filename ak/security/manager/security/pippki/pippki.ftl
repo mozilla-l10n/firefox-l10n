@@ -8,6 +8,7 @@ password-quality-meter = Ehintasɛmfua anoɔden esusufo
 
 change-password-window =
     .title = Sesa Ehintasɛmfua Panin
+
 change-password-new = Akasumulizo akapya:
 change-password-reenter = Akasumulizo akapya (nddamu):
 

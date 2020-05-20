@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Mbukmaak
+
 sidebar-menu-history =
     .label = Abakɔsɛm
+

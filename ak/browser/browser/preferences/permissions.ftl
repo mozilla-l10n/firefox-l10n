@@ -4,30 +4,35 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Blɔk
     .accesskey = B
+
 permissions-session =
     .label = Ma ho kwan wɔ sɛhyɛn yi mu
     .accesskey = s
+
 permissions-allow =
     .label = Ma kwan
     .accesskey = a
+
 permissions-status =
     .label = Tebea
+
 permissions-button-cancel =
     .label = Twa-mu
     .accesskey = w
+
 permissions-capabilities-allow =
     .label = Ma kwan
 permissions-capabilities-block =
     .label = Blɔk
+
 permissions-capabilities-listitem-allow =
     .value = Ma kwan
 permissions-capabilities-listitem-block =
     .value = Blɔk
-permissions-capabilities-listitem-allow-first-party =
-    .value = Ma nkanfo nkoaa ho kwan
 permissions-capabilities-listitem-allow-session =
     .value = Ma sɛhyen ho kwan
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = Wobetumi apaw awɛb saet a wɔwɔ kwan sɛ 
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Twɛn
 pictureinpicture-play =
     .aria-label = Bɔ
+
 pictureinpicture-mute =
     .aria-label = Dinn
 pictureinpicture-unmute =
     .aria-label = Gyae-dinn
+

@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Paw No Nyinara">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Hu">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "H">

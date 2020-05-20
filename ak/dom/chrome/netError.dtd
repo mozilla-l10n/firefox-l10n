@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Krataafa Enntumi Ammba Ɛnam Mfomso Bi">
 <!ENTITY retry.label "San Sɔ Hwɛ">
+
 <!-- Specific error messages -->
 
 
@@ -83,3 +84,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

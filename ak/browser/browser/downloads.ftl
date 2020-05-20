@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Toa so
     .accesskey = s
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Bue Folda a ɛwɔ Mu
     .accesskey = F
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Kyerɛ wɔ hwehwɛfo mu
     .accesskey = h
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Kyerɛ wɔ hwehwɛfo mu
            *[other] Bue Folda a ɛwɔ Mu
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] Kyerɛ wɔ hwehwɛfo mu
            *[other] Bue Folda a ɛwɔ Mu
         }
+
 downloads-cmd-retry =
     .tooltiptext = San-sɔ-hwɛ
 downloads-cmd-retry-panel =
@@ -61,16 +66,20 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Pepa Ntwe
     .accesskey = N
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Kyerɛ Atweatwe Nyinaa
     .accesskey = K
+
 downloads-clear-downloads-button =
     .label = Pepa Ntwe
     .tooltiptext = Ewie apepa, atwa na egyae ntwe mu
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Atwe biara nni hɔ.
+

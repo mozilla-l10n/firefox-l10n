@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -17,17 +18,8 @@
 
 <!ENTITY appmenu.tooltip                     "Bue mɛnu">
 <!ENTITY navbarOverflow.label                "Ntuul bio a wɔka ho…">
+
 <!-- Tab context menu -->
-
-<!ENTITY  reloadTab.label                    "San Lood Tab Yi">
-<!ENTITY  reloadTab.accesskey                "S">
-
-
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "To ntab mu firi nyifa">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
 
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -45,15 +37,6 @@ can reach it easily. -->
 
 
 
-
-<!ENTITY  moveToNewWindow.label              "Soa-kɔ tokura foforo so">
-<!ENTITY  moveToNewWindow.accesskey          "f">
-
-
-
-
-<!ENTITY  closeTab.label                     "To Tab No Mu">
-<!ENTITY  closeTab.accesskey                 "o">
 
 <!ENTITY  listAllTabs.label      "Kyerɛ ntab nyinara">
 
@@ -93,6 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Krataafa Ne Firii">
 <!ENTITY pageSourceCmd.accesskey "r">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Krataafa Ho Info">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
@@ -104,6 +88,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "t">
 <!ENTITY exitFullScreenCmd.label "Pue firi skreen tɛtrɛtɛɛ mood mu">
 <!ENTITY exitFullScreenCmd.accesskey "t">
+
 <!ENTITY fullScreenCmd.label "Skreen Tɛtrɛtɛɛ">
 <!ENTITY fullScreenCmd.accesskey "t">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -130,7 +115,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -159,8 +144,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 
-<!ENTITY subscribeToPageMenuitem.label "Kyerɛw Wo Din Ka Krataafa Yi Ho…">
 <!ENTITY addCurPagesCmd.label "Bukmaake Ntab Nyinara…">
+
 <!ENTITY showAllBookmarks2.label "Kyerɛ mbukmaake nyinara">
 
 
@@ -179,7 +164,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu">
+
 <!ENTITY printButton.label            "Prente">
 <!ENTITY printButton.tooltip          "Prente krataafa yi">
 
@@ -210,12 +197,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+
 <!ENTITY homeButton.label             "Fie">
 
 <!ENTITY bookmarksButton.label          "Mbukmaak">
 <!ENTITY bookmarksCmd.commandkey "b">
-
-<!ENTITY bookmarksMenuButton.label          "Mbukmaak">
 
 
 <!ENTITY viewBookmarksSidebar2.label        "Hwɛ saedbaa a wɔde sie mbukmaak">
@@ -306,6 +292,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "t">
 <!ENTITY viewSidebarMenu.label "Nkyɛn-baa">
 <!ENTITY viewSidebarMenu.accesskey "y">
+
 <!ENTITY viewCustomizeToolbar.label       "Kɔstɔmaez…">
 <!ENTITY viewCustomizeToolbar.accesskey     "K">
 
@@ -321,18 +308,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Kyerɛ abakɔsɛm nyinara">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "Kɔstɔmaez">
-<!ENTITY appMenuCustomize.tooltip "Hyehyɛ mɛnu ne ntuulbaa te sɛ nea wo pɛ">
-<!ENTITY appMenuCustomizeExit.label "Pue firi kɔstɔmaez tebea mu">
-<!ENTITY appMenuCustomizeExit.tooltip "Wie sɛ wo rehyehyɛ nea wo pɛ">
-<!ENTITY appMenuHistory.label "Abakɔsɛm">
 <!ENTITY appMenuHistory.showAll.label "Kyerɛ abakɔsɛm nyinara">
 <!ENTITY appMenuHistory.clearRecent.label "Pepa ndansa-yi-ara n'abakɔsɛm…">
 <!ENTITY appMenuHistory.restoreSession.label "Fa sɛhyɛn dadaw no san bra.">
 <!ENTITY appMenuHistory.viewSidebar.label "Hwɛ abakɔsɛm saedbaa">
 
-
-<!ENTITY appMenuHelp.tooltip "Bue mboa mɛnu">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -356,31 +336,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Fa ka tuulbaa no ho">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Fa ka mɛnu no ho">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
 
-<!ENTITY customizeMenu.moveToToolbar.label "Ma so kɔ tuulbaa no so">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "s">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Ma so kɔ mɛnu no so">
-<!ENTITY customizeMenu.moveToPanel.accesskey "s">
-
 
 
 
 <!ENTITY customizeMenu.removeFromToolbar.label "Yi firi tuulbaa">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Y">
-<!ENTITY customizeMenu.removeFromMenu.label "Yi firi mɛnu no mu">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "Y">
 <!ENTITY customizeMenu.addMoreItems.label "Fa ndeɛma bio ka ho…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -388,16 +354,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Hwehwɛ anaaso kyerɛw adrɛs">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Swekye kɔ tab:">
 
 
-
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Daabi">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Yiw">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
@@ -461,6 +424,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY openLinkCmdInTab.label       "Bue Link wɔ Tab Foforo mu">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "Bue link wɔ tokura foforo mu">
 <!ENTITY openLinkCmd.accesskey        "k">
@@ -480,7 +444,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "San Lood Frem">
 <!ENTITY reloadFrameCmd.accesskey     "S">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Hwɛ Mpawee ne Fibea">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Hwɛ MathML Fibea">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -557,6 +520,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Frem Yi">
 <!ENTITY thisFrameMenu.accesskey          "Y">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
@@ -607,6 +571,7 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Suma statistiks">
 <!ENTITY videoHideStats.accesskey    "t">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
@@ -633,6 +598,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Zuum Nkyerɛwee Nko Ara">
 <!ENTITY fullZoomToggleCmd.accesskey    "N">
+
 <!ENTITY fullZoom.label                 "Zuum">
 <!ENTITY fullZoom.accesskey             "Z">
 
@@ -660,8 +626,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStyleNoStyle.accesskey "N">
 <!ENTITY pageStylePersistentOnly.label "Krataafa ne Stael Mfitiase">
 <!ENTITY pageStylePersistentOnly.accesskey "f">
-
-<!ENTITY pageReportIcon.tooltip            "Sesa mpɔpap nhyehyɛe ma wɛbsaet yi">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -727,6 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
+
 <!ENTITY tabsToolbar.label "Brawsa ntab">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
@@ -767,16 +732,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY syncToolbarButton.label      "Synk">
-
-<!ENTITY customizeMode.menuAndToolbars.empty "Wo pɛ ntuul bio?">
-<!ENTITY customizeMode.menuAndToolbars.emptyLink "Paw firi nkaho mpem mpem mu">
-<!ENTITY customizeMode.restoreDefaults "Siesie kɔ kane">
-
-<!ENTITY customizeMode.titlebar "Tisɛm baa">
-
-<!ENTITY customizeMode.lwthemes "Ntiim">
-
-<!ENTITY customizeMode.lwthemes.recommended "Edi adanse">
 
 
 
@@ -821,11 +776,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.message "Rehwɛ">
-
-
-
-
 
 
 
@@ -835,9 +785,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "K">
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
-<!ENTITY pluginActivateNow.label "Ma ho kwan seiseira">
-<!ENTITY pluginActivateAlways.label "Ma ho kwan na kae">
-<!ENTITY pluginBlockNow.label "Siw plagin ano kwan">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
@@ -846,9 +793,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.width "28em">
 
+
 <!ENTITY uiTour.infoPanel.close "To-mu">
 
-<!ENTITY appMenuSidebars.label         "Nsaedbaa">
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
@@ -859,12 +806,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
-
-
-
-
-<!ENTITY panicButton.view.undoWarning             "Wɔrenntumi nnsane wo ekyiri sɛ wo kɔ so di dwumadi yi a.">
 
 
 

@@ -26,6 +26,7 @@ import =
 close-button =
     .label = Ka tum
     .accesskey = K
+
 remove-all-passwords-prompt = Wo gye di sɛ wo pɛ sɛ wo yi wo ehintasɛmfua?
 remove-all-passwords-title = Yi ehintasɛmfua nyinara
 no-master-password-prompt = Wo gye di sɛ wo pɛ sɛ wo kyerɛ wo ehintasɛmfua?

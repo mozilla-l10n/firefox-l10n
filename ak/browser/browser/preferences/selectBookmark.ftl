@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Hyɛ anim-anim kratafa
     .style = width: 32em;
+
 select-bookmark-desc = Paw bukmaake de yɛ wo fie kratafa. Sɛ wo paw folda a, bukmaake a wɔwɔ folda no mu bebue wɔ atab mo.

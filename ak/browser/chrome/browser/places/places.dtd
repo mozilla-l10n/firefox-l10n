@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Akyɛmude Foforo">
 <!ENTITY cmd.new_separator.accesskey       "k">
 
-<!ENTITY cmd.reloadLivebookmark.label      "San-loode Bukmaak Laev">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "S">
-
-<!ENTITY cmd.moveBookmarks.label                  "Soa-kɔ…">
-<!ENTITY cmd.moveBookmarks.accesskey              "S">
-
 <!ENTITY col.name.label          "Din">
 <!ENTITY col.tags.label          "Ntag">
 <!ENTITY col.url.label           "Lokehyɛn">
 
 <!ENTITY col.visitcount.label    "Nsrahwɛ no Dodow">
-<!ENTITY col.description.label   "Nkyerɛmu">
 <!ENTITY col.dateadded.label     "Aka-ho">
 <!ENTITY col.lastmodified.label  "Nsesae a Etwa To">
 
@@ -96,10 +89,6 @@
 
 <!ENTITY forwardButton.tooltip  "Kɔ enim">
 
-<!ENTITY detailsPane.more.label "Bio ka ho">
-<!ENTITY detailsPane.more.accesskey "o">
-<!ENTITY detailsPane.less.label "Kyerɛ ketewa">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Fa aetɛm, hwɛ na sesa ne ho nsɛm">
 
 <!ENTITY view.label               "Hwɛ">

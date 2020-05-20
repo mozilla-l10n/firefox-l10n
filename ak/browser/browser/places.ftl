@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Bue wɔ Tokuro Foforo mu
     .accesskey = o
+
 places-new-bookmark =
     .label = Bukmaak Foforo…
     .accesskey = B
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Akyɛmude Foforo
     .accesskey = k
+
 places-view =
     .label = Hwɛ
     .accesskey = w
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Fa Afeda ne Saet
     .accesskey = d
+
 places-delete-domain-data =
     .label = Ma Wo Were Mfiri Saet Yi
     .accesskey = f

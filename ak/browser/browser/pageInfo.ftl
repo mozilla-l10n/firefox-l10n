@@ -7,11 +7,13 @@ copy =
 menu-copy =
     .label = Fa
     .accesskey = F
+
 select-all =
     .key = A
 menu-select-all =
     .label = Fa no nyinara
     .accesskey = a
+
 general-tab =
     .label = Gyɛnɛral
     .accesskey = G
@@ -31,6 +33,7 @@ general-meta-name =
     .label = Din
 general-meta-content =
     .label = Mu nsɛm
+
 media-tab =
     .label = Midea
     .accesskey = M
@@ -60,11 +63,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Midea priviw:
+
 perm-tab =
     .label = Akwanya
     .accesskey = P
 permissions-for =
     .value = akwanya ma:
+
 security-tab =
     .label = Banbɔ
     .accesskey = S
@@ -81,13 +86,17 @@ security-view-identity-domain =
     .value = Wɛbsaet:
 security-view-identity-verifier =
     .value = Eyi agye ato mu:
+
 security-view-privacy-history-value = M'asra wɛbsaet yi da anaa?
+
 security-view-privacy-passwords-value = M'asie ehintansɛmfua bi ama wɛbsaet yi anaa?
+
 security-view-privacy-viewpasswords =
     .label = Hwɛ ehintansɛmfua a m'asie
     .accesskey = w
 security-view-technical =
     .value = nhunumu a edi akotene
+
 help-button =
     .label = Mboa
 
@@ -116,6 +125,7 @@ media-video = Video
 media-audio = Ɔdio
 saved-passwords-yes = Yiw
 saved-passwords-no = Daabi
+
 no-page-title =
     .value = Krataafa Nni Ti-asɛm:
 general-quirks-mode =
@@ -131,12 +141,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Fa difɔlt di dwuma
 security-no-visits = Daabi
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } Mfonin
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -146,17 +158,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (eskele kɔ { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -164,6 +179,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Siw Mfonin firi { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

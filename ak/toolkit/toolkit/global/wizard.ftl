@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < ekyiri
     .accesskey = e
+
 wizard-macos-button-next =
     .label = Toa so
     .accesskey = s
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = ndiso>
     .accesskey = n
+
 wizard-macos-button-finish =
     .label = Ewie
 wizard-linux-button-finish =
     .label = Wie
 wizard-win-button-finish =
     .label = wie
+
 wizard-macos-button-cancel =
     .label = Twa-mu
 wizard-linux-button-cancel =

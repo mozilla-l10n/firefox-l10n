@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Aplekehyɛn ho nsɛm
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Yi
     .accesskey = Y
-app-manager-handle-webfeeds = Wɔbetumi de aplekehyɛn yinom ebue Mfiid ma Wɛb.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Wɔbetumi de aplekehyɛn yinom ebue { $type } alink.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Wɔbetumi de aplekehyɛn yinom ebue Kɔntɛnt { $type }.

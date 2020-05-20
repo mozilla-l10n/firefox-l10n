@@ -4,3 +4,4 @@
 
 privatebrowsingpage-open-private-window-label = Bue Tokuro Praevet
     .accesskey = T
+

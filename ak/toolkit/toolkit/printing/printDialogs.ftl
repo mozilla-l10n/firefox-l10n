@@ -94,6 +94,7 @@ print-window =
     .title = Ɛretintim
 print-complete =
     .value = Aprente ewie.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

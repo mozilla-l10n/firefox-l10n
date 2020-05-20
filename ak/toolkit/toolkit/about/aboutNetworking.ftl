@@ -4,3 +4,7 @@
 
 show-next-time-checkbox = Kyerɛ saa kɔkɛbɔ yi abere a edi so
 ok = OK
+
+## Link is intended as "network link"
+
+##

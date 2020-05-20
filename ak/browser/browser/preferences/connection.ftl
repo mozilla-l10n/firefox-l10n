@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Prɔksi biara nni hɔ
     .accesskey = b
@@ -13,16 +14,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Hunu saa nɛtwɛk yi prɔksi nhyehyɛe otomatikmu
     .accesskey = w
+
 connection-proxy-http-share =
     .label = Fa saa prɔksi somfo yi yɛ protokɔl nyinara ho edwuma
     .accesskey = k
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Mfatoho: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = San bue
     .accesskey = u
+

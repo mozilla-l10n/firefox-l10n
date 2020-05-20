@@ -4,111 +4,132 @@
 
 certmgr-title =
     .title = Abodin krata Sohwɛfo
+
 certmgr-tab-mine =
     .label = W'abodin Nkrataa
+
 certmgr-tab-people =
     .label = Nnipa
+
 certmgr-tab-servers =
     .label = Somfo mfidie
+
 certmgr-tab-ca =
     .label = Aban
+
 certmgr-detail-general-tab-title =
     .label = Gyɛnɛral
     .accesskey = G
+
 certmgr-detail-pretty-print-tab-title =
     .label = Nhunumu
     .accesskey = h
+
 certmgr-pending-label =
     .value = Ɛregye abodin krataa no ato mu…
-certmgr-subject-info-label =
-    .value = Yi Maa
-certmgr-issuer-info-label =
-    .value = Ne Oyii yɛ
-certmgr-fingerprints-label =
-    .value = Nsateatim
+
 certmgr-subject-label = Yi Maa
+
 certmgr-issuer-label = Ne Oyii yɛ
+
 certmgr-fingerprints = Nsateatim
+
 certmgr-cert-detail =
     .title = Abodin krataa Nhunumu
     .buttonlabelaccept = To-mu
     .buttonaccesskeyaccept = T
-certmgr-cert-detail-cn =
-    .value = Din Hunu (DH)
-certmgr-cert-detail-o =
-    .value = Adwumakuw (A)
-certmgr-cert-detail-ou =
-    .value = Adwumakuw Yunit (AY)
-certmgr-cert-detail-serialnumber =
-    .value = Mma Nnidisoɔ
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 Nsateatim
+
 certmgr-cert-detail-commonname = Din Hunu (DH)
+
 certmgr-cert-detail-org = Adwumakuw (A)
+
 certmgr-cert-detail-orgunit = Adwumakuw Yunit (AY)
+
 certmgr-cert-detail-serial-number = Mma Nnidisoɔ
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 Nsateatim
+
 certmgr-edit-ca-cert =
     .title = Sesa CA abodin krataa agyedi nhyehyɛe
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Sesa agyedi nhyehyɛe:
+
 certmgr-edit-cert-trust-email =
     .label = Saa abodin krataa yi betumi akyerɛ emel dwumadifo.
+
 certmgr-delete-cert =
     .title = Diliite Abodin krataa
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Abodin krataa Din
+
 certmgr-cert-server =
     .label = Somfofidie
+
 certmgr-override-lifetime =
     .label = Nkwa Nda
+
 certmgr-token-name =
     .label = Bambɔ Efidie
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Expires On
+
 certmgr-expires-label =
     .label = Expires On
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Emel adrɛs
+
 certmgr-view =
     .label = Hwɛ…
     .accesskey = H
+
 certmgr-delete =
     .label = Pepa…
     .accesskey = P
+
 certmgr-backup =
     .label = Sie-bio…
     .accesskey = S
+
 certmgr-backup-all =
     .label = Jjamu copi otteereke ya zona…
     .accesskey = m
+
 certmgr-restore =
     .label = Impɔɔt…
     .accesskey = I
+
 certmgr-details =
     .value = Ebbifuu bye santifikate
     .accesskey = E
+
 certmgr-fields =
     .value = Omuweddo gwe kifuu
     .accesskey = O
+
 certmgr-add-exception =
     .label = Ggataa Okundawo…
     .accesskey = k
+
 exception-mgr =
     .title = Ggataa Ebyokwerida Okundawo
+
 exception-mgr-extra-button =
     .label = Foa sekuriti ngyegye so
     .accesskey = F
+
 exception-mgr-supplemental-warning = Zabaki, amateerekero, ne wakale awalala awakumee tteewa kusaba kukola kino.
+
 exception-mgr-cert-location-url =
     .value = Lokehyɛn:
+
 exception-mgr-permanent =
     .label = Ekyekalakalira tteereka okundawo kino
     .accesskey = E
+
 pk11-bad-password = The password entered was incorrect.
 pkcs12-decode-err = Failed to decode the file.  Either it is not in PKCS #12 format, has been corrupted, or the password you entered was incorrect.
 pkcs12-unknown-err-restore = Failed to restore the PKCS #12 file for unknown reasons.
@@ -139,10 +160,14 @@ edit-trust-ca = Santifikati "{ $certName }" ye mubakka wo bunyiza bwa Santifikat
 delete-user-cert-title =
     .title = Sangula Santifikati zo
 delete-user-cert-impact = Bwosangula emu ku santifikati zo, tojjakunddamu kujjikozesako kwogerako.
+
+
 delete-ssl-cert-title =
     .title = Sangula Santifikati Ezijako Kompyuta efunga zinazo
 delete-ssl-cert-confirm = Okakasa oyagala ku sangula kompyuta ezifunga zinazo zino ebijawo?
 delete-ssl-cert-impact = Bwo sangula kompyuta efunga zinazo ebijawo, onddiza obwekumi obubaddeko ebikebera kulwa kompyuta efunga zinazo ne kyittaga ekozesa ya santifikati etegerekekwa.
+
+
 delete-email-cert-title =
     .title = Sangula Satifikati ya i-mayilu
 delete-email-cert-confirm = Okakasa oyagala ku sangula santifikati i-mayilu za bantu bano?
@@ -152,19 +177,26 @@ delete-email-cert-impact = Bwosangula satifikati ya i-mayilu yo muntu, ojjakuba 
 
 not-present =
     .value = <Sikitundu ku Satifikati>
+
 # Cert verification
 cert-verified = Satifikate eno ekirizirwa ku enkola endirira:
+
 # Add usage
 verify-ssl-client =
     .value = SSL klaent abodin krataa
+
 verify-ssl-server =
     .value = SSL Somfo abɔdin krataa
+
 verify-ssl-ca =
     .value = SSL abodin krataa tumi
+
 verify-email-signer =
     .value = E-mel tumikyerɛni abodin krataa
+
 verify-email-recip =
     .value = E-mel gyefo abodin krataa
+
 # Cert verification
 cert-not-verified-cert-revoked = Ttenyiza ku kiriza satifikati eno kubaga ebandde ekozesibwa.
 cert-not-verified-cert-expired = Ttenyiza ku kiriza satifikati eno kubaga kibandde enanku ziwendeko.
