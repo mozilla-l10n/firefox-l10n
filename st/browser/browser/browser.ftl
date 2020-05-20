@@ -45,5 +45,5 @@ browser-window-close-button =
 
 ## URL Bar
 
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar
