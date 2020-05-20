@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Cuir grad-theachdaireachd no dèan cabadaich">
 <!ENTITY deleteButton2.tooltip                          "Sguab às an rud a thagh thu">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Leabhraichean nan seòladh">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Ainm no post-dealain">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">

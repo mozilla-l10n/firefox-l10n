@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Sgaradair ùr">
 <!ENTITY cmd.new_separator.accesskey       "r">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Ath-luchdaich comharra-lìn beò">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-
-<!ENTITY cmd.moveBookmarks.label                  "Gluais…">
-<!ENTITY cmd.moveBookmarks.accesskey              "G">
-
 <!ENTITY col.name.label          "Ainm">
 <!ENTITY col.tags.label          "Tagaichean">
 <!ENTITY col.url.label           "Àite">
 <!ENTITY col.mostrecentvisit.label "An tadhail as ùire">
 <!ENTITY col.visitcount.label    "Uiread nan tadhal">
-<!ENTITY col.description.label   "Tuairisgeul">
 <!ENTITY col.dateadded.label     "Air a chruthachadh">
 <!ENTITY col.lastmodified.label  "Atharrachadh mu dheireadh">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Air adhart">
 
-<!ENTITY detailsPane.more.label "Barrachd">
-<!ENTITY detailsPane.more.accesskey "B">
-<!ENTITY detailsPane.less.label "Nas lugha">
-<!ENTITY detailsPane.less.accesskey "N">
 <!ENTITY detailsPane.selectAnItemText.description "Tagh rud gus fheartan fhaicinn agus an deasachadh">
 
 <!ENTITY view.label               "Seall">

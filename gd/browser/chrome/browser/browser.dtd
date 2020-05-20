@@ -103,6 +103,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "D">
 <!ENTITY exitFullScreenCmd.label "Fàg an làn-sgrìn">
 <!ENTITY exitFullScreenCmd.accesskey "l">
+
 <!ENTITY fullScreenCmd.label "Làn-sgrìn">
 <!ENTITY fullScreenCmd.accesskey "L">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -144,6 +145,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Chlàraich thu a-steach mar">
 <!ENTITY fxa.menu.manageAccount.label "Stiùirich an cunntas…">
 <!ENTITY fxa.menu.syncSettings.label "Roghainnean &syncBrand.shortName.label;…">
+
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Ceangail uidheam eile ris…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -213,7 +215,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Sguir dheth">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh">
+
 <!ENTITY printButton.label            "Clò-bhuail">
 <!ENTITY printButton.tooltip          "Clò-bhuail an duilleag seo">
 
@@ -229,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Stiùirich cleachdadh a’ phlugain">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cuir romhad am faigh thu brathan on làrach seo gus nach fhaigh">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stòr dàta san stòras bhuan">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tha am brabhsair fo smachd cèin">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Fosgail panail an dearbhaidh-lìn">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Fosgail panail ceadan na gnìomhachd brabhsaidh">
@@ -255,7 +260,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Bhac thu an làrach-lìn seo o bhith a’ cleachdadh plugan Adobe Flash.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Bhac thu inntrigeadh MIDI air an làrach-lìn seo.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Seall an eachdraidh">
+
 
 <!ENTITY searchItem.title             "Lorg">
 
@@ -320,6 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY manageUserContext.label          "Stiùirich na soithichean">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Uinneag ùr">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -453,6 +461,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Barrachd">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Cuir ann lorg no seòladh">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -496,6 +505,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Iarrtas luirg">
+
 <!ENTITY contentSearchSubmit.tooltip  "Dèan lorg">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -540,6 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY openLinkCmdInTab.label       "Fosgail an ceangal ann an taba ùr">
+
 <!ENTITY openLinkCmdInTab.accesskey   "t">
 <!ENTITY openLinkCmd.label            "Fosgail an ceangal ann an uinneag ùr">
 <!ENTITY openLinkCmd.accesskey        "F">
@@ -588,11 +599,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaich comharra-lìn dhan fhrèam seo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Dèan lethbhreac dhen cheangal">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Sàbhail ann am Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Sàbhail an duilleag ann am Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Sàbhail an ceangal ann am Pocket">
@@ -932,6 +945,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Dèan aithris air duilgheadasan">
 <!ENTITY contentBlocking.breakageReportView2.description "Adhbharaichidh bacadh susbaint duilgheadasan air cuid a làraichean-lìn. Ma nì thu aithris air duilgheadas, fàsaidh &brandShortName; nas fhearr airson a h-uile duine. (Cuiridh seo URL gu Mozilla agus fiosrachadh mu roghainnean a’ bhrabhsair agad.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Barrachd fiosrachaidh">
+
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "URL">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Dè na duilgheadasan a bha agad? (Roghainneil)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Cuir an aithisg">
@@ -962,6 +976,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "45em">
 
+
 <!ENTITY uiTour.infoPanel.close "Dùin">
 
 <!ENTITY panicButton.thankyou.msg1                "Chaidh an eachdraidh ùr agad a sguabadh às.">
@@ -982,6 +997,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "Dh’atharraich leudachan an duilleag a chì thu mar dhuilleag-dhachaidh agad. ’S urrainn dhut na roghainnean agad aiseag mur an robh thu ag iarraidh seo.">
+
 <!ENTITY homepageControlled.header.message "Chaidh an duilleag-dhachaidh agad atharrachadh.">
 <!ENTITY homepageControlled.keepButton.label "Cum na h-atharraichean">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

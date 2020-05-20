@@ -9,12 +9,10 @@ findbar-next =
     .tooltiptext = Lorg ath-làthair na h-abairt seo
 findbar-previous =
     .tooltiptext = Lorg làthair roimhe na h-abairt seo
+
 findbar-find-button-close =
     .tooltiptext = Dùin am bàr luirg
-findbar-highlight-all =
-    .label = Soillsich na h-uile
-    .accesskey = l
-    .tooltiptext = Soillsich gach làthair na h-abairt seo
+
 findbar-highlight-all2 =
     .label = Soillsich na h-uile
     .accesskey =
@@ -23,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Soillsich gach ionstans dhen abairt
+
 findbar-case-sensitive =
     .label = Aire do litrichean mòra is beaga
     .accesskey = c
     .tooltiptext = Lorg agus an aire do litrichean mòra 's beaga
+
 findbar-entire-word =
     .label = Faclan-slàna
     .accesskey = F

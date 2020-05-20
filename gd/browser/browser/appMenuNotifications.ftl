@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = C
 appmenu-addon-private-browsing-message = Chan obraich leudachan ùr sam bith a chuireas tu ri { -brand-shorter-name } ann an uinneagan prìobhaideach mur an ceadaich thu seo sna roghainnean.
 appmenu-addon-private-browsing-learn-more = Fiosraich mar a stiùiricheas tu roghainnean nan leudachan
+    
 appmenu-new-tab-controlled =
     .label = Chaidh na chì thu air taba ùr atharrachadh.
     .buttonlabel = Cum na h-atharraichean

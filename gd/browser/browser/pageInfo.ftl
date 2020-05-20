@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 700px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Dèan lethbhreac
     .accesskey = c
+
 select-all =
     .key = A
 menu-select-all =
     .label = Tagh a h-uile
     .accesskey = T
+
 general-tab =
     .label = Coitcheann
     .accesskey = c
@@ -37,6 +40,7 @@ general-meta-name =
     .label = Ainm
 general-meta-content =
     .label = Susbaint
+
 media-tab =
     .label = Meadhanan
     .accesskey = M
@@ -66,11 +70,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Ro-shealladh mheadhanan:
+
 perm-tab =
     .label = Ceadachan
     .accesskey = C
 permissions-for =
     .value = Ceadachan airson:
+
 security-tab =
     .label = Tèarainteachd
     .accesskey = n
@@ -91,17 +97,22 @@ security-view-identity-validity =
     .value = Falbhaidh an ùine air:
 security-view-privacy =
     .value = Prìobhaideachd ⁊ eachdraidh
+
 security-view-privacy-history-value = Na thadhail mi air an làrach-lìn seo ro an-diugh?
 security-view-privacy-sitedata-value = A bheil an làrach seo a’ stòradh fiosrachadh air a’ choimpiutair agam?
+
 security-view-privacy-clearsitedata =
     .label = Falamhaich na briosgaidean is dàta nan làrach
     .accesskey = C
+
 security-view-privacy-passwords-value = A bheil mi air facal-faire a shàbhaladh air an làrach seo?
+
 security-view-privacy-viewpasswords =
     .label = Faclan-faire a shàbhail thu
     .accesskey = w
 security-view-technical =
     .value = Mion-fhiosrachadh teicnigeach
+
 help-button =
     .label = Cobhair
 
@@ -113,8 +124,10 @@ help-button =
 
 security-site-data-cookies = Tha, na briosgaidean is { $value } { $unit } de dhàta làraichean
 security-site-data-only = Tha, { $value } { $unit } de dhàta làraichean
+
 security-site-data-cookies-only = Tha, na briosgaidean
 security-site-data-no = Chan eil
+
 image-size-unknown = Neo-aithnichte
 not-set-verified-by = Gun sònrachadh
 page-info-not-specified =
@@ -134,6 +147,7 @@ media-video = Video
 media-audio = Fuaim
 saved-passwords-yes = Tha
 saved-passwords-no = Chan eil
+
 no-page-title =
     .value = Duilleag gun tiotal:
 general-quirks-mode =
@@ -149,6 +163,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Cleachd an roghainn bhunaiteach
 security-no-visits = Chan eil
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -161,6 +176,7 @@ general-meta-tags =
             [few] Meta ({ $tags } tagaichean)
            *[other] Meta ({ $tags } taga)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -173,6 +189,7 @@ security-visits-number =
         [few] Tha, { $visits } turais
        *[other] Tha, { $visits } turas
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -185,6 +202,7 @@ properties-general-size =
             [few] { $kb } KB ({ $bytes } bytes)
            *[other] { $kb } KB ({ $bytes } bytes)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -198,12 +216,14 @@ media-animated-image-type =
             [few] Dealbh { $type } (beòthaichte, { $frames } frèamaichean)
            *[other] Dealbh { $type } (beòthaichte, { $frames } frèam)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Dealbh { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -213,17 +233,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }pct × { $dimy }pct
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } kB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -231,6 +254,7 @@ media-file-size = { $size } kB
 media-block-image =
     .label = Cuir bacadh air dealbhan o { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

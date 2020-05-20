@@ -172,7 +172,6 @@
 <!ENTITY compactVersion.accesskey "S">
 <!ENTITY folderPaneBar.label "Bàr-inneal leòsan nam pasgan">
 <!ENTITY folderPaneBar.accesskey "B">
-<!ENTITY folderModeSelector.label "Seallaidhean phasgan">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Seòrsaich a-rèir">
@@ -970,3 +969,4 @@
 <!ENTITY dockOptions.label              "Roghainnean ìomhaigheag na h-aplacaid…">
 <!ENTITY writeNewMessageDock.label      "Sgrìobh teachdaireachd ùr">
 <!ENTITY openAddressBookDock.label      "Fosgail leabhar nan seòladh">
+

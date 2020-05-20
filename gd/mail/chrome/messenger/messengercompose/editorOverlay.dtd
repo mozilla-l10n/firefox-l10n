@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 <!-- File menu items -->
 
@@ -81,6 +82,8 @@
 <!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
 <!ENTITY incrementFontSize.key2 "."> 
+
+<!-- > is above this key on many keyboards -->
 
 <!ENTITY fontSizeMenu.label "Meud">
 <!ENTITY fontSizeMenu.accesskey "M">
@@ -308,7 +311,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Cuir a-steach acair ainmichte ùr no deasaich roghainnean na h-acrach a thagh thu">
 <!ENTITY TextColorButton.tooltip "Tagh dath an teacsa">
 <!ENTITY BackgroundColorButton.tooltip "Tagh dath a' chùlaibh">
-<!ENTITY throbber.tooltip "Rach gu duilleag-dhachaigh &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Tagh dath airson teacsa a shoillseachadh">
 <!-- Editor toolbar -->
 

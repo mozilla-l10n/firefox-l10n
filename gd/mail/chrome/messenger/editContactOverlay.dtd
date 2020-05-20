@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Leabhar nan seòladh:">
 <!ENTITY editContactAddressBook.accesskey "a">
 
-<!ENTITY editContactPanelCancel.label "Sguir dheth">
-<!ENTITY editContactPanelCancel.accesskey "S">
-
 <!ENTITY editContactPanelDone.label "Dèanta">
 <!ENTITY editContactPanelDone.accesskey "D">
 

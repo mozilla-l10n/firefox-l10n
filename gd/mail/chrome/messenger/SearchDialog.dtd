@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Rannsachadh adhartach leabhar nan seòladh">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Snàth">
-<!ENTITY fromColumn.label "O">
-<!ENTITY recipientColumn.label "Faightear">
-<!ENTITY correspondentColumn.label "Co-sgrìobhaichean">
-<!ENTITY subjectColumn.label "Cuspair">
-<!ENTITY dateColumn.label "Ceann-là">
-<!ENTITY priorityColumn.label "Prìomhachas">
-<!ENTITY tagsColumn.label "Tagaichean">
-<!ENTITY accountColumn.label "Cunntas">
-<!ENTITY statusColumn.label "Staid">
-<!ENTITY sizeColumn.label "Meud">
-<!ENTITY junkStatusColumn.label "An inbhe truilleis">
-<!ENTITY unreadColumn.label "Gun leughadh">
-<!ENTITY totalColumn.label "Gu h-iomlan">
-<!ENTITY readColumn.label "Air a leughadh">
-<!ENTITY receivedColumn.label "Air fhaighinn">
-<!ENTITY starredColumn.label "Le rionnag ris">
-<!ENTITY locationColumn.label "Àite">
-<!ENTITY idColumn.label "An t-òrdugh san d' fhuaradh iad">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Tagh na colbhan a thèid a thaisbeanadh">
-<!ENTITY threadColumn2.tooltip "Taisbean snàithleanan nan teachdaireachd">
-<!ENTITY fromColumn2.tooltip "Seòrsaich a-rèir seòladair">
-<!ENTITY recipientColumn2.tooltip "Seòrsaich a-rèir faighteir">
-<!ENTITY correspondentColumn2.tooltip "Seòrsaich a-rèir cho-sgrìobhaichean">
-<!ENTITY subjectColumn2.tooltip "Seòrsaich a-rèir cuspair">
-<!ENTITY dateColumn2.tooltip "Seòrsaich a-rèir cinn-là">
-<!ENTITY priorityColumn2.tooltip "Seòrsaich a-rèir prìomhachais">
-<!ENTITY tagsColumn2.tooltip "Seòrsaich a-rèir taga">
-<!ENTITY accountColumn2.tooltip "Seòrsaich a-rèir cunntais">
-<!ENTITY statusColumn2.tooltip "Seòrsaich a-rèir staid">
-<!ENTITY sizeColumn2.tooltip "Seòrsaich a-rèir meud">
-<!ENTITY junkStatusColumn2.tooltip "Seòrsaich a-rèir inbhe truilleis">
-<!ENTITY unreadColumn2.tooltip "Àireamh nan teachdaireachdan gun leughadh san t-snàth">
-<!ENTITY totalColumn2.tooltip "Àireamh iomlan nan teachdaireachdan san t-snàth">
-<!ENTITY readColumn2.tooltip "Seòrsaich a-rèir na staid leughaidh">
-<!ENTITY receivedColumn2.tooltip "Seòrsaich a-rèir cuin a fhuaras">
-<!ENTITY starredColumn2.tooltip "Seòrsaich a-rèir rionnaige">
-<!ENTITY locationColumn2.tooltip "Seòrsaich a-rèir ionaid">
-<!ENTITY idColumn2.tooltip "Seòrsaich a-rèir an òrdugh air an d'fhuaras">

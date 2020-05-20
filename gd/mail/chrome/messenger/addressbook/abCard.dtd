@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Co-là breith:">
 <!ENTITY Birthday.accesskey             "B">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Mìos">
 <!ENTITY Day.placeholder                "Latha">
 <!ENTITY Year.placeholder               "Bliadhna">
-<!ENTITY Or.value                       "no">
 <!ENTITY Age.label                      "Aois:">
 <!ENTITY Age.placeholder                "Aois">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Obair">
 <!ENTITY Work.accesskey                 "W">

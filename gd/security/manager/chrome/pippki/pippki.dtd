@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Chaidh iarraidh ort earbsa a chur ann an ùghdarras teisteanachaidh (ÙT) ùr.">
 <!ENTITY downloadCert.trustSSL "Cuir earbsa san ùghdarras teisteanachaidh seo gus làraichean-lìn aithneachadh.">
 <!ENTITY downloadCert.trustEmail "Cuir earbsa san ùghdarras teisteanachaidh seo gus cleachdaichean puist-dhealain aithneachadh.">
-<!ENTITY downloadCert.trustObjSign "Cuir earbsa san ùghdarras teisteanachaidh seo gus luchd-leasachaidh bathar-bog aithneachadh.">
 <!ENTITY downloadCert.message3 "Mus cuir thu earbsa san ùghdarras teisteanachaidh seo, bu chòir dhut sùil a chur air a theisteanas fhèin agus na poileasaidhean is modhan-obrach aca (ma tha gin ann).">
 <!ENTITY downloadCert.viewCert.label "Seall">
 <!ENTITY downloadCert.viewCert.text "Sgrùdaich teisteanas an ùghdarrais theisteanachaidh">

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Seall fiosrachadh na làraich-lìn
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Bhac thu inntrigeadh MIDI air an làrach-lìn seo.
 urlbar-install-blocked =
     .tooltiptext = Bhac thu stàladh de thuilleadain air an làrach-lìn seo.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Deasaich an comharra-lìn seo ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -124,12 +127,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Dèan lorg leis na leanas an turas seo:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Roghainnean luirg
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Atharraich na roghainnean luirg
+
 search-one-offs-context-open-new-tab =
     .label = Lorg ann an taba ùr
     .accesskey = t
@@ -145,8 +150,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Seall an deasaiche nuair a nithear sàbhaladh
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Dèanta
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -230,9 +237,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Tha am brabhsair fo smachd cèin
 urlbar-switch-to-tab =
     .value = Gearr leum gun taba:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Leudachan:
+
 urlbar-go-button =
     .tooltiptext = Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh
 urlbar-page-action-button =

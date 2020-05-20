@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Luchdaich a-nuas teachdaireachdan ùra a ghnàth">
 <!ENTITY downloadOnBiff.accesskey "L">
-<!ENTITY username.label "D' ainm logaidh a-steach">
 <!ENTITY deleteMessagePrefix.label "Nuair a sguabas mi às teachdaireachd:">
 <!ENTITY modelMoveToTrash.label "Gluais e dhan phasgan seo:">
 <!ENTITY modelMoveToTrash.accesskey "o">

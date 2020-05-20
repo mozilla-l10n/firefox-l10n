@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Lorg is cuir 'na àite">
 <!ENTITY findField.label "Lorg teacsa:">
 <!ENTITY findField.accesskey "L">

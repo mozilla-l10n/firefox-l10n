@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Thachair mearachd fhad 's a bha ceangal ann ri { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còd na mearachd: { $error }
+
 psmerr-ssl-disabled = Cha ghabh ceangal tèarainte a dhèanamh a chionn 's gun deach am pròtacal SSL a chur à comas.
 psmerr-ssl2-disabled = Cha ghabh ceangal tèarainte a dhèanamh a chionn 's gu bheil an làrach a' cleachdadh seann tionndadh dhen phròtacal SSL nach eil tèarainte.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Fhuair thu teisteanas neo-dhligheach.  Leig fios gu rianaire an fhrithealaiche no seòladair a’ phuist-dhealain ’s thoir dhaibh am fiosrachadh a leanas:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
+
 ssl-error-export-only-server = Cha ghabh conaltradh tèarainte a dhèanamh. Chan eil an seise a’ cur taic ri sàr-chrioptachadh.
 ssl-error-us-only-server = Cha ghabh conaltradh tèarainte a dhèanamh. Feumaidh an seise sàr-chrioptachadh nach eil taic ann ris.
 ssl-error-no-cypher-overlap = Cha ghabh conaltradh tèarainte a dhèanamh: chan eil algairim(ean) crioptachaidh an cumantas ann.

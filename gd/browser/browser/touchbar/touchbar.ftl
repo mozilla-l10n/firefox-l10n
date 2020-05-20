@@ -18,3 +18,7 @@ reader-view = An sealladh-leughaidh
 open-location = Lorg no cuir seòladh ann
 share = Co-roinn
 close-window = Dùin an uinneag
+
+## Various categories of shortcuts for search.
+
+##

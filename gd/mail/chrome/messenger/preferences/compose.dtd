@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Cruth-clò:">
 <!ENTITY font.accesskey                       "C">
-<!ENTITY size.label                           "Meud:">
-<!ENTITY size.accesskey                       "M">
 <!ENTITY fontSize.label                       "Meud:">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "Cleachd dathan bunaiteach an leughadair">

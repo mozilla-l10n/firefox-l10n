@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Barrachd fiosrachaidh mu <a data-l10n-name="learn-more">bhrabhsadh prìobhaideach</a>.
 about-private-browsing-info-visited = duilleagan air an tadhail thu
+
 privatebrowsingpage-open-private-window-label = Fosgail uinneag phrìobhaideach
     .accesskey = p
 about-private-browsing-info-notsaved = Nuair a nì thu brabhsadh ann an uinneag phrìobhaideach, <strong>cha sàbhail { -brand-short-name }</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Chan eil thu ann an uinneag phrìobhaideach
 content-blocking-title = Bacadh susbaint
 content-blocking-description = Cleachdaidh cuid a làraichean-lìn tracaichean a chumas sùil air do ghnìomhachd air feadh an eadar-lìn. Ann an uinneagan prìobhaideach, bacaidh an gleus bacadh susbaint aig { -brand-short-name } tracaichean gu fèin-obrachail a chruinnicheas fiosrachadh mun bhrabhsadh a nì thu.
 about-private-browsing-info-description = Falamhaichidh { -brand-short-name } eachdraidh nan lorg is a’ bhrabhsaidh agad nuair a dh’fhàgas tu an aplacaid no nuair a dhùineas tu gach taba agus uinneag ann am brabhsadh prìobhaideach. Fhad ’s nach cuir seo am falach cò thusa mu choinneamh làraichean-lìn no solaraiche nan seirbheisean-lìn agad, cumaidh e na nì thu air loidhne am falach o dhaoine eile a chleachdas an coimpiutair seo.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

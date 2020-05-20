@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Dath">
 <!ENTITY lastPickedColor.label "Dath mu dheireadh a thagh thu">
 <!ENTITY lastPickedColor.accessKey "D">
-<!ENTITY setColor1.label "Briog air dath no">
-<!ENTITY setColor2.label "cuir a-steach sreath datha HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Tagh dath:">
 <!ENTITY chooseColor2.label "Cuir a-steach sreath datha HTML">
 <!ENTITY chooseColor2.accessKey "H">

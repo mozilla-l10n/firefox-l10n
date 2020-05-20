@@ -2,9 +2,8 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-toolbar-sync-now =
-    .label = Sioncronaich an-dràsta
 fxa-toolbar-sync-syncing =
     .label = ’Ga shioncronachadh…
 fxa-toolbar-sync-syncing-tabs =
     .label = A’ sioncronachadh nan taba...
+

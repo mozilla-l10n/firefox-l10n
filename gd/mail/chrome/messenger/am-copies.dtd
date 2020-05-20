@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-copies.xul -->
 
+
+<!-- extracted from am-copies.xhtml -->
 
 <!ENTITY copyAndFolderTitle.label "Lethbhreacan ⁊ pasganan">
 <!ENTITY sendingPrefix.label "Nuair a chuireas mi teachdaireachd, dèan na leanas a ghnàth: ">

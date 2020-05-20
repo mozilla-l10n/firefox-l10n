@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Cuir 'na stad
 pictureinpicture-play =
     .aria-label = Cluich
+
 pictureinpicture-mute =
     .aria-label = Tostaich
 pictureinpicture-unmute =
     .aria-label = Till an fhuaim
+
