@@ -94,6 +94,7 @@ print-window =
     .title = Kuchapisha
 print-complete =
     .value = Kuchapisha Kumekamilika.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

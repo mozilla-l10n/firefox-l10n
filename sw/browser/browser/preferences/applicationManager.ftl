@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Maelezo ya programu tumizi
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Ondoa
     .accesskey = O
-app-manager-handle-webfeeds = Programu tumizi zifuatazo zinaweza kutumiwa kushugulikia Milisho ya Wavuti.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Programu tumizi zifuatazo zinaweza kutumiwa kushugulikia { $type } viungo.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Programu tumizi zifuatazo zinaweza kutumiwa kushugulikia { $type } maudhui.

@@ -24,6 +24,7 @@ state-dd-enabled = <span data-l10n-name="state">Hali:</span> Imewezeshwa
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Hali:</span> Imewezeshwa ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Hali:</span> Imelemazwa
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Hali:</span> Imelemazwa ({ $blockListState })
+
 mime-type-label = Aina ya MIME
 description-label = Maelezo
 suffixes-label = Kimalizio

@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Nyuma
     .accesskey = N
+
 wizard-macos-button-next =
     .label = Endelea
     .accesskey = E
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Ifuatayo >
     .accesskey = I
+
 wizard-macos-button-finish =
     .label = Imemaliza
 wizard-linux-button-finish =
     .label = Maliza
 wizard-win-button-finish =
     .label = Maliza
+
 wizard-macos-button-cancel =
     .label = Katiza
 wizard-linux-button-cancel =

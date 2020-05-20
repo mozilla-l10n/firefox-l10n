@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = Tafuta tukio linalofuata la msemo
 findbar-previous =
     .tooltiptext = Tafuta tukio kabla ya msemo huu
+

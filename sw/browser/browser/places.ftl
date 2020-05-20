@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Fungua katika Dirisha Mpya
     .accesskey = D
+
 places-new-bookmark =
     .label = Alamisho Mpya…
     .accesskey = M
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Kitenganishi Kipya
     .accesskey = K
+
 places-view =
     .label = Onyesha
     .accesskey = s
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Kwa Tarehe na Tovuti
     .accesskey = r
+
 places-delete-domain-data =
     .label = Sahau Kuhusu Tovuti Hii
     .accesskey = S

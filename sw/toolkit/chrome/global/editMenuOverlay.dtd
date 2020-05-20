@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Chagua Zote">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "Z">
+
 <!ENTITY findCmd.label             "Tafuta">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "T">

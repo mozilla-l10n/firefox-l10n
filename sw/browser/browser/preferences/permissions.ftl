@@ -4,21 +4,27 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Zuia
     .accesskey = Z
+
 permissions-session =
     .label = Ruhusu kwa Kipindi
     .accesskey = K
+
 permissions-allow =
     .label = Ruhusu
     .accesskey = R
+
 permissions-status =
     .label = Hadhi
+
 permissions-capabilities-allow =
     .label = Ruhusu
 permissions-capabilities-block =
     .label = Zuia
+
 permissions-capabilities-listitem-allow =
     .value = Ruhusu
 permissions-capabilities-listitem-block =
@@ -51,11 +57,15 @@ permissions-exceptions-addons-desc = Unaweza kubainisha ni wavuti gani zinaruhus
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

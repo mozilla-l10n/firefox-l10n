@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Kitenganishi Kipya">
 <!ENTITY cmd.new_separator.accesskey       "K">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Pakia tena Alamisho Moja kwa moja">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "P">
-
-<!ENTITY cmd.moveBookmarks.label                  "Hamisha…">
-<!ENTITY cmd.moveBookmarks.accesskey              "H">
-
 <!ENTITY col.name.label          "Jina">
 <!ENTITY col.tags.label          "Lebo">
 <!ENTITY col.url.label           "Mahali">
 
 <!ENTITY col.visitcount.label    "Hesabu ya Kutembelea">
-<!ENTITY col.description.label   "Maelezo">
 <!ENTITY col.dateadded.label     "Iliongezwa">
 <!ENTITY col.lastmodified.label  "Ilibadilishwa Mwisho">
 
@@ -96,10 +89,6 @@
 
 <!ENTITY forwardButton.tooltip  "Nenda mbele">
 
-<!ENTITY detailsPane.more.label "Zaidi">
-<!ENTITY detailsPane.more.accesskey "i">
-<!ENTITY detailsPane.less.label "Ndogo kuliko">
-<!ENTITY detailsPane.less.accesskey "d">
 <!ENTITY detailsPane.selectAnItemText.description "Chagua kipengee cha kuangalia na kuhariri sifa zake">
 
 <!ENTITY view.label               "Onyesha">

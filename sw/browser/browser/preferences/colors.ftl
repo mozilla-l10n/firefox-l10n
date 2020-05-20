@@ -9,17 +9,24 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-page-override-option-always =
     .label = Kila wakati
 colors-page-override-option-never =
     .label = Kamwe
+
 colors-text-and-background = Matini na Mandharinyuma
+
 colors-use-system =
     .label = Tumia mfumo wa rangi
     .accesskey = m
+
 colors-underline-links =
     .label = Viungo vya mstari chini
     .accesskey = V
+
 colors-links-header = Rangi za Viungo
+

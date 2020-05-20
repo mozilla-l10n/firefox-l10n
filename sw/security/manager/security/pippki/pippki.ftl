@@ -8,6 +8,7 @@ password-quality-meter = Mita ya ubora wa nenosiri
 
 change-password-window =
     .title = Badilisha Nywila Kuu
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kifaa cha Usalama: { $tokenName }

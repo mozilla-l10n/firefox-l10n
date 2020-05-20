@@ -7,8 +7,10 @@
 
 devmgr-header-details =
     .label = Maelezo
+
 devmgr-header-value =
     .label = Thamani
+
 devmgr-button-changepw =
     .label = Badilisha Nywila
     .accesskey = N
@@ -20,13 +22,19 @@ devmgr-button-changepw =
 
 devinfo-status =
     .label = Hadhi
+
 devinfo-status-disabled =
     .label = Imelemazwa
+
 devinfo-desc =
     .label = Maelezo
+
 devinfo-modpath =
     .label = Njia
+
 devinfo-label =
     .label = Ilebula
+
 devinfo-serialnum =
     .label = Namba Tambulishi
+

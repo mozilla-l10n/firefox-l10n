@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Kuhusu &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ni ya kujaribia na inaweza kuwa si thabiti.">
-<!ENTITY aboutPage.telemetryStart               " Hutuma moja kwa moja habari kuhusu utendaji, vifaa, matumizi na usanidi wa kurujelea ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " ili kusaidia kufanya &brandShortName; kua bora.">
 <!ENTITY aboutPage.checkForUpdates.link         "Angalia Sasisho »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Inatafuta sasisho…">
 <!ENTITY aboutPage.checkForUpdates.none         "Hakuna sasisho zilizopo">

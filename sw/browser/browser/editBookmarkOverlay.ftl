@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Jina:
     .accesskey = J
+
 bookmark-overlay-location =
     .value = Mahali:
     .accesskey = M
+
 bookmark-overlay-folder =
     .value = Kabrasha:
+
 bookmark-overlay-choose =
     .label = Chagua…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Onyesha kabrasha zote za alamisho
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Ficha
+
 bookmark-overlay-new-folder-button =
     .label = Kabrasha Mpya
     .accesskey = p
+
 bookmark-overlay-tags =
     .value = Lebo:
     .accesskey = L
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Tenganisha lebo kwa koma
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Onyesha lebo zote
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Ficha
+
 bookmark-overlay-keyword =
     .value = Nenomsingi:
     .accesskey = N

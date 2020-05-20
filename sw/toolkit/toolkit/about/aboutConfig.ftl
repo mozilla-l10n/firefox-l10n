@@ -13,9 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Kubadilisha mipangilio ya juu inaweza kudhuru udhibiti wako, usalama, na na utendakazi wa programu hii. Unafaa kuendelea kama unahakika unafanya nini.
 config-about-warning-checkbox =
     .label = Onyesha onyo hii wakati ujao
+
 config-search-prefs =
     .value = Tafuta:
     .accesskey = t
+
 config-focus-search =
     .key = r
 
@@ -43,45 +45,60 @@ config-copy-pref =
     .key = C
     .label = Nakili
     .accesskey = N
+
 config-copy-name =
     .label = Nakili Jina
     .accesskey = J
+
 config-copy-value =
     .label = Nakili Thamini
     .accesskey = T
+
 config-modify =
     .label = Rekebisha
     .accesskey = R
+
 config-toggle =
     .label = Kugeuza
     .accesskey = K
+
 config-reset =
     .label = Weka upya
     .accesskey = W
+
 config-new =
     .label = Mpya
     .accesskey = y
+
 config-string =
     .label = Mtungo
     .accesskey = M
+
 config-integer =
     .label = Namba
     .accesskey = N
+
 config-boolean =
     .label = Buleani
     .accesskey = B
+
 config-default = chaguo msingi
 config-modified = ilibadilishwa
 config-locked = imefungwa
+
 config-property-string = mtungo
 config-property-int = namba
 config-property-bool = buleani
+
 config-new-prompt = Ingiza jina linalopendelewa
+
 config-nan-title = Thamani batili
 config-nan-text = Maandishi uliyoingiza si namba.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Thamani { $type } mpya
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Ingiza { $type } thamani

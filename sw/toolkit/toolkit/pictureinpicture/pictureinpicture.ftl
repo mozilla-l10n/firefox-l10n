@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Sitisha
 pictureinpicture-play =
     .aria-label = Chezesha
+
 pictureinpicture-mute =
     .aria-label = Nyamazisha
 pictureinpicture-unmute =
     .aria-label = Usinyamazishe
+

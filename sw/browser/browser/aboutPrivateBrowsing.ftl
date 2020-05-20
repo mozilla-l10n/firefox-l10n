@@ -4,3 +4,4 @@
 
 privatebrowsingpage-open-private-window-label = Fungua Window ya Kibinaafsi
     .accesskey = K
+

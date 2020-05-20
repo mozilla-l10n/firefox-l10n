@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Rejea
     .accesskey = R
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Fungua Kabrasha Iliyo na
     .accesskey = I
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Onyesha Katila Kipataji
     .accesskey = K
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Onyesha Katila Kipataji
            *[other] Fungua Kabrasha Iliyo na
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] Onyesha Katila Kipataji
            *[other] Fungua Kabrasha Iliyo na
         }
+
 downloads-cmd-retry =
     .tooltiptext = Jaribu tena
 downloads-cmd-retry-panel =
@@ -61,16 +66,20 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Ondoa Vipakuzi
     .accesskey = V
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Onyesha Vipakuzi Vyoye
     .accesskey = O
+
 downloads-clear-downloads-button =
     .label = Ondoa Vipakuzi
     .tooltiptext = Ufutaji umekamilisha, ukaghairi na kushinwa vipakuzi
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Hakuna vipakuzi.
+

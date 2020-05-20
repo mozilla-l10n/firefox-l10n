@@ -61,5 +61,6 @@ urlbar-placeholder =
     .placeholder = Tafuta au uandike anwani
 urlbar-switch-to-tab =
     .value = Badili kwa kichupo:
+
 urlbar-go-button =
     .tooltiptext = Nenda kwa anwani katika Upau wa Mahali

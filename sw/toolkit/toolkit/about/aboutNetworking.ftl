@@ -3,3 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 show-next-time-checkbox = Onyesha onyo hii wakati ujao
+
+## Link is intended as "network link"
+
+##
