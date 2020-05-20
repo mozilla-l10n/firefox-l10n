@@ -43,5 +43,5 @@ browser-window-minimize-button =
 
 ## URL Bar
 
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Kujya kuri aderesi mu Mwanya w'Indangahantu
