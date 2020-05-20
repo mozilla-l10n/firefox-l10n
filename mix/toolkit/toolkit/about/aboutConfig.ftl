@@ -8,8 +8,10 @@
 config-search-prefs =
     .value = Nduku:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -25,3 +27,4 @@ config-copy-pref =
     .key = C
     .label = Ndatava
     .accesskey = C
+

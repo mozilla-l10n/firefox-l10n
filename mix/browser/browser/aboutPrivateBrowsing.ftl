@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Kavi tsa <a data-l10n-name="learn-more">Navegación privada</a>.
 about-private-browsing-info-visited = página ntsinu
+
 privatebrowsingpage-open-private-window-label = Kuna iin ventana
     .accesskey = K
 about-private-browsing-info-notsaved = Ta ncheu iin ventana privada, { -brand-short-name } <strong>kue chika vai</strong>:
@@ -24,5 +25,6 @@ about-private-browsing =
     .title = Nduku nu web
 about-private-browsing-not-private = Su ventana seé kui.
 content-blocking-title = Kasi kontenido
+
 about-private-browsing-search-banner-close-button =
     .aria-label = Kasi

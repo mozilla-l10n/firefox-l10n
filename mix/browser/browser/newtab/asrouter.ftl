@@ -10,19 +10,26 @@ cfr-doorhanger-pintab-heading = Saa ña ño'o: sti'in xikua
 
 
 
+##
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ¿Chanu ncheu tu'un yo?
+
 cfr-doorhanger-extension-cancel-button = VIchi nkuu
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Chika Vichi
     .accesskey = C
 cfr-doorhanger-pintab-ok-button = Chika xikua yo
     .accesskey = C
+
 cfr-doorhanger-extension-learn-more-link = Skua'a kuakaa…
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = ña { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Recomendación
@@ -52,6 +59,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-animation-pause = Kunchatu
 cfr-doorhanger-pintab-animation-resume = Kitsa
 
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
@@ -67,10 +75,22 @@ cfr-protections-panel-link-text = Skua'a kuakaa
 cfr-whatsnew-button =
     .label = Nchi yee ña tsaa
     .tooltiptext = Nchi yee ña tsaa
+
 cfr-whatsnew-panel-header = Nchi yee ña tsaa
+
 cfr-whatsnew-tracking-blocked-link-text = Ku ncheé tutu
+
 cfr-whatsnew-lockwise-backup-title = Chika vaá tu'un se'e ku
+
 cfr-whatsnew-lockwise-take-link-text = Snuú aplicación
+
+## Search Bar
+
+## Picture-in-Picture
+
+## Permission Prompt
+
+## Fingerprinter Counter
 
 ## Bookmark Sync
 
@@ -96,4 +116,12 @@ cfr-doorhanger-socialtracking-close-button = Kasi
     .accesskey = K
 
 ## Enhanced Tracking Protection Milestones
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
 

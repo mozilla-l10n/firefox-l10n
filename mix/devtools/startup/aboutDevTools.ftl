@@ -4,3 +4,4 @@
 
 newsletter-email-placeholder =
     .placeholder = Korreo
+

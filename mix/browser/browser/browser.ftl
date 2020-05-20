@@ -30,12 +30,14 @@ page-action-add-to-urlbar =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Nduku tsi:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sama nixi ndukuku
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sama nixi ndukuku
+
 search-one-offs-context-open-new-tab =
     .label = Kunàa nu xikua tsàa
     .accesskey = K

@@ -8,7 +8,9 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Tu'un
+
 changed-title = ¿Nchi ña sama?
+
 sync-label = Chaa korreoku
 sync-input =
     .placeholder = Korreo

@@ -9,28 +9,26 @@ site-data-column-host =
     .label = Sitio
 site-data-column-cookies =
     .label = Cookies
+
 site-data-remove-selected =
     .label = Stoó ña ni katsu
     .accesskey = S
+
 site-data-button-cancel =
     .label = Kunchatu
     .accesskey = k
+
 site-data-button-save =
     .label = Chika va'a ña sau
     .accesskey = c
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value }{ $unit }
-site-usage-persistent = { site-usage-pattern } (Persistente)
+
 site-data-remove-all =
     .label = Stòo ntia
     .accesskey = S
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Xita
+

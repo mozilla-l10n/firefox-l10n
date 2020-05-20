@@ -25,6 +25,8 @@ search-header-shortcut =
 ## Status messages displayed when updating add-ons
 
 
+## Add-on install/debug strings for page options menu
+
 ## Extension shortcut management
 
 
@@ -35,4 +37,6 @@ search-header-shortcut =
 
 
 ## Pending uninstall message bar
+
+## Page headings
 

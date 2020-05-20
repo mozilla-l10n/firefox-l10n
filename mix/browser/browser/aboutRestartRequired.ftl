@@ -4,4 +4,5 @@
 
 restart-required-title = Tsiniñu'u Ndakitsau
 restart-required-header = Ku kanu inu. tsini ñuu ndava'a iin ña'a takua kitsai.
+
 restart-button-label = Ndakitsa { -brand-short-name }

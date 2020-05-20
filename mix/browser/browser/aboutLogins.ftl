@@ -11,9 +11,12 @@ login-app-promo-android =
     .alt = Ndanii nu Google Play
 login-app-promo-apple =
     .alt = Snuu nu App Store
+
 login-filter =
     .placeholder = Nduku nixi kitsana
+
 create-login-button = Saa nixi kitsau
+
 fxaccounts-sign-in-text = Nduku contraseñaku takua kuachu'un inka dispositivo
 fxaccounts-sign-in-button = Kitsa nu { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -23,8 +26,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Kuna menú
-# This menuitem is only visible on Windows
-menu-menuitem-import = Nduku tu'un see
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opciones
@@ -44,7 +45,6 @@ login-list-count =
 login-list-sort-label-text = Ntachi yuku
 login-list-name-option = Sivi (A-Z)
 login-list-name-reverse-option = Sivi (Z-A)
-login-list-breached-option = Sitio web vaá
 login-list-last-changed-option = Ña samu sa ntii
 login-list-last-used-option = Chachu'un sa nti'i
 login-list-item-title-new-login = Ktisaa Tsa'a
@@ -76,6 +76,12 @@ login-item-time-changed = Ña samu santii: { DATETIME($timeChanged, day: "numeri
 login-item-time-created = Creado: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ntsuana sa ntii: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-reload-button =
@@ -97,13 +103,14 @@ enable-password-sync-preferences-button =
 confirmation-dialog-cancel-button = Kunchatu
 confirmation-dialog-dismiss-button =
     .title = Kunchatu
+
 confirm-delete-dialog-message = Ma kuu sau chu'un yo
+
 confirm-discard-changes-dialog-confirm-button = Descartar
 
 ## Breach Alert notification
 
-breach-alert-dismiss =
-    .title = Kasi tu'un yo
+## Vulnerable Password notification
 
 ## Error Messages
 

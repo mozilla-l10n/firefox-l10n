@@ -10,4 +10,9 @@
 ## These are short descriptions for individual policies, to be displayed
 ## in the documentation section in about:policies.
 
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+
 policy-Proxy = Sama nixi sachu'un n proxy.
+

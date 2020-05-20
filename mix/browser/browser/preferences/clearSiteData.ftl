@@ -5,11 +5,14 @@
 clear-site-data-window =
     .title = Stòo tutù
     .style = width: 35em
+
 clear-site-data-close-key =
     .key = w
+
 clear-site-data-cancel =
     .label = Kunchatu
     .accesskey = k
+
 clear-site-data-clear =
     .label = Stòo
     .accesskey = s

@@ -19,21 +19,28 @@ onboarding-button-label-get-started = Kitsaà
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Kukueni { -brand-short-name }
+
 onboarding-join-form-header = Ndututu tsi  { -brand-product-name }
+
 onboarding-join-form-email =
     .placeholder = Chaa Korreoku
 onboarding-join-form-continue = Inka
+
 onboarding-start-browsing-button-label = Kitsaà Ntuku
+
+## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Kuan tsi { -brand-product-name } meu
+
 onboarding-sync-form-input =
     .placeholder = Korreo
 
 ## This is part of the line "Enter your email to continue to Firefox Sync"
 
 onboarding-sync-form-header = Chaa korreoku
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -47,19 +54,29 @@ onboarding-sync-form-header = Chaa korreoku
 ## The string for the button is found above, in the UI strings section
 
 onboarding-private-browsing-title = Nduku seé
+
 onboarding-screenshots-title = Nta'tava
+
 onboarding-addons-title = Komplementos
+
 onboarding-ghostery-title = Ghostery
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
+
 onboarding-tracking-protection-button2 = Nixi Kuachu'un ña
+
 onboarding-firefox-send-button = Kunchee { -send-brand-name }
+
 onboarding-mobile-phone-title = Nduku { -brand-product-name } kaa ndusuku
 # "Mobile" is short for mobile/cellular phone, "Browser" is short for web
 # browser.
 onboarding-mobile-phone-button = Snuu navegador móvil
+
 onboarding-pocket-anywhere-button = Kunchee { -pocket-brand-name }
+
 onboarding-lockwise-passwords-button2 = Nduku aplicación
+
 
 ## Message strings belonging to the Return to AMO flow
 

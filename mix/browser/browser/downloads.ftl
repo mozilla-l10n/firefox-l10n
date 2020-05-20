@@ -18,6 +18,7 @@ downloads-panel =
 # in-progress and blocked downloads.
 downloads-panel-list =
     .style = width: 70ch
+
 downloads-cmd-pause =
     .label = Kunchatu
     .accesskey = P
@@ -25,7 +26,9 @@ downloads-cmd-cancel =
     .tooltiptext = Kunchatu
 downloads-cmd-cancel-panel =
     .aria-label = Kunchatu
+  
 # Displayed when hovering a complete download, indicates that it's possible to
 # open the file using an app available in the system.
 downloads-open-file =
     .value = Kuna tutu
+

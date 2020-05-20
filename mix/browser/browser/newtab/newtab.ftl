@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Nduku
     .aria-label = Nduku
+
 newtab-search-box-search-the-web-text = Nduku nu Web
 newtab-search-box-search-the-web-input =
     .placeholder = Nduku nu Web
@@ -29,6 +30,7 @@ newtab-topsites-edit-topsites-header = Sama sitio popular
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Chaa título
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Chaa a chisti'in iin URL
@@ -52,6 +54,7 @@ newtab-topsites-add-button = Chikaa
 newtab-menu-section-tooltip =
     .title = Kuna menú
     .aria-label = Kuna menú
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -75,6 +78,11 @@ newtab-menu-delete-history = Stoò ntii ña ntsinu
 newtab-menu-save-to-pocket = Chika va'a nu { -pocket-brand-name }
 newtab-menu-delete-pocket = Stoo ña inka nu{ -pocket-brand-name }
 newtab-menu-archive-pocket = Chika va'a nu { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Stoo markador
 # Bookmark is a verb here.
@@ -154,7 +162,6 @@ newtab-discovery-empty-section-topstories-loading = Sachuin
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populares:
-newtab-pocket-how-it-works = Nixi kuachu'un ña
 newtab-pocket-cta-button = Nduku { -pocket-brand-name }
 
 ## Error Fallback Content.

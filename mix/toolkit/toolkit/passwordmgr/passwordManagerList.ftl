@@ -5,3 +5,4 @@
 copy-site-url-cmd =
     .label = Ndatava URL
     .accesskey = y
+

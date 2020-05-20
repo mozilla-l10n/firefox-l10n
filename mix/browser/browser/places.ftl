@@ -8,3 +8,4 @@ places-open =
 places-open-window =
     .label = Kunàa nu inka nu sachuun tsàa
     .accesskey = N
+
