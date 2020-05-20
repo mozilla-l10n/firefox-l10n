@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Oimeraẽ ambue jepysokue embojuajúva { -brand-shorter-name } rehe ndoikomo’ãi ovetã ñemíme neremoneĩriramo ñembohekópe.
 appmenu-addon-private-browsing-learn-more = Eñangarekokuaa jepysokue ñembohekóre.
+    
 appmenu-new-tab-controlled =
     .label = Ne Tendayke Pyahu iñambuékuri.
     .buttonlabel = Topyta Ñemoambue

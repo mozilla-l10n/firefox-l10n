@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Ndaikatúi eipuru ñembohekopyahu pehẽva. &brandShortName; oha'ãta jeýta omboguejývo ñembohekopyahu henyhẽva.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ndaikatúi he'i oĩha peteĩ ñembohekopyahu eipurukuaáva. Ehechajeýke eguerekópa &brandShortName; ipyahuetéva pe:">
-
+                                           
 <!ENTITY  finishedPage.title              "Ñembohekopyahu oĩmbáva emohenda hag̃ua">
 <!ENTITY  finishedPage.text               "Pe ñembohekopyahu oñemohendáta emoñepyrũjey vove &brandShortName;. Ikatu emoñepyrũjey &brandShortName; ko'ag̃aite, térã emba'apove ha emoñepyrũjey ag̃amieve.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Pe ñembohekopyahu oñemohendáta emoñepyrũjey vove &brandShortName;. Ikatu emoñepyrũjey &brandShortName; ko'ag̃aite, térã emba'apove ha emoñepyrũjey ag̃amieve.">
 <!ENTITY  finishedBackground.moreElevated "Ko ñembohekopyahu oikotevẽ ñangarekohára ma'ẽ tapia rehe. Ñembohekopyahu oñemohendáta &brandShortName; oñepyrũ vove. Ikatu oñepyrũ jey &brandShortName; ko'ág̃a, emba'apo jey ha emoñepyrũ jey ag̃amieve térã emboykete ko ñembohekopyahu.">
 
-<!ENTITY  update.details.label            "Mba'emimi">
-<!ENTITY  update.installedOn.label        "Oñemohendapyréva amo:">
-<!ENTITY  update.status.label             "Tekotee:">

@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "&brandShortName; rehegua">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; oñeha'ã gueteri ha ne'ĩrava oĩmba.">
-<!ENTITY aboutPage.telemetryStart               " Omondo ijehegui marandu tembiapoguigua, hardware, jepuru ha ñemomba'eguáva amo ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " eipytyvõ &brandShortName; oikoporãve hag̃ua.">
 <!ENTITY aboutPage.checkForUpdates.link         "Ñembohekopyahu jeheka »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Ñembohekopyahu jeheka…">
 <!ENTITY aboutPage.checkForUpdates.none         "Ndaipóri ñembohekopyahu">

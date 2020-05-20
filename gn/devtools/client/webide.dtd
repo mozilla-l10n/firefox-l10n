@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Tembipuru'i ijurujáva">
+
 <!ENTITY runtimeButton_label "Eiporavo marandu aravo">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB mba'e'oka">
 <!ENTITY runtimePanel_wifi "Wi-Fi mba'e'oka">
 <!ENTITY runtimePanel_other "ambue">
-<!ENTITY runtimePanel_noadbhelper "Emohenda ADB Pytyvõhára">
 <!ENTITY runtimePanel_nousbdevice "Ndaikatúi ehecha ne mba'e'oka">
 <!ENTITY runtimePanel_refreshDevices_label "Embohekopyahu mba'e'oka">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Marandu aravo noñemongu'e rehegua">
-<!ENTITY runtimedetails_adbIsRoot "ADB rapo:">
-<!ENTITY runtimedetails_summonADBRoot "mba'e'oka rapo">
-<!ENTITY runtimedetails_ADBRootWarning "(oikotevẽ mongu'eha imbotovepyré'ỹva)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "DevTools mba'eñeme'ẽ momichĩ: ">
-<!ENTITY runtimedetails_requestPrivileges "Mba'eñeme'ẽ ijyvatéva jerure">
-<!ENTITY runtimedetails_privilegesWarning "(Oñepyrũjeýta mba'e'oka. Oikotevẽ root-pe jeike.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Voole">

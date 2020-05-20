@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Embosa'ypa">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "s">
+
 <!ENTITY findCmd.label             "Heka">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

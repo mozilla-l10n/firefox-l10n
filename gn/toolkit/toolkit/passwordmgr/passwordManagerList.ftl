@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Mboty
     .accesskey = C
+
 show-passwords =
     .label = Ñe'ẽñemi jehechauka
     .accesskey = P

@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Mba'erechaha tuichavévagui ñesẽ">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "Mba'erechaha tuichavéva">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Ehechajey nemba'ete">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Momichĩ">
 <!ENTITY fullScreenRestore.tooltip "Mbojevy">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Mba'ete ñemboheko">
 <!ENTITY fxa.menu.manageAccount2.label "Mba'ete Ñangarekoha">
 <!ENTITY fxa.menu.signOut.label "Ñesẽ…">
-<!ENTITY fxa.menu.deviceSettings.label "Mba'e'oka ñemboheko">
 <!ENTITY fxa.menu.setupSync.label "Emboheko &syncBrand.shortName.label;…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Kundaharape renda URL-pe jeho">
+
 <!ENTITY printButton.label            "Mbokuatia">
 <!ENTITY printButton.tooltip          "Ko kuatiarogue mbokuatia">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Eñangareko DRM software jepuru rehe">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "Eike ta'ãngarupa MIDI pe">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Oñeme’ẽ ko ñanduti rendápe ñemoneĩ jo’a.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Ejokóma ne ta'ãngamýi ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Ejokóma ne ñe'ẽatãha ko ñanduti rendápe g̃uarã.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Ejokóma ko ñanduti renda emoherakuã hag̃ua ne mba'erechaha.">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Ejokóma tembipuru’i ñemohenda ko ñandutípe g̃uarã.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Oñeme’ẽ ko ñanduti rendápe ñemoneĩ jo’a.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
+
 
 <!ENTITY searchItem.title             "Heka">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY manageUserContext.label          "Jeguerekoha ñangarekohára">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Ovetã pyahu">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Hetave">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Ñe'ẽreka ýrõ kundaharape">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Ko ovetã'i techaukaháre mbojoapy">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Link Mbohasarã">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Eñongatu Pocket-pe">
+
 <!ENTITY saveToPocketCmd.label        "Eñongatu kuatiarogue Pocket-pe">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Eñongatu juajuha Pocket-pe">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Jeikekatu">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
 
-<!ENTITY identity.connectionSecure3 "Jeikekatu">
-<!ENTITY identity.connectionNotSecure2 "Jeikekatu'ỹ">
-<!ENTITY identity.connectionNotSecureSecurityView "Nde jeike nahekorosãi ko tendápe.">
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified2 "Eikhína tekorosãme ko tendápe, mba'eteépe:">
-<!ENTITY identity.connectionVerified3 "Eikehína tekorosãme ko tendápe.">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
 <!ENTITY identity.extensionPage "Ko kuatiarogue oñemyanyhẽ jepysokue guive.">
 <!ENTITY identity.insecureLoginForms2 "Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
 <!ENTITY identity.customRoot "Jeike ohechapyréva mboajepyre me’ẽha Mozilla omoneĩ’ỹva.">
-
-<!ENTITY identity.evOwnerLabel2 "Mboajepyre osẽmava:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; ojokóma ko kuatiarogue pehẽ ijerovia'ỹha.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Moneĩ">
 
-<!ENTITY identity.permissions3 "Moneĩ">
 <!ENTITY identity.permissionsEmpty "Nome'ẽi ko tenda ñemoneĩ ha'etéva.">
 <!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
 <!ENTITY identity.permissionsPreferences.tooltip "Oĩ moneĩ jeguerohoryvéva">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Mboty">
 

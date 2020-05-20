@@ -9,6 +9,7 @@ graph-week-summary =
         [one] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
        *[other] { -brand-short-name } ojoko { $count } rapykuehoha arapokõindy ohasaramóvape
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -18,10 +19,12 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> tapykuehoha jokopyre { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
        *[other] <b>{ $count }</b> tapykuehoha jokopyre { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } guive
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } ojoko gueteri  tapykuehoha ovetã megua, hákatu noñongatúi pe jokopyre rapykuere.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Tapykuehoha { -brand-short-name } ojejokóva ko arapokõindýpe
+
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -33,33 +36,46 @@ protection-report-header-details-custom = Ñemo’ã oñembohape <b>Personalizad
     .title = Eho ñemigua moĩporãme
 protection-report-page-title = Ñemigua ñemo'ã
 protection-report-content-title = Ñemigua mo’ãha
+
 etp-card-title = Tapykueho mo’ãha mbotuichapyre
 etp-card-content = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
+
 protection-report-etp-card-content-custom-not-blocking = Opaite ñemo’ã oñemboguepa ko’ág̃a. Eiporavo mba’e tapykuehohápa ejokóta emoambuévo { -brand-short-name } mo’ãha ñemboheko.
 protection-report-manage-protections = Eñangareko ñembohekóre
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Ko árape
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Ta’ãnga’i oguerekóva papapy tuichaháicha opaichagua tapykuehoha jokopyre ko arapokõindýpe guare.
+
 social-tab-title = Ava ñandutieta rapykuehoha
 social-tab-contant = Umi ava ñandutieta ohechakuaa tapykuehoha ambue tendápe oikuaa hag̃ua ne rembiapo, omoñe’ẽ ha ohecha ñandutípe. Kóva omoneĩ mba’apohaguasúpe oikuaavévo ndehegui umi emoherakuãvagui nde ava ñandutietápe. <a data-l10n-name="learn-more-link">Kuaave</a>
+
 cookie-tab-title = Kookie rapykuehoha tenda ojoasávape
 cookie-tab-content = Ko’ã kookie ohapykueho opaite hendápe ombyaty hag̃ua mba’ekuaarã ojapóva ñandutípe. Omboaje mbohapyháva, mombe’uháramo ha mba’apoha tesa’ỹijoha. Pe kookie rapykuehoha jejoko tendakuéra pa’ũme omomichĩ maranduñemurã ehecháva. <a data-l10n-name="learn-more-link">Kuaave</a>
+
 tracker-tab-title = Tetepy mo’ãha
 tracker-tab-description = Ñandutikuéra renda ikatu omyanyhẽ marandu ñemurã okayguáva, ta’ãngamýi ha ambue tetepy orekóva tapykuehoha ayvu. Tetepy rapykuehoha jejoko ikatu oipytyvõ tendakuérape henyhẽ pya’eve hag̃ua, hákatu heta votõ, myanyhẽha ha tembiapo ñepyrũ kora ikatu ndoikovéi. <a data-l10n-name="learn-more-link">Kuaave</a>
+
 fingerprinter-tab-title = Ñemokuãhũ
 fingerprinter-tab-content = Umi kuãhũ kuaaukaha ombyaty ne kundahára ñemoĩporã ha ne mohendaha omoheñói hag̃ua mba’ete nenba’erã. Oipurúvo ko kuãhũ ikatu ohapykueho opaichagua ñanduti renda guive. <a data-l10n-name="learn-more-link">Kuaave</a>
+
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Umi criptominero oipurúva nde apopyvusu rembipurupyahu oguenohẽ hag̃ua viru ñandutiguáva. Umi ojuapykuerigua ipapapýva mbohapeha oipurupa ibatería, omombegue ne mohendaha ha ikatu ohupi electricidad repy. <a data-l10n-name="learn-more-link">Kuaave</a>
+
 protections-close-button =
     .aria-label = Mboty
+
 protections-close-button2 =
     .aria-label = Mboty
     .title = Mboty
+  
 mobile-app-title = Ejoko ñemurã rapykuehoha hetave mba’e’okápe
 mobile-app-card-content = Eipuru kundahára oku’éva ñemo’ã ijeheguáva ndive ñemurã rapykuehoha rovake.
 mobile-app-links = Pe kundahára { -brand-product-name } <a data-l10n-name="android-mobile-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = Anivéke nderesarái ne ñe’ẽñemígui
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Ñe’ẽñemi ñeñangareko
@@ -74,6 +90,7 @@ protection-report-manage-passwords-button = Eñangareko Ñe’ẽñemíre
 lockwise-mobile-app-title = Egueraha ne ñe’ẽñemi opa hendápe
 lockwise-no-logins-card-content = Eipuru ñe’ẽñemi eñongatupyre { -brand-short-name } oimeraẽva mba’e’okápe.
 lockwise-app-links = { -lockwise-brand-name } <a data-l10n-name="lockwise-android-inline-link">Android</a> peg̃uarã ha <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -82,6 +99,7 @@ lockwise-passwords-stored =
         [one] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
        *[other] Ñe’ẽñemi mbyatypyre tekorosãme <a data-l10n-name="lockwise-how-it-works">Mba’éicha omba’apo</a>
     }
+
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -89,6 +107,7 @@ lockwise-scanned-text-breached-logins =
         [one] 1 ñe’ẽñemi oikekuaákuri peteĩ mba’ekuaarã ñembyaípe.
        *[other] { $count } ñe’ẽñemi oikekuaákuri peteĩ mba’ekuaarã ñembyaípe.
     }
+
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -99,9 +118,12 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Iñe’ẽñeminguéra oñembyaty tekorosãme.
     }
 lockwise-how-it-works-link = Mba’éicha omba’apo
+
 turn-on-sync = Emyandy { -sync-brand-short-name }...
     .title = Eho ñembojuehe erohoryvévape
+
 manage-connected-devices = Mba'e'oka ñangarekoha…
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -109,12 +131,14 @@ lockwise-connected-device-status =
         [one] Oike mba’e’okápe { $count } ndive
        *[other] Oike mba’e’okuérape { $count } ndive
     }
+
 monitor-title = Ema’ẽag̃uíke mba’ekuaarã ñembyaíre
 monitor-link = Mba'éichapa oba'apo
 monitor-header-content-no-account = Ehecha { -monitor-brand-name } eikuaa hag̃ua oĩpara’e mba’ekuaarã kuaapýva ñembyaípe ha oñembou hag̃ua ndéve kyhyjyrã mba’evai rehegua.
 monitor-header-content-signed-in = { -monitor-brand-name } ne nemongyhyje ne marandu’i oĩ haguére mba’ekuaarã ñembyai kuaapývape.
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
 auto-scan = Ijehegui ohechajey ko árape
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -123,6 +147,7 @@ info-monitored-emails =
         [one] Ñanduti veve kundaharape jehechameméva
        *[other] Ñanduti veve kundaharape jehechameméva
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -131,6 +156,7 @@ info-known-breaches-found =
         [one] Mba’ekuaarã kuaapýva ñembyai omomarãkuaa ne marandu
        *[other] Mba’ekuaarãkuéra kuaapýva ñembyai omomarãkuaa ne marandu
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -139,7 +165,9 @@ info-exposed-passwords-found =
         [one] Ñe’ẽñemi ojehecháva heta ñemboguaha rupive
        *[other] Ñe’ẽñemi ojehecháva heta ñemboguaha rupive
     }
+
 full-report-link = Ehechapa marandu’i <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> rehegua
+
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.

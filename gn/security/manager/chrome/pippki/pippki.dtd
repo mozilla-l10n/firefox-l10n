@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Ojejerure ndéve ejerovia hag̃ua pe Myakãha Mboajeha (MM) pyahu rehe.">
 <!ENTITY downloadCert.trustSSL "Ejerovia ko CA rehe ehechakuaa hag̃ua ñanduti renda.">
 <!ENTITY downloadCert.trustEmail "Ejerovia ko CA rehe ehechakuaa hag̃ua ñandutiveve puruhára.">
-<!ENTITY downloadCert.trustObjSign "Ejerovia ko CA rehe ehechakuaa hag̃ua software mboguatahápe.">
 <!ENTITY downloadCert.message3 "Ejerovia mboyve ko CA rehe oimeraẽva ejaposévape, ehechajeyjey pe mboajepyre, purureko ha tembiaporape CA rehegua (ojepurukuaáramo).">
 <!ENTITY downloadCert.viewCert.label "Hecha">
 <!ENTITY downloadCert.viewCert.text "CA mboajepyre hechakatu">

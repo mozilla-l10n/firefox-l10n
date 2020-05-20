@@ -13,6 +13,7 @@ enable-common-message = Firefox mboguatahára rembipuru oñembotýma ojipykue ru
 enable-learn-more-link = Eikuaave mboguatahára rembipuru rehegua
 enable-enable-button = Embojuruja mboguatahára rembipuru
 enable-close-button = Emboty ko tendayke
+
 welcome-title = ¡Tereg̃uahẽporãite Firefox mboguatahára rembipurúpe!
 newsletter-title = Mozilla Mboguatahára kuatiahai
 newsletter-message = Embyaty marandu,ñembosarái ha opa mba'e mboguatahára rehegua neñe'ë vevetépe
@@ -22,9 +23,11 @@ newsletter-privacy-label = Amoneĩ Mozilla-pe ohechávo che mba'ekuarã omyesak�
 newsletter-subscribe-button = Eñemboheraguapy
 newsletter-thanks-title = ¡Aguyje!
 newsletter-thanks-message = Neremoneĩramo gueteri ñemboheraguapy Mozilla reheguáva, ikatu hína ejapova'erã katuete péva. Ikatú piko ehchajey oúmapa ñanduti veve g̃uahẽháme térãpa oĩ ñanduti veve ytyguáva mboguahápe.
+
 footer-title = Firefox Developer Edition
 footer-message = ¿Ehekave mboguatahára rembipuru? Ehechajey Firefox kundahára ojejapoha mboguatahárape g̃uarã añoite ha umi mba'eapo tembiapo ag̃aguáva rehegua.
 footer-learn-more-link = Eikuaave
+
 features-learn-more = Kuaave
 features-inspector-title = Moambuekuaaha
 features-inspector-desc = Ema'ẽag̃ui ha emoĩporã ayvu ejapo hag̃ua moha'ãnga oikóva. <a data-l10n-name="learn-more">{ features-learn-more }</a>
