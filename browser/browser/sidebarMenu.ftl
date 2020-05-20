@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Ditshwayabuka
+
 sidebar-menu-history =
     .label = Histori
+

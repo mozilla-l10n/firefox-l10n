@@ -1,5 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Kgutliso ya Dirasiti">
-<!ENTITY receiptSettings.label "Kgutliso ya Dirasiti">
 <!ENTITY requestReceipt.label "Ha o romela melaetsa, kamehla kopa kgutliso ya rasiti">
 <!ENTITY requestReceipt.accesskey "H">
 <!ENTITY receiptArrive.label "Ha rasiti e fihla:">

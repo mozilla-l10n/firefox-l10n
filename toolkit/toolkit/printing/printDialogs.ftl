@@ -76,6 +76,7 @@ print-window =
     .title = E a printa
 print-complete =
     .value = Ho printa ho Phethilwe.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

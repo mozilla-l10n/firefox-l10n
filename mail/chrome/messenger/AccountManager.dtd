@@ -1,17 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
+
+<!-- extracted from AccountManager.xhtml -->
 
 <!ENTITY accountManagerTitle.label "Disetwa tsa Akhaonte">
 
-<!ENTITY addAccountButton.label "Eketsa Akhaonte...">
-<!ENTITY addAccountButton.accesskey "E">
 <!ENTITY setDefaultButton.label "Seta e le Yakamehla">
 <!ENTITY setDefaultButton.accesskey "k">
-<!ENTITY duplicateButton.label "Duplikeita">
 <!ENTITY removeButton.label "Tlosa Akhaonte">
 <!ENTITY removeButton.accesskey "T">
 
-<!ENTITY nameCol.label "Lebitso">
-<!ENTITY duplicate.label "Duplikeita">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -20,6 +21,6 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 
+<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 55em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Mabapi le di-Plug-in
+
 installed-plugins-label = Di-plug in tse instotsweng
 no-plugins-are-installed-label = Ha ho di-plug in tse instotsweng
 

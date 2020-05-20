@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY emailSectionHdr.label "Imeile">
 <!ENTITY readMsgsLink.label "Bala melaetsa">
 <!ENTITY composeMsgLink.label "Ngola molaetsa o motjha">
@@ -8,7 +12,6 @@
 <!ENTITY accountsSectionHdr.label "Accounts">
 <!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
 <!ENTITY settingsLink.label "Sheba disetwa tsa akhaonte ena">
-<!ENTITY newAcctLink.label "Etsa akhaonte e ntjha">
 
 <!ENTITY advFeaturesSectionHdr.label "Ditshebetso tse hatetseng pele">
 <!ENTITY searchMsgsLink.label "Batla melaetsa">
@@ -17,5 +20,3 @@
 <!ENTITY offlineLink.label "Disetwa tsa ha o sa hokela">
 
 
-<!ENTITY rssSectionHdr.label "Ditaba tsa RSS &amp; Blogs">
-<!ENTITY subscibeRSS.label "Laola phumano ya ditshebeletso">

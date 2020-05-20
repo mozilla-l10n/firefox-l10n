@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Dikshinari ya Hao">
 
 <!ENTITY wordEditField.label "Lentswe le letjha:">
@@ -44,8 +48,6 @@
 <!ENTITY AddButton.accessKey "E">
 <!ENTITY DictionaryList.label "Mantswe a dikshinaring:">
 <!ENTITY DictionaryList.accessKey "M">
-<!ENTITY ReplaceButton.label "Suthisa">
-<!ENTITY ReplaceButton.accessKey "S">
 <!ENTITY RemoveButton.label "Tlosa">
 <!ENTITY RemoveButton.accessKey "l">
 

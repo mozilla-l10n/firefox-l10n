@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Dimelo tsa Lenane">
 
 <!ENTITY ListType.label "Mofuta wa Lenane">
@@ -47,7 +52,6 @@
 <!ENTITY bulletList.value "Lenane (le se nang dinomoro) la Dibulete">
 <!ENTITY numberList.value "Lenane le Nang le Dinomoro">
 <!ENTITY definitionList.value "Lenane la Tlhaloso">
-<!ENTITY changeListMsg.label "Ha o fetola mofuta wa lenane:">
 <!ENTITY changeEntireListRadio.label "Fetola Lenane lohle">
 <!ENTITY changeEntireListRadio.accessKey "F">
 <!ENTITY changeSelectedRadio.label "Fetola feela dintho tse kgethilweng">

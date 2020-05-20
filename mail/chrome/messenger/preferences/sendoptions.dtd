@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY dialog.title "Dikgetho tsa Thomelo">
 <!ENTITY sendMail.title "Fomate ya Mongolo">
 <!ENTITY sendMaildesc.label "Ha o romela molaetsa ka fomate ya HTML mme moamohedi a le mong kapa ho feta a ngotswe hore a ke ke a amohela HTML:">
@@ -9,7 +13,6 @@
 <!ENTITY sendHTML.accesskey "r">
 <!ENTITY sendBoth.label "Romela molaetsa ka bobedi mongolo o poleine le HTML">
 <!ENTITY sendBoth.accesskey "o">
-<!ENTITY receiveHTML.label "Haeba o tseba moamohedi ya itseng ya ka amohelang meile ya HTML, tshwaolla lebokose la 'Romela imeile e le mongolo o poleine (e se HTML)' kareteng moamohedi ya Buka ya Diaterese.">
 <!ENTITY override.label "Temoso: Sebedisa Buka ya Diaterese ho hlalosa difomate tse batlwang tsa mongolo bakeng sa baamohedi.">
 
 <!ENTITY domaindesc.label "Ha o romela molaetsa atereseng e nang le mabitso a domeine a ngotsweng ka tlase mona, &brandShortName; le romela molaetsa ka ho iketsa ka fomate e nepahetseng.">
@@ -17,23 +20,16 @@
 <!ENTITY HTMLTab.accesskey "d">
 <!ENTITY PlainTextTab.label "Didomeine tsa Mongolo o Poleine">
 <!ENTITY PlainTextTab.accesskey "d">
-<!ENTITY AddButton.label "Eketsa...">
 <!ENTITY AddHtmlDomain.accesskey "a">
 <!ENTITY AddPlainText.accesskey "d">
-<!ENTITY DeleteButton.label "Phumula">
 <!ENTITY DeleteHtmlDomain.accesskey "l">
 <!ENTITY DeletePlainText.accesskey "t">
 
 <!ENTITY add.htmltitle "Eketsa Lebitso la Domeine la HTML">
 <!ENTITY add.htmldomain "Lebitso la Domeine la HTML:">
-<!ENTITY add.htmldomain.accesskey "d">
 <!ENTITY add.plaintexttitle "Eketsa Lebitso la Domeine la Mongolo o Poleine">
 <!ENTITY add.plaintextdomain "Lebitso la Domeine la Mongolo o Poleine:">
-<!ENTITY add.plaintext.accesskey "d">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 
-<!ENTITY domainnameError.title "Phoso ya Lebitso la Domeine">
-<!ENTITY duplicationError.label "Lebitso la domeine @string@ le se le le teng lenaneng lena.">
 <!-- LOCALIZATION NOTE: do not translate @string@ -->
 
-<!ENTITY dualEntryError.label "Lebitso la domeine le ke ke la hlaha mananeng a bobedi HTML le Mongolo o Poleine. Lebitso la domeine @string@ le se ntse le le teng.">

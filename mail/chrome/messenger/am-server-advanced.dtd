@@ -1,14 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Disetwa tsa Diakhaonte tse Hatetseng Pele">
-<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY imapAdvanced.label "Disetwa tsa Seva ya IMAP tse Hatetseng Pele">
 <!ENTITY serverDirectory.label "Dairektri seva ya IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Bontsha feela difoldara tse kopilweng tshebetso">
 <!ENTITY usingSubscription.accesskey "t">
 <!ENTITY dualUseFolders.label "Seva e tshehetsa difoldara tse tshwereng difoldara tse nyane le melaetsa">
 <!ENTITY dualUseFolders.accesskey "d">
-<!ENTITY useIdle.label "Sebedisa taelo ya IDLE haeba seva e e tshehetsa">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Palohodimo ya lenane la dikgokahano tsa seva ho cache">
 <!ENTITY maximumConnectionsNumber.accesskey "P">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
@@ -21,12 +21,6 @@
 <!ENTITY otherUsersNamespace.accesskey "B">
 <!ENTITY overrideNamespaces.label "Dumella seva ho tlola mabitso ana a dibaka">
 <!ENTITY overrideNamespaces.accesskey "D">
-<!ENTITY pop3Desc.label "Ha o jarolla meile e itlhahisang seveng ena, sebedisa diphuthelo tse latelang bakeng sa imeili e ntjha:">
-<!ENTITY folderStorage.label "Imeili e ka bolokwa kae">
-<!ENTITY globalInbox.label "Lebokose la Tsekenang le Akaretsang (Akhaonte ya Difoldara)">
-<!ENTITY globalInbox.accesskey "L">
-<!ENTITY accountDirectory.label "Tsekenang bakeng sa seva ya akhaonte ena">
-<!ENTITY accountDirectory.accesskey "N">
 <!ENTITY deferToServer.label "Tsekenang bakeng sa akhaonte e fapaneng">
 <!ENTITY deferToServer.accesskey "F">
 <!ENTITY deferGetNewMail.label "Kenyeletsa seva ena ha o fumana meile e ntjha">

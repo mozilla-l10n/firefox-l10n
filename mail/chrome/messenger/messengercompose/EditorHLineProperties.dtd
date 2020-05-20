@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Dimelo tsa Dilaene tse Rapameng">
 
 <!ENTITY dimensionsBox.label "Mahlakore">
@@ -46,11 +51,8 @@
 <!ENTITY widthEditField.accessKey "B">
 <!ENTITY pixelsPopup.value "dipiksele">
 <!ENTITY alignmentBox.label "Matahanyo">
-<!ENTITY leftRadio.value "Leqeleng">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Bohareng">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "Le letona">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "Thothofatso ya 3-D">

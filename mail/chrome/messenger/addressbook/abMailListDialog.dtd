@@ -37,22 +37,24 @@
  ***** END LICENSE BLOCK ***** -->
 <!-- Title -->
 
-<!ENTITY mailListWindow.title "Lenane la Meile">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Labels -->
 <!ENTITY addToAddressBook.label "Eketsa ho: ">
 
+<!ENTITY addToAddressBook.accesskey "E">
 <!ENTITY ListName.label "Lenane la Mabitso: ">
+<!ENTITY ListName.accesskey "L">
 <!ENTITY ListNickName.label "Lenane Mabitso a Boswasiwi: ">
+<!ENTITY ListNickName.accesskey "M">
 <!ENTITY ListDescription.label "Tlhaloso: ">
+<!ENTITY ListDescription.accesskey "a">
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Thaepa diaterese tsa diemeili hore o di eketse lenaneng la meile:">
-<!ENTITY RemoveButton.label "Tlosa">
 <!ENTITY UpButton.label "Eya Hodimo">
 <!ENTITY DownButton.label "Eya Tlase">
 <!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey "E">
-<!ENTITY ListName.accesskey "L">
-<!ENTITY ListNickName.accesskey "M">
-<!ENTITY ListDescription.accesskey "a">
 

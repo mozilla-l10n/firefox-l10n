@@ -1,9 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
+
+<!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Disetwa tsa Akhaonte">
 <!ENTITY accountName.label "Lebitso Akhaonte:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY accountNameDesc.label "Lebitso la akhaonte le sebedisetswa ho tsebahatsa akhaonte ka nngwe">
 <!ENTITY identityTitle.label "Boitsebiso ba Kemehla">
 <!ENTITY identityDesc.label "Akhaonte ka nngwe e na le tsebahatso, e leng lesedi leo batho ba bang ba le bonang ha ba bala melaetsa ya hao.">
 <!ENTITY name.label "Lebitso la Hao:">
@@ -14,8 +19,6 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Mokgatlo:">
 <!ENTITY organization.accesskey "M">
-<!ENTITY signature.label "Hokela Tshaeno ena:">
-<!ENTITY signature.accesskey "k">
 <!ENTITY edit.label "Edita...">
 <!ENTITY choose.label "Kgetha...">
 <!ENTITY choose.accesskey "K">
@@ -32,3 +35,4 @@
 <!ENTITY smtpName.label "Seva e Tswang (SMTP):">
 <!ENTITY smtpName.accesskey "e">
 <!ENTITY smtpDefaultServer.label "Sebedisa Seva Yakamehla">
+

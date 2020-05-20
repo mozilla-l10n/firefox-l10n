@@ -8,6 +8,7 @@ password-quality-meter = Mitara ya boleng ba phasewete
 
 change-password-window =
     .title = Fetola Phasewete e Kgolo
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Sesebediswa sa Tshireletseho: { $tokenName }

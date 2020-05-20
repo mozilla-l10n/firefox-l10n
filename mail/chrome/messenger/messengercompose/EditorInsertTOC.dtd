@@ -35,9 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Window.title "Lenane la Dikateng">
 <!ENTITY buildToc.label "Aha lenane la dikateng ho tswa:">
-<!ENTITY style.label "Setaele:">
 <!ENTITY tag.label "Theke:">
 <!ENTITY class.label "Tlelase:">
 <!ENTITY header1.label "Boemo ba 1">

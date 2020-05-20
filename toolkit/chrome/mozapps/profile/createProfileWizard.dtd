@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newprofile.title "Etsa Wizate ya Profaele">
 <!ENTITY window.size "width: 45em; height: 32em;">
 <!-- First wizard page -->
@@ -12,7 +16,6 @@
 <!ENTITY profileCreationIntro.text "Ha o etsa diprofaele tse mmalwa o ka di hlalohanya ka mabitso a diprofaele. O ka sebedisa lebitso le fanweng mona kapa leo e leng la hao.">
 <!ENTITY profilePrompt.label "Kenya lebitso le letjha la profaele:">
 <!ENTITY profilePrompt.accesskey "K">
-<!ENTITY profileDirExplanation.text "Disetwa tsa mosebedisi, kgetho ya hao, ditshwayabuka le meile di tla bolokwa ho:">
 <!ENTITY profileDefaultName "Mosebedisi wa Kamehla">
 <!ENTITY button.choosefolder.label "Kgetha Foldara...">
 <!ENTITY button.choosefolder.accesskey "K">

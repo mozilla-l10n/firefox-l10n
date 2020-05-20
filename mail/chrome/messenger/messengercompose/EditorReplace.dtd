@@ -38,6 +38,12 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Fumana o Tlose">
 <!ENTITY findField.label "Fumana mongolo:">
 <!ENTITY findField.accesskey "m">
@@ -58,4 +64,3 @@
 <!ENTITY replaceAllButton.label "Tlosa Tsohle">
 <!ENTITY replaceAllButton.accesskey "T">
 <!ENTITY closeButton.label "Kwala">
-<!ENTITY notFoundWarning.label "Mongolo oo o kentseng ha o a fumanwa.">
