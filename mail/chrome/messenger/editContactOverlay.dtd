@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Adres defteri:">
 <!ENTITY editContactAddressBook.accesskey "A">
 
-<!ENTITY editContactPanelCancel.label "Vazgeç">
-<!ENTITY editContactPanelCancel.accesskey "V">
-
 <!ENTITY editContactPanelDone.label "Kaydet">
 <!ENTITY editContactPanelDone.accesskey "K">
 

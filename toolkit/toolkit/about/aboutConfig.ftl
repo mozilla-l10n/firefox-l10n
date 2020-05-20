@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Riski kabul ediyorum!
 config-about-warning-checkbox =
     .label = Bu uyarıyı bir sonraki kez yine göster
+
 config-search-prefs =
     .value = Arama:
     .accesskey = A
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopyala
     .accesskey = K
+
 config-copy-name =
     .label = Adı kopyala
     .accesskey = A
+
 config-copy-value =
     .label = Değeri kopyala
     .accesskey = e
+
 config-modify =
     .label = Değiştir
     .accesskey = D
+
 config-toggle =
     .label = Değiştir
     .accesskey = t
+
 config-reset =
     .label = Sıfırla
     .accesskey = S
+
 config-new =
     .label = Yeni
     .accesskey = Y
+
 config-string =
     .label = Dizgi
     .accesskey = D
+
 config-integer =
     .label = Tam sayı
     .accesskey = S
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = varsayılan
 config-modified = değiştirilmiş
 config-locked = kilitli
+
 config-property-string = dizgi
 config-property-int = tam sayı
 config-property-bool = boolean
+
 config-new-prompt = Tercih adını yazın
+
 config-nan-title = Geçersiz değer
 config-nan-text = Girdiğiniz metin sayı değil.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Yeni { $type } değeri
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } değerini yazın

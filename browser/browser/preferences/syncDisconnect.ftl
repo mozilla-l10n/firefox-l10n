@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } bağlantısı kesilsin mi?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Bu bilgisayardaki tarayıcı verilerini de silmek ister misiniz? { -sync-brand-name } hesabınızdaki verilere dokunulmayacaktır.
+
 sync-disconnect-remove-sync-caption = { -sync-brand-name } verilerini sil
+
 sync-disconnect-remove-sync-data = Yer imleri, geçmiş, parolalar vb.
+
 sync-disconnect-remove-other-caption = Diğer kişiye özel verileri temizle
+
 sync-disconnect-remove-other-data = Çerezler, önbellek, çevrim dışı site verileri vb.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Bağlantı kesiliyor…
+
 sync-disconnect-cancel =
     .label = Vazgeç
     .accesskey = V
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Bağlantıyı kes ve sil
     .accesskey = B
+
 sync-disconnect-confirm-disconnect =
     .label = Sadece bağlantıyı kes
     .accesskey = S

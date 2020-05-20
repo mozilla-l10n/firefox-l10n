@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "E">
 <!ENTITY DictionaryList.label "Sözlükteki sözcükler:">
 <!ENTITY DictionaryList.accessKey "e">
-<!ENTITY ReplaceButton.label "Değiştir">
-<!ENTITY ReplaceButton.accessKey "D">
 <!ENTITY RemoveButton.label "Kaldır">
 <!ENTITY RemoveButton.accessKey "K">
 

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Düzenleme ve Adresler">
 <!ENTITY addressingGroupTitle.label "Adresler">
 <!ENTITY addressingText.label      "Adreslere bakılırken:">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Hiçbiri">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Düzenleme">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

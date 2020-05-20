@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Yeni e-postaları otomatik indir">
 <!ENTITY downloadOnBiff.accesskey "p">
-<!ENTITY username.label "Kullanıcı adınız">
 <!ENTITY deleteMessagePrefix.label "Bir iletiyi sildiğimde:">
 <!ENTITY modelMoveToTrash.label "Bu dizine taşı:">
 <!ENTITY modelMoveToTrash.accesskey "e">

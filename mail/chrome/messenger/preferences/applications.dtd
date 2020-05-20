@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Yeni Filelink depolama hizmeti ekle">
 <!ENTITY removeCloudFileAccount.label     "Kaldır">
 <!ENTITY removeCloudFileAccount.accesskey "K">
-<!ENTITY authRequired.description         "Bu depolama hizmetinin ayarlarını görmek için kimlik doğrulama gerekiyor.">
-<!ENTITY authRequired.button.label        "Yetkilendir">
-<!ENTITY authRequired.button.accesskey    "Y">
 
 <!ENTITY findCloudFileProviders.label     "Daha fazla sağlayıcı bul…">
 

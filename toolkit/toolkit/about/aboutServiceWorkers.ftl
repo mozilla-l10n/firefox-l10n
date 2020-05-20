@@ -9,17 +9,12 @@ about-service-workers-title = Service Worker'lar hakkında
 about-service-workers-main-title = Kayıtlı Service Worker'lar
 about-service-workers-warning-not-enabled = Service Worker'lar etkinleştirilmemiş.
 about-service-workers-warning-no-service-workers = Hiçbir Service Worker kayıtlı değil.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Köken: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Uygulama Kimliği { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Aktif önbellek adı:</strong> { $name }
 waiting-cache-name = <strong>Bekleyen önbellek adı:</strong> { $name }
 push-end-point-waiting = <strong>Anında ilet uç noktası:</strong> { waiting }
 push-end-point-result = <strong>Anında ilet uç noktası:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Güncelle
+
 unregister-button = Kaydı sil
+
 unregister-error = Bu Service Worker'ın kaydı silinemedi.
+
 waiting = Bekleniyor…

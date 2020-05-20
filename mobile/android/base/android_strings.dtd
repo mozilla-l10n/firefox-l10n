@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Konum Hizmeti çalışıyor">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Otomatik güncellemeler">
-<!ENTITY pref_update_autodownload_wifi "Yalnızca Wi-Fi üzerinden">
-<!ENTITY pref_update_autodownload_never "Asla">
-<!ENTITY pref_update_autodownload_always "Her zaman">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Yardım">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Yer imleri ve geçmiş">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; güncellemesi var">
-<!ENTITY updater_start_select2 "İndirmek için dokunun">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; indiriliyor">
-<!ENTITY updater_downloading_title_failed2 "İndirme başarısız oldu">
-<!ENTITY updater_downloading_select2 "İndirildiğinde güncellemeyi uygulamak için dokunun">
-<!ENTITY updater_downloading_retry2 "Yeniden denemek için dokunun">
-
-<!ENTITY updater_apply_title3 "&brandShortName; güncellemesi indirildi">
-<!ENTITY updater_apply_select3 "Kurmak için dokunun">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Dosyaları ve güncellemeleri indirmek için &brandShortName; tarayıcısının depolamaya erişmesine izin verin.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "İzin ver">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Yeni konuk oturumu">
 <!ENTITY exit_guest_session "Konuk oturumundan çık">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Ses ve video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ipuçları ve püf noktaları">
-<!ENTITY updater_notification_channel "Uygulama güncellemeleri">
 <!ENTITY synced_tabs_notification_channel "Eşitlenmiş sekmeler">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

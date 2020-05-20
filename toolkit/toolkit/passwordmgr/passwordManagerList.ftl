@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Kapat
     .accesskey = K
+
 show-passwords =
     .label = Parolaları göster
     .accesskey = P

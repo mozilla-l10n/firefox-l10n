@@ -20,6 +20,7 @@ open-location = Arama yapın veya adres yazın
 share = Paylaş
 close-window = Pencereyi kapat
 open-sidebar = Kenar çubukları
+
 # This string describes shortcuts for search.
 search-popover = Arama kısayolları
 # Describes searches limited to a specific scope

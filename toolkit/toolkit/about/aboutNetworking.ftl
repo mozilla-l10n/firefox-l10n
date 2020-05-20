@@ -9,24 +9,12 @@ ok = Tamam
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = DNS soneki
 websockets = WebSockets
 refresh = Yenile
 auto-refresh = 3 saniyede bir otomatik yenile
 hostname = Makine adı
 port = Port
 http2 = HTTP/2
-about-networking-title = Ağ hakkında
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS soneki
-about-networking-websockets = WebSockets
-about-networking-refresh = Yenile
-about-networking-auto-refresh = 3 saniyede bir otomatik yenile
-about-networking-hostname = Makine adı
-about-networking-port = Port
-about-networking-http-version = HTTP sürümü
 ssl = SSL
 active = Etkin
 idle = Beklemede
@@ -69,8 +57,18 @@ rcwn-avg-long = Uzun ortalama
 rcwn-std-dev-long = Uzun standart sapma
 rcwn-cache-slow = Yavaş önbellek sayısı
 rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
-networkid = Ağ kimliği
-networkid-id = Ağ kimliği
+
+about-networking-title = Ağ hakkında
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS soneki
+about-networking-websockets = WebSockets
+about-networking-refresh = Yenile
+about-networking-auto-refresh = 3 saniyede bir otomatik yenile
+about-networking-hostname = Makine adı
+about-networking-port = Port
+about-networking-http-version = HTTP sürümü
 about-networking-ssl = SSL
 about-networking-active = Etkin
 about-networking-idle = Beklemede
@@ -118,8 +116,6 @@ about-networking-networkid-id = Ağ kimliği
 
 ## Link is intended as "network link"
 
-networkid-isUp = Bağlantı çalışıyor
-networkid-statusKnown = Bağlantı durumu bilinmiyor
 about-networking-networkid-is-up = Bağlantı çalışıyor
 about-networking-networkid-status-known = Bağlantı durumu bilinmiyor
 

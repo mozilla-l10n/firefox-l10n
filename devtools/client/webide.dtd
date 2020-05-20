@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "s">
 
 <!ENTITY projectButton_label "Uygulama aç">
+
 <!ENTITY runtimeButton_label "Çalışma zamanı seç">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB aygıtları">
 <!ENTITY runtimePanel_wifi "Wi-Fi aygıtları">
 <!ENTITY runtimePanel_other "Diğer">
-<!ENTITY runtimePanel_noadbhelper "ADB Helper’ı yükle">
 <!ENTITY runtimePanel_nousbdevice "Cihazınızı göremiyor musunuz?">
 <!ENTITY runtimePanel_refreshDevices_label "Cihazları yenile">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Çalışma zamanı bilgileri">
-<!ENTITY runtimedetails_adbIsRoot "ADB root mu?: ">
-<!ENTITY runtimedetails_summonADBRoot "root cihaz">
-<!ENTITY runtimedetails_ADBRootWarning "(kilitsiz bootloader gerekir)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Kısıtlamasız DevTools izinleri: ">
-<!ENTITY runtimedetails_requestPrivileges "daha fazla izin iste">
-<!ENTITY runtimedetails_privilegesWarning "(Cihaz yeniden başlatılacaktır. Root erişimi gerekir.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Boolean">

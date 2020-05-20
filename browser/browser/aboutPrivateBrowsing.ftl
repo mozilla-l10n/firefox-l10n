@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = <a data-l10n-name="learn-more">Gizli Gezinti</a> hakkında daha fazla bilgi alın.
 about-private-browsing-info-visited = ziyaret ettiğiniz sayfalar
+
 privatebrowsingpage-open-private-window-label = Gizli pencere aç
     .accesskey = G
 about-private-browsing-info-notsaved = Gizli Pencere’yi kullanırken { -brand-short-name } <strong>şunları kaydetmez</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Şu anda gizli bir pencerede değilsiniz.
 content-blocking-title = İçerik engelleme
 content-blocking-description = Bazı web siteleri, siteler arasında gezindiğinizde sizi izleyebilecek takipçiler kullanır. Gizli penceredeyken { -brand-short-name }’un içerik engelleme özelliği, gezintinizle ilgili bilgi toplayarak takipçilerin çoğunu otomatik olarak engeller.
 about-private-browsing-info-description = { -brand-short-name } uygulamasından çıktığınızda veya tüm Gizli Gezinti sekmelerini ve pencerelerini kapattığınızda arama ve gezinti geçmişiniz temizlenir. Bu işlem, web sitelerinin ve internet servis sağlayıcınızın sizi tanımamasını sağlamaz ama bu bilgisayarı kullanan başkaları varsa internette yaptıklarınızı onlardan gizlemenizi sağlar.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

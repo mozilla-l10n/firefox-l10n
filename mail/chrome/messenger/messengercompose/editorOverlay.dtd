@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Yeni bir isimli çıpa ekle veya seçili çıpanın özelliklerini düzenle">
 <!ENTITY TextColorButton.tooltip "Metin rengini seç">
 <!ENTITY BackgroundColorButton.tooltip "Arka plan rengini seç">
-<!ENTITY throbber.tooltip "&vendorShortName; ana sayfasına git">
 <!ENTITY throbber.tooltip2 "&brandShortName; ana sayfasına git">
 <!ENTITY HighlightColorButton.tooltip "Vurgulu metin rengini seç">
 

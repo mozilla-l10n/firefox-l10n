@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Yardım"> 
 <!ENTITY helpMenuWin.accesskey    "Y">
+
 <!ENTITY aboutProduct2.label      "&brandShorterName; hakkında">
 <!ENTITY aboutProduct2.accesskey  "h">
 <!ENTITY productHelp2.label       "&brandShorterName; yardımı">

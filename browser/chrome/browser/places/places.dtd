@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Yeni ayraç">
 <!ENTITY cmd.new_separator.accesskey       "Y">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Canlı Yer İmini tazele">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "t">
-
-<!ENTITY cmd.moveBookmarks.label                  "Taşı…">
-<!ENTITY cmd.moveBookmarks.accesskey              "T">
-
 <!ENTITY col.name.label          "Adı">
 <!ENTITY col.tags.label          "Etiketler">
 <!ENTITY col.url.label           "Konum">
 <!ENTITY col.mostrecentvisit.label "Son ziyaret">
 <!ENTITY col.visitcount.label    "Ziyaret sayısı">
-<!ENTITY col.description.label   "Açıklama">
 <!ENTITY col.dateadded.label     "Ekleme tarihi">
 <!ENTITY col.lastmodified.label  "Son değişiklik">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "İleriye gider">
 
-<!ENTITY detailsPane.more.label "Daha fazla ayrıntı">
-<!ENTITY detailsPane.more.accesskey "a">
-<!ENTITY detailsPane.less.label "Daha az ayrıntı">
-<!ENTITY detailsPane.less.accesskey "D">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
 
 <!ENTITY view.label               "Görünüm">

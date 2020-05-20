@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Uygulama ayrıntıları
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Sil
     .accesskey = l
-app-manager-handle-webfeeds = Web beslemeleri aşağıdaki uygulamalarla kullanılabilir.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } bağlantıları aşağıdaki uygulamalarla kullanılabilir.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } içeriği aşağıdaki uygulamalarla kullanılabilir.

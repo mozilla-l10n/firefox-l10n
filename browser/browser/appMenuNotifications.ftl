@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = T
 appmenu-addon-private-browsing-message = Bundan sonra { -brand-shorter-name } tarayıcınıza ekleyeceğiniz eklentiler, siz özellikle izin vermedikçe gizli pencerelerde çalışmayacak.
 appmenu-addon-private-browsing-learn-more = Eklenti ayarlarını yönetmeyi öğrenin.
+    
 appmenu-new-tab-controlled =
     .label = Yeni Sekme’niz değişti.
     .buttonlabel = Değişiklikleri koru

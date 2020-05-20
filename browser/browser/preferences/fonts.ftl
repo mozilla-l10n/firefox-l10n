@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Yazı tipleri
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Karakter kümesi
     .accesskey = K
+
 fonts-langgroup-arabic =
     .label = Arapça
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Orantılı
     .accesskey = a
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Boyut
     .accesskey = B
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Eş aralıklı
     .accesskey = E
+
 fonts-monospace-size = Boyut
     .accesskey = u
+
 fonts-minsize = En küçük yazı tipi boyutu
     .accesskey = o
+
 fonts-minsize-none =
     .label = Yok
+
 fonts-allow-own =
     .label = Yukarıdaki seçimlerim yerine sayfaların kendi yazı tiplerini seçmelerine izin ver
     .accesskey = u
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Eski içerikler için metin kodlaması
 fonts-languages-fallback-desc = Bu metin kodlaması, kendi kodlamasını tanımlayamayan eski içerikler için kullanılır.
+
 fonts-languages-fallback-label = Yedek metin kodlaması
     .accesskey = d
+
 fonts-languages-fallback-name-auto =
     .label = Geçerli dil için varsayılan
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamca
 fonts-languages-fallback-name-other =
     .label = Diğer (Batı Avrupa dahil)
-fonts-very-large-warning-title = Büyük minimum yazı tipi boyutu
-fonts-very-large-warning-message = Çok büyük bir "en küçük yazı tipi" boyutu seçtiniz (24 pikselden fazla). Bunun gibi bazı önemli yapılandırma sayfalarını kullanmanız zor veya olanaksız olabilir.
-fonts-very-large-warning-accept = Değişikliklerimi yine de kaydet
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

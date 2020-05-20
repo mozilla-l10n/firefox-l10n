@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Google Play’den indir
 login-app-promo-apple =
     .alt = App Store’dan indir
+
 login-filter =
     .placeholder = Hesaplarda ara
+
 create-login-button = Yeni hesap oluştur
+
 fxaccounts-sign-in-text = Parolalarınızı tüm cihazlarınıza aktarın
 fxaccounts-sign-in-button = { -sync-brand-short-name }’e giriş yapın
 fxaccounts-avatar-button =
@@ -107,20 +110,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Kayıtlı hesabı düzenlemek için kimliğinizi doğrulayın.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Hesabınızı düzenlemek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = kayıtlı hesabı düzenleme
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Kayıtlı parolayı görmek için kimliğinizi doğrulayın.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Parolanızı görmek için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = kayıtlı parolayı gösterme
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Kayıtlı parolayı kopyalamak için kimliğinizi doğrulayın.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Parolanızı kopyalamak için Windows hesap bilgilerinizi girin. Bu sayede hesaplarınızı daha güvenli bir şekilde koruyabiliriz.
 # This message can be seen when attempting to copy a password in about:logins
@@ -157,9 +165,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = İptal
 confirmation-dialog-dismiss-button =
     .title = İptal
+
 about-logins-confirm-remove-dialog-title = Bu hesap kaldırılsın mı?
 confirm-delete-dialog-message = Bu işlem geri alınamaz.
 about-logins-confirm-remove-dialog-confirm-button = Kaldır
+
 confirm-discard-changes-dialog-title = Kaydedilmemiş değişikliklerden vazgeçilsin mi?
 confirm-discard-changes-dialog-message = Kaydedilmemiş değişikliklerin tümü kaybolacak.
 confirm-discard-changes-dialog-confirm-button = Vazgeç
@@ -190,5 +200,6 @@ about-logins-vulnerable-alert-learn-more-link = Daha fazla bilgi al
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = { $loginTitle } için bu kullanıcı adına sahip bir kayıt zaten var. <a data-l10n-name="duplicate-link">Mevcut kayda gitmek ister misiniz?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Bu parola kaydedilirken bir hata oluştu.

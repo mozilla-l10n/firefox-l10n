@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Sağlayıcı
     .accesskey = c
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Varsayılan)
     .tooltiptext = HTTPS üzerinden DNS'i çözümlerken varsayılan URL'i kullan
+
 connection-dns-over-https-url-custom =
     .label = Özel
     .accesskey = Ö
     .tooltiptext = HTTPS üzerinden DNS'i çözümlemek için tercih ettiğiniz URL'i girin
+
 connection-dns-over-https-custom-label = Özel

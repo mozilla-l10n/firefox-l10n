@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Besleme adresi:">
 <!ENTITY feedLocation.accesskey      "a">
-<!ENTITY feedLocation.placeholder    "Eklemek için geçerli bir besleme adresi girin">
 <!ENTITY feedLocation2.placeholder   "Geçerli bir besleme adresi girin">
 <!ENTITY locationValidate.label      "Doğrula">
 <!ENTITY validateText.label          "Doğurlamayı denetle ve geçerli bir adres al.">

@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Yeni gizli pencerede aç
     .accesskey = z
+
 places-new-bookmark =
     .label = Yeni yer imi…
     .accesskey = m
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Yeni ayraç
     .accesskey = Y
+
 places-view =
     .label = Görünüm
     .accesskey = G
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Tarih ve site
     .accesskey = T
+
 places-history-search =
     .placeholder = Geçmişte ara
 places-bookmarks-search =
     .placeholder = Yer imlerinde ara
+
 places-delete-domain-data =
     .label = Bu siteyi unut
     .accesskey = u
