@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Katkaistaanko yhteys { -sync-brand-short-name }-palveluun?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Haluatko myös poistaa selaintiedot tältä tietokoneelta? { -sync-brand-name } -tietosi säilyvät kuitenkin tililläsi.
+
 sync-disconnect-remove-sync-caption = Poista { -sync-brand-name } -tiedot
+
 sync-disconnect-remove-sync-data = Kirjanmerkit, historia, salasanat jne.
+
 sync-disconnect-remove-other-caption = Poista muut yksityiset tiedot
+
 sync-disconnect-remove-other-data = Evästeet, välimuisti, yhteydettömän tilan tiedot jne.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Katkaistaan yhteys…
+
 sync-disconnect-cancel =
     .label = Peruuta
     .accesskey = P
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Katkaise yhteys ja poista
     .accesskey = K
+
 sync-disconnect-confirm-disconnect =
     .label = Pelkästään katkaise yhteys
     .accesskey = k

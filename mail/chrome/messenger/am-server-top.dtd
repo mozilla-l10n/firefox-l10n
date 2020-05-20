@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "a">
 <!ENTITY downloadOnBiff.label "Nouda uudet viestit automaattisesti">
 <!ENTITY downloadOnBiff.accesskey "N">
-<!ENTITY username.label "Käyttäjätunnuksesi">
 <!ENTITY deleteMessagePrefix.label "Kun viesti poistetaan:">
 <!ENTITY modelMoveToTrash.label "Siirrä viesti roskakoriin">
 <!ENTITY modelMoveToTrash.accesskey "i">

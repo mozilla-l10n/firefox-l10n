@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Ei välitystä osoitteille:">
 <!ENTITY  noproxy.accesskey             "v">
 <!ENTITY  noproxyExplain.label          "Esimerkiksi: 192.168.1.0/24, .mozilla.org, .fi">
+<!ENTITY  shareproxy.label              "Sama välityspalvelin kaikille yhteyskäytännöille">
+<!ENTITY  shareproxy.accesskey          "m">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Yhteyksiä kohteisiin localhost, 127.0.0.1 ja ::1 ei koskaan ohjata välityspalvelimen kautta.">
-<!ENTITY  shareproxy.label              "Sama välityspalvelin kaikille yhteyskäytännöille">
-<!ENTITY  shareproxy.accesskey          "m">
 <!ENTITY  proxyHttpSharing.label        "Käytä tätä välityspalvelinta myös HTTPS:lle">
 <!ENTITY  proxyHttpSharing.accesskey    "v">
 <!ENTITY  autologinproxy.label          "Älä pyydä tunnistautumista, jos salasana on tallennettu">

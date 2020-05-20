@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Lataa Google Playsta
 login-app-promo-apple =
     .alt = Lataa App Storesta
+
 login-filter =
     .placeholder = Etsi kirjautumistietoja
+
 create-login-button = Luo uusi kirjautumistieto
+
 fxaccounts-sign-in-text = Käytä salasanojasi kaikilla laitteillasi
 fxaccounts-sign-in-button = Kirjaudu { -sync-brand-short-name }-palveluun
 fxaccounts-avatar-button =
@@ -43,7 +46,6 @@ login-list-count =
 login-list-sort-label-text = Järjestys:
 login-list-name-option = Nimi (A–Ö)
 login-list-name-reverse-option = Nimi (Ö–A)
-login-list-breached-option = Tietovuodon kokeneet sivustot
 about-logins-login-list-alerts-option = Hälytykset
 login-list-last-changed-option = Viimeksi muokattu
 login-list-last-used-option = Viimeksi käytetty
@@ -104,16 +106,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Vahvista henkilöllisyytesi muokataksesi tallennettuja tietoja.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = muokata tallennettua kirjautumistietoa
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Vahvista henkilöllisyytesi nähdäksesi tallennetun salasanan.
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = paljastaa tallennetun salasanan
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Vahvista henkilöllisyytesi kopioidaksesi tallennetun salasanan.
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopioida tallennetun salasanan
@@ -144,9 +151,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Peruuta
 confirmation-dialog-dismiss-button =
     .title = Peruuta
+
 about-logins-confirm-remove-dialog-title = Poistetaanko tämä kirjautumistieto?
 confirm-delete-dialog-message = Tätä toimintoa ei voi perua.
 about-logins-confirm-remove-dialog-confirm-button = Poista
+
 confirm-discard-changes-dialog-title = Hylätäänkö tallentamattomat muutokset?
 confirm-discard-changes-dialog-message = Kaikki tallentamattomat muutokset menetetään.
 confirm-discard-changes-dialog-confirm-button = Hylkää
@@ -155,9 +164,6 @@ confirm-discard-changes-dialog-confirm-button = Hylkää
 
 about-logins-breach-alert-title = Sivuston tietovuoto
 breach-alert-text = Salasanat vuotivat tai niitä varastettiin tältä sivustolta sen jälkeen, kun olet viimeksi päivittänyt kirjautumistietosi. Suojaa tilisi vaihtamalla salasanasi.
-breach-alert-link = Lue lisää tästä vuodosta.
-breach-alert-dismiss =
-    .title = Sulje tämä hälytys
 about-logins-breach-alert-date = Tämä vuoto tapahtui { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
@@ -180,5 +186,6 @@ about-logins-vulnerable-alert-learn-more-link = Lue lisää
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Kirjautumistieto sivulle { $loginTitle } tällä käyttäjätunnuksella on jo olemassa. <a data-l10n-name="duplicate-link">Siirrytäänkö olemassa olevaan kirjautumistietoon?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Tätä salasanaa tallentaessa ilmeni virhe.

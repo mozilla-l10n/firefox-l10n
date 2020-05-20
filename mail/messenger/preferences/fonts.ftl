@@ -4,6 +4,7 @@
 
 fonts-window-close =
     .key = s
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

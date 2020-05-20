@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "Tämä sivusto käyttää liitännäistä, joka voi hidastaa &brandShortName;ia.">
 <!ENTITY tapToPlayPlugin                                     "Käynnistä liitännäinen napsauttamalla tätä.">
 <!ENTITY clickToActivatePlugin                               "Käynnistä liitännäinen.">
 <!ENTITY checkForUpdates                                     "Hae päivitystä…">

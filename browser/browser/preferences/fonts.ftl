@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Kirjasinlajit
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Merkistö
     .accesskey = M
+
 fonts-langgroup-arabic =
     .label = Arabialainen
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Suhteellinen
     .accesskey = S
+
 fonts-default-serif =
     .label = Pääteviivallinen
 fonts-default-sans-serif =
     .label = Pääteviivaton
+
 fonts-proportional-size = Koko
     .accesskey = K
+
 fonts-serif = Pääteviivallinen
     .accesskey = P
+
 fonts-sans-serif = Pääteviivaton
     .accesskey = ä
+
 fonts-monospace = Tasavälinen
     .accesskey = T
+
 fonts-monospace-size = Koko
     .accesskey = o
+
 fonts-minsize = Pienin kirjasinkoko
     .accesskey = e
+
 fonts-minsize-none =
     .label = Ei ole
+
 fonts-allow-own =
     .label = Sivut saavat käyttää omia kirjasinlajejaan oletusten sijaan
     .accesskey = u
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Merkistökoodaus perinteiselle sisällölle
 fonts-languages-fallback-desc = Tätä merkistökoodausta käytetään perinteiselle sisällölle, jolle ei virheellisesti ole määritelty käytettävää merkistökoodausta.
+
 fonts-languages-fallback-label = Merkistökoodaus virhetilanteessa
     .accesskey = v
+
 fonts-languages-fallback-name-auto =
     .label = Oletus nykyiselle alueasetukselle
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamilainen
 fonts-languages-fallback-name-other =
     .label = Muu (ml. länsieurooppalainen)
-fonts-very-large-warning-title = Suurikokoinen pienin mahdollinen kirjasinkoko
-fonts-very-large-warning-message = Pienimmäksi mahdolliseksi kirjasinkooksi on valittu suuri koko (yli 24 kuvapistettä). Joidenkin asetussivujen, kuten tämän, käyttö voi muodostua vaikeaksi tai mahdottomaksi näin suurella kirjasinkoolla.
-fonts-very-large-warning-accept = Tallenna muutokset tästä huolimatta
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

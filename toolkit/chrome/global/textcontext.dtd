@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Täytä kirjautumiskenttä">
 <!ENTITY fillLoginMenu.accesskey      "T">
-<!ENTITY fillGeneratedPassword.label  "Käytä turvallisesti luotua salasanaa">
-<!ENTITY fillGeneratedPassword.accesskey "S">
-<!ENTITY useGeneratedPassword.label   "Käytä turvallisesti luotua salasanaa…">
-<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Täytä salasana">
 <!ENTITY fillPasswordMenu.accesskey   "T">
 <!ENTITY fillUsernameMenu.label       "Täytä käyttäjätunnus">

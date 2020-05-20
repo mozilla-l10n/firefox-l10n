@@ -13,9 +13,13 @@ create-profile-first-page-header =
         [macos] Esittely
        *[other] Tervetuloa
     }
+
 profile-creation-explanation-1 = { -brand-short-name } tallentaa asetuksesi ja muut tiedot henkilökohtaiseen profiilisi.
+
 profile-creation-explanation-2 = Jos samaa { -brand-short-name }ia käyttää useampi henkilö, voit pitää jokaisen käyttäjän tiedot erillään luomalla heille nimikkoprofiilit.
+
 profile-creation-explanation-3 = Vaikka olisit tämän { -brand-short-name }in ainoa käyttäjä, ainakin yhden profiilin täytyy silti olla luotuna. Halutessasi voit luoda useita profiileja erilaisia käyttötilanteita varten. Voit esimerkiksi luoda omat profiilit työ- ja vapaa-ajan käyttöön.
+
 profile-creation-explanation-4 =
     { PLATFORM() ->
         [macos] Aloita profiilin luominen valitsemalla Seuraava.
@@ -29,15 +33,21 @@ create-profile-last-page-header =
         [macos] Viimeistely
        *[other] Viimeistely
     }
+
 profile-creation-intro = Jos luot useita profiileja, voit erotella ne nimen perusteella. Voit käyttää annettua nimeä tai keksiä oman.
+
 profile-prompt = Anna uuden profiilin nimi:
     .accesskey = A
+
 profile-default-name =
     .value = Oletuskäyttäjä
+
 profile-directory-explanation = Asetukset ja muut käyttäjäkohtaiset tiedot tallennetaan kansioon:
+
 create-profile-choose-folder =
     .label = Valitse kansio…
     .accesskey = V
+
 create-profile-use-default =
     .label = Käytä oletuskansiota
     .accesskey = O

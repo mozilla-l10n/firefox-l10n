@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Aseta aloitussivu
     .style = width: 32em;
+
 select-bookmark-desc = Valitse kirjanmerkki, jonka haluat aloitussivuksi. Jos valitset aloitussivuksi kansion, siinä olevat kirjanmerkit avautuvat välilehtiin.

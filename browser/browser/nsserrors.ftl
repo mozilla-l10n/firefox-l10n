@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Tapahtui virhe oltaessa yhteydessä osoitteeseen { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Virhekoodi: { $error }
+
 psmerr-ssl-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska SSL-yhteiskäytäntö on otettu pois käytöstä.
 psmerr-ssl2-disabled = Suojatun yhteyden muodostaminen ei onnistu, koska sivusto käyttää vanhempaa, heikkoa versiota SSL-yhteiskäytännöstä.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Vastaanotettiin epäkäypä varmenne. Ota yhteys palvelimen ylläpitoon ja välitä heille seuraava virheilmoitus:
     
     Your certificate contains the same serial number as another certificate issued by the certificate authority.  Please get a new certificate containing a unique serial number.
+
 ssl-error-export-only-server = Ei voida kommunikoida suojatusti. Toinen osapuoli ei tue korkeatasoista salausta.
 ssl-error-us-only-server = Ei voida kommunikoida suojatusti. Toinen osapuoli vaatii korkeatasoista salaustyyppiä, jota ei tueta.
 ssl-error-no-cypher-overlap = Ei voida kommunikoida suojatusti: ei yhteisiä salausalgoritmeja toisen osapuolen kanssa.

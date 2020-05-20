@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = S
 appmenu-addon-private-browsing-message = Yksikään { -brand-shorter-name }iin lisäämäsi uusi laajennus ei toimi yksityisissä ikkunoissa, ellet salli toimintaa asetuksista.
 appmenu-addon-private-browsing-learn-more = Lue lisää kuinka hallita laajennusten asetuksia
+    
 appmenu-new-tab-controlled =
     .label = Uusi välilehti -sivu on vaihtunut.
     .buttonlabel = Säilytä muutokset

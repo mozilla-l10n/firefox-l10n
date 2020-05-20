@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Käytä palveluntarjoajaa
     .accesskey = K
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (oletus)
     .tooltiptext = Käytä oletusosoitetta nimipalvelukyselyjen tekemiseksi HTTPS:n yli
+
 connection-dns-over-https-url-custom =
     .label = Mukautettu
     .accesskey = M
     .tooltiptext = Kirjoita ensisijainen osoite nimipalvelukyselyjen tekemiseksi HTTPS:n yli
+
 connection-dns-over-https-custom-label = Mukautettu

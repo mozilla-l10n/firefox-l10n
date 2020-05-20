@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Arkistointiasetukset">
 <!ENTITY archiveGranularityPrefix.label "Tallenna arkistoitavat viestit:">
 <!ENTITY archiveFlat.label "Yhteen kansioon">

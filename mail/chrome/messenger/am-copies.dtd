@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Kopiot ja kansiot">
 <!ENTITY sendingPrefix.label "Lähetettäessä viestiä">
 <!ENTITY fccMailFolder.label "Luo kopio kansioon:">

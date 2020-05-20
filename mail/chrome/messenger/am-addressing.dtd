@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Kirjoittaminen ja osoitteet">
 <!ENTITY addressingGroupTitle.label "Osoitteisto">
 <!ENTITY addressingText.label      "Etsittäessä osoitteita:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Viestien kirjoittaminen">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Kirjoita viestit HTML-muotoisina">
 <!ENTITY useHtml.accesskey                    "K">
 <!ENTITY autoQuote.label                      "Vastattaessa liitä alkuperäinen viesti automaattisesti lainauksena">
 <!ENTITY autoQuote.accesskey                  "V">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "ja">
-<!ENTITY then.accesskey                       "a">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Vastattaessa,">
 <!ENTITY quoting.accesskey                    "V">

@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey  "Ä">
 <!ENTITY retentionKeepRecent.label "Poista kaikki paitsi uusimmat">
 <!ENTITY retentionKeepRecent.accesskey "P">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Poista aina luetut viestit (ohittaen viestin ikä -asetukset)">
 <!ENTITY retentionApplyToFlagged.label "Älä koskaan poista tähdellä merkittyjä viestejä">
 <!ENTITY retentionApplyToFlagged.accesskey "k">
 

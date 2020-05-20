@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Väri">
 <!ENTITY lastPickedColor.label "Viimeisin poimittu väri">
 <!ENTITY lastPickedColor.accessKey "V">
-<!ENTITY setColor1.label "Napsauta väriä tai">
-<!ENTITY setColor2.label "kirjoita HTML-värikoodi">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Valitse väri:">
 <!ENTITY chooseColor2.label "Syötä HTML-värikoodi">
 <!ENTITY chooseColor2.accessKey "H">
