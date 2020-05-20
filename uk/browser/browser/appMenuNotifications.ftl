@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = Г
 appmenu-addon-private-browsing-message = Нові розширення, які ви додаєте в { -brand-shorter-name }, не працюватимуть в приватних вікнах, доки ви не встановите дозвіл в налаштуваннях.
 appmenu-addon-private-browsing-learn-more = Дізнайтеся, як керувати налаштуваннями розширень.
+    
 appmenu-new-tab-controlled =
     .label = Ваша нова вкладка була змінена.
     .buttonlabel = Зберегти зміни

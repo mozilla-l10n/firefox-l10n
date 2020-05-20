@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Параметри облікового запису">
 <!ENTITY accountName.label "Назва облікового запису:">
 <!ENTITY accountName.accesskey "І">

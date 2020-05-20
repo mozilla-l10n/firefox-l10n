@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL стрічки:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Введіть дійсну адресу стрічки, котру треба додати">
 <!ENTITY feedLocation2.placeholder   "Введіть дійсну адресу стрічки">
 <!ENTITY locationValidate.label      "Підтвердження">
 <!ENTITY validateText.label          "Перевірте підтвердження і отримайте дійсний URL.">

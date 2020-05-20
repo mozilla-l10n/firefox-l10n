@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Колір">
 <!ENTITY lastPickedColor.label "Останній вибраний колір">
 <!ENTITY lastPickedColor.accessKey "О">
-<!ENTITY setColor1.label "Клацніть на кольорі або">
-<!ENTITY setColor2.label "введіть його HTML-код">
-<!ENTITY setColor2.accessKey "в">
 <!ENTITY chooseColor1.label "Оберіть колір:">
 <!ENTITY chooseColor2.label "Введіть значення кольору в форматі HTML">
 <!ENTITY chooseColor2.accessKey "H">

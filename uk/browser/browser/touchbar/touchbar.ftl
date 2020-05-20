@@ -20,6 +20,7 @@ open-location = Введіть запит чи адресу
 share = Поділитися
 close-window = Закрити вікно
 open-sidebar = Бічні панелі
+
 # This string describes shortcuts for search.
 search-popover = Пошукові скорочення
 # Describes searches limited to a specific scope

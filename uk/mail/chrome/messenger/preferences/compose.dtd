@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Шрифт:">
 <!ENTITY font.accesskey                       "Ш">
-<!ENTITY size.label                           "Розмір:">
-<!ENTITY size.accesskey                       "Р">
 <!ENTITY fontSize.label                       "Розмір:">
 <!ENTITY fontSize.accesskey                   "з">
 <!ENTITY useReaderDefaults.label              "Використовувати типові кольори читача">

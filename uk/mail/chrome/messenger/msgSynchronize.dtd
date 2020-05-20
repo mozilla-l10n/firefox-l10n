@@ -4,6 +4,8 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
 
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Завантажити і синхронізувати листи">
 <!ENTITY MsgSelect.label "Елементи для автономної роботи">
 <!ENTITY MsgSyncDesc.label "Якщо ви вже вибрали теки пошти або групи новин для автономної роботи, ви можете завантажити і/або синхронізувати їх. Інакше натисніть кнопку «Вибрати», щоб вибрати теки пошти та груп новин для автономної роботи.">

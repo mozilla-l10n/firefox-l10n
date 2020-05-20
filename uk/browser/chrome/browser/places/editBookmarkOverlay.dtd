@@ -6,10 +6,6 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "І">
 <!ENTITY editBookmarkOverlay.location.label                  "Адреса:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "А">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Адреса стрічки RSS:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ч">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Адреса сайту:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "с">
 <!ENTITY editBookmarkOverlay.folder.label                    "Тека:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Показувати всі теки закладок">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Приховати">

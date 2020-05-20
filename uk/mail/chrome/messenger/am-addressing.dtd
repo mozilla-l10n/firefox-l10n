@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Написання та адресація">
 <!ENTITY addressingGroupTitle.label "Адресація">
 <!ENTITY addressingText.label      "При пошуку адреси:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Написання">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Писати листи у форматі HTML">
 <!ENTITY useHtml.accesskey                    "С">
 <!ENTITY autoQuote.label                      "Автоматично цитувати початкове повідомлення у відповідях">
 <!ENTITY autoQuote.accesskey                  "ц">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Потім ">
-<!ENTITY then.accesskey                       "П">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "При цитаті,">
 <!ENTITY quoting.accesskey                    "т">

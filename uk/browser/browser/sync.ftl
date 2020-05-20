@@ -2,12 +2,11 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-fxa-toolbar-sync-now =
-    .label = Синхронізувати зараз
 fxa-toolbar-sync-syncing =
     .label = Синхронізація…
 fxa-toolbar-sync-syncing-tabs =
     .label = Синхронізація вкладок…
+
 sync-disconnect-dialog-title = Від'єднатися від { -sync-brand-short-name(case: "dat") }?
 sync-disconnect-dialog-body = { -brand-product-name } припинить синхронізацію з вашим обліковим записом, але не видалятиме жодних ваших даних на цьому пристрої.
 fxa-disconnect-dialog-title = Від'єднати { -brand-product-name }?

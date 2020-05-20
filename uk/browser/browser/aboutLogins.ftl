@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Отримати на Google Play
 login-app-promo-apple =
     .alt = Завантажити з App Store
+
 login-filter =
     .placeholder = Шукати паролі
+
 create-login-button = Створити новий запис
+
 fxaccounts-sign-in-text = Отримайте доступ до своїх паролів на інших пристроях
 fxaccounts-sign-in-button = Увійдіть в { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
@@ -108,20 +111,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Підтвердьте свій доступ, щоб редагувати збережений пароль.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Щоб змінити запис, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = редагувати збережений пароль
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Підтвердьте свій доступ, щоб відобразити збережений пароль.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Щоб переглянути пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = відобразити збережений пароль
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Підтвердьте свій доступ, щоб скопіювати збережений пароль.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Щоб скопіювати пароль, введіть свої облікові дані входу для Windows. Це допомагає захистити ваші збережені паролі.
 # This message can be seen when attempting to copy a password in about:logins
@@ -158,9 +166,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Скасувати
 confirmation-dialog-dismiss-button =
     .title = Скасувати
+
 about-logins-confirm-remove-dialog-title = Вилучити цей запис?
 confirm-delete-dialog-message = Це незворотна дія.
 about-logins-confirm-remove-dialog-confirm-button = Вилучити
+
 confirm-discard-changes-dialog-title = Відхилити незбережені зміни?
 confirm-discard-changes-dialog-message = Всі незбережені зміни будуть втрачені.
 confirm-discard-changes-dialog-confirm-button = Відхилити
@@ -191,5 +201,6 @@ about-logins-vulnerable-alert-learn-more-link = Докладніше
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запис для { $loginTitle } з таким іменем користувача вже існує. <a data-l10n-name="duplicate-link">Перейти до того запису?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = При збереженні цього пароля сталася помилка.
