@@ -71,7 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.title "字体大小">
+<!ENTITY FontSizeSelect.title "字号">
 <!ENTITY FontSizeSelect.tooltip "选择字体大小">
 <!ENTITY decreaseFontSize.label "缩小">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -323,7 +323,7 @@
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "设置字体大小">
 <!ENTITY smaller.label "缩小">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小字体">
-<!ENTITY larger.label "放大">
+<!ENTITY larger.label "增大">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "放大字体">
 <!ENTITY bold.label "粗体">
 <!ENTITY boldToolbarCmd.tooltip "粗体">
