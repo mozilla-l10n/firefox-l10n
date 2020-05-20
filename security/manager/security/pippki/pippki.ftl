@@ -8,6 +8,7 @@ password-quality-meter = Password quality meter
 
 change-password-window =
     .title = Change Master Password
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Security Device: { $tokenName }
