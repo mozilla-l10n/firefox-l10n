@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = ନୂତନ ୱିଣ୍ଡୋରେ ଖୋଲନ୍ତୁ
     .accesskey = N
+
 places-new-bookmark =
     .label = ନୂତନ ଚିହ୍ନିତସ୍ଥାନ…
     .accesskey = B
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = ନୂତନ ବିଭାଜକ
     .accesskey = S
+
 places-view =
     .label = ଦୃଶ୍ୟ
     .accesskey = w
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = ତାରିଖ ଏବଂ ସାଇଟ ଦ୍ୱାରା
     .accesskey = t
+
 places-delete-domain-data =
     .label = ଏହି ସାଇଟ ବିଷୟରେ ଭୁଲିଯାଆନ୍ତୁ
     .accesskey = F

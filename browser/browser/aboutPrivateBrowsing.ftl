@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = <a data-l10n-name="learn-more">ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଂ</a> ବାବଦରେ ଅଧିକ ଜାଣନ୍ତୁ ।
 about-private-browsing-info-visited = ଦେଖିଥିବା ପୃଷ୍ଠାଗୁଡ଼ିକ
+
 privatebrowsingpage-open-private-window-label = ଏକ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋ ଖୋଲନ୍ତୁ
     .accesskey = P
 about-private-browsing-info-notsaved = କୌଣସି ବ୍ୟକ୍ତିଗତ ଉଇଣ୍ଡୋରେ ବ୍ରାଉଜ କରୁଥିଲେ, { -brand-short-name } <strong>ସଂରକ୍ଷଣ କରେ ନାହିଁ </strong>:
@@ -24,6 +25,7 @@ about-private-browsing =
 about-private-browsing-not-private = ଆପଣ ବର୍ତ୍ତମାନ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ ନାହାନ୍ତି।
 content-blocking-title = କଣ୍ଟେଣ୍ଟ ଅଟକ
 content-blocking-description = ଅନେକ ୱେବସାଇଟ ଟ୍ରାକର ବ୍ୟବହାର କରି ଇଣ୍ତରନେଟରେ ଆପଣଙ୍କ କାର୍ଯ୍ୟକଳାପ ପର୍ଯବେକ୍ଷଣ କରିପାରନ୍ତି । ବ୍ୟକ୍ତିଗତ ଉଇଣ୍ଡୋରେ, { -brand-short-name } କଣ୍ଟେଣ୍ଟ ବ୍ଲକିଂ ଆପେଆପେ ଆପଣଙ୍କର ବ୍ରାଉଜିଂ ବ୍ୟବହାର ବାବଦରେ ତଥ୍ୟ ସଂଗ୍ରହ କରୁଥିବା ଅନେକ ଟ୍ରାକରଗୁଡ଼ିକୁ ଅଟକାଇ ଦିଏ ।
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

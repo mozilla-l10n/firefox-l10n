@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ସନ୍ଧାନ
     .aria-label = ସନ୍ଧାନ
+
 newtab-search-box-search-the-web-text = ୱେବରେ ଖୋଜନ୍ତୁ
 newtab-search-box-search-the-web-input =
     .placeholder = ୱେବରେ ଖୋଜନ୍ତୁ
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = ସବୁଠାରୁ ଭଲ ସାଇଟ
 newtab-topsites-title-label = ଶୀର୍ଷକ
 newtab-topsites-title-input =
     .placeholder = ଏକ ଶୀର୍ଷକ ଭରନ୍ତୁ
+
 newtab-topsites-url-label = ୟୁଆର୍‌ଏଲ୍‌
 newtab-topsites-url-input =
     .placeholder = ଗୋଟିଏ ଯୁଆରଏଲ ଲେଖନ୍ତୁ କିମ୍ବା ଛାପନ୍ତୁ
 newtab-topsites-url-validation = ବୈଧ ଯୁଆରଏଲ ଆବଶ୍ୟକ
+
 newtab-topsites-image-url-label = ଇଚ୍ଛାରୁପି ଛବି ଯୁଆରଏଲ
 
 ## Top Sites - General form dialog buttons. These are verbs/actions.
@@ -54,6 +57,7 @@ newtab-confirm-delete-history-p2 = ଏହି କାର୍ଯ୍ୟର ପଦକ�
 newtab-menu-section-tooltip =
     .title = ତାଲିକା ଖୋଲନ୍ତୁ
     .aria-label = ତାଲିକା ଖୋଲନ୍ତୁ
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -84,6 +88,8 @@ newtab-privacy-modal-button-done = ସମାପ୍ତ
 newtab-privacy-modal-header = ଆପଣଙ୍କର ଗୋପନୀୟତା ଜରୁରୀ ଅଟେ
 
 
+
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ବୁକମାର୍କ କାଢ଼ିଦିଅନ୍ତୁ
@@ -165,7 +171,6 @@ newtab-discovery-empty-section-topstories-timed-out = ଓହୋ! ପରିଚ୍
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ଲୋକପ୍ରିୟ ବିଷୟଗୁଡ଼ିକ:
 newtab-pocket-more-recommendations = ଅଧିକ ସୁପାରିଶ
-newtab-pocket-how-it-works = ଏହା କିଭଳି କାମ କରେ
 newtab-pocket-cta-button = { -pocket-brand-name } ପାଆନ୍ତୁ
 
 ## Error Fallback Content.

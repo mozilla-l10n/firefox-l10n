@@ -36,9 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "ଚଳନ୍ତି ସୂଚନା">
 
-<!ENTITY runtimeMenu_showMonitor_label "ମନିଟର">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
 
 
 
@@ -53,7 +50,9 @@
 
 
 <!ENTITY projectButton_label "ପ୍ରୟୋଗ ଖୋଲନ୍ତୁ">
+
 <!ENTITY runtimeButton_label "ଚଳନ୍ତି ସମୟକୁ ବାଛନ୍ତୁ">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -74,10 +73,7 @@
 <!ENTITY projectPanel_tabs "ଟ୍ଯାବଗୁଡ଼ିକ">
 <!ENTITY runtimePanel_usb "USB ଉପକରଣଗୁଡ଼ିକ">
 <!ENTITY runtimePanel_wifi "Wi-Fi ଉପକରଣଗୁଡ଼ିକ">
-<!ENTITY runtimePanel_simulator "ଅନୁକାରୀ">
 <!ENTITY runtimePanel_other "ଅନ୍ଯାନ୍ଯ">
-<!ENTITY runtimePanel_installsimulator "ଅନୁକାରୀକୁ ସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY runtimePanel_noadbhelper "ADB ସହାୟକକୁ ସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY runtimePanel_nousbdevice "ଆପଣଙ୍କର ଉପକରଣକୁ ଦେଖିପାରୁ ନାହାନ୍ତି କି?">
 
 <!-- Lense -->
@@ -95,6 +91,8 @@
 <!ENTITY newAppHeader "ନମୁନା ବାଛନ୍ତୁ">
 <!ENTITY newAppLoadingTemplate "ନମୁନାଗୁଡ଼ିକୁ ଧାରଣ କରୁଅଛି…">
 <!ENTITY newAppProjectName "ପ୍ରକଳ୍ପ ନାମ:">
+
+
 <!-- Decks -->
 
 
@@ -120,12 +118,7 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "ଚଳନ୍ତି ସୂଚନା">
-<!ENTITY runtimedetails_adbIsRoot "ADB ଟି ରୁଟ ଅଟେ: ">
-<!ENTITY runtimedetails_summonADBRoot "ରୁଟ ଉପକରଣ">
-<!ENTITY runtimedetails_ADBRootWarning "(ଅଟକ ରଖାଯାଇନଥିବା ବୁଟ ଲୋଡର ଆବଶ୍ୟକ)">
 
-<!ENTITY runtimedetails_requestPrivileges "ଉଚ୍ଚ ଅଧିକାରଗୁଡ଼ିକ ପାଇଁ ଅନୁରୋଧ କରନ୍ତୁ">
-<!ENTITY runtimedetails_privilegesWarning "(ଉପକରଣକୁ ରିବୁଟ କରିବ। ରୁଟ ଅଧିକାର ଆବଶ୍ଯକ।)">
 <!-- Device Preferences and Settings -->
 
 
@@ -143,8 +136,6 @@
 
 <!-- Monitor -->
 
-<!ENTITY monitor_title "ମନିଟର">
-<!ENTITY monitor_help "ସହାୟତା">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -160,14 +151,6 @@
 
 <!-- Logs panel -->
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "ସଂସ୍କରଣ">
-
-
-<!ENTITY simulator_device "ଉପକରଣ">
 
 
 

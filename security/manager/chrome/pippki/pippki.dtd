@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "ଆପଣ ଗୋଟିଏ ନୂତନ ପ୍ରମାଣପତ୍ର ଅଧିକାରୀ (CA)କୁ ବିଶ୍ୱାସ କରିବା ପାଇଁ କହିଥିଲେ.">
 <!ENTITY downloadCert.trustSSL "ୱେବ ସାଇଟ ଚିହ୍ନିବା ପାଇଁ ଏହି CA କୁ ବିଶ୍ୱାସ କରନ୍ତୁ.">
 <!ENTITY downloadCert.trustEmail "ଇମେଲ ଚାଳକମାନଙ୍କୁ ଚିହ୍ନିବା ପାଇଁ ଏହି CA କୁ ବିଶ୍ୱାସ କରନ୍ତୁ.">
-<!ENTITY downloadCert.trustObjSign "ସଫ୍ଟୱେର ବିକାଶକାରୀମାନଙ୍କୁ ଚିହ୍ନିବା ପାଇଁ ଏହି CA କୁ ବିଶ୍ୱାସ କରନ୍ତୁ.">
 <!ENTITY downloadCert.message3 "କୌଣସି ଉଦ୍ଦେଶ୍ୟ ପାଇଁ ଏହି CAକୁ ବିଶ୍ୱାସ କରିବା ପୂର୍ବରୁ, ଆପଣ ଏହାର ପ୍ରମାଣପତ୍ର ଏବଂ ନୀତି ପ୍ରଣାଳୀକୁ ଯାଞ୍ଚକରପାରିବେ (ଯଦି ଉପଲବ୍ଧ ଅଛି).">
 <!ENTITY downloadCert.viewCert.label "ଦୃଶ୍ୟ">
 <!ENTITY downloadCert.viewCert.text "CA ପ୍ରମାଣପତ୍ରକୁ ଯାଞ୍ଚକରନ୍ତୁ">

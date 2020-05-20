@@ -8,6 +8,7 @@ password-quality-meter = ପ୍ରବେଶ ସଂକେତ ଗୁଣବତ୍�
 
 change-password-window =
     .title = ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = ସୁରକ୍ଷା ଯନ୍ତ୍ର: { $tokenName }

@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ସହାୟତା"> 
 <!ENTITY helpMenuWin.accesskey    "H">
+
 <!ENTITY aboutProduct2.label      "&brandShorterName; ବାବଦରେ">
 <!ENTITY aboutProduct2.accesskey  "A">
 <!ENTITY productHelp2.label       "&brandShorterName; ସହଯୋଗ">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "R">
 
 
-
-<!ENTITY healthReport2.label      "&brandShorterName; ଅବସ୍ଥା ବିବରଣୀ">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "ତ୍ରୁଟିନିବାରଣ ସୂଚନା">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "ସମସ୍ତଙ୍କୁ ଦର୍ଶାନ୍ତୁ">
+

@@ -34,6 +34,7 @@ import =
 close-button =
     .label = ବନ୍ଦକରନ୍ତୁ
     .accesskey = C
+
 remove-all-passwords-prompt = ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆପଣଙ୍କର ସମସ୍ତ ପ୍ରବେଶ ସଂକେତ ହଟାଇବାକୁ ଚାହୁଁଛନ୍ତି?
 remove-all-passwords-title = ସମସ୍ତ ପ୍ରବେଶ ସଂକେତକୁ ହଟାନ୍ତୁ
 no-master-password-prompt = ଆପଣ ନିଶ୍ଚିତ କି ଆପଣ ଆପଣଙ୍କର ପ୍ରବେଶ ସଂକେତ ଦର୍ଶାଇବାକୁ ଚାହୁଁଛନ୍ତି?

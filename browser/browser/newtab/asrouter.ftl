@@ -11,29 +11,40 @@ cfr-doorhanger-pintab-heading = ଏହାକୁ ଚେଷ୍ଟା କରନ୍�
 
 
 
+##
+
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = ମୁଁ ଏହାକୁ କାହିଁକି ଦେଖୁଛି
+
 cfr-doorhanger-extension-cancel-button = ବର୍ତ୍ତମାନ ନୁହଁ
     .accesskey = ନ
+
 cfr-doorhanger-extension-ok-button = ବର୍ତ୍ତମାନ ଯୋଡ଼ନ୍ତୁ
     .accesskey = ଏ
 cfr-doorhanger-pintab-ok-button = ଟ୍ୟାବଟିକୁ କଣ୍ଟା ମାରିଦିଅନ୍ତୁ
     .accesskey = ପି
+
 cfr-doorhanger-extension-manage-settings-button = ସୁପାରିଶ ହୋଇଥିବା ସଜାଣି ପରିଚାଳନା କରନ୍ତୁ
     .accesskey = ମ
+
 cfr-doorhanger-extension-never-show-recommendation = ମତେ ସୁପାରିଶ ଦେଖାନ୍ତୁ ନାହିଁ
     .accesskey = ସ
+
 cfr-doorhanger-extension-learn-more-link = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = { $name }ଦ୍ୱାରା
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = ସୁପାରିଶ:
+
 cfr-doorhanger-extension-notification2 = ସୁପାରିଶ
     .tooltiptext = ଏକଷ୍ଟେନ୍ସନ ସୁପାରିଶ
     .a11y-announcement = ଏକଷ୍ଟେନ୍ସନ ସୁପାରିଶ ଉପଲବ୍ଧ
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = ସୁପାରିଶ
@@ -65,6 +76,7 @@ cfr-doorhanger-extension-total-users =
 cfr-doorhanger-pintab-animation-pause = ବିରତି
 cfr-doorhanger-pintab-animation-resume = ପୁନଃ ଚଳନ
 
+
 ## Firefox Accounts Message
 
 cfr-doorhanger-bookmark-fxa-link-text = ବର୍ତ୍ତମାନ ବୁକମାର୍କକୁ ସମସାମୟିକ କରନ୍ତୁ...
@@ -82,12 +94,17 @@ cfr-protections-panel-link-text = ଅଧିକ ଜ୍ଞାନ ଆହରଣ କ�
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = ନୂତନ ସୁବିଧା:
+
 cfr-whatsnew-button =
     .label = ନୂଆ କଣ ରହିଛି
     .tooltiptext = ନୂଆ କଣ ରହିଛି
+
 cfr-whatsnew-panel-header = ନୂଆ କଣ ରହିଛି
+
 cfr-whatsnew-release-notes-link-text = ମୁକ୍ତିଲାଭ ଟିପ୍ପଣୀ ପଢ଼ନ୍ତୁ
+
 cfr-whatsnew-tracking-protect-link-text = ଆପଣଙ୍କର ଦଲିଲ ଦେଖନ୍ତୁ
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -98,10 +115,20 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = { DATETIME($earliestDate, month: "long", year: "numeric") } ଠାରୁ
 cfr-whatsnew-tracking-blocked-link-text = ଦଲିଲ ଦେଖନ୍ତୁ
+
 cfr-whatsnew-lockwise-backup-title = ପାସୱାର୍ଡ଼ଗୁଡ଼ିକର ଗୋଟିଏ ନକଲ ସଂରକ୍ଷଣ କରନ୍ତୁ
 cfr-whatsnew-lockwise-backup-link-text = ବ୍ୟାକଅପକୁ ଚାଲୁ କରନ୍ତୁ
+
 cfr-whatsnew-lockwise-take-title = ନିଜ ପାସୱାର୍ଡ଼ ନିଜ ସହିତ ନିଅନ୍ତୁ
 cfr-whatsnew-lockwise-take-link-text = ଆପଟି ଅକ୍ତିଆର କରନ୍ତୁ
+
+## Search Bar
+
+## Picture-in-Picture
+
+## Permission Prompt
+
+## Fingerprinter Counter
 
 ## Bookmark Sync
 
@@ -136,3 +163,12 @@ cfr-doorhanger-socialtracking-close-button = ବନ୍ଦ କରନ୍ତୁ
 
 cfr-doorhanger-milestone-ok-button = ସବୁ ଦେଖନ୍ତୁ
     .accesskey = ସ
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
+

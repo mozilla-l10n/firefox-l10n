@@ -8,20 +8,26 @@ pref-page =
             [windows] ବିକଳ୍ପଗୁଡ଼ିକ
            *[other] ପସନ୍ଦ
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] ବିକଳ୍ପଗୁଡ଼ିକ
        *[other] ପସନ୍ଦ
     }
+
 pane-general-title = ସାଧାରଣ
 category-general =
     .tooltiptext = { pane-general-title }
+
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 focus-search =
     .key = f
+
 close-button =
     .aria-label = ବନ୍ଦ କରନ୍ତୁ
 
@@ -48,37 +54,49 @@ should-restart-title = { -brand-short-name } କୁ ପୁନଃଚାଳନ କ
 ## General Section
 
 startup-header = ଆରମ୍ଭ
+
 # { -brand-short-name } will be 'Firefox Developer Edition',
 # since this setting is only exposed in Firefox Developer Edition
 separate-profile-mode =
     .label = { -brand-short-name } ଏବଂ Firefox କୁ ଏକା ସହିତ ଚାଲିବା ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
 use-firefox-sync = ସୂଚନା: ଏହା ପୃଥକ ରୂପରେଖାକୁ ବ୍ୟବହାର କରିଥାଏ । ତଥ୍ୟକୁ ସେଗୁଡ଼ିକ ମଧ୍ୟରେ ସହଭାଗ କରିବା ପାଇଁ { -sync-brand-short-name } ବ୍ୟବହାର କରନ୍ତୁ ।
+
 is-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
 is-not-default = { -brand-short-name } ବର୍ତ୍ତମାନ ଆପଣଙ୍କର ପୂର୍ବନିର୍ଦ୍ଧାରିତ ବ୍ରାଉଜର ଅଟେ
+
 tabs-group-header = ଟ୍ଯାବଗୁଡ଼ିକ
+
 show-tabs-in-taskbar =
     .label = ୱିଣ୍ଡୋ କାର୍ଯ୍ୟପଟିରେ ଟ୍ୟାବ ପ୍ରାକଦର୍ଶନକୁ ଦର୍ଶାନ୍ତୁ
     .accesskey = k
 
+
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = ଅକ୍ଷରରୂପ  ଏବଂ ରଙ୍ଗ
+
 advanced-fonts =
     .label = ଉନ୍ନତ…
     .accesskey = A
+
 colors-settings =
     .label = ରଙ୍ଗ…
     .accesskey = C
+
 choose-language-description = ପୃଷ୍ଠାଗୁଡ଼ିକୁ ଦର୍ଶାଇବା ପାଇଁ ଆପଣଙ୍କର ପସନ୍ଦଯୋଗ୍ୟ ଭାଷା ବାଛନ୍ତୁ
+
 choose-button =
     .label = ବାଛନ୍ତୁ…
     .accesskey = o
+
 translate-web-pages =
     .label = ୱେବ ବିଷୟବସ୍ତୁକୁ ଅନୁବାଦ କରନ୍ତୁ
     .accesskey = T
+
 # The <img> element is replaced by the logo of the provider
 # used to provide machine translations for web pages.
 translate-attribution = ଅନୁବାଦକ <img data-l10n-name="logo"/>
+
 translate-exceptions =
     .label = ବ୍ଯତିକ୍ରମଗୁଡ଼ିକ…
     .accesskey = x
@@ -86,9 +104,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = ଆହରଣ
+
 download-save-to =
     .label = ରେ ଫାଇଲଗୁଡ଼ିକୁ ସଂରକ୍ଷଣ କରନ୍ତୁ
     .accesskey = v
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -100,40 +120,50 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+
 applications-type-column =
     .label = ସୂଚୀ ପ୍ରକାର
     .accesskey = T
+
 applications-action-column =
     .label = କାର୍ଯ୍ୟ
     .accesskey = A
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = { $extension } ଫାଇଲ
 applications-action-save =
     .label = ଫାଇଲ ସଂରକ୍ଷଣ କରନ୍ତୁ
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = { $app-name } କୁ ବ୍ୟବହାର କରନ୍ତୁ
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } କୁ ବ୍ୟବହାର କରନ୍ତୁ(ପୂର୍ବନିର୍ଦ୍ଧାରିତ)
+
 applications-use-other =
     .label = ଅନ୍ୟକୁ ବ୍ୟବହାର କରନ୍ତୁ…
 applications-select-helper = ସାହାଯ୍ୟକାରୀ ପ୍ରୟୋଗ ଚୟନକରନ୍ତୁ
+
 applications-manage-app =
     .label = ପ୍ରୟୋଗ ବିବରଣୀ…
 applications-always-ask =
     .label = ସର୍ବଦା ପଚାରନ୍ତୁ
 applications-type-pdf = ବହନୀୟ ଦଲିଲ ସଜ୍ଜିକରଣ ଶୈଳୀ (PDF)
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -147,16 +177,22 @@ applications-preview-inapp =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -175,12 +211,15 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = ବ୍ରାଉଜ କରୁଅଛି
+
 browsing-use-autoscroll =
     .label = ସ୍ୱୟଂଦୃଶ୍ୟବଦଳକୁ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = a
+
 browsing-use-smooth-scrolling =
     .label = ସରଳ ଦୃଶ୍ୟବଦଳକୁ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = m
+
 browsing-use-cursor-navigation =
     .label = ପୃଷ୍ଠାଗୁଡ଼ିକ ମଧ୍ୟରେ ସଞ୍ଚରଣ କରିବା ପାଇଁ ସର୍ବଦା ଦର୍ଶିକା କି ର ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = c
@@ -207,6 +246,7 @@ use-current-pages =
            *[other] ପ୍ରଚଳିତ ପୃଷ୍ଠାଗୁଡ଼ିକୁ ବ୍ୟବହାର କରନ୍ତୁ
         }
     .accesskey = C
+
 choose-bookmark =
     .label = ଚିହ୍ନିତ ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ…
     .accesskey = B
@@ -218,6 +258,7 @@ choose-bookmark =
 
 search-choose-keyword-column =
     .label = ସୂଚକ ଶବ୍ଦ
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = ନକଲି ସୂଚକ ଶବ୍ଦ
@@ -255,6 +296,7 @@ sync-signedin-login-failure = ପୁନଃ ସଂଯୋଗ କରିବା ପ�
 sync-engine-bookmarks =
     .label = ଚିହ୍ନିତ ସ୍ଥାନ
     .accesskey = m
+
 sync-engine-history =
     .label = ପୁରୁଣା ତଥ୍ୟ
     .accesskey = r
@@ -262,6 +304,7 @@ sync-engine-history =
 ## The device name controls.
 
 sync-tos-link = ସର୍ଭିସ ନିୟମାବଳୀ
+
 sync-fxa-privacy-notice = ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି
 
 ## Privacy Section
@@ -275,14 +318,18 @@ sync-fxa-privacy-notice = ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି
 forms-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…
     .accesskey = x
+
 forms-master-pw-use =
     .label = ଗୋଟିଏ ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = U
 forms-master-pw-change =
     .label = ମୂଖ୍ୟ ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ…
     .accesskey = M
+
 forms-master-pw-fips-title = ଆପଣ ବର୍ତ୍ତମାନ FIPS ଅବସ୍ଥାରେ ଅଛନ୍ତି. FIPS ଗୋଟିଏ ଖାଲିନଥିବା ମୁଖ୍ୟ ପ୍ରବେଶ ସଂକେତ ଆବଶ୍ୟକ କରେ.
 forms-master-pw-fips-desc = ପ୍ରବେଶ ସଂକେତ ପରିବର୍ତ୍ତନ ବିଫଳ ହେଲା
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -292,16 +339,21 @@ history-remember-option-never =
     .label = ପୁରୁଣା ତଥ୍ୟକୁ କଦାପି ମନେ ରଖନ୍ତୁ ନାହିଁ
 history-remember-option-custom =
     .label = ପୁରୁଣା ତଥ୍ୟ ପାଇଁ ଇଚ୍ଛାମୁତାବକ ସଂରଚନାକୁ ବ୍ୟବହାର କରନ୍ତୁ
+
 history-dontremember-description = { -brand-short-name } ବ୍ୟକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପରି ସମାନ ସଂରଚନାକୁ ବ୍ୟବହାର କରିବ, ଏବଂ ଆପଣ ବ୍ରାଉଜ କରୁଥିବା ସମୟରେ କୌଣସି ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖିବ ନାହିଁ।
+
 history-private-browsing-permanent =
     .label = ସର୍ବଦା ବ୍ଯକ୍ତିଗତ ବ୍ରାଉଜିଙ୍ଗ ପଦ୍ଧତିକୁ ବ୍ୟବହାର କରନ୍ତୁ
     .accesskey = p
+
 history-remember-search-option =
     .label = ସନ୍ଧାନ ଏବଂ ଫର୍ମ ପୁରୁମା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ
     .accesskey = f
+
 history-clear-on-close-option =
     .label = { -brand-short-name } ବନ୍ଦ ହେବା ସମୟରେ ପୁରୁଣା ତଥ୍ୟକୁ ସଫା କରନ୍ତୁ
     .accesskey = r
+
 history-clear-on-close-settings =
     .label = ବିନ୍ୟାସ…
     .accesskey = t
@@ -330,9 +382,11 @@ history-clear-on-close-settings =
 permissions-block-popups =
     .label = ପପ୍-ଅପ୍ ୱିଣ୍ଡୋକୁ ବ୍ଲକ କରନ୍ତୁ
     .accesskey = B
+
 permissions-block-popups-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…
     .accesskey = E
+
 permissions-addon-exceptions =
     .label = ବ୍ୟତିକ୍ରମ…
     .accesskey = E
@@ -349,6 +403,7 @@ permissions-addon-exceptions =
 ## Privacy Section - Certificates
 
 certs-header = ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ
+
 certs-enable-ocsp =
     .label = OCSP ଉତ୍ତର ପ୍ରଦାନକାରୀ ସର୍ଭରଗୁଡ଼ିକୁ ପ୍ରଚଳିକ ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ ବୈଧତାକୁ ନିଶ୍ଚିତ କରିବା ପାଇଁ ପଚାରନ୍ତୁ
     .accesskey = Q
@@ -358,3 +413,4 @@ certs-enable-ocsp =
 desktop-folder-name = ଡେସ୍କଟପ
 downloads-folder-name = ଆହରଣ
 choose-download-folder-title = ଆହରଣକୃତ ଫୋଲଡରକୁ ଚୟନ କରନ୍ତୁ:
+

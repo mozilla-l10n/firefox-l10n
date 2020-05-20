@@ -46,6 +46,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = ଯେକୌଣସି ନୂତନ ଏକ୍ସଟେନ୍ସନ୍ ଆପଣ { -brand-shorter-name } ରେ ଯୋଡିଛନ୍ତି, ଯଦି ଆପଣ ସେଟିଂସମୂହରେ ଏହାକୁ ଅନୁମତି ନ ଦିଅନ୍ତି ତେବେ ବ୍ୟକ୍ତିଗତ ୱିଣ୍ଡୋରେ କାମ କରିବ ନାହିଁ
 appmenu-addon-private-browsing-learn-more = ଏକଷ୍ଟେନ୍ସନ ସେଟିଂସମୂହ କିପରି ପରିଚାଳନା କରିବେ ଶିଖନ୍ତୁ
+    
 appmenu-new-tab-controlled =
     .label = ଆପଣଙ୍କର ନୂଆ ଟ୍ୟାବ୍ ବଦଳାଯାଇଛି
     .buttonlabel = ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ରଖନ୍ତୁ
