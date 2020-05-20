@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "U">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Pisava">
 <!ENTITY FontFaceSelect.tooltip "Izberite pisavo">
 <!ENTITY fontfaceMenu.label "Pisava">
 <!ENTITY fontfaceMenu.accesskey "P">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Velikost pisave">
 <!ENTITY FontSizeSelect.tooltip "Izberite velikost pisave">
 <!ENTITY decreaseFontSize.label "Manjša">
 <!ENTITY decreaseFontSize.accesskey "M">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Lastnosti seznama …">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Odstavek">
 <!ENTITY ParagraphSelect.tooltip "Izberite obliko odstavka">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Telo besedila">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Plast">
+<!ENTITY decreaseZIndex.label "Prestavi v ozadje">
 <!ENTITY layerSendToBack.tooltip "Prestavi v ozadje">
+<!ENTITY increaseZIndex.label "Prestavi v ospredje">
 <!ENTITY layerBringToFront.tooltip "Prestavi v ospredje">
 
 <!ENTITY increaseIndent.label "Povečaj zamik">
@@ -304,28 +309,41 @@
 <!ENTITY linkToolbarCmd.tooltip "Vstavi novo povezavo ali uredi lastnosti izbrane povezave">
 <!ENTITY anchorToolbarCmd.label "Sidro">
 <!ENTITY anchorToolbarCmd.tooltip "Vstavi novo sidro z imenom ali uredi lastnosti izbranega sidra">
+<!ENTITY colorButtons.title "Barve">
 <!ENTITY TextColorButton.tooltip "Izberi barvo besedila">
 <!ENTITY BackgroundColorButton.tooltip "Izberi barvo ozadja">
 <!ENTITY throbber.tooltip "Pojdi na spletno stran &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Pojdi na domačo stran &brandShortName;a">
+<!ENTITY HighlightColorButton.label "Označevalnik">
 <!ENTITY HighlightColorButton.tooltip "Izberi označevalno barvo besedila">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Velikost pisave">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Nastavite velikost pisave">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Manjša velikost pisave">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Večja velikost pisave">
+<!ENTITY bold.label "Krepko">
 <!ENTITY boldToolbarCmd.tooltip "Krepko">
+<!ENTITY italic.label "Ležeče">
 <!ENTITY italicToolbarCmd.tooltip "Ležeče">
 <!ENTITY underlineToolbarCmd.tooltip "Podčrtano">
+<!ENTITY bullets.label "Seznamske točke">
 <!ENTITY bulletListToolbarCmd.tooltip "Vstavi ali odstrani seznam s seznamskimi točkami">
+<!ENTITY numbers.label "Številke">
 <!ENTITY numberListToolbarCmd.tooltip "Vstavi ali odstrani oštevilčen seznam">
 <!ENTITY outdentToolbarCmd.tooltip "Zamakni besedilo levo">
 <!ENTITY indentToolbarCmd.tooltip "Zamakni besedilo desno">
+<!ENTITY AlignPopupButton.label "Poravnava">
 <!ENTITY AlignPopupButton.tooltip "Izberite poravnavo besedila">
+<!ENTITY InsertPopupButton.label "Vstavi">
 <!ENTITY InsertPopupButton.tooltip "Vstavi povezavo, sidro, sliko, vodoravno črto ali tabelo">
+<!ENTITY alignLeftButton.label "Poravnaj levo">
 <!ENTITY alignLeftButton.tooltip "Poravnaj besedilo na levi rob">
+<!ENTITY alignCenterButton.label "Poravnaj na sredino">
 <!ENTITY alignCenterButton.tooltip "Poravnaj besedilo na sredino">
+<!ENTITY alignRightButton.label "Poravnaj desno">
 <!ENTITY alignRightButton.tooltip "Poravnaj besedilo na desni rob">
+<!ENTITY alignJustifyButton.label "Poravnaj obojestransko">
 <!ENTITY alignJustifyButton.tooltip "Poravnaj besedilo na levi in desni rob">
 
 <!-- Structure Toolbar Context Menu items -->
