@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Farge">
 <!ENTITY lastPickedColor.label "Sist valde farge">
 <!ENTITY lastPickedColor.accessKey "S">
-<!ENTITY setColor1.label "Trykk på ein farge eller">
-<!ENTITY setColor2.label "skriv inn ein HTML-fargekode">
-<!ENTITY setColor2.accessKey "s">
 <!ENTITY chooseColor1.label "Vel ein farge:">
 <!ENTITY chooseColor2.label "Skriv inn ein HTML-fargestreng">
 <!ENTITY chooseColor2.accessKey "H">

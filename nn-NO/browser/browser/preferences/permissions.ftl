@@ -5,50 +5,66 @@
 permissions-window =
     .title = Unntak
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adressa til nettstaden
     .accesskey = a
+
 permissions-block =
     .label = Blokker
     .accesskey = B
+
 permissions-session =
     .label = Tillat for programøkta
     .accesskey = T
+
 permissions-allow =
     .label = Tillat
     .accesskey = T
+
 permissions-site-name =
     .label = Nettside
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Fjern nettsida
     .accesskey = F
+
 permissions-remove-all =
     .label = Fjern alle nettsidene
     .accesskey = e
+
 permissions-button-cancel =
     .label = Avbryt
     .accesskey = A
+
 permissions-button-ok =
     .label = Lagre endringar
     .accesskey = L
+
 permissions-autoplay-menu = Standard for alle nettstadar:
+
 permissions-searchbox =
     .placeholder = Søk på nettsida
+
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
+
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
+
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Unntak - innhaldsblokkering
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Du har slått av innhaldsblokkering på desse nettsidene.
+
 permissions-exceptions-etp-window =
     .title = Unntak for utvida sporingsvern
     .style = { permissions-window.style }

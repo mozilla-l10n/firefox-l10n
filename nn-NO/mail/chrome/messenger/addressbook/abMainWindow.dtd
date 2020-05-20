@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Send ei melding eller chat">
 <!ENTITY deleteButton2.tooltip                          "Slett valde element">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Adressebøker">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Namn eller e-post">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">

@@ -8,6 +8,7 @@ password-quality-meter = Kvalitetsmåling av passord
 
 change-password-window =
     .title = Endre hovudpassord
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Tryggingseining: { $tokenName }

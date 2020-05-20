@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "H">
 <!ENTITY downloadOnBiff.label "Last ned nye meldingar automatisk">
 <!ENTITY downloadOnBiff.accesskey "n">
-<!ENTITY username.label "Innloggingsnamn">
 <!ENTITY deleteMessagePrefix.label "Når eg slettar ei melding:">
 <!ENTITY modelMoveToTrash.label "Flytt henne til denne mappa:">
 <!ENTITY modelMoveToTrash.accesskey "h">
