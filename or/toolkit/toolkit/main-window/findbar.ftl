@@ -9,9 +9,12 @@ findbar-next =
     .tooltiptext = ଏହି ବାକ୍ୟର ପରବର୍ତ୍ତି ଅନୁପ୍ରୟୋଗକୁ ଖୋଜନ୍ତୁ
 findbar-previous =
     .tooltiptext = ଏହି ବାକ୍ୟର ପୂର୍ବବର୍ତ୍ତି ଅନୁପ୍ରୟୋଗକୁ ଖୋଜନ୍ତୁ
+
 findbar-find-button-close =
     .tooltiptext = ସନ୍ଧାନ ପଟିକୁ ବନ୍ଦ କରନ୍ତୁ
+
 findbar-case-sensitive =
     .label = ଅକ୍ଷର ପ୍ରକାରକୁ ମେଳାନ୍ତୁ
     .accesskey = c
     .tooltiptext = ଅକ୍ଷର ପ୍ରକାର ସହିତ ଖୋଜନ୍ତୁ
+

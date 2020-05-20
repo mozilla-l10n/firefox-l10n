@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "ସମସ୍ତଙ୍କୁ ବାଛନ୍ତୁ">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "ଖୋଜନ୍ତୁ">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

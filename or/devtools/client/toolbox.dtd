@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -136,8 +137,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "ପ୍ରକୃତ ଉତ୍ସଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "ଶୈଳୀ ସମ୍ପାଦକ ଏବଂ ନିରୀକ୍ଷକରେ ପ୍ରକୃତ ଉତ୍ସଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ (ଯେପରିକି Sass ଫାଇଲ)">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -156,14 +155,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "ସାଧାରଣ ପସନ୍ଦଗୁଡ଼ିକ">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "ସ୍ଥାୟୀ ଲଗଗୁଡ଼ିକୁ ସକ୍ରିୟ କରନ୍ତୁ">
-<!ENTITY options.enablePersistentLogs.tooltip  "ଯଦି ଆପଣ ଏହି ବିକଳ୍ପକୁ ସକ୍ରିୟ କରନ୍ତି ତେବେ ୱେବ କୋନସୋଲ ଏବଂ ନେଟୱର୍କ ମନିଟର ପ୍ରତ୍ୟେକ ଥର ଏକ ନୂତନ ପୃଷ୍ଠାକୁ ଯିବା ସମୟରେ ଫଳାଫଳକୁ ସଫାକରିନଥାଏ">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -171,6 +167,7 @@
 
 <!ENTITY options.showPlatformData.label    "Gecko ପ୍ଲାଟଫର୍ମ ତଥ୍ୟ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY options.showPlatformData.tooltip  "ଯଦି ଆପଣ ଏହି ବିକଳ୍ପକୁ ସକ୍ରିୟ କରିବେ ତେବେ JavaScript ରୂପରେଖା ବିବରଣୀରେ Gecko ପ୍ଲାଟଫର୍ମ ସଂକେତ ଅନ୍ତର୍ଭୁକ୍ତ ହେବ">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Google Play ରୁ ପାଆନ୍ତୁ
 login-app-promo-apple =
     .alt = App Storeରୁ ଡାଉନଲୋଡ଼ କରନ୍ତୁ
+
 login-filter =
     .placeholder = ଖୋଜା ଲଗିନ
+
 create-login-button = ନୂଆ ଲଗଇନ ତିଆରି କରନ୍ତୁ
+
 fxaccounts-sign-in-text = ନିଜର ଉପକରଣରେ ନିଜସ୍ୱ ପାସୱାର୍ଡ଼ ପାଆନ୍ତୁ
 fxaccounts-sign-in-button = { -sync-brand-short-name }ରେ ଲଗ-ଇନ କରନ୍ତୁ
 fxaccounts-avatar-button =
@@ -107,20 +110,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = ଆପଣଙ୍କର ଲଗଇନ୍ ସଂପାଦନ କରିବାକୁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ଲଗଇନ୍ ସଂପାଦନ କରନ୍ତୁ
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ ଦେଖିବା ପାଇଁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = ସଞ୍ଚିତ ପାସୱାର୍ଡ ପ୍ରକାଶ କରନ୍ତୁ
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = ସଞ୍ଚିତ ଲଗଇନ୍ କପି କରିବାକୁ ଆପଣଙ୍କର ପରିଚୟ ଯାଞ୍ଚ କରନ୍ତୁ
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = ଆପଣଙ୍କର ପାସୱାର୍ଡ କପି କରିବାକୁ, ଆପଣଙ୍କର ୱିଣ୍ଡୋଜ୍ ଲଗଇନ୍ ପରିଚୟପତ୍ର ପ୍ରବେଶ କରନ୍ତୁ | ଏହା ଆପଣଙ୍କ ଖାତାର ସୁରକ୍ଷା ରକ୍ଷା କରିବାରେ ସାହାଯ୍ୟ କରେ
 # This message can be seen when attempting to copy a password in about:logins
@@ -157,9 +165,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ବାତିଲ
 confirmation-dialog-dismiss-button =
     .title = ବାତିଲ କରନ୍ତୁ
+
 about-logins-confirm-remove-dialog-title = ଲଗଇନକୁ ବିଲୋପ କରିଦେବେ?
 confirm-delete-dialog-message = ଏହି କାର୍ଯ୍ୟର ପଦକ୍ଷେପ ବାତିଲ କରିପାରିବେ ନାହିଁ।
 about-logins-confirm-remove-dialog-confirm-button = କାଢ଼ନ୍ତୁ
+
 confirm-discard-changes-dialog-title = ଅଣସଞ୍ଚିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକୁ ନଷ୍ଟ କରିଦେବେ?
 confirm-discard-changes-dialog-message = ସମସ୍ତ ଅଣସଂରକ୍ଷିତ ପରିବର୍ତ୍ତନଗୁଡ଼ିକ ବିଲୁପ୍ତ ହୋଇଯିବ
 confirm-discard-changes-dialog-confirm-button = ପରିତ୍ୟାଗ

@@ -9,9 +9,13 @@
 
 title = ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ସମାଚାର
 heading = ନିଜର { -brand-short-name } ପ୍ରୋଫାଇଲ କରନ୍ତୁ
+
 changed-title = କଣ ପରିବର୍ତ୍ତନ ହେଲା?
+
 options-title = ମୋର ବିକଳ୍ପଗୁଡ଼ିକ କଣ?
+
 resources = ଉତ୍ସଗୁଡ଼ିକ:
+
 sync-header = { -fxaccount-brand-name } ତିଆରି କରିବାକୁ ଲଗ ଇନ କରନ୍ତୁ
 sync-label = ଆପଣଙ୍କର ଇମେଲ ଭରନ୍ତୁ
 sync-input =

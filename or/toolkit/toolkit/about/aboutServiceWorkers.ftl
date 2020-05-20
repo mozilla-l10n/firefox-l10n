@@ -14,4 +14,5 @@
 
 # This term is used as a button label (verb, not noun).
 update-button = ଅପଡେଟ କରନ୍ତୁ
+
 waiting = ଅପେକ୍ଷା କରିଅଛି…

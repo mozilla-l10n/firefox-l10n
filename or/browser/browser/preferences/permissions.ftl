@@ -4,27 +4,31 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = ବ୍ଲକ
     .accesskey = B
+
 permissions-session =
     .label = ଅଧିବେଶନ ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = S
+
 permissions-allow =
     .label = ଅନୁମତି ଦିଅନ୍ତୁ
     .accesskey = A
+
 permissions-status =
     .label = ଅବସ୍ଥିତି
+
 permissions-capabilities-allow =
     .label = ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-block =
     .label = Block
+
 permissions-capabilities-listitem-allow =
     .value = ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-listitem-block =
     .value = Block
-permissions-capabilities-listitem-allow-first-party =
-    .value = କେବଳ ପ୍ରଥମ ପକ୍ଷକୁ ଅନୁମତି ଦିଅନ୍ତୁ
 permissions-capabilities-listitem-allow-session =
     .value = ଅଧିବେଶନ ପାଇଁ ଅନୁମତି ଦିଅନ୍ତୁ
 
@@ -53,11 +57,15 @@ permissions-exceptions-addons-desc = କେଉଁ ୱେବ ସାଇଟଗୁ�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

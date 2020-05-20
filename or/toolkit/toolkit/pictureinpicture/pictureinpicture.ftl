@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = ବିରତି
 pictureinpicture-play =
     .aria-label = ଚଲାନ୍ତୁ
+
 pictureinpicture-mute =
     .aria-label = ନିଃଶବ୍ଦ କରନ୍ତୁ
 pictureinpicture-unmute =
     .aria-label = ନିଃଶବ୍ଦ ବାତିଲ କରନ୍ତୁ
+

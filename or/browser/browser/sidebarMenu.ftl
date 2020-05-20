@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକ
+
 sidebar-menu-history =
     .label = ପୁରୁଣା ତଥ୍ୟ
+

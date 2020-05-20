@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = ପୁନଃଚାଳନ
     .accesskey = R
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
     .accesskey = F
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = ସନ୍ଧାନ ସ୍ଥାନରେ ଦର୍ଶାନ୍ତୁ
     .accesskey = F
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] ସନ୍ଧାନ ସ୍ଥାନରେ ଦର୍ଶାନ୍ତୁ
            *[other] ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] ସନ୍ଧାନ ସ୍ଥାନରେ ଦର୍ଶାନ୍ତୁ
            *[other] ଧାରଣ କରିଥିବା ଫୋଲଡରଗୁଡ଼ିକୁ ଖୋଲନ୍ତୁ
         }
+
 downloads-cmd-retry =
     .tooltiptext = ପୁନଃପ୍ରୟାସ କରନ୍ତୁ
 downloads-cmd-retry-panel =
@@ -61,19 +66,23 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = ଆହରଣଗୁଡ଼ିକୁ ସଫା କରନ୍ତୁ
     .accesskey = D
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = ସମସ୍ତ ଆହରଣଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ
     .accesskey = S
+
 downloads-clear-downloads-button =
     .label = ଆହରଣଗୁଡ଼ିକୁ ସଫାକରନ୍ତୁ
     .tooltiptext = ସଫା କରାସରିଛି, ବାତିଲ ହୋଇଛି ଏବଂ ଆହରଣ ବିଫଳ ହୋଇଛି
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = ସେଠାରେ କୌଣସି ଆହରଣ ନାହିଁ।
+
 # This string is shown when there are no items in the Downloads Panel.
 downloads-panel-empty =
     .value = ଏହି ଅଧିବେଶନ ପାଇଁ କୌଣସି ଆହରଣ ନାହିଁ।
