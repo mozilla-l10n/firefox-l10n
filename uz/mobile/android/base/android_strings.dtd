@@ -22,23 +22,15 @@
 <!ENTITY firstrun_data_subtext2 "Saytlarga kirganda trafikni tejash uchun rasmlarni bloklashingiz mumkin.">
 <!ENTITY firstrun_sync_title "Sinxronlash">
 <!ENTITY firstrun_sync_message3 "Xatchoʻplar, tarix va parollaringizni telefoningizga sinxronlang.">
-<!ENTITY updatednewfirstrun_sync_title "Hisob">
-<!ENTITY firstrun_sync_message2 "Qolgan joyidan davom eting.">
 <!ENTITY firstrun_sync_subtext2 "Sinxronizatsiyadan &brandShortName; brauzeriga saqlangan xatcho‘p, parol va boshqa kerakli narsalarni barcha qurilmalarda topish uchun foydalaning.">
 <!ENTITY newfirstrun_sync_subtext "Telefoningizdagi Firefox brauzeriga saqlaganlaringizni kompyuterdagi Firefoxga maxfiy va xavfsiz ravishda sinxronlang.">
 <!ENTITY firstrun_sendtab_title "Ichki oynani joʻnatish">
 <!ENTITY firstrun_sendtab_message "Ichki oynalarni telefondan kompyuterga yuboring – bir lahzada.">
-<!ENTITY updatednewfirstrun_sync_subtext "&brandShortName;dan yanada samarali foydalanish uchun hisobingizga kiring">
 <!ENTITY firstrun_signin_message "Ulaning va boshlang">
-<!ENTITY firstrun_signin_button "Sinxronlash uchun tizimga kirish">
-<!ENTITY newfirstrun_signin_button "Sinxronizatsiyani yoqish">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; hisobiga kirish">
 <!ENTITY  onboard_start_button_browser "Ko‘rishni boshlash">
 <!ENTITY firstrun_button_notnow "Hozir emas">
 <!ENTITY firstrun_button_next "Keyingi">
 <!ENTITY firstrun_signup_button "Roʻyxatdan oʻtish">
-
-<!ENTITY firstrun_signin_button2 "Hisobga kirish">
 
 <!ENTITY firstrun_tabqueue_title "Havolalar">
 
@@ -480,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; joylashuv xizmati ishlamoqda">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Avtomatik yangilanishlar">
-<!ENTITY pref_update_autodownload_wifi "Faqat Wi-Fi orqali">
-<!ENTITY pref_update_autodownload_never "Hech qachon">
-<!ENTITY pref_update_autodownload_always "Doimo">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Yordam">
 
@@ -753,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Xatcho‘plar va tarix">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; uchun yangilanish mavjud">
-<!ENTITY updater_start_select2 "Yuklab olish uchun bosing">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; yuklab olinmoqda">
-<!ENTITY updater_downloading_title_failed2 "Yuklab olish amalga oshmadi">
-<!ENTITY updater_downloading_select2 "Bir marta yuklab olingan yangilanishlarni qo‘llash uchun bosing">
-<!ENTITY updater_downloading_retry2 "Qayta urinish uchun bosing">
-
-<!ENTITY updater_apply_title3 "&brandShortName; uchun yangilanishlar yuklab olindi">
-<!ENTITY updater_apply_select3 "O‘rnatish uchun bosing">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Yangilanish va fayllarni yuklab olish uchun &brandShortName; ilovasiga xotiradan foydalanish uchun ruxsat bering.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Ruxsat berish">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Yangi mehmon seansi">
 <!ENTITY exit_guest_session "Mehmon seansidan chiqish">
@@ -891,8 +856,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Hisobga kirish.">
 
-<!ENTITY activity_stream_signin_button "Hisobga kirish">
-
 <!ENTITY activity_stream_topsites "Ommabop saytlar">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "&brandPocket; tomonidan tavsiya qilingan">
@@ -950,7 +913,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Ovoz va video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; boʻyicha maslahat va tavsiyalar">
-<!ENTITY updater_notification_channel "Ilova yangilanishlari">
 <!ENTITY synced_tabs_notification_channel "Sinxronlangan ichki oynalar">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

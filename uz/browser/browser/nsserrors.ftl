@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Xavfsiz ulana olmadi, chunki SSL protokol o‘chirib qo‘yilgan.
 psmerr-ssl2-disabled = Xavfsiz ulana olmadi, chunki sayt SSL protokolning eski va xavfsiz bo‘lmagan versiyasidan foydalanadi.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Siz yaroqsiz sertifikatni qabul qildingiz.  Server administratori yoki sertifikat jo‘natilgan e-pochta bilan bog‘laning va ularga quyidagi ma’lumotlarni bering:
     
     Sertifikatingiz boshqa tasdiqdan o‘tgan sertifikatga tegishli sertifikat serial raqami bilan bir xil.  Boshqa alohida serial raqami bor yangi sertifikatni oling.
+
 ssl-error-export-only-server = Xavfsiz ulanishning imkoni boʻlmadi.  Manba yuqori darajali shifrlashni qoʻllab-quvvatlay olmaydi.
 ssl-error-us-only-server = Xavfsiz ulanishning imkoni boʻlmadi.  Manba qoʻllab-quvvatlanmaydigan yuqori darajali shifrlashni talab qilmoqda.
 ssl-error-no-cypher-overlap = Manba bilan xavfsiz ulanib boʻlmadi: umumiy algoritmlar toʻgʻri kelmadi.

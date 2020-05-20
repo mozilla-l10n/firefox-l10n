@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Batafsil ma’lumot: <a data-l10n-name="learn-more">Maxfiy ko‘rish</a>.
 about-private-browsing-info-visited = kirilgan sahifalar
+
 privatebrowsingpage-open-private-window-label = Maxfiy oynani ochish
     .accesskey = M
 about-private-browsing-info-notsaved = Maxfiy oynada saytlarni ochsangiz, { -brand-short-name } <strong>quyidagilarni saqlab qolmaydi</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Siz hozirda maxfiy oynada emassiz.
 content-blocking-title = Kontentni bloklash
 content-blocking-description = Ba’zi saytlar internetdagi faoliyatingizni o‘rganish uchun kuzatishlari mumkin. Maxfiy oynalarda { -brand-short-name } kontentni bloklash funksiyasi yordamida ko‘plab kuzatuvlarni avtomatik bloklash mumkin. Ularning kuzatishdan maqsadi internetdagi faoliyatingizni o‘rganish.
 about-private-browsing-info-description = Ilovadan chiqsangiz yoki Maxfiy koʻrish oynalarini yopsangiz, qidiruv va ochilgan saytlar tarixini { -brand-short-name } tozalab tashlaydi. Bu sizni sayt va internet provayderingiz uchun anonim qila olmaydi, lekin bu kompyuterdan foydalanuvchi insonlardan brauzeridagi faoliyatingizni yashirishda yordam beradi.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

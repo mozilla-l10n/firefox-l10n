@@ -13,16 +13,4 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "M">
 <!ENTITY helpSafeMode.label     "Qo‘sh. dasturlarsiz qayta ishga tushirish…">
 <!ENTITY helpSafeMode.accesskey "i">
-<!ENTITY releaseCmd2.label "Reliz izohlari">
-<!ENTITY releaseCmd2.accesskey "i">
-<!ENTITY whatsNewCmd.label "Yangi xususiyatlar">
-<!ENTITY whatsNewCmd.accesskey "Y">
-<!ENTITY openHelp.label "Yordam mundarijasi">
-<!ENTITY openHelp.accesskey "Y">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "&brandShortName; yordami">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "tezlatkich">
 
-<!ENTITY aboutMenuCmd.label "&brandShortName; haqida">
-<!ENTITY aboutMenuCmd.accesskey "h">

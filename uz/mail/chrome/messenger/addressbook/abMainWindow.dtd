@@ -172,7 +172,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.tooltip                          "Tanlanganni o‘chirish">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label                            "Manzil kitoblari">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label                        "Nomi yoki e-pochta manzili">
@@ -216,6 +215,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "K">
 <!ENTITY _PhoneticName.label                            "Fonetik nomi">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

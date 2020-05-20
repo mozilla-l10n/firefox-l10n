@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "o">
 <!ENTITY downloadOnBiff.label "Yangi xabarlarni avtomatik yuklab olkish">
 <!ENTITY downloadOnBiff.accesskey "a">
-<!ENTITY username.label "Hisobga kirish uchun nom">
 <!ENTITY deleteMessagePrefix.label "Xabarni o‘chirganimda:">
 <!ENTITY modelMoveToTrash.label "Uni bu jildga ko‘chirish:">
 <!ENTITY modelMoveToTrash.accesskey "o">

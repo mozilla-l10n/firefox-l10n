@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Sayt maʼlumotini koʻrish
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Bu sayt uchun MIDI ruxsatini blokladingiz.
 urlbar-install-blocked =
     .tooltiptext = Bu saytdan qoʻshimcha dastur oʻrnatishni bloklagansiz.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Ushbu xatcho‘pni tahrirlash ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -124,12 +127,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Bu safar quyidagi bilan izlash:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Qidiruv sozlamalarini oʻzgartirish
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Qidiruv sozlamalarini oʻzgartirish
+
 search-one-offs-context-open-new-tab =
     .label = Yangi varaqdan qidirish
     .accesskey = i
@@ -145,8 +150,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Saqlashda muharrirni ko‘rsatish
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Tayyor
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -232,9 +239,11 @@ urlbar-permissions-granted =
     .tooltiptext = Bu saytga qoʻshimcha maxsus ruxsat bergansiz.
 urlbar-switch-to-tab =
     .value = Varaqqa oʻtish:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Kengaytma:
+
 urlbar-go-button =
     .tooltiptext = Manzil panelidagi manzilga o‘tish
 urlbar-page-action-button =

@@ -18,8 +18,6 @@
 <!ENTITY accountsSectionHdr.label     "Hisoblar">
 <!ENTITY subscribeImapFolders.label   "Obunalar jildini boshqarish">
 <!ENTITY settingsLink.label           "Ushbu hisob uchun sozlamalarni ko‘rish">
-<!ENTITY newAcctLink.label            "Yangi hisob yaratish">
-<!ENTITY newAcct.label                "Yangi hisob yaratish:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Qo‘shimcha xususiyatlar">
 <!ENTITY searchMsgsLink.label         "Xabarlarni izlash">

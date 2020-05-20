@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Uy sahifasini oʻrnatish
     .style = width: 32em;
+
 select-bookmark-desc = Uy sahifangiz boʻladigan xatchoʻpni tanlang. Agar siz jildni tanlasangiz, ushbu jilddagi xatchoʻplar varaqlarda ochiladi.

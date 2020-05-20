@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Topish va almashtirish">
 <!ENTITY findField.label "Matnni topish:">
 <!ENTITY findField.accesskey "M">

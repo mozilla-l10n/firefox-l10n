@@ -29,9 +29,6 @@
 <!ENTITY addCloudFileAccount.description  "Yangi Filelink ombori xizmatini qo‘shish">
 <!ENTITY removeCloudFileAccount.label     "Olib tashlash">
 <!ENTITY removeCloudFileAccount.accesskey "O">
-<!ENTITY authRequired.description         "Ushbu ombor xizmati sozlamalarini ko‘rish uchun tasdiqdan o‘tishingiz kerak bo‘ladi.">
-<!ENTITY authRequired.button.label        "Tasdiqdan o‘tkazish">
-<!ENTITY authRequired.button.accesskey    "T">
 
 <!ENTITY enableCloudFileAccountOffer.label "Ushbudan kattaroq fayllarni bo‘lishish taklif qilinsin">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

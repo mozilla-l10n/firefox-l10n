@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Linkni yangi maxfiy oynada ochish
     .accesskey = m
+
 places-new-bookmark =
     .label = Yangi xatchoʻp
     .accesskey = x
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Yangi ajratgich
     .accesskey = a
+
 places-view =
     .label = Koʻrinishi
     .accesskey = i
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Sana va sayt boʻyicha
     .accesskey = S
+
 places-history-search =
     .placeholder = Tarixdan qidirish
 places-bookmarks-search =
     .placeholder = Xatchoʻplarni qidirish
+
 places-delete-domain-data =
     .label = Bu saytni unutish
     .accesskey = u

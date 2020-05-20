@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Rangi">
 <!ENTITY lastPickedColor.label "So‘nggi tanlangan rang">
 <!ENTITY lastPickedColor.accessKey "S">
-<!ENTITY setColor1.label "Rang ustiga bosing yoki">
-<!ENTITY setColor2.label "HTML rang kodlarini kiriting">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(masalan: &quot;#0000ff&quot; yoki &quot;blue&quot;):">
 <!ENTITY default.label "Standart">
 <!ENTITY default.accessKey "S">

@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "Q">
 <!ENTITY DictionaryList.label "Lug‘atdagi so‘zlar:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Almashtirish">
-<!ENTITY ReplaceButton.accessKey "A">
 <!ENTITY RemoveButton.label "Olib tashlash">
 <!ENTITY RemoveButton.accessKey "O">
 

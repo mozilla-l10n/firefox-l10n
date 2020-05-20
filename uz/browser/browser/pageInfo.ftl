@@ -4,18 +4,22 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = Nusxa olish
     .accesskey = N
+
 select-all =
     .key = A
 menu-select-all =
     .label = Barchasini belgilash
     .accesskey = B
+
 close-dialog =
     .key = w
+
 general-tab =
     .label = Umumiy
     .accesskey = G
@@ -39,6 +43,7 @@ general-meta-name =
     .label = Nomi
 general-meta-content =
     .label = Tarkibi
+
 media-tab =
     .label = Media
     .accesskey = M
@@ -68,11 +73,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Mediani oldindan ko‘rish
+
 perm-tab =
     .label = Ruxsatlar
     .accesskey = P
 permissions-for =
     .value = Ruxsatlar:
+
 security-tab =
     .label = Xavfsizlik
     .accesskey = S
@@ -93,17 +100,22 @@ security-view-identity-validity =
     .value = Muddati tugaydi:
 security-view-privacy =
     .value = Maxfiylik va tarix
+
 security-view-privacy-history-value = Bugun ushbu sahifaga tashrif buyurdimmi?
 security-view-privacy-sitedata-value = Bu sayt maʼlumotlarni kompyuterimga joylashtiryaptimi?
+
 security-view-privacy-clearsitedata =
     .label = Cookie va sayt maʼlumotlarini tozalash
     .accesskey = C
+
 security-view-privacy-passwords-value = Ushbu sahifa uchun parollarni saqladimmi?
+
 security-view-privacy-viewpasswords =
     .label = Saqlangan parollarni ko‘rish
     .accesskey = w
 security-view-technical =
     .value = Texnik ma’lumotlar
+
 help-button =
     .label = Yordam
 
@@ -115,8 +127,10 @@ help-button =
 
 security-site-data-cookies = Ha, cookie  va { $value } { $unit } sayti maʼlumotlari
 security-site-data-only = Ha, { $value } { $unit } sayti maʼlumotlari
+
 security-site-data-cookies-only = Ha, cookie fayllar
 security-site-data-no = Yoʻq
+
 image-size-unknown = Noma’lum
 not-set-verified-by = Ko‘rsatilmagan
 page-info-not-specified =
@@ -136,6 +150,7 @@ media-video = Video
 media-audio = Audio
 saved-passwords-yes = Ha
 saved-passwords-no = Yo‘q
+
 no-page-title =
     .value = Nomsiz sahifa
 general-quirks-mode =
@@ -151,6 +166,7 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Standart foydalanish
 security-no-visits = Yo‘q
+
 # This string is used to display the number of meta tags
 # in the General Tab
 # Variables:
@@ -161,6 +177,7 @@ general-meta-tags =
             [one] Meta (1 ta teg)
            *[other] Meta ({ $tags } ta teg)
         }
+
 # This string is used to display the number of times
 # the user has visited the website prior
 # Variables:
@@ -171,6 +188,7 @@ security-visits-number =
         [one] Ha, bir marta
        *[other] Ha, { $visits } marta
     }
+
 # This string is used to display the size of a media file
 # Variables:
 #   $kb (number) - The size of an image in Kilobytes
@@ -181,6 +199,7 @@ properties-general-size =
             [one] { $kb } KB ({ $bytes } bayt)
            *[other] { $kb } KB ({ $bytes } bayt)
         }
+
 # This string is used to display the type and number
 # of frames of a animated image
 # Variables:
@@ -192,12 +211,14 @@ media-animated-image-type =
             [one] { $type } Rasm (animatsiyali, { $frames } ta freym)
            *[other] { $type } Rasm (animatsiyali, { $frames } ta freym)
         }
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = { $type } rasm
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -207,17 +228,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (scaled to { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -225,6 +249,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = { $website }’dan rasmlarni bloklash
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -12,7 +13,6 @@
 <!-- LOCALIZATION NOTE (browserToolboxErrorMessage): This is the label
   -  shown next to error details when the Browser Toolbox is unable to open. -->
 
-<!ENTITY browserToolboxErrorMessage          "Brauzer asboblar panelini ochishda xatolik:">
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
 
@@ -83,6 +83,7 @@
 
 <!ENTITY options.disableJavaScript.label     "JavaScript *’ni o‘chirib qo‘yish">
 <!ENTITY options.disableJavaScript.tooltip   "Agar buni tanlasangiz, joriy ichki oyna uchun JavaScript o‘chiriladi. Agar ichki oyna yoki asboblar paneli yopilsa, ushbu moslashlar oʻz kuchini yoʻqotadi.">
+
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
@@ -144,8 +145,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "Asl manbalarni ko‘rsatish">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "&quot;Uslub tahrirchisi&quot; va &quot;Nazoratchi&quot;dagi asl manbalarni (masalan, Sass fayllarini) ko‘rsatish">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -164,14 +163,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "Umumumiy moslamalar">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "Doimiy ma’lumotlarni saqlashni yoqish">
-<!ENTITY options.enablePersistentLogs.tooltip  "Agar siz ushbu moslamani yoqsangiz, &quot;Veb terminal&quot; har safar yangi sahifani kuzatmoqchi boʻlganingizda chiquvchilarni tozalamaydi">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -179,6 +175,7 @@
 
 <!ENTITY options.showPlatformData.label    "Gecko platformasi ma’lumotlarini koʻrsatish">
 <!ENTITY options.showPlatformData.tooltip  "Agar siz ushbu moslamani yoqsangiz, JavaScript Profiler natijalari  Gekko platformasi simvollarini qoʻshadi ">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

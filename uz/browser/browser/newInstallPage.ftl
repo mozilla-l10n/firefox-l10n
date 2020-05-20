@@ -9,15 +9,20 @@
 
 title = Muhim yangiliklar
 heading = { -brand-short-name } profilidagi oʻzgarishlar
+
 changed-title = Nima oʻzgartirildi?
 changed-desc-profiles = { -brand-short-name } oʻrnatilishi bilan yangi profil yaratilgan. Profil – bu Firefox saqlaydigan xatchoʻp, parol va foydalanuvchi parametrlari kabi fayllar jamlanmasi.
 changed-desc-dedicated = Oʻrnatilgan Firefox versiyalariga (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition va Firefox Nightly kabilarga ham) almashib oʻtishni osonlashtirish uchun bu oʻrnatilgan versiya uchun ham alohida profil yaratilgan. Maʼlumotlaringizni boshqa oʻrnatilgan Firefox versiyalariga avtomatik tarqatmaydi.
+
 lost = <b> Hech qanday shaxsiy maʼlumotlar yoki sozlashlarni yoʻqotgansiz. </ b> Agar siz allaqachon ushbu kompyuterda Firefox maʼlumotlarini saqlagan boʻlsangiz, u boshqa Firefox profilida saqlanadi.
+
 options-title = Nimalarni tanlay olaman?
 options-do-nothing = Hech nima qilmasangiz, { -brand-short-name } maʼlumotlari boshqa oʻrnatilgan Firefox versiyalaridan alohida profilga saqlanadi.
 options-use-sync = Barcha profil maʼlumotlari ayni oʻrnatilayotgan Firefox profili bilan bir xil boʻlishini xohlasangiz, { -fxaccount-brand-name } hisobi bilan sinxronlang.
+
 resources = Manbalar:
 support-link = Profil menejeridan foydalanish – yordam olish uchun maqola
+
 sync-header = Hisobingizga kiritng yoki { -fxaccount-brand-name } yarating
 sync-label = E-pochtangizni kiriting
 sync-input =

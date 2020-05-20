@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Manzil kitobi…">
 <!ENTITY editContactAddressBook.accesskey "k">
 
-<!ENTITY editContactPanelCancel.label "Bekor qilish">
-<!ENTITY editContactPanelCancel.accesskey "B">
-
 <!ENTITY editContactPanelDone.label "Tayyor">
 <!ENTITY editContactPanelDone.accesskey "T">
 

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Yopish
     .accesskey = Y
+
 show-passwords =
     .label = Parollarni koʻrsatish
     .accesskey = P

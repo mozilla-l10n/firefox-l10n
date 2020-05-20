@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Barchasini belgilash">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Topish">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "T">

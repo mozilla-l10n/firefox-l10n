@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Sizdan yangi sertifikat tasdig‘i (CA)ga ishonishingiz so‘ralgan edi.">
 <!ENTITY downloadCert.trustSSL "Ushbu CA tasdiqli vebsaytlarga ishonish.">
 <!ENTITY downloadCert.trustEmail "Ushbu CA tasdiqli e-pochta foydalanuvchilariga ishonish.">
-<!ENTITY downloadCert.trustObjSign "Ushbu CA tasdiqli dasturchilarga ishonish.">
 <!ENTITY downloadCert.message3 "Ushbu CA’ga boshqa maqsadlarda ishonch bildirishdan oldin, uning sertifikati, siyosati va jarayonlarini (agar mavjud bo‘lsa) sinovdan o‘tkazishingiz kerak.">
 <!ENTITY downloadCert.viewCert.label "Ko‘rinishi">
 <!ENTITY downloadCert.viewCert.text "CA sertifikatini sinovdan o‘tkazish">

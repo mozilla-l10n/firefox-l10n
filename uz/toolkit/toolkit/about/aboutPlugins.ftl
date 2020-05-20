@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Plaginlar haqida
+
 installed-plugins-label = O‘rnatilgan plaginlar
 no-plugins-are-installed-label = O‘rnatilgan plaginlar topilmadi
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Holati:</span> Yoqib qo‘yildi
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Holati:</span> Yoqib qo‘yildi ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Holati:</span> O‘chirib qo‘yilgan
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Holati:</span> O‘chirib qo‘yilgan ({ $blockListState })
+
 mime-type-label = MIME turi
 description-label = Ta’rifi
 suffixes-label = Suffikslar

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Shriftlar
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Shriftlar:
     .accesskey = f
+
 fonts-langgroup-arabic =
     .label = Arabcha
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporsional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Hajmi
     .accesskey = j
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Hajmi
     .accesskey = m
+
 fonts-minsize = Shriftning minimal hajmi
     .accesskey = h
+
 fonts-minsize-none =
     .label = Yoʻq
+
 fonts-allow-own =
     .label = Sahifalarga oʻzlarining shriftlarini tanlashga ruxst berilsin
     .accesskey = t
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Legacy Content uchun matnni kodlash usuli
 fonts-languages-fallback-desc = Ushbu kodlash kodlash usuli noma’lum bo‘lgan holatlar uchun ishlatiladi.
+
 fonts-languages-fallback-label = Matnni muqobil kodlash
     .accesskey = m
+
 fonts-languages-fallback-name-auto =
     .label = Joriy til uchun standart
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vetnamcha
 fonts-languages-fallback-name-other =
     .label = Boshqa (birga. Sharqiy Yevropacha)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

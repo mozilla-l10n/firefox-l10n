@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Xat yozish va manzilga jo‘natish">
 <!ENTITY addressingGroupTitle.label "Manzilga jo‘natish">
@@ -16,8 +19,11 @@
 <!ENTITY directories.label         "Boshqa LDAP serverdan foydalanish:">
 <!ENTITY directories.accesskey     "B">
 <!ENTITY directoriesNone.label     "Yoʻq">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Yozish">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +31,6 @@
 <!ENTITY useHtml.accesskey                    "y">
 <!ENTITY autoQuote.label                      "Javob yozayotganda avtomatik tarzda asl xabardan iqtibos olinsin">
 <!ENTITY autoQuote.accesskey                  "a">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "So‘ngra,">
-<!ENTITY then.accesskey                       "S">
 <!ENTITY aboveQuote.label                     "tepadagi iqtibosga mening javobim boshlansin">
 <!ENTITY belowQuote.label                     "pastdagi iqtibosga mening javobim boshlansin">
 <!ENTITY selectAndQuote.label                 "iqtibosni tanlansin">

@@ -14,5 +14,3 @@
 <!ENTITY makeUrlRelative.tooltip "Aloqador va mutlaq URL manzillar orasidagi o‘zgarish. Siz uni o‘zgartirish uchun birinchi navbatda sahifani saqlashingiz kerak.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Veb sahifa, mahalliy faylni kiriting. Bunday qila olmasangiz Nomlangan langarni yoki ochiluvchi ro‘yxatdan bosh qatorni tanlang:">
-<!ENTITY LinkURLEditField.accessKey "w">

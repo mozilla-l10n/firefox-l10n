@@ -20,6 +20,7 @@ open-location = Izlang yoki manzilni kiriting
 share = Ulashish
 close-window = Oynani yopish
 open-sidebar = Yon panellar
+
 # This string describes shortcuts for search.
 search-popover = Yorliqlarni qidirish
 # Describes searches limited to a specific scope

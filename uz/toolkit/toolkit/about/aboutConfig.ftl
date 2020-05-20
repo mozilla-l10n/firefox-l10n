@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Xavfga roziman!
 config-about-warning-checkbox =
     .label = Ushbu ogohlantirish keyingi safar koʻrsatilsin
+
 config-search-prefs =
     .value = Izlash
     .accesskey = I
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,44 +50,59 @@ config-copy-pref =
     .key = C
     .label = Nusxa olish
     .accesskey = N
+
 config-copy-name =
     .label = Nomidan nusxa olish
     .accesskey = N
+
 config-copy-value =
     .label = Qiymatdan nusxa olish
     .accesskey = Q
+
 config-modify =
     .label = O‘zgartirish
     .accesskey = O
+
 config-toggle =
     .label = Oʻtish
     .accesskey = O
+
 config-reset =
     .label = Tiklash
     .accesskey = T
+
 config-new =
     .label = Yangi
     .accesskey = Y
+
 config-string =
     .label = Qator
     .accesskey = Q
+
 config-integer =
     .label = Butun son
     .accesskey = B
+
 config-boolean =
     .label = Mantiqiy
     .accesskey = M
+
 config-default = standart
 config-locked = qulflangan
+
 config-property-string = qator
 config-property-int = butun son
 config-property-bool = mantiqiy
+
 config-new-prompt = Moslash nomini kiriting
+
 config-nan-title = Xato qiymat
 config-nan-text = Siz kiritgan matn - raqam emas.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Yangi qiymat { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } qiymatini kiriting

@@ -86,8 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Biriktirma nomini o‘zgartirish…">
 <!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY selectAllCmd.label "Barchasini tanlash">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Topish…">
 <!ENTITY findBarCmd.accesskey "T">
 <!ENTITY findBarCmd.key "F">
@@ -213,14 +213,13 @@
 <!ENTITY sendlaterButton.tooltip "Bu xabarni keyinroq jo‘natish">
 <!ENTITY quoteButton.tooltip "Oldingi xabardan iqtibos olish">
 <!ENTITY addressButton.tooltip "Manzil kitobdan qabul qiluvchini tanlash">
-<!ENTITY attachButton.tooltip "Biriktirmani qo‘shish">
 <!ENTITY spellingButton.tooltip "Tanlanganni yoki butun xabarning imlo xatolarini tekshirish">
-<!ENTITY statusLanguageText.tooltip "Imlo tekshirish tili">
 <!ENTITY saveButton.tooltip "Bu xabarni saqlash">
 <!ENTITY cutButton.tooltip              "Kesish">
 <!ENTITY copyButton.tooltip             "Nusxa olish">
 <!ENTITY pasteButton.tooltip            "Qo‘yish">
 <!ENTITY printButton.tooltip "Bu xabarni chop qilish">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -300,6 +299,8 @@
 <!ENTITY attachPage.accesskey "V">
 <!-- Spell checker context menu items -->
 
+<!-- Attachment Pane Header Bar Context Menu -->
+
 <!ENTITY spellAddDictionaries.label "Lug‘atlar qo‘shish…">
 <!ENTITY spellAddDictionaries.accesskey "q">
 <!-- Title for the address picker panel -->
@@ -309,3 +310,4 @@
 
 <!ENTITY customizeFromAddress.label "Manzildan sozlab olish…">
 <!ENTITY customizeFromAddress.accesskey "M">
+

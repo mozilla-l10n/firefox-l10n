@@ -50,6 +50,7 @@
 <!ENTITY enableCrashReporter.label       "Nosozlik haqida xabar bergichni yoqib qo‘yish">
 <!ENTITY enableCrashReporter.accesskey   "N">
 <!ENTITY crashReporterLearnMore.label    "Batafsil ma’lumot">
+
 <!-- Update -->
 <!-- LOCALIZATION NOTE (updateApp.label):
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
@@ -66,8 +67,6 @@
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Yangilanishlar uchun tekshirilsin, ammo menga tanlab o‘rnatish imkoni berilsin">
 <!ENTITY updateCheck.accesskey           "t">
-<!ENTITY updateManual.label              "Yangilanishlar uchun hech qachon tekshirilmasin (tavsiya qilinmaydi: xavfsizlik tahdidi)">
-<!ENTITY updateManual.accesskey          "h">
 <!ENTITY updateHistory.label             "Yangilash tarixini ko‘rsatish">
 <!ENTITY updateHistory.accesskey         "a">
 
@@ -116,3 +115,4 @@
 <!ENTITY manageCertificates.accesskey "b">
 <!ENTITY viewSecurityDevices.label "Xavfsizlik qurilmalari">
 <!ENTITY viewSecurityDevices.accesskey "q">
+

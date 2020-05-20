@@ -4,142 +4,171 @@
 
 certmgr-title =
     .title = Sertifikat boshqaruvchisi
+
 certmgr-tab-mine =
     .label = Sertifikatlaringiz
+
 certmgr-tab-people =
     .label = Odamlar
+
 certmgr-tab-servers =
     .label = Serverlar
+
 certmgr-tab-ca =
     .label = Tasdiqdan oʻtkazishlar
+
 certmgr-detail-general-tab-title =
     .label = Umumiy
     .accesskey = U
+
 certmgr-detail-pretty-print-tab-title =
     .label = Tafsilotlar
     .accesskey = T
+
 certmgr-pending-label =
     .value = Hozirda sertifikat tasdiqlanmoqda…
-certmgr-subject-info-label =
-    .value = Ushbuga tegishli:
-certmgr-issuer-info-label =
-    .value = Muallifi:
-certmgr-period-of-validity-label =
-    .value = Yaroqlilik muddati
-certmgr-fingerprints-label =
-    .value = Barmoq izlari
+
 certmgr-subject-label = Ushbuga tegishli:
+
 certmgr-issuer-label = Muallifi:
+
 certmgr-period-of-validity = Yaroqlilik muddati
+
 certmgr-fingerprints = Barmoq izlari
+
 certmgr-cert-detail =
     .title = Sertifikat tafsilotlari
     .buttonlabelaccept = Yopish
     .buttonaccesskeyaccept = Y
-certmgr-cert-detail-cn =
-    .value = Umumiy nom (CN)
-certmgr-cert-detail-o =
-    .value = Tashkilot (O)
-certmgr-cert-detail-ou =
-    .value = Tashkilot qismi (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Serial raqami
-certmgr-cert-detail-sha256-fingerprint =
-    .value = SHA-256 barmoq izi
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 barmoq izi
+
 certmgr-cert-detail-commonname = Umumiy nom (CN)
+
 certmgr-cert-detail-org = Tashkilot (O)
+
 certmgr-cert-detail-orgunit = Tashkilot qismi (OU)
+
 certmgr-cert-detail-serial-number = Serial raqami
+
 certmgr-cert-detail-sha-256-fingerprint = SHA-256 barmoq izi
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 barmoq izi
+
 certmgr-edit-ca-cert =
     .title = CA sertifikati ishonch sozlamalarini oʻzgartirish
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Ishonch sozlalamalarini oʻzgartirish:
+
 certmgr-edit-cert-trust-ssl =
     .label = Ushbu sertifikat veb sayt haqida ma’lumotlarni aniqlashtira oladi.
+
 certmgr-edit-cert-trust-email =
     .label = Ushbu sertifikat foydalanuvchilar pochtalari ma’lumotlarini aniqlay oladi.
+
 certmgr-delete-cert =
     .title = Sertifikatni o‘chirish
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Sertifikat nomi
+
 certmgr-cert-server =
     .label = Server
+
 certmgr-override-lifetime =
     .label = Foydalanish muddati
+
 certmgr-token-name =
     .label = Qurilma xavfsizligi
+
 certmgr-begins-on = Boshlanishi:
+
 certmgr-begins-label =
     .label = Boshlanishi:
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Tugashi:
+
 certmgr-expires-label =
     .label = Tugashi:
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = E-pochta manzili
+
 certmgr-serial =
     .label = Serial raqami
+
 certmgr-view =
     .label = Ko‘rinishi…
     .accesskey = K
+
 certmgr-edit =
     .label = Ishonchni tasdiqlash…
     .accesskey = E
+
 certmgr-export =
     .label = Eksport qilish…
     .accesskey = E
+
 certmgr-delete =
     .label = O‘chirish…
     .accesskey = O
+
 certmgr-delete-builtin =
     .label = O‘chirish yoki ishonmaslik…
     .accesskey = O
+
 certmgr-backup =
     .label = Zahiralash…
     .accesskey = Z
+
 certmgr-backup-all =
     .label = Barchasini zahiralash…
     .accesskey = z
+
 certmgr-restore =
     .label = Import qilish…
     .accesskey = I
+
 certmgr-details =
     .value = Sertifikat maydonchalari
     .accesskey = m
+
 certmgr-fields =
     .value = Qiymat maydoni
     .accesskey = Q
+
 certmgr-hierarchy =
     .value = Sertifikat iyerarxiyasi
     .accesskey = H
+
 certmgr-add-exception =
     .label = Istisno qoʻshish…
     .accesskey = I
+
 exception-mgr =
     .title = Xavfsizlik istisnosini qo‘shish
+
 exception-mgr-extra-button =
     .label = Xavfsizlik istisnosini tasdiqlash
     .accesskey = C
+
 exception-mgr-supplemental-warning = Qonuniy banklar, do‘konlar va boshqa ommaviy saytlar sizdan buni qilishni so‘ramaydi.
+
 exception-mgr-cert-location-url =
     .value = Manzili:
+
 exception-mgr-cert-location-download =
     .label = Sertifikatni olish
     .accesskey = G
+
 exception-mgr-cert-status-view-cert =
     .label = Ko‘rinishi…
     .accesskey = V
+
 exception-mgr-permanent =
     .label = Ushbu istisnoni butunlay joylashtirish
     .accesskey = b
+
 pk11-bad-password = Kiritilgan parol - xato.
 pkcs12-decode-err = Faylni dekodlab bo‘lmadi. Yoki u PKCS #12 formatda emas va buzilgan, yoki kiritlgan parol noto‘g‘ri.
 pkcs12-unknown-err-restore = Noma’lum sabablarga ko‘ra PKCS #12 faylni tiklab bo‘lmadi.
@@ -172,14 +201,19 @@ delete-user-cert-title =
     .title = Sertifikatlaringizni o‘chirish
 delete-user-cert-confirm = Ushbu sertifikatlarni o‘chirmoqchi ekanligingizga ishonchingiz komilmi?
 delete-user-cert-impact = Shaxsiy sertifikatlaringizdan birini o'chirib yuborsangiz, o‘zingizni tasdiqdan o‘tkazishdan foydalana olmay qolasiz.
+
+
 delete-ssl-cert-title =
     .title = Server sertifikati istisnolarini o‘chirish
 delete-ssl-cert-confirm = Ushbu server istisnolarini oʻchirmoqchi ekanligingizga ishonchingiz komilmi?
 delete-ssl-cert-impact = Agar server istisnosini oʻchirsangiz, ushbu server uchun odatdagi xavfsizlik tekshiruvlarini ham tiklaysiz va undan foydalanish yaroqli sertifikatni talab qiladi.
+
 delete-ca-cert-title =
     .title = CA sertifikatlarni o‘chirish yoki ishonishni to‘xtatish
 delete-ca-cert-confirm = Sizdan ushbu CA sertifikatlarni o‘chirish so‘raldi. Ichki sertifikatlar uchun xuddi shunday effekt bor barcha ishonchlar o‘chiriladi. O‘chirmoqchi ekanligingizga yoki ishonchni olib tashlashni xohlashingizga ishonchingiz komilmi?
 delete-ca-cert-impact = Agar siz tasdiqdan o‘tkazish sertifikati (CA)ni o‘chirsangiz yoki ishonchni to‘xtatsangiz, ushbu ilova dastur ushbu CA’ga tegishli har qanday sertifikatlarga ishonmaydi.
+
+
 delete-email-cert-title =
     .title = E-pochta sertifikatlrini oʻchirish
 delete-email-cert-confirm = Ushbu odamlarning e-pochta sertifikatlarini o‘chirmoqchi ekanligingizga ishonchingiz komilmi?
@@ -189,19 +223,26 @@ delete-email-cert-impact = Agar shaxsning e-pochta sertifikatini o‘chsangiz, s
 
 not-present =
     .value = <Sertifikat qismi emas>
+
 # Cert verification
 cert-verified = Ushbu sertifikat quyidagi foydalanuvchilar uchun tekshirilgan:
+
 # Add usage
 verify-ssl-client =
     .value = SSL mijoz sertifikati
+
 verify-ssl-server =
     .value = SSL server sertifikati
+
 verify-ssl-ca =
     .value = SSL tasdiqdan oʻtkazish sertifikati
+
 verify-email-signer =
     .value = E-pochtaga kirish sertifikati
+
 verify-email-recip =
     .value = E-pochta qabul qilish sertifikati
+
 # Cert verification
 cert-not-verified-cert-revoked = Ushbu sertifikat tekshirilmadi, chunki u bekor qilingan.
 cert-not-verified-cert-expired = Ushbu sertifikat tekshirilmadi, chunki u eskirgan.

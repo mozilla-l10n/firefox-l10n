@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Majburiy (barcha qabul qiluvchilarda sertifikat bo‘lmasa xabarni jo‘natib bo‘lmaydi)">
 <!ENTITY alwaysEncryptMessage.accesskey "M">
 <!ENTITY encryptionCert.message "Bu sertifikatdan sizga jo‘natilgan xabarlarni shifrlash va shifrdan chiqarish uchun foydalaning:">
+
 <!ENTITY digitalSign.certificate.button "Tanlash…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Tozalash">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Sertifikatlarni tanlash">
 <!ENTITY certPicker.info  "Sertifikat:">
 <!ENTITY certPicker.detailsLabel "Tanlangan sertifikat tafsilotlari:">
+

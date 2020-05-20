@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 
 <!ENTITY windowTitle.label "Hisob ustasi">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
 <!-- Entities for Account Type page -->
 
 
@@ -17,6 +19,7 @@
 <!ENTITY accountTypeMail.accesskey "E">
 <!ENTITY accountTypeNews.label "Yangiliklar hisobi">
 <!ENTITY accountTypeNews.accesskey "Y">
+
 <!-- Entities for Identity page -->
 
 
@@ -35,6 +38,7 @@
 
 <!ENTITY emailLabel.label "E-pochta manzili:">
 <!ENTITY emailLabel.accesskey "E">
+
 <!-- Entities for Incoming Server page -->
 
 
@@ -64,6 +68,7 @@
 <!ENTITY newsServerNameDesc.label "Yangiliklar serveri nomini (NNTP) kiriting (masalan, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Yangiliklar to‘plami serveri:">
 <!ENTITY newsServerLabel.accesskey "s">
+
 <!-- Entities for Outgoing Server page -->
 
 
@@ -98,6 +103,7 @@
 -->
 <!ENTITY haveSmtp3.prefix "Chiquvchi xabarlar (SMTP) serveri, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, kirish server bilan bir xil, kiruvchi server uchun foydalanuvchi nomi unga kirish uchun foydalaniladi.">
+
 <!-- Entities for Account name page -->
 
 
@@ -106,6 +112,7 @@
 <!ENTITY accnameDesc.label "Bu hisob bilan bog‘lanishi lozim bo‘lgan nomni kiriting (masalan, &quot;Uy uchun hisob&quot;, &quot;Ish uchun hisob&quot; yoki &quot;Yangiliklar hisobi&quot;).">
 <!ENTITY accnameLabel.label "Hisob nomi:">
 <!ENTITY accnameLabel.accesskey "n">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

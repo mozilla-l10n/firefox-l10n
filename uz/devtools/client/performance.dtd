@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Performance strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkey -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
@@ -104,6 +106,7 @@
 
 <!ENTITY performanceUI.enableFramerate             "Yozib olish kadr nisbati">
 <!ENTITY performanceUI.enableFramerate.tooltiptext "Profillanganda kadr yozib olish kadr nisbati">
+
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->

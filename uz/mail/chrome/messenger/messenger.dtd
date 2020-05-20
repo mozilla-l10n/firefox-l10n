@@ -166,7 +166,6 @@
 <!ENTITY compactVersion.accesskey "I">
 <!ENTITY folderPaneBar.label "Jild yon oynasi asboblar paneli">
 <!ENTITY folderPaneBar.accesskey "J">
-<!ENTITY folderModeSelector.label "Jild ko‘rinishi">
 <!-- Sort Menu -->
 
 <!ENTITY sortMenu.label "Saralash">
@@ -317,7 +316,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "C">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Yulduzcha qo‘yilgan xabar">
 <!ENTITY prevStarredMsgCmd.accesskey "Y">
 <!ENTITY folderMenu.label "Jild">
@@ -430,9 +428,6 @@
 <!ENTITY openMessageWindowCmd.label "Xabarni ochish">
 <!ENTITY openMessageWindowCmd.accesskey "o">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Suhbatda ochish">
-<!ENTITY openConversationCmd.accesskey "S">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Ilovalar">
 <!ENTITY openAttachmentListCmd.accesskey "I">
 <!ENTITY openFeedMessage1.label "Xabarlar tasmasi ochilganda">
@@ -500,8 +495,6 @@
 <!ENTITY devToolboxCmd.label "Das&amp;turchi asboblari paneli">
 <!ENTITY devToolboxCmd.accesskey "a">
 <!ENTITY devToolboxCmd.commandkey "i">
-<!ENTITY addonDebugCmd.label "Qo‘shimcha dastur tuzatkichi">
-<!ENTITY addonDebugCmd.accesskey "Q">
 <!ENTITY tabsDebugCmd.label "Freym tuzatkichi tarkibi">
 <!ENTITY tabsDebugCmd.accesskey "t">
 <!ENTITY errorConsoleCmd.label "Xato terminali">
@@ -797,7 +790,6 @@
      customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Ustunlarni standart holiga tiklash">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -848,6 +840,7 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Tovushni yoqish">
 <!ENTITY contextUnmute.accesskey "y">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -952,3 +945,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!ENTITY dockOptions.label              "Ilova dastur &amp;nishonchasi parametrlari…">
+

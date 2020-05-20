@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Shrift:">
 <!ENTITY font.accesskey                       "S">
-<!ENTITY size.label                           "Hajm:">
-<!ENTITY size.accesskey                       "j">
 <!ENTITY fontColor.label                      "Matn rangi:">
 <!ENTITY fontColor.accesskey                  "M">
 <!ENTITY bgColor.label                        "Orqa fon rangi:">

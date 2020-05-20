@@ -1,4 +1,5 @@
 <!ENTITY aboutDialog.title          "&brandFullName; haqida">
+
 <!-- LOCALIZATION NOTE (update.*):
 # These strings are also used in the update pane of preferences.
 # See about:preferences#advanced.

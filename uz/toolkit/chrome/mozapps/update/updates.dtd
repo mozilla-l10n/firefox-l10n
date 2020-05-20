@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Qisman yangilash qoʻllanmadi. Yangilanishni tugatish uchun &brandShortName; yuklab olishga yana urinib koʻradi.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; yangilanish mavjudligini tekshira olmadi. Marhamat, bu yerdan &brandShortName;ning soʻnggi versiyasi oʻrnatilganligini tekshirib koʻring:">
-
+                                           
 <!ENTITY  finishedPage.title              "Yangilanish oʻrnatish uchun tayyor">
 <!ENTITY  finishedPage.text               "Yangilanish &brandShortName; keyingi safar ishga tushirilganda oʻrnatiladi. Siz&brandShortName;ni hozir yoki keyinroq qayta ishga tushirishingiz mumkin.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Yangilanish &brandShortName; keyingi safar ishga tushirilganda oʻrnatiladi. Siz&brandShortName;ni hozir yoki keyinroq qayta ishga tushirishingiz mumkin.">
 <!ENTITY  finishedBackground.moreElevated "Bu yangilashni amalga oshirish uchun administrator huquqi kerak. Yangilanish &brandShortName; keyingi safar ishga tushganda o‘rnatiladi. &brandShortName; bilan ishlashni davom ettirishingiz, qayta ishga tushirishingiz yoki yangilanishni rad etishingiz mumkin.">
 
-<!ENTITY  update.details.label            "Tafsilotlar">
-<!ENTITY  update.installedOn.label        "Oʻrnatilgan:">
-<!ENTITY  update.status.label             "Holati:">

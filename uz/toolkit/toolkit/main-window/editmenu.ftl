@@ -6,24 +6,33 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console
 
+### This file contains the entities needed for the 'edit' menu
+### It's currently only used for the Browser Console and Developer Toolbox
+
 editmenu-undo =
     .label = Bekor qilish
     .accesskey = q
+
 editmenu-redo =
     .label = Qaytarish
     .accesskey = r
+
 editmenu-cut =
     .label = Kesish
     .accesskey = t
+
 editmenu-copy =
     .label = Nusxa olish
     .accesskey = s
+
 editmenu-paste =
     .label = Qo‘yish
     .accesskey = q
+
 editmenu-delete =
     .label = O‘chirish
     .accesskey = O
+
 editmenu-select-all =
     .label = Barchasini belgilash
     .accesskey = B

@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Pauza
 pictureinpicture-play =
     .aria-label = Ijro etish
+
 pictureinpicture-mute =
     .aria-label = Tovushni oʻchirish
 pictureinpicture-unmute =
     .aria-label = Tovushni yoqish
+

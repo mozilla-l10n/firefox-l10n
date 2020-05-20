@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Ishga tushish ma’lumoti">
 
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Qurilma parametrlari">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Qurilma sozlamalari">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Ilova dasturni ochish">
+
 <!ENTITY runtimeButton_label "Ishga tushish vaqtini tanlash">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "Ichki oynalar">
 <!ENTITY runtimePanel_usb "USB qurilmalar">
 <!ENTITY runtimePanel_wifi "Wi-Fi qurilmalar">
-<!ENTITY runtimePanel_simulator "Simulyatorlar">
 <!ENTITY runtimePanel_other "Boshqa">
-<!ENTITY runtimePanel_installsimulator "Simulyatorni o‘rnatish">
-<!ENTITY runtimePanel_noadbhelper "ADB yordamchini o‘rnatish">
 <!ENTITY runtimePanel_nousbdevice "Qurilmangizni ko‘rmayapsizmi?">
 
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "Dizaynni tanlash">
 <!ENTITY newAppLoadingTemplate "Dizaynlar yuklanmoqda…">
 <!ENTITY newAppProjectName "Loyiha nomi:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Ishga tushish ma’lumoti">
-<!ENTITY runtimedetails_adbIsRoot "ADB - asos: ">
-<!ENTITY runtimedetails_summonADBRoot "asos qurilma">
-<!ENTITY runtimedetails_ADBRootWarning "(qulfdan chiqarilgan tizim yuklagichi so‘ralmoqda)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Cheklanmagan DevTools imtiyozlari: ">
-<!ENTITY runtimedetails_requestPrivileges "yuqoriroq imtiyozlarni so‘rash">
-<!ENTITY runtimedetails_privilegesWarning "(Qurilma qaytadan ishga tushiriladi. Asosga kirish huquqi so‘ralmoqda.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "Mantiqiy">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "Yangi sozlama qo‘shish">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Yordam">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -175,14 +166,6 @@
 
 <!ENTITY logs_title "Oldindan paketlash buyruqlari jurnali">
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Versiyasi">
-
-
-<!ENTITY simulator_device "Qurilma">
 
 
 

@@ -10,7 +10,6 @@
 <!ENTITY feedTitle.accesskey         "r">
 
 
-<!ENTITY feedLocation.placeholder    "Qo‘shish uchun yaroqli tasma manzilini kiriting">
 <!ENTITY locationValidate.label      "Tekshirish">
 <!ENTITY validateText.label          "Tasdiqlang va yaroqli URL manzilini oling.">
 

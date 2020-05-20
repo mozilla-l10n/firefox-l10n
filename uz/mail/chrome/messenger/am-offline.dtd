@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Bo‘sh joyni asramoqchi bo‘lsangiz, yuklab olmang:">
 <!ENTITY doNotDownloadNntp.label "Bo‘sh joyni asramoqchi bo‘lsangiz, oflayn foydalanish uchun yuklab olmang:">
 <!ENTITY doNotDownloadImap.label "Bo‘sh joyni asrash uchun, serverdan xabarlarni yuklab olish va oflayn foydalanish uchun kompyurga nusxalarni saqlashga hajmi yoki sanasi bo‘yicha cheklov o‘rnatishingiz mumkin.">
-<!ENTITY allFoldersOffline.label "Bu hisob uchun xabarlar kompyuterga saqlansin">
-<!ENTITY allFoldersOffline.accesskey "B">
 <!ENTITY offlineNotDownload.label "Ushbudan katta xabarlar">
 <!ENTITY offlineNotDownload.accesskey "x">
 <!ENTITY autosyncNotDownload.label "Ushbudan katta xabarlar yuklab olinmasin">

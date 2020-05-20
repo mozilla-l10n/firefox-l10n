@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Iboradagi keyingi hodisani topish
 findbar-previous =
     .tooltiptext = Iboradagi oldingi hodisani topish
+
 findbar-find-button-close =
     .tooltiptext = Topish panelini yopish
-findbar-highlight-all =
-    .label = Barchasini ajratib ko‘rsatish
-    .accesskey = c
-    .tooltiptext = Iboradagi barcha o‘zgarishlarni ajratib ko‘rsatish
+
 findbar-case-sensitive =
     .label = Katta-kichik harflarni farqlash
     .accesskey = c
     .tooltiptext = Harflar katta-kichikligini farqlab izlash
+
 findbar-entire-word =
     .label = To‘liq so‘zlar
     .accesskey = B

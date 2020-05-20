@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Orqaga
     .accesskey = O
+
 wizard-macos-button-next =
     .label = Davom etish
     .accesskey = D
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Keyingi >
     .accesskey = K
+
 wizard-macos-button-finish =
     .label = Tayyor
 wizard-linux-button-finish =
     .label = Tugadi
 wizard-win-button-finish =
     .label = Tugadi
+
 wizard-macos-button-cancel =
     .label = Bekor qilish
 wizard-linux-button-cancel =

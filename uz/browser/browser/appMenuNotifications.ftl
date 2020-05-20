@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = { -brand-shorter-name }ga qoʻshilgan har qanday kengaytma Maxfiy oynalarda ishlamaydi. Ishlashi uchun sozlamalar orqali ruxsat bering.
 appmenu-addon-private-browsing-learn-more = Kengaytmalar sozlamalarini boshqarish haqida batafsil
+    
 appmenu-new-tab-controlled =
     .label = Yangi varaq oʻzgardi.
     .buttonlabel = O‘zgarishlarni saqlash
