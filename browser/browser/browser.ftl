@@ -239,8 +239,6 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Rozšírenie:
-urlbar-go-end-cap =
-    .tooltiptext = Prejsť na adresu zadanú v paneli s adresou
 urlbar-page-action-button =
     .tooltiptext = Akcie stránky
 urlbar-pocket-button =
