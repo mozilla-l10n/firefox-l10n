@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Segnelibris
+
 sidebar-menu-history =
     .label = Cronologjie
+

@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "Problemis cjamant la pagjine">
 <!ENTITY retry.label "Torne a provâ">
+
 <!-- Specific error messages -->
 
 
@@ -101,3 +102,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

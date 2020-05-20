@@ -26,6 +26,7 @@ import =
 close-button =
     .label = Siere
     .accesskey = S
+
 remove-all-passwords-prompt = Sêstu sigûr che tu vuelis scancelâ dutis lis passwords?
 remove-all-passwords-title = Gjave dutis lis passwords
 no-master-password-prompt = Sêstu sigûr che tu vuelis fâ viodi lis tôs passwords?

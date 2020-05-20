@@ -9,13 +9,19 @@ colors-window =
             [macos] width: 48em
            *[other] width: 44em
         }
+
 colors-close-key =
     .key = w
+
 colors-text-and-background = Test e sfont
+
 colors-use-system =
     .label = Dopre colôrs dal sisteme
     .accesskey = D
+
 colors-underline-links =
     .label = Striche sot dai leams
     .accesskey = S
+
 colors-links-header = Colôrs dai leams
+

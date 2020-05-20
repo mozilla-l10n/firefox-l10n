@@ -7,11 +7,13 @@ copy =
 menu-copy =
     .label = Copie
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = Selezione dut
     .accesskey = d
+
 general-tab =
     .label = Gjenerâl
     .accesskey = G
@@ -31,6 +33,7 @@ general-meta-name =
     .label = Non
 general-meta-content =
     .label = Contignût
+
 media-tab =
     .label = Media
     .accesskey = M
@@ -60,11 +63,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Anteprime multimediâl:
+
 perm-tab =
     .label = Permès
     .accesskey = P
 permissions-for =
     .value = Permès par:
+
 security-tab =
     .label = Sigurece
     .accesskey = S
@@ -81,13 +86,17 @@ security-view-identity-domain =
     .value = Sît web:
 security-view-identity-verifier =
     .value = Verificât par:
+
 security-view-privacy-history-value = Aio visitât chest sît web prime di vuê?
+
 security-view-privacy-passwords-value = Aio salvât cualchi password par chest sît web?
+
 security-view-privacy-viewpasswords =
     .label = Visualize passwords salvadis
     .accesskey = w
 security-view-technical =
     .value = Detais tecnics
+
 help-button =
     .label = Jutori
 
@@ -111,6 +120,7 @@ media-link = Icone
 media-input = Input
 saved-passwords-yes = Sì
 saved-passwords-no = No
+
 no-page-title =
     .value = Pagjine cence titul:
 general-quirks-mode =
@@ -123,12 +133,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Dopre impostazion predeterminade
 security-no-visits = No
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Figure { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -138,17 +150,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (ridimensionade a { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -156,6 +171,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Bloche figuris di { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

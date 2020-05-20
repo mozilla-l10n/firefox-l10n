@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Vierç intun gnûf barcon
     .accesskey = b
+
 places-new-bookmark =
     .label = Gnûf segnelibri…
     .accesskey = b
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Gnûf separadôr
     .accesskey = s
+
 places-view =
     .label = Viodude
     .accesskey = o
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Par date e sît
     .accesskey = P
+
 places-delete-domain-data =
     .label = Dismentee chest sît
     .accesskey = D

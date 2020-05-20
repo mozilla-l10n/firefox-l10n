@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Informazions sui plugins
+
 installed-plugins-label = Plugins instalâts
 no-plugins-are-installed-label = No ai cjatát nissun plugin instalât
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Stât</span> Ativ&ât
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Stât</span> Ativât ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Stât</span> Disativât
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stât</span> Disativât ({ $blockListState })
+
 mime-type-label = Gjenar MIME
 description-label = Descrizion
 suffixes-label = Sufìs

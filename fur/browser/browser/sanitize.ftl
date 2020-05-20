@@ -14,16 +14,22 @@
 clear-time-duration-prefix =
     .value = Dade di timp di scancelâ
     .accesskey = t
+
 clear-time-duration-value-last-hour =
     .label = La ultime ore
+
 clear-time-duration-value-last-2-hours =
     .label = Lis ultimis dôs oris
+
 clear-time-duration-value-last-4-hours =
     .label = Lis ultimis cuatri oris
+
 clear-time-duration-value-today =
     .label = Vuê
+
 clear-time-duration-value-everything =
     .label = Dut
+
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -31,31 +37,42 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Cronologjie
+
 item-cookies =
     .label = Cookies
     .accesskey = C
+
 item-active-logins =
     .label = Logins atîfs
     .accesskey = L
+
 item-cache =
     .label = Cache
     .accesskey = a
+
 data-section-label = Dâts
+
 item-site-preferences =
     .label = Preferencis sît
     .accesskey = s
+
 item-offline-apps =
     .label = Dâts dai sîts web fûr linie
     .accesskey = f
+
 sanitize-everything-undo-warning = No si pues anulâ cheste azion.
+
 window-close =
     .key = w
+
 sanitize-button-ok =
     .label = Nete fûr daûrman
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has not modified the default set
 # of history items to clear.
 sanitize-everything-warning = Dute la cronologjie e vignarà netade fûr.
+
 # Warning that appears when "Time range to clear" is set to "Everything" in Clear
 # Recent History dialog, provided that the user has modified the default set of
 # history items to clear.

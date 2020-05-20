@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = No si pues conetisi cun sigurece parcè che il protocol SSL al è stât disabilitât.
 psmerr-ssl2-disabled = No si pues conetisi cun sigurece parcè che il sît al dopre une version viere e no sigure dal protocol SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Tu âs ricevût un certificât invalit. Contate l'aministradôr di servidôr o chel che ti à mandât il messaç di pueste eletroniche e dai chest messaç:
     
     Il to certificât al à il stes numar di serie di un altri certificât dât fûr de autoritât di certificazion. Par plasê cjatiti un gnûf certificât cuntun numar di serie unic.
+
 ssl-error-no-cypher-overlap = No si pues inviâ une conession sigure cun chel altri estrem: no son algoritmis di cifradure in comun.
 ssl-error-no-certificate = No si pues cjatâ il certificât o la clâf che a coventin pe autenticazion.
 ssl-error-bad-certificate = No si pues tacâ une conession sigure cun chel altri estrem: il certificât di chel altri estrem al è stât dineât.

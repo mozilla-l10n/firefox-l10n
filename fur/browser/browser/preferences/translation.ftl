@@ -4,5 +4,7 @@
 
 translation-close-key =
     .key = w
+
 translation-languages-column =
     .label = Lenghis
+

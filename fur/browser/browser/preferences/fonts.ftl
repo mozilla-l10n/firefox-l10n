@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Caratars
+
 fonts-window-close =
     .key = w
 
@@ -67,6 +68,7 @@ fonts-default-serif =
     .label = Cun graciis
 fonts-default-sans-serif =
     .label = Cence graciis
+
 fonts-minsize-none =
     .label = Nissune
 
@@ -95,6 +97,7 @@ fonts-languages-fallback-name-turkish =
     .label = Turc
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamit
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

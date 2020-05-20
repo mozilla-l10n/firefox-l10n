@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Cjate la prossime ocorince dal test
 findbar-previous =
     .tooltiptext = Cjate la precedente ocorince dal test
+
 findbar-find-button-close =
     .tooltiptext = Siere la sbare di ricercje
+

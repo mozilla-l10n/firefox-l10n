@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Jutori"> 
 <!ENTITY helpMenuWin.accesskey    "J">
+
 <!ENTITY aboutProduct2.label      "Informazions su &brandShortName;">
 <!ENTITY aboutProduct2.accesskey  "I">
 <!ENTITY productHelp2.label       "Jutori di &brandShortName; ">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "r">
 
 
-
-<!ENTITY healthReport2.label      "Rapuart de salût di &brandShortName;">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informazions pal supuart…">
 <!ENTITY helpTroubleshootingInfo.accesskey  "t">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Mostre dut">
+

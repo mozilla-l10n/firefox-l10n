@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = Vierç un barcon privât
     .accesskey = p
 about-private-browsing-not-private = In chest moment no tu sês intun barcon privât.
+

@@ -4,24 +4,31 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Bloche
     .accesskey = B
+
 permissions-session =
     .label = Permet par cheste session
     .accesskey = P
+
 permissions-allow =
     .label = Permet
     .accesskey = P
+
 permissions-status =
     .label = Stât
+
 permissions-button-cancel =
     .label = Scancele
     .accesskey = S
+
 permissions-capabilities-allow =
     .label = Permet
 permissions-capabilities-block =
     .label = Bloche
+
 permissions-capabilities-listitem-allow =
     .value = Permet
 permissions-capabilities-listitem-block =
@@ -54,11 +61,15 @@ permissions-exceptions-addons-desc = Tu puedis specificâ cuâi che a son i sît
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

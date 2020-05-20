@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Pause
 pictureinpicture-play =
     .aria-label = Riprodûs
+
 pictureinpicture-mute =
     .aria-label = Cence audio
 pictureinpicture-unmute =
     .aria-label = Ative audio
+

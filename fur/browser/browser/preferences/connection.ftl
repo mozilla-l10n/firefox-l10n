@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Nissun proxy
     .accesskey = y
@@ -13,16 +14,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Cjate in automatic la configurazion dai proxies par cheste rêt
     .accesskey = a
+
 connection-proxy-http-share =
     .label = Dopre chest servidôr proxy par ducj i protocoi
     .accesskey = D
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Esempli: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Ricjame
     .accesskey = R
+

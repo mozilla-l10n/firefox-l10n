@@ -36,8 +36,6 @@
 
 
 
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
-
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 
 
@@ -96,6 +94,7 @@
 
 
 <!ENTITY deck_close "Siere">
+
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "Gjestôr des zontis">
 <!-- Prefs -->
@@ -135,8 +134,6 @@
 
 
 
-<!-- Monitor -->
-<!ENTITY monitor_help "Jutori">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -152,11 +149,6 @@
 
 <!-- Logs panel -->
 <!-- Simulator Options -->
-
-
-
-
-<!ENTITY simulator_version "Version">
 
 
 

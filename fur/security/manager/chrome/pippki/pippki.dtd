@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Ti domandin di fidâti di une gnove Autoritât di Certificazion (CA).">
 
 <!ENTITY downloadCert.trustEmail "Fiditi di chest CA par identificâ utents email.">
-<!ENTITY downloadCert.trustObjSign "Fiditi di chest CA par identificâ produtôrs di software.">
 <!ENTITY downloadCert.message3 "Prime di fidâti di chest CA par cualsisei fin, tu varessis di esaminâ i siei certificâts e la sô politiche e proceduris (se a son a disposizion).">
 <!ENTITY downloadCert.viewCert.label "Cjale">
 <!ENTITY downloadCert.viewCert.text "Esamine certificât CA">

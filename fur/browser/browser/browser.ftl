@@ -18,6 +18,7 @@
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Modifiche chest segnelibri ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -71,5 +72,6 @@ urlbar-placeholder =
     .placeholder = Cîr o inserìs direzion
 urlbar-switch-to-tab =
     .value = Passe a la schede:
+
 urlbar-go-button =
     .tooltiptext = Va al indiriç specificât inte sbare dai indiriçs

@@ -8,6 +8,7 @@ password-quality-meter = Nivel di cualitât de password
 
 change-password-window =
     .title = Cambie la password gjenerâl
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositîf di sigurece: { $tokenName }

@@ -4,15 +4,23 @@
 
 set-desktop-background-window =
     .title = Impueste daûr dal scritori
+
 set-desktop-background-accept =
     .label = Impueste daûr dal scritori
+
 open-desktop-prefs =
     .label = Vierç preferencis dal scritori
+
 set-background-color = Colôr:
+
 set-background-position = Posizion:
+
 set-background-tile =
     .label = Mosaic
+
 set-background-center =
     .label = Tal mieç
+
 set-background-stretch =
     .label = Slargje
+

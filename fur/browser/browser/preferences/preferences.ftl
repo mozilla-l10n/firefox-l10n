@@ -8,21 +8,27 @@ pref-page =
             [windows] Opzions
            *[other] Preferencis
         }
+
 pref-page-title =
     { PLATFORM() ->
         [windows] Opzions
        *[other] Preferencis
     }
+
 pane-general-title = Gjenerâl
 category-general =
     .tooltiptext = { pane-general-title }
+
 pane-search-title = Cîr
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 focus-search =
     .key = f
+
 close-button =
     .aria-label = Siere
 
@@ -47,21 +53,28 @@ should-restart-title = Torne a inviâ { -brand-short-name }
 ## General Section
 
 startup-header = Inizi
+
 tabs-group-header = Lengutis
+
 
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Caratars e colôrs
+
 advanced-fonts =
     .label = Avanzât…
     .accesskey = v
+
 colors-settings =
     .label = Colôrs…
     .accesskey = C
+
 choose-language-description = Sielç la tô lenghe preferide par visualizâ pagjinis
+
 choose-button =
     .label = Sielç…
     .accesskey = S
+
 translate-exceptions =
     .label = Ecezions…
     .accesskey = z
@@ -69,9 +82,11 @@ translate-exceptions =
 ## General Section - Files and Applications
 
 download-header = Discjamadis
+
 download-save-to =
     .label = Salve i files in
     .accesskey = S
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -83,40 +98,50 @@ download-choose-folder =
             [macos] S
            *[other] g
         }
+
 applications-type-column =
     .label = Gnenar di contignût
     .accesskey = t
+
 applications-action-column =
     .label = Azion
     .accesskey = A
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = file { $extension }
 applications-action-save =
     .label = Salve file
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app =
     .label = Dopre { $app-name }
+
 # Variables:
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = Dopre { $app-name } (predeterminade)
+
 applications-use-other =
     .label = Dopre alc altri…
 applications-select-helper = Sielç la aplicazion di supuart
+
 applications-manage-app =
     .label = Detais de aplicazion…
 applications-always-ask =
     .label = Domande simpri
 applications-type-pdf = Portable Document Format (PDF)
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-description-with-type = { $type-description } ({ $type })
+
 # Variables:
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
@@ -130,16 +155,22 @@ applications-preview-inapp =
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -158,12 +189,15 @@ performance-allow-hw-accel =
 ## General Section - Browsing
 
 browsing-title = Navigazion
+
 browsing-use-autoscroll =
     .label = Dopre scoriment automatic
     .accesskey = a
+
 browsing-use-smooth-scrolling =
     .label = Dopre scoriment continuât
     .accesskey = c
+
 browsing-use-cursor-navigation =
     .label = Dopre simpri i tascj di moviment inte tastiere par navigâ intes pagjinis
     .accesskey = D
@@ -198,6 +232,7 @@ use-current-pages =
 
 search-choose-keyword-column =
     .label = Peraule clâf
+
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = Peraule clâf duplicade
@@ -246,31 +281,40 @@ sync-tos-link = Tiermins dal servizi
 forms-exceptions =
     .label = Ecezions…
     .accesskey = z
+
 forms-master-pw-use =
     .label = Dopre une password gjenerâl
     .accesskey = u
 forms-master-pw-change =
     .label = Cambie la password gjenerâl…
     .accesskey = m
+
 forms-master-pw-fips-title = Tu sês cumò tal mût FIPS. FIPS al domande une password gjenerâl no vueide.
 forms-master-pw-fips-desc = Cambiament de password falît
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
 history-header = Cronologjie
+
 history-remember-option-all =
     .label = Salve la cronologjie
 history-remember-option-never =
     .label = No stâ mai salvâ la cronologjie
 history-remember-option-custom =
     .label = Dopre impostazions personalizadis pe cronologjie
+
 history-dontremember-description = { -brand-short-name } al doprarà lis stessis impostazions de navigazion privade, e no sarà mantignude nissune cronologjie di navigazion.
+
 history-remember-search-option =
     .label = Memorize la cronologjie des ricercjis e dai modui
     .accesskey = M
+
 history-clear-on-close-option =
     .label = Nete fûr la cronologjie cuant che si siere { -brand-short-name }
     .accesskey = r
+
 history-clear-on-close-settings =
     .label = Parametris…
     .accesskey = t
@@ -305,9 +349,11 @@ addressbar-locbar-openpage-option =
 permissions-block-popups =
     .label = Bloche i barcons pop-up
     .accesskey = B
+
 permissions-block-popups-exceptions =
     .label = Ecezions…
     .accesskey = E
+
 permissions-addon-exceptions =
     .label = Ecezions…
     .accesskey = E
@@ -330,3 +376,4 @@ certs-header = Certificâts
 desktop-folder-name = Scritori
 downloads-folder-name = Discjamadis
 choose-download-folder-title = Sielç une cartele pes discjamadis:
+

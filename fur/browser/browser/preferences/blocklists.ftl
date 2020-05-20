@@ -5,14 +5,18 @@
 blocklist-window =
     .title = Liste dai blocs
     .style = width: 55em
-blocklist-desc = Sielç la liste par blocâ chei elements de Web che a podaressin cjatâ fûr la to ativitât di navigazion.
+
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Liste
+
 blocklist-button-cancel =
     .label = Cancele
     .accesskey = C
+
 blocklist-button-ok =
     .label = Salve i cambiamens
     .accesskey = S
+
