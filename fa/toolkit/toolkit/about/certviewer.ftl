@@ -29,6 +29,7 @@ certificate-viewer-value = مقدار
 certificate-viewer-version = نسخه
 certificate-viewer-validity = اعتبار
 certificate-viewer-miscellaneous = گوناگون
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = بارگیری
@@ -43,4 +44,6 @@ certificate-viewer-boolean =
 
 ## Variables:
 ##   $fileName (String) - The file name to save the PEM data in, derived from the common name from the certificate being displayed.
+
+## Labels for tabs displayed in stand-alone about:certificate page
 

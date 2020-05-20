@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "ت">
 <!ENTITY exitFullScreenCmd.label "خروج از حالت تمام‌صفحه">
 <!ENTITY exitFullScreenCmd.accesskey "ت">
+
 <!ENTITY fullScreenCmd.label "تمام‌صفحه">
 <!ENTITY fullScreenCmd.accesskey "ت">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "حساب خود را تایید کنید">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "کمینه کردن">
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
@@ -149,15 +150,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.unverified.description.label "قبل از همگام‌سازی باید حساب خود را تأیید کنید.">
 <!ENTITY fxa.unverified.button.label "باز کردن تنظیمات &syncBrand.shortName.label;…">
 
-<!ENTITY pictureInPictureHideToggle.label "مخفی کردن تصویر-در-تصویر">
-<!ENTITY pictureInPictureHideToggle.accesskey "H">
-
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
      followed by the user's email. -->
 <!ENTITY fxa.menu.signedInAs.label "وارد شده به عنوان">
 <!ENTITY fxa.menu.manageAccount.label "مدیریت حساب…">
 <!ENTITY fxa.menu.syncSettings.label "تنظیمات &syncBrand.shortName.label;…">
+
+<!ENTITY pictureInPictureHideToggle.label "مخفی کردن تصویر-در-تصویر">
+<!ENTITY pictureInPictureHideToggle.accesskey "H">
 
 <!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
      for the Firefox Account toolbar menu screen. The `Signed in as` text is
@@ -173,7 +174,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.settings.label "تنظیمات">
 <!ENTITY fxa.menu.accountSettings.label "تنظیمات حساب">
 <!ENTITY fxa.menu.signOut.label "خروج…">
-<!ENTITY fxa.menu.deviceSettings.label "تنظیمات دستگاه">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
@@ -242,7 +242,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "توقف">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "رفتن به نشانی موجود در نوار مکان">
+
 <!ENTITY printButton.label            "چاپ">
 <!ENTITY printButton.tooltip          "چاپ کردن این صفحه">
 
@@ -285,7 +287,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "شما دسترسی این وب‌سایت را به افزودنی Adobe Flash مسدود کرده‌اید.">
 <!ENTITY urlbar.midiBlocked.tooltip              "شما دسترسی این وب‌سایت به MIDI را مسدود کرده‌اید.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "نمایش تاریخچه">
+
 
 <!ENTITY searchItem.title             "جست‌وجو">
 
@@ -350,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "ز">
 <!ENTITY manageUserContext.label          "مدیریت کانتینرها">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "پنجره جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "ج">
@@ -483,6 +488,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "بیشتر">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "متنی برای جست‌وجو یا یک آدرس وارد کنید">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -571,6 +577,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "پ">
 
 <!ENTITY openLinkCmdInTab.label       "باز کردن پیوند در زبانه جدید">
+
 <!ENTITY openLinkCmdInTab.accesskey   "ز">
 <!ENTITY openLinkCmd.label            "باز کردن پیوند در پنجرهٔ جدید">
 <!ENTITY openLinkCmd.accesskey        "پ">
@@ -619,11 +626,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ش">
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
+
 <!ENTITY pageAction.copyLink.label    "رونوشت پیوند">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "ذخیره‌سازی در Pocket">
+
 <!ENTITY saveToPocketCmd.label        "ذخیره صفحه در Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "ذخیره پیوند در Pocket">
@@ -832,18 +841,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "اتصال امن">
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
 
-<!ENTITY identity.connectionSecure3 "اتصال امن است">
-<!ENTITY identity.connectionNotSecure2 "اتصال امن نیست">
-<!ENTITY identity.connectionNotSecureSecurityView "شما بطور امن به این سایت متصل نشده‌اید.">
 <!ENTITY identity.connectionFile "این صفحه بر روی رایانه شما ذخیره شده است.">
 <!ENTITY identity.connectionVerified2 "شما بطور امن به این سایت متصل شده‌اید، متعلق به:">
-<!ENTITY identity.connectionVerified3 "شما بطور امن به این سایت متصل شده‌اید.">
 <!ENTITY identity.connectionInternal "این یک صفحهٔ امن &brandShortName; است.">
 <!ENTITY identity.extensionPage "این صفحه توسط یک افزونه بارگیری شده است.">
 <!ENTITY identity.insecureLoginForms2 "اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.">
 <!ENTITY identity.customRoot "گواهیِ این اتصال، توسط صادرکننده‌ای ایجاد شده است که برای موزیلا قابل شناسایی نیست.">
-
-<!ENTITY identity.evOwnerLabel2 "گواهی صادر شده برای:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; قسمت‌هایی از این صفحه را که ایمن نیستند، مسدود کرده است.">
@@ -879,7 +882,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "مجوزها">
 
-<!ENTITY identity.permissions3 "مجوزها">
 <!ENTITY identity.permissionsEmpty "شما به این سایت هیچ دسترسی خاصی نداده‌اید.">
 <!ENTITY identity.permissionsReloadHint "ممکن است لازم باشد که صفحه را برای اعمال تغییرات دوباره بارگیری کنید.">
 <!ENTITY identity.permissionsPreferences.tooltip "باز کردن ترجیحات مجوزها">
@@ -924,11 +926,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a tooltip explaining why these items were not blocked in the page. -->
 <!ENTITY protections.notBlocking.why.label "چرا؟">
 <!ENTITY protections.notBlocking.why.etpOn.tooltip "مسدود کردن این موارد می‌تواند عناصر برخی از وب سایت‌ها را خراب کند. بدون ردیاب‌ها، ممکن است برخی از دکمه‌ها، فرم‌ها و قسمت‌های ورود کار نکنند.">
-<!ENTITY protections.notBlocking.why.etpOff.tooltip "خاموش کردن محافظت، به همه ردیاب‌های این سایت اجازه فعالیت می‌دهد. اینکار همچنین ممکن است برخی از عملکردهای وب سایت را بهبود ببخشد.">
-<!ENTITY protections.socialMediaTrackers.label "ردیاب‌های شبکه‌های اجتماعی">
-<!ENTITY protections.crossSiteTrackingCookies.label "کوکی‌هایِ ردیابِ بین-سایتی">
-<!ENTITY protections.trackingContent.label "محتوای ردیابی">
-<!ENTITY protections.cryptominers.label "استخراج کننده‌های رمزارزها">
 <!ENTITY protections.noTrackersFound.description "هیچ ردیابی که برای &brandShortName; آشنا باشد در این صفحه شناسایی شدند.">
 
 
@@ -983,8 +980,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY contentBlocking.socialblock.label "ردیاب‌های شبکه‌های اجتماعی">
 
-<!ENTITY contentBlocking.cookies2.label "کوکی‌هایِ ردیابِ بین-سایتی">
-
 <!ENTITY contentBlocking.cryptominers.label "استخراج کننده‌های رمزارزها">
 <!ENTITY contentBlocking.cryptominersView.label "استخراج کننده‌های رمزارزها">
 
@@ -1026,6 +1021,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "بستن">
 

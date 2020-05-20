@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = ماژول‌های وقایع مرور امن
 url-classifier-debug-modules = ماژول‌های وقایع فعلی
 url-classifier-debug-sbjs-modules = وقایع JS مرور امن
 url-classifier-debug-file = پرونده وقایع فعلی
+
 url-classifier-trigger-update = اجرای بروزرسانی
 url-classifier-not-available = نامربوط
 url-classifier-disable-sbjs-log = غیرفعال کردن وقایع JS مرور امن

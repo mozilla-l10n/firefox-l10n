@@ -11,3 +11,4 @@ accounts-server-name = اسم
 accounts-conn-security = امنیت اتصال
 accounts-auth-method = روش احراز هویت
 accounts-default = پیش فرض؟
+

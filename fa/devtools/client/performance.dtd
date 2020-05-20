@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "نمایه نمونه های حلقه های بافر را ذخیره سازی می‌کند،‌و به محض اینکه حجم ذخیره سازی بافر تکمیل شود مثال های جدید شروع به جایگیزی از ابتدا ذخیره سازی می‌شوند.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "ذخیره‌سازی در لحظه اطلاعات برای فایرفاکس غیر-چند پردازشی غیر فعال شده است.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->

@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "از شما تقاضا شده به یک مرجع صدور گواهی جدید اعتماد کنید.">
 <!ENTITY downloadCert.trustSSL "برای تشخیص هویت وب‌گاه‌ها به این مرجع صدور گواهی اعتماد شود.">
 <!ENTITY downloadCert.trustEmail "برای تشخیص هویت کاربران پست الکترونیکی به این مرجع صدور گواهی اعتماد شود.">
-<!ENTITY downloadCert.trustObjSign "برای تشخیص هویت برنامه‌سازان به این مرجع صدور گواهی اعتماد شود.">
 <!ENTITY downloadCert.message3 "پیش از آن که برای هر منظوری به این مرجع صدور گواهی اعتماد کنید، باید گواهی و سیاست و رویه‌های آن را (در صورت وجود) بررسی کنید.">
 <!ENTITY downloadCert.viewCert.label "نمایش">
 <!ENTITY downloadCert.viewCert.text "بررسی گواهی مرجع صدور">

@@ -5,50 +5,66 @@
 permissions-window =
     .title = استثناها
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = آدرس وب‌سایت
     .accesskey = d
+
 permissions-block =
     .label = باز داشتن
     .accesskey = ب
+
 permissions-session =
     .label = اجازه دادن برای این نشست
     .accesskey = د
+
 permissions-allow =
     .label = اجازه دادن
     .accesskey = ج
+
 permissions-site-name =
     .label = وب‌سایت
+
 permissions-status =
     .label = وضعیت
+
 permissions-remove =
     .label = حذف وب‌سایت
     .accesskey = R
+
 permissions-remove-all =
     .label = حذف همه وب‌سایت‌ها
     .accesskey = e
+
 permissions-button-cancel =
     .label = انصراف
     .accesskey = ن
+
 permissions-button-ok =
     .label = ذخیره تغییرات
     .accesskey = ذ
+
 permissions-autoplay-menu = پیش‌فرض برای تمام پایگاه‌ها:
+
 permissions-searchbox =
     .placeholder = جست‌وجو وب‌سایت
+
 permissions-capabilities-autoplay-allow =
     .label = اجازه دادن صوت و ویدئو
 permissions-capabilities-autoplay-block =
     .label = مسدود کردن صوت
 permissions-capabilities-autoplay-blockall =
     .label = مسدود کردن صوت و ویدئو
+
 permissions-capabilities-allow =
     .label = اجازه دادن
 permissions-capabilities-block =
     .label = باز داشتن
 permissions-capabilities-prompt =
     .label = همیشه پرسیده شود
+
 permissions-capabilities-listitem-allow =
     .value = اجازه دادن
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = استثناها - مسدودسازی محتوا
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = شما مسدودسازی محتوا را در این وب‌سایت‌ها غیرفعال کرده‌اید.
+
 permissions-exceptions-etp-window =
     .title = استثناها برای سیستم محافظت پیشرفته در برابر ردگیری
     .style = { permissions-window.style }
@@ -133,6 +150,8 @@ permissions-site-location-desc = پایگاه‌های مقابل درخواست
 permissions-site-location-disable-label =
     .label = مسدود کردن درخواست‌های دسترسی به مختصات مکانی
 permissions-site-location-disable-desc = این امکان درخواست اجازه برای دسترسی به مختصات مکانی شما را توسط هر پایگاهی مسدود می‌کند. این کار ممکن است بعضی امکانات پایگاه‌ها را از دسترس شما خارج کند.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

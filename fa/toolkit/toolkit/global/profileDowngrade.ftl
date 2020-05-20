@@ -4,6 +4,7 @@
 
 profiledowngrade-window-create =
     .label = ایجاد نمایه جدید
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

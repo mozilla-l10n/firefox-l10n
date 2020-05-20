@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = قلم‌ها
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = قلم‌ها برای
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = عربی
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = متناسب
     .accesskey = P
+
 fonts-default-serif =
     .label = سِریف
 fonts-default-sans-serif =
     .label = بدون سِریف
+
 fonts-proportional-size = اندازه
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = اندازه
     .accesskey = e
+
 fonts-minsize = حداقل اندازه قلم
     .accesskey = o
+
 fonts-minsize-none =
     .label = هیچ‌کدام
+
 fonts-allow-own =
     .label = به صفحات اجازه داده شود که قلم‌هایشان را انتخاب کنند و مجبور به استفاده از انتخاب‌های بالا نباشند
     .accesskey = ج
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = کدگذاری متن برای محتوای قدیمی
 fonts-languages-fallback-desc = این کدگذاری متن برای محتوای قدیمی‌ای استفاده می‌شود که قادر به معرفی کدگذاری خود نیست.
+
 fonts-languages-fallback-label = رمزنگاری متن کمکی
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = پیش‌فرض برای مکان فعلی
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ویتنامی
 fonts-languages-fallback-name-other =
     .label = موراد دیگر (شامل اروپای شرقی)
-fonts-very-large-warning-title = حداقل اندازه بزرگ قلم
-fonts-very-large-warning-message = شما اندازه خیلی بزرگی برای حداقل اندازه قلم انتخاب کرده‌اید (بیش از ۲۴ پیکسل). این ممکن است باعث شود پیکربندی صفحاتی مانند این سخت یا غیرممکن بشود.
-fonts-very-large-warning-accept = به هر حال تغییرات من را نگه‌دار
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

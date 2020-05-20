@@ -9,12 +9,10 @@ findbar-next =
     .tooltiptext = پیدا کردن رخداد بعدی عبارت
 findbar-previous =
     .tooltiptext = پیدا کردن رخداد قبلی عبارت
+
 findbar-find-button-close =
     .tooltiptext = بستن نوار پیدا کردن
-findbar-highlight-all =
-    .label = پررنگ‌سازی همه
-    .accesskey = ه
-    .tooltiptext = پررنگ‌سازی همهٔ رخدادهای عبارت
+
 findbar-highlight-all2 =
     .label = برجسته سازی همه
     .accesskey =
@@ -23,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = برجسته سازی تمامی رخدادهای این عبارت را
+
 findbar-case-sensitive =
     .label = تطابق بزرگی و کوچکی حروف
     .accesskey = ط
     .tooltiptext = جست‌وجو با تطبیق بزرگی و کوچکی حروف
+
 findbar-entire-word =
     .label = تمام کلمات
     .accesskey = ت

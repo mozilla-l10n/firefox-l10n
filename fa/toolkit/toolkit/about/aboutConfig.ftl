@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = ریسک‌اش را می‌پذیرم!
 config-about-warning-checkbox =
     .label = دفعهٔ بعدی هم این هشدار نمایش داده شود
+
 config-search-prefs =
     .value = جست‌وجو:
     .accesskey = و
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = رونوشت برداشتن
     .accesskey = ن
+
 config-copy-name =
     .label = رونوشت برداشتن از نام
     .accesskey = ن
+
 config-copy-value =
     .label = رونوشت برداشتن از مقدار
     .accesskey = م
+
 config-modify =
     .label = تغییر
     .accesskey = ت
+
 config-toggle =
     .label = تعویض
     .accesskey = ع
+
 config-reset =
     .label = مقدار اولیه
     .accesskey = م
+
 config-new =
     .label = جدید
     .accesskey = ج
+
 config-string =
     .label = رشته
     .accesskey = ر
+
 config-integer =
     .label = عدد صحیح
     .accesskey = ع
+
 config-boolean =
     .label = بولی
     .accesskey = ب
+
 config-default = پیش‌فرض
 config-modified = اصلاح شده
 config-locked = قفل‌شده
+
 config-property-string = رشته
 config-property-int = عدد صحیح
 config-property-bool = بولی
+
 config-new-prompt = نام ترجیح را وارد کنید
+
 config-nan-title = مقدار نامعتبر
 config-nan-text = عبارت وارد شده عدد نیست.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = مقدار جدید { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = مقدار { $type } را وارد کنید

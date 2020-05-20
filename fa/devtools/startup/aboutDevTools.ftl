@@ -8,14 +8,17 @@ enable-inspect-element-title = فعال‌سازی ابزارهای توسعه�
 enable-learn-more-link = درباره ابزارهای توسعه‌دهندگان بیشتر بدانید
 enable-enable-button = فعال‌سازی ابزارهای توسعه‌دهنده
 enable-close-button = بستن این زبانه
+
 welcome-title = به ابزار‌های توسعه‌دهنده‌ فایرفاکس خوش آمدید!
 newsletter-title = خبرنامه توسعه‌دهندگان موزیلا
 newsletter-email-placeholder =
     .placeholder = رایانامه
 newsletter-subscribe-button = آبونه شدن
 newsletter-thanks-title = سپاس!
+
 footer-title = ویرایش توسعه‌دهندگان فایرفاکس
 footer-learn-more-link = بیشتر بدانید
+
 features-learn-more = بیشتر بدانید
 features-inspector-title = بازرس‌
 features-console-title = پایانه

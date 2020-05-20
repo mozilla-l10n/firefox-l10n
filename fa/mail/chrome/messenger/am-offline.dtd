@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
 
 
-<!ENTITY allFoldersOffline.label "Keep messages for this account on this computer">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY offlineNotDownload.label "Messages larger than">
 <!ENTITY offlineNotDownload.accesskey "M">
 
