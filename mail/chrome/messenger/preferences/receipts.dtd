@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "वापसी रसीद">
-<!ENTITY receiptSettings.label         "वापसी रसीद">
 <!ENTITY requestReceipt.label          "संदेश भेजने पर हमेशा वापसी रसीद के लिये आग्रह करें">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "जब एक रसीद आता है:">

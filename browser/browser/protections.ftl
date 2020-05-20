@@ -4,22 +4,34 @@
 
 protection-report-page-title = गोपनीयता सुरक्षाएं
 protection-report-content-title = गोपनीयता सुरक्षाएं
+
 etp-card-title = संवर्धित ट्रैकिंग सुरक्षा
+
 protection-report-manage-protections = सेटिंग प्रबंधित करें
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = आज
+
 social-tab-title = सोशल मीडिया ट्रैकर
+
 cookie-tab-title = क्रॉस-साइट ट्रैकिंग कुकीज़
+
 tracker-tab-title = ट्रैकिंग सामग्री
+
 fingerprinter-tab-title = फिंगरप्रिंटर
+
 cryptominer-tab-title = क्रिप्टोमाइनर
+
 protections-close-button =
     .aria-label = बंद करें
+
 protections-close-button2 =
     .aria-label = बंद करें
     .title = बंद करें
+  
 mobile-app-links = <a data-l10n-name="android-mobile-inline-link">Android</a> और <a data-l10n-name="ios-mobile-inline-link">iOS</a> के लिए { -brand-product-name } ब्राउज़र
+
 lockwise-title = पासवर्ड फिर कभी न भूलें
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = पासवर्ड प्रबंधन
@@ -32,10 +44,14 @@ protection-report-save-passwords-button = पासवर्ड सहेजे�
 lockwise-mobile-app-title = हर जगह अपना पासवर्ड लेकर चलें
 lockwise-no-logins-card-content = किसी भी उपकरण पर { -brand-short-name } में सहेजे गए पासवर्ड का उपयोग करें।
 lockwise-app-links = <a data-l10n-name="lockwise-android-inline-link">Android</a> और <a data-l10n-name="lockwise-ios-inline-link">iOS</a> के लिए { -lockwise-brand-name }
+
 lockwise-how-it-works-link = यह कैसे काम करता है
+
 turn-on-sync = { -sync-brand-short-name } चालू करें…
     .title = सिंक वरीयताओं पर जाएँ
+
 manage-connected-devices = उपकरणों को प्रबंधित करें…
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -43,10 +59,12 @@ lockwise-connected-device-status =
         [one] { $count } उपकरण से जुड़ा
        *[other] { $count } उपकरणों से जुड़ा
     }
+
 monitor-title = डेटा उल्लंघनों की तलाश करें
 monitor-link = यह किस प्रकार काम करता है
 monitor-sign-up = उल्लंघन अलर्ट के लिए साइन अप करें
 auto-scan = आज स्वचालित रूप से स्कैन किया गया
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -55,6 +73,7 @@ info-monitored-emails =
         [one] ईमेल पते पर नजर रखी जा रही है
        *[other] ईमेल पतों पर नजर रखी जा रही है
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -63,6 +82,7 @@ info-known-breaches-found =
         [one] ज्ञात डेटा विच्छेद ने आपकी जानकारी को उजागर कर दिया है
        *[other] ज्ञात डेटा विच्छेदों ने आपकी जानकारी को उजागर कर दिया है
     }
+
 full-report-link = <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a> पर पूरी रिपोर्ट दिखाएं
 
 ## The title attribute is used to display the type of protection.

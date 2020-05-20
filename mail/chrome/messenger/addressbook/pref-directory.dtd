@@ -2,17 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
-<!ENTITY window.title              "LDAP निर्देशिका सर्वर">
-<!ENTITY pane.title                "निर्देशिका">
-<!ENTITY directory.label           "निर्देशिका जोड़ें">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label         "LDAP निर्देशिका सर्वर:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label     "LDAP निर्देशिका सर्वर चुनें:">
 <!ENTITY directoriesText.accesskey "S">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title        "LDAP निर्देशिका सर्वर">
 <!ENTITY addDirectory.label        "जोड़ें">
 <!ENTITY addDirectory.accesskey    "a">
 <!ENTITY editDirectory.label       "संपादन करें">

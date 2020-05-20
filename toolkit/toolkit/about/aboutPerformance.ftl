@@ -45,3 +45,4 @@ close-tab =
     .title = टैब को बंद करें
 show-addon =
     .title = ऐड-ऑन प्रबंधक में दिखाएँ
+

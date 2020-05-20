@@ -5,6 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox सिंक">
+
 <!ENTITY syncBrand.shortName.label "सिंक">
 
 <!-- Main titles. -->

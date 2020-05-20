@@ -4,7 +4,6 @@
 
 <!ENTITY Window.title        "विषयवस्तु तालिका">
 <!ENTITY buildToc.label      "इससे विषयवस्तु तालिका बनायें:">
-<!ENTITY style.label         "शैली:">
 <!ENTITY tag.label           "टैग:">
 <!ENTITY class.label         "वर्ग:">
 <!ENTITY header1.label       "स्तर 1">

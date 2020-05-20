@@ -20,6 +20,7 @@ open-location = खोजें या पता दर्ज करें
 share = साझा करें
 close-window = विंडो बंद करें
 open-sidebar = बाज़ूपट्टी
+
 # This string describes shortcuts for search.
 search-popover = शॉर्टकट खोजें
 # Describes searches limited to a specific scope

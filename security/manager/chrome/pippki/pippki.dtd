@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "आपको एक नया सर्टिफिकेट ऑथोरिटी (CA) पर विश्वास के लिये पूछा जायेगा.">
 <!ENTITY downloadCert.trustSSL "इस CA को भरोसा करें वेबसाइट को पहचानने के लिये.">
 <!ENTITY downloadCert.trustEmail "इस CA को भरोसा करें ईमेल उपयोक्ता को पहचानने के लिये.">
-<!ENTITY downloadCert.trustObjSign "इस CA को भरोसा करें सॉफ्टवेयर डेवलपर को पहचानने के लिये.">
 <!ENTITY downloadCert.message3 "इस CA पर किसी उद्देश्य के लिये भरोसा करने से पहले, आपको इसका प्रमाणपत्र और इसका नीति और प्रक्रिया परीक्षा करनी चाहिये (अगर उपलब्ध है).">
 <!ENTITY downloadCert.viewCert.label "देखें">
 <!ENTITY downloadCert.viewCert.text "CA प्रमाणपत्र जांचें">

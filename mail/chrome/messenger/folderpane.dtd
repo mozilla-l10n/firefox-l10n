@@ -5,6 +5,3 @@
 <!ENTITY unreadColumn.label "अपठित"> 
 <!ENTITY totalColumn.label "कुल"> 
 <!ENTITY folderSizeColumn.label "आकार"> 
-<!ENTITY accounts.label "खाता">
-<!-- LOCALIZATION NOTE (accounts.img) : DONT_TRANSLATE -->
-<!ENTITY accounts.img "chrome://messenger/skin/local-mailhost.gif">
