@@ -4,6 +4,10 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Преземање и синхронизирање на пораки">
 <!ENTITY MsgSelect.label "Елементи за локална употреба">
 <!ENTITY MsgSyncDesc.label "Ако веќе сте избрале папки со пошта или дискусиони групи за локална употреба, можете да ги преземете/синхронизирате сега. Во друг случај можете да го корисите копчето &quot;Избери&quot; за да изберете папки и дискусиони групи за локална употреба.">

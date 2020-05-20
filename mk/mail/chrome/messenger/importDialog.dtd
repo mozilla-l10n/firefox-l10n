@@ -10,18 +10,21 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Увезување">
-<!ENTITY importDialog.mailTitle "Пошта">
-<!ENTITY importDialog.addressbookTitle "Адресари">
-<!ENTITY importDialog.settingsTitle "Поставки">
 
 <!ENTITY window.width "40em">
 <!ENTITY window.macWidth "45em">
 
 <!ENTITY importTitle.label "Волжебник за увоз на пошта на &brandShortName;">
-<!ENTITY importDesc.label "Увези пошта, адресари и поставки од други програми">
 
-<!ENTITY importDescription.label "Овој волшебник во &brandShortName; ќе увезе пошта, адресари и/или преференции од други програми за е-пошта и вообичаени формати на адресари.">
 <!ENTITY importDescription2.label "Откога ќе бидат увезени, до нив ќе можете да  пристапите преку поштата и/или адресарот на &brandShortName;.">
 
 <!ENTITY selectDescription.label "Изберете ја програмата од која сакате да увезете:">
@@ -36,8 +39,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Наслов">
 <!ENTITY processing.label "Увезувам…">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x има една поштенска адреса за секоја карта, додека &brandShortName; има две (дома и работа).">
-<!ENTITY FieldDiscInputText2.label "Одберете категорија во која сакате да ги чувате увезените поштенски адреси:">
-<!ENTITY FieldDiscWarning.label "Оваа категорија ќе се користи за сите записи во избраниот адресар: ">
-<!ENTITY importDialog.homeTitle "Дома">
-<!ENTITY importDialog.workTitle "Работа">

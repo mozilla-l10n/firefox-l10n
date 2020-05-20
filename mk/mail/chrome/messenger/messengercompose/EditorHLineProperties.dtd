@@ -13,11 +13,8 @@
 <!ENTITY widthEditField.accessKey "р">
 <!ENTITY pixelsPopup.value "пиксели">
 <!ENTITY alignmentBox.label "Поставеност">
-<!ENTITY leftRadio.value "Лево">
 <!ENTITY leftRadio.accessKey "Л">
-<!ENTITY centerRadio.value "Централно">
 <!ENTITY centerRadio.accessKey "Ц">
-<!ENTITY rightRadio.value "Десно">
 <!ENTITY rightRadio.accessKey "Д">
 
 <!ENTITY threeDShading.label "3-Д засенување">

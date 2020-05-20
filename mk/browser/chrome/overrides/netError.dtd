@@ -11,20 +11,24 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Врската не може да се воспостави">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Оваа адреса е забранета">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!-- Localization note (dnsNotFound.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY fileNotFound.title "Датотеката не е пронајдена">
+
 <!ENTITY fileNotFound.longDesc "<ul> 
 <li>Проверете дали во името има големи букви или други печатни грешки.</li> 
 <li>Проверете дали датотеката е преместена, преименувана или избришана.</li></ul>">
 
 
 <!ENTITY generic.title "Упс.">
+
 <!ENTITY generic.longDesc "<p>Поради некоја причина &brandShortName; не може да ја вчита оваа страница.</p>">
 
 
@@ -32,37 +36,45 @@
 <!-- Localization note (malformedURI.title1) - "Hmm" is a sound made when considering or puzzling over something. You don't have to include it in your translation if your language does not have a written word like this. -->
 
 <!ENTITY netInterrupt.title "Врската беше прекината">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Документот е застарен">
+
 <!ENTITY notCached.longDesc "<p>Бараниот документ не е достапен во кешот на &brandShortName;. 
 </p><ul><li>Заради безбедност &brandShortName; автоматски не 
 побарува осетливи документи.</li><li>Кликнете на „Обиди се повторно“ за повторно да го побарате документот од мрежното место.</li></ul>">
 
 <!ENTITY netOffline.title "Локален режим">
+
 <!ENTITY netOffline.longDesc2 "<ul> 
 <li>Притиснете на „Обиди се повторно“ за да преминете во мрежен режим и 
 да ја превчитате страницата.</li> 
 </ul>">
 
 <!ENTITY contentEncodingError.title "Грешка во кодната страница на содржината">
+
 <!ENTITY contentEncodingError.longDesc "<ul> 
 <li>Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Небезбеден тип на датотека">
+
 <!ENTITY unsafeContentType.longDesc "<ul> 
 <li>Контактирајте со сопствениците на страницата за да ги информирате за овој проблем.</li> 
 </ul>">
 
 <!ENTITY netReset.title "Врската беше ресетирана">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Времето за врската истече">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 
 <!ENTITY proxyConnectFailure.title "Серверот посредник одбива врски">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Проверете дали поставките за посредник се точни.</li>
@@ -72,6 +84,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Серверот посредник не може да се пронајде">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Проверете дали поставките за посредник се точни.</li>
@@ -82,11 +95,13 @@
 ">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочува точно">
+
 <!ENTITY redirectLoop.longDesc "<ul> 
 <li>Овој проблем некогаш може да биде предизвикан од оневозможување или 
 одбивање на колачиња.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Неочекуван одговор од серверот">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Проверете дали на вашиот систем е инсталиран
@@ -115,10 +130,8 @@ was trying to connect. -->
 
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Додај исклучок..">
-
-
 <!ENTITY remoteXUL.title "Мрежен XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Контактирајте со сопствениците на страницата за да 
 ги информирате за овој проблем.</li></ul></p>">
 

@@ -4,130 +4,158 @@
 
 certmgr-title =
     .title = Менаџер на сертификати
+
 certmgr-tab-mine =
     .label = Ваши сертификати
+
 certmgr-tab-people =
     .label = Луѓе
+
 certmgr-tab-servers =
     .label = Сервери
+
 certmgr-tab-ca =
     .label = Авторитети
+
 certmgr-detail-general-tab-title =
     .label = Општо
     .accesskey = О
+
 certmgr-detail-pretty-print-tab-title =
     .label = Детали
     .accesskey = Д
+
 certmgr-pending-label =
     .value = Сертификатот се проверува…
-certmgr-subject-info-label =
-    .value = Издаден за
-certmgr-issuer-info-label =
-    .value = Издаден од
-certmgr-fingerprints-label =
-    .value = Отпечатоци
+
 certmgr-subject-label = Издаден за
+
 certmgr-issuer-label = Издаден од
+
 certmgr-fingerprints = Отпечатоци
+
 certmgr-cert-detail =
     .title = Детали за сертификатите
     .buttonlabelaccept = Затвори
     .buttonaccesskeyaccept = З
-certmgr-cert-detail-cn =
-    .value = Вообичаено име (ВИ)
-certmgr-cert-detail-o =
-    .value = Организација (О)
-certmgr-cert-detail-ou =
-    .value = Организациона единица (ОЕ)
-certmgr-cert-detail-serialnumber =
-    .value = Сериски број
-certmgr-cert-detail-sha1-fingerprint =
-    .value = SHA1 отпечаток
+
 certmgr-cert-detail-commonname = Вообичаено име (ВИ)
+
 certmgr-cert-detail-org = Организација (О)
+
 certmgr-cert-detail-orgunit = Организациона единица (ОЕ)
+
 certmgr-cert-detail-serial-number = Сериски број
+
 certmgr-cert-detail-sha-1-fingerprint = SHA1 отпечаток
+
 certmgr-edit-ca-cert =
     .title = Менување на поставките за доверба на CA сетификатот
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Промени ги поставките за доверба:
+
 certmgr-edit-cert-trust-ssl =
     .label = Овој сертификат може да идентификува мрежни места.
+
 certmgr-edit-cert-trust-email =
     .label = Овој сертификат може да идентификува поштенски корисници.
+
 certmgr-delete-cert =
     .title = Бришење на сертификат
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Име на сертификатот
+
 certmgr-cert-server =
     .label = Сервер
+
 certmgr-override-lifetime =
     .label = Животен век
+
 certmgr-token-name =
     .label = Безбедносен уред
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Истекува на
+
 certmgr-expires-label =
     .label = Истекува на
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Адреса за е-пошта
+
 certmgr-serial =
     .label = Сериски број
+
 certmgr-view =
     .label = Прикажи
     .accesskey = П
+
 certmgr-edit =
     .label = Уреди го сефот…
     .accesskey = е
+
 certmgr-export =
     .label = Извези
     .accesskey = з
+
 certmgr-delete =
     .label = Избриши
     .accesskey = И
+
 certmgr-delete-builtin =
     .label = Избриши или отстрани доверба
     .accesskey = д
+
 certmgr-backup =
     .label = Резерва…
     .accesskey = Р
+
 certmgr-backup-all =
     .label = Резерва од сè…
     .accesskey = Р
+
 certmgr-restore =
     .label = Увези
     .accesskey = в
+
 certmgr-details =
     .value = Полиња на сертификатот
     .accesskey = л
+
 certmgr-fields =
     .value = Вредност на полето
     .accesskey = В
+
 certmgr-add-exception =
     .label = Додај исклучок…
     .accesskey = к
+
 exception-mgr =
     .title = Додавање на безбедносен исклучок
+
 exception-mgr-extra-button =
     .label = Потврди го безб. исклучок
     .accesskey = П
+
 exception-mgr-supplemental-warning = Легитимни банки, продавници и други јавни места нема да го бараат ова од Вас.
+
 exception-mgr-cert-location-url =
     .value = Локација:
+
 exception-mgr-cert-location-download =
     .label = Земи сертификат:
     .accesskey = З
+
 exception-mgr-cert-status-view-cert =
     .label = Прикажи…
     .accesskey = П
+
 exception-mgr-permanent =
     .label = Зачувај го овој исклучок
     .accesskey = З
+
 pk11-bad-password = Внесената лозинка не е точна.
 pkcs12-decode-err = Неуспешно декодирање на датотеката. Или не е во PKCS #12 фромат, или е корпумпирана, или лозниката која ја внесовте е неточна.
 pkcs12-unknown-err-restore = Реставрирањето на PKCS #12 датотеката не успеа од непознати причини.
@@ -160,14 +188,19 @@ delete-user-cert-title =
     .title = Бришење на моите сертификати
 delete-user-cert-confirm = Сигирно сакате да ги избришете овие сертификати?
 delete-user-cert-impact = Ако избришете некој од вашите сертификати, истите повеќе нема да можете да ги користите за да се идентификувате себе си.
+
+
 delete-ssl-cert-title =
     .title = Бришење на исклучоците за серверските сертификати
 delete-ssl-cert-confirm = Сигурно сакате да ги избришете овие исклучоци за сервери?
 delete-ssl-cert-impact = Со бришење на исклучок за сервер, ги враќате вообичаените безбедносни проверки за тој сервер и барате тој да користи важечки сертификат.
+
 delete-ca-cert-title =
     .title = Избриши или отстрани доверба на CA сертификати
 delete-ca-cert-confirm = Побаравте да ги избришете овие CA сертификати. За вградените сертификати сете доверба ќе биде остранета, што го има истиот ефект. Дали сте сигурни дека сакате да бришете или отстраните доверба?
 delete-ca-cert-impact = Доколку избришете или отстраните доверба на сертификат на авторитет (CA), оваа апликација веќе нема да верува на ниедни сертификати издадени од тој авторитет.
+
+
 delete-email-cert-title =
     .title = Бришење на сертификатите за е-пошта
 delete-email-cert-confirm = Сигурно сакате да ги избришете поштенските сертификати на овие луѓе?
@@ -177,19 +210,26 @@ delete-email-cert-impact = Ако избришете нечив сертифик
 
 not-present =
     .value = <Не е дел од сертификатот>
+
 # Cert verification
 cert-verified = Сертификатот може да се користи за следново:
+
 # Add usage
 verify-ssl-client =
     .value = SSL клиент сертификат
+
 verify-ssl-server =
     .value = SSL серверски сертификат
+
 verify-ssl-ca =
     .value = Авторитет за SSL сертификатот
+
 verify-email-signer =
     .value = Сертификатот на потпишувачот на пошта
+
 verify-email-recip =
     .value = Сертификатот на примачот на пошта
+
 # Cert verification
 cert-not-verified-cert-revoked = Овој сертификат не може да се провери бидејќи е отповикан.
 cert-not-verified-cert-expired = Овој сертификат не може да се провери бидејќи е застарен.

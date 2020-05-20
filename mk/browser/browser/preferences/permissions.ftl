@@ -5,43 +5,53 @@
 permissions-window =
     .title = Исклучоци
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Блокирај
     .accesskey = Б
+
 permissions-session =
     .label = Дозволи привремено
     .accesskey = п
+
 permissions-allow =
     .label = Дозволи
     .accesskey = о
+
 permissions-site-name =
     .label = Мрежно место
+
 permissions-status =
     .label = Статус
+
 permissions-remove =
     .label = Отстрани мрежно место
     .accesskey = О
+
 permissions-remove-all =
     .label = Отстрани ги сите мрежни места
     .accesskey = с
+
 permissions-button-cancel =
     .label = Откажи
     .accesskey = О
+
 permissions-button-ok =
     .label = Зачувај промени
     .accesskey = З
+
 permissions-capabilities-allow =
     .label = Дозволи
 permissions-capabilities-block =
     .label = Блокирај
+
 permissions-capabilities-listitem-allow =
     .value = Дозволи
 permissions-capabilities-listitem-block =
     .value = Блокирај
-permissions-capabilities-listitem-allow-first-party =
-    .value = Дозволи само од првата страна
 permissions-capabilities-listitem-allow-session =
     .value = Дозволи привремено
 
@@ -70,11 +80,15 @@ permissions-exceptions-addons-desc = Можете да одредите од к�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

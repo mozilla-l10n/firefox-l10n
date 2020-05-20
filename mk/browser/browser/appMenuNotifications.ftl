@@ -25,3 +25,4 @@ appmenu-update-restart =
     .secondarybuttonlabel = Не сега
     .secondarybuttonaccesskey = Н
 appmenu-update-restart-message = По краткотрајното рестартирање, { -brand-shorter-name } ќе ги врати сите ваши отворени јазичиња и прозорци што не се дел од Приватно прелистување.
+    

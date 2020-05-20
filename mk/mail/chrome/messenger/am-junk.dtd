@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY junkSettings.label "Поставки за отпад">
-<!ENTITY trainingWarning.label "Ако е овозможено, тренирајте го &brandShortName; да идентификува отпадна пошта. Со помош на копчето за отпадна пошта означувајте кои пораки се отпад, а кои не.">
 <!ENTITY level.label "Прилагодливи контроли за отпадна пошта за оваа сметка">
 <!ENTITY level.accesskey "о">
 
@@ -14,8 +13,6 @@
 <!ENTITY purge1.accesskey "в">
 <!ENTITY purge2.label "денови">
 
-<!ENTITY whitelist.label "Поштата не е отпад ако испаќачот е во: ">
-<!ENTITY whitelist.accesskey "д">
-
 <!ENTITY ispHeaders.label "Верувај во заглавјата за отпад од:">
 <!ENTITY ispHeaders.accesskey "р">
+

@@ -8,9 +8,13 @@
 ### given Firefox channel". These terms are not synonymous.
 
 title = Важни Вести
+
 changed-title = Што се промени?
+
 options-title = Кои се моите опции?
+
 resources = Ресурси:
+
 sync-label = Внесете ја вашата е-пошта
 sync-input =
     .placeholder = Е-пошта

@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title "Повратна пошта">
-<!ENTITY receiptSettings.label "Повратна пошта">
 <!ENTITY requestReceipt.label "Барај повратна пошта при праќање на секоја порака">
 <!ENTITY requestReceipt.accesskey "р">
 <!ENTITY receiptArrive.label "Кога ќе пристигне повратна пошта:">

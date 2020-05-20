@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label "Означи ги пораките како прочитани по датум">
 <!ENTITY markByDateLower.label "Означи ги пораките како прочитани од:">
 <!ENTITY markByDateLower.accesskey "з">
-<!ENTITY markByDateUpper.accesskey "Д">
 <!ENTITY markByDateUpper.label "До:">
+<!ENTITY markByDateUpper.accesskey "Д">

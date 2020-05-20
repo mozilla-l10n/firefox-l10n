@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Видете ги информациите за веб-сајтот
 
@@ -69,6 +70,7 @@ search-one-offs-change-settings-button =
     .label = Промени поставки за пребарување
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени поставки за пребарување
+
 search-one-offs-context-open-new-tab =
     .label = Пребарај во ново јазиче
     .accesskey = П
@@ -146,9 +148,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Прелистувачот е контролиран далечински
 urlbar-switch-to-tab =
     .value = Оди до јазиче:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Проширување:
+
 urlbar-go-button =
     .tooltiptext = Ја отвора адресата во локациската лента
 urlbar-page-action-button =

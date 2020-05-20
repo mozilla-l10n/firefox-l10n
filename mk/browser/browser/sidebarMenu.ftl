@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Обележувачи
+
 sidebar-menu-history =
     .label = Историја
+
 sidebar-menu-synced-tabs =
     .label = Синхронизирани јазичиња
+
 sidebar-menu-close =
     .label = Затвори странична лента

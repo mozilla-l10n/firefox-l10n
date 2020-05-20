@@ -36,7 +36,6 @@
 <!ENTITY tableCaptionNone.label "Ништо">
 <!ENTITY tableInheritColor.label "(Дозволи да се покажува бојата на страницата)">
 
-<!ENTITY cellPercent.label "проценти од табела">
 <!ENTITY cellSelection.label "Избор">
 <!ENTITY cellSelectCell.label "Ќелија">
 <!ENTITY cellSelectRow.label "Редица">
@@ -45,13 +44,6 @@
 <!ENTITY cellSelectNext.accessKey "Н">
 <!ENTITY cellSelectPrevious.label "Претходна">
 <!ENTITY cellSelectPrevious.accessKey "р">
-<!ENTITY cellApplyBeforeMove.label "Примени ги промените пред да го промениш изборот">
-<!ENTITY cellKeepCurrentData.label "Чувај ги актуелните поставки">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Актуелните промени ќе бидат применети">
-<!ENTITY applyBeforeChange2.label "пред да се промени изборот.">
-<!ENTITY cellRowSpan.label "Row Span:">
-<!ENTITY cellColSpan.label "Column Span:">
 <!ENTITY cellContentAlignment.label "Порамнување на содржина">
 <!ENTITY cellHorizontal.label "Хоризонтално:">
 <!ENTITY cellHorizontal.accessKey "з">
@@ -69,7 +61,6 @@
 <!ENTITY cellAlignMiddle.label "Средина">
 <!ENTITY cellAlignBottom.label "Дно">
 <!ENTITY cellAlignJustify.label "Порамни од двете страни">
-<!ENTITY cellAlignAtChar.label "Кај знакот:">
 <!ENTITY cellInheritColor.label "(Дозволи да се покажува бојата на табелата)">
 <!ENTITY cellUseCheckboxHelp.label "Користете ги куќичките за да одредите кој својства се применуваат на сите избрани ќелии">
 <!-- Used in both Table and Cell panels  -->

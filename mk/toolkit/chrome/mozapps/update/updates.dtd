@@ -47,7 +47,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не може да утврди дали има достапна надградба.Проверете 
 дали ја имате најновата верзија на &brandShortName; од:">
-
+                                           
 <!ENTITY  finishedPage.title              "Надградбата е спремна за инсталирање">
 <!ENTITY  finishedPage.text               "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
 
@@ -60,6 +60,3 @@
                                            &brandShortName; сега, да продолжите да работите и да го рестартирате подоцна или
                                            да ја одбиете оваа надградба.">
 
-<!ENTITY  update.details.label            "Детали">
-<!ENTITY  update.installedOn.label        "Инсталирана на:">
-<!ENTITY  update.status.label             "Статус:">

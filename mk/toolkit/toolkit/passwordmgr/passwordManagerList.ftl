@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Затвори
     .accesskey = З
+
 show-passwords =
     .label = Покажи ги лозинките
     .accesskey = л

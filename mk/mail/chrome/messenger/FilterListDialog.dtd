@@ -26,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "С">
 <!ENTITY folderPickerPrefix.label "Изврши ги избраните филтри на:">
 <!ENTITY folderPickerPrefix.accesskey "з">
-<!ENTITY choosethis.label "избери ја оваа папка">
-<!ENTITY choosethisnewsserver.label "избери го овој дискусионен сервер">
 <!ENTITY helpButton.label "Помош">
 <!ENTITY helpButton.accesskey "м">
 <!ENTITY closeCmd.key "W">

@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Ја наоѓа следната појава на оваа фраза
 findbar-previous =
     .tooltiptext = Ја наоѓа претходната појава на оваа фраза
+
 findbar-find-button-close =
     .tooltiptext = Ја затвора лентата за пребарување
+

@@ -13,9 +13,11 @@ config-about-warning-title =
 config-about-warning-text = Менувањето на основните вредности на овие напредни поставки можат да бидат штетни за стабилноста, безбедноста и перформансите на оваа програма. Продолжете само ако знаете што правите.
 config-about-warning-checkbox =
     .label = Прикажи го ова предупредување и следниот пат
+
 config-search-prefs =
     .value = Барај:
     .accesskey = р
+
 config-focus-search =
     .key = r
 
@@ -43,44 +45,59 @@ config-copy-pref =
     .key = C
     .label = Копирај
     .accesskey = К
+
 config-copy-name =
     .label = Копирај го името
     .accesskey = о
+
 config-copy-value =
     .label = Копирај ја вредноста
     .accesskey = в
+
 config-modify =
     .label = Промени
     .accesskey = м
+
 config-toggle =
     .label = Да/Не
     .accesskey = Д
+
 config-reset =
     .label = Ресетирај
     .accesskey = Р
+
 config-new =
     .label = Нов
     .accesskey = Н
+
 config-string =
     .label = Текст
     .accesskey = с
+
 config-integer =
     .label = Цел број
     .accesskey = р
+
 config-boolean =
     .label = да/не
     .accesskey = в
+
 config-default = основен
 config-locked = заклучен
+
 config-property-string = текст
 config-property-int = цел број
 config-property-bool = да/не
+
 config-new-prompt = Внесете го името на параметарот
+
 config-nan-title = Невалидна вредност
 config-nan-text = Текстот кој го внесовте не е број.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Нова вредност за { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Внесете вредност за { $type }

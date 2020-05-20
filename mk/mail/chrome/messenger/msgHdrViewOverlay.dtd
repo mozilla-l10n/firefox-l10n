@@ -2,33 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField.label "До: ">
-<!ENTITY fromField.label "Од: ">
-<!ENTITY senderField.label "Испраќач: ">
-<!ENTITY organizationField.label "Организација: ">
-<!ENTITY replyToField.label "Одговори на: ">
-
-<!ENTITY subjectField.label "Тема: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "Cc: ">
-<!ENTITY bccField.label "Слепа копија ">
-<!ENTITY newsgroupsField.label "Дискусиони групи: ">
-<!ENTITY followupToField.label "Праќај до: ">
-<!ENTITY tagsHdr.label "Етикети: ">
-<!ENTITY dateField.label "Датум: ">
-<!ENTITY userAgentField.label "Кориснички агент: ">
-<!ENTITY originalWebsite.label "Мрежнo место: ">
-<!ENTITY saveAll.label "Сними сè…">
-
-<!ENTITY editMessage.label "Измени ја скицата…">
-<!ENTITY attachmentsTree.label "Прилози:">
-
 <!ENTITY openAttachmentCmd.label "Отвори">
 <!ENTITY openAttachmentCmd.accesskey "О">
 <!ENTITY saveAsAttachmentCmd.label "Сними како…">
 <!ENTITY saveAsAttachmentCmd.accesskey "а">
-<!ENTITY printAttachmentCmd.label ".Печати">
-<!ENTITY printAttachmentCmd.accesskey "П">
 <!ENTITY detachAttachmentCmd.label "Откачи …">
 <!ENTITY deleteAttachmentCmd.label "Избриши">
 <!ENTITY saveAllAttachmentsCmd.label "Сними сè…">

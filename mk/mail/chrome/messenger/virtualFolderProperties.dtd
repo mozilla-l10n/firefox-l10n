@@ -7,9 +7,6 @@
 <!ENTITY name.accesskey "И">
 <!ENTITY description.label "Креирај потпапка на:">
 <!ENTITY description.accesskey "К">
-<!ENTITY searchCriteriaText.label "Измени го критериумот за пребарување користен за ова снимено пребарување:">
-<!ENTITY searchCriteriaButton.label "Критериум за пребарување…">
-<!ENTITY searchCriteriaButton.accesskey "р">
 
 <!ENTITY searchTermCaption.label "Конфигурирај го критериумот за пребарување користен за оваа снимена папка со пребарување: ">
 

@@ -20,6 +20,8 @@ onboarding-cards-dismiss =
     .title = Откажи
     .aria-label = Откажи
 
+## Welcome full page string
+
 ## Firefox Sync modal dialog strings.
 
 
