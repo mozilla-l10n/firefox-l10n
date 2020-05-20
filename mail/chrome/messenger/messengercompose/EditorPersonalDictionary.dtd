@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "T">
 <!ENTITY DictionaryList.label "Kata-kata dalam kamus:">
 <!ENTITY DictionaryList.accessKey "K">
-<!ENTITY ReplaceButton.label "Ganti">
-<!ENTITY ReplaceButton.accessKey "G">
 <!ENTITY RemoveButton.label "Hapus">
 <!ENTITY RemoveButton.accessKey "H">
 

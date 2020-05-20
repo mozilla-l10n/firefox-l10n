@@ -13,6 +13,7 @@ enable-common-message = Alat Pengembang Firefox dinonaktifkan secara baku untuk 
 enable-learn-more-link = Pelajari lebih lanjut tentang Alat Pengembang
 enable-enable-button = Aktifkan Alat Pengembang
 enable-close-button = Tutup Tab Ini
+
 welcome-title = Selamat Datang di Alat Pengembang Firefox!
 newsletter-title = Nawala Pengembang Mozilla
 newsletter-message = Dapatkan berita, trik, dan sumber daya untuk pengembang yang dikirim langsung ke kotak masuk Anda.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Saya setuju Mozilla menangani informasi saya seperti 
 newsletter-subscribe-button = Berlangganan
 newsletter-thanks-title = Trims!
 newsletter-thanks-message = Jika sebelumnya Anda belum pernah mengonfirmasi langganan nawala terkait Mozilla, Anda mungkin harus melakukannya. Silakan cek surel dari kami di kotak masuk atau filter spam Anda.
+
 footer-title = Firefox Developer Edition
 footer-message = Mencari lebih dari sekadar Alat Pengembang? Cobalah peramban Firefox yang dibuat secara khusus untuk pengembang dan alur kerja modern.
 footer-learn-more-link = Pelajari lebih lanjut
+
 features-learn-more = Pelajari lebih lanjut
 features-inspector-title = Inspektur
 features-inspector-desc = Inspeksi dan perbaiki kode untuk membangun tata letak pixel-perfect. <a data-l10n-name="learn-more">{ features-learn-more }</a>

@@ -136,11 +136,6 @@
 <!ENTITY options.timestampMessages.label      "Aktifkan tanda waktu">
 <!ENTITY options.timestampMessages.tooltip    "Jika opsi ini diaktifkan, perintah dan keluaran pada Konsol Web akan ditampilkan beserta tanda waktunya">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Kelompokkan pesan serupa">
-<!ENTITY options.warningGroups.tooltip    "Saat diaktifkan, pesan serupa akan ditempatkan dalam grup">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Debugger">

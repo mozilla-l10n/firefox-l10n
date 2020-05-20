@@ -41,11 +41,8 @@
 <!ENTITY HomeCountry.label              "Negara">
 <!ENTITY HomeCountry.accesskey          "n">
 <!ENTITY HomeWebPage.label              "Laman Web:">
-<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Tahun">
-<!ENTITY Or.value                       "atau">
 <!ENTITY Age.placeholder                "Usia">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY JobTitle.label                 "Judul:">
 <!ENTITY Department.label               "Departemen:">

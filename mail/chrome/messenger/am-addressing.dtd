@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Susun &amp; Alamat">
 <!ENTITY addressingGroupTitle.label "Alamat">
@@ -16,8 +19,11 @@
 <!ENTITY directories.label         "Gunakan server LDAP lainnya:">
 <!ENTITY directories.accesskey     "a">
 <!ENTITY directoriesNone.label     "Tidak ada">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Susun">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +31,6 @@
 <!ENTITY useHtml.accesskey                    "s">
 <!ENTITY autoQuote.label                      "Otomatis menyertakan kutipan dari pesan asli ketika membuat balasan">
 <!ENTITY autoQuote.accesskey                  "O">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Kemudian">
-<!ENTITY then.accesskey                       "K">
 <!ENTITY aboveQuote.label                     "letakkan balasan saya di atas kutipan">
 <!ENTITY belowQuote.label                     "letakkan balasan saya setelah kutipan">
 <!ENTITY selectAndQuote.label                 "pilih kutipan">

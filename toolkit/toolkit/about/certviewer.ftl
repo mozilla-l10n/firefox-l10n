@@ -76,6 +76,7 @@ certificate-viewer-authority-info-aia = Info Otoritas (AIA)
 certificate-viewer-certificate-policies = Kebijakan Sertifikat
 certificate-viewer-embedded-scts = SCT Tersemat
 certificate-viewer-crl-endpoints = Titik Akhir CRL
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Unduh

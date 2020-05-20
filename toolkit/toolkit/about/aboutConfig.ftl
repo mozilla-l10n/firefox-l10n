@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Saya terima risikonya!
 config-about-warning-checkbox =
     .label = Tampilkan peringatan ini lagi nanti
+
 config-search-prefs =
     .value = Cari:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Salin
     .accesskey = S
+
 config-copy-name =
     .label = Salin Nama
     .accesskey = S
+
 config-copy-value =
     .label = Salin Nilai
     .accesskey = N
+
 config-modify =
     .label = Ubah
     .accesskey = U
+
 config-toggle =
     .label = Nyala/Mati
     .accesskey = M
+
 config-reset =
     .label = Kembalikan
     .accesskey = K
+
 config-new =
     .label = Baru
     .accesskey = B
+
 config-string =
     .label = Teks
     .accesskey = k
+
 config-integer =
     .label = Bilangan Bulat
     .accesskey = B
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = bawaan
 config-modified = diubah
 config-locked = terkunci
+
 config-property-string = teks
 config-property-int = bilangan bulat
 config-property-bool = boolean
+
 config-new-prompt = Masukkan nama pengaturan
+
 config-nan-title = Nilai tidak valid
 config-nan-text = Teks yang baru Anda masukkan bukanlah bilangan.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nilai baru { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Masukkan nilai { $type }

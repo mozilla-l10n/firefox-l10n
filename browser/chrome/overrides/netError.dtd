@@ -145,11 +145,9 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dengan cara ini karena laman mengandung kebijakan keamanan konten yang tidak mengizinkan hal ini.</p>">
 
-<!ENTITY xfoBlocked.title "Diblokir oleh Kebijakan X-Frame-Options">
+<!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; mencegah pemuatan laman dalam konteks ini karena laman mengandung kebijakan X-Frame-Options yang tidak mengizinkan hal ini.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "Galat Konten Rusak">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Laman yang akan dibuka tidak dapat ditampilkan karena ada terdeteksi galat pada pengiriman data.</p><ul><li>Mohon hubungi pemilik situs web mengenai masalah ini.</li></ul>">
 
@@ -196,10 +194,10 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "Tampaknya setelan keamanan jaringan Anda yang mungkin menyebabkan ini. Ingin setelan baku dipulihkan?">
 <!ENTITY prefReset.label "Pulihkan setelan baku">
 
+<!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
+
 <!ENTITY enableTls10.longDesc "Situs web ini mungkin tidak mendukung protokol TLS 1.2, yang merupakan versi minimum yang didukung oleh &brandShortName;. Pengaktifkan TLS 1.0 dan TLS 1.1 mungkin bisa membuat koneksi bisa dilanjutkan.">
 <!ENTITY enableTls10.note "TLS 1.0 dan TLS 1.1 akan dinonaktifkan secara permanen dalam rilis yang akan datang.">
 <!ENTITY enableTls10.label "Aktifkan TLS 1.0 dan 1.1">
-
-<!ENTITY networkProtocolError.title "Protokol Jaringan Bermasalah">
 
 <!ENTITY networkProtocolError.longDesc "<p>Laman yang ingin Anda lihat tidak dapat ditampilkan karena ada yang salah dalam protokol jaringan.</p><ul><li>Harap hubungi pemilik situs web untuk memberi tahu mereka tentang masalah ini.</li></ul>">

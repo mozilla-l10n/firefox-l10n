@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Diwajibkan (tidak dapat mengirim pesan kecuali semua penerima memiliki sertifikat)">
 <!ENTITY alwaysEncryptMessage.accesskey "w">
 <!ENTITY encryptionCert.message "Gunakan sertifikat berikut untuk mengenkripsi &amp; mendekripsi pesan yang dikirim kepada Anda:">
+
 <!ENTITY digitalSign.certificate.button "Pilih…">
 <!ENTITY digitalSign.certificate.accesskey "P">
 <!ENTITY digitalSign.certificate_clear.button "Bersihkan">
@@ -34,3 +35,4 @@
 <!ENTITY certPicker.title "Pilih Sertifikat">
 <!ENTITY certPicker.info  "Sertifikat:">
 <!ENTITY certPicker.detailsLabel "Detail sertifikat yang dipilih:">
+

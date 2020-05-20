@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Buka Tautan di Jendela Penjelajahan Pribadi Baru
     .accesskey = P
+
 places-new-bookmark =
     .label = Markah Baru…
     .accesskey = M
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Garis Pemisah Baru
     .accesskey = G
+
 places-view =
     .label = Tampilkan
     .accesskey = l
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Berdasarkan Tanggal dan Situs
     .accesskey = d
+
 places-history-search =
     .placeholder = Cari riwayat
 places-bookmarks-search =
     .placeholder = Cari markah
+
 places-delete-domain-data =
     .label = Lupakan Situs Ini
     .accesskey = L
