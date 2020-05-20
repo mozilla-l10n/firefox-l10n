@@ -26,6 +26,7 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = B
 appmenu-update-restart-message = Selepas mula semula, { -brand-shorter-name } akan memulihkan semua tab dan tetingkap terbuka yang bukan dalam mod Pelayaran Peribadi.
 appmenu-addon-post-install-message = Urus add-ons anda dengan mengklik <image data-l10n-name='addon-install-icon'></image> dalam menu <image data-l10n-name='addon-menu-icon'></image>.
+    
 appmenu-new-tab-controlled =
     .label = Tab Baru anda telah berubah.
     .buttonlabel = Simpan Perubahan

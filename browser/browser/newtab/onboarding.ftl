@@ -18,20 +18,24 @@ onboarding-button-label-get-started = Mulakan
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Selamat datang ke { -brand-short-name }
+
 onboarding-start-browsing-button-label = Mulakan Pelayaran
+
 onboarding-cards-dismiss =
     .title = Abai
     .aria-label = Abai
+
+## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Bawa { -brand-product-name } bersama Anda
 onboarding-sync-welcome-content = Dapatkan tandabuku, sejarah, kata laluan dan tetapan lain dalam semua peranti anda.
 onboarding-sync-welcome-learn-more-link = Ketahui selanjutnya perihal Akaun Firefox
-onboarding-sync-form-invalid-input = Perlu e-mel yang sah
-onboarding-sync-legal-notice = Dengan meneruskan, anda bersetuju dengan <a data-l10n-name="terms">Terma Perkhidmatan</a> dan <a data-l10n-name="privacy">Notis Privasi</a>.
+
 onboarding-sync-form-input =
     .placeholder = E-mel
+
 onboarding-sync-form-continue-button = Teruskan
 onboarding-sync-form-skip-login-button = Langkau langkah ini
 
@@ -39,6 +43,7 @@ onboarding-sync-form-skip-login-button = Langkau langkah ini
 
 onboarding-sync-form-header = Masukkan e-mel anda
 onboarding-sync-form-sub-header = untuk ke { -sync-brand-name }
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -53,15 +58,20 @@ onboarding-sync-form-sub-header = untuk ke { -sync-brand-name }
 
 onboarding-private-browsing-title = Pelayaran Peribadi
 onboarding-private-browsing-text = Layar sendirian. Pelayaran Peribadi dengan Sekatan Kandungan menyekat penjejak atas talian yang menjejaki anda dalam seluruh web.
+
 onboarding-screenshots-title = Screenshots
 onboarding-screenshots-text = Ambil, simpan dan kongsi skrinsyot — tanpa keluar daripada { -brand-short-name }. Rakam gambar sebahagian atau keseluruhan halaman sambil melayari web. Kemudian simpan dalam web supaya mudah diiakses dan dikongsi.
+
 onboarding-addons-title = Add-ons
 onboarding-addons-text = Add-ons membolehkan anda menambah ciri { -brand-short-name } supaya bekerja lebih keras untuk anda. Bandingkan harga, menyemak cuaca atau menggambarkan personaliti anda dengan tema tersuai.
+
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Pelayaran lebih cepat, lebih bijak atau lebih selamat dengan ekstensi seperti Ghostery, yang membolehkan anda menyekat iklan yang menjengkelkan.
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sync
 onboarding-fxa-text = Daftar dengan { -fxaccount-brand-name } dan selaraskan tandabuku, kata laluan dan tab terbuka di mana sahaja anda menggunakan { -brand-short-name }.
+
 
 ## Message strings belonging to the Return to AMO flow
 

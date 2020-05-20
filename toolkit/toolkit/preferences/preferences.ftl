@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (tidak ditetapkan)
+
 failed-pw-change = Gagal menukar Kata laluan Induk.
 incorrect-pw = Anda tidak masukkan Kata laluan Induk semasa yang betul. Sila cuba lagi.
 pw-change-ok = Kata laluan Induk berjaya ditukar.
+
 pw-empty-warning = Kata laluan web dan e-mel anda yang disimpan, data borang, dan kunci peribadi tidak akan dilindungi.
 pw-erased-ok = Anda telah menghapuskan Kata Laluan Induk anda.  { pw-empty-warning }
 pw-not-wanted = Amaran! Anda membuat keputusan untuk tidak menggunakan Kata laluan Induk. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Anda kini berada dalam mod FIPS. FIPS memerlukan Kata laluan Induk bukan-kosong.
 pw-change-success-title = Kata laluan Berjaya Ditukar
 pw-change-failed-title = Kata laluan Gagal Ditukar
 pw-remove-button =
     .label = Buang
+
 set-password =
     .title = Tukar Katalaluan Induk
 set-password-old-password = Kata laluan semasa:
@@ -24,6 +28,7 @@ set-password-meter = Meter kualiti kata laluan
 set-password-meter-loading = Memuatkan
 master-password-description = Kata laluan Induk digunakan untuk melindungi maklumat sensitif contohnya kata laluan laman. Jika anda menipta Kata laluan Induk, anda akan diminta untuk memasukkannya pada setiap kali sesi apabila { -brand-short-name } mendapatkan maklumat yang dilindungi oleh kata laluan.
 master-password-warning = Sila pastikan anda ingat Kata laluan Induk yang anda telah tetapkan.  Jika anda lupa Kata laluan Induk, anda tidak akan dapat mengakses sebarang maklumat yang dilindunginya.
+
 remove-password =
     .title = Buang Kata laluan Induk
 remove-info =

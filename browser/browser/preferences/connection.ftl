@@ -9,11 +9,15 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = Nyahdayakan Ekstensi
+
 connection-proxy-configure = Tetapkan Akses Proksi ke Internet
+
 connection-proxy-option-no =
     .label = Tiada proksi
     .accesskey = p
@@ -26,6 +30,7 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Konfigurasi proksi manual
     .accesskey = m
+
 connection-proxy-http = Proksi HTTP
     .accesskey = k
 connection-proxy-http-port = Port
@@ -33,18 +38,23 @@ connection-proxy-http-port = Port
 connection-proxy-http-share =
     .label = Guna pelayan proksi ini untuk semua protokol
     .accesskey = s
+
 connection-proxy-ssl = Proksi SSL
     .accesskey = L
+
 connection-proxy-ssl-port = Port
     .accesskey = o
+
 connection-proxy-ftp = Proksi FTP
     .accesskey = F
 connection-proxy-ftp-port = Port
     .accesskey = r
+
 connection-proxy-socks = Hos SOCKS
     .accesskey = C
 connection-proxy-socks-port = Port
     .accesskey = t
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -53,33 +63,32 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Tiada proksi untuk
     .accesskey = n
+
 connection-proxy-noproxy-desc = Contoh: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-autotype =
     .label = URL konfigurasi proksi automatik
     .accesskey = A
+
 connection-proxy-reload =
     .label = Muat semula
     .accesskey = e
+
 connection-proxy-autologin =
     .label = Jangan paparkan pengesahan jika kata laluan telah disimpan
     .accesskey = i
     .tooltip = Pilihan ini mengesahkan secara senyap apabila anda ada menyimpan kelayakan bagi pihak proksi. Tapi anda akan dimaklumkan jika pengesahan gagal.
+
 connection-proxy-socks-remote-dns =
     .label = Proksi DNS apabila menggunakan SOCKS v5
     .accesskey = d
+
 connection-dns-over-https =
     .label = Dayakan DNS mengatasi HTTPS
     .accesskey = D
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL untuk menyelesaikan semula DNS mengatasi HTTPS
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Guna piawai ({ $url })
-    .accesskey = G
-    .tooltiptext = Guna URL piawai untuk menyelesaikan DNS ke atas HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Penyesuaian
     .accesskey = P
     .tooltiptext = Masukkan URL keutamaan untuk menyelesaikan DNS ke atas HTTPS
+

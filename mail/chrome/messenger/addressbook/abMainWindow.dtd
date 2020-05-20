@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Hantar mesej segera atau sembang">
 <!ENTITY deleteButton2.tooltip                          "Buang item yang dipilih">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Buku Alamat">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nama atau E-mel">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">

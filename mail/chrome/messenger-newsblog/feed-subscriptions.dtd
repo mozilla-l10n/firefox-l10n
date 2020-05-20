@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL Suapan:">
 <!ENTITY feedLocation.accesskey      "S">
-<!ENTITY feedLocation.placeholder    "Masukkan url suapan yang sah">
 <!ENTITY feedLocation2.placeholder   "Masukkan url suapan yang sah">
 <!ENTITY locationValidate.label      "Sahkan">
 <!ENTITY validateText.label          "Semak pengesahan dan dapatkan url yang sah.">

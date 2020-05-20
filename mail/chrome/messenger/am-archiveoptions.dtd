@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Pilihan Arkib">
 <!ENTITY archiveGranularityPrefix.label "Apabila mengarkib mesej, letakkan dalam:">
 <!ENTITY archiveFlat.label "Folder tunggal">

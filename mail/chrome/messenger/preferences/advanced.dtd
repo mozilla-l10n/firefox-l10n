@@ -71,8 +71,6 @@
 <!ENTITY updateAuto.accesskey            "P">
 <!ENTITY updateCheck.label               "Semak sebarang kemaskini, tetapi biarkan saya pilih untuk memasangnya">
 <!ENTITY updateCheck.accesskey           "S">
-<!ENTITY updateManual.label              "Jangan sesekali semak kemaskini (tidak digalakkan: risiko keselamatan)">
-<!ENTITY updateManual.accesskey          "J">
 <!ENTITY updateHistory.label             "Papar Sejarah Kemaskini">
 <!ENTITY updateHistory.accesskey         "s">
 
@@ -121,3 +119,4 @@
 <!ENTITY manageCertificates.accesskey "U">
 <!ENTITY viewSecurityDevices.label "Peranti Keselamatan">
 <!ENTITY viewSecurityDevices.accesskey "P">
+

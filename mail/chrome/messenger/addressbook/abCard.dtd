@@ -76,11 +76,8 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Tarikh lahir:">
 <!ENTITY Birthday.accesskey             "T">
-<!ENTITY In.label                       "">
 <!ENTITY Year.placeholder               "Tahun">
-<!ENTITY Or.value                       "atau">
 <!ENTITY Age.placeholder                "Umur">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Kerja">
 <!ENTITY Work.accesskey                 "K">
@@ -141,7 +138,6 @@
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
-<!ENTITY PhotoDesc.label                "Pilih salah satu:">
 <!ENTITY GenericPhoto.label             "Foto Generik">
 <!ENTITY GenericPhoto.accesskey         "G">
 <!ENTITY DefaultPhoto.label             "Piawai">

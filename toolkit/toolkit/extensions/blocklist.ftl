@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Mula semula { -brand-short-name }
     .accesskey = M
+
 blocklist-label-summary = { -brand-short-name } telah dipastikan yang ekoran tambah-nilai telah diketahui menyebabkan masalah kestabilan dan keselamatan:
 blocklist-soft-and-hard = Add-ons berisiko tinggi yang menyebabkan ketidakstabilan atau masalah keselamatan telah disekat. Add-ons yang lain berisiko rendah, tetapi anda disarankan supaya mula semula untuk menyahdayakannya.
 blocklist-hard-blocked = Add-ons ini mempunyai risiko tinggi yang menyebabkan ketidakstabilan atau masalah keselamatan dan telah disekat, serta perlu mula semula untuk menyahdayakan sepenuhnya.
 blocklist-soft-blocked = Untuk perlindungan, anda disaran mula semula dengan menyahdayakan add-ons ini.
 blocklist-more-information =
     .value = Maklumat lanjut
+
 blocklist-blocked =
     .label = Disekat
 blocklist-checkbox =

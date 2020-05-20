@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Bantuan"> 
 <!ENTITY helpMenuWin.accesskey    "B">
+
 <!ENTITY aboutProduct2.label      "Perihal &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "P">
 <!ENTITY productHelp2.label       "Bantuan &brandShorterName;">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "M">
 <!ENTITY helpSafeMode.stop.label       "Mula semula dengan Add-ons Didayakan">
 <!ENTITY helpSafeMode.stop.accesskey   "M">
-
-<!ENTITY healthReport2.label      "Laporan Kesihatan &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Maklumat Pencarisilapan">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Papar Semua">
+

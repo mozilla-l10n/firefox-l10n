@@ -4,146 +4,176 @@
 
 certmgr-title =
     .title = Pengurus Sijil
+
 certmgr-tab-mine =
     .label = Sijil Anda
+
 certmgr-tab-people =
     .label = Hubungan
+
 certmgr-tab-servers =
     .label = Pelayan
+
 certmgr-tab-ca =
     .label = Autoriti
+
 certmgr-mine = Anda memiliki sijil daripada organisasi ini yang mengenali anda
 certmgr-people = Anda memiliki sijil fail yang mengenal pasti orang ini
 certmgr-servers = Anda memiliki sijil fail yang mengenal pasti pelayan ini
 certmgr-ca = Anda memiliki sijil fail yang mengenal pasti autoriti sijil ini
+
 certmgr-detail-general-tab-title =
     .label = Umum
     .accesskey = u
+
 certmgr-detail-pretty-print-tab-title =
     .label = Butiran
     .accesskey = B
+
 certmgr-pending-label =
     .value = Sijil sedang disahkan...
-certmgr-subject-info-label =
-    .value = Dikeluarkan Untuk
-certmgr-issuer-info-label =
-    .value = Dikeluarkan Oleh
-certmgr-period-of-validity-label =
-    .value = Tempoh Sah
-certmgr-fingerprints-label =
-    .value = Cap jari
+
 certmgr-subject-label = Dikeluarkan Untuk
+
 certmgr-issuer-label = Dikeluarkan Oleh
+
 certmgr-period-of-validity = Tempoh Sah
+
 certmgr-fingerprints = Cap jari
+
 certmgr-cert-detail =
     .title = Perincian Sijil
     .buttonlabelaccept = Tutup
     .buttonaccesskeyaccept = T
-certmgr-cert-detail-cn =
-    .value = Nama Biasa (CN)
-certmgr-cert-detail-o =
-    .value = Organisasi (0)
-certmgr-cert-detail-ou =
-    .value = Unit Organisasi (OU)
-certmgr-cert-detail-serialnumber =
-    .value = Nombor Siri
-certmgr-cert-detail-sha256-fingerprint =
-    .value = Cap jari SHA-256
-certmgr-cert-detail-sha1-fingerprint =
-    .value = Cap jari SHA1
+
 certmgr-cert-detail-commonname = Nama Biasa (CN)
+
 certmgr-cert-detail-org = Organisasi (0)
+
 certmgr-cert-detail-orgunit = Unit Organisasi (OU)
+
 certmgr-cert-detail-serial-number = Nombor Siri
+
 certmgr-cert-detail-sha-256-fingerprint = Cap jari SHA-256
+
 certmgr-cert-detail-sha-1-fingerprint = Cap jari SHA1
+
 certmgr-edit-ca-cert =
     .title = Edit tetapan sijil CA dipercaya
     .style = width: 48em;
+
 certmgr-edit-cert-edit-trust = Edit tetapan dipercaya:
+
 certmgr-edit-cert-trust-ssl =
     .label = Sijil ini boleh mengenal pasti identiti laman web.
+
 certmgr-edit-cert-trust-email =
     .label = Sijil ini boleh mengenal pasti pengguna e-mel.
+
 certmgr-delete-cert =
     .title = Buang Sijil
     .style = width: 48em; height: 24em;
+
 certmgr-cert-name =
     .label = Nama Sijil
+
 certmgr-cert-server =
     .label = Pelayan
+
 certmgr-override-lifetime =
     .label = Seumur hidup
+
 certmgr-token-name =
     .label = Peranti Sekuriti
+
 certmgr-begins-on = Bermula Pada
+
 certmgr-begins-label =
     .label = Bermula Pada
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
+
 certmgr-expires-on = Luput Pada
+
 certmgr-expires-label =
     .label = Luput Pada
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
+
 certmgr-email =
     .label = Alamat E-Mel
+
 certmgr-serial =
     .label = Nombor Siri
+
 certmgr-view =
     .label = Papar...
     .accesskey = P
+
 certmgr-edit =
     .label = Mengubahkan kepercayaan...
     .accesskey = E
+
 certmgr-export =
     .label = Eksport…
     .accesskey = r
+
 certmgr-delete =
     .label = Buang…
     .accesskey = B
+
 certmgr-delete-builtin =
     .label = Buang atau Tidak Percaya…
     .accesskey = B
+
 certmgr-backup =
     .label = Sandaran…
     .accesskey = S
+
 certmgr-backup-all =
     .label = Backup Semua
     .accesskey = k
+
 certmgr-restore =
     .label = Import…
     .accesskey = m
+
 certmgr-details =
     .value = Sijil Bidang
     .accesskey = S
+
 certmgr-fields =
     .value = Bidang Nilai
     .accesskey = n
+
 certmgr-hierarchy =
     .value = Hierarki Sijil
     .accesskey = H
+
 certmgr-add-exception =
     .label = Tambah Pengecualian…
     .accesskey = T
+
 exception-mgr =
     .title = Tambah Pengecualian Keselamatan
+
 exception-mgr-extra-button =
     .label = Sahkan Pengecualian Keselamatan
     .accesskey = C
+
 exception-mgr-supplemental-warning = Bank, kedai dan laman awam yang sah tidak akan meminta anda untuk melakukan ini.
+
 exception-mgr-cert-location-url =
     .value = Lokasi:
+
 exception-mgr-cert-location-download =
     .label = Dapatkan Sijil
     .accesskey = D
+
 exception-mgr-cert-status-view-cert =
     .label = Papar...
     .accesskey = P
+
 exception-mgr-permanent =
     .label = Simpan pengecualian ini secara tetap
     .accesskey = P
+
 pk11-bad-password = Kata laluan yang dimasukkan tidak betul.
 pkcs12-decode-err = Gagal menyahkod fail. Sama ada bukan dalam format PKCS #12, telah rosak, atau kata laluan yang anda masukkan tidak betul.
 pkcs12-unknown-err-restore = Gagal memulihkan fail PKCS #12 atas sebab yang tidak diketahui.
@@ -176,18 +206,24 @@ delete-user-cert-title =
     .title = Buang Sijil anda
 delete-user-cert-confirm = Adakah anda pasti mahu menghapuskan sijil ini?
 delete-user-cert-impact = Jika anda hapus salah satu daripada sijil anda sendiri, anda tidak lagi dapat menggunakannya untuk memperkenalkan diri.
+
+
 delete-ssl-cert-title =
     .title = Buang Pengecualian Sijil Pelayan
 delete-ssl-cert-confirm = Adakah anda pasti mahu menghapuskan pengecualian daripada pelayan ini?
 delete-ssl-cert-impact = Jika anda menghapuskan pengecualian pelayan, anda perlu perbaharui pemeriksaan sekuriti untuk pelayar dan perlu menggunakan sijil yang diiktiraf.
+
 delete-ca-cert-title =
     .title = Buang atau Tidak Percaya Sijil CA
 delete-ca-cert-confirm = Anda meminta untuk menghapuskan sijil CA berikut. Untuk sijil yang terbina-dalam semua kepercayaan yang disingkirkan, juga menerima akibat yang sama. Anda pasti mahu menghapuskan atau tidak mempercayainya?
 delete-ca-cert-impact = Jika anda menghapuskan atau tidak mempercayai sijil autoriti pensijilan (CA), aplikasi ini tidak lagi percaya sebarang sijil yang diterbitkan oleh CA berkenaaan.
+
+
 delete-email-cert-title =
     .title = Buang Sijil E-mel
 delete-email-cert-confirm = Adakah anda pasti mahu menghapuskan sijil e-mel pengguna berikut?
 delete-email-cert-impact = Jika anda menghapuskan sijil e-mel seseorang pengguna, anda tidak dapat menghantar e-mel yang dienkripsi kepada pengguna tersebut.
+
 # Used for semi-uniquely representing a cert.
 #
 # Variables:
@@ -203,21 +239,29 @@ cert-with-serial =
 #   $certificate : a string representative of the certificate being viewed.
 cert-viewer-title =
     .title = Certificate Viewer: “{ $certName }”
+
 not-present =
     .value = <Bukan Sebahagian Dari Sijil>
+
 # Cert verification
 cert-verified = Sijil telah disahkan untuk pengguna berikut:
+
 # Add usage
 verify-ssl-client =
     .value = SSL Sijil Klien
+
 verify-ssl-server =
     .value = Sijil Pelayan SSL
+
 verify-ssl-ca =
     .value = SSL Autoriti Sijil
+
 verify-email-signer =
     .value = E-mel Sijil Penandatangan
+
 verify-email-recip =
     .value = E-mel Sijil Penerima
+
 # Cert verification
 cert-not-verified-cert-revoked = Tidak dapat mengesahkan sijil ini kerana ianya telah ditarik balik.
 cert-not-verified-cert-expired = Tidak dapat mengesahkan sijil ini kerana ianya telah luput.

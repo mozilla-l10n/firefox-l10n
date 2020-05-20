@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Buka dalam Tetingkap Peribadi Baru
     .accesskey = P
+
 places-new-bookmark =
     .label = Tandabuku Baru…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Pemisah Baru
     .accesskey = S
+
 places-view =
     .label = Papar
     .accesskey = a
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Mengikut Tarikh dan Laman
     .accesskey = t
+
 places-history-search =
     .placeholder = Sejarah carian
 places-bookmarks-search =
     .placeholder = Cari tandabuku
+
 places-delete-domain-data =
     .label = Lupakan Laman Ini
     .accesskey = L

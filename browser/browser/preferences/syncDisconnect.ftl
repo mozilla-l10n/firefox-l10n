@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Putuskan { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Adakah anda turut mahu membuang data pelayaran dalam komputer ini? Data { -sync-brand-name } anda akan masih kekal dalam akaun.
+
 sync-disconnect-remove-sync-caption = Buang Data { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Tandabuku, sejarah, kata laluan dsb
+
 sync-disconnect-remove-other-caption = Buang Data Peribadi Lain
+
 sync-disconnect-remove-other-data = Kuki, cache, data laman web luar talian, dsb.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Memutuskan…
+
 sync-disconnect-cancel =
     .label = Batal
     .accesskey = B
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Putuskan & Buang
     .accesskey = B
+
 sync-disconnect-confirm-disconnect =
     .label = Hanya Putuskan
     .accesskey = P
