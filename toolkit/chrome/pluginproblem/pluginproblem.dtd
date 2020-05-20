@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
-<!ENTITY pluginActivationWarning                             "Aquest lloc utilitza un connector que pot alentir el &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Toqueu aquí per activar el connector.">
 <!ENTITY clickToActivatePlugin                               "Activa el connector.">
 <!ENTITY checkForUpdates                                     "Cerca actualitzacions…">
 <!ENTITY blockedPlugin.label                                 "S'ha blocat aquest connector per a la vostra protecció.">
 <!ENTITY hidePluginBtn.label                                 "Amaga el connector">
 <!ENTITY managePlugins                                       "Gestiona els connectors…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

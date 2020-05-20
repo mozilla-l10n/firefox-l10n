@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Paràmetres del compte">
 <!ENTITY accountName.label "Nom del compte:">
 <!ENTITY accountName.accesskey "N">

@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Disponible a Google Play
 login-app-promo-apple =
     .alt = Baixeu-lo de l'App Store
+
 login-filter =
     .placeholder = Cerca els inicis de sessió
+
 create-login-button = Crea un inici de sessió
+
 fxaccounts-sign-in-text = Accediu a les contrasenyes en tots els vostres dispositius
 fxaccounts-sign-in-button = Inicia la sessió al { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -24,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Obre el menú
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importa contrasenyes…
 # This menuitem is only visible on Windows and macOS
 about-logins-menu-menuitem-import-from-another-browser = Importa des d'un altre navegador…
 menu-menuitem-preferences =
@@ -49,7 +50,6 @@ login-list-count =
 login-list-sort-label-text = Ordena per:
 login-list-name-option = Nom (A-Z)
 login-list-name-reverse-option = Nom (Z-A)
-login-list-breached-option = Llocs web amb filtracions de dades
 login-list-last-changed-option = Darrera modificació
 login-list-last-used-option = Darrer ús
 login-list-intro-title = No s'ha trobat cap inici de sessió
@@ -97,6 +97,12 @@ login-item-time-changed = Darrera modificació: { DATETIME($timeChanged, day: "n
 login-item-time-created = Creat: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Darrer ús: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-notification-message = Introduïu la contrasenya mestra per veure els inicis de sessió i les contrasenyes desats
@@ -127,9 +133,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancel·la
 confirmation-dialog-dismiss-button =
     .title = Cancel·la
+
 about-logins-confirm-remove-dialog-title = Voleu eliminar aquest inici de sessió?
 confirm-delete-dialog-message = Aquesta acció no es pot desfer.
 about-logins-confirm-remove-dialog-confirm-button = Elimina
+
 confirm-discard-changes-dialog-title = Voleu descartar els canvis no desats?
 confirm-discard-changes-dialog-message = Es perdran tots els canvis que no hàgiu desat.
 confirm-discard-changes-dialog-confirm-button = Descarta
@@ -137,9 +145,8 @@ confirm-discard-changes-dialog-confirm-button = Descarta
 ## Breach Alert notification
 
 breach-alert-text = S'han filtrat o robat contrasenyes d'aquest lloc web des de la darrera vegada que en vàreu actualitzar les vostres dades d'inici de sessió. Canvieu la contrasenya per protegir el vostre compte.
-breach-alert-link = Més informació sobre aquesta filtració.
-breach-alert-dismiss =
-    .title = Tanca aquesta alerta
+
+## Vulnerable Password notification
 
 ## Error Messages
 
@@ -148,5 +155,6 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ja existeix una entrada per a { $loginTitle } amb aquest nom d'usuari. <a data-l10n-name="duplicate-link">Voleu anar a l'entrada existent?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = S'ha produït un error en intentar desar aquesta contrasenya.

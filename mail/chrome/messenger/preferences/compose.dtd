@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Tipus de lletra:">
 <!ENTITY font.accesskey                       "l">
-<!ENTITY size.label                           "Mida:">
-<!ENTITY size.accesskey                       "M">
 <!ENTITY fontSize.label                       "Mida:">
 <!ENTITY fontSize.accesskey                   "M">
 <!ENTITY useReaderDefaults.label              "Utilitza els colors per defecte del lector">

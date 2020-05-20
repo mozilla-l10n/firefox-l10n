@@ -8,6 +8,7 @@ password-quality-meter = Avaluador de qualitat de la contrasenya
 
 change-password-window =
     .title = Canvia la contrasenya mestra
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositiu de seguretat: { $tokenName }

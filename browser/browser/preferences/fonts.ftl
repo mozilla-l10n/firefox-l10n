@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tipus de lletra
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tipus de lletra per a
     .accesskey = T
+
 fonts-langgroup-arabic =
     .label = Àrab
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Mida
     .accesskey = i
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monoespai
     .accesskey = M
+
 fonts-monospace-size = Mida
     .accesskey = d
+
 fonts-minsize = Mida mínima de la lletra
     .accesskey = d
+
 fonts-minsize-none =
     .label = Cap
+
 fonts-allow-own =
     .label = Permet a les pàgines triar els seus propis tipus de lletra, en lloc de la selecció anterior
     .accesskey = e
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificació del text per al contingut antic
 fonts-languages-fallback-desc = Aquesta codificació del text s'utilitza per al contingut antic que no declara la seva codificació.
+
 fonts-languages-fallback-label = Codificació del text alternativa
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Valor per defecte de la llengua actual
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Altres (inclou l'europeu occidental)
-fonts-very-large-warning-title = La mida de lletra mínima és molt grossa
-fonts-very-large-warning-message = Heu seleccionat una mida de lletra mínima molt grossa (més de 24 píxels). Això pot fer que sigui més difícil o impossible utilitzar algunes pàgines de configuració importants, com aquesta.
-fonts-very-large-warning-accept = Conserva els meus canvis igualment
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

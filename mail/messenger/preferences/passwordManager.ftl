@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Tanca
     .accesskey = c
+
 show-passwords =
     .label = Mostra les contrasenyes
     .accesskey = M
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Esteu segur que voleu eliminar totes les contrasenyes?
 remove-all-passwords-title = Eliminació de totes les contrasenyes
 no-master-password-prompt = Esteu segur que voleu mostrar les vostres contrasenyes?
+
+## OS Authentication dialog
+

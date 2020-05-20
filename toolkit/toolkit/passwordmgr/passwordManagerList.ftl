@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Tanca
     .accesskey = c
+
 show-passwords =
     .label = Mostra les contrasenyes
     .accesskey = M

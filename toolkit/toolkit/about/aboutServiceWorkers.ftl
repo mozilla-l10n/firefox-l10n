@@ -9,17 +9,12 @@ about-service-workers-title = Quant als processos de treball de servei
 about-service-workers-main-title = Processos de treball de servei registrats
 about-service-workers-warning-not-enabled = Els processos de treball de servei no estan activats.
 about-service-workers-warning-no-service-workers = No hi ha cap procés de treball de servei registrat.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Origen: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } - ID d'aplicació { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Nom de la memòria cau activa:</strong> { $name }
 waiting-cache-name = <strong>Nom de la memòria cau en espera:</strong> { $name }
 push-end-point-waiting = <strong>Punt final de transferència Push:</strong> { waiting }
 push-end-point-result = <strong>Punt final de transferència Push:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Actualitza
+
 unregister-button = Suprimeix el registre
+
 unregister-error = No s'ha pogut suprimir el registre d'aquest procés de treball de servei.
+
 waiting = S'està esperant…
