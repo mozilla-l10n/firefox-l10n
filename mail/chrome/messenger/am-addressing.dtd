@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Rédaction et adressage">
 <!ENTITY addressingGroupTitle.label "Adressage">
 <!ENTITY addressingText.label      "Lors de la recherche d’adresses :">
@@ -18,6 +20,8 @@
 <!ENTITY directoriesNone.label     "Aucun">
 
 <!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Rédaction des messages">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->

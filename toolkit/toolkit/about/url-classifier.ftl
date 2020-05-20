@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Modules de journalisation pour le blocage de s
 url-classifier-debug-modules = Modules de journalisation actuels
 url-classifier-debug-sbjs-modules = Journal JS du blocage de sites malveillants
 url-classifier-debug-file = Fichier de journalisation actuel
+
 url-classifier-trigger-update = Déclencher une mise à jour
 url-classifier-not-available = Non disponible
 url-classifier-disable-sbjs-log = Désactiver la journalisation JS du blocage de sites malveillants

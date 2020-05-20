@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Utiliser le fournisseur
     .accesskey = U
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (par défaut)
     .tooltiptext = Utiliser l’URL par défaut pour résoudre le DNS via HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Personnalisé
     .accesskey = P
     .tooltiptext = Saisissez l’URL de votre choix pour résoudre le DNS via HTTPS
+
 connection-dns-over-https-custom-label = Personnalisé

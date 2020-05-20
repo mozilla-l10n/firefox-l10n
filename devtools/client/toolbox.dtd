@@ -136,11 +136,6 @@
 <!ENTITY options.timestampMessages.label      "Activer l’horodatage">
 <!ENTITY options.timestampMessages.tooltip    "Si vous activez cette option, les commandes et les sorties dans la console web afficheront l’horodatage">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Grouper les messages similaires">
-<!ENTITY options.warningGroups.tooltip    "Si vous activez cette option, les messages similaires sont regroupés">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Débogueur">

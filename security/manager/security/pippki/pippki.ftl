@@ -8,6 +8,7 @@ password-quality-meter = Mesure de la qualité du mot de passe :
 
 change-password-window =
     .title = Définir le mot de passe principal
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Périphérique de sécurité: { $tokenName }

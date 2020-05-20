@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Détails de l’application
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Supprimer
     .accesskey = S
-app-manager-handle-webfeeds = Les applications suivantes peuvent être utilisées pour Flux web.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Les applications suivantes peuvent être utilisées pour Liens { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Les applications suivantes peuvent être utilisées pour Contenu { $type }.
