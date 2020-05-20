@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Dátum narodenia:">
 <!ENTITY Birthday.accesskey             "n">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Mesiac">
 <!ENTITY Day.placeholder                "Deň">
 <!ENTITY Year.placeholder               "Rok">
-<!ENTITY Or.value                       "alebo">
 <!ENTITY Age.label                      "Vek:">
 <!ENTITY Age.placeholder                "vek">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Zamestnanie">
 <!ENTITY Work.accesskey                 "Z">

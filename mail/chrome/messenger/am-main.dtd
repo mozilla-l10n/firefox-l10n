@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Nastavenie účtu">
 <!ENTITY accountName.label "Názov účtu:">
 <!ENTITY accountName.accesskey "z">

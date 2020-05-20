@@ -10,6 +10,7 @@ graph-week-summary =
         [few] Aplikácia { -brand-short-name } zablokovala v priebehu minulého týždňa { $count } sledovacie prvky
        *[other] Aplikácia { -brand-short-name } zablokovala v priebehu minulého týždňa { $count } sledovacích prvkov
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -20,10 +21,12 @@ graph-total-tracker-summary =
         [few] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } boli zablokované <b>{ $count }</b> sledovacie prvky
        *[other] Od { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") } bolo zablokovaných <b>{ $count }</b> sledovacích prvkov
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = Aplikácia { -brand-short-name } naďalej blokuje sledovacie prvky v súkromných oknách, ale neukladá si informácie o tom, čo bolo zablokované.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Sledovacie prvky zablokované tento týždeň
+
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -35,33 +38,46 @@ protection-report-header-details-custom = Je nastavená <b>vlastná</b> úroveň
     .title = Prejsť na nastavenia súkromia
 protection-report-page-title = Ochrana súkromia
 protection-report-content-title = Ochrana súkromia
+
 etp-card-title = Rozšírená ochrana pred sledovaním
 etp-card-content = Sledovacie prvky zbierajú informácie o tom, čo na internete robíte. { -brand-short-name } blokuje množstvo takýchto prvkov a ďalších škodlivých skriptov.
+
 protection-report-etp-card-content-custom-not-blocking = Všetky prvky ochrany sú v tejto chvíli vypnuté. V nastaveniach aplikácie { -brand-short-name } vyberte, ktoré sledovacie prvky chcete blokovať.
 protection-report-manage-protections = Možnosti
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Dnes
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Graf s celkovým počtom všetkých typov sledovacích prvkov, ktoré boli tento týždeň zablokované.
+
 social-tab-title = Sledovacie prvky sociálnych sietí
 social-tab-contant = Sociálne siete umiestňujú na webové stránky sledovacie prvky, ktoré sledujú, čo na internete robíte. Toto umožňuje spoločnostiam, ktoré tieto sociálne médiá vlastnia dozvedieť sa o vás viac ako to, čo zdieľate na svojich profiloch. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+
 cookie-tab-title = Sledovacie cookies
 cookie-tab-content = Tieto cookies slúžia na vaše sledovanie naprieč webovými stránkami a zber údajov o tom, čo na internete robíte. Používajú ich tretie strany, ako sú reklamné systémy alebo analytické spoločnosti. Blokovanie sledovacích cookies tretích strán obmedzuje množstvo reklám, ktoré vás sledujú. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+
 tracker-tab-title = Sledovací obsah
 tracker-tab-description = Webové stránky môžu načítať externé reklamy a ďalší obsah, ktorý obsahuje sledovací kód. Po zablokovaní sledovacieho obsahu sa stránky načítajú rýchlejšie, ale niektoré tlačidlá alebo formuláre nemusia správne fungovať. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+
 fingerprinter-tab-title = Odtlačok prehliadača
 fingerprinter-tab-content = Zberom informácií o vašom prehliadači a počítači je možné vytvoriť unikátny odtlačok, ktorý je potom možné použiť na vaše sledovanie naprieč rôznymi webovými stránkami. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+
 cryptominer-tab-title = Ťažba kryptomien
 cryptominer-tab-content = Ťažba kryptomien používa výpočtový výkon vášho počítača na získavanie digitálnych mien. Bežiace skripty vybíjajú vašu batériu a spomaľujú váš počítač. <a data-l10n-name="learn-more-link">Ďalšie informácie</a>
+
 protections-close-button =
     .aria-label = Zavrieť
+
 protections-close-button2 =
     .aria-label = Zavrieť
     .title = Zavrieť
+  
 mobile-app-title = Blokovanie sledujúcich reklám naprieč zariadeniami
 mobile-app-card-content = Používajte mobilný prehliadač so vstavanou ochranou pred sledujúcimi reklamami.
 mobile-app-links = Prehliadač { -brand-product-name } pre <a data-l10n-name="android-mobile-inline-link">Android</a> a <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = Už žiadne zabudnuté heslá
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } bezpečne uchováva vaše heslá vo vašom prehliadači.
@@ -71,6 +87,7 @@ protection-report-view-logins-button = Zobraziť prihlasovacie údaje
 lockwise-mobile-app-title = Vezmite si svoje heslá so sebou
 lockwise-no-logins-card-content = Používajte heslá uložené v { -brand-short-name } na akomkoľvek zariadení.
 lockwise-app-links = { -lockwise-brand-name } pre <a data-l10n-name="lockwise-android-inline-link">Android</a> a <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -80,10 +97,14 @@ lockwise-passwords-stored =
         [few] Heslá boli bezpečne uložené <a data-l10n-name="lockwise-how-it-works">Ako to funguje</a>
        *[other] Heslá boli bezpečne uložené <a data-l10n-name="lockwise-how-it-works">Ako to funguje</a>
     }
+
 lockwise-how-it-works-link = Ako to funguje
+
 turn-on-sync = Zapnúť { -sync-brand-short-name }…
     .title = Prejsť na nastavenie synchronizácie
+
 manage-connected-devices = Spravovať zariadenia…
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -92,12 +113,14 @@ lockwise-connected-device-status =
         [few] Prepojené s { $count } ďalšími zariadeniami
        *[other] Prepojené s { $count } ďalšími zariadeniami
     }
+
 monitor-title = Pozor na úniky dát
 monitor-link = Ako to funguje
 monitor-header-content-no-account = { -monitor-brand-name } skontroluje, či boli vaše údaje súčasťou nejakého známeho úniku dát a upozorní vás, ak sa vyskytnú v nejakom novom.
 monitor-header-content-signed-in = { -monitor-brand-name } vás upozorní, ak sa vaše údaje objavia v známom úniku dát.
 monitor-sign-up = Prihláste sa na odber upozornení
 auto-scan = Automaticky skenované: dnes
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -107,6 +130,7 @@ info-monitored-emails =
         [few] Počet sledovaných e-mailových adries
        *[other] Počet sledovaných e-mailových adries
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -116,6 +140,7 @@ info-known-breaches-found =
         [few] Počet známych únikov dát, ktoré obsahujú vaše údaje
        *[other] Počet známych únikov dát, ktoré obsahujú vaše údaje
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -125,7 +150,9 @@ info-exposed-passwords-found =
         [few] Počet vašich uniknutých hesiel
        *[other] Počet vašich uniknutých hesiel
     }
+
 full-report-link = Pozrite si úplnú správu v službe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.

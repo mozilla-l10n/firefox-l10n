@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Kvôli úspore miesta na disku nepreberať:">
 <!ENTITY doNotDownloadNntp.label "Kvôli úspore miesta na disku nepreberať pre použitie v režime offline:">
 <!ENTITY doNotDownloadImap.label "Kvôli úspore miesta je možné preberanie správ zo servera a ukladanie ich lokálnych kópii pre použitie v režime offline obmedziť podľa veku alebo veľkosti správ.">
-<!ENTITY allFoldersOffline.label "Ponechať správy tohto účtu v tomto počítači">
-<!ENTITY allFoldersOffline.accesskey "P">
 <!ENTITY allFoldersOffline2.label "Ponechať správy vo všetkých priečinkoch tohto účtu v tomto počítači.">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Poznámka: táto zmena ovplyvní všetky súbory tohto účtu. Ak chcete nastaviť jednotlivé priečinky, použite tlačidlo Rozšírené….">

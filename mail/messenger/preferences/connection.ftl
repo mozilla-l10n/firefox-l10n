@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Použiť poskytovateľa
     .accesskey = s
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (predvolený)
     .tooltiptext = Použiť predvolenú URL pre DNS cez HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Vlastný
     .accesskey = V
     .tooltiptext = Zadajte svoju preferovanú URL pre DNS cez HTTPS
+
 connection-dns-over-https-custom-label = Vlastný

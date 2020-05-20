@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Pridať novú službu na odosielanie príloh">
 <!ENTITY removeCloudFileAccount.label     "Odstrániť">
 <!ENTITY removeCloudFileAccount.accesskey "O">
-<!ENTITY authRequired.description         "Na zobrazenie nastavení tejto službu sa musíte autorizovať.">
-<!ENTITY authRequired.button.label        "Autorizovať">
-<!ENTITY authRequired.button.accesskey    "A">
 
 <!ENTITY findCloudFileProviders.label     "Nájsť ďalších poskytovateľov…">
 

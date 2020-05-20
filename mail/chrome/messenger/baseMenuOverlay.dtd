@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "c">
 <!ENTITY helpSafeMode.label     "Reštartovať a zakázať doplnky…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Poznámky k vydaniu">
-<!ENTITY releaseCmd2.accesskey "P">
-<!ENTITY whatsNewCmd.label "Čo je nové?">
-<!ENTITY whatsNewCmd.accesskey "n">
-<!ENTITY openHelp.label "Obsah pomocníka">
-<!ENTITY openHelp.accesskey "O">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Pomocník aplikácie &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "O aplikácii &brandFullName;">
-<!ENTITY aboutMenuCmd2.accesskey "m">
 <!ENTITY helpSafeMode.stop.label     "Reštartovať s povolenými doplnkami">
 <!ENTITY helpSafeMode.stop.accesskey "R">
 <!ENTITY productHelp.label "Pomocník aplikácie &brandShortName;">

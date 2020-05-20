@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Sockety
 dns = DNS
-dnssuffix = Prípona DNS
 websockets = WebSockety
 refresh = Obnoviť
 auto-refresh = Automaticky obnoviť každé 3 sekundy
 hostname = Názov servera
 port = Port
 http2 = HTTP/2
-about-networking-title = O spojeniach
-about-networking-http = HTTP
-about-networking-sockets = Sockety
-about-networking-dns = DNS
-about-networking-dns-suffix = Prípona DNS
-about-networking-websockets = WebSockety
-about-networking-refresh = Obnoviť
-about-networking-auto-refresh = Automaticky obnoviť každé 3 sekundy
-about-networking-hostname = Názov servera
-about-networking-port = Port
-about-networking-http-version = Verzia HTTP
 ssl = SSL
 active = Aktívny
 idle = Nečinný
@@ -69,8 +57,18 @@ rcwn-avg-long = Dlhodobý priemer
 rcwn-std-dev-long = Dlhodobá smerodajná odchýlka
 rcwn-cache-slow = Počet pomalých prístupov do vyrovnávacej pamäte
 rcwn-cache-not-slow = Počet rýchlych prístupov do vyrovnávacej pamäte
-networkid = ID siete
-networkid-id = ID siete
+
+about-networking-title = O spojeniach
+about-networking-http = HTTP
+about-networking-sockets = Sockety
+about-networking-dns = DNS
+about-networking-dns-suffix = Prípona DNS
+about-networking-websockets = WebSockety
+about-networking-refresh = Obnoviť
+about-networking-auto-refresh = Automaticky obnoviť každé 3 sekundy
+about-networking-hostname = Názov servera
+about-networking-port = Port
+about-networking-http-version = Verzia HTTP
 about-networking-ssl = SSL
 about-networking-active = Aktívny
 about-networking-idle = Nečinný
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID siete
 
 ## Link is intended as "network link"
 
-networkid-isUp = Spojenie je aktívne
-networkid-statusKnown = Stav spojenia nie je známy
 about-networking-networkid-is-up = Spojenie je aktívne
 about-networking-networkid-status-known = Stav spojenia je známy
 

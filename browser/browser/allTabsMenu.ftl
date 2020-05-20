@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Obnoviť zatvorenú kartu
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Hľadať
+
 all-tabs-menu-new-user-context =
     .label = Nová kontajnerová karta
+
 all-tabs-menu-hidden-tabs =
     .label = Skryté karty
+
 all-tabs-menu-manage-user-context =
     .label = Správa kontajnerov
     .accesskey = o

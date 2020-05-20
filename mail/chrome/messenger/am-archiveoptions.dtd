@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Možnosti archivácie">
 <!ENTITY archiveGranularityPrefix.label "Pri archivovaní správy umiestňovať v:">
 <!ENTITY archiveFlat.label "Jednom priečinku">

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Kópie a priečinky">
 <!ENTITY sendingPrefix.label "Pri odosielaní správ automaticky:">
 <!ENTITY fccMailFolder.label "Uložiť kópiu do:">

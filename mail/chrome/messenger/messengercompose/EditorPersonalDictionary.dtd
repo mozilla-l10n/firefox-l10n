@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "P">
 <!ENTITY DictionaryList.label "Slová v slovníku:">
 <!ENTITY DictionaryList.accessKey "S">
-<!ENTITY ReplaceButton.label "Nahradiť">
-<!ENTITY ReplaceButton.accessKey "a">
 <!ENTITY RemoveButton.label "Odstrániť">
 <!ENTITY RemoveButton.accessKey "O">
 

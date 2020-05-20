@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Novo nainštalované rozšírenia budú v súkromných oknách aplikácie { -brand-shorter-name } vypnuté, až dokým ich nezapnete v možnostiach.
 appmenu-addon-private-browsing-learn-more = Ako spravovať rozšírenia.
+    
 appmenu-new-tab-controlled =
     .label = Vaša stránka novej karty bola zmenená.
     .buttonlabel = Zachovať zmeny
