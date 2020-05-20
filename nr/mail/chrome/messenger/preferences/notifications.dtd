@@ -1,13 +1,7 @@
-<!ENTITY notificationsDialog.title "Umdumo Weposo Etja">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.width "30em">
 
-<!ENTITY soundNotification.caption "Hlanganisa Umdumo Weposo Etja">
-<!ENTITY preview.label "Bona umdumo ngaphambili">
-<!ENTITY preview.accesskey "b">
-<!ENTITY systemsound.label "Ihlelo Lomdumo Weposo Etja">
-<!ENTITY systemsoundMac.label "Umdumo Wehlelo Wokuyelelisa">
-<!ENTITY systemsound.accesskey "i">
-<!ENTITY customsound.label "Jayeza.ifayili yewav">
-<!ENTITY customsound.accesskey "J">
-<!ENTITY browse.label "Funafuna...">
-<!ENTITY browse.accesskey "F">

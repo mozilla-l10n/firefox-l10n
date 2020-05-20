@@ -9,13 +9,19 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-text-and-background = Umtlolo nangemuva kwawo
+
 colors-use-system =
     .label = Sebenzisa ihlelo lemibala
     .accesskey = s
+
 colors-underline-links =
     .label = Dwebela ihlanganiso
     .accesskey = d
+
 colors-links-header = Hlanganisa imibala
+

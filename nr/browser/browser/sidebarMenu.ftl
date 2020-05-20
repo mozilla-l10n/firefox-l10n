@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Amatshwayo weencwadi
+
 sidebar-menu-history =
     .label = Umlando
+

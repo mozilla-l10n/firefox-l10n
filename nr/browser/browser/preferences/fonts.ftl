@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Ubukhulu beenhlavu
+
 fonts-window-close =
     .key = w
 
@@ -58,6 +59,7 @@ fonts-default-serif =
     .label = I-Serifu
 fonts-default-sans-serif =
     .label = I-Sansi Serifu
+
 fonts-minsize-none =
     .label = Akunalitho
 

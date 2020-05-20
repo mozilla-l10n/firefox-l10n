@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY editMenu.label "Lungisa">
 <!ENTITY editMenu.accesskey "l">
 <!ENTITY undoCmd.label "Qhaqhulula">
@@ -20,6 +24,7 @@
 <!ENTITY selectAllCmd.label "Khetha A">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "k">
+
 <!ENTITY findCmd.label "Thola">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "T">

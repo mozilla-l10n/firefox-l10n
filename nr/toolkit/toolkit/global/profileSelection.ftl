@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Khetha Iphrofayili Yomsebenzisi
+
 profile-selection-button-accept =
     .label = Thoma { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Phuma
+
 profile-selection-new-button =
     .label = Yakha Iphrofayili...
     .accesskey = Y
+
 profile-selection-rename-button =
     .label = Thiya Kabutjha Iphrofayili...
     .accesskey = T
+
 profile-selection-delete-button =
     .label = Sula Iphrofayili...
     .accesskey = S
@@ -21,6 +26,8 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } ibulunga imininingwana ngezakhiwo zakho, ukukhetha, nezinye iinhloko ozisebenzisako kuphrofayili yomsebenzisi.
+
 profile-manager-work-offline =
     .label = Sebenza ngaphandle kwelayini
     .accesskey = s
+

@@ -35,9 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Window.title "Itafula Lokumumethwe">
 <!ENTITY buildToc.label "Yakha Itafula Lokumumethwe kusukela ku:">
-<!ENTITY style.label "Isitayela:">
 <!ENTITY tag.label "Isilengisi:">
 <!ENTITY class.label "Iklasi:">
 <!ENTITY header1.label "Ubujamo 1">

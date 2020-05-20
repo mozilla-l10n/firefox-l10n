@@ -4,19 +4,25 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-auto =
     .label = Izakhiwo zokuzwa ngokuzenzakalela zehlanganiso leli
     .accesskey = i
+
 connection-proxy-http-share =
     .label = Sebenzisa isijamelesi mayelana neemvumelwano zoke
     .accesskey = s
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Isibonelo: .mozilla.org, .net.za, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Reload
     .accesskey = e
+

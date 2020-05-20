@@ -1,4 +1,9 @@
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY migrationWizard.title "Ngenisa Isihlakaniphi Ngaphakathi">
 
 <!ENTITY importFrom.label "Ngenisa Ikhetho Ngaphakathi, Itshwayo leencwadi, Umlando, Iinomboro zokungena neminye imininingwane kusukela:">
@@ -7,32 +12,10 @@
 
 <!ENTITY importFromIE.label "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey "M">
-<!ENTITY importFromPhoenix.label "I-Firefox 0.8, I-Firebird namkha Phoenix">
-<!ENTITY importFromPhoenix.accesskey "P">
 <!ENTITY importFromNothing.label "Ungangenisi litho ngaphakathi">
 <!ENTITY importFromNothing.accesskey "U">
-<!ENTITY importFromSeamonkey.label "Netscape 6, 7 namkha Mozilla 1.x">
-<!ENTITY importFromSeamonkey.accesskey "N">
-<!ENTITY importFromNetscape4.label "Netscape 4.x">
-<!ENTITY importFromNetscape4.accesskey "4">
-<!ENTITY importFromOpera.label "Opera">
-<!ENTITY importFromOpera.accesskey "O">
-<!ENTITY importFromCamino.label "Camino">
-<!ENTITY importFromCamino.accesskey "C">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromOmniWeb.label "OmniWeb">
-<!ENTITY importFromOmniWeb.accesskey "W">
-<!ENTITY importFromICab.label "iCab">
-<!ENTITY importFromICab.accesskey "i">
-<!ENTITY importFromKonqueror.label "Konqueror">
-<!ENTITY importFromKonqueror.accesskey "K">
-<!ENTITY importFromEpiphany.label "Epiphany">
-<!ENTITY importFromEpiphany.accesskey "E">
-<!ENTITY importFromGaleon.label "Galeon">
-<!ENTITY importFromGaleon.accesskey "G">
-<!ENTITY importFromFile.label "Kusukela kufayili">
-<!ENTITY importFromFile.accesskey "K">
 
 <!ENTITY noMigrationSources.label "No programs that contain bookmarks, history or password data could be found.">
 

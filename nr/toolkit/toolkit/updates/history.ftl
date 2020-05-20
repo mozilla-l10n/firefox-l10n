@@ -3,27 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Umlando okhambisana nesikhathi
+
 close-button-label =
     .buttonlabelcancel = Vala
     .title = Umlando okhambisana nesikhathi
+
 no-updates-label = Okukhambisana nesikhathi okukabukufakwa
 name-header = Ibizo lokukhambisana nesikhathi
 date-header = Faka Ilanga
 type-header = Thayipha
 state-header = Ubujamo
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Imininingwana
 update-installed-on = Ifakwe ku: { $date }
 update-status = Ubujamo: { $status }

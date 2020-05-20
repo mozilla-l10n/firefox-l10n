@@ -4,10 +4,13 @@
 
 category-general =
     .tooltiptext = { pane-general-title }
+
 category-search =
     .tooltiptext = { pane-search-title }
+
 category-privacy =
     .tooltiptext = { pane-privacy-title }
+
 close-button =
     .aria-label = Vala
 
@@ -32,12 +35,15 @@ close-button =
 
 startup-header = Startup
 
+
 ## General Section - Language & Appearance
 
 fonts-and-colors-header = Ubukhulu beenhlavu & Imibala
+
 advanced-fonts =
     .label = Okungaphezulu...
     .accesskey = o
+
 colors-settings =
     .label = Imibala...
     .accesskey = I
@@ -45,9 +51,11 @@ colors-settings =
 ## General Section - Files and Applications
 
 download-header = Downloads
+
 download-save-to =
     .label = Save files to
     .accesskey = v
+
 download-choose-folder =
     .label =
         { PLATFORM() ->
@@ -59,13 +67,17 @@ download-choose-folder =
             [macos] e
            *[other] o
         }
+
 # Variables:
 #   $extension (String) - file extension (e.g .TXT)
 applications-file-ending = Ifayili { $extension }
+
 applications-select-helper = Khetha Isisetjenziswa Sokusiza
+
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
+
 # Variables:
 #   $type-description (String) - Description of the type (e.g "Portable Document Format")
 #   $type (String) - the MIME type (e.g application/binary)
@@ -77,16 +89,22 @@ applications-type-description-with-type = { $type-description } ({ $type })
 
 applications-use-plugin-in-label =
     .value = { applications-use-plugin-in.label }
+
 applications-action-save-label =
     .value = { applications-action-save.label }
+
 applications-use-app-label =
     .value = { applications-use-app.label }
+
 applications-preview-inapp-label =
     .value = { applications-preview-inapp.label }
+
 applications-always-ask-label =
     .value = { applications-always-ask.label }
+
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
+
 applications-use-other-label =
     .value = { applications-use-other.label }
 
@@ -99,12 +117,15 @@ applications-use-other-label =
 ## General Section - Browsing
 
 browsing-title = Ukufunafuna
+
 browsing-use-autoscroll =
     .label = Use autoscrolling
     .accesskey = a
+
 browsing-use-smooth-scrolling =
     .label = Sebenza ifunisiso elingatshwenyiko
     .accesskey = e
+
 browsing-use-cursor-navigation =
     .label = Always use the cursor keys to navigate within pages
     .accesskey = c
@@ -144,16 +165,33 @@ use-current-pages =
 ## Sync Section - Signed out
 
 
+## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
+## more discrete ("signed in" no longer means "and sync is connected").
+
 ## Sync Section - Signed in
 
+
+## Firefox Account - Signed in
+
+## Sync section - enabling or disabling sync.
+
+## The list of things currently syncing.
+
+## The "Choose what to sync" dialog.
+
+## The device name controls.
 
 ## Privacy Section
 
 
 ## Privacy Section - Forms
 
+## Privacy Section - Logins and Passwords
+
 forms-master-pw-fips-title = Kwagades ukumhlobo weFIPS. IFIPS idinga inomboro yokungena elawulako enelitho.
 forms-master-pw-fips-desc = Ukutjhugululwa Kwenomboro Yokungena Kuhlulekile
+
+## OS Authentication dialog
 
 ## Privacy Section - History
 
@@ -196,3 +234,4 @@ forms-master-pw-fips-desc = Ukutjhugululwa Kwenomboro Yokungena Kuhlulekile
 
 desktop-folder-name = Umpheme Wekhomphyutha
 choose-download-folder-title = Khetha Imvilobhu Yokukhuphela:
+

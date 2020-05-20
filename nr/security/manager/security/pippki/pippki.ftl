@@ -8,6 +8,7 @@ password-quality-meter = Imitha yekhwalithi yenomboro yokungena
 
 change-password-window =
     .title = Tjhugulula Inomboro yokungena Elawulako
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Isisetjenziswa Sevikelo: { $tokenName }

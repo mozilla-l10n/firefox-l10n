@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY newprofile.title "Yakha Umlando Wesihlakaniphi">
 <!ENTITY window.size "width: 45em; height: 32em;">
 <!-- First wizard page -->
@@ -12,7 +16,6 @@
 <!ENTITY profileCreationIntro.text "Nawakha imilando eminengana ungayitjela ngokuhlukeneko ngamabizo wemilando ungasebenzisa. Ibzo elinikelwe lapha nanyana usebenzise lakho.">
 <!ENTITY profilePrompt.label "Tlola ibizo elinye lomlando:">
 <!ENTITY profilePrompt.accesskey "T">
-<!ENTITY profileDirExplanation.text "Izakhiwo zakho zomsebenzisi, zokukhetha, amatshwayo weencwadi neposo zizakubulunga ngaphakathi:">
 <!ENTITY profileDefaultName "Umsebenzisi ongakavumeleki">
 <!ENTITY button.choosefolder.label "Khetha Imvilobhu...">
 <!ENTITY button.choosefolder.accesskey "K">

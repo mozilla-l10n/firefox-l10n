@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY emailSectionHdr.label "iImeyili">
 <!ENTITY readMsgsLink.label "Funda imilayezo">
 <!ENTITY composeMsgLink.label "Tlola umlayezo omutjha">
@@ -8,7 +12,6 @@
 <!ENTITY accountsSectionHdr.label "Accounts">
 <!ENTITY subscribeImapFolders.label "Manage folder subscriptions">
 <!ENTITY settingsLink.label "Bona izakhiwo ze-akhawundi le">
-<!ENTITY newAcctLink.label "Yakha i-akhawundi etja">
 
 <!ENTITY advFeaturesSectionHdr.label "Izimo Ezisezingeni Eliphezulu">
 <!ENTITY searchMsgsLink.label "Rhubhulula imilayezo">
@@ -17,5 +20,3 @@
 <!ENTITY offlineLink.label "Izakhiwo zokuphuma elayinini">
 
 
-<!ENTITY rssSectionHdr.label "Iindaba zeRSS &amp; Amablogo">
-<!ENTITY subscibeRSS.label "Phatha Iboleko">

@@ -5,23 +5,30 @@
 permissions-window =
     .title = Okungaphandle
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Block
     .accesskey = B
+
 permissions-session =
     .label = Allow for Session
     .accesskey = S
+
 permissions-allow =
     .label = Allow
     .accesskey = A
+
 permissions-status =
     .label = Izinga
+
 permissions-capabilities-allow =
     .label = Vumela
 permissions-capabilities-block =
     .label = Vala
+
 permissions-capabilities-listitem-allow =
     .value = Vumela
 permissions-capabilities-listitem-block =
@@ -54,11 +61,15 @@ permissions-exceptions-addons-desc = You can specify which web sites are allowed
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 
