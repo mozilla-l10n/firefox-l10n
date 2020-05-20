@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Izbira uporabniškega profila
+
 profile-selection-button-accept =
     .label = Zaženi { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Izhod
+
 profile-selection-new-button =
     .label = Ustvari profil …
     .accesskey = V
+
 profile-selection-rename-button =
     .label = Preimenuj profil …
     .accesskey = R
+
 profile-selection-delete-button =
     .label = Izbriši profil …
     .accesskey = B
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } shrani informacije o nastavitvah, zaznamkih in drugih uporabniških elementih v vašem uporabniškem profilu.
+
 profile-manager-work-offline =
     .label = Brez povezave
     .accesskey = v
+
 profile-manager-use-selected =
     .label = Uporabi izbran profil brez spraševanja ob zagonu
     .accesskey = s

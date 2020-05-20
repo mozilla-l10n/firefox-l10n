@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Prenesite ga z Google Play
 login-app-promo-apple =
     .alt = Prenesite ga z App Stora
+
 login-filter =
     .placeholder = Iskanje prijav
+
 create-login-button = Ustvari novo prijavo
+
 fxaccounts-sign-in-text = Imejte dostop do gesel z vseh svojih naprav
 fxaccounts-sign-in-button = Prijava v { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -109,20 +112,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Potrdite svojo identiteto za urejanje shranjene prijave.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Če želite urediti svojo prijavo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = uredi shranjeno prijavo
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Potrdite svojo identiteto za prikaz shranjenega gesla.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Če si želite ogledati geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = pokaži shranjeno geslo
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Potrdite svojo identiteto za kopiranje shranjenega gesla.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Če želite kopirati geslo, vnesite svoje podatke za prijavo v sistem Windows. To pomaga zaščititi varnost vaših računov.
 # This message can be seen when attempting to copy a password in about:logins
@@ -159,9 +167,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Prekliči
 confirmation-dialog-dismiss-button =
     .title = Prekliči
+
 about-logins-confirm-remove-dialog-title = Odstranim to prijavo?
 confirm-delete-dialog-message = Tega dejanja ni mogoče razveljaviti.
 about-logins-confirm-remove-dialog-confirm-button = Odstrani
+
 confirm-discard-changes-dialog-title = Zavržem neshranjene spremembe?
 confirm-discard-changes-dialog-message = Vse neshranjene spremembe bodo izgubljene.
 confirm-discard-changes-dialog-confirm-button = Prezri
@@ -192,5 +202,6 @@ about-logins-vulnerable-alert-learn-more-link = Več o tem
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Vnos za { $loginTitle } s tem uporabniškim imenom že obstaja. <a data-l10n-name="duplicate-link">Odprem obstoječi vnos?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Med poskusom shranjevanja tega gesla se je pojavila napaka.

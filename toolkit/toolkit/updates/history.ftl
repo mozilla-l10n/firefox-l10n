@@ -4,27 +4,24 @@
 
 history-title = Zgodovina posodobitev
 history-intro = Namestili ste naslednje posodobitve
+
 close-button-label =
     .buttonlabelcancel = Zapri
     .title = Zgodovina posodobitev
+
 no-updates-label = Doslej niste namestili nobene posodobitve
 name-header = Ime posodobitve
 date-header = Datum namestitve
 type-header = Vrsta
 state-header = Stanje
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Podrobnosti
 update-installed-on = Datum namestitve: { $date }
 update-status = Stanje: { $status }

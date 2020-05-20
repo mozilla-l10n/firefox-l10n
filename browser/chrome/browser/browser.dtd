@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Odpri mesto v vrstici z naslovom">
+
 <!ENTITY printButton.label            "Natisni">
 <!ENTITY printButton.tooltip          "Natisni to stran">
 
@@ -288,6 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
+
 
 <!ENTITY searchItem.title             "Iskanje">
 
@@ -352,6 +354,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "v">
 <!ENTITY manageUserContext.label          "Upravljanje vsebnikov">
 <!ENTITY manageUserContext.accesskey      "U">
+
 <!ENTITY newNavigatorCmd.label        "Novo okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -630,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Shrani v Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Shrani stran v Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "s">
 <!ENTITY saveLinkToPocketCmd.label    "Shrani povezavo v Pocket">
@@ -1022,6 +1026,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Zapri">
 

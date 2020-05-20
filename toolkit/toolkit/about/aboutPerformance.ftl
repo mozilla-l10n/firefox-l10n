@@ -54,6 +54,7 @@ close-tab =
     .title = Zapri zavihek
 show-addon =
     .title = Prikaži v upravitelju dodatkov
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

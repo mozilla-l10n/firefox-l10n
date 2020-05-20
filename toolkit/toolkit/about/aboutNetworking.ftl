@@ -9,24 +9,12 @@ ok = V redu
 http = HTTP
 sockets = Vtičnice
 dns = DNS
-dnssuffix = Pripona DNS
 websockets = WebSockets
 refresh = Osveži
 auto-refresh = Samodejno osveži vsake 3 sekunde
 hostname = Ime gostitelja
 port = Vrata
 http2 = HTTP/2
-about-networking-title = O omrežjih
-about-networking-http = HTTP
-about-networking-sockets = Vtičnice
-about-networking-dns = DNS
-about-networking-dns-suffix = Pripona DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = Osveži
-about-networking-auto-refresh = Samodejno osveži vsake 3 sekunde
-about-networking-hostname = Ime gostitelja
-about-networking-port = Vrata
-about-networking-http-version = Različica HTTP
 ssl = SSL
 active = Aktivno
 idle = Mirovanje
@@ -69,8 +57,18 @@ rcwn-avg-long = Dolgo povprečje
 rcwn-std-dev-long = Dolg standardni odklon
 rcwn-cache-slow = Število počasnih delovanj diska
 rcwn-cache-not-slow = Število hitrih delovanj diska
-networkid = ID omrežja
-networkid-id = ID omrežja
+
+about-networking-title = O omrežjih
+about-networking-http = HTTP
+about-networking-sockets = Vtičnice
+about-networking-dns = DNS
+about-networking-dns-suffix = Pripona DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Osveži
+about-networking-auto-refresh = Samodejno osveži vsake 3 sekunde
+about-networking-hostname = Ime gostitelja
+about-networking-port = Vrata
+about-networking-http-version = Različica HTTP
 about-networking-ssl = SSL
 about-networking-active = Aktivno
 about-networking-idle = Mirovanje
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID omrežja
 
 ## Link is intended as "network link"
 
-networkid-isUp = Povezava je vzpostavljena
-networkid-statusKnown = Stanje povezave je znano
 about-networking-networkid-is-up = Povezava je vzpostavljena
 about-networking-networkid-status-known = Stanje povezave je znano
 

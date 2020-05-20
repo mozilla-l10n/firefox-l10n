@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Možnosti za arhiviranje">
 <!ENTITY archiveGranularityPrefix.label "Pri arhiviranju shrani sporočila v:">
 <!ENTITY archiveFlat.label "eno samo mapo">

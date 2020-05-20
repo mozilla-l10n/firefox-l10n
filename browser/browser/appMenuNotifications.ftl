@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = z
 appmenu-addon-private-browsing-message = Nove razširitve, ki jih boste dodali v { -brand-shorter-name }, ne bodo delovale v zasebnih oknih, razen če to dovolite v možnostih.
 appmenu-addon-private-browsing-learn-more = Več o upravljanju možnosti razširitev.
+    
 appmenu-new-tab-controlled =
     .label = Stran novega zavihka se je spremenila.
     .buttonlabel = Ohrani spremembe

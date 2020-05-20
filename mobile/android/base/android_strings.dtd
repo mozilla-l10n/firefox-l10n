@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "Lokacijske storitve &vendorShortName; so zagnane">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Samodejne posodobitve">
-<!ENTITY pref_update_autodownload_wifi "Samo preko Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Onemogočeno">
-<!ENTITY pref_update_autodownload_always "Omogočeno">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Pomoč">
 
@@ -748,25 +740,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Zaznamki in zgodovina">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Na voljo je posodobitev za &brandShortName;">
-<!ENTITY updater_start_select2 "Tapnite za prenos">
-
-<!ENTITY updater_downloading_title2 "Prenašanje &brandShortName;a">
-<!ENTITY updater_downloading_title_failed2 "Prenos neuspešen">
-<!ENTITY updater_downloading_select2 "Tapnite za uveljavitev posodobitve, ko se prenese">
-<!ENTITY updater_downloading_retry2 "Tapnite za ponovni poskus">
-
-<!ENTITY updater_apply_title3 "Prenesena posodobitev za &brandShortName;">
-<!ENTITY updater_apply_select3 "Tapnite za namestitev">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Za prenos datotek in posodobitev &brandShortName;u omogočite dovoljenje za dostop do shrambe.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Dovoli">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Nova gostujoča seja">
 <!ENTITY exit_guest_session "Izhod iz gostujoče seje">
@@ -951,7 +924,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Zvok in video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Nasveti in triki &vendorShortName;a">
-<!ENTITY updater_notification_channel "Posodobitve aplikacije">
 <!ENTITY synced_tabs_notification_channel "Sinhronizirani zavihki">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

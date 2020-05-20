@@ -15,19 +15,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "R">
 <!ENTITY helpSafeMode.label     "Ponovno zaženi z onemogočenimi dodatki …">
 <!ENTITY helpSafeMode.accesskey "P">
-<!ENTITY releaseCmd2.label "Opombe ob izdaji">
-<!ENTITY releaseCmd2.accesskey "m">
-<!ENTITY whatsNewCmd.label "Novosti">
-<!ENTITY whatsNewCmd.accesskey "N">
-<!ENTITY openHelp.label "Vsebina pomoči">
-<!ENTITY openHelp.accesskey "V">
-<!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac2.label "Pomoč za &brandFullName;">
-<!ENTITY openHelpMac2.commandkey   "?">
-<!ENTITY openHelpMac2.modifiers    "accel">
 
-<!ENTITY aboutMenuCmd2.label "O &brandFullName;u">
-<!ENTITY aboutMenuCmd2.accesskey "O">
 <!ENTITY helpSafeMode.stop.label     "Ponovno zaženi z omogočenimi dodatki">
 <!ENTITY helpSafeMode.stop.accesskey "n">
 <!ENTITY productHelp.label "Pomoč za &brandShortName;">

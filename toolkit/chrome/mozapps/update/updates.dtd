@@ -51,7 +51,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; ne uspe preveriti, ali je na voljo posodobitev.
                                            Prepričajte se, da uporabljate najnovejšo različico &brandShortName;a:">
-
+                                           
 <!ENTITY  finishedPage.title              "Posodobitev je na voljo">
 <!ENTITY  finishedPage.text               "Posodobitev bo nameščena, ko boste naslednjič zagnali &brandShortName;. To lahko 
                                            storite zdaj ali nadaljujete z delom in ga ponovno zaženete pozneje.">
@@ -67,6 +67,3 @@
                                            lahko ponovno zaženete zdaj, nadaljujete z delom in ga ponovno zaženete
                                            pozneje ali zavrnete to posodobitev.">
 
-<!ENTITY  update.details.label            "Podrobnosti">
-<!ENTITY  update.installedOn.label        "Datum namestitve:">
-<!ENTITY  update.status.label             "Stanje:">

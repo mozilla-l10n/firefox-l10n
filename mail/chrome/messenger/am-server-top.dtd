@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Samodejno prenesi nova sporočila">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Vaše prijavno ime">
 <!ENTITY deleteMessagePrefix.label "Ko izbrišem sporočilo:">
 <!ENTITY modelMoveToTrash.label "ga premakni v mapo:">
 <!ENTITY modelMoveToTrash.accesskey "r">

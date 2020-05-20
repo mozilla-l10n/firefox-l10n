@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Brez posrednika za:">
 <!ENTITY  noproxy.accesskey             "e">
 <!ENTITY  noproxyExplain.label          "Primer: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Uporabi isti posrednik za vse protokole">
+<!ENTITY  shareproxy.accesskey          "k">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Povezave na localhost, 127.0.0.1 in ::1 niso nikoli usmerjene preko posrednika.">
-<!ENTITY  shareproxy.label              "Uporabi isti posrednik za vse protokole">
-<!ENTITY  shareproxy.accesskey          "k">
 <!ENTITY  proxyHttpSharing.label        "Uporabi ta posrednik tudi za HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "z">
 <!ENTITY  autologinproxy.label          "Brez overjanja, če je geslo shranjeno">

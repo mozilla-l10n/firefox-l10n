@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "D">
 <!ENTITY DictionaryList.label "Besede v slovarju:">
 <!ENTITY DictionaryList.accessKey "B">
-<!ENTITY ReplaceButton.label "Zamenjaj">
-<!ENTITY ReplaceButton.accessKey "Z">
 <!ENTITY RemoveButton.label "Odstrani">
 <!ENTITY RemoveButton.accessKey "O">
 

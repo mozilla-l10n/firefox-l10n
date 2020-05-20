@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Zapri
     .accesskey = Z
+
 show-passwords =
     .label = Pokaži gesla
     .accesskey = P
