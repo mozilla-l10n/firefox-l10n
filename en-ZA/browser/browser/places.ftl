@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Open in a New Private Window
     .accesskey = P
+
 places-new-bookmark =
     .label = New Bookmark…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = New Separator
     .accesskey = S
+
 places-view =
     .label = View
     .accesskey = w
@@ -47,6 +49,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = By Date and Site
     .accesskey = t
+
 places-delete-domain-data =
     .label = Forget About This Site
     .accesskey = F

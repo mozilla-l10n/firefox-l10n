@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Runtime Info">
 
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Device Preferences">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Device Settings">
@@ -53,7 +51,9 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Open App">
+
 <!ENTITY runtimeButton_label "Select Runtime">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -75,10 +75,7 @@
 <!ENTITY projectPanel_tabs "Tabs">
 <!ENTITY runtimePanel_usb "USB Devices">
 <!ENTITY runtimePanel_wifi "Wi-Fi Devices">
-<!ENTITY runtimePanel_simulator "Simulators">
 <!ENTITY runtimePanel_other "Other">
-<!ENTITY runtimePanel_installsimulator "Install Simulator">
-<!ENTITY runtimePanel_noadbhelper "Install ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Can't see your device?">
 <!ENTITY runtimePanel_refreshDevices_label "Refresh Devices">
 <!-- Lense -->
@@ -96,6 +93,8 @@
 <!ENTITY newAppHeader "Select template">
 <!ENTITY newAppLoadingTemplate "Loading templates…">
 <!ENTITY newAppProjectName "Project Name:">
+
+
 <!-- Decks -->
 
 
@@ -121,12 +120,6 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Runtime Info">
-<!ENTITY runtimedetails_adbIsRoot "ADB is root: ">
-<!ENTITY runtimedetails_summonADBRoot "root device">
-<!ENTITY runtimedetails_ADBRootWarning "(requires unlocked bootloader)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Unrestricted DevTools privileges: ">
-<!ENTITY runtimedetails_requestPrivileges "request higher privileges">
-<!ENTITY runtimedetails_privilegesWarning "(Will reboot device. Requires root access.)">
 <!-- Device Preferences and Settings -->
 
 <!ENTITY device_typeboolean "Boolean">
@@ -150,8 +143,6 @@
 <!ENTITY devicesetting_addnew "Add new setting">
 <!-- Monitor -->
 
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Help">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -176,17 +167,3 @@
 <!ENTITY logs_title "Pre-packaging Command Logs">
 <!-- Simulator Options -->
 
-<!ENTITY simulator_title "Simulator Options">
-<!ENTITY simulator_remove "Delete Simulator">
-<!ENTITY simulator_reset "Restore Defaults">
-
-<!ENTITY simulator_software "Software">
-<!ENTITY simulator_version "Version">
-<!ENTITY simulator_profile "Profile">
-<!ENTITY simulator_hardware "Hardware">
-<!ENTITY simulator_device "Device">
-<!ENTITY simulator_screenSize "Screen">
-<!ENTITY simulator_pixelRatio "Pixel Ratio">
-<!ENTITY simulator_tv_data "TV Simulation">
-<!ENTITY simulator_tv_data_open "Config Data">
-<!ENTITY simulator_tv_data_open_button "Open Config Directory…">

@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = View site information
 
@@ -34,6 +35,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -57,6 +59,7 @@ full-screen-exit =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Change Search Settings
+
 search-one-offs-context-open-new-tab =
     .label = Search in New Tab
     .accesskey = T
@@ -129,5 +132,6 @@ urlbar-placeholder =
     .placeholder = Search or enter address
 urlbar-switch-to-tab =
     .value = Switch to tab:
+
 urlbar-go-button =
     .tooltiptext = Go to the address in the Location Bar

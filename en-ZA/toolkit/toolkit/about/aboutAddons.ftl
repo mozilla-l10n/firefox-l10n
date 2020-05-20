@@ -4,39 +4,55 @@
 
 addons-window =
     .title = Add-ons Manager
+
 addons-page-title = Add-ons Manager
+
 search-header-shortcut =
     .key = f
+
 loading-label =
     .value = Loading…
+
 list-empty-installed =
     .value = You don't have any add-ons of this type installed
+
 list-empty-available-updates =
     .value = No updates found
+
 list-empty-recent-updates =
     .value = You haven't recently updated any add-ons
+
 list-empty-find-updates =
     .label = Check For Updates
+
 list-empty-button =
     .label = Learn more about add-ons
+
 install-addon-from-file =
     .label = Install Add-on From File…
     .accesskey = I
+
 tools-menu =
     .tooltiptext = Tools for all add-ons
+
 show-unsigned-extensions-button =
     .label = Some extensions could not be verified
+
 show-all-extensions-button =
     .label = Show all extensions
+
 debug-addons =
     .label = Debug Add-ons
     .accesskey = b
+
 cmd-show-details =
     .label = Show More Information
     .accesskey = S
+
 cmd-find-updates =
     .label = Find Updates
     .accesskey = F
+
 cmd-preferences =
     .label =
         { PLATFORM() ->
@@ -48,50 +64,70 @@ cmd-preferences =
             [windows] O
            *[other] P
         }
+
 cmd-enable-theme =
     .label = Wear Theme
     .accesskey = W
+
 cmd-disable-theme =
     .label = Stop Wearing Theme
     .accesskey = W
+
 cmd-install-addon =
     .label = Install
     .accesskey = I
+
 cmd-contribute =
     .label = Contribute
     .accesskey = C
     .tooltiptext = Contribute to the development of this add-on
+
 discover-title = What are Add-ons?
+
 discover-description = Add-ons are applications that let you personalise { -brand-short-name } with extra functionality or style. Try a time-saving sidebar, a weather notifier, or a themed look to make { -brand-short-name } your own.
+
 discover-footer = When you're connected to the internet, this pane will feature some of the best and most popular add-ons for you to try out.
+
 detail-version =
     .label = Version
+
 detail-last-updated =
     .label = Last Updated
+
 detail-contributions-description = The developer of this add-on asks that you help support its continued development by making a small contribution.
+
 detail-update-type =
     .value = Automatic Updates
+
 detail-update-default =
     .label = Default
     .tooltiptext = Automatically install updates only if that's the default
+
 detail-update-automatic =
     .label = On
     .tooltiptext = Automatically install updates
+
 detail-update-manual =
     .label = Off
     .tooltiptext = Don't automatically install updates
+
 detail-home =
     .label = Homepage
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository =
     .label = Add-on Profile
+
 detail-repository-value =
     .value = { detail-repository.label }
+
 detail-check-for-updates =
     .label = Check for Updates
     .accesskey = f
     .tooltiptext = Check for updates for this add-on
+
 detail-show-preferences =
     .label =
         { PLATFORM() ->
@@ -108,21 +144,30 @@ detail-show-preferences =
             [windows] Change this add-on's options
            *[other] Change this add-on's preferences
         }
+
 detail-rating =
     .value = Rating
+
 addon-restart-now =
     .label = Restart now
+
 disabled-unsigned-heading =
     .value = Some add-ons have been disabled
+
 disabled-unsigned-description = The following add-ons have not been verified for use in { -brand-short-name }. You can <label data-l10n-name="find-addons">find replacements</label> or ask the developer to get them verified.
+
 disabled-unsigned-learn-more = Learn more about our efforts to help keep you safe online.
+
 disabled-unsigned-devinfo = Developers interested in getting their add-ons verified can continue by reading our <label data-l10n-name="learn-more">manual</label>.
+
 extensions-view-recent-updates =
     .name = Recent Updates
     .tooltiptext = { extensions-view-recent-updates.name }
+
 extensions-view-available-updates =
     .name = Available Updates
     .tooltiptext = { extensions-view-available-updates.name }
+
 addon-category-extension = Extensions
 addon-category-extension-title =
     .title = Extensions
@@ -148,20 +193,25 @@ extensions-warning-safe-mode-label =
     .value = All add-ons have been disabled by safe mode.
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-label =
     .value = Add-on compatibility checking is disabled. You may have incompatible add-ons.
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-check-compatibility-enable =
     .label = Enable
     .tooltiptext = Enable add-on compatibility checking
+
 extensions-warning-update-security-label =
     .value = Add-on update security checking is disabled. You may be compromised by updates.
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 extensions-warning-update-security-enable =
     .label = Enable
     .tooltiptext = Enable add-on update security checking
+
 extensions-warning-safe-mode = All add-ons have been disabled by safe mode.
 extensions-warning-check-compatibility = Add-on compatibility checking is disabled. You may have incompatible add-ons.
 extensions-warning-check-compatibility-button = Enable
@@ -170,14 +220,17 @@ extensions-warning-update-security = Add-on update security checking is disabled
 extensions-warning-update-security-button = Enable
     .title = Enable add-on update security checking
 
+
 ## Strings connected to add-on updates
 
 extensions-updates-check-for-updates =
     .label = Check for Updates
     .accesskey = C
+
 extensions-updates-view-updates =
     .label = View Recent Updates
     .accesskey = V
+
 addon-updates-check-for-updates = Check for Updates
     .accesskey = C
 addon-updates-view-updates = View Recent Updates
@@ -189,6 +242,7 @@ addon-updates-view-updates = View Recent Updates
 extensions-updates-update-addons-automatically =
     .label = Update Add-ons Automatically
     .accesskey = A
+
 addon-updates-update-addons-automatically = Update Add-ons Automatically
     .accesskey = A
 
@@ -201,9 +255,11 @@ addon-updates-update-addons-automatically = Update Add-ons Automatically
 extensions-updates-reset-updates-to-automatic =
     .label = Reset All Add-ons to Update Automatically
     .accesskey = R
+
 extensions-updates-reset-updates-to-manual =
     .label = Reset All Add-ons to Update Manually
     .accesskey = R
+
 addon-updates-reset-updates-to-automatic = Reset All Add-ons to Update Automatically
     .accesskey = R
 addon-updates-reset-updates-to-manual = Reset All Add-ons to Update Manually
@@ -226,6 +282,7 @@ extensions-updates-manual-updates-found =
 extensions-updates-update-selected =
     .label = Install Updates
     .tooltiptext = Install available updates in this list
+
 addon-updates-updating = Updating add-ons
 addon-updates-installed = Your add-ons have been updated.
 addon-updates-none-found = No updates found

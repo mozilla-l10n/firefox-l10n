@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonts
+
 fonts-window-close =
     .key = w
 
@@ -73,6 +74,7 @@ fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-minsize-none =
     .label = None
 
@@ -83,6 +85,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-header = Text Encoding for Legacy Content
 fonts-languages-fallback-desc = This text encoding is used for legacy content that fails to declare its encoding.
+
 fonts-languages-fallback-name-auto =
     .label = Default for Current Locale
 fonts-languages-fallback-name-arabic =
@@ -115,9 +118,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = Other (incl. Western European)
-fonts-very-large-warning-title = Large minimum font size
-fonts-very-large-warning-message = You have selected a very large minimum font size (more than 24 pixels). This may make it difficult or impossible to use some important configuration pages like this one.
-fonts-very-large-warning-accept = Keep my changes anyway
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
