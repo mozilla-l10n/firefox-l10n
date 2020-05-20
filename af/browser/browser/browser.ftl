@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Wys werfinligting
 
@@ -54,10 +55,12 @@ urlbar-microphone-blocked =
     .tooltiptext = U het die mikrofoon geblok vir dié webwerf.
 urlbar-screen-blocked =
     .tooltiptext = U het dié webwerf geblok om die skerm te deel.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigeer hierdie boekmerk ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -83,6 +86,7 @@ search-one-offs-change-settings-button =
     .label = Verander soekinstellings
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Verander soekinstellings
+
 search-one-offs-context-open-new-tab =
     .label = Soek in nuwe oortjie
     .accesskey = t
@@ -159,8 +163,10 @@ urlbar-placeholder =
     .placeholder = Soek of tik adres in
 urlbar-switch-to-tab =
     .value = Verwissel na oortjie:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Uitbreiding:
+
 urlbar-go-button =
     .tooltiptext = Gaan na die adres in die adresbalk

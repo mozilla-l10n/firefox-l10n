@@ -1,11 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 
 <!ENTITY windowTitle.label "Rekeningslimmerd">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
+<!-- Entities for Account Type page -->
+
 <!-- Entities for Account Type page -->
 <!ENTITY accountTypeTitle.label "Stel nuwe rekening op">
 
@@ -14,12 +18,14 @@
 <!ENTITY accountTypeMail.accesskey "p">
 <!ENTITY accountTypeNews.label "Nuusgroeprekening">
 <!ENTITY accountTypeNews.accesskey "u">
+
 <!-- Entities for Identity page -->
 
 
 <!ENTITY identityTitle.label "Identiteit">
 <!ENTITY identityDesc.label "'n Mens kan vir elke rekening 'n eie identiteit opstel. Die identiteit sê aan mense wat u boodskappe ontvang, wie u is.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
+
 <!-- LOCALIZATION NOTE (fullnameExample.label) : use following directions for below line
   1, do not translate two of "&quot;"
   2, Use localized full name instead of "John Smith"
@@ -29,6 +35,9 @@
 
 <!ENTITY emailLabel.label "E-posadres:">
 <!ENTITY emailLabel.accesskey "E">
+
+<!-- Entities for Incoming Server page -->
+
 <!-- Entities for Incoming Server page -->
 <!ENTITY incomingServerTypeDesc.label "Selekteer die soort inkomende bediener wat u gebruik.">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
@@ -84,6 +93,7 @@
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameLabel.label "Rekeningnaam:">
 <!ENTITY accnameLabel.accesskey "R">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

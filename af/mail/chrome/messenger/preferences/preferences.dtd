@@ -5,9 +5,6 @@
 <!ENTITY  prefWindow.titleWin     "Opsies">
 <!ENTITY  prefWindow.titleGNOME   "&brandShortName;-voorkeure">
 <!ENTITY  prefWindow.titleMAC     "Voorkeure">
-<!ENTITY  prefWindow.styleWindows "width: 51.5em; min-height: 38.5em;">
-
-<!ENTITY  prefWindow.styleGNOME   "width: 51.5em; min-height: 38em;">
 
 <!ENTITY paneGeneral.title        "Algemeen">
 <!ENTITY paneDisplay.title        "Vertoon">

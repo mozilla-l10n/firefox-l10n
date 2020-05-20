@@ -191,6 +191,7 @@
 
 <!ENTITY preferencesCmdUnix.label "Voorkeure">
 <!ENTITY preferencesCmdUnix.accesskey "k">
+
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Minimeer">
 <!ENTITY bringAllToFront.label "Bring alles na vore">
@@ -211,7 +212,6 @@
 <!ENTITY sendlaterButton.tooltip "Versend hierdie boodskap later">
 <!ENTITY quoteButton.tooltip "Haal die vorige boodskap aan">
 <!ENTITY addressButton.tooltip "Selekteer 'n ontvanger uit 'n adresboek">
-<!ENTITY attachButton.tooltip "Sluit 'n aanhegsel in">
 
 
 <!ENTITY saveButton.tooltip "Stoor hierdie boodskap">
@@ -219,6 +219,7 @@
 <!ENTITY copyButton.tooltip             "Kopieer">
 <!ENTITY pasteButton.tooltip            "Plak">
 <!ENTITY printButton.tooltip "Druk hierdie boodskap">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -296,6 +297,8 @@
 <!-- Spell checker context menu items -->
 
 <!-- Title for the address picker panel -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY addressesSidebarTitle.label "Kennisse">
 <!-- Identity popup customize menuitem -->

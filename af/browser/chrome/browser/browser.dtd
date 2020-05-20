@@ -159,6 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Gaan na die adres in die adresbalk">
+
 <!ENTITY printButton.label            "Druk">
 <!ENTITY printButton.tooltip          "Druk hierdie bladsy">
 

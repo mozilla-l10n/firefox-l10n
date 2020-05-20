@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Vind en vervang">
 <!ENTITY findField.label "Vind teks:">
 <!ENTITY findField.accesskey "n">

@@ -2,14 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Posrekening-opstelling">
 <!ENTITY name.label                      "U naam:">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Voornaam en van">
 <!ENTITY name.text                       "U naam, soos aan ander gewys">
 <!ENTITY email.label                     "E-posadres:">
 <!ENTITY email.accesskey                 "E">
-<!ENTITY email.placeholder               "epos@voorbeeld.co.za">
 <!ENTITY password.label                  "Wagwoord:">
 <!ENTITY password.accesskey              "W">
 <!ENTITY password.placeholder            "Wagwoord">

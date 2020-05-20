@@ -426,9 +426,6 @@
 <!ENTITY openMessageWindowCmd.label "Open boodskap">
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Open in gesprek">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 
 
 
@@ -508,6 +505,7 @@
     (but without the DOM_ prefix) -->
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+
 <!-- Mail Toolbar -->
 <!ENTITY newMsgButton.label "Skryf">
 <!ENTITY replyButton.label "Antwoord">
@@ -775,7 +773,6 @@
      customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Herstel kolomme na verstekopstelling">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -826,6 +823,7 @@
 <!ENTITY contextMute.accesskey "D">
 <!ENTITY contextUnmute.label "Ontdower">
 <!ENTITY contextUnmute.accesskey "d">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -909,6 +907,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Bring alles na vore">
 <!ENTITY zoomWindow.label "Zoem">
+
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">

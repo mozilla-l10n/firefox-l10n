@@ -7,6 +7,7 @@
 
 <!ENTITY loadError.label "Kan nie die bladsy laai nie">
 <!ENTITY retry.label "Probeer weer">
+
 <!-- Specific error messages -->
 
 
@@ -80,6 +81,7 @@
 <!ENTITY securityOverride.linkText "Of u kan 'n uitsondering byvoeg…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Eina! Laat ek weg wees!">
 <!ENTITY securityOverride.exceptionButtonLabel "Voeg uitsondering by…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
@@ -89,3 +91,4 @@ functionality specific to thunderbird. -->
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

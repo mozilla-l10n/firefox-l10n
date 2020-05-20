@@ -32,6 +32,7 @@
 
 <!ENTITY removeTagButton.label     "Skrap">
 <!ENTITY removeTagButton.accesskey "S">
+
 <!-- Fonts and Colors -->
 <!ENTITY defaultFont.label       "Verstekfont:">
 <!ENTITY defaultFont.accesskey   "V">

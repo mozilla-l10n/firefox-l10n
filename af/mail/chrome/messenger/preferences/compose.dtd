@@ -17,8 +17,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Font:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "Grootte:">
-<!ENTITY size.accesskey                       "G">
 <!ENTITY fontColor.label                      "Tekskleur:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Agtergrondkleur:">
