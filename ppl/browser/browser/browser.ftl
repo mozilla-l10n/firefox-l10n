@@ -6,6 +6,13 @@
 ## Tooltips for images appearing in the address bar
 
 
+## Prompts users to use the Urlbar when they open a new tab or visit the
+## homepage of their default search engine.
+## Variables:
+##  $engineName (String): The name of the user's default search engine. e.g. "Google" or "DuckDuckGo".
+
+##
+
 ## Page Action Context Menu
 
 
@@ -19,4 +26,13 @@
 
 
 ## Identity Panel
+
+## Window controls
+
+## WebRTC Pop-up notifications
+
+## DevTools F12 popup
+
+
+## URL Bar
 
