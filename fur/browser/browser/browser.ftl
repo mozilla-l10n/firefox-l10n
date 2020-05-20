@@ -71,5 +71,5 @@ urlbar-placeholder =
     .placeholder = Cîr o inserìs direzion
 urlbar-switch-to-tab =
     .value = Passe a la schede:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Va al indiriç specificât inte sbare dai indiriçs
