@@ -8,6 +8,7 @@ password-quality-meter = Wachtwurdkwaliteitsmeter
 
 change-password-window =
     .title = Haadwachtwurd wizigje
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Befeiligingsapparaat: { $tokenName }

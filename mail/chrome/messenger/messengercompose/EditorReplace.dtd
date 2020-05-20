@@ -4,6 +4,8 @@
 
 <!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Sykje en ferfange">
 <!ENTITY findField.label "Tekst sykje:">
 <!ENTITY findField.accesskey "T">

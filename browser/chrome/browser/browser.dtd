@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "S">
 <!ENTITY exitFullScreenCmd.label "Folslein skerm werjefte ferlitte">
 <!ENTITY exitFullScreenCmd.accesskey "S">
+
 <!ENTITY fullScreenCmd.label "Folslein skerm">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Jo account ferifiearje">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalisearje">
 <!ENTITY fullScreenRestore.tooltip "Werom bringe">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Accountynstellingen">
 <!ENTITY fxa.menu.manageAccount2.label "Account beheare">
 <!ENTITY fxa.menu.signOut.label "Ofmelde…">
-<!ENTITY fxa.menu.deviceSettings.label "Apparaatynstellingen">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; ynstelle…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "B">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "It adres yn de lokaasjebalke iepenje">
+
 <!ENTITY printButton.label            "Ofdrukke">
 <!ENTITY printButton.tooltip          "Dizze side ôfdrukke">
 
@@ -277,8 +279,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gebrûk fan DRM-software beheare">
 <!ENTITY urlbar.midiNotificationAnchor.tooltip            "MIDI-paniel iepenje">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "Jo hawwe dizze website oanfoljende spesjale tastimmingen jûn.">
-
 <!ENTITY urlbar.cameraBlocked.tooltip            "Jo hawwe jo kamera foar dizze website blokkearre.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Jo hawwe jo mikrofoan foar dizze website blokkearre.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Jo hawwe jo it dielen fan jo skerm foar dizze website blokkearre.">
@@ -293,7 +293,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.installBlocked.tooltip           "Jo hawwe ynstallaasje fan add-ons foar dizze website blokkearre.">
 
 
+<!ENTITY urlbar.permissionsGranted.tooltip       "Jo hawwe dizze website oanfoljende spesjale tastimmingen jûn.">
+
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Skiednis toane">
+
 
 <!ENTITY searchItem.title             "Sykje">
 
@@ -358,6 +362,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Konteners beheare">
 <!ENTITY manageUserContext.accesskey      "K">
+
 <!ENTITY newNavigatorCmd.label        "Nij finster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -498,6 +503,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Mear">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Fier in sykterm of adres yn">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +637,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Blêdwizer foar dit dielfinster meitsje">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Keppeling kopiearje">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Bewarje nei Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Side bewarje nei Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Keppeling bewarje nei Pocket">
@@ -846,18 +854,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Befeilige ferbining">
 <!ENTITY identity.connectionNotSecure "Ferbining is net befeilige">
 
-<!ENTITY identity.connectionSecure3 "Ferbining befeilige">
-<!ENTITY identity.connectionNotSecure2 "Ferbining net befeilige">
-<!ENTITY identity.connectionNotSecureSecurityView "Jo hawwe in ûnbefeilige ferbining mei dizze website.">
 <!ENTITY identity.connectionFile "Dizze side is op jo kompjûter bewarre.">
 <!ENTITY identity.connectionVerified2 "Jo hawwe in befeilige ferbining mei dizze website, hokker beheard wurdt troch:">
-<!ENTITY identity.connectionVerified3 "Jo hawwe in befeilige ferbining mei dizze website.">
 <!ENTITY identity.connectionInternal "Dit is in befeilige &brandShortName;-side.">
 <!ENTITY identity.extensionPage "Dizze side is laden fan in útwreiding út.">
 <!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.">
 <!ENTITY identity.customRoot "Ferbining ferifiearre troch in sertifikaatútjouwer dy't net troch Mozilla werkend wurdt.">
-
-<!ENTITY identity.evOwnerLabel2 "Sertifikaat útjûn oan:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; hat ûnderdielen fan dizze side dy't net befeilige binne blokkearre.">
@@ -893,7 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tastimmingen">
 
-<!ENTITY identity.permissions3 "Tastimmingen">
 <!ENTITY identity.permissionsEmpty "Jo hawwe dizze website gjin spesjale tastimmingen jûn.">
 <!ENTITY identity.permissionsReloadHint "It is mooglik dat jo de side opnij lade moatte om de wizigingen aktyf te meitsjen.">
 <!ENTITY identity.permissionsPreferences.tooltip "Opsjes tastimmingen iepenje">
@@ -1043,6 +1044,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Slute">
 

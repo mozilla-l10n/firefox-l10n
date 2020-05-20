@@ -13,6 +13,7 @@ enable-common-message = Firefox-ûntwikkelersark is standert útskeakele, sadat 
 enable-learn-more-link = Lês mear oer Untwikkelersark
 enable-enable-button = Untwikkelersark ynskeakelje
 enable-close-button = Dit ljepblêd slute
+
 welcome-title = Wolkom by Firefox Developer Tools!
 newsletter-title = Mozilla Developer nijsbrief
 newsletter-message = Untfang ûntwikkelersnijs, trúks en helpboarnen streekrjocht yn jo Postfek YN.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Ik bin it iens mei hoe't jo mei dizze gegevens omgean
 newsletter-subscribe-button = Abonnearje
 newsletter-thanks-title = Tank!
 newsletter-thanks-message = As jo noch net earder in ynskriuwing foar in Mozilla-relatearre nijsbrief befêstige hawwe, moatte jo dit mooglik dwaan. Kontrolearje jo Postfek YN of jo spamfilter foar in e-mail fan ús.
+
 footer-title = Firefox Developer Edition
 footer-message = Sykje jo mear as allinnich ûntwikkelersark? Probearje de Firefox-browser dy't spesifyk boud is foar ûntwikkelers en moderne wurkstreamen.
 footer-learn-more-link = Mear ynfo
+
 features-learn-more = Mear ynfo
 features-inspector-title = Inspector
 features-inspector-desc = Ynspektearje en ferfynje koade om pixel-perfekte lay-outs te meitsjen. <a data-l10n-name="learn-more">{ features-learn-more }</a>

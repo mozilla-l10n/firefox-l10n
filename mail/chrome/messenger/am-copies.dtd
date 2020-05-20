@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Kopyen &amp; mappen">
 <!ENTITY sendingPrefix.label "By it ferstjoeren fan berjochten, automatysk:">
 <!ENTITY fccMailFolder.label "In kopy sette yn:">

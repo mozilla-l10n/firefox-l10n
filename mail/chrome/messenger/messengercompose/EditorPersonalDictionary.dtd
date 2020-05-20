@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "T">
 <!ENTITY DictionaryList.label "Wurden yn wurdboek">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "Ferfange">
-<!ENTITY ReplaceButton.accessKey "a">
 <!ENTITY RemoveButton.label "Fuortsmite">
 <!ENTITY RemoveButton.accessKey "F">
 

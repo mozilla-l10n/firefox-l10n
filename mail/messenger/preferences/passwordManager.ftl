@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Slute
     .accesskey = l
+
 show-passwords =
     .label = Wachtwurden toane
     .accesskey = t
@@ -73,10 +74,12 @@ no-master-password-prompt = Binne jo wis dat jo jo wachtwurden toane wolle?
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Ferifiearje jo identiteit om de bewarre wachtwurden te toanen.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = de bewarre wachtwurden te toanen
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }

@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Nije útwreidingen dy't jo oan { -brand-shorter-name } tafoegje wurkje net yn priveefinsters, útsein jo dit tastean yn de ynstellingen.
 appmenu-addon-private-browsing-learn-more = Mear ynfo oer it behearen fan útwreidingen-ynstellingen.
+    
 appmenu-new-tab-controlled =
     .label = Jo nije ljepblêd is wizige.
     .buttonlabel = Wizigingen bewarje

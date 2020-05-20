@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Applikaasjedetails
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Fuortsmite
     .accesskey = F
-app-manager-handle-webfeeds = De folgjende applikaasjes kinne brûkt wurde foar it ferwurkjen fan Webfeeds.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = De folgjende applikaasjes kinne brûkt wurde foar it ferwurkjen fan { $type }-keppelingen.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = De folgjende applikaasjes kinne brûkt wurde foar it ferwurkjen fan { $type }-ynhâld.

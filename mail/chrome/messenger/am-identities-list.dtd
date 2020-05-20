@@ -5,10 +5,10 @@
 <!ENTITY identitiesListManageDesc.label "Identiteiten foar dit account beheare. De earste identiteit wurdt standert brûkt.">
 <!ENTITY identitiesListAdd.label "Tafoegje…">
 <!ENTITY identitiesListAdd.accesskey "T">
-<!ENTITY identitiesListDefault.label "Standert ynstelle">
-<!ENTITY identitiesListDefault.accesskey "S">
 <!ENTITY identitiesListEdit.label "Bewurkje…">
 <!ENTITY identitiesListEdit.accesskey "B">
+<!ENTITY identitiesListDefault.label "Standert ynstelle">
+<!ENTITY identitiesListDefault.accesskey "S">
 <!ENTITY identitiesListDelete.label "Fuortsmite">
 <!ENTITY identitiesListDelete.accesskey "F">
 <!ENTITY identitiesListClose.label "Slute">

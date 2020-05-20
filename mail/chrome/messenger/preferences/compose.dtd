@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Lettertype:">
 <!ENTITY font.accesskey                       "L">
-<!ENTITY size.label                           "Grutte:">
-<!ENTITY size.accesskey                       "G">
 <!ENTITY fontSize.label                       "Grutte:">
 <!ENTITY fontSize.accesskey                   "t">
 <!ENTITY useReaderDefaults.label              "Brûk de standert kleuren fan lêzers">

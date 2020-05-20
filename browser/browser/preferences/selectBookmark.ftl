@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Begjinside ynstelle
     .style = width: 32em;
+
 select-bookmark-desc = Kies in blêdwizer as jo begjinside. As jo in map kieze, sille de blêdwizers yn die map iepene wurde yn ljepblêden.

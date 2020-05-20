@@ -9,17 +9,12 @@ about-service-workers-title = Oer Service Workers
 about-service-workers-main-title = Registrearre Service Workers
 about-service-workers-warning-not-enabled = Service Workers binne net ynskeakele.
 about-service-workers-warning-no-service-workers = Gjin Service Workers registrearre.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Oarsprong: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name }-tapassings-ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Namme fan aktive buffer:</strong> { $name }
 waiting-cache-name = <strong>Namme fan wachtbuffer:</strong> { $name }
 push-end-point-waiting = <strong>Push-einpunt:</strong> { waiting }
 push-end-point-result = <strong>Push-einpunt:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Bywurkje
+
 unregister-button = Registraasje opheffe
+
 unregister-error = Opheffen fan registraasje fan dizze Service Worker mislearre.
+
 waiting = Wachtsje…
