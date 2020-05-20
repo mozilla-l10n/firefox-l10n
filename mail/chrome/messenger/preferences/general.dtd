@@ -28,8 +28,6 @@
 <!ENTITY play.label                       "Reproducir">
 <!ENTITY play.accesskey                   "r">
 <!ENTITY systemsound.label                "Son predeterminado do sistema para correo novo">
-<!ENTITY systemsoundMac.label             "Son de aviso do sistema">
-<!ENTITY systemsoundMac.accesskey         "i">
 <!ENTITY systemsound.accesskey            "o">
 <!ENTITY customsound.label                "Usar o seguinte ficheiro de son">
 <!ENTITY customsound.accesskey            "n">
@@ -37,3 +35,4 @@
 <!ENTITY browse.accesskey                 "x">
 
 <!ENTITY defaultSearchEngine.label        "Buscador predeterminado">
+

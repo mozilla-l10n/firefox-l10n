@@ -38,12 +38,18 @@ energy-impact-high = Alto ({ $value })
 energy-impact-medium = Medio ({ $value })
 energy-impact-low = Baixo ({ $value })
 
+## Values for the Memory column
+##
+## Variables:
+##   $value (Number) - How much memory is used
+
 ## Tooltips for the action buttons
 
 close-tab =
     .title = Pechar lapela
 show-addon =
     .title = Amosar no xestor de complementos
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

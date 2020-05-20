@@ -96,25 +96,8 @@
 
 <!ENTITY sharedLongDesc "<ul><li>O sitio podería estar non dispoñíbel temporalmente ou estar demasiado saturado. Tente acceder de novo nuns minutos</li><li>Se non consegue cargar algunhas páxinas, comprobe a conexión de rede do computador.</li><li>Se o computador ou a rede están protexidos por unha devasa ou proxy, asegúrese que &brandShortName; ten permiso para acceder á Web.</li></ul>">
 
-<!ENTITY malwareBlocked.title "Sitio sospeitoso de ser atacante!">
-<!ENTITY malwareBlocked.longDesc "
-<p>Os sitios maliciosos tentan instalar programas para roubar información privada, utilizar o computador para atacar outros ou danar o seu sistema.</p>
-<p>Os propietarios de sitios web que crean que foron identificados por erro como maliciosos poden <a href='http://www.stopbadware.org/home/reviewinfo'>solicitar unha revisión</a>.</p>
-">
-
-<!ENTITY unwantedBlocked.title "Sitio sospeitoso de servir software non desexado!">
-<!ENTITY unwantedBlocked.longDesc "
-<p>As páxinas con software non desexado tentan instalar un software que pode aparentar facer algo diferente ao que fai e afectar ao seu sistema de maneira inesperada.</p>
-">
-
-<!ENTITY phishingBlocked.title "Web sospeitosa de ser unha falsificación!">
-<!ENTITY phishingBlocked.longDesc " <p>Se introduce información persoal nesta páxina pode resultar na usurpación da súa identidade ou outro tipo de acción fraudulenta.</p> <p>Este tipo de falsificación web utilízase nos casos coñecidos como phishing, nos cales utilízanse correos electrónicos e páxinas web fraudulentas para imitar fontes nas que o usuario pode confiar.</p> ">
-
 <!ENTITY cspBlocked.title "Bloqueado pola política de seguranza de contidos">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; impediu que esta páxina se cargue desta forma porque a páxina ten una política de seguranza de contido que non o permite.</p>">
-
-<!ENTITY corruptedContentError.title "Erro de contido corrupto">
-<!ENTITY corruptedContentError.longDesc "<p>Non é posíbel amosar a páxina que está a tentar visualizar porque se produciu un erro na transmisión dos datos.</p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ou pode engadir unha excepción…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Sáqueme de aquí!">
@@ -133,3 +116,4 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL remoto">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Contacte cos propietarios do sitio web para informalos deste problema.</li></ul></p>">
+

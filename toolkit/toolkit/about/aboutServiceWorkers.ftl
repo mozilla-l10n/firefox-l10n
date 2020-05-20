@@ -9,17 +9,12 @@ about-service-workers-title = Sobre os Service Workers
 about-service-workers-main-title = Service Workers rexistrados
 about-service-workers-warning-not-enabled = Os Service Workers non están activados.
 about-service-workers-warning-no-service-workers = Non hai Service Workers rexistrados.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Orixe: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } — ID do aplicativo { $appId } — InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Nome da caché activa:</strong> { $name }
 waiting-cache-name = <strong>Nome da caché de espera:</strong> { $name }
 push-end-point-waiting = <strong>Push Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Push Endpoint:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Actualizar
+
 unregister-button = Cancelar rexistro
+
 unregister-error = Fallou a cancelación do rexistro deste Service Worker.
+
 waiting = Agardando…

@@ -100,8 +100,8 @@
      for the bucket view state machinery to work. -->
 <!ENTITY toggleAttachmentPaneCmd.key "x">
 <!ENTITY selectAllCmd.label "Seleccionar todo">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "S">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Localizar…">
 <!ENTITY findBarCmd.accesskey "z">
 <!ENTITY findBarCmd.key "F">
@@ -247,7 +247,6 @@
 <!ENTITY sendlaterButton.tooltip "Enviar esta mensaxe máis tarde">
 <!ENTITY quoteButton.tooltip "Citar a mensaxe anterior">
 <!ENTITY addressButton.tooltip "Seleccionar un destinatario dunha axenda de enderezos">
-<!ENTITY attachButton.tooltip "Incluír un anexo">
 <!ENTITY attachButton.tooltip2 "Engade un anexo">
 <!ENTITY spellingButton.tooltip "Verificación ortográfica da selección ou da mensaxe completa">
 <!ENTITY saveButton.tooltip "Gardar esta mensaxe">

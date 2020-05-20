@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL da fonte:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Introduza o URL correcto da fonte a engadir">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Comprobar validación e recuperar un URL correcto.">
 
@@ -29,8 +28,6 @@
 
 <!ENTITY button.addFeed.label        "Engadir">
 <!ENTITY button.addFeed.accesskey    "a">
-<!ENTITY button.editFeed.label       "Actualizar">
-<!ENTITY button.editFeed.accesskey   "u">
 <!ENTITY button.removeFeed.label     "Retirar">
 <!ENTITY button.removeFeed.accesskey "r">
 <!ENTITY button.importOPML.label     "Importar">

@@ -13,21 +13,27 @@
 editmenu-undo =
     .label = Desfacer
     .accesskey = D
+
 editmenu-redo =
     .label = Refacer
     .accesskey = R
+
 editmenu-cut =
     .label = Cortar
     .accesskey = t
+
 editmenu-copy =
     .label = Copiar
     .accesskey = C
+
 editmenu-paste =
     .label = Pegar
     .accesskey = P
+
 editmenu-delete =
     .label = Eliminar
     .accesskey = E
+
 editmenu-select-all =
     .label = Seleccionar todo
     .accesskey = a

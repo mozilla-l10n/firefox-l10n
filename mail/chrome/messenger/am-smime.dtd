@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Si (non se pode enviar a mensaxe se algún destinatario carece de certificado)">
 <!ENTITY alwaysEncryptMessage.accesskey "S">
 <!ENTITY encryptionCert.message "Utilizar este certificado para cifrar e descifrar mensaxes recibidas:">
+
 <!ENTITY digitalSign.certificate.button "Seleccionar…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Borrar">
@@ -26,7 +27,6 @@
 <!ENTITY signingCert.message "Utilizar este certificado para asinar as mensaxes que envíe:">
 
 <!ENTITY certificates.label "Certificados">
-<!ENTITY manageCerts.label "Ver certificados">
-<!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "Dispositivos de seguranza">
 <!ENTITY manageDevices.accesskey "z">
+

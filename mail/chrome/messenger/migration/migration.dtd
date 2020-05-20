@@ -12,12 +12,8 @@
 <!ENTITY importFromNothing.accesskey    "n">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 ou superior">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
-<!ENTITY importFromEudora.label         "Eudora">
-<!ENTITY importFromEudora.accesskey     "E">
 
 <!ENTITY importSource.title             "Importar a configuración e os cartafoles de correo ">
 <!ENTITY importItems.title              "Elementos para importar">

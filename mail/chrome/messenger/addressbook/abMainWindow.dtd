@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Axenda de enderezos">
 <!ENTITY blankResultsPaneMessage.label                  "Esta axenda de enderezos só amosa contactos despois dunha busca">
 <!ENTITY localResultsOnlyMessage.label                  "Os contactos das axendas de enderezos remotas non se amosan ata que busca">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Ficheiro">
 <!ENTITY fileMenu.accesskey                             "h">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Propiedades">
-<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "c">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-<!ENTITY editButton2.label                              "Propiedades">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Escribir">
 <!ENTITY newmsgButton.accesskey                         "b">
 <!ENTITY newIM.label                                    "Mensaxe instantánea">
@@ -145,13 +142,9 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crear un novo contacto na axenda de enderezos">
 <!ENTITY newlistButton.tooltip                          "Crear unha lista">
-<!ENTITY editButton2.tooltip                            "Editar o elemento seleccionado">
 <!ENTITY newmsgButton.tooltip                           "Enviar unha mensaxe de correo">
 <!ENTITY newIM.tooltip                                  "Enviar unha mensaxe instantánea ou chat">
 <!ENTITY deleteButton2.tooltip                           "Eliminar o elemento seleccionado">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Axendas de enderezos">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Nome ou correo electrónico">

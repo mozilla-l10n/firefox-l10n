@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Sobre os engadidos
+
 installed-plugins-label = Engadidos instalados
 no-plugins-are-installed-label = Non se atoparon engadidos instalados
+
 deprecation-description = Bota en falta algo? Algúns engadidos xa non son compatíbeis. <a data-l10n-name="deprecation-link">Máis información.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Estado:</span> Activado
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Estado:</span> Activado ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Estado:</span> Desactivado
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Estado:</span> Desactivado ({ $blockListState })
+
 mime-type-label = Tipo MIME
 description-label = Descrición
 suffixes-label = Sufixos

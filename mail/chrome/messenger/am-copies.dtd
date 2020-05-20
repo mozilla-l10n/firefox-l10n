@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Copias e cartafoles">
 <!ENTITY sendingPrefix.label "Ao enviar mensaxes, automaticamente: ">
 <!ENTITY fccMailFolder.label "Gardar unha copia en:">
@@ -36,7 +38,6 @@
 <!ENTITY archiveInOtherFolder.label "Outro:">
 <!ENTITY archiveInOtherFolder.accesskey "t">
 <!ENTITY specialFolders.label "Borradores e modelos">
-<!ENTITY keepDrafts.label "Gardar os borradores das mensaxes en:">
 <!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY draftsFolderOn.label "Cartafol &quot;Borradores&quot; en:">
 <!ENTITY draftsFolderOn.accesskey "B">

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Pechar
     .accesskey = P
+
 show-passwords =
     .label = Amosar os contrasinais
     .accesskey = M

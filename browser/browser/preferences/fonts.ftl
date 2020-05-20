@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tipos de letra
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Tipos de letra para
     .accesskey = i
+
 fonts-langgroup-arabic =
     .label = Árabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Tamaño
     .accesskey = ñ
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monoespazado
     .accesskey = M
+
 fonts-monospace-size = Tamaño
     .accesskey = T
+
 fonts-minsize = Tamaño mínimo do tipo de letra
     .accesskey = o
+
 fonts-minsize-none =
     .label = Ningún
+
 fonts-allow-own =
     .label = Permitir que as páxinas escollan os seus tipos de letra en lugar dos antes seleccionados
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación de texto para contido antigo
 fonts-languages-fallback-desc = Esta codificación de texto úsase para contido antigo que non declara a súa codificación.
+
 fonts-languages-fallback-label = Codificación de texto alternativa
     .accesskey = C
+
 fonts-languages-fallback-name-auto =
     .label = Predeterminada para o idioma actual
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
 fonts-languages-fallback-name-other =
     .label = Outros (incluído europeo occidental)
-fonts-very-large-warning-title = Tamaño mínimo de letra grande
-fonts-very-large-warning-message = Seleccionou un tamaño mínimo de letra grande muy grande (máis de 24 píxeles). Isto pode dificultar ou que resulte imposíbel usar algunhas páxinas importantes de configuración como esta.
-fonts-very-large-warning-accept = Manter os meus cambios de todos os xeitos
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
