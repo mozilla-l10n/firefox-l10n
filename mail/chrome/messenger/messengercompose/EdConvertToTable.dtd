@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Cinca Tafula">
 <!ENTITY instructions1.label "Khompozara yi tumbuluxa tafula rintshwa ra ntila wun'wana na wun'wana eka pharagirafu yin'wana na yin'wana ya nhlawulo.">
 <!ENTITY instructions2.label "Kombisa xihlawulekisi lexi tirhisiweke ku hambanisa nhlawulo wu va eka tikholomo:">

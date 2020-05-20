@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Mayelana na ku pulaga
+
 installed-plugins-label = Tipulaga leti nghenisiweke
 no-plugins-are-installed-label = A ku nghenisiwangi tipulaga
 

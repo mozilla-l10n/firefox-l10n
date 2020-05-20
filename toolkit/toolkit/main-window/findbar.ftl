@@ -9,5 +9,7 @@ findbar-next =
     .tooltiptext = Kuma laha ku landzelaka ku tirhisiwaka xivulwa-hava
 findbar-previous =
     .tooltiptext = Kuma laha ku nag hundza ku tirhisiweke xivulwa-hava
+
 findbar-find-button-close =
     .tooltiptext = Pfala bara leyi kumekeke
+

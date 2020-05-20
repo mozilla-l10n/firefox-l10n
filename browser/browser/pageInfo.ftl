@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 425px; min-height: 470px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopa
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Hlawula hinkwaswo
     .accesskey = H
+
 general-title =
     .value = Nhlokomhaka:
 general-url =
@@ -32,6 +35,7 @@ general-meta-name =
     .label = Vito
 general-meta-content =
     .label = Vundzheni
+
 media-alt-header =
     .label = Tsalwa rin'wana
 media-address =
@@ -66,9 +70,11 @@ media-object = Nchumu
 media-embed = Tiyisa
 media-link = Ayikhoni
 media-input = Leswi nghenisiweke
+
 no-page-title =
     .value = Pheji ro pfumala nhlokomhaka:
 general-quirks-mode =
     .value = Modi ya khwikisi
 general-strict-mode =
     .value = Modi yo yelana na switandati
+

@@ -1,4 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label "Matumbuluxele &amp; Maadiresele">
 <!ENTITY addressingGroupTitle.label "Maadiresele">
@@ -11,8 +17,11 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Tirhisa sevha yin'wana ya LDAP:">
 <!ENTITY directories.accesskey "d">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label "Matumbuluxele">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -20,9 +29,6 @@
 <!ENTITY useHtml.accesskey "T">
 <!ENTITY autoQuote.label "Hi othomethiki tshaha hungu ra masungulo loko u hlamula">
 <!ENTITY autoQuote.accesskey "t">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "Kutani,">
-<!ENTITY then.accesskey "k">
 <!ENTITY aboveQuote.label "sungula nhlamulo ya mina ehenhla ka ntshaho">
 <!ENTITY belowQuote.label "sungula nhlamulo ya mina ehansi ka ntshaho">
 <!ENTITY selectAndQuote.label "hlawula ntshaho">
@@ -30,3 +36,4 @@
 <!ENTITY place.accesskey "k">
 <!ENTITY belowText.label "ehansi ka ntshaho (swa bumabumeriwa)">
 <!ENTITY aboveText.label "ehansi ka nhlamulo ya mina (ehenhla ka ntshaho)">
+

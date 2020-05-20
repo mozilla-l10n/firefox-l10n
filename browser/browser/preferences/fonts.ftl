@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tifonto
+
 fonts-window-close =
     .key = w
 
@@ -58,6 +59,7 @@ fonts-default-serif =
     .label = Xerifu
 fonts-default-sans-serif =
     .label = Sans Xerifu
+
 fonts-minsize-none =
     .label = Ku hava
 

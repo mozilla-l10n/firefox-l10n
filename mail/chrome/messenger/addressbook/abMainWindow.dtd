@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Buku ya tiadirese">
 <!-- File Menu -->
 
@@ -5,10 +9,6 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "Xintshwa">
 <!ENTITY newMenu.accesskey "X">
-<!ENTITY newCard.label "Karata ra Buku ya tiadirese...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "Nongonoko wa Mapapila...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
@@ -25,22 +25,11 @@
 <!ENTITY closeCmd.accesskey "p">
 <!ENTITY printSetupCmd.label "Malulamisele ya pheji...">
 <!ENTITY printSetupCmd.accesskey "y">
-<!ENTITY printPreviewCardViewCmd.label "Pirinta karata ro vona">
-<!ENTITY printPreviewCardViewCmd.accesskey "r">
 <!ENTITY printPreviewAddressBook.label "Pirinta Buku ya tiadirese yo vona">
 <!ENTITY printPreviewAddressBook.accesskey "P">
-<!ENTITY printCardViewCmd.label "Pirinta Karata...">
-<!ENTITY printCardViewCmd.accesskey "k">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Pirinta Buku ya tiadirese...">
 <!ENTITY printAddressBook.accesskey "I">
 
-<!ENTITY quitApplicationCmdWin.label "Huma">
-<!ENTITY quitApplicationCmdWin.accesskey "h">
-<!ENTITY quitApplicationCmd.label "Huma">
-<!ENTITY quitApplicationCmd.accesskey "U">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Hlela">
@@ -61,11 +50,8 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "d">
 <!ENTITY deleteCmd.label "Dlaya">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "l">
 <!ENTITY deleteAbCmd.label "Dlaya Buku ya Tiadirese">
-<!ENTITY deleteCardCmd.label "Dlaya Karata">
-<!ENTITY deleteCardsCmd.label "Dlaya makarata lama hlawuriweke">
 <!ENTITY selectAllCmd.label "Hlawula hinkwaswo">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -75,9 +61,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Swihlawulekisi...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -91,12 +74,8 @@
 <!ENTITY showTaskbarCmd.accesskey "X">
 <!ENTITY customizeToolbar.label "Khasitomayiza...">
 <!ENTITY customizeToolbar.accesskey "S">
-<!ENTITY showCardPane.label "Nkatsakanyo wa karata">
-<!ENTITY showCardPane.accesskey "K">
 <!ENTITY menu_ShowNameAs.label "Kombisa vito tani hi">
 <!ENTITY menu_ShowNameAs.accesskey "i">
-<!ENTITY firstLastCmd.label "Ro sungula, Ro hetelela">
-<!ENTITY firstLastCmd.accesskey "r">
 <!ENTITY lastFirstCmd.label "Ro hetelela, Ro sungula">
 <!ENTITY lastFirstCmd.accesskey "g">
 <!ENTITY displayNameCmd.label "Kombisa vito">
@@ -116,48 +95,25 @@
 <!ENTITY importCmd.accesskey "A">
 <!ENTITY exportCmd.label "Rhumela...">
 <!ENTITY exportCmd.accesskey "R">
-<!ENTITY preferencesCmd.label "Hlawula...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "H">
 <!ENTITY preferencesCmdUnix.label "Ku hlawula">
 <!ENTITY preferencesCmdUnix.accesskey "k">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Pfuna">
-<!ENTITY helpMenu.accesskey "P">
-<!ENTITY releaseCmd.label "Humesa Tinotsi">
-<!ENTITY releaseCmd.accesskey "H">
-<!ENTITY hintsAndTips.label "&brandShortName; Pfuna">
-<!ENTITY hintsAndTips.accesskey "p">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Mayelana &brandShortName;">
-<!ENTITY aboutCmd.accesskey "M">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "Karata lerintshwa">
-<!ENTITY newcardButton.accesskey "K">
 <!ENTITY newlistButton.label "Nongonoko lowuntshwa">
 <!ENTITY newlistButton.accesskey "N">
-<!ENTITY editButton.label "Swihlawulekisi">
-<!ENTITY editButton.accesskey "S">
 <!ENTITY newmsgButton.label "Tsala">
 <!ENTITY newmsgButton.accesskey "T">
 <!ENTITY newIM.label "Hungu ra xihatla">
 <!ENTITY newIM.accesskey "H">
-<!ENTITY deleteButton.label "Dlaya">
-<!ENTITY deleteButton.accesskey "D">
-<!ENTITY throbberItem.title "Xikomba-nghingiriko">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Tumbuluxa karata rintshwa ra buku ya tiadirese">
 <!ENTITY newlistButton.tooltip "Tumbuluxa ningonoko wuntshwa">
-<!ENTITY editButton.tooltip "Hlela karata leri hlawuriweke">
 <!ENTITY newmsgButton.tooltip "Rhumela hungu ra papila">
 <!ENTITY newIM.tooltip "Rhumela hungu ra xihatla">
-<!ENTITY deleteButton.tooltip "Dlaya karata leri hlawuriweke kumbe buku ya tiadirese">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label "Tibuku ta tiadirese">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Vito kumbe imeyili">
@@ -171,8 +127,6 @@
 <!ENTITY GeneratedName.accesskey "V">
 <!ENTITY PrimaryEmail.label "Imeyili">
 <!ENTITY PrimaryEmail.accesskey "I">
-<!ENTITY ScreenName.label "Vito ra Xikirini">
-<!ENTITY ScreenName.accesskey "V">
 <!ENTITY Company.label "Nhlangano">
 <!ENTITY Company.accesskey "n">
 <!ENTITY NickName.label "Vito ro sandzanyana">
@@ -201,16 +155,6 @@
 <!ENTITY _PhoneticName.accesskey "v">
 <!-- Results pane context menu -->
 
-<!ENTITY composeEmail.label "Vito ra fonetiki">
-<!ENTITY composeEmail.accesskey "I">
-<!ENTITY deleteAddrBookCard.label "Tumbuluxa imeyili ya">
-<!ENTITY deleteAddrBookCard.accesskey "T">
-<!ENTITY newAddrBookCard.label "Dlaya...">
-<!ENTITY newAddrBookCard.accesskey "D">
-<!ENTITY newAddrBookMailingList.label "Karata lerintshwa...">
-<!ENTITY newAddrBookMailingList.accesskey "K">
-<!ENTITY addrBookCardProperties.label "Nongonoko wa Mapapila lowuntshwa">
-<!ENTITY addrBookCardProperties.accesskey "N">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -231,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY windowMenu.label "Fasitere">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Hunguta">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Tisa hinkwaswo emahlweni">
 <!ENTITY zoomWindow.label "Zoom">

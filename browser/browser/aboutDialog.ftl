@@ -4,3 +4,4 @@
 
 aboutDialog-title =
     .title = Mayelana na { -brand-full-name }
+

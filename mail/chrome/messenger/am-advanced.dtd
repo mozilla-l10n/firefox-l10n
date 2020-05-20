@@ -1,10 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-advanced.xul -->
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 
+<!-- extracted from am-advanced.xhtml -->
+
 <!ENTITY smtpServer.label "Malulamisele ya Sevha (SMTP) leyi Humaka">
 <!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-
-<!ENTITY smtpDesc.label "Hambileswi u nga kongomisaka ku tlula yin'we ya tisevha leti humaka (SMTP), leswi swi bumabumeriwa vatirhisi va xiyimo xa le henhla. Ku lulamisatisevha-nyingi ta SMTP swi nga vanga swihoxo loko.">
 
 <!ENTITY smtpListAdd.label "Engetela...">
 <!ENTITY smtpListAdd.accesskey "e">
@@ -19,4 +23,3 @@
 <!ENTITY serverName.label "Vito ra Sevha: ">
 <!ENTITY serverPort.label "Porto: ">
 <!ENTITY userName.label "Vito ra mutirhisi: ">
-<!ENTITY useSecureConnection.label "Vuhlanganisi bya vuhlayiseki: ">

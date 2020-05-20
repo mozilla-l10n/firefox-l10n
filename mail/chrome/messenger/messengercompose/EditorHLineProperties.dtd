@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Swihlawulekisi swa layini ya horizonthali">
 
 <!ENTITY dimensionsBox.label "Dayimenxini">
@@ -46,11 +51,8 @@
 <!ENTITY widthEditField.accessKey "U">
 <!ENTITY pixelsPopup.value "phikixele">
 <!ENTITY alignmentBox.label "Ku lulamisa">
-<!ENTITY leftRadio.value "Eximatsini">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "Exikarhi">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "Exineneni">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "Ku dzihata 3-D">

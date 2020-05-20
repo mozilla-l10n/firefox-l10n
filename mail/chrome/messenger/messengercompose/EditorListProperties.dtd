@@ -37,6 +37,11 @@
 <!-- Window title -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
 <!ENTITY windowTitle.label "Nongonoko wa swihlawulekisi">
 
 <!ENTITY ListType.label "Muxaka wa nongonoko">
@@ -47,7 +52,6 @@
 <!ENTITY bulletList.value "Nongonoko wa buleti (wu hava tinomboro)">
 <!ENTITY numberList.value "Nongonoko lowu nga na tinomboro">
 <!ENTITY definitionList.value "Nongonoko wa tinhlamuselo">
-<!ENTITY changeListMsg.label "Loko u cinca muxaka wa nongonoko:">
 <!ENTITY changeEntireListRadio.label "Cinca nongonoko hinkwawo">
 <!ENTITY changeEntireListRadio.accessKey "C">
 <!ENTITY changeSelectedRadio.label "Cinca tiayitheme leti hlawuriweke">

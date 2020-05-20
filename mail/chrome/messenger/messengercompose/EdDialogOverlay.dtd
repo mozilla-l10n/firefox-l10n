@@ -35,16 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY AdvancedEditButton.label "Nhlelo wa xiyimo xa le henhla...">
 <!ENTITY AdvancedEditButton.accessKey "N">
 <!ENTITY AdvancedEditButton.tooltip "Engetela kumbe ku cinca swihlawulekisi swa HTML, swihlawulekisi swa xitayili, na and JavaScript">
-<!ENTITY chooseButton.label "Hlawula fayili...">
-<!ENTITY chooseFile.accessKey "F">
-<!ENTITY chooseFileLink.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL yi yelana na pheji ra ndhawu">
 <!ENTITY makeUrlRelative.accessKey "u">
 <!ENTITY makeUrlRelative.tooltip "Cinca exikarhi ka URL yo yelana na yo kongoma. U fanele u rhanga hi ku hlayisa pheji u nga si endla leswi.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Kombisa ndhawu ya pheji ra web, fayili ya le kaya, kumbe Enkha ya vito leyi hlawuriweke ku suka eka nongonoko wo phopa:">
-<!ENTITY LinkURLEditField.accessKey "K">

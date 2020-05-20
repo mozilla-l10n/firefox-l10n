@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Xiya mpeleto">
 
 <!ENTITY misspelledWord.label "Rito leri nga peletiwangiki kahle:">
@@ -61,8 +65,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "e">
 <!ENTITY editUserDictionaryButton.label "Hlela...">
 <!ENTITY editUserDictionaryButton.accessKey "H">
-<!ENTITY recheckButton.label "Xiya pheji nakambe">
-<!ENTITY recheckButton.accessKey "P">
 <!ENTITY closeButton.label "Pfala">
 <!ENTITY closeButton.accessKey "P">
 <!ENTITY sendButton.label "Rhumela">

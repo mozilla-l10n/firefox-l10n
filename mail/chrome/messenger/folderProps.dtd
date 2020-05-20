@@ -38,37 +38,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label "Xigotso">
 
 <!ENTITY generalInfo.label "Vutivi vatitivisi">
-<!ENTITY folderCharsetTab.label "Kharekta yadeault ya-enkhoda:">
-<!ENTITY folderCharsetTab.accesskey "E">
-<!ENTITY folderCharsetOverride.label "Tsala difolthi ka maka leyi laka folda (xitsarho xa muhnu xitsariwe axingetekiwi)">
-<!ENTITY folderCharsetOverride.accesskey "T">
-<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary File">
 
 
 <!ENTITY retention.label "Policy ya retention">
-<!ENTITY retentionUseDefault.label "Tirisa seva yadefoltha">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "siku">
 <!ENTITY daysOld.label "masiku akhale">
 <!ENTITY message.label "mahungu">
 <!ENTITY retentionCleanup.label "Ku kuma ndhawu ya disiki, mahungu ya khale ya nga suleriwa makumu">
-<!ENTITY retentionKeepMsg.label "Sula mahungu yo tlula">
-<!ENTITY retentionKeepMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "U nga suli mahungu">
 <!ENTITY retentionKeepAll.accesskey "U">
-<!ENTITY retentionKeepNew.label "Sula hinkwawo handle ka ro hetelela">
-<!ENTITY retentionKeepNew.accesskey "u">
-<!ENTITY retentionKeepUnread.label "Minkarhi hinkwayo sula mahungu lama nga hlayiwa">
-<!ENTITY retentionKeepUnread.accesskey "m">
-
-<!ENTITY folderOfflineTab.label "Ofolayini">
-<!ENTITY folderCheckForNewMessages.label "Xiya folidara leyi ku kuma mahungu mantshwa">
-<!ENTITY folderCheckForNewMessages.accesskey "X">
 
 <!ENTITY offlineFolder.check.label "Hlawula folidara leyi ku yi tirhisa ofolayini">
 <!ENTITY offlineFolder.check.accesskey "H">
@@ -77,16 +61,13 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Hlawula ntlawa wa mahungu ku wu tirhisa ofolayini">
 <!ENTITY selectofflineNewsgroup.check.accesskey "l">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Tirhisa xihoxo xa ndzulamiso wa akhawunti ">
 <!ENTITY offlineNewsgroup.button.label "Panga sweswi">
 <!ENTITY offlineNewsgroup.button.accesskey "P">
 
-<!ENTITY folderProps.information.label "Mahungu:">
 <!ENTITY folderProps.name.label "Vito:">
 <!ENTITY folderProps.name.accesskey "V">
 
 <!ENTITY folderSharingTab.label "Ku avelana">
-<!ENTITY privilegesDesc.label "Avelana folidara leyi ni tin'wana na vatirhisi va netiweke no kombisa na ku veka timfanelo to tirhisa">
 <!ENTITY privileges.button.label "Timfanelo...">
 <!ENTITY privileges.button.accesskey "T">
 <!ENTITY permissionsDesc.label "U na mimpfumelelo leyi landzelaka:">
@@ -96,3 +77,4 @@
 <!ENTITY folderQuotaRoot.label "Rimitsu ra Khota:">
 <!ENTITY folderQuotaUsage.label "Matirhiselo:">
 <!ENTITY folderQuotaStatus.label "Xiyimo:">
+

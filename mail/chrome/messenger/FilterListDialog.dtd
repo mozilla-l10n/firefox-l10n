@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Tifilithara ta mahungu">
 <!ENTITY nameColumn.label "Vito ra filithara">
 <!ENTITY activeColumn.label "Swi tsandzile">
@@ -22,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "Y">
 <!ENTITY folderPickerPrefix.label "Tirhisa tifilithara leti hlawuriweke:">
 <!ENTITY folderPickerPrefix.accesskey "t">
-<!ENTITY choosethis.label "hlawula folidara leyi">
-<!ENTITY choosethisnewsserver.label "hlawula sevha leyi ya mahungu">
 <!ENTITY helpButton.label "Pfuna">
 <!ENTITY helpButton.accesskey "P">
 <!ENTITY closeCmd.key "W">

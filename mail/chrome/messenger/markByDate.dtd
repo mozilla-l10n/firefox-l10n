@@ -35,8 +35,12 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messageMarkByDate.label "Maraka mahungu tani hi lama hlayiweke hi masiku">
 <!ENTITY markByDateLower.label "Maraka mahungu tani hi lama hlayiweke ku suka eka:">
 <!ENTITY markByDateLower.accesskey "K">
-<!ENTITY markByDateUpper.accesskey "E">
 <!ENTITY markByDateUpper.label "Eka:">
+<!ENTITY markByDateUpper.accesskey "E">

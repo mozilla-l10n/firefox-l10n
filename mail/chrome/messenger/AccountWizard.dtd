@@ -1,18 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 <!ENTITY windowTitle.label "Wizati ya Akhawunti">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
 <!-- Entities for Account Type page -->
 
 
-<!ENTITY accountSetupInfo.label "Ku kota ku kuma mahungu, u fanele u lulamisa akhawunti ya Mapapila kumbe Ntlawa wa Mahungu.">
 <!ENTITY accountTypeTitle.label "Malulamisele ya akhawunti yintshwa">
-<!ENTITY accountTypeDesc.label "Wizati yi ta hlengeleta mahungu lama faneleke ku lulamisa imayili kumbe Ntlawa wa akhawunti ya mahungu loko u nga tivi mahungu lama lavekaka, tihlanganise ni Mufambisi wa Systeme kumbe Vanyiki Va Vukorhokeri bya Internrte.">
 <!ENTITY accountTypeDirections.label "Hlawula muxaka wa akhawunti leyi u lavaka ku yi lulamisa:">
 <!ENTITY accountTypeMail.label "Akhawunti ya Imeyili">
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Akhawunti ya Ntlawa wa Mahungu">
 <!ENTITY accountTypeNews.accesskey "w">
+
 <!-- Entities for Identity page -->
 
 
@@ -31,37 +35,18 @@
 
 <!ENTITY emailLabel.label "Adirese ya Imeyili:">
 <!ENTITY emailLabel.accesskey "A">
-<!ENTITY emailDesc.label "Tsala adirese ya wena ya imeyili; leyi i adirese leyi van'wana va nga ta ku rhumela imeyili ha yona">
-<!-- LOCALIZATION NOTE (emailExample.label) : do not translate "user@example.net" in below line -->
-<!ENTITY emailExample.label "(xikombiso: user@example.net).">
 <!-- Entities for Server page -->
 
 
-<!ENTITY serverTitle.label "Mahungu ya Sevha">
-<!ENTITY incomingServerTitle.label "Sevha leyi nghenaka">
+<!-- Entities for Incoming Server page -->
+
 <!ENTITY incomingServerTypeDesc.label "Hlawula muxaka wa sevha leyi nghenaka leyi u yi tirhisaka.">
-<!ENTITY incomingServerTypeLabel.label "Muxaka wa Sevha:">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "Tsala vito ra sevha ya wena yo amukela (xikombiso, &quot;mail.example.net&quot;).">
-<!ENTITY incomingServerLabel.label "Sevha leyi nghenaka:">
-<!ENTITY incomingServerLabel.accesskey "L">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "Tsala vito ra sevha ya wena ya mahungu (NNTP) (xikombiso, &quot;news.example.net.quot;.)">
-<!-- LOCALIZATION NOTE (smtpServerTitle.label) : Do not translate "SMTP" in below line -->
-<!ENTITY smtpServerTitle.label "Sevha leyi humaka(SMTP)">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "Tsala vito ra sevha ya wena leyi humaka (SMTP) (xikombiso, &quot;smtp.example net.quot;).">
-<!ENTITY smtpServerLabel.label "Sevha leyi humaka:">
-<!ENTITY smtpServerLabel.accesskey "S">
-<!ENTITY newsServerLabel.label "Sevha ya Ntlawa wa mahungu:">
-<!ENTITY newsServerLabel.accesskey "S">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
 <!-- LOCALIZATION NOTE (popType.label) : Do not translate "POP" in below line -->
 <!ENTITY popType.label "POP">
 <!ENTITY popType.accesskey "P">
-<!ENTITY nntpType.label "Sevha ya mahungu">
 <!-- for when the user has an SMTP server pre-configured -->
 <!-- LOCALIZATION NOTE (currentSmtpBefore.label) : Do not translate "SMTP" and "&quot;" in
      this variable. Also, translate currentSmtpBefore.label and currentSmtpAfter.label as a single sentence,
@@ -72,41 +57,37 @@
      text after the "&quot;" entity in haveSmtp1.suffix, if required grammatically.
 -->
 
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "Tsala vito ra sevha ya wena ya mahungu (NNTP) (xikombiso, &quot;news.example.net.quot;.)">
+<!ENTITY newsServerLabel.label "Sevha ya Ntlawa wa mahungu:">
+<!ENTITY newsServerLabel.accesskey "S">
+
+<!-- Entities for Outgoing Server page -->
+
 <!ENTITY haveSmtp1.prefix "Sevha leyi humaka ya sweswi (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix "&quot;, yi ta tirhisiwa. U nga lulamisa sevha leyi humaka hi ku hlawula Ndhawu ya Akhawunti eka Menyu ya Switirhisiwa.">
 <!-- Entities for Login page -->
 
 
-<!ENTITY loginTitle.label "Mavito ya vatirhisi">
-<!ENTITY usernameDesc.label "Tsala vito ro nghena ra mutirhisi leri u nyikiweke rona hi vini va sevhisi ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(xikombiso, &quot;jsmith&quot;).">
-<!ENTITY usernameLabel.label "Vito ro nghena ra mutirhisi:">
-<!ENTITY usernameLabel.accesskey "V">
-<!ENTITY usernameSmtpDesc.label "Tsala vito ro huma ra mutirhisi leri u nyikiweke hi vini va sevhisi (leri ri fana ni leri u ri tirhiselaka ku nghena).">
-<!ENTITY usernameSmtpLabel.label "Tsala vito ro huma ra mutirhisi:">
-<!ENTITY usernameSmtpLabel.accesskey "T">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Vito ra wena ra mutirhisi (SMTP), &quot;">
-<!ENTITY haveSmtp2.suffix "&quot;, yi ta tirhisiwa. U nga lulamisa sevha yo huma hi ku hlawula Malulamisele ya Akhawunti eka.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Sevha ya wena yo huma (SMTP), &quot;">
-<!ENTITY haveSmtp3.suffix "&quot;, yi fana na sevha ya wena yo nghena, vito ra wena ra mutirhisi ro nghena ri ta tirhisiwa. U nga lulamisa sevha leyi humaka hi ku hlawula Akhawunti ni menu yamathulusi.">
+
 <!-- Entities for Account name page -->
 
 
 <!ENTITY accnameTitle.label "Vito ra Akhawunti">
 <!-- LOCALIZATION NOTE (accnameDesc.label) : do not translate any "&quot;" in below line -->
 <!ENTITY accnameDesc.label "Tsala vito leri u ri rhandzaka ku vitana akhawunti leyi (xikombiso, &quot;Akhawunti ya Ntirho&quot;, &quot;Akhawunti ya le Ekaya&quot; &quot;Akhawuti Yintshwa&quot;).">
-<!ENTITY accnameExample.label "Xikombiso, Akhawunti ya Ntirho, Akhawunti ya le kaya kumbe Akhawunti Yintshwa">
 <!ENTITY accnameLabel.label "Vito ra Akhawunti:">
 <!ENTITY accnameLabel.accesskey "V">
+
 <!-- Entities for Done (Congratulations) page -->
 
 
