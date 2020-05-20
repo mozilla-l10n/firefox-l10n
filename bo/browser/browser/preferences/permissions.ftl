@@ -5,43 +5,57 @@
 permissions-window =
     .title = དམིགས་བསལ་ཅན
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = དྲ་ཚིགས་ཀྱི་གནས
     .accesskey = d
+
 permissions-block =
     .label = བཀག་པ
     .accesskey = B
+
 permissions-session =
     .label = སྦྲེལ་ཐུན་ལ་གཏོང་བ
     .accesskey = S
+
 permissions-allow =
     .label = གཏོང་བ
     .accesskey = A
+
 permissions-site-name =
     .label = དྲ་ཚིགས
+
 permissions-status =
     .label = གནས་སྟངས
+
 permissions-remove =
     .label = དྲ་ཚིགས་བསུབ་པ
     .accesskey = R
+
 permissions-remove-all =
     .label = དྲ་ཚིགས་ཡོངས་བསུབ་པ
     .accesskey = e
+
 permissions-button-cancel =
     .label = ཕྱིར་འཐེན
     .accesskey = C
+
 permissions-button-ok =
     .label = བཟོ་བཅོས་ཉར་ཚགས
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = དྲ་ཚིགས་འཚོལ་བ
+
 permissions-capabilities-allow =
     .label = གཏོང་བ
 permissions-capabilities-block =
     .label = བཀག་པ
 permissions-capabilities-prompt =
     .label = དུས་རྟག་ཏུ་འདྲི་བ
+
 permissions-capabilities-listitem-allow =
     .value = གཏོང་བ
 permissions-capabilities-listitem-block =
@@ -96,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = You can specify which websites are always or never allowed to autoplay media with sound. Type the address of the site you want to manage and then click Block or Allow.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -115,6 +131,8 @@ permissions-site-location-desc = The following websites have requested to access
 permissions-site-location-disable-label =
     .label = Block new requests asking to access your location
 permissions-site-location-disable-desc = This will prevent any websites not listed above from requesting permission to access your location. Blocking access to your location may break some website features.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

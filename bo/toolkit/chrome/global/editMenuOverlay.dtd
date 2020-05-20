@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "ཆ་ཚང་གདམ་པ">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "འཚོལ་བ">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

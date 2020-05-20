@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = ཕྱིར་འཐེན
     .accesskey = U
+
 editmenu-redo =
     .label = བསྐྱར་བཟོ
     .accesskey = R
+
 editmenu-cut =
     .label = སྤོར་བ
     .accesskey = t
+
 editmenu-copy =
     .label = འདྲ་བཤུ
     .accesskey = C
+
 editmenu-paste =
     .label = སྦྱར་བ
     .accesskey = P
+
 editmenu-delete =
     .label = བསུབ་པ
     .accesskey = D
+
 editmenu-select-all =
     .label = ཡོད་ཚད་གདམ
     .accesskey = A

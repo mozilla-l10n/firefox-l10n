@@ -5,3 +5,4 @@
 containers-window-new =
     .title = འཇུག་སྣོད་གསར་བ་ཁ་སྣོན
     .style = width: 45em
+

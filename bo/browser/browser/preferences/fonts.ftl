@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ཡིག་གཟུགས
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ཡིག་གཟུགས
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = ཨ་རབ་སྐད
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = འོས་སྒྲིག་གི་ཆ་ཚད
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = ཆེ་ཆུང
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans Serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = ཆེ་ཆུང
     .accesskey = e
+
 fonts-minsize = ཡིག་གཟུགས་ཀྱི་ཆ་ཚད་ཆུང་ཤོས
     .accesskey = o
+
 fonts-minsize-none =
     .label = མེད་པ
+
 fonts-allow-own =
     .label = དྲ་ངོས་སོ་སོས་རང་འགུལ་གྱིས་བདམས་ཆོག་པ། གོང་གི་གདམ་སེལ་བེད་སྤྱོད་མི་བྱེད།
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ནང་དོན་རྙིས་བ་ལ་སྤྱོད་དགོས་པའི་ཡི་གེའི་ཨང་སྒྲིག
 fonts-languages-fallback-desc = This text encoding is used for legacy content that fails to declare its encoding.
+
 fonts-languages-fallback-label = རྒྱབ་བརྟེན་གྱི་ཡི་གེ་ཨང་སྒྲིག
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = ད་ཡོད་རང་ལུགས་ཀྱི་སྔོན་སྒྲིག
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamese
 fonts-languages-fallback-name-other =
     .label = གཞན ༼ཡོ་རོབ་ནུབ་མ་དང་བཅས༽
-fonts-very-large-warning-title = ཡིག་གཟུགས་ཆ་ཚད་ཆེ་ཤོས
-fonts-very-large-warning-message = You have selected a very large minimum font size (more than 24 pixels). This may make it difficult or impossible to use some important configuration pages like this one.
-fonts-very-large-warning-accept = གང་ལྟར་ངའི་བཟོ་བཅོས་དག་ཉར་བ།
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

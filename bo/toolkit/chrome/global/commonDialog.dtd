@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "ཁ་བྱང་བསྡུས་པ"> 
 <!ENTITY message.label    "འདིར་དཔེ་བརྗོད་འགའ་ཞིག་ཡོད།">
+
 <!ENTITY editfield0.label "སྤྱོད་མཁན་མིང:"> 
 <!ENTITY editfield1.label "གསང་གྲངས:"> 
-<!ENTITY checkbox.label   "ཚོལ་ལྟ">
+<!ENTITY checkbox.label   "ཚོལ་ལྟ"> 
 <!ENTITY copyCmd.label    "འདྲ་བཤུ">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "ཆ་ཚང་གདམ་པ">

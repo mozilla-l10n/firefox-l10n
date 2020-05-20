@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = དྲ་ཚིགས་ཀྱི་སྐོར་ཀློག་པ
 
@@ -77,10 +78,12 @@ urlbar-canvas-blocked =
     .tooltiptext = You have blocked canvas data extraction for this website.
 urlbar-midi-blocked =
     .tooltiptext = You have blocked MIDI access for this website.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ཡིག་རྟགས་འདི་རྩོམ་སྒྲིག ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,6 +115,7 @@ search-one-offs-change-settings-button =
     .label = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
 search-one-offs-change-settings-compact-button =
     .tooltiptext = འཚོལ་བཤེར་གྱི་སྒྲིག་འགོད་སྒྱུར་བ
+
 search-one-offs-context-open-new-tab =
     .label = ཡན་ལག་ངོས་གསར་བའི་ནང་དུ་འཚོལ་བ
     .accesskey = T
@@ -124,8 +128,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Show editor when saving
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Done
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -200,9 +206,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Browser is under remote control
 urlbar-switch-to-tab =
     .value = Switch to tab:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ཟུར་སྣོན:
+
 urlbar-go-button =
     .tooltiptext = གནས་ཁོངས་ངོས་ཀྱི་དྲ་གནས་ཐོག་ཏུ་སྐྱོད་པ
 urlbar-page-action-button =
