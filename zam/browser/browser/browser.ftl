@@ -77,5 +77,5 @@ urlbar-placeholder =
     .placeholder = Kuan dee kuan luu
 urlbar-switch-to-tab =
     .value = Xhe loo gibb:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Cuan taa diff loo
