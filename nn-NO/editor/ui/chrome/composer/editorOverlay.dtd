@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Skrifttype">
 <!ENTITY FontFaceSelect.tooltip "Vel skrifttype">
 <!ENTITY fontfaceMenu.label "Skrifttype">
 <!ENTITY fontfaceMenu.accesskey "S">
