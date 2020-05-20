@@ -35,6 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY errorConsole.title "Error Console">
 
 <!ENTITY errFile.label "Mohlodi wa Faele:">
@@ -53,13 +57,13 @@
 <!ENTITY clear.accesskey "H">
 <!ENTITY evaluate.label "Tlosa">
 
-<!ENTITY copyCmd.label "Kopitsa">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY copyCmd.commandkey "C">
+<!ENTITY copyCmd.label "Kopitsa">  
+<!ENTITY copyCmd.accesskey "K"> 
+<!ENTITY copyCmd.commandkey "C"> 
 <!ENTITY sortFirst.label "Ya pele > Tlhopho ka Tatellano ya tse Qetellang">
 <!ENTITY sortFirst.accesskey "y">
 <!ENTITY sortLast.label "Ya pele > Tlhopho ka Tatellano ya tse Qalang">
 <!ENTITY sortLast.accesskey "y">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey "l">  
+<!ENTITY focus2.commandkey "d">  

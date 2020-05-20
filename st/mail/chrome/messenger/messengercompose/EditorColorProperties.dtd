@@ -36,6 +36,10 @@
    - ***** END LICENSE BLOCK ***** -->
 <!-- Window title -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY windowTitle.label "Mebala Bokamorao ba Leqephe">
 <!ENTITY pageColors.label "Mebala ya Leqephe">
 <!ENTITY defaultColorsRadio.label "Mebala ya kamehla ya mmadi (Se ke wa seta mebala leqepheng)">

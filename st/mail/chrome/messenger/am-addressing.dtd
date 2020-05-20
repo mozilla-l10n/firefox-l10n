@@ -1,4 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label "Bohlophisi &amp; Ho ateresa">
 <!ENTITY addressingGroupTitle.label "Ho ateresa">
@@ -11,8 +17,11 @@
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "Sebedisa seva ya LDAP e fapaneng:">
 <!ENTITY directories.accesskey "d">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label "Tlhophiso">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -20,9 +29,6 @@
 <!ENTITY useHtml.accesskey "H">
 <!ENTITY autoQuote.label "Qotsa molaetsa wa mathomo ka ho iketsa ha o araba">
 <!ENTITY autoQuote.accesskey "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label "Ebe o,">
-<!ENTITY then.accesskey "e">
 <!ENTITY aboveQuote.label "qala karabo ya ka ka hodima qotso">
 <!ENTITY belowQuote.label "qala karabo ya ka ka tlasa qotso">
 <!ENTITY selectAndQuote.label "kgetha qotso">
@@ -30,3 +36,4 @@
 <!ENTITY place.accesskey "k">
 <!ENTITY belowText.label "ka tlasa qotso (e a kgothaletswa)">
 <!ENTITY aboveText.label "tlasa karabo ya ka (hodima qotso)">
+

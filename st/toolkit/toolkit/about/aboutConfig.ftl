@@ -31,39 +31,52 @@ config-column-chooser =
 config-copy-name =
     .label = Kopitsa Lebitso
     .accesskey = K
+
 config-copy-value =
     .label = Kopitsa Palo
     .accesskey = P
+
 config-modify =
     .label = Fetola
     .accesskey = F
+
 config-toggle =
     .label = Tsamatsamaisa
     .accesskey = T
+
 config-reset =
     .label = Seta botjha
     .accesskey = S
+
 config-new =
     .label = E ntjha
     .accesskey = E
+
 config-string =
     .label = Mola
     .accesskey = M
+
 config-integer =
     .label = Nomoro e feletseng
     .accesskey = N
+
 config-boolean =
     .label = Booleana
     .accesskey = B
+
 config-default = ya kamehla
 config-locked = notletswe
+
 config-property-string = mola
 config-property-int = nomoro e feletseng
 config-property-bool = booleana
+
 config-new-prompt = Kenya lebitso la boikgethelo
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Palo ya { $type } e ntjha
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Kenya palo ya { $type }

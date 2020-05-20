@@ -1,14 +1,11 @@
 <!-- extracted from am-server-top.xul -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY securitySettings.label "Disetwa tsa Tshireletseho">
 <!ENTITY serverSettings.label "Disetwa tsa Seva">
-<!-- LOCALIZATION NOTE (popServer.label) : do not translate "POP" in below line -->
-<!ENTITY popServer.label "Seva ya Meile ya POP">
-<!-- LOCALIZATION NOTE (imapServer.label) : do not translate "IMAP" in below line -->
-<!ENTITY imapServer.label "Seva ya Meile ya IMAP">
-<!-- LOCALIZATION NOTE (newsServer.label) : do not translate "NNTP" in below line -->
-<!ENTITY newsServer.label "Seva ya Diataba (NNTP)">
-<!ENTITY webmail.label "Akhaonte ya WebMeile">
 <!ENTITY serverType.label "Mofuta wa Seva:">
 <!ENTITY serverName.label "Lebitso la Seva:">
 <!ENTITY serverName.accesskey "L">
@@ -17,7 +14,6 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Ya kamehla:">
-<!ENTITY savePassword.label "Boloka phasewete">
 <!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
         For example, in Japanese cases:
                 biffStart.label "every"
@@ -26,19 +22,6 @@
 <!ENTITY biffStart.label "Sheba melaetsa e metjha kamehla ">
 <!ENTITY biffStart.accesskey "b">
 <!ENTITY biffEnd.label "metsotso">
-<!ENTITY isSecure.label "Sebedisa kgokelo e sireletsehileng (SSL)">
-<!ENTITY isSecure.accesskey "S">
-<!ENTITY socketType.label "Sebedisa kgokelo e sireletsehileng:">
-<!ENTITY neverSecure.label "Le kamohla">
-<!ENTITY neverSecure.accesskey "L">
-<!ENTITY sometimesSecure.label "TLS, ha e fumaneha">
-<!ENTITY sometimesSecure.accesskey "a">
-<!ENTITY alwaysSecure.label "TLS">
-<!ENTITY alwaysSecure.accesskey "T">
-<!ENTITY alwaysSSL.label "SSL">
-<!ENTITY alwaysSSL.accesskey "L">
-<!ENTITY useSecAuth.label "Sebedisa netefatso e sireletsehileng">
-<!ENTITY useSecAuth.accesskey "f">
 <!ENTITY leaveOnServer.label "Siya melaetsa seveng">
 <!ENTITY leaveOnServer.accesskey "t">
 <!ENTITY headersOnly.label "Lata dihlooho feela">
@@ -46,16 +29,9 @@
 <!ENTITY deleteByAgeFromServer.label "Bakeng la bongata">
 <!ENTITY deleteByAgeFromServer.accesskey "a">
 <!ENTITY daysEnd.label "matsatsi">
-<!ENTITY deleteOnServer.label "Ho fihlela ke phumula kapa ke di suthisa lebokoseng la Tsekenang">
-<!ENTITY deleteOnServer.accesskey "p">
 <!ENTITY downloadOnBiff.label "Jarolla melaetsa e metjha ka ho iketsa">
 <!ENTITY downloadOnBiff.accesskey "e">
-<!ENTITY hostname.label "Lebitso la Seva ya Moamohedi">
-<!ENTITY username.label "Lebitso la ho Kena la Hao">
-<!-- LOCALIZATION NOTE (popServerTitle.label) : do not translate "POP" in below line -->
-<!ENTITY popServerTitle.label "Lesedi ka Seva ya POP">
 <!ENTITY deleteMessagePrefix.label "Ha ke phumula molaetsa:">
-<!ENTITY deleteMessagePrefix.accesskey "H">
 <!ENTITY modelMoveToTrash.label "E ise foldareng ya Matlakala">
 <!ENTITY modelMarkDeleted.label "E tshwae e le e phumutsweng">
 <!ENTITY modelDeleteImmediately.label "Tlosa hanghang">
@@ -77,18 +53,16 @@
 <!ENTITY alwaysAuthenticate.label "Kamehla kopa netefaletso pele o hokela seveng ena">
 <!ENTITY alwaysAuthenticate.accesskey "m">
 <!ENTITY newsrcFilePath.label "faele ya ditaba:">
-<!ENTITY newsrcFilePath.accesskey "d">
-<!ENTITY localPath.label "Daerekthri ya tikoloho:">
-<!ENTITY localPath.accesskey "D">
+<!ENTITY newsrcPicker.label "Kgetha faele ya Ditaba">
 <!ENTITY abbreviate.label "Bontsha mabitso a dihlopha tsa ditaba fenstereng ya Foldara ya Meile e le:">
 <!ENTITY abbreviateOn.label "Mabitso ka botlalo (mohlala, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Kgutsufatsa mabitso (Mohlala, 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "E hatetseng pele...">
-<!ENTITY serverDefaultCharset.label "Default Character Encoding:">
 <!ENTITY advancedButton.accesskey "h">
+<!ENTITY localPath.label "Daerekthri ya tikoloho:">
 <!ENTITY localFolderPicker.label "Kgetha Daerektri ya Haufi">
 <!ENTITY browseFolder.label "Lekola...">
 <!ENTITY browseFolder.accesskey "L">
-<!ENTITY newsrcPicker.label "Kgetha faele ya Ditaba">
 <!ENTITY browseNewsrc.label "Lekola...">
 <!ENTITY browseNewsrc.accesskey "l">
+

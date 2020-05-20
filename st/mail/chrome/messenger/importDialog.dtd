@@ -43,15 +43,22 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 -->
 
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!--
+LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
+Netscape Communicator, Please translate using the brandname in respective
+languages for Netscape Communicator 4 releases.
+LOCALIZATION NOTE : Do not translate any of the occurrences of the word
+"&brandShortName;" below.
+-->
+
 <!ENTITY importDialog.windowTitle "Romela-kahare">
-<!ENTITY importDialog.mailTitle "Meile">
-<!ENTITY importDialog.addressbookTitle "Buka ya Diaterese">
-<!ENTITY importDialog.settingsTitle "Disetwa">
 
 <!ENTITY importTitle.label "&brandShortName; Wizate ya ho Meile e Romelwang-kahare">
-<!ENTITY importDesc.label "Meile e Romelwang-kahare, Buka ya Diaterese le Disetwa tsa diprokreme tse ding">
 
-<!ENTITY importDescription.label "Wizate e tla lata melaetsa ya meile, dikenyo tse bukeng ya diaterese, le/kapa boikgethelo ba diprokreme tse ding tsa meile le difomateng tse atileng tsa buka ya diaterese ho ya ho &brandShortName; Meile.">
 <!ENTITY importDescription2.label "Ha di latilwe, o tla kgona ho di fihlella ho tswa kahara &brandShortName; Meile le/kapa Buka ya Diaterese.">
 
 <!ENTITY selectDescription.label "Ka kopo kgetha prokreme eo o ratang ho lata ho yona:">
@@ -66,8 +73,3 @@ LOCALIZATION NOTE : Do not translate any of the occurances of the word
 <!ENTITY title.label "Thaetlele">
 <!ENTITY processing.label "E a romela-kahare...">
 
-<!ENTITY FieldDiscInputText1.label "Netscape Communicator 4.x e na le aterese e le nngwe ya meile bakeng sa karete ka nngwe, ha &brandShortName; le na le tse pedi (Lapeng le Mosebetsing).">
-<!ENTITY FieldDiscInputText2.label "Kgetha mokgahlelo oo o batlang ho boloka diaterese tsa meile tse rometsweng-kahare ho wona:">
-<!ENTITY FieldDiscWarning.label "Mokgahlelo ona o tla sebedisetswa dikenyo tsohle tsa buka ya diaterese e kgethilweng: ">
-<!ENTITY importDialog.homeTitle "Lapeng">
-<!ENTITY importDialog.workTitle "Mosebetsing">

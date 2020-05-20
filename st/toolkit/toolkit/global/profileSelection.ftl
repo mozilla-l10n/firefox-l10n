@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Kgetha Profaele ya Mosebedisi
+
 profile-selection-button-accept =
     .label = Qala { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Etswa
+
 profile-selection-new-button =
     .label = Etsa Profaele...
     .accesskey = E
+
 profile-selection-rename-button =
     .label = Reha Profaele Botjha...
     .accesskey = R
+
 profile-selection-delete-button =
     .label = Phumula Profaele...
     .accesskey = P
@@ -21,6 +26,8 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } e boloka tlhahisoleseding ka disetwa tsa hao, boikgethelo, le dintho tse ding tsa mosebedisi profaeleng ya hao ya mosebedisi.
+
 profile-manager-work-offline =
     .label = Sebetsa o hakolotse inthaneteng
     .accesskey = e
+

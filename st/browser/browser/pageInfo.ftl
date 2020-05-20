@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 425px; min-height: 470px;
+
 copy =
     .key = C
 menu-copy =
     .label = Kopi
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Kgetha Tsohle
     .accesskey = T
+
 general-title =
     .value = Thaetlele:
 general-url =
@@ -32,6 +35,7 @@ general-meta-name =
     .label = Lebitso
 general-meta-content =
     .label = Dikateng
+
 media-alt-header =
     .label = Mongolo wa Phapanyetsano
 media-address =
@@ -66,9 +70,11 @@ media-object = Objekte
 media-embed = Tsepamisa
 media-link = Aekhone
 media-input = Kenyo
+
 no-page-title =
     .value = Leqephe le Se nang Thaetlele:
 general-quirks-mode =
     .value = Mokgwa wa quirks
 general-strict-mode =
     .value = Mokgwa wa boikamahanyo le maemo
+

@@ -9,13 +9,19 @@ colors-window =
             [macos] width: 41em
            *[other] width: 38em
         }
+
 colors-close-key =
     .key = w
+
 colors-text-and-background = Mongolo le Bokamorao
+
 colors-use-system =
     .label = Sebedisa mebala ya sistimi
     .accesskey = e
+
 colors-underline-links =
     .label = Sehella mahokela mola
     .accesskey = s
+
 colors-links-header = Hokanya Mebala
+

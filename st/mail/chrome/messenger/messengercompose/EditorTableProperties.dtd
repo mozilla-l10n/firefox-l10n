@@ -35,6 +35,10 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title "Dimelo tsa Tafole">
 <!ENTITY applyButton.label "Sebedisa">
 <!ENTITY applyButton.accesskey "S">
@@ -69,7 +73,6 @@
 <!ENTITY tableCaptionNone.label "Ha eyo">
 <!ENTITY tableInheritColor.label "(Etsa hore mmala wa leqephe o bonaletse)">
 
-<!ENTITY cellPercent.label "peresente ya tafole">
 <!ENTITY cellSelection.label "Kgetho">
 <!ENTITY cellSelectCell.label "Sele">
 <!ENTITY cellSelectRow.label "Mola">
@@ -78,13 +81,6 @@
 <!ENTITY cellSelectNext.accessKey "E">
 <!ENTITY cellSelectPrevious.label "E fetileng">
 <!ENTITY cellSelectPrevious.accessKey "E">
-<!ENTITY cellApplyBeforeMove.label "Etsa diphetoho pele o fetola kgetho">
-<!ENTITY cellKeepCurrentData.label "Boloka disetwa tsa hajwale">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label "Diphetoho tsa hajwale di tla sebediswa">
-<!ENTITY applyBeforeChange2.label "pele o fetola kgetho.">
-<!ENTITY cellRowSpan.label "Sepane sa Mola:">
-<!ENTITY cellColSpan.label "Sepane sa Kholomo:">
 <!ENTITY cellContentAlignment.label "Matahanyo ya Dikateng">
 <!ENTITY cellHorizontal.label "Rapameng:">
 <!ENTITY cellHorizontal.accessKey "M">
@@ -102,7 +98,6 @@
 <!ENTITY cellAlignMiddle.label "Bohareng">
 <!ENTITY cellAlignBottom.label "Tlase">
 <!ENTITY cellAlignJustify.label "Tsitsisa">
-<!ENTITY cellAlignAtChar.label "Tlhakung:">
 <!ENTITY cellInheritColor.label "(Etsa hore mmala wa tafole o bonaletse)">
 <!ENTITY cellUseCheckboxHelp.label "Sebedisa mabokose-tshwayo ho laola hore ke dimelo dife tse sebediswang diseleng tsohle tse kgethilweng">
 <!-- Used in both Table and Cell panels  -->

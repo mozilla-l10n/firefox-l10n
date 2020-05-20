@@ -35,16 +35,15 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY AdvancedEditButton.label "Ho edita Ho hatetseng pele...">
 <!ENTITY AdvancedEditButton.accessKey "H">
 <!ENTITY AdvancedEditButton.tooltip "Eketsa kapa o fetole dipopeho tsa HTML, dipopeho tsa setaele, le JavaScript">
-<!ENTITY chooseButton.label "Kgetha Faele...">
-<!ENTITY chooseFile.accessKey "F">
-<!ENTITY chooseFileLink.accessKey "o">
 <!ENTITY makeUrlRelative.label "URL e tsamaelana le tulo ya leqephe">
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Fetoha pakeng tsa URL ya papiso le e ikemetseng. O lokela ho boloka leqephe pele o fetola sena.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Kenya tulo ya leqephe la webe, faele e haufi, kapa kgetha Ankere e Boletsweng kapa Sehlooho lenaneng la tse itlhahisang:">
-<!ENTITY LinkURLEditField.accessKey "T">

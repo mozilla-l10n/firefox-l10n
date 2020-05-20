@@ -37,7 +37,10 @@
 # ***** END LICENSE BLOCK *****
 -->
 
-<!ENTITY intro.label "O kgethile ho bula">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY from.label "ho tswa ho:">
 <!ENTITY actionQuestion.label "&brandShortName; le lokela ho etsa eng; ka faele ee?">
 
@@ -45,17 +48,8 @@
 <!ENTITY openWith.accesskey "b">
 <!ENTITY other.label "E nngwe...">
 
-<!ENTITY save.label "Boloka Diskeng">
-<!ENTITY save.accesskey "b">
-
 <!ENTITY rememberChoice.label "Etsa sena ka ho iketsa bakeng sa difaele tse jwalo ka ena ho tloha hajwale.">
 <!ENTITY rememberChoice.accesskey "k">
-
-<!ENTITY settingsChange.label "Settings can be changed in the Content section of Tools, Options.">
-<!ENTITY settingsChangeMac.label "Settings can be changed in the Content section of &brandShortName;, Preferences.">
-<!ENTITY settingsChangeUnix.label "Settings can be changed in the Content section of Edit, Preferences.">
-
-<!ENTITY whichIsA.label "e leng:">
 
 <!ENTITY chooseHandlerMac.label "Kgetha...">
 <!ENTITY chooseHandlerMac.accesskey "K">

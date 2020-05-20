@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Mabapi le Meile e Seng Bohlokwa">
 <!ENTITY window.width "450">
 <!ENTITY info1a.label "&brandShortName; fumana ka tsela e itshebetsang melaetsa e kenang e bonahalang e le poso ya matlakala (hape e bitswa spamo). Melaetsa eo &brandShortName; le nahanang hore ke matlakala e tla bontshwa ka aekhone ya matlakala">

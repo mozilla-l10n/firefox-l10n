@@ -38,37 +38,21 @@
    -
    - ***** END LICENSE BLOCK ***** -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY folderProps.windowtitle.label "Dimelo">
 
 <!ENTITY generalInfo.label "Tlhahisoleseding e Akaretsang">
-<!ENTITY folderCharsetTab.label "Ho Ngolwa ha Ditlhaku tsa Kamehla ka Dikhoutu:">
-<!ENTITY folderCharsetTab.accesskey "K">
-<!ENTITY folderCharsetOverride.label "Sebedisa ya kamehla melaetseng yohle e foldrareng (disetwa tsa ho ngolwa ha ditlhaku ka bonngwe ka dikhoutu le ho iphumanela ho tla iphapanyetswa)">
-<!ENTITY folderCharsetOverride.accesskey "S">
-<!ENTITY folderRebuildSummaryFile.label "Rebuild Index">
-<!ENTITY folderRebuildSummaryFile.accesskey "R">
-<!ENTITY folderRebuildSummaryFileTip.label "Rebuild Summary File">
 
 
 <!ENTITY retention.label "Leano la ho Tshwarella">
-<!ENTITY retentionUseDefault.label "Sebedisa dintlha tsa kamehla tsa seva">
-<!ENTITY retentionUseDefault.accesskey "d">
-<!ENTITY days.label "matsatsi">
 <!ENTITY daysOld.label "nako ka matsatsi">
 <!ENTITY message.label "melaetsa">
 <!ENTITY retentionCleanup.label "Ho kgutlisa sebaka diskeng, melaetsa ya kgale e ka phumulelwa ruri">
-<!ENTITY retentionKeepMsg.label "Phumula melaetsa e fetang">
-<!ENTITY retentionKeepMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Se phumule melaetsa efe kapa efe">
 <!ENTITY retentionKeepAll.accesskey "E">
-<!ENTITY retentionKeepNew.label "Phmula tsohle ntle le wa qetelo">
-<!ENTITY retentionKeepNew.accesskey "m">
-<!ENTITY retentionKeepUnread.label "Ka mehla phumula melaetsa e badilweng">
-<!ENTITY retentionKeepUnread.accesskey "b">
-
-<!ENTITY folderOfflineTab.label "O hakolotswe">
-<!ENTITY folderCheckForNewMessages.label "Hlahloba foldara ena bakeng sa melaetsa e metjha">
-<!ENTITY folderCheckForNewMessages.accesskey "H">
 
 <!ENTITY offlineFolder.check.label "Kgetha foldara ena bakeng sa tshebediso e sa hokelwang">
 <!ENTITY offlineFolder.check.accesskey "K">
@@ -77,16 +61,13 @@
 
 <!ENTITY selectofflineNewsgroup.check.label "Kgetha sehlopha sena sa ditaba ho se sebedisa ha o sa hokela">
 <!ENTITY selectofflineNewsgroup.check.accesskey "p">
-<!ENTITY UseDefaultofflineNewsgroup.check.label "Sebedisa tsa kamehla ho disetwa tsa akhaonte ">
 <!ENTITY offlineNewsgroup.button.label "Jarolla Hona jwale">
 <!ENTITY offlineNewsgroup.button.accesskey "J">
 
-<!ENTITY folderProps.information.label "Tlhahisoleseding:">
 <!ENTITY folderProps.name.label "Lebitso:">
 <!ENTITY folderProps.name.accesskey "L">
 
 <!ENTITY folderSharingTab.label "E Arolelanang">
-<!ENTITY privilegesDesc.label "Arolelana foldara ena le tse ding le basebedisi ba neteweke mme o bontshe le ho seta menyetla ya phihlello">
 <!ENTITY privileges.button.label "Menyetla...">
 <!ENTITY privileges.button.accesskey "M">
 <!ENTITY permissionsDesc.label "O na le ditumello tse latelang:">
@@ -96,3 +77,4 @@
 <!ENTITY folderQuotaRoot.label "Motso wa quota:">
 <!ENTITY folderQuotaUsage.label "Tshebediso:">
 <!ENTITY folderQuotaStatus.label "Boemo:">
+

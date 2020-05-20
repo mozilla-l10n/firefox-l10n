@@ -1,5 +1,8 @@
-<!ENTITY identitiesListTitle.label "Boitsebiso bo Amanang le Akhaonto Ena">
-<!ENTITY identitiesListDesc.label "Tshehetso ya Boitsebiso bo Hangata">
+
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY identitiesListAdd.label "Eketsa...">
 <!ENTITY identitiesListAdd.accesskey "E">
 <!ENTITY identitiesListEdit.label "Edita...">

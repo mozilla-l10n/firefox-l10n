@@ -4,3 +4,4 @@
 
 aboutDialog-title =
     .title = Ka { -brand-full-name }
+

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Difiltara tsa Melaetsa">
 <!ENTITY nameColumn.label "Lebitso la Filtara">
 <!ENTITY activeColumn.label "E kgonahaditswe…">
@@ -22,8 +26,6 @@
 <!ENTITY stopFilters.accesskey "E">
 <!ENTITY folderPickerPrefix.label "Bulela difiltara tse kgethilweng ho:">
 <!ENTITY folderPickerPrefix.accesskey "h">
-<!ENTITY choosethis.label "kgetha foldara ena">
-<!ENTITY choosethisnewsserver.label "kgetha seva ena ya ditaba">
 <!ENTITY helpButton.label "Thuso">
 <!ENTITY helpButton.accesskey "T">
 <!ENTITY closeCmd.key "W">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Buka ya Diaterese">
 <!-- File Menu -->
 
@@ -5,10 +9,6 @@
 <!ENTITY fileMenu.accesskey "f">
 <!ENTITY newMenu.label "E ntjha">
 <!ENTITY newMenu.accesskey "N">
-<!ENTITY newCard.label "Karete ya Buka ya Diaterese...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey "C">
-<!ENTITY newCard.key "N">
 <!ENTITY newListCmd.label "Lenane la ho Posa...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey "L">
@@ -25,22 +25,11 @@
 <!ENTITY closeCmd.accesskey "k">
 <!ENTITY printSetupCmd.label "Ho Laela Leqephe...">
 <!ENTITY printSetupCmd.accesskey "e">
-<!ENTITY printPreviewCardViewCmd.label "Karete ya Tekolo-pele ya ho Printa">
-<!ENTITY printPreviewCardViewCmd.accesskey "k">
 <!ENTITY printPreviewAddressBook.label "Tekolo-pele ya Buka ya Diaterese">
 <!ENTITY printPreviewAddressBook.accesskey "D">
-<!ENTITY printCardViewCmd.label "Karete ya ho Phrinta...">
-<!ENTITY printCardViewCmd.accesskey "k">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key "P">
 <!ENTITY printAddressBook.label "Ho phrinta Buka ya Diaterese...">
 <!ENTITY printAddressBook.accesskey "B">
 
-<!ENTITY quitApplicationCmdWin.label "Etswa">
-<!ENTITY quitApplicationCmdWin.accesskey "t">
-<!ENTITY quitApplicationCmd.label "Tswa">
-<!ENTITY quitApplicationCmd.accesskey "T">
-<!ENTITY quitApplicationCmd.key "Q">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label "Edita">
@@ -61,11 +50,8 @@
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "k">
 <!ENTITY deleteCmd.label "Hlakola">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "h">
 <!ENTITY deleteAbCmd.label "Hlakola Buka ya Diaterese">
-<!ENTITY deleteCardCmd.label "Hlakola Karete">
-<!ENTITY deleteCardsCmd.label "Hlakola Karete tse Kgethilweng">
 <!ENTITY selectAllCmd.label "Kgetha A">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY searchAddressesCmd.key "f">
@@ -75,9 +61,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label "Dimelo...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey "i">
 <!ENTITY propertiesCmd.key "i">
 <!-- View Menu -->
 
@@ -91,12 +74,8 @@
 <!ENTITY showTaskbarCmd.accesskey "M">
 <!ENTITY customizeToolbar.label "Khastomaesa...">
 <!ENTITY customizeToolbar.accesskey "K">
-<!ENTITY showCardPane.label "Kakaretso ya Karete ya Fentere">
-<!ENTITY showCardPane.accesskey "K">
 <!ENTITY menu_ShowNameAs.label "Bontsha o Rehe">
 <!ENTITY menu_ShowNameAs.accesskey "r">
-<!ENTITY firstLastCmd.label "Pele, Qetelo">
-<!ENTITY firstLastCmd.accesskey "p">
 <!ENTITY lastFirstCmd.label "Qetelo, Pele">
 <!ENTITY lastFirstCmd.accesskey "q">
 <!ENTITY displayNameCmd.label "Pepesa Lebitso">
@@ -116,48 +95,25 @@
 <!ENTITY importCmd.accesskey "L">
 <!ENTITY exportCmd.label "Isa...">
 <!ENTITY exportCmd.accesskey "I">
-<!ENTITY preferencesCmd.label "Kgetho...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "K">
 <!ENTITY preferencesCmdUnix.label "Kgetho">
 <!ENTITY preferencesCmdUnix.accesskey "t">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Thuso">
-<!ENTITY helpMenu.accesskey "T">
-<!ENTITY releaseCmd.label "Lokolla Dinoutsu">
-<!ENTITY releaseCmd.accesskey "L">
-<!ENTITY hintsAndTips.label "&brandShortName; Thuso">
-<!ENTITY hintsAndTips.accesskey "t">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "Mabapi le &brandShortName;">
-<!ENTITY aboutCmd.accesskey "M">
 <!-- Address Book Toolbar and Context Menus -->  
 
-<!ENTITY newcardButton.label "E ntjha Karete">
-<!ENTITY newcardButton.accesskey "K">
 <!ENTITY newlistButton.label "E ntjha Lenane">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton.label "Dimelo">
-<!ENTITY editButton.accesskey "D">
 <!ENTITY newmsgButton.label "Ngola">
 <!ENTITY newmsgButton.accesskey "N">
 <!ENTITY newIM.label "Molaetsa o potlakang">
 <!ENTITY newIM.accesskey "M">
-<!ENTITY deleteButton.label "Hlakola">
-<!ENTITY deleteButton.accesskey "H">
-<!ENTITY throbberItem.title "Sesupa Tshebetso">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newcardButton.tooltip "Etsa karete e ntjha ya buka ya diaterese">
 <!ENTITY newlistButton.tooltip "Etsa lenane le letjha">
-<!ENTITY editButton.tooltip "Edita karete e kgethilweng">
 <!ENTITY newmsgButton.tooltip "Romela molaetsa wa poso">
 <!ENTITY newIM.tooltip "Romela molaetsa o potlakileng kapa moqoqo">
-<!ENTITY deleteButton.tooltip "Hlakola karete e kgethilweng kapabuka ya diaterese">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label "Buka ya Diaterese">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label "Lebitso kapa Emeili">
@@ -171,8 +127,6 @@
 <!ENTITY GeneratedName.accesskey "L">
 <!ENTITY PrimaryEmail.label "Emeili">
 <!ENTITY PrimaryEmail.accesskey "E">
-<!ENTITY ScreenName.label "Lebitso la Sekerini">
-<!ENTITY ScreenName.accesskey "L">
 <!ENTITY Company.label "Mokgatlo">
 <!ENTITY Company.accesskey "t">
 <!ENTITY NickName.label "Lebitso la boswaswi">
@@ -201,16 +155,6 @@
 <!ENTITY _PhoneticName.accesskey "l">
 <!-- Results pane context menu -->
 
-<!ENTITY composeEmail.label "Qapa Emeili e Yang ho">
-<!ENTITY composeEmail.accesskey "Q">
-<!ENTITY deleteAddrBookCard.label "Hlakola">
-<!ENTITY deleteAddrBookCard.accesskey "H">
-<!ENTITY newAddrBookCard.label "Karete e Ntjha...">
-<!ENTITY newAddrBookCard.accesskey "K">
-<!ENTITY newAddrBookMailingList.label "Lenane le Letjha la Poso...">
-<!ENTITY newAddrBookMailingList.accesskey "P">
-<!ENTITY addrBookCardProperties.label "Dimelo">
-<!ENTITY addrBookCardProperties.accesskey "D">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -231,7 +175,7 @@
 <!--  Mac OS X Window Menu -->
 
 <!ENTITY windowMenu.label "Fenstere">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Nyenyefatsa">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Tlisa Tsohle ka Pele">
 <!ENTITY zoomWindow.label "Hodfisa">

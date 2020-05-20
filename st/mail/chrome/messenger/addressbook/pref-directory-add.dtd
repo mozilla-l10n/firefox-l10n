@@ -35,7 +35,10 @@
 
  ***** END LICENSE BLOCK ***** -->
 
-<!ENTITY newDirectoryTitle.label "Dimelo tsa Seva ya Daerektri">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY directoryName.label "Lebitso: ">
 <!ENTITY directoryName.accesskey "l">
 <!ENTITY directoryHostname.label "Lebitso la Moamohedi: ">
@@ -48,12 +51,9 @@
 <!ENTITY directorySecure.accesskey "S">
 <!ENTITY directoryLogin.label "Kopanya DN: ">
 <!ENTITY directoryLogin.accesskey "o">
-<!ENTITY advancedOptionsButton.label "Dikgetho tse Hatetseng Pele">
-<!ENTITY advancedOptionsButton.accesskey "d">
 <!ENTITY General.tab "Kakaretso">
 <!ENTITY Offline.tab "Hakolotswe Inthaneteng">
 <!ENTITY Advanced.tab "E hatetseng Pele">
-<!ENTITY advancedOptionsTitle.label "Dikgetho tse Hatetseng Pele">
 <!ENTITY portNumber.label "Nomoro ya port: ">
 <!ENTITY portNumber.accesskey "n">
 <!ENTITY searchFilter.label "Filtara ya Ho batla: ">
@@ -68,6 +68,7 @@
 <!ENTITY return.accesskey "k">
 <!ENTITY results.label "diphetho">
 <!ENTITY offlineText.label "O ka jarolla kopi ya lehae ya daerektri ena hore e fumanehe bakeng sa tshebediso ha o sebetsa o sa hokela inthaneteng.">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.
