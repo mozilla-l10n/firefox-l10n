@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "બનાવટ &amp; સંબોધન">
 <!ENTITY addressingGroupTitle.label "સંબોધન">
 <!ENTITY addressingText.label      "ક્યારે સરનામાઓ જોવા:">
@@ -18,15 +20,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label "બનાવટ">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "સંદેશાઓને HTML બંધારણમાં બનાવો">
 <!ENTITY useHtml.accesskey                    "C">
 <!ENTITY autoQuote.label                      "જ્યારે વળતો જવાબ આપી રહ્યા હોય ત્યારે મૂળ સંદેશાને આપોઆપ અવતરિત કરો">
 <!ENTITY autoQuote.accesskey                  "q">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "પછી,">
-<!ENTITY then.accesskey                       "t">
 <!ENTITY aboveQuote.label                     "અવતરણની ઉપર મારો વળતો જવાબ શરુ કરો">
 <!ENTITY belowQuote.label                     "અવતરણની નીચે મારો વળતો જવાબ શરુ કરો">
 <!ENTITY selectAndQuote.label                 "અવતરણ પસંદ કરો">
@@ -34,3 +35,4 @@
 <!ENTITY place.accesskey                      "p">
 <!ENTITY belowText.label                      "અવતરણની નીચે (આગ્રહણીય)">
 <!ENTITY aboveText.label                      "મારા વળતા જવાબની નીચે (અવતરણની ઉપર)">
+

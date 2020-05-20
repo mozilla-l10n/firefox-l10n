@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY newDirectoryTitle.label           "ડિરેક્ટરી સર્વર ગુણધર્મો">
 <!ENTITY directoryName.label               "નામ: ">
 <!ENTITY directoryName.accesskey           "n">
 <!ENTITY directoryHostname.label           "યજમાન નામ: ">
@@ -15,12 +14,9 @@
 <!ENTITY directorySecure.accesskey         "U">
 <!ENTITY directoryLogin.label              "બાઈન્ડ DN: ">
 <!ENTITY directoryLogin.accesskey          "i">
-<!ENTITY advancedOptionsButton.label       "ઉન્નત વિકલ્પો">
-<!ENTITY advancedOptionsButton.accesskey   "a">
 <!ENTITY General.tab                       "સામાન્ય">
 <!ENTITY Offline.tab                       "ઓફલાઈન">
 <!ENTITY Advanced.tab                      "ઉન્નત">
-<!ENTITY advancedOptionsTitle.label        "ઉન્નત વિકલ્પો">
 <!ENTITY portNumber.label                  "પોર્ટ નંબર: ">
 <!ENTITY portNumber.accesskey              "p">
 <!ENTITY searchFilter.label                "શોધ ગાળક: ">
@@ -35,6 +31,7 @@
 <!ENTITY return.accesskey                  "r">
 <!ENTITY results.label                     "પરિણામો">
 <!ENTITY offlineText.label                 "તમે આ ડિરેક્ટરીની સ્થાનિક નકલ ડાઉનલોડ કરી શકો છો કે જેથી તે જ્યારે તમે ઓફલાઈન કામ કરી રહ્યા હોય ત્યારે તે વાપરવા માટે ઉપ્લબ્ધ છે.">
+
 <!-- Localization note: this is here because the width of the dialog 
      is determined by the width of the base DN box; and that is likely
      to vary somewhat with the language.

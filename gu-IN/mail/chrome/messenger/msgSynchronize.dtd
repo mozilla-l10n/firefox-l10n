@@ -4,6 +4,10 @@
 
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "સંદેશાઓ ડાઉનલોડ અને સુમેળ કરો">
 <!ENTITY MsgSelect.label "ઓફલાઈન વપરાશ માટેની વસ્તુઓ">
 <!ENTITY MsgSyncDesc.label "જો તમારી પાસે પહેલાથી જ પસંદિત મેલ ફોલ્ડરો અથવા સમાચારજૂથો ઓફલાઈન વપરાશ માટે હોય, તો તમે તેમને ડાઉનલોડ અને/અથવા સુમેળ કરી શકો છો. નહિંતર, ઓફલાઈન વપરાશ માટે મેલ ફોલ્ડરો અને સમાચારજૂથો પસંદ કરવા માટે &quot;Select&quot; બટન વાપરો.">

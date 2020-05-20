@@ -8,7 +8,6 @@
 <!ENTITY windowTitle.label "ઈમેજ ગુણધર્મો">
 
 <!ENTITY pixelsPopup.value "પિક્સેલો">
-<!ENTITY percentPopup.value "ટકા">
 
 <!-- These are in the Location tab panel -->
 <!ENTITY locationEditField.label "ઈમેજ સ્થાન:">
@@ -24,7 +23,6 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "ઈમેજ પૂર્વદર્શન">
-<!ENTITY MoreFewerButton.tooltip "ફેરફાર કરવા માટે વધુ અથવા થોડા ગુણધર્મો પ્રદર્શિત કરો">
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
@@ -47,8 +45,6 @@
 <!ENTITY imagemapBox.label "ઈમેજ મેપ">
 <!ENTITY removeImageMapButton.label "દૂર કરો">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "ફેરફાર કરો...">
-<!ENTITY editImageMapButton.tooltip "આ ઈમેજ માટે ક્લિક કરી શકાય તેવા હોટસ્પોટ બનાવો">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "લખાણને ઈમેજ સાથે બંધબેસાડો">
@@ -60,7 +56,6 @@
 
 <!-- These controls are in the Spacing Box -->
 <!ENTITY spacingBox.label "જગ્યા છોડી રહ્યા છીએ">
-<!ENTITY spacingBox.tooltip "ઈમેજની ફરતે જગ્યાના જથ્થા માટે નંબર લખો">
 <!ENTITY leftRightEditField.label "ડાબું અને જમણું:">
 <!ENTITY leftRightEditField.accessKey "L">
 <!ENTITY topBottomEditField.label "ઉપર અને નીચે:">
@@ -71,12 +66,6 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "કડી થયેલ ઈમેજની ફરતે કિનારી બદાવો">
 <!ENTITY showImageLinkBorder.accessKey "B">
-
-<!-- These controls may be added some day; currently not used -->
-<!ENTITY makePageBackgroundCheckbox.label "પાનાંનો પાશ્વ ભાગ બનાવો">
-<!ENTITY makePageBackgroundCheckbox.tooltip "તમારા પાનાં માટે ઈમેજને પાશ્વ ભાગ તરીકે વાપરો">
-<!ENTITY editImageButton.label "ઈમેજમાં ફેરફાર કરો">
-<!ENTITY editImageButton.tooltip "ઈમેજ ફાઈલને અન્ય કાર્યક્રમમાં ફેરફાર કરો">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "ફોર્મ">

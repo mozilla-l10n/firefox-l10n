@@ -13,6 +13,3 @@
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "સંબંધિત અને ચોક્કસ URL વચ્ચે બદલો. આને બદલવા માટે તમારે પ્રથમ આ પાનાંને સંગ્રહવું જ પડશે.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "વેબ પાનાંનું સ્થાન, સ્થાનિક ફાઈલ દાખલ કરો, અથવા નામવાળું એન્કર પસંદ કરો અથવા પોપઅપ યાદીમાંથી મથાળું પસંદ કરો:">
-<!ENTITY LinkURLEditField.accessKey "L">

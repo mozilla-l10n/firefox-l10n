@@ -7,9 +7,6 @@
 <!ENTITY name.accesskey             "n">
 <!ENTITY description.label          "ના ઉપફોલ્ડર તરીકે બનાવો:">
 <!ENTITY description.accesskey      "C">
-<!ENTITY searchCriteriaText.label   "આ સંગ્રહિત શોધ માટે વપરાયેલ શોધનો વિચાર સુધારો:">
-<!ENTITY searchCriteriaButton.label "શોધ વિચાર...">
-<!ENTITY searchCriteriaButton.accesskey "S">
 
 <!ENTITY searchTermCaption.label "આ સંગ્રહિત શોધ ફોલ્ડર માટે વપરાયેલ શોધ વિચાર રૂપરેખાંકિત કરો: ">
 

@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } ના જોડાણ દરમ્યાન ભૂલ આવી. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = ભૂલ કોડ: { $error }
+
 psmerr-ssl-disabled = સુરક્ષિત રીતે જોડી શકતા નથી કારણ કે SSL પ્રોટોકોલ નિષ્ક્રિય થઈ ગયેલ છે.
 psmerr-ssl2-disabled = સુરક્ષિત રીતે જોડી શકતા નથી કારણ કે સાઈટ SSL પ્રોટોકોલની જૂની, અને અસુરક્ષિત આવૃત્તિ વાપરે છે.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     તમે અયોગ્ય પ્રમાણપત્ર મેળવ્યું છે. મહેરબાની કરીને સર્વર સંચાલકનો સંપર્ક કરો અથવા કોરસ્પોન્ડન્ટને ઈમેલ કરકો અને તેમને નીચેની જાણકારી આપો:
     
     તમારું પ્રમાણપત્ર પ્રમાણપત્ર સત્તા દ્વારા અદા થયેલ અન્ય પ્રમાણપત્ર જેવો જ સીરીયલ નંબર સમાવે છે. મહેરબાની કરીને અનન્ય સીરીયલ નંબર સમાવતું નવું પ્રમાણપત્ર મેળવો.
+
 ssl-error-export-only-server = સુરક્ષિત રીતે સંપર્કવ્યવહાર કરવામાં અસમર્થ. સમકક્ષ ઊંચા-ગ્રેડનું એનક્રિપ્શનને આધાર આપતું નથી.
 ssl-error-us-only-server = સુરક્ષિત રીતે સંપર્કવ્યવહાર કરવામાં અસમર્થ.  સમકક્ષને ઊંચા-ગ્રેડનું એનક્રિપ્શન જરૂરી છે કે જે આધારભૂત નથી.
 ssl-error-no-cypher-overlap = સમકક્ષ સાથે સુરક્ષિત રીતે સંપર્કવ્યવહાર કરી શકતા નથી: કોઈ સામાન્ય એનક્રિપ્શન અલગોરિધમ નથી.

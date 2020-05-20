@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "બધુ પસંદ કરો">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
+
 <!ENTITY findCmd.label             "શોધો">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "F">

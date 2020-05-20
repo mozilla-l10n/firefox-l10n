@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "તમને નવાં પ્રમાણપત્રોના સત્તાધિકારી (CA) પર વિશ્વાસ કરવાનુ કહેવામાં આવ્યું છે.">
 <!ENTITY downloadCert.trustSSL "વેબ સાઇટ ઓળખવા માંટે આ CA પર વિશ્વાસ કરો.">
 <!ENTITY downloadCert.trustEmail "મેલ વપરાશકર્તાઓને ઓળખવા માંટે આ CA પર વિશ્વાસ કરો.">
-<!ENTITY downloadCert.trustObjSign "સોફ્ટવેર વિકાસકર્તાઓનો ઓળખવા માંટે આ CA પર વિશ્વાસ કરો">
 <!ENTITY downloadCert.message3 "આ CA નો કોઈ હેતુ માટે વિશ્વાસ કર્યા પહેલાં, એના પ્રમાણપત્ર, નીતિઓ અને પ્રક્રિયાઓ (જો ઉપલબ્ધ હોય) તો 
 ચકાસો.">
 <!ENTITY downloadCert.viewCert.label "જુઓ">

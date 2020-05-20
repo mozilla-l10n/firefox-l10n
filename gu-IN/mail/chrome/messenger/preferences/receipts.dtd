@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "મળેલી રસીદો">
-<!ENTITY receiptSettings.label         "મળેલી રસીદો">
 <!ENTITY requestReceipt.label          "જ્યારે સંદેશાઓ મોકલી રહ્યા હોય, ત્યારે હંમેશા પછી મળતી રસીદની અરજી કરો">
 <!ENTITY requestReceipt.accesskey      "W">
 <!ENTITY receiptArrive.label           "જ્યારે રસીદ મળે:">

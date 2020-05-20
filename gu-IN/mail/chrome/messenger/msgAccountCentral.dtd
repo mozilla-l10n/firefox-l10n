@@ -13,7 +13,6 @@
 
 <!ENTITY subscribeImapFolders.label   "ફોલ્ડર ઉમેદવારીની વ્યવસ્થા કરો">
 <!ENTITY settingsLink.label           "આ ખાતા માટે સુયોજનો જુઓ"> 
-<!ENTITY newAcctLink.label            "નવું ખાતુ બનાવો"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "અદ્યતન લાક્ષણિકતાઓ"> 
 <!ENTITY searchMsgsLink.label         "શોધ સંદેશાઓ"> 
@@ -21,5 +20,3 @@
 <!ENTITY junkSettings.label           "બગડેલ મેલ સુયોજનો">
 <!ENTITY offlineLink.label            "ઓફલાઈન સુયોજનો">
 
-<!ENTITY rssSectionHdr.label          "RSS સમાચારો &amp; બ્લોગો"> 
-<!ENTITY subscibeRSS.label            "ઉમેદવારીઓની વ્યવસ્થા કરો"> 

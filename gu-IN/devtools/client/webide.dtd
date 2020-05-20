@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "એપ્લિકેશન ખોલો">
+
 <!ENTITY runtimeButton_label "રનટાઈમ પસંદ કરો">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB ઉપકરણો">
 <!ENTITY runtimePanel_wifi "Wi-Fi ઉપકરણો">
 <!ENTITY runtimePanel_other "અન્ય">
-<!ENTITY runtimePanel_noadbhelper "ADB સહાયક ઇન્સ્ટોલ કરો">
 <!ENTITY runtimePanel_nousbdevice "તમારું ઉપકરણ જોઈ શકાતું નથી?">
 <!ENTITY runtimePanel_refreshDevices_label "ઉપકરણો પુનઃતાજાં કરો">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "રનટાઇમ માહિતી">
-<!ENTITY runtimedetails_adbIsRoot "ADB મૂળ છે: ">
-<!ENTITY runtimedetails_summonADBRoot "મૂળ ઉપકરણ">
-<!ENTITY runtimedetails_ADBRootWarning "(ખુલ્લા બુટલોડરની જરૂર છે)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "પ્રતિબંધિત DevTools અધિકારો: ">
-<!ENTITY runtimedetails_requestPrivileges "ઉચ્ચ વિશેષાધિકારોની વિનંતી કરો">
-<!ENTITY runtimedetails_privilegesWarning "(ઉપકરણ ફરીથી ચાલુ થશે. રૂટ અધિકારની જરૂર છે.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "બુલિયન">

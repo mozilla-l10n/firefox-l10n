@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ફોન્ટ
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ફોન્ટ્સ માટે
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = અરેબીક
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = પ્રમાણસરનું
     .accesskey = P
+
 fonts-default-serif =
     .label = શેરીફ
 fonts-default-sans-serif =
     .label = સાન્સ શેરીફ
+
 fonts-proportional-size = કદ
     .accesskey = z
+
 fonts-serif = શેરીફ
     .accesskey = S
+
 fonts-sans-serif = સાન્સ-સેરીફ
     .accesskey = n
+
 fonts-monospace = મોનોસ્પેસ
     .accesskey = M
+
 fonts-monospace-size = કદ
     .accesskey = e
+
 fonts-minsize = ન્યૂનતમ ફોન્ટ માપ
     .accesskey = o
+
 fonts-minsize-none =
     .label = કંઈ નહિ
+
 fonts-allow-own =
     .label = ઉપરોક્ત તમારી પસંદગીઓને બદલે પાનાને પોતાના ફોન્ટ્સ પસંદ કરવાની મંજૂરી આપો
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = વસિયત સામગ્રી માટે ટેક્સ્ટ એન્કોડિંગ
 fonts-languages-fallback-desc = આ ટેક્સ્ટ એન્કોડિંગનો ઉપયોગ વસિયત સામગ્રી માટે થાય છે જે તેના એન્કોડિંગને જાહેર કરવામાં નિષ્ફળ જાય છે.
+
 fonts-languages-fallback-label = વૈકલ્પિક ટેક્સ્ટ એન્કોડિંગ
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = વર્તમાન લોકેલ માટે મૂળભૂત
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = વિયેતનામીઝ
 fonts-languages-fallback-name-other =
     .label = બીજી (પશ્ર્ચિમ યુરોપિયન ઉમેરીને)
-fonts-very-large-warning-title = મોટા ન્યૂનતમ ફોન્ટ કદ
-fonts-very-large-warning-message = તમે એક મોટા લઘુત્તમ ફોન્ટનું કદ (24 પિક્સેલ કરતા વધારે)પસંદ કર્યું છે. આ આના જેવા કેટલાક મહત્વપૂર્ણ રૂપરેખાંકન પૃષ્ઠોનો ઉપયોગ મુશ્કેલ અથવા અશક્ય બનાવી શકે છે.
-fonts-very-large-warning-accept = કોઈપણ રીતે મારા ફેરફારો રાખો
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

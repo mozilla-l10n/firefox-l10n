@@ -5,6 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox સમન્વય">
+
 <!ENTITY syncBrand.shortName.label "સમન્વય">
 
 <!-- Main titles. -->

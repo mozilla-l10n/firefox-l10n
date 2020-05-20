@@ -2,16 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Subscription Dialog -->
-<!ENTITY newsBlogSubscriptions.label "RSS ઉમેદવારીઓ">
-<!ENTITY subscriptionDesc.label "નોંધ: ફીડ માટે ફોલ્ડરને દૂર કરવાનું અથવા બદલવાનું પહેલાના ડાઉનલોડ થયેલ લેખોને અસર કરશે નહિં.">
 <!ENTITY feedTitle.label "શીર્ષક:">
-<!ENTITY location.label  "સ્થાન:">
 
 <!ENTITY button.addFeed.label       "એડ-ઓન">
 <!ENTITY button.addFeed.accesskey   "A">
-<!ENTITY button.editFeed.label      "ફેરફાર">
-<!ENTITY button.editFeed.accesskey  "E">
 <!ENTITY button.removeFeed.label "દૂર કરો">
 <!ENTITY button.removeFeed.accesskey   "R">
 <!ENTITY button.importOPML.label "આયાત કરો">

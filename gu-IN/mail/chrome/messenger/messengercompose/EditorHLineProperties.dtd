@@ -13,11 +13,8 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "પિક્સેલો">
 <!ENTITY alignmentBox.label "ગોઠવણી">
-<!ENTITY leftRadio.value "ડાબું">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "કેન્દ્ર">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "જમણું">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D શેડીંગ">

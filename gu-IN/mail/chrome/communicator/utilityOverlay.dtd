@@ -28,18 +28,12 @@
 <!ENTITY pasteCmd.key						"V">  
 <!ENTITY pasteCmd.accesskey					"p"> 
 <!ENTITY deleteCmd.label					"કાઢી નાંખો">  
-<!ENTITY deleteCmd.key						"D">  
 <!ENTITY deleteCmd.accesskey				"d"> 
 <!ENTITY selectAllCmd.label					"બધુ પસંદ કરો">  
 <!ENTITY selectAllCmd.key					"A">  
 <!ENTITY selectAllCmd.accesskey				"a"> 
-<!ENTITY preferencesCmd.label				"વિકલ્પો...">
-<!ENTITY preferencesCmd.accesskey			"O"> 
 <!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
-
-<!ENTITY findTypeTextCmd.label "તમે જે રીતે લખો એ રીતે લખાણ શોધો">
-<!ENTITY findTypeTextCmd.accesskey "x">
 
 <!ENTITY viewMenu.label					"જુઓ"> 
 <!ENTITY viewMenu.accesskey				"v"> 
@@ -48,25 +42,9 @@
 <!ENTITY showTaskbarCmd.label					"સ્થિતિદર્શક પટ્ટી">  
 <!ENTITY showTaskbarCmd.accesskey				"S"> 
 
-<!-- NOTE (whatNewCmd.label): This is not used in Mozilla but is used in Netscape -->
-<!ENTITY direct.label                                   "ઓનલાઈન (પ્રોક્સી: કંઈ નહિં)">
-<!ENTITY direct.accesskey                               "n">
-<!ENTITY manual.label                                   "ઓનલાઈન (પ્રોક્સી: જાતે)">
-<!ENTITY manual.accesskey                               "m">
-<!ENTITY pac.label                                      "ઓનલાઈન (પ્રોક્સી: આપોઆપ)">
-<!ENTITY pac.accesskey                                  "a">
-
-<!ENTITY proxy.label                                    "પ્રોક્સી રુપરેખાંકન...">
-<!ENTITY proxy.accesskey                                "C">
-
-<!ENTITY findTypeTextCmd.key        "/">
-<!ENTITY findTypeLinksCmd.key       "'">
-
 <!ENTITY closeCmd.label			"બંધ કરો">  
 <!ENTITY closeCmd.key			"W">  
 <!ENTITY closeCmd.accesskey		"c">
-
-<!ENTITY closeWindow.label "વિન્ડો બંધ કરો">
 
 <!ENTITY quitApplicationCmd.label	"બહાર નીકળો"> 
 <!ENTITY quitApplicationCmd.key		"Q"> 

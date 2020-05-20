@@ -2,34 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY toField.label "પ્રતિ: ">
-<!ENTITY fromField.label "તરફથી: ">
-<!ENTITY senderField.label "મોકલનાર: ">
-<!ENTITY organizationField.label "સંસ્થા: ">
-<!ENTITY replyToField.label "પ્રતિ-પ્રત્યુત્તર: ">
-
-<!ENTITY subjectField.label "વિષય: ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField.label "આને પણ: ">
-<!ENTITY bccField.label "આને પણ ખબર વિના: ">
-<!ENTITY newsgroupsField.label "સમાચારજૂથો: ">
-<!ENTITY followupToField.label "પ્રતિ-અનુસરો: ">
-<!ENTITY tagsHdr.label "ટેગો: ">
-
-<!ENTITY dateField.label "તારીખ: ">
-<!ENTITY userAgentField.label "વપરાશકર્તા-એજન્ટ: ">
-<!ENTITY originalWebsite.label "વેબસાઈટ: ">
-<!ENTITY saveAll.label "બધું સંગ્રહો..">
-
-<!ENTITY editMessage.label "ડ્રાફ્ટમાં ફેરફાર કરો...">
-<!ENTITY attachmentsTree.label "જોડાણો:">
-
 <!ENTITY openAttachmentCmd.label    "ખોલો">  
 <!ENTITY openAttachmentCmd.accesskey		"O">  
 <!ENTITY saveAsAttachmentCmd.label    "આ રીતે સંગ્રહો...">  
-<!ENTITY saveAsAttachmentCmd.accesskey		"A"> 
-<!ENTITY printAttachmentCmd.label    ".છાપો">  
-<!ENTITY printAttachmentCmd.accesskey		"P">  
+<!ENTITY saveAsAttachmentCmd.accesskey		"A">  
 <!ENTITY detachAttachmentCmd.label    "જોડો ...">  
 <!ENTITY deleteAttachmentCmd.label    "કાઢી નાંખો">  
 <!ENTITY saveAllAttachmentsCmd.label    "બધું સંગ્રહો...">  

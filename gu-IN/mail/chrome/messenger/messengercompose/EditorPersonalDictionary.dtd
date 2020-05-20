@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "શબ્દકોષમાંના શબ્દો:">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "બદલો">
-<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "દૂર કરો">
 <!ENTITY RemoveButton.accessKey "e">
 
