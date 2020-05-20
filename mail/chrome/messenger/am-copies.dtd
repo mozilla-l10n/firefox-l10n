@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Afrit og möppur">
 <!ENTITY sendingPrefix.label "Þegar póstur er sendur, gerist eftirfarandi sjálfkrafa: ">
 <!ENTITY fccMailFolder.label "Setja afrit í:">

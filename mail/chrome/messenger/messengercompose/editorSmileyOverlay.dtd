@@ -5,6 +5,7 @@
 <!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Broskall">
 <!ENTITY insertSmiley.accesskey "s">
+
 <!ENTITY smiley1Cmd.label "Bros">
 <!ENTITY smiley1Cmd.accesskey "s">
 <!ENTITY smiley1Cmd.tooltip "Setja inn broskall">

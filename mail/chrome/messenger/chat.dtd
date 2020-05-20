@@ -15,9 +15,11 @@
 <!ENTITY chat.noConnectedAccount.title "Spjallreikningar eru ekki tengdir.">
 <!ENTITY chat.noConnectedAccount.description "Þú getur tengst við reikningana frá 'Staða spjalls' glugga:">
 <!ENTITY chat.showAccountManager.button "Sýna stöðu spjalls">
+
 <!ENTITY chat.participants "Þátttakendur:">
 <!ENTITY chat.previousConversations "Fyrri samtöl:">
 <!ENTITY chat.ongoingConversation "Áframhaldandi samtal">
+
 <!ENTITY openConversationCmd.label "Byrja samtal">
 <!ENTITY openConversationCmd.accesskey "s">
 <!ENTITY closeConversationCmd.label "Loka samtali">
@@ -26,13 +28,17 @@
 <!ENTITY aliasCmd.accesskey "r">
 <!ENTITY deleteCmd.label "Fjarlægja tengilið">
 <!ENTITY deleteCmd.accesskey "æ">
+
 <!ENTITY openConversationButton.tooltip "Byrja samtal">
 <!ENTITY closeConversationButton.tooltip "Loka samtali">
+
 <!ENTITY addBuddyButton.label "Bæta við tengilið">
 <!ENTITY joinChatButton.label "Taka þátt í spjalli">
 <!ENTITY chatAccountsButton.label "Sýna reikninga">
+
 <!ENTITY status.available "Tiltækt">
 <!ENTITY status.unavailable "Ófáanlegt">
 <!ENTITY status.offline "Ónettengdur">
+
 <!ENTITY openLinkCmd.label "Opna tengil…">
 <!ENTITY openLinkCmd.accesskey "O">

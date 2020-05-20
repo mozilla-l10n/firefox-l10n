@@ -38,6 +38,12 @@ login-item-cancel-button = Hætta við
 login-item-time-changed = Síðast breytt: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Created: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-reload-button =
@@ -52,6 +58,8 @@ master-password-reload-button =
 
 ## Breach Alert notification
 
+
+## Vulnerable Password notification
 
 ## Error Messages
 

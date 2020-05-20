@@ -7,16 +7,25 @@ about-config-warning-title = Varúð, þú ert á tröllaslóðum!
 about-config-warning-text = Ef átt er við þessar stillingar getur það haft neikvæð áhrif á stöðugleika, öryggi og almenna keyrslu forritsins. Varast skal að breyta þeim nema maður sé fullviss um afleiðingarnar.
 about-config-warning-checkbox = Pirra mig aftur, takk!
 about-config-warning-button = Ég samþykki áhættuna
+
 about-config2-title = Ítarlegar stillingar
+
 about-config-search-input =
     .placeholder = Leita
+
+## These strings appear on the warning you see when first visiting about:config.
+
+##
+
 about-config-show-all = Sýna allt
+
 about-config-pref-add = Bæta við
 about-config-pref-toggle = Víxla
 about-config-pref-edit = Breyta
 about-config-pref-save = Vista
 about-config-pref-reset = Endursetja
 about-config-pref-delete = Eyða
+
 about-config-pref-add-button =
     .title = Bæta við
 about-config-pref-toggle-button =

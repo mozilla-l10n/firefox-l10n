@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Leturgerðir
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Letur fyrir
     .accesskey = f
+
 fonts-langgroup-arabic =
     .label = Arabíska
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Hlutfallslegt
     .accesskey = u
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Stærð
     .accesskey = t
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Jafnstórt
     .accesskey = J
+
 fonts-monospace-size = Stærð
     .accesskey = æ
+
 fonts-minsize = Lágmarks leturstærð
     .accesskey = L
+
 fonts-minsize-none =
     .label = Engin
+
 fonts-allow-own =
     .label = Leyfa vefsíðum að velja sínar eigin leturgerðir, í staðinn fyrir mitt val hér fyrir ofan
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Stafakóðun fyrir gamlar síður
 fonts-languages-fallback-desc = Þessi stafakóðun er notuð fyrir gamlar síður sem senda ekki hvaða stafakóðun er notuð.
+
 fonts-languages-fallback-label = Sjálfgefið og stafakóðun
     .accesskey = s
+
 fonts-languages-fallback-name-auto =
     .label = Sjálfgefið fyrir núverandi tungumál
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Víetnamska
 fonts-languages-fallback-name-other =
     .label = Annað (með Vestur-Evrópu)
-fonts-very-large-warning-title = Stór lágmarks leturstærð
-fonts-very-large-warning-message = Þú hefur valið mjög stóra lágmarks leturstærð (stærri en 24 punktar). Þetta gæti leidd til þess að það væri erfitt eða ógerlegt að nota sumar stillingarsíður eins og þessa síðu.
-fonts-very-large-warning-accept = Halda samt áfram með breytingar
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

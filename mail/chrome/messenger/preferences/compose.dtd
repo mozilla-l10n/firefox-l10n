@@ -5,18 +5,19 @@
 <!ENTITY itemGeneral.label "Almennt">
 <!ENTITY itemAutoComplete.label "Póstföng">
 <!ENTITY itemSpellCheck.label "Stafsetning">
+
 <!ENTITY dialogCompose.title "Ritun">
+
 <!ENTITY forwardMsg.label "Áframsenda póst:">
 <!ENTITY forwardMsg.accesskey "f">
 <!ENTITY inline.label "Innfellt">
 <!ENTITY asAttachment.label "Sem viðhengi">
 <!ENTITY addExtension.label "bæta skráarendingu við skráarnafn">
 <!ENTITY addExtension.accesskey "b">
+
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "Letur:">
 <!ENTITY font.accesskey "L">
-<!ENTITY size.label "Stærð:">
-<!ENTITY size.accesskey "S">
 <!ENTITY fontColor.label "Stilla lit texta:">
 <!ENTITY fontColor.accesskey "x">
 <!ENTITY bgColor.label "Bakgrunnslitur:">
@@ -25,6 +26,7 @@
 <!ENTITY restoreHTMLDefaults.accesskey "r">
 <!ENTITY defaultToParagraph.label "Sjálfgefið nota málsgreinarsnið í staðinn fyrir meginmálstexta">
 <!ENTITY defaultToParagraph.accesskey "ð">
+
 <!ENTITY spellCheck.label "Athuga stafsetningu áður en póstur er sendur">
 <!ENTITY spellCheck.accesskey "A">
 <!ENTITY spellCheckInline.label "Virkja leiðréttingu á stafsetningu fyrir innsleginn texta">
@@ -32,11 +34,13 @@
 <!ENTITY languagePopup.label "Tungumál:">
 <!ENTITY languagePopup.accessKey "g">
 <!ENTITY downloadDictionaries.label "Hlaða niður fleiri orðabókum">
+
 <!ENTITY warnOnSendAccelKey.label "Staðfesta að senda póst þegar notað er lyklaborðsflýtivísun">
 <!ENTITY warnOnSendAccelKey.accesskey "i">
 <!ENTITY autoSave.label "Vista sjálfkrafa á">
 <!ENTITY autoSave.accesskey "V">
 <!ENTITY autoSaveEnd.label "mínútna fresti">
+
 <!ENTITY emailCollectionPicker.label "Bæta sjálfkrafa útsendum póst í:">
 <!ENTITY emailCollectionPicker.accesskey "t">
 <!ENTITY addressingTitle.label "Sjálfvirk útfylling fyrir póstfang">
@@ -51,9 +55,11 @@
 <!ENTITY showAsDefault.label "Sjálfgefin ræsimappa fyrir nafnabókarglugga:">
 <!ENTITY showAsDefault.accesskey "">
 <!ENTITY showAsDefaultLast.label "Síðast notaða mappa">
+
 <!ENTITY sendOptionsDescription.label "Skilgreina hegðun textasniðs">
 <!ENTITY sendOptions.label "Sendingarkostir…">
 <!ENTITY sendOptions.accesskey "k">
+
 <!ENTITY attachmentReminder.label "Athuga hvort viðhengi vantar">
 <!ENTITY attachmentReminder.accesskey "v">
 <!ENTITY attachmentReminderOptions.label "Stikkorð…">

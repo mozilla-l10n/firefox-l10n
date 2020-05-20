@@ -7,7 +7,9 @@ close to the golden ratio (1.618:1) while making sure it's wide enough for long
 file names and tall enough to hint that there are more activities in the list -->
 <!ENTITY window.width2 "485">
 <!ENTITY window.height "300">
+
 <!ENTITY activity.title "Yfirlit aðgerða">
+
 <!ENTITY cmd.pause.label "Í bið">
 <!ENTITY cmd.pause.accesskey "b">
 <!ENTITY cmd.resume.label "Halda áfram">
@@ -22,6 +24,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.retry.accesskey "R">
 <!ENTITY cmd.removeFromList.label "Fjarlægja úr lista">
 <!ENTITY cmd.removeFromList.accesskey "j">
+
 <!ENTITY cmd.close.commandkey "w">
 <!ENTITY cmd.close2.commandkey "j">
 <!ENTITY cmd.close2Unix.commandkey "y">
@@ -30,4 +33,5 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.clearList.accesskey "H">
 <!ENTITY cmd.find.commandkey "f">
 <!ENTITY cmd.search.commandkey "k">
+
 <!ENTITY searchBox.label "Leita…">

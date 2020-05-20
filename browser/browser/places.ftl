@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Opna í nýjum huliðsglugga
     .accesskey = p
+
 places-new-bookmark =
     .label = Nýtt bókamerki…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nýr aðgreinir
     .accesskey = g
+
 places-view =
     .label = Skoða
     .accesskey = S
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Eftir dagsetningu og vefsvæði
     .accesskey = t
+
 places-history-search =
     .placeholder = Leita í ferli
 places-bookmarks-search =
     .placeholder = Leita í bókamerkjum
+
 places-delete-domain-data =
     .label = Gleyma þessu vefsvæði
     .accesskey = f

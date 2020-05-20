@@ -11,11 +11,13 @@
 <!ENTITY contactPropertiesMenu.accesskey "i">
 <!ENTITY mailingListPropertiesMenu.label "Eiginleikar póstlista">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
+
 <!ENTITY addressbookPicker.label "Nafnaskrá:">
 <!ENTITY addressbookPicker.accesskey "k">
 <!ENTITY searchContacts.label "Leita að tengiliði:">
 <!ENTITY searchContacts.accesskey "n">
 <!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang">
+
 <!ENTITY addtoToFieldMenu.label "Bæta við í Til svæði">
 <!ENTITY addtoToFieldMenu.accesskey "a">
 <!ENTITY addtoCcFieldMenu.label "Bæta við Afrit svæði">
@@ -32,6 +34,7 @@
 <!ENTITY editContactContext.accesskey "e">
 <!ENTITY editMailingListContext.label "Breyta póstlista">
 <!ENTITY editMailingListContext.accesskey "e">
+
 <!ENTITY toButton.label "Bæta við í Til:">
 <!ENTITY toButton.accesskey "a">
 <!ENTITY ccButton.label "Bæta við í Afrit:">

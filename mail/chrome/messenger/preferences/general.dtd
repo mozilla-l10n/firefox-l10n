@@ -9,9 +9,11 @@
 <!ENTITY location1.accesskey "S">
 <!ENTITY useDefault.label "Endurheimta sjálfgildi">
 <!ENTITY useDefault.accesskey "E">
+
 <!ENTITY changeDockIconOptions.label "Breyta stillingum fyrir app icon">
 <!ENTITY dockOptions.label "App Icon valkostir…">
 <!ENTITY dockOptions.accesskey "n">
+
 <!ENTITY newMessagesArrive.label "Þegar nýr póstur er móttekin:">
 <!ENTITY playSound.label "Spila hljóð">
 <!ENTITY playSound1.accesskey "h">
@@ -22,8 +24,10 @@
 <!ENTITY notificationAlertSettings2.label "Hægt er loka á áminningar og sjálfgefið hljóð í tilkynningaflipa í kerfisstillingum.">
 <!ENTITY customizeMailAlert.label "Sérsníða…">
 <!ENTITY customizeMailAlert.accesskey "S">
+
 <!ENTITY showTrayIcon.label "Sýna sem táknmynd í bakka">
 <!ENTITY showTrayIcon.accesskey "t">
+
 <!ENTITY play.label "Spila">
 <!ENTITY play.accesskey "S">
 <!ENTITY systemsound.label "Sjálfgefið hljóð fyrir nýjan póst">
@@ -32,4 +36,6 @@
 <!ENTITY customsound.accesskey "N">
 <!ENTITY browse.label "Velja…">
 <!ENTITY browse.accesskey "V">
+
 <!ENTITY defaultSearchEngine.label "Sjálfgefin leitarvél">
+

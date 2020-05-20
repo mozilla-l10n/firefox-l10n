@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Niðurhala sjálfkrafa nýjum póstum">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Notandanafnið þitt">
 <!ENTITY deleteMessagePrefix.label "Þegar ég eyði pósti:">
 <!ENTITY modelMoveToTrash.label "Færa í þessa möppu:">
 <!ENTITY modelMoveToTrash.accesskey "F">
@@ -83,6 +82,7 @@
 <!ENTITY browseFolder.accesskey "V">
 <!ENTITY browseNewsrc.label "Velja…">
 <!ENTITY browseNewsrc.accesskey "e">
+
 <!ENTITY accountTitle.label "Stillingar reiknings">
 <!ENTITY accountSettingsDesc.label "Eftirfarandi er sérstakur reikningur.  Engin auðkenni eru tengd við hann.">
 <!ENTITY storeType.label "Tegund póstgeymslu:">

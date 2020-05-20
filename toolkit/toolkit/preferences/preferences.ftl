@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (ekki sett)
+
 failed-pw-change = Get ekki breytt aðallykilorði.
 incorrect-pw = Þú slóst ekki inn rétt núverandi lykilorð. Reyndu aftur.
 pw-change-ok = Aðallykilorði breytt.
+
 pw-empty-warning = Veflyklar, lykilorð og gögn eyðublaða munu ekki verða verndaðar.
 pw-erased-ok = Aðallykilorði eytt.  { pw-empty-warning }
 pw-not-wanted = Aðvörun! Þú hefur ákveðið að nota ekki aðallykilorð. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Þú ert núna í FIPS ham. FIPS má ekki hafa tómt aðallykilorð.
 pw-change-success-title = Lykilorði breytt
 pw-change-failed-title = Gat ekki breytt lykilorði
 pw-remove-button =
     .label = Fjarlægja
+
 set-password =
     .title = Breyta aðallykilorði
 set-password-old-password = Núverandi lykilorð:
@@ -24,6 +28,7 @@ set-password-meter = Gæðamæling lykilorðs
 set-password-meter-loading = Hleður
 master-password-description = Aðallykilorð er notað til að vernda viðkvæmar upplýsingar eins og lykilorð að vefsvæðum.  Ef þú býrð til aðallykilorð, verður beðið um það einu sinni í hverri vafralotu þegar { -brand-short-name } sækir vistaðar upplýsingar sem verndaðar eru af lykilorðinu.
 master-password-warning = Vertu öruggur um að þú munir aðallykilorðið.  Ef þú gleymir því, geturðu ekki komist í upplýsingarnar sem verndaðar eru með því.
+
 remove-password =
     .title = Fjarlægja aðallykilorð
 remove-info =

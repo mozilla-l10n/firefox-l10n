@@ -3,19 +3,24 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY fontsAndEncodingsDialog.title "Leturgerð og stafatöflur">
+
 <!ENTITY language.label "Letur fyrir:">
 <!ENTITY language.accesskey "t">
+
 <!ENTITY size.label "Stærð:">
 <!ENTITY sizeProportional.accesskey "e">
 <!ENTITY sizeMonospace.accesskey "i">
+
 <!ENTITY proportional.label "Hlutfallslegt:">
 <!ENTITY proportional.accesskey "H">
+
 <!ENTITY serif.label "Serif:">
 <!ENTITY serif.accesskey "S">
 <!ENTITY sans-serif.label "Sans-serif:">
 <!ENTITY sans-serif.accesskey "n">
 <!ENTITY monospace.label "Jafnstórt:">
 <!ENTITY monospace.accesskey "J">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY font.langGroup.latin "Latin">
@@ -51,20 +56,24 @@
 <!ENTITY minSize.label "Lágmarks leturstærð:">
 <!ENTITY minSize.accesskey "æ">
 <!ENTITY minSize.none "Engin">
+
 <!-- default font type -->
 <!ENTITY useDefaultFontSerif.label "Serif">
 <!ENTITY useDefaultFontSansSerif.label "Sans Serif">
+
 <!-- fonts in message -->
 <!ENTITY fontControl.label "Stjórna leturgerð">
 <!ENTITY useFixedWidthForPlainText.label "Nota leturgerð með fasta breidd fyrir venjuleg textaskilaboð">
 <!ENTITY fixedWidth.accesskey "x">
 <!ENTITY useDocumentFonts.label "Leyfa póstum að nota aðrar leturgerðir">
 <!ENTITY useDocumentFonts.accesskey "o">
+
 <!-- Language settings -->
 <!ENTITY sendDefaultCharset.label "Útsendur póstur:">
 <!ENTITY sendDefaultCharset.accesskey "u">
 <!ENTITY languagesTitle2.label "Textakóðun">
 <!ENTITY composingDescription2.label "Skilgreina sjálfgefna textakóðun fyrir útsendan og móttekin póst">
+
 <!ENTITY viewDefaultCharsetList.label "Innsendur póstur:">
 <!ENTITY viewDefaultCharsetList.accesskey "I">
 <!ENTITY replyInDefaultCharset3.label "Ef hægt er, nota sjálfgefna textakóðun í svörum">

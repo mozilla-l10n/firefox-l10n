@@ -5,6 +5,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Lista eigindi">
+
 <!ENTITY ListType.label "Listategund">
 <!ENTITY bulletStyle.label "Áherslumerki:">
 <!ENTITY startingNumber.label "Byrjar á:">

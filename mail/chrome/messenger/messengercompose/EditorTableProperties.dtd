@@ -35,6 +35,7 @@
 <!ENTITY tableCaptionRight.label "Hægra megin við töflu">
 <!ENTITY tableCaptionNone.label "Engin">
 <!ENTITY tableInheritColor.label "(Leyfa síðulit að skína í gegn)">
+
 <!ENTITY cellSelection.label "Val">
 <!ENTITY cellSelectCell.label "Eining">
 <!ENTITY cellSelectRow.label "Röð">
@@ -63,6 +64,7 @@
 <!ENTITY cellAlignJustify.label "Jafna">
 <!ENTITY cellInheritColor.label "(Láta lit töflu skína í gegn)">
 <!ENTITY cellUseCheckboxHelp.label "Notaðu gátreiti til að sjá hvaða eiginleikar eru framkvæmdir á öll völd hólf">
+
 <!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label "Stærð">
 <!ENTITY pixels.label "punktar">

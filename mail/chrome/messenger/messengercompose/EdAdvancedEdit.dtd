@@ -13,5 +13,6 @@
 <!ENTITY tabHTML.label "HTML eigindi">
 <!ENTITY tabCSS.label "Innfellt snið">
 <!ENTITY tabJSE.label "JavaScript atburðir">
+
 <!ENTITY editAttribute.label "Smelltu á hlut hér fyrir ofan til að skoða hvaða gildi hann inniheldur">
 <!ENTITY removeAttribute.label "Fjarlægja">

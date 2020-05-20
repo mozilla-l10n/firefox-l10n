@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title "Nafnaskrá">
 <!ENTITY blankResultsPaneMessage.label "Nafnaskrá sýnir aðeins tengiliði eftir að leitað hefur verið">
 <!ENTITY localResultsOnlyMessage.label "Tengiliðir frá fjarlægri nafnaskrá eru aðeins birtir eftir að þú leitar">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Skrá">
 <!ENTITY fileMenu.accesskey "S">
@@ -39,6 +40,7 @@
 <!ENTITY printContactCmd.key "P">
 <!ENTITY printAddressBook.label "Prenta nafnaskrá…">
 <!ENTITY printAddressBook.accesskey "r">
+
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "Breyta">
 <!ENTITY editMenu.accesskey "e">
@@ -83,6 +85,7 @@
 <!ENTITY contactPropertiesMenu.accesskey "i">
 <!ENTITY mailingListPropertiesMenu.label "Eiginleikar póstlista">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
+
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Skoða
 ">
@@ -115,6 +118,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey "B">
 <!ENTITY sortMenu.label "Raða eftir">
 <!ENTITY sortMenu.accesskey "R">
+
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Verkfæri">
 <!ENTITY tasksMenu.accesskey "V">
@@ -131,6 +135,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey "o">
 <!ENTITY preferencesCmdUnix.label "Valkostir">
 <!ENTITY preferencesCmdUnix.accesskey "V">
+
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label "Nýr tengiliður">
 <!ENTITY newContactButton.accesskey "N">
@@ -155,6 +160,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey "r">
 <!ENTITY deleteButton2.label "Eyða">
 <!ENTITY deleteButton2.accesskey "E">
+
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip "Búa til nýjan tengilið í nafnaskrá">
 <!ENTITY newlistButton.tooltip "Búa til nýjan lista">
@@ -165,14 +171,14 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newmsgButton.tooltip "Senda póst">
 <!ENTITY newIM.tooltip "Senda snarboð eða spjall">
 <!ENTITY deleteButton2.tooltip "Eyða völdum hlut">
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label "Nafnaskrár">
+
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Nafn eða tölvupóstfang">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY advancedButton.tooltip "Ítarleg nafnaskrá leit">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "Flýtileit">
+
 <!-- Results Pane -->
 <!ENTITY Addrbook.label "Nafnaskrá">
 <!ENTITY Addrbook.accesskey "N">
@@ -208,6 +214,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey "L">
 <!ENTITY _PhoneticName.label "Hljóðrétt nafn">
 <!ENTITY _PhoneticName.accesskey "H">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading "Tengiliður">
@@ -222,8 +229,10 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label "Ná í kort">
 <!ENTITY mapIt.tooltip "Sýna kort af þessu vistfangi frá vefnum">
+
 <!-- Status Bar -->
 <!ENTITY statusText.label "">
+
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "Gluggi">
 <!ENTITY minimizeWindow.label "Minnka">

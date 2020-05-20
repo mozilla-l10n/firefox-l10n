@@ -103,6 +103,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "Hætta í fullum skjá">
 <!ENTITY exitFullScreenCmd.accesskey "f">
+
 <!ENTITY fullScreenCmd.label "Fylla skjá">
 <!ENTITY fullScreenCmd.accesskey "y">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -143,6 +144,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.signedInAs.label "Skráður inn sem">
 <!ENTITY fxa.menu.manageAccount.label "Sýsla með aðgang…">
 <!ENTITY fxa.menu.syncSettings.label "&syncBrand.shortName.label; Stillingar…">
+
 <!ENTITY fxa.menu.connectAnotherDevice2.label "Tengja annað tæki…">
 <!ENTITY fxa.menu.firefoxAccount "&syncBrand.fxAccount.label;">
 
@@ -188,6 +190,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 
 <!ENTITY addCurPagesCmd.label "Setja alla flipa í bókamerki…">
+
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
 <!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
 <!ENTITY otherBookmarksCmd.label "Önnur bókamerki">
@@ -207,7 +210,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Stöðva">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Hoppa á tengilinn sem er í staðsetningarslánni">
+
 <!ENTITY printButton.label            "Prenta">
 <!ENTITY printButton.tooltip          "Prenta síðu">
 
@@ -223,6 +228,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sýsla með notkun tengiforrita">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Breyta hvort vefsvæði getur sent þér tilkynningar">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Geyma gögn í varanlegri gagnageymslu">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Vafri er á fjarstýringu">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "Opna auðkenningarspjald vefs">
 <!ENTITY urlbar.storageAccessAnchor.tooltip               "Opna heimildaspjald vafravirkni">
@@ -250,7 +256,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "Þú hefur lokað fyrir MIDI aðgang á þessu vefsvæði.">
 <!ENTITY urlbar.installBlocked.tooltip           "Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">
+
 
 <!ENTITY searchItem.title             "Leita">
 
@@ -310,10 +318,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Skrá">
 <!ENTITY fileMenu.accesskey       "S">
+
 <!ENTITY newUserContext.label             "Nýr hópaflipi">
 <!ENTITY newUserContext.accesskey         "h">
 <!ENTITY manageUserContext.label          "Stjórna hópafllipum">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Nýr gluggi">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -359,6 +369,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "V">
 <!ENTITY viewSidebarMenu.label "Hliðslá">
 <!ENTITY viewSidebarMenu.accesskey "H">
+
 <!ENTITY viewCustomizeToolbar.label       "Sérsníða…">
 <!ENTITY viewCustomizeToolbar.accesskey     "S">
 <!ENTITY overflowCustomizeToolbar.label       "Sérsníða verkfæraslá…">
@@ -449,6 +460,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Meira">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Leita eða sláðu inn veffang">
 <!ENTITY urlbar.accesskey             "ð">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -492,6 +504,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Leitar fyrirspurn">
+
 <!ENTITY contentSearchSubmit.tooltip  "Senda leit">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -531,6 +544,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "l">
 
 <!ENTITY openLinkCmdInTab.label       "Opna tengil í nýjum flipa">
+
 <!ENTITY openLinkCmdInTab.accesskey   "f">
 <!ENTITY openLinkCmd.label            "Opna tengil í nýjum glugga">
 <!ENTITY openLinkCmd.accesskey        "g">
@@ -579,11 +593,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Setja ramma í bókamerki">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Afrita tengil">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Vista í Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Vista síðu í Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Vista tengil í Pocket">
@@ -715,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Stækka/minnka einungis texta">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
+
 <!ENTITY fullZoom.label                 "Aðdráttur">
 <!ENTITY fullZoom.accesskey             "ð">
 
@@ -885,6 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "Tilkynna vandamál">
 <!ENTITY contentBlocking.breakageReportView2.description "Efnisblokkun getur valdið vandamálum með sum vefsvæði. Þegar þú tilkynnir vandamál, þá hjálparðu að gera &brandShortName; betra fyrir alla. (Þetta sendir vefslóð og upplýsingar um vafrastillingarnar þínar til Mozilla.)">
 <!ENTITY contentBlocking.breakageReportView.learnMore "Læra meira">
+
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "Vefslóð">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "Hvert var vandamálið? (Valkvæmt)">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "Senda tilkynningu">
@@ -915,6 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
 
+
 <!ENTITY uiTour.infoPanel.close "Loka">
 
 <!ENTITY panicButton.thankyou.msg1                "Búið er að hreinsa nýlega ferla.">
@@ -936,6 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "ð">
 
 <!ENTITY homepageControlled.message "Einhver viðbót hefur breytt síðunni sem er alltaf opnuð fyrir nýja flipa. Ef þú vilt ekki þessa breytingu geturðu endurheimt eldri stillingar.">
+
 <!ENTITY homepageControlled.header.message "Heimasíða þín hefur breyst.">
 <!ENTITY homepageControlled.keepButton.label "Halda breytingum">
 <!ENTITY homepageControlled.keepButton.accesskey "H">

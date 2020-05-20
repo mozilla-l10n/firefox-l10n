@@ -103,6 +103,7 @@ print-window =
     .title = Prentun
 print-complete =
     .value = Prentun er lokið.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

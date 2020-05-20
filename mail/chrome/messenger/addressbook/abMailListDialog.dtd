@@ -4,6 +4,7 @@
 
 <!-- Title -->
 <!ENTITY mailListWindowAdd.title "Nýr póstlisti">
+
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label "Bæta við: ">
 <!ENTITY addToAddressBook.accesskey "B">

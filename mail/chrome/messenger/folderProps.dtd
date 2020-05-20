@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label "Eiginleikar">
+
 <!ENTITY generalInfo.label "Almennar upplýsingar">
 <!ENTITY folderCharsetFallback2.label "Sjálfgefin textakóðun:">
 <!ENTITY folderCharsetFallback2.accesskey "e">
@@ -14,6 +15,7 @@
 <!ENTITY folderRebuildSummaryFile.explanation "Stundum getur komið fyrir að yfirlitsskrá möppu (.msf) skemmist og póstur virðist vera týndur eða póst sem hefur verið eytt birtist áfram; ef þú endurbyggir möppuna er venjulega hægt að laga þessi vandamál.">
 <!ENTITY folderIncludeInGlobalSearch.label "Nota póst í þessari möppu með í víðtækum leitarniðurstöðum">
 <!ENTITY folderIncludeInGlobalSearch.accesskey "v">
+
 <!ENTITY retention.label "Varðveislureglur">
 <!ENTITY retentionUseAccount.label "Nota sömu stillingar og eru á mínum reikningi">
 <!ENTITY retentionUseAccount.accesskey "N">
@@ -30,30 +32,37 @@
 <!ENTITY retentionKeepRecent.accesskey "l">
 <!ENTITY retentionApplyToFlagged.label "Alltaf geyma stjörnumerkt bréf">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
+
 <!ENTITY folderSynchronizationTab.label "Samstilling">
 <!ENTITY folderCheckForNewMessages2.label "Alltaf athuga þessa möppu, þegar náð er í nýjan póst fyrir þennan reikning">
 <!ENTITY folderCheckForNewMessages2.accesskey "t">
+
 <!ENTITY offlineFolder.check.label "Velja þessa möppu fyrir ónettengda notkun">
 <!ENTITY offlineFolder.check.accesskey "s">
 <!ENTITY offlineFolder.button.label "Niðurhala núna">
 <!ENTITY offlineFolder.button.accesskey "N">
+
 <!ENTITY selectofflineNewsgroup.check.label "Velja þennan fréttahóp fyrir ónettengda notkun">
 <!ENTITY selectofflineNewsgroup.check.accesskey "o">
 <!ENTITY offlineNewsgroup.button.label "Niðurhala núna">
 <!ENTITY offlineNewsgroup.button.accesskey "N">
+
 <!ENTITY folderProps.name.label "Nafn:">
 <!ENTITY folderProps.name.accesskey "N">
 <!ENTITY folderProps.location.label "Staðsetning:">
 <!ENTITY folderProps.location.accesskey "S">
+
 <!ENTITY folderSharingTab.label "Samnýting">
 <!ENTITY privileges.button.label "Heimildir…">
 <!ENTITY privileges.button.accesskey "H">
 <!ENTITY permissionsDesc.label "Þú hefur eftirfarandi réttindi:">
 <!ENTITY folderType.label "Möppu tegund:">
+
 <!ENTITY folderQuotaTab.label "Kvóti">
 <!ENTITY folderQuotaRoot.label "Kvóti rótar:">
 <!ENTITY folderQuotaUsage.label "Notkun:">
 <!ENTITY folderQuotaStatus.label "Staða:">
+
 <!ENTITY numberOfMessages.label "Fjöldi skilaboða:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label "óþekkt">

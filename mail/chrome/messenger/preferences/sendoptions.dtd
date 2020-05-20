@@ -16,6 +16,7 @@
 <!ENTITY sendBoth.label "Senda póst bæði sem ósniðinn texta og HTML">
 <!ENTITY sendBoth.accesskey "e">
 <!ENTITY override.label "Athugið: Notaðu nafnaskrána til að skilgreina sjálfgefna textasniðsstillingu fyrir viðtakendur.">
+
 <!ENTITY domaindesc.label "Þegar þú sendir póst á póstfang sem er eitt af þessum lénum hér fyrir neðan, mun &brandShortName; senda póstinn sjálfkrafa á réttu sniði.">
 <!ENTITY HTMLTab.label "HTML lén">
 <!ENTITY HTMLTab.accesskey "H">
@@ -29,6 +30,7 @@
 <!ENTITY DeleteHtmlDomain.accesskey "E">
 <!ENTITY DeletePlainText.label "Eyða">
 <!ENTITY DeletePlainText.accesskey "E">
+
 <!ENTITY add.htmltitle "Bæta við HTML léni">
 <!ENTITY add.htmldomain "HTML lén:">
 <!ENTITY add.plaintexttitle "Bæta við léni fyrir ósniðinn texta">

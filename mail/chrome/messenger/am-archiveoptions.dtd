@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Stillingar fyrir skjalageymslu">
 <!ENTITY archiveGranularityPrefix.label "Þegar póstur er settur í skjalageymslu, setja í:">
 <!ENTITY archiveFlat.label "Eina möppu">

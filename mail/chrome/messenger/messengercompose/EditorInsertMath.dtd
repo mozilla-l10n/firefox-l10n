@@ -4,7 +4,9 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Setja inn stærðfræði">
+
 <!ENTITY sourceEditField.label "Slá inn LaTeX kóða:">
+
 <!ENTITY options.label "Valkostir">
 <!ENTITY optionInline.label "Innfelldur hamur">
 <!ENTITY optionInline.accesskey "n">
@@ -14,5 +16,6 @@
 <!ENTITY optionLTR.accesskey "l">
 <!ENTITY optionRTL.label "Hægri-til-vinstri stefna">
 <!ENTITY optionRTL.accesskey "r">
+
 <!ENTITY insertButton.label "Setja inn">
 <!ENTITY insertButton.accesskey "i">

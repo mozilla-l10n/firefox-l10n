@@ -5,6 +5,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label "Eiginleikar láréttrar línu">
+
 <!ENTITY dimensionsBox.label "Stærðir">
 <!ENTITY heightEditField.label "Hæð:">
 <!ENTITY heightEditField.accessKey "H">
@@ -18,6 +19,7 @@
 <!ENTITY centerRadio.accessKey "M">
 <!ENTITY rightRadio.label "Hægri">
 <!ENTITY rightRadio.accessKey "r">
+
 <!ENTITY threeDShading.label "3-D skuggar">
 <!ENTITY threeDShading.accessKey "s">
 <!ENTITY saveSettings.label "Nota sem sjálfgefið">

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Loka
     .accesskey = L
+
 show-passwords =
     .label = Sýna lykilorð
     .accesskey = ð

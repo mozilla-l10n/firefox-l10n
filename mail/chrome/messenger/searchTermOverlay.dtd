@@ -8,6 +8,7 @@
 <!ENTITY matchAny.accesskey "e">
 <!ENTITY matchAllMsgs.label "Passar við allan póst">
 <!ENTITY matchAllMsgs.accesskey "P">
+
 <!-- LOCALIZATION NOTE
   The values below are used to control the widths of the search widgets.
   Change the values only when the localized strings in the popup menus

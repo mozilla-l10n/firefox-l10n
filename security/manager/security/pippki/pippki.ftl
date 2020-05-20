@@ -8,6 +8,7 @@ password-quality-meter = Gæðamæling lykilorðs
 
 change-password-window =
     .title = Breyta aðallykilorði
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Öryggistæki: { $tokenName }
