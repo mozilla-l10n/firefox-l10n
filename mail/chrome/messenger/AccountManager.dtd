@@ -4,6 +4,8 @@
 
 <!-- extracted from AccountManager.xul -->
 
+<!-- extracted from AccountManager.xhtml -->
+
 <!ENTITY accountManagerTitle.label "অ্যাকাউন্ট সেটিংসমূহ">
 
 <!ENTITY accountActionsButton.label "অ্যাকাউন্টের কাজসমূহ (A)">
@@ -16,6 +18,7 @@
 <!ENTITY setDefaultButton.accesskey "D">
 <!ENTITY removeButton.label "অ্যাকাউন্ট অপসারণ (R)">
 <!ENTITY removeButton.accesskey "R">
+
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -26,5 +29,6 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 
+<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 110ch; height: 52em;">
 <!ENTITY accountTree.width "width: 31ch;">

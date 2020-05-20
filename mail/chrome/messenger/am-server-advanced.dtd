@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "w">
 <!ENTITY dualUseFolders.label "সার্ভার এমন ফোল্ডার সমর্থন করে, যার মধ্যে সাবফোল্ডার এবং বার্তা রয়েছে (f)">
 <!ENTITY dualUseFolders.accesskey "f">
-<!ENTITY useIdle.label "IDLE কমান্ড ব্যবহার করুন, যদি সার্ভার সমর্থন করে (I)">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "ক্যাশের সর্বোচ্চ সংখ্যক সার্ভার সংযোগ (M)">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,11 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "এই নেমস্পেসসমূহ উপেক্ষা করতে, সার্ভারকে অনুমোদন করা হবে (A)">
 <!ENTITY overrideNamespaces.accesskey "A">
-<!ENTITY pop3Desc.label "যখন এই সার্ভারের জন্য পপ মেইল ডাউনলোড করে, নতুন মেইলের জন্য নিম্নোক্ত ফোল্ডার ব্যবহার করা হবে:">
-<!ENTITY globalInbox.label "গ্লোবাল ইনবক্স (স্থানীয় ফোল্ডার অ্যাকাউন্ট) (G)">
-<!ENTITY globalInbox.accesskey "G">
-<!ENTITY accountDirectory.label "এই সার্ভারের অ্যাকাউন্টের ইনবক্স (s)">
-<!ENTITY accountDirectory.accesskey "s">
 <!ENTITY deferToServer.label "ভিন্ন অ্যাকাউন্টের ইনবক্স (d)">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "যখন নতুন মেইল পাবেন, এই সার্ভারটি অন্তর্ভুক্ত করা হবে (I)">

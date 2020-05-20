@@ -16,8 +16,6 @@
 <!ENTITY htmlComposeHeader.label "HTML">
 <!ENTITY font.label "ফন্ট (n):">
 <!ENTITY font.accesskey "n">
-<!ENTITY size.label "আকার (z):">
-<!ENTITY size.accesskey "z">
 <!ENTITY fontColor.label "লেখার রং (T):">
 <!ENTITY fontColor.accesskey "T">
 <!ENTITY bgColor.label "পটভূমির রং (B):">

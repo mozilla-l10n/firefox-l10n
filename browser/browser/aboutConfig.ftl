@@ -4,15 +4,23 @@
 
 about-config-warning-checkbox = অনুগ্রহ করে, আমাকে আবার বিরক্ত কর!
 about-config-warning-button = আমি ঝুঁকি গ্রহণ করলাম
+
 about-config-search-input =
     .placeholder = অনুসন্ধান করুন
+
+## These strings appear on the warning you see when first visiting about:config.
+
+##
+
 about-config-show-all = সব দেখাও
+
 about-config-pref-add = যোগ
 about-config-pref-toggle = টগল
 about-config-pref-edit = সম্পাদনা
 about-config-pref-save = সংরক্ষণ
 about-config-pref-reset = রিসেট
 about-config-pref-delete = অপসারণ
+
 about-config-pref-add-button =
     .title = যোগ
 about-config-pref-toggle-button =

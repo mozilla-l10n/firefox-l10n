@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = একটি নতুন প্রাইভেট উইন্ডো খুলুন P
     .accesskey = P
+
 places-new-bookmark =
     .label = নতুন বুকমার্ক…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = নতুন বিভাজক
     .accesskey = S
+
 places-view =
     .label = প্রদর্শন
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = তারিখ ও সাইট অনুসারে
     .accesskey = t
+
 places-history-search =
     .placeholder = ইতিহাস খুঁজুন
 places-bookmarks-search =
     .placeholder = বুকমার্ক অনুসন্ধান
+
 places-delete-domain-data =
     .label = এই সাইটটি মনে রাখা হবে না
     .accesskey = F

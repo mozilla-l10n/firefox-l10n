@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "অভিধানের শব্দ (W):">
 <!ENTITY DictionaryList.accessKey "W">
-<!ENTITY ReplaceButton.label "প্রতিস্থাপন (R)">
-<!ENTITY ReplaceButton.accessKey "R">
 <!ENTITY RemoveButton.label "সরিয়ে ফেলা (e)">
 <!ENTITY RemoveButton.accessKey "e">
 

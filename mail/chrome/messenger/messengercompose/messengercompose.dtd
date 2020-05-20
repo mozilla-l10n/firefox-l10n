@@ -71,26 +71,24 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "পুনরায় মোড়ানো (w)">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "মুছে ফেলুন (D)">
 <!ENTITY deleteCmd.accesskey "D">
+<!ENTITY editRewrapCmd.label "পুনরায় মোড়ানো (w)">
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY selectAllCmd.label "সব নির্বাচন করা হবে (A)">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY findCmd.label "অনুসন্ধান এবং প্রতিস্থাপন… (F)">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "পুনরায় খোঁজা হবে (g)">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "পূর্ববর্তীটি খোঁজা হবে (v)">
-<!ENTITY findPrevCmd.key "G">
-<!ENTITY findPrevCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.accesskey "v">
 <!-- View Menu -->
+
+<!ENTITY findPrevCmd.key "G">
+<!ENTITY findPrevCmd.key2 "VK_F3">
 
 <!ENTITY viewMenu.label "প্রদর্শন (V)">
 <!ENTITY viewMenu.accesskey "V">
@@ -132,8 +130,6 @@
 <!ENTITY returnReceiptMenu.accesskey "t">
 <!ENTITY dsnMenu.label "প্রেরণের অবস্থার ঘোষণা (N)">
 <!ENTITY dsnMenu.accesskey "N">
-<!ENTITY outputFormatMenu.label "বিন্যাস (F)">
-<!ENTITY outputFormatMenu.accesskey "F">
 <!ENTITY autoFormatCmd.label "স্বয়ংক্রিয়-সনাক্তকরণ (A)">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "শুধুমাত্র সরল পাঠ্য (P)">
@@ -168,11 +164,6 @@
 <!ENTITY addressBookCmd.label "ঠিকানা বই (A)">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "অ্যাকাউন্ট সেটিং… (c)">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "অপশন… (O)">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 <!--  Mac OS X Window Menu -->
@@ -196,11 +187,11 @@
 <!ENTITY sendlaterButton.tooltip "এই বার্তাটি পরে পাঠানো হবে">
 <!ENTITY quoteButton.tooltip "পূর্ববর্তী বার্তার উদ্ধৃতি দিন">
 <!ENTITY addressButton.tooltip "একটি ঠিকানা বই থেকে প্রাপক নির্বাচন করা হবে">
-<!ENTITY attachButton.tooltip "একটি সংযুক্তি অন্তর্ভূক্ত করুন">
 <!ENTITY saveButton.tooltip "এই বার্তাটি সংরক্ষণ করুন">
 <!ENTITY cutButton.tooltip "কাটা">
 <!ENTITY copyButton.tooltip "অনুলিপি">
 <!ENTITY pasteButton.tooltip "প্রতিলেপন">
+
 <!-- Headers -->
 
 <!ENTITY fromAddr.label "প্রেরক (r):">
@@ -268,6 +259,8 @@
 <!ENTITY attachPage.label "ওয়েব পেজ সংযুক্ত করুন… (W)">
 <!ENTITY attachPage.accesskey "W">
 <!-- Title for the address picker panel -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY addressesSidebarTitle.label "পরিচিতি">
 

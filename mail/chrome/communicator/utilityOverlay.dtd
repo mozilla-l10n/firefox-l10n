@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- these things need to move into utilityOverlay.xul -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 
@@ -33,8 +34,6 @@
 <!ENTITY selectAllCmd.label "সব নির্বাচন (A)">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY preferencesCmd.label "অপশন… (O)">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "পছন্দসমূহ (n)">
 <!ENTITY preferencesCmdUnix.accesskey "n">
 
@@ -44,9 +43,6 @@
 <!ENTITY viewToolbarsMenu.accesskey "T">
 <!ENTITY showTaskbarCmd.label "স্ট্যাটাস বার (S)">
 <!ENTITY showTaskbarCmd.accesskey "S">
-
-<!ENTITY proxy.label "প্রক্সি কনফিগারেশন… (C)">
-<!ENTITY proxy.accesskey "C">
 
 <!ENTITY closeCmd.label "বন্ধ (C)">
 <!ENTITY closeCmd.key "W">

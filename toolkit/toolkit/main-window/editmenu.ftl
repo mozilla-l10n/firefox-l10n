@@ -6,24 +6,33 @@
 ### This file contains the entities needed for the 'edit' menu
 ### It's currently only used for the Browser Console
 
+### This file contains the entities needed for the 'edit' menu
+### It's currently only used for the Browser Console and Developer Toolbox
+
 editmenu-undo =
     .label = পূর্বাবস্থা
     .accesskey = U
+
 editmenu-redo =
     .label = পুনরায়
     .accesskey = R
+
 editmenu-cut =
     .label = কাটা
     .accesskey = t
+
 editmenu-copy =
     .label = অনুলিপি
     .accesskey = C
+
 editmenu-paste =
     .label = প্রতিলেপন
     .accesskey = P
+
 editmenu-delete =
     .label = অপসারণ
     .accesskey = D
+
 editmenu-select-all =
     .label = সব নির্বাচন
     .accesskey = A

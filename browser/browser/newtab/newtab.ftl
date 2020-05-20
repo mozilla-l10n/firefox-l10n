@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = অনুসন্ধান
     .aria-label = অনুসন্ধান
+
 newtab-search-box-search-the-web-text = ওয়েবে সন্ধান করুন
 newtab-search-box-search-the-web-input =
     .placeholder = ওয়েবে সন্ধান করুন
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = শীর্ষ সাইট সম্প
 newtab-topsites-title-label = শিরোনাম
 newtab-topsites-title-input =
     .placeholder = নাম দিন
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = টাইপ করুন অথবা পেস্ট করুন URL
 newtab-topsites-url-validation = কার্যকর URL প্রয়োজন
+
 newtab-topsites-image-url-label = কাস্টম ছবির URL
 newtab-topsites-use-image-link = কাস্টম ছবি ব্যবহার করুন…
 newtab-topsites-image-validation = ছবি লোড করতে ব্যর্থ। ভিন্ন URL এ চেস্টা করুন।
@@ -47,6 +50,8 @@ newtab-topsites-add-button = যোগ
 
 ## Top Sites - Delete history confirmation dialog. 
 
+## Top Sites - Delete history confirmation dialog.
+
 newtab-confirm-delete-history-p1 = আপনি কি নিশ্চিতভাবে আপনার ইতিহাস থেকে এই পাতার সকল কিছু মুছে ফেলতে চান?
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = এই পরিবর্তনটি অপরিবর্তনীয়।
@@ -57,6 +62,7 @@ newtab-confirm-delete-history-p2 = এই পরিবর্তনটি অপ�
 newtab-menu-section-tooltip =
     .title = মেনু খুলুন
     .aria-label = মেনু খুলুন
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -80,12 +86,20 @@ newtab-menu-delete-history = ইতিহাস থেকে মুছে ফে
 newtab-menu-save-to-pocket = { -pocket-brand-name } এ সংরক্ষণ করুন
 newtab-menu-delete-pocket = { -pocket-brand-name } থেকে মুছে দিন
 newtab-menu-archive-pocket = { -pocket-brand-name } এ আর্কাইভ করুন
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = বুকমার্ক মুছে দিন
 # Bookmark is a verb here.
 newtab-menu-bookmark = বুকমার্ক
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ডাউনলোডের লিঙ্ক অনুলিপি করুন
@@ -116,6 +130,9 @@ newtab-label-download = ডাউনলোড হয়েছে
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = সেকশনটি সরান
 newtab-section-menu-collapse-section = সেকশনটি সংকোচন করুন
 newtab-section-menu-expand-section = সেকশনটি প্রসারিত করুন
@@ -126,6 +143,8 @@ newtab-section-menu-add-search-engine = অনুসন্ধান ইঞ্জ
 newtab-section-menu-move-up = উপরে উঠাও
 newtab-section-menu-move-down = নীচে নামাও
 newtab-section-menu-privacy-notice = গোপনীয়তা নীতি
+
+## Section aria-labels
 
 ## Section Headers.
 
@@ -138,17 +157,20 @@ newtab-section-header-pocket = { $provider } দ্বারা সুপার�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = ব্রাউজি করা শুরু করুন, এবং কিছু গুরুত্বপূর্ণ নিবন্ধ, ভিডিও, এবং আপনি সম্প্রতি পরিদর্শন বা বুকমার্ক করেছেন এমন কিছু পৃষ্ঠা আমরা এখানে প্রদর্শন করব।
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = কিছু একটা ঠিক নেই। { $provider } এর শীর্ষ গল্পগুলো পেতে কিছুক্ষণ পর আবার দেখুন। অপেক্ষা করতে চান না? বিশ্বের সেরা গল্পগুলো পেতে কোন জনপ্রিয় বিষয় নির্বাচন করুন।
+
+
+## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 ## Pocket Content Section.
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = জনপ্রিয় বিষয়:
 newtab-pocket-more-recommendations = আরও সুপারিশ
-newtab-pocket-how-it-works = কিভাবে এটা কাজ করে
 newtab-pocket-cta-button = { -pocket-brand-name } ব্যবহার করুন
 newtab-pocket-cta-text = { -pocket-brand-name } এ আপনার পছন্দের গল্পগুলো সংরক্ষণ করুন, এবং চমৎকার সব লেখা পড়ে আপনার মনের ইন্ধন যোগান।
 

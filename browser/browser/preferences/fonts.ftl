@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ফন্ট
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ভাষা
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = আরবি
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = আনুপাতিক
     .accesskey = P
+
 fonts-default-serif =
     .label = সেরিফ
 fonts-default-sans-serif =
     .label = সাণ্স শেরিফ
+
 fonts-proportional-size = আকার
     .accesskey = z
+
 fonts-serif = সেরিফ
     .accesskey = S
+
 fonts-sans-serif = সান্স-সেরিফ
     .accesskey = n
+
 fonts-monospace = মনোস্পেস
     .accesskey = M
+
 fonts-monospace-size = আকার
     .accesskey = e
+
 fonts-minsize = ফন্টের সর্বনিম্ন আকার
     .accesskey = o
+
 fonts-minsize-none =
     .label = কোনটি নয়
+
 fonts-allow-own =
     .label = উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পাতাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = লিগ্যাসি কন্টেটের জন্য ক্যারেক্টার এনকোডিং
 fonts-languages-fallback-desc = এই অক্ষরের এনকোডিং ব্যবহৃত হয়েছে লিগ্যাসি কন্টেন্টর জন্য যা এর এনকোডিং ডিক্লেয়ার করতে ব্যর্থ।
+
 fonts-languages-fallback-label = ফলব্যাক টেক্সট এনকোডিং
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = বর্তমান লোকেলের জন্য ডিফল্ট
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = ভিয়েতনামী
 fonts-languages-fallback-name-other =
     .label = অন্য (পশ্চিম ইউরোপীয় সহ)
-fonts-very-large-warning-title = বড় নূন্যতম ফন্টের আকার
-fonts-very-large-warning-message = আপনি একটি খুব বড় সর্বনিম্ন ফন্টের আকার (অধিক 24 পিক্সেল) নির্বাচন করেছেন. এই কঠিন বা অসম্ভব এই এক মত কিছু গুরুত্বপূর্ণ কনফিগারেশন পেজ ব্যবহার করতে পারে।
-fonts-very-large-warning-accept = যেকোনোভাবে আমার পরিবর্তনগুলি বজায় রাখুন
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =
