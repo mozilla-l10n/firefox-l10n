@@ -54,6 +54,7 @@ import =
 close-button =
     .label = დახურვა
     .accesskey = დ
+
 show-passwords =
     .label = პაროლების ჩვენება
     .accesskey = პ

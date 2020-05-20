@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = ვცნობ რისკებს!
 config-about-warning-checkbox =
     .label = გაფრთხილების ჩვენება ყოველ ჯერზე
+
 config-search-prefs =
     .value = ძიება:
     .accesskey = ძ
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = ასლი
     .accesskey = ლ
+
 config-copy-name =
     .label = სახელის ასლი
     .accesskey = ს
+
 config-copy-value =
     .label = მნიშვნელობის ასლი
     .accesskey = მ
+
 config-modify =
     .label = შეცვლა
     .accesskey = შ
+
 config-toggle =
     .label = გადართვა
     .accesskey = თ
+
 config-reset =
     .label = აღდგენა
     .accesskey = ღ
+
 config-new =
     .label = ახალი
     .accesskey = ა
+
 config-string =
     .label = ტექსტი
     .accesskey = ტ
+
 config-integer =
     .label = მთელი რიცხვი
     .accesskey = რ
+
 config-boolean =
     .label = ლოგიკური ოპერატორი
     .accesskey = ლ
+
 config-default = ნაგულისხმევი
 config-modified = შეცვლილი
 config-locked = დალუქულია
+
 config-property-string = ტექსტი
 config-property-int = მთელი რიცხვი
 config-property-bool = ლოგიკური ოპერატორი
+
 config-new-prompt = პარამეტრის სახელის მითითება
+
 config-nan-title = არასწორი მნიშვნელობა
 config-nan-text = თქვენ მიერ შეყვანილი ტექსტი რიცხვი არაა.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = ახალი მნიშვნელობა – { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = მნიშვნელობის მითითება – { $type }

@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "არქივაციის პარამეტრები">
 <!ENTITY archiveGranularityPrefix.label "წერილების არქივაციისას მათი მოთავსება საქაღალდეში:">
 <!ENTITY archiveFlat.label "ერთ საქაღალდეში">

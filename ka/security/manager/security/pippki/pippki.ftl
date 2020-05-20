@@ -8,6 +8,7 @@ password-quality-meter = პაროლის ხარისხის მზ�
 
 change-password-window =
     .title = მთავარი პაროლის შეცვლა
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = უსაფრთხოების მოწყობილობა: { $tokenName }

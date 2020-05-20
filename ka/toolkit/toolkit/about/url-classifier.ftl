@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = უსაფრთხო თვალიერ
 url-classifier-debug-modules = მიმდინარე აღრიცხვის მოდულები
 url-classifier-debug-sbjs-modules = უსაფრთხო თვალიერების JS-აღრიცხვა
 url-classifier-debug-file = მიმდინარე აღრიცხვის ფაილი
+
 url-classifier-trigger-update = განახლების გაშვება
 url-classifier-not-available = მიუწვდომელია
 url-classifier-disable-sbjs-log = უსაფრთხო თვალიერების JS-აღრიცხვის გამორთვა

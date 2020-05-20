@@ -207,11 +207,9 @@ was trying to connect. -->
 
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; ზღუდავს ამ გვერდს, ვინაიდან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
 
-<!ENTITY xfoBlocked.title "ზღუდავს დებულება X-Frame-Options">
+<!ENTITY corruptedContentErrorv2.title "დაზიანებული შიგთავსის შეცდომა">
 
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; ზღუდავს ამ გვერდის მოცემული გზით ჩატვირთვას, ვინაიდან მისი დებულება X-Frame-Options კრძალავს ამას.</p>">
-
-<!ENTITY corruptedContentErrorv2.title "დაზიანებული შიგთავსის შეცდომა">
 
 <!ENTITY corruptedContentErrorv2.longDesc "<p>გვერდის ჩვენება, რომლის ნახვასაც ცდილობთ, ვერ ხერხდება, მონაცემთა გადაცემისას აღმოჩენილი შეცდომის გამო.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ, ამ ხარვეზის შესახებ.</li></ul>">
 
@@ -258,10 +256,10 @@ was trying to connect. -->
 <!ENTITY prefReset.longDesc "შესაძლოა ამის მიზეზს, თქვენ მიერ მითითებული, ქსელის უსაფრთხოების პარამეტრები წარმოადგენდეს. გსურთ ნაგულისხმევი პარამეტრების აღდგენა?">
 <!ENTITY prefReset.label "ნაგულისხმევი პარამეტრების აღდგენა">
 
+<!ENTITY networkProtocolError.title "ქსელის ოქმის შეცდომა">
+
 <!ENTITY enableTls10.longDesc "ვებსაიტზე ალბათ არაა მხარდაჭერილი TLS 1.2 ოქმი, უმცირესი ვერსია, რომელსაც იყენებს &brandShortName;. TLS1.0 და TLS 1.1 ოქმების ჩართვით შესაძლოა მოხერხდეს კავშირის დამყარება.">
 <!ENTITY enableTls10.note "TLS 1.0 და TLS 1.1 სამუდამოდ გაითიშება მომავალ გამოშვებაში.">
 <!ENTITY enableTls10.label "ჩაირთოს TLS 1.0 და 1.1">
-
-<!ENTITY networkProtocolError.title "ქსელის ოქმის შეცდომა">
 
 <!ENTITY networkProtocolError.longDesc "<p>გვერდი რომლის მონახულებასაც ცდილობთ ვერ გამოჩნდება, ვინაიდან ქსელის ოქმში აღმოჩენილია შეცდომა.</p><ul><li>გთხოვთ, დაუკავშირდეთ საიტის მფლობელებს და აცნობოთ ამ ხარვეზის შესახებ.</li></ul>">

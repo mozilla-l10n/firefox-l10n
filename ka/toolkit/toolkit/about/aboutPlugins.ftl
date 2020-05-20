@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = მოდულების შესახებ
+
 installed-plugins-label = ჩადგმული მოდულები
 no-plugins-are-installed-label = ჩადგმული მოდულები ვერ მოიძებნა
+
 deprecation-description = რამე აკლია? ზოგიერთი მოდული აღარაა მხარდაჭერილი. <a data-l10n-name="deprecation-link">იხილეთ ვრცლად.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">მდგომარეობ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">მდგომარეობა:</span> ჩართულია ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">მდგომარეობა:</span> ამორთულია
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">მდგომარეობა:</span> ამორთულია ({ $blockListState })
+
 mime-type-label = MIME სახის
 description-label = აღწერილობა
 suffixes-label = ფაილის გაფართოებები

@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = სანიშნები
+
 sidebar-menu-history =
     .label = ისტორია
+
 sidebar-menu-synced-tabs =
     .label = დასინქრონებული ჩანართები
+
 sidebar-menu-close =
     .label = გვერდითი ზოლის დახურვა

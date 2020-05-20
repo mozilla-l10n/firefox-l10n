@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "მოკლე სათაური"> 
 <!ENTITY message.label    "აქ სანიმუშო ტექსტია განთავსებული.">
+
 <!ENTITY editfield0.label "სახელი:"> 
 <!ENTITY editfield1.label "პაროლი:"> 
-<!ENTITY checkbox.label   "შემოწმება">
+<!ENTITY checkbox.label   "შემოწმება"> 
 <!ENTITY copyCmd.label    "ასლი">
 <!ENTITY copyCmd.accesskey "ლ">
 <!ENTITY selectAllCmd.label "ყველას მონიშვნა">

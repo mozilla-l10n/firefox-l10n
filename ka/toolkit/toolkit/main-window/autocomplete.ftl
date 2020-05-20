@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">ანგარიშის მონაცემების გადმოტანა { $browser }-იდან</div>
     <div data-l10n-name="line2">{ $host } და სხვა საიტებისთვის</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = იხილეთ ვრცლად

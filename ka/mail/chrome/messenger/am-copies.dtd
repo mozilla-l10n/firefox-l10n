@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "ასლები და საქაღალდეები">
 <!ENTITY sendingPrefix.label "წერილის გაგზავნისას, ავტომატურად: ">
 <!ENTITY fccMailFolder.label "ასლის განთავსება:">

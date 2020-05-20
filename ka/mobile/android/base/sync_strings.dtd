@@ -5,6 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox სინქრონიზაცია">
+
 <!ENTITY syncBrand.shortName.label "სინქრონიზაცია">
 
 <!-- Main titles. -->
