@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Ezin da konektatu">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Helbide hau murriztuta dago">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Ez da zerbitzaria aurkitu">
@@ -33,12 +35,15 @@
 ">
 
 <!ENTITY fileNotFound.title "Fitxategia ez da aurkitu">
+
 <!ENTITY fileNotFound.longDesc "<ul> <li>Egiaztatu fitxategi-izenaren kapitalizazioa edo bestelako idazketa-erroreak.</li> <li>Egiaztatu ea fitxategia lekuz aldatu, berrizendatu edo ezabatu egin den.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Fitxategi-atzipena ukatu egin da">
+
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Kendua edo lekuz aldatua egon liteke, edo fitxategi-baimenek sarrera eragotz lezakete.</li> </ul>">
 
 <!ENTITY generic.title "Iepa.">
+
 <!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
 <!ENTITY captivePortal.title "Hasi saioa sarean">
@@ -51,36 +56,46 @@
 <!ENTITY malformedURI.title1 "Hara. Helbide horrek ez dirudi zuzena.">
 
 <!ENTITY netInterrupt.title "Konexioa eten egin da">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumentua iraungita">
+
 <!ENTITY notCached.longDesc "<p>Eskatutako dokumentua ez dago &brandShortName;(r)en cache memorian.</p><ul><li>Segurtasun-neurri gisa, &brandShortName;(e)k ez ditu berriro automatikoki eskatzen informazio pertsonala izan dezaketen dokumentuak.</li><li>Egin klik 'Saiatu berriro' botoian webguneko dokumentua berriro eskatzeko.</li></ul>">
 
 <!ENTITY netOffline.title "Lineaz kanpo">
+
 <!ENTITY netOffline.longDesc2 "<ul> <li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Edukien kodeketa-errorea">
+
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Fitxategi mota EZ-segurua">
+
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> </ul>">
 
 <!ENTITY netReset.title "Konexioa berrezarri egin da">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Konexioaren denbora-muga gainditu da">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Ez da helbidea ulertu">
+
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Agian bestelako softwarea instalatu behar duzu helbide hau irekitzeko.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy-zerbitzaria konexioak ukatzen ari da">
+
 <!ENTITY proxyConnectFailure.longDesc "<ul>
   <li>Egiaztatu proxy-aren konexioaren ezarpenak.</li>
   <li>Jarri harremanetan sarearen kudeatzailearekin proxy-zerbitzaria martxan dagoela ziurtatzeko.</li>
 </ul>">
 
 <!ENTITY proxyResolveFailure.title "Ezin da proxy-zerbitzaria aurkitu">
+
 <!ENTITY proxyResolveFailure.longDesc "<ul>
   <li>Egiaztatu proxy-aren konexioaren ezarpenak.</li>
   <li>Egiaztatu zure ordenagailuak sareko konexioa duela.</li>
@@ -88,16 +103,20 @@
 </ul>">
 
 <!ENTITY redirectLoop.title "Orriak ez du birbideraketa ondo egiten">
+
 <!ENTITY redirectLoop.longDesc "<ul> <li>Arazo hau baliteke cookieak desgaituta eduki edo ez onartzeagatik izatea.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Zerbitzariaren erantzuna ez zen espero">
+
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Egiaztatu zure sistemak Personal Security Manager delakoa instalatuta duela.</li> <li>Baliteke zerbitzariaren konfigurazio ez-estandar batengatik izatea.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Konexio seguruak huts egin du">
+
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Ikusten saiatzen ari zaren orria ezin da erakutsi jasotako datuen egiazkotasuna ezin delako egiaztatu.</li> <li>Mesedez jarri harremanetan webgunearen jabeekin arazoaren berri emateko.</li> </ul>">
 
 <!ENTITY certerror.longpagetitle2 "Abisua: balizko segurtasun arriskua">
 <!ENTITY certerror.sts.longpagetitle  "Ez da konektatu: balizko segurtasun-arazoa">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -131,12 +150,13 @@ was trying to connect. -->
 </ul>">
 
 <!ENTITY cspBlocked.title "Edukien segurtasun-politikak blokeatuta">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;(e)k orri hau modu honetan kargatzea eragotzi du edukien segurtasun-politikak baimentzen ez duelako.</p>">
 
-<!ENTITY xfoBlocked.title "X-Frame-Options politikak blokeatuta">
+<!ENTITY corruptedContentErrorv2.title "Hondatutako edukien errorea">
+
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName;(e)k orri hau testuinguru honetan kargatzea eragotzi du daukan X-Frame-Options politikak baimentzen ez duelako.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Hondatutako edukien errorea">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako datu-transmisioan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Onartu arriskua eta jarraitu">
@@ -145,9 +165,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Argibide gehiago…">
 
 <!ENTITY remoteXUL.title "Urruneko XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jar zaitez webgunearen jabeekin harremanetan arazo honen berri emateko.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Ezin da modu seguruan konektatu">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informazio aurreratua: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -158,6 +180,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Kopiatu testua arbelean">
 
 <!ENTITY inadequateSecurityError.title "Zure konexioa ez da segurua">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> ostalariak zaharkituta dagoen eta erasoen aurrean babesik ez duen segurtasun-teknologia erabiltzen du. Segurua zela uste zenuen informazioa erraz agerraraz lezake erasotzaile batek. Zuk gunea bisitatu ahal izan aurretik zerbitzaria konpondu behar du webgunearen kudeatzaileak.</p><p>Errore-kodea: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -165,6 +188,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Blokeatutako orria">
 
 <!ENTITY certerror.mitm.title "Softwareak &brandShortName;(r)i gune honetara modu seguruan konektatzea eragozten dio">
+
 <!ENTITY certerror.mitm.longDesc "Litekeena da <span class='hostname'></span> gune segurua izatea baina ezin da konexio segururik ezarri. Arazo hau zure ordenagailuan edo sarean dagoen <span class='mitm-name'/> softwareak eragina da.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 'Zure antibirus softwareak konexio zifratuak eskaneatzeko eginbiderik balu (sarritan "web eskaneatzea" edo "https eskaneatzea" deitua), desgaitu egin dezakezu. Horrekin ez badabil, antibirus softwarea ken eta berrinstala dezakezu.'>
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Enpresako sare batean bazaude, jar zaitezke harremanetan bertako informatika sailarekin.">
@@ -172,14 +196,16 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ez bazaizu <span class='mitm-name'/> ezaguna egiten, eraso baten aurrean egon zintezke eta ezin duzu ezer egin gunera sartzeko.">
 
 <!ENTITY clockSkewError.title "Zure ordenagailuaren erlojua gaizki dago">
+
 <!ENTITY clockSkewError.longDesc "Zure ordenagailuak uste du <span id='wrongSystemTime_systemDate1'/> dela eta honek &brandShortName;(r)i modu seguruan konektatzea eragozten dio. <span class='hostname'></span> bisitatzeko, jarri egunean zure ordenagailuaren erlojua sistemaren ezarpenetan uneko data, ordua eta ordu-zona kontuan hartuz, eta gero berritu <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Badirudi zure sareko segurtasun-ezarpenek eragiten dutela hau. Ezarpen lehenetsiak berrezarri nahi dituzu?">
 <!ENTITY prefReset.label "Berrezarri ezarpen lehenetsiak">
 
+<!ENTITY networkProtocolError.title "Sare-protokoloaren errorea">
+
 <!ENTITY enableTls10.longDesc "Baliteke webgune honek TLS 1.2 protokoloa ez onartzea, &brandShortName;(e)k onartzen duen gutxieneko bertsioa. TLS 1.0 eta TLS 1.1 gaituz gero, baliteke konexioa ondo burutzea.">
 <!ENTITY enableTls10.note "TLS 1.0 eta TLS 1.1 behin betiko desgaituko dira etorkizuneko bertsio batean.">
 <!ENTITY enableTls10.label "Gaitu TLS 1.0 eta 1.1">
 
-<!ENTITY networkProtocolError.title "Sare-protokoloaren errorea">
 <!ENTITY networkProtocolError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da erakutsi errore bat detektatu delako sareko protokoloan.</p><ul><li>Jar zaitez harremanetan webgunearen jabeekin arazo honen berri emateko.</li></ul>">

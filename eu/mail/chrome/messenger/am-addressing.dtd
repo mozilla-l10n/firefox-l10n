@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Mezuak prestatzea eta helbideratzea">
 <!ENTITY addressingGroupTitle.label "Helbideratzea">
 <!ENTITY addressingText.label      "Helbideak bilatzean:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Mezuak prestatzea">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Prestatu mezuak HTML formatuan">
 <!ENTITY useHtml.accesskey                    "s">
 <!ENTITY autoQuote.label                      "Zitatu automatikoki jatorrizko testua erantzutean">
 <!ENTITY autoQuote.accesskey                  "m">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Orduan,">
-<!ENTITY then.accesskey                       "O">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Aipamena noiz,">
 <!ENTITY quoting.accesskey                    "A">

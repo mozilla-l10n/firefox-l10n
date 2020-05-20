@@ -20,6 +20,7 @@ open-location = Bilatu edo idatzi helbidea
 share = Partekatu
 close-window = Itxi leihoa
 open-sidebar = Alboko barrak
+
 # This string describes shortcuts for search.
 search-popover = Bilatu lasterbideak
 # Describes searches limited to a specific scope

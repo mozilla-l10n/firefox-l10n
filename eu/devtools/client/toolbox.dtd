@@ -136,11 +136,6 @@
 <!ENTITY options.timestampMessages.label      "Gaitu denbora-markak">
 <!ENTITY options.timestampMessages.tooltip    "Aukera hau gaituz gero, web kontsolako komandoek eta irteerak denbora-marka bistaratuko dute">
 
-<!-- LOCALIZATION NOTE (options.warningGroups.label): This is the
-   - label for the checkbox that toggles the warningGroups feature in the Web Console -->
-<!ENTITY options.warningGroups.label      "Multzokatu antzerako mezuak">
-<!ENTITY options.warningGroups.tooltip    "Gaituta dagoenean, antzerako mezuak multzokatu egingo dira">
-
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 <!ENTITY options.debugger.label            "Araztailea">

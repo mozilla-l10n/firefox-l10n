@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Deskargatu eta sinkronizatu mezuak">
 <!ENTITY MsgSelect.label "Lineaz kanpo erabiltzeko elementuak">
 <!ENTITY MsgSyncDesc.label "Lineaz kanpo erabiltzeko posta-karpetak edo berri-taldeak hautatu badituzu dagoeneko, horiek deskargatu edo/eta sinkroniza ditzakezu. Bestela, erabili &quot;Hautatu&quot; botoia posta-karpetak eta berri-taldeak lineaz kanpo erabiltzeko.">

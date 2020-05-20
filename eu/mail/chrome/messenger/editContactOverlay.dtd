@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Helbide-liburua:">
 <!ENTITY editContactAddressBook.accesskey "a">
 
-<!ENTITY editContactPanelCancel.label "Utzi">
-<!ENTITY editContactPanelCancel.accesskey "U">
-
 <!ENTITY editContactPanelDone.label "Eginda">
 <!ENTITY editContactPanelDone.accesskey "d">
 

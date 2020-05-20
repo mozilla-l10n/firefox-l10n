@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Bilatu esaldiaren hurrengo parekatzea
 findbar-previous =
     .tooltiptext = Bilatu esaldiaren aurreko parekatzea
+
 findbar-find-button-close =
     .tooltiptext = Itxi bilaketa barra
+
 findbar-highlight-all2 =
     .label = Nabarmendu guztiak
     .accesskey =
@@ -19,14 +21,17 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = Nabarmendu esaldiaren agerpen guztiak
+
 findbar-case-sensitive =
     .label = Bereizi maiuskulak/minuskulak
     .accesskey = B
     .tooltiptext = Bilatu maiuskulak/minuskulak bereiziz
+
 findbar-match-diacritics =
     .label = Bereizi diakritikoak
     .accesskey = d
     .tooltiptext = Bereizi azentu-ikurdun letren eta hauen oinarri-letren artean (adibidez, "resume" bilatzean, "résumé" ez da bat etorriko)
+
 findbar-entire-word =
     .label = Hitz osoak
     .accesskey = o

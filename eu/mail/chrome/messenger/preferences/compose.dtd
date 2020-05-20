@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Letra-tipoa:">
 <!ENTITY font.accesskey                       "r">
-<!ENTITY size.label                           "Tamaina:">
-<!ENTITY size.accesskey                       "m">
 <!ENTITY fontSize.label                       "Tamaina:">
 <!ENTITY fontSize.accesskey                   "t">
 <!ENTITY useReaderDefaults.label              "Erabili irakurlearen kolore lehenetsiak">

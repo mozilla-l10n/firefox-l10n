@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "e">
 <!ENTITY downloadOnBiff.label "Deskargatu automatikoki mezu berriak">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Saioa hasteko izena">
 <!ENTITY deleteMessagePrefix.label "Mezu bat ezabatzean:">
 <!ENTITY modelMoveToTrash.label "Mugitu karpeta honetara:">
 <!ENTITY modelMoveToTrash.accesskey "u">

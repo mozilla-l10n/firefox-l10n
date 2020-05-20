@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Ireki leiho pribatu berrian
     .accesskey = p
+
 places-new-bookmark =
     .label = Laster-marka berria…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Bereizle berria
     .accesskey = z
+
 places-view =
     .label = Ikusi
     .accesskey = s
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Data eta gunearen arabera
     .accesskey = t
+
 places-history-search =
     .placeholder = Bilatu historia
 places-bookmarks-search =
     .placeholder = Bilatu laster-markak
+
 places-delete-domain-data =
     .label = Ahaztu gune honetaz
     .accesskey = A

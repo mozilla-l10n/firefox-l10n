@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; kokapen-zerbitzuak exekutatzen ari dira">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Eguneraketa automatikoak">
-<!ENTITY pref_update_autodownload_wifi "Wi-Fi bidez soilik">
-<!ENTITY pref_update_autodownload_never "Inoiz ez">
-<!ENTITY pref_update_autodownload_always "Beti">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Laguntza">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Laster-markak eta historia">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Eguneraketa erabilgarri &brandShortName;(r)entzat">
-<!ENTITY updater_start_select2 "Ukitu deskargatzeko">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; deskargatzen">
-<!ENTITY updater_downloading_title_failed2 "Deskargak huts egin du">
-<!ENTITY updater_downloading_select2 "Ukitu eguneraketa aplikatzeko behin deskargatuta">
-<!ENTITY updater_downloading_retry2 "Ukitu berriro saiatzeko">
-
-<!ENTITY updater_apply_title3 "Eguneraketa deskargatuta &brandShortName;(r)entzat">
-<!ENTITY updater_apply_select3 "Sakatu instalatzeko">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Fitxategiak eta eguneraketak deskargatzeko, eman &brandShortName;(r)i biltegiratzea atzitzeko baimena.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Baimendu">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Gonbidatu saio berria">
 <!ENTITY exit_guest_session "Irten gonbidatu saiotik">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Soinua eta bideoa">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; aholku eta trukoak">
-<!ENTITY updater_notification_channel "Aplikazio-eguneraketak">
 <!ENTITY synced_tabs_notification_channel "Sinkronizatutako fitxak">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

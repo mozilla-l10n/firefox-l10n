@@ -5,50 +5,66 @@
 permissions-window =
     .title = Salbuespenak
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Webgunearen helbidea
     .accesskey = h
+
 permissions-block =
     .label = Blokeatu
     .accesskey = B
+
 permissions-session =
     .label = Baimendu saiorako
     .accesskey = s
+
 permissions-allow =
     .label = Baimendu
     .accesskey = B
+
 permissions-site-name =
     .label = Webgunea
+
 permissions-status =
     .label = Egoera
+
 permissions-remove =
     .label = Kendu webgunea
     .accesskey = K
+
 permissions-remove-all =
     .label = Kendu webgune guztiak
     .accesskey = e
+
 permissions-button-cancel =
     .label = Utzi
     .accesskey = U
+
 permissions-button-ok =
     .label = Gorde aldaketak
     .accesskey = G
+
 permissions-autoplay-menu = Webgune guztietarako lehenetsia:
+
 permissions-searchbox =
     .placeholder = Bilatu webgunea
+
 permissions-capabilities-autoplay-allow =
     .label = Baimendu audioa eta bideoa
 permissions-capabilities-autoplay-block =
     .label = Blokeatu audioa
 permissions-capabilities-autoplay-blockall =
     .label = Blokeatu audioa eta bideoa
+
 permissions-capabilities-allow =
     .label = Baimendu
 permissions-capabilities-block =
     .label = Blokeatu
 permissions-capabilities-prompt =
     .label = Galdetu beti
+
 permissions-capabilities-listitem-allow =
     .value = Baimendu
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Salbuespenak - Edukia blokeatzea
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Edukia blokeatzea desgaitu duzu gune hauetarako.
+
 permissions-exceptions-etp-window =
     .title = Jarraipenaren babes hobeturako salbuespenak
     .style = { permissions-window.style }

@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Kolorea">
 <!ENTITY lastPickedColor.label "Azkenez hautatutako kolorea">
 <!ENTITY lastPickedColor.accessKey "A">
-<!ENTITY setColor1.label "Egin klik kolore batean edo">
-<!ENTITY setColor2.label "sartu HTML kolore-kate bat">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY chooseColor1.label "Aukeratu kolorea:">
 <!ENTITY chooseColor2.label "Sartu HTML kolore-kate bat">
 <!ENTITY chooseColor2.accessKey "H">

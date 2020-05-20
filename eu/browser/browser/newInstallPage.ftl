@@ -9,15 +9,20 @@
 
 title = Berri garrantzitsua
 heading = Aldaketak zure { -brand-short-name } profilari
+
 changed-title = Zer aldatu da?
 changed-desc-profiles = { -brand-short-name }(r)en instalazioak profil berria dauka. Firefoxek laster-marka, pasahitz eta erabiltzaile-hobespenen tankerako informazioa gordetzen duen fitxategi multzoa da profila.
 changed-desc-dedicated = Firefoxen instalazioen artean errazago eta seguruago aldatzeko (Firefox, Firefox ESR, Firefox Beta, Firefox Developer Edition eta Firefox Nightly barne), instalazio honek orain bere profil propioa dauka. Gordetako zure informazioa ez da automatikoki Firefoxen beste instalazioekin partekatuko.
+
 lost = <b>Ez duzu datu pertsonal edo pertsonalizaziorik galdu.</b> Ordenagailu honetako Firefoxen informaziorik gordeta bazenu, beste Firefox instalazio batean erabilgarri dago oraindik.
+
 options-title = Zein dira nire aukerak?
 options-do-nothing = Ezer ez baduzu egiten, zure { -brand-short-name }(e)ko profilaren datuak beste Firefox instalazioekiko desberdinak izango dira.
 options-use-sync = Profileko datuak berdinak izatea nahi baduzu Firefoxen instalazio guztietan, { -fxaccount-brand-name } erabil dezakezu hauek sinkronizatuta mantentzeko.
+
 resources = Baliabideak:
 support-link = Profilen kudeatzailea erabiltzea - laguntza artikulua
+
 sync-header = Hasi saioa edo sortu { -fxaccount-brand-name } kontua
 sync-label = Idatzi zure helbide elektronikoa
 sync-input =

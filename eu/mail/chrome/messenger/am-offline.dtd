@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Diskoko lekua aurrezteko, ez deskargatu:">
 <!ENTITY doNotDownloadNntp.label "Diskoko lekua aurrezteko, ez deskargatu lineaz kanpoko erabilerako:">
 <!ENTITY doNotDownloadImap.label "Diskoko lekua aurrezteko, zerbitzaritik mezuak deskargatzea eta lineaz kanpoko erabilerako kopia lokalak gordetzea adinaren edo tamainaren arabera mugatu daiteke.">
-<!ENTITY allFoldersOffline.label "Mantendu kontu honetako mezuak ordenagailu honetan">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Mantendu kontu honetako karpeta guztietako mezuak ordenagailu honetan">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Oharra: Hau aldatzeak eragina dauka kontu honetako karpeta guztietan. Banakako karpetak ezartzeko erabili Aurreratua… botoia.">

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Itxi
     .accesskey = x
+
 show-passwords =
     .label = Erakutsi pasahitzak
     .accesskey = P

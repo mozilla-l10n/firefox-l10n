@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Kopiak eta karpetak">
 <!ENTITY sendingPrefix.label "Mezuak bidaltzean, automatikoki: ">
 <!ENTITY fccMailFolder.label "Gorde kopia bat hemen:">

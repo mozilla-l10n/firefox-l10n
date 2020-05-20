@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "G">
 <!ENTITY DictionaryList.label "Hiztegiko hitzak:">
 <!ENTITY DictionaryList.accessKey "H">
-<!ENTITY ReplaceButton.label "Ordezkatu">
-<!ENTITY ReplaceButton.accessKey "O">
 <!ENTITY RemoveButton.label "Ezabatu">
 <!ENTITY RemoveButton.accessKey "E">
 

@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Erabili hornitzailea
     .accesskey = h
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name }(lehenetsia)
     .tooltiptext = Erabili URL lehenetsia HTTPSn DNSak ebazteko
+
 connection-dns-over-https-url-custom =
     .label = Pertsonalizatua
     .accesskey = P
     .tooltiptext = Sartu zure gogoko URL HTTPSn DNSak ebazteko
+
 connection-dns-over-https-custom-label = Pertsonalizatua
