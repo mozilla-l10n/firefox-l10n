@@ -28,8 +28,6 @@
 <!ENTITY addToUserDictionaryButton.accessKey "e">
 <!ENTITY editUserDictionaryButton.label "Lungisa...">
 <!ENTITY editUserDictionaryButton.accessKey "L">
-<!ENTITY recheckButton.label "Phinda Uhlole Ikhasi">
-<!ENTITY recheckButton.accessKey "I">
 <!ENTITY closeButton.label "Vala">
 <!ENTITY closeButton.accessKey "V">
 <!ENTITY sendButton.label "Thumela">

@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label "Phawula Imiyalezo Ukuthi Ifundiwe Ngokulandelana Kwezinsuku">
 <!ENTITY markByDateLower.label "Phawula Imiyalezo Ukuthi Ifundiwe kusukela:">
 <!ENTITY markByDateLower.accesskey "K">
-<!ENTITY markByDateUpper.accesskey "K">
 <!ENTITY markByDateUpper.label "Kuya:">
+<!ENTITY markByDateUpper.accesskey "K">

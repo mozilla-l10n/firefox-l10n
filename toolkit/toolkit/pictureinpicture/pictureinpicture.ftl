@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Yima kancane
 pictureinpicture-play =
     .aria-label = Dlala
+
 pictureinpicture-mute =
     .aria-label = Thulisa
 pictureinpicture-unmute =
     .aria-label = Khulumisa
+

@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Ayikho i-proxy
     .accesskey = y
@@ -13,16 +14,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Thola ngokuzenzakalela izilungiselelo ze-proxy zale nethiwekhi
     .accesskey = w
+
 connection-proxy-http-share =
     .label = Sebenzisa lesi siphakeli se-proxy kuyo yonke imigaqonqubo
     .accesskey = e
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Isibonelo: .mozilla.org, .org.za, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Layisha kabusha
     .accesskey = a
+

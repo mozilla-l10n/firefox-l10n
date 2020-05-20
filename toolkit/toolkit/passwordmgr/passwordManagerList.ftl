@@ -26,6 +26,7 @@ import =
 close-button =
     .label = Vala
     .accesskey = V
+
 remove-all-passwords-prompt = Uyaqiniseka yini ukuthi ufuna ukuveza amagama akho okungena?
 remove-all-passwords-title = Susa wonke amaphasiwedi
 no-master-password-prompt = Uyaqiniseka yini ukuthi ufuna ukuveza amagama akho okungena?

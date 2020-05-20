@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Isehlukanisi esisha">
 <!ENTITY cmd.new_separator.accesskey       "h">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Layisha futhi uphawu lokubekisa oluphilayo">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "L">
-
-<!ENTITY cmd.moveBookmarks.label                  "Susa…">
-<!ENTITY cmd.moveBookmarks.accesskey              "S">
-
 <!ENTITY col.name.label          "Igama">
 <!ENTITY col.tags.label          "Amamaki">
 <!ENTITY col.url.label           "Indawo">
 
 <!ENTITY col.visitcount.label    "Ukubalwa kokuvakashela">
-<!ENTITY col.description.label   "Incazelo">
 <!ENTITY col.dateadded.label     "Kwengeziwe">
 <!ENTITY col.lastmodified.label  "Ukugcinwa kokushintsha">
 
@@ -96,10 +89,6 @@
 
 <!ENTITY forwardButton.tooltip  "Iya phambili">
 
-<!ENTITY detailsPane.more.label "Okuningi">
-<!ENTITY detailsPane.more.accesskey "i">
-<!ENTITY detailsPane.less.label "Okuncane">
-<!ENTITY detailsPane.less.accesskey "k">
 <!ENTITY detailsPane.selectAnItemText.description "Khetha into ezobukwa bese uhlela izakhiwo zayo">
 
 <!ENTITY view.label               "Bheka">

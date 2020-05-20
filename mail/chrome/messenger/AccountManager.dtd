@@ -4,18 +4,15 @@
 
 <!-- extracted from AccountManager.xul -->
 
+<!-- extracted from AccountManager.xhtml -->
+
 <!ENTITY accountManagerTitle.label "Ukuhlelwa kwe-Akhawunti">
 
-<!ENTITY addAccountButton.label "Nezela i-Akhawunti...">
-<!ENTITY addAccountButton.accesskey "N">
 <!ENTITY setDefaultButton.label "Hlela Njengokwakhona">
 <!ENTITY setDefaultButton.accesskey "e">
-<!ENTITY duplicateButton.label "Yenza ikhophi">
 <!ENTITY removeButton.label "Susa i-Akhawunti">
 <!ENTITY removeButton.accesskey "S">
 
-<!ENTITY nameCol.label "Igama">
-<!ENTITY duplicate.label "Yenza ikhophi">
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -24,6 +21,6 @@
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
 
+<!-- AccountManager.xhtml -->
 <!ENTITY accountManager.size "width: 55em; height: 50em;">
-<!ENTITY macAccountManager.size "width: 60em; height: 50em;">
 <!ENTITY accountTree.width "width: 17em;">

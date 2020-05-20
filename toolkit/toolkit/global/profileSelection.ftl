@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = I-{ -brand-short-name } - Khetha uhlaka lomsebenzisi
+
 profile-selection-button-accept =
     .label = Qala i-{ -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Phuma
+
 profile-selection-new-button =
     .label = Yakha uhlaka…
     .accesskey = Y
+
 profile-selection-rename-button =
     .label = Qamba kabusha uhlaka…
     .accesskey = Q
+
 profile-selection-delete-button =
     .label = Cisha uhlaka…
     .accesskey = C
@@ -21,6 +26,8 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = I-{ -brand-short-name } igcina ukwaziswa ngezinhlelo zakho, okuthandayo, nezinye izinto zomsebenzisi ohlakeni lwakho.
+
 profile-manager-work-offline =
     .label = Sebenza ngaphandle kwe-inthanethi
     .accesskey = e
+

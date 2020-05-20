@@ -2,22 +2,17 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerWindow.title "Iposi &amp; Amaqembu Ezindaba">
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
 <!ENTITY newFolderCmd.label "Ifolda...">
 <!ENTITY newFolderCmd.accesskey "I">
+
 <!ENTITY newVirtualFolderCmd.label "Okucwaningiwe Kwagcinwa...">
 <!ENTITY newVirtualFolderCmd.accesskey "O">
-<!ENTITY newAccountCmd.label "Iakhawunti...">
-<!ENTITY newAccountCmd.accesskey "I">
-<!ENTITY openMessageMenu.label "Vula">
 <!ENTITY openMessageFileCmd.label "Vula Umyalezo Ogciniwe...">
 <!ENTITY openMessageFileCmd.accesskey "V">
-<!ENTITY openAttachmentCmd.label "Amafayela Ananyathelisiwe">
-<!ENTITY openAttachmentCmd.accesskey "A">
 <!ENTITY saveAsMenu.label "Gcina Ngokuthi">
 <!ENTITY saveAsMenu.accesskey "G">
 <!ENTITY saveAsFileCmd.label "Ifayela">
@@ -25,15 +20,8 @@
 <!ENTITY saveAsFileCmd.key "s">
 <!ENTITY saveAsTemplateCmd.label "Ithemplethi">
 <!ENTITY saveAsTemplateCmd.accesskey "I">
-<!ENTITY getNewMsgCmd.label "Thola Imiyalezo Emisha">
-<!ENTITY getNewMsgCmd.accesskey "T">
-<!ENTITY getNewMsgCmd.key "t">
 <!ENTITY getNewMsgForCmd.label "Thola Imiyalezo Emisha Ye-">
 <!ENTITY getNewMsgForCmd.accesskey "m">
-<!ENTITY getAllNewMsgCmd.label "Thola Yonke Imiyalezo Emisha">
-<!ENTITY getAllNewMsgCmd.key "t">
-<!ENTITY getNextNMsgCmd.label "Thola Imiyalezo Yezindaba Engu-500 Efike Kamuva">
-<!ENTITY getNextNMsgCmd.accesskey "o">
 <!ENTITY sendUnsentCmd.label "Thumela Imiyalezo Engathunyelwanga">
 <!ENTITY sendUnsentCmd.accesskey "m">
 <!ENTITY subscribeCmd.label "Faka Ohlwini...">
@@ -42,17 +30,13 @@
 <!ENTITY renameFolder.accesskey "Q">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Ama-Folda Agxishiwe">
-<!ENTITY compactFolder.accesskey "F">
 <!ENTITY emptyTrashCmd.label "Khipha Konke Emgqonyeni Wokuzolahlwa">
 <!ENTITY emptyTrashCmd.accesskey "a">
-<!ENTITY importCmd.label "Yamukela...">
-<!ENTITY importCmd.accesskey "Y">
 <!ENTITY printCmd.label "Printa...">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.key "p">
 <!ENTITY printPreviewCmd.label "Umbono Wokuzoprintwa">
 <!ENTITY printPreviewCmd.accesskey "u">
-<!ENTITY printPreviewCmd.key "vula">
 <!ENTITY printSetupCmd.label "Ukuhlelwa Kwekhasi...">
 <!ENTITY printSetupCmd.accesskey "k">
 <!-- Edit Menu -->
@@ -61,14 +45,10 @@
 <!ENTITY deleteMsgCmd.accesskey "C">
 <!ENTITY undeleteMsgCmd.label "Ungawucimi Umyalezo">
 <!ENTITY undeleteMsgCmd.accesskey "w">
-<!ENTITY cancelNewsMsgCmd.label "Khansela Umyalezo">
-<!ENTITY cancelNewsMsgCmd.accesskey "U">
 <!ENTITY deleteMsgsCmd.label "Cima Imiyalezo Ekhethiwe">
 <!ENTITY deleteMsgsCmd.accesskey "C">
 <!ENTITY undeleteMsgsCmd.label "Ungacimi Imiyalezo Ekhethiwe">
 <!ENTITY undeleteMsgsCmd.accesskey "u">
-<!ENTITY cancelNewsMsgsCmd.label "Khansela Imiyalezo Ekhethiwe">
-<!ENTITY cancelNewsMsgsCmd.accesskey "n">
 <!ENTITY deleteFolderCmd.label "Cisha Ifolda">
 <!ENTITY deleteFolderCmd.accesskey "C">
 <!ENTITY unsubscribeNewsgroupCmd.label "Vala Ukuthunyelelwa">
@@ -82,13 +62,7 @@
 <!ENTITY selectThreadCmd.key "a">
 <!ENTITY menuFavoriteFolder.label "Favorite Folder">
 <!ENTITY menuFavoriteFolder.accesskey "a">
-<!ENTITY folderPropsCmd.label "Izici...">
-<!ENTITY folderPropsFolderCmd.label "Izici Ze-Folda...">
-<!ENTITY folderPropsNewsgroupCmd.label "Izici Zeqembu Lezindaba...">
 <!ENTITY folderPropsCmd.accesskey "c">
-<!ENTITY accountManagerCmd.label "Ukuhlelwa Kwe-akhawunti...">
-<!ENTITY accountManagerCmd.accesskey "h">
-<!ENTITY accountManagerCmdUnix.accesskey "A">
 <!ENTITY undoDeleteMsgCmd.label "Lungisa Umyalezo Wokuthi Ucime">
 <!ENTITY redoDeleteMsgCmd.label "Phinda Umyalezo Wokuthi Ucime">
 <!ENTITY undoMoveMsgCmd.label "Lungisa Umyalezo Wokuthi Ususe">
@@ -114,8 +88,6 @@
 <!ENTITY messagePaneWide.accesskey "U">
 <!ENTITY messagePaneVertical.label "Ukubukeka Ngobude">
 <!ENTITY messagePaneVertical.accesskey "U">
-<!ENTITY threadPaneWide.label "Wide List View">
-<!ENTITY threadPaneWide.accesskey "i">
 <!ENTITY showMessageCmd.label "Indawo yomyalezo">
 <!ENTITY showMessageCmd.accesskey "I">
 
@@ -151,8 +123,6 @@
 <!ENTITY sortByJunkStatusCmd.accesskey "I">
 <!ENTITY sortBySubjectCmd.label "Subject">
 <!ENTITY sortBySubjectCmd.accesskey "b">
-<!ENTITY sortBySenderCmd.label "Umthumeli">
-<!ENTITY sortBySenderCmd.accesskey "t">
 <!ENTITY sortByRecipientCmd.label "Umamukeli">
 <!ENTITY sortByRecipientCmd.accesskey "a">
 <!ENTITY sortByUnreadCmd.label "Funda">
@@ -169,21 +139,12 @@
 <!ENTITY sortUnthreaded.accesskey "n">
 <!ENTITY groupBySort.label "Kuhlelwe Ngokohlobo Lwako">
 <!ENTITY groupBySort.accesskey "K">
-<!ENTITY groupBySortCmd.key "G">
 <!ENTITY msgsMenu.label "Imiyalezo">
 <!ENTITY msgsMenu.accesskey "I">
-<!ENTITY viewAll.label "Konke">
-<!ENTITY viewUnread.label "Okungafundiwe">
-<!ENTITY viewAll.accesskey "K">
-<!ENTITY viewUnread.accesskey "O">
-<!ENTITY viewCustomView.label "Yenza Okujwayelekile...">
-<!ENTITY viewCustomView.accesskey "Y">
 <!ENTITY threads.label "Uhide">
 <!ENTITY threads.accesskey "d">
 <!ENTITY allMsgsCmd.label "Konke">
 <!ENTITY allMsgsCmd.accesskey "K">
-<!ENTITY expandOrCollapseMenu.label "Nweba/Fingqa">
-<!ENTITY expandOrCollapseMenu.accesskey "w">
 <!ENTITY expandAllThreadsCmd.label "Nweba lonke Uhide">
 <!ENTITY expandAllThreadsCmd.accesskey "N">
 <!ENTITY expandAllThreadsCmd.key "*">
@@ -198,6 +159,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "B">
 <!ENTITY ignoredThreadsCmd.label "Ayilunaki Uhide">
 <!ENTITY ignoredThreadsCmd.accesskey "a">
+
 <!ENTITY headersMenu.label "Izihloko Zaphezulu">
 <!ENTITY headersMenu.accesskey "I">
 <!ENTITY headersAllCmd.label "Konke">
@@ -212,33 +174,14 @@
 <!ENTITY bodySanitized.accesskey "I">
 <!ENTITY bodyAsPlaintext.label "Umbhalo Ovamile">
 <!ENTITY bodyAsPlaintext.accesskey "U">
+
 <!ENTITY viewAttachmentsInlineCmd.label "Veza Amafayela Ananyathelisiwe Aku-Inthaneti">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "A">
-<!ENTITY reloadCmd.label "Phinda Ulayishe">
-<!ENTITY reloadCmd.accesskey "P">
-<!ENTITY stopCmd.label "Misa">
-<!ENTITY stopCmd.accesskey "M">
-<!ENTITY textZoomEnlargeCmd.label "Yandisa">
-<!ENTITY textZoomEnlargeCmd.accesskey "Y">
-<!ENTITY textZoomEnlargeCmd.commandkey "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY textZoomEnlargeCmd.commandkey2 "=">
-<!ENTITY textZoomReduceCmd.label "Nciphisa">
-<!ENTITY textZoomReduceCmd.accesskey "N">
-<!ENTITY textZoomReduceCmd.commandkey "-">
-<!ENTITY textZoomResetCmd.commandkey "0">
-<!ENTITY textZoomResetCmd.label "Okuvamile">
-<!ENTITY textZoomResetCmd.accesskey "O">
-<!ENTITY textSize.label "Usayizi Wombhalo">
-<!ENTITY textSize.accesskey "a">
 
 <!ENTITY pageSourceCmd.label "Umthombo Womyalezo">
 <!ENTITY pageSourceCmd.accesskey "t">
 <!ENTITY pageSourceCmd.key "u">
 <!-- Search Menu -->
-
-<!ENTITY searchMenu.label "Funa">
-<!ENTITY searchMenu.accesskey "F">
 
 <!ENTITY findMenu.label "Thola">
 <!ENTITY findMenu.accesskey "T">
@@ -271,18 +214,12 @@
 <!ENTITY nextStarredMsgCmd.label "Starred Message">
 <!ENTITY nextStarredMsgCmd.accesskey "S">
 <!ENTITY nextUnreadThread.label "Uhide Olungakafundwa">
-<!ENTITY nextUnreadThreadCmd.accesskey "U">
-<!ENTITY nextUnreadThreadCmd.key "t">
 <!ENTITY prevMenu.label "Okwandulelayo">
 <!ENTITY prevMenu.accesskey "O">
 <!ENTITY prevMsgCmd.label "Umyalezo">
 <!ENTITY prevMsgCmd.accesskey "U">
-<!ENTITY previousMsgCmd.key "b">
-<!ENTITY previousMsgCmd.accesskey "M">
 <!ENTITY prevUnreadMsgCmd.label "Umyalezo Ongakafundwa">
 <!ENTITY prevUnreadMsgCmd.accesskey "U">
-<!ENTITY previousUnreadMsgCmd.key "p">
-<!ENTITY previousUnreadMsgCmd.accesskey "U">
 <!ENTITY goForwardCmd.label "Phambili">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "Back">
@@ -291,19 +228,20 @@
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY startPageCmd.label "Iposi Ikhasi Lokuqala">
 <!ENTITY startPageCmd.accesskey "I">
+
 <!ENTITY msgMenu.label "Umyalezo">
 <!ENTITY msgMenu.accesskey "U">
 <!ENTITY newMsgCmd.label "Umyalezo omusha">
 <!ENTITY newMsgCmd.accesskey "U">
 <!ENTITY newNewMsgCmd.label "Umyalezo">
 <!ENTITY newNewMsgCmd.accesskey "U">
+<!ENTITY cancelNewsMsgCmd.label "Khansela Umyalezo">
+<!ENTITY cancelNewsMsgCmd.accesskey "U">
 <!ENTITY replyMsgCmd.label "Impendulo">
 <!ENTITY replyMsgCmd.accesskey "I">
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Thumela impendulo Kumuntu Othumele Umyalezo kuphela">
 <!ENTITY replySenderCmd.accesskey "T">
-<!ENTITY replyNewsgroupCmd.label "Thumela Impendulo Eqenjini Lezindaba">
-<!ENTITY replyNewsgroupCmd.accesskey "m">
 <!ENTITY replyToAllMsgCmd.label "Thumela Impendulo Kubo Bonke">
 <!ENTITY replyToAllMsgCmd.accesskey "u">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -316,19 +254,12 @@
 <!ENTITY forwardAsInline.accesskey "K">
 <!ENTITY forwardAsAttachmentCmd.label "Okufakiwe">
 <!ENTITY forwardAsAttachmentCmd.accesskey "O">
-<!ENTITY editMsgAsNewCmd.label "Lungisa Umyalezo Njengomusha">
-<!ENTITY editMsgAsNewCmd.accesskey "L">
-<!ENTITY editMsgAsNewCmd.key "e">
 <!ENTITY createFilter.label "Yakha Isisefo Kulomyalezo...">
 <!ENTITY createFilter.accesskey "k">
-<!ENTITY moveMsgMenu.label "Susa">
-<!ENTITY moveMsgMenu.accesskey "S">
 <!ENTITY moveCopyMsgRecentMenu.label "Recent">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "R">
 <!ENTITY copyMessageLocation.label "Ikhophi Indawo Yomyalezo">
 <!ENTITY copyMessageLocation.accesskey "I">
-<!ENTITY copyMsgMenu.label "Kopisha">
-<!ENTITY copyMsgMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Move Again">
 <!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
@@ -338,10 +269,6 @@
 <!ENTITY watchThreadMenu.label "Buka Uhide">
 <!ENTITY watchThreadMenu.accesskey "B">
 <!ENTITY watchThreadMenu.key "w">
-<!ENTITY fileHereMenu.label "Faka Kule Fayela">
-<!ENTITY fileHereMenu.accesskey "F">
-<!ENTITY copyHereMenu.label "Yenza Ikhophi lapha">
-<!ENTITY copyHereMenu.accesskey "Y">
 <!ENTITY tagMenu.label "Tag">
 <!ENTITY tagMenu.accesskey "g">
 <!ENTITY tagCmd0.key "0">
@@ -358,7 +285,6 @@
 <!ENTITY markMenu.accesskey "w">
 <!ENTITY markAsReadCmd.label "Ngokuthi Kufundiwe">
 <!ENTITY markAsReadCmd.accesskey "K">
-<!ENTITY markAsReadCmd.key "m">
 <!ENTITY markAsUnreadCmd.label "Ngokuthi Akukafundwa">
 <!ENTITY markAsUnreadCmd.accesskey "A">
 <!ENTITY markThreadAsReadCmd.label "Uhide Ngokuthi Lufundiwe">
@@ -387,51 +313,32 @@
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Iwindi">
-<!ENTITY windowMenu.accesskey "I">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Amathuluzi">
 <!ENTITY tasksMenu.accesskey "A">
-<!ENTITY addons.label "Add-ons">
-<!ENTITY addons.accesskey "d">
 <!ENTITY messengerCmd.label "Iposi &amp; Amaqembu Ezindaba">
 <!ENTITY messengerCmd.accesskey "i">
-<!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Incwadi yamakheli">
 <!ENTITY addressBookCmd.accesskey "i">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY junkMailCmd.label "Izinto Zokulawula Iposi Elingenanzuzo...">
-<!ENTITY junkMailCmd.accesskey "I">
-<!ENTITY runJunkControls.label "Sebenzisa Iposi Elingenanzuzo Nezinto Zokulawula eziku-folda">
-<!ENTITY runJunkControls.accesskey "n">
-<!ENTITY deleteJunk.label "Cima Iposi Eliphawulwe ngokuthi Elingenanzuzo Ku-folda">
-<!ENTITY deleteJunk.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "n">
-<!ENTITY filtersCmd.label "Umyalezo Izisefo...">
-<!ENTITY filtersCmd.accesskey "I">
+<!ENTITY addons.label "Add-ons">
+<!ENTITY addons.accesskey "d">
 <!ENTITY filtersApply.label "Sebenzisa Izisefo Eziku-folda">
 <!ENTITY filtersApply.accesskey "S">
 <!-- Help Menu -->
 
-<!ENTITY helpMenu.label "Usizo">
-<!ENTITY helpMenu.accesskey "U">
-<!-- LOCALIZATION NOTE some localizations of Windows use "?"
-                       for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label "Usizo">
-<!ENTITY helpMenuWin.accesskey "U">
-<!ENTITY releaseCmd.label "Dedela Amanothi">
-<!ENTITY releaseCmd.accesskey "D">
-<!ENTITY hintsAndTips.label "I&brandFullName; Siza">
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY hintsAndTips.accesskey "s">
-<!ENTITY updateCmd.accesskey "o">
-<!ENTITY updateCmd.label "Bheka Okufakelwe Muva...">
-<!ENTITY aboutCmd.label "Ngokuphathelene ne-&brandFullName;">
-<!ENTITY aboutCmd.accesskey "N">
 <!-- Mail Toolbar -->
 
-<!ENTITY getMsgButton.label "Thola Iposi">
+<!ENTITY runJunkControls.label "Sebenzisa Iposi Elingenanzuzo Nezinto Zokulawula eziku-folda">
+<!ENTITY runJunkControls.accesskey "n">
+<!ENTITY deleteJunk.label "Cima Iposi Eliphawulwe ngokuthi Elingenanzuzo Ku-folda">
+<!ENTITY deleteJunk.accesskey "m">
+<!ENTITY importCmd.label "Yamukela...">
+<!ENTITY importCmd.accesskey "Y">
+
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "n">
+
 <!ENTITY newMsgButton.label "Bhala">
 <!ENTITY replyButton.label "Impendulo">
 <!ENTITY replyAllButton.label "Thumela Impendulo kubo Bonke">
@@ -439,14 +346,11 @@
 <!ENTITY fileButton.label "Ifayela">
 <!ENTITY nextButton.label "Okulandelayo">
 <!ENTITY previousButton.label "Okwandulelayo">
-<!ENTITY backButton.label "Go Back">
-<!ENTITY goForwardButton.label "Go Forward">
 <!ENTITY deleteButton.label "Cisha">
 <!ENTITY markButton.label "Phawula">
 <!ENTITY printButton.label "Printa">
 <!ENTITY stopButton.label "Misa">
 <!ENTITY throbberItem.title "Isikhomba-msebenzi">
-<!ENTITY updatesItem.title "Okufakelwe Muva">
 <!ENTITY junkButton.label "Umyalezo ongenanzuzo">
 <!ENTITY notJunkButton.label "Akulona Iposi Elingenanzuzo">
 <!ENTITY addressBookButton.label "Incwadi yamakheli">
@@ -457,8 +361,8 @@
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Ukucwaninga umyalezo okuthuthukile">
-<!ENTITY clearButton.tooltip "Qeda ukufuna bese uveza yonke imiyalezo">
 <!ENTITY getMsgButton.tooltip "Thola imiyalezo emisha">
+<!ENTITY getAllNewMsgCmd.label "Thola Yonke Imiyalezo Emisha">
 <!ENTITY newMsgButton.tooltip "Yakha umyalezo omusha">
 <!ENTITY replyButton.tooltip "Phendula umyalezo">
 <!ENTITY replyAllButton.tooltip "Thumela Impendulo kothumele umyalezo nakubo bonke abazowamukela">
@@ -482,12 +386,9 @@
 <!ENTITY addNewTag.accesskey "N">
 <!-- Folder Pane -->
 
-<!ENTITY folderColumn.label "Igama">
 <!ENTITY folderSizeColumn.label "Ubungako">
 <!-- Folder Pane Context Menu -->
 
-<!ENTITY folderContextOpenNewWindow.label "Open">
-<!ENTITY folderContextOpenNewWindow.accesskey "O">
 <!ENTITY folderContextNew.label "Ifolda Engaphansi Entsha...">
 <!ENTITY folderContextNew.accesskey "I">
 <!ENTITY folderContextRename.label "Nikeza Igama Elisha">
@@ -508,38 +409,21 @@
 <!ENTITY folderContextMarkMailFolderRead.accesskey "w">
 <!ENTITY folderContextSubscribe.label "Faka Ohlwini...">
 <!ENTITY folderContextSubscribe.accesskey "k">
-<!ENTITY folderContextSearchMessages.label "Search...">
-<!ENTITY folderContextSearchMessages.accesskey "S">
-<!ENTITY folderContextProperties.label "Izici...">
-<!ENTITY folderContextProperties.accesskey "I">
-<!ENTITY folderContextCopyLocation.label "Copy Folder Location">
-<!ENTITY folderContextCopyLocation.accesskey "L">
 <!ENTITY folderContextFavoriteFolder.label "Favorite Folder">
 <!ENTITY folderContextFavoriteFolder.accesskey "a">
 <!-- Search Bar -->
 
-<!ENTITY viewPicker.label "Bheka:">
-<!ENTITY viewPicker.accesskey "k">
-<!ENTITY viewPickerAll.label "Konke">
-<!ENTITY viewPickerUnread.label "Okungafundiwe">
-<!ENTITY viewPickerCustomView.label "Yenza Okujwayelekile...">
-<!ENTITY viewPickerSaveAsVirtualFolder.label "Gcina Umbono Njenge-Folda...">
 <!ENTITY SearchNameOrEmail.label "Igama noma Iposi liqukethe:">
 <!ENTITY SearchNameOrEmail.accesskey "I">
-<!ENTITY clearButton.label "Sula">
-<!ENTITY clearButton.accesskey "S">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Isihloko">
-<!ENTITY searchSenderMenu.label "Umthumeli">
-<!ENTITY searchSubjectOrSenderMenu.label "Isihloko noma Othumele">
 <!ENTITY searchRecipient.label "Uya noma Cc">
 <!ENTITY searchMessageBody.label "Wonke Umyalezo">
 <!ENTITY saveAsVirtualFolderMenu.label "Gcina okufuniwe ukuthi Kuyi-folda...">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Uhide">
-<!ENTITY senderColumn.label "Umthumeli">
 <!ENTITY recipientColumn.label "Umamukeli">
 <!ENTITY subjectColumn.label "Isihloko">
 <!ENTITY dateColumn.label "Usuku">
@@ -549,7 +433,6 @@
 <!ENTITY statusColumn.label "Isimo">
 <!ENTITY sizeColumn.label "Ubungako">
 <!ENTITY junkStatusColumn.label "Isimo Sokungenanzuzo">
-<!ENTITY linesColumn.label "Imigqa">
 <!ENTITY unreadColumn.label "Okungafundiwe">
 <!ENTITY totalColumn.label "Ingqikithi">
 <!ENTITY readColumn.label "Funda">
@@ -559,41 +442,16 @@
 <!ENTITY attachmentColumn.label "Amafayela Ananyathelisiwe">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser.tooltip "Chofoza ukuze ukhethe izinhlu ezizovela">
-<!ENTITY threadColumn.tooltip "Chofoza ukuze uveze uhide lwemiyalezo">
-<!ENTITY senderColumn.tooltip "Chofoza ukuze uhlele ngokwabathumeli">
-<!ENTITY recipientColumn.tooltip "Chofoza ukuze uhlele ngokwabamukeli">
-<!ENTITY subjectColumn.tooltip "Chofoza ukuze uhlele ngokwezihloko">
-<!ENTITY dateColumn.tooltip "Chofoza ukuze uhlele ngokwezinsuku">
-<!ENTITY priorityColumn.tooltip "Chofoza ukuze uhlele ngokubaluleka">
-<!ENTITY tagsColumn.tooltip "Click to sort by tags">
-<!ENTITY accountColumn.tooltip "Chofoza ukuze uhlele ngokwama-akhawunti">
-<!ENTITY statusColumn.tooltip "Chofoza ukuze uhlele ngokwesimo">
-<!ENTITY sizeColumn.tooltip "Chofoza ukuze uhlele ngosayizi">
-<!ENTITY junkStatusColumn.tooltip "Chofoza ukuze uhlele ngokwesimo sokungenanzuzo">
-<!ENTITY unreadColumn.tooltip "Inani lemiyalezo engakafundwa ohideni">
-<!ENTITY totalColumn.tooltip "Ingqikithi yemiyalezo esohideni">
-<!ENTITY readColumn.tooltip "Chofoza ukuze uhlele ngokulandelana kokuyifunda">
-<!ENTITY starredColumn.tooltip "Click to sort by star">
-<!ENTITY locationColumn.tooltip "Chofoza ukuze uhlele ngokwezindawo">
-<!ENTITY idColumn.tooltip "Chofoza ukuze uhlele ngokulandelana etholwe ngako">
-<!ENTITY attachmentColumn.tooltip "Chafaza ukuze uhlele ngokwamafayela ananyathelisiwe">
 <!-- Thread Pane Context Menu -->
 
 <!ENTITY contextOpenNewWindow.label "Vula Umyalezo Ewinindini Elisha">
 <!ENTITY contextOpenNewWindow.accesskey "E">
-<!ENTITY contextEditAsNew.label "Bhala njengokusha...">
-<!ENTITY contextEditAsNew.accesskey "B">
 <!ENTITY contextReplySender.label "Thumela impendulo Kumuntu Othumele Umyalezo kuphela">
 <!ENTITY contextReplySender.accesskey "T">
-<!ENTITY contextReplyNewsgroup.label "Thumela impendulo Eqenjini Lezindaba">
-<!ENTITY contextReplyNewsgroup.accesskey "m">
 <!ENTITY contextReplyAll.label "Thumela Impendulo Kubo bonke">
 <!ENTITY contextReplyAll.accesskey "K">
 <!ENTITY contextForward.label "Phambili">
 <!ENTITY contextForward.accesskey "P">
-<!ENTITY contextForwardAsAttachment.label "Dlulisa njengamafayela ananyathelisiwe">
-<!ENTITY contextForwardAsAttachment.accesskey "l">
 <!ENTITY contextMoveMsgMenu.label "Yisa Ku-">
 <!ENTITY contextMoveMsgMenu.accesskey "Y">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Recent">
@@ -605,46 +463,35 @@
 <!ENTITY contextPrint.label "Printa...">
 <!ENTITY contextPrint.accesskey "P">
 <!ENTITY contextPrintPreview.label "Umbono Wokuzoprintwa">
-<!ENTITY contextDelete.label "Cisha">
-<!ENTITY contextDelete.accesskey "C">
-<!ENTITY contextAddSenderToAddressBook.label "Nezeka Igama Lothumele Encwadini Yamakheli">
-<!ENTITY contextAddSenderToAddressBook.accesskey "C">
-<!ENTITY contextAddAllToAddressBook.label "Faka Kuyo Yonke Incwadi Yamakheli">
-<!ENTITY contextAddAllToAddressBook.accesskey "F">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage.label "I&brandShortName; icabanga ukuthi umyalezo awunanzuzo.">
-<!ENTITY junkBarButton.label "Awusiwo Ongenanzuzo">
-<!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
 
-<!ENTITY remoteContentMessage.label "Ukuvikela imfihlo, &brandShortName; ivimbela izithombe kulomyalezo.">
-<!ENTITY loadRemoteContentButton.label "Bonisa Izithombe">
 <!-- Phshing bar Bar -->
 
-<!ENTITY phishingBarMessage.label "I&brandShortName; icabanga ukuthi lomyalezo ungase ube owobugebengu.">
-<!ENTITY removePhishingBarButton.label "Awubona ubugebengu">
 <!-- Search Bar -->
 
+<!-- Quick Search Bar -->
 <!ENTITY quickSearchCmd.key "k">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Nezela Encwadini Yamakheli...">
 <!ENTITY AddToAddressBook.accesskey "Y">
-<!ENTITY SendMailTo.label "Yakha Iposi Li-">
-<!ENTITY SendMailTo.accesskey "k">
 <!ENTITY CopyEmailAddress.label "Kopisha Ikheli Le-imeyili">
 <!ENTITY CopyEmailAddress.accesskey "K">
-<!ENTITY CreateFilter.label "Yakha Isisefo kulomyalezo...">
-<!ENTITY CreateFilter.accesskey "I">
-<!ENTITY BlockAddress.label "Vimba Ikheli">
-<!ENTITY BlockAddress.accesskey "I">
 <!-- Statusbar -->
+
+<!ENTITY stopCmd.label "Misa">
+<!ENTITY stopCmd.accesskey "M">
+
+<!ENTITY reloadCmd.label "Phinda Ulayishe">
+<!ENTITY reloadCmd.accesskey "P">
 
 <!ENTITY statusText.label "Kwenziwe">
 <!--  Mac OS X Window Menu -->
 
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Nciphisa">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Kulethe Konke Phambili">
 <!ENTITY zoomWindow.label "Sondeza">
+

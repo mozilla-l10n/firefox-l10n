@@ -7,11 +7,13 @@ copy =
 menu-copy =
     .label = Kopisha
     .accesskey = K
+
 select-all =
     .key = A
 menu-select-all =
     .label = Khetha Konke
     .accesskey = K
+
 general-tab =
     .label = Okuvamile
     .accesskey = G
@@ -31,6 +33,7 @@ general-meta-name =
     .label = Igama
 general-meta-content =
     .label = Okuqukethwe
+
 media-tab =
     .label = Umthombo Wezindaba
     .accesskey = M
@@ -60,11 +63,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = Indlela Umthombo Wezindaba Obukeka Ngayo:
+
 perm-tab =
     .label = Izimvume
     .accesskey = P
 permissions-for =
     .value = Izimvume ze:
+
 security-tab =
     .label = Ukulondeka
     .accesskey = S
@@ -81,13 +86,17 @@ security-view-identity-domain =
     .value = Iwebhusayithi:
 security-view-identity-verifier =
     .value = Iqinisekiswe ngu:
+
 security-view-privacy-history-value = Ingabe ngiyivakashele le webhusayithi ngaphambi kwanamuhla?
+
 security-view-privacy-passwords-value = Ingabe kukhona amaphasiwedi engiwagcinile wale sayithi?
+
 security-view-privacy-viewpasswords =
     .label = Bheka amagama okungena agciniwe
     .accesskey = w
 security-view-technical =
     .value = Imininingwane yemisebenzi esizayo
+
 help-button =
     .label = Usizo
 
@@ -116,6 +125,7 @@ media-video = Ividiyo
 media-audio = Umsindo
 saved-passwords-yes = Yebo
 saved-passwords-no = Cha
+
 no-page-title =
     .value = Ikhasi elingenasihloko:
 general-quirks-mode =
@@ -131,12 +141,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = Sebenzisa okwakhona
 security-no-visits = Cha
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = Isithombe esingu-{ $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -146,17 +158,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (kubalelwa ku-{ $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = I-{ $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -164,6 +179,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = Izithombe ezinkulu ezivela { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Hlela Ikhasi Lasekhaya
     .style = width: 32em;
+
 select-bookmark-desc = Khetha uphawu lokubekisa ukuba kube iKhasi Lasekhaya. Uma ukhetha i-folda, Izimpawu Zokubekisa kuleyo-folder ziyovulwa ngama-Tabs.

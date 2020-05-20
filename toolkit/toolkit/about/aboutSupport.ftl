@@ -4,6 +4,7 @@
 
 page-title = Imininingwane yokuxazululwa kwezinkinga
 page-subtitle = Leli khasi liqukethe ulwazi olunzima olungahle lukusize umauzama ukuxazulula inkinga. Uma ufuna izimpendulo zemibuzo ejwayelekile mayelana ne-{ -brand-short-name }, hlola i-<a data-l10n-name="support-link">support web site</a>.
+
 extensions-title = Izithasiselo
 extensions-name = Igama
 extensions-enabled = Kwenziwe kwasebenza
@@ -36,6 +37,22 @@ a11y-force-disabled = Vimbela Ukufinyeleleka
 library-version-title = Izinguqulo zelabhulali
 copy-text-to-clipboard-label = Kopishela umbhalo ku-clipboard
 copy-raw-data-to-clipboard-label = Kopisha ulwazi olungakasetshenziswa kwi-clipboard
+
+## Media titles
+
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 raw-data-copied = Ulwazi olungakasetsheziswa lukopishiwe ku-clipboard
 text-copied = Umbhalo ukopishiwe ku-clipboard
 
@@ -47,6 +64,7 @@ blocked-os-version = Kuvinjwe enguqukweni yohlelo lwakho lokusebenza.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Kuvinjwe kumqhubi wakho wenguqulo. Zama ukuvuselela umqhubi wenguqulo wakho kwinguqulo { $driverVersion } noma esha.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Izinhlaka ze-ClearType
@@ -59,8 +77,10 @@ gpu-vendor-id = Ubunikazi bomthengisi
 gpu-device-id = Ubunikazi besisetshenziswa
 gpu-driver-version = Inguqulo yesihambisi
 gpu-driver-date = Usuku lwesihambisi
+
 min-lib-versions = Inguqulo encane elindelekile
 loaded-lib-versions = Inguqulo iyasebenza
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

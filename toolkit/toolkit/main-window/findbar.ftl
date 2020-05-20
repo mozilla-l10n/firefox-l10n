@@ -9,3 +9,4 @@ findbar-next =
     .tooltiptext = Thola enye indawo okuvela kuyo lomshwana
 findbar-previous =
     .tooltiptext = Thola indawo eyandulelayo okuvela kuyo lomshwana
+

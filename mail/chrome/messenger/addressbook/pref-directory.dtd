@@ -4,14 +4,11 @@
 <!-- LOCALIZATION NOTE (window.title) : do not translate "LDAP" in below line -->
 
 <!ENTITY pref.ldap.window.title "LDAP Amaseva Ohlu Lwamkheli">
-<!ENTITY directory.label "Nezela Uhlu Lwamakheli">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
 <!ENTITY directories.label "LDAP Iseva Yohlu Lwamakheli:">
 <!-- LOCALIZATION NOTE (directoriesText.label) : do not translate "LDAP" in below line -->
 <!ENTITY directoriesText.label "Khetha Iseva Yohlu Lwamakheli Ye-LDAP:">
 <!ENTITY directoriesText.accesskey "K">
-<!-- LOCALIZATION NOTE (autocomplete.title) : do not translate "LDAP" in below line -->
-<!ENTITY autocomplete.title "LDAP Iseva Yohlu Lwamakheli">
 <!ENTITY addDirectory.label "Nezela">
 <!ENTITY addDirectory.accesskey "n">
 <!ENTITY editDirectory.label "Lungisa">

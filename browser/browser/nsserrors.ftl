@@ -7,6 +7,7 @@ psmerr-hostreusedissuerandserial =
     Uthole isitifiketi okungesona.  Sicela uthinte umqondisi weseva noma osebenza nge-imeyili umnikeze loku kwaziswa okulandelayo:
     
     Isitifiketi sakho sinenombolo efana neyesinye isitifiketi esikhishwa yigunya lesitifiketi.  Sicela uthole esinye isitifiketi esinenombolo yaso entsha.
+
 sec-error-crl-invalid = I-CRL entsha inesakhiwo esingasebenzi.
 sec-error-old-crl = I-CRL indala kunekhona manje.
 sec-error-krl-invalid = I-CRL entsha inesakhiwo esingasebenzi.

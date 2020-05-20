@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Mayelana nama-plugins
+
 installed-plugins-label = Ama-plugin afakiwe
 no-plugins-are-installed-label = Awekho ama-plugins anikwe amandla atholakalayo
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwasebenza
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwasebenza ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwangasebenza
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Izwe:</span> Kwenziwe kwangasebenza ({ $blockListState })
+
 mime-type-label = Uhlobo lwe-MIME
 description-label = Incazelo
 suffixes-label = Izijobelelo

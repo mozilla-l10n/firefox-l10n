@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Umbala">
 <!ENTITY lastPickedColor.label "Umbala ogcine ukuthathwa">
 <!ENTITY lastPickedColor.accessKey "U">
-<!ENTITY setColor1.label "Chofoza umbala noma">
-<!ENTITY setColor2.label "faka intanjana yombala ye-HTML">
-<!ENTITY setColor2.accessKey "H">
 <!ENTITY setColorExample.label "(isib.: &quot;#0000ff&quot; noma &quot;oluhlaza&quot;):">
 <!ENTITY default.label "Okwakhona">
 <!ENTITY default.accessKey "O">

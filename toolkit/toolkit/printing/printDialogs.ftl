@@ -94,6 +94,7 @@ print-window =
     .title = Iyanyathelisa
 print-complete =
     .value = Ukunyathelisa Kuphelile.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

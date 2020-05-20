@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Vula efasiteleni elisha
     .accesskey = e
+
 places-new-bookmark =
     .label = Uphawu lokubekisa olusha…
     .accesskey = l
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Isehlukanisi esisha
     .accesskey = h
+
 places-view =
     .label = Bheka
     .accesskey = k
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ngosuku nangesayithi
     .accesskey = s
+
 places-delete-domain-data =
     .label = Khohlwa ngaleli sayithi
     .accesskey = n
