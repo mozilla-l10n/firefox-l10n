@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "о">
 <!ENTITY DictionaryList.label "Сөздіктегі сөздер:">
 <!ENTITY DictionaryList.accessKey "д">
-<!ENTITY ReplaceButton.label "Алмастыру">
-<!ENTITY ReplaceButton.accessKey "А">
 <!ENTITY RemoveButton.label "Өшіру">
 <!ENTITY RemoveButton.accessKey "ш">
 

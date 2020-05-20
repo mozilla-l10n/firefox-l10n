@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Осыны қабылдаймын!
 config-about-warning-checkbox =
     .label = Осы ескертуді келесі ретте көрсету
+
 config-search-prefs =
     .value = Іздеу:
     .accesskey = з
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Көшіріп алу
     .accesskey = К
+
 config-copy-name =
     .label = Атын көшіріп алу
     .accesskey = А
+
 config-copy-value =
     .label = Мәнін көшіріп алу
     .accesskey = М
+
 config-modify =
     .label = Өзгерту
     .accesskey = з
+
 config-toggle =
     .label = Ауыстыру
     .accesskey = А
+
 config-reset =
     .label = Тастау
     .accesskey = с
+
 config-new =
     .label = Жаңа
     .accesskey = а
+
 config-string =
     .label = Жол
     .accesskey = о
+
 config-integer =
     .label = Бүтін
     .accesskey = Б
+
 config-boolean =
     .label = Логикалық
     .accesskey = Л
+
 config-default = бастапқысы
 config-modified = өзгертілген
 config-locked = оқшауланды
+
 config-property-string = жол
 config-property-int = бүтін сан
 config-property-bool = логикалық
+
 config-new-prompt = Баптаманың атын енгізіңіз
+
 config-nan-title = Қате мәні
 config-nan-text = Сіз енгізген мәтін сан емес.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Жаңа мәні ({ $type })
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = ({ $type }) мәнін енгізіңіз

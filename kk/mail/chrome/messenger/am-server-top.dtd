@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "ш">
 <!ENTITY downloadOnBiff.label "Жаңа хабарламаларды автожүктеп алу">
 <!ENTITY downloadOnBiff.accesskey "ж">
-<!ENTITY username.label "Сіздің логин атыңыз">
 <!ENTITY deleteMessagePrefix.label "Мен хабарламаны өшірген кезде:">
 <!ENTITY modelMoveToTrash.label "Оны бұл бумаға жылжыту:">
 <!ENTITY modelMoveToTrash.accesskey "ы">

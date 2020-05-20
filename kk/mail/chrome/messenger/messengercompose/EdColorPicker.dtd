@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Түс">
 <!ENTITY lastPickedColor.label "Соңғы таңдалған түс">
 <!ENTITY lastPickedColor.accessKey "о">
-<!ENTITY setColor1.label "Түс үстіне шертіңіз немесе">
-<!ENTITY setColor2.label "HTML түс жолын енгізіңіз">
-<!ENTITY setColor2.accessKey "т">
 <!ENTITY chooseColor1.label "Түсті таңдаңыз:">
 <!ENTITY chooseColor2.label "HTML түс жолын енгізіңіз">
 <!ENTITY chooseColor2.accessKey "т">

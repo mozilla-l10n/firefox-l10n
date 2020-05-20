@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Міндетті (барлық алушыларда сертификаттар болған кезде ғана жіберуге болады)">
 <!ENTITY alwaysEncryptMessage.accesskey "д">
 <!ENTITY encryptionCert.message "Бұл сертификатты шифрлеу және сізге жіберілген хабарламаларды дешифрлеу үшін қолдану:">
+
 <!ENTITY digitalSign.certificate.button "Таңдау…">
 <!ENTITY digitalSign.certificate.accesskey "с">
 <!ENTITY digitalSign.certificate_clear.button "Тазарту">
@@ -35,3 +36,4 @@
 <!ENTITY certPicker.title "Сертификатты таңдау">
 <!ENTITY certPicker.info  "Сертификат:">
 <!ENTITY certPicker.detailsLabel "Таңдалған сертификат ақпараты:">
+

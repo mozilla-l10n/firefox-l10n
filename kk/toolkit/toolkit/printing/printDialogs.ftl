@@ -103,6 +103,7 @@ print-window =
     .title = Баспаға шығару
 print-complete =
     .value = Баспаға шығару аяқталды
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

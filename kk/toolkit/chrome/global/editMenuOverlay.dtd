@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Барлығын ерекшелеу">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "Б">
+
 <!ENTITY findCmd.label             "Іздеу">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "з">

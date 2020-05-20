@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Сізден жаңа Сертификаттау Орталығына (CA) сену сұранды.">
 <!ENTITY downloadCert.trustSSL "Веб-сайттарды идентификациялауда осы CA сену.">
 <!ENTITY downloadCert.trustEmail "Электронды пошта пайдаланушыларын идентификациялауда осы CA сену.">
-<!ENTITY downloadCert.trustObjSign "Бағдарламалар әзірлеушілерді идентификациялауда бұл CA сену.">
 <!ENTITY downloadCert.message3 "Осы сертификаттау орталығына (CA) әр мақсаттарға сену алдында, оның сертификатын тексеруіңіз керек (мүмкін болса).">
 <!ENTITY downloadCert.viewCert.label "Қарап шығу">
 <!ENTITY downloadCert.viewCert.text "CA сертификатын тексеру">

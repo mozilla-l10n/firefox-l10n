@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Жартылай жаңартуды іске асыру мүмкін емес. &brandShortName; қазір толық жаңартуды жүктеп алады.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; қолжетерлік жаңартудың бар-жоғын тексере алмады. Сіз &brandShortName; соңғы нұсқасын қолданатынын осында тексеріңіз:">
-
+                                           
 <!ENTITY  finishedPage.title              "Жаңарту орнатуға дайын">
 <!ENTITY  finishedPage.text               "Осы жаңарту &brandShortName; келесі рет қосылғанда орнатылады. Сіз &brandShortName;  қазір, немесе жұмысыңызды жалғастырып, кейін қайта қоса аласыз.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Осы жаңарту &brandShortName; келесі рет қосылғанда орнатылады. Сіз &brandShortName; қазір, немесе жұмысыңызды жалғастырып, кейін қайта қоса аласыз.">
 <!ENTITY  finishedBackground.moreElevated "Бұл жаңарту әкімшілік құқықтарды талап етеді. Бұл жаңарту &brandShortName; келесі рет іске қосылған кезде орнатылатын болады. Сіз &brandShortName; қазір қайта қосуды, қайта қосуды кейінге қалдырып, жұмысты жалғастыруды немесе бұл жаңартудан бас тартуды қалай аласыз.">
 
-<!ENTITY  update.details.label            "Көбірек білу">
-<!ENTITY  update.installedOn.label        "Орнатылған:">
-<!ENTITY  update.status.label             "Күйі:">

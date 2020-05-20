@@ -4,6 +4,7 @@
 
 page-title = Мәселелерді шешу ақпараты
 page-subtitle = Бұл парақта мәселелерді шешуде пайдалы бола алатын техникалық ақпарат бар. Егер сіз { -brand-short-name } туралы жалпы сұрақтарға жауапты іздесеңіз, біздің <a data-l10n-name="support-link">қолдау көрсету</a> сайтын шолыңыз.
+
 crashes-title = Құлау туралы хабарлар
 crashes-id = Хабарлама ID
 crashes-send-date = Жіберілген
@@ -122,6 +123,7 @@ audio-backend = Аудио файлдарын ойнату бағдарлама�
 max-audio-channels = Макс. арналар
 channel-layout = Таңдамалы арналар жаймасы
 sample-rate = Таңдамалы кадрлар жиілігі
+
 media-title = Мультимедиа
 media-output-devices-title = Шығыс құрылғылары
 media-input-devices-title = Енгізу құрылғылары
@@ -172,6 +174,7 @@ report-crash-for-days =
         [one] Соңғы { $days } күн үшін құлау хабарламалары
        *[other] Соңғы { $days } күн үшін құлау хабарламалары
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -179,6 +182,7 @@ crashes-time-minutes =
         [one] { $minutes } минут бұрын
        *[other] { $minutes } минут бұрын
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -186,6 +190,7 @@ crashes-time-hours =
         [one] { $hours } сағат бұрын
        *[other] { $hours } сағат бұрын
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -193,6 +198,7 @@ crashes-time-days =
         [one] { $days } күн бұрын
        *[other] { $days } күн бұрын
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -200,6 +206,7 @@ pending-reports =
         [one] Барлық құлау хабарламалары (соның ішінде берілген уақыт аралығындағы әлі жіберілмеген { $reports } құлау)
        *[other] Барлық құлау хабарламалары (соның ішінде берілген уақыт аралығындағы әлі жіберілмеген { $reports } құлау)
     }
+
 raw-data-copied = Өнделмеген мәліметтерді алмасу буферіне көшірілген
 text-copied = Мәтінді алмасу буферіне көшірілген
 
@@ -212,9 +219,11 @@ blocked-mismatched-version = Графикалық драйверіңіздің �
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Графикалық драйверіңіз нұсқасымен блокталған. Драйверіңізді { $driverVersion } не жаңалау нұсқасына дейін жаңартыңыз.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = ClearType баптаулары
+
 compositing = Композитинг
 hardware-h264 = Құрылғылық H264 декодтау
 main-thread-no-omtc = басты ағын, OMTC жоқ
@@ -229,6 +238,7 @@ virtual-monitor-disp = Виртуалды монитор экраны
 
 found = Табылған
 missing = Жоқ
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Сипаттамасы
@@ -252,18 +262,23 @@ webgl2-version = WebGL 2 драйвер нұсқасы
 webgl2-driver-extensions = WebGL 2 драйвер кеңейтулері
 webgl2-extensions = WebGL 2 кеңейтулері
 blocklisted-bug = Белгілі осалдылықтар салдарынан блоктізімде
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = ақаулық { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Блоктізіміде; қателік коды { $failureCode }
+
 d3d11layers-crash-guard = D3D11 араластырушысы
 d3d11video-crash-guard = D3D11 видео декодері
 d3d9video-crash-buard = D3D9 видео декодері
 d3d9video-crash-guard = D3D9 видео декодері
 glcontext-crash-guard = OpenGL
+
 wmfvpxvideo-crash-guard = WMF VPX видео декодері
+
 reset-on-next-restart = Келесі іске қосылған кезде тастау
 gpu-process-kill-button = GPU процесін тоқтату
 gpu-device-reset = Құрылғыны қалпына келтіру
@@ -273,8 +288,10 @@ content-uses-tiling = Тайлинг қолданады (мазмұны)
 off-main-thread-paint-enabled = Басты емес ағында элементтерді суреттеу іске қосылған
 off-main-thread-paint-worker-count = Негізгі ағыннан тыс салатын воркер саны
 target-frame-rate = Кадр/сек мақсат көрсеткіші
+
 min-lib-versions = Күтілген минималды нұсқасы
 loaded-lib-versions = Қолданыстағы нұсқасы
+
 has-seccomp-bpf = Seccomp-BPF (Жүйелік шақыруларды сүзгілеу)
 has-seccomp-tsync = Seccomp ағынының синхрондалуы
 has-user-namespaces = Пайдаланушының аттар кеңістіктері
@@ -287,10 +304,12 @@ sandbox-proc-type-content = құрамасы
 sandbox-proc-type-file = файл құрамасы
 sandbox-proc-type-media-plugin = медиа плагині
 sandbox-proc-type-data-decoder = деректер декодері
+
 launcher-process-status-0 = Іске қосулы
 launcher-process-status-1 = Ақаулығы салдарынан сөндірілген
 launcher-process-status-2 = Мәжбүрлі сөндірілген
 launcher-process-status-unknown = Қалып-күйі белгісіз
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -303,6 +322,7 @@ multi-process-status-6 = Қолдауы жоқ мәтіндік енгізу с�
 multi-process-status-7 = Қосымшалармен сөндірілген
 multi-process-status-8 = Мәжбүрлі түрде сөндірілген
 multi-process-status-unknown = Қалып-күйі белгісіз
+
 async-pan-zoom = Асинхронды панорамдау/масштабтау
 apz-none = ешнәрсе
 wheel-enabled = тышқан дөңгелегімен енгізу іске қосылған

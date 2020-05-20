@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Оны Google Play ішінен алыңыз
 login-app-promo-apple =
     .alt = App Store ішінен жүктеп алыңыз
+
 login-filter =
     .placeholder = Логиндерден іздеу
+
 create-login-button = Жаңа торапты жасау
+
 fxaccounts-sign-in-text = Парольдеріңізді басқа құрылғыларыңызды алыңыз
 fxaccounts-sign-in-button = { -sync-brand-short-name } ішіне кіріңіз
 fxaccounts-avatar-button =
@@ -46,7 +49,6 @@ login-list-count =
 login-list-sort-label-text = Бойынша сұрыптау:
 login-list-name-option = Аты (A-Z)
 login-list-name-reverse-option = Аты (A-Z)
-login-list-breached-option = Бұзылған веб-сайттар
 about-logins-login-list-alerts-option = Ескертулер
 login-list-last-changed-option = Соңғы рет өзгертілген
 login-list-last-used-option = Соңғы қолданылған
@@ -107,16 +109,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Сақталған логинді түзету үшін өзіңізді растаңыз.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = сақталған логинді түзету
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Сақталған парольді қарау үшін өзіңізді растаңыз.
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = сақталған парольді қарау
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Сақталған парольді көшіру үшін өзіңізді растаңыз.
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = сақталған парольді көшіру
@@ -151,9 +158,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Бас тарту
 confirmation-dialog-dismiss-button =
     .title = Бас тарту
+
 about-logins-confirm-remove-dialog-title = Бұл логинді өшіру керек пе?
 confirm-delete-dialog-message = Бұл әрекетті болдырмау мүмкін емес болады.
 about-logins-confirm-remove-dialog-confirm-button = Өшіру
+
 confirm-discard-changes-dialog-title = Сақталмаған өзгерістерді тайдыру керек пе?
 confirm-discard-changes-dialog-message = Барлық сақталмаған өзгерістер жоғалады.
 confirm-discard-changes-dialog-confirm-button = Тайдыру
@@ -162,9 +171,6 @@ confirm-discard-changes-dialog-confirm-button = Тайдыру
 
 about-logins-breach-alert-title = Веб-сайттың бұзылуы
 breach-alert-text = Логин ақпаратыңызды соңғы рет жаңартқаннан кейін бұл веб-сайттан парольдер алынған немесе ұрланған болатын. Тіркелгіңізді қорғау үшін, пароліңізді ауыстырыңыз.
-breach-alert-link = Бұл бұзушылық туралы көбірек біліңіз.
-breach-alert-dismiss =
-    .title = Бұл ескертуді жабу
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-breach-alert-link = { $hostname } адресіне өту
@@ -185,5 +191,6 @@ about-logins-vulnerable-alert-learn-more-link = Көбірек білу
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Осы пайдаланушы атын қолданатын { $loginTitle } жазбасы бар болып тұр. <a data-l10n-name="duplicate-link">Бар болып тұрған жазбаға өту</a> керек пе?
+
 # This is a generic error message.
 about-logins-error-message-default = Бұл парольді сақтау кезінде қате орын алды.

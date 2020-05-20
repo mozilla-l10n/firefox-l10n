@@ -76,6 +76,7 @@ certificate-viewer-authority-info-aia = Сертификаттау орталы�
 certificate-viewer-certificate-policies = Сертификат саясаттары
 certificate-viewer-embedded-scts = Ендірілген SCT
 certificate-viewer-crl-endpoints = Қайта шақыру тізімдерін тарату нүктелері (CRL)
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Жүктеп алу
@@ -95,3 +96,6 @@ certificate-viewer-download-pem = PEM (сертификат)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (сертификаттар тізбегі)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+

@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "Т">
 <!ENTITY exitFullScreenCmd.label "Толық экраннан шығу">
 <!ENTITY exitFullScreenCmd.accesskey "Т">
+
 <!ENTITY fullScreenCmd.label "Толық экран режимі">
 <!ENTITY fullScreenCmd.accesskey "Т">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Тіркелгіні растау">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Бүктеу">
 <!ENTITY fullScreenRestore.tooltip "Қалпына келтіру">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Тіркелгі баптаулары">
 <!ENTITY fxa.menu.manageAccount2.label "Тіркелгіні басқару">
 <!ENTITY fxa.menu.signOut.label "Шығу…">
-<!ENTITY fxa.menu.deviceSettings.label "Құрылғы баптаулары">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; баптау…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "т">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Енгізілген адреске өту">
+
 <!ENTITY printButton.label            "Баспаға шығару">
 <!ENTITY printButton.tooltip          "Ағымдағы бетті баспаға шығару">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Тарихты көрсету">
+
 
 <!ENTITY searchItem.title             "Іздеу">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "к">
 <!ENTITY manageUserContext.label          "Контейнерлерді басқару">
 <!ENTITY manageUserContext.accesskey      "о">
+
 <!ENTITY newNavigatorCmd.label        "Жаңа терезе">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "т">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Көбірек">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Іздеу немесе адрес">
 <!ENTITY urlbar.accesskey             "з">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "л">
 <!ENTITY bookmarkThisFrameCmd.label      "Осы фреймді бетбелгілерге қосу">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "г">
+
 <!ENTITY pageAction.copyLink.label    "Сілтемені көшіріп алу">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pocket-ке сақтау">
+
 <!ENTITY saveToPocketCmd.label        "Бетті Pocket-ке сақтау">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Сілтемені Pocket-ке сақтау">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
 <!ENTITY identity.connectionNotSecure "Байланыс қауіпсіз емес">
 
-<!ENTITY identity.connectionSecure3 "Қауіпсіз байланыс">
-<!ENTITY identity.connectionNotSecure2 "Байланыс қауіпсіз емес">
-<!ENTITY identity.connectionNotSecureSecurityView "Бұл сайтқа қауіпсіз түрде байланысқан емессіз.">
 <!ENTITY identity.connectionFile "Бұл парақ сіздің компьютеріңізде сақталған.">
 <!ENTITY identity.connectionVerified2 "Бұл сайтқа қауіпсіз түрде байланысты орнаттыңыз, сайт иесі:">
-<!ENTITY identity.connectionVerified3 "Бұл сайтқа қауіпсіз түрде байланысқансыз.">
 <!ENTITY identity.connectionInternal "Бұл - қауіпсіз &brandShortName; беті.">
 <!ENTITY identity.extensionPage "Бұл парақ кеңейтуден жүктелген.">
 <!ENTITY identity.insecureLoginForms2 "Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.">
 <!ENTITY identity.customRoot "Байланысты растайтын сертификат шығарушысы Mozilla-ға бейтаныс.">
-
-<!ENTITY identity.evOwnerLabel2 "Сертификат кімге шығарылған:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; бұл парақтың кейбір қауіпсіз емес бөліктерін блоктаған.">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Рұқсаттар">
 
-<!ENTITY identity.permissions3 "Рұқсаттар">
 <!ENTITY identity.permissionsEmpty "Бұл сайтқа арнайы рұқсаттарды берген жоқсыз.">
 <!ENTITY identity.permissionsReloadHint "Өзгерістер іске асуы үшін бұл парақты қайта жүктеуіңіз керек болуы мүмкін.">
 <!ENTITY identity.permissionsPreferences.tooltip "Рұқсаттар баптауларын ашу">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "30em">
+
 
 <!ENTITY uiTour.infoPanel.close "Жабу">
 

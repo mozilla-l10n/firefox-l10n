@@ -54,6 +54,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "у">
 
 <!ENTITY projectButton_label "Қолданбаны ашу">
+
 <!ENTITY runtimeButton_label "Орындалу ортасын таңдау">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -77,7 +78,6 @@
 <!ENTITY runtimePanel_usb "USB құрылғылары">
 <!ENTITY runtimePanel_wifi "Wi-Fi құрылғылары">
 <!ENTITY runtimePanel_other "Басқа">
-<!ENTITY runtimePanel_noadbhelper "ADB көмекшісін орнату">
 <!ENTITY runtimePanel_nousbdevice "Құрылғыңыз көрінбей ме?">
 <!ENTITY runtimePanel_refreshDevices_label "Құрылғыларды жаңарту">
 
@@ -120,12 +120,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Орындалу ортасы ақпараты">
-<!ENTITY runtimedetails_adbIsRoot "ADB root болып тұр: ">
-<!ENTITY runtimedetails_summonADBRoot "root құрылғысы">
-<!ENTITY runtimedetails_ADBRootWarning "(блоктаудан босатылған жүктеушіні талап етеді)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Шектелмеген DevTools привилегиялары: ">
-<!ENTITY runtimedetails_requestPrivileges "жоғарылау привилегияларын сұрау">
-<!ENTITY runtimedetails_privilegesWarning "(Құрылғыны қайта іске қосады. Root рұқсаттарын талап етеді.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Логикалық">
