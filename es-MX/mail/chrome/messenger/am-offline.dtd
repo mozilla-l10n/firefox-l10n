@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Para salvar espacio en disco, no descargues:">
 <!ENTITY doNotDownloadNntp.label "Para salvar espacio en disco, no descargues para su uso sin conexión:">
 <!ENTITY doNotDownloadImap.label "Para salvar espacio en disco, descargar mensajes del servidor y mantener copias locales para usar sin conexión puede ser restringido por antigüedad o tamaño.">
-<!ENTITY allFoldersOffline.label "Mantener mensajes para esta cuenta en esta computadora">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "Mantener mensajes en todas las carpetas para esta cuenta en esta computadora">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Nota: Cambiar esto afecta a todas las carpetas para esta cuenta. Para establecer carpetas individuales, usa el botón de Avanzado…">

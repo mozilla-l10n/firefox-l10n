@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "r">
 <!ENTITY makeUrlRelative.tooltip "Cambiar entre URL relativa y absoluta. Para cambiar esto primero debes guardar la página.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Ingresa una ubicación de página web, un archivo local o elige un delimitador o encabezado de la lista emergente:">
-<!ENTITY LinkURLEditField.accessKey "w">
 <!ENTITY LinkURLEditField2.label "Ingresar la ubicación de la página web, un archivo local, o selecciona un Ancla con nombre o Encabezado desde el campo de menú de contexto:">
 <!ENTITY LinkURLEditField2.accessKey "w">
