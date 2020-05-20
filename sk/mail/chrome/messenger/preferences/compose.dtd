@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "Správy vo formáte HTML">
 <!ENTITY font.label                           "Písmo:">
 <!ENTITY font.accesskey                       "P">
-<!ENTITY size.label                           "Veľkosť:">
-<!ENTITY size.accesskey                       "e">
 <!ENTITY fontSize.label                       "Veľkosť:">
 <!ENTITY fontSize.accesskey                   "s">
 <!ENTITY useReaderDefaults.label              "Použiť predvolené farby">

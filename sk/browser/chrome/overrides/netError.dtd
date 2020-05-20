@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Nedá sa pripojiť">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Táto adresa je zakázaná">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Server sa nenašiel">
@@ -33,6 +35,7 @@
 ">
 
 <!ENTITY fileNotFound.title "Súbor sa nenašiel">
+
 <!ENTITY fileNotFound.longDesc "
 <ul>
   <li>Skontrolujte názov súboru, napríklad malé a veľké písmená alebo iné preklepy.</li>
@@ -41,6 +44,7 @@
 ">
 
 <!ENTITY fileAccessDenied.title "Prístup k súboru bol zamietnutý">
+
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Mohol byť odstránený, premiestnený alebo vám v prístupe bránia jeho povolenia.</li>
@@ -48,6 +52,7 @@
 ">
 
 <!ENTITY generic.title "Problém.">
+
 <!ENTITY generic.longDesc "
 <p>&brandShortName; nedokáže z nejakého dôvodu načítať stránku.</p>
 ">
@@ -64,12 +69,15 @@
 <!ENTITY malformedURI.title1 "Hmm, táto adresa nevyzerá v poriadku.">
 
 <!ENTITY netInterrupt.title "Pripojenie bolo prerušené">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Platnosť dokumentu vypršala">
+
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument sa nenachádza vo vyrovnávacej pamäti prehliadača &brandShortName;.</p><ul><li>Z bezpečnostných dôvodov &brandShortName; automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
+
 <!ENTITY netOffline.longDesc2 "
 <ul>
   <li>Ak chcete prejsť do režimu online a opätovne načítať obsah stránky, kliknite na tlačidlo &quot;Skúsiť znova&quot;.</li>
@@ -77,6 +85,7 @@
 ">
 
 <!ENTITY contentEncodingError.title "Chyba kódovania obsahu">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.</li>
@@ -84,6 +93,7 @@
 ">
 
 <!ENTITY unsafeContentType.title "Nebezpečný typ obsahu">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Obráťte sa na vlastníkov stránky a informujte ich o tomto probléme.</li>
@@ -91,12 +101,15 @@
 ">
 
 <!ENTITY netReset.title "Výpadok pripojenia">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Čas pripojenia vypršal">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adresa nebola rozpoznaná">
+
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Na otvorenie tejto adresy možno bude potrebné nainštalovať ďalší softvér.</li>
@@ -104,6 +117,7 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "Server proxy odmieta pripojenia">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Skontrolujte nastavenia proxy servera.</li>
@@ -112,6 +126,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Server proxy nemožno nájsť">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Skontrolujte, či je nastavenie servera proxy správne.</li>
@@ -121,6 +136,7 @@
 ">
 
 <!ENTITY redirectLoop.title "Stránku sa nepodarilo správne presmerovať">
+
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Tento problém môže nastať pri nepovolení, resp. odmietnutí cookies.</li>
@@ -128,6 +144,7 @@
 ">
 
 <!ENTITY unknownSocketType.title "Neočakávaná odpoveď servera">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Uistite sa, či je v systéme nainštalovaný Správca súkromných kľúčov (PSM).</li>
@@ -136,6 +153,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Zabezpečené pripojenie zlyhalo">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Stránku nemožno zobraziť, pretože pravosť prijímaných údajov sa nedá overiť.</li>
@@ -145,6 +163,7 @@
 
 <!ENTITY certerror.longpagetitle2 "Varovanie: možné bezpečnostné riziko">
 <!ENTITY certerror.sts.longpagetitle  "Nepripojené: možné bezpečnostné riziko">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -180,12 +199,13 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Blokované kvôli zásadám ochrany obsahu">
+
 <!ENTITY cspBlocked.longDesc "<p>Prehliadač &brandShortName; nepovolil načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady ochrany obsahu, ktoré takéto načítanie neumožňujú.</p>">
 
-<!ENTITY xfoBlocked.title "Blokované prostredníctvom X-Frame-Options">
+<!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
+
 <!ENTITY xfoBlocked.longDesc "<p>Aplikácia &brandShortName; nepovolila načítanie stránky týmto spôsobom, pretože stránka obsahuje zásady X-Frame-Options, ktoré takéto načítanie neumožňujú.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Poškodený obsah stránky">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Požadovanú stránku nemožno zobraziť, pretože pri prenose údajov došlo k chybe.</p><ul><li>Kontaktujte prosím vlastníkov webovej stránky a informujte ich o tomto probléme.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Rozumiem riziku a chcem pokračovať">
@@ -194,9 +214,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Ďalšie informácie…">
 
 <!ENTITY remoteXUL.title "Vzdialené XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontaktujte správcu webovej stránky a informujte ho o tomto probléme.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Nie je možné sa pripojiť zabezpečene">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšírené informácie: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -207,6 +229,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Kopírovať text do schránky">
 
 <!ENTITY inadequateSecurityError.title "Vaše pripojenie nie je zabezpečené">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> využíva technológiu zabezpečenia, ktorá je zastaraná a zraniteľná voči útokom. Útočník by mohol jednoducho odhaliť informácie, o ktorých ste si mysleli, že sú v bezpečí. Správca webovej stránky ju bude musieť pred jej ďalšou návštevou opraviť.</p><p>Kód chyby: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -214,6 +237,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Zablokovaná stránka">
 
 <!ENTITY certerror.mitm.title "&brandShortName; nemôže nadviazať zabezpečené pripojenie s touto stránkou">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span> je pravdepodobne bezpečná stránka, ale nie je možné s ňou nadviazať zabezpečené pripojenie. Tento problém spôsobuje softvér <span class='mitm-name'/>, ktorý je buď umiestnený vo vašom počítači alebo v sieti.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Ak váš antivírusový program obsahuje funkciu skenovania šifrovaných spojení (často nazývaná ako „skenovanie webu“ alebo „skenovanie https“), môžete túto funkciu skúsiť vypnúť. Ak to nepomôže, môžete skúsiť antivírusový program odstrániť a preinštalovať.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Ak ste na firemnej sieti, kontaktujte jej IT oddelenie.">
@@ -221,14 +245,16 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Ak <span class='mitm-name'/> nepoznáte, môže ísť o útok a bohužiaľ nie je možné urobiť nič, aby ste sa mohli pripojiť k tejto stránke.">
 
 <!ENTITY clockSkewError.title "Hodiny vo vašom počítači sú zle nastavené">
+
 <!ENTITY clockSkewError.longDesc "Váš počítač si myslí, že je <span id='wrongSystemTime_systemDate1'/>, čo bráni aplikácii &brandShortName; bezpečne sa spojiť so serverom. Ak chcete navštíviť <span class='hostname'></span>, upravte nastavenia dátumu a času vo vašom počítači na správne hodnoty a obnovte <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Zdá sa, že príčinou môžu byť vaše nastavenia zabezpečenia internetu. Chceli by ste obnoviť predvolené nastavenia?">
 <!ENTITY prefReset.label "Obnoviť predvolené nastavenia">
 
+<!ENTITY networkProtocolError.title "Chyba sieťového protokolu">
+
 <!ENTITY enableTls10.longDesc "Táto stránka zrejme nepodporuje TLS protokol verzie 1.2, čo je minimálna verzia, ktorú &brandShortName; podporuje. Povolenie TLS 1.0 a TLS 1.1 môže problém s nadviazaním spojenia vyriešiť.">
 <!ENTITY enableTls10.note "Podpora TLS 1.0 a TLS 1.1 bude v nasledujúcom vydaní odstránená.">
 <!ENTITY enableTls10.label "Povoliť TLS 1.0 a 1.1">
 
-<!ENTITY networkProtocolError.title "Chyba sieťového protokolu">
 <!ENTITY networkProtocolError.longDesc "<p>Stránka, ktorú sa pokúšate navštíviť nemôže byť zobrazená, pretože bola zistená chyba v sieťovom protokole.</p><ul><li>Kontaktujte, prosím, vlastníkov stránky a informujte ich o tomto probléme.</li></ul>">

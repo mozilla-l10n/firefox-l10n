@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nedokázal zistiť, či je dostupná nejaká aktualizácia.
                                            Uistite sa, že máte najnovšiu verziu aplikácie &brandShortName; na stránke:">
-
+                                           
 <!ENTITY  finishedPage.title              "Aktualizácia pripravená na inštaláciu">
 <!ENTITY  finishedPage.text               "Táto aktualizácia bude nainštalovaná pri najbližšom spustení aplikácie
                                            &brandShortName;. Aplikáciu &brandShortName; môžete reštartovať teraz, alebo
@@ -71,6 +71,3 @@
                                            pokračujte v práci a reštartujte neskôr.">
 <!ENTITY  finishedBackground.moreElevated "Táto aktualizácia vyžaduje oprávnenie administrátora. Aktualizácia bude nainštalovaná pri ďalšom spustení aplikácie &brandShortName;. Aplikáciu môžete reštartovať teraz, alebo môžete pokračovať v práci a reštartovať neskôr, alebo môžete túto aktualizáciu úplne zrušiť.">
 
-<!ENTITY  update.details.label            "Podrobnosti">
-<!ENTITY  update.installedOn.label        "Nainštalovaná:">
-<!ENTITY  update.status.label             "Stav:">

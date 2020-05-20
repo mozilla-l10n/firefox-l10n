@@ -5,10 +5,13 @@
 profiledowngrade-window =
     .title = Spustili ste staršiu verziu { -brand-product-name }u
     .style = width: 490px;
+
 profiledowngrade-window-create =
     .label = Vytvoriť nový profil
+
 profiledowngrade-sync = Používaním staršej verzie { -brand-product-name }u môžete poškodiť záložky a históriu prehliadania, ktoré sú uložené vo vašom existujúcom profile. Aby ste svoje údaje ochránili, vytvorte si nový profil pre túto verziu aplikácie { -brand-short-name }. Pomocou účtu { -brand-product-name } sa vždy môžete prihlásiť a zosynchronizovať svoje záložky a históriu prehliadania s ostatnými profilmi.
 profiledowngrade-nosync = Používaním staršej verzie { -brand-product-name }u môžete poškodiť záložky a históriu prehliadania, ktoré sú uložené vo vašom existujúcom profile. Aby ste svoje údaje ochránili, vytvorte si nový profil pre túto verziu aplikácie { -brand-short-name }.
+
 profiledowngrade-quit =
     .label =
         { PLATFORM() ->

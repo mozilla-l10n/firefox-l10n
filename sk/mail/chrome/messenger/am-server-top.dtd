@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "b">
 <!ENTITY downloadOnBiff.label "Automaticky prevziať novú poštu">
 <!ENTITY downloadOnBiff.accesskey "o">
-<!ENTITY username.label "Názov účtu">
 <!ENTITY deleteMessagePrefix.label "Pri odstránení správy:">
 <!ENTITY modelMoveToTrash.label "Presunúť ju do priečinka:">
 <!ENTITY modelMoveToTrash.accesskey "n">

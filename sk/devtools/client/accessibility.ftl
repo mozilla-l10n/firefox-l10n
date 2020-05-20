@@ -6,13 +6,16 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Ďalšie informácie
+
 accessibility-text-label-header = Textové popisy a názvy
+
 accessibility-keyboard-header = Klávesnica
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = Varovanie
+
 accessibility-fail =
     .alt = Chyba
 

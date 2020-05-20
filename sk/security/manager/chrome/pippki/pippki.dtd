@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Vyžaduje sa dôverovať novej certifikačnej autorite.">
 <!ENTITY downloadCert.trustSSL "Dôverovať tejto certifikačnej autorite pri identifikácii serverov.">
 <!ENTITY downloadCert.trustEmail "Dôverovať tejto certifikačnej autorite pri identifikácii používateľov e-mailu.">
-<!ENTITY downloadCert.trustObjSign "Dôverovať tejto certifikačnej autorite pri identifikácii vývojárov softvéru.">
 <!ENTITY downloadCert.message3 "Predtým, než sa rozhodnete dôverovať tejto CA pre akýkoľvek účel, mali by ste preskúmať jej certifikát, politiku a procedúry (ak sú k dispozícii).">
 <!ENTITY downloadCert.viewCert.label "Zobraziť">
 <!ENTITY downloadCert.viewCert.text "Preskúmať certifikát certifikačnej agentúry">

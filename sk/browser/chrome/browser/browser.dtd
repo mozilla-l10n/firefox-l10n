@@ -128,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Overte svoj účet">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizovať okno">
 <!ENTITY fullScreenRestore.tooltip "Obnoviť">
@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Prejsť na adresu zadanú v paneli s adresou">
+
 <!ENTITY printButton.label            "Tlačiť">
 <!ENTITY printButton.tooltip          "Umožní vytlačiť túto stránku">
 
@@ -295,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
+
 
 <!ENTITY searchItem.title             "Vyhľadávanie">
 
@@ -359,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "k">
 <!ENTITY manageUserContext.label          "Správa kontajnerov">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Nové okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "o">
@@ -639,6 +642,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Uložiť do Pocketu">
+
 <!ENTITY saveToPocketCmd.label        "Uložiť stránku do Pocketu">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Uložiť odkaz do Pocketu">
@@ -849,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Zabezpečené pripojenie">
 <!ENTITY identity.connectionNotSecure "Pripojenie nie je zabezpečené">
 
-<!ENTITY identity.connectionSecure3 "Pripojenie je zabezpečené">
-<!ENTITY identity.connectionNotSecure2 "Pripojenie nie je zabezpečené">
-<!ENTITY identity.connectionNotSecureSecurityView "Pripojenie k tejto stránke nie je zabezpečené.">
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
 <!ENTITY identity.connectionVerified2 "Pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
-<!ENTITY identity.connectionVerified3 "Pripojenie k tejto stránke je zabezpečené.">
 <!ENTITY identity.connectionInternal "Toto je bezpečná stránka prehliadača &brandShortName;">
 <!ENTITY identity.extensionPage "Táto stránka je načítaná z doplnku.">
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
 <!ENTITY identity.customRoot "Pripojenie je overené vydavateľom certifikátov, ktorého Mozilla nepozná.">
-
-<!ENTITY identity.evOwnerLabel2 "Certifikát bol vydaný pre:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; zablokoval nezabezpečené časti tejto stránky.">
@@ -896,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Povolenia">
 
-<!ENTITY identity.permissions3 "Povolenia">
 <!ENTITY identity.permissionsEmpty "Tejto stránke ste neurčili žiadne špeciálne povolenia.">
 <!ENTITY identity.permissionsReloadHint "Pre vykonanie zmien budete možno musieť stránku obnoviť.">
 <!ENTITY identity.permissionsPreferences.tooltip "Otvoriť nastavenia povolení">
@@ -1046,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Zavrieť">
 

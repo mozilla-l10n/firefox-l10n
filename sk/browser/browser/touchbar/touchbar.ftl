@@ -20,6 +20,7 @@ open-location = Zadajte hľadanie alebo adresu
 share = Zdieľať
 close-window = Zavrieť okno
 open-sidebar = Bočné panely
+
 # This string describes shortcuts for search.
 search-popover = Skratky vyhľadávania
 # Describes searches limited to a specific scope

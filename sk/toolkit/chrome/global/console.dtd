@@ -25,14 +25,13 @@
 <!ENTITY filter2.label       "Filter:">
 <!ENTITY filter2.accesskey   "F">
 
-<!ENTITY copyCmd.label "Kopírovať">
-<!ENTITY copyCmd.accesskey "K">
-<!ENTITY copyCmd.commandkey "C">
+<!ENTITY copyCmd.label "Kopírovať">  
+<!ENTITY copyCmd.accesskey "K"> 
+<!ENTITY copyCmd.commandkey "C"> 
 <!ENTITY sortFirst.label "Usporiadať od prvého">
 <!ENTITY sortFirst.accesskey "r">
 <!ENTITY sortLast.label "Usporiadať od posledného">
 <!ENTITY sortLast.accesskey "o">
-<!ENTITY closeCmd.commandkey "w">
-<!ENTITY focus1.commandkey "l">
-<!ENTITY focus2.commandkey "d">
-
+<!ENTITY closeCmd.commandkey "w">  
+<!ENTITY focus1.commandkey "l">  
+<!ENTITY focus2.commandkey "d">  

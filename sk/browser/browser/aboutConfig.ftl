@@ -7,7 +7,9 @@ about-config-warning-title = Tu sú draci!
 about-config-warning-text = Zmena týchto pokročilých nastavení môže nepriaznivo ovplyvniť stabilitu, bezpečnosť a výkon tejto aplikácie. Pokračovať by ste mali len v prípade, že viete, čo robíte.
 about-config-warning-checkbox = Upozorniť ma aj nabudúce
 about-config-warning-button = Rozumiem riziku
+
 about-config2-title = Pokročilé nastavenia
+
 about-config-search-input =
     .placeholder = Hľadať
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Rozumiem riziku a chcem pokračovať
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Zmeny môžu ovplyvniť výkon a bezpečnosť aplikácie { -brand-short-name }.
+
 about-config-page-title = Rozšírené možnosti
+
 about-config-search-input1 =
     .placeholder = Hľadať
 about-config-show-all = Zobraziť všetko
+
 about-config-pref-add = Pridať
 about-config-pref-toggle = Prepnúť
 about-config-pref-edit = Upraviť
 about-config-pref-save = Uložiť
 about-config-pref-reset = Obnoviť
 about-config-pref-delete = Odstrániť
+
 about-config-pref-add-button =
     .title = Pridať
 about-config-pref-toggle-button =

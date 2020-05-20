@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Podrobnosti o aplikácii
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Odstrániť
     .accesskey = O
-app-manager-handle-webfeeds = Nasledujúce aplikácie môžu byť použité na spracovanie webových kanálov.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Nasledujúce aplikácie môžu byť použité na spracovanie odkazov typu { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Nasledujúce aplikácie môžu byť použité na spracovanie obsahu { $type }.

@@ -13,6 +13,7 @@ enable-common-message = Vývojárske nástroje sú v predvolenom nastavení pre 
 enable-learn-more-link = Ďalšie informácie o vývojárskych nástrojoch
 enable-enable-button = Povoliť vývojárske nástroje
 enable-close-button = Zavrieť túto kartu
+
 welcome-title = Vítajú vás vývojárske nástroje!
 newsletter-title = Mozilla Developer Newsletter
 newsletter-message = Nechajte si posielať vývojárske novinky, triky a zdroje priamo do svojej schránky.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Beriem na vedomie, že Mozilla spracuje tieto údaje 
 newsletter-subscribe-button = Odoberať
 newsletter-thanks-title = Ďakujeme!
 newsletter-thanks-message = Ak ste v minulosti nepotvrdili odber noviniek Mozilly, budete to musieť urobiť teraz. Pozrite sa, prosím, do vašej e-mailovej schránky, prípadne i do priečinka s nevyžiadanou poštou, či sa tam nenachádza e-mail od nás.
+
 footer-title = Firefox Developer Edition
 footer-message = Hľadáte viac, než len vývojárske nástroje? Vyskúšajte verziu Firefoxu vytvorenú špeciálne pre vývojárov a moderné pracovné postupy.
 footer-learn-more-link = Ďalšie informácie
+
 features-learn-more = Ďalšie informácie
 features-inspector-title = Prieskumník
 features-inspector-desc = Skúmajte a upravujte kód stránok. <a data-l10n-name="learn-more">{ features-learn-more }</a>
