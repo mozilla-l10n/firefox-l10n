@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = সাইটের তথ্য দেখাও
 
@@ -89,10 +90,12 @@ urlbar-midi-blocked =
     .tooltiptext = আপনি সাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
 urlbar-install-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য অ্যাড-অন ইনস্টলেশন বন্ধ করেছেন।
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = এই বুকমার্কটি সম্পাদনা ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -106,6 +109,7 @@ page-action-manage-extension =
     .label = এক্সটেনশন ব্যবস্থাপনা...
 page-action-remove-from-urlbar =
     .label = ঠিকানা  বার থেকে অপসারণ করুন
+
 page-action-remove-extension =
     .label = এক্সটেনশন অপসারণ করুন
 
@@ -123,12 +127,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = এবার এর সাথে অনুসন্ধান করুন:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = অনুসন্ধান সেটিং বদল করুন
 search-one-offs-change-settings-compact-button =
     .tooltiptext = অনুসন্ধান সেটিংস পরিবর্তন করুন
+
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবে অনুসন্ধান
     .accesskey = T
@@ -144,8 +150,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় সম্পাদক দেখাও
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = সম্পন্ন
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -222,6 +230,7 @@ popup-all-windows-shared = আপনার স্ক্রিনের সব �
 
 enable-devtools-popup-description = F12 শর্টকাট ব্যবহার করতে, প্রথমে ওয়েব ডেভেলপার মেনু থেকে DevTools খুলুন।
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -234,9 +243,11 @@ urlbar-permissions-granted =
     .tooltiptext = আপনি এই সাইটের জন্য বিশেষ অনুমতি দিয়েছেন।
 urlbar-switch-to-tab =
     .value = ট্যাবে যান:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
+
 urlbar-go-button =
     .tooltiptext = ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে
 urlbar-page-action-button =

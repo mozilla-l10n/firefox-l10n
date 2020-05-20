@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "আংশিক হালনাগাদ প্রয়োগ করা যায়নি। &brandShortName; সম্পূর্ণ হালনাগাদ ডাউনলোড করে আবার চেষ্টা করবে।">
 
 <!ENTITY  genericBackgroundError.label    "হালনাগাদ উপস্থিত রয়েছে কি না তা &brandShortName; দ্বারা নির্ধারণ করা সম্ভব হয়নি। অনুগ্রহ করে নিশ্চিত করুন যে নিম্নলিখিত স্থান থেকে প্রাপ্ত &brandShortName;-র সাম্প্রতিকতম সংস্করণ ব্যবহার করা হচ্ছে:">
-
+                                           
 <!ENTITY  finishedPage.title              "হালনাগাদ ইনস্টল করার জন্য প্রস্তুত">
 <!ENTITY  finishedPage.text               "এই হালনাগাদটি &brandShortName; পরবর্তীতে চালু হওয়ার সময় ইনস্টল করা হবে। আপনি &brandShortName; এখন পুনরায় শুরু করতে পারেন, অথবা এখন কাজ চালিয়ে যান এবং পরে পুনরায় শুরু করুন।">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "এই হালনাগাদটি পরবর্তীতে &brandShortName; চালু হওয়ার সময় ইনস্টল করা হবে। আপনি &brandShortName; এখন পুনরায় শুরু করতে পারেন, অথবা এখন কাজ চালিয়ে যান এবং পরে পুনরায় শুরু করুন।">
 <!ENTITY  finishedBackground.moreElevated "এই হালনাগাদের জন্য আপনার অ্যাডমিনিস্ট্রেটর অধিকার প্রয়োজন হবে। এই হালনাগাদ &brandShortName; পরবর্তীতে শুরুর সময়ে ইন্সটল হবে। আপনি এখন &brandShortName; রিস্টার্ট করতে পারেন, কাজ চালিয়ে যেতে এবং পরে রিস্টার্ট করতে পারেন, অথবা হালনাগাদ উপেক্ষা করতে পারেন।">
 
-<!ENTITY  update.details.label            "বিস্তারিত">
-<!ENTITY  update.installedOn.label        "ইনস্টল করার তারিখ:">
-<!ENTITY  update.status.label             "অবস্থা:">

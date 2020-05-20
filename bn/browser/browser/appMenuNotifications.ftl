@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = { -brand-shorter-name } এ আপনি একটি নতুন এক্সটেনশন যুক্ত করেছেন যা ব্যক্তিগত উইন্ডোতে কাজ করবে না যতক্ষণ না আপনি তা সেটিং এ অনুমোদন করছেন।
 appmenu-addon-private-browsing-learn-more = কিভাবে এক্সটেনশন সেটিংস করতে হয় জানুন
+    
 appmenu-new-tab-controlled =
     .label = আপনার নতুন ট্যাব পরিবর্তিত হয়েছে।
     .buttonlabel = পরিবর্তনগুলো রাখুন

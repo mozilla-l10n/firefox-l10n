@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "কপি ও ফোল্ডার">
 <!ENTITY sendingPrefix.label "স্বয়ংক্রিয়ভাবে বার্তা পাঠানোর সময়:">
 <!ENTITY fccMailFolder.label "কপি রাখা হবে: (P)">
@@ -25,22 +27,19 @@
 <!ENTITY sentFolderOn.accesskey "S">
 <!ENTITY sentInOtherFolder.label "অন্যান্য: (O)">
 <!ENTITY sentInOtherFolder.accesskey "O">
-<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
-<!ENTITY draftsFolderOn.label "&quot;খসড়া&quot; ফোল্ডারে: (D)">
-<!ENTITY draftsFolderOn.accesskey "D">
-<!ENTITY draftInOtherFolder.label "অন্যান্য: (t)">
-<!ENTITY draftInOtherFolder.accesskey "t">
+<!ENTITY keepArchives.label "বার্তার আর্কাইভ রাখা হবে:">
 <!-- LOCALIZATION NOTE (archivesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY archivesFolderOn.label "&quot;আর্কাইভ&quot; ফোল্ডারে: (n)">
 <!ENTITY archivesFolderOn.accesskey "n">
 <!ENTITY archiveInOtherFolder.label "অন্যান্য: (h)">
 <!ENTITY archiveInOtherFolder.accesskey "h">
+<!-- LOCALIZATION NOTE (draftsFolderOn.label): OK to translate this, bug #57440 -->
+<!ENTITY draftsFolderOn.label "&quot;খসড়া&quot; ফোল্ডারে: (D)">
+<!ENTITY draftsFolderOn.accesskey "D">
+<!ENTITY draftInOtherFolder.label "অন্যান্য: (t)">
+<!ENTITY draftInOtherFolder.accesskey "t">
 <!-- LOCALIZATION NOTE (templatesFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY templatesFolderOn.label "&quot;ফর্মা&quot; ফোল্ডারে: (m)">
 <!ENTITY templatesFolderOn.accesskey "m">
 <!ENTITY templateInOtherFolder.label "অন্যান্য: (e)">
 <!ENTITY templateInOtherFolder.accesskey "e">
-<!ENTITY specialFoldersTitle.label "খসড়া, আর্কাইভ, এবং ফর্মা">
-<!ENTITY keepDrafts.label "বার্তার খসড়া রাখা হবে:">
-<!ENTITY keepArchives.label "বার্তার আর্কাইভ রাখা হবে:">
-<!ENTITY keepTempltes.label "বার্তার ফর্মা রাখা হবে:">

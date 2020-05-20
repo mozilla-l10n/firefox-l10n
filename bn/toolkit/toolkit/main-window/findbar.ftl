@@ -9,12 +9,10 @@ findbar-next =
     .tooltiptext = বাক্যাংশের পরবর্তী উপস্থিতি অনুসন্ধান
 findbar-previous =
     .tooltiptext = বাক্যাংশের পূর্ববর্তী উপস্থিতি অনুসন্ধান
+
 findbar-find-button-close =
     .tooltiptext = অনুসন্ধান বার বন্ধ করুন
-findbar-highlight-all =
-    .label = সব হাইলাইট কর
-    .accesskey = l
-    .tooltiptext = সম্পূর্ণ বাক্য হাইলাইট কর
+
 findbar-highlight-all2 =
     .label = সব হাইলাইট কর
     .accesskey =
@@ -23,10 +21,12 @@ findbar-highlight-all2 =
            *[other] a
         }
     .tooltiptext = এই বাক্যের সকল আবির্ভাব হাইলাইট কর
+
 findbar-case-sensitive =
     .label = অক্ষরের ছাঁদ মেলাও
     .accesskey = c
     .tooltiptext = অক্ষরের ছাঁদ ব্যবহারে অনুসন্ধান
+
 findbar-entire-word =
     .label = সম্পূর্ণ শব্দ
     .accesskey = W

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- These strings are for use specifically in the editor's image and form image dialogs. -->
 <!-- Window title -->
 
@@ -23,6 +24,7 @@
 <!ENTITY noAltText.accessKey "D">
 
 <!ENTITY previewBox.label "ছবির প্রাকদর্শন">
+
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
@@ -45,8 +47,6 @@
 <!ENTITY imagemapBox.label "ছবি ম্যাপ">
 <!ENTITY removeImageMapButton.label "মুছে ফেলা (R)">
 <!ENTITY removeImageMapButton.accessKey "R">
-<!ENTITY editImageMapButton.label "সম্পাদনা...">
-<!ENTITY editImageMapButton.tooltip "এই ছবির জন্য একটি ক্লিকযোগ্য হটস্পট তৈরি করা হবে">
 <!-- These are the options for image alignment -->
 
 <!ENTITY alignment.label "পাঠ্য ছবির সাথে মেলানো">

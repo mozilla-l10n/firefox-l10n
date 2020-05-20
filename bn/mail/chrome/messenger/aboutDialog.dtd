@@ -1,16 +1,9 @@
 <!ENTITY aboutDialog.title "&brandFullName; পরিচিতি">
-<!ENTITY aboutButton.label "&lt; পূর্ববর্তী (B)">
-<!ENTITY aboutButton.accesskey "B">
-<!ENTITY aboutVersion "সংস্করণ">
-<!ENTITY aboutMenu.label "পরিচিতি (A)">
-<!ENTITY aboutMenu.accesskey "A">
-<!ENTITY aboutCredits.label "কৃতিত্ব (C)">
-<!ENTITY aboutCredits.accesskey "C">
-<!ENTITY aboutRights.label "আপনার অধিকার (R)">
-<!ENTITY aboutRights.accesskey "R">
-<!ENTITY aboutContributors.label "অবদানকারী (o)">
-<!ENTITY aboutContributors.accesskey "o">
-<!ENTITY aboutLicense.label "লাইসেন্স (L)">
-<!ENTITY aboutLicense.accesskey "L">
+
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
+
 
 <!ENTITY cmdCloseMac.commandKey "w">

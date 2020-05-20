@@ -5,13 +5,15 @@
 app-manager-window =
     .title = অ্যাপ্লিকেশনের বিবরণ
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = অপসারণ করুন
     .accesskey = R
-app-manager-handle-webfeeds = ওয়েব ফিড নিম্নলিখিত অ্যাপ্লিকেশন পরিচালনার জন্যে ব্যবহার করা যাবে।
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = { $type } লিঙ্ক নিম্নলিখিত অ্যাপ্লিকেশন পরিচালনার জন্যে ব্যবহার করা যাবে।
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = { $type } কন্টেন্ট নিম্নলিখিত অ্যাপ্লিকেশন পরিচালনার জন্যে ব্যবহার করা যাবে।

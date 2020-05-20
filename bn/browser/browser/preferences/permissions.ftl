@@ -5,50 +5,66 @@
 permissions-window =
     .title = ব্যতিক্রম
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ওয়েবসাইটের ঠিকানা
     .accesskey = d
+
 permissions-block =
     .label = প্রতিরোধ করা হবে
     .accesskey = B
+
 permissions-session =
     .label = সেশনের জন্য অনুমোদন করা হবে
     .accesskey = S
+
 permissions-allow =
     .label = অনুমোদন
     .accesskey = A
+
 permissions-site-name =
     .label = ওয়েবসাইট
+
 permissions-status =
     .label = অবস্থা
+
 permissions-remove =
     .label = ওয়েবসাইট অপসারণ
     .accesskey = R
+
 permissions-remove-all =
     .label = সব ওয়েবসাইট অপসারণ কর
     .accesskey = e
+
 permissions-button-cancel =
     .label = বাতিল
     .accesskey = C
+
 permissions-button-ok =
     .label = পরিবর্তন সংরক্ষণ
     .accesskey = S
+
 permissions-autoplay-menu = সব ওয়েবসাইটের জন্য ডিফল্ট:
+
 permissions-searchbox =
     .placeholder = ওয়েবসাইট খুঁজুন
+
 permissions-capabilities-autoplay-allow =
     .label = অডিও ও ভিডিও অনুমোদন দিন
 permissions-capabilities-autoplay-block =
     .label = অডিও ব্লক
 permissions-capabilities-autoplay-blockall =
     .label = অডিও ও ভিডিও ব্লক
+
 permissions-capabilities-allow =
     .label = অনুমোদন করা হবে
 permissions-capabilities-block =
     .label = প্রতিরোধ করা হবে
 permissions-capabilities-prompt =
     .label = সর্বদা জিজ্ঞাসা কর
+
 permissions-capabilities-listitem-allow =
     .value = অনুমোদন করা হবে
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = ব্যতিক্রম - কন্টেন্ট ব্লকিং
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = আপনি এই ওয়েবসাইটগুলোতে কন্টেন্ট ব্লকিং নিস্ক্রিয় করেছেন।
+
 permissions-exceptions-etp-window =
     .title = বর্ধিত ট্র্যাকিং সুরক্ষার জন্য ব্যতিক্রম
     .style = { permissions-window.style }

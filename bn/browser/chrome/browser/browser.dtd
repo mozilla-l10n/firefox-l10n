@@ -128,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "আপনার অ্যাকাউন্ট যাচাই করুন">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "ন্যূনতম বিস্তার">
 <!ENTITY fullScreenRestore.tooltip "পূর্বাবস্থায় ফেরানো">
@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "ঠিকানার বারে উল্লেখিত পাতা প্রদর্শন করা হবে">
+
 <!ENTITY printButton.label            "মুদ্রণ">
 <!ENTITY printButton.tooltip          "এই পাতা মুদ্রণ">
 
@@ -295,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
+
 
 <!ENTITY searchItem.title             "অনুসন্ধান">
 
@@ -359,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY manageUserContext.label          "কন্টেইনার ব্যবস্থাপনা করুন">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "নতুন উইন্ডো">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -639,6 +642,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pocket এ সংরক্ষণ করুন">
+
 <!ENTITY saveToPocketCmd.label        "Pocket এ পাতাটি সংরক্ষণ করুন">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Pocket এ লিঙ্ক সংরক্ষণ করুন">
@@ -849,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
 <!ENTITY identity.connectionNotSecure "সংযোগ নিরাপদ নয়">
 
-<!ENTITY identity.connectionSecure3 "সংযোগ সুরক্ষিত">
-<!ENTITY identity.connectionNotSecure2 "সংযোগ নিরাপদ নয়">
-<!ENTITY identity.connectionNotSecureSecurityView "এই সাইটে আপনার সংযোগ সুরক্ষিত নয়।">
 <!ENTITY identity.connectionFile "এই পাতা আপনার কম্পিউটারে জমা হয়েছে।">
 <!ENTITY identity.connectionVerified2 "আপনি নিরাপদে এই সাইটে সংযুক্ত, যার মালিক:">
-<!ENTITY identity.connectionVerified3 "আপনি সুরক্ষিতভাবে এই সাইটে সংযুক্ত হয়েছেন।">
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পাতা।">
 <!ENTITY identity.extensionPage "এই পাতাটি কোন এক্সটেনশন থেকে লোড হয়েছে।">
 <!ENTITY identity.insecureLoginForms2 "এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।">
 <!ENTITY identity.customRoot "Mozilla দ্বারা স্বীকৃত নয় এমন প্রশংসাপত্র জারিকারী দ্বারা সংযোগ যাচাই করা হয়েছে।">
-
-<!ENTITY identity.evOwnerLabel2 "সার্টিফিকেট দেওয়া হয়েছে:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; নিরাপদ নয় তাই এই পাতার অংশ ব্লক করা হয়েছে।">
@@ -896,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "অনুমোদন">
 
-<!ENTITY identity.permissions3 "অনুমোদন">
 <!ENTITY identity.permissionsEmpty "আপনি এই সাইটের জন্য কোনো বিশেষ অনুমতি দেননি।">
 <!ENTITY identity.permissionsReloadHint "পরিবর্তনগুলি প্রয়োগ করার জন্য আপনাকে পাতাটি পুনরায় লোড করার প্রয়োজন হতে পারে।">
 <!ENTITY identity.permissionsPreferences.tooltip "অনুমতির পছন্দ খুলুন">
@@ -1046,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "বন্ধ">
 
