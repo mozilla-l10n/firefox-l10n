@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Բաղադրիչների մասին
+
 installed-plugins-label = Տեղադրված բաղադրիչներ
 no-plugins-are-installed-label = Չկա որևէ ակտիվ բաղադրիչ
+
 deprecation-description = Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլևս չեն աջակցվում: <a data-l10n-name="deprecation-link">Իմանալ ավելին:</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Վիճակը.</span> Միացվ�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Վիճակը.</span> Միացված է ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Վիճակը.</span> Անջատած
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Վիճակը.</span> Անջատած ({ $blockListState })
+
 mime-type-label = MIME տեսակ
 description-label = Նկարագրություն
 suffixes-label = Սուֆիքս

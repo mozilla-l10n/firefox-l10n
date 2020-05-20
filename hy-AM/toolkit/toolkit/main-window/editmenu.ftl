@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = Հետարկել
     .accesskey = U
+
 editmenu-redo =
     .label = Կրկնել
     .accesskey = R
+
 editmenu-cut =
     .label = Կտրել
     .accesskey = t
+
 editmenu-copy =
     .label = Պատճենել
     .accesskey = C
+
 editmenu-paste =
     .label = Տեղադրել
     .accesskey = P
+
 editmenu-delete =
     .label = Ջնջել
     .accesskey = D
+
 editmenu-select-all =
     .label = Նշել բոլորը
     .accesskey = A

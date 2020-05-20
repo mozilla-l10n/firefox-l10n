@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Բացել հղումը Գաղտնի Դիտարկմամբ
     .accesskey = Դ
+
 places-new-bookmark =
     .label = Նոր էջանիշ…
     .accesskey = Ն
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Նոր բաժանիչ
     .accesskey = S
+
 places-view =
     .label = Տեսք
     .accesskey = Տ
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ըստ ամսաթվի և կայքի
     .accesskey = t
+
 places-history-search =
     .placeholder = Որոնել պատմություն
 places-bookmarks-search =
     .placeholder = Որոնել էջանիշեր
+
 places-delete-domain-data =
     .label = Մոռանալ Այս Կայքի Մասին
     .accesskey = F

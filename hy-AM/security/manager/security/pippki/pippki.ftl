@@ -8,6 +8,7 @@ password-quality-meter = Գաղտնաբառի ապահովությունը
 
 change-password-window =
     .title = Փոխել Հիմնական գաղտնաբառը
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Անվտանգության Սարք: { $tokenName }

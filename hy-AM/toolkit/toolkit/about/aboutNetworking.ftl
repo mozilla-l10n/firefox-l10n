@@ -57,6 +57,7 @@ rcwn-avg-long = Երկար միջին
 rcwn-std-dev-long = Երկար չափօրինակի շեղում
 rcwn-cache-slow = Հիշապահեստը դանդաղ է աշխատում
 rcwn-cache-not-slow = Հիշապահեստը դանդաղ չի հաշվում
+
 about-networking-title = Ցանցի մասին
 about-networking-http = HTTP
 about-networking-sockets = Բնիկներ

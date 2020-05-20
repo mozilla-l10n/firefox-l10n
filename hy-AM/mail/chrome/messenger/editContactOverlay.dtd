@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Հասցեագիրք.">
 <!ENTITY editContactAddressBook.accesskey "Հ">
 
-<!ENTITY editContactPanelCancel.label "Չեղարկել">
-<!ENTITY editContactPanelCancel.accesskey "C">
-
 <!ENTITY editContactPanelDone.label "Պատրաստ է">
 <!ENTITY editContactPanelDone.accesskey "D">
 

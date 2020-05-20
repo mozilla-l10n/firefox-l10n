@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Չկա պրոքսի՝">
 <!ENTITY  noproxy.accesskey             "N">
 <!ENTITY  noproxyExplain.label          "Օրինակ՝ .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլոր հաղորդակարգերի համար">
+<!ENTITY  shareproxy.accesskey          "ք">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Միացումները localhost- ին ՝ 127.0.0.1 և :: 1-ին, երբեք չեն միջնորդվում:">
-<!ENTITY  shareproxy.label              "Օգտագործել այս պրոքսին բոլոր հաղորդակարգերի համար">
-<!ENTITY  shareproxy.accesskey          "ք">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Մի պահանջեք վավերացումը, եթե գաղտնաբառը պահպանված է">
 <!ENTITY  autologinproxy.accesskey      "i">

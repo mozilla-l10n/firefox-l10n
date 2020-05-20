@@ -75,6 +75,7 @@ certificate-viewer-authority-info-aia = Հեղինակային տեղեկատվ�
 certificate-viewer-certificate-policies = Վկայագրի դրույթները
 certificate-viewer-embedded-scts = Ներկառուցված SCTs
 certificate-viewer-crl-endpoints = CRL֊ի վերջնակետերը
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Ներբեռնել
@@ -97,3 +98,6 @@ certificate-viewer-download-pem =
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (chain)
     .download = { $fileName }-chain.pem
+
+## Labels for tabs displayed in stand-alone about:certificate page
+

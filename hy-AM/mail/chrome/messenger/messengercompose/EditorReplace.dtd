@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Գտնել և Փոխարինել">
 <!ENTITY findField.label "Գտնել տեքստ.">
 <!ENTITY findField.accesskey "n">

@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname }-ի հետ կապակցման ժամանակ տեղի է ունեցել սխալ: { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Սխալի կոդ ՝ { $error }
+
 psmerr-ssl-disabled = Չի ստացվում անվտանգ կապ հաստատել, քանի որ SSL պռոտոկոլը անջատված է:
 psmerr-ssl2-disabled = Չստացվեց հաստատել անվտանգ կապ, քանի որ սերվերը օգտագործում է հին, ոչ անվտանգ SSL պրոտոկոլ:
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Դուք ստացել եք սխալ վկայագիր: Կապնվեք սպասարկիչի կառավարիչի հետ կամ նամակ գրեք նրան և ուղարկեք հետևյալ տեղեկությունները.
     
     Ձեր վկայագիրը պարունակում է միևնույն սերիական համարը, ինչ մեկ այլ վկայագիր՝ տրված վկայագրման նույն կենտրոնի կողմից: Խնդրում ենք ստանալ նոր վկայագիր՝ իր բացառիկ համարով:
+
 ssl-error-export-only-server = Անհնար է ապահովել անվտանգ տեղեկության փոխանցում: Հանգույցը չի ապահովում բարձրաստիճան գաղտնագրում:
 ssl-error-us-only-server = Անհնար է ապահովել անվտանգ տեղեկության փոխանցում: Հանգույցը պահանջում է բարձրաստիճան գաղտնագրում, որը ապահովված չէ:
 ssl-error-no-cypher-overlap = Չի ստացվում անվտանգ տեղեկության փոխանակում հանգույցի հետ։ Չկա ընդհանուր գաղտնագրման հաշվեկրգ()եր։

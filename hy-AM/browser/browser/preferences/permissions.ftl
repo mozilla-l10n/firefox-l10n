@@ -5,50 +5,66 @@
 permissions-window =
     .title = Բացառումներ
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Կայքի հասցեն
     .accesskey = d
+
 permissions-block =
     .label = Արգելել
     .accesskey = Ա
+
 permissions-session =
     .label = Թույլատրել աշխատաշրջանում
     .accesskey = ա
+
 permissions-allow =
     .label = Թույլատրել
     .accesskey = Թ
+
 permissions-site-name =
     .label = Կայք
+
 permissions-status =
     .label = Կարգավիճակը
+
 permissions-remove =
     .label = Հեռացնել կայքը
     .accesskey = R
+
 permissions-remove-all =
     .label = Հեռացնել բոլոր կայքերը
     .accesskey = e
+
 permissions-button-cancel =
     .label = Չեղարկել
     .accesskey = Չ
+
 permissions-button-ok =
     .label = Պահել փոփոխությունները
     .accesskey = Պ
+
 permissions-autoplay-menu = Սկզբնադիր բոլոր կայքերի համար.
+
 permissions-searchbox =
     .placeholder = Որոնել կայք
+
 permissions-capabilities-autoplay-allow =
     .label = Թույլատրել Ձայն և Տեսանյութ
 permissions-capabilities-autoplay-block =
     .label = Կողպել ձայնը
 permissions-capabilities-autoplay-blockall =
     .label = Կողպել Ձայնը և Տեսանյութը
+
 permissions-capabilities-allow =
     .label = Թույլատրել
 permissions-capabilities-block =
     .label = Արգելել
 permissions-capabilities-prompt =
     .label = Միշտ հարցնել
+
 permissions-capabilities-listitem-allow =
     .value = Թույլատրել
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Բացառություններ՝ բովանդակության արգելափակում
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Դուք անջատել եք բովանդակության արգելափակումը այս կայքերի համար:
+
 permissions-exceptions-etp-window =
     .title = Բացառություններ հաետագծման պաշտապանությունը կատարելագրծելու համար։
     .style = { permissions-window.style }

@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Փակել
     .accesskey = C
+
 show-passwords =
     .label = Ցուցադրել Գաղտնաբառերը
     .accesskey = P
@@ -68,3 +69,6 @@ remove-all-shown =
 remove-all-passwords-prompt = Հեռացնե՞լ բոլոր գաղտնաբառերը։
 remove-all-passwords-title = Հեռացնել բոլոր գաղտնաբառերը
 no-master-password-prompt = Ցուցադրե՞լ Ձեր գաղտնաբառերը։
+
+## OS Authentication dialog
+
