@@ -7,7 +7,9 @@ about-config-warning-title = Here be dragons!
 about-config-warning-text = Het wijzigen van deze uitgebreide voorkeuren kan schadelijk zijn voor de stabiliteit, veiligheid en prestaties van deze toepassing. Ga alleen door als u weet wat u doet.
 about-config-warning-checkbox = Blijf me lastigvallen!
 about-config-warning-button = Ik aanvaard het risico
+
 about-config2-title = Geavanceerde configuraties
+
 about-config-search-input =
     .placeholder = Zoeken
 
@@ -22,16 +24,20 @@ about-config-intro-warning-button = Het risico aanvaarden en doorgaan
 
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Het wijzigen van deze voorkeuren kan de prestaties of veiligheid van { -brand-short-name } beïnvloeden.
+
 about-config-page-title = Geavanceerde voorkeuren
+
 about-config-search-input1 =
     .placeholder = Naam voorkeursinstelling zoeken
 about-config-show-all = Alles tonen
+
 about-config-pref-add = Toevoegen
 about-config-pref-toggle = Omschakelen
 about-config-pref-edit = Bewerken
 about-config-pref-save = Opslaan
 about-config-pref-reset = Herinitialiseren
 about-config-pref-delete = Verwijderen
+
 about-config-pref-add-button =
     .title = Toevoegen
 about-config-pref-toggle-button =

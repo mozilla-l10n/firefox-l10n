@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Fout tijdens het verbinden met { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Foutcode: { $error }
+
 psmerr-ssl-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat het SSL-protocol is uitgeschakeld.
 psmerr-ssl2-disabled = Kan geen beveiligde verbinding tot stand brengen, omdat de pagina een oudere, minder veilige versie van het SSL-protocol gebruikt.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     U hebt een ongeldig certificaat ontvangen. Neem contact op met de serverbeheerder of e-mailcorrespondent en geef hen de volgende informatie:
     
     Uw certificaat bevat hetzelfde serienummer als een ander door de certificaatautoriteit uitgegeven certificaat. Haal een nieuw certificaat met een uniek serienummer op.
+
 ssl-error-export-only-server = Kan niet beveiligd communiceren. Peer ondersteunt geen hoge graad van versleuteling.
 ssl-error-us-only-server = Kan niet beveiligd communiceren. Peer vereist hoge graad van versleuteling, die niet wordt ondersteund.
 ssl-error-no-cypher-overlap = Kan niet beveiligd communiceren met peer: geen algeme(e)n(e) versleutelingsalgoritme(n).

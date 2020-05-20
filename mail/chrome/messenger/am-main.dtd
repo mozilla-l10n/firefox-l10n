@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Accountinstellingen">
 <!ENTITY accountName.label "Accountnaam:">
 <!ENTITY accountName.accesskey "A">

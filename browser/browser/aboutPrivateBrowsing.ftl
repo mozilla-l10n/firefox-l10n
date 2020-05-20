@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Lees meer over <a data-l10n-name="learn-more">Privénavigatie</a>.
 about-private-browsing-info-visited = bezochte pagina’s
+
 privatebrowsingpage-open-private-window-label = Een privévenster openen
     .accesskey = p
 about-private-browsing-info-notsaved = Als u in een privévenster surft, zal { -brand-short-name } het volgende <strong>niet opslaan</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = U bevindt zich momenteel niet in een privé
 content-blocking-title = Inhoudsblokkering
 content-blocking-description = Sommige websites maken gebruik van trackers (‘volgers’) die uw activiteit op het internet kunnen bijhouden. In privévensters blokkeert Inhoudsblokkering van { -brand-short-name } automatisch veel trackers die informatie over uw surfgedrag kunnen verzamelen.
 about-private-browsing-info-description = { -brand-short-name } wist uw zoek- en browsergeschiedenis zodra u de toepassing afsluit of alle privénavigatietabbladen en -vensters sluit. Hoewel privénavigatie u niet anoniem maakt voor websites of uw internetprovider, maakt dit het makkelijker om wat u online doet privé te houden ten opzichte van anderen die deze computer gebruiken.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

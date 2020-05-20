@@ -103,6 +103,7 @@ print-window =
     .title = Afdrukken
 print-complete =
     .value = Afdrukken is voltooid.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

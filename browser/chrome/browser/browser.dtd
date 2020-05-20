@@ -113,6 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "S">
 <!ENTITY exitFullScreenCmd.label "Volledig scherm verlaten">
 <!ENTITY exitFullScreenCmd.accesskey "S">
+
 <!ENTITY fullScreenCmd.label "Volledig scherm">
 <!ENTITY fullScreenCmd.accesskey "d">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -127,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Uw account verifiëren">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimaliseren">
 <!ENTITY fullScreenRestore.tooltip "Herstellen">
@@ -175,7 +176,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxa.menu.accountSettings.label "Accountinstellingen">
 <!ENTITY fxa.menu.manageAccount2.label "Account beheren">
 <!ENTITY fxa.menu.signOut.label "Afmelden…">
-<!ENTITY fxa.menu.deviceSettings.label "Apparaatinstellingen">
 <!ENTITY fxa.menu.setupSync.label "&syncBrand.shortName.label; instellen…">
 
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
@@ -246,7 +246,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.accesskey            "S">
 
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Naar het adres in de locatiebalk gaan">
+
 <!ENTITY printButton.label            "Afdrukken">
 <!ENTITY printButton.tooltip          "Deze pagina afdrukken">
 
@@ -294,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
+
 
 <!ENTITY searchItem.title             "Zoeken">
 
@@ -358,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.label          "Containers beheren">
 <!ENTITY manageUserContext.accesskey      "o">
+
 <!ENTITY newNavigatorCmd.label        "Nieuw venster">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -498,6 +502,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Meer">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Voer zoekterm of adres in">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -631,11 +636,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Bladwijzer voor dit deelvenster maken">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "Koppeling kopiëren">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Opslaan naar Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Pagina opslaan naar Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Koppeling opslaan naar Pocket">
@@ -846,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
 <!ENTITY identity.connectionNotSecure "Verbinding is niet beveiligd">
 
-<!ENTITY identity.connectionSecure3 "Verbinding beveiligd">
-<!ENTITY identity.connectionNotSecure2 "Verbinding niet beveiligd">
-<!ENTITY identity.connectionNotSecureSecurityView "U hebt een onbeveiligde verbinding met deze website.">
 <!ENTITY identity.connectionFile "Deze pagina is op uw computer opgeslagen.">
 <!ENTITY identity.connectionVerified2 "U hebt een beveiligde verbinding met deze website, welke wordt beheerd door:">
-<!ENTITY identity.connectionVerified3 "U hebt een beveiligde verbinding met deze website.">
 <!ENTITY identity.connectionInternal "Dit is een beveiligde &brandShortName;-pagina.">
 <!ENTITY identity.extensionPage "Deze pagina is geladen vanuit een extensie.">
 <!ENTITY identity.insecureLoginForms2 "Ingevoerde aanmeldingen op deze pagina zouden kunnen worden onderschept.">
 <!ENTITY identity.customRoot "Verbinding geverifieerd door een certificaatuitgever die niet door Mozilla wordt herkend.">
-
-<!ENTITY identity.evOwnerLabel2 "Certificaat uitgegeven aan:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; heeft onderdelen van deze pagina die niet zijn beveiligd geblokkeerd.">
@@ -893,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Toestemmingen">
 
-<!ENTITY identity.permissions3 "Toestemmingen">
 <!ENTITY identity.permissionsEmpty "U hebt deze website geen speciale toestemmingen gegeven.">
 <!ENTITY identity.permissionsReloadHint "Mogelijk dient u de pagina te vernieuwen om wijzigingen van kracht te laten worden.">
 <!ENTITY identity.permissionsPreferences.tooltip "Voorkeuren voor toestemmingen openen">
@@ -1043,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Sluiten">
 
