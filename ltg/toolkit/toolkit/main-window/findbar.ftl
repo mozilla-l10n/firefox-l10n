@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Mekleit frāzi turpmuokajā tekstā
 findbar-previous =
     .tooltiptext = Mekleit frāzi virzīnī iz suokumu
+
 findbar-find-button-close =
     .tooltiptext = Aiztaiseit mekliešonys jūslu
-findbar-highlight-all =
-    .label = Izcelt vysys
-    .accesskey = l
-    .tooltiptext = Izcelt frāzi vysā tekstā
+
 findbar-case-sensitive =
     .label = Lelū, mozū burtu atbiļsteiba
     .accesskey = L
     .tooltiptext = Mekleit uztverūt lelūs i mozūs burtus kai atškireigus simbolus
+
 findbar-entire-word =
     .label = Whole Words
     .accesskey = w

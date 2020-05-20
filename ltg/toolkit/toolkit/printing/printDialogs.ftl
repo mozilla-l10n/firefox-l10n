@@ -103,6 +103,7 @@ print-window =
     .title = Drukā
 print-complete =
     .value = Drukuošona pabeigta.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

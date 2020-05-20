@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Privātuma aizsardzeiba
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Porīt iz sovu atskaiti par privātumu
 
+## Zoom Controls
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

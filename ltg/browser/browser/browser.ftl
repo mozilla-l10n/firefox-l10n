@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Apsavērt lopys informaceju
 
@@ -77,10 +78,12 @@ urlbar-canvas-blocked =
     .tooltiptext = Datu sajimšona nu ituos lopys canvas ir blokeita.
 urlbar-midi-blocked =
     .tooltiptext = Tu esi aizlīdzs MIDI pīkļuvi itai lopai.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit this bookmark ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,6 +115,7 @@ search-one-offs-change-settings-button =
     .label = Maineit mekliešonys īstatiejumus
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Maineit mekliešonys īstatiejumus
+
 search-one-offs-context-open-new-tab =
     .label = Mekleit jaunā cilnē
     .accesskey = c
@@ -124,8 +128,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Rōdēt redaktoru pi saglobōšonys
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Gotovs
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -200,9 +206,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Porlyuku kontrolej nu attōluma
 urlbar-switch-to-tab =
     .value = Puorslēgtīs iz cilni:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Paplošynuojums:
+
 urlbar-go-button =
     .tooltiptext = Puorīt iz adresu, kas radzama vītys juslā
 urlbar-page-action-button =

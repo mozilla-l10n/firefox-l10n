@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Apturēt
 pictureinpicture-play =
     .aria-label = Atskaņuot
+
 pictureinpicture-mute =
     .aria-label = Apklusynuot
 pictureinpicture-unmute =
     .aria-label = Īslēgt skaņu
+

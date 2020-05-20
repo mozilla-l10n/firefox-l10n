@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = S
 appmenu-addon-private-browsing-message = Kaskurī jaunī paplašinōjumi, kuri davīnōti { -brand-shorter-name } nastrōdōs Privātajūs lūgūs, cikam tys nabyus atļauts īstatejumūs.
 appmenu-addon-private-browsing-learn-more = Uzzynoj, kai porvaļdēt paplašinōjumus
+    
 appmenu-new-tab-controlled =
     .label = Tova jaunō cilne ir izmaineita.
     .buttonlabel = Paturēt izmaiņas

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonti
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fonti raksteibai
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabu
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionals
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Izmārs
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Izmārs
     .accesskey = r
+
 fonts-minsize = Minimalais fonta izmārs
     .accesskey = o
+
 fonts-minsize-none =
     .label = Nikaids
+
 fonts-allow-own =
     .label = Ļaut lopom izavieleit pošom sovus fontus manis izavalātū fontu vītā
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Simbolu kodiejums nazynuomam saturam
 fonts-languages-fallback-desc = Itys simbolu kodiejums tiks izmontuots saturam, kurs nazyņuos par sovu simbolu kodiejumu.
+
 fonts-languages-fallback-label = Fallback Text Encoding
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Nūkluseitī izavālātajai volūdai
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vjetnamīšu
 fonts-languages-fallback-name-other =
     .label = Cyti (īskaitūt Rītumeiropys)
-fonts-very-large-warning-title = Large minimum font size
-fonts-very-large-warning-message = You have selected a very large minimum font size (more than 24 pixels). This may make it difficult or impossible to use some important configuration pages like this one.
-fonts-very-large-warning-accept = Saglobuot munys izmaiņis
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

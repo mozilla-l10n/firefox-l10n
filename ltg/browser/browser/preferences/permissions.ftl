@@ -5,49 +5,61 @@
 permissions-window =
     .title = Izjāmumi
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Sātys lopys adress
     .accesskey = d
+
 permissions-block =
     .label = Blokeit
     .accesskey = B
+
 permissions-session =
     .label = Atļaut tikai ituos sesejis laikā
     .accesskey = s
+
 permissions-allow =
     .label = Atļaut
     .accesskey = A
+
 permissions-site-name =
     .label = Sātys lopa
+
 permissions-status =
     .label = Statuss
+
 permissions-remove =
     .label = Aizvuokt lopu
     .accesskey = z
+
 permissions-remove-all =
     .label = Aizvuokt vysys lopys
     .accesskey = k
+
 permissions-button-cancel =
     .label = Atceļt
     .accesskey = c
+
 permissions-button-ok =
     .label = Saglobuot izmaiņis
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = Mekleit lopys
+
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Blokeit
 permissions-capabilities-prompt =
     .label = Vīnmār vaicuot
+
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
     .value = Blokeit
-permissions-capabilities-listitem-allow-first-party =
-    .value = Atļaut tikai pyrmajam olūtam
 permissions-capabilities-listitem-allow-session =
     .value = Atļaut iz itū seseju
 
@@ -57,11 +69,6 @@ permissions-invalid-uri-title = Īvadeits nadereigs resursdatora nūsaukums
 permissions-invalid-uri-label = Lyudzu, īvodit dereigu resursdatora nūsaukumu
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = Exceptions - Tracking Protection
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = You have disabled Tracking Protection on these websites.
 
 ## Exceptions - Cookies
 
@@ -98,6 +105,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Tu vari nūrōdēt, kurom lopom vysod atļauts voi nikod nav atļauts automatiski atskaņōt multimedejas. Īroksti precizu lopys adresi, nu kurōs gribi atļaut un damīdz Atļaut voi Aizlīgt.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -117,6 +126,8 @@ permissions-site-location-desc = Itōs lopys ir pīprasejušas pīeji tova acara
 permissions-site-location-disable-label =
     .label = Bloķēt nōkutnes pīprasejumus pīkļiut tovai acarošonas vītai
 permissions-site-location-disable-desc = Tys aizlīgs vyskurom lopom, kuras nav uzskaiteitas zamōk, pīpraseit atļauju pīkļiut tovai acarašonas vītai. Bloķiešona pīejai acarašonas vītai var samaitōt daļi nu lopys funkcionalitates.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

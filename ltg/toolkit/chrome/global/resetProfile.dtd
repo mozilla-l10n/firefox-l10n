@@ -3,13 +3,5 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "Refresh &brandShortName;">
-<!ENTITY refreshProfile.dialog.description1  "Start fresh to fix problems and restore performance.">
-<!ENTITY refreshProfile.dialog.description2  "Itys:">
-<!ENTITY refreshProfile.dialog.items.label1  "Aizvuoks jiusu papyldynuojums i pīlāguojumus">
-<!ENTITY refreshProfile.dialog.items.label2  "Restore your browser settings to their defaults">
-<!ENTITY refreshProfile.dialog.button.label  "Atjaunōt &brandShortName;">
-
-<!ENTITY refreshProfile.title                "Uzloboj &brandShortName;">
-<!ENTITY refreshProfile.button.label         "Atjaunōt &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Gondreiž gotovs…">

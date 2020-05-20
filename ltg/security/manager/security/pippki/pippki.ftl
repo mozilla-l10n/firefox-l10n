@@ -8,6 +8,7 @@ password-quality-meter = Paroles kvalitates mierietuojs
 
 change-password-window =
     .title = Maineit golvonū paroli
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Drūseibys īrīce: { $tokenName }

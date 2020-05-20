@@ -42,7 +42,7 @@
                                            &brandShortName; will try again by downloading a complete Update.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; navar nūteikt voi ir pīejams tei atjaunynuojums. Lyudzu puorsalīcinojit, ka jiusim ir jaunuokuo &brandShortName; verseja nu:">
-
+                                           
 <!ENTITY  finishedPage.title              "Atjaunynuojumi ir gotovi uzstuodeišonai">
 <!ENTITY  finishedPage.text               "Atjaunynuojumi tiks uzstuodeiti nuokamū reizi, kod &brandShortName; tiks palaists. Jius varot puorstarteit &brandShortName; tiuleņ voi ari turpynuot struoduot i izdareit tū vāluok.">
 
@@ -55,6 +55,3 @@
                                            &brandShortName; now, continue working and restart later, or decline this
                                            update.">
 
-<!ENTITY  update.details.label            "Seikuoka informaceja">
-<!ENTITY  update.installedOn.label        "Uzinstaleits:">
-<!ENTITY  update.status.label             "Statuss:">

@@ -7,7 +7,9 @@ about-config-warning-title = Te dzeivoj pūķi!
 about-config-warning-text = Itū īstatejumu izmaineišona var pazamynōt lītōtnes stabilitāti, drūšeibu un ōtrdarbeibu. Turpynoj viņ tod, ja saprūti, kū dori.
 about-config-warning-checkbox = Atgōdynōt ari iz prīkšdīnom!
 about-config-warning-button = Es pīkreitu riskam
+
 about-config2-title = Paplašinōta īstateišona
+
 about-config-search-input =
     .placeholder = Mekleit
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Pījimt riskus un turpynōt
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Pamainūt itūs īstatejumus var īspaidōt { -brand-short-name } ōtrdarbeibu voi drūšeibu.
+
 about-config-page-title = Paplašinōti īstatejumi
+
 about-config-search-input1 =
     .placeholder = Mekleit īstatiejuma nūsaukumu
 about-config-show-all = Parōdeit vysus
+
 about-config-pref-add = Pīvīnōt
 about-config-pref-toggle = Porslēgt
 about-config-pref-edit = Redigeit
 about-config-pref-save = Saglobōt
 about-config-pref-reset = Atstateit
 about-config-pref-delete = Dzēst
+
 about-config-pref-add-button =
     .title = Pīvīnōt
 about-config-pref-toggle-button =

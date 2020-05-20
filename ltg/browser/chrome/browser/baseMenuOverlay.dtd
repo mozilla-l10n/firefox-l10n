@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Paleidzeiba"> 
 <!ENTITY helpMenuWin.accesskey    "P">
+
 <!ENTITY aboutProduct2.label      "Par &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "a">
 <!ENTITY productHelp2.label       "&brandShorterName; paleidzeiba">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "r">
 <!ENTITY helpSafeMode.stop.label       "Puorstarteit ar deaktiveitim papyldynuojumym">
 <!ENTITY helpSafeMode.stop.accesskey   "r">
-
-<!ENTITY healthReport2.label      "&brandShorterName; stuovūkļa ziņuojums">
-<!ENTITY healthReport2.accesskey  "t">
 
 <!ENTITY helpTroubleshootingInfo.label      "Problemu nūvieršonys informaceja">
 <!ENTITY helpTroubleshootingInfo.accesskey  "P">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Paruodeit vysus">
+

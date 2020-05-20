@@ -6,23 +6,15 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Atsarasšona vīta:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "v">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Barūtnes atsarasšona vīta:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "B">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Lopys atsarasšona vīta:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Mape:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Ruodeit vysys gruomotzeimju mapes">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Paslēpt">
 <!ENTITY editBookmarkOverlay.tags.label                      "Birkys:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "B">
 <!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "Atdolit birkys ar komatym">
-<!ENTITY editBookmarkOverlay.description.label               "Aproksts:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "A">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Atslāgvuords:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "A">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ruodeit vysys birkys">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Īluodeit itū gruomotzeimi suonu juslā">
-<!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "o">
 <!ENTITY editBookmarkOverlay.choose.label                    "Izavielit…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Jauns mape">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "m">

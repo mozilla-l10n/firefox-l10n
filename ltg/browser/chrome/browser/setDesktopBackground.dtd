@@ -8,7 +8,6 @@
 <!ENTITY stretch.label              "Izstīpts">
 <!ENTITY fill.label                 "Aizpyldūšs">
 <!ENTITY fit.label                  "Ītylpstūšs">
-<!ENTITY preview.label              "Prīkšskatejums">
 <!ENTITY color.label                "Kruosa:">
 <!ENTITY setDesktopBackground.title "Uzlikt dorbviersmys fonu">
 <!ENTITY openDesktopPrefs.label     "Attaiseit dorbviersmys īstatiejumus">

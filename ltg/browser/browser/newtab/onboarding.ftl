@@ -18,20 +18,24 @@ onboarding-button-label-get-started = Ar kū sōkt
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = Vasals { -brand-short-name }
+
 onboarding-start-browsing-button-label = Sōkt porlyukōšonu
+
 onboarding-cards-dismiss =
     .title = Paslēpt
     .aria-label = Paslēpt
+
+## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Pajam { -brand-product-name } sev leidza
 onboarding-sync-welcome-content = Lītoj grōmotzeimes, viesturi, paroles un cytus īstatejumus vysōs sovōs īreicēs.
 onboarding-sync-welcome-learn-more-link = Vaira par Firefox kontim
-onboarding-sync-form-invalid-input = Napīcīšams dereigs e-posts
-onboarding-sync-legal-notice = Turpynojut tu pīkreiti <a data-l10n-name="terms">Lītōšonys nūsacejumi</a> un <a data-l10n-name="privacy">Privatuma pīzeime</a>.
+
 onboarding-sync-form-input =
     .placeholder = E-posts
+
 onboarding-sync-form-continue-button = Turpynōt
 onboarding-sync-form-skip-login-button = Izlaist itū sūli
 
@@ -39,6 +43,7 @@ onboarding-sync-form-skip-login-button = Izlaist itū sūli
 
 onboarding-sync-form-header = Īvodi sova e-posta adresi
 onboarding-sync-form-sub-header = kab turpynōt { -sync-brand-name }
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -53,19 +58,25 @@ onboarding-sync-form-sub-header = kab turpynōt { -sync-brand-name }
 
 onboarding-private-browsing-title = Privātō porlyukōšona
 onboarding-private-browsing-text = Porlyukoj privāti. Privātō porlyukōšona ar satura bloķiešonu bloķej interneta izsekōtōjus.
+
 onboarding-screenshots-title = Ekranšōvīni
 onboarding-screenshots-text = Taisi, sagloboj un dolīs ar ekranšōvīnim naizejut nu { -brand-short-name }. Atlosi lopys apgobolu ci vysu lūgu. Sagloboj tūs vīglōkai pīkļuvei un kūplītōšonai.
+
 onboarding-addons-title = Papyldynōjumi
 onboarding-addons-text = Papyldynoj { -brand-short-name } ar vysaidom papyldu funkcejom, kab apmīrinōtu sovas vajadzeibas. Saleidzynoj cenas, uzzynoj laika ziņas voj maini porlyuka izskotu pec sovas gaumes.
+
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Porlyukoj škārsteiklu mudrōk, gudrōk un drūšōk ar taidym papyldynojumim kai Ghostery, kas bloķej apniceigū reklamu.
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinhronizēt
 onboarding-fxa-text = Pīzaroksti ar { -fxaccount-brand-name } un sinhronizej grōmotzeimes, paroles un attaisi cilnes vysur, kur izmontoj { -brand-short-name }.
 
+
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Breineigi, tu uzinstalieji { -brand-short-name }
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:

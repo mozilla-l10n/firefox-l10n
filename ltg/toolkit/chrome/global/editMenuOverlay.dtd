@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Īzeimeit vysu">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "v">
+
 <!ENTITY findCmd.label             "Mekleit">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "M">

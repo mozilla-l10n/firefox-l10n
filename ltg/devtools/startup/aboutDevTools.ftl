@@ -13,6 +13,7 @@ enable-common-message = Pec nūklusejuma izstrōdōtōju reiki ir izslāgti, kab
 enable-learn-more-link = Uzzynōt vaira par izstrōdōtōju reikim
 enable-enable-button = Īslēgt izstrōdōtōju reikus
 enable-close-button = Aiztaisēt itū cilni
+
 welcome-title = Vasals Firefox izstrōdōtōju reikūs!
 newsletter-title = Mozilla izstrōdōtōju teikls
 newsletter-message = Sajam izstrōdōtōju ziņas, padūmus un vysaidas nūdereigas lītys sovā posta kastī.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Asu ar mīru, ka jius apstrōdōjit itū informaciji 
 newsletter-subscribe-button = Pīraksteitīs
 newsletter-thanks-title = Paļdis!
 newsletter-thanks-message = Ja naesi īprīkš apstiptinōjs pīzarakstiešonu uz Mozilla jaunumim, tev tys byus jōdora tagad. Lyudzu porbaudi sovu posta kasti, surogatposta filtrus un māstuļu mapi.
+
 footer-title = Firefox Developer Edition
 footer-message = Vaicoj vairōk kai izstrōdōtōju reikus? Pasaver Firefox verseji, kura byuveita deļ izstrōdōtōjim un myusu dīnu dorba procesim.
 footer-learn-more-link = Vaira
+
 features-learn-more = Vaira
 features-inspector-title = Inspector
 features-inspector-desc = Porskoti un pīloboj kodu, kab izveidōtu perfektu lopys dizainu. <a data-l10n-name="learn-more">{ features-learn-more }</a>

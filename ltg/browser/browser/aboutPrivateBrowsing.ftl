@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Uzzinit vairuok par <a data-l10n-name="learn-more">Privatuo puorlūkuošona</a>.
 about-private-browsing-info-visited = apmaklātuos lopys
+
 privatebrowsingpage-open-private-window-label = Attaiseit privatū lūgu
     .accesskey = p
 about-private-browsing-info-notsaved = Kod porlyukoj privatajā lūgā, { -brand-short-name } <strong>nasagloboj</strong>:
@@ -26,3 +27,4 @@ about-private-browsing-not-private = Itūbreid jius naasot privatajā lūgā.
 content-blocking-title = Satura bloķiešona
 content-blocking-description = Dažys lopys izmontoj izsekōtōjus, kuri var izsekōt tovu aktivitati internetā. Privatajūs lūgūs, { -brand-short-name } satura bliķietōjs automatiski bloķēs daudzus nu sekōtōjiem, kuri vōc informaciji par tovom aktivitatem internetā.
 about-private-browsing-info-description = { -brand-short-name } nūteirej mekliešonys uz porlyukōšonys viesturi, kod tu aiztaisi vysas privatōs porlyukōšonys cilnes un lūgus. Tys napadora tevi anonimu škārsteikla lopom voi pakolpojumu snīdzējam, bet apsliep darbeibas nu cytim itō datora lītōtōjim.
+

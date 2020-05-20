@@ -1,100 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY addons.windowTitle                   "Papyldynuojumu puorvaļdnīks">
 
-<!ENTITY search.placeholder                   "Mekleit papyldynuojums">
-
-<!ENTITY search.placeholder2                  "Mekleit addons.mozilla.org">
-<!ENTITY search.buttonlabel                   "Mekliešona">
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "f">
-
-<!ENTITY loading.label                        "Īluodej…">
-<!ENTITY listEmpty.installed.label            "Jiusim nav uzinstaleits nivīns itei tipa atjaunynuojums">
-<!ENTITY listEmpty.availableUpdates.label     "Atjaunynuojumi nav atrosti">
-<!ENTITY listEmpty.recentUpdates.label        "Pādejuo laikā nivīns papyldynuojums nav atjaunynuots">
-<!ENTITY listEmpty.findUpdates.label          "Mekleit atjaunynuojumus">
-<!ENTITY listEmpty.search.label               "Navar atrast nivīnu atbiļstūšu papyldynuojumu">
-<!ENTITY listEmpty.button.label               "Uzzinit vairuok par papyldynuojumym">
-<!ENTITY installAddonFromFile.label           "Instaleit nu faila…">
-<!ENTITY installAddonFromFile.accesskey       "I">
-<!ENTITY toolsMenu.tooltip                    "Vysu papyldynuojumu reiki">
-
-<!ENTITY getThemes.description                "Looking to personalize your browser?">
-<!ENTITY getThemes.learnMore                  "Izavielit kaidu nu tyukstušym temu.">
-
-
-<!ENTITY showUnsignedExtensions.button.label  "Dažus papyldynuojums navar puorbaudeit">
-<!ENTITY showAllExtensions.button.label       "Ruodeit vysus papyldynuojums">
-<!ENTITY debugAddons.label                    "Atklaiduot papyldynuojums">
-<!ENTITY debugAddons.accesskey                "d">
-
-<!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Drūsais režyms ir deaktiviejs vysus papyldynuojumu.">
-<!ENTITY warning.checkcompatibility.label          "Papyldynuojumu savītuojameibys puorbaude ir deaktiveita. Īspiejams jiusim ir nasavītuojami papyldynuojumu.">
-<!ENTITY warning.checkcompatibility.enable.label   "Aktivēt">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Aktivēt papyldynuojumu savītuojameibys puorbaudi">
-<!ENTITY warning.updatesecurity.label              "Papyldynuojumu drūseibys puorbaude ir deaktiveita. Īspiejams jiusim ir nadrūsi papyldynuojumu.">
-<!ENTITY warning.updatesecurity.enable.label       "Aktivēt">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Aktivēt papyldynuojumu drūseibys puorbaudi">
-
-<!-- categories / views -->
-<!ENTITY view.search.label                    "Mekliešona">
-<!ENTITY view.discover.label                  "Īgiut papyldynuojums">
-<!ENTITY view.recentUpdates.label             "Nasenī atjaunynuojumi">
-<!ENTITY view.availableUpdates.label          "Pīejamī atjaunynuojumi">
-
-<!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Mekleit atjaunynuojumus">
-<!ENTITY updates.checkForUpdates.accesskey    "M">
-<!ENTITY updates.viewUpdates.label            "Apsavērt nasenūs atjaunynuojumus">
-<!ENTITY updates.viewUpdates.accesskey        "n">
-<!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
-     is a checkbox that toggles the default global behavior for add-on update
-     checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Atjaunynuot papyldynuojums automatiski">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
-<!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
-     Specific addons can have custom update checking behaviors ("Manually",
-     "Automatically", "Use default global behavior"). These menu items reset the
-     update checking behavior for all add-ons to the default global behavior
-     (which itself is either "Automatically" or "Manually", controlled by the
-     updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Atjaunynuot vysus papyldynuojums automatiski">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "l">
-<!ENTITY updates.resetUpdatesToManual.label          "Atjaunynuot vysus papyldynuojums manuali">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "m">
-<!ENTITY updates.updating.label               "Atjaunynoj papyldynuojums">
-<!ENTITY updates.installed.label              "Jiusu papyldynuojumi ir atjaunynuoti.">
-<!ENTITY updates.downloaded.label             "Jiusu papyldynuojumu atjaunynuojumi ir lejupīluodeiti.">
-<!ENTITY updates.restart.label                "Puorstartejit, kab pabeigtu atjaunynuošonu">
-<!ENTITY updates.noneFound.label              "Atjaunynuojumi nav atrosti">
-<!ENTITY updates.manualUpdatesFound.label     "Apsavērt pīejamūs atjaunynuojumus">
-<!ENTITY updates.updateSelected.label         "Instaleit atjaunynuojumus">
-<!ENTITY updates.updateSelected.tooltip       "Instaleit vysus itymā sarokstā pīejamūs atjaunynuojumus">
-
-<!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "Ruodeit papyldus informaceju">
-<!ENTITY cmd.showDetails.accesskey            "p">
-<!ENTITY cmd.findUpdates.label                "Mekleit atjaunynuojumus">
-<!ENTITY cmd.findUpdates.accesskey            "M">
-<!ENTITY cmd.preferencesWin.label             "Īstatiejumi">
-<!ENTITY cmd.preferencesWin.accesskey         "Ī">
-<!ENTITY cmd.preferencesUnix.label            "Īstatiejumi">
-<!ENTITY cmd.preferencesUnix.accesskey        "Ī">
-<!ENTITY cmd.about.label                      "Par itū papyldynuojumu">
-<!ENTITY cmd.about.accesskey                  "P">
 
 <!ENTITY cmd.enableAddon.label                "Īslēgt">
 <!ENTITY cmd.enableAddon.accesskey            "Ī">
 <!ENTITY cmd.disableAddon.label               "Atslēgt">
 <!ENTITY cmd.disableAddon.accesskey           "t">
-<!ENTITY cmd.enableTheme.label                "Izmantuot itū temu">
-<!ENTITY cmd.enableTheme.accesskey            "I">
-<!ENTITY cmd.disableTheme.label               "Naizmantuot itū temu">
-<!ENTITY cmd.disableTheme.accesskey           "N">
+
 <!ENTITY cmd.askToActivate.label              "Vaicuot, kab aktivātu">
 <!ENTITY cmd.askToActivate.tooltip            "Vaicuot kotru reizi pyrms itei papyldynuojuma izmontuošonys">
 <!ENTITY cmd.alwaysActivate.label             "Aktivēt vīnmār">
@@ -102,17 +15,13 @@
 <!ENTITY cmd.neverActivate.label              "Nikod naaktiveit">
 <!ENTITY cmd.neverActivate.tooltip            "Nikod naizmantuot itū papyldynuojumu">
 <!ENTITY cmd.stateMenu.tooltip                "Nūsokit, kod tiks izmontuots papyldynuojums">
-<!ENTITY cmd.installAddon.label               "Instaleit">
-<!ENTITY cmd.installAddon.accesskey           "I">
+
 <!ENTITY cmd.uninstallAddon.label             "Nūjimt">
 <!ENTITY cmd.uninstallAddon.accesskey         "N">
 <!ENTITY cmd.showPreferencesWin.label         "Īstatiejumi">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Izmaineit itei papyldynuojuma īstatiejumus">
 <!ENTITY cmd.showPreferencesUnix.label        "Īstatiejumi">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Izmaineit itei papyldynuojuma īstatiejumus">
-<!ENTITY cmd.contribute.label                 "Pabaļsteit">
-<!ENTITY cmd.contribute.accesskey             "P">
-<!ENTITY cmd.contribute.tooltip               "Pabaļsteit itei papyldynuojuma izstruodi">
 
 <!ENTITY cmd.showReleaseNotes.label           "Paruodeit laidīņa pīzeimes">
 <!ENTITY cmd.showReleaseNotes.tooltip         "Paruodeit itei atjaunynuojuma laidīņa pīzeimes">
@@ -121,68 +30,11 @@
 <!ENTITY cmd.findReplacement.label            "Find a Replacement">
 
 <!-- discovery view -->
-<!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
-     Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-<!ENTITY discover.title                       "Kas ir papyldynuojumi?">
-<!ENTITY discover.description2                "Papyldynuojumi ir mozys programenis, kas ļauj jiusim papyldynuot &brandShortName; ar papyldus funkcionalitati voi stilu. Izmieginojit laiku ītaupūšū suonu jūslu, laika ziņu programeņu voi pīlāguotu &brandShortName; izskotu, kab padareitu sovu &brandShortName; unikalu.">
-<!ENTITY discover.footer                      "Kod asot savīnuoti ar šķārsteiklu, itymā lūgā byus radzami popularuokī i lobuokī papyldynuojumi, kas pīejami jiusu izmieginuošonai.">
-
-<!-- detail view -->
-<!ENTITY detail.version.label                 "Verseja">
-<!ENTITY detail.lastupdated.label             "Piedejū reizi atjaunynuots">
-<!ENTITY detail.creator.label                 "Izstruoduotuojs">
-<!ENTITY detail.homepage.label                "Sātys lopa">
-<!ENTITY detail.numberOfDownloads.label       "Lejupīluožu skaits">
-
-<!ENTITY detail.contributions.description     "Itei papyldynuojuma autors lyudz jius pabaļsteit izstruodi ar nalelu zīduojumu.">
-
-<!ENTITY detail.updateType                    "Automatiska atjaunynuošona">
-<!ENTITY detail.updateDefault.label           "Nūkluseituo vierteiba">
-<!ENTITY detail.updateDefault.tooltip         "Automatiski instaleit atjaunynuojumus vīneigi, nui tei ir nūkluseituo vierteiba">
-<!ENTITY detail.updateAutomatic.label         "Īslāgta">
-<!ENTITY detail.updateAutomatic.tooltip       "Instaleit atjaunynuojumus automatiski">
-<!ENTITY detail.updateManual.label            "Izslāgta">
-<!ENTITY detail.updateManual.tooltip          "Nainstaleit atjaunynuojumus automatiski">
-<!ENTITY detail.home                          "Sātys lopa">
-<!ENTITY detail.repository                    "Papyldynuojuma profils">
-<!ENTITY detail.size                          "Izmārs">
-
-<!ENTITY detail.checkForUpdates.label         "Mekleit atjaunynuojumus">
-<!ENTITY detail.checkForUpdates.accesskey     "M">
-<!ENTITY detail.checkForUpdates.tooltip       "Mekleit atjaunynuojumus itam papyldynuojumam">
-<!ENTITY detail.showPreferencesWin.label      "Īstatiejumi">
-<!ENTITY detail.showPreferencesWin.accesskey  "Ī">
-<!ENTITY detail.showPreferencesWin.tooltip    "Izmaineit itei papyldynuojuma īstatiejumus">
-<!ENTITY detail.showPreferencesUnix.label     "Īstatiejumi">
-<!ENTITY detail.showPreferencesUnix.accesskey "Ī">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Izmaineit itei papyldynuojuma īstatiejumus">
 
 
-<!-- ratings -->
-<!ENTITY rating2.label                        "Viertiejums">
-
-<!-- download/install progress -->
-<!ENTITY progress.pause.tooltip               "Apturēt">
 <!ENTITY progress.cancel.tooltip              "Atceļt">
 
 
-<!-- list sorting -->
-<!ENTITY sort.name.label                      "Nūsaukums">
-<!ENTITY sort.name.tooltip                    "Kuortuot piec nūsaukuma">
-<!ENTITY sort.dateUpdated.label               "Atjaunynuots">
-<!ENTITY sort.dateUpdated.tooltip             "Kuortuot piec atjaunynuošonys datuma">
-<!ENTITY sort.relevance.label                 "Lobuokais rezultats">
-<!ENTITY sort.relevance.tooltip               "Kuortuot piec atbiļsteibys">
-<!ENTITY sort.price.label                     "Cena">
-<!ENTITY sort.price.tooltip                   "Kuortuot piec cenys">
-
-<!ENTITY search.filter2.label                 "Ruodeit:">
-<!ENTITY search.filter2.installed.label       "Munus papyldynuojums">
-<!ENTITY search.filter2.installed.tooltip     "Ruodeit instaleitūs papyldynuojums">
-<!ENTITY search.filter2.available.label       "Pīejamūs papyldynuojums">
-<!ENTITY search.filter2.available.tooltip     "Ruodeit instaliešonai pīejamūs papyldynuojums">
-
-<!ENTITY addon.homepage                       "Sātys lopa">
 <!ENTITY addon.details.label                  "Vairuok">
 <!ENTITY addon.details.tooltip                "Ruodeit vairuok informacejis par itū papyldynuojumu">
 <!ENTITY addon.unknownDate                    "Nazynuoms">
@@ -203,7 +55,7 @@
 <!ENTITY addon.undoAction.tooltip             "Atceļt itū darbeibu">
 <!ENTITY addon.undoRemove.label               "Atceļt">
 <!ENTITY addon.undoRemove.tooltip             "Saglobuot itū papyldynuojumu">
-<!ENTITY addon.restartNow.label               "Puorstarteit">
+
 <!ENTITY addon.install.label                  "Instaleit">
 <!ENTITY addon.install.tooltip                "Instaleit itū papyldynuojumu">
 <!ENTITY addon.updateNow.label                "Atjaunynuot">
@@ -217,45 +69,7 @@
 
 <!ENTITY addon.createdBy.label                "Autors: ">
 
-<!ENTITY eula.title                           "Produkta lītuošonys nūsaciejumi">
-<!ENTITY eula.width                           "560px">
-<!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "Pījemt i instaleit…">
-
 <!ENTITY settings.path.button.label           "Puorsavērt…">
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.label "What’s this? Telemetry may install and run experiments from time to time.">
-<!ENTITY experiment.info.learnmore "Uzzynojit vairuok">
-<!ENTITY experiment.info.learnmore.accesskey "U">
-<!ENTITY experiment.info.changetelemetry "Telemetrejis īstatiejumi">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Uzzynojit vairuok…">
 
-<!ENTITY disabledUnsigned.heading "Daži papyldynuojumi ir deakticeiti">
-<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
-     These entities form a sentence, with
-     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Itūs papyldynuojums navar puorbaudeit izmontuošonai ar &brandShortName;. Jius varot ">
-<!ENTITY disabledUnsigned.description.findAddonsLink "find replacements">
-<!ENTITY disabledUnsigned.description.end " or ask the developer to get them verified.">
-<!ENTITY disabledUnsigned.learnMore "Learn more about our efforts to help keep you safe online.">
-<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
-     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
-     being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Developers interested in getting their add-ons verified can continue by reading our ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "pamuoceibu">
-<!ENTITY disabledUnsigned.devInfo.end ".">
-
-<!ENTITY pluginDeprecation.description "Koč kas pītryukst? Dažus spraudņus &brandShortName; vairs naatbolsta.">
-<!ENTITY pluginDeprecation.learnMore "Uzzynojit vairuok.">
-
-<!ENTITY legacyWarning.showLegacy "Show legacy extensions">
-<!ENTITY legacyExtensions.title "Legacy Extensions">
-<!ENTITY legacyExtensions.description "These extensions do not meet current &brandShortName; standards so they have been deactivated.">
-<!ENTITY legacyExtensions.learnMore "Learn about the changes to add-ons">

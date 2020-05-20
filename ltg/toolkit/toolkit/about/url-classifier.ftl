@@ -30,6 +30,7 @@ url-classifier-debug-sb-modules = Safe Browsing log modules
 url-classifier-debug-modules = Pošreizejais registracejis moduls
 url-classifier-debug-sbjs-modules = Drūsūs puorlūkuošonys JS īrkosti
 url-classifier-debug-file = Pošreizejais registracejis fails
+
 url-classifier-trigger-update = Izsaukt atjaunynuošonu
 url-classifier-not-available = N/P
 url-classifier-disable-sbjs-log = Disable Safe Browsing JS Log

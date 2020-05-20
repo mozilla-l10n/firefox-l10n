@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Aiztaiseit
     .accesskey = z
+
 show-passwords =
     .label = Ruodeit paroles
     .accesskey = P

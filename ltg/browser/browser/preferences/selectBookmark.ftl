@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Izavielit suokuma lopu
     .style = width: 32em;
+
 select-bookmark-desc = Izavielit gruomotzeimi, kas byus jiusu suokuma lopa. Izavālūt mapi, tuos gruomotzeimes tiks attaiseitys cilnēs.

@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Nūtykusi klaida sasavīnojūtīs ar { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Klaidas kods: { $error }
+
 psmerr-ssl-disabled = Navar drūsais pīsasliegt, kam SSL protokols ir deaktiveits.
 psmerr-ssl2-disabled = Navar drūsais pīsasliegt, kam lopa izmontoj vacuoku, nadrūsu SSL protokola verseju.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ir sajimts nadereigs sertifikats.  Lyudzu sasazynojit ar servera administratoru voi sovu eposta sarakstes bīdru i nūdūdit jam sekūjūšu informaceju:
     
     Jiusu sertifikata numurs sakreit ar kaida cyta sertifikata serejis numuru, kū izdevusi itei sertifikatu autoritate. Lyudzu īgiustit jaunu sertifikatu ar unikalu serejis numuru.
+
 ssl-error-export-only-server = Navar sasazynuot drūsais.  Komunikacejis partneris naatbolsta augstys raudzes šifriešonu.
 ssl-error-us-only-server = Navar sasazynuot drūsais.  Komunikacejis partneris pīprosa augstys raudzes šifriešonu, kas nav pīejama.
 ssl-error-no-cypher-overlap = Navar sasazynuot drūsais ar komunikacejis partneri : nav kūpeigu šifriešonys algoritmu.

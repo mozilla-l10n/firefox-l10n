@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Eiss viersroksts"> 
 <!ENTITY message.label    "Ite ir vīta paraugtekstam.">
+
 <!ENTITY editfield0.label "Lītuotuojvuords:"> 
 <!ENTITY editfield1.label "Parole:"> 
-<!ENTITY checkbox.label   "atzeime">
+<!ENTITY checkbox.label   "atzeime"> 
 <!ENTITY copyCmd.label    "Kopēt">
 <!ENTITY copyCmd.accesskey "K">
 <!ENTITY selectAllCmd.label "Īzeimeit vysu">

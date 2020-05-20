@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Par &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; ir eksperimentals produkts i var byut nastabils.">
-<!ENTITY aboutPage.telemetryStart               " Informaceja par veiktspieju, aparaturu i izmontuotajim pīlāguojumym tīk automatiski nūsyuteita ">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;,">
-<!ENTITY aboutPage.telemetryEnd                 " kab paleidzeitu uzlobuot &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Puorbaudeit atjaunynuojumus »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Meklej atjaunynuojumus…">
 <!ENTITY aboutPage.checkForUpdates.none         "Nav jaunu atjaunynuojumu">

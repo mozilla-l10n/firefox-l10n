@@ -12,14 +12,12 @@ login-app-promo-android =
     .alt = Nūlōdej nu Google Play
 login-app-promo-apple =
     .alt = Nūlōdej nu App Store
+
 login-filter =
     .placeholder = Mekleit pīejis datus
+
 create-login-button = Izveidōt jaunu pīeju
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon deļ { $title }
+
 fxaccounts-sign-in-text = Daboj pīeju sovom parolem iz cytom īreicem
 fxaccounts-sign-in-button = Īzalūgōt { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -29,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Attaiseit izvielni
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importēt paroles
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Īstatiejumi
@@ -52,7 +48,6 @@ login-list-count =
     }
 login-list-sort-label-text = Sakōrtōt pec:
 login-list-name-option = Vōrds (A-Z)
-login-list-breached-option = Uzlauztys lopys
 login-list-last-changed-option = Pec jaunōkōm izmaiņom
 login-list-last-used-option = Naseņōk lītōtys
 login-list-intro-title = Nav atrosti pīejis dati
@@ -62,9 +57,6 @@ about-logins-login-list-empty-search-description = Pec tova mekliešonys pīpras
 login-list-item-title-new-login = Jauna pīsazaceišona
 login-list-item-subtitle-new-login = Īvodi sovus lītōtōja datus
 login-list-item-subtitle-missing-username = (nav lītōtōja vōrda)
-about-logins-list-item-warning-icon =
-    .alt = Breidynojuma ikona
-    .title = Uzlauztō lopa
 about-logins-list-item-breach-icon =
     .title = Uzlauztō lopa
 
@@ -80,7 +72,6 @@ about-logins-intro-instruction-help = Ej iz <a data-l10n-name="help-link">{ -loc
 
 login-item-new-login-title = Izveidōt jaunu lītōtōji
 login-item-edit-button = Redigeit
-login-item-delete-button = Dzēst
 login-item-origin-label = Lopys adrese
 login-item-origin =
     .placeholder = https://www.example.com
@@ -90,10 +81,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Kopēt
 login-item-copied-username-button-text = Nūkopeits!
 login-item-password-label = Parole
-login-item-password-reveal-checkbox-show =
-    .title = Rōdeit paroli
-login-item-password-reveal-checkbox-hide =
-    .title = Slēpt paroli
 login-item-copy-password-button-text = Kopēt
 login-item-copied-password-button-text = Nūkopeits!
 login-item-save-changes-button = Saglobōt izmaiņis
@@ -103,6 +90,12 @@ login-item-time-changed = Pādejōs izmaiņas: { DATETIME($timeChanged, day: "nu
 login-item-time-created = Izveidōts: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Lītots pādejū reizi: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-notification-message = Lyudzu, īvodi sovu golvanū paroli, kab radzēt saglobōtūs pīejas datus
@@ -110,11 +103,8 @@ master-password-reload-button =
     .label = Pīsazaceit
     .accesskey = P
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Atceļt
-confirmation-dialog-dismiss-button =
-    .title = Atceļt
 enable-password-sync-notification-message =
     { PLATFORM() ->
         [windows] Gribi tikt pi pīejas datim vysur, kur lītoj { -brand-product-name }? Ej iz { -sync-brand-short-name } īstatejumim un atzeimej ķeksi pi Lītōtōjvōrdim.
@@ -127,9 +117,15 @@ enable-password-sync-preferences-button =
            *[other] Īt uz { -sync-brand-short-name } īstatiejumim
         }
     .accesskey = t
-confirm-delete-dialog-title = Dzēst itūs pīejas datus?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Atceļt
+confirmation-dialog-dismiss-button =
+    .title = Atceļt
+
 confirm-delete-dialog-message = Itei ir naatgrīzeniska darbeiba.
-confirm-delete-dialog-confirm-button = Dzēst
+
 confirm-discard-changes-dialog-title = Atmest nasaglobōtōs izmaiņis?
 confirm-discard-changes-dialog-message = Vysas nasaglobōtōs izmaiņas pagaiss.
 confirm-discard-changes-dialog-confirm-button = Atmest
@@ -137,16 +133,10 @@ confirm-discard-changes-dialog-confirm-button = Atmest
 ## Breach Alert notification
 
 breach-alert-text = Nu tōs teizes, kod beji itymā lopā pādejū reizi, ir nūtykuse datu zagšona. Izmaini sovu paroli, kab pasorgōt sovu kontu.
-breach-alert-link = Uzzynōt vaira par itū nūplyudi.
-breach-alert-dismiss =
-    .title = Aiztaisēt itū paziņojumu
+
+## Vulnerable Password notification
 
 ## Error Messages
 
-# This is an error message that appears when a user attempts to save
-# a new login that is identical to an existing saved login.
-# Variables:
-#   $loginTitle (String) - The title of the website associated with the login.
-about-logins-error-message-duplicate-login = Lītōtōjs { $loginTitle } lopā ar itaidu vōrdu jau ir.
 # This is a generic error message.
 about-logins-error-message-default = Raugūt saglobōt paroli, nūtykuse klaida.

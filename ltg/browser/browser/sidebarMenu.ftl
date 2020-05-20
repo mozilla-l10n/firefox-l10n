@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Gruomotzeimes
+
 sidebar-menu-history =
     .label = Viesture
+
 sidebar-menu-synced-tabs =
     .label = Sinhronizeituos cilnes
+
 sidebar-menu-close =
     .label = Aiztaiseit suonu jūslu

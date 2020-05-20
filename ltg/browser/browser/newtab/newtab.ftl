@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Mekleit
     .aria-label = Mekleit
+
 newtab-search-box-search-the-web-text = Mekleit teiklā
 newtab-search-box-search-the-web-input =
     .placeholder = Mekleit teiklā
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Maineit lopu topā
 newtab-topsites-title-label = Viersroksts
 newtab-topsites-title-input =
     .placeholder = Īvodi viersrokstu
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Īroksti voi īleimej lopas URL
 newtab-topsites-url-validation = Napīcīšams korekts URL
+
 newtab-topsites-image-url-label = Jebkaidys biļdis URL
 newtab-topsites-use-image-link = Izmontōt cytu biļdi…
 newtab-topsites-image-validation = Naizadeve īlōdēt biļdi. Paraugi cytu URL.
@@ -60,6 +63,7 @@ newtab-confirm-delete-history-p2 = Itei ir naatgrīzeniska darbeiba.
 newtab-menu-section-tooltip =
     .title = Attaiseit izvielni
     .aria-label = Attaiseit izvielni
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -83,6 +87,11 @@ newtab-menu-delete-history = Nūteireit nu viestures
 newtab-menu-save-to-pocket = Saglobōt { -pocket-brand-name }
 newtab-menu-delete-pocket = Dzēst nu { -pocket-brand-name }
 newtab-menu-archive-pocket = Arhivēt { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Izjimt grōmotzeimi
 # Bookmark is a verb here.
@@ -157,10 +166,12 @@ newtab-section-header-pocket = { $provider } īsaceitōs
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Sōc porlyukōšonu un mes tev parōdēsim dažus breineigus rokstus, video un cytys lopys, kuras tu naseņ esi skatiejs voi davīnōjs grōmotzeimem.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Esi vysu izlasiejs. Īej vāļōk, kab redzēt vaira ziņu nu { $provider }. Nagribi gaidēt? Izavielej popularu tēmu, kab atrostu vaira interesantu rokstu nu vysa interneta.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -176,7 +187,6 @@ newtab-discovery-empty-section-topstories-timed-out = Malns! Mes gondreiž īlō
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Popularas tēmas:
 newtab-pocket-more-recommendations = Vaira īsacejumu
-newtab-pocket-how-it-works = Kai tys strōdoj
 newtab-pocket-cta-button = Paraugi { -pocket-brand-name }
 newtab-pocket-cta-text = Sagloboj interesantus stōstus { -pocket-brand-name } un paboroj sovu prōtu ar interesantu losamvīlu.
 

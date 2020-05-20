@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Es apsazynoju risku!
 config-about-warning-checkbox =
     .label = Nuokamreiz ruodeit itū breidynuojumu
+
 config-search-prefs =
     .value = Mekleit:
     .accesskey = l
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopēt
     .accesskey = K
+
 config-copy-name =
     .label = Kopēt nūsaukumu
     .accesskey = n
+
 config-copy-value =
     .label = Kopēt vierteibu
     .accesskey = v
+
 config-modify =
     .label = Maineit
     .accesskey = M
+
 config-toggle =
     .label = Puorslēgt
     .accesskey = t
+
 config-reset =
     .label = Atstateit
     .accesskey = A
+
 config-new =
     .label = Jauns
     .accesskey = n
+
 config-string =
     .label = Teksts
     .accesskey = s
+
 config-integer =
     .label = Skaitlis
     .accesskey = i
+
 config-boolean =
     .label = Būla
     .accesskey = B
+
 config-default = nūkluseits
 config-modified = maineits
 config-locked = slāgts
+
 config-property-string = teksta
 config-property-int = skaitļa
 config-property-bool = būla
+
 config-new-prompt = Īvodit īstatiejuma nūsaukumu
+
 config-nan-title = Nadereiga vierteiba
 config-nan-text = Īvodeitais teksts nav skaitlis.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Jauns { $type } vierteiba
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Īvodit { $type } vierteibu
