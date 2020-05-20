@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Accept riscul!
 config-about-warning-checkbox =
     .label = Afișează această avertizare data viitoare
+
 config-search-prefs =
     .value = Căutare:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Copiază
     .accesskey = C
+
 config-copy-name =
     .label = Copiază numele
     .accesskey = n
+
 config-copy-value =
     .label = Copiază valoarea
     .accesskey = v
+
 config-modify =
     .label = Modifică
     .accesskey = M
+
 config-toggle =
     .label = Comută
     .accesskey = t
+
 config-reset =
     .label = Resetează
     .accesskey = R
+
 config-new =
     .label = Nou
     .accesskey = w
+
 config-string =
     .label = Text
     .accesskey = S
+
 config-integer =
     .label = Număr
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = implicită
 config-modified = modificată
 config-locked = blocată
+
 config-property-string = text
 config-property-int = număr
 config-property-bool = boolean
+
 config-new-prompt = Introdu numele preferinței
+
 config-nan-title = Valoare nevalidă
 config-nan-text = Textul introdus nu este un număr.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Valoare nouă pentru preferința de tip { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Introdu valoarea pentru preferința de tip { $type }

@@ -54,6 +54,7 @@ close-tab =
     .title = Închide fila
 show-addon =
     .title = Afișează în managerul de suplimente
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

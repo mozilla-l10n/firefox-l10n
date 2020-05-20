@@ -13,6 +13,7 @@ enable-common-message = Uneltele de dezvoltare din Firefox sunt dezactivate impl
 enable-learn-more-link = Află mai multe despre instrumentele de dezvoltare
 enable-enable-button = Activează instrumentele de dezvoltare
 enable-close-button = Închide această filă
+
 welcome-title = Bine ai venit la instrumentele de dezvoltare Firefox!
 newsletter-title = Buletinul informativ Mozilla pentru dezvoltatori
 newsletter-message = Primește știri pentru dezvoltatori, trucuri și resurse direct în căsuța poștală.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Sunt de acord ca Mozilla să îmi gestioneze informa�
 newsletter-subscribe-button = Abonează-te
 newsletter-thanks-title = Îți mulțumim!
 newsletter-thanks-message = Dacă nu ai confirmat anterior o abonare la un buletin informativ în legătură cu Mozilla, este posibil să fie nevoie să o faci. Te rugăm să verifici mesajele primite sau dosarul spam pentru mesaje de e-mail de la noi.
+
 footer-title = Firefox Developer Edition
 footer-message = Cauți mai mult decât instrumente de dezvoltare? Aruncă o privire asupra browserului Firefox care este construit special pentru dezvoltatori și fluxuri de lucru moderne.
 footer-learn-more-link = Află mai multe
+
 features-learn-more = Află mai multe
 features-inspector-title = Inspector
 features-inspector-desc = Inspectează și rafinează codul pentru a construi layouturi precise la nivel de pixel. <a data-l10n-name="learn-more">{ features-learn-more }</a>

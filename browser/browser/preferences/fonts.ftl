@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fonturi
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fonturi pentru
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabă
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporțional
     .accesskey = P
+
 fonts-default-serif =
     .label = Cu serife
 fonts-default-sans-serif =
     .label = Fără serife
+
 fonts-proportional-size = Dimensiune
     .accesskey = z
+
 fonts-serif = Cu serife
     .accesskey = S
+
 fonts-sans-serif = Fără serife
     .accesskey = n
+
 fonts-monospace = Monospațiat
     .accesskey = M
+
 fonts-monospace-size = Dimensiune
     .accesskey = e
+
 fonts-minsize = Dimensiunea minimă a fontului
     .accesskey = o
+
 fonts-minsize-none =
     .label = Fără
+
 fonts-allow-own =
     .label = Permite paginilor să își aleagă propriile fonturi, în locul opțiunilor tale de mai sus
     .accesskey = a
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codare de text pentru conținut moștenit
 fonts-languages-fallback-desc = Această codare de text este folosită pentru conținutul moștenit care nu reușește să declare codificarea sa.
+
 fonts-languages-fallback-label = Codare de rezervă pentru text
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Implicită pentru limba actuală
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameză
 fonts-languages-fallback-name-other =
     .label = Alta (inclusiv vest europeană)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

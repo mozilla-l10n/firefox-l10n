@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "A">
 <!ENTITY DictionaryList.label "Cuvinte în dicționar:">
 <!ENTITY DictionaryList.accessKey "C">
-<!ENTITY ReplaceButton.label "Înlocuiește">
-<!ENTITY ReplaceButton.accessKey "o">
 <!ENTITY RemoveButton.label "Elimină">
 <!ENTITY RemoveButton.accessKey "E">
 

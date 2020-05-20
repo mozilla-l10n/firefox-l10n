@@ -6,10 +6,6 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "N">
 <!ENTITY editBookmarkOverlay.location.label                  "Locație:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "L">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Locația fluxului:">
-<!ENTITY editBookmarkOverlay.feedLocation.accesskey          "F">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Locația site-ului:">
-<!ENTITY editBookmarkOverlay.siteLocation.accesskey          "S">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosar:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Afișează toate dosarele cu marcaje">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ascunde">

@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Titlu scurt"> 
 <!ENTITY message.label    "Aici vine o mostră de text.">
+
 <!ENTITY editfield0.label "Nume utilizator:"> 
 <!ENTITY editfield1.label "Parolă:"> 
-<!ENTITY checkbox.label   "bifă">
+<!ENTITY checkbox.label   "bifă"> 
 <!ENTITY copyCmd.label    "Copiază">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Selectează tot">

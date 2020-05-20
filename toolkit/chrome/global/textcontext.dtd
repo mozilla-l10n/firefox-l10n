@@ -29,8 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Completează autentificarea">
 <!ENTITY fillLoginMenu.accesskey      "f">
-<!ENTITY useGeneratedPassword.label   "Folosește o parolă generată securizat…">
-<!ENTITY useGeneratedPassword.accesskey "S">
 <!ENTITY fillPasswordMenu.label       "Completează parola">
 <!ENTITY fillPasswordMenu.accesskey   "r">
 <!ENTITY fillUsernameMenu.label       "Completează utilizatorul">

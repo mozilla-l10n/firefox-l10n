@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Închide
     .accesskey = c
+
 show-passwords =
     .label = Afișează parolele
     .accesskey = P
