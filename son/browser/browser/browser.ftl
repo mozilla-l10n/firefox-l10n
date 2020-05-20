@@ -165,5 +165,7 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Dobuyan:
+urlbar-go-button =
+    .tooltiptext = Koy aderesoo do gorodoo žeeroo ga
 urlbar-page-action-button =
     .tooltiptext = Moo goyey
