@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Loggmoduler för säker surfning
 url-classifier-debug-modules = Aktuella loggmoduler
 url-classifier-debug-sbjs-modules = JS-logg för säker surfning
 url-classifier-debug-file = Aktuell loggfil
+
 url-classifier-trigger-update = Trigga uppdatering
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Inaktivera JS-logg för säker surfning

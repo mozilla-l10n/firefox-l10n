@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "En ny Certifikatutfärdare(CA) vill ha ditt godkännande.">
 <!ENTITY downloadCert.trustSSL "Lita på denna CA för identifiering av webbplatser.">
 <!ENTITY downloadCert.trustEmail "Lita på denna CA för identifiering av e-postanvändare.">
-<!ENTITY downloadCert.trustObjSign "Lita på denna CA för identifiering av programutvecklare.">
 <!ENTITY downloadCert.message3 "Innan du litar på denna CA för något syfte bör du undersöka dess certifikat, policy och tillvägagångssätt (om möjligt).">
 <!ENTITY downloadCert.viewCert.label "Visa">
 <!ENTITY downloadCert.viewCert.text "Undersök CA-certifikat">

@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Ingen proxy för:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "Exempel: .mozilla.org, .sunet.se, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Använd denna proxy för alla protokoll">
+<!ENTITY  shareproxy.accesskey          "ä">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Anslutning till localhost 127.0.0.1 och ::1 går aldrig via proxy.">
-<!ENTITY  shareproxy.label              "Använd denna proxy för alla protokoll">
-<!ENTITY  shareproxy.accesskey          "ä">
 <!ENTITY  proxyHttpSharing.label        "Använd också denna proxy för HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Fråga inte efter autentisering om lösenordet är sparat">

@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Öppna i nytt privat fönster
     .accesskey = i
+
 places-new-bookmark =
     .label = Nytt bokmärke…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Ny avskiljare
     .accesskey = v
+
 places-view =
     .label = Visa
     .accesskey = V
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Efter datum och plats
     .accesskey = t
+
 places-history-search =
     .placeholder = Sökhistorik
 places-bookmarks-search =
     .placeholder = Sök bokmärken
+
 places-delete-domain-data =
     .label = Ta bort all historik för webbplatsen
     .accesskey = b

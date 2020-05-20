@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Kopior och mappar">
 <!ENTITY sendingPrefix.label "När meddelanden skickas: ">
 <!ENTITY fccMailFolder.label "Lägg en kopia i:">

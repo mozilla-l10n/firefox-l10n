@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Programfixen kunde inte installeras. &brandShortName; kommer att försöka igen genom att hämta ett komplett uppdateringspaket.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; kan inte avgöra om det finns någon tillgänglig uppdatering. Kontrollera att du använder den senaste versionen av &brandShortName; från:">
-
+                                           
 <!ENTITY  finishedPage.title              "Uppdatering färdig att installera">
 <!ENTITY  finishedPage.text               "Uppdateringen kommer att installeras nästa gång &brandShortName; startas. Du kan starta om &brandShortName; nu, eller fortsätta och starta om senare.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Uppdateringen kommer att installeras nästa gång &brandShortName; startar. Du kan starta om &brandShortName; nu, eller fortsätta och starta om senare.">
 <!ENTITY  finishedBackground.moreElevated "Denna uppdateringen kräver administratörsbehörighet. Uppdateringen kommer att installeras nästa gång &brandShortName; startar. Du kan starta om &brandShortName; nu, fortsätta att arbeta och starta om senare eller avvisa den här uppdateringen.">
 
-<!ENTITY  update.details.label            "Detaljer">
-<!ENTITY  update.installedOn.label        "Installerad:">
-<!ENTITY  update.status.label             "Status:">

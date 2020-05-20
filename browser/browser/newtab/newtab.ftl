@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Sök
     .aria-label = Sök
+
 newtab-search-box-search-the-web-text = Sök på webben
 newtab-search-box-search-the-web-input =
     .placeholder = Sök på webben
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Redigera mest besökta
 newtab-topsites-title-label = Titel
 newtab-topsites-title-input =
     .placeholder = Ange en titel
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Skriv eller klistra in en URL
 newtab-topsites-url-validation = Giltig URL krävs
+
 newtab-topsites-image-url-label = Anpassa bild-URL
 newtab-topsites-use-image-link = Använd en anpassad bild…
 newtab-topsites-image-validation = Bilden misslyckades att ladda. Prova en annan URL.
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = Den här åtgärden kan inte ångras.
 newtab-menu-section-tooltip =
     .title = Öppna meny
     .aria-label = Öppna meny
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Ta bort
     .aria-label = Ta bort
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -132,6 +137,7 @@ newtab-label-removed-bookmark = Bokmärke har tagits bort
 newtab-label-recommended = Trend
 newtab-label-saved = Spara till { -pocket-brand-name }
 newtab-label-download = Hämtat
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -169,10 +175,12 @@ newtab-section-header-pocket = Rekommenderas av { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Börja surfa, och vi visar några av de bästa artiklarna, videoklippen och andra sidor du nyligen har besökt eller bokmärkt här.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Det finns inte fler. Kom tillbaka senare för fler huvudnyheter från { $provider }. Kan du inte vänta? Välj ett populärt ämne för att hitta fler bra nyheter från hela världen.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

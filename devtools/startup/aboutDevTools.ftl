@@ -13,6 +13,7 @@ enable-common-message = Firefox utvecklingsverktyg är vanligtvis avstängda fö
 enable-learn-more-link = Lär dig mer om utvecklingsverktyg
 enable-enable-button = Aktivera utvecklingsverktyg
 enable-close-button = Stäng denna flik
+
 welcome-title = Välkommen till Firefox utvecklingsverktyg!
 newsletter-title = Nyhetsbrev Mozilla Developer
 newsletter-message = Få nyheter om utveckling, tricks och resurser skickade direkt till din inkorg.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Det är okej för mig att Mozilla hanterar min inform
 newsletter-subscribe-button = Prenumerera
 newsletter-thanks-title = Tack!
 newsletter-thanks-message = Om du inte tidigare har bekräftat en prenumeration på ett Mozilla-relaterat nyhetsbrev måste du kanske göra det. Kontrollera din inkorg eller ditt spamfilter efter ett mejl från oss.
+
 footer-title = Firefox Developer Edition
 footer-message = Letar du efter mer än bara utvecklingsverktyg? Kolla in Firefox:s webbläsare som är byggd speciellt för utvecklare och moderna arbetsflöden.
 footer-learn-more-link = Läs mer
+
 features-learn-more = Läs mer
 features-inspector-title = Inspektör
 features-inspector-desc = Inspektera och förbättra koden för att skapa pixel-perfekta layouter. <a data-l10n-name="learn-more">{ features-learn-more }</a>

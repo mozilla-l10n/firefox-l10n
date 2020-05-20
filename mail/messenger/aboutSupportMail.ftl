@@ -14,4 +14,5 @@ accounts-conn-security = Anslutningssäkerhet
 accounts-auth-method = Autentiseringsmetod
 accounts-default = Standard?
 identity-name = Identitet
+
 send-via-email = Skicka via e-post

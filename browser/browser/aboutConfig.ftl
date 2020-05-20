@@ -7,7 +7,9 @@ about-config-warning-title = Här finns drakar!
 about-config-warning-text = Att ändra dessa avancerade inställningar kan skada programmets stabilitet, säkerhet och prestanda. Du bör endast fortsätta om du är säker på vad du gör.
 about-config-warning-checkbox = Irritera mig igen, tack!
 about-config-warning-button = Jag accepterar risken
+
 about-config2-title = Avancerade konfigurationer
+
 about-config-search-input =
     .placeholder = Sök
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Acceptera risken och fortsätt
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Att ändra dessa inställningar kan påverka { -brand-short-name } prestanda eller säkerhet.
+
 about-config-page-title = Avancerade inställningar
+
 about-config-search-input1 =
     .placeholder = Sök inställningsnamn
 about-config-show-all = Visa allt
+
 about-config-pref-add = Lägg till
 about-config-pref-toggle = Växla
 about-config-pref-edit = Redigera
 about-config-pref-save = Spara
 about-config-pref-reset = Återställ
 about-config-pref-delete = Ta bort
+
 about-config-pref-add-button =
     .title = Lägg till
 about-config-pref-toggle-button =

@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Alla nya tillägg du lägger till i { -brand-shorter-name } kommer inte att fungera i privata fönster om du inte tillåter detta i inställningarna.
 appmenu-addon-private-browsing-learn-more = Lär dig hur du hanterar tilläggsinställningar.
+    
 appmenu-new-tab-controlled =
     .label = Din nya flik har ändrats.
     .buttonlabel = Behåll ändringar

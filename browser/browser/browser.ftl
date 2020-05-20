@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Visa webbplatsinformation
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Du har blockerat MIDI-åtkomst för denna webbplats.
 urlbar-install-blocked =
     .tooltiptext = Du har blockerat installation av tillägg från denna webbplats.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redigera detta bokmärke ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Hantera tillägg…
 page-action-remove-from-urlbar =
     .label = Ta bort från adressfältet
+
 page-action-remove-extension =
     .label = Ta bort tillägg
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Denna gång, sök med:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ändra sökinställningar
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ändra sökinställningar
+
 search-one-offs-context-open-new-tab =
     .label = Sök i ny flik
     .accesskey = f
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Visa redigeraren när du sparar
     .accesskey = V
+
 bookmark-panel-done-button =
     .label = Klar
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Alla synliga fönster på din skärm kommer att delas
 
 enable-devtools-popup-description = För att använda tangentbordskommandot F12, öppnar du först DevTools i Webbutvecklare-menyn.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Du har beviljat denna webbplats ytterligare behörigheter.
 urlbar-switch-to-tab =
     .value = Växla till flik:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Tillägg:
+
 urlbar-go-button =
     .tooltiptext = Gå till adressen i adressfältet
 urlbar-page-action-button =

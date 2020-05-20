@@ -9,17 +9,12 @@ about-service-workers-title = Om Service Workers
 about-service-workers-main-title = Registrerade Service Workers
 about-service-workers-warning-not-enabled = Service Workers är inte aktiverade.
 about-service-workers-warning-no-service-workers = Inga Service Workers registrerade.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Ursprung: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } applikations-ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Aktivt cache namn:</strong> { $name }
 waiting-cache-name = <strong>Väntande cache namn:</strong> { $name }
 push-end-point-waiting = <strong>Skicka Endpoint:</strong> { waiting }
 push-end-point-result = <strong>Skicka Endpoint:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Uppdatera
+
 unregister-button = Avregistrera
+
 unregister-error = Det gick inte att avregistrera denna Service Worker.
+
 waiting = Väntar…

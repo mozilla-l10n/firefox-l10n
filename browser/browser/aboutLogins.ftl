@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Hämta den på Google Play
 login-app-promo-apple =
     .alt = Ladda ned i App Store
+
 login-filter =
     .placeholder = Sök inloggningar
+
 create-login-button = Skapa ny inloggning
+
 fxaccounts-sign-in-text = Få dina lösenord på dina andra enheter
 fxaccounts-sign-in-button = Logga in på { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -107,20 +110,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifiera din identitet för att redigera den sparade inloggningen.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Om du vill redigera din inloggning anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = redigera den sparade inloggningen
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifiera din identitet för att visa det sparade lösenordet.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Ange dina inloggningsuppgifter för Windows för att se ditt lösenord. Detta skyddar dina kontons säkerhet.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = visa det sparade lösenordet
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifiera din identitet för att kopiera det sparade lösenordet.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Om du vill kopiera ditt lösenord anger du dina inloggningsuppgifter för Windows. Detta skyddar dina kontons säkerhet.
 # This message can be seen when attempting to copy a password in about:logins
@@ -157,9 +165,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Avbryt
 confirmation-dialog-dismiss-button =
     .title = Avbryt
+
 about-logins-confirm-remove-dialog-title = Ta bort denna inloggning?
 confirm-delete-dialog-message = Den här åtgärden kan inte ångras.
 about-logins-confirm-remove-dialog-confirm-button = Ta bort
+
 confirm-discard-changes-dialog-title = Ignorera dessa förändringar?
 confirm-discard-changes-dialog-message = Alla ändringar som inte är sparade kommer att gå förlorade.
 confirm-discard-changes-dialog-confirm-button = Ignorera
@@ -190,5 +200,6 @@ about-logins-vulnerable-alert-learn-more-link = Läs mer
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = En post för { $loginTitle } med det användarnamnet finns redan. <a data-l10n-name="duplicate-link">Gå till befintlig post?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Ett fel uppstod vid försök att spara lösenordet.
