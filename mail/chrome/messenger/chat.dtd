@@ -15,9 +15,11 @@
 <!ENTITY chat.noConnectedAccount.title "Sus cuentas de chat no están conectadas.">
 <!ENTITY chat.noConnectedAccount.description "Puede conectarse a ellas desde el diálogo 'Estado de chat':">
 <!ENTITY chat.showAccountManager.button "Mostrar estado del chat">
+
 <!ENTITY chat.participants "Participantes:">
 <!ENTITY chat.previousConversations "Conversaciones previas:">
 <!ENTITY chat.ongoingConversation "Conversación en curso">
+
 <!ENTITY openConversationCmd.label "Iniciar una conversación">
 <!ENTITY openConversationCmd.accesskey "I">
 <!ENTITY closeConversationCmd.label "Cerrar conversación">
@@ -26,13 +28,17 @@
 <!ENTITY aliasCmd.accesskey "R">
 <!ENTITY deleteCmd.label "Eliminar contacto">
 <!ENTITY deleteCmd.accesskey "E">
+
 <!ENTITY openConversationButton.tooltip "Iniciar una conversación">
 <!ENTITY closeConversationButton.tooltip "Cerrar conversación">
+
 <!ENTITY addBuddyButton.label "Añadir contacto">
 <!ENTITY joinChatButton.label "Unirse al chat">
 <!ENTITY chatAccountsButton.label "Mostrar cuentas">
+
 <!ENTITY status.available "Disponible">
 <!ENTITY status.unavailable "No disponible">
 <!ENTITY status.offline "Sin conexión">
+
 <!ENTITY openLinkCmd.label "Abrir enlace…">
 <!ENTITY openLinkCmd.accesskey "A">

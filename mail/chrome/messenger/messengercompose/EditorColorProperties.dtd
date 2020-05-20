@@ -10,6 +10,7 @@
 <!ENTITY customColorsRadio.label "Usar colores personalizados:">
 <!ENTITY customColorsRadio.accessKey "C">
 <!ENTITY customColorsRadio.tooltip "Esta configuración de colores tendrá preferencia sobre la del navegador del lector">
+
 <!ENTITY normalText.label "Texto normal">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Texto de enlace">

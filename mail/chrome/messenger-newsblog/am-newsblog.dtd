@@ -4,8 +4,11 @@
 
 <!ENTITY biffAll.label "Activar actualizaciones en todos los canales">
 <!ENTITY biffAll.accesskey "v">
+
 <!ENTITY newFeedSettings.label "Configuración predeterminada para canales nuevos">
+
 <!ENTITY manageSubscriptions.label "Administrar suscripciones…">
 <!ENTITY manageSubscriptions.accesskey "A">
+
 <!ENTITY feedWindowTitle.label "Asistente de cuenta de canales web">
 <!ENTITY feeds.accountName "Canales de Blogs y Noticias">

@@ -8,12 +8,14 @@
 <!ENTITY button-next-mac.accesskey "C">
 <!ENTITY button-finish-mac.label "Hecho">
 <!ENTITY button-cancel-mac.label "Cancelar">
+
 <!ENTITY button-back-unix.label "Atrás">
 <!ENTITY button-back-unix.accesskey "A">
 <!ENTITY button-next-unix.label "Siguiente">
 <!ENTITY button-next-unix.accesskey "N">
 <!ENTITY button-finish-unix.label "Finalizar">
 <!ENTITY button-cancel-unix.label "Cancelar">
+
 <!ENTITY button-back-win.label "&lt; Atrás">
 <!ENTITY button-back-win.accesskey "A">
 <!ENTITY button-next-win.label "Siguiente &gt;">

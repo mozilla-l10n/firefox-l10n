@@ -8,6 +8,7 @@
 <!ENTITY organize.label "Organizar">
 <!ENTITY organize.accesskey "O">
 <!ENTITY organize.tooltip "Organice sus marcadores">
+
 <!ENTITY file.close.label "Cerrar">
 <!ENTITY file.close.accesskey "C">
 <!ENTITY cmd.close.key "w">
@@ -24,20 +25,24 @@
 <!ENTITY view.sortAscending.accesskey "A">
 <!ENTITY view.sortDescending.label "Ordenar Z > A">
 <!ENTITY view.sortDescending.accesskey "Z">
+
 <!ENTITY importBookmarksFromHTML.label "Importar marcadores…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label "Exportar marcadores…">
 <!ENTITY exportBookmarksToHTML.accesskey "E">
 <!ENTITY importOtherBrowser.label "Importar datos de…">
 <!ENTITY importOtherBrowser.accesskey "A">
+
 <!ENTITY cmd.backup.label "Copiar…">
 <!ENTITY cmd.backup.accesskey "C">
 <!ENTITY cmd.restore2.label "Restaurar">
 <!ENTITY cmd.restore2.accesskey "R">
 <!ENTITY cmd.restoreFromFile.label "Elegir archivo…">
 <!ENTITY cmd.restoreFromFile.accesskey "E">
+
 <!ENTITY cmd.deleteDomainData.label "Olvidar este sitio web">
 <!ENTITY cmd.deleteDomainData.accesskey "v">
+
 <!ENTITY cmd.open.label "Abrir">
 <!ENTITY cmd.open.accesskey "A">
 <!ENTITY cmd.open_window.label "Abrir en una ventana nueva">
@@ -48,11 +53,14 @@
 <!ENTITY cmd.open_tab.accesskey "v">
 <!ENTITY cmd.open_all_in_tabs.label "Abrir todo en pestañas">
 <!ENTITY cmd.open_all_in_tabs.accesskey "O">
+
 <!ENTITY cmd.properties.label "Propiedades">
 <!ENTITY cmd.properties.accesskey "i">
+
 <!ENTITY cmd.sortby_name.label "Ordenar por nombre">
 <!ENTITY cmd.sortby_name.accesskey "n">
 <!ENTITY cmd.context_sortby_name.accesskey "r">
+
 <!ENTITY cmd.new_bookmark.label "Nuevo marcador…">
 <!ENTITY cmd.new_bookmark.accesskey "N">
 <!ENTITY cmd.new_folder.label "Nueva carpeta…">
@@ -60,31 +68,30 @@
 <!ENTITY cmd.context_new_folder.accesskey "c">
 <!ENTITY cmd.new_separator.label "Nuevo separador">
 <!ENTITY cmd.new_separator.accesskey "v">
-<!ENTITY cmd.reloadLivebookmark.label "Recargar marcadores dinámicos">
-<!ENTITY cmd.reloadLivebookmark.accesskey "R">
-<!ENTITY cmd.moveBookmarks.label "Mover…">
-<!ENTITY cmd.moveBookmarks.accesskey "M">
+
 <!ENTITY col.name.label "Nombre">
 <!ENTITY col.tags.label "Etiquetas">
 <!ENTITY col.url.label "Dirección">
 <!ENTITY col.mostrecentvisit.label "Visita más reciente">
 <!ENTITY col.visitcount.label "Número de visitas">
-<!ENTITY col.description.label "Descripción">
 <!ENTITY col.dateadded.label "Añadido">
 <!ENTITY col.lastmodified.label "Última modificación">
+
 <!ENTITY historySearch.placeholder "Buscar en historial">
 <!ENTITY bookmarksSearch.placeholder "Buscar marcadores">
+
 <!ENTITY cmd.find.key "f">
+
 <!ENTITY maintenance.label "Importar y respaldar">
 <!ENTITY maintenance.accesskey "I">
 <!ENTITY maintenance.tooltip "Importe y exporte sus marcadores">
+
 <!ENTITY backButton.tooltip "Ir atrás">
+
 <!ENTITY forwardButton.tooltip "Ir adelante">
-<!ENTITY detailsPane.more.label "Más">
-<!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Menos">
-<!ENTITY detailsPane.less.accesskey "e">
+
 <!ENTITY detailsPane.selectAnItemText.description "Selecciona un elemento para ver y editar sus propiedades">
+
 <!ENTITY view.label "Ver">
 <!ENTITY view.accesskey "r">
 <!ENTITY byDate.label "Por fecha">

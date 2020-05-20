@@ -4,6 +4,7 @@
 
 page-title = Información para solucionar problemas
 page-subtitle = Esta página contiene información técnica que puede ser útil cuando intente solucionar un problema. Si está buscando respuestas a preguntas frecuentes sobre { -brand-short-name }, visite nuestro <a data-l10n-name="support-link">sitio de asistencia</a>.
+
 crashes-title = Informes de fallos
 crashes-id = ID del informe
 crashes-send-date = Enviado
@@ -123,6 +124,7 @@ audio-backend = Sistema de audio
 max-audio-channels = Canales máximos
 channel-layout = Disposición de canales preferida
 sample-rate = Tasa de muestreo preferida
+
 media-title = Medios
 media-output-devices-title = Dispositivos de salida
 media-input-devices-title = Dispositivos de entrada
@@ -173,6 +175,7 @@ report-crash-for-days =
         [one] Informes de fallos del último día
        *[other] Informes de fallos de los últimos { $days } días
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -180,6 +183,7 @@ crashes-time-minutes =
         [one] hace { $minutes } minuto
        *[other] hace { $minutes } minutos
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -187,6 +191,7 @@ crashes-time-hours =
         [one] hace { $hours } hora
        *[other] hace { $hours } horas
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -194,6 +199,7 @@ crashes-time-days =
         [one] hace { $days } día
        *[other] hace { $days } días
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -201,6 +207,7 @@ pending-reports =
         [one] Todos los informes de fallos (incluyendo { $reports } fallo pendiente en el intervalo de tiempo indicado)
        *[other] Todos los informes de fallos (incluyendo { $reports } fallos pendientes en el intervalo de tiempo indicado)
     }
+
 raw-data-copied = Datos sin procesar copiados al portapapeles
 text-copied = Texto copiado al portapapeles
 
@@ -213,9 +220,11 @@ blocked-mismatched-version = Bloqueado por la diferencia e versión de su contro
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Bloqueado para la versión de su controlador gráfico. Pruebe a actualizar su controlador gráfico a la versión { $driverVersion } o más moderna.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parámetros de ClearType
+
 compositing = Composición
 hardware-h264 = Decodificación H264 por hardware
 main-thread-no-omtc = hilo principal, sin OMTC
@@ -230,6 +239,7 @@ virtual-monitor-disp = Pantalla de monitor virtual
 
 found = Encontrado
 missing = Ausente
+
 gpu-process-pid = GPUProcessPid
 gpu-process = GPUProcess
 gpu-description = Descripción
@@ -253,18 +263,23 @@ webgl2-version = Versión del controlador WebGL 2
 webgl2-driver-extensions = Extensiones del controlador WebGL 2
 webgl2-extensions = Extensiones WebGL 2
 blocklisted-bug = Incluido en lista de bloqueo por causas desconocidas
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = bug { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Incluido en lista de bloqueo; código de error { $failureCode }
+
 d3d11layers-crash-guard = Compositor D3D11
 d3d11video-crash-guard = Decodificador de vídeo D3D11
 d3d9video-crash-buard = Decodificador de vídeo D3D9
 d3d9video-crash-guard = Decodificador de vídeo D3D9
 glcontext-crash-guard = OpenGL
+
 wmfvpxvideo-crash-guard = Decodificador de vídeo WMF VPX
+
 reset-on-next-restart = Restablecer en el próximo reinicio
 gpu-process-kill-button = Terminar proceso GPU
 gpu-device-reset = Reiniciar dispositivo
@@ -274,8 +289,10 @@ content-uses-tiling = Usa mosaicos (contenido)
 off-main-thread-paint-enabled = Dibujado fuera del hilo principal de ejecución activado
 off-main-thread-paint-worker-count = Contador de workers de dibujado ajenos al hilo principal de ejecución
 target-frame-rate = Frecuencia de imágenes objetivo
+
 min-lib-versions = Versión mínima esperada
 loaded-lib-versions = Versión en uso
+
 has-seccomp-bpf = Seccomp-BPF (filtrado de llamadas de sistema)
 has-seccomp-tsync = Sincronización de hilos seccomp
 has-user-namespaces = Espacios de nombres de usuario
@@ -288,15 +305,18 @@ sandbox-proc-type-content = contenido
 sandbox-proc-type-file = contenido del archivo
 sandbox-proc-type-media-plugin = plugin de medios
 sandbox-proc-type-data-decoder = decodificador de datos
+
 startup-cache-title = Caché de inicio
 startup-cache-disk-cache-path = Ruta de caché de disco
 startup-cache-ignore-disk-cache = Ignorar caché de disco
 startup-cache-found-disk-cache-on-init = Caché de disco encontrada durante la inicialización
 startup-cache-wrote-to-disk-cache = Se escribió a la caché de disco
+
 launcher-process-status-0 = Activado
 launcher-process-status-1 = Desactivado por fallo
 launcher-process-status-2 = Desactivado forzosamente
 launcher-process-status-unknown = Estado desconocido
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -309,6 +329,7 @@ multi-process-status-6 = Deshabilitado por entrada de texto no admitida
 multi-process-status-7 = Deshabilitado por los complementos
 multi-process-status-8 = Deshabilitado forzosamente
 multi-process-status-unknown = Estado desconocido
+
 async-pan-zoom = Encuadre/zoom asíncrono
 apz-none = ninguno
 wheel-enabled = entrada de rueda de ratón activada
@@ -316,6 +337,7 @@ touch-enabled = entrada táctil activada
 drag-enabled = arrastre de la barra de desplazamiento activado
 keyboard-enabled = teclado habilitado
 autoscroll-enabled = desplazamiento automático activado
+
 zooming-enabled = zoom de pellizco suave activado
 
 ## Variables

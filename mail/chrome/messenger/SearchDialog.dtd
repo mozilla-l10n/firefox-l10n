@@ -23,6 +23,7 @@
 <!ENTITY openInFolder.accesskey "i">
 <!ENTITY saveAsVFButton.label "Guardar como carpeta de búsqueda">
 <!ENTITY saveAsVFButton.accesskey "G">
+
 <!ENTITY abSearchHeading.label "Buscar en:">
 <!ENTITY abSearchHeading.accesskey "n">
 <!ENTITY propertiesButton.label "Propiedades">

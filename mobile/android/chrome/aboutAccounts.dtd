@@ -5,7 +5,9 @@
 <!ENTITY aboutAccounts.connected.title "Firefox Accounts">
 <!ENTITY aboutAccounts.connected.description "Está conectado como">
 <!ENTITY aboutAccounts.syncPreferences.label "Toque aquí para revisar los ajustes de Sync">
+
 <!ENTITY aboutAccounts.noConnection.title "No hay conexión a Internet">
 <!ENTITY aboutAccounts.retry.label "Vuelva a intentarlo">
+
 <!ENTITY aboutAccounts.restrictedError.title "Restringido">
 <!ENTITY aboutAccounts.restrictedError.description "No puede administrar cuentas Firefox desde este perfil.">

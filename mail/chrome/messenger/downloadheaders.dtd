@@ -4,6 +4,13 @@
 
 <!ENTITY all.label "Descargar todas las cabeceras">
 <!ENTITY all.accesskey "D">
+<!--LOCALIZATION NOTE (download.label):
+    consider the download.label and headers.label as a single sentence
+    with the number of headers to be downloaded inserted between them:
+    EXAMPLE: "Download" <some number> "headers"
+    Either label could be set to null ("") if required grammatically.
+-->
+
 <!ENTITY download.label "Descargar">
 <!ENTITY download.accesskey "a">
 <!ENTITY headers.label "Cabeceras">

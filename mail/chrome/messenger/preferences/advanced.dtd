@@ -7,6 +7,7 @@
 <!ENTITY itemUpdate.label "Actualización">
 <!ENTITY itemNetworking.label "Red y espacio en disco">
 <!ENTITY itemCertificates.label "Certificados">
+
 <!ENTITY enableGlodaSearch.label "Activar indexador y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey "A">
 <!ENTITY dateTimeFormatting.label "Formato de fecha y hora">
@@ -17,11 +18,13 @@
 <!ENTITY storeType.accesskey "T">
 <!ENTITY mboxStore2.label "Archivo por carpeta (mbox)">
 <!ENTITY maildirStore.label "Archivo por mensaje (maildir)">
+
 <!ENTITY scrolling.label "Desplazamiento">
 <!ENTITY useAutoScroll.label "Usar desplazamiento automático">
 <!ENTITY useAutoScroll.accesskey "U">
 <!ENTITY useSmoothScrolling.label "Usar desplazamiento suave">
 <!ENTITY useSmoothScrolling.accesskey "d">
+
 <!ENTITY systemIntegration.label "Integración con el sistema">
 <!ENTITY alwaysCheckDefault.label "Comprobar siempre al iniciar si &brandShortName; es el cliente de correo por omisión">
 <!ENTITY alwaysCheckDefault.accesskey "C">
@@ -35,16 +38,20 @@
 <!ENTITY returnReceiptsInfo.label "Determinar cómo gestiona &brandShortName; los acuses de recibo">
 <!ENTITY showReturnReceipts.label "Acuses de recibo…">
 <!ENTITY showReturnReceipts.accesskey "r">
+
 <!ENTITY telemetrySection.label "Telemetry">
 <!ENTITY telemetryDesc.label "Comparte datos de rendimiento, uso, hardware y personalización sobre su cliente de correo con &vendorShortName; para ayudarnos a mejorar &brandShortName;">
 <!ENTITY enableTelemetry.label "Activar Telemetry">
 <!ENTITY enableTelemetry.accesskey "T">
 <!ENTITY telemetryLearnMore.label "Saber más">
+
 <!ENTITY crashReporterSection.label "Agente de informe de fallos">
 <!ENTITY crashReporterDesc.label "&brandShortName; envía informes de fallo para ayudar a &vendorShortName; a hacer su cliente de correo más estable y seguro">
 <!ENTITY enableCrashReporter.label "Activar agente de informe de fallos">
 <!ENTITY enableCrashReporter.accesskey "c">
 <!ENTITY crashReporterLearnMore.label "Saber más">
+
+<!-- Update -->
 <!ENTITY updateApp2.label "Actualizaciones de &brandShortName;">
 <!ENTITY updateApp.version.pre "Versión ">
 <!ENTITY updateApp.version.post "">
@@ -55,9 +62,12 @@
 <!ENTITY updateCheck.accesskey "B">
 <!ENTITY updateHistory.label "Mostrar historial de actualizaciones">
 <!ENTITY updateHistory.accesskey "M">
+
 <!ENTITY useService.label "Usar un servicio en segundo plano para instalar actualizaciones">
 <!ENTITY useService.accesskey "v">
+
 <!ENTITY updateCrossUserSettingWarning.description "Este ajuste se aplicará a todas las cuentas de Windows y a todos los perfiles de &brandShortName; que usen esta instalación de &brandShortName;.">
+
 <!ENTITY showSettings.label "Configuración…">
 <!ENTITY showSettings.accesskey "C">
 <!ENTITY proxiesConfigure.label "Configurar cómo se conecta &brandShortName; a Internet">
@@ -66,10 +76,12 @@
 <!ENTITY offlineInfo.label "Configurar modo sin conexión">
 <!ENTITY showOffline.label "Sin conexión…">
 <!ENTITY showOffline.accesskey "S">
+
 <!ENTITY Diskspace "Espacio en disco">
 <!ENTITY offlineCompactFolders.label "Compactar todas las carpetas cuando se ahorren más de">
 <!ENTITY offlineCompactFolders.accesskey "C">
 <!ENTITY offlineCompactFoldersMB.label "MB en total">
+
 <!ENTITY useCacheBefore.label "Usar hasta">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB de espacio para la caché">
@@ -77,6 +89,7 @@
 <!ENTITY overrideSmartCacheSize.accesskey "D">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
+
 <!ENTITY certSelection.description "Cuando un servidor solicite mi certificado personal:">
 <!ENTITY certs.auto "Seleccionar uno automáticamente">
 <!ENTITY certs.auto.accesskey "S">
@@ -84,10 +97,12 @@
 <!ENTITY certs.ask.accesskey "P">
 <!ENTITY enableOCSP.label "Preguntar a los servidores respondedores de OCSP para confirmar la validez actual de los certificados">
 <!ENTITY enableOCSP.accesskey "u">
+
 <!ENTITY manageCertificates.label "Administrar certificados">
 <!ENTITY manageCertificates.accesskey "A">
 <!ENTITY viewSecurityDevices.label "Dispositivos de seguridad">
 <!ENTITY viewSecurityDevices.accesskey "D">
+
 <!ENTITY manageCertificates2.label "Administrar certificados…">
 <!ENTITY manageCertificates2.accesskey "M">
 <!ENTITY viewSecurityDevices2.label "Dispositivos de seguridad…">

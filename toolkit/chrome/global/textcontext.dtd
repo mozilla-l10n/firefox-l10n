@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Rellenar inicio de sesión">
 <!ENTITY fillLoginMenu.accesskey      "R">
-<!ENTITY fillGeneratedPassword.label  "Usar una contraseña generada de forma segura">
-<!ENTITY fillGeneratedPassword.accesskey "S">
-<!ENTITY useGeneratedPassword.label   "Usar una contraseña generada de forma segura…">
-<!ENTITY useGeneratedPassword.accesskey "s">
 <!ENTITY fillPasswordMenu.label       "Rellenar contraseña">
 <!ENTITY fillPasswordMenu.accesskey   "R">
 <!ENTITY fillUsernameMenu.label       "Rellenar nombre de usuario">

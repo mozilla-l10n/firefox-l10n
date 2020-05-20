@@ -5,10 +5,20 @@
 <!ENTITY Contact.tab "Contacto">
 <!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Nombre">
+
+<!-- LOCALIZATION NOTE:
+ NameField1, NameField2, PhoneticField1, PhoneticField2
+ those fields are either LN or FN depends on the target country.
+ "FirstName" and "LastName" can be swapped for id to change the order
+ but they should not be translated (same applied to phonetic id).
+ Make sure the translation of label corresponds to the order of id.
+-->
+
 <!ENTITY NameField1.id "FirstName">
 <!ENTITY NameField2.id "LastName">
 <!ENTITY PhoneticField1.id "PhoneticFirstName">
 <!ENTITY PhoneticField2.id "PhoneticLastName">
+
 <!ENTITY NameField1.label "Nombre:">
 <!ENTITY NameField1.accesskey "N">
 <!ENTITY NameField2.label "Apellidos:">
@@ -21,6 +31,7 @@
 <!ENTITY preferDisplayName.accesskey "s">
 <!ENTITY NickName.label "Apodo:">
 <!ENTITY NickName.accesskey "o">
+
 <!ENTITY PrimaryEmail.label "Correo electrónico:">
 <!ENTITY PrimaryEmail.accesskey "e">
 <!ENTITY SecondEmail.label "Correo electrónico adicional:">
@@ -31,6 +42,7 @@
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Desconocido">
 <!ENTITY chatName.label "Nombre en el chat:">
+
 <!ENTITY WorkPhone.label "Trabajo:">
 <!ENTITY WorkPhone.accesskey "b">
 <!ENTITY HomePhone.label "Casa:">
@@ -41,6 +53,7 @@
 <!ENTITY PagerNumber.accesskey "u">
 <!ENTITY CellularNumber.label "Móvil:">
 <!ENTITY CellularNumber.accesskey "v">
+
 <!ENTITY Home.tab "Privado">
 <!ENTITY Home.accesskey "P">
 <!ENTITY HomeAddress.label "Dirección:">
@@ -64,6 +77,7 @@
 <!ENTITY Year.placeholder "Año">
 <!ENTITY Age.label "Edad:">
 <!ENTITY Age.placeholder "Edad">
+
 <!ENTITY Work.tab "Trabajo">
 <!ENTITY Work.accesskey "T">
 <!ENTITY JobTitle.label "Título:">
@@ -86,6 +100,7 @@
 <!ENTITY WorkCountry.accesskey "P">
 <!ENTITY WorkWebPage.label "Página web:">
 <!ENTITY WorkWebPage.accesskey "w">
+
 <!ENTITY Other.tab "Otros">
 <!ENTITY Other.accesskey "t">
 <!ENTITY Custom1.label "Personalizado 1:">
@@ -98,6 +113,7 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Notas:">
 <!ENTITY Notes.accesskey "N">
+
 <!ENTITY Chat.tab "Chat">
 <!ENTITY Chat.accesskey "h">
 <!ENTITY Gtalk.label "Google Talk:">
@@ -118,6 +134,7 @@
 <!ENTITY XMPP.accesskey "J">
 <!ENTITY IRC.label "Apodo en IRC:">
 <!ENTITY IRC.accesskey "R">
+
 <!ENTITY Photo.tab "Foto">
 <!ENTITY Photo.accesskey "o">
 <!ENTITY GenericPhoto.label "Foto genérica">

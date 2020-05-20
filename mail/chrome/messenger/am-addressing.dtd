@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label "Redacción y direcciones">
 <!ENTITY addressingGroupTitle.label "Direcciones">
 <!ENTITY addressingText.label "Cuando se busquen direcciones:">
@@ -12,6 +16,11 @@
 <!ENTITY directories.label "Utilizar un servidor LDAP diferente:">
 <!ENTITY directories.accesskey "d">
 <!ENTITY directoriesNone.label "Ninguno">
+
+<!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label "Redacción">
 <!ENTITY useHtml.label "Redactar mensajes en formato HTML">
 <!ENTITY useHtml.accesskey "R">
@@ -30,7 +39,9 @@
 <!ENTITY includeSigOnReply.accesskey "I">
 <!ENTITY includeSigOnForward.label "Incluir firma en los re-envíos">
 <!ENTITY includeSigOnForward.accesskey "I">
+
 <!ENTITY globalComposingPrefs.label "Preferencias generales de redacción…">
 <!ENTITY globalComposingPrefs.accesskey "P">
+
 <!ENTITY globalAddressingPrefs.label "Preferencias generales de direcciones…">
 <!ENTITY globalAddressingPrefs.accesskey "a">

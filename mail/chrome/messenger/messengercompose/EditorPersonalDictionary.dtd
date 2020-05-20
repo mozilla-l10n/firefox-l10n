@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Diccionario personal">
+
 <!ENTITY wordEditField.label "Nueva palabra:">
 <!ENTITY wordEditField.accessKey "N">
 <!ENTITY AddButton.label "Añadir">
@@ -11,5 +12,6 @@
 <!ENTITY DictionaryList.accessKey "d">
 <!ENTITY RemoveButton.label "Eliminar">
 <!ENTITY RemoveButton.accessKey "e">
+
 <!ENTITY CloseButton.label "Cerrar">
 <!ENTITY CloseButton.accessKey "C">

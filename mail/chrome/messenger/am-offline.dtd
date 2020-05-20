@@ -38,6 +38,7 @@
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Sincronización de mensajes">
 <!ENTITY diskspaceGroupTitle.label "Espacio en disco">
+
 <!ENTITY allAutosync.label "Sincronizar todos los mensajes localmente sin importar su antigüedad">
 <!ENTITY allAutosync.accesskey "u">
 <!ENTITY ageAutosyncBefore.label "Sincronizar los">
