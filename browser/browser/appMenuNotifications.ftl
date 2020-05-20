@@ -45,6 +45,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonlabel = Va ben, ò capio
     .secondarybuttonaccesskey = V
 appmenu-addon-private-browsing-learn-more = Descòvri comme gestî e inpostaçioin de estenscioin.
+    
 appmenu-new-tab-controlled =
     .label = A pagina neuvo feuggio a l'é cangiâ.
     .buttonlabel = Mantegni i cangi

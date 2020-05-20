@@ -7,7 +7,9 @@ about-config-warning-title = Chi gh'é di draghi!
 about-config-warning-text = Cangiâ ste inpostaçioin avansæ peu ese peigoso pe-a stabilitæ, seguessa e prestaçioin de sta aplicaçion. Ti doviesci continoâ solo se ti sæ ben quello che ti fæ.
 about-config-warning-checkbox = Ronpime torna, pe piaxei!
 about-config-warning-button = Acetto o reizego
+
 about-config2-title = Configuraçioin avansæ
+
 about-config-search-input =
     .placeholder = Çerca
 
@@ -16,16 +18,21 @@ about-config-search-input =
 
 
 
+##
+
 about-config-page-title = Preferense avansæ
+
 about-config-search-input1 =
     .placeholder = Çerca nomme preferensa
 about-config-show-all = Fanni vedde tutto
+
 about-config-pref-add = Azonzi
 about-config-pref-toggle = Cangia
 about-config-pref-edit = Cangia
 about-config-pref-save = Sarva
 about-config-pref-reset = Reinpòsta
 about-config-pref-delete = Scancella
+
 about-config-pref-add-button =
     .title = Azonzi
 about-config-pref-toggle-button =

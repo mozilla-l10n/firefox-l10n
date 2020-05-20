@@ -52,7 +52,7 @@
 
 <!ENTITY  genericBackgroundError.label    "O &brandShortName; o no l'ariesce a capî se gh'é di agiornamenti. Pe piaxei
                                            te peu miga amiâ se ti gh'æ l'urtima verscion de &brandShortName; da:">
-
+                                           
 <!ENTITY  finishedPage.title              "Agiornamento pronto da Instalâ">
 <!ENTITY  finishedPage.text               "L'agiornamento o saiâ instalòu a-a pròscima avertua de &brandShortName;. Ti ti 
                                            peu arvî torna &brandShortName; òua ò ti peu continoâ a louâ e arvî torna dòppo.">

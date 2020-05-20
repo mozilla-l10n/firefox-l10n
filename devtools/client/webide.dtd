@@ -53,6 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "i">
 
 <!ENTITY projectButton_label "Arvi app">
+
 <!ENTITY runtimeButton_label "Seleçionn-a runtime">
 
 <!-- We try to repicate Firefox' bindings: -->

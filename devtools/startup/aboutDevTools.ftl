@@ -13,6 +13,7 @@ enable-common-message = I Strumenti do svilupatô en dizabilitæ comme preinpost
 enable-learn-more-link = Atre informaçioin in sci Strumenti do svilupatô
 enable-enable-button = Abilita Strumenti do svilupatô
 enable-close-button = Særa sto feuggio
+
 welcome-title = Benvegnuo inti Strumenti do svilupatô de Firefox!
 newsletter-title = Newsletter di Svilupatoî Mozilla
 newsletter-message = Piggite e notiçie di svilupatoî e risorse mandæ pròprio inta teu cazella de pòsta.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Son d'acòrdio che Mozilla o manezze e mæ informaçi
 newsletter-subscribe-button = Abon-ite
 newsletter-thanks-title = Graçie!
 newsletter-thanks-message = Se primma no ti æ confermou l'abonamento a-a newsletter in sce Mozilla ti doviesci fâlo. Amîa ben inta teu pòsta in intrâ ò into spam se no ti gh'æ ina email da niâtri.
+
 footer-title = Firefox Developer Edition
 footer-message = Ti çerchi quarcösa de ciù che di Strumenti do svilupatô? Ma aloa amia o navegatô Firefox fæto pe-i svilopatoî e 'n moderno flusso de travaggio.
 footer-learn-more-link = Atre informaçioin
+
 features-learn-more = Atre informaçioin
 features-inspector-title = Ispetô
 features-inspector-desc = Ispeçionn-a e rifinisci o còdice pe dâ un aspeto mavegiozo. <a data-l10n-name="learn-more">{ features-learn-more }</a>

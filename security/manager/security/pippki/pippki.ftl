@@ -8,6 +8,7 @@ password-quality-meter = Qualitæ da paròlla segreta
 
 change-password-window =
     .title = Cangia a paròlla segreta prinçipâ
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Aparato de seguessa: { $tokenName }

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Caratere
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Caratere pe
     .accesskey = C
+
 fonts-langgroup-arabic =
     .label = Arabo
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporçionâ
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Dimenscion
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Spaçio sencio
     .accesskey = S
+
 fonts-monospace-size = Dimenscion
     .accesskey = i
+
 fonts-minsize = Dimenscion minima do testo
     .accesskey = o
+
 fonts-minsize-none =
     .label = Ninte
+
 fonts-allow-own =
     .label = Permette a-e pagine de çerne i seu font, invece de quelli che t'æ seleçionou chi sotta
     .accesskey = P
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codifica do testo pe contegui vegi
 fonts-languages-fallback-desc = Sta codifica do testo a vegne adeuviâ pe contegnui vegi che no gh'an na pròpria codifica.
+
 fonts-languages-fallback-label = Codifica do testo da deuviâ
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Predefinia pe-a lengoa corente
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamitto
 fonts-languages-fallback-name-other =
     .label = Atro (incl. Ouröpa ponentinn-a)
-fonts-very-large-warning-title = Dimenscion minima di caratteri tròppo erta
-fonts-very-large-warning-message = L'é inpostou 'na dimenscion minima di caratteri tròppo grande (ciù de 24 pixel). Sta cösa chi a porieiva rende difiçile ò adreitua inposcibile l’uzo de quarche pagina inportante de configuraçion.
-fonts-very-large-warning-accept = Mantegni a dimenscion seleçionâ
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

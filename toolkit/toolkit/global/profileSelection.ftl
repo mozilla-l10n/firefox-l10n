@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Çerni o profî
+
 profile-selection-button-accept =
     .label = Iniçia { -brand-short-name }
+
 profile-selection-button-cancel =
     .label = Sciòrti
+
 profile-selection-new-button =
     .label = Crea Profî…
     .accesskey = C
+
 profile-selection-rename-button =
     .label = Rinòmina Profî…
     .accesskey = R
+
 profile-selection-delete-button =
     .label = Scancella Profî…
     .accesskey = S
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = O { -brand-short-name } o sarva informançioin de teu preferense e inpostançioin into teu profî.
+
 profile-manager-work-offline =
     .label = Lòua feua linia
     .accesskey = o
+
 profile-manager-use-selected =
     .label = Deuvia o profî seleçionou sensa domandalo a l'avertua
     .accesskey = u

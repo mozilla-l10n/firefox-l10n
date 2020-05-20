@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Gh'é stæto un erô durante a conescion a { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Còdice d'erô: { $error }
+
 psmerr-ssl-disabled = No pòsso conetime in manea segua perché o protocòllo SSL o l'é stæto dizabilitou.
 psmerr-ssl2-disabled = No pòsso conetime in manea segua perché o protocòllo SSL l'é inte 'na verscion vegia e no segua.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ti æ riçevuo un certificato invalido. Pe piaxei, contatta l'aministratô e dagghe a segoente informaçion:
     
     O teu certificato o contegne o mæximo numero che un atro rilasciou da l'aotoritæ de certificaçion. Pe piaxei pigine un atro ch'o l'agge un numero unico.
+
 ssl-error-export-only-server = No riescio a comunicâ in mòddo seguo. O peer no sopòrta 'n'erto graddo de criptaçion.
 ssl-error-us-only-server = No riescio a comunicâ in mòddo seguo. O peer domanda 'n'erto graddo de criptaçion ch'o no l'é soprtou.
 ssl-error-no-cypher-overlap = No riescio a comunicâ in mòddo seguo co-o peer: nisciun algoritmo de criptaçion comune.

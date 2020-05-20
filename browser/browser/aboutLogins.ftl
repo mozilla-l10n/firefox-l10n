@@ -12,14 +12,11 @@ login-app-promo-android =
     .alt = Piggitelo in sce Google Play
 login-app-promo-apple =
     .alt = Descarega da l'App Store
+
 login-filter =
     .placeholder = Çerca inti login
+
 create-login-button = Crea neuvo login
-# This string is used as alternative text for favicon images.
-# Variables:
-#   $title (String) - The title of the website associated with the favicon.
-login-favicon =
-    .alt = Favicon pe { $title }
 
 ## The ⋯ menu that is in the top corner of the page
 
@@ -28,9 +25,6 @@ login-favicon =
 
 login-list-item-title-new-login = Nuovo login
 login-list-item-subtitle-missing-username = (nisciun nomme utente)
-about-logins-list-item-warning-icon =
-    .alt = Icöna avizo
-    .title = Scito ch'o viola i dæti
 about-logins-list-item-breach-icon =
     .title = Scito ch'o viola i dæti
 
@@ -42,10 +36,6 @@ about-logins-list-item-breach-icon =
 login-item-copy-username-button-text = Còpia
 login-item-copied-username-button-text = Copiou!
 login-item-password-label = Poula segreta
-login-item-password-reveal-checkbox-show =
-    .title = Mostra poula segreta
-login-item-password-reveal-checkbox-hide =
-    .title = Ascondi poula segreta
 login-item-copy-password-button-text = Còpia
 login-item-copied-password-button-text = Copiou!
 login-item-save-changes-button = Sarva cangiamenti
@@ -55,6 +45,12 @@ login-item-time-changed = Urtimo cangiamento: { DATETIME($timeChanged, day: "num
 login-item-time-created = Creou: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Urtimo uzo: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
 master-password-notification-message = Scrivi a teu poula segreta prinçipâ pe amiâ i login e poule segrete sarvæ
@@ -62,11 +58,8 @@ master-password-reload-button =
     .label = Intra
     .accesskey = I
 
-## Dialogs
+## Password Sync notification
 
-confirmation-dialog-cancel-button = Anulla
-confirmation-dialog-dismiss-button =
-    .title = Anulla
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -74,12 +67,19 @@ enable-password-sync-preferences-button =
            *[other] Arvi e preferense de { -sync-brand-short-name }
         }
     .accesskey = A
-confirm-delete-dialog-title = Scancelâ st'acesso?
+
+## Dialogs
+
+confirmation-dialog-cancel-button = Anulla
+confirmation-dialog-dismiss-button =
+    .title = Anulla
+
 confirm-delete-dialog-message = St'açion a no peu ese anula.
-confirm-delete-dialog-confirm-button = Scancella
 
 ## Breach Alert notification
 
+
+## Vulnerable Password notification
 
 ## Error Messages
 

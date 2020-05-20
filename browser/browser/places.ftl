@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Arvi inte 'n neuva barcon privòu
     .accesskey = m
+
 places-new-bookmark =
     .label = Neuvo segnalibbro…
     .accesskey = b
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Neuvo separatô
     .accesskey = s
+
 places-view =
     .label = Fanni vedde
     .accesskey = F
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Pe dæta e scito
     .accesskey = t
+
 places-history-search =
     .placeholder = Çerca inta stöia
 places-bookmarks-search =
     .placeholder = Çerca inti segnalibbri
+
 places-delete-domain-data =
     .label = Ascòrdite de questo scito
     .accesskey = A
