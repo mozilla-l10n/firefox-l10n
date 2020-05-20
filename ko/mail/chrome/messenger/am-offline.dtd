@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "디스크 용량을 확보하려면 메시지를 저장하지 마십시오.">
 <!ENTITY doNotDownloadNntp.label "디스크 용량을 확보하려면 오프라인 사용을 위한 메시지 저장을 하지 마십시오.">
 <!ENTITY doNotDownloadImap.label "디스크 용량을 확보하려면, 서버에서 받은 메시지와 오프라인을 위한 로컬 복사본 유지에 기간 또는 크기 제한을 하십시오.">
-<!ENTITY allFoldersOffline.label "컴퓨터에 현재 계정 메시지 보관">
-<!ENTITY allFoldersOffline.accesskey "o">
 <!ENTITY allFoldersOffline2.label "이 컴퓨터에 이 계정의 모든 폴더의 메시지를 유지합니다.">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "노트: 변경시 이 계정의 모든 폴더가 영향을 받습니다. 개별 폴더를 설정하려면 고급… 버튼을 이용하세요.">

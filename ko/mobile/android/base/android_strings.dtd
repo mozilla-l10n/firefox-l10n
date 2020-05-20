@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; 위치 기반 서비스 작동중">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "자동 업데이트">
-<!ENTITY pref_update_autodownload_wifi "Wi-Fi에서만 사용함">
-<!ENTITY pref_update_autodownload_never "사용 안 함">
-<!ENTITY pref_update_autodownload_always "항상 사용함">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "도움말">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "북마크 및 방문 기록">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; 업데이트 가능">
-<!ENTITY updater_start_select2 "다운로드 하기">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; 다운로드 중">
-<!ENTITY updater_downloading_title_failed2 "다운로드 실패">
-<!ENTITY updater_downloading_select2 "다운로드된 업데이트 적용">
-<!ENTITY updater_downloading_retry2 "재시도">
-
-<!ENTITY updater_apply_title3 "다운로드된 &brandShortName; 업데이트">
-<!ENTITY updater_apply_select3 "터치해서 설치">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "파일을 다운로드 받고 업데이트하기 위해, &brandShortName; 가 저장소에 접근하는 것을 허가합니다.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "허용">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "새 손님 세션">
 <!ENTITY exit_guest_session "손님 세션 나가기">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "사운드와 비디오">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; 팁과 트릭">
-<!ENTITY updater_notification_channel "앱 업데이트">
 <!ENTITY synced_tabs_notification_channel "동기화된 탭">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

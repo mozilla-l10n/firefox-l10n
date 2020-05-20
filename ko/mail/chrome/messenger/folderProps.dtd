@@ -31,8 +31,6 @@
 <!ENTITY retentionKeepAll.accesskey "A">
 <!ENTITY retentionKeepRecent.label "최근 메시지만 남기고 모두 삭제하기">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "읽은 메시지는 항상 삭제하기 (기간 설정 무시)">
 <!ENTITY retentionApplyToFlagged.label "별표 메시지 항상 저장하기">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 
@@ -54,19 +52,20 @@
 <!ENTITY folderProps.name.label "이름:">
 <!ENTITY folderProps.name.accesskey "N">
 
+<!ENTITY folderProps.location.label "주소:">
+<!ENTITY folderProps.location.accesskey "L">
+
 <!ENTITY folderSharingTab.label "공유">
 <!ENTITY privileges.button.label "접근 권한…">
 <!ENTITY privileges.button.accesskey "P">
 <!ENTITY permissionsDesc.label "아래 권한 있음:">
 
 <!ENTITY folderType.label "폴더 형식:">
+
 <!ENTITY folderQuotaTab.label "용량">
 <!ENTITY folderQuotaRoot.label "인용 위치:">
 <!ENTITY folderQuotaUsage.label "사용:">
 <!ENTITY folderQuotaStatus.label "상태:">
-
-<!ENTITY folderProps.location.label "주소:">
-<!ENTITY folderProps.location.accesskey "L">
 
 <!ENTITY numberOfMessages.label                  "메시지 갯수:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->

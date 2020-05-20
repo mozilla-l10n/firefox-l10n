@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "새 메시지를 자동으로 받아오기">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "아이디">
 <!ENTITY deleteMessagePrefix.label "메시지 삭제 설정:">
 <!ENTITY modelMoveToTrash.label "현재 폴더로 이동:">
 <!ENTITY modelMoveToTrash.accesskey "o">

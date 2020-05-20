@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Google Play에서 받기
 login-app-promo-apple =
     .alt = App Store에서 다운로드
+
 login-filter =
     .placeholder = 로그인 검색
+
 create-login-button = 새 로그인 만들기
+
 fxaccounts-sign-in-text = 다른 기기에서 비밀번호 받기
 fxaccounts-sign-in-button = { -sync-brand-short-name }에 로그인
 fxaccounts-avatar-button =
@@ -106,20 +109,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = 저장된 로그인을 편집하려면 자격 증명을 검증하세요.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = 로그인을 편집하려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = 저장된 로그인 편집
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = 저장된 비밀번호를 표시하려면 자격 증명을 검증하세요.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = 비밀번호를 보려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = 저장된 비밀번호 표시
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = 저장된 비밀번호를 복사하려면 자격 증명을 검증하세요.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = 비밀번호를 복사하려면, Windows 로그인 자격 증명을 입력하세요. 이는 계정의 보안을 보호하는데 도움이 됩니다.
 # This message can be seen when attempting to copy a password in about:logins
@@ -156,9 +164,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = 취소
 confirmation-dialog-dismiss-button =
     .title = 취소
+
 about-logins-confirm-remove-dialog-title = 이 로그인을 삭제하시겠습니까?
 confirm-delete-dialog-message = 이 작업은 취소할 수 없습니다.
 about-logins-confirm-remove-dialog-confirm-button = 삭제
+
 confirm-discard-changes-dialog-title = 저장되지 않은 변경 내용을 버리시겠습니까?
 confirm-discard-changes-dialog-message = 저장되지 않은 모든 변경 내용을 잃게 됩니다.
 confirm-discard-changes-dialog-confirm-button = 버리기
@@ -189,5 +199,6 @@ about-logins-vulnerable-alert-learn-more-link = 더 알아보기
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = 해당 사용자 이름으로 { $loginTitle }에 대한 항목이 이미 존재합니다. <a data-l10n-name="duplicate-link">기존 항목으로 이동하시겠습니까?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = 이 비밀번호를 저장하는 중 오류가 발생했습니다.

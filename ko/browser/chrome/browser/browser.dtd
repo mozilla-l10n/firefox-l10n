@@ -241,6 +241,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "주소 표시줄의 주소로 이동">
+
 <!ENTITY printButton.label            "인쇄">
 <!ENTITY printButton.tooltip          "이 페이지 인쇄">
 
@@ -632,6 +633,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pocket에 저장">
+
 <!ENTITY saveToPocketCmd.label        "페이지를 Pocket에 저장">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "링크를 Pocket에 저장">

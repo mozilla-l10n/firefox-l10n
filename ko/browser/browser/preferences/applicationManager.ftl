@@ -5,12 +5,15 @@
 app-manager-window =
     .title = 응용 프로그램 상세 정보
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = 제거
     .accesskey = R
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = 아래 응용 프로그램들은 { $type } 링크 기능을 이용하기 위한 것입니다.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = 아래 응용 프로그램들은 { $type } 콘텐츠 기능을 이용하기 위한 것입니다.

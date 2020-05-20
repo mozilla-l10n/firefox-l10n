@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "생일:">
 <!ENTITY Birthday.accesskey             "B">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "월">
 <!ENTITY Day.placeholder                "일">
 <!ENTITY Year.placeholder               "년">
-<!ENTITY Or.value                       "또는">
 <!ENTITY Age.label                      "나이:">
 <!ENTITY Age.placeholder                "나이">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "직장">
 <!ENTITY Work.accesskey                 "W">

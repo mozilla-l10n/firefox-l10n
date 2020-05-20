@@ -1,8 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
 <!ENTITY windowTitle.label "표 삽입">
+
 <!ENTITY size.label "크기">
 <!ENTITY numRowsEditField.label "행:">
 <!ENTITY numRowsEditField.accessKey "R">

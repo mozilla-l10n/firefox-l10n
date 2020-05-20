@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "글꼴:">
 <!ENTITY font.accesskey                       "n">
-<!ENTITY size.label                           "크기:">
-<!ENTITY size.accesskey                       "z">
 <!ENTITY fontSize.label                       "크기:">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "사용자의 기본 색상 사용">

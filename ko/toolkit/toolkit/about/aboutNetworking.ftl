@@ -9,24 +9,12 @@ ok = 확인
 http = HTTP
 sockets = Sockets
 dns = DNS
-dnssuffix = DNS 접미사
 websockets = WebSockets
 refresh = 새로 고침
 auto-refresh = 3초마다 자동 새로 고침
 hostname = 호스트명
 port = 포트
 http2 = HTTP/2
-about-networking-title = 네트워크 정보
-about-networking-http = HTTP
-about-networking-sockets = Sockets
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS 접미사
-about-networking-websockets = WebSockets
-about-networking-refresh = 새로 고침
-about-networking-auto-refresh = 3초마다 자동 새로 고침
-about-networking-hostname = 호스트명
-about-networking-port = 포트
-about-networking-http-version = HTTP 버전
 ssl = SSL
 active = 활성
 idle = 대기
@@ -69,8 +57,18 @@ rcwn-avg-long = 긴 평균
 rcwn-std-dev-long = 긴 표준 편차
 rcwn-cache-slow = 느린 캐시 횟수
 rcwn-cache-not-slow = 느리지 않은 캐시 횟수
-networkid = 네트워크 ID
-networkid-id = 네트워크 ID
+
+about-networking-title = 네트워크 정보
+about-networking-http = HTTP
+about-networking-sockets = Sockets
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS 접미사
+about-networking-websockets = WebSockets
+about-networking-refresh = 새로 고침
+about-networking-auto-refresh = 3초마다 자동 새로 고침
+about-networking-hostname = 호스트명
+about-networking-port = 포트
+about-networking-http-version = HTTP 버전
 about-networking-ssl = SSL
 about-networking-active = 활성
 about-networking-idle = 대기
@@ -118,8 +116,6 @@ about-networking-networkid-id = 네트워크 ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = 링크가 작동 중
-networkid-statusKnown = 링크 상태가 알려져 있음
 about-networking-networkid-is-up = 링크가 작동 중
 about-networking-networkid-status-known = 링크 상태가 알려져 있음
 

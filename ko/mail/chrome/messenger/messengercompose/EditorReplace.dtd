@@ -4,6 +4,8 @@
 
 <!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "찾아서 바꾸기">
 <!ENTITY findField.label "찾을 단어:">
 <!ENTITY findField.accesskey "n">

@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "새로운 파일 공유 스토리지 서비스를 추가합니다">
 <!ENTITY removeCloudFileAccount.label     "삭제">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "이 스토리지 서비스의 설정을 보기 위해서 허가가 필요합니다.">
-<!ENTITY authRequired.button.label        "허가">
-<!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY findCloudFileProviders.label     "다른 제공 업체 찾기…">
 
