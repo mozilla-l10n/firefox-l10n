@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Diuz pep tra">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Klask">
 <!ENTITY findCmd.key               "f">
 <!ENTITY findCmd.accesskey         "K">

@@ -9,17 +9,12 @@ about-service-workers-title = A-zivout al labourerien gwazerezh
 about-service-workers-main-title = Labourerien gwazerezh marilhet
 about-service-workers-warning-not-enabled = N'eo ket gweredekaet al labourerien gwazerezh.
 about-service-workers-warning-no-service-workers = Labourer gwazerezh marilhet ebet.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Orin: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } Naoudi an arload { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Anv krubuilh oberiant :</strong> { $name }
 waiting-cache-name = <strong>O c'hortoz anv ar c'hrubuilh :</strong> { $name }
 push-end-point-waiting = <strong>Poent dibenn bountañ :</strong> { waiting }
 push-end-point-result = <strong>Poent dibenn bountañ :</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Hizivaat
+
 unregister-button = Divarilhañ
+
 unregister-error = C'hwitet war divarilhadur ar Service Worker-mañ.
+
 waiting = O c'hortoz…

@@ -128,8 +128,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "Gwiriit ho kont">
 
 
-<!ENTITY togglePictureInPicture.key2 "}">
-<!ENTITY togglePictureInPicture.key "]"> <!-- } is above this key on many keyboards -->
+<!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Bihanaat">
 <!ENTITY fullScreenRestore.tooltip "Assav">
@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Mont d'ar chomlec'h er varrenn lec'hiañ">
+
 <!ENTITY printButton.label            "Moullañ">
 <!ENTITY printButton.tooltip          "Moullañ ar bajennad-mañ">
 
@@ -295,6 +296,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
+
 
 <!ENTITY searchItem.title             "Klask">
 
@@ -359,6 +361,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "e">
 <!ENTITY manageUserContext.label          "Merañ an endalc'herioù">
 <!ENTITY manageUserContext.accesskey      "e">
+
 <!ENTITY newNavigatorCmd.label        "Prenestr nevez">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -639,6 +642,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Enrollañ etrezek Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Enrollañ ar bajenn etrezek Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Enrollañ an ere etrezek Pocket">
@@ -849,18 +853,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Secure Connection">
 <!ENTITY identity.connectionNotSecure "N'eo ket diarvar ar c'hennask">
 
-<!ENTITY identity.connectionSecure3 "Kennask suraet">
-<!ENTITY identity.connectionNotSecure2 "N'eo ket diarvar ar c'hennask">
-<!ENTITY identity.connectionNotSecureSecurityView "N'oc'h ket kennasket d'al lec'hienn-mañ en un doare sur.">
 <!ENTITY identity.connectionFile "War hoc'h urzhiataer eo kadavet ar bajenn-mañ.">
 <!ENTITY identity.connectionVerified2 "Kennasket oc'h en un doare diogel ouzh al lec'hienn, perc'hennet gant :">
-<!ENTITY identity.connectionVerified3 "Kennasket oc'h d'al lec'hienn-mañ en un doare sur.">
 <!ENTITY identity.connectionInternal "Ur bajenn &brandShortName; diarvar eo.">
 <!ENTITY identity.extensionPage "Diwar un askouezh eo karget ar bajenn-mañ.">
 <!ENTITY identity.insecureLoginForms2 "Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.">
 <!ENTITY identity.customRoot "Gwiriet eo bet ar c'hennask hag ur pourchaser testenioù n'eo ket adanavezet gant Mozilla.">
-
-<!ENTITY identity.evOwnerLabel2 "Testeni roet da:">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Stanket eo bet gant &brandShortName; lodennoù arvarus er bajennad.">
@@ -896,7 +894,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Aotreoù">
 
-<!ENTITY identity.permissions3 "Aotreoù">
 <!ENTITY identity.permissionsEmpty "N'ho peus roet aotre arbennik ebet d'al lec'hienn-mañ.">
 <!ENTITY identity.permissionsReloadHint "Ret eo deoc'h adkargañ ar bajenn evit arloañ ar c'hemmoù.">
 <!ENTITY identity.permissionsPreferences.tooltip "Digeriñ gwellvezioù an aotreoù">
@@ -1046,6 +1043,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Serriñ">
 

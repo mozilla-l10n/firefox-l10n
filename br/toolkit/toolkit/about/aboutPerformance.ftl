@@ -54,6 +54,7 @@ close-tab =
     .title = Serriñ an ivinell
 show-addon =
     .title = Diskouez en ardoer askouezhioù
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

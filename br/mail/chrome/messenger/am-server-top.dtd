@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Pellgargañ ar c'hemennadennoù nevez ent emgefreek">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Hoc'h anv lugañ">
 <!ENTITY deleteMessagePrefix.label "Pa vez lamet kuit ur gemennadenn ganin :">
 <!ENTITY modelMoveToTrash.label "Dilec'hiañ hi en teuliad Lastez">
 <!ENTITY modelMoveToTrash.accesskey "i">

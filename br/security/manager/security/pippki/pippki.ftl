@@ -8,6 +8,7 @@ password-quality-meter = Perzhded ar ger-tremen
 
 change-password-window =
     .title = Kemmañ ar ger-tremen mestr
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Trevnad diogelroez: { $tokenName }

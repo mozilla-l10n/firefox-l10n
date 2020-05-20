@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "Gwiriañ ar pennadoù-skrid nevez pa loc'h ar goulev">
-<!ENTITY loginAtStartup.accesskey      "G">
 <!ENTITY biffAll.label                 "Gweredekaat an hizivadurioù evit an holl lanvioù">
 <!ENTITY biffAll.accesskey             "h">
 

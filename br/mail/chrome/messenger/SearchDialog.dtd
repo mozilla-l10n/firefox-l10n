@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Klask kempleshoc'h er c'harned posteloù">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Neudennad">
-<!ENTITY fromColumn.label "A-berzh">
-<!ENTITY recipientColumn.label "Degemerer">
-<!ENTITY correspondentColumn.label "Kenskriverien">
-<!ENTITY subjectColumn.label "Danvez">
-<!ENTITY dateColumn.label "Deiziad">
-<!ENTITY priorityColumn.label "Tevet">
-<!ENTITY tagsColumn.label "Gerioù Alc'hwez">
-<!ENTITY accountColumn.label "Kont">
-<!ENTITY statusColumn.label "Stad">
-<!ENTITY sizeColumn.label "Ment">
-<!ENTITY junkStatusColumn.label "Stad lastez">
-<!ENTITY unreadColumn.label "Anlennet">
-<!ENTITY totalColumn.label "Hollad">
-<!ENTITY readColumn.label "Lennet">
-<!ENTITY receivedColumn.label "Degemeret">
-<!ENTITY starredColumn.label "Steredennet">
-<!ENTITY locationColumn.label "Lec'hiadur">
-<!ENTITY idColumn.label "Urzh degemer">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Diuzañ ar bannoù da ziskouez">
-<!ENTITY threadColumn2.tooltip "Diskouez neudennadoù ar c'hemennadennoù">
-<!ENTITY fromColumn2.tooltip "Rummañ dre gaser">
-<!ENTITY recipientColumn2.tooltip "Rummañ dre zegemerer">
-<!ENTITY correspondentColumn2.tooltip "Rummañ dre kenskriverien">
-<!ENTITY subjectColumn2.tooltip "Rummañ dre zanvez">
-<!ENTITY dateColumn2.tooltip "Rummañ dre zeiziad">
-<!ENTITY priorityColumn2.tooltip "Rummañ dre devet">
-<!ENTITY tagsColumn2.tooltip "Rumman dre verk">
-<!ENTITY accountColumn2.tooltip "Rummañ dre gont">
-<!ENTITY statusColumn2.tooltip "Rummañ dre stad">
-<!ENTITY sizeColumn2.tooltip "Rummañ dre vent">
-<!ENTITY junkStatusColumn2.tooltip "Rummañ dre stad &quot;lastez&quot;">
-<!ENTITY unreadColumn2.tooltip "Niver a gemennadennoù nevez en neudennad">
-<!ENTITY totalColumn2.tooltip "Hollad kemennadennoù en neudennad">
-<!ENTITY readColumn2.tooltip "Rummañ dre stad &quot;lenn&quot;">
-<!ENTITY receivedColumn2.tooltip "Rummañ dre zeiziad degemer">
-<!ENTITY starredColumn2.tooltip "Rummañ dre stad &quot;steredennet&quot;">
-<!ENTITY locationColumn2.tooltip "Rummañ dre lec'hiadur">
-<!ENTITY idColumn2.tooltip "Rummañ dre urzh degemer">

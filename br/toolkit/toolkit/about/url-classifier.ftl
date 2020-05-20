@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Molladoù kerzhlevr ar Merdeiñ Diarvar
 url-classifier-debug-modules = Molladoù kerzhlevr bremanel
 url-classifier-debug-sbjs-modules = Kerzhlevr JS ar merdeiñ diarvar
 url-classifier-debug-file = Restr kerzhlevr bremanel
+
 url-classifier-trigger-update = Deluskañ un hizivadenn
 url-classifier-not-available = DIHEGERZ
 url-classifier-disable-sbjs-log = Diweredekaat kerzhlevr JS ar merdeiñ diarvar

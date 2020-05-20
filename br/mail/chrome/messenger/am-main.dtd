@@ -4,6 +4,8 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Arventennoù kont">
 <!ENTITY accountName.label "Anv kont :">
 <!ENTITY accountName.accesskey "n">

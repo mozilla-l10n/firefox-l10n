@@ -100,8 +100,8 @@
      for the bucket view state machinery to work. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Diuzañ pep tra">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Klask…">
 <!ENTITY findBarCmd.accesskey "K">
 <!ENTITY findBarCmd.key "F">

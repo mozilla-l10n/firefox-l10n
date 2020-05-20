@@ -3,9 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "A-zivout &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "Arnodel eo &brandShortName; ha marteze e vo distabil.">
-<!ENTITY aboutPage.telemetryStart               "Kas a ra stlennoù a-fet digonusted, periant, arver ha personelaat da">
-<!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 "ent emgefreek evit reiñ skoazell gwellaat &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "Klask hizivadennoù »">
 <!ENTITY aboutPage.checkForUpdates.checking     "O klask hizivadennoù…">
 <!ENTITY aboutPage.checkForUpdates.none         "Hizivadenn ebet hegerz">

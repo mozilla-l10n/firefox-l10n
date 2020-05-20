@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Nodrezhoù
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Nodrezhoù evit
     .accesskey = N
+
 fonts-langgroup-arabic =
     .label = Arabeg
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Kenfeuriek
     .accesskey = K
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Hep Serif
+
 fonts-proportional-size = Ment
     .accesskey = M
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Hep-serif
     .accesskey = H
+
 fonts-monospace = Unegor
     .accesskey = U
+
 fonts-monospace-size = Ment
     .accesskey = e
+
 fonts-minsize = Ment izek an nodrezh
     .accesskey = i
+
 fonts-minsize-none =
     .label = Tra ebet
+
 fonts-allow-own =
     .label = Aotren ar pajennadoù da zibab o nodrezhoù dezho e-lec'h ma diuzad a-us
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Bonegañ an arouezennoù evit an endalc'hadoù diamzeret
 fonts-languages-fallback-desc = Arveret eo bonegañ an arouezennoù-mañ evit an endalc'hadoù diamzeret na zisklerint ket o bonegañ.
+
 fonts-languages-fallback-label = Bonegañ an destenn dre ziouer
     .accesskey = B
+
 fonts-languages-fallback-name-auto =
     .label = Diouer evit ar yezh vremanel
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnameg
 fonts-languages-fallback-name-other =
     .label = All (Kornôg Europa e-barzh)
-fonts-very-large-warning-title = Ment nodrezh bihanañ ledan
-fonts-very-large-warning-message = Dibabet ho peus ur ment nodrezh bihanañ ledan (muioc'h eget 24 piksel). Gellout a rafe pajennoù kefluniadur pouezus evel houmañ bezañ diaes pe dibosupl da arverañ.
-fonts-very-large-warning-accept = Mirout va kemmoù memestra
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

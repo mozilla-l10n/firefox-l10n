@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Tapit anezhañ war Google Play
 login-app-promo-apple =
     .alt = Pellgargit anezhañ war an App Store
+
 login-filter =
     .placeholder = Klask titouroù kennaskañ
+
 create-login-button = Krouiñ un titour nevez
+
 fxaccounts-sign-in-text = Adkavit ho kerioù-tremen war ho trevnadoù all
 fxaccounts-sign-in-button = Kennaskit da { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -110,20 +113,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Gwiriit ho identelezh a-benn cheñch an anaouder enrollet.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Evit kemmañ ho titouroù kennaskañ, enankit reoù ho kont Windows. Skoazellañ a ra gwarez ho kontoù.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = cheñch an anaouder enrollet
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Gwiriit ho identelezh a-benn diskouez ar ger-tremen enrollet.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Evit gwelout ho ker-tremen, enankit ho titouroù kennaskañ Windows. Skoazellañ a ra da wareziñ ho kontoù.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = diskouez ar ger-tremen enrollet
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Gwiriit ho identelezh a-benn eilañ ar ger-tremen enrollet.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Evit eilañ ho ker-tremen, enankit ho titouroù kennaskañ Windows. Skoazellañ a ra da wareziñ ho kontoù.
 # This message can be seen when attempting to copy a password in about:logins
@@ -160,9 +168,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Nullañ
 confirmation-dialog-dismiss-button =
     .title = Nullañ
+
 about-logins-confirm-remove-dialog-title = Dilemel an titour kennaskañ-mañ?
 confirm-delete-dialog-message = N'haller ket dizober kement-se.
 about-logins-confirm-remove-dialog-confirm-button = Dilemel
+
 confirm-discard-changes-dialog-title = Dilezel ar c'hemmoù n'int ket bet enrollet?
 confirm-discard-changes-dialog-message = An holl c'hemmoù n'int ket bet enrollet a vo kollet.
 confirm-discard-changes-dialog-confirm-button = Dilezel
@@ -193,5 +203,6 @@ about-logins-vulnerable-alert-learn-more-link = Gouzout hiroc'h
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Un enankad evit { $loginTitle } gant an anv arveriad-mañ a zo dioutañ endeo. <a data-l10n-name="duplicate-link">Mont d'an enankad?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Degouezhet ez eus bet ur fazi en ur glask enrollañ ar ger-tremen-mañ

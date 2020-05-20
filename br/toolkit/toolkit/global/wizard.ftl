@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Distro
     .accesskey = s
+
 wizard-macos-button-next =
     .label = Kenderc'hel
     .accesskey = K
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = War-lerc'h >
     .accesskey = r
+
 wizard-macos-button-finish =
     .label = Graet eo
 wizard-linux-button-finish =
     .label = Echuiñ
 wizard-win-button-finish =
     .label = Echuiñ
+
 wizard-macos-button-cancel =
     .label = Nullañ
 wizard-linux-button-cancel =

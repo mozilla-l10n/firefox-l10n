@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "a">
 <!ENTITY DictionaryList.label "Gerioù er geriadur :">
 <!ENTITY DictionaryList.accessKey "e">
-<!ENTITY ReplaceButton.label "Amsaviñ">
-<!ENTITY ReplaceButton.accessKey "s">
 <!ENTITY RemoveButton.label "Dilemel">
 <!ENTITY RemoveButton.accessKey "e">
 

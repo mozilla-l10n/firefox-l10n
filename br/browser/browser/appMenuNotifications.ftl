@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = M
 appmenu-addon-private-browsing-message = Forzh pe askouezh nevez a ouzhpennit da { -brand-shorter-name } a vo stanket er prenestroù prevez estreget mard aotreit anezho en arventennoù.
 appmenu-addon-private-browsing-learn-more = Deskit penaos merañ arventennoù an askouezhioù.
+    
 appmenu-new-tab-controlled =
     .label = Kemmet eo bet pajenn an ivinell nevez.
     .buttonlabel = Mirout ar c'hemmoù

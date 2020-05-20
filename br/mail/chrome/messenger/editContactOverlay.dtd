@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Karned chomlec'hioù :">
 <!ENTITY editContactAddressBook.accesskey "K">
 
-<!ENTITY editContactPanelCancel.label "Nullañ">
-<!ENTITY editContactPanelCancel.accesskey "N">
-
 <!ENTITY editContactPanelDone.label "Graet">
 <!ENTITY editContactPanelDone.accesskey "G">
 

@@ -9,8 +9,10 @@ findbar-next =
     .tooltiptext = Kavout an tamm frazenn war-lerc'h o klotañ ganti
 findbar-previous =
     .tooltiptext = Kavout an tamm frazenn kent o klotañ ganti
+
 findbar-find-button-close =
     .tooltiptext = Serriñ ar varrenn glask
+
 findbar-highlight-all2 =
     .label = Sklêrijennañ pep tra
     .accesskey =
@@ -19,10 +21,12 @@ findbar-highlight-all2 =
            *[other] p
         }
     .tooltiptext = Sklerijennañ holl zegouezhioù ar frazenn
+
 findbar-case-sensitive =
     .label = Tirenneg
     .accesskey = T
     .tooltiptext = Klask en ur deurel evezh ouzh an direnneg
+
 findbar-entire-word =
     .label = Gerioù a-bezh
     .accesskey = G

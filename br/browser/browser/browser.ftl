@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Gwelout titouroù al lec'hienn
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Stanket ho peus an haeziñ MIDI evit al lec'hienn-mañ.
 urlbar-install-blocked =
     .tooltiptext = Stanket ho peus ar staliadurioù askouezhioù war al lec'hienn-mañ.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Embann ar sined-mañ ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Merañ an askouezh...
 page-action-remove-from-urlbar =
     .label = Lemel kuit diouzh ar varrenn chomlec'h
+
 page-action-remove-extension =
     .label = Dilemel an askouezh
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ar wech-mañ, klaskit gant:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Kemmañ an arventennoù klask
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Kemmañ an arventennoù klask
+
 search-one-offs-context-open-new-tab =
     .label = Klask en ivinell nevez
     .accesskey = n
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Diskouez an embanner pa enroll
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = Graet
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Rannet e vo an holl brenestroù gwelus war ho skramm.
 
 enable-devtools-popup-description = Evit ober gant ar verradenn F12, digorit DevTools dre al lañser diorroen web.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Roet ho peus aotreoù ouzhpenn d'al lec'hienn-mañ.
 urlbar-switch-to-tab =
     .value = Mont d'an ivinell :
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Askouezh:
+
 urlbar-go-button =
     .tooltiptext = Mont d'ar chomlec'h er varrenn lec'hiañ
 urlbar-page-action-button =

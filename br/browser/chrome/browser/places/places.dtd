@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Disranner nevez">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Adkargañ ar sined dialuskel">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "r">
-
-<!ENTITY cmd.moveBookmarks.label                  "Dilec'hiañ…">
-<!ENTITY cmd.moveBookmarks.accesskey              "l">
-
 <!ENTITY col.name.label          "Anv">
 <!ENTITY col.tags.label          "Klavioù">
 <!ENTITY col.url.label           "Lec'hiadur">
 <!ENTITY col.mostrecentvisit.label "Gweladenn nevesañ">
 <!ENTITY col.visitcount.label    "Kont ar gweladenniñ">
-<!ENTITY col.description.label   "Deskrivadur">
 <!ENTITY col.dateadded.label     "Ouzhpennet">
 <!ENTITY col.lastmodified.label  "An hini kemmet diwezhañ">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Mont war-raok">
 
-<!ENTITY detailsPane.more.label "Muioc'h a draoù">
-<!ENTITY detailsPane.more.accesskey "u">
-<!ENTITY detailsPane.less.label "Nebeutoc'h">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Diuzañ an ergorenn evit gwelout he ferzhioù">
 
 <!ENTITY view.label               "Gwelout">

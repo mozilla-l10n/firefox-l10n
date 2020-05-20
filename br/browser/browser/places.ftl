@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Digeriñ e-barzh ur prenestr merdeiñ prevez nevez
     .accesskey = m
+
 places-new-bookmark =
     .label = Sined nevez…
     .accesskey = n
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Disranner nevez
     .accesskey = s
+
 places-view =
     .label = Gwelout
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Diouzh an deiziad hag al lec'hienn
     .accesskey = D
+
 places-history-search =
     .placeholder = Klask er roll istor
 places-bookmarks-search =
     .placeholder = Klask er sinedoù
+
 places-delete-domain-data =
     .label = Ankouaat al lec'hienn-mañ
     .accesskey = A

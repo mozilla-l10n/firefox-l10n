@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = O c'houbredañ...
 fxa-toolbar-sync-syncing-tabs =
     .label = O goubredañ ivinelloù…
+
 sync-disconnect-dialog-title = Digennaskañ { -sync-brand-short-name }?
 sync-disconnect-dialog-body = { -brand-product-name } a baouezo da c'houbredañ ho kont met ne zilamo ket ho roadennoù merdeiñ war an trevnad-mañ.
 fxa-disconnect-dialog-title = Digennaskañ { -brand-product-name }?

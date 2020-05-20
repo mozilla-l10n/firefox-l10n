@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Serriñ
     .accesskey = r
+
 show-passwords =
     .label = Diskouez ar gerioù-tremen
     .accesskey = D

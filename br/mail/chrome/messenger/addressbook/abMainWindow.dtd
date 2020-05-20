@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapañ">
 <!ENTITY deleteButton2.tooltip                          "Dilemel an elfenn diuzet">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Karnedoù chomlec'hioù">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Anv pe bostel :">
 <!ENTITY SearchNameOrEmail.accesskey                    "n">

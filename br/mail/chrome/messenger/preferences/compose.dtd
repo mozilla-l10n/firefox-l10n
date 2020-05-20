@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Nodrezh :">
 <!ENTITY font.accesskey                       "N">
-<!ENTITY size.label                           "Ment :">
-<!ENTITY size.accesskey                       "M">
 <!ENTITY fontSize.label                       "Ment :">
 <!ENTITY fontSize.accesskey                   "M">
 <!ENTITY useReaderDefaults.label              "Arverañ livioù dre ziouer al lenner">
