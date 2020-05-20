@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Boca fechada">
 <!ENTITY smiley16Cmd.accesskey "f">
 <!ENTITY smiley16Cmd.tooltip "Inserir um emoji de boca fechada">
+<!ENTITY SmileButton.label "Inserir smiley">
 <!ENTITY SmileButton.tooltip "Inserir um emoji sorridente">
-
