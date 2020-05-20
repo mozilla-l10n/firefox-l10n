@@ -8,6 +8,7 @@ password-quality-meter = Wskôzôwôcz krôftu parolë
 
 change-password-window =
     .title = Zmieni przédną parolã
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Zabezpieczającé ùrządzenié: { $tokenName }

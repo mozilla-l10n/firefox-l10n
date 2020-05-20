@@ -5,4 +5,5 @@
 select-bookmark-window =
     .title = Ùsôdzë jakno domôcą stronã
     .style = width: 32em;
+
 select-bookmark-desc = Wëbierzë załóżkã, chtërna mô bëc twòją domôcą stroną. Jeżlë wëbróny bãdze katalog, załóżczi z negò kataloga bãdą òtemkniãté w kôrtach.

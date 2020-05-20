@@ -103,6 +103,7 @@ print-window =
     .title = Drëkòwanié
 print-complete =
     .value = Skùńczoné drëkòwanié.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

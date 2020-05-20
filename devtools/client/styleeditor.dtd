@@ -17,6 +17,7 @@
 
 
 <!ENTITY importButton.label         "Impòrtëjë…">
+
 <!ENTITY importButton.tooltip       "Impòrtëjë abò zmieni jistniejący sztél CSS">
 <!ENTITY importButton.accesskey     "I">
 
@@ -25,6 +26,8 @@
 <!-- LOCALIZATION NOTE  (searchClearButton): This button clears the search input
      box and is visible only when a search term has been typed. -->
 
+
+<!ENTITY visibilityToggle.tooltip "Włączanié/wëłączanié sztélów">
 
 <!ENTITY saveButton.label           "Zapiszë">
 <!ENTITY saveButton.tooltip         "Zapiszë CSS do lopka">
@@ -48,4 +51,3 @@
 <!-- LOCALICATION NOTE  (noStyleSheet-tip-end.label): End of the tip sentence -->
 <!ENTITY noStyleSheet-tip-end.label    "?">
 
-<!ENTITY visibilityToggle.tooltip "Włączanié/wëłączanié sztélów">

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Fòntë
+
 fonts-window-close =
     .key = w
 
@@ -66,6 +67,7 @@ fonts-default-serif =
     .label = Szerifòwi
 fonts-default-sans-serif =
     .label = Bezszerifòwi
+
 fonts-minsize-none =
     .label = Felënk
 

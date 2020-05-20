@@ -7,8 +7,6 @@
      Used by screen readers to describe the Downloads Panel.
      -->
 <!ENTITY downloads.title                  "Zladënczi">
-<!ENTITY downloadDetails.width            "50ch">
-<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 
 <!ENTITY cmd.pause.label                  "Paùza">
@@ -16,7 +14,6 @@
 <!ENTITY cmd.resume.label                 "Znowi">
 <!ENTITY cmd.resume.accesskey             "Z">
 <!ENTITY cmd.cancel.label                 "Òprzestóń">
-<!ENTITY cmd.cancel.accesskey             "p">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -33,22 +30,20 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "p">
 
 
-<!ENTITY cmd.clearList.label              "Wëczëszczë listã">
-<!ENTITY cmd.clearList.accesskey          "l">
-
-
-<!ENTITY downloadsHistory.label           "Wëskrzëni wszëtczé zladënczi">
-<!ENTITY downloadsHistory.accesskey       "W">
-<!ENTITY clearDownloadsButton.label       "Wëczëszczë zladënczi">
-<!ENTITY clearDownloadsButton.tooltip     "Rëmùje skùńczoné, òprzestóné i lëché zladënczi">
+<!ENTITY cmd.removeFromHistory.label      "Rëmôj z historie">
+<!ENTITY cmd.removeFromHistory.accesskey  "h">
 
 <!ENTITY cmd.clearDownloads.label         "Rëmôj zladënczi">
 <!ENTITY cmd.clearDownloads.accesskey     "z">
 
-<!ENTITY cmd.removeFromHistory.label      "Rëmôj z historie">
-<!ENTITY cmd.removeFromHistory.accesskey  "h">
+<!ENTITY downloadsHistory.label           "Wëskrzëni wszëtczé zladënczi">
+<!ENTITY downloadsHistory.accesskey       "W">
+
+<!ENTITY clearDownloadsButton.label       "Wëczëszczë zladënczi">
+<!ENTITY clearDownloadsButton.tooltip     "Rëmùje skùńczoné, òprzestóné i lëché zladënczi">
 
 <!ENTITY downloadsListEmpty.label         "Nima zladënków.">
+
 <!ENTITY downloadsListNoMatch.label       "Nie nalôzł pasownëch zladënków.">
 
 

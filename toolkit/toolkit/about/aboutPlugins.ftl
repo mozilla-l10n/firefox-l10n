@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Ò wtëkôczach
+
 installed-plugins-label = Nalôzł winstalowóné wtëkôcze
 no-plugins-are-installed-label = Nie nalôzł niżódnëch wtëkôczów
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">Stón:</span> Włączoné
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Stón:</span> Włączoné ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Stón:</span> Wëłączoné
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Stón:</span> Wëłączoné ({ $blockListState })
+
 mime-type-label = Ôrt MIME
 description-label = Òpisënk
 suffixes-label = Rozszerzenia

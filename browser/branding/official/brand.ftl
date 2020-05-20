@@ -14,6 +14,6 @@
 ## Reference: https://www.mozilla.org/styleguide/communications/translation/
 
 -brand-short-name = Firefox
--vendor-short-name = Mozilla
 -brand-full-name = Mozilla Firefox
+-vendor-short-name = Mozilla
 trademarkInfo = Firefox i jegò loga są zastrzéżonyma znakama Fùndacje Mozilla.

@@ -2,6 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the Scratchpad window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!ENTITY window.title                 "Czôrnopis">
 
 <!ENTITY fileMenu.label               "Lopk">
@@ -15,6 +24,13 @@
 <!ENTITY openFileCmd.accesskey        "Ò">
 <!ENTITY openFileCmd.commandkey       "ò">
 
+<!ENTITY openRecentMenu.label "Òtemkni slédné">
+
+<!ENTITY openRecentMenu.accesskey "é">
+
+<!ENTITY revertCmd.label              "Doprowôdzë nazôd…">
+<!ENTITY revertCmd.accesskey          "D">
+
 <!ENTITY saveFileCmd.label            "Zapiszë">
 <!ENTITY saveFileCmd.accesskey        "Z">
 <!ENTITY saveFileCmd.commandkey       "z">
@@ -25,6 +41,8 @@
 <!ENTITY closeCmd.label               "Zamkni">
 <!ENTITY closeCmd.key                 "W">
 <!ENTITY closeCmd.accesskey           "k">
+
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY editMenu.label               "Editëjë">
 <!ENTITY editMenu.accesskey           "E">
@@ -41,8 +59,12 @@
 <!ENTITY display.accesskey            "ë">
 <!ENTITY display.key                  "ë">
 
+<!ENTITY pprint.label                 "Pretty Print">
+<!ENTITY pprint.key                   "t">
+
 <!ENTITY environmentMenu.label        "Òkrãżé">
 <!ENTITY environmentMenu.accesskey    "é">
+
 
 <!ENTITY contentContext.label         "Zamkłosc">
 <!ENTITY contentContext.accesskey     "ł">
@@ -51,30 +73,24 @@
 <!ENTITY browserContext.label         "Przezérnik">
 <!ENTITY browserContext.accesskey     "P">
 
-<!ENTITY resetContext2.label           "Zrecetëjë zmienné">
-<!ENTITY resetContext2.accesskey       "Z">
-
-<!ENTITY executeMenu.label            "Zjiscy">
-<!ENTITY executeMenu.accesskey        "y">
-
-<!ENTITY errorConsoleCmd.commandkey   "j">
-
-<!ENTITY documentationLink.label      "Pòmòc dlô czôrnopisu na MDN">
-<!ENTITY documentationLink.accesskey  "u">
 <!ENTITY helpMenu.label               "Pòmòc">
 <!ENTITY helpMenu.accesskey           "m">
 <!ENTITY helpMenuWin.label            "Pòmòc">
 <!ENTITY helpMenuWin.accesskey        "ò">
-<!ENTITY openRecentMenu.accesskey "é">
-<!ENTITY openRecentMenu.label "Òtemkni slédné">
+
+<!ENTITY documentationLink.label      "Pòmòc dlô czôrnopisu na MDN">
+<!ENTITY documentationLink.accesskey  "u">
+
+
+<!ENTITY resetContext2.label           "Zrecetëjë zmienné">
+<!ENTITY resetContext2.accesskey       "Z">
 
 <!ENTITY reloadAndRun.label           "Zrëszi znowa">
 <!ENTITY reloadAndRun.accesskey       "z">
 <!ENTITY reloadAndRun.key             "z">
 
-<!ENTITY revertCmd.label              "Doprowôdzë nazôd…">
-<!ENTITY revertCmd.accesskey          "D">
+<!ENTITY executeMenu.label            "Zjiscy">
+<!ENTITY executeMenu.accesskey        "y">
 
-<!ENTITY pprint.label                 "Pretty Print">
-<!ENTITY pprint.key                   "t">
+<!ENTITY errorConsoleCmd.commandkey   "j">
 

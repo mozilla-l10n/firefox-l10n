@@ -4,6 +4,7 @@
 
 connection-close-key =
     .key = w
+
 connection-proxy-option-no =
     .label = Bez serwera proxy
     .accesskey = B
@@ -13,16 +14,21 @@ connection-proxy-option-system =
 connection-proxy-option-auto =
     .label = Wëkriwôj aùtomatno nastawë serwera proxy dlô ti sécë
     .accesskey = ë
+
 connection-proxy-http-share =
     .label = Ùżëjë negò serwera proxy dlô wszëtczéch protokółów
     .accesskey = s
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = 4
 connection-proxy-socks5 =
     .label = SOCKS v5
     .accesskey = v
+
 connection-proxy-noproxy-desc = Przëmiôr: .mozilla.org, .com.pl, 192.168.1.0/24
+
 connection-proxy-reload =
     .label = Zladëjë znowa
     .accesskey = d
+

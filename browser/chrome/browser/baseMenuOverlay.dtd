@@ -9,6 +9,7 @@
 # warszk <michol@linuxcsb.org>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -21,20 +22,18 @@
 <!ENTITY zoomWindow.label         "Zwikszenié">
 <!ENTITY windowMenu.label         "Òkno">
 
-<!ENTITY healthReport.label       "&brandShortName; Health Report">
-<!ENTITY healthReport.accesskey   "e">
-
 <!ENTITY helpMenu.label           "Pòmòc"> 
 <!ENTITY helpMenu.accesskey       "m"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Pòmòc"> 
 <!ENTITY helpMenuWin.accesskey    "ò">
-<!ENTITY aboutProduct.label       "Ò programie &brandShortName;">
-<!ENTITY aboutProduct.accesskey   "g">
-<!ENTITY productHelp.label        "Pòmòc dlô programù &brandShortName;">
-<!ENTITY productHelp.accesskey    "ô">
+
 <!ENTITY helpMac.commandkey       "?">
+
+<!ENTITY helpKeyboardShortcuts.label     "Skródzënë klawiaturë">
+<!ENTITY helpKeyboardShortcuts.accesskey "k">
+
 <!ENTITY helpSafeMode.label       "Zrëszë znowa z wëłączonyma dodôwkama…">
 <!ENTITY helpSafeMode.accesskey   "ë">
 
@@ -49,14 +48,8 @@
 
 <!ENTITY servicesMenuMac.label          "Ùsłëżnotë">
 
-<!ENTITY hideThisAppCmdMac.label        "Zatacë &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey   "Z">
-
 <!ENTITY hideOtherAppsCmdMac.label      "Zatacë resztã">
 <!ENTITY hideOtherAppsCmdMac.commandkey "t">
 
 <!ENTITY showAllAppsCmdMac.label        "Wëskrzëni wszëtczé">
-
-<!ENTITY helpKeyboardShortcuts.label     "Skródzënë klawiaturë">
-<!ENTITY helpKeyboardShortcuts.accesskey "k">
 

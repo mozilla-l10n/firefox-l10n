@@ -9,6 +9,7 @@
 # warszk <michol@linuxcsb.org>
 #
 -->
+
 <!--
 # Reviewer(s):
 #
@@ -44,6 +45,7 @@
 <!ENTITY notCached.title "Dokùment ju je wëgasłi">
 <!ENTITY notCached.longDesc "<p>Żądóny dokùment nie je przistãpny w kaszu Firefoksa.</p><ul><li>Z pòzdrzatkù na bezpiek, Firefox
 ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Klëkni knąpã Spróbùjë znowa, bë jesz rôz pòbrac dokùment z sécë.</li></ul>">
+
 <!ENTITY netOffline.title "Trib offline">
 <!ENTITY netOffline.longDesc2 "<p>Przezérnik robi w tribie offline i ni mòże sã sparłączëc ze zdrojã.</p><ul><li>Jes gwës że kòmpùtr je sparłączony z sécą?</li><li>Wcësni &quot;Spróbùjë znowa&quot; abë parłãczëc sã z sécą i zladowac stronã znowa.</li></ul>">
 
@@ -61,9 +63,6 @@ ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl
 <!ENTITY netTimeout.title "Czas sparłãczenia skùńcził sã">
 <!ENTITY netTimeout.longDesc "<p>strona przez dłëższi czas nie òdpòwiôdô na żądóné sparłãczenie i przezérnik òprzestôł żdac na òdpòwiesc.</p><ul><li>Mòżlëwé, że serwer terëczasno nie robi abò je przecążony. Jeżlë jo, to je nót spróbòwac pòzdze znowa.</li><li>Ni mòże òbzerac jinszich stronów? Nót je sprôwdzëc sparłãczenié z sécą.</li><li>Je kòmpùtr brëkòwnika abò séc zazychrowónô ògniową scaną abò serwerã proxy? Tëch lëchô kònfigùracjô mòże prowôdzëc do problemów z przezéranim Internetowëch stronów.</li><li>Jeżlë dali dô problemë, nót je sparłãczëc sã ze sprôwnikã sécë abò dowòznikã Internetu.</li></ul>">
 
-<!ENTITY protocolNotFound.title "Nieznóny protokół">
-<!ENTITY protocolNotFound.longDesc "<p>Adres zamëkô w se protokół (np. <q>wxyz://</q>), chtëren nie je rozpòznôwóny przez przezérnik. Przez to nie je òn w sztãdze pòprôwno sparłãczëc sã ze stroną.</p><ul><li>Brëkùjesz mùltimediów abò jinszëch nietekstowich ùsłëżnotów? Sprôwdzë, czë strona ni mô dodôwnëch wëmôganiów.</li><li>Òbsłużënk niejednëch protokołów mòże chcec softwôrë abò wtëkôczów òd  bùntnowëch producentów.</li></ul>">
-
 <!ENTITY proxyConnectFailure.title "Serwer proxy pòcysnął sparłãczenié">
 <!ENTITY proxyConnectFailure.longDesc "<p>Przezérnik je tak skònfigùrowóny, abë brëkòwac serwera proxy, chtëren pòcësnął sparłãczenié.</p><ul><li>Je kònfigùracëjô serwerów proxy w przezérnikù dobrô? Sprôwdzë nastôw i spróbùjë znowa.</li><li>Ùgwësni sã, że serwer proxy zezwôlô na sparłãczenia z twòji sécë.</li><li>Jeżlë dali dô problemë, sparłãczë sã ze sprôwnikã sécë, abò dowòznikã Internetu.</li></ul>">
 
@@ -77,7 +76,6 @@ ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl
 <!ENTITY unknownSocketType.longDesc "<p>strona òdpòwiedza na niespòdzajny  ôrt i przezérnik ni mòże jic dali.</p>">
 
 <!ENTITY nssFailure2.title "Felënk bezpiecznégò sparłãczeniô">
-<!ENTITY nssFailure2.longDesc "<p>Strona ni mòże bëc wëskrzënionô, temù że nie dało sã pòtwierdzëc prôwdzëwòtë dobëtëch pòdôwków.</p><ul><li>Nót je sparłãczëc sã z miéwcą stronë i dac mù wiedzã ò problemie.</li></ul>">
 
 <!ENTITY nssBadCert.title "Felënk bezpiecznégò sparłãczeniô">
 <!ENTITY nssBadCert.longDesc2 "<ul>
@@ -85,22 +83,6 @@ ju wicy aùtomatno nie bãdze pòbierôł wrażlëwëch dokùmentów.</li><li>Kl
 <li>Jeżlë brëkòwnik parłãczôł sã ju rëchli z tim serwerã, to fela mòże bëc le terëczasnô - w taczim przëtrôfkù nót je spróbòwac znowa.</li>
 </ul>">
 
-<!ENTITY malwareBlocked.title "strona mòże przeprowôdzac ataczi!">
-<!ENTITY malwareBlocked.longDesc "<p>Negò ôrtu stronë mògą próbòwac winstalowac program, kradzący krëjamné pòdôwczi, brëkùjącë twòjégò kòmpùtra do pòstrzédniczeniô w atakach abò zespsëc twój system.</p>
-<p>Miéwcë stronów, chtërne zmiłkòwò òstałë ùznóne za przeprowôdzającë ataczi, mògą <a href='http://www.stopbadware.org/home/reviewinfo'>pòproszëc ò nowé jich sprôwdzenié</a>.</p>">
-
-<!ENTITY phishingBlocked.title "Prôwdoòdobné szachrajstwò!">
-<!ENTITY phishingBlocked.longDesc "<p>Wpisanié wëdowiédzë ò se na ti stronie mòże doprowadzëc do skradzëniô identifikacje czë jinszi szkòdë.</p>
-<p>Negò ôrtu szachrajstwa nazéwô sã jakno phishing. Nen atak to ùsôdzanié przez przekroczników stronë szlachùjący za òriginalną abò wiadła ùdôwającegò zdrój trzëmóny za zycher.</p>">
-
-<!ENTITY cspFrameAncestorBlocked.title "Blokòwóné przez Pòlitikã bezpiekù Zamkłoscë">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>Przezérnik ùniemòżebnił ti stronié zaladowanié na nen ôrt, bò mô òna taką pòlitkã zamkłoscë, chtërna na to nie pòzwôlô.</p>">
-
-<!ENTITY corruptedContentError.title "Corrupted Content Error">
-<!ENTITY corruptedContentError.longDesc "<p>The page you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the website owners to inform them of this problem.</li></ul>">
-
 <!ENTITY remoteXUL.title "Zdalné XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Proszã dac wiedzã miéwcë ti stronë ò tim problemie.</li></ul></p>">
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
 

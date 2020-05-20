@@ -4,3 +4,4 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Doprowadzë zamkłą kôrtã nazôd
+

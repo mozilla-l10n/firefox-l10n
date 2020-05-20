@@ -5,11 +5,17 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } ùżiwô lëchégò cerftifikatu bezpiekù.
+
 cert-error-trust-cert-invalid = Certifikat je niedowierzóny bò béł wëstôwióny przez CA z niéwôżnym certifikatã.
+
 cert-error-trust-untrusted-issuer = Certifikat je niedowierzóny bò wëdôwôcz certificatù je niedowiérzony.
+
 cert-error-trust-signature-algorithm-disabled = Certifikat je niedowierzóny, bò òstôł pòdpisóny algòritmã chtëren je niebezpieczny.
+
 cert-error-trust-expired-issuer = Certifikat je niedowierzóny bò wôżnota wëdôwôcza certifikatu sã skùńcza.
+
 cert-error-trust-self-signed = Certifikat je niedowierzóny bò je pòdpisóny przez se samégò.
+
 cert-error-untrusted-default = Certifikat je z niedowierzonégò zdroju.
 
 ## Messages used for certificate error titles

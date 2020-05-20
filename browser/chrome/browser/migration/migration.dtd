@@ -9,6 +9,7 @@
 # jurk <jurk@linuxcsb.org>
 -->
 
+
 <!ENTITY migrationWizard.title          "Asystent impòrtu">
 
 <!ENTITY importFrom.label               "Impòrtëjë òptacje, załóżczi, historiã, parole i jinszé pòdôwczi z:">
@@ -24,6 +25,8 @@
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "h">
 
+<!ENTITY importFromFirefox.label 		"Firefox"> 
+<!ENTITY importFromFirefox.accesskey 	"X"> 
 <!ENTITY noMigrationSources.label       "To nie dô programów z jaczéch bë sã dało zaimpòrtowac załóżczi, historiã czë parole.">
 
 <!ENTITY importSource.title             "Impòrtëjë nastawë i pòdôwczi">
@@ -38,5 +41,4 @@
 
 <!ENTITY done.title                     "Impòrtowanié je zakùńczóné">
 <!ENTITY done.label                     "Nôslédné elementë są ùdało zaimpòrtowóné:">
-<!ENTITY importFromFirefox.accesskey 	"X"> 
-<!ENTITY importFromFirefox.label 		"Firefox"> 
+
