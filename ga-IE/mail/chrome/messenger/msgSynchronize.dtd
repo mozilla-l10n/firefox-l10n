@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Íoslódáil agus Sioncronaigh Teachtaireachtaí">
 <!ENTITY MsgSelect.label "Míreanna le húsáid as líne">
 <!ENTITY MsgSyncDesc.label "Má tá fillteáin ríomhphoist nó grúpaí nuachta roghnaithe agat cheana le haghaidh úsáide as líne, is féidir iad a íoslódáil nó a shioncronú anois. Nó úsáid an cnaipe &quot;Roghnaigh&quot; chun fillteáin ríomhphoist agus grúpaí nuachta a roghnú le haghaidh úsáide as líne.">

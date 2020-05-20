@@ -18,8 +18,6 @@
 <!ENTITY accountsSectionHdr.label     "Cuntais">
 <!ENTITY subscribeImapFolders.label   "Bainistiú na Síntiús Fillteán">
 <!ENTITY settingsLink.label           "Taispeáin socruithe an chuntais seo">
-<!ENTITY newAcctLink.label            "Cruthaigh cuntas nua">
-<!ENTITY newAcct.label                "Cruthaigh cuntas nua:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Ardtréithe">
 <!ENTITY searchMsgsLink.label         "Cuardaigh teachtaireachtaí">

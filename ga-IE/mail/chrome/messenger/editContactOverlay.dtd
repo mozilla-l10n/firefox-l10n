@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Leabhar Seoltaí:">
 <!ENTITY editContactAddressBook.accesskey "L">
 
-<!ENTITY editContactPanelCancel.label "Cealaigh">
-<!ENTITY editContactPanelCancel.accesskey "C">
-
 <!ENTITY editContactPanelDone.label "Críochnaithe">
 <!ENTITY editContactPanelDone.accesskey "C">
 

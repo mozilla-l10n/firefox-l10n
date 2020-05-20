@@ -172,7 +172,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.tooltip                          "Scrios an mhír roghnaithe">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label                            "Leabhair Sheoltaí">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label                        "Ainm nó Seoladh Ríomhphoist">
@@ -216,6 +215,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "A">
 <!ENTITY _PhoneticName.label                            "Ainm Foghrach">
 <!ENTITY _PhoneticName.accesskey                        "o">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

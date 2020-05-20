@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "L">
 <!ENTITY DictionaryList.label "Focail san fhoclóir:">
 <!ENTITY DictionaryList.accessKey "F">
-<!ENTITY ReplaceButton.label "Ionadaigh">
-<!ENTITY ReplaceButton.accessKey "I">
 <!ENTITY RemoveButton.label "Bain">
 <!ENTITY RemoveButton.accessKey "a">
 

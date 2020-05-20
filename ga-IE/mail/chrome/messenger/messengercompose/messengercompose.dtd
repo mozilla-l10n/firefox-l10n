@@ -86,8 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Athainmnigh an tIatán…">
 <!ENTITY renameAttachmentCmd.accesskey "t">
 <!ENTITY selectAllCmd.label "Roghnaigh Uile">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "U">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Aimsigh…">
 <!ENTITY findBarCmd.accesskey "A">
 <!ENTITY findBarCmd.key "F">
@@ -213,14 +213,13 @@
 <!ENTITY sendlaterButton.tooltip "Seol an teachtaireacht seo níos déanaí">
 <!ENTITY quoteButton.tooltip "Luaigh an teachtaireacht roimhe seo">
 <!ENTITY addressButton.tooltip "Roghnaigh faighteoir as Leabhar Seoltaí">
-<!ENTITY attachButton.tooltip "Cuir iatán leis">
 <!ENTITY spellingButton.tooltip "Seiceáil litriú an roghnaithe nó na teachtaireachta iomláine">
-<!ENTITY statusLanguageText.tooltip "Teanga an litreora">
 <!ENTITY saveButton.tooltip "Sábháil an teachtaireacht seo">
 <!ENTITY cutButton.tooltip              "Gearr">
 <!ENTITY copyButton.tooltip             "Cóipeáil">
 <!ENTITY pasteButton.tooltip            "Greamaigh">
 <!ENTITY printButton.tooltip "Priontáil an teachtaireacht seo">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -300,6 +299,8 @@
 <!ENTITY attachPage.accesskey "G">
 <!-- Spell checker context menu items -->
 
+<!-- Attachment Pane Header Bar Context Menu -->
+
 <!ENTITY spellAddDictionaries.label "Cuir Foclóirí Leis…">
 <!ENTITY spellAddDictionaries.accesskey "C">
 <!-- Title for the address picker panel -->
@@ -309,3 +310,4 @@
 
 <!ENTITY customizeFromAddress.label "Ríomhphost ó Sheoladh Saincheaptha…">
 <!ENTITY customizeFromAddress.accesskey "a">
+

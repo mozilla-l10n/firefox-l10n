@@ -55,6 +55,7 @@
 
 <!ENTITY addAction.tooltip "Cuir gníomh nua leis">
 <!ENTITY removeAction.tooltip "Bain an gníomh seo">
+
 <!-- LOCALIZATION NOTE
      The values below are used to control the widths of the filter action widgets.
      Change the values only when the localized strings in the popup menus

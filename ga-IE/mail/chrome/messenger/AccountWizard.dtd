@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 
 <!ENTITY windowTitle.label "Treoraí na gCuntas">
 <!ENTITY accountWizard.size "width: 44em; height: 42em;">
+
 <!-- Entities for Account Type page -->
 
 
@@ -17,6 +19,7 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Cuntas Grúpa Nuachta">
 <!ENTITY accountTypeNews.accesskey "G">
+
 <!-- Entities for Identity page -->
 
 
@@ -35,6 +38,7 @@
 
 <!ENTITY emailLabel.label "Seoladh Ríomhphoist:">
 <!ENTITY emailLabel.accesskey "e">
+
 <!-- Entities for Incoming Server page -->
 
 
@@ -64,6 +68,7 @@
 <!ENTITY newsServerNameDesc.label "Cuir isteach ainm do fhreastalaí nuachta (NNTP) (mar shampla, &quot;news.example.net&quot;).">
 <!ENTITY newsServerLabel.label "Freastalaí Nuachta:">
 <!ENTITY newsServerLabel.accesskey "s">
+
 <!-- Entities for Outgoing Server page -->
 
 
@@ -98,6 +103,7 @@
 -->
 <!ENTITY haveSmtp3.prefix "Is ionann do fhreastalaí amach (SMTP), &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, agus do fhreastalaí isteach. Úsáidfear d&apos;ainm úsáideora isteach chun é a rochtain.">
+
 <!-- Entities for Account name page -->
 
 
@@ -106,6 +112,7 @@
 <!ENTITY accnameDesc.label "Cuir isteach an t-ainm lena ndéanfaidh tú tagairt don chuntas seo (m.sh. &quot;Cuntas Oibre&quot;, &quot;Cuntas Baile&quot; nó &quot;Cuntas Nuachta&quot;).">
 <!ENTITY accnameLabel.label "Ainm an Chuntais:">
 <!ENTITY accnameLabel.accesskey "A">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

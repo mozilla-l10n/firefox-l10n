@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL an fhotha:">
 <!ENTITY feedLocation.accesskey      "f">
-<!ENTITY feedLocation.placeholder    "Cuir URL bailí d'fhotha isteach">
 <!ENTITY locationValidate.label      "Bailíochtaigh">
 <!ENTITY validateText.label          "Bailíochtaigh agus faigh URL bailí.">
 

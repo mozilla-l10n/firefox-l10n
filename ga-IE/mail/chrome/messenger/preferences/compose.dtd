@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Cló:">
 <!ENTITY font.accesskey                       "l">
-<!ENTITY size.label                           "Méid:">
-<!ENTITY size.accesskey                       "M">
 <!ENTITY fontColor.label                      "Dath an Téacs:">
 <!ENTITY fontColor.accesskey                  "T">
 <!ENTITY bgColor.label                        "Dath an Chúlra:">
