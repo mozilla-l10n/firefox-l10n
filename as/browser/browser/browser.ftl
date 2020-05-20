@@ -154,5 +154,3 @@ urlbar-placeholder =
     .placeholder = ঠিকনা সন্ধান কৰক অথবা সুমুৱাওক
 urlbar-switch-to-tab =
     .value = টেবলৈ যাওক:
-urlbar-go-end-cap =
-    .tooltiptext = অৱস্থান বাৰত থকা ঠিকনালে যাওক
