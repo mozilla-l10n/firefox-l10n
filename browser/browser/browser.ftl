@@ -65,5 +65,5 @@ urlbar-placeholder =
     .placeholder = Szëkôj za, abò wpiszë adres
 urlbar-switch-to-tab =
     .value = Przełączë na kôrtã:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Biéj do stronë z pòdónym adresã
