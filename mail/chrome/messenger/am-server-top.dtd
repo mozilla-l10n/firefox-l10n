@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Միանգամից ներբեռնել նոր նամակները">
 <!ENTITY downloadOnBiff.accesskey "գ">
-<!ENTITY username.label "Ձեր մականունը">
 <!ENTITY deleteMessagePrefix.label "Երբ ես ջնջում եմ նամակը՝">
 <!ENTITY modelMoveToTrash.label "Տեղափոխել այս թղթապանակ՝">
 <!ENTITY modelMoveToTrash.accesskey "o">

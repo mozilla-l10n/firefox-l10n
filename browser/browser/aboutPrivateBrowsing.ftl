@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Իմացեք ավելին՝<a data-l10n-name="learn-more">Գաղտնի Դիտարկում</a>.
 about-private-browsing-info-visited = այցելած էջերը
+
 privatebrowsingpage-open-private-window-label = Բացել Գաղտնի պատուհան
     .accesskey = Գ
 about-private-browsing-info-notsaved = Երբ դիտարկում եք Գաղտնի Պատուհանով, { -brand-short-name }-ը <strong>չի պահի</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Այժմ դուք Գաղտնի դիտարկ
 content-blocking-title = Բովանդակության արգելափակում
 content-blocking-description = Որոշ կայքեր օգտագործում են հետևորդներ, որոնք կարող են վերահսկել ձեր գործունեությունը Ինտերնետում: Մասնավոր պատուհաններում, { -brand-short-name }Բովանդակության արգելափակումն ինքնաբերաբար արգելափակում է բազմաթիվ որոնիչներ, որոնք կարող են տեղեկություններ հավաքել ձեր զննարկման վարքի վերաբերյալ:
 about-private-browsing-info-description = { -brand-short-name }֊ը մաքրում է ձեր որոնման և զննարկման պատմությունը, երբ դուրս եք գալիս ծրագրից կամ փակում եք անձնական դիտման բոլոր ներդիրներն ու պատուհանները: Չնայած դա ձեզ անանուն չի դարձնում կայքէջերի կամ ձեր ինտերնետային ծառայություններ մատուցողի համար, այն ավելի հեշտացնում է այն, ինչ անում եք առցանց, անհատական պահելով այս համակարգչից օգտվող ցանկացած այլ անձի կողմից:
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

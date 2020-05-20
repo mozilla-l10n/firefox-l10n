@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "Ա">
 <!ENTITY DictionaryList.label "Բառ բառարանում.">
 <!ENTITY DictionaryList.accessKey "Բ">
-<!ENTITY ReplaceButton.label "Փոխարինել">
-<!ENTITY ReplaceButton.accessKey "Փ">
 <!ENTITY RemoveButton.label "Ջնջել">
 <!ENTITY RemoveButton.accessKey "Ջ">
 

@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Անհնար է կիրառել մասնակի Թարմացումը: &brandShortName;-ն այժմ կփորձի բեռնավորել ամբողջական Թարմացումը:">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; չի կարողանում ստուգել արդյոք կա թարմացում: Խնդրեմ ստուգեք և համոզվեք որ դուք օգտագործում էք &brandShortName;-ի վերջին տարբերակը:">
-
+                                           
 <!ENTITY  finishedPage.title              "Թարմացումը Պատրաստ է Տեղադրման">
 <!ENTITY  finishedPage.text               "Թարմացումը կտեղադրվի &brandShortName;-ը հաջորդ անգամ բացելիս: Դուք կարող եք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը և վերամեկնարկել ավելի ուշ:">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Թարմացումը կտեղադրվի &brandShortName;-ը հաջորդ անգամ բացելիս: Դուք կարող եք վերամեկնարկել &brandShortName;-ը հիմա կամ շարունակել աշխատանքը և վերամեկնարկել ավելի ուշ:">
 <!ENTITY  finishedBackground.moreElevated "Այս թարմացումը պահանջում է վարիչի արտոնություն: Թարմացումը կտեղադրվի հաջորդ անգամ &brandShortName;-ը բացելիս: Կարող եք հիմա վերամեկնարկել &brandShortName;-ը կամ շարունակել աշխատանքը և վերամեկնարկել հետո, կամ էլ մերժել այս թարմացումը:">
 
-<!ENTITY  update.details.label            "Մանրամասներ">
-<!ENTITY  update.installedOn.label        "Տեղադրված է.">
-<!ENTITY  update.status.label             "Վիճակը.">

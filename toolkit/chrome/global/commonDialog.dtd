@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Համառոտ Վերնագիր"> 
 <!ENTITY message.label    "Օրինակը հայտնվում է այստեղ.">
+
 <!ENTITY editfield0.label "Օգտվողի Անուն."> 
 <!ENTITY editfield1.label "Գաղտնաբառ."> 
-<!ENTITY checkbox.label   "ստուգել">
+<!ENTITY checkbox.label   "ստուգել"> 
 <!ENTITY copyCmd.label    "Պատճենել">
 <!ENTITY copyCmd.accesskey "Պ">
 <!ENTITY selectAllCmd.label "Նշել բոլորը">
