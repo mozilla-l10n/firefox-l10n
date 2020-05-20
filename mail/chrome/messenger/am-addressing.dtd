@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- extracted from am-addressing.xul -->
+
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label "Redaición y direiciones">
 <!ENTITY addressingGroupTitle.label "Direiciones">
 <!ENTITY addressingText.label "Cuando se busquen direiciones:">
@@ -12,13 +16,16 @@
 <!ENTITY directories.label "Utilizar un sirvidor LDAP distintu:">
 <!ENTITY directories.accesskey "d">
 <!ENTITY directoriesNone.label "Dengún">
+
+<!-- am-addressing.xul -->
+
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label "Redaición">
 <!ENTITY useHtml.label "Redactar mensaxes en formatu HTML">
 <!ENTITY useHtml.accesskey "R">
 <!ENTITY autoQuote.label "Citar automáticamente el mensaxe orixinal al responder">
 <!ENTITY autoQuote.accesskey "C">
-<!ENTITY then.label "entós,">
-<!ENTITY then.accesskey "T">
 <!ENTITY aboveQuote.label "entamar la mio rempuesta sobre'l testu citáu">
 <!ENTITY belowQuote.label "entamar la mio rempuesta baxo'l testu citáu">
 <!ENTITY selectAndQuote.label "seleicionar el testu citáu">
@@ -30,7 +37,9 @@
 <!ENTITY includeSigOnReply.accesskey "I">
 <!ENTITY includeSigOnForward.label "Incluyir robla en los re-unvios">
 <!ENTITY includeSigOnForward.accesskey "I">
+
 <!ENTITY globalComposingPrefs.label "Preferencies xenerales de redaición…">
 <!ENTITY globalComposingPrefs.accesskey "P">
+
 <!ENTITY globalAddressingPrefs.label "Preferencies xenerales de direiciones…">
 <!ENTITY globalAddressingPrefs.accesskey "a">

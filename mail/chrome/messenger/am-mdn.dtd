@@ -5,6 +5,8 @@
 <!ENTITY pane.title "Acuses de recibu">
 <!ENTITY useGlobalPrefs.label "Usar les preferencies globales d'acuse de recibu pa esta cuenta">
 <!ENTITY useGlobalPrefs.accesskey "U">
+<!ENTITY globalReceipts.label "Preferencies xenerales…">
+<!ENTITY globalReceipts.accesskey "a">
 <!ENTITY useCustomPrefs.label "Personalizar acuse de recibu pa esta cuenta">
 <!ENTITY useCustomPrefs.accesskey "P">
 <!ENTITY requestReceipt.label "Al unviar mensaxes, solicitar siempre un acuse de recibu">
@@ -28,5 +30,3 @@
 <!ENTITY askMe.label "Entrugame">
 <!ENTITY alwaysSend.label "Unviar siempre">
 <!ENTITY neverSend.label "Nun unviar enxamás">
-<!ENTITY globalReceipts.label "Preferencies xenerales…">
-<!ENTITY globalReceipts.accesskey "a">

@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Zarrar
     .accesskey = Z
+
 logins-description-all = Guárdense nel ordenador los anicios de sesión pa los sitios de darréu
 logins-description-filtered = Los anicios de sesión de darréu concasen cola to gueta:
 remove-all =

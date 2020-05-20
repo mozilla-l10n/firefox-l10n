@@ -86,8 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Renomar axuntu…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Esbillar too">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "t">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Guetar…">
 <!ENTITY findBarCmd.accesskey "B">
 <!ENTITY findBarCmd.key "F">
@@ -213,9 +213,7 @@
 <!ENTITY sendlaterButton.tooltip "Unviar esti mensaxe más sero">
 <!ENTITY quoteButton.tooltip "Citar el mensaxe anterior">
 <!ENTITY addressButton.tooltip "Seleicionar un destinatariu d'una llibreta de direiciones">
-<!ENTITY attachButton.tooltip "Incluyir un axuntu">
 <!ENTITY spellingButton.tooltip "Revisar ortografía de la seleición o del mensaxe completu">
-<!ENTITY statusLanguageText.tooltip "Llingua del correutor ortográficu">
 <!ENTITY saveButton.tooltip "Guardar esti mensaxe">
 <!ENTITY cutButton.tooltip              "Cortar">
 <!ENTITY copyButton.tooltip             "Copiar">
@@ -299,6 +297,8 @@
 <!ENTITY attachPage.label "Axuntar páxina web…">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Amestar diccionarios…">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -309,3 +309,4 @@
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Personalizar direición de remitente…">
 <!ENTITY customizeFromAddress.accesskey "A">
+

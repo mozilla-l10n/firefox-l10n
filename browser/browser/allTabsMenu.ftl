@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Desfacer zarru de llingüeta
+
 all-tabs-menu-new-user-context =
     .label = Llingüeta contenedora nueva
+

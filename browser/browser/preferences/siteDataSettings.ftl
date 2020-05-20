@@ -9,9 +9,11 @@ site-data-column-host =
     .label = Sitiu
 site-data-column-storage =
     .label = Almacenamientu
+
 site-data-button-cancel =
     .label = Encaboxar
     .accesskey = E
+
 site-data-remove-all =
     .label = Desanicialo too
     .accesskey = e
@@ -21,3 +23,4 @@ site-data-remove-all =
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Desaniciar
+

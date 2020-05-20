@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Nun pue coneutase de mou seguru porque desactivóse'l protocolu SSL.
 psmerr-ssl2-disabled = Nun pue coneutase de mou seguru porque'l sitiu usa una versión vieya ya insegura del protocolu SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recibiesti un certificáu non válidu.  Contauta col alministrador del sirvidor o unvia un corréu a quien correspuenda cola información de darréu:
     
     El to certificáu contién el mesmu númberu de serie que l'otru emitíu pola autoridá certificadora.  Consigui un certificáu nuevu que contenga un númeru de serie únicu.
+
 ssl-error-export-only-server = Nun pue comunicase de mou seguru. L'otru estremu nun sofita cifráu de grau altu.
 ssl-error-us-only-server = Nun pue coneutase de mou seguru. L'otru estremu rique un cifráu de grau altu que nun ta sofitáu.
 ssl-error-no-cypher-overlap = Nun pue comunicase de mou seguru col otru estremu: nun hai algoritmu(os) de cifráu común(es).

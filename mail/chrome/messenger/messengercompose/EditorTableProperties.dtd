@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY tableWindow.title "Propiedaes de la tabla">
 <!ENTITY applyButton.label "Aplicar">
 <!ENTITY applyButton.accesskey "A">
@@ -34,6 +35,7 @@
 <!ENTITY tableCaptionRight.label "Derecha de la tabla">
 <!ENTITY tableCaptionNone.label "Dengún">
 <!ENTITY tableInheritColor.label "(Permitir que se vea'l color de fondu de la páxina)">
+
 <!ENTITY cellSelection.label "Seleición">
 <!ENTITY cellSelectCell.label "Caxella">
 <!ENTITY cellSelectRow.label "Filera">
@@ -62,6 +64,7 @@
 <!ENTITY cellAlignJustify.label "Xustificáu">
 <!ENTITY cellInheritColor.label "(Permitir que se vea'l color de fondu de la tabla)">
 <!ENTITY cellUseCheckboxHelp.label "Usa les caxelles d'escoyeta pa determinar qué propiedaes s'apliquen a toles caxelles esbillaes">
+
 <!ENTITY size.label "Tamañu">
 <!ENTITY pixels.label "píxeles">
 <!ENTITY backgroundColor.label "Color de fondu:">

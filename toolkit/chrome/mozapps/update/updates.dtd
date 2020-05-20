@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nun pue determinar si hai un anovamientu disponible.
                                            asegúrate que tienes la versión cabera de &brandShortName; dende:">
-
+                                           
 <!ENTITY  finishedPage.title              "Anovamientu tresnáu pa instalase">
 <!ENTITY  finishedPage.text               "L'anovamientu va instalase la próxima vegada qu'anicies &brandShortName;.
                                            Pues reaniciar &brandShortName; agora o siguir trabayando y reaniciar más sero.">
@@ -72,6 +72,3 @@
                                            &brandShortName; agora, siguir trabajando y reaniciar dempués o refugar esti
                                            anovamientu.">
 
-<!ENTITY  update.details.label            "Detalles">
-<!ENTITY  update.installedOn.label        "Instalóse en:">
-<!ENTITY  update.status.label             "Estáu:">

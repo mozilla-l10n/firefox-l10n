@@ -28,9 +28,6 @@
 <!ENTITY addCloudFileAccount.description  "Amestar un serviciu nuevu d'almacenamientu Filelink">
 <!ENTITY removeCloudFileAccount.label     "Desaniciar">
 <!ENTITY removeCloudFileAccount.accesskey "n">
-<!ENTITY authRequired.description         "Requierse la to autorización pa ver les opciones d'esti serviciu d'almacenamientu.">
-<!ENTITY authRequired.button.label        "Autorizar">
-<!ENTITY authRequired.button.accesskey    "o">
 
 <!ENTITY enableCloudFileAccountOffer.label "Ufrilu pa compartir ficheros mayores de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">

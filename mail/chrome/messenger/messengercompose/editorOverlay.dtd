@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inxerta un nuevu enllaz con nome o modifica les propiedaes del enllaz con nome esbilláu">
 <!ENTITY TextColorButton.tooltip "Escueyi un color pal testu">
 <!ENTITY BackgroundColorButton.tooltip "Escueyi un color pal fondu">
-<!ENTITY throbber.tooltip "Dir a la páxina web de &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Escueyi color pa rescamplar testu">
 
 <!-- Editor toolbar -->

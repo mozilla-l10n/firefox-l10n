@@ -9,11 +9,15 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = Deshabilitar estensión
+
 connection-proxy-configure = Configurar accesu proxy a Internet
+
 connection-proxy-option-no =
     .label = Ensin proxy
     .accesskey = y
@@ -26,6 +30,7 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Configuración manual del proxy
     .accesskey = m
+
 connection-proxy-http = Proxy HTTP
     .accesskey = x
 connection-proxy-http-port = Puertu
@@ -33,18 +38,23 @@ connection-proxy-http-port = Puertu
 connection-proxy-http-share =
     .label = Usar el mesmu proxy pa too
     .accesskey = x
+
 connection-proxy-ssl = Proxy SSL
     .accesskey = L
+
 connection-proxy-ssl-port = Puertu
     .accesskey = u
+
 connection-proxy-ftp = Proxy FTP
     .accesskey = F
 connection-proxy-ftp-port = Puertu
     .accesskey = r
+
 connection-proxy-socks = Sirvidor SOCKS
     .accesskey = C
 connection-proxy-socks-port = Puertu
     .accesskey = t
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -53,33 +63,32 @@ connection-proxy-socks5 =
     .accesskey = v
 connection-proxy-noproxy = Nun usar proxy pa
     .accesskey = n
+
 connection-proxy-noproxy-desc = Exemplu: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-autotype =
     .label = URL pa la configuración automática del proxy
     .accesskey = A
+
 connection-proxy-reload =
     .label = Recargar
     .accesskey = R
+
 connection-proxy-autologin =
     .label = Nun entrugar identificación si la contraseña ta guardada
     .accesskey = u
     .tooltip = Esta opción identifícate de mou silenciosu énte los proxys cuando guardasti les credenciales pa ellos. Va entrugásete si falla la identificación.
+
 connection-proxy-socks-remote-dns =
     .label = Proxy DNS al usar SOCKS v5
     .accesskey = D
+
 connection-dns-over-https =
     .label = Habilita DNS sobre HTTPS
     .accesskey = H
-connection-dns-over-https-url = URL
-    .accesskey = U
-    .tooltiptext = URL pa resolver DNS sobre HTTPS
-# Variables:
-#   $url (String) - URL for the DNS over HTTPS provider
-connection-dns-over-https-url-default =
-    .label = Usar predeterminada ({ $url })
-    .accesskey = U
-    .tooltiptext = Usar la URL predeterminada pa resolver DNS sobre HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Personalizada
     .accesskey = P
     .tooltiptext = Escribi la to URL preferida pa resolver DNS sobre HTTPS
+

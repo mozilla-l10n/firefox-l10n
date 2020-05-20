@@ -4,19 +4,28 @@
 
 set-desktop-background-window =
     .title = Afitar como fondu d'escritoriu
+
 set-desktop-background-accept =
     .label = Afitar como fondu d'escritoriu
+
 open-desktop-prefs =
     .label = Abrir preferencies d'escritoriu
+
 set-background-color = Color:
+
 set-background-position = Posición:
+
 set-background-tile =
     .label = Mosaicu
+
 set-background-center =
     .label = Centráu
+
 set-background-stretch =
     .label = Axustar
+
 set-background-fill =
     .label = Rellenar
+
 set-background-fit =
     .label = Axustar

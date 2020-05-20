@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Fonte de lletra:">
 <!ENTITY font.accesskey                       "T">
-<!ENTITY size.label                           "Tamañu:">
-<!ENTITY size.accesskey                       "u">
 <!ENTITY fontColor.label                      "Color del testu:">
 <!ENTITY fontColor.accesskey                  "s">
 <!ENTITY bgColor.label                        "Color de fondu:">

@@ -3,7 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Inxertar espresión matemática">
+
 <!ENTITY sourceEditField.label "Introduz códigu LaTeX:">
+
 <!ENTITY options.label "Opciones">
 <!ENTITY optionInline.label "Mou incrustáu">
 <!ENTITY optionInline.accesskey "M">
@@ -13,7 +15,6 @@
 <!ENTITY optionLTR.accesskey "s">
 <!ENTITY optionRTL.label "Direición de derecha a esquierda">
 <!ENTITY optionRTL.accesskey "d">
-<!ENTITY example.label "Exemplu: ">
-<!ENTITY exampleText.label "\sqrt{x_1} + \frac{π^3}{2}">
+
 <!ENTITY insertButton.label "Inxertar">
 <!ENTITY insertButton.accesskey "I">

@@ -6,11 +6,10 @@
 <!ENTITY tile.label                 "Mosaicu">
 <!ENTITY center.label               "Centráu">
 <!ENTITY stretch.label              "Axustar">
-<!ENTITY preview.label              "Vista preliminar">
+<!ENTITY fill.label                 "Rellenar">
+<!ENTITY fit.label                  "Axustar">
+
 <!ENTITY color.label                "Color:">
 <!ENTITY setDesktopBackground.title "Afitar como fondu d'escritoriu">
 <!ENTITY openDesktopPrefs.label     "Abrir preferencies d'escritoriu">
 <!ENTITY closeWindow.key            "w">
-<!ENTITY fill.label                 "Rellenar">
-<!ENTITY fit.label                  "Axustar">
-

@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Guetar
     .aria-label = Guetar
+
 newtab-search-box-search-the-web-text = Guetar na web
 newtab-search-box-search-the-web-input =
     .placeholder = Guetar na web
@@ -28,6 +29,7 @@ newtab-topsites-edit-topsites-header = Editar Sitiu más visitáu
 newtab-topsites-title-label = Títulu
 newtab-topsites-title-input =
     .placeholder = Introducir títulu
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escribi o apega una URL
@@ -66,6 +68,11 @@ newtab-menu-pin = Fixar
 newtab-menu-unpin = Desfixar
 newtab-menu-delete-history = Desaniciar del historial
 newtab-menu-save-to-pocket = Guardar en { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Desaniciar marcador
 # Bookmark is a verb here.
@@ -123,7 +130,6 @@ newtab-discovery-empty-section-topstories-loading = Cargando...
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temes populares:
 newtab-pocket-more-recommendations = Más recomendaciones
-newtab-pocket-how-it-works = Cómo funciona
 
 ## Error Fallback Content.
 ## This message and suggested action link are shown in each section of UI that fails to render.

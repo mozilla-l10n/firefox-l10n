@@ -7,6 +7,7 @@
 <!ENTITY other.languages "Amosamos namái los proveedores de direiciones nel to área.  Calca equí p'amosalos toos.">
 <!ENTITY error.line1 "Sentímoslo, nun podemos alcontrar suxerencies de direiciones de corréu.">
 <!ENTITY error.line2 "Pues intentar atopar nomatos o otru términu p'alcontrar más emails">
+
 <!-- LOCALIZATION NOTE(error.suggest.before, error.suggest.middle, error.suggest.after):error.suggest.before, error.suggest.middle, and error.suggest.after all go into one line with error.suggest.middle that links to a site which provides download of free account alternatives. -->
 <!ENTITY error.suggest.before "Tamién pues probar con una de les ">
 <!ENTITY error.suggest.middle "cuentes de corréu-e gratuítes alternatives">

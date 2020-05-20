@@ -25,31 +25,39 @@ login-item-username-label = Nome d'usuariu
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = ¡Copióse!
 login-item-password-label = Contraseña
-login-item-password-reveal-checkbox-show =
-    .title = Amosar la contraseña
-login-item-password-reveal-checkbox-hide =
-    .title = Anubrir la contraseña
 login-item-copy-password-button-text = Copiar
 login-item-copied-password-button-text = ¡Copióse!
 login-item-save-changes-button = Guardar cambeos
 login-item-save-new-button = Guardar
 login-item-cancel-button = Encaboxar
 
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
+
 ## Master Password notification
 
+
+## Password Sync notification
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = Encaboxar
 confirmation-dialog-dismiss-button =
     .title = Encaboxar
+
 confirm-delete-dialog-message = Esta aición nun pue desfacese.
+
 confirm-discard-changes-dialog-title = ¿Escartar los cambeos ensin guardar?
 confirm-discard-changes-dialog-message = Van perdese tolos cambeos ensin guardar.
 confirm-discard-changes-dialog-confirm-button = Escartar
 
 ## Breach Alert notification
 
+
+## Vulnerable Password notification
 
 ## Error Messages
 

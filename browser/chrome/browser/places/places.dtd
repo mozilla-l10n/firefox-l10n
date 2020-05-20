@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Separtador nuevu">
 <!ENTITY cmd.new_separator.accesskey       "v">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Recargar marcadores dinámicos">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "Mover…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nome">
 <!ENTITY col.tags.label          "Etiquetes">
 <!ENTITY col.url.label           "Direición">
 <!ENTITY col.mostrecentvisit.label "Visita más recién">
 <!ENTITY col.visitcount.label    "Contador de visites">
-<!ENTITY col.description.label   "Descripción">
 <!ENTITY col.dateadded.label     "Amestáu">
 <!ENTITY col.lastmodified.label  "Cabera modificación">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Dir alantre">
 
-<!ENTITY detailsPane.more.label "Más">
-<!ENTITY detailsPane.more.accesskey "s">
-<!ENTITY detailsPane.less.label "Menos">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Seleiciona un elementu pa ver y editar les sos propiedaes">
 
 <!ENTITY view.label               "Ver">

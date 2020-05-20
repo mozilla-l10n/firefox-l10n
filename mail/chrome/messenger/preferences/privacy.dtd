@@ -3,12 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY captionMailContent.label "Conteníu de corréu">
+
 <!ENTITY acceptRemoteContent.label "Permitir conteníu remotu nos mensaxes">
 <!ENTITY acceptRemoteContent.accesskey "P">
 <!ENTITY remoteContentExceptions.label "Esceiciones…">
 <!ENTITY remoteContentExceptions.accesskey "s">
 <!ENTITY acceptRemoteContentInfo.label "Saber más tocante a los problemas de privacidá del conteníu remotu">
+
 <!ENTITY captionWebContent.label "Conteníu web">
+
 <!ENTITY keepHistory.label "Recordar sitios web y enllaces que visité">
 <!ENTITY keepHistory.accesskey "R">
 <!ENTITY acceptCookies.label "Aceutar cookies de los sitios">
@@ -27,10 +30,8 @@
 <!ENTITY cookieExceptions.accesskey "n">
 <!ENTITY showCookies.label "Amosar cookies…">
 <!ENTITY showCookies.accesskey "A">
-<!ENTITY dntTrackingNopref.label2 "Nun indicar a los sitios un res sobre les mios preferencies de rastrexu">
-<!ENTITY dntTrackingNopref.accesskey "o">
+
 <!ENTITY dntTrackingNotOkay.label2 "Indicar a los sitios que nun quiero que me rastrexen">
 <!ENTITY dntTrackingNotOkay.accesskey "">
-<!ENTITY dntTrackingOkay.label2 "Indicar a los sitios que quiero que me rastrexen">
-<!ENTITY dntTrackingOkay.accesskey "I">
 <!ENTITY doNotTrackInfo.label "Saber más tocante a Non rastrexar">
+
