@@ -315,11 +315,11 @@
 <!ENTITY BackgroundColorButton.tooltip "选择背景颜色">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY throbber.tooltip2 "前往 &brandShortName; 主页">
-<!ENTITY HighlightColorButton.label "荧光笔">
+<!ENTITY HighlightColorButton.label "文本突出显示颜色">
 <!ENTITY HighlightColorButton.tooltip "选择文本的加亮颜色">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSize.label "字体大小">
+<!ENTITY absoluteFontSize.label "字号">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "设置字体大小">
 <!ENTITY smaller.label "缩小">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "缩小字体">
@@ -334,7 +334,6 @@
 <!ENTITY bulletListToolbarCmd.tooltip "应用或删除条目列表">
 <!ENTITY numberListToolbarCmd.tooltip "应用或删除编号列表">
 <!ENTITY outdentToolbarCmd.tooltip "突出文本（向左移动）">
-<!ENTITY indent.label "缩进">
 <!ENTITY indentToolbarCmd.tooltip "缩进文本（向右移动）">
 <!ENTITY AlignPopupButton.label "对齐">
 <!ENTITY AlignPopupButton.tooltip "选择文本对齐方式">
