@@ -242,7 +242,7 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Kiegészítő:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = Ugrás a címmezőben levő címre
 urlbar-page-action-button =
     .tooltiptext = Oldalműveletek
