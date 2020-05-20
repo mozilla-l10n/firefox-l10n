@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Acetto o reizego!
 config-about-warning-checkbox =
     .label = Fanni vedde sto alarme a pròscima vòtta
+
 config-search-prefs =
     .value = Riçerca:
     .accesskey = R
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Còpia
     .accesskey = C
+
 config-copy-name =
     .label = Còpia Nomme
     .accesskey = N
+
 config-copy-value =
     .label = Còpia Valô
     .accesskey = V
+
 config-modify =
     .label = Cangia
     .accesskey = M
+
 config-toggle =
     .label = Cangia
     .accesskey = C
+
 config-reset =
     .label = Reinpòsta
     .accesskey = R
+
 config-new =
     .label = Neuvo
     .accesskey = N
+
 config-string =
     .label = Stringa
     .accesskey = S
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = predefinio
 config-modified = cangiou
 config-locked = blocòu
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Inserisci o nomme de preferense
+
 config-nan-title = O valô o no va ben
 config-nan-text = O testo che ti m'æ dæto o no l'é in numero.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Neuvo valô { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Inserisci o valô { $type }

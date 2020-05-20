@@ -5,49 +5,61 @@
 permissions-window =
     .title = Eceçioin…
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Indirisso do scito
     .accesskey = d
+
 permissions-block =
     .label = Blòcco
     .accesskey = B
+
 permissions-session =
     .label = Permetti in sta sescion
     .accesskey = s
+
 permissions-allow =
     .label = Permetti
     .accesskey = P
+
 permissions-site-name =
     .label = Scito
+
 permissions-status =
     .label = Stato
+
 permissions-remove =
     .label = Scancella scito
     .accesskey = S
+
 permissions-remove-all =
     .label = Scancella tutti i sciti
     .accesskey = e
+
 permissions-button-cancel =
     .label = Anulla
     .accesskey = A
+
 permissions-button-ok =
     .label = Sarva cangiamenti
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = Çerca scito
+
 permissions-capabilities-allow =
     .label = Permetti
 permissions-capabilities-block =
     .label = Blòcco
 permissions-capabilities-prompt =
     .label = Domanda de longo
+
 permissions-capabilities-listitem-allow =
     .value = Permetti
 permissions-capabilities-listitem-block =
     .value = Blòcco
-permissions-capabilities-listitem-allow-first-party =
-    .value = Consenti solo se generæ dò-u scito
 permissions-capabilities-listitem-allow-session =
     .value = Permetti pe sta sescion
 
@@ -98,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Ti ti peu dî quæ sciti peuan de longo fâ l'aotoriproduçion co-o son. Scrivi l'indirisso do scito che ti ti veu gestî e sciacca Blòcca ò Permetti.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -117,6 +131,8 @@ permissions-site-location-desc = Sti sciti an domandou de acede a-a teu poxiçio
 permissions-site-location-disable-label =
     .label = Blòcca e neuve domande de acede a-a teu poxiçion
 permissions-site-location-disable-desc = Questo o blòcca i sciti che no en inta lista chi sorvia da domandâ o permisso de acede a-a teu poxiçion. Blocâ e notifiche o peu inpedî çerte carateristiche do scito.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

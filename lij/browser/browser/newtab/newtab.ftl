@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Çerca
     .aria-label = Çerca
+
 newtab-search-box-search-the-web-text = Çerca inta Ræ
 newtab-search-box-search-the-web-input =
     .placeholder = Çerca inta Ræ
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Cangia scito prinçipâ
 newtab-topsites-title-label = Titolo
 newtab-topsites-title-input =
     .placeholder = Scrivi 'n titolo
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Scrivi ò incòlla URL
 newtab-topsites-url-validation = Serve 'na URL bonn-a
+
 newtab-topsites-image-url-label = URL da inmagine personalizâ
 newtab-topsites-use-image-link = Adeuvia inagine personalizâ…
 newtab-topsites-image-validation = Erô into caregamento de l'inmagine. Preuva 'n atra URL.
@@ -60,6 +63,7 @@ newtab-confirm-delete-history-p2 = Sta açion a no se peu anulâ.
 newtab-menu-section-tooltip =
     .title = Arvi menû
     .aria-label = Arvi menû
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -83,6 +87,11 @@ newtab-menu-delete-history = Scancella da-a stöia
 newtab-menu-save-to-pocket = Sarva in { -pocket-brand-name }
 newtab-menu-delete-pocket = Scancella da { -pocket-brand-name }
 newtab-menu-archive-pocket = Archivia in { -pocket-brand-name }
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Scancella segnalibbro
 # Bookmark is a verb here.
@@ -152,10 +161,12 @@ newtab-section-header-pocket = Consegiou da { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Iniçia a navegâ e, in sta seçion, saian mostræ articoli, video e atre pagine vixitæ de fresco ò azonti a-i segnalibbri.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = No gh'é atro. Contròlla ciù tardi se gh'é atre stöie da { $provider }. No t'eu aspetâ? Seleçionn-a 'n argomento tra quelli ciù popolari pe descovrî atre notiçie interesanti da-o Web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -169,7 +180,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ahime mi! Emmo squæxi car
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Argomenti popolari:
 newtab-pocket-more-recommendations = Atri conseggi
-newtab-pocket-how-it-works = Comme o fonçionn-a
 newtab-pocket-cta-button = Piggite { -pocket-brand-name }
 newtab-pocket-cta-text = Sarva e stöie che te piaxan into { -pocket-brand-name }, e carega torna a mente con letue che incantan.
 

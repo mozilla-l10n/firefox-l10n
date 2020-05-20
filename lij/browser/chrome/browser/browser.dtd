@@ -111,6 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "h">
 <!ENTITY exitFullScreenCmd.label "Sciòrti da a tutto schermo">
 <!ENTITY exitFullScreenCmd.accesskey "h">
+
 <!ENTITY fullScreenCmd.label "A tutto schermo">
 <!ENTITY fullScreenCmd.accesskey "A">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -126,6 +127,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
  <!-- } is above this key on many keyboards -->
+
 
 <!ENTITY fullScreenMinimize.tooltip "Riduci">
 <!ENTITY fullScreenRestore.tooltip "Repiggia">
@@ -227,7 +229,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Ferma">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "Vanni a l'indirisso in sciâ bara di indirissi">
+
 <!ENTITY printButton.label            "Stanpa">
 <!ENTITY printButton.tooltip          "Stanpa questa pagina">
 
@@ -271,7 +275,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "Ti æ blocòu l'uzo do plugin Adobe Flash pe sto scito.">
 <!ENTITY urlbar.midiBlocked.tooltip              "Ti æ blocòu l'acesso MIDI pe sto scito.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
+
 
 <!ENTITY searchItem.title             "Riçerca">
 
@@ -336,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "c">
 <!ENTITY manageUserContext.label          "Gestisci contegnitoî">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "Neuvo barcon">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -469,6 +476,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "Ciù">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "Scrivi indirisso ò iniçia riçerca">
 <!ENTITY urlbar.accesskey             "S">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -557,6 +565,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "m">
 
 <!ENTITY openLinkCmdInTab.label       "Arvi inte 'n atro feuggio">
+
 <!ENTITY openLinkCmdInTab.accesskey   "v">
 <!ENTITY openLinkCmd.label            "Arvi inte 'n atro barcon">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -605,11 +614,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Azonzi sto riquaddro a-i segnalibbri">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
+
 <!ENTITY pageAction.copyLink.label    "Còpia colegamento">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Sarva in Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Sarva pagina in Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Sarva colegamento in Pocket">
@@ -818,9 +829,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Conescion segua">
 <!ENTITY identity.connectionNotSecure "Conescion no segua">
 
-<!ENTITY identity.connectionSecure3 "Conescion segua">
-<!ENTITY identity.connectionNotSecure2 "Conescion no segua">
-<!ENTITY identity.connectionNotSecureSecurityView "Ti no ê conesso in mòddo seguo a sto scito.">
 <!ENTITY identity.connectionFile "Sta pagina a l'é sarvâ in sciô dispoxitivo che t'adeuvi.">
 <!ENTITY identity.connectionVerified2 "Ti ê conesso in mòddo seguo a sto scito de:">
 <!ENTITY identity.connectionInternal "Sta chi a l'é 'na pagina segua de &brandShortName;.">
@@ -861,7 +869,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Permissi">
 
-<!ENTITY identity.permissions3 "Permissi">
 <!ENTITY identity.permissionsEmpty "Nisciun permisso speciale asociou a sto scito.">
 <!ENTITY identity.permissionsReloadHint "Peu dase che ti devi arvî torna a pagina pe vedde i cangiamenti.">
 <!ENTITY identity.permissionsPreferences.tooltip "Arvi preferense di permissi">
@@ -991,6 +998,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
 <!ENTITY pluginNotification.width "28em">
+
 
 <!ENTITY uiTour.infoPanel.close "Særa">
 

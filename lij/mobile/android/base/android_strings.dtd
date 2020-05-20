@@ -21,23 +21,17 @@
 <!ENTITY firstrun_data_message "Meno dæti, ciù risparmio">
 <!ENTITY firstrun_data_subtext2 "Asmòrta e inmagine pe spende meno dæti inte tutti i sciti che ti vixiti.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Account">
-<!ENTITY firstrun_sync_message2 "Repiggia da donde t\&apos;ei arestou.">
 <!ENTITY firstrun_sync_message3 "Scincronizza segnalibbri, stöia e poule segrete co-o teu telefonin.">
 <!ENTITY firstrun_sync_subtext2 "Deuvia Sync pe trovâ i segnalibbri, poule segrete e atre cöse che t\&apos;æ sarvou con &brandShortName; in sce tutti i dispoxitivi.">
 <!ENTITY newfirstrun_sync_subtext "Scincronizza e cöse che ti sarvi into teu telefonin con Firefox in sciô teu computer, in mòddo riservou e seguo.">
-<!ENTITY updatednewfirstrun_sync_subtext "Acedi a-o teu account pe pigiate o mascimo da &brandShortName;">
-<!ENTITY firstrun_signin_message "Conetite e comensa">
 <!ENTITY firstrun_sendtab_title "Manda feuggio">
 <!ENTITY firstrun_sendtab_message "Condividdi i feuggi da telefonin a computer a l\&apos;instante.">
-<!ENTITY firstrun_signin_button "Acedi a Sync">
-<!ENTITY newfirstrun_signin_button "Açendi Sync">
-<!ENTITY updatednewfirstrun_signin_button "Intra in &brandShortName;">
+<!ENTITY firstrun_signin_message "Conetite e comensa">
 <!ENTITY onboard_start_button_browser "Iniçia a navegâ">
 <!ENTITY firstrun_button_notnow "Oua no">
 <!ENTITY firstrun_button_next "Pròscimo">
 
-<!ENTITY firstrun_signin_button2 "Intra">
+<!ENTITY firstrun_signup_button "Registrite">
 
 <!ENTITY firstrun_tabqueue_title "Colegamenti">
 
@@ -49,8 +43,6 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Ti">
 <!ENTITY firstrun_account_message "Ti gh\&apos;æ &brandShortName; in sce \&apos;n\&apos;atro dispoxitivo?">
-
-<!ENTITY firstrun_signup_button "Registrite">
 
 <!ENTITY  onboard_start_restricted1 "Stanni a-o seguo e into pin contròllo con sta verscion senplificâ de &brandShortName;.">
 
@@ -481,14 +473,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "O serviçio de poxiçion de &vendorShortName; o vâ">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Agiornamenti aotomatichi">
-<!ENTITY pref_update_autodownload_wifi "Solo co-o Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Mai">
-<!ENTITY pref_update_autodownload_always "De longo">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Agiutto">
 
@@ -755,25 +739,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Segnalibbri e stöia">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Gh\&apos;é \&apos;n agiornamento pe &brandShortName;">
-<!ENTITY updater_start_select2 "Sciacca pe scaregâ">
-
-<!ENTITY updater_downloading_title2 "Scarego &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Descaregamento falio">
-<!ENTITY updater_downloading_select2 "Sciacca pe instalâ l\&apos;agiornamento \&apos;na vòtta scaregou">
-<!ENTITY updater_downloading_retry2 "Sciacca pe provâ torna">
-
-<!ENTITY updater_apply_title3 "Scaregou l\&apos;agiornamento pe &brandShortName;">
-<!ENTITY updater_apply_select3 "Sciacca pe instalâ">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Pe scaregâ file e agiornamenti, permetti a &brandShortName; de acede a-o disco.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Permetti">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Neuva sescion òspite">
 <!ENTITY exit_guest_session "Sciòrti sescion òspite">
@@ -889,7 +854,6 @@ activity_stream_signin_prompt, activity_stream_signin_prompt_button):
 - These labels are shown in the Activity Stream recommending the user to sign in. -->
 <!ENTITY activity_stream_signin_title "Benvegnuo in &brandShortName;">
 <!ENTITY activity_stream_signin_description "Iniçia a scincronizâ segnalibbri, poule segrete e atro co-o teu account Firefox.">
-<!ENTITY activity_stream_signin_button "Intra">
 
 <!ENTITY activity_stream_signup_button "Registrite">
 <!ENTITY activity_stream_signin_prompt "Ti ghe l\&apos;æ za \&apos;n account?">
@@ -953,7 +917,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Son e video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "Conseggi e dritonaie de &vendorShortName;">
-<!ENTITY updater_notification_channel "Agiornamenti app">
 <!ENTITY synced_tabs_notification_channel "Feuggi scincronizæ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

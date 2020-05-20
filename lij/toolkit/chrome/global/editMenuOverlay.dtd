@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Seleçionn-a tutto">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Treuva">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "T">

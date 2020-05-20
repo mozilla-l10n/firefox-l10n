@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Mòdolo do diaio da navegaçion segua
 url-classifier-debug-modules = Mòdoli do diaio corenti
 url-classifier-debug-sbjs-modules = Diao JS da navegaçion segua
 url-classifier-debug-file = Schedaio de diaio corente
+
 url-classifier-trigger-update = Agiornamento do Trigger
 url-classifier-not-available = N/D
 url-classifier-disable-sbjs-log = Dizabilita diao JS da navegaçion segua

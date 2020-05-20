@@ -54,3 +54,4 @@ close-tab =
     .title = Særa feuggio
 show-addon =
     .title = Mostra in gestion di conponenti azonti
+

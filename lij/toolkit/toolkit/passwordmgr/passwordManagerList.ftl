@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Særa
     .accesskey = S
+
 show-passwords =
     .label = Mostra Paròlla segreta
     .accesskey = P

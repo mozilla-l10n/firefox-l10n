@@ -4,9 +4,10 @@
 
 <!ENTITY header.label     "Titolo breve"> 
 <!ENTITY message.label    "Quarche testo de ezempio o va chi.">
+
 <!ENTITY editfield0.label "Nomme:"> 
 <!ENTITY editfield1.label "Paròlla Segreta:"> 
-<!ENTITY checkbox.label   "Contròlla ">
+<!ENTITY checkbox.label   "Contròlla "> 
 <!ENTITY copyCmd.label    "Còpia">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY selectAllCmd.label "Seleçionn-a tutto">

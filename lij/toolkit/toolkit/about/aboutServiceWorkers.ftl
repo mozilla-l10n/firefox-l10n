@@ -9,17 +9,12 @@ about-service-workers-title = Informaçioin in sci Service worker
 about-service-workers-main-title = Service worker registræ
 about-service-workers-warning-not-enabled = Service worker no ativæ.
 about-service-workers-warning-no-service-workers = Nisciun Service worker registròu.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Òrigine: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { $appId } – ID Aplicaçion { -brand-short-name } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Nomme cache ativa:</strong> { $name }
 waiting-cache-name = <strong>In ateiza do nomme cache:</strong> { $name }
 push-end-point-waiting = <strong>Endpoint push:</strong> { waiting }
 push-end-point-result = <strong>Endpoint push:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Agiorna
+
 unregister-button = Deregistra
+
 unregister-error = Deregistraçion do Service worker no ariescia.
+
 waiting = In ateiza…
