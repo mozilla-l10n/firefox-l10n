@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = புதிய கமுக்க சாளரத்தில் திறக்கவும்
     .accesskey = P
+
 places-new-bookmark =
     .label = புதிய புத்தகக்குறி…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = புதிய பிரிப்பி
     .accesskey = S
+
 places-view =
     .label = பார்வை
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = தேதி மற்றும் தளத்தின் படி
     .accesskey = t
+
 places-history-search =
     .placeholder = வரலாற்றைத் தேர்
 places-bookmarks-search =
     .placeholder = புத்தகக்குறிகளைத் தேடு
+
 places-delete-domain-data =
     .label = இந்த தளத்தை மறக்கவும்
     .accesskey = F

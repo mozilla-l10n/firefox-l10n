@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = நான் ஆபத்தை ஏற்றுக்கொள்கிறேன்!
 config-about-warning-checkbox =
     .label = இந்த எச்சரிக்கை அடுத்த முறையும் காட்டவும்
+
 config-search-prefs =
     .value = தேடு:
     .accesskey = r
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = நகலெடு
     .accesskey = C
+
 config-copy-name =
     .label = நகலின் பெயர்
     .accesskey = N
+
 config-copy-value =
     .label = நகலின் மதிப்பு
     .accesskey = V
+
 config-modify =
     .label = மாற்றுதல்
     .accesskey = M
+
 config-toggle =
     .label = மாற்றி
     .accesskey = T
+
 config-reset =
     .label = மறுஅமை
     .accesskey = R
+
 config-new =
     .label = புதிய
     .accesskey = w
+
 config-string =
     .label = சரம்
     .accesskey = S
+
 config-integer =
     .label = முழுஎண்
     .accesskey = I
+
 config-boolean =
     .label = பூலியன்
     .accesskey = B
+
 config-default = இயல்பான
 config-modified = மாற்றப்பட்டது
 config-locked = பூட்டப்பட்ட
+
 config-property-string = சரம்
 config-property-int = இயல் எண்
 config-property-bool = பூலியன்
+
 config-new-prompt = விருப்ப பெயரை உள்ளிடவும்
+
 config-nan-title = தவறான மதிப்பு
 config-nan-text = நீங்கள் உள்ளிட்ட உரை ஒரு எண் அல்ல.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = புதிய { $type } மதிப்பு
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = மதிப்பை { $type } உள்ளிடவும்

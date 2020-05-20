@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "இயக்க நேரம் தகவல்">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "கண்காணிப்பு">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "சாதன முன்னுரிமைகள்">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "சாதன அமைவுகள்">
@@ -53,6 +51,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "செயலியை திற">
+
 <!ENTITY runtimeButton_label "இயக்க நேரத்தைத் தேர்">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -76,7 +75,6 @@
 <!ENTITY runtimePanel_usb "USB சாதனங்கள்">
 <!ENTITY runtimePanel_wifi "அருகலைச் சாதனங்கள்">
 <!ENTITY runtimePanel_other "பிற">
-<!ENTITY runtimePanel_noadbhelper "ADB உதவியை நிறுவு">
 <!ENTITY runtimePanel_nousbdevice "உங்கள் சாதனத்தைப் பார்க்க முடியவில்லை?">
 <!ENTITY runtimePanel_refreshDevices_label "கருவிகளைப் புதுப்பி">
 
@@ -119,12 +117,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "இயக்க நேர தகவல்">
-<!ENTITY runtimedetails_adbIsRoot "ADB ஆனது root: ">
-<!ENTITY runtimedetails_summonADBRoot "மூலச் சாதனம்">
-<!ENTITY runtimedetails_ADBRootWarning "(திறக்கப்பட்ட bootloader தேவை)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "கட்டுப்பாடற்ற DevTools முன்னுரிமைகள்: ">
-<!ENTITY runtimedetails_requestPrivileges "உயரிய சலுகைகளை கேள்">
-<!ENTITY runtimedetails_privilegesWarning "(சாதனம் மீள்துவங்கும். root அனுமதி தேவை.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "பூலியன்">
@@ -147,10 +139,6 @@
 <!ENTITY devicesetting_newtext "அமைவின் மதிப்பு">
 <!ENTITY devicesetting_addnew "புதிய அமைப்பை சேர்">
 
-<!-- Monitor -->
-<!ENTITY monitor_title "கண்காணிப்பு">
-<!ENTITY monitor_help "உதவி">
-
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -166,3 +154,4 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+

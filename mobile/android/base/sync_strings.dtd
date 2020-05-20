@@ -5,6 +5,7 @@
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox ஒத்திசைவு">
+
 <!ENTITY syncBrand.shortName.label "ஒத்திசை">
 
 <!-- Main titles. -->

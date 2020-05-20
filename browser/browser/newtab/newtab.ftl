@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = தேடு
     .aria-label = தேடு
+
 newtab-search-box-search-the-web-text = இணையத்தில் தேடு
 newtab-search-box-search-the-web-input =
     .placeholder = இணையத்தில் தேடு
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = முக்கிய தளத்தை 
 newtab-topsites-title-label = தலைப்பு
 newtab-topsites-title-input =
     .placeholder = தலைப்பை இடு
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = உள்ளிடு (அ) ஒரு URL ஒட்டு
 newtab-topsites-url-validation = சரியான URL தேவை
+
 newtab-topsites-image-url-label = தனிப்பயன் பட URL
 newtab-topsites-use-image-link = தனிப்பயன் படத்தை பயன்படுத்தவும்…
 newtab-topsites-image-validation = படத்தை ஏற்றுவதில் தோல்வி. வேறு URL ஐ முயற்சிக்கவும்.
@@ -60,6 +63,7 @@ newtab-confirm-delete-history-p2 = இச்செயலை மீட்க ம�
 newtab-menu-section-tooltip =
     .title = பட்டியைத் திற
     .aria-label = பட்டியைத் திற
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -83,6 +87,11 @@ newtab-menu-delete-history = வரலாற்றிலருந்து அ�
 newtab-menu-save-to-pocket = { -pocket-brand-name } ல் சேமி
 newtab-menu-delete-pocket = { -pocket-brand-name } லிருந்து நீக்கு
 newtab-menu-archive-pocket = { -pocket-brand-name } ல் காப்பெடு
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = புத்தகக்குறியை நீக்கு
 # Bookmark is a verb here.
@@ -156,10 +165,12 @@ newtab-section-header-pocket = { $provider } என்பவரால் பர�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = உலாவலைத் தொடங்கவும், மேலும் நாங்கள் சில சிறந்த கட்டுரைகள், காணொளிகள், மற்றும் நீங்கள் சமீபத்தில் பார்த்த அல்லது புத்தகக்குறியிட்ட பக்கங்களை இங்கே காட்டுவோம்.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = நீங்கள் முடித்துவிட்டீர்கள். { $provider } இலிருந்து கூடுதல் கதைகளுக்கு பின்னர் பாருங்கள். காத்திருக்க முடியவில்லையா? இணையத்திலிருந்து கூடுதலான கதைகளைக் கண்டுபிடிக்க பிரபலமான தலைப்பைத் தேர்ந்தெடுங்கள்.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -175,7 +186,6 @@ newtab-discovery-empty-section-topstories-timed-out = அச்சச்சே�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = பிரபலமான தலைப்புகள்:
 newtab-pocket-more-recommendations = மேலும் பரிந்துரைகள்
-newtab-pocket-how-it-works = இது எப்படி செயல்படுகிறது
 newtab-pocket-cta-button = { -pocket-brand-name } ஐ பெறுக
 newtab-pocket-cta-text = { -pocket-brand-name } நீங்கள் விரும்பும் கதையைச் சேமித்தால், அதுவே உங்கள் மனதை வெள்ளும் வாசித்தலைத் தரும்.
 

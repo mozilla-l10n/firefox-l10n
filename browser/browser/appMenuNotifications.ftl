@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = கமுக்க சாளரத்தின் அமைவுகளில் அனுமதிக்காவிடில் { -brand-shorter-name } என்பதில் சேர்க்கப்படும் புதிய நீட்சிகள் வெலைச் செய்யாது.
 appmenu-addon-private-browsing-learn-more = நீட்சி அமைவுகளை எவ்வாறு நிர்வகிப்பது என்பதை அறிக
+    
 appmenu-new-tab-controlled =
     .label = உங்களது புதிய கீற்று மாறிவிட்டது.
     .buttonlabel = மாற்றங்களை வைத்திரு
