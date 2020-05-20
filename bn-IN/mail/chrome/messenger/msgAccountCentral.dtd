@@ -12,7 +12,6 @@
 <!ENTITY accountsSectionHdr.label     "Accounts"> 
 <!ENTITY subscribeImapFolders.label   "Manage folder subscriptions">
 <!ENTITY settingsLink.label           "View settings for this account"> 
-<!ENTITY newAcctLink.label            "Create a new account"> 
 
 <!ENTITY advFeaturesSectionHdr.label  "Advanced Features"> 
 <!ENTITY searchMsgsLink.label         "Search messages"> 
@@ -21,5 +20,3 @@
 <!ENTITY offlineLink.label            "Offline settings">
 
 
-<!ENTITY rssSectionHdr.label          "RSS News &amp; Blogs"> 
-<!ENTITY subscibeRSS.label            "Manage subscriptions">

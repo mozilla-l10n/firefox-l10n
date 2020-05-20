@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "আংশিক আপডেট প্রয়োগ করা যায়নি। সম্পূর্ণ আপডেট ডাউনলোড করে &brandShortName;-র দ্বারা পুনরায় প্রচেষ্টা করা হবে।">
 
 <!ENTITY  genericBackgroundError.label    "আপডেট উপস্থিত রয়েছে কি না তা &brandShortName; দ্বারা নির্ধারণ করা সম্ভব হয়নি। অনুগ্রহ করে নিশ্চিত করুন যে নিম্নলিখিত স্থান থেকে প্রাপ্ত &brandShortName;-র সাম্প্রতিকতম সংস্করণ ব্যবহার করা হচ্ছে:">
-
+                                           
 <!ENTITY  finishedPage.title              "আপডেট ইনস্টল করতে প্রস্তুত">
 <!ENTITY  finishedPage.text               "&brandShortName; পরবর্তীবার আরম্ভ করা হলে চিহ্নিত আপডেটটি ইনস্টল করা হবে। এখন &brandShortName; পুনরায় আরম্ভ করুন অথবা বর্তমান কর্ম অবিঘ্নিত রাখতে হলে পরে কোনো সময় পুনরারম্ভ করুন।">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "&brandShortName; পরবর্তীবার আরম্ভ করা হলে চিহ্নিত আপডেটটি ইনস্টল করা হবে। এখন &brandShortName; পুনরায় আরম্ভ করুন অথবা বর্তমান কর্ম অবিঘ্নিত রাখতে হলে পরে কোনো সময় পুনরারম্ভ করুন।">
 <!ENTITY  finishedBackground.moreElevated "এই আপডেটের জন্য প্রশাসকের বিশেষাধিকার প্রয়োজন। এই আপডেটটি ইন্সটল হবে এর পরেই যখন &brandShortName; শুরু হবে। আপনি &brandShortName; পুনরারম্ভ করতে পারেন এখন, কাজ করতে থাকুন এবং পরে পুনরারম্ভ করুন বা এই আপডেটটি প্রত্যাখান করুন। ">
 
-<!ENTITY  update.details.label            "বিবরণ">
-<!ENTITY  update.installedOn.label        "ইনস্টলেশনের তারিখ:">
-<!ENTITY  update.status.label             "অবস্থা:">

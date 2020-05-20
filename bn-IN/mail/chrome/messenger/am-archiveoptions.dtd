@@ -4,8 +4,10 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "আর্কাইভ বিকল্প">
-<!ENTITY archiveGranularityPrefix.label "যখন বার্তা সংরক্ষণ, তাদের স্থান: ">:">
+<!ENTITY archiveGranularityPrefix.label "যখন বার্তা সংরক্ষণ, তাদের স্থান: ">
 <!ENTITY archiveFlat.label "একটি ফোল্ডার">
 <!ENTITY archiveFlat.accesskey "s">
 <!ENTITY archiveYearly.label "বাত্সরিক সংরক্ষরিত ফোল্ডার">

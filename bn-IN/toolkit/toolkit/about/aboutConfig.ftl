@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = আমি ঝুঁকি গ্রহণ করলাম!
 config-about-warning-checkbox =
     .label = পরবর্তীবার এই সতর্কবার্তা প্রদর্শন করা হবে
+
 config-search-prefs =
     .value = অনুসন্ধান:
     .accesskey = অ
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,44 +50,59 @@ config-copy-pref =
     .key = C
     .label = কপি করুন
     .accesskey = C
+
 config-copy-name =
     .label = নাম কপি করুন
     .accesskey = N
+
 config-copy-value =
     .label = মান কপি করুন
     .accesskey = V
+
 config-modify =
     .label = পরিবর্তন
     .accesskey = M
+
 config-toggle =
     .label = অদল-বদল করুন
     .accesskey = T
+
 config-reset =
     .label = মান পুনর্নির্ধারণ করুন
     .accesskey = R
+
 config-new =
     .label = নতুন
     .accesskey = ন
+
 config-string =
     .label = স্ট্রিং
     .accesskey = S
+
 config-integer =
     .label = পূর্ণসংখ্যা
     .accesskey = I
+
 config-boolean =
     .label = বুলিয়ান
     .accesskey = B
+
 config-default = ডিফল্ট
 config-locked = লক করা
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = পছন্দের নাম লিখুন
+
 config-nan-title = অবৈধ মান
 config-nan-text = সংখ্যা লেখা হয়নি।
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = নতুন { $type } মান
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = { $type } মান লিখুন

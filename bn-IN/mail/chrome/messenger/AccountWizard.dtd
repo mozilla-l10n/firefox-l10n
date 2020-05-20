@@ -38,20 +38,9 @@
 
 <!-- Entities for Server page -->
 
-<!ENTITY serverTitle.label "সার্ভারের তথ্য">
+<!-- Entities for Incoming Server page -->
+
 <!ENTITY incomingServerTypeDesc.label "আগমনরত সার্ভারের ধরন নির্বাচন করে আপনি ব্যবহার করছেন.">
-<!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
-<!ENTITY incomingServerNameDesc.label "আপনার আগমনরত সার্ভারের নাম লিখুন (উদাহরণ, &quot;মেল.উদাহরণ.নেট&quot;).">
-<!ENTITY incomingServerLabel.label "আগমনরত সার্ভার :">
-<!ENTITY incomingServerLabel.accesskey "S">
-<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
-<!ENTITY newsServerNameDesc.label "আপনার খবর সার্ভারের নাম লিখুন(NNTP) (উদাহরণ, &quot;খবর.উদাহরণ.নেট&quot;).">
-<!-- LOCALIZATION NOTE (smtpServerDesc.label) : Do not translate "SMTP" and "&quot;smtp.example.net&quot;" in below line -->
-<!ENTITY smtpServerDesc.label "আপনার বহিরাগত সার্ভারের নাম লিখুন  (SMTP) (উদাহরণ, &quot;smtp.উদাহরণ.নেট&quot;).">
-<!ENTITY smtpServerLabel.label "বহিরাগত সার্ভার:">
-<!ENTITY smtpServerLabel.accesskey "O">
-<!ENTITY newsServerLabel.label "খবর সার্ভার:">
-<!ENTITY newsServerLabel.accesskey "w">
 <!-- LOCALIZATION NOTE (imapType.label) : Do not translate "IMAP" in below line -->
 <!ENTITY imapType.label "IMAP">
 <!ENTITY imapType.accesskey "I">
@@ -66,36 +55,31 @@
 <!ENTITY defaultPortValue.label "">
 
 
+<!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
+<!ENTITY newsServerNameDesc.label "আপনার খবর সার্ভারের নাম লিখুন(NNTP) (উদাহরণ, &quot;খবর.উদাহরণ.নেট&quot;).">
+<!ENTITY newsServerLabel.label "খবর সার্ভার:">
+<!ENTITY newsServerLabel.accesskey "w">
+
+<!-- Entities for Outgoing Server page -->
+
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp1.prefix "আপনার বর্তমান বিদায়ী সার্ভার (SMTP), &quot;">
-<!ENTITY haveSmtp1.suffix2 "&quot;, ব্যবহৃত হবে. একাউন্ট সেটিংসের মধ্য আপনি বহির্গামী সার্ভার পরিবর্তন করতে পারেন.">
 
 <!-- Entities for Login page -->
 
-<!ENTITY loginTitle.label "ব্যবহারকারীর নাম">
-<!ENTITY usernameDesc.label "আসন্ন ব্যবহারকারী নাম আপনার ইমেইল প্রদানকারী কর্তৃক প্রদত্ত আপনি লিখুন  ">
-<!-- LOCALIZATION NOTE (usernameExample.label) : do not translate "&quot;jsmith&quot;" in below line -->
-<!ENTITY usernameExample.label "(for example, &quot;jsmith&quot;).">
-<!ENTITY usernameLabel.label "Incoming User Name:">
-<!ENTITY usernameLabel.accesskey "I">
-<!ENTITY usernameSmtpDesc.label "Enter the outgoing user name given to you by your email provider (this is typically the same as your incoming user name).">
-<!ENTITY usernameSmtpLabel.label "Outgoing User Name:">
-<!ENTITY usernameSmtpLabel.accesskey "O">
 <!-- LOCALIZATION NOTE (haveSmtp2.prefix and haveSmtp2.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp2.prefix and haveSmtp2.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp2.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp2.prefix "Your existing outgoing (SMTP) username, &quot;">
-<!ENTITY haveSmtp2.suffix2 "&quot;, will be used. You can change outgoing servers in the account settings.">
 <!-- LOCALIZATION NOTE (haveSmtp3.prefix and haveSmtp3.suffix2) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp3.prefix and haveSmtp3.suffix2 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp3.suffix2, if required grammatically.
 -->
 <!ENTITY haveSmtp3.prefix "Your outgoing (SMTP) server, &quot;">
-<!ENTITY haveSmtp3.suffix2 "&quot;, is identical to your incoming server, your incoming user name will be used to access it. You can change outgoing servers in the account settings.">
 
 <!-- Entities for Account name page -->
 

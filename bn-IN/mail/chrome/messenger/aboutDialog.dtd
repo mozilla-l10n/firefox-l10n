@@ -3,8 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutDialog.title      "&brandFullName; পরিচিতি">
-<!ENTITY credits                "স্বীকৃতি">
-<!ENTITY aboutLink              "&lt; &brandFullName; পরিচিতি">
-<!ENTITY aboutVersion           "সংস্করণ">
-<!ENTITY copyrightText          "&#169;১৯৯৮-২০০৭ অংশগ্রহণকারী বৃন্দ।  সর্বসত্ত্ব সংরক্ষিত। Mozilla Thunderbird ও
-                                 Thunderbird লোগো Mozilla Foundation-র ট্রেডমার্ক।  সর্বসত্ত্ব সংরক্ষিত।">
+
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
+
+

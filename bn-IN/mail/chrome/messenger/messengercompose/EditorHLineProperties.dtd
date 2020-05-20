@@ -13,11 +13,8 @@
 <!ENTITY widthEditField.accessKey "W">
 <!ENTITY pixelsPopup.value "পিক্সেল">
 <!ENTITY alignmentBox.label "দিক বিন্যাস">
-<!ENTITY leftRadio.value "বাঁদিকে">
 <!ENTITY leftRadio.accessKey "L">
-<!ENTITY centerRadio.value "কেন্দ্রস্থিত">
 <!ENTITY centerRadio.accessKey "C">
-<!ENTITY rightRadio.value "ডানদিকে">
 <!ENTITY rightRadio.accessKey "R">
 
 <!ENTITY threeDShading.label "3-D ছায়া">

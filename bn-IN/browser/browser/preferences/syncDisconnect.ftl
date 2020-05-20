@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = { -sync-brand-short-name } বিচ্ছিন্ন করা হবে কি?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = আপনি কি এই কম্পিউটারে ব্রাউজারের ডেটা মুছে ফেলতে চান? যদিও, আপনার { -sync-brand-name } ডেটা আপনার অ্যাকাউন্টে থাকবে।
+
 sync-disconnect-remove-sync-caption = { -sync-brand-name } ডেটা সরান
+
 sync-disconnect-remove-sync-data = বুকমার্ক, পূর্ববর্তী তথ্য, পাসওয়ার্ড ইত্যাদি
+
 sync-disconnect-remove-other-caption = অন্যান্য ব্যক্তিগত ডেটা সরিয়ে নিন
+
 sync-disconnect-remove-other-data = কুকি, ক্যাশ, অফলাইন ওয়েবসাইটের ডেটা ইত্যাদি
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = বিচ্ছিন্ন করা হচ্ছে...
+
 sync-disconnect-cancel =
     .label = বাতিল করুন
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = বিচ্ছন্ন করুন এবং মুছে দিন
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = এইমাত্র বিচ্ছিন্ন হল
     .accesskey = D

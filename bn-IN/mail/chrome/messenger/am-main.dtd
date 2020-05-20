@@ -4,10 +4,11 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "Account Settings">
 <!ENTITY accountName.label "Account Name:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "The account name is used to identify each account">
 <!ENTITY identityTitle.label "Default Identity">
 <!ENTITY identityDesc.label "Each account has an identity, which is the information that other people see when they read your messages.">
 <!ENTITY name.label "Your Name:">
@@ -18,8 +19,6 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "Organization:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "Attach this signature:">
-<!ENTITY signature.accesskey "t">
 <!ENTITY edit.label "Edit...">
 <!ENTITY choose.label "Choose...">
 <!ENTITY choose.accesskey "C">
@@ -36,3 +35,4 @@
 <!ENTITY smtpName.label "Outgoing Server (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "Use Default Server">
+

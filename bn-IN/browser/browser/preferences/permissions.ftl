@@ -5,49 +5,61 @@
 permissions-window =
     .title = ব্যতিক্রম
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = ওয়েবসাইটের ঠিকানা
     .accesskey = d
+
 permissions-block =
     .label = প্রতিরোধ করা হবে
     .accesskey = B
+
 permissions-session =
     .label = সেশনের জন্য প্রবেশাধিকার প্রদান করা হবে
     .accesskey = S
+
 permissions-allow =
     .label = প্রবেশাধিকার প্রদান করুন
     .accesskey = A
+
 permissions-site-name =
     .label = ওয়েবসাইট
+
 permissions-status =
     .label = অবস্থা
+
 permissions-remove =
     .label = ওয়েবসাইট অপসারণ করুন
     .accesskey = R
+
 permissions-remove-all =
     .label = সমস্ত ওয়েবসাইটগুলি মুছে ফেলুন
     .accesskey = e
+
 permissions-button-cancel =
     .label = বাতিল
     .accesskey = C
+
 permissions-button-ok =
     .label = পরিবর্তন সংরক্ষণ করুন
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = ওয়েবসাইটের অনুসন্ধান করুন
+
 permissions-capabilities-allow =
     .label = অনুমতি প্রদান করা হবে
 permissions-capabilities-block =
     .label = অবরুদ্ধ করুন
 permissions-capabilities-prompt =
     .label = সর্বদা জিজ্ঞাসা করা হবে
+
 permissions-capabilities-listitem-allow =
     .value = অনুমতি প্রদান করা হবে
 permissions-capabilities-listitem-block =
     .value = অবরুদ্ধ করুন
-permissions-capabilities-listitem-allow-first-party =
-    .value = শুধুমাত্র প্রথম পক্ষকে অনুমতি প্রদান করুন
 permissions-capabilities-listitem-allow-session =
     .value = সেশানের জন্য অনুমতি প্রদান করা হবে
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = অনুগ্রহ করে বৈধ হো
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = ব্যতিক্রমসমূহ - ট্র্যাকিং প্রোটেকশন
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = আপনি এই ওয়েবসাইটগুলিতে ট্র্যাকিং প্রোটেকশন বন্ধ করেছেন।
 permissions-exceptions-content-blocking-window =
     .title = ব্যতিক্রম - বিষয়বস্তু ব্লকিং
     .style = { permissions-window.style }
@@ -102,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = কোন ওয়েবসাইট সবসময় মাল্টিমিডিয়া সাউন্ড স্বয়ংচালনা করবে অথবা কোনটি কখনই করবে না তা আপনি নির্দিষ্ট করতে পারেন। ওয়েব সাইটের সঠিক ঠিকানা টাইপ করুন এবং তারপরে ব্লক করুন, সেশনের জন্য অনুমতি দিন, বা অনুমতি দিন।
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +131,8 @@ permissions-site-location-desc = নিচের ওয়েবসাইট সম
 permissions-site-location-disable-label =
     .label = আপনার অবস্থান অ্যাক্সেস করতে অনুমতি চাওয়া হচ্ছে এমন নতুন অনুরোধকে ব্লক করুন
 permissions-site-location-disable-desc = এটি আপনার অবস্থান অ্যাক্সেস করার জন্য অনুমতি অনুরোধ থেকে উপরে তালিকাভুক্ত নয়  যেকোন ওয়েবসাইটকে প্রতিরোধ করবে। আপনার অবস্থান অ্যাক্সেস ব্লক কিছু ওয়েবসাইট বৈশিষ্ট্য বিরত হতে পারে।
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -4,11 +4,10 @@
 
 <!-- extracted from am-advanced.xul -->
 
+<!-- extracted from am-advanced.xhtml -->
+
 <!-- LOCALIZATION NOTE (smtpServer.label): do not translate "SMTP" in below line -->
 <!ENTITY smtpServer.label "Outgoing Server (SMTP) Settings">
-
-<!-- LOCALIZATION NOTE (smtpDesc.label): do not translate "SMTP" in below line -->
-<!ENTITY smtpDesc.label "Although you can specify more than one outgoing server (SMTP), this is only recommended for advanced users. Setting up multiple SMTP servers can cause errors when sending messages.">
 
 <!ENTITY smtpListAdd.label  "Add...">
 <!ENTITY smtpListAdd.accesskey  "d">
@@ -23,4 +22,3 @@
 <!ENTITY serverName.label "Server Name: ">
 <!ENTITY serverPort.label "Port: ">
 <!ENTITY userName.label   "User Name: ">
-<!ENTITY useSecureConnection.label   "Secure Connection: ">
