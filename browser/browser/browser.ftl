@@ -193,5 +193,7 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = పొడిగింత:
+urlbar-go-button =
+    .tooltiptext = ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి
 urlbar-page-action-button =
     .tooltiptext = పేజీ చర్యలు
