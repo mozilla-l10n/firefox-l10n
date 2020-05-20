@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Disconnect { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Do you also want to remove browser data on this computer? Your { -sync-brand-name } data will remain in your account, regardless.
+
 sync-disconnect-remove-sync-caption = Remove { -sync-brand-name } Data
+
 sync-disconnect-remove-sync-data = Bookmarks, history, passwords, etc.
+
 sync-disconnect-remove-other-caption = Remove Other Private Data
+
 sync-disconnect-remove-other-data = Cookies, cache, offline web site data, etc.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Disconnecting…
+
 sync-disconnect-cancel =
     .label = Cancel
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Disconnect & Delete
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = Just Disconnect
     .accesskey = D

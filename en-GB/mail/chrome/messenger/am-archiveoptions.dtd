@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Archive Options">
 <!ENTITY archiveGranularityPrefix.label "When archiving messages, place them in:">
 <!ENTITY archiveFlat.label "A single folder">

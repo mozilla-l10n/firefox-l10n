@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; is unable to determine if there is an update available. Please 
                                            make sure that you have the latest version of &brandShortName; from:">
-
+                                           
 <!ENTITY  finishedPage.title              "Update Ready to Install">
 <!ENTITY  finishedPage.text               "The update will be installed the next time &brandShortName; starts. You 
                                            can restart &brandShortName; now, or continue working and restart later.">
@@ -72,6 +72,3 @@
                                            &brandShortName; now, continue working and restart later, or decline this
                                            update.">
 
-<!ENTITY  update.details.label            "Details">
-<!ENTITY  update.installedOn.label        "Installed on:">
-<!ENTITY  update.status.label             "Status:">

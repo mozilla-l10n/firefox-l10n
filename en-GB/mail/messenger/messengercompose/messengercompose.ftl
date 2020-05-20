@@ -7,6 +7,7 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Remove the { $type } field
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type =
@@ -15,6 +16,7 @@ address-input-type =
         [one] { $type } input field with one address
        *[other] { $type } input field with { $count } addresses
     }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -23,6 +25,7 @@ address-input-type-aria-label =
         [one] { $type } with one address, use left arrow key to focus on it.
        *[other] { $type } with { $count } addresses, use left arrow key to focus on them.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -30,15 +33,19 @@ pill-aria-label =
         [one] { $email }: press Enter to edit, Delete to remove.
        *[other] { $email }, 1 of { $count }: press Enter to edit, Delete to remove.
     }
+
 pill-action-edit =
     .label = Edit Address
     .accesskey = E
+
 pill-action-move-to =
     .label = Move to To
     .accesskey = t
+
 pill-action-move-cc =
     .label = Move to Cc
     .accesskey = C
+
 pill-action-move-bcc =
     .label = Move to Bcc
     .accesskey = B
