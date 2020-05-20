@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Zacyniś
     .accesskey = Z
+
 show-passwords =
     .label = Gronidła pokazaś
     .accesskey = G

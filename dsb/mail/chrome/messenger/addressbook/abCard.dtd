@@ -76,14 +76,11 @@
 <!ENTITY HomeWebPage.accesskey          "e">
 <!ENTITY Birthday.label                 "Narodny źeń:">
 <!ENTITY Birthday.accesskey             "N">
-<!ENTITY In.label                       "">
 <!ENTITY Month.placeholder              "Mjasec">
 <!ENTITY Day.placeholder                "Źeń">
 <!ENTITY Year.placeholder               "Lěto">
-<!ENTITY Or.value                       "abo">
 <!ENTITY Age.label                      "Starstwo:">
 <!ENTITY Age.placeholder                "Starstwo">
-<!ENTITY YearsOld.label                 "">
 
 <!ENTITY Work.tab                       "Słužbny telefon">
 <!ENTITY Work.accesskey                 "S">

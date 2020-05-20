@@ -6,4 +6,5 @@ restart-required-title = Znowegostartowanje trěbne
 restart-required-header = Jo nam luto. Musymy jano drobnostku cyniś, nježli až pókšacujomy.
 restart-required-intro-brand = { -brand-short-name } jo se rowno w slězynje zaktualizěrował. Klikniśo na { -brand-short-name } znowego startowaś, aby aktualizaciju dokóńcył.
 restart-required-description = Wótnowijomy pózdźej wšykne waše boki, wokna a rejtariki, aby mógał malsnje pókšacowaś.
+
 restart-button-label = { -brand-short-name } znowego startowaś

@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Drobnostki nałoženja
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Wótpóraś
     .accesskey = W
-app-manager-handle-webfeeds = Slědujuce nałoženja daju se wužywaś, aby z Webkanale wobchadali.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Slědujuce nałoženja daju se wužywaś, aby z { $type } wótkaze wobchadali.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Slědujuce nałoženja daju se wužywaś, aby z { $type } wopśimjeśe wobchadali.

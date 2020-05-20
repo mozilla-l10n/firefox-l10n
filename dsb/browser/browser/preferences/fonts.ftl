@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Pisma
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Pisma za
     .accesskey = P
+
 fonts-langgroup-arabic =
     .label = Arabiske
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcionalne
     .accesskey = p
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Wjelikosć
     .accesskey = l
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Wjelikosć
     .accesskey = k
+
 fonts-minsize = Minimalna wjelikosć pisma
     .accesskey = M
+
 fonts-minsize-none =
     .label = Žeden
+
 fonts-allow-own =
     .label = Bokam dowóliś, swóje pisma město górjejce wubranych wužywaś
     .accesskey = B
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Tekstowe koděrowanje za zestarjone wopśimjeśe
 fonts-languages-fallback-desc = Toś to tekstowe koděrowanje wužywa se za zestarjone wopśimjeśe, kótarež njepódawa swójske koděrowanje.
+
 fonts-languages-fallback-label = Narownanje za tekstowe koděrowanje
     .accesskey = t
+
 fonts-languages-fallback-name-auto =
     .label = Standard za aktualnu lokalu
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamske
 fonts-languages-fallback-name-other =
     .label = Druge (inkl. pódwjacornoeuropske)
-fonts-very-large-warning-title = Wjelika minimalna pismowa wjelikosć
-fonts-very-large-warning-message = Sćo wjelgin wjeliku minimalnu pismowu wjelikosć (wušej 24 pikselow) wubrał. To by mógło wužywanje wažnych konfiguraciskich bokow ako jo toś ten bok wobśěžyś abo samo znjemóžniś.
-fonts-very-large-warning-accept = Móje změny weto wobchowaś
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

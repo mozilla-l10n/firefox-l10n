@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Akceptěrujom riziko!
 config-about-warning-checkbox =
     .label = Toś to warnowanje pśichodny raz pokazaś
+
 config-search-prefs =
     .value = Pytaś:
     .accesskey = t
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopěrowaś
     .accesskey = K
+
 config-copy-name =
     .label = Mě kopěrowaś
     .accesskey = M
+
 config-copy-value =
     .label = Gódnotu kopěrowaś
     .accesskey = G
+
 config-modify =
     .label = Změniś
     .accesskey = Z
+
 config-toggle =
     .label = Pśešaltowaś
     .accesskey = P
+
 config-reset =
     .label = Slědk stajiś
     .accesskey = l
+
 config-new =
     .label = Nowy
     .accesskey = o
+
 config-string =
     .label = String
     .accesskey = S
+
 config-integer =
     .label = Integer
     .accesskey = I
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = standard
 config-modified = změnjony
 config-locked = zastajony
+
 config-property-string = string
 config-property-int = integer
 config-property-bool = boolean
+
 config-new-prompt = Zapódajśo mě nastajenja
+
 config-nan-title = Njepłaśiwa gódnota
 config-nan-text = Tekst, kótaryž sćo zapódał, njejo licba.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nowa gódnota { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Zapódajśo gódnotu { $type }

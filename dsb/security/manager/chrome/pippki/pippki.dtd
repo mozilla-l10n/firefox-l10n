@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Su was pśepšosyli nowej certifikatowej awtoriśe (CA) dowěriś.">
 <!ENTITY downloadCert.trustSSL "Toś tej certifikatowej awtoriśe dowěriś, aby se websedła identificěrowali.">
 <!ENTITY downloadCert.trustEmail "Toś tej certifikatowej awtoriśe dowěriś, aby se e-mailowe wužywarje identificěrowali.">
-<!ENTITY downloadCert.trustObjSign "Toś tej certifikatowej awtoriśe dowěriś, aby se softwarowe wuwywarje identificěrowali.">
 <!ENTITY downloadCert.message3 "Pjerwjej až dowěriśo toś tej certifikatowej awtoriśe za někaki zaměr, wy by měł jeje certifikat a jeje pšawidła a procedury (jolic stoje k dispoziciji) pśeglědaś.">
 <!ENTITY downloadCert.viewCert.label "Naglěd">
 <!ENTITY downloadCert.viewCert.text "Certifikat certifikatoweje awtority pśeglědaś">

@@ -9,24 +9,12 @@ ok = W pórěźe
 http = HTTP
 sockets = Sokety
 dns = DNS
-dnssuffix = DNS-sufiks
 websockets = Websokety
 refresh = Aktualizěrowaś
 auto-refresh = Kužde 3 sekundy aktualizěrowaś
 hostname = Hostmě
 port = Port
 http2 = HTTP/2
-about-networking-title = Wo seśowych zwiskach
-about-networking-http = HTTP
-about-networking-sockets = Sokety
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS-sufiks
-about-networking-websockets = Websokety
-about-networking-refresh = Aktualizěrowaś
-about-networking-auto-refresh = Kužde 3 sekundy aktualizěrowaś
-about-networking-hostname = Hostmě
-about-networking-port = Port
-about-networking-http-version = HTTP-wersija
 ssl = SSL
 active = Aktiwny
 idle = Prozny chód
@@ -69,8 +57,18 @@ rcwn-avg-long = Dłujki pśerězk
 rcwn-std-dev-long = Dłujke standardne wótchylenje
 rcwn-cache-slow = Pomałe licenje pufrowaś
 rcwn-cache-not-slow = Pomałe licenje njepufrowaś
-networkid = Seśowy ID
-networkid-id = Seśowy ID
+
+about-networking-title = Wo seśowych zwiskach
+about-networking-http = HTTP
+about-networking-sockets = Sokety
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS-sufiks
+about-networking-websockets = Websokety
+about-networking-refresh = Aktualizěrowaś
+about-networking-auto-refresh = Kužde 3 sekundy aktualizěrowaś
+about-networking-hostname = Hostmě
+about-networking-port = Port
+about-networking-http-version = HTTP-wersija
 about-networking-ssl = SSL
 about-networking-active = Aktiwny
 about-networking-idle = Prozny chód
@@ -118,8 +116,6 @@ about-networking-networkid-id = Seśowy ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Wótkaz jo pśepadnjony
-networkid-statusKnown = Wótkazowy status jo znaty
 about-networking-networkid-is-up = Wótkaz jo pśepadnjony
 about-networking-networkid-status-known = Wótkazowy status jo znaty
 

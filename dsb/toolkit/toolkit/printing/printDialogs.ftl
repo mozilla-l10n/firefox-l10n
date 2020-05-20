@@ -103,6 +103,7 @@ print-window =
     .title = Śišćanje
 print-complete =
     .value = Śišćanje jo skóńcone.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

@@ -9,6 +9,7 @@ about-service-workers-title = Wó "service workers"
 about-service-workers-main-title = Zregistrěrowane "service workers"
 about-service-workers-warning-not-enabled = "Service workers" njejsu zmóžnjone.
 about-service-workers-warning-no-service-workers = Žedne "service workers" zregistrěrowane.
+
 # The original title of service workers' information
 #
 # Variables:
@@ -28,8 +29,12 @@ active-cache-name = <strong>Mě aktiwnego cacha:</strong> { $name }
 waiting-cache-name = <strong>Mě cakajucego cacha:</strong> { $name }
 push-end-point-waiting = <strong>Kóńcny dypk Push:</strong> { waiting }
 push-end-point-result = <strong>Kóńcny dypk Push:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Aktualizěrowaś
+
 unregister-button = Registrěrowanje skóńcyś
+
 unregister-error = Registrěrowanje za "Service worker" njedajo se skóńcyś.
+
 waiting = Caka se…

@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Pismo:">
 <!ENTITY font.accesskey                       "P">
-<!ENTITY size.label                           "Wjelikosć:">
-<!ENTITY size.accesskey                       "W">
 <!ENTITY fontSize.label                       "Wjelikosć:">
 <!ENTITY fontSize.accesskey                   "l">
 <!ENTITY useReaderDefaults.label              "Standardne barwy cytaka wužywaś">

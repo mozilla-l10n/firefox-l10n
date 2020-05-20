@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = W nowem priwatnem woknje wócyniś
     .accesskey = r
+
 places-new-bookmark =
     .label = Nowe cytańske znamje…
     .accesskey = N
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Nowa źěleńska linija
     .accesskey = l
+
 places-view =
     .label = Naglěd
     .accesskey = N
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Pó datumje a sedle
     .accesskey = t
+
 places-history-search =
     .placeholder = Historiju pśepytaś
 places-bookmarks-search =
     .placeholder = Cytańske znamjenja pśepytaś
+
 places-delete-domain-data =
     .label = Toś to sedło zabyś
     .accesskey = s

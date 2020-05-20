@@ -4,16 +4,21 @@
 
 profile-selection-window =
     .title = { -brand-short-name } - Wužywaŕski profil wubraś
+
 profile-selection-button-accept =
     .label = { -brand-short-name } startowaś
+
 profile-selection-button-cancel =
     .label = Skóńcyś
+
 profile-selection-new-button =
     .label = Profil załožyś…
     .accesskey = z
+
 profile-selection-rename-button =
     .label = Profil pśemjeniś…
     .accesskey = m
+
 profile-selection-delete-button =
     .label = Profil lašowaś…
     .accesskey = l
@@ -21,9 +26,11 @@ profile-selection-delete-button =
 ## Messages used in the profile manager
 
 profile-manager-description = { -brand-short-name } składujo informacije wó wašych nastajenjach, preferencach a drugich wužywaŕskich zapiskach we wašom wužywaŕskem profilu.
+
 profile-manager-work-offline =
     .label = Offline źěłaś
     .accesskey = O
+
 profile-manager-use-selected =
     .label = Wubrany profil wužywaś, mimo aby se pśi startowanju pšašało
     .accesskey = u

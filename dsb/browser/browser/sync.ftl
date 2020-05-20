@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Synchronizěrujo se…
 fxa-toolbar-sync-syncing-tabs =
     .label = Rejtariki se synchronizěruju…
+
 sync-disconnect-dialog-title = Zwisk z { -sync-brand-short-name } źěliś?
 sync-disconnect-dialog-body = { -brand-product-name } pśestanjo waš konto synchronizěrowaś, ale njewulašujo pśeglědowańske daty na toś tom rěźe.
 fxa-disconnect-dialog-title = Zwisk z { -brand-product-name } źěliś?

@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "l">
 <!ENTITY downloadOnBiff.label "Nowe powěsći awtomatiski ześěgnuś">
 <!ENTITY downloadOnBiff.accesskey "N">
-<!ENTITY username.label "Wašo pśizjawjeńske mě">
 <!ENTITY deleteMessagePrefix.label "Gaž se powěsć lašujo:">
 <!ENTITY modelMoveToTrash.label "Do toś togo zarědnika pśesunuś:">
 <!ENTITY modelMoveToTrash.accesskey "D">
