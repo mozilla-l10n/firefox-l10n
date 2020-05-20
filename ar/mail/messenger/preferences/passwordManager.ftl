@@ -16,7 +16,11 @@ column-heading-time-password-changed =
     .label = آخر تعديل
 column-heading-times-used =
     .label = مرات الاستخدام
+
 logins-description-filtered = تُطابق جلسات الولوج هذه نتيجة بحثك:
 remove-all-passwords-prompt = أمتأكّد أنّك تريد إزالة كل كلمات السر؟
 remove-all-passwords-title = أزِل كل كلمات السر
 no-master-password-prompt = أمتأكّد أنّك تريد عرض كلمات سرّك؟
+
+## OS Authentication dialog
+

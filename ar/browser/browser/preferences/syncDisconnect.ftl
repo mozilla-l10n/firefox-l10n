@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = أأقطع اتصال { -sync-brand-short-name }؟
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = أتريد أيضا إزالة بيانات التصفح في هذا الحاسوب؟ اعلم رجاءً بأن بياناتك في { -sync-brand-name } ستبقى في حسابك أكنت تريد الإزالة أم لا.
+
 sync-disconnect-remove-sync-caption = أزِل بيانات { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = العلامات والتأريخ وكلمات السر وغيرها.
+
 sync-disconnect-remove-other-caption = أزِل بقية البيانات الخاصية
+
 sync-disconnect-remove-other-data = الكعكات والخبيئة وبيانات المواقع بلا اتصال وغيرها.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = يقطع الاتصال…
+
 sync-disconnect-cancel =
     .label = ألغِ
     .accesskey = ل
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = اقطع الاتصال واحذف
     .accesskey = ق
+
 sync-disconnect-confirm-disconnect =
     .label = اقطع الاتصال فحسب
     .accesskey = ق

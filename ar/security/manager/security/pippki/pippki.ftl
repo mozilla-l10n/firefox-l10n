@@ -8,6 +8,7 @@ password-quality-meter = مقياس جودة كلمة السرّ
 
 change-password-window =
     .title = غيّر كلمة السرّ الرئيسيّة
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = جهاز الأمن: { $tokenName }

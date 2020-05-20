@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "تعذّر تطبيق التّحديث الجزئي. سيحاول &brandShortName; مرّة أخرى بتنزيل كلّ التّحديث.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; غير قادر على معرفة إذا كان هناك تحديث متاح. رجاءً تأكد من أن لديك آخر نسخة من &brandShortName; من:">
-
+                                           
 <!ENTITY  finishedPage.title              "التحديث جاهز للتنصيب">
 <!ENTITY  finishedPage.text               "سوف يُنصّب التحديث في المرة المقبلة التي يبدأ &brandShortName; فيها. يمكنك إعادة تشغيل &brandShortName; الآن، أو متابعة العمل و إعادة تشغيله لاحقًا.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "سوف يُنصّب التحديث في المرة المقبلة التي يبدأ &brandShortName; فيها. يمكنك إعادة تشغيل &brandShortName; الآن، أو متابعة العمل و إعادة تشغيله لاحقًا.">
 <!ENTITY  finishedBackground.moreElevated "يتطلب هذا التحديث صلاحيات مدير النظام. سوف يُنصّب التحديث في المرة المقبلة التي يبدأ &brandShortName; فيها. يمكنك إعادة تشغيل &brandShortName; الآن، أو متابعة العمل و إعادة تشغيله لاحقًا، أو رفض هذا التحديث.">
 
-<!ENTITY  update.details.label            "التفاصيل">
-<!ENTITY  update.installedOn.label        "منصّب في:">
-<!ENTITY  update.status.label             "الحالة:">

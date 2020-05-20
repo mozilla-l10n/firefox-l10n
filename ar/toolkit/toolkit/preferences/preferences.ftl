@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (غير مضبوط)
+
 failed-pw-change = تعذّر تغيير كلمة السر الرئيسيّة.
 incorrect-pw = لم تدخل كلمة السر الرئيسيّة الصّحيحة. الرّجاء المحاولة مرّة ثانية.
 pw-change-ok = غُيّرت كلمة السر الرئيسيّة بنجاح.
+
 pw-empty-warning = لن تكون كلمات سر الوِب و البريد الإلكتروني، و بيانات الاستمارات، و المفاتيح العامّة المخزّنة محميّة.
 pw-erased-ok = حَذَفْتَ كلمة سرك الرئيسيّة.  { pw-empty-warning }
 pw-not-wanted = تحذير! قرّرت عدم استخدام كلمة سر رئيسة. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = أنت حاليًّا في وضع FIPS. يتطلّب FIPS كلمة سر غير فارغة.
 pw-change-success-title = نجح تغيير كلمة السر
 pw-change-failed-title = فشل تغيير كلمة السر
 pw-remove-button =
     .label = احذف
+
 set-password =
     .title = غيّر كلمة السرّ الرئيسيّة
 set-password-old-password = كلمة السرّ الحاليّة:
@@ -24,6 +28,7 @@ set-password-meter = مقياس جودة كلمة السرّ
 set-password-meter-loading = يجري التّحميل
 master-password-description = تستخدم كلمة السرّ الرئيسيّة لحماية المعلومات الحسّاسة ككلمات سرّ المواقع.  إذا أنشأت كلمة سرّ رئيسيّة سيطلب منك إدخالها مرّة في كلّ جلسة عندما يجلب { -brand-short-name } المعلومات المحفوظة المحميّة بكلمة السرّ.
 master-password-warning = رجاءً تأكّد من تذكّر كلمة السرّ الرئيسيّة التي وضعتها.  إذا نسيت كلمة السرّ الرئيسيّة، لن تكون قادرًا على الوصول إلى المعلومات المحميّة بها.
+
 remove-password =
     .title = أزِل كلمة السرّ الرئيسيّة
 remove-info =

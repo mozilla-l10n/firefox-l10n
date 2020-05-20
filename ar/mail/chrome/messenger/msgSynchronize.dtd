@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "نزِّل وزامِن الرسائل">
 <!ENTITY MsgSelect.label "عناصر للاستخدام في طور اللا اتصال">
 <!ENTITY MsgSyncDesc.label "إذا كنت قد اخترت مسبقًا مجلدات بريد أو مجموعات أخبار لتُستخدم بلا اتصال فيُمكنك تنزيلها و/أو مزامنتها الآن. وإلا فاستخدم زر ”اختر“ لتختار المجلدات ومجموعات الأخبار التي تريد استخدامها بلا اتصال.">

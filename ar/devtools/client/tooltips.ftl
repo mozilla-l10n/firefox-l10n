@@ -22,15 +22,25 @@ learn-more = <span data-l10n-name="link">اطّلع على المزيد</span>
 ##   $display (string) - A CSS display value e.g. "inline-block".
 
 inactive-css-not-grid-or-flex-container = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في حاويًا مرنًا/flex ولا في حاويًا شبكيًا/grid.
+
 inactive-css-not-grid-or-flex-container-or-multicol-container = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في حاويًا مرنًا/flex ولا في حاويًا شبكيًا/grid ولا في حاويًا متعدّد الأعمدة.
+
 inactive-css-not-grid-or-flex-item = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في شبكة/grid ولا في عنصر مرن/flex.
+
 inactive-css-not-grid-item = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في عنصر شبكة/grid.
+
 inactive-css-not-grid-container = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في حاويًا شبكيًا/grid.
+
 inactive-css-not-flex-item = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في عنصر مرن/flex.
+
 inactive-css-not-flex-container = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس في حاويًا مرنًا/flex.
+
 inactive-css-not-inline-or-tablecell = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس عنصرًا مضمّنًا/inline ولا خلية جدول/table-cell.
+
 inactive-css-property-because-of-display = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ قيمة العرض/display له هي <strong>{ $display }</strong>.
+
 inactive-css-not-display-block-on-floated = غيّر المحرّك قيمةَ العرض/<strong>display</strong> لتصير <strong>block</strong> إذ العنصر <strong>طافٍ/float<strong>.
+
 inactive-css-position-property-on-unpositioned-box = ليس للصفة <strong>{ $property }</strong> أيّ تأثير على هذا العنصر إذ ليس عنصرًا متموضعًا/positioned.
 
 ## In the Rule View when a CSS property cannot be successfully applied we display
@@ -38,17 +48,32 @@ inactive-css-position-property-on-unpositioned-box = ليس للصفة <strong>{
 ## the problem can be solved.
 
 inactive-css-not-grid-or-flex-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>display:inline-grid</strong> أو <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-grid-item-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong> إلى العنصر الأب. { learn-more }
+
 inactive-css-not-grid-or-flex-container-or-multicol-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>columns:2</strong>. { learn-more }
+
 inactive-css-not-grid-or-flex-item-fix-2 = جرّب إضافة <strong>display:grid</strong> أو <strong>display:flex</strong> أو <strong>display:inline-grid</strong> أو <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-grid-item-fix-2 = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong> إلى العنصر الأب. { learn-more }
+
 inactive-css-not-grid-container-fix = جرّب إضافة <strong>display:grid</strong> أو <strong>display:inline-grid</strong>. { learn-more }
+
 inactive-css-not-flex-item-fix = جرّب إضافة <strong>display:flex</strong> أو <strong>display:inline-flex</strong> إلى العنصر الأب. { learn-more }
+
 inactive-css-not-flex-item-fix-2 = جرّب إضافة <strong>display:flex</strong> أو <strong>display:inline-flex</strong> إلى العنصر الأب. { learn-more }
+
 inactive-css-not-flex-container-fix = جرّب إضافة <strong>display:flex</strong> أو <strong>display:inline-flex</strong>. { learn-more }
+
 inactive-css-not-inline-or-tablecell-fix = جرّب إضافة <strong>display:inline</strong> أو <strong>display:table-cell</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-row-or-row-group-fix = جرّب إضافة <strong>display:inline-block</strong> أو <strong>display:block</strong>. { learn-more }
+
 inactive-css-non-replaced-inline-or-table-column-or-column-group-fix = جرّب إضافة <strong>display:inline-block</strong>. { learn-more }
+
 inactive-css-not-display-block-on-floated-fix = جرّب إمّا إزالة <strong>float</strong> أو إضافة<strong>display:block</strong>. { learn-more }
+
 inactive-css-position-property-on-unpositioned-box-fix = جرّب ضبط خاصية <strong>position</strong> إلى شيء آخر عدا <strong>static</strong>. { learn-more }
+

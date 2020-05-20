@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "الخط:">
 <!ENTITY font.accesskey                       "خ">
-<!ENTITY size.label                           "الحجم:">
-<!ENTITY size.accesskey                       "ح">
 <!ENTITY fontColor.label                      "لون النص:">
 <!ENTITY fontColor.accesskey                  "ن">
 <!ENTITY bgColor.label                        "لون الخلفية:">

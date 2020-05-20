@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = العلامات
+
 sidebar-menu-history =
     .label = التأريخ
+
 sidebar-menu-synced-tabs =
     .label = الألسنة المُزامنة
+
 sidebar-menu-close =
     .label = أغلِق الشريط الجانبي

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = الخطوط
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = خطوط‍
     .accesskey = خ
+
 fonts-langgroup-arabic =
     .label = عربي
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = متناسب
     .accesskey = ت
+
 fonts-default-serif =
     .label = مذيّل
 fonts-default-sans-serif =
     .label = غير مذيل
+
 fonts-proportional-size = الحجم
     .accesskey = م
+
 fonts-serif = مذيّل
     .accesskey = ذ
+
 fonts-sans-serif = غير مذيّل
     .accesskey = غ
+
 fonts-monospace = ثابت العرض
     .accesskey = ث
+
 fonts-monospace-size = الحجم
     .accesskey = ح
+
 fonts-minsize = الحجم الأدنى للخط
     .accesskey = ط
+
 fonts-minsize-none =
     .label = لا شيء
+
 fonts-allow-own =
     .label = اسمح للصفحات باستعمال خطوطها الخاصة، عوضًا عن اختياراتي في الأعلى
     .accesskey = س
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ترميز النص للمحتوى العتيق
 fonts-languages-fallback-desc = يُستخدم ترميز النص هذا مع المحتوى العتيق الذي لا يُحدِّد ترميزه.
+
 fonts-languages-fallback-label = ترميز النص الاحتياط
     .accesskey = ر
+
 fonts-languages-fallback-name-auto =
     .label = المبدئي من لغة البرنامج
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = الفيتناميّة
 fonts-languages-fallback-name-other =
     .label = آخر (يشمل غرب أوروبي)
-fonts-very-large-warning-title = أقل حجم خط كبير
-fonts-very-large-warning-message = لقد اخترت أقل حجم خط كبير جدا (أكبر من ٢٤ بكسل). قد يجعل هذا من الصعب أو المستحيل استخدام بعض صفحات الإعدادات المهمة، كهذه الصفحة مثلا.
-fonts-very-large-warning-accept = استخدم تغييراتي مع هذا
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

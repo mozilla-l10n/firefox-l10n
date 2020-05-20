@@ -5,50 +5,66 @@
 permissions-window =
     .title = الاستثناءات
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = عنوان موقع وِب
     .accesskey = و
+
 permissions-block =
     .label = احجب
     .accesskey = ح
+
 permissions-session =
     .label = اسمح لهذه الجلسة
     .accesskey = ج
+
 permissions-allow =
     .label = اسمح
     .accesskey = س
+
 permissions-site-name =
     .label = موقع الوِب
+
 permissions-status =
     .label = الحالة
+
 permissions-remove =
     .label = احذف موقع الوِب
     .accesskey = ح
+
 permissions-remove-all =
     .label = احذف كل مواقع الوِب
     .accesskey = ذ
+
 permissions-button-cancel =
     .label = ألغِ
     .accesskey = ل
+
 permissions-button-ok =
     .label = احفظ التغييرات
     .accesskey = ح
+
 permissions-autoplay-menu = المبدئي للمواقع كافة:
+
 permissions-searchbox =
     .placeholder = ابحث عن موقع
+
 permissions-capabilities-autoplay-allow =
     .label = اسمح بالصوت والڤِديو
 permissions-capabilities-autoplay-block =
     .label = احجب الصوت
 permissions-capabilities-autoplay-blockall =
     .label = احجب الصوت والڤِديو
+
 permissions-capabilities-allow =
     .label = اسمح
 permissions-capabilities-block =
     .label = احجب
 permissions-capabilities-prompt =
     .label = اسأل دائمًا
+
 permissions-capabilities-listitem-allow =
     .value = اسمح
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = الاستثناءات - حجب المحتوى
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = عطّلت حجب المحتوى في هذه المواقع.
+
 permissions-exceptions-etp-window =
     .title = استثناءات الحماية الموسّعة من التعقب
     .style = { permissions-window.style }

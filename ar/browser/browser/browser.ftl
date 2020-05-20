@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = اعرض معلومات الموقع
 
@@ -90,10 +91,12 @@ urlbar-midi-blocked =
     .tooltiptext = لقد حجبنا عن هذا الموقع الوصول إلى MIDI.
 urlbar-install-blocked =
     .tooltiptext = حجبت تثبيت الإضافات في هذا الموقع.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = حرّر هذه العلامة ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -107,6 +110,7 @@ page-action-manage-extension =
     .label = أدِر الامتدادات…
 page-action-remove-from-urlbar =
     .label = أزل من شريط العناوين
+
 page-action-remove-extension =
     .label = أزِل الامتداد
 
@@ -124,12 +128,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = الآن فقط ابحث باستعمال:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = غيّر إعدادات البحث
 search-one-offs-change-settings-compact-button =
     .tooltiptext = غيّر إعدادات البحث
+
 search-one-offs-context-open-new-tab =
     .label = ابحث في لسان جديد
     .accesskey = س
@@ -145,8 +151,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = اعرض المحرر عند الحفظ
     .accesskey = ظ
+
 bookmark-panel-done-button =
     .label = تمّ
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -223,6 +231,7 @@ popup-all-windows-shared = ستُشارك كل النوافذ الظاهرة ع�
 
 enable-devtools-popup-description = افتح أولا أدوات المطورين من قائمة مطوّري الوِب لاستعمال الاختصار F12.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -235,9 +244,11 @@ urlbar-permissions-granted =
     .tooltiptext = منحت هذا الموقع صلاحيات أخرى.
 urlbar-switch-to-tab =
     .value = انتقل إلى اللسان:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = الامتداد:
+
 urlbar-go-button =
     .tooltiptext = اذهب للعنوان في شريط الموقع
 urlbar-page-action-button =

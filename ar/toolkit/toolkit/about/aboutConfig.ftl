@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = أقبل المخاطرة!
 config-about-warning-checkbox =
     .label = أظهر هذا التحذير في المرّة القادمة
+
 config-search-prefs =
     .value = ابحث:
     .accesskey = ح
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = انسخ
     .accesskey = ن
+
 config-copy-name =
     .label = انسخ الاسم
     .accesskey = س
+
 config-copy-value =
     .label = انسخ القيمة
     .accesskey = ق
+
 config-modify =
     .label = عدِّل
     .accesskey = ع
+
 config-toggle =
     .label = بدّل
     .accesskey = ب
+
 config-reset =
     .label = صفّر
     .accesskey = ص
+
 config-new =
     .label = جديد
     .accesskey = ي
+
 config-string =
     .label = نصّ
     .accesskey = ن
+
 config-integer =
     .label = عدد صحيح
     .accesskey = ص
+
 config-boolean =
     .label = عدد منطقي
     .accesskey = م
+
 config-default = المبدئي
 config-modified = معدّل
 config-locked = مُوصد
+
 config-property-string = نص
 config-property-int = عدد صحيح
 config-property-bool = عدد منطقي
+
 config-new-prompt = أدخل اسم التّفضيل
+
 config-nan-title = قيمة غير صالحة
 config-nan-text = النص الذي أدخلته ليس رقمًا.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = قيمة { $type } جديدة
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = أدخل قيمة { $type }

@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "دفتر العناوين:">
 <!ENTITY editContactAddressBook.accesskey "ف">
 
-<!ENTITY editContactPanelCancel.label "ألغِ">
-<!ENTITY editContactPanelCancel.accesskey "غ">
-
 <!ENTITY editContactPanelDone.label "تمّ">
 <!ENTITY editContactPanelDone.accesskey "ت">
 

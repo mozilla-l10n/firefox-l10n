@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "أرسِل رسالة فورية أو دردشة">
 <!ENTITY deleteButton2.tooltip                          "احذف العنصر المُختار">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "دفاتر العناوين">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "الاسم أو البريد">
 <!ENTITY SearchNameOrEmail.accesskey                    "س">
