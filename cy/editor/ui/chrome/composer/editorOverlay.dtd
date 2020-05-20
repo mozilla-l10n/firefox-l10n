@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "G">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Ffont">
 <!ENTITY FontFaceSelect.tooltip "Dewiswch ffont">
 <!ENTITY fontfaceMenu.label "Ffont">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Maint Ffont">
 <!ENTITY FontSizeSelect.tooltip "Dewiswch faint y ffont">
 <!ENTITY decreaseFontSize.label "Llai">
 <!ENTITY decreaseFontSize.accesskey "L">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Priodweddau'r Rhestr…">
 <!ENTITY listPropsCmd.accesskey "R">
 
+<!ENTITY ParagraphSelect.title "Paragraff">
 <!ENTITY ParagraphSelect.tooltip "Dewiswch fformat paragraff">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corff y Testun">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Alinio Unioni">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Lleoli">
 <!ENTITY layer.tooltip "Haen">
+<!ENTITY decreaseZIndex.label "Anfon i'r Cefn">
 <!ENTITY layerSendToBack.tooltip "Anfon i'r Cefn">
+<!ENTITY increaseZIndex.label "Dwyn i'r Blaen">
 <!ENTITY layerBringToFront.tooltip "Dwyn i'r Blaen">
 
 <!ENTITY increaseIndent.label "Cynyddu'r Mewnoliad">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Mewnosod dolen newydd neu olygu priodweddau'r ddolen">
 <!ENTITY anchorToolbarCmd.label "Angor">
 <!ENTITY anchorToolbarCmd.tooltip "Mewnosod angor a enwyd neu olygu priodweddau'r angor">
+<!ENTITY colorButtons.title "Lliwiau">
 <!ENTITY TextColorButton.tooltip "Dewiswch liw i'r testun">
 <!ENTITY BackgroundColorButton.tooltip "Dewiswch liw i'r cefndir">
 <!ENTITY throbber.tooltip "Mynd i dudalen gartref &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ewch i dudalen cartref &brandShortName;">
+<!ENTITY HighlightColorButton.label "Amlygwr">
 <!ENTITY HighlightColorButton.tooltip "Dewis lliw amlygu ar gyfer y testun">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Maint Ffont">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Gosod maint ffont">
+<!ENTITY smaller.label "Llai">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Maint ffont lai">
+<!ENTITY larger.label "Mwy">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Maint ffont mwy">
+<!ENTITY bold.label "Trwm">
 <!ENTITY boldToolbarCmd.tooltip "Trwm">
+<!ENTITY italic.label "Italig">
 <!ENTITY italicToolbarCmd.tooltip "Italig">
+<!ENTITY underline.label "Tanlinellu">
 <!ENTITY underlineToolbarCmd.tooltip "Tanlinellu">
+<!ENTITY bullets.label "Bwledi">
 <!ENTITY bulletListToolbarCmd.tooltip "Gosod neu ddiddymu rhestr bwledi">
+<!ENTITY numbers.label "Rhifau">
 <!ENTITY numberListToolbarCmd.tooltip "Gosod neu ddiddymu rhestr rhifedig">
+<!ENTITY outdent.label "Alloliad">
 <!ENTITY outdentToolbarCmd.tooltip "Alloliad testun (symud i'r chwith)">
+<!ENTITY indent.label "Mewnoliad">
 <!ENTITY indentToolbarCmd.tooltip "Mewnoliad testun (symud i'r dde)">
+<!ENTITY AlignPopupButton.label "Aliniad">
 <!ENTITY AlignPopupButton.tooltip "Dewis aliniad testun">
+<!ENTITY InsertPopupButton.label "Mewnosod">
 <!ENTITY InsertPopupButton.tooltip "Mewnosod Dolen, Angor, Delwedd, Llinell Lorweddol neu Dabl">
+<!ENTITY alignLeftButton.label "Alinio i'r Chwith">
 <!ENTITY alignLeftButton.tooltip "Alinio testun ar hyd yr ymyl chwith">
+<!ENTITY alignCenterButton.label "Alinio i'r Canol">
 <!ENTITY alignCenterButton.tooltip "Alinio testun wedi'i ganoli">
+<!ENTITY alignRightButton.label "Alinio i'r Dde">
 <!ENTITY alignRightButton.tooltip "Alinio testun ar hyd yr ymyl dde">
+<!ENTITY alignJustifyButton.label "Alinio Unioni">
 <!ENTITY alignJustifyButton.tooltip "Alinio testun ar hyd ymylon de a chwith">
 
 <!-- Structure Toolbar Context Menu items -->
