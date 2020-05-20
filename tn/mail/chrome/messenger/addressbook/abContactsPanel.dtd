@@ -4,20 +4,17 @@
 
 <!ENTITY addressbookPicker.label            "Buka ya Diaterese:">
 <!ENTITY addressbookPicker.accesskey        "k">
-<!ENTITY searchInput.label                  "Phuruphutsa go bona:">
-<!ENTITY searchInput.accesskey              "o">
 <!ENTITY SearchNameOrEmail.label            "Leina gongwe Poso ya Eleketoroniki">
 
-<!ENTITY deleteAddrBookCard.label           "Delete">
-<!ENTITY deleteAddrBookCard.accesskey       "D">
-<!ENTITY addrBookCardProperties.label       "Properties">
-<!ENTITY addrBookCardProperties.accesskey   "P">
 <!ENTITY addtoToFieldMenu.label             "Tsenya mo lefelong la Go">
 <!ENTITY addtoToFieldMenu.accesskey         "A">
 <!ENTITY addtoCcFieldMenu.label             "Tsenya mo lefelong la Le">
 <!ENTITY addtoCcFieldMenu.accesskey         "C">
 <!ENTITY addtoBccFieldMenu.label            "Tsenya mo lefelong la Mmogo Le">
 <!ENTITY addtoBccFieldMenu.accesskey        "B">
+
+<!ENTITY deleteAddrBookCard.label           "Delete">
+<!ENTITY deleteAddrBookCard.accesskey       "D">
 
 <!ENTITY toButton.label                     "Tsenya mo Go:">
 <!ENTITY toButton.accesskey                 "A">

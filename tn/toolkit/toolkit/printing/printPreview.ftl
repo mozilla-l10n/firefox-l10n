@@ -39,3 +39,4 @@ printpreview-nextarrow =
 printpreview-endarrow =
     .label = { $arrow }
     .tooltiptext = Tsebe ya bofelo
+

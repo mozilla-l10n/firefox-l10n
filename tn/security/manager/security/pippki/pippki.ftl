@@ -8,6 +8,7 @@ password-quality-meter = Tekanyetso ya boleng jwa khunololamoraba
 
 change-password-window =
     .title = Fetola Khunololamoraba e Kgolo
+
 change-password-old = Khunololamoraba ya ga jaana:
 change-password-new = Khunololamoraba e ntšhwa:
 change-password-reenter = Khunololamoraba e ntšhwa (gape):

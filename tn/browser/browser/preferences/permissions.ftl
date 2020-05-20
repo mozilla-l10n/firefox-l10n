@@ -4,15 +4,19 @@
 
 permissions-close-key =
     .key = w
+
 permissions-status =
     .label = Maemo
+
 permissions-button-cancel =
     .label = Khansela
     .accesskey = K
+
 permissions-capabilities-allow =
     .label = Letlelela
 permissions-capabilities-block =
     .label = Kgoreletsa
+
 permissions-capabilities-listitem-allow =
     .value = Letlelela
 permissions-capabilities-listitem-block =
@@ -44,11 +48,15 @@ permissions-exceptions-popup-desc = O ka totobatsa gore ke di webosaete dife tse
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

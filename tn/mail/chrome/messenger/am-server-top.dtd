@@ -42,7 +42,6 @@
 <!ENTITY deleteOnServer2.accesskey "d">
 <!ENTITY downloadOnBiff.label "Kopolola melaetsa e mentšhwa ka boitiriso">
 <!ENTITY downloadOnBiff.accesskey "t">
-<!ENTITY username.label "Leina la Gago la go Tsena">
 <!ENTITY deleteMessagePrefix.label "Fa ke phimola molaetsa:">
 <!ENTITY modelMoveToTrash.label "O sutisetse kwa setsholadifaeleng sa Matlakala">
 <!ENTITY modelMoveToTrash.accesskey "o">

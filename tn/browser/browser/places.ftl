@@ -11,9 +11,11 @@ places-open-window =
 places-open-private-window =
     .label = Bula mo Window ya Poraefete e Ntšhwa
     .accesskey = P
+
 places-new-bookmark =
     .label = Letshwaotsebe le Lentšhwa…
     .accesskey = L
+
 places-view =
     .label = Leba
     .accesskey = a
@@ -32,6 +34,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Ka Letlha le Setsha
     .accesskey = t
+
 places-properties =
     .label = Ditlhagotshedimosetso
     .accesskey = t

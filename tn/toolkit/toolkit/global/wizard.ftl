@@ -5,9 +5,11 @@
 wizard-linux-button-back =
     .label = Morago
     .accesskey = M
+
 wizard-macos-button-next =
     .label = Tswelela pele
     .accesskey = T
 wizard-linux-button-next =
     .label = Latelang
     .accesskey = L
+

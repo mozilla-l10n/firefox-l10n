@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 
 <!ENTITY windowTitle.label "Matwetwe wa akhaonte">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
 <!-- Entities for Account Type page -->
 
 
@@ -17,6 +19,7 @@
 <!ENTITY accountTypeMail.accesskey "l">
 <!ENTITY accountTypeNews.label "Akhaonte ya Setlhopa sa dikgang">
 <!ENTITY accountTypeNews.accesskey "t">
+
 <!-- Entities for Identity page -->
 
 
@@ -35,6 +38,7 @@
 
 <!ENTITY emailLabel.label "Aterese ya Poso ya Eleketroniki:">
 <!ENTITY emailLabel.accesskey "A">
+
 <!-- Entities for Incoming Server page -->
 
 
@@ -64,6 +68,7 @@
 <!ENTITY newsServerNameDesc.label "Kwala leina la dikgatlhong tsa gago tsa dikgang (NNTP) (sekai, &quot;dikgang.sekai.net&quot;).">
 <!ENTITY newsServerLabel.label "Dikgatlong tsa Setlhopha sa Dikgang:">
 <!ENTITY newsServerLabel.accesskey "S">
+
 <!-- Entities for Outgoing Server page -->
 
 
@@ -98,6 +103,7 @@
 -->
 <!ENTITY haveSmtp3.prefix "Dikgatlong tsa gago tsa (SMTP) tse di tswelang ntle, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, is identical to your incoming server, your incoming user name will be used to access it.">
+
 <!-- Entities for Account name page -->
 
 
@@ -106,6 +112,7 @@
 <!ENTITY accnameDesc.label "Kwala leina le o batlang akhaonte e e bidiwa ka lona (sekai, &quot;Akhaonte ya Tiro&quot;, &quot;Akhaonte ya Legae&quot; kgotsa &quot;Akhaonte ya Dikgang&quot;).">
 <!ENTITY accnameLabel.label "Leina la Akhaonte:">
 <!ENTITY accnameLabel.accesskey "A">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

@@ -65,5 +65,6 @@ print-window =
     .title = E gatisa
 print-complete =
     .value = Kgatiso e feditswe.
+
 dialog-cancel-label = Khansela
 dialog-close-label = Tswala

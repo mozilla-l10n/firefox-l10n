@@ -18,8 +18,6 @@
 <!ENTITY accountsSectionHdr.label     "Diakhaonto&quot;&quot;Tsamaisa ikwadiso ya ditsholadifaele">
 <!ENTITY subscribeImapFolders.label   "Manage folder subscriptions">
 <!ENTITY settingsLink.label           "Leba boalo jwa akhaonto eno">
-<!ENTITY newAcctLink.label            "Tlhama akhaonto e ntšhwa">
-<!ENTITY newAcct.label                "Create a new account:">
 
 <!ENTITY advFeaturesSectionHdr.label  "Diponagalo tse di Tsweletseng">
 <!ENTITY searchMsgsLink.label         "Phuruphutsa melaetsa">

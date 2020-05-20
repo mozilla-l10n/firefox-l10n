@@ -51,8 +51,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Current Account">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Bona Melaetsa ya Dikgang e e Latelang e le 500">
-<!ENTITY getNextNMsgCmd.accesskey "n">
 <!ENTITY sendUnsentCmd.label "Romela Melaetsa e e sa Romelwang">
 <!ENTITY sendUnsentCmd.accesskey "e">
 <!ENTITY subscribeCmd.label "Kwadisa...">
@@ -314,7 +312,6 @@
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goChatCmd.label "Chat">
 <!ENTITY goChatCmd.accesskey "c">
-<!ENTITY goChatCmd.key "I">
 <!ENTITY prevStarredMsgCmd.label "Starred Message">
 <!ENTITY prevStarredMsgCmd.accesskey "S">
 <!ENTITY folderMenu.label "Folder">
@@ -425,9 +422,6 @@
 <!ENTITY openMessageWindowCmd.label "Bula Molaetsa">
 <!ENTITY openMessageWindowCmd.accesskey "B">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Open in Conversation">
-<!ENTITY openConversationCmd.accesskey "s">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Attachments">
 <!ENTITY openAttachmentListCmd.accesskey "h">
 <!ENTITY openFeedMessage1.label "When Opening Feed Messages">
@@ -479,9 +473,6 @@
 <!ENTITY deleteJunk.accesskey "i">
 <!ENTITY importCmd.label "Tlisateng...">
 <!ENTITY importCmd.accesskey "T">
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "E">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Clear Recent History…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Account Settings">
@@ -489,9 +480,11 @@
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
         which is placed under the Edit menu on Unix systems -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
-<!ENTITY allowRemoteDebugging.accesskey "g">
 <!-- Mail Toolbar -->
+
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
 
 <!ENTITY getMsgButton1.label "Get Messages">
 <!ENTITY newMsgButton.label "Kwala">
@@ -758,7 +751,6 @@
    customizations for the thread pane columns in this folder to their default.
   -->
 
-<!ENTITY columnPicker.resetToInbox.label "Reset columns to default">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
    This option in the thread pane column picker pops up a sub-menu containing
    the "columnPicker.applyToFolder.label" and
@@ -809,6 +801,7 @@
 <!ENTITY contextMute.accesskey "M">
 <!ENTITY contextUnmute.label "Unmute">
 <!ENTITY contextUnmute.accesskey "m">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -816,16 +809,6 @@
      -->
 
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (search.label.base):
-     This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate search.keyLabel.* value for the
-     platform.
-     The goal is to convey to the user that typing in the box will allow them
-     to search for messages globally and that there is a hotkey they can press
-     to get to the box faster.  If the global indexer is disabled, the search
-     box will be collapsed and the user will never see this message.
-     -->
-<!ENTITY search.label.base "Search… #1">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
@@ -911,3 +894,4 @@
 <!-- Mac OS X Dock Icon pop-up menu -->
 
 <!ENTITY dockOptions.label              "App Icon Options…">
+

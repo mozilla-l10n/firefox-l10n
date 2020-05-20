@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-addressing.xul -->
 
+
+<!-- extracted from am-addressing.xhtml -->
 
 <!ENTITY addressing.label          "Tlhamo &amp; go kwala Aterese">
 <!ENTITY addressingGroupTitle.label "Go kwala aterese">
@@ -16,8 +19,11 @@
 <!ENTITY directories.label         "Dirisa dikgatlhong tse di farologaneng tsa LDAP:">
 <!ENTITY directories.accesskey     "D">
 <!ENTITY directoriesNone.label     "None">
+
 <!-- am-addressing.xul -->
 
+
+<!-- am-addressing.xhtml -->
 
 <!ENTITY compositionGroupTitle.label          "Tlhamo">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
@@ -25,9 +31,6 @@
 <!ENTITY useHtml.accesskey                    "T">
 <!ENTITY autoQuote.label                      "Nopola molaetsa wa tshimologo ka boitiriso fa go arabiwa">
 <!ENTITY autoQuote.accesskey                  "N">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Mme morago,">
-<!ENTITY then.accesskey                       "M">
 <!ENTITY aboveQuote.label                     "simolola karabo ya me fa godimo ga nopolo">
 <!ENTITY belowQuote.label                     "simolola karabo ya me fa tlase ga nopolo">
 <!ENTITY selectAndQuote.label                 "tlhopha nopolo">

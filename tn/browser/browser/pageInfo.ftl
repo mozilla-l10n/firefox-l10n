@@ -5,9 +5,11 @@
 menu-copy =
     .label = Kopolola
     .accesskey = K
+
 menu-select-all =
     .label = Tlhopha Gotlhe
     .accesskey = G
+
 general-type =
     .value = Mofuta:
 general-mode =
@@ -20,6 +22,7 @@ general-modified =
     .value = Fetotswe:
 general-meta-content =
     .label = Diteng
+
 media-location =
     .value = Lefelo:
 media-alt-header =
@@ -30,12 +33,15 @@ media-long-desc =
     .value = Tlhaloso e Telele:
 media-preview =
     .value = Tebopele ya Mmedia:
+
 security-view-unknown = Ga e itsiwe
     .value = Ga e itsiwe
 security-view-identity-verifier =
     .value = E netefaditswe ke:
+
 security-view-technical =
     .value = Ditshetlana tsa Botegeniki
+
 help-button =
     .label = Thusa
 
@@ -60,6 +66,7 @@ media-input = Tsenyeletso
 media-video = Video
 saved-passwords-yes = Ee
 saved-passwords-no = Nnyaa
+
 no-page-title =
     .value = Tsebe e e senang Leina:
 general-quirks-mode =
@@ -69,3 +76,4 @@ general-strict-mode =
 media-unknown-not-cached =
     .value = Ga e itsiwe (ga e a khetšhiwa)
 security-no-visits = Nnyaa
+

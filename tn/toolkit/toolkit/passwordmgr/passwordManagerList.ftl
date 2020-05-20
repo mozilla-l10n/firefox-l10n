@@ -14,4 +14,5 @@ import =
 close-button =
     .label = Tswala
     .accesskey = T
+
 no-master-password-prompt = A o totobetse gore o batla go bontsha dikhunololamoraba tsa gago?

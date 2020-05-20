@@ -4,7 +4,6 @@
 
 <!ENTITY itemGeneral.label       "Ka kakaretso">
 <!ENTITY dataChoicesTab.label    "Data Choices">
-<!ENTITY itemDisplay.label       "Reading &amp; Display">
 <!ENTITY itemUpdate.label        "Ntšhwafatsa">
 <!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificates">
@@ -53,41 +52,12 @@
 <!ENTITY crashReporterLearnMore.label    "Learn More">
 <!-- Display and Reading Settings -->
 
-<!ENTITY reading.caption               "Reading">
-<!ENTITY display.caption               "Display">
-<!ENTITY showCondensedAddresses.label  "Bontsha fela leina la pontsho la batho ba ba mo bukeng ya me ya diaterese">
-<!ENTITY showCondensedAddresses.accesskey "t">
-
-<!ENTITY autoMarkAsRead.label          "Automatically mark messages as read">
-<!ENTITY autoMarkAsRead.accesskey      "A">
-<!ENTITY markAsReadNoDelay.label       "Immediately on display">
-<!ENTITY markAsReadNoDelay.accesskey   "o">
-<!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
-     "After displaying for [___] seconds",
-     using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-<!ENTITY markAsReadDelay.label         "After displaying for">
-<!ENTITY markAsReadDelay.accesskey     "d">
-<!ENTITY secondsLabel.label            "seconds">
-<!ENTITY openMsgIn.label               "Open messages in:">
-<!ENTITY openMsgInNewTab.label         "A new tab">
-<!ENTITY openMsgInNewTab.accesskey     "t">
-<!ENTITY reuseExpRadio0.label          "Fensetere ya molaetsa o montšhwa">
-<!ENTITY reuseExpRadio0.accesskey      "e">
-<!ENTITY reuseExpRadio1.label          "Fensetere ya molaetsa o o ntseng o le gona">
-<!ENTITY reuseExpRadio1.accesskey      "t">
-<!ENTITY closeMsgOnMoveOrDelete.label  "Close message window/tab on move or delete">
-<!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!-- Update -->
 
-<!ENTITY updateApp.label                 "&brandShortName; updates:">
 <!ENTITY updateAuto.label                "Automatically install updates (recommended: improved security)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Check for updates, but let me choose whether to install them">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Warn me if this will disable any of my add-ons">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "Show Update History">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -130,7 +100,6 @@
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
 
-<!ENTITY viewCertificates.label         "View Certificates">
-<!ENTITY viewCertificates.accesskey     "C">
 <!ENTITY viewSecurityDevices.label      "Security Devices">
 <!ENTITY viewSecurityDevices.accesskey  "D">
+

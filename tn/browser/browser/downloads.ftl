@@ -19,20 +19,24 @@ downloads-cmd-pause =
 downloads-cmd-resume =
     .label = Simolola gape
     .accesskey = S
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Bula e e Nang Setsholadifaele
     .accesskey = S
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Bontsha mo Sebatling
     .accesskey = S
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Bontsha mo Sebatling
            *[other] Bula e e Nang Setsholadifaele
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -45,6 +49,7 @@ downloads-cmd-show-description =
             [macos] Bontsha mo Sebatling
            *[other] Bula e e Nang Setsholadifaele
         }
+
 downloads-cmd-retry =
     .tooltiptext = Leka
 downloads-cmd-retry-panel =
@@ -61,16 +66,20 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Phimola Dikopololo
     .accesskey = D
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Botsha Dikopololo Tsotlhe
     .accesskey = B
+
 downloads-clear-downloads-button =
     .label = Phimola Dikopololo
     .tooltiptext = Diphimolo di digetse, dikopololo tse di khansetsweng le tse di reteletsweng
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Ga gona dikopololo dipe.
+

@@ -3,27 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Ntšhwafatsa Hisetori
+
 close-button-label =
     .buttonlabelcancel = Tswala
     .title = Ntšhwafatsa Hisetori
+
 no-updates-label = Ga gona dintšhwafatso tse di setseng di tlhomilweng
 name-header = Ntšhwafatsa Leina
 date-header = Tlhoma Letlha
 type-header = Tlanya
 state-header = Tlhalosa
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Dintlha
 update-installed-on = Tlhomilwe mo: { $date }
 update-status = Maemo: { $status }

@@ -10,8 +10,6 @@
 <!ENTITY usingSubscription.accesskey "n">
 <!ENTITY dualUseFolders.label "Dikgatlhong di tshegetsa ditsholadifaele tse di nang le ditsholadifaelepotlana le melaetsa">
 <!ENTITY dualUseFolders.accesskey "d">
-<!ENTITY useIdle.label "Dirisa taelo ya IDLE fa dikgatlhong di e tshegetsa">
-<!ENTITY useIdle.accesskey "I">
 <!ENTITY maximumConnectionsNumber.label "Palogodimo ya dikgolagano tsa dikgatlhong mo khetšheng">
 <!ENTITY maximumConnectionsNumber.accesskey "P">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
@@ -24,9 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "B">
 <!ENTITY overrideNamespaces.label "Letla dikgatlhong go kgoreletsa dibaka tseno tsa maina">
 <!ENTITY overrideNamespaces.accesskey "L">
-<!ENTITY pop3Desc.label "Fa go kopololwa poso ya pop go tswa mo dikgatlhong tseno, dirisetsa setsholadifaele se se latelang poso e ntšhwa:" >
-<!ENTITY accountDirectory.label "Bokosotsenang ya akhaonte ya dikgatlhong tseno">
-<!ENTITY accountDirectory.accesskey "e">
 <!ENTITY deferToServer.label "Bokosotsenang ya akhaonte e e farologaneng">
 <!ENTITY deferToServer.accesskey "f">
 <!ENTITY deferGetNewMail.label "Akaretsa dikgatlhong tseno fa go amogelwa poso e ntšhwa">

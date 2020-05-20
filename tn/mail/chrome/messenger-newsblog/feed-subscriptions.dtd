@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Feed URL:">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
@@ -29,8 +28,6 @@
 
 <!ENTITY button.addFeed.label        "Tsenya">
 <!ENTITY button.addFeed.accesskey    "T">
-<!ENTITY button.editFeed.label       "Tseleganya">
-<!ENTITY button.editFeed.accesskey   "T">
 <!ENTITY button.removeFeed.label     "Tlosa">
 <!ENTITY button.removeFeed.accesskey "T">
 <!ENTITY button.importOPML.label     "Tlisateng">

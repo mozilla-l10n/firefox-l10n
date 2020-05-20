@@ -37,44 +37,5 @@
 <!ENTITY abSearchDialogTitle.label   "Go Fenena go go Tsweletseng ga Buka ya Diaterese">
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Tlhale">
-<!ENTITY fromColumn.label "From">
-<!ENTITY recipientColumn.label "Moamogedi">
-<!ENTITY correspondentColumn.label "Correspondents">
-<!ENTITY subjectColumn.label "Temakgang">
-<!ENTITY dateColumn.label "Letlha">
-<!ENTITY priorityColumn.label "Setlapele">
-<!ENTITY tagsColumn.label "Tags">
-<!ENTITY accountColumn.label "Akhaonto">
-<!ENTITY statusColumn.label "Maemo">
-<!ENTITY sizeColumn.label "Bogolo">
-<!ENTITY junkStatusColumn.label "Maemo a Botlakala">
-<!ENTITY unreadColumn.label "Sa Buisiwang">
-<!ENTITY totalColumn.label "Palogotlhe">
-<!ENTITY readColumn.label "Buisitsweng">
-<!ENTITY receivedColumn.label "Received">
-<!ENTITY starredColumn.label "Starred">
-<!ENTITY locationColumn.label "Lefelo">
-<!ENTITY idColumn.label "Tatelano e go Amogetsweng ka yona">
 <!-- Thread Pane Tooltips -->
 
-<!ENTITY columnChooser2.tooltip "Select columns to display">
-<!ENTITY threadColumn2.tooltip "Display message threads">
-<!ENTITY fromColumn2.tooltip "Sort by from">
-<!ENTITY recipientColumn2.tooltip "Sort by recipient">
-<!ENTITY correspondentColumn2.tooltip "Sort by correspondents">
-<!ENTITY subjectColumn2.tooltip "Sort by subject">
-<!ENTITY dateColumn2.tooltip "Sort by date">
-<!ENTITY priorityColumn2.tooltip "Sort by priority">
-<!ENTITY tagsColumn2.tooltip "Sort by tags">
-<!ENTITY accountColumn2.tooltip "Sort by account">
-<!ENTITY statusColumn2.tooltip "Sort by status">
-<!ENTITY sizeColumn2.tooltip "Sort by size">
-<!ENTITY junkStatusColumn2.tooltip "Sort by junk status">
-<!ENTITY unreadColumn2.tooltip "Number of unread messages in thread">
-<!ENTITY totalColumn2.tooltip "Total number of messages in thread">
-<!ENTITY readColumn2.tooltip "Sort by read">
-<!ENTITY receivedColumn2.tooltip "Sort by date received">
-<!ENTITY starredColumn2.tooltip "Sort by star">
-<!ENTITY locationColumn2.tooltip "Sort by location">
-<!ENTITY idColumn2.tooltip "Sort by order received">

@@ -1,8 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
+
+<!-- extracted from am-main.xhtml -->
 
 <!ENTITY accountTitle.label "Boalo jwa Diakhaonto">
 <!ENTITY accountName.label "Leina la Akhaonto:">
@@ -40,3 +43,4 @@
 <!ENTITY smtpName.label "Dikgatlho tsa Matswelantle (SMTP):">
 <!ENTITY smtpName.accesskey "t">
 <!ENTITY smtpDefaultServer.label "Dirisa Dikgatlhong tse di Rulaganyeditsweng Ruri">
+

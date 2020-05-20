@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Matshwaotsebe
+
 sidebar-menu-history =
     .label = Tiragalo tse di fetileng
+

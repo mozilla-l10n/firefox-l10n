@@ -12,6 +12,7 @@
 <!ENTITY alwaysEncryptMessage.label "Tlhokega (go ka seke ga romelwa melaetsa ntle le fa fela baamogedi ba na le disetifikeiti)">
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Dirisa setifikeiti seno go kwala mokwalo wa khoutu &amp; khoutulola melaetsa e o e romeletsweng:">
+
 <!ENTITY digitalSign.certificate.button "Select…">
 <!ENTITY digitalSign.certificate.accesskey "S">
 <!ENTITY digitalSign.certificate_clear.button "Clear">
@@ -26,7 +27,6 @@
 <!ENTITY signingCert.message "Dirisa setifikeiti seno go saena melaetsa e o e romelang ka mokgwa wa dijitale:">
 
 <!ENTITY certificates.label "Certificates">
-<!ENTITY manageCerts.label "View Certificates">
-<!ENTITY manageCerts.accesskey "V">
 <!ENTITY manageDevices.label "Security Devices">
 <!ENTITY manageDevices.accesskey "y">
+

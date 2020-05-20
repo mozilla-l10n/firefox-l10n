@@ -31,33 +31,44 @@ config-column-chooser =
 config-copy-value =
     .label = Kopolola Boleng
     .accesskey = B
+
 config-modify =
     .label = Fetola
     .accesskey = F
+
 config-toggle =
     .label = Refosana
     .accesskey = R
+
 config-reset =
     .label = Bula sešwa
     .accesskey = B
+
 config-string =
     .label = Thapo
     .accesskey = T
+
 config-integer =
     .label = Palotlalo
     .accesskey = P
+
 config-boolean =
     .label = Boolean
     .accesskey = B
+
 config-default = rulaganyetsa ruri
 config-locked = lotletswe
+
 config-property-string = thapo
 config-property-int = palotlalo
 config-property-bool = boolean
+
 config-new-prompt = Tsenya leina la seratwabogolo
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Boleng jo bontšhwa jwa { $type }
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Tsenya boleng jwa { $type }

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 <!-- File menu items -->
 
@@ -27,9 +28,6 @@
 
 <!ENTITY insertMenu.label "Lokela">
 <!ENTITY insertMenu.accesskey "I">
-<!ENTITY insertLinkCmd.label "Segoke...">
-<!ENTITY insertLinkCmd.accesskey "L">
-<!ENTITY insertLinkCmd.key "L">
 <!ENTITY insertAnchorCmd.label "Setlhomi se se teilweng leina...">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Setshwantsho...">
@@ -82,22 +80,16 @@
 <!-- > is above this key on many keyboards -->
 <!ENTITY incrementFontSize.key2 "."> 
 
+<!-- > is above this key on many keyboards -->
+
 <!ENTITY fontSizeMenu.label "Size">
 <!ENTITY fontSizeMenu.accesskey "z">
-<!ENTITY size-xx-smallCmd.label "nnye thata">
-<!ENTITY size-xx-smallCmd.accesskey "a">
-<!ENTITY size-x-smallCmd.label "nnyennye">
-<!ENTITY size-x-smallCmd.accesskey "m">
 <!ENTITY size-smallCmd.label "nnyane">
 <!ENTITY size-smallCmd.accesskey "s">
 <!ENTITY size-mediumCmd.label "magareng">
 <!ENTITY size-mediumCmd.accesskey "d">
 <!ENTITY size-largeCmd.label "kgolo">
 <!ENTITY size-largeCmd.accesskey "l">
-<!ENTITY size-x-largeCmd.label "kgolo thata">
-<!ENTITY size-x-largeCmd.accesskey "x">
-<!ENTITY size-xx-largeCmd.label "kgolwakgolwane">
-<!ENTITY size-xx-largeCmd.accesskey "e">
 <!-- Font Style SubMenu -->
 
 <!ENTITY fontStyleMenu.label "Setaele sa Mafoko">
@@ -310,7 +302,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Lokela setlhomi se sentšhwa se se teilweng leina gongwe o tseleganye ditlhagotshedimosetso tsa setlhomi se se tlhophilweng">
 <!ENTITY TextColorButton.tooltip "Tlhophela mafoko mmala">
 <!ENTITY BackgroundColorButton.tooltip "Tlhophela lemorago mmala">
-<!ENTITY throbber.tooltip "Tsamaya o ye kwa tsebegaeng ya &vendorShortName;">
 <!ENTITY HighlightColorButton.tooltip "Tlhophela mafoko mmala o o sedimosang">
 <!-- Editor toolbar -->
 
