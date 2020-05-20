@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Да би се уштедео простор на диску, не преузимај:">
 <!ENTITY doNotDownloadNntp.label "Да би се уштедео простор на диску, за употребу ван мреже не преузимај:">
 <!ENTITY doNotDownloadImap.label "Да би се уштедео простор на диску, можете ограничити преузимање порука са сервера и чување локалних копија за употребу ван мреже по старости или величини.">
-<!ENTITY allFoldersOffline.label "Чувај поруке овог налога на овај рачунар">
-<!ENTITY allFoldersOffline.accesskey "о">
 <!ENTITY allFoldersOffline2.label "Задржи поруке у свим фасциклама овог налога на овом рачунару.">
 <!ENTITY allFoldersOffline2.accesskey "д">
 <!ENTITY allFoldersOfflineNote.label "Напомена: промена овога утиче на све фасцикле овог налога. Да бисте подесили фасцикле засебно, користите дугме „Напредно…“.">

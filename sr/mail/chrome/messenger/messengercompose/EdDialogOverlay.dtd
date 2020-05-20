@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "р">
 <!ENTITY makeUrlRelative.tooltip "Мења између релативног и апсолутног URL-a. Морате прво сачувати страницу да бисте променили ово.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Унесите место веб странице, локалну датотеку или изаберите именовано сидро или заглавље из искачућег списка:">
-<!ENTITY LinkURLEditField.accessKey "в">
 <!ENTITY LinkURLEditField2.label "Унесите локацију веб странице, локалну датотеку или изаберите именовано сидро или заглавље из контекстуалног менија поља:">
 <!ENTITY LinkURLEditField2.accessKey "в">

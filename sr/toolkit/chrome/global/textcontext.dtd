@@ -29,7 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Попуни пријаву">
 <!ENTITY fillLoginMenu.accesskey      "П">
-<!ENTITY fillGeneratedPassword.label  "Користите безбедно направљену лозинку">
 <!ENTITY fillPasswordMenu.label       "Попуни лозинку">
 <!ENTITY fillPasswordMenu.accesskey   "П">
 <!ENTITY fillUsernameMenu.label       "Попуни корисничко име">

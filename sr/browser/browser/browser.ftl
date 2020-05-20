@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Погледај информације сајта
 
@@ -92,10 +93,12 @@ urlbar-midi-blocked =
     .tooltiptext = Блокирали сте MIDI приступ за овај веб сајт.
 urlbar-install-blocked =
     .tooltiptext = Зауставили сте инсталацију додатка за ову веб локацију.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Уреди ову забелешку ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -109,6 +112,7 @@ page-action-manage-extension =
     .label = Управљај екстензијама…
 page-action-remove-from-urlbar =
     .label = Уклони са адресне траке
+
 page-action-remove-extension =
     .label = Уклони проширење
 
@@ -126,12 +130,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Овај пут потражи користећи:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Промени поставке претраге
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Промени поставке претраге
+
 search-one-offs-context-open-new-tab =
     .label = Претражи у новом језичку
     .accesskey = ј
@@ -147,8 +153,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Прикажи уређивач приликом чувања
     .accesskey = П
+
 bookmark-panel-done-button =
     .label = Готово
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +235,7 @@ popup-all-windows-shared = Сви видљиви прозори на екран�
 
 enable-devtools-popup-description = Да бисте користили пречицу F12, прво отворите DevTools преко Web Developer менија.
 
+
 ## URL Bar
 
 urlbar-default-placeholder =
@@ -239,9 +248,11 @@ urlbar-permissions-granted =
     .tooltiptext = Дали сте овој страници додатне дозволе.
 urlbar-switch-to-tab =
     .value = Премести на језичак:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Екстензија:
+
 urlbar-go-button =
     .tooltiptext = Приказ адресе уписане у траку за адресе
 urlbar-page-action-button =

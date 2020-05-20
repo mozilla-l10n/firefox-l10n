@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Врати затворен језичак
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Претражи језичке
+
 all-tabs-menu-new-user-context =
     .label = Нови контејнер
+
 all-tabs-menu-hidden-tabs =
     .label = Сакривени језичци
+
 all-tabs-menu-manage-user-context =
     .label = Управљај контејнерима
     .accesskey = У

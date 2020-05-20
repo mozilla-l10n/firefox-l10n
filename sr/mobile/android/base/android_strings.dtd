@@ -21,23 +21,15 @@
 <!ENTITY firstrun_data_message "Мање података, више штедње">
 <!ENTITY firstrun_data_subtext2 "Искључите приказивање слика да потрошите мање података на сваком сајту који посећујете.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY updatednewfirstrun_sync_title "Налог">
-<!ENTITY firstrun_sync_message2 "Наставите тамо где сте стали.">
 <!ENTITY firstrun_sync_subtext2 "Искористите Sync да нађете забелешке, лозинке и друге ствари које сте сачували у &brandShortName;-у на свим вашим уређајима.">
 <!ENTITY newfirstrun_sync_subtext "Синхронизујте ствари које сачувате на мобилном уређају са Firefox-ом за стоне рачунаре, приватно и безбедно.">
 <!ENTITY firstrun_sendtab_title "Пошаљи језичак">
 <!ENTITY firstrun_sendtab_message "Делите картице са телефона на рачунар, у трену.">
-<!ENTITY updatednewfirstrun_sync_subtext "Пријавите се у ваш налог да бисте искористили све предности &brandShortName;-а">
 <!ENTITY firstrun_signin_message "Повежите се, започните">
-<!ENTITY firstrun_signin_button "Пријави се на Sync">
-<!ENTITY newfirstrun_signin_button "Укључите Sync">
-<!ENTITY updatednewfirstrun_signin_button "Пријавите се у &brandShortName;">
 <!ENTITY  onboard_start_button_browser "Започните прегледање">
 <!ENTITY firstrun_button_notnow "Не сада">
 <!ENTITY firstrun_button_next "Следеће">
 <!ENTITY firstrun_signup_button "Регистрација">
-
-<!ENTITY firstrun_signin_button2 "Пријава">
 
 <!ENTITY firstrun_tabqueue_title "Везе">
 
@@ -479,14 +471,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; сервис за локацију ради">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Аутоматске надоградње">
-<!ENTITY pref_update_autodownload_wifi "Само преко Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Никад">
-<!ENTITY pref_update_autodownload_always "Увек">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Помоћ">
 
@@ -755,25 +739,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Забелешке и историја">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Доступно ажурирање за &brandShortName;">
-<!ENTITY updater_start_select2 "Притисните да преузмете">
-
-<!ENTITY updater_downloading_title2 "Преузимам &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Преузимање неуспешно">
-<!ENTITY updater_downloading_select2 "Притисните да примените надоградњу кад се преузимање заврши">
-<!ENTITY updater_downloading_retry2 "Притисните да поново покушате">
-
-<!ENTITY updater_apply_title3 "Ажурирање за &brandShortName; је преузето">
-<!ENTITY updater_apply_select3 "Притисните да инсталирате">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Да преузмете надоградње, дозволите приступ складишту">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Дозволи">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Нова сесија за госте">
 <!ENTITY exit_guest_session "Изађи из сесије за госте">
@@ -893,8 +858,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "Пријави се.">
 
-<!ENTITY activity_stream_signin_button "Пријава">
-
 <!ENTITY activity_stream_topsites "Омиљени сајтови">
 <!-- LOCALIZATION NOTE (activity_stream_topstories): &brandPocket is the brand of the company, Pocket, that is being used to provide suggestions for articles. -->
 <!ENTITY activity_stream_topstories "Препоручено од стране &brandPocket;-а">
@@ -952,7 +915,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Звук и видео">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; савети и трикови">
-<!ENTITY updater_notification_channel "Ажурирања апликација">
 <!ENTITY synced_tabs_notification_channel "Синхронизовани јежичци">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

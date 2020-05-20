@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Нови сепаратор">
 <!ENTITY cmd.new_separator.accesskey       "С">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Обнови забелешку">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "О">
-
-<!ENTITY cmd.moveBookmarks.label                  "Премести…">
-<!ENTITY cmd.moveBookmarks.accesskey              "м">
-
 <!ENTITY col.name.label          "Назив">
 <!ENTITY col.tags.label          "Ознаке">
 <!ENTITY col.url.label           "Адреса">
 <!ENTITY col.mostrecentvisit.label "Најновија посета">
 <!ENTITY col.visitcount.label    "Број посета">
-<!ENTITY col.description.label   "Опис">
 <!ENTITY col.dateadded.label     "Додато">
 <!ENTITY col.lastmodified.label  "Последња измена">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Напред">
 
-<!ENTITY detailsPane.more.label "Још">
-<!ENTITY detailsPane.more.accesskey "Ј">
-<!ENTITY detailsPane.less.label "Мање">
-<!ENTITY detailsPane.less.accesskey "М">
 <!ENTITY detailsPane.selectAnItemText.description "Изаберите ставку за преглед и уредите њена својства">
 
 <!ENTITY view.label               "Преглед">

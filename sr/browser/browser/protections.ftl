@@ -10,6 +10,7 @@ graph-week-summary =
         [few] { -brand-short-name } је блокирао { $count } софтвера за праћење током протекле недеље
        *[other] { -brand-short-name } је блокирао { $count } софтвера за праћење током протекле недеље
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -20,20 +21,28 @@ graph-total-tracker-summary =
         [few] <b>{ $count }</b> софтвера за праћење блокирано од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> софтвера за праћење блокирано од { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 protection-report-page-title = Заштите приватности
 protection-report-content-title = Заштите приватности
+
 etp-card-title = Побољшана заштита од праћења
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Данас
+
 social-tab-title = Пратиоци с друштвених мрежа
+
 tracker-tab-title = Садржај који прати
+  
 lockwise-title = Немојте поново заборавити лозинку
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } безбедно чува ваше лозинке у вашем прегледачу.
 lockwise-header-content-logged-in = Безбедно чувајте и синхронизујте ваше лозинке на свим вашим уређајима.
+
 turn-on-sync = Укључите { -sync-brand-short-name }…
     .title = Отворите подешавања синхронизовања
+
 auto-scan = Аутоматски скенирано данас
 
 ## The title attribute is used to display the type of protection.

@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Прихватам ризик!
 config-about-warning-checkbox =
     .label = Прикажи ово упозорење и следећи пут
+
 config-search-prefs =
     .value = Тражи:
     .accesskey = р
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Копирај
     .accesskey = К
+
 config-copy-name =
     .label = Копирај име
     .accesskey = и
+
 config-copy-value =
     .label = Копирај вредност
     .accesskey = в
+
 config-modify =
     .label = Измени
     .accesskey = м
+
 config-toggle =
     .label = Промени
     .accesskey = б
+
 config-reset =
     .label = Врати
     .accesskey = т
+
 config-new =
     .label = Нови
     .accesskey = Н
+
 config-string =
     .label = Стринг
     .accesskey = С
+
 config-integer =
     .label = Цео број
     .accesskey = Ц
+
 config-boolean =
     .label = Булово (boolean)
     .accesskey = л
+
 config-default = изворно
 config-modified = измењено
 config-locked = закључано
+
 config-property-string = стринг
 config-property-int = цео број
 config-property-bool = boolean
+
 config-new-prompt = Унесите име поставке
+
 config-nan-title = Неисправна вредност
 config-nan-text = Текст који сте унели није број.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Нова вредност ({ $type })
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Унос вредности ({ $type })

@@ -51,6 +51,7 @@ import =
 close-button =
     .label = Затвори
     .accesskey = З
+
 show-passwords =
     .label = Прикажи лозинке
     .accesskey = П
@@ -73,10 +74,12 @@ no-master-password-prompt = Јесте ли сигурни да желите д�
 
 # This message can be seen by trying to show or copy the passwords.
 password-os-auth-dialog-message = Потврдите свој идентитет да бисте открили сачуване лозинке.
+
 # This message can be seen by trying to show or copy the passwords.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
 # notes are only valid for English. Please test in your locale.
 password-os-auth-dialog-message-macosx = откриј сачуване лозинке
+
 # Don't change this label.
 password-os-auth-dialog-caption = { -brand-full-name }
