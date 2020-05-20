@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } ünvanına qoşularkən xəta baş verdi. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Xəta kodu: { $error }
+
 psmerr-ssl-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydası söndürülüb.
 psmerr-ssl2-disabled = Təhlükəsiz olaraq bağlanıla bilmir, çünki SSL əlaqə qaydasının köhnə və etibarsız versiyası istifadə olunur.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Etibarsız bir sertifikat aldınız. Lütfən server idarəçisiylə əlaqə yaradın və ya qarşı tərəfə e-poçt ilə məlumat verin:
     
     Sertifikatınız, sertifikat orqanının verdiyi başqa bir sertifikat ilə eyni seriya nömrəsinə sahibdir. Lütfən təkrarsız bir seriya nömrəsi olan Sertifikat alın.
+
 ssl-error-export-only-server = Təhlükəsiz əlaqə qurula bilmədi. Qarşı tərəf yüksək səviyyəli şifrələməni dəstəkləmir.
 ssl-error-us-only-server = Təhlükəsiz əlaqə qurula bilmir. Qarşı tərəf dəstəklənməyən yüksək-səviyyə şifrələmə tələb edir.
 ssl-error-no-cypher-overlap = Qarşı tərəflə təhlükəsiz bağlantı qurulmadı: ortaq bir şifrələmə yolu yoxdur.

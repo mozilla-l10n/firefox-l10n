@@ -7,7 +7,9 @@ about-config-warning-title = Burda əjdahalar yaşayırlar!
 about-config-warning-text = Bu təkmilləşmiş dəyərləri dəyişdirmək bu tətbiqin sabitliyinə, təhlükəsizliyinə və performansına zərər verə bilər. Sadəcə nə etdiyinizə əminsinizsə davam etməlisiniz.
 about-config-warning-checkbox = Bu xəbərdarlığı mənə təkrar göstər!
 about-config-warning-button = Riski qəbul edirəm
+
 about-config2-title = Təkmilləşmiş Konfiqurasiyalar
+
 about-config-search-input =
     .placeholder = Axtar
 
@@ -18,13 +20,16 @@ about-config-intro-warning-button = Riski qəbul et və davam et
 ##
 
 about-config-page-title = Təkmilləşmiş Nizamlamalar
+
 about-config-show-all = Hamısını göstər
+
 about-config-pref-add = Əlavə et
 about-config-pref-toggle = Aç/Qapa
 about-config-pref-edit = Düzəlt
 about-config-pref-save = Saxla
 about-config-pref-reset = Sıfırla
 about-config-pref-delete = Sil
+
 about-config-pref-add-button =
     .title = Əlavə et
 about-config-pref-toggle-button =

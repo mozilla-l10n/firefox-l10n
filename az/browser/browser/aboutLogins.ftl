@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Google Play-dən əldə edin
 login-app-promo-apple =
     .alt = App Store-dan endirin
+
 login-filter =
     .placeholder = Hesablarda axtar
+
 create-login-button = Yeni hesab yarat
+
 fxaccounts-sign-in-text = Parollarınız bütün cihazlarınızda sizinlə olsunlar
 fxaccounts-sign-in-button = { -sync-brand-short-name } daxil ol
 fxaccounts-avatar-button =
@@ -98,16 +101,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Saxlanılmış hesabı düzəltmək üçün kimliyinizi təsdiqləyin.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = saxlanılmış hesabı düzəlt
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Saxlanılmış parolu görmək üçün kimliyinizi təsdiqləyin.
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = saxlanılmış parolu göstər
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Saxlanılmış parolu köçürmək üçün kimliyinizi təsdiqləyin.
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = saxlanılmış parolu köçür
@@ -127,17 +135,17 @@ master-password-reload-button =
 confirmation-dialog-cancel-button = Ləğv et
 confirmation-dialog-dismiss-button =
     .title = Ləğv et
+
 about-logins-confirm-remove-dialog-title = Bu hesab silinsin?
 confirm-delete-dialog-message = Bu əməliyyat geri qaytrıla bilməz.
 about-logins-confirm-remove-dialog-confirm-button = Sil
+
 confirm-discard-changes-dialog-title = Saxlanılmamış dəyişikliklər ləğv edilsin?
 confirm-discard-changes-dialog-message = Bütün saxlanılmamış dəyişikliklər itiriləcək.
 confirm-discard-changes-dialog-confirm-button = Ləğv et
 
 ## Breach Alert notification
 
-breach-alert-dismiss =
-    .title = Bu xəbərdarlığı qapat
 about-logins-breach-alert-learn-more-link = Ətraflı öyrən
 
 ## Vulnerable Password notification

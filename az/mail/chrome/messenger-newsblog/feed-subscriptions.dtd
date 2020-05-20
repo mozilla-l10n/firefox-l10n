@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Axın ünvanı:">
 <!ENTITY feedLocation.accesskey      "n">
-<!ENTITY feedLocation.placeholder    "Əlavə etmək üçün düzgün axın ünvanı daxil edin">
 <!ENTITY locationValidate.label      "Təsdiqlə">
 <!ENTITY validateText.label          "Təsdiqləməni yoxla və düzgün ünvan al">
 

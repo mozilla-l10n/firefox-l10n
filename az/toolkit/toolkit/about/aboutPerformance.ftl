@@ -54,6 +54,7 @@ close-tab =
     .title = Vərəqi qapat
 show-addon =
     .title = Əlavələr İdarəçisində göstər
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

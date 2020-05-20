@@ -9,11 +9,15 @@ connection-window =
             [macos] width: 44em
            *[other] width: 49em
         }
+
 connection-close-key =
     .key = w
+
 connection-disable-extension =
     .label = Uzantını söndür
+
 connection-proxy-configure = İnternetə Proxy Girişini nizamla
+
 connection-proxy-option-no =
     .label = Proksisiz
     .accesskey = s
@@ -26,6 +30,7 @@ connection-proxy-option-auto =
 connection-proxy-option-manual =
     .label = Əl ilə proksi tənzimləmə
     .accesskey = m
+
 connection-proxy-http = HTTP Proksi
     .accesskey = k
 connection-proxy-http-port = Port
@@ -33,18 +38,23 @@ connection-proxy-http-port = Port
 connection-proxy-http-share =
     .label = Bütün əlaqə protokolları üçün bu proxy-serverdən istifadə et
     .accesskey = t
+
 connection-proxy-ssl = SSL Proksi
     .accesskey = L
+
 connection-proxy-ssl-port = Port
     .accesskey = o
+
 connection-proxy-ftp = FTP Proksi
     .accesskey = F
 connection-proxy-ftp-port = Port
     .accesskey = r
+
 connection-proxy-socks = SOCKS Serveri
     .accesskey = C
 connection-proxy-socks-port = Port
     .accesskey = t
+
 connection-proxy-socks4 =
     .label = SOCKS v4
     .accesskey = K
@@ -53,25 +63,33 @@ connection-proxy-socks5 =
     .accesskey = S
 connection-proxy-noproxy = Proksi işlədilməsin:
     .accesskey = n
+
 connection-proxy-noproxy-desc = Məsələn: .mozilla.org, .net.nz, 192.168.1.0/24
+
 connection-proxy-autotype =
     .label = Avtomatik proksi tənzimləmə URL-i
     .accesskey = A
+
 connection-proxy-reload =
     .label = Yenilə
     .accesskey = l
+
 connection-proxy-autologin =
     .label = Parol yadda saxlanıbsa, autentifikasiya istəmə
     .accesskey = i
     .tooltip = Bu seçim sizi etimadnamələri olan proksilərdə səssizcə təsdiqləyir. Əgər təsdiqləmədə xəta olsa sizə xəbər ediləcək.
+
 connection-proxy-socks-remote-dns =
     .label = SOCKS v5 işlədərkən Proksi DNS
     .accesskey = d
+
 connection-dns-over-https =
     .label = HTTPS üzərindən DNS-i aktivləşdir
     .accesskey = H
+
 connection-dns-over-https-url-custom =
     .label = Fərdi
     .accesskey = F
     .tooltiptext = HTTPS üzərindən DNS almaq üçün fərdi ünvanınızı daxil edin
+
 connection-dns-over-https-custom-label = Fərdi

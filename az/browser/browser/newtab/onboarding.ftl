@@ -18,20 +18,24 @@ onboarding-button-label-get-started = Başla
 ## Welcome modal dialog strings
 
 onboarding-welcome-header = { -brand-short-name } səyyahına xoş gəlmisiniz
+
 onboarding-start-browsing-button-label = Səyahətə Başla
+
 onboarding-cards-dismiss =
     .title = Rədd et
     .aria-label = Rədd et
+
+## Welcome full page string
 
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = { -brand-product-name }-u özünüzlə gəzdirin
 onboarding-sync-welcome-content = Əlfəcin, tarixçə, parol və digər tənzimləmələrinizi bütün cihazlarınızda əldə edin.
 onboarding-sync-welcome-learn-more-link = Firefox Hesabları haqqında ətraflı öyrənin
-onboarding-sync-form-invalid-input = Doğru e-poçt tələb olunur
-onboarding-sync-legal-notice = Davam etməklə <a data-l10n-name="terms">İstifadə Şərtləri</a> və <a data-l10n-name="privacy">Məxfilik Bildirişi</a> ilə razılaşmış olursuz.
+
 onboarding-sync-form-input =
     .placeholder = E-poçt
+
 onboarding-sync-form-continue-button = Davam et
 onboarding-sync-form-skip-login-button = Bu addımı keç
 
@@ -39,6 +43,7 @@ onboarding-sync-form-skip-login-button = Bu addımı keç
 
 onboarding-sync-form-header = E-poçtunuzu daxil edin
 onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.
@@ -53,19 +58,25 @@ onboarding-sync-form-sub-header = və { -sync-brand-name } ilə davam edin.
 
 onboarding-private-browsing-title = Məxfi Səyahət
 onboarding-private-browsing-text = Özünüz üçün gəzin. Məzmun Əngəlləməli Məxfi Səyahət sizi internetdə izləyənləri əngəlləyir.
+
 onboarding-screenshots-title = Ekran Görüntüləri
 onboarding-screenshots-text = Ekran görüntülərini çəkin, saxlayın və paylaşın - { -brand-short-name } səyyahını tərk etmədən. Gəzərkən səhifələrin bir hissəsini və ya bütününü çəkin. Daha sonra da rahat görmək və paylaşmaq üçün internetdə saxlayın.
+
 onboarding-addons-title = Əlavələr
 onboarding-addons-text = { -brand-short-name } səyyahınızı daha məhsuldar etmək üçün əlavə özəlliklər əlavə edin. Qiymətləri qarşılaşdırın, hava məlumatını yoxlayın və ya fərdi məzmunlarla zövqünüzə görə bəzəyin.
+
 onboarding-ghostery-title = Ghostery
 onboarding-ghostery-text = Ghostery kimi bezdirən reklamları əngəlləyən əlavələrlə daha sürətli, rahat və təhlükəsiz gəzin.
+
 # Note: "Sync" in this case is a generic verb, as in "to synchronize"
 onboarding-fxa-title = Sinxronlaşdır
 onboarding-fxa-text = { -fxaccount-brand-name } üçün qeyd olun və əlfəcinlərinizi, parollarınızı və açıq vərəqlərinizi { -brand-short-name } işlətdiyiniz hər yerdə sinxronlaşdırın.
 
+
 ## Message strings belonging to the Return to AMO flow
 
 return-to-amo-sub-header = Super, { -brand-short-name } quruldu
+
 # <icon></icon> will be replaced with the icon belonging to the extension
 #
 # Variables:

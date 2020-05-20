@@ -13,6 +13,7 @@ enable-common-message = İlkin vəziyyətdə səyyahınız üzərində sizə dah
 enable-learn-more-link = Tərtibatçı Alətləri haqqında ətraflı öyrən
 enable-enable-button = Tərtibatçı Alətlərini Aktivləşdir
 enable-close-button = Bu vərəqi qapat
+
 welcome-title = Firefox Tərtibatçı Alətlərinə Xoş Gəldiniz!
 newsletter-title = Mozilla Tərtibatçı Qəzeti
 newsletter-message = Tərtibatçı xəbərləri, məsləhət və qaynaqlar birbaşa gələn qutunuza göndərilsin.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Mozillanın bu <a data-l10n-name="privacy-policy">Mə
 newsletter-subscribe-button = Abunə ol
 newsletter-thanks-title = Təşəkkürlər!
 newsletter-thanks-message = Əgər daha öncə Mozilla ilə əlaqəli xəbər lentinə abunəlik təsdiqləməmisinizsə bunu etməyiniz tələb edilir. Lütfən daxil olanlar və ya spam qutunuzu e-poçtumuz üçün yoxlayın.
+
 footer-title = Firefox Developer Edition
 footer-message = Tərtibatçı Alətlərindən daha çoxunu istəyirsiniz? Xüsusilə tərtibatçılar və müasir iş axışları üçün yaradılmış Firefox səyyahını yoxlayın.
 footer-learn-more-link = Ətraflı öyrən
+
 features-learn-more = Ətraflı öyrən
 features-inspector-title = İnspektor
 features-inspector-desc = Mükəmməl maketlər hazırlamaq üçün kodunuzu inspektorla yoxlayın və düzəldin. <a data-l10n-name="learn-more">{ features-learn-more }</a>

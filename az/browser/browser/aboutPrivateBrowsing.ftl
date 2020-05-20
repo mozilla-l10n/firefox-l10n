@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Daha ətraflı öyrən: <a data-l10n-name="learn-more">Məxfi Səyahət</a>.
 about-private-browsing-info-visited = baş çəkilən səhifələr
+
 privatebrowsingpage-open-private-window-label = Məxfi Pəncərə Aç
     .accesskey = M
 about-private-browsing-info-notsaved = Məxfi Pəncərədə gəzərkən, { -brand-short-name } <strong>bunları qeyd etmir</strong>:
@@ -26,5 +27,6 @@ about-private-browsing-not-private = Hazırda məxfi pəncərədə deyilsiniz.
 content-blocking-title = Məzmun Əngəlləmə
 content-blocking-description = Bəzi saytlar sizin internetdəki aktivliyinizə nəzarət edəcək izləyicilər işlədirlər. Məxfi pəncərələrdə { -brand-short-name } Məzmun Əngəlləyicisi haqqınızda məlumat yığan əksər izləyiciləri avtomatik əngəlləyir.
 about-private-browsing-info-description = { -brand-short-name } tətbiqdən çıxdığınızda və ya bütün Məxfi Səyahət vərəq və pəncərələrini qapatdığınızda axtarış və səyahət tarixçənizi təmizləyir. Bu sizi saytlar və internet provayderiniz üçün anonim etməsə də, onlayn məlumatlarınızı bu kompüteri işlədən digər şəxslərdən saxlamağınızı asanlaşdırır.
+
 about-private-browsing-search-banner-close-button =
     .aria-label = Qapat

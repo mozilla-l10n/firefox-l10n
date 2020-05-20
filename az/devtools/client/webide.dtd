@@ -66,7 +66,6 @@
 <!ENTITY runtimePanel_usb "USB Cihazlar">
 <!ENTITY runtimePanel_wifi "Wi-Fi Cihazlar">
 <!ENTITY runtimePanel_other "Digər">
-<!ENTITY runtimePanel_noadbhelper "ADB Köməkçisini Qur">
 <!ENTITY runtimePanel_nousbdevice "Cihazlarınızı görə bilmirsiz?">
 <!ENTITY runtimePanel_refreshDevices_label "Cihazları yenilə">
 
@@ -129,3 +128,4 @@
      user to transfer authentication info by transferring a token. -->
 
 <!-- Logs panel -->
+

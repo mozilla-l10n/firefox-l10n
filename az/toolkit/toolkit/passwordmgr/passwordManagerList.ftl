@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Qapat
     .accesskey = Q
+
 show-passwords =
     .label = Parolları Göstər
     .accesskey = P

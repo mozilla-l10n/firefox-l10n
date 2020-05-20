@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Yeni bir təsdiqləmə sertifikatı (CA) təhlükəsizliyi istədiniz.">
 <!ENTITY downloadCert.trustSSL "Saytları təyin etmək üçün bu təsdiqləmə sertifikatına etibar et.">
 <!ENTITY downloadCert.trustEmail "Bu CA E-Poçt istifadəçilərini təyin etmək üçün etibarlıdır.">
-<!ENTITY downloadCert.trustObjSign "Bu CA proqram inkişaf etdiricilərin təyin olunmasında etibarlıdır.">
 <!ENTITY downloadCert.message3 "Hər cür məqsəd üçün bu CA-ya etibar etmədən əvvəl, təsdiqləmə sənədinini təhlükəsizliyini və gedişatına nəzarət etməlisiniz.">
 <!ENTITY downloadCert.viewCert.label "Görünüş">
 <!ENTITY downloadCert.viewCert.text "CA təsdiqləmə sənədini yoxla">
