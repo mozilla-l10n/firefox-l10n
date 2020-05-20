@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Mewnforio o Borwr Arall…
 appmenuitem-protection-report-title = Diogelu Preifatrwydd
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ewch i'ch adroddiad preifatrwydd

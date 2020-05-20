@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Defnyddio Darparwr
     .accesskey = D
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Rhagosodiad)
     .tooltiptext = Defnyddiwch yr URL rhagosodedig ar gyfer datrys DNS dros HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Cyfaddas
     .accesskey = C
     .tooltiptext = Rhowch eich hoff URL er mwyn datrys DNS drod HTTPS
+
 connection-dns-over-https-custom-label = Cyfaddas

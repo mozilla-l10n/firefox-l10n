@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Nid oedd modd gosod y Diweddariad rhannol. Bydd &brandShortName; yn ceisio eto drwy lwytho'r Diweddariad cyfan.">
 
 <!ENTITY  genericBackgroundError.label    "Nid yw &brandShortName; yn gallu penderfynu os oes diweddariad ar gael. Gwnewch yn siŵr fod fersiwn diweddaraf &brandShortName; gennych o:">
-
+                                           
 <!ENTITY  finishedPage.title              "Diweddariad yn Barod i'w Osod">
 <!ENTITY  finishedPage.text               "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. Mae modd ailgychwyn &brandShortName; nawr, neu barhau i weithio ac ailgychwyn yn hwyrach.">
 <!ENTITY  finishedBackground.moreElevated "Mae'r diweddariad angen breintiau gweinyddwr. Bydd y diweddariad yn cael ei osod y tro nesaf y bydd &brandShortName; yn cychwyn. Mae modd ailgychwyn &brandShortName; nawr, parhau i weithio ac ailgychwyn yn hwyrach, neu wrthod y diweddariad.">
 
-<!ENTITY  update.details.label            "Manylion">
-<!ENTITY  update.installedOn.label        "Gosodwyd ar:">
-<!ENTITY  update.status.label             "Statws:">

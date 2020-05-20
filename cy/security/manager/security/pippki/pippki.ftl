@@ -8,6 +8,7 @@ password-quality-meter = Mesurydd ansawdd y cyfrinair
 
 change-password-window =
     .title = Newid Prif Gyfrinair
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dyfais Diogelwch: { $tokenName }

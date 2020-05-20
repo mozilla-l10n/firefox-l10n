@@ -7,6 +7,7 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Tynnwch y maes { $type }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type =
@@ -19,6 +20,7 @@ address-input-type =
         [many] Maes mewnbwn { $type } gyda { $count } cyfeiriad
        *[other] Maes mewnbwn { $type } gyda { $count } cyfeiriad
     }
+
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -31,6 +33,7 @@ address-input-type-aria-label =
         [many] { $type } gyda { $count } cyfeiriad, defnyddiwch fysell y saeth chwith i ganolbwyntio arnyn nhw.
        *[other] { $type } gyda { $count } cyfeiriad, defnyddiwch fysell y saeth chwith i ganolbwyntio arnyn nhw.
     }
+
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -42,15 +45,19 @@ pill-aria-label =
         [many] { $email }, 1 o { $count }: pwyswch Enter i olygu, Delete i ddileu
        *[other] { $email }, 1 o { $count }: pwyswch Enter i olygu, Delete i ddileu
     }
+
 pill-action-edit =
     .label = Golygu Cyfeiriad
     .accesskey = G
+
 pill-action-move-to =
     .label = Symud i
     .accesskey = S
+
 pill-action-move-cc =
     .label = Symud i CC
     .accesskey = C
+
 pill-action-move-bcc =
     .label = Symud i Bcc
     .accesskey = B

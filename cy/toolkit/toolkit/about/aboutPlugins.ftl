@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Ynghylch Ategion
+
 installed-plugins-label = Ategion wedi eu gosod
 no-plugins-are-installed-label = Heb ganfod ategion wedi eu gosod
+
 deprecation-description = Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal. <a data-l10n-name="deprecation-link">Dysgu Rhagor.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Sir/Talaith:</span> Galluogwyd
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Sir/Talaith:</span> Galluogwyd ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Sir/Talaith:</span> Analluogwyd
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Sir/Talaith:</span> Analluogwyd ({ $blockListState })
+
 mime-type-label = Math MIME
 description-label = Disgrifiad
 suffixes-label = Rhagosodiad

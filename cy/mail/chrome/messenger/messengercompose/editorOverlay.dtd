@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Mewnosod angor a enwyd neu olygu priodweddau'r angor">
 <!ENTITY TextColorButton.tooltip "Dewiswch liw i'r testun">
 <!ENTITY BackgroundColorButton.tooltip "Dewiswch liw i'r cefndir">
-<!ENTITY throbber.tooltip "Mynd i dudalen gartref &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ewch i dudalen cartref &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Dewis lliw amlygu ar gyfer y testun">
 

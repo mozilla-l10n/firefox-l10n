@@ -40,12 +40,12 @@
 <!ENTITY  noproxy.label                 "Dim Dirprwy ar gyfer:">
 <!ENTITY  noproxy.accesskey             "m">
 <!ENTITY  noproxyExplain.label          "Esiampl: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
+<!ENTITY  shareproxy.accesskey          "f">
 <!-- LOCALIZATION NOTE (noproxyLocalhostDesc.label): Do not translate
   localhost, 127.0.0.1 and ::1.
 -->
 <!ENTITY  noproxyLocalhostDesc.label    "Nid yw cysylltiadau i localhost, 127.0.0.1, a ::1 byth yn cael eu dirprwyo.">
-<!ENTITY  shareproxy.label              "Defnyddio'r gweinydd dirprwyol ar gyfer pob protocol">
-<!ENTITY  shareproxy.accesskey          "f">
 <!ENTITY  proxyHttpSharing.label        "Defnyddiwch y dirprwy yma hefyd ar gyfer HTTPS">
 <!ENTITY  proxyHttpSharing.accesskey    "x">
 <!ENTITY  autologinproxy.label          "Peidio gofyn am ddilysiad os yw'r cyfrinair wedi ei gadw">

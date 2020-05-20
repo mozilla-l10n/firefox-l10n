@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Ysgrifennu a Chyfeiriadau">
 <!ENTITY addressingGroupTitle.label "Cyfeirio">
 <!ENTITY addressingText.label      "Wrth chwilio am gyfeiriadau:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Ysgrifennu">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Ysgrifennu negeseuon yn fformat HTML">
 <!ENTITY useHtml.accesskey                    "Y">
 <!ENTITY autoQuote.label                      "Dyfynnu'r neges wreiddiol yn awtomatig wrth ateb">
 <!ENTITY autoQuote.accesskey                  "D">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Yna,">
-<!ENTITY then.accesskey                       "Y">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Pan yn dyfynnu">
 <!ENTITY quoting.accesskey                    "d">

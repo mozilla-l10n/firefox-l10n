@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Ymwahanydd Newydd">
 <!ENTITY cmd.new_separator.accesskey       "Y">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Ail lwytho Nod Tudalen Byw">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "A">
-
-<!ENTITY cmd.moveBookmarks.label                  "Symud…">
-<!ENTITY cmd.moveBookmarks.accesskey              "S">
-
 <!ENTITY col.name.label          "Enw">
 <!ENTITY col.tags.label          "Tagiau">
 <!ENTITY col.url.label           "Lleoliad">
 <!ENTITY col.mostrecentvisit.label "Ymweliad Diweddaraf">
 <!ENTITY col.visitcount.label    "Cyfrif Ymweliadau">
-<!ENTITY col.description.label   "Disgrifiad">
 <!ENTITY col.dateadded.label     "Ychwanegwyd">
 <!ENTITY col.lastmodified.label  "Newidwyd Ddiwethaf">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Mynd ymlaen">
 
-<!ENTITY detailsPane.more.label "Mwy">
-<!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Llai">
-<!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.selectAnItemText.description "Dewis eitem i'w gweld a golygu ei phriodweddau">
 
 <!ENTITY view.label               "Golwg">

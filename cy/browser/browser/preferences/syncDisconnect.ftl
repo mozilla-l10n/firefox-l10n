@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Datgysylltu { -sync-brand-short-name }
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Hoffech chi hefyd dynnu data'r porwr o'r cyfrifiadur yma? Bydd eich data { -sync-brand-name } yn parhau ar eich cyfrif, beth bynnag.
+
 sync-disconnect-remove-sync-caption = Tynnu Data { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Nodau tudalen, hanes, cyfrineiriau, ac ati.
+
 sync-disconnect-remove-other-caption = Tynnu Data Preifat Eraill
+
 sync-disconnect-remove-other-data = Cwcis, storfa dros dro, data gwefan all-lein, ac ati.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Wrthi'n datgysylltu...
+
 sync-disconnect-cancel =
     .label = Diddymu
     .accesskey = D
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Datgysylltu a Dileu
     .accesskey = a
+
 sync-disconnect-confirm-disconnect =
     .label = Dim ond Datgysylltu
     .accesskey = D

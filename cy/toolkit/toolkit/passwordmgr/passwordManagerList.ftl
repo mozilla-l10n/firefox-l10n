@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Cau
     .accesskey = C
+
 show-passwords =
     .label = Dangos Cyfrineiriau
     .accesskey = C

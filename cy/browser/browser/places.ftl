@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Agor mewn Ffenestr Breifat Newydd
     .accesskey = F
+
 places-new-bookmark =
     .label = Nod Tudalen Newydd…
     .accesskey = N
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Ymwahanydd Newydd
     .accesskey = Y
+
 places-view =
     .label = Golwg
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Yn ôl Dyddiad a Gwefan
     .accesskey = Y
+
 places-history-search =
     .placeholder = Hanes chwilio
 places-bookmarks-search =
     .placeholder = Chwilio'r nodau tudalen
+
 places-delete-domain-data =
     .label = Anghofio'r Wefan Hon
     .accesskey = W

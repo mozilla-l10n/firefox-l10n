@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Ffontiau
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Ffont ar gyfer
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabaidd
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Cyfrannol
     .accesskey = y
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Maint
     .accesskey = M
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = a
+
 fonts-monospace = Monospace
     .accesskey = o
+
 fonts-monospace-size = Maint
     .accesskey = a
+
 fonts-minsize = Lleiafswm maint ffont
     .accesskey = L
+
 fonts-minsize-none =
     .label = Dim
+
 fonts-allow-own =
     .label = Caniatáu i dudalennau ddewis eu ffont eu hun, yn lle fy newis i uchod
     .accesskey = C
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Amgodiad Nod ar gyfer Hen Gynnwys
 fonts-languages-fallback-desc = Mae'r amgodiad nod hwn yn cael ei defnyddio ar gyfer hen gynnwys nad yw'n datgan ei amgodiad.
+
 fonts-languages-fallback-label = Amgodiad Testun Eilradd
     .accesskey = E
+
 fonts-languages-fallback-name-auto =
     .label = Y Rhagosodedig ar gyfer y Locale Cyfredol
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Fietnameg
 fonts-languages-fallback-name-other =
     .label = Eraill (gan gynnwys Gorllewin Ewrop)
-fonts-very-large-warning-title = Maint ffont lleiafswm mawr
-fonts-very-large-warning-message = Rydych wedi dewis maint ffont lleiafswm mawr (mwy na 24 picsel). Gall hyn ei gwneud yn anodd neu amhosib i ddefnyddio rhai tudalennau ffurfweddiad fel hon.
-fonts-very-large-warning-accept = Cadw fy newidiadau, beth bynnag
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

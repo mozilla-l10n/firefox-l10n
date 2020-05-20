@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "U">
 <!ENTITY makeUrlRelative.tooltip "Newid rhwng URL absoliwt a pherthynol. Rhaid cadw'r dudalen yn gyntaf cyn gwneud hyn.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Rhowch leoliad tudalen gwe, ffeil leol neu ddewiswch Angor a Enwyd neu Bennyn o'r llamlen:">
-<!ENTITY LinkURLEditField.accessKey "R">
 <!ENTITY LinkURLEditField2.label "Rhowch leoliad tudalen gwe, ffeil leol neu ddewis Angor a Enwyd neu Bennawd o feysydd y ddewislen cyd-destun:">
 <!ENTITY LinkURLEditField2.accessKey "w">

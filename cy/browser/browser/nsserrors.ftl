@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Digwyddodd gwall wrth gysylltu â { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Cod gwall: { $error }
+
 psmerr-ssl-disabled = Methu cysylltu'n ddiogel oherwydd bod y protocol SSL wedi ei analluogi.
 psmerr-ssl2-disabled = Methu cysylltu'n ddiogel oherwydd bod y wefan'n defnyddio hen fersiwn anniogel o brotocol SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Rydych wedi derbyn tystysgrif annilys.  Cysylltwch gweinyddwr y gweinydd neu gyfathrebwr e-bost a rhannu'r wybodaeth ganlynol:
     
     Mae eich tystysgrif yn cynnwys yr un rhifau cyfresol a thystysgrif arall wedi ei gyhoeddi gan yr awdurdod tystysgrifau.  Defnyddiwch dystysgrif newydd yn cynnwys rhif cyfresol unigryw.
+
 ssl-error-export-only-server = Methu cyfathrebu'n ddiogel. Nid yw'r cyfoed cyn cynnal amgryptiad lefel uchel.
 ssl-error-us-only-server = Methu cyfathrebu'n ddiogel. Mae'r cyfoed angen amgryptiad lefel uchel nad yw'n cael ei gynnal.
 ssl-error-no-cypher-overlap = Methu cyfathrebu'n ddiogel gyda cyfoed: dim algorithm(au) amgrypriad cyffredin.

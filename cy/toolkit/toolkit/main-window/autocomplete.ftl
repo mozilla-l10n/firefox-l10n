@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Mewnforio eich data o { $browser }</div>
     <div data-l10n-name="line2">ar gyfer { $host } a gwefannau eraill</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Dysgu rhagor

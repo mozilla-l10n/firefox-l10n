@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 profiles-title = Ynghylch Proffiliau
 profiles-subtitle = Mae'r dudalen hon yn eich helpu i reoli eich proffiliau. Mae pob proffil yn fyd ar wahân sy'n cynnwys hanes, nodau tudalen, gosodiadau ac yn ychwanegion gwahanol.
 profiles-create = Creu Proffil Newydd
@@ -13,11 +14,13 @@ profiles-flush-fail-title = Heb gadw'r newidiadau
 profiles-flush-conflict = { profiles-conflict }
 profiles-flush-failed = Mae gwall annisgwyl wedi atal eich newidiadau rhag cael eu cadw.
 profiles-flush-restart-button = Ailgychwyn { -brand-short-name }
+
 # Variables:
 #   $name (String) - Name of the profile
 profiles-name = Proffil: { $name }
 profiles-is-default = Proffil Ragosodedig
 profiles-rootdir = Cyfarwyddiadur Gwraidd
+
 # localDir is used to show the directory corresponding to
 # the main profile directory that exists for the purpose of storing data on the
 # local filesystem, including cache files or other data files that may not
@@ -27,22 +30,28 @@ profiles-rootdir = Cyfarwyddiadur Gwraidd
 profiles-localdir = Cyfarwyddiadur Lleol
 profiles-current-profile = Dyma'r proffil sy'n cael ei ddefnyddio ac nid oes modd ei ddileu.
 profiles-in-use-profile = Mae'r proffil yn cael ei ddefnyddio o fewn rhaglen arall ac nid oes modd ei ddileu.
+
 profiles-rename = Ailenwi
 profiles-remove = Tynnu
 profiles-set-as-default = Gosod fel y proffil ragosodedig
 profiles-launch-profile = Cychwyn proffil yn y porwr newydd
+
 profiles-cannot-set-as-default-title = Methu gosod y rhagosodedig
 profiles-cannot-set-as-default-message = Nid oes modd newid y proffil rhagosodedig am { -brand-short-name }.
+
 profiles-yes = iawn
 profiles-no = na
+
 profiles-rename-profile-title = Newid Enw Proffil
 # Variables:
 #   $name (String) - Name of the profile
 profiles-rename-profile = Ailenwi proffil { $name }
+
 profiles-invalid-profile-name-title = Enw proffil annilys
 # Variables:
 #   $name (String) - Name of the profile
 profiles-invalid-profile-name = Methu caniatáu enw proffil "{ $name }".
+
 profiles-delete-profile-title = Dileu Proffil
 # Variables:
 #   $dir (String) - Path to be displayed
@@ -52,8 +61,11 @@ profiles-delete-profile-confirm =
     Hoffech chi ddileu'r ffeiliau data proffil?
 profiles-delete-files = Dileu Ffeiliau
 profiles-dont-delete-files = Peidio Dileu Ffeiliau
+
 profiles-delete-profile-failed-title = Gwall
 profiles-delete-profile-failed-message = Bu gwall wrth geisio dileu'r proffil hwn.
+
+
 profiles-opendir =
     { PLATFORM() ->
         [macos] Dangos yn Finder

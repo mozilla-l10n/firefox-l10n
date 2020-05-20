@@ -9,24 +9,12 @@ ok = Iawn
 http = HTTP
 sockets = Socedi
 dns = DNS
-dnssuffix = Ôl-ddodiad DNS
 websockets = WebSockets
 refresh = Adnewyddu
 auto-refresh = Adnewyddu pob 3 eiliad
 hostname = Enw Gwesteiwr
 port = Porth
 http2 = HTTP/2
-about-networking-title = Ynghylch Rhwydweithio
-about-networking-http = HTTP
-about-networking-sockets = Socedi
-about-networking-dns = DNS
-about-networking-dns-suffix = Ôl-ddodiad DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = Adnewyddu
-about-networking-auto-refresh = Adnewyddu pob 3 eiliad
-about-networking-hostname = Enw Gwesteiwr
-about-networking-port = Porth
-about-networking-http-version = Fersiwn HTTP
 ssl = SSL
 active = Gweithredol
 idle = Segur
@@ -69,8 +57,18 @@ rcwn-avg-long = Cyfartaledd Hir
 rcwn-std-dev-long = Gwyriad Safonol Hir
 rcwn-cache-slow = Cyfrif araf storfa dros dro
 rcwn-cache-not-slow = Cyfrif nid araf storfa dros dro
-networkid = ID Rhwydwaith
-networkid-id = ID Rhwydwaith
+
+about-networking-title = Ynghylch Rhwydweithio
+about-networking-http = HTTP
+about-networking-sockets = Socedi
+about-networking-dns = DNS
+about-networking-dns-suffix = Ôl-ddodiad DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Adnewyddu
+about-networking-auto-refresh = Adnewyddu pob 3 eiliad
+about-networking-hostname = Enw Gwesteiwr
+about-networking-port = Porth
+about-networking-http-version = Fersiwn HTTP
 about-networking-ssl = SSL
 about-networking-active = Gweithredol
 about-networking-idle = Segur
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID Rhwydwaith
 
 ## Link is intended as "network link"
 
-networkid-isUp = Mae'r cyswllt ar i fyny
-networkid-statusKnown = Mae statws y cyswllt yn hysbys
 about-networking-networkid-is-up = Mae'r cyswllt ar i fyny
 about-networking-networkid-status-known = Mae statws y cyswllt yn hysbys
 
