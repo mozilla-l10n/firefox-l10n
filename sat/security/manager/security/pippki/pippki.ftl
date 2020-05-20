@@ -8,6 +8,7 @@ password-quality-meter = दानाङ साबाद गुन मिटा�
 
 change-password-window =
     .title = मुल दानाङ साबाद बोदोल
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = जा़पती साधोन: { $tokenName }

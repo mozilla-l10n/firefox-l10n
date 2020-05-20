@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = मित् नावा विंडो रे झिज मे .
     .accesskey = N
+
 places-new-bookmark =
     .label = नावा पुथी चिनहा़…
     .accesskey = B
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = नावा भेगार होचो
     .accesskey = S
+
 places-view =
     .label = ञेल मे
     .accesskey = w
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = मा़हित् आर साइट दाराय ते
     .accesskey = t
+
 places-delete-domain-data =
     .label = नोवा साइड बाबोत ते हिंड़िग मे
     .accesskey = F

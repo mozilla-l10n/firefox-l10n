@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the Toolbox strings -->
 <!-- LOCALIZATION NOTE : FILE Do not translate key -->
 
@@ -136,8 +137,6 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 
-<!ENTITY options.stylesheetSourceMaps.label      "मुल सोत को उदुग मे .">
-<!ENTITY options.stylesheetSourceMaps.tooltip    "मुल सोत को ( जेलेका सास रेत् को) हुना़र सासापड़ाविच् आर ञेञेलिच् उदुग मे.e.g. Sass files) in the Style Editor and Inspector">
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
@@ -156,14 +155,11 @@
       of all preferences that affect both the Web Console and the Network
       Monitor -->
 
-<!ENTITY options.commonPrefs.label           "सोमान कुसियाक् को">
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 
-<!ENTITY options.enablePersistentLogs.label    "केटेच् लॉग को हुय होचो">
-<!ENTITY options.enablePersistentLogs.tooltip  "जुदी नोवा आपनार मोने तेयाक् हुय होचोया वेब हुदिस आर नेटवार्क मोनिटार दो मित् नावा साहटा रे जोतो ओकतो आमेम पानते तेयार ओडोक् बाय फारचाया">
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
@@ -171,6 +167,7 @@
 
 <!ENTITY options.showPlatformData.label    "गेको प्लेटफोर्म डाटा उदुक ">
 <!ENTITY options.showPlatformData.tooltip  "जुदी  आम नोवा  आपनार मोने तेयाक् हुय होचोया जावा चिकी प्रोफाइलार रिपोर्ट मेसाया गेको प्लेटफोर्म चिनहा़ को">
+
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 

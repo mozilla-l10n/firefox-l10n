@@ -5,22 +5,30 @@
 text-action-undo =
     .label = रुवा़ड़
     .accesskey = U
+
 text-action-undo-shortcut =
     .key = Z
+
 text-action-redo =
     .label = दोहड़ाकोराव
     .accesskey = R
+
 text-action-cut =
     .label = गेत्
     .accesskey = t
+
 text-action-paste =
     .label = लाठा
     .accesskey = P
+
 text-action-paste-shortcut =
     .key = V
+
 text-action-delete =
     .label = मेटाव
     .accesskey = D
+
 text-action-select-all =
     .label = जोतो बाछाव
     .accesskey = A
+

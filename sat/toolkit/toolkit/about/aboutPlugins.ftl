@@ -3,6 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = खोंजा आदेर  को बाबोत ते
+
 installed-plugins-label = खोंजा आदेर बोहाल एना
 no-plugins-are-installed-label = जाहान बोहाल खोंजा आदेर बाय ञाम लेना .
 
@@ -26,6 +27,7 @@ state-dd-enabled = <span data-l10n-name="state">राज्य:</span> हु�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">राज्य:</span> हुय होचोवाक् ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">राज्य:</span> बाङ हुय होचो
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">राज्य:</span> बाङ हुय होचो ({ $blockListState })
+
 mime-type-label = MIME लेकान
 description-label = विबरोन
 suffixes-label = साबाद तायोम सेलेद आखोर को.

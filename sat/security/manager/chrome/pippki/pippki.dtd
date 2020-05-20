@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "आम नावा पोरमान साकाम एमोगिच्  (CA) चेतान पा़तया़व ला़गित् कुली याकानाम.">
 <!ENTITY downloadCert.trustSSL "नोवा CA वेब साइट को उपरुम ला़गित् पा़तया़वाक् मे.">
 <!ENTITY downloadCert.trustEmail "इमेल बेभार को उपरुम ला़गित् नोवा  CA पा़तया़वाक् मे .">
-<!ENTITY downloadCert.trustObjSign "सोफ्टवेयार लाहा तेयार को उपरुम ला़गित्  नोवा CA पा़तया़वाक् मे .">
 <!ENTITY downloadCert.message3 "जाहान कारोन ला़गित् नोवा CA चेतान पा़तया़व माड़ाङ , आम उनियाक् पोरमान साकाम ञेल बिड़ाव ला़कती आर उनीयाक् निती आर का़मी होरा  (जुदी ञामोक् आ ).">
 <!ENTITY downloadCert.viewCert.label "ञेनेल">
 <!ENTITY downloadCert.viewCert.text " CA पोरमान साकाम ञेल बिड़ाव ">

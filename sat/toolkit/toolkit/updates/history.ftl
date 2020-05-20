@@ -3,27 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = हा़लियाक् हिता़ल
+
 close-button-label =
     .buttonlabelcancel = बोंद मे
     .title = हा़लियाक् हिता़ल
+
 no-updates-label = नित हा़बिज जाहान हा़लियाक् को बो़हाल बाङ.
 name-header = हा़लियाक् ञुतुम
 date-header = मा़हित् बो़हाल
 type-header = लेका
 state-header = दोसा
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = बिवरोन को
 update-installed-on = रे बोहालेना : { $date }
 update-status = दोसार : { $status }

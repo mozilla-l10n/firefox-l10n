@@ -5,22 +5,29 @@
 translation-window =
     .title = बादाक् तेरजोमा
     .style = width: 36em
+
 translation-close-key =
     .key = w
+
 translation-languages-column =
     .label = पा़रसी को
+
 translation-languages-button-remove =
     .label = पा़रसी ओचोक्
     .accesskey = R
+
 translation-languages-button-remove-all =
     .label = जोतो पा़रसी को ओचोग मे .
     .accesskey = e
+
 translation-sites-button-remove =
     .label = साइच ओचोग मे.
     .accesskey = S
+
 translation-sites-button-remove-all =
     .label = जोतो साइट को ओचोग में .
     .accesskey = i
+
 translation-button-close =
     .label = बोंद मे
     .accesskey = C

@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < तायोम सेत्
     .accesskey = B
+
 wizard-macos-button-next =
     .label = लेताड़
     .accesskey = C
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = इना़ तायोम >
     .accesskey = N
+
 wizard-macos-button-finish =
     .label = का़मी येना
 wizard-linux-button-finish =
     .label = चाबा
 wizard-win-button-finish =
     .label = चाबा
+
 wizard-macos-button-cancel =
     .label = बा़डरा़
 wizard-linux-button-cancel =

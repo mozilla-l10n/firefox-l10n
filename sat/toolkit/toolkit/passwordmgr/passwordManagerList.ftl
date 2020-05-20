@@ -34,6 +34,7 @@ import =
 close-button =
     .label = बोंद मे
     .accesskey = C
+
 remove-all-passwords-prompt = चेत् आम गोटा आकात् आ जोतो दानाङ साबाद को ओचोक् सानाम काना?
 remove-all-passwords-title = जोतो दानाङ साबाद को ओचोक्
 no-master-password-prompt = चेत् आम गोटा आकात् आ आम आमाक् दानाङ साबाद उदुक् सानाम काना?

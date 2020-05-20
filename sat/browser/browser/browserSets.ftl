@@ -4,44 +4,62 @@
 
 window-minimize-command =
     .label = हुड़िञ उता़र तेयार
+
 window-zoom-command =
     .label = हुडिञ ला़टु तेयार
+
 window-new-shortcut =
     .key = N
+
 window-minimize-shortcut =
     .key = m
+
 close-shortcut =
     .key = W
+
 tab-new-shortcut =
     .key = t
+
 search-focus-shortcut =
     .key = k
+
 search-find-again-shortcut =
     .key = g
+
 search-find-again-shortcut-alt =
     .keycode = VK_F3
+
 save-page-shortcut =
     .key = s
+
 page-source-shortcut =
     .key = u
+
 nav-back-shortcut-alt =
     .key = [
+
 nav-fwd-shortcut-alt =
     .key = ]
+
 nav-reload-shortcut =
     .key = r
+
 # Shortcut available only on macOS.
 nav-stop-shortcut =
     .key = .
+
 history-show-all-shortcut =
     .key = H
+
 history-sidebar-shortcut =
     .key = h
+
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
 picture-in-picture-toggle-shortcut-alt =
     .key = { "}" }
+
 # Verify what shortcut for that operation
 # are recommended by the Human Interface Guidelines
 # of each platform for your locale.
@@ -54,19 +72,25 @@ bookmark-show-sidebar-shortcut =
 
 full-zoom-reduce-shortcut =
     .key = -
+
 # If in keyboard layouts popular for your locale you need to use the shift key
 # to access the original shortcuts, the following shortcuts can be used.
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
+
 full-zoom-enlarge-shortcut =
     .key = +
+
 full-zoom-enlarge-shortcut-alt =
     .key = =
+
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
+
 full-zoom-reset-shortcut =
     .key = 0
+
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 
@@ -80,5 +104,7 @@ private-browsing-shortcut =
 
 help-shortcut =
     .key = ?
+
 preferences-shortcut =
     .key = ,
+

@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = तिंग होचो
 pictureinpicture-play =
     .aria-label = खिलोंड
+
 pictureinpicture-mute =
     .aria-label = बोबा
 pictureinpicture-unmute =
     .aria-label = साडे होचो
+

@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "नावा भेगार होचो">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "लाइब पुथी चिनहा़ दोहड़ा लादे">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  " लाड़ाव…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "ञुतुम">
 <!ENTITY col.tags.label          "तोल को ">
 <!ENTITY col.url.label           "ठांव">
 <!ENTITY col.mostrecentvisit.label "आ़डिसुराक् ञेल">
 <!ENTITY col.visitcount.label    "लेखा ञुल मे">
-<!ENTITY col.description.label   "विबरोन">
 <!ENTITY col.dateadded.label     "सेलेद काना">
 <!ENTITY col.lastmodified.label  "मुचा़त् रे बोदोल लेन">
 
@@ -96,10 +89,6 @@
 
 <!ENTITY forwardButton.tooltip  "माड़ाङ सेत् चालाक् मे">
 
-<!ENTITY detailsPane.more.label "बा़ड़ती">
-<!ENTITY detailsPane.more.accesskey "e">
-<!ENTITY detailsPane.less.label "कोम">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "मित् जिनिस आर ओना रेयाक् गुन को ञेल आर सासापड़ाव ला़गित् बाछाव मे  .">
 
 <!ENTITY view.label               "ञेल मे">

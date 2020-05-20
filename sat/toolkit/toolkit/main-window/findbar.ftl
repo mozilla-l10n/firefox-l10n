@@ -9,9 +9,12 @@ findbar-next =
     .tooltiptext = आयात् हिंस रेयाक् इना़ तायोम ओडोक् ञाम मे
 findbar-previous =
     .tooltiptext = आयात् हिंस रेयाक् पा़हिल सेदाक् ओडोक् ञाम मे
+
 findbar-find-button-close =
     .tooltiptext = ञाम बार बोंदोय मे
+
 findbar-case-sensitive =
     .label = जोड़ काथा
     .accesskey = c
     .tooltiptext = काथा भेदावाक् सांव पानते.
+

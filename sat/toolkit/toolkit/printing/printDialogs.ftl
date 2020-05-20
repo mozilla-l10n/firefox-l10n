@@ -103,6 +103,7 @@ print-window =
     .title = छापाक् काना
 print-complete =
     .value = छापा दो पुरा़वेना.
+
 # Variables
 # $percent (integer) - Number of printed percentage
 print-percent =

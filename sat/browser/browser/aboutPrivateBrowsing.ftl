@@ -5,3 +5,4 @@
 privatebrowsingpage-open-private-window-label = मित् निजेराक् विंडो झिज मे .
     .accesskey = P
 about-private-browsing-not-private = आम दो नितोक् मित् निजेराक् विंडो रे बा़नुक् मेया .
+

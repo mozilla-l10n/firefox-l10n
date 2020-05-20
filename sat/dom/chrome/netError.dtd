@@ -4,6 +4,7 @@
 
 <!ENTITY loadError.label "साहटा लादे भुल">
 <!ENTITY retry.label "दोहड़ा कुरुमुटु">
+
 <!-- Specific error messages -->
 
 
@@ -82,3 +83,4 @@
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+

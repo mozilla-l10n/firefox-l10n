@@ -4,30 +4,35 @@
 
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = आकोट
     .accesskey = B
+
 permissions-session =
     .label = का़मी ओकतो ला़गित् बाताव एम
     .accesskey = S
+
 permissions-allow =
     .label = बाताव एम
     .accesskey = A
+
 permissions-status =
     .label = दोसा
+
 permissions-button-cancel =
     .label = बा़डरा़
     .accesskey = C
+
 permissions-capabilities-allow =
     .label = बाताव एम
 permissions-capabilities-block =
     .label = आकोट
+
 permissions-capabilities-listitem-allow =
     .value = बाताव एम
 permissions-capabilities-listitem-block =
     .value = आकोट
-permissions-capabilities-listitem-allow-first-party =
-    .value = एकेन पा़हिल दोल को बाताव एम
 permissions-capabilities-listitem-allow-session =
     .value = का़मी ओकतो ला़गित् बाताव एम
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = आम गोटा दाड़ेया�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

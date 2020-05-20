@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "तापरा हा़ली बाङ बाहाल दाड़ेयाक् आ. &brandShortName; मित् पुरा़ हा़ली आ़तुर आंड़गो दाराय ते दोहड़ा कुरुमुटुया.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; दो बाय गोटा दाड़ेयाक् आ जुदी नोडे मित् हा़ली ञामोक् आ.  गोटाय मे जे आम ठेन &brandShortName; रेयाक्  नावा उता़र बार्सान मेनाक् आ खोन:">
-
+                                           
 <!ENTITY  finishedPage.title              "बोहाल ला़गित् हा़ली सापड़ावाकाना .">
 
 
@@ -50,6 +50,3 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
 
-<!ENTITY  update.details.label            "बिवरोन को">
-<!ENTITY  update.installedOn.label        "रे बोहालेना :">
-<!ENTITY  update.status.label             "दोसार :">
