@@ -240,8 +240,6 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ส่วนขยาย:
-urlbar-go-end-cap =
-    .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-page-action-button =
     .tooltiptext = การกระทำหน้า
 urlbar-pocket-button =
