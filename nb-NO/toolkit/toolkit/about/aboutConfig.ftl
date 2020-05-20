@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Jeg aksepterer risikoen!
 config-about-warning-checkbox =
     .label = Vis denne advarselen neste gang også
+
 config-search-prefs =
     .value = Søk:
     .accesskey = S
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopier
     .accesskey = K
+
 config-copy-name =
     .label = Kopier navn
     .accesskey = o
+
 config-copy-value =
     .label = Kopier verdi
     .accesskey = v
+
 config-modify =
     .label = Endre
     .accesskey = e
+
 config-toggle =
     .label = Slå av/på
     .accesskey = a
+
 config-reset =
     .label = Standard
     .accesskey = S
+
 config-new =
     .label = Ny
     .accesskey = N
+
 config-string =
     .label = Streng
     .accesskey = S
+
 config-integer =
     .label = Tall
     .accesskey = a
+
 config-boolean =
     .label = Boolsk
     .accesskey = B
+
 config-default = forvalgt
 config-modified = endret
 config-locked = låst
+
 config-property-string = streng
 config-property-int = tall
 config-property-bool = boolsk
+
 config-new-prompt = Skriv inn navnet på innstillingen
+
 config-nan-title = Ugyldig verdi
 config-nan-text = Teksten du skrev inn er ikke et tall.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Ny { $type }-verdi
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Skriv inn { $type }-verdi

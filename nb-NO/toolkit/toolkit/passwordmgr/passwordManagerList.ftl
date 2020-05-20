@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Lukk
     .accesskey = L
+
 show-passwords =
     .label = Vis passord
     .accesskey = V

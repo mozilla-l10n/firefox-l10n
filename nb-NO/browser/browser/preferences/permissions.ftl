@@ -5,50 +5,66 @@
 permissions-window =
     .title = Unntak
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Adressen til nettstedet
     .accesskey = d
+
 permissions-block =
     .label = Blokker
     .accesskey = B
+
 permissions-session =
     .label = Tillat for programøkten
     .accesskey = T
+
 permissions-allow =
     .label = Tillat
     .accesskey = T
+
 permissions-site-name =
     .label = Nettsted
+
 permissions-status =
     .label = Status
+
 permissions-remove =
     .label = Fjern nettsted
     .accesskey = F
+
 permissions-remove-all =
     .label = Fjern alle nettsteder
     .accesskey = e
+
 permissions-button-cancel =
     .label = Avbryt
     .accesskey = A
+
 permissions-button-ok =
     .label = Lagre endringer
     .accesskey = L
+
 permissions-autoplay-menu = Standard for alle nettsteder:
+
 permissions-searchbox =
     .placeholder = Søk på nettside
+
 permissions-capabilities-autoplay-allow =
     .label = Tillat lyd og video
 permissions-capabilities-autoplay-block =
     .label = Blokker lyd
 permissions-capabilities-autoplay-blockall =
     .label = Blokker lyd og video
+
 permissions-capabilities-allow =
     .label = Tillat
 permissions-capabilities-block =
     .label = Blokker
 permissions-capabilities-prompt =
     .label = Spør alltid
+
 permissions-capabilities-listitem-allow =
     .value = Tillat
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Unntak - innholdsblokkering
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Du har slått av innholdsblokkering på disse nettstedene.
+
 permissions-exceptions-etp-window =
     .title = Unntak for utvidet sporingsbeskyttelse
     .style = { permissions-window.style }

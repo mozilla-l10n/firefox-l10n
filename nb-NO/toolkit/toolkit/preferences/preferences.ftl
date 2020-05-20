@@ -4,17 +4,21 @@
 
 password-not-set =
     .value = (ikke satt)
+
 failed-pw-change = Klarte ikke sette hovedpassord.
 incorrect-pw = Du skrev ikke inn riktig hovedpassord. Prøv igjen.
 pw-change-ok = Hovedpassordet er endret.
+
 pw-empty-warning = Lagrede nettside- og e-postpassord, skjemadata og private nøkler vil ikke bli beskyttet.
 pw-erased-ok = Hovedpassordet er nå slettet. { pw-empty-warning }
 pw-not-wanted = Advarsel! Du har valgt å ikke bruke hovedpassord. { pw-empty-warning }
+
 pw-change2empty-in-fips-mode = Du er i FIPS-modus. FIPS krever et hovedpassord som ikke er tomt.
 pw-change-success-title = Passordendring utført
 pw-change-failed-title = Passordendring mislyktes
 pw-remove-button =
     .label = Fjern
+
 set-password =
     .title = Endre hovedpassord
 set-password-old-password = Nåværende passord:
@@ -24,6 +28,7 @@ set-password-meter = Måling av passordkvalitet
 set-password-meter-loading = Laster
 master-password-description = Dersom du trenger å beskytte sensitiv informasjon, som for eksempel nettsidepassord, kan du bruke et hovedpassord.  Dersom du oppretter et hovedpassord, må du oppgi passordet for hver programøkt der { -brand-short-name } henter ut lagret informasjon som er beskyttet av passordet.
 master-password-warning = Vær sikker på at du husker hovedpassordet.  Dersom du glemmer hovedpassordet vil du ikke få tilgang til informasjonen som er beskyttet av det.
+
 remove-password =
     .title = Fjern hovedpassord
 remove-info =

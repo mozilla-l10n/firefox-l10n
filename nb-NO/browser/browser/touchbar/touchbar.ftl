@@ -20,6 +20,7 @@ open-location = Søk eller skriv inn adresse
 share = Del
 close-window = Lukk vindu
 open-sidebar = Sidestolper
+
 # This string describes shortcuts for search.
 search-popover = Søkesnarveier
 # Describes searches limited to a specific scope
