@@ -341,10 +341,15 @@
 <!ENTITY indentToolbarCmd.tooltip "Øk innrykk (flytt mot høyre)">
 <!ENTITY AlignPopupButton.label "Justering">
 <!ENTITY AlignPopupButton.tooltip "Velg tekstjustering">
+<!ENTITY InsertPopupButton.label "Sett inn">
 <!ENTITY InsertPopupButton.tooltip "Sett inn lenke, anker, bilde, horisontal linje eller tabell">
+<!ENTITY alignLeftButton.label "Venstrejuster">
 <!ENTITY alignLeftButton.tooltip "Juster tekst langs venstre marg">
+<!ENTITY alignCenterButton.label "Midtstill">
 <!ENTITY alignCenterButton.tooltip "Midtstill tekst">
+<!ENTITY alignRightButton.label "Høyrejuster">
 <!ENTITY alignRightButton.tooltip "Juster tekst langs høyre marg">
+<!ENTITY alignJustifyButton.label "Blokkjuster">
 <!ENTITY alignJustifyButton.tooltip "Juster tekst etter venstre og høyre marg">
 
 <!-- Structure Toolbar Context Menu items -->
