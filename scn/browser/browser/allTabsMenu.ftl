@@ -4,10 +4,14 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Sfai Chiuji scheda
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Cerca nnê schedi
+
 all-tabs-menu-new-user-context =
     .label = Nova scheda cuntinituri
+
 all-tabs-menu-hidden-tabs =
     .label = Schedi ammucciati
+

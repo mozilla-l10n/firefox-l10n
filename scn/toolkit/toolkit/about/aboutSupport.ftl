@@ -4,6 +4,7 @@
 
 page-title = Nfurmazziuna p'arrisòrbiri prubblemi
 page-subtitle = Sta pàggina cunteni nfurmazziuna tècnichi ca ti ponnu èssiri utili quannu stai pruvannu ad arrisòrbiri quarchi prubblema. Si stai circannu i risposti ê dumanni cchiù friquenti supra a { -brand-short-name }, cuntrolla u nostru <a data-l10n-name="support-link">situ dû supportu</a>.
+
 crashes-title = Signalazziuna di blocchi
 crashes-id = ID signalazziuni
 crashes-send-date = Mannata
@@ -49,6 +50,8 @@ restart-in-safe-mode-label = Riabbìa cu l'agghiuncitini disabbilitati…
 
 
 
+##
+
 ## Remote Debugging
 ##
 ## The Firefox remote protocol provides low-level debugging interfaces
@@ -61,6 +64,8 @@ restart-in-safe-mode-label = Riabbìa cu l'agghiuncitini disabbilitati…
 
 
 
+
+##
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
 

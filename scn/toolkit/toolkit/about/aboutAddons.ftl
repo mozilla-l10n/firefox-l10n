@@ -4,10 +4,13 @@
 
 search-header-shortcut =
     .key = f
+
 list-empty-button =
     .label = Cchiù nfurmazziuna supra l'agghiuncitini
+
 detail-home-value =
     .value = { detail-home.label }
+
 detail-repository-value =
     .value = { detail-repository.label }
 
@@ -15,10 +18,13 @@ detail-repository-value =
 
 extensions-warning-safe-mode-container =
     .tooltiptext = { extensions-warning-safe-mode-label.value }
+
 extensions-warning-check-compatibility-container =
     .tooltiptext = { extensions-warning-check-compatibility-label.value }
+
 extensions-warning-update-security-container =
     .tooltiptext = { extensions-warning-update-security-label.value }
+
 
 ## Strings connected to add-on updates
 

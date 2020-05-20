@@ -5,17 +5,22 @@
 blocklist-window =
     .title = Lista dî bloccu
     .style = width: 55em
+
 blocklist-description = Scegghi a lista ca { -brand-short-name } usa pi firmari i trazzatura 'n linia. I listu vennu furnuti di<a data-l10n-name="disconnect-link" title="Disconnect">Disconnect</a>.
 blocklist-close-key =
     .key = w
+
 blocklist-treehead-list =
     .label = Lista
+
 blocklist-button-cancel =
     .label = Sfai
     .accesskey = S
+
 blocklist-button-ok =
     .label = Sarba canciamenti
     .accesskey = S
+
 # This template constructs the name of the block list in the block lists dialog.
 # It combines the list name and description.
 # e.g. "Standard (Recommended). This list does a pretty good job."
@@ -24,6 +29,7 @@ blocklist-button-ok =
 #   $listName {string, "Standard (Recommended)."} - List name.
 #   $description {string, "This list does a pretty good job."} - Description of the list.
 blocklist-item-list-template = { $listName } { $description }
+
 blocklist-item-moz-std-listName = Lista di bloccu di liveḍḍu 1 (Raccumannatu).
 blocklist-item-moz-std-description = Cunzenti a certi trazzatura di tràsiri nna cchiù picca siti.
 blocklist-item-moz-full-listName = Lista di bloccu di liveḍḍu 2.

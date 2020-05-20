@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Caràttiri
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Caràttiri pi
     .accesskey = C
+
 fonts-langgroup-arabic =
     .label = Àrabbu
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Prupurziunali
     .accesskey = P
+
 fonts-default-serif =
     .label = Chî grazzi
 fonts-default-sans-serif =
     .label = Senza grazzi
+
 fonts-proportional-size = Diminziuni
     .accesskey = z
+
 fonts-serif = Chî grazzi
     .accesskey = C
+
 fonts-sans-serif = Senza grazzi
     .accesskey = n
+
 fonts-monospace = Monuspazziu
     .accesskey = M
+
 fonts-monospace-size = Grannizza
     .accesskey = G
+
 fonts-minsize = Grannizza mìnima dû caràttiri
     .accesskey = z
+
 fonts-minsize-none =
     .label = Nuḍḍa
+
 fonts-allow-own =
     .label = Pirmetti ê pàggini di scègghiri u so caràttiri mmeci dî to scigghiuti supra
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Cudìfica testu pi cuntinutu datatu
 fonts-languages-fallback-desc = Sta cudìfica testu veni usata pû cuntinutu datatu ca nun arrinesci a cumunicari a so cudìfica.
+
 fonts-languages-fallback-label = Cudìfica testu di riserba
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Pridifinutu pi stu computer
 fonts-languages-fallback-name-arabic =
@@ -138,6 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vitnamisi
 fonts-languages-fallback-name-other =
     .label = Autru (nchiusu Europa Uccidintali)
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

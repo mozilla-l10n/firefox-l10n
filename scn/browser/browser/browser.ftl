@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Talìa nfurmazziuna dû situ
 
@@ -79,10 +80,12 @@ urlbar-midi-blocked =
     .tooltiptext = Bluccasti l'accessu MIDI pi stu situ.
 urlbar-install-blocked =
     .tooltiptext = Bluccasti u nzitamentu d'agghiuncitini pi stu situ.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Cancia stu nzingalibbru ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -111,12 +114,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Sta vota, cerca cu:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Mpustazziuna di ricerca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cancia i mpustazziuna di ricerca
+
 search-one-offs-context-open-new-tab =
     .label = Cerca nta na scheda nova
     .accesskey = n
@@ -132,8 +137,10 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Mustra l'edituri quannu sarbi
     .accesskey = s
+
 bookmark-panel-done-button =
     .label = Fattu
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -189,9 +196,11 @@ urlbar-permissions-granted =
     .tooltiptext = Ci dasti pirmisi addizziunali a stu situ.
 urlbar-switch-to-tab =
     .value = Passa â scheda:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Stinziuni:
+
 urlbar-go-button =
     .tooltiptext = Vai ô nnirizzu nnâ sbarra dî nnirizzi
 urlbar-page-action-button =

@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Cerca
     .aria-label = Cerca
+
 newtab-search-box-search-the-web-text = Cerca nnâ riti
 newtab-search-box-search-the-web-input =
     .placeholder = Cerca nnâ riti
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Cancia situ principali
 newtab-topsites-title-label = Tìtulu
 newtab-topsites-title-input =
     .placeholder = Metti un tìtulu
+
 newtab-topsites-url-label = Nnirizzu
 newtab-topsites-url-input =
     .placeholder = Scrivi o ncoḍḍa nu nnirizzu
 newtab-topsites-url-validation = È nicissariu nu nnirizzu vàlitu
+
 newtab-topsites-image-url-label = Nnirizzu dâ mmàggini pirsunalizzata
 newtab-topsites-use-image-link = Usa na mmàggini pirsunalizzata…
 newtab-topsites-image-validation = Mpussìbbili carricari a mmàggini. Prova nu nnirizzu diversu.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = St'azziuni nun si po sfari.
 newtab-menu-section-tooltip =
     .title = Rapi u minù
     .aria-label = Rapi u minù
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,7 +90,6 @@ newtab-menu-show-privacy-info = I nostri spunzura e a to privatizza
 
 newtab-privacy-modal-button-done = Bonu
 newtab-privacy-modal-header = A to privatizza è mpurtanti.
-newtab-privacy-modal-paragraph = Sparti sirbìriti cunta ntirissanti, ti mustramu macari cuntinuti, curati e pirtinenti, d'un gruppu di spunzura silizziunati. Stai sicuru chi nun veni spartutu nuḍḍu datu ncapu â to navigazziuni dâ to copia pirsunali di { -brand-product-name }. Nun avemu accessu a sti nfurmazziuna, e mancu i nostri spunzura.
 newtab-privacy-modal-link = Nzìgnati comu funziona a privatizza nnâ scheda nova.
 
 ##
@@ -157,10 +160,12 @@ newtab-section-header-pocket = Cunzigghiati di { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Accumincia a navigari, e cca ti mustraremu l'artìculi, i vidiu e autri pàggini chi visitasti di ricenti.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Nun cci sunnu autri cosi. Torna cchiù tardu p'aviri autri nutizzi di { $provider }. Nun po' aspittari? Scegghi n'argumentu pupulari p'attruvari autri nutizzi ntirissanti dâ riti.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -176,7 +181,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ops! Parissi chi sta sizzi
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Argumenti pupulari:
 newtab-pocket-more-recommendations = Cchiù suggirimenti
-newtab-pocket-whats-pocket = Soccu è { -pocket-brand-name }?
 newtab-pocket-cta-button = Pigghia { -pocket-brand-name }
 newtab-pocket-cta-text = Sarba l'artìculi chi ti piàcinu nne { -pocket-brand-name }, e stìmula a to mmagginazziuni cu litturi ntirissanti.
 

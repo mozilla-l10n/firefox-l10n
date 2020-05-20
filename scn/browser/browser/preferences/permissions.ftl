@@ -5,50 +5,66 @@
 permissions-window =
     .title = Ccizziuna
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Nnirizzu dû situ
     .accesskey = d
+
 permissions-block =
     .label = Blocca
     .accesskey = B
+
 permissions-session =
     .label = Pirmetti sissiuni
     .accesskey = S
+
 permissions-allow =
     .label = Pirmetti
     .accesskey = P
+
 permissions-site-name =
     .label = Situ
+
 permissions-status =
     .label = Statu
+
 permissions-remove =
     .label = Leva situ
     .accesskey = L
+
 permissions-remove-all =
     .label = Leva tutti i siti
     .accesskey = e
+
 permissions-button-cancel =
     .label = Sfai
     .accesskey = S
+
 permissions-button-ok =
     .label = Sarba i canciamenti
     .accesskey = S
+
 permissions-autoplay-menu = Pridifinutu pi tutti i siti:
+
 permissions-searchbox =
     .placeholder = Cerca situ
+
 permissions-capabilities-autoplay-allow =
     .label = Pirmetti audiu e vidiu
 permissions-capabilities-autoplay-block =
     .label = Blocca audiu
 permissions-capabilities-autoplay-blockall =
     .label = Blocca audiu e vidiu
+
 permissions-capabilities-allow =
     .label = Pirmetti
 permissions-capabilities-block =
     .label = Blocca
 permissions-capabilities-prompt =
     .label = Addumanna sempri
+
 permissions-capabilities-listitem-allow =
     .value = Pirmetti
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Ccizziuna - Bloccu dî cuntinuti
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Disabbilitasti u bloccu dî cuntinuti nna stu situ.
+
 permissions-exceptions-etp-window =
     .title = Eccizziuna pâ prutizziuni avanzata dû trazzamentu
     .style = { permissions-window.style }

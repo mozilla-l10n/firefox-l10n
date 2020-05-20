@@ -5,29 +5,38 @@
 bookmark-overlay-name =
     .value = Nomi:
     .accesskey = N
+
 bookmark-overlay-location =
     .value = Pusizziuni:
     .accesskey = P
+
 bookmark-overlay-folder =
     .value = Carpetta:
+
 bookmark-overlay-choose =
     .label = Scegghi…
+
 bookmark-overlay-folders-expander =
     .tooltiptext = Mustra tutti quanti i carpetti dî nzingalibbri
     .tooltiptextdown = { bookmark-overlay-folders-expander.tooltiptext }
     .tooltiptextup = Ammuccia
+
 bookmark-overlay-new-folder-button =
     .label = Nova carpetta
     .accesskey = c
+
 bookmark-overlay-tags =
     .value = Etichetti:
     .accesskey = E
+
 bookmark-overlay-tags-empty-description =
     .placeholder = Sparti l'etichetti cu i virguli
+
 bookmark-overlay-tags-expander =
     .tooltiptext = Mustra tutti l'etichetti
     .tooltiptextdown = { bookmark-overlay-tags-expander.tooltiptext }
     .tooltiptextup = Ammuccia
+
 bookmark-overlay-keyword =
     .value = Palora chiavi:
     .accesskey = h

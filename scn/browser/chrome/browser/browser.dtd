@@ -234,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 
 <!ENTITY goEndCap.tooltip             "Vai ô nnirizzu nnâ sbarra dî nnirizzi">
+
 <!ENTITY printButton.label            "Stampa">
 <!ENTITY printButton.tooltip          "Stampa sta pàggina">
 
@@ -278,6 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mustra cronuluggìa">
+
 
 <!ENTITY searchItem.title             "Cerca">
 
@@ -338,6 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY newUserContext.label             "Nova scheda cuntinituri">
 <!ENTITY manageUserContext.label          "Gistisci cuntinitura">
+
 <!ENTITY newNavigatorCmd.label        "Nova finestra">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -604,6 +607,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Sarba nne Pocket">
+
 <!ENTITY saveToPocketCmd.label        "Sarba pàggina nne Pocket">
 <!ENTITY saveLinkToPocketCmd.label    "Sarba a lijami nne Pocket">
 <!ENTITY pocketMenuitem.label         "Vidi lista Pocket">
@@ -806,6 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      protections.siteNotWorkingView.header: The header of the list
      protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
 
+
 <!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
      In the protections panel, Content Blocking category items are in three sections:
      "Blocked" for categories being blocked in the current page,
@@ -868,6 +873,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+
 
 <!ENTITY uiTour.infoPanel.close "Chiuji">
 

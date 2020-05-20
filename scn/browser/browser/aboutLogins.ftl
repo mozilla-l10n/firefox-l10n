@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Dispunìbbili nne Google Play
 login-app-promo-apple =
     .alt = Scàrrica di l'App Store
+
 login-filter =
     .placeholder = Cerca nnê cridinziali
+
 create-login-button = Crea nova cridinziali
+
 fxaccounts-sign-in-text = Vidi i to chiavi nna tutti i to dispusitivi
 fxaccounts-sign-in-button = Trasi nne { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -24,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Rapi u minù
-# This menuitem is only visible on Windows
-menu-menuitem-import = Mporta chiavi…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Prifirenzi
@@ -46,7 +47,6 @@ login-list-count =
     }
 login-list-sort-label-text = Òrdina pi:
 login-list-name-option = Nomu (A-Z)
-login-list-breached-option = Siti viulati
 login-list-last-changed-option = Ùrtima mudìfica
 login-list-last-used-option = Ùrtimu usu
 login-list-intro-title = Nuḍḍa cridinziali truvata
@@ -73,7 +73,6 @@ about-logins-intro-import = Si i to cridinziali sunnu sarbati nta n'autru naviga
 
 login-item-new-login-title = Crea nova cridinziali
 login-item-edit-button = Cancia
-login-item-delete-button = Cancella
 about-logins-login-item-remove-button = Leva
 login-item-origin-label = Nnirizzu dû situ
 login-item-origin =
@@ -84,10 +83,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copia
 login-item-copied-username-button-text = Cupiatu!
 login-item-password-label = Chiavi
-login-item-password-reveal-checkbox-show =
-    .title = Mustra chiavi
-login-item-password-reveal-checkbox-hide =
-    .title = Ammuccia chiavi
 login-item-password-reveal-checkbox =
     .aria-label = Mustra chiavi
 login-item-copy-password-button-text = Copia
@@ -98,6 +93,12 @@ login-item-cancel-button = Sfai
 login-item-time-changed = Ùrtimu canciamentu: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Criatu: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Ùrtimu usu: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
 
 ## Master Password notification
 
@@ -120,7 +121,6 @@ enable-password-sync-preferences-button =
            *[other] Rapi i prifirenzi di { -sync-brand-short-name }
         }
     .accesskey = p
-confirm-delete-dialog-title = Cancillari sta cridinziali?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = Nun m'addumannari cchiù
     .accesskey = N
@@ -130,10 +130,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Sfai
 confirmation-dialog-dismiss-button =
     .title = Sfai
+
 about-logins-confirm-remove-dialog-title = Livari sta cridinziali?
 confirm-delete-dialog-message = St'azziuni nun si po sfari.
-confirm-delete-dialog-confirm-button = Cancella
 about-logins-confirm-remove-dialog-confirm-button = Leva
+
 confirm-discard-changes-dialog-title = Scartari i canciamenti nun sarbati?
 confirm-discard-changes-dialog-message = Pirdirai tutti i canciamenti nun sarbati.
 confirm-discard-changes-dialog-confirm-button = Scarta
@@ -141,9 +142,8 @@ confirm-discard-changes-dialog-confirm-button = Scarta
 ## Breach Alert notification
 
 breach-alert-text = Di l'ùrtima vota chi canciasti sta cridinziali, foru arrubbati o foru spartuti chiavi di stu situ. Cancia a to chiavi pi prutèggiri u to cuntu.
-breach-alert-link = Cchiù nfurmazziuna supra a sta viulazziuni.
-breach-alert-dismiss =
-    .title = Chiuji st'abbisu
+
+## Vulnerable Password notification
 
 ## Error Messages
 
@@ -152,5 +152,6 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Cc'è già na cridinziali pi { $loginTitle } cu stu nomu utenti. <a data-l10n-name="duplicate-link">Vo' jiri â cridinziali prisenti?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = Cci fu n'erruri pruvannu a sarbari sta chiavi.

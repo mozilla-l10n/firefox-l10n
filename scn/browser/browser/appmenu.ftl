@@ -5,8 +5,6 @@
 
 ## App Menu
 
-appmenuitem-import-from-another-browser =
-    .label = Mporta di n'autru navigaturi…
 appmenuitem-protection-report-title = Prutizziuna pâ privatizza
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vai ô rapportu di privatizza

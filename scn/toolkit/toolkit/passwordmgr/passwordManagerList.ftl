@@ -8,5 +8,6 @@ focus-search-shortcut =
     .key = f
 focus-search-altshortcut =
     .key = k
+
 auto-fill-logins-and-passwords =
     .label = Metti autumaticamenti accessi e chiavi

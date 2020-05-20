@@ -47,3 +47,4 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = D
 appmenu-addon-private-browsing-message = Tutti i novi stinziuna ca ci agghiunci a { -brand-shorter-name } nun funziunarannu nnê finestri privati, sempri ca nun ci u pirmetti nnê mpustazziuna.
 appmenu-addon-private-browsing-learn-more = Nzìgnati comu gistiri i mpustazziuna dî stinziuna
+    

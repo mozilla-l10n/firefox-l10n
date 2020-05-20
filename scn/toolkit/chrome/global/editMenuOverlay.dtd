@@ -13,6 +13,7 @@
 <!ENTITY pasteCmd.label            "Ncoḍḍa">
 <!ENTITY pasteCmd.key              "V">
 <!ENTITY selectAllCmd.key          "A">
+
 <!ENTITY findCmd.label             "Trova">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "v">

@@ -4,8 +4,12 @@
 
 set-desktop-background-window =
     .title = Spicìfica comu u funnu dû suprascagnu
+
 set-desktop-background-accept =
     .label = Spicìfica comu u funnu dû suprascagnu
+
 open-desktop-prefs =
     .label = Rapi i prifirenzi dâ scrivanìa
+
 set-background-position = Pusizziuni:
+

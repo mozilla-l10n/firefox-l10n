@@ -69,6 +69,7 @@
   -  was called "Chrome".
   -->
 
+
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
   -  for the help button in the menubar but Gnome does not.
   -->
@@ -82,6 +83,7 @@
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.
   -->
+
 
 <!ENTITY reloadAndRun.key             "r">
 

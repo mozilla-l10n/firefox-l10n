@@ -13,27 +13,36 @@ cfr-doorhanger-pintab-heading = Prova chistu: Appuntiḍḍa scheda
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Picchì viju chistu
+
 cfr-doorhanger-extension-cancel-button = Ora no
     .accesskey = O
+
 cfr-doorhanger-extension-ok-button = Agghiunci ora
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Appuntiḍḍa sta scheda
     .accesskey = A
+
 cfr-doorhanger-extension-manage-settings-button = Gistisci mpustazziuna dî suggirimenti
     .accesskey = G
+
 cfr-doorhanger-extension-never-show-recommendation = Nun mi mustrari stu suggirimentu
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Cchiù nfurmazziuna
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = di { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Suggirimentu
+
 cfr-doorhanger-extension-notification2 = Suggirimentu
     .tooltiptext = Suggirimentu di stinziuni
     .a11y-announcement = È dispunìbbili un suggirimentu pi na stinziuni
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Suggirimentu
@@ -59,6 +68,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } utenti
        *[other] { $total } utenti
     }
+
 cfr-doorhanger-pintab-description = Trasi fàcili nnî siti ca usi cchiù assai. Teni i siti raputi nna na scheda (puru quannu riabbìi).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +76,10 @@ cfr-doorhanger-pintab-description = Trasi fàcili nnî siti ca usi cchiù assai.
 cfr-doorhanger-pintab-step1 = <b>Ammacca cû tastu drittu</b> ncapu a scheda ca vo' appuntiḍḍari.
 cfr-doorhanger-pintab-step2 = Scegghi <b>Appuntiḍḍa scheda</b> dû minù.
 cfr-doorhanger-pintab-step3 = Si u situ àvi n'attualizzazziuni vidi un puntu blu ncapu â to scheda appuntiḍḍata.
+
 cfr-doorhanger-pintab-animation-pause = Pausa
 cfr-doorhanger-pintab-animation-resume = Cuntinua
+
 
 ## Firefox Accounts Message
 
@@ -89,16 +101,22 @@ cfr-protections-panel-link-text = Cchiù nfurmazziuna
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Nova funziunalità:
+
 cfr-whatsnew-button =
     .label = Nuvità
     .tooltiptext = Nuvità
+
 cfr-whatsnew-panel-header = Nuvità
+
 cfr-whatsnew-release-notes-link-text = Leggi i nutizzi di sta virsiuni
+
 cfr-whatsnew-fx70-title = Ora { -brand-short-name } travagghia cchiù assai pâ to privatizza
 cfr-whatsnew-fx70-body = L'ùrtima attualizzazziuni àvi na megghiu prutizziuni dî trazzatura, ed è cchiù fàcili criari chiavi sicuri p'ogni situ.
+
 cfr-whatsnew-tracking-protect-title = Prutèggiti dî trazzatura
 cfr-whatsnew-tracking-protect-body = { -brand-short-name } blocca assai trazzatura suciali e ntirsitu cumuni chi sicùtanu soccu fai nnâ riti.
 cfr-whatsnew-tracking-protect-link-text = Vidi u to rapportu
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -109,11 +127,15 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Di { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Vidi u rapportu
+
 cfr-whatsnew-lockwise-backup-title = Sarba i to chiavi
 cfr-whatsnew-lockwise-backup-link-text = Attiva u sarbataggiu autumàticu
+
 cfr-whatsnew-lockwise-take-title = Porta i to chiavi cu tia
 cfr-whatsnew-lockwise-take-body = L'app mòbbili { -lockwise-brand-short-name } ti pirmetti di accèdiri 'n manera sicura ê chiavi sarbati, unni ti trovi trovi.
 cfr-whatsnew-lockwise-take-link-text = Scàrrica l'app
+
+## Search Bar
 
 ## Picture-in-Picture
 
@@ -136,6 +158,7 @@ cfr-whatsnew-fingerprinter-counter-header =
        *[other] Giniratura d'urmi diggitali bluccati
     }
 cfr-whatsnew-fingerprinter-counter-body = { -brand-shorter-name } blocca assai giniratura d'urmi diggitali chi sicritamenti arricògghinu nfurmazziuna supra u to dispusitivu pi criari un prufilu e mustràriti pubblicità mirati.
+
 # Message variation when fingerprinters count is less than 10
 cfr-whatsnew-fingerprinter-counter-header-alt = Giniratura d'urmi diggitali
 cfr-whatsnew-fingerprinter-counter-body-alt = { -brand-shorter-name } po bluccari assai giniratura d'urmi diggitali chi sicritamenti arricògghinu nfurmazziuna supra u to dispusitivu pi criari un prufilu e mustràriti pubblicità mirati.
@@ -194,3 +217,12 @@ cfr-doorhanger-milestone-heading =
     }
 cfr-doorhanger-milestone-ok-button = Vidi tuttu
     .accesskey = t
+
+## What’s New Panel Content for Firefox 76
+
+## Lockwise message
+
+## Vulnerable Passwords message
+
+## Picture-in-Picture fullscreen message
+

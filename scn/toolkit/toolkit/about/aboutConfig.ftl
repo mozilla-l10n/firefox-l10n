@@ -7,6 +7,7 @@
 
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 

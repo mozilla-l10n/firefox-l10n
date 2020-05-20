@@ -3,5 +3,7 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 enable-learn-more-link = Cchiù nfurmazziuna supra i strumenti di diviluppu
+
 footer-learn-more-link = Cchiù nfurmazziuna
+
 features-learn-more = Cchiù nfurmazziuna

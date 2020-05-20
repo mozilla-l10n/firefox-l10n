@@ -19,6 +19,7 @@ open-location = Cerca o metti nu nnirizzu
 share = Sparti
 close-window = Chiuji finestra
 open-sidebar = Sbarri di ciancu
+
 # This string describes shortcuts for search.
 search-popover = Accurzi di ricerca
 # Describes searches limited to a specific scope
@@ -35,3 +36,4 @@ search-titles = Tìtuli
 
 
 
+##
