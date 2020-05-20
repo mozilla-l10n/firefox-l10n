@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Uzziniet vairāk par <a data-l10n-name="learn-more">Privātā pārlūkošana</a>.
 about-private-browsing-info-visited = apmeklētās lapas
+
 privatebrowsingpage-open-private-window-label = Atvērt privāto logu
     .accesskey = p
 about-private-browsing-info-notsaved = Kad pārlūkojat privātajā režīmā, { -brand-short-name } <strong>nesaglabā</strong>:
@@ -20,3 +21,4 @@ about-private-browsing-note = Privātā pārlūkošana <strong>nepadara jūs ano
 about-private-browsing-not-private = Šobrīd jūs neesat privātajā logā.
 content-blocking-title = Satura bloķēšana
 content-blocking-description = Dažas lapas izmanto sekotājus, kas var izsekot jūsu darbībām internetā. Privātajos logos { -brand-short-name } satura bloķēšana automātiski bloķē sekotājus, kas var ievākt informāciju par jūsu aktivitātēm internetā.
+

@@ -9,17 +9,12 @@ about-service-workers-title = Par pakalpojumu darbiniekiem
 about-service-workers-main-title = Reģistrētie pakalpojumu darbinieki
 about-service-workers-warning-not-enabled = Neaktivizētie pakalpojumu darbinieki.
 about-service-workers-warning-no-service-workers = Nav reģistrēts neviens pakalpojumu darbinieks.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = Avots: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } lietotnes ID { $appId } - InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>Aktīvā kešatmiņa:</strong> { $name }
 waiting-cache-name = <strong>Gaidošā kešatmiņa:</strong> { $name }
 push-end-point-waiting = <strong>Push galamērķis:</strong> { waiting }
 push-end-point-result = <strong>Push galamērķis:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = Atjaunināt
+
 unregister-button = Atreģistrēt
+
 unregister-error = Neizdevās atreģistrēt pakalpojuma darbinieku.
+
 waiting = Gaida…

@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "Neizdevās pielietot daļējo atjauninājumu. &brandShortName; mēģinās vēlreiz lejupielādējot pilno atjauninājumu.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nevar noteikt vai ir pieejams tā atjauninājums. Lūdzu pārliecinieties, ka jums ir jaunākā &brandShortName; versija no:">
-
+                                           
 <!ENTITY  finishedPage.title              "Atjauninājumi ir gatavi uzstādīšanai">
 <!ENTITY  finishedPage.text               "Atjauninājumi tiks uzstādīti nākamo reizi, kad &brandShortName; tiks palaists. Jūs varat pārstartēt &brandShortName; tūlīt vai arī turpināt strādāt un izdarīt to vēlāk.">
 
@@ -54,6 +54,3 @@
                                            &brandShortName; tagad, vai arī turpināt darbu un pārstartēt vēlāk, vai
                                            atteikties no šī atjauninājuma.">
 
-<!ENTITY  update.details.label            "Sīkāka informācija">
-<!ENTITY  update.installedOn.label        "Uzinstalēts:">
-<!ENTITY  update.status.label             "Statuss:">

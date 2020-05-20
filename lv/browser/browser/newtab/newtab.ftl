@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Meklēt
     .aria-label = Meklēt
+
 newtab-search-box-search-the-web-text = Meklēt internetā
 newtab-search-box-search-the-web-input =
     .placeholder = Meklēt internetā
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Rediģēt populārās lapas
 newtab-topsites-title-label = Virsraksts
 newtab-topsites-title-input =
     .placeholder = Ievadiet nosaukumu
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Ievadiet vai iekopējiet adresi
 newtab-topsites-url-validation = Nepieciešama derīga adrese
+
 newtab-topsites-image-url-label = Pielāgota attēla adrese
 newtab-topsites-use-image-link = Izmantot citu attēlu…
 newtab-topsites-image-validation = NEizdevās ielādēt attēlu. Izmēģiniet citu adresi.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = Šī ir neatgriezeniska darbība.
 newtab-menu-section-tooltip =
     .title = Atvērt izvēlni
     .aria-label = Atvērt izvēlni
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -149,10 +153,12 @@ newtab-section-header-pocket = Iesaka { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Sāciet pārlūkošanu un mēs šeit parādīsim lieliskus rakstus, video un citas apmeklētās lapas.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Viss ir apskatīts! Atnāciet atpakaļ nedaudz vēlāk, lai redzētu populāros stāstus no { $provider }. Nevarat sagaidīt? Izvēlieties kādu no tēmām jau tagad.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Palīdzība"> 
 <!ENTITY helpMenuWin.accesskey    "P">
+
 <!ENTITY aboutProduct2.label      "Par &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "a">
 <!ENTITY productHelp2.label       "&brandShorterName; palīdzība">
@@ -49,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Parādīt visus">
+

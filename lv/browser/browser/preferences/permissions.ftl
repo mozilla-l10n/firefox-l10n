@@ -5,49 +5,61 @@
 permissions-window =
     .title = Izņēmumi
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Mājas lapas adrese
     .accesskey = d
+
 permissions-block =
     .label = Bloķēt
     .accesskey = B
+
 permissions-session =
     .label = Atļaut tikai šīs sesijas laikā
     .accesskey = s
+
 permissions-allow =
     .label = Atļaut
     .accesskey = A
+
 permissions-site-name =
     .label = Mājas lapa
+
 permissions-status =
     .label = Statuss
+
 permissions-remove =
     .label = Aizvākt lapu
     .accesskey = Z
+
 permissions-remove-all =
     .label = Aizvākt visas lapas
     .accesskey = k
+
 permissions-button-cancel =
     .label = Atcelt
     .accesskey = c
+
 permissions-button-ok =
     .label = Saglabāt izmaiņas
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = Meklēt lapas
+
 permissions-capabilities-allow =
     .label = Atļaut
 permissions-capabilities-block =
     .label = Bloķēt
 permissions-capabilities-prompt =
     .label = Vienmēr jautāt
+
 permissions-capabilities-listitem-allow =
     .value = Atļaut
 permissions-capabilities-listitem-block =
     .value = Bloķēt
-permissions-capabilities-listitem-allow-first-party =
-    .value = Atļaut tikai pirmajam avotam
 permissions-capabilities-listitem-allow-session =
     .value = Atļaut uz šo sesiju
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = Lūdzu, ievadiet derīgu resursdatora nosaukumu
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Izņēmumi - Sekošanas aizsardzība
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = Sekošanas aizsardzība ir deaktivēta šajās lapās.
 permissions-exceptions-content-blocking-window =
     .title = Izņēmums - satura bloķēšana
     .style = { permissions-window.style }
@@ -102,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Jūs varat norādīt, no kurām lapām ir atļauts automātiski atskaņot multimēdijas ar skaņu. Ierakstiet precīzu lapas adresi, no kuras vēlaties atļaut papildinājumu instalēšanu, un nospiediet Atļaut.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +131,8 @@ permissions-site-location-desc = Šīs lapas ir lūgušas pieeju jūsu atrašan�
 permissions-site-location-disable-label =
     .label = Bloķēt nākotnes lūgumus atļaut piekļuvi atrašanās vietai
 permissions-site-location-disable-desc = Tas liegs jebkurām lapām, kas nav uzskaitītas zemāk, iesniedzēju lūgt piekļuvi atrašanās vietai. Paziņojumu bloķēšana var kaitēt daļai no konkrētās lapas lapas funkcionalitātes.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

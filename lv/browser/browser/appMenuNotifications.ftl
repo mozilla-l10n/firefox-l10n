@@ -26,6 +26,7 @@ appmenu-update-restart =
     .secondarybuttonaccesskey = N
 appmenu-update-restart-message = Pēc ātra restarta, { -brand-shorter-name } atjaunos jūsu atvērtās cilnes un logus no ne privātā pārlūkošanas režīma.
 appmenu-addon-post-install-message = Pārvaldiet papildinājums klikšķinot us <image data-l10n-name='addon-install-icon'></image> <image data-l10n-name='addon-menu-icon'></image> izvēlnē.
+    
 appmenu-new-tab-controlled =
     .label = Jaunā cilne ir izmainīta.
     .buttonlabel = Saglabāt izmaiņas

@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Jums tiek vaicāts uzticēties jaunai Sertifikātu Autoritātei (CA).">
 <!ENTITY downloadCert.trustSSL "Uzticēties šai CA tīmekļa vietņu identificēšanai.">
 <!ENTITY downloadCert.trustEmail "Uzticēties šai CA epasta lietotāju identificēšanai.">
-<!ENTITY downloadCert.trustObjSign "Uzticēties šai CA programmatūras izstrādātāju identificēšanai.">
 <!ENTITY downloadCert.message3 "Pirms uzticaties šai CA jebkādam mērķim, jums vajadzētu izpētīt tās sertifikātu un (ja pieejams) tās sertifikātu izsniegšanas politiku un procedūras.">
 <!ENTITY downloadCert.viewCert.label "Apskatīt">
 <!ENTITY downloadCert.viewCert.text "Apskatīt CA sertifikātu">

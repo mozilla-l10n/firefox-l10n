@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Meklēt frāzi turpmākajā tekstā
 findbar-previous =
     .tooltiptext = Meklēt frāzi virzienā uz sākumu
+
 findbar-find-button-close =
     .tooltiptext = Aizvērt meklēšanas joslu
-findbar-highlight-all =
-    .label = Izcelt visas
-    .accesskey = a
-    .tooltiptext = Izcelt frāzi visā tekstā
+
 findbar-case-sensitive =
     .label = Lielo, mazo burtu atbilstība
     .accesskey = l
     .tooltiptext = Meklēt uztverot lielos un mazos burtus kā atšķirīgus simbolus
+
 findbar-entire-word =
     .label = Veselus vārdus
     .accesskey = v

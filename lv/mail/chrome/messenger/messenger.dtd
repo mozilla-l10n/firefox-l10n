@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
@@ -416,9 +417,6 @@
 <!ENTITY openMessageWindowCmd.key "o">
 
 
-<!ENTITY openConversationCmd.key "o">
-
-
 
 
 
@@ -759,6 +757,7 @@
      folder(s). The sub-menu items indicate whether we want to apply it to just
      a folder or also its children.
   -->
+
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
@@ -799,6 +798,7 @@
 <!ENTITY contextMute.accesskey "K">
 <!ENTITY contextUnmute.label "Atklusināt">
 <!ENTITY contextUnmute.accesskey "k">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
@@ -894,3 +894,4 @@
 
 
 <!-- Mac OS X Dock Icon pop-up menu -->
+

@@ -11,19 +11,26 @@ cfr-doorhanger-extension-heading = Ieteicams paplašinājums
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Kāpēc es šo redzu
+
 cfr-doorhanger-extension-cancel-button = Ne tagad
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Pievienot
     .accesskey = P
+
 cfr-doorhanger-extension-manage-settings-button = Parvaldit ieteikumu iestatījumus
     .accesskey = m
+
 cfr-doorhanger-extension-never-show-recommendation = Neuzrādīt man šo ieteikumu
     .accesskey = N
+
 cfr-doorhanger-extension-learn-more-link = Uzzināt vairāk
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = autors { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Ieteikums
@@ -64,8 +71,11 @@ cfr-doorhanger-extension-total-users =
 cfr-whatsnew-button =
     .label = Kas jauns?
     .tooltiptext = Kas jauns?
+
 cfr-whatsnew-panel-header = Kas jauns?
+
 cfr-whatsnew-release-notes-link-text = Izlasiet laidiena piezīmes
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -76,9 +86,11 @@ cfr-whatsnew-tracking-blocked-title =
        *[other] Bloķēti izsekotāji
     }
 cfr-whatsnew-tracking-blocked-link-text = Aplūkot ziņojumu
+
 cfr-whatsnew-lockwise-backup-title = Dublējiet savas paroles
 cfr-whatsnew-lockwise-backup-body = Tagad ģenerējiet drošas paroles, kurām varat piekļūt visur, kur pierakstāties.
 cfr-whatsnew-lockwise-backup-link-text = Ieslēdziet dublēšanu
+
 cfr-whatsnew-lockwise-take-title = Paņemiet paroles sev līdz
 
 ## Search Bar

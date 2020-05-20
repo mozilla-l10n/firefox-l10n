@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Notikusi kļūda savienojoties ar { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kļūdas kods: { $error }
+
 psmerr-ssl-disabled = Nevar droši pieslēgties, jo SSL protokols ir deaktivēts.
 psmerr-ssl2-disabled = Nevar droši pieslēgties, jo lapa izmanto vecāku, nedrošu SSL protokola versiju.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ir saņemts nederīgs sertifikāts.  Lūdzu sazinieties ar servera administratoru vai savu epasta sarakstes biedru un nododiet viņam sekojošu informāciju:
     
     Jūsu sertifikāta numurs sakrīt ar kāda cita sertifikāta sērijas numuru, ko izdevusi šī sertifikātu autoritāte. Lūdzu iegūstiet jaunu sertifikātu ar unikālu sērijas numuru.
+
 ssl-error-export-only-server = Nevar sazināties droši.  Komunikācijas partneris neatbalsta augstas raudzes šifrēšanu.
 ssl-error-us-only-server = Nevar sazināties droši.  Komunikācijas partneris pieprasa augstas raudzes šifrēšanu, kas nav pieejama.
 ssl-error-no-cypher-overlap = Nevar sazināties droši ar komunikācijas partneri : nav kopīgu šifrēšanas algoritmu.
