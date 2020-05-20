@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = იხილეთ Google Play-ზე
 login-app-promo-apple =
     .alt = ჩამოტვირთეთ App Store-დან
+
 login-filter =
     .placeholder = ანგარიშების ძიება
+
 create-login-button = ანგარიშის ახალი მონაცემები
+
 fxaccounts-sign-in-text = გადმოიტანეთ პაროლები სხვა მოწყობილობებიდან
 fxaccounts-sign-in-button = { -sync-brand-short-name } – შესვლა
 fxaccounts-avatar-button =
@@ -107,20 +110,25 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = თქვენი ვინაობის დამოწმებას, შენახული მონაცემის ჩასასწორებლად.
+
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = მონაცემების ჩასასწორებლად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = შენახული მონაცემის ჩასწორებას
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = თქვენი ვინაობის დამოწმებას, შენახულ პაროლთან წვდომისთვის.
+
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = პაროლის სანახავად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = შენახულ პაროლთან წვდომას
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = თქვენი ვინაობის დამოწმებას, შენახული პაროლის ასლისთვის.
+
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = პაროლის ასლის ასაღებად, დაამოწმეთ Windows-ანგარიში. ეს დაგეხმარებათ დაიცვათ თქვენი ანგარიშების უსაფრთხოება.
 # This message can be seen when attempting to copy a password in about:logins
@@ -157,9 +165,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = გაუქმება
 confirmation-dialog-dismiss-button =
     .title = გაუქმება
+
 about-logins-confirm-remove-dialog-title = მოცილდეს ეს მონაცემები?
 confirm-delete-dialog-message = ეს ქმედება შეუქცევადია.
 about-logins-confirm-remove-dialog-confirm-button = მოცილება
+
 confirm-discard-changes-dialog-title = გაუქმდეს შეუნახავი ცვლილებები?
 confirm-discard-changes-dialog-message = ყველა შეუნახავი ცვლილება დაიკარგება.
 confirm-discard-changes-dialog-confirm-button = გაუქმება
@@ -190,5 +200,6 @@ about-logins-vulnerable-alert-learn-more-link = იხილეთ ვრცლ�
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = ჩანაწერი ანგარიშისთვის { $loginTitle } ამ მომხმარებლის სახელით უკვე არსებობს. <a data-l10n-name="duplicate-link">გსურთ გასავლა ამ ჩანაწერზე?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = შეცდომა, ამ პაროლის შენახვისას.

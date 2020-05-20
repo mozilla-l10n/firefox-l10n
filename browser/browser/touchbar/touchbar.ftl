@@ -20,6 +20,7 @@ open-location = მოძებნეთ ან შეიყვანეთ მ�
 share = გაზიარება
 close-window = ფანჯრის დახურვა
 open-sidebar = გვერდითი ზოლები
+
 # This string describes shortcuts for search.
 search-popover = ძიების მალსახმობები
 # Describes searches limited to a specific scope

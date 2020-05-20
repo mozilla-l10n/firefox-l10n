@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "წერილების შექმნა და დამისამართება">
 <!ENTITY addressingGroupTitle.label "დამისამართება">
 <!ENTITY addressingText.label      "მისამართების ძებნისას:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "წერილების შექმნა">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "წერილების შედგენა HTML ფორმატში">
 <!ENTITY useHtml.accesskey                    "შ">
 <!ENTITY autoQuote.label                      "პასუხისას დედნის ავტომატური ციტირება">
 <!ENTITY autoQuote.accesskey                  "პ">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "შემდეგ,">
-<!ENTITY then.accesskey                       "ე">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "ციტირებისას,">
 <!ENTITY quoting.accesskey                    "ც">

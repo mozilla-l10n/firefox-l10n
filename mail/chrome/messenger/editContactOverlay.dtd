@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "წიგნაკი:">
 <!ENTITY editContactAddressBook.accesskey "წ">
 
-<!ENTITY editContactPanelCancel.label "გაუქმება">
-<!ENTITY editContactPanelCancel.accesskey "გ">
-
 <!ENTITY editContactPanelDone.label "მზადაა">
 <!ENTITY editContactPanelDone.accesskey "მ">
 

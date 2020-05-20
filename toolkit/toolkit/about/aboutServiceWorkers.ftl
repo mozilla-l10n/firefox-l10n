@@ -9,17 +9,12 @@ about-service-workers-title = Service Worker-ების შესახებ
 about-service-workers-main-title = დარეგისტრებული Service Worker-ები
 about-service-workers-warning-not-enabled = Service Worker-ები ჩართული არაა.
 about-service-workers-warning-no-service-workers = დარეგისტრებული Service Worker-ები არ მოიძებნა.
+
 # The original title of service workers' information
 #
 # Variables:
 #   $originTitle: original title
 origin-title = წარმომქმნელი: { $originTitle }
-# Show if app id is in isolated browser element, the term "InBrowserElement" should not be translated
-#
-# Variables:
-#   $appId: the application ID
-#   $isInIsolatedElement: "true" or "false" based on if the app id is in isolate element
-app-title = { -brand-short-name } აპლიკაციის ID { $appId } – InBrowserElement { $isInIsolatedElement }
 
 ## These strings are for showing the information of workers.
 ##
@@ -34,8 +29,12 @@ active-cache-name = <strong>მოქმედი კეშის დასა�
 waiting-cache-name = <strong>დაყოვნებული კეშის დასახელება:</strong> { $name }
 push-end-point-waiting = <strong>Push-ის ბოლო წერტილი:</strong> { waiting }
 push-end-point-result = <strong>Push-ის ბოლო წერტილი:</strong> { $name }
+
 # This term is used as a button label (verb, not noun).
 update-button = განახლება
+
 unregister-button = რეგისტრაციის გაუქმება
+
 unregister-error = ამ Service Worker-ის ჩანაწერიდან ამოშლა ვერ მოხერხდა.
+
 waiting = დაცდა…

@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "ყველაფრის მონიშვნა">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "ყ">
+
 <!ENTITY findCmd.label             "ძებნა">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "ძ">

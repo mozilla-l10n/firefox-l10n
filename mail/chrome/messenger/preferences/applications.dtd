@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "ფაილების ბმების საცავის ახალი მომსახურების დამატება">
 <!ENTITY removeCloudFileAccount.label     "მოცილება">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "ანგარიშზე შესვლა აუცილებელია საცავის ამ მომსახურების პარამეტრების სანახავად.">
-<!ENTITY authRequired.button.label        "შესვლა">
-<!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY findCloudFileProviders.label     "მეტი მომსახურების მოძიება…">
 

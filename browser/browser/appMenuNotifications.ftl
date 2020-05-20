@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = გ
 appmenu-addon-private-browsing-message = ახლად დაყენებულ გაფართოებებს { -brand-shorter-name } არ გაუშვებს პირად ფანჯრებში, სანამ თქვენ არ დაუშვებთ პარამეტრებიდან.
 appmenu-addon-private-browsing-learn-more = იხილეთ, თუ როგორ იმართება გაფართოების პარამეტრები.
+    
 appmenu-new-tab-controlled =
     .label = ახალი ჩანართის გვერდი შეიცვალა.
     .buttonlabel = ცვლილებების დატოვება

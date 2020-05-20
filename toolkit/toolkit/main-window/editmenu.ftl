@@ -13,21 +13,27 @@
 editmenu-undo =
     .label = დაბრუნება
     .accesskey = დ
+
 editmenu-redo =
     .label = კვლავ შესრულება
     .accesskey = კ
+
 editmenu-cut =
     .label = ამოჭრა
     .accesskey = ჭ
+
 editmenu-copy =
     .label = ასლი
     .accesskey = ა
+
 editmenu-paste =
     .label = ჩასმა
     .accesskey = ჩ
+
 editmenu-delete =
     .label = წაშლა
     .accesskey = წ
+
 editmenu-select-all =
     .label = ყველას მონიშვნა
     .accesskey = ყ

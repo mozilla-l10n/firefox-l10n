@@ -9,24 +9,12 @@ ok = გასაგებია
 http = HTTP
 sockets = სოკეტები:
 dns = DNS
-dnssuffix = DNS-ბოლოსართი
 websockets = WebSockets
 refresh = გაახლება
 auto-refresh = თვითგაახლება ყოველ 3 წამში
 hostname = ჰოსტის სახელი
 port = პორტი
 http2 = HTTP/2
-about-networking-title = ქსელის შესახებ
-about-networking-http = HTTP
-about-networking-sockets = სოკეტები:
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS-ბოლოსართი
-about-networking-websockets = WebSockets
-about-networking-refresh = გაახლება
-about-networking-auto-refresh = თვითგაახლება ყოველ 3 წამში
-about-networking-hostname = ჰოსტის სახელი
-about-networking-port = პორტი
-about-networking-http-version = HTTP-ვერსია
 ssl = SSL
 active = მოქმედი
 idle = უქმი
@@ -69,8 +57,18 @@ rcwn-avg-long = გრძელი საშუალო
 rcwn-std-dev-long = გრძელი სტანდარტული გადახრა
 rcwn-cache-slow = კეშის დაყოვნების რაოდენობა
 rcwn-cache-not-slow = კეშის დაუყოვნებლობის რაოდენობა
-networkid = ქსელის ID
-networkid-id = ქსელის ID
+
+about-networking-title = ქსელის შესახებ
+about-networking-http = HTTP
+about-networking-sockets = სოკეტები:
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS-ბოლოსართი
+about-networking-websockets = WebSockets
+about-networking-refresh = გაახლება
+about-networking-auto-refresh = თვითგაახლება ყოველ 3 წამში
+about-networking-hostname = ჰოსტის სახელი
+about-networking-port = პორტი
+about-networking-http-version = HTTP-ვერსია
 about-networking-ssl = SSL
 about-networking-active = მოქმედი
 about-networking-idle = უქმი
@@ -118,8 +116,6 @@ about-networking-networkid-id = ქსელის ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = ქსელის მაკავშირებელი გამართულია
-networkid-statusKnown = ქსელის მაკავშირებლის მდგომარეობა უცნობია
 about-networking-networkid-is-up = ქსელის მაკავშირებელი გამართულია
 about-networking-networkid-status-known = ქსელის მაკავშირებლის მდგომარეობა უცნობია
 

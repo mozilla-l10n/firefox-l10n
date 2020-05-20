@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = მომსახურების გამოყენება
     .accesskey = რ
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (ნაგულისხმევი)
     .tooltiptext = ნაგულისხმევი URL-ბმული DNS-ის HTTPS-ით გადასაცემად
+
 connection-dns-over-https-url-custom =
     .label = მითითებული
     .accesskey = თ
     .tooltiptext = შეიყვანეთ სასურველი URL-ბმული DNS-ის HTTPS-ით გადასაცემად
+
 connection-dns-over-https-custom-label = მითითებული
