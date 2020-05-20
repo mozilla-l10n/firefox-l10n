@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = { $hostname } адресіне байланысты орнату кезінде қате кетті. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Қате коды: { $error }
+
 psmerr-ssl-disabled = Қауіпсіз байланысты орнату мүмкін емес, SSL хаттамасы сөндірулі тұр.
 psmerr-ssl2-disabled = Сервермен байланыс орнату мүмкін емес, өйткені ол ескі, қауіпсіз емес SSL хаттамасын қолдануда.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Сіз алған сертификат қате.  Сервер администраторымен не электронды пошта алушысымен хабарласып, келесі ақпаратты беріңіз:
     
     Сертификат нөмірі осы сертификат шығару орталығы шығарған басқа бір сертификаттың нөмірімен сәйкес болып тұр. Нөмірі ерекше жаңа сертификат алыңыз.
+
 ssl-error-export-only-server = Қорғалған байланысты орнату сәтсіз аяқталды. Торап жоғары дәрежелі шифрлеуді қолдамайды.
 ssl-error-us-only-server = Қорғалған байланысты орнату сәтсіз аяқталды. Торап сұраған жоғары дәрежелі шифрлеуге қолдау жоқ.
 ssl-error-no-cypher-overlap = Қорғалған байланысты орнату сәтсіз аяқталды: шифрлеудің жалпы алгоритмдері жоқ.

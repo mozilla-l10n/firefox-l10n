@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Жабу
     .accesskey = Ж
+
 show-passwords =
     .label = Парольдерді көрсету
     .accesskey = п

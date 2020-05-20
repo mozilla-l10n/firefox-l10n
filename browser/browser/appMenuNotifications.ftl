@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = а
 appmenu-addon-private-browsing-message = { -brand-shorter-name } ішіне қосылған әрбір жаңа кеңейту жекелік шолу терезелерінде жасамайды, сіз оған рұқсат беруіңіз керек.
 appmenu-addon-private-browsing-learn-more = Кеңейту баптауларын қалай басқаруға болатынын білу.
+    
 appmenu-new-tab-controlled =
     .label = Сіздің жаңа бетіңіз өзгертілген.
     .buttonlabel = Өзгерістерді сақтау

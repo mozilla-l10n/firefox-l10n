@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Қаріп:">
 <!ENTITY font.accesskey                       "п">
-<!ENTITY size.label                           "Өлшемі:">
-<!ENTITY size.accesskey                       "ш">
 <!ENTITY fontSize.label                       "Өлшемі:">
 <!ENTITY fontSize.accesskey                   "м">
 <!ENTITY useReaderDefaults.label              "Пайдаланушының үнсіз келісім түстерін қолдану">

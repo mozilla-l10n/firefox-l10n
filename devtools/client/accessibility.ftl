@@ -6,15 +6,19 @@
 ### These strings are used inside the Accessibility panel.
 
 accessibility-learn-more = Көбірек білу
+
 accessibility-text-label-header = Мәтіндік белгілер мен атаулар
+
 accessibility-keyboard-header = Пернетақта
 
 ## Text entries that are used as text alternative for icons that depict accessibility isses.
 
 accessibility-warning =
     .alt = Ескерту
+
 accessibility-fail =
     .alt = Қате
+
 accessibility-best-practices =
     .alt = Озық тәжірибелер
 
@@ -23,7 +27,9 @@ accessibility-best-practices =
 ## with its text label or accessible name.
 
 accessibility-text-label-issue-area = <span>href</span> атрибуты бар <div>area</div> элементтеріне балама мәтін орнату үшін <code>alt</code> атрибутын қолданыңыз. <a>Көбірек білу</a>
+
 accessibility-text-label-issue-document-title = Құжаттарда <code>title</code> атрибуты болуы тиіс. <a>Көбірек білу</a>
+
 accessibility-text-label-issue-iframe = <span>iframe</span> мазмұнын сипаттау үшін, <code>title</code>атрибутын қолданыңыз. <a>Көбірек білу</a>
 
 ## Text entries for a paragraph used in the accessibility panel sidebar's checks section

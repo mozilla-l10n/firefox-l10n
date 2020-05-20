@@ -13,6 +13,7 @@ enable-common-message = Firefox Әзірлеуші құралдары үнсіз
 enable-learn-more-link = Әзірлеуші құралдары туралы көбірек білу
 enable-enable-button = Әзірлеуші құралдарын іске қосу
 enable-close-button = Бұл бетті жабу
+
 welcome-title = Firefox әзірлеуші құралдарына қош келдіңіз!
 newsletter-title = Әзірлеушілерге арналған Mozilla жаңалықтар таратуы
 newsletter-message = Әзірлеушілер жаңалықтары, кеңестері және ресурстарды тікелей кіріс бумаңызға алыңыз.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Мен Mozilla-ның менің ақпаратымд
 newsletter-subscribe-button = Жазылу
 newsletter-thanks-title = Рахмет!
 newsletter-thanks-message = Mozilla-ға байланысты жаңалықтар таспасына жазылуды осыған дейін растамаған болсаңыз, оны жасауыңыз керек болуы мүмкін. Поштаңыздың кіріс және спам бумаларынан бізден хатты іздеңіз.
+
 footer-title = Firefox Developer Edition
 footer-message = Әзірлеуші құралдарынан көбірек бірнәрсе іздедіңіз бе? Әзірлеушілер және заманауи жұмыс тәртібі үшін арнайы жасалған Firefox браузерін қолданып көріңіз.
 footer-learn-more-link = Көбірек білу
+
 features-learn-more = Көбірек білу
 features-inspector-title = Бақылаушы
 features-inspector-desc = Пиксельдік дәлдікті жайманы құрастыру үшін кодты бақылап, түзетіңіз. <a data-l10n-name="learn-more">{ features-learn-more }</a>

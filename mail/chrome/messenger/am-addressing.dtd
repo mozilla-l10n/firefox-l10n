@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Құрастыру және адрестеу">
 <!ENTITY addressingGroupTitle.label "Адрестеу">
 <!ENTITY addressingText.label      "Адрестерді қарау кезінде:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Құрылымы">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Хабарламаларды HTML пішімінде құрастыру">
 <!ENTITY useHtml.accesskey                    "с">
 <!ENTITY autoQuote.label                      "Жауап берге кезде түпнұсқа хабарламасын дәйексөз ретінде алу">
 <!ENTITY autoQuote.accesskey                  "а">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "Одан кейін,">
-<!ENTITY then.accesskey                       "О">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "Дәйексөз ретінде алу кезінде,">
 <!ENTITY quoting.accesskey                    "к">

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Қаріптер
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Келесі символдар жинақтары үшін қаріптер
     .accesskey = с
+
 fonts-langgroup-arabic =
     .label = Арабша
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Пропорционалды
     .accesskey = П
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Өлшемі
     .accesskey = м
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Ені біркелкі
     .accesskey = Е
+
 fonts-monospace-size = Өлшемі
     .accesskey = л
+
 fonts-minsize = Қаріптің мүмкін болатын ең аз өлшемі
     .accesskey = а
+
 fonts-minsize-none =
     .label = Жоқ
+
 fonts-allow-own =
     .label = Орнатылғаннан бөлек, веб-сайттарға өздерінің қаріптерін қолдануға рұқсат беру
     .accesskey = О
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Ескірген құрама үшін мәтін кодталуы
 fonts-languages-fallback-desc = Бұл мәтін кодталуы кодталуды көрсетпейтін ескірген құраманы көрсету үшін қолданылатын болады.
+
 fonts-languages-fallback-label = Қосалқы мәтін кодталуы
     .accesskey = т
+
 fonts-languages-fallback-name-auto =
     .label = Ағымдағы локаль үшін негізгі
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Вьетнам
 fonts-languages-fallback-name-other =
     .label = Басқа (Батыс Еуропалықты қоса)
-fonts-very-large-warning-title = Қаріптің минималды өлшемі тым үлкен
-fonts-very-large-warning-message = Сіз қаріптің минималды өлшемін өте үлкен етіп таңдадыңыз (24 пиксельден үлкен). Бұл әрекет осы парақ сияқты баптаулар беттерін көруді қиын не мүмкін емес қылуы мүмкін.
-fonts-very-large-warning-accept = Өзгерістерімді сонда да сақтау
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

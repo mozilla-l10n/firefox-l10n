@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Қауіпсіз шолу журналдау �
 url-classifier-debug-modules = Ағымдағы журналдау модульдері
 url-classifier-debug-sbjs-modules = Қауіпсіз шолу JS журналдауы
 url-classifier-debug-file = Ағымдағы журналдау файлы
+
 url-classifier-trigger-update = Жаңарту күйін ауыстыру
 url-classifier-not-available = Қ/Ж
 url-classifier-disable-sbjs-log = Қауіпсіз шолу JS журналдауын сөндіру

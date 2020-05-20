@@ -7,7 +7,9 @@ about-config-warning-title = Міне, айдаһар!
 about-config-warning-text = Осы баптауларды өзгерту тұрақтылық, қауіпсіздік пен өнімділіктің құлдырауына әкеп соғуы мүмкін. Сенімді болсаңыз ғана, өзгертіңіз.
 about-config-warning-checkbox = Маған бұл туралы келесіде ескерту!
 about-config-warning-button = Осыны қабылдаймын!
+
 about-config2-title = Кеңейтілген баптаулар
+
 about-config-search-input =
     .placeholder = Іздеу
 
@@ -20,18 +22,24 @@ about-config-intro-warning-button = Тәуекелді қабылдап, жал�
 
 
 
+##
+
 # This is shown on the page before searching but after the warning is accepted.
 about-config-caution-text = Бұл баптауларды өзгерту { -brand-short-name } өнімділік немесе қауіпсіздігіне әсерін тигізуі мүмкін.
+
 about-config-page-title = Кеңейтілген баптаулар
+
 about-config-search-input1 =
     .placeholder = Баптау атынан іздеу
 about-config-show-all = Барлығын көрсету
+
 about-config-pref-add = Қосу
 about-config-pref-toggle = Ауыстыру
 about-config-pref-edit = Түзету
 about-config-pref-save = Сақтау
 about-config-pref-reset = Тастау
 about-config-pref-delete = Өшіру
+
 about-config-pref-add-button =
     .title = Қосу
 about-config-pref-toggle-button =

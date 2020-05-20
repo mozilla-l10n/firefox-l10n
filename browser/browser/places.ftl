@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Жаңа жекелік терезесінде ашу
     .accesskey = к
+
 places-new-bookmark =
     .label = Жаңа бетбелгі…
     .accesskey = б
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Жаңа ажыратқыш
     .accesskey = а
+
 places-view =
     .label = Қарау
     .accesskey = р
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Күн мен сайт бойынша
     .accesskey = м
+
 places-history-search =
     .placeholder = Тарихтан іздеу
 places-bookmarks-search =
     .placeholder = Бетбелгілерден іздеу
+
 places-delete-domain-data =
     .label = Бұл парақты өшіру
     .accesskey = Б

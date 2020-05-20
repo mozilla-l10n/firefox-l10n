@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Адрес кітапшасы:">
 <!ENTITY editContactAddressBook.accesskey "А">
 
-<!ENTITY editContactPanelCancel.label "Бас тарту">
-<!ENTITY editContactPanelCancel.accesskey "Б">
-
 <!ENTITY editContactPanelDone.label "Дайын">
 <!ENTITY editContactPanelDone.accesskey "Д">
 

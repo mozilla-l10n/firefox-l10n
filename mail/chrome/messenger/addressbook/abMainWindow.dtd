@@ -174,9 +174,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newIM.tooltip                                  "Лезде хабарламаны немесе чатты жіберу">
 <!ENTITY deleteButton2.tooltip                          "Таңдалған нәрсені өшіру">
 
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "Адрестік кітапшалар">
-
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Аты немесе эл. поштасы">
 <!ENTITY SearchNameOrEmail.accesskey                    "т">

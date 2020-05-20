@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Жаңа Filelink сақтау қызметін қосу">
 <!ENTITY removeCloudFileAccount.label     "Өшіру">
 <!ENTITY removeCloudFileAccount.accesskey "ш">
-<!ENTITY authRequired.description         "Бұл сақтау қызметінің баптауларын қарау үшін сіздің авторизацияңыз керек.">
-<!ENTITY authRequired.button.label        "Авторизация беру">
-<!ENTITY authRequired.button.accesskey    "в">
 
 <!ENTITY enableCloudFileAccountOffer.label "Келесіден үлкен файлдарды бөлісуді ұсыну">
 <!ENTITY enableCloudFileAccountOffer.mb "МБ">
