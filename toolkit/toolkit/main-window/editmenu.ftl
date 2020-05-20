@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = Firtu
     .accesskey = F
+
 editmenu-redo =
     .label = Waɗtu
     .accesskey = W
+
 editmenu-cut =
     .label = Dottu
     .accesskey = D
+
 editmenu-copy =
     .label = Natto
     .accesskey = N
+
 editmenu-paste =
     .label = Ɗakku
     .accesskey = Ɗ
+
 editmenu-delete =
     .label = Momtu
     .accesskey = M
+
 editmenu-select-all =
     .label = Labo Fof
     .accesskey = F

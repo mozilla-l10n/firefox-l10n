@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "Ceerndirgol Kesol">
 <!ENTITY cmd.new_separator.accesskey       "C">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Loowtu Maantore Tolbecce">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "L">
-
 <!ENTITY col.name.label          "Innde">
 <!ENTITY col.tags.label          "Tage">
 <!ENTITY col.url.label           "Nokkuure">

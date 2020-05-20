@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Ponte
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Ponte
     .accesskey = P
+
 fonts-langgroup-arabic =
     .label = Aarabeere
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Potpotondirɗe
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = San Serif
+
 fonts-proportional-size = Ɓetol
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Ɓetol
     .accesskey = e
+
 fonts-minsize = Ɓetol fontere lesiwol
     .accesskey = o
+
 fonts-minsize-none =
     .label = Ndiga
+
 fonts-allow-own =
     .label = Yamir kelle yo kuutoro ponte mum en keeriiɗe waasa wonde ɗe am dow ɗoo ɗee
     .accesskey = Y
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Dokkitannde binndol Loowdi Gaadanteeri
 fonts-languages-fallback-desc = Ndee dokkitannde binndol huutortee ko e loowdi gaadanteeri korotoondi hollitde dokkitannde mum.
+
 fonts-languages-fallback-label = Yantirde Dokkitannde Binndi
     .accesskey = B
+
 fonts-languages-fallback-name-auto =
     .label = Goowaaɗo Lokaalde Wonaande
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Wiyetnamiire
 fonts-languages-fallback-name-other =
     .label = Goɗɗe (wonndude e Orop Hirnaange)
-fonts-very-large-warning-title = Ɓetol fontere mawnde lesol
-fonts-very-large-warning-message = A labiima ɓetol fontere leslesol mawnde sanne (ɓurii 24 piksele). Ɗum ena waawi saɗtinde walla haɗde kuutoragol yoga e kelle teelto bayɗe hono ngoo-ɗoo.
-fonts-very-large-warning-accept = Teeŋtin bayle am tan
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

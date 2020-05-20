@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = E
 appmenu-addon-private-browsing-message = Timmitte kese ɓeyduɗaa e { -brand-shorter-name } ndogataa e kenorɗe cuuriiɗe so wonaa a yamir ɗum e nder teelte ɗee.
 appmenu-addon-private-browsing-learn-more = Humpito hol no toppitortoɗaa teelte timmitte
+    
 appmenu-new-tab-controlled =
     .label = Tabbere maa Hesere wayliima.
     .buttonlabel = Mooftu Bayle

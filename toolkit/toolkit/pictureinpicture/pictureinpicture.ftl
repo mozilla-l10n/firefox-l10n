@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Sabbo
 pictureinpicture-play =
     .aria-label = Tar
+
 pictureinpicture-mute =
     .aria-label = Muumɗin
 pictureinpicture-unmute =
     .aria-label = Ittu muumɗinal
+

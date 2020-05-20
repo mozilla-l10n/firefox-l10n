@@ -33,6 +33,7 @@ certificate-viewer-purposes = Paandaale
 certificate-viewer-required = Ina waɗɗii
 certificate-viewer-version = Yamre
 certificate-viewer-miscellaneous = Cariɗum
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Aawto

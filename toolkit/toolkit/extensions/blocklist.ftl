@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Hurmitin { -brand-short-name }
     .accesskey = H
+
 blocklist-label-summary = { -brand-short-name } hollitii wonde ɗee-ɗoo ɓeyditte ena nganndiraa addude caɗeele jamɗugol walla kisal:
 blocklist-soft-and-hard = Ɓeyditte gonnduɗe e caɗeele mawɗe kisal walla jamɗugol ndaaƴaama. Goɗɗe ɗee ɓuri famɗude caɗeele ena wasiyaa yo a hurmitin tawa ko ɗe daaƴaaɗe.
 blocklist-hard-blocked = Ɗee-ɗoo ɓeyditte ena ngonndi e caɗeele mawɗe kisal walla jamɗugol tee ɗe ndaaƴaama, kono alaa e sago kurmitinaa ngam teeŋtinde daaƴgol majje.
 blocklist-soft-blocked = Ngam kisal maa, ena teeŋtinaa wasiya yo a hurmitin tawa ɗee ɓeyditte ena ndaaƴaa.
 blocklist-more-information =
     .value = Ɓeydu humpito
+
 blocklist-blocked =
     .label = Ko daaƴaaɗo
 blocklist-checkbox =

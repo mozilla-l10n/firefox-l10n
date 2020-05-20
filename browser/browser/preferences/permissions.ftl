@@ -5,49 +5,61 @@
 permissions-window =
     .title = Paltooje
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Ñiiɓirɗe lowre
     .accesskey = d
+
 permissions-block =
     .label = Falo
     .accesskey = F
+
 permissions-session =
     .label = Yamir e Naatol
     .accesskey = N
+
 permissions-allow =
     .label = Yamir
     .accesskey = Y
+
 permissions-site-name =
     .label = Lowre geese
+
 permissions-status =
     .label = Ngonka
+
 permissions-remove =
     .label = Momtu Lowre
     .accesskey = M
+
 permissions-remove-all =
     .label = Momtu Lowe Fof
     .accesskey = e
+
 permissions-button-cancel =
     .label = Haaytu
     .accesskey = H
+
 permissions-button-ok =
     .label = Danndu Bayle
     .accesskey = D
+
 permissions-searchbox =
     .placeholder = Yiylo e Lowre
+
 permissions-capabilities-allow =
     .label = Yamir
 permissions-capabilities-block =
     .label = Falo
 permissions-capabilities-prompt =
     .label = Naamno Sahaa Kala
+
 permissions-capabilities-listitem-allow =
     .value = Yamir
 permissions-capabilities-listitem-block =
     .value = Falo
-permissions-capabilities-listitem-allow-first-party =
-    .value = Yamir heftinaaɓe tan
 permissions-capabilities-listitem-allow-session =
     .value = Yamir e Naatol
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = Tiiɗno naatnu innde koɗol moƴƴol
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = Paltooje - Ndeenka Dewindol
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = A daaƴii Ndeenka Dewindol e ɗee kelle geese.
 permissions-exceptions-content-blocking-window =
     .title = Luulnde - Paddagol loowdi
     .style = { permissions-window.style }
@@ -102,6 +110,8 @@ permissions-exceptions-autoplay-media-window2 =
     .style = { permissions-window.style }
 permissions-exceptions-autoplay-media-desc2 = Aɗa waawi hollitde hol lowe mbaawi walla mbaawataa janngude mejaa ɗoon e ɗoon wondude e hito. Tappu ñiiɓirde lowre njiɗ-ɗaa yiilde ndee, caggal ɗuum ndobo-ɗaa e Faddo walla Yamir.
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -121,6 +131,8 @@ permissions-site-location-desc = Ɗee lowe ɗaɓɓitii heɓde nokkuure maa. Aɗa
 permissions-site-location-disable-label =
     .label = Daaƴ ɗaɓɓitanɗe kese naamnotooɗe yettaade nokku maa
 permissions-site-location-disable-desc = Ɗuum maa haɗ kala lowre nde limtaaka dow ɗoo ɗaɓɓit-de yamiroore ngam heɓde nokkuure maa. Daaƴde keɓgol nokkuure maa ina waawi helde won e fannuuji lowre ndee.
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

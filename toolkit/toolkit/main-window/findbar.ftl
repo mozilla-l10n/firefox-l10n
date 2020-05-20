@@ -9,16 +9,15 @@ findbar-next =
     .tooltiptext = Yiylo cilol garowol konngol ngol
 findbar-previous =
     .tooltiptext = Yiylo cilol ɓennugol konngol ngol
+
 findbar-find-button-close =
     .tooltiptext = Uddu palal njiilaw
-findbar-highlight-all =
-    .label = Jalbin Fof
-    .accesskey = l
-    .tooltiptext = Jalbin cili konngol ngol kala
+
 findbar-case-sensitive =
     .label = Jaaɓnu darnde
     .accesskey = d
     .tooltiptext = Yiylo wonndude e jaaɓgol darnde
+
 findbar-entire-word =
     .label = Kelme Kuuɓɗe
     .accesskey = K

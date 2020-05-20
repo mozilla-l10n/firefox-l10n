@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Mi jaɓii jeemaade!
 config-about-warning-checkbox =
     .label = Hollu ngoo reentino laawol garowol
+
 config-search-prefs =
     .value = Yiylo:
     .accesskey = i
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Natto
     .accesskey = N
+
 config-copy-name =
     .label = Natto Innde
     .accesskey = I
+
 config-copy-value =
     .label = Natto Kiisol
     .accesskey = K
+
 config-modify =
     .label = Waylu
     .accesskey = W
+
 config-toggle =
     .label = Toggilo
     .accesskey = T
+
 config-reset =
     .label = Firlit
     .accesskey = F
+
 config-new =
     .label = Kesum
     .accesskey = e
+
 config-string =
     .label = Ɓoggol
     .accesskey = o
+
 config-integer =
     .label = Timmunde
     .accesskey = T
+
 config-boolean =
     .label = Buleaare
     .accesskey = B
+
 config-default = goowaaɗo
 config-modified = baylaaɗo
 config-locked = cokaaɗo
+
 config-property-string = ɓoggol
 config-property-int = timmunde
 config-property-bool = buleyaare
+
 config-new-prompt = Naatnu innde suɓoraande
+
 config-nan-title = Kiisol moƴƴaani
 config-nan-text = Binndol naatnu-ɗaa ngol wonaa limoore
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Kiisol { $type } kesol
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Naatnu kiisol { $type }

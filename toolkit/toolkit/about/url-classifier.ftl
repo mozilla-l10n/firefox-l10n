@@ -29,6 +29,7 @@ url-classifier-debug-sb-modules = Jame kewol banngagol kisnaaɗe
 url-classifier-debug-modules = Jame kewol gonaaɗe
 url-classifier-debug-sbjs-modules = Banngagol nder kewol JS kisnangol
 url-classifier-debug-file = Fiilde kewol wonaande
+
 url-classifier-trigger-update = Hesɗitin Jooni
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = Daaƴ Banngagol e Sutura JS Log

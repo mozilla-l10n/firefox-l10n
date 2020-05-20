@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Uddu
     .accesskey = U
+
 show-passwords =
     .label = Hollu Finndeeji
     .accesskey = H

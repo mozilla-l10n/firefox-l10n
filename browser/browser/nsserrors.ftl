@@ -5,13 +5,16 @@
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Kod juumre: { $error }
+
 psmerr-ssl-disabled = Waawaa seŋaade e kisal sabu jaɓɓitorde SSL ndee ko daaƴaande.
 psmerr-ssl2-disabled = Waawaa seŋaade e kisal sabu ndee lowre huutortoo ko yamre ɓooynde, nde hisaani jaɓɓitorde SSL ndee.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Keɓ-ɗaa ko seedamfaagu ngu moƴƴaani.  Tiiɗno jokkondir e jiiloowo sarworde oo walla jokkondiral iimeel oo ngam hokkude-ɓe ngoo humpito:
     
     Seedamfaagu maajogii ko tonngoode degginol nandugole seedamfaagu ngonɗngu ngu kohowo seedamfaagu bayyini.  Tiiɗno heɓ seedamfaagu kesu njogiingu tonngoode degginol gootol.
+
 ssl-error-export-only-server = Waawaa jokkondireede e kisal. Peer tammbaaki gangol dowrowol.
 ssl-error-us-only-server = Waawaa jokkondireede e kisal. Peer ina ɗaɓɓi gangol dowrowol ngol tammbaaka ɗoo.
 ssl-error-no-cypher-overlap = Waawaa jokkondirde Peer nder kisal: alaa algoritma goowaaɗo woni ɗoo.

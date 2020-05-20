@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Yiylo
     .aria-label = Yiylo
+
 newtab-search-box-search-the-web-text = Yiylo geese
 newtab-search-box-search-the-web-input =
     .placeholder = Yiylo geese
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Taƴto Lowre Dowrowre
 newtab-topsites-title-label = Tiitoonde
 newtab-topsites-title-input =
     .placeholder = Naatnu tiitoonde
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Tappu walla ɗakku URL
 newtab-topsites-url-validation = URL Moƴƴo ina naamnaa
+
 newtab-topsites-image-url-label = Neɗɗin ngal natal URL
 newtab-topsites-use-image-link = Huutoro natal neɗɗinangal…
 newtab-topsites-image-validation = loowgol natal gallii. Enndir URL goɗɗo.
@@ -57,10 +60,12 @@ newtab-confirm-delete-history-p2 = Ngal baɗal waawaa firteede.
 newtab-menu-section-tooltip =
     .title = Uddit cuɓirgol
     .aria-label = Uddit cuɓirgol
+
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Momtu
     .aria-label = Momtu
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -127,6 +132,7 @@ newtab-label-removed-bookmark = Maantorol omtaama
 newtab-label-recommended = Ina tiindii
 newtab-label-saved = Danndaama e { -pocket-brand-name }
 newtab-label-download = Awtaama
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -164,10 +170,12 @@ newtab-section-header-pocket = Waggini ɗum ko { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Fuɗɗo wanngaade, min kolloymaa huunde e binndanɗe mawɗe ɗee, widewooji kañum e kelle goɗɗe ɗe njilliɗaa ko ɓooyaani walla maantoraaɗe ɗoo.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Rutto ɗoo goɗngol ngam daari goɗɗi { $provider }. A waawaa fadde ? Suvo tiitoonde lollunde ngam yiytude e geese hee daari goɗɗi.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
