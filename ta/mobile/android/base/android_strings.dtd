@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; இருப்பிட சேவை இயக்கத்தில்">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "தானியக்க புதுப்பித்தல்கள்">
-<!ENTITY pref_update_autodownload_wifi "அருகலை வழியாக மட்டும்">
-<!ENTITY pref_update_autodownload_never "எப்போதுமில்லை">
-<!ENTITY pref_update_autodownload_always "எப்போதும்">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "உதவி">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "புத்தகக்குறிகள் மற்றும் வரலாறு">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName;விற்கு புதுப்பிப்பு கிடைக்கிறது">
-<!ENTITY updater_start_select2 "பதிவிறக்க தொடவும்">
-
-<!ENTITY updater_downloading_title2 "&brandShortName;ஐ பதிவிறக்குகிறது">
-<!ENTITY updater_downloading_title_failed2 "பதிவிறக்கம் தோல்வியடைந்தது">
-<!ENTITY updater_downloading_select2 "பதிவிறக்கம் முடிந்த உடனே தட்டி மேம்பாட்டை செயல்படுத்தவும்">
-<!ENTITY updater_downloading_retry2 "மறுமுயற்சி செய்ய தொடவும்">
-
-<!ENTITY updater_apply_title3 "&brandShortName; என்பதற்கு புதுப்பிப்புகள் பதிவிறக்கப்பட்டது">
-<!ENTITY updater_apply_select3 "நிறுவுவதற்குத் தொடவும்">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "கோப்பு மற்றும் மேம்படுத்தல்களை பதிவிறக்க, சேமிப்பிடத்தை அணுக &brandShortName; என்பதை அனுமதி.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "அனுமதி">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "புதிய விருந்தினர் அமர்வு">
 <!ENTITY exit_guest_session "விருந்தினர் அமர்விலிருந்து வெளியேறு">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "ஒலியும் ஒளியும்">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; குறிப்புகள் உத்திகள்">
-<!ENTITY updater_notification_channel "செயலியின் புதுப்பிப்புகள்">
 <!ENTITY synced_tabs_notification_channel "ஒத்திசைவு கீற்றுகள்">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

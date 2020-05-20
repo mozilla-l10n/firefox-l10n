@@ -8,6 +8,7 @@ password-quality-meter = கடவுச்சொல் தர மீட்ட�
 
 change-password-window =
     .title = முதன்மை கடவுச்சொல்லை மாற்று
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = பாதுகாப்பு சாதனம்: { $tokenName }

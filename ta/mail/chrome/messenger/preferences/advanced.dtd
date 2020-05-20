@@ -60,8 +60,6 @@
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "புதுப்பிப்புகள் உள்ளதா எனப் சரிபார், ஆனால் நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
 <!ENTITY updateCheck.accesskey           "C">
-<!ENTITY updateManual.label              "புதுப்பித்தல்களை பார்க்க வேண்டாம் (பரிந்துரைக்கப்படவில்லை: பாதுகாப்பற்றது)">
-<!ENTITY updateManual.accesskey          "N">
 
 
 

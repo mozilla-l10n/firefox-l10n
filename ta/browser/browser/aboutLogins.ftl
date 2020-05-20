@@ -9,9 +9,12 @@ about-logins-page-title = புகுபதிகைககளும் கட�
 login-app-promo-title = உங்கள் கடவுச்சொற்களை உங்களுடன் எடுத்துச் செல்லுங்கள்
 login-app-promo-android =
     .alt = Google Play இல் பெற
+
 login-filter =
     .placeholder = புகுபதிகைகளைத் தேடு
+
 create-login-button = புதிய புகுபதிகையை உருவாக்கு
+
 fxaccounts-sign-in-text = உங்கள் கடவுச்சொற்களை மற்ற சாதனங்களில் பெறுங்கள்
 fxaccounts-sign-in-button = { -sync-brand-short-name } உள்நுழைக
 fxaccounts-avatar-button =
@@ -21,8 +24,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = பட்டியைத் திற
-# This menuitem is only visible on Windows
-menu-menuitem-import = கடவுச்சொற்களை இறக்குமதி செய்க…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] விருப்பங்கள்
@@ -61,7 +62,6 @@ about-logins-login-intro-heading-logged-in = ஒத்திசைக்கப�
 
 login-item-new-login-title = புதிய உள்நுழைவை உருவாக்கவும்
 login-item-edit-button = தொகு
-login-item-delete-button = அழி
 about-logins-login-item-remove-button = நீக்கு
 login-item-origin-label = வலைத்தள முகவரி
 login-item-origin =
@@ -72,10 +72,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = நகலெடு
 login-item-copied-username-button-text = நகலெடுக்கப்பட்டது!
 login-item-password-label = கடவுச்சொல்
-login-item-password-reveal-checkbox-show =
-    .title = கடவுச்சொல்லை காட்டு
-login-item-password-reveal-checkbox-hide =
-    .title = கடவுச்சொல்லை மறை
 login-item-copy-password-button-text = நகலெடு
 login-item-copied-password-button-text = நகலெடுக்கப்பட்டது
 login-item-save-changes-button = மாற்றங்களைச் சேமி
@@ -84,6 +80,12 @@ login-item-cancel-button = இரத்து
 login-item-time-changed = கடைசி மாற்றம்: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = தோற்றம்: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = கடைசியாகப் பயனில் இருந்த நேரம்: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
 
 ## Master Password notification
 
@@ -101,15 +103,15 @@ enable-password-sync-preferences-button =
            *[other] { -sync-brand-short-name } விருப்பங்களைப் பார்
         }
     .accesskey = V
-confirm-delete-dialog-title = இந்த உள்நுழைவை நீக்கவா?
 
 ## Dialogs
 
 confirmation-dialog-cancel-button = இரத்து
 confirmation-dialog-dismiss-button =
     .title = இரத்து
+
 confirm-delete-dialog-message = இச்செயலை மீட்க முடியாது.
-confirm-delete-dialog-confirm-button = அழி
+
 confirm-discard-changes-dialog-title = சேமிக்காத மாற்றங்களை நிராகரிக்கவா?
 confirm-discard-changes-dialog-message = சேமிக்கப்படாத அனைத்து மாற்றங்களும் இழக்கப்படும்.
 confirm-discard-changes-dialog-confirm-button = நிராகரி
@@ -117,7 +119,8 @@ confirm-discard-changes-dialog-confirm-button = நிராகரி
 ## Breach Alert notification
 
 breach-alert-text = உங்கள் உள்நுழைவு விவரங்களைக் கடைசியாகப் புதுப்பித்ததிலிருந்து இந்த வலைத்தளத்திலிருந்து கடவுச்சொற்கள் கசிந்தன அல்லது திருடப்பட்டன. உங்கள் கணக்கைப் பாதுகாக்க கடவுச்சொல்லை மாற்றவும்.
-breach-alert-link = இந்த மீறல்பற்றி மேலும் அறிக.
+
+## Vulnerable Password notification
 
 ## Error Messages
 

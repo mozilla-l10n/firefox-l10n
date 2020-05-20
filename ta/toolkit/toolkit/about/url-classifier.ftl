@@ -30,6 +30,7 @@ url-classifier-debug-sb-modules = பாதுகாப்பான உலாவ
 url-classifier-debug-modules = தற்போதைய பதிவுச் சிப்பங்கள்:
 url-classifier-debug-sbjs-modules = பாதுகாப்பான உலாவல் JS பதிவு
 url-classifier-debug-file = தற்போதைய பதிவுக் கோப்பு
+
 url-classifier-trigger-update = தூண்டல் புதுப்பிப்பு
 url-classifier-not-available = N/A
 url-classifier-disable-sbjs-log = பாதுகாப்பு உலாவல் JS பதிவை செயல்நீக்கு

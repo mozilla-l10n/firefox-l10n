@@ -9,10 +9,14 @@
 
 title = முக்கியச் செய்திகள்
 heading = உங்கள் { -brand-short-name } சுயவிவரத்திற்கான மாற்றங்கள்
+
 changed-title = என்னென்ன மாற்றப்பட்டுள்ளன?
+
 options-title = என் விருப்பங்கள் என்னவாக இருக்கின்றன?
+
 resources = மூலங்கள்:
 support-link = சுயவிவர மேலாளரைப் பயன்படுத்தி - ஆதரவு கட்டுரை
+
 sync-header = உள்நுழை அல்லது ஒரு { -fxaccount-brand-name } கணக்கை உருவாக்கு
 sync-label = உங்கள் மின்னஞ்சலை உள்ளிடவும்
 sync-input =

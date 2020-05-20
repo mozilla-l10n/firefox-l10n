@@ -99,6 +99,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "முழுத்திரையிலிருந்து வெளியேறு">
 <!ENTITY exitFullScreenCmd.accesskey "F">
+
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -136,7 +137,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
      for the Firefox Account toolbar menu screen.  -->
 
-<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -196,7 +197,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "நிறுத்து">
 <!ENTITY stopCmd.accesskey            "S">
 <!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY goEndCap.tooltip             "இடப் பட்டையில் முகவரிக்கு செல்லவும்">
+
 <!ENTITY printButton.label            "அச்சிடு">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடு">
 
@@ -212,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "செருகி பயன்பாட்டை நிர்வகி">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "இத்தளத்திலிருந்து அறிவிப்புகளை உங்களால் பெற முடிகிறதா என மாற்று">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "நிரந்தர சேமிப்பகத்தில் தரவை வை">
+
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "தொலை கட்டுப்பாட்டில் உலாவி">
 <!ENTITY urlbar.webAuthnAnchor.tooltip                    "வலை உறுதிப்படுத்தல் பலகத்தைத் திற">
 
@@ -237,7 +241,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.flashPluginBlocked.tooltip       "இத்தளத்தில் அடோப் பிளாஷ் செருகியை முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.midiBlocked.tooltip              "இந்த தளத்தில் MIDI அணுகலை முடக்கியுள்ளீர்கள்.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "வரலாற்றைக் காட்டு">
+
 
 <!ENTITY searchItem.title             "தேடு">
 
@@ -302,6 +308,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY manageUserContext.label          "கலன்களை நிர்வகி">
 <!ENTITY manageUserContext.accesskey      "O">
+
 <!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -432,6 +439,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "மேலும்">
 
 <!ENTITY openCmd.commandkey           "l">
+
 <!ENTITY urlbar.placeholder2          "சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
@@ -475,6 +483,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "தேடல் கேள்வி">
+
 <!ENTITY contentSearchSubmit.tooltip  "தேடலைச் சமர்ப்பி">
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
@@ -519,6 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "இணைப்பை புதிய கீற்றில் திற">
+
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkCmd.accesskey        "W">
@@ -567,6 +577,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "இந்த சட்டத்தை புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY pageAction.copyLink.label    "தொடுப்பை நகலெடுக்கவும்">
 
 <!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
@@ -894,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "32em">
 
+
 <!ENTITY uiTour.infoPanel.close "மூடுக">
 
 <!ENTITY panicButton.thankyou.msg1                "உங்கள் சமீபத்திய வரலாறு துடைக்கப்பட்டது.">
@@ -914,6 +926,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "ஒரு துணைநிரல் நீங்கள் பார்க்கும் முகப்புப் பக்கத்தை மாற்றியது. நீங்கள் இந்த மாற்றத்தை விரும்பவில்லையெனில் அமைப்புகளை மீட்டமைக்கலாம்.">
+
 <!ENTITY homepageControlled.header.message "உங்கள் முகப்பு பக்கம் மாற்றப்பட்டது.">
 <!ENTITY homepageControlled.keepButton.label "மாற்றங்களை வைத்திரு">
 <!ENTITY homepageControlled.keepButton.accesskey "K">

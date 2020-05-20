@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = எழுத்துருக்கள்
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = என்பதற்கான எழுத்துருக்கள்
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = அரபு
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = விகிதமாக
     .accesskey = P
+
 fonts-default-serif =
     .label = ஷெரிஃப்
 fonts-default-sans-serif =
     .label = ஸான்ஸ் ஷெரிஃப்
+
 fonts-proportional-size = அளவு
     .accesskey = z
+
 fonts-serif = ஷெரிஃப்
     .accesskey = S
+
 fonts-sans-serif = ஸான்ஸ்-ஷெரிஃப்
     .accesskey = n
+
 fonts-monospace = மோனோஸ்பேஸ்
     .accesskey = M
+
 fonts-monospace-size = அளவு
     .accesskey = e
+
 fonts-minsize = குறைந்தபட்ச எழுத்துருவின் அளவு
     .accesskey = o
+
 fonts-minsize-none =
     .label = ஒன்றுமில்லை
+
 fonts-allow-own =
     .label = உங்கள் தேர்வுகளுக்குப் பதிலாக பக்கங்கள் அதன் சொந்த எழுத்துருக்களைத் தேர்வு செய்ய அனுமதிக்கவும்
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = பழமையான உள்ளடக்கத்திற்கான உரை குறியீடாக்கம்
 fonts-languages-fallback-desc = தனது குறியீடாக்கத்தை அறிவிக்காத பழமையான உள்ளடக்கத்திற்கு இந்த உரை குறியீடாக்கம் பயன்படுத்தப்படும்.
+
 fonts-languages-fallback-label = பின்சார்பு உரை குறிமுறை
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = தற்பொதைய மொழிக்கு முன்னிருப்பு
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = வியட்னாமிய
 fonts-languages-fallback-name-other =
     .label = மற்றவை(மேற்கத்திய ஐரோப்பவையும் உள்ளடக்கியவை)
-fonts-very-large-warning-title = பெரிய குறைந்த எழுத்துரு அளவு
-fonts-very-large-warning-message = நீங்கள் பெரிய குறைந்த எழுத்துரு அளவை தேர்ந்தெடுத்துள்ளீர் ( 24 பிக்சல்களுக்கு மேல்). இது போன்ற முதன்மை கட்டமைப்பு பக்கங்களை பயன்படுத்துவதை இது கடினமாக அல்லது முடியாதாதக ஆக்குகிறது.
-fonts-very-large-warning-accept = எனது மாற்றங்களை எப்படியும் வைத்திரு
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

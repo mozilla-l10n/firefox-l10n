@@ -5,49 +5,61 @@
 permissions-window =
     .title = விதிவிலக்குகள்
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = வலைத்தளத்தின் முகவரி
     .accesskey = d
+
 permissions-block =
     .label = தடு
     .accesskey = B
+
 permissions-session =
     .label = அமர்வுக்கு அனுமதி
     .accesskey = S
+
 permissions-allow =
     .label = அனுமதி
     .accesskey = A
+
 permissions-site-name =
     .label = வலைத்தளம்
+
 permissions-status =
     .label = நிலை
+
 permissions-remove =
     .label = வலைத்தளத்தை நீக்கு
     .accesskey = R
+
 permissions-remove-all =
     .label = அனைத்து தளங்களையும் நீக்கு
     .accesskey = e
+
 permissions-button-cancel =
     .label = இரத்து
     .accesskey = C
+
 permissions-button-ok =
     .label = மாற்றங்களைச் சேமிக்கவும்
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = வலைத்தளத்தைத் தேடவும்
+
 permissions-capabilities-allow =
     .label = அனுமதி
 permissions-capabilities-block =
     .label = தடு
 permissions-capabilities-prompt =
     .label = எப்போதும் கேள்
+
 permissions-capabilities-listitem-allow =
     .value = அனுமதி
 permissions-capabilities-listitem-block =
     .value = தடு
-permissions-capabilities-listitem-allow-first-party =
-    .value = முதல் தரப்பினரை மட்டும் அனுமதிக்கவும்
 permissions-capabilities-listitem-allow-session =
     .value = அமர்வுக்கு அனுமதி
 
@@ -57,11 +69,6 @@ permissions-invalid-uri-title = தவறான புரவலன் பெய�
 permissions-invalid-uri-label = ஒரு சரியான புரவலன் பெயரை உள்ளிடு
 
 ## Exceptions - Tracking Protection
-
-permissions-exceptions-tracking-protection-window =
-    .title = விதிவிலக்குகள் - தடமறியல் பாதுகாப்பு
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = நீங்கள் இந்த தளங்களில் தடமறியல் பாதுகாப்பை முடக்கியுள்ளீர்.
 
 ## Exceptions - Cookies
 
@@ -93,6 +100,8 @@ permissions-exceptions-addons-desc = எந்த இணையதளங்கள
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -108,6 +117,8 @@ permissions-site-location-window =
     .style = { permissions-window.style }
 permissions-site-location-disable-label =
     .label = உங்கள் இருப்பிடத்தை அணுகும் புதிய கோரிக்கைகளைத் தடு
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 
