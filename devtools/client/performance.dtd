@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "ម្ចាស់ប្រវត្តិរូបរក្សានូវគំរូក្នុងបាសហ្វើរង្វិលជុំ ហើយនៅពេលដែលបាសហ្វើឈានដល់កម្រិតកំណត់សម្រាប់ការថត គំរូថ្មីៗចាប់ផ្តើមសរសេរជាន់គំរូនៅពេលចាប់ផ្តើមថតដំបូង។">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "បានបិទទិន្នន័យដែលថតក្នុងពេលជាក់ស្តែង នៅលើ Firefox ដែលគ្មានដំណើរការច្រើន">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->

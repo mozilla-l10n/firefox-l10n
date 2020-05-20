@@ -9,13 +9,12 @@ findbar-next =
     .tooltiptext = រក​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​បន្ទាប់
 findbar-previous =
     .tooltiptext = រក​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​មុន
+
 findbar-find-button-close =
     .tooltiptext = បិទ​របារ​ស្វែងរក
-findbar-highlight-all =
-    .label = រំលេច​ពណ៌​ទាំងអស់
-    .accesskey = A
-    .tooltiptext = បន្លិច​ពាក្យ ឬ​ឃ្លា​ដែល​បាន​ជួប​ទាំងអស់
+
 findbar-case-sensitive =
     .label = ករណី​ដំណូច
     .accesskey = c
     .tooltiptext = ស្វែងរក​ដោយ​ប្រកាន់​អក្សរ​តូច​ធំ
+

@@ -10,8 +10,10 @@ containers-window-new =
 containers-window-update =
     .title = ចំណូលចិត្ត​ប្រអប់​ផ្ទុក { $name }
     .style = width: 45em
+
 containers-window-close =
     .key = w
+
 # This is a term to store style to be applied
 # on the three labels in the containers add/edit dialog:
 #   - name
@@ -22,20 +24,26 @@ containers-window-close =
 # of the three messages ensures that all three labels
 # will be aligned correctly.
 -containers-labels-style = min-width: 4rem
+
 containers-name-label = ឈ្មោះ
     .accesskey = N
     .style = { -containers-labels-style }
+
 containers-name-text =
     .placeholder = បញ្ចូល​ឈ្មោះ​ប្រអប់
+
 containers-icon-label = រូបតំណាង
     .accesskey = I
     .style = { -containers-labels-style }
+
 containers-color-label = ពណ៌
     .accesskey = o
     .style = { -containers-labels-style }
+
 containers-button-done =
     .label = ធ្វើ​រួច
     .accesskey = D
+
 containers-color-blue =
     .label = ខៀវ
 containers-color-turquoise =
@@ -52,6 +60,7 @@ containers-color-pink =
     .label = ផ្កា​ឈូក
 containers-color-purple =
     .label = ស្វាយ
+
 containers-icon-fingerprint =
     .label = ស្នាម​ម្រាមដៃ
 containers-icon-briefcase =

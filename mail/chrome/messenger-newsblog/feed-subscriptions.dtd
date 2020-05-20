@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "URL អត្ថបទ​ព័ត៌មាន​៖">
 <!ENTITY feedLocation.accesskey      "U">
-<!ENTITY feedLocation.placeholder    "បញ្ចូល​ url អត្ថបទ​ព័ត៌មាន​ត្រឹមត្រូវ​ត្រូវ​បន្ថែម">
 <!ENTITY locationValidate.label      "ធ្វើ​ឲ្យ​មាន​សុពលភាព">
 <!ENTITY validateText.label          "ពិនិត្យ​សុពលភាព និង​ទៅ​យក url ត្រឹមត្រូវ។">
 

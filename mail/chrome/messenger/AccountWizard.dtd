@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Entities for AccountWizard -->
 
 
 <!ENTITY windowTitle.label "Փոստարկղի Վարպետ">
 <!ENTITY accountWizard.size "width: 40em; height: 38em;">
+
 <!-- Entities for Account Type page -->
 
 
@@ -17,6 +19,7 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Նորությունների փոստարկղ">
 <!ENTITY accountTypeNews.accesskey "w">
+
 <!-- Entities for Identity page -->
 
 
@@ -35,6 +38,7 @@
 
 <!ENTITY emailLabel.label "Էլ. հասցեներ.">
 <!ENTITY emailLabel.accesskey "E">
+
 <!-- Entities for Incoming Server page -->
 
 
@@ -64,6 +68,7 @@
 <!ENTITY newsServerNameDesc.label "Նշեք նորությունների սպասարկիչի անունը (NNTP) (օրինակ՝ &quot;news.example.net&quot;)։">
 <!ENTITY newsServerLabel.label "Նորությունների սպասարկիչ.">
 <!ENTITY newsServerLabel.accesskey "S">
+
 <!-- Entities for Outgoing Server page -->
 
 
@@ -98,6 +103,7 @@
 -->
 <!ENTITY haveSmtp3.prefix "Ձեր ելքային (SMTP) սպասարկիչը, &quot;">
 <!ENTITY haveSmtp3.suffix3 "&quot;, គឺ​ដូចគ្នា​បេះបិទ​នឹង​ម៉ាស៊ីន​មេ​ចូល​របស់​អ្នក ឈ្មោះ​អ្នកប្រើ​ចូល​របស់​អ្នក​នឹង​ត្រូវ​បាន​ប្រើ​ដើម្បី​ដំណើរការ​វា។">
+
 <!-- Entities for Account name page -->
 
 
@@ -106,6 +112,7 @@
 <!ENTITY accnameDesc.label "Նշեք անունը, որին ցանանում եք կցել այս փոստարկղը (օրինակ՝ &quot;Աշխ. փոստարկղ&quot;, &quot;Տնային փոստարկղ&quot; կամ &quot;Նորությունների փոստարկղ&quot;)։">
 <!ENTITY accnameLabel.label "Փոստարկղի անունը.">
 <!ENTITY accnameLabel.accesskey "A">
+
 <!-- Entities for Done (Congratulations) page -->
 
 

@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 sync-disconnect-remove-other-caption = យកទិន្នន័យឯកជនផ្សេងទៀតចេញ
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = កំពុង​ផ្ដាច់​…
+
 sync-disconnect-cancel =
     .label = បោះបង់
     .accesskey = C
@@ -17,3 +19,4 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = ផ្ដាច់ & លុប
     .accesskey = D
+

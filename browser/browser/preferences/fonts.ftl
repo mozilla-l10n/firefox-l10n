@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = ពុម្ពអក្សរ
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = ពុម្ពអក្សរសម្រាប់
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = អារ៉ាប់
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = សមាមាត្រ
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = ទំហំ
     .accesskey = z
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = S
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = ទំហំ
     .accesskey = e
+
 fonts-minsize = ទំហំ​ពុម្ព​អក្សរ​អប្បបរមា
     .accesskey = o
+
 fonts-minsize-none =
     .label = គ្មាន
+
 fonts-allow-own =
     .label = អនុញ្ញាត​ឲ្យ​ទំព័រ​ជ្រើសរើស​ពុម្ពអក្សរ​​ដោយ​ខ្លួន​ឯង ជំនួស​ឲ្យ​​​ពុម្ព​អក្សរ​ដែល​អ្នក​ជ្រើសរើស​ខាង​លើ
     .accesskey = A
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = ការ​អ៊ិនកូដ​​អត្ថបទ​សម្រាប់​មាតិកា​ចាស់ៗ
 fonts-languages-fallback-desc = ការ​អ៊ិនកូដ​​អត្ថបទ​នេះ​ ត្រូវ​បាន​ប្រើ​សម្រាប់​​មាតិកា​ចាស់ៗ​ ដែល​បរាជ័យ​ក្នុង​ប្រកាស​ការ​អ៊ិនកូដ។
+
 fonts-languages-fallback-label = ការ​អ៊ិនកូដ​អត្ថបទ​ Fallback
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = លំនាំដើម​សម្រាប់​មូលដ្ឋាន​បច្ចុប្បន្ន
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = វៀតណាម
 fonts-languages-fallback-name-other =
     .label = ផ្សេង​ទៀត (អឺរ៉ុប​ខាងលិច incl.)
-fonts-very-large-warning-title = ទំហំ​ពុម្ពអក្សរ​អប្បបរមា​ធំ
-fonts-very-large-warning-message = អ្នក​បាន​ជ្រើស​ទំហំ​ពុម្ពអក្សរ​អប្បបរមា​ធំ​ពេក (ធំ​ជាង ២៤ ភីកសែល)។ វា​អាច​នាំឲ្យ​មាន​ការ​លំបាក ឬ​មិន​អាច​ប្រើ​ទំព័រ​ការ​កំណត់​រចនាសម្ព័ន្ធ​សំខាន់ៗ​ដូច​នេះ​បាន។
-fonts-very-large-warning-accept = ទោះ​យ៉ាងណា​រក្សា​ការ​ប្ដូរ​របស់​ខ្ញុំ
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

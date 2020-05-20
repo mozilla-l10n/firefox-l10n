@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = ផ្អាក
 pictureinpicture-play =
     .aria-label = ចាក់
+
 pictureinpicture-mute =
     .aria-label = ស្ងាត់
 pictureinpicture-unmute =
     .aria-label = ឮ
+

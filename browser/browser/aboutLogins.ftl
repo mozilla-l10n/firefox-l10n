@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = ទាញយក​កម្មវិធី​នៅ​លើ Google Play
 login-app-promo-apple =
     .alt = ទាញយក​នៅ​លើ App Store
+
 login-filter =
     .placeholder = ស្វែងរក​ការចូល
+
 create-login-button = បង្កើត​ការចូល​ថ្មី
+
 fxaccounts-sign-in-text = ទាញយក​ពាក្យ​សម្ងាត់​របស់​អ្នក​នៅ​លើ​ឧបករណ៍​ផ្សេងៗ​របស់​អ្នក
 fxaccounts-sign-in-button = ចូល​ទៅ { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -44,7 +47,6 @@ login-list-count =
 login-list-sort-label-text = តម្រៀបតាម៖
 login-list-name-option = ឈ្មោះ (A-Z)
 login-list-name-reverse-option = ឈ្មោះ (Z-A)
-login-list-breached-option = គេហទំព័រ​ដែល​បំពាន
 login-list-last-changed-option = បាន​កែប្រែ​ចុងក្រោយ
 login-list-last-used-option = បាន​ប្រើប្រាស់​ចុងក្រោយ
 login-list-intro-title = រក​មិន​ឃើញ​ការចូល​ទេ
@@ -129,7 +131,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = បោះបង់
 confirmation-dialog-dismiss-button =
     .title = បោះបង់
+
 confirm-delete-dialog-message = សកម្មភាព​នេះ​មិន​អាច​ត្រឡប់​វិញ​បាន​ទេ។
+
 confirm-discard-changes-dialog-title = បោះបង់​ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក?
 confirm-discard-changes-dialog-message = ការផ្លាស់ប្ដូរ​ដែល​មិន​បាន​រក្សាទុក​ទាំងអស់​នឹង​បាត់។
 confirm-discard-changes-dialog-confirm-button = បោះបង់
@@ -137,9 +141,6 @@ confirm-discard-changes-dialog-confirm-button = បោះបង់
 ## Breach Alert notification
 
 breach-alert-text = ពាក្យ​សម្ងាត់​ត្រូវបាន​បែកធ្លាយ ឬ​លួច​ពី​គេហទំព័រ​នេះ ចាប់តាំង​ពី​អ្នក​បាន​ធ្វើបច្ចុប្បន្នភាព​​ព័ត៌មាន​លម្អិត​ការចូល​របស់​អ្នក​ចុងក្រោយ។ សូម​ប្ដូរ​ពាក្យ​សម្ងាត់​របស់​អ្នក ដើម្បី​ការពារ​គណនី​របស់​អ្នក។
-breach-alert-link = ស្វែងយល់​បន្ថែម​អំពី​​ការបំពាន​នេះ។
-breach-alert-dismiss =
-    .title = បិទ​ការជូនដំណឹង​នេះ
 
 ## Vulnerable Password notification
 

@@ -4,5 +4,7 @@
 
 all-tabs-menu-undo-close-tab =
     .label = មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង
+
 all-tabs-menu-new-user-context =
     .label = ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី
+

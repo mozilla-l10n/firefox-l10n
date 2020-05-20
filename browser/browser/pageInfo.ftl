@@ -4,16 +4,19 @@
 
 page-info-window =
     .style = width: 600px; min-height: 550px;
+
 copy =
     .key = C
 menu-copy =
     .label = ចម្លង
     .accesskey = C
+
 select-all =
     .key = A
 menu-select-all =
     .label = ជ្រើស​ទាំងអស់
     .accesskey = A
+
 general-tab =
     .label = ទូទៅ
     .accesskey = G
@@ -37,6 +40,7 @@ general-meta-name =
     .label = ឈ្មោះ
 general-meta-content =
     .label = មាតិកា
+
 media-tab =
     .label = មេឌៀ
     .accesskey = M
@@ -66,11 +70,13 @@ media-save-image-as =
     .accesskey = e
 media-preview =
     .value = មើល​មេឌៀ​ជាមុន ៖
+
 perm-tab =
     .label = សិទ្ធិ
     .accesskey = P
 permissions-for =
     .value = សិទ្ធិ​សម្រាប់៖
+
 security-tab =
     .label = សុវត្ថិភាព
     .accesskey = S
@@ -89,13 +95,17 @@ security-view-identity-verifier =
     .value = ផ្ទៀងផ្ទាត់​ដោយ៖
 security-view-privacy =
     .value = ភាព​ឯកជន & ប្រវត្តិ
+
 security-view-privacy-history-value = តើ​ខ្ញុំ​បាន​ចូល​ទស្សនា​តំបន់បណ្ដាញ​នេះ​មុន​ថ្ងៃនេះ​ឬ ?
+
 security-view-privacy-passwords-value = តើ​ខ្ញុំ​បាន​រក្សាទុក​ពាក្យសម្ងាត់​សម្រាប់​តំបន់បណ្ដាញ​នេះ​ឬ ?
+
 security-view-privacy-viewpasswords =
     .label = មើល​ពាក្យ​សម្ងាត់​ដែល​បាន​រក្សា​ទុក
     .accesskey = w
 security-view-technical =
     .value = សេចក្តី​​លម្អិត​អំពី​​បច្ចេកទេស
+
 help-button =
     .label = ជំនួយ
 
@@ -124,6 +134,7 @@ media-video = វីដេអូ
 media-audio = អូឌីយ៉ូ
 saved-passwords-yes = បាទ/ចាស
 saved-passwords-no = ទេ
+
 no-page-title =
     .value = ទំព័រ​គ្មាន​ចំណងជើង ៖
 general-quirks-mode =
@@ -139,12 +150,14 @@ media-unknown-not-cached =
 permissions-use-default =
     .label = ប្រើ​លំនាំ​ដើម
 security-no-visits = ទេ
+
 # This string is used to display the type of
 # an image
 # Variables:
 #   $type (string) - The type of an image
 media-image-type =
     .value = រូបភាព { $type }
+
 # This string is used to display the size of a scaled image
 # in both scaled and unscaled pixels
 # Variables:
@@ -154,17 +167,20 @@ media-image-type =
 #   $scaledy (number) - The scaled vertical size of an image
 media-dimensions-scaled =
     .value = { $dimx }px × { $dimy }px (បាន​ដាក់​មាត្រដ្ឋាន​ត្រឹម { $scaledx }px × { $scaledy }px)
+
 # This string is used to display the size of an image in pixels
 # Variables:
 #   $dimx (number) - The horizontal size of an image
 #   $dimy (number) - The vertical size of an image
 media-dimensions =
     .value = { $dimx }px × { $dimy }px
+
 # This string is used to display the size of a media
 # file in kilobytes
 # Variables:
 #   $size (number) - The size of the media file in kilobytes
 media-file-size = { $size } KB
+
 # This string is used to display the website name next to the
 # "Block Images" checkbox in the media tab
 # Variables:
@@ -172,6 +188,7 @@ media-file-size = { $size } KB
 media-block-image =
     .label = ទប់ស្កាត់​រូបភាព​ពី { $website }
     .accesskey = B
+
 # This string is used to display the URL of the website on top of the
 # pageInfo dialog box
 # Variables:

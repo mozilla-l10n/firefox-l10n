@@ -303,7 +303,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Ներմուծել նոր անվանարկված խարիսխ կամ խմբագրել խարսխի հատկությունները">
 <!ENTITY TextColorButton.tooltip "Ընտրեք տեքստի գույները">
 <!ENTITY BackgroundColorButton.tooltip "Ընտրեք խորապատկերի գույները">
-<!ENTITY throbber.tooltip "Անցնել &vendorShortName; մեկնարկային էջին">
 <!ENTITY HighlightColorButton.tooltip "Ընտրել ընդգծված գույնը տեքստի համար">
 
 <!-- Editor toolbar -->

@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = បើក​ក្នុង​បង្អួចឯក​ជន​ថ្មី
     .accesskey = ឯ
+
 places-new-bookmark =
     .label = ចំណាំ​ថ្មី
     .accesskey = ច
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = សញ្ញា​បំបែក​ថ្មី
     .accesskey = ស
+
 places-view =
     .label = មើល
     .accesskey = ម
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = តាម​កាលបរិច្ឆេទ និង​តំបន់បណ្ដាញ
     .accesskey = ក
+
 places-history-search =
     .placeholder = ប្រវត្តិ​ស្វែងរក
 places-bookmarks-search =
     .placeholder = ចំណាំ​ការស្វែងរក
+
 places-delete-domain-data =
     .label = បំភ្លេច​តំបន់​បណ្ដាញ​នេះ
     .accesskey = ប

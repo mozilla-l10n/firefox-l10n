@@ -5,49 +5,61 @@
 permissions-window =
     .title = ករណី​លើកលែង
     .style = width: 45em
+
 permissions-close-key =
     .key = w
+
 permissions-address = អាសយដ្ឋាន​គេហទំព័រ
     .accesskey = d
+
 permissions-block =
     .label = ទប់ស្កាត់
     .accesskey = ទ
+
 permissions-session =
     .label = អនុញ្ញាត​សម្រាប់​សម័យ
     .accesskey = ត
+
 permissions-allow =
     .label = អនុញ្ញាត
     .accesskey = ត
+
 permissions-site-name =
     .label = គេហទំព័រ
+
 permissions-status =
     .label = ស្ថានភាព
+
 permissions-remove =
     .label = លុប​គេហទំព័រ
     .accesskey = R
+
 permissions-remove-all =
     .label = លុប​គេហទំព័រ​ទាំងអស់
     .accesskey = e
+
 permissions-button-cancel =
     .label = បោះបង់
     .accesskey = C
+
 permissions-button-ok =
     .label = រក្សាទុក​ការ​ផ្លាស់ប្ដូរ
     .accesskey = S
+
 permissions-searchbox =
     .placeholder = ស្វែងរក​គេហទំព័រ
+
 permissions-capabilities-allow =
     .label = អនុញ្ញាត
 permissions-capabilities-block =
     .label = ទប់ស្កាត់
 permissions-capabilities-prompt =
     .label = សួរ​ជានិច្ច
+
 permissions-capabilities-listitem-allow =
     .value = អនុញ្ញាត
 permissions-capabilities-listitem-block =
     .value = ទប់ស្កាត់
-permissions-capabilities-listitem-allow-first-party =
-    .value = អនុញ្ញាត​តែ​ភាគី​ទី​មួយ​ប៉ុណ្ណោះ
 permissions-capabilities-listitem-allow-session =
     .value = អនុញ្ញាត​សម្រាប់​សម័យ
 
@@ -58,10 +70,6 @@ permissions-invalid-uri-label = សូម​បញ្ចូល​ឈ្មោះ
 
 ## Exceptions - Tracking Protection
 
-permissions-exceptions-tracking-protection-window =
-    .title = ករណី​​លើកលែង - ការ​ការពារ​ការ​តាមដាន
-    .style = { permissions-window.style }
-permissions-exceptions-tracking-protection-desc = អ្នកបានបិទការការពារការតាមដាននៅលើ​គេហទំព័រ​ទាំងនេះ។
 permissions-exceptions-content-blocking-window =
     .title = ករណី​លើកលែង - ទប់ស្កាត់​មាតិកា
     .style = { permissions-window.style }
@@ -96,6 +104,8 @@ permissions-exceptions-addons-desc = អ្នក​អាច​បញ្ជា�
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 permissions-site-notification-window =
@@ -115,6 +125,8 @@ permissions-site-location-desc = គេហទំព័រ​ខាងក្រ�
 permissions-site-location-disable-label =
     .label = ទប់ស្កាត់សំណើថ្មីដែលស្នើសុំឲ្យចូលប្រើទីតាំងរបស់អ្នក
 permissions-site-location-disable-desc = វា​នឹងរារាំងគេហទំព័រ​ដែលមិនមានក្នុងបញ្ជីខាងលើនេះមិនឲ្យស្នើសុំការអនុញ្ញាតដើម្បីចូលប្រើទីតាំងរបស់អ្នក។ ការទប់ស្កាត់ការចូលប្រើទីតាំងរបស់អ្នកអាចធ្វើឲ្យលក្ខណៈពិសេសនៃតំបន់បណ្ដាញមួយចំនួនមិនអាចប្រើបាន។
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

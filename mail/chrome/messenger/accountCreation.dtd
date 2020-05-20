@@ -2,14 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Փոստարկղի կարգավորումներ">
 <!ENTITY name.label                      "Ձեր անունը.">
 <!ENTITY name.accesskey                  "n">
 <!ENTITY name.placeholder                "Առաջին Վերջին">
 <!ENTITY name.text                       "Ձեր անունը, որը ցուցադրվելու է բոլորին">
 <!ENTITY email.label                     "Էլ. հասցեն.">
 <!ENTITY email.accesskey                 "l">
-<!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Գաղտնաբառ.">
 <!ENTITY password.accesskey              "P">
 <!ENTITY password.placeholder            "Գաղտնաբառ">
@@ -53,8 +51,6 @@
 <!ENTITY half-manual-test.accesskey      "t">
 <!ENTITY manual-edit.label               "Ձեռադիր կարգ.">
 <!ENTITY manual-edit.accesskey           "M">
-<!ENTITY switch-to-provisioner.label     "បង្កើត​គណនី​ថ្មី">
-<!ENTITY switch-to-provisioner.accesskey "G">
 
 
 <!ENTITY warning.label                   "Զգուշացում!">

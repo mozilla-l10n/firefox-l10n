@@ -18,10 +18,8 @@
 <!ENTITY firstrun_data_message "ប្រើ​ទិន្នន័យ​តិច, សន្សំ​បាន​ច្រើន">
 <!ENTITY firstrun_data_subtext2 "បិទ​រូបភាព​នៅ​គ្រប់​វេបសាយ​ដែល​អ្នក​ចូល​មើល ដើម្បី​សន្សំសំចៃ​ទិន្នន័យ​របស់​អ្នក។">
 <!ENTITY firstrun_sync_title "ធ្វើ​សមកាលកម្ម">
-<!ENTITY firstrun_sync_message2 "ជ្រើសយក កន្លែងដែលអ្នក​ចាកចេញ។">
 <!ENTITY firstrun_sync_subtext2 "ប្រើសមកាលកម្មដើម្បីរក​ចំណាំ ពាក្យសម្ងាត់ និងអ្វីផ្សេងទៀត ដែលអ្នករក្សាទុកទៅ &brandShortName; នៅលើឧបករណ៍ទាំងអស់របស់អ្នក។">
 <!ENTITY firstrun_signin_message "ឲ្យ​តែ​មាន​អ៊ិនធឺណិត​អាច​ប្រើ​បាន​ភ្លាម">
-<!ENTITY firstrun_signin_button "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
 <!ENTITY  onboard_start_button_browser "ចាប់​ផ្ដើម​រុករក">
 <!ENTITY firstrun_button_notnow "ពេល​ក្រោយ">
 <!ENTITY firstrun_button_next "បន្ទាប់">
@@ -63,6 +61,7 @@
 <!ENTITY  crash_restart_label "ចាប់ផ្ដើម &brandShortName; ឡើងវិញ">
 
 <!ENTITY url_bar_default_text2 "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
+
 <!-- Localization note (url_bar_qrcode_text2) : This text will be
      heard by non-visual users when the focus is on the QR Code
      icon in the url bar. -->
@@ -315,11 +314,6 @@
 
 <!ENTITY pref_pwa_summary "អនុញ្ញាត​ឱ្យ​បន្ថែម​កម្មវិធី​គេហទំព័រ​ទៅ​អេក្រង់​ដើម​">
 
-<!ENTITY tracking_protection_prompt_title "ឥឡូវ​ដោយ​​​ប្រើ​ការ​ទប់ស្កាត់​ការ​តាមដាន">
-<!ENTITY tracking_protection_prompt_text "បិទ​ធាតុ​តាមដាន​ដែល​សកម្ម​ ដូច្នេះ​អ្នក​មិន​ត្រូវ​បារម្ភ​ទេ។">
-<!ENTITY tracking_protection_prompt_tip_text "ចូល​មើល​ការ​កំណត់​ភាព​ឯកជន​ដើម្បី​ស្វែងយល់​បន្ថែម">
-<!ENTITY tracking_protection_prompt_action_button "យល់​ហើយ!">
-
 <!ENTITY tab_queue_toast_message3 "ផ្ទាំង​ដែល​បាន​រក្សាទុក​ក្នុង &brandShortName;">
 <!ENTITY tab_queue_toast_action "បើក​ឥឡូវ​នេះ">
 <!ENTITY tab_queue_prompt_title "បើក​តំណ​ច្រើន​មែនទេ?">
@@ -389,15 +383,12 @@
 <!ENTITY pref_private_data_searchHistory "ប្រវត្តិ​ស្វែងរក">
 <!ENTITY pref_private_data_formdata2 "ប្រវត្តិ​ទម្រង់">
 <!ENTITY pref_private_data_cookies2 "ខូគី &amp; ការ​ចូល​សកម្ម">
-<!ENTITY pref_private_data_passwords2 "ការ​ចូល​បាន​រក្សាទុក">
 <!ENTITY pref_private_data_cache "​ឃ្លាំង​សម្ងាត់">
 <!ENTITY pref_private_data_offlineApps "ទិន្នន័យ​តំបន់បណ្ដាញ​ក្រៅ​បណ្ដាញ">
 <!ENTITY pref_private_data_siteSettings2 "ការ​កំណត់​តំបន់បណ្ដាញ">
 <!ENTITY pref_private_data_downloadFiles2 "ទាញ​យក">
 <!ENTITY pref_private_data_syncedTabs "ផ្ទាំង​​បាន​ធ្វើ​សមកាលកម្ម">
 
-<!ENTITY pref_default_browser "ដាក់​ជាកម្មវិធី​អ៊ីនធឺណិត​លំនាំ​ដើម">
-<!ENTITY pref_default_browser_mozilla_support_tablet "ចូល​ទៅ​កាន់​ក្រុម​ជំនួយ​ Mozilla">
 <!ENTITY pref_about_firefox "អំពី &brandShortName;">
 <!ENTITY pref_vendor_faqs "សំណួរ​ដែល​សួរ​រឿយៗ">
 <!ENTITY pref_vendor_feedback "ផ្ដល់​មតិ​ត្រឡប់">
@@ -444,14 +435,6 @@
 <!-- Localization note (datareporting_notification_title ) : This will be the title
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
-
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "បច្ចុប្បន្នកម្ម​ស្វ័យប្រវត្តិ">
-<!ENTITY pref_update_autodownload_wifi "តាម​វ៉ាយហ្វាយ​តែប៉ុណ្ណោះ">
-<!ENTITY pref_update_autodownload_never "កុំ">
-<!ENTITY pref_update_autodownload_always "ជានិច្ច">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "ជំនួយ">
@@ -704,25 +687,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ចំណាំ និង​ប្រវត្តិ">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "មាន​បច្ចុប្បន្នភាព​សម្រាប់ &brandShortName;">
-<!ENTITY updater_start_select2 "ប៉ះ​ដើម្បី​ទាញ​យក">
-
-<!ENTITY updater_downloading_title2 "កំពុង​ទាញ​យក &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "ការ​ទាញ​យក​បាន​បរាជ័យ">
-<!ENTITY updater_downloading_select2 "ប៉ះ​ដើម្បី​អនុវត្ត​ការ​ធ្វើ​បច្ចុប្បន្នភាព​​ពេល​បាន​ទាញ​យក">
-<!ENTITY updater_downloading_retry2 "ប៉ះ​ដើម្បី​ព្យាយាម​ម្ដងទៀត">
-
-<!ENTITY updater_apply_title3 "ធ្វើ​បច្ចុប្បន្នភាព​អ្វី​ដែល​បាន​ទាញ​យក​សម្រាប់ &brandShortName;">
-<!ENTITY updater_apply_select3 "ប៉ះ​ដើម្បី​ដំឡើង">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "ដើម្បី​ទាញយក​ឯកសារ និង​បច្ចុប្បន្នភាព សូម​អនុញ្ញាត​ឲ្យ &brandShortName; មាន​សិទ្ធ​ចូល​ទៅ​កន្លែង​ផ្ទុក">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "អនុញ្ញាត">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "សម័យ​ភ្ញៀវ​ថ្មី">
 <!ENTITY exit_guest_session "ចេញពី​សម័យ​ភ្ញៀវ">
@@ -872,3 +836,4 @@ Picture-in-picture mini window -->
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
+

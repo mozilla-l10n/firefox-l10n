@@ -2,9 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY loginAtStartup.label          "ពិនិត្យ​អត្ថបទ​ថ្មី​ៗពេល​ចាប់ផ្ដើម">
-<!ENTITY loginAtStartup.accesskey      "C">
-
 
 <!ENTITY manageSubscriptions.label     "គ្រប់គ្រង​ការ​ជាវ...">
 <!ENTITY manageSubscriptions.accesskey "M">
