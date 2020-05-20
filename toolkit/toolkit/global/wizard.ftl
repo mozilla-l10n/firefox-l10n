@@ -11,6 +11,7 @@ wizard-linux-button-back =
 wizard-win-button-back =
     .label = < Enta zaga
     .accesskey = z
+
 wizard-macos-button-next =
     .label = Continar
     .accesskey = C
@@ -20,12 +21,14 @@ wizard-linux-button-next =
 wizard-win-button-next =
     .label = Enta debant >
     .accesskey = d
+
 wizard-macos-button-finish =
     .label = Feito
 wizard-linux-button-finish =
     .label = Finalizar
 wizard-win-button-finish =
     .label = Finalizar
+
 wizard-macos-button-cancel =
     .label = Cancelar
 wizard-linux-button-cancel =

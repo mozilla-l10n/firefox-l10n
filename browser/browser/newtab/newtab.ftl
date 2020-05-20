@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Mirar
     .aria-label = Mirar
+
 newtab-search-box-search-the-web-text = Mirar en o Web
 newtab-search-box-search-the-web-input =
     .placeholder = Mirar en o Web
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Editar lo puesto popular
 newtab-topsites-title-label = Titol
 newtab-topsites-title-input =
     .placeholder = Escribir un titol
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Triar u apegar una adreza web
 newtab-topsites-url-validation = Fa falta una URL valida
+
 newtab-topsites-image-url-label = URL d'imachen personalizada
 newtab-topsites-use-image-link = Usar una imachen personalizada…
 newtab-topsites-image-validation = Ha fallau la carga d'a imachen. Preba con una URL diferent.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = Esta acción no se puede desfer.
 newtab-menu-section-tooltip =
     .title = Ubrir menú
     .aria-label = Ubrir menú
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,10 +90,11 @@ newtab-menu-show-privacy-info = Los nuestros patrocinadors y la tuya privacidat
 
 newtab-privacy-modal-button-done = Feito
 newtab-privacy-modal-header = La tuya privacidat ye important.
-newtab-privacy-modal-paragraph = Amás de compartir historias cautivadersas, tamién amostramos contenius pertinents y cudiadosament seleccionaus de patrocinadors triaus. Queda-te tranquilo, los tuyos datos de navegación nunca deixarán la tuya copia personal de { -brand-product-name } — nusatros no los veyemos, y tampoco los nuestros patrocinadors.
 newtab-privacy-modal-link = Saber mas sobre cómo funciona la privacidat en a nueva pestanya
 
 
+
+##
 
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = Sacar lo marcapachinas
@@ -157,10 +162,12 @@ newtab-section-header-pocket = Recomendau per { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Empecipia a navegar, y t'iremos amostrando aquí grans articlos, videos y atras pachinas que has vesitau u marcau en zagueras.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ya ye tot per agora. Torna mas ta debant pa veyer mas articlos populars de { $provider }. No i puetz aguardar? Tría un tema popular pa descubrir los articlos mas interesants de tot lo web.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -176,8 +183,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ups! Pareix que no s'ha pu
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Temas populars:
 newtab-pocket-more-recommendations = Mas recomendacions
-newtab-pocket-how-it-works = Cómo funciona
-newtab-pocket-whats-pocket = Qué ye { -pocket-brand-name }?
 newtab-pocket-cta-button = Instala { -pocket-brand-name }
 newtab-pocket-cta-text = Alza los tuyos articlos preferius en { -pocket-brand-name }, y regala-te con lecturas fascinants.
 

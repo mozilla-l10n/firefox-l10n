@@ -19,14 +19,17 @@ onboarding-cards-dismiss =
     .title = Descartar
     .aria-label = Descartar
 
+## Welcome full page string
+
 ## Firefox Sync modal dialog strings.
 
 onboarding-sync-welcome-header = Prene lo { -brand-product-name } con tu
 onboarding-sync-welcome-content = Obtiene los tuyos marcapachinas, historials, claus y atros achustes en totz los tuyos dispositivos.
 onboarding-sync-welcome-learn-more-link = Aprende mas sobre las cuentas de Firefox
-onboarding-sync-legal-notice = Si contina, ye confirmando que ye d'acuerdo con as <a data-l10n-name="terms">Condicions d'uso</a> y <a data-l10n-name="privacy">Nota sobre privacidat</a>.
+
 onboarding-sync-form-input =
     .placeholder = Correu-e
+
 onboarding-sync-form-continue-button = Continar
 onboarding-sync-form-skip-login-button = Blinca-te este paso
 
@@ -34,6 +37,7 @@ onboarding-sync-form-skip-login-button = Blinca-te este paso
 
 onboarding-sync-form-header = Escribe lo tuyo email
 onboarding-sync-form-sub-header = pa continar enta { -sync-brand-name }.
+
 
 ## These are individual benefit messages shown with an image, title and
 ## description.

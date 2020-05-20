@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Seleccionar-lo tot">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
+
 <!ENTITY findCmd.label             "Trobar en a pachina">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "b">

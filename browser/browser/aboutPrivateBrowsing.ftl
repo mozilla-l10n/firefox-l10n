@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Mas información sobre la<a data-l10n-name="learn-more">Navegación privada</a>.
 about-private-browsing-info-visited = pachinas vesitadas
+
 privatebrowsingpage-open-private-window-label = Ubrir una finestra privada
     .accesskey = p
 about-private-browsing-info-notsaved = Quan navegue en una Finestra Privada, { -brand-short-name } <strong>no alzará</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Agora no ye en una finestra privada.
 content-blocking-title = Bloqueyo de conteniu
 content-blocking-description = Bells puestos web fan servir seguidors que pueden monitorizar la suya actividat en Internet. En as finestras privadas, lo blocador de conteniu de { -brand-short-name } puede blocar automaticament muitos seguidors que podrían replegar información sobre lo suyo comportamiento de navegación.
 about-private-browsing-info-description = { -brand-short-name } borra lo tuyo historia de busquedas y de navegación quan sales de l'aplicación u zarras totas las pestanyas y finestras de navegacion privada. Encara que ixo no fa que sigas anonimo pa los puestos webs u pa lo tuyo proveyedor de servicios d'Internet, ye mas facil mantener en privau lo que fas en línea debant de qualsequier atra persona que emplegue este ordinador.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

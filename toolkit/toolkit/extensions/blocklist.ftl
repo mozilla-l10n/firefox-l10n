@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Reiniciar o { -brand-short-name }
     .accesskey = R
+
 blocklist-label-summary = O { -brand-short-name } ha determinau que, seguntes se conoixe, os siguients complementos podrían causar problemas d'estabilidat u seguranza:
 blocklist-soft-and-hard = Os complementos que tienen un alto risgo de causar problemas d'estabilidat u seguranza s'han bloqueyau. Os atros suposan menos risgo, pero ye altament recomendable que reinicie o navegador habendo-los desactivau denantes.
 blocklist-hard-blocked = Istos complementos tienen un alto risgo de causar problemas d'inestabilidat u seguranza, y han estau bloqueyaus, pero se requiere reiniciar o navegador ta desactivar-los de tot.
 blocklist-soft-blocked = Ta la suya protección, ye altament recomendable que reinicie o navegador con istos complementos desactivaus.
 blocklist-more-information =
     .value = Mas información
+
 blocklist-blocked =
     .label = Bloqueyau
 blocklist-checkbox =

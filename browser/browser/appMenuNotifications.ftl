@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = V
 appmenu-addon-private-browsing-message = Las extensions nuevas que anyadas a { -brand-shorter-name } no funcionarán en finestras privadas si no lo demandas en os achustes.
 appmenu-addon-private-browsing-learn-more = Aprende cómo chestionar los achustes d'as extensions
+    
 appmenu-new-tab-controlled =
     .label = La tuya Pestanya Nueva ha cambiau.
     .buttonlabel = Mantener los cambios
