@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Folosește furnizorul
     .accesskey = r
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (Implicit)
     .tooltiptext = Folosește URL-ul implicit pentru rezolvarea DNS over HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Personalizat
     .accesskey = C
     .tooltiptext = Introdu URL-ul preferat pentru rezolvarea DNS over HTTPS
+
 connection-dns-over-https-custom-label = Personalizat

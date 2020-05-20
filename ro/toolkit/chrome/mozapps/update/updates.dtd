@@ -56,7 +56,7 @@
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; nu poate determina dacă există o actualizare disponibilă. Te
                                            rugăm să te asiguri că ai ultima versiune de &brandShortName; de pe:">
-
+                                           
 <!ENTITY  finishedPage.title              "Actualizarea este pregătită de instalare">
 <!ENTITY  finishedPage.text               "Actualizarea va fi instalată la următoarea pornire a &brandShortName;. Poți 
                                            reporni &brandShortName; acum sau îți poți continua sesiunea și să repornești mai târziu.">

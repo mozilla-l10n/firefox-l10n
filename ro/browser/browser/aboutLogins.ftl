@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Acum pe Google Play
 login-app-promo-apple =
     .alt = Descarcă de pe App Store
+
 login-filter =
     .placeholder = Caută autentificări
+
 create-login-button = Creează o autentificare nouă
+
 fxaccounts-sign-in-text = Obține parolele de pe celelalte dispozitive
 fxaccounts-sign-in-button = Autentificare în { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -108,16 +111,21 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Verifică-ți identitatea pentru a edita datele de autentificare salvate.
+
 # This message can be seen by attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editează datele de autentificare salvate
+
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Verifică-ți identitatea pentru a dezvălui parola salvată.
+
 # This message can be seen by attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = afișează parola salvată
+
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Verifică-ți identitatea pentru a copia parola salvată.
+
 # This message can be seen by attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = copiază parola salvată
@@ -152,9 +160,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Renunță
 confirmation-dialog-dismiss-button =
     .title = Renunță
+
 about-logins-confirm-remove-dialog-title = Elimini această autentificare?
 confirm-delete-dialog-message = Această acțiune este ireversibilă.
 about-logins-confirm-remove-dialog-confirm-button = Elimină
+
 confirm-discard-changes-dialog-title = Înlături modificările nesalvate?
 confirm-discard-changes-dialog-message = Toate modificările nesalvate vor fi pierdute.
 confirm-discard-changes-dialog-confirm-button = Înlătură
@@ -185,5 +195,6 @@ about-logins-vulnerable-alert-learn-more-link = Află mai multe
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Deja există o intrare pentru { $loginTitle } cu acest nume de utilizator. <a data-l10n-name="duplicate-link">Mergi la intrarea existentă?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = A apărut o eroare la încercarea de salvare a acestei parole.

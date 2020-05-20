@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Copii și dosare">
 <!ENTITY sendingPrefix.label "La trimiterea unui mesaj, automat: ">
 <!ENTITY fccMailFolder.label "Plasează automat o copie în:">

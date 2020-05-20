@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Deconectezi { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Vrei să elimini și datele browserului de pe calculator? Datele { -sync-brand-name } vor rămâne în cont oricum.
+
 sync-disconnect-remove-sync-caption = Elimină datele { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Marcaje, istoric, parole, etc.
+
 sync-disconnect-remove-other-caption = Elimină alte date private
+
 sync-disconnect-remove-other-data = Cookie-uri, cache-ul, date offline ale site-urilor web, etc.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Se deconectează…
+
 sync-disconnect-cancel =
     .label = Renunță
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Deconectează și șterge
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = Doar deconectare
     .accesskey = D

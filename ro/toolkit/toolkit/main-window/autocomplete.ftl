@@ -11,5 +11,6 @@
 autocomplete-import-logins =
     <div data-l10n-name="line1">Importă-ți datele de autentificare din { $browser }</div>
     <div data-l10n-name="line2">pentru { $host } și alte site-uri</div>
+
 autocomplete-import-logins-info =
     .tooltiptext = Află mai multe

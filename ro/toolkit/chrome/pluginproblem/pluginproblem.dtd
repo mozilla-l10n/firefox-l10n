@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
-<!ENTITY pluginActivationWarning                             "Acest site folosește un plugin care poate încetini &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Atinge aici pentru a activa pluginul.">
 <!ENTITY clickToActivatePlugin                               "Activează pluginul.">
 <!ENTITY checkForUpdates                                     "Caută actualizări…">
 <!ENTITY blockedPlugin.label                                 "Acest plugin a fost dezactivat pentru a te proteja.">
 <!ENTITY hidePluginBtn.label                                 "Ascunde pluginul">
 <!ENTITY managePlugins                                       "Gestionează pluginurile…">
+
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (reloadPlugin.middle): avoid leading/trailing spaces, this text is a link -->
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->

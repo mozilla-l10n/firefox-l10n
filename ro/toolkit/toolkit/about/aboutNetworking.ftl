@@ -9,24 +9,12 @@ ok = Ok
 http = HTTP
 sockets = Socketuri
 dns = DNS
-dnssuffix = Sufix DNS
 websockets = WebSockets
 refresh = Reîmprospătează
 auto-refresh = Reîmprospătează automat la fiecare 3 secunde
 hostname = Numele gazdei
 port = Port
 http2 = HTTP/2
-about-networking-title = Despre rețea
-about-networking-http = HTTP
-about-networking-sockets = Socketuri
-about-networking-dns = DNS
-about-networking-dns-suffix = Sufix DNS
-about-networking-websockets = WebSockets
-about-networking-refresh = Reîmprospătează
-about-networking-auto-refresh = Reîmprospătează automat la fiecare 3 secunde
-about-networking-hostname = Numele gazdei
-about-networking-port = Port
-about-networking-http-version = Versiune HTTP
 ssl = SSL
 active = Activ(ă)
 idle = Inactiv(ă)
@@ -69,8 +57,18 @@ rcwn-avg-long = Medie lungă
 rcwn-std-dev-long = Deviație standard lungă
 rcwn-cache-slow = De câte ori memoria cache este lentă
 rcwn-cache-not-slow = De câte ori memoria cache nu este lentă
-networkid = ID rețea
-networkid-id = ID rețea
+
+about-networking-title = Despre rețea
+about-networking-http = HTTP
+about-networking-sockets = Socketuri
+about-networking-dns = DNS
+about-networking-dns-suffix = Sufix DNS
+about-networking-websockets = WebSockets
+about-networking-refresh = Reîmprospătează
+about-networking-auto-refresh = Reîmprospătează automat la fiecare 3 secunde
+about-networking-hostname = Numele gazdei
+about-networking-port = Port
+about-networking-http-version = Versiune HTTP
 about-networking-ssl = SSL
 about-networking-active = Activ(ă)
 about-networking-idle = Inactiv(ă)
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID rețea
 
 ## Link is intended as "network link"
 
-networkid-isUp = Link stabilit
-networkid-statusKnown = Starea linkului este necunoscută
 about-networking-networkid-is-up = Link stabilit
 about-networking-networkid-status-known = Starea linkului este necunoscută
 

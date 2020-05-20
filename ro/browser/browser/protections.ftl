@@ -10,6 +10,7 @@ graph-week-summary =
         [few] { -brand-short-name } a blocat { $count } elemente de urmărire în ultima săptămână
        *[other] { -brand-short-name } a blocat { $count } de elemente de urmărire în ultima săptămână
     }
+
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -20,10 +21,12 @@ graph-total-tracker-summary =
         [few] <b>{ $count }</b> elemente de urmărire blocate de la { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> de elemente de urmărire blocate de la { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
+
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } continuă să blocheze elementele de urmărire în ferestrele private, dar nu ține o evidență cu ce a blocat.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Elementele de urmărire blocate de { -brand-short-name } săptămâna aceasta
+
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -35,33 +38,46 @@ protection-report-header-details-custom = Nivelul de protecție este setat pe <b
     .title = Mergi la Setări de confidențialitate
 protection-report-page-title = Protecții pentru confidențialitate
 protection-report-content-title = Protecții pentru confidențialitate
+
 etp-card-title = Protecție îmbunătățită împotriva urmăririi
 etp-card-content = Elementele de urmărire te urmăresc online pentru a colecta informații despre obiceiurile și interesele tale de navigare. { -brand-short-name } blochează multe dintre aceste elementele de urmărire și alte scripturi rău-intenționate.
+
 protection-report-etp-card-content-custom-not-blocking = Toate protecțiile sunt acum dezactivate. Selectează elementele de urmărire care să fie blocate prin gestionarea setărilor de protecție din { -brand-short-name }.
 protection-report-manage-protections = Gestionează setările
+
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = Astăzi
+
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Un grafic ce conține numărul total de elemente de urmărire din fiecare tip blocate în această săptămână.
+
 social-tab-title = Elemente de urmărire ale rețelelor sociale
 social-tab-contant = Rețelele sociale plasează elemente de urmărire pe alte site-uri web pentru a urmări ceea ce faci, vezi și urmărești online. Acest lucru permite companiilor rețelelor sociale să afle mai multe despre tine, dincolo de ceea ce împărtășești pe profilurile rețelelor sociale. <a data-l10n-name="learn-more-link">Află mai multe</a>
+
 cookie-tab-title = Cookie-uri de urmărire între site-uri
 cookie-tab-content = Aceste cookie-uri te urmăresc de pe un site pe altul pentru a colecta date despre ceea ce faci online. Acestea sunt setate de terțe părți precum agenții de publicitate și companiile de analiză. Blocarea cookie-urilor de urmărire între site-uri reduce numărul de reclame care se țin după tine. <a data-l10n-name="learn-more-link">Află mai multe</a>
+
 tracker-tab-title = Conținut de urmărire
 tracker-tab-description = Site-urile web pot încărca reclame externe, videoclipuri și alte conținuturi ce conțin coduri de urmărire. Blocarea conținutului de urmărire poate ajuta site-urile să se încarce mai rapid, dar este posibil ca unele butoane, formulare și câmpuri de autentificare să nu funcționeze. <a data-l10n-name="learn-more-link">Află mai multe</a>
+
 fingerprinter-tab-title = Generatoare de amprente digitale
 fingerprinter-tab-content = Generatoarele de amprente digitale îți colectează setările din browser și calculator și creează un profil despre tine. Cu această amprentă digitală, te pot urmări pe diferite site-uri web. <a data-l10n-name="learn-more-link">Află mai multe</a>
+
 cryptominer-tab-title = Criptomineri
 cryptominer-tab-content = Criptomomerii folosesc puterea de calcul a sistemului tău pentru a mina bani digitali. Scripturile de criptominare îți golesc bateria, îți încetinesc calculatorul și îți pot crește factura la energie. <a data-l10n-name="learn-more-link">Află mai multe</a>
+
 protections-close-button =
     .aria-label = Închide
+
 protections-close-button2 =
     .aria-label = Închide
     .title = Închide
+  
 mobile-app-title = Blochează elementele de urmărire din reclame pe mai multe dispozitive
 mobile-app-card-content = Folosește browserul pentru dispozitive mobile cu protecție integrată împotriva elementelor de urmărire din reclame.
 mobile-app-links = { -brand-product-name } Browser pentru <a data-l10n-name="android-mobile-inline-link">Android</a> și <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+
 lockwise-title = Nu mai pierzi niciodată o parolă
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-header-content = { -lockwise-brand-name } îți stochează în siguranță parolele în browser.
@@ -71,6 +87,7 @@ protection-report-view-logins-button = Vezi datele de autentificare
 lockwise-mobile-app-title = Ia-ți cu tine parolele oriunde
 lockwise-no-logins-card-content = Folosește parolele salvate în { -brand-short-name } pe orice dispozitiv.
 lockwise-app-links = { -lockwise-brand-name } pentru <a data-l10n-name="lockwise-android-inline-link"> Androi</a> și <a data-l10n-name = "lockwise-ios-inline-link" >iOS</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -80,9 +97,12 @@ lockwise-passwords-stored =
         [few] parole stocate în siguranță <a data-l10n-name="lockwise-how-it-works">Cum funcționează</a>
        *[other] de parole stocate în siguranță <a data-l10n-name="lockwise-how-it-works">Cum funcționează</a>
     }
+
 turn-on-sync = Activează { -sync-brand-short-name }...
     .title = Mergi la preferințele de sincronizare
+
 manage-connected-devices = Gestionează dispozitivele…
+
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -91,12 +111,14 @@ lockwise-connected-device-status =
         [few] Conectat la { $count } dispozitive
        *[other] Conectat la { $count } de dispozitive
     }
+
 monitor-title = Fii atent(ă) la breșe de date
 monitor-link = Cum funcționează
 monitor-header-content-no-account = Verifică { -monitor-brand-name } și vezi dacă ai fost implicat(ă) într-o breșă de date cunoscută și pentru a obține alerte despre breșele noi.
 monitor-header-content-signed-in = { -monitor-brand-name } te avertizează dacă datele tale apar într-o breșă de date cunoscută.
 monitor-sign-up = Înregistrează-te pentru alerte despre breșe de date
 auto-scan = Scanat automat astăzi
+
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -106,6 +128,7 @@ info-monitored-emails =
         [few] adrese de e-mail monitorizate
        *[other] de adrese de e-mail monitorizate
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -115,6 +138,7 @@ info-known-breaches-found =
         [few] breșe cunoscute de date ți-au expus informațiile
        *[other] de breșe cunoscute de date ți-au expus informațiile
     }
+
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -124,7 +148,9 @@ info-exposed-passwords-found =
         [few] parole expuse în toate breșele de date
        *[other] de parole expuse în toate breșele de date
     }
+
 full-report-link = Vezi raportul complet pe <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.

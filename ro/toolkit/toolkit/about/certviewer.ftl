@@ -81,6 +81,7 @@ certificate-viewer-authority-info-aia = Informații despre autoritate (AIA)
 certificate-viewer-certificate-policies = Politicile certificatului
 certificate-viewer-embedded-scts = SCT înglobate
 certificate-viewer-crl-endpoints = Puncte de sfârșit CRL
+
 # This message is used as a row header in the Miscellaneous section. 
 # The associated data cell contains links to download the certificate.
 certificate-viewer-download = Descărcare
@@ -100,6 +101,7 @@ certificate-viewer-download-pem = PEM (cert)
     .download = { $fileName }.pem
 certificate-viewer-download-pem-chain = PEM (lanț)
     .download = { $fileName }-chain.pem
+
 # The title attribute for Critical Extension icon
 certificate-viewer-critical-extension =
     .title = Această extensie a fost marcată drept critică, iar clienții trebuie să respingă certificatul dacă nu îl înțeleg.

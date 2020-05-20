@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Module de jurnalizare pentru navigarea sigură
 url-classifier-debug-modules = Modulele actuale de înregistrare în jurnal
 url-classifier-debug-sbjs-modules = Jurnalizare JS pentru navigarea sigură
 url-classifier-debug-file = Fișierul actual pentru jurnal
+
 url-classifier-trigger-update = Declanșează actualizarea
 url-classifier-not-available = Indisponibil
 url-classifier-disable-sbjs-log = Dezactivează jurnalizarea JS pentru navigarea sigură
