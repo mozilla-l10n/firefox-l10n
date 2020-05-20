@@ -10,10 +10,12 @@
 
 <!ENTITY disableAddons.label "Wyłącz wszystkie dodatki">
 <!ENTITY disableAddons.accesskey "W">
+
 <!ENTITY resetToolbars.label "Przywróć domyślne paski narzędzi i przyciski">
 <!ENTITY resetToolbars.accesskey "P">
 
 <!ENTITY changeAndRestartButton.label "Wprowadź zmiany i uruchom ponownie">
 <!ENTITY changeAndRestartButton.accesskey "z">
+
 <!ENTITY continueButton.label "Kontynuuj w trybie awaryjnym">
 <!ENTITY continueButton.accesskey "K">

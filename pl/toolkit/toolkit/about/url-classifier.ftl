@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Moduły dziennika bezpiecznego przeglądania
 url-classifier-debug-modules = Bieżące moduły dziennika
 url-classifier-debug-sbjs-modules = Moduły dziennika bezpiecznego przeglądania JavaScript
 url-classifier-debug-file = Bieżący plik dziennika
+
 url-classifier-trigger-update = Uruchom uaktualnienie
 url-classifier-not-available = Niedostępny
 url-classifier-disable-sbjs-log = Wyłącz dziennik bezpiecznego przeglądania

@@ -8,6 +8,7 @@ password-quality-meter = Miernik jakości hasła
 
 change-password-window =
     .title = Zmień hasło główne
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Urządzenie zabezpieczające: { $tokenName }

@@ -4,10 +4,15 @@
 
 fonts-window =
     .title = Czcionki
+
 fonts-window-close =
     .key = w
+
+## Font groups by language
+
 fonts-langgroup-header = Czcionki:
     .accesskey = C
+
 fonts-langgroup-arabic=
   .label=arabskie
 fonts-langgroup-armenian=
@@ -66,33 +71,53 @@ fonts-langgroup-canadian=
   .label=ujednoliconego sylabariusza kanadyjskiego
 fonts-langgroup-other=
   .label=innych systemów pisma
+
+## Default fonts and their sizes
+
 fonts-proportional-header = Proporcjonalna:
     .accesskey = a
+
 fonts-default-serif=
   .label=szeryfowa
 fonts-default-sans-serif=
   .label=bezszeryfowa
+
 fonts-proportional-size = Rozmiar:
     .accesskey = R
+
 fonts-serif = Szeryfowa:
     .accesskey = S
+
 fonts-sans-serif = Bezszeryfowa:
     .accesskey = B
+
 fonts-monospace = O stałej szerokości:
     .accesskey = O
+
 fonts-monospace-size = Rozmiar:
     .accesskey = z
+
 fonts-minsize = Minimalny rozmiar czcionki:
     .accesskey = M
+
 fonts-minsize-none=
   .label=brak
+
 fonts-allow-own=
   .label=Pozwalaj stronom stosować inne czcionki niż ustawione tutaj
   .accesskey=P
+
+## Text Encodings
+##
+## Translate the encoding names as adjectives for an encoding, not as the name
+## of the language.
+
 fonts-languages-fallback-header = Kodowanie tekstu dla przestarzałych treści
 fonts-languages-fallback-desc = Kodowanie tekstu używane na stronach, które same go nie określają.
+
 fonts-languages-fallback-label=Rezerwowe kodowanie tekstu:
   .accesskey=R
+
 fonts-languages-fallback-name-auto=
   .label=domyślne dla obecnej lokalizacji
 fonts-languages-fallback-name-arabic=
@@ -125,10 +150,6 @@ fonts-languages-fallback-name-vietnamese=
   .label=wietnamskie
 fonts-languages-fallback-name-other=
   .label=inne (łącznie z zachodnioeuropejskimi)
-
-fonts-very-large-warning-title = Duży rozmiar minimalny czcionki
-fonts-very-large-warning-message = Ustawiasz bardzo duży rozmiar minimalny czcionki (większy niż 24 piksele). Może to spowodować trudności lub uniemożliwić korzystanie z niektórych ważnych stron konfiguracyjnych (takich jak ta).
-fonts-very-large-warning-accept = Zachowaj zmiany
 
 fonts-label-default=
   .label=domyślna ({ $name })

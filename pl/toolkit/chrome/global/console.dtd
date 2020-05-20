@@ -25,13 +25,13 @@
 <!ENTITY filter2.label      "Filtr:">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label "Kopiuj" >
-<!ENTITY copyCmd.accesskey "K" >
-<!ENTITY copyCmd.commandkey "C" >
+<!ENTITY copyCmd.label "Kopiuj" >  
+<!ENTITY copyCmd.accesskey "K" > 
+<!ENTITY copyCmd.commandkey "C" > 
 <!ENTITY sortFirst.label "Sortowanie od pierwszego do ostatniego" >
 <!ENTITY sortFirst.accesskey "S" >
 <!ENTITY sortLast.label "Sortowanie od ostatniego do pierwszego" >
 <!ENTITY sortLast.accesskey "o" >
-<!ENTITY closeCmd.commandkey "W" >
-<!ENTITY focus1.commandkey "l" >
-<!ENTITY focus2.commandkey "d" >
+<!ENTITY closeCmd.commandkey "W" >  
+<!ENTITY focus1.commandkey "l" >  
+<!ENTITY focus2.commandkey "d" >  

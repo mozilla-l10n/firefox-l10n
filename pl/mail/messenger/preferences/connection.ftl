@@ -4,13 +4,16 @@
 
 connection-dns-over-https-url-resolver = Dostawca
     .accesskey = D
+
 # Variables:
 #   $name (String) - Display name or URL for the DNS over HTTPS provider
 connection-dns-over-https-url-item-default =
     .label = { $name } (domyślny)
     .tooltiptext = Użyj domyślnego adresu serwera DNS udostępnionego poprzez HTTPS
+
 connection-dns-over-https-url-custom =
     .label = Własny adres:
     .accesskey = W
     .tooltiptext = Podaj adres wybranego serwera DNS udostępnionego poprzez HTTPS
+
 connection-dns-over-https-custom-label = Własny adres:

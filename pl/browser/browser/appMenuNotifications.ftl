@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = Rozszerzenia dodane do przeglądarki { -brand-shorter-name } nie będą działać w oknach prywatnych, jeśli nie zostanie to zmienione w ustawieniach.
 appmenu-addon-private-browsing-learn-more = Więcej informacji o zarządzaniu ustawieniami rozszerzeń.
+    
 appmenu-new-tab-controlled =
     .label = Strona nowej karty została zmieniona.
     .buttonlabel = Używaj nowej

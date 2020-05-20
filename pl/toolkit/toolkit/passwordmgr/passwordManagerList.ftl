@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Zamknij
     .accesskey = Z
+
 show-passwords =
     .label = Wyświetl hasła
     .accesskey = h

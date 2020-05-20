@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Dodaj nowy serwis przechowywania plików">
 <!ENTITY removeCloudFileAccount.label     "Usuń">
 <!ENTITY removeCloudFileAccount.accesskey "U">
-<!ENTITY authRequired.description         "Wymagane jest upoważnienie, aby wyświetlić ustawienia tego serwisu przechowywania.">
-<!ENTITY authRequired.button.label        "Upoważnienie">
-<!ENTITY authRequired.button.accesskey    "a">
 
 <!ENTITY findCloudFileProviders.label     "Znajdź więcej dostawców…">
 

@@ -15,11 +15,14 @@ config-about-warning-button =
     .label = Akceptuję ryzyko
 config-about-warning-checkbox =
     .label = Wyświetl to ostrzeżenie następnym razem
+
 config-search-prefs =
     .value = Szukaj:
     .accesskey = S
+
 config-focus-search =
     .key = r
+
 config-focus-search-2 =
     .key = f
 
@@ -47,45 +50,60 @@ config-copy-pref =
     .key = C
     .label = Kopiuj
     .accesskey = K
+
 config-copy-name =
     .label = Kopiuj nazwę
     .accesskey = n
+
 config-copy-value =
     .label = Kopiuj wartość
     .accesskey = w
+
 config-modify =
     .label = Modyfikuj
     .accesskey = M
+
 config-toggle =
     .label = Przełącz
     .accesskey = P
+
 config-reset =
     .label = Resetuj
     .accesskey = R
+
 config-new =
     .label = Dodaj ustawienie typu
     .accesskey = D
+
 config-string =
     .label = Łańcuch (string)
     .accesskey = s
+
 config-integer =
     .label = Liczba całkowita (integer)
     .accesskey = I
+
 config-boolean =
     .label = Wartość logiczna (boolean)
     .accesskey = B
+
 config-default = domyślny
 config-modified = zmodyfikowany
 config-locked = zablokowany
+
 config-property-string = łańcuch
 config-property-int = liczba całkowita
 config-property-bool = wartość logiczna
+
 config-new-prompt = Wprowadź nazwę nowego ustawienia
+
 config-nan-title = Nieprawidłowa wartość
 config-nan-text = Wprowadzony tekst nie jest liczbą.
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-new-title = Nowe ustawienie typu „{ $type }”
+
 # Variables:
 #   $type (String): type of value (boolean, integer or string)
 config-modify-title = Wprowadź wartość ustawienia typu „{ $type }”

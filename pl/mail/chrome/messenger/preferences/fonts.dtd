@@ -64,10 +64,11 @@
 <!ENTITY useDocumentFonts.label "Zezwalaj na używanie czcionek zadeklarowanych w wiadomościach">
 <!ENTITY useDocumentFonts.accesskey "Z">
 
-<!ENTITY languagesTitle2.label "Kodowanie tekstu">
-<!ENTITY composingDescription2.label "Ustawienia domyślnego kodowania tekstu wysyłanych i odbieranych wiadomości">
 <!ENTITY sendDefaultCharset.label "Poczta wychodząca:">
 <!ENTITY sendDefaultCharset.accesskey "w">
+<!ENTITY languagesTitle2.label "Kodowanie tekstu">
+<!ENTITY composingDescription2.label "Ustawienia domyślnego kodowania tekstu wysyłanych i odbieranych wiadomości">
+
 <!ENTITY viewDefaultCharsetList.label "Poczta przychodząca:">
 <!ENTITY viewDefaultCharsetList.accesskey "t">
 <!ENTITY replyInDefaultCharset3.label "Używaj domyślnego kodowania tekstu w odpowiedziach zawsze, kiedy to możliwe">

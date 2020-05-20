@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "Z">
 <!ENTITY runtimeMenu_showDetails_label "Informacje">
 <!ENTITY runtimeMenu_showDetails_accesskey "I">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor zasobów">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Ustawienia urządzenia">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "U">
 <!ENTITY runtimeMenu_showSettings_label "Ustawienia urządzenia">
@@ -55,8 +53,10 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Otwórz aplikację">
+
 <!ENTITY runtimeButton_label "Wybierz środowisko">
 
+<!-- We try to repicate Firefox' bindings: -->
 <!ENTITY key_quit "W">
 <!ENTITY key_showProjectPanel "O">
 <!ENTITY key_play "R">
@@ -72,8 +72,6 @@
 <!ENTITY runtimePanel_usb "Urządzenia USB">
 <!ENTITY runtimePanel_wifi "Urządzenia Wi-Fi">
 <!ENTITY runtimePanel_other "Inne">
-<!ENTITY runtimePanel_noadbhelper "Zainstaluj dodatek ADB Helper">
-<!ENTITY runtimePanel_noadbextension "Zainstaluj rozszerzenie ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Niewidoczne urządzenie?">
 <!ENTITY runtimePanel_refreshDevices_label "Odśwież listę urządzeń">
 
@@ -90,7 +88,11 @@
 <!ENTITY newAppLoadingTemplate "Wczytywanie szablonów…">
 <!ENTITY newAppProjectName "Nazwa projektu:">
 
+
+<!-- Decks -->
+
 <!ENTITY deck_close "Zamknij">
+
 <!ENTITY addons_title "Dodatkowe komponenty">
 <!ENTITY addons_aboutaddons "Otwórz menedżer dodatków">
 
@@ -107,12 +109,6 @@
 <!ENTITY prefs_options_templatesurl_tooltip "Indeks dostępnych szablonów">
 
 <!ENTITY runtimedetails_title "Informacje o środowisku">
-<!ENTITY runtimedetails_adbIsRoot "ADB root: ">
-<!ENTITY runtimedetails_summonADBRoot "zażądaj wyższych uprawnień">
-<!ENTITY runtimedetails_ADBRootWarning "Wymagany odblokowany bootloader">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Nieograniczone uprawnienia narzędzi: ">
-<!ENTITY runtimedetails_requestPrivileges "zażądaj wyższych uprawnień">
-<!ENTITY runtimedetails_privilegesWarning "Urządzenie zostanie uruchomione ponownie. Wymagane uprawnienia użytkownika „root”">
 
 <!ENTITY device_typeboolean "Wartość logiczna">
 <!ENTITY device_typenumber "Liczba całkowita">
@@ -125,15 +121,14 @@
 <!ENTITY devicepreference_newname "Nazwa ustawienia">
 <!ENTITY devicepreference_newtext "Wartość ustawienia">
 <!ENTITY devicepreference_addnew "Dodaj ustawienie">
+
 <!ENTITY devicesetting_title "Ustawienia urządzenia">
 <!ENTITY devicesetting_search "Ustawienia wyszukiwania">
 <!ENTITY devicesetting_newname "Nazwa ustawienia">
 <!ENTITY devicesetting_newtext "Wartość ustawienia">
 <!ENTITY devicesetting_addnew "Dodaj ustawienie">
 
-<!ENTITY monitor_title "Monitor zasobów">
-<!ENTITY monitor_help "Pomoc">
-
+<!-- WiFi Authentication -->
 <!ENTITY wifi_auth_header "Identyfikacja klienta">
 <!ENTITY wifi_auth_scan_request "Urządzenie, z którym się łączysz, potrzebuje więcej informacji, aby uwierzytelnić to połączenie. Proszę zeskanować poniższy kod QR z poziomu komunikatu wyświetlanego na drugim urządzeniu.">
 <!ENTITY wifi_auth_no_scanner "Brak komunikatu skanera kodów QR?">

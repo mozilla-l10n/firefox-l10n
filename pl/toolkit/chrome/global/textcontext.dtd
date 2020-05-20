@@ -29,10 +29,6 @@
 
 <!ENTITY fillLoginMenu.label          "Uzupełnij dane logowania">
 <!ENTITY fillLoginMenu.accesskey      "z">
-<!ENTITY fillGeneratedPassword.label  "Użyj bezpiecznie wygenerowanego hasła">
-<!ENTITY fillGeneratedPassword.accesskey "b">
-<!ENTITY useGeneratedPassword.label   "Użyj bezpiecznie wygenerowanego hasła…">
-<!ENTITY useGeneratedPassword.accesskey "b">
 <!ENTITY fillPasswordMenu.label       "Uzupełnij hasło">
 <!ENTITY fillPasswordMenu.accesskey   "h">
 <!ENTITY fillUsernameMenu.label       "Uzupełnij nazwę użytkownika">

@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Wstaw nową kotwicę albo edytuj właściwości wybranej kotwicy">
 <!ENTITY TextColorButton.tooltip "Wybierz kolor dla tekstu">
 <!ENTITY BackgroundColorButton.tooltip "Wybierz kolor dla tła">
-<!ENTITY throbber.tooltip "Przejdź do strony organizacji &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Przejdź do strony programu &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Wybierz kolor podświetlenia dla tekstu">
 

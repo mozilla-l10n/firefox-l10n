@@ -12,6 +12,7 @@
 <!ENTITY translation.translatedFrom.label "Oryginalny język strony:">
 <!ENTITY translation.translatedTo.label "Obecny język strony:">
 <!ENTITY translation.translatedToSuffix.label "">
+
 <!ENTITY translation.showOriginal.button "Wyświetl w oryginale">
 <!ENTITY translation.showTranslation.button "Wyświetl przetłumaczoną wersję">
 
@@ -25,6 +26,8 @@
 <!ENTITY translation.options.neverForSite.accesskey "s">
 <!ENTITY translation.options.preferences.label "Preferencje tłumaczenia">
 <!ENTITY translation.options.preferences.accesskey "P">
+
 <!ENTITY translation.options.attribution.beforeLogo "Tłumaczeń dostarcza">
 <!ENTITY translation.options.attribution.afterLogo "">
+
 <!ENTITY translation.options.attribution.yandexTranslate "Tłumaczeń dostarcza Yandex.Translate">

@@ -2,11 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the Style Editor window strings -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
+<!-- LOCALIZATION NOTE : The correct localization of this file might be to keep
+     it in English, or another language commonly spoken among web developers.
+     You want to make that choice consistent across the developer tools.
+     A good criteria is the language in which you'd find the best documentation
+     on web development on the web. -->
+
 <!ENTITY newButton.label            "Nowy">
 <!ENTITY newButton.tooltip          "Utwórz nowy arkusz stylów i dołącz go do dokumentu">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "Importuj…">
+
 <!ENTITY importButton.tooltip       "Importuj istniejący arkusz stylów i dołącz go do dokumentu">
 <!ENTITY importButton.accesskey     "I">
 
@@ -17,16 +26,13 @@
 <!ENTITY saveButton.accesskey       "Z">
 
 <!ENTITY optionsButton.tooltip "Ustawienia edytora stylów">
-<!ENTITY showOriginalSources.label "Oryginalne źródła">
-<!ENTITY showOriginalSources.accesskey "O">
-<!ENTITY showMediaSidebar.label "Panel @media">
-<!ENTITY showMediaSidebar.accesskey "P">
 
 <!ENTITY mediaRules.label "Reguły @media">
 
 <!ENTITY editorTextbox.placeholder  "Wprowadź tutaj CSS.">
 
 <!ENTITY noStyleSheet.label         "Ta strona nie ma arkusza stylów.">
+
 <!ENTITY noStyleSheet-tip-start.label  "Być może chcesz ">
 <!ENTITY noStyleSheet-tip-action.label "dołączyć nowy arkusz stylów">
 <!ENTITY noStyleSheet-tip-end.label    "?">
