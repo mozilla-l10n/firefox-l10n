@@ -11,6 +11,12 @@
    - A good criteria is the language in which you'd find the best
    - documentation on web development on the web. -->
 
+<!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
+  - keep it in English, or another language commonly spoken among web developers.
+  - You want to make that choice consistent across the developer tools.
+  - A good criteria is the language in which you'd find the best
+  - documentation on web development on the web. -->
+
 <!-- LOCALIZATION NOTE (scratchpad.title):
    -  The Scratchpad is intended to provide a simple text editor for creating
    -  and evaluating bits of JavaScript code for the purposes of function
@@ -127,6 +133,7 @@
 
 <!ENTITY documentationLink.label      "Ayuda del borrador en MDN">
 <!ENTITY documentationLink.accesskey  "d">
+
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer
   -  to reset/clear the global object of the environment where the code executes.

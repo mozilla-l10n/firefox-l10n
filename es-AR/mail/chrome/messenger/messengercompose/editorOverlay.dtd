@@ -306,7 +306,6 @@
 <!ENTITY anchorToolbarCmd.tooltip "Inserta un nuevo enlace con nombre o modifica las propiedades del enlace con nombre seleccionado">
 <!ENTITY TextColorButton.tooltip "Elija un color para el texto">
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
-<!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ir a la página de inicio de &brandShortName;">
 <!ENTITY HighlightColorButton.tooltip "Elegir color para remarcar texto">
 

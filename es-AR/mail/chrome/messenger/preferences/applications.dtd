@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Agregar un nuevo servicio de almacenamiento Filelink">
 <!ENTITY removeCloudFileAccount.label     "Eliminar">
 <!ENTITY removeCloudFileAccount.accesskey "r">
-<!ENTITY authRequired.description         "Su autorización es necesaria para ver la configuración de este servicio de almacenamiento.">
-<!ENTITY authRequired.button.label        "Autorizar">
-<!ENTITY authRequired.button.accesskey    "u">
 
 <!ENTITY findCloudFileProviders.label     "Buscar más proveedores…">
 

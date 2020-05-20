@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "H">
 <!ENTITY downloadOnBiff.label "Descargar automáticamente los mensajes nuevos">
 <!ENTITY downloadOnBiff.accesskey "m">
-<!ENTITY username.label "Nombre de la cuenta">
 <!ENTITY deleteMessagePrefix.label "Cuando borre un mensaje:">
 <!ENTITY modelMoveToTrash.label "Moverlo a esta carpeta">
 <!ENTITY modelMoveToTrash.accesskey "o">
@@ -70,17 +69,17 @@
 <!ENTITY alwaysAuthenticate.label "Siempre solicitar autenticación cuando se conecte con este servidor">
 <!ENTITY alwaysAuthenticate.accesskey "p">
 <!ENTITY newsrcFilePath.label "archivo newsrc:">
-<!ENTITY localPath.label "Directorio local:">
+<!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
 <!ENTITY abbreviate.label "Mostrar los nombres de los grupos de noticias en la carpeta de correo como:">
 <!ENTITY abbreviateOn.label "Nombres completos (Por ejemplo, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Nombres abreviados (Por ejemplo,'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Avanzadas…">
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "Codificación de texto predeterminada:">
+<!ENTITY localPath.label "Directorio local:">
 <!ENTITY localFolderPicker.label "Seleccione directorio local">
 <!ENTITY browseFolder.label "Examinar…">
 <!ENTITY browseFolder.accesskey "x">
-<!ENTITY newsrcPicker.label "Seleccionar archivo newsrc">
 <!ENTITY browseNewsrc.label "Examinar…">
 <!ENTITY browseNewsrc.accesskey "E">
 

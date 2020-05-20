@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Tipografía:">
 <!ENTITY font.accesskey                       "g">
-<!ENTITY size.label                           "Tamaño:">
-<!ENTITY size.accesskey                       "T">
 <!ENTITY fontSize.label                       "Tamaño:">
 <!ENTITY fontSize.accesskey                   "z">
 <!ENTITY useReaderDefaults.label              "Usar los colores predeterminados del lector">

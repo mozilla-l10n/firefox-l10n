@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Nuevo separador">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Recargar marcador vivo">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
-<!ENTITY cmd.moveBookmarks.label                  "Mover…">
-<!ENTITY cmd.moveBookmarks.accesskey              "M">
-
 <!ENTITY col.name.label          "Nombre">
 <!ENTITY col.tags.label          "Etiquetas">
 <!ENTITY col.url.label           "Dirección">
 <!ENTITY col.mostrecentvisit.label "Visita más reciente">
 <!ENTITY col.visitcount.label    "Cantidad de visitas">
-<!ENTITY col.description.label   "Descripción">
 <!ENTITY col.dateadded.label     "Agregado">
 <!ENTITY col.lastmodified.label  "Última modificación">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Ir adelante">
 
-<!ENTITY detailsPane.more.label "Más">
-<!ENTITY detailsPane.more.accesskey "M">
-<!ENTITY detailsPane.less.label "Menos">
-<!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Seleccione un ítem para mostrar y editar sus propiedades">
 
 <!ENTITY view.label               "Ver">

@@ -173,6 +173,7 @@
      -->
 <!ENTITY quickFilterBar.textbox.emptyText.keyLabel2.nonmac
          "&lt;Ctrl+May+K&gt;">
+
 <!-- LOCALIZATION NOTE (quickFilterBar.textbox.emptyText.keyLabel.mac):
      The description of the key-binding to get into the box on mac systems.
      This should match the value of quickFilterBar.show.key above.

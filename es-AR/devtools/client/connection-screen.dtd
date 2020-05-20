@@ -7,6 +7,11 @@
   - `devtools connect`
   - -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the Remote Connection strings.
+  - The Remote Connection window can reached from the "connect…" menuitem
+  - in the Web Developer menu.
+  - -->
+
 <!ENTITY title      "Conectar">
 <!ENTITY header     "Conectar a dispositivo remoto">
 <!ENTITY host       "Servidor:">
