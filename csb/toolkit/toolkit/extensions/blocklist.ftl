@@ -8,12 +8,14 @@ blocklist-window =
 blocklist-accept =
     .label = Zrëszë { -brand-short-name } znowa
     .accesskey = r
+
 blocklist-label-summary = Program { -brand-short-name } pòznôł, że pòniższé dodôwczi mògą robic problemë w bezpiekù abò strace sztabilnotë.
 blocklist-soft-and-hard = Dodôwczi z wësoczim rizykã sparłãczonym ze sztabilnotą i bezpiekã òstałé zablokòwóné. Reszta mô môłé rizykò, zamòdlëwô sã równak zrëszëc program znowa z jich wëłączenim.
 blocklist-hard-blocked = W tëch dodôwkach je wësoczé rizykò sparłãczoné ze sztabilnotą i bezpiekã przez co òstałé òne zablokòwóné, równak do całownégò jich wëłączeniô nót je zrëszëc program znowa.
 blocklist-soft-blocked = Dlô ùtrzëmaniô bezpiekù zamòdlëwô sã zrëszenié znowa z wëłączenim nëch dodôwków.
 blocklist-more-information =
     .value = Wicy wëdowiédzë
+
 blocklist-blocked =
     .label = Zablokòwóny
 blocklist-checkbox =

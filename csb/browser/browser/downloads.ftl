@@ -23,20 +23,24 @@ downloads-cmd-cancel =
     .tooltiptext = Òprzestóń
 downloads-cmd-cancel-panel =
     .aria-label = Òprzestóń
+
 # This message is only displayed on Windows and Linux devices
 downloads-cmd-show-menuitem =
     .label = Òtemkni zamikający w se katalog
     .accesskey = t
+  
 # This message is only displayed on macOS devices
 downloads-cmd-show-menuitem-mac =
     .label = Wëskrzëni w Finderze
     .accesskey = W
+
 downloads-cmd-show-button =
     .tooltiptext =
         { PLATFORM() ->
             [macos] Wëskrzëni w Finderze
            *[other] Òtemkni zamikający w se katalog
         }
+
 downloads-cmd-show-panel =
     .aria-label =
         { PLATFORM() ->
@@ -49,6 +53,7 @@ downloads-cmd-show-description =
             [macos] Wëskrzëni w Finderze
            *[other] Òtemkni zamikający w se katalog
         }
+
 downloads-cmd-retry =
     .tooltiptext = Spróbùjë znowa
 downloads-cmd-retry-panel =
@@ -65,16 +70,20 @@ downloads-cmd-remove-from-history =
 downloads-cmd-clear-downloads =
     .label = Rëmôj zladënczi
     .accesskey = z
+
 # This string is shown at the bottom of the Downloads Panel when all the
 # downloads fit in the available space, or when there are no downloads in
 # the panel at all.
 downloads-history =
     .label = Wëskrzëni wszëtczé zladënczi
     .accesskey = W
+
 downloads-clear-downloads-button =
     .label = Wëczëszczë zladënczi
     .tooltiptext = Rëmùje skùńczoné, òprzestóné i lëché zladënczi
+
 # This string is shown when there are no items in the Downloads view, when it
 # is displayed inside a browser tab.
 downloads-list-empty =
     .value = Nima zladënków.
+

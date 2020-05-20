@@ -4,11 +4,13 @@
 
 psmerr-ssl-disabled = Ni mòże sparłãczec sã z serwerã bò protokół SSL je wëłączony.
 psmerr-ssl2-disabled = Ni mòże sã bezpieczno sparłãczëc bò strona ùżiwô straszą, niebezpieczną wersjô protokółu SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Môsz lëchi certifikat. Proszã ò danié wiédzë miéwcë servera abò aùtora emaila i pòdanié że:
     
     Twòj certifikat zamikô w se numer brëkòwóny bez jinszi certifikat. Proszã zwëskôj nowi certifikat chtërn zamikô w se ùnikalny numer.
+
 ssl-error-export-only-server = Ni mòże dobëc bezpiecznégò sparłãczeniô. Serwer nie wspierô szifrowaniô wësoczi lédżi.
 ssl-error-us-only-server = Ni mòże dobëc bezpiecznégò sparłãczeniô. Serwerowi je nót szifrowaniô wësoczi lédżi, chtërne nie je wspieróné.
 ssl-error-no-cypher-overlap = Ni mòże dobëc bezpiecznégò sparłãczeniô: felënk wespólnëch algòritmów szifrowaniô.

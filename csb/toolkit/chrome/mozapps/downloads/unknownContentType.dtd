@@ -4,6 +4,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 -->
 
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY intro2.label 				"Chcész òtemknąc:">
 <!ENTITY  from.label                  "z:">
 <!ENTITY  actionQuestion.label        "Co mô zrobic &brandShortName; z tim lopkã?">
@@ -17,6 +21,7 @@
 
 <!ENTITY  rememberChoice.label        "Spamiãtôj nen wëbiérk dlô wszëtczich lopków negò ôrtu.">
 <!ENTITY  rememberChoice.accesskey    "a">
+
 <!ENTITY whichIs.label "Ôrt lopka:">
 
 <!ENTITY  chooseHandlerMac.label      "Wëbierzë…">

@@ -29,6 +29,9 @@
 <!ENTITY evaluate.label     "Analizëjë">
 <!ENTITY evaluate.accesskey "A">
 
+<!ENTITY filter2.label "filter:">
+<!ENTITY filter2.accesskey "i">
+
 <!ENTITY copyCmd.label       "Kòpérëjë">  
 <!ENTITY copyCmd.accesskey   "K"> 
 <!ENTITY copyCmd.commandkey  "k"> 
@@ -39,5 +42,3 @@
 <!ENTITY closeCmd.commandkey "Z">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
-<!ENTITY filter2.label "filter:">
-<!ENTITY filter2.accesskey "i">

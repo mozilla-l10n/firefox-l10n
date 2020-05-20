@@ -3,27 +3,24 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 history-title = Historiô aktualizacje
+
 close-button-label =
     .buttonlabelcancel = Zamkni
     .title = Historiô aktualizacje
+
 no-updates-label = Jesz nie winstalowóno niżódnëch aktualizacje
 name-header = Miono aktualizacje
 date-header = Datum instalacje
 type-header = Ôrt
 state-header = Stón
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Detale
 update-installed-on = Òstało winstalowóné: { $date }
 update-status = Stón: { $status }

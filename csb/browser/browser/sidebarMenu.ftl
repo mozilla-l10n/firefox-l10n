@@ -4,5 +4,7 @@
 
 sidebar-menu-bookmarks =
     .label = Załóżczi
+
 sidebar-menu-history =
     .label = Historiô
+

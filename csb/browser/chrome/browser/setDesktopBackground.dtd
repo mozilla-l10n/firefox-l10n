@@ -12,10 +12,9 @@
 <!ENTITY tile.label                 "Sąsôdôjąco">
 <!ENTITY center.label               "Na westrzódkù">
 <!ENTITY stretch.label              "Rozcygniãté">
-<!ENTITY preview.label              "Pòdzérk">
+<!ENTITY fill.label                 "Wëfùlowanié">
+<!ENTITY fit.label                  "Dopasëjë">
 <!ENTITY color.label                "Farwa:">
 <!ENTITY setDesktopBackground.title "Ùsôdzë tapétã">
 <!ENTITY openDesktopPrefs.label     "Òtemkni preferencje pùltu">
 <!ENTITY closeWindow.key            "Z">
-<!ENTITY fill.label                 "Wëfùlowanié">
-<!ENTITY fit.label                  "Dopasëjë">

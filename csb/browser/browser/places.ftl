@@ -14,6 +14,7 @@ places-open-all-in-tabs =
 places-open-window =
     .label = Òtemkni w nowim òknie
     .accesskey = n
+
 places-new-bookmark =
     .label = Nowô załóżka
     .accesskey = z
@@ -26,6 +27,7 @@ places-new-folder =
 places-new-separator =
     .label = Nowi rozdzelnik
     .accesskey = r
+
 places-view =
     .label = Wëzdrzatk
     .accesskey = W
@@ -44,6 +46,7 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Wedle datuma i stronë
     .accesskey = t
+
 places-delete-domain-data =
     .label = Rëmôj całowną domenã
     .accesskey = d

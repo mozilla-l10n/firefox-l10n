@@ -24,11 +24,11 @@
 <!ENTITY spellAddToDictionary.label "Dodôj do słowarza">
 <!ENTITY spellAddToDictionary.accesskey "D">
 
+<!ENTITY spellUndoAddToDictionary.label "Copni dodôj do katalogù"> 
+<!ENTITY spellUndoAddToDictionary.accesskey "n"> 
+<!ENTITY spellCheckToggle.label "Sprôwdzë pisënk">
+<!ENTITY spellCheckToggle.accesskey "ô">
 <!ENTITY spellNoSuggestions.label "(felëje sugestiów)">
 <!ENTITY spellDictionaries.label "Jãzëczi">
 <!ENTITY spellDictionaries.accesskey "J">
 
-<!ENTITY spellUndoAddToDictionary.accesskey "n"> 
-<!ENTITY spellUndoAddToDictionary.label "Copni dodôj do katalogù"> 
-<!ENTITY spellCheckToggle.label "Sprôwdzë pisënk">
-<!ENTITY spellCheckToggle.accesskey "ô">

@@ -6,7 +6,9 @@ pictureinpicture-pause =
     .aria-label = Paùza
 pictureinpicture-play =
     .aria-label = Grajë
+
 pictureinpicture-mute =
     .aria-label = Wëcyszë
 pictureinpicture-unmute =
     .aria-label = Zgłosni
+

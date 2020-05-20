@@ -31,14 +31,6 @@
 
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(priwatné przezéranié)">
 
-<!-- Tab context menu -->
-<!ENTITY  reloadTab.label                    "Zladëjë kôrtã znowa">
-<!ENTITY  reloadTab.accesskey                "l">
-<!ENTITY  reloadAllTabs.label                "Zladëjë wszëtczé kôrtë znowa">
-<!ENTITY  reloadAllTabs.accesskey            "a">
-<!ENTITY  closeOtherTabs.label               "Zamkni resztã kôrtów">
-<!ENTITY  closeOtherTabs.accesskey           "i">
-
 <!-- LOCALIZATION NOTE (pinAppTab.label, unpinAppTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -47,22 +39,15 @@ can reach it easily. -->
 
 
 
-<!ENTITY  moveToGroup.label                  "Przeniesë do grëpë">
-<!ENTITY  moveToGroup.accesskey              "e">
-<!ENTITY  moveToNewGroup.label               "Nowô grëpa">
-<!ENTITY  moveToNewWindow.label              "Przeniesë do nowégò òkna">
-<!ENTITY  moveToNewWindow.accesskey          "o">
-<!ENTITY  bookmarkAllTabs.label              "Dodôj załóżczi dlô wszëtczich kôrtów…">
-<!ENTITY  bookmarkAllTabs.accesskey          "k">
+<!-- Tab context menu -->
+
+<!ENTITY pinTab.label "Przëwôrnié jakno kôrtã aplikacje">
+<!ENTITY pinTab.accesskey "k">
+<!ENTITY unpinTab.label "Òdhôkni kôrtã">
+<!ENTITY unpinTab.accesskey "r">
+
 <!ENTITY  undoCloseTab.label                 "Doprowadzë zamkłą kôrtã nazôd">
 <!ENTITY  undoCloseTab.accesskey             "ô">
-<!ENTITY  closeTab.label                     "Zamkni kôrtã">
-<!ENTITY  closeTab.accesskey                 "a">
-
-<!ENTITY newPrivateWindow.label     "Nowi priwatné òkno">
-<!ENTITY newPrivateWindow.accesskey "ò">
-<!ENTITY remoteWebConsoleCmd.label    "Zdalnô kònsola WWW">
-
 
 <!ENTITY  listAllTabs.label      "Lësta wszëtczich kôrtów">
 
@@ -70,7 +55,6 @@ can reach it easily. -->
 <!ENTITY tabCmd.accesskey "t">
 <!ENTITY tabCmd.commandkey "t">
 <!ENTITY openLocationCmd.label "Òtemkni adres…">
-<!ENTITY openLocationCmd.accesskey "a">
 <!ENTITY openFileCmd.label "Òtemkni lopk…">
 <!ENTITY openFileCmd.accesskey "Ò">
 <!ENTITY openFileCmd.commandkey "Ò">
@@ -88,24 +72,28 @@ can reach it easily. -->
 <!ENTITY menubarCmd.label "Lëstew menu">
 <!ENTITY menubarCmd.accesskey "m">
 <!ENTITY navbarCmd.label "Lëstew nawigacjowëch nôrzãdłów">
-<!ENTITY navbarCmd.accesskey "n">
 <!ENTITY personalbarCmd.label "Lëstew załóżków">
 <!ENTITY personalbarCmd.accesskey "z">
 <!ENTITY bookmarksToolbarItem.label "Elementë lëstwë załóżków">
-<!ENTITY addonBarCmd.label "Lëstew dodôwków">
-<!ENTITY addonBarCmd.accesskey "t">
 
 <!ENTITY pageSourceCmd.label "Zdrój stronë">
 <!ENTITY pageSourceCmd.accesskey "d">
 <!ENTITY pageSourceCmd.commandkey "u">
+
 <!ENTITY pageInfoCmd.label "Wëdowiédzô ò stronie">
 <!ENTITY pageInfoCmd.accesskey "ë">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY enterFullScreenCmd.label "Zrëszi fùlekranowi trib">
+<!ENTITY enterFullScreenCmd.accesskey "f">
+<!ENTITY exitFullScreenCmd.label "Wińdzë z fùlekranowégò tribù">
+<!ENTITY exitFullScreenCmd.accesskey "f">
+
 <!ENTITY fullScreenCmd.label "Fùlekranowi trib">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Wëskrzëni wszëtczé kartë">
 <!ENTITY showAllTabsCmd.accesskey "i">
+
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizëjë">
 <!ENTITY fullScreenRestore.tooltip "Doprowadzë nazôd">
@@ -115,6 +103,9 @@ can reach it easily. -->
 <!ENTITY fullScreenExit.label "Wińdzenié z fùlekranowégò tribù">
 <!ENTITY fullScreenExit.accesskey "ń">
 
+ <!ENTITY leaveDOMFullScreen.label "Wińdzë z fùlekranowégò tribù">
+<!ENTITY leaveDOMFullScreen.accesskey "e">
+
 <!ENTITY closeWindow.label "Zamkni òkno">
 <!ENTITY closeWindow.accesskey "m">
 
@@ -122,11 +113,10 @@ can reach it easily. -->
 <!ENTITY bookmarksMenu.accesskey "Z">
 <!ENTITY bookmarkThisPageCmd.label "Dodôj do załóżków">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY subscribeToPageMenupopup.label "Subskribùjë tã stronã">
-<!ENTITY subscribeToPageMenuitem.label "Subskribùjë tã stronã…">
+
 <!ENTITY addCurPagesCmd.label "Dodôj wszëtczé kôrtë do załóżków…">
+
 <!ENTITY showAllBookmarks2.label "Wëskrzëni wszëtczé załóżczi">
-<!ENTITY unsortedBookmarksCmd.label "Niepòzortowóné załóżczi">
 <!ENTITY bookmarksToolbarChevron.tooltip "Wëskrzëni wicy załóżków">
 
 <!ENTITY backCmd.label                "Nazôd">
@@ -139,41 +129,24 @@ can reach it easily. -->
 <!ENTITY backForwardButtonMenuMac.tooltip "Przecygni żebë wëskrzenic historiã">
 <!ENTITY reloadCmd.label              "Zladëjë znowa">
 <!ENTITY reloadCmd.accesskey          "O">
-<!ENTITY reloadButton.tooltip         "Zladëjë tã stronã znowa">
 <!ENTITY stopCmd.label                "Zatrzëmôj">
 <!ENTITY stopCmd.accesskey            "Z">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Zascygni ladowanié stronë">
+
 <!ENTITY goEndCap.tooltip             "Biéj do stronë z pòdónym adresã">
+
 <!ENTITY printButton.label            "Drëkùjë">
 <!ENTITY printButton.tooltip          "Drëkùjë tã stronã">
 
-<!ENTITY backForwardItem.title        "Dowslôdë/Wprzódk">
-<!ENTITY locationItem.title           "Adres">
-<!ENTITY searchItem.title             "Szëkba">
-<!ENTITY throbberItem.title           "Wskôzëwôcz aktiwnotë">
-<!ENTITY bookmarksItem.title          "Załóżczi">
 
-<!-- Toolbar items --> 
-<!ENTITY appMenuButton.label          "Menu">
-<!ENTITY appMenuButton.tooltip        "Òtemkni menu programù &brandShortName;">
+<!ENTITY searchItem.title             "Szëkba">
+
 <!ENTITY homeButton.label             "Domôcô strona">
 
-<!ENTITY tabGroupsButton.label        "Grëpë kôrtów">
-<!ENTITY tabGroupsButton.tooltip      "Grëpùjë swòjé kôrtë">
-
-<!ENTITY feedButton.label             "Subskribùjë">
-<!ENTITY feedButton.tooltip           "Subskribùjë nã stronã…">
-
 <!ENTITY bookmarksButton.label          "Załóżczi">
-<!ENTITY bookmarksButton.tooltip        "Wëskrzëni załóżczi">
 
 <!ENTITY bookmarksCmd.commandkey 		"b">
 
-<!ENTITY bookmarksMenuButton.label          "Załóżczi">
-<!ENTITY bookmarksMenuButton.tooltip        "Wëskrzëni załóżczi">
-<!ENTITY bookmarksMenuButton.unsorted.label "Niepòzortowóné załóżczi">
-<!ENTITY viewBookmarksSidebar.label         "Wëskrzëni w bòczny lëstwie">
 <!ENTITY viewBookmarksToolbar.label         "Òbaczë lëstwã nôrzãdłów załóżków">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -183,28 +156,23 @@ can reach it easily. -->
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Historiô">
-<!ENTITY historyButton.tooltip          "Wëskrzëni slédno òbzéróné stronë">
 <!ENTITY historySidebarCmd.commandKey   "h">
+
 <!ENTITY toolsMenu.label              "Nôrzãdła">
 <!ENTITY toolsMenu.accesskey          "N"> 
 <!ENTITY keywordfield.label           "Dodôj kluczowé słowò dlô ti szëkbë…">
 <!ENTITY keywordfield.accesskey       "D">
+
 <!ENTITY downloads.label              "Zladënczi">
-<!ENTITY downloads.tooltip            "Wëskrzëni òkno zladënkù lopków">
 <!ENTITY downloads.accesskey          "k">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Dodôwczi">
 <!ENTITY addons.accesskey             "D">
 <!ENTITY addons.commandkey            "A">
+
 <!ENTITY webDeveloperMenu.label       "Deweloper">
 <!ENTITY webDeveloperMenu.accesskey   "r">
-<!ENTITY errorConsoleCmd.label        "Kònsola felów">
-<!ENTITY errorConsoleCmd.accesskey    "K">
-<!ENTITY scratchpad.label             "Czôrnopis">
-<!ENTITY scratchpad.accesskey         "ô">
-<!ENTITY scratchpad.keycode           "VK_F4">
-<!ENTITY scratchpad.keytext           "F4">
 
 
 
@@ -218,14 +186,16 @@ can reach it easily. -->
 <!ENTITY inspectContextMenu.label     "Sprôwdzë Element">
 <!ENTITY inspectContextMenu.accesskey "E">
 
-<!ENTITY getMoreDevtoolsCmd.label        "Nalezë wicy nôrzãdłów">
-<!ENTITY getMoreDevtoolsCmd.accesskey    "N">
-
 <!ENTITY fileMenu.label         "Lopk"> 
 <!ENTITY fileMenu.accesskey       "k">
+
 <!ENTITY newNavigatorCmd.label        "Nowé òkno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
+
+<!ENTITY newPrivateWindow.label     "Nowi priwatné òkno">
+<!ENTITY newPrivateWindow.accesskey "ò">
+
 
 <!ENTITY editMenu.label         "Edicjô"> 
 <!ENTITY editMenu.accesskey       "E"> 
@@ -266,16 +236,13 @@ can reach it easily. -->
 
 <!ENTITY viewMenu.label         "Wëzdrzatk"> 
 <!ENTITY viewMenu.accesskey       "W"> 
-<!ENTITY viewTabGroups.label            "Grëpë kôrtów">
-<!ENTITY viewTabGroups.accesskey        "G">
 <!ENTITY viewToolbarsMenu.label       "Lëstew nôrzãdłów"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ë"> 
 <!ENTITY viewSidebarMenu.label "Bòcznô lëstew">
 <!ENTITY viewSidebarMenu.accesskey "B">
+
 <!ENTITY viewCustomizeToolbar.label       "Dopasëjë…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "D">
-<!ENTITY viewTabsOnTop.label            "Kôrtë na wiérzchù">
-<!ENTITY viewTabsOnTop.accesskey        "K">
 
 <!ENTITY historyMenu.label "Historiô">
 <!ENTITY historyMenu.accesskey "h">
@@ -287,18 +254,10 @@ can reach it easily. -->
 <!ENTITY showAllHistoryCmd2.label "Wëskrzëni całowną historiã">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuEdit.label "Edicjô">
-<!ENTITY appMenuCustomize.label "Dopasëjë">
-<!ENTITY appMenuToolbarLayout.label "Pòzdrzatk lëstwë nôrzãdłów…">
-<!ENTITY appMenuSidebars.label "Bòczné lëstwë">
-<!ENTITY appMenuFind.label "Nalezë…">
-<!ENTITY appMenuUnsorted.label "Niepòzortowóné załóżczi">
-<!ENTITY appMenuWebDeveloper.label "Deweloper">
-<!ENTITY appMenuGettingStarted.label "Zaczątk">
-<!ENTITY appMenuSafeMode.label "Zrëszë znowa z wëłączonyma dodôwkama…">
-<!ENTITY appMenuSafeMode.accesskey "Z">
-
 <!ENTITY openCmd.commandkey           "ò">
+
+<!ENTITY urlbar.placeholder2          "Szëkôj za, abò wpiszë adres">
+
 
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Przełączë na kôrtã:">
@@ -325,12 +284,16 @@ can reach it easily. -->
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
-<!ENTITY tabView.commandkey           "e">
 
 <!ENTITY openLinkCmdInTab.label       "Òtemkni lënk w nowi kôrce">
+
 <!ENTITY openLinkCmdInTab.accesskey   "Ò">
 <!ENTITY openLinkCmd.label            "Òtemkni lënk w nowim òknie">
 <!ENTITY openLinkCmd.accesskey        "t">
+<!ENTITY openLinkInPrivateWindowCmd.label "Òtemkni lënka w nowim priwatnym òknie">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "l">
+
+
 <!ENTITY openLinkCmdInCurrent.label     "Òtemkni lënk">
 <!ENTITY openLinkCmdInCurrent.accesskey "t">
 <!ENTITY openFrameCmdInTab.label      "Òtemkni ramã w nowi kôrce">
@@ -344,14 +307,6 @@ can reach it easily. -->
 <!ENTITY reloadFrameCmd.accesskey     "Z">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Wëskrzëni zdrój wëbiérkù">
 <!ENTITY viewPartialSourceCmd.accesskey "k">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Wëskrzëni zdrój MathML">
-
-<!ENTITY viewImageDescCmd.accesskey   "p">
-<!ENTITY viewImageDescCmd.label       "Wëskrzëni òpisënk">
-
-
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 
 <!ENTITY viewPageSourceCmd.label      "Wëskrzëni zdrój stronë">
 <!ENTITY viewPageSourceCmd.accesskey  "ë">
@@ -367,6 +322,13 @@ can reach it easily. -->
 <!ENTITY viewImageCmd.accesskey       "W">
 <!ENTITY viewImageInfoCmd.label       "Wëskrzëni wëdowiédzã ò òbrôzkù">
 <!ENTITY viewImageInfoCmd.accesskey   "d">
+<!ENTITY viewImageDescCmd.label       "Wëskrzëni òpisënk">
+
+
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+
+<!ENTITY viewImageDescCmd.accesskey   "p">
 <!ENTITY viewVideoCmd.label           "Wëskrzëni wideò">
 <!ENTITY viewVideoCmd.accesskey       "k">
 <!ENTITY viewBGImageCmd.label         "Wëskrzëni òbrôzk spódka">
@@ -379,6 +341,9 @@ can reach it easily. -->
 <!ENTITY bookmarkThisLinkCmd.accesskey  "a">
 <!ENTITY bookmarkThisFrameCmd.label      "Dodôj załóżkã dlô ti ramë">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "D">
+
+<!ENTITY emailPageCmd.label "Sélôj lënk e-mailã…">
+<!ENTITY emailPageCmd.accesskey "é">
 <!ENTITY savePageCmd.label            "Zapiszë stronã jakno…">
 <!ENTITY savePageCmd.accesskey        "Z">
 <!-- alternate for content area context menu -->
@@ -396,6 +361,21 @@ can reach it easily. -->
 <!ENTITY saveVideoCmd.accesskey       "s">
 <!ENTITY saveAudioCmd.label           "Zapiszë zwãk jakno…">
 <!ENTITY saveAudioCmd.accesskey       "s">
+<!ENTITY emailImageCmd.label "Sélôj òbrôzk e-mailã…">
+<!ENTITY emailImageCmd.accesskey "а">
+<!ENTITY emailVideoCmd.label "Sélôj wideò e-mailã…">
+
+<!-- labels are set dynamically, see browser.properties -->
+
+<!ENTITY emailVideoCmd.accesskey "w">
+<!ENTITY emailAudioCmd.label "Sélôj audio e-mailã…">
+<!ENTITY emailAudioCmd.accesskey "а">
+<!ENTITY playPluginCmd.label          "Włączë nen dodôwk">
+<!ENTITY playPluginCmd.accesskey      "W">
+
+<!ENTITY hidePluginCmd.label          "Zatacë dodôwk">
+<!ENTITY hidePluginCmd.accesskey      "d">
+
 <!ENTITY copyLinkCmd.label            "Kòpérëjë adres lënka">
 <!ENTITY copyLinkCmd.accesskey        "K">
 <!ENTITY copyImageCmd.label           "Kòpérëjë adres òbrôzka">
@@ -411,6 +391,7 @@ can reach it easily. -->
 <!ENTITY thisFrameMenu.label              "Rama">
 <!ENTITY thisFrameMenu.accesskey          "r">
 
+<!-- Media (video/audio) controls -->
 <!-- Media (video/audio) controls -->
 <!ENTITY mediaPlay.label             "Grajë">
 <!ENTITY mediaPlay.accesskey         "G">
@@ -458,43 +439,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY fullZoomToggleCmd.label        "Zwikszë le tekst">
 <!ENTITY fullZoomToggleCmd.accesskey    "k">
+
 <!ENTITY fullZoom.label                 "Zwikszë">
 <!ENTITY fullZoom.accesskey             "w">
 
-<!ENTITY newTabButton.tooltip           "Òtemkni nową kôrtã">
-<!ENTITY newWindowButton.tooltip        "Òtemkni nowé òkno">
 <!ENTITY sidebarCloseButton.tooltip     "Zamkni bòcznã lëstew">
 
-<!ENTITY cutButton.tooltip              "Wëtni">
-<!ENTITY copyButton.tooltip             "Kòpérëjë">
-<!ENTITY pasteButton.tooltip            "Wlepi">
-
-<!ENTITY fullScreenButton.tooltip       "Wëskrzëni to òkno na całownym ekranie">
-
-<!ENTITY zoomOutButton.tooltip          "Òddalë">
-<!ENTITY zoomInButton.tooltip           "Zwikszë">
-<!ENTITY zoomControls.label             "Kòntrolczi zwikszaniô">
-
-<!ENTITY quitApplicationCmdWin.label       "Wińdzë"> 
-<!ENTITY quitApplicationCmdWin.accesskey   "d">
 <!ENTITY goBackCmd.commandKey 				"[">
 <!ENTITY goForwardCmd.commandKey 			"]">
 <!ENTITY quitApplicationCmd.label       "Zakùńczë"> 
-<!ENTITY quitApplicationCmdUnix.key   "k">
-<!ENTITY quitApplicationCmdMac.label    "Zakùńczë &brandShortName;">
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 <!ENTITY quitApplicationCmd.accesskey "W">
 
 <!ENTITY closeCmd.label                 "Zamkni">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "Z">
+
 <!ENTITY pageStyleMenu.label "Sztél stronë">
 <!ENTITY pageStyleMenu.accesskey "é">
 <!ENTITY pageStyleNoStyle.label "Felënk sztélu">
 <!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "Spòdlowi sztél">
 <!ENTITY pageStylePersistentOnly.accesskey "ò">
-<!ENTITY pageReportIcon.tooltip            "Zmieni nastawë blokadë wëskakùjącëch òknów dlô ti stronë">
+
 <!ENTITY allowPopups.accesskey "w">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
@@ -503,11 +469,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.label "Editëjë nastawë blokadë wëskakùjącëch òknów…">
 <!ENTITY editPopupSettings.accesskey "E">
 <!ENTITY dontShowMessage.accesskey "N">
+
 <!ENTITY bidiSwitchPageDirectionItem.label        "Zmieni czerënk stronë">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "s">
 <!ENTITY bidiSwitchTextDirectionItem.label        "Zmieni czerënk tekstu">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "t">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
 <!ENTITY findOnCmd.label     "Nalezë na ti stronie…">
 <!ENTITY findOnCmd.accesskey "N">
 <!ENTITY findOnCmd.commandkey "F">
@@ -515,107 +483,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "n">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
+
 <!ENTITY spellAddDictionaries.label "Dodôj słowarze">
 <!ENTITY spellAddDictionaries.accesskey "o">
+
 <!ENTITY editBookmark.done.label                     "Parôt">
-<!ENTITY editBookmark.cancel.label                   "Òprzestóń">
-<!ENTITY editBookmark.removeBookmark.accessKey       "r">
-<!ENTITY identity.unverifiedsite2 "Na strona nie dôwô wëdowiédzë ò swòji juwernoce.">
-<!ENTITY identity.connectedTo "Jes sparłãczony z">
-<!-- Localization note (identity.runBy) : This string appears between a
-domain name (above) and an organization name (below). E.g.
 
-example.com
-which is run by
-Example Enterprises, Inc.
 
-The layout of the identity dialog prevents combining this into a single string with
-substitution variables.  If it is difficult to translate the sense of the string
-with that structure, consider a translation which ignores the preceding domain and
-just addresses the organization to follow, e.g. "This site is run by " -->
-<!ENTITY identity.runBy "czerowónô przez">
-<!ENTITY identity.moreInfoLinkText "Wicy wëdowiédzë…">
+<!ENTITY identity.permissions "Prawa">
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended aùtomatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "Kôrtë przezérnika">
 
-<!-- LOCALIZATION NOTE (syncTabsMenu.label): This appears in the history menu -->
-<!ENTITY syncTabsMenu2.label "Kôrtë z jinëch òrządzeniów">
 <!ENTITY syncBrand.shortName.label    "Sync">
-<!ENTITY syncSetup.label              "Ùstawi program &syncBrand.shortName.label;…">
-<!ENTITY syncSetup.accesskey          "Ù">
+
 <!ENTITY syncSyncNowItem.label        "Synchronizëjë terô">
 <!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncToolbarButton.label      "Synchronizëjë">
-<!ENTITY addonBarCloseButton.tooltip  "Zamkni lëstwã dodôwków">
-<!ENTITY toggleAddonBarCmd.key        "/">
-
-<!ENTITY devToolbarMenu.label              "Lëstew dewelopera">
-<!ENTITY devToolbarMenu.accesskey          "w">
-<!ENTITY devToolbarCloseButton.tooltiptext "Zamkni lëstew dewelopera">
-<!ENTITY enterFullScreenCmd.label "Zrëszi fùlekranowi trib">
-<!ENTITY enterFullScreenCmd.accesskey "f">
-<!ENTITY exitFullScreenCmd.label "Wińdzë z fùlekranowégò tribù">
-<!ENTITY exitFullScreenCmd.accesskey "f">
-<!ENTITY fullscreenAllowButton.label "Zezwòlë">
-<!ENTITY fullscreenExitButton.label "Niezezwòlë">
-<!ENTITY leaveDOMFullScreen.label "Wińdzë z fùlekranowégò tribù">
-<!ENTITY leaveDOMFullScreen.accesskey "e">
-<!ENTITY responsiveDesignTool.accesskey "r">
-<!ENTITY responsiveDesignTool.commandkey "r">
-<!ENTITY responsiveDesignTool.label "Wrażlëwi design">
-<!ENTITY devToolbar.keycode "VK_F2">
-<!ENTITY devToolbar.keytext "F2">
-<!ENTITY emailAudioCmd.accesskey "а">
-<!ENTITY emailAudioCmd.label "Sélôj audio e-mailã…">
-<!ENTITY emailImageCmd.accesskey "а">
-<!ENTITY emailImageCmd.label "Sélôj òbrôzk e-mailã…">
-<!ENTITY emailPageCmd.accesskey "é">
-<!ENTITY emailPageCmd.label "Sélôj lënk e-mailã…">
-<!ENTITY emailVideoCmd.accesskey "w">
-<!ENTITY emailVideoCmd.label "Sélôj wideò e-mailã…">
-<!ENTITY sharePageCmd.commandkey "j">
-<!ENTITY social.notLoggedIn.label "Nie wlogòwóny">
-<!ENTITY socialToolbar.title "Spòleznowô lëstew">
-<!ENTITY devToolbarOtherToolsButton.label "Jiné nôrzãdła">
-<!ENTITY social.toggleSidebar.label "Wëskrzëni w bòczny lëstwie">
-<!ENTITY social.toggleSidebar.accesskey "b">
-
-<!ENTITY social.activated.description "Ùsłudżi z <label/> òstałë włączoné. Mòżesz zmienic òstawë ùstługów w <label class='text-link'>Menadżeru dodôwków</label>.">
-<!ENTITY social.activated.undo.label "Alaże, biéj nazôd!">
-<!ENTITY social.activated.undo.accesskey "ô">
-<!ENTITY social.learnMore.label "Wëdowiedzë sã wicy…">
-<!ENTITY social.learnMore.accesskey "w">
-<!ENTITY social.closeNotificationItem.label "Terô nié">
-<!ENTITY social.chatBar.commandkey "n">
-<!ENTITY social.chatBar.label "Czat">
-<!ENTITY social.chatBar.accesskey "t">
-
-<!-- labels are set dynamically, see browser.properties -->
-
-<!ENTITY social.ok.label "OK">
-<!ENTITY social.ok.accesskey "O">
-<!ENTITY social.toggleNotifications.label "Wëskrzëniwôj wiadła na pùlce">
-<!ENTITY social.toggleNotifications.accesskey "w">
-<!ENTITY pinTab.label "Przëwôrnié jakno kôrtã aplikacje">
-<!ENTITY pinTab.accesskey "k">
-<!ENTITY unpinTab.label "Òdhôkni kôrtã">
-<!ENTITY unpinTab.accesskey "r">
-
-<!ENTITY social.addons.label "Sprôwiôj ùsługama…">
-
-<!ENTITY social.chatBar.label "Tematiczné fòra">
-<!ENTITY social.chatBar.commandkey "f">
-<!ENTITY social.chatBar.accesskey "f">
-
-<!ENTITY devToolboxMenuItem.label          "Wëbierzë nôrzãdło">
-<!ENTITY devToolbarToolsButton.tooltip     "Wëbierzë dewelopersczé nôrzãdło">
-<!ENTITY devToolboxMenuItem.accesskey      "W">
-
-<!ENTITY devtoolsConnect.label        "Sparłãczë sã…">
-<!ENTITY devtoolsConnect.accesskey    "S">
 
 <!ENTITY getUserMedia.selectCamera.label "Ùprzistãpni kamerã:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -624,91 +510,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 
 
-<!ENTITY openLinkInPrivateWindowCmd.label "Òtemkni lënka w nowim priwatnym òknie">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "l">
-
-
-<!ENTITY webrtcIndicatorButton.label "Kamera / mikrofón">
-<!ENTITY webrtcIndicatorButton.tooltip "Wëskrzëniwô stronë, chtërnym môsz ùprzistãpnioné kamerã abò mikrofón">
-
-<!ENTITY hidePluginCmd.label          "Zatacë dodôwk">
-<!ENTITY hidePluginCmd.accesskey      "d">
-
-<!ENTITY mixedContentBlocked.helplink "Wicy wëdowiedzë">
-<!ENTITY mixedContentBlocked.moreinfo "Pò zablokòwaniô ti zamkłoscë, wikszosc stronów bãdze dali robiło.">
-
-<!ENTITY playPluginCmd.label          "Włączë nen dodôwk">
-<!ENTITY playPluginCmd.accesskey      "W">
-
-<!ENTITY urlbar.placeholder2          "Szëkôj za, abò wpiszë adres">
-
-<!ENTITY mediaPlaybackRate.label     "Chùtkòsc grania">
-<!ENTITY mediaPlaybackRate.accesskey "g">
-<!ENTITY mediaPlaybackRate050x.label "Wòlni (0.5×)">
-<!ENTITY mediaPlaybackRate050x.accesskey "-">
-<!ENTITY mediaPlaybackRate100x.label "Normalnô chùtkòsc">
-<!ENTITY mediaPlaybackRate100x.accesskey "N">
-<!ENTITY mediaPlaybackRate150x.label "Chùtczi (1.5×)">
-<!ENTITY mediaPlaybackRate150x.accesskey "h">
-<!ENTITY pointerLock.notification.message "Wcësnij ESC bë wëskrzënic wiadło jesz rôz.">
-
-<!ENTITY mediaPlaybackRate200x.label "Szalonô chùtkòsc (2×)">
-<!ENTITY mediaPlaybackRate200x.accesskey "z">
-
-
-<!ENTITY browserConsoleCmd.label      "Kònsola przezérnika">
-<!ENTITY browserConsoleCmd.accesskey  "p">
-<!ENTITY markPageCmd.commandkey "m">
-<!ENTITY sharePageCmd.label "Ùprzistãpni stronã">
-
-<!ENTITY sharePageCmd.commandkey "ã">
-<!ENTITY sharePageCmd.accesskey "ã">
-<!ENTITY shareLinkCmd.label "Ùprzistãpni lënk">
-<!ENTITY shareLinkCmd.accesskey "ã">
-<!ENTITY shareImageCmd.label "Ùprzistãpni òdjimk">
-<!ENTITY shareImageCmd.accesskey "j">
-<!ENTITY shareSelectCmd.label "Ùprzistãpni wëbiérk">
-<!ENTITY shareSelectCmd.accesskey "w">
-<!ENTITY shareVideoCmd.label "Ùprzistãpni wideò">
-<!ENTITY shareVideoCmd.accesskey "i">
-
-
-<!ENTITY browserConsoleCmd.label      "Kònsola przezérnika">
-<!ENTITY browserConsoleCmd.commandkey "o">
-<!ENTITY chromeDebuggerMenu.label       "Debùgger przezérnika">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeTabsToTheEnd.label            "Zamikôj kôrtë na prawą stronã">
-<!ENTITY  closeOtherTabs.label               "Zamkni jiné kôrtë">
 <!ENTITY pluginNotification.showAll.label "Show All">
 <!ENTITY pluginNotification.showAll.accesskey "A">
-
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Zezwòlë">
-<!ENTITY pluginActivateAlways.label "Zezwòlë i spamiãtôj wëbierk">
-<!ENTITY pluginBlockNow.label "Blokùjë dodôwk">
-
-<!ENTITY devToolboxMenuItem.keycode        "I">
-<!ENTITY devToolboxMenuItem.keytext        "I">
-<!ENTITY devToolsCmd.keycode          "VK_F12">
-<!ENTITY devToolsCmd.keytext          "F12">
-
-<!ENTITY fullscreenExitHint2.value "Wcësni ESC bë zakùńczëc.">
-<!ENTITY identity.permissions "Prawa">
-
-<!ENTITY devAppMgrMenu.label               "App Manadżer">
-<!ENTITY devAppMgrMenu.accesskey           "a">
-
-
-<!ENTITY social.marklinkMenu.label "Zapiszë lënk w…">
-<!ENTITY social.marklinkMenu.accesskey "a">
-
-<!ENTITY social.markpageMenu.label "Zapiszë stronã w…">
-<!ENTITY social.markpageMenu.accesskey "ë">
-<!ENTITY tabCrashed.checkSendReport "Sélôj wiadło ò awarie do &vendorShortName; bë ją naprawilë.">
-<!ENTITY tabCrashed.header "Awariô kôrtë">
-<!ENTITY tabCrashed.message "Terô je nama głupie. Próbòwalësmë sã sparłãczëc ze stroną, równak òna nie òdpòwiadô.">
-<!ENTITY tabCrashed.tryAgain "Sróbùjë jesz rôz">
-<!ENTITY  undoCloseTabs.label                "Copni zamkniãcé kôrtów">
 
 <!ENTITY pluginNotification.width "28em">
 

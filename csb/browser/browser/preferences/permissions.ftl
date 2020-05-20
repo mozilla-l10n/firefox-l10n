@@ -5,29 +5,34 @@
 permissions-window =
     .title = Wëjimczi
     .style = width: 36em
+
 permissions-close-key =
     .key = w
+
 permissions-block =
     .label = Blokùjë
     .accesskey = B
+
 permissions-session =
     .label = Zezwòlë dlô sesje
     .accesskey = s
+
 permissions-allow =
     .label = Zezwòlë
     .accesskey = z
+
 permissions-status =
     .label = Stón
+
 permissions-capabilities-allow =
     .label = Zezwòlë
 permissions-capabilities-block =
     .label = Blokùjë
+
 permissions-capabilities-listitem-allow =
     .value = Zezwòlë
 permissions-capabilities-listitem-block =
     .value = Blokùjë
-permissions-capabilities-listitem-allow-first-party =
-    .value = Nie przijmùjë kùszków òd trzecëch firmów
 permissions-capabilities-listitem-allow-session =
     .value = Zezwòlë dlô sesje
 
@@ -56,11 +61,15 @@ permissions-exceptions-addons-desc = Mòżesz wëbrac, chtërne stronë mògą i
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 

@@ -7,6 +7,7 @@ page-subtitle =
     Na strona zamikô w se techniczną  wëdowiédzô, chtërna mòże sã przëdac czej chcesz
     rozwiązac problemë. Żlë szëkôcz òdpowiescë dlô tipicznëch pëtaniów
     ò { -brand-short-name }. Sprôwdzë naszą <a data-l10n-name="support-link"> stronë wspiarcô</a>.
+
 extensions-title = Roszerzenia
 extensions-name = Miono
 extensions-enabled = Włączoné
@@ -40,6 +41,22 @@ a11y-force-disabled = Ògraniczony przistãp
 library-version-title = Wersje biblioteków
 copy-text-to-clipboard-label = Kòpérëjë tekst do tacnika
 copy-raw-data-to-clipboard-label = Kòpérëjë zamkłosc do tacnika
+
+## Media titles
+
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 raw-data-copied = Pòdôwczi òstałë skòpérowóné do tacnika
 text-copied = Tekst òstał skòpérowóny do tacnika
 
@@ -51,6 +68,7 @@ blocked-os-version = Niedostãpny dlô wersji Twòjégò systemù.
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Niedostãpny dlô wersji Twòji kartë graficzny. Spróbùje zaktualnic do wersji { $driverVersion } abò nowszi.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Parametrë ClearType
@@ -61,6 +79,7 @@ clear-type-parameters = Parametrë ClearType
 
 min-lib-versions = Brëkùje minimaliny wersji
 loaded-lib-versions = Wersjô w ùżëcym
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

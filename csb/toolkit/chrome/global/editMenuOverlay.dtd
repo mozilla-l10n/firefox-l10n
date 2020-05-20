@@ -24,6 +24,7 @@
 <!ENTITY selectAllCmd.label        "Wëbierzë wszëtkò">
 <!ENTITY selectAllCmd.key          "W">
 <!ENTITY selectAllCmd.accesskey    "W">
+
 <!ENTITY findCmd.label             "Nalezë">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "N">

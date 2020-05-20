@@ -23,6 +23,7 @@ remove =
 close-button =
     .label = Zamkni
     .accesskey = Z
+
 show-passwords =
     .label = Wëskrzëni parole
     .accesskey = e
