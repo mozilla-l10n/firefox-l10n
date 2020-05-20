@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ha ocurriu una error durant una connexión a { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Codigo d'error: { $error }
+
 psmerr-ssl-disabled = No se puede connectar de traza segura porque s'ha deshabilitau o protocolo SSL.
 psmerr-ssl2-disabled = No se puede connectar de traza segura porque o puesto emplega una versión antiga y insegura d'o protocolo SSL.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Ha recibiu un certificau no valido.  Contacte con l'administrador d'o servidor u con o remitent d'o certificau no valido y de-les a siguient información:
     
     O suyo certificau Contiene o mesmo numero de serie que unatro certificau emeso por l'autoridat de certificación.  Por favor, aconsiga un nuevo certificau que contienga un numero de serie unico.
+
 ssl-error-export-only-server = No se puede comunicar de traza segura. L'atro cabo d'a connexión no admite zifrau d'alto grau.
 ssl-error-us-only-server = No se puede establir una comunicación de trazasegura.  L'atro cabo d'a connexión requiere zifrau d'alto grau que no ye implementau.
 ssl-error-no-cypher-overlap = No se puede establir una comunicación de forma segura con l'atro cabo d'a connexión: no i hai garra algorismo de zifrau común.

@@ -13,6 +13,7 @@ enable-common-message = Las Ferramientas de Desenvolvedor de Firefox son desacti
 enable-learn-more-link = Saber mas sobre las Ferramientas de Desenvolvedor
 enable-enable-button = Acativar las Ferramientas de Desenvolvedor
 enable-close-button = Zarrar esta pestanya
+
 welcome-title = Benveniu ta las Ferramientas de Desenvolvedor de Firefox!
 newsletter-title = Boletín d'o desenvolvedor de Mozilla
 newsletter-message = Leye noticias pa los desenvolverdors, trucos y recursos, directament en o tuya servilla de correu.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Veigo bien que Mozilla maneye la mía información co
 newsletter-subscribe-button = Conducir-se
 newsletter-thanks-title = Gracias!
 newsletter-thanks-message = Si denantes no has confirmau la conducción a bell boletín de noticias de Mozilla, ye posible que l'haigas de fer. Compreba la servilla de dentrada u lo filtro de correu vasuera pa veyer si i hai bell mensache de Mozilla.
+
 footer-title = Firefox edición de desenvolvedor
 footer-message = Yes mirando bella cosa mas que ferramientas pa desenvolvedors? Mira-te este navegador de Firefox que ye feito especificament pa desenvolvedors y fluxos de treballo modernos.
 footer-learn-more-link = Saber-ne mas
+
 features-learn-more = Saber-ne mas
 features-inspector-title = Inspector
 features-inspector-desc = Inspeccionar y refinar lo codigo pa construyir layouts perfectament definius. <a data-l10n-name="learn-more">{ features-learn-more }</a>

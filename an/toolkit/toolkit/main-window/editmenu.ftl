@@ -9,21 +9,27 @@
 editmenu-undo =
     .label = Desfer
     .accesskey = D
+
 editmenu-redo =
     .label = Refer
     .accesskey = R
+
 editmenu-cut =
     .label = Tallar
     .accesskey = T
+
 editmenu-copy =
     .label = Copiar
     .accesskey = C
+
 editmenu-paste =
     .label = Apegar
     .accesskey = p
+
 editmenu-delete =
     .label = Borrar
     .accesskey = B
+
 editmenu-select-all =
     .label = Seleccionar-lo tot
     .accesskey = a

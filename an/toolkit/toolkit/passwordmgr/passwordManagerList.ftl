@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Zarrar
     .accesskey = Z
+
 show-passwords =
     .label = Amostrar as claus
     .accesskey = M

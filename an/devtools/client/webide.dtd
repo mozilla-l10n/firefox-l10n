@@ -36,8 +36,6 @@
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Información d'execución">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
-<!ENTITY runtimeMenu_showMonitor_label "Monitor">
-<!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Preferencias d'o dispositivo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Achustes de dispositivo">
@@ -53,6 +51,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Ubrir aplicación">
+
 <!ENTITY runtimeButton_label "Trigar versión d'execución">
 
 <!-- We try to repicate Firefox' bindings: -->
@@ -76,7 +75,6 @@
 <!ENTITY runtimePanel_usb "Dispositivos USB">
 <!ENTITY runtimePanel_wifi "Dispositivos Wi-Fi">
 <!ENTITY runtimePanel_other "Atros">
-<!ENTITY runtimePanel_noadbhelper "Instalar l'aduyant ADB">
 <!ENTITY runtimePanel_nousbdevice "No veye o suyo dispositivo?">
 <!ENTITY runtimePanel_refreshDevices_label "Refrescar os dispositivos">
 
@@ -119,12 +117,6 @@
 
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Información de tiempo d'execución">
-<!ENTITY runtimedetails_adbIsRoot "ADB ye radiz: ">
-<!ENTITY runtimedetails_summonADBRoot "dispositivo radiz">
-<!ENTITY runtimedetails_ADBRootWarning "(requiere un cargador d'arrancada no trancau)">
-<!ENTITY runtimedetails_unrestrictedPrivileges "Privilechios DevTools sin restricción: ">
-<!ENTITY runtimedetails_requestPrivileges "demandar privilechios mas altos">
-<!ENTITY runtimedetails_privilegesWarning "(Se reiniciará o dispositivo. Cal un acceso root.)">
 
 <!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Booleano">
@@ -146,10 +138,6 @@
 <!ENTITY devicesetting_newname "Nuevo nombre d'achuste">
 <!ENTITY devicesetting_newtext "Valura de l'achuste">
 <!ENTITY devicesetting_addnew "Valura de l'achuste">
-
-<!-- Monitor -->
-<!ENTITY monitor_title "Monitor">
-<!ENTITY monitor_help "Aduya">
 
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog

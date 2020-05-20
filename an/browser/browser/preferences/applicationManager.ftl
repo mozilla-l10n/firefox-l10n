@@ -5,13 +5,15 @@
 app-manager-window =
     .title = Detalles de l'aplicación
     .style = width: 30em; min-height: 20em;
+
 app-manager-remove =
     .label = Eliminar
     .accesskey = l
-app-manager-handle-webfeeds = Ye posible fer servir as aplicacions siguients ta chestionar Canals web.
+
 # Variables:
 #   $type (String) - the URI scheme of the link (e.g. mailto:)
 app-manager-handle-protocol = Ye posible fer servir as aplicacions siguients ta chestionar vinclos { $type }.
+
 # Variables:
 #   $type (String) - the MIME type (e.g. application/binary)
 app-manager-handle-file = Ye posible fer servir as aplicacions siguients ta chestionar conteniu { $type }.

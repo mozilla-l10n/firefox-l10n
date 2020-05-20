@@ -8,6 +8,7 @@ password-quality-meter = Mesurador de calidat d'a clau
 
 change-password-window =
     .title = Cambiar a clau mayestra
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Dispositivo de seguranza: { $tokenName }

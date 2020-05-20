@@ -41,7 +41,7 @@
 <!ENTITY  errorpatching.intro             "L'actualización parcial no s'ha puesto aplicar . &brandShortName; tornará a intentar-lo descargando una actualización completa.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; no puede determinar si i hai una actualización disponible. Asegure-se de que tiene a zaguera versión de &brandShortName; de:">
-
+                                           
 <!ENTITY  finishedPage.title              "L'actualización ye presta ta estar instalada">
 <!ENTITY  finishedPage.text               "L'actualización s'instalará a proxima vegada que s'inicie &brandShortName;. Puede reiniciar &brandShortName; agora, u continar treballando y reiniciar-lo mas entabant.">
 
@@ -51,6 +51,3 @@
 <!ENTITY  finishedBackground.more         "L'actualización s'instalará a proxima vegada que s'inicie &brandShortName;. Puede reiniciar &brandShortName; agora, u continar treballando y reiniciar-lo mas entabant.">
 <!ENTITY  finishedBackground.moreElevated "Ista actualización requiere privilechios d'administrador. L'actualización s'instalará la venient vez que s'inicie lo &brandShortName;. Puede reiniciar lo &brandShortName; agora, continar treballando y reiniciar-lo mas entabant, u bien refusar ista actualización.">
 
-<!ENTITY  update.details.label            "Detalles">
-<!ENTITY  update.installedOn.label        "Instalau en:">
-<!ENTITY  update.status.label             "Estau:">

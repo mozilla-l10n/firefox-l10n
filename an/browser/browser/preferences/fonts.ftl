@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Tipo de letra
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Fuens pa
     .accesskey = F
+
 fonts-langgroup-arabic =
     .label = Arabe
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Proporcional
     .accesskey = P
+
 fonts-default-serif =
     .label = Serif
 fonts-default-sans-serif =
     .label = Sans Serif
+
 fonts-proportional-size = Tamanyo
     .accesskey = i
+
 fonts-serif = Serif
     .accesskey = S
+
 fonts-sans-serif = Sans-serif
     .accesskey = n
+
 fonts-monospace = Monospace
     .accesskey = M
+
 fonts-monospace-size = Tamanyo
     .accesskey = a
+
 fonts-minsize = Tamanyo de fuent minimo
     .accesskey = o
+
 fonts-minsize-none =
     .label = Garra
+
 fonts-allow-own =
     .label = Permitir a las pachinas amostrar os suyos tipos de letra propios, en cuenta d'os trigaus alto
     .accesskey = e
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Codificación d'o texto ta os contenius antigos
 fonts-languages-fallback-desc = Ista codificación d'os textos ye emplegada ta contenius antigos que no declaran a suya codificación.
+
 fonts-languages-fallback-label = Codificación de texto como zaguer recurso
     .accesskey = T
+
 fonts-languages-fallback-name-auto =
     .label = Por defecto en a luenga actual
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Vietnamés
 fonts-languages-fallback-name-other =
     .label = Atros (incl. europeu occidental)
-fonts-very-large-warning-title = Mida de muent minima gran
-fonts-very-large-warning-message = Ha trigau una mida de fuent minima muit gran (mas de 24 pixels). Isto puede fer dificil u imposible l'uso de bellas pachinas de configuración como ista mesma.
-fonts-very-large-warning-accept = Mantiene os míos cambios de todas trazas.
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "Se l'ha demandau que confíe en una entidat certificadera (CA) nueva.">
 <!ENTITY downloadCert.trustSSL "Confiar en ista CA ta identificar puestos web.">
 <!ENTITY downloadCert.trustEmail "Confiar en ista CA ta identificar usuarios de correu electronico.">
-<!ENTITY downloadCert.trustObjSign "Confiar en ista CA ta identificar desembolicadors de software.">
 <!ENTITY downloadCert.message3 "Antes de confiar en ista CA ta qualsiquier finalidat, cal que n'examine o certificau y as normas y os procedimientos (si son disponibles).">
 <!ENTITY downloadCert.viewCert.label "Veyer">
 <!ENTITY downloadCert.viewCert.text "Examinar o certificau d'a CA">

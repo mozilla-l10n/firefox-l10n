@@ -5,23 +5,35 @@
 # Variables:
 # $hostname (String) - Hostname of the website with cert error.
 cert-error-intro = { $hostname } fa servir un certificau de seguranza no valido.
+
 cert-error-mitm-intro = Los puestos web preban la suya identidat per medio de certificaus emesos per entidatz certificaderas.
+
 cert-error-trust-cert-invalid = No se confía en o certificau porque estió emitiu por un certificau de CA no valido.
+
 cert-error-trust-untrusted-issuer = No se confía en o certificau porque tampoco no se confía en o certificau d'o emisor.
+
 cert-error-trust-signature-algorithm-disabled = No se confía en o certificau porque s'ha sinyau con un algoritmo de sinyadura que se desactivó porque no yera seguro.
+
 cert-error-trust-expired-issuer = No se confía en o certificau porque o certificau d'o emisor ha venciu.
+
 cert-error-trust-self-signed = No se confía en o certificau porque ye sinyau por ell mesmo.
+
 cert-error-untrusted-default = O certificau no procede d'una fuent de confianza.
+
 # Variables:
 # $error (String) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix-link = Codigo d'error: <a data-l10n-name="error-code-link">{ $error }</a>
+
 cert-error-symantec-distrust-admin = Puetz notificar lo problema a l'administrador d'o puesto web.
+
 # Variables:
 # $hasHSTS (Boolean) - Indicates whether HSTS header is present.
 cert-error-details-hsts-label = Seguranza de Transporte Estricto HTTP: { $hasHSTS }
+
 # Variables:
 # $hasHPKP (Boolean) - Indicates whether HPKP header is present.
 cert-error-details-key-pinning-label = Fixación de Clau Publica HTTP: { $hasHPKP }
+
 cert-error-details-cert-chain-label = Cadena de certificaus:
 
 ## Messages used for certificate error titles

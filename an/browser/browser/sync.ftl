@@ -6,6 +6,7 @@ fxa-toolbar-sync-syncing =
     .label = Sincronizando…
 fxa-toolbar-sync-syncing-tabs =
     .label = Sincronización d'as pestanyas…
+
 sync-disconnect-dialog-title = Desconnectar { -sync-brand-short-name }
 sync-disconnect-dialog-body = { -brand-product-name } deixará de sincronizar-se con la tuya cuenta, pero no borrará garra dato de navegación d'este dispositivo.
 fxa-disconnect-dialog-title = Desconnectar { -brand-product-name }?

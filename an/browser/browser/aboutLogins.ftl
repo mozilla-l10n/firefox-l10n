@@ -12,9 +12,12 @@ login-app-promo-android =
     .alt = Baixa-te-la de Google Play
 login-app-promo-apple =
     .alt = Baixa-te-la de l'App Store
+
 login-filter =
     .placeholder = Buscar nombres d'usuario
+
 create-login-button = Creyar un nuevo nombre d'usuario
+
 fxaccounts-sign-in-text = Acceder a las claus dende totz los tuyos dispositivos
 fxaccounts-sign-in-button = Inicia la sesión en { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -24,8 +27,6 @@ fxaccounts-avatar-button =
 
 menu =
     .title = Ubrir lo menú
-# This menuitem is only visible on Windows
-menu-menuitem-import = Importar claus…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -46,7 +47,6 @@ login-list-count =
     }
 login-list-sort-label-text = Ordenar per:
 login-list-name-option = Nombre (A-Z)
-login-list-breached-option = Puestos web con filtracions de datos
 login-list-last-changed-option = Zaguera modificación
 login-list-last-used-option = Zaguer uso
 login-list-intro-title = No s'ha trobau garra nombre d'usuario
@@ -73,7 +73,6 @@ about-logins-intro-import = Si los inicios de sesión s'han alzau en belatro ord
 
 login-item-new-login-title = Creyar un nuevo nombre d'usuario
 login-item-edit-button = Editar
-login-item-delete-button = Borrar
 about-logins-login-item-remove-button = Eliminar
 login-item-origin-label = Adreza d'o puesto web
 login-item-origin =
@@ -84,10 +83,6 @@ about-logins-login-item-username =
 login-item-copy-username-button-text = Copiar
 login-item-copied-username-button-text = S'ha copiau!
 login-item-password-label = Clau
-login-item-password-reveal-checkbox-show =
-    .title = Amostrar la clau
-login-item-password-reveal-checkbox-hide =
-    .title = Amagar la clau
 login-item-password-reveal-checkbox =
     .aria-label = Amostrar a clau
 login-item-copy-password-button-text = Copiar
@@ -98,6 +93,12 @@ login-item-cancel-button = Cancelar
 login-item-time-changed = Zaguera modificación: { DATETIME($timeChanged, day: "numeric", month: "long", year: "numeric") }
 login-item-time-created = Creau: { DATETIME($timeCreated, day: "numeric", month: "long", year: "numeric") }
 login-item-time-used = Zaguer uso: { DATETIME($timeUsed, day: "numeric", month: "long", year: "numeric") }
+
+## OS Authentication dialog
+
+## The macOS strings are preceded by the operating system with "Firefox is trying to "
+## and includes subtitle of "Enter password for the user "xxx" to allow this." These
+## notes are only valid for English. Please test in your respected locale.
 
 ## Master Password notification
 
@@ -120,7 +121,6 @@ enable-password-sync-preferences-button =
            *[other] Visitar las preferencias de { -sync-brand-short-name }
         }
     .accesskey = V
-confirm-delete-dialog-title = Quiere eliminar este inicio de sesión?
 about-logins-enable-password-sync-dont-ask-again-button =
     .label = No tornar a preguntar-me-lo
     .accesskey = N
@@ -130,10 +130,11 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Cancelar
 confirmation-dialog-dismiss-button =
     .title = Cancelar
+
 about-logins-confirm-remove-dialog-title = Eliminar este nombre d'usuario?
 confirm-delete-dialog-message = Esta acción no se puet desfer.
-confirm-delete-dialog-confirm-button = Borrar
 about-logins-confirm-remove-dialog-confirm-button = Eliminar
+
 confirm-discard-changes-dialog-title = Descartar los cambios sin alzar?
 confirm-discard-changes-dialog-message = Totz los cambios sin alzar se pueden perder.
 confirm-discard-changes-dialog-confirm-button = Escartar
@@ -141,9 +142,8 @@ confirm-discard-changes-dialog-confirm-button = Escartar
 ## Breach Alert notification
 
 breach-alert-text = Bellas claus d'este puesto s'han filtrau u robau dende que esviellés los tuyos detalles d'inicio de sesión. Cambia la tuya clau pa protecher la tuya cuenta.
-breach-alert-link = Mas información sobre esta filtración.
-breach-alert-dismiss =
-    .title = Zarrar esta alerta
+
+## Vulnerable Password notification
 
 ## Error Messages
 
@@ -152,5 +152,6 @@ breach-alert-dismiss =
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Ya existe una dentrada pa { $loginTitle } con ixe nombre d'usuario. <a data-l10n-name="duplicate-link">Quirs ir ta la dentrada existent?</a>
+
 # This is a generic error message.
 about-logins-error-message-default = S'ha produciu una error quan se miraba d'alzar esta clau.
