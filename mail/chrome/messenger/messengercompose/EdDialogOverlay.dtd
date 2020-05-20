@@ -13,8 +13,5 @@
 <!ENTITY makeUrlRelative.accessKey "а">
 <!ENTITY makeUrlRelative.tooltip "Выбар паміж адноснага ці безумоўнага URL. Вы мусіце захаваць старонку перад выбарам.">
 
-<!-- Shared by Link and Image dialogs -->
-<!ENTITY LinkURLEditField.label "Увядзіце адрас вэб-старонкі, лакальнага файла або вылучыце якар або загаловак з імем са спісу:">
-<!ENTITY LinkURLEditField.accessKey "У">
 <!ENTITY LinkURLEditField2.label "Увядзіце адрас вэб-старонкі, лакальнага файла або вылучыце якар або загаловак з імем з кантэкстнага меню поля:">
 <!ENTITY LinkURLEditField2.accessKey "в">

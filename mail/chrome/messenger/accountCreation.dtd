@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Надзіць існуючы ўліковы запіс эл.пошты">
+
 <!ENTITY name.label                      "Ваша імя:">
 <!ENTITY name.accesskey                  "і">
 <!ENTITY name.placeholder                "Імя Прозвішча">

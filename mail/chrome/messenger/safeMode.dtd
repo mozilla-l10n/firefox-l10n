@@ -4,13 +4,18 @@
 
 <!ENTITY safeModeDialog.title "Бяспечны рэжым &brandShortName;">
 <!ENTITY window.width "43em">
+
 <!ENTITY safeModeDescription.label "&brandShortName; зараз працуе ў бяспечным рэжыме, у якім часова забаронены ўсталяваныя вамі наладжванні, тэмы і пашырэнні.">
 <!ENTITY safeModeDescription2.label "Вы можаце зрабіць асобныя або ўсе гэтыя змяненні заўсёднымі:">
+
 <!ENTITY disableAddons.label "Забараніць усе дадаткі">
 <!ENTITY disableAddons.accesskey "З">
+
 <!ENTITY resetToolbars.label "Узнавіць паліцы прыладаў і кіроўцы">
 <!ENTITY resetToolbars.accesskey "У">
+
 <!ENTITY changeAndRestartButton.label "Захаваць змяненні і перазапусціць">
 <!ENTITY changeAndRestartButton.accesskey "м">
+
 <!ENTITY continueButton.label "Працягнуць працаваць у бяспечным рэжыме">
 <!ENTITY continueButton.accesskey "б">

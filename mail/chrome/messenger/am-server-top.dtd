@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "д">
 <!ENTITY downloadOnBiff.label "Самастойна загружаць новыя лісты">
 <!ENTITY downloadOnBiff.accesskey "С">
-<!ENTITY username.label "Ваша ўваходнае імя">
 <!ENTITY deleteMessagePrefix.label "Калі я выдаляю ліст:">
 <!ENTITY modelMoveToTrash.label "Перамясціць яго ў гэтую папку:">
 <!ENTITY modelMoveToTrash.accesskey "е">

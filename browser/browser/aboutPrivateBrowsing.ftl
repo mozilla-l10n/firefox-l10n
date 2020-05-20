@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Даведайцеся больш пра <a data-l10n-name="learn-more">Прыватнае агляданне</a>.
 about-private-browsing-info-visited = наведаныя старонкі
+
 privatebrowsingpage-open-private-window-label = Адчыніць прыватнае акно
     .accesskey = а
 about-private-browsing-info-notsaved = Калі вы аглядаеце сеціва праз прыватнае акно, { -brand-short-name } <strong>не захоўвае</strong>:
@@ -26,6 +27,7 @@ about-private-browsing-not-private = Вы зараз не ў прыватным 
 content-blocking-title = Блакаванне змесціва
 content-blocking-description = Некаторыя вэб-сайты выкарыстоўваюць трэкеры, якія могуць асочваць вашу дзейнасць у Інтэрнэце. У прыватных вокнах Блакаванне змесціва { -brand-short-name } аўтаматычна блакіруе шмат такіх трэкераў, што могуць збіраць звесткі аб вашым агляданні.
 about-private-browsing-info-description = { -brand-short-name } ачышчае вашу гісторыю пошуку і аглядання, калі вы выходзіце з праграмы або закрываеце ўсе карткі і вокны прыватнага аглядання. У той час як гэта не робіць вас ананімным для вэб-сайтаў і інтэрнэт-правайдара, гэта дазваляе лягчэй трымаць у сакрэце тое, што вы робіце ў сеціве, ад астатніх карыстальнікаў гэтага камп'ютара.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

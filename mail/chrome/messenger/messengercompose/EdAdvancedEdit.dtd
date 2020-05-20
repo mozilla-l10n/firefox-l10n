@@ -13,5 +13,6 @@
 <!ENTITY tabHTML.label "Атрыбуты HTML">
 <!ENTITY tabCSS.label "Убудаваны стыль">
 <!ENTITY tabJSE.label "Падзеі JavaScript">
+
 <!ENTITY editAttribute.label "Пстрыкніце па адзінцы ўгары, каб рэдагаваць яе значэнне">
 <!ENTITY removeAttribute.label "Выдаліць">

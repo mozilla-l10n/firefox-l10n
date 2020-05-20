@@ -20,6 +20,7 @@ open-location = Увядзіце запыт або адрас
 share = Падзяліцца
 close-window = Закрыць акно
 open-sidebar = Бакавыя панэлі
+
 # This string describes shortcuts for search.
 search-popover = Пошукавыя скароты
 # Describes searches limited to a specific scope

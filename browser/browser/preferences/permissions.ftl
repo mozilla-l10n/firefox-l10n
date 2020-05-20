@@ -5,50 +5,66 @@
 permissions-window =
     .title = Выключэнні
     .style = width: 38em
+
 permissions-close-key =
     .key = w
+
 permissions-address = Адрас вэб-сайта
     .accesskey = д
+
 permissions-block =
     .label = Блакаваць
     .accesskey = Б
+
 permissions-session =
     .label = Дазволіць на час сесіі
     .accesskey = с
+
 permissions-allow =
     .label = Дазволіць
     .accesskey = Д
+
 permissions-site-name =
     .label = Вэб-сайт
+
 permissions-status =
     .label = Статус
+
 permissions-remove =
     .label = Выдаліць вэб-сайт
     .accesskey = В
+
 permissions-remove-all =
     .label = Выдаліць усе вэб-сайты
     .accesskey = ы
+
 permissions-button-cancel =
     .label = Скасаваць
     .accesskey = С
+
 permissions-button-ok =
     .label = Захаваць змены
     .accesskey = Ы
+
 permissions-autoplay-menu = Прадвызначана для ўсіх сайтаў:
+
 permissions-searchbox =
     .placeholder = Пошук сярод вэб-сайтаў
+
 permissions-capabilities-autoplay-allow =
     .label = Дазваляць гук і відэа
 permissions-capabilities-autoplay-block =
     .label = Блакаваць гук
 permissions-capabilities-autoplay-blockall =
     .label = Блакаваць гук і відэа
+
 permissions-capabilities-allow =
     .label = Дазволіць
 permissions-capabilities-block =
     .label = Блакаваць
 permissions-capabilities-prompt =
     .label = Заўсёды пытаць
+
 permissions-capabilities-listitem-allow =
     .value = Дазволіць
 permissions-capabilities-listitem-block =
@@ -67,6 +83,7 @@ permissions-exceptions-content-blocking-window =
     .title = Выключэнні - Блакаванне змесціва
     .style = { permissions-window.style }
 permissions-exceptions-content-blocking-desc = Вы адключылі блакаванне змесціва на гэтых сайтах.
+
 permissions-exceptions-etp-window =
     .title = Выключэнні для ўзмоцненай аховы ад сачэння
     .style = { permissions-window.style }

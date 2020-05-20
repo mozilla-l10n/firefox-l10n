@@ -4,27 +4,24 @@
 
 history-title = Гісторыя абнаўленняў
 history-intro = Усталяваны наступныя абнаўленні
+
 close-button-label =
     .buttonlabelcancel = Закрыць
     .title = Гісторыя абнаўленняў
+
 no-updates-label = Абнаўленні яшчэ не ўсталяваны
 name-header = Назва абнаўлення
 date-header = Дата ўсталявання
 type-header = Тып
 state-header = Стан
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Падрабязнасці
 update-installed-on = Усталявана ў: { $date }
 update-status = Статус: { $status }

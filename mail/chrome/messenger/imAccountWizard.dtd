@@ -3,16 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY windowTitle.label "Чараўнік рахунку гутарак">
+
 <!ENTITY accountProtocolTitle.label "Сетка гутарак">
 <!ENTITY accountProtocolInfo.label "Выберыце, калі ласка, сетку вашага рахунку гутарак.">
 <!ENTITY accountProtocolField.label "Сетка:">
 <!ENTITY accountProtocolGetMore.label "Болей…">
+
 <!ENTITY accountUsernameTitle.label "Імя карыстальніка">
 <!ENTITY accountUsernameDuplicate.label "Гэты рахунак ужо наладжаны!">
+
 <!ENTITY accountPasswordTitle.label "Пароль">
 <!ENTITY accountPasswordInfo.label "Увядзіце, калі ласка, ваш пароль у скрынку ніжэй.">
 <!ENTITY accountPasswordField.label "Пароль:">
 <!ENTITY accountPasswordManager.label "Уведзены вамі пароль будзе захованы кіраўніком пароляў. Пакіньце скрынку пустой, калі вы хочаце ўводзіць пароль кожны раз падчас злучэння з гэтым рахункам.">
+
 <!ENTITY accountAdvancedTitle.label "Пашыраныя наладжванні">
 <!ENTITY accountAdvancedInfo.label "Вы можаце прапусціць гэты крок, калі хочаце.">
 <!ENTITY accountAdvanced.newMailNotification.label "Паведамляць пра новую пошту">
@@ -22,6 +26,7 @@
 <!ENTITY accountProxySettings.caption "Наладжванні пасярэдніка">
 <!ENTITY accountProxySettings.change.label "Змяніць…">
 <!ENTITY accountProxySettings.change.accessKey "З">
+
 <!ENTITY accountSummaryTitle.label "Зводка">
 <!ENTITY accountSummaryInfo.label "Зводка звестак, уведзенных вамі, адлюстроўваюцца ніжэй. Праверце іх, калі ласка, перад стварэннем рахунку.">
 <!ENTITY accountSummary.connectNow.label "Злучыцца з рахункам зараз.">

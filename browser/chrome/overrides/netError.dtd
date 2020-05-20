@@ -15,9 +15,11 @@
 <!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Нельга злучыцца">
+
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Гэты адрас абмежаваны">
+
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.pageTitle "Сервер не знойдзены">
@@ -31,15 +33,18 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Файл не знойдзены">
+
 <!ENTITY fileNotFound.longDesc "<ul> <li>Упэўніцеся, што няма ніякай памылкі ў назве файла, такой, як прапушчаная/лішняя літара або вялікая літара замест малой, або інакшай.</li> <li>Упэўніцеся, што файл не быў перайменаваны, выдалены або перамешчаны.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Доступ да файла забаронены">
+
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>Магчыма, што ён быў выдалены або перамешчаны, або дазволы на файл не даюць атрымаць да яго доступ.</li>
 </ul>">
 
 <!ENTITY generic.title "Ух?!">
+
 <!ENTITY generic.longDesc "<p>&brandShortName; не можа загрузіць гэтую старонку з невядомай прычыны.</p>">
 
 <!ENTITY captivePortal.title "Злучыцца з сеткай">
@@ -54,15 +59,19 @@
 <!ENTITY malformedURI.title1 "Хм. Гэты адрас не выглядае сапраўдным.">
 
 <!ENTITY netInterrupt.title "Злучэнне перарвана">
+
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Дакумент састарэў">
+
 <!ENTITY notCached.longDesc "<p>Запатрабаваны дакумент не даступны ў кэшы &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Пстрыкніце &quot;Паспрабаваць зноў&quot;, каб запытаць дакумент з вэб-сайта ізноў.</li></ul>">
 
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
+
 <!ENTITY netOffline.longDesc2 "<ul> <li>Націсніце &quot;Паспрабаваць зноў&quot;, каб перключыцца ў сеткавы рэжым і абнавіць старонку.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
+
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэтую праблему.</li>
@@ -70,6 +79,7 @@
 ">
 
 <!ENTITY unsafeContentType.title "Небяспечны тып файла">
+
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэтую праблему.</li>
@@ -77,15 +87,19 @@
 ">
 
 <!ENTITY netReset.title "Злучэнне скінута">
+
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
 <!ENTITY netTimeout.title "Час чакання злучэння выйшаў">
+
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Немагчыма распазнаць адрас">
+
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Магчыма, вы павінны ўсталяваць іншую праграму, каб адчыніць гэты адрас.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Проксі-сервер адмовіўся злучацца">
+
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Упэўніцеся, што налады проксі правільныя.</li>
@@ -95,6 +109,7 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Немагчыма знайсці проксі-сервер">
+
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
   <li>Упэўніцеся, што налады проксі правільныя.</li>
@@ -105,9 +120,11 @@
 ">
 
 <!ENTITY redirectLoop.title "Старонка няправільна перанакіроўваецца">
+
 <!ENTITY redirectLoop.longDesc "<ul> <li>Гэтая праблема часам вынікае з забароны або адмаўлення ад набывання бірак.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Нечаканы адказ сервера">
+
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Упэўніцеся, што Менеджар асабістай бяспекі
@@ -117,6 +134,7 @@
 ">
 
 <!ENTITY nssFailure2.title "Няўдача бяспечнага злучэння">
+
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Старонка, якую вы спрабуеце адкрыць, не можа быць паказана, бо сапраўднасць атрыманых звестак нельга пацвердзіць.</li>
@@ -126,6 +144,7 @@
 
 <!ENTITY certerror.longpagetitle2 "Папярэджанне: наперадзе патэнцыяльная пагроза бяспецы">
 <!ENTITY certerror.sts.longpagetitle  "Не злучаны: Патэнцыяльная праблема бяспекі">
+
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -164,12 +183,13 @@ was trying to connect. -->
 ">
 
 <!ENTITY cspBlocked.title "Заблакавана палітыкай бяспекі змесціва">
+
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; адмовіў старонцы ў чытанні такім спосабам, бо палітыка бяспекі змесціва гэтай старонкі забараняе гэта.</p>">
 
-<!ENTITY xfoBlocked.title "Заблакавана палітыкай X-Frame-Options">
+<!ENTITY corruptedContentErrorv2.title "Памылка пашкоджанага змесціва">
+
 <!ENTITY xfoBlocked.longDesc "<p>&brandShortName; адмовіў старонцы ў загрузцы ў гэтым кантэксце, бо старонка мае палітыку X-Frame-Options, якая забараняе гэта.</p>">
 
-<!ENTITY corruptedContentErrorv2.title "Памылка пашкоджанага змесціва">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Старонка, якую вы спрабуеце адкрыць, не можа быць паказана, бо выяўлена памылка перадачы даных.</p><ul><li>Калі ласка, паведаміце ўладальніку сайта пра гэтую праблему.</li></ul>">
 
 <!ENTITY securityOverride.exceptionButton1Label "Прыняць рызыку і працягнуць">
@@ -178,9 +198,11 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Даведацца больш…">
 
 <!ENTITY remoteXUL.title "Аддалены XUL">
+
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Паведаміце, калі ласка, уладальнікам сайта пра гэтую праблему.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Немагчыма злучыцца бяспечна">
+
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Дадатковыя звесткі: SSL_ERROR_UNSUPPORTED_VERSION">
@@ -191,6 +213,7 @@ was trying to connect. -->
 <!ENTITY certerror.copyToClipboard.label "Капіяваць тэкст у буфер абмену">
 
 <!ENTITY inadequateSecurityError.title "Ваша злучэнне не бяспечнае">
+
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая састарэла і ўразлівая да атак. Зламыснік можа з лёгкасцю выкрыць звесткі, пра якія вы думаеце, што яны ў бяспецы. Адміністратар вэб-сайта мусіць выправіць гэты сервер, перш чым вы зможаце наведаць яго бяспечна.</p><p>Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
@@ -198,6 +221,7 @@ was trying to connect. -->
 <!ENTITY blockedByPolicy.title "Заблакаваная старонка">
 
 <!ENTITY certerror.mitm.title "Праграмнае забеспячэнне не дазваляе &brandShortName; бяспечна злучыцца з гэтым сайтам">
+
 <!ENTITY certerror.mitm.longDesc "<span class='hostname'></span>, хутчэй за ўсё, з'яўляецца бяспечным сайтам, але бяспечнае злучэнне з ім не можа быць усталявана. Гэтую праблему выклікае <span class='mitm-name'/> – праграмнае забеспячэнне на вашым камп'ютары альбо ў вашай сетцы.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt1 "Калі ваш антывірус мае функцыю сканавання зашыфраваных злучэнняў (звычайна называецца «вэб-сканаванне» або «https -сканаванне»), вы можаце адключыць гэту функцыю. Калі гэта не працуе, вы можаце выдаліць і пераўсталяваць антывіруснае праграмнае забеспячэнне.">
 <!ENTITY certerror.mitm.whatCanYouDoAboutIt2 "Калі вы ў карпаратыўнай сетцы, можаце звярнуцца ў аддзел ІТ.">
@@ -205,14 +229,16 @@ was trying to connect. -->
 <!ENTITY certerror.mitm.sts.whatCanYouDoAboutIt3 "Калі вы не знаёмыя з <span class='mitm-name'/>, гэта можа быць нападзенне, і вы ўжо нічога не можаце зрабіць, каб атрымаць доступ да сайта.">
 
 <!ENTITY clockSkewError.title "Гадзіннік вашага камп'ютара ідзе няправільна">
+
 <!ENTITY clockSkewError.longDesc "Ваш камп'ютар лічыць, што цяпер <span id='wrongSystemTime_systemDate1'/>, таму &brandShortName; не можа ўстанавіць абароненае злучэнне. Каб наведаць <span class='hostname'></span>, выстаўце правільную дату, час і часавы пояс у наладках камп'ютара, пасля абнавіце <span class='hostname'></span>.">
 
 <!ENTITY prefReset.longDesc "Выглядае, што выклікаць гэта маглі вашы налады сеткавай бяспекі. Хочаце скінуць налады да прадвызначаных?">
 <!ENTITY prefReset.label "Скінуць да прадвызначаных">
 
+<!ENTITY networkProtocolError.title "Памылка сеткавага пратаколу">
+
 <!ENTITY enableTls10.longDesc "Гэты сайт можа не падтрымліваць пратакол TLS 1.2, каторы ёсць мінімальная версій, падтрыманай у &brandShortName;. Уключэнне TLS 1.0 і TLS 1.1 можа дазволіць паспяхова зрабіць гэтае злучэнне.">
 <!ENTITY enableTls10.note "TLS 1.0 і TLS 1.1 будуць канчаткова адключаны ў будучым выпуску.">
 <!ENTITY enableTls10.label "Уключыць TLS 1.0 і 1.1">
 
-<!ENTITY networkProtocolError.title "Памылка сеткавага пратаколу">
 <!ENTITY networkProtocolError.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не можа быць паказана, бо выяўлена памылка ў сеткавым пратаколе.</p><ul><li>Калі ласка, звяжыцеся з уладальнікамі вэб-сайта і праінфармуйце іх аб гэтай праблеме.</li></ul>">

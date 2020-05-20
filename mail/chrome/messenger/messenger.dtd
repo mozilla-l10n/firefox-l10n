@@ -168,7 +168,6 @@
 <!ENTITY compactVersion.accesskey "Ш">
 <!ENTITY folderPaneBar.label "Панэль прылад папак">
 <!ENTITY folderPaneBar.accesskey "П">
-<!ENTITY folderModeSelector.label "Прадстаўленне папак">
 
 <!-- Sort Menu -->
 <!ENTITY sortMenu.label "Размеркаваць па">
@@ -434,9 +433,6 @@
 <!ENTITY openMessageWindowCmd.label "Адчыніць ліст">
 <!ENTITY openMessageWindowCmd.accesskey "А">
 <!ENTITY openMessageWindowCmd.key "o">
-<!ENTITY openConversationCmd.label "Адкрыць у гутарцы">
-<!ENTITY openConversationCmd.accesskey "т">
-<!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Далучэнні">
 <!ENTITY openAttachmentListCmd.accesskey "Д">
 <!ENTITY openFeedMessage1.label "Падчас адкрыцця паведамленняў жывільніка">
@@ -803,11 +799,7 @@
 <!ENTITY contextPrintPreview.accesskey "п">
 
 <!-- Thread Pane Column Picker -->
-<!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
-     This option in the thread pane column picker causes us to reset the
-     customizations for the thread pane columns in this folder to their default.
-  -->
-<!ENTITY columnPicker.resetToInbox.label "Узнавіць змоўчныя слупкі">
+
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
      the "columnPicker.applyToFolder.label" and
@@ -964,3 +956,4 @@
 <!ENTITY dockOptions.label              "Наладжванні значка прыстасавання…">
 <!ENTITY writeNewMessageDock.label      "Напісаць новы ліст">
 <!ENTITY openAddressBookDock.label      "Адкрыць адрасную кнігу">
+

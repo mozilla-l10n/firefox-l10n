@@ -89,8 +89,8 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "а">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "у">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Знайсці…">
 <!ENTITY findBarCmd.accesskey "З">
 <!ENTITY findBarCmd.key "F">
@@ -109,47 +109,21 @@
 <!-- Reorder Attachment Panel -->
 <!ENTITY reorderAttachmentsPanel.label "Перапарадкаваць укладанні">
 <!ENTITY moveAttachmentTopPanelBtn.label "Перайсці да пачатку">
-<!ENTITY moveAttachmentTopPanelBtn.accesskey "П">
 <!ENTITY moveAttachmentUpPanelBtn.label "Перамясціць уверх">
-<!ENTITY moveAttachmentUpPanelBtn.accesskey "П">
 <!ENTITY moveAttachmentBundleUpPanelBtn.label "Перамясціць разам">
-<!ENTITY moveAttachmentBundleUpPanelBtn.accesskey "р">
 <!ENTITY moveAttachmentDownPanelBtn.label "Перамясціць уніз">
-<!ENTITY moveAttachmentDownPanelBtn.accesskey "н">
 <!ENTITY moveAttachmentBottomPanelBtn.label "Перамясціць у канец">
-<!ENTITY moveAttachmentBottomPanelBtn.accesskey "ц">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.label):
-     Please ensure that this translation matches
-     sortAttachmentsTogglePanelBtn.ZA.label, except for the sort direction. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.label "Сартаваць абранае: А - Я">
-<!-- LOCALIZATION NOTE (sortAttachmentsTogglePanelBtn.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsTogglePanelBtn.ZA.accesskey, and it should be taken from
-     the "Sort Selection:" part of the label, not from the sort direction part. -->
-<!ENTITY sortAttachmentsTogglePanelBtn.AZ.accesskey "а">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.label "Сартаваць абранае: Я - А">
-<!ENTITY sortAttachmentsTogglePanelBtn.ZA.accesskey "а">
 
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.Sort.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.Sort.AZ.label "Сартаваць: А - Я">
-<!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.Sort.AZ.accesskey):
-     This accesskey should be the same like
-     sortAttachmentsPanelBtn.Sort.ZA.accesskey,
-     sortAttachmentsPanelBtn.SortSelection.AZ.accesskey, and
-     sortAttachmentsPanelBtn.SortSelection.ZA.accesskey and it should therefore be
-     taken from the word "Sort", not from "Selection" or the sort direction part. -->
-<!ENTITY sortAttachmentsPanelBtn.Sort.AZ.accesskey "а">
 <!ENTITY sortAttachmentsPanelBtn.Sort.ZA.label "Сартаваць: Я - А">
-<!ENTITY sortAttachmentsPanelBtn.Sort.ZA.accesskey "а">
 <!-- LOCALIZATION NOTE (sortAttachmentsPanelBtn.SortSelection.AZ.label):
      Please ensure that this translation matches
      sortAttachmentsPanelBtn.SortSelection.ZA.label, except for the sort direction. -->
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.label "Сартаваць абранае: А - Я">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.AZ.accesskey "а">
 <!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.label "Сартаваць абранае: Я - А">
-<!ENTITY sortAttachmentsPanelBtn.SortSelection.ZA.accesskey "а">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Прагляд">
@@ -261,7 +235,6 @@
 <!ENTITY sendlaterButton.tooltip "Даслаць гэты ліст пазней">
 <!ENTITY quoteButton.tooltip "Працытаваць папярэдні ліст">
 <!ENTITY addressButton.tooltip "Выбраць атрымальніка з адраснай кнігі">
-<!ENTITY attachButton.tooltip "Уключыць далучэнне">
 <!ENTITY spellingButton.tooltip "Праверка правапісу вылучэння або ўсяго ліста">
 <!ENTITY saveButton.tooltip "Захаваць гэты ліст">
 <!ENTITY cutButton.tooltip              "Выразаць">
@@ -347,6 +320,8 @@
 <!ENTITY convertRegularAttachment.accesskey "д">
 <!ENTITY attachPage.label "Далучыць старонку Сеціва…">
 <!ENTITY attachPage.accesskey "с">
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">

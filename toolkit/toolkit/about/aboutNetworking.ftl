@@ -9,24 +9,12 @@ ok = Добра
 http = HTTP
 sockets = Сокеты
 dns = DNS
-dnssuffix = DNS-суфікс
 websockets = Сеціўныя сокеты
 refresh = Паднавіць
 auto-refresh = Паднаўляць кожныя 3 секунды
 hostname = Назва трымальніка
 port = Порт
 http2 = HTTP/2
-about-networking-title = Пра сетку
-about-networking-http = HTTP
-about-networking-sockets = Сокеты
-about-networking-dns = DNS
-about-networking-dns-suffix = DNS-суфікс
-about-networking-websockets = Сеціўныя сокеты
-about-networking-refresh = Паднавіць
-about-networking-auto-refresh = Паднаўляць кожныя 3 секунды
-about-networking-hostname = Назва трымальніка
-about-networking-port = Порт
-about-networking-http-version = Версія HTTP
 ssl = SSL
 active = Дзейны
 idle = Бяздзейны
@@ -69,8 +57,18 @@ rcwn-avg-long = Доўгае сярэдняе
 rcwn-std-dev-long = Доўгае сярэднеквадратычнае адхіленне
 rcwn-cache-slow = Лік маруднага кэша
 rcwn-cache-not-slow = Лік не-маруднага кэша
-networkid = Сеткавы ID
-networkid-id = Сеткавы ID
+
+about-networking-title = Пра сетку
+about-networking-http = HTTP
+about-networking-sockets = Сокеты
+about-networking-dns = DNS
+about-networking-dns-suffix = DNS-суфікс
+about-networking-websockets = Сеціўныя сокеты
+about-networking-refresh = Паднавіць
+about-networking-auto-refresh = Паднаўляць кожныя 3 секунды
+about-networking-hostname = Назва трымальніка
+about-networking-port = Порт
+about-networking-http-version = Версія HTTP
 about-networking-ssl = SSL
 about-networking-active = Дзейны
 about-networking-idle = Бяздзейны
@@ -118,8 +116,6 @@ about-networking-networkid-id = Сеткавы ID
 
 ## Link is intended as "network link"
 
-networkid-isUp = Злучэнне актыўнае
-networkid-statusKnown = Стан злучэння вядомы
 about-networking-networkid-is-up = Злучэнне актыўнае
 about-networking-networkid-status-known = Стан злучэння вядомы
 

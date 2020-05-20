@@ -5,8 +5,6 @@
 <!ENTITY doNotDownloadPop3Movemail.label "Каб захаваць дыскавую прастору, не загружаць:">
 <!ENTITY doNotDownloadNntp.label "Каб захаваць дыскавую прастору, не загружаць для карыстання па-за сеткаю:">
 <!ENTITY doNotDownloadImap.label "Каб захаваць дыскавую прастору, сцягванне лістоў з паслугача і ўтрымліванне мясцовых падвояў для пазасеткавага карыстання можа быць абмежавана па ўзросту або памеру.">
-<!ENTITY allFoldersOffline.label "Захоўваць лісты з гэтага рахунку на гэтым кампутары">
-<!ENTITY allFoldersOffline.accesskey "З">
 <!ENTITY allFoldersOffline2.label "Захоўваць лісты з ўсіх папак для гэтага ўліковага запісу на гэтым кампутары">
 <!ENTITY allFoldersOffline2.accesskey "о">
 <!ENTITY offlineNotDownload.label "Лісты, большыя чым">
