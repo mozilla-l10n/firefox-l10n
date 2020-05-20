@@ -4,6 +4,8 @@
 
 <!-- extracted from am-copies.xul -->
 
+<!-- extracted from am-copies.xhtml -->
+
 <!ENTITY copyAndFolderTitle.label "Копия и папки">
 <!ENTITY sendingPrefix.label "При изпращане на писмо, автоматично:">
 <!ENTITY fccMailFolder.label "Оставя се копие в:">

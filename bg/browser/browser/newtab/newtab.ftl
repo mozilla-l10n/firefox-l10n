@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Търсене
     .aria-label = Търсене
+
 newtab-search-box-search-the-web-text = Търсене в интернет
 newtab-search-box-search-the-web-input =
     .placeholder = Търсене в интернет
@@ -29,10 +30,12 @@ newtab-topsites-edit-topsites-header = Променяне на често пос
 newtab-topsites-title-label = Заглавие
 newtab-topsites-title-input =
     .placeholder = Въведете заглавие
+
 newtab-topsites-url-label = Адрес
 newtab-topsites-url-input =
     .placeholder = Адрес
 newtab-topsites-url-validation = Необходим е валиден URL
+
 newtab-topsites-image-url-label = Адрес на изображение по желание
 newtab-topsites-use-image-link = Използване изображение по желание…
 newtab-topsites-image-validation = Изображението не може да бъде заредено. Опитайте с друг адрес.
@@ -57,6 +60,7 @@ newtab-confirm-delete-history-p2 = Действието е необратимо.
 newtab-menu-section-tooltip =
     .title = Отваряне на меню
     .aria-label = Отваряне на меню
+
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -86,12 +90,6 @@ newtab-menu-show-privacy-info = Спонсори и поверителност
 
 newtab-privacy-modal-button-done = Готово
 newtab-privacy-modal-header = Вашата поверителност е от значение.
-newtab-privacy-modal-paragraph =
-    Като допълнение на това, че намираме завладяващи истории,
-    ние ви показваме и подходящо, проверено съдържание от избрани
-    спонсори. Бъдете спокойни, данните ви от разглежданията никога
-    не напускат вашето копие на { -brand-product-name } - ние не ги виждаме
-    нашите спонсори също.
 newtab-privacy-modal-paragraph-2 =
     Като допълнение на това, че намираме завладяващи истории,
     ние ви показваме и подходящо, проверено съдържание от избрани
@@ -135,6 +133,7 @@ newtab-label-removed-bookmark = Отметката е премахната
 newtab-label-recommended = Тенденции
 newtab-label-saved = Запазено в { -pocket-brand-name }
 newtab-label-download = Изтеглено
+
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -172,10 +171,12 @@ newtab-section-header-pocket = Препоръчано от { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Разглеждайте и тук ще ви покажем някои от най-добрите статии, видео и други страници, които сте посетили или отметнали наскоро.
+
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Разгледахте всичко. Проверете по-късно за повече истории от { $provider }. Нямате търпение? Изберете популярна тема, за да откриете повече истории от цялата Мрежа.
+
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
@@ -191,7 +192,6 @@ newtab-discovery-empty-section-topstories-timed-out = Ами сега! Почт�
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = Популярни теми:
 newtab-pocket-more-recommendations = Повече препоръчани
-newtab-pocket-whats-pocket = Какво е { -pocket-brand-name }?
 newtab-pocket-learn-more = Научете повече
 newtab-pocket-cta-button = Вземете { -pocket-brand-name }
 newtab-pocket-cta-text = Запазете статиите, които харесвате в { -pocket-brand-name } и заредете ума си с увлекателни четива.

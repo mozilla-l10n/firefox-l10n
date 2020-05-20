@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Настройки за архивиране">
 <!ENTITY archiveGranularityPrefix.label "При архивиране на съобщения се поставят в:">
 <!ENTITY archiveFlat.label "Отделна папка">

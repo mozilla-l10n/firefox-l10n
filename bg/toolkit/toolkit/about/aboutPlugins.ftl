@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Относно приставките
+
 installed-plugins-label = Инсталирани приставки
 no-plugins-are-installed-label = Не са намерени инсталирани приставки
+
 deprecation-description = Липсва ли нещо? Някои приставки вече не се поддържат. <a data-l10n-name="deprecation-link">Научете повече</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Състояние:</span> Вк�
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Състояние:</span> Включена ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Състояние:</span> Изключена
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Състояние:</span> Изключена ({ $blockListState })
+
 mime-type-label = MIME тип
 description-label = Описание
 suffixes-label = Наставки

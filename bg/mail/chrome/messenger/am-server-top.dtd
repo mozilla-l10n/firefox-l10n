@@ -44,7 +44,6 @@
 <!ENTITY deleteOnServer2.accesskey "з">
 <!ENTITY downloadOnBiff.label "Автоматично изтегляне на новите писма">
 <!ENTITY downloadOnBiff.accesskey "А">
-<!ENTITY username.label "вашето име за включване">
 <!ENTITY deleteMessagePrefix.label "При изтриване на писмо:">
 <!ENTITY modelMoveToTrash.label "се премества в тази папка:">
 <!ENTITY modelMoveToTrash.accesskey "п">

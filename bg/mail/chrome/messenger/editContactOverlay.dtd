@@ -14,9 +14,6 @@
 <!ENTITY editContactAddressBook.label "Адресник:">
 <!ENTITY editContactAddressBook.accesskey "А">
 
-<!ENTITY editContactPanelCancel.label "Отказ">
-<!ENTITY editContactPanelCancel.accesskey "О">
-
 <!ENTITY editContactPanelDone.label "Готово">
 <!ENTITY editContactPanelDone.accesskey "Г">
 

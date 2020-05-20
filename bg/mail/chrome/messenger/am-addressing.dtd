@@ -4,6 +4,8 @@
 
 <!-- extracted from am-addressing.xul -->
 
+<!-- extracted from am-addressing.xhtml -->
+
 <!ENTITY addressing.label          "Писане и адресиране">
 <!ENTITY addressingGroupTitle.label "Адресиране">
 <!ENTITY addressingText.label      "При търсене на адреси:">
@@ -19,15 +21,14 @@
 
 <!-- am-addressing.xul -->
 
+<!-- am-addressing.xhtml -->
+
 <!ENTITY compositionGroupTitle.label          "Писане">
 <!-- LOCALIZATION NOTE (useHtml.label) : do not translate "html" in below line -->
 <!ENTITY useHtml.label                        "Писане на писма във формат HTML">
 <!ENTITY useHtml.accesskey                    "а">
 <!ENTITY autoQuote.label                      "При отговор автоматично се цитира оригиналното писмо">
 <!ENTITY autoQuote.accesskey                  "ц">
-<!-- LOCALIZATION NOTE (then.label): This will concatenate with the 4 strings that follow. -->
-<!ENTITY then.label                           "След това">
-<!ENTITY then.accesskey                       "л">
 <!-- LOCALIZATION NOTE (quoting.label): This will concatenate with the 4 strings that follow. -->
 <!ENTITY quoting.label                        "При цитиране,">
 <!ENTITY quoting.accesskey                    "ц">

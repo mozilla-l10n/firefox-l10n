@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Изключване на { -sync-brand-short-name }?
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = А бихте ли желали данните на четеца да бъдат премахнати от компютъра? Във всеки случай синхронизираната информация от { -sync-brand-name } ще остане в сметката.
+
 sync-disconnect-remove-sync-caption = Премахване на данни от { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Отметки, история, пароли и други
+
 sync-disconnect-remove-other-caption = Премахване на други лични данни
+
 sync-disconnect-remove-other-data = Бисквитки, буфер, данни на страници и други
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Изключване…
+
 sync-disconnect-cancel =
     .label = Отказ
     .accesskey = о
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Изключване и изтриване
     .accesskey = з
+
 sync-disconnect-confirm-disconnect =
     .label = Само изключване
     .accesskey = ч

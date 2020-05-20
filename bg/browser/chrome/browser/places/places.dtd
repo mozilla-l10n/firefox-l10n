@@ -70,18 +70,11 @@
 <!ENTITY cmd.new_separator.label           "Нов разделител">
 <!ENTITY cmd.new_separator.accesskey       "р">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Презареждане на жива отметка">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "ж">
-
-<!ENTITY cmd.moveBookmarks.label                  "Преместване…">
-<!ENTITY cmd.moveBookmarks.accesskey              "П">
-
 <!ENTITY col.name.label          "Наименование">
 <!ENTITY col.tags.label          "Етикети">
 <!ENTITY col.url.label           "Местоположение">
 <!ENTITY col.mostrecentvisit.label "Последно посещение">
 <!ENTITY col.visitcount.label    "Брой посещения">
-<!ENTITY col.description.label   "Описание">
 <!ENTITY col.dateadded.label     "Добавена на">
 <!ENTITY col.lastmodified.label  "Последна промяна">
 
@@ -98,10 +91,6 @@
 
 <!ENTITY forwardButton.tooltip  "Отиване напред">
 
-<!ENTITY detailsPane.more.label "Повече">
-<!ENTITY detailsPane.more.accesskey "в">
-<!ENTITY detailsPane.less.label "По-малко">
-<!ENTITY detailsPane.less.accesskey "м">
 <!ENTITY detailsPane.selectAnItemText.description "Изберете елемент, който да разгледате и редактирате">
 
 <!ENTITY view.label               "Изглед">

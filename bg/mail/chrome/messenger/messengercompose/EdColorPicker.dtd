@@ -5,9 +5,6 @@
 <!ENTITY windowTitle.label "Цвят">
 <!ENTITY lastPickedColor.label "Последно избран цвят">
 <!ENTITY lastPickedColor.accessKey "П">
-<!ENTITY setColor1.label "Щракнете върху цвят или">
-<!ENTITY setColor2.label "въведете HTML код за цвят">
-<!ENTITY setColor2.accessKey "в">
 <!ENTITY setColorExample.label "(напр.: &quot;#0000ff&quot; или &quot;син&quot;):">
 <!ENTITY default.label "Стандартен">
 <!ENTITY default.accessKey "д">

@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Шрифтове
+
 fonts-window-close =
     .key = w
 
@@ -11,6 +12,7 @@ fonts-window-close =
 
 fonts-langgroup-header = Шрифтове за
     .accesskey = з
+
 fonts-langgroup-arabic =
     .label = Арабски
 fonts-langgroup-armenian =
@@ -75,24 +77,33 @@ fonts-langgroup-other =
 
 fonts-proportional-header = Пропорционален
     .accesskey = р
+
 fonts-default-serif =
     .label = Серифен
 fonts-default-sans-serif =
     .label = Безсерифен
+
 fonts-proportional-size = Големина
     .accesskey = Г
+
 fonts-serif = Серифен
     .accesskey = ф
+
 fonts-sans-serif = Несерифен
     .accesskey = е
+
 fonts-monospace = Равноширок
     .accesskey = ш
+
 fonts-monospace-size = Големина
     .accesskey = а
+
 fonts-minsize = Минимална големина
     .accesskey = л
+
 fonts-minsize-none =
     .label = Няма
+
 fonts-allow-own =
     .label = Страниците могат да избират собствен шрифт вместо избраните по-горе
     .accesskey = м
@@ -104,8 +115,10 @@ fonts-allow-own =
 
 fonts-languages-fallback-header = Кодиране на остаряло съдържание
 fonts-languages-fallback-desc = Това кодиране на знаците ще бъде използвано за съдържание, което не предостави информация за своята кодировка.
+
 fonts-languages-fallback-label = Резервно кодиране на текст
     .accesskey = к
+
 fonts-languages-fallback-name-auto =
     .label = Текущият локал да стане стандартен
 fonts-languages-fallback-name-arabic =
@@ -138,9 +151,7 @@ fonts-languages-fallback-name-vietnamese =
     .label = Виетнамски
 fonts-languages-fallback-name-other =
     .label = Друго (вкл. западно-европейско)
-fonts-very-large-warning-title = Твърде голям минимален размер
-fonts-very-large-warning-message = Избрали сте много голям минимален размер на шрифта (повече от 24 пиксела). Това може да направи трудно или невъзможно използването на важни страници за настройки като тази.
-fonts-very-large-warning-accept = Приемане въпреки това
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

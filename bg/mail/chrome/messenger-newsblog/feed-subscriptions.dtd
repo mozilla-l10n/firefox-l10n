@@ -11,7 +11,6 @@
 
 <!ENTITY feedLocation.label          "Адрес на емисия:">
 <!ENTITY feedLocation.accesskey      "А">
-<!ENTITY feedLocation.placeholder    "Въведете валиден адрес на емисия за добавяне">
 <!ENTITY feedLocation2.placeholder   "Въведете валиден адрес на емисия">
 <!ENTITY locationValidate.label      "Проверка">
 <!ENTITY validateText.label          "Проверяване и изтегляне на валиден адрес.">

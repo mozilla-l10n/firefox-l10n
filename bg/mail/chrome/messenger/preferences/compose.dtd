@@ -18,8 +18,6 @@
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Шрифт:">
 <!ENTITY font.accesskey                       "Ш">
-<!ENTITY size.label                           "Големина:">
-<!ENTITY size.accesskey                       "Г">
 <!ENTITY fontColor.label                      "Цвят на текст:">
 <!ENTITY fontColor.accesskey                  "Ц">
 <!ENTITY bgColor.label                        "Цвят на фона:">

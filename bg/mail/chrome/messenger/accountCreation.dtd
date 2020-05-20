@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY autoconfigWizard2.title         "Настройка на съществуващ адрес на ел. поща">
+
 <!ENTITY name.label                      "Вашето име:">
 <!ENTITY name.accesskey                  "и">
 <!ENTITY name.placeholder                "Име Фамилия">

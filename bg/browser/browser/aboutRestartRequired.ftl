@@ -6,4 +6,5 @@ restart-required-title = Необходимо е рестартиране
 restart-required-header = Извинете. За да продължим работа е необходимо да свършим нещо дребно.
 restart-required-intro-brand = { -brand-short-name } е обновен във фонов режим. Изберете Рестартиране на { -brand-short-name }, за да бъде завършено обновяването.
 restart-required-description = След това всички страници, прозорци и раздели ще бъдат възстановени и ще може да продължите работа.
+
 restart-button-label = Рестартиране на { -brand-short-name }

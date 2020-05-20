@@ -4,6 +4,10 @@
 <!-- extracted from MsgSynchronize.xul and msgSelectOffline.xul-->
 
 
+<!-- extracted from MsgSynchronize.xul and msgSelectOfflineFolders.xul-->
+
+<!-- extracted from MsgSynchronize.xhtml and msgSelectOfflineFolders.xhtml-->
+
 <!ENTITY MsgSynchronize.label "Изтегляне и синхронизиране на писма">
 <!ENTITY MsgSelect.label "Позиции за употреба без връзка">
 <!ENTITY MsgSyncDesc.label "Ако вече имате избрани пощенски папки или форуми за употреба без връзка, можете да ги изтеглите и/или синхронизирате сега. В противен случай, използвайте бутона &quot;Избор&quot; за да изберете пощенски папки и форуми за употреба без връзка.">
