@@ -75,5 +75,5 @@ urlbar-placeholder =
     .placeholder = ठिका़ना़ पानते आर बाङ पानते.
 urlbar-switch-to-tab =
     .value = टेब रे ओता:
-urlbar-go-end-cap =
+urlbar-go-button =
     .tooltiptext = ठांव बार ठिका़ना रे चालाव .
