@@ -57,5 +57,3 @@ popup-select-microphone =
 
 urlbar-switch-to-tab =
     .value = Kyuusa ku Mapeesa
-urlbar-go-end-cap =
-    .tooltiptext = Genda ku Ndagiriro eri mu Kabawo Akalagirira
