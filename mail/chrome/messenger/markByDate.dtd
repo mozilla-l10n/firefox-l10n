@@ -5,5 +5,5 @@
 <!ENTITY messageMarkByDate.label "સંદેશાઓને તારીખ પ્રમાણે વાંચ્યા એમ ચિહ્નિત કરો">
 <!ENTITY markByDateLower.label "સંદેશાઓને આમાંથી વાંચ્યા એમ ચિહ્નિત કરો:">
 <!ENTITY markByDateLower.accesskey "F">
-<!ENTITY markByDateUpper.accesskey "T">
 <!ENTITY markByDateUpper.label "પ્રતિ:">
+<!ENTITY markByDateUpper.accesskey "T">

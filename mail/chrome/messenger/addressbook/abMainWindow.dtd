@@ -9,10 +9,6 @@
 <!ENTITY fileMenu.accesskey                             "f">
 <!ENTITY newMenu.label                                  "નવો">
 <!ENTITY newMenu.accesskey                              "N">
-<!ENTITY newCard.label                                  "સરનામા પુસ્તિકા કાર્ડ...">
-<!-- LOCALIZATION NOTE (newCard.accesskey) : DONT_TRANSLATE -->
-<!ENTITY newCard.accesskey                              "C">
-<!ENTITY newCard.key                                    "N">
 <!ENTITY newListCmd.label                               "મેલની યાદી...">
 <!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "L">
@@ -29,22 +25,10 @@
 <!ENTITY closeCmd.accesskey                             "c">
 <!ENTITY printSetupCmd.label                            "પાનાનું સુયોજન...">
 <!ENTITY printSetupCmd.accesskey                        "u">
-<!ENTITY printPreviewCardViewCmd.label                  "છાપણી પૂર્વદર્શન કાર્ડ">
-<!ENTITY printPreviewCardViewCmd.accesskey              "v">
 <!ENTITY printPreviewAddressBook.label                  "છાપણી પૂર્વદર્શન સરનામા પુસ્તિકા">
 <!ENTITY printPreviewAddressBook.accesskey              "B">
-<!ENTITY printCardViewCmd.label                         "કાર્ડ છાપો...">
-<!ENTITY printCardViewCmd.accesskey                     "p">
-<!-- LOCALIZATION NOTE (printCardViewCmd.key) : DONT_TRANSLATE -->
-<!ENTITY printCardViewCmd.key                           "P">
 <!ENTITY printAddressBook.label                         "સરનામા પુસ્તિકા છાપો...">
 <!ENTITY printAddressBook.accesskey                     "A">
-
-<!ENTITY quitApplicationCmdWin.label                    "બંધ કરો"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label                       "બહાર નીકળો"> 
-<!ENTITY quitApplicationCmd.accesskey                   "Q">
-<!ENTITY quitApplicationCmd.key "Q">
 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "ફેરફાર કરો">
@@ -65,11 +49,8 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "p">
 <!ENTITY deleteCmd.label                                "કાઢી નાંખો">
-<!ENTITY deleteCmd.key                                  "D">
 <!ENTITY deleteCmd.accesskey                            "d">
 <!ENTITY deleteAbCmd.label                              "સરનામા પુસ્તિકા કાઢી નાંખો">
-<!ENTITY deleteCardCmd.label                            "કાર્ડ કાઢી નાંખો">
-<!ENTITY deleteCardsCmd.label                           "પસંદિત કાર્ડો કાઢી નાંખો">
 <!ENTITY selectAllCmd.label                             "બધું પસંદ કરો">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -79,9 +60,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd.label                            "ગુણધર્મો...">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
-<!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
 <!-- View Menu -->
@@ -95,12 +73,8 @@
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "કસ્ટમાઈઝ...">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showCardPane.label                             "કાર્ડનો સાર આપતી તકતી">
-<!ENTITY showCardPane.accesskey                         "C">
 <!ENTITY menu_ShowNameAs.label                          "નામ આ રીતે બતાવો">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "પ્રથમ, છેલ્લું">
-<!ENTITY firstLastCmd.accesskey                         "f"> 
 <!ENTITY lastFirstCmd.label                             "પ્રથમ, છેલ્લું">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "નામ પ્રદર્શિત કરો">
@@ -120,48 +94,19 @@
 <!ENTITY importCmd.accesskey                            "I">
 <!ENTITY exportCmd.label                                "નિકાસ કરો...">
 <!ENTITY exportCmd.accesskey                            "E">
-<!ENTITY preferencesCmd.label                           "વિકલ્પો...">
-<!ENTITY preferencesCmd.key                             "O">
-<!ENTITY preferencesCmd.accesskey                       "O">
 <!ENTITY preferencesCmdUnix.label                       "પસંદગીઓ">
 <!ENTITY preferencesCmdUnix.accesskey                   "n"> 
 
-<!-- Help Menu -->
-<!ENTITY helpMenu.label                                 "મદદ">
-<!ENTITY helpMenu.accesskey                             "H">
-<!ENTITY releaseCmd.label                               "પ્રકાશન નોંધો">
-<!ENTITY releaseCmd.accesskey                           "R">
-<!ENTITY hintsAndTips.label                             "&brandShortName; મદદ">
-<!ENTITY hintsAndTips.accesskey                         "h">
-<!ENTITY hintsAndTipsMac.commandkey                     "?">
-<!ENTITY aboutCmd.label                                 "&brandShortName; વિશે">
-<!ENTITY aboutCmd.accesskey                             "A">
-
-<!-- Address Book Toolbar and Context Menus -->  
-<!ENTITY newcardButton.label                            "નવો કાર્ડ">
-<!ENTITY newcardButton.accesskey                        "C">
 <!ENTITY newlistButton.label                            "નવી યાદી">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton.label                               "ગુણધર્મો">
-<!ENTITY editButton.accesskey                           "P">
 <!ENTITY newmsgButton.label                             "લખો">
 <!ENTITY newmsgButton.accesskey                         "W">
 <!ENTITY newIM.label                                    "તુરંત સંદેશો">
 <!ENTITY newIM.accesskey                                "I">
-<!ENTITY deleteButton.label                             "કાઢી નાંખો">
-<!ENTITY deleteButton.accesskey                         "D">
-<!ENTITY throbberItem.title                             "ક્રિયા સૂચક">
 
-<!-- Address Book Toolbar Tooltips -->
-<!ENTITY newcardButton.tooltip                          "નવી સરનામા પુસ્તિકા કાર્ડ બનાવો">
 <!ENTITY newlistButton.tooltip                          "નવી યાદી બનાવો">
-<!ENTITY editButton.tooltip                             "પસંદિત કાર્ડમાં ફેરફાર કરો">
 <!ENTITY newmsgButton.tooltip                           "મેલ સંદેશો મોકલો">
 <!ENTITY newIM.tooltip                                  "તુરંત સંદેશો મોકલો અથવા સંવાદ કરો">
-<!ENTITY deleteButton.tooltip                           "પસંદિત કાર્ડ અથવા સરનામા પુસ્તિકા કાઢી નાંખો">
-
-<!-- Dir Tree header -->
-<!ENTITY dirTreeHeader.label                            "સરનામા પુસ્તિકાઓ">
 
 <!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "નામ અથવા ઈમેલ સમાવે છે:">
@@ -175,8 +120,6 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "ઈમેલ">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "સ્ક્રીન નામ">
-<!ENTITY ScreenName.accesskey                           "S">
 <!ENTITY Company.label                                  "સંસ્થા">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "લાડકું નામ">
@@ -204,18 +147,6 @@
 <!ENTITY _PhoneticName.label                            "ઉચ્ચારાત્મક નામ">
 <!ENTITY _PhoneticName.accesskey                        "o">
 
-<!-- Results pane context menu -->
-<!ENTITY composeEmail.label                             "ના પ્રતિ ઈમેલ કમ્પોઝ કરો">
-<!ENTITY composeEmail.accesskey                         "C">
-<!ENTITY deleteAddrBookCard.label                       "કાઢી નાંખો">
-<!ENTITY deleteAddrBookCard.accesskey                   "D">
-<!ENTITY newAddrBookCard.label                          "નવું કાર્ડ...">
-<!ENTITY newAddrBookCard.accesskey                      "N">
-<!ENTITY newAddrBookMailingList.label                   "મેલની નવી યાદી...">
-<!ENTITY newAddrBookMailingList.accesskey               "M">
-<!ENTITY addrBookCardProperties.label                   "ગુણધર્મો">
-<!ENTITY addrBookCardProperties.accesskey               "P">
-
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "સંપર્ક કરો">
@@ -235,7 +166,7 @@
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label "વિન્ડો">
-<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "ન્યુનતમ કરો">
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "બધું અગ્ર ભાગમાં લાવો">
 <!ENTITY zoomWindow.label "નાનુમોટુ">

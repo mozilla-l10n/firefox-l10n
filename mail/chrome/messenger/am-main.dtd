@@ -4,10 +4,11 @@
 
 <!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xhtml -->
+
 <!ENTITY accountTitle.label "ખાતા સુયોજનો">
 <!ENTITY accountName.label "ખાતા નામ:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY accountNameDesc.label "ખાતુ નામ દરેક ખાતાને ઓળખાવવા માટે વપરાય છે">
 <!ENTITY identityTitle.label "મૂળભુત ઓળખ">
 <!ENTITY identityDesc.label "દરેક ખાતાને ઓળખ હોય છે, કે જે જ્યારે લોકો સંદેશાઓ વાંચે ત્યારે આ જાણકારી જુએ.">
 <!ENTITY name.label "તમારું નામ:">
@@ -18,8 +19,6 @@
 <!ENTITY replyTo.accesskey "s">
 <!ENTITY organization.label "સંસ્થા:">
 <!ENTITY organization.accesskey "O">
-<!ENTITY signature.label "આ સહી જોડો:">
-<!ENTITY signature.accesskey "t">
 <!ENTITY edit.label "ફેરફાર કરો...">
 <!ENTITY choose.label "પસંદ કરો...">
 <!ENTITY choose.accesskey "C">
@@ -36,3 +35,4 @@
 <!ENTITY smtpName.label "આઉટગોઈંગ સર્વર (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "મૂળભુત સર્વર વાપરો">
+

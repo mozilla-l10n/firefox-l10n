@@ -4,7 +4,6 @@
 
 <!ENTITY Window.title        "વિષયસૂચી કોષ્ટક">
 <!ENTITY buildToc.label      "આમાંથી સમાવિષ્ટોનું કોષ્ટક બનાવો:">
-<!ENTITY style.label         "શૈલી:">
 <!ENTITY tag.label           "ટેગ:">
 <!ENTITY class.label         "વર્ગ:">
 <!ENTITY header1.label       "સ્તર ૧">

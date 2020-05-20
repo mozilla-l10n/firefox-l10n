@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = સાઇટની માહિતી જુઓ
 
@@ -85,10 +86,12 @@ urlbar-canvas-blocked =
     .tooltiptext = તમે આ વેબસાઇટ માટે કેનવાસ ડેટા નિષ્કર્ષણને અવરોધિત કર્યો છે.
 urlbar-midi-blocked =
     .tooltiptext = તમે આ વેબસાઇટ માટે MIDI ઍક્સેસને અવરોધિત કરી છે.
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = આ બુકમાર્ક ({ $shortcut }) માં ફેરફાર કરો
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -117,12 +120,14 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = આ સમયે, આની સાથે શોધો:
+
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = શોધ ના સેટિંગ્સ બદલો
 search-one-offs-change-settings-compact-button =
     .tooltiptext = શોધ ના સેટિંગ્સ બદલો
+
 search-one-offs-context-open-new-tab =
     .label = નવી ટૅબમાં શોધો
     .accesskey = T
@@ -135,8 +140,10 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = સંપાદક દર્શાવે છે કે જ્યારે બચત
     .accesskey = S
+
 bookmark-panel-done-button =
     .label = પૂર્ણ થયું
+
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -211,9 +218,11 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = બ્રાઉઝર રીમોટ કંટ્રોલ હેઠળ છે
 urlbar-switch-to-tab =
     .value = ટૅબને ખસેડો:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = એક્સ્ટેંન્શન:
+
 urlbar-go-button =
     .tooltiptext = સ્થાન પટ્ટીમાં સરનામા પર જાવ
 urlbar-page-action-button =

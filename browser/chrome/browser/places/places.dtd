@@ -70,9 +70,6 @@
 <!ENTITY cmd.new_separator.label           "નવો વિભાજક">
 <!ENTITY cmd.new_separator.accesskey       "S">
 
-<!ENTITY cmd.reloadLivebookmark.label      "જીવંત બુકમાર્ક પુનઃલાવો">
-<!ENTITY cmd.reloadLivebookmark.accesskey  "R">
-
 <!ENTITY col.name.label          "નામ">
 <!ENTITY col.tags.label          "ટૅબ">
 <!ENTITY col.url.label           "સ્થાન">

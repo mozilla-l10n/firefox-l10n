@@ -8,6 +8,7 @@ password-quality-meter = પાસવર્ડ ગુણવત્તા મા�
 
 change-password-window =
     .title = મુખ્ય પાસવર્ડ બદલો
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = સુરક્ષા ઉપકરણ: { $tokenName }

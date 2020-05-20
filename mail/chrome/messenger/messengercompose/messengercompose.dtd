@@ -14,8 +14,6 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "M">
-<!ENTITY newCard.label "સરનામા પુસ્તિકા કાર્ડ...">
-<!ENTITY newCard.accesskey "c">
 <!ENTITY attachMenu.label "જોડો">
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "ફાઈલો...">
@@ -49,13 +47,7 @@
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printCmd.label "છાપો...">
 <!ENTITY printCmd.key "P">
-<!ENTITY printCmd.accesskey "P">
-<!ENTITY quitApplicationCmdWin.label                    "બંધ કરો"> 
-<!ENTITY quitApplicationCmdWin.accesskey                "x">
-<!ENTITY quitApplicationCmd.label 			"બહાર નીકળો"> 
-<!ENTITY quitApplicationCmd.key 			"Q"> 
-<!ENTITY quitApplicationCmd.accesskey "Q">
-
+<!ENTITY printCmd.accesskey "P"> 
 <!-- Edit Menu -->
 <!ENTITY editMenu.label "ફેરફાર કરો"> 
 <!ENTITY editMenu.accesskey "e">
@@ -74,35 +66,28 @@
 <!ENTITY pasteCmd.label "ચોંટાડો">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "p">
-<!ENTITY editRewrapCmd.label "ફરી લપેટો">
 <!ENTITY editRewrapCmd.accesskey "w">
 <!ENTITY deleteCmd.label "કાઢી નાંખો">
-<!ENTITY deleteCmd.key "D">
 <!ENTITY deleteCmd.accesskey "d">
+<!ENTITY editRewrapCmd.label "ફરી લપેટો">
 <!ENTITY selectAllCmd.label "બધું પસંદ કરો">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
-<!ENTITY findCmd.label "શોધો અને બદલો...">
-<!ENTITY findCmd.key "F">
-<!ENTITY findCmd.accesskey "F">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findAgainCmd.label "ફરીથી શોધો">
-<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "પહેલાનું શોધો">
+<!ENTITY findPrevCmd.accesskey "v"> 
+
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "v"> 
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "જુઓ"> 
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "સાધનપટ્ટીઓ"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "T"> 
-<!ENTITY showComposeToolbarCmd.label "મેલ સાધનપટ્ટી">
-<!ENTITY showComposeToolbarCmd.accesskey "o">
-<!ENTITY showFormatToolbarCmd.label "સાધનપટ્ટીનું બંધારણ કરી રહ્યા છીએ">
-<!ENTITY showFormatToolbarCmd.accesskey "F">
 <!ENTITY showTaskbarCmd.label "સ્થિતિદર્શક પટ્ટી">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "કસ્ટમાઈઝ...">
@@ -118,10 +103,6 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "વિકલ્પો">
 <!ENTITY optionsMenu.accesskey "p">
-<!ENTITY checkSpellingCmd.label "જોડણી ચકાસી રહ્યા છીએ...">
-<!ENTITY checkSpellingCmd.key "K">
-<!ENTITY checkSpellingCmd.key2 "VK_F7">
-<!ENTITY checkSpellingCmd.accesskey "S">
 <!ENTITY enableInlineSpellChecker.label "તમે લખો એ પ્રમાણે જોડણી બનાવો">
 <!ENTITY enableInlineSpellChecker.accesskey "S">
 <!ENTITY quoteCmd.label "અવતરણ સંદેશો">
@@ -133,8 +114,6 @@
 
 <!ENTITY returnReceiptMenu.label "રસીદ મળી">
 <!ENTITY returnReceiptMenu.accesskey "t">
-<!ENTITY outputFormatMenu.label "બંધારણ">
-<!ENTITY outputFormatMenu.accesskey "f">
 <!ENTITY autoFormatCmd.label "આપોઆપ-શોધો">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "માત્ર સાદું લખાણ">
@@ -168,13 +147,6 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "સરનામા પુસ્તિકા">
 <!ENTITY addressBookCmd.accesskey "a">
-<!ENTITY addressBookCmd.commandkey "2">
-<!ENTITY accountManagerCmd.label "ખાતા સુયોજનો...">
-<!ENTITY accountManagerCmd.accesskey "c">
-<!ENTITY accountManagerCmdUnix.accesskey "S">
-<!ENTITY preferencesCmd.label "વિકલ્પો...">
-<!ENTITY preferencesCmd.key "O">
-<!ENTITY preferencesCmd.accesskey "O">
 <!ENTITY preferencesCmdUnix.label       "પસંદગીઓ">
 <!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
@@ -185,17 +157,6 @@
 <!ENTITY zoomWindow.label "નાનુમોટુ"> 
 <!ENTITY windowMenu.label "વિન્ડો"> 
 
-<!-- Help Menu -->
-<!ENTITY helpMenu.label "મદદ">
-<!ENTITY helpMenu.accesskey "H"> 
-<!ENTITY releaseCmd.label "પ્રકાશન નોંધો">
-<!ENTITY releaseCmd.accesskey "R"> 
-<!ENTITY hintsAndTips.label "&brandShortName; મદદ">
-<!ENTITY hintsAndTips.accesskey "h"> 
-<!ENTITY hintsAndTipsMac.commandkey "?">
-<!ENTITY aboutCmd.label "&brandShortName; વિશે">
-<!ENTITY aboutCmd.accesskey "A">
-
 <!-- Mail Toolbar -->
 <!ENTITY sendButton.label "મોકલો">
 <!ENTITY quoteButton.label "અવતરણ">
@@ -203,19 +164,18 @@
 <!ENTITY attachButton.label "જોડો">
 <!ENTITY spellingButton.label "જોડણી">
 <!ENTITY saveButton.label "સંગ્રહો">
-<!ENTITY throbberItem.title "ક્રિયા સૂચક">
 
 <!-- Mail Toolbar Tooltips -->
 <!ENTITY sendButton.tooltip "આ સંદેશાને હમણાં મોકલો"> 
 <!ENTITY sendlaterButton.tooltip "આ સંદેશાને પછી મોકલો"> 
 <!ENTITY quoteButton.tooltip "પહેલાના સંદેશાને અવતરિત કરો"> 
 <!ENTITY addressButton.tooltip "સરનામા પુસ્તિકામાંથી મેળવનાર પસંદ કરો"> 
-<!ENTITY attachButton.tooltip "જોડાણ સમાવો"> 
 <!ENTITY saveButton.tooltip "આ સંદેશો સંગ્રહો"> 
 <!ENTITY cutButton.tooltip              "કાપો">
 <!ENTITY copyButton.tooltip             "નકલ કરો">
 <!ENTITY pasteButton.tooltip            "ચોંટાડો">
 
+<!-- Headers -->
 <!-- Headers -->
 <!ENTITY fromAddr.label "તરફથી:">
 <!ENTITY fromAddr.accesskey "r">
@@ -227,14 +187,10 @@
 <!ENTITY followupAddr.label "પ્રતિને અનુસરો:"> 
 <!ENTITY subject.label "વિષય:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.label "જોડાણો:">
 <!ENTITY attachments.accesskey "c">
 
 <!-- Format Toolbar, imported from editorAppShell.xul -->
-<!--LOCALIZATION NOTE formatToolbar. Don't change any of these Style Characters -->
-<!ENTITY formatToolbar.boldChar "B">
-<!ENTITY formatToolbar.italicChar "I">
-<!ENTITY formatToolbar.underlineChar "U">
+
 <!ENTITY SmileButton.tooltip "હસતું મોં દાખલ કરો">
 <!ENTITY smiley1Cmd.label "હસો">
 <!ENTITY smiley2Cmd.label "નિરાશ છો">
@@ -281,5 +237,8 @@
 <!ENTITY attachPage.label "વેબ પાનું જોડો...">
 <!ENTITY attachPage.accesskey "W">
 
+<!-- Attachment Pane Header Bar Context Menu -->
+
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "સંપર્કો">
+

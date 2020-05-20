@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = બંધ કરેલ ટૅબને ફરીથી શરૂ કરો
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = ટૅબ્સ શોધો
+
 all-tabs-menu-new-user-context =
     .label = નવી કન્ટેઈનર ટૅબ
+
 all-tabs-menu-hidden-tabs =
     .label = છુપાયેલા ટૅબ્સ
+
 all-tabs-menu-manage-user-context =
     .label = કન્ટેનર્સનું સંચાલન
     .accesskey = O

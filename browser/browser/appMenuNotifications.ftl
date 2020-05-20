@@ -47,6 +47,7 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = તમે કોઈ પણ નવા એક્સ્ટેન્શન્સને { -brand-shorter-name } માં ઉમેરો છો તે ખાનગી વિંડોઝમાં કાર્ય કરશે નહીં સિવાય કે તમે આ સેટિંગ્સમાં મંજૂરી આપો.
 appmenu-addon-private-browsing-learn-more = એક્સટેંશન સેટિંગ્સ કેવી રીતે સંચાલિત કરવી તે જાણો
+    
 appmenu-new-tab-controlled =
     .label = તમારી નવી ટૅબ બદલાઈ ગઈ છે.
     .buttonlabel = પરિવર્તનો રાખો

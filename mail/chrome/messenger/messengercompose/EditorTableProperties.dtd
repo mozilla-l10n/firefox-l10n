@@ -36,7 +36,6 @@
 <!ENTITY tableCaptionNone.label           "કંઈ નહિં">
 <!ENTITY tableInheritColor.label           "(પાના રંગને બતાવવા દો)">
 
-<!ENTITY cellPercent.label                "કોષ્ટકના ટકા">
 <!ENTITY cellSelection.label              "પસંદગી">
 <!ENTITY cellSelectCell.label             "ખાનું">
 <!ENTITY cellSelectRow.label              "હરોળ">
@@ -45,13 +44,6 @@
 <!ENTITY cellSelectNext.accessKey         "N">
 <!ENTITY cellSelectPrevious.label         "પહેલાનું">
 <!ENTITY cellSelectPrevious.accessKey     "P">
-<!ENTITY cellApplyBeforeMove.label        "પસંદગી બદલતાં પહેલા ફેરફારો લાગુ પાડો">
-<!ENTITY cellKeepCurrentData.label        "વર્તમાન સેટીંગ સાચવી રાખો">
-<!-- LOCALIZATION NOTE Next 2 form 1 sentence (we don't want to use HTML tag to wrap) -->
-<!ENTITY applyBeforeChange1.label         "વર્તમાન ફેરફારો લાગુ પડાશે">
-<!ENTITY applyBeforeChange2.label         "પસંદગી બદલતા પહેલા.">
-<!ENTITY cellRowSpan.label                "હરોળ વિસ્તારો:">
-<!ENTITY cellColSpan.label                "સ્તંભ વિસ્તારો:">
 <!ENTITY cellContentAlignment.label       "સમાવિષ્ટ ગોઠવણી">
 <!ENTITY cellHorizontal.label             "આડુ:">
 <!ENTITY cellHorizontal.accessKey         "Z">
@@ -69,7 +61,6 @@
 <!ENTITY cellAlignMiddle.label            "મધ્યે">
 <!ENTITY cellAlignBottom.label            "નીચે">
 <!ENTITY cellAlignJustify.label           "ન્યાય">
-<!ENTITY cellAlignAtChar.label            "અક્ષરે:">
 <!ENTITY cellInheritColor.label           "(કોષ્ટક રંગને બતાવવા દો)">
 <!ENTITY cellUseCheckboxHelp.label        "કયા ગુણધર્મો બધા પસંદિત ખાનાંઓને લાગુ પડશે તેના માટે ચકાસણીબોક્સ વાપરો">
 

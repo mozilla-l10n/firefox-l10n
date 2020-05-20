@@ -4,17 +4,14 @@
 
 <!--LOCALIZATION NOTE msgCompSMIMEOverlay.dtd UI for s/mime hooks in message composition -->
 
-<!ENTITY securityMenu.label "સુરક્ષા">
-<!ENTITY securityMenu.accesskey "e">
-
-<!ENTITY menu_securityEncryptIfPossible.label "જો શક્ય હોય તો એનક્રિપ્ટ કરો">
-<!ENTITY menu_securityEncryptIfPossible.accesskey "P">
-
 <!ENTITY menu_securityEncryptRequire.label "આ સંદેશાને એનક્રિપ્ટ કરો">
-<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
-<!ENTITY menu_securityNoEncryption.label "આ સંદેશાને એનક્રિપ્ટ કરો નહિં">
-<!ENTITY menu_securityNoEncryption.accesskey "N">
+<!-- not yet used
+<!ENTITY menu_securityEncryptOptional.label "Allow Encryption">
+<!ENTITY menu_securityEncryptOptional.accesskey "w">
+-->
+
+<!ENTITY menu_securityEncryptRequire.accesskey "E">
 
 <!ENTITY menu_securitySign.label "આ સંદેશાને ડિજીટલપણે સહી કરો">
 <!ENTITY menu_securitySign.accesskey "S">
