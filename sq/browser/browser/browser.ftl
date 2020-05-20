@@ -242,8 +242,6 @@ urlbar-switch-to-tab =
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Zgjerim:
-urlbar-go-end-cap =
-    .tooltiptext = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-page-action-button =
     .tooltiptext = Veprime faqeje
 urlbar-pocket-button =
