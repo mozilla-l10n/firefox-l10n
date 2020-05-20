@@ -20,7 +20,6 @@
 <!ENTITY downloadCert.message1 "O kopilwe go ikanya Bothati jo bontšhwa jwa ditifikeiti (CA).">
 
 <!ENTITY downloadCert.trustEmail "Ikanye CA eno go supa badirisi ba poso ya eleketoroniki.">
-<!ENTITY downloadCert.trustObjSign "Ikanye CA eno go supa batlhabolodi ba dirweboleta.">
 <!ENTITY downloadCert.message3 "Pele ga o ka ikanya CA eno mo mabakeng ape, o tshwanetse go tlhatlhoba setifikeiti sa jona ga mmogo le dipholesi le ditsamaiso tsa jona (fa di le gona).">
 <!ENTITY downloadCert.viewCert.label "Leba">
 <!ENTITY downloadCert.viewCert.text "Tlhatlhoba Setifikeiti sa CA">

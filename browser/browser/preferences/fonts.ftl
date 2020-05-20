@@ -4,6 +4,7 @@
 
 fonts-window =
     .title = Difonto
+
 fonts-window-close =
     .key = w
 
@@ -53,6 +54,7 @@ fonts-default-serif =
     .label = Serifi
 fonts-default-sans-serif =
     .label = Sans Serifi
+
 fonts-minsize-none =
     .label = Bope
 
@@ -63,6 +65,7 @@ fonts-minsize-none =
 
 fonts-languages-fallback-name-vietnamese =
     .label = Sevietnam
+
 # Variables:
 #   $name {string, "Arial"} - Name of the default font
 fonts-label-default =

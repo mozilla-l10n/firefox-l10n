@@ -86,8 +86,8 @@
 <!ENTITY renameAttachmentCmd.label "Rename Attachment…">
 <!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Tlhopha Gotlhe">
-<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "G">
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY findBarCmd.label "Find…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
@@ -211,13 +211,13 @@
 <!ENTITY sendlaterButton.tooltip "Romela molaetsa ono kgantele">
 <!ENTITY quoteButton.tooltip "Nopola molaetsa o o fetileng">
 <!ENTITY addressButton.tooltip "Tlhopha moamogedi go tswa mo Bukeng ya Diaterese">
-<!ENTITY attachButton.tooltip "Akaretsa mametlelelo">
 <!ENTITY spellingButton.tooltip "Check spelling of selection or entire message">
 <!ENTITY saveButton.tooltip "Boloka molaetsa ono">
 <!ENTITY cutButton.tooltip              "Sega">
 <!ENTITY copyButton.tooltip             "Kopolola">
 <!ENTITY pasteButton.tooltip            "Manega">
 <!ENTITY printButton.tooltip "Print this message">
+
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
@@ -296,6 +296,8 @@
 <!ENTITY attachPage.label "Mametlelela Tsebe ya Inthanete...">
 <!ENTITY attachPage.accesskey "T">
 <!-- Spell checker context menu items -->
+
+<!-- Attachment Pane Header Bar Context Menu -->
 
 <!ENTITY spellAddDictionaries.label "Add Dictionaries…">
 <!ENTITY spellAddDictionaries.accesskey "A">

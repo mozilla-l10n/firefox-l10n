@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Leba tshedimosetso ya saete
 
@@ -34,6 +35,7 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tseleganya letshwaotsebe le ({ $shortcut })
+
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -117,5 +119,6 @@ urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
+
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo

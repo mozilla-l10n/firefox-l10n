@@ -4,6 +4,8 @@
 <!-- extracted from EdReplace.xul -->
 
 
+<!-- extracted from EdReplace.xhtml -->
+
 <!ENTITY replaceDialog.title "Batla mme o Emisetse">
 <!ENTITY findField.label "Batla mafoko:">
 <!ENTITY findField.accesskey "t">

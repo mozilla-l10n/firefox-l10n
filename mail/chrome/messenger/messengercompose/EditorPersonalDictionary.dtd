@@ -11,8 +11,6 @@
 <!ENTITY AddButton.accessKey "T">
 <!ENTITY DictionaryList.label "Mafoko mo bukantsweng:">
 <!ENTITY DictionaryList.accessKey "M">
-<!ENTITY ReplaceButton.label "Emisetsa">
-<!ENTITY ReplaceButton.accessKey "E">
 <!ENTITY RemoveButton.label "Tlosa">
 <!ENTITY RemoveButton.accessKey "l">
 

@@ -5,6 +5,7 @@
 <!ENTITY addressbookWindow.title                        "Buka ya Diaterese">
 <!ENTITY blankResultsPaneMessage.label                  "This address book shows contacts only after a search">
 <!ENTITY localResultsOnlyMessage.label                  "Contacts from remote address books are not shown until you search">
+
 <!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Faele">
 <!ENTITY fileMenu.accesskey                             "F">
@@ -75,8 +76,6 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Properties">
-<!ENTITY propertiesCmd2.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
 <!-- View Menu -->
 
@@ -133,8 +132,6 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Lenane le Lentšhwa">
 <!ENTITY newlistButton.accesskey                        "L">
-<!ENTITY editButton2.label                              "Properties">
-<!ENTITY editButton2.accesskey                          "P">
 <!ENTITY newmsgButton.label                             "Kwala">
 <!ENTITY newmsgButton.accesskey                         "K">
 <!ENTITY newIM.label                                    "Molaetsa wa ponyo ya leitlho">
@@ -145,13 +142,11 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.tooltip                       "Create a new address book contact">
 <!ENTITY newlistButton.tooltip                          "Tlhama lenane le lentšhwa">
-<!ENTITY editButton2.tooltip                            "Edit the selected item">
 <!ENTITY newmsgButton.tooltip                           "Romela molaetsa wa poso">
 <!ENTITY newIM.tooltip                                  "Romela molaetsa wa ponyo ya leitlho gongwe tlotla">
 <!ENTITY deleteButton2.tooltip                           "Delete selected item">
 <!-- Dir Tree header -->
 
-<!ENTITY dirTreeHeader.label                            "Dibuka tsa Diaterese">
 <!-- Search Bar -->
 
 <!ENTITY SearchNameOrEmail.label                        "Leina gongwe Poso ya Eleketoroniki">
@@ -195,6 +190,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "F">
 <!ENTITY _PhoneticName.label                            "Leina la Fonetiki">
 <!ENTITY _PhoneticName.accesskey                        "n">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 

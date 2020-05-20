@@ -14,5 +14,3 @@
 <!ENTITY makeUrlRelative.tooltip "Fetola magareng ga URL e e amanang le ya nnete. O tshwanetse go boloka tsebe pele ga o fetola seno.">
 <!-- Shared by Link and Image dialogs -->
 
-<!ENTITY LinkURLEditField.label "Tsenya lefelo la tsebe ya inthanete, faele ya selegae, gongwe o tlhophe Setlhomi se se Teilweng Leina gongwe Setlhogo go tswa mo lenaneng la tlhagelelo:">
-<!ENTITY LinkURLEditField.accessKey "l">

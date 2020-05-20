@@ -4,18 +4,23 @@
 
 languages-close-key =
     .key = w
+
 languages-customize-moveup =
     .label = Sutisetsa Godimo
     .accesskey = G
+
 languages-customize-movedown =
     .label = Sutisetsa Tlase
     .accesskey = T
+
 languages-customize-remove =
     .label = Tlosa
     .accesskey = T
+
 languages-customize-add =
     .label = Tsenya
     .accesskey = T
+
 # The pattern used to generate strings presented to the user in the
 # locale selection list.
 #
@@ -28,3 +33,4 @@ languages-customize-add =
 #   $code (String) - Locale code of the locale (for example: "is", "es-CL")
 languages-code-format =
     .label = { $locale }  [{ $code }]
+

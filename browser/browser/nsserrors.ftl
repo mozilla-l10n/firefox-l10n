@@ -3,11 +3,13 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 psmerr-ssl-disabled = Ga e kake ya golaganya mo go sireletsegileng ka gore tsamaiso ya SSL e kganetswe go dira.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     O amogetse setifikeiti se e seng sa boammaruri.  Tsweetswee golagana le motsamaisi wa dikgatlhong gongwe mokwaledi wa poso ya eleketoroniki mme o ba neye tshedimosetso e e latelang:
     
     Setifikeiti sa gago se na le palopopo e e tshwanang le ya setifikeiti se sengwe se se rebotgsweng ke bothati jwa setifikeiti.  Tsweetswee bona setifikeiti se sentšhwa se se nang le palopopo e e kgethegileng.
+
 ssl-error-no-cypher-overlap = Go ka se kgonagale go buisanya le mafaratlhatlha ka go sena mokgwatshireletso wa bothatatharabololo o tlwaelesegileng.
 ssl-error-no-certificate = Ga go kgonege go batla setifikeiti kapa taetsi e botlhokwa go netefatsa.
 ssl-error-bad-certificate = Ga go kgonege go buisanya mo go babalesegileng ka mafaratlhatlha; setifiketi sa semphanto ga se a letlelelwa.

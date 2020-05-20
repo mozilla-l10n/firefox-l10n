@@ -33,6 +33,7 @@ options-sourceeditor-keybinding-default-label = Thulaganyetso ruri
 options-disable-javascript-label = Thibela go dira ga JavaScript *
 options-disable-javascript-tooltip =
     .title = Tobetso go dirisa diitlhophelwa go tla thibela go dira ga JavaScript mo thebeng ya ga jaana. Fa the kgotsa sediriswa-bokoso di tswetswe ke gone thulaganyo e etla lebalwang.
+
 # The message shown for settings that trigger page reload
 options-context-triggers-page-refresh = * Botlameladikopanelwa ja ga jaana fela, tsenya sešwa tsebe
 

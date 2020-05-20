@@ -28,8 +28,6 @@
 <!ENTITY play.label                       "Play">
 <!ENTITY play.accesskey                   "P">
 <!ENTITY systemsound.label                "Default system sound for new mail">
-<!ENTITY systemsoundMac.label             "System Alert Sound">
-<!ENTITY systemsoundMac.accesskey         "y">
 <!ENTITY systemsound.accesskey            "y">
 <!ENTITY customsound.label                "Use the following sound file">
 <!ENTITY customsound.accesskey            "U">
@@ -37,3 +35,4 @@
 <!ENTITY browse.accesskey                 "B">
 
 <!ENTITY defaultSearchEngine.label        "Default Search Engine">
+

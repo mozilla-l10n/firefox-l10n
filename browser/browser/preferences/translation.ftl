@@ -4,9 +4,11 @@
 
 translation-languages-column =
     .label = Dipuo
+
 translation-sites-button-remove-all =
     .label = Tlosa Disaete Tsotlhe
     .accesskey = i
+
 translation-button-close =
     .label = Tswala
     .accesskey = T

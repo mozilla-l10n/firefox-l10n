@@ -16,8 +16,6 @@
 
 
 
-<!ENTITY editBookmarkOverlay.description.label               "Tlhaloso:">
-<!ENTITY editBookmarkOverlay.description.accesskey           "T">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Lefoko la konokono:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "L">
 
