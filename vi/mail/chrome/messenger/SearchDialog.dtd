@@ -36,39 +36,3 @@
 <!ENTITY deleteCardButton.accesskey  "D">
 <!ENTITY abSearchDialogTitle.label   "Tìm kiếm sổ địa chỉ nâng cao">
 
-<!-- Thread Pane -->
-<!ENTITY threadColumn.label "Chủ đề">
-<!ENTITY fromColumn.label "Từ">
-<!ENTITY recipientColumn.label "Người nhận">
-<!ENTITY dateColumn.label "Ngày">
-<!ENTITY priorityColumn.label "Mức ưu tiên">
-<!ENTITY tagsColumn.label "Nhãn">
-<!ENTITY accountColumn.label "Tài khoản">
-<!ENTITY statusColumn.label "Trạng thái">
-<!ENTITY sizeColumn.label "Dung lượng">
-<!ENTITY junkStatusColumn.label "Trạng thái thư rác">
-<!ENTITY unreadColumn.label "Chưa đọc">
-<!ENTITY totalColumn.label "Tổng">
-<!ENTITY readColumn.label "Đã đọc">
-<!ENTITY receivedColumn.label "Đã nhận">
-<!ENTITY starredColumn.label "Gắn sao">
-<!ENTITY locationColumn.label "Địa chỉ">
-
-<!-- Thread Pane Tooltips -->
-<!ENTITY columnChooser2.tooltip "Chọn các cột để hiển thị">
-<!ENTITY threadColumn2.tooltip "Hiển thị chủ đề thư">
-<!ENTITY fromColumn2.tooltip "Sắp xếp theo người gửi">
-<!ENTITY recipientColumn2.tooltip "Sắp xếp theo người nhận">
-<!ENTITY dateColumn2.tooltip "Sắp xếp theo ngày">
-<!ENTITY priorityColumn2.tooltip "Sắp xếp theo mức độ ưu tiên">
-<!ENTITY tagsColumn2.tooltip "Sắp xếp theo nhãn">
-<!ENTITY accountColumn2.tooltip "Sắp xếp theo tài khoản">
-<!ENTITY statusColumn2.tooltip "Sắp xếp theo trạng thái">
-<!ENTITY sizeColumn2.tooltip "Sắp xếp theo kích thước">
-<!ENTITY junkStatusColumn2.tooltip "Sắp xếp theo trạng thái thư rác">
-<!ENTITY unreadColumn2.tooltip "Số lượng tin nhắn chưa đọc trong chủ đề">
-<!ENTITY totalColumn2.tooltip "Tổng số tin nhắn trong chủ đề">
-<!ENTITY readColumn2.tooltip "Sắp xếp theo đã đọc">
-<!ENTITY receivedColumn2.tooltip "Sắp xếp theo ngày nhận">
-<!ENTITY starredColumn2.tooltip "Sắp xếp theo sao">
-<!ENTITY locationColumn2.tooltip "Sắp xếp theo địa chỉ">

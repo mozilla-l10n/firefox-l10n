@@ -40,6 +40,7 @@ url-classifier-debug-sb-modules = Mô-đun nhật ký duyệt web an toàn
 url-classifier-debug-modules = Mô-đun nhật ký hiện tại
 url-classifier-debug-sbjs-modules = Nhật ký JS duyệt web an toàn
 url-classifier-debug-file = Tập tin nhật ký hiện tại
+
 url-classifier-trigger-update = Cập nhật
 url-classifier-not-available = Không có
 url-classifier-disable-sbjs-log = Tắt nhật ký JS duyệt web an toàn

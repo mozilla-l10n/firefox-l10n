@@ -4,6 +4,8 @@
 
 <!-- extracted from am-archiveoptions.xul -->
 
+<!-- extracted from am-archiveoptions.xhtml -->
+
 <!ENTITY dialogTitle.label "Tùy chọn lưu trữ">
 <!ENTITY archiveGranularityPrefix.label "Khi lưu trữ thư, xếp nó vào trong:">
 <!ENTITY archiveFlat.label "Chỉ một thư mục">

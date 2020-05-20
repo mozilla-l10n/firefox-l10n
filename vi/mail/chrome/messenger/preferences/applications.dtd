@@ -30,9 +30,6 @@
 <!ENTITY addCloudFileAccount.description  "Thêm dịch vụ lưu trữ Filelink mới">
 <!ENTITY removeCloudFileAccount.label     "Xóa">
 <!ENTITY removeCloudFileAccount.accesskey "R">
-<!ENTITY authRequired.description         "Cần có sự cho phép của bạn để xem cài đặt cho dịch vụ lưu trữ này.">
-<!ENTITY authRequired.button.label        "Ủy quyền">
-<!ENTITY authRequired.button.accesskey    "U">
 
 <!ENTITY findCloudFileProviders.label     "Tìm thêm nhà cung cấp…">
 

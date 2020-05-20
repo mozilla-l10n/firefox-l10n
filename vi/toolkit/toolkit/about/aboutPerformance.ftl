@@ -54,6 +54,7 @@ close-tab =
     .title = Đóng thẻ
 show-addon =
     .title = Hiển thị trong Trình quản lý tiện ích
+
 # Tooltip when hovering an item of the about:performance table
 # Variables:
 #   $totalDispatches (Number) - how many dispatches occured for this page since it loaded

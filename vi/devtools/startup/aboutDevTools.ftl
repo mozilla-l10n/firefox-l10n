@@ -13,6 +13,7 @@ enable-common-message = Công cụ dành cho nhà phát triển Firefox bị t�
 enable-learn-more-link = Xem thêm về công cụ dành cho nhà phát triển
 enable-enable-button = Bật công cụ dành cho phát triển
 enable-close-button = Đóng thẻ này
+
 welcome-title = Chào mừng đến với công cụ dành cho nhà phát triển Firefox!
 newsletter-title = Bản tin nhà phát triển Mozilla
 newsletter-message = Nhận tin tức, thủ thuật và tài nguyên dành cho nhà phát triển được gửi vào hộp thư đến của bạn.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Tôi đồng ý với việc Mozilla sử dụng thô
 newsletter-subscribe-button = Đăng ký
 newsletter-thanks-title = Cảm ơn!
 newsletter-thanks-message = Nếu bạn chưa xác nhận đăng kí các thư mới liên quan đến Mozilla thì bạn phải xác nhận lại. Hãy kiểm tra email của chúng tôi trong hộp thư đến của bạn hoặc tìm trong hộp thư spam.
+
 footer-title = Phiên bản Firefox cho nhà phát triển
 footer-message = Muốn tìm kiếm nhiều thứ hơn về công cụ dành cho nhà phát triển? Hãy xem trình duyệt Firefox được xây dựng dành riêng cho các nhà phát triển và quy trình làm việc hiện đại.
 footer-learn-more-link = Xem thêm
+
 features-learn-more = Xem thêm
 features-inspector-title = Trình kiểm tra
 features-inspector-desc = Kiểm tra và tinh chỉnh mã để xây dựng bố cục hoàn hảo. <a data-l10n-name="learn-more">{ features-learn-more }</a>

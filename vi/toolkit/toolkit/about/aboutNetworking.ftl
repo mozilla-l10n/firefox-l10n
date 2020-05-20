@@ -9,24 +9,12 @@ ok = OK
 http = HTTP
 sockets = Socket
 dns = DNS
-dnssuffix = Hậu tố DNS
 websockets = WebSocket
 refresh = Cập nhật
 auto-refresh = Tự tải lại sau 3 giây
 hostname = Tên máy chủ
 port = Cổng
 http2 = HTTP/2
-about-networking-title = Về thông tin mạng
-about-networking-http = HTTP
-about-networking-sockets = Socket
-about-networking-dns = DNS
-about-networking-dns-suffix = Hậu tố DNS
-about-networking-websockets = WebSocket
-about-networking-refresh = Cập nhật
-about-networking-auto-refresh = Tự tải lại sau 3 giây
-about-networking-hostname = Tên máy chủ
-about-networking-port = Cổng
-about-networking-http-version = Phiên bản HTTP
 ssl = SSL
 active = Đang hoạt động
 idle = Đang nghỉ
@@ -69,8 +57,18 @@ rcwn-avg-long = Trung bình dài
 rcwn-std-dev-long = Độ lệch chuẩn dài
 rcwn-cache-slow = Bộ đếm bộ nhớ đệm chậm
 rcwn-cache-not-slow = Bộ đếm bộ nhớ đệm không chậm
-networkid = ID mạng
-networkid-id = ID mạng
+
+about-networking-title = Về thông tin mạng
+about-networking-http = HTTP
+about-networking-sockets = Socket
+about-networking-dns = DNS
+about-networking-dns-suffix = Hậu tố DNS
+about-networking-websockets = WebSocket
+about-networking-refresh = Cập nhật
+about-networking-auto-refresh = Tự tải lại sau 3 giây
+about-networking-hostname = Tên máy chủ
+about-networking-port = Cổng
+about-networking-http-version = Phiên bản HTTP
 about-networking-ssl = SSL
 about-networking-active = Đang hoạt động
 about-networking-idle = Đang nghỉ
@@ -118,8 +116,6 @@ about-networking-networkid-id = ID mạng
 
 ## Link is intended as "network link"
 
-networkid-isUp = Liên kết hoạt động
-networkid-statusKnown = Tình trạng liên kết đã biết
 about-networking-networkid-is-up = Liên kết hoạt động
 about-networking-networkid-status-known = Tình trạng liên kết đã biết
 

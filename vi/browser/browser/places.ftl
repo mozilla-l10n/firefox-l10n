@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Mở trong cửa sổ riêng tư mới
     .accesskey = P
+
 places-new-bookmark =
     .label = Dấu trang mới…
     .accesskey = B
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Ngăn cách mới
     .accesskey = S
+
 places-view =
     .label = Xem
     .accesskey = w
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Theo ngày và trang web
     .accesskey = t
+
 places-history-search =
     .placeholder = Tìm kiếm lịch sử
 places-bookmarks-search =
     .placeholder = Tìm kiếm dấu trang
+
 places-delete-domain-data =
     .label = Quên trang này
     .accesskey = F

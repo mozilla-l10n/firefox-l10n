@@ -472,14 +472,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; Dịch vụ vị trí đang chạy">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Cập nhật tự động">
-<!ENTITY pref_update_autodownload_wifi "Chỉ qua Wi-Fi">
-<!ENTITY pref_update_autodownload_never "Không bao giờ">
-<!ENTITY pref_update_autodownload_always "Luôn luôn">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Trợ giúp">
 
@@ -745,25 +737,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Trang đánh dấu và lịch sử">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Bản cập nhật cho &brandShortName; đã sẵn sàng">
-<!ENTITY updater_start_select2 "Chạm để tải xuống">
-
-<!ENTITY updater_downloading_title2 "Đang tải xuống &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Tải xuống bị lỗi">
-<!ENTITY updater_downloading_select2 "Chạm để áp dụng cập nhật khi tải xong">
-<!ENTITY updater_downloading_retry2 "Chạm để thử lại">
-
-<!ENTITY updater_apply_title3 "Bản cập nhật &brandShortName; đã được tải xuống">
-<!ENTITY updater_apply_select3 "Chạm để cài đặt">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Để tải xuống các tập tin và cập nhật, cho phép &brandShortName; quyền truy cập bộ nhớ.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Cho phép">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Phiên làm việc khách mới">
 <!ENTITY exit_guest_session "Thoát phiên làm việc khách">
@@ -948,7 +921,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "Âm thanh và video">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; các mẹo và thủ thuật">
-<!ENTITY updater_notification_channel "Cập nhật ứng dụng">
 <!ENTITY synced_tabs_notification_channel "Thẻ đã đồng bộ">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

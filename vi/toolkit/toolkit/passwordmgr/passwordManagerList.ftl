@@ -54,6 +54,7 @@ import =
 close-button =
     .label = Đóng
     .accesskey = g
+
 show-passwords =
     .label = Hiện các mật khẩu
     .accesskey = P

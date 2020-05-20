@@ -3,8 +3,10 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 title-label = Thông tin về các phần bổ trợ
+
 installed-plugins-label = Các phần bổ trợ đã cài đặt
 no-plugins-are-installed-label = Không tìm thấy phần bổ trợ nào được cài đặt
+
 deprecation-description = Bạn đang thấy thiếu gì đó? Một số phần bổ trợ không còn được hỗ trợ. <a data-l10n-name="deprecation-link">Tìm hiểu thêm.</a>
 
 ## The information of plugins
@@ -27,6 +29,7 @@ state-dd-enabled = <span data-l10n-name="state">Tình trạng:</span> Đã bật
 state-dd-enabled-block-list-state = <span data-l10n-name="state">Tình trạng:</span> Đã bật ({ $blockListState })
 state-dd-Disabled = <span data-l10n-name="state">Tình trạng:</span> Đã vô hiệu hóa
 state-dd-Disabled-block-list-state = <span data-l10n-name="state">Tình trạng:</span> Đã vô hiệu hóa ({ $blockListState })
+
 mime-type-label = Kiểu MIME
 description-label = Mô tả
 suffixes-label = Phần mở rộng
