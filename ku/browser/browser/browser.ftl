@@ -71,3 +71,5 @@ urlbar-placeholder =
     .placeholder = Peyveke lêgerînê yan jî navnîşanek
 urlbar-switch-to-tab =
     .value = Derbasî hilpekînê bibe:
+urlbar-go-button =
+    .tooltiptext = Here navnîşana di Darikê Cihî de
