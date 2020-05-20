@@ -4,27 +4,24 @@
 
 history-title = Aslol Kesɗitine
 history-intro = Ɗee kesɗitine ko gaafaaɗe
+
 close-button-label =
     .buttonlabelcancel = Uddu
     .title = Aslol Kesɗitine
+
 no-updates-label = Alaa kesɗitine aafaa tawo
 name-header = Innde Kesɗitinal
 date-header = Ñalngu Aafgol
 type-header = Fannu
 state-header = Ngonka
-# Used to display update history
-#
-# Variables:
-#   $name (String): name of the update
-#   $buildID (String): build identifier from the local updates.xml
-update-full-name =
-    .name = { $name } ({ $buildID })
+
 # Used to display update history
 #
 # Variables:
 #   $name (String): name of the update
 #   $buildID (String): build identifier from the local updates.xml
 update-full-build-name = { $name } ({ $buildID })
+
 update-details = Cariiɗe
 update-installed-on = Aafaa ko ñalnde: { $date }
 update-status = Ngonka: { $status }

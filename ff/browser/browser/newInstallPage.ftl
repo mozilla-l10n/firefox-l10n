@@ -9,13 +9,17 @@
 
 title = Kabaruuji teeŋtuɗi
 heading = Bayle e { -brand-short-name } heftinirde maa
+
 changed-title = Hol ko waylii?
 changed-desc-profiles = Ngol aafgol { -brand-short-name } ina jogii heftinirde hesere. Heftinirde ko denndaagal piile ɗo Firefox danndata kabaruuji baaɗi no maantore, pinle, e cuɓoraaɗe kuutoro.
+
 options-title = Hol ko woni cuɓe am?
 options-do-nothing = So a waɗaani hay huunde, keɓe heftinirde maa e { -brand-short-name } seertoyat e keɓe heftinirde e gaafe Firefox goɗɗe.
 options-use-sync = So a yiɗii keɓe heftinirde maa fof ngona gootum e gaafe Firefox fof, aɗa waawi huutoraade { -fxaccount-brand-name } ngam waɗde-ɗe jahduɗe.
+
 resources = Bulnorɗe:
 support-link = Kuutorogol Toppitorde Heftinirde - Winndande Wallitorde
+
 sync-header = Seŋo walla sos { -fxaccount-brand-name }
 sync-label = Naatnu iimeel maa
 sync-input =

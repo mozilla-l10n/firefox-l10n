@@ -20,6 +20,7 @@ open-location = Yiylo walla naatnu ñiiɓirde
 share = Lollin
 close-window = Uddu Henorde
 open-sidebar = Pale sawndo
+
 # This string describes shortcuts for search.
 search-popover = Yiylo codorɗe
 # Describes searches limited to a specific scope

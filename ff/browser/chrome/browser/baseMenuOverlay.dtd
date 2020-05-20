@@ -14,6 +14,7 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Ballal"> 
 <!ENTITY helpMenuWin.accesskey    "B">
+
 <!ENTITY aboutProduct2.label      "Baɗte &brandShorterName;">
 <!ENTITY aboutProduct2.accesskey  "B">
 <!ENTITY productHelp2.label       "Ballal &brandShorterName;">
@@ -27,9 +28,6 @@
 <!ENTITY helpSafeMode.accesskey   "H">
 <!ENTITY helpSafeMode.stop.label       "Hurmitin tawa Ɓeyditte ena Ndaaƴtaa…">
 <!ENTITY helpSafeMode.stop.accesskey   "H">
-
-<!ENTITY healthReport2.label      "&brandShorterName; Health Report">
-<!ENTITY healthReport2.accesskey  "e">
 
 <!ENTITY helpTroubleshootingInfo.label      "Humpito Ñawndugol Caɗeele">
 <!ENTITY helpTroubleshootingInfo.accesskey  "H">
@@ -52,3 +50,4 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "Hollu Fof">
+

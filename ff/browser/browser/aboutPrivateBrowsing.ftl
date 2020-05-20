@@ -4,6 +4,7 @@
 
 about-private-browsing-learn-more = Ɓeydu humpito baɗte<a data-l10n-name="learn-more">Banngagol Keeringol</a>.
 about-private-browsing-info-visited = kelle jillaaɗe
+
 privatebrowsingpage-open-private-window-label = Uddit Henorde Suuriinde
     .accesskey = S
 about-private-browsing-info-notsaved = So aɗa feeroo e Henorde Suuriinde, { -brand-short-name } <strong>danndataa</strong>:
@@ -25,6 +26,7 @@ about-private-browsing =
 about-private-browsing-not-private = A wonaani e henorde suuriinde e oo sahaa.
 content-blocking-title = Paddagol loowdi
 content-blocking-description = Won lowe enternet kuutortoo kuutorɗe rewindo ngam reende dille mon nder enternet. Nder kenorɗe keeriiɗe, { -brand-short-name } Content Blocking ina faddoo ɗoon e ɗoon rewindiiɓe heewɓe waawɓe ƴettude kabaruuji jowitiiɗi e aadaaji mon banngorɗi.
+
 # This string is the title for the banner for search engine selection
 # in a private window.
 # Variables:

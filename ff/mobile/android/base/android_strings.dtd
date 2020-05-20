@@ -20,11 +20,8 @@
 <!ENTITY firstrun_data_message "Keɓe seeɗa, dannduɗe keewɗe">
 <!ENTITY firstrun_data_subtext2 "Falo nate ngal ustude ñaamdu keɓe e lowre kala njilloto-ɗaa.">
 <!ENTITY firstrun_sync_title "Yahdin">
-<!ENTITY updatednewfirstrun_sync_title "Kontal">
-<!ENTITY firstrun_sync_message2 "Ƴettit ɗo ngoppunoɗaa ɗoo.">
 <!ENTITY firstrun_sync_subtext2 "Huutoro Jahdingol ngam yiytude maantore, finndeeji kañum e geɗe goɗɗe ɗe ndaɗndataa e &brandShortName; e masiŋon maa fof.">
 <!ENTITY firstrun_signin_message "Naat e ceŋol, fuɗɗo jooni">
-<!ENTITY firstrun_signin_button "Seŋo ngam syncude">
 <!ENTITY  onboard_start_button_browser "Fuɗɗo Peeragol">
 <!ENTITY firstrun_button_notnow "Wonii jooni">
 <!ENTITY firstrun_button_next "Yeeso">
@@ -449,14 +446,6 @@ shown from Android O while a tab is being queued.-->
      of the notification shown whenever the user has enabled data reporting and the stumbler
      service is running. -->
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "Kesɗitine jaajol">
-<!ENTITY pref_update_autodownload_wifi "E Wifi tan">
-<!ENTITY pref_update_autodownload_never "Hay sahaa">
-<!ENTITY pref_update_autodownload_always "Sahaa kala">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Ballal">
 
@@ -717,25 +706,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Maantore e aslol">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Kesɗitine ina ngoodi ngam &brandShortName;">
-<!ENTITY updater_start_select2 "Mem ɗoo ngam aawtaade">
-
-<!ENTITY updater_downloading_title2 "Nana aawtoo &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Aawtagol woorii">
-<!ENTITY updater_downloading_select2 "Mem ɗoo ngam jamminde so aawtaama">
-<!ENTITY updater_downloading_retry2 "Mem ɗoo ngam etaade kadi">
-
-<!ENTITY updater_apply_title3 "Kesɗitine gaawtaaɗe ngam &brandShortName;">
-<!ENTITY updater_apply_select3 "Mem ngam loowde">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Ngam aawtaade piille e kesɗitine, yamir &brandShortName; yettaade e ndesgu maa.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "Yamir">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Naatannde Koɗo Hesere">
 <!ENTITY exit_guest_session "Yaltu Naatannde Koɗo">
@@ -899,3 +869,4 @@ Picture-in-picture mini window -->
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->
+

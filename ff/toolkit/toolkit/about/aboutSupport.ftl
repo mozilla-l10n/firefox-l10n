@@ -4,6 +4,7 @@
 
 page-title = Humpito ñawndugol caɗeele
 page-subtitle = Ngoo hello ena waɗi humpito karallaagal baawngol nafde so aɗaetoo safrude caɗeele. So aɗa yiyloo jaabawuuji naamne ganndaaɗe  baɗte { -brand-short-name }, ƴeewto wallitorde amen <a data-l10n-name="support-link">lowre wallitorde</a>.
+
 crashes-title = Jaŋtol Kooke
 crashes-id = ID Jaŋtol
 crashes-send-date = Neldaaɗe
@@ -95,6 +96,7 @@ audio-backend = Yuurnorde Ojoo
 max-audio-channels = Max Channels
 channel-layout = Lelnal seen cuɓaaɗo
 sample-rate = Santaas santiyoŋ cuɓaaɗo
+
 media-title = Mejaa
 media-output-devices-title = Kaɓirkon njaltinirkon
 media-input-devices-title = Kaɓirkon naatnirkon
@@ -118,6 +120,18 @@ intl-locales-default = Nokkuuje Goowaaɗe
 intl-os-title = Yuɓɓo Gollotoongo
 intl-os-prefs-system-locales = Nokkuuje Yuɓɓo
 intl-regional-prefs = Cuɓoraaɗe Diiwaniyaŋkooje
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 # Variables
 # $days (Integer) - Number of days of crashes to log
 report-crash-for-days =
@@ -125,6 +139,7 @@ report-crash-for-days =
         [one] Jaŋtol Kooke e ñalngu { $days } battiniingu
        *[other] Jaŋtol Kooke e ñalɗi { $days } battindiiɗi
     }
+
 # Variables
 # $minutes (integer) - Number of minutes since crash
 crashes-time-minutes =
@@ -132,6 +147,7 @@ crashes-time-minutes =
         [one] Gila hojom { $minutes }
        *[other] Gila hojomaaji { $minutes }
     }
+
 # Variables
 # $hours (integer) - Number of hours since crash
 crashes-time-hours =
@@ -139,6 +155,7 @@ crashes-time-hours =
         [one] Gila njamndi { $hours }
        *[other] Gila jamɗe { $hours }.
     }
+
 # Variables
 # $days (integer) - Number of days since crash
 crashes-time-days =
@@ -146,6 +163,7 @@ crashes-time-days =
         [one] Gila ñalawma { $days }
        *[other] Gila ñalɗi { $days }.
     }
+
 # Variables
 # $reports (integer) - Number of pending reports
 pending-reports =
@@ -153,6 +171,7 @@ pending-reports =
         [one] Jaŋte Kooke fof (ena jeyaa heen { $reports } hookre sabbiinde e dumunno taƴaaɗo)
        *[other] Jaŋte Kooke fof (ena jeyaa heen { $reports } kooke cabbiiɗe e dumunna taƴaaɗo)
     }
+
 raw-data-copied = Keɓe kecce nattaama to ɗakkitorde
 text-copied = Natto e ɗakkitorde
 
@@ -165,9 +184,11 @@ blocked-mismatched-version = Fakaama ngam pilot jaytino maa ena luurdi e diiñor
 # Variables
 # $driverVersion - The graphics driver version string
 try-newer-driver = Ena daaƴaa ngam yamre pilot jaytino maa. Eto hesɗitde pilot jaytino maa to yamre { $driverVersion } walla ɓurnde hesɗitde.
+
 # "ClearType" is a proper noun and should not be translated. Feel free to leave English strings if
 # there are no good translations, these are only used in about:support
 clear-type-parameters = Teelte ClearType
+
 compositing = Compositing
 hardware-h264 = Dokkitagol Masiŋeeri H264
 main-thread-no-omtc = ɓoggol arwanol, alaa OMTC
@@ -180,6 +201,7 @@ no = Alaa
 
 found = Yiytaama
 missing = Ŋakki
+
 gpu-description = Cifagol
 gpu-vendor-id = ID Julanke
 gpu-device-id = ID Kaɓirgol
@@ -200,23 +222,29 @@ webgl2-version = Yamre Pilot WebGL 2
 webgl2-driver-extensions = Jokke pilot WebGL 2
 webgl2-extensions = Jokke WebGL 2
 blocklisted-bug = Ɓeydaama e doggol falo ngam caɗe majjaaɗe
+
 # Variables
 # $bugNumber (string) - String of bug number from Bugzilla
 bug-link = buggere { $bugNumber }
+
 # Variables
 # $failureCode (string) - String that can be searched in the source tree.
 unknown-failure = Ɓeydaama e doggol falo: dokkol { $failureCode }
+
 d3d11layers-crash-guard = D3D11 Compositor
 d3d11video-crash-guard = Dokkitorde Widewoo D3D11
 d3d9video-crash-buard = Dokkitorde Widewoo D3D9
 d3d9video-crash-guard = Dokkitorde Widewoo D3D9
 glcontext-crash-guard = OpenGL
+
 reset-on-next-restart = Waklit tuma kurmal garowal
 gpu-process-kill-button = Dartin Cilol GPU
 gpu-device-reset-button = Puɗɗitgol ñiklowel pilot
 off-main-thread-paint-enabled = Off Main Thread Painting hurminaama
+
 min-lib-versions = Yamre lesiire tijjaande
 loaded-lib-versions = Yamre huutorteende
+
 has-seccomp-bpf = Seccomp-BPF (System Call Filtering)
 has-seccomp-tsync = Canngoɗinal Ɓoggol Seccomp
 has-user-namespaces = Namespace kuutoro
@@ -228,6 +256,7 @@ effective-content-sandbox-level = Tolno silsil loowdi sandbox
 sandbox-proc-type-content = loowdi
 sandbox-proc-type-file = loowdi fiilde
 sandbox-proc-type-media-plugin = jokkel mejaa
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows
@@ -240,6 +269,7 @@ multi-process-status-6 = Daaƴi ko naatnal binndi ngal jaɓaaka
 multi-process-status-7 = Daaƴi ko ɓeyditte
 multi-process-status-8 = Daaƴiraa ko alaa e sago
 multi-process-status-unknown = Ngonka anndaaka
+
 async-pan-zoom = Asynchronous Pan/Zoom
 apz-none = ndiga
 wheel-enabled = naatnal mbiifu hurminaama

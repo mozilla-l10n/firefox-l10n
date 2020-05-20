@@ -15,11 +15,6 @@
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
 <!ENTITY performanceUI.bufferStatusTooltip "Keftinirɗo oo ina moofta jubbitte seede jirlotooɗo, e so tawii seede oo yettiima ɗo haaɗata ngam nanngitaade, jubbitte burɗe hesɗude puɗɗoo moññude jubbitte e fuɗɗoode nanngitogol ngol.">
 
-<!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
-  -  is displayed as a message for why the real time overview graph is disabled
-  -  when running on a non-multiprocess build. -->
-<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Keɓe nanngitagol e sahaa gooɗɗo ndaaƴaama e Firefox mo alaa silsilaaji.">
-
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->

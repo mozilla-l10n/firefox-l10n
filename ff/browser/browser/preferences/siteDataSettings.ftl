@@ -7,10 +7,13 @@
 
 site-data-settings-window =
     .title = Yiil Kuukiije kam e Keɓe Lowre
+
 site-data-settings-description = Ɗee ɗoo lowe ina moofta kuukiije kam e keɓe lowre e ordinateer maa. { -brand-short-name } ina moofta keɓe lowe e ndesgu duumiingu haa nde mumtuɗaa ɗum fof, kadi  ɗum momta keɓe lowre e ndesgu ngu duumaaki so boowal ina soklaa.
+
 site-data-search-textbox =
     .placeholder = Yiylo lowe
     .accesskey = Y
+
 site-data-column-host =
     .label = Lowre
 site-data-column-cookies =
@@ -19,34 +22,35 @@ site-data-column-storage =
     .label = Hattan moofto
 site-data-column-last-used =
     .label = Sakkitii huutoreede
+
 site-data-remove-selected =
     .label = Momtu cuɓaaɗe
     .accesskey = M
+
 site-data-button-cancel =
     .label = Haaytu
     .accesskey = H
+
 site-data-button-save =
     .label = Daɗndu mbaliigaaji
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
-site-usage-persistent = { site-usage-pattern } (Duumi ɗum)
+
 site-data-remove-all =
     .label = Momtu fof
     .accesskey = o
+
 site-data-remove-shown =
     .label = Momtu Kala ko Hollaa
     .accesskey = o
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = Momtu
+
 site-data-removing-header = Momtude Kuukiije kam e Keɓe Lowre
+
 site-data-removing-desc = Momtude kuukiije kam e keɓe lowre ina waawi seŋtude ma e lowe geese ɗee. Aɗa yananaa yiɗde waɗde bayle ɗee?
+
 site-data-removing-table = Kuukiije kam e keɓe lowre wonande ɗee lowe geese maa momtoye

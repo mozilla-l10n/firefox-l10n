@@ -49,3 +49,4 @@ close-tab =
     .title = Uddu tabbere
 show-addon =
     .title = Hollu e Toppitorde Ɓeyditte
+

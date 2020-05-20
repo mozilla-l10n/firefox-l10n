@@ -5,13 +5,20 @@
 sync-disconnect-dialog =
     .title = Seŋto { -sync-brand-short-name }
     .style = width: 36em; min-height: 35em;
+
 sync-disconnect-heading = Aɗa yiɗi kadi momtude keɓe wanngorde e oo ordinateer? Keɓe maa { -sync-brand-name } maa keddo e konte maa, hay so.
+
 sync-disconnect-remove-sync-caption = Momtu keɓe { -sync-brand-name }
+
 sync-disconnect-remove-sync-data = Maantore, aslol, finndeeji, ekn.
+
 sync-disconnect-remove-other-caption = Momtu Keɓe Suturo Goɗɗe
+
 sync-disconnect-remove-other-data = Kuukiije, moggel, keɓe lowre seŋtiinde, ekn.
+
 # Shown while the disconnect is in progress
 sync-disconnect-disconnecting = Nana seŋtoo...
+
 sync-disconnect-cancel =
     .label = Haaytu
     .accesskey = C
@@ -24,6 +31,7 @@ sync-disconnect-cancel =
 sync-disconnect-confirm-disconnect-delete =
     .label = Seŋto & Momtu
     .accesskey = D
+
 sync-disconnect-confirm-disconnect =
     .label = Seŋto Tan
     .accesskey = D

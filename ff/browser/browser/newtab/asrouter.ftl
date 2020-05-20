@@ -13,27 +13,36 @@ cfr-doorhanger-pintab-heading = Eto ɗum: Ñippu tabbere
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = Hol ko waɗi mi yiyde ɗumɗoo
+
 cfr-doorhanger-extension-cancel-button = Wonaa jooni
     .accesskey = N
+
 cfr-doorhanger-extension-ok-button = Ɓeydu jooni
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = Ñippu ndee tabbere
     .accesskey = Ñ
+
 cfr-doorhanger-extension-manage-settings-button = Toppito teelte baggingol
     .accesskey = T
+
 cfr-doorhanger-extension-never-show-recommendation = Hoto hollu am ndee wagginoore
     .accesskey = S
+
 cfr-doorhanger-extension-learn-more-link = Jokku taro
+
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = baɗɗo { $name }
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = Wasiya
+
 cfr-doorhanger-extension-notification2 = Wasiya
     .tooltiptext = Wagginoore timmitere
     .a11y-announcement = Wagginoore timmitere ina heɓoo
+
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-feature-notification = Wagginoore
@@ -59,6 +68,7 @@ cfr-doorhanger-extension-total-users =
         [one] { $total } kuutoro
        *[other] { $total } huutorɓe
     }
+
 cfr-doorhanger-pintab-description = Yetto no weeɓiri e lowe maa ɓurɗe huutoreede. Waɗ lowe ɗee gudditiiɗe e tabbere (hay nde puɗɗitto-ɗaa).
 
 ## These messages are steps on how to use the feature and are shown together.
@@ -66,8 +76,10 @@ cfr-doorhanger-pintab-description = Yetto no weeɓiri e lowe maa ɓurɗe huutore
 cfr-doorhanger-pintab-step1 = <b>Dobo-ñaamo</b>e tabbere njiɗɗaa ñippude ndee.
 cfr-doorhanger-pintab-step2 = Suɓo <b>ñippu tabbere</b>nder dosol ngol.
 cfr-doorhanger-pintab-step3 = SO lowre ndee dañii hesɗitinere maa yiy toɓɓel bulawel e tabbere maa ñippaande ndee.
+
 cfr-doorhanger-pintab-animation-pause = Sabbo
 cfr-doorhanger-pintab-animation-resume = Fuɗɗito
+
 
 ## Firefox Accounts Message
 
@@ -88,14 +100,20 @@ cfr-protections-panel-link-text = Ɓeydu humpito
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = Fannuji kesi:
+
 cfr-whatsnew-button =
     .label = Ko Hesɗi
     .tooltiptext = Ko Hesɗi
+
 cfr-whatsnew-panel-header = Ko Hesɗi
+
 cfr-whatsnew-release-notes-link-text = Tar konngol bayyinol
+
 cfr-whatsnew-fx70-title = { -brand-short-name }ina haɓee jooni no feewi ngam suturo maa
+
 cfr-whatsnew-tracking-protect-title = Reen hoore maa e rewindotooɓe
 cfr-whatsnew-tracking-protect-link-text = Yiy jaŋtol maa
+
 # This string is displayed before a large numeral that indicates the total
 # number of tracking elements blocked. Don’t add $blockedCount to your
 # localization, because it would result in the number showing twice.
@@ -106,8 +124,10 @@ cfr-whatsnew-tracking-blocked-title =
     }
 cfr-whatsnew-tracking-blocked-subtitle = Gila { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = Yiy jaŋtol
+
 cfr-whatsnew-lockwise-backup-title = Danndu pinle maa
 cfr-whatsnew-lockwise-backup-body = Jooni yeñtin pinle kisɗe ɗe mbaawɗaa heɓde kala ɗo ceŋiɗaa.
+
 cfr-whatsnew-lockwise-take-title = Nawor pinle maa
 cfr-whatsnew-lockwise-take-body =
     Jaaɓnirgal cinndel { -lockwise-brand-short-name } ngal ina newnan maa yettaade e kisal

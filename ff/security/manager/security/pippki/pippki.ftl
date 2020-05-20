@@ -8,6 +8,7 @@ password-quality-meter = Ɓetirɗe moƴƴugol finnde
 
 change-password-window =
     .title = Waylu Finnde Baabaare
+
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = Kaɓirɗi Kisal: { $tokenName }

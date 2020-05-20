@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Uddit e Henorde Suuriinde Hesere
     .accesskey = H
+
 places-new-bookmark =
     .label = Maantorol Kesol…
     .accesskey = K
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Ceerndirgol Kesol
     .accesskey = C
+
 places-view =
     .label = Hollir
     .accesskey = i
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Leemto Ñalngu e Lowre
     .accesskey = g
+
 places-history-search =
     .placeholder = Yiylo aslol
 places-bookmarks-search =
     .placeholder = Yiylo maantore
+
 places-delete-domain-data =
     .label = Faalkiso Ndee Lowre
     .accesskey = F
