@@ -4,9 +4,12 @@
 
 sidebar-menu-bookmarks =
     .label = Marcadores
+
 sidebar-menu-history =
     .label = Histórico
+
 sidebar-menu-synced-tabs =
     .label = Separadores sincronizados
+
 sidebar-menu-close =
     .label = Fechar barra lateral

@@ -13,6 +13,7 @@ enable-common-message = As ferramentas de programador do Firefox estão desativa
 enable-learn-more-link = Saber mais acerca das ferramentas de programador
 enable-enable-button = Ativar ferramentas de programador
 enable-close-button = Fechar este separador
+
 welcome-title = Bem-vindo(a) às ferramentas de programação do Firefox!
 newsletter-title = Newsletter Mozilla Developer
 newsletter-message = Obtenha noticias de programador, truques e recursos enviados diretamente para a sua caixa de entrada.
@@ -22,9 +23,11 @@ newsletter-privacy-label = Estou bem com a Mozilla manusear a minha informação
 newsletter-subscribe-button = Subscrever
 newsletter-thanks-title = Obrigado!
 newsletter-thanks-message = Se não confirmou previamente uma subscrição a uma newsletter relacionada com a Mozilla, pode ter de o fazer. Por favor verifique a sua caixa de entrada ou o seu filtro de spam por um email nosso.
+
 footer-title = Firefox Developer Edition
 footer-message = À procura de mais do que ferramentas de programador? Confira o navegador Firefox que é construído especificamente para programadores e fluxos de trabalho modernos.
 footer-learn-more-link = Saber mais
+
 features-learn-more = Saber mais
 features-inspector-title = Inspetor
 features-inspector-desc = Inspecione e melhore o código para construir layouts perfeitamente definidos. <a data-l10n-name="learn-more">{ features-learn-more }</a>

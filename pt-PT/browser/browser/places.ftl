@@ -17,6 +17,7 @@ places-open-window =
 places-open-private-window =
     .label = Abrir numa nova janela privada
     .accesskey = p
+
 places-new-bookmark =
     .label = Novo marcador…
     .accesskey = m
@@ -29,6 +30,7 @@ places-new-folder =
 places-new-separator =
     .label = Novo separador
     .accesskey = s
+
 places-view =
     .label = Ver
     .accesskey = V
@@ -47,10 +49,12 @@ places-by-last-visited =
 places-by-day-and-site =
     .label = Por data e site
     .accesskey = t
+
 places-history-search =
     .placeholder = Pesquisar histórico
 places-bookmarks-search =
     .placeholder = Pesquisar marcadores
+
 places-delete-domain-data =
     .label = Esquecer este site
     .accesskey = s

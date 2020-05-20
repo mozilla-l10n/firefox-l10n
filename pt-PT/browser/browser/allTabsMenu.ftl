@@ -4,13 +4,17 @@
 
 all-tabs-menu-undo-close-tab =
     .label = Reabrir separador fechado
+
 # "Search" is a verb, as in "Search through tabs".
 all-tabs-menu-search-tabs =
     .label = Pesquisar separadores
+
 all-tabs-menu-new-user-context =
     .label = Novo separador contentor
+
 all-tabs-menu-hidden-tabs =
     .label = Separadores ocultados
+
 all-tabs-menu-manage-user-context =
     .label = Gerir contentores
     .accesskey = O

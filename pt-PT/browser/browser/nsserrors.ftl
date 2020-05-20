@@ -6,16 +6,20 @@
 # $hostname (String) - Hostname of the website with SSL error.
 # $errorMessage (String) - Error message corresponding to the type of error we are experiencing.
 ssl-connection-error = Ocorreu um erro durante a ligação a { $hostname }. { $errorMessage }
+
 # Variables:
 # $error (string) - NSS error code string that specifies type of cert error. e.g. unknown issuer, invalid cert, etc.
 cert-error-code-prefix = Código de erro: { $error }
+
 psmerr-ssl-disabled = Não é possível ligar de forma segura porque o protocolo SSL foi desativado.
 psmerr-ssl2-disabled = Não é possível ligar de forma segura porque o site utiliza uma versão do protocolo SSL antiga e é insegura.
+
 # This is a multi-line message.
 psmerr-hostreusedissuerandserial =
     Recebeu um certificado inválido.  Por favor contacte o administrador do servidor ou endereço de email equivalente e dê-lhes a seguinte informação:
     
     O seu certificado contém o mesmo número de série que o de outro certificado emitido pela mesma autoridade certificadora.  Por favor obtenha um novo certificado com um número de série único.
+
 ssl-error-export-only-server = Não foi possível comunicar de forma segura. O par não suporta encriptação de alta qualidade.
 ssl-error-us-only-server = Não foi possível comunicar de forma segura. O par requer uma encriptação de alta qualidade que não é suportada.
 ssl-error-no-cypher-overlap = Não foi possível comunicar de forma segura com o par: não existe(m) algoritmo(s) de encriptação em comum.
