@@ -20,19 +20,12 @@
 <!ENTITY firstrun_data_message "ಕಡಿಮೆ ದತ್ತಾಂಶ, ಹೆಚ್ಚು ಉಳಿತಾಯ">
 <!ENTITY firstrun_data_subtext2 "‍ನೀವು ವಿಹರಿಸುವ ಪ್ರತಿಯೊಂದೂ ತಾಣದಲ್ಲಿ ಕಡಿಮೆ ಡೇಟಾ ವ್ಯಯಿಸಲು ಚಿತ್ರಗಳನ್ನು ಅಡಗಿಸಿ. ">
 <!ENTITY firstrun_sync_title "ಸಿಂಕ್">
-<!ENTITY updatednewfirstrun_sync_title "ಖಾತೆ">
-<!ENTITY firstrun_sync_message2 "ನೀವು ಬಿಟ್ಟು ಹೋದಲ್ಲಿಂದ ಮುಂದುವರೆಸಿ.">
 <!ENTITY firstrun_sync_subtext2 "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳಲ್ಲಿ &brandShortName; ಗೆ ನೀವು ಉಳಿಸುವ ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಗುಪ್ತಪದಗಳು ಮತ್ತು ಇತರ ವಿಷಯಗಳನ್ನು ಹುಡುಕಲು ಸಿಂಕ್ ಅನ್ನು ಬಳಸಿ.">
-<!ENTITY firstrun_signin_message "ಸಂಪರ್ಕಕ್ಕೆ ಬನ್ನಿ, ಪ್ರಾರಂಭಿಸಲು ಅನುವಾಗಿ">
 <!ENTITY firstrun_sendtab_title "ಟ್ಯಾಬ್ ಕಳುಹಿಸು">
-<!ENTITY firstrun_signin_button "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
-<!ENTITY newfirstrun_signin_button "ಸಿಂಕ್ ಆನ್ ಮಾಡಿ">
-<!ENTITY updatednewfirstrun_signin_button "&brandShortName; ನಲ್ಲಿ ತೆರೆ">
+<!ENTITY firstrun_signin_message "ಸಂಪರ್ಕಕ್ಕೆ ಬನ್ನಿ, ಪ್ರಾರಂಭಿಸಲು ಅನುವಾಗಿ">
 <!ENTITY onboard_start_button_browser "ಅಂತರ್ಜಾಲದ ವೀಕ್ಷಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ">
 <!ENTITY firstrun_button_notnow "ಈಗ ಬೇಡ">
 <!ENTITY firstrun_button_next "ಮುಂದೆ">
-
-<!ENTITY firstrun_signin_button2 "ಸೈನ್ ಇನ್">
 
 <!ENTITY firstrun_tabqueue_title "ಕೊಂಡಿಗಳು">
 
@@ -472,14 +465,6 @@ shown from Android O while a tab is being queued.-->
      service is running. -->
 <!ENTITY datareporting_stumbler_notification_title "&vendorShortName; ಸ್ಥಳಾಧಾರಿತ ಸೇವೆಗಳು">
 
-<!-- Localization note (pref_update_autodownload2) : This should mention downloading
-     specifically, since the pref only prevents automatic downloads and not the
-     actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "ಸ್ವಯಂಚಾಲಿತ ಪರಿಷ್ಕರಣೆಗಳು">
-<!ENTITY pref_update_autodownload_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
-<!ENTITY pref_update_autodownload_never "ಎಂದಿಗೂ ಬೇಡ">
-<!ENTITY pref_update_autodownload_always "ಯಾವಾಗಲೂ">
-
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "ಸಹಾಯ">
 
@@ -743,25 +728,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸ">
 
- <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; ಗೆ ಪರಿಷ್ಕರಣೆ ಲಭ್ಯವಿದೆ;‍">
-<!ENTITY updater_start_select2 "ನಕಲಿಳಿಸಲು ಸ್ಪರ್ಶಿಸಿ">
-
-<!ENTITY updater_downloading_title2 "&brandShortName; ಅನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ">
-<!ENTITY updater_downloading_title_failed2 "ಡೌನ್‌ಲೋಡ್ ವಿಫಲವಾಗಿದೆ">
-<!ENTITY updater_downloading_select2 "ಪರಿಷ್ಕರಣೆಯನ್ನು ಹೊಂದಿಸಲು ನಕ್ಲಲಿಳಿಸಿದ ನಂತರ ಸ್ಪರ್ಶಿಸಿ">
-<!ENTITY updater_downloading_retry2 "ಮರುಪ್ರಯತ್ನಕ್ಕೆ ಸ್ಪರ್ಶಿಸಿ">
-
-<!ENTITY updater_apply_title3 "&brandShortName; ಗೆ ಪರಿಷ್ಕರಣೆ ಲಭ್ಯವಿದೆ;‍">
-<!ENTITY updater_apply_select3 "ಅನುಸ್ಥಾಪಿಸಲು ಸ್ಪರ್ಶಿಸಿ‍">
-
-<!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
-     if the app requires a runtime permission to download updates. Currently, the updater only sees
-     remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "‍ಕಡತಗಳನ್ನು ಮತ್ತು ಪರಿಷ್ಕರಣೆಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲು, &brandShortName; ಶೇಖರಣೆಯನ್ನು ಪ್ರವೇಶಿಸಲು ಅನುಮತಿ ನೀಡಿ.">
-<!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
-<!ENTITY updater_permission_allow "ಅನುಮತಿಸು">
-
     <!-- Guest mode -->
 <!ENTITY new_guest_session "ಹೊಸ ಅತಿಥಿ ಅಧಿವೇಶನ">
 <!ENTITY exit_guest_session "ಅತಿಥಿ ಅಧಿವೇಶನದಿಂದ ನಿರ್ಗಮಿಸು">
@@ -872,11 +838,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ಆಫ್‌ಲೈನ್ ಓದುವ ಸಲುವಾಗಿ ಪುಟಗುರುತು ಓದುಗ ನೋಟದ ಅಂಶಗಳು.">
 <!ENTITY helper_triple_readerview_open_button "ಪುಟಗುರುತುಗಳಿಗೆ ಸಾಗು">
 
-<!-- LOCALIZATION NOTE (activity_stream_signin_title, activity_stream_signin_description, activity_stream_signup_button,
-activity_stream_signin_prompt, activity_stream_signin_prompt_button):
-- These labels are shown in the Activity Stream recommending the user to sign in. -->
-<!ENTITY activity_stream_signin_button "ಸೈನ್ ಇನ್">
-
 <!-- LOCALIZATION NOTE (activity_stream_signin_prompt_button): To be used in continuation of activity_stream_signin_prompt. -->
 <!ENTITY activity_stream_signin_prompt_button "ಸೈನ್ ಇನ್.">
 
@@ -937,7 +898,6 @@ Picture-in-picture mini window -->
 <!ENTITY media_notification_channel2 "ಧ್ವನಿ ಮತ್ತು ವಿಡಿಯೋ">
 <!-- These push notifications come without a specific channel and/or name from Leanplum -->
 <!ENTITY leanplum_default_notifications_channel2 "&vendorShortName; ಸಲಹೆಗಳು ಮತ್ತು ತಂತ್ರಗಳನ್ನು">
-<!ENTITY updater_notification_channel "ಅನ್ವಯ ಪರಿಷ್ಕರಣೆಗಳು">
 <!ENTITY synced_tabs_notification_channel "ಸಿಂಕ್ ಮಾಡಿದ ಹಾಳೆಗಳು">
 <!-- LOCALIZATION NOTE (site_notifications_channel): This is for system notifications displayed by
 web sites through the HTML Notifications API. -->

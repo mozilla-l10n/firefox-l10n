@@ -15,6 +15,7 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ಹುಡುಕು
     .aria-label = ಹುಡುಕು
+
 newtab-search-box-search-the-web-text = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
 newtab-search-box-search-the-web-input =
     .placeholder = ಅಂತರ್ಜಾಲವನ್ನು ಹುಡುಕಿ
@@ -28,6 +29,7 @@ newtab-topsites-edit-topsites-header = ಅಗ್ರ ತಾಣಗಳನ್ನು 
 newtab-topsites-title-label = ಶೀರ್ಷಿಕೆ
 newtab-topsites-title-input =
     .placeholder = ಶೀರ್ಷಿಕೆಯನ್ನು ನಮೂದಿಸಿ
+
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ಒಂದು URL ಅನ್ನು ಟೈಪಿಸಿ ಅಥವಾ ನಕಲಿಸಿ
@@ -43,6 +45,8 @@ newtab-topsites-add-button = ಸೇರಿಸು
 
 ## Top Sites - Delete history confirmation dialog. 
 
+## Top Sites - Delete history confirmation dialog.
+
 # "This action" refers to deleting a page from history.
 newtab-confirm-delete-history-p2 = ಈ ಕಾರ್ಯವನ್ನು ರದ್ದುಗೊಳಿಸಲು ಸಾಧ್ಯವಿರುವುದಿಲ್ಲ.
 
@@ -52,6 +56,7 @@ newtab-confirm-delete-history-p2 = ಈ ಕಾರ್ಯವನ್ನು ರದ್�
 newtab-menu-section-tooltip =
     .title = ಮೆನು ತೆರೆ
     .aria-label = ಮೆನು ತೆರೆ
+
 # Tooltip on an empty topsite box to open the New Top Site dialog.
 newtab-menu-topsites-placeholder-tooltip =
     .title = ಈ ತಾಣವನ್ನು ಸಂಪಾದಿಸು
@@ -69,12 +74,20 @@ newtab-menu-delete-history = ಇತಿಹಾಸದಿಂದ ಅಳಿಸು‍
 newtab-menu-save-to-pocket = { -pocket-brand-name } ಗೆ ಉಳಿಸಿ‍
 newtab-menu-delete-pocket = { -pocket-brand-name } ನಿಂದ ಅಳಿಸಿ
 newtab-menu-archive-pocket = { -pocket-brand-name } ಆರ್ಕೈವ್ ಮಾಡಿ
+
+## Message displayed in a modal window to explain privacy and provide context for sponsored content.
+
+##
+
 # Bookmark is a noun in this case, "Remove bookmark".
 newtab-menu-remove-bookmark = ಪುಟ ಗುರುತು ತೆಗೆ
 # Bookmark is a verb here.
 newtab-menu-bookmark = ಪುಟ ಗುರುತು
 
 ## Context Menu - Downloaded Menu. "Download" in these cases is not a verb, 
+## it is a noun. As in, "Copy the link that belongs to this downloaded item".
+
+## Context Menu - Downloaded Menu. "Download" in these cases is not a verb,
 ## it is a noun. As in, "Copy the link that belongs to this downloaded item".
 
 newtab-menu-copy-download-link = ಡೌನ್ಲೋಡ್ ಕೊಂಡಿಯನ್ನು ಪ್ರತಿ ಮಾಡು
@@ -105,6 +118,9 @@ newtab-label-download = ಡೌನ್ಲೋಡ್ ಮಾಡಲಾಗಿದೆ
 ## Section Menu: These strings are displayed in the section context menu and are 
 ## meant as a call to action for the given section.
 
+## Section Menu: These strings are displayed in the section context menu and are
+## meant as a call to action for the given section.
+
 newtab-section-menu-remove-section = ವಿಭಾಗವನ್ನು ತೆಗೆದುಹಾಕಿ
 newtab-section-menu-collapse-section = ವಿಭಾಗವನ್ನು ಸಂಕುಚಿಸಿ
 newtab-section-menu-expand-section = ವಿಭಾಗ ವಿಸ್ತರಿಸಿ
@@ -112,6 +128,8 @@ newtab-section-menu-manage-section = ವಿಭಾಗವನ್ನು ನಿರ್
 newtab-section-menu-manage-webext = ವಿಸ್ತರಣೆಯನ್ನು ನಿರ್ವಹಿಸಿ
 newtab-section-menu-move-up = ಮೇಲೆ ಜರುಗಿಸು
 newtab-section-menu-move-down = ಕೆಳಗೆ ಜರುಗಿಸು
+
+## Section aria-labels
 
 ## Section Headers.
 
@@ -125,6 +143,7 @@ newtab-section-header-pocket = { $provider } ರಿಂದ ಶಿಫಾರಸು�
 
 newtab-empty-section-highlights = ವೀಕ್ಷಣೆ ಮಾಡಲು ಶುರುಮಾಡಿ, ಮತ್ತು ನಾವು ಇತ್ತೀಚೆಗೆ ಭೇಟಿ ನೀಡಿದ ಅಥವಾ ಬುಕ್‌ಮಾರ್ಕ್ ಮಾಡಲಾದ ಕೆಲವು ಶ್ರೇಷ್ಠ ಲೇಖನಗಳು, ವೀಡಿಯೊಗಳು ಮತ್ತು ಇತರ ಪುಟಗಳನ್ನು ನಾವು ತೋರಿಸುತ್ತೇವೆ.
 
+
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
 
@@ -132,7 +151,6 @@ newtab-empty-section-highlights = ವೀಕ್ಷಣೆ ಮಾಡಲು ಶು�
 
 # This is shown at the bottom of the trending stories section and precedes a list of links to popular topics.
 newtab-pocket-read-more = ಜನಪ್ರಿಯವಾದ ವಿಷಯಗಳು:
-newtab-pocket-how-it-works = ಇದು ಹೇಗೆ ಕೆಲಸ ಮಾಡುತ್ತದೆ
 newtab-pocket-cta-button = { -pocket-brand-name } ಪಡೆಯಿರಿ
 
 ## Error Fallback Content.

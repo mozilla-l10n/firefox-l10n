@@ -11,3 +11,8 @@
 ## in the documentation section in about:policies.
 
 policy-DisableTelemetry = ಟೆಲಿಮೆಟ್ರಿ ಆಫ್ ಮಾಡಿ.
+
+## Do not translate "SameSite", it's the name of a cookie attribute.
+
+##
+

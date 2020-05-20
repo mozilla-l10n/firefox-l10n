@@ -8,36 +8,37 @@
 site-data-search-textbox =
     .placeholder = ಜಾಲತಾಣಗಳನ್ನು ಹುಡುಕು
     .accesskey = S
+
 site-data-column-host =
     .label = ತಾಣ
 site-data-column-cookies =
     .label = ಕುಕಿಗಳು
 site-data-column-storage =
     .label = ಶೇಖರಣೆ
+
 site-data-remove-selected =
     .label = ಆರಿಸಿದ್ದನ್ನು ಅಳಿಸು
     .accesskey = r
+
 site-data-button-cancel =
     .label = ರದ್ದು ಮಾಡು
     .accesskey = C
+
 site-data-button-save =
     .label = ಬದಲಾವಣೆಗಳನ್ನು ಉಳಿಸು
     .accesskey = a
-# Variables:
-#   $value (Number) - Value of the unit (for example: 4.6, 500)
-#   $unit (String) - Name of the unit (for example: "bytes", "KB")
-site-usage-pattern = { $value } { $unit }
+
 site-data-remove-all =
     .label = ಎಲ್ಲವನ್ನು ತೆಗೆ
     .accesskey = e
+
 site-data-remove-shown =
     .label = ತೋರಿಸಿರುವ ಎಲ್ಲವನ್ನು ತೆಗೆದು ಹಾಕು
     .accesskey = e
 
 ## Removing
 
-site-data-removing-window =
-    .title = { site-data-removing-header }
 site-data-removing-dialog =
     .title = { site-data-removing-header }
     .buttonlabelaccept = ತೆಗೆದು ಹಾಕು
+

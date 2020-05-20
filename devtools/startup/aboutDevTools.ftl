@@ -3,14 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 enable-close-button = ಈ ಹಾಳೆ ಮುಚ್ಚು
+
 welcome-title = Firefox ಡೆವೆಲಪರ್ ಉಪಕರಣಗಳಿಗೆ ಸ್ವಾಗತ!
 newsletter-email-placeholder =
     .placeholder = ಮಿಂಚಂಚೆ
 newsletter-subscribe-button = ಚಂದಾದಾರನಾಗು
 newsletter-thanks-title = ಧನ್ಯವಾದಗಳು!
 newsletter-thanks-message = ನೀವು ಈ ಹಿಂದೆ Mozilla ಸಂಬಂಧಿತ ಸುದ್ದಿಪತ್ರಕ್ಕೆ ಚಂದಾದಾರಿಕೆ ದೃಢೀಕರಿಸಿಲ್ಲವಾದರೆ ನೀವು ಹಾಗೆ ಮಾಡಬೇಕಾಗುತ್ತದೆ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಇನ್ಬಾಕ್ಸ್ ಅಥವಾ ನಿಮ್ಮ ಸ್ಪ್ಯಾಮ್ ಫಿಲ್ಟರ್‍‍ನಲ್ಲಿ ನಮ್ಮಿಂಡ ಬಂದಿರುವ ಇಮೇಲ್ ಪರಿಶೀಲಿಸಿ.
+
 footer-title = ಫೈರ್ಫಾಕ್ಸ್ ಡೆವೆಲಪರ್ ಆವೃತ್ತಿ
 footer-learn-more-link = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
+
 features-learn-more = ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ
 features-inspector-title = ಪರೀಕ್ಷಕ
 features-console-title = ಕನ್ಸೋಲ್

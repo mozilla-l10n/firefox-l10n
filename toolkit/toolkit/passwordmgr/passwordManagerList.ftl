@@ -48,6 +48,7 @@ import =
 close-button =
     .label = ಮುಚ್ಚು
     .accesskey = C
+
 show-passwords =
     .label = ಗುಪ್ತಪದಗಳನ್ನು ತೋರಿಸು
     .accesskey = P

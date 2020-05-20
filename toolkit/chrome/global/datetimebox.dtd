@@ -10,8 +10,15 @@
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
 
+<!-- Field labels for input type=time -->
+
 <!-- Placeholders for input type=date -->
 
 <!ENTITY date.year.placeholder "ವವವವ">
 <!ENTITY date.month.placeholder "ತಿತಿ">
 <!ENTITY date.day.placeholder "ದಿದಿ">
+
+<!-- Field labels for input type=date -->
+
+<!-- Date/time clear button -->
+
