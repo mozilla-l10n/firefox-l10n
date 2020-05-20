@@ -2,10 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search.buttonlabel                   "Chirca">
-<!-- LOCALIZATION NOTE (search.commandKey):
-     The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "m">
 
 
 
@@ -14,27 +10,14 @@
 
 
 
-
-
-
-
-
-<!ENTITY cmd.back.tooltip                     "Bae a sa pàgina de primu">
-<!ENTITY cmd.forward.tooltip                  "Bae a sa pàgina in antis">
 
 
 
 
 <!-- global warnings -->
 
-<!ENTITY warning.checkcompatibility.enable.label   "Ativa">
-
-
-<!ENTITY warning.updatesecurity.enable.label       "Ativa">
 
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "Chirca">
 
 
 
@@ -64,11 +47,6 @@
 
 
 <!-- addon actions -->
-
-
-
-<!ENTITY cmd.preferencesWin.label             "Optziones">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
 
 
 
@@ -111,36 +89,16 @@
 
 <!-- detail view -->
 
-<!ENTITY detail.creator.label                 "Isvilupadore">
-<!ENTITY detail.homepage.label                "Prima pàgina">
-<!ENTITY detail.numberOfDownloads.label       "Iscarrigamentos">
-
-
-<!ENTITY detail.updateDefault.label           "Predefinidu">
-
-<!ENTITY detail.updateAutomatic.label         "Ativu">
-
-<!ENTITY detail.updateManual.label            "Disativadu">
-
-<!ENTITY detail.home                          "Prima pàgina">
-
-<!ENTITY detail.size                          "Mannària">
-
-
-
-<!ENTITY detail.showPreferencesWin.label      "Optziones">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
-
 
 
 
 <!-- ratings -->
+
 <!-- download/install progress -->
 <!ENTITY progress.cancel.tooltip              "Annulla">
 <!-- list sorting -->
 
 
-<!ENTITY sort.name.label                      "Nùmene">
 
 
 
@@ -152,9 +110,6 @@
 
 
 
-
-
-<!ENTITY addon.homepage                       "Prima pàgina">
 <!ENTITY addon.details.label                  "Àteru">
 
 <!ENTITY addon.unknownDate                    "Disconnotu">
@@ -186,17 +141,6 @@
 
 
 <!ENTITY addon.createdBy.label                "De ">
-
-
-
-
-
-<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
-     experiments are present on the "Experiments" tab of the add-ons manager.
-     This tab won't be displayed unless an Experiment add-on is installed.
-     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
-     to cause this tab to appear. -->
-<!ENTITY experiment.info.learnmore "Nde chèrgio ischire de prus">
 
 
 

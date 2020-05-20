@@ -4,19 +4,25 @@
 
 window-minimize-command =
     .label = Impicòchia
+
 window-zoom-command =
     .label = Ismànnia
+
 tab-new-shortcut =
     .key = n
+
 # This shortcut is used in two contexts:
 #   - web search
 #   - find in page
 find-shortcut =
     .key = m
+
 file-open-shortcut =
     .key = a
+
 full-screen-shortcut =
     .key = m
+
 # Pick the key that is commonly present
 # in your locale keyboards above the
 # `picture-in-picture-toggle-shortcut` key.
@@ -32,8 +38,10 @@ picture-in-picture-toggle-shortcut-alt =
 # Otherwise their values should remain empty.
 full-zoom-reduce-shortcut-alt =
     .key = { "" }
+
 full-zoom-enlarge-shortcut-alt2 =
     .key = { "" }
+
 full-zoom-reset-shortcut-alt =
     .key = { "" }
 

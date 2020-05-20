@@ -10,6 +10,22 @@ app-basics-name = Nùmene
 modified-prefs-name = Nùmene
 locked-prefs-name = Nùmene
 graphics-features-title = Caraterìsticas
+
+## Media titles
+
+##
+
+## Remote Debugging
+##
+## The Firefox remote protocol provides low-level debugging interfaces
+## used to inspect state and control execution of documents,
+## browser instrumentation, user interaction simulation,
+## and for subscribing to browser-internal events.
+##
+## See also https://firefox-source-docs.mozilla.org/remote/
+
+##
+
 text-copied = Testu copiadu in punta de billete
 
 ## The verb "blocked" here refers to a graphics feature such as "Direct2D" or "OpenGL layers".
@@ -22,6 +38,7 @@ no = Nono
 ## not found.
 
 gpu-description = Descritzione
+
 # Variables
 # $remoteWindows (integer) - Number of remote windows
 # $totalWindows (integer) - Number of total windows

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys -->
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
@@ -17,19 +18,9 @@
 
 <!ENTITY appmenu.tooltip                     "Aberi menù">
 <!ENTITY navbarOverflow.label                "Àteros istrumentos...">
+
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "Torra a carrigare s'ischeda">
-<!ENTITY  reloadTab.accesskey                "T">
-<!ENTITY  reloadAllTabs.label                "Torra a carrigare totu sas ischedas">
-<!ENTITY  reloadAllTabs.accesskey            "c">
-<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
-direction in which tabs are closed, i.e. locales that use RTL mode should say
-left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Serra s'ischeda de sa dereta">
-<!ENTITY  closeTabsToTheEnd.accesskey        "d">
-<!ENTITY  closeOtherTabs.label               "Serra sas àteras ischedas">
-<!ENTITY  closeOtherTabs.accesskey           "e">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -40,20 +31,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "A">
 <!ENTITY  unpinTab.label                     "Boga s'ischeda">
 <!ENTITY  unpinTab.accesskey                 "B">
-<!ENTITY  sendTabToDevice.label              "Imbia ischeda a su dispositivu">
-<!ENTITY  sendTabToDevice.accesskey          "d">
 <!ENTITY  sendPageToDevice.label             "Imbia pàgina a su dispositivu">
 <!ENTITY  sendPageToDevice.accesskey         "d">
 <!ENTITY  sendLinkToDevice.label             "Imbia ligàmene a su dispositivu">
 <!ENTITY  sendLinkToDevice.accesskey         "d">
-<!ENTITY  moveToNewWindow.label              "Moe totu a una ventana noa">
-<!ENTITY  moveToNewWindow.accesskey          "v">
 
 
-
-
-<!ENTITY  closeTab.label                     "Serra s'ischeda">
-<!ENTITY  closeTab.accesskey                 "S">
 
 
 <!ENTITY tabCmd.label "Ischeda noa">
@@ -81,9 +64,6 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.label "Barra de signa-libros">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Elementos de sa barra de signa-libros">
-
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Torra a carrigare totu sas ischedas">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "c">
 
 
 
@@ -126,7 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY fullscreenWarning.beforeDomain.label "">
+ <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "est como in mannària prena">
 <!ENTITY fullscreenWarning.generic.label "Custu documentu s'ammustrat como in mannària prena">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
@@ -159,15 +139,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY addCurPagesCmd.label "Pone totu sas ischedas in sos signa-libros">
+
 <!ENTITY showAllBookmarks2.label "Ammustra totu sos signa-libros">
 <!ENTITY recentBookmarks.label "Postu de reghente in sos signa-libros">
 <!ENTITY otherBookmarksCmd.label "Àteros signa-libros">
 <!ENTITY mobileBookmarksCmd.label "Signa-libros mòbiles">
 <!ENTITY bookmarksToolbarChevron.tooltip "Ammustra àteros signa-libros">
-<!ENTITY showRecentlyBookmarked.label     "Ammustra signa-libros reghentes">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "Cua signa-libros reghentes">
-<!ENTITY hideRecentlyBookmarked.accesskey "h">
 
 <!ENTITY backCmd.label                "In segus">
 <!ENTITY backButton.tooltip           "Bae a sa pàgina de primu">
@@ -213,12 +190,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- Toolbar items -->
 
+
 <!ENTITY homeButton.label             "Pàgina printzipale">
 
 <!ENTITY bookmarksButton.label          "Signa-libros">
 
 
-<!ENTITY bookmarksMenuButton.label          "Signa-libros">
 <!ENTITY bookmarksMenuButton.other.label    "Àteros signa-libros">
 <!ENTITY bookmarksMenuButton.mobile.label   "Signa-libros mòbiles">
 
@@ -321,18 +298,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd2.label "Ammustra totu sa cronologia">
 
 
-<!ENTITY appMenuCustomize.label "Personaliza">
-<!ENTITY appMenuCustomize.tooltip "Personaliza su menù e sas barras">
-<!ENTITY appMenuCustomizeExit.label "Essi de sa personalizatzione">
-<!ENTITY appMenuCustomizeExit.tooltip "Acabba sa personalizatzione ">
-<!ENTITY appMenuHistory.label "Cronologia">
 <!ENTITY appMenuHistory.showAll.label "Ammustra totu sa cronologia">
 <!ENTITY appMenuHistory.clearRecent.label "Cantzella sa cronologia reghente...">
 <!ENTITY appMenuHistory.restoreSession.label "Ripristina sa sessione de prima">
 
 
 <!ENTITY appMenuHelp.label "Agiudu">
-<!ENTITY appMenuHelp.tooltip "Aberi su menù de agiudu">
 
 <!ENTITY appMenuRemoteTabs.label "Ischedas sincronizadas">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -348,12 +319,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Ammustra totu sas ischedas dae custu dispositivu">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
-     when Sync is configured but this appears to be the only device attached to
-     the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Peruna ischeda sincronizada... galu!">
-
-<!ENTITY appMenuRemoteTabs.openprefs.label "Preferèntzias de sincronizatzione">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Identìfica·ti a Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Manìgia dispositivos">
@@ -361,31 +326,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY customizeMenu.addToToolbar.label "Agiunghe a sa barra de istrumentos">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
-<!ENTITY customizeMenu.addToPanel.label "Agiunghe a su menù">
-<!ENTITY customizeMenu.addToPanel.accesskey "m">
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
 
-<!ENTITY customizeMenu.moveToToolbar.label "Moe a sa barra de istrumentos">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
-     can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
-<!ENTITY customizeMenu.moveToPanel.label "Moe a su menù">
-<!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
 
 
 
 <!ENTITY customizeMenu.removeFromToolbar.label "Boga dae sa barra de istrumentos">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
-<!ENTITY customizeMenu.removeFromMenu.label "Boga dae su menù">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "B">
 <!ENTITY customizeMenu.addMoreItems.label "Agiunghe àteros elementos">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
@@ -399,12 +350,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Agiunta:">
 <!ENTITY urlbar.switchToTab.label     "Bae a s'ischeda:">
-
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Leghe àteru...">
-
-<!ENTITY urlbar.searchSuggestionsNotification.disable "Nono">
-
-<!ENTITY urlbar.searchSuggestionsNotification.enable "Eja">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 
@@ -476,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "d">
 
 <!ENTITY openLinkCmdInTab.label       "Aberi ligàmene in un'ischeda noa">
+
 <!ENTITY openLinkCmdInTab.accesskey   "A">
 <!ENTITY openLinkCmd.label            "Aberi ligàmene in una ventana noa">
 <!ENTITY openLinkCmd.accesskey        "v">
@@ -525,9 +471,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 
 
-<!ENTITY copyURLCmd.label             "Còpia URL">
-
-
 <!ENTITY savePageCmd.label            "Sarva sa pàgina comente...">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
@@ -548,8 +491,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "Imbia su vìdeu...">
 <!ENTITY emailVideoCmd.accesskey      "a">
-<!ENTITY castVideoCmd.label           "Imbia su vìdeu a su dispositivu">
-<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Imbia s'àudio...">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Ativa custu plugin">
@@ -722,14 +663,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+
 <!ENTITY syncTabsMenu3.label     "Ischedas sincronizadas">
 
 <!ENTITY syncedTabs.sidebar.label              "Ischedas sincronizadas">
 
-<!ENTITY syncedTabs.sidebar.noclients.title    "Peruna ischeda sincronizada... galu!">
-
-
-<!ENTITY syncedTabs.sidebar.notabs.label       "Peruna ischeda aberta">
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -746,14 +684,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY syncedTabs.context.copy.label                       "Còpia">
-<!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-
-
-
-
-
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 
@@ -762,16 +692,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY syncToolbarButton.label      "Sync">
-
-
-
-<!ENTITY customizeMode.restoreDefaults "Torra a pònnere sos chi bi fuint sa prima borta">
-<!ENTITY customizeMode.done "Fatu">
-
-
-<!ENTITY customizeMode.lwthemes "Temas">
-
-<!ENTITY customizeMode.lwthemes.recommended "Racumandadu">
 
 
 
@@ -816,13 +736,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY trackingContentBlocked.learnMore "Nde chèrgio ischire de prus">
-<!ENTITY trackingContentBlocked.options "Optziones">
-
-
-
-
-
 
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
@@ -833,6 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
+
 
 <!ENTITY uiTour.infoPanel.close "Serra">
 
@@ -848,10 +762,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The translation should do the same. -->
 
 
-
-
-
-<!ENTITY panicButton.view.undoWarning             "Custa atzione no la podes annullare.">
 
 
 

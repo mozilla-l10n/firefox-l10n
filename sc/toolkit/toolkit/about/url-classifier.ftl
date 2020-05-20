@@ -6,5 +6,6 @@ url-classifier-provider-update-btn = Agiornamentu
 url-classifier-cache-title = Cache
 url-classifier-cache-clear-btn = Isbòida
 url-classifier-cache-show-entries = Ammustra is detàllios
+
 url-classifier-enabled = Ativadu
 url-classifier-disabled = Disativadu

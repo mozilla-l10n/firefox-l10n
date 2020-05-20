@@ -26,6 +26,7 @@ fonts-langgroup-korean =
 
 fonts-default-serif =
     .label = Serif
+
 fonts-minsize-none =
     .label = Nudda
 
@@ -46,3 +47,4 @@ fonts-languages-fallback-name-turkish =
     .label = Turcu
 fonts-languages-fallback-name-vietnamese =
     .label = Vietnamita
+

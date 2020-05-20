@@ -4,12 +4,9 @@
 
 certmgr-tab-people =
     .label = Pessones
+
 certmgr-cert-server =
     .label = Server
-certmgr-begins-value =
-    .value = { certmgr-begins-label.label }
-certmgr-expires-value =
-    .value = { certmgr-expires-label.label }
 
 ## PKCS#12 file dialogs
 
@@ -28,3 +25,4 @@ certmgr-expires-value =
 
 ## Add Security Exception dialog
 
+## Certificate export "Save as" and error dialogs

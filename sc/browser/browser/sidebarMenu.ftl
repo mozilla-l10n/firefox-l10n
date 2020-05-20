@@ -4,7 +4,10 @@
 
 sidebar-menu-bookmarks =
     .label = Signa-libros
+
 sidebar-menu-history =
     .label = Cronologia
+
 sidebar-menu-synced-tabs =
     .label = Ischedas sincronizadas
+

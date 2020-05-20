@@ -122,8 +122,6 @@
 
 
 
-<!-- Monitor -->
-<!ENTITY monitor_help "Agiudu">
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
@@ -139,9 +137,6 @@
 
 <!-- Logs panel -->
 <!-- Simulator Options -->
-
-<!ENTITY simulator_reset "Torra a pònnere sos chi bi fuint sa prima borta">
-<!ENTITY simulator_name "Nùmene">
 
 
 

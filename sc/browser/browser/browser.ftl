@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+
 urlbar-identity-button =
     .aria-label = Visualiza informatziones de su situ
 
@@ -49,6 +50,7 @@ search-one-offs-change-settings-button =
     .label = Modìfica sa cunfiguratzione de chirca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Modìfica sa cunfiguratzione de chirca
+
 search-one-offs-context-open-new-tab =
     .label = Chirca in un'ischeda noa
     .accesskey = C
@@ -87,6 +89,8 @@ urlbar-placeholder =
     .placeholder = Chirca o inserta·nche un'indiritzu
 urlbar-switch-to-tab =
     .value = Bae a s'ischeda:
+
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Agiunta:
+

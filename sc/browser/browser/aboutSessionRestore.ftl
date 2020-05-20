@@ -3,14 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 restore-page-tab-title = Ripristina sa sessione
+
 # When tabs are distributed across multiple windows, this message is used as a
 # header above the group of tabs for each window.
 #
 # Variables:
 #    $windowNumber: Progressive number associated to each window
 restore-page-window-label = Ventana { $windowNumber }
+
 restore-page-restore-header =
     .label = Ripristina
+
 restore-page-list-header =
     .label = Ventanas e ischedas
 
@@ -19,4 +22,6 @@ restore-page-list-header =
 welcome-back-tab-title = Revèntida!
 welcome-back-page-title = Revèntida!
 welcome-back-page-info = { -brand-short-name } est prontu.
+
 welcome-back-restore-some-label = Ripristina petzi sas chi cheres
+

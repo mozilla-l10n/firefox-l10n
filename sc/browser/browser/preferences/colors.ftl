@@ -6,3 +6,4 @@ colors-page-override-option-always =
     .label = Semper
 colors-page-override-option-never =
     .label = Mai
+

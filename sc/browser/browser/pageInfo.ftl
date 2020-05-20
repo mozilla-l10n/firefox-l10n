@@ -5,19 +5,24 @@
 menu-copy =
     .label = Còpia
     .accesskey = C
+
 menu-select-all =
     .label = Seletziona totu
     .accesskey = S
+
 general-meta-name =
     .label = Nùmene
 general-meta-content =
     .label = Cuntatos
+
 media-address =
     .label = Indiritzu
 media-size =
     .label = Mannària
+
 security-view-unknown = Disconnotu
     .value = Disconnotu
+
 help-button =
     .label = Agiudu
 
@@ -32,4 +37,6 @@ media-bg-img = A-de-segus
 media-video = Vìdeu
 saved-passwords-yes = Eja
 saved-passwords-no = Nono
+
 security-no-visits = Nono
+

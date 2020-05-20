@@ -13,7 +13,10 @@
 
 devinfo-status-disabled =
     .label = Disativadu
+
 devinfo-desc =
     .label = Descritzione
+
 devinfo-label =
     .label = Eticheta
+

@@ -4,7 +4,9 @@
 
 pictureinpicture-play =
     .aria-label = Reprodue
+
 pictureinpicture-mute =
     .aria-label = A sa muda
 pictureinpicture-unmute =
     .aria-label = Ativa àudio
+

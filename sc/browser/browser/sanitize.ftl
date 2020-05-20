@@ -13,8 +13,10 @@
 
 clear-time-duration-value-today =
     .label = Oe
+
 clear-time-duration-value-everything =
     .label = Cale si siat cosa
+
 clear-time-duration-suffix =
     .value = { "" }
 
@@ -22,4 +24,6 @@ clear-time-duration-suffix =
 ## to select the items to remove
 
 history-section-label = Cronologia
+
 sanitize-everything-undo-warning = Custa atzione no la podes annullare.
+

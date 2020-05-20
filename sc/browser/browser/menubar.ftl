@@ -35,27 +35,6 @@ menu-file-print-setup =
 menu-edit =
     .label = Modìfica
     .accesskey = M
-menu-edit-undo =
-    .label = Iscontza
-    .accesskey = I
-menu-edit-redo =
-    .label = Torra a fàghere
-    .accesskey = R
-menu-edit-cut =
-    .label = Sega
-    .accesskey = S
-menu-edit-copy =
-    .label = Còpia
-    .accesskey = C
-menu-edit-paste =
-    .label = Incolla
-    .accesskey = I
-menu-edit-delete =
-    .label = Cantzella
-    .accesskey = C
-menu-edit-select-all =
-    .label = Seletziona totu
-    .accesskey = S
 
 ## View Menu
 

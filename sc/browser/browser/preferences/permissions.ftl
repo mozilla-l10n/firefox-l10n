@@ -6,6 +6,7 @@ permissions-capabilities-allow =
     .label = Permite
 permissions-capabilities-block =
     .label = Bloca
+
 permissions-capabilities-listitem-allow =
     .value = Permite
 permissions-capabilities-listitem-block =
@@ -32,11 +33,15 @@ permissions-capabilities-listitem-block =
 ## Exceptions - Autoplay Media
 
 
+## Site Permissions - Autoplay
+
 ## Site Permissions - Notifications
 
 
 ## Site Permissions - Location
 
+
+## Site Permissions - Virtual Reality
 
 ## Site Permissions - Camera
 
