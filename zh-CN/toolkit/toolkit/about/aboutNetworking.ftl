@@ -57,7 +57,6 @@ rcwn-avg-long = 长操作平均
 rcwn-std-dev-long = 长操作标准差
 rcwn-cache-slow = 缓存较慢次数
 rcwn-cache-not-slow = 缓存非慢次数
-
 about-networking-title = 关于网络连接
 about-networking-http = HTTP
 about-networking-sockets = 套接字
@@ -80,6 +79,7 @@ about-networking-family = 协议族
 about-networking-trr = TRR
 about-networking-addresses = 地址
 about-networking-expires = 过期时间 (秒)
+about-networking-originAttributesSuffix = 隔离键(值)
 about-networking-messages-sent = 发出的信息数
 about-networking-messages-received = 收到的信息数
 about-networking-bytes-sent = 发送字节数
