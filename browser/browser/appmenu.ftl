@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Protezioni per la privacy
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Vai al rapporto privacy
+appmenuitem-protection-dashboard-title = Dashboard protezioni
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
