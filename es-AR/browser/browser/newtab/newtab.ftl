@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = Buscar
     .aria-label = Buscar
-
 newtab-search-box-search-the-web-text = Buscar en la web
 newtab-search-box-search-the-web-input =
     .placeholder = Buscar en la web
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = Editar sitio más visitado
 newtab-topsites-title-label = Título
 newtab-topsites-title-input =
     .placeholder = Ingresar un título
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = Escribir o pegar URL
 newtab-topsites-url-validation = Se requiere URL válida
-
 newtab-topsites-image-url-label = URL de Imagen personalizada
 newtab-topsites-use-image-link = Usar imagen personalizada…
 newtab-topsites-image-validation = La imagen no se pudo cargar. Pruebe una URL diferente.
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = Esta acción no puede deshacerse.
 newtab-menu-section-tooltip =
     .title = Abrir menú
     .aria-label = Abrir menú
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Eliminar
     .aria-label = Eliminar
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -94,6 +89,7 @@ newtab-menu-show-privacy-info = Nuestros patrocinadores y su privacidad
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Listo
+newtab-privacy-modal-button-manage = Administrar la configuración de contenido patrocinado
 newtab-privacy-modal-header = Su privacidad es importante.
 newtab-privacy-modal-paragraph-2 =
     Además de ofrecer historias cautivadoras, también le vamos a mostrar información relevante,
@@ -136,11 +132,14 @@ newtab-label-removed-bookmark = Marcador eliminado
 newtab-label-recommended = Tendencias
 newtab-label-saved = Guardado en { -pocket-brand-name }
 newtab-label-download = Descargada
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
 newtab-label-sponsored = { $sponsorOrSource } · Patrocinado
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Patrocinado por { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -174,12 +173,10 @@ newtab-section-header-pocket = Recomendado por { $provider }
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = Comenzá a navegar y te mostraremos algunos de los mejores artículos, videos y otras páginas que hayás visitado o marcado acá.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = Ya te pusiste al día. Volvé más tarde para más historias de { $provider }. ¿No podés esperar? Seleccioná un tema popular para encontrar más historias de todo el mundo.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
