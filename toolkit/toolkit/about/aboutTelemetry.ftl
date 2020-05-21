@@ -20,7 +20,7 @@ about-telemetry-current-store = 目前的儲存區:
 about-telemetry-more-information = 想了解更多嗎？
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefox Data Documentation</a> 當中描述了我們使用資料工具的方式。
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry 客戶端文件</a>當中包含資料收集概念、API 文件以及資料格式的參考資料。
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry 儀表板</a>讓您可將 Mozilla 透過 Telemetry 收集到的資料以視覺化的方式呈現。
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry 儀錶板</a>讓您可將 Mozilla 透過 Telemetry 收集到的資料以視覺化的方式呈現。
 about-telemetry-telemetry-probe-dictionary = <a data-l10n-name="probe-dictionary-link">Probe Dictionary</a> 當中提供 Telemetry 所收集的探測資料的詳細資訊與說明。
 about-telemetry-show-in-Firefox-json-viewer = 用 JSON 檢視器開啟
 about-telemetry-home-section = 首頁
