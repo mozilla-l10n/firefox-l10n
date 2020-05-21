@@ -57,7 +57,6 @@ rcwn-avg-long = Talemmast ɣezzifet
 rcwn-std-dev-long = Amgared tizeɣt muqren
 rcwn-cache-slow = Amḍan n tuffirt ẓẓayen
 rcwn-cache-not-slow = Amdan n tuffirt ur nelli ẓẓayet
-
 about-networking-title = Talɣut ɣef uẓeṭṭa
 about-networking-http = HTTP
 about-networking-sockets = Igrudmawen
@@ -80,6 +79,7 @@ about-networking-family = Tawacult
 about-networking-trr = TRR
 about-networking-addresses = Tansiwin
 about-networking-expires = Ad immet (tasinin)
+about-networking-originAttributesSuffix = Tasarut n uɛzal
 about-networking-messages-sent = Iznan iţwacegɛen
 about-networking-messages-received = Iznan ţwarmsen-d
 about-networking-bytes-sent = Iṭamḍanen iţwaceggɛen

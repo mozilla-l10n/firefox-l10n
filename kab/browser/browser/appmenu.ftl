@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Taɣellist n tbaḍnit
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ddu ɣer uneqqis ɣef ummesten n tudert-ik tabadnit.
+appmenuitem-protection-dashboard-title = Ammesten n tfelwit n usenqed
 
 ## Zoom Controls
 
