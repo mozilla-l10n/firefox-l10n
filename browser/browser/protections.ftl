@@ -45,8 +45,11 @@ etp-card-title = Rozšířená ochrana proti sledování
 etp-card-content = Sledovací prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
 protection-report-webpage-title = Přehled ochrany soukromí
 protection-report-page-content-title = Přehled ochrany soukromí
+protection-report-page-summary = { -brand-short-name } chrání vaše soukromí během prohlížení. Toto je přehled ochranných opatření a nástrojů, se kterými máte kontrolu nad svým online zabezpečením.
+protection-report-settings-link = Nastavení soukromí a zabezpečení
 etp-card-title-always = Rozšířená ochrana proti sledování: vždy zapnutá
 etp-card-title-custom-not-blocking = Rozšířená ochrana proti sledování: vypnutá
+etp-card-content-description = { -brand-short-name } automaticky zabrání společnostem v tajném sledování vašeho prohlížení webu.
 protection-report-etp-card-content-custom-not-blocking =
     Všechny ochrany jsou v tuto chvíli vypnuté. V nastavení { -brand-short-name.gender ->
         [masculine] { -brand-short-name(case: "gen") }
