@@ -57,7 +57,6 @@ rcwn-avg-long = Long Average
 rcwn-std-dev-long = Long Standard Deviation
 rcwn-cache-slow = Cache slow count
 rcwn-cache-not-slow = Cache not slow count
-
 about-networking-title = About Networking
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = Family
 about-networking-trr = TRR
 about-networking-addresses = Addresses
 about-networking-expires = Expires (Seconds)
+about-networking-originAttributesSuffix = Isolation Key
 about-networking-messages-sent = Messages Sent
 about-networking-messages-received = Messages Received
 about-networking-bytes-sent = Bytes Sent
