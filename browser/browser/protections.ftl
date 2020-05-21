@@ -41,7 +41,7 @@ protection-report-page-summary = { -brand-short-name } può proteggere la tua pr
 protection-report-settings-link = Gestisci le impostazioni relative a privacy e sicurezza
 etp-card-title-always = Protezione antitracciamento avanzata: sempre attiva
 etp-card-title-custom-not-blocking = Protezione antitracciamento avanzata: DISATTIVATA
-etp-card-content-summary = { -brand-short-name } blocca molte società sconosciute che, di nascosto, cercano di seguire le tue attività sul Web.
+etp-card-content-description = { -brand-short-name } blocca automaticamente le società che, di nascosto, cercano di seguire le tue attività sul Web.
 protection-report-etp-card-content-custom-not-blocking = Tutte le protezioni sono attualmente disattivate. Scegli quali elementi traccianti bloccare nelle impostazioni di { -brand-short-name }.
 protection-report-manage-protections = Gestisci impostazioni
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
