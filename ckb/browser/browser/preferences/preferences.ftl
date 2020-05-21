@@ -84,6 +84,12 @@ search-results-header = گەڕانی ئەنجامەکان
 ## General Section
 
 startup-header = دەستپێکردن
+get-started-configured = هەڵبژاردنەکانی { -sync-brand-short-name } بکەرەوە
+always-check-default =
+    .label = هەموو کات چێکی ئەوە بکە کە { -brand-short-name } وێبگەڕی بنەڕەتییە
+    .accesskey = y
+is-default = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتییە
+is-not-default = { -brand-short-name } ئێستا وێبگەڕی بنەڕەتی نیە
 set-as-my-default-browser =
     .label = بیکە بنەڕەتی...
     .accesskey = D
@@ -150,6 +156,9 @@ translate-attribution = وەرگێردراوە لە لایەن <img data-l10n-na
 translate-exceptions =
     .label = هەڵاوێردی...
     .accesskey = x
+check-user-spelling =
+    .label = چێکی نووسین بکات کاتێک بۆ دەنووسیت
+    .accesskey = t
 
 ## General Section - Files and Applications
 
@@ -194,6 +203,13 @@ applications-use-app =
 #   $app-name (String) - Name of an application (e.g Adobe Acrobat)
 applications-use-app-default =
     .label = { $app-name } بەکاربێنە (بنەڕەتی)
+applications-use-os-default =
+    .label =
+        { PLATFORM() ->
+            [macos] داوانامەی بنەڕەتی macOS بەکاربێنە
+            [windows] داوانامەی بنەڕەتی ویندۆز بەکاربێنە
+           *[other] داوانامەی بنەڕەتی سیستم بەکاربێنە
+        }
 applications-use-other =
     .label = هیتر بەکاربێنە...
 applications-select-helper = داوانامەی یارمەتیدەر هەڵبژێرە
@@ -212,6 +228,14 @@ applications-type-description-with-type = { $type-description } ({ $type })
 #   $extension (String) - file extension (e.g .TXT)
 #   $type (String) - the MIME type (e.g application/binary)
 applications-file-ending-with-type = { applications-file-ending } ({ $type })
+# Variables:
+#   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
+applications-use-plugin-in =
+    .label = { $plugin-name } بەکاربێنە (لەناو { -brand-short-name })
+applications-preview-inapp =
+    .label = پێشبینین لە { -brand-short-name }
+applications-open-inapp =
+    .label = کردنەوە لە { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -255,12 +279,28 @@ update-in-progress-title = نوێکاریی لە کاردایە
 
 ## General Section - Performance
 
+performance-settings-learn-more = زیاتر بزانە
 
 ## General Section - Browsing
 
+browsing-use-autoscroll =
+    .label = جوڵاندنی خۆکار بەکاربێنە
+    .accesskey = a
+browsing-use-smooth-scrolling =
+    .label = جوڵاندنی ئاسان بەکاربێنە
+    .accesskey = m
+browsing-search-on-start-typing =
+    .label = بگەڕێ بۆ پیت کاتێک دۆ دەستپێدەکەی بە نووسین
+    .accesskey = x
+browsing-picture-in-picture-toggle-enabled =
+    .label = دەستپێگەیشتنی ڤیدیۆیی وێنە-لەناو-وێنە چالاک بکە
+    .accesskey = E
 
 ## General Section - Proxy
 
+network-proxy-connection-settings =
+    .label = ڕێکخستنەکان...
+    .accesskey = e
 
 ## Home Section
 
