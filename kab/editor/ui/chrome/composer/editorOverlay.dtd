@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "Ẓ">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Tasefsit">
 <!ENTITY FontFaceSelect.tooltip "Fren tasefsit">
 <!ENTITY fontfaceMenu.label "Tasefsit">
 <!ENTITY fontfaceMenu.accesskey "s">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Teɣzi n tsefsit">
 <!ENTITY FontSizeSelect.tooltip "Fren teɣzi n tsefsit">
 <!ENTITY decreaseFontSize.label "Meẓẓi">
 <!ENTITY decreaseFontSize.accesskey "M">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Timeẓliyin n tebdart…">
 <!ENTITY listPropsCmd.accesskey "ẓ">
 
+<!ENTITY ParagraphSelect.title "Taseddart">
 <!ENTITY ParagraphSelect.tooltip "Fren amasal n tessadaṛt">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Aḍris n tfekka">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Tissi">
+<!ENTITY decreaseZIndex.label "Err-it ɣer ugilal">
 <!ENTITY layerSendToBack.tooltip "Err-it ɣer ugilal">
+<!ENTITY increaseZIndex.label "Awi-t-id ɣer sdat">
 <!ENTITY layerBringToFront.tooltip "Awi-t-id ɣer zdat">
 
 <!ENTITY increaseIndent.label "Rnu arigel">
@@ -304,13 +309,16 @@
 <!ENTITY linkToolbarCmd.tooltip "Ger aseɣwen amaynut neɣ ẓreg timeẓliyin n useɣwen yettwafernen">
 <!ENTITY anchorToolbarCmd.label "Tamdeyt">
 <!ENTITY anchorToolbarCmd.tooltip "Ger tamdeyt tamaynut neɣ ẓreg timeẓliyin n temdeyt yettwafernen">
+<!ENTITY colorButtons.title "Initen">
 <!ENTITY TextColorButton.tooltip "Fren ini i weḍris">
 <!ENTITY BackgroundColorButton.tooltip "Fren ini i ugilal">
 <!ENTITY throbber.tooltip "Ddu ɣer usebter agejdan n &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ddu ɣer usebter agejdan n &brandShortName;">
+<!ENTITY HighlightColorButton.label "Aqerru">
 <!ENTITY HighlightColorButton.tooltip "Fren ini n usebruṛeq n uḍris">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Teɣzi n tsefsit">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Sbadu teɣzi n tesefsit">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Teɣzi n tsefsit tamezyant">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Teɣzi n tsefsit meqqren">
