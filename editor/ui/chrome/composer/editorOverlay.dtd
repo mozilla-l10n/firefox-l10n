@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "M">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Police">
 <!ENTITY FontFaceSelect.tooltip "Choisir une police">
 <!ENTITY fontfaceMenu.label "Police de caractères">
 <!ENTITY fontfaceMenu.accesskey "P">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Taille de police">
 <!ENTITY FontSizeSelect.tooltip "Choisir la taille d’une police">
 <!ENTITY decreaseFontSize.label "Plus petite">
 <!ENTITY decreaseFontSize.accesskey "u">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Listes…">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Paragraphe">
 <!ENTITY ParagraphSelect.tooltip "Choisir un format de paragraphe">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Texte principal">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Justifier">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Position">
 <!ENTITY layer.tooltip "Niveaux">
+<!ENTITY decreaseZIndex.label "Mettre à l’arrière-plan">
 <!ENTITY layerSendToBack.tooltip "Mettre à l’arrière-plan">
+<!ENTITY increaseZIndex.label "Mettre au premier plan">
 <!ENTITY layerBringToFront.tooltip "Mettre au premier plan">
 
 <!ENTITY increaseIndent.label "Augmenter le retrait">
@@ -304,6 +310,7 @@
 <!ENTITY linkToolbarCmd.tooltip "Insérer un nouveau lien ou modifier les propriétés du lien sélectionné">
 <!ENTITY anchorToolbarCmd.label "Ancre">
 <!ENTITY anchorToolbarCmd.tooltip "Insérer une ancre nommée ou modifier les propriétés de l’ancre sélectionnée">
+<!ENTITY colorButtons.title "Couleurs">
 <!ENTITY TextColorButton.tooltip "Choisir la couleur du texte">
 <!ENTITY BackgroundColorButton.tooltip "Choisir une couleur pour le fond">
 <!ENTITY throbber.tooltip "Visiter le site web de &vendorShortName;">
@@ -311,21 +318,37 @@
 <!ENTITY HighlightColorButton.tooltip "Choisir la mise en couleur pour le texte">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Taille de police">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Définir la taille de police">
+<!ENTITY smaller.label "Plus petite">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Réduire la taille de police">
+<!ENTITY larger.label "Plus grande">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Augmenter la taille de police">
+<!ENTITY bold.label "Gras">
 <!ENTITY boldToolbarCmd.tooltip "Gras">
+<!ENTITY italic.label "Italique">
 <!ENTITY italicToolbarCmd.tooltip "Italique">
+<!ENTITY underline.label "Souligné">
 <!ENTITY underlineToolbarCmd.tooltip "Souligné">
+<!ENTITY bullets.label "Puces">
 <!ENTITY bulletListToolbarCmd.tooltip "Appliquer ou enlever une liste">
+<!ENTITY numbers.label "Numérotation">
 <!ENTITY numberListToolbarCmd.tooltip "Appliquer ou enlever une liste numérotée">
+<!ENTITY outdent.label "Diminuer le retrait">
 <!ENTITY outdentToolbarCmd.tooltip "Diminuer le retrait (vers la gauche)">
+<!ENTITY indent.label "Augmenter le retrait">
 <!ENTITY indentToolbarCmd.tooltip "Augmenter le retrait (vers la droite)">
+<!ENTITY AlignPopupButton.label "Alignement">
 <!ENTITY AlignPopupButton.tooltip "Choisir l’alignement du texte">
+<!ENTITY InsertPopupButton.label "Insertion">
 <!ENTITY InsertPopupButton.tooltip "Insérer un lien, une ancre, une image, une ligne horizontale ou un tableau">
+<!ENTITY alignLeftButton.label "Aligner à gauche">
 <!ENTITY alignLeftButton.tooltip "Aligner le texte sur la marge de gauche">
+<!ENTITY alignCenterButton.label "Centrer">
 <!ENTITY alignCenterButton.tooltip "Centrer le texte">
+<!ENTITY alignRightButton.label "Aligner à droite">
 <!ENTITY alignRightButton.tooltip "Aligner le texte sur la marge de droite">
+<!ENTITY alignJustifyButton.label "Justifier">
 <!ENTITY alignJustifyButton.tooltip "Aligner le texte sur les marges droites et gauches">
 
 <!-- Structure Toolbar Context Menu items -->
