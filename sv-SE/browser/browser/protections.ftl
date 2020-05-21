@@ -41,7 +41,7 @@ protection-report-page-summary = { -brand-short-name } kan skydda din integritet
 protection-report-settings-link = Hantera dina integritets och säkerhetsinställningar
 etp-card-title-always = Förbättrat spårningsskydd: Alltid på
 etp-card-title-custom-not-blocking = Förbättrat spårningsskydd: Av
-etp-card-content-summary = När okända företag försöker följa dig hemligt på nätet stoppar { -brand-short-name } automatiskt många av dem.
+etp-card-content-description = { -brand-short-name } stoppar automatiskt företag från att i hemlighet följa dig på nätet.
 protection-report-etp-card-content-custom-not-blocking = Alla skydd är för närvarande avstängda. Välj vilka spårare som ska blockeras genom att hantera dina { -brand-short-name }-skyddsinställningar.
 protection-report-manage-protections = Hantera inställningar
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
