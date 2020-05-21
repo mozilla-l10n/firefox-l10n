@@ -255,6 +255,8 @@ applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -276,13 +278,22 @@ update-application-manual =
     .label = هیچ کاتێک چێکی نوێکاری مەکە (پێشنیارکراو نیە)
     .accesskey = N
 update-in-progress-title = نوێکاریی لە کاردایە
+update-in-progress-ok-button = &هەڵیبوەشینەوە
+# Continue is the cancel button so pressing escape or using a platform standard
+# method of closing the UI will not discard the update.
+update-in-progress-cancel-button = &بەردەوام بە
 
 ## General Section - Performance
 
 performance-settings-learn-more = زیاتر بزانە
+# Variables:
+#   $num - default value of the `dom.ipc.processCount` pref.
+performance-default-content-process-count =
+    .label = { $num } (بنەڕەت)
 
 ## General Section - Browsing
 
+browsing-title = گەڕان
 browsing-use-autoscroll =
     .label = جوڵاندنی خۆکار بەکاربێنە
     .accesskey = a
@@ -295,24 +306,108 @@ browsing-search-on-start-typing =
 browsing-picture-in-picture-toggle-enabled =
     .label = دەستپێگەیشتنی ڤیدیۆیی وێنە-لەناو-وێنە چالاک بکە
     .accesskey = E
+browsing-picture-in-picture-learn-more = زیاتر بزانە
+browsing-cfr-recommendations =
+    .label = زیادکراوەکان پێشنیازبکە کاتێک دەگەڕێم
+    .accesskey = R
+browsing-cfr-features =
+    .label = تایبەتمەندییەکان پێشنیازبکە کاتێک دەگەڕێم
+    .accesskey = f
+browsing-cfr-recommendations-learn-more = زیاتر بزانە
 
 ## General Section - Proxy
 
+network-settings-title = ڕێکخستنی ڕایەڵە
+network-proxy-connection-description = ڕێکی بخە کە چۆن { -brand-short-name } پەویوەندی ببەستێت بە ئینتەرنێتەوە.
+network-proxy-connection-learn-more = زیاتر بزانە
 network-proxy-connection-settings =
     .label = ڕێکخستنەکان...
     .accesskey = e
 
 ## Home Section
 
+home-new-windows-tabs-header = پەنجەرە و بازدەری نوێ
+home-new-windows-tabs-description2 = دەتەوێت چی ببینی کاتێک پەڕەی سەرەکی دەکرێتەوە، لە پەنجەرەی نوێ،یان بازدەری نوێ.
 
 ## Home Section - Home Page Customization
 
+home-homepage-mode-label = پەڕەی سەرەکی و بازدەرەکان
+home-newtabs-mode-label = بازدەری نوێ
+home-restore-defaults =
+    .label = بنەرەتی بهێنەوە
+    .accesskey = R
+# "Firefox" should be treated as a brand and kept in English,
+# while "Home" and "(Default)" can be localized.
+home-mode-choice-default =
+    .label = پەڕەی سەرەکی فایەرفۆکس (بنەڕەت)
+home-mode-choice-custom =
+    .label = بەستەری خوازراو...
+home-mode-choice-blank =
+    .label = پەڕەی بۆش
+home-homepage-custom-url =
+    .placeholder = بەستەر بلکێنە...
+# This string has a special case for '1' and [other] (default). If necessary for
+# your language, you can add {$tabCount} to your translations and use the
+# standard CLDR forms, or only use the form for [other] if both strings should
+# be identical.
+use-current-pages =
+    .label =
+        { $tabCount ->
+            [1] پەڕەی ئێستا بەکاربێنە
+            [one] پەڕەی ئێستا بەکاربێنە
+           *[other] پەڕەی ئێستا بەکاربێنە
+        }
+    .accesskey = C
+choose-bookmark =
+    .label = دڵخوازەکان بەکاربێنە...
+    .accesskey = B
 
 ## Home Section - Firefox Home Content Customization
 
+home-prefs-content-header = ناوەڕۆکی سەرەکی فایەرفۆکس
+home-prefs-search-header =
+    .label = گەڕانی وێب
+home-prefs-topsites-header =
+    .label = ماڵپەڕە سەرەکییەکان
+home-prefs-topsites-description = ئەو ماڵپەڕانەی زۆرترین سەردانت کردوون
+# Variables:
+#  $provider (String): Name of the corresponding content provider, e.g "Pocket".
+home-prefs-recommended-by-header =
+    .label = پێشنیازکراوە لە لایەن { $provider }
+home-prefs-recommended-by-description = ناوەڕۆکێکی گرنگ لە وێب، تایبەتکراوە بۆ تۆ
+home-prefs-recommended-by-learn-more = چۆن کار دەکات
+home-prefs-recommended-by-option-sponsored-stories =
+    .label = چیرۆکی سپۆنسەرکراو
+home-prefs-highlights-header =
+    .label = نیشانەکردن
+home-prefs-highlights-description = هەڵبژاردەیەک لەو ماڵپەڕانەی کە سەردانت کردوون یان پاشەکەوتت کردوون
+home-prefs-highlights-option-visited-pages =
+    .label = پەڕەی سەردانکراو
+home-prefs-highlights-options-bookmarks =
+    .label = دڵخوازەکان
+home-prefs-highlights-option-most-recent-download =
+    .label = دوواترین داگرتن
+home-prefs-highlights-option-saved-to-pocket =
+    .label = پەڕە پاشەکەوت دەکرێت لە { -pocket-brand-name }
+# For the "Snippets" feature traditionally on about:home.
+# Alternative translation options: "Small Note" or something that
+# expresses the idea of "a small message, shortened from something else,
+# and non-essential but also not entirely trivial and useless.
+home-prefs-snippets-header =
+    .label = گرتەکان
+home-prefs-snippets-description = نوێکردنەوە لە { -vendor-short-name } و { -brand-product-name }
+home-prefs-sections-rows-option =
+    .label =
+        { $num ->
+            [one] { $num } ڕیز
+           *[other] { $num } ڕیز
+        }
 
 ## Search Section
 
+search-bar-header = شریتی گەڕان
+search-bar-hidden =
+    .label = شیتی ناونیشان بەکاربێنە بۆ گەڕان و دۆزینەوە
 
 ## Containers Section
 
