@@ -57,7 +57,6 @@ rcwn-avg-long = Langt gjennomsnitt
 rcwn-std-dev-long = Langt standardavvik
 rcwn-cache-slow = Antall langsom cache
 rcwn-cache-not-slow = Antall ikke-langsom cache
-
 about-networking-title = Om nettverk
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = Family
 about-networking-trr = TRR
 about-networking-addresses = Adresser
 about-networking-expires = Utgår (sekunder)
+about-networking-originAttributesSuffix = Isolasjonsnøkkel
 about-networking-messages-sent = Meldinger sendt
 about-networking-messages-received = Meldinger mottatt
 about-networking-bytes-sent = Bytes sendt
