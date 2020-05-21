@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Tiger">
 <!ENTITY smiley16Cmd.accesskey "e">
 <!ENTITY smiley16Cmd.tooltip "Infoga ett tigande ansiktsuttryck">
+<!ENTITY SmileButton.label "Infoga smiley">
 <!ENTITY SmileButton.tooltip "Infoga ett leende ansiktsuttryck">
-

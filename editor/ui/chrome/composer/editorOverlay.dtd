@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "ä">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Teckensnitt">
 <!ENTITY FontFaceSelect.tooltip "Välj teckensnitt">
 <!ENTITY fontfaceMenu.label "Teckensnitt">
 <!ENTITY fontfaceMenu.accesskey "T">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Teckenstorlek">
 <!ENTITY FontSizeSelect.tooltip "Välj teckenstorlek">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Egenskaper för lista">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Stycke">
 <!ENTITY ParagraphSelect.tooltip "Välj ett styckeformat">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Brödtext">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Utsluten sats">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Positionering">
 <!ENTITY layer.tooltip "Absolut positionering">
+<!ENTITY decreaseZIndex.label "Placera längst bak">
 <!ENTITY layerSendToBack.tooltip "Placera bakom">
+<!ENTITY increaseZIndex.label "Placera längst fram">
 <!ENTITY layerBringToFront.tooltip "Placera framför">
 
 <!ENTITY increaseIndent.label "Öka indrag">
@@ -304,27 +310,44 @@
 <!ENTITY linkToolbarCmd.tooltip "Infoga ny länk eller ändra egenskaperna för markerad länk">
 <!ENTITY anchorToolbarCmd.label "Ankare">
 <!ENTITY anchorToolbarCmd.tooltip "Infoga ett nytt namngivet ankare eller ändra egenskaperna för markerat ankare">
+<!ENTITY colorButtons.title "Färger">
 <!ENTITY TextColorButton.tooltip "Välj färg för texten">
 <!ENTITY BackgroundColorButton.tooltip "Välj färg för bakgrunden">
 <!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
 <!ENTITY throbber.tooltip2 "Gå till &brandShortName; hemsida">
+<!ENTITY HighlightColorButton.label "Överstrykningspenna">
 <!ENTITY HighlightColorButton.tooltip "Välj markeringsfärg för text">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Teckenstorlek">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ange teckenstorlek">
+<!ENTITY smaller.label "Mindre">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mindre teckenstorlek">
+<!ENTITY larger.label "Större">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Större teckenstorlek">
+<!ENTITY bold.label "Fet">
 <!ENTITY boldToolbarCmd.tooltip "Halvfet">
+<!ENTITY italic.label "Kursiv">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
+<!ENTITY underline.label "Understruken">
 <!ENTITY underlineToolbarCmd.tooltip "Understruken">
+<!ENTITY bullets.label "Punktlista">
 <!ENTITY bulletListToolbarCmd.tooltip "Tillämpa eller ta bort lista med bomber">
+<!ENTITY numbers.label "Numrerad">
 <!ENTITY numberListToolbarCmd.tooltip "Tillämpa eller ta bort numrerad lista">
+<!ENTITY outdent.label "Minska indrag">
 <!ENTITY outdentToolbarCmd.tooltip "Dra ut text (flytta åt vänster)">
+<!ENTITY indent.label "Öka indrag">
 <!ENTITY indentToolbarCmd.tooltip "Dra in text (flytta åt höger)">
+<!ENTITY AlignPopupButton.label "Justering">
 <!ENTITY AlignPopupButton.tooltip "Välj kantställning">
+<!ENTITY InsertPopupButton.label "Infoga">
 <!ENTITY InsertPopupButton.tooltip "Infoga länk, ankare, bild, vågrät linje eller tabell">
+<!ENTITY alignLeftButton.label "Vänsterjustera">
 <!ENTITY alignLeftButton.tooltip "Vänsterställ texten">
+<!ENTITY alignCenterButton.label "Centrera">
 <!ENTITY alignCenterButton.tooltip "Centrera texten">
+<!ENTITY alignRightButton.label "Högerjustera">
 <!ENTITY alignRightButton.tooltip "Högerställ texten">
 <!ENTITY alignJustifyButton.tooltip "Justera (slå ut) texten">
 
