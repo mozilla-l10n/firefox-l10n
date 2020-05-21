@@ -57,7 +57,6 @@ rcwn-avg-long = Cyfartaledd Hir
 rcwn-std-dev-long = Gwyriad Safonol Hir
 rcwn-cache-slow = Cyfrif araf storfa dros dro
 rcwn-cache-not-slow = Cyfrif nid araf storfa dros dro
-
 about-networking-title = Ynghylch Rhwydweithio
 about-networking-http = HTTP
 about-networking-sockets = Socedi
@@ -80,6 +79,7 @@ about-networking-family = Teulu
 about-networking-trr = TRR
 about-networking-addresses = Cyfeiriad
 about-networking-expires = Daw i ben (Eiliadau)
+about-networking-originAttributesSuffix = Allwedd Ynysu
 about-networking-messages-sent = Negeseuon Anfonwyd
 about-networking-messages-received = Negeseuon Derbyniwyd
 about-networking-bytes-sent = Didau Wedi'u Hanfon
