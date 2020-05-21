@@ -19,6 +19,7 @@ about-private-browsing-info-clipboard = دەقی لەبەرگیراو
 about-private-browsing-info-temporary-files = پەڕگەی کاتیی
 about-private-browsing-info-cookies = شەکرۆکە
 tracking-protection-start-tour = بزانە چۆن کاردەکات
+about-private-browsing-note = گەڕانی تایبەت <strong>ناتکات بە کەسێکی شاراوە</strong> لە سەر ئینتەرنێت. خاوەن کارەکەت یان دابینکەری خزمەتگوزارییەکانت هێشتا دەتوانێت بزانێت سەردانی چ ماڵپەڕێک دەکەیت.
 about-private-browsing =
     .title = بە وێبدا بگەڕێ
 about-private-browsing-not-private = تۆ ئێستا لە پەنجەرەی تایبەت دا نیت.
