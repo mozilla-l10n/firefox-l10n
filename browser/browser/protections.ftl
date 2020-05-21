@@ -45,7 +45,7 @@ protection-report-page-summary = { -brand-short-name } móže wašu priwatnosć 
 protection-report-settings-link = Nastajenja priwatnosće a wěstoty rjadować
 etp-card-title-always = Polěpšeny slědowanski škit: přeco zmóžnjeny
 etp-card-title-custom-not-blocking = Polěpšeny slědowanski škit: ZNJEMÓŽNJENY
-etp-card-content-summary = Hdyž njeznate předewzaća pospytuja, wam skradźu po webje slědować, { -brand-short-name } wjele z nich awtomatisce blokuje.
+etp-card-content-description = { -brand-short-name } awtomatisce zadźěwa tomu, zo předewzaća wam skradźu po webje slěduja.
 protection-report-etp-card-content-custom-not-blocking = Kóždy škit je tuchwilu wotpinjeny. Wubjerće, kotre přesćěhowaki maja so přez rjadowanje wašich škitnych nastajenjow { -brand-short-name } blokować.
 protection-report-manage-protections = Nastajenja rjadować
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
