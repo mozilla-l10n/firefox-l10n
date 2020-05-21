@@ -57,7 +57,6 @@ rcwn-avg-long = 긴 평균
 rcwn-std-dev-long = 긴 표준 편차
 rcwn-cache-slow = 느린 캐시 횟수
 rcwn-cache-not-slow = 느리지 않은 캐시 횟수
-
 about-networking-title = 네트워크 정보
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = 계통
 about-networking-trr = TRR
 about-networking-addresses = 주소
 about-networking-expires = 만료(초)
+about-networking-originAttributesSuffix = 격리 키
 about-networking-messages-sent = 보낸 메시지
 about-networking-messages-received = 받은 메시지
 about-networking-bytes-sent = 보낸 바이트 수
