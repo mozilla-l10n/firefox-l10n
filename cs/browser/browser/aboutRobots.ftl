@@ -11,11 +11,11 @@
 # Nonsense line from the movie "The Day The Earth Stood Still". No translation needed.
 page-title = Gort! Klaatu barada nikto!
 # Movie: Logan's Run... Box (cyborg): "Welcome Humans! I am ready for you."
-error-title-text = Vítejte lidé!
+error-title-text = Vítejte, lidé!
 # Movie: The Day The Earth Stood Still. Spoken by Klaatu.
 error-short-desc-text = Přišli jsme vás navštívit v míru a přátelství!
 # Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics
-error-long-desc1 = Robot nesmí ublížit člověku nebo svou nečinností dopustit, aby mu bylo ublíženo.
+error-long-desc1 = Robot nesmí ublížit člověku nebo svou nečinností dopustit, aby bylo člověku ublíženo.
 # Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..."
 error-long-desc2 = Roboti viděli věci, kterým byste vy lidi nevěřili.
 # Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots.
