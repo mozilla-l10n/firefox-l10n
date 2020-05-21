@@ -6,7 +6,7 @@
 ## File Menu
 
 menu-file =
-    .label = مسل
+    .label = فائل
     .accesskey = F
 menu-file-new-tab =
     .label = نیا ٹیب

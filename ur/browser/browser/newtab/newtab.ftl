@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = تلاش
     .aria-label = تلاش
-
 newtab-search-box-search-the-web-text = ويب پر تلاش کريں
 newtab-search-box-search-the-web-input =
     .placeholder = ويب پر تلاش کريں
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = بہترین سائٹٹ کیی تدوین
 newtab-topsites-title-label = عنوان
 newtab-topsites-title-input =
     .placeholder = ایک عنوان داخل کریں
-
 newtab-topsites-url-label = URL
 newtab-topsites-url-input =
     .placeholder = ٹائپ کریں یا ایک URL چسباں کریں
 newtab-topsites-url-validation = جائز URL درکار ہے
-
 newtab-topsites-image-url-label = مخصوص نقش کا URL
 newtab-topsites-use-image-link = ایک مخصوص تصویر استعمال کریں…
 newtab-topsites-image-validation = نقش لوڈ ہونے میں ناکام رہا۔ براہ مہربانی ایک مختلف URL کو آزمائیں۔
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = یہ عمل کلعدم نہیں ہو سکتا
 newtab-menu-section-tooltip =
     .title = مینیو کھولیں
     .aria-label = مینیو کھولیں
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = ہٹائیں
     .aria-label = ہٹائیں
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -120,7 +115,7 @@ newtab-menu-show-file =
         [macos] تلاش کار میں دکھائیں
        *[other] حامل پوشہ کھولیں
     }
-newtab-menu-open-file = مسل کھولیں
+newtab-menu-open-file = فائلکھولیں
 
 ## Card Labels: These labels are associated to pages to give
 ## context on how the element is related to the user, e.g. type indicates that
@@ -132,7 +127,6 @@ newtab-label-removed-bookmark = نشانی ہٹا دی گئی
 newtab-label-recommended = رجحان سازی
 newtab-label-saved = { -pocket-brand-name } میں محفوظ شدہ
 newtab-label-download = ڈاؤن لوڈ شدہ
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
@@ -170,7 +164,6 @@ newtab-section-header-pocket = { $provider } کی جانب سے تجویز کر�
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = برائوزنگگ شروع کریں،اور ہم آپ کو کچھ بہترین عبارات، وڈیوز اور حالیہ دورہ شددہ دیگر صفحات یا نشانیاں دکھائیں گے۔
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 

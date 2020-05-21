@@ -344,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY inspectA11YContextMenu.label     "قابل رسائی کی خصوصیات کا معائنہ کریں">
 
-<!ENTITY fileMenu.label         "مسل">
+<!ENTITY fileMenu.label         "فائل">
 <!ENTITY fileMenu.accesskey       "F">
 
 <!ENTITY newUserContext.label             "نیا حامل ٹیب">
@@ -631,6 +631,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "Pocket میں محفوظ کریں">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "Pocket میں صفحات محوظ کریں">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "Pocket میں ربط محفوظ کریں">
