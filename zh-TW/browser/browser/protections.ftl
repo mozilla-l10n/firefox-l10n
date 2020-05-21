@@ -33,13 +33,13 @@ protection-report-page-title = 隱私保護
 protection-report-content-title = 隱私保護
 etp-card-title = 加強型追蹤保護
 etp-card-content = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
-protection-report-webpage-title = 保護資訊儀表板
-protection-report-page-content-title = 保護資訊儀表板
+protection-report-webpage-title = 保護資訊儀錶板
+protection-report-page-content-title = 保護資訊儀錶板
 protection-report-page-summary = 當您上網時，{ -brand-short-name } 可在背景保護您的隱私。以下是這些保護的個人摘要，以及能夠用來保護線上安全性的各種工具。
 protection-report-settings-link = 管理您的隱私權與安全性設定
 etp-card-title-always = 加強型追蹤保護: 總是開啟
 etp-card-title-custom-not-blocking = 加強型追蹤保護: 關閉
-etp-card-content-summary = 當有未知的公司嘗試偷偷在網路上追蹤您時，{ -brand-short-name } 會自動封鎖大部分的行為。
+etp-card-content-description = { -brand-short-name } 會自動封鎖讓大企業在網路上偷偷跟蹤您的程式。
 protection-report-etp-card-content-custom-not-blocking = 目前已關閉所有保護。請調整 { -brand-short-name } 保護設定，決定要封鎖哪些類型的追蹤器。
 protection-report-manage-protections = 管理設定
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
