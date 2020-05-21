@@ -134,6 +134,12 @@ monitor-header-content-no-account = { -monitor-brand-name } zkotrolujte, zda byl
 monitor-header-content-signed-in = { -monitor-brand-name } vás upozorní, pokud se nějaké vaše údaje objeví ve známém úniku dat.
 monitor-sign-up = Nastavit upozornění na úniky dat
 auto-scan = Automaticky skenováno: dnes
+monitor-emails-tooltip =
+    .title = Zobrazit e-mailové adresy sledované službou { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Zobrazit uniky dat známé službě { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Zobrazit ve službě { -monitor-brand-short-name } seznam uniklých hesel
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
