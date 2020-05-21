@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Motus">
 <!ENTITY smiley16Cmd.accesskey "t">
 <!ENTITY smiley16Cmd.tooltip "Insérer une émoticône Motus">
+<!ENTITY SmileButton.label "Insérer une émoticône">
 <!ENTITY SmileButton.tooltip "Choisir une émoticône">
-
