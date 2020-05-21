@@ -349,6 +349,7 @@
 <!ENTITY alignCenterButton.tooltip "Centrera texten">
 <!ENTITY alignRightButton.label "Högerjustera">
 <!ENTITY alignRightButton.tooltip "Högerställ texten">
+<!ENTITY alignJustifyButton.label "Marginaljustera">
 <!ENTITY alignJustifyButton.tooltip "Justera (slå ut) texten">
 
 <!-- Structure Toolbar Context Menu items -->
