@@ -41,7 +41,7 @@ protection-report-page-summary = ‏{ -brand-short-name } יכול להגן על
 protection-report-settings-link = ניהול הגדרות הפרטיות והאבטחה שלך
 etp-card-title-always = הגנת מעקב מתקדמת: תמיד פעילה
 etp-card-title-custom-not-blocking = הגנת מעקב מתקדמת: כבויה
-etp-card-content-summary = כשחברות בלתי ידועות מנסות לעקוב אחריך בסתר ברחבי הרשת, { -brand-short-name } חוסם רבים מהם באופן אוטומטי.
+etp-card-content-description = { -brand-short-name } מונע באופן אוטומטי מחברות לעקוב אחריך בסתר ברחבי הרשת.
 protection-report-etp-card-content-custom-not-blocking = כל ההגנות כבויות כרגע. ניתן לבחור באילו רכיבי מעקב יש לחסום על־ידי ניהול הגדרות ההגנות של { -brand-short-name }.
 protection-report-manage-protections = ניהול הגדרות
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,

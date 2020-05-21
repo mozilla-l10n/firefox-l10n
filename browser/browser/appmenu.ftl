@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = הגנות פרטיות
 appmenuitem-protection-report-tooltip =
     .tooltiptext = מעבר לדוח הפרטיות שלך
+appmenuitem-protection-dashboard-title = לוח הגנות
 
 ## Zoom Controls
 
