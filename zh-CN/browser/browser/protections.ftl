@@ -39,7 +39,7 @@ protection-report-page-summary = 当您上网时，{ -brand-short-name } 可在�
 protection-report-settings-link = 管理您的隐私与安全设置
 etp-card-title-always = 增强型跟踪保护：始终开启
 etp-card-title-custom-not-blocking = 增强型跟踪保护：关闭
-etp-card-content-summary = 当有未知公司企图在网上跟踪您时，{ -brand-short-name } 会自动阻止大部分的行为。
+etp-card-content-description = { -brand-short-name } 会自动阻止大公司在网上偷偷跟踪您。
 protection-report-etp-card-content-custom-not-blocking = 目前已关闭所有保护功能。通过管理 { -brand-short-name } 保护设置，即可选择要拦截的跟踪器。
 protection-report-manage-protections = 管理设置
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
