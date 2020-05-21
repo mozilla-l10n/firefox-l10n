@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Wid yettbeddan fell-aɣ akked tudert-ik tabaḍn
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Immed
+newtab-privacy-modal-button-manage = Sefrek iɣewwaren n ugbur yettwarefden
 newtab-privacy-modal-header = Aqadeṛ n tudert-ik tabaḍnit yeɛna-aɣ.
 newtab-privacy-modal-paragraph-2 = Ɣer tama n beṭṭu n teqsiḍin ijebbden, ad ak-d-nesken daɣen igburen usdiden akked wid yettbeddan fell-ak i d-nefren s telqay. Kkes aɣilif imi isefka-ik n tunigin ur teffɣen ara segunqal i tḥerzeḍ n { -brand-product-name }— ur ten-nettwali ara, ula d wid i yettbeddan fell-aɣ.
 newtab-privacy-modal-link = Lmed amek tettedu tbaḍnit deg yiccer amaynut
