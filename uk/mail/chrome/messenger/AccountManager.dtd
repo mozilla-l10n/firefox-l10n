@@ -6,7 +6,7 @@
 
 <!-- extracted from AccountManager.xhtml -->
 
-<!ENTITY accountManagerTitle.label "Параметри облікових записів">
+<!ENTITY accountManagerTitle.label "Налаштування облікового запису">
 
 <!ENTITY  accountManagerCloseButton.label "Закрити">
 

@@ -89,14 +89,7 @@
 <!ENTITY reorderAttachmentsCmd.accesskey "е">
 <!ENTITY reorderAttachmentsCmd.key "x">
 <!ENTITY toggleAttachmentPaneCmd.label "Панель вкладень">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.accesskey):
-     For better mnemonics, toggleAttachmentPaneCmd.accesskey should be the same
-     as attachments.accesskey. -->
 <!ENTITY toggleAttachmentPaneCmd.accesskey "в">
-<!-- LOCALIZATION NOTE (toggleAttachmentPaneCmd.key):
-     As Mac does not have access keys, this key defines a Mac-only, cross-l10n
-     shortcut key (Ctrl+M). Typically, this key should not be translated unless
-     otherwise required by specific needs of the localization. -->
 <!ENTITY toggleAttachmentPaneCmd.key "m">
 <!ENTITY selectAllCmd.label "Виділити все">
 <!ENTITY selectAllCmd.accesskey "с">
@@ -217,7 +210,7 @@
 <!ENTITY addressBookCmd.label "Адресна книга">
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd2.label "Параметри облікового запису…">
+<!ENTITY accountManagerCmd2.label "Налаштування облікового запису">
 <!ENTITY accountManagerCmd2.accesskey "м">
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
 <!ENTITY preferencesCmd2.label "Налаштування…">

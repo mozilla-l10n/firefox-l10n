@@ -27,8 +27,8 @@
 
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
-<!ENTITY actualSize.label "Початковий розмір:">
-<!ENTITY actualSizeRadio.label "Початковий розмір">
+<!ENTITY actualSize.label "Дійсний розмір:">
+<!ENTITY actualSizeRadio.label "Дійсний розмір">
 <!ENTITY actualSizeRadio.accessKey "о">
 <!ENTITY actualSizeRadio.tooltip "Повернутися до початкових розмірів зображення">
 <!ENTITY customSizeRadio.label "Задати розмір">

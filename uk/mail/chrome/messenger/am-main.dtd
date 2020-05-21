@@ -6,7 +6,7 @@
 
 <!-- extracted from am-main.xhtml -->
 
-<!ENTITY accountTitle.label "Параметри облікового запису">
+<!ENTITY accountTitle.label "Налаштування облікового запису">
 <!ENTITY accountName.label "Назва облікового запису:">
 <!ENTITY accountName.accesskey "І">
 <!ENTITY identityTitle.label "Ідентифікатор">
