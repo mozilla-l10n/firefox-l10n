@@ -320,20 +320,35 @@
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSize.label "Teɣzi n tsefsit">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Sbadu teɣzi n tesefsit">
+<!ENTITY smaller.label "Meẓẓiy">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Teɣzi n tsefsit tamezyant">
+<!ENTITY larger.label "Hraw">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Teɣzi n tsefsit meqqren">
+<!ENTITY bold.label "Zur">
 <!ENTITY boldToolbarCmd.tooltip "Zur">
+<!ENTITY italic.label "Uknan">
 <!ENTITY italicToolbarCmd.tooltip "Uknan">
+<!ENTITY underline.label "Derrer">
 <!ENTITY underlineToolbarCmd.tooltip "Derrer">
+<!ENTITY bullets.label "Ikurdan">
 <!ENTITY bulletListToolbarCmd.tooltip "Sness neɣ kkes tabdart n tneqqiḍin">
+<!ENTITY numbers.label "Imḍanen">
 <!ENTITY numberListToolbarCmd.tooltip "Snes neɣ kkes tabdart n wuṭṭunen">
+<!ENTITY outdent.label "">
 <!ENTITY outdentToolbarCmd.tooltip "Senɣes asiẓi (awi s azelmaḍ)">
+<!ENTITY indent.label "Rigel">
 <!ENTITY indentToolbarCmd.tooltip "Rigel aḍris (saẓ s ayeffus)">
+<!ENTITY AlignPopupButton.label "Areyyec">
 <!ENTITY AlignPopupButton.tooltip "Fren areyyec n uḍris">
+<!ENTITY InsertPopupButton.label "Ger">
 <!ENTITY InsertPopupButton.tooltip "Ger aseɣwen, ">
+<!ENTITY alignLeftButton.label "Reyyec s azelmaḍ">
 <!ENTITY alignLeftButton.tooltip "Reyyec aḍris ɣer tama tazelmaṭ">
+<!ENTITY alignCenterButton.label "Reyyec ɣer tlemmast">
 <!ENTITY alignCenterButton.tooltip "Reyyec aḍris ɣer tlemmast">
+<!ENTITY alignRightButton.label "Reyyec s ayeffus">
 <!ENTITY alignRightButton.tooltip "Reyyec aḍris ɣer tama tayeffust">
+<!ENTITY alignJustifyButton.label "Reyyec s triglwin">
 <!ENTITY alignJustifyButton.tooltip "Reyyec aḍris gar tama tazelmat akked tama tayeffust">
 
 <!-- Structure Toolbar Context Menu items -->
