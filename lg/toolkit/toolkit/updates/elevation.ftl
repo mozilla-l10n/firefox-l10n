@@ -11,3 +11,9 @@ elevation-error-manual = Osobola okutuukaganya { -brand-short-name } ggwe kennyi
 elevation-finished-page = Akatukaganya Katuse Okutteekamu
 elevation-finished-background-page = Eby'okuzza obuggya by'ebyokwerinda n'obutebenkevu bwa { -brand-short-name } biwanuddwa era birindilirwa kuteekebwako.
 elevation-finished-background = Akatuukaganya:
+elevation-more-elevated =
+    Eno update yetaga obuyinza bw'awagulu. Update ejja
+    kumaliriza oluddako nga { -brand-short-name } etandise. Oyinza okutandika
+    { -brand-short-name } kati, oba ne weyongerayo n'okukola n'obikola edda,
+    oba ggana eno
+    update.
