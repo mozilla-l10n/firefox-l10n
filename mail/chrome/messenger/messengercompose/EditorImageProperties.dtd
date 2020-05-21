@@ -31,8 +31,8 @@
 <!ENTITY actualSizeRadio.label "Дійсний розмір">
 <!ENTITY actualSizeRadio.accessKey "о">
 <!ENTITY actualSizeRadio.tooltip "Повернутися до початкових розмірів зображення">
-<!ENTITY customSizeRadio.label "Задати розмір">
-<!ENTITY customSizeRadio.accessKey "З">
+<!ENTITY customSizeRadio.label "Власний розмір">
+<!ENTITY customSizeRadio.accessKey "л">
 <!ENTITY customSizeRadio.tooltip "Змінити розмір зображення так, як це виглядає на сторінці">
 <!ENTITY heightEditField.label "Висота:">
 <!ENTITY heightEditField.accessKey "В">

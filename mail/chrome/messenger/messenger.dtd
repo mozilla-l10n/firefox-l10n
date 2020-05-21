@@ -505,7 +505,7 @@
 <!ENTITY clearRecentHistory.label "Очистити недавню історію…">
 <!ENTITY clearRecentHistory.accesskey "О">
 <!ENTITY accountManagerCmd2.label "Налаштування облікового запису">
-<!ENTITY accountManagerCmd2.accesskey "П">
+<!ENTITY accountManagerCmd2.accesskey "Н">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
