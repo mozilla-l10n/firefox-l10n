@@ -211,7 +211,7 @@
 <!ENTITY addressBookCmd.accesskey "А">
 <!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Налаштування облікового запису">
-<!ENTITY accountManagerCmd2.accesskey "м">
+<!ENTITY accountManagerCmd2.accesskey "Н">
 <!ENTITY accountManagerCmdUnix2.accesskey "м">
 <!ENTITY preferencesCmd2.label "Налаштування…">
 <!ENTITY preferencesCmd2.accesskey "Н">
