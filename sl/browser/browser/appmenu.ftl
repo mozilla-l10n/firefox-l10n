@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Zaščite zasebnosti
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Pojdi na poročilo o zasebnosti
+appmenuitem-protection-dashboard-title = Nadzorna plošča zaščit
 
 ## Zoom Controls
 
