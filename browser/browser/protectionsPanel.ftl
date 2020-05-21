@@ -58,7 +58,7 @@ protections-panel-not-found-label = Не виявлено
 
 protections-panel-settings-label = Налаштування захисту
 protections-panel-showreport-label = Показати звіт
-protections-panel-showdashboard-label = Показати панель стану безпеки
+protections-panel-showdashboard-label = Показати панель стану захисту
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
