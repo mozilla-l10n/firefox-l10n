@@ -2,6 +2,25 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/. --
 
+general-tab =
+    .label = گشتی
+    .accesskey = G
+general-title =
+    .value = سەردێڕ:
+general-url =
+    .value = ناونیشان:
+general-type =
+    .value = جۆر:
+general-size =
+    .value = قەبارە:
+general-encoding =
+    .value = کۆدکردنی دەق:
+general-meta-name =
+    .label = ناو
+general-meta-content =
+    .label = ناوەڕۆک
+security-view-privacy =
+    .value = تایبەتیی و مێژووی کار
 
 ## These strings are used to tell the user if the website is storing cookies
 ## and data on the users computer in the security tab of pageInfo
