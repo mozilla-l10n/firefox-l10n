@@ -43,7 +43,7 @@ protection-report-page-summary = { -brand-short-name } може непомітн
 protection-report-settings-link = Керуйте своїми налаштуваннями приватності й безпеки
 etp-card-title-always = Розширений захист від стеження: Завжди увімкнено
 etp-card-title-custom-not-blocking = Розширений захист від стеження: ВИМКНЕНО
-etp-card-content-summary = Коли невідомі компанії намагаються потайки стежити за вами в Інтернеті, { -brand-short-name } автоматично блокує більшість з них.
+etp-card-content-description = { -brand-short-name } автоматично блокує таємне стеження компаній за вами в Інтернеті.
 protection-report-etp-card-content-custom-not-blocking = Всі засоби захисту зараз вимкнено. Оберіть, які елементи стеження блокувати, в налаштуваннях захисту { -brand-short-name }.
 protection-report-manage-protections = Керувати налаштуваннями
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
