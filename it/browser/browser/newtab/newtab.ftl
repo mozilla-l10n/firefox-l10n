@@ -61,7 +61,7 @@ newtab-menu-section-tooltip =
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = Rimuovi
-    .aria-label = Rimuovi    
+    .aria-label = Rimuovi
 
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
@@ -92,6 +92,7 @@ newtab-menu-show-privacy-info = I nostri sponsor e la tua privacy
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Fatto
+newtab-privacy-modal-button-manage = Gestisci impostazioni per i contenuti sponsorizzati
 newtab-privacy-modal-header = La tua privacy è importante.
 newtab-privacy-modal-paragraph-2 =
     Oltre a servirti storie accattivanti, ti mostriamo anche contenuti,
@@ -138,6 +139,11 @@ newtab-label-recommended = Di tendenza
 newtab-label-saved = Salvato in { -pocket-brand-name }
 newtab-label-download = Scaricata
 newtab-label-sponsored = { $sponsorOrSource } · Sponsorizzata
+
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = Sponsorizzata da { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
