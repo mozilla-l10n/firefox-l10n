@@ -12,12 +12,9 @@ login-app-promo-android =
     .alt = Stáhnout z Google Play
 login-app-promo-apple =
     .alt = Stáhnout na App Store
-
 login-filter =
     .placeholder = Hledat přihlašovací údaje
-
 create-login-button = Nové přihlašovací údaje
-
 fxaccounts-sign-in-text = Synchronizujte svá hesla i do ostatních zařízení
 fxaccounts-sign-in-button = Použít { -sync-brand-short-name(case: "acc") }
 fxaccounts-avatar-button =
@@ -127,22 +124,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Pro změnu uložených přihlašovacích údajů nejprve ověřte svou totožnost.
-
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Pro úpravu přihlašovacích údajů prosím zadejte své přihlašovací údaje Windows. Ty slouží jako ochrana a zabezpečení vašich účtů.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = upravit uložené přihlašovací údaje
-
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Pro zobrazení uloženého hesla nejprve ověřte svou totožnost.
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Pro zobrazení hesla prosím zadejte své přihlašovací údaje Windows. Ty slouží jako ochrana a zabezpečení vašich účtů.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = zobrazit uložené heslo
-
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Pro zkopírování uloženého hesla nejprve ověřte svou totožnost.
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Pro zkopírování hesla prosím zadejte své přihlašovací údaje Windows. Ty slouží jako ochrana a zabezpečení vašich účtů.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = zkopírovat uložené heslo
 
@@ -181,11 +179,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Zrušit
 confirmation-dialog-dismiss-button =
     .title = Zrušit
-
 about-logins-confirm-remove-dialog-title = Odstranit tyto přihlašovací údaje?
 confirm-delete-dialog-message = Tuto akci nelze vzít zpět.
 about-logins-confirm-remove-dialog-confirm-button = Odstranit
-
 confirm-discard-changes-dialog-title = Zahodit neuložené změny?
 confirm-discard-changes-dialog-message = Všechny neuložené změny budou ztraceny.
 confirm-discard-changes-dialog-confirm-button = Zahodit
@@ -216,6 +212,5 @@ about-logins-vulnerable-alert-learn-more-link = Zjistit více
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Přihlašovací údaje pro { $loginTitle } se stejným uživatelským jménem už existují. <a data-l10n-name="duplicate-link">Chcete zobrazit stávající údaje?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Při ukládání hesla nastala chyba.
