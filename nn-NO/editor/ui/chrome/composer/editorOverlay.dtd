@@ -71,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Skriftstorleik">
 <!ENTITY FontSizeSelect.tooltip "Vel skriftstorleik">
 <!ENTITY decreaseFontSize.label "Mindre">
 <!ENTITY decreaseFontSize.accesskey "M">
@@ -181,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Listeeigenskapar …">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Avsnitt">
 <!ENTITY ParagraphSelect.tooltip "Vel avsnittsformat">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Brødtekst">
@@ -206,7 +208,9 @@
 <!ENTITY alignJustify.tooltip "Blokkjuster">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posisjonering">
 <!ENTITY layer.tooltip "Lag">
+<!ENTITY decreaseZIndex.label "Plasser lengst bak">
 <!ENTITY layerSendToBack.tooltip "Send til bakgrunn">
 <!ENTITY layerBringToFront.tooltip "Send til forgrunn">
 
