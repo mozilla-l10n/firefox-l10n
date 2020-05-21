@@ -49,7 +49,7 @@ protection-report-page-summary = Gall { -brand-short-name } ddiogelu eich preifa
 protection-report-settings-link = Rheoli eich gosodiadau preifatrwydd a diogelwch
 etp-card-title-always = Diogelwch Uwch Rhag Tracio: Ymlaen Drwy'r Amser
 etp-card-title-custom-not-blocking = Diogelwch Uwch Rhag Tracio: I FFWRDD
-etp-card-content-summary = Pan fydd cwmnïau anhysbys yn ceisio eich dilyn yn gyfrinachol o amgylch y we, mae { -brand-short-name } yn atal llawer ohonynt yn awtomatig.
+etp-card-content-description = Mae { -brand-short-name } yn atal cwmnïau rhag eich dilyn yn gyfrinachol o amgylch y we, yn awtomatig.
 protection-report-etp-card-content-custom-not-blocking = Mae'r holl ddiogelu wedi'u diffodd ar hyn o bryd. Dewiswch pa dracwyr i'w rhwystro trwy reoli eich gosodiadau diogelu { -brand-short-name }.
 protection-report-manage-protections = Rheoli Gosodiadau
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
