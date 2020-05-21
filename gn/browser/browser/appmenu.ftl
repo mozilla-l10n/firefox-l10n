@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Ñemiguáva ñemo’ã
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Tereho ne marandu’i ñemiguápe
+appmenuitem-protection-dashboard-title = Ñemo’ãha renda
 
 ## Zoom Controls
 
