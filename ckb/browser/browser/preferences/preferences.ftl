@@ -3,6 +3,8 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 do-not-track-learn-more = زیاتر بزانە
+do-not-track-option-default-content-blocking-known =
+    .label = تەنها ئەو کاتەی کە { -brand-short-name } کاراکراوە بۆ بلۆککردنی چاودێریکەری ناسراو
 do-not-track-option-always =
     .label = هەمووکات
 pref-page =
@@ -101,6 +103,21 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = پێوەکراو ناچالاک بکە
 tabs-group-header = بازدەرەکان
+open-new-link-as-tabs =
+    .label = بەستەرەکان بکەرەوە لە بازدەر لە جیاتی ئەوەی لە پەنجەرەی نوێ بیکەیتەوە
+    .accesskey = w
+warn-on-close-multiple-tabs =
+    .label = ئاگادرت دەکاتەوە پێش داخستنی چەند بازدەرێک
+    .accesskey = m
+warn-on-open-many-tabs =
+    .label = کاتێک چەند بازدەرێک دەکەیتەوە لەوانەیە ببێتە هۆی خاو کردنەوەی { -brand-short-name }
+    .accesskey = d
+switch-links-to-new-tabs =
+    .label = کاتێک بەستەرێک دەکەیتەوە لە بازدەری نوێ یەکسەر بچۆ سەری
+    .accesskey = h
+show-tabs-in-taskbar =
+    .label = بازدەر پیشان بدە لە لیستی کاری پەنجەرەکان
+    .accesskey = k
 browser-containers-enabled =
     .label = بازدەری لەخۆگری چالاک بکە
     .accesskey = n
@@ -109,6 +126,11 @@ browser-containers-settings =
     .label = ڕێکخستنەکان
     .accesskey = i
 containers-disable-alert-title = هەموو بازدەرەکانی لەخۆگر دادەخەیت؟
+containers-disable-alert-ok-button =
+    { $tabCount ->
+        [one] { $tabCount }بازدەری لە خۆگر دابخەرەوە
+       *[other] { $tabCount }بازدەری لە خۆگر دابخەرەوە
+    }
 containers-disable-alert-cancel-button = بە چالاکی بیهێڵەوە
 containers-remove-alert-title = ئەم لەخۆگرە بسڕەوە؟
 containers-remove-ok-button = ئەم لەخۆگرە بسڕەوە
@@ -277,7 +299,11 @@ update-application-check-choose =
 update-application-manual =
     .label = هیچ کاتێک چێکی نوێکاری مەکە (پێشنیارکراو نیە)
     .accesskey = N
+update-enable-search-update =
+    .label = خۆکارانە بزوێنەری گەڕان نوێبکەرەوە
+    .accesskey = e
 update-in-progress-title = نوێکاریی لە کاردایە
+update-in-progress-message = دەتەوێت { -brand-short-name } بەردەوام بێت لەگەڵ ئەم نوێکارییە
 update-in-progress-ok-button = &هەڵیبوەشینەوە
 # Continue is the cancel button so pressing escape or using a platform standard
 # method of closing the UI will not discard the update.
@@ -285,6 +311,11 @@ update-in-progress-cancel-button = &بەردەوام بە
 
 ## General Section - Performance
 
+performance-title = کارایی
+performance-use-recommended-settings-checkbox =
+    .label = ڕێکخستنی پێشنیازکراوی کارایی بەکاربێنە
+    .accesskey = U
+performance-use-recommended-settings-desc = ئەم ڕێکخستنانە دووراون بۆ سیستمی کارپێکردنەکە و رەقەکاڵای کۆمپیوتەرکەت.
 performance-settings-learn-more = زیاتر بزانە
 # Variables:
 #   $num - default value of the `dom.ipc.processCount` pref.
@@ -365,6 +396,7 @@ choose-bookmark =
 ## Home Section - Firefox Home Content Customization
 
 home-prefs-content-header = ناوەڕۆکی سەرەکی فایەرفۆکس
+home-prefs-content-description = هەڵیبژێرە کە چ ناوەڕۆکێک دەربکەوێت لە پەڕەی سەرەکی فایەرفۆکس.
 home-prefs-search-header =
     .label = گەڕانی وێب
 home-prefs-topsites-header =
