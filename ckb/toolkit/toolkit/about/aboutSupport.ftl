@@ -33,9 +33,30 @@ app-basics-update-channel = کەناڵی نوێکردنەوە
 # as in "Folder for updates". "Update" is a noun, not a verb.
 app-basics-update-dir =
     { PLATFORM() ->
-        [linux] فەرهەنگی نوێکردنەوە
+        [linux] پێڕستی نوێکردنەوە
        *[other] بوخچەی نوێکردنەوە
     }
+app-basics-update-history = بەرواری نوێکردنەوە
+app-basics-show-update-history = مێژووی نوێکاری پیشان بدە
+# Represents the path to the binary used to start the application.
+app-basics-binary = دوانەیی داوانامە
+app-basics-profile-dir =
+    { PLATFORM() ->
+        [linux] پێڕستی پرۆفایل
+       *[other] بوخچەی پرۆفایل
+    }
+app-basics-enabled-plugins = زیادکراوە چالاکەکان
+app-basics-build-config = ڕێکخستنەکانی بنیاتنان
+app-basics-user-agent = بریکاری بەکارهێنەر
+app-basics-os = سیستمی کارپێکردن
+app-basics-memory-use = بەکارهێنانی بیرگەی کاتیی
+app-basics-performance = کارایی
+app-basics-service-workers = کرێکارانی خزمەتگوزاری تۆمارکراو
+app-basics-profiles = پرۆفایلەکان
+app-basics-enterprise-policies = سیاسەتی ئابوری
+app-basics-location-service-key-google = کلیلی خزمەتگوزاری شوێنی گووگڵ
+app-basics-safebrowsing-key-google = کلیلی گەڕانی پارێزراوی گووگڵ
+app-basics-key-mozilla = کلیلی خزمەتگوزاری شوێنی مۆزیلا
 
 ## Media titles
 
