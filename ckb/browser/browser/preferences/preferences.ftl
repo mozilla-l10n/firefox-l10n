@@ -440,9 +440,58 @@ home-prefs-sections-rows-option =
 search-bar-header = شریتی گەڕان
 search-bar-hidden =
     .label = شیتی ناونیشان بەکاربێنە بۆ گەڕان و دۆزینەوە
+search-bar-shown =
+    .label = شریتی گەڕان زیادبکە لە توڵامراز
+search-engine-default-header = بزوێنەری گەڕانی بنەڕەتی
+search-engine-default-desc = بزوێنەری بنەڕەتی بەکاربێنە لە شریتی ناونیشان و شریتی گەڕان.
+search-engine-default-desc-2 = ئەمە بزوێنەری بنەڕەتییە لە شریتی ناونیشان و گەڕان، دەتوانیت بچیتە سەری هەرکاتێک بتەوێت.
+search-engine-default-private-desc-2 = بزوێنەری گەڕانی جیاواز دابنێ بۆ پەنجەرەی تایبەتی بە تەنها.
+search-separate-default-engine =
+    .label = ئەم بزوێنەری گەڕانە بەکاربێنە بۆ پەنجەرەی تایبەت
+    .accesskey = U
+search-suggestions-header = پێشنیارەکانی گەڕان
+search-suggestions-desc = دیاریبکە کە چۆن پێسنیارەکان دەربکەون لە بزوێنەری گەڕان.
+search-suggestions-option =
+    .label = بەردەستکردنی پێشنیاری گەڕان
+    .accesskey = s
+search-show-suggestions-url-bar-option =
+    .label = پێسنیاری گەڕان پیشان بدە لە شریتی ناونیشان
+    .accesskey = l
+search-choose-engine-column =
+    .label = بزوێنەری گەڕان
+search-choose-keyword-column =
+    .label = کلیلەوشە
+search-restore-default =
+    .label = هێنانەوەی بزوێنەری گەڕانی بنەڕەتیی
+    .accesskey = D
+search-remove-engine =
+    .label = بیسڕەوە
+    .accesskey = R
+search-find-more-link = بزوێنەری گەڕانی تر بدۆزرەوە
+# This warning is displayed when the chosen keyword is already in use
+# ('Duplicate' is an adjective)
+search-keyword-warning-title = دووبارەکردنەوەی کلیلەوشە
 
 ## Containers Section
 
+containers-back-link = « بڕۆ دواوە
+containers-back-button =
+    .aria-label =
+        { PLATFORM() ->
+            [windows] بگەڕێوە بۆ هەڵبژاردەکان
+           *[other] بگەڕێوە بۆ هەڵبژاردنەکان
+        }
+containers-header = بازدەری لەخۆگر
+containers-add-button =
+    .label = لەخۆگرێکی نوێ زیاد بکە
+    .accesskey = A
+containers-new-tab-check =
+    .label = لەخۆگر دیاریبکە بۆ هەر بازدەرێک
+    .accesskey = S
+containers-preferences-button =
+    .label = هەڵبژاردنەکان
+containers-remove-button =
+    .label = بیسڕەوە
 
 ## Sync Section - Signed out
 
@@ -450,6 +499,25 @@ search-bar-hidden =
 ## Firefox Account - Signed out. Note that "Sync" and "Firefox Account" are now
 ## more discrete ("signed in" no longer means "and sync is connected").
 
+sync-signedout-caption = وێب لەگەڵ خۆت ببە
+sync-signedout-account-title = پێک ببەستەوە لەگەڵ { -fxaccount-brand-name }
+sync-signedout-account-create = هەژمارت نیە؟ دەستپێبکە
+    .accesskey = c
+sync-signedout-account-signin =
+    .label = بچۆ ژوورەوە...
+    .accesskey = I
+sync-signedout-account-signin2 =
+    .label = بچۆ ژوورەوە بۆ { -sync-brand-short-name }...
+    .accesskey = i
+# This message contains two links and two icon images.
+#   `<img data-l10n-name="android-icon"/>` - Android logo icon
+#   `<a data-l10n-name="android-link">` - Link to Android Download
+#   `<img data-l10n-name="ios-icon">` - iOS logo icon
+#   `<a data-l10n-name="ios-link">` - Link to iOS Download
+#
+# They can be moved within the sentence as needed to adapt
+# to your language, but should not be changed or translated.
+sync-mobile-promo = فایەرفۆکس دابگرە بۆ <img data-l10n-name="android-icon"/> <a data-l10n-name="android-link">ئەندرۆید</a> یان <img data-l10n-name="ios-icon"/> <a data-l10n-name="ios-link">iOS</a> بۆ ئەوەی هاوکاتگەری پێبکەیت لەگەڵ مۆبایلەکانت.
 
 ## Sync Section - Signed in
 
