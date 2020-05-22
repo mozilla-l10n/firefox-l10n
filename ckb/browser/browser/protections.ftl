@@ -91,8 +91,15 @@ lockwise-connected-device-status =
     }
 monitor-title = بگەڕێ بۆ دزەپێکردنی زانیاریی
 monitor-link = چۆن کار دەکات
+monitor-header-content-signed-in = { -monitor-brand-name } ئاگادارت دەکاتەوە کاتێک زانیارییەکانت بڵاو دەکرێتەوە و یان دزەی پێدەکرێت لەو ماڵپەڕە جیهانییەکان.
 monitor-sign-up = خۆتۆمارکردن بۆ ئاگاداربوون لە دزەکردووەکان
 auto-scan = خۆکارانە چێکی کردووە ئەمڕۆ
+monitor-emails-tooltip =
+    .title = پۆستی ئەلکترۆنی چاودێریکراو پیشان بدە لە ناو { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = زانیاری دزەپێکراو پیشان بدە لە ناو { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = وشەی تێپەڕبوونی دزەپێکراو پیشان بدە لە ناو { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.

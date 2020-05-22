@@ -206,6 +206,7 @@ download-always-ask-where =
     .label = هەموو کات بپرسە لەکوێ پاشەکەوتی بکە
     .accesskey = A
 applications-header = داوانامەکان
+applications-description = هەڵیبژێرە کە { -brand-short-name } چۆن دەستبگرێت بەسەر ئەو پەڕگانەی دایدەگریت  لە وێب یان داوانامەکان کاتێک گەڕان ئەنجام دەدەی.
 applications-filter =
     .placeholder = بگەڕێ بۆ جۆری پەڕگە یان داوانامەکان
 applications-type-column =
@@ -766,6 +767,7 @@ content-blocking-setting-strict =
 content-blocking-setting-custom =
     .label = دڵخواز
     .accesskey = C
+content-blocking-strict-description = پارێزگاری زیاتر،  لەوانەیە زانیاری ماڵپەڕان بشکێندرێن .
 content-blocking-custom-desc = هەڵبژێرە چیت دەوێ بلۆکی بکەیت.
 content-blocking-private-trackers = چاودێریکەری ناسراو تەنها لە پەنجەرەی تایبەتیی
 content-blocking-third-party-cookies = شەکرۆکەی چاودێری لایەنی سێهەم
@@ -786,6 +788,7 @@ enhanced-tracking-protection-setting-custom =
 
 ##
 
+content-blocking-etp-strict-desc = پارێزگاری زیاتر، بەڵام لەوانەیە زانیاری ماڵپەڕان بشکێندرێن .
 content-blocking-all-cookies = هەموو شەکرۆکەکان
 content-blocking-unvisited-cookies = شەکرۆکە لەو ماڵپەڕانەی کە سەردانت نەکردوون
 content-blocking-all-windows-trackers = چاودێریکەرانی ناسراو لە هەموو پەنجەرەکان
