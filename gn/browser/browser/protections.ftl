@@ -37,6 +37,10 @@ etp-card-title = Tapykueho mo’ãha mbotuichapyre
 etp-card-content = Umi tapykuehoha oike ñandutípe ombyaty hag̃ua marandu umi nerembiapo rapykuere. { -brand-short-name } ojoko heta tapykuehoha ha ambue scripts imarãva.
 protection-report-webpage-title = Ñemo’ãha renda
 protection-report-page-content-title = Ñemo’ãha renda
+protection-report-settings-link = Eñangareko ne ñemigua ha tekorosã ñembohekóre
+etp-card-title-always = Ñemo’ã tapykuehoha iporãvéva rovake: Hendy tapia
+etp-card-title-custom-not-blocking = Ñemo’ã tapykuehoha iporãvéva rovake: Ogue
+etp-card-content-description = { -brand-short-name } ombyke ijehegui umi atyguasúpe ani ohapykuehóvo ñanduti rupi kañyhápe.
 protection-report-etp-card-content-custom-not-blocking = Opaite ñemo’ã oñemboguepa ko’ág̃a. Eiporavo mba’e tapykuehohápa ejokóta emoambuévo { -brand-short-name } mo’ãha ñemboheko.
 protection-report-manage-protections = Eñangareko ñembohekóre
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
