@@ -210,7 +210,9 @@
 <!-- Layer toolbar items -->
 <!ENTITY absolutePosition.label "Positionering">
 <!ENTITY layer.tooltip "Laag">
+<!ENTITY decreaseZIndex.label "Naar achteren sturen">
 <!ENTITY layerSendToBack.tooltip "Naar achteren sturen">
+<!ENTITY increaseZIndex.label "Naar voren brengen">
 <!ENTITY layerBringToFront.tooltip "Naar voren brengen">
 
 <!ENTITY increaseIndent.label "Inspringing vergroten">
