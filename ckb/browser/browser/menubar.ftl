@@ -36,25 +36,25 @@ menu-file-close-window =
     .accesskey = پ
 menu-file-save-page =
     .label = پەرە پاشەکەوت بکە وەک...
-    .accesskey = A
+    .accesskey = ا
 menu-file-email-link =
     .label = بەستەر بنێرە...
-    .accesskey = E
+    .accesskey = ئ
 menu-file-print-setup =
     .label = ڕێکخستنی پەڕە
-    .accesskey = u
+    .accesskey = و
 menu-file-print-preview =
     .label = پێشبینی چاپ
-    .accesskey = v
+    .accesskey = ڤ
 menu-file-print =
     .label = چاپکردن...
-    .accesskey = P
+    .accesskey = چ
 menu-file-import-from-another-browser =
     .label = هێنان لە وێبگەڕی ترەوە...
-    .accesskey = I
+    .accesskey = ل
 menu-file-go-offline =
     .label = بەدەرهێڵ کاربکە
-    .accesskey = k
+    .accesskey = ک
 
 ## Edit Menu
 
