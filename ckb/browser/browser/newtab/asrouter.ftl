@@ -13,28 +13,21 @@ cfr-doorhanger-pintab-heading = ئەمە تاقیبکەرەوە: بازدەر ج
 
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = بۆ من ئەمە دەبینم؟
-
 cfr-doorhanger-extension-cancel-button = بۆیە ئەگەر بکرێتە ئێستا نا
     .accesskey = N
-
 cfr-doorhanger-extension-ok-button = ئێستا زیادی بکە
     .accesskey = A
 cfr-doorhanger-pintab-ok-button = ئەم بازدەرە جێگیر بکە
     .accesskey = P
-
 cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنەکانی پێشنیارکراو
     .accesskey = M
-
 cfr-doorhanger-extension-never-show-recommendation = ئەم پێشنیارکراوەم پیشان مەدە
     .accesskey = S
-
 cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
-
 # This string is used on a new line below the add-on name
 # Variables:
 #   $name (String) - Add-on author name
 cfr-doorhanger-extension-author = لە لایەن { $name }
-
 # This is a notification displayed in the address bar.
 # When clicked it opens a panel with a message for the user.
 cfr-doorhanger-extension-notification = پێشنیارکراو
@@ -63,10 +56,8 @@ cfr-doorhanger-extension-total-users =
 
 cfr-doorhanger-pintab-step1 = <b>کرتەی ڕاست</b> بکە لەسەر ئەو بازدەرەی کە جـێگیری دەکەیت.
 cfr-doorhanger-pintab-step2 = <b>جێگیرکردنی بازدەر</b> هەڵبژێرە لە پێڕستەوە.
-
 cfr-doorhanger-pintab-animation-pause = وچان
 cfr-doorhanger-pintab-animation-resume = بەردەوامبوونەوە
-
 
 ## Firefox Accounts Message
 
@@ -81,21 +72,16 @@ cfr-protections-panel-link-text = زیاتر بزانە
 # This string is used by screen readers to offer a text based alternative for
 # the notification icon
 cfr-badge-reader-label-newfeature = تایبەتمەندی نوێ:
-
 cfr-whatsnew-button =
     .label = چی نوێ هەیە
     .tooltiptext = چی نوێ هەیە
-
 cfr-whatsnew-panel-header = چی نوێ هەیە
-
+cfr-whatsnew-release-notes-link-text = سەرنجەکانی وەشان بخوێنەوە
 cfr-whatsnew-tracking-protect-link-text = ڕاپۆرت پیشان بدە
-
 cfr-whatsnew-tracking-blocked-subtitle = لە { DATETIME($earliestDate, month: "long", year: "numeric") }
 cfr-whatsnew-tracking-blocked-link-text = ڕاپۆرت پیشان بدە
-
 cfr-whatsnew-lockwise-backup-title = وشەی تێپەڕبوونەکانت پاڵپشت هەڵگرە.
 cfr-whatsnew-lockwise-backup-link-text = پاڵپشتی کارا بکە
-
 cfr-whatsnew-lockwise-take-title = وشەی تێپەڕبوون لەگەڵ خۆت ببە
 cfr-whatsnew-lockwise-take-link-text = داوانامە بەدەست بهێنە
 
@@ -130,6 +116,7 @@ cfr-doorhanger-sync-logins-ok-button = کارپێکردنی { -sync-brand-short-
 
 ## Send Tab
 
+cfr-doorhanger-send-tab-header = ئەمە بخوێنەوە بەدەم ڕێوە
 cfr-doorhanger-send-tab-recipe-header = ئەم شۆربایە ببە بۆ چێشتخانە
 cfr-doorhanger-send-tab-ok-button = ناردنی بازدەر تاقیبکەرەوە
     .accesskey = T
