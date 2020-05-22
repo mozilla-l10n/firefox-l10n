@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Proteção de privacidade
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ir ao seu relatório de privacidade
+appmenuitem-protection-dashboard-title = Painel das proteções
 
 ## Zoom Controls
 
