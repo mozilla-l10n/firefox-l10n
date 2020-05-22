@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "s">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Betűkészlet">
 <!ENTITY FontFaceSelect.tooltip "Betűkészlet kiválasztása">
 <!ENTITY fontfaceMenu.label "Betűkészlet">
 <!ENTITY fontfaceMenu.accesskey "B">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Betűméret">
 <!ENTITY FontSizeSelect.tooltip "Betűméret beállítása">
 <!ENTITY decreaseFontSize.label "Kisebb">
 <!ENTITY decreaseFontSize.accesskey "K">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Felsorolás tulajdonságai…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Bekezdés">
 <!ENTITY ParagraphSelect.tooltip "Bekezdésformátum választása">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Szövegtörzs">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Sorkizártra igazítás">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Pozicionálás">
 <!ENTITY layer.tooltip "Réteg">
+<!ENTITY decreaseZIndex.label "Hátraküldés">
 <!ENTITY layerSendToBack.tooltip "Hátraküldés">
+<!ENTITY increaseZIndex.label "Előrehozás">
 <!ENTITY layerBringToFront.tooltip "Előrehozás">
 
 <!ENTITY increaseIndent.label "Behúzás növelése">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Új hivatkozás beszúrása vagy a kijelölt tulajdonságainak módosítása">
 <!ENTITY anchorToolbarCmd.label "Horgony">
 <!ENTITY anchorToolbarCmd.tooltip "Új horgony beszúrása vagy a kijelölt tulajdonságainak módosítása">
+<!ENTITY colorButtons.title "Színek">
 <!ENTITY TextColorButton.tooltip "A szöveg színének beállítása">
 <!ENTITY BackgroundColorButton.tooltip "A háttér színének beállítása">
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
 <!ENTITY throbber.tooltip2 "Ugrás a &brandShortName; honlapjára">
+<!ENTITY HighlightColorButton.label "Kiemelő">
 <!ENTITY HighlightColorButton.tooltip "Szövegkiemelésre használt szín kiválasztása">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Betűméret">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Betűméret beállítása">
+<!ENTITY smaller.label "Kisebb">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Kisebb betűméret">
+<!ENTITY larger.label "Nagyobb">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Nagyobb betűméret">
+<!ENTITY bold.label "Félkövér">
 <!ENTITY boldToolbarCmd.tooltip "Félkövér">
+<!ENTITY italic.label "Dőlt">
 <!ENTITY italicToolbarCmd.tooltip "Dőlt">
+<!ENTITY underline.label "Aláhúzott">
 <!ENTITY underlineToolbarCmd.tooltip "Aláhúzott">
+<!ENTITY bullets.label "Felsorolás">
 <!ENTITY bulletListToolbarCmd.tooltip "Felsorolás alkalmazása vagy megszüntetése">
+<!ENTITY numbers.label "Számozás">
 <!ENTITY numberListToolbarCmd.tooltip "Számozás alkalmazása vagy megszüntetése">
+<!ENTITY outdent.label "Behúzás csökkentése">
 <!ENTITY outdentToolbarCmd.tooltip "Behúzás csökkentése">
+<!ENTITY indent.label "Behúzás">
 <!ENTITY indentToolbarCmd.tooltip "Behúzás növelése">
+<!ENTITY AlignPopupButton.label "Igazítás">
 <!ENTITY AlignPopupButton.tooltip "Szöveg igazítása">
+<!ENTITY InsertPopupButton.label "Beszúrás">
 <!ENTITY InsertPopupButton.tooltip "Horgony, hivatkozás, kép, vízszintes vonal vagy táblázat beszúrása">
+<!ENTITY alignLeftButton.label "Balra igazítás">
 <!ENTITY alignLeftButton.tooltip "Szöveg igazítása a lap bal széléhez">
+<!ENTITY alignCenterButton.label "Középre igazítás">
 <!ENTITY alignCenterButton.tooltip "Szöveg igazítása középre">
+<!ENTITY alignRightButton.label "Jobbra igazítás">
 <!ENTITY alignRightButton.tooltip "Szöveg igazítása a lap jobb széléhez">
+<!ENTITY alignJustifyButton.label "Sorkizártra igazítás">
 <!ENTITY alignJustifyButton.tooltip "Szöveg sorkizárása">
 
 <!-- Structure Toolbar Context Menu items -->
