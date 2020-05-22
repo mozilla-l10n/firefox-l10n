@@ -4,7 +4,7 @@
 
 # An old map warning, see https://en.wikipedia.org/wiki/Here_be_dragons
 about-config-warning-title = 위험한 곳입니다!
-about-config-warning-text = 이 고급 설정을 변경하면 이 프로그램의 안정성, 보안 및 성능에 해가 될 수 있습니다. 당신이 무엇을 하고 있는지 확신하는 경우에만 계속해야 합니다.
+about-config-warning-text = 이 고급 설정을 변경하면 이 프로그램의 안정성, 보안 및 성능에 해가 될 수 있습니다. 자신이 무엇을 하고 있는지 확실히 알고 있는 경우에만 계속해야 합니다.
 about-config-warning-checkbox = 다음에 이 경고 계속 표시하기
 about-config-warning-button = 위험을 감수하겠습니다!
 about-config2-title = 고급 설정
