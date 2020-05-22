@@ -59,7 +59,6 @@ rcwn-avg-long = Hosszú átlag
 rcwn-std-dev-long = Hosszú szórás
 rcwn-cache-slow = A gyorsítótár hányszor volt lassú
 rcwn-cache-not-slow = A gyorsítótár hányszor nem volt lassú
-
 about-networking-title = Hálózatkezelés névjegye
 about-networking-http = HTTP
 about-networking-sockets = Foglalatok
@@ -82,6 +81,7 @@ about-networking-family = Család
 about-networking-trr = TRR
 about-networking-addresses = Címek
 about-networking-expires = Lejárat (másodperc)
+about-networking-originAttributesSuffix = Izolációs kulcs
 about-networking-messages-sent = Küldött üzenetek
 about-networking-messages-received = Fogadott üzenetek
 about-networking-bytes-sent = Küldött bájtok

@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Adatvédelem
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Ugrás az adatvédelmi jelentéséhez
+appmenuitem-protection-dashboard-title = Védelmi vezérlőpult
 
 ## Zoom Controls
 
