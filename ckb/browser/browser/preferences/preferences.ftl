@@ -285,6 +285,10 @@ applications-use-os-default-label =
 
 ##
 
+drm-content-header = ناوەڕۆکی بەڕێوەبردنی مافی دیجیتاڵ (DRM)
+play-drm-content =
+    .label = ناوەڕۆکی کۆنترۆڵکراو لە ژێر DRM کارپێبکە
+    .accesskey = پ
 play-drm-content-learn-more = زیاتر بزانە
 update-application-title = نوێکارییەکانی { -brand-short-name }
 update-application-description = { -brand-short-name } بەنوێکراوی بهێڵەوە، بۆ باشترین ئەرک، جێگیری، و پاراستن.
@@ -302,6 +306,9 @@ update-application-check-choose =
 update-application-manual =
     .label = هیچ کاتێک چێکی نوێکاری مەکە (پێشنیارکراو نیە)
     .accesskey = N
+update-application-use-service =
+    .label = خزمەتگوزاریی پشتەوە بەکاربەرە بۆ دامەراندنی نوێکارییەکان
+    .accesskey = b
 update-enable-search-update =
     .label = خۆکارانە بزوێنەری گەڕان نوێبکەرەوە
     .accesskey = e
@@ -474,6 +481,9 @@ search-find-more-link = بزوێنەری گەڕانی تر بدۆزرەوە
 # This warning is displayed when the chosen keyword is already in use
 # ('Duplicate' is an adjective)
 search-keyword-warning-title = دووبارەکردنەوەی کلیلەوشە
+# Variables:
+#   $name (String) - Name of a search engine.
+search-keyword-warning-engine = کلیلر وشەیەکی هەڵبژاردووە کە ئێستا لە کاردایە لە لایەن “{ $name }”. تکایە دانەیەکی تر هەڵبژێرە.
 
 ## Containers Section
 
