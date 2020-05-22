@@ -57,7 +57,6 @@ rcwn-avg-long = Dłujki pśerězk
 rcwn-std-dev-long = Dłujke standardne wótchylenje
 rcwn-cache-slow = Pomałe licenje pufrowaś
 rcwn-cache-not-slow = Pomałe licenje njepufrowaś
-
 about-networking-title = Wo seśowych zwiskach
 about-networking-http = HTTP
 about-networking-sockets = Sokety
@@ -80,6 +79,7 @@ about-networking-family = Familija
 about-networking-trr = TRR
 about-networking-addresses = Adrese
 about-networking-expires = Pśepadnjo (sekundy)
+about-networking-originAttributesSuffix = Izolaciski kluc
 about-networking-messages-sent = Pósłane powěsći
 about-networking-messages-received = Dostane powěsći
 about-networking-bytes-sent = Pósłane bajty

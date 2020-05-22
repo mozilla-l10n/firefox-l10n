@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Šćit priwatnosći
 appmenuitem-protection-report-tooltip =
     .tooltiptext = K wašej rozpšawje priwatnosći pśejś
+appmenuitem-protection-dashboard-title = Pśeglěd šćitow
 
 ## Zoom Controls
 
