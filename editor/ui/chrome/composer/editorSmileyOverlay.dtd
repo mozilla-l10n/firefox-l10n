@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "Lippen zijn verzegeld">
 <!ENTITY smiley16Cmd.accesskey "z">
 <!ENTITY smiley16Cmd.tooltip "Een gezicht met verzegelde lippen invoegen">
+<!ENTITY SmileButton.label "Smiley invoegen">
 <!ENTITY SmileButton.tooltip "Een smiley invoegen">

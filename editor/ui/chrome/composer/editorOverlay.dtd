@@ -333,13 +333,21 @@
 <!ENTITY bullets.label "Opsommingstekens">
 <!ENTITY bulletListToolbarCmd.tooltip "Opsommingslijst toepassen of verwijderen">
 <!ENTITY numberListToolbarCmd.tooltip "Genummerde lijst toepassen of verwijderen">
+<!ENTITY outdent.label "Uitspringen">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst laten terugspringen (verplaatsen naar links)">
+<!ENTITY indent.label "Inspringen">
 <!ENTITY indentToolbarCmd.tooltip "Tekst laten inspringen (verplaatsen naar rechts)">
+<!ENTITY AlignPopupButton.label "Uitlijning">
 <!ENTITY AlignPopupButton.tooltip "Tekstuitlijning kiezen">
+<!ENTITY InsertPopupButton.label "Invoegen">
 <!ENTITY InsertPopupButton.tooltip "Een koppeling, anker, afbeelding, horizontale lijn of tabel invoegen">
+<!ENTITY alignLeftButton.label "Links uitlijnen">
 <!ENTITY alignLeftButton.tooltip "Tekst uitlijnen langs de linkermarge">
+<!ENTITY alignCenterButton.label "Gecentreerd uitlijnen">
 <!ENTITY alignCenterButton.tooltip "Tekst gecentreerd uitlijnen">
+<!ENTITY alignRightButton.label "Rechts uitlijnen">
 <!ENTITY alignRightButton.tooltip "Tekst uitlijnen langs de rechtermarge">
+<!ENTITY alignJustifyButton.label "Uitvullen">
 <!ENTITY alignJustifyButton.tooltip "Tekst uitlijnen langs de linker- en rechtermarges">
 
 <!-- Structure Toolbar Context Menu items -->
