@@ -21,3 +21,11 @@ appmenuitem-zoom-enlarge =
   .label = Aumenta zoom
 appmenuitem-zoom-reduce =
   .label = Riduci zoom
+
+## What's New panel in App menu.
+
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+  .label = Notifica nuove funzionalità
+  .accesskey = f
