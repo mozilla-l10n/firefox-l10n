@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "Р">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Шрифт">
 <!ENTITY FontFaceSelect.tooltip "Вибір шрифту">
 <!ENTITY fontfaceMenu.label "Шрифт">
 <!ENTITY fontfaceMenu.accesskey "Ш">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Розмір шрифту">
 <!ENTITY FontSizeSelect.tooltip "Вибір розміру шрифту">
 <!ENTITY decreaseFontSize.label "Менше">
 <!ENTITY decreaseFontSize.accesskey "М">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Властивості списку…">
 <!ENTITY listPropsCmd.accesskey "л">
 
+<!ENTITY ParagraphSelect.title "Абзац">
 <!ENTITY ParagraphSelect.tooltip "Виберіть формат абзацу">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Звичайний текст">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Вирівняти по ширині">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Позиціонування">
 <!ENTITY layer.tooltip "Шар">
+<!ENTITY decreaseZIndex.label "На задній план">
 <!ENTITY layerSendToBack.tooltip "Помістити на задній план">
+<!ENTITY increaseZIndex.label "На передній план">
 <!ENTITY layerBringToFront.tooltip "Помістити на передній план">
 
 <!ENTITY increaseIndent.label "Збільшити відступ">
@@ -304,18 +310,26 @@
 <!ENTITY linkToolbarCmd.tooltip "Вставити нове посилання або змінити властивості виділеного">
 <!ENTITY anchorToolbarCmd.label "Якір">
 <!ENTITY anchorToolbarCmd.tooltip "Вставити новий якір або змінити властивості виділеного">
+<!ENTITY colorButtons.title "Кольори">
 <!ENTITY TextColorButton.tooltip "Вибір кольору для тексту">
 <!ENTITY BackgroundColorButton.tooltip "Вибір фонового кольору">
 <!ENTITY throbber.tooltip "Перейти на домашню сторінку &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Перейти на домашню сторінку &brandShortName;">
+<!ENTITY HighlightColorButton.label "Маркер">
 <!ENTITY HighlightColorButton.tooltip "Виберіть колір підсвічування тексту">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Розмір шрифту">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Встановити розмір шрифту">
+<!ENTITY smaller.label "Менший">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Менший розмір шрифту">
+<!ENTITY larger.label "Більший">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Більший розмір шрифту">
+<!ENTITY bold.label "Жирний">
 <!ENTITY boldToolbarCmd.tooltip "Напівжирний">
+<!ENTITY italic.label "Курсив">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
+<!ENTITY underline.label "Підкресленний">
 <!ENTITY underlineToolbarCmd.tooltip "Підкреслений">
 <!ENTITY bulletListToolbarCmd.tooltip "Додати або вилучити маркірований список">
 <!ENTITY numberListToolbarCmd.tooltip "Додати або вилучити нумерований список">
