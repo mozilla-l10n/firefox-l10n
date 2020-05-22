@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Smjejkotak">
 <!ENTITY insertSmiley.accesskey "S">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Mjelcaty">
 <!ENTITY smiley16Cmd.accesskey "M">
 <!ENTITY smiley16Cmd.tooltip "Mjelcate woblico zasajźiś">
+<!ENTITY SmileButton.label "Smiley zasajźiś">
 <!ENTITY SmileButton.tooltip "Smjejkotak zasajźiś">
-
