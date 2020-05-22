@@ -220,6 +220,26 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = Tutte le finestre visibili sullo schermo verranno condivise.
 
+popup-screen-sharing-not-now =
+  .label = Non adesso
+  .accesskey = a
+
+popup-screen-sharing-never =
+  .label = Mai
+  .accesskey = M
+
+popup-silence-notifications-checkbox = Disattiva notifiche di { -brand-short-name } durante la condivisione
+popup-silence-notifications-checkbox-warning = { -brand-short-name } non visualizzerà notifiche durante la condivisione.
+
+## WebRTC window or screen share tab switch warning
+
+sharing-warning-window = { -brand-short-name } è attualmente condiviso. Altre persone possono vedere quando passi a un’altra scheda.
+sharing-warning-screen = L’intero schermo è attualmente condiviso. Altre persone possono vedere quando passi a un’altra scheda.
+sharing-warning-proceed-to-tab =
+  .label = Passa alla scheda
+sharing-warning-disable-for-session =
+  .label = Disattiva avvisi relativi alla condivisione in questa sessione
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Per utilizzare la scorciatoia da tastiera F12, aprire prima gli strumenti di sviluppo usando il menu “Sviluppo web”.
