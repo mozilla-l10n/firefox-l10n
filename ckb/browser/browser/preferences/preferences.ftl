@@ -86,6 +86,7 @@ search-results-header = گەڕانی ئەنجامەکان
 ## General Section
 
 startup-header = دەستپێکردن
+get-started-not-logged-in = بچۆ ژوورەوە بۆ { -sync-brand-short-name }...
 get-started-configured = هەڵبژاردنەکانی { -sync-brand-short-name } بکەرەوە
 always-check-default =
     .label = هەموو کات چێکی ئەوە بکە کە { -brand-short-name } وێبگەڕی بنەڕەتییە
@@ -164,6 +165,7 @@ choose-language-description = زمانی بنەڕەتی هەڵبژێرە بۆ پ
 choose-button =
     .label = دیاریبکە...
     .accesskey = o
+choose-browser-language-description = ئەو زمانە هەڵبژێرە کە بەکاربێت بۆ پیشاندانی پێڕست، پەیامەکان و ئاگانامەکان لە { -brand-short-name }.
 manage-browser-languages-button =
     .label = جێگرەوە دابنێ...
     .accesskey = I
@@ -239,6 +241,7 @@ applications-manage-app =
     .label = وردەکارییەکانی داوانامەکان...
 applications-always-ask =
     .label = هەموو کات پرسیار بکە
+applications-type-pdf = Portable Document Format (PDF)
 # Variables:
 #   $type (String) - the MIME type (e.g application/binary)
 applications-type-pdf-with-type = { applications-type-pdf } ({ $type })
