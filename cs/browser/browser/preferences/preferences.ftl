@@ -399,7 +399,7 @@ applications-open-inapp =
             [feminine] v { -brand-short-name(case: "loc") }
             [neuter] v { -brand-short-name(case: "loc") }
            *[other] v aplikaci { -brand-short-name }
-        }.
+        }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
