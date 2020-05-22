@@ -48,6 +48,36 @@ graph-today = ئەمڕۆ
 graph-legend-description = ئەم کێشراوە ئەوە پیشان دەدات کە چەند چاودێریکەر بلۆک کراوە ئەم هەفتەیە.
 social-tab-title = چاودێریکەرانی تۆڕی کۆمەڵایەتی
 tracker-tab-title = چاودێریکردنی ناوەڕۆک
+fingerprinter-tab-title = پەنجە مۆرەکان
+protections-close-button =
+    .aria-label = داخستن
+protections-close-button2 =
+    .aria-label = داخستن
+    .title = داخستن
+mobile-app-links = { -brand-product-name } وێبگەڕ بۆ <a data-l10n-name="android-mobile-inline-link">ئەندرۆید </a> و <a data-l10n-name="ios-mobile-inline-link">iOS</a>
+lockwise-title = جارێکی تر وشەی تێپەڕبوون لەبیر مەکە
+lockwise-title-logged-in = { -lockwise-brand-name }
+lockwise-title-logged-in2 = بەڕێوبردنی وشەی تێپەڕبوونەکان
+lockwise-header-content = { -lockwise-brand-name } بەشێوەیەکی نهێنی وشەی تێپەڕبوونەکانت دەپارێزێت و هەڵی دەگرێت.
+lockwise-header-content-logged-in = بەپارێزراوی وشەی تێپەڕبوونەکان هاوکاتگەری پێبکەو هەڵیگرە لە ناو هەموو ئامێرەکانت.
+protection-report-view-logins-button = چوونەژوورەوەکان پیشان بدە
+    .title = بڕۆ چوونەژوورەوە پاشەکەوت کراوەکان
+protection-report-save-passwords-button = وشەی تێپەڕ پاشەکەوت بکە
+    .title = وشەی تێپەڕ پاشەکەوت بکە لە ناو { -lockwise-brand-short-name }
+protection-report-manage-passwords-button = بەڕێوەبردنی وشەی تێپەڕبوون
+    .title = بەڕێوەبردنی وشەی تێپەڕبوون لە ناو { -lockwise-brand-short-name }
+lockwise-mobile-app-title = وشەی تێپەڕەکەت لەگەڵ خۆت بەرە
+lockwise-no-logins-card-content = وشەی تێپەڕبوون بەکاربێنە کە هەڵگیراوە لە { -brand-short-name } بۆ هەر ئامێرێک.
+lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">ئەندرۆید</a> و <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
+# While English doesn't use the number in the plural form, you can add $count to your language
+# if needed for grammatical reasons.
+# Variables:
+# $count (Number) - Number of passwords stored in Lockwise.
+lockwise-scanned-text-no-breached-logins =
+    { $count ->
+        [one] ١ وشەی تێپەڕبوون هەڵگیرا بە پارێزراوی.
+       *[other] وشەی تێپەڕبوونەکانت هەڵگیران بە پارێزراوی.
+    }
 lockwise-how-it-works-link = چۆن کار دەکات
 turn-on-sync = کارپێکردنی { -sync-brand-short-name }…
     .title = بڕۆ بۆ هەڵبژاردنەکانی هاوکاتگەری
