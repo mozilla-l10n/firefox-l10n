@@ -8,6 +8,8 @@
 
 <!ENTITY accountManagerTitle.label "Kontoinnstillingar">
 
+<!ENTITY  accountManagerCloseButton.label "Lat att">
+
 <!ENTITY accountActionsButton.label "Kontohandlingar">
 <!ENTITY accountActionsButton.accesskey "K">
 <!ENTITY addMailAccountButton.label "Legg til e-postkonto …">
