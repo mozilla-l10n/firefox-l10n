@@ -313,7 +313,7 @@
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Встановити розмір шрифту">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Менший розмір шрифту">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Більший розмір шрифту">
-<!ENTITY boldToolbarCmd.tooltip "Напівжирний">
+<!ENTITY boldToolbarCmd.tooltip "Жирний">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underlineToolbarCmd.tooltip "Підкреслений">
 <!ENTITY bulletListToolbarCmd.tooltip "Додати або вилучити маркірований список">

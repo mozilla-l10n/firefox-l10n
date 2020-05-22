@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Замкнені губи">
 <!ENTITY smiley16Cmd.accesskey "З">
 <!ENTITY smiley16Cmd.tooltip "Вставити смайлик Замкнені губи">
+<!ENTITY SmileButton.label "Вставити смайлик">
 <!ENTITY SmileButton.tooltip "Вставка смайлика">
-
