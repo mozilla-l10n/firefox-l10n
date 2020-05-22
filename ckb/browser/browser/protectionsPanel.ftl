@@ -11,7 +11,6 @@
 
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = ماڵپەڕ کار ناکات؟
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = ماڵپەڕ کار ناکات؟
@@ -24,9 +23,7 @@ protections-panel-not-blocking-why-label = بۆچی؟
 ##
 
 protections-panel-no-trackers-found = هیچ چاودێریکەرێکی ناسراو لە { -brand-short-name } نەدۆزرایەوە لەم پەرەیە
-
 protections-panel-content-blocking-tracking-protection = چاودێریکردنی ناوەڕۆک
-
 protections-panel-content-blocking-socialblock = چاودێریکردنی تۆڕی کۆمەڵایەتی
 protections-panel-content-blocking-fingerprinters-label = پەنجە مۆرەکان
 
@@ -44,20 +41,19 @@ protections-panel-not-found-label = هیچ نەدۆزرایەوە
 
 protections-panel-settings-label = ڕێکخستنەکانی پارێزگاری
 protections-panel-showreport-label = ڕاپۆرت پیشان بدە
+protections-panel-showdashboard-label = بۆرد پیشان بدە
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
 protections-panel-site-not-working-view-header = پارێزگاری بکوژێنەوە ئەگەر کێشەت هەیە لەگەڵ:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = بواری چوونەژوورەوە
 protections-panel-site-not-working-view-issue-list-forms = فۆرمەکان
 protections-panel-site-not-working-view-issue-list-payments = پارەدان
 protections-panel-site-not-working-view-issue-list-comments = لێدوانەکان
 protections-panel-site-not-working-view-issue-list-videos = ڤیدیۆکان
-
 protections-panel-site-not-working-view-send-report = ڕاپۆرت بنێرە
 
 ##
@@ -65,7 +61,6 @@ protections-panel-site-not-working-view-send-report = ڕاپۆرت بنێرە
 protections-panel-content-blocking-manage-settings =
     .label = بەڕێوەبردنی ڕێکخستنەکانی پارێزگاری
     .accesskey = M
-
 protections-panel-content-blocking-breakage-report-view =
     .title = ماڵپەڕێکی لەکارکەوتوو ڕاپۆرت بکە
 protections-panel-content-blocking-breakage-report-view-collection-url = بەستەر
