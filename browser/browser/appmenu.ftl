@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Personvernsikring
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Gå til personvernrapporten
+appmenuitem-protection-dashboard-title = Tryggingspanel
 
 ## Zoom Controls
 
