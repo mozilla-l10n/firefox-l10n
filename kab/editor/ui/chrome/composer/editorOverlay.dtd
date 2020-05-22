@@ -208,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Reyyec s triglwin">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Adig">
 <!ENTITY layer.tooltip "Tissi">
 <!ENTITY decreaseZIndex.label "Err-it ɣer ugilal">
 <!ENTITY layerSendToBack.tooltip "Err-it ɣer ugilal">
