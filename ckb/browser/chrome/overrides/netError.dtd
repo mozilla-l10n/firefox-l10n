@@ -89,6 +89,7 @@
 <!ENTITY nssFailure2.title "پەیوەندی پارێزراو سەرکەوتوو نەبوو">
 
 
+<!ENTITY certerror.longpagetitle2 "ئاگاداربە: کێشەیەکی مەترسیدار لە پێشە">
 
 <!-- Localization note (certerror.introPara2) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
@@ -114,6 +115,7 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY certerror.pagetitle2  "ئاگاداربە: کێشەیەکی مەترسیدار لە پێشە">
 
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

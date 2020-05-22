@@ -5,6 +5,8 @@
 
 ## Strings used to display a warning in about:config
 
+config-about-warning-button =
+    .label = بە مەترسیەکە ڕازیم!
 config-about-warning-checkbox =
     .label = ئەم حاگادارییە پیشان بدە جاری داهاتوو
 
