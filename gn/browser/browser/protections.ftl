@@ -121,6 +121,12 @@ monitor-header-content-no-account = Ehecha { -monitor-brand-name } eikuaa hag̃u
 monitor-header-content-signed-in = { -monitor-brand-name } ne nemongyhyje ne marandu’i oĩ haguére mba’ekuaarã ñembyai kuaapývape.
 monitor-sign-up = Eñemboheraguapy og̃uahẽ hag̃ua ndéve ñembyai rehegua
 auto-scan = Ijehegui ohechajey ko árape
+monitor-emails-tooltip =
+    .title = Ehecha ñanduti veve kundaharape hechapyre { -monitor-brand-short-name }-pe
+monitor-breaches-tooltip =
+    .title = Ehecha mba’ekuaarã ñembogua kuaapyre { -monitor-brand-short-name }-pe
+monitor-passwords-tooltip =
+    .title = Ehecha ñe’ẽñemi ivaikuaáva { -monitor-brand-short-name }-pe
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
