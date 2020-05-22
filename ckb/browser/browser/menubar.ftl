@@ -7,10 +7,10 @@
 
 menu-file =
     .label = پەڕگە
-    .accesskey = F
+    .accesskey = پ
 menu-file-new-tab =
     .label = بازدەری نوێ
-    .accesskey = T
+    .accesskey = ب
 menu-file-new-container-tab =
     .label = بازدەری لەخۆگری نوێ
     .accesskey = b
