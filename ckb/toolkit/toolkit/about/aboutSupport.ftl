@@ -57,6 +57,23 @@ app-basics-enterprise-policies = سیاسەتی ئابوری
 app-basics-location-service-key-google = کلیلی خزمەتگوزاری شوێنی گووگڵ
 app-basics-safebrowsing-key-google = کلیلی گەڕانی پارێزراوی گووگڵ
 app-basics-key-mozilla = کلیلی خزمەتگوزاری شوێنی مۆزیلا
+app-basics-safe-mode = دۆخی پارێزراو
+show-dir-label =
+    { PLATFORM() ->
+        [macos] لە شوێنەکەی بیکەرەوە
+        [windows] بوخچە بکەرەوە
+       *[other] پێڕست بکەرەوە
+    }
+modified-prefs-name = ناو
+modified-prefs-value = نرخ
+locked-prefs-name = ناو
+locked-prefs-value = نرخ
+graphics-title = گرافیک
+graphics-features-title = تایبەتمەندی
+graphics-failure-log-title = تۆماری کێشەکان
+graphics-gpu1-title = GPU #1
+graphics-gpu2-title = GPU #2
+graphics-decision-log-title = تۆماری بڕیارەکان
 
 ## Media titles
 
