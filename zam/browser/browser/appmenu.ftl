@@ -8,6 +8,11 @@
 
 ## Zoom Controls
 
+appmenuitem-zoom-enlarge =
+    .label = Let Zoom
+appmenuitem-zoom-reduce =
+    .label = Xis Zoom
+
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =

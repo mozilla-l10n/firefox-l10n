@@ -26,8 +26,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Toob loo">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  pinTab.accesskey                   "T">
 <!ENTITY  unpinTab.label                     "Tee doot loo">
+<!-- LOCALIZATION NOTE(pinTab.accesskey, pinSelectedTabs.accesskey,
+unpinTab.accesskey, unpinSelectedTabs.accesskey): These share the
+same accesskey but will never be visible at the same time. -->
 <!ENTITY  unpinTab.accesskey                 "o">
 <!ENTITY  sendPageToDevice.label             "m-tàl=là loo Yib">
 <!ENTITY  sendPageToDevice.accesskey         "Y">
@@ -37,6 +43,8 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.accesskey             "N">
 
 <!ENTITY  listAllTabs.label      "Loo ree taa loo">
+<!-- LOCALIZATION NOTE (allTabsMenu.searchTabs.label): "Search" is a verb, as
+in "Search through tabs". -->
 
 <!ENTITY tabCmd.label "Xhal loo kub">
 <!ENTITY tabCmd.accesskey "k">
@@ -56,19 +64,31 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "K">
 <!ENTITY printCmd.commandkey "p">
 
+
 <!ENTITY goOfflineCmd.label "Kee xhin sin Internet">
 <!ENTITY goOfflineCmd.accesskey "x">
 
 <!ENTITY menubarCmd.label "Kue xhoo lent Firefox">
 <!ENTITY menubarCmd.accesskey "F">
 <!ENTITY navbarCmd.label "Kon kue taak güin luu">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY personalbarCmd.label "Té tak güin ko ndó~làz=ná">
 <!ENTITY personalbarCmd.accesskey "d">
+<!-- LOCALIZATION NOTE: The accessibleLabel is a spoken label that should not
+include the word "toolbar" or such, because screen readers already know that
+this container is a toolbar. This avoids double-speaking. -->
 <!ENTITY bookmarksToolbarItem.label "Té tak güin ko ndó~làz=ná">
 
 <!ENTITY pageSourceCmd.label "Güi xha mud na thus kue kue">
 <!ENTITY pageSourceCmd.accesskey "i">
 <!ENTITY pageSourceCmd.commandkey "u">
+<!-- LOCALIZATION NOTE (pageSourceCmd.SafariCommandKey should match the
+Option+Command keyboard shortcut letter that Safari and Chrome use for "View
+Source" on macOS. pageSourceCmd.commandkey above is Firefox's official keyboard
+shortcut shown in the GUI. SafariCommandKey is an alias provided for the
+convenience of Safari and Chrome users on macOS. See bug 1398988. -->
 
 <!ENTITY pageInfoCmd.label "Choo thus kue kue">
 <!ENTITY pageInfoCmd.accesskey "C">
@@ -102,7 +122,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenExit.label "mb-ròɁ lô">
 <!ENTITY fullScreenExit.accesskey "l">
 
- <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+ <!-- LOCALIZATION NOTE (fxa.signin) Used to define the different labels
+     for the Firefox Account toolbar signin menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.unverified) Used to define the different labels
+     for the Firefox Account toolbar unverified menu screen. -->
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbart menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
+
+<!-- LOCALIZATION NOTE (fxa.menu) Used to define the different labels
+     for the Firefox Account toolbar menu screen. The `Signed in as` text is
+     followed by the user's email. -->
+
+
+<!-- LOCALIZATION NOTE (fxa.service) Used to define the different FxA services
+     for the Firefox Account toolbar menu screen.  -->
+
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
@@ -117,6 +156,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreenMac.button "Mb-ròɁ lô (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Bru tree">
 <!ENTITY leaveDOMFullScreen.accesskey "t">
+
+<!-- LOCALIZATION NOTE (pictureInPicture.label, pictureInPicture.accesskey):
+     these two strings are used when right-clicking on a video in the
+     content area when the Picture-in-Picture feature is enabled. -->
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -139,6 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mb-lòɁ ré tá kó ndó~làz=ná">
 <!ENTITY recentBookmarks.label "Ko pénta tón ná loo ndó~làz=ná ">
 <!ENTITY otherBookmarksCmd.label "Tá thîb ko ndó~làz=ná">
+<!ENTITY mobileBookmarksCmd.label "Ndó~làz=ná xó lent yib">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mb-lòɁ kó ndó~làz=ná">
 
 <!ENTITY backCmd.label                "M-bì~rè">
@@ -160,10 +204,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Zè díʔz">
 
 
 
+
+
+
+<!ENTITY searchItem.title             "KwàɁn">
 
 <!-- Toolbar items -->
 <!ENTITY homeButton.label             "Tetey">
@@ -171,12 +220,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksButton.label          "Ndó~làz=ná">
 <!ENTITY bookmarksCmd.commandkey "b">
 
-<!ENTITY bookmarksMenuButton.other.label "Tá thíb ko ndó~làz=ná">
+<!ENTITY bookmarksMenuButton.other.label    "Tá thíb ko ndó~làz=ná">
+<!ENTITY bookmarksMenuButton.mobile.label   "Ndó~làz=ná xó lent yib">
 <!ENTITY viewBookmarksSidebar2.label        "Ndó~làz=ná">
 <!ENTITY viewBookmarksToolbar.label         "Ndó~làz=ná">
+<!ENTITY searchBookmarks.label              "KwàɁn ndó~làz=ná">
 
-
-<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+<!-- LOCALIZATION NOTE (bookmarksGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
 <!ENTITY bookmarksGtkCmd.commandkey "o">
@@ -191,6 +241,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "x">
 
 <!ENTITY downloads.label              "Koo blaal">
+<!-- LOCALIZATION NOTE (libraryDownloads.label): This label is similar to
+  -  downloads.label, but used in the Library panel. -->
 <!ENTITY downloads.accesskey          "K">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY addons.label                 "Koo kub taak toob luu loo firefox">
@@ -203,8 +255,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "Güi kue">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
+
 <!ENTITY fileMenu.label         "Koo de güil">
 <!ENTITY fileMenu.accesskey       "K">
+
 
 <!ENTITY newNavigatorCmd.label        "Loo gib kuub">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -260,6 +314,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
+<!ENTITY appMenuHelp.label "M-ta thib yá">
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
@@ -268,20 +324,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.subtitle): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.signin.label "-taɁ lélù lèɁn Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mbwíʔ Sync">
+
 
 <!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
      customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
      The overflow menu is the menu that appears if you click the chevron (>> button)
-     in the location bar. These labels are only used in Photon, where you can put
-     items into this menu permanently (pinned). -->
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     in the location bar. -->
+<!-- LOCALIZATION NOTE (customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
-     so they should have different access keys. customizeMenu.moveToToolbar and
-     customizeMenu.moveToPanel are mutually exclusive, so can share access
-     keys.  -->
+     so they should have different access keys.  -->
+<!-- LOCALIZATION NOTE (reportExtension.label) This label is used in the extensions
+     toolbar buttons context menus, a user can use this command to submit to Mozilla
+     an abuse report related to that extension. "Report" is a verb. -->
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -324,6 +383,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+
 
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
@@ -370,8 +430,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadFrameCmd.label         "TeɁ zàp loo ré">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Mbwíʔ zá mud b-šèn lú kue">
-<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both
-         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Mbwíʔ lô ré">
 <!ENTITY viewPageSourceCmd.accesskey  "w">
@@ -401,6 +459,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "Toob kue lent koo más doo lash naa">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
 
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
+
 <!ENTITY emailPageCmd.label           "Taal kue loo diif taal...">
 <!ENTITY emailPageCmd.accesskey       "T">
 <!ENTITY savePageCmd.label            "Loo xhog kue">
@@ -427,6 +492,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.label          "Kás~lô yib">
 <!ENTITY hidePluginCmd.accesskey      "K">
 <!ENTITY copyLinkCmd.label            "Lí Chop pá dúl">
+<!-- LOCALIZATION NOTE (copyLinkCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyLinkCmd.accesskey        "á">
 <!ENTITY copyImageCmd.label           "Loo xhog xha nie kue">
 <!ENTITY copyImageCmd.accesskey       "o">
@@ -437,6 +505,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.label        "Loo xhog tee xhob dezh ree">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Loo xhog kue">
+<!-- LOCALIZATION NOTE (copyEmailCmd.accesskey): The access keys for "Copy Link
+Location" and "Copy Email Address" should be the same if possible; the two
+context menu items are mutually exclusive. -->
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Kue">
 <!ENTITY thisFrameMenu.accesskey          "e">
@@ -559,6 +630,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Toob ba loo Diccionario...">
 <!ENTITY spellAddDictionaries.accesskey "T">
 
+<!-- LOCALIZATION NOTE (editBookmark.panel.width): width of the bookmark panel.
+     Should be large enough to fully display the Done and Cancel/
+     Remove Bookmark buttons. -->
+
+<!-- LOCALIZATION NOTE (identity.securityView.label)
+     This is the header of the security subview in the Site Identity panel. -->
+
 
 <!-- Strings for connection state warnings. -->
 
@@ -568,7 +646,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY identity.permissions "Cho taak güil kee">
+
+
+<!-- LOCALIZATION NOTE:
+     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
+<!-- LOCALIZATION NOTE:
+     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
+     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
+<!-- LOCALIZATION NOTE:
+     In the Site Not Working? view, we suggest turning off protections if
+     the user is experiencing issues with any of a variety of functionality.
+     protections.siteNotWorkingView.header: The header of the list
+     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
+
+<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
+     In the protections panel, Content Blocking category items are in three sections:
+     "Blocked" for categories being blocked in the current page,
+     "Allowed" for categories detected but not blocked in the current page, and
+     "None Detected" for categories not detected in the current page.
+     These strings are used in the header labels of each of these sections. -->
+<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
+     The "Allowed" header also includes a "Why?" link that, when hovered, shows
+     a tooltip explaining why these items were not blocked in the page. -->
 
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -576,10 +677,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Gua let lo loo">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
-
-<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
-     when Sync is configured but syncing tabs is disabled. -->
-
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -592,25 +689,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "k">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
-     “Normal” is displayed in the Customize screen, under the Density menu. -->
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
-     “Compact” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Compact). -->
-<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
-     “Touch” is displayed in the Customize screen, under the Density menu.
-     It’s an adjective (Density -> Touch), and it means that control layout is
-     optimized for touch devices. -->
 
 <!ENTITY getUserMedia.selectCamera.label "tă~làz lô cámara:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "tă~làz micrófono:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "m">
 
-<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock5.label, trackingProtection.unblock5.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate6.label, trackingProtection.unblockPrivate6.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 
@@ -627,14 +727,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "TòɁw">
 
-<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
-     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
-     Please ensure that this remains the case in the translation. -->
-
-<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
-     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
-     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
-     The translation should do the same. -->
 
 
 
@@ -643,3 +735,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+
+<!-- LOCALIZATION NOTE: (accessibilityIndicator.tooltip): This is used to
+     display a tooltip for accessibility indicator in toolbar/tabbar. It is also
+     used as a textual label for the indicator used by assistive technology
+     users. -->
