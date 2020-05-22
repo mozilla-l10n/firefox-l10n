@@ -326,20 +326,30 @@
 <!ENTITY larger.label "Більший">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Більший розмір шрифту">
 <!ENTITY bold.label "Жирний">
-<!ENTITY boldToolbarCmd.tooltip "Напівжирний">
+<!ENTITY boldToolbarCmd.tooltip "Жирний">
 <!ENTITY italic.label "Курсив">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underline.label "Підкресленний">
 <!ENTITY underlineToolbarCmd.tooltip "Підкреслений">
+<!ENTITY bullets.label "Маркери">
 <!ENTITY bulletListToolbarCmd.tooltip "Додати або вилучити маркірований список">
+<!ENTITY numbers.label "Числа">
 <!ENTITY numberListToolbarCmd.tooltip "Додати або вилучити нумерований список">
+<!ENTITY outdent.label "Виступ">
 <!ENTITY outdentToolbarCmd.tooltip "Прибрати відступ (вліво)">
+<!ENTITY indent.label "Відступ">
 <!ENTITY indentToolbarCmd.tooltip "Зробити відступ (вправо)">
+<!ENTITY AlignPopupButton.label "Вирівнювання">
 <!ENTITY AlignPopupButton.tooltip "Вибір вирівнювання тексту">
+<!ENTITY InsertPopupButton.label "Вставити">
 <!ENTITY InsertPopupButton.tooltip "Вставка посилання, якоря, зображення, горизонтального роздільника або таблиці">
+<!ENTITY alignLeftButton.label "Вирівняти вліво">
 <!ENTITY alignLeftButton.tooltip "Вирівнювання тексту уздовж лівого краю">
+<!ENTITY alignCenterButton.label "Вирівняти по центру">
 <!ENTITY alignCenterButton.tooltip "Вирівнювання тексту по центру">
+<!ENTITY alignRightButton.label "Вирівняти вправо">
 <!ENTITY alignRightButton.tooltip "Вирівнювання тексту уздовж правого краю">
+<!ENTITY alignJustifyButton.label "Вирівняти по ширині">
 <!ENTITY alignJustifyButton.tooltip "Вирівнювання тексту по лівому та правому краю">
 
 <!-- Structure Toolbar Context Menu items -->
