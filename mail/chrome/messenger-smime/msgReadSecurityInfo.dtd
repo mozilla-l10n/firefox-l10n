@@ -4,7 +4,6 @@
 
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
-
 <!ENTITY status.label "Üzenet biztonsága">
 <!ENTITY signatureCert.label "Aláírás tanúsítványának megtekintése">
 <!ENTITY encryptionCert.label "Titkosítás tanúsítványának megtekintése">
@@ -14,3 +13,5 @@
 <!ENTITY email.address "E-mail cím:">
 <!ENTITY issuer.name "Tanúsítványt kiadta:">
 
+<!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Smiley Menu items -->
 
+<!-- Smiley Menu items -->
 <!ENTITY insertSmiley.label "Hangulatjel">
 <!ENTITY insertSmiley.accesskey "H">
 
@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Lelakatolt szájú">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Lelakatolt szájú arc beszúrása">
+<!ENTITY SmileButton.label "Hangulatjel beszúrása">
 <!ENTITY SmileButton.tooltip "Mosolygó arc beszúrása">
-
