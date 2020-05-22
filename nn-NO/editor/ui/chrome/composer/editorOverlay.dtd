@@ -212,6 +212,7 @@
 <!ENTITY layer.tooltip "Lag">
 <!ENTITY decreaseZIndex.label "Plasser lengst bak">
 <!ENTITY layerSendToBack.tooltip "Send til bakgrunn">
+<!ENTITY increaseZIndex.label "Plasser lengst framme">
 <!ENTITY layerBringToFront.tooltip "Send til forgrunn">
 
 <!ENTITY increaseIndent.label "Auk innrykk">
@@ -309,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Set inn ny lenke eller rediger eigenskapane til den valde lenka">
 <!ENTITY anchorToolbarCmd.label "Anker">
 <!ENTITY anchorToolbarCmd.tooltip "Set inn nytt namngjeve anker eller rediger eigenskapane til det valde ankeret">
+<!ENTITY colorButtons.title "Fargar">
 <!ENTITY TextColorButton.tooltip "Vel tekstfarge">
 <!ENTITY BackgroundColorButton.tooltip "Vel bakgrunnsfarge">
 <!ENTITY throbber.tooltip "Gå til heimesida til &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Gå til heimesida til &brandShortName;">
+<!ENTITY HighlightColorButton.label "Merkepenn">
 <!ENTITY HighlightColorButton.tooltip "Vel uthevingsfarge for tekst">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Skriftstorleik">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Vel skriftstorleik">
+<!ENTITY smaller.label "Mindre">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Mindre skrift">
+<!ENTITY larger.label "Større">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Større skrift">
+<!ENTITY bold.label "Feit">
 <!ENTITY boldToolbarCmd.tooltip "Feit">
+<!ENTITY italic.label "Kursiv">
 <!ENTITY italicToolbarCmd.tooltip "Kursiv">
+<!ENTITY underline.label "Understreking">
 <!ENTITY underlineToolbarCmd.tooltip "Understreking">
+<!ENTITY bullets.label "Punktmerking">
 <!ENTITY bulletListToolbarCmd.tooltip "Legg til eller fjern punktmerking">
+<!ENTITY numbers.label "Nummerering">
 <!ENTITY numberListToolbarCmd.tooltip "Legg til eller fjern nummerering">
+<!ENTITY outdent.label "Reduser innrykk">
 <!ENTITY outdentToolbarCmd.tooltip "Reduser innrykk (flytt mot venstre)">
+<!ENTITY indent.label "Auk innrykk">
 <!ENTITY indentToolbarCmd.tooltip "Auk innrykk (flytt mot høgre)">
+<!ENTITY AlignPopupButton.label "Justering">
 <!ENTITY AlignPopupButton.tooltip "Vel tekstjustering">
+<!ENTITY InsertPopupButton.label "Set inn">
 <!ENTITY InsertPopupButton.tooltip "Set inn lenke, anker, bilde, horisontal linje eller tabell">
+<!ENTITY alignLeftButton.label "Venstrejuster">
 <!ENTITY alignLeftButton.tooltip "Juster tekst langs venstre marg">
+<!ENTITY alignCenterButton.label "Midtstill">
 <!ENTITY alignCenterButton.tooltip "Midtstill tekst">
+<!ENTITY alignRightButton.label "Høgrejuster">
 <!ENTITY alignRightButton.tooltip "Juster tekst langs høgre marg">
+<!ENTITY alignJustifyButton.label "Blokkjuster">
 <!ENTITY alignJustifyButton.tooltip "Juster tekst etter venstre og høgre marg">
 
 <!-- Structure Toolbar Context Menu items -->
