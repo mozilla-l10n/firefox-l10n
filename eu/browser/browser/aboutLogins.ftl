@@ -12,12 +12,9 @@ login-app-promo-android =
     .alt = Eskuratu Google Play-n
 login-app-promo-apple =
     .alt = Deskargatu App Store-an
-
 login-filter =
     .placeholder = Bilatu saio-hasierak
-
 create-login-button = Sortu saio-hasiera berria
-
 fxaccounts-sign-in-text = Eskuratu zure pasahitzak zure beste gailuetan
 fxaccounts-sign-in-button = Hasi saioa { -sync-brand-short-name }(e)n
 fxaccounts-avatar-button =
@@ -110,22 +107,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Egiaztatu zure identitatea gordetako saio-hasiera editatzeko.
-
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Zure saio-hasiera editatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editatu gordetako saio-hasiera
-
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Egiaztatu zure identitatea gordetako pasahitza agerrarazteko.
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Zure pasahitza ikusteko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = agerrarazi gordetako pasahitza
-
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Egiaztatu zure identitatea gordetako pasahitza kopiatzeko.
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Zure pasahitza kopiatzeko, sartu zure Windows kredentzialak. Honek zure kontuen segurtasuna babesten laguntzen du.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = kopiatu gordetako pasahitza
 
@@ -159,11 +157,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Utzi
 confirmation-dialog-dismiss-button =
     .title = Utzi
-
 about-logins-confirm-remove-dialog-title = Kendu saio-hasiera hau?
 confirm-delete-dialog-message = Ekintza hau ezin da desegin.
 about-logins-confirm-remove-dialog-confirm-button = Kendu
-
 confirm-discard-changes-dialog-title = Baztertu gorde gabeko aldaketak?
 confirm-discard-changes-dialog-message = Gorde gabeko aldaketa guztiak galdu egingo dira.
 confirm-discard-changes-dialog-confirm-button = Baztertu
@@ -194,6 +190,5 @@ about-logins-vulnerable-alert-learn-more-link = Argibide gehiago
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Erabiltzaile-izen hori duen sarrera bat badago lehendik ere { $loginTitle } webgunerako. <a data-l10n-name="duplicate-link">Sarrera horretara joan?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Errorea gertatu da pasahitz hau gordetzen saiatzean.
