@@ -37,6 +37,11 @@ etp-card-title = Jarraipenaren babes hobetua
 etp-card-content = Jarraipen-elementuek zure lineako jarraipena egiten dute zure nabigatze-ohitura eta -interesei buruzko informazioa biltzeko. Jarraipen-elementu eta bestelako script maltzurretako asko blokeatzen ditu { -brand-short-name }(e)k.
 protection-report-webpage-title = Babesen panela
 protection-report-page-content-title = Babesen panela
+protection-report-page-summary = { -brand-short-name }(e)k zure pribatutasuna babestu dezake bigarren planoan nabigatzen duzun bitartean. Hau babes horien laburpen pertsonalizatu bat da, zure lineako segurtasunaren kontrola hartzeko tresnak barne.
+protection-report-settings-link = Kudeatu zure pribatutasun eta segurtasun ezartpenak
+etp-card-title-always = Jarraipenaren babes hobetua: Beti aktibo
+etp-card-title-custom-not-blocking = Jarraipenaren babes hobetua: Itzalita
+etp-card-content-description = { -brand-short-name }(e)k automatikoki eragozten du konpainiek sekretuki zu webean zehar jarraitzea.
 protection-report-etp-card-content-custom-not-blocking = Une honetan babes guztiak desgaituta daude. Aukeratu zein jarraipen-elementu blokeatu zure { -brand-short-name } babes-ezarpenak kudeatuz.
 protection-report-manage-protections = Kudeatu ezarpenak
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -117,6 +122,12 @@ monitor-header-content-no-account = Egiaztatu { -monitor-brand-name } ezaguna de
 monitor-header-content-signed-in = { -monitor-brand-name } tresnak abisatu egiten zaitu zure informazioa datuen inguruko urratze ezagunen batean azaldu bada.
 monitor-sign-up = Eman izena datuen inguruko urratzeen abisuetara
 auto-scan = Automatikoki eskaneatuta gaur
+monitor-emails-tooltip =
+    .title = Ikusi monitorizatutako e-mail helbideak hemen { -monitor-brand-short-name }
+monitor-breaches-tooltip =
+    .title = Ikusi datu-urratze ezagunak hemen: { -monitor-brand-short-name }
+monitor-passwords-tooltip =
+    .title = Ikusi agerian utzitako pasahitzak hemen: { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
