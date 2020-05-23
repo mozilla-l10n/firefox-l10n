@@ -57,7 +57,6 @@ rcwn-avg-long = Batez besteko luzea
 rcwn-std-dev-long = Desbideratze estandar luzea
 rcwn-cache-slow = Cache motel kopurua
 rcwn-cache-not-slow = Cache ez motel kopurua
-
 about-networking-title = Sareari buruz
 about-networking-http = HTTP
 about-networking-sockets = Socketak
@@ -80,6 +79,7 @@ about-networking-family = Familia
 about-networking-trr = TRR
 about-networking-addresses = Helbideak
 about-networking-expires = Iraungitzea (segundoak)
+about-networking-originAttributesSuffix = Isolamendu gakoa
 about-networking-messages-sent = Bidalitako mezuak
 about-networking-messages-received = Jasotako mezuak
 about-networking-bytes-sent = Bidalitako byteak
