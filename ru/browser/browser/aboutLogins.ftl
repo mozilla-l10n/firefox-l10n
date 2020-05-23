@@ -116,7 +116,7 @@ about-logins-edit-login-os-auth-dialog-message-macosx = изменить сох�
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Подтвердите свою личность для показа сохранённого пароля.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
-about-logins-reveal-password-os-auth-dialog-message-win = Для просмотра своего пароля введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
+about-logins-reveal-password-os-auth-dialog-message-win = Чтобы просмотреть свой пароль, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = показать сохранённый пароль

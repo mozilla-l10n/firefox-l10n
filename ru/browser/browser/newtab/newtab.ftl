@@ -140,7 +140,7 @@ newtab-label-sponsored = { $sponsorOrSource } · На правах реклам�
 # This string is used at the bottom of story cards to indicate sponsored content
 # Variables:
 #  $sponsor (String): This is the name of a sponsor
-newtab-label-sponsored-by = От спонсора { $sponsor }{ $sponsor }
+newtab-label-sponsored-by = От спонсора { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.

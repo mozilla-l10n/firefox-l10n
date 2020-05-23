@@ -133,7 +133,7 @@ monitor-emails-tooltip =
 monitor-breaches-tooltip =
     .title = Просмотреть известные утечки данных на { -monitor-brand-short-name }
 monitor-passwords-tooltip =
-    .title = Посмотреть раскрытые пароли на { -monitor-brand-short-name }
+    .title = Просмотреть раскрытые пароли на { -monitor-brand-short-name }
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -161,7 +161,7 @@ info-exposed-passwords-found =
         [few] Раскрытых пароля во всех утечках
        *[many] Раскрытых паролей во всех утечках
     }
-full-report-link = Посмотреть полный отчёт на <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+full-report-link = Просмотреть полный отчёт на <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
