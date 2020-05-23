@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Ağzı sıkı">
 <!ENTITY smiley16Cmd.accesskey "ğ">
 <!ENTITY smiley16Cmd.tooltip "Ağzı sıkı bir yüz ekle">
+<!ENTITY SmileButton.label "Yüz ifadesi ekle">
 <!ENTITY SmileButton.tooltip "Bir yüz ifadesi ekle">
-
