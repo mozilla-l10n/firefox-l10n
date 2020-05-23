@@ -39,9 +39,11 @@ etp-card-title = Улучшенная защита от отслеживания
 etp-card-content = Трекеры отслеживают вас в Интернете, чтобы собирать информацию о ваших привычках и интересах. { -brand-short-name } блокирует многие из этих трекеров и других вредоносных скриптов.
 protection-report-webpage-title = Панель защиты
 protection-report-page-content-title = Панель защиты
+protection-report-page-summary = { -brand-short-name } может незаметно защищать вашу приватность во время пребывания в Интернете. Это персонализированная сводка состояния защиты, включая средства контроля вашей безопасности в Интернете.
 protection-report-settings-link = Управление настройками защиты и приватности
 etp-card-title-always = Улучшенная защита от отслеживания: всегда включена
 etp-card-title-custom-not-blocking = Улучшенная защита от отслеживания: ОТКЛЮЧЕНА
+etp-card-content-description = { -brand-short-name } автоматически блокирует тайную слежку компаний за вами в Интернете.
 protection-report-etp-card-content-custom-not-blocking = Все защиты в настоящее время отключены. Выберите, какие трекеры нужно блокировать, управляя настройками защиты { -brand-short-name }.
 protection-report-manage-protections = Управление настройками
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
