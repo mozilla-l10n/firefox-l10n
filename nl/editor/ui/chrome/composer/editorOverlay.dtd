@@ -332,6 +332,7 @@
 <!ENTITY underlineToolbarCmd.tooltip "Onderstrepen">
 <!ENTITY bullets.label "Opsommingstekens">
 <!ENTITY bulletListToolbarCmd.tooltip "Opsommingslijst toepassen of verwijderen">
+<!ENTITY numbers.label "Nummers">
 <!ENTITY numberListToolbarCmd.tooltip "Genummerde lijst toepassen of verwijderen">
 <!ENTITY outdent.label "Uitspringen">
 <!ENTITY outdentToolbarCmd.tooltip "Tekst laten terugspringen (verplaatsen naar links)">
