@@ -41,7 +41,7 @@ protection-report-page-summary = Siz web’de gezinirken { -brand-short-name } a
 protection-report-settings-link = Gizlilik ve güvenlik ayarlarınızı yönetin
 etp-card-title-always = Gelişmiş izlenme koruması: Her zaman açık
 etp-card-title-custom-not-blocking = Gelişmiş izlenme koruması: KAPALI
-etp-card-content-summary = Adını bile duymadığınız şirketler sizi web’de gizlice takip etmeye çalışabilir. { -brand-short-name } onların çoğunu otomatik olarak durdurur.
+etp-card-content-description = { -brand-short-name }, şirketlerin sizi web’de gizlice takip etmesini otomatik olarak engeller.
 protection-report-etp-card-content-custom-not-blocking = Şu anda tüm korumalar kapalı. { -brand-short-name } koruma ayarlarınızı yöneterek hangi takipçilerin engelleneceğini seçebilirsiniz.
 protection-report-manage-protections = Ayarları yönet
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
