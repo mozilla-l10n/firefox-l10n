@@ -208,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Выровнять по ширине">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Позиционирование">
 <!ENTITY layer.tooltip "Слой">
+<!ENTITY decreaseZIndex.label "Поместить на задний план">
 <!ENTITY layerSendToBack.tooltip "Поместить на задний план">
+<!ENTITY increaseZIndex.label "Поместить на передний план">
 <!ENTITY layerBringToFront.tooltip "Поместить на передний план">
 
 <!ENTITY increaseIndent.label "Увеличить отступ">
@@ -307,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Вставить новую ссылку или изменить свойства выделенной">
 <!ENTITY anchorToolbarCmd.label "Якорь">
 <!ENTITY anchorToolbarCmd.tooltip "Вставить новый якорь или изменить свойства выделенного">
+<!ENTITY colorButtons.title "Цвета">
 <!ENTITY TextColorButton.tooltip "Выбор цвета для текста">
 <!ENTITY BackgroundColorButton.tooltip "Выбор цвета для фона">
 <!ENTITY throbber.tooltip "Перейти на домашнюю страницу &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Перейти на домашнюю страницу &brandShortName;">
+<!ENTITY HighlightColorButton.label "Подсветка">
 <!ENTITY HighlightColorButton.tooltip "Выберите цвет подсветки текста">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Размер шрифта">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Указать размер шрифта">
+<!ENTITY smaller.label "Уменьшить">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Уменьшить размер шрифта">
+<!ENTITY larger.label "Увеличить">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Увеличить размер шрифта">
+<!ENTITY bold.label "Полужирный">
 <!ENTITY boldToolbarCmd.tooltip "Полужирный">
+<!ENTITY italic.label "Курсив">
 <!ENTITY italicToolbarCmd.tooltip "Курсив">
+<!ENTITY underline.label "Подчёркнутый">
 <!ENTITY underlineToolbarCmd.tooltip "Подчёркнутый">
+<!ENTITY bullets.label "Маркированный">
 <!ENTITY bulletListToolbarCmd.tooltip "Добавить или удалить маркированный список">
+<!ENTITY numbers.label "Нумерованный">
 <!ENTITY numberListToolbarCmd.tooltip "Добавить или удалить нумерованный список">
+<!ENTITY outdent.label "Убрать отступ">
 <!ENTITY outdentToolbarCmd.tooltip "Убрать отступ (сдвиг влево)">
+<!ENTITY indent.label "Сделать отступ">
 <!ENTITY indentToolbarCmd.tooltip "Сделать отступ (сдвиг вправо)">
+<!ENTITY AlignPopupButton.label "Выравнивание">
 <!ENTITY AlignPopupButton.tooltip "Выбор выравнивания текста">
+<!ENTITY InsertPopupButton.label "Вставить">
 <!ENTITY InsertPopupButton.tooltip "Вставка ссылки, якоря, изображения, горизонтального разделителя или таблицы">
+<!ENTITY alignLeftButton.label "Выровнять по левому краю">
 <!ENTITY alignLeftButton.tooltip "Выравнивание текста по левому краю">
+<!ENTITY alignCenterButton.label "Выровнять по центру">
 <!ENTITY alignCenterButton.tooltip "Выравнивание текста по центру">
+<!ENTITY alignRightButton.label "Выровнять по правому краю">
 <!ENTITY alignRightButton.tooltip "Выравнивание текста по правому краю">
+<!ENTITY alignJustifyButton.label "Выровнять по ширине">
 <!ENTITY alignJustifyButton.tooltip "Выравнивание текста по ширине">
 
 <!-- Structure Toolbar Context Menu items -->
