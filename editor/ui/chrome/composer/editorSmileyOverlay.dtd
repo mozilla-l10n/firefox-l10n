@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Рот на замке">
 <!ENTITY smiley16Cmd.accesskey "а">
 <!ENTITY smiley16Cmd.tooltip "Вставить смайлик Рот на замке">
+<!ENTITY SmileButton.label "Вставить смайлик">
 <!ENTITY SmileButton.tooltip "Вставка смайлика">
-
