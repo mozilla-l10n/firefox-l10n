@@ -3,7 +3,6 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 protections-panel-sendreportview-error = При отправке сообщения произошла ошибка. Пожалуйста, повторите попытку позже.
-
 # A link shown when ETP is disabled for a site. Opens the breakage report subview when clicked.
 protections-panel-sitefixedsendreport-label = Сайт был исправлен? Отправьте сообщение
 
@@ -22,13 +21,10 @@ protections-popup-footer-protection-label-standard = Стандартная
 # The text a screen reader speaks when focused on the info button.
 protections-panel-etp-more-info =
     .aria-label = Больше информации об улучшенной защите от отслеживания
-
 protections-panel-etp-on-header = Улучшенная защита от отслеживания на этом сайте ВКЛЮЧЕНА
 protections-panel-etp-off-header = Улучшенная защита от отслеживания на этом сайте ОТКЛЮЧЕНА
-
 # The link to be clicked to open the sub-panel view
 protections-panel-site-not-working = Сайт не работает?
-
 # The heading/title of the sub-panel view
 protections-panel-site-not-working-view =
     .title = Сайт не работает?
@@ -43,9 +39,7 @@ protections-panel-not-blocking-why-etp-off-tooltip = Все трекеры на 
 ##
 
 protections-panel-no-trackers-found = На этой странице не обнаружено трекеров известных { -brand-short-name }.
-
 protections-panel-content-blocking-tracking-protection = Отслеживающее содержимое
-
 protections-panel-content-blocking-socialblock = Трекеры социальных сетей
 protections-panel-content-blocking-cryptominers-label = Криптомайнеры
 protections-panel-content-blocking-fingerprinters-label = Сборщики цифровых отпечатков
@@ -64,20 +58,19 @@ protections-panel-not-found-label = Ничего не найдено
 
 protections-panel-settings-label = Настройки защиты
 protections-panel-showreport-label = Посмотреть отчёт
+protections-panel-showdashboard-label = Показать панель
 
 ## In the Site Not Working? view, we suggest turning off protections if
 ## the user is experiencing issues with any of a variety of functionality.
 
 # The header of the list
 protections-panel-site-not-working-view-header = Отключите защиту, если у вас возникли проблемы с:
-
 # The list items, shown in a <ul>
 protections-panel-site-not-working-view-issue-list-login-fields = Полями для входа
 protections-panel-site-not-working-view-issue-list-forms = Формами
 protections-panel-site-not-working-view-issue-list-payments = Платежами
 protections-panel-site-not-working-view-issue-list-comments = Комментариями
 protections-panel-site-not-working-view-issue-list-videos = Видео
-
 protections-panel-site-not-working-view-send-report = Отправьте сообщение
 
 ##
@@ -87,11 +80,9 @@ protections-panel-cryptominers = Криптомайнеры используют
 protections-panel-fingerprinters = Сборщики цифровых отпечатков используют параметры вашего браузера и компьютера, чтобы создать ваш профиль. Используя этот цифровой отпечаток, они могут отслеживать вас на различных веб-сайтах.
 protections-panel-tracking-content = Веб-сайты могут загружать внешнюю рекламу, видео и другой контент с отслеживающим кодом. Блокировка отслеживающего содержимого может помочь сайтам загружаться быстрее, но некоторые кнопки, формы и поля для входа могут не работать.
 protections-panel-social-media-trackers = Социальные сети размещают трекеры на других веб-сайтах, чтобы следить за тем, что вы делаете, видите и смотрите в Интернете. Это позволяет их владельцам узнавать о вас больше, чем вы указываете в своих профилях в социальных сетях.
-
 protections-panel-content-blocking-manage-settings =
     .label = Управление настройками защиты
     .accesskey = п
-
 protections-panel-content-blocking-breakage-report-view =
     .title = Сообщить о сломанном сайте
 protections-panel-content-blocking-breakage-report-view-description = Блокировка некоторых трекеров может вызывать проблемы с некоторыми веб-сайтами. Сообщая о таких проблемах, вы помогаете сделать { -brand-short-name } лучше для всех и каждого. При отправке сообщения в Mozilla будет отправлен адрес сайта, а также информация о настройках вашего браузера. <label data-l10n-name="learn-more">Подробнее</label>
