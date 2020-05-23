@@ -57,7 +57,6 @@ rcwn-avg-long = Longa mejana
 rcwn-std-dev-long = Long escart tipe
 rcwn-cache-slow = Comptador d'escondedor lent
 rcwn-cache-not-slow = Comptador d'escondedor non lent
-
 about-networking-title = Informacions ret
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = Familha
 about-networking-trr = TRR
 about-networking-addresses = Adreças
 about-networking-expires = Expiracion (segondas)
+about-networking-originAttributesSuffix = Clau d’isolacion
 about-networking-messages-sent = Messatges mandats
 about-networking-messages-received = Messatges recebuts
 about-networking-bytes-sent = Octets mandats
