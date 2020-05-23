@@ -57,7 +57,6 @@ rcwn-avg-long = Долгое среднее
 rcwn-std-dev-long = Долгое стандартное отклонение
 rcwn-cache-slow = Счётчик медленного кэша
 rcwn-cache-not-slow = Счётчик не медленного кэша
-
 about-networking-title = О сети
 about-networking-http = HTTP
 about-networking-sockets = Сокеты
@@ -80,6 +79,7 @@ about-networking-family = Семейство
 about-networking-trr = TRR
 about-networking-addresses = Адреса
 about-networking-expires = Истекает через (сек.)
+about-networking-originAttributesSuffix = Ключ изоляции
 about-networking-messages-sent = Сообщений отправлено
 about-networking-messages-received = Сообщений получено
 about-networking-bytes-sent = Байт отправлено
