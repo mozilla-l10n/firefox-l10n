@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "д">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Шрифт">
 <!ENTITY FontFaceSelect.tooltip "Выбор шрифта">
 <!ENTITY fontfaceMenu.label "Шрифт">
 <!ENTITY fontfaceMenu.accesskey "р">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Размер шрифта">
 <!ENTITY FontSizeSelect.tooltip "Выбор размера шрифта">
 <!ENTITY decreaseFontSize.label "Уменьшить">
 <!ENTITY decreaseFontSize.accesskey "м">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Свойства списка…">
 <!ENTITY listPropsCmd.accesskey "в">
 
+<!ENTITY ParagraphSelect.title "Абзац">
 <!ENTITY ParagraphSelect.tooltip "Выберите формат абзаца">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Обычный текст">
