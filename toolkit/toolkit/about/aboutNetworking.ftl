@@ -57,7 +57,6 @@ rcwn-avg-long = Доўгае сярэдняе
 rcwn-std-dev-long = Доўгае сярэднеквадратычнае адхіленне
 rcwn-cache-slow = Лік маруднага кэша
 rcwn-cache-not-slow = Лік не-маруднага кэша
-
 about-networking-title = Пра сетку
 about-networking-http = HTTP
 about-networking-sockets = Сокеты
@@ -80,6 +79,7 @@ about-networking-family = Сям'я
 about-networking-trr = TRR
 about-networking-addresses = Адрасы
 about-networking-expires = Састарэнне (Секунды)
+about-networking-originAttributesSuffix = Ключ ізаляцыі
 about-networking-messages-sent = Дасланыя паведамленні
 about-networking-messages-received = Атрыманыя паведамленні
 about-networking-bytes-sent = Дасланыя байты
