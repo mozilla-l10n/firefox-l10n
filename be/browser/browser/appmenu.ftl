@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Меры аховы прыватнасці
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Перайсці да справаздачы аб прыватнасці
+appmenuitem-protection-dashboard-title = Панэль аховы
 
 ## Zoom Controls
 
