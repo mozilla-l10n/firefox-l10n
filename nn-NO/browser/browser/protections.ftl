@@ -9,7 +9,6 @@ graph-week-summary =
         [one] { -brand-short-name } blokkerte { $count } sporfølgjar den siste veka
        *[other] { -brand-short-name } blokkerte { $count } sporfølgjarar den siste veka
     }
-
 # Variables:
 #   $count (Number) - Number of tracking events blocked.
 #   $earliestDate (Number) - Unix timestamp in ms, representing a date. The
@@ -19,12 +18,10 @@ graph-total-tracker-summary =
         [one] <b>{ $count }</b> sporfølgjarar blokkerte sidan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
        *[other] <b>{ $count }</b> sporfølgjarar blokerte sidan { DATETIME($earliestDate, day: "numeric", month: "long", year: "numeric") }
     }
-
 # Text displayed instead of the graph when in Private Mode
 graph-private-window = { -brand-short-name } fortset å  blokkere sporfølgjarar i private vindauge, men held ikkje oversikt over kva som vart blokkert.
 # Weekly summary of the graph when the graph is empty in Private Mode
 graph-week-summary-private-window = Sporfølgjarar { -brand-short-name } blokkerte denne veka
-
 # The terminology used to refer to categories of Content Blocking is also used in chrome/browser/browser.properties and should be translated consistently.
 # "Standard" in this case is an adjective, meaning "default" or "normal".
 # The category name in the <b> tag will be bold.
@@ -36,53 +33,40 @@ protection-report-header-details-custom = Vernenivået er sett til <b>tilpasset<
     .title = Gå til personverninnstillingar
 protection-report-page-title = Personvernsikring
 protection-report-content-title = Personvernsikring
-
 etp-card-title = Utvida sporingsvern
 etp-card-content = Sporfølgjarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporfølgjarane og andre vondsinna skript.
-
 protection-report-webpage-title = Tryggingspanel
 protection-report-page-content-title = Tryggingspanel
 protection-report-page-summary = { -brand-short-name } kan ta vare på personvernet ditt bak kulissene medan du surfar. Dette er ei personleg oppsummering av desse verna, inkludert verktøy for å ta kontroll over sikkerheita di på nettet.
-
+protection-report-settings-link = Handter personvern- og tryggingsinnstillingar
 etp-card-title-always = Utvida sporingsvern: Alltid på
 etp-card-title-custom-not-blocking = Utvida sporingsvern: AV
-etp-card-content-summary = Når ukjende selskap prøver å følgje deg, i løynd, rundt om på nettet, stoppar { -brand-short-name } mange av dei automatisk.
+etp-card-content-description = { -brand-short-name } stoppar selskap automatisk frå å følgje deg rundt på nettet i det skjulte.
 protection-report-etp-card-content-custom-not-blocking = Alt vern er for tida slått av. Vel kva for sporfølgjarar du vil blokkere ved å handtere innstillingar for vern i { -brand-short-name }.
 protection-report-manage-protections = Handter innstillingar
-
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
 # capitalization for this string should match the output for your locale.
 graph-today = I dag
-
 # This string is used to describe the graph for screenreader users.
 graph-legend-description = Ein graf som inneheld det totale antalet for kvar type av sporfølgjarar som har blitt blokkerte denne veka.
-
 social-tab-title = Sporing via sosiale medium
 social-tab-contant = Sosiale nettverk plasserer sporfølgjarar på andre nettstadar for å følgje det du gjer og ser på nettet. Dette gjer at sosiale mediaselskap kan lære meir om deg utover det du deler på profilane dine på sosiale medium. <a data-l10n-name="learn-more-link">Les meir</a>
-
 cookie-tab-title = Sporingsinfokapslar på tvers av nettstadar
 cookie-tab-content = Desse infokapslane følgjer deg frå nettstad til nettstad for å samle inn data om kva du gjer på nettet. Dei vert brukte av tredjepartar som annonsørar og analyseselskap. Blokkering av sporingsinfokapslar på tvers av nettstadar reduserer talet på annonsar som følgjer deg. <a data-l10n-name="learn-more-link">Les meir</a>
-
 tracker-tab-title = Sporingsinnhald
 tracker-tab-description = Nettstadar kan laste eksterne annonsar, videoar og anna innhald med sporingskode. Blokkering av sporingsinnhald kan gjere at nettstadar lastar raskare, men det kan vere at  nokre knappar, skjema og innloggingsfelt ikkje fungerer. <a data-l10n-name="learn-more-link">Les meir</a>
-
 fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina di for å lage ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på forskjellige nettstadar. <a data-l10n-name="learn-more-link">Les meir</a>
-
 cryptominer-tab-title = Kryptominarar
 cryptominer-tab-content = Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga. <a data-l10n-name="learn-more-link">Les meir</a>
-
 protections-close-button =
     .aria-label = Lat att
-
 protections-close-button2 =
     .aria-label = Lat att
     .title = Lat att
-  
 mobile-app-title = Blokker annonsesporfølgjarar på fleire einingar
 mobile-app-card-content = Bruk mobilnettlesaren med innebygd vern mot annonsesporing.
 mobile-app-links = { -brand-product-name } Nettlesar for <a data-l10n-name="android-mobile-inline-link">Android</a> og <a data-l10n-name="ios-mobile-inline-link">iOS</a>
-
 lockwise-title = Glæym aldri eit passord igjen
 lockwise-title-logged-in = { -lockwise-brand-name }
 lockwise-title-logged-in2 = Passordhandtering
@@ -97,7 +81,6 @@ protection-report-manage-passwords-button = Handtere passord
 lockwise-mobile-app-title = Ta med deg passorda dine overalt
 lockwise-no-logins-card-content = Bruk passord som er lagra i { -brand-short-name } på kva som helst eining.
 lockwise-app-links = { -lockwise-brand-name } for <a data-l10n-name="lockwise-android-inline-link">Android</a> og <a data-l10n-name="lockwise-ios-inline-link">iOS</a>
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -106,7 +89,6 @@ lockwise-passwords-stored =
         [one] Passord lagra sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
        *[other] Passord lagra sikkert <a data-l10n-name="lockwise-how-it-works">Slik fungerer det</a>
     }
-
 # Variables:
 # $count (Number) - Number of passwords exposed in data breaches.
 lockwise-scanned-text-breached-logins =
@@ -114,7 +96,6 @@ lockwise-scanned-text-breached-logins =
         [one] 1 passord kan ha blitt eksponert i ein datalekkasje.
        *[other] { $count } passord kan ha blitt eksponerte i ein datalekkasje.
     }
-
 # While English doesn't use the number in the plural form, you can add $count to your language
 # if needed for grammatical reasons.
 # Variables:
@@ -125,12 +106,9 @@ lockwise-scanned-text-no-breached-logins =
        *[other] Passorda dine blir lagra trygt.
     }
 lockwise-how-it-works-link = Korleis det fungerer
-
 turn-on-sync = Slå på { -sync-brand-short-name }…
     .title = Gå til innstillinger for sync
-
 manage-connected-devices = Handter einingar…
-
 # Variables:
 #   $count (Number) - Number of devices connected with sync.
 lockwise-connected-device-status =
@@ -138,21 +116,18 @@ lockwise-connected-device-status =
         [one] Kopla til { $count } eining
        *[other] Kopla til { $count } einingar
     }
-
 monitor-title = Sjå opp for datalekkasjer.
 monitor-link = Korleis det verkar
 monitor-header-content-no-account = SJekk { -monitor-brand-name } for å sjå om du har vore ein del av ein datalekkasje, og få varsel om nye datalekkasjar.
 monitor-header-content-signed-in = { -monitor-brand-name } åtvarar deg om informasjonen din har dukka opp i ein kjend datalekkasje.
 monitor-sign-up = Registrer deg for datalekkasjevarsel
 auto-scan = Automatisk skanna i dag
-
 monitor-emails-tooltip =
     .title = Vis overvaka e-postadresser på { -monitor-brand-short-name }
 monitor-breaches-tooltip =
     .title = Vis kjende datalekkasjar på { -monitor-brand-short-name }
 monitor-passwords-tooltip =
     .title = Vis eksponerte passord på { -monitor-brand-short-name }
-
 # This string is displayed after a large numeral that indicates the total number
 # of email addresses being monitored. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -161,7 +136,6 @@ info-monitored-emails =
         [one] E-postadressa vert overvaka
        *[other] E-postadressa vert overvaka
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of known data breaches. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -170,7 +144,6 @@ info-known-breaches-found =
         [one] Kjend datalekkasje har eksponert informasjonen din
        *[other] Kjende datalekkasjar har eksponert informasjonen din
     }
-
 # This string is displayed after a large numeral that indicates the total number
 # of exposed passwords. Don’t add $count to
 # your localization, because it would result in the number showing twice.
@@ -179,9 +152,7 @@ info-exposed-passwords-found =
         [one] Passord eksponert for alle datalekkasjar
        *[other] Passord eksponerte for alle datalekkasjar
     }
-
 full-report-link = Sjå heile rapporten på <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
-
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
