@@ -37,7 +37,10 @@ etp-card-title = Protezione antitracciamento avanzata
 etp-card-content = Gli elementi traccianti ti seguono online al fine di raccogliere informazioni sui tuoi interessi e le tue abitudini di navigazione. { -brand-short-name } blocca molti di questi traccianti e altri script dannosi.
 protection-report-webpage-title = Dashboard protezioni
 protection-report-page-content-title = Dashboard protezioni
-protection-report-page-summary = { -brand-short-name } può proteggere la tua privacy mentre navighi. Questa è una sintesi personalizzata delle protezioni attive e include strumenti per garantire la tua sicurezza online.
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
+protection-report-page-summary = { -brand-short-name } è in grado di proteggere la tua privacy mentre navighi. Questa è una sintesi personalizzata delle protezioni attive e include strumenti per garantire la tua sicurezza online.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } protegge la tua privacy mentre navighi. Questa è una sintesi personalizzata delle protezioni attive e include strumenti per garantire la tua sicurezza online.
 protection-report-settings-link = Gestisci le impostazioni relative a privacy e sicurezza
 etp-card-title-always = Protezione antitracciamento avanzata: sempre attiva
 etp-card-title-custom-not-blocking = Protezione antitracciamento avanzata: DISATTIVATA
