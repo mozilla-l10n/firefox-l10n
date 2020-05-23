@@ -12,12 +12,9 @@ login-app-promo-android =
     .alt = Доступно в Google Play
 login-app-promo-apple =
     .alt = Загрузите в App Store
-
 login-filter =
     .placeholder = Поиск логинов
-
 create-login-button = Создать новый логин
-
 fxaccounts-sign-in-text = Получайте доступ к своим паролям на других устройствах
 fxaccounts-sign-in-button = Войти в { -sync-brand-short-name(case: "accusative") }
 fxaccounts-avatar-button =
@@ -111,22 +108,23 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 
 # This message can be seen by attempting to edit a login in about:logins
 about-logins-edit-login-os-auth-dialog-message = Подтвердите свою личность для изменения сохранённого логина.
-
-# This message can be seen by attempting to edit a login in about:logins
+# This message can be seen when attempting to edit a login in about:logins on Windows.
+about-logins-edit-login-os-auth-dialog-message-win = Чтобы изменить свой логин, введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
+# This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = изменить сохранённый логин
-
 # This message can be seen by attempting to reveal a password in about:logins
 about-logins-reveal-password-os-auth-dialog-message = Подтвердите свою личность для показа сохранённого пароля.
-
-# This message can be seen by attempting to reveal a password in about:logins
+# This message can be seen when attempting to reveal a password in about:logins on Windows.
+about-logins-reveal-password-os-auth-dialog-message-win = Для просмотра своего пароля введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
+# This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = показать сохранённый пароль
-
 # This message can be seen by attempting to copy a password in about:logins
 about-logins-copy-password-os-auth-dialog-message = Подтвердите свою личность для копирования сохранённого пароля.
-
-# This message can be seen by attempting to copy a password in about:logins
+# This message can be seen when attempting to copy a password in about:logins on Windows.
+about-logins-copy-password-os-auth-dialog-message-win = Чтобы скопировать свой пароль введите ваши учётные данные для входа в Windows. Это поможет защитить безопасность ваших аккаунтов.
+# This message can be seen when attempting to copy a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-copy-password-os-auth-dialog-message-macosx = скопировать сохранённый пароль
 
@@ -160,11 +158,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Отмена
 confirmation-dialog-dismiss-button =
     .title = Отмена
-
 about-logins-confirm-remove-dialog-title = Удалить этот логин?
 confirm-delete-dialog-message = Это действие не может быть отменено.
 about-logins-confirm-remove-dialog-confirm-button = Удалить
-
 confirm-discard-changes-dialog-title = Отменить несохранённые изменения?
 confirm-discard-changes-dialog-message = Все несохранённые изменения будут потеряны.
 confirm-discard-changes-dialog-confirm-button = Отменить
@@ -195,6 +191,5 @@ about-logins-vulnerable-alert-learn-more-link = Подробнее
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Запись для { $loginTitle } с таким именем пользователя уже существует. <a data-l10n-name="duplicate-link">Перейти к существующей записи?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = При попытке сохранить этот пароль произошла ошибка.
