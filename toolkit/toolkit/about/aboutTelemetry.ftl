@@ -20,7 +20,7 @@ about-telemetry-current-store = Uneko denda:
 about-telemetry-more-information = Informazio gehiagoren bila?
 about-telemetry-firefox-data-doc = <a data-l10n-name="data-doc-link">Firefoxen datuen dokumentazioa</a>k gure datu-tresnekin nola lan egin erakusten du.
 about-telemetry-telemetry-client-doc = <a data-l10n-name="client-doc-link">Firefox Telemetry bezeroaren dokumentazioa</a>k kontzeptuen definizioak, API dokumentazioa eta datu-erreferentziak ditu.
-about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry arbelen</a> bidez Mozillak Telemetry bitartez jasotako datuak irudika ditzakezu.
+about-telemetry-telemetry-dashboard = <a data-l10n-name="dashboard-link">Telemetry panelen</a> bidez Mozillak Telemetry bitartez jasotako datuak irudika ditzakezu.
 about-telemetry-telemetry-probe-dictionary = Telemetry zerbitzuak bildutako zunden xehetasun eta deskribapenak hornitzen ditu <a data-l10n-name="probe-dictionary-link">hiztegi-zundak</a>.
 about-telemetry-show-in-Firefox-json-viewer = Ireki JSON ikustailean
 about-telemetry-home-section = Hasiera
