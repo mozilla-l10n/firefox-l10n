@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "l">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Carattere">
 <!ENTITY FontFaceSelect.tooltip "Scegli il tipo di carattere">
 <!ENTITY fontfaceMenu.label "Carattere">
 <!ENTITY fontfaceMenu.accesskey "C">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Dimensione carattere">
 <!ENTITY FontSizeSelect.tooltip "Scegli la dimensione del carattere">
 <!ENTITY decreaseFontSize.label "Diminuisci">
 <!ENTITY decreaseFontSize.accesskey "D">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Elenca proprietà…">
 <!ENTITY listPropsCmd.accesskey "E">
 
+<!ENTITY ParagraphSelect.title "Paragrafo">
 <!ENTITY ParagraphSelect.tooltip "Scegli il formato del paragrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo del testo">
@@ -205,6 +208,7 @@
 <!ENTITY alignJustify.tooltip "Giustificato">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posizionamento">
 <!ENTITY layer.tooltip "Posizionamento assoluto">
 <!ENTITY layerSendToBack.tooltip "Porta sotto">
 <!ENTITY layerBringToFront.tooltip "Porta sopra">
@@ -304,20 +308,30 @@
 <!ENTITY linkToolbarCmd.tooltip "Modifica collegamento selezionato o inseriscine uno nuovo">
 <!ENTITY anchorToolbarCmd.label "Ancora">
 <!ENTITY anchorToolbarCmd.tooltip "Modifica ancora selezionata o inseriscine una nuova">
+<!ENTITY colorButtons.title "Colori">
 <!ENTITY TextColorButton.tooltip "Scegli il colore del testo">
 <!ENTITY BackgroundColorButton.tooltip "Scegli il colore dello sfondo">
 <!ENTITY throbber.tooltip "Vai alla pagina iniziale di &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Vai alla pagina iniziale di &brandShortName;">
+<!ENTITY HighlightColorButton.label "Evidenziatore">
 <!ENTITY HighlightColorButton.tooltip "Scegli il colore di selezione testo">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Dimensione carattere">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Imposta grandezza carattere">
+<!ENTITY smaller.label "Più piccolo">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuisci la dimensione del carattere">
+<!ENTITY larger.label "Più grande">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumenta la dimensione del carattere">
+<!ENTITY bold.label "Grassetto">
 <!ENTITY boldToolbarCmd.tooltip "Grassetto">
+<!ENTITY italic.label "Corsivo">
 <!ENTITY italicToolbarCmd.tooltip "Corsivo">
+<!ENTITY underline.label "Sottolineato">
 <!ENTITY underlineToolbarCmd.tooltip "Sottolineato">
+<!ENTITY bullets.label "Elenco puntato">
 <!ENTITY bulletListToolbarCmd.tooltip "Crea o rimuovi l'elenco puntato">
+<!ENTITY numbers.label "Elenco numerato">
 <!ENTITY numberListToolbarCmd.tooltip "Crea o rimuove l'elenco numerato">
 <!ENTITY outdentToolbarCmd.tooltip "Indentazione testo (verso sinistra)">
 <!ENTITY indentToolbarCmd.tooltip "Indentazione testo (verso destra)">
