@@ -54,4 +54,5 @@
 <!ENTITY smiley16Cmd.label "პირის მოკუმვა">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "პირმოკუმული სახის დამატება">
-<!ENTITY SmileButton.tooltip "მიმიკის ჩამატება">
+<!ENTITY SmileButton.label "სიცილაკის ჩამატება">
+<!ENTITY SmileButton.tooltip "მომღიმარე სახის ჩამატება">
