@@ -15,7 +15,6 @@ newtab-settings-button =
 newtab-search-box-search-button =
     .title = ძიება
     .aria-label = ძიება
-
 newtab-search-box-search-the-web-text = ინტერნეტში ძიება
 newtab-search-box-search-the-web-input =
     .placeholder = ინტერნეტში ძიება
@@ -30,12 +29,10 @@ newtab-topsites-edit-topsites-header = რჩეული საიტის ჩ
 newtab-topsites-title-label = დასახელება
 newtab-topsites-title-input =
     .placeholder = სათაურის შეყვანა
-
 newtab-topsites-url-label = URL-ბმული
 newtab-topsites-url-input =
     .placeholder = აკრიფეთ ან ჩასვით URL-ბმული
 newtab-topsites-url-validation = საჭიროა მართებული URL
-
 newtab-topsites-image-url-label = სასურველი სურათის URL-ბმული
 newtab-topsites-use-image-link = სასურველი სურათის გამოყენება…
 newtab-topsites-image-validation = სურათი ვერ ჩაიტვირთა. სცადეთ სხვა URL-ბმული.
@@ -60,12 +57,10 @@ newtab-confirm-delete-history-p2 = ეს ქმედება შეუქც�
 newtab-menu-section-tooltip =
     .title = მენიუს გახსნა
     .aria-label = მენიუს გახსნა
-
 # Tooltip for dismiss button
 newtab-dismiss-button-tooltip =
     .title = მოცილება
     .aria-label = მოცილება
-
 # This tooltip is for the context menu of Pocket cards or Topsites
 # Variables:
 #  $title (String): The label or hostname of the site. This is for screen readers when the context menu button is focused/active.
@@ -94,6 +89,7 @@ newtab-menu-show-privacy-info = ჩვენი დამფინანსე�
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = მზადაა
+newtab-privacy-modal-button-manage = შეკვეთილი მასალის პარამეტრების მართვა
 newtab-privacy-modal-header = თქვენი პირადულობა უმნიშვნელოვანესია.
 newtab-privacy-modal-paragraph-2 =
     გარდა საინტერესო ამბებისა, ჩვენ ასევე გიჩვენებთ მნიშვნელოვან, ღირებულ
@@ -137,11 +133,14 @@ newtab-label-removed-bookmark = სანიშნი მოცილებუ�
 newtab-label-recommended = ფართოდ გავრცელებული
 newtab-label-saved = შენახულია { -pocket-brand-name }-ში
 newtab-label-download = ჩამოტვირთული
-
 # This string is used in the story cards to indicate sponsored content
 # Variables:
 #  $sponsorOrSource (String): This is the name of a company or their domain
-newtab-label-sponsored = { $sponsorOrSource } · დაფინანსებული
+newtab-label-sponsored = { $sponsorOrSource } · დაკვეთილი
+# This string is used at the bottom of story cards to indicate sponsored content
+# Variables:
+#  $sponsor (String): This is the name of a sponsor
+newtab-label-sponsored-by = დამკვეთია { $sponsor }
 
 ## Section Menu: These strings are displayed in the section context menu and are
 ## meant as a call to action for the given section.
@@ -175,12 +174,10 @@ newtab-section-header-pocket = { $provider } გირჩევთ
 ## Empty Section States: These show when there are no more items in a section. Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 
 newtab-empty-section-highlights = დაიწყეთ გვერდების დათვალიერება და აქ გამოჩნდება თქვენთვის სასურველი სტატიები, ვიდეოები და ბოლოს მონახულებული ან ჩანიშნული საიტები.
-
 # Ex. When there are no more Pocket story recommendations, in the space where there would have been stories, this is shown instead.
 # Variables:
 #  $provider (String): Name of the content provider for this section, e.g "Pocket".
 newtab-empty-section-topstories = უკვე ყველაფერს გაეცანით. მოგვიანებით შემოიარეთ მეტი რჩეული სტატიის სანახავად, რომელსაც { $provider } მოგაწვდით. ვერ ითმენთ? აირჩიეთ რომელიმე ფართოდ გავრცელებული საკითხი, ახალი საინტერესო სტატიების მოსაძიებლად.
-
 
 ## Empty Section (Content Discovery Experience). These show when there are no more stories or when some stories fail to load.
 
