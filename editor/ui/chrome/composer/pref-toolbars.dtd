@@ -35,6 +35,5 @@
 <!ENTITY underline.label        "加底線">
 
 <!ENTITY absolutePosition.label "絕對定位">
-<!ENTITY decreaseZIndex.label   "移至底層">
+<!ENTITY decreaseZIndex.label   "移至下層">
 <!ENTITY increaseZIndex.label   "提至上層">
-

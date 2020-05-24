@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "字型">
 <!ENTITY FontFaceSelect.tooltip "選擇字型">
 <!ENTITY fontfaceMenu.label "字型">
 <!ENTITY fontfaceMenu.accesskey "F">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "字型大小">
 <!ENTITY FontSizeSelect.tooltip "選擇字型大小">
 <!ENTITY decreaseFontSize.label "減少">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "列出所有屬性…">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "段落">
 <!ENTITY ParagraphSelect.tooltip "選擇段落格式">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "內文">
@@ -193,20 +196,23 @@
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "靠左">
 <!ENTITY alignLeft.accesskey "L">
-<!ENTITY alignLeft.tooltip "向左對齊">
+<!ENTITY alignLeft.tooltip "置左對齊">
 <!ENTITY alignCenter.label "置中">
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "置中對齊">
 <!ENTITY alignRight.label "靠右">
 <!ENTITY alignRight.accesskey "R">
-<!ENTITY alignRight.tooltip "向右對齊">
+<!ENTITY alignRight.tooltip "置右對齊">
 <!ENTITY alignJustify.label "左右對齊">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "左右對齊">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "位置">
 <!ENTITY layer.tooltip "層次(Layer)">
-<!ENTITY layerSendToBack.tooltip "移至後層">
+<!ENTITY decreaseZIndex.label "移至下層">
+<!ENTITY layerSendToBack.tooltip "移至下層">
+<!ENTITY increaseZIndex.label "移至上層">
 <!ENTITY layerBringToFront.tooltip "移至上層">
 
 <!ENTITY increaseIndent.label "增加縮排">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "插入新鏈結或設定已選取鏈結">
 <!ENTITY anchorToolbarCmd.label "錨點">
 <!ENTITY anchorToolbarCmd.tooltip "插入新錨點或設定選取的錨點內容">
+<!ENTITY colorButtons.title "色彩">
 <!ENTITY TextColorButton.tooltip "選擇文字色彩">
 <!ENTITY BackgroundColorButton.tooltip "選擇背景色彩">
 <!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
 <!ENTITY throbber.tooltip2 "前往 &brandShortName; 首頁">
+<!ENTITY HighlightColorButton.label "螢光筆">
 <!ENTITY HighlightColorButton.tooltip "選擇強調文字的色彩">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "字型大小">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "設定字型大小">
+<!ENTITY smaller.label "縮小">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "字型縮小">
+<!ENTITY larger.label "放大">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "字型放大">
+<!ENTITY bold.label "粗體">
 <!ENTITY boldToolbarCmd.tooltip "粗體字">
+<!ENTITY italic.label "斜體">
 <!ENTITY italicToolbarCmd.tooltip "斜體字">
+<!ENTITY underline.label "底線">
 <!ENTITY underlineToolbarCmd.tooltip "加底線">
+<!ENTITY bullets.label "符號清單">
 <!ENTITY bulletListToolbarCmd.tooltip "套用或刪除符號式清單">
+<!ENTITY numbers.label "編號清單">
 <!ENTITY numberListToolbarCmd.tooltip "套用或刪除編號式清單">
+<!ENTITY outdent.label "凸排">
 <!ENTITY outdentToolbarCmd.tooltip "文字向左縮排">
+<!ENTITY indent.label "縮排">
 <!ENTITY indentToolbarCmd.tooltip "文字向右縮排">
+<!ENTITY AlignPopupButton.label "對齊">
 <!ENTITY AlignPopupButton.tooltip "選擇文字對齊方式">
+<!ENTITY InsertPopupButton.label "插入">
 <!ENTITY InsertPopupButton.tooltip "插入一個鏈結、錨點、圖片、水平線或是表格">
+<!ENTITY alignLeftButton.label "置左對齊">
 <!ENTITY alignLeftButton.tooltip "將文字對齊左邊界">
+<!ENTITY alignCenterButton.label "置中對齊">
 <!ENTITY alignCenterButton.tooltip "將文字對齊中央">
+<!ENTITY alignRightButton.label "置右對齊">
 <!ENTITY alignRightButton.tooltip "將文字對齊右邊界">
+<!ENTITY alignJustifyButton.label "左右對齊">
 <!ENTITY alignJustifyButton.tooltip "將文字對齊左右邊界">
 
 <!-- Structure Toolbar Context Menu items -->
