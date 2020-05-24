@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = პირადულობის დაცვა
 appmenuitem-protection-report-tooltip =
     .tooltiptext = პირადულობის ანგარიშზე გადასვლა
+appmenuitem-protection-dashboard-title = დაცვის მაჩვენებლები
 
 ## Zoom Controls
 
