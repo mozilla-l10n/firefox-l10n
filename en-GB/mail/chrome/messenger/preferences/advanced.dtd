@@ -5,7 +5,7 @@
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY dataChoicesTab.label    "Data Choices">
 <!ENTITY itemUpdate.label        "Update">
-<!ENTITY itemNetworking.label    "Network &amp; Disc Space">
+<!ENTITY itemNetworking.label    "Network &amp; Disk Space">
 <!ENTITY itemCertificates.label  "Certificates">
 
 <!-- General Settings -->
@@ -90,7 +90,7 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace                       "Disc Space">
+<!ENTITY Diskspace                       "Disk Space">
 <!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
 <!ENTITY offlineCompactFolders.accesskey "m">
 <!ENTITY offlineCompactFoldersMB.label   "MB in total">
