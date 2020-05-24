@@ -57,7 +57,6 @@ rcwn-avg-long = Media de largas
 rcwn-std-dev-long = Desviación estándar de largas
 rcwn-cache-slow = Cuenta de caché lenta
 rcwn-cache-not-slow = Cuenta de caché no lenta
-
 about-networking-title = Acerca del tráfico de red
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = Familia
 about-networking-trr = TRR
 about-networking-addresses = Direcciones
 about-networking-expires = Expira (segundos)
+about-networking-originAttributesSuffix = Clave de aislamiento
 about-networking-messages-sent = Mensajes enviados
 about-networking-messages-received = Mensajes recibidos
 about-networking-bytes-sent = Bytes enviados
