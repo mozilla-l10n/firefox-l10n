@@ -334,12 +334,19 @@
 <!ENTITY numbers.label "Elenco numerato">
 <!ENTITY numberListToolbarCmd.tooltip "Crea o rimuove l'elenco numerato">
 <!ENTITY outdentToolbarCmd.tooltip "Indentazione testo (verso sinistra)">
+<!ENTITY indent.label "Indentazione">
 <!ENTITY indentToolbarCmd.tooltip "Indentazione testo (verso destra)">
+<!ENTITY AlignPopupButton.label "Allineamento">
 <!ENTITY AlignPopupButton.tooltip "Imposta l'allineamento del testo">
+<!ENTITY InsertPopupButton.label "Inserisci">
 <!ENTITY InsertPopupButton.tooltip "Inserisci collegamento, immagine, separatore orizzontale o tabella">
+<!ENTITY alignLeftButton.label "Allinea a sinistra">
 <!ENTITY alignLeftButton.tooltip "Allinea il testo lungo il margine sinistro">
+<!ENTITY alignCenterButton.label "Allinea al centro">
 <!ENTITY alignCenterButton.tooltip "Allinea il testo al centro">
+<!ENTITY alignRightButton.label "Allinea a destra">
 <!ENTITY alignRightButton.tooltip "Allinea il testo lungo il margine destro">
+<!ENTITY alignJustifyButton.label "Allinea giustificato">
 <!ENTITY alignJustifyButton.tooltip "Allinea il testo lungo i margini destro e sinistro">
 
 <!-- Structure Toolbar Context Menu items -->
