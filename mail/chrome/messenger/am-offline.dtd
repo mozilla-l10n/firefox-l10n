@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY doNotDownloadPop3Movemail.label "To save disc space, do not download:">
-<!ENTITY doNotDownloadNntp.label "To save disc space, do not download for offline use:">
-<!ENTITY doNotDownloadImap.label "To save disc space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
+<!ENTITY doNotDownloadPop3Movemail.label "To save disk space, do not download:">
+<!ENTITY doNotDownloadNntp.label "To save disk space, do not download for offline use:">
+<!ENTITY doNotDownloadImap.label "To save disk space, downloading messages from the server and keeping local copies for offline use can be restricted by age or size.">
 <!ENTITY allFoldersOffline2.label "Keep messages in all folders for this account on this computer">
 <!ENTITY allFoldersOffline2.accesskey "o">
 <!ENTITY allFoldersOfflineNote.label "Note: Changing this affects all folders in this account. To set individual folders, use the Advanced… button.">
@@ -19,9 +19,9 @@
 <!ENTITY nntpNotDownloadRead.accesskey "R">
 <!ENTITY nntpDownloadMsg.label "Messages more than">
 <!ENTITY nntpDownloadMsg.accesskey "e">
-<!ENTITY retentionCleanup.label "To recover disc space, old messages can be permanently deleted">
-<!ENTITY retentionCleanupImap.label "To recover disc space, old messages can be permanently deleted, both local copies and originals on the remote server.">
-<!ENTITY retentionCleanupPop.label "To recover disc space, old messages can be permanently deleted, including originals on the remote server.">
+<!ENTITY retentionCleanup.label "To recover disk space, old messages can be permanently deleted">
+<!ENTITY retentionCleanupImap.label "To recover disk space, old messages can be permanently deleted, both local copies and originals on the remote server.">
+<!ENTITY retentionCleanupPop.label "To recover disk space, old messages can be permanently deleted, including originals on the remote server.">
 <!ENTITY retentionKeepMsg.label "Delete messages more than">
 <!ENTITY retentionKeepMsg.accesskey "t">
 <!ENTITY retentionKeepAll.label "Don't delete any messages">
@@ -37,7 +37,7 @@
 <!ENTITY offlineImapAdvancedOffline.label "Advanced…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "v">
 <!ENTITY syncGroupTitle.label "Message Synchronising">
-<!ENTITY diskspaceGroupTitle.label "Disc Space">
+<!ENTITY diskspaceGroupTitle.label "Disk Space">
 
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
