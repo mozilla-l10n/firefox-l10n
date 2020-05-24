@@ -57,7 +57,6 @@ rcwn-avg-long = Ilgas vidurkis
 rcwn-std-dev-long = Ilgas standartinis nuokrypis
 rcwn-cache-slow = Podėlio lėto kiekis
 rcwn-cache-not-slow = Podėlio ne lėto kiekis
-
 about-networking-title = Tinklo ryšiai
 about-networking-http = HTTP
 about-networking-sockets = Sujungimai
@@ -80,6 +79,7 @@ about-networking-family = Tipas
 about-networking-trr = TRR
 about-networking-addresses = Addresai
 about-networking-expires = Galiojimo trukmė (sek.)
+about-networking-originAttributesSuffix = Izoliacijos raktas
 about-networking-messages-sent = Išsiųsta pranešimų
 about-networking-messages-received = Gauta pranešimų
 about-networking-bytes-sent = Išsiųsta baitų
