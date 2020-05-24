@@ -106,7 +106,7 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## notes are only valid for English. Please test in your respected locale.
 
 # This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Verificar la vostra identitat per editar l'inici de sessió desat.
+about-logins-edit-login-os-auth-dialog-message = Verifiqueu la vostra identitat per editar l'inici de sessió desat.
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Per editar l'inici de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to edit a login in about:logins
