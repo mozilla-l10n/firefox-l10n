@@ -71,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "შრიფტის ზომა">
 <!ENTITY FontSizeSelect.tooltip "შრიფტის ზომის არჩევა">
 <!ENTITY decreaseFontSize.label "შემცირება">
 <!ENTITY decreaseFontSize.accesskey "რ">
@@ -162,7 +163,7 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "მისამართი">
 <!ENTITY paragraphAddressCmd.accesskey "A">
-<!ENTITY paragraphPreformatCmd.label "დაფორმატებული">
+<!ENTITY paragraphPreformatCmd.label "მზა ფორმატი">
 <!ENTITY paragraphPreformatCmd.accesskey "ფ">
 
 <!-- List menu items -->
@@ -181,6 +182,7 @@
 <!ENTITY listPropsCmd.label "სიის პარამეტრები…">
 <!ENTITY listPropsCmd.accesskey "ს">
 
+<!ENTITY ParagraphSelect.title "პარაგრაფი">
 <!ENTITY ParagraphSelect.tooltip "პარაგრაფის ფორმატის არჩევა">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "ძირითადი ტექსტი">
@@ -195,18 +197,18 @@
 <!ENTITY alignLeft.label "მარცხნივ">
 <!ENTITY alignLeft.accesskey "ხ">
 <!ENTITY alignLeft.tooltip "სწორება მარცხნივ">
-<!ENTITY alignCenter.label "ცენტრში">
-<!ENTITY alignCenter.accesskey "ც">
-<!ENTITY alignCenter.tooltip "განთავსება ცენტრში">
+<!ENTITY alignCenter.label "შუაში">
+<!ENTITY alignCenter.accesskey "შ">
+<!ENTITY alignCenter.tooltip "სწორება შუაში">
 <!ENTITY alignRight.label "მარჯვნივ">
 <!ENTITY alignRight.accesskey "რ">
-<!ENTITY alignRight.tooltip "განთავსება მარჯვნივ">
-<!ENTITY alignJustify.label "გასწორება">
-<!ENTITY alignJustify.accesskey "წ">
-<!ENTITY alignJustify.tooltip "განთავსება გასწორებით">
+<!ENTITY alignRight.tooltip "სწორება მარჯვნივ">
+<!ENTITY alignJustify.label "გათანაბრება">
+<!ENTITY alignJustify.accesskey "ნ">
+<!ENTITY alignJustify.tooltip "თანაბრად გასწორება">
 
 <!-- Layer toolbar items -->
-<!ENTITY absolutePosition.label "განლაგება">
+<!ENTITY absolutePosition.label "მდებარეობა">
 <!ENTITY layer.tooltip "ფენა">
 <!ENTITY decreaseZIndex.label "უკან გადატანა">
 <!ENTITY layerSendToBack.tooltip "უკან გადატანა">
@@ -344,9 +346,11 @@
 <!ENTITY alignLeftButton.label "სწორება მარცხნივ">
 <!ENTITY alignLeftButton.tooltip "ტექსტის სწორება მარცხნივ">
 <!ENTITY alignCenterButton.label "სწორება შუაში">
-<!ENTITY alignCenterButton.tooltip "ტექსტის სწორება ცენტრზე">
+<!ENTITY alignCenterButton.tooltip "ტექსტის სწორება შუაში">
+<!ENTITY alignRightButton.label "სწორება მარჯვნივ">
 <!ENTITY alignRightButton.tooltip "ტექსტის სწორება მარჯვნივ">
-<!ENTITY alignJustifyButton.tooltip "ტექსტის სწორება შევსებით">
+<!ENTITY alignJustifyButton.label "თანაბრად გასწორება">
+<!ENTITY alignJustifyButton.tooltip "ტექსტის თანაბრად გასწორება">
 
 <!-- Structure Toolbar Context Menu items -->
 <!ENTITY structSelect.label         "მონიშვნა">
