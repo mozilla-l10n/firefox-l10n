@@ -57,7 +57,6 @@ rcwn-avg-long = გრძელი საშუალო
 rcwn-std-dev-long = გრძელი სტანდარტული გადახრა
 rcwn-cache-slow = კეშის დაყოვნების რაოდენობა
 rcwn-cache-not-slow = კეშის დაუყოვნებლობის რაოდენობა
-
 about-networking-title = ქსელის შესახებ
 about-networking-http = HTTP
 about-networking-sockets = სოკეტები:
@@ -80,6 +79,7 @@ about-networking-family = ოჯახი
 about-networking-trr = TRR
 about-networking-addresses = მისამართები
 about-networking-expires = მოქმედების ვადა (წამებში)
+about-networking-originAttributesSuffix = გამიჯვნის გასაღები
 about-networking-messages-sent = გაგზავნილი შეტყობინებები
 about-networking-messages-received = მიღებული შეტყობინებები
 about-networking-bytes-sent = გაგზავნილი ბაიტი
