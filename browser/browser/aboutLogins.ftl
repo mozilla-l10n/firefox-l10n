@@ -166,10 +166,22 @@ confirm-discard-changes-dialog-confirm-button = Descarta
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = Filtració de dades del lloc web
 breach-alert-text = S'han filtrat o robat contrasenyes d'aquest lloc web des de la darrera vegada que en vàreu actualitzar les vostres dades d'inici de sessió. Canvieu la contrasenya per protegir el vostre compte.
+about-logins-breach-alert-date = Data de la filtració: { DATETIME($date, day: "numeric", month: "long", year: "numeric") }
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-breach-alert-link = Vés a { $hostname }
+about-logins-breach-alert-learn-more-link = Més informació
 
 ## Vulnerable Password notification
 
+about-logins-vulnerable-alert-title = Contrasenya vulnerable
+about-logins-vulnerable-alert-text2 = Aquesta contrasenya s'ha utilitzat en un altre compte que probablement ha estat compromès. Reutilitzar credencials posa tots els vostres comptes en perill. Canvieu aquesta contrasenya.
+# Variables:
+#   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
+about-logins-vulnerable-alert-link = Vés a { $hostname }
+about-logins-vulnerable-alert-learn-more-link = Més informació
 
 ## Error Messages
 
