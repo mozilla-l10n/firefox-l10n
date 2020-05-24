@@ -210,7 +210,9 @@
 <!-- Layer toolbar items -->
 <!ENTITY absolutePosition.label "Posizionamento">
 <!ENTITY layer.tooltip "Posizionamento assoluto">
+<!ENTITY decreaseZIndex.label "Porta in secondo piano">
 <!ENTITY layerSendToBack.tooltip "Porta sotto">
+<!ENTITY increaseZIndex.label "Porta in primo piano">
 <!ENTITY layerBringToFront.tooltip "Porta sopra">
 
 <!ENTITY increaseIndent.label "Aumenta indentazione">
@@ -333,6 +335,7 @@
 <!ENTITY bulletListToolbarCmd.tooltip "Crea o rimuovi l'elenco puntato">
 <!ENTITY numbers.label "Elenco numerato">
 <!ENTITY numberListToolbarCmd.tooltip "Crea o rimuove l'elenco numerato">
+<!ENTITY outdent.label "Riduci indentazione">
 <!ENTITY outdentToolbarCmd.tooltip "Indentazione testo (verso sinistra)">
 <!ENTITY indent.label "Indentazione">
 <!ENTITY indentToolbarCmd.tooltip "Indentazione testo (verso destra)">
