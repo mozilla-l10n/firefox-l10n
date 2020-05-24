@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "ჩ">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "შრიფტი">
 <!ENTITY FontFaceSelect.tooltip "შრიფტის არჩევა">
 <!ENTITY fontfaceMenu.label "შრიფტი">
 <!ENTITY fontfaceMenu.accesskey "შ">
@@ -205,9 +206,12 @@
 <!ENTITY alignJustify.tooltip "განთავსება გასწორებით">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "განლაგება">
 <!ENTITY layer.tooltip "ფენა">
-<!ENTITY layerSendToBack.tooltip "წინ გადმოტანა">
-<!ENTITY layerBringToFront.tooltip "უკან გადატანა">
+<!ENTITY decreaseZIndex.label "უკან გადატანა">
+<!ENTITY layerSendToBack.tooltip "უკან გადატანა">
+<!ENTITY increaseZIndex.label "წინ გადმოტანა">
+<!ENTITY layerBringToFront.tooltip "წინ გადმოტანა">
 
 <!ENTITY increaseIndent.label "აბზაცის გაზრდა">
 <!ENTITY increaseIndent.accesskey "ზ">
@@ -304,26 +308,42 @@
 <!ENTITY linkToolbarCmd.tooltip "ახალი ბმულის ჩამატება ან მონიშნულის პარამეტრების ჩასწორება">
 <!ENTITY anchorToolbarCmd.label "ღუზა">
 <!ENTITY anchorToolbarCmd.tooltip "ახალი ღუზის ჩამატება ან მონიშნულის პარამეტრების ჩასწორება">
+<!ENTITY colorButtons.title "ფერები">
 <!ENTITY TextColorButton.tooltip "ტექსტის ფერის არჩევა">
 <!ENTITY BackgroundColorButton.tooltip "ფონის ფერის არჩევა">
 <!ENTITY throbber.tooltip "&vendorShortName; – საწყის გვერდზე გადასვლა">
 <!ENTITY throbber.tooltip2 "&brandShortName; – საწყის გვერდზე გადასვლა">
+<!ENTITY HighlightColorButton.label "მოსანიშნი">
 <!ENTITY HighlightColorButton.tooltip "მონიშნული ტექსტის ფერის შერჩევა">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "შრიფტის ზომა">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "შრიფტის ზომის დაყენება">
+<!ENTITY smaller.label "უფრო მცირე">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "შრიფტის ზომის შემცირება">
+<!ENTITY larger.label "უფრო დიდი">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "შრიფტის ზომის გაზრდა">
+<!ENTITY bold.label "მუქი">
 <!ENTITY boldToolbarCmd.tooltip "მუქი">
+<!ENTITY italic.label "დახრილი">
 <!ENTITY italicToolbarCmd.tooltip "დახრილი">
+<!ENTITY underline.label "ხაზგასმული">
 <!ENTITY underlineToolbarCmd.tooltip "ხაზგასმული">
+<!ENTITY bullets.label "ბურთულები">
 <!ENTITY bulletListToolbarCmd.tooltip "დაუნომრავი სიის შექმნა, ან ამოღება">
+<!ENTITY numbers.label "რიცხვები">
 <!ENTITY numberListToolbarCmd.tooltip "გადნომრილი სიის ჩადგმა ან ამოღება">
+<!ENTITY outdent.label "უკუაბზაცი">
 <!ENTITY outdentToolbarCmd.tooltip "გამოწეული აბზაცი (მარცხნივ)">
+<!ENTITY indent.label "აბზაცი">
 <!ENTITY indentToolbarCmd.tooltip "ჩვეულებრივი აბზაცი (მარჯვნივ)">
+<!ENTITY AlignPopupButton.label "განთავსება">
 <!ENTITY AlignPopupButton.tooltip "ტექსტის განთავსების არჩევა">
+<!ENTITY InsertPopupButton.label "ჩამატება">
 <!ENTITY InsertPopupButton.tooltip "ბმულის, ღუზის, სურათის, ჰორიზონტული ხაზის ან ცხრილის ჩამატება">
+<!ENTITY alignLeftButton.label "სწორება მარცხნივ">
 <!ENTITY alignLeftButton.tooltip "ტექსტის სწორება მარცხნივ">
+<!ENTITY alignCenterButton.label "სწორება შუაში">
 <!ENTITY alignCenterButton.tooltip "ტექსტის სწორება ცენტრზე">
 <!ENTITY alignRightButton.tooltip "ტექსტის სწორება მარჯვნივ">
 <!ENTITY alignJustifyButton.tooltip "ტექსტის სწორება შევსებით">
