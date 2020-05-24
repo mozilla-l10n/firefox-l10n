@@ -13,3 +13,5 @@
 <!ENTITY email.address "電子郵件地址:">
 <!ENTITY issuer.name "憑證發行者:">
 
+<!-- LOCALIZATION NOTE(SMIME.label): This a name for a technical standard. You should not translate it, but if applicable, you may write it using localized characters. -->
+<!ENTITY SMIME.label "S/MIME">

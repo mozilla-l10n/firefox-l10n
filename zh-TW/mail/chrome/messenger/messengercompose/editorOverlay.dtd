@@ -193,20 +193,20 @@
 <!ENTITY alignMenu.accesskey "A">
 <!ENTITY alignLeft.label "靠左">
 <!ENTITY alignLeft.accesskey "L">
-<!ENTITY alignLeft.tooltip "向左對齊">
+<!ENTITY alignLeft.tooltip "置左對齊">
 <!ENTITY alignCenter.label "置中">
 <!ENTITY alignCenter.accesskey "C">
 <!ENTITY alignCenter.tooltip "置中對齊">
 <!ENTITY alignRight.label "靠右">
 <!ENTITY alignRight.accesskey "R">
-<!ENTITY alignRight.tooltip "向右對齊">
+<!ENTITY alignRight.tooltip "置右對齊">
 <!ENTITY alignJustify.label "左右對齊">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "左右對齊">
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "層次(Layer)">
-<!ENTITY layerSendToBack.tooltip "移至後層">
+<!ENTITY layerSendToBack.tooltip "移至下層">
 <!ENTITY layerBringToFront.tooltip "移至上層">
 
 <!ENTITY increaseIndent.label "增加縮排">
