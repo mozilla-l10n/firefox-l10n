@@ -123,6 +123,9 @@ about-logins-reveal-password-os-auth-dialog-message-macosx = mostrar la contrase
 about-logins-copy-password-os-auth-dialog-message = Verifiqueu la vostra identitat per copiar la contrasenya desada.
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Per copiar la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
+# This message can be seen when attempting to copy a password in about:logins
+# On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
+about-logins-copy-password-os-auth-dialog-message-macosx = copiar la contrasenya desada
 
 ## Master Password notification
 
