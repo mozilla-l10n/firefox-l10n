@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Tipo de letra">
 <!ENTITY FontFaceSelect.tooltip "Escolha um tipo de letra">
 <!ENTITY fontfaceMenu.label "Tipo de letra">
 <!ENTITY fontfaceMenu.accesskey "l">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Tamanho do tipo de letra">
 <!ENTITY FontSizeSelect.tooltip "Escolha o tamanho do tipo de letra">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "e">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Propriedades da lista…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "Parágrafo">
 <!ENTITY ParagraphSelect.tooltip "Escolha um formato de parágrafo">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Corpo do texto">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Alinhar justificado">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posicionar">
 <!ENTITY layer.tooltip "Camada">
+<!ENTITY decreaseZIndex.label "Enviar de volta">
 <!ENTITY layerSendToBack.tooltip "Enviar para trás">
+<!ENTITY increaseZIndex.label "Trazer para a frente">
 <!ENTITY layerBringToFront.tooltip "Trazer para a frente">
 
 <!ENTITY increaseIndent.label "Aumentar avanço">
@@ -304,14 +310,18 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserir nova ligação ou editar as propriedades da ligação selecionada">
 <!ENTITY anchorToolbarCmd.label "Âncora">
 <!ENTITY anchorToolbarCmd.tooltip "Inserir nova âncora ou editar as propriedades das âncoras selecionadas">
+<!ENTITY colorButtons.title "Cores">
 <!ENTITY TextColorButton.tooltip "Escolha a cor do texto">
 <!ENTITY BackgroundColorButton.tooltip "Escolha a cor para o fundo">
 <!ENTITY throbber.tooltip "Ir para a página inicial do &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
+<!ENTITY HighlightColorButton.label "Marcador">
 <!ENTITY HighlightColorButton.tooltip "Escolha a cor de realce do texto">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Tamanho do tipo de letra">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definir tamanho da letra">
+<!ENTITY smaller.label "Mais pequeno">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuir tamanho da letra">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar tamanho da letra">
 <!ENTITY boldToolbarCmd.tooltip "Negrito">
