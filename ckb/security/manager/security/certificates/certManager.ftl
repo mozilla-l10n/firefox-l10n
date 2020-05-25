@@ -90,18 +90,32 @@ certmgr-hierarchy =
 certmgr-add-exception =
     .label = هەڵاوێردی زیادبکە...
     .accesskey = ه
+exception-mgr-cert-location-url =
+    .value = شوێن:
+exception-mgr-cert-location-download =
+    .label = بڕوانامە بەدەستبێنە
+    .accesskey = ب
+exception-mgr-cert-status-view-cert =
+    .label = پیشاندان...
+    .accesskey = پ
 
 ## PKCS#12 file dialogs
 
+file-browse-pkcs12-spec = پەڕگەکانی PKCS12
 
 ## Import certificate(s) file dialog
 
+file-browse-certificate-spec = پەڕگەکانی بڕوانامە
 
 ## For editing certificates trust
 
 
 ## For Deleting Certificates
 
+delete-user-cert-title =
+    .title = سڕینەوەی بڕوانامەکانت
+delete-user-cert-confirm = ئایا تۆ دڵنیایت کە دەتەوێ بڕوانامە بسڕیتەوە؟
+delete-user-cert-impact = ئەگەر یەکێک لە بڕوانامەکان بسڕیتەوە، ئیتر ناتوانیت بەکاریبێنی بۆ ناساندنی خۆت.
 
 ## Cert Viewer
 
