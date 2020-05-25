@@ -38,10 +38,14 @@ devmgr-button-disable-fips =
 
 ## Strings used for load device
 
+load-device =
+    .title = وەگەڕخەری ئامێری PKCS#11 باربکە
 load-device-info = زانیارییەکانی مۆدول بنووسە کە دەتەوێت زیادی بکەیت.
 load-device-modname =
     .value = ناوی مۆدول
     .accesskey = م
+load-device-modname-default =
+    .value = مۆدولی PKCS#11 نوێ
 load-device-filename =
     .value = ناوی پەڕگەی مۆدول
     .accesskey = ف
@@ -71,3 +75,24 @@ devinfo-man-id =
     .label = کۆمپانیا
 devinfo-hwversion =
     .label = وەشانی ڕەقەکاڵا
+devinfo-fwversion =
+    .label = وەشانی پتەوواڵا
+devinfo-modname =
+    .label = مۆدول
+devinfo-modpath =
+    .label = ڕێڕەو
+login-failed = نەتوان بچیتە ژوورەوە
+devinfo-label =
+    .label = پێناس
+devinfo-serialnum =
+    .label = ژمارەی زنجیرە
+load-pk11-module-file-picker-title = وەگەڕخەری PKCS#11  ئامێر هەڵبژێرە بۆ بارکردن
+# Load Module Dialog
+load-module-help-empty-module-name =
+    .value = ناوی مۆدول نابێت بەتاڵ بێت
+# Do not translate 'Root Certs'
+load-module-help-root-certs-module-name =
+    .value = ‘Root Certs‘  پارێزراوە نابێت بەکاربێت بۆ ناوی مۆدول.
+add-module-failure = نەتوانرا مۆدول زیاد بکرێت
+del-module-warning = ئایا تۆ دڵنیایت کە دەتەوێ ئەم مۆدولی پاراستنە بسڕیتەوە؟
+del-module-error = نەتوانرا مۆدول بسڕێتەوە
