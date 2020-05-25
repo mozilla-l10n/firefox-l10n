@@ -41,7 +41,7 @@ protection-report-page-summary = { -brand-short-name } pote proteger tu vita pri
 protection-report-settings-link = Gerer tu confidentialitate e parametros de securitate
 etp-card-title-always = Protection antitraciamento reinfortiate: Sempre active
 etp-card-title-custom-not-blocking = Protection antitraciamento reinfortiate: NON ACTIVE
-etp-card-content-summary = Quando interprisas incognite tenta de sequer te secretemente sur le Web, { -brand-short-name } impedi automaticamente multes de illos.
+etp-card-content-description = { -brand-short-name } impedi automaticamente que interprisas te seque secretemente sur le web.
 protection-report-etp-card-content-custom-not-blocking = Tote le protectiones es actualmente disactivate. Selige le traciatores a blocar per gerer le parametros de protection de { -brand-short-name }.
 protection-report-manage-protections = Gerer le parametros
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
