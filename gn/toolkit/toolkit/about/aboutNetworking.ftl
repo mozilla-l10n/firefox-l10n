@@ -57,7 +57,6 @@ rcwn-avg-long = Mombytegua ipukúva
 rcwn-std-dev-long = Ñemboyke ha'etéva ipukúva
 rcwn-cache-slow = Kache nemba'etéva imbeguéva
 rcwn-cache-not-slow = Kache nemba'etéva imbegue'ỹva
-
 about-networking-title = Ñanduti raperã rehegua
 about-networking-http = HTTP
 about-networking-sockets = Moingeha
@@ -80,6 +79,7 @@ about-networking-family = Pehẽngue
 about-networking-trr = TRR
 about-networking-addresses = Kundaharape
 about-networking-expires = Paha (aravo'ive)
+about-networking-originAttributesSuffix = Mba’eñemi momombyryha
 about-networking-messages-sent = Marandu mondopyre
 about-networking-messages-received = Marandu japyhypyre
 about-networking-bytes-sent = Bytes mondopyre
