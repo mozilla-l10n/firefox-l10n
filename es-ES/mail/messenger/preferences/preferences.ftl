@@ -2,7 +2,6 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
-
 pane-general-title = General
 category-general =
     .tooltiptext = { pane-general-title }
@@ -94,6 +93,9 @@ update-in-progress-cancel-button = &Continuar
 
 # This message can be seen by trying to add a Master Password.
 master-password-os-auth-dialog-message = Verique su identidad para crear una contraseña maestra.
+
+# This message can be seen by trying to add a Master Password.
+master-password-os-auth-dialog-message-win = Para crear una contraseña maestra, introduzca sus credenciales de inicio de sesión en Windows. Esto le ayuda a proteger la seguridad de sus cuentas.
 
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Thunderbird is trying to "
