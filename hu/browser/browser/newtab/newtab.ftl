@@ -89,6 +89,7 @@ newtab-menu-show-privacy-info = Támogatóink és az Ön adatvédelme
 ## Message displayed in a modal window to explain privacy and provide context for sponsored content.
 
 newtab-privacy-modal-button-done = Kész
+newtab-privacy-modal-button-manage = Szponzorált tartalom beállításainak kezelése
 newtab-privacy-modal-header = Számít az Ön adatvédelme.
 newtab-privacy-modal-paragraph-2 =
     A magával ragadó történetek mellett, kiválasztott szponzoraink releváns,
