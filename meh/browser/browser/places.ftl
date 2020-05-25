@@ -5,7 +5,31 @@
 places-open =
     .label = Síne
     .accesskey = O
-
+places-open-tab =
+    .label = Síne nuu iin pestaña jíía
+    .accesskey = t
+places-open-all-in-tabs =
+    .label = Síne kuaiyo ji pestañas
+    .accesskey = o
+places-open-window =
+    .label = Síne nuu iin ventana jíía
+    .accesskey = n
+places-open-private-window =
+    .label = Síne nuu iin ventana yu´u jíía
+    .accesskey = p
+places-new-folder-contextmenu =
+    .label = Carpeta jíía...
+    .accesskey = F
+places-new-folder =
+    .label = Carpeta jíía...
+    .accesskey = u
+places-new-separator =
+    .label = Separador jíía
+    .accesskey = v
+places-view =
+    .label = Kune'ya
+    .accesskey = V
+places-history-search =
+    .placeholder = Nánuku historial
 places-bookmarks-search =
     .placeholder = Nánuku A ta´a ini noo´o
-
