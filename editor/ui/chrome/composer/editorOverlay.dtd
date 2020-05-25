@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Lettertype">
 <!ENTITY FontFaceSelect.tooltip "Lettertype kieze">
 <!ENTITY fontfaceMenu.label "Lettertype">
 <!ENTITY fontfaceMenu.accesskey "L">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Lettergrutte">
 <!ENTITY FontSizeSelect.tooltip "Tekengrutte kieze">
 <!ENTITY decreaseFontSize.label "Lytser">
 <!ENTITY decreaseFontSize.accesskey "L">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Listeigenskippen…">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Alinea">
 <!ENTITY ParagraphSelect.tooltip "In alineaopmaak kieze">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Tekst">
@@ -205,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "Utfolje">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "Posysjonearring">
 <!ENTITY layer.tooltip "Leech">
+<!ENTITY decreaseZIndex.label "Nei efter stjoere">
 <!ENTITY layerSendToBack.tooltip "Nei efter bringe">
+<!ENTITY increaseZIndex.label "Nei foaren bringe">
 <!ENTITY layerBringToFront.tooltip "Nei foaren bringe">
 
 <!ENTITY increaseIndent.label "Ynspringe fergrutsje">
@@ -304,28 +310,46 @@
 <!ENTITY linkToolbarCmd.tooltip "Nije keppeling ynfoegje of eigenskippen fan selektearre keppeling oanpasse">
 <!ENTITY anchorToolbarCmd.label "Ankerferwizing">
 <!ENTITY anchorToolbarCmd.tooltip "Nije ankerferwizing ynfoegje of eigenskippen fan selektearre ankerferwizing oanpasse">
+<!ENTITY colorButtons.title "Kleuren">
 <!ENTITY TextColorButton.tooltip "Tekstkleur kieze">
 <!ENTITY BackgroundColorButton.tooltip "Eftergrûnkleur kieze">
 <!ENTITY throbber.tooltip "Gean nei de thússide fan &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Gean nei de thússide fan &brandShortName;">
+<!ENTITY HighlightColorButton.label "Markearstift">
 <!ENTITY HighlightColorButton.tooltip "Markearringskleur foar tekst kieze">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Lettergrutte">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Lettergrutte ynstelle">
+<!ENTITY smaller.label "Lytser">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Lytsere lettergrutte">
+<!ENTITY larger.label "Grutter">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Gruttere lettergrutte">
+<!ENTITY bold.label "Fet">
 <!ENTITY boldToolbarCmd.tooltip "Fet">
+<!ENTITY italic.label "Kursyf">
 <!ENTITY italicToolbarCmd.tooltip "Skreef">
+<!ENTITY underline.label "Understreekje">
 <!ENTITY underlineToolbarCmd.tooltip "Understreekje">
+<!ENTITY bullets.label "Opsommingstekens">
 <!ENTITY bulletListToolbarCmd.tooltip "List mei opsommingstekens">
+<!ENTITY numbers.label "Nûmers">
 <!ENTITY numberListToolbarCmd.tooltip "List mei nûmering">
+<!ENTITY outdent.label "Utspringe">
 <!ENTITY outdentToolbarCmd.tooltip "Ynspringen ferlytse">
+<!ENTITY indent.label "Ynspringe">
 <!ENTITY indentToolbarCmd.tooltip "Ynspringen fergrutsje">
+<!ENTITY AlignPopupButton.label "Utlining">
 <!ENTITY AlignPopupButton.tooltip "Tekstútlyning kieze">
+<!ENTITY InsertPopupButton.label "Ynfoegje">
 <!ENTITY InsertPopupButton.tooltip "In keppeling, ankerferwizing, ôfbylding, horizontale line of tabel ynfoegje">
+<!ENTITY alignLeftButton.label "Links rjochtsje">
 <!ENTITY alignLeftButton.tooltip "Tekst by de loftermarzje rjochtsje">
+<!ENTITY alignCenterButton.label "Sintreard útlynje">
 <!ENTITY alignCenterButton.tooltip "Tekst sintrearre rjochtsje">
+<!ENTITY alignRightButton.label "Rjochts rjochtsje">
 <!ENTITY alignRightButton.tooltip "Tekst by de rjochtermarzje rjochtsje">
+<!ENTITY alignJustifyButton.label "Utfolje">
 <!ENTITY alignJustifyButton.tooltip "Tekst by de lofter- en rjochtermarzje rjochtsje">
 
 <!-- Structure Toolbar Context Menu items -->

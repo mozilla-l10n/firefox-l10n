@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Ik sis neat">
 <!ENTITY smiley16Cmd.accesskey "I">
 <!ENTITY smiley16Cmd.tooltip "Foegje in gesicht dat neat seit yn">
+<!ENTITY SmileButton.label "Smiley ynfoegje">
 <!ENTITY SmileButton.tooltip "Foegje in smiley yn">
-
