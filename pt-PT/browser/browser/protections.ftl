@@ -116,16 +116,16 @@ lockwise-connected-device-status =
         [one] Ligado a { $count } dispositivo
        *[other] Ligado a { $count } dispositivos
     }
-monitor-title = Procurar por falhas de segurança de dados
+monitor-title = Procurar por violações de dados
 monitor-link = Como funciona
-monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas falhas de segurança.
+monitor-header-content-no-account = Aceda ao { -monitor-brand-name } para confirmar se fez parte de uma violação de dados conhecida e para obter alertas sobre novas violações de dados.
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa-o se a sua informação apareceu numa violação de dados conhecida.
-monitor-sign-up = Registar para Alertas de falhas de segurança
+monitor-sign-up = Registar contar para alertas de violações de dados
 auto-scan = Analisado hoje, de forma automática
 monitor-emails-tooltip =
     .title = Ver os endereços de e-mail monitorados no { -monitor-brand-short-name }
 monitor-breaches-tooltip =
-    .title = Ver no { -monitor-brand-short-name } as falhas de segurança de dados conhecidas
+    .title = Ver no { -monitor-brand-short-name } as violações de dados conhecidas
 monitor-passwords-tooltip =
     .title = Ver no { -monitor-brand-short-name } as palavras-passe expostas.
 # This string is displayed after a large numeral that indicates the total number
@@ -149,8 +149,8 @@ info-known-breaches-found =
 # your localization, because it would result in the number showing twice.
 info-exposed-passwords-found =
     { $count ->
-        [one] palavra-passe exposta em todas as falhas de segurança
-       *[other] palavras-passe expostas em todas as falhas de segurança
+        [one] palavra-passe exposta em todas as violações de dados
+       *[other] palavras-passe expostas em todas as violações de dados
     }
 full-report-link = Ver o relatório completo em <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
 # This string is displayed after a large numeral that indicates the total number
