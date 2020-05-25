@@ -315,8 +315,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Usa { $plugin-name } (in { -brand-short-name })
-applications-preview-inapp =
-    .label = Anteprima in { -brand-short-name }
 applications-open-inapp =
     .label = Apri in { -brand-short-name }
 
@@ -330,8 +328,6 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 applications-open-inapp-label =
     .value = { applications-open-inapp.label }
 applications-always-ask-label =
@@ -798,7 +794,6 @@ forms-master-pw-fips-desc = La password non è stata cambiata
 ## OS Authentication dialog
 
 # This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = Verificare la propria identità per creare una password principale.
 master-password-os-auth-dialog-message-win = Per creare una password principale, inserire le credenziali di accesso a Windows. Questo aiuta a garantire la sicurezza dei tuoi account.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
@@ -964,7 +959,6 @@ content-blocking-fingerprinters = Fingerprinter
 content-blocking-warning-title = Attenzione
 content-blocking-warning-description = Il blocco di contenuti potrebbe impedire il corretto funzionamento di alcuni siti. È semplice disattivare il blocco per i siti che ritieni affidabili.
 content-blocking-learn-how = Scopri come
-content-blocking-etp-warning-description = Il blocco degli elementi traccianti può impedire il corretto funzionamento di alcuni siti. Ricaricare la pagina con gli elementi traccianti per visualizzare tutti i contenuti.
 content-blocking-and-isolating-etp-warning-description = Il blocco degli elementi traccianti e l’isolamento dei cookie possono impedire il corretto funzionamento di alcuni siti. Ricaricare la pagina con gli elementi traccianti per visualizzare tutti i contenuti.
 content-blocking-warning-learn-how = Scopri come
 content-blocking-reload-description = È necessario ricaricare le schede per applicare le modifiche.
