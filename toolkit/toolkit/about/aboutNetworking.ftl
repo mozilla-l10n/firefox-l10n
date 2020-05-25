@@ -59,7 +59,6 @@ rcwn-avg-long = Lang gemiddelde
 rcwn-std-dev-long = Lange standaarddeviatie
 rcwn-cache-slow = Aantal trage buffers
 rcwn-cache-not-slow = Aantal niet-trage buffers
-
 about-networking-title = Over Netwerken
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -82,6 +81,7 @@ about-networking-family = Familie
 about-networking-trr = TRR
 about-networking-addresses = Adressen
 about-networking-expires = Verloopt (seconden)
+about-networking-originAttributesSuffix = Isolatiesleutel
 about-networking-messages-sent = Berichten verzonden
 about-networking-messages-received = Berichten ontvangen
 about-networking-bytes-sent = Bytes verzonden
