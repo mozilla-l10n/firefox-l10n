@@ -43,6 +43,7 @@
 <!ENTITY createLinkCmd.accesskey "n">
 <!ENTITY editLinkCmd.label "Editar enlace en ventana de Composer nueva">
 <!ENTITY editLinkCmd.accesskey "i">
+<!ENTITY FontFaceSelect.title "Tipo de letra">
 <!ENTITY FontFaceSelect.tooltip "Elija un tipo de letra">
 <!ENTITY fontfaceMenu.label "Tipo de letra">
 <!ENTITY fontfaceMenu.accesskey "T">
@@ -57,6 +58,7 @@
 <!ENTITY fontTimes.accesskey "T">
 <!ENTITY fontCourier.label "Courier">
 <!ENTITY fontCourier.accesskey "C">
+<!ENTITY FontSizeSelect.title "Tamaño de letra">
 <!ENTITY FontSizeSelect.tooltip "Elija un tamaño de letra">
 <!ENTITY decreaseFontSize.label "Menor">
 <!ENTITY decreaseFontSize.accesskey "r">
@@ -158,6 +160,7 @@
 <!ENTITY listDefinitionCmd.accesskey "D">
 <!ENTITY listPropsCmd.label "Listar propiedades…">
 <!ENTITY listPropsCmd.accesskey "L">
+<!ENTITY ParagraphSelect.title "Párrafo">
 <!ENTITY ParagraphSelect.tooltip "Elija un formato de párrafo">
 <!ENTITY bodyTextCmd.label "Cuerpo del texto">
 <!ENTITY bodyTextCmd.accesskey "T">
@@ -177,8 +180,11 @@
 <!ENTITY alignJustify.label "Justificar">
 <!ENTITY alignJustify.accesskey "J">
 <!ENTITY alignJustify.tooltip "Justificar">
+<!ENTITY absolutePosition.label "Posicionamiento">
 <!ENTITY layer.tooltip "Capa">
+<!ENTITY decreaseZIndex.label "Enviar al fondo">
 <!ENTITY layerSendToBack.tooltip "Enviar al fondo">
+<!ENTITY increaseZIndex.label "Traer al frente">
 <!ENTITY layerBringToFront.tooltip "Traer al frente">
 <!ENTITY increaseIndent.label "Incrementar sangrado">
 <!ENTITY increaseIndent.accesskey "I">
@@ -258,26 +264,44 @@
 <!ENTITY linkToolbarCmd.tooltip "Inserta un nuevo enlace o edita las propiedades del enlace seleccionado">
 <!ENTITY anchorToolbarCmd.label "Enlace interno">
 <!ENTITY anchorToolbarCmd.tooltip "Inserta un nuevo enlace con nombre o modifica las propiedades del enlace con nombre seleccionado">
+<!ENTITY colorButtons.title "Colores">
 <!ENTITY TextColorButton.tooltip "Elija un color para el texto">
 <!ENTITY BackgroundColorButton.tooltip "Elija un color para el fondo">
 <!ENTITY throbber.tooltip "Ir a la página web de &vendorShortName;">
 <!ENTITY throbber.tooltip2 "Ir a la página principal de &brandShortName;">
+<!ENTITY HighlightColorButton.label "Resaltador">
 <!ENTITY HighlightColorButton.tooltip "Elegir color para remarcar texto">
+<!ENTITY absoluteFontSize.label "Tamaño de letra">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Establecer tamaño de letra">
+<!ENTITY smaller.label "Menor">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Reducir el tamaño de la letra">
+<!ENTITY larger.label "Mayor">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar el tamaño de la letra">
+<!ENTITY bold.label "Negrita">
 <!ENTITY boldToolbarCmd.tooltip "Negrita">
+<!ENTITY italic.label "Cursiva">
 <!ENTITY italicToolbarCmd.tooltip "Cursiva">
+<!ENTITY underline.label "Subrayar">
 <!ENTITY underlineToolbarCmd.tooltip "Subrayar">
+<!ENTITY bullets.label "Viñetas">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar o eliminar lista no numerada">
+<!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar o eliminar lista numerada">
+<!ENTITY outdent.label "Reducir sangrado">
 <!ENTITY outdentToolbarCmd.tooltip "Reducir sangrado (mover a la izquierda)">
+<!ENTITY indent.label "Sangrar">
 <!ENTITY indentToolbarCmd.tooltip "Sangrar texto (mover a la derecha)">
+<!ENTITY AlignPopupButton.label "Alineación">
 <!ENTITY AlignPopupButton.tooltip "Elegir alineación del texto">
+<!ENTITY InsertPopupButton.label "Insertar">
 <!ENTITY InsertPopupButton.tooltip "Insertar un enlace, enlace con nombre, imagen, línea horizontal o tabla">
+<!ENTITY alignLeftButton.label "Alinear a la izquierda">
 <!ENTITY alignLeftButton.tooltip "Alinear texto a lo largo del margen izquierdo">
+<!ENTITY alignCenterButton.label "Alinear al centro">
 <!ENTITY alignCenterButton.tooltip "Alinear texto centrado">
+<!ENTITY alignRightButton.label "Alinear a la derecha">
 <!ENTITY alignRightButton.tooltip "Alinear texto a lo largo del margen derecho">
+<!ENTITY alignJustifyButton.label "Alinear justificado">
 <!ENTITY alignJustifyButton.tooltip "Alinear texto a los márgenes izquierdo y derecho">
 <!ENTITY structSelect.label "Seleccionar">
 <!ENTITY structSelect.accesskey "s">

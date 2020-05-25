@@ -52,4 +52,5 @@
 <!ENTITY smiley16Cmd.label "Labios sellados">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Insertar una cara de labios sellados">
+<!ENTITY SmileButton.label "Insertar emoticono">
 <!ENTITY SmileButton.tooltip "Insertar un emoticono">
