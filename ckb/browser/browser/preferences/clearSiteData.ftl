@@ -5,6 +5,7 @@
 clear-site-data-window =
     .title = زانیارییەکان بسڕەوە...
     .style = width: 35em
+clear-site-data-description = پاککردنەوەی شەکرۆکە و زانیارییەکانی ماڵپەڕ کە هەڵگیراوە لە لایەن { -brand-short-name } لەوانەیە بتکاتە دەرەوە لە هەموو ماڵپەڕەکان و ناوەڕۆکە دەرهێڵەکان. پاککردنەوەیان کار ناکتە سەر چوونەژوورەوەکان.
 clear-site-data-close-key =
     .key = w
 # The parameters in parentheses in this string describe disk usage
