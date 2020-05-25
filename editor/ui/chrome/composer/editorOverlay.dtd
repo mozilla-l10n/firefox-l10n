@@ -323,19 +323,33 @@
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Definir tamanho da letra">
 <!ENTITY smaller.label "Mais pequeno">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Diminuir tamanho da letra">
+<!ENTITY larger.label "Maior">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Aumentar tamanho da letra">
+<!ENTITY bold.label "Negrito">
 <!ENTITY boldToolbarCmd.tooltip "Negrito">
+<!ENTITY italic.label "Itálico">
 <!ENTITY italicToolbarCmd.tooltip "Itálico">
+<!ENTITY underline.label "Sublinhado">
 <!ENTITY underlineToolbarCmd.tooltip "Sublinhado">
+<!ENTITY bullets.label "Pontos">
 <!ENTITY bulletListToolbarCmd.tooltip "Aplicar ou remover lista com marcas">
+<!ENTITY numbers.label "Números">
 <!ENTITY numberListToolbarCmd.tooltip "Aplicar ou remover lista numerada">
+<!ENTITY outdent.label "Superar">
 <!ENTITY outdentToolbarCmd.tooltip "Recuar texto (mover para a esquerda)">
+<!ENTITY indent.label "Recuar">
 <!ENTITY indentToolbarCmd.tooltip "Avançar texto (mover para a direita)">
+<!ENTITY AlignPopupButton.label "Alinhamento">
 <!ENTITY AlignPopupButton.tooltip "Escolha o alinhamento do texto">
+<!ENTITY InsertPopupButton.label "Inserir">
 <!ENTITY InsertPopupButton.tooltip "Inserir ligação, âncora, imagem, linha horizontal ou tabela">
+<!ENTITY alignLeftButton.label "Alinhar à esquerda">
 <!ENTITY alignLeftButton.tooltip "Alinhar o texto à margem esquerda">
+<!ENTITY alignCenterButton.label "Alinhar ao centro">
 <!ENTITY alignCenterButton.tooltip "Alinhar o texto ao centro">
+<!ENTITY alignRightButton.label "Alinhar à direita">
 <!ENTITY alignRightButton.tooltip "Alinhar o texto à margem direita">
+<!ENTITY alignJustifyButton.label "Alinhar Justificar">
 <!ENTITY alignJustifyButton.tooltip "Alinhar o texto à margem direita e esquerda">
 
 <!-- Structure Toolbar Context Menu items -->
