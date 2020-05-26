@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = 查看网站信息
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = 您已阻止此网站访问 MIDI。
 urlbar-install-blocked =
     .tooltiptext = 您已阻止此网站安装附加组件。
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = 编辑此书签 ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = 管理扩展…
 page-action-remove-from-urlbar =
     .label = 从地址栏移除
-
 page-action-remove-extension =
     .label = 移除扩展
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = 请选择这次要用的搜索引擎：
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = 更改搜索设置
 search-one-offs-change-settings-compact-button =
     .tooltiptext = 更改搜索设置
-
 search-one-offs-context-open-new-tab =
     .label = 在新标签页中搜索
     .accesskey = T
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = 保存时显示编辑器
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = 完成
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +234,12 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享。
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = 请通过“Web 开发者”菜单打开开发者工具，才能使用 F12 快捷键。
-
 
 ## URL Bar
 
@@ -248,11 +253,9 @@ urlbar-permissions-granted =
     .tooltiptext = 您已授予此站点更多权限。
 urlbar-switch-to-tab =
     .value = 切换到标签页：
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = 扩展：
-
 urlbar-go-button =
     .tooltiptext = 转到地址栏中指向的网址
 urlbar-page-action-button =
