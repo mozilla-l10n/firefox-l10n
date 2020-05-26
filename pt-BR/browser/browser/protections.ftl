@@ -169,6 +169,7 @@ monitor-no-breaches-description = Você não tem vazamentos conhecidos. Se isso 
 monitor-view-report-link = Ver relatório
     .title = Resolver vazamentos no { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Resolver seus vazamentos
+monitor-breaches-unresolved-description = Após revisar detalhes sobre vazamentos e tomar medidas para proteger suas informações, você pode marcar vazamentos como resolvidos.
 monitor-manage-breaches-link = Gerenciar vazamentos
     .title = Gerenciar vazamentos no { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Ótimo! Você resolveu todos os vazamentos conhecidos.
@@ -187,6 +188,9 @@ monitor-partial-breaches-percentage = { $percentageResolved }% concluído
 monitor-partial-breaches-motivation-title-start = Ótimo começo!
 monitor-partial-breaches-motivation-title-middle = Continue assim!
 monitor-partial-breaches-motivation-title-end = Falta pouco! Continue assim.
+monitor-partial-breaches-motivation-desc = Resolva o resto de seus vazamentos no { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Resolver vazamentos
+    .title = Resolver vazamentos no { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
