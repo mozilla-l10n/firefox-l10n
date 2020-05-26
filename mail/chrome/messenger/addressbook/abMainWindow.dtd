@@ -156,7 +156,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListContext.accesskey               "R">
 <!ENTITY newmsgButton.label                             "Skriv ny">
 <!ENTITY newmsgButton.accesskey                         "n">
-<!ENTITY newIM.label                                    "Lynmelding">
+<!ENTITY newIM.label                                    "Direktemelding">
 <!ENTITY newIM.accesskey                                "L">
 <!ENTITY printButton.label                              "Skriv ut …">
 <!ENTITY printButton.accesskey                          "k">
@@ -172,7 +172,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editContactPropertiesButton.tooltip            "Rediger valgt kontakt">
 <!ENTITY editMailingListPropertiesButton.tooltip        "Rediger valgt e-postliste">
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
-<!ENTITY newIM.tooltip                                  "Send en melding eller chat">
+<!ENTITY newIM.tooltip                                  "Send en direktemelding eller chatt">
 <!ENTITY deleteButton2.tooltip                          "Slett valgt element">
 
 <!-- Search Bar -->
