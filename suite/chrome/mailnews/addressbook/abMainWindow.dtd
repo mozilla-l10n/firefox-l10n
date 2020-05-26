@@ -9,22 +9,20 @@
 
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Kontakt…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Sändlista…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Adressbok…">
 <!ENTITY newAddressBookCmd.accesskey                    "b">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP-katalog…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "Skriv ut kontakt…">
 <!ENTITY printContactViewCmd.accesskey                  "k">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Förhandsgranska kontakt">
 <!ENTITY printPreviewContactViewCmd.accesskey           "F">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressbok…">
 <!ENTITY printAddressBook.accesskey                     "u">
 <!ENTITY printPreviewAddressBook.label                  "Förhandsgranska adressbok">
@@ -40,7 +38,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Låt för- och efternamn byta plats">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "f">
 <!ENTITY propertiesCmd.label                            "Egenskaper">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "E">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +82,8 @@
 <!ENTITY deleteItemButton.accesskey                     "b">
 <!ENTITY newimButton.label                              "Snabbmeddelande">
 <!ENTITY newimButton.accesskey                          "S">
+<!ENTITY printButton.label                              "Skriv ut">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY searchNameAndEmail.placeholder                 "Sök namn och e-post">
 <!ENTITY searchBox.title                                "Sök">
 
@@ -108,6 +107,7 @@
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Hem">
 <!ENTITY other.heading                                  "Annat">
+<!ENTITY chat.heading                                   "Chatt">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Arbete">
 <!-- Special Box Headings, for mailing lists -->

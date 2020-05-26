@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "Ta bort">
 <!ENTITY undeleteButton.label "Ångra ta bort">
 <!ENTITY markButton.label "Märk">
+<!ENTITY printButton.label "Skriv ut">
 <!ENTITY stopButton.label "Stopp">
 <!ENTITY junkButton.label "Skräppost">
 <!ENTITY notJunkButton.label "Ej skräppost">
