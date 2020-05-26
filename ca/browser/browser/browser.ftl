@@ -153,6 +153,8 @@ page-action-manage-extension =
     .label = Gestiona l'extensió…
 page-action-remove-from-urlbar =
     .label = Elimina de la barra d'adreces
+page-action-remove-extension =
+    .label = Elimina l'extensió
 
 ## Auto-hide Context Menu
 
@@ -248,6 +250,10 @@ identity-more-info-link-text =
 
 browser-window-minimize-button =
     .tooltiptext = Minimitza
+browser-window-maximize-button =
+    .tooltiptext = Maximitza
+browser-window-restore-down-button =
+    .tooltiptext = Restaura avall
 browser-window-close-button =
     .tooltiptext = Tanca
 
@@ -260,9 +266,19 @@ popup-select-microphone =
     .value = Micròfon per compartir:
     .accesskey = M
 popup-all-windows-shared = Es compartiran totes les finestres visibles de la pantalla.
+popup-screen-sharing-not-now =
+    .label = Ara no
+    .accesskey = A
+popup-screen-sharing-never =
+    .label = No permetis mai
+    .accesskey = N
+popup-silence-notifications-checkbox = Desactiva les notificacions del { -brand-short-name } mentre s'estigui compartint
+popup-silence-notifications-checkbox-warning = El { -brand-short-name } no mostrarà notificacions mentre estigueu compartint.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Esteu compartint el { -brand-short-name }. Les altres persones poden veure quan canvieu a una pestanya nova.
+sharing-warning-screen = Esteu compartint la pantalla sencera. Les altres persones poden veure quan canvieu a una pestanya nova.
 
 ## DevTools F12 popup
 
