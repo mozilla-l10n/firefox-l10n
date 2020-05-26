@@ -33,6 +33,7 @@
 <!ENTITY ScreenName.label                      "Skjermnavn">
 <!ENTITY ScreenName.accesskey                  "S">
 <!ENTITY ChatName.label                        "Nettpratnavn">
+<!ENTITY ChatName.accesskey                    "p">
 <!ENTITY sortAscending.label                   "Stigende">
 <!ENTITY sortAscending.accesskey               "S">
 <!ENTITY sortDescending.label                  "Synkende">
