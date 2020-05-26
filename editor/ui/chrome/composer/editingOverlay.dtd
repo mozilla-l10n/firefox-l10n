@@ -36,4 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "開啟本機檔案">
 <!ENTITY saveToolbarCmd.tooltip "儲存到本機位置">
 <!ENTITY publishToolbarCmd.tooltip "上傳檔案到遠端位置">
-
+<!ENTITY printToolbarCmd.label "列印">
+<!ENTITY printToolbarCmd.tooltip "列印此頁">

@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "名稱:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "圖示色彩:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "回復預設色彩">
 <!ENTITY folderProps.location.label              "位置:">
 <!ENTITY folderProps.location.accesskey          "L">
 
@@ -69,4 +72,3 @@
 <!ENTITY sizeOnDisk.label                        "在磁碟上的大小:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "未知">
-
