@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Ikusi gunearen informazioa
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = MIDI sarbidea blokeatuta daukazu webgune honetarako.
 urlbar-install-blocked =
     .tooltiptext = Gehigarrien instalazioa blokeatuta daukazu webgune honetarako.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editatu laster-marka ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = Kudeatu hedapena…
 page-action-remove-from-urlbar =
     .label = Kendu helbide-barratik
-
 page-action-remove-extension =
     .label = Kendu hedapena
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Oraingoan, bilatu honekin:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Aldatu bilaketa-ezarpenak
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Aldatu bilaketa-ezarpenak
-
 search-one-offs-context-open-new-tab =
     .label = Bilatu fitxa berrian
     .accesskey = f
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Erakutsi editorea gordetzean
     .accesskey = E
-
 bookmark-panel-done-button =
     .label = Eginda
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +234,12 @@ popup-select-microphone =
     .accesskey = m
 popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 lasterbidea erabiltzeko, ireki lehenik garatzaile-tresnak 'Web garapena' menutik.
-
 
 ## URL Bar
 
@@ -248,11 +253,9 @@ urlbar-permissions-granted =
     .tooltiptext = Baimen bereziak eman dizkiozu webgune honi.
 urlbar-switch-to-tab =
     .value = Aldatu fitxara:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Hedapena:
-
 urlbar-go-button =
     .tooltiptext = Joan kokapen-barrako helbidera
 urlbar-page-action-button =
