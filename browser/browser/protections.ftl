@@ -161,6 +161,9 @@ password-warning =
        *[other] Lagrade lösenord kan ha avslöjats i ett intrång. Ändra dessa lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
     }
 monitor-no-breaches-title = Goda nyheter!
+monitor-partial-breaches-motivation-title-start = Bra start!
+monitor-partial-breaches-motivation-title-middle = Fortsätt så!
+monitor-partial-breaches-motivation-title-end = Nästan klar! Fortsätt så.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

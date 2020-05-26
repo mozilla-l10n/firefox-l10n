@@ -272,9 +272,13 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Tillåt aldrig
     .accesskey = N
+popup-silence-notifications-checkbox = Inaktivera aviseringar från { -brand-short-name } när du delar
+popup-silence-notifications-checkbox-warning = { -brand-short-name } kommer inte att visa aviseringar medan du delar.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Du delar { -brand-short-name }. Andra kan se när du byter till en ny flik.
+sharing-warning-screen = Du delar hela skärmen. Andra kan se när du byter till en ny flik.
 sharing-warning-proceed-to-tab =
     .label = Fortsätt till Flik
 sharing-warning-disable-for-session =
