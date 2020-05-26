@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Website-ynformaasje werjaan
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = Jo hawwe MIDI foar dizze website blokkearre.
 urlbar-install-blocked =
     .tooltiptext = Jo hawwe ynstallaasje fan add-ons foar dizze website blokkearre.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Dizze blêdwizer bewurkje ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = Utwreiding beheare…
 page-action-remove-from-urlbar =
     .label = Fuortsmite fan adresbalke
-
 page-action-remove-extension =
     .label = Utwreiding fuortsmite
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Diskear sykje mei:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Sykynstellingen wizigje
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Sykynstellingen wizigje
-
 search-one-offs-context-open-new-tab =
     .label = Sykje yn Nij ljepblêd
     .accesskey = N
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = By bewarjen editor toane
     .accesskey = e
-
 bookmark-panel-done-button =
     .label = Klear
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +234,12 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = Alle sichtbere finsters op jo skerm sille dield wurde.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Iepenje earst DevTools yn it menu Webûntwikkeler om de fluchtoets F12 te brûken.
-
 
 ## URL Bar
 
@@ -248,11 +253,9 @@ urlbar-permissions-granted =
     .tooltiptext = Jo hawwe dizze website oanfoljende spesjale tastimmingen jûn.
 urlbar-switch-to-tab =
     .value = Wikselje nei ljepblêd:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Utwreiding:
-
 urlbar-go-button =
     .tooltiptext = It adres yn de lokaasjebalke iepenje
 urlbar-page-action-button =
