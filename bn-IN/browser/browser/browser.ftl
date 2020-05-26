@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = সাইটের তথ্য দেখুন
 
@@ -78,12 +88,10 @@ urlbar-canvas-blocked =
     .tooltiptext = আপনি এই ওয়েবসাইটের জন্য ক্যানভাস ডেটা নিষ্কাশন ব্লক করেছেন।
 urlbar-midi-blocked =
     .tooltiptext = আপনি ওয়েবসাইটটির জন্য MIDI এর প্রবেশ ব্লক করেছেন।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = চিহ্নিত বুকমার্ক পরিবর্তন করুন ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -115,7 +123,6 @@ search-one-offs-change-settings-button =
     .label = সার্চ সেটিংস বদল করুন
 search-one-offs-change-settings-compact-button =
     .tooltiptext = সার্চ সেটিংস বদল করুন
-
 search-one-offs-context-open-new-tab =
     .label = নতুন ট্যাবের মধ্যে খুলুন
     .accesskey = T
@@ -128,10 +135,8 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = সংরক্ষণ করার সময় এডিটর দেখান
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = সমাপ্ত
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -193,6 +198,9 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = আপনার স্ক্রিনে সব দৃশ্যমান উইন্ডো শেয়ার করা হবে।
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -206,11 +214,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ব্রাউজার রিমোট কন্ট্রোলের অধীনে আছে
 urlbar-switch-to-tab =
     .value = চিহ্নিত ট্যাবে পরিবর্তন করুন:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = এক্সটেনশন:
-
 urlbar-go-button =
     .tooltiptext = ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে
 urlbar-page-action-button =
