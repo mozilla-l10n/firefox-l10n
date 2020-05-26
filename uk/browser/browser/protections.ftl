@@ -128,6 +128,8 @@ monitor-link = Як це працює
 monitor-header-content-no-account = Спробуйте { -monitor-brand-name }, щоб перевірити чи ви потрапили до відомого витоку даних, а також отримуйте попередження про нові витоки.
 monitor-header-content-signed-in = { -monitor-brand-name } попереджає вас, якщо ваша інформація з'явилася у відомих витоках даних.
 monitor-sign-up = Підписатися на сповіщення
+monitor-sign-up-link = Підписатися на сповіщення
+    .title = Підписатися на сповіщення про витоки від { -monitor-brand-name }
 auto-scan = Автоматично проскановано сьогодні
 monitor-emails-tooltip =
     .title = Переглянути відстежувані адреси е-пошти на { -monitor-brand-short-name }
@@ -172,6 +174,15 @@ password-warning =
         [few] Збережені паролі могли бути викриті у витоку даних. Змініть ці паролі для кращого захисту онлайн. <a data-l10n-name="lockwise-link">Переглянути збережені паролі</a>
        *[many] Збережених паролів могло бути викрито у витоку даних. Змініть ці паролі для кращого захисту онлайн. <a data-l10n-name="lockwise-link">Переглянути збережені паролі</a>
     }
+monitor-no-breaches-title = Гарні новини!
+monitor-no-breaches-description = У вас немає відомих витоків даних. Якщо щось зміниться, ми повідомимо вас.
+monitor-view-report-link = Переглянути звіт
+    .title = Розв'язати проблеми, пов'язані з витоками даних на { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Розв'язати проблеми витоку даних
+monitor-breaches-unresolved-description = Після перегляду подробиць про витік даних та вжиття заходів для захисту вашої інформації, ви можете позначити витік вирішеним.
+monitor-manage-breaches-link = Керувати витоками
+    .title = Керування витоками даних на { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Чудово! Ви розв'язали всі відомі витоки даних.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
