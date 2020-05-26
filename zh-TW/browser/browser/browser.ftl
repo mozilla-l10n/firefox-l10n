@@ -35,9 +35,9 @@ browser-main-window =
 #  $content-title (String): the title of the web content.
 browser-main-window-mac =
     .data-title-default = { -brand-full-name }
-    .data-title-private = { -brand-full-name } - (隱私瀏覽)
+    .data-title-private = { -brand-full-name } -（隱私瀏覽模式）
     .data-content-title-default = { $content-title }
-    .data-content-title-private = { $content-title } - (隱私瀏覽)
+    .data-content-title-private = { $content-title } -（隱私瀏覽模式）
 # This gets set as the initial title, and is overridden as soon as we start
 # updating the titlebar based on loaded tabs or private browsing state.
 # This should match the `data-title-default` attribute in both
@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = 要分享的麥克風:
     .accesskey = M
 popup-all-windows-shared = 將分享您畫面上所有可見的視窗。
+popup-screen-sharing-not-now =
+    .label = 現在不要
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = 永不允許
+    .accesskey = N
+popup-silence-notifications-checkbox = 分享時，不顯示 { -brand-short-name } 的通知
+popup-silence-notifications-checkbox-warning = { -brand-short-name } 將不會在進行分享時顯示通知。
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = 您正在分享 { -brand-short-name }，切換到新分頁時會被其他人看到。
+sharing-warning-screen = 您正在分享完整畫面，切換到新分頁時會被其他人看到。
+sharing-warning-proceed-to-tab =
+    .label = 繼續前往分頁
+sharing-warning-disable-for-session =
+    .label = 在此階段停用分享保護
 
 ## DevTools F12 popup
 
