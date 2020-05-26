@@ -17,7 +17,6 @@
 <!ENTITY accountTypeMail.accesskey "m">
 <!ENTITY accountTypeNews.label "Amiḍan n isallen n ugraw">
 <!ENTITY accountTypeNews.accesskey "s">
-
 <!-- LOCALIZATION NOTE(accountTypeMovemail.label): do not translate 'Movemail' -->
 <!ENTITY accountTypeMovemail.label "Unix Mailspool (Movemail)">
 <!ENTITY accountTypeMovemail.accesskey "U">
@@ -121,7 +120,7 @@
 <!ENTITY newsServerNamePrefix.label "Isem n uqeddac n isalen (NNTP):">
 <!ENTITY downloadOnLogin.label "Zdem tura iznan">
 <!ENTITY downloadOnLogin.accesskey "Z">
-<!ENTITY deferStorageDesc.label "Tukksa n ṛṛcem n texxamt-agi ad yesekles imaylen n umiḍan-agi deg ukaram ines. Ay-agi ad yesban amiḍan deg uswir n ufella. Neq ma ulac, ad d-iban ɣef umiḍan n tebwaṭ tamatut n ikaramen idiganen.">
+<!ENTITY deferStorageDesc.label "Tukksa n ṛṛcem n texxamt-agi ad isekles imaylen n umiḍan-agi deg ukaram-ines. Ayagi ad d-yesban amiḍan deg uswir n ufella. Neɣ ma ulac, ad d-iban ɣef umiḍan n tebwwaḍt tamatut n yikaramen idiganen.">
 <!ENTITY deferStorage.label "Seqdec tabwaṭ tamatut (ad yesekles imaylen ɣef ikaramen idiganen)">
 <!ENTITY deferStorage.accesskey "b">
 <!ENTITY clickFinish.label "Sit ɣef Fak akken ad tessekelseḍ iɣewwaṛen-agi sakin ad teffɣeḍ seg umarag n umiḍan.">
