@@ -31,10 +31,11 @@
 <!ENTITY PhoneticField2.label           "Phonetic:">
 <!ENTITY DisplayName.label              "Display:">
 <!ENTITY DisplayName.accesskey          "D">
-<!ENTITY NickName.label                 "Nickname:">
-<!ENTITY NickName.accesskey             "N">
 <!ENTITY preferDisplayName.label        "Always prefer display name over message header">
 <!ENTITY preferDisplayName.accesskey    "A">
+<!ENTITY preferDisplayName2.accesskey   "y">
+<!ENTITY NickName.label                 "Nickname:">
+<!ENTITY NickName.accesskey             "N">
 
 <!ENTITY PrimaryEmail.label             "Email:">
 <!ENTITY PrimaryEmail.accesskey         "E">
@@ -47,6 +48,8 @@
 <!ENTITY Unknown.label                  "Unknown">
 <!ENTITY ScreenName.label               "Screen Name:">
 <!ENTITY ScreenName.accesskey           "S">
+
+<!ENTITY chatName.label                 "Chat Name:">
 
 <!ENTITY WorkPhone.label                "Work:">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -118,6 +121,27 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notes:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC Nick:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Photo">
 <!ENTITY Photo.accesskey                "o">
