@@ -163,6 +163,29 @@ password-warning =
        *[other] יתכן שכניסות שמורות נחשפו בדליפת נתונים. מומלץ לשנות את הססמאות האלו לטובת אבטחה מקוונת טובה יותר. <a data-l10n-name="lockwise-link"> הצגת כניסות שמורות</a>
     }
 monitor-no-breaches-title = חדשות טובות!
+monitor-no-breaches-description = אין לך דליפות מוכרות. אם זה ישתנה, נודיע לך על כך.
+monitor-view-report-link = הצגת דוח
+    .title = טיפול בדליפות ב־{ -monitor-brand-short-name }
+monitor-breaches-unresolved-title = טיפול בדליפות שלך
+monitor-manage-breaches-link = ניהול דליפות
+    .title = ניהול דליפות ב־{ -monitor-brand-short-name }
+monitor-breaches-resolved-title = יופי! טיפלת בכל הדליפות המוכרות.
+monitor-breaches-resolved-description = אם הדוא״ל שלך יופיע בדליפות חדשות כלשהן, נודיע לך על כך.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] דליפה { $numBreachesResolved } מתוך { $numBreaches } סומנה שטופלה
+       *[other] { $numBreachesResolved } מתוך { $numBreaches } דליפות סומנו שטופלו
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% הושלמו
+monitor-partial-breaches-motivation-title-start = התחלה נהדרת!
+monitor-partial-breaches-motivation-desc = טיפול בשאר הדליפות שלך ב־{ -monitor-brand-short-name }
+monitor-resolve-breaches-link = טיפול בדליפות
+    .title = טיפול בדליפות ב־{ -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
