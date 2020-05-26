@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Відкрити локальний файл">
 <!ENTITY saveToolbarCmd.tooltip "Зберегти файл до локального розташування">
 <!ENTITY publishToolbarCmd.tooltip "Вивантажити файл до віддаленого розташування">
+<!ENTITY printToolbarCmd.label "Друк">
+<!ENTITY printToolbarCmd.tooltip "Надрукувати цю сторінку">
