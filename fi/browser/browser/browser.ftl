@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Näytä sivuston tiedot
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = Olet estänyt MIDI-käytön tältä sivustolta.
 urlbar-install-blocked =
     .tooltiptext = Olet estänyt lisäosien asennuksen tältä sivustolta.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Muokkaa kirjanmerkkiä ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = Hallitse laajennusta…
 page-action-remove-from-urlbar =
     .label = Poista osoitepalkista
-
 page-action-remove-extension =
     .label = Poista laajennus
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Tällä kertaa käytä hakuun:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Muuta hakuasetuksia
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Muuta hakuasetuksia
-
 search-one-offs-context-open-new-tab =
     .label = Etsi uudessa välilehdessä
     .accesskey = E
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Näytä muokkaus tallennettaessa
     .accesskey = m
-
 bookmark-panel-done-button =
     .label = Valmis
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +234,12 @@ popup-select-microphone =
     .accesskey = m
 popup-all-windows-shared = Kaikki näkyvissä olevat ikkunat jaetaan.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Voit käyttää F12-pikanäppäintä, kun olet ensin avannut työkalut Web-työkalut-valikosta.
-
 
 ## URL Bar
 
@@ -248,11 +253,9 @@ urlbar-permissions-granted =
     .tooltiptext = Olet myöntänyt tälle sivustolle lisäoikeuksia.
 urlbar-switch-to-tab =
     .value = Siirry välilehteen:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Laajennus:
-
 urlbar-go-button =
     .tooltiptext = Siirry osoitepalkissa olevaan osoitteeseen
 urlbar-page-action-button =
