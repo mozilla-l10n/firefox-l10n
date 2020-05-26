@@ -272,7 +272,7 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Byth Caniatáu
     .accesskey = B
-popup-silence-notifications-checkbox = Analluoga hysbysiadau gan { -brand-short-name } wrth rannu
+popup-silence-notifications-checkbox = Analluogi hysbysiadau gan { -brand-short-name } wrth rannu
 popup-silence-notifications-checkbox-warning = Ni fydd { -brand-short-name } yn dangos hysbysiadau tra'ch bod chi'n rhannu.
 
 ## WebRTC window or screen share tab switch warning

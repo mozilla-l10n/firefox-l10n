@@ -48,7 +48,7 @@ protection-report-page-content-title = Bwrdd Gwaith Diogelwch
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = Gall { -brand-short-name } ddiogelu eich preifatrwydd y tu ôl i'r llenni wrth i chi bori. Mae hwn yn grynodeb wedi'i bersonoli o'r diogelwch hynny, gan gynnwys offer i reoli eich diogelwch ar-lein.
 # This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
-protection-report-page-summary-default = Mae { -brand-short-name } yn diogelu eich preifatrwydd y tu ôl i'r llenni wrth i chi bori. Mae hwn yn grynodeb wedi'i bersonoli o'r diogelwch hynny, gan gynnwys offer i reoli eich diogelwch ar-lein.
+protection-report-page-summary-default = Mae { -brand-short-name } yn diogelu eich preifatrwydd y tu ôl i'r llenni wrth i chi bori. Mae hwn yn grynodeb wedi'i bersonoli o'r diogelwch hynny, gan gynnwys offer i reoli'ch diogelwch ar-lein.
 protection-report-settings-link = Rheoli eich gosodiadau preifatrwydd a diogelwch
 etp-card-title-always = Diogelwch Uwch Rhag Tracio: Ymlaen Drwy'r Amser
 etp-card-title-custom-not-blocking = Diogelwch Uwch Rhag Tracio: I FFWRDD
