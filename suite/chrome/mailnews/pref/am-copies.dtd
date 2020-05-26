@@ -6,7 +6,7 @@
 
 <!ENTITY copyAndFolderTitle.label "備份與郵件匣">
 <!ENTITY sendingPrefix.label "寄送郵件時，">
-<!ENTITY fccMailFolder.label "複製一份到:">
+<!ENTITY fccMailFolder.label "自動複製一份到:">
 <!ENTITY fccMailFolder.accesskey "u">
 <!ENTITY fccReplyFollowsParent.label "將回信與原信放在同一郵件匣（像 Gmail 那樣）">
 <!ENTITY fccReplyFollowsParent.accesskey "P">
