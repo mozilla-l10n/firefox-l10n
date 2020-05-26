@@ -13,6 +13,13 @@
 <!ENTITY alwaysEncryptMessage.accesskey "u">
 <!ENTITY encryptionCert.message "Utilisar quest certificat per criptar &amp; decriptar messadis:">
 
+<!ENTITY e2eTitle.label "Criptadi fin-a-fin">
+<!ENTITY e2eIntro.description "Per trametter messadis criptads u suttascrits a moda digitala stos ti configurar ina tecnologia da criptadi, u OpenPGP u S/MIME.">
+<!ENTITY e2eLearnMore.label "Ulteriuras infurmaziuns">
+
+<!ENTITY e2eEnc.description "Senza criptadi fin-a-fin è il cuntegn da tes messadis expost a tes purschider dad e-mail ed a la surveglianza generala.">
+
+
 <!ENTITY digitalSign.certificate.button "Tscherner…">
 <!ENTITY digitalSign.certificate.accesskey "T">
 <!ENTITY digitalSign.certificate_clear.button "Stizzar">
@@ -31,6 +38,12 @@
 <!ENTITY manageCerts2.accesskey "m">
 <!ENTITY manageDevices.label "Moduls da criptadi">
 <!ENTITY manageDevices.accesskey "c">
+
+
+
+
+
+
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Tscherner in certificat">
