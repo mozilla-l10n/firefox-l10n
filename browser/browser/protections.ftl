@@ -228,7 +228,7 @@ monitor-partial-breaches-title =
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
-monitor-partial-breaches-percentage = { $percentResolved }% wedi'u cwblhau
+monitor-partial-breaches-percentage = { $percentageResolved }% wedi'u cwblhau
 monitor-partial-breaches-motivation-title-start = Dechrau da!
 monitor-partial-breaches-motivation-title-middle = Daliwch ati!
 monitor-partial-breaches-motivation-title-end = Bron wedi ei wneud! Daliwch ati.
