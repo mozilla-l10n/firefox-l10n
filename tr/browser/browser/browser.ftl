@@ -266,9 +266,18 @@ popup-select-microphone =
     .value = Paylaşılacak mikrofon:
     .accesskey = m
 popup-all-windows-shared = Ekranınızdaki tüm görünür pencereler paylaşılacaktır.
+popup-screen-sharing-not-now =
+    .label = Daha sonra
+    .accesskey = D
+popup-screen-sharing-never =
+    .label = Asla izin verme
+    .accesskey = A
+popup-silence-notifications-checkbox = Paylaşırken { -brand-short-name } bildirimlerini devre dışı bırak
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Sekmeye devam et
 
 ## DevTools F12 popup
 

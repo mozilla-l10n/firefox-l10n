@@ -57,7 +57,6 @@ rcwn-avg-long = Uzun ortalama
 rcwn-std-dev-long = Uzun standart sapma
 rcwn-cache-slow = Yavaş önbellek sayısı
 rcwn-cache-not-slow = Yavaş olmayan önbellek sayısı
-
 about-networking-title = Ağ hakkında
 about-networking-http = HTTP
 about-networking-sockets = Sockets
@@ -80,6 +79,7 @@ about-networking-family = Aile
 about-networking-trr = TRR
 about-networking-addresses = Adresler
 about-networking-expires = Zaman aşımı (saniye)
+about-networking-originAttributesSuffix = İzolasyon anahtarı
 about-networking-messages-sent = Gönderilen mesajlar
 about-networking-messages-received = Alınan mesajlar
 about-networking-bytes-sent = Gönderilen bayt

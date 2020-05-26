@@ -21,3 +21,11 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Şimdi eşitle
+
+## What's New panel in App menu.
+
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Yeni özellikleri bana bildir
+    .accesskey = ö

@@ -37,6 +37,7 @@ etp-card-title = Gelişmiş İzlenme Koruması
 etp-card-content = Takipçiler, gezinti alışkanlıklarınız ve ilgi alanlarınız hakkında bilgi toplamak için internette sizi takip eder. { -brand-short-name } bu takipçilerin ve diğer kötü amaçlı betiklerin çoğunu engeller.
 protection-report-webpage-title = Korumalar Panosu
 protection-report-page-content-title = Korumalar Panosu
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = Siz web’de gezinirken { -brand-short-name } arka planda gizliliğinizi korur. Aşağıda bu korumaların özetini ve çevrimiçi güvenliğinizi artırmanızı sağlayacak araçları görüyorsunuz.
 protection-report-settings-link = Gizlilik ve güvenlik ayarlarınızı yönetin
 etp-card-title-always = Gelişmiş izlenme koruması: Her zaman açık
@@ -59,8 +60,6 @@ fingerprinter-tab-title = Parmak izi toplayıcılar
 fingerprinter-tab-content = Parmak izi toplayıcılar profilinizi oluşturmak için tarayıcı ve bilgisayarınızdaki ayarları toplarlar. Bu dijital parmak izini kullanarak farklı web siteler arasında sizi takip edebilirler. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
 cryptominer-tab-title = Kripto madencileri
 cryptominer-tab-content = Kripto madencileri sayısal para madenciliğinde bulunmak için sisteminizin hesaplama gücünü kullanır. Kripto madencilik komut dosyaları pilinizi tüketir, bilgisayarınızı yavaşlatır ve elektrik faturanızı kabartabilir. <a data-l10n-name="learn-more-link">Daha fazla bilgi alın</a>
-protections-close-button =
-    .aria-label = Kapat
 protections-close-button2 =
     .aria-label = Kapat
     .title = Kapat
@@ -161,6 +160,9 @@ password-warning =
         [one] Kayıtlı hesabınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
        *[other] Kayıtlı hesaplarınız bir veri ihlalinde ele geçirilmiş olabilir. Güvenliğinizi artırmak için bu parolayı değiştirin. <a data-l10n-name="lockwise-link">Kayıtlı hesapları göster</a>
     }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = %{ $percentageResolved } tamamlandı
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
