@@ -277,8 +277,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } не пок
 
 ## WebRTC window or screen share tab switch warning
 
-sharing-warning-window = У вас активний спільний доступ { -brand-short-name }. Інші люди можуть бачити, коли ви перемикаєтесь на нову вкладку.
-sharing-warning-screen = У вас активний спільний доступ до цілого екрана. Інші люди можуть бачити, коли ви перемикаєтесь на нову вкладку.
+sharing-warning-window = Ви надаєте спільний доступ до { -brand-short-name }. Інші люди можуть бачити, коли ви перемикаєтесь на нову вкладку.
+sharing-warning-screen = Ви надаєте спільний доступ до цілого екрана. Інші люди можуть бачити, коли ви перемикаєтесь на нову вкладку.
 sharing-warning-proceed-to-tab =
     .label = Перемкнути вкладку
 sharing-warning-disable-for-session =
