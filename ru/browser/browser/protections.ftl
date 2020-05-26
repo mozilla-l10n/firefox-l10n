@@ -39,7 +39,10 @@ etp-card-title = Улучшенная защита от отслеживания
 etp-card-content = Трекеры отслеживают вас в Интернете, чтобы собирать информацию о ваших привычках и интересах. { -brand-short-name } блокирует многие из этих трекеров и других вредоносных скриптов.
 protection-report-webpage-title = Панель защиты
 protection-report-page-content-title = Панель защиты
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } может незаметно защищать вашу приватность во время пребывания в Интернете. Это персонализированная сводка состояния защиты, включая средства контроля вашей безопасности в Интернете.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } незаметно защищает вашу приватность во время пребывания в Интернете. Это персонализированная сводка состояния защиты, включая средства контроля вашей безопасности в Интернете.
 protection-report-settings-link = Управление настройками защиты и приватности
 etp-card-title-always = Улучшенная защита от отслеживания: всегда включена
 etp-card-title-custom-not-blocking = Улучшенная защита от отслеживания: ОТКЛЮЧЕНА
@@ -61,8 +64,6 @@ fingerprinter-tab-title = Сборщики цифровых отпечатков
 fingerprinter-tab-content = Сборщики цифровых отпечатков используют параметры вашего браузера и компьютера, чтобы создать ваш профиль. Используя этот цифровой отпечаток, они могут отслеживать вас на различных веб-сайтах. <a data-l10n-name="learn-more-link">Подробнее</a>
 cryptominer-tab-title = Криптомайнеры
 cryptominer-tab-content = Криптомайнеры используют вычислительные мощности вашей системы для добычи цифровых валют. Такие скрипты разряжают вашу батарею, замедляют работу компьютера и могут увеличить ваш счёт за электроэнергию. <a data-l10n-name="learn-more-link">Подробнее</a>
-protections-close-button =
-    .aria-label = Закрыть
 protections-close-button2 =
     .aria-label = Закрыть
     .title = Закрыть
@@ -127,6 +128,8 @@ monitor-link = Как это работает
 monitor-header-content-no-account = Попробуйте { -monitor-brand-name }, чтобы узнать, не стали ли вы жертвой известной утечки данных, и получать уведомления о новых утечках.
 monitor-header-content-signed-in = { -monitor-brand-name } предупредит вас, если ваша информация будет затронута новой утечкой данных.
 monitor-sign-up = Подпишитесь на уведомления об утечках
+monitor-sign-up-link = Подпишитесь на уведомления об утечках
+    .title = Подпишитесь на уведомления об утечках от { -monitor-brand-name }
 auto-scan = Автоматически просканировано сегодня
 monitor-emails-tooltip =
     .title = Посмотреть отслеживаемые адреса электронной почты на { -monitor-brand-short-name }
@@ -171,6 +174,11 @@ password-warning =
         [few] Сохранённых логина были скомпрометированы утечкой данных. Измените пароль для обеспечения безопасности. <a data-l10n-name="lockwise-link">Посмотреть сохранённые логины</a>
        *[many] Сохранённых логинов были скомпрометированы утечкой данных. Измените пароль для обеспечения безопасности. <a data-l10n-name="lockwise-link">Посмотреть сохранённые логины</a>
     }
+monitor-no-breaches-title = Хорошие новости!
+monitor-no-breaches-description = Ваши адреса не замечены ни в одной утечке. Если это изменится, мы дадим вам знать.
+monitor-view-report-link = Посмотреть отчёт
+    .title = Разобраться с утечками с помощью { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Разобраться с вашими утечками
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
