@@ -604,7 +604,7 @@
 <!ENTITY stopButton.tooltip "停止傳送">
 <!ENTITY junkButton.tooltip "標示所選訊息為垃圾信">
 <!ENTITY notJunkButton.tooltip "標示所選訊息為非垃圾信">
-<!ENTITY addressBookButton.tooltip "開啟通訊錄">
+<!ENTITY addressBookButton.tooltip "前往通訊錄">
 <!ENTITY chatButton.tooltip "顯示聊天分頁">
 <!ENTITY tagButton.tooltip "將郵件加上標籤">
 <!ENTITY compactButton.tooltip "從指定資料夾移除已刪郵件">
