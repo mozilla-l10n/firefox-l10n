@@ -7,9 +7,12 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Denne adresseboken viser kontakter bare etter at du har gjort et søk">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakter fra eksterne adressebøker vises ikke før du søker">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Kontakt …">
 <!ENTITY newContact.accesskey                           "K">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "E-postliste …">
 <!ENTITY newListCmd.accesskey                           "E">
 <!ENTITY newAddressBookCmd.label                        "Adressebok …">
@@ -81,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "S">
 <!ENTITY newimButton.label                              "Direktemelding">
 <!ENTITY newimButton.accesskey                          "I">
+<!ENTITY printButton.label                              "Skriv ut">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY searchNameAndEmail.placeholder                 "Søk i navn og e-postadresse">
 <!ENTITY searchBox.title                                "Søk">
 
@@ -91,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "Rediger valgt element">
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
 <!ENTITY newIM.tooltip                                  "Send en direktemelding eller chatt">
+<!ENTITY printButton.tooltip                            "Skriv ut valgt element">
 <!ENTITY deleteItemButton.tooltip                       "Slett valgt element">
 <!ENTITY throbber.tooltip                               "Gå til hjemmesiden til &vendorShortName;">
 <!ENTITY throbber.tooltip2                              "Gå til hjemmesiden til &brandShortName;">
