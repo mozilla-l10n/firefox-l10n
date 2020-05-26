@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "进行搜索后才会显示此通讯录的联系人">
+<!ENTITY localResultsOnlyMessage.label                  "在进行搜索之前将不会显示远程通讯录中的联系人">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "联系...">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "邮递列表…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "通讯录…">
 <!ENTITY newAddressBookCmd.accesskey                    "o">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP目录…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "即时通讯软件">
 <!ENTITY printContactViewCmd.label                      "打印联系人…">
 <!ENTITY printContactViewCmd.accesskey                  "P">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "联系人打印预览">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "打印通讯录…">
 <!ENTITY printAddressBook.accesskey                     "A">
 <!ENTITY printPreviewAddressBook.label                  "通讯录打印预览">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "切换 姓/名">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!ENTITY propertiesCmd.label                            "属性…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "D">
 <!ENTITY newimButton.label                              "实时消息">
 <!ENTITY newimButton.accesskey                          "I">
+<!ENTITY printButton.label                              "打印">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY searchNameAndEmail.placeholder                 "搜索名字和邮件">
 <!ENTITY searchBox.title                                "搜索">
 
@@ -95,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "编辑选中项">
 <!ENTITY newmsgButton.tooltip                           "发送一个邮件消息">
 <!ENTITY newIM.tooltip                                  "发送一条即时消息或聊天">
+<!ENTITY printButton.tooltip                            "打印所选项目">
 <!ENTITY deleteItemButton.tooltip                       "删除选中项">
 <!ENTITY throbber.tooltip                               "转到 &vendorShortName; 主页">
 <!ENTITY throbber.tooltip2                              "前往 &brandShortName; 主页">
@@ -108,6 +110,7 @@
 <!ENTITY contact.heading                                "联系人">
 <!ENTITY home.heading                                   "主页">
 <!ENTITY other.heading                                  "其它">
+<!ENTITY chat.heading                                   "聊天">
 <!ENTITY phone.heading                                  "电话">
 <!ENTITY work.heading                                   "工作">
 <!-- Special Box Headings, for mailing lists -->

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "通讯录">
+<!ENTITY Addrbook.accesskey                    "B">
 <!ENTITY GeneratedName.label                   "类别">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "电子邮件">
@@ -30,12 +32,14 @@
 <!ENTITY WorkPhone.accesskey                   "W">
 <!ENTITY ScreenName.label                      "显示名">
 <!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY ChatName.label                        "聊天名称">
+<!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "升序">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "降序">
 <!ENTITY sortDescending.accesskey              "D">
-<!-- context menu -->
 
+<!-- context menu -->
 <!ENTITY composeEmail.label                    "编写邮件给">
 <!ENTITY composeEmail.accesskey                "C">
 <!ENTITY copyAddress.label                     "复制邮件地址">
