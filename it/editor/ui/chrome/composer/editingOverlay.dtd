@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Apri file…">
 <!ENTITY openFileCmd.accesskey "f">
 <!ENTITY openFileCmd.key "O">
@@ -23,11 +24,17 @@
 <!ENTITY publishAsCmd.accesskey "b">
 <!ENTITY fileRevert.label "Torna all'ultimo salvataggio">
 <!ENTITY fileRevert.accesskey "T">
+
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Impostazioni pubblicazione…">
 <!ENTITY publishSettings.accesskey "m">
+
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nuovo">
 <!ENTITY newToolbarCmd.tooltip "Crea una nuova pagina con Composer">
 <!ENTITY openToolbarCmd.label "Apri">
 <!ENTITY openToolbarCmd.tooltip "Carica una pagina locale">
 <!ENTITY saveToolbarCmd.tooltip "Salva la pagina localmente">
 <!ENTITY publishToolbarCmd.tooltip "Memorizza i file presso un indirizzo remoto">
+<!ENTITY printToolbarCmd.label "Stampa">
+<!ENTITY printToolbarCmd.tooltip "Stampa la pagina">
