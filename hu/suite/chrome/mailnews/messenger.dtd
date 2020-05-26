@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "Törlés">
 <!ENTITY undeleteButton.label "Undelete">
 <!ENTITY markButton.label "Megjelölés">
+<!ENTITY printButton.label "Nyomtatás">
 <!ENTITY stopButton.label "Leállítás">
 <!ENTITY junkButton.label "Szemét">
 <!ENTITY notJunkButton.label "Nem szemét">
@@ -448,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "A kijelölt üzenet vagy mappa törlése">
 <!ENTITY undeleteButton.tooltip "Visszaállítás">
 <!ENTITY markButton.tooltip "Az üzenet megjelölése">
+<!ENTITY printButton.tooltip "Az üzenet kinyomtatása">
 <!ENTITY stopButton.tooltip "Átvitel megszakítása">
 <!ENTITY throbber.tooltip "Ugrás a &vendorShortName; honlapjára">
 <!ENTITY throbber.tooltip2 "Ugrás a &brandShortName; honlapjára">
