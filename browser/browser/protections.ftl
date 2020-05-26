@@ -214,6 +214,27 @@ monitor-manage-breaches-link = Rheoli Tor-data
     .title = Rheoli tor-data ar { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Da! Rydych wedi datrys pob achos o dor-data hysbys.
 monitor-breaches-resolved-description = Os bydd eich e-bost yn ymddangos mewn unrhyw dor-data newydd, byddwn yn rhoi gwybod i chi.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [zero] { $numBreachesResolved } allan o { $numBreaches } tor-data wedi'u marcio fel wedi'u datrys
+        [one] { $numBreachesResolved } allan o { $numBreaches } tor-data wedi'i farcio fel wedi'i ddatrys
+        [two] { $numBreachesResolved } allan o { $numBreaches } tor-data wedi'u marcio fel wedi'u datrys
+        [few] { $numBreachesResolved } allan o { $numBreaches } tor-data wedi'u marcio fel wedi'u datrys
+        [many] { $numBreachesResolved } allan o { $numBreaches } tor-data wedi'u marcio fel wedi'u datrys
+       *[other] { $numBreachesResolved } allan o { $numBreaches } tor-data wedi'u marcio fel wedi'u datrys
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentResolved }% wedi'u cwblhau
+monitor-partial-breaches-motivation-title-start = Dechrau da!
+monitor-partial-breaches-motivation-title-middle = Daliwch ati!
+monitor-partial-breaches-motivation-title-end = Bron wedi ei wneud! Daliwch ati.
+monitor-partial-breaches-motivation-desc = Datryswch weddill eich tor-data { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Datrys Tor-data
+    .title = Datrys tor-data ar { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
