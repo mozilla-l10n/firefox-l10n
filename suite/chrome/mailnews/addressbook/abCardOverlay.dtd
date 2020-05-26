@@ -29,10 +29,11 @@
 <!ENTITY NameField2.accesskey           "U">
 <!ENTITY PhoneticField1.label           "Fonetikus:">
 <!ENTITY PhoneticField2.label           "Fonetikus:">
-<!ENTITY DisplayName.label              "Becenév:">
+<!ENTITY DisplayName.label              "Megjelenítendő:">
 <!ENTITY DisplayName.accesskey          "B">
 <!ENTITY preferDisplayName.label        "A megjelenítendő név használata az üzenetfejlécben levő helyett">
 <!ENTITY preferDisplayName.accesskey    "m">
+<!ENTITY preferDisplayName2.accesskey   "j">
 <!ENTITY NickName.label                 "Becenév:">
 <!ENTITY NickName.accesskey             "B">
 
