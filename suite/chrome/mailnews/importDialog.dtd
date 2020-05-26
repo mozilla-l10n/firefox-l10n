@@ -34,11 +34,10 @@
 
 <!ENTITY back.label               "&lt; 上一步">
 <!ENTITY forward.label            "下一步 &gt;">
-<!ENTITY finish.label             "結束">
+<!ENTITY finish.label             "完成">
 <!ENTITY cancel.label             "取消">
 
 <!ENTITY select.label             "選擇要匯入的資料類型:">
 
 <!ENTITY title.label              "標題">
 <!ENTITY processing.label         "匯入中…">
-
