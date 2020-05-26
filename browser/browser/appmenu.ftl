@@ -21,3 +21,11 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Szinkronizálás
+
+## What's New panel in App menu.
+
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Értesítés az új funkciókról
+    .accesskey = f
