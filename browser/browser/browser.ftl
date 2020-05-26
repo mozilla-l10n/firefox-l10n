@@ -277,6 +277,12 @@ popup-silence-notifications-checkbox-warning = O { -brand-short-name } não exib
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Você está compartilhando o { -brand-short-name }. Outras pessoas podem ver quando você muda para outra aba.
+sharing-warning-screen = Você está compartilhando sua tela inteira. Outras pessoas podem ver quando você muda para outra aba.
+sharing-warning-proceed-to-tab =
+    .label = Prosseguir para a aba
+sharing-warning-disable-for-session =
+    .label = Desativar a proteção de compartilhamento nesta sessão
 
 ## DevTools F12 popup
 

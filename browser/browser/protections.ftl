@@ -37,7 +37,10 @@ etp-card-title = Proteção aprimorada contra rastreamento
 etp-card-content = Rastreadores seguem você online por todo canto para coletar informações sobre seus interesses e hábitos de navegação. O { -brand-short-name } bloqueia muitos desses rastreadores e outros scripts maliciosos.
 protection-report-webpage-title = Painel de proteções
 protection-report-page-content-title = Painel de proteções
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = O { -brand-short-name } pode proteger sua privacidade nos bastidores enquanto você navega. Este é um resumo personalizado dessas proteções, incluindo ferramentas para assumir o controle de sua segurança online.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = O { -brand-short-name } protege sua privacidade nos bastidores enquanto você navega. Este é um resumo personalizado dessas proteções, incluindo ferramentas para assumir o controle de sua segurança online.
 protection-report-settings-link = Gerenciar suas configurações de privacidade e segurança
 etp-card-title-always = Proteção aprimorada contra rastreamento: Sempre ATIVADA
 etp-card-title-custom-not-blocking = Proteção aprimorada contra rastreamento: DESATIVADA
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters coletam configurações do seu navegador e do computador para traçar um perfil seu. Usando esta identidade digital, eles podem rastrear você por vários sites. <a data-l10n-name="learn-more-link">Saiba mais</a>
 cryptominer-tab-title = Criptomineradores
 cryptominer-tab-content = Criptomineradores usam o poder computacional do seu sistema para minerar moedas digitais. Scripts de criptomineração drenam sua bateria, fazem seu computador ficar mais lento e podem aumentar sua conta de energia elétrica. <a data-l10n-name="learn-more-link">Saiba mais</a>
-protections-close-button =
-    .aria-label = Fechar
 protections-close-button2 =
     .aria-label = Fechar
     .title = Fechar
@@ -121,6 +122,8 @@ monitor-link = Como funciona
 monitor-header-content-no-account = Veja no { -monitor-brand-name } se você foi vítima de um vazamento de dados conhecido e receba alertas sobre novos vazamentos.
 monitor-header-content-signed-in = O { -monitor-brand-name } avisa caso suas informações apareçam em um vazamento de dados conhecido.
 monitor-sign-up = Cadastre-se para receber alertas de vazamentos
+monitor-sign-up-link = Cadastre-se para receber alertas de vazamentos
+    .title = Cadastre-se no { -monitor-brand-name } para receber alertas de vazamentos
 auto-scan = Analisados automaticamente hoje
 monitor-emails-tooltip =
     .title = Ver no { -monitor-brand-short-name } os endereços de e-mail monitorados
@@ -161,6 +164,8 @@ password-warning =
         [one] Conta salva pode ter sido exposta em um vazamento de dados. Mude esta senha para melhor segurança online. <a data-l10n-name="lockwise-link">Ver contas salvas</a>
        *[other] Contas salvas podem ter sido expostas em um vazamento de dados. Mude estas senhas para melhor segurança online. <a data-l10n-name="lockwise-link">Ver contas salvas</a>
     }
+monitor-no-breaches-title = Boas notícias!
+monitor-no-breaches-description = Você não tem vazamentos conhecidos. Se isso mudar, te avisaremos.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
