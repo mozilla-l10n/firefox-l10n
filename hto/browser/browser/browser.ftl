@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Bíe íyano ráfue ákata
 
@@ -36,7 +46,6 @@ urlbar-translated-notification-anchor =
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Jenóyena jɨaɨena jóne
-
 search-one-offs-context-open-new-tab =
     .label = Kómue úitɨraɨ jéno
     .accesskey = ú
@@ -69,6 +78,9 @@ popup-select-microphone =
     .value = Fekayena úriraiya:
     .accesskey = F
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -80,4 +92,3 @@ urlbar-placeholder =
     .placeholder = Jéno íe kúeno bíe íyano
 urlbar-switch-to-tab =
     .value = Jɨaɨe úitɨraɨ jóne:
-
