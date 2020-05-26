@@ -18,8 +18,16 @@
 <!ENTITY e2eLearnMore.label "Ulteriuras infurmaziuns">
 
 <!ENTITY e2eEnc.description "Senza criptadi fin-a-fin è il cuntegn da tes messadis expost a tes purschider dad e-mail ed a la surveglianza generala.">
+<!ENTITY e2eeReqWarning.description "Per pudair trametter in messadi criptà èsi necessari dad avair la clav publica u il certificat da mintga destinatur.">
 
+<!ENTITY e2eSigning.description "Ina suttascripziun digitala pussibilitescha als destinaturs da verifitgar che ti has tramess il messadi e ch'il cuntegn n'è betg vegnì midà.">
+<!ENTITY e2eTechPref.description "Tecnologia da criptadi preferida:">
 
+<!ENTITY doNotEncrypt.label "Betg activar il criptadi tenor standard">
+<!ENTITY doNotEncrypt.accesskey "B">
+<!ENTITY requireEncryptMessage.label "Utilisar il criptadi tenor standard">
+<!ENTITY requireEncryptMessage.accesskey "U">
+<!ENTITY encryptionCert2.message "Certificat persunal per il criptadi:">
 <!ENTITY digitalSign.certificate.button "Tscherner…">
 <!ENTITY digitalSign.certificate.accesskey "T">
 <!ENTITY digitalSign.certificate_clear.button "Stizzar">
@@ -30,6 +38,7 @@
 <!ENTITY encryption.certificate_clear.accesskey "r">
 <!ENTITY signingGroupTitle.label "Suttascripziun digitala">
 <!ENTITY signMessage.label "Suttascriver digitalmain messadis (sco standard)">
+<!ENTITY signMessage2.label "Agiuntar mia suttascripziun digitala tenor standard">
 <!ENTITY signMessage.accesskey "D">
 <!ENTITY signingCert.message "Utilisar quest certificat per suttascriver digitalmain messadis che vegnan tramess:">
 
@@ -39,14 +48,30 @@
 <!ENTITY manageDevices.label "Moduls da criptadi">
 <!ENTITY manageDevices.accesskey "c">
 
+<!ENTITY signingCert2.message "Certificat persunal per la suttascripziun digitala:">
 
+<!ENTITY sendingDefaults.label "Configuraziun da standard per trametter messadis">
 
+<!ENTITY technologyAutomatic.label "Tscherner automaticamain a basa da clavs u certificats disponibels">
 
+<!ENTITY certificates2.label "S/MIME">
+<!ENTITY manageCerts3.label "Administrar ils certificats S/MIME">
+<!ENTITY manageCerts3.accesskey "M">
+<!ENTITY manageDevices2.label "Apparats da segirezza S/MIME">
+<!ENTITY manageDevices2.accesskey "z">
 
+<!ENTITY technologySMIME.label "Preferir S/MIME">
+<!ENTITY technologyOpenPGP.label "Preferir OpenPGP">
 
+<!ENTITY openpgpKeys.label "OpenPGP">
+<!ENTITY manageKeys.label "Administrar las clavs OpenPGP">
+<!ENTITY manageKeys.accesskey "c">
 
 <!-- Strings for the cert picker dialog -->
 <!ENTITY certPicker.title "Tscherner in certificat">
 <!ENTITY certPicker.info  "Certificat:">
 <!ENTITY certPicker.detailsLabel "Detagls dal certificat tschernì:">
 
+<!ENTITY openpgpKey.message "Clav persunala per criptar e suttascriver a moda digitala:">
+<!ENTITY openpgpKey.button "Definir la clav persunala…">
+<!ENTITY openpgpKey.accesskey "f">
