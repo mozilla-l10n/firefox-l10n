@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY openFileCmd.label "Fájl megnyitása…">
 <!ENTITY openFileCmd.accesskey "F">
 <!ENTITY openFileCmd.key "O">
@@ -24,15 +24,17 @@
 <!ENTITY publishAsCmd.accesskey "z">
 <!ENTITY fileRevert.label "Visszatérés az utoljára mentett változathoz">
 <!ENTITY fileRevert.accesskey "u">
-<!-- Edit menu items -->
 
+<!-- Edit menu items -->
 <!ENTITY publishSettings.label "Közzététel helyének beállításai…">
 <!ENTITY publishSettings.accesskey "z">
-<!-- Toolbar buttons/items -->
 
+<!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Új">
 <!ENTITY newToolbarCmd.tooltip "Új HTML-szerkesztő oldal létrehozása">
 <!ENTITY openToolbarCmd.label "Megnyitás">
 <!ENTITY openToolbarCmd.tooltip "Helyi fájl megnyitása">
 <!ENTITY saveToolbarCmd.tooltip "Fájl mentése helyi lemezre">
 <!ENTITY publishToolbarCmd.tooltip "Fájl feltöltése távoli kiszolgálóra">
+<!ENTITY printToolbarCmd.label "Nyomtatás">
+<!ENTITY printToolbarCmd.tooltip "Oldal kinyomtatása">

@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Üzenettároló">
 <!ENTITY securitySettings.label "Biztonsági beállítások">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "o">
 <!ENTITY serverPortDefault.label "Alapértelmezett:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "e">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Jóváhagyás kérése, ha">
 <!ENTITY maxMessagesStart.accesskey "J">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "H">
 <!ENTITY newsrcFilePath.label "newsrc fájl:">
 <!ENTITY newsrcPicker.label "Newsrc fájl kiválasztása">
+<!ENTITY newsrcFilePath1.label "News.rc-fájl:">
+<!ENTITY newsrcPicker1.label "Válasszon News.rc-fájlt">
 <!ENTITY abbreviate.label "Hírcsoportnevek megjelenítése a Levelezőmappák panelen:">
 <!ENTITY abbreviateOn.label "Teljes névvel (például, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Rövidített névvel (például, 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "c">
 <!ENTITY serverDefaultCharset2.label "Alapértelmezett szövegkódolás:">
 <!ENTITY localPath.label "Helyi könyvtár:">
+<!ENTITY localPath1.label "Helyi könyvtár:">
 <!ENTITY localFolderPicker.label "Helyi könyvtár kiválasztása">
 <!ENTITY browseFolder.label "Tallózás…">
 <!ENTITY browseFolder.accesskey "T">

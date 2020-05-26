@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Név:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Ikon színe:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Alapértelmezett szín visszaállítása">
 <!ENTITY folderProps.location.label              "Hely:">
 <!ENTITY folderProps.location.accesskey          "H">
 
