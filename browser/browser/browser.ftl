@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Papar maklumat laman
 
@@ -76,12 +86,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Anda telah menyekat ekstraksi data kanvas untuk laman web ini.
 urlbar-midi-blocked =
     .tooltiptext = Anda telah menyekat akses MIDI untuk laman web ini.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Edit tandabuku ini ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -113,7 +121,6 @@ search-one-offs-change-settings-button =
     .label = Ubah Tetapan Carian
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ubah tetapan carian
-
 search-one-offs-context-open-new-tab =
     .label = Cari dalam Tab Baru
     .accesskey = T
@@ -126,10 +133,8 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Papar editor apabila menyimpan
     .accesskey = P
-
 bookmark-panel-done-button =
     .label = Siap
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -191,6 +196,9 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = Semua tetingkap yang kelihatan pada skrin anda akan dikongsi.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -204,11 +212,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = Pelayar berada dalam kawalan jauh
 urlbar-switch-to-tab =
     .value = Tukar ke tab:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ekstensi:
-
 urlbar-go-button =
     .tooltiptext = Pergi ke alamat dalam Bar Lokasi
 urlbar-page-action-button =
