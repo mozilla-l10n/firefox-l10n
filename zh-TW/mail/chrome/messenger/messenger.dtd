@@ -155,7 +155,7 @@
 <!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showFolderPaneColsCmd.label "資料夾窗格欄位">
 <!ENTITY showFolderPaneColsCmd.accesskey "P">
-<!ENTITY showMessageCmd.label "預覽面板">
+<!ENTITY showMessageCmd.label "訊息窗格">
 <!ENTITY showMessageCmd.accesskey "M">
 
 <!ENTITY folderView.label "資料夾">
