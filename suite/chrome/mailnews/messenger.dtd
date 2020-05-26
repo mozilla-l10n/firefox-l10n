@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "刪除">
 <!ENTITY undeleteButton.label "還原">
 <!ENTITY markButton.label "標記">
+<!ENTITY printButton.label "列印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY junkButton.label "垃圾郵件">
 <!ENTITY notJunkButton.label "非垃圾郵件">
@@ -448,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "刪除已選取的訊息或資料夾">
 <!ENTITY undeleteButton.tooltip "還原選取的郵件">
 <!ENTITY markButton.tooltip "標示訊息">
+<!ENTITY printButton.tooltip "列印此訊息">
 <!ENTITY stopButton.tooltip "停止傳送">
 <!ENTITY throbber.tooltip "&vendorShortName; 的首頁">
 <!ENTITY throbber.tooltip2 "前往 &brandShortName; 首頁">

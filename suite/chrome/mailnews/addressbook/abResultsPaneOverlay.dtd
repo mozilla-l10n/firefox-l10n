@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "通訊錄">
+<!ENTITY Addrbook.accesskey                    "B">
 <!ENTITY GeneratedName.label                   "名稱">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "電子郵件">
@@ -30,6 +32,8 @@
 <!ENTITY WorkPhone.accesskey                   "W">
 <!ENTITY ScreenName.label                      "網路代號">
 <!ENTITY ScreenName.accesskey                  "S">
+<!ENTITY ChatName.label                        "聊天名稱">
+<!ENTITY ChatName.accesskey                    "C">
 <!ENTITY sortAscending.label                   "由小到大">
 <!ENTITY sortAscending.accesskey               "A">
 <!ENTITY sortDescending.label                  "由大到小">
@@ -48,4 +52,3 @@
 <!ENTITY newAddrBookMailingList.accesskey      "M">
 <!ENTITY addrBookCardProperties.label          "屬性">
 <!ENTITY addrBookCardProperties.accesskey      "P">
-

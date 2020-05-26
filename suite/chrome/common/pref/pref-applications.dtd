@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--LOCALIZATION NOTE : FILE The Applications prefs dialog -->
-<!ENTITY pref.applications.title "應用程式">
+<!ENTITY pref.applications.title "輔助應用程式">
 
 <!ENTITY typeColumn.label        "內容類型">
 <!ENTITY typeColumn.accesskey    "t">

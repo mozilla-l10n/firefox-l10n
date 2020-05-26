@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "進行搜尋後才會顯示此通訊錄的聯絡人">
+<!ENTITY localResultsOnlyMessage.label                  "在您進行搜尋前將不會顯示遠端通訊錄中的聯絡人">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "聯絡人…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "群組名單…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "通訊錄…">
 <!ENTITY newAddressBookCmd.accesskey                    "o">
 <!ENTITY newLDAPDirectoryCmd.label                      "LDAP 目錄…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "D">
 <!ENTITY newIM.label                                    "IM">
 <!ENTITY printContactViewCmd.label                      "列印連絡人…">
 <!ENTITY printContactViewCmd.accesskey                  "P">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "預覽列印連絡人">
 <!ENTITY printPreviewContactViewCmd.accesskey           "v">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "列印通訊錄…">
 <!ENTITY printAddressBook.accesskey                     "A">
 <!ENTITY printPreviewAddressBook.label                  "預覽列印通訊錄">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "交換姓／名的顯示位置">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "w">
 <!ENTITY propertiesCmd.label                            "屬性…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "D">
 <!ENTITY newimButton.label                              "即時訊息">
 <!ENTITY newimButton.accesskey                          "I">
+<!ENTITY printButton.label                              "列印">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY searchNameAndEmail.placeholder                 "搜尋名稱與電子郵件">
 <!ENTITY searchBox.title                                "搜尋">
 
@@ -95,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "編輯選取的項目">
 <!ENTITY newmsgButton.tooltip                           "寄送新郵件">
 <!ENTITY newIM.tooltip                                  "傳送即時訊息或聊天">
+<!ENTITY printButton.tooltip                            "列印選取的項目">
 <!ENTITY deleteItemButton.tooltip                       "刪除選取的項目">
 <!ENTITY throbber.tooltip                               "&vendorShortName; 的首頁">
 <!ENTITY throbber.tooltip2                              "前往 &brandShortName; 首頁">
@@ -108,6 +110,7 @@
 <!ENTITY contact.heading                                "聯絡資訊">
 <!ENTITY home.heading                                   "住家">
 <!ENTITY other.heading                                  "其他">
+<!ENTITY chat.heading                                   "聊天">
 <!ENTITY phone.heading                                  "電話">
 <!ENTITY work.heading                                   "商務">
 <!-- Special Box Headings, for mailing lists -->
