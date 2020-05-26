@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Vidi informon de la retejo
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = Vi blokis la aliron MIDI por tiu ĉi retejo.
 urlbar-install-blocked =
     .tooltiptext = Vi blokis la instalon de aldonaĵoj por tiu ĉi retejo.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Redakti tiun ĉi legosignon ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = Administri etendaĵon…
 page-action-remove-from-urlbar =
     .label = Forigi el adresa strio
-
 page-action-remove-extension =
     .label = Forigi etendaĵon
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Ĉi foje serĉi per:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ŝanĝi agordojn de serĉo
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ŝanĝi agordojn de serĉo
-
 search-one-offs-context-open-new-tab =
     .label = Serĉi en nova langeto
     .accesskey = l
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Montri redaktilon dum konservo
     .accesskey = M
-
 bookmark-panel-done-button =
     .label = Preta
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +234,12 @@ popup-select-microphone =
     .accesskey = m
 popup-all-windows-shared = Ĉiuj videblaj fenestroj en via ekrano estos dividitaj.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Por uzi la ŝparvojon F12, unue malfermu la ilojn por programistoj el la menuo Teksaĵa programisto.
-
 
 ## URL Bar
 
@@ -248,11 +253,9 @@ urlbar-permissions-granted =
     .tooltiptext = Vi aldonis permesojn al tiu ĉi retejo.
 urlbar-switch-to-tab =
     .value = Iri al langeto:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Etendaĵo:
-
 urlbar-go-button =
     .tooltiptext = Iri al la adreso en la retadresa strio
 urlbar-page-action-button =
