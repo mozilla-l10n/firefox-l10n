@@ -45,7 +45,10 @@ etp-card-title = Diogelwch Uwch Rhag Tracio
 etp-card-content = Mae tracwyr yn eich dilyn ar-lein i gasglu gwybodaeth am eich arferion pori a'ch diddordebau. Mae { -brand-short-name } yn rhwystro llawer o'r tracwyr hyn a sgriptiau maleisus eraill.
 protection-report-webpage-title = Bwrdd Gwaith Diogelwch
 protection-report-page-content-title = Bwrdd Gwaith Diogelwch
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = Gall { -brand-short-name } ddiogelu eich preifatrwydd y tu ôl i'r llenni wrth i chi bori. Mae hwn yn grynodeb wedi'i bersonoli o'r diogelwch hynny, gan gynnwys offer i reoli eich diogelwch ar-lein.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = Mae { -brand-short-name } yn diogelu eich preifatrwydd y tu ôl i'r llenni wrth i chi bori. Mae hwn yn grynodeb wedi'i bersonoli o'r diogelwch hynny, gan gynnwys offer i reoli eich diogelwch ar-lein.
 protection-report-settings-link = Rheoli eich gosodiadau preifatrwydd a diogelwch
 etp-card-title-always = Diogelwch Uwch Rhag Tracio: Ymlaen Drwy'r Amser
 etp-card-title-custom-not-blocking = Diogelwch Uwch Rhag Tracio: I FFWRDD
@@ -67,8 +70,6 @@ fingerprinter-tab-title = Bysbrintwyr
 fingerprinter-tab-content = Mae bysbrintwyr yn casglu gosodiadau o'ch porwr a'ch cyfrifiadur i greu proffil ohonoch. Gan ddefnyddio'r olion bys digidol hwn, mae nhw'n gallu'ch tracio ar draws gwahanol wefannau. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
 cryptominer-tab-title = Cryptogloddwyr
 cryptominer-tab-content = Mae cryptogloddwyr yn defnyddio pŵer cyfrifiadurol eich system i gloddio arian digidol. Mae sgriptiau cryptogloddio yn gwagio eich batri, arafu eich cyfrifiadur, a gall gynyddu eich bil trydan. <a data-l10n-name="learn-more-link">Dysgu rhagor</a>
-protections-close-button =
-    .aria-label = Cau
 protections-close-button2 =
     .aria-label = Cau
     .title = Cau
@@ -145,6 +146,8 @@ monitor-link = Sut mae'n gweithio
 monitor-header-content-no-account = Edrychwch ar { -monitor-brand-name } i weld a ydych chi wedi bod yn rhan o dor-data a chael rhybuddion am dor-data newydd.
 monitor-header-content-signed-in = Mae { -monitor-brand-name } yn eich rhybuddio os yw'ch manylion wedi ymddangos mewn tor-data hysbys
 monitor-sign-up = Cofrestrwch am Rybuddion Tor-data
+monitor-sign-up-link = Cofrestrwch ar gyfer Rhybuddion Tor-data
+    .title = Cofrestrwch am rybuddion tor-data ar { -monitor-brand-name }
 auto-scan = Wedi'u sganio'n awtomatig heddiw
 monitor-emails-tooltip =
     .title = Gweld cyfeiriadau e-bost wedi'u monitro ar { -monitor-brand-short-name }
@@ -201,6 +204,16 @@ password-warning =
         [many] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
        *[other] Mewngofnod wedi'i gadw o bosib wedi'i amlygu mewn tor-data. Newidiwch y cyfrineiriau hyn i gael gwell diogelwch ar-lein. <a data-l10n-name="lockwise-link">Edrych ar eich Mewngofnodion wedi'u Cadw</a>
     }
+monitor-no-breaches-title = Newyddion da!
+monitor-no-breaches-description = Nid oes gennych unrhyw dor-data hysbys. Os bydd hynny'n newid, byddwn yn rhoi gwybod i chi.
+monitor-view-report-link = Gweld yr Adroddiad
+    .title = Datrys tor-data ar { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Datrys eich tor-data
+monitor-breaches-unresolved-description = Ar ôl adolygu manylion tor-data a chymryd camau i ddiogelu eich manylion, gallwch nodi fod eich tor-data wedi'u datrys.
+monitor-manage-breaches-link = Rheoli Tor-data
+    .title = Rheoli tor-data ar { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Da! Rydych wedi datrys pob achos o dor-data hysbys.
+monitor-breaches-resolved-description = Os bydd eich e-bost yn ymddangos mewn unrhyw dor-data newydd, byddwn yn rhoi gwybod i chi.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Meicroffon i'w rannu:
     .accesskey = M
 popup-all-windows-shared = Bydd pob ffenestr gweladwy ar eich sgrin yn cael eu rhannu.
+popup-screen-sharing-not-now =
+    .label = Nid Nawr
+    .accesskey = N
+popup-screen-sharing-never =
+    .label = Byth Caniatáu
+    .accesskey = B
+popup-silence-notifications-checkbox = Analluoga hysbysiadau gan { -brand-short-name } wrth rannu
+popup-silence-notifications-checkbox-warning = Ni fydd { -brand-short-name } yn dangos hysbysiadau tra'ch bod chi'n rhannu.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Rydych yn rhannu { -brand-short-name }. Gall pobl eraill weld pan fyddwch chi'n newid i dab newydd.
+sharing-warning-screen = Rydych chi'n rhannu'ch sgrin gyfan. Gall pobl eraill weld pan fyddwch chi'n newid i dab newydd.
+sharing-warning-proceed-to-tab =
+    .label = Ymlaen i Dab
+sharing-warning-disable-for-session =
+    .label = Analluogi diogelwch rhannu ar gyfer y sesiwn hon
 
 ## DevTools F12 popup
 
