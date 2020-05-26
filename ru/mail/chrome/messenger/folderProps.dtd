@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Имя:">
 <!ENTITY folderProps.name.accesskey              "м">
+<!ENTITY folderProps.color.label                 "Цвет значка:">
+<!ENTITY folderProps.color.accesskey             "ч">
+<!ENTITY folderProps.reset.tooltip               "Восстановить цвет по умолчанию">
 <!ENTITY folderProps.location.label              "Адрес:">
 <!ENTITY folderProps.location.accesskey          "д">
 
