@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Opne ei lokal fil">
 <!ENTITY saveToolbarCmd.tooltip "Lagre fil lokalt">
 <!ENTITY publishToolbarCmd.tooltip "Last opp fil til lokalt område">
+<!ENTITY printToolbarCmd.label "Skriv ut">
+<!ENTITY printToolbarCmd.tooltip "Skriv ut denne sida">
