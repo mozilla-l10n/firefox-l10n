@@ -449,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "Ta bort markerat meddelande eller mapp">
 <!ENTITY undeleteButton.tooltip "Ångra ta bort markerat meddelande">
 <!ENTITY markButton.tooltip "Märk meddelanden">
+<!ENTITY printButton.tooltip "Skriv ut detta meddelande">
 <!ENTITY stopButton.tooltip "Avbryt pågående överföring">
 <!ENTITY throbber.tooltip "Gå till &vendorShortName;s webbplats">
 <!ENTITY throbber.tooltip2 "Gå till &brandShortName;s webbplats">
