@@ -2,6 +2,7 @@
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
+do-not-track-description = هێمای “چاودێریم مەکە” بنێرە بۆ ئەو ماڵپەڕانەی کە سەردانیان دەکەیت
 do-not-track-learn-more = زیاتر بزانە
 do-not-track-option-default-content-blocking-known =
     .label = تەنها ئەو کاتەی کە { -brand-short-name } کاراکراوە بۆ بلۆککردنی چاودێریکەری ناسراو
@@ -104,6 +105,9 @@ startup-restore-warn-on-quit =
 disable-extension =
     .label = پێوەکراو ناچالاک بکە
 tabs-group-header = بازدەرەکان
+ctrl-tab-recently-used-order =
+    .label = Ctrl+Tab دەتبات بە ناو بازدەرە کراوەکان
+    .accesskey = ب
 open-new-link-as-tabs =
     .label = بەستەرەکان بکەرەوە لە بازدەر لە جیاتی ئەوەی لە پەنجەرەی نوێ بیکەیتەوە
     .accesskey = w
@@ -180,6 +184,10 @@ translate-attribution = وەرگێردراوە لە لایەن <img data-l10n-na
 translate-exceptions =
     .label = هەڵاوێردی...
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = ڕێکخستنەکانی سیستم بەکاربێنە بۆ “{ $localeName }” بۆ ڕێکخستنی ڕۆژەکان، کاتەکان، ژمارەکان، و پێوانەکان.
 check-user-spelling =
     .label = چێکی نووسین بکات کاتێک بۆ دەنووسیت
     .accesskey = t
@@ -258,8 +266,6 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = { $plugin-name } بەکاربێنە (لەناو { -brand-short-name })
-applications-preview-inapp =
-    .label = پێشبینین لە { -brand-short-name }
 applications-open-inapp =
     .label = کردنەوە لە { -brand-short-name }
 
@@ -273,8 +279,6 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
-applications-preview-inapp-label =
-    .value = { applications-preview-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
@@ -342,6 +346,9 @@ browsing-use-autoscroll =
 browsing-use-smooth-scrolling =
     .label = جوڵاندنی ئاسان بەکاربێنە
     .accesskey = m
+browsing-use-cursor-navigation =
+    .label = هەموو کات ئاراستەکانی تەختەکلیل بەکاربێنە بۆ گۆڕین لە نێوان پەڕەکان.
+    .accesskey = گ
 browsing-search-on-start-typing =
     .label = بگەڕێ بۆ پیت کاتێک دۆ دەستپێدەکەی بە نووسین
     .accesskey = x
@@ -468,6 +475,18 @@ search-suggestions-option =
 search-show-suggestions-url-bar-option =
     .label = پێسنیاری گەڕان پیشان بدە لە شریتی ناونیشان
     .accesskey = l
+# This string describes what the user will observe when the system
+# prioritizes search suggestions over browsing history in the results
+# that extend down from the address bar. In the original English string,
+# "ahead" refers to location (appearing most proximate to), not time
+# (appearing before).
+search-show-suggestions-above-history-option =
+    .label = پێشنیارەکانی گەڕان پیشان بدە لە مێژووی گەڕانی وێبدا لە شریتی ناونیشانەکان.
+search-show-suggestions-private-windows =
+    .label = پێشنیارەکانی گەڕان لە پەنجەرەی تایبەت پیشان بدە
+suggestions-addressbar-settings = هەڵبژاردنەکان بگۆڕە بۆ مێژووی گەڕان، دڵخوازەکان، پێسنیاری بازدەر.
+search-one-click-header = بزوێنەری گەڕان بە یەک کرتە
+search-one-click-desc = بزوێنەرێکی تری گەڕان بەکاربێنە دەربکەوێت کاتێک لە شریتی گەڕانی یان شریتی ناونیشان دەست دەکەی بە نووسین.
 search-choose-engine-column =
     .label = بزوێنەری گەڕان
 search-choose-keyword-column =
@@ -642,10 +661,10 @@ privacy-header = تایبەتێتی وێبگەڕ
 
 ## Privacy Section - Forms
 
+logins-header = چوونەژوورەوە و وشەی تێپەڕەکان
 
 ## Privacy Section - Logins and Passwords
 
-logins-header = چوونەژوورەوە و وشەی تێپەڕەکان
 # The search keyword isn't shown to users but is used to find relevant settings in about:preferences.
 pane-privacy-logins-and-passwords-header = چوونەژوورەوە و وشەی تێپەڕەکان
     .searchkeywords = { -lockwise-brand-short-name }
@@ -656,6 +675,12 @@ forms-ask-to-save-logins =
 forms-exceptions =
     .label = هەڵاوێردی...
     .accesskey = x
+forms-generate-passwords =
+    .label = پێشنیاز و یان وشەی تێپەڕبوون درووست بکە
+    .accesskey = پ
+forms-breach-alerts =
+    .label = ئاگادارم بکەرەوە کاتێک ماڵپەڕێک دزەی پێکراوە
+    .accesskey = ئ
 forms-breach-alerts-learn-more-link = زیاتر بزانە
 # Checkbox which controls filling saved logins into fields automatically when they appear, in some cases without user interaction.
 forms-fill-logins-and-passwords =
@@ -675,8 +700,6 @@ forms-master-pw-fips-desc = گۆڕینی وشەی تێپەڕی سەرەکی سە
 
 ## OS Authentication dialog
 
-# This message can be seen by trying to add a Master Password.
-master-password-os-auth-dialog-message = خۆت بناسێنە بۆ ئەوەی بتوانی وشە تێپەڕی سەرەکی درووست بکەیت.
 # This message can be seen by trying to add a Master Password.
 # The macOS strings are preceded by the operating system with "Firefox is trying to "
 # and includes subtitle of "Enter password for the user "xxx" to allow this." These
@@ -715,7 +738,15 @@ history-clear-button =
 
 sitedata-header = شەکرۆکە و زانیاری ماڵپەڕ
 sitedata-total-size-calculating = ژماردنی زانیاری ماڵپەڕ و قەبارەی شەکرۆکە...
+# Variables:
+#   $value (Number) - Value of the unit (for example: 4.6, 500)
+#   $unit (String) - Name of the unit (for example: "bytes", "KB")
+sitedata-total-size = هەموو زانیارییەکانی ماڵپەڕ، شەکرۆکە و حەشارگەکان هەڵگیراون { $value }{ $unit } بیرگەی داگیرکردووە.
 sitedata-learn-more = زیاتر بزانە
+sitedata-delete-on-close =
+    .label = شەکرۆکە و زانیاری ماڵپەڕ بسڕەوە کاتێک { -brand-short-name } دادەخەیت
+    .accesskey = ش
+sitedata-delete-on-close-private-browsing = لە دۆخی تایبەت، بەشێوەیەکی هەمیشەیی شەکرۆکە و زانیاری ماڵپەڕ دەسڕێنەوە کاتێک { -brand-short-name } دادەخرێت.
 sitedata-allow-cookies-option =
     .label = شەکرۆکە و زانیاری ماڵپەڕ ڕێگە پێبدە
     .accesskey = A
@@ -741,6 +772,7 @@ sitedata-cookies-permissions =
 ## Privacy Section - Address Bar
 
 addressbar-header = توڵی ناونیشان
+addressbar-suggest = کاتێک شریتی ناونیشان بەکاردێنیت، پێشنیاری
 addressbar-locbar-history-option =
     .label = مێژووی وێبگەڕی
     .accesskey = h
@@ -789,6 +821,7 @@ enhanced-tracking-protection-setting-custom =
 ##
 
 content-blocking-etp-strict-desc = پارێزگاری زیاتر، بەڵام لەوانەیە زانیاری ماڵپەڕان بشکێندرێن .
+content-blocking-etp-custom-desc = دیاریبکە کام چاودێریکەر یان نووسە بلۆک بکرێت.
 content-blocking-all-cookies = هەموو شەکرۆکەکان
 content-blocking-unvisited-cookies = شەکرۆکە لەو ماڵپەڕانەی کە سەردانت نەکردوون
 content-blocking-all-windows-trackers = چاودێریکەرانی ناسراو لە هەموو پەنجەرەکان
@@ -871,6 +904,9 @@ permissions-block-popups =
 permissions-block-popups-exceptions =
     .label = هەڵاوێردی...
     .accesskey = E
+permissions-addon-install-warning =
+    .label = ئاگادارت دەکاتەوە کاتێک ماڵپەڕێک دەیەوێت زیادکراوێک دامەزرێنێت
+    .accesskey = و
 permissions-addon-exceptions =
     .label = هەڵاوێردی...
     .accesskey = E

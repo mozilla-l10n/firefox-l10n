@@ -60,31 +60,31 @@ menu-file-go-offline =
 
 menu-edit =
     .label = دەستکاریکردن
-    .accesskey = E
+    .accesskey = ک
 menu-edit-find-on =
     .label = دۆزینەوە لەم پەڕەیە...
-    .accesskey = F
+    .accesskey = ۆ
 menu-edit-find-again =
     .label = دووبارە بگەڕێ
-    .accesskey = g
+    .accesskey = د
 menu-edit-bidi-switch-text-direction =
     .label = ئاڕاستەی نووسین بگۆڕە
-    .accesskey = w
+    .accesskey = ئ
 
 ## View Menu
 
 menu-view =
     .label = پیشاندان
-    .accesskey = V
+    .accesskey = پ
 menu-view-toolbars-menu =
     .label = توڵامراز
-    .accesskey = T
+    .accesskey = ت
 menu-view-customize-toolbar =
     .label = دڵخوازکردن…
-    .accesskey = C
+    .accesskey = ڵ
 menu-view-sidebar =
     .label = لاتەنیشت
-    .accesskey = e
+    .accesskey = ل
 menu-view-bookmarks =
     .label = دڵخوازەکان
 menu-view-history-button =
@@ -93,59 +93,59 @@ menu-view-synced-tabs-sidebar =
     .label = هاوکاتگەری بازدەرەکان
 menu-view-full-zoom =
     .label = زووم
-    .accesskey = Z
+    .accesskey = ز
 menu-view-full-zoom-enlarge =
     .label = هێنانەپێش
-    .accesskey = I
+    .accesskey = ه
 menu-view-full-zoom-reduce =
     .label = ڕۆچوونی
-    .accesskey = O
+    .accesskey = ۆ
 menu-view-full-zoom-actual-size =
     .label = قەبارەی ڕاستی
-    .accesskey = A
+    .accesskey = ق
 menu-view-full-zoom-toggle =
     .label = تەنها دەقەکان زووم بکە
-    .accesskey = T
+    .accesskey = ت
 menu-view-page-style-menu =
     .label = شێوازی پەڕە
-    .accesskey = y
+    .accesskey = ڕ
 menu-view-page-style-no-style =
     .label = بێ شێواز
-    .accesskey = n
+    .accesskey = ێ
 menu-view-page-basic-style =
     .label = شێوازی پەڕەی ئاسایی
-    .accesskey = B
+    .accesskey = س
 menu-view-charset =
     .label = کۆدکردنی دەق
-    .accesskey = c
+    .accesskey = ک
 
 ## These should match what Safari and other Apple applications
 ## use on macOS.
 
 menu-view-enter-full-screen =
     .label = بیکە پڕاوپڕی شاشە
-    .accesskey = F
+    .accesskey = ی
 menu-view-exit-full-screen =
     .label = لە پڕاوپڕی شاشە دەرچۆ
-    .accesskey = F
+    .accesskey = چ
 menu-view-full-screen =
     .label = پڕاوپڕ
-    .accesskey = F
+    .accesskey = ڕ
 
 ##
 
 menu-view-show-all-tabs =
     .label = هەموو بازدەرەکان پیشان بدە
-    .accesskey = A
+    .accesskey = ب
 menu-view-bidi-switch-page-direction =
     .label = ئاڕاستەی پەڕە بگۆڕە
-    .accesskey = D
+    .accesskey = ئ
 
 ## History Menu
 
 menu-history =
     .label = مێژوو
-    .accesskey = s
+    .accesskey = م
 menu-history-show-all-history =
     .label = هەموو مێژووی کار پیشان بدە
 menu-history-clear-recent-history =
@@ -165,7 +165,7 @@ menu-history-undo-window-menu =
 
 menu-bookmarks-menu =
     .label = دڵخوازەکان
-    .accesskey = B
+    .accesskey = د
 menu-bookmarks-show-all =
     .label = هەموو دڵخوازەکان پیشان بدە
 menu-bookmark-this-page =
@@ -185,34 +185,34 @@ menu-bookmarks-mobile =
 
 menu-tools =
     .label = ئامرازەکان
-    .accesskey = T
+    .accesskey = م
 menu-tools-downloads =
     .label = داگرتنەکان
-    .accesskey = D
+    .accesskey = د
 menu-tools-addons =
     .label = پێوەکراوەکان
-    .accesskey = A
+    .accesskey = پ
 menu-tools-fxa-sign-in =
     .label = بچۆژوورەوە بۆ { -brand-product-name }...
-    .accesskey = g
+    .accesskey = ب
 menu-tools-turn-on-sync =
     .label = کارپێکردنی { -sync-brand-short-name }…
-    .accesskey = n
+    .accesskey = ک
 menu-tools-sync-now =
     .label = هاوکاتگەری بکە ئێستا
-    .accesskey = S
+    .accesskey = ه
 menu-tools-fxa-re-auth =
     .label = دووبارە ببەستەوە بۆ { -brand-product-name }…
     .accesskey = R
 menu-tools-web-developer =
     .label = گەشەپێدەری وێب
-    .accesskey = W
+    .accesskey = گ
 menu-tools-page-source =
     .label = سەرچاوەی پەڕە
-    .accesskey = o
+    .accesskey = س
 menu-tools-page-info =
     .label = زانیاری پەڕە
-    .accesskey = I
+    .accesskey = ز
 menu-preferences =
     .label =
         { PLATFORM() ->
@@ -221,12 +221,12 @@ menu-preferences =
         }
     .accesskey =
         { PLATFORM() ->
-            [windows] O
-           *[other] n
+            [windows] ه
+           *[other] ه
         }
 menu-tools-layout-debugger =
     .label = نەخشەی هەڵەدۆزی
-    .accesskey = L
+    .accesskey = ڵ
 
 ## Window Menu
 
@@ -239,36 +239,36 @@ menu-window-bring-all-to-front =
 
 menu-help =
     .label = یارمەتی
-    .accesskey = H
+    .accesskey = ی
 menu-help-product =
     .label = { -brand-shorter-name } یارمەتی
-    .accesskey = H
+    .accesskey = ی
 menu-help-show-tour =
     .label = { -brand-shorter-name } گەشت
-    .accesskey = o
+    .accesskey = گ
 menu-help-import-from-another-browser =
     .label = هێنان لە وێبگەڕی ترەوە...
-    .accesskey = I
+    .accesskey = ێ
 menu-help-keyboard-shortcuts =
     .label = قەدبڕەکانی تەختەکلیل
-    .accesskey = K
+    .accesskey = ق
 menu-help-troubleshooting-info =
-    .label = زانیاری گەڕان بۆ کیشەکان
-    .accesskey = T
+    .label = زانیاری گەڕان بۆ کێشەکان
+    .accesskey = ز
 menu-help-feedback-page =
     .label = ڕەخنەوپێشنیار بنێرە...
-    .accesskey = S
+    .accesskey = ڕ
 menu-help-safe-mode-without-addons =
     .label = دووبارە پێکردنەوە بە پێوەکراوی ناچالاکەوە...
-    .accesskey = R
+    .accesskey = ێ
 menu-help-safe-mode-with-addons =
     .label = دووبارە پێکردنەوە بە پێوەکراوی چالاکەوە...
-    .accesskey = R
+    .accesskey = چ
 # Label of the Help menu item. Either this or
 # menu-help-notdeceptive is shown.
 menu-help-report-deceptive-site =
     .label = ڕاپۆرتکردنی ماڵپەڕی گومڕاکەر
-    .accesskey = D
+    .accesskey = ۆ
 menu-help-not-deceptive =
     .label = ئەمە ماڵپەڕێکی گومڕاکەر نیە...
-    .accesskey = d
+    .accesskey = ن
