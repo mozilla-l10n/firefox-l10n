@@ -266,6 +266,12 @@ popup-select-microphone =
     .value = 공유할 마이크:
     .accesskey = M
 popup-all-windows-shared = 화면에 표시되어 있는 모든 창을 공유합니다.
+popup-screen-sharing-not-now =
+    .label = 나중에
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = 허용 안 함
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
