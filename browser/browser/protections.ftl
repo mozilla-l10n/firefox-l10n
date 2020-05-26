@@ -178,7 +178,7 @@ monitor-no-breaches-title = Хорошие новости!
 monitor-no-breaches-description = Ваши адреса не замечены ни в одной утечке. Если это изменится, мы дадим вам знать.
 monitor-view-report-link = Посмотреть отчёт
     .title = Разобраться с утечками с помощью { -monitor-brand-short-name }
-monitor-breaches-unresolved-title = Разобраться с вашими утечками
+monitor-breaches-unresolved-title = Разберитесь с вашими утечками
 monitor-breaches-unresolved-description = Изучив информацию об утечке и предприняв меры по защите вашей информации, вы можете отметить утечки как решённые.
 monitor-manage-breaches-link = Управление утечками
     .title = Управление утечками с помощью { -monitor-brand-short-name }
@@ -189,9 +189,9 @@ monitor-breaches-resolved-description = Если ваш адрес электр�
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-        [one] { $numBreachesResolved } из { $numBreaches } утечек отмечена как решённая
-        [few] { $numBreachesResolved } из { $numBreaches } утечек отмечены как решённые
-       *[many] { $numBreachesResolved } из { $numBreaches } утечек отмечены как решённые
+        [one] Вы разобрались с { $numBreachesResolved } из { $numBreaches } утечки
+        [few] Вы разобрались с { $numBreachesResolved } из { $numBreaches } утечек
+       *[many] Вы разобрались с { $numBreachesResolved } из { $numBreaches } утечек
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
