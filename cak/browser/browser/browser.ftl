@@ -3,6 +3,49 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } (Palaqinem Wichin)
+    .data-content-title-default = { $content-title } - { -brand-full-name }
+    .data-content-title-private = { $content-title } - { -brand-full-name } (Palaqinem Wichin)
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox - (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } - (Palaqinem Wichin)
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } - (Palaqinem Wichin)
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Titz'et retamab'al ruxaq k'amaya'l
 
@@ -93,12 +136,10 @@ urlbar-midi-blocked =
     .tooltiptext = Xaq'ät ri MIDI rokem re ruxaq k'amaya'l re'.
 urlbar-install-blocked =
     .tooltiptext = Xaq'ät kiyakik taq rutz'aqat ajk'amaya'l ruxaq re'.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tinuk' re jun yaketal ({ $shortcut }) re'
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +153,6 @@ page-action-manage-extension =
     .label = Tinuk'samajïx K'amal…
 page-action-remove-from-urlbar =
     .label = Tiyuj el chupam ri Kikajtz'ik Ochoch
-
 page-action-remove-extension =
     .label = Tiyuj K'amal
 
@@ -130,14 +170,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Wakami tikanöx rik'in:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Kek'ëx ri taq rajowaxïk ri kanoxïk
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Tijal kinuk'ulem kanob'äl
-
 search-one-offs-context-open-new-tab =
     .label = Tikanöx pa k'ak'a' ruwi'
     .accesskey = r
@@ -153,10 +191,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Tik'ut k'exob'äl toq niyak
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Xk'achoj
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +267,12 @@ popup-select-microphone =
     .accesskey = Q
 popup-all-windows-shared = Xkekomonïx konojel ri tz'etel taq tzuwäch e k'o pa ri ruwäch.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Richin nokisäx ri F12 chojokem, nab'ey tajaqa' ri DevTools rik'in ri rucha'osamaj Web B'anonel.
-
 
 ## URL Bar
 
@@ -248,11 +286,9 @@ urlbar-permissions-granted =
     .tooltiptext = Xaya' ruwi' ya'oj q'ij chi re re ajk'amaya'l ruxaq re'.
 urlbar-switch-to-tab =
     .value = Rujalik ri ruwi':
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = K'amal:
-
 urlbar-go-button =
     .tooltiptext = Tib'e pa JAY richin ri rucholob'al taq ochochib'äl
 urlbar-page-action-button =
