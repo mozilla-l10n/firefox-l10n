@@ -285,10 +285,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.midiBlocked.tooltip              "您已封鎖此網站的 MIDI 存取權限。">
 <!ENTITY urlbar.installBlocked.tooltip           "您已封鎖此網站安裝附加元件。">
 
-<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此網站更多權限。">
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "顯示瀏覽紀錄">
+
+<!ENTITY urlbar.permissionsGranted.tooltip       "您已授予此網站更多權限。">
 
 
 <!ENTITY searchItem.title             "搜尋">
@@ -349,7 +348,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "檔案">
 <!ENTITY fileMenu.accesskey       "F">
-
 <!ENTITY newUserContext.label             "新增容器分頁">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY manageUserContext.label          "管理容器">
@@ -634,6 +632,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   "Pocket" is a brand name. -->
 <!ENTITY pocketButton.tooltiptext     "儲存至 Pocket">
 
+<!-- LOCALIZATION NOTE(pocket-button.tooltiptext, saveToPocketCmd.label, saveLinkToPocketCmd.label, pocketMenuitem.label):
+  "Pocket" is a brand name. -->
 <!ENTITY saveToPocketCmd.label        "將頁面儲存至 Pocket">
 <!ENTITY saveToPocketCmd.accesskey    "k">
 <!ENTITY saveLinkToPocketCmd.label    "將鏈結儲存至 Pocket">
@@ -883,54 +883,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.contentBlockingPreferences.tooltip "開啟內容封鎖偏好設定">
 
 
-<!ENTITY protections.etpON.header "已開啟針對此網站的加強型追蹤保護功能">
-<!ENTITY protections.etpOFF.header "已關閉針對此網站的加強型追蹤保護功能">
-<!-- LOCALIZATION NOTE:
-     protections.etpMoreInfo.label: The text a screen reader speaks when focused on the info button. -->
-<!ENTITY protections.etpMoreInfo.label "關於加強型追蹤保護功能的更多資訊">
-<!ENTITY protections.settings.label "保護設定">
-<!ENTITY protections.showreport.label "顯示報告">
-<!-- LOCALIZATION NOTE:
-     protections.siteNotWorking.label: The link to be clicked to open the sub-panel view
-     protections.siteNotWorkingView.title: The heading/title of the sub-panel view -->
-<!ENTITY protections.siteNotWorking.label "網站無法正常運作嗎？">
-<!ENTITY protections.siteNotWorkingView.title "網站無法正常運作嗎？">
-<!-- LOCALIZATION NOTE:
-     In the Site Not Working? view, we suggest turning off protections if
-     the user is experiencing issues with any of a variety of functionality.
-     protections.siteNotWorkingView.header: The header of the list
-     protections.siteNotWorkingView.issueList.*: The list items, shown in a <ul> -->
-<!ENTITY protections.siteNotWorkingView.header "如果下列功能出現問題，請關閉保護:">
-<!ENTITY protections.siteNotWorkingView.issueList.logInFields "登入欄位">
-<!ENTITY protections.siteNotWorkingView.issueList.forms "表單">
-<!ENTITY protections.siteNotWorkingView.issueList.payments "付款">
-<!ENTITY protections.siteNotWorkingView.issueList.comments "註解">
-<!ENTITY protections.siteNotWorkingView.issueList.videos "影片">
-<!ENTITY protections.siteNotWorkingView.sendReport.label "請回報給我們">
-
-<!-- LOCALIZATION NOTE (protections.blocking2.label, protections.notBlocking2.label, protections.notFound.label):
-     In the protections panel, Content Blocking category items are in three sections:
-     "Blocked" for categories being blocked in the current page,
-     "Allowed" for categories detected but not blocked in the current page, and
-     "None Detected" for categories not detected in the current page.
-     These strings are used in the header labels of each of these sections. -->
-<!ENTITY protections.blocking2.label "已封鎖">
-<!ENTITY protections.notBlocking2.label "已允許">
-<!ENTITY protections.notFound.label "未偵測到">
-<!-- LOCALIZATION NOTE (protections.notBlocking.why.label, protections.notBlocking.why.etp*.tooltip):
-     The "Allowed" header also includes a "Why?" link that, when hovered, shows
-     a tooltip explaining why these items were not blocked in the page. -->
-<!ENTITY protections.notBlocking.why.label "為什麼？">
-<!ENTITY protections.notBlocking.why.etpOn.tooltip "封鎖這些項目可能會造成某些網站上的元素不正常。若沒有追蹤器，某些按鈕、表單、登入欄位可能無法正常運作。">
-<!ENTITY protections.notBlocking.why.etpOff2.tooltip "由於關閉了追蹤保護功能，已放行本網站中的所有追蹤器。">
-<!ENTITY protections.noTrackersFound.description "&brandShortName; 未在此頁面偵測到已知的追蹤器。">
-
-<!ENTITY protections.crossSiteTrackingCookies.description "一些第三方廣告商或分析公司，會設定這些 Cookie 在不同網站間跟蹤您，收集您的上網紀錄。">
-<!ENTITY protections.cryptominers.description "加密貨幣採礦程式會使用您電腦的運算能力來對數位貨幣「採礦」，消耗您的電腦電力、拖慢系統效能、增加電費支出。">
-<!ENTITY protections.fingerprinters.description "數位指紋追蹤程式會針對您的瀏覽器、電腦設定來建立您的獨特輪廓，並在不同網站間追蹤您。">
-<!ENTITY protections.trackingContent2.description "網站中可能會有包含追蹤碼的外部廣告、影片或其他內容。封鎖追蹤內容可以讓網站更快載入，但某些按鈕、表單、登入欄位可能無法正常運作。">
-<!ENTITY protections.socialMediaTrackers.description "社群網站會在其他網站放置追蹤器，以追蹤您除了在社群網站分享的東西之外，還在網路上做了或看了什麼，更加了解您的一舉一動。">
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 <!ENTITY tabsToolbar.label "瀏覽器分頁">
@@ -975,13 +927,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.cookies.label "Cookie">
 <!ENTITY contentBlocking.cookiesView.label "Cookie 與網站資料">
 
-<!ENTITY contentBlocking.trackingProtection4.label "追蹤用內容">
-
-<!ENTITY contentBlocking.manageSettings2.label "管理保護設定">
-<!ENTITY contentBlocking.manageSettings2.accesskey "M">
-
-<!ENTITY contentBlocking.socialblock.label "社交媒體追蹤器">
-
 <!ENTITY contentBlocking.cryptominers.label "加密貨幣採礦程式">
 <!ENTITY contentBlocking.cryptominersView.label "加密貨幣採礦程式">
 
@@ -992,13 +937,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contentBlocking.breakageReportView.label "回報問題">
 <!ENTITY contentBlocking.breakageReportView2.description "內容封鎖功能可能會造成某些網站運作不正常。當您回報問題時，就能幫助讓所有人的 &brandShortName; 變得更好。（將會回報網址與您的瀏覽器相關設定給 Mozilla。）">
 <!ENTITY contentBlocking.breakageReportView.learnMore "了解更多">
-
-<!ENTITY contentBlocking.breakageReportView.title "回報網站問題">
-<!ENTITY contentBlocking.breakageReportView3.description "封鎖部分追蹤器後，可能會造成某些網站運作不正常。回報問題可幫助讓所有人的 &brandShortName; 變得更好。將會回報網址與您的瀏覽器相關設定給 Mozilla。">
-<!ENTITY contentBlocking.breakageReportView2.learnMore "了解更多">
 <!ENTITY contentBlocking.breakageReportView.collection.url.label "網址">
 <!ENTITY contentBlocking.breakageReportView.collection.comments.label "您遇到什麼問題？（選填）">
-<!ENTITY contentBlocking.breakageReportView2.collection.comments.label "非必填: 描述問題情況">
 <!ENTITY contentBlocking.breakageReportView.sendReport.label "傳送回報">
 <!ENTITY contentBlocking.breakageReportView.cancel.label "取消">
 
@@ -1049,8 +989,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newTabControlled.disableButton.accesskey "D">
 
 <!ENTITY homepageControlled.message "有套擴充套件修改了您的首頁。若您不想要這個修改，可還原此設定。">
-
-<!ENTITY homepageControlled.header.message "您的「新分頁」已經變更。">
+<!ENTITY homepageControlled.header.message "您的首頁已經變更。">
 <!ENTITY homepageControlled.keepButton.label "保留變更">
 <!ENTITY homepageControlled.keepButton.accesskey "K">
 <!ENTITY homepageControlled.disableButton.label "停用擴充套件">
