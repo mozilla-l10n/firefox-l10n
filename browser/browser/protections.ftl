@@ -160,9 +160,16 @@ password-warning =
         [one] Lagra innlogging kan ha blitt eksponert i ein datalekkasje. Endre dette passordet for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
        *[other] Lagra innloggingar kan ha blitt eksponerte i ein datalekkasje. Endre desse passorda for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
     }
+monitor-view-report-link = Vis rapport
+    .title = Løys datalekkasjar på { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Løys datalekkasjane dine
+monitor-manage-breaches-link = Handter datalekkasjer
+    .title = Handter datalekkasjar på { -monitor-brand-short-name }
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Hald fram slik!
 monitor-partial-breaches-motivation-title-end = Nesten ferdig! Hald fram slik.
+monitor-resolve-breaches-link = Løys datalekkasjar
+    .title = Løys datalekkasjar på { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
