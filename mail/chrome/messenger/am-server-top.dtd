@@ -1,8 +1,6 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-server-top.xul -->
-
 
 <!ENTITY messageStorage.label "Storfa Negeseuon">
 <!ENTITY securitySettings.label "Gosodiadau Diogelwch">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Porth:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Rhagosodiad:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "w">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Gofyn cyn llwytho i lawr mwy na">
 <!ENTITY maxMessagesStart.accesskey "o">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "b">
 <!ENTITY newsrcFilePath.label "ffeil newsrc:">
 <!ENTITY newsrcPicker.label "Dewis Ffeil newsrc">
+<!ENTITY newsrcFilePath1.label "Ffeil News.rc:">
+<!ENTITY newsrcPicker1.label "Dewis Ffeil News.rc">
 <!ENTITY abbreviate.label "Dangos enwau'r grŵp newyddion yn y paen Ffolder E-bost, fel:">
 <!ENTITY abbreviateOn.label "Enwau llawn (e.e, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Enwau byr (e.e. 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "U">
 <!ENTITY serverDefaultCharset2.label "Amgodiad Testun Rhagosodedig:">
 <!ENTITY localPath.label "Cyfeiriadur lleol:">
+<!ENTITY localPath1.label "Cyfeiriadur Lleol:">
 <!ENTITY localFolderPicker.label "Dewis Cyfeiriadur Lleol">
 <!ENTITY browseFolder.label "Pori…">
 <!ENTITY browseFolder.accesskey "P">
