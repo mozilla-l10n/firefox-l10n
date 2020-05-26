@@ -43,6 +43,12 @@
 <!ENTITY importItems.label              "Ôbier, jakie elymynty chcesz importować:">
 
 <!ENTITY migrating.title                "Import…">
+<!ENTITY migrating.label                "Te elymynty sōm prawie importowane…">
 
+<!ENTITY selectProfile.title            "Ôbier profil">
+<!ENTITY selectProfile.label            "Te profile idzie importować:">
 
+<!ENTITY done.title                     "Import je skōńczōny">
+<!ENTITY done.label                     "Import tych elymyntōw sie podarził:">
 
+<!ENTITY closeSourceBrowser.label       "Podwiela pudziesz dalij, dej pozōr, jeźli ôbrano przeglōndarka je zawarto.">
