@@ -190,7 +190,13 @@ monitor-view-report-link = Rozprawu pokazać
 monitor-breaches-unresolved-title = Wotstrońće swoje datowe dźěry
 monitor-manage-breaches-link = Datowe dźěry rjadować
     .title = Datowe dźěry na { -monitor-brand-short-name } rjadować
+monitor-breaches-resolved-title = Wulkotnje! Sće wšě znate datowe dźěry wotstronił.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } % dokónčene
 monitor-partial-breaches-motivation-title-start = Wulkotny spočatk!
+monitor-partial-breaches-motivation-title-middle = Dale tak!
+monitor-partial-breaches-motivation-title-end = Nimale dokónčene! Dale tak.
 monitor-resolve-breaches-link = Datowe dźěry wotstronić
     .title = Datowe dźěry na { -monitor-brand-short-name } wotstronić
 

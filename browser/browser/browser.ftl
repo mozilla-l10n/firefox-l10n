@@ -275,6 +275,8 @@ popup-screen-sharing-never =
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = K rajtarkej postupować
 sharing-warning-disable-for-session =
     .label = Dźělenski škit za tute posedźenje znjemóžnić
 
