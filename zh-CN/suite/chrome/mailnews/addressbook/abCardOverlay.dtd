@@ -33,6 +33,7 @@
 <!ENTITY DisplayName.accesskey          "D">
 <!ENTITY preferDisplayName.label        "消息头优先列出显示名称">
 <!ENTITY preferDisplayName.accesskey    "A">
+<!ENTITY preferDisplayName2.accesskey   "y">
 <!ENTITY NickName.label                 "昵称：">
 <!ENTITY NickName.accesskey             "N">
 
@@ -47,6 +48,8 @@
 <!ENTITY Unknown.label                  "未知">
 <!ENTITY ScreenName.label               "屏幕名：">
 <!ENTITY ScreenName.accesskey           "S">
+
+<!ENTITY chatName.label                 "聊天名称：">
 
 <!ENTITY WorkPhone.label                "工作：">
 <!ENTITY WorkPhone.accesskey            "k">
@@ -118,6 +121,27 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "说明:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "聊天">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk：">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM：">
+<!ENTITY AIM.accesskey                  "M">
+<!ENTITY Yahoo.label                    "Yahoo!：">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype：">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ：">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN：">
+<!ENTITY MSN.accesskey                  "N">
+<!ENTITY ICQ.label                      "ICQ：">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "IRC 昵称：">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "照片">
 <!ENTITY Photo.accesskey                "o">

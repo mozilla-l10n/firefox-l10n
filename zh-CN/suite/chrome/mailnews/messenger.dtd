@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "删除">
 <!ENTITY undeleteButton.label "撤消删除">
 <!ENTITY markButton.label "标记">
+<!ENTITY printButton.label "打印">
 <!ENTITY stopButton.label "停止">
 <!ENTITY junkButton.label "垃圾">
 <!ENTITY notJunkButton.label "非垃圾">
@@ -448,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "删除选择的消息或文件夹">
 <!ENTITY undeleteButton.tooltip "恢复选中消息">
 <!ENTITY markButton.tooltip "标记消息">
+<!ENTITY printButton.tooltip "打印此消息">
 <!ENTITY stopButton.tooltip "停止当前的传输">
 <!ENTITY throbber.tooltip "转到 &vendorShortName; 主页">
 <!ENTITY throbber.tooltip2 "前往 &brandShortName; 主页">
