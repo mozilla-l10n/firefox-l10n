@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Berjochteopslach">
 <!ENTITY securitySettings.label "Befeiligingsynstellingen">
 <!ENTITY serverSettings.label "Serverynstellingen">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Poarte:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standert:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "o">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "My freegje foar it downloaden fan mear as">
 <!ENTITY maxMessagesStart.accesskey "f">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "z">
 <!ENTITY newsrcFilePath.label "newsrc-bestân:">
 <!ENTITY newsrcPicker.label "newsrc-bestân selektearje">
+<!ENTITY newsrcFilePath1.label "Newsrc-bestân:">
+<!ENTITY newsrcPicker1.label "Newsrc-bestân selektearje">
 <!ENTITY abbreviate.label "Nijsgroepnammen yn it berjochtemapfinster toane as:">
 <!ENTITY abbreviateOn.label "Folsleine nammen (bygelyks ‘netscape.public.mozilla.mail-news’)">
 <!ENTITY abbreviateOff.label "Ofkoarte nammen (bygelyks ‘n.p.m.mail-news’)">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "A">
 <!ENTITY serverDefaultCharset2.label "Standert tekenkodearing:">
 <!ENTITY localPath.label "Lokale map">
+<!ENTITY localPath1.label "Lokale map:">
 <!ENTITY localFolderPicker.label "Selektearje lokale map">
 <!ENTITY browseFolder.label "Blêdzje…">
 <!ENTITY browseFolder.accesskey "B">
