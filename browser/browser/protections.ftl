@@ -172,6 +172,21 @@ monitor-breaches-unresolved-title = Resolver seus vazamentos
 monitor-manage-breaches-link = Gerenciar vazamentos
     .title = Gerenciar vazamentos no { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Ótimo! Você resolveu todos os vazamentos conhecidos.
+monitor-breaches-resolved-description = Se o seu e-mail aparecer em novos vazamentos, te avisaremos.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } de { $numBreaches } vazamento marcado como resolvido
+       *[other] { $numBreachesResolved } de { $numBreaches } vazamentos marcados como resolvidos
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% concluído
+monitor-partial-breaches-motivation-title-start = Ótimo começo!
+monitor-partial-breaches-motivation-title-middle = Continue assim!
+monitor-partial-breaches-motivation-title-end = Falta pouco! Continue assim.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
