@@ -157,12 +157,29 @@ password-warning =
 monitor-no-breaches-title = 好消息！
 monitor-no-breaches-description = 還沒有遇到已知的資料外洩事件。有新事件發生時我們會通知您。
 monitor-view-report-link = 檢視報告
-    .title = 到 { -monitor-brand-short-name } 處理
+    .title = 到 { -monitor-brand-short-name } 處理資料外洩事件
 monitor-breaches-unresolved-title = 處理遇到的資料外洩事件
 monitor-breaches-unresolved-description = 確認事件詳細資訊並採取行動保護自己的資料後，就可以將事件標示為「已處理」。
 monitor-manage-breaches-link = 管理資料外洩事件
     .title = 到 { -monitor-brand-short-name } 管理資料外洩事件
 monitor-breaches-resolved-title = 真棒！所有已知的資料外洩事件都處理完了。
+monitor-breaches-resolved-description = 若您的信箱出現在新的資料外洩事件，我們會通知您。
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] 已處理 { $numBreachesResolved } 場事件，共 { $numBreaches } 場
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = 完成 { $percentageResolved }%
+monitor-partial-breaches-motivation-title-start = 好的開始！
+monitor-partial-breaches-motivation-title-middle = 繼續保持！
+monitor-partial-breaches-motivation-title-end = 快完成了，繼續保持！
+monitor-partial-breaches-motivation-desc = 到 { -monitor-brand-short-name } 處理其他的資料外洩事件
+monitor-resolve-breaches-link = 處理資料外洩事件
+    .title = 到 { -monitor-brand-short-name } 處理資料外洩事件
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
