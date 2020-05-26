@@ -31,8 +31,9 @@
 <!ENTITY PhoneticField2.label           "Fonetisk:">
 <!ENTITY DisplayName.label              "Fullt navn:">
 <!ENTITY DisplayName.accesskey          "F">
-<!ENTITY preferDisplayName.label        "Alltid foretrekk å vise navnet istedenfor det i meldingshodet">
+<!ENTITY preferDisplayName.label        "Foretrekk alltid visningsnavn istedenfor navnet i meldingshodet">
 <!ENTITY preferDisplayName.accesskey    "A">
+<!ENTITY preferDisplayName2.accesskey   "d">
 <!ENTITY NickName.label                 "Kallenavn:">
 <!ENTITY NickName.accesskey             "K">
 
@@ -48,6 +49,7 @@
 <!ENTITY ScreenName.label               "Skjermnavn:">
 <!ENTITY ScreenName.accesskey           "S">
 
+<!ENTITY chatName.label                 "Nettpratnavn:">
 
 <!ENTITY WorkPhone.label                "Arbeid:">
 <!ENTITY WorkPhone.accesskey            "A">
@@ -120,6 +122,8 @@
 <!ENTITY Notes.label                    "Notater:">
 <!ENTITY Notes.accesskey                "N">
 
+<!ENTITY Chat.tab                       "Nettprat">
+<!ENTITY Chat.accesskey                 "a">
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
