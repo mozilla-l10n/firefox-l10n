@@ -68,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "w">
 <!ENTITY newsrcFilePath.label "newsrc 文件：">
 <!ENTITY newsrcPicker.label "选择 newsrc 文件">
+<!ENTITY newsrcFilePath1.label "News.rc 文件：">
+<!ENTITY newsrcPicker1.label "选择 News.rc 文件">
 <!ENTITY abbreviate.label "在“邮件夹”中显示新闻组名为：">
 <!ENTITY abbreviateOn.label "全名（例如，'netscape.public.mozilla.mail-news'）">
 <!ENTITY abbreviateOff.label "缩写名（例如，'n.p.m.mail-news'）">
@@ -75,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "v">
 <!ENTITY serverDefaultCharset2.label "默认文字编码：">
 <!ENTITY localPath.label "本地目录：">
+<!ENTITY localPath1.label "本地目录：">
 <!ENTITY localFolderPicker.label "选择本地文件夹">
 <!ENTITY browseFolder.label "浏览…">
 <!ENTITY browseFolder.accesskey "B">
