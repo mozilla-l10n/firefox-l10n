@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Megosztandó mikrofon:
     .accesskey = M
 popup-all-windows-shared = A képernyő minden látható ablaka meg lesz osztva.
+popup-screen-sharing-not-now =
+    .label = Most nem
+    .accesskey = n
+popup-screen-sharing-never =
+    .label = Soha ne engedélyezze
+    .accesskey = S
+popup-silence-notifications-checkbox = A { -brand-short-name } értesítéseinek kikapcsolása megosztás közben
+popup-silence-notifications-checkbox-warning = A { -brand-short-name } nem fog értesítéseket megjeleníteni megosztás közben.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Ön megosztja a { -brand-short-name }ot. Mások is láthatják, ha új lapra vált.
+sharing-warning-screen = Ön megosztja a teljes képernyőjét. Mások is láthatják, ha új lapra vált.
+sharing-warning-proceed-to-tab =
+    .label = Tovább a laphoz
+sharing-warning-disable-for-session =
+    .label = Megosztásvédelem kikapcsolása ebben a munkamenetben
 
 ## DevTools F12 popup
 
