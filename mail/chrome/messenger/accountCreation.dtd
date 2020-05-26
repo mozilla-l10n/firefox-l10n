@@ -37,6 +37,7 @@
 <!ENTITY imapLong.label                  "IMAP (memorisar ils e-mails sin il server)">
 <!ENTITY pop3Long.label                  "POP3 (memorisar ils e-mails sin quest computer)">
 
+<!ENTITY manualConfigTable.summary       "Parameters dal server">
 <!ENTITY incoming.label                  "Entrada:">
 <!ENTITY incomingColumn.label            "Posta che entra">
 <!ENTITY outgoing.label                  "Sortida:">
