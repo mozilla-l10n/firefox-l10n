@@ -21,3 +21,11 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = 지금 동기화
+
+## What's New panel in App menu.
+
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = 새 기능 알림
+    .accesskey = f
