@@ -192,12 +192,24 @@ monitor-breaches-unresolved-title = Wotstrońće swoje datowe dźěry
 monitor-manage-breaches-link = Datowe dźěry rjadować
     .title = Datowe dźěry na { -monitor-brand-short-name } rjadować
 monitor-breaches-resolved-title = Wulkotnje! Sće wšě znate datowe dźěry wotstronił.
+monitor-breaches-resolved-description = Jeli so waša e-mejlowa adresa w nowych datowych dźěrach jewi, zdźělimy wam to.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } z { $numBreaches } datowych dźěrow je so jako wotstronjena markěrowała.
+        [two] { $numBreachesResolved } z { $numBreaches } datowych dźěrow stej so jako wotstronjenej markěrowałoj.
+        [few] { $numBreachesResolved } z { $numBreaches } datowych dźěrow su so jako wotstronjene markěrowali.
+       *[other] { $numBreachesResolved } z { $numBreaches } datowych dźěrow je so jako wotstronjene markěrowało.
+    }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % dokónčene
 monitor-partial-breaches-motivation-title-start = Wulkotny spočatk!
 monitor-partial-breaches-motivation-title-middle = Dale tak!
 monitor-partial-breaches-motivation-title-end = Nimale dokónčene! Dale tak.
+monitor-partial-breaches-motivation-desc = Wotstrońće zbytk swojich datowych dźěrow na { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Datowe dźěry wotstronić
     .title = Datowe dźěry na { -monitor-brand-short-name } wotstronić
 
