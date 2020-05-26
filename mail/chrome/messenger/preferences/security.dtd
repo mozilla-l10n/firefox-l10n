@@ -8,7 +8,7 @@
 <!ENTITY itemAntiVirus.label     "防毒">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "您可以到帳號設定調整各個帳號的預設垃圾郵件處理方式。">
+<!ENTITY junkMail.intro "設定您的預設垃圾郵件處理方式。可以到「帳號設定」調整各個帳號自己的處理方式。">
 <!ENTITY manualMark.label "當標示郵件為垃圾信時:">
 <!ENTITY manualMark.accesskey "W">
 <!ENTITY manualMarkModeMove.label "移動到該帳號的「垃圾郵件」資料夾">
@@ -45,5 +45,3 @@
 <!ENTITY antiVirus.intro      "&brandShortName; 可讓防毒軟體在郵件存入電腦前檢查郵件是否有問題。">
 <!ENTITY antiVirus.label      "允許防毒軟體個別處理與檢查新郵件">
 <!ENTITY antiVirus.accesskey  "A">
-
-
