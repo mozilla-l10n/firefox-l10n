@@ -25,7 +25,7 @@ fxaccounts-avatar-button =
 menu =
     .title = Obre el menú
 # This menuitem is only visible on Windows and macOS
-about-logins-menu-menuitem-import-from-another-browser = Importa des d'un altre navegador…
+about-logins-menu-menuitem-import-from-another-browser = Importa d'un altre navegador…
 menu-menuitem-preferences =
     { PLATFORM() ->
         [windows] Opcions
@@ -105,22 +105,16 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Verifiqueu la vostra identitat per editar l'inici de sessió desat.
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Per editar l'inici de sessió, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = editar l'inici de sessió desat
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Verifiqueu la vostra identitat per mostrar la contrasenya desada.
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per veure la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mostrar la contrasenya desada
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Verifiqueu la vostra identitat per copiar la contrasenya desada.
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Per copiar la contrasenya, introduïu les vostres credencials d'inici de sessió al Windows. Això ajuda a protegir la seguretat dels vostres comptes.
 # This message can be seen when attempting to copy a password in about:logins
