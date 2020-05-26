@@ -37,6 +37,8 @@ protection-report-webpage-title = 보호 기능 대시보드
 protection-report-page-content-title = 보호 기능 대시보드
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }는 탐색하는 동안 뒤에서 개인 정보를 보호할 수 있습니다. 다음은 온라인 보안을 제어하는 도구를 포함하여 이러한 보호 기능에 대한 개인화된 요약입니다.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name }는 탐색하는 동안 뒤에서 개인 정보를 보호합니다. 다음은 온라인 보안을 제어하는 도구를 포함하여 이러한 보호 기능에 대한 개인화된 요약입니다.
 protection-report-settings-link = 개인 정보 및 보안 설정 관리
 etp-card-title-always = 향상된 추적 방지 기능: 항상 켜기
 etp-card-title-custom-not-blocking = 향상된 추적 방지 기능: 끄기
@@ -153,10 +155,13 @@ password-warning =
        *[other] 저장된 로그인이 데이터 유출에 노출되었을 수 있습니다. 더 나은 온라인 보안을 위해 이 비밀번호를 변경하세요. <a data-l10n-name="lockwise-link">저장된 로그인 보기</a>
     }
 monitor-no-breaches-title = 좋은 소식!
+monitor-no-breaches-description = 알려진 유출이 없습니다. 변경되면 알려 드리겠습니다.
 monitor-view-report-link = 보고서 보기
     .title = { -monitor-brand-short-name }에서 유출 해결
 monitor-breaches-unresolved-title = 유출 해결
 monitor-breaches-unresolved-description = 유출 세부 사항을 검토하고 정보를 보호하기 위한 조치를 취한 후, 유출을 해결된 것으로 표시할 수 있습니다.
+monitor-manage-breaches-link = 유출 관리
+    .title = { -monitor-brand-short-name }에서 유출 관리
 monitor-breaches-resolved-title = 좋아요! 알려진 모든 유출을 해결했습니다.
 monitor-breaches-resolved-description = 사용자의 이메일이 새로운 유출에 나타나면 알려 드리겠습니다.
 # Variables:
@@ -169,6 +174,10 @@ monitor-partial-breaches-title =
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% 완료
+monitor-partial-breaches-motivation-title-start = 시작!
+monitor-partial-breaches-motivation-title-middle = 계속하세요!
+monitor-partial-breaches-motivation-title-end = 거의 다 했어요! 계속하세요.
+monitor-partial-breaches-motivation-desc = { -monitor-brand-short-name }에서 나머지 유출을 해결하세요
 monitor-resolve-breaches-link = 유출 해결
     .title = { -monitor-brand-short-name }에서 유출 해결
 
