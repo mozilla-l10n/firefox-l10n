@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "i">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "글꼴">
 <!ENTITY FontFaceSelect.tooltip "글꼴 선택">
 <!ENTITY fontfaceMenu.label "글꼴">
 <!ENTITY fontfaceMenu.accesskey "f">
@@ -70,7 +71,8 @@
 <!ENTITY fontCourier.accesskey "c">
 
 <!-- Font Size SubMenu -->
-<!ENTITY FontSizeSelect.tooltip "글자 크기 선택">
+<!ENTITY FontSizeSelect.title "글꼴 크기">
+<!ENTITY FontSizeSelect.tooltip "글꼴 크기 선택">
 <!ENTITY decreaseFontSize.label "작게">
 <!ENTITY decreaseFontSize.accesskey "r">
 <!ENTITY decrementFontSize.key "-">
@@ -311,8 +313,9 @@
 <!ENTITY HighlightColorButton.tooltip "글자 강조색 선택">
 
 <!-- Editor toolbar -->
-<!ENTITY absoluteFontSizeToolbarCmd.tooltip "폰트 크기 설정">
-<!ENTITY decreaseFontSizeToolbarCmd.tooltip "글자 작게">
+<!ENTITY absoluteFontSize.label "글꼴 크기">
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "글꼴 크기 설정">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "글꼴 크기 작게">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "글자 크게">
 <!ENTITY boldToolbarCmd.tooltip "굵게">
 <!ENTITY italicToolbarCmd.tooltip "기울임">
