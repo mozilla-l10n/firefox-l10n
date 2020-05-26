@@ -156,6 +156,21 @@ monitor-no-breaches-title = 좋은 소식!
 monitor-view-report-link = 보고서 보기
     .title = { -monitor-brand-short-name }에서 유출 해결
 monitor-breaches-unresolved-title = 유출 해결
+monitor-breaches-unresolved-description = 유출 세부 사항을 검토하고 정보를 보호하기 위한 조치를 취한 후, 유출을 해결된 것으로 표시할 수 있습니다.
+monitor-breaches-resolved-title = 좋아요! 알려진 모든 유출을 해결했습니다.
+monitor-breaches-resolved-description = 사용자의 이메일이 새로운 유출에 나타나면 알려 드리겠습니다.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreaches }개의 유출 중 { $numBreachesResolved }개가 해결된 것으로 표시되었습니다
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% 완료
+monitor-resolve-breaches-link = 유출 해결
+    .title = { -monitor-brand-short-name }에서 유출 해결
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
