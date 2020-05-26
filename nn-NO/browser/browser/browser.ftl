@@ -266,6 +266,12 @@ popup-select-microphone =
     .value = Mikrofon som vert delt:
     .accesskey = M
 popup-all-windows-shared = Alle synlege vindauge på skjermen vil bli delte.
+popup-screen-sharing-not-now =
+    .label = Ikkje no
+    .accesskey = n
+popup-screen-sharing-never =
+    .label = Tillat aldri
+    .accesskey = a
 
 ## WebRTC window or screen share tab switch warning
 
