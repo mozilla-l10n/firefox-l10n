@@ -37,6 +37,7 @@
 <!ENTITY preferencesCmdUnix.accesskey     "I">
 
 <!ENTITY customizeCmd.label "Tilpass">
+<!ENTITY customizeCmd.accesskey "p">
 
 <!ENTITY viewMenu.label          "Vis">
 <!ENTITY viewMenu.accesskey        "V">

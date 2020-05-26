@@ -13,6 +13,7 @@
 <!ENTITY alwaysEncryptMessage.accesskey "P">
 <!ENTITY encryptionCert.message "Bruk dette sertifikatet til å kryptera og dekryptera meldingar sendt til deg:">
 
+<!ENTITY e2eLearnMore.label "Les meir">
 
 
 
