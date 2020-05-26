@@ -185,6 +185,7 @@ password-warning =
        *[other] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
     }
 monitor-no-breaches-title = Dobre powěsće!
+monitor-no-breaches-description = Nimaće žane znate datowe dźěry. Jeli so to změni, zdźělimy wam to.
 monitor-view-report-link = Rozprawu pokazać
     .title = Datowe dźěry na { -monitor-brand-short-name } wotstronić
 monitor-breaches-unresolved-title = Wotstrońće swoje datowe dźěry
