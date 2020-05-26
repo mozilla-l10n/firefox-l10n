@@ -37,7 +37,10 @@ etp-card-title = הגנת מעקב מתקדמת
 etp-card-content = רכיבי מעקב עוקבים אחריך ברשת כדי לאסוף מידע על הרגלי הגלישה ותחומי העניין שלך. { -brand-short-name } חוסם הרבה מרכיבי המעקב האלו, לרבות תסריטים זדוניים אחרים.
 protection-report-webpage-title = לוח הגנות
 protection-report-page-content-title = לוח הגנות
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = ‏{ -brand-short-name } יכול להגן על הפרטיות שלך מאחורי הקלעים בזמן הגלישה. להלן תקציר מותאם אישית של הגנות אלה, לרבות כלים המאפשרים להיות בשליטה על האבטחה המקוונת שלך.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = ‏{ -brand-short-name } מגן על הפרטיות שלך מאחורי הקלעים בזמן הגלישה. להלן תקציר מותאם אישית של הגנות אלה, לרבות כלים המאפשרים להיות בשליטה על האבטחה המקוונת שלך.
 protection-report-settings-link = ניהול הגדרות הפרטיות והאבטחה שלך
 etp-card-title-always = הגנת מעקב מתקדמת: תמיד פעילה
 etp-card-title-custom-not-blocking = הגנת מעקב מתקדמת: כבויה
@@ -58,8 +61,6 @@ tracker-tab-description = אתרים עשויים לטעון פרסומות חי
 fingerprinter-tab-title = רכיבי זהות דיגיטלית
 cryptominer-tab-title = כורי מטבעות דיגיטליים
 cryptominer-tab-content = כורי מטבעות דיגיטליים משתמשים בכוח העיבוד של המערכת שלך כדי לכרות כסף דיגיטלי. תסריטי כריית מטבעות מרוקנים את הסוללה שלך, מאטים את המחשב שלך ומגדילים את חשבון החשמל שלך. <a data-l10n-name="learn-more-link">מידע נוסף</a>
-protections-close-button =
-    .aria-label = סגירה
 protections-close-button2 =
     .aria-label = סגירה
     .title = סגירה
@@ -119,6 +120,8 @@ monitor-link = איך זה עובד
 monitor-header-content-no-account = ניתן לבדוק את { -monitor-brand-name } כדי לראות אם היית חלק מדליפת נתונים מוכרת, ולקבל התרעות לגבי דליפות חדשות.
 monitor-header-content-signed-in = { -monitor-brand-name } מזהיר אותך אם המידע שלך נחשף בדליפת נתונים מוכרת.
 monitor-sign-up = הרשמה להתרעות על דליפות
+monitor-sign-up-link = הרשמה להתרעות על דליפות
+    .title = הרשמה להתרעות על דליפות ב־{ -monitor-brand-name }
 auto-scan = נסרק באופן אוטומטי היום
 monitor-emails-tooltip =
     .title = הצגת כתובות דוא״ל מנוטרות ב־{ -monitor-brand-short-name }
@@ -159,6 +162,7 @@ password-warning =
         [one] יתכן שכניסה שמורה אחת נחשפה בדליפת נתונים. מומלץ לשנות את הססמה הזאת לטובת אבטחה מקוונת טובה יותר. <a data-l10n-name="lockwise-link"> הצגת כניסות שמורות</a>
        *[other] יתכן שכניסות שמורות נחשפו בדליפת נתונים. מומלץ לשנות את הססמאות האלו לטובת אבטחה מקוונת טובה יותר. <a data-l10n-name="lockwise-link"> הצגת כניסות שמורות</a>
     }
+monitor-no-breaches-title = חדשות טובות!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
