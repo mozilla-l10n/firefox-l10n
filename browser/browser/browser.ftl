@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Դիտել կայքի տեղեկությունը
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = Դուք արգելափակել եք MIDI մատչումը այս կայքին:
 urlbar-install-blocked =
     .tooltiptext = Դուք այս կայքի համար արգելափակել եք հավելասարքի բեռնումը։
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Խմբագրել այս էջանիշը ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = Կառավարել ընդլայնումը...
 page-action-remove-from-urlbar =
     .label = ՀԵռացնել Հասցեագոտուց
-
 page-action-remove-extension =
     .label = Հեռացնել ընդլայնումը
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Այս անգամ որոնել հետևյալի հետ.
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Փոխել որոնման կարգավորումները
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Փոխել որոնման կարգավորումները
-
 search-one-offs-context-open-new-tab =
     .label = Որոնել Նոր Ներդիրում
     .accesskey = Ն
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Ցուցադրել խմբագրիչում, երբ պահպանվում է
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = Պատրաստ է
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +234,12 @@ popup-select-microphone =
     .accesskey = Մ
 popup-all-windows-shared = Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = F12 դյուրանցումը օգտագործելու համար առաջին հերթին բացեք DevTools-ը Վեբ մշակողի ցանկի միջոցով:
-
 
 ## URL Bar
 
@@ -248,11 +253,9 @@ urlbar-permissions-granted =
     .tooltiptext = Դուք տրամադրել եք այս կայքէջին լրացուցիչ թույլտվություններ:
 urlbar-switch-to-tab =
     .value = Անցնել ներդիրի՝
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Ընդլայնում՝
-
 urlbar-go-button =
     .tooltiptext = Գնալ Հասցեի Տողում նշված հասցեով
 urlbar-page-action-button =
