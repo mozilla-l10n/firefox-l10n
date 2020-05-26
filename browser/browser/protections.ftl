@@ -172,6 +172,7 @@ monitor-breaches-unresolved-title = Løs dine datalekkasjer
 monitor-breaches-unresolved-description = Etter å ha gjennomgått detaljene om en datalekkasje og tatt skritt for å beskytte din personlige informasjon, kan du merke datalekkasjen som løst.
 monitor-manage-breaches-link = Behandle datalekkasjer
     .title = Behandle datalekkasjer på { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Så bra! Du har løst alle kjente datalekkasjer.
 monitor-breaches-resolved-description = Vi vil gi deg beskjed om e-postadressen din vises i nye datalekkasjer.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
@@ -183,6 +184,12 @@ monitor-partial-breaches-title =
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved } % fullført
+monitor-partial-breaches-motivation-title-start = Bra start!
+monitor-partial-breaches-motivation-title-middle = Fortsett slik!
+monitor-partial-breaches-motivation-title-end = Nesten ferdig! Fortsett slik.
+monitor-partial-breaches-motivation-desc = Løs resten av datalekkasjene dine på { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Løs datalekkasjer
+    .title = Løs datalekkasjer på { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
