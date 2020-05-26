@@ -239,7 +239,7 @@
 <!ENTITY event.attachments.popup.open.accesskey           "O" >
 <!ENTITY event.attachments.popup.removeAll.label          "移除全部" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "A" >
-<!ENTITY event.attachments.popup.attachPage.label         "附加網頁" >
+<!ENTITY event.attachments.popup.attachPage.label         "附加網頁…" >
 <!ENTITY event.attachments.popup.attachPage.accesskey     "W" >
 <!ENTITY event.url.label                                  "相關鏈結:" >
 <!ENTITY event.priority2.label                            "重要性:">
