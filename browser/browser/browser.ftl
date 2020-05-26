@@ -3,6 +3,17 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
+
 ## Tooltips for images appearing in the address bar
 
 
@@ -50,6 +61,9 @@ popup-select-microphone =
     .value = Maekrofounu wa go abelana:
     .accesskey = M
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -61,6 +75,5 @@ urlbar-placeholder =
     .placeholder = Nyaka goba o tsenye aterese
 urlbar-switch-to-tab =
     .value = Fetogela go thepo:
-
 urlbar-go-button =
     .tooltiptext = Eya atereseng go para ya lefelo
