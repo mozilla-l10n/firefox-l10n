@@ -272,9 +272,12 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Ur sirig ara
     .accesskey = N
+popup-silence-notifications-checkbox = Kkes ilɣa n { -brand-short-name } di lawan n beṭṭu
+popup-silence-notifications-checkbox-warning = { -brand-short-name } ur yeskanay ara ilɣa mi ara tbeṭṭuḍ.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Tbeṭṭuḍ { -brand-short-name }. Imdanen-nniḍen zemren ad walin mi ara tedduḍ ɣer yiccer amaynut.
 
 ## DevTools F12 popup
 
