@@ -182,6 +182,7 @@
 <!ENTITY listPropsCmd.label "목록 속성…">
 <!ENTITY listPropsCmd.accesskey "l">
 
+<!ENTITY ParagraphSelect.title "문단">
 <!ENTITY ParagraphSelect.tooltip "문단 형식 선택">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "본문 글자">
@@ -207,8 +208,11 @@
 <!ENTITY alignJustify.tooltip "양쪽으로 맞춤">
 
 <!-- Layer toolbar items -->
+<!ENTITY absolutePosition.label "위치 지정">
 <!ENTITY layer.tooltip "레이어">
+<!ENTITY decreaseZIndex.label "뒤로 보내기">
 <!ENTITY layerSendToBack.tooltip "뒤로 보내기">
+<!ENTITY increaseZIndex.label "앞으로 가져오기">
 <!ENTITY layerBringToFront.tooltip "앞으로 보내기">
 
 <!ENTITY increaseIndent.label "들여쓰기 증가">
@@ -306,17 +310,21 @@
 <!ENTITY linkToolbarCmd.tooltip "새 링크를 삽입하거나 선택된 링크 편집">
 <!ENTITY anchorToolbarCmd.label "내부 링크">
 <!ENTITY anchorToolbarCmd.tooltip "새 내부 링크를 삽입하거나 선택된 내부 링크 편집">
+<!ENTITY colorButtons.title "색상">
 <!ENTITY TextColorButton.tooltip "글자색 선택">
 <!ENTITY BackgroundColorButton.tooltip "배경색 선택">
 <!ENTITY throbber.tooltip "&vendorShortName; 홈 페이지 가기">
 <!ENTITY throbber.tooltip2 "&brandShortName; 홈페이지 가기">
+<!ENTITY HighlightColorButton.label "형광펜">
 <!ENTITY HighlightColorButton.tooltip "글자 강조색 선택">
 
 <!-- Editor toolbar -->
 <!ENTITY absoluteFontSize.label "글꼴 크기">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "글꼴 크기 설정">
+<!ENTITY smaller.label "작게">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "글꼴 크기 작게">
-<!ENTITY increaseFontSizeToolbarCmd.tooltip "글자 크게">
+<!ENTITY larger.label "크게">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "글꼴 크기 크게">
 <!ENTITY boldToolbarCmd.tooltip "굵게">
 <!ENTITY italicToolbarCmd.tooltip "기울임">
 <!ENTITY underlineToolbarCmd.tooltip "밑줄">
@@ -326,8 +334,11 @@
 <!ENTITY indentToolbarCmd.tooltip "들여쓰기(오른쪽으로)">
 <!ENTITY AlignPopupButton.tooltip "텍스트 맞춤 방식 선택">
 <!ENTITY InsertPopupButton.tooltip "링크 또는 이미지, 가로선, 표 삽입">
+<!ENTITY alignLeftButton.label "왼쪽으로 정렬">
 <!ENTITY alignLeftButton.tooltip "왼쪽으로 맞춤">
+<!ENTITY alignCenterButton.label "가운데로 정렬">
 <!ENTITY alignCenterButton.tooltip "가운데로 맞춤">
+<!ENTITY alignRightButton.label "오른쪽으로 정렬">
 <!ENTITY alignRightButton.tooltip "오른쪽으로 맞춤">
 <!ENTITY alignJustifyButton.tooltip "좌우 여백에 따라 맞춤">
 
