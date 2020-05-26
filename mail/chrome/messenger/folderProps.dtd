@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Nome:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Cor do ícone:">
+<!ENTITY folderProps.color.accesskey             "C">
+<!ENTITY folderProps.reset.tooltip               "Restaurar cor padrão">
 <!ENTITY folderProps.location.label              "Local:">
 <!ENTITY folderProps.location.accesskey          "E">
 
