@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Iepenje in lokaal bestân">
 <!ENTITY saveToolbarCmd.tooltip "Bewarje bestân nei in lokale lokaasje">
 <!ENTITY publishToolbarCmd.tooltip "Laad bestân op nei in oare lokaasje">
+<!ENTITY printToolbarCmd.label "Ofdrukke">
+<!ENTITY printToolbarCmd.tooltip "Dizze side ôfdrukke">
