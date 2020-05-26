@@ -53,7 +53,7 @@
 <!ENTITY  font.langGroup.sinhala                  "싱할라어">
 <!ENTITY  font.langGroup.tibetan                  "티벳어">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "최소 크기:">
+<!ENTITY minSize.label                            "최소 글꼴 크기:">
 <!ENTITY minSize.accesskey                        "z">
 <!ENTITY minSize.none                             "없음">
 
