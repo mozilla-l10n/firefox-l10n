@@ -7,6 +7,8 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Denna adressbok visar kontakter endast efter en sökning">
+<!ENTITY localResultsOnlyMessage.label                  "Kontakter från fjärradressböcker visas inte förrän du söker">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Kontakt…">
 <!ENTITY newContact.accesskey                           "K">
@@ -94,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "Redigera markerad kontakt">
 <!ENTITY newmsgButton.tooltip                           "Skapa nytt meddelande">
 <!ENTITY newIM.tooltip                                  "Skicka ett snabbmeddelande eller chatta">
+<!ENTITY printButton.tooltip                            "Skriv ut valt objekt">
 <!ENTITY deleteItemButton.tooltip                       "Ta bort markerade kontakter eller adressboken">
 <!ENTITY throbber.tooltip                               "Gå till &vendorShortName;s webbplats">
 <!ENTITY throbber.tooltip2                              "Gå till &brandShortName;s webbplats">
