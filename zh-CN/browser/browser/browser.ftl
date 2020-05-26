@@ -279,6 +279,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } 将不会�
 
 sharing-warning-window = 您正在共享 { -brand-short-name }。当切换到新标签页时，其他人可以看到。
 sharing-warning-screen = 您正在共享完整屏幕。当切换到新标签页时，其他人可以看到。
+sharing-warning-proceed-to-tab =
+    .label = 继续前往标签页
 sharing-warning-disable-for-session =
     .label = 在本次会话期间禁用共享保护
 

@@ -37,6 +37,8 @@ protection-report-webpage-title = 保护信息仪表盘
 protection-report-page-content-title = 保护信息仪表盘
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = 当您上网时，{ -brand-short-name } 可在后台保护您的隐私。以下是这些保护的个性化摘要，以及能够用来保护在线安全的各种工具。
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = 当您上网时，{ -brand-short-name } 可在后台保护您的隐私。以下是这些保护的个性化摘要，以及能够用来保护在线安全的各种工具。
 protection-report-settings-link = 管理您的隐私与安全设置
 etp-card-title-always = 增强型跟踪保护：始终开启
 etp-card-title-custom-not-blocking = 增强型跟踪保护：关闭
@@ -156,9 +158,28 @@ monitor-no-breaches-title = 好消息！
 monitor-no-breaches-description = 您没有已知的数据外泄。如果情况发生变化，我们将通知您。
 monitor-view-report-link = 查看报告
     .title = 在 { -monitor-brand-short-name } 解决数据外泄。
+monitor-breaches-unresolved-title = 处理遇到的数据外泄事件
+monitor-breaches-unresolved-description = 确认事件详细信息并采取措施保护自己的数据后，就可以将事件标记为“已处理”。
+monitor-manage-breaches-link = 管理数据外泄事件
+    .title = 在 { -monitor-brand-short-name } 管理数据外泄事件
+monitor-breaches-resolved-title = 真好！您已处理完所有已知的数据外泄事件。
+monitor-breaches-resolved-description = 如果您的邮箱地址出现在新的数据外泄事件中，我们将通知您。
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] 已处理 { $numBreachesResolved } 起事件，共 { $numBreaches } 起
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = 完成 { $percentageResolved }%
 monitor-partial-breaches-motivation-title-start = 很棒的开始！
 monitor-partial-breaches-motivation-title-middle = 请保持！
 monitor-partial-breaches-motivation-title-end = 就要完成了！请保持。
+monitor-partial-breaches-motivation-desc = 到 { -monitor-brand-short-name } 处理其他的数据外泄事件
+monitor-resolve-breaches-link = 处理数据外泄事件
+    .title = 到 { -monitor-brand-short-name } 处理数据外泄事件
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
