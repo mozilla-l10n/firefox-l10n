@@ -142,8 +142,9 @@ confirmation-dialog-dismiss-button =
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
-confirm-discard-changes-dialog-title = האם לבטל את השינויים שלא נשמרו?
+confirm-discard-changes-dialog-title = האם להתעלם מהשינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
+confirm-discard-changes-dialog-confirm-button = התעלמות
 
 ## Breach Alert notification
 
