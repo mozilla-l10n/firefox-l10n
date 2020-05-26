@@ -37,6 +37,7 @@ etp-card-title = Förbättrat spårningsskydd
 etp-card-content = Spårare följer dig runt online för att samla in information om dina surfvanor och intressen. { -brand-short-name } blockerar många av dessa spårare och andra skadliga skript.
 protection-report-webpage-title = Säkerhetsöversikt
 protection-report-page-content-title = Säkerhetsöversikt
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } kan skydda din integritet bakom kulisserna medan du surfar. Detta är en personlig sammanfattning av dessa skydd, inklusive verktyg för att ta kontroll över din online-säkerhet.
 protection-report-settings-link = Hantera dina integritets och säkerhetsinställningar
 etp-card-title-always = Förbättrat spårningsskydd: Alltid på
@@ -59,8 +60,6 @@ fingerprinter-tab-title = Fingeravtrycksspårare
 fingerprinter-tab-content = Fingeravtrycksspårare samlar inställningar från din webbläsare och dator för att skapa en profil av dig. Med det här digitala fingeravtrycket kan de spåra dig på olika webbplatser. <a data-l10n-name="learn-more-link">Läs mer</a>
 cryptominer-tab-title = Kryptogrävare
 cryptominer-tab-content = Kryptogrävare använder ditt systems datakraft för att utvinna digitala pengar. Kryptogrävar-skript tömmer ditt batteri, slöar ner din dator och kan öka energiräkningen. <a data-l10n-name="learn-more-link">Läs mer</a>
-protections-close-button =
-    .aria-label = Stäng
 protections-close-button2 =
     .aria-label = Stäng
     .title = Stäng
@@ -161,6 +160,7 @@ password-warning =
         [one] Lagrat lösenord kan ha avslöjats i ett intrång. Ändra detta lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
        *[other] Lagrade lösenord kan ha avslöjats i ett intrång. Ändra dessa lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
     }
+monitor-no-breaches-title = Goda nyheter!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
