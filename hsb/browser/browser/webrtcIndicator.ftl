@@ -8,8 +8,16 @@
 # to go through and translate everything. Once these strings are ready for
 # translation, we'll move it to the locales folder.
 
+# This string is used so that the window has a title in tools that enumerate/look for window
+# titles. It is not normally visible anywhere.
+webrtc-indicator-title = { -brand-short-name } - dźělenski pokazowak
+webrtc-sharing-window = Dźěliće wokno druheho nałoženja.
+webrtc-sharing-browser-window = Dźěliće { -brand-short-name }.
+webrtc-sharing-screen = Dźěliće swoju cyłu wobrazowku.
 webrtc-stop-sharing-button = Hižo njedźělić
 webrtc-microphone-button =
     .title = Waš mikrofon so dźěli. Klikńće, zo byšće dźělenje wodźił.
 webrtc-camera-button =
     .title = Waša kamera so dźěli. Klikńće, zo byšće dźělenje wodźił.
+webrtc-minimize =
+    .title = Pokazowak miniměrować
