@@ -54,5 +54,5 @@
 <!ENTITY smiley16Cmd.label "Zapečatene ustnice">
 <!ENTITY smiley16Cmd.accesskey "a">
 <!ENTITY smiley16Cmd.tooltip "Vstavi zapečatene ustnice">
+<!ENTITY SmileButton.label "Vstavi smeška">
 <!ENTITY SmileButton.tooltip "Vstavi smeška">
-

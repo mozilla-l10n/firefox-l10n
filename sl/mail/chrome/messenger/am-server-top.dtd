@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Shramba sporočil">
 <!ENTITY securitySettings.label "Varnostne nastavitve">
 <!ENTITY serverSettings.label "Nastavitve strežnika">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Vrata:">
 <!ENTITY port.accesskey "V">
 <!ENTITY serverPortDefault.label "Privzeto:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "z">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Vprašaj me pred prenašanjem več kot">
 <!ENTITY maxMessagesStart.accesskey "r">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "o">
 <!ENTITY newsrcFilePath.label "Datoteka newsrc:">
 <!ENTITY newsrcPicker.label "Izberi datoteko newsrc">
+<!ENTITY newsrcFilePath1.label "Datoteka news.rc:">
+<!ENTITY newsrcPicker1.label "Izberi datoteko news.rc">
 <!ENTITY abbreviate.label "Pokaži imena novičarskih skupin v podoknu Mapa za pošto kot:">
 <!ENTITY abbreviateOn.label "Polna imena (Na primer, 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Skrajšaj imena (Na primer, 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "N">
 <!ENTITY serverDefaultCharset2.label "Privzeto kodiranje besedila:">
 <!ENTITY localPath.label "Krajevni imenik:">
+<!ENTITY localPath1.label "Krajevna mapa:">
 <!ENTITY localFolderPicker.label "Izberi krajevni imenik">
 <!ENTITY browseFolder.label "Prebrskaj …">
 <!ENTITY browseFolder.accesskey "B">

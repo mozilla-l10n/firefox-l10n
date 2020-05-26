@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
 <!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
 <!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">
+<!ENTITY printToolbarCmd.label "Natisni">
+<!ENTITY printToolbarCmd.tooltip "Natisni to stran">
