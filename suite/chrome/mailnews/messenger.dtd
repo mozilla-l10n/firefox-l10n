@@ -129,7 +129,7 @@
 <!ENTITY messagePaneWide.accesskey "W">
 <!ENTITY messagePaneVertical.label "垂直檢視">
 <!ENTITY messagePaneVertical.accesskey "V">
-<!ENTITY showMessagePaneCmd.label "預覽面板">
+<!ENTITY showMessagePaneCmd.label "訊息窗格">
 <!ENTITY showMessagePaneCmd.accesskey "M">
 <!ENTITY showThreadPaneCmd.label "討論串窗格">
 <!ENTITY showThreadPaneCmd.accesskey "T">
