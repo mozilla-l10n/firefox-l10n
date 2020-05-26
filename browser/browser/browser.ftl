@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Shihni të dhëna sajti
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = E keni bllokuar hyrjen MIDI për këtë sajt.
 urlbar-install-blocked =
     .tooltiptext = Ia keni bllokuar këtij sajti instalimin e shtesave.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Përpunoni këtë faqerojtës ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = Administroni Zgjerime…
 page-action-remove-from-urlbar =
     .label = Hiqe nga Shtyllë Adresash
-
 page-action-remove-extension =
     .label = Hiqe Zgjerimin
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Këtë herë kërko me:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Ndryshoni Rregullime Kërkimi
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Ndryshoni rregullime kërkimi
-
 search-one-offs-context-open-new-tab =
     .label = Kërkoni në Skedë të Re
     .accesskey = S
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Shfaqe përpunuesin kur bëhen ruajtje
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = U bë
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -231,10 +234,12 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = Do të ndahen me të tjerët krejt dritaret e dukshme në ekranin tuaj.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = Që të përdorni shkurtoren F12, së pari hapni DevTools që nga menuja Zhvillues Web.
-
 
 ## URL Bar
 
@@ -248,11 +253,9 @@ urlbar-permissions-granted =
     .tooltiptext = I keni akorduar leje shtesë këtij sajti.
 urlbar-switch-to-tab =
     .value = Kalo te skeda:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Zgjerim:
-
 urlbar-go-button =
     .tooltiptext = Shkoni te adresa e dhënë te Shtylla e Vendndodhjeve
 urlbar-page-action-button =
