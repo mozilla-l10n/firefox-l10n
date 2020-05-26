@@ -3,6 +3,49 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } (സ്വകാര്യ ബ്രൌസിങ്)
+    .data-content-title-default = { $content-title } - { -brand-full-name }
+    .data-content-title-private = { $content-title } - { -brand-full-name } (സ്വകാര്യ ബ്രൌസിങ്)
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox - (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } - (സ്വകാര്യ ബ്രൌസിങ്)
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } - (സ്വകാര്യ ബ്രൌസിങ്)
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = സൈറ്റ് വിവരങ്ങള്‍ കാണുക
 
@@ -63,12 +106,10 @@ urlbar-persistent-storage-blocked =
     .tooltiptext = നിങ്ങൾ ഈ വെബ് സൈറ്റ്ലെ സ്ഥിര ഡാറ്റ സൂക്ഷിപ്പ്  തടഞ്ഞിരിക്കുകയാണ്
 urlbar-popup-blocked =
     .tooltiptext = നിങ്ങള്‍ ഈ വെബ്സൈറ്റിന്റെ പോപ്പ് അപ്പുകള്‍ നിരോധിച്ചിരിക്കുന്നു.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ഈ അടയാളം ചിട്ടപ്പെടുത്തുക ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -98,7 +139,6 @@ search-one-offs-change-settings-button =
     .label = തിരയല്‍ സജ്ജീകരണങ്ങള്‍ മാറ്റൂ
 search-one-offs-change-settings-compact-button =
     .tooltiptext = തിരച്ചിൽ സെറ്റിങ്സ് ‌മാറ്റുക
-
 search-one-offs-context-open-new-tab =
     .label = പുതിയ ടാബില്‍ തിരയുക
     .accesskey = T
@@ -164,6 +204,9 @@ popup-select-microphone =
     .accesskey = ഫ
 popup-all-windows-shared = സ്ക്രീനില്‍ ദൃശ്യമായ എല്ലാ ജാലകങ്ങളും പങ്കിടുന്നു.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -177,11 +220,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ബ്രൗസർ വിദൂര നിയന്ത്രണത്തിലാണ്
 urlbar-switch-to-tab =
     .value = ഏതു് റ്റാബ്:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ‌‌എക്സ്ടെൻഷൻ:
-
 urlbar-go-button =
     .tooltiptext = അഡ്രസ്സ് ബാറിലുള്ള വിലാസത്തിലേക്കു പോകുക
 urlbar-page-action-button =
