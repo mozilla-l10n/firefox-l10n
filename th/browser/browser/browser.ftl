@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = ดูข้อมูลไซต์
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = คุณได้ปิดกั้นการเข้าถึง MIDI สำหรับเว็บไซต์นี้
 urlbar-install-blocked =
     .tooltiptext = คุณได้ปิดกั้นการติดตั้งส่วนเสริมสำหรับเว็บไซต์นี้
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = แก้ไขที่คั่นหน้านี้ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = จัดการส่วนขยาย…
 page-action-remove-from-urlbar =
     .label = เอาออกจากแถบที่อยู่
-
 page-action-remove-extension =
     .label = เอาส่วนขยายออก
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = คราวนี้ค้นหาด้วย:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = เปลี่ยนการตั้งค่าการค้นหา
 search-one-offs-change-settings-compact-button =
     .tooltiptext = เปลี่ยนการตั้งค่าการค้นหา
-
 search-one-offs-context-open-new-tab =
     .label = ค้นหาในแท็บใหม่
     .accesskey = ค
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = แสดงตัวแก้ไขเมื่อบันทึก
     .accesskey = ส
-
 bookmark-panel-done-button =
     .label = เสร็จสิ้น
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -229,10 +232,12 @@ popup-select-microphone =
     .accesskey = ม
 popup-all-windows-shared = หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 enable-devtools-popup-description = หากต้องการใช้ทางลัด F12 ให้เปิด DevTools ก่อนผ่านเมนู Web Developer
-
 
 ## URL Bar
 
@@ -246,11 +251,9 @@ urlbar-permissions-granted =
     .tooltiptext = คุณได้อนุญาตไซต์นี้ด้วยสิทธิเพิ่มเติม
 urlbar-switch-to-tab =
     .value = สลับไปยังแท็บ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ส่วนขยาย:
-
 urlbar-go-button =
     .tooltiptext = ไปยังที่อยู่ในแถบตำแหน่งที่ตั้ง
 urlbar-page-action-button =
