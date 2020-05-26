@@ -293,6 +293,8 @@ popup-all-windows-shared = Budou sdílena všechna viditelná okna na vaší obr
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-disable-for-session =
+    .label = Zakázat ochranu sdílení pro tuto relaci
 
 ## DevTools F12 popup
 
