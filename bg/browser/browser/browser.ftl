@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Показване на информация за уеб страницата
 
@@ -93,12 +103,10 @@ urlbar-midi-blocked =
     .tooltiptext = Забранили сте на страницата достъп до MIDI.
 urlbar-install-blocked =
     .tooltiptext = Забранили сте на страницата да инсталира добавки.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Промяна на отметка ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -112,7 +120,6 @@ page-action-manage-extension =
     .label = Управление на добавката…
 page-action-remove-from-urlbar =
     .label = Премахване от адресната лента
-
 page-action-remove-extension =
     .label = Премахване на разширението
 
@@ -130,14 +137,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = Този път търсете с:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = Настройки на търсене
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Настройки на търсене
-
 search-one-offs-context-open-new-tab =
     .label = Търсене в нов раздел
     .accesskey = р
@@ -153,10 +158,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = Показване на диалога при запазване
     .accesskey = п
-
 bookmark-panel-done-button =
     .label = Готово
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -227,6 +230,9 @@ popup-select-microphone =
     .accesskey = М
 popup-all-windows-shared = Всички видими прозорци на вашия екран ще бъдат споделени.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -242,11 +248,9 @@ urlbar-permissions-granted =
     .tooltiptext = Дали сте допълнителни права на страницата.
 urlbar-switch-to-tab =
     .value = Превключване към раздел:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Разширение:
-
 urlbar-go-button =
     .tooltiptext = Зареждане на адреса в полето
 urlbar-page-action-button =
