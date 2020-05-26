@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "İleti depolama">
 <!ENTITY securitySettings.label "Güvenlik ayarları">
 <!ENTITY serverSettings.label "Sunucu ayarları">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "u">
 <!ENTITY newsrcFilePath.label "newsrc doyası:">
 <!ENTITY newsrcPicker.label "newsrc dosyasını seçin">
+<!ENTITY newsrcFilePath1.label "News.rc dosyası:">
+<!ENTITY newsrcPicker1.label "News.rc dosyasını seçin">
 <!ENTITY abbreviate.label "Haber grubu isimlerini posta dizini bölmesinde göster:">
 <!ENTITY abbreviateOn.label "Tam isimler (örnek: 'netscape.public.mozilla.mail-news')">
 <!ENTITY abbreviateOff.label "Kısa isimler (örnek, 'n.p.m.mail-news')">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "G">
 <!ENTITY serverDefaultCharset2.label "Varsayılan metin kodlaması:">
 <!ENTITY localPath.label "Yerel dizin:">
+<!ENTITY localPath1.label "Yerel klasör:">
 <!ENTITY localFolderPicker.label "Yerel dizin seçin">
 <!ENTITY browseFolder.label "Gözat…">
 <!ENTITY browseFolder.accesskey "a">
