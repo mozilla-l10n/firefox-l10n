@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Leba tshedimosetso ya saete
 
@@ -35,7 +45,6 @@ urlbar-web-rtc-share-devices-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Tseleganya letshwaotsebe le ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -108,6 +117,9 @@ popup-select-microphone =
     .accesskey = S
 popup-all-windows-shared = Windows tse di bonagalang tsotlhe mo sekerini sa gago di tla abelanwa.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -119,6 +131,5 @@ urlbar-placeholder =
     .placeholder = Batla kgotsa tsenya aterese
 urlbar-switch-to-tab =
     .value = Fetolela ko thebeng:
-
 urlbar-go-button =
     .tooltiptext = Ya ko atereseng e mo Bara ya lefelo
