@@ -15,5 +15,7 @@
 <!ENTITY addNewToolbar.label      "Nova trav d'utensils">
 <!ENTITY showTitlebar.label       "Mussar la trav dal titel">
 <!ENTITY extraDragSpace.label     "Agiuntar spazi per trair">
+<!ENTITY showTitlebar2.label      "Trav dal titel">
+<!ENTITY extraDragSpace2.label    "Spazi per trair la fanestra">
 <!ENTITY saveChanges.label        "Finì">
 <!ENTITY undoChanges.label        "Annullar las midadas">
