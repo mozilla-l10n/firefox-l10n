@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Enw:">
 <!ENTITY folderProps.name.accesskey              "E">
+<!ENTITY folderProps.color.label                 "Lliw Eicon:">
+<!ENTITY folderProps.color.accesskey             "E">
+<!ENTITY folderProps.reset.tooltip               "Adfer lliw rhagosodedig">
 <!ENTITY folderProps.location.label              "Lleoliad:">
 <!ENTITY folderProps.location.accesskey          "L">
 
