@@ -110,6 +110,7 @@
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Hjem">
 <!ENTITY other.heading                                  "Annet">
+<!ENTITY chat.heading                                   "Nettprat">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Arbeid">
 <!-- Special Box Headings, for mailing lists -->
