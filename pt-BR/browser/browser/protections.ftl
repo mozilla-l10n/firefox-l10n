@@ -166,6 +166,12 @@ password-warning =
     }
 monitor-no-breaches-title = Boas notícias!
 monitor-no-breaches-description = Você não tem vazamentos conhecidos. Se isso mudar, te avisaremos.
+monitor-view-report-link = Ver relatório
+    .title = Resolver vazamentos no { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resolver seus vazamentos
+monitor-manage-breaches-link = Gerenciar vazamentos
+    .title = Gerenciar vazamentos no { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Ótimo! Você resolveu todos os vazamentos conhecidos.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
