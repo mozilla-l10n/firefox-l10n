@@ -37,7 +37,10 @@ etp-card-title = Továbbfejlesztett követés elleni védelem
 etp-card-content = A nyomkövetők követik Önt online, és információkat gyűjtenek a böngészési szokásairól és érdeklődési köreiről. A { -brand-short-name } számos ilyen követőt és rosszindulatú parancsfájlt blokkol.
 protection-report-webpage-title = Védelmi vezérlőpult
 protection-report-page-content-title = Védelmi vezérlőpult
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = Amíg Ön böngészik, a { -brand-short-name } a színfalak mögött gondoskodik az adatvédelméről. Ez ezen védelmek személyre szabott összefoglalója, olyan eszközökkel, melyekkel átveheti az irányítást az online biztonsága felett.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = Amíg Ön böngészik, a { -brand-short-name } a színfalak mögött gondoskodik az adatvédelméről. Ez ezen védelmek személyre szabott összefoglalója, olyan eszközökkel, melyekkel átveheti az irányítást az online biztonsága felett.
 protection-report-settings-link = Kezelje az adatvédelmi és biztonsági beállításait
 etp-card-title-always = Továbbfejlesztett követés elleni védelem: Mindig bekapcsolva
 etp-card-title-custom-not-blocking = Továbbfejlesztett követés elleni védelem: KI
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Ujjlenyomat-készítők
 fingerprinter-tab-content = A ujjlenyomat-készítők beállításokat gyűjtenek a böngészőjéből és számítógépéből, hogy profilt hozzanak létre Önről. A digitális ujjlenyomat használatával követhetik Ön a különböző webhelyek között. <a data-l10n-name="learn-more-link">További tudnivalók</a>
 cryptominer-tab-title = Kriptobányászok
 cryptominer-tab-content = A kriptobányászok az Ön rendszerének erőforrásait használják digitális pénzek bányászatához. A kriptobányászok lemerítik az akkumulátort, lelassítják a számítógépét és növelhetik a villanyszámláját. <a data-l10n-name="learn-more-link">További tudnivalók</a>
-protections-close-button =
-    .aria-label = Bezárás
 protections-close-button2 =
     .aria-label = Bezárás
     .title = Bezárás
@@ -121,6 +122,8 @@ monitor-link = Hogyan működik
 monitor-header-content-no-account = Ellenőrizze a { -monitor-brand-name } oldalt, és nézze meg, hogy szerepelt-e valamilyen ismert adatsértésben, és kapjon értesítést az új adatsértésekről.
 monitor-header-content-signed-in = A { -monitor-brand-name } figyelmezteti, ha az adatai új adatsértésben jelennek meg.
 monitor-sign-up = Iratkozzon fel az adatsértési figyelmeztetésekre
+monitor-sign-up-link = Iratkozzon fel az adatsértési figyelmeztetésekre
+    .title = Iratkozzon fel az adatsértési figyelmeztetésekre a { -monitor-brand-name }on
 auto-scan = Automatikusan ellenőrizve ma
 monitor-emails-tooltip =
     .title = Megfigyelt e-mail címek megtekintése a { -monitor-brand-short-name }on
@@ -161,6 +164,32 @@ password-warning =
         [one] A mentett bejelentkezés lehet, hogy kikerült egy adatsértésben. Módosítsa a jelszavát a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
        *[other] A mentett bejelentkezések lehet, hogy kikerültek egy adatsértésben. Módosítsa a jelszavakat a nagyobb online biztonság érdekében. <a data-l10n-name="lockwise-link">Mentett bejelentkezések megtekintése</a>
     }
+monitor-no-breaches-title = Jó hírek!
+monitor-no-breaches-description = Nincs ismert adatsértés. Ha ez megváltozik, tájékoztatni fogjuk.
+monitor-view-report-link = Jelentés megtekintése
+    .title = Adatsértések megoldása a { -monitor-brand-short-name }on
+monitor-breaches-unresolved-title = Oldja meg az adatsértéseit
+monitor-breaches-unresolved-description = Az adatsértés részleteinek áttekintése és az adatvédelmi lépések megtétele után megoldottnak jelölheti az adatsértéseket.
+monitor-manage-breaches-link = Adatsértések kezelése
+    .title = Adatsértések kezelése a { -monitor-brand-short-name }on
+monitor-breaches-resolved-title = Szép! Megoldotta az összes ismert adatsértést.
+monitor-breaches-resolved-description = Ha az e-mail címe új adatsértésben jelenik meg, értesíteni fogjuk.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } / { $numBreaches } adatsértés megjelölve megoldottként
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% kész
+monitor-partial-breaches-motivation-title-start = Nagyszerű kezdés!
+monitor-partial-breaches-motivation-title-middle = Csak így tovább!
+monitor-partial-breaches-motivation-title-end = Majdnem kész! Csak így tovább.
+monitor-partial-breaches-motivation-desc = Oldja meg a többi adatsértését a { -monitor-brand-short-name }on
+monitor-resolve-breaches-link = Adatsértések megoldása
+    .title = Adatsértések megoldása a { -monitor-brand-short-name }on
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
