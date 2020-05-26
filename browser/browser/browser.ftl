@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = Ver a información do sitio
 
@@ -76,12 +86,10 @@ urlbar-canvas-blocked =
     .tooltiptext = Bloqueou a extracción de datos de canvas para este sitio web.
 urlbar-midi-blocked =
     .tooltiptext = Bloqueou o acceso MIDI para este sitio web.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = Editar este marcador ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -113,7 +121,6 @@ search-one-offs-change-settings-button =
     .label = Cambiar configuración da busca
 search-one-offs-change-settings-compact-button =
     .tooltiptext = Cambiar configuración da busca
-
 search-one-offs-context-open-new-tab =
     .label = Buscar nunha nova lapela
     .accesskey = B
@@ -126,10 +133,8 @@ search-one-offs-context-set-as-default =
 bookmark-panel-show-editor-checkbox =
     .label = Amosar o editor ao gardar
     .accesskey = s
-
 bookmark-panel-done-button =
     .label = Feito
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -191,6 +196,9 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = Compartiranse todas as xanelas visíbeis na súa pantalla.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -204,11 +212,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = O navegador está baixo control remoto
 urlbar-switch-to-tab =
     .value = Cambiar á lapela:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = Extensión:
-
 urlbar-go-button =
     .tooltiptext = Ir ao enderezo da barra de localización
 urlbar-page-action-button =
