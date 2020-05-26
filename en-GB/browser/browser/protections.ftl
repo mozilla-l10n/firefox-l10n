@@ -37,7 +37,10 @@ etp-card-title = Enhanced Tracking Protection
 etp-card-content = Trackers follow you around online to collect information about your browsing habits and interests. { -brand-short-name } blocks many of these trackers and other malicious scripts.
 protection-report-webpage-title = Protections Dashboard
 protection-report-page-content-title = Protections Dashboard
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } can protect your privacy behind the scenes while you browse. This is a personalised summary of those protections, including tools to take control of your online security.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } protects your privacy behind the scenes while you browse. This is a personalised summary of those protections, including tools to take control of your online security.
 protection-report-settings-link = Manage your privacy and security settings
 etp-card-title-always = Enhanced Tracking Protection: Always On
 etp-card-title-custom-not-blocking = Enhanced Tracking Protection: OFF
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters collect settings from your browser and computer to create a profile of you. Using this digital fingerprint, they can track you across different websites. <a data-l10n-name="learn-more-link">Learn more</a>
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers use your system’s computing power to mine digital money. Cryptomining scripts drain your battery, slow down your computer, and can increase your energy bill. <a data-l10n-name="learn-more-link">Learn more</a>
-protections-close-button =
-    .aria-label = Close
 protections-close-button2 =
     .aria-label = Close
     .title = Close
@@ -121,6 +122,8 @@ monitor-link = How it works
 monitor-header-content-no-account = Check { -monitor-brand-name } to see if you’ve been part of a known data breach, and get alerts about new breaches.
 monitor-header-content-signed-in = { -monitor-brand-name } warns you if your info has appeared in a known data breach.
 monitor-sign-up = Sign Up for Breach Alerts
+monitor-sign-up-link = Sign Up for Breach Alerts
+    .title = Sign up for breach alerts on { -monitor-brand-name }
 auto-scan = Automatically scanned today
 monitor-emails-tooltip =
     .title = View monitored email addresses on { -monitor-brand-short-name }
@@ -161,6 +164,32 @@ password-warning =
         [one] Saved login may have been exposed in a data breach. Change this password for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
        *[other] Saved logins may have been exposed in a data breach. Change these passwords for better online security. <a data-l10n-name="lockwise-link">View Saved Logins</a>
     }
+monitor-no-breaches-title = Good news!
+monitor-no-breaches-description = You have no known breaches. If that changes, we will let you know.
+monitor-view-report-link = View Report
+    .title = Resolve breaches on { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resolve your breaches
+monitor-breaches-unresolved-description = After reviewing breach details and taking steps to protect your info, you can mark breaches as resolved.
+monitor-manage-breaches-link = Manage Breaches
+    .title = Manage breaches on { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Nice! You’ve resolved all known breaches.
+monitor-breaches-resolved-description = If your email appears in any new breaches, we will let you know.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numBreachesResolved } out of { $numBreaches } breaches marked as resolved
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% complete
+monitor-partial-breaches-motivation-title-start = Great start!
+monitor-partial-breaches-motivation-title-middle = Keep it up!
+monitor-partial-breaches-motivation-title-end = Almost done! Keep it up.
+monitor-partial-breaches-motivation-desc = Resolve the rest of your breaches on { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Resolve Breaches
+    .title = Resolve breaches on { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
