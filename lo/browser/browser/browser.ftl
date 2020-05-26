@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = ເບິ່ງຂໍ້ມູນເວັບໄຊທ໌
 
@@ -43,7 +53,6 @@ urlbar-addons-notification-anchor =
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ແກ້ໄຂບຸກມາກນີ້ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -75,7 +84,6 @@ search-one-offs-change-settings-button =
     .label = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ປ່ຽນການຕັ້ງຄ່າການຊອກຫາ
-
 search-one-offs-context-open-new-tab =
     .label = ຊອກຫາໃນແທັບໃຫມ່
     .accesskey = T
@@ -87,7 +95,6 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = ສຳເລັດ
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -133,6 +140,9 @@ popup-select-microphone =
     .value = ໄມໂຄຣໂຟນທີ່ແບ່ງປັນ:
     .accesskey = M
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -144,11 +154,9 @@ urlbar-placeholder =
     .placeholder = ຊອກຫາ ຫລື ປ້ອນທີ່ຢູ່ໃສ່
 urlbar-switch-to-tab =
     .value = ຍ້າຍໄປແທັບ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ສ່ວນຂະຫຍາຍ:
-
 urlbar-go-button =
     .tooltiptext = ໄປຫາທີ່ຢູ່ໃນແຖບຕຳແຫນ່ງທີ່ຢູ່
 urlbar-page-action-button =
