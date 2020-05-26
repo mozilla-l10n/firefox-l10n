@@ -266,6 +266,14 @@ popup-select-microphone =
     .value = Microphono a compartir:
     .accesskey = M
 popup-all-windows-shared = Tote le fenestras visibile sur tu schermo essera compartite.
+popup-screen-sharing-not-now =
+    .label = Non ora
+    .accesskey = o
+popup-screen-sharing-never =
+    .label = Non permitter jammais
+    .accesskey = N
+popup-silence-notifications-checkbox = Disactivar notificationes ab { -brand-short-name } durante compartimento
+popup-silence-notifications-checkbox-warning = { -brand-short-name } non monstrara notificationes durante que tu comparti.
 
 ## WebRTC window or screen share tab switch warning
 
