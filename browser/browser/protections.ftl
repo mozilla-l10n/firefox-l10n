@@ -183,6 +183,25 @@ monitor-breaches-unresolved-description = Після перегляду подр
 monitor-manage-breaches-link = Керувати витоками
     .title = Керування витоками даних на { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Чудово! Ви розв'язали всі відомі витоки даних.
+monitor-breaches-resolved-description = Якщо ваша е-пошта з'явиться в нових витоках даних, ми вас повідомимо.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } витік даних з { $numBreaches } позначено розв'язаним
+        [few] { $numBreachesResolved } витоки даних з { $numBreaches } позначено розв'язаними
+       *[many] { $numBreachesResolved } витоків даних з { $numBreaches } позначено розв'язаними
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% завершено
+monitor-partial-breaches-motivation-title-start = Гарний початок!
+monitor-partial-breaches-motivation-title-middle = Так тримати!
+monitor-partial-breaches-motivation-title-end = Майже завершено! Так тримати.
+monitor-partial-breaches-motivation-desc = Розв'яжіть решту своїх витоків даних на { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Розв'язати витоки
+    .title = Розв'язати витоки даних на { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
