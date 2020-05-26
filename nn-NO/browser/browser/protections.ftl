@@ -37,6 +37,7 @@ etp-card-title = Utvida sporingsvern
 etp-card-content = Sporfølgjarar følgjer deg rundt på nettet for å samle informasjon om surfevanane og interessene dine. { -brand-short-name } blokkerer mange av desse sporfølgjarane og andre vondsinna skript.
 protection-report-webpage-title = Tryggingspanel
 protection-report-page-content-title = Tryggingspanel
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } kan ta vare på personvernet ditt bak kulissene medan du surfar. Dette er ei personleg oppsummering av desse verna, inkludert verktøy for å ta kontroll over sikkerheita di på nettet.
 protection-report-settings-link = Handter personvern- og tryggingsinnstillingar
 etp-card-title-always = Utvida sporingsvern: Alltid på
@@ -59,8 +60,6 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters samlar innstillingar frå nettlesaren din og datamaskina di for å lage ein profil av deg. Ved hjelp av dette digitale fingeravtrykket kan dei spore deg på forskjellige nettstadar. <a data-l10n-name="learn-more-link">Les meir</a>
 cryptominer-tab-title = Kryptominarar
 cryptominer-tab-content = Kryptominarar brukar datakrafta til systemet for å utvinne digitale pengar. Kryptomineringsskript tappar batteriet, gjer datamaskina tregare og kan auke straumrekninga. <a data-l10n-name="learn-more-link">Les meir</a>
-protections-close-button =
-    .aria-label = Lat att
 protections-close-button2 =
     .aria-label = Lat att
     .title = Lat att
@@ -161,6 +160,9 @@ password-warning =
         [one] Lagra innlogging kan ha blitt eksponert i ein datalekkasje. Endre dette passordet for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
        *[other] Lagra innloggingar kan ha blitt eksponerte i ein datalekkasje. Endre desse passorda for betre sikkerheit på nettet <a data-l10n-name="lockwise-link">Vis lagra innloggingar</a>
     }
+monitor-partial-breaches-motivation-title-start = Bra start!
+monitor-partial-breaches-motivation-title-middle = Hald fram slik!
+monitor-partial-breaches-motivation-title-end = Nesten ferdig! Hald fram slik.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
