@@ -118,6 +118,8 @@ monitor-link = Come funziona
 monitor-header-content-no-account = Controlla { -monitor-brand-name } per verificare se sei stato coinvolto in una violazione di dati conosciuta e ricevere avvisi per nuove violazioni.
 monitor-header-content-signed-in = { -monitor-brand-name } ti avvisa se le tue informazioni compaiono in una violazione di dati conosciuta.
 monitor-sign-up = Iscriviti per ricevere avvisi sulle violazioni
+monitor-sign-up-link = Iscriviti per ricevere avvisi sulle violazioni
+  .title = Iscriviti per ricevere avvisi sulle violazioni in { -monitor-brand-name }
 auto-scan = Controllato automaticamente oggi
 
 monitor-emails-tooltip =
@@ -152,6 +154,38 @@ info-exposed-passwords-found =
        *[other] Password compromesse in tutte le violazioni
     }
 full-report-link = Visualizza il rapporto completo in <a data-l10n-name="monitor-inline-link">{ -monitor-brand-name }</a>
+
+monitor-no-breaches-title = Ottime notizie
+monitor-no-breaches-description = Non sono presenti violazioni di dati conosciute. Ti faremo sapere se la situazione dovesse cambiare.
+monitor-view-report-link = Visualizza rapporto
+  .title = Risolvi le violazioni su { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Risolvi le tue violazioni
+monitor-breaches-unresolved-description = Dopo aver verificato i dettagli di ogni violazione e aver preso le misure necessarie per proteggere i tuoi dati, puoi contrassegnare le violazioni come risolte.
+monitor-manage-breaches-link = Gestisci violazioni
+  .title = Gestisci le violazioni su { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Ottimo, hai risolto tutte le violazioni di dati conosciute.
+monitor-breaches-resolved-description = Ti faremo sapere se la tua email dovesse apparire in una nuova violazione.
+
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+  { $numBreachesResolved ->
+    [one] { $numBreachesResolved } violazione su { $numBreaches } contrassegnata come risolta
+   *[other] { $numBreachesResolved } violazioni su { $numBreaches } contrassegnate come risolte
+  }
+
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% completato
+
+monitor-partial-breaches-motivation-title-start = Ottimo inizio!
+monitor-partial-breaches-motivation-title-middle = Continua così!
+monitor-partial-breaches-motivation-title-end = Quasi finito. Continua così!
+monitor-partial-breaches-motivation-desc = Risolvi le altre violazioni su { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Risolvi violazioni
+  .title = Risolvi le violazioni su { -monitor-brand-short-name }
+
 # This string is displayed after a large numeral that indicates the total number
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
