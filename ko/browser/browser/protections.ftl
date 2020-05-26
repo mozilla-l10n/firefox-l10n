@@ -35,6 +35,7 @@ etp-card-title = 향상된 추적 방지 기능
 etp-card-content = 추적기는 온라인에서 사용자를 따라다니며 탐색 습관과 관심사에 대한 정보를 수집합니다. { -brand-short-name }는 이러한 많은 추적기 및 기타 악성 스크립트를 차단합니다.
 protection-report-webpage-title = 보호 기능 대시보드
 protection-report-page-content-title = 보호 기능 대시보드
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }는 탐색하는 동안 뒤에서 개인 정보를 보호할 수 있습니다. 다음은 온라인 보안을 제어하는 도구를 포함하여 이러한 보호 기능에 대한 개인화된 요약입니다.
 protection-report-settings-link = 개인 정보 및 보안 설정 관리
 etp-card-title-always = 향상된 추적 방지 기능: 항상 켜기
@@ -57,8 +58,6 @@ fingerprinter-tab-title = 핑거프린터
 fingerprinter-tab-content = 핑거프린터는 브라우저와 컴퓨터에서 설정을 수집하여 사용자의 프로필을 만듭니다. 이 디지털 지문을 사용하여 여러 웹 사이트에서 사용자를 추적할 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
 cryptominer-tab-title = 크립토마이너
 cryptominer-tab-content = 크립토마이너는 디지털 화폐를 채굴하기 위해 시스템의 연산 능력을 사용합니다. 암호 해독 스크립트는 배터리를 소모하고 컴퓨터 속도를 저하시키며 에너지 요금을 증가시킬 수 있습니다. <a data-l10n-name="learn-more-link">더 알아보기</a>
-protections-close-button =
-    .aria-label = 닫기
 protections-close-button2 =
     .aria-label = 닫기
     .title = 닫기
@@ -115,6 +114,8 @@ monitor-link = 작동 방식
 monitor-header-content-no-account = { -monitor-brand-name }를 확인하여 사용자가 알려진 데이터 유출 사건의 피해자인지 확인하고 새로운 유출에 대한 알림을 받습니다.
 monitor-header-content-signed-in = 알려진 데이터 유출 사건에 사용의 정보가 있으면 { -monitor-brand-name }가 경고합니다.
 monitor-sign-up = 유출 알림 가입하기
+monitor-sign-up-link = 유출 알림 가입하기
+    .title = { -monitor-brand-name }에서 유출 알림 가입하기
 auto-scan = 오늘의 자동 스캔
 monitor-emails-tooltip =
     .title = { -monitor-brand-short-name }에서 모니터링된 이메일 주소 보기
@@ -151,6 +152,10 @@ password-warning =
     { $count ->
        *[other] 저장된 로그인이 데이터 유출에 노출되었을 수 있습니다. 더 나은 온라인 보안을 위해 이 비밀번호를 변경하세요. <a data-l10n-name="lockwise-link">저장된 로그인 보기</a>
     }
+monitor-no-breaches-title = 좋은 소식!
+monitor-view-report-link = 보고서 보기
+    .title = { -monitor-brand-short-name }에서 유출 해결
+monitor-breaches-unresolved-title = 유출 해결
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
