@@ -266,9 +266,21 @@ popup-select-microphone =
     .value = 共享的麦克风：
     .accesskey = M
 popup-all-windows-shared = 您的屏幕上的所有可见窗口都将被共享。
+popup-screen-sharing-not-now =
+    .label = 暂时不要
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = 永不允许
+    .accesskey = N
+popup-silence-notifications-checkbox = 共享时，不显示 { -brand-short-name } 的通知
+popup-silence-notifications-checkbox-warning = { -brand-short-name } 将不会在共享时显示通知。
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = 您正在共享 { -brand-short-name }。当切换到新标签页时，其他人可以看到。
+sharing-warning-screen = 您正在共享全屏画面。当切换到新标签页时，其他人可以看到。
+sharing-warning-disable-for-session =
+    .label = 在本次会话期间禁用共享保护
 
 ## DevTools F12 popup
 
