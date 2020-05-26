@@ -12,12 +12,9 @@ login-app-promo-android =
     .alt = Telechargiar da Google Play
 login-app-promo-apple =
     .alt = Telechargiar da l'App Store
-
 login-filter =
     .placeholder = Tschertgar datas d'annunzia
-
 create-login-button = Crear datas d'annunzia
-
 fxaccounts-sign-in-text = Acceda a tes pleds-clav cun tut tes apparats
 fxaccounts-sign-in-button = Connectar cun { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -108,27 +105,16 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Verifitgescha tia identitad per modifitgar las infurmaziuns d'annunzia memorisadas.
-
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Per modifitgar tia infurmaziun d'annunzia, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modifitgar l'infurmaziun d'annunzia memorisada
-
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Verifitgescha tia identitad per laschar mussar il pled-clav memorisà.
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per mussar tes pled-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = mussar il pled-clav memorisà
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Verifitgescha tia identitad per copiar il pled-clav memorisà.
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Per copiar tes pled-clav, endatescha tias datas d'annunzia per Windows. Quai gida a garantir la segirezza da tes contos.
 # This message can be seen when attempting to copy a password in about:logins
@@ -165,11 +151,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Interrumper
 confirmation-dialog-dismiss-button =
     .title = Interrumper
-
 about-logins-confirm-remove-dialog-title = Allontanar questas infurmaziuns d'annunzia?
 confirm-delete-dialog-message = Questa acziun na po betg vegnir revocada.
 about-logins-confirm-remove-dialog-confirm-button = Allontanar
-
 confirm-discard-changes-dialog-title = Ignorar las modificaziuns betg memorisadas?
 confirm-discard-changes-dialog-message = Tut las modificaziuns betg memorisadas van a perder.
 confirm-discard-changes-dialog-confirm-button = Ignorar
@@ -187,6 +171,7 @@ about-logins-breach-alert-learn-more-link = Ulteriuras infurmaziuns
 ## Vulnerable Password notification
 
 about-logins-vulnerable-alert-title = Pled-clav periclità
+about-logins-vulnerable-alert-text2 = Quest pled-clav è vegnì utilisà per in auter conto pertutgà dad ina sperdita da datas. La reutilisaziun da pleds-clav periclitescha tut tes contos. Mida quest pled-clav.
 # Variables:
 #   $hostname (String) - The hostname of the website associated with the login, e.g. "example.com"
 about-logins-vulnerable-alert-link = Acceder { $hostname }
@@ -199,6 +184,5 @@ about-logins-vulnerable-alert-learn-more-link = Ulteriuras infurmaziuns
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Igl exista gia ina endataziun per { $loginTitle } cun quest num d'utilisader. <a data-l10n-name="duplicate-link">Ir a l'endataziun existenta?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = Ina errur è succedida durant l'emprova da memorisar quest pled-clav.
