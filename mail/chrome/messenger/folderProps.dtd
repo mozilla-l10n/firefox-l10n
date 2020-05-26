@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Назва:">
 <!ENTITY folderProps.name.accesskey              "а">
+<!ENTITY folderProps.color.label                 "Колір піктограми:">
+<!ENTITY folderProps.color.accesskey             "л">
+<!ENTITY folderProps.reset.tooltip               "Відновити типовий колір">
 <!ENTITY folderProps.location.label              "Розташування:">
 <!ENTITY folderProps.location.accesskey          "о">
 
