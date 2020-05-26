@@ -272,9 +272,17 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = 허용 안 함
     .accesskey = N
+popup-silence-notifications-checkbox = 공유하는 동안 { -brand-short-name }에서 알림을 사용 안 함
+popup-silence-notifications-checkbox-warning = { -brand-short-name }는 공유하는 동안 알림을 표시하지 않습니다.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = { -brand-short-name }를 공유하고 있습니다. 새 탭으로 전환하면 다른 사람들이 볼 수 있습니다.
+sharing-warning-screen = 전체 화면을 공유하고 있습니다. 새 탭으로 전환하면 다른 사람들이 볼 수 있습니다.
+sharing-warning-proceed-to-tab =
+    .label = 탭으로 진행
+sharing-warning-disable-for-session =
+    .label = 이 세션의 공유 보호 사용 안 함
 
 ## DevTools F12 popup
 
