@@ -36,3 +36,5 @@
 <!ENTITY openToolbarCmd.tooltip "Yerel bir dosya aç">
 <!ENTITY saveToolbarCmd.tooltip "Dosyayı yerel bir konuma kaydet">
 <!ENTITY publishToolbarCmd.tooltip "Dosyayı uzak bir konuma yükle">
+<!ENTITY printToolbarCmd.label "Yazdır">
+<!ENTITY printToolbarCmd.tooltip "Bu sayfayı yazdır">
