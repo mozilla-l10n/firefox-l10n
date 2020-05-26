@@ -5,6 +5,7 @@
 <!ENTITY Contact.tab                     "Geral">
 <!ENTITY Contact.accesskey               "G">
 <!ENTITY Name.box                        "Nome">
+
 <!-- LOCALIZATION NOTE:
  NameField1, NameField2, PhoneticField1, PhoneticField2
  those fields are either LN or FN depends on the target country.
@@ -12,9 +13,8 @@
  but they should not be translated (same applied to phonetic id).
  Make sure the translation of label corresponds to the order of id.
 -->
+
 <!-- LOCALIZATION NOTE (NameField1.id) : DONT_TRANSLATE -->
-
-
 <!ENTITY NameField1.id                  "FirstName">
 <!-- LOCALIZATION NOTE (NameField2.id) : DONT_TRANSLATE -->
 <!ENTITY NameField2.id                  "LastName">
@@ -47,6 +47,8 @@
 <!ENTITY Unknown.label                  "Sem preferência">
 <!ENTITY ScreenName.label               "Nome de tela:">
 <!ENTITY ScreenName.accesskey           "N">
+
+<!ENTITY chatName.label                 "Nome da conversa:">
 
 <!ENTITY WorkPhone.label                "Comercial:">
 <!ENTITY WorkPhone.accesskey            "o">
@@ -118,6 +120,27 @@
 <!ENTITY Custom4.accesskey              "4">
 <!ENTITY Notes.label                    "Notas:">
 <!ENTITY Notes.accesskey                "N">
+
+<!ENTITY Chat.tab                       "Bate-papo">
+<!ENTITY Chat.accesskey                 "a">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
+<!ENTITY AIM.accesskey                  "M">
+<!ENTITY Yahoo.label                    "Yahoo!:">
+<!ENTITY Yahoo.accesskey                "Y">
+<!ENTITY Skype.label                    "Skype:">
+<!ENTITY Skype.accesskey                "S">
+<!ENTITY QQ.label                       "QQ:">
+<!ENTITY QQ.accesskey                   "Q">
+<!ENTITY MSN.label                      "MSN:">
+<!ENTITY MSN.accesskey                  "N">
+<!ENTITY ICQ.label                      "ICQ:">
+<!ENTITY ICQ.accesskey                  "I">
+<!ENTITY XMPP.label                     "Jabber ID:">
+<!ENTITY XMPP.accesskey                 "J">
+<!ENTITY IRC.label                      "Apelido no IRC:">
+<!ENTITY IRC.accesskey                  "R">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "o">
