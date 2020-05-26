@@ -266,9 +266,21 @@ popup-select-microphone =
     .value = מיקרופון לשיתוף:
     .accesskey = מ
 popup-all-windows-shared = ישותפו כל החלונות הגלויים על המסך.
+popup-screen-sharing-not-now =
+    .label = לא כעת
+    .accesskey = ל
+popup-screen-sharing-never =
+    .label = לעולם לא לאפשר
+    .accesskey = ע
+popup-silence-notifications-checkbox = השבתת התרעות מ־{ -brand-short-name } בזמן שיתוף
+popup-silence-notifications-checkbox-warning = ‏{ -brand-short-name } לא יציג התרעות בזמן השיתוף.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = המשך ללשונית
+sharing-warning-disable-for-session =
+    .label = השבתת הגנת השיתוף עבור הפעלה זו
 
 ## DevTools F12 popup
 
