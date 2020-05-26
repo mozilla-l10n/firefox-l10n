@@ -35,7 +35,10 @@ etp-card-title = 加強型追蹤保護
 etp-card-content = 追蹤器會在網路上跟蹤您，收集您的興趣與喜好。{ -brand-short-name } 會封鎖許多追蹤器與其他有害指令碼。
 protection-report-webpage-title = 保護資訊儀錶板
 protection-report-page-content-title = 保護資訊儀錶板
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = 當您上網時，{ -brand-short-name } 可在背景保護您的隱私。以下是這些保護的個人摘要，以及能夠用來保護線上安全性的各種工具。
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = 當您上網時，{ -brand-short-name } 可在背景保護您的隱私。以下是這些保護的個人摘要，以及能夠用來保護線上安全性的各種工具。
 protection-report-settings-link = 管理您的隱私權與安全性設定
 etp-card-title-always = 加強型追蹤保護: 總是開啟
 etp-card-title-custom-not-blocking = 加強型追蹤保護: 關閉
@@ -57,8 +60,6 @@ fingerprinter-tab-title = 數位指紋追蹤程式
 fingerprinter-tab-content = 數位指紋追蹤程式會針對您的瀏覽器、電腦設定來建立您的獨特輪廓，並在不同網站間追蹤您。<a data-l10n-name="learn-more-link">了解更多</a>
 cryptominer-tab-title = 加密貨幣採礦程式
 cryptominer-tab-content = 加密貨幣採礦程式會使用您電腦的運算能力來對數位貨幣「採礦」，消耗您的電腦電力、拖慢系統效能、增加電費支出。<a data-l10n-name="learn-more-link">了解更多</a>
-protections-close-button =
-    .aria-label = 關閉
 protections-close-button2 =
     .aria-label = 關閉
     .title = 關閉
@@ -115,6 +116,8 @@ monitor-link = 原理是什麼
 monitor-header-content-no-account = 使用 { -monitor-brand-name } 檢查您是否處於已知的資料外洩事件之中，並在有新事件發生時收到通知。
 monitor-header-content-signed-in = 若您的資訊出現在已知的資料外洩事件中，{ -monitor-brand-name } 將警告您。
 monitor-sign-up = 訂閱資料外洩警報
+monitor-sign-up-link = 訂閱資料外洩警報
+    .title = 到 { -monitor-brand-name } 訂閱資料外洩警報
 auto-scan = 今天自動掃描過
 monitor-emails-tooltip =
     .title = 到 { -monitor-brand-short-name } 檢視進行監控的電子郵件信箱
@@ -151,6 +154,15 @@ password-warning =
     { $count ->
        *[other] 有網站發生資料外洩事件，當中可能流出了您儲存的登入資訊。請更改此密碼以維護線上安全。<a data-l10n-name="lockwise-link">檢視已存登入資訊</a>
     }
+monitor-no-breaches-title = 好消息！
+monitor-no-breaches-description = 還沒有遇到已知的資料外洩事件。有新事件發生時我們會通知您。
+monitor-view-report-link = 檢視報告
+    .title = 到 { -monitor-brand-short-name } 處理
+monitor-breaches-unresolved-title = 處理遇到的資料外洩事件
+monitor-breaches-unresolved-description = 確認事件詳細資訊並採取行動保護自己的資料後，就可以將事件標示為「已處理」。
+monitor-manage-breaches-link = 管理資料外洩事件
+    .title = 到 { -monitor-brand-short-name } 管理資料外洩事件
+monitor-breaches-resolved-title = 真棒！所有已知的資料外洩事件都處理完了。
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
