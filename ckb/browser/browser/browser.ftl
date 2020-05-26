@@ -3,6 +3,49 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# These are the default window titles everywhere except macOS. The first two
+# attributes are used when the web content opened has no title:
+#
+# default - "Mozilla Firefox"
+# private - "Mozilla Firefox (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } (گەڕانی تایبەتیی)
+    .data-content-title-default = { $content-title } - { -brand-full-name }
+    .data-content-title-private = { $content-title } - { -brand-full-name } (گەڕانی تایبەتیی)
+# These are the default window titles on macOS. The first two are for use when
+# there is no content title:
+#
+# "default" - "Mozilla Firefox"
+# "private" - "Mozilla Firefox - (Private Browsing)"
+#
+# The last two are for use when there *is* a content title.
+# Do not use the brand name in the last two attributes, as we do on non-macOS.
+#
+# Also note the other subtle difference here: we use a `-` to separate the
+# brand name from `(Private Browsing)`, which does not happen on other OSes.
+#
+# Variables:
+#  $content-title (String): the title of the web content.
+browser-main-window-mac =
+    .data-title-default = { -brand-full-name }
+    .data-title-private = { -brand-full-name } - (گەڕانی تایبەتیی)
+    .data-content-title-default = { $content-title }
+    .data-content-title-private = { $content-title } - (گەڕانی تایبەتیی)
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = زانیاری مالپەڕ پیشان بدە
 
@@ -71,12 +114,10 @@ urlbar-microphone-blocked =
     .tooltiptext = تۆ مایکرۆفۆنەکەت بۆ ئەم ماڵپەڕە بلۆک کرد.
 urlbar-screen-blocked =
     .tooltiptext = تۆ بڵاوکردنەوەی کامێرات بۆ ئەم ماڵپەڕە بلۆک کرد.
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = ئەم دڵخوازە دەستکاریبکە ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -90,7 +131,6 @@ page-action-manage-extension =
     .label = ڕێکخستنی پێوەکراو...
 page-action-remove-from-urlbar =
     .label = سڕینەوە لە توڵی ناونیشان
-
 page-action-remove-extension =
     .label = سڕینەوەی پێوەکراو
 
@@ -108,14 +148,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = لەم کاتەدا، بگەڕێ لەگەڵ:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = گۆڕینی ڕێکخستنەکانی گەڕان
 search-one-offs-change-settings-compact-button =
     .tooltiptext = گۆڕینی ڕێکخستنەکانی گەڕان
-
 search-one-offs-context-open-new-tab =
     .label = گەڕان لە بازدەری نوێ
     .accesskey = T
@@ -131,10 +169,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = تەواو
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -198,6 +234,9 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -209,11 +248,9 @@ urlbar-placeholder =
     .placeholder = بگەڕێ یان ناونیشان بنووسە
 urlbar-switch-to-tab =
     .value = بچۆ بۆ بازدەری:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = پێوەکراوەکان:
-
 urlbar-go-button =
     .tooltiptext = بڕۆ بۆ ناونیشان لە توڵی شوێن
 urlbar-page-action-button =
