@@ -173,7 +173,7 @@ monitor-breaches-unresolved-description = Etter å ha gjennomgått detaljene om 
 monitor-manage-breaches-link = Behandle datalekkasjer
     .title = Behandle datalekkasjer på { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Så bra! Du har løst alle kjente datalekkasjer.
-monitor-breaches-resolved-description = Vi vil gi deg beskjed om e-postadressen din vises i nye datalekkasjer.
+monitor-breaches-resolved-description = Vi vil gi deg beskjed om e-postadressen din dukker opp i nye datalekkasjer.
 # Variables:
 # $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
