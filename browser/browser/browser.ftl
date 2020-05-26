@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = साइट की जानकारी देखें
 
@@ -89,12 +99,10 @@ urlbar-midi-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए MIDI उपयोग अवरुद्ध कर दिया है.
 urlbar-install-blocked =
     .tooltiptext = आपने इस वेबसाइट के लिए ऐड-ऑन संस्थापन को अवरूद्ध कर दिया है।
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = यह बुकमार्क संपादित करें ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -108,7 +116,6 @@ page-action-manage-extension =
     .label = एक्सटेंशन प्रबंधित करें …
 page-action-remove-from-urlbar =
     .label = पतापट्टी से हटायें
-
 page-action-remove-extension =
     .label = एक्सटेंशन हटाएं
 
@@ -126,14 +133,12 @@ full-screen-exit =
 # This string prompts the user to use the list of one-click search engines in
 # the Urlbar and searchbar.
 search-one-offs-with-title = इस बार, इसके साथ खोजें:
-
 # This string won't wrap, so if the translated string is longer,
 # consider translating it as if it said only "Search Settings".
 search-one-offs-change-settings-button =
     .label = खोज सेटिंग बदलाव
 search-one-offs-change-settings-compact-button =
     .tooltiptext = खोज सेटिंग बदले
-
 search-one-offs-context-open-new-tab =
     .label = नया टैब में खोजें
     .accesskey = T
@@ -149,10 +154,8 @@ search-one-offs-context-set-as-default-private =
 bookmark-panel-show-editor-checkbox =
     .label = सहेजते समय संपादक दिखाएं
     .accesskey = S
-
 bookmark-panel-done-button =
     .label = संपन्न
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -221,6 +224,9 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -234,11 +240,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = ब्राउज़र रिमोट कंट्रोल के तहत है
 urlbar-switch-to-tab =
     .value = टैब में जाएँ:
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = विस्तारक:
-
 urlbar-go-button =
     .tooltiptext = स्थान पट्टी पर पता में जाएँ
 urlbar-page-action-button =
