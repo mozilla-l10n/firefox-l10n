@@ -3,14 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!--
-LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of 
-Netscape Communicator, Please translate using the brandname in respective 
-languages for Netscape Communicator 4 releases.
-LOCALIZATION NOTE : Do not translate any of the occurrences of the word 
-"&brandShortName;" below.
--->
-
-<!--
 LOCALIZATION NOTE : 'Communicator 4.x' is the used for previous versions of
 Netscape Communicator, Please translate using the brandname in respective
 languages for Netscape Communicator 4 releases.
@@ -50,11 +42,10 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 <!ENTITY back.label               "&lt; 上一步">
 <!ENTITY forward.label            "下一步 &gt;">
-<!ENTITY finish.label             "結束">
+<!ENTITY finish.label             "完成">
 <!ENTITY cancel.label             "取消">
 
 <!ENTITY select.label             "選擇要匯入的資料類型:">
 
 <!ENTITY title.label              "頭銜">
 <!ENTITY processing.label         "匯入中…">
-
