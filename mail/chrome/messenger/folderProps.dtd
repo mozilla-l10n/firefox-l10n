@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "名称：">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "图标颜色：">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "恢复默认颜色">
 <!ENTITY folderProps.location.label              "地址:">
 <!ENTITY folderProps.location.accesskey          "L">
 
