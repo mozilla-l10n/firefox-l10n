@@ -51,7 +51,7 @@
 </ul>
                 ">
 
-<!ENTITY netInterrupt.title "資料傳輸中斷">
+<!ENTITY netInterrupt.title "連線中斷">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "文件已過期">
