@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY Addrbook.label                        "Címjegyzék">
+<!ENTITY Addrbook.accesskey                    "C">
 <!ENTITY GeneratedName.label                   "Név">
 <!ENTITY GeneratedName.accesskey               "N">
 <!ENTITY PrimaryEmail.label                    "E-mail">
@@ -30,12 +32,14 @@
 <!ENTITY WorkPhone.accesskey                   "u">
 <!ENTITY ScreenName.label                      "Felhasználói név">
 <!ENTITY ScreenName.accesskey                  "F">
+<!ENTITY ChatName.label                        "Csevegési név">
+<!ENTITY ChatName.accesskey                    "e">
 <!ENTITY sortAscending.label                   "Növekvő sorrendben">
 <!ENTITY sortAscending.accesskey               "N">
 <!ENTITY sortDescending.label                  "Csökkenő sorrendben">
 <!ENTITY sortDescending.accesskey              "C">
-<!-- context menu -->
 
+<!-- context menu -->
 <!ENTITY composeEmail.label                    "Levél írása">
 <!ENTITY composeEmail.accesskey                "L">
 <!ENTITY copyAddress.label                     "E-mail cím másolása">
