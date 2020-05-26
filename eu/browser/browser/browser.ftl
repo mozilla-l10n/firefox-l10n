@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Partekatzeko mikrofonoa:
     .accesskey = m
 popup-all-windows-shared = Zure pantailan ikusgai dauden leiho guztiak partekatuko dira.
+popup-screen-sharing-not-now =
+    .label = Une honetan ez
+    .accesskey = z
+popup-screen-sharing-never =
+    .label = Inoiz ez baimendu
+    .accesskey = n
+popup-silence-notifications-checkbox = Partekatu bitartean, desgaitu { -brand-short-name }(r)en jakinarazpenak
+popup-silence-notifications-checkbox-warning = { -brand-short-name }(e)k ez du jakinarazpenik bistaratuko partekatzen ari zaren bitartean.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = { -brand-short-name } partekatzen ari zara. Fitxaz aldatzen duzunean, besteek ere ikus dezakete.
+sharing-warning-screen = Zure pantaila osoa partekatzen ari zara. Fitxaz aldatzen duzunean, besteek ere ikus dezakete.
+sharing-warning-proceed-to-tab =
+    .label = Jarraitu fitxara
+sharing-warning-disable-for-session =
+    .label = Desgaitu partekatze-babesa saio honetarako
 
 ## DevTools F12 popup
 
