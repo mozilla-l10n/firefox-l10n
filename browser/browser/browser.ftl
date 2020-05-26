@@ -272,9 +272,13 @@ popup-screen-sharing-not-now =
 popup-screen-sharing-never =
     .label = Ženje njedowolić
     .accesskey = e
+popup-silence-notifications-checkbox = Zdźělenja w { -brand-short-name } znjemóžnić, mjeztym zo dźěliće
+popup-silence-notifications-checkbox-warning = { -brand-short-name } njebudźe zdźělenja pokazować, mjeztym zo dźěliće.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Dźěliće { -brand-short-name }. Druhe wosoby móža widźeć, hdyž k nowemu rajtarkej přeńdźeće.
+sharing-warning-screen = Dźěliće swoju cyłu wobrazowku. Druhe wosoby móža widźeć, hdyž k nowemu rajtarkej přeńdźeće.
 sharing-warning-proceed-to-tab =
     .label = K rajtarkej postupować
 sharing-warning-disable-for-session =
