@@ -232,6 +232,10 @@ translate-attribution = Traducció feta per <img data-l10n-name="logo"/>
 translate-exceptions =
     .label = Excepcions…
     .accesskey = x
+# Variables:
+#    $localeName (string) - Localized name of the locale to be used.
+use-system-locale =
+    .label = Utilitza els paràmetres del sistema operatiu de «{ $localeName }» per formatar dates, hores, nombres i mesures.
 check-user-spelling =
     .label = Verifica l'ortografia a mesura que s'escriu
     .accesskey = o
@@ -282,7 +286,7 @@ applications-use-app-default =
     .label = Utilitza { $app-name } (per defecte)
 applications-use-other =
     .label = Utilitza una altra aplicació…
-applications-select-helper = Selecciona l'aplicació ajudant
+applications-select-helper = Seleccioneu l'aplicació auxiliar
 applications-manage-app =
     .label = Detalls de l'aplicació…
 applications-always-ask =
@@ -303,6 +307,8 @@ applications-file-ending-with-type = { applications-file-ending } ({ $type })
 #   $plugin-name (String) - Name of a plugin (e.g Adobe Flash)
 applications-use-plugin-in =
     .label = Utilitza { $plugin-name } (en el { -brand-short-name })
+applications-open-inapp =
+    .label = Obre en el { -brand-short-name }
 
 ## The strings in this group are used to populate
 ## selected label element based on the string from
@@ -314,12 +320,16 @@ applications-action-save-label =
     .value = { applications-action-save.label }
 applications-use-app-label =
     .value = { applications-use-app.label }
+applications-open-inapp-label =
+    .value = { applications-open-inapp.label }
 applications-always-ask-label =
     .value = { applications-always-ask.label }
 applications-use-app-default-label =
     .value = { applications-use-app-default.label }
 applications-use-other-label =
     .value = { applications-use-other.label }
+applications-use-os-default-label =
+    .value = { applications-use-os-default.label }
 
 ##
 
@@ -783,6 +793,7 @@ forms-master-pw-fips-desc = El canvi de contrasenya ha fallat
 
 ## OS Authentication dialog
 
+master-password-os-auth-dialog-caption = { -brand-full-name }
 
 ## Privacy Section - History
 

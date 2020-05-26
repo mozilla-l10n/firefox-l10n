@@ -279,6 +279,10 @@ popup-silence-notifications-checkbox-warning = El { -brand-short-name } no mostr
 
 sharing-warning-window = Esteu compartint el { -brand-short-name }. Les altres persones poden veure quan canvieu a una pestanya nova.
 sharing-warning-screen = Esteu compartint la pantalla sencera. Les altres persones poden veure quan canvieu a una pestanya nova.
+sharing-warning-proceed-to-tab =
+    .label = Vés a la pestanya
+sharing-warning-disable-for-session =
+    .label = Desactiva la protecció de compartició durant aquesta sessió
 
 ## DevTools F12 popup
 
