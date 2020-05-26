@@ -47,7 +47,6 @@ appmenu-addon-private-browsing =
     .secondarybuttonaccesskey = O
 appmenu-addon-private-browsing-message = 除非您在設定中允許，否則任何新安裝到 { -brand-shorter-name } 的擴充套件都將無法在隱私瀏覽視窗中使用。
 appmenu-addon-private-browsing-learn-more = 了解如何管理擴充套件設定。
-    
 appmenu-new-tab-controlled =
     .label = 您的「新分頁」已經變更。
     .buttonlabel = 保留變更
@@ -62,7 +61,7 @@ appmenu-homepage-controlled =
     .secondarybuttonaccesskey = D
 appmenu-tab-hide-controlled =
     .label = 存取您所有隱藏的分頁
-    .buttonlabel = 保留隱藏分頁
+    .buttonlabel = 保持隱藏分頁
     .buttonaccesskey = K
     .secondarybuttonlabel = 停用擴充套件
     .secondarybuttonaccesskey = D

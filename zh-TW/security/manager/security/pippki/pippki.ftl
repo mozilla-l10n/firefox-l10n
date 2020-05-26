@@ -8,7 +8,6 @@ password-quality-meter = 密碼品質測量計
 
 change-password-window =
     .title = 變更主控密碼
-
 # Variables:
 # $tokenName (String) - Security device of the change password dialog
 change-password-token = 安全裝置: { $tokenName }
@@ -52,7 +51,7 @@ client-auth-cert-details = 所選憑證的詳細資訊:
 
 set-password-window =
     .title = 選擇憑證備份密碼
-set-password-message = 在此設定的憑證備份密碼可保護您要建立的備份。 您必須設定此密碼以繼續備份。
+set-password-message = 在此設定的憑證備份密碼可保護您要建立的備份檔。您必須設定密碼才能繼續備份。
 set-password-backup-pw =
     .value = 憑證備份密碼:
 set-password-repeat-backup-pw =
