@@ -39,7 +39,10 @@ etp-card-title = Розширений захист від стеження
 etp-card-content = Елементи стеження переслідують вас в мережі з метою збору інформації про ваші звички та інтереси. { -brand-short-name } блокує багато такого стеження, а також інші підозрілі скрипти.
 protection-report-webpage-title = Панель стану захисту
 protection-report-page-content-title = Панель стану захисту
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } може непомітно захищати вашу приватність під час перебування в Інтернеті. Це персоналізований підсумок стану захисту, включаючи засоби контролю вашої безпеки в Інтернеті.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } непомітно захищає вашу приватність під час перебування в Інтернеті. Це персоналізований підсумок стану захисту, включаючи засоби контролю вашої безпеки в Інтернеті.
 protection-report-settings-link = Керуйте своїми налаштуваннями приватності й безпеки
 etp-card-title-always = Розширений захист від стеження: Завжди увімкнено
 etp-card-title-custom-not-blocking = Розширений захист від стеження: ВИМКНЕНО
@@ -61,8 +64,6 @@ fingerprinter-tab-title = Зчитування цифрового відбитк
 fingerprinter-tab-content = Засоби зчитування цифрового відбитка збирають дані про налаштування вашого браузера та комп'ютера, з метою створення вашого профілю. Використовуючи такий цифровий відбиток, вони можуть стежити за вами на багатьох різних вебсайтах. <a data-l10n-name="learn-more-link">Докладніше</a>
 cryptominer-tab-title = Криптомайнери
 cryptominer-tab-content = Криптомайнери використовують ресурси вашої системи для створення цифрових грошей. Криптомайнингові скрипти споживають заряд вашого акумулятора, сповільнюють роботу комп'ютера, а також можуть збільшити ваші витрати на електроенергію. <a data-l10n-name="learn-more-link">Докладніше</a>
-protections-close-button =
-    .aria-label = Закрити
 protections-close-button2 =
     .aria-label = Закрити
     .title = Закрити

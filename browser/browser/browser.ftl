@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Доступ до мікрофону:
     .accesskey = м
 popup-all-windows-shared = Надасться доступ до всіх видимих вікон на вашому екрані.
+popup-screen-sharing-not-now =
+    .label = Не зараз
+    .accesskey = е
+popup-screen-sharing-never =
+    .label = Ніколи не дозволяти
+    .accesskey = Н
+popup-silence-notifications-checkbox = Вимкнути сповіщення від { -brand-short-name } під час спільного доступу
+popup-silence-notifications-checkbox-warning = { -brand-short-name } не показуватиме сповіщення під час спільного доступу.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = У вас активний спільний доступ { -brand-short-name }. Інші люди можуть бачити, коли ви перемикаєтесь на нову вкладку.
+sharing-warning-screen = У вас активний спільний доступ до цілого екрана. Інші люди можуть бачити, коли ви перемикаєтесь на нову вкладку.
+sharing-warning-proceed-to-tab =
+    .label = Перемкнути вкладку
+sharing-warning-disable-for-session =
+    .label = Вимкнути захист спільного доступу для цього сеансу
 
 ## DevTools F12 popup
 
