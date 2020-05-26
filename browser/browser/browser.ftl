@@ -266,9 +266,17 @@ popup-select-microphone =
     .value = Mikrofon, kotryž ma so hromadźe wužiwać:
     .accesskey = M
 popup-all-windows-shared = Wšě widźomne wokna na wašej wobrazowce budu so dźělić.
+popup-screen-sharing-not-now =
+    .label = Nic nětko
+    .accesskey = c
+popup-screen-sharing-never =
+    .label = Ženje njedowolić
+    .accesskey = e
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-disable-for-session =
+    .label = Dźělenski škit za tute posedźenje znjemóžnić
 
 ## DevTools F12 popup
 

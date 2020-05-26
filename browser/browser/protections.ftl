@@ -41,7 +41,10 @@ etp-card-title = Polěpšeny slědowanski škit
 etp-card-content = Přesćěhowaki wam online slěduja, zo bychu informacije wo wašich přehladowanskich zwučenosćach a zajimach hromadźili. { -brand-short-name } wjele z tutych přesćěhowakow a druhe złóstne skripty blokuje.
 protection-report-webpage-title = Přehlad škitow
 protection-report-page-content-title = Přehlad škitow
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } móže wašu priwatnosć za kulisami škitać, mjeztym zo přehladujeće. To je personalizowane zjeće tutych škitnych naprawow, mjez nimi nastroje, kotrež wašu wěstotu online kontroluja.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } wašu priwatnosć za kulisami škita, mjeztym zo přehladujeće. To je personalizowane zjeće tutych škitnych naprawow, mjez nimi nastroje, kotrež wašu wěstotu online kontroluja.
 protection-report-settings-link = Nastajenja priwatnosće a wěstoty rjadować
 etp-card-title-always = Polěpšeny slědowanski škit: přeco zmóžnjeny
 etp-card-title-custom-not-blocking = Polěpšeny slědowanski škit: ZNJEMÓŽNJENY
@@ -63,8 +66,6 @@ fingerprinter-tab-title = Porstowe wotćišće
 fingerprinter-tab-content = Porstowe wotćišće zběraja nastajenja z wašeho wobhladowaka a ličaka, zo bychu profil wo was wutworili. Hdyž tutón digitalny porstowy wotćišć wužiwaće, móža wam přez rozdźělne websydła slědować. <a data-l10n-name="learn-more-link">Dalše informacije</a>
 cryptominer-tab-title = Kryptokopanje
 cryptominer-tab-content = Kryptokopanje ličenski wukon wašeho systema wužiwa, zo by digitalne pjenjezy dobyło. Kryptokopanske skripty wašu bateriju prózdnja, waš ličak spomaleja a móža wašu přetrjebu energije powyšić. <a data-l10n-name="learn-more-link">Dalše informacije</a>
-protections-close-button =
-    .aria-label = Začinić
 protections-close-button2 =
     .aria-label = Začinić
     .title = Začinić
@@ -133,6 +134,8 @@ monitor-link = Kak funguje
 monitor-header-content-no-account = Přepruwujće { -monitor-brand-name }, zo byšće zwěsćił, hač sće na znatu datowu dźěru padnył a warnowanja wo nowych dźěrach dóstawaće.
 monitor-header-content-signed-in = { -monitor-brand-name } was warnuje, jeli waše informacije su so w znatej datowej dźěrje zjewili.
 monitor-sign-up = Registrujće so za warnowanja wo datowych dźěrach
+monitor-sign-up-link = Registrujće so za warnowanja wo datowych dźěrach
+    .title = Registrujće so za warnowanja wo datowych dźěrach na { -monitor-brand-name }
 auto-scan = Dźensa awtomatisce skenowany
 monitor-emails-tooltip =
     .title = Dohladowane e-mejlowe adresy w { -monitor-brand-short-name } pokazać
@@ -181,6 +184,15 @@ password-warning =
         [few] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
        *[other] Składowane přizjewjenja su so w datowej dźěrje wotkryli. Změńće tute hesła za lěpšu wěstotu online. <a data-l10n-name="lockwise-link">Składowane přizjewjenja pokazać</a>
     }
+monitor-no-breaches-title = Dobre powěsće!
+monitor-view-report-link = Rozprawu pokazać
+    .title = Datowe dźěry na { -monitor-brand-short-name } wotstronić
+monitor-breaches-unresolved-title = Wotstrońće swoje datowe dźěry
+monitor-manage-breaches-link = Datowe dźěry rjadować
+    .title = Datowe dźěry na { -monitor-brand-short-name } rjadować
+monitor-partial-breaches-motivation-title-start = Wulkotny spočatk!
+monitor-resolve-breaches-link = Datowe dźěry wotstronić
+    .title = Datowe dźěry na { -monitor-brand-short-name } wotstronić
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
