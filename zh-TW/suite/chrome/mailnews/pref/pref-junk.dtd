@@ -4,7 +4,7 @@
 
 <!ENTITY pref.junk.title "垃圾與可疑郵件">
 <!ENTITY junkSettings.caption "全域垃圾郵件設定">
-<!ENTITY junkMail.intro "您可以到帳號設定調整各個帳號的預設垃圾郵件處理方式。">
+<!ENTITY junkMail.intro "可以到「帳號設定」調整各個帳號自己的處理方式。">
 
 <!-- Junk Mail Controls -->
 <!ENTITY manualMark.label               "當標示郵件為垃圾信時:">
@@ -38,4 +38,3 @@
 <!ENTITY pref.antivirus.caption           "防毒">
 <!ENTITY antiVirus.label                  "讓防毒軟體能更簡單的掃瞄新進郵件">
 <!ENTITY antiVirus.accesskey              "A">
-

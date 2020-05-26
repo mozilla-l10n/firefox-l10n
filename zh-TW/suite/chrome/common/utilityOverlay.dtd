@@ -50,7 +50,7 @@
 <!ENTITY hideOtherAppsCmd.key             "H">
 <!ENTITY hideOtherAppsCmd.modifiers       "accel,alt">
 <!ENTITY showAllAppsCmd.label             "全部顯示">
-<!ENTITY openHelpCmdMac.label             "&brandShortName; 說明">
+<!ENTITY openHelpCmdMac.label             "&brandShortName; 使用說明">
 <!ENTITY openHelpCmdMac.accesskey         "H">
 <!ENTITY openHelpCmdMac.key               "?">
 <!ENTITY openHelpCmdMac.modifiers         "accel">
