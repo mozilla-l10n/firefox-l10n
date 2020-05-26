@@ -37,7 +37,10 @@ etp-card-title = Jarraipenaren babes hobetua
 etp-card-content = Jarraipen-elementuek zure lineako jarraipena egiten dute zure nabigatze-ohitura eta -interesei buruzko informazioa biltzeko. Jarraipen-elementu eta bestelako script maltzurretako asko blokeatzen ditu { -brand-short-name }(e)k.
 protection-report-webpage-title = Babesen panela
 protection-report-page-content-title = Babesen panela
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name }(e)k zure pribatutasuna babestu dezake bigarren planoan nabigatzen duzun bitartean. Hau babes horien laburpen pertsonalizatu bat da, zure lineako segurtasunaren kontrola hartzeko tresnak barne.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name }(e)k atzeko planoan zure pribatutasuna babesten du nabigatzen duzun bitartean. Babesen laburpen pertsonalizatua da hau, zure lineako segurtasunaren kontrola hartzeko tresnak barne.
 protection-report-settings-link = Kudeatu zure pribatutasun eta segurtasun ezartpenak
 etp-card-title-always = Jarraipenaren babes hobetua: Beti aktibo
 etp-card-title-custom-not-blocking = Jarraipenaren babes hobetua: Itzalita
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Hatz-marka bidezko jarraipena
 fingerprinter-tab-content = Hatz-marka bidezko jarraipenak zuri buruzko profil bat osatzen du zure nabigatzailetik eta ordenagailutik ezarpenak bilduz. Hatz-marka digital hau erabiliz, hainbat webgunetan zehar zure jarraipena egin dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
 cryptominer-tab-title = Kriptomeatzariak
 cryptominer-tab-content = Kriptomeatzariek zure sistemaren konputazio-ahalmena erabiltzen dute diru digitala ustiatzeko. Script kriptomeatzariek zure bateria agortzen dute, zure ordenagailua makaltzen dute eta zure elektrizitate-faktura igo dezakete. <a data-l10n-name="learn-more-link">Argibide gehiago</a>
-protections-close-button =
-    .aria-label = Itxi
 protections-close-button2 =
     .aria-label = Itxi
     .title = Itxi
@@ -121,6 +122,8 @@ monitor-link = Nola dabilen
 monitor-header-content-no-account = Egiaztatu { -monitor-brand-name } ezaguna den datu-urratze batekin zerikusirik izan duzun ikusteko eta urratze berriei buruzko abisuak jasotzeko.
 monitor-header-content-signed-in = { -monitor-brand-name } tresnak abisatu egiten zaitu zure informazioa datuen inguruko urratze ezagunen batean azaldu bada.
 monitor-sign-up = Eman izena datuen inguruko urratzeen abisuetara
+monitor-sign-up-link = Eman izena datuen inguruko urratzeen abisuetara
+    .title = Eman izena datuen inguruko urratzeen abisuetara { -monitor-brand-name }(e)n
 auto-scan = Automatikoki eskaneatuta gaur
 monitor-emails-tooltip =
     .title = Ikusi monitorizatutako e-mail helbideak hemen { -monitor-brand-short-name }
@@ -161,6 +164,19 @@ password-warning =
         [one] Gordetako saio-hasiera datuen inguruko urratze batean agerian utzi izan liteke. Aldatu pasahitz hau segurtasuna hobetzeko. <a data-l10n-name="lockwise-link">Ikusi gordetako saio-hasierak</a>
        *[other] Gordetako saio-hasierak datuen inguruko urratze batean agerian utzi izan litezke. Aldatu pasahitz hau segurtasuna hobetzeko. <a data-l10n-name="lockwise-link">Ikusi gordetako saio-hasierak</a>
     }
+monitor-no-breaches-title = Berri onak!
+monitor-no-breaches-description = Ez zaude datu-urratze ezagunetan. Hau aldatuko balitz, jakinarazi egingo dizugu.
+monitor-view-report-link = Ikusi txostena
+    .title = Argitu urratzeak { -monitor-brand-short-name }(e)n
+monitor-manage-breaches-link = Kudeatu datu-urratzeak
+    .title = Kudeatu datu-urratzeak { -monitor-brand-short-name }(e)n
+monitor-breaches-resolved-description = Zure helbide elektronikoa datu-urratze berriren batean agertuko balitz, jakinarazi egingo dizugu.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = %{ $percentageResolved } osatuta
+monitor-partial-breaches-motivation-title-start = Hasiera ona!
+monitor-partial-breaches-motivation-title-middle = Eutsi horri!
+monitor-partial-breaches-motivation-title-end = Ia eginda! Eutsi horri.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
