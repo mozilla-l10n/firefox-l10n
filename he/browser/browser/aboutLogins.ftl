@@ -12,12 +12,9 @@ login-app-promo-android =
     .alt = הורדה מ־Google Play
 login-app-promo-apple =
     .alt = הורדה מה־App Store
-
 login-filter =
     .placeholder = חיפוש כניסות
-
 create-login-button = יצירת כניסה חדשה
-
 fxaccounts-sign-in-text = קבלת הססמאות שלך במכשירים האחרים שלך
 fxaccounts-sign-in-button = כניסה ל־{ -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -105,21 +102,10 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = יש לאמת את הזהות שלך כדי לערוך את הכניסה השמורה.
-
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = כדי לערוך את הכניסה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
-
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = יש לאמת את הזהות שלך כדי לחשוף את הססמה השמורה.
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = כדי להציג את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = יש לאמת את הזהות שלך כדי להעתיק את הססמה השמורה.
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = כדי להעתיק את הססמה שלך, יש להזין את פרטי הכניסה שלך ל־Windows. פעולה זאת מסייעת בהגנה על אבטחת החשבונות שלך.
 
@@ -132,6 +118,11 @@ master-password-reload-button =
 
 ## Password Sync notification
 
+enable-password-sync-notification-message =
+    { PLATFORM() ->
+        [windows] רוצה את הכניסות שלך בכל מקום בו יש לך את { -brand-product-name }? יש לעבור לאפשרויות { -sync-brand-short-name } ולסמן את תיבת הסימון של 'כניסות'.
+       *[other] רוצה את הכניסות שלך בכל מקום בו יש לך את { -brand-product-name }? יש לעבור להעדפות { -sync-brand-short-name } ולסמן את תיבת הסימון של 'כניסות'.
+    }
 enable-password-sync-preferences-button =
     .label =
         { PLATFORM() ->
@@ -148,16 +139,15 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = ביטול
 confirmation-dialog-dismiss-button =
     .title = ביטול
-
 about-logins-confirm-remove-dialog-title = להסיר כניסה זו?
 confirm-delete-dialog-message = לא ניתן לבטל פעולה זו.
 about-logins-confirm-remove-dialog-confirm-button = הסרה
-
 confirm-discard-changes-dialog-title = האם לבטל את השינויים שלא נשמרו?
 confirm-discard-changes-dialog-message = כל השינויים שלא נשמרו יאבדו.
 
 ## Breach Alert notification
 
+about-logins-breach-alert-title = דליפת אתר
 breach-alert-text = ססמאות הודלפו או נגנבו מאתר זה מאז שעדכנת לאחרונה את פרטי הכניסה שלך. יש לשנות את הססמה שלך כדי להגן על חשבונך.
 about-logins-breach-alert-date = דליפה זו אירעה ב־{ DATETIME($date, day: "numeric", month: "long", year: "numeric") }
 # Variables:
@@ -181,6 +171,5 @@ about-logins-vulnerable-alert-learn-more-link = מידע נוסף
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = כבר קיימת רשומה עבור { $loginTitle } עם שם המשתמש הזה. <a data-l10n-name="duplicate-link">לעבור לרשומה הקיימת?</a>
-
 # This is a generic error message.
 about-logins-error-message-default = אירעה שגיאה במהלך הניסיון לשמור ססמה זו.
