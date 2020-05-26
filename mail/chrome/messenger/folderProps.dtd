@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Navn:">
 <!ENTITY folderProps.name.accesskey              "N">
+<!ENTITY folderProps.color.label                 "Ikonfarge:">
+<!ENTITY folderProps.color.accesskey             "I">
+<!ENTITY folderProps.reset.tooltip               "Tilbakestill standardfarge">
 <!ENTITY folderProps.location.label              "Adresse:">
 <!ENTITY folderProps.location.accesskey          "A">
 
