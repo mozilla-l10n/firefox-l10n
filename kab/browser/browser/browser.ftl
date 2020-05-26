@@ -266,6 +266,12 @@ popup-select-microphone =
     .value = Asawaḍ i beṭṭu:
     .accesskey = S
 popup-all-windows-shared = Akk isfuyla ibanen deg ugdil-ik ad ttwabḍun.
+popup-screen-sharing-not-now =
+    .label = Mačči tura
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = Ur sirig ara
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
