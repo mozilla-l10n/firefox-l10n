@@ -49,6 +49,9 @@
 
 <!ENTITY folderProps.name.label                  "Ime:">
 <!ENTITY folderProps.name.accesskey              "m">
+<!ENTITY folderProps.color.label                 "Barva ikone:">
+<!ENTITY folderProps.color.accesskey             "i">
+<!ENTITY folderProps.reset.tooltip               "Obnovi privzeto barvo">
 <!ENTITY folderProps.location.label              "Mesto:">
 <!ENTITY folderProps.location.accesskey          "M">
 
