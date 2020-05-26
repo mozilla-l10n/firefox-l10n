@@ -179,6 +179,29 @@ monitor-no-breaches-description = Ваши адреса не замечены н
 monitor-view-report-link = Посмотреть отчёт
     .title = Разобраться с утечками с помощью { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Разобраться с вашими утечками
+monitor-breaches-unresolved-description = Изучив информацию об утечке и предприняв меры по защите вашей информации, вы можете отметить утечки как решённые.
+monitor-manage-breaches-link = Управление утечками
+    .title = Управление утечками с помощью { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Отлично! Вы разобрались со всеми известными утечками.
+monitor-breaches-resolved-description = Если ваш адрес электронной почты появится в каких-либо новых утечках, мы сообщим вам об этом.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } из { $numBreaches } утечек отмечена как решённая
+        [few] { $numBreachesResolved } из { $numBreaches } утечек отмечены как решённые
+       *[many] { $numBreachesResolved } из { $numBreaches } утечек отмечены как решённые
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% завершено
+monitor-partial-breaches-motivation-title-start = Отличное начало!
+monitor-partial-breaches-motivation-title-middle = Так держать!
+monitor-partial-breaches-motivation-title-end = Почти готово! Так держать.
+monitor-partial-breaches-motivation-desc = Разберитесь с остальными вашими утечками на { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Разобраться с утечками
+    .title = Разобраться с утечками с помощью { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
