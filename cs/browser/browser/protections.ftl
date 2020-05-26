@@ -45,7 +45,10 @@ etp-card-title = Rozšířená ochrana proti sledování
 etp-card-content = Sledovací prvky sbírají informace, co a kde na internetu děláte, jaké máte návyky a co vás zajímá. { -brand-short-name } blokuje mnoho takových prvků i dalších škodlivých skriptů.
 protection-report-webpage-title = Přehled ochrany soukromí
 protection-report-page-content-title = Přehled ochrany soukromí
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } chrání vaše soukromí během prohlížení. Toto je přehled ochranných opatření a nástrojů, se kterými máte kontrolu nad svým online zabezpečením.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } chrání vaše soukromí během prohlížení. Toto je přehled ochranných opatření a nástrojů, se kterými máte kontrolu nad svým online zabezpečením.
 protection-report-settings-link = Nastavení soukromí a zabezpečení
 etp-card-title-always = Rozšířená ochrana proti sledování: vždy zapnutá
 etp-card-title-custom-not-blocking = Rozšířená ochrana proti sledování: vypnutá
@@ -73,8 +76,6 @@ fingerprinter-tab-title = Vytváření otisku prohlížeče
 fingerprinter-tab-content = Sběrem informací o vašem prohlížeči a počítači lze vytvořit unikátní otisk a ten pak použít k vašemu sledování napříč různými a nijak nesouvisejícími servery a webovými stránkami. <a data-l10n-name="learn-more-link">Zjistit více</a>
 cryptominer-tab-title = Těžba kryptoměn
 cryptominer-tab-content = Těžba kryptoměn využívá výpočetní výkon vašeho počítače k získávání digitálních měn. Běžící skripty vybíjí vaši baterii a zpomalují váš počítač. <a data-l10n-name="learn-more-link">Zjistit více</a>
-protections-close-button =
-    .aria-label = Zavřít
 protections-close-button2 =
     .aria-label = Zavřít
     .title = Zavřít
@@ -133,6 +134,8 @@ monitor-link = Jak to funguje
 monitor-header-content-no-account = { -monitor-brand-name } zkotrolujte, zda byly vaše údaje součástí nějakého známého úniku dat, a může vás i upozornit, pokud se vyskytnou nějakém novém.
 monitor-header-content-signed-in = { -monitor-brand-name } vás upozorní, pokud se nějaké vaše údaje objeví ve známém úniku dat.
 monitor-sign-up = Nastavit upozornění na úniky dat
+monitor-sign-up-link = Nastavit upozornění na úniky dat
+    .title = Nastavit v { -monitor-brand-name(case: "loc") } upozornění na úniky dat
 auto-scan = Automaticky skenováno: dnes
 monitor-emails-tooltip =
     .title = Zobrazit e-mailové adresy sledované službou { -monitor-brand-short-name }
@@ -157,6 +160,18 @@ full-report-link = Zobrazit kompletní přehled ve <a data-l10n-name="monitor-in
 # of saved logins which may have been exposed. Don’t add $count to
 # your localization, because it would result in the number showing twice.
 password-warning = Počet přihlašovacích údajů, které byly ohroženy nějakým únikem dat. Z bezpečnostních důvodů doporučujeme taková hesla změnit. <a data-l10n-name="lockwise-link">Zobrazit uložené přihlašovací údaje</a>
+monitor-no-breaches-title = Dobré zprávy
+monitor-view-report-link = Zobrazit podrobnosti
+    .title = Vyřešit hlášení úniků v { -monitor-brand-short-name(case: "loc") }
+monitor-breaches-unresolved-title = Vyřešte důsledky úniků dat
+monitor-breaches-unresolved-description = Po přezkoumání podrobností o úniku a přijetí opatření k ochraně vašich dat můžete označit úniky jako vyřešené.
+monitor-breaches-resolved-title = Vyřešili jste všechny známé úniky dat.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = Hotovo na { $percentageResolved } %
+monitor-partial-breaches-motivation-title-start = Skvělý začátek
+monitor-partial-breaches-motivation-title-middle = Jen tak dál
+monitor-partial-breaches-motivation-title-end = Máte skoro hotovo, jen tak dál.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
