@@ -7,7 +7,6 @@
 
 #   $type (String) - the type of the addressing row
 remove-address-row-type = Fjern { $type }-feltet
-
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type =
@@ -16,7 +15,6 @@ address-input-type =
         [one] { $type } inntastingsfelt med en adresse
        *[other] { $type } inntastingsfelt med { $count } adresser
     }
-
 #   $type (String) - the type of the addressing row
 #   $count (Number) - the number of address pills currently present in the addressing row
 address-input-type-aria-label =
@@ -25,7 +23,6 @@ address-input-type-aria-label =
         [one] { $type } med 1 adresse, bruk venstre piltast for å fokusere på den.
        *[other] { $type } med { $count } adresser, bruk venstre piltast for å fokusere på dem.
     }
-
 #   $email (String) - the email address
 #   $count (Number) - the number of address pills currently present in the addressing row
 pill-aria-label =
@@ -33,19 +30,15 @@ pill-aria-label =
         [one] { $email }: trykk Enter for å redigere, Slett for å fjerne.
        *[other] { $email }, 1 av { $count }: trykk Enter for å redigere, Slett for å fjerne.
     }
-
 pill-action-edit =
     .label = Rediger adresse
     .accesskey = e
-
 pill-action-move-to =
-    .label = Flytt til Til
+    .label = Flytt til Til-feltet
     .accesskey = t
-
 pill-action-move-cc =
-    .label = Flytt til Kopi
+    .label = Flytt til Kopi-feltet
     .accesskey = K
-
 pill-action-move-bcc =
-    .label = Flytt til Blindkopi
+    .label = Flytt til Blindkopi-feltet
     .accesskey = B
