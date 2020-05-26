@@ -3,6 +3,16 @@
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 
+## The main browser window's title
+
+# This gets set as the initial title, and is overridden as soon as we start
+# updating the titlebar based on loaded tabs or private browsing state.
+# This should match the `data-title-default` attribute in both
+# `browser-main-window` and `browser-main-window-mac`.
+browser-main-window-title = { -brand-full-name }
+
+##
+
 urlbar-identity-button =
     .aria-label = មើល​ព័ត៌មាន​តំបន់បណ្ដាញ
 
@@ -73,12 +83,10 @@ urlbar-canvas-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់​ការដកទិន្នន័យ​កម្មវិធីកែ​រូបភាព​សម្រាប់​គេហទំព័រ​នេះ។
 urlbar-midi-blocked =
     .tooltiptext = អ្នក​បាន​ទប់ស្កាត់ការចូលប្រើ MIDI សម្រាប់​គេហទំព័រ​នេះ។
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the edit bookmark command.
 urlbar-star-edit-bookmark =
     .tooltiptext = កែសម្រួល​ចំណាំ​នេះ ({ $shortcut })
-
 # Variables
 #   $shortcut (String) - A keyboard shortcut for the add bookmark command.
 urlbar-star-add-bookmark =
@@ -110,7 +118,6 @@ search-one-offs-change-settings-button =
     .label = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
 search-one-offs-change-settings-compact-button =
     .tooltiptext = ផ្លាស់ប្ដូរ​ការ​កំណត់​ស្វែងរក
-
 search-one-offs-context-open-new-tab =
     .label = ស្វែងរក​នៅ​ក្នុង​ផ្ទាំង​ថ្មី
     .accesskey = T
@@ -122,7 +129,6 @@ search-one-offs-context-set-as-default =
 
 bookmark-panel-done-button =
     .label = ធ្វើ​រួច
-
 # Width of the bookmark panel.
 # Should be large enough to fully display the Done and
 # Cancel/Remove Bookmark buttons.
@@ -182,6 +188,9 @@ popup-select-microphone =
     .accesskey = M
 popup-all-windows-shared = បង្អួច​ទាំងអស់​​ដែល​អាច​មើល​ឃើញ​នៅ​លើ​អេក្រង់​របស់​អ្នក​នឹង​ត្រូវ​បាន​ចែករំលែក។
 
+## WebRTC window or screen share tab switch warning
+
+
 ## DevTools F12 popup
 
 
@@ -195,11 +204,9 @@ urlbar-remote-control-notification-anchor =
     .tooltiptext = កម្មវិធី​អ៊ីនធឺណិត​គឺ​ស្ថិត​ក្រោម​ការ​ត្រួតពិនិត្យ​ពី​ចម្ងាយ
 urlbar-switch-to-tab =
     .value = ប្ដូរ​ទៅ​ផ្ទាំង៖
-
 # Used to indicate that a selected autocomplete entry is provided by an extension.
 urlbar-extension =
     .value = ផ្នែក​បន្ថែម៖
-
 urlbar-go-button =
     .tooltiptext = ទៅកាន់​អាសយដ្ឋាន​ក្នុង​របារ​ទីតាំង
 urlbar-page-action-button =
