@@ -14,15 +14,15 @@ cfr-doorhanger-pintab-heading = ئەمە تاقیبکەرەوە: بازدەر ج
 cfr-doorhanger-extension-sumo-link =
     .tooltiptext = بۆ من ئەمە دەبینم؟
 cfr-doorhanger-extension-cancel-button = بۆیە ئەگەر بکرێتە ئێستا نا
-    .accesskey = N
+    .accesskey = ۆ
 cfr-doorhanger-extension-ok-button = ئێستا زیادی بکە
-    .accesskey = A
+    .accesskey = ز
 cfr-doorhanger-pintab-ok-button = ئەم بازدەرە جێگیر بکە
-    .accesskey = P
+    .accesskey = ج
 cfr-doorhanger-extension-manage-settings-button = بەڕێوەبردنی ڕێکخستنەکانی پێشنیارکراو
-    .accesskey = M
+    .accesskey = ب
 cfr-doorhanger-extension-never-show-recommendation = ئەم پێشنیارکراوەم پیشان مەدە
-    .accesskey = S
+    .accesskey = پ
 cfr-doorhanger-extension-learn-more-link = زیاتر بزانە
 # This string is used on a new line below the add-on name
 # Variables:
@@ -61,6 +61,11 @@ cfr-doorhanger-pintab-animation-resume = بەردەوامبوونەوە
 
 ## Firefox Accounts Message
 
+cfr-doorhanger-bookmark-fxa-header = دڵخوازەکان لە هەموو شوێنێک هاوکاتگەری پێبکە.
+cfr-doorhanger-bookmark-fxa-link-text = ئێستا دڵخوازەکان هاوکاتگەری پێبکە...
+cfr-doorhanger-bookmark-fxa-close-btn-tooltip =
+    .aria-label = دوگمەی داخستن
+    .title = داخستن
 
 ## Protections panel
 
