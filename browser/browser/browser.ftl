@@ -266,12 +266,18 @@ popup-select-microphone =
     .value = Microphone à partager :
     .accesskey = M
 popup-all-windows-shared = L’ensemble des fenêtres visibles sur votre écran seront partagées.
+popup-screen-sharing-not-now =
+    .label = Plus tard
+    .accesskey = P
 popup-screen-sharing-never =
     .label = Ne jamais autoriser
     .accesskey = N
+popup-silence-notifications-checkbox = Désactiver les notifications de { -brand-short-name } pendant le partage
+popup-silence-notifications-checkbox-warning = { -brand-short-name } n’affichera pas de notifications pendant le partage.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-screen = Vous partagez votre écran. D’autres personnes peuvent voir quand vous changez d’onglet.
 
 ## DevTools F12 popup
 
