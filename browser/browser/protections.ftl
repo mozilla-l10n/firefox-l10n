@@ -176,6 +176,23 @@ monitor-manage-breaches-link = Administrar violaciones
     .title = Administrar violaciones en { -monitor-brand-short-name }
 monitor-breaches-resolved-title = ¡Bien! Resolvió todas las violaciones conocidas.
 monitor-breaches-resolved-description = Si su correo electrónico aparece en cualquier nueva violación, se lo vamos a comunicar.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numResolvedBreaches } de  { $numTotalBreaches } violación marcada como resuelta
+       *[other] { $numResolvedBreaches } de  { $numTotalBreaches } violaciones marcadas como resueltas
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved } % completo
+monitor-partial-breaches-motivation-title-start = ¡Gran comienzo!
+monitor-partial-breaches-motivation-title-middle = ¡Siga así!
+monitor-partial-breaches-motivation-title-end = ¡Casi terminado! Siga así.
+monitor-partial-breaches-motivation-desc = Resuelva las demás violaciones en { -monitor-brand-short-name } { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Resolver violaciones
+    .title = Resolver violaciones en { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
