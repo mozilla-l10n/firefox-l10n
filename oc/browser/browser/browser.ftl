@@ -269,6 +269,10 @@ popup-all-windows-shared = L'ensemble de las fenèstras visiblas sus vòstre ecr
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Passar a l’onglet
+sharing-warning-disable-for-session =
+    .label = Desactivar lo partiment per aquesta session
 
 ## DevTools F12 popup
 
