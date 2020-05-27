@@ -13,7 +13,7 @@
 webrtc-indicator-title = { -brand-short-name } - Indicator de partatge
 webrtc-sharing-window = Partejatz una autra fenèstra d’aplicacion.
 webrtc-sharing-browser-window = Partejatz { -brand-short-name }.
-webrtc-sharing-screen = Partejatz l’ecran complèt.
+webrtc-sharing-screen = Partejatz l’ecran complet.
 webrtc-stop-sharing-button = Arrestar lo partiment
 webrtc-microphone-button =
     .title = Vòstre microfòn es partejat. Clicar per contrarotlar lo partiment.
