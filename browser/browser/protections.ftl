@@ -160,6 +160,7 @@ password-warning =
         [one] senhal salvat pòt aver estat divulgat via una pèrda de donadas. Cambiatz aqueste senhal per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
        *[other] senhals salvats pòdon aver estats divulgats via una pèrda de donadas. Cambiatz aquestes senhals per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
     }
+monitor-no-breaches-title = Bona novèla !
 monitor-view-report-link = Veire lo rapòrt
     .title = Resòlver las divulgacions sus { -monitor-brand-short-name }
 # Variables:
