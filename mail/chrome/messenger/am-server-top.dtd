@@ -68,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "a">
 <!ENTITY newsrcFilePath.label "newsrc-bestand:">
 <!ENTITY newsrcPicker.label "newsrc-bestand selecteren">
+<!ENTITY newsrcFilePath1.label "News.rc-bestand:">
+<!ENTITY newsrcPicker1.label "News.rc-bestand selecteren">
 <!ENTITY abbreviate.label "Nieuwsgroepnamen in het berichtenmapvenster tonen als:">
 <!ENTITY abbreviateOn.label "Volledige namen (bijvoorbeeld ‘netscape.public.mozilla.mail-news’)">
 <!ENTITY abbreviateOff.label "Afgekorte namen (bijvoorbeeld ‘n.p.m.mail-news’)">
@@ -75,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "G">
 <!ENTITY serverDefaultCharset2.label "Standaard tekstcodering:">
 <!ENTITY localPath.label "Lokale map:">
+<!ENTITY localPath1.label "Lokale map:">
 <!ENTITY localFolderPicker.label "Lokale map selecteren">
 <!ENTITY browseFolder.label "Bladeren…">
 <!ENTITY browseFolder.accesskey "B">
