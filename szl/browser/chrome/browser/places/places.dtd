@@ -85,7 +85,23 @@
 
 <!ENTITY maintenance.label      "Import i ibryczne kopie">
 <!ENTITY maintenance.accesskey  "I">
+<!ENTITY maintenance.tooltip    "Importuj i zrychtuj ibryczne kopie swojich zokłodek">
 
+<!ENTITY backButton.tooltip  "Nazod">
 
+<!ENTITY forwardButton.tooltip  "Do przodku">
 
+<!ENTITY detailsPane.selectAnItemText.description "Ôbier elymynt, coby pokozać i edytować jego włosności">
 
+<!ENTITY view.label               "Pokoż">
+<!ENTITY view.accesskey           "w">
+<!ENTITY byDate.label             "Podug daty">
+<!ENTITY byDate.accesskey         "D">
+<!ENTITY bySite.label             "Podug strōny">
+<!ENTITY bySite.accesskey         "S">
+<!ENTITY byMostVisited.label      "Podug wielości byzuchōw">
+<!ENTITY byMostVisited.accesskey  "w">
+<!ENTITY byLastVisited.label      "Podug ôstatnigo byzuchu">
+<!ENTITY byLastVisited.accesskey  "o">
+<!ENTITY byDayAndSite.label       "Podug daty i strōny">
+<!ENTITY byDayAndSite.accesskey   "t">
