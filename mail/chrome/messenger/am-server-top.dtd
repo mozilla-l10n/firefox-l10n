@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- extracted from am-server-top.xul -->
-
 <!ENTITY messageStorage.label "Lagring av meddelanden">
 <!ENTITY securitySettings.label "Säkerhetsinställningar">
 <!ENTITY serverSettings.label "Serverinställningar">
@@ -15,7 +13,7 @@
 <!ENTITY port.label "Port:">
 <!ENTITY port.accesskey "P">
 <!ENTITY serverPortDefault.label "Standard:">
-<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammer dependency
+<!-- LOCALIZATION NOTE (biffStart.label) : translate below 2 line with grammar dependency
         For example, in Japanese cases:
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
@@ -60,7 +58,7 @@
 <!ENTITY loginAtStartup.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
-   of messages between them
+    of messages between them
 -->
 <!ENTITY maxMessagesStart.label "Fråga innan mer än ">
 <!ENTITY maxMessagesStart.accesskey "F">
@@ -70,6 +68,8 @@
 <!ENTITY alwaysAuthenticate.accesskey "e">
 <!ENTITY newsrcFilePath.label "newsrc-fil:">
 <!ENTITY newsrcPicker.label "Välj newsrc-fil">
+<!ENTITY newsrcFilePath1.label "News.rc-fil:">
+<!ENTITY newsrcPicker1.label "Välj News.rc-fil">
 <!ENTITY abbreviate.label "Visa namn på diskussionsgrupper:">
 <!ENTITY abbreviateOn.label "i sin helhet (Exempelvis, ”netscape.public.mozilla.mail-news”)">
 <!ENTITY abbreviateOff.label "som förkortning (Exempelvis, ”n.p.m.mail-news”)">
@@ -77,6 +77,7 @@
 <!ENTITY advancedButton.accesskey "c">
 <!ENTITY serverDefaultCharset2.label "Standardtextkodning:">
 <!ENTITY localPath.label "Lokal katalog:">
+<!ENTITY localPath1.label "Lokal katalog:">
 <!ENTITY localFolderPicker.label "Välj lokal katalog">
 <!ENTITY browseFolder.label "Bläddra…">
 <!ENTITY browseFolder.accesskey "B">
