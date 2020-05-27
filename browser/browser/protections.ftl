@@ -37,6 +37,7 @@ etp-card-title = Proteccion contra lo seguiment renfortida
 etp-card-content = Los traçadors vos pistan en linha per reculhir d’informacions sus vòstras abituds de navegacion e vòstres interèsses. { -brand-short-name } bloca fòrça d’aqueles elements de seguiment e scripts malvolents.
 protection-report-webpage-title = Taula de bòrd de las proteccions
 protection-report-page-content-title = Taula de bòrd de las proteccions
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } pòt protegir vòstra vida privada en colissa pendent que navegatz. Vaquí un resumit d’aquelas proteccions, que conten d’aisinas per contrarotlar vòstre seguretat en linha.
 protection-report-settings-link = Gerir los paramètres de vida privada e de seguretat
 etp-card-title-always = Proteccion renfortida contra lo seguiment : totjorn activada
@@ -59,8 +60,6 @@ fingerprinter-tab-title = Generadors d’emprentas numericas
 fingerprinter-tab-content = Los generadors d’emprentas numericas reculhisson los paramètres del navegador e de l’ordenador per crear un perfil vòstre. En utilizant aquesta emprenta numerica vos pòdon seguir de site en site. <a data-l10n-name="learn-more-link">Ne saber mai</a>
 cryptominer-tab-title = Minaires de criptomonedas
 cryptominer-tab-content = Los minaires de criptomoneda utilizan la poténcia de calcul de vòstre ordenador per minar de moneda numerica. Los scripts de minaires sollicitan la bateria, alentisson l’ordenador e aumentan vòstra factura d’electricitat. <a data-l10n-name="learn-more-link">Ne saber mai</a>
-protections-close-button =
-    .aria-label = Tampar
 protections-close-button2 =
     .aria-label = Tampar
     .title = Tampar
@@ -161,6 +160,13 @@ password-warning =
         [one] senhal salvat pòt aver estat divulgat via una pèrda de donadas. Cambiatz aqueste senhal per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
        *[other] senhals salvats pòdon aver estats divulgats via una pèrda de donadas. Cambiatz aquestes senhals per mai de seguretat en linha. <a data-l10n-name="lockwise-link">Veire los senhals salvats</a>
     }
+monitor-view-report-link = Veire lo rapòrt
+    .title = Resòlver las divulgacions sus { -monitor-brand-short-name }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% acabat
+monitor-partial-breaches-motivation-title-start = Bona debuta !
+monitor-partial-breaches-motivation-title-middle = Gardatz lo ritme !
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
