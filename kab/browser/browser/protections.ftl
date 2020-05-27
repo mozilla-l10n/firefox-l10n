@@ -186,6 +186,8 @@ monitor-partial-breaches-title =
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
 monitor-partial-breaches-percentage = { $percentageResolved }% immed
 monitor-partial-breaches-motivation-title-start = Beddu igerrzen!
+monitor-partial-breaches-motivation-title-middle = Kemmel!
+monitor-partial-breaches-motivation-title-end = Qrib ad yemmed! Kemmel.
 monitor-partial-breaches-motivation-desc = Fru tirewliwin i d-yeqqimen deg { -monitor-brand-short-name }
 monitor-resolve-breaches-link = Fru tirewliwin
     .title = Fru tirewliwin deg { -monitor-brand-short-name }
