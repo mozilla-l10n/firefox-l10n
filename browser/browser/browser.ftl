@@ -266,6 +266,9 @@ popup-select-microphone =
     .value = Microphone à partager :
     .accesskey = M
 popup-all-windows-shared = L’ensemble des fenêtres visibles sur votre écran seront partagées.
+popup-screen-sharing-never =
+    .label = Ne jamais autoriser
+    .accesskey = N
 
 ## WebRTC window or screen share tab switch warning
 
