@@ -37,6 +37,7 @@ etp-card-title = Protection antitraciamento reinfortiate
 etp-card-content = Le traciatores te seque in linea pro colliger informationes sur tu habitos e interesses de navigation. { -brand-short-name } bloca multes de iste traciatores e altere scripts maligne.
 protection-report-webpage-title = Pannello de protectiones
 protection-report-page-content-title = Pannello de protectiones
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } pote proteger tu vita private durante que tu naviga. Ecce un summario personal de iste protectiones, con utensiles pro prender le controlo de tu securitate in linea.
 protection-report-settings-link = Gerer tu confidentialitate e parametros de securitate
 etp-card-title-always = Protection antitraciamento reinfortiate: Sempre active
@@ -59,8 +60,6 @@ fingerprinter-tab-title = Dactylogrammatores
 fingerprinter-tab-content = Le dactylogrammatores collige parametros de tu navigator e computator pro crear un profilo de te. Usante iste identitate digital, illos pote traciar te inter differente sitos web. <a data-l10n-name="learn-more-link">Lege plus</a>
 cryptominer-tab-title = Cryptominatores
 cryptominer-tab-content = Cryptominatores usa le potentia de calculo de tu systema pro excavar moneta digital. Scripts de cryptominage exhauri tu batteria, relenta tu computator e pote accrescer le factura de tu energia.<a data-l10n-name="learn-more-link">Saper plus</a>
-protections-close-button =
-    .aria-label = Clauder
 protections-close-button2 =
     .aria-label = Clauder
     .title = Clauder
@@ -161,6 +160,8 @@ password-warning =
         [one] Le credential salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasigno pro melior securitate online. <a data-l10n-name="lockwise-link">Vide le credential salvate</a>
        *[other] Credentiales salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasignos pro melior securitate online. <a data-l10n-name="lockwise-link">Vide credentiales salvate</a>
     }
+monitor-no-breaches-title = Bon novas!
+monitor-breaches-unresolved-title = Resolver tu violationes
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.

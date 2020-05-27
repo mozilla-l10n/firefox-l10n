@@ -277,6 +277,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } non monstra
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Procede al scheda
 
 ## DevTools F12 popup
 
