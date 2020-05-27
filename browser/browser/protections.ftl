@@ -37,7 +37,10 @@ etp-card-title = Protección contra rastreo aumentada
 etp-card-content = Los rastreadores lo siguen en línea para recopilar información sobre sus hábitos e intereses de navegación. { -brand-short-name } bloquea muchos de estos rastreadores y otros scripts maliciosos.
 protection-report-webpage-title = Panel de protecciones
 protection-report-page-content-title = Panel de protecciones
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } puede proteger su privacidad detrás de escena mientras navega. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de su seguridad en línea.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name }  protege su privacidad detrás de escena mientras navega. Este es un resumen personalizado de esas protecciones, incluidas las herramientas para tomar el control de su seguridad en línea.
 protection-report-settings-link = Administrar su configuración de privacidad y seguridad
 etp-card-title-always = Protección de seguimiento mejorada: siempre activa
 etp-card-title-custom-not-blocking = Protección contra rastreo aumentada: desactivada
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Detectores de huellas digitales
 fingerprinter-tab-content = Los detectores de huellas digitales recolectan los ajustes de su navegador y su computadora para crear un perfil suyo. Usando esta huella digital pueden seguirlo a través de diferentes sitios web. <a data-l10n-name="learn-more-link">Conocer más</a>
 cryptominer-tab-title = Criptomineros
 cryptominer-tab-content = Los criptomineros utilizan la potencia informática de su sistema para extraer dinero digital. Las secuencias de comandos de cifrado de los mismos agotan su batería, ralentizan su computadora y pueden aumentar su factura de electricidad. <a data-l10n-name="learn-more-link">. Conocer más </a>
-protections-close-button =
-    .aria-label = Cerrar
 protections-close-button2 =
     .aria-label = Cerrar
     .title = Cerrar
@@ -121,6 +122,8 @@ monitor-link = Cómo funciona
 monitor-header-content-no-account = Controle { -monitor-brand-name } para ver si fue parte de una violación de datos conocida y para recibir alertas sobre nuevas violaciones.
 monitor-header-content-signed-in = { -monitor-brand-name } le advierte si su información apareció en una violación de datos conocida.
 monitor-sign-up = Regístrese para recibir alertas de violaciones
+monitor-sign-up-link = Regístrese para recibir alertas de violaciones
+    .title = Regístrese  en { -monitor-brand-name } para recibir alertas de violaciones
 auto-scan = Escaneado automáticamente hoy
 monitor-emails-tooltip =
     .title = Ver las direcciones de correo electrónico monitoreadas en { -monitor-brand-short-name }
@@ -161,6 +164,18 @@ password-warning =
         [one] El inicio de sesión guardado puede haber estado expuesto en una violación de datos. Cambie esta contraseña para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
        *[other] Los inicios de sesión guardados pueden haber estado expuestos en una violación de datos. Cambie estas contraseñas para una mejor seguridad en línea. <a data-l10n-name="lockwise-link">Ver inicios de sesión guardados</a>
     }
+monitor-no-breaches-title = ¡Buenas noticias!
+monitor-no-breaches-description = No tiene violaciones conocidas. Si eso cambia, se lo vamos a comunicar.
+monitor-view-report-link = Ver el informe
+    .title = Resolver las violaciones en { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Resolver las violaciones
+monitor-breaches-unresolved-description =
+    Después de revisar los detalles de la violaciones y tomar medidas para proteger
+    su información personal, puede marcarlas como resueltas.
+monitor-manage-breaches-link = Administrar violaciones
+    .title = Administrar violaciones en { -monitor-brand-short-name }
+monitor-breaches-resolved-title = ¡Bien! Resolvió todas las violaciones conocidas.
+monitor-breaches-resolved-description = Si su correo electrónico aparece en cualquier nueva violación, se lo vamos a comunicar.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
