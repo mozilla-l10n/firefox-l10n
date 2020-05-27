@@ -425,6 +425,7 @@
 <!ENTITY deleteButton.label "Excluir ">
 <!ENTITY undeleteButton.label "Restaurar">
 <!ENTITY markButton.label "Marcar">
+<!ENTITY printButton.label "Imprimir">
 <!ENTITY stopButton.label "Parar ">
 <!ENTITY junkButton.label "Lixo">
 <!ENTITY notJunkButton.label "Não spam">
@@ -448,6 +449,7 @@
 <!ENTITY deleteButton.tooltip "Excluir os itens selecionados">
 <!ENTITY undeleteButton.tooltip "Restaurar mensagem selecionadas">
 <!ENTITY markButton.tooltip "Marcar mensagens">
+<!ENTITY printButton.tooltip "Imprimir esta mensagem">
 <!ENTITY stopButton.tooltip "Interromper a transferência atual">
 <!ENTITY throbber.tooltip "Abrir o site do &vendorShortName; ">
 <!ENTITY throbber.tooltip2 "Ir para a página inicial do &brandShortName;">
