@@ -123,7 +123,7 @@ lockwise-connected-device-status =
         [few] Під'єднано до { $count } пристроїв
        *[many] Під'єднано до { $count } пристроїв
     }
-monitor-title = Стежте за витоками даних
+monitor-title = Стеження за витоками даних
 monitor-link = Як це працює
 monitor-header-content-no-account = Спробуйте { -monitor-brand-name }, щоб перевірити чи ви потрапили до відомого витоку даних, а також отримуйте попередження про нові витоки.
 monitor-header-content-signed-in = { -monitor-brand-name } попереджає вас, якщо ваша інформація з'явилася у відомих витоках даних.
