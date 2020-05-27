@@ -278,6 +278,11 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } ur yeskanay
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-window = Tbeṭṭuḍ { -brand-short-name }. Imdanen-nniḍen zemren ad walin mi ara tedduḍ ɣer yiccer amaynut.
+sharing-warning-screen = Tbeṭṭuḍ akk agdil-inek . Imdanen-nniḍen zemren ad walin mi ara tedduḍ ɣer yiccer amaynut.
+sharing-warning-proceed-to-tab =
+    .label = Ɛeddi ɣeryiccer
+sharing-warning-disable-for-session =
+    .label = Kkes beṭṭu n urmad n ummesten n tɣimit-a
 
 ## DevTools F12 popup
 
