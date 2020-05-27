@@ -31,8 +31,9 @@
 <!ENTITY PhoneticField2.label           "Fonético:">
 <!ENTITY DisplayName.label              "Apresentar como:">
 <!ENTITY DisplayName.accesskey          "m">
-<!ENTITY preferDisplayName.label        "Usar o nome de &quot;Apresentar como&quot; ao exibir mensagens">
-<!ENTITY preferDisplayName.accesskey    "a">
+<!ENTITY preferDisplayName.label        "Preferir sempre mostrar o nome sobre o cabeçalho da mensagem">
+<!ENTITY preferDisplayName.accesskey    "S">
+<!ENTITY preferDisplayName2.accesskey   "s">
 <!ENTITY NickName.label                 "Apelido:">
 <!ENTITY NickName.accesskey             "A">
 
