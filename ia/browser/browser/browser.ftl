@@ -279,6 +279,8 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } non monstra
 
 sharing-warning-proceed-to-tab =
     .label = Procede al scheda
+sharing-warning-disable-for-session =
+    .label = Disactivar le protection del compartimento pro iste session
 
 ## DevTools F12 popup
 
