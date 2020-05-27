@@ -169,6 +169,22 @@ monitor-no-breaches-description = Ur tesεiḍ ara tirewliwin ur nettwassen ara.
 monitor-view-report-link = Wali aneqqis
     .title = Fru tirewliwin deg { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Fru tirewliwin-inek
+monitor-breaches-unresolved-description = Mbeεd asenqed n ttfaṣil n trewliwin yerzan tarewla syen tḍefreḍ imecwaṛen n uḥraz n talɣut-inek, tzemreḍ ad tcerḍeḍ ɣef trewliwin frant.
+monitor-manage-breaches-link = Sefrek tirewliwin
+    .title = Sefrek tirewliwin deg { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Igerrez! Tefriḍ akk tirewliwin yettwassnen.
+monitor-breaches-resolved-description = Ma yella imayl-inek iban-d deg kra n trewliwin, ad ak-id-nselɣu.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } seg { $numBreaches } trewla yettucarḍen tefra
+       *[other] { $numBreachesResolved } seg { $numBreaches } trewliwin yettucarḍen frant
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% immed
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
