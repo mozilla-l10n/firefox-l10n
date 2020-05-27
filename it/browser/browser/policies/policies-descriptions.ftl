@@ -57,6 +57,7 @@ policy-ExtensionSettings = Gestisci tutti gli aspetti connessi all’installazio
 policy-ExtensionUpdate = Attiva o disattiva l’aggiornamento automatico delle estensioni.
 policy-FirefoxHome = Configura Firefox Home.
 policy-FlashPlugin = Consenti o nega l’utilizzo del plugin Flash.
+policy-Handlers = Configura i gestori predefiniti dell’applicazione.
 policy-HardwareAcceleration = Se “false”, disattiva l’accelerazione hardware.
 policy-Homepage = Imposta la pagina iniziale ed eventualmente impedisci modifiche all’opzione.
 policy-InstallAddonsPermission = Consenti a determinati siti web di installare componenti aggiuntivi.
