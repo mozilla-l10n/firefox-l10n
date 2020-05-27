@@ -39,6 +39,8 @@ protection-report-webpage-title = Säkerhetsöversikt
 protection-report-page-content-title = Säkerhetsöversikt
 # This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } kan skydda din integritet bakom kulisserna medan du surfar. Detta är en personlig sammanfattning av dessa skydd, inklusive verktyg för att ta kontroll över din online-säkerhet.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } skyddar din integritet bakom kulisserna medan du surfar. Detta är en personlig sammanfattning av dessa skydd, inklusive verktyg för att ta kontroll över din online-säkerhet.
 protection-report-settings-link = Hantera dina integritets och säkerhetsinställningar
 etp-card-title-always = Förbättrat spårningsskydd: Alltid på
 etp-card-title-custom-not-blocking = Förbättrat spårningsskydd: Av
@@ -163,6 +165,7 @@ password-warning =
        *[other] Lagrade lösenord kan ha avslöjats i ett intrång. Ändra dessa lösenord för att nå en bättre säkerhet online. <a data-l10n-name="lockwise-link">Visa lagrade lösenord</a>
     }
 monitor-no-breaches-title = Goda nyheter!
+monitor-no-breaches-description = Du har inga kända intrång. Om det ändras, kommer vi att meddela dig.
 monitor-partial-breaches-motivation-title-start = Bra start!
 monitor-partial-breaches-motivation-title-middle = Fortsätt så!
 monitor-partial-breaches-motivation-title-end = Nästan klar! Fortsätt så.
