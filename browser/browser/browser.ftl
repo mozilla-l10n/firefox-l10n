@@ -266,9 +266,23 @@ popup-select-microphone =
     .value = Chia sẻ micro:
     .accesskey = M
 popup-all-windows-shared = Tất cả các cửa sổ trên màn hình sẽ được chia sẻ.
+popup-screen-sharing-not-now =
+    .label = Không phải bây giờ
+    .accesskey = w
+popup-screen-sharing-never =
+    .label = Không bao giờ cho phép
+    .accesskey = N
+popup-silence-notifications-checkbox = Vô hiệu hóa thông báo từ { -brand-short-name } trong khi chia sẻ
+popup-silence-notifications-checkbox-warning = { -brand-short-name } sẽ không hiển thị thông báo trong khi bạn đang chia sẻ.
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-window = Bạn đang chia sẻ { -brand-short-name }. Người khác có thể thấy khi bạn chuyển sang một thẻ mới.
+sharing-warning-screen = Bạn đang chia sẻ toàn bộ màn hình của bạn. Người khác có thể thấy khi bạn chuyển sang một thẻ mới.
+sharing-warning-proceed-to-tab =
+    .label = Tiếp tục với thẻ
+sharing-warning-disable-for-session =
+    .label = Vô hiệu hóa bảo vệ chia sẻ cho phiên này
 
 ## DevTools F12 popup
 
