@@ -37,7 +37,10 @@ etp-card-title = Ammesten mgal aḍfaṛ yettwaseǧhed
 etp-card-content = Ineḍfaṛen ad k-ḍefṛen srid akken ad leqḍen talɣut ɣef tnumi-ik n tunigin akked wayen tḥemmleḍ. { -brand-short-name } ad yessewḥel ddeqs n yineḍfaṛen-a akked yir iskripten.
 protection-report-webpage-title = Ammesten n tfelwit n usenqed
 protection-report-page-content-title = Ammesten n tfelwit n usenqed
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } yezmer ad yeḥrez tabaḍnit-ik ɣef wayen yeffren mi ara tettinigeḍ. D agzul udmawan n tigra-nni, daɣen akked yifecka akken ad yezg usenqed n tɣellist-inek srid.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } Iḥerrez tabaḍnit-ik ɣef wayen yeffren mi ara tettinigeḍ. D agzul udmawan n tigra-nni, daɣen akked yifecka akken ad yezg usenqed n tɣellist-inek srid.
 protection-report-settings-link = Sefrek iɣewwaṛen-ik n tbaḍnit d tɣellist.
 etp-card-title-always = Ammesten mgal aḍfaṛ yettwaseǧhed: Yezga iteddu
 etp-card-title-custom-not-blocking = Ammesten mgal aḍfaṛ yettwaseǧhed: Yensa
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Idsilen umḍinen
 fingerprinter-tab-content = Idsilen umḍinen leqqḍen-d iɣewwaṛen seg yiminig-ik akked uselkim-ik akken ad rnun amaqnu fell-ak. Aseqdec n udsil-a umḍin, zemren ad k-ḍefṛen gar yismal iɣer i trezzuḍ. <a data-l10n-name="learn-more-link">Issin ugar</a>
 cryptominer-tab-title = Ikripṭuminaren
 cryptominer-tab-content = Ikripṭuminaren seqdacen tazmert n usiḍen n unagraw-ik akken ad kksen tadrimt tumḍint. Iskripten n yikripṭuminaren sseɣṣen aẓru-ik, saẓayen aselkim-ik, daɣen zemren ad salin tafaturt-ik n ṣṣehd. <a data-l10n-name="learn-more-link">Issin ugar</a>
-protections-close-button =
-    .aria-label = Mdel
 protections-close-button2 =
     .aria-label = Mdel
     .title = Mdel
@@ -121,6 +122,8 @@ monitor-link = Amek iteddu
 monitor-header-content-no-account = Ddu ɣer { -monitor-brand-name } akken ad wali ḍ ma tella trewla n yisefka i k-iḥuzan daɣen akken ad tremseḍ ilɣa ticki llant trewliwi timaynutin.
 monitor-header-content-signed-in = { -monitor-brand-name } ad k-id-yelɣu ma yella talɣut-ik tban-d deg trewla n yisefka yettwassnen.
 monitor-sign-up = jerred ɣer yilɣa n trewla n yisefa
+monitor-sign-up-link = jerred ɣer yilɣa n trewla n yisefa
+    .title = jerred ɣer yilɣa n trewla n yisefa deg { -monitor-brand-name }
 auto-scan = Yettwasenqed ass-a akken iwata
 monitor-emails-tooltip =
     .title = Sken tansiwin n yimayl yettuεassen ɣef { -monitor-brand-short-name }
@@ -161,6 +164,11 @@ password-warning =
         [one] Awal-a uffir yettwaskelsen izmer ad tḥaz-it trewla n yisefka. Beddel awal-a uffir i tɣellist-ik srid.<a data-l10n-name="lockwise-link">Wali awalen uffiren yettwaskelsen</a>
        *[other] Awalen uffiren yettwaskelsen zemren ad ten-tḥaz trewla n yisefka. Beddel awalen-a uffiren i tɣellist-ik srid.<a data-l10n-name="lockwise-link">Wali awalen uffiren yettwaskelsen</a>
     }
+monitor-no-breaches-title = Isallen igerrzen!
+monitor-no-breaches-description = Ur tesεiḍ ara tirewliwin ur nettwassen ara. Ma yellaibeddel waya, ad ak-nselɣu.
+monitor-view-report-link = Wali aneqqis
+    .title = Fru tirewliwin deg { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Fru tirewliwin-inek
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
