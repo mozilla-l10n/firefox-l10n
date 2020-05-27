@@ -54,6 +54,7 @@
 <!ENTITY editLinkCmd.accesskey "u">
 
 <!-- Font Face SubMenu -->
+<!ENTITY FontFaceSelect.title "Kirjasinlaji">
 <!ENTITY FontFaceSelect.tooltip "Valitse kirjasinlaji">
 <!ENTITY fontfaceMenu.label "Kirjasinlaji">
 <!ENTITY fontfaceMenu.accesskey "K">
@@ -70,6 +71,7 @@
 <!ENTITY fontCourier.accesskey "C">
 
 <!-- Font Size SubMenu -->
+<!ENTITY FontSizeSelect.title "Kirjasinkoko">
 <!ENTITY FontSizeSelect.tooltip "Valitse kirjasinten koko">
 <!ENTITY decreaseFontSize.label "Pienempi">
 <!ENTITY decreaseFontSize.accesskey "P">
@@ -180,6 +182,7 @@
 <!ENTITY listPropsCmd.label "Luettelon ominaisuudet…">
 <!ENTITY listPropsCmd.accesskey "L">
 
+<!ENTITY ParagraphSelect.title "Kappale">
 <!ENTITY ParagraphSelect.tooltip "Valitse kappaleen muotoilu">
 <!-- Shared in Paragraph, and Toolbar menulist -->
 <!ENTITY bodyTextCmd.label "Leipäteksti">
@@ -206,7 +209,9 @@
 
 <!-- Layer toolbar items -->
 <!ENTITY layer.tooltip "Taso">
+<!ENTITY decreaseZIndex.label "Vie taakse">
 <!ENTITY layerSendToBack.tooltip "Siirrä taaimmaiseksi">
+<!ENTITY increaseZIndex.label "Tuo eteen">
 <!ENTITY layerBringToFront.tooltip "Nosta päällimmäiseksi">
 
 <!ENTITY increaseIndent.label "Lisää sisennystä">
@@ -304,6 +309,7 @@
 <!ENTITY linkToolbarCmd.tooltip "Lisää uusi linkki tai muokkaa valitun linkin ominaisuuksia">
 <!ENTITY anchorToolbarCmd.label "Ankkuri">
 <!ENTITY anchorToolbarCmd.tooltip "Lisää uusi ankkuri tai muokkaa valitun ankkurin ominaisuuksia">
+<!ENTITY colorButtons.title "Värit">
 <!ENTITY TextColorButton.tooltip "Valitse tekstin väri">
 <!ENTITY BackgroundColorButton.tooltip "Valitse taustaväri">
 <!ENTITY throbber.tooltip "Siirry &vendorShortName;n kotisivulle">
@@ -311,21 +317,37 @@
 <!ENTITY HighlightColorButton.tooltip "Valitse tekstin korostusväri">
 
 <!-- Editor toolbar -->
+<!ENTITY absoluteFontSize.label "Kirjasinkoko">
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Muuta kirjasinkokoa">
+<!ENTITY smaller.label "Pienempi">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Pienempi kirjasinkoko">
+<!ENTITY larger.label "Suurempi">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Suurempi kirjasinkoko">
+<!ENTITY bold.label "Lihavoitu">
 <!ENTITY boldToolbarCmd.tooltip "Lihavoi">
+<!ENTITY italic.label "Kursivoitu">
 <!ENTITY italicToolbarCmd.tooltip "Kursivoi">
+<!ENTITY underline.label "Alleviivattu">
 <!ENTITY underlineToolbarCmd.tooltip "Alleviivaa">
+<!ENTITY bullets.label "Luettelomerkit">
 <!ENTITY bulletListToolbarCmd.tooltip "Lisää tai poista numeroimaton lista">
+<!ENTITY numbers.label "Numerointi">
 <!ENTITY numberListToolbarCmd.tooltip "Lisää tai poista numeroitu lista">
+<!ENTITY outdent.label "Vähennä sisennystä">
 <!ENTITY outdentToolbarCmd.tooltip "Vähennä sisennystä (siirrä vasemmalle)">
+<!ENTITY indent.label "Lisää sisennystä">
 <!ENTITY indentToolbarCmd.tooltip "Lisää sisennystä (siirrä oikealle)">
+<!ENTITY AlignPopupButton.label "Tasaus">
 <!ENTITY AlignPopupButton.tooltip "Valitse tekstin tasaus">
+<!ENTITY InsertPopupButton.label "Lisää">
 <!ENTITY InsertPopupButton.tooltip "Lisää linkki, ankkuri, kuva, vaakaviiva tai taulukko">
+<!ENTITY alignLeftButton.label "Tasaa vasemmalle">
 <!ENTITY alignLeftButton.tooltip "Tasaa teksti vasemman marginaalin mukaan">
+<!ENTITY alignCenterButton.label "Tasaa keskelle">
 <!ENTITY alignCenterButton.tooltip "Tasaa teksti keskelle">
+<!ENTITY alignRightButton.label "Tasaa oikealle">
 <!ENTITY alignRightButton.tooltip "Tasaa teksti oikean marginaalin mukaan">
+<!ENTITY alignJustifyButton.label "Tasaa vakioleveyteen">
 <!ENTITY alignJustifyButton.tooltip "Tasaa teksti vasemman ja oikean marginaalin mukaan">
 
 <!-- Structure Toolbar Context Menu items -->
