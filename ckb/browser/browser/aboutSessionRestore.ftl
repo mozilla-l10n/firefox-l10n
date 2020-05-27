@@ -21,10 +21,10 @@ restore-page-list-header =
     .label = پەنجەرەکان و بازدەرەکان
 restore-page-try-again-button =
     .label = هێنانەوەی دانیشتن
-    .accesskey = R
+    .accesskey = ی
 restore-page-close-button =
     .label = دانیشتنی نوێ پێبکە
-    .accesskey = N
+    .accesskey = ن
 
 ## The following strings are used in about:welcomeback
 
@@ -33,6 +33,6 @@ welcome-back-page-title = سەرکەوتوو بوو!
 welcome-back-page-info = { -brand-short-name } ئێستا ئامادەیە بۆ ڕۆشتن.
 welcome-back-restore-button =
     .label = با بڕۆین!
-    .accesskey = L
+    .accesskey = ۆ
 welcome-back-restore-all-label = هەموو پەنجەرە و بازدەرەکان بهێنەوە
 welcome-back-restore-some-label = تەنها ئەوە بهێنەوە کە خۆت دەتەوێت

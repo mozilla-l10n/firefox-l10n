@@ -5,7 +5,7 @@
 about-private-browsing-learn-more = زیاتر بزانە دەربارەی <a data-l10n-name="learn-more">گەڕانی تایبەت</a>.
 about-private-browsing-info-visited = پەڕەی سەردانکراو
 privatebrowsingpage-open-private-window-label = لە پەنجەرەیەکی تایبەت بیکەرەوە
-    .accesskey = P
+    .accesskey = پ
 about-private-browsing-info-notsaved = کاتێک دەگەڕێیت بە بەکارهێنانی پەنجەرەی تایبەت ،{ -brand-short-name } <strong> ئەم زانیاریانە پاشەکەوت ناکات</strong>:
 about-private-browsing-search-placeholder = بە وێبدا بگەڕێ
 about-private-browsing-info-bookmarks = دڵخوازەکان
