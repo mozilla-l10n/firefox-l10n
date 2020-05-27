@@ -162,6 +162,9 @@ password-warning =
     }
 monitor-no-breaches-title = Bon novas!
 monitor-breaches-unresolved-title = Resolver tu violationes
+monitor-manage-breaches-link = Gerer violationes
+    .title = Gerer violationes sur { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Optimo! Tu ha resolvite tote le violationes.
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
