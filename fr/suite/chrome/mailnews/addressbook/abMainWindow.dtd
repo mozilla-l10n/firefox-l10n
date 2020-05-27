@@ -7,24 +7,24 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Ce carnet d’adresses affiche uniquement les contacts lorsque vous effectuez une recherche">
+<!ENTITY localResultsOnlyMessage.label                  "Les contacts des carnets d’adresses distants n’apparaissent que lorsque vous effectuez une recherche">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Contact…">
-<!-- LOCALIZATION NOTE (newContact.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newContact.accesskey                           "n">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Liste de diffusion…">
-<!-- LOCALIZATION NOTE (newListCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newListCmd.accesskey                           "l">
 <!ENTITY newAddressBookCmd.label                        "Carnet d’adresses…">
 <!ENTITY newAddressBookCmd.accesskey                    "C">
 <!ENTITY newLDAPDirectoryCmd.label                      "Annuaire LDAP…">
-<!-- LOCALIZATION NOTE (newLDAPDirectoryCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "A">
 <!ENTITY newIM.label                                    "MI">
 <!ENTITY printContactViewCmd.label                      "Imprimer la fiche…">
 <!ENTITY printContactViewCmd.accesskey                  "p">
+<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printPreviewContactViewCmd.label               "Aperçu de la fiche avant impression">
 <!ENTITY printPreviewContactViewCmd.accesskey           "d">
-<!ENTITY printContactViewCmd.key                        "P">
 <!ENTITY printAddressBook.label                         "Imprimer le carnet d’adresses…">
 <!ENTITY printAddressBook.accesskey                     "a">
 <!ENTITY printPreviewAddressBook.label                  "Aperçu du carnet d’adresses avant impression">
@@ -40,7 +40,6 @@
 <!ENTITY swapFirstNameLastNameCmd.label                 "Intervertir nom/prénom">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "v">
 <!ENTITY propertiesCmd.label                            "Modifier…">
-<!-- LOCALIZATION NOTE (propertiesCmd.accesskey) : DONT_TRANSLATE -->
 <!ENTITY propertiesCmd.accesskey                        "i">
 <!ENTITY propertiesCmd.key                              "i">
 
@@ -85,6 +84,8 @@
 <!ENTITY deleteItemButton.accesskey                     "r">
 <!ENTITY newimButton.label                              "Message instantané">
 <!ENTITY newimButton.accesskey                          "s">
+<!ENTITY printButton.label                              "Imprimer">
+<!ENTITY printButton.accesskey                          "r">
 <!ENTITY searchNameAndEmail.placeholder                 "Rechercher dans le nom et l’adresse électronique">
 <!ENTITY searchBox.title                                "Rechercher">
 
@@ -95,6 +96,7 @@
 <!ENTITY editItemButton.tooltip                         "Modifier l’élément sélectionné">
 <!ENTITY newmsgButton.tooltip                           "Écrire un courrier à la sélection">
 <!ENTITY newIM.tooltip                                  "Envoyer un message instantané ou lancer une discussion">
+<!ENTITY printButton.tooltip                            "Imprimer l’élément sélectionné">
 <!ENTITY deleteItemButton.tooltip                       "Supprimer l’élément sélectionné">
 <!ENTITY throbber.tooltip                               "Visiter le site web de &vendorShortName;">
 <!ENTITY throbber.tooltip2                              "Visiter le site web de &brandShortName;">
@@ -108,6 +110,7 @@
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Domicile">
 <!ENTITY other.heading                                  "Autre">
+<!ENTITY chat.heading                                   "Discussion">
 <!ENTITY phone.heading                                  "Téléphone">
 <!ENTITY work.heading                                   "Travail">
 <!-- Special Box Headings, for mailing lists -->
