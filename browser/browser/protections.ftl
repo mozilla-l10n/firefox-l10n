@@ -169,7 +169,7 @@ monitor-breaches-resolved-description = Nếu email của bạn xuất hiện tr
 # $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
 monitor-partial-breaches-title =
     { $numBreaches ->
-       *[other] { $numResolvedBreaches } trong số { $numBreaches } vụ rò rỉ đã được đánh dấu là giải quyết
+       *[other] { $numBreachesResolved } trong số { $numBreaches } vụ rò rỉ đã được đánh dấu là giải quyết
     }
 # Variables:
 # $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
