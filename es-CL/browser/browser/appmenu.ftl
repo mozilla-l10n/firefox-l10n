@@ -8,6 +8,7 @@
 appmenuitem-protection-report-title = Protecciones de privacidad
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Revisa tu reporte de privacidad
+appmenuitem-protection-dashboard-title = Panel de protecciones
 
 ## Zoom Controls
 
@@ -20,3 +21,11 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ahora
+
+## What's New panel in App menu.
+
+# Checkbox displayed at the bottom of the What's New panel, allowing users to
+# enable/disable What's New notifications.
+whatsnew-panel-footer-checkbox =
+    .label = Notificar sobre nuevas funciones
+    .accesskey = f
