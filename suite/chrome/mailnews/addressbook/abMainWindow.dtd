@@ -7,9 +7,12 @@
 
 <!-- Menus:  the . means that the menu item isn't implemented yet -->
 
+<!ENTITY blankResultsPaneMessage.label                  "Este catálogo de endereços mostra contatos somente após uma pesquisa">
+<!ENTITY localResultsOnlyMessage.label                  "Contatos de catálogos de endereços remotos só são mostrados quando você faz uma pesquisa">
 <!-- File Menu -->
 <!ENTITY newContact.label                               "Contato…">
 <!ENTITY newContact.accesskey                           "C">
+<!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Lista de emails…">
 <!ENTITY newListCmd.accesskey                           "L">
 <!ENTITY newAddressBookCmd.label                        "Catálogo...">
