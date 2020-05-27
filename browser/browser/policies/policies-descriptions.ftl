@@ -88,7 +88,7 @@ policy-PasswordManagerEnabled = Aktivera att spara lösenord i lösenordshantera
 # PDF.js and PDF should not be translated
 policy-PDFjs = Inaktivera eller konfigurera PDF.js, den inbyggda PDF-visaren i { -brand-short-name }
 policy-Permissions2 = Konfigurera behörigheter för kamera, mikrofon, plats, aviseringar och autoplay.
-policy-PictureInPicture = Aktivera eller inaktivera Bild-i-bild.
+policy-PictureInPicture = Aktivera eller inaktivera bild-i-bild.
 policy-PopupBlocking = Tillåt vissa webbplatser att visa popup-fönster som standard.
 policy-Preferences = Ställ in och lås värdet för en delmängd av inställningar.
 policy-PromptForDownloadLocation = Fråga var du ska spara filer när du laddar ner.
