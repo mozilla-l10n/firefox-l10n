@@ -266,9 +266,19 @@ popup-select-microphone =
     .value = Да якога мікрафона даць доступ:
     .accesskey = М
 popup-all-windows-shared = Усе бачныя вокны на вашым экране будуць абагулены.
+popup-screen-sharing-not-now =
+    .label = Не цяпер
+    .accesskey = ц
+popup-screen-sharing-never =
+    .label = Ніколі не дазваляць
+    .accesskey = і
 
 ## WebRTC window or screen share tab switch warning
 
+sharing-warning-proceed-to-tab =
+    .label = Перайсці на картку
+sharing-warning-disable-for-session =
+    .label = Адключыць ахову агульнага доступу на гэты сеанс
 
 ## DevTools F12 popup
 
