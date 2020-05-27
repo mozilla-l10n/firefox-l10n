@@ -50,6 +50,7 @@
 <!ENTITY folderProps.name.label                  "Isem:">
 <!ENTITY folderProps.name.accesskey              "I">
 <!ENTITY folderProps.color.label                 "Ini n tegnit:">
+<!ENTITY folderProps.color.accesskey             "I">
 <!ENTITY folderProps.reset.tooltip               "Err-d ini amezwer">
 <!ENTITY folderProps.location.label              "Adig:">
 <!ENTITY folderProps.location.accesskey          "A">
