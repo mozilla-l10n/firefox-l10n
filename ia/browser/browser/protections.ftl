@@ -120,6 +120,8 @@ monitor-link = Como illo functiona
 monitor-header-content-no-account = Consulta { -monitor-brand-name } pro vider si tu ha essite parte de un violation cognoscite de datos e reciper avisos sur nove violationes.
 monitor-header-content-signed-in = { -monitor-brand-name } te adverti si tu information ha apparite in un violation cognoscite de datos.
 monitor-sign-up = Inscriber te al Avisos de violation
+monitor-sign-up-link = Inscriber te al Avisos de violation
+    .title = Inscriber te al Avisos de violation sur { -monitor-brand-name }
 auto-scan = Controlate automaticamente hodie
 monitor-emails-tooltip =
     .title = Vider le adresses de e-mail surveliate sur { -monitor-brand-short-name }
@@ -161,6 +163,8 @@ password-warning =
        *[other] Credentiales salvate ha forsan essite exponite in un violation de datos. Cambia iste contrasignos pro melior securitate online. <a data-l10n-name="lockwise-link">Vide credentiales salvate</a>
     }
 monitor-no-breaches-title = Bon novas!
+monitor-view-report-link = Vider reporto
+    .title = Resolve violationes sur { -monitor-brand-short-name }
 monitor-breaches-unresolved-title = Resolver tu violationes
 monitor-manage-breaches-link = Gerer violationes
     .title = Gerer violationes sur { -monitor-brand-short-name }
