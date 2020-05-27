@@ -278,6 +278,10 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } n’affiche
 ## WebRTC window or screen share tab switch warning
 
 sharing-warning-screen = Vous partagez votre écran. D’autres personnes peuvent voir quand vous changez d’onglet.
+sharing-warning-proceed-to-tab =
+    .label = Passer à l’onglet
+sharing-warning-disable-for-session =
+    .label = Désactiver la protection de partage pour cette session
 
 ## DevTools F12 popup
 

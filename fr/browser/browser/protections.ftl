@@ -37,7 +37,10 @@ etp-card-title = Protection renforcée contre le pistage
 etp-card-content = Les traqueurs vous suivent en ligne pour collecter des informations sur vos habitudes de navigation et vos centres d’intérêt. { -brand-short-name } bloque un grand nombre de ces traqueurs et de scripts malveillants.
 protection-report-webpage-title = Tableau de bord des protections
 protection-report-page-content-title = Tableau de bord des protections
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } peut protéger votre vie privée en arrière-plan pendant que vous naviguez. Voici un résumé personnalisé de ces protections, avec des outils pour prendre le contrôle de votre sécurité en ligne.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } protège votre vie privée en arrière-plan pendant que vous naviguez. Voici un résumé personnalisé de ces protections, avec des outils pour prendre le contrôle de votre sécurité en ligne.
 protection-report-settings-link = Gérer vos paramètres de confidentialité et de sécurité
 etp-card-title-always = Protection renforcée contre le pistage : toujours activée
 etp-card-title-custom-not-blocking = Protection renforcée contre le pistage : DÉSACTIVÉE
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Détecteurs d’empreinte numérique
 fingerprinter-tab-content = Les détecteurs d’empreinte numérique recueillent les paramètres de votre navigateur et de votre ordinateur pour créer un profil de vous. En utilisant cette empreinte numérique, ils peuvent vous pister sur différents sites web. <a data-l10n-name="learn-more-link">En savoir plus</a>
 cryptominer-tab-title = Mineurs de cryptomonnaies
 cryptominer-tab-content = Les mineurs de cryptomonnaies utilisent la puissance de calcul de votre système pour « extraire » de l’argent numérique. Les scripts de cryptominage déchargent votre batterie, ralentissent votre ordinateur et peuvent augmenter votre facture énergétique. <a data-l10n-name="learn-more-link">En savoir plus</a>
-protections-close-button =
-    .aria-label = Fermer
 protections-close-button2 =
     .aria-label = Fermer
     .title = Fermer
@@ -121,6 +122,8 @@ monitor-link = Principes de fonctionnement
 monitor-header-content-no-account = Consultez { -monitor-brand-name } pour vérifier si une fuite de données vous concerne et pour recevoir des alertes en cas de nouvelles fuites.
 monitor-header-content-signed-in = { -monitor-brand-name } vous alerte si vos informations apparaissent dans une fuite de données connue
 monitor-sign-up = S’inscrire aux alertes de fuites de données
+monitor-sign-up-link = S’inscrire aux alertes de fuites de données
+    .title = S’inscrire aux alertes de fuites de données sur { -monitor-brand-name }
 auto-scan = Vérifiées aujourd’hui automatiquement
 monitor-emails-tooltip =
     .title = Afficher les adresses électroniques surveillées sur { -monitor-brand-short-name }
@@ -161,6 +164,7 @@ password-warning =
         [one] mot de passe enregistré peut avoir été compromis par une fuite de données. Changez ce mot de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
        *[other] mots de passe enregistrés peuvent avoir été compromis par une fuite de données. Changez ces mots de passe pour une sécurité en ligne accrue. <a data-l10n-name="lockwise-link">Voir les mots de passe enregistrés</a>
     }
+monitor-no-breaches-title = Bonne nouvelle !
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
