@@ -280,7 +280,7 @@ popup-silence-notifications-checkbox-warning = { -brand-short-name } kommer inte
 sharing-warning-window = Du delar { -brand-short-name }. Andra kan se när du byter till en ny flik.
 sharing-warning-screen = Du delar hela skärmen. Andra kan se när du byter till en ny flik.
 sharing-warning-proceed-to-tab =
-    .label = Fortsätt till Flik
+    .label = Fortsätt till flik
 sharing-warning-disable-for-session =
     .label = Inaktivera delningsskydd för den här sessionen
 
