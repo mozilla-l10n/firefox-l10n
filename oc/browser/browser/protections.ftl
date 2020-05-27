@@ -167,6 +167,7 @@ monitor-view-report-link = Veire lo rapòrt
 monitor-partial-breaches-percentage = { $percentageResolved }% acabat
 monitor-partial-breaches-motivation-title-start = Bona debuta !
 monitor-partial-breaches-motivation-title-middle = Gardatz lo ritme !
+monitor-partial-breaches-motivation-title-end = Gaireben terminat ! Anem !
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
