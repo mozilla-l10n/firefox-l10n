@@ -35,7 +35,10 @@ etp-card-title = Trình chống theo dõi nâng cao
 etp-card-content = Trình theo dõi theo bạn trên mạng để thu thập thông tin về thói quen và sở thích duyệt web của bạn. { -brand-short-name } chặn nhiều trình theo dõi và các tập lệnh độc hại khác.
 protection-report-webpage-title = Bảng điều khiển bảo vệ
 protection-report-page-content-title = Bảng điều khiển bảo vệ
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } có thể bảo vệ quyền riêng tư của bạn đằng sau hậu trường trong khi bạn duyệt. Đây là bản tóm tắt được cá nhân hóa về các biện pháp bảo vệ đó, bao gồm các công cụ để kiểm soát an ninh trực tuyến của bạn.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } có thể bảo vệ quyền riêng tư của bạn đằng sau hậu trường trong khi bạn duyệt. Đây là bản tóm tắt được cá nhân hóa về các biện pháp bảo vệ đó, bao gồm các công cụ để kiểm soát an ninh trực tuyến của bạn.
 protection-report-settings-link = Quản lý cài đặt bảo mật và quyền riêng tư của bạn
 etp-card-title-always = Trình chống theo dõi nâng cao: Luôn bật
 etp-card-title-custom-not-blocking = Trình chống theo dõi nâng cao: TẮT
@@ -57,8 +60,6 @@ fingerprinter-tab-title = Vân tay
 fingerprinter-tab-content = Dấu vân tay thu thập cài đặt từ trình duyệt và máy tính của bạn để tạo hồ sơ về bạn. Sử dụng dấu vân tay kỹ thuật số này, họ có thể theo dõi bạn trên các trang web khác nhau. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
 cryptominer-tab-title = Tiền điện tử
 cryptominer-tab-content = Tiền điện tử sử dụng sức mạnh tính toán của hệ thống của bạn để khai thác tiền kỹ thuật số. Các tập lệnh mã hóa làm cạn kiệt pin của bạn, làm chậm máy tính của bạn và có thể tăng hóa đơn năng lượng của bạn. <a data-l10n-name="learn-more-link">Tìm hiểu thêm</a>
-protections-close-button =
-    .aria-label = Đóng
 protections-close-button2 =
     .aria-label = Đóng
     .title = Đóng
@@ -115,6 +116,8 @@ monitor-link = Nó hoạt động như thế nào
 monitor-header-content-no-account = Kiểm tra tại { -monitor-brand-name } để xem bạn có phải là một phần của rò rỉ dữ liệu hay không và nhận thông báo về các rò rỉ mới.
 monitor-header-content-signed-in = { -monitor-brand-name } cảnh báo bạn nếu thông tin của bạn xuất hiện trong một vụ rò rỉ dữ liệu đã biết.
 monitor-sign-up = Đăng ký cảnh báo vụ rò rỉ
+monitor-sign-up-link = Đăng ký cảnh báo vụ rò rỉ
+    .title = Đăng ký cảnh báo vụ rò rỉ trên { -monitor-brand-name }
 auto-scan = Tự động quét ngày hôm nay
 monitor-emails-tooltip =
     .title = Xem địa chỉ email được giám sát trên { -monitor-brand-short-name }
@@ -151,6 +154,32 @@ password-warning =
     { $count ->
        *[other] Thông tin đăng nhập đã lưu có thể đã bị lộ trong một vụ rò rỉ dữ liệu. Thay đổi các mật khẩu này để bảo mật trực tuyến tốt hơn. <a data-l10n-name="lockwise-link">Xem thông tin đăng nhập đã lưu</a>
     }
+monitor-no-breaches-title = Tin tốt!
+monitor-no-breaches-description = Bạn không có vụ rò rỉ nào được biết đến. Nếu có, chúng tôi sẽ cho bạn biết.
+monitor-view-report-link = Xem báo cáo
+    .title = Giải quyết rò rỉ trên { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Giải quyết rò rỉ dữ liệu của bạn
+monitor-breaches-unresolved-description = Sau khi xem xét chi tiết rò rỉ và thực hiện các bước để bảo vệ thông tin của bạn, bạn có thể đánh dấu các rò rỉ là đã được giải quyết.
+monitor-manage-breaches-link = Quản lí vụ rò rỉ
+    .title = Quản lí các vụ rò rỉ trên { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Tốt! Bạn đã giải quyết tất cả các rò rỉ được biết đến.
+monitor-breaches-resolved-description = Nếu email của bạn xuất hiện trong bất kỳ rò rỉ mới, chúng tôi sẽ cho bạn biết.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+       *[other] { $numResolvedBreaches } trong số { $numBreaches } vụ rò rỉ đã được đánh dấu là giải quyết
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% hoàn thành
+monitor-partial-breaches-motivation-title-start = Khởi đầu tuyệt vời!
+monitor-partial-breaches-motivation-title-middle = Hãy giữ nó!
+monitor-partial-breaches-motivation-title-end = Sắp xong! Hãy giữ nó.
+monitor-partial-breaches-motivation-desc = Giải quyết các rò rỉ còn lại của bạn trên { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Giải quyết các rò rỉ
+    .title = Giải quyết các rò rỉ trên { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
