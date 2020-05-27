@@ -84,6 +84,7 @@ redirectLoop-title = Questa pagina non reindirizza in modo corretto
 unknownSocketType-title = Risposta imprevista del server
 nssFailure2-title = Connessione sicura non riuscita
 cspBlocked-title = Bloccato dai criteri sulla sicurezza dei contenuti
+csp-xfo-error-title = Impossibile aprire questa pagina in { -brand-short-name }
 xfoBlocked-title = Bloccato dal criterio X-Frame-Options
 corruptedContentError-title = Errore contenuto danneggiato
 remoteXUL-title = XUL remoto
