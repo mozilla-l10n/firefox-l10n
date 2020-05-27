@@ -37,7 +37,10 @@ etp-card-title = Verbeterde bescherming tegen volgen
 etp-card-content = Trackers volgen u online om gegevens over uw surfgedrag en interesses te verzamelen. { -brand-short-name } blokkeert veel van deze trackers en andere kwaadwillende scripts.
 protection-report-webpage-title = Beveiligingsdashboard
 protection-report-page-content-title = Beveiligingsdashboard
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } kan achter de schermen uw privacy beschermen terwijl u surft. Dit is een gepersonaliseerde samenvatting van die bescherming, inclusief hulpmiddelen om grip te krijgen op uw online beveiliging.
+# This message shows when at least some protections are turned on, we are more assertive compared to the message above, Firefox is actively protecting you.
+protection-report-page-summary-default = { -brand-short-name } beschermt achter de schermen uw privacy terwijl u surft. Dit is een gepersonaliseerde samenvatting van die bescherming, inclusief hulpmiddelen om grip te krijgen op uw online beveiliging.
 protection-report-settings-link = Uw privacy- en beveiligingsinstellingen beheren
 etp-card-title-always = Verbeterde bescherming tegen beveiliging: altijd aan
 etp-card-title-custom-not-blocking = Verbeterde bescherming tegen volgen: UIT
@@ -59,8 +62,6 @@ fingerprinter-tab-title = Fingerprinters
 fingerprinter-tab-content = Fingerprinters verzamelen instellingen van uw browser en computer om een profiel van u te maken. Met behulp van deze digitale vingerafdruk kunnen ze u op verschillende websites volgen. <a data-l10n-name="learn-more-link">Meer info</a>
 cryptominer-tab-title = Cryptominers
 cryptominer-tab-content = Cryptominers gebruiken de rekenkracht van uw systeem om digitale valuta te genereren. Cryptominer-scripts trekken uw accu leeg, vertragen uw computer en kunnen uw energierekening omhoog jagen. <a data-l10n-name="learn-more-link">Meer info</a>
-protections-close-button =
-    .aria-label = Sluiten
 protections-close-button2 =
     .aria-label = Sluiten
     .title = Sluiten
@@ -121,6 +122,8 @@ monitor-link = Hoe het werkt
 monitor-header-content-no-account = Kijk op { -monitor-brand-name } om te zien of u getroffen bent door een bekend datalek en ontvang waarschuwingen over nieuwe datalekken.
 monitor-header-content-signed-in = { -monitor-brand-name } waarschuwt u als uw gegevens voorkomen in een bekend datalek.
 monitor-sign-up = Inschrijven voor waarschuwingen over datalekken
+monitor-sign-up-link = Inschrijven voor waarschuwingen over datalekken
+    .title = Inschrijven voor waarschuwingen over datalekken op { -monitor-brand-name }
 auto-scan = Vandaag automatisch gescand
 monitor-emails-tooltip =
     .title = Bekijk gecontroleerde e-mailadressen op { -monitor-brand-short-name }
@@ -161,6 +164,33 @@ password-warning =
         [one] opgeslagen aanmelding is mogelijk gelekt in een datalek. Wijzig dit wachtwoord voor betere online beveiliging. <a data-l10n-name="lockwise-link">Opgeslagen aanmeldingen bekijken</a>
        *[other] opgeslagen aanmeldingen zijn mogelijk gelekt in een datalek. Wijzig deze wachtwoorden voor betere online beveiliging. <a data-l10n-name="lockwise-link">Opgeslagen aanmeldingen bekijken</a>
     }
+monitor-no-breaches-title = Goed nieuws!
+monitor-no-breaches-description = U bent niet door bekende datalekken getroffen. Als dit wijzigt, dan laten we het u weten.
+monitor-view-report-link = Rapport bekijken
+    .title = Datalekken oplossen op { -monitor-brand-short-name }
+monitor-breaches-unresolved-title = Uw datalekken oplossen
+monitor-breaches-unresolved-description = Nadat u de details over een datalek hebt bekeken en stappen om uw gegevens te beschermen hebt genomen, kunt u lekken als opgelost markeren.
+monitor-manage-breaches-link = Datalekken beheren
+    .title = Datalekken beheren op { -monitor-brand-short-name }
+monitor-breaches-resolved-title = Mooi! U hebt alle bekende datalekken opgelost.
+monitor-breaches-resolved-description = Als uw e-mailadres voorkomt in nieuwe datalekken, dan laten we u dat weten.
+# Variables:
+# $numBreachesResolved (Number) - Number of breaches marked as resolved by the user on Monitor.
+# $numBreaches (Number) - Number of breaches in which a user's data was involved, detected by Monitor.
+monitor-partial-breaches-title =
+    { $numBreaches ->
+        [one] { $numBreachesResolved } van { $numBreaches } lek als opgelost gemarkeerd
+       *[other] { $numBreachesResolved } van { $numBreaches } lekken als opgelost gemarkeerd
+    }
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% voltooid
+monitor-partial-breaches-motivation-title-start = Prima begin!
+monitor-partial-breaches-motivation-title-middle = Ga zo door!
+monitor-partial-breaches-motivation-title-end = Bijna klaar! Ga zo door.
+monitor-partial-breaches-motivation-desc = Los de rest van uw lekken op op { -monitor-brand-short-name }
+monitor-resolve-breaches-link = Datalekken oplossen
+    .title = Datalekken oplossen op { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
