@@ -9,5 +9,9 @@
 # translation, we'll move it to the locales folder.
 
 webrtc-stop-sharing-button = Cessar de compartir
+webrtc-microphone-button =
+    .title = Tu microphono va ser compartite. Clicca pro controlar le compartimento.
+webrtc-camera-button =
+    .title = Tu camera va ser compartite. Clicca pro controlar le compartimento.
 webrtc-minimize =
     .title = Reducer a icone le indicator

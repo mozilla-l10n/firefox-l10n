@@ -169,6 +169,12 @@ monitor-breaches-unresolved-title = Resolver tu violationes
 monitor-manage-breaches-link = Gerer violationes
     .title = Gerer violationes sur { -monitor-brand-short-name }
 monitor-breaches-resolved-title = Optimo! Tu ha resolvite tote le violationes.
+# Variables:
+# $percentageResolved (Number) - Percentage of breaches marked as resolved by a user on Monitor.
+monitor-partial-breaches-percentage = { $percentageResolved }% complete
+monitor-partial-breaches-motivation-title-start = Comencia!
+monitor-partial-breaches-motivation-title-middle = Continua assi!
+monitor-partial-breaches-motivation-title-end = Quasi finite. Continua assi!
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
