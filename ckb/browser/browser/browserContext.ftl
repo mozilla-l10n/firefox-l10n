@@ -313,4 +313,4 @@ main-context-menu-inspect-a11y-properties =
     .label = تایبەتمەندی بەدەستگەیشتنی بەدواداچوون
 main-context-menu-eme-learn-more =
     .label = زیاتر بزانە دەربارەی DRM...
-    .accesskey = D
+    .accesskey = ز

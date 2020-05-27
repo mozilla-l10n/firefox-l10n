@@ -138,10 +138,10 @@ page-action-remove-extension =
 
 full-screen-autohide =
     .label = شاردنەوەی توڵامراز
-    .accesskey = H
+    .accesskey = ش
 full-screen-exit =
     .label = لە دۆخی پڕاوپڕی شاشە دەرچۆ
-    .accesskey = F
+    .accesskey = د
 
 ## Search Engine selection buttons (one-offs)
 
@@ -156,19 +156,19 @@ search-one-offs-change-settings-compact-button =
     .tooltiptext = گۆڕینی ڕێکخستنەکانی گەڕان
 search-one-offs-context-open-new-tab =
     .label = گەڕان لە بازدەری نوێ
-    .accesskey = T
+    .accesskey = گ
 search-one-offs-context-set-as-default =
     .label = بیکە بە گەڕۆکی سەرەکی
-    .accesskey = D
+    .accesskey = ۆ
 search-one-offs-context-set-as-default-private =
     .label = بزوێنەری سەرەکی گەڕان دابنێ بۆ پەنجەرەی تایبەت
-    .accesskey = P
+    .accesskey = پ
 
 ## Bookmark Panel
 
 bookmark-panel-show-editor-checkbox =
     .label = دەستکاریکەر پیشان بدە کاتێک پاشەکەوتی دەکەیت
-    .accesskey = S
+    .accesskey = س
 bookmark-panel-done-button =
     .label = تەواو
 # Width of the bookmark panel.
@@ -201,15 +201,15 @@ identity-connection-verified = تۆ بە پارێزراوی بەستراوی ب�
 identity-ev-owner-label = بڕوانامە دراوە لە لایەن:
 identity-remove-cert-exception =
     .label = سڕینەوەی هەڵاوێردی
-    .accesskey = R
+    .accesskey = ڵ
 identity-learn-more =
     .value = زیاتر بزانە
 identity-disable-mixed-content-blocking =
     .label = پارێزگاری ناچالاک بکە لە ئێستادا
-    .accesskey = D
+    .accesskey = پ
 identity-enable-mixed-content-blocking =
     .label = پارێزگاری چالاک بکە
-    .accesskey = E
+    .accesskey = چ
 identity-more-info-link-text =
     .label = زانیاری زیاتر
 
@@ -228,11 +228,17 @@ browser-window-close-button =
 
 popup-select-camera =
     .value = کامێرا بۆ بڵاوکردنەوە
-    .accesskey = C
+    .accesskey = ک
 popup-select-microphone =
     .value = مایکرۆفۆن بۆ بڵاوکردنەوە
-    .accesskey = M
+    .accesskey = م
 popup-all-windows-shared = هەموو پەنجەرە نیشاندراوەکانت بڵاودەکرێتەوە.
+popup-screen-sharing-not-now =
+    .label = ئێستا نا
+    .accesskey = ئ
+popup-screen-sharing-never =
+    .label = هەرگیز ڕێگە مەدە
+    .accesskey = م
 
 ## WebRTC window or screen share tab switch warning
 
