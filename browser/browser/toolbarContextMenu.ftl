@@ -44,3 +44,6 @@ toolbar-context-menu-auto-hide-downloads-button =
 toolbar-context-menu-remove-from-toolbar =
     .label = Убрать с панели инструментов
     .accesskey = и
+toolbar-context-menu-view-customize-toolbar =
+    .label = Персонализация…
+    .accesskey = о

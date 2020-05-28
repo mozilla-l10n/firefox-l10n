@@ -9,6 +9,8 @@ appmenuitem-protection-report-title = Защита приватности
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Перейти к вашему отчету по приватности
 appmenuitem-protection-dashboard-title = Панель защиты
+appmenuitem-customize-mode =
+    .label = Персонализация…
 
 ## Zoom Controls
 
