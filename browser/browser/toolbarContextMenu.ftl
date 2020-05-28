@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Arvi torna o feuggio serou
     .accesskey = A
+toolbar-context-menu-view-customize-toolbar =
+    .label = Personalizza…
+    .accesskey = P
