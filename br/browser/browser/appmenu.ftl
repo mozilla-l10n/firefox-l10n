@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Gwarez ar vuhez prevez
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Mont d'ho tanevell war ar vuhez prevez
+appmenuitem-customize-mode =
+    .label = Personelaat…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Goubredañ bremañ
+
+## What's New panel in App menu.
+
