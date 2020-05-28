@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Dadwneud Cau'r Tab
     .accesskey = D
+toolbar-context-menu-remove-from-toolbar =
+    .label = Tynnu o'r Bar Offer
+    .accesskey = T
