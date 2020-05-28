@@ -11,3 +11,7 @@ accounts-incoming-server = Մուտքային սպասարկիչ
 accounts-outgoing-servers = Ելից սպասարկիչ
 accounts-server-name = Անուն
 accounts-conn-security = Միացման անվտանգութիւն
+accounts-auth-method = Նույնականացման եղանակ
+accounts-default = Լռելեյայն
+identity-name = Ինքնութիւն
+send-via-email = Ուղարկեք Ել․փոստով
