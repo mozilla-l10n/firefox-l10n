@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Kumoa välilehden sulkeminen
     .accesskey = m
+toolbar-context-menu-remove-from-toolbar =
+    .label = Poista työkalupalkista
+    .accesskey = P
