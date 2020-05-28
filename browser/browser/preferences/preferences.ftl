@@ -558,6 +558,7 @@ search-show-suggestions-above-history-option =
 search-show-suggestions-private-windows =
     .label = Mostrar sugestões de pesquisa em janelas privativas
 suggestions-addressbar-settings = Alterar preferências de sugestões de histórico de navegação, favoritos e abas
+suggestions-addressbar-settings-generic = Alterar preferências de outras sugestões da barra de endereços
 search-suggestions-cant-show = As sugestões de pesquisa não serão mostradas nos resultados da barra de endereço, porque você configurou o { -brand-short-name } para nunca memorizar o histórico.
 search-one-click-header = Mecanismos de pesquisa em um clique
 search-one-click-desc = Escolha os mecanismos de pesquisa alternativos que aparecem abaixo da barra de endereços e da barra de pesquisa quando você começa a digitar um atalho.
@@ -910,6 +911,9 @@ addressbar-locbar-bookmarks-option =
 addressbar-locbar-openpage-option =
     .label = Abas abertas
     .accesskey = A
+addressbar-locbar-topsites-option =
+    .label = Sites preferidos
+    .accesskey = S
 addressbar-suggestions-settings = Alterar preferências de sugestões de mecanismos de pesquisa
 
 ## Privacy Section - Content Blocking
