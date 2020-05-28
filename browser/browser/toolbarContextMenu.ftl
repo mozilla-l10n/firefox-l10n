@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Zacynjony rejtarik wótnowiś
     .accesskey = c
+toolbar-context-menu-remove-from-toolbar =
+    .label = Ze symboloweje rědki wótpóraś
+    .accesskey = Z
