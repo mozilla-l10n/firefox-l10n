@@ -29,3 +29,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = साधनपट्टीतून काढून टाका
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = मनपसंत करा…
+    .accesskey = C
