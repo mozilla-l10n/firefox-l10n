@@ -19,3 +19,5 @@ webrtc-microphone-button =
     .title = Din mikrofon delas. Klicka för att kontrollera delning.
 webrtc-camera-button =
     .title = Din kamera delas. Klicka för att kontrollera delning.
+webrtc-minimize =
+    .title = Minimera indikatorn
