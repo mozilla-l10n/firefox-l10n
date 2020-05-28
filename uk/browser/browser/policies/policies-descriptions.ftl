@@ -63,6 +63,7 @@ policy-ExtensionSettings = Керувати всіма аспектами вст
 policy-ExtensionUpdate = Увімкнути чи вимкнути автоматичне оновлення розширень.
 policy-FirefoxHome = Налаштувати Домівку Firefox
 policy-FlashPlugin = Дозволити або заборонити використання плагіна Flash.
+policy-Handlers = Налаштуйте стандартні обробники програм.
 policy-HardwareAcceleration = Значення false вимикає апаратне прискорення.
 # “lock” means that the user won’t be able to change this setting
 policy-Homepage = Встановити і за бажанням заблокувати домівку.

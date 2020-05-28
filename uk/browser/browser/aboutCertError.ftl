@@ -56,6 +56,9 @@ cert-error-details-hsts-label = Примусове захищене з'єдна�
 cert-error-details-key-pinning-label = HTTP Прикріплення публічного ключа: { $hasHPKP }
 cert-error-details-cert-chain-label = Ланцюжок сертифіката:
 open-in-new-window-for-csp-or-xfo-error = Відкрити сайт у новому вікні
+# Variables:
+# $hostname (String) - Hostname of the website blocked by csp or xfo error.
+csp-xfo-blocked-long-desc = Щоб захистити вашу безпеку, { $hostname } не дозволятиме { -brand-short-name } показувати сторінку, якщо її вбудовано на іншому сайті. Щоб побачити цю сторінку, її потрібно відкрити в новому вікні.
 
 ## Messages used for certificate error titles
 
