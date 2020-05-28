@@ -5,3 +5,15 @@
 toolbar-context-menu-undo-close-tab =
     .label = Врати го затвореното јазиче
     .accesskey = з
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Прикачи во дополнително мени
+    .accesskey = П
+toolbar-context-menu-remove-from-toolbar =
+    .label = Отстрани од алатник
+    .accesskey = О
+toolbar-context-menu-view-customize-toolbar =
+    .label = Прилагоди…
+    .accesskey = р
