@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Ochrana súkromia
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Prejsť na prehľad ochrany súkromia
+appmenuitem-customize-mode =
+    .label = Prispôsobiť…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Synchronizovať teraz
+
+## What's New panel in App menu.
+
