@@ -23,3 +23,6 @@ toolbar-context-menu-undo-close-tab =
 toolbar-context-menu-remove-from-toolbar =
     .label = Eltávolítás az eszköztárról
     .accesskey = e
+toolbar-context-menu-view-customize-toolbar =
+    .label = Testreszabás…
+    .accesskey = T
