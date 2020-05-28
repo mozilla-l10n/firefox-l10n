@@ -5,3 +5,9 @@
 toolbar-context-menu-undo-close-tab =
     .label = बन्न टैबकेँ फिनु घुराबू (U)
     .accesskey = U
+toolbar-context-menu-remove-from-toolbar =
+    .label = अओजारपट्टी सँ निकालू (R)
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = मनपसिन्न बनाउ…
+    .accesskey = C
