@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Dizober Serriñ an ivinell
     .accesskey = z
+toolbar-context-menu-remove-from-toolbar =
+    .label = Lemel diouzh ar varrenn ostilhoù
+    .accesskey = o
