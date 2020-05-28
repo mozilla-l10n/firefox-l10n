@@ -121,6 +121,10 @@
 <!ENTITY Notes.label                    "Aantekeningen">
 <!ENTITY Notes.accesskey                "A">
 
+<!ENTITY Chat.tab                       "Chat">
+<!ENTITY Gtalk.label                    "Google Talk:">
+<!ENTITY Gtalk.accesskey                "G">
+<!ENTITY AIM.label                      "AIM:">
 
 <!ENTITY Photo.tab                      "Foto">
 <!ENTITY Photo.accesskey                "F">
