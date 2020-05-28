@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Жекелікті қорғау
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Жекелік есептемесіне өту
+appmenuitem-customize-mode =
+    .label = Баптау…
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Қазір синхрондау
+
+## What's New panel in App menu.
+
