@@ -20,3 +20,12 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Qapatılğan İlmekni Keri Aç
     .accesskey = r
+# Can appear on the same context menu as menubarCmd ("Menu Bar") and
+# personalbarCmd ("Bookmarks Toolbar"), so they should have different
+# access keys.
+toolbar-context-menu-pin-to-overflow-menu =
+    .label = Taşqın Menüsine Tüyre
+    .accesskey = r
+toolbar-context-menu-remove-from-toolbar =
+    .label = Alet Çubuğından Çetleştir
+    .accesskey = Ç
