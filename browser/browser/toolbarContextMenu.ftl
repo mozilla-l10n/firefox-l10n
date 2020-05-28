@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Desfés el tancament de la pestanya
     .accesskey = D
+toolbar-context-menu-remove-from-toolbar =
+    .label = Elimina de la barra d'eines
+    .accesskey = E
