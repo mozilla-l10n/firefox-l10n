@@ -39,11 +39,11 @@ etp-card-title = Узмоцненая ахова ад сачэння
 etp-card-content = Трэкеры ідуць за вамі па сеціве, каб сабраць інфармацыю пра вашыя звычкі і зацікаўленасці. { -brand-short-name } блакуе многія з гэтых трэкераў і іншых зламысных скрыптоў.
 protection-report-webpage-title = Панэль стану аховы
 protection-report-page-content-title = Панэль стану аховы
+# This message shows when all privacy protections are turned off, which is why we use the word "can", Firefox is able to protect your privacy, but it is currently not.
 protection-report-page-summary = { -brand-short-name } можа ахоўваць вашу прыватнасць за кадрам падчас аглядання. Гэта персаналізаваная зводка аб ахове, уключна з інструментамі для кантролю вашай бяспекі ў Інтэрнэце.
 protection-report-settings-link = Кіруйце сваімі наладамі прыватнасці і бяспекі
 etp-card-title-always = Узмоцненая ахова ад сачэння: заўсёды ўключана
 etp-card-title-custom-not-blocking = Узмоцненая ахова ад сачэння: ВЫКЛЮЧАНА
-etp-card-content-summary = Калі нераспазнаныя кампаніі спрабуюць таемна сачыць за вамі ў Інтэрнэце, { -brand-short-name } аўтаматычна спыняе многія з іх.
 protection-report-etp-card-content-custom-not-blocking = Усе меры аховы зараз адключаны. Выберыце, якія трэкеры трэба заблакаваць, кіруючы наладамі аховы { -brand-short-name }.
 protection-report-manage-protections = Кіраваць наладамі
 # This string is used to label the X axis of a graph. Other days of the week are generated via Intl.DateTimeFormat,
@@ -61,8 +61,6 @@ fingerprinter-tab-title = Збіральнікі адбіткаў пальцаў
 fingerprinter-tab-content = Збіральнікі адбіткаў пальцаў збіраюць налады вашага браўзера і камп'ютара для стварэння вашага профілю. Выкарыстоўваючы гэты лічбавы адбітак, яны могуць асочваць вас на розных сайтах. <a data-l10n-name="learn-more-link">Даведацца больш</a>
 cryptominer-tab-title = Майнеры крыптавалют
 cryptominer-tab-content = Майнеры крыптавалют выкарыстоўваюць вылічальную магутнасць вашай сістэмы, каб здабываць лічбавыя грошы. Скрыпты для здабычы крыптавалют разраджаюць вашу батарэю, запавольваюць працу камп'ютара і могуць павялічыць ваш выдаткі на электраэнергію. <a data-l10n-name="learn-more-link">Даведацца больш</a>
-protections-close-button =
-    .aria-label = Закрыць
 protections-close-button2 =
     .aria-label = Закрыць
     .title = Закрыць
@@ -171,6 +169,9 @@ password-warning =
         [few] Захаваныя лагіны могуць быць раскрыты пры ўцечцы дадзеных. Змяніце гэтыя паролі для лепшай бяспекі ў сеціве. <a data-l10n-name="lockwise-link">Паглядзець захаваныя лагіны</a>
        *[many] Захаваныя лагіны могуць быць раскрыты пры ўцечцы дадзеных. Змяніце гэтыя паролі для лепшай бяспекі ў сеціве. <a data-l10n-name="lockwise-link">Паглядзець захаваныя лагіны</a>
     }
+monitor-no-breaches-title = Добрыя навіны!
+monitor-view-report-link = Паглядзець справаздачу
+    .title = Вырашыць праблемы, звязаныя з уцечкамі звестак, на { -monitor-brand-short-name }
 
 ## The title attribute is used to display the type of protection.
 ## The aria-label is spoken by screen readers to make the visual graph accessible to blind users.
