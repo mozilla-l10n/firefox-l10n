@@ -12,12 +12,9 @@ login-app-promo-android =
     .alt = Disponible sus Google Play
 login-app-promo-apple =
     .alt = Telecargar de l’App Store
-
 login-filter =
     .placeholder = Recercar d’identificants
-
 create-login-button = Crear un identificant novèl
-
 fxaccounts-sign-in-text = Accedissètz a vòstres senhals sus vòstres periferics
 fxaccounts-sign-in-button = Se connectar a { -sync-brand-short-name }
 fxaccounts-avatar-button =
@@ -73,7 +70,7 @@ login-intro-description = Se salvatz vòstres identificants dins { -brand-produc
 login-intro-instruction-fxa = Connectatz-vos o creatz un { -fxaccount-brand-name } ont son salvats los identificants.
 login-intro-instruction-fxa-settings = Asseguratz-vos qu’avètz seleccionat la casa dels identificants dins los paramètres de { -sync-brand-short-name }
 about-logins-intro-instruction-help = Consultatz <a data-l10n-name="help-link">l’assiténcia de { -lockwise-brand-short-name } per d’ajudar</a>
-about-logins-intro-import = Se vòstres identificants son salvats dins un autre navegador, podètz <a data-l10n-name="import-link">los importar dins{ -lockwise-brand-short-name }</a>
+about-logins-intro-import = Se vòstres identificants son salvats dins un autre navegador, podètz <a data-l10n-name="import-link">los importar dins { -lockwise-brand-short-name }</a>
 
 ## Login
 
@@ -108,27 +105,16 @@ about-logins-os-auth-dialog-caption = { -brand-full-name }
 ## and includes subtitle of "Enter password for the user "xxx" to allow this." These
 ## notes are only valid for English. Please test in your respected locale.
 
-# This message can be seen by attempting to edit a login in about:logins
-about-logins-edit-login-os-auth-dialog-message = Verificatz vòstra identitat per modificar los identificants salvats.
-
 # This message can be seen when attempting to edit a login in about:logins on Windows.
 about-logins-edit-login-os-auth-dialog-message-win = Per modificar vòstres identificants, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
 # This message can be seen when attempting to edit a login in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-edit-login-os-auth-dialog-message-macosx = modificar l’identificant salvat
-
-# This message can be seen by attempting to reveal a password in about:logins
-about-logins-reveal-password-os-auth-dialog-message = Verificatz vòstra identitat per revelar lo senhal salvat.
-
 # This message can be seen when attempting to reveal a password in about:logins on Windows.
 about-logins-reveal-password-os-auth-dialog-message-win = Per veire vòstre senhal, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
 # This message can be seen when attempting to reveal a password in about:logins
 # On MacOS, only provide the reason that account verification is needed. Do not put a complete sentence here.
 about-logins-reveal-password-os-auth-dialog-message-macosx = revelar lo senhal salvat
-
-# This message can be seen by attempting to copy a password in about:logins
-about-logins-copy-password-os-auth-dialog-message = Verificatz vòstra identitat per copiar lo senhal salvat.
-
 # This message can be seen when attempting to copy a password in about:logins on Windows.
 about-logins-copy-password-os-auth-dialog-message-win = Per copiar vòstre senhal, picatz vòstras informacions de connexion Windows. Aquò permet de servar la seguretat dels comptes.
 # This message can be seen when attempting to copy a password in about:logins
@@ -165,11 +151,9 @@ about-logins-enable-password-sync-dont-ask-again-button =
 confirmation-dialog-cancel-button = Anullar
 confirmation-dialog-dismiss-button =
     .title = Anullar
-
 about-logins-confirm-remove-dialog-title = Suprimir aqueste identificant ?
 confirm-delete-dialog-message = Aquesta accion es irreversibla.
 about-logins-confirm-remove-dialog-confirm-button = Suprimir
-
 confirm-discard-changes-dialog-title = Ignorar las modificacions pas enregistradas ?
 confirm-discard-changes-dialog-message = Totas las modificacions pas enregistradas seràn perdudas.
 confirm-discard-changes-dialog-confirm-button = Ignorar
@@ -200,6 +184,5 @@ about-logins-vulnerable-alert-learn-more-link = Ne saber mai
 # Variables:
 #   $loginTitle (String) - The title of the website associated with the login.
 about-logins-error-message-duplicate-login-with-link = Existís ja una entrada per { $loginTitle } amb aqueste nom d’utilizaire.<a data-l10n-name="duplicate-link">Accedir a l’entrada existenta ?
-
 # This is a generic error message.
 about-logins-error-message-default = Una error s’es producha en enregistrant aqueste senhal.
