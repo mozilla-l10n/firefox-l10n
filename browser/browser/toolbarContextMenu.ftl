@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Deshacer el cierre de la última pestaña
     .accesskey = D
+toolbar-context-menu-remove-from-toolbar =
+    .label = Quitar de la barra de herramientas
+    .accesskey = Q
