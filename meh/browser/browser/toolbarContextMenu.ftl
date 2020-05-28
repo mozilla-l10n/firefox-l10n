@@ -14,3 +14,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Tanɨ nakasɨ nuu nɨ'ɨ pestaña
     .accesskey = T
+toolbar-context-menu-view-customize-toolbar =
+    .label = Sá´á vii
+    .accesskey = P

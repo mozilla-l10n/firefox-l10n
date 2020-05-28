@@ -8,6 +8,8 @@
 appmenuitem-protection-report-title = Protecciones de privacidad
 appmenuitem-protection-report-tooltip =
     .tooltiptext = Kua´an nuu reporte privacidad noo´o
+appmenuitem-customize-mode =
+    .label = Sá´á vii
 
 ## Zoom Controls
 
@@ -20,3 +22,6 @@ appmenuitem-zoom-reduce =
 
 fxa-toolbar-sync-now =
     .label = Sincronizar ntañu´u
+
+## What's New panel in App menu.
+
