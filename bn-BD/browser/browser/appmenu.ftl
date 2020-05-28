@@ -5,10 +5,16 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = নিজের পছন্দানুযায়ী নির্বাচন…
 
 ## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = এখন সিঙ্ক
+
+## What's New panel in App menu.
+
