@@ -20,3 +20,6 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Ljepblêd slute ûngedien meitsje
     .accesskey = m
+toolbar-context-menu-remove-from-toolbar =
+    .label = Fuortsmite fan arkbalke
+    .accesskey = r
