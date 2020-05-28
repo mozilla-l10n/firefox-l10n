@@ -5,3 +5,9 @@
 toolbar-context-menu-undo-close-tab =
     .label = Vxites wãtajna jiçxa aphna nmejte txundenxi's
     .accesskey = V
+toolbar-context-menu-remove-from-toolbar =
+    .label = Khũkhna vxisnxi's takhya'
+    .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = Pekxkĩiçxaa
+    .accesskey = P

@@ -5,10 +5,16 @@
 
 ## App Menu
 
+appmenuitem-customize-mode =
+    .label = Pekxkĩiçxaa
 
 ## Zoom Controls
+
 
 ## Firefox Account toolbar button and Sync panel in App menu.
 
 fxa-toolbar-sync-now =
     .label = Ãçxh kãjãdan
+
+## What's New panel in App menu.
+
