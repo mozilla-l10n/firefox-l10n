@@ -20,12 +20,27 @@ toolbar-context-menu-select-all-tabs =
 toolbar-context-menu-undo-close-tab =
     .label = Відновити закриту вкладку
     .accesskey = В
+toolbar-context-menu-manage-extension =
+    .label = Керувати розширенням
+    .accesskey = К
+toolbar-context-menu-remove-extension =
+    .label = Вилучити розширення
+    .accesskey = л
+# This label is used in the extensions toolbar buttons context menus,
+# a user can use this command to submit to Mozilla an abuse report
+# related to that extension. "Report" is a verb.
+toolbar-context-menu-report-extension =
+    .label = Поскаржитись на розширення
+    .accesskey = с
 # Can appear on the same context menu as menubarCmd ("Menu Bar") and
 # personalbarCmd ("Bookmarks Toolbar"), so they should have different
 # access keys.
 toolbar-context-menu-pin-to-overflow-menu =
     .label = Прикріпити до розширеного меню
     .accesskey = к
+toolbar-context-menu-auto-hide-downloads-button =
+    .label = Автоматично приховувати в панелі інструментів
+    .accesskey = п
 toolbar-context-menu-remove-from-toolbar =
     .label = Вилучити з панелі
     .accesskey = В
