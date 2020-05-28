@@ -14,3 +14,6 @@ toolbar-context-menu-pin-to-overflow-menu =
 toolbar-context-menu-remove-from-toolbar =
     .label = මෙවලම් තීරුවෙන්න ඉවත් කරන්න
     .accesskey = R
+toolbar-context-menu-view-customize-toolbar =
+    .label = රිසිකරණය...
+    .accesskey = C
